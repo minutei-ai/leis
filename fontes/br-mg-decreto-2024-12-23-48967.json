@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-12-23-48967",
+  "titulo": "DEC nº 48967, de 23/12/2024",
+  "data": "2024-12-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48967/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48967/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a5c830ef0645d970b83e7e674add4e1f02fe69faa72fe7a5713727624bf5008a",
+  "coletado_em": "2026-10-21T08:43:28.340Z",
+  "sha256_fonte": "689d37bf3032cd8862307206b2ab9415d5c836f027a6fb0237be72016c3a52bd",
+  "sha256_markdown": "980f433e8b6d46c0f020101e0d6cca99c3fd3c8926a638027260703e53556e18"
+}

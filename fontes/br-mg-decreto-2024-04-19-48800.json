@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-04-19-48800",
+  "titulo": "DEC nº 48800, de 19/04/2024",
+  "data": "2024-04-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48800/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48800/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2608b2e70c4f9b804c6a991fcec09fa70259a29f2a5df8c4a01c5e90d0f72183",
+  "coletado_em": "2026-10-21T08:38:13.885Z",
+  "sha256_fonte": "362caff257ffb173e0bbea0ecea21f15771fc9482d44748da3b37af6bc5a3fb9",
+  "sha256_markdown": "8cf5bc0f01573d23c1c0ce7dfc8da131dd7a3d589a4451568a931c9916dc3ea1"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-04-04-14544",
+  "titulo": "Lei nº 14.544 de 04/04/2023",
+  "data": "2023-04-04",
+  "fonte": "https://normas.leg.br/api/public/binario/9fce2425-c7d9-42cd-af89-df8f1b1072b5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-04-04;14544",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-04-04%3B14544&tipo_documento=maior-detalhe",
+  "sha256_dados": "053c37ea2a406d9c1d933f76bb466b62c973d79e05b5702f4ac5d4e96a3274d8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:38.916Z",
+  "sha256_fonte": "c7b0babead574cfca1b3053acd9f50de159069359969eecca443ba93330c4c7f",
+  "sha256_markdown": "8ca3b67069611d8a48b8b835e699c686eda9a87366ea5cd6a282e419f2c220bd"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-12-25625",
+  "titulo": "LEI nº 25625, de 12/12/2025",
+  "data": "2025-12-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25625/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25625/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f051ad962cf47f0a0df006e9a2c4e6402af5329562144cc895875395a5f9bc15",
+  "coletado_em": "2026-10-21T08:36:01.584Z",
+  "sha256_fonte": "73bc98ab3b8221cee46dd09d4f7b5be4339154add4f90d802f5be16d92ba5faa",
+  "sha256_markdown": "bbe8eefa4e29c45ab22334d7f069457ea080ecf4e9d5591719008ff32040ac61"
+}

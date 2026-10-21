@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-23-14495",
+  "titulo": "Lei nº 14.495 de 23/12/2022",
+  "data": "2022-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/16772ba9-89d0-4ff5-9153-8eb07256ac67/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-23;14495",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-23%3B14495&tipo_documento=maior-detalhe",
+  "sha256_dados": "26770741bbcb46dc208f621caa07bc0c054fb714b4fed56ccf305f824aeb32de",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:43.898Z",
+  "sha256_fonte": "29c4f6d8802a51e81a6e355eee2aa3bd17c5944623464b06ee56d092fb2f5363",
+  "sha256_markdown": "47cd113b478e87ac52e9437e328f943b5aa78a6d1f2c2d13c8b4cd662379c7ea"
+}

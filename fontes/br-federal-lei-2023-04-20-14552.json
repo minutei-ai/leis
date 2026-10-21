@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-04-20-14552",
+  "titulo": "Lei nº 14.552 de 20/04/2023",
+  "data": "2023-04-20",
+  "fonte": "https://normas.leg.br/api/public/binario/9ed22344-9aeb-4159-b322-5f9881578269/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-04-20;14552",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-04-20%3B14552&tipo_documento=maior-detalhe",
+  "sha256_dados": "c24d91304cba6ed9151e0f09fcf123d0aa743b91b49ea1324ec7d90db78db226",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:26.778Z",
+  "sha256_fonte": "8353724a48747d50ed3f3a53bec0df5d5ae00c09b8481a146f7acfb4b11d595e",
+  "sha256_markdown": "967a875a460f1fccbd78ecb62ffd8c2036d22a05647eadd50f578379ba1de26d"
+}

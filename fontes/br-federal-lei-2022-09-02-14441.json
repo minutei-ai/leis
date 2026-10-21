@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-09-02-14441",
+  "titulo": "Lei nº 14.441 de 02/09/2022",
+  "data": "2022-09-02",
+  "fonte": "https://normas.leg.br/api/public/binario/2cb8411b-7f15-4696-8932-88b32bd13f38/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-09-02;14441",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-09-02%3B14441&tipo_documento=maior-detalhe",
+  "sha256_dados": "087b429dc32aaeb563dfdf68bb11f99d7e404e4e4a056c8cd8a2e8f96df5f864",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:52.828Z",
+  "sha256_fonte": "356fffea7496b7e3edd133aacd60627356c9132ff28788afed0fd0bbfcde4a9c",
+  "sha256_markdown": "319c7d66f78376b57a3fb5ab9331629d422634b1258c89a92ea26e4f85c50c73"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-23-14658",
+  "titulo": "Lei nº 14.658 de 23/08/2023",
+  "data": "2023-08-23",
+  "fonte": "https://normas.leg.br/api/public/binario/2d10f25c-bfaf-4003-bd1d-28a47d08cda2/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-23;14658",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-23%3B14658&tipo_documento=maior-detalhe",
+  "sha256_dados": "278bb0a5573062ebc4669019d66f320d50526b9647663230ca1d18c2ee57f854",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:14.527Z",
+  "sha256_fonte": "b91949d37e2eae3e1cec614472f0e975719c90476b86cc0526527cc6ab238676",
+  "sha256_markdown": "a4cd1360ecaf2fa88818bd618e712ca392729a3be37f9f0bcab6c11e76713a9c"
+}

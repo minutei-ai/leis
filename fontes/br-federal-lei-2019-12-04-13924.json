@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-04-13924",
+  "titulo": "Lei nº 13.924 de 04/12/2019",
+  "data": "2019-12-04",
+  "fonte": "https://normas.leg.br/api/public/binario/d1c90b35-f372-4bbc-bdb8-90ef1e91ec61/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-04;13924",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-04%3B13924&tipo_documento=maior-detalhe",
+  "sha256_dados": "6092e607207e71497af9abfe6a59d8161f5a4db528f36dd6b16312650395edd3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:45:05.098Z",
+  "sha256_fonte": "927bd39d00e9a3c18af881f0a036981d3ff4f4578fb4d6917ea36ff79342b668",
+  "sha256_markdown": "c3a1d4a36822eaf08dd35654e6c31b2b8a4b726a1e9e6dd8230859cdb231e092"
+}

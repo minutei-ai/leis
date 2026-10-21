@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-10-23-49115",
+  "titulo": "DEC nº 49115, de 23/10/2025",
+  "data": "2025-10-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49115/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49115/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8354df3b043a8b8deae5875eb9628f1749066ba879b580a09143b7a213ff0588",
+  "coletado_em": "2026-10-21T08:35:10.670Z",
+  "sha256_fonte": "44b8a6695075c3680f4a8fd1c6041548c70c937806b23655252cdeae4f6e9398",
+  "sha256_markdown": "7f7c7352fbfd8b4368c7efe6cd3557c17fa7fe2e7bf194d43fab574032d63ef0"
+}

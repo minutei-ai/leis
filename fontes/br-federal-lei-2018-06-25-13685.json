@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-06-25-13685",
+  "titulo": "Lei nº 13.685 de 25/06/2018",
+  "data": "2018-06-25",
+  "fonte": "https://normas.leg.br/api/public/binario/45faccf3-9ed3-48cf-891a-fcaf5df46f2e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-06-25;13685",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-06-25%3B13685&tipo_documento=maior-detalhe",
+  "sha256_dados": "befc579ce34da72c6aa710cfaec55d93ef6b55bc69337afba2d6eb054bf301ee",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:11.904Z",
+  "sha256_fonte": "c75da7ccbb2dd4b838dcfc07d696b021dbb2664d3a232bb05da5ded1ba0dbc4c",
+  "sha256_markdown": "80269fb3fd72688015034d021df741bc306eabde18bd78eaf82eb6c8ed6ad78d"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-31-25417",
+  "titulo": "LEI nº 25417, de 31/07/2025",
+  "data": "2025-07-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25417/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25417/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "424be0895403554e165ee7cb1b55c3bc9a9330c3ed011b93b9d0a4372ab21db8",
+  "coletado_em": "2026-10-21T08:33:21.982Z",
+  "sha256_fonte": "d7d180b537c6b4c833f4c08c878861a3053815ad91746dcbd33376317ce9a9ec",
+  "sha256_markdown": "37907171ad47cfd65d051acba74ddac0ef2fde9b7e6c528126cb993bf1a6ee4c"
+}

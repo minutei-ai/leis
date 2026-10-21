@@ -1,0 +1,29 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1978",
+  "tipo": "EMC",
+  "ano": 1978,
+  "coletado_em": "2026-10-21T08:40:07.756Z",
+  "normas": [
+    {
+      "senadoId": "593610",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1978-10-17-12",
+      "titulo": "Emenda Constitucional nº 12 de 17/10/1978",
+      "data": "1978-10-17",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1978-10-17;12",
+      "ementa": "Assegura aos Deficientes a melhoria de sua condição social e econômica."
+    },
+    {
+      "senadoId": "593607",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1978-10-13-11",
+      "titulo": "Emenda Constitucional nº 11 de 13/10/1978",
+      "data": "1978-10-13",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1978-10-13;11",
+      "ementa": "Altera dispositivos da Constituição Federal."
+    }
+  ],
+  "pendencias": []
+}

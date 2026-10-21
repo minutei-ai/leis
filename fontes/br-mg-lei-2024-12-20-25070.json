@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-12-20-25070",
+  "titulo": "LEI nº 25070, de 20/12/2024",
+  "data": "2024-12-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25070/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25070/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8dd5ec6389a4dc62e6259ba5d66fa8ac8f120a3d995560e8d674bf88d202ea3e",
+  "coletado_em": "2026-10-21T08:43:17.322Z",
+  "sha256_fonte": "962beb493af8e6ed0a7791b7a091b1486350fd316fc06b165643e12677b9d931",
+  "sha256_markdown": "b316ca3ee6921be613dbe1010bc223779692eddf536b1096713f2ffc86c56e84"
+}

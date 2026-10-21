@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-11-25622",
+  "titulo": "LEI nº 25622, de 11/12/2025",
+  "data": "2025-12-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25622/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25622/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f78102530b05923bbd255ae817115eafc8cd6c4bf8562ac5470431e7e05cea15",
+  "coletado_em": "2026-10-21T08:36:01.003Z",
+  "sha256_fonte": "65e6dcbb6a79f628dc9eda559547d6781f5aa0b98b86865ee24b6cc3b30e516f",
+  "sha256_markdown": "f1bb1e8ab564af65e1202843cacebbe7b750e4d7746f168afed4cb3aa5eb3528"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-05-16-14585",
+  "titulo": "Lei nº 14.585 de 16/05/2023",
+  "data": "2023-05-16",
+  "fonte": "https://normas.leg.br/api/public/binario/2c6efa88-cc77-4c3c-b858-90f034032780/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-05-16;14585",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-05-16%3B14585&tipo_documento=maior-detalhe",
+  "sha256_dados": "8fb5f2c39143ad76176afa6a36268e77c4637d3ff2060596b450377757f22e2c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:30:48.454Z",
+  "sha256_fonte": "d48d293be3aac066b7072c942cf809e3f8c279584acc2f1aec97fa32aa44d8c1",
+  "sha256_markdown": "0750d9dbda8304e03f2fd64e53efa8f02e63bea10a49ec9b565da92bb4499e15"
+}

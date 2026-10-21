@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-05-26-49042",
+  "titulo": "DEC nº 49042, de 26/05/2025",
+  "data": "2025-05-26",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49042/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49042/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "de31d892c39667afa5830e934e0c86f8be5b9818c2d2f2528ead42b1abecdbae",
+  "coletado_em": "2026-10-21T08:31:30.676Z",
+  "sha256_fonte": "3863a7470e7bdc5b835cd7bb169253db1e3cc3c189e2c088f0c844322a36e280",
+  "sha256_markdown": "bcf448e3e5853930f61cac8e35fd578b612a0fe24f5a1797706421e1b31b158f"
+}

@@ -1,0 +1,1668 @@
+{
+  "ano_publicacao": 2016,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2016",
+    "ano-final": "31/12/2016",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:45:52.501Z",
+  "total": 273,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "a1328e18b23a2ee8d4e64af43156537a0dcde5df8235d2d5c48e17522ebe84d3"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "b34a7cfdd909abf9e020610c071e928418abf3092d8ae1068879e942e5751ead"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "7fd8e5e714552385a32925df9f0605a47bc2386a820403bd313fa71e815e3310"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16608-de-29-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.608 de 29 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-29-16608",
+      "data": "2016-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16607-de-29-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.607 de 29 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-29-16607",
+      "data": "2016-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16606-de-29-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.606 de 29 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-29-16606",
+      "data": "2016-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16605-de-28-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.605 de 28 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-28-16605",
+      "data": "2016-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16604-de-27-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.604 de 27 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-27-16604",
+      "data": "2016-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16603-de-27-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.603 de 27 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-27-16603",
+      "data": "2016-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16602-de-23-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.602 de 23 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-23-16602",
+      "data": "2016-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16601-de-22-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.601 de 22 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-22-16601",
+      "data": "2016-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16600-de-22-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.600 de 22 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-22-16600",
+      "data": "2016-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16599-de-21-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.599 de 21 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-21-16599",
+      "data": "2016-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16598-de-21-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.598 de 21 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-21-16598",
+      "data": "2016-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16597-de-15-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.597 de 15 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-15-16597",
+      "data": "2016-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16596-de-15-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.596 de 15 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-15-16596",
+      "data": "2016-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16595-de-15-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.595 de 15 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-15-16595",
+      "data": "2016-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16594-de-15-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.594 de 15 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-15-16594",
+      "data": "2016-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16593-de-15-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.593 de 15 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-15-16593",
+      "data": "2016-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16592-de-14-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.592 de 14 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-14-16592",
+      "data": "2016-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16591-de-14-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.591 de 14 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-14-16591",
+      "data": "2016-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16590-de-14-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.590 de 14 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-14-16590",
+      "data": "2016-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16589-de-14-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.589 de 14 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-14-16589",
+      "data": "2016-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16588-de-13-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.588 de 13 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-13-16588",
+      "data": "2016-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16587-de-12-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.587 de 12 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-12-16587",
+      "data": "2016-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16586-de-09-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.586 de 9 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-09-16586",
+      "data": "2016-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16585-de-08-de-dezembro-de-2016",
+      "titulo": "LEI Nº 16.585 de 8 de Dezembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-12-08-16585",
+      "data": "2016-12-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16584-de-29-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.584 de 29 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-29-16584",
+      "data": "2016-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16583-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.583 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16583",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16582-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.582 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16582",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16581-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.581 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16581",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16580-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.580 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16580",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16579-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.579 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16579",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16578-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.578 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16578",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16577-de-21-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.577 de 21 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-21-16577",
+      "data": "2016-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16576-de-18-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.576 de 18 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-18-16576",
+      "data": "2016-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16575-de-18-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.575 de 18 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-18-16575",
+      "data": "2016-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16574-de-18-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.574 de 18 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-18-16574",
+      "data": "2016-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16573-de-18-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.573 de 18 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-18-16573",
+      "data": "2016-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16572-de-18-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.572 de 18 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-18-16572",
+      "data": "2016-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16571-de-17-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.571 de 17 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-17-16571",
+      "data": "2016-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16570-de-11-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.570 de 11 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-11-16570",
+      "data": "2016-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16569-de-08-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.569 de 8 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-08-16569",
+      "data": "2016-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16568-de-07-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.568 de 7 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-07-16568",
+      "data": "2016-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16567-de-07-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.567 de 7 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-07-16567",
+      "data": "2016-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16566-de-07-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.566 de 7 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-07-16566",
+      "data": "2016-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16565-de-07-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.565 de 7 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-07-16565",
+      "data": "2016-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16564-de-07-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.564 de 7 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-07-16564",
+      "data": "2016-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16563-de-07-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.563 de 7 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-07-16563",
+      "data": "2016-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16562-de-03-de-novembro-de-2016",
+      "titulo": "LEI Nº 16.562 de 3 de Novembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-11-03-16562",
+      "data": "2016-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16561-de-29-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.561 de 29 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-29-16561",
+      "data": "2016-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16560-de-27-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.560 de 27 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-27-16560",
+      "data": "2016-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16559-de-27-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.559 de 27 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-27-16559",
+      "data": "2016-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16558-de-27-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.558 de 27 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-27-16558",
+      "data": "2016-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16557-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.557 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16557",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16556-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.556 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16556",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16555-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.555 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16555",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16554-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.554 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16554",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16553-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.553 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16553",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16552-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.552 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16552",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16551-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.551 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16551",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16550-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.550 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16550",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16549-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.549 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16549",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16548-de-23-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.548 de 23 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-23-16548",
+      "data": "2016-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16547-de-21-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.547 de 21 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-21-16547",
+      "data": "2016-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16546-de-21-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.546 de 21 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-21-16546",
+      "data": "2016-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16545-de-20-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.545 de 20 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-20-16545",
+      "data": "2016-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16544-de-20-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.544 de 20 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-20-16544",
+      "data": "2016-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16543-de-09-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.543 de 9 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-09-16543",
+      "data": "2016-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16542-de-09-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.542 de 9 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-09-16542",
+      "data": "2016-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16541-de-08-de-setembro-de-2016",
+      "titulo": "LEI Nº 16.541 de 8 de Setembro de 2016",
+      "id": "br-municipal-3550308-lei-2016-09-08-16541",
+      "data": "2016-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16540-de-31-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.540 de 31 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-31-16540",
+      "data": "2016-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16539-de-24-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.539 de 24 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-24-16539",
+      "data": "2016-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16538-de-24-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.538 de 24 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-24-16538",
+      "data": "2016-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16537-de-24-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.537 de 24 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-24-16537",
+      "data": "2016-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16536-de-24-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.536 de 24 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-24-16536",
+      "data": "2016-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16535-de-24-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.535 de 24 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-24-16535",
+      "data": "2016-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16534-de-08-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.534 de 8 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-08-16534",
+      "data": "2016-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16533-de-08-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.533 de 8 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-08-16533",
+      "data": "2016-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16532-de-08-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.532 de 8 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-08-16532",
+      "data": "2016-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16531-de-08-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.531 de 8 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-08-16531",
+      "data": "2016-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16530-de-08-de-agosto-de-2016",
+      "titulo": "LEI Nº 16.530 de 8 de Agosto de 2016",
+      "id": "br-municipal-3550308-lei-2016-08-08-16530",
+      "data": "2016-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16529-de-26-de-julho-de-2016",
+      "titulo": "LEI Nº 16.529 de 26 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-26-16529",
+      "data": "2016-07-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16528-de-25-de-julho-de-2016",
+      "titulo": "LEI Nº 16.528 de 25 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-25-16528",
+      "data": "2016-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16527-de-25-de-julho-de-2016",
+      "titulo": "LEI Nº 16.527 de 25 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-25-16527",
+      "data": "2016-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16526-de-25-de-julho-de-2016",
+      "titulo": "LEI Nº 16.526 de 25 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-25-16526",
+      "data": "2016-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16525-de-25-de-julho-de-2016",
+      "titulo": "LEI Nº 16.525 de 25 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-25-16525",
+      "data": "2016-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16524-de-25-de-julho-de-2016",
+      "titulo": "LEI Nº 16.524 de 25 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-25-16524",
+      "data": "2016-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16523-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.523 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16523",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16522-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.522 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16522",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16521-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.521 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16521",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16520-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.520 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16520",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16519-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.519 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16519",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16518-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.518 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16518",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16517-de-22-de-julho-de-2016",
+      "titulo": "LEI Nº 16.517 de 22 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-22-16517",
+      "data": "2016-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16516-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.516 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16516",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16515-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.515 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16515",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16514-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.514 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16514",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16513-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.513 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16513",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16512-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.512 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16512",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16511-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.511 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16511",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16510-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.510 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16510",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16509-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.509 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16509",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16508-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.508 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16508",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16507-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.507 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16507",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16506-de-21-de-julho-de-2016",
+      "titulo": "LEI Nº 16.506 de 21 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-21-16506",
+      "data": "2016-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16505-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.505 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16505",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16504-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.504 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16504",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16503-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.503 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16503",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16502-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.502 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16502",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16501-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.501 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16501",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16500-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.500 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16500",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16499-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.499 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16499",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16498-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.498 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16498",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16497-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.497 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16497",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16496-de-20-de-julho-de-2016",
+      "titulo": "LEI Nº 16.496 de 20 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-20-16496",
+      "data": "2016-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16495-de-18-de-julho-de-2016",
+      "titulo": "LEI Nº 16.495 de 18 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-18-16495",
+      "data": "2016-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16494-de-18-de-julho-de-2016",
+      "titulo": "LEI Nº 16.494 de 18 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-18-16494",
+      "data": "2016-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16493-de-18-de-julho-de-2016",
+      "titulo": "LEI Nº 16.493 de 18 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-18-16493",
+      "data": "2016-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16492-de-18-de-julho-de-2016",
+      "titulo": "LEI Nº 16.492 de 18 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-18-16492",
+      "data": "2016-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16491-de-15-de-julho-de-2016",
+      "titulo": "LEI Nº 16.491 de 15 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-15-16491",
+      "data": "2016-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16490-de-15-de-julho-de-2016",
+      "titulo": "LEI Nº 16.490 de 15 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-15-16490",
+      "data": "2016-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16489-de-14-de-julho-de-2016",
+      "titulo": "LEI Nº 16.489 de 14 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-14-16489",
+      "data": "2016-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16488-de-13-de-julho-de-2016",
+      "titulo": "LEI Nº 16.488 de 13 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-13-16488",
+      "data": "2016-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16487-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.487 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16487",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16486-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.486 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16486",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16485-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.485 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16485",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16484-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.484 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16484",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16483-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.483 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16483",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16482-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.482 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16482",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16481-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.481 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16481",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16480-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.480 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16480",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16479-de-12-de-julho-de-2016",
+      "titulo": "LEI Nº 16.479 de 12 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-12-16479",
+      "data": "2016-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16478-de-08-de-julho-de-2016",
+      "titulo": "LEI Nº 16.478 de 8 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-08-16478",
+      "data": "2016-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16477-de-05-de-julho-de-2016",
+      "titulo": "LEI Nº 16.477 de 5 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-05-16477",
+      "data": "2016-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16476-de-05-de-julho-de-2016",
+      "titulo": "LEI Nº 16.476 de 5 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-05-16476",
+      "data": "2016-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16475-de-05-de-julho-de-2016",
+      "titulo": "LEI Nº 16.475 de 5 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-05-16475",
+      "data": "2016-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16474-de-05-de-julho-de-2016",
+      "titulo": "LEI Nº 16.474 de 5 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-05-16474",
+      "data": "2016-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16473-de-05-de-julho-de-2016",
+      "titulo": "LEI Nº 16.473 de 5 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-05-16473",
+      "data": "2016-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16472-de-05-de-julho-de-2016",
+      "titulo": "LEI Nº 16.472 de 5 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-05-16472",
+      "data": "2016-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16471-de-04-de-julho-de-2016",
+      "titulo": "LEI Nº 16.471 de 4 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-04-16471",
+      "data": "2016-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16470-de-04-de-julho-de-2016",
+      "titulo": "LEI Nº 16.470 de 4 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-04-16470",
+      "data": "2016-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16469-de-04-de-julho-de-2016",
+      "titulo": "LEI Nº 16.469 de 4 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-04-16469",
+      "data": "2016-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16468-de-04-de-julho-de-2016",
+      "titulo": "LEI Nº 16.468 de 4 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-04-16468",
+      "data": "2016-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16467-de-01-de-julho-de-2016",
+      "titulo": "LEI Nº 16.467 de 1 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-01-16467",
+      "data": "2016-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16466-de-01-de-julho-de-2016",
+      "titulo": "LEI Nº 16.466 de 1 de Julho de 2016",
+      "id": "br-municipal-3550308-lei-2016-07-01-16466",
+      "data": "2016-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16465-de-28-de-junho-de-2016",
+      "titulo": "LEI Nº 16.465 de 28 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-28-16465",
+      "data": "2016-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16464-de-28-de-junho-de-2016",
+      "titulo": "LEI Nº 16.464 de 28 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-28-16464",
+      "data": "2016-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16463-de-28-de-junho-de-2016",
+      "titulo": "LEI Nº 16.463 de 28 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-28-16463",
+      "data": "2016-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16462-de-28-de-junho-de-2016",
+      "titulo": "LEI Nº 16.462 de 28 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-28-16462",
+      "data": "2016-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16461-de-28-de-junho-de-2016",
+      "titulo": "LEI Nº 16.461 de 28 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-28-16461",
+      "data": "2016-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16460-de-28-de-junho-de-2016",
+      "titulo": "LEI Nº 16.460 de 28 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-28-16460",
+      "data": "2016-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16459-de-20-de-junho-de-2016",
+      "titulo": "LEI Nº 16.459 de 20 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-20-16459",
+      "data": "2016-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16458-de-20-de-junho-de-2016",
+      "titulo": "LEI Nº 16.458 de 20 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-20-16458",
+      "data": "2016-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16457-de-20-de-junho-de-2016",
+      "titulo": "LEI Nº 16.457 de 20 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-20-16457",
+      "data": "2016-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16456-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.456 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16456",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16455-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.455 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16455",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16454-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.454 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16454",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16453-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.453 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16453",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16452-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.452 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16452",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16451-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.451 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16451",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16450-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.450 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16450",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16449-de-13-de-junho-de-2016",
+      "titulo": "LEI Nº 16.449 de 13 de Junho de 2016",
+      "id": "br-municipal-3550308-lei-2016-06-13-16449",
+      "data": "2016-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16448-de-31-de-maio-de-2016",
+      "titulo": "LEI Nº 16.448 de 31 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-31-16448",
+      "data": "2016-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16447-de-31-de-maio-de-2016",
+      "titulo": "LEI Nº 16.447 de 31 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-31-16447",
+      "data": "2016-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16446-de-31-de-maio-de-2016",
+      "titulo": "LEI Nº 16.446 de 31 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-31-16446",
+      "data": "2016-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16445-de-31-de-maio-de-2016",
+      "titulo": "LEI Nº 16.445 de 31 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-31-16445",
+      "data": "2016-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16444-de-31-de-maio-de-2016",
+      "titulo": "LEI Nº 16.444 de 31 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-31-16444",
+      "data": "2016-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16443-de-16-de-maio-de-2016",
+      "titulo": "LEI Nº 16.443 de 16 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-16-16443",
+      "data": "2016-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16442-de-16-de-maio-de-2016",
+      "titulo": "LEI Nº 16.442 de 16 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-16-16442",
+      "data": "2016-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16441-de-16-de-maio-de-2016",
+      "titulo": "LEI Nº 16.441 de 16 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-16-16441",
+      "data": "2016-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16440-de-12-de-maio-de-2016",
+      "titulo": "LEI Nº 16.440 de 12 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-12-16440",
+      "data": "2016-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16439-de-12-de-maio-de-2016",
+      "titulo": "LEI Nº 16.439 de 12 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-12-16439",
+      "data": "2016-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16438-de-05-de-maio-de-2016",
+      "titulo": "LEI Nº 16.438 de 5 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-05-16438",
+      "data": "2016-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16437-de-05-de-maio-de-2016",
+      "titulo": "LEI Nº 16.437 de 5 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-05-16437",
+      "data": "2016-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16436-de-05-de-maio-de-2016",
+      "titulo": "LEI Nº 16.436 de 5 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-05-16436",
+      "data": "2016-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16435-de-05-de-maio-de-2016",
+      "titulo": "LEI Nº 16.435 de 5 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-05-16435",
+      "data": "2016-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16434-de-05-de-maio-de-2016",
+      "titulo": "LEI Nº 16.434 de 5 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-05-16434",
+      "data": "2016-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16433-de-05-de-maio-de-2016",
+      "titulo": "LEI Nº 16.433 de 5 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-05-16433",
+      "data": "2016-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16432-de-04-de-maio-de-2016",
+      "titulo": "LEI Nº 16.432 de 4 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-04-16432",
+      "data": "2016-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16431-de-04-de-maio-de-2016",
+      "titulo": "LEI Nº 16.431 de 4 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-04-16431",
+      "data": "2016-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16430-de-04-de-maio-de-2016",
+      "titulo": "LEI Nº 16.430 de 4 de Maio de 2016",
+      "id": "br-municipal-3550308-lei-2016-05-04-16430",
+      "data": "2016-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16429-de-29-de-abril-de-2016",
+      "titulo": "LEI Nº 16.429 de 29 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-29-16429",
+      "data": "2016-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16428-de-25-de-abril-de-2016",
+      "titulo": "LEI Nº 16.428 de 25 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-25-16428",
+      "data": "2016-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16427-de-20-de-abril-de-2016",
+      "titulo": "LEI Nº 16.427 de 20 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-20-16427",
+      "data": "2016-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16426-de-19-de-abril-de-2016",
+      "titulo": "LEI Nº 16.426 de 19 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-19-16426",
+      "data": "2016-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16425-de-19-de-abril-de-2016",
+      "titulo": "LEI Nº 16.425 de 19 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-19-16425",
+      "data": "2016-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16424-de-13-de-abril-de-2016",
+      "titulo": "LEI Nº 16.424 de 13 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-13-16424",
+      "data": "2016-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16423-de-13-de-abril-de-2016",
+      "titulo": "LEI Nº 16.423 de 13 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-13-16423",
+      "data": "2016-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16422-de-13-de-abril-de-2016",
+      "titulo": "LEI Nº 16.422 de 13 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-13-16422",
+      "data": "2016-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16421-de-08-de-abril-de-2016",
+      "titulo": "LEI Nº 16.421 de 8 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-08-16421",
+      "data": "2016-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16420-de-07-de-abril-de-2016",
+      "titulo": "LEI Nº 16.420 de 7 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-07-16420",
+      "data": "2016-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16419-de-01-de-abril-de-2016",
+      "titulo": "LEI Nº 16.419 de 1 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-01-16419",
+      "data": "2016-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16418-de-01-de-abril-de-2016",
+      "titulo": "LEI Nº 16.418 de 1 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-01-16418",
+      "data": "2016-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16417-de-01-de-abril-de-2016",
+      "titulo": "LEI Nº 16.417 de 1 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-01-16417",
+      "data": "2016-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16416-de-01-de-abril-de-2016",
+      "titulo": "LEI Nº 16.416 de 1 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-01-16416",
+      "data": "2016-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16415-de-01-de-abril-de-2016",
+      "titulo": "LEI Nº 16.415 de 1 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-01-16415",
+      "data": "2016-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16414-de-01-de-abril-de-2016",
+      "titulo": "LEI Nº 16.414 de 1 de Abril de 2016",
+      "id": "br-municipal-3550308-lei-2016-04-01-16414",
+      "data": "2016-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16412-de-31-de-marco-de-2016",
+      "titulo": "LEI Nº 16.412 de 31 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-31-16412",
+      "data": "2016-03-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16413-de-30-de-marco-de-2016",
+      "titulo": "LEI Nº 16.413 de 30 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-30-16413",
+      "data": "2016-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16411-de-30-de-marco-de-2016",
+      "titulo": "LEI Nº 16.411 de 30 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-30-16411",
+      "data": "2016-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16410-de-30-de-marco-de-2016",
+      "titulo": "LEI Nº 16.410 de 30 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-30-16410",
+      "data": "2016-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16409-de-30-de-marco-de-2016",
+      "titulo": "LEI Nº 16.409 de 30 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-30-16409",
+      "data": "2016-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16407-de-30-de-marco-de-2016",
+      "titulo": "LEI Nº 16.407 de 30 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-30-16407",
+      "data": "2016-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16406-de-30-de-marco-de-2016",
+      "titulo": "LEI Nº 16.406 de 30 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-30-16406",
+      "data": "2016-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16405-de-24-de-marco-de-2016",
+      "titulo": "LEI Nº 16.405 de 24 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-24-16405",
+      "data": "2016-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16404-de-23-de-marco-de-2016",
+      "titulo": "LEI Nº 16.404 de 23 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-23-16404",
+      "data": "2016-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16403-de-23-de-marco-de-2016",
+      "titulo": "LEI Nº 16.403 de 23 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-23-16403",
+      "data": "2016-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16402-de-22-de-marco-de-2016",
+      "titulo": "LEI Nº 16.402 de 22 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-22-16402",
+      "data": "2016-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16401-de-10-de-marco-de-2016",
+      "titulo": "LEI Nº 16.401 de 10 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-10-16401",
+      "data": "2016-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16400-de-10-de-marco-de-2016",
+      "titulo": "LEI Nº 16.400 de 10 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-10-16400",
+      "data": "2016-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16399-de-10-de-marco-de-2016",
+      "titulo": "LEI Nº 16.399 de 10 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-10-16399",
+      "data": "2016-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16398-de-09-de-marco-de-2016",
+      "titulo": "LEI Nº 16.398 de 9 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-09-16398",
+      "data": "2016-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16397-de-09-de-marco-de-2016",
+      "titulo": "LEI Nº 16.397 de 9 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-09-16397",
+      "data": "2016-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16408-de-01-de-marco-de-2016",
+      "titulo": "LEI Nº 16.408 de 1 de Março de 2016",
+      "id": "br-municipal-3550308-lei-2016-03-01-16408",
+      "data": "2016-03-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16396-de-25-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.396 de 25 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-25-16396",
+      "data": "2016-02-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16395-de-19-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.395 de 19 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-19-16395",
+      "data": "2016-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16394-de-19-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.394 de 19 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-19-16394",
+      "data": "2016-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16393-de-16-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.393 de 16 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-16-16393",
+      "data": "2016-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16392-de-16-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.392 de 16 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-16-16392",
+      "data": "2016-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16391-de-16-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.391 de 16 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-16-16391",
+      "data": "2016-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16390-de-16-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.390 de 16 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-16-16390",
+      "data": "2016-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16389-de-16-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.389 de 16 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-16-16389",
+      "data": "2016-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16388-de-05-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.388 de 5 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-05-16388",
+      "data": "2016-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16387-de-03-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.387 de 3 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-03-16387",
+      "data": "2016-02-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16386-de-03-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.386 de 3 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-03-16386",
+      "data": "2016-02-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16385-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.385 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16385",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16384-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.384 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16384",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16383-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.383 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16383",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16382-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.382 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16382",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16381-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.381 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16381",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16380-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.380 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16380",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16379-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.379 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16379",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16378-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.378 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16378",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16377-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.377 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16377",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16376-de-01-de-fevereiro-de-2016",
+      "titulo": "LEI Nº 16.376 de 1 de Fevereiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-02-01-16376",
+      "data": "2016-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16375-de-28-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.375 de 28 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-28-16375",
+      "data": "2016-01-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16374-de-21-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.374 de 21 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-21-16374",
+      "data": "2016-01-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16373-de-21-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.373 de 21 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-21-16373",
+      "data": "2016-01-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16372-de-19-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.372 de 19 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-19-16372",
+      "data": "2016-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16371-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.371 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16371",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16370-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.370 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16370",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16369-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.369 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16369",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16368-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.368 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16368",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16367-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.367 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16367",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16366-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.366 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16366",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16365-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.365 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16365",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16364-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.364 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16364",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16363-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.363 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16363",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16362-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.362 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16362",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16361-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.361 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16361",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16360-de-18-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.360 de 18 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-18-16360",
+      "data": "2016-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16359-de-14-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.359 de 14 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-14-16359",
+      "data": "2016-01-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16358-de-13-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.358 de 13 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-13-16358",
+      "data": "2016-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16350-de-12-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.350 de 12 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-12-16350",
+      "data": "2016-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16349-de-11-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.349 de 11 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-11-16349",
+      "data": "2016-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16357-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.357 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16357",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16356-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.356 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16356",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16355-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.355 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16355",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16354-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.354 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16354",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16353-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.353 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16353",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16352-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.352 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16352",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16351-de-07-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.351 de 7 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-07-16351",
+      "data": "2016-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16348-de-06-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.348 de 6 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-06-16348",
+      "data": "2016-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16347-de-05-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.347 de 5 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-05-16347",
+      "data": "2016-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16346-de-04-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.346 de 4 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-04-16346",
+      "data": "2016-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16345-de-04-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.345 de 4 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-04-16345",
+      "data": "2016-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16344-de-04-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.344 de 4 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-04-16344",
+      "data": "2016-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16343-de-04-de-janeiro-de-2016",
+      "titulo": "LEI Nº 16.343 de 4 de Janeiro de 2016",
+      "id": "br-municipal-3550308-lei-2016-01-04-16343",
+      "data": "2016-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16339-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.339 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16339",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16338-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.338 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16338",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14499-de-14-de-setembro-de-2007",
+      "titulo": "LEI Nº 14.499 de 14 de Setembro de 2007",
+      "id": "br-municipal-3550308-lei-2007-09-14-14499",
+      "data": "2007-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13302-de-17-de-janeiro-de-2002",
+      "titulo": "LEI Nº 13.302 de 17 de Janeiro de 2002",
+      "id": "br-municipal-3550308-lei-2002-01-17-13302",
+      "data": "2002-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13022-de-18-de-julho-de-2000",
+      "titulo": "Lei Nº 13.022 de 18 de Julho de 2000",
+      "id": "br-municipal-3550308-lei-2000-07-18-13022",
+      "data": "2000-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12616-de-04-de-maio-de-1998",
+      "titulo": "Lei Nº 12.616 de 4 de Maio de 1998",
+      "id": "br-municipal-3550308-lei-1998-05-04-12616",
+      "data": "1998-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12477-de-22-de-setembro-de-1997",
+      "titulo": "LEI Nº 12.477 de 22 de Setembro de 1997",
+      "id": "br-municipal-3550308-lei-1997-09-22-12477",
+      "data": "1997-09-22"
+    }
+  ],
+  "pendencias": []
+}

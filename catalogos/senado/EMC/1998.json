@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1998",
+  "tipo": "EMC",
+  "ano": 1998,
+  "coletado_em": "2026-10-21T08:39:50.731Z",
+  "normas": [
+    {
+      "senadoId": "540615",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1998-12-15-20",
+      "titulo": "Emenda Constitucional nº 20 de 15/12/1998",
+      "data": "1998-12-15",
+      "numero": "20",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1998-12-15;20",
+      "ementa": "Modifica o sistema de previdência social, estabelece normas de transição e dá outras providências."
+    },
+    {
+      "senadoId": "540612",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1998-06-04-19",
+      "titulo": "Emenda Constitucional nº 19 de 04/06/1998",
+      "data": "1998-06-04",
+      "numero": "19",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1998-06-04;19",
+      "ementa": "Modifica o regime e dispõe sobre princípio e normas da Administração Pública, Servidores e Agentes políticos, controle de despesas e finanças públicas e custeio de atividades a cargo do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "540609",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1998-02-05-18",
+      "titulo": "Emenda Constitucional nº 18 de 05/02/1998",
+      "data": "1998-02-05",
+      "numero": "18",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1998-02-05;18",
+      "ementa": "Dispõe sobre o regime constitucional dos militares."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-07-03-14914",
+  "titulo": "Lei nº 14.914 de 03/07/2024",
+  "data": "2024-07-03",
+  "fonte": "https://normas.leg.br/api/public/binario/6691c66b-9f64-4e09-89d9-298b7cb6b3ea/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-07-03;14914",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-07-03%3B14914&tipo_documento=maior-detalhe",
+  "sha256_dados": "53ff438561dda719bd9c2ad238cb83e49b105d7f18f775635f58161d20591566",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:23:47.886Z",
+  "sha256_fonte": "d392a8b68124e2ea372b6f4614a51fba1d06e3171d0534d5ca7f34dc6d3fad65",
+  "sha256_markdown": "f5bf36ab399e97cfbf997dfa7c6b45a2b5373ebfb4b0b62e223dfb7164aa4897"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-21-14481",
+  "titulo": "Lei nº 14.481 de 21/12/2022",
+  "data": "2022-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/0e70942d-f833-4ef1-8b48-2843362c1c18/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-21;14481",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-21%3B14481&tipo_documento=maior-detalhe",
+  "sha256_dados": "900f8e74fdf12a2b69f9475baa214cb4d7a7971eae9593d633faf977b9909a90",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:01.104Z",
+  "sha256_fonte": "956d73a3c9d823280fd618aa663367f013fe4519345a377c01cd3c2d19838b79",
+  "sha256_markdown": "fc88a9da1a960f566ea2921fa1aa34f92aaee6346aaffadc7728922e70ce76e1"
+}

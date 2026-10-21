@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-04-09-49214",
+  "titulo": "DEC nº 49214, de 09/04/2026",
+  "data": "2026-04-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49214/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49214/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "5e4e81b4454baf983477abb341c6c690ae7ea82b911b04ca40f9fd6a8a824b9d",
+  "coletado_em": "2026-10-21T08:26:29.697Z",
+  "sha256_fonte": "fdf124c3ba64fd21594f1f41c98563412a03050efa82162c13ced9af80edd403",
+  "sha256_markdown": "23524e742e33203093308ab03b28f1ae9182808350bbc0cb3db638dac0c10dc1"
+}

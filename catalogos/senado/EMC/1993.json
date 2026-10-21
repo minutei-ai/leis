@@ -1,0 +1,29 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1993",
+  "tipo": "EMC",
+  "ano": 1993,
+  "coletado_em": "2026-10-21T08:39:54.848Z",
+  "normas": [
+    {
+      "senadoId": "593587",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1993-09-14-4",
+      "titulo": "Emenda Constitucional nº 4 de 14/09/1993",
+      "data": "1993-09-14",
+      "numero": "4",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1993-09-14;4",
+      "ementa": "Dá nova redação ao art. 16 da Constituição Federal."
+    },
+    {
+      "senadoId": "593584",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1993-03-17-3",
+      "titulo": "Emenda Constitucional nº 3 de 17/03/1993",
+      "data": "1993-03-17",
+      "numero": "3",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1993-03-17;3",
+      "ementa": "Altera os arts. 40, 42, 102, 103, 150, 155, 156, 160, 167 da Constituição Federal."
+    }
+  ],
+  "pendencias": []
+}

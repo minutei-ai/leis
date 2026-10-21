@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-07-30-13862",
+  "titulo": "Lei nº 13.862 de 30/07/2019",
+  "data": "2019-07-30",
+  "fonte": "https://normas.leg.br/api/public/binario/66908bca-6fa1-441a-9edf-4f85f33a745a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-07-30;13862",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-07-30%3B13862&tipo_documento=maior-detalhe",
+  "sha256_dados": "ee6ae9ac06bc4ddf7e7d4aa51a7e1c359c4ed100a5ec91a47239cc1c296d846a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:46:22.046Z",
+  "sha256_fonte": "85342a791db158551c15be95bec3a69d0c893a0e428ec7be8dd296ef875296b1",
+  "sha256_markdown": "561356359d428377861a8674bb23eb575c16dc69a85b7ebf786cebe13f86eef7"
+}

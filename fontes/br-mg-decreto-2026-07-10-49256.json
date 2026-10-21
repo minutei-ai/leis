@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-07-10-49256",
+  "titulo": "DEC nº 49256, de 10/07/2026",
+  "data": "2026-07-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49256/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49256/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a194b10353fd50b7e6199713df26ccf87546f6b2e4aa84b92af5299b28d2d1da",
+  "coletado_em": "2026-10-21T08:28:07.236Z",
+  "sha256_fonte": "6e9ab1735ed00be349e4b97e45911cd1aba48412a23c0498430074fe700259b0",
+  "sha256_markdown": "943bd86c3b03df9e11bc0db51a218b72753f0c57726963a48ebb131522cd7af5"
+}

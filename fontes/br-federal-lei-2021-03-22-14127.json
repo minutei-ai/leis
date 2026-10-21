@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-03-22-14127",
+  "titulo": "Lei nº 14.127 de 22/03/2021",
+  "data": "2021-03-22",
+  "fonte": "https://normas.leg.br/api/public/binario/e726ef45-a255-4a88-b82d-ebc395a347e1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-03-22;14127",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-03-22%3B14127&tipo_documento=maior-detalhe",
+  "sha256_dados": "4934f6c7b37b48c71df6f3ebc26b42509dd7172c5263826b77d5a86cf7442d72",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:37.318Z",
+  "sha256_fonte": "adf7672226f3e61d6154f7ca89ed285c82867c2a0ba101632ffa3551b1dfc626",
+  "sha256_markdown": "7c89ed6652cfa93f81716d985203d770144f24a365e2959a2fbe372da5ccb3f7"
+}

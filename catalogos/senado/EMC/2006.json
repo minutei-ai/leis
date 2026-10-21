@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2006",
+  "tipo": "EMC",
+  "ano": 2006,
+  "coletado_em": "2026-10-21T08:39:44.208Z",
+  "normas": [
+    {
+      "senadoId": "540656",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2006-12-19-53",
+      "titulo": "Emenda Constitucional nº 53 de 19/12/2006",
+      "data": "2006-12-19",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2006-12-19;53",
+      "ementa": "Dá nova redação aos arts. 7º, 23, 30, 206, 208, 211 e 212 da Constituição Federal e ao art. 60 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "540655",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2006-03-08-52",
+      "titulo": "Emenda Constitucional nº 52 de 08/03/2006",
+      "data": "2006-03-08",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2006-03-08;52",
+      "ementa": "Dá nova redação ao § 1º do art. 17 da Constituição Federal para disciplinar as coligações eleitorais."
+    },
+    {
+      "senadoId": "540654",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2006-02-14-51",
+      "titulo": "Emenda Constitucional nº 51 de 14/02/2006",
+      "data": "2006-02-14",
+      "numero": "51",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2006-02-14;51",
+      "ementa": "Acrescenta os §§ 4º, 5º e 6º ao art. 198 da Constituição Federal."
+    },
+    {
+      "senadoId": "540653",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2006-02-14-50",
+      "titulo": "Emenda Constitucional nº 50 de 14/02/2006",
+      "data": "2006-02-14",
+      "numero": "50",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2006-02-14;50",
+      "ementa": "Modifica o art. 57 da Constituição Federal."
+    },
+    {
+      "senadoId": "540652",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2006-02-08-49",
+      "titulo": "Emenda Constitucional nº 49 de 08/02/2006",
+      "data": "2006-02-08",
+      "numero": "49",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2006-02-08;49",
+      "ementa": "Altera a redação da alínea b e acrescenta alínea c ao inciso XXIII do caput do art. 21 e altera a redação do inciso V do caput do art. 177 da Constituição Federal para excluir do monopólio da União a produção, a comercialização e a utilização de radioisótopos de meia-vida curta, para usos médicos, agrícolas e industriais."
+    }
+  ],
+  "pendencias": []
+}

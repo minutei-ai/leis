@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-07-01-14910",
+  "titulo": "Lei nº 14.910 de 01/07/2024",
+  "data": "2024-07-01",
+  "fonte": "https://normas.leg.br/api/public/binario/4b46ae13-d341-4a7e-97b9-88aed0a1dcc9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-07-01;14910",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-07-01%3B14910&tipo_documento=maior-detalhe",
+  "sha256_dados": "271bd73959ae65f976a5af365a0a6885e09345cf2d79fdbd882dc50ceb7b2cbf",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:23:55.477Z",
+  "sha256_fonte": "e6ff7130aee8b5b2fcf414de9b51c9b6440aeee29b9b8fa9d700789c2e972f2c",
+  "sha256_markdown": "263e91c48c224027cf9c7a81cc5991831e2bb89c15b9a1f310344c1ce66f4f52"
+}

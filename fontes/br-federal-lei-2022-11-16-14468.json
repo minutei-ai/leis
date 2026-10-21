@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-11-16-14468",
+  "titulo": "Lei nº 14.468 de 16/11/2022",
+  "data": "2022-11-16",
+  "fonte": "https://normas.leg.br/api/public/binario/182d076a-754b-4afb-8eb5-08f31d1f95dc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-11-16;14468",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-11-16%3B14468&tipo_documento=maior-detalhe",
+  "sha256_dados": "f75be745f2e668b235ebf7f5d9ab64e341776c67250a83ca6907600a5b122692",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:19.096Z",
+  "sha256_fonte": "fa1a8d5267790e3429a6d6aa3f707fa4968e3933cca143138798e47a7cd2ed3a",
+  "sha256_markdown": "179f4638d936c17240bae640c52e4e29da64840fc0c31a0f47c7fea12af8e679"
+}

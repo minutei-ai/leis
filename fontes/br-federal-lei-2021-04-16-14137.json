@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-04-16-14137",
+  "titulo": "Lei nº 14.137 de 16/04/2021",
+  "data": "2021-04-16",
+  "fonte": "https://normas.leg.br/api/public/binario/8334d686-d5e5-4096-b3e6-1efae6475db2/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-04-16;14137",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-04-16%3B14137&tipo_documento=maior-detalhe",
+  "sha256_dados": "79a93072b81649e4b8cfc5a298ae65bf89b9058e9aa58393b25ab2f704da6a47",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:25.303Z",
+  "sha256_fonte": "a7577f45300bc771dc7529e20259fe65d14dac6222a7e5761470c201c8ad51e3",
+  "sha256_markdown": "a4de2c3bb1054a5bc649c8e8c79f16eef11c8ffa8af646809314e3decffb2996"
+}

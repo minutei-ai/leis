@@ -1,0 +1,36 @@
+---
+id: "br-sp-norma-212814"
+titulo: "Decreto nº 70.739, de 30/06/2026"
+data: "2026-06-30"
+fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70739-30.06.2026.html"
+versao: "publicação original disponibilizada pela Alesp"
+dados: "https://baleg-api-prd.al.sp.gov.br/norma/212814"
+sha256_dados: "11ba89ccc4bc81cc10cbdbdefc803de8564b80fb5f29db74709c2415bf517341"
+coletado_em: "2026-10-21T08:39:46.234Z"
+sha256_fonte: "c61ae8e0887171595deb1f06e0597ea0a77cc2cd3ebdc75ef854f2017fb05723"
+sha256_markdown: "eff7be0705e3255681685624c3c0dd79f3fcf9f7802a23ad1e4a3c4449501c7b"
+---
+
+# Decreto nº 70.739, de 30/06/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212814)<br>
+
+# DECRETO N° 70.739, DE 30 DE JUNHO DE 2026
+
+### Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Jacareí e dá providências correlatas.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
+
+Decreta:
+
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 20 (vinte) anos, a título gratuito, em favor do Município de Jacareí, de parte do imóvel objeto da Transcrição n° 1.273 do Cartório de Registro de Imóveis da Comarca de Jacareí, localizado na Avenida Nove de Julho, n° 745, Bairro Jardim Pereira do Amparo, naquele Município, cadastrado no SGI sob o n° 2370, parte essa com área de 250.000,00mÂ² (duzentos e cinquenta mil metros quadrados), identificada e descrita nos autos do Processo Digital n° 018.00003904/2025-09.
+
+**Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação de um hospital municipal e um parque ambiental.
+
+**Artigo 2° -** A permissão de uso de que trata este decreto será efetivada por meio de termo a ser lavrado pela autoridade competente ou pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas ao Município.
+
+**Artigo 3° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Nerylson Lima da Silva

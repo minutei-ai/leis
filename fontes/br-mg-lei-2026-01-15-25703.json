@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-15-25703",
+  "titulo": "LEI nº 25703, de 15/01/2026",
+  "data": "2026-01-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25703/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25703/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "593dabf5453ed9f027b1d99e60ccd2b770771a8cd66f4d90a0f687a487422114",
+  "coletado_em": "2026-10-21T08:25:04.416Z",
+  "sha256_fonte": "2c1d296e0506e39aa1077c701c4dab2fcbfd0c20a87d6cc1cbc2da25c70a0518",
+  "sha256_markdown": "4dfeb63981c0e4cc93e9226394fab0be8e4d4341b9c2f5509d8b3121ae8462de"
+}

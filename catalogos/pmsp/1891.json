@@ -1,0 +1,21 @@
+{
+  "ano_publicacao": 1891,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1891",
+    "ano-final": "31/12/1891",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:08.399Z",
+  "total": 0,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "1315c89991f10fe44e31388876282b4f6115b8ced29ea7fafa1d9eed3ff40b3f"
+    }
+  ],
+  "normas": [],
+  "pendencias": []
+}

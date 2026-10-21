@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-26-14506",
+  "titulo": "Lei nº 14.506 de 26/12/2022",
+  "data": "2022-12-26",
+  "fonte": "https://normas.leg.br/api/public/binario/1060b2e4-d216-4410-8d9d-ce46190914ae/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-26;14506",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-26%3B14506&tipo_documento=maior-detalhe",
+  "sha256_dados": "a4dd068a8065adb997c1b9ed25821513858793189bb71fd7387c8b0a40da9c43",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:30.949Z",
+  "sha256_fonte": "46a525c947c5ef6977a441019578a42db743d93595936b5a6fb3e0834ae8d638",
+  "sha256_markdown": "bacd6294255867b4bf1f450c703cd6fbcf4ce7e3c654a4937febcc5efce14525"
+}

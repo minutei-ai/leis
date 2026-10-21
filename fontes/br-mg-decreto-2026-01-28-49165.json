@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-01-28-49165",
+  "titulo": "DEC nº 49165, de 28/01/2026",
+  "data": "2026-01-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49165/2026/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49165/2026/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "2a4be47edbd9f10b35fb360798478a0ae75013f5abb39e480f003d3d9a8361c7",
+  "coletado_em": "2026-10-21T08:25:29.269Z",
+  "sha256_fonte": "faba0cb7ec6fbf31595148067b8546de736c583706a281c8edaeff9b069f8e52",
+  "sha256_markdown": "55b10cc602d4ff5b82787dd06a8c684804ba7d5bd0b885042fd307b478c7c6b3"
+}

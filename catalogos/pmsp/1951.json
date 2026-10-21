@@ -1,0 +1,1016 @@
+{
+  "ano_publicacao": 1951,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1951",
+    "ano-final": "31/12/1951",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:13.353Z",
+  "total": 165,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "ba1875a21393b2db10d87b2b16995726133bdf4ae8c2d2e5b721f7ebcca99653"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "be61c2a6d989c3075c81cc4fe7ccfe583555e7062b5bbaaf9597ad5aaa98f922"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4166-de-29-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.166 de 29 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-29-4166",
+      "data": "1951-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4165-de-28-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.165 de 28 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-28-4165",
+      "data": "1951-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4164-de-28-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.164 de 28 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-28-4164",
+      "data": "1951-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4163-de-28-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.163 de 28 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-28-4163",
+      "data": "1951-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4162-de-28-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.162 de 28 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-28-4162",
+      "data": "1951-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4161-de-27-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.161 de 27 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-27-4161",
+      "data": "1951-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4159-de-27-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.159 de 27 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-27-4159",
+      "data": "1951-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4160-de-27-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.160 de 27 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-27-4160",
+      "data": "1951-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4158-de-24-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.158 de 24 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-24-4158",
+      "data": "1951-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4157-de-24-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.157 de 24 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-24-4157",
+      "data": "1951-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4156-de-24-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.156 de 24 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-24-4156",
+      "data": "1951-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4155-de-24-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.155 de 24 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-24-4155",
+      "data": "1951-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4154-de-24-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.154 de 24 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-24-4154",
+      "data": "1951-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4153-de-21-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.153 de 21 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-21-4153",
+      "data": "1951-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4152-de-17-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.152 de 17 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-17-4152",
+      "data": "1951-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4151-de-17-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.151 de 17 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-17-4151",
+      "data": "1951-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4150-de-15-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.150 de 15 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-15-4150",
+      "data": "1951-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4149-de-15-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.149 de 15 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-15-4149",
+      "data": "1951-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4148-de-15-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.148 de 15 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-15-4148",
+      "data": "1951-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4147-de-13-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.147 de 13 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-13-4147",
+      "data": "1951-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4146-de-10-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.146 de 10 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-10-4146",
+      "data": "1951-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4145-de-10-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.145 de 10 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-10-4145",
+      "data": "1951-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4144-de-10-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.144 de 10 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-10-4144",
+      "data": "1951-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4143-de-5-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.143 de 5 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-05-4143",
+      "data": "1951-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4142-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.142 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4142",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4141-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.141 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4141",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4140-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.140 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4140",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4139-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.139 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4139",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4138-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.138 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4138",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4137-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.137 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4137",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4136-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.136 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4136",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4135-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.135 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4135",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4134-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.134 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4134",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4133-de-4-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.133 de 4 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-04-4133",
+      "data": "1951-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4132-de-3-de-dezembro-de-1951",
+      "titulo": "LEI Nº 4.132 de 3 de Dezembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-12-03-4132",
+      "data": "1951-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4131-de-27-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.131 de 27 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-27-4131",
+      "data": "1951-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4130-de-27-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.130 de 27 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-27-4130",
+      "data": "1951-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4129-de-21-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.129 de 21 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-21-4129",
+      "data": "1951-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4128-de-20-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.128 de 20 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-20-4128",
+      "data": "1951-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4127-de-19-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.127 de 19 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-19-4127",
+      "data": "1951-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4126-de-14-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.126 de 14 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-14-4126",
+      "data": "1951-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4125-de-14-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.125 de 14 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-14-4125",
+      "data": "1951-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4123-de-14-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.123 de 14 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-14-4123",
+      "data": "1951-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4122-de-14-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.122 de 14 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-14-4122",
+      "data": "1951-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4121-de-14-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.121 de 14 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-14-4121",
+      "data": "1951-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4124-de-14-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.124 de 14 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-14-4124",
+      "data": "1951-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4120-de-13-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.120 de 13 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-13-4120",
+      "data": "1951-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4119-de-13-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.119 de 13 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-13-4119",
+      "data": "1951-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4118-de-8-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.118 de 8 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-08-4118",
+      "data": "1951-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4117-de-8-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.117 de 8 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-08-4117",
+      "data": "1951-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4116-de-3-de-novembro-de-1951",
+      "titulo": "LEI Nº 4.116 de 3 de Novembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-11-03-4116",
+      "data": "1951-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4115-de-29-de-outubro-de-1951",
+      "titulo": "LEI Nº 4.115 de 29 de Outubro de 1951",
+      "id": "br-municipal-3550308-lei-1951-10-29-4115",
+      "data": "1951-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4114-de-29-de-outubro-de-1951",
+      "titulo": "LEI Nº 4.114 de 29 de Outubro de 1951",
+      "id": "br-municipal-3550308-lei-1951-10-29-4114",
+      "data": "1951-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4113-de-29-de-outubro-de-1951",
+      "titulo": "LEI Nº 4.113 de 29 de Outubro de 1951",
+      "id": "br-municipal-3550308-lei-1951-10-29-4113",
+      "data": "1951-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4112-de-29-de-outubro-de-1951",
+      "titulo": "LEI Nº 4.112 de 29 de Outubro de 1951",
+      "id": "br-municipal-3550308-lei-1951-10-29-4112",
+      "data": "1951-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4111-de-26-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.111 de 26 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-26-4111",
+      "data": "1951-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4110-de-26-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.110 de 26 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-26-4110",
+      "data": "1951-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4109-de-26-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.109 de 26 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-26-4109",
+      "data": "1951-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4108-de-26-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.108 de 26 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-26-4108",
+      "data": "1951-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4107-de-26-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.107 de 26 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-26-4107",
+      "data": "1951-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4106-de-26-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.106 de 26 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-26-4106",
+      "data": "1951-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4105-de-18-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.105 de 18 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-18-4105",
+      "data": "1951-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4104-de-17-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.104 de 17 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-17-4104",
+      "data": "1951-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4103-de-15-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.103 de 15 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-15-4103",
+      "data": "1951-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4102-de-12-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.102 de 12 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-12-4102",
+      "data": "1951-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4101-de-6-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.101 de 6 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-06-4101",
+      "data": "1951-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4100-de-6-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.100 de 6 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-06-4100",
+      "data": "1951-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4099-de-6-de-setembro-de-1951",
+      "titulo": "LEI Nº 4.099 de 6 de Setembro de 1951",
+      "id": "br-municipal-3550308-lei-1951-09-06-4099",
+      "data": "1951-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4098-de-28-de-agosto-de-1951",
+      "titulo": "LEI Nº 4.098 de 28 de Agosto de 1951",
+      "id": "br-municipal-3550308-lei-1951-08-28-4098",
+      "data": "1951-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4097-de-28-de-agosto-de-1951",
+      "titulo": "LEI Nº 4.097 de 28 de Agosto de 1951",
+      "id": "br-municipal-3550308-lei-1951-08-28-4097",
+      "data": "1951-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4096-de-28-de-agosto-de-1951",
+      "titulo": "LEI Nº 4.096 de 28 de Agosto de 1951",
+      "id": "br-municipal-3550308-lei-1951-08-28-4096",
+      "data": "1951-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4095-de-23-de-agosto-de-1951",
+      "titulo": "LEI Nº 4.095 de 23 de Agosto de 1951",
+      "id": "br-municipal-3550308-lei-1951-08-23-4095",
+      "data": "1951-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4094-de-17-de-agosto-de-1951",
+      "titulo": "LEI Nº 4.094 de 17 de Agosto de 1951",
+      "id": "br-municipal-3550308-lei-1951-08-17-4094",
+      "data": "1951-08-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4093-de-16-de-julho-de-1951",
+      "titulo": "LEI Nº 4.093 de 16 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-16-4093",
+      "data": "1951-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4092-de-11-de-julho-de-1951",
+      "titulo": "LEI Nº 4.092 de 11 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-11-4092",
+      "data": "1951-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4091-de-11-de-julho-de-1951",
+      "titulo": "LEI Nº 4.091 de 11 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-11-4091",
+      "data": "1951-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4090-de-10-de-julho-de-1951",
+      "titulo": "LEI Nº 4.090 de 10 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-10-4090",
+      "data": "1951-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4089-de-10-de-julho-de-1951",
+      "titulo": "LEI Nº 4.089 de 10 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-10-4089",
+      "data": "1951-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4088-de-10-de-julho-de-1951",
+      "titulo": "LEI Nº 4.088 de 10 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-10-4088",
+      "data": "1951-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4087-de-6-de-julho-de-1951",
+      "titulo": "LEI Nº 4.087 de 6 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-06-4087",
+      "data": "1951-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4086-de-6-de-julho-de-1951",
+      "titulo": "LEI Nº 4.086 de 6 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-06-4086",
+      "data": "1951-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4085-de-6-de-julho-de-1951",
+      "titulo": "LEI Nº 4.085 de 6 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-06-4085",
+      "data": "1951-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4084-de-6-de-julho-de-1951",
+      "titulo": "LEI Nº 4.084 de 6 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-06-4084",
+      "data": "1951-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4083-de-6-de-julho-de-1951",
+      "titulo": "LEI Nº 4.083 de 6 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-06-4083",
+      "data": "1951-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4082-de-5-de-julho-de-1951",
+      "titulo": "LEI Nº 4.082 de 5 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-05-4082",
+      "data": "1951-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4081-de-5-de-julho-de-1951",
+      "titulo": "LEI Nº 4.081 de 5 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-05-4081",
+      "data": "1951-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4080-de-5-de-julho-de-1951",
+      "titulo": "LEI Nº 4.080 de 5 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-05-4080",
+      "data": "1951-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4079-de-3-de-julho-de-1951",
+      "titulo": "LEI Nº 4.079 de 3 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-03-4079",
+      "data": "1951-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4078-de-3-de-julho-de-1951",
+      "titulo": "LEI Nº 4.078 de 3 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-03-4078",
+      "data": "1951-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4077-de-3-de-julho-de-1951",
+      "titulo": "LEI Nº 4.077 de 3 de Julho de 1951",
+      "id": "br-municipal-3550308-lei-1951-07-03-4077",
+      "data": "1951-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4076-de-30-de-junho-de-1951",
+      "titulo": "LEI Nº 4.076 de 30 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-30-4076",
+      "data": "1951-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4075-de-30-de-junho-de-1951",
+      "titulo": "LEI Nº 4.075 de 30 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-30-4075",
+      "data": "1951-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4074-de-28-de-junho-de-1951",
+      "titulo": "LEI Nº 4.074 de 28 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-28-4074",
+      "data": "1951-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4073-de-28-de-junho-de-1951",
+      "titulo": "LEI Nº 4.073 de 28 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-28-4073",
+      "data": "1951-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4072-de-28-de-junho-de-1951",
+      "titulo": "LEI Nº 4.072 de 28 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-28-4072",
+      "data": "1951-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4071-de-28-de-junho-de-1951",
+      "titulo": "LEI Nº 4.071 de 28 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-28-4071",
+      "data": "1951-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4070-de-26-de-junho-de-1951",
+      "titulo": "LEI Nº 4.070 de 26 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-26-4070",
+      "data": "1951-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4069-de-25-de-junho-de-1951",
+      "titulo": "LEI Nº 4.069 de 25 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-25-4069",
+      "data": "1951-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4068-de-22-de-junho-de-1951",
+      "titulo": "LEI Nº 4.068 de 22 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-22-4068",
+      "data": "1951-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4067-de-22-de-junho-de-1951",
+      "titulo": "LEI Nº 4.067 de 22 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-22-4067",
+      "data": "1951-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4066-de-22-de-junho-de-1951",
+      "titulo": "LEI Nº 4.066 de 22 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-22-4066",
+      "data": "1951-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4065-de-22-de-junho-de-1951",
+      "titulo": "LEI Nº 4.065 de 22 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-22-4065",
+      "data": "1951-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4064-de-20-de-junho-de-1951",
+      "titulo": "LEI Nº 4.064 de 20 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-20-4064",
+      "data": "1951-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4063-de-15-de-junho-de-1951",
+      "titulo": "LEI Nº 4.063 de 15 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-15-4063",
+      "data": "1951-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4062-de-14-de-junho-de-1951",
+      "titulo": "LEI Nº 4.062 de 14 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-14-4062",
+      "data": "1951-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4061-de-14-de-junho-de-1951",
+      "titulo": "LEI Nº 4.061 de 14 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-14-4061",
+      "data": "1951-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4060-de-14-de-junho-de-1951",
+      "titulo": "LEI Nº 4.060 de 14 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-14-4060",
+      "data": "1951-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4059-de-8-de-junho-de-1951",
+      "titulo": "LEI Nº 4.059 de 8 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-08-4059",
+      "data": "1951-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4058-de-8-de-junho-de-1951",
+      "titulo": "LEI Nº 4.058 de 8 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-08-4058",
+      "data": "1951-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4057-de-8-de-junho-de-1951",
+      "titulo": "LEI Nº 4.057 de 8 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-08-4057",
+      "data": "1951-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4056-de-8-de-junho-de-1951",
+      "titulo": "LEI Nº 4.056 de 8 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-08-4056",
+      "data": "1951-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4055-de-8-de-junho-de-1951",
+      "titulo": "LEI Nº 4.055 de 8 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-08-4055",
+      "data": "1951-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4054-de-8-de-junho-de-1951",
+      "titulo": "LEI Nº 4.054 de 8 de Junho de 1951",
+      "id": "br-municipal-3550308-lei-1951-06-08-4054",
+      "data": "1951-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4053-de-30-de-maio-de-1951",
+      "titulo": "LEI Nº 4.053 de 30 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-30-4053",
+      "data": "1951-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4052-de-30-de-maio-de-1951",
+      "titulo": "LEI Nº 4.052 de 30 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-30-4052",
+      "data": "1951-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4051-de-26-de-maio-de-1951",
+      "titulo": "LEI Nº 4.051 de 26 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-26-4051",
+      "data": "1951-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4050-de-26-de-maio-de-1951",
+      "titulo": "LEI Nº 4.050 de 26 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-26-4050",
+      "data": "1951-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4049-de-26-de-maio-de-1951",
+      "titulo": "LEI Nº 4.049 de 26 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-26-4049",
+      "data": "1951-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4048-de-26-de-maio-de-1951",
+      "titulo": "LEI Nº 4.048 de 26 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-26-4048",
+      "data": "1951-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4047-de-21-de-maio-de-1951",
+      "titulo": "LEI Nº 4.047 de 21 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-21-4047",
+      "data": "1951-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4046-de-19-de-maio-de-1951",
+      "titulo": "LEI Nº 4.046 de 19 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-19-4046",
+      "data": "1951-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4045-de-19-de-maio-de-1951",
+      "titulo": "LEI Nº 4.045 de 19 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-19-4045",
+      "data": "1951-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4044-de-19-de-maio-de-1951",
+      "titulo": "LEI Nº 4.044 de 19 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-19-4044",
+      "data": "1951-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4043-de-19-de-maio-de-1951",
+      "titulo": "LEI Nº 4.043 de 19 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-19-4043",
+      "data": "1951-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4042-de-19-de-maio-de-1951",
+      "titulo": "LEI Nº 4.042 de 19 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-19-4042",
+      "data": "1951-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4041-de-11-de-maio-de-1951",
+      "titulo": "LEI Nº 4.041 de 11 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-11-4041",
+      "data": "1951-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4040-de-9-de-maio-de-1951",
+      "titulo": "LEI Nº 4.040 de 9 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-09-4040",
+      "data": "1951-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4039-de-2-de-maio-de-1951",
+      "titulo": "LEI Nº 4.039 de 2 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-02-4039",
+      "data": "1951-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4038-de-2-de-maio-de-1951",
+      "titulo": "LEI Nº 4.038 de 2 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-02-4038",
+      "data": "1951-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4037-de-2-de-maio-de-1951",
+      "titulo": "LEI Nº 4.037 de 2 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-02-4037",
+      "data": "1951-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4036-de-2-de-maio-de-1951",
+      "titulo": "LEI Nº 4.036 de 2 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-02-4036",
+      "data": "1951-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4035-de-2-de-maio-de-1951",
+      "titulo": "LEI Nº 4.035 de 2 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-02-4035",
+      "data": "1951-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4034-de-2-de-maio-de-1951",
+      "titulo": "LEI Nº 4.034 de 2 de Maio de 1951",
+      "id": "br-municipal-3550308-lei-1951-05-02-4034",
+      "data": "1951-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4033-de-26-de-abril-de-1951",
+      "titulo": "LEI Nº 4.033 de 26 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-26-4033",
+      "data": "1951-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4032-de-26-de-abril-de-1951",
+      "titulo": "LEI Nº 4.032 de 26 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-26-4032",
+      "data": "1951-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4031-de-26-de-abril-de-1951",
+      "titulo": "LEI Nº 4.031 de 26 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-26-4031",
+      "data": "1951-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4030-de-26-de-abril-de-1951",
+      "titulo": "LEI Nº 4.030 de 26 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-26-4030",
+      "data": "1951-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4029-de-20-de-abril-de-1951",
+      "titulo": "LEI Nº 4.029 de 20 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-20-4029",
+      "data": "1951-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4028-de-20-de-abril-de-1951",
+      "titulo": "LEI Nº 4.028 de 20 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-20-4028",
+      "data": "1951-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4027-de-20-de-abril-de-1951",
+      "titulo": "LEI Nº 4.027 de 20 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-20-4027",
+      "data": "1951-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4026-de-19-de-abril-de-1951",
+      "titulo": "LEI Nº 4.026 de 19 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-19-4026",
+      "data": "1951-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4025-de-19-de-abril-de-1951",
+      "titulo": "LEI Nº 4.025 de 19 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-19-4025",
+      "data": "1951-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4024-de-14-de-abril-de-1951",
+      "titulo": "LEI Nº 4.024 de 14 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-14-4024",
+      "data": "1951-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4023-de-7-de-abril-de-1951",
+      "titulo": "LEI Nº 4.023 de 7 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-07-4023",
+      "data": "1951-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4022-de-5-de-abril-de-1951",
+      "titulo": "LEI Nº 4.022 de 5 de Abril de 1951",
+      "id": "br-municipal-3550308-lei-1951-04-05-4022",
+      "data": "1951-04-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4021-de-30-de-marco-de-1951",
+      "titulo": "LEI Nº 4.021 de 30 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-30-4021",
+      "data": "1951-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4020-de-28-de-marco-de-1951",
+      "titulo": "LEI Nº 4.020 de 28 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-28-4020",
+      "data": "1951-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4019-de-19-de-marco-de-1951",
+      "titulo": "LEI Nº 4.019 de 19 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-19-4019",
+      "data": "1951-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4018-de-15-de-marco-de-1951",
+      "titulo": "LEI Nº 4.018 de 15 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-15-4018",
+      "data": "1951-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4017-de-15-de-marco-de-1951",
+      "titulo": "LEI Nº 4.017 de 15 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-15-4017",
+      "data": "1951-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4016-de-15-de-marco-de-1951",
+      "titulo": "LEI Nº 4.016 de 15 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-15-4016",
+      "data": "1951-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4015-de-10-de-marco-de-1951",
+      "titulo": "LEI Nº 4.015 de 10 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-10-4015",
+      "data": "1951-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4014-de-8-de-marco-de-1951",
+      "titulo": "LEI Nº 4.014 de 8 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-08-4014",
+      "data": "1951-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4013-de-8-de-marco-de-1951",
+      "titulo": "LEI Nº 4.013 de 8 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-08-4013",
+      "data": "1951-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4012-de-8-de-marco-de-1951",
+      "titulo": "LEI Nº 4.012 de 8 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-08-4012",
+      "data": "1951-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4011-de-3-de-marco-de-1951",
+      "titulo": "LEI Nº 4.011 de 3 de Março de 1951",
+      "id": "br-municipal-3550308-lei-1951-03-03-4011",
+      "data": "1951-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4010-de-8-de-janeiro-de-1951",
+      "titulo": "LEI Nº 4.010 de 8 de Janeiro de 1951",
+      "id": "br-municipal-3550308-lei-1951-01-08-4010",
+      "data": "1951-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4009-de-8-de-janeiro-de-1951",
+      "titulo": "LEI Nº 4.009 de 8 de Janeiro de 1951",
+      "id": "br-municipal-3550308-lei-1951-01-08-4009",
+      "data": "1951-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4008-de-5-de-janeiro-de-1951",
+      "titulo": "LEI Nº 4.008 de 5 de Janeiro de 1951",
+      "id": "br-municipal-3550308-lei-1951-01-05-4008",
+      "data": "1951-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4007-de-4-de-janeiro-de-1951",
+      "titulo": "LEI Nº 4.007 de 4 de Janeiro de 1951",
+      "id": "br-municipal-3550308-lei-1951-01-04-4007",
+      "data": "1951-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4006-de-30-de-dezembro-de-1950",
+      "titulo": "LEI Nº 4.006 de 30 de Dezembro de 1950",
+      "id": "br-municipal-3550308-lei-1950-12-30-4006",
+      "data": "1950-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4005-de-30-de-dezembro-de-1950",
+      "titulo": "LEI Nº 4.005 de 30 de Dezembro de 1950",
+      "id": "br-municipal-3550308-lei-1950-12-30-4005",
+      "data": "1950-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4004-de-30-de-dezembro-de-1950",
+      "titulo": "LEI Nº 4.004 de 30 de Dezembro de 1950",
+      "id": "br-municipal-3550308-lei-1950-12-30-4004",
+      "data": "1950-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4003-de-30-de-dezembro-de-1950",
+      "titulo": "LEI Nº 4.003 de 30 de Dezembro de 1950",
+      "id": "br-municipal-3550308-lei-1950-12-30-4003",
+      "data": "1950-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4002-de-30-de-dezembro-de-1950",
+      "titulo": "LEI Nº 4.002 de 30 de Dezembro de 1950",
+      "id": "br-municipal-3550308-lei-1950-12-30-4002",
+      "data": "1950-12-30"
+    }
+  ],
+  "pendencias": []
+}

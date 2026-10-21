@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-05-15-49034",
+  "titulo": "DEC nº 49034, de 15/05/2025",
+  "data": "2025-05-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49034/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49034/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d24e776f76602234aeca444098c7191336ffef4e31f9c26fce4b115386050ffe",
+  "coletado_em": "2026-10-21T08:31:18.812Z",
+  "sha256_fonte": "371807da62b930172e78d355b5c11fc959563f48eb436dd6bd066dfa09cfd2e0",
+  "sha256_markdown": "eafe48c359b9cfc28305b537f0a089a01512b9059f2dd6ea3fd577d28ea628a4"
+}

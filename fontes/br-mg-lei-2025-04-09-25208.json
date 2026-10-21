@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-04-09-25208",
+  "titulo": "LEI nº 25208, de 09/04/2025",
+  "data": "2025-04-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25208/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25208/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "da8903af4002c5c20c8b488eb75aaefa7588066239104c9d59f1b6d707e1a304",
+  "coletado_em": "2026-10-21T08:30:48.543Z",
+  "sha256_fonte": "744360165232b64a7149d7437030b821a008f6c422c685baace7680bd09eac1c",
+  "sha256_markdown": "a71d9551c11c94eb72acd802ea0d1996791f8bfcce277d8351735fa0dde3505b"
+}

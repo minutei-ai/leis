@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-01-06-25142",
+  "titulo": "LEI nº 25142, de 06/01/2025",
+  "data": "2025-01-06",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25142/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25142/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ded42b494a49ed9025e90758ebd1127aa68c5bb8b2aad4f99050ab8448d9db3c",
+  "coletado_em": "2026-10-21T08:29:45.828Z",
+  "sha256_fonte": "c8c6c8e58abaa3bcefe35ed7d061e5ad1a07dfdd51fd3aa516661a7317e3757b",
+  "sha256_markdown": "bf471a5e5bec147e907acfce87d856a2d05eccd64d3554e290ae6f4489ae2373"
+}

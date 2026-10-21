@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-10-08-48912",
+  "titulo": "DEC nº 48912, de 08/10/2024",
+  "data": "2024-10-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48912/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48912/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d234d4f650cffefda4bd80aad7cb8e62adc50ff209cad53d6d6648245ef43924",
+  "coletado_em": "2026-10-21T08:42:03.885Z",
+  "sha256_fonte": "5181e3825154f1000e603a0046bcabdd2130a2033111d8a112a4c0899ecacf69",
+  "sha256_markdown": "702aa93d0a476634193daf9c0d9d40b19e770a54ad49aef34ad7b8898fded185"
+}

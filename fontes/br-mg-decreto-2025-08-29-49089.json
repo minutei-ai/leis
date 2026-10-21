@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-08-29-49089",
+  "titulo": "DEC nº 49089, de 29/08/2025",
+  "data": "2025-08-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49089/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49089/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "5759bebab42f2b900a7278189c51a15f953c79f544ce5cc02a247e1705aebb00",
+  "coletado_em": "2026-10-21T08:33:44.916Z",
+  "sha256_fonte": "6331789ad02235bab5b08ed2115301ca3be0730682a2ec4f818ff924b2389487",
+  "sha256_markdown": "53dca84161781643eb4d6cba983fdb70b8d41a4b9938328f26187778c24a11f3"
+}

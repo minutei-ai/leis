@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-16-49191",
+  "titulo": "DEC nº 49191, de 16/03/2026",
+  "data": "2026-03-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49191/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49191/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d99ebebfe4ef5c6ca7337e681da976bae3c337b9018cd9d397b466b622b97b28",
+  "coletado_em": "2026-10-21T08:25:46.372Z",
+  "sha256_fonte": "b4d17088cc25bd9f96c61f640d5379dd22e316df71084e53a68d56b67c197278",
+  "sha256_markdown": "5c063e52318af7ed49a3b24edae18e8d102b587bb8e9065fb4316e84a9678b11"
+}

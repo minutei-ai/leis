@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-29-26016",
+  "titulo": "LEI nº 26016, de 29/07/2026",
+  "data": "2026-07-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26016/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26016/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a936e6926c556d99ee4d5963606e1354d3166b06627cf03667ac1995893b2a91",
+  "coletado_em": "2026-10-21T08:28:55.757Z",
+  "sha256_fonte": "667d8c2eeca9ac235d734584a1b53748d6e7e66b922cf82716f9db97fdde594f",
+  "sha256_markdown": "8dc2d9efdb75f21d468a1abaf0ed7e2d348066e04b0618371970c5857750dc19"
+}

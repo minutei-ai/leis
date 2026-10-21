@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-08-03-14432",
+  "titulo": "Lei nº 14.432 de 03/08/2022",
+  "data": "2022-08-03",
+  "fonte": "https://normas.leg.br/api/public/binario/b7d6b61f-2834-4b3c-b05c-fba1f7a86e86/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-08-03;14432",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-08-03%3B14432&tipo_documento=maior-detalhe",
+  "sha256_dados": "18d99cfdaf26819a6901be2fec746b2997f1e2081bb394c219d6b3dbe963e371",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:06.188Z",
+  "sha256_fonte": "2d162080ad2508bf36066e1e75f045ff71c2c0cbb24e1311985d692ce3a8413d",
+  "sha256_markdown": "6247e46fd58742b5cd69266fc0433f130fe9612be5b2a27ca019bfeb2bd55156"
+}

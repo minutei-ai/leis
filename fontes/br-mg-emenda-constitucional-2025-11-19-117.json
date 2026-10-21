@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-emenda-constitucional-2025-11-19-117",
+  "titulo": "EMC nº 117, de 19/11/2025",
+  "data": "2025-11-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/117/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/117/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "1b29d28ca54c02778b0c2886b42bbf0dbeb7379f8d69e12067c0c5788efc6f07",
+  "coletado_em": "2026-10-21T08:35:28.346Z",
+  "sha256_fonte": "45880b6f846f0eda86a05b7face2d75bff0127e150d14a0eb56a67bbd78e1506",
+  "sha256_markdown": "af8dd15cc63f00cc4ecca0acbf6bc4e9be8fa231cf4cc4c0277761d0c0c2d155"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-16-25632",
+  "titulo": "LEI nº 25632, de 16/12/2025",
+  "data": "2025-12-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25632/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25632/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e8af2d629fb08a8b973a7e773606033ca4ae7401e048470d0979c137106e82e4",
+  "coletado_em": "2026-10-21T08:36:05.519Z",
+  "sha256_fonte": "7fa38b715fff19cc87d4377d786070c1540fb81f7dfc7ef90d5c4946aaf0e94d",
+  "sha256_markdown": "828e72c5f0332b70a309feb83ebd9d10998ed9e280f398ad39a7fd0acf70d081"
+}

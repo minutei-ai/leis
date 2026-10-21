@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-18-13957",
+  "titulo": "Lei nº 13.957 de 18/12/2019",
+  "data": "2019-12-18",
+  "fonte": "https://normas.leg.br/api/public/binario/23f94379-53e4-422c-8310-9ab1b2ce35a6/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-18;13957",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-18%3B13957&tipo_documento=maior-detalhe",
+  "sha256_dados": "d7c9e1229590ae9c17dfd5091f95b1856443044debbbcc4eda417bfe657e92b6",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:17.134Z",
+  "sha256_fonte": "ecac7d0b0a16d80cbe3d77f5324ca6d00bf84427b8a4ce4181ad6416c505865b",
+  "sha256_markdown": "7be3280acae312f845627505bf69cd8f0b8e24b55b5c236dfc089549ba167953"
+}

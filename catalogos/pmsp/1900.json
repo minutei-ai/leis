@@ -1,0 +1,340 @@
+{
+  "ano_publicacao": 1900,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1900",
+    "ano-final": "31/12/1900",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:01.214Z",
+  "total": 53,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "4e74c05a62c53f719d547a1299daeb3b4afad9198d37050e92a6fa82562ec283"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-502-de-14-de-dezembro-de-1900",
+      "titulo": "LEI Nº 502 de 14 de Dezembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-12-14-502",
+      "data": "1900-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-501-de-14-de-dezembro-de-1900",
+      "titulo": "LEI Nº 501 de 14 de Dezembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-12-14-501",
+      "data": "1900-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-500-de-14-de-dezembro-de-1900",
+      "titulo": "LEI Nº 500 de 14 de Dezembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-12-14-500",
+      "data": "1900-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-499-de-14-de-dezembro-de-1900",
+      "titulo": "LEI Nº 499 de 14 de Dezembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-12-14-499",
+      "data": "1900-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-498-de-14-de-dezembro-de-1900",
+      "titulo": "LEI Nº 498 de 14 de Dezembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-12-14-498",
+      "data": "1900-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-497-de-6-de-dezembro-de-1900",
+      "titulo": "LEI Nº 497 de 6 de Dezembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-12-06-497",
+      "data": "1900-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-496-de-14-de-novembro-de-1900",
+      "titulo": "LEI Nº 496 de 14 de Novembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-11-14-496",
+      "data": "1900-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-495-de-14-de-novembro-de-1900",
+      "titulo": "LEI Nº 495 de 14 de Novembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-11-14-495",
+      "data": "1900-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-494-de-14-de-novembro-de-1900",
+      "titulo": "LEI Nº 494 de 14 de Novembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-11-14-494",
+      "data": "1900-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-492-de-26-de-outubro-de-1900",
+      "titulo": "LEI Nº 492 de 26 de Outubro de 1900",
+      "id": "br-municipal-3550308-lei-1900-10-26-492",
+      "data": "1900-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-493-de-26-de-outubro-de-1900",
+      "titulo": "LEI Nº 493 de 26 de Outubro de 1900",
+      "id": "br-municipal-3550308-lei-1900-10-26-493",
+      "data": "1900-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-491-de-20-de-outubro-de-1900",
+      "titulo": "LEI Nº 491 de 20 de Outubro de 1900",
+      "id": "br-municipal-3550308-lei-1900-10-20-491",
+      "data": "1900-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-490-de-18-de-outubro-de-1900",
+      "titulo": "LEI Nº 490 de 18 de Outubro de 1900",
+      "id": "br-municipal-3550308-lei-1900-10-18-490",
+      "data": "1900-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-489-de-6-de-outubro-de-1900",
+      "titulo": "LEI Nº 489 de 6 de Outubro de 1900",
+      "id": "br-municipal-3550308-lei-1900-10-06-489",
+      "data": "1900-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-487-de-10-de-setembro-de-1900",
+      "titulo": "LEI Nº 487 de 10 de Setembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-09-10-487",
+      "data": "1900-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-486-de-10-de-setembro-de-1900",
+      "titulo": "LEI Nº 486 de 10 de Setembro de 1900",
+      "id": "br-municipal-3550308-lei-1900-09-10-486",
+      "data": "1900-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-485-de-18-de-agosto-de-1900",
+      "titulo": "LEI Nº 485 de 18 de Agosto de 1900",
+      "id": "br-municipal-3550308-lei-1900-08-18-485",
+      "data": "1900-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-484-de-18-de-agosto-de-1900",
+      "titulo": "LEI Nº 484 de 18 de Agosto de 1900",
+      "id": "br-municipal-3550308-lei-1900-08-18-484",
+      "data": "1900-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-483-de-18-de-agosto-de-1900",
+      "titulo": "LEI Nº 483 de 18 de Agosto de 1900",
+      "id": "br-municipal-3550308-lei-1900-08-18-483",
+      "data": "1900-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-482-de-18-de-agosto-de-1900",
+      "titulo": "LEI Nº 482 de 18 de Agosto de 1900",
+      "id": "br-municipal-3550308-lei-1900-08-18-482",
+      "data": "1900-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-481-de-18-de-agosto-de-1900",
+      "titulo": "LEI Nº 481 de 18 de Agosto de 1900",
+      "id": "br-municipal-3550308-lei-1900-08-18-481",
+      "data": "1900-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-480-de-18-de-agosto-de-1900",
+      "titulo": "LEI Nº 480 de 18 de Agosto de 1900",
+      "id": "br-municipal-3550308-lei-1900-08-18-480",
+      "data": "1900-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-479-de-17-de-julho-de-1900",
+      "titulo": "LEI Nº 479 de 17 de Julho de 1900",
+      "id": "br-municipal-3550308-lei-1900-07-17-479",
+      "data": "1900-07-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-478-de-17-de-julho-de-1900",
+      "titulo": "LEI Nº 478 de 17 de Julho de 1900",
+      "id": "br-municipal-3550308-lei-1900-07-17-478",
+      "data": "1900-07-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-477-de-17-de-julho-de-1900",
+      "titulo": "LEI Nº 477 de 17 de Julho de 1900",
+      "id": "br-municipal-3550308-lei-1900-07-17-477",
+      "data": "1900-07-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-476-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 476 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-476",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-475-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 475 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-475",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-474-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 474 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-474",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-473-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 473 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-473",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-472-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 472 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-472",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-471-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 471 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-471",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-470-de-22-de-junho-de-1900",
+      "titulo": "LEI Nº 470 de 22 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-22-470",
+      "data": "1900-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-469-de-11-de-junho-de-1900",
+      "titulo": "LEI Nº 469 de 11 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-11-469",
+      "data": "1900-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-468-de-11-de-junho-de-1900",
+      "titulo": "LEI Nº 468 de 11 de Junho de 1900",
+      "id": "br-municipal-3550308-lei-1900-06-11-468",
+      "data": "1900-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-466-de-19-de-maio-de-1900",
+      "titulo": "LEI Nº 466 de 19 de Maio de 1900",
+      "id": "br-municipal-3550308-lei-1900-05-19-466",
+      "data": "1900-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-465-de-19-de-maio-de-1900",
+      "titulo": "LEI Nº 465 de 19 de Maio de 1900",
+      "id": "br-municipal-3550308-lei-1900-05-19-465",
+      "data": "1900-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-464-de-19-de-maio-de-1900",
+      "titulo": "LEI Nº 464 de 19 de Maio de 1900",
+      "id": "br-municipal-3550308-lei-1900-05-19-464",
+      "data": "1900-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-463-de-19-de-maio-de-1900",
+      "titulo": "LEI Nº 463 de 19 de Maio de 1900",
+      "id": "br-municipal-3550308-lei-1900-05-19-463",
+      "data": "1900-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-462-de-19-de-maio-de-1900",
+      "titulo": "LEI Nº 462 de 19 de Maio de 1900",
+      "id": "br-municipal-3550308-lei-1900-05-19-462",
+      "data": "1900-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-461-de-17-de-abril-de-1900",
+      "titulo": "LEI Nº 461 de 17 de Abril de 1900",
+      "id": "br-municipal-3550308-lei-1900-04-17-461",
+      "data": "1900-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-460-de-17-de-abril-de-1900",
+      "titulo": "LEI Nº 460 de 17 de Abril de 1900",
+      "id": "br-municipal-3550308-lei-1900-04-17-460",
+      "data": "1900-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-459-de-17-de-abril-de-1900",
+      "titulo": "LEI Nº 459 de 17 de Abril de 1900",
+      "id": "br-municipal-3550308-lei-1900-04-17-459",
+      "data": "1900-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-458-de-17-de-abril-de-1900",
+      "titulo": "LEI Nº 458 de 17 de Abril de 1900",
+      "id": "br-municipal-3550308-lei-1900-04-17-458",
+      "data": "1900-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-457-de-23-de-marco-de-1900",
+      "titulo": "LEI Nº 457 de 23 de Março de 1900",
+      "id": "br-municipal-3550308-lei-1900-03-23-457",
+      "data": "1900-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-456-de-23-de-marco-de-1900",
+      "titulo": "LEI Nº 456 de 23 de Março de 1900",
+      "id": "br-municipal-3550308-lei-1900-03-23-456",
+      "data": "1900-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-455-de-23-de-marco-de-1900",
+      "titulo": "LEI Nº 455 de 23 de Março de 1900",
+      "id": "br-municipal-3550308-lei-1900-03-23-455",
+      "data": "1900-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-454-de-22-de-fevereiro-de-1900",
+      "titulo": "LEI Nº 454 de 22 de Fevereiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-02-22-454",
+      "data": "1900-02-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-453-de-21-de-fevereiro-de-1900",
+      "titulo": "LEI Nº 453 de 21 de Fevereiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-02-21-453",
+      "data": "1900-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-452-de-21-de-fevereiro-de-1900",
+      "titulo": "LEI Nº 452 de 21 de Fevereiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-02-21-452",
+      "data": "1900-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-451-de-13-de-fevereiro-de-1900",
+      "titulo": "LEI Nº 451 de 13 de Fevereiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-02-13-451",
+      "data": "1900-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-450-de-20-de-janeiro-de-1900",
+      "titulo": "LEI Nº 450 de 20 de Janeiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-01-20-450",
+      "data": "1900-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-449-de-15-de-janeiro-de-1900",
+      "titulo": "LEI Nº 449 de 15 de Janeiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-01-15-449",
+      "data": "1900-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-448-de-15-de-janeiro-de-1900",
+      "titulo": "LEI Nº 448 de 15 de Janeiro de 1900",
+      "id": "br-municipal-3550308-lei-1900-01-15-448",
+      "data": "1900-01-15"
+    }
+  ],
+  "pendencias": []
+}

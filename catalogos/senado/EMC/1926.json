@@ -1,0 +1,16 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1926",
+  "tipo": "EMC",
+  "ano": 1926,
+  "coletado_em": "2026-10-21T08:41:59.733Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "593575",
+      "tipo": "EMC-sn",
+      "normaNome": "Emenda Constitucional  de 03/09/1926",
+      "dataassinatura": "03/09/1926",
+      "ementa": "Altera a Constituição Federal."
+    }
+  ]
+}

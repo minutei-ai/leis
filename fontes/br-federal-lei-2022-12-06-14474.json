@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-06-14474",
+  "titulo": "Lei nº 14.474 de 06/12/2022",
+  "data": "2022-12-06",
+  "fonte": "https://normas.leg.br/api/public/binario/5f66a040-c19c-4ac9-888d-a563dac70f6f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-06;14474",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-06%3B14474&tipo_documento=maior-detalhe",
+  "sha256_dados": "5a4092d57c95a3fb12cfba553dd7544e7eea23fce79ebae8951e1e70f838a23f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:14.015Z",
+  "sha256_fonte": "8d6f8fc3c83a74a7d5b56d03b578924f7a255ee2805f39c4d4b8da24e8e6cef2",
+  "sha256_markdown": "ab82b78428182001c8c6f4acc2eeabfa16f69ca52d029b9f4f5ecf8c1b28d513"
+}

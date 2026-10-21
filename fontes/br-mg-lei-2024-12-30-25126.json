@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-12-30-25126",
+  "titulo": "LEI nº 25126, de 30/12/2024",
+  "data": "2024-12-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25126/2024/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25126/2024/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "505526f2e568b15c93e412507f05c35cfb35bde889bfae040b1e2c6fbebc9acc",
+  "coletado_em": "2026-10-21T08:43:57.491Z",
+  "sha256_fonte": "35c25d5d2d344a748843079ac384d22b454d22de1d45d54dfbb1efd34e8eb388",
+  "sha256_markdown": "e703a07bbf10762341ffc5f567a046f3c18ca67ed3d0d5f9c4f02af0f233a1e1"
+}

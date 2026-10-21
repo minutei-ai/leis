@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-05-15-24726",
+  "titulo": "LEI nº 24726, de 15/05/2024",
+  "data": "2024-05-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24726/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24726/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f1097af5fae5abf5db893303e8b002119833de19cee535b88493a0e34e49d234",
+  "coletado_em": "2026-10-21T08:38:39.556Z",
+  "sha256_fonte": "f3868a604244b165536f1ccfc2c15c1b05a1411b71035c88df80f8b1c3ec6ab5",
+  "sha256_markdown": "fec5a497f2c0e940f9334aeac203350621810460506a0717eef1d05ea53367de"
+}

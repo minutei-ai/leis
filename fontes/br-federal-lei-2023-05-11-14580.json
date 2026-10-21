@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-05-11-14580",
+  "titulo": "Lei nº 14.580 de 11/05/2023",
+  "data": "2023-05-11",
+  "fonte": "https://normas.leg.br/api/public/binario/ef4bc63d-26ca-4d40-a0f9-a6edf543c4a0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-05-11;14580",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-05-11%3B14580&tipo_documento=maior-detalhe",
+  "sha256_dados": "2391d7e8612285b527af10633af053891505d1dc84dfac04ac6693c3030d3c71",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:30:52.109Z",
+  "sha256_fonte": "24760e26357fb277ccc7b1fd6bbcdce1299117cd54ad7c149a6f910d0a2d3580",
+  "sha256_markdown": "99a0af3fca1edd674667940df4ab75cfdc8cd4bbe4841fcbaa95b4df2b3dedf9"
+}

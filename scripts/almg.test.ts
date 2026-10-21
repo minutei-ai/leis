@@ -44,3 +44,15 @@ test("ALMG escolhe o link atualizado e não aceita outra norma como resposta", a
   const invalidDate = await Effect.runPromise(almgNormFromRecord({ ...record, DataLegislacao: "31/02/2026" }).pipe(Effect.either));
   expect(Either.isLeft(invalidDate)).toBe(true);
 });
+
+
+test("catálogo ALMG conta uma norma por identidade e preserva a linha repetida como pendência", async () => {
+  const record = records.find((item) => item.Numero === "25676" && item.Tipo === "LEI");
+  expect(record).toBeDefined();
+  if (record === undefined) return;
+  const projection = await Effect.runPromise(projectAlmgRecords([record, record]));
+  expect(projection.normas).toHaveLength(1);
+  expect(projection.pendencias).toEqual([record]);
+  const conflicting = await Effect.runPromise(projectAlmgRecords([record, { ...record, LinkTextoAtualizado: record.LinkTextoOriginal }]).pipe(Effect.either));
+  expect(Either.isLeft(conflicting)).toBe(true);
+});

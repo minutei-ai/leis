@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2017",
+  "tipo": "EMC",
+  "ano": 2017,
+  "coletado_em": "2026-10-21T08:39:34.156Z",
+  "normas": [
+    {
+      "senadoId": "26321064",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2017-12-14-99",
+      "titulo": "Emenda Constitucional nº 99 de 14/12/2017",
+      "data": "2017-12-14",
+      "numero": "99",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2017-12-14;99",
+      "ementa": "Altera o art. 101 do Ato das Disposições Constitucionais Transitórias, para instituir novo regime especial de pagamento de precatórios, e os arts. 102, 103 e 105 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "26317161",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2017-12-06-98",
+      "titulo": "Emenda Constitucional nº 98 de 06/12/2017",
+      "data": "2017-12-06",
+      "numero": "98",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2017-12-06;98",
+      "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências."
+    },
+    {
+      "senadoId": "26247394",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2017-10-04-97",
+      "titulo": "Emenda Constitucional nº 97 de 04/10/2017",
+      "data": "2017-10-04",
+      "numero": "97",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2017-10-04;97",
+      "ementa": "Altera a Constituição Federal para vedar as coligações partidárias nas eleições proporcionais, estabelecer normas sobre acesso dos partidos políticos aos recursos do fundo partidário e ao tempo de propaganda gratuito no rádio e na televisão e dispor sobre regras de transição."
+    },
+    {
+      "senadoId": "17703519",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2017-06-06-96",
+      "titulo": "Emenda Constitucional nº 96 de 06/06/2017",
+      "data": "2017-06-06",
+      "numero": "96",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2017-06-06;96",
+      "ementa": "Acrescenta § 7º ao art. 225 da Constituição Federal para determinar que práticas desportivas que utilizem animais não são consideradas cruéis, nas condições que especifica."
+    }
+  ],
+  "pendencias": []
+}

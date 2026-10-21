@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-04-09-24701",
+  "titulo": "LEI nº 24701, de 09/04/2024",
+  "data": "2024-04-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24701/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24701/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a9257cfde7255e0babf120e95f2796f960cc56c532768aaae5a51c3a597bcde0",
+  "coletado_em": "2026-10-21T08:38:03.152Z",
+  "sha256_fonte": "b75d5ec9bc73ee2e175953572315cb519f2f4eff9d55c802a0c637b723bed537",
+  "sha256_markdown": "b9abdcaf451d7d036d6c486ffaefc6f5a86e9a7ada847815d84b16f837c680a6"
+}

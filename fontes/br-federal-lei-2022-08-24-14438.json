@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-08-24-14438",
+  "titulo": "Lei nº 14.438 de 24/08/2022",
+  "data": "2022-08-24",
+  "fonte": "https://normas.leg.br/api/public/binario/7b3de0ee-24ff-44c0-9ba5-c87c39a94edf/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-08-24;14438",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-08-24%3B14438&tipo_documento=maior-detalhe",
+  "sha256_dados": "49609de5479514fc93881030477ab694e5fb6c82fc25d5799e32cbd00d902169",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:58.053Z",
+  "sha256_fonte": "8d93618455790bbaabe0678aac9ecfb80d9adc5ccfd227f5b378412b7841fc2a",
+  "sha256_markdown": "2ec5f4a92d13183b134b6d8355fbfa3c663af00910317c603aeafc7d39ec9fcb"
+}

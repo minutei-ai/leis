@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-09-11-14672",
+  "titulo": "Lei nº 14.672 de 11/09/2023",
+  "data": "2023-09-11",
+  "fonte": "https://normas.leg.br/api/public/binario/d1eba149-6e7b-4de4-9e92-443009da86c6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-09-11;14672",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-09-11%3B14672&tipo_documento=maior-detalhe",
+  "sha256_dados": "3a7b346a4ab71bff06b1109d41166c3522ad1ebfe2cc9afcc4b20c68a992e07f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:57.928Z",
+  "sha256_fonte": "1dfca85b78aca8d51285f27ff252a3f083f641a89f68d3cfb19e179d6e76a649",
+  "sha256_markdown": "1c1e4f69e74dd1c75c49cebfe31b4dc96ba1e56179a0d49efecace385793e7a6"
+}

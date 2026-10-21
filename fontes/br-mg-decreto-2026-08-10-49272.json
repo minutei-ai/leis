@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-08-10-49272",
+  "titulo": "DEC nº 49272, de 10/08/2026",
+  "data": "2026-08-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49272/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49272/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6d7d5e12f94261f683e6389df9ae5a1298a7c50ba29499f47bac9203dc3b1703",
+  "coletado_em": "2026-10-21T08:29:17.384Z",
+  "sha256_fonte": "8edbfdd46268dcc55f895527679f7920db913e94d54d7e7c15f9987cac311620",
+  "sha256_markdown": "080c01f317f249d4bdc36a488f1323ea35f3a42bd77f0ae43fb1369d508f7638"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-07-08-24888",
+  "titulo": "LEI nº 24888, de 08/07/2024",
+  "data": "2024-07-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24888/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24888/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f26eed47ad583773c67ce796e8484324eaacd6509f6d51a002741432416aaae4",
+  "coletado_em": "2026-10-21T08:40:29.427Z",
+  "sha256_fonte": "c1945165a7b533946ec637340630bd396aabd5ecf525eebbf4d9be03b9fac38a",
+  "sha256_markdown": "ba14c194985a0006cbfa79a8019e640089b153c02a5badec45db4a917b7105f4"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-10-24-49116",
+  "titulo": "DEC nº 49116, de 24/10/2025",
+  "data": "2025-10-24",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49116/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49116/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a94002c1d49c7596f2a4b4cc76ebcdf1865636b1d1cb122c367784a298c99856",
+  "coletado_em": "2026-10-21T08:35:11.231Z",
+  "sha256_fonte": "3c935897b48b6545bc5a7276879539244b64a16cef6c2d7fe02574d783928b83",
+  "sha256_markdown": "49e168a06b450e1230c9166a32699130c232a565dc1ce242fd30ebd86c53bd53"
+}

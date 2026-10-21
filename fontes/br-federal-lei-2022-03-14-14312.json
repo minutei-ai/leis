@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-03-14-14312",
+  "titulo": "Lei nº 14.312 de 14/03/2022",
+  "data": "2022-03-14",
+  "fonte": "https://normas.leg.br/api/public/binario/4d9537cb-fe83-4437-bdef-cdceadd5c045/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-03-14;14312",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-03-14%3B14312&tipo_documento=maior-detalhe",
+  "sha256_dados": "5ae7ac88b9c6b6eb53c0da0d3717b4936e3177dd9c8063de22cac450798b52de",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:39.523Z",
+  "sha256_fonte": "7642ae9279f6d7b9d9c4197b9f6e7b1719c04d85d468cd8237850a21d24e3f65",
+  "sha256_markdown": "fbe0261f4f050ee01e87acca4abac811f8935762320912ef1b4a0e715b8480de"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-09-01-49282",
+  "titulo": "DEC nº 49282, de 01/09/2026",
+  "data": "2026-09-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49282/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49282/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "1dc75ddd19540804b8e5dbc6f18819e912706cb1f48eb5e921986c0006737976",
+  "coletado_em": "2026-10-21T08:29:27.524Z",
+  "sha256_fonte": "52b9118d29da1c1a4261bacfd88ffd2ac19430a4feecd306953ee44258ee5aac",
+  "sha256_markdown": "2827fee29c76aded0a442b9234b0d14816a37b225cbdade7c37604103f4fd46d"
+}

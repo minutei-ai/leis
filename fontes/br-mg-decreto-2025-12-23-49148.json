@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-23-49148",
+  "titulo": "DEC nº 49148, de 23/12/2025",
+  "data": "2025-12-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49148/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49148/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f23ff0c7513b798d1f37a2699ebccf8e45baac1d94be372cb87c24eb4a44206a",
+  "coletado_em": "2026-10-21T08:36:29.589Z",
+  "sha256_fonte": "5c5fa595cecd0113803c4d4fb49f6e7a0e2d7b298e38b891cc7ab88876658542",
+  "sha256_markdown": "5d1eba1d700627b7c4eade0005e1b7343d35c6fc6306074b191341363a077253"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-06-14-14596",
+  "titulo": "Lei nº 14.596 de 14/06/2023",
+  "data": "2023-06-14",
+  "fonte": "https://normas.leg.br/api/public/binario/a9e02a4c-620b-4fad-9bcb-312caabeabfd/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-06-14;14596",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-06-14%3B14596&tipo_documento=maior-detalhe",
+  "sha256_dados": "894e6206397523251bf9faa72888b74c2a42605b912387065e5537e9b8d40f47",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:30:31.355Z",
+  "sha256_fonte": "c2042a75f58af4ba9829338165d07166a122139a4af678eaa1306fb19878af75",
+  "sha256_markdown": "9ce6f56c2972f2dac90fc1c8c7c450ff7bb8f07d4426e40d63d7fe550bc028e4"
+}

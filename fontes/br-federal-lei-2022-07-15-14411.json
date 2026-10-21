@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-15-14411",
+  "titulo": "Lei nº 14.411 de 15/07/2022",
+  "data": "2022-07-15",
+  "fonte": "https://normas.leg.br/api/public/binario/c9b8502c-33de-40b4-ac97-2f63fb1c0302/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-15;14411",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-15%3B14411&tipo_documento=maior-detalhe",
+  "sha256_dados": "48f3a6c9148fdf447980248d23ee981ec324b8fd67c33654cb533200c55ffae5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:33.080Z",
+  "sha256_fonte": "5f8cfd7a24a415f7f4954b3e6bfd4f5c04537c873c8d30ad9b5d8c27a09fe039",
+  "sha256_markdown": "d97f7c4e2a7350c530e9b8e298d485876fde9244cadfa01ba1eb89a7f4fb569b"
+}

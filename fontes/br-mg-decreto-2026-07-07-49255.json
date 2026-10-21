@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-07-07-49255",
+  "titulo": "DEC nº 49255, de 07/07/2026",
+  "data": "2026-07-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49255/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49255/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "42006cf35073710f32720edaead13a208dffc362dc1bb374bd6f032f48775ba9",
+  "coletado_em": "2026-10-21T08:28:06.671Z",
+  "sha256_fonte": "cf01bc9b91c18ee87e0ab7b4099d4f2a96b0e771aeb49d397a0bfd27d546aa02",
+  "sha256_markdown": "4b2451195570ede9e201ca7ac7dd878d44da960ae363c4d5380072ad69003f28"
+}

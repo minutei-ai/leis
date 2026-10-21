@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-04-30-49027",
+  "titulo": "DEC nº 49027, de 30/04/2025",
+  "data": "2025-04-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49027/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49027/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "75833d52bae864bd5a9537e9b4d680ed6260e6fef747bec8d6aa4ca866ec22a5",
+  "coletado_em": "2026-10-21T08:31:04.000Z",
+  "sha256_fonte": "094f933996bd897f97c3bb05922a77e548db7ec8fece57dbc781e9a0e0671070",
+  "sha256_markdown": "52d2e6a3ae51b42542c7a610d84475057fe5a211bd1ea099596f86a47f86feb5"
+}

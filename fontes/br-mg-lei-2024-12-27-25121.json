@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-12-27-25121",
+  "titulo": "LEI nº 25121, de 27/12/2024",
+  "data": "2024-12-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25121/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25121/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "693fbc189da537746c9bdef77d60c4e1065502319d2d5f4106fa086228b73d06",
+  "coletado_em": "2026-10-21T08:43:50.519Z",
+  "sha256_fonte": "0d7a55dcf606fdb3f17175c8e76383a7a00e5a5a29878dd8a5107ab1a4079e36",
+  "sha256_markdown": "b61d6d8c073357854787cc990100f662a9baaa3fa5ecf480fb194840583a646e"
+}

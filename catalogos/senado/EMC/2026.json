@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2026",
+  "tipo": "EMC",
+  "ano": 2026,
+  "coletado_em": "2026-10-21T08:39:25.579Z",
+  "normas": [
+    {
+      "senadoId": "44187742",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2026-10-16-140",
+      "titulo": "Emenda Constitucional nº 140 de 16/10/2026",
+      "data": "2026-10-16",
+      "numero": "140",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2026-10-16;140",
+      "ementa": "Altera os arts. 40, 198 e 201 da Constituição Federal, para estabelecer o direito à aposentadoria diferenciada aos agentes comunitários de saúde e aos agentes de combate às endemias, bem como para determinar a regularização do vínculo funcional desses agentes; e dá outras providências."
+    },
+    {
+      "senadoId": "44184944",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2026-10-16-141",
+      "titulo": "Emenda Constitucional nº 141 de 16/10/2026",
+      "data": "2026-10-16",
+      "numero": "141",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2026-10-16;141",
+      "ementa": "Altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho e prever 2 (dois) dias de repouso semanal remunerado, sem qualquer redução salarial."
+    },
+    {
+      "senadoId": "43257393",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2026-05-05-139",
+      "titulo": "Emenda Constitucional nº 139 de 05/05/2026",
+      "data": "2026-05-05",
+      "numero": "139",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2026-05-05;139",
+      "ementa": "Altera o § 1º do art. 31 e o art. 75 da Constituição Federal para estabelecer os Tribunais de Contas como órgãos permanentes e essenciais ao controle externo da administração pública."
+    }
+  ],
+  "pendencias": []
+}

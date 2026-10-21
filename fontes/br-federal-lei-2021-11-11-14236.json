@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-11-11-14236",
+  "titulo": "Lei nº 14.236 de 11/11/2021",
+  "data": "2021-11-11",
+  "fonte": "https://normas.leg.br/api/public/binario/0c226ea5-5f61-463c-bf70-c3e03499c109/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-11-11;14236",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-11-11%3B14236&tipo_documento=maior-detalhe",
+  "sha256_dados": "38ab6c5e455ab077b71db33f34134b392f28c6fc5d6aebf3656313026fa648fe",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:18.437Z",
+  "sha256_fonte": "6a6c69eee2be246f8317df6464587fa4458821283cff720b2b2304c9947ac1cb",
+  "sha256_markdown": "41eba2f33e2ac376c5d4190d2bb63efb28473670afdf4e1295fc271cd8b89fc8"
+}

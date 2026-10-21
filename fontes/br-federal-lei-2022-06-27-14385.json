@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-06-27-14385",
+  "titulo": "Lei nº 14.385 de 27/06/2022",
+  "data": "2022-06-27",
+  "fonte": "https://normas.leg.br/api/public/binario/209414a8-c87e-43ba-a029-267a8865c884/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-06-27;14385",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-06-27%3B14385&tipo_documento=maior-detalhe",
+  "sha256_dados": "5c73ae20d41c16167cd477a6b179437b6185d6f9710e3e3da0758586f27c85d9",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:35:08.604Z",
+  "sha256_fonte": "cdf3b21595f00731973beb6ca54cda81ce560bbfc3b0eace7f3f8fadecddd4cb",
+  "sha256_markdown": "64a46a5d4074266c79d37fe865fe30d4656caceba084ccd2e4ee54cc847836d6"
+}

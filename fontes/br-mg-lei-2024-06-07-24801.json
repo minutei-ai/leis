@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-06-07-24801",
+  "titulo": "LEI nº 24801, de 07/06/2024",
+  "data": "2024-06-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24801/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24801/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "31496bf1fe83367f27985c13d1890f0214ea3bd5284361f44e96d76a14180e84",
+  "coletado_em": "2026-10-21T08:39:21.040Z",
+  "sha256_fonte": "e0e755e97f5e21cbab5894c2e23f1303882d1647ca28822d594e66a20ffbb513",
+  "sha256_markdown": "1d48c13ddf923e870e914cf076b9f9619a23919fb0231f55a19eaa43a0347d90"
+}

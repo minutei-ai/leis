@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-05-28-24765",
+  "titulo": "LEI nº 24765, de 28/05/2024",
+  "data": "2024-05-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24765/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24765/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "08f6c835a6a6d31ad522c27d4d6c0f575baeb4ffcc4df4dd67b91efd635fde62",
+  "coletado_em": "2026-10-21T08:39:01.810Z",
+  "sha256_fonte": "ab97d213a83adb5acf181d6bc424761c1341d131efb8b3b4554185478c634723",
+  "sha256_markdown": "92605832bb835649033745a92e22977aa2f5e34f3593a3bc8c904a2fe02df10a"
+}

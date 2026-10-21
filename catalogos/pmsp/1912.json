@@ -1,0 +1,908 @@
+{
+  "ano_publicacao": 1912,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1912",
+    "ano-final": "31/12/1912",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:50.513Z",
+  "total": 147,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "ef97c068a35b51860770ef184daa76d355a2136e66a97c032265589393162079"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "3d4106594b5f4afe0258060d3afe523cfcbbea3b17a70bb7c2ea0af077ace6cb"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1637-de-28-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.637 de 28 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-28-1637",
+      "data": "1912-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1636-de-9-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.636 de 9 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-09-1636",
+      "data": "1912-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1635-de-9-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.635 de 9 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-09-1635",
+      "data": "1912-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1634-de-7-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.634 de 7 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-07-1634",
+      "data": "1912-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1633-de-7-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.633 de 7 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-07-1633",
+      "data": "1912-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1632-de-7-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.632 de 7 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-07-1632",
+      "data": "1912-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1631-de-6-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.631 de 6 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-06-1631",
+      "data": "1912-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1630-de-3-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.630 de 3 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-03-1630",
+      "data": "1912-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1629-de-3-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.629 de 3 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-03-1629",
+      "data": "1912-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1628-de-3-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.628 de 3 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-03-1628",
+      "data": "1912-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1627-de-3-de-dezembro-de-1912",
+      "titulo": "LEI Nº 1.627 de 3 de Dezembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-12-03-1627",
+      "data": "1912-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1626-de-29-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.626 de 29 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-29-1626",
+      "data": "1912-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1625-de-28-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.625 de 28 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-28-1625",
+      "data": "1912-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1624-de-28-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.624 de 28 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-28-1624",
+      "data": "1912-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1623-de-27-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.623 de 27 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-27-1623",
+      "data": "1912-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1622-de-27-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.622 de 27 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-27-1622",
+      "data": "1912-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1621-de-22-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.621 de 22 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-22-1621",
+      "data": "1912-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1620-de-22-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.620 de 22 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-22-1620",
+      "data": "1912-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1619-de-14-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.619 de 14 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-14-1619",
+      "data": "1912-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1618-de-8-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.618 de 8 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-08-1618",
+      "data": "1912-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1617-de-8-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.617 de 8 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-08-1617",
+      "data": "1912-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1616-de-8-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.616 de 8 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-08-1616",
+      "data": "1912-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1615-de-8-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.615 de 8 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-08-1615",
+      "data": "1912-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1614-de-8-de-novembro-de-1912",
+      "titulo": "LEI Nº 1.614 de 8 de Novembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-11-08-1614",
+      "data": "1912-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1612-de-31-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.612 de 31 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-31-1612",
+      "data": "1912-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1611-de-31-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.611 de 31 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-31-1611",
+      "data": "1912-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1610-de-31-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.610 de 31 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-31-1610",
+      "data": "1912-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1613-de-31-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.613 de 31 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-31-1613",
+      "data": "1912-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1609-de-16-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.609 de 16 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-16-1609",
+      "data": "1912-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1608-de-16-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.608 de 16 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-16-1608",
+      "data": "1912-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1607-de-16-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.607 de 16 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-16-1607",
+      "data": "1912-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1606-de-16-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.606 de 16 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-16-1606",
+      "data": "1912-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1605-de-11-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.605 de 11 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-11-1605",
+      "data": "1912-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1604-de-9-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.604 de 9 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-09-1604",
+      "data": "1912-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1603-de-4-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.603 de 4 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-04-1603",
+      "data": "1912-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1602-de-1-de-outubro-de-1912",
+      "titulo": "LEI Nº 1.602 de 1 de Outubro de 1912",
+      "id": "br-municipal-3550308-lei-1912-10-01-1602",
+      "data": "1912-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1601-de-28-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.601 de 28 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-28-1601",
+      "data": "1912-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1600-de-27-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.600 de 27 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-27-1600",
+      "data": "1912-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1599-de-27-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.599 de 27 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-27-1599",
+      "data": "1912-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1598-de-27-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.598 de 27 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-27-1598",
+      "data": "1912-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1597-de-27-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.597 de 27 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-27-1597",
+      "data": "1912-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1596-de-27-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.596 de 27 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-27-1596",
+      "data": "1912-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1595-de-27-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.595 de 27 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-27-1595",
+      "data": "1912-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1594-de-12-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.594 de 12 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-12-1594",
+      "data": "1912-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1593-de-12-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.593 de 12 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-12-1593",
+      "data": "1912-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1592-de-12-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.592 de 12 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-12-1592",
+      "data": "1912-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1591-de-12-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.591 de 12 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-12-1591",
+      "data": "1912-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1590-de-12-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.590 de 12 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-12-1590",
+      "data": "1912-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1589-de-12-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.589 de 12 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-12-1589",
+      "data": "1912-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1588-de-11-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.588 de 11 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-11-1588",
+      "data": "1912-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1587-de-11-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.587 de 11 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-11-1587",
+      "data": "1912-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1586-de-11-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.586 de 11 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-11-1586",
+      "data": "1912-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1585-de-3-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.585 de 3 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-03-1585",
+      "data": "1912-09-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1584-de-2-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.584 de 2 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-02-1584",
+      "data": "1912-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1583-de-2-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.583 de 2 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-02-1583",
+      "data": "1912-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1582-de-2-de-setembro-de-1912",
+      "titulo": "LEI Nº 1.582 de 2 de Setembro de 1912",
+      "id": "br-municipal-3550308-lei-1912-09-02-1582",
+      "data": "1912-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1581-de-22-de-agosto-de-1912",
+      "titulo": "LEI Nº 1.581 de 22 de Agosto de 1912",
+      "id": "br-municipal-3550308-lei-1912-08-22-1581",
+      "data": "1912-08-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1580-de-22-de-agosto-de-1912",
+      "titulo": "LEI Nº 1.580 de 22 de Agosto de 1912",
+      "id": "br-municipal-3550308-lei-1912-08-22-1580",
+      "data": "1912-08-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1579-de-17-de-agosto-de-1912",
+      "titulo": "LEI Nº 1.579 de 17 de Agosto de 1912",
+      "id": "br-municipal-3550308-lei-1912-08-17-1579",
+      "data": "1912-08-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1578-de-17-de-agosto-de-1912",
+      "titulo": "LEI Nº 1.578 de 17 de Agosto de 1912",
+      "id": "br-municipal-3550308-lei-1912-08-17-1578",
+      "data": "1912-08-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1577-de-16-de-agosto-de-1912",
+      "titulo": "LEI Nº 1.577 de 16 de Agosto de 1912",
+      "id": "br-municipal-3550308-lei-1912-08-16-1577",
+      "data": "1912-08-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1576-de-31-de-julho-de-1912",
+      "titulo": "LEI Nº 1.576 de 31 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-31-1576",
+      "data": "1912-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1575-de-31-de-julho-de-1912",
+      "titulo": "LEI Nº 1.575 de 31 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-31-1575",
+      "data": "1912-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1574-de-31-de-julho-de-1912",
+      "titulo": "LEI Nº 1.574 de 31 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-31-1574",
+      "data": "1912-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1573-de-31-de-julho-de-1912",
+      "titulo": "LEI Nº 1.573 de 31 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-31-1573",
+      "data": "1912-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1572-de-30-de-julho-de-1912",
+      "titulo": "LEI Nº 1.572 de 30 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-30-1572",
+      "data": "1912-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1571-de-30-de-julho-de-1912",
+      "titulo": "LEI Nº 1.571 de 30 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-30-1571",
+      "data": "1912-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1570-de-29-de-julho-de-1912",
+      "titulo": "LEI Nº 1.570 de 29 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-29-1570",
+      "data": "1912-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1569-de-27-de-julho-de-1912",
+      "titulo": "LEI Nº 1.569 de 27 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-27-1569",
+      "data": "1912-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1568-de-27-de-julho-de-1912",
+      "titulo": "LEI Nº 1.568 de 27 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-27-1568",
+      "data": "1912-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1567-de-27-de-julho-de-1912",
+      "titulo": "LEI Nº 1.567 de 27 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-27-1567",
+      "data": "1912-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1566-de-25-de-julho-de-1912",
+      "titulo": "LEI Nº 1.566 de 25 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-25-1566",
+      "data": "1912-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1565-de-25-de-julho-de-1912",
+      "titulo": "LEI Nº 1.565 de 25 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-25-1565",
+      "data": "1912-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1564-de-25-de-julho-de-1912",
+      "titulo": "LEI Nº 1.564 de 25 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-25-1564",
+      "data": "1912-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1563-de-25-de-julho-de-1912",
+      "titulo": "LEI Nº 1.563 de 25 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-25-1563",
+      "data": "1912-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1562-de-25-de-julho-de-1912",
+      "titulo": "LEI Nº 1.562 de 25 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-25-1562",
+      "data": "1912-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1561-de-12-de-julho-de-1912",
+      "titulo": "LEI Nº 1.561 de 12 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-12-1561",
+      "data": "1912-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1560-de-4-de-julho-de-1912",
+      "titulo": "LEI Nº 1.560 de 4 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-04-1560",
+      "data": "1912-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1559-de-4-de-julho-de-1912",
+      "titulo": "LEI Nº 1.559 de 4 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-04-1559",
+      "data": "1912-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1558-de-4-de-julho-de-1912",
+      "titulo": "LEI Nº 1.558 de 4 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-04-1558",
+      "data": "1912-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1557-de-4-de-julho-de-1912",
+      "titulo": "LEI Nº 1.557 de 4 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-04-1557",
+      "data": "1912-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1556-de-4-de-julho-de-1912",
+      "titulo": "LEI Nº 1.556 de 4 de Julho de 1912",
+      "id": "br-municipal-3550308-lei-1912-07-04-1556",
+      "data": "1912-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1555-de-27-de-junho-de-1912",
+      "titulo": "LEI Nº 1.555 de 27 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-27-1555",
+      "data": "1912-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1554-de-27-de-junho-de-1912",
+      "titulo": "LEI Nº 1.554 de 27 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-27-1554",
+      "data": "1912-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1553-de-27-de-junho-de-1912",
+      "titulo": "LEI Nº 1.553 de 27 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-27-1553",
+      "data": "1912-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1552-de-27-de-junho-de-1912",
+      "titulo": "LEI Nº 1.552 de 27 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-27-1552",
+      "data": "1912-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1551-de-19-de-junho-de-1912",
+      "titulo": "LEI Nº 1.551 de 19 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-19-1551",
+      "data": "1912-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1550-de-11-de-junho-de-1912",
+      "titulo": "LEI Nº 1.550 de 11 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-11-1550",
+      "data": "1912-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1549-de-8-de-junho-de-1912",
+      "titulo": "LEI Nº 1.549 de 8 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-08-1549",
+      "data": "1912-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1548-de-8-de-junho-de-1912",
+      "titulo": "LEI Nº 1.548 de 8 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-08-1548",
+      "data": "1912-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1547-de-8-de-junho-de-1912",
+      "titulo": "LEI Nº 1.547 de 8 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-08-1547",
+      "data": "1912-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1546-de-5-de-junho-de-1912",
+      "titulo": "LEI Nº 1.546 de 5 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-05-1546",
+      "data": "1912-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1545-de-5-de-junho-de-1912",
+      "titulo": "LEI Nº 1.545 de 5 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-05-1545",
+      "data": "1912-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1544-de-5-de-junho-de-1912",
+      "titulo": "LEI Nº 1.544 de 5 de Junho de 1912",
+      "id": "br-municipal-3550308-lei-1912-06-05-1544",
+      "data": "1912-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1543-de-28-de-maio-de-1912",
+      "titulo": "LEI Nº 1.543 de 28 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-28-1543",
+      "data": "1912-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1542-de-24-de-maio-de-1912",
+      "titulo": "LEI Nº 1.542 de 24 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-24-1542",
+      "data": "1912-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1541-de-24-de-maio-de-1912",
+      "titulo": "LEI Nº 1.541 de 24 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-24-1541",
+      "data": "1912-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1540-de-21-de-maio-de-1912",
+      "titulo": "LEI Nº 1.540 de 21 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-21-1540",
+      "data": "1912-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1539-de-21-de-maio-de-1912",
+      "titulo": "LEI Nº 1.539 de 21 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-21-1539",
+      "data": "1912-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1538-de-17-de-maio-de-1912",
+      "titulo": "LEI Nº 1.538 de 17 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-17-1538",
+      "data": "1912-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1537-de-11-de-maio-de-1912",
+      "titulo": "LEI Nº 1.537 de 11 de Maio de 1912",
+      "id": "br-municipal-3550308-lei-1912-05-11-1537",
+      "data": "1912-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1536-de-30-de-abril-de-1912",
+      "titulo": "LEI Nº 1.536 de 30 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-30-1536",
+      "data": "1912-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1535-de-30-de-abril-de-1912",
+      "titulo": "LEI Nº 1.535 de 30 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-30-1535",
+      "data": "1912-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1534-de-26-de-abril-de-1912",
+      "titulo": "LEI Nº 1.534 de 26 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-26-1534",
+      "data": "1912-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1533-de-26-de-abril-de-1912",
+      "titulo": "LEI Nº 1.533 de 26 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-26-1533",
+      "data": "1912-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1532-de-24-de-abril-de-1912",
+      "titulo": "LEI Nº 1.532 de 24 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-24-1532",
+      "data": "1912-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1531-de-20-de-abril-de-1912",
+      "titulo": "LEI Nº 1.531 de 20 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-20-1531",
+      "data": "1912-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1530-de-19-de-abril-de-1912",
+      "titulo": "LEI Nº 1.530 de 19 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-19-1530",
+      "data": "1912-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1529-de-19-de-abril-de-1912",
+      "titulo": "LEI Nº 1.529 de 19 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-19-1529",
+      "data": "1912-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1528-de-19-de-abril-de-1912",
+      "titulo": "LEI Nº 1.528 de 19 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-19-1528",
+      "data": "1912-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1527-de-19-de-abril-de-1912",
+      "titulo": "LEI Nº 1.527 de 19 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-19-1527",
+      "data": "1912-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1526-de-19-de-abril-de-1912",
+      "titulo": "LEI Nº 1.526 de 19 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-19-1526",
+      "data": "1912-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1525-de-19-de-abril-de-1912",
+      "titulo": "LEI Nº 1.525 de 19 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-19-1525",
+      "data": "1912-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1524-de-15-de-abril-de-1912",
+      "titulo": "LEI Nº 1.524 de 15 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-15-1524",
+      "data": "1912-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1523-de-15-de-abril-de-1912",
+      "titulo": "LEI Nº 1.523 de 15 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-15-1523",
+      "data": "1912-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1522-de-15-de-abril-de-1912",
+      "titulo": "LEI Nº 1.522 de 15 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-15-1522",
+      "data": "1912-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1521-de-8-de-abril-de-1912",
+      "titulo": "LEI Nº 1.521 de 8 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-08-1521",
+      "data": "1912-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1520-de-8-de-abril-de-1912",
+      "titulo": "LEI Nº 1.520 de 8 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-08-1520",
+      "data": "1912-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1519-de-8-de-abril-de-1912",
+      "titulo": "LEI Nº 1.519 de 8 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-08-1519",
+      "data": "1912-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1518-de-8-de-abril-de-1912",
+      "titulo": "LEI Nº 1.518 de 8 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-08-1518",
+      "data": "1912-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1517-de-8-de-abril-de-1912",
+      "titulo": "LEI Nº 1.517 de 8 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-08-1517",
+      "data": "1912-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1516-de-1-de-abril-de-1912",
+      "titulo": "LEI Nº 1.516 de 1 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-01-1516",
+      "data": "1912-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1515-de-1-de-abril-de-1912",
+      "titulo": "LEI Nº 1.515 de 1 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-01-1515",
+      "data": "1912-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1514-de-1-de-abril-de-1912",
+      "titulo": "LEI Nº 1.514 de 1 de Abril de 1912",
+      "id": "br-municipal-3550308-lei-1912-04-01-1514",
+      "data": "1912-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1513-de-25-de-marco-de-1912",
+      "titulo": "LEI Nº 1.513 de 25 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-25-1513",
+      "data": "1912-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1512-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.512 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1512",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1511-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.511 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1511",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1510-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.510 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1510",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1509-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.509 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1509",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1508-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.508 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1508",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1507-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.507 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1507",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1506-de-21-de-marco-de-1912",
+      "titulo": "LEI Nº 1.506 de 21 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-21-1506",
+      "data": "1912-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1505-de-18-de-marco-de-1912",
+      "titulo": "LEI Nº 1.505 de 18 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-18-1505",
+      "data": "1912-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1504-de-18-de-marco-de-1912",
+      "titulo": "LEI Nº 1.504 de 18 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-18-1504",
+      "data": "1912-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1503-de-2-de-marco-de-1912",
+      "titulo": "LEI Nº 1.503 de 2 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-02-1503",
+      "data": "1912-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1502-de-2-de-marco-de-1912",
+      "titulo": "LEI Nº 1.502 de 2 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-02-1502",
+      "data": "1912-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1501-de-2-de-marco-de-1912",
+      "titulo": "LEI Nº 1.501 de 2 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-02-1501",
+      "data": "1912-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1500-de-2-de-marco-de-1912",
+      "titulo": "LEI Nº 1.500 de 2 de Março de 1912",
+      "id": "br-municipal-3550308-lei-1912-03-02-1500",
+      "data": "1912-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1499-de-6-de-fevereiro-de-1912",
+      "titulo": "LEI Nº 1.499 de 6 de Fevereiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-02-06-1499",
+      "data": "1912-02-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1498-de-26-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.498 de 26 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-26-1498",
+      "data": "1912-01-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1497-de-26-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.497 de 26 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-26-1497",
+      "data": "1912-01-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1496-de-13-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.496 de 13 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-13-1496",
+      "data": "1912-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1495-de-9-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.495 de 9 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-09-1495",
+      "data": "1912-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1494-de-9-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.494 de 9 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-09-1494",
+      "data": "1912-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1493-de-8-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.493 de 8 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-08-1493",
+      "data": "1912-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1492-de-4-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.492 de 4 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-04-1492",
+      "data": "1912-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1491-de-2-de-janeiro-de-1912",
+      "titulo": "LEI Nº 1.491 de 2 de Janeiro de 1912",
+      "id": "br-municipal-3550308-lei-1912-01-02-1491",
+      "data": "1912-01-02"
+    }
+  ],
+  "pendencias": []
+}

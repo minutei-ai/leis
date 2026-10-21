@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-05-15-24740",
+  "titulo": "LEI nº 24740, de 15/05/2024",
+  "data": "2024-05-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24740/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24740/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "3147c34fcc6b4b03e006f8c2d17ac3b26ba25251dfd9b0ba22b7623505dbb104",
+  "coletado_em": "2026-10-21T08:38:44.011Z",
+  "sha256_fonte": "9e6eab61655e04945dca72bb5173e78cfdab2b0bf15c519be9fb9bae5a5065fb",
+  "sha256_markdown": "697405a85325783da3af619478fb529bddc45dd9c1facf81c407c136dcd3ad09"
+}

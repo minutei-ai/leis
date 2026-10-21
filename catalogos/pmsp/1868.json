@@ -1,0 +1,21 @@
+{
+  "ano_publicacao": 1868,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1868",
+    "ano-final": "31/12/1868",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:22.527Z",
+  "total": 0,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "08717b18f709b546ec2a785be619db0ebfe465407ea8db732dd6d5f91cdbb98f"
+    }
+  ],
+  "normas": [],
+  "pendencias": []
+}

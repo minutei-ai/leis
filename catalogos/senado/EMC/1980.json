@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1980",
+  "tipo": "EMC",
+  "ano": 1980,
+  "coletado_em": "2026-10-21T08:40:05.685Z",
+  "normas": [
+    {
+      "senadoId": "540605",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1980-12-02-17",
+      "titulo": "Emenda Constitucional nº 17 de 02/12/1980",
+      "data": "1980-12-02",
+      "numero": "17",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-12-02;17",
+      "ementa": "Altera os artigos 23, 24 e 25 da Constituição Federal e dá outras providências."
+    },
+    {
+      "senadoId": "540602",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1980-11-27-16",
+      "titulo": "Emenda Constitucional nº 16 de 27/11/1980",
+      "data": "1980-11-27",
+      "numero": "16",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-11-27;16",
+      "ementa": "Altera dispositivos da Constituição Federal."
+    },
+    {
+      "senadoId": "593619",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1980-11-19-15",
+      "titulo": "Emenda Constitucional nº 15 de 19/11/1980",
+      "data": "1980-11-19",
+      "numero": "15",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-11-19;15",
+      "ementa": "Restabelece o sistema de voto direto nas eleições para Governador de Estado e para Senador da República."
+    },
+    {
+      "senadoId": "593616",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1980-09-09-14",
+      "titulo": "Emenda Constitucional nº 14 de 09/09/1980",
+      "data": "1980-09-09",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-09-09;14",
+      "ementa": "Altera o Título das Disposições Gerais e Transitórias, estendendo os mandatos dos atuais Prefeitos, Vice-Prefeitos, Vereadores e Suplentes até 1983, imprimindo nova redação ao artigo 209."
+    }
+  ],
+  "pendencias": []
+}

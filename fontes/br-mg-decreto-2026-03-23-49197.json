@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-23-49197",
+  "titulo": "DEC nº 49197, de 23/03/2026",
+  "data": "2026-03-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49197/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49197/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6a254665816682fe09c0e0302fb7c9dccaf6d0a885fe3867adf7e9091b98616e",
+  "coletado_em": "2026-10-21T08:25:58.186Z",
+  "sha256_fonte": "121066011316a24369b255d558e023bcc08cfea3fbff21615c29c80e40c05179",
+  "sha256_markdown": "0204bf27b77ed278abcd642530785b38e987e2a1cda495f065987ae011003e46"
+}

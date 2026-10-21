@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-06-13-13677",
+  "titulo": "Lei nº 13.677 de 13/06/2018",
+  "data": "2018-06-13",
+  "fonte": "https://normas.leg.br/api/public/binario/8699884b-5f20-4e81-953c-c07803e0ca6d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-06-13;13677",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-06-13%3B13677&tipo_documento=maior-detalhe",
+  "sha256_dados": "0be6a7559a0d54979959b5d1ba0e836401da00ace08f014f5e6ef4d9bd9c3e70",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:21.003Z",
+  "sha256_fonte": "878314bd9fceff2b7e7ecdd1684f2def774525ac5fa7da4eb1f3b8cdbcb74bd5",
+  "sha256_markdown": "bdd76fc3a4137a1106369f63ad6f728d58670fc3c05ecd3e7cb5b6ba8c54bfa7"
+}

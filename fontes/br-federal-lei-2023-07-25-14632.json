@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-07-25-14632",
+  "titulo": "Lei nº 14.632 de 25/07/2023",
+  "data": "2023-07-25",
+  "fonte": "https://normas.leg.br/api/public/binario/a22a9cda-fddc-430e-8584-e7ebe9b1aec6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-07-25;14632",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-07-25%3B14632&tipo_documento=maior-detalhe",
+  "sha256_dados": "5229eab248c1bc04e2b4df9abfbd4ddbcbc84af263d9e9af3e42ac09797beedf",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:42.689Z",
+  "sha256_fonte": "c3e56b8d47c28d18e5b7832c1017f203b4a5166a6e89c354965da98629ebccae",
+  "sha256_markdown": "341cbe30d4db6eb05d230adba03343bb16cc3fdfcef35e8622bd656b77aa086d"
+}

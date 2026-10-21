@@ -1,0 +1,962 @@
+{
+  "ano_publicacao": 2025,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2025",
+    "ano-final": "31/12/2025",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:44:45.783Z",
+  "total": 156,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "cb0cbce2095dbcfbf646b72694676e580db44070795661a23d6662004e218efa"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "3d20d6469c1f22efd3d83eda9f42c15c9f4cf001c62961bed39063e883ff80a5"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18378-de-29-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.378 de 29 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-29-18378",
+      "data": "2025-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18377-de-29-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.377 de 29 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-29-18377",
+      "data": "2025-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18376-de-29-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.376 de 29 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-29-18376",
+      "data": "2025-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18375-de-29-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.375 de 29 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-29-18375",
+      "data": "2025-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18374-de-25-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.374 de 25 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-25-18374",
+      "data": "2025-12-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18373-de-25-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.373 de 25 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-25-18373",
+      "data": "2025-12-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18372-de-25-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.372 de 25 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-25-18372",
+      "data": "2025-12-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18371-de-25-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.371 de 25 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-25-18371",
+      "data": "2025-12-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18370-de-25-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.370 de 25 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-25-18370",
+      "data": "2025-12-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18369-de-22-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.369 de 22 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-22-18369",
+      "data": "2025-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18368-de-22-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.368 de 22 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-22-18368",
+      "data": "2025-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18367-de-18-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.367 de 18 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-18-18367",
+      "data": "2025-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18366-de-18-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.366 de 18 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-18-18366",
+      "data": "2025-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18365-de-18-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.365 de 18 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-18-18365",
+      "data": "2025-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18364-de-18-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.364 de 18 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-18-18364",
+      "data": "2025-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18363-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.363 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18363",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18362-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.362 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18362",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18361-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.361 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18361",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18360-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.360 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18360",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18359-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.359 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18359",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18358-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.358 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18358",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18357-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.357 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18357",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18356-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.356 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18356",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18355-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.355 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18355",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18354-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.354 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18354",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18353-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.353 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18353",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18352-de-16-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.352 de 16 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-16-18352",
+      "data": "2025-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18351-de-15-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.351 de 15 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-15-18351",
+      "data": "2025-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18350-de-10-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.350 de 10 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-10-18350",
+      "data": "2025-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18349-de-9-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.349 de 9 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-09-18349",
+      "data": "2025-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18348-de-9-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.348 de 9 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-09-18348",
+      "data": "2025-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18347-de-9-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.347 de 9 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-09-18347",
+      "data": "2025-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18346-de-4-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.346 de 4 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-04-18346",
+      "data": "2025-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18345-de-1-de-dezembro-de-2025",
+      "titulo": "LEI Nº 18.345 de 1 de Dezembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-12-01-18345",
+      "data": "2025-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18344-de-28-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.344 de 28 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-28-18344",
+      "data": "2025-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18343-de-28-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.343 de 28 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-28-18343",
+      "data": "2025-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18342-de-28-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.342 de 28 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-28-18342",
+      "data": "2025-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18341-de-28-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.341 de 28 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-28-18341",
+      "data": "2025-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18340-de-27-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.340 de 27 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-27-18340",
+      "data": "2025-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18339-de-25-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.339 de 25 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-25-18339",
+      "data": "2025-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18338-de-25-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.338 de 25 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-25-18338",
+      "data": "2025-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18337-de-18-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.337 de 18 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-18-18337",
+      "data": "2025-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18336-de-18-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.336 de 18 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-18-18336",
+      "data": "2025-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18335-de-18-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.335 de 18 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-18-18335",
+      "data": "2025-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18334-de-18-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.334 de 18 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-18-18334",
+      "data": "2025-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18333-de-14-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.333 de 14 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-14-18333",
+      "data": "2025-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18332-de-13-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.332 de 13 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-13-18332",
+      "data": "2025-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18331-de-13-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.331 de 13 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-13-18331",
+      "data": "2025-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18330-de-11-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.330 de 11 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-11-18330",
+      "data": "2025-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18329-de-3-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.329 de 3 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-03-18329",
+      "data": "2025-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18328-de-3-de-novembro-de-2025",
+      "titulo": "LEI Nº 18.328 de 3 de Novembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-11-03-18328",
+      "data": "2025-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18327-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.327 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18327",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18326-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.326 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18326",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18325-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.325 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18325",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18324-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.324 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18324",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18323-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.323 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18323",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18322-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.322 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18322",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18321-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.321 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18321",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18320-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.320 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18320",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18319-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.319 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18319",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18318-de-28-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.318 de 28 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-28-18318",
+      "data": "2025-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18317-de-14-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.317 de 14 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-14-18317",
+      "data": "2025-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18316-de-6-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.316 de 6 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-06-18316",
+      "data": "2025-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18313-de-3-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.313 de 3 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-03-18313",
+      "data": "2025-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18312-de-3-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.312 de 3 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-03-18312",
+      "data": "2025-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18315-de-2-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.315 de 2 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-02-18315",
+      "data": "2025-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18314-de-2-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.314 de 2 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-02-18314",
+      "data": "2025-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18311-de-1-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.311 de 1 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-01-18311",
+      "data": "2025-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18310-de-1-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.310 de 1 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-01-18310",
+      "data": "2025-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18309-de-1-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.309 de 1 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-01-18309",
+      "data": "2025-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18308-de-1-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.308 de 1 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-01-18308",
+      "data": "2025-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18307-de-1-de-outubro-de-2025",
+      "titulo": "LEI Nº 18.307 de 1 de Outubro de 2025",
+      "id": "br-municipal-3550308-lei-2025-10-01-18307",
+      "data": "2025-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18306-de-29-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.306 de 29 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-29-18306",
+      "data": "2025-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18305-de-26-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.305 de 26 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-26-18305",
+      "data": "2025-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18304-de-24-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.304 de 24 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-24-18304",
+      "data": "2025-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18303-de-24-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.303 de 24 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-24-18303",
+      "data": "2025-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18302-de-24-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.302 de 24 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-24-18302",
+      "data": "2025-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18301-de-24-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.301 de 24 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-24-18301",
+      "data": "2025-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18300-de-24-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.300 de 24 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-24-18300",
+      "data": "2025-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18299-de-19-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.299 de 19 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-19-18299",
+      "data": "2025-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18298-de-17-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.298 de 17 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-17-18298",
+      "data": "2025-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18297-de-10-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.297 de 10 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-10-18297",
+      "data": "2025-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18296-de-10-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.296 de 10 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-10-18296",
+      "data": "2025-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18295-de-10-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.295 de 10 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-10-18295",
+      "data": "2025-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18294-de-10-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.294 de 10 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-10-18294",
+      "data": "2025-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18293-de-2-de-setembro-de-2025",
+      "titulo": "LEI Nº 18.293 de 2 de Setembro de 2025",
+      "id": "br-municipal-3550308-lei-2025-09-02-18293",
+      "data": "2025-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18292-de-25-de-agosto-de-2025",
+      "titulo": "LEI Nº 18.292 de 25 de Agosto de 2025",
+      "id": "br-municipal-3550308-lei-2025-08-25-18292",
+      "data": "2025-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18291-de-28-de-julho-de-2025",
+      "titulo": "LEI Nº 18.291 de 28 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-28-18291",
+      "data": "2025-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18290-de-28-de-julho-de-2025",
+      "titulo": "LEI Nº 18.290 de 28 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-28-18290",
+      "data": "2025-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18289-de-28-de-julho-de-2025",
+      "titulo": "LEI Nº 18.289 de 28 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-28-18289",
+      "data": "2025-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18288-de-25-de-julho-de-2025",
+      "titulo": "LEI Nº 18.288 de 25 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-25-18288",
+      "data": "2025-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18287-de-25-de-julho-de-2025",
+      "titulo": "LEI Nº 18.287 de 25 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-25-18287",
+      "data": "2025-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18286-de-22-de-julho-de-2025",
+      "titulo": "LEI Nº 18.286 de 22 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-22-18286",
+      "data": "2025-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18285-de-22-de-julho-de-2025",
+      "titulo": "LEI Nº 18.285 de 22 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-22-18285",
+      "data": "2025-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18284-de-21-de-julho-de-2025",
+      "titulo": "LEI Nº 18.284 de 21 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-21-18284",
+      "data": "2025-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18283-de-3-de-julho-de-2025",
+      "titulo": "LEI Nº 18.283 de 3 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-03-18283",
+      "data": "2025-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18282-de-1-de-julho-de-2025",
+      "titulo": "LEI Nº 18.282 de 1 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-01-18282",
+      "data": "2025-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18281-de-1-de-julho-de-2025",
+      "titulo": "LEI Nº 18.281 de 1 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-01-18281",
+      "data": "2025-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18280-de-1-de-julho-de-2025",
+      "titulo": "LEI Nº 18.280 de 1 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-01-18280",
+      "data": "2025-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18279-de-1-de-julho-de-2025",
+      "titulo": "LEI Nº 18.279 de 1 de Julho de 2025",
+      "id": "br-municipal-3550308-lei-2025-07-01-18279",
+      "data": "2025-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18278-de-3-de-julho-de-2025",
+      "titulo": "LEI Nº 18.278 de 27 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-27-18278",
+      "data": "2025-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18277-de-3-de-julho-de-2025",
+      "titulo": "LEI Nº 18.277 de 27 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-27-18277",
+      "data": "2025-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18276-de-23-de-junho-de-2025",
+      "titulo": "LEI Nº 18.276 de 23 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-23-18276",
+      "data": "2025-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18275-de-17-de-junho-de-2025",
+      "titulo": "LEI Nº 18.275 de 17 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-17-18275",
+      "data": "2025-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18274-de-17-de-junho-de-2025",
+      "titulo": "LEI Nº 18.274 de 17 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-17-18274",
+      "data": "2025-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18273-de-17-de-junho-de-2025",
+      "titulo": "LEI Nº 18.273 de 17 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-17-18273",
+      "data": "2025-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18272-de-16-de-junho-de-2025",
+      "titulo": "LEI Nº 18.272 de 16 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-16-18272",
+      "data": "2025-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18276-de-16-de-junho-de-2025",
+      "titulo": "LEI Nº 18.271 de 16 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-16-18271",
+      "data": "2025-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18270-de-12-de-junho-de-2025",
+      "titulo": "LEI Nº 18.270 de 12 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-12-18270",
+      "data": "2025-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18269-de-9-de-junho-de-2025",
+      "titulo": "LEI Nº 18.269 de 9 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-09-18269",
+      "data": "2025-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18268-de-3-de-junho-de-2025",
+      "titulo": "LEI Nº 18.268 de 3 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-03-18268",
+      "data": "2025-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18267-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.267 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18267",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18266-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.266 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18266",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18265-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.265 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18265",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18264-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.264 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18264",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18263-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.263 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18263",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18262-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.262 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18262",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18261-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.261 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18261",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18260-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.260 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18260",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18259-de-2-de-junho-de-2025",
+      "titulo": "LEI Nº 18.259 de 2 de Junho de 2025",
+      "id": "br-municipal-3550308-lei-2025-06-02-18259",
+      "data": "2025-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18258-de-29-de-maio-de-2025",
+      "titulo": "LEI Nº 18.258 de 29 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-29-18258",
+      "data": "2025-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18257-de-29-de-maio-de-2025",
+      "titulo": "LEI Nº 18.257 de 29 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-29-18257",
+      "data": "2025-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18256-de-29-de-maio-de-2025",
+      "titulo": "LEI Nº 18.256 de 29 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-29-18256",
+      "data": "2025-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18255-de-29-de-maio-de-2025",
+      "titulo": "LEI Nº 18.255 de 29 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-29-18255",
+      "data": "2025-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18254-de-22-de-maio-de-2025",
+      "titulo": "LEI Nº 18.254 de 22 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-22-18254",
+      "data": "2025-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18253-de-22-de-maio-de-2025",
+      "titulo": "LEI Nº 18.253 de 22 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-22-18253",
+      "data": "2025-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18252-de-19-de-maio-de-2025",
+      "titulo": "LEI Nº 18.252 de 19 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-19-18252",
+      "data": "2025-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18251-de-19-de-maio-de-2025",
+      "titulo": "LEI Nº 18.251 de 19 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-19-18251",
+      "data": "2025-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18250-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.250 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18250",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18249-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.249 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18249",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18248-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.248 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18248",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18247-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.247 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18247",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18246-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.246 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18246",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18245-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.245 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18245",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18244-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.244 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18244",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18243-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.243 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18243",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18242-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.242 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18242",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18241-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.241 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18241",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18240-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.240 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18240",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18239-de-15-de-maio-de-2025",
+      "titulo": "LEI Nº 18.239 de 15 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-15-18239",
+      "data": "2025-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18238-de-13-de-maio-de-2025",
+      "titulo": "LEI Nº 18.238 de 13 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-13-18238",
+      "data": "2025-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18237-de-13-de-maio-de-2025",
+      "titulo": "LEI Nº 18.237 de 13 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-13-18237",
+      "data": "2025-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18236-de-13-de-maio-de-2025",
+      "titulo": "LEI Nº 18.236 de 13 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-13-18236",
+      "data": "2025-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18234-de-13-de-maio-de-2025",
+      "titulo": "LEI Nº 18.234 de 13 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-13-18234",
+      "data": "2025-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18233-de-13-de-maio-de-2025",
+      "titulo": "LEI Nº 18.233 de 13 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-13-18233",
+      "data": "2025-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18232-de-13-de-maio-de-2025",
+      "titulo": "LEI Nº 18.232 de 13 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-13-18232",
+      "data": "2025-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18235-de-8-de-maio-de-2025",
+      "titulo": "LEI Nº 18.235 de 8 de Maio de 2025",
+      "id": "br-municipal-3550308-lei-2025-05-08-18235",
+      "data": "2025-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18231-de-15-de-abril-de-2025",
+      "titulo": "LEI Nº 18.231 de 15 de Abril de 2025",
+      "id": "br-municipal-3550308-lei-2025-04-15-18231",
+      "data": "2025-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18230-de-1-de-abril-de-2025",
+      "titulo": "LEI Nº 18.230 de 1 de Abril de 2025",
+      "id": "br-municipal-3550308-lei-2025-04-01-18230",
+      "data": "2025-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18229-de-16-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.229 de 16 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-16-18229",
+      "data": "2025-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18228-de-16-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.228 de 16 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-16-18228",
+      "data": "2025-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18227-de-16-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.227 de 16 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-16-18227",
+      "data": "2025-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18226-de-16-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.226 de 16 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-16-18226",
+      "data": "2025-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18225-de-15-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.225 de 15 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-15-18225",
+      "data": "2025-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18224-de-9-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.224 de 9 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-09-18224",
+      "data": "2025-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18223-de-9-de-janeiro-de-2025",
+      "titulo": "LEI Nº 18.223 de 9 de Janeiro de 2025",
+      "id": "br-municipal-3550308-lei-2025-01-09-18223",
+      "data": "2025-01-09"
+    }
+  ],
+  "pendencias": []
+}

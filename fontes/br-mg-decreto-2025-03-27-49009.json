@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-03-27-49009",
+  "titulo": "DEC nº 49009, de 27/03/2025",
+  "data": "2025-03-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49009/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49009/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "345ade54aa565be74b8be3a01a05fc88fb93059f4f120c46b6500a9f86911401",
+  "coletado_em": "2026-10-21T08:30:32.793Z",
+  "sha256_fonte": "e2de006f647d11e3fcaaf168e639f01f0993378c7bc528d08241870d11ea8227",
+  "sha256_markdown": "ccc07633907937436364fb485b91f3f57193f77832a2e8ff1d8201baf19e24a9"
+}

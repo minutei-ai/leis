@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-22-13739",
+  "titulo": "Lei nº 13.739 de 22/11/2018",
+  "data": "2018-11-22",
+  "fonte": "https://normas.leg.br/api/public/binario/07384a1c-92ac-499d-89f7-ea6e58611841/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-22;13739",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-22%3B13739&tipo_documento=maior-detalhe",
+  "sha256_dados": "f00f0d4817c02cf620bf9aefc6d82575f889f17e861731ae0939f4ddfa4a71b2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:59.231Z",
+  "sha256_fonte": "3e4388bebad3a8355d0fc0169f627df6806fe25d74d72172db87672ba82b02ad",
+  "sha256_markdown": "464953df1ad3d618b33ec3554e7d1c56a5c15560bef09162b3d552743a96c320"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-27-25783",
+  "titulo": "LEI nº 25783, de 27/03/2026",
+  "data": "2026-03-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25783/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25783/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "980566eccb8a77407cb2fa99a093ffa211e8112b10d221fa71896f28fa6c4a33",
+  "coletado_em": "2026-10-21T08:26:04.914Z",
+  "sha256_fonte": "547f2500ce54f7a36e75f22a97c5f7fa517615f22c2e2a5ed1a7e39659a4e84f",
+  "sha256_markdown": "518816b7abc9d7e8cc86059c293f896c8f394002d8225d2f0da0a026d52285cb"
+}

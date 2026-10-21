@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-10-18-13892",
+  "titulo": "Lei nº 13.892 de 18/10/2019",
+  "data": "2019-10-18",
+  "fonte": "https://normas.leg.br/api/public/binario/0c35da57-6ecd-4264-91b8-9d4db76ba033/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-10-18;13892",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-10-18%3B13892&tipo_documento=maior-detalhe",
+  "sha256_dados": "2731b2f1290678fe2a788c4f8015845764905ba5b20a8d5cd9414f2419cf0147",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:45:47.120Z",
+  "sha256_fonte": "21cb861d4de6428702a4fd537e5646230ed2ea34c96a8cccd194580e3212a7bb",
+  "sha256_markdown": "6a989a73f6b7bcf89b5f3482caa87d2d47992188dd0264f0c077083ed4fc4e54"
+}

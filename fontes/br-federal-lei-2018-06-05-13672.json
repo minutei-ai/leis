@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-06-05-13672",
+  "titulo": "Lei nº 13.672 de 05/06/2018",
+  "data": "2018-06-05",
+  "fonte": "https://normas.leg.br/api/public/binario/084c0789-7276-4d41-9906-049dac3c1fa2/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-06-05;13672",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-06-05%3B13672&tipo_documento=maior-detalhe",
+  "sha256_dados": "83688aa3f4dc517a4687bc3bf94c410fa52312177d58f509cfbba733379ddafc",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:29.022Z",
+  "sha256_fonte": "9183375220d8907cbc7d57a61b4f03ac824d7b0eecdb33170a0ddc73ef081767",
+  "sha256_markdown": "c19ad6b8012bdf74ea926afc70bb8c2f29b08c83852272bb886dfd171e3436df"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-04-09-49018",
+  "titulo": "DEC nº 49018, de 09/04/2025",
+  "data": "2025-04-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49018/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49018/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "153e3d279dea82170295acf5d16f16295a4dd41c64b4b9d55286e1051a4291ee",
+  "coletado_em": "2026-10-21T08:30:49.101Z",
+  "sha256_fonte": "86e9cbab9b0c5b044e737a7a891ff5b8cede7f00356de1a1036bf0df78647857",
+  "sha256_markdown": "cac03a262d8263a5c6306fc1783d88e053799ce35f60df77c7a4e674f85a9bec"
+}

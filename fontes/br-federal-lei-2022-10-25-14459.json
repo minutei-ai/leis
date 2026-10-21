@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-10-25-14459",
+  "titulo": "Lei nº 14.459 de 25/10/2022",
+  "data": "2022-10-25",
+  "fonte": "https://normas.leg.br/api/public/binario/a95da054-dbdf-401d-9216-1c99b11fba2c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-10-25;14459",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-10-25%3B14459&tipo_documento=maior-detalhe",
+  "sha256_dados": "737c3172d961a5640afd0e406174c3ee25ade9e1d50ba71adefc68ef1f93e632",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:28.034Z",
+  "sha256_fonte": "832a92811f4339e816cf51c6fb485e1a811eb15caf5ad0ec45083254b228eabe",
+  "sha256_markdown": "cd42ead3aab0112af28cb1719cad9fbc266c5bdce05d5f9d8e0461858a40702d"
+}

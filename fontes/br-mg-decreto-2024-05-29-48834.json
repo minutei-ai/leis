@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-05-29-48834",
+  "titulo": "DEC nº 48834, de 29/05/2024",
+  "data": "2024-05-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48834/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48834/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "20652614033bd73264d6643f74ff677ba9da7991cb41cfa1057f6b60cd9a9452",
+  "coletado_em": "2026-10-21T08:39:07.526Z",
+  "sha256_fonte": "4ccd4699c3238cc4f5bb1beafebff260f6bd2e6f0354844b8c07f91ff1e676af",
+  "sha256_markdown": "1edbb5313e8b5624dd209198e95b284326010469ea0f340607c3927ff667cda1"
+}

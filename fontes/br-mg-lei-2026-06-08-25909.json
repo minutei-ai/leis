@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-06-08-25909",
+  "titulo": "LEI nº 25909, de 08/06/2026",
+  "data": "2026-06-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25909/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25909/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "147fa64847084ebaea35c7e57341c748cf238a641a66ada2aa72470c492dc739",
+  "coletado_em": "2026-10-21T08:27:42.472Z",
+  "sha256_fonte": "60b87eb9e7488be31e93cfff0c71e0d136adcb30c2241f02d7545b122e7bf17b",
+  "sha256_markdown": "5445a6cb351aecd51d95b1ca7e41d8b883a63648707ce7b894438d146420a628"
+}

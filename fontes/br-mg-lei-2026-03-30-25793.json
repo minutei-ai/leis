@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-30-25793",
+  "titulo": "LEI nº 25793, de 30/03/2026",
+  "data": "2026-03-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25793/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25793/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f3ace7d6b373aa96ac2fd952c76c5cc57deda002084fe8059dd64e49cc59dc87",
+  "coletado_em": "2026-10-21T08:26:17.253Z",
+  "sha256_fonte": "0ec53d6db186ddf2a4c43f3c2360041b30c3d47c53255d02323e8d06d7691948",
+  "sha256_markdown": "d89d82097c480dbeece665658f75088d4f318aeaf1a17c4727ee76423989057b"
+}

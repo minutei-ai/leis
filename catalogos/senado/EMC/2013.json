@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2013",
+  "tipo": "EMC",
+  "ano": 2013,
+  "coletado_em": "2026-10-21T08:39:38.294Z",
+  "normas": [
+    {
+      "senadoId": "540679",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2013-11-28-76",
+      "titulo": "Emenda Constitucional nº 76 de 28/11/2013",
+      "data": "2013-11-28",
+      "numero": "76",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2013-11-28;76",
+      "ementa": "Altera o § 2º do art. 55 e o § 4º do art. 66 da Constituição Federal, para abolir a votação secreta nos casos de perda de mandato de Deputado ou Senador e de apreciação de veto."
+    },
+    {
+      "senadoId": "540678",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2013-10-15-75",
+      "titulo": "Emenda Constitucional nº 75 de 15/10/2013",
+      "data": "2013-10-15",
+      "numero": "75",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2013-10-15;75",
+      "ementa": "Acrescenta a alínea e ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham."
+    },
+    {
+      "senadoId": "540677",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2013-08-06-74",
+      "titulo": "Emenda Constitucional nº 74 de 06/08/2013",
+      "data": "2013-08-06",
+      "numero": "74",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2013-08-06;74",
+      "ementa": "Altera o art. 134 da Constituição Federal."
+    },
+    {
+      "senadoId": "540676",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2013-06-06-73",
+      "titulo": "Emenda Constitucional nº 73 de 06/06/2013",
+      "data": "2013-06-06",
+      "numero": "73",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2013-06-06;73",
+      "ementa": "Cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões."
+    },
+    {
+      "senadoId": "540675",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2013-04-02-72",
+      "titulo": "Emenda Constitucional nº 72 de 02/04/2013",
+      "data": "2013-04-02",
+      "numero": "72",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2013-04-02;72",
+      "ementa": "Altera a redação do parágrafo único do art. 7º da Constituição Federal para estabelecer a igualdade de direitos trabalhistas entre os trabalhadores domésticos e os demais trabalhadores urbanos e rurais."
+    }
+  ],
+  "pendencias": []
+}

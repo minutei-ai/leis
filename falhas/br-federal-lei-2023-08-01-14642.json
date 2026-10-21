@@ -1,0 +1,6 @@
+{
+  "id": "br-federal-lei-2023-08-01-14642",
+  "urn": "urn:lex:br:federal:lei:2023-08-01;14642",
+  "coletado_em": "2026-10-21T08:29:32.405Z",
+  "erro": "InvalidDocument: { \"fonte\": \"https://normas.leg.br/api/public/binario/97e45d85-d406-489a-9f81-158df0c4d00d/texto\", \"motivo\": \"Artigo inicial ausente\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/convert.ts:41:11)\n    at leis.convert (/home/yorizel/repos/leis/scripts/convert.ts:15:31)\n    at leis.convert (/home/yorizel/repos/leis/scripts/collect-senado.ts:61:35)"
+}

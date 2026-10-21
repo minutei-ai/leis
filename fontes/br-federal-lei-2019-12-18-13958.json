@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-18-13958",
+  "titulo": "Lei nº 13.958 de 18/12/2019",
+  "data": "2019-12-18",
+  "fonte": "https://normas.leg.br/api/public/binario/9eba7eb9-0806-40a4-bb62-b60cdd5f6005/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-18;13958",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-18%3B13958&tipo_documento=maior-detalhe",
+  "sha256_dados": "37c4c65e7c3898506ba3d7c03b687fa598b62e28ad1589384e6622b42b9e757f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:15.875Z",
+  "sha256_fonte": "d558e4e82f5799749c01756a5f9ceca2de0728a3342cc8982ae7df359822c060",
+  "sha256_markdown": "92660a084914de62efc8e6cfc83fd1ba33b74715cf9e1cf0ea249a4aac8eb257"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-04-17-49218",
+  "titulo": "DEC nº 49218, de 17/04/2026",
+  "data": "2026-04-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49218/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49218/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "84b9c95914c4c130e12acd2ac9996302fb7d2393adf6eeec721e9748a6cf2dd1",
+  "coletado_em": "2026-10-21T08:26:33.659Z",
+  "sha256_fonte": "e7b63446209810438bb4d6e3767111e85f50020e3578cd30189aca7878215e2a",
+  "sha256_markdown": "58ac93e54458d209c3a61e8641e768a9acf3163c0488fc98c2fd8fb741c8350c"
+}

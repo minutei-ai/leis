@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-03-21-25189",
+  "titulo": "LEI nº 25189, de 21/03/2025",
+  "data": "2025-03-21",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25189/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25189/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "df0b1042003bd2043afcebd11ae5ea35de6bbb185e54d82e335aa7869090ccb8",
+  "coletado_em": "2026-10-21T08:30:31.660Z",
+  "sha256_fonte": "85455934ae3488f6b030049b78561bdfa2501ce166542f8272b4ee40c8e4de89",
+  "sha256_markdown": "2603edf87ef7d4aada9bb2e1b9c0cf80eb43b508d323bce50816439c8f56fdc9"
+}

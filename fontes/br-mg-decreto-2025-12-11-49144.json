@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-11-49144",
+  "titulo": "DEC nº 49144, de 11/12/2025",
+  "data": "2025-12-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49144/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49144/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "14757dd5e1f81822612447e37d28bbd46ca265b5728e5b11cb8b725784ed66fe",
+  "coletado_em": "2026-10-21T08:35:58.758Z",
+  "sha256_fonte": "704c81c78988f0a3d562bbd0e02b11a4464f056098c9b1412b6b74c90c65b0e0",
+  "sha256_markdown": "4cd425005841eba8d7715601645f074127407913895212c89f19aa9426a63282"
+}

@@ -1,0 +1,644 @@
+{
+  "ano_publicacao": 1949,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1949",
+    "ano-final": "31/12/1949",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:16.336Z",
+  "total": 103,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "12223ae6fb830440d507f8292722f9d73e34d2aea5d90a0953006099adc50bb7"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "0431ef34d01d7d7c939347996ee1a5bcccae3de05430add6eca057b48aaa2fc2"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3831-de-29-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.831 de 29 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-29-3831",
+      "data": "1949-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3830-de-29-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.830 de 29 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-29-3830",
+      "data": "1949-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3829-de-28-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.829 de 28 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-28-3829",
+      "data": "1949-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3828-de-28-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.828 de 28 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-28-3828",
+      "data": "1949-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3827-de-28-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.827 de 28 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-28-3827",
+      "data": "1949-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3826-de-28-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.826 de 28 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-28-3826",
+      "data": "1949-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3824-de-28-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.824 de 28 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-28-3824",
+      "data": "1949-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3825-de-28-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.825 de 28 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-28-3825",
+      "data": "1949-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3823-de-23-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.823 de 23 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-23-3823",
+      "data": "1949-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3822-de-23-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.822 de 23 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-23-3822",
+      "data": "1949-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3821-de-22-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.821 de 22 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-22-3821",
+      "data": "1949-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3820-de-22-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.820 de 22 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-22-3820",
+      "data": "1949-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3819-de-22-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.819 de 22 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-22-3819",
+      "data": "1949-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3818-de-10-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.818 de 10 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-10-3818",
+      "data": "1949-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3817-de-10-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.817 de 10 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-10-3817",
+      "data": "1949-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3816-de-6-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.816 de 6 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-06-3816",
+      "data": "1949-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3815-de-6-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.815 de 6 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-06-3815",
+      "data": "1949-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3814-de-6-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.814 de 6 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-06-3814",
+      "data": "1949-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3813-de-5-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.813 de 5 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-05-3813",
+      "data": "1949-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3812-de-5-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.812 de 5 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-05-3812",
+      "data": "1949-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3811-de-5-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.811 de 5 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-05-3811",
+      "data": "1949-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3810-de-1-de-dezembro-de-1949",
+      "titulo": "LEI Nº 3.810 de 1 de Dezembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-12-01-3810",
+      "data": "1949-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3809-de-28-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.809 de 28 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-28-3809",
+      "data": "1949-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3808-de-28-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.808 de 28 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-28-3808",
+      "data": "1949-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3807-de-28-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.807 de 28 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-28-3807",
+      "data": "1949-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3806-de-24-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.806 de 24 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-24-3806",
+      "data": "1949-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3805-de-19-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.805 de 19 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-19-3805",
+      "data": "1949-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3804-de-7-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.804 de 7 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-07-3804",
+      "data": "1949-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3803-de-7-de-novembro-de-1949",
+      "titulo": "LEI Nº 3.803 de 7 de Novembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-11-07-3803",
+      "data": "1949-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3802-de-28-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.802 de 28 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-28-3802",
+      "data": "1949-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3801-de-28-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.801 de 28 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-28-3801",
+      "data": "1949-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3800-de-19-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.800 de 19 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-19-3800",
+      "data": "1949-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3799-de-14-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.799 de 14 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-14-3799",
+      "data": "1949-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3798-de-12-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.798 de 12 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-12-3798",
+      "data": "1949-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3797-de-3-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.797 de 3 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-03-3797",
+      "data": "1949-09-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3796-de-3-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.796 de 3 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-03-3796",
+      "data": "1949-09-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3795-de-3-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.795 de 3 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-03-3795",
+      "data": "1949-09-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3794-de-3-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.794 de 3 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-03-3794",
+      "data": "1949-09-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3793-de-1-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.793 de 1 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-01-3793",
+      "data": "1949-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3792-de-1-de-setembro-de-1949",
+      "titulo": "LEI Nº 3.792 de 1 de Setembro de 1949",
+      "id": "br-municipal-3550308-lei-1949-09-01-3792",
+      "data": "1949-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3791-de-29-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.791 de 29 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-29-3791",
+      "data": "1949-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3790-de-26-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.790 de 26 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-26-3790",
+      "data": "1949-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3789-de-26-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.789 de 26 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-26-3789",
+      "data": "1949-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3788-de-20-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.788 de 20 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-20-3788",
+      "data": "1949-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3787-de-20-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.787 de 20 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-20-3787",
+      "data": "1949-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3786-de-12-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.786 de 12 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-12-3786",
+      "data": "1949-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3785-de-4-de-agosto-de-1949",
+      "titulo": "LEI Nº 3.785 de 4 de Agosto de 1949",
+      "id": "br-municipal-3550308-lei-1949-08-04-3785",
+      "data": "1949-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3784-de-12-de-julho-de-1949",
+      "titulo": "LEI Nº 3.784 de 12 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-12-3784",
+      "data": "1949-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3782-de-5-de-julho-de-1949",
+      "titulo": "LEI Nº 3.782 de 5 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-05-3782",
+      "data": "1949-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3781-de-5-de-julho-de-1949",
+      "titulo": "LEI Nº 3.781 de 5 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-05-3781",
+      "data": "1949-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3783-de-5-de-julho-de-1949",
+      "titulo": "LEI Nº 3.783 de 5 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-05-3783",
+      "data": "1949-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3780-de-4-de-julho-de-1949",
+      "titulo": "LEI Nº 3.780 de 4 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-04-3780",
+      "data": "1949-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3779-de-2-de-julho-de-1949",
+      "titulo": "LEI Nº 3.779 de 2 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-02-3779",
+      "data": "1949-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3778-de-2-de-julho-de-1949",
+      "titulo": "LEI Nº 3.778 de 2 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-02-3778",
+      "data": "1949-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3777-de-1-de-julho-de-1949",
+      "titulo": "LEI Nº 3.777 de 1 de Julho de 1949",
+      "id": "br-municipal-3550308-lei-1949-07-01-3777",
+      "data": "1949-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3776-de-27-de-junho-de-1949",
+      "titulo": "LEI Nº 3.776 de 27 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-27-3776",
+      "data": "1949-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3775-de-27-de-junho-de-1949",
+      "titulo": "LEI Nº 3.775 de 27 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-27-3775",
+      "data": "1949-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3773-de-24-de-junho-de-1949",
+      "titulo": "LEI Nº 3.773 de 24 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-24-3773",
+      "data": "1949-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3774-de-24-de-junho-de-1949",
+      "titulo": "LEI Nº 3.774 de 24 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-24-3774",
+      "data": "1949-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3772-de-21-de-junho-de-1949",
+      "titulo": "LEI Nº 3.772 de 21 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-21-3772",
+      "data": "1949-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3771-de-18-de-junho-de-1949",
+      "titulo": "LEI Nº 3.771 de 18 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-18-3771",
+      "data": "1949-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3770-de-18-de-junho-de-1949",
+      "titulo": "LEI Nº 3.770 de 18 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-18-3770",
+      "data": "1949-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3769-de-18-de-junho-de-1949",
+      "titulo": "LEI Nº 3.769 de 18 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-18-3769",
+      "data": "1949-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3768-de-17-de-junho-de-1949",
+      "titulo": "LEI Nº 3.768 de 17 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-17-3768",
+      "data": "1949-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3767-de-13-de-junho-de-1949",
+      "titulo": "LEI Nº 3.767 de 13 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-13-3767",
+      "data": "1949-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3766-de-8-de-junho-de-1949",
+      "titulo": "LEI Nº 3.766 de 8 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-08-3766",
+      "data": "1949-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3765-de-3-de-junho-de-1949",
+      "titulo": "LEI Nº 3.765 de 3 de Junho de 1949",
+      "id": "br-municipal-3550308-lei-1949-06-03-3765",
+      "data": "1949-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3764-de-31-de-maio-de-1949",
+      "titulo": "LEI Nº 3.764 de 31 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-31-3764",
+      "data": "1949-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3763-de-25-de-maio-de-1949",
+      "titulo": "LEI Nº 3.763 de 25 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-25-3763",
+      "data": "1949-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3762-de-25-de-maio-de-1949",
+      "titulo": "LEI Nº 3.762 de 25 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-25-3762",
+      "data": "1949-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3761-de-25-de-maio-de-1949",
+      "titulo": "LEI Nº 3.761 de 25 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-25-3761",
+      "data": "1949-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3760-de-24-de-maio-de-1949",
+      "titulo": "LEI Nº 3.760 de 24 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-24-3760",
+      "data": "1949-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3759-de-20-de-maio-de-1949",
+      "titulo": "LEI Nº 3.759 de 20 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-20-3759",
+      "data": "1949-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3758-de-20-de-maio-de-1949",
+      "titulo": "LEI Nº 3.758 de 20 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-20-3758",
+      "data": "1949-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3757-de-20-de-maio-de-1949",
+      "titulo": "LEI Nº 3.757 de 20 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-20-3757",
+      "data": "1949-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3756-de-13-de-maio-de-1949",
+      "titulo": "LEI Nº 3.756 de 13 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-13-3756",
+      "data": "1949-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3755-de-13-de-maio-de-1949",
+      "titulo": "LEI Nº 3.755 de 13 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-13-3755",
+      "data": "1949-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3754-de-11-de-maio-de-1949",
+      "titulo": "LEI Nº 3.754 de 11 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-11-3754",
+      "data": "1949-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3753-de-11-de-maio-de-1949",
+      "titulo": "LEI Nº 3.753 de 11 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-11-3753",
+      "data": "1949-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3752-de-7-de-maio-de-1949",
+      "titulo": "LEI Nº 3.752 de 7 de Maio de 1949",
+      "id": "br-municipal-3550308-lei-1949-05-07-3752",
+      "data": "1949-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3751-de-30-de-abril-de-1949",
+      "titulo": "LEI Nº 3.751 de 30 de Abril de 1949",
+      "id": "br-municipal-3550308-lei-1949-04-30-3751",
+      "data": "1949-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3750-de-28-de-abril-de-1949",
+      "titulo": "LEI Nº 3.750 de 28 de Abril de 1949",
+      "id": "br-municipal-3550308-lei-1949-04-28-3750",
+      "data": "1949-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3749-de-22-de-abril-de-1949",
+      "titulo": "LEI Nº 3.749 de 22 de Abril de 1949",
+      "id": "br-municipal-3550308-lei-1949-04-22-3749",
+      "data": "1949-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3747-de-13-de-abril-de-1949",
+      "titulo": "LEI Nº 3.747 de 13 de Abril de 1949",
+      "id": "br-municipal-3550308-lei-1949-04-13-3747",
+      "data": "1949-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3748-de-3-de-abril-de-1949",
+      "titulo": "LEI Nº 3.748 de 3 de Abril de 1949",
+      "id": "br-municipal-3550308-lei-1949-04-03-3748",
+      "data": "1949-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3746-de-18-de-marco-de-1949",
+      "titulo": "LEI Nº 3.746 de 18 de Março de 1949",
+      "id": "br-municipal-3550308-lei-1949-03-18-3746",
+      "data": "1949-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3745-de-11-de-marco-de-1949",
+      "titulo": "LEI Nº 3.745 de 11 de Março de 1949",
+      "id": "br-municipal-3550308-lei-1949-03-11-3745",
+      "data": "1949-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3744-de-4-de-fevereiro-de-1949",
+      "titulo": "LEI Nº 3.744 de 4 de Fevereiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-02-04-3744",
+      "data": "1949-02-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3743-de-29-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.743 de 29 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-29-3743",
+      "data": "1949-01-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3742-de-28-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.742 de 28 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-28-3742",
+      "data": "1949-01-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3741-de-17-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.741 de 17 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-17-3741",
+      "data": "1949-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3740-de-15-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.740 de 15 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-15-3740",
+      "data": "1949-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3739-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.739 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3739",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3738-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.738 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3738",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3736-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.736 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3736",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3735-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.735 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3735",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3734-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.734 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3734",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3733-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.733 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3733",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3732-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.732 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3732",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3731-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.731 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3731",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3730-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.730 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3730",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3729-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.729 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3729",
+      "data": "1949-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3737-de-3-de-janeiro-de-1949",
+      "titulo": "LEI Nº 3.737 de 3 de Janeiro de 1949",
+      "id": "br-municipal-3550308-lei-1949-01-03-3737",
+      "data": "1949-01-03"
+    }
+  ],
+  "pendencias": []
+}

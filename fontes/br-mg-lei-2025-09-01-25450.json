@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-09-01-25450",
+  "titulo": "LEI nº 25450, de 01/09/2025",
+  "data": "2025-09-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25450/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25450/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cacde8affeaeedb54080df412c4c706fdc76e7ee286587195d61b97be46f76f5",
+  "coletado_em": "2026-10-21T08:33:46.592Z",
+  "sha256_fonte": "c4528abc459029cb3e03b1db22f30c457e2f1e2dea3bbfa32ad20f99ad957bdd",
+  "sha256_markdown": "533d66bc852754c0eb23013a4e6b2d240e602745a7f2e1b90de6073ce47ba3d8"
+}

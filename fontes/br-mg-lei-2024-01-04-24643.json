@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-01-04-24643",
+  "titulo": "LEI nº 24643, de 04/01/2024",
+  "data": "2024-01-04",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24643/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24643/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7f246de9fc9ba1775e94b0286c64accac6cdd9a9b6ec50b45f490abacf00b04a",
+  "coletado_em": "2026-10-21T08:36:47.152Z",
+  "sha256_fonte": "9b08c0f414c690e7515dfcf866ddef86013bd0952949725a5cfaced230494275",
+  "sha256_markdown": "ae1a74b4104eb968ca4768e21aef078f01ba3eb8f769e56dc26580a5cba4b923"
+}

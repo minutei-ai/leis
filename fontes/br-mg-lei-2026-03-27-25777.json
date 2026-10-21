@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-27-25777",
+  "titulo": "LEI nº 25777, de 27/03/2026",
+  "data": "2026-03-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25777/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25777/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "414a677e1ffc4872f67b41913f4c1ecd2e9bcae625d5a23d4cb24b131f3c5b68",
+  "coletado_em": "2026-10-21T08:26:01.549Z",
+  "sha256_fonte": "27aae6afcbd8c58bb9a6d6dab1b92b1fe0944faaeac4ac52fb54c31b66f8575f",
+  "sha256_markdown": "c85423935c71e9778108def315f51a73b9fdfed335275b6778634708df74041d"
+}

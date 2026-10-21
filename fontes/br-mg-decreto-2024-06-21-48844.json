@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-06-21-48844",
+  "titulo": "DEC nº 48844, de 21/06/2024",
+  "data": "2024-06-21",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48844/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48844/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b75a71877b381b7a60ba2aa1d3c02cb3d3ed050bf9cce199bb0df1643e04ce2b",
+  "coletado_em": "2026-10-21T08:39:44.546Z",
+  "sha256_fonte": "2d109db95d82bf61d2492a109254b6f42a8f65279fa57a9fa930d26f04fb2058",
+  "sha256_markdown": "821d03903effe7ec5fe69394410f8d8633bc7f1cd1724b075bd1116d935cecad"
+}

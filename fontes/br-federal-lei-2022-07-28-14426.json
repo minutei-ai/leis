@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-28-14426",
+  "titulo": "Lei nº 14.426 de 28/07/2022",
+  "data": "2022-07-28",
+  "fonte": "https://normas.leg.br/api/public/binario/4378f24e-f23d-4de6-ad0f-382b77b17082/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-28;14426",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-28%3B14426&tipo_documento=maior-detalhe",
+  "sha256_dados": "e6a7fb6975dfa8586886158de8b4d56d0b160762651e130bb5fae29b23dd2135",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:13.862Z",
+  "sha256_fonte": "bd12318f195fcc45a61cc1ac2b2b80c07ba72b5052a86b6d9bea340303b668c1",
+  "sha256_markdown": "b8f716e4c269a0134edfe0668f14681e96a1df341e594e5a502242b9b9ea921d"
+}

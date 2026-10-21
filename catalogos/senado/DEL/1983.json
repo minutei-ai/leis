@@ -1,0 +1,1039 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1983",
+  "tipo": "DEL",
+  "ano": 1983,
+  "coletado_em": "2026-10-21T08:36:31.689Z",
+  "normas": [
+    {
+      "senadoId": "526815",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-30-2103",
+      "titulo": "Decreto-Lei nº 2.103 de 30/12/1983",
+      "data": "1983-12-30",
+      "numero": "2103",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-30;2103",
+      "ementa": "Prorroga prazo previsto no Decreto-Lei n° 2.066, de 27 de outubro de 1983,   que autoriza remissão de créditos relativos ao imposto sobre a propriedade   territorial rural e à contribuição dos que exercem atividades rurais, dispensa   da taxa se serviços cadastrais e cancelamento dos débitos de contribuição   sindical rural."
+    },
+    {
+      "senadoId": "526807",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-28-2099",
+      "titulo": "Decreto-Lei nº 2.099 de 28/12/1983",
+      "data": "1983-12-28",
+      "numero": "2099",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-28;2099",
+      "ementa": "Estabelece contenção de despesas orçamentárias para o exercício de 1984, e   dá outras providências."
+    },
+    {
+      "senadoId": "526811",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-28-2101",
+      "titulo": "Decreto-Lei nº 2.101 de 28/12/1983",
+      "data": "1983-12-28",
+      "numero": "2101",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-28;2101",
+      "ementa": "Prorroga prazos fixados pelo Decreto-Lei n. 1703, de 1979, que estabelece   condições especias para importação de bens destinados à produção de petróleo   bruto e gás natural na Bacia de Campos, na Plataforma Continental Brasileira, e   dá outras providências."
+    },
+    {
+      "senadoId": "526813",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-28-2102",
+      "titulo": "Decreto-Lei nº 2.102 de 28/12/1983",
+      "data": "1983-12-28",
+      "numero": "2102",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-28;2102",
+      "ementa": "Altera disposições do Decreto-Lei n. 651, de 26 de agosto de   1938."
+    },
+    {
+      "senadoId": "526809",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-28-2100",
+      "titulo": "Decreto-Lei nº 2.100 de 28/12/1983",
+      "data": "1983-12-28",
+      "numero": "2100",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-28;2100",
+      "ementa": "Altera o artigo 9º do Decreto-Lei n. 1971, de 30 de novembro de 1982, e dá   outras providências."
+    },
+    {
+      "senadoId": "526805",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2098",
+      "titulo": "Decreto-Lei nº 2.098 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2098",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2098",
+      "ementa": "Prorroga até 31 de dezembro de 1986 o prazo de isenção fiscal concedida às empresas siderúrgicas pelo Decreto-Lei n. 596, de 7 de maio de 1969."
+    },
+    {
+      "senadoId": "526789",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2090",
+      "titulo": "Decreto-Lei nº 2.090 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2090",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2090",
+      "ementa": "Reajusta os atuais valores de vencimentos e proventos dos funcionários da   Secretaria do Tribunal Superior Eleitoral e dá outras   providências."
+    },
+    {
+      "senadoId": "526787",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2089",
+      "titulo": "Decreto-Lei nº 2.089 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2089",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2089",
+      "ementa": "Prorroga a vigência de incentivos fiscais."
+    },
+    {
+      "senadoId": "526791",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2091",
+      "titulo": "Decreto-Lei nº 2.091 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2091",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2091",
+      "ementa": "Reajusta os atuais valores de vencimentos e proventos dos funcionários das   Secretarias dos Tribunais Regionais Eleitorais e dá outras   providências."
+    },
+    {
+      "senadoId": "526797",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2094",
+      "titulo": "Decreto-Lei nº 2.094 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2094",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2094",
+      "ementa": "Reajusta os vencimentos e proventos dos funcionários do Quadro das   Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá   outras providências."
+    },
+    {
+      "senadoId": "526795",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2093",
+      "titulo": "Decreto-Lei nº 2.093 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2093",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2093",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das   Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar, e   dá outras providências."
+    },
+    {
+      "senadoId": "526803",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2097",
+      "titulo": "Decreto-Lei nº 2.097 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2097",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2097",
+      "ementa": "Reajusta os atuais valores de vencimentos, salários e proventos dos   servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal,   bem como os das pensões, e dá outras providências."
+    },
+    {
+      "senadoId": "526801",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2096",
+      "titulo": "Decreto-Lei nº 2.096 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2096",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2096",
+      "ementa": "Reajusta os atuais valores de vencimentos e proventos dos servidores da   Secretaria-Geral do Tribunal de Contas da União e dá outras   providências."
+    },
+    {
+      "senadoId": "526799",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2095",
+      "titulo": "Decreto-Lei nº 2.095 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2095",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2095",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das   Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e   dá outras providências."
+    },
+    {
+      "senadoId": "526793",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-27-2092",
+      "titulo": "Decreto-Lei nº 2.092 de 27/12/1983",
+      "data": "1983-12-27",
+      "numero": "2092",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-27;2092",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais   do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "526781",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2086",
+      "titulo": "Decreto-Lei nº 2.086 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2086",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2086",
+      "ementa": "Reajusta o valor do soldo base de cálculo da remuneração dos militares da   Polícia-Militar e do Corpo de Bombeiros do Distrito Federal."
+    },
+    {
+      "senadoId": "526777",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2084",
+      "titulo": "Decreto-Lei nº 2.084 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2084",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2084",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos membros do Tribunal de   Contas do Distrito Federal e do respectivo Ministério Público e dá outras   providências."
+    },
+    {
+      "senadoId": "526785",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2088",
+      "titulo": "Decreto-Lei nº 2.088 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2088",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2088",
+      "ementa": "Dispõe sobre pagamento de débitos de contribuições   previdenciárias."
+    },
+    {
+      "senadoId": "526773",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2082",
+      "titulo": "Decreto-Lei nº 2.082 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2082",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2082",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos servidores da   Secretaria do Supremo Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "526771",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2081",
+      "titulo": "Decreto-Lei nº 2.081 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2081",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2081",
+      "ementa": "Dispõe sobre a adoção de medidas de incentivo à arrecadação do Instituto   do Açúcar e do Álcool, e dá outras providências."
+    },
+    {
+      "senadoId": "526783",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2087",
+      "titulo": "Decreto-Lei nº 2.087 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2087",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2087",
+      "ementa": "Dispõe sobre recolhimento de contribuições previdenciárias e dá outras providências."
+    },
+    {
+      "senadoId": "526775",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2083",
+      "titulo": "Decreto-Lei nº 2.083 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2083",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2083",
+      "ementa": "Reajusta os atuais valores de vencimentos, salários e proventos dos   servidores civis do Distrito Federal, bem como os das pensões e dá outras   providências."
+    },
+    {
+      "senadoId": "526779",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-22-2085",
+      "titulo": "Decreto-Lei nº 2.085 de 22/12/1983",
+      "data": "1983-12-22",
+      "numero": "2085",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-22;2085",
+      "ementa": "Dispõe sobre a fixação de alíquotas do Imposto sobre Operações Relativas à   Circulação de Mercadorias no Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "526765",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2078",
+      "titulo": "Decreto-Lei nº 2.078 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2078",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2078",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos membros da Magistratura   Federal, do Distrito Federal e Territórios e do Tribunal de Contas da União, bem   como as das pensões e dá outras providências."
+    },
+    {
+      "senadoId": "526751",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2071",
+      "titulo": "Decreto-Lei nº 2.071 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2071",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2071",
+      "ementa": "Prorroga prazos de vigência de Decretos-Leis que dispõe sobre acréscimos   às alíquotas do imposto de importação e dá outras providências."
+    },
+    {
+      "senadoId": "526761",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2076",
+      "titulo": "Decreto-Lei nº 2.076 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2076",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2076",
+      "ementa": "Altera o artigo 16 da Lei n. 4595, de 31 de dezembro de 1964, com a   redação dada pelo artigo 1º do Decreto-Lei n. 1638, de 6 outubro de   1978."
+    },
+    {
+      "senadoId": "526757",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2074",
+      "titulo": "Decreto-Lei nº 2.074 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2074",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2074",
+      "ementa": "Altera o Decreto-Lei nº 1.341, de 22 de agosto de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526753",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2072",
+      "titulo": "Decreto-Lei nº 2.072 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2072",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2072",
+      "ementa": "Altera a legislação do imposto de renda e dá outras   providências."
+    },
+    {
+      "senadoId": "526767",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2079",
+      "titulo": "Decreto-Lei nº 2.079 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2079",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2079",
+      "ementa": "Reajusta os atuais valores de vencimentos, salários e proventos dos   servidores civis do Poder Executivo, bem como os das pensões e dá outras   providências."
+    },
+    {
+      "senadoId": "526763",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2077",
+      "titulo": "Decreto-Lei nº 2.077 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2077",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2077",
+      "ementa": "Fixa alíquotas do Imposto sobre Operações Relativas à Circulação de   Mercadorias ( ICM ) nos Territórios Federais e dá outras   providências."
+    },
+    {
+      "senadoId": "526759",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2075",
+      "titulo": "Decreto-Lei nº 2.075 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2075",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2075",
+      "ementa": "Dispõe sobre o tratamento tributário aplicável às instituições autorizadas   a funcionar pelo Banco Central do Brasil nos casos de fusões e incorporações, e   dá outras providências."
+    },
+    {
+      "senadoId": "526769",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2080",
+      "titulo": "Decreto-Lei nº 2.080 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2080",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2080",
+      "ementa": "Reajusta o valor do soldo base de cálculo de remuneração dos   militares."
+    },
+    {
+      "senadoId": "526755",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-20-2073",
+      "titulo": "Decreto-Lei nº 2.073 de 20/12/1983",
+      "data": "1983-12-20",
+      "numero": "2073",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2073",
+      "ementa": "Altera a legislação do imposto suplementar de renda."
+    },
+    {
+      "senadoId": "526749",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-12-14-2070",
+      "titulo": "Decreto-Lei nº 2.070 de 14/12/1983",
+      "data": "1983-12-14",
+      "numero": "2070",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-12-14;2070",
+      "ementa": "Modifica o Decreto-Lei n. 1312, de 15 de fevereiro de 1974."
+    },
+    {
+      "senadoId": "526747",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-11-10-2069",
+      "titulo": "Decreto-Lei nº 2.069 de 10/11/1983",
+      "data": "1983-11-10",
+      "numero": "2069",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-11-10;2069",
+      "ementa": "Autoriza a elevação do capital do Banco Nacional de Desenvolvimento   Econômico e Social, (BNDES) e dá outras providências."
+    },
+    {
+      "senadoId": "526743",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-11-09-2067",
+      "titulo": "Decreto-Lei nº 2.067 de 09/11/1983",
+      "data": "1983-11-09",
+      "numero": "2067",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-11-09;2067",
+      "ementa": "Altera as tabelas do imposto de renda incidente na fonte sobre rendimentos do trabalho."
+    },
+    {
+      "senadoId": "526745",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-11-09-2068",
+      "titulo": "Decreto-Lei nº 2.068 de 09/11/1983",
+      "data": "1983-11-09",
+      "numero": "2068",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-11-09;2068",
+      "ementa": "Altera a legislação da taxa rodoviária única e dá outras   providências."
+    },
+    {
+      "senadoId": "526741",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-10-27-2066",
+      "titulo": "Decreto-Lei nº 2.066 de 27/10/1983",
+      "data": "1983-10-27",
+      "numero": "2066",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-10-27;2066",
+      "ementa": "Autoriza remissão de créditos relativos ao imposto sobre a propriedade territorial rural e à contribuição dos que exercem atividades rurais, dispensa da taxa de serviços cadastrais e cancelamento dos débitos de contribuição sindical rural."
+    },
+    {
+      "senadoId": "526739",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-10-26-2065",
+      "titulo": "Decreto-Lei nº 2.065 de 26/10/1983",
+      "data": "1983-10-26",
+      "numero": "2065",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-10-26;2065",
+      "ementa": "Altera a legislação do Imposto de Renda, dispõe sobre o reajustamento dos aluguéis residenciais, sobre as prestações dos empréstimos do Sistema Financeiro da Habitação, sobre a revisão do valor dos salários, e dá outras providências."
+    },
+    {
+      "senadoId": "526737",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-10-19-2064",
+      "titulo": "Decreto-Lei nº 2.064 de 19/10/1983",
+      "data": "1983-10-19",
+      "numero": "2064",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-10-19;2064",
+      "ementa": "Altera a legislação do Imposto de Renda, dispõe sobre o reajustamento dos   aluguéis residenciais, sobre as prestações dos empréstimos do Sistema Financeiro   da Habitação, sobre a revisão do valor dos salários, e dá outras providências."
+    },
+    {
+      "senadoId": "526735",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-10-06-2063",
+      "titulo": "Decreto-Lei nº 2.063 de 06/10/1983",
+      "data": "1983-10-06",
+      "numero": "2063",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-10-06;2063",
+      "ementa": "Dispõe sobre multas a serem aplicadas por infrações à regulamentação para   a execução do serviço de transporte rodoviário de cargas ou produtos perigosos e   dá outras providências."
+    },
+    {
+      "senadoId": "526733",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-10-04-2062",
+      "titulo": "Decreto-Lei nº 2.062 de 04/10/1983",
+      "data": "1983-10-04",
+      "numero": "2062",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-10-04;2062",
+      "ementa": "Autoriza a dispensa de obrigações tributárias acessórias, consideradas   desnecessárias ao interesse da arrecadação ou fiscalização de tributos   federais."
+    },
+    {
+      "senadoId": "526731",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-09-19-2061",
+      "titulo": "Decreto-Lei nº 2.061 de 19/09/1983",
+      "data": "1983-09-19",
+      "numero": "2061",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-09-19;2061",
+      "ementa": "Dispõe sobre alienação de mercadorias sujeitas à pena de perdimento, em especial nos casos de calamidade pública, e dá outras providências."
+    },
+    {
+      "senadoId": "526729",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-09-12-2060",
+      "titulo": "Decreto-Lei nº 2.060 de 12/09/1983",
+      "data": "1983-09-12",
+      "numero": "2060",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-09-12;2060",
+      "ementa": "Altera a Lei nº 6.009, de 26 de dezembro de 1973, que dispõe sobre a   utilização e a exploração dos aeroportos, das facilidades à navegação aérea e dá   outras providências."
+    },
+    {
+      "senadoId": "526727",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-09-01-2059",
+      "titulo": "Decreto-Lei nº 2.059 de 01/09/1983",
+      "data": "1983-09-01",
+      "numero": "2059",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-09-01;2059",
+      "ementa": "Altera a redação de dispositivo da Lei nº 5.292, de 8 de junho de 1967,   que dispõe sobre a prestação do Serviço Militar pelos Estudantes de Medicina,   Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos, Dentistas e   Veterinários."
+    },
+    {
+      "senadoId": "526725",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-23-2058",
+      "titulo": "Decreto-Lei nº 2.058 de 23/08/1983",
+      "data": "1983-08-23",
+      "numero": "2058",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-23;2058",
+      "ementa": "Altera a legislação do Imposto de Renda relativa a rendimentos produzidos   por caderneta de poupança do Sistema Financeiro da Habitação."
+    },
+    {
+      "senadoId": "526723",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-23-2057",
+      "titulo": "Decreto-Lei nº 2.057 de 23/08/1983",
+      "data": "1983-08-23",
+      "numero": "2057",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-23;2057",
+      "ementa": "Altera e revoga dispositivos do Decreto-Lei n° 221, de 28 de fevereiro de   1967, que dispõe sobre a proteção e estímulos à pesca, alterado pela Lei n°   6.276, de 01 de dezembro de 1975."
+    },
+    {
+      "senadoId": "526721",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-19-2056",
+      "titulo": "Decreto-Lei nº 2.056 de 19/08/1983",
+      "data": "1983-08-19",
+      "numero": "2056",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-19;2056",
+      "ementa": "Dispõe sobre a retribuição dos serviços de registro do comércio e dá outras providências."
+    },
+    {
+      "senadoId": "526719",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-17-2055",
+      "titulo": "Decreto-Lei nº 2.055 de 17/08/1983",
+      "data": "1983-08-17",
+      "numero": "2055",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-17;2055",
+      "ementa": "Altera os Decretos-Leis nºs 1.801, de 18 de agosto de 1980, e 2.035, de 21   de junho de 1983, dispõe sobre a sucessão da autarquia federal Superintendência   Nacional da Marinha Mercante - SUNAMAM e dá outras providências."
+    },
+    {
+      "senadoId": "526715",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-16-2053",
+      "titulo": "Decreto-Lei nº 2.053 de 16/08/1983",
+      "data": "1983-08-16",
+      "numero": "2053",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-16;2053",
+      "ementa": "Concede isenção da Taxa de Melhoramento dos Portos nos casos que   especifica."
+    },
+    {
+      "senadoId": "526717",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-16-2054",
+      "titulo": "Decreto-Lei nº 2.054 de 16/08/1983",
+      "data": "1983-08-16",
+      "numero": "2054",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-16;2054",
+      "ementa": "Restabelece o incentivo fiscal de que trata o Decreto-Lei n° 1.932, de 30   de março de 1982 e dá outras providências."
+    },
+    {
+      "senadoId": "526711",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-03-2051",
+      "titulo": "Decreto-Lei nº 2.051 de 03/08/1983",
+      "data": "1983-08-03",
+      "numero": "2051",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-03;2051",
+      "ementa": "Concede isenção de impostos a selos e peças filatélicas, e dá outras   providências."
+    },
+    {
+      "senadoId": "526713",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-03-2052",
+      "titulo": "Decreto-Lei nº 2.052 de 03/08/1983",
+      "data": "1983-08-03",
+      "numero": "2052",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-03;2052",
+      "ementa": "Dispõe sobre as contribuições para o PIS-PASEP, sua cobrança, fiscalização, processo administrativo e de consulta, e dá outras providências."
+    },
+    {
+      "senadoId": "526709",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-02-2050",
+      "titulo": "Decreto-Lei nº 2.050 de 02/08/1983",
+      "data": "1983-08-02",
+      "numero": "2050",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-02;2050",
+      "ementa": "Revoga o Decreto-Lei n° 865, de 12 de setembro de 1969, que declarou o   Município de Santos, no Estado de São Paulo, de interesse da segurança nacional   e dá outras providências."
+    },
+    {
+      "senadoId": "526707",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-08-01-2049",
+      "titulo": "Decreto-Lei nº 2.049 de 01/08/1983",
+      "data": "1983-08-01",
+      "numero": "2049",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-08-01;2049",
+      "ementa": "Dispõe sobre as contribuições para o FINSOCIAL, sua cobrança, fiscalização, processo administrativo e de consulta, e dá outras providências."
+    },
+    {
+      "senadoId": "526705",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-07-26-2048",
+      "titulo": "Decreto-Lei nº 2.048 de 26/07/1983",
+      "data": "1983-07-26",
+      "numero": "2048",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-07-26;2048",
+      "ementa": "Aumenta os limites do Decreto-Lei nº 1.312, de 15 de fevereiro de 1974, alterados pelos   Decretos-Leis nºs 1.460, de 22 de abril de 1976, 1.562, de 19 de julho   de 1977, 1.651, de 21 de dezembro de 1978, e 1.756, de 31 de dezembro de   1979, e dá outras providências."
+    },
+    {
+      "senadoId": "526703",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-07-20-2047",
+      "titulo": "Decreto-Lei nº 2.047 de 20/07/1983",
+      "data": "1983-07-20",
+      "numero": "2047",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-07-20;2047",
+      "ementa": "Institui empréstimo compulsório para custear auxílio exigido em   decorrência de calamidade pública."
+    },
+    {
+      "senadoId": "526701",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-07-20-2046",
+      "titulo": "Decreto-Lei nº 2.046 de 20/07/1983",
+      "data": "1983-07-20",
+      "numero": "2046",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-07-20;2046",
+      "ementa": "Altera o limite estabelecido nos artigos 1º e 2º do Decreto-Lei nº 2.021   de 18 de maio de 1983."
+    },
+    {
+      "senadoId": "526699",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-07-13-2045",
+      "titulo": "Decreto-Lei nº 2.045 de 13/07/1983",
+      "data": "1983-07-13",
+      "numero": "2045",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-07-13;2045",
+      "ementa": "Altera a Lei nº 6.708, de 30 de outubro de 1979, que trata da política   salarial, e a Lei nº 7.069, de 20 de dezembro de 1982, que dispõe sobre o   reajustamento de alugueres em locações residenciais, adota medidas no âmbito do   Sistema Financeiro da Habitação e dá outras providências."
+    },
+    {
+      "senadoId": "526696",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-07-07-2044",
+      "titulo": "Decreto-Lei nº 2.044 de 07/07/1983",
+      "data": "1983-07-07",
+      "numero": "2044",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-07-07;2044",
+      "ementa": "Concede isenção do Imposto de Importação e do Imposto sobre Produtos   Industrializados nos casos que especifica."
+    },
+    {
+      "senadoId": "526694",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-07-07-2043",
+      "titulo": "Decreto-Lei nº 2.043 de 07/07/1983",
+      "data": "1983-07-07",
+      "numero": "2043",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-07-07;2043",
+      "ementa": "Aumenta as representações mensais dos membros do Tribunal de Contas do   Distrito Federal."
+    },
+    {
+      "senadoId": "526692",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-30-2042",
+      "titulo": "Decreto-Lei nº 2.042 de 30/06/1983",
+      "data": "1983-06-30",
+      "numero": "2042",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-30;2042",
+      "ementa": "Altera dispositivos do Decreto-Lei nº 1.070, de 3 de dezembro de 1969, que   complementou a redação do artigo 6º do Decreto-Lei nº 185, de 23 de fevereiro de   1967, que estabelece normas para a contratação de obras ou serviços do Governo   Federal."
+    },
+    {
+      "senadoId": "526688",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-30-2040",
+      "titulo": "Decreto-Lei nº 2.040 de 30/06/1983",
+      "data": "1983-06-30",
+      "numero": "2040",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-30;2040",
+      "ementa": "Altera a legislação do imposto de renda e dá outras   providências."
+    },
+    {
+      "senadoId": "526690",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-30-2041",
+      "titulo": "Decreto-Lei nº 2.041 de 30/06/1983",
+      "data": "1983-06-30",
+      "numero": "2041",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-30;2041",
+      "ementa": "Prorroga o estímulo à capitalização de empresas de que trata o Decreto-lei   nº 1.892, de 16 de dezembro de 1981."
+    },
+    {
+      "senadoId": "526684",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-29-2038",
+      "titulo": "Decreto-Lei nº 2.038 de 29/06/1983",
+      "data": "1983-06-29",
+      "numero": "2038",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-29;2038",
+      "ementa": "Altera dispositivos do Decreto-Lei n.º 1958, de 9 de setembro de 1982, que   trata da comprovação da inexistência de débito para com a Previdência   Social."
+    },
+    {
+      "senadoId": "526686",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-29-2039",
+      "titulo": "Decreto-Lei nº 2.039 de 29/06/1983",
+      "data": "1983-06-29",
+      "numero": "2039",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-29;2039",
+      "ementa": "Altera a sistemática de cálculo da correção monetária incidente sobre as   contribuições de previdência social não pagas, estabelecida no Decreto-Lei n.º   1.816, de 10 de dezembro de 1980."
+    },
+    {
+      "senadoId": "526681",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-28-2036",
+      "titulo": "Decreto-Lei nº 2.036 de 28/06/1983",
+      "data": "1983-06-28",
+      "numero": "2036",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-28;2036",
+      "ementa": "Estabelece limite de remuneração mensal para os servidores, empregados e   dirigentes da Administração Pública Direta e Autárquica da União e das   respectivas entidades estatais, bem como para os do Distrito Federal e dos   Territórios, e dá outras providências."
+    },
+    {
+      "senadoId": "526682",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-28-2037",
+      "titulo": "Decreto-Lei nº 2.037 de 28/06/1983",
+      "data": "1983-06-28",
+      "numero": "2037",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-28;2037",
+      "ementa": "Dispõe sobre o controle prévio dos dispêndios para investimentos das   entitades da administração indireta e fundações supervisionadas e dá outras   providências."
+    },
+    {
+      "senadoId": "526679",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-21-2035",
+      "titulo": "Decreto-Lei nº 2.035 de 21/06/1983",
+      "data": "1983-06-21",
+      "numero": "2035",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-21;2035",
+      "ementa": "Altera o § 2º do art. 3º do Decreto-lei n.º 1.801, de 18 de agosto de 1980, e dá outras providências."
+    },
+    {
+      "senadoId": "526677",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-20-2034",
+      "titulo": "Decreto-Lei nº 2.034 de 20/06/1983",
+      "data": "1983-06-20",
+      "numero": "2034",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-20;2034",
+      "ementa": "Altera os limites do benefício fiscal instituído pelo Decreto-lei n.º   1.358, de 12 de novembro de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526675",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-15-2033",
+      "titulo": "Decreto-Lei nº 2.033 de 15/06/1983",
+      "data": "1983-06-15",
+      "numero": "2033",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-15;2033",
+      "ementa": "Dispensa do exame de similaridade bens já importados para execução de   projetos aprovados pela SUDENE ou pela SUDAM e dá outras   providências."
+    },
+    {
+      "senadoId": "526673",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-09-2032",
+      "titulo": "Decreto-Lei nº 2.032 de 09/06/1983",
+      "data": "1983-06-09",
+      "numero": "2032",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2032",
+      "ementa": "Dispõe sobre o ressarcimento, pelo Tesouro Nacional, de investimentos realizados nas regiões semi-áridas do Nordeste e dá outras providências."
+    },
+    {
+      "senadoId": "526665",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-09-2028",
+      "titulo": "Decreto-Lei nº 2.028 de 09/06/1983",
+      "data": "1983-06-09",
+      "numero": "2028",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2028",
+      "ementa": "Altera as tabelas do imposto de renda incidente na fonte sobre rendimentos do trabalho assalariado e não assalariado."
+    },
+    {
+      "senadoId": "526671",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-09-2031",
+      "titulo": "Decreto-Lei nº 2.031 de 09/06/1983",
+      "data": "1983-06-09",
+      "numero": "2031",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2031",
+      "ementa": "Altera a legislação do Imposto de Renda relativa a instituições   financeiras."
+    },
+    {
+      "senadoId": "526667",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-09-2029",
+      "titulo": "Decreto-Lei nº 2.029 de 09/06/1983",
+      "data": "1983-06-09",
+      "numero": "2029",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2029",
+      "ementa": "Altera a legislação do imposto de renda das pessoas jurídicas e dá outras   providências."
+    },
+    {
+      "senadoId": "526663",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-09-2027",
+      "titulo": "Decreto-Lei nº 2.027 de 09/06/1983",
+      "data": "1983-06-09",
+      "numero": "2027",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2027",
+      "ementa": "Altera a legislação do imposto de renda sobre rendimentos de aplicações financeiras de curto prazo e dá outras providências."
+    },
+    {
+      "senadoId": "526669",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-09-2030",
+      "titulo": "Decreto-Lei nº 2.030 de 09/06/1983",
+      "data": "1983-06-09",
+      "numero": "2030",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2030",
+      "ementa": "Altera a legislação do imposto de renda."
+    },
+    {
+      "senadoId": "526661",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-06-01-2026",
+      "titulo": "Decreto-Lei nº 2.026 de 01/06/1983",
+      "data": "1983-06-01",
+      "numero": "2026",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-06-01;2026",
+      "ementa": "Prorroga o prazo previsto no artigo 6º do Decreto-Lei n. 1.944, de 15 de   junho de1982."
+    },
+    {
+      "senadoId": "526659",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-05-30-2025",
+      "titulo": "Decreto-Lei nº 2.025 de 30/05/1983",
+      "data": "1983-05-30",
+      "numero": "2025",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-05-30;2025",
+      "ementa": "Institui a taxa de fiscalização dos produtos controlados pelo Ministério   do Exército e dá outras providências."
+    },
+    {
+      "senadoId": "526657",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-05-25-2024",
+      "titulo": "Decreto-Lei nº 2.024 de 25/05/1983",
+      "data": "1983-05-25",
+      "numero": "2024",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-05-25;2024",
+      "ementa": "Dá nova redação ao artigo 2º da Lei n. 6.708, de 30 de outubro de 1979, que   dispõe sobre a correção automática dos salários, que modifica a política   salarial e dá outras providências."
+    },
+    {
+      "senadoId": "526653",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-05-18-2022",
+      "titulo": "Decreto-Lei nº 2.022 de 18/05/1983",
+      "data": "1983-05-18",
+      "numero": "2022",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-05-18;2022",
+      "ementa": "Complementa a redação do art. 6º do Decreto-lei n. 185, de 23 de fevereiro   de 1967 que estabelece normas para a contratação de obras ou serviços a cargo do   Governo Federal."
+    },
+    {
+      "senadoId": "526651",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-05-18-2021",
+      "titulo": "Decreto-Lei nº 2.021 de 18/05/1983",
+      "data": "1983-05-18",
+      "numero": "2021",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-05-18;2021",
+      "ementa": "Altera a legislação do imposto de renda aplicável aos rendimentos de depósitos em cadernetas de poupança do Sistema Financeiro da Habitação, e dá outras providências."
+    },
+    {
+      "senadoId": "526655",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-05-18-2023",
+      "titulo": "Decreto-Lei nº 2.023 de 18/05/1983",
+      "data": "1983-05-18",
+      "numero": "2023",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-05-18;2023",
+      "ementa": "Autoriza a conversão dos créditos que especifica em ações de sociedades de   economia mista ou empresas públicas."
+    },
+    {
+      "senadoId": "526649",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-04-13-2020",
+      "titulo": "Decreto-Lei nº 2.020 de 13/04/1983",
+      "data": "1983-04-13",
+      "numero": "2020",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-04-13;2020",
+      "ementa": "Acrescenta diposições ao artigo 1º do Decreto-lei n° ;1.981, de 27 de   dezembro de 1982."
+    },
+    {
+      "senadoId": "526647",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-03-28-2019",
+      "titulo": "Decreto-Lei nº 2.019 de 28/03/1983",
+      "data": "1983-03-28",
+      "numero": "2019",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-03-28;2019",
+      "ementa": "Dispõe sobre o cálculo de parcelas da remuneração devida aos magistrados e   dá outras providências."
+    },
+    {
+      "senadoId": "526645",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-03-22-2018",
+      "titulo": "Decreto-Lei nº 2.018 de 22/03/1983",
+      "data": "1983-03-22",
+      "numero": "2018",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-03-22;2018",
+      "ementa": "Dispõe sobre isenções ou reduções de tributos em relação a bens que forem   objeto de arrendamento mercantil, quando destinados a emprego na execução de   programas, projetos ou empreendimentos contemplados com benefícios   fiscais."
+    },
+    {
+      "senadoId": "526643",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-03-11-2017",
+      "titulo": "Decreto-Lei nº 2.017 de 11/03/1983",
+      "data": "1983-03-11",
+      "numero": "2017",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-03-11;2017",
+      "ementa": "Dispõe sobre a renúncia, pela União ao domínio direto de áreas situadas no   Município de Guarulhos, Estado de São Paulo, necessárias à ampliação da Base   Aérea e à implantação do Aeroporto de Guarulhos."
+    },
+    {
+      "senadoId": "526641",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-03-03-2016",
+      "titulo": "Decreto-Lei nº 2.016 de 03/03/1983",
+      "data": "1983-03-03",
+      "numero": "2016",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-03-03;2016",
+      "ementa": "Altera a redação dos artigos 20, 21 e 22 do Decreto-Lei n. 1038, de 21 de   outubro de 1969, que estabelece normas relativas ao Imposto Único sobre   Minerais, e dá outras providências."
+    },
+    {
+      "senadoId": "526639",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-02-23-2015",
+      "titulo": "Decreto-Lei nº 2.015 de 23/02/1983",
+      "data": "1983-02-23",
+      "numero": "2015",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-02-23;2015",
+      "ementa": "Dá nova redação ao artigo 1º, do Decreto-Lei nº 1.477, de 26 de agosto de   1976."
+    },
+    {
+      "senadoId": "526637",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-02-21-2014",
+      "titulo": "Decreto-Lei nº 2.014 de 21/02/1983",
+      "data": "1983-02-21",
+      "numero": "2014",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-02-21;2014",
+      "ementa": "Dispõe sobre a tributação das variações das Obrigações Reajustáveis do Tesouro Nacional - ORTN com cláusula de correção cambial."
+    },
+    {
+      "senadoId": "526635",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-25-2013",
+      "titulo": "Decreto-Lei nº 2.013 de 25/01/1983",
+      "data": "1983-01-25",
+      "numero": "2013",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-25;2013",
+      "ementa": "Dispõe sobre o imposto único sobre energia elétrica."
+    },
+    {
+      "senadoId": "526633",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-25-2012",
+      "titulo": "Decreto-Lei nº 2.012 de 25/01/1983",
+      "data": "1983-01-25",
+      "numero": "2012",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-25;2012",
+      "ementa": "Dá nova redação ao artigo 2º da Lei nº 6708, de 30 de outubro de 1979, que   dispõe sobre a correção automática dos salários, modifica a política salarial e   dá outras providências."
+    },
+    {
+      "senadoId": "526631",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-18-2011",
+      "titulo": "Decreto-Lei nº 2.011 de 18/01/1983",
+      "data": "1983-01-18",
+      "numero": "2011",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-18;2011",
+      "ementa": "Concede isenção de impostos aos bens destinados à execução do Programa Nacional de Comunicações Domésticas por Satélite."
+    },
+    {
+      "senadoId": "526629",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-12-2010",
+      "titulo": "Decreto-Lei nº 2.010 de 12/01/1983",
+      "data": "1983-01-12",
+      "numero": "2010",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-12;2010",
+      "ementa": "Altera o Decreto-lei nº 667, de 02 de julho de 1969, que reorganiza as   Polícias Militares e Corpos de Bombeiros Militares dos Estados, dos Territórios   e do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "526627",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-11-2009",
+      "titulo": "Decreto-Lei nº 2.009 de 11/01/1983",
+      "data": "1983-01-11",
+      "numero": "2009",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-11;2009",
+      "ementa": "Autoriza a elevação do capital do Banco Nacional de Desenvolvimento   Econômico e Social e dá outras providências."
+    },
+    {
+      "senadoId": "526625",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-11-2008",
+      "titulo": "Decreto-Lei nº 2.008 de 11/01/1983",
+      "data": "1983-01-11",
+      "numero": "2008",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-11;2008",
+      "ementa": "Reajusta o valor do soldo base do cálculo da remuneração dos PM da Polícia   Militar e dos BM do Corpo de Bombeiros do Distrito Federal."
+    },
+    {
+      "senadoId": "526623",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-11-2007",
+      "titulo": "Decreto-Lei nº 2.007 de 11/01/1983",
+      "data": "1983-01-11",
+      "numero": "2007",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-11;2007",
+      "ementa": "Reajusta os vencimentos e proventos dos funcionários do Quadro das   Secretarias da Justiça Federal de Primeira Instância e dá outras   providências."
+    },
+    {
+      "senadoId": "526619",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-06-2005",
+      "titulo": "Decreto-Lei nº 2.005 de 06/01/1983",
+      "data": "1983-01-06",
+      "numero": "2005",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-06;2005",
+      "ementa": "Reajusta os valores de vencimentos, salários e proventos dos servidores da   Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da   Justiça do Distrito Federal e dos Territórios."
+    },
+    {
+      "senadoId": "526615",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-06-2003",
+      "titulo": "Decreto-Lei nº 2.003 de 06/01/1983",
+      "data": "1983-01-06",
+      "numero": "2003",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-06;2003",
+      "ementa": "Reajusta oa vencimentos, salários, gratificações e proventos dos   servidores do Superior Tribunal Militar e das Auditorias da Justiça Militar, e   dá outras providências."
+    },
+    {
+      "senadoId": "526617",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-06-2004",
+      "titulo": "Decreto-Lei nº 2.004 de 06/01/1983",
+      "data": "1983-01-06",
+      "numero": "2004",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-06;2004",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais   do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "526621",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-06-2006",
+      "titulo": "Decreto-Lei nº 2.006 de 06/01/1983",
+      "data": "1983-01-06",
+      "numero": "2006",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-06;2006",
+      "ementa": "Revigora, até ; 31 de dezembro de 1983, as disposições do Decreto-lei nº   1.627, de 1978."
+    },
+    {
+      "senadoId": "526613",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-04-2002",
+      "titulo": "Decreto-Lei nº 2.002 de 04/01/1983",
+      "data": "1983-01-04",
+      "numero": "2002",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-04;2002",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores das Secretarias dos   Tribunais Regionais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "526611",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1983-01-04-2001",
+      "titulo": "Decreto-Lei nº 2.001 de 04/01/1983",
+      "data": "1983-01-04",
+      "numero": "2001",
+      "urn": "urn:lex:br:federal:decreto.lei:1983-01-04;2001",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos servidores da   Secretaria-Geral do Tribunal de Contas da União e dá outras   providências."
+    }
+  ],
+  "pendencias": []
+}

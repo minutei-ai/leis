@@ -1,0 +1,119 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LDL&ano=1962",
+  "tipo": "LDL",
+  "ano": 1962,
+  "coletado_em": "2026-10-21T08:28:42.870Z",
+  "normas": [
+    {
+      "senadoId": "572944",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-10-11-11",
+      "titulo": "Lei Delegada nº 11 de 11/10/1962",
+      "data": "1962-10-11",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-10-11;11",
+      "ementa": "Cria a Superintendência de Política Agrária (SUPRA) e dá outras   providências."
+    },
+    {
+      "senadoId": "572942",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-10-11-9",
+      "titulo": "Lei Delegada nº 9 de 11/10/1962",
+      "data": "1962-10-11",
+      "numero": "9",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-10-11;9",
+      "ementa": "Reorganiza o Ministério da Agricultura e dá outras   proviências."
+    },
+    {
+      "senadoId": "572943",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-10-11-10",
+      "titulo": "Lei Delegada nº 10 de 11/10/1962",
+      "data": "1962-10-11",
+      "numero": "10",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-10-11;10",
+      "ementa": "Cria a Superintendência do Desenvolvimento da Pesca e dá outras   providências."
+    },
+    {
+      "senadoId": "572941",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-10-11-8",
+      "titulo": "Lei Delegada nº 8 de 11/10/1962",
+      "data": "1962-10-11",
+      "numero": "8",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-10-11;8",
+      "ementa": "Cria o Fundo Federal Agropecuário (FFAP), no Ministério da Agricultura e   dá outras providências."
+    },
+    {
+      "senadoId": "572937",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-26-4",
+      "titulo": "Lei Delegada nº 4 de 26/09/1962",
+      "data": "1962-09-26",
+      "numero": "4",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-26;4",
+      "ementa": "Dispõe sôbre a intervenção no domínio econômico para assegurar a livre distribuição de produtos necessários ao consumo do povo."
+    },
+    {
+      "senadoId": "572938",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-26-5",
+      "titulo": "Lei Delegada nº 5 de 26/09/1962",
+      "data": "1962-09-26",
+      "numero": "5",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-26;5",
+      "ementa": "Organiza a Superintendência Nacional do Abastecimento (SUNAB) e dá outras   providências."
+    },
+    {
+      "senadoId": "572939",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-26-6",
+      "titulo": "Lei Delegada nº 6 de 26/09/1962",
+      "data": "1962-09-26",
+      "numero": "6",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-26;6",
+      "ementa": "Autoriza a constituição da Companhia Brasileira de Alimentos e dá outras   providências."
+    },
+    {
+      "senadoId": "572935",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-26-2",
+      "titulo": "Lei Delegada nº 2 de 26/09/1962",
+      "data": "1962-09-26",
+      "numero": "2",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-26;2",
+      "ementa": "Altera a Lei nº 1.506, de 19 de dezembro de 1951, dando-lhe nova redação,   e adota outras providências."
+    },
+    {
+      "senadoId": "572940",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-26-7",
+      "titulo": "Lei Delegada nº 7 de 26/09/1962",
+      "data": "1962-09-26",
+      "numero": "7",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-26;7",
+      "ementa": "Autoriza a constituição da Companhia Brasileira de Armazenamento e dá   outras providências."
+    },
+    {
+      "senadoId": "572936",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-26-3",
+      "titulo": "Lei Delegada nº 3 de 26/09/1962",
+      "data": "1962-09-26",
+      "numero": "3",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-26;3",
+      "ementa": "Altera dispositivos do Decreto número 1.102, de 21 de novembro de 1903, e   dá outras providências."
+    },
+    {
+      "senadoId": "572934",
+      "tipo": "LDL",
+      "id": "br-federal-lei-delegada-1962-09-25-1",
+      "titulo": "Lei Delegada nº 1 de 25/09/1962",
+      "data": "1962-09-25",
+      "numero": "1",
+      "urn": "urn:lex:br:federal:lei.delegada:1962-09-25;1",
+      "ementa": "Cria cargos de Ministros extraordinários e dá outras   providências."
+    }
+  ],
+  "pendencias": []
+}

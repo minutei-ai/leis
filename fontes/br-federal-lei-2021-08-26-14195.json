@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-08-26-14195",
+  "titulo": "Lei nº 14.195 de 26/08/2021",
+  "data": "2021-08-26",
+  "fonte": "https://normas.leg.br/api/public/binario/9477eebe-00ac-4af3-94cd-d913de6221c1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-08-26;14195",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-08-26%3B14195&tipo_documento=maior-detalhe",
+  "sha256_dados": "8308927837bd5ff74c997c3e31f9462ff0447154af4d7b73d3b0e1f723a15809",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:39:08.696Z",
+  "sha256_fonte": "7cf411e90b6f94ee1e06eabb4b2704c8f57ccfcece9121aa6b2e1cb5cc24645a",
+  "sha256_markdown": "fd1506a1e48051b101e2eab0b2bbbc88a8d2b401061be3cf30e54ae2f57d9170"
+}

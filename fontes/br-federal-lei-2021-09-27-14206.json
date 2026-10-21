@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-09-27-14206",
+  "titulo": "Lei nº 14.206 de 27/09/2021",
+  "data": "2021-09-27",
+  "fonte": "https://normas.leg.br/api/public/binario/1dd31b96-7d27-44e3-8329-894966318e84/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-09-27;14206",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-09-27%3B14206&tipo_documento=maior-detalhe",
+  "sha256_dados": "eb041a3ce35e92ff1a7befe0dfd303ec9312085431c061045ae3a22dbdd55ac7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:55.664Z",
+  "sha256_fonte": "75787c81087cc3aef17ce77718dc0c92df20a7d3f5a8c4b0a46aa2cea4883520",
+  "sha256_markdown": "4acd6b0ff7ff3ec8a1009f0c4f5fb62e396374e94fc14e1fcfd200a794716fcc"
+}

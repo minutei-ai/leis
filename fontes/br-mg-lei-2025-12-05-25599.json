@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-05-25599",
+  "titulo": "LEI nº 25599, de 05/12/2025",
+  "data": "2025-12-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25599/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25599/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b974fa72cab00da8cf6ddd687b5c97cfaf07060a35cb7e683d2ac85084b36a34",
+  "coletado_em": "2026-10-21T08:35:44.084Z",
+  "sha256_fonte": "aef4bd003306d99fc2c8ec4e1e0c889dc0638365d975d528273432007070e306",
+  "sha256_markdown": "efb9d4b3b24a44b83ed5ab92ec81794da12f4c751af3d73d0023230dd7b887c5"
+}

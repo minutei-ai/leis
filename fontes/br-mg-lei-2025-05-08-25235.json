@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-08-25235",
+  "titulo": "LEI nº 25235, de 08/05/2025",
+  "data": "2025-05-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25235/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25235/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "57222e19f0eacc4f8d301085bac9206497d69ebdfefec8d962caf7764be211a3",
+  "coletado_em": "2026-10-21T08:31:09.773Z",
+  "sha256_fonte": "d4de8637d30748bceef2e61fd61b2a601fb456968e86c86f03924b91a680e0e6",
+  "sha256_markdown": "d902bdd76d4aa76e96dd9d4d2047e31cadd8bb4ffdc46597acab9fd89c0fb30a"
+}

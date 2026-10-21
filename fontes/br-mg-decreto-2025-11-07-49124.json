@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-11-07-49124",
+  "titulo": "DEC nº 49124, de 07/11/2025",
+  "data": "2025-11-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49124/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49124/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "1aa76b83a654a5d66aab6397d50a46698896a27ec551a30cb22f621b7388186a",
+  "coletado_em": "2026-10-21T08:35:24.391Z",
+  "sha256_fonte": "d9a262da33bb36846baa2a40942fbf0f17c6d7f6d5d4d0240aabe35af3b347ee",
+  "sha256_markdown": "4f5e8ba5ead7eb78e8d4d98ee231a7356f265697690f8bbe557428a48de60bbc"
+}

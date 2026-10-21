@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-12-17-13760",
+  "titulo": "Lei nº 13.760 de 17/12/2018",
+  "data": "2018-12-17",
+  "fonte": "https://normas.leg.br/api/public/binario/309d715d-8ef5-4aea-bd58-e264f8f47bff/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-12-17;13760",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-12-17%3B13760&tipo_documento=maior-detalhe",
+  "sha256_dados": "62681669e5c4f55cfc5b513a6a1708f2a95edc3b543e5275a3ce8cf8573c7063",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:39.339Z",
+  "sha256_fonte": "fb797232f64190544bad3768d7741a2c12ab077edb6f796a25b28ccdbc40f53f",
+  "sha256_markdown": "8351ba9f797c93c3514a26761d5efce032c1626a909dcae344e045050af75673"
+}

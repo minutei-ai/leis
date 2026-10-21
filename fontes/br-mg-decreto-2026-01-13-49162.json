@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-01-13-49162",
+  "titulo": "DEC nº 49162, de 13/01/2026",
+  "data": "2026-01-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49162/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49162/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a66f06672e8d31ec8ac2dabc729c11cb7861de0a028655973f37f7f98febf5fc",
+  "coletado_em": "2026-10-21T08:24:54.264Z",
+  "sha256_fonte": "5bac208135651f2bfeca6459afa8bdf34b8970dcac7fbbe289a7c856ce0d830d",
+  "sha256_markdown": "55217e0dc619ec78ce928501bc46246846a367d4344edcb693f2f3bb5f23de3a"
+}

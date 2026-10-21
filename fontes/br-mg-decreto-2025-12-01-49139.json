@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-01-49139",
+  "titulo": "DEC nº 49139, de 01/12/2025",
+  "data": "2025-12-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49139/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49139/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "40ea74745f40050c276ff10bab29e479586e04e3eb36feb94e3a4f0cb01efdfe",
+  "coletado_em": "2026-10-21T08:35:36.257Z",
+  "sha256_fonte": "e7e40d80253bdf58d1c55dd83577e9a55a1ffd34f3e9b5b8ea9e402fd3629287",
+  "sha256_markdown": "d1598190a8826a823f3c42fba15a93222665973d3874b32530d6cbea302f0e3a"
+}

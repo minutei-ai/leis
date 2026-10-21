@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-04-09-25810",
+  "titulo": "LEI nº 25810, de 09/04/2026",
+  "data": "2026-04-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25810/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25810/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "452ac3d77d419ae3a65bfdb1aaaf165d073552665c6036265f644e44ad9b7a90",
+  "coletado_em": "2026-10-21T08:26:29.133Z",
+  "sha256_fonte": "e34cdd0900c1b363905c74205a6b444d2e647997988b3776100de2479866ccf5",
+  "sha256_markdown": "465e26b2a60adafd00ed0f886aaf74e08e902e85a9901ebfa16741439d2dc245"
+}

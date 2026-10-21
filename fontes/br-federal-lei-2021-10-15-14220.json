@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-10-15-14220",
+  "titulo": "Lei nº 14.220 de 15/10/2021",
+  "data": "2021-10-15",
+  "fonte": "https://normas.leg.br/api/public/binario/aa98f008-7623-4df9-b937-849295d60f16/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-10-15;14220",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-10-15%3B14220&tipo_documento=maior-detalhe",
+  "sha256_dados": "7f59990cf1f153f6d15754ab61eb17ba402d9e3a815b641c807e7d8de2ff042f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:35.241Z",
+  "sha256_fonte": "6ea8e0d92b89904850a007c5821f09908a3e7be56bb64834209f2a0d507f215b",
+  "sha256_markdown": "858adea9d5dab29d814f0e66db59629861bd89b46bccf35cc136219fa8b68b34"
+}

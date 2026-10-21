@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2012",
+  "tipo": "EMC",
+  "ano": 2012,
+  "coletado_em": "2026-10-21T08:39:39.100Z",
+  "normas": [
+    {
+      "senadoId": "540674",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2012-11-29-71",
+      "titulo": "Emenda Constitucional nº 71 de 29/11/2012",
+      "data": "2012-11-29",
+      "numero": "71",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2012-11-29;71",
+      "ementa": "Acrescenta o art. 216-A à Constituição Federal para instituir o Sistema Nacional de Cultura."
+    },
+    {
+      "senadoId": "540672",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2012-03-29-69",
+      "titulo": "Emenda Constitucional nº 69 de 29/03/2012",
+      "data": "2012-03-29",
+      "numero": "69",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2012-03-29;69",
+      "ementa": "Altera os arts. 21, 22 e 48 da Constituição Federal, para transferir da União para o Distrito Federal as atribuições de organizar e manter a Defensoria Pública do Distrito Federal."
+    },
+    {
+      "senadoId": "540673",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2012-03-29-70",
+      "titulo": "Emenda Constitucional nº 70 de 29/03/2012",
+      "data": "2012-03-29",
+      "numero": "70",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2012-03-29;70",
+      "ementa": "Acrescenta art. 6º-A à Emenda Constitucional nº 41, de 2003, para estabelecer critérios para o cálculo e a correção dos proventos da aposentadoria por invalidez dos servidores públicos que ingressaram no serviço público até a data da publicação daquela Emenda Constitucional."
+    }
+  ],
+  "pendencias": []
+}

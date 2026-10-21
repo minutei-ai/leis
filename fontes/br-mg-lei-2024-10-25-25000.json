@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-10-25-25000",
+  "titulo": "LEI nº 25000, de 25/10/2024",
+  "data": "2024-10-25",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25000/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25000/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "5b6c7fa293825cfdfcd5cb7e34a07084d16572af4fd7c753d2bc2214914d8a31",
+  "coletado_em": "2026-10-21T08:42:15.921Z",
+  "sha256_fonte": "a3faf1320404fc9669714221f127cc27141e09963ffecfb725b78f1b9543fa35",
+  "sha256_markdown": "8ad364f7e0aa53ca7e6e601582a3d762b204f43af84ece33b64d2660fd701189"
+}

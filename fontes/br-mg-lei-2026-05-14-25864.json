@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-14-25864",
+  "titulo": "LEI nº 25864, de 14/05/2026",
+  "data": "2026-05-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25864/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25864/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "83fe843d65dcb292dcebb5fe5f24c4f74a0bee1b1fd84f5fa43f2f6f81883f63",
+  "coletado_em": "2026-10-21T08:27:07.830Z",
+  "sha256_fonte": "5d879e64d77182b83bf1aef021ed4f3ae0a34d156413fc9126e808a72c61b8fc",
+  "sha256_markdown": "9233a8f352691ca87ef1b759db92296260d644791a3ddcd20011446f7b1762ba"
+}

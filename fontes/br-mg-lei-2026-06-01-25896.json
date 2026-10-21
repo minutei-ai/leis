@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-06-01-25896",
+  "titulo": "LEI nº 25896, de 01/06/2026",
+  "data": "2026-06-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25896/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25896/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "634fd68736fe8dbb5706fc88fe18aa16f306c061b1fee8475dd5e865a2ea1d3f",
+  "coletado_em": "2026-10-21T08:27:36.307Z",
+  "sha256_fonte": "14e810fca6676f8619a4a871a41b50c136e5a877332f92b5a8fa903af3541317",
+  "sha256_markdown": "7aea2041971a1293e28aa1bbd4c288721b6c890b4be8caaed54df6017cbdb912"
+}

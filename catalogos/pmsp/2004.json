@@ -1,0 +1,1476 @@
+{
+  "ano_publicacao": 2004,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2004",
+    "ano-final": "31/12/2004",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:20.119Z",
+  "total": 241,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "117e4624f12d7cf3b2773959d8b74cafd7ca4aa13fc111d0553d07a320b12d22"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "86e55b215c07ec5034002e0dd381db7c2558ac08394451f47b89380eb4e52203"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "acc7f68d9be1541fa0bfcc9f6c1a6a9a40d3f5bca5505883a02cb1ee35db82ce"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14669-de-14-de-janeiro-de-2008",
+      "titulo": "LEI Nº 14.669 de 14 de Janeiro de 2008",
+      "id": "br-municipal-3550308-lei-2008-01-14-14669",
+      "data": "2008-01-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13944-de-30-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.944 de 30 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-30-13944",
+      "data": "2004-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13942-de-29-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.942 de 29 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-29-13942",
+      "data": "2004-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13941-de-28-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.941 de 28 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-28-13941",
+      "data": "2004-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13940-de-27-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.940 de 27 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-27-13940",
+      "data": "2004-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13938-de-27-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.938 de 27 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-27-13938",
+      "data": "2004-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13937-de-27-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.937 de 27 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-27-13937",
+      "data": "2004-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13939-de-27-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.939 de 27 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-27-13939",
+      "data": "2004-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13936-de-17-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.936 de 17 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-17-13936",
+      "data": "2004-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13935-de-13-de-dezembro-de-2004",
+      "titulo": "LEI Nº 13.935 de 13 de Dezembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-12-13-13935",
+      "data": "2004-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13934-de-26-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.934 de 26 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-26-13934",
+      "data": "2004-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13933-de-23-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.933 de 23 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-23-13933",
+      "data": "2004-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13932-de-23-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.932 de 23 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-23-13932",
+      "data": "2004-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13931-de-23-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.931 de 23 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-23-13931",
+      "data": "2004-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13926-de-22-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.926 de 22 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-22-13926",
+      "data": "2004-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13925-de-22-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.925 de 22 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-22-13925",
+      "data": "2004-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13924-de-22-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.924 de 22 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-22-13924",
+      "data": "2004-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13930-de-19-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.930 de 19 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-19-13930",
+      "data": "2004-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13928-de-18-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.928 de 18 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-18-13928",
+      "data": "2004-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13927-de-18-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.927 de 18 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-18-13927",
+      "data": "2004-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13929-de-18-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.929 de 18 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-18-13929",
+      "data": "2004-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13922-de-16-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.922 de 16 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-16-13922",
+      "data": "2004-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13921-de-16-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.921 de 16 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-16-13921",
+      "data": "2004-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13920-de-16-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.920 de 16 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-16-13920",
+      "data": "2004-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13919-de-16-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.919 de 16 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-16-13919",
+      "data": "2004-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13918-de-16-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.918 de 16 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-16-13918",
+      "data": "2004-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13923-de-12-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.923 de 12 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-12-13923",
+      "data": "2004-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13916-de-9-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.916 de 9 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-09-13916",
+      "data": "2004-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13917-de-9-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.917 de 9 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-09-13917",
+      "data": "2004-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13915-de-9-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.915 de 9 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-09-13915",
+      "data": "2004-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13914-de-8-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.914 de 8 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-08-13914",
+      "data": "2004-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13913-de-8-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.913 de 8 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-08-13913",
+      "data": "2004-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13912-de-8-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.912 de 8 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-08-13912",
+      "data": "2004-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13911-de-8-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.911 de 8 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-08-13911",
+      "data": "2004-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13905-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.905 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13905",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13904-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.904 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13904",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13903-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.903 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13903",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13902-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.902 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13902",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13901-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.901 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13901",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13910-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.910 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13910",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13909-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.909 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13909",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13908-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.908 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13908",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13907-de-4-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.907 de 4 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-04-13907",
+      "data": "2004-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13906-de-3-de-novembro-de-2004",
+      "titulo": "LEI Nº 13.906 de 3 de Novembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-11-03-13906",
+      "data": "2004-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13900-de-8-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.900 de 8 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-08-13900",
+      "data": "2004-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13899-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.899 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13899",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13898-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.898 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13898",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13897-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.897 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13897",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13896-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.896 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13896",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13895-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.895 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13895",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13894-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.894 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13894",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13893-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.893 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13893",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13892-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.892 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13892",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13891-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.891 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13891",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13890-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.890 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13890",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13889-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.889 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13889",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13888-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.888 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13888",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13887-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.887 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13887",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13886-de-2-de-setembro-de-2004",
+      "titulo": "LEI Nº 13.886 de 2 de Setembro de 2004",
+      "id": "br-municipal-3550308-lei-2004-09-02-13886",
+      "data": "2004-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13885-de-25-de-agosto-de-2004",
+      "titulo": "LEI Nº 13.885 de 25 de Agosto de 2004",
+      "id": "br-municipal-3550308-lei-2004-08-25-13885",
+      "data": "2004-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13884-de-20-de-agosto-de-2004",
+      "titulo": "LEI Nº 13.884 de 20 de Agosto de 2004",
+      "id": "br-municipal-3550308-lei-2004-08-20-13884",
+      "data": "2004-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13883-de-18-de-agosto-de-2004",
+      "titulo": "LEI Nº 13.883 de 18 de Agosto de 2004",
+      "id": "br-municipal-3550308-lei-2004-08-18-13883",
+      "data": "2004-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13882-de-16-de-agosto-de-2004",
+      "titulo": "LEI Nº 13.882 de 16 de Agosto de 2004",
+      "id": "br-municipal-3550308-lei-2004-08-16-13882",
+      "data": "2004-08-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13881-de-30-de-julho-de-2004",
+      "titulo": "LEI Nº 13.881 de 30 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-30-13881",
+      "data": "2004-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13880-de-29-de-julho-de-2004",
+      "titulo": "LEI Nº 13.880 de 29 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-29-13880",
+      "data": "2004-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13879-de-28-de-julho-de-2004",
+      "titulo": "LEI Nº 13.879 de 28 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-28-13879",
+      "data": "2004-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13878-de-27-de-julho-de-2004",
+      "titulo": "LEI Nº 13.878 de 27 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-27-13878",
+      "data": "2004-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13877-de-23-de-julho-de-2004",
+      "titulo": "LEI Nº 13.877 de 23 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-23-13877",
+      "data": "2004-07-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13876-de-23-de-julho-de-2004",
+      "titulo": "LEI Nº 13.876 de 23 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-23-13876",
+      "data": "2004-07-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13875-de-22-de-julho-de-2004",
+      "titulo": "LEI Nº 13.875 de 22 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-22-13875",
+      "data": "2004-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13874-de-15-de-julho-de-2004",
+      "titulo": "LEI Nº 13.874 de 15 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-15-13874",
+      "data": "2004-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13873-de-15-de-julho-de-2004",
+      "titulo": "LEI Nº 13.873 de 15 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-15-13873",
+      "data": "2004-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13872-de-12-de-julho-de-2004",
+      "titulo": "LEI Nº 13.872 de 12 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-12-13872",
+      "data": "2004-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13871-de-8-de-julho-de-2004",
+      "titulo": "LEI Nº 13.871 de 8 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-08-13871",
+      "data": "2004-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13870-de-8-de-julho-de-2004",
+      "titulo": "LEI Nº 13.870 de 8 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-08-13870",
+      "data": "2004-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13868-de-7-de-julho-de-2004",
+      "titulo": "LEI Nº 13.868 de 7 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-07-13868",
+      "data": "2004-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13867-de-7-de-julho-de-2004",
+      "titulo": "LEI Nº 13.867 de 7 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-07-13867",
+      "data": "2004-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13863-de-6-de-julho-de-2004",
+      "titulo": "LEI Nº 13.863 de 6 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-06-13863",
+      "data": "2004-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13869-de-6-de-julho-de-2004",
+      "titulo": "LEI Nº 13.869 de 6 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-06-13869",
+      "data": "2004-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13864-de-01-de-julho-de-2004",
+      "titulo": "LEI Nº 13.864 de 1 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-01-13864",
+      "data": "2004-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13866-de-01-de-julho-de-2004",
+      "titulo": "LEI Nº 13.866 de 1 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-01-13866",
+      "data": "2004-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13865-de-1-de-julho-de-2004",
+      "titulo": "LEI Nº 13.865 de 1 de Julho de 2004",
+      "id": "br-municipal-3550308-lei-2004-07-01-13865",
+      "data": "2004-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13859-de-29-de-junho-de-2004",
+      "titulo": "Lei Nº 13.859 de 29 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-29-13859",
+      "data": "2004-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13862-de-29-de-junho-de-2004",
+      "titulo": "LEI Nº 13.862 de 29 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-29-13862",
+      "data": "2004-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13861-de-29-de-junho-de-2004",
+      "titulo": "LEI Nº 13.861 de 29 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-29-13861",
+      "data": "2004-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13860-de-29-de-junho-de-2004",
+      "titulo": "LEI Nº 13.860 de 29 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-29-13860",
+      "data": "2004-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13858-de-25-de-junho-de-2004",
+      "titulo": "LEI Nº 13.858 de 25 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-25-13858",
+      "data": "2004-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13856-de-23-de-junho-de-2004",
+      "titulo": "LEI Nº 13.856 de 23 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-23-13856",
+      "data": "2004-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13855-de-23-de-junho-de-2004",
+      "titulo": "LEI Nº 13.855 de 23 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-23-13855",
+      "data": "2004-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13854-de-23-de-junho-de-2004",
+      "titulo": "LEI Nº 13.854 de 23 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-23-13854",
+      "data": "2004-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13853-de-23-de-junho-de-2004",
+      "titulo": "LEI Nº 13.853 de 23 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-23-13853",
+      "data": "2004-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13852-de-23-de-junho-de-2004",
+      "titulo": "LEI Nº 13.852 de 23 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-23-13852",
+      "data": "2004-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13857-de-23-de-junho-de-2004",
+      "titulo": "LEI Nº 13.857 de 23 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-23-13857",
+      "data": "2004-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13844-de-21-de-junho-de-2004",
+      "titulo": "LEI Nº 13.844 de 21 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-21-13844",
+      "data": "2004-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13843-de-21-de-junho-de-2004",
+      "titulo": "LEI Nº 13.843 de 21 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-21-13843",
+      "data": "2004-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13850-de-18-de-junho-de-2004",
+      "titulo": "LEI Nº 13.850 de 18 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-18-13850",
+      "data": "2004-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13849-de-18-de-junho-de-2004",
+      "titulo": "LEI Nº 13.849 de 18 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-18-13849",
+      "data": "2004-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13848-de-18-de-junho-de-2004",
+      "titulo": "LEI Nº 13.848 de 18 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-18-13848",
+      "data": "2004-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13851-de-18-de-junho-de-2004",
+      "titulo": "LEI Nº 13.851 de 18 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-18-13851",
+      "data": "2004-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13847-de-18-de-junho-de-2004",
+      "titulo": "LEI Nº 13.847 de 18 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-18-13847",
+      "data": "2004-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13846-de-17-de-junho-de-2004",
+      "titulo": "LEI Nº 13.846 de 17 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-17-13846",
+      "data": "2004-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13842-de-16-de-junho-de-2004",
+      "titulo": "LEI Nº 13.842 de 16 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-16-13842",
+      "data": "2004-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13845-de-15-de-junho-de-2004",
+      "titulo": "LEI Nº 13.845 de 15 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-15-13845",
+      "data": "2004-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13841-de-7-de-junho-de-2004",
+      "titulo": "LEI Nº 13.841 de 7 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-07-13841",
+      "data": "2004-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13840-de-4-de-junho-de-2004",
+      "titulo": "LEI Nº 13.840 de 4 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-04-13840",
+      "data": "2004-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13837-de-3-de-junho-de-2004",
+      "titulo": "LEI Nº 13.837 de 3 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-03-13837",
+      "data": "2004-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13836-de-3-de-junho-de-2004",
+      "titulo": "LEI Nº 13.836 de 3 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-03-13836",
+      "data": "2004-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13835-de-3-de-junho-de-2004",
+      "titulo": "LEI Nº 13.835 de 3 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-03-13835",
+      "data": "2004-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13839-de-2-de-junho-de-2004",
+      "titulo": "LEI Nº 13.839 de 2 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-02-13839",
+      "data": "2004-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13838-de-2-de-junho-de-2004",
+      "titulo": "LEI Nº 13.838 de 2 de Junho de 2004",
+      "id": "br-municipal-3550308-lei-2004-06-02-13838",
+      "data": "2004-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13834-de-27-de-maio-de-2004",
+      "titulo": "LEI Nº 13.834 de 27 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-27-13834",
+      "data": "2004-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13833-de-27-de-maio-de-2004",
+      "titulo": "LEI Nº 13.833 de 27 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-27-13833",
+      "data": "2004-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13832-de-26-de-maio-de-2004",
+      "titulo": "LEI Nº 13.832 de 26 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-26-13832",
+      "data": "2004-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13831-de-24-de-maio-de-2004",
+      "titulo": "LEI Nº 13.831 de 24 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-24-13831",
+      "data": "2004-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13830-de-21-de-maio-de-2004",
+      "titulo": "LEI Nº 13.830 de 21 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-21-13830",
+      "data": "2004-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13828-de-19-de-maio-de-2004",
+      "titulo": "LEI Nº 13.828 de 19 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-19-13828",
+      "data": "2004-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13827-de-19-de-maio-de-2004",
+      "titulo": "LEI Nº 13.827 de 19 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-19-13827",
+      "data": "2004-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13829-de-19-de-maio-de-2004",
+      "titulo": "LEI Nº 13.829 de 19 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-19-13829",
+      "data": "2004-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13826-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.826 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13826",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13825-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.825 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13825",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13824-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.824 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13824",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13823-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.823 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13823",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13822-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.822 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13822",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13821-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.821 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13821",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13820-de-18-de-maio-de-2004",
+      "titulo": "LEI Nº 13.820 de 18 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-18-13820",
+      "data": "2004-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13819-de-14-de-maio-de-2004",
+      "titulo": "LEI Nº 13.819 de 14 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-14-13819",
+      "data": "2004-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13818-de-14-de-maio-de-2004",
+      "titulo": "LEI Nº 13.818 de 14 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-14-13818",
+      "data": "2004-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13817-de-13-de-maio-de-2004",
+      "titulo": "LEI Nº 13.817 de 13 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-13-13817",
+      "data": "2004-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13816-de-13-de-maio-de-2004",
+      "titulo": "LEI Nº 13.816 de 13 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-13-13816",
+      "data": "2004-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13815-de-13-de-maio-de-2004",
+      "titulo": "LEI Nº 13.815 de 13 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-13-13815",
+      "data": "2004-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13814-de-13-de-maio-de-2004",
+      "titulo": "LEI Nº 13.814 de 13 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-13-13814",
+      "data": "2004-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13813-de-13-de-maio-de-2004",
+      "titulo": "LEI Nº 13.813 de 13 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-13-13813",
+      "data": "2004-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13812-de-12-de-maio-de-2004",
+      "titulo": "LEI Nº 13.812 de 12 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-12-13812",
+      "data": "2004-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13811-de-12-de-maio-de-2004",
+      "titulo": "LEI Nº 13.811 de 12 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-12-13811",
+      "data": "2004-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13810-de-12-de-maio-de-2004",
+      "titulo": "LEI Nº 13.810 de 12 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-12-13810",
+      "data": "2004-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13809-de-12-de-maio-de-2004",
+      "titulo": "LEI Nº 13.809 de 12 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-12-13809",
+      "data": "2004-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13808-de-12-de-maio-de-2004",
+      "titulo": "LEI Nº 13.808 de 12 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-12-13808",
+      "data": "2004-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13807-de-10-de-maio-de-2004",
+      "titulo": "LEI Nº 13.807 de 10 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-10-13807",
+      "data": "2004-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13806-de-10-de-maio-de-2004",
+      "titulo": "LEI Nº 13.806 de 10 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-10-13806",
+      "data": "2004-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13805-de-7-de-maio-de-2004",
+      "titulo": "LEI Nº 13.805 de 7 de Maio de 2004",
+      "id": "br-municipal-3550308-lei-2004-05-07-13805",
+      "data": "2004-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13804-de-22-de-abril-de-2004",
+      "titulo": "LEI Nº 13.804 de 22 de Abril de 2004",
+      "id": "br-municipal-3550308-lei-2004-04-22-13804",
+      "data": "2004-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13803-de-16-de-abril-de-2004",
+      "titulo": "LEI Nº 13.803 de 16 de Abril de 2004",
+      "id": "br-municipal-3550308-lei-2004-04-16-13803",
+      "data": "2004-04-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13802-de-12-de-abril-de-2004",
+      "titulo": "LEI Nº 13.802 de 12 de Abril de 2004",
+      "id": "br-municipal-3550308-lei-2004-04-12-13802",
+      "data": "2004-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13801-de-6-de-abril-de-2004",
+      "titulo": "LEI Nº 13.801 de 6 de Abril de 2004",
+      "id": "br-municipal-3550308-lei-2004-04-06-13801",
+      "data": "2004-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13800-de-5-de-abril-de-2004",
+      "titulo": "LEI Nº 13.800 de 5 de Abril de 2004",
+      "id": "br-municipal-3550308-lei-2004-04-05-13800",
+      "data": "2004-04-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13799-de-19-de-marco-de-2004",
+      "titulo": "LEI Nº 13.799 de 19 de Março de 2004",
+      "id": "br-municipal-3550308-lei-2004-03-19-13799",
+      "data": "2004-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13798-de-8-de-marco-de-2004",
+      "titulo": "LEI Nº 13.798 de 8 de Março de 2004",
+      "id": "br-municipal-3550308-lei-2004-03-08-13798",
+      "data": "2004-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13796-de-4-de-marco-de-2004",
+      "titulo": "LEI Nº 13.796 de 4 de Março de 2004",
+      "id": "br-municipal-3550308-lei-2004-03-04-13796",
+      "data": "2004-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13795-de-4-de-marco-de-2004",
+      "titulo": "LEI Nº 13.795 de 4 de Março de 2004",
+      "id": "br-municipal-3550308-lei-2004-03-04-13795",
+      "data": "2004-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13797-de-3-de-marco-de-2004",
+      "titulo": "LEI Nº 13.797 de 3 de Março de 2004",
+      "id": "br-municipal-3550308-lei-2004-03-03-13797",
+      "data": "2004-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13794-de-17-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.794 de 17 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-17-13794",
+      "data": "2004-02-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13793-de-17-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.793 de 17 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-17-13793",
+      "data": "2004-02-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13792-de-13-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.792 de 13 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-13-13792",
+      "data": "2004-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13791-de-13-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.791 de 13 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-13-13791",
+      "data": "2004-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13790-de-13-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.790 de 13 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-13-13790",
+      "data": "2004-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13789-de-13-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.789 de 13 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-13-13789",
+      "data": "2004-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13788-de-13-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.788 de 13 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-13-13788",
+      "data": "2004-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13787-de-12-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.787 de 12 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-12-13787",
+      "data": "2004-02-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13785-de-12-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.785 de 12 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-12-13785",
+      "data": "2004-02-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13784-de-12-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.784 de 12 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-12-13784",
+      "data": "2004-02-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13786-de-12-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.786 de 12 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-12-13786",
+      "data": "2004-02-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13783-de-12-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.783 de 12 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-12-13783",
+      "data": "2004-02-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13782-de-11-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.782 de 11 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-11-13782",
+      "data": "2004-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13781-de-11-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.781 de 11 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-11-13781",
+      "data": "2004-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13780-de-11-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.780 de 11 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-11-13780",
+      "data": "2004-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13779-de-11-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.779 de 11 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-11-13779",
+      "data": "2004-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13778-de-11-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.778 de 11 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-11-13778",
+      "data": "2004-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13777-de-11-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.777 de 11 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-11-13777",
+      "data": "2004-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13776-de-10-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.776 de 10 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-10-13776",
+      "data": "2004-02-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13775-de-4-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.775 de 4 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-04-13775",
+      "data": "2004-02-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13774-de-3-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.774 de 3 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-03-13774",
+      "data": "2004-02-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13773-de-3-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.773 de 3 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-03-13773",
+      "data": "2004-02-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13772-de-03-de-fevereiro-de-2004",
+      "titulo": "LEI Nº 13.772 de 3 de Fevereiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-02-03-13772",
+      "data": "2004-02-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13771-de-30-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.771 de 30 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-30-13771",
+      "data": "2004-01-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13770-de-29-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.770 de 29 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-29-13770",
+      "data": "2004-01-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13769-de-26-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.769 de 26 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-26-13769",
+      "data": "2004-01-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13768-de-26-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.768 de 26 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-26-13768",
+      "data": "2004-01-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13767-de-21-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.767 de 21 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-21-13767",
+      "data": "2004-01-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13766-de-21-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.766 de 21 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-21-13766",
+      "data": "2004-01-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13755-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.755 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13755",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13754-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.754 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13754",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13753-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.753 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13753",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13752-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.752 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13752",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13751-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.751 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13751",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13750-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.750 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13750",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13749-de-20-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.749 de 20 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-20-13749",
+      "data": "2004-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13765-de-19-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.765 de 19 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-19-13765",
+      "data": "2004-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13764-de-19-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.764 de 19 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-19-13764",
+      "data": "2004-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13762-de-19-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.762 de 19 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-19-13762",
+      "data": "2004-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13763-de-19-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.763 de 19 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-19-13763",
+      "data": "2004-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13760-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.760 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13760",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13759-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.759 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13759",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13761-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.761 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13761",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13758-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.758 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13758",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13757-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.757 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13757",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13756-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.756 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13756",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13748-de-16-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.748 de 16 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-16-13748",
+      "data": "2004-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13744-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.744 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13744",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13742-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.742 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13742",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13738-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.738 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13738",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13747-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.747 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13747",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13746-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.746 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13746",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13745-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.745 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13745",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13743-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.743 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13743",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13741-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.741 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13741",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13740-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.740 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13740",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13739-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.739 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13739",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13737-de-15-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.737 de 15 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-15-13737",
+      "data": "2004-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13736-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.736 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13736",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13735-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.735 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13735",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13734-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.734 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13734",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13733-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.733 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13733",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13732-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.732 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13732",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13731-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.731 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13731",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13730-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.730 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13730",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13729-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.729 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13729",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13728-de-13-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.728 de 13 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-13-13728",
+      "data": "2004-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13727-de-12-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.727 de 12 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-12-13727",
+      "data": "2004-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13726-de-12-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.726 de 12 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-12-13726",
+      "data": "2004-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13725-de-09-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.725 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13725",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13724-de-9-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.724 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13724",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13723-de-9-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.723 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13723",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13722-de-9-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.722 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13722",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13721-de-9-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.721 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13721",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13720-de-9-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.720 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13720",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13719-de-9-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.719 de 9 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-09-13719",
+      "data": "2004-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13718-de-08-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.718 de 8 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-08-13718",
+      "data": "2004-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13717-de-8-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.717 de 8 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-08-13717",
+      "data": "2004-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13713-de-7-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.713 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13713",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13716-de-07-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.716 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13716",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13715-de-07-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.715 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13715",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13714-de-7-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.714 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13714",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13712-de-7-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.712 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13712",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13711-de-7-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.711 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13711",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13710-de-07-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.710 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13710",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13709-de-7-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.709 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13709",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13708-de-07-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.708 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13708",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13707-de-7-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.707 de 7 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-07-13707",
+      "data": "2004-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13706-de-5-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.706 de 5 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-05-13706",
+      "data": "2004-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13705-de-5-de-janeiro-de-2004",
+      "titulo": "LEI Nº 13.705 de 5 de Janeiro de 2004",
+      "id": "br-municipal-3550308-lei-2004-01-05-13705",
+      "data": "2004-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13703-de-24-de-dezembro-de-2003",
+      "titulo": "LEI Nº 13.703 de 24 de Dezembro de 2003",
+      "id": "br-municipal-3550308-lei-2003-12-24-13703",
+      "data": "2003-12-24"
+    }
+  ],
+  "pendencias": []
+}

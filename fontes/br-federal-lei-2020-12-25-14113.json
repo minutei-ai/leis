@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-12-25-14113",
+  "titulo": "Lei nº 14.113 de 25/12/2020",
+  "data": "2020-12-25",
+  "fonte": "https://normas.leg.br/api/public/binario/143d7b08-1e10-40bc-a467-4c62b1d6fb10/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-12-25;14113",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-12-25%3B14113&tipo_documento=maior-detalhe",
+  "sha256_dados": "7820b61d3893cc34bee97d7b3f9b1cfde21692b2a3c758feac7ce54e23abaa41",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:55.856Z",
+  "sha256_fonte": "3bd5b5de6ee203a01f275165b424cd16eca52b12ab475dd025a883e4636092b6",
+  "sha256_markdown": "d617ed5b2521b2a95693d49dc548d5bbc2a062fcada9db478bad68b60f88f019"
+}

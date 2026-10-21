@@ -1,0 +1,1154 @@
+{
+  "ano_publicacao": 1929,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1929",
+    "ano-final": "31/12/1929",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:30.750Z",
+  "total": 188,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "fd078a0eeb342ece193e1efa5f4476b87e42ead453ea74d5828cb62a634028bb"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "3494ac23409f13ffda476b7b4606a734ffde3600f62150d013768247f3e36ffc"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3443-de-30-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.443 de 30 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-30-3443",
+      "data": "1929-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3442-de-30-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.442 de 30 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-30-3442",
+      "data": "1929-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3441-de-23-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.441 de 23 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-23-3441",
+      "data": "1929-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3440-de-13-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.440 de 13 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-13-3440",
+      "data": "1929-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3439-de-13-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.439 de 13 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-13-3439",
+      "data": "1929-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3438-de-13-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.438 de 13 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-13-3438",
+      "data": "1929-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3437-de-12-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.437 de 12 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-12-3437",
+      "data": "1929-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3436-de-12-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.436 de 12 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-12-3436",
+      "data": "1929-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3435-de-10-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.435 de 10 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-10-3435",
+      "data": "1929-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3434-de-10-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.434 de 10 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-10-3434",
+      "data": "1929-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3433-de-10-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.433 de 10 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-10-3433",
+      "data": "1929-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3432-de-10-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.432 de 10 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-10-3432",
+      "data": "1929-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3431-de-10-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.431 de 10 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-10-3431",
+      "data": "1929-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3430-de-2-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.430 de 2 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-02-3430",
+      "data": "1929-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3429-de-2-de-dezembro-de-1929",
+      "titulo": "LEI Nº 3.429 de 2 de Dezembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-12-02-3429",
+      "data": "1929-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3428-de-27-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.428 de 27 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-27-3428",
+      "data": "1929-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3427-de-19-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.427 de 19 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-19-3427",
+      "data": "1929-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3426-de-18-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.426 de 18 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-18-3426",
+      "data": "1929-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3425-de-16-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.425 de 16 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-16-3425",
+      "data": "1929-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3424-de-16-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.424 de 16 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-16-3424",
+      "data": "1929-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3423-de-14-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.423 de 14 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-14-3423",
+      "data": "1929-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3422-de-14-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.422 de 14 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-14-3422",
+      "data": "1929-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3421-de-14-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.421 de 14 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-14-3421",
+      "data": "1929-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3420-de-14-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.420 de 14 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-14-3420",
+      "data": "1929-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3419-de-14-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.419 de 14 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-14-3419",
+      "data": "1929-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3418-de-8-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.418 de 8 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-08-3418",
+      "data": "1929-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3417-de-8-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.417 de 8 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-08-3417",
+      "data": "1929-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3416-de-7-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.416 de 7 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-07-3416",
+      "data": "1929-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3415-de-7-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.415 de 7 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-07-3415",
+      "data": "1929-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3414-de-7-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.414 de 7 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-07-3414",
+      "data": "1929-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3413-de-7-de-novembro-de-1929",
+      "titulo": "LEI Nº 3.413 de 7 de Novembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-11-07-3413",
+      "data": "1929-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3412-de-29-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.412 de 29 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-29-3412",
+      "data": "1929-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3411-de-26-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.411 de 26 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-26-3411",
+      "data": "1929-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3410-de-26-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.410 de 26 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-26-3410",
+      "data": "1929-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3409-de-25-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.409 de 25 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-25-3409",
+      "data": "1929-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3408-de-25-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.408 de 25 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-25-3408",
+      "data": "1929-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3407-de-25-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.407 de 25 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-25-3407",
+      "data": "1929-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3406-de-25-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.406 de 25 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-25-3406",
+      "data": "1929-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3405-de-24-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.405 de 24 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-24-3405",
+      "data": "1929-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3404-de-19-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.404 de 19 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-19-3404",
+      "data": "1929-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3403-de-19-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.403 de 19 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-19-3403",
+      "data": "1929-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3402-de-19-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.402 de 19 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-19-3402",
+      "data": "1929-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3401-de-18-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.401 de 18 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-18-3401",
+      "data": "1929-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3400-de-18-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.400 de 18 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-18-3400",
+      "data": "1929-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3399-de-18-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.399 de 18 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-18-3399",
+      "data": "1929-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3398-de-18-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.398 de 18 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-18-3398",
+      "data": "1929-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3397-de-18-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.397 de 18 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-18-3397",
+      "data": "1929-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3396-de-18-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.396 de 18 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-18-3396",
+      "data": "1929-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3395-de-17-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.395 de 17 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-17-3395",
+      "data": "1929-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3394-de-17-de-outubro-de-1929",
+      "titulo": "LEI Nº 3.394 de 17 de Outubro de 1929",
+      "id": "br-municipal-3550308-lei-1929-10-17-3394",
+      "data": "1929-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3393-de-26-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.393 de 26 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-26-3393",
+      "data": "1929-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3392-de-26-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.392 de 26 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-26-3392",
+      "data": "1929-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3391-de-25-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.391 de 25 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-25-3391",
+      "data": "1929-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3390-de-24-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.390 de 24 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-24-3390",
+      "data": "1929-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3389-de-21-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.389 de 21 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-21-3389",
+      "data": "1929-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3388-de-20-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.388 de 20 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-20-3388",
+      "data": "1929-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3387-de-20-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.387 de 20 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-20-3387",
+      "data": "1929-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3386-de-20-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.386 de 20 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-20-3386",
+      "data": "1929-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3385-de-19-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.385 de 19 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-19-3385",
+      "data": "1929-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3384-de-19-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.384 de 19 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-19-3384",
+      "data": "1929-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3383-de-18-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.383 de 18 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-18-3383",
+      "data": "1929-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3382-de-18-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.382 de 18 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-18-3382",
+      "data": "1929-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3381-de-18-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.381 de 18 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-18-3381",
+      "data": "1929-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3380-de-10-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.380 de 10 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-10-3380",
+      "data": "1929-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3379-de-10-de-setembro-de-1929",
+      "titulo": "LEI Nº 3.379 de 10 de Setembro de 1929",
+      "id": "br-municipal-3550308-lei-1929-09-10-3379",
+      "data": "1929-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3378-de-30-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.378 de 30 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-30-3378",
+      "data": "1929-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3377-de-30-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.377 de 30 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-30-3377",
+      "data": "1929-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3376-de-29-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.376 de 29 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-29-3376",
+      "data": "1929-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3375-de-29-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.375 de 29 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-29-3375",
+      "data": "1929-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3374-de-27-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.374 de 27 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-27-3374",
+      "data": "1929-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3373-de-24-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.373 de 24 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-24-3373",
+      "data": "1929-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3372-de-23-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.372 de 23 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-23-3372",
+      "data": "1929-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3371-de-21-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.371 de 21 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-21-3371",
+      "data": "1929-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3370-de-19-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.370 de 19 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-19-3370",
+      "data": "1929-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3369-de-19-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.369 de 19 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-19-3369",
+      "data": "1929-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3368-de-19-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.368 de 19 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-19-3368",
+      "data": "1929-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3367-de-19-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.367 de 19 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-19-3367",
+      "data": "1929-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3366-de-19-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.366 de 19 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-19-3366",
+      "data": "1929-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3365-de-19-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.365 de 19 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-19-3365",
+      "data": "1929-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3364-de-16-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.364 de 16 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-16-3364",
+      "data": "1929-08-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3363-de-16-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.363 de 16 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-16-3363",
+      "data": "1929-08-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3362-de-15-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.362 de 15 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-15-3362",
+      "data": "1929-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3361-de-15-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.361 de 15 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-15-3361",
+      "data": "1929-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3360-de-14-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.360 de 14 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-14-3360",
+      "data": "1929-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3359-de-2-de-agosto-de-1929",
+      "titulo": "LEI Nº 3.359 de 2 de Agosto de 1929",
+      "id": "br-municipal-3550308-lei-1929-08-02-3359",
+      "data": "1929-08-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3358-de-30-de-julho-de-1929",
+      "titulo": "LEI Nº 3.358 de 30 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-30-3358",
+      "data": "1929-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3357-de-30-de-julho-de-1929",
+      "titulo": "LEI Nº 3.357 de 30 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-30-3357",
+      "data": "1929-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3356-de-30-de-julho-de-1929",
+      "titulo": "LEI Nº 3.356 de 30 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-30-3356",
+      "data": "1929-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3355-de-29-de-julho-de-1929",
+      "titulo": "LEI Nº 3.355 de 29 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-29-3355",
+      "data": "1929-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3354-de-29-de-julho-de-1929",
+      "titulo": "LEI Nº 3.354 de 29 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-29-3354",
+      "data": "1929-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3353-de-29-de-julho-de-1929",
+      "titulo": "LEI Nº 3.353 de 29 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-29-3353",
+      "data": "1929-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3352-de-27-de-julho-de-1929",
+      "titulo": "LEI Nº 3.352 de 27 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-27-3352",
+      "data": "1929-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3351-de-27-de-julho-de-1929",
+      "titulo": "LEI Nº 3.351 de 27 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-27-3351",
+      "data": "1929-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3350-de-24-de-julho-de-1929",
+      "titulo": "LEI Nº 3.350 de 24 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-24-3350",
+      "data": "1929-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3349-de-22-de-julho-de-1929",
+      "titulo": "LEI Nº 3.349 de 22 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-22-3349",
+      "data": "1929-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3348-de-20-de-julho-de-1929",
+      "titulo": "LEI Nº 3.348 de 20 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-20-3348",
+      "data": "1929-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3347-de-20-de-julho-de-1929",
+      "titulo": "LEI Nº 3.347 de 20 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-20-3347",
+      "data": "1929-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3346-de-19-de-julho-de-1929",
+      "titulo": "LEI Nº 3.346 de 19 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-19-3346",
+      "data": "1929-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3345-de-19-de-julho-de-1929",
+      "titulo": "LEI Nº 3.345 de 19 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-19-3345",
+      "data": "1929-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3344-de-19-de-julho-de-1929",
+      "titulo": "LEI Nº 3.344 de 19 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-19-3344",
+      "data": "1929-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3343-de-18-de-julho-de-1929",
+      "titulo": "LEI Nº 3.343 de 18 de Julho de 1929",
+      "id": "br-municipal-3550308-lei-1929-07-18-3343",
+      "data": "1929-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3342-de-27-de-junho-de-1929",
+      "titulo": "LEI Nº 3.342 de 27 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-27-3342",
+      "data": "1929-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3341-de-26-de-junho-de-1929",
+      "titulo": "LEI Nº 3.341 de 26 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-26-3341",
+      "data": "1929-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3340-de-26-de-junho-de-1929",
+      "titulo": "LEI Nº 3.340 de 26 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-26-3340",
+      "data": "1929-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3339-de-25-de-junho-de-1929",
+      "titulo": "LEI Nº 3.339 de 25 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-25-3339",
+      "data": "1929-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3338-de-22-de-junho-de-1929",
+      "titulo": "LEI Nº 3.338 de 22 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-22-3338",
+      "data": "1929-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3337-de-21-de-junho-de-1929",
+      "titulo": "LEI Nº 3.337 de 21 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-21-3337",
+      "data": "1929-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3336-de-21-de-junho-de-1929",
+      "titulo": "LEI Nº 3.336 de 21 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-21-3336",
+      "data": "1929-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3335-de-20-de-junho-de-1929",
+      "titulo": "LEI Nº 3.335 de 20 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-20-3335",
+      "data": "1929-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3334-de-20-de-junho-de-1929",
+      "titulo": "LEI Nº 3.334 de 20 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-20-3334",
+      "data": "1929-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3333-de-18-de-junho-de-1929",
+      "titulo": "LEI Nº 3.333 de 18 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-18-3333",
+      "data": "1929-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3332-de-17-de-junho-de-1929",
+      "titulo": "LEI Nº 3.332 de 17 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-17-3332",
+      "data": "1929-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3331-de-17-de-junho-de-1929",
+      "titulo": "LEI Nº 3.331 de 17 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-17-3331",
+      "data": "1929-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3330-de-10-de-junho-de-1929",
+      "titulo": "LEI Nº 3.330 de 10 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-10-3330",
+      "data": "1929-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3329-de-10-de-junho-de-1929",
+      "titulo": "LEI Nº 3.329 de 10 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-10-3329",
+      "data": "1929-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3328-de-10-de-junho-de-1929",
+      "titulo": "LEI Nº 3.328 de 10 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-10-3328",
+      "data": "1929-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3327-de-8-de-junho-de-1929",
+      "titulo": "LEI Nº 3.327 de 8 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-08-3327",
+      "data": "1929-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3326-de-7-de-junho-de-1929",
+      "titulo": "LEI Nº 3.326 de 7 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-07-3326",
+      "data": "1929-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3325-de-7-de-junho-de-1929",
+      "titulo": "LEI Nº 3.325 de 7 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-07-3325",
+      "data": "1929-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3324-de-6-de-junho-de-1929",
+      "titulo": "LEI Nº 3.324 de 6 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-06-3324",
+      "data": "1929-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3323-de-6-de-junho-de-1929",
+      "titulo": "LEI Nº 3.323 de 6 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-06-3323",
+      "data": "1929-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3322-de-6-de-junho-de-1929",
+      "titulo": "LEI Nº 3.322 de 6 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-06-3322",
+      "data": "1929-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3321-de-5-de-junho-de-1929",
+      "titulo": "LEI Nº 3.321 de 5 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-05-3321",
+      "data": "1929-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3320-de-5-de-junho-de-1929",
+      "titulo": "LEI Nº 3.320 de 5 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-05-3320",
+      "data": "1929-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3319-de-5-de-junho-de-1929",
+      "titulo": "LEI Nº 3.319 de 5 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-05-3319",
+      "data": "1929-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3318-de-5-de-junho-de-1929",
+      "titulo": "LEI Nº 3.318 de 5 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-05-3318",
+      "data": "1929-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3317-de-5-de-junho-de-1929",
+      "titulo": "LEI Nº 3.317 de 5 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-05-3317",
+      "data": "1929-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3316-de-4-de-junho-de-1929",
+      "titulo": "LEI Nº 3.316 de 4 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-04-3316",
+      "data": "1929-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3315-de-4-de-junho-de-1929",
+      "titulo": "LEI Nº 3.315 de 4 de Junho de 1929",
+      "id": "br-municipal-3550308-lei-1929-06-04-3315",
+      "data": "1929-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3314-de-31-de-maio-de-1929",
+      "titulo": "LEI Nº 3.314 de 31 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-31-3314",
+      "data": "1929-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3313-de-31-de-maio-de-1929",
+      "titulo": "LEI Nº 3.313 de 31 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-31-3313",
+      "data": "1929-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3312-de-29-de-maio-de-1929",
+      "titulo": "LEI Nº 3.312 de 29 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-29-3312",
+      "data": "1929-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3311-de-24-de-maio-de-1929",
+      "titulo": "LEI Nº 3.311 de 24 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-24-3311",
+      "data": "1929-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3310-de-22-de-maio-de-1929",
+      "titulo": "LEI Nº 3.310 de 22 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-22-3310",
+      "data": "1929-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3309-de-22-de-maio-de-1929",
+      "titulo": "LEI Nº 3.309 de 22 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-22-3309",
+      "data": "1929-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3308-de-22-de-maio-de-1929",
+      "titulo": "LEI Nº 3.308 de 22 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-22-3308",
+      "data": "1929-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3307-de-11-de-maio-de-1929",
+      "titulo": "LEI Nº 3.307 de 11 de Maio de 1929",
+      "id": "br-municipal-3550308-lei-1929-05-11-3307",
+      "data": "1929-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3306-de-30-de-abril-de-1929",
+      "titulo": "LEI Nº 3.306 de 30 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-30-3306",
+      "data": "1929-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3305-de-30-de-abril-de-1929",
+      "titulo": "LEI Nº 3.305 de 30 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-30-3305",
+      "data": "1929-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3304-de-24-de-abril-de-1929",
+      "titulo": "LEI Nº 3.304 de 24 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-24-3304",
+      "data": "1929-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3303-de-24-de-abril-de-1929",
+      "titulo": "LEI Nº 3.303 de 24 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-24-3303",
+      "data": "1929-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3302-de-23-de-abril-de-1929",
+      "titulo": "LEI Nº 3.302 de 23 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-23-3302",
+      "data": "1929-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3301-de-22-de-abril-de-1929",
+      "titulo": "LEI Nº 3.301 de 22 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-22-3301",
+      "data": "1929-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3300-de-20-de-abril-de-1929",
+      "titulo": "LEI Nº 3.300 de 20 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-20-3300",
+      "data": "1929-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3299-de-20-de-abril-de-1929",
+      "titulo": "LEI Nº 3.299 de 20 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-20-3299",
+      "data": "1929-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3298-de-12-de-abril-de-1929",
+      "titulo": "LEI Nº 3.298 de 12 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-12-3298",
+      "data": "1929-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3297-de-12-de-abril-de-1929",
+      "titulo": "LEI Nº 3.297 de 12 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-12-3297",
+      "data": "1929-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3296-de-12-de-abril-de-1929",
+      "titulo": "LEI Nº 3.296 de 12 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-12-3296",
+      "data": "1929-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3295-de-11-de-abril-de-1929",
+      "titulo": "LEI Nº 3.295 de 11 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-11-3295",
+      "data": "1929-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3294-de-8-de-abril-de-1929",
+      "titulo": "LEI Nº 3.294 de 8 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-08-3294",
+      "data": "1929-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3293-de-5-de-abril-de-1929",
+      "titulo": "LEI Nº 3.293 de 5 de Abril de 1929",
+      "id": "br-municipal-3550308-lei-1929-04-05-3293",
+      "data": "1929-04-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3292-de-30-de-marco-de-1929",
+      "titulo": "LEI Nº 3.292 de 30 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-30-3292",
+      "data": "1929-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3291-de-30-de-marco-de-1929",
+      "titulo": "LEI Nº 3.291 de 30 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-30-3291",
+      "data": "1929-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3290-de-27-de-marco-de-1929",
+      "titulo": "LEI Nº 3.290 de 27 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-27-3290",
+      "data": "1929-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3289-de-27-de-marco-de-1929",
+      "titulo": "LEI Nº 3.289 de 27 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-27-3289",
+      "data": "1929-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3288-de-27-de-marco-de-1929",
+      "titulo": "LEI Nº 3.288 de 27 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-27-3288",
+      "data": "1929-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3287-de-21-de-marco-de-1929",
+      "titulo": "LEI Nº 3.287 de 21 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-21-3287",
+      "data": "1929-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3286-de-21-de-marco-de-1929",
+      "titulo": "LEI Nº 3.286 de 21 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-21-3286",
+      "data": "1929-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3285-de-21-de-marco-de-1929",
+      "titulo": "LEI Nº 3.285 de 21 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-21-3285",
+      "data": "1929-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3284-de-19-de-marco-de-1929",
+      "titulo": "LEI Nº 3.284 de 19 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-19-3284",
+      "data": "1929-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3283-de-18-de-marco-de-1929",
+      "titulo": "LEI Nº 3.283 de 18 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-18-3283",
+      "data": "1929-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3282-de-18-de-marco-de-1929",
+      "titulo": "LEI Nº 3.282 de 18 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-18-3282",
+      "data": "1929-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3281-de-18-de-marco-de-1929",
+      "titulo": "LEI Nº 3.281 de 18 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-18-3281",
+      "data": "1929-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3280-de-18-de-marco-de-1929",
+      "titulo": "LEI Nº 3.280 de 18 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-18-3280",
+      "data": "1929-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3279-de-14-de-marco-de-1929",
+      "titulo": "LEI Nº 3.279 de 14 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-14-3279",
+      "data": "1929-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3278-de-14-de-marco-de-1929",
+      "titulo": "LEI Nº 3.278 de 14 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-14-3278",
+      "data": "1929-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3277-de-14-de-marco-de-1929",
+      "titulo": "LEI Nº 3.277 de 14 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-14-3277",
+      "data": "1929-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3276-de-14-de-marco-de-1929",
+      "titulo": "LEI Nº 3.276 de 14 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-14-3276",
+      "data": "1929-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3275-de-14-de-marco-de-1929",
+      "titulo": "LEI Nº 3.275 de 14 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-14-3275",
+      "data": "1929-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3274-de-14-de-marco-de-1929",
+      "titulo": "LEI Nº 3.274 de 14 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-14-3274",
+      "data": "1929-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3273-de-11-de-marco-de-1929",
+      "titulo": "LEI Nº 3.273 de 11 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-11-3273",
+      "data": "1929-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3272-de-5-de-marco-de-1929",
+      "titulo": "LEI Nº 3.272 de 5 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-05-3272",
+      "data": "1929-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3271-de-4-de-marco-de-1929",
+      "titulo": "LEI Nº 3.271 de 4 de Março de 1929",
+      "id": "br-municipal-3550308-lei-1929-03-04-3271",
+      "data": "1929-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3270-de-28-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.270 de 28 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-28-3270",
+      "data": "1929-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3269-de-26-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.269 de 26 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-26-3269",
+      "data": "1929-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3268-de-26-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.268 de 26 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-26-3268",
+      "data": "1929-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3267-de-22-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.267 de 22 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-22-3267",
+      "data": "1929-02-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3266-de-18-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.266 de 18 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-18-3266",
+      "data": "1929-02-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3265-de-14-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.265 de 14 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-14-3265",
+      "data": "1929-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3264-de-11-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.264 de 11 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-11-3264",
+      "data": "1929-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3263-de-8-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.263 de 8 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-08-3263",
+      "data": "1929-02-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3262-de-1-de-fevereiro-de-1929",
+      "titulo": "LEI Nº 3.262 de 1 de Fevereiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-02-01-3262",
+      "data": "1929-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3261-de-31-de-janeiro-de-1929",
+      "titulo": "LEI Nº 3.261 de 31 de Janeiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-01-31-3261",
+      "data": "1929-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3260-de-31-de-janeiro-de-1929",
+      "titulo": "LEI Nº 3.260 de 31 de Janeiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-01-31-3260",
+      "data": "1929-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3259-de-23-de-janeiro-de-1929",
+      "titulo": "LEI Nº 3.259 de 23 de Janeiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-01-23-3259",
+      "data": "1929-01-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3258-de-22-de-janeiro-de-1929",
+      "titulo": "LEI Nº 3.258 de 22 de Janeiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-01-22-3258",
+      "data": "1929-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3257-de-22-de-janeiro-de-1929",
+      "titulo": "LEI Nº 3.257 de 22 de Janeiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-01-22-3257",
+      "data": "1929-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3256-de-21-de-janeiro-de-1929",
+      "titulo": "LEI Nº 3.256 de 21 de Janeiro de 1929",
+      "id": "br-municipal-3550308-lei-1929-01-21-3256",
+      "data": "1929-01-21"
+    }
+  ],
+  "pendencias": []
+}

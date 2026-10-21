@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-07-12-13696",
+  "titulo": "Lei nº 13.696 de 12/07/2018",
+  "data": "2018-07-12",
+  "fonte": "https://normas.leg.br/api/public/binario/a0424437-548c-40ae-bbac-2dd4c420d6f7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-07-12;13696",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-07-12%3B13696&tipo_documento=maior-detalhe",
+  "sha256_dados": "6a2113d7ab175f84bc0f3385324783abb8a704104fa23e4e4a8217eea0460371",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:58.813Z",
+  "sha256_fonte": "e9e3a0dc55efab7be7a7ff1f1950f3795e9404660a99411d3fd39b2e36b268d9",
+  "sha256_markdown": "23ac1e8d59128d15d595e1bcc95714151f6128aef9bbd169c1ceb2f6b612c3b5"
+}

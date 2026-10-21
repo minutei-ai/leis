@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-11-25-13913",
+  "titulo": "Lei nº 13.913 de 25/11/2019",
+  "data": "2019-11-25",
+  "fonte": "https://normas.leg.br/api/public/binario/bcb6f980-5b5a-4c03-8487-e4901842a521/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-11-25;13913",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-11-25%3B13913&tipo_documento=maior-detalhe",
+  "sha256_dados": "5f2a8185b2441d7a8b0251d6fa089d7ad983fbe60a0b2f626c3c3c18cceec351",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:45:14.300Z",
+  "sha256_fonte": "1839643fefe38edcee8722e4c7029d673e0801acd0eecede0f33f6ff31fa7d8c",
+  "sha256_markdown": "fedc6fd09d725726258973f7b51340e60dde94e747299f27cef6ce9b1a67474a"
+}

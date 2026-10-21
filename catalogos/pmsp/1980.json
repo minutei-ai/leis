@@ -1,0 +1,1196 @@
+{
+  "ano_publicacao": 1980,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1980",
+    "ano-final": "31/12/1980",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:24.522Z",
+  "total": 195,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "0c236f0c1c374860c6b4c8816b768381ce163cb2108a122a6e8af480b841be0e"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "2f119e145e8c285d810f3ca429101cc9d3b020054ba016997a708c4b5ba93639"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9211-de-24-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.211 de 24 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-24-9211",
+      "data": "1980-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9210-de-24-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.210 de 24 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-24-9210",
+      "data": "1980-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9212-de-24-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.212 de 24 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-24-9212",
+      "data": "1980-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9209-de-22-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.209 de 22 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-22-9209",
+      "data": "1980-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9208-de-22-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.208 de 22 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-22-9208",
+      "data": "1980-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9207-de-22-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.207 de 22 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-22-9207",
+      "data": "1980-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9206-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.206 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9206",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9205-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.205 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9205",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9203-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.203 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9203",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9202-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.202 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9202",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9201-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.201 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9201",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9198-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.198 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9198",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9197-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.197 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9197",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9196-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.196 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9196",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9194-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.194 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9194",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9204-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.204 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9204",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9200-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.200 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9200",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9199-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.199 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9199",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9195-de-18-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.195 de 18 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-18-9195",
+      "data": "1980-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9193-de-17-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.193 de 17 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-17-9193",
+      "data": "1980-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9192-de-17-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.192 de 17 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-17-9192",
+      "data": "1980-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9191-de-16-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.191 de 16 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-16-9191",
+      "data": "1980-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9190-de-11-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.190 de 11 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-11-9190",
+      "data": "1980-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9189-de-11-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.189 de 11 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-11-9189",
+      "data": "1980-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9187-de-11-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.187 de 11 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-11-9187",
+      "data": "1980-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9188-de-11-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.188 de 11 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-11-9188",
+      "data": "1980-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9186-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.186 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9186",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9185-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.185 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9185",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9184-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.184 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9184",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9183-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.183 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9183",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9182-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.182 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9182",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9181-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.181 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9181",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9180-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.180 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9180",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9179-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.179 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9179",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9177-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.177 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9177",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9175-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.175 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9175",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9178-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.178 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9178",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9176-de-5-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.176 de 5 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-05-9176",
+      "data": "1980-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9174-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.174 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9174",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9173-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.173 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9173",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9172-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.172 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9172",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9171-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.171 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9171",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9169-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.169 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9169",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9170-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.170 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9170",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9168-de-4-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.168 de 4 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-04-9168",
+      "data": "1980-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9166-de-3-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.166 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9166",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9165-de-3-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.165 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9165",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9164-de-3-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.164 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9164",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9163-de-3-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.163 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9163",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9162-de-3-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.162 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9162",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9161-de-3-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.161 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9161",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9167-de-03-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.167 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9167",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9160-de-03-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.160 de 3 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-03-9160",
+      "data": "1980-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9159-de-1-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.159 de 1 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-01-9159",
+      "data": "1980-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9158-de-1-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.158 de 1 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-01-9158",
+      "data": "1980-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9157-de-1-de-dezembro-de-1980",
+      "titulo": "LEI Nº 9.157 de 1 de Dezembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-12-01-9157",
+      "data": "1980-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9155-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.155 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9155",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9154-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.154 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9154",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9153-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.153 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9153",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9152-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.152 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9152",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9151-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.151 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9151",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9150-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.150 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9150",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9149-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.149 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9149",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9148-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.148 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9148",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9147-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.147 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9147",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9146-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.146 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9146",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9145-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.145 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9145",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9156-de-26-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.156 de 26 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-26-9156",
+      "data": "1980-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9144-de-18-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.144 de 18 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-18-9144",
+      "data": "1980-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9143-de-17-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.143 de 17 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-17-9143",
+      "data": "1980-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9142-de-17-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.142 de 17 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-17-9142",
+      "data": "1980-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9141-de-17-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.141 de 17 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-17-9141",
+      "data": "1980-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9140-de-17-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.140 de 17 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-17-9140",
+      "data": "1980-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9139-de-7-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.139 de 7 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-07-9139",
+      "data": "1980-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9138-de-5-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.138 de 5 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-05-9138",
+      "data": "1980-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9137-de-5-de-novembro-de-1980",
+      "titulo": "LEI Nº 9.137 de 5 de Novembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-11-05-9137",
+      "data": "1980-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9136-de-31-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.136 de 31 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-31-9136",
+      "data": "1980-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9135-de-29-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.135 de 29 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-29-9135",
+      "data": "1980-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9133-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.133 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9133",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9132-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.132 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9132",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9131-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.131 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9131",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9130-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.130 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9130",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9129-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.129 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9129",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9128-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.128 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9128",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9127-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.127 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9127",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9134-de-27-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.134 de 27 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-27-9134",
+      "data": "1980-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9126-de-23-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.126 de 23 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-23-9126",
+      "data": "1980-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9125-de-23-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.125 de 23 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-23-9125",
+      "data": "1980-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9124-de-17-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.124 de 17 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-17-9124",
+      "data": "1980-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9123-de-17-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.123 de 17 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-17-9123",
+      "data": "1980-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9122-de-16-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.122 de 16 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-16-9122",
+      "data": "1980-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9121-de-14-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.121 de 14 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-14-9121",
+      "data": "1980-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9120-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.120 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9120",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9119-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.119 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9119",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9118-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.118 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9118",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9117-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.117 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9117",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9116-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.116 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9116",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9115-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.115 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9115",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9113-de-8-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.113 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9113",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9114-de-08-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.114 de 8 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-08-9114",
+      "data": "1980-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9112-de-6-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.112 de 6 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-06-9112",
+      "data": "1980-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9111-de-6-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.111 de 6 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-06-9111",
+      "data": "1980-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9110-de-2-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.110 de 2 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-02-9110",
+      "data": "1980-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9109-de-2-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.109 de 2 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-02-9109",
+      "data": "1980-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9108-de-2-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.108 de 2 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-02-9108",
+      "data": "1980-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9107-de-2-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.107 de 2 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-02-9107",
+      "data": "1980-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9106-de-2-de-outubro-de-1980",
+      "titulo": "LEI Nº 9.106 de 2 de Outubro de 1980",
+      "id": "br-municipal-3550308-lei-1980-10-02-9106",
+      "data": "1980-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9105-de-19-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.105 de 19 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-19-9105",
+      "data": "1980-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9104-de-19-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.104 de 19 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-19-9104",
+      "data": "1980-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9103-de-18-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.103 de 18 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-18-9103",
+      "data": "1980-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9101-de-15-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.101 de 15 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-15-9101",
+      "data": "1980-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9102-de-15-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.102 de 15 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-15-9102",
+      "data": "1980-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9100-de-12-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.100 de 12 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-12-9100",
+      "data": "1980-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9099-de-9-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.099 de 9 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-09-9099",
+      "data": "1980-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9098-de-9-de-setembro-de-1980",
+      "titulo": "LEI Nº 9.098 de 9 de Setembro de 1980",
+      "id": "br-municipal-3550308-lei-1980-09-09-9098",
+      "data": "1980-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9097-de-27-de-agosto-de-1980",
+      "titulo": "LEI Nº 9.097 de 27 de Agosto de 1980",
+      "id": "br-municipal-3550308-lei-1980-08-27-9097",
+      "data": "1980-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9096-de-26-de-agosto-de-1980",
+      "titulo": "LEI Nº 9.096 de 26 de Agosto de 1980",
+      "id": "br-municipal-3550308-lei-1980-08-26-9096",
+      "data": "1980-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9095-de-16-de-julho-de-1980",
+      "titulo": "LEI Nº 9.095 de 16 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-16-9095",
+      "data": "1980-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9094-de-16-de-julho-de-1980",
+      "titulo": "LEI Nº 9.094 de 16 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-16-9094",
+      "data": "1980-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9093-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.093 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9093",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9092-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.092 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9092",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9091-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.091 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9091",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9089-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.089 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9089",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9088-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.088 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9088",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9087-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.087 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9087",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9090-de-7-de-julho-de-1980",
+      "titulo": "LEI Nº 9.090 de 7 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-07-9090",
+      "data": "1980-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9086-de-2-de-julho-de-1980",
+      "titulo": "LEI Nº 9.086 de 2 de Julho de 1980",
+      "id": "br-municipal-3550308-lei-1980-07-02-9086",
+      "data": "1980-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9085-de-28-de-junho-de-1980",
+      "titulo": "LEI Nº 9.085 de 28 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-28-9085",
+      "data": "1980-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9084-de-28-de-junho-de-1980",
+      "titulo": "LEI Nº 9.084 de 28 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-28-9084",
+      "data": "1980-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9083-de-27-de-junho-de-1980",
+      "titulo": "LEI Nº 9.083 de 27 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-27-9083",
+      "data": "1980-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9081-de-16-de-junho-de-1980",
+      "titulo": "LEI Nº 9.081 de 16 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-16-9081",
+      "data": "1980-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9080-de-16-de-junho-de-1980",
+      "titulo": "LEI Nº 9.080 de 16 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-16-9080",
+      "data": "1980-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9079-de-16-de-junho-de-1980",
+      "titulo": "LEI Nº 9.079 de 16 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-16-9079",
+      "data": "1980-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9078-de-16-de-junho-de-1980",
+      "titulo": "LEI Nº 9.078 de 16 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-16-9078",
+      "data": "1980-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9077-de-16-de-junho-de-1980",
+      "titulo": "LEI Nº 9.077 de 16 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-16-9077",
+      "data": "1980-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9082-de-16-de-junho-de-1980",
+      "titulo": "LEI Nº 9.082 de 16 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-16-9082",
+      "data": "1980-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9076-de-12-de-junho-de-1980",
+      "titulo": "LEI Nº 9.076 de 12 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-12-9076",
+      "data": "1980-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9074-de-12-de-junho-de-1980",
+      "titulo": "LEI Nº 9.074 de 12 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-12-9074",
+      "data": "1980-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9075-de-12-de-junho-de-1980",
+      "titulo": "LEI Nº 9.075 de 12 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-12-9075",
+      "data": "1980-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9073-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.073 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9073",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9072-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.072 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9072",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9071-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.071 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9071",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9070-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.070 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9070",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9069-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.069 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9069",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9068-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.068 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9068",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9067-de-6-de-junho-de-1980",
+      "titulo": "LEI Nº 9.067 de 6 de Junho de 1980",
+      "id": "br-municipal-3550308-lei-1980-06-06-9067",
+      "data": "1980-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9066-de-27-de-maio-de-1980",
+      "titulo": "LEI Nº 9.066 de 27 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-27-9066",
+      "data": "1980-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9065-de-27-de-maio-de-1980",
+      "titulo": "LEI Nº 9.065 de 27 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-27-9065",
+      "data": "1980-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9064-de-16-de-maio-de-1980",
+      "titulo": "LEI Nº 9.064 de 16 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-16-9064",
+      "data": "1980-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9063-de-16-de-maio-de-1980",
+      "titulo": "LEI Nº 9.063 de 16 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-16-9063",
+      "data": "1980-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9062-de-16-de-maio-de-1980",
+      "titulo": "LEI Nº 9.062 de 16 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-16-9062",
+      "data": "1980-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9061-de-15-de-maio-de-1980",
+      "titulo": "LEI Nº 9.061 de 15 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-15-9061",
+      "data": "1980-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9060-de-15-de-maio-de-1980",
+      "titulo": "LEI Nº 9.060 de 15 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-15-9060",
+      "data": "1980-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9058-de-13-de-maio-de-1980",
+      "titulo": "LEI Nº 9.058 de 13 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-13-9058",
+      "data": "1980-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9057-de-13-de-maio-de-1980",
+      "titulo": "LEI Nº 9.057 de 13 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-13-9057",
+      "data": "1980-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9056-de-13-de-maio-de-1980",
+      "titulo": "LEI Nº 9.056 de 13 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-13-9056",
+      "data": "1980-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9059-de-13-de-maio-de-1980",
+      "titulo": "LEI Nº 9.059 de 13 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-13-9059",
+      "data": "1980-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9053-de-8-de-maio-de-1980",
+      "titulo": "LEI Nº 9.053 de 8 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-08-9053",
+      "data": "1980-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9052-de-8-de-maio-de-1980",
+      "titulo": "LEI Nº 9.052 de 8 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-08-9052",
+      "data": "1980-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9055-de-8-de-maio-de-1980",
+      "titulo": "LEI Nº 9.055 de 8 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-08-9055",
+      "data": "1980-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9054-de-8-de-maio-de-1980",
+      "titulo": "LEI Nº 9.054 de 8 de Maio de 1980",
+      "id": "br-municipal-3550308-lei-1980-05-08-9054",
+      "data": "1980-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9051-de-30-de-abril-de-1980",
+      "titulo": "LEI Nº 9.051 de 30 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-30-9051",
+      "data": "1980-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9050-de-29-de-abril-de-1980",
+      "titulo": "LEI Nº 9.050 de 29 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-29-9050",
+      "data": "1980-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9049-de-24-de-abril-de-1980",
+      "titulo": "LEI Nº 9.049 de 24 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-24-9049",
+      "data": "1980-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9048-de-23-de-abril-de-1980",
+      "titulo": "LEI Nº 9.048 de 23 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-23-9048",
+      "data": "1980-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9047-de-23-de-abril-de-1980",
+      "titulo": "LEI Nº 9.047 de 23 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-23-9047",
+      "data": "1980-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9046-de-23-de-abril-de-1980",
+      "titulo": "LEI Nº 9.046 de 23 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-23-9046",
+      "data": "1980-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9045-de-16-de-abril-de-1980",
+      "titulo": "LEI Nº 9.045 de 16 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-16-9045",
+      "data": "1980-04-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9043-de-14-de-abril-de-1980",
+      "titulo": "LEI Nº 9.043 de 14 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-14-9043",
+      "data": "1980-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9042-de-14-de-abril-de-1980",
+      "titulo": "LEI Nº 9.042 de 14 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-14-9042",
+      "data": "1980-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9044-de-14-de-abril-de-1980",
+      "titulo": "LEI Nº 9.044 de 14 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-14-9044",
+      "data": "1980-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9041-de-11-de-abril-de-1980",
+      "titulo": "LEI Nº 9.041 de 11 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-11-9041",
+      "data": "1980-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9040-de-2-de-abril-de-1980",
+      "titulo": "LEI Nº 9.040 de 2 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-02-9040",
+      "data": "1980-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9039-de-2-de-abril-de-1980",
+      "titulo": "LEI Nº 9.039 de 2 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-02-9039",
+      "data": "1980-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9038-de-2-de-abril-de-1980",
+      "titulo": "LEI Nº 9.038 de 2 de Abril de 1980",
+      "id": "br-municipal-3550308-lei-1980-04-02-9038",
+      "data": "1980-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9037-de-27-de-marco-de-1980",
+      "titulo": "LEI Nº 9.037 de 27 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-27-9037",
+      "data": "1980-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9036-de-27-de-marco-de-1980",
+      "titulo": "LEI Nº 9.036 de 27 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-27-9036",
+      "data": "1980-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9035-de-27-de-marco-de-1980",
+      "titulo": "LEI Nº 9.035 de 27 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-27-9035",
+      "data": "1980-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9034-de-27-de-marco-de-1980",
+      "titulo": "LEI Nº 9.034 de 27 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-27-9034",
+      "data": "1980-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9033-de-27-de-marco-de-1980",
+      "titulo": "LEI Nº 9.033 de 27 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-27-9033",
+      "data": "1980-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9032-de-27-de-marco-de-1980",
+      "titulo": "LEI Nº 9.032 de 27 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-27-9032",
+      "data": "1980-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9031-de-17-de-marco-de-1980",
+      "titulo": "LEI Nº 9.031 de 17 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-17-9031",
+      "data": "1980-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9030-de-17-de-marco-de-1980",
+      "titulo": "LEI Nº 9.030 de 17 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-17-9030",
+      "data": "1980-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9029-de-10-de-marco-de-1980",
+      "titulo": "LEI Nº 9.029 de 10 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-10-9029",
+      "data": "1980-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9028-de-10-de-marco-de-1980",
+      "titulo": "LEI Nº 9.028 de 10 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-10-9028",
+      "data": "1980-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9027-de-10-de-marco-de-1980",
+      "titulo": "LEI Nº 9.027 de 10 de Março de 1980",
+      "id": "br-municipal-3550308-lei-1980-03-10-9027",
+      "data": "1980-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9026-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.026 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9026",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9025-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.025 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9025",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9024-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.024 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9024",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9023-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.023 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9023",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9022-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.022 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9022",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9021-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.021 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9021",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9020-de-28-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.020 de 28 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-28-9020",
+      "data": "1980-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9019-de-22-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.019 de 22 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-22-9019",
+      "data": "1980-02-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9018-de-20-de-fevereiro-de-1980",
+      "titulo": "LEI Nº 9.018 de 20 de Fevereiro de 1980",
+      "id": "br-municipal-3550308-lei-1980-02-20-9018",
+      "data": "1980-02-20"
+    }
+  ],
+  "pendencias": []
+}

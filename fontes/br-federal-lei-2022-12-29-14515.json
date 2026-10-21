@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-29-14515",
+  "titulo": "Lei nº 14.515 de 29/12/2022",
+  "data": "2022-12-29",
+  "fonte": "https://normas.leg.br/api/public/binario/9aa10378-cac1-4586-91b6-4606a8e3705a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-29;14515",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-29%3B14515&tipo_documento=maior-detalhe",
+  "sha256_dados": "808690e376fb9c34c0f7b52c1f24db8a9f47604cfbea39d0290e8c0c23496af0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:16.436Z",
+  "sha256_fonte": "90882db84fc216981e8c93abbf59a0224de2745a41cac64c9585583855449063",
+  "sha256_markdown": "b10472dd5ebb23ee21c7532ca2a97a13cada80181c5ab1aaeac54708b8c1e59c"
+}

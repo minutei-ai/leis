@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-05-28-49044",
+  "titulo": "DEC nº 49044, de 28/05/2025",
+  "data": "2025-05-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49044/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49044/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9e610e0e7ee605abd8c977a0eab4843f2c1faa0b2a09914ad3a0314a1337c8db",
+  "coletado_em": "2026-10-21T08:31:32.910Z",
+  "sha256_fonte": "09b6b9f2606542ceb1f38af49d18d040fe4eca42fa6fbd24de914817b0f3ba2b",
+  "sha256_markdown": "5a5b4d0d5c00e7ea677bc854924af197f842a7ea878cf7f6fd99ffe88fbc4dbf"
+}

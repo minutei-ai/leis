@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-01-04-14296",
+  "titulo": "Lei nº 14.296 de 04/01/2022",
+  "data": "2022-01-04",
+  "fonte": "https://normas.leg.br/api/public/binario/ab1adc7b-b5f0-49da-a086-b77be1f1aa1f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-01-04;14296",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-01-04%3B14296&tipo_documento=maior-detalhe",
+  "sha256_dados": "895ee2cd082c7068084084aa347001112ff46b366598a37d3a7f8f564b4e97d2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:02.928Z",
+  "sha256_fonte": "8505c10599e5fe5f1e674bdb404209d11ac93d3741be6d78b8fa7364c2be1ee2",
+  "sha256_markdown": "7ab6865e85138c835b97ee9d9bc5ba25c75e884305a302ae54720976880a77d1"
+}

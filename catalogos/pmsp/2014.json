@@ -1,0 +1,914 @@
+{
+  "ano_publicacao": 2014,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2014",
+    "ano-final": "31/12/2014",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:45:56.676Z",
+  "total": 148,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "48cbabbb5e8bce2ebc5fe3ffcc519cf760f583a6462ebcd8d631339b26daad35"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "13c6b3b6a0c9fb75149d6dcb56908a7617d14cec9f29a9c01ac107b11b3f15ab"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16099-de-30-de-dezembro-de-2014",
+      "titulo": "LEI Nº 16.099 de 30 de Dezembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-12-30-16099",
+      "data": "2014-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16098-de-29-de-dezembro-de-2014",
+      "titulo": "LEI Nº 16.098 de 29 de Dezembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-12-29-16098",
+      "data": "2014-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16097-de-29-de-dezembro-de-2014",
+      "titulo": "LEI Nº 16.097 de 29 de Dezembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-12-29-16097",
+      "data": "2014-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16096-de-16-de-dezembro-de-2014",
+      "titulo": "LEI Nº 16.096 de 16 de Dezembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-12-16-16096",
+      "data": "2014-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16095-de-16-de-dezembro-de-2014",
+      "titulo": "LEI Nº 16.095 de 16 de Dezembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-12-16-16095",
+      "data": "2014-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16094-de-05-de-dezembro-de-2014",
+      "titulo": "LEI Nº 16.094 de 5 de Dezembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-12-05-16094",
+      "data": "2014-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16093-de-27-de-novembro-de-2014",
+      "titulo": "LEI Nº 16.093 de 27 de Novembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-11-27-16093",
+      "data": "2014-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16092-de-27-de-novembro-de-2014",
+      "titulo": "LEI Nº 16.092 de 27 de Novembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-11-27-16092",
+      "data": "2014-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16091-de-25-de-novembro-de-2014",
+      "titulo": "LEI Nº 16.091 de 25 de Novembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-11-25-16091",
+      "data": "2014-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16090-de-25-de-novembro-de-2014",
+      "titulo": "LEI Nº 16.090 de 25 de Novembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-11-25-16090",
+      "data": "2014-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16089-de-25-de-novembro-de-2014",
+      "titulo": "LEI Nº 16.089 de 25 de Novembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-11-25-16089",
+      "data": "2014-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16088-de-22-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.088 de 22 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-22-16088",
+      "data": "2014-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16087-de-6-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.087 de 6 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-06-16087",
+      "data": "2014-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16086-de-6-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.086 de 6 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-06-16086",
+      "data": "2014-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16085-de-3-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.085 de 3 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-03-16085",
+      "data": "2014-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16084-de-1-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.084 de 1 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-01-16084",
+      "data": "2014-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16083-de-1-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.083 de 1 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-01-16083",
+      "data": "2014-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16082-de-1-de-outubro-de-2014",
+      "titulo": "LEI Nº 16.082 de 1 de Outubro de 2014",
+      "id": "br-municipal-3550308-lei-2014-10-01-16082",
+      "data": "2014-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16081-de-30-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.081 de 30 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-30-16081",
+      "data": "2014-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16080-de-30-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.080 de 30 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-30-16080",
+      "data": "2014-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16079-de-25-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.079 de 25 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-25-16079",
+      "data": "2014-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16078-de-25-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.078 de 25 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-25-16078",
+      "data": "2014-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16077-de-25-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.077 de 25 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-25-16077",
+      "data": "2014-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16076-de-25-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.076 de 25 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-25-16076",
+      "data": "2014-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16075-de-25-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.075 de 25 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-25-16075",
+      "data": "2014-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16074-de-22-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.074 de 22 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-22-16074",
+      "data": "2014-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16073-de-19-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.073 de 19 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-19-16073",
+      "data": "2014-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16072-de-16-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.072 de 16 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-16-16072",
+      "data": "2014-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16071-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.071 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16071",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16070-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.070 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16070",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16069-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.069 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16069",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16068-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.068 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16068",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16067-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.067 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16067",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16066-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.066 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16066",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16065-de-04-de-setembro-de-2014",
+      "titulo": "LEI Nº 16.065 de 4 de Setembro de 2014",
+      "id": "br-municipal-3550308-lei-2014-09-04-16065",
+      "data": "2014-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16064-de-18-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.064 de 18 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-18-16064",
+      "data": "2014-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16063-de-18-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.063 de 18 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-18-16063",
+      "data": "2014-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16062-de-13-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.062 de 13 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-13-16062",
+      "data": "2014-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16061-de-13-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.061 de 13 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-13-16061",
+      "data": "2014-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16060-de-13-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.060 de 13 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-13-16060",
+      "data": "2014-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16059-de-13-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.059 de 13 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-13-16059",
+      "data": "2014-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16058-de-13-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.058 de 13 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-13-16058",
+      "data": "2014-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16057-de-13-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.057 de 13 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-13-16057",
+      "data": "2014-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16056-de-8-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.056 de 8 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-08-16056",
+      "data": "2014-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16055-de-7-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.055 de 7 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-07-16055",
+      "data": "2014-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16054-de-07-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.054 de 7 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-07-16054",
+      "data": "2014-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16053-de-07-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.053 de 7 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-07-16053",
+      "data": "2014-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16052-de-6-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.052 de 6 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-06-16052",
+      "data": "2014-08-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16051-de-06-de-agosto-de-2014",
+      "titulo": "LEI Nº 16.051 de 6 de Agosto de 2014",
+      "id": "br-municipal-3550308-lei-2014-08-06-16051",
+      "data": "2014-08-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16050-de-31-de-julho-de-2014",
+      "titulo": "LEI Nº 16.050 de 31 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-31-16050",
+      "data": "2014-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16049-de-25-de-julho-de-2014",
+      "titulo": "LEI Nº 16.049 de 25 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-25-16049",
+      "data": "2014-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16048-de-25-de-julho-de-2014",
+      "titulo": "LEI Nº 16.048 de 25 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-25-16048",
+      "data": "2014-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16047-de-18-de-julho-de-2014",
+      "titulo": "LEI Nº 16.047 de 18 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-18-16047",
+      "data": "2014-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16046-de-18-de-julho-de-2014",
+      "titulo": "LEI Nº 16.046 de 18 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-18-16046",
+      "data": "2014-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16045-de-18-de-julho-de-2014",
+      "titulo": "LEI Nº 16.045 de 18 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-18-16045",
+      "data": "2014-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16044-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.044 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16044",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16043-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.043 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16043",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16042-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.042 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16042",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16041-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.041 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16041",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16040-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.040 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16040",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16039-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.039 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16039",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16038-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.038 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16038",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16037-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.037 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16037",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16036-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.036 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16036",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16035-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.035 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16035",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16034-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.034 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16034",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16033-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.033 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16033",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16032-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.032 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16032",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16031-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.031 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16031",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16030-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.030 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16030",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16029-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.029 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16029",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16028-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.028 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16028",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16027-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.027 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16027",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16026-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.026 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16026",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16025-de-14-de-julho-de-2014",
+      "titulo": "LEI Nº 16.025 de 14 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-14-16025",
+      "data": "2014-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16024-de-11-de-julho-de-2014",
+      "titulo": "LEI Nº 16.024 de 11 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-11-16024",
+      "data": "2014-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16023-de-11-de-julho-de-2014",
+      "titulo": "LEI Nº 16.023 de 11 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-11-16023",
+      "data": "2014-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16022-de-11-de-julho-de-2014",
+      "titulo": "LEI Nº 16.022 de 11 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-11-16022",
+      "data": "2014-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16021-de-11-de-julho-de-2014",
+      "titulo": "LEI Nº 16.021 de 11 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-11-16021",
+      "data": "2014-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16020-de-02-de-julho-de-2014",
+      "titulo": "LEI Nº 16.020 de 2 de Julho de 2014",
+      "id": "br-municipal-3550308-lei-2014-07-02-16020",
+      "data": "2014-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16019-de-25-de-junho-de-2014",
+      "titulo": "LEI Nº 16.019 de 25 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-25-16019",
+      "data": "2014-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16017-de-18-de-junho-de-2014",
+      "titulo": "LEI Nº 16.017 de 18 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-18-16017",
+      "data": "2014-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16016-de-18-de-junho-de-2014",
+      "titulo": "LEI Nº 16.016 de 18 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-18-16016",
+      "data": "2014-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16015-de-18-de-junho-de-2014",
+      "titulo": "LEI Nº 16.015 de 18 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-18-16015",
+      "data": "2014-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16014-de-18-de-junho-de-2014",
+      "titulo": "LEI Nº 16.014 de 18 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-18-16014",
+      "data": "2014-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16013-de-16-de-junho-de-2014",
+      "titulo": "LEI Nº 16.013 de 16 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-16-16013",
+      "data": "2014-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16012-de-16-de-junho-de-2014",
+      "titulo": "LEI Nº 16.012 de 16 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-16-16012",
+      "data": "2014-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16011-de-11-de-junho-de-2014",
+      "titulo": "LEI Nº 16.011 de 11 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-11-16011",
+      "data": "2014-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16010-de-09-de-junho-de-2014",
+      "titulo": "LEI Nº 16.010 de 9 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-09-16010",
+      "data": "2014-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16009-de-6-de-junho-de-2014",
+      "titulo": "LEI Nº 16.009 de 6 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-06-16009",
+      "data": "2014-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16007-de-06-de-junho-de-2014",
+      "titulo": "LEI Nº 16.007 de 6 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-06-16007",
+      "data": "2014-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16008-de-05-de-junho-de-2014",
+      "titulo": "LEI Nº 16.008 de 5 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-05-16008",
+      "data": "2014-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16006-de-4-de-junho-de-2014",
+      "titulo": "LEI Nº 16.006 de 4 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-04-16006",
+      "data": "2014-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16005-de-3-de-junho-de-2014",
+      "titulo": "LEI Nº 16.005 de 3 de Junho de 2014",
+      "id": "br-municipal-3550308-lei-2014-06-03-16005",
+      "data": "2014-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16004-de-30-de-maio-de-2014",
+      "titulo": "LEI Nº 16.004 de 30 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-30-16004",
+      "data": "2014-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16003-de-28-de-maio-de-2014",
+      "titulo": "LEI Nº 16.003 de 28 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-28-16003",
+      "data": "2014-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16002-de-28-de-maio-de-2014",
+      "titulo": "LEI Nº 16.002 de 28 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-28-16002",
+      "data": "2014-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16001-de-28-de-maio-de-2014",
+      "titulo": "LEI Nº 16.001 de 28 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-28-16001",
+      "data": "2014-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16000-de-28-de-maio-de-2014",
+      "titulo": "LEI Nº 16.000 de 28 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-28-16000",
+      "data": "2014-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15999-de-28-de-maio-de-2014",
+      "titulo": "LEI Nº 15.999 de 28 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-28-15999",
+      "data": "2014-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15998-de-28-de-maio-de-2014",
+      "titulo": "LEI Nº 15.998 de 28 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-28-15998",
+      "data": "2014-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15997-de-27-de-maio-de-2014",
+      "titulo": "LEI Nº 15.997 de 27 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-27-15997",
+      "data": "2014-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15996-de-23-de-maio-de-2014",
+      "titulo": "LEI Nº 15.996 de 23 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-23-15996",
+      "data": "2014-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15995-de-19-de-maio-de-2014",
+      "titulo": "LEI Nº 15.995 de 19 de Maio de 2014",
+      "id": "br-municipal-3550308-lei-2014-05-19-15995",
+      "data": "2014-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15994-de-23-de-abril-de-2014",
+      "titulo": "LEI Nº 15.994 de 23 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-23-15994",
+      "data": "2014-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15993-de-17-de-abril-de-2014",
+      "titulo": "LEI Nº 15.993 de 17 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-17-15993",
+      "data": "2014-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15992-de-16-de-abril-de-2014",
+      "titulo": "LEI Nº 15.992 de 16 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-16-15992",
+      "data": "2014-04-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15991-de-11-de-abril-de-2014",
+      "titulo": "LEI Nº 15.991 de 11 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-11-15991",
+      "data": "2014-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15990-de-11-de-abril-de-2014",
+      "titulo": "LEI Nº 15.990 de 11 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-11-15990",
+      "data": "2014-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15989-de-4-de-abril-de-2014",
+      "titulo": "LEI Nº 15.989 de 4 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-04-15989",
+      "data": "2014-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15988-de-4-de-abril-de-2014",
+      "titulo": "LEI Nº 15.988 de 4 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-04-15988",
+      "data": "2014-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15987-de-4-de-abril-de-2014",
+      "titulo": "LEI Nº 15.987 de 4 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-04-15987",
+      "data": "2014-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15986-de-03-de-abril-de-2014",
+      "titulo": "LEI Nº 15.986 de 3 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-03-15986",
+      "data": "2014-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15985-de-03-de-abril-de-2014",
+      "titulo": "LEI Nº 15.985 de 3 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-03-15985",
+      "data": "2014-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15984-de-03-de-abril-de-2014",
+      "titulo": "LEI Nº 15.984 de 3 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-03-15984",
+      "data": "2014-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15983-de-03-de-abril-de-2014",
+      "titulo": "LEI Nº 15.983 de 3 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-03-15983",
+      "data": "2014-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15982-de-01-de-abril-de-2014",
+      "titulo": "LEI Nº 15.982 de 1 de Abril de 2014",
+      "id": "br-municipal-3550308-lei-2014-04-01-15982",
+      "data": "2014-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15981-de-14-de-marco-de-2014",
+      "titulo": "LEI Nº 15.981 de 14 de Março de 2014",
+      "id": "br-municipal-3550308-lei-2014-03-14-15981",
+      "data": "2014-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15980-de-11-de-marco-de-2014",
+      "titulo": "LEI Nº 15.980 de 11 de Março de 2014",
+      "id": "br-municipal-3550308-lei-2014-03-11-15980",
+      "data": "2014-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15979-de-11-de-marco-de-2014",
+      "titulo": "LEI Nº 15.979 de 11 de Março de 2014",
+      "id": "br-municipal-3550308-lei-2014-03-11-15979",
+      "data": "2014-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15978-de-11-de-marco-de-2014",
+      "titulo": "LEI Nº 15.978 de 11 de Março de 2014",
+      "id": "br-municipal-3550308-lei-2014-03-11-15978",
+      "data": "2014-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15977-de-11-de-marco-de-2014",
+      "titulo": "LEI Nº 15.977 de 11 de Março de 2014",
+      "id": "br-municipal-3550308-lei-2014-03-11-15977",
+      "data": "2014-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15976-de-11-de-marco-de-2014",
+      "titulo": "LEI Nº 15.976 de 11 de Março de 2014",
+      "id": "br-municipal-3550308-lei-2014-03-11-15976",
+      "data": "2014-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15975-de-24-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.975 de 24 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-24-15975",
+      "data": "2014-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15974-de-24-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.974 de 24 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-24-15974",
+      "data": "2014-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15973-de-21-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.973 de 21 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-21-15973",
+      "data": "2014-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15972-de-21-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.972 de 21 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-21-15972",
+      "data": "2014-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15971-de-21-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.971 de 21 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-21-15971",
+      "data": "2014-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15970-de-17-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.970 de 17 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-17-15970",
+      "data": "2014-02-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15969-de-14-de-fevereiro-de-2014",
+      "titulo": "LEI Nº 15.969 de 14 de Fevereiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-02-14-15969",
+      "data": "2014-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15968-de-27-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.968 de 27 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-27-15968",
+      "data": "2014-01-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15967-de-24-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.967 de 24 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-24-15967",
+      "data": "2014-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15966-de-23-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.966 de 23 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-23-15966",
+      "data": "2014-01-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15965-de-22-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.965 de 22 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-22-15965",
+      "data": "2014-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15964-de-22-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.964 de 22 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-22-15964",
+      "data": "2014-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15963-de-15-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.963 de 15 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-15-15963",
+      "data": "2014-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15962-de-10-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.962 de 10 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-10-15962",
+      "data": "2014-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15961-de-9-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.961 de 9 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-09-15961",
+      "data": "2014-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15960-de-8-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.960 de 8 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-08-15960",
+      "data": "2014-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15959-de-08-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.959 de 8 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-08-15959",
+      "data": "2014-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15958-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.958 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15958",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15957-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.957 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15957",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15956-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.956 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15956",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15955-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.955 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15955",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15954-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.954 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15954",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15953-de-07-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.953 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15953",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15952-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.952 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15952",
+      "data": "2014-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15951-de-7-de-janeiro-de-2014",
+      "titulo": "LEI Nº 15.951 de 7 de Janeiro de 2014",
+      "id": "br-municipal-3550308-lei-2014-01-07-15951",
+      "data": "2014-01-07"
+    }
+  ],
+  "pendencias": []
+}

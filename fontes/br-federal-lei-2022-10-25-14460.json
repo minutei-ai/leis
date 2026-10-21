@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-10-25-14460",
+  "titulo": "Lei nº 14.460 de 25/10/2022",
+  "data": "2022-10-25",
+  "fonte": "https://normas.leg.br/api/public/binario/658023c0-0fa5-4cb9-bbce-ae8025752a8e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-10-25;14460",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-10-25%3B14460&tipo_documento=maior-detalhe",
+  "sha256_dados": "8cf4a14727b54caad48124fbbcc907687b62cc66b96a2003b3b12eb7c09be3b7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:29.320Z",
+  "sha256_fonte": "99de90bff6b5d8757b3f95869850d86b524da66a59b6763c4c9c3d06ec6f117c",
+  "sha256_markdown": "b9a53b1b8fbb36998adb8e198707e82fe5e57d46e5a331f46a3cbbd8bc8e7025"
+}

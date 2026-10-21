@@ -1,0 +1,1746 @@
+{
+  "ano_publicacao": 1962,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1962",
+    "ano-final": "31/12/1962",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:54.307Z",
+  "total": 286,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "e086ba6325d883fd8d5c9bc55981fdf3ab24e52a84a39888b2586d9f2c3abdb4"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "7405f05deaab25d5d48e16649c69ecf27dd10824a2e26a809156d99915ed5fda"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "50a6ad61d52485f67b6cdb5695c09d594f35ab28202ed5e2ccb7fb651613b105"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6211-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.211 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6211",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6210-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.210 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6210",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6209-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.209 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6209",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6208-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.208 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6208",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6207-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.207 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6207",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6206-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.206 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6206",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6205-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.205 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6205",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6204-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.204 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6204",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6203-de-28-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.203 de 28 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-28-6203",
+      "data": "1962-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6202-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.202 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6202",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6201-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.201 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6201",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6200-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.200 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6200",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6199-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.199 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6199",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6198-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.198 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6198",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6197-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.197 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6197",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6196-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.196 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6196",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6195-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.195 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6195",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6194-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.194 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6194",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6193-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.193 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6193",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6192-de-27-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.192 de 27 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-27-6192",
+      "data": "1962-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6191-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.191 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6191",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6190-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.190 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6190",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6189-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.189 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6189",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6188-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.188 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6188",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6187-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.187 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6187",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6186-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.186 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6186",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6185-de-26-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.185 de 26 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-26-6185",
+      "data": "1962-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6184-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.184 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6184",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6183-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.183 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6183",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6182-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.182 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6182",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6181-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.181 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6181",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6180-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.180 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6180",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6179-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.179 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6179",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6178-de-21-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.178 de 21 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-21-6178",
+      "data": "1962-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6177-de-20-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.177 de 20 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-20-6177",
+      "data": "1962-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6176-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.176 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6176",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6175-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.175 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6175",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6174-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.174 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6174",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6173-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.173 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6173",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6172-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.172 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6172",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6171-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.171 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6171",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6170-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.170 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6170",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6169-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.169 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6169",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6168-de-19-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.168 de 19 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-19-6168",
+      "data": "1962-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6167-de-18-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.167 de 18 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-18-6167",
+      "data": "1962-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6166-de-18-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.166 de 18 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-18-6166",
+      "data": "1962-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6165-de-17-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.165 de 17 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-17-6165",
+      "data": "1962-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6164-de-17-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.164 de 17 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-17-6164",
+      "data": "1962-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6163-de-17-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.163 de 17 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-17-6163",
+      "data": "1962-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6162-de-13-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.162 de 13 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-13-6162",
+      "data": "1962-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6161-de-13-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.161 de 13 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-13-6161",
+      "data": "1962-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6159-de-12-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.159 de 12 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-12-6159",
+      "data": "1962-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6158-de-12-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.158 de 12 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-12-6158",
+      "data": "1962-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6157-de-12-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.157 de 12 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-12-6157",
+      "data": "1962-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6160-de-12-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.160 de 12 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-12-6160",
+      "data": "1962-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6156-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.156 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6156",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6155-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.155 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6155",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6154-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.154 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6154",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6153-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.153 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6153",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6152-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.152 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6152",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6151-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.151 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6151",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6149-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.149 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6149",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6150-de-10-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.150 de 10 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-10-6150",
+      "data": "1962-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6148-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.148 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6148",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6147-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.147 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6147",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6146-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.146 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6146",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6145-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.145 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6145",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6144-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.144 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6144",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6143-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.143 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6143",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6142-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.142 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6142",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6141-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.141 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6141",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6140-de-6-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.140 de 6 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-06-6140",
+      "data": "1962-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6139-de-5-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.139 de 5 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-05-6139",
+      "data": "1962-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6138-de-5-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.138 de 5 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-05-6138",
+      "data": "1962-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6137-de-3-de-dezembro-de-1962",
+      "titulo": "LEI Nº 6.137 de 3 de Dezembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-12-03-6137",
+      "data": "1962-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6136-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.136 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6136",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6135-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.135 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6135",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6134-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.134 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6134",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6133-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.133 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6133",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6132-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.132 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6132",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6131-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.131 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6131",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6130-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.130 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6130",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6129-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.129 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6129",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6128-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.128 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6128",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6127-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.127 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6127",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6126-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.126 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6126",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6125-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.125 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6125",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6124-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.124 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6124",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6123-de-30-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.123 de 30 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-30-6123",
+      "data": "1962-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6122-de-26-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.122 de 26 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-26-6122",
+      "data": "1962-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6121-de-22-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.121 de 22 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-22-6121",
+      "data": "1962-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6120-de-22-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.120 de 22 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-22-6120",
+      "data": "1962-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6119-de-21-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.119 de 21 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-21-6119",
+      "data": "1962-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6118-de-21-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.118 de 21 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-21-6118",
+      "data": "1962-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6117-de-21-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.117 de 21 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-21-6117",
+      "data": "1962-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6116-de-21-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.116 de 21 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-21-6116",
+      "data": "1962-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6115-de-21-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.115 de 21 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-21-6115",
+      "data": "1962-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6114-de-20-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.114 de 20 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-20-6114",
+      "data": "1962-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6113-de-20-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.113 de 20 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-20-6113",
+      "data": "1962-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6112-de-20-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.112 de 20 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-20-6112",
+      "data": "1962-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6111-de-20-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.111 de 20 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-20-6111",
+      "data": "1962-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6110-de-20-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.110 de 20 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-20-6110",
+      "data": "1962-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6108-de-13-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.108 de 13 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-13-6108",
+      "data": "1962-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6109-de-13-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.109 de 13 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-13-6109",
+      "data": "1962-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6107-de-12-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.107 de 12 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-12-6107",
+      "data": "1962-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6106-de-12-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.106 de 12 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-12-6106",
+      "data": "1962-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6105-de-12-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.105 de 12 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-12-6105",
+      "data": "1962-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6104-de-12-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.104 de 12 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-12-6104",
+      "data": "1962-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6103-de-9-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.103 de 9 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-09-6103",
+      "data": "1962-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6102-de-8-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.102 de 8 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-08-6102",
+      "data": "1962-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6101-de-8-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.101 de 8 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-08-6101",
+      "data": "1962-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6100-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.100 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6100",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6099-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.099 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6099",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6098-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.098 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6098",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6097-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.097 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6097",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6096-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.096 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6096",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6095-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.095 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6095",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6094-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.094 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6094",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6093-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.093 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6093",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6092-de-6-de-novembro-de-1962",
+      "titulo": "LEI Nº 6.092 de 6 de Novembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-11-06-6092",
+      "data": "1962-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6091-de-31-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.091 de 31 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-31-6091",
+      "data": "1962-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6090-de-31-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.090 de 31 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-31-6090",
+      "data": "1962-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6089-de-30-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.089 de 30 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-30-6089",
+      "data": "1962-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6088-de-26-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.088 de 26 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-26-6088",
+      "data": "1962-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6087-de-26-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.087 de 26 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-26-6087",
+      "data": "1962-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6086-de-24-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.086 de 24 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-24-6086",
+      "data": "1962-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6085-de-24-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.085 de 24 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-24-6085",
+      "data": "1962-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6084-de-24-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.084 de 24 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-24-6084",
+      "data": "1962-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6083-de-24-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.083 de 24 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-24-6083",
+      "data": "1962-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6082-de-24-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.082 de 24 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-24-6082",
+      "data": "1962-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6081-de-24-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.081 de 24 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-24-6081",
+      "data": "1962-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6079-de-23-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.079 de 23 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-23-6079",
+      "data": "1962-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6078-de-23-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.078 de 23 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-23-6078",
+      "data": "1962-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6077-de-23-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.077 de 23 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-23-6077",
+      "data": "1962-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6080-de-23-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.080 de 23 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-23-6080",
+      "data": "1962-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6076-de-22-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.076 de 22 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-22-6076",
+      "data": "1962-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6075-de-19-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.075 de 19 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-19-6075",
+      "data": "1962-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6074-de-18-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.074 de 18 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-18-6074",
+      "data": "1962-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6073-de-16-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.073 de 16 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-16-6073",
+      "data": "1962-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6072-de-12-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.072 de 12 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-12-6072",
+      "data": "1962-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6071-de-12-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.071 de 12 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-12-6071",
+      "data": "1962-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6070-de-11-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.070 de 11 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-11-6070",
+      "data": "1962-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6069-de-9-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.069 de 9 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-09-6069",
+      "data": "1962-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6068-de-9-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.068 de 9 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-09-6068",
+      "data": "1962-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6067-de-9-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.067 de 9 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-09-6067",
+      "data": "1962-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6066-de-9-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.066 de 9 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-09-6066",
+      "data": "1962-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6065-de-9-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.065 de 9 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-09-6065",
+      "data": "1962-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6064-de-4-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.064 de 4 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-04-6064",
+      "data": "1962-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6063-de-4-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.063 de 4 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-04-6063",
+      "data": "1962-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6062-de-4-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.062 de 4 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-04-6062",
+      "data": "1962-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6061-de-4-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.061 de 4 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-04-6061",
+      "data": "1962-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6060-de-4-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.060 de 4 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-04-6060",
+      "data": "1962-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6059-de-3-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.059 de 3 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-03-6059",
+      "data": "1962-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6058-de-3-de-outubro-de-1962",
+      "titulo": "LEI Nº 6.058 de 3 de Outubro de 1962",
+      "id": "br-municipal-3550308-lei-1962-10-03-6058",
+      "data": "1962-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6057-de-18-de-setembro-de-1962",
+      "titulo": "LEI Nº 6.057 de 18 de Setembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-09-18-6057",
+      "data": "1962-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6056-de-4-de-setembro-de-1962",
+      "titulo": "LEI Nº 6.056 de 4 de Setembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-09-04-6056",
+      "data": "1962-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6055-de-4-de-setembro-de-1962",
+      "titulo": "LEI Nº 6.055 de 4 de Setembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-09-04-6055",
+      "data": "1962-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6054-de-4-de-setembro-de-1962",
+      "titulo": "LEI Nº 6.054 de 4 de Setembro de 1962",
+      "id": "br-municipal-3550308-lei-1962-09-04-6054",
+      "data": "1962-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6053-de-23-de-agosto-de-1962",
+      "titulo": "LEI Nº 6.053 de 23 de Agosto de 1962",
+      "id": "br-municipal-3550308-lei-1962-08-23-6053",
+      "data": "1962-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6052-de-20-de-agosto-de-1962",
+      "titulo": "LEI Nº 6.052 de 20 de Agosto de 1962",
+      "id": "br-municipal-3550308-lei-1962-08-20-6052",
+      "data": "1962-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6051-de-9-de-agosto-de-1962",
+      "titulo": "LEI Nº 6.051 de 9 de Agosto de 1962",
+      "id": "br-municipal-3550308-lei-1962-08-09-6051",
+      "data": "1962-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6050-de-6-de-julho-de-1962",
+      "titulo": "LEI Nº 6.050 de 6 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-06-6050",
+      "data": "1962-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6049-de-5-de-julho-de-1962",
+      "titulo": "LEI Nº 6.049 de 5 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-05-6049",
+      "data": "1962-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6048-de-5-de-julho-de-1962",
+      "titulo": "LEI Nº 6.048 de 5 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-05-6048",
+      "data": "1962-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6047-de-4-de-julho-de-1962",
+      "titulo": "LEI Nº 6.047 de 4 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-04-6047",
+      "data": "1962-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6046-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.046 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6046",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6045-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.045 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6045",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6044-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.044 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6044",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6043-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.043 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6043",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6042-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.042 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6042",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6041-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.041 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6041",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6040-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.040 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6040",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6039-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.039 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6039",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6038-de-3-de-julho-de-1962",
+      "titulo": "LEI Nº 6.038 de 3 de Julho de 1962",
+      "id": "br-municipal-3550308-lei-1962-07-03-6038",
+      "data": "1962-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6037-de-27-de-junho-de-1962",
+      "titulo": "LEI Nº 6.037 de 27 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-27-6037",
+      "data": "1962-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6036-de-27-de-junho-de-1962",
+      "titulo": "LEI Nº 6.036 de 27 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-27-6036",
+      "data": "1962-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6035-de-27-de-junho-de-1962",
+      "titulo": "LEI Nº 6.035 de 27 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-27-6035",
+      "data": "1962-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6034-de-27-de-junho-de-1962",
+      "titulo": "LEI Nº 6.034 de 27 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-27-6034",
+      "data": "1962-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6033-de-22-de-junho-de-1962",
+      "titulo": "LEI Nº 6.033 de 22 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-22-6033",
+      "data": "1962-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6032-de-22-de-junho-de-1962",
+      "titulo": "LEI Nº 6.032 de 22 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-22-6032",
+      "data": "1962-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6031-de-18-de-junho-de-1962",
+      "titulo": "LEI Nº 6.031 de 18 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-18-6031",
+      "data": "1962-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6030-de-16-de-junho-de-1962",
+      "titulo": "LEI Nº 6.030 de 16 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-16-6030",
+      "data": "1962-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6029-de-15-de-junho-de-1962",
+      "titulo": "LEI Nº 6.029 de 15 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-15-6029",
+      "data": "1962-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6028-de-15-de-junho-de-1962",
+      "titulo": "LEI Nº 6.028 de 15 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-15-6028",
+      "data": "1962-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6027-de-15-de-junho-de-1962",
+      "titulo": "LEI Nº 6.027 de 15 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-15-6027",
+      "data": "1962-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6026-de-15-de-junho-de-1962",
+      "titulo": "LEI Nº 6.026 de 15 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-15-6026",
+      "data": "1962-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6025-de-11-de-junho-de-1962",
+      "titulo": "LEI Nº 6.025 de 11 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-11-6025",
+      "data": "1962-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6024-de-8-de-junho-de-1962",
+      "titulo": "LEI Nº 6.024 de 8 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-08-6024",
+      "data": "1962-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6023-de-8-de-junho-de-1962",
+      "titulo": "LEI Nº 6.023 de 8 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-08-6023",
+      "data": "1962-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6022-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.022 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6022",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6021-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.021 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6021",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6020-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.020 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6020",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6019-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.019 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6019",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6018-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.018 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6018",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6017-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.017 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6017",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6016-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.016 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6016",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6007-de-4-de-junho-de-1962",
+      "titulo": "LEI Nº 6.007 de 4 de Junho de 1962",
+      "id": "br-municipal-3550308-lei-1962-06-04-6007",
+      "data": "1962-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6015-de-30-de-maio-de-1962",
+      "titulo": "LEI Nº 6.015 de 30 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-30-6015",
+      "data": "1962-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6014-de-28-de-maio-de-1962",
+      "titulo": "LEI Nº 6.014 de 28 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-28-6014",
+      "data": "1962-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6013-de-28-de-maio-de-1962",
+      "titulo": "LEI Nº 6.013 de 28 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-28-6013",
+      "data": "1962-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6011-de-28-de-maio-de-1962",
+      "titulo": "LEI Nº 6.011 de 28 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-28-6011",
+      "data": "1962-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6012-de-28-de-maio-de-1962",
+      "titulo": "LEI Nº 6.012 de 28 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-28-6012",
+      "data": "1962-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6010-de-28-de-maio-de-1962",
+      "titulo": "LEI Nº 6.010 de 28 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-28-6010",
+      "data": "1962-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6009-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.009 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6009",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6008-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.008 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6008",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6006-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.006 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6006",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6005-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.005 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6005",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6004-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.004 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6004",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6003-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.003 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6003",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6002-de-24-de-maio-de-1962",
+      "titulo": "LEI Nº 6.002 de 24 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-24-6002",
+      "data": "1962-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6001-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 6.001 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-6001",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6000-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 6.000 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-6000",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5999-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 5.999 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-5999",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5998-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 5.998 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-5998",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5997-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 5.997 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-5997",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5996-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 5.996 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-5996",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5995-de-22-de-maio-de-1962",
+      "titulo": "LEI Nº 5.995 de 22 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-22-5995",
+      "data": "1962-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5994-de-21-de-maio-de-1962",
+      "titulo": "LEI Nº 5.994 de 21 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-21-5994",
+      "data": "1962-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5993-de-17-de-maio-de-1962",
+      "titulo": "LEI Nº 5.993 de 17 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-17-5993",
+      "data": "1962-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5992-de-16-de-maio-de-1962",
+      "titulo": "LEI Nº 5.992 de 16 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-16-5992",
+      "data": "1962-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5991-de-16-de-maio-de-1962",
+      "titulo": "LEI Nº 5.991 de 16 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-16-5991",
+      "data": "1962-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5990-de-16-de-maio-de-1962",
+      "titulo": "LEI Nº 5.990 de 16 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-16-5990",
+      "data": "1962-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5989-de-16-de-maio-de-1962",
+      "titulo": "LEI Nº 5.989 de 16 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-16-5989",
+      "data": "1962-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5988-de-16-de-maio-de-1962",
+      "titulo": "LEI Nº 5.988 de 16 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-16-5988",
+      "data": "1962-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5987-de-16-de-maio-de-1962",
+      "titulo": "LEI Nº 5.987 de 16 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-16-5987",
+      "data": "1962-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5986-de-15-de-maio-de-1962",
+      "titulo": "LEI Nº 5.986 de 15 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-15-5986",
+      "data": "1962-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5985-de-15-de-maio-de-1962",
+      "titulo": "LEI Nº 5.985 de 15 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-15-5985",
+      "data": "1962-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5984-de-15-de-maio-de-1962",
+      "titulo": "LEI Nº 5.984 de 15 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-15-5984",
+      "data": "1962-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5983-de-9-de-maio-de-1962",
+      "titulo": "LEI Nº 5.983 de 9 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-09-5983",
+      "data": "1962-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5982-de-4-de-maio-de-1962",
+      "titulo": "LEI Nº 5.982 de 4 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-04-5982",
+      "data": "1962-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5981-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.981 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5981",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5980-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.980 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5980",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5979-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.979 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5979",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5978-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.978 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5978",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5977-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.977 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5977",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5976-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.976 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5976",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5975-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.975 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5975",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5974-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.974 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5974",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5973-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.973 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5973",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5971-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.971 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5971",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5972-de-2-de-maio-de-1962",
+      "titulo": "LEI Nº 5.972 de 2 de Maio de 1962",
+      "id": "br-municipal-3550308-lei-1962-05-02-5972",
+      "data": "1962-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5969-de-27-de-abril-de-1962",
+      "titulo": "LEI Nº 5.969 de 27 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-27-5969",
+      "data": "1962-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5970-de-26-de-abril-de-1962",
+      "titulo": "LEI Nº 5.970 de 26 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-26-5970",
+      "data": "1962-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5968-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.968 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5968",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5967-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.967 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5967",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5966-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.966 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5966",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5965-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.965 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5965",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5964-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.964 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5964",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5963-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.963 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5963",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5962-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.962 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5962",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5961-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.961 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5961",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5960-de-24-de-abril-de-1962",
+      "titulo": "LEI Nº 5.960 de 24 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-24-5960",
+      "data": "1962-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5958-de-12-de-abril-de-1962",
+      "titulo": "LEI Nº 5.958 de 12 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-12-5958",
+      "data": "1962-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5959-de-10-de-abril-de-1962",
+      "titulo": "LEI Nº 5.959 de 10 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-10-5959",
+      "data": "1962-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5957-de-9-de-abril-de-1962",
+      "titulo": "LEI Nº 5.957 de 9 de Abril de 1962",
+      "id": "br-municipal-3550308-lei-1962-04-09-5957",
+      "data": "1962-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5956-de-29-de-marco-de-1962",
+      "titulo": "LEI Nº 5.956 de 29 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-29-5956",
+      "data": "1962-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5955-de-29-de-marco-de-1962",
+      "titulo": "LEI Nº 5.955 de 29 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-29-5955",
+      "data": "1962-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5954-de-29-de-marco-de-1962",
+      "titulo": "LEI Nº 5.954 de 29 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-29-5954",
+      "data": "1962-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5953-de-28-de-marco-de-1962",
+      "titulo": "LEI Nº 5.953 de 28 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-28-5953",
+      "data": "1962-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5952-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.952 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5952",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5951-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.951 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5951",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5950-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.950 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5950",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5949-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.949 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5949",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5948-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.948 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5948",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5947-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.947 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5947",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5946-de-22-de-marco-de-1962",
+      "titulo": "LEI Nº 5.946 de 22 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-22-5946",
+      "data": "1962-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5945-de-16-de-marco-de-1962",
+      "titulo": "LEI Nº 5.945 de 16 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-16-5945",
+      "data": "1962-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5944-de-16-de-marco-de-1962",
+      "titulo": "LEI Nº 5.944 de 16 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-16-5944",
+      "data": "1962-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5943-de-16-de-marco-de-1962",
+      "titulo": "LEI Nº 5.943 de 16 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-16-5943",
+      "data": "1962-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5942-de-13-de-marco-de-1962",
+      "titulo": "LEI Nº 5.942 de 13 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-13-5942",
+      "data": "1962-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5940-de-12-de-marco-de-1962",
+      "titulo": "LEI Nº 5.940 de 12 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-12-5940",
+      "data": "1962-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5941-de-12-de-marco-de-1962",
+      "titulo": "LEI Nº 5.941 de 12 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-12-5941",
+      "data": "1962-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5939-de-2-de-marco-de-1962",
+      "titulo": "LEI Nº 5.939 de 2 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-02-5939",
+      "data": "1962-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5936-de-2-de-marco-de-1962",
+      "titulo": "LEI Nº 5.936 de 2 de Março de 1962",
+      "id": "br-municipal-3550308-lei-1962-03-02-5936",
+      "data": "1962-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5938-de-26-de-fevereiro-de-1962",
+      "titulo": "LEI Nº 5.938 de 26 de Fevereiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-02-26-5938",
+      "data": "1962-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5937-de-23-de-fevereiro-de-1962",
+      "titulo": "LEI Nº 5.937 de 23 de Fevereiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-02-23-5937",
+      "data": "1962-02-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5935-de-16-de-fevereiro-de-1962",
+      "titulo": "LEI Nº 5.935 de 16 de Fevereiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-02-16-5935",
+      "data": "1962-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5934-de-16-de-fevereiro-de-1962",
+      "titulo": "LEI Nº 5.934 de 16 de Fevereiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-02-16-5934",
+      "data": "1962-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5933-de-16-de-fevereiro-de-1962",
+      "titulo": "LEI Nº 5.933 de 16 de Fevereiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-02-16-5933",
+      "data": "1962-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5932-de-16-de-fevereiro-de-1962",
+      "titulo": "LEI Nº 5.932 de 16 de Fevereiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-02-16-5932",
+      "data": "1962-02-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5931-de-10-de-janeiro-de-1962",
+      "titulo": "LEI Nº 5.931 de 10 de Janeiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-01-10-5931",
+      "data": "1962-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5930-de-3-de-janeiro-de-1962",
+      "titulo": "LEI Nº 5.930 de 3 de Janeiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-01-03-5930",
+      "data": "1962-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5929-de-3-de-janeiro-de-1962",
+      "titulo": "LEI Nº 5.929 de 3 de Janeiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-01-03-5929",
+      "data": "1962-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5928-de-2-de-janeiro-de-1962",
+      "titulo": "LEI Nº 5.928 de 2 de Janeiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-01-02-5928",
+      "data": "1962-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5927-de-2-de-janeiro-de-1962",
+      "titulo": "LEI Nº 5.927 de 2 de Janeiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-01-02-5927",
+      "data": "1962-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5926-de-2-de-janeiro-de-1962",
+      "titulo": "LEI Nº 5.926 de 2 de Janeiro de 1962",
+      "id": "br-municipal-3550308-lei-1962-01-02-5926",
+      "data": "1962-01-02"
+    }
+  ],
+  "pendencias": []
+}

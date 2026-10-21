@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-01-11-14807",
+  "titulo": "Lei nº 14.807 de 11/01/2024",
+  "data": "2024-01-11",
+  "fonte": "https://normas.leg.br/api/public/binario/c528c8a4-b9ff-4b99-94a2-43471bfbe09b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-01-11;14807",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-01-11%3B14807&tipo_documento=maior-detalhe",
+  "sha256_dados": "a1d0fdcda2ff01ee12808ce9e9ce100dcb5cd996f38675d7295505552fdad63e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:25:59.607Z",
+  "sha256_fonte": "8902f6e66c74c5598f9a4c7bd1ac27e70d3a9c83b2e36d65b1f83fa96263dcf2",
+  "sha256_markdown": "66f65f84e051b8d993a28a5cdb521dcbb8c4226999ed6cbea2c37e2480109078"
+}

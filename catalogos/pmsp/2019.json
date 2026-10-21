@@ -1,0 +1,1451 @@
+{
+  "ano_publicacao": 2019,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2019",
+    "ano-final": "31/12/2019",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:45:46.019Z",
+  "total": 237,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "53e3894a4c695aa474829fdb93bac6740cad0f2dca8bfe8bad601299364e2f64"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "1266d31bf7eef218bea0cfcb89168543d3a086290e8f15d0dd2985856a9fe690"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "e30f1ac14034545e65adce53882cb7fa903bcbc1e240b6e4cf7a2aaf9e1f4f4e"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17257-de-27-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.257 de 27 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-27-17257",
+      "data": "2019-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17256-de-27-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.256 de 27 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-27-17256",
+      "data": "2019-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17255-de-26-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.255 de 26 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-26-17255",
+      "data": "2019-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17254-de-26-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.254 de 26 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-26-17254",
+      "data": "2019-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17253-de-26-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.253 de 26 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-26-17253",
+      "data": "2019-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17252-de-26-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.252 de 26 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-26-17252",
+      "data": "2019-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17251-de-20-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.251 de 20 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-20-17251",
+      "data": "2019-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17250-de-16-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.250 de 16 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-16-17250",
+      "data": "2019-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17249-de-16-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.249 de 16 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-16-17249",
+      "data": "2019-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17248-de-16-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.248 de 16 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-16-17248",
+      "data": "2019-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17247-de-12-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.247 de 12 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-12-17247",
+      "data": "2019-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17246-de-12-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.246 de 12 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-12-17246",
+      "data": "2019-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17245-de-11-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.245 de 11 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-11-17245",
+      "data": "2019-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17244-de-5-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.244 de 5 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-05-17244",
+      "data": "2019-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17243-de-3-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.243 de 3 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-03-17243",
+      "data": "2019-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17242-de-3-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.242 de 3 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-03-17242",
+      "data": "2019-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17241-de-3-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.241 de 3 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-03-17241",
+      "data": "2019-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17240-de-3-de-dezembro-de-2019",
+      "titulo": "LEI Nº 17.240 de 3 de Dezembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-12-03-17240",
+      "data": "2019-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17239-de-27-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.239 de 27 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-27-17239",
+      "data": "2019-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17238-de-25-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.238 de 25 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-25-17238",
+      "data": "2019-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17237-de-14-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.237 de 14 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-14-17237",
+      "data": "2019-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17236-de-13-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.236 de 13 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-13-17236",
+      "data": "2019-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17235-de-13-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.235 de 13 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-13-17235",
+      "data": "2019-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17234-de-12-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.234 de 12 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-12-17234",
+      "data": "2019-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17233-de-12-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.233 de 12 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-12-17233",
+      "data": "2019-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17232-de-12-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.232 de 12 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-12-17232",
+      "data": "2019-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17231-de-6-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.231 de 6 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-06-17231",
+      "data": "2019-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17230-de-6-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.230 de 6 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-06-17230",
+      "data": "2019-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17229-de-5-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.229 de 5 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-05-17229",
+      "data": "2019-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17228-de-1-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.228 de 1 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-01-17228",
+      "data": "2019-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17227-de-1-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.227 de 1 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-01-17227",
+      "data": "2019-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17226-de-1-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.226 de 1 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-01-17226",
+      "data": "2019-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17225-de-1-de-novembro-de-2019",
+      "titulo": "LEI Nº 17.225 de 1 de Novembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-11-01-17225",
+      "data": "2019-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17224-de-31-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.224 de 31 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-31-17224",
+      "data": "2019-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17223-de-31-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.223 de 31 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-31-17223",
+      "data": "2019-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17222-de-25-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.222 de 25 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-25-17222",
+      "data": "2019-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17221-de-25-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.221 de 25 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-25-17221",
+      "data": "2019-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17220-de-25-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.220 de 25 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-25-17220",
+      "data": "2019-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17219-de-25-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.219 de 25 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-25-17219",
+      "data": "2019-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17218-de-25-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.218 de 25 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-25-17218",
+      "data": "2019-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17217-de-23-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.217 de 23 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-23-17217",
+      "data": "2019-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17216-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.216 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17216",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17215-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.215 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17215",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17214-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.214 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17214",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17213-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.213 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17213",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17212-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.212 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17212",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17211-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.211 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17211",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17210-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.210 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17210",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17209-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.209 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17209",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17208-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.208 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17208",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17207-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.207 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17207",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17206-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.206 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17206",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17205-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.205 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17205",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17204-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.204 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17204",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17203-de-18-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.203 de 18 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-18-17203",
+      "data": "2019-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17202-de-16-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.202 de 16 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-16-17202",
+      "data": "2019-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17201-de-14-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.201 de 14 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-14-17201",
+      "data": "2019-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17200-de-14-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.200 de 14 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-14-17200",
+      "data": "2019-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17199-de-14-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.199 de 14 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-14-17199",
+      "data": "2019-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17198-de-14-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.198 de 14 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-14-17198",
+      "data": "2019-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17197-de-14-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.197 de 14 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-14-17197",
+      "data": "2019-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17196-de-14-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.196 de 14 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-14-17196",
+      "data": "2019-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17195-de-11-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.195 de 11 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-11-17195",
+      "data": "2019-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17194-de-11-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.194 de 11 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-11-17194",
+      "data": "2019-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17193-de-11-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.193 de 11 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-11-17193",
+      "data": "2019-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17192-de-4-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.192 de 4 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-04-17192",
+      "data": "2019-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17191-de-4-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.191 de 4 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-04-17191",
+      "data": "2019-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17190-de-3-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.190 de 3 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-03-17190",
+      "data": "2019-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17189-de-1-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.189 de 1 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-01-17189",
+      "data": "2019-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17188-de-1-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.188 de 1 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-01-17188",
+      "data": "2019-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17187-de-1-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.187 de 1 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-01-17187",
+      "data": "2019-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17186-de-1-de-outubro-de-2019",
+      "titulo": "LEI Nº 17.186 de 1 de Outubro de 2019",
+      "id": "br-municipal-3550308-lei-2019-10-01-17186",
+      "data": "2019-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17185-de-27-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.185 de 27 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-27-17185",
+      "data": "2019-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17184-de-27-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.184 de 27 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-27-17184",
+      "data": "2019-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17183-de-27-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.183 de 27 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-27-17183",
+      "data": "2019-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17182-de-27-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.182 de 27 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-27-17182",
+      "data": "2019-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17181-de-27-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.181 de 27 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-27-17181",
+      "data": "2019-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17180-de-25-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.180 de 25 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-25-17180",
+      "data": "2019-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17179-de-18-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.179 de 18 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-18-17179",
+      "data": "2019-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17178-de-16-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.178 de 16 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-16-17178",
+      "data": "2019-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17177-de-16-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.177 de 16 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-16-17177",
+      "data": "2019-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17176-de-12-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.176 de 12 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-12-17176",
+      "data": "2019-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17175-de-12-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.175 de 12 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-12-17175",
+      "data": "2019-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17174-de-12-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.174 de 12 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-12-17174",
+      "data": "2019-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17173-de-4-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.173 de 4 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-04-17173",
+      "data": "2019-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17172-de-4-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.172 de 4 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-04-17172",
+      "data": "2019-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17171-de-4-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.171 de 4 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-04-17171",
+      "data": "2019-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17170-de-4-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.170 de 4 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-04-17170",
+      "data": "2019-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17169-de-2-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.169 de 2 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-02-17169",
+      "data": "2019-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17168-de-2-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.168 de 2 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-02-17168",
+      "data": "2019-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17167-de-2-de-setembro-de-2019",
+      "titulo": "LEI Nº 17.167 de 2 de Setembro de 2019",
+      "id": "br-municipal-3550308-lei-2019-09-02-17167",
+      "data": "2019-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17166-de-30-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.166 de 30 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-30-17166",
+      "data": "2019-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17165-de-30-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.165 de 30 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-30-17165",
+      "data": "2019-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17164-de-30-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.164 de 30 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-30-17164",
+      "data": "2019-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17163-de-30-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.163 de 30 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-30-17163",
+      "data": "2019-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17162-de-30-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.162 de 30 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-30-17162",
+      "data": "2019-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17161-de-26-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.161 de 26 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-26-17161",
+      "data": "2019-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17160-de-26-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.160 de 26 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-26-17160",
+      "data": "2019-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17159-de-26-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.159 de 26 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-26-17159",
+      "data": "2019-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-174158-de-26-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.158 de 26 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-26-17158",
+      "data": "2019-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17157-de-22-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.157 de 22 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-22-17157",
+      "data": "2019-08-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17156-de-21-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.156 de 21 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-21-17156",
+      "data": "2019-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17155-de-21-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.155 de 21 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-21-17155",
+      "data": "2019-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17154-de-21-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.154 de 21 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-21-17154",
+      "data": "2019-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17153-de-16-de-agosto-de-2019",
+      "titulo": "LEI Nº 17.153 de 16 de Agosto de 2019",
+      "id": "br-municipal-3550308-lei-2019-08-16-17153",
+      "data": "2019-08-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17152-de-31-de-julho-de-2019",
+      "titulo": "LEI Nº 17.152 de 31 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-31-17152",
+      "data": "2019-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17151-de-29-de-julho-de-2019",
+      "titulo": "LEI Nº 17.151 de 29 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-29-17151",
+      "data": "2019-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17150-de-29-de-julho-de-2019",
+      "titulo": "LEI Nº 17.150 de 29 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-29-17150",
+      "data": "2019-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17149-de-25-de-julho-de-2019",
+      "titulo": "LEI Nº 17.149 de 25 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-25-17149",
+      "data": "2019-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17148-de-25-de-julho-de-2019",
+      "titulo": "LEI Nº 17.148 de 25 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-25-17148",
+      "data": "2019-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17147-de-25-de-julho-de-2019",
+      "titulo": "LEI Nº 17.147 de 25 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-25-17147",
+      "data": "2019-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17146-de-25-de-julho-de-2019",
+      "titulo": "LEI Nº 17.146 de 25 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-25-17146",
+      "data": "2019-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17145-de-25-de-julho-de-2019",
+      "titulo": "LEI Nº 17.145 de 25 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-25-17145",
+      "data": "2019-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17144-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.144 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17144",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17143-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.143 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17143",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17142-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.142 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17142",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17141-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.141 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17141",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17140-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.140 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17140",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17139-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.139 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17139",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17138-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.138 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17138",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17137-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.137 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17137",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17136-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.136 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17136",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17135-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.135 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17135",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17134-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.134 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17134",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17133-de-24-de-julho-de-2019",
+      "titulo": "LEI Nº 17.133 de 24 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-24-17133",
+      "data": "2019-07-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17132-de-15-de-julho-de-2019",
+      "titulo": "LEI Nº 17.132 de 15 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-15-17132",
+      "data": "2019-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17131-de-12-de-julho-de-2019",
+      "titulo": "LEI Nº 17.131 de 12 de Julho de 2019",
+      "id": "br-municipal-3550308-lei-2019-07-12-17131",
+      "data": "2019-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17130-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.130 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17130",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17129-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.129 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17129",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17128-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.128 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17128",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17127-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.127 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17127",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17126-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.126 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17126",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17125-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.125 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17125",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17124-de-26-de-junho-de-2019",
+      "titulo": "LEI Nº 17.124 de 26 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-26-17124",
+      "data": "2019-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17123-de-25-de-junho-de-2019",
+      "titulo": "LEI Nº 17.123 de 25 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-25-17123",
+      "data": "2019-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17122-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.122 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17122",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17121-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.121 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17121",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17120-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.120 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17120",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17119-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.119 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17119",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17118-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.118 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17118",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17117-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.117 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17117",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17116-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.116 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17116",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17115-de-24-de-junho-de-2019",
+      "titulo": "LEI Nº 17.115 de 24 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-24-17115",
+      "data": "2019-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17114-de-11-de-junho-de-2019",
+      "titulo": "LEI Nº 17.114 de 11 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-11-17114",
+      "data": "2019-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17113-de-7-de-junho-de-2019",
+      "titulo": "LEI Nº 17.113 de 7 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-07-17113",
+      "data": "2019-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17112-de-7-de-junho-de-2019",
+      "titulo": "LEI Nº 17.112 de 7 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-07-17112",
+      "data": "2019-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17111-de-7-de-junho-de-2019",
+      "titulo": "LEI Nº 17.111 de 7 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-07-17111",
+      "data": "2019-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17110-de-6-de-junho-de-2019",
+      "titulo": "LEI Nº 17.110 de 6 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-06-17110",
+      "data": "2019-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17109-de-4-de-junho-de-2019",
+      "titulo": "LEI Nº 17.109 de 4 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-04-17109",
+      "data": "2019-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17108-de-4-de-junho-de-2019",
+      "titulo": "LEI Nº 17.108 de 4 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-04-17108",
+      "data": "2019-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17107-de-4-de-junho-de-2019",
+      "titulo": "LEI Nº 17.107 de 4 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-04-17107",
+      "data": "2019-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17106-de-4-de-junho-de-2019",
+      "titulo": "LEI Nº 17.106 de 4 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-04-17106",
+      "data": "2019-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17105-de-3-de-junho-de-2019",
+      "titulo": "LEI Nº 17.105 de 3 de Junho de 2019",
+      "id": "br-municipal-3550308-lei-2019-06-03-17105",
+      "data": "2019-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17104-de-30-de-maio-de-2019",
+      "titulo": "LEI Nº 17.104 de 30 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-30-17104",
+      "data": "2019-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17103-de-29-de-maio-de-2019",
+      "titulo": "LEI Nº 17.103 de 29 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-29-17103",
+      "data": "2019-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17102-de-28-de-maio-de-2019",
+      "titulo": "LEI Nº 17.102 de 28 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-28-17102",
+      "data": "2019-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17101-de-28-de-maio-de-2019",
+      "titulo": "LEI Nº 17.101 de 28 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-28-17101",
+      "data": "2019-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17100-de-28-de-maio-de-2019",
+      "titulo": "LEI Nº 17.100 de 28 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-28-17100",
+      "data": "2019-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17099-de-28-de-maio-de-2019",
+      "titulo": "LEI Nº 17.099 de 28 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-28-17099",
+      "data": "2019-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17098-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.098 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17098",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17097-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.097 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17097",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17096-de-24-de-maio-de-2019",
+      "titulo": "LEI Nº 17.096 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17096",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17095-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.095 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17095",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17094-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.094 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17094",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17093-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.093 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17093",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17092-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.092 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17092",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17091-de-23-de-maio-de-2019",
+      "titulo": "LEI Nº 17.091 de 23 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-23-17091",
+      "data": "2019-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17090-de-20-de-maio-de-2019",
+      "titulo": "LEI Nº 17.090 de 20 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-20-17090",
+      "data": "2019-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17089-de-20-de-maio-de-2019",
+      "titulo": "LEI Nº 17.089 de 20 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-20-17089",
+      "data": "2019-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17088-de-17-de-maio-de-2019",
+      "titulo": "LEI Nº 17.088 de 17 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-17-17088",
+      "data": "2019-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17087-de-15-de-maio-de-2019",
+      "titulo": "LEI Nº 17.087 de 15 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-15-17087",
+      "data": "2019-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17086-de-15-de-maio-de-2019",
+      "titulo": "LEI Nº 17.086 de 15 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-15-17086",
+      "data": "2019-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17085-de-14-de-maio-de-2019",
+      "titulo": "LEI Nº 17.085 de 14 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-14-17085",
+      "data": "2019-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17084-de-14-de-maio-de-2019",
+      "titulo": "LEI Nº 17.084 de 14 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-14-17084",
+      "data": "2019-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17083-de-14-de-maio-de-2019",
+      "titulo": "LEI Nº 17.083 de 14 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-14-17083",
+      "data": "2019-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17082-de-10-de-maio-de-2019",
+      "titulo": "LEI Nº 17.082 de 10 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-10-17082",
+      "data": "2019-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17081-de-9-de-maio-de-2019",
+      "titulo": "LEI Nº 17.081 de 9 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-09-17081",
+      "data": "2019-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17080-de-9-de-maio-de-2019",
+      "titulo": "LEI Nº 17.080 de 9 de Maio de 2019",
+      "id": "br-municipal-3550308-lei-2019-05-09-17080",
+      "data": "2019-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17079-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.079 de 24 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-24-17079",
+      "data": "2019-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17078-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.078 de 24 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-24-17078",
+      "data": "2019-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17077-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.077 de 24 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-24-17077",
+      "data": "2019-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17076-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.076 de 24 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-24-17076",
+      "data": "2019-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17075-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.075 de 24 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-24-17075",
+      "data": "2019-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17073-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.073 de 24 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-24-17073",
+      "data": "2019-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17072-de-18-de-abril-de-2019",
+      "titulo": "LEI Nº 17.072 de 18 de Abril de 2019",
+      "id": "br-municipal-3550308-lei-2019-04-18-17072",
+      "data": "2019-04-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17071-de-14-de-marco-de-2019",
+      "titulo": "LEI Nº 17.071 de 14 de Março de 2019",
+      "id": "br-municipal-3550308-lei-2019-03-14-17071",
+      "data": "2019-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17070-de-13-de-marco-de-2019",
+      "titulo": "LEI Nº 17.070 de 13 de Março de 2019",
+      "id": "br-municipal-3550308-lei-2019-03-13-17070",
+      "data": "2019-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17069-de-6-de-marco-de-2019",
+      "titulo": "LEI Nº 17.069 de 6 de Março de 2019",
+      "id": "br-municipal-3550308-lei-2019-03-06-17069",
+      "data": "2019-03-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17068-de-19-de-fevereiro-de-2019",
+      "titulo": "LEI Nº 17.068 de 19 de Fevereiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-02-19-17068",
+      "data": "2019-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17067-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.067 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17067",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17066-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.066 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17066",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17065-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.065 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17065",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17064-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.064 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17064",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17063-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.063 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17063",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17062-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.062 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17062",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17061-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.061 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17061",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17060-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.060 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17060",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17059-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.059 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17059",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17058-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.058 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17058",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17057-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.057 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17057",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17056-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.056 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17056",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17055-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.055 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17055",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17054-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.054 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17054",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17053-de-22-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.053 de 22 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-22-17053",
+      "data": "2019-01-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17052-de-11-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.052 de 11 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-11-17052",
+      "data": "2019-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17051-de-11-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.051 de 11 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-11-17051",
+      "data": "2019-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17050-de-11-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.050 de 11 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-11-17050",
+      "data": "2019-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17049-de-11-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.049 de 11 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-11-17049",
+      "data": "2019-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17048-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.048 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17048",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17047-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.047 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17047",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17046-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.046 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17046",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17045-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.045 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17045",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17044-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.044 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17044",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17043-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.043 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17043",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17042-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.042 de 3 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-03-17042",
+      "data": "2019-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17041-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.041 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17041",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17040-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.040 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17040",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17039-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.039 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17039",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17038-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.038 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17038",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17037-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.037 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17037",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17036-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.036 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17036",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17035-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.035 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17035",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17034-de-3-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.034 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17034",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17033-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.033 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17033",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17032-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.032 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17032",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17031-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.031 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17031",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17030-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.030 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17030",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17029-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.029 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17029",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17028-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.028 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17028",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17027-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.027 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17027",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17026-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.026 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17026",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17025-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.025 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17025",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17024-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.024 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17024",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17023-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.023 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17023",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17022-de-2-de-janeiro-de-2019",
+      "titulo": "LEI Nº 17.022 de 2 de Janeiro de 2019",
+      "id": "br-municipal-3550308-lei-2019-01-02-17022",
+      "data": "2019-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14891-de-20-de-janeiro-de-2009",
+      "titulo": "LEI Nº 14.891 de 20 de Janeiro de 2009",
+      "id": "br-municipal-3550308-lei-2009-01-20-14891",
+      "data": "2009-01-20"
+    }
+  ],
+  "pendencias": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/ato-legislativo-17074-de-24-de-abril-de-2019",
+      "titulo": "LEI Nº 17.074 de 24 de Abril de 2019"
+    }
+  ]
+}

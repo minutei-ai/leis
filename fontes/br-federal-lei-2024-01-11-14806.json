@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-01-11-14806",
+  "titulo": "Lei nº 14.806 de 11/01/2024",
+  "data": "2024-01-11",
+  "fonte": "https://normas.leg.br/api/public/binario/532aebcf-f8af-4381-9a4a-da48d5f7fb48/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-01-11;14806",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-01-11%3B14806&tipo_documento=maior-detalhe",
+  "sha256_dados": "37adf13dd26feb09c358435bc924bd639a6e67b9c79af28b2f52367999821b37",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:26:00.872Z",
+  "sha256_fonte": "3444ebb197da9ee1a3ebbca009849e10d9455f45713580ca63ddc4734f908795",
+  "sha256_markdown": "25785d1fe93ad46696f3c65cbe529b1ef694853ced6033b2f255da13471b7c91"
+}

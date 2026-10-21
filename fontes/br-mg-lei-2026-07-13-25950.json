@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-13-25950",
+  "titulo": "LEI nº 25950, de 13/07/2026",
+  "data": "2026-07-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25950/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25950/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "10bf69de955c009136882459de17c17abc4248808c6c38f916a170c2910f180e",
+  "coletado_em": "2026-10-21T08:28:17.336Z",
+  "sha256_fonte": "0c4c0d5767362fb371db0e23ba4397329a664a0b98789d7b5a3940d2a1344903",
+  "sha256_markdown": "d36e24fc3c81f5d1cb2dfb19fd0a1c0be669df0142437c0d601857437366037e"
+}

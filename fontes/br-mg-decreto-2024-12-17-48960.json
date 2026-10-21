@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-12-17-48960",
+  "titulo": "DEC nº 48960, de 17/12/2024",
+  "data": "2024-12-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48960/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48960/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "08291c17ab843b4e033ddd5e32856a16bdc8dcac81659e503b44fdfe268a003e",
+  "coletado_em": "2026-10-21T08:43:06.883Z",
+  "sha256_fonte": "ecd6ec920ee997c759d71a4e5168dde9b9c24866b69f424ee4b862bb001bd457",
+  "sha256_markdown": "3acdf3d9e53e59f0fa33880f780f465c6b0cb3407da44eadb476a5d135b09d10"
+}

@@ -1,0 +1,1010 @@
+{
+  "ano_publicacao": 1954,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1954",
+    "ano-final": "31/12/1954",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:08.786Z",
+  "total": 164,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "d3150e8f9c481a2ce271829b731d29f3da5f9dacdd1e2d9564f89ab4c08a268f"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "4fdd4338a94d9742c7be18ad73513703106fa32ce5958e80842aea633cfbf225"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4607-de-21-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.607 de 21 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-21-4607",
+      "data": "1954-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4606-de-16-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.606 de 16 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-16-4606",
+      "data": "1954-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4605-de-14-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.605 de 14 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-14-4605",
+      "data": "1954-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4604-de-14-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.604 de 14 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-14-4604",
+      "data": "1954-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4603-de-14-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.603 de 14 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-14-4603",
+      "data": "1954-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4602-de-11-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.602 de 11 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-11-4602",
+      "data": "1954-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4601-de-11-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.601 de 11 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-11-4601",
+      "data": "1954-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4600-de-11-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.600 de 11 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-11-4600",
+      "data": "1954-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4599-de-10-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.599 de 10 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-10-4599",
+      "data": "1954-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4598-de-10-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.598 de 10 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-10-4598",
+      "data": "1954-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4597-de-4-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.597 de 4 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-04-4597",
+      "data": "1954-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4596-de-3-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.596 de 3 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-03-4596",
+      "data": "1954-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4595-de-2-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.595 de 2 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-02-4595",
+      "data": "1954-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4594-de-2-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.594 de 2 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-02-4594",
+      "data": "1954-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4593-de-2-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.593 de 2 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-02-4593",
+      "data": "1954-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4592-de-2-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.592 de 2 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-02-4592",
+      "data": "1954-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4591-de-2-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.591 de 2 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-02-4591",
+      "data": "1954-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4590-de-2-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.590 de 2 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-02-4590",
+      "data": "1954-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4589-de-1-de-dezembro-de-1954",
+      "titulo": "LEI Nº 4.589 de 1 de Dezembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-12-01-4589",
+      "data": "1954-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4588-de-26-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.588 de 26 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-26-4588",
+      "data": "1954-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4587-de-26-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.587 de 26 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-26-4587",
+      "data": "1954-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4586-de-25-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.586 de 25 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-25-4586",
+      "data": "1954-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4585-de-25-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.585 de 25 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-25-4585",
+      "data": "1954-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4584-de-24-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.584 de 24 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-24-4584",
+      "data": "1954-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4583-de-19-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.583 de 19 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-19-4583",
+      "data": "1954-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4582-de-19-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.582 de 19 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-19-4582",
+      "data": "1954-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4581-de-19-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.581 de 19 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-19-4581",
+      "data": "1954-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4580-de-19-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.580 de 19 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-19-4580",
+      "data": "1954-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4579-de-17-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.579 de 17 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-17-4579",
+      "data": "1954-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4578-de-17-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.578 de 17 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-17-4578",
+      "data": "1954-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4577-de-13-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.577 de 13 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-13-4577",
+      "data": "1954-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4576-de-13-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.576 de 13 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-13-4576",
+      "data": "1954-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4575-de-13-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.575 de 13 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-13-4575",
+      "data": "1954-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4574-de-13-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.574 de 13 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-13-4574",
+      "data": "1954-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4573-de-10-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.573 de 10 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-10-4573",
+      "data": "1954-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4572-de-3-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.572 de 3 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-03-4572",
+      "data": "1954-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4571-de-3-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.571 de 3 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-03-4571",
+      "data": "1954-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4570-de-3-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.570 de 3 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-03-4570",
+      "data": "1954-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4569-de-3-de-novembro-de-1954",
+      "titulo": "LEI Nº 4.569 de 3 de Novembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-11-03-4569",
+      "data": "1954-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4568-de-30-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.568 de 30 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-30-4568",
+      "data": "1954-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4567-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.567 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4567",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4566-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.566 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4566",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4565-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.565 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4565",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4564-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.564 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4564",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4563-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.563 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4563",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4562-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.562 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4562",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4561-de-27-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.561 de 27 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-27-4561",
+      "data": "1954-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4559-de-22-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.559 de 22 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-22-4559",
+      "data": "1954-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4558-de-22-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.558 de 22 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-22-4558",
+      "data": "1954-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4557-de-22-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.557 de 22 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-22-4557",
+      "data": "1954-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4556-de-22-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.556 de 22 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-22-4556",
+      "data": "1954-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4555-de-22-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.555 de 22 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-22-4555",
+      "data": "1954-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4560-de-22-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.560 de 22 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-22-4560",
+      "data": "1954-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4554-de-11-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.554 de 11 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-11-4554",
+      "data": "1954-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4553-de-4-de-outubro-de-1954",
+      "titulo": "LEI Nº 4.553 de 4 de Outubro de 1954",
+      "id": "br-municipal-3550308-lei-1954-10-04-4553",
+      "data": "1954-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4550-de-27-de-setembro-de-1954",
+      "titulo": "LEI Nº 4.550 de 27 de Setembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-09-27-4550",
+      "data": "1954-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4552-de-22-de-setembro-de-1954",
+      "titulo": "LEI Nº 4.552 de 22 de Setembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-09-22-4552",
+      "data": "1954-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4551-de-22-de-setembro-de-1954",
+      "titulo": "LEI Nº 4.551 de 22 de Setembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-09-22-4551",
+      "data": "1954-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4549-de-18-de-setembro-de-1954",
+      "titulo": "LEI Nº 4.549 de 18 de Setembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-09-18-4549",
+      "data": "1954-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4548-de-18-de-setembro-de-1954",
+      "titulo": "LEI Nº 4.548 de 18 de Setembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-09-18-4548",
+      "data": "1954-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4547-de-16-de-setembro-de-1954",
+      "titulo": "LEI Nº 4.547 de 16 de Setembro de 1954",
+      "id": "br-municipal-3550308-lei-1954-09-16-4547",
+      "data": "1954-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4546-de-31-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.546 de 31 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-31-4546",
+      "data": "1954-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4545-de-31-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.545 de 31 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-31-4545",
+      "data": "1954-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4544-de-31-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.544 de 31 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-31-4544",
+      "data": "1954-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4543-de-31-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.543 de 31 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-31-4543",
+      "data": "1954-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4542-de-31-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.542 de 31 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-31-4542",
+      "data": "1954-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4532-de-28-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.532 de 28 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-28-4532",
+      "data": "1954-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4541-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.541 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4541",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4540-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.540 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4540",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4539-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.539 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4539",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4538-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.538 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4538",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4537-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.537 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4537",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4536-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.536 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4536",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4535-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.535 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4535",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4534-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.534 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4534",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4533-de-27-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.533 de 27 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-27-4533",
+      "data": "1954-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4531-de-23-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.531 de 23 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-23-4531",
+      "data": "1954-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4530-de-23-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.530 de 23 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-23-4530",
+      "data": "1954-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4529-de-20-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.529 de 20 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-20-4529",
+      "data": "1954-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4528-de-20-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.528 de 20 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-20-4528",
+      "data": "1954-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4527-de-20-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.527 de 20 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-20-4527",
+      "data": "1954-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4526-de-18-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.526 de 18 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-18-4526",
+      "data": "1954-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4525-de-18-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.525 de 18 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-18-4525",
+      "data": "1954-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4524-de-18-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.524 de 18 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-18-4524",
+      "data": "1954-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4523-de-18-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.523 de 18 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-18-4523",
+      "data": "1954-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4522-de-18-de-agosto-de-1954",
+      "titulo": "LEI Nº 4.522 de 18 de Agosto de 1954",
+      "id": "br-municipal-3550308-lei-1954-08-18-4522",
+      "data": "1954-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4521-de-10-de-julho-de-1954",
+      "titulo": "LEI Nº 4.521 de 10 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-10-4521",
+      "data": "1954-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4520-de-7-de-julho-de-1954",
+      "titulo": "LEI Nº 4.520 de 7 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-07-4520",
+      "data": "1954-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4519-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.519 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4519",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4518-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.518 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4518",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4517-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.517 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4517",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4516-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.516 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4516",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4515-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.515 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4515",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4514-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.514 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4514",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4513-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.513 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4513",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4512-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.512 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4512",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4511-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.511 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4511",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4510-de-3-de-julho-de-1954",
+      "titulo": "LEI Nº 4.510 de 3 de Julho de 1954",
+      "id": "br-municipal-3550308-lei-1954-07-03-4510",
+      "data": "1954-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4508-de-26-de-junho-de-1954",
+      "titulo": "LEI Nº 4.508 de 26 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-26-4508",
+      "data": "1954-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4507-de-26-de-junho-de-1954",
+      "titulo": "LEI Nº 4.507 de 26 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-26-4507",
+      "data": "1954-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4509-de-26-de-junho-de-1954",
+      "titulo": "LEI Nº 4.509 de 26 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-26-4509",
+      "data": "1954-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4506-de-25-de-junho-de-1954",
+      "titulo": "LEI Nº 4.506 de 25 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-25-4506",
+      "data": "1954-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4505-de-25-de-junho-de-1954",
+      "titulo": "LEI Nº 4.505 de 25 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-25-4505",
+      "data": "1954-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4504-de-24-de-junho-de-1954",
+      "titulo": "LEI Nº 4.504 de 24 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-24-4504",
+      "data": "1954-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4503-de-16-de-junho-de-1954",
+      "titulo": "LEI Nº 4.503 de 16 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-16-4503",
+      "data": "1954-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4502-de-16-de-junho-de-1954",
+      "titulo": "LEI Nº 4.502 de 16 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-16-4502",
+      "data": "1954-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4501-de-16-de-junho-de-1954",
+      "titulo": "LEI Nº 4.501 de 16 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-16-4501",
+      "data": "1954-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4500-de-16-de-junho-de-1954",
+      "titulo": "LEI Nº 4.500 de 16 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-16-4500",
+      "data": "1954-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4499-de-16-de-junho-de-1954",
+      "titulo": "LEI Nº 4.499 de 16 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-16-4499",
+      "data": "1954-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4498-de-14-de-junho-de-1954",
+      "titulo": "LEI Nº 4.498 de 14 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-14-4498",
+      "data": "1954-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4497-de-14-de-junho-de-1954",
+      "titulo": "LEI Nº 4.497 de 14 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-14-4497",
+      "data": "1954-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4496-de-14-de-junho-de-1954",
+      "titulo": "LEI Nº 4.496 de 14 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-14-4496",
+      "data": "1954-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4494-de-14-de-junho-de-1954",
+      "titulo": "LEI Nº 4.494 de 14 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-14-4494",
+      "data": "1954-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4495-de-14-de-junho-de-1954",
+      "titulo": "LEI Nº 4.495 de 14 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-14-4495",
+      "data": "1954-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4493-de-10-de-junho-de-1954",
+      "titulo": "LEI Nº 4.493 de 10 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-10-4493",
+      "data": "1954-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4492-de-10-de-junho-de-1954",
+      "titulo": "LEI Nº 4.492 de 10 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-10-4492",
+      "data": "1954-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4491-de-10-de-junho-de-1954",
+      "titulo": "LEI Nº 4.491 de 10 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-10-4491",
+      "data": "1954-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4490-de-10-de-junho-de-1954",
+      "titulo": "LEI Nº 4.490 de 10 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-10-4490",
+      "data": "1954-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4489-de-7-de-junho-de-1954",
+      "titulo": "LEI Nº 4.489 de 7 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-07-4489",
+      "data": "1954-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4488-de-4-de-junho-de-1954",
+      "titulo": "LEI Nº 4.488 de 4 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-04-4488",
+      "data": "1954-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4487-de-4-de-junho-de-1954",
+      "titulo": "LEI Nº 4.487 de 4 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-04-4487",
+      "data": "1954-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4486-de-4-de-junho-de-1954",
+      "titulo": "LEI Nº 4.486 de 4 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-04-4486",
+      "data": "1954-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4484-de-3-de-junho-de-1954",
+      "titulo": "LEI Nº 4.484 de 3 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-03-4484",
+      "data": "1954-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4483-de-3-de-junho-de-1954",
+      "titulo": "LEI Nº 4.483 de 3 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-03-4483",
+      "data": "1954-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4482-de-3-de-junho-de-1954",
+      "titulo": "LEI Nº 4.482 de 3 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-03-4482",
+      "data": "1954-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4485-de-3-de-junho-de-1954",
+      "titulo": "LEI Nº 4.485 de 3 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-03-4485",
+      "data": "1954-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4481-de-2-de-junho-de-1954",
+      "titulo": "LEI Nº 4.481 de 2 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-02-4481",
+      "data": "1954-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4480-de-2-de-junho-de-1954",
+      "titulo": "LEI Nº 4.480 de 2 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-02-4480",
+      "data": "1954-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4479-de-2-de-junho-de-1954",
+      "titulo": "LEI Nº 4.479 de 2 de Junho de 1954",
+      "id": "br-municipal-3550308-lei-1954-06-02-4479",
+      "data": "1954-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4478-de-29-de-maio-de-1954",
+      "titulo": "LEI Nº 4.478 de 29 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-29-4478",
+      "data": "1954-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4477-de-26-de-maio-de-1954",
+      "titulo": "LEI Nº 4.477 de 26 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-26-4477",
+      "data": "1954-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4476-de-25-de-maio-de-1954",
+      "titulo": "LEI Nº 4.476 de 25 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-25-4476",
+      "data": "1954-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4475-de-25-de-maio-de-1954",
+      "titulo": "LEI Nº 4.475 de 25 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-25-4475",
+      "data": "1954-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4474-de-25-de-maio-de-1954",
+      "titulo": "LEI Nº 4.474 de 25 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-25-4474",
+      "data": "1954-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4473-de-22-de-maio-de-1954",
+      "titulo": "LEI Nº 4.473 de 22 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-22-4473",
+      "data": "1954-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4472-de-22-de-maio-de-1954",
+      "titulo": "LEI Nº 4.472 de 22 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-22-4472",
+      "data": "1954-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4471-de-18-de-maio-de-1954",
+      "titulo": "LEI Nº 4.471 de 18 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-18-4471",
+      "data": "1954-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4470-de-18-de-maio-de-1954",
+      "titulo": "LEI Nº 4.470 de 18 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-18-4470",
+      "data": "1954-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4469-de-11-de-maio-de-1954",
+      "titulo": "LEI Nº 4.469 de 11 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-11-4469",
+      "data": "1954-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4468-de-11-de-maio-de-1954",
+      "titulo": "LEI Nº 4.468 de 11 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-11-4468",
+      "data": "1954-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4467-de-11-de-maio-de-1954",
+      "titulo": "LEI Nº 4.467 de 11 de Maio de 1954",
+      "id": "br-municipal-3550308-lei-1954-05-11-4467",
+      "data": "1954-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4466-de-30-de-abril-de-1954",
+      "titulo": "LEI Nº 4.466 de 30 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-30-4466",
+      "data": "1954-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4465-de-30-de-abril-de-1954",
+      "titulo": "LEI Nº 4.465 de 30 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-30-4465",
+      "data": "1954-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4464-de-30-de-abril-de-1954",
+      "titulo": "LEI Nº 4.464 de 30 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-30-4464",
+      "data": "1954-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4463-de-29-de-abril-de-1954",
+      "titulo": "LEI Nº 4.463 de 29 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-29-4463",
+      "data": "1954-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4462-de-29-de-abril-de-1954",
+      "titulo": "LEI Nº 4.462 de 29 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-29-4462",
+      "data": "1954-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4461-de-29-de-abril-de-1954",
+      "titulo": "LEI Nº 4.461 de 29 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-29-4461",
+      "data": "1954-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4460-de-24-de-abril-de-1954",
+      "titulo": "LEI Nº 4.460 de 24 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-24-4460",
+      "data": "1954-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4459-de-20-de-abril-de-1954",
+      "titulo": "LEI Nº 4.459 de 20 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-20-4459",
+      "data": "1954-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4458-de-12-de-abril-de-1954",
+      "titulo": "LEI Nº 4.458 de 12 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-12-4458",
+      "data": "1954-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4457-de-10-de-abril-de-1954",
+      "titulo": "LEI Nº 4.457 de 10 de Abril de 1954",
+      "id": "br-municipal-3550308-lei-1954-04-10-4457",
+      "data": "1954-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4456-de-26-de-fevereiro-de-1954",
+      "titulo": "LEI Nº 4.456 de 26 de Fevereiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-02-26-4456",
+      "data": "1954-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4455-de-26-de-fevereiro-de-1954",
+      "titulo": "LEI Nº 4.455 de 26 de Fevereiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-02-26-4455",
+      "data": "1954-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4454-de-20-de-fevereiro-de-1954",
+      "titulo": "LEI Nº 4.454 de 20 de Fevereiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-02-20-4454",
+      "data": "1954-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4453-de-20-de-fevereiro-de-1954",
+      "titulo": "LEI Nº 4.453 de 20 de Fevereiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-02-20-4453",
+      "data": "1954-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4452-de-29-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.452 de 29 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-29-4452",
+      "data": "1954-01-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4451-de-11-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.451 de 11 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-11-4451",
+      "data": "1954-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4450-de-9-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.450 de 9 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-09-4450",
+      "data": "1954-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4449-de-9-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.449 de 9 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-09-4449",
+      "data": "1954-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4448-de-9-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.448 de 9 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-09-4448",
+      "data": "1954-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4447-de-9-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.447 de 9 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-09-4447",
+      "data": "1954-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4446-de-2-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.446 de 2 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-02-4446",
+      "data": "1954-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4445-de-2-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.445 de 2 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-02-4445",
+      "data": "1954-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4444-de-2-de-janeiro-de-1954",
+      "titulo": "LEI Nº 4.444 de 2 de Janeiro de 1954",
+      "id": "br-municipal-3550308-lei-1954-01-02-4444",
+      "data": "1954-01-02"
+    }
+  ],
+  "pendencias": []
+}

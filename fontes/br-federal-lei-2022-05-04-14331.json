@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-05-04-14331",
+  "titulo": "Lei nº 14.331 de 04/05/2022",
+  "data": "2022-05-04",
+  "fonte": "https://normas.leg.br/api/public/binario/e3ca9627-2535-4381-9f3e-4ff6f109a148/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-05-04;14331",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-05-04%3B14331&tipo_documento=maior-detalhe",
+  "sha256_dados": "8f15a1068c7c561c68ec95ff4e985c498ee2a636c8e38da80d86109c192d9276",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:12.628Z",
+  "sha256_fonte": "838ed9fed1eb0452dae188a64e4587c1a4a7f5c7293194d21eff71fb8a5afaca",
+  "sha256_markdown": "5ff36467e454ca036eb21b90a7da4b920452e4cd477b3ed014af8307c0aeff83"
+}

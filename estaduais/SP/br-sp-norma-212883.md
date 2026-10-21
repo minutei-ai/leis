@@ -1,0 +1,42 @@
+---
+id: "br-sp-norma-212883"
+titulo: "Decreto nº 70.791, de 11/08/2026"
+data: "2026-08-11"
+fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70791-11.08.2026.html"
+versao: "publicação original disponibilizada pela Alesp"
+dados: "https://baleg-api-prd.al.sp.gov.br/norma/212883"
+sha256_dados: "b07c32ef9ab3f4c2f75667690b3d848d8bd5dac6a220995ec5019675477bc4f2"
+coletado_em: "2026-10-21T08:38:17.382Z"
+sha256_fonte: "01cf13f6be1aab96cdc1dd139e80682e41cec62173182763b2ebeebf87c0a26e"
+sha256_markdown: "a2f33bc1030b3f6bc248a32ab7f259b2dc9962d4875069fd27d0df1f7c15c658"
+---
+
+# Decreto nº 70.791, de 11/08/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212883)<br>
+
+# DECRETO N° 70.791, DE 11 DE AGOSTO DE 2026
+
+### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Desenvolvimento Urbano e Habitação para repasse a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, visando ao atendimento de Despesas de Capital.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 18.178, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211200), e na [Lei n° 18.387, de 6 de janeiro de 2026](https://www.al.sp.gov.br/norma/212096),
+
+Decreta:
+
+**Artigo 1° -** Fica aberto um crédito de R$ 121.400.000,00 (cento e vinte e um milhões e quatrocentos mil reais), suplementar ao orçamento da Secretaria de Desenvolvimento Urbano e Habitação, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.
+
+**Artigo 2° -** O crédito aberto pelo artigo anterior será coberto com recursos a que alude o inciso I, do § 1°, do artigo 43, da Lei federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.
+
+**Artigo 3° -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 8°, do [Decreto n° 70.333, de 12 de janeiro de 2026](https://www.al.sp.gov.br/norma/212159), de conformidade com a Tabela 2, anexa.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Nerylson Lima da Silva
+
+Samuel Yoshiaki Oliveira Kinoshita
+
+![](/repositorio/legislacao/decreto/2026/2026081208083757953.png)
+
+![](/repositorio/legislacao/decreto/2026/2026081208083756448.png)

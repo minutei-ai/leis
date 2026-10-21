@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2023",
+  "tipo": "EMC",
+  "ano": 2023,
+  "coletado_em": "2026-10-21T08:39:28.044Z",
+  "normas": [
+    {
+      "senadoId": "37959796",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2023-12-20-132",
+      "titulo": "Emenda Constitucional nº 132 de 20/12/2023",
+      "data": "2023-12-20",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-12-20;132",
+      "ementa": "Altera o Sistema Tributário Nacional."
+    },
+    {
+      "senadoId": "37686019",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2023-10-03-130",
+      "titulo": "Emenda Constitucional nº 130 de 03/10/2023",
+      "data": "2023-10-03",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-10-03;130",
+      "ementa": "Altera o art. 93 da Constituição Federal para permitir a permuta entre juízes de direito vinculados a diferentes tribunais."
+    },
+    {
+      "senadoId": "37686067",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2023-10-03-131",
+      "titulo": "Emenda Constitucional nº 131 de 03/10/2023",
+      "data": "2023-10-03",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-10-03;131",
+      "ementa": "Altera o art. 12 da Constituição Federal para suprimir a perda da nacionalidade brasileira em razão da mera aquisição de outra nacionalidade, incluir a exceção para situações de apatridia e acrescentar a possibilidade de a pessoa requerer a perda da própria nacionalidade."
+    },
+    {
+      "senadoId": "37358025",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2023-07-05-129",
+      "titulo": "Emenda Constitucional nº 129 de 05/07/2023",
+      "data": "2023-07-05",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-07-05;129",
+      "ementa": "Acrescenta o art. 123 ao Ato das Disposições Constitucionais Transitórias, para assegurar prazo de vigência adicional aos instrumentos de permissão lotérica."
+    }
+  ],
+  "pendencias": []
+}

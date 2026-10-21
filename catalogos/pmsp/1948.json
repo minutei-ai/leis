@@ -1,0 +1,292 @@
+{
+  "ano_publicacao": 1948,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1948",
+    "ano-final": "31/12/1948",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:17.092Z",
+  "total": 45,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "58b420b8c1c4715d09c67963c953cf373d580f329b0c9dbbb5fc6b37863491a2"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3727-de-28-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.727 de 28 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-28-3727",
+      "data": "1948-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3726-de-28-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.726 de 28 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-28-3726",
+      "data": "1948-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3725-de-27-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.725 de 27 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-27-3725",
+      "data": "1948-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3724-de-24-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.724 de 24 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-24-3724",
+      "data": "1948-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3723-de-17-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.723 de 17 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-17-3723",
+      "data": "1948-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3722-de-16-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.722 de 16 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-16-3722",
+      "data": "1948-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3721-de-16-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.721 de 16 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-16-3721",
+      "data": "1948-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3720-de-7-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.720 de 7 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-07-3720",
+      "data": "1948-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3719-de-4-de-dezembro-de-1948",
+      "titulo": "LEI Nº 3.719 de 4 de Dezembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-12-04-3719",
+      "data": "1948-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3718-de-29-de-novembro-de-1948",
+      "titulo": "LEI Nº 3.718 de 29 de Novembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-11-29-3718",
+      "data": "1948-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3717-de-27-de-novembro-de-1948",
+      "titulo": "LEI Nº 3.717 de 27 de Novembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-11-27-3717",
+      "data": "1948-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3716-de-27-de-novembro-de-1948",
+      "titulo": "LEI Nº 3.716 de 27 de Novembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-11-27-3716",
+      "data": "1948-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3715-de-13-de-novembro-de-1948",
+      "titulo": "LEI Nº 3.715 de 13 de Novembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-11-13-3715",
+      "data": "1948-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3714-de-11-de-novembro-de-1948",
+      "titulo": "LEI Nº 3.714 de 11 de Novembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-11-11-3714",
+      "data": "1948-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3713-de-5-de-novembro-de-1948",
+      "titulo": "LEI Nº 3.713 de 5 de Novembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-11-05-3713",
+      "data": "1948-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3712-de-14-de-outubro-de-1948",
+      "titulo": "LEI Nº 3.712 de 14 de Outubro de 1948",
+      "id": "br-municipal-3550308-lei-1948-10-14-3712",
+      "data": "1948-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3711-de-7-de-outubro-de-1948",
+      "titulo": "LEI Nº 3.711 de 7 de Outubro de 1948",
+      "id": "br-municipal-3550308-lei-1948-10-07-3711",
+      "data": "1948-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3710-de-5-de-outubro-de-1948",
+      "titulo": "LEI Nº 3.710 de 5 de Outubro de 1948",
+      "id": "br-municipal-3550308-lei-1948-10-05-3710",
+      "data": "1948-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3709-de-5-de-outubro-de-1948",
+      "titulo": "LEI Nº 3.709 de 5 de Outubro de 1948",
+      "id": "br-municipal-3550308-lei-1948-10-05-3709",
+      "data": "1948-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3708-de-4-de-outubro-de-1948",
+      "titulo": "LEI Nº 3.708 de 4 de Outubro de 1948",
+      "id": "br-municipal-3550308-lei-1948-10-04-3708",
+      "data": "1948-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3707-de-25-de-setembro-de-1948",
+      "titulo": "LEI Nº 3.707 de 25 de Setembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-09-25-3707",
+      "data": "1948-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3706-de-23-de-setembro-de-1948",
+      "titulo": "LEI Nº 3.706 de 23 de Setembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-09-23-3706",
+      "data": "1948-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3705-de-16-de-setembro-de-1948",
+      "titulo": "LEI Nº 3.705 de 16 de Setembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-09-16-3705",
+      "data": "1948-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3704-de-13-de-setembro-de-1948",
+      "titulo": "LEI Nº 3.704 de 13 de Setembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-09-13-3704",
+      "data": "1948-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3703-de-10-de-setembro-de-1948",
+      "titulo": "LEI Nº 3.703 de 10 de Setembro de 1948",
+      "id": "br-municipal-3550308-lei-1948-09-10-3703",
+      "data": "1948-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3702-de-9-de-agosto-de-1948",
+      "titulo": "LEI Nº 3.702 de 9 de Agosto de 1948",
+      "id": "br-municipal-3550308-lei-1948-08-09-3702",
+      "data": "1948-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3701-de-7-de-agosto-de-1948",
+      "titulo": "LEI Nº 3.701 de 7 de Agosto de 1948",
+      "id": "br-municipal-3550308-lei-1948-08-07-3701",
+      "data": "1948-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3700-de-5-de-julho-de-1948",
+      "titulo": "LEI Nº 3.700 de 5 de Julho de 1948",
+      "id": "br-municipal-3550308-lei-1948-07-05-3700",
+      "data": "1948-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3699-de-5-de-julho-de-1948",
+      "titulo": "LEI Nº 3.699 de 5 de Julho de 1948",
+      "id": "br-municipal-3550308-lei-1948-07-05-3699",
+      "data": "1948-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3698-de-5-de-julho-de-1948",
+      "titulo": "LEI Nº 3.698 de 5 de Julho de 1948",
+      "id": "br-municipal-3550308-lei-1948-07-05-3698",
+      "data": "1948-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3697-de-2-de-julho-de-1948",
+      "titulo": "LEI Nº 3.697 de 2 de Julho de 1948",
+      "id": "br-municipal-3550308-lei-1948-07-02-3697",
+      "data": "1948-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3696-de-15-de-junho-de-1948",
+      "titulo": "LEI Nº 3.696 de 15 de Junho de 1948",
+      "id": "br-municipal-3550308-lei-1948-06-15-3696",
+      "data": "1948-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3695-de-15-de-junho-de-1948",
+      "titulo": "LEI Nº 3.695 de 15 de Junho de 1948",
+      "id": "br-municipal-3550308-lei-1948-06-15-3695",
+      "data": "1948-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3694-de-15-de-junho-de-1948",
+      "titulo": "LEI Nº 3.694 de 15 de Junho de 1948",
+      "id": "br-municipal-3550308-lei-1948-06-15-3694",
+      "data": "1948-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3693-de-15-de-junho-de-1948",
+      "titulo": "LEI Nº 3.693 de 15 de Junho de 1948",
+      "id": "br-municipal-3550308-lei-1948-06-15-3693",
+      "data": "1948-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3692-de-11-de-junho-de-1948",
+      "titulo": "LEI Nº 3.692 de 11 de Junho de 1948",
+      "id": "br-municipal-3550308-lei-1948-06-11-3692",
+      "data": "1948-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3691-de-26-de-maio-de-1948",
+      "titulo": "LEI Nº 3.691 de 26 de Maio de 1948",
+      "id": "br-municipal-3550308-lei-1948-05-26-3691",
+      "data": "1948-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3690-de-12-de-maio-de-1948",
+      "titulo": "LEI Nº 3.690 de 12 de Maio de 1948",
+      "id": "br-municipal-3550308-lei-1948-05-12-3690",
+      "data": "1948-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3689-de-12-de-maio-de-1948",
+      "titulo": "LEI Nº 3.689 de 12 de Maio de 1948",
+      "id": "br-municipal-3550308-lei-1948-05-12-3689",
+      "data": "1948-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3688-de-12-de-maio-de-1948",
+      "titulo": "LEI Nº 3.688 de 12 de Maio de 1948",
+      "id": "br-municipal-3550308-lei-1948-05-12-3688",
+      "data": "1948-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3687-de-6-de-marco-de-1948",
+      "titulo": "LEI Nº 3.687 de 6 de Março de 1948",
+      "id": "br-municipal-3550308-lei-1948-03-06-3687",
+      "data": "1948-03-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3686-de-12-de-janeiro-de-1948",
+      "titulo": "LEI Nº 3.686 de 12 de Janeiro de 1948",
+      "id": "br-municipal-3550308-lei-1948-01-12-3686",
+      "data": "1948-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3685-de-12-de-janeiro-de-1948",
+      "titulo": "LEI Nº 3.685 de 12 de Janeiro de 1948",
+      "id": "br-municipal-3550308-lei-1948-01-12-3685",
+      "data": "1948-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3684-de-3-de-janeiro-de-1948",
+      "titulo": "LEI Nº 3.684 de 3 de Janeiro de 1948",
+      "id": "br-municipal-3550308-lei-1948-01-03-3684",
+      "data": "1948-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3683-de-31-de-dezembro-de-1947",
+      "titulo": "LEI Nº 3.683 de 31 de Dezembro de 1947",
+      "id": "br-municipal-3550308-lei-1947-12-31-3683",
+      "data": "1947-12-31"
+    }
+  ],
+  "pendencias": []
+}

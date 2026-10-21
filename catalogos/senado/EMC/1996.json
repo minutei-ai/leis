@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1996",
+  "tipo": "EMC",
+  "ano": 1996,
+  "coletado_em": "2026-10-21T08:39:52.392Z",
+  "normas": [
+    {
+      "senadoId": "540600",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1996-09-12-15",
+      "titulo": "Emenda Constitucional nº 15 de 12/09/1996",
+      "data": "1996-09-12",
+      "numero": "15",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-09-12;15",
+      "ementa": "Dá nova redação ao § 4° do art. 18 da Constituição Federal."
+    },
+    {
+      "senadoId": "593617",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1996-09-12-14",
+      "titulo": "Emenda Constitucional nº 14 de 12/09/1996",
+      "data": "1996-09-12",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-09-12;14",
+      "ementa": "Modifica os arts. 34, 208, 211 e 212 da Constituição Federal e dá nova redação ao art. 60 do Ato das Disposições Constitucionais Transitórias."
+    },
+    {
+      "senadoId": "593614",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1996-08-21-13",
+      "titulo": "Emenda Constitucional nº 13 de 21/08/1996",
+      "data": "1996-08-21",
+      "numero": "13",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-08-21;13",
+      "ementa": "Dá nova redação ao inciso II do art. 192 da Constituição Federal."
+    },
+    {
+      "senadoId": "593611",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1996-08-15-12",
+      "titulo": "Emenda Constitucional nº 12 de 15/08/1996",
+      "data": "1996-08-15",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-08-15;12",
+      "ementa": "Outorga competência à União, para instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+    },
+    {
+      "senadoId": "593608",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1996-04-30-11",
+      "titulo": "Emenda Constitucional nº 11 de 30/04/1996",
+      "data": "1996-04-30",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-04-30;11",
+      "ementa": "Permite a admissão de professores, técnicos e cientistas estrangeiros pelas universidades brasileiras e concede autonomia às instituições de pesquisa científica e tecnológica."
+    },
+    {
+      "senadoId": "593605",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1996-03-04-10",
+      "titulo": "Emenda Constitucional nº 10 de 04/03/1996",
+      "data": "1996-03-04",
+      "numero": "10",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-03-04;10",
+      "ementa": "Altera os arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão n.º 1, de 1994."
+    }
+  ],
+  "pendencias": []
+}

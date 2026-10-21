@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-11-01-25581",
+  "titulo": "LEI nº 25581, de 01/11/2025",
+  "data": "2025-11-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25581/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25581/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2f5d0e14b12d327c63e02b6a05512ef7ac738dc1eebdd537f115a7cf352701db",
+  "coletado_em": "2026-10-21T08:35:15.716Z",
+  "sha256_fonte": "304f390629a4ac8048f6adba360f7d8b1a76ff888333c3baffe92a1409a9d3e8",
+  "sha256_markdown": "5a3481c4767478bd37ff7341ce1ad306baaa9344ab1d73573c913f5c662f033a"
+}

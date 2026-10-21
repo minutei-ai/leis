@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-23-14660",
+  "titulo": "Lei nº 14.660 de 23/08/2023",
+  "data": "2023-08-23",
+  "fonte": "https://normas.leg.br/api/public/binario/e27a1c84-4acd-4b31-899b-e6cf81148893/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-23;14660",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-23%3B14660&tipo_documento=maior-detalhe",
+  "sha256_dados": "ec54734304cd974a6bc04a85ad2c878ceec7e46ad7eaa76803faff2fe6ad3c2b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:13.264Z",
+  "sha256_fonte": "132f4cacf493d793075809caec6a05389951569945edcfbe79521f0b98a28e22",
+  "sha256_markdown": "71140bdbb5b44c2a168e8d400c7190a4485e451f647834656e27e1dc326983ee"
+}

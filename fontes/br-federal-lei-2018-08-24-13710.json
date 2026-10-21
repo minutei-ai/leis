@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-08-24-13710",
+  "titulo": "Lei nº 13.710 de 24/08/2018",
+  "data": "2018-08-24",
+  "fonte": "https://normas.leg.br/api/public/binario/e8644938-fef1-4a9c-87ef-fea6b1226069/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-08-24;13710",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-08-24%3B13710&tipo_documento=maior-detalhe",
+  "sha256_dados": "f84189816688f20825121de010073e79ca32d8a8f91e8f299f3f76b669d634c2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:37.558Z",
+  "sha256_fonte": "55939b13134169639bf3e34920f57dceb2f17bb36fef9ed14f0d2cc4d96b6808",
+  "sha256_markdown": "f0e0b9b498abeab133ad101b8fe3dae4a90c1db61a37d8909d7807d352393afa"
+}

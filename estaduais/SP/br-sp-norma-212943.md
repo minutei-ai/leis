@@ -1,0 +1,44 @@
+---
+id: "br-sp-norma-212943"
+titulo: "Decreto nº 70.840, de 01/09/2026"
+data: "2026-09-01"
+fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70840-01.09.2026.html"
+versao: "publicação original disponibilizada pela Alesp"
+dados: "https://baleg-api-prd.al.sp.gov.br/norma/212943"
+sha256_dados: "62cc45cc954b37b20cf561abee725c722fda28a57a93dd2766bc3016c42ccf00"
+coletado_em: "2026-10-21T08:37:02.149Z"
+sha256_fonte: "ec22892343777baa3b1a1ec8ed6db36585adbbe8a433d127a523fae499345f0f"
+sha256_markdown: "905a94c2767720320c57fc397da79c3207676af75a59a50302d7c4a3ee60ad66"
+---
+
+# Decreto nº 70.840, de 01/09/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212943)<br>
+
+# DECRETO N° 70.840, DE 01 DE SETEMBRO DE 2026
+
+### Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Controladoria Geral do Estado, visando ao atendimento de Despesas Correntes.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 18.178, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211200), e na [Lei n° 18.387, de 6 de janeiro de 2026](https://www.al.sp.gov.br/norma/212096),
+
+Decreta:
+
+**Artigo 1° -** Fica aberto um crédito de R$ 1.799.369,00 (um milhão, setecentos e noventa e nove mil, trezentos e sessenta e nove reais), suplementar ao orçamento da Controladoria Geral do Estado, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.
+
+**Artigo 2° -** O crédito aberto pelo artigo anterior será coberto com recursos a que alude o inciso III, do § 1°, do artigo 43, da Lei federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.
+
+**Artigo 3° -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 8°, do [Decreto n° 70.333, de 12 de janeiro de 2026](https://www.al.sp.gov.br/norma/212159), de conformidade com a Tabela 2, anexa.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Nerylson Lima da Silva
+
+Samuel Yoshiaki Oliveira Kinoshita
+
+![](/repositorio/legislacao/decreto/2026/2026090208512594046.png)
+
+![](/repositorio/legislacao/decreto/2026/2026090208512593547.png)
+
+![](/repositorio/legislacao/decreto/2026/2026090208512592254.png)

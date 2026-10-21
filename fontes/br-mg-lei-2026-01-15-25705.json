@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-15-25705",
+  "titulo": "LEI nº 25705, de 15/01/2026",
+  "data": "2026-01-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25705/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25705/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "c5c1ca07a90f4acf0e593cfcc25990e29d953af0bd732b889f458230a05afbac",
+  "coletado_em": "2026-10-21T08:25:05.556Z",
+  "sha256_fonte": "b37dd5a28b5df720b64511297057d802342a1605893c5def3e40f47c25306920",
+  "sha256_markdown": "136d2f2b882ab465c5f8d80b1f68ee4fefa06dabb657ac9db0d63067f17ab045"
+}

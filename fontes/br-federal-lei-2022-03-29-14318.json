@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-03-29-14318",
+  "titulo": "Lei nº 14.318 de 29/03/2022",
+  "data": "2022-03-29",
+  "fonte": "https://normas.leg.br/api/public/binario/e134cdd5-068a-4d7d-b855-13ffb7a8d55f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-03-29;14318",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-03-29%3B14318&tipo_documento=maior-detalhe",
+  "sha256_dados": "919452be3a7db81c12c033ef335e475e65e7c76520fce2a882c120e35fda21fd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:33.172Z",
+  "sha256_fonte": "886e6159dce54931e96a58ac7d5dc0d427eddcd2e7bc2cde26e478b3ea3b3850",
+  "sha256_markdown": "f363f84ee995c391e3bb0f1ed9ff99da10bbcd31cf8d3e2400a9bf05b5c83562"
+}

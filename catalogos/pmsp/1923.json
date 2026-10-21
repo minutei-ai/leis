@@ -1,0 +1,592 @@
+{
+  "ano_publicacao": 1923,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1923",
+    "ano-final": "31/12/1923",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:38.393Z",
+  "total": 95,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "3e7f8609fb70c772126cf4647f2212d47148105a1526803981c76bbe41d3f08b"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2662-de-27-de-novembro-de-1923",
+      "titulo": "LEI Nº 2.662 de 27 de Novembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-11-27-2662",
+      "data": "1923-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2661-de-10-de-novembro-de-1923",
+      "titulo": "LEI Nº 2.661 de 10 de Novembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-11-10-2661",
+      "data": "1923-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2660-de-10-de-novembro-de-1923",
+      "titulo": "LEI Nº 2.660 de 10 de Novembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-11-10-2660",
+      "data": "1923-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2659-de-29-de-outubro-de-1923",
+      "titulo": "LEI Nº 2.659 de 29 de Outubro de 1923",
+      "id": "br-municipal-3550308-lei-1923-10-29-2659",
+      "data": "1923-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2658-de-29-de-outubro-de-1923",
+      "titulo": "LEI Nº 2.658 de 29 de Outubro de 1923",
+      "id": "br-municipal-3550308-lei-1923-10-29-2658",
+      "data": "1923-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2657-de-16-de-outubro-de-1923",
+      "titulo": "LEI Nº 2.657 de 16 de Outubro de 1923",
+      "id": "br-municipal-3550308-lei-1923-10-16-2657",
+      "data": "1923-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2656-de-15-de-outubro-de-1923",
+      "titulo": "LEI Nº 2.656 de 15 de Outubro de 1923",
+      "id": "br-municipal-3550308-lei-1923-10-15-2656",
+      "data": "1923-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2655-de-13-de-outubro-de-1923",
+      "titulo": "LEI Nº 2.655 de 13 de Outubro de 1923",
+      "id": "br-municipal-3550308-lei-1923-10-13-2655",
+      "data": "1923-10-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2654-de-22-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.654 de 22 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-22-2654",
+      "data": "1923-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2653-de-21-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.653 de 21 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-21-2653",
+      "data": "1923-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2652-de-21-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.652 de 21 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-21-2652",
+      "data": "1923-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2651-de-13-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.651 de 13 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-13-2651",
+      "data": "1923-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2650-de-10-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.650 de 10 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-10-2650",
+      "data": "1923-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2649-de-10-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.649 de 10 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-10-2649",
+      "data": "1923-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2648-de-10-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.648 de 10 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-10-2648",
+      "data": "1923-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2647-de-10-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.647 de 10 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-10-2647",
+      "data": "1923-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2646-de-10-de-setembro-de-1923",
+      "titulo": "LEI Nº 2.646 de 10 de Setembro de 1923",
+      "id": "br-municipal-3550308-lei-1923-09-10-2646",
+      "data": "1923-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2645-de-30-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.645 de 30 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-30-2645",
+      "data": "1923-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2644-de-30-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.644 de 30 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-30-2644",
+      "data": "1923-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2643-de-27-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.643 de 27 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-27-2643",
+      "data": "1923-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2642-de-27-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.642 de 27 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-27-2642",
+      "data": "1923-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2641-de-23-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.641 de 23 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-23-2641",
+      "data": "1923-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2640-de-22-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.640 de 22 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-22-2640",
+      "data": "1923-08-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2639-de-14-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.639 de 14 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-14-2639",
+      "data": "1923-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2638-de-14-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.638 de 14 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-14-2638",
+      "data": "1923-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2637-de-14-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.637 de 14 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-14-2637",
+      "data": "1923-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2636-de-14-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.636 de 14 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-14-2636",
+      "data": "1923-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2635-de-14-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.635 de 14 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-14-2635",
+      "data": "1923-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2634-de-14-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.634 de 14 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-14-2634",
+      "data": "1923-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2633-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.633 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2633",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2632-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.632 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2632",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2631-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.631 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2631",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2630-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.630 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2630",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2629-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.629 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2629",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2627-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.627 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2627",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2626-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.626 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2626",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2625-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.625 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2625",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2624-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.624 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2624",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2623-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.623 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2623",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2628-de-9-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.628 de 9 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-09-2628",
+      "data": "1923-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2622-de-4-de-agosto-de-1923",
+      "titulo": "LEI Nº 2.622 de 4 de Agosto de 1923",
+      "id": "br-municipal-3550308-lei-1923-08-04-2622",
+      "data": "1923-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2621-de-16-de-julho-de-1923",
+      "titulo": "LEI Nº 2.621 de 16 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-16-2621",
+      "data": "1923-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2620-de-16-de-julho-de-1923",
+      "titulo": "LEI Nº 2.620 de 16 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-16-2620",
+      "data": "1923-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2619-de-16-de-julho-de-1923",
+      "titulo": "LEI Nº 2.619 de 16 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-16-2619",
+      "data": "1923-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2618-de-16-de-julho-de-1923",
+      "titulo": "LEI Nº 2.618 de 16 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-16-2618",
+      "data": "1923-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2617-de-7-de-julho-de-1923",
+      "titulo": "LEI Nº 2.617 de 7 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-07-2617",
+      "data": "1923-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2616-de-7-de-julho-de-1923",
+      "titulo": "LEI Nº 2.616 de 7 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-07-2616",
+      "data": "1923-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2615-de-7-de-julho-de-1923",
+      "titulo": "LEI Nº 2.615 de 7 de Julho de 1923",
+      "id": "br-municipal-3550308-lei-1923-07-07-2615",
+      "data": "1923-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2614-de-27-de-junho-de-1923",
+      "titulo": "LEI Nº 2.614 de 27 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-27-2614",
+      "data": "1923-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2613-de-27-de-junho-de-1923",
+      "titulo": "LEI Nº 2.613 de 27 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-27-2613",
+      "data": "1923-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2612-de-26-de-junho-de-1923",
+      "titulo": "LEI Nº 2.612 de 26 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-26-2612",
+      "data": "1923-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2611-de-20-de-junho-de-1923",
+      "titulo": "LEI Nº 2.611 de 20 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-20-2611",
+      "data": "1923-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2610-de-11-de-junho-de-1923",
+      "titulo": "LEI Nº 2.610 de 11 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-11-2610",
+      "data": "1923-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2609-de-8-de-junho-de-1923",
+      "titulo": "LEI Nº 2.609 de 8 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-08-2609",
+      "data": "1923-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2608-de-4-de-junho-de-1923",
+      "titulo": "LEI Nº 2.608 de 4 de Junho de 1923",
+      "id": "br-municipal-3550308-lei-1923-06-04-2608",
+      "data": "1923-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2607-de-24-de-maio-de-1923",
+      "titulo": "LEI Nº 2.607 de 24 de Maio de 1923",
+      "id": "br-municipal-3550308-lei-1923-05-24-2607",
+      "data": "1923-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2606-de-21-de-maio-de-1923",
+      "titulo": "LEI Nº 2.606 de 21 de Maio de 1923",
+      "id": "br-municipal-3550308-lei-1923-05-21-2606",
+      "data": "1923-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2605-de-21-de-maio-de-1923",
+      "titulo": "LEI Nº 2.605 de 21 de Maio de 1923",
+      "id": "br-municipal-3550308-lei-1923-05-21-2605",
+      "data": "1923-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2604-de-21-de-maio-de-1923",
+      "titulo": "LEI Nº 2.604 de 21 de Maio de 1923",
+      "id": "br-municipal-3550308-lei-1923-05-21-2604",
+      "data": "1923-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2603-de-17-de-maio-de-1923",
+      "titulo": "LEI Nº 2.603 de 17 de Maio de 1923",
+      "id": "br-municipal-3550308-lei-1923-05-17-2603",
+      "data": "1923-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2602-de-26-de-abril-de-1923",
+      "titulo": "LEI Nº 2.602 de 26 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-26-2602",
+      "data": "1923-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2601-de-24-de-abril-de-1923",
+      "titulo": "LEI Nº 2.601 de 24 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-24-2601",
+      "data": "1923-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2600-de-17-de-abril-de-1923",
+      "titulo": "LEI Nº 2.600 de 17 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-17-2600",
+      "data": "1923-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2599-de-17-de-abril-de-1923",
+      "titulo": "LEI Nº 2.599 de 17 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-17-2599",
+      "data": "1923-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2598-de-17-de-abril-de-1923",
+      "titulo": "LEI Nº 2.598 de 17 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-17-2598",
+      "data": "1923-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2597-de-17-de-abril-de-1923",
+      "titulo": "LEI Nº 2.597 de 17 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-17-2597",
+      "data": "1923-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2596-de-2-de-abril-de-1923",
+      "titulo": "LEI Nº 2.596 de 2 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-02-2596",
+      "data": "1923-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2595-de-2-de-abril-de-1923",
+      "titulo": "LEI Nº 2.595 de 2 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-02-2595",
+      "data": "1923-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2594-de-2-de-abril-de-1923",
+      "titulo": "LEI Nº 2.594 de 2 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-02-2594",
+      "data": "1923-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2593-de-2-de-abril-de-1923",
+      "titulo": "LEI Nº 2.593 de 2 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-02-2593",
+      "data": "1923-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2592-de-2-de-abril-de-1923",
+      "titulo": "LEI Nº 2.592 de 2 de Abril de 1923",
+      "id": "br-municipal-3550308-lei-1923-04-02-2592",
+      "data": "1923-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2591-de-23-de-marco-de-1923",
+      "titulo": "LEI Nº 2.591 de 23 de Março de 1923",
+      "id": "br-municipal-3550308-lei-1923-03-23-2591",
+      "data": "1923-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2590-de-21-de-marco-de-1923",
+      "titulo": "LEI Nº 2.590 de 21 de Março de 1923",
+      "id": "br-municipal-3550308-lei-1923-03-21-2590",
+      "data": "1923-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2589-de-21-de-marco-de-1923",
+      "titulo": "LEI Nº 2.589 de 21 de Março de 1923",
+      "id": "br-municipal-3550308-lei-1923-03-21-2589",
+      "data": "1923-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2588-de-13-de-marco-de-1923",
+      "titulo": "LEI Nº 2.588 de 13 de Março de 1923",
+      "id": "br-municipal-3550308-lei-1923-03-13-2588",
+      "data": "1923-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2587-de-9-de-marco-de-1923",
+      "titulo": "LEI Nº 2.587 de 9 de Março de 1923",
+      "id": "br-municipal-3550308-lei-1923-03-09-2587",
+      "data": "1923-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2586-de-2-de-marco-de-1923",
+      "titulo": "LEI Nº 2.586 de 2 de Março de 1923",
+      "id": "br-municipal-3550308-lei-1923-03-02-2586",
+      "data": "1923-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2585-de-26-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.585 de 26 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-26-2585",
+      "data": "1923-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2584-de-26-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.584 de 26 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-26-2584",
+      "data": "1923-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2582-de-26-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.582 de 26 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-26-2582",
+      "data": "1923-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2583-de-26-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.583 de 26 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-26-2583",
+      "data": "1923-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2581-de-21-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.581 de 21 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-21-2581",
+      "data": "1923-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2580-de-19-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.580 de 19 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-19-2580",
+      "data": "1923-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2579-de-10-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.579 de 10 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-10-2579",
+      "data": "1923-02-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2578-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.578 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2578",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2577-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.577 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2577",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2576-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.576 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2576",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2575-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.575 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2575",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2574-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.574 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2574",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2573-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.573 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2573",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2572-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.572 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2572",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2571-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.571 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2571",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2570-de-5-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.570 de 5 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-05-2570",
+      "data": "1923-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2569-de-3-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.569 de 3 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-03-2569",
+      "data": "1923-02-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2568-de-2-de-fevereiro-de-1923",
+      "titulo": "LEI Nº 2.568 de 2 de Fevereiro de 1923",
+      "id": "br-municipal-3550308-lei-1923-02-02-2568",
+      "data": "1923-02-02"
+    }
+  ],
+  "pendencias": []
+}

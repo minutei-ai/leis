@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-09-18-14677",
+  "titulo": "Lei nº 14.677 de 18/09/2023",
+  "data": "2023-09-18",
+  "fonte": "https://normas.leg.br/api/public/binario/4ddf1be1-939b-4e9c-9943-f4d0da52b8eb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-09-18;14677",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-09-18%3B14677&tipo_documento=maior-detalhe",
+  "sha256_dados": "42ef0d121e3ffa7c9a12b2a18cbb5531c47a8b3a89cc9a1888a798be30ff562a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:48.825Z",
+  "sha256_fonte": "516ab1cb6a22f13e8b80b872c2aac903571c68a07ca4f142303a543e5317bc4b",
+  "sha256_markdown": "337be83cbc8319356da08f561735090724b68d8c4cba9ec0bc8782d201249a8c"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-04-26027",
+  "titulo": "LEI nº 26027, de 04/08/2026",
+  "data": "2026-08-04",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26027/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26027/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b8799e8bd00499fb37dbd620f149451be543c96f831460e7a709970465a5447d",
+  "coletado_em": "2026-10-21T08:29:05.914Z",
+  "sha256_fonte": "c39655bb7a1ecc0ce1bcf2e2a6f81ac885e5f69e34bbd40f3a86ffde010d3afd",
+  "sha256_markdown": "6ad1124f67dab9ec61889471b8a674b4433d109fe7aa274066e7b6f498d56187"
+}

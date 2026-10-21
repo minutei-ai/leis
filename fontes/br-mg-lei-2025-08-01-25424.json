@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-08-01-25424",
+  "titulo": "LEI nº 25424, de 01/08/2025",
+  "data": "2025-08-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25424/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25424/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "4d20ced817a41edad05c9a758c913d7594acff3a372daf953e82364a8953755a",
+  "coletado_em": "2026-10-21T08:33:27.677Z",
+  "sha256_fonte": "16521713f49b5ef68e69998c6d8d8b46e4c148fdf12ddf2e0029710d798ac040",
+  "sha256_markdown": "20ba230ff30db67bbc732076d00f251dd40c1ea7d0a895a9a99bd94db088a6b2"
+}

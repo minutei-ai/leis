@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-08-14-13709",
+  "titulo": "Lei nº 13.709 de 14/08/2018",
+  "data": "2018-08-14",
+  "fonte": "https://normas.leg.br/api/public/binario/8ea729ac-a1ea-43ca-af58-5422a6b0d459/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-08-14;13709",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-08-14%3B13709&tipo_documento=maior-detalhe",
+  "sha256_dados": "cf507e267013ff009896df1b2b2521311efff42ea80f4cdc44ebda585f83f5a2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:41.420Z",
+  "sha256_fonte": "a741897a99e4f6212355fef10069ffafbfba4b999a85138e9835242521985377",
+  "sha256_markdown": "17208dae1ef269bcc227c5dfa60ecfdedd30c012a96c312051783e8646c845f4"
+}

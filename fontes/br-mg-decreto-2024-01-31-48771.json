@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-01-31-48771",
+  "titulo": "DEC nº 48771, de 31/01/2024",
+  "data": "2024-01-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48771/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48771/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "66f36679c244de3f8f283ab5b666cdd01b45e5d7fa30b00678cfcfd6c168e386",
+  "coletado_em": "2026-10-21T08:37:26.206Z",
+  "sha256_fonte": "a8c346a0734202453c1cf8614529465694903bd1d53e5293e2b7f21dfd4d1417",
+  "sha256_markdown": "723d8b32e0cb5ddc7ee6041480e22fe912834d71ad0dc003a5d742a7dd49c807"
+}

@@ -1,0 +1,1530 @@
+{
+  "ano_publicacao": 1994,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1994",
+    "ano-final": "31/12/1994",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:42.883Z",
+  "total": 250,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "53fcc70920370b6e89f14a9055873e738d3364211af7a90338f8da8e98dde7ed"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "f073451e9c7d713d684fe93b09f8d2c6b8d921bd8761d055831e0dca9833f24c"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "855f9b3c45e2adb186ab547f02dbb2a12a4faacef9dc83440c1f146a563a6c8a"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11713-de-30-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.713 de 30 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-30-11713",
+      "data": "1994-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11712-de-30-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.712 de 30 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-30-11712",
+      "data": "1994-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11709-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.709 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11709",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11707-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.707 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11707",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11706-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.706 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11706",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11705-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.705 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11705",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11704-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.704 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11704",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11703-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.703 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11703",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11702-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.702 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11702",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11701-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.701 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11701",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11700-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.700 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11700",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11699-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.699 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11699",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11698-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.698 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11698",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11696-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.696 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11696",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11695-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.695 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11695",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11694-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.694 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11694",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11708-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.708 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11708",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11697-de-28-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.697 de 28 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-28-11697",
+      "data": "1994-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11693-de-22-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.693 de 22 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-22-11693",
+      "data": "1994-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11692-de-14-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.692 de 14 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-14-11692",
+      "data": "1994-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11691-de-9-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.691 de 9 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-09-11691",
+      "data": "1994-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11690-de-9-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.690 de 9 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-09-11690",
+      "data": "1994-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11689-de-7-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.689 de 7 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-07-11689",
+      "data": "1994-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11688-de-1-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.688 de 1 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-01-11688",
+      "data": "1994-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11687-de-1-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.687 de 1 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-01-11687",
+      "data": "1994-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11686-de-1-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.686 de 1 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-01-11686",
+      "data": "1994-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11685-de-1-de-dezembro-de-1994",
+      "titulo": "LEI Nº 11.685 de 1 de Dezembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-12-01-11685",
+      "data": "1994-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11683-de-17-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.683 de 17 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-17-11683",
+      "data": "1994-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11684-de-17-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.684 de 17 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-17-11684",
+      "data": "1994-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11682-de-14-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.682 de 14 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-14-11682",
+      "data": "1994-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11681-de-14-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.681 de 14 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-14-11681",
+      "data": "1994-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11680-de-14-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.680 de 14 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-14-11680",
+      "data": "1994-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11679-de-14-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.679 de 14 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-14-11679",
+      "data": "1994-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11678-de-14-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.678 de 14 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-14-11678",
+      "data": "1994-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11677-de-14-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.677 de 14 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-14-11677",
+      "data": "1994-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11676-de-7-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.676 de 7 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-07-11676",
+      "data": "1994-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11674-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.674 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11674",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11673-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.673 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11673",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11672-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.672 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11672",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11671-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.671 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11671",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11670-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.670 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11670",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11669-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.669 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11669",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11668-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.668 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11668",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11667-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.667 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11667",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11666-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.666 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11666",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11665-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.665 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11665",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11664-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.664 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11664",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11663-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.663 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11663",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11662-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.662 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11662",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11661-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.661 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11661",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11660-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.660 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11660",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11659-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.659 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11659",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11675-de-4-de-novembro-de-1994",
+      "titulo": "LEI Nº 11.675 de 4 de Novembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-11-04-11675",
+      "data": "1994-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11658-de-27-de-outubro-de-1994",
+      "titulo": "LEI Nº 11.658 de 27 de Outubro de 1994",
+      "id": "br-municipal-3550308-lei-1994-10-27-11658",
+      "data": "1994-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11657-de-18-de-outubro-de-1994",
+      "titulo": "LEI Nº 11.657 de 18 de Outubro de 1994",
+      "id": "br-municipal-3550308-lei-1994-10-18-11657",
+      "data": "1994-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11655-de-18-de-outubro-de-1994",
+      "titulo": "LEI Nº 11.655 de 18 de Outubro de 1994",
+      "id": "br-municipal-3550308-lei-1994-10-18-11655",
+      "data": "1994-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11656-de-18-de-outubro-de-1994",
+      "titulo": "LEI Nº 11.656 de 18 de Outubro de 1994",
+      "id": "br-municipal-3550308-lei-1994-10-18-11656",
+      "data": "1994-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11654-de-17-de-outubro-de-1994",
+      "titulo": "LEI Nº 11.654 de 17 de Outubro de 1994",
+      "id": "br-municipal-3550308-lei-1994-10-17-11654",
+      "data": "1994-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11653-de-6-de-outubro-de-1994",
+      "titulo": "LEI Nº 11.653 de 6 de Outubro de 1994",
+      "id": "br-municipal-3550308-lei-1994-10-06-11653",
+      "data": "1994-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11652-de-20-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.652 de 20 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-20-11652",
+      "data": "1994-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11651-de-20-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.651 de 20 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-20-11651",
+      "data": "1994-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11650-de-20-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.650 de 20 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-20-11650",
+      "data": "1994-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11648-de-14-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.648 de 14 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-14-11648",
+      "data": "1994-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11649-de-14-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.649 de 14 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-14-11649",
+      "data": "1994-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11647-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.647 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11647",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11646-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.646 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11646",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11645-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.645 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11645",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11644-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.644 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11644",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11643-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.643 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11643",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11642-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.642 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11642",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11641-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.641 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11641",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11640-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.640 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11640",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11639-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.639 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11639",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11638-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.638 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11638",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11637-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.637 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11637",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11636-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.636 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11636",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11635-de-2-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.635 de 2 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-02-11635",
+      "data": "1994-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11634-de-1-de-setembro-de-1994",
+      "titulo": "LEI Nº 11.634 de 1 de Setembro de 1994",
+      "id": "br-municipal-3550308-lei-1994-09-01-11634",
+      "data": "1994-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11633-de-30-de-agosto-de-1994",
+      "titulo": "LEI Nº 11.633 de 30 de Agosto de 1994",
+      "id": "br-municipal-3550308-lei-1994-08-30-11633",
+      "data": "1994-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11632-de-22-de-julho-de-1994",
+      "titulo": "LEI Nº 11.632 de 22 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-22-11632",
+      "data": "1994-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11631-de-21-de-julho-de-1994",
+      "titulo": "Lei Nº 11.631 de 21 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-21-11631",
+      "data": "1994-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11630-de-21-de-julho-de-1994",
+      "titulo": "LEI Nº 11.630 de 21 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-21-11630",
+      "data": "1994-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11629-de-20-de-julho-de-1994",
+      "titulo": "LEI Nº 11.629 de 20 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-20-11629",
+      "data": "1994-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11628-de-20-de-julho-de-1994",
+      "titulo": "LEI Nº 11.628 de 20 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-20-11628",
+      "data": "1994-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11627-de-20-de-julho-de-1994",
+      "titulo": "LEI Nº 11.627 de 20 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-20-11627",
+      "data": "1994-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11626-de-20-de-julho-de-1994",
+      "titulo": "LEI Nº 11.626 de 20 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-20-11626",
+      "data": "1994-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11625-de-14-de-julho-de-1994",
+      "titulo": "LEI Nº 11.625 de 14 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-14-11625",
+      "data": "1994-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11624-de-14-de-julho-de-1994",
+      "titulo": "LEI Nº 11.624 de 14 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-14-11624",
+      "data": "1994-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11622-de-14-de-julho-de-1994",
+      "titulo": "LEI Nº 11.622 de 14 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-14-11622",
+      "data": "1994-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11623-de-14-de-julho-de-1994",
+      "titulo": "LEI Nº 11.623 de 14 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-14-11623",
+      "data": "1994-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11621-de-14-de-julho-de-1994",
+      "titulo": "LEI Nº 11.621 de 14 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-14-11621",
+      "data": "1994-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11620-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.620 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11620",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11618-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.618 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11618",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11617-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.617 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11617",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11615-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.615 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11615",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11613-de-13-de-julho-de-1994",
+      "titulo": "Lei Nº 11.613 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11613",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11612-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.612 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11612",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11611-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.611 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11611",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11608-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.608 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11608",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11607-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.607 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11607",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11619-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.619 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11619",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11616-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.616 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11616",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11614-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.614 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11614",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11610-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.610 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11610",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11609-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.609 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11609",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11606-de-13-de-julho-de-1994",
+      "titulo": "LEI Nº 11.606 de 13 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-13-11606",
+      "data": "1994-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11604-de-12-de-julho-de-1994",
+      "titulo": "LEI Nº 11.604 de 12 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-12-11604",
+      "data": "1994-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11603-de-12-de-julho-de-1994",
+      "titulo": "LEI Nº 11.603 de 12 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-12-11603",
+      "data": "1994-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11602-de-12-de-julho-de-1994",
+      "titulo": "LEI Nº 11.602 de 12 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-12-11602",
+      "data": "1994-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11605-de-12-de-julho-de-1994",
+      "titulo": "LEI Nº 11.605 de 12 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-12-11605",
+      "data": "1994-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11601-de-12-de-julho-de-1994",
+      "titulo": "LEI Nº 11.601 de 12 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-12-11601",
+      "data": "1994-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11598-de-11-de-julho-de-1994",
+      "titulo": "LEI Nº 11.598 de 11 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-11-11598",
+      "data": "1994-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11600-de-11-de-julho-de-1994",
+      "titulo": "LEI Nº 11.600 de 11 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-11-11600",
+      "data": "1994-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11599-de-11-de-julho-de-1994",
+      "titulo": "LEI Nº 11.599 de 11 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-11-11599",
+      "data": "1994-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11597-de-11-de-julho-de-1994",
+      "titulo": "LEI Nº 11.597 de 11 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-11-11597",
+      "data": "1994-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11596-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.596 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11596",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11595-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.595 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11595",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11594-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.594 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11594",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11593-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.593 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11593",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11592-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.592 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11592",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11591-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.591 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11591",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11590-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.590 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11590",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11589-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.589 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11589",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11588-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.588 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11588",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11587-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.587 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11587",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11586-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.586 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11586",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11585-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.585 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11585",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11584-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.584 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11584",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11583-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.583 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11583",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11582-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.582 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11582",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11581-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.581 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11581",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11580-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.580 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11580",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11579-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.579 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11579",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11578-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.578 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11578",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11577-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.577 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11577",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11576-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.576 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11576",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11575-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.575 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11575",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11573-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.573 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11573",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11572-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.572 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11572",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11571-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.571 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11571",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11570-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.570 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11570",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11569-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.569 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11569",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11568-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.568 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11568",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11567-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.567 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11567",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11566-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.566 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11566",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11565-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.565 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11565",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11564-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.564 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11564",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11563-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.563 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11563",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11562-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.562 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11562",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11561-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.561 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11561",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11560-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.560 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11560",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11559-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.559 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11559",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11558-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.558 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11558",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11557-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.557 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11557",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11574-de-8-de-julho-de-1994",
+      "titulo": "LEI Nº 11.574 de 8 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-08-11574",
+      "data": "1994-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11556-de-5-de-julho-de-1994",
+      "titulo": "LEI Nº 11.556 de 5 de Julho de 1994",
+      "id": "br-municipal-3550308-lei-1994-07-05-11556",
+      "data": "1994-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11555-de-24-de-junho-de-1994",
+      "titulo": "LEI Nº 11.555 de 24 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-24-11555",
+      "data": "1994-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11554-de-24-de-junho-de-1994",
+      "titulo": "LEI Nº 11.554 de 24 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-24-11554",
+      "data": "1994-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11553-de-24-de-junho-de-1994",
+      "titulo": "LEI Nº 11.553 de 24 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-24-11553",
+      "data": "1994-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11552-de-24-de-junho-de-1994",
+      "titulo": "LEI Nº 11.552 de 24 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-24-11552",
+      "data": "1994-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11551-de-24-de-junho-de-1994",
+      "titulo": "LEI Nº 11.551 de 24 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-24-11551",
+      "data": "1994-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11550-de-23-de-junho-de-1994",
+      "titulo": "LEI Nº 11.550 de 23 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-23-11550",
+      "data": "1994-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11549-de-23-de-junho-de-1994",
+      "titulo": "LEI Nº 11.549 de 23 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-23-11549",
+      "data": "1994-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11533-de-22-de-junho-de-1994",
+      "titulo": "LEI Nº 11.533 de 22 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-22-11533",
+      "data": "1994-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11532-de-22-de-junho-de-1994",
+      "titulo": "LEI Nº 11.532 de 22 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-22-11532",
+      "data": "1994-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11548-de-21-de-junho-de-1994",
+      "titulo": "LEI Nº 11.548 de 21 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-21-11548",
+      "data": "1994-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11547-de-15-de-junho-de-1994",
+      "titulo": "LEI Nº 11.547 de 15 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-15-11547",
+      "data": "1994-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11546-de-7-de-junho-de-1994",
+      "titulo": "LEI Nº 11.546 de 7 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-07-11546",
+      "data": "1994-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11544-de-7-de-junho-de-1994",
+      "titulo": "LEI Nº 11.544 de 7 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-07-11544",
+      "data": "1994-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11545-de-07-de-junho-de-1994",
+      "titulo": "LEI Nº 11.545 de 7 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-07-11545",
+      "data": "1994-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11543-de-6-de-junho-de-1994",
+      "titulo": "LEI Nº 11.543 de 6 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-06-11543",
+      "data": "1994-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11542-de-6-de-junho-de-1994",
+      "titulo": "LEI Nº 11.542 de 6 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-06-11542",
+      "data": "1994-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11541-de-6-de-junho-de-1994",
+      "titulo": "LEI Nº 11.541 de 6 de Junho de 1994",
+      "id": "br-municipal-3550308-lei-1994-06-06-11541",
+      "data": "1994-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11540-de-25-de-maio-de-1994",
+      "titulo": "LEI Nº 11.540 de 25 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-25-11540",
+      "data": "1994-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11539-de-25-de-maio-de-1994",
+      "titulo": "LEI Nº 11.539 de 25 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-25-11539",
+      "data": "1994-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11538-de-23-de-maio-de-1994",
+      "titulo": "LEI Nº 11.538 de 23 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-23-11538",
+      "data": "1994-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11537-de-23-de-maio-de-1994",
+      "titulo": "LEI Nº 11.537 de 23 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-23-11537",
+      "data": "1994-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11535-de-23-de-maio-de-1994",
+      "titulo": "LEI Nº 11.535 de 23 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-23-11535",
+      "data": "1994-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11534-de-23-de-maio-de-1994",
+      "titulo": "LEI Nº 11.534 de 23 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-23-11534",
+      "data": "1994-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11536-de-23-de-maio-de-1994",
+      "titulo": "LEI Nº 11.536 de 23 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-23-11536",
+      "data": "1994-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11531-de-9-de-maio-de-1994",
+      "titulo": "LEI Nº 11.531 de 9 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-09-11531",
+      "data": "1994-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11530-de-9-de-maio-de-1994",
+      "titulo": "LEI Nº 11.530 de 9 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-09-11530",
+      "data": "1994-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11529-de-6-de-maio-de-1994",
+      "titulo": "LEI Nº 11.529 de 6 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-06-11529",
+      "data": "1994-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11528-de-6-de-maio-de-1994",
+      "titulo": "LEI Nº 11.528 de 6 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-06-11528",
+      "data": "1994-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11527-de-5-de-maio-de-1994",
+      "titulo": "LEI Nº 11.527 de 5 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-05-11527",
+      "data": "1994-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11526-de-5-de-maio-de-1994",
+      "titulo": "LEI Nº 11.526 de 5 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-05-11526",
+      "data": "1994-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11525-de-5-de-maio-de-1994",
+      "titulo": "LEI Nº 11.525 de 5 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-05-11525",
+      "data": "1994-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11524-de-5-de-maio-de-1994",
+      "titulo": "LEI Nº 11.524 de 5 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-05-11524",
+      "data": "1994-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11523-de-3-de-maio-de-1994",
+      "titulo": "LEI Nº 11.523 de 3 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-03-11523",
+      "data": "1994-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11522-de-3-de-maio-de-1994",
+      "titulo": "LEI Nº 11.522 de 3 de Maio de 1994",
+      "id": "br-municipal-3550308-lei-1994-05-03-11522",
+      "data": "1994-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11521-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.521 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11521",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11520-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.520 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11520",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11519-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.519 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11519",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11518-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.518 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11518",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11517-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.517 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11517",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11516-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.516 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11516",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11515-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.515 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11515",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11514-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.514 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11514",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11513-de-20-de-abril-de-1994",
+      "titulo": "LEI Nº 11.513 de 20 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-20-11513",
+      "data": "1994-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11512-de-19-de-abril-de-1994",
+      "titulo": "LEI Nº 11.512 de 19 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-19-11512",
+      "data": "1994-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11511-de-19-de-abril-de-1994",
+      "titulo": "LEI Nº 11.511 de 19 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-19-11511",
+      "data": "1994-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11510-de-15-de-abril-de-1994",
+      "titulo": "LEI Nº 11.510 de 15 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-15-11510",
+      "data": "1994-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11508-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.508 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11508",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11507-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.507 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11507",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11506-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.506 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11506",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11505-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.505 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11505",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11504-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.504 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11504",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11503-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.503 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11503",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11509-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.509 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11509",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11502-de-13-de-abril-de-1994",
+      "titulo": "LEI Nº 11.502 de 13 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-13-11502",
+      "data": "1994-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11500-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.500 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11500",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11499-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.499 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11499",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11498-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.498 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11498",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11497-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.497 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11497",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11501-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.501 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11501",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11496-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.496 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11496",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11495-de-11-de-abril-de-1994",
+      "titulo": "LEI Nº 11.495 de 11 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-11-11495",
+      "data": "1994-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11494-de-6-de-abril-de-1994",
+      "titulo": "LEI Nº 11.494 de 6 de Abril de 1994",
+      "id": "br-municipal-3550308-lei-1994-04-06-11494",
+      "data": "1994-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11493-de-28-de-marco-de-1994",
+      "titulo": "LEI Nº 11.493 de 28 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-28-11493",
+      "data": "1994-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11492-de-15-de-marco-de-1994",
+      "titulo": "LEI Nº 11.492 de 15 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-15-11492",
+      "data": "1994-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11491-de-14-de-marco-de-1994",
+      "titulo": "LEI Nº 11.491 de 14 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-14-11491",
+      "data": "1994-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11490-de-14-de-marco-de-1994",
+      "titulo": "LEI Nº 11.490 de 14 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-14-11490",
+      "data": "1994-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11489-de-14-de-marco-de-1994",
+      "titulo": "LEI Nº 11.489 de 14 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-14-11489",
+      "data": "1994-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11488-de-14-de-marco-de-1994",
+      "titulo": "LEI Nº 11.488 de 14 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-14-11488",
+      "data": "1994-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11487-de-14-de-marco-de-1994",
+      "titulo": "LEI Nº 11.487 de 14 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-14-11487",
+      "data": "1994-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11485-de-14-de-marco-de-1994",
+      "titulo": "LEI Nº 11.485 de 14 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-14-11485",
+      "data": "1994-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11486-de-11-de-marco-de-1994",
+      "titulo": "LEI Nº 11.486 de 11 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-11-11486",
+      "data": "1994-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11484-de-4-de-marco-de-1994",
+      "titulo": "LEI Nº 11.484 de 4 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-04-11484",
+      "data": "1994-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11483-de-1-de-marco-de-1994",
+      "titulo": "LEI Nº 11.483 de 1 de Março de 1994",
+      "id": "br-municipal-3550308-lei-1994-03-01-11483",
+      "data": "1994-03-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11482-de-24-de-fevereiro-de-1994",
+      "titulo": "LEI Nº 11.482 de 24 de Fevereiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-02-24-11482",
+      "data": "1994-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11481-de-24-de-fevereiro-de-1994",
+      "titulo": "LEI Nº 11.481 de 24 de Fevereiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-02-24-11481",
+      "data": "1994-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11480-de-24-de-fevereiro-de-1994",
+      "titulo": "LEI Nº 11.480 de 24 de Fevereiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-02-24-11480",
+      "data": "1994-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11479-de-13-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.479 de 13 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-13-11479",
+      "data": "1994-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11477-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.477 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11477",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11476-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.476 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11476",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11475-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.475 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11475",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11474-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.474 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11474",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11473-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.473 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11473",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11471-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.471 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11471",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11469-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.469 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11469",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11468-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.468 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11468",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11467-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.467 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11467",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11466-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.466 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11466",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11465-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.465 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11465",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11464-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.464 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11464",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11463-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.463 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11463",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11462-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.462 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11462",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11478-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.478 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11478",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11472-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.472 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11472",
+      "data": "1994-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11470-de-12-de-janeiro-de-1994",
+      "titulo": "LEI Nº 11.470 de 12 de Janeiro de 1994",
+      "id": "br-municipal-3550308-lei-1994-01-12-11470",
+      "data": "1994-01-12"
+    }
+  ],
+  "pendencias": []
+}

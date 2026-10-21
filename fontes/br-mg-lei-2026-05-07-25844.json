@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-07-25844",
+  "titulo": "LEI nº 25844, de 07/05/2026",
+  "data": "2026-05-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25844/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25844/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a840bf352cace1e971aa955aed3ec8020446920df6b078e85cc8c2cea1f35475",
+  "coletado_em": "2026-10-21T08:26:54.139Z",
+  "sha256_fonte": "1b522ad987a8c03783bca87e9a5e60fa4fce0a06be71962e86f24859579be2e8",
+  "sha256_markdown": "3fc2c477a62cf8932a3171ad1f44ea4cf64ba82b239a8af4691a082152986a90"
+}

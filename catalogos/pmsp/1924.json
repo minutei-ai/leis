@@ -1,0 +1,866 @@
+{
+  "ano_publicacao": 1924,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1924",
+    "ano-final": "31/12/1924",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:37.614Z",
+  "total": 140,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "6de61f25d57f44206e343cc2b8bfb07f00d1a2da258996cd5c478ad72572de7d"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "0c92d59000815a2f5e4b89b1d6b0752c4d8e9976a413711a780543b5c73a3acd"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2802-de-27-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.802 de 27 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-27-2802",
+      "data": "1924-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2801-de-27-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.801 de 27 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-27-2801",
+      "data": "1924-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2800-de-23-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.800 de 23 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-23-2800",
+      "data": "1924-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2799-de-18-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.799 de 18 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-18-2799",
+      "data": "1924-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2798-de-18-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.798 de 18 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-18-2798",
+      "data": "1924-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2797-de-18-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.797 de 18 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-18-2797",
+      "data": "1924-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2796-de-18-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.796 de 18 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-18-2796",
+      "data": "1924-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2795-de-16-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.795 de 16 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-16-2795",
+      "data": "1924-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2794-de-16-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.794 de 16 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-16-2794",
+      "data": "1924-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2793-de-13-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.793 de 13 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-13-2793",
+      "data": "1924-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2792-de-13-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.792 de 13 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-13-2792",
+      "data": "1924-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2791-de-12-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.791 de 12 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-12-2791",
+      "data": "1924-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2790-de-12-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.790 de 12 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-12-2790",
+      "data": "1924-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2789-de-12-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.789 de 12 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-12-2789",
+      "data": "1924-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2788-de-10-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.788 de 10 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-10-2788",
+      "data": "1924-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2787-de-6-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.787 de 6 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-06-2787",
+      "data": "1924-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2786-de-6-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.786 de 6 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-06-2786",
+      "data": "1924-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2785-de-5-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.785 de 5 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-05-2785",
+      "data": "1924-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2784-de-3-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.784 de 3 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-03-2784",
+      "data": "1924-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2783-de-3-de-dezembro-de-1924",
+      "titulo": "LEI Nº 2.783 de 3 de Dezembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-12-03-2783",
+      "data": "1924-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2782-de-18-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.782 de 18 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-18-2782",
+      "data": "1924-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2781-de-18-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.781 de 18 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-18-2781",
+      "data": "1924-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2780-de-18-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.780 de 18 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-18-2780",
+      "data": "1924-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2779-de-17-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.779 de 17 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-17-2779",
+      "data": "1924-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2778-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.778 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2778",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2777-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.777 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2777",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2776-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.776 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2776",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2775-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.775 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2775",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2774-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.774 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2774",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2773-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.773 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2773",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2772-de-13-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.772 de 13 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-13-2772",
+      "data": "1924-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2771-de-11-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.771 de 11 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-11-2771",
+      "data": "1924-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2770-de-11-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.770 de 11 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-11-2770",
+      "data": "1924-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2769-de-11-de-novembro-de-1924",
+      "titulo": "LEI Nº 2.769 de 11 de Novembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-11-11-2769",
+      "data": "1924-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2768-de-29-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.768 de 29 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-29-2768",
+      "data": "1924-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2767-de-27-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.767 de 27 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-27-2767",
+      "data": "1924-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2766-de-24-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.766 de 24 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-24-2766",
+      "data": "1924-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2765-de-24-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.765 de 24 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-24-2765",
+      "data": "1924-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2764-de-20-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.764 de 20 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-20-2764",
+      "data": "1924-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2763-de-20-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.763 de 20 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-20-2763",
+      "data": "1924-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2762-de-20-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.762 de 20 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-20-2762",
+      "data": "1924-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2761-de-18-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.761 de 18 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-18-2761",
+      "data": "1924-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2760-de-17-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.760 de 17 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-17-2760",
+      "data": "1924-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2759-de-15-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.759 de 15 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-15-2759",
+      "data": "1924-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2758-de-11-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.758 de 11 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-11-2758",
+      "data": "1924-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2757-de-10-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.757 de 10 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-10-2757",
+      "data": "1924-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2756-de-6-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.756 de 6 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-06-2756",
+      "data": "1924-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2755-de-3-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.755 de 3 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-03-2755",
+      "data": "1924-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2754-de-1-de-outubro-de-1924",
+      "titulo": "LEI Nº 2.754 de 1 de Outubro de 1924",
+      "id": "br-municipal-3550308-lei-1924-10-01-2754",
+      "data": "1924-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2753-de-18-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.753 de 18 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-18-2753",
+      "data": "1924-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2752-de-18-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.752 de 18 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-18-2752",
+      "data": "1924-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2751-de-18-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.751 de 18 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-18-2751",
+      "data": "1924-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2750-de-18-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.750 de 18 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-18-2750",
+      "data": "1924-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2749-de-18-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.749 de 18 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-18-2749",
+      "data": "1924-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2748-de-11-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.748 de 11 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-11-2748",
+      "data": "1924-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2747-de-11-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.747 de 11 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-11-2747",
+      "data": "1924-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2746-de-11-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.746 de 11 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-11-2746",
+      "data": "1924-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2745-de-11-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.745 de 11 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-11-2745",
+      "data": "1924-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2744-de-4-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.744 de 4 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-04-2744",
+      "data": "1924-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2743-de-4-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.743 de 4 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-04-2743",
+      "data": "1924-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2742-de-4-de-setembro-de-1924",
+      "titulo": "LEI Nº 2.742 de 4 de Setembro de 1924",
+      "id": "br-municipal-3550308-lei-1924-09-04-2742",
+      "data": "1924-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2741-de-29-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.741 de 29 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-29-2741",
+      "data": "1924-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2740-de-26-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.740 de 26 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-26-2740",
+      "data": "1924-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2739-de-26-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.739 de 26 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-26-2739",
+      "data": "1924-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2738-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.738 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2738",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2737-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.737 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2737",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2736-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.736 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2736",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2735-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.735 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2735",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2734-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.734 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2734",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2733-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.733 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2733",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2732-de-21-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.732 de 21 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-21-2732",
+      "data": "1924-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2731-de-20-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.731 de 20 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-20-2731",
+      "data": "1924-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2730-de-18-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.730 de 18 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-18-2730",
+      "data": "1924-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2729-de-13-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.729 de 13 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-13-2729",
+      "data": "1924-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2728-de-13-de-agosto-de-1924",
+      "titulo": "LEI Nº 2.728 de 13 de Agosto de 1924",
+      "id": "br-municipal-3550308-lei-1924-08-13-2728",
+      "data": "1924-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2727-de-17-de-junho-de-1924",
+      "titulo": "LEI Nº 2.727 de 17 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-17-2727",
+      "data": "1924-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2726-de-14-de-junho-de-1924",
+      "titulo": "LEI Nº 2.726 de 14 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-14-2726",
+      "data": "1924-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2725-de-13-de-junho-de-1924",
+      "titulo": "LEI Nº 2.725 de 13 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-13-2725",
+      "data": "1924-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2724-de-13-de-junho-de-1924",
+      "titulo": "LEI Nº 2.724 de 13 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-13-2724",
+      "data": "1924-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2723-de-13-de-junho-de-1924",
+      "titulo": "LEI Nº 2.723 de 13 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-13-2723",
+      "data": "1924-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2722-de-12-de-junho-de-1924",
+      "titulo": "LEI Nº 2.722 de 12 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-12-2722",
+      "data": "1924-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2721-de-12-de-junho-de-1924",
+      "titulo": "LEI Nº 2.721 de 12 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-12-2721",
+      "data": "1924-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2720-de-12-de-junho-de-1924",
+      "titulo": "LEI Nº 2.720 de 12 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-12-2720",
+      "data": "1924-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2719-de-9-de-junho-de-1924",
+      "titulo": "LEI Nº 2.719 de 9 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-09-2719",
+      "data": "1924-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2718-de-9-de-junho-de-1924",
+      "titulo": "LEI Nº 2.718 de 9 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-09-2718",
+      "data": "1924-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2717-de-6-de-junho-de-1924",
+      "titulo": "LEI Nº 2.717 de 6 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-06-2717",
+      "data": "1924-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2716-de-5-de-junho-de-1924",
+      "titulo": "LEI Nº 2.716 de 5 de Junho de 1924",
+      "id": "br-municipal-3550308-lei-1924-06-05-2716",
+      "data": "1924-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2715-de-17-de-maio-de-1924",
+      "titulo": "LEI Nº 2.715 de 17 de Maio de 1924",
+      "id": "br-municipal-3550308-lei-1924-05-17-2715",
+      "data": "1924-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2714-de-10-de-maio-de-1924",
+      "titulo": "LEI Nº 2.714 de 10 de Maio de 1924",
+      "id": "br-municipal-3550308-lei-1924-05-10-2714",
+      "data": "1924-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2713-de-10-de-maio-de-1924",
+      "titulo": "LEI Nº 2.713 de 10 de Maio de 1924",
+      "id": "br-municipal-3550308-lei-1924-05-10-2713",
+      "data": "1924-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2712-de-6-de-maio-de-1924",
+      "titulo": "LEI Nº 2.712 de 6 de Maio de 1924",
+      "id": "br-municipal-3550308-lei-1924-05-06-2712",
+      "data": "1924-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2711-de-29-de-abril-de-1924",
+      "titulo": "LEI Nº 2.711 de 29 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-29-2711",
+      "data": "1924-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2710-de-29-de-abril-de-1924",
+      "titulo": "LEI Nº 2.710 de 29 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-29-2710",
+      "data": "1924-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2709-de-29-de-abril-de-1924",
+      "titulo": "LEI Nº 2.709 de 29 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-29-2709",
+      "data": "1924-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2708-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.708 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2708",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2707-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.707 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2707",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2706-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.706 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2706",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2705-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.705 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2705",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2704-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.704 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2704",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2703-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.703 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2703",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2702-de-26-de-abril-de-1924",
+      "titulo": "LEI Nº 2.702 de 26 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-26-2702",
+      "data": "1924-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2701-de-24-de-abril-de-1924",
+      "titulo": "LEI Nº 2.701 de 24 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-24-2701",
+      "data": "1924-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2700-de-24-de-abril-de-1924",
+      "titulo": "LEI Nº 2.700 de 24 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-24-2700",
+      "data": "1924-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2699-de-24-de-abril-de-1924",
+      "titulo": "LEI Nº 2.699 de 24 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-24-2699",
+      "data": "1924-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2698-de-24-de-abril-de-1924",
+      "titulo": "LEI Nº 2.698 de 24 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-24-2698",
+      "data": "1924-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2697-de-24-de-abril-de-1924",
+      "titulo": "LEI Nº 2.697 de 24 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-24-2697",
+      "data": "1924-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2696-de-24-de-abril-de-1924",
+      "titulo": "LEI Nº 2.696 de 24 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-24-2696",
+      "data": "1924-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2695-de-22-de-abril-de-1924",
+      "titulo": "LEI Nº 2.695 de 22 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-22-2695",
+      "data": "1924-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2694-de-22-de-abril-de-1924",
+      "titulo": "LEI Nº 2.694 de 22 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-22-2694",
+      "data": "1924-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2693-de-12-de-abril-de-1924",
+      "titulo": "LEI Nº 2.693 de 12 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-12-2693",
+      "data": "1924-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2692-de-10-de-abril-de-1924",
+      "titulo": "LEI Nº 2.692 de 10 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-10-2692",
+      "data": "1924-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2691-de-10-de-abril-de-1924",
+      "titulo": "LEI Nº 2.691 de 10 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-10-2691",
+      "data": "1924-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2690-de-5-de-abril-de-1924",
+      "titulo": "LEI Nº 2.690 de 5 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-05-2690",
+      "data": "1924-04-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2689-de-4-de-abril-de-1924",
+      "titulo": "LEI Nº 2.689 de 4 de Abril de 1924",
+      "id": "br-municipal-3550308-lei-1924-04-04-2689",
+      "data": "1924-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2688-de-27-de-marco-de-1924",
+      "titulo": "LEI Nº 2.688 de 27 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-27-2688",
+      "data": "1924-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2687-de-25-de-marco-de-1924",
+      "titulo": "LEI Nº 2.687 de 25 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-25-2687",
+      "data": "1924-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2686-de-20-de-marco-de-1924",
+      "titulo": "LEI Nº 2.686 de 20 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-20-2686",
+      "data": "1924-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2685-de-20-de-marco-de-1924",
+      "titulo": "LEI Nº 2.685 de 20 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-20-2685",
+      "data": "1924-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2684-de-20-de-marco-de-1924",
+      "titulo": "LEI Nº 2.684 de 20 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-20-2684",
+      "data": "1924-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2683-de-19-de-marco-de-1924",
+      "titulo": "LEI Nº 2.683 de 19 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-19-2683",
+      "data": "1924-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2682-de-19-de-marco-de-1924",
+      "titulo": "LEI Nº 2.682 de 19 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-19-2682",
+      "data": "1924-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2681-de-19-de-marco-de-1924",
+      "titulo": "LEI Nº 2.681 de 19 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-19-2681",
+      "data": "1924-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2680-de-15-de-marco-de-1924",
+      "titulo": "LEI Nº 2.680 de 15 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-15-2680",
+      "data": "1924-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2679-de-15-de-marco-de-1924",
+      "titulo": "LEI Nº 2.679 de 15 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-15-2679",
+      "data": "1924-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2678-de-12-de-marco-de-1924",
+      "titulo": "LEI Nº 2.678 de 12 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-12-2678",
+      "data": "1924-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2677-de-12-de-marco-de-1924",
+      "titulo": "LEI Nº 2.677 de 12 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-12-2677",
+      "data": "1924-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2676-de-8-de-marco-de-1924",
+      "titulo": "LEI Nº 2.676 de 8 de Março de 1924",
+      "id": "br-municipal-3550308-lei-1924-03-08-2676",
+      "data": "1924-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2675-de-25-de-fevereiro-de-1924",
+      "titulo": "LEI Nº 2.675 de 25 de Fevereiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-02-25-2675",
+      "data": "1924-02-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2674-de-2-de-fevereiro-de-1924",
+      "titulo": "LEI Nº 2.674 de 2 de Fevereiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-02-02-2674",
+      "data": "1924-02-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2673-de-2-de-fevereiro-de-1924",
+      "titulo": "LEI Nº 2.673 de 2 de Fevereiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-02-02-2673",
+      "data": "1924-02-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2672-de-31-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.672 de 31 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-31-2672",
+      "data": "1924-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2671-de-30-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.671 de 30 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-30-2671",
+      "data": "1924-01-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2670-de-19-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.670 de 19 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-19-2670",
+      "data": "1924-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2669-de-19-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.669 de 19 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-19-2669",
+      "data": "1924-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2668-de-16-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.668 de 16 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-16-2668",
+      "data": "1924-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2667-de-9-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.667 de 9 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-09-2667",
+      "data": "1924-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2666-de-9-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.666 de 9 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-09-2666",
+      "data": "1924-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2665-de-9-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.665 de 9 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-09-2665",
+      "data": "1924-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2664-de-4-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.664 de 4 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-04-2664",
+      "data": "1924-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2663-de-4-de-janeiro-de-1924",
+      "titulo": "LEI Nº 2.663 de 4 de Janeiro de 1924",
+      "id": "br-municipal-3550308-lei-1924-01-04-2663",
+      "data": "1924-01-04"
+    }
+  ],
+  "pendencias": []
+}

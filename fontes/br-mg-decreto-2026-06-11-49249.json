@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-06-11-49249",
+  "titulo": "DEC nº 49249, de 11/06/2026",
+  "data": "2026-06-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49249/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49249/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "bf53712e9df69c6b49c31d590ae7e0139d7de852fdacf1edfcd051243b6ab5ed",
+  "coletado_em": "2026-10-21T08:27:55.947Z",
+  "sha256_fonte": "46b6ee2c9d7e7ffb9aa387090f32212e6c226a2b5bf44c27cab308f421f1b8aa",
+  "sha256_markdown": "ba283ca4e8b04161f3d482855aeae7631c210e5e3c92ede0e3ab383acfd87ec3"
+}

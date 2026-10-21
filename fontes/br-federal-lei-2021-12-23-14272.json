@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-12-23-14272",
+  "titulo": "Lei nº 14.272 de 23/12/2021",
+  "data": "2021-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/fb824604-7b63-4354-8b75-519d89c0b295/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-12-23;14272",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-12-23%3B14272&tipo_documento=maior-detalhe",
+  "sha256_dados": "b519a36b7cfaaf00f61d8e7d3b489e5ea134f388e9d3134ef86d18454d2c7a37",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:36.122Z",
+  "sha256_fonte": "264dc199bca46b6ae72a98d6f5505bfd3d08699d156265d0ba38139fcadae869",
+  "sha256_markdown": "fec59203498b1c3ce01d30f4a50ea66988e984c107ab8d91140afafc32b089f1"
+}

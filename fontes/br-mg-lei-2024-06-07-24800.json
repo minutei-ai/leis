@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-06-07-24800",
+  "titulo": "LEI nº 24800, de 07/06/2024",
+  "data": "2024-06-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24800/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24800/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8f9caf03f241953450c03595c2661aa44faef8fc373ff77367532a4e91bc1a4d",
+  "coletado_em": "2026-10-21T08:39:26.814Z",
+  "sha256_fonte": "bf1ef9cf1f6e9e805924993859f56d11710b214266b5b6ae0bdc94754d561c45",
+  "sha256_markdown": "5610e4317c3643d15e98eb6d53356308c1fd9f2a11b5b3ce67ca27cfe4138cbb"
+}

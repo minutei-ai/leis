@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-05-13-13827",
+  "titulo": "Lei nº 13.827 de 13/05/2019",
+  "data": "2019-05-13",
+  "fonte": "https://normas.leg.br/api/public/binario/54aaec78-dd84-4680-80a0-66a5f90563e3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-05-13;13827",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-05-13%3B13827&tipo_documento=maior-detalhe",
+  "sha256_dados": "79545f8062a0ba52c77c9db112d4782dbafa3e4adc986d7fe0ff03248bd2f908",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:47:04.146Z",
+  "sha256_fonte": "e792624cc7870c077fb20dc09229adc9bf7a6df4f8932fca6d2d0ecdacf57021",
+  "sha256_markdown": "de368e427a687ddfde92b64b00d598d8479daec34acdf2d869698853aa1b45f4"
+}

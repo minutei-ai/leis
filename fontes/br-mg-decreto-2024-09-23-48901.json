@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-09-23-48901",
+  "titulo": "DEC nº 48901, de 23/09/2024",
+  "data": "2024-09-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48901/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48901/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "bc68ded7bd9f00efb8474e614c91e75ab39875466dee16c1943b8ade2879bb45",
+  "coletado_em": "2026-10-21T08:41:53.762Z",
+  "sha256_fonte": "520eeaf43bff31d3c9dde68f36233f5dce8af1d69d5747498df3418021c52705",
+  "sha256_markdown": "db308e5d321990ad5cad92a0ced73e1a20327e60a152c69486419f28aaaa5435"
+}

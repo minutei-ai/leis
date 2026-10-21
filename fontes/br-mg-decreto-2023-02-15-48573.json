@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2023-02-15-48573",
+  "titulo": "DEC nº 48573, de 15/02/2023",
+  "data": "2023-02-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48573/2023/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48573/2023/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e8276e145e48a95ba4c13eb23ea43803824f04849517d399a153d95a9692b2a7",
+  "coletado_em": "2026-10-21T08:44:07.520Z",
+  "sha256_fonte": "3fc79f2b630b5576be93c60341d9742ab1ef0740b11f21db86d3c6992746d33f",
+  "sha256_markdown": "91e5558b407251ce1fd3082dee499d49faf8666bde877009c1ddb0c4e552cd33"
+}

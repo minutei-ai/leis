@@ -1,0 +1,1743 @@
+{
+  "fonte": "https://baleg-api-prd.al.sp.gov.br/normas?page=181&size=1000",
+  "coletado_em": "2026-10-21T08:34:24.902Z",
+  "sha256_fonte": "832810f67d52d9c5023b7adc6899d5003f333217f35f06d7e0134e8abcf3230c",
+  "pagina": {
+    "content": [
+      {
+        "idNorma": "139575",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "04/03/1842",
+        "nomeNorma": "Lei nº 16, de 04/03/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À FREGUESIA A CAPELA CURADA DO BAIRRO ALTO NO MUNICÍPIO DE SÃO LUIZ"
+      },
+      {
+        "idNorma": "139574",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "04/03/1842",
+        "nomeNorma": "Lei nº 15, de 04/03/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À VILA A FREGUESIA DE QUELUZ"
+      },
+      {
+        "idNorma": "139573",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "04/03/1842",
+        "nomeNorma": "Lei nº 14, de 04/03/1842",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE NA FAZENDA DE SANT'ANNA DA CAPITAL, UMA ESCOLA PRÁTICA DA CULTURA E FABRICO DO CHÁ"
+      },
+      {
+        "idNorma": "139572",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "04/03/1842",
+        "nomeNorma": "Lei nº 13, de 04/03/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À CATEGORIA DE FREGUESIA A CAPELA CURADA DO SENHOR BOM JESUS DOS AFLITOS DE PIRASSUNUNGA"
+      },
+      {
+        "idNorma": "139571",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "28/02/1842",
+        "nomeNorma": "Lei nº 12, de 28/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À CATEGORIA DE VILA A FREGUESIA DOS SILVEIRAS DO MUNICÍPIO DE LORENA"
+      },
+      {
+        "idNorma": "139569",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "22/02/1842",
+        "nomeNorma": "Lei nº 11, de 22/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "MARCA OS SUBSÍDIOS E AJUDA DE CUSTO DE IDA E VOLTA DOS DEPUTADOS PROVINCIAIS DURANTE A LEGISLATURA DE 1844 A 1845"
+      },
+      {
+        "idNorma": "141486",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "22/02/1842",
+        "nomeNorma": "Lei nº 10, de 22/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE O LANÇAMENTO E COBRANÇA DA DÉCIMA DOS PRÉDIOS URBANOS FIQUE A CARGO DAS CÂMARAS MUNICIPAIS"
+      },
+      {
+        "idNorma": "139568",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "18/02/1842",
+        "nomeNorma": "Lei nº 9, de 18/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À FREGUESIA A CAPELA CURADA DE SANTA BÁRBARA"
+      },
+      {
+        "idNorma": "139567",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "09/02/1842",
+        "nomeNorma": "Lei nº 8, de 09/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "CRIA UM BANCO PROVINCIAL NA CAPITAL DENOMINADO PAULISTANO"
+      },
+      {
+        "idNorma": "139566",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "09/02/1842",
+        "nomeNorma": "Lei nº 7, de 09/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "APROVA AS DIVISAS ENTRE AS VILAS DE TAUBATÉ E PINDAMONHANGABA, E ENTRE OS DISTRITOS DE SOROCABA E DE JUNDIACANGA"
+      },
+      {
+        "idNorma": "139565",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "09/02/1842",
+        "nomeNorma": "Lei nº 6, de 09/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O EMPRÉSTIMO DE VINTE CINCO CONTOS DE RÉIS À BARREIRA DE SANTOS, E O DE 2.414$836 rs.À DE CARAGUATATUBA"
+      },
+      {
+        "idNorma": "139564",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "05/02/1842",
+        "nomeNorma": "Lei nº 5, de 05/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À CATEGORIA DE CIDADES, COM A MESMA DENOMINAÇÃO, AS VILAS DE TAUBATÉ, ITU, SOROCABA, CORITIBA, PARANAGUÁ E SÃO CARLOS"
+      },
+      {
+        "idNorma": "139563",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "05/02/1842",
+        "nomeNorma": "Lei nº 4, de 05/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "SEPARA DO CANONICATO AS CADEIRAS MAGISTRAIS CRIADAS PELA LEI PROVINCIAL DE 18 DE MARÇO DE 1837, Nº 028"
+      },
+      {
+        "idNorma": "141485",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "05/02/1842",
+        "nomeNorma": "Lei nº 3, de 05/02/1842",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À FREGUESIA A CAPELA CURADA DE NOSSA SENHORA DO CARMO DO CAMPO LARGO"
+      },
+      {
+        "idNorma": "141484",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "22/01/1842",
+        "nomeNorma": "Lei nº 2, de 22/01/1842",
+        "idTipo": "9",
+        "dsEmenta": "MARCA AS DIVISAS ENTRE O MUNICÍPIO DE SANTO AMARO E A FREGUESIA DE SÃO BERNARDO"
+      },
+      {
+        "idNorma": "141483",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "15/01/1842",
+        "nomeNorma": "Lei nº 1, de 15/01/1842",
+        "idTipo": "9",
+        "dsEmenta": "DERROGA O ARTIGO 36 DA <a data-idAnotacao='139560' class='anotacao-link' target='blank' href='https://www.al.sp.gov.br/norma/139560'>LEI PROVINCIAL Nº 25 DE 23 DE MARÇO DE 1841</a>, E DETERMINA QUE AS APÓLICES QUE EM OBSERVÂNCIA DESSA LEI FORAM COMPRADAS, SERÃO REVENDIDAS QUANTO ANTES, E SEU PRODUTO RECOLHIDOS AOS COFRES PROVINCIAIS"
+      },
+      {
+        "idNorma": "139560",
+        "tipo": "Lei",
+        "nuNorma": "25",
+        "data": "23/03/1841",
+        "nomeNorma": "Lei nº 25, de 23/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA PARA O ANO FINANCEIRO DE 1.º DE JULHO 1841 AO ÚLTIMO DE JUNHO DE 1842"
+      },
+      {
+        "idNorma": "139559",
+        "tipo": "Lei",
+        "nuNorma": "24",
+        "data": "20/03/1841",
+        "nomeNorma": "Lei nº 24, de 20/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "AUMENTA AS CONGRUAS DOS CÔNEGOS E OUTROS EMPREGADOS DA SÉ CATEDRAL"
+      },
+      {
+        "idNorma": "139561",
+        "tipo": "Lei",
+        "nuNorma": "26",
+        "data": "15/03/1841",
+        "nomeNorma": "Lei nº 26, de 15/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA A ARREMATAÇÃO DOS TERRENOS PERTENCENTES AO PATRIMÔNIO DE SÃO JOSÉ DO PARAÍBA E REGULA A APLICAÇÃO DO SEU PRODUTO"
+      },
+      {
+        "idNorma": "139558",
+        "tipo": "Lei",
+        "nuNorma": "23",
+        "data": "12/03/1841",
+        "nomeNorma": "Lei nº 23, de 12/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "ERIGE EM FREGUESIAS AS CAPELA CURADAS DO CAMPO LARGO E DA SERRA NEGRA"
+      },
+      {
+        "idNorma": "141482",
+        "tipo": "Lei",
+        "nuNorma": "22",
+        "data": "12/03/1841",
+        "nomeNorma": "Lei nº 22, de 12/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE OS PRAZOS DE 6 E 12 MESES DE QUE TRATA O ARTIGO 2.º DA <a data-idAnotacao='139315' class='anotacao-link' target='blank' href='https://www.al.sp.gov.br/norma/139315'>LEI N. 8 DE 20 DE FEVEREIRO DE 1838</a>, FICAM REDUZIDOS A UM SOMENTE QUE SERÁ DE 12 MESES"
+      },
+      {
+        "idNorma": "139557",
+        "tipo": "Lei",
+        "nuNorma": "21",
+        "data": "12/03/1841",
+        "nomeNorma": "Lei nº 21, de 12/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "CRIA NA FREGUESIA DA SÉ MAIS UMA CADEIRA DE PRIMEIRAS LETRAS"
+      },
+      {
+        "idNorma": "141481",
+        "tipo": "Lei",
+        "nuNorma": "20",
+        "data": "12/03/1841",
+        "nomeNorma": "Lei nº 20, de 12/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "ISENTA O RECOLHIMENTO DE NOSSA SENHORA DA LUZ DA CAPITAL DO PAGAMENTO DA TAXA DO SELO DAS HERANÇAS QUE LHE FOREM DEIXADAS"
+      },
+      {
+        "idNorma": "141480",
+        "tipo": "Lei",
+        "nuNorma": "19",
+        "data": "10/03/1841",
+        "nomeNorma": "Lei nº 19, de 10/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "DISPÕE SOBRE COBRANÇA A DONOS DE CARROS, SEGES E CARRUAGENS QUE UTILIZAREM DA PONTE DO RIO DA BARRA DESTA VILA"
+      },
+      {
+        "idNorma": "139556",
+        "tipo": "Lei",
+        "nuNorma": "18",
+        "data": "04/03/1841",
+        "nomeNorma": "Lei nº 18, de 04/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA DAS CÂMARAS MUNICIPAIS PARA O ANO FINANCEIRO DE 1º DE OUTUBRO DE 1841 A 30 DE SETEMBRO DE 1842"
+      },
+      {
+        "idNorma": "139555",
+        "tipo": "Lei",
+        "nuNorma": "17",
+        "data": "01/03/1841",
+        "nomeNorma": "Lei nº 17, de 01/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "INCORPORA A POVOAÇÃO DO CUBATÃO À CIDADE DE SANTOS"
+      },
+      {
+        "idNorma": "139554",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "01/03/1841",
+        "nomeNorma": "Lei nº 16, de 01/03/1841",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA A FREGUESIA DE MORRETES À CATEGORIA DE VILA"
+      },
+      {
+        "idNorma": "139553",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "25/02/1841",
+        "nomeNorma": "Lei nº 15, de 25/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA A CATEGORIA DE VILA A FREGUESIA DE CASA BRANCA"
+      },
+      {
+        "idNorma": "139552",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "25/02/1841",
+        "nomeNorma": "Lei nº 14, de 25/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "FIXA A FORÇA POLICIAL PARA O ANO FINANCEIRO DE 1.º DE JULHO DE 1841 A 30 DE JUNHO DE 1842"
+      },
+      {
+        "idNorma": "139551",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "25/02/1841",
+        "nomeNorma": "Lei nº 13, de 25/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "MARCA O SERVIÇO DO CORPO DE MUNICIPAL PERMANENTE"
+      },
+      {
+        "idNorma": "139549",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "20/02/1841",
+        "nomeNorma": "Lei nº 12, de 20/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "CRIA UMA FREGUESIA FORMADA DOS DISTRITOS DOS CURATOS DE ITAPECERICA E MBOY"
+      },
+      {
+        "idNorma": "139547",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "20/02/1841",
+        "nomeNorma": "Lei nº 11, de 20/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "ERIGE EM FREGUESIA A CAPELA CURADA DE SANTA BRANCA DO MUNICÍPIO DE JACAREÍ"
+      },
+      {
+        "idNorma": "141479",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "20/02/1841",
+        "nomeNorma": "Lei nº 10, de 20/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "REGULA A SUBSTITUIÇÃO DO INSPETOR DO TESOURO PROVINCIAL"
+      },
+      {
+        "idNorma": "139543",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "12/02/1841",
+        "nomeNorma": "Lei nº 9, de 12/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "CRIA NESTA PROVÍNCIA UMA CAIXA ECÔNOMICA E REGULA SUA OPERAÇÕES"
+      },
+      {
+        "idNorma": "139541",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "04/02/1841",
+        "nomeNorma": "Lei nº 8, de 04/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "REGULA O TRANSPORTE DOS DOIS RIOS DE SAY NO MUNICÍPIO DE GUARATUBA"
+      },
+      {
+        "idNorma": "139539",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "03/02/1841",
+        "nomeNorma": "Lei nº 7, de 03/02/1841",
+        "idTipo": "9",
+        "dsEmenta": "IGUALA A CONGRUA DA PÁROCO COLADO DE MBOY A DOS MAIS PÁROCOS COLADOS DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "139537",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "27/01/1841",
+        "nomeNorma": "Lei nº 6, de 27/01/1841",
+        "idTipo": "9",
+        "dsEmenta": "AUMENTA O ORDENADO DOS PROFESSORES DE GRAMÁTICA LATINA"
+      },
+      {
+        "idNorma": "141478",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "26/01/1841",
+        "nomeNorma": "Lei nº 5, de 26/01/1841",
+        "idTipo": "9",
+        "dsEmenta": "MARCA O SUBSÍDIO DOS DEPUTADOS DA ASSEMBLEIA PROVINCIAL PARA A LEGISLATURA DE 1842 A 1843"
+      },
+      {
+        "idNorma": "139534",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "23/01/1841",
+        "nomeNorma": "Lei nº 4, de 23/01/1841",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO A CONTRATAR COM O CIDADÃO MANOEL FRANCISCO MALTA, OU COM OUTRA QUALQUER PESSOA OU COMPANHIA, O CONSERTO E MELHORAMENTO DA ESTRADA DA VILA DE PARAIBUNA À SÃO SEBASTIÃO"
+      },
+      {
+        "idNorma": "139532",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "22/01/1841",
+        "nomeNorma": "Lei nº 3, de 22/01/1841",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO A MANDAR CONSTRUIR UMA PONTE NO RIO PARDO NA ESTRADA QUE DE MOGY-MIRIM SEGUE A VILA FRANCA DO IMPERADOR, E FAZER OS REPAROS E ATALHOS DE QUE NECESSITA A MESMA ESTRADA"
+      },
+      {
+        "idNorma": "139530",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "21/01/1841",
+        "nomeNorma": "Lei nº 2, de 21/01/1841",
+        "idTipo": "9",
+        "dsEmenta": "IMPÕE NOVAS OBRIGAÇÕES ÀS CÂMARAS MUNICIPAIS DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "141477",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "20/01/1841",
+        "nomeNorma": "Lei nº 1, de 20/01/1841",
+        "idTipo": "9",
+        "dsEmenta": "CRIA UMA ESCOLA DE PRIMEIRAS LETRAS EM TATUÍ"
+      },
+      {
+        "idNorma": "139528",
+        "tipo": "Lei",
+        "nuNorma": "17",
+        "data": "26/03/1840",
+        "nomeNorma": "Lei nº 17, de 26/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA PROVINCIAL PARA O ANO FINANCEIRO DE 1.º DE JULHO DE 1840 A 30 DE JUNHO DE 1841"
+      },
+      {
+        "idNorma": "139525",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "23/03/1840",
+        "nomeNorma": "Lei nº 16, de 23/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA DAS CÂMARAS MUNICIPAIS PARA O ANO FINANCEIRO DE 1840 A 1841"
+      },
+      {
+        "idNorma": "141476",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "18/03/1840",
+        "nomeNorma": "Lei nº 15, de 18/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE O PRESIDENTE DA PROVÍNCIA FAÇA GUARDAR O DIREITO CONFERIDO AO CAPITÃO DO EXTINTO CORPO DE VOLUNTÁRIOS DE CORITIBA ANTONIO JOSÉ DO AMARAL DE FAZER PASSAR PELOS REGISTROS DO RIO NEGRO E SOROCABA 250 BESTAS MUARES, PAGANDO SOMENTE METADE DOS DIREITOS"
+      },
+      {
+        "idNorma": "141475",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "17/03/1840",
+        "nomeNorma": "Lei nº 14, de 17/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "DÁ AOS PORTEIROS DA SECRETARIA DO GOVERNO E DA CONTADORIA PROVINCIAL UMA GRATIFICAÇÃO ALEM DO ORDENADO"
+      },
+      {
+        "idNorma": "139521",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "16/03/1840",
+        "nomeNorma": "Lei nº 13, de 16/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO PROVINCIAL A DAR POR EMPRÉSTIMO À CAIXA DA BARREIRA DE SANTOS, ATÉ A QUANTIA DE DEZ CONTOS DE RÉIS"
+      },
+      {
+        "idNorma": "139517",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "12/03/1840",
+        "nomeNorma": "Lei nº 12, de 12/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "RESTABELECE GABINETE TOPOGRÁFICO"
+      },
+      {
+        "idNorma": "141474",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "11/03/1840",
+        "nomeNorma": "Lei nº 11, de 11/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA A INOVAR O CONTRATO CELEBRADO POR CONTA DO COFRE PROVINCIAL COM O ENGENHEIRO BRESSER"
+      },
+      {
+        "idNorma": "141473",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "10/03/1840",
+        "nomeNorma": "Lei nº 10, de 10/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA A FAZER ABONAR ANUALMENTE AO CIDADÃO JOSÉ PORFÍRIO DE LIMA, A QUANTIA DE SEISCENTOS MIL RÉIS PARA O MESMO FREQUENTAR NA PROVÍNCIA DO RIO DE JANEIRO A AULA DE ARQUITETOS MEDIDORES"
+      },
+      {
+        "idNorma": "139510",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "09/03/1840",
+        "nomeNorma": "Lei nº 9, de 09/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "DÁ DIVERSA APLICAÇÃO AO RENDIMENTO DA DÉCIMA URBANA E OUTRAS PROVIDÊNCIA SOBRE A SUA ARRECADAÇÃO"
+      },
+      {
+        "idNorma": "139507",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "06/03/1840",
+        "nomeNorma": "Lei nº 8, de 06/03/1840",
+        "idTipo": "9",
+        "dsEmenta": "SOBRE A SUBSTITUIÇÃO DO IMPOSTO DE 20 POR CENTO NO CONSUMO DA AGUARDENTE"
+      },
+      {
+        "idNorma": "139506",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "28/02/1840",
+        "nomeNorma": "Lei nº 7, de 28/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "FIXA A FORÇA POLICIAL DA PROVÍNCIA PARA O ANO FINANCEIRO DO 1º DE JULHO DE 1840 A 30 DE JUNHO DE 1841"
+      },
+      {
+        "idNorma": "139503",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "27/02/1840",
+        "nomeNorma": "Lei nº 6, de 27/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "APROVA INTERINAMENTE OS ESTATUTOS DAS AULAS ECLESIÁSTICAS DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "139500",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "26/02/1840",
+        "nomeNorma": "Lei nº 5, de 26/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "DÁ AO GOVERNO DA PROVÍNCIA A ATRIBUIÇÃO DE CONFIRMAR OS ESTATUTOS E COMPROMISSOS DAS IRMANDADES"
+      },
+      {
+        "idNorma": "141472",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "21/02/1840",
+        "nomeNorma": "Lei nº 4, de 21/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "DESANEXA DO JUIZO DO CIVEL DESTA CIDADE O MUNICÍPIO DA VILA DE PARNAIBA"
+      },
+      {
+        "idNorma": "139492",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "21/02/1840",
+        "nomeNorma": "Lei nº 3, de 21/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "DÁ VÁRIAS PROVIDÊNCIAS PARA O PROVIMENTO DAS CADEIRAS MAGISTRAIS CRIADAS NA SÉ"
+      },
+      {
+        "idNorma": "139488",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "21/02/1840",
+        "nomeNorma": "Lei nº 2, de 21/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "PROVIDENCIA SOBRE O IMPOSTO DO DÍZIMO PROVINCIAL"
+      },
+      {
+        "idNorma": "141471",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "08/02/1840",
+        "nomeNorma": "Lei nº 1, de 08/02/1840",
+        "idTipo": "9",
+        "dsEmenta": "APROVA AS DISPOSIÇÕES CONTIDAS NOS PRIMEIROS 12 ARTIGOS DO REGULAMENTO DE 3 DE AGOSTO DE 1838,  E AUTORIZA O PRESIDENTE DA PROVÍNCIA A NOMEAR OS EMPREGADOS DO DIRETÓRIO VACINICO"
+      },
+      {
+        "idNorma": "139479",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "03/04/1839",
+        "nomeNorma": "Lei nº 12, de 03/04/1839",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA DAS CÂMARAS MUNICIPAIS DA PROVÍNCIA PARA O ANO FINANCEIRO DE 1839 A 1840"
+      },
+      {
+        "idNorma": "139477",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "23/03/1839",
+        "nomeNorma": "Lei nº 11, de 23/03/1839",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA PROVINCIAL PARA O ANO FINANCEIRO DE 1839 A 1840"
+      },
+      {
+        "idNorma": "141470",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "23/03/1839",
+        "nomeNorma": "Lei nº 10, de 23/03/1839",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE TODA A PESSOA QUE NÃO FOR DOMICILIADA NO MUNICÍPIO DE CANANEIA NÃO PODERÁ MASCATEAR EM GENERO ALGUM SEM QUE TIRE LICENÇA DA CÂMARA, PAGANDO POR ELE DEZ MIL RÉIS"
+      },
+      {
+        "idNorma": "141469",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "21/03/1839",
+        "nomeNorma": "Lei nº 9, de 21/03/1839",
+        "idTipo": "9",
+        "dsEmenta": "APROVA AS POSTURAS DA CÂMARA DE JACAREÍ, ESTABELECENDO IMPOSIÇÕES"
+      },
+      {
+        "idNorma": "139465",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "21/03/1839",
+        "nomeNorma": "Lei nº 8, de 21/03/1839",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A FORÇA POLICIAL PARA O ANO FINANCEIRO DE 1839 A 1840"
+      },
+      {
+        "idNorma": "139458",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "14/03/1839",
+        "nomeNorma": "Lei nº 7, de 14/03/1839",
+        "idTipo": "9",
+        "dsEmenta": "CRIA MAIS UMA COMARCA COMPOSTA DE DOIS TERMOS, ELEVA À CATEGORIA DE VILA A FREGUESIA DE BATATAES E ANEXA À 3ª. COMARCA O TERMO DA CONSTITUIÇÃO"
+      },
+      {
+        "idNorma": "139452",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "04/03/1839",
+        "nomeNorma": "Lei nº 6, de 04/03/1839",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA A FREGUESIA A CAPELA CURADA DE NOSSA SENHORA DO AMPARO NO MUNICÍPIO DE BRAGANÇA"
+      },
+      {
+        "idNorma": "141468",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "24/02/1839",
+        "nomeNorma": "Lei nº 5, de 24/02/1839",
+        "idTipo": "9",
+        "dsEmenta": "EXTINGUE A TAXA DE 400 RS POR ESMOLA DETERMINADA NO COMPROMISSO DA IRMANDADE DE NOSSA SENHORA DAS DORES DA VILA DE CUNHA, PELAS MISSAS DITAS PELOS IRMÃOS"
+      },
+      {
+        "idNorma": "141467",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "24/02/1839",
+        "nomeNorma": "Lei nº 4, de 24/02/1839",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA A CONCEDER AO OFICIAL MAIOR DA SECRETARIA DO GOVERNO JOAQUIM JOSÉ AFONSO ALVES, SEIS MESES DE LICENÇA COM ORDENADO"
+      },
+      {
+        "idNorma": "141466",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "16/02/1839",
+        "nomeNorma": "Lei nº 3, de 16/02/1839",
+        "idTipo": "9",
+        "dsEmenta": "APROVA DOIS ARTIGOS DE POSTURAS DA CÂMARA DE ITU IMPONDO SOBRE OS CARROS QUE TRANSITAM NAQUELA VILA"
+      },
+      {
+        "idNorma": "141465",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "30/01/1839",
+        "nomeNorma": "Lei nº 2, de 30/01/1839",
+        "idTipo": "9",
+        "dsEmenta": "ISENTA POR DEZ ANOS DO PAGAMENTO DO DÍZIMO DE EXPORTAÇÃO O SABÃO FABRICADO NESTA PROVÍNCIA"
+      },
+      {
+        "idNorma": "139436",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "28/01/1839",
+        "nomeNorma": "Lei nº 1, de 28/01/1839",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À CATEGORIA DE CIDADE DE SANTOS A VILA DO MESMO NOME"
+      },
+      {
+        "idNorma": "139431",
+        "tipo": "Lei",
+        "nuNorma": "30",
+        "data": "31/03/1838",
+        "nomeNorma": "Lei nº 30, de 31/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "REVOGA A LEI DE 9 DE MARÇO DE 1835, Nº 003, QUE CRIOU A TIPOGRAFIA DO GOVERNO"
+      },
+      {
+        "idNorma": "139426",
+        "tipo": "Lei",
+        "nuNorma": "29",
+        "data": "31/03/1838",
+        "nomeNorma": "Lei nº 29, de 31/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "SUSPENDE A EXECUÇÃO DA LEI DE 24 DE MARÇO DE 1835, QUE CRIOU O GABINETE TOPOGRÁFICO"
+      },
+      {
+        "idNorma": "139421",
+        "tipo": "Lei",
+        "nuNorma": "28",
+        "data": "31/03/1838",
+        "nomeNorma": "Lei nº 28, de 31/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "CRIA MAIS UM ESCRIVÃO DE ÓRFÃOS NA CAPITAL DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "141464",
+        "tipo": "Lei",
+        "nuNorma": "27",
+        "data": "31/03/1838",
+        "nomeNorma": "Lei nº 27, de 31/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "FAZ EXTENSIVA AO MUNICÍPIO DE ITAPEVA DA FAXINA A LEI DE 30 DE JANEIRO DE 1837"
+      },
+      {
+        "idNorma": "139413",
+        "tipo": "Lei",
+        "nuNorma": "26",
+        "data": "30/03/1838",
+        "nomeNorma": "Lei nº 26, de 30/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "EXTINGUE A FAZENDA NORMAL DA CIDADE DE SÃO PAULO"
+      },
+      {
+        "idNorma": "139408",
+        "tipo": "Lei",
+        "nuNorma": "25",
+        "data": "30/03/1838",
+        "nomeNorma": "Lei nº 25, de 30/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA DAS CÂMARAS MUNICIPAIS PARA O ANO FINANCEIRO DE 1838 A 1839"
+      },
+      {
+        "idNorma": "141463",
+        "tipo": "Lei",
+        "nuNorma": "24",
+        "data": "30/03/1838",
+        "nomeNorma": "Lei nº 24, de 30/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA A CONCEDER CARTA DE PRIVILÉGIO EXCLUSIVO À COMPANHIA AGUIAR, VIÚVA E FILHOS E COMPANHIA E A PLATT E REID PARA A FACTURA DE UMA ESTRADA DE FERRO"
+      },
+      {
+        "idNorma": "139400",
+        "tipo": "Lei",
+        "nuNorma": "23",
+        "data": "30/03/1838",
+        "nomeNorma": "Lei nº 23, de 30/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "APROVA OS ESTATUTOS DA CATEDRAL DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "139396",
+        "tipo": "Lei",
+        "nuNorma": "22",
+        "data": "30/03/1838",
+        "nomeNorma": "Lei nº 22, de 30/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA PROVINCIAL PARA O ANO FINANCEIRO DE 1º DE JULHO DE 1838 AO ÚLTIMO DE JUNHO DE 1839"
+      },
+      {
+        "idNorma": "139389",
+        "tipo": "Lei",
+        "nuNorma": "21",
+        "data": "05/03/1838",
+        "nomeNorma": "Lei nº 21, de 05/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "SOBRE A PROPAGAÇÃO DA VACINA"
+      },
+      {
+        "idNorma": "139385",
+        "tipo": "Lei",
+        "nuNorma": "20",
+        "data": "01/03/1838",
+        "nomeNorma": "Lei nº 20, de 01/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "DÁ PROVIDÊNCIAS ACERCA DOS OFÍCIOS DE TABELIÕES DO JUDICIAL E NOTAS DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "139379",
+        "tipo": "Lei",
+        "nuNorma": "19",
+        "data": "01/03/1838",
+        "nomeNorma": "Lei nº 19, de 01/03/1838",
+        "idTipo": "9",
+        "dsEmenta": "DISPÕE SOBRE AS APOSENTADORIA DOS EMPREGADOS PROVINCIAIS"
+      },
+      {
+        "idNorma": "141462",
+        "tipo": "Lei",
+        "nuNorma": "18",
+        "data": "28/02/1838",
+        "nomeNorma": "Lei nº 18, de 28/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO A ENTREGAR À CAMARA MUNICIPAL DE SÃO SEBASTIÃO A QUANTIA DE QUATRO CONTOS DE RÉIS, PARA SER DESPENDIDA COM O MELHORAMENTO DA NOVA ESTRADA QUE COMUNICA A REFERIDA VILA COM O CURATO DE SÃO JOSÉ DO PARAITINGA"
+      },
+      {
+        "idNorma": "141461",
+        "tipo": "Lei",
+        "nuNorma": "17",
+        "data": "28/02/1838",
+        "nomeNorma": "Lei nº 17, de 28/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA À FREGUESIA AS CAPELAS CURADAS, DE NOSSA SENHORA DO SOCORRO, DE ITAQUAQUECETUBA E OUTRAS"
+      },
+      {
+        "idNorma": "141460",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "27/02/1838",
+        "nomeNorma": "Lei nº 16, de 27/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A GRATIFICAÇÃO DO PROFESSOR PÚBLICO DO ENSINO MÚTUO DA FREGUESIA DA SÉ"
+      },
+      {
+        "idNorma": "141459",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "27/02/1838",
+        "nomeNorma": "Lei nº 15, de 27/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "MARCA OS VENCIMENTOS DOS CONTÍNUOS DA ASSEMBLÉIA PROVINCIAL"
+      },
+      {
+        "idNorma": "141458",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "27/02/1838",
+        "nomeNorma": "Lei nº 14, de 27/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA OS EMPRESÁRIOS DO TEATRO PÚBLICO DA CAPITAL A FAZEREM CORRER NO PRESENTE ANO AS DUAS LOTERIAS DE 50 CONTOS DE RÉIS CADA UMA, QUE LHES FORAM CONCEDIDAS PARA O ANO DE 1837"
+      },
+      {
+        "idNorma": "141457",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "26/02/1838",
+        "nomeNorma": "Lei nº 13, de 26/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE AS CRIAÇÕES E SUPRESSÕES DE DISTRITOS DE PAZ QUE O GOVERNO FIZER EM VIRTUDE DA RESOLUÇÃO DE 27/02/1836 SERÃO PRESENTES À ASSEMBLÉIA PROVINCIAL, QUE AS PODERÁ CONFIRMAR OU REVOGAR"
+      },
+      {
+        "idNorma": "141456",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "26/02/1838",
+        "nomeNorma": "Lei nº 12, de 26/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "DESANEXA DO JUÍZO DO CIVEL DA CAPITAL OS MUNICÍPIOS DE SANTO AMARO E DE SANTA ISABEL"
+      },
+      {
+        "idNorma": "141455",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "26/02/1838",
+        "nomeNorma": "Lei nº 11, de 26/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "FIXA A FORÇA POLICIAL"
+      },
+      {
+        "idNorma": "139330",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "21/02/1838",
+        "nomeNorma": "Lei nº 10, de 21/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "AUMENTA A CONGRUA DOS PÁROCOS COLADOS E MARCA A DOS ENCOMENDADOS"
+      },
+      {
+        "idNorma": "139322",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "20/02/1838",
+        "nomeNorma": "Lei nº 9, de 20/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "ORGANIZA A CONTADORIA PROVINCIAL"
+      },
+      {
+        "idNorma": "139315",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "20/02/1838",
+        "nomeNorma": "Lei nº 8, de 20/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "DÁ PROVIDÊNCIAS SOBRE A ARRECADAÇÃO DOS DIREITOS A QUE ESTÃO SUJEITOS OS ANIMAIS QUE PASSAM NOS REGISTROS DO RIO NEGRO E SOROCABA"
+      },
+      {
+        "idNorma": "139309",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "09/02/1838",
+        "nomeNorma": "Lei nº 7, de 09/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "REORGANIZA A SECRETARIA DO GOVERNO"
+      },
+      {
+        "idNorma": "141454",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "03/02/1838",
+        "nomeNorma": "Lei nº 6, de 03/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "DÁ REGRAS SOBRE AS NOMEAÇÕES E PROVIMENTO DE EMPREGADOS PÚBLICOS"
+      },
+      {
+        "idNorma": "141453",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "03/02/1838",
+        "nomeNorma": "Lei nº 5, de 03/02/1838",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA A TOMAR POR EMPRESTIMO DA CAIXA PROVINCIAL A QUANTIA DE VINTE CONTOS DE RÉIS PARA APLICA-LA ÀS DESPESAS DA CAIXA GERAL VENCIDAS NO ULTIMO DIA DE DEZEMBRO DE 1837"
+      },
+      {
+        "idNorma": "140203",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "29/01/1838",
+        "nomeNorma": "Lei nº 4, de 29/01/1838",
+        "idTipo": "9",
+        "dsEmenta": "REVOGA A LEI PROVINCIAL DE 11 DE ABRIL DE 1835, Nº 018, QUE CRIOU OS  PREFEITOS"
+      },
+      {
+        "idNorma": "141446",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "29/01/1838",
+        "nomeNorma": "Lei nº 3, de 29/01/1838",
+        "idTipo": "9",
+        "dsEmenta": "MARCA O SUBSÍDIO DOS DEPUTADOS À ASSEMBLÉIA LEGISLATIVA PROVINCIAL"
+      },
+      {
+        "idNorma": "141445",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "29/01/1838",
+        "nomeNorma": "Lei nº 2, de 29/01/1838",
+        "idTipo": "9",
+        "dsEmenta": "CONCEDE À IGREJA MATRIZ DE SÃO CARLOS A FACULDADE DE ADQUIRIR E POSSUIR POR TITULO DE DOAÇÃO ATÉ A QUANTIA DE DOZE CONTOS DE RÉIS, EM BENS DE RAIZ PARA A CONSERVAÇÃO E AQUISIÇÃO DE ALFAIAS"
+      },
+      {
+        "idNorma": "141444",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "29/01/1838",
+        "nomeNorma": "Lei nº 1, de 29/01/1838",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA A CAMARA MUNICIPAL DA VILA DE ATIBAIA PARA FAZER ARREMATAR EM HASTA PUBLICA A CADEIA VELHA DAQUELA VILA, APLICANDO O PRODUTO À CONCLUSÃO DA OBRA DA CADEIA NOVA"
+      },
+      {
+        "idNorma": "141443",
+        "tipo": "Lei",
+        "nuNorma": "29",
+        "data": "27/05/1837",
+        "nomeNorma": "Lei nº 29, de 27/05/1837",
+        "idTipo": "9",
+        "dsEmenta": "REDUZ A UMA SÓ LOTERIA DE CEM CONTOS DE RÉIS, AS CINCO DE VINTE CONTOS CONCEDIDAS A FAVOR DA SANTA CASA DE MISERICORIDIA DA VILA DE SANTOS"
+      },
+      {
+        "idNorma": "139257",
+        "tipo": "Lei",
+        "nuNorma": "28",
+        "data": "18/03/1837",
+        "nomeNorma": "Lei nº 28, de 18/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PROVIMENTO DAS DIGNIDADES E MAIS CADEIRAS DE CÔNEGOS DA SÉ DESTA CIDADE"
+      },
+      {
+        "idNorma": "139246",
+        "tipo": "Lei",
+        "nuNorma": "27",
+        "data": "18/03/1837",
+        "nomeNorma": "Lei nº 27, de 18/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA DAS CÂMARAS MUNICIPAIS PARA O ANO FINANCEIRO DE 1.º DE OUTUBRO DE 1837 A 30 DE OUTUBRO DE 1838"
+      },
+      {
+        "idNorma": "139236",
+        "tipo": "Lei",
+        "nuNorma": "26",
+        "data": "18/03/1837",
+        "nomeNorma": "Lei nº 26, de 18/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "PROVIDENCIA SOBRE A FALTA DE TRABALHADORES VOLUNTÁRIOS PARA O SERVIÇO DAS ESTRADAS QUE TEM BARREIRAS"
+      },
+      {
+        "idNorma": "141442",
+        "tipo": "Lei",
+        "nuNorma": "25",
+        "data": "17/03/1837",
+        "nomeNorma": "Lei nº 25, de 17/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O FABRIQUEIRO DA IGREJA MATRIZ DE BRAGANÇA A FAZER ARREMATAR EM HASTA PÚBLICA AS TERRAS PERTENCENTES À DITA MATRIZ"
+      },
+      {
+        "idNorma": "141441",
+        "tipo": "Lei",
+        "nuNorma": "24",
+        "data": "17/03/1837",
+        "nomeNorma": "Lei nº 24, de 17/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "EXPLICA COMO SE DEVE ENTENDER A LEI DE 18 DE MARÇO DE 1836"
+      },
+      {
+        "idNorma": "141440",
+        "tipo": "Lei",
+        "nuNorma": "23",
+        "data": "16/03/1837",
+        "nomeNorma": "Lei nº 23, de 16/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "ALTERA O ARTIGO 87  DO CAP. 1º TÍTULO 4º DO COMPROMISSO DA SANTA CASA DE MISERICORDIA DA CAPITAL"
+      },
+      {
+        "idNorma": "141439",
+        "tipo": "Lei",
+        "nuNorma": "22",
+        "data": "16/03/1837",
+        "nomeNorma": "Lei nº 22, de 16/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE OS IMPOSTOS MUNICIPAIS DE 4$000 RS POR PIPA DE QUAISQUER LIQUIDOS E TRÊS RÉIS POR VARA DE PANO DE ALGODÃO QUE SE ARRECADAM NA VILA DE PARANAGUÁ RECAIAM TÃO SOMENTE NOS LIQUIDOS E PANOS DE ALGODÃO IMPORTADOS PARA CONSUMO DAQUELE MUNICÍPIO"
+      },
+      {
+        "idNorma": "141438",
+        "tipo": "Lei",
+        "nuNorma": "21",
+        "data": "15/03/1837",
+        "nomeNorma": "Lei nº 21, de 15/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE AS NOMEAÇÕES PARA INSPETORES DE QUARTEIRÃO NÃO PODERÃO RECAIR SOBRE GUARDAS NACIONAIS DO SERVIÇO ATIVO"
+      },
+      {
+        "idNorma": "141437",
+        "tipo": "Lei",
+        "nuNorma": "20",
+        "data": "15/03/1837",
+        "nomeNorma": "Lei nº 20, de 15/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE OS EMPREGADOS PÚBLICOS PROVINCIAIS APRESENTEM ATESTADOS DE FREQUÊNCIA PARA PODEREM RECEBER SEUS ORDENADOS"
+      },
+      {
+        "idNorma": "141436",
+        "tipo": "Lei",
+        "nuNorma": "19",
+        "data": "14/03/1837",
+        "nomeNorma": "Lei nº 19, de 14/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "CRIA A TAXA DE 20 RS SOBRE CADA ALQUEIRE DE ARROZ PILADO QUE SE EXPORTAR DO MUNICÍPIO DE IGUAPE, E DETERMINA QUE O PRODUTO DESTA TAXA, SEJA APLICADO PARA A CONCLUSÃO DA OBRA DO CANAL QUE COMUNICA A RIBEIRA COM O MAR PEQUENO"
+      },
+      {
+        "idNorma": "141435",
+        "tipo": "Lei",
+        "nuNorma": "18",
+        "data": "14/03/1837",
+        "nomeNorma": "Lei nº 18, de 14/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE O JUIZ DE GUARATINGUETÁ FAÇA ARREMATAR EM HASTA PÚBLICA AS TERRAS PERTENCENTES À SÃO MATEUS, SITAS NO MESMO MUNICÍPIO"
+      },
+      {
+        "idNorma": "141434",
+        "tipo": "Lei",
+        "nuNorma": "17",
+        "data": "13/03/1837",
+        "nomeNorma": "Lei nº 17, de 13/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO A ABRIR UMA NOVA ESTRADA, QUE PARTINDO DE MOGI DAS CRUZES E PASSANDO PELO LUGAR DENOMINADO JURUBATUBA, VÁ AO PONTO DE EMBARQUE MAIS PROXIMO À VILA DE SANTOS"
+      },
+      {
+        "idNorma": "139139",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "13/03/1837",
+        "nomeNorma": "Lei nº 16, de 13/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "SOBRE A CONGRUA E OBRIGAÇÕES DOS PÁROCOS DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "141433",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "11/03/1837",
+        "nomeNorma": "Lei nº 15, de 11/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "APROVA OS ESTATUTOS DA IRMANDADE DO SANTISSIMO SACRAMENTO DA VILA REAL DE PINDAMONHANGABA"
+      },
+      {
+        "idNorma": "139120",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "10/03/1837",
+        "nomeNorma": "Lei nº 14, de 10/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA DESPESA PROVINCIAL PARA O ANO FINANCEIRO DE 1.º DE JULHO DE 1837 AO ÚLTIMO DE JUNHO DE 1838"
+      },
+      {
+        "idNorma": "141432",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "06/03/1837",
+        "nomeNorma": "Lei nº 13, de 06/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "ORGANIZA O CORPO DE MUNICIPAIS PERMANENTES"
+      },
+      {
+        "idNorma": "141431",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "03/03/1837",
+        "nomeNorma": "Lei nº 12, de 03/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "REDUZ A 5 POR CENTO A DECIMA DOS PREDIOS URBANOS, E DETERMINA O MODO DA COBRANÇA DESTE IMPOSTO"
+      },
+      {
+        "idNorma": "141430",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "02/03/1837",
+        "nomeNorma": "Lei nº 11, de 02/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "DÁ INSTRUÇÕES PARA O ENGAJAMENTO PARA OS CORPOS DE MUNICIPAIS PERMANENTES DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "139076",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "01/03/1837",
+        "nomeNorma": "Lei nº 10, de 01/03/1837",
+        "idTipo": "9",
+        "dsEmenta": "DÁ INSTRUÇÕES SOBRE A PRESTAÇÃO DE SERVIÇOS PARA A NAVEGAÇÃO DO RIO TIETÊ E OUTROS DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "141429",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "09/02/1837",
+        "nomeNorma": "Lei nº 9, de 09/02/1837",
+        "idTipo": "9",
+        "dsEmenta": "APROVA OS ESTATUTOS DA IRMANDADE DO SENHOR BOM JESUS DO LIVRAMENTO DA VILA DO BANANAL"
+      },
+      {
+        "idNorma": "141428",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "08/02/1837",
+        "nomeNorma": "Lei nº 8, de 08/02/1837",
+        "idTipo": "9",
+        "dsEmenta": "APOSENTA SEM VENCIMENTOS O CONEGO DA SÉ ALEXANDRE GOMES DE AZEVEDO"
+      },
+      {
+        "idNorma": "141427",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "08/02/1837",
+        "nomeNorma": "Lei nº 7, de 08/02/1837",
+        "idTipo": "9",
+        "dsEmenta": "ISENTA DE QUALQUER IMPOSTO PROVINCIAL, POR ESPAÇO DE 20 ANOS, O CHÁ DE PRODUÇÃO DESTA PROVÍNCIA"
+      },
+      {
+        "idNorma": "141426",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "07/02/1837",
+        "nomeNorma": "Lei nº 6, de 07/02/1837",
+        "idTipo": "9",
+        "dsEmenta": "REUNE O OFÍCIO DE TABELIÃO DO JUDICIAL E NOTAS DA VILA BELA DA PRINCESA AO DE ESCRIVÃO DE ORFÃOS DA MESMA VILA"
+      },
+      {
+        "idNorma": "139023",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "07/02/1837",
+        "nomeNorma": "Lei nº 5, de 07/02/1837",
+        "idTipo": "9",
+        "dsEmenta": "DECLARA COMPREENDIDO NO ART. 23 DA LEI DO 001º DE OUTUBRO DE 1828, O SOGRO E GENRO; BEM COMO QUE O CIDADÃO QUE TIVER SERVIDO PELO TEMPO DA LEI OS CARGOS DE VEREADOR OU DE JUÍZ DE PAZ, OU MUNICIPAL, OU DE ÓRFÃOS, OU DE PROMOTOR NÃO PODERÁ SER CONSTRANGIDO A SERVIR QUALQUER DELES, SENÃO DEPOIS DE HAVER DECORRIDO IGUAL ESPAÇO DE TEMPO"
+      },
+      {
+        "idNorma": "139013",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "04/02/1837",
+        "nomeNorma": "Lei nº 4, de 04/02/1837",
+        "idTipo": "9",
+        "dsEmenta": "CONCEDE POR ESPAÇO DE QUATRO ANOS UMA LOTERIA ANUALMENTE EM BENEFÍCIO DO TEATRO PÚBLICO DESTA CIDADE E CONFORME O PLANO QUE ACOMPANHA A RESOLUÇÃO"
+      },
+      {
+        "idNorma": "139009",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "30/01/1837",
+        "nomeNorma": "Lei nº 3, de 30/01/1837",
+        "idTipo": "9",
+        "dsEmenta": "CRIA IMPOSTOS PARA A CÂMARA MUNICIPAL DA CAPITAL"
+      },
+      {
+        "idNorma": "138995",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "22/01/1837",
+        "nomeNorma": "Lei nº 2, de 22/01/1837",
+        "idTipo": "9",
+        "dsEmenta": "CONCEDE À IRMANDADE DA VENERÁVEL ORDEM 3º DE NOSSA SENHORA DO CARMO DA CAPITAL, A FACULDADE DE ADQUIRIR POR TÍTULO GRATUITO E DE POSSUIR EM BENS DE RAIZ ATÉ A QUANTIA DE CEM CONTOS DE RÉIS"
+      },
+      {
+        "idNorma": "141424",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "18/01/1837",
+        "nomeNorma": "Lei nº 1, de 18/01/1837",
+        "idTipo": "9",
+        "dsEmenta": "DESANEXA DO JUIZO DO CIVEL DA CIDADE DE SÃO PAULO OS MUNICÍPIOS DAS VILAS DE ATIBAIA E MOGI DAS CRUZES"
+      },
+      {
+        "idNorma": "141423",
+        "tipo": "Lei",
+        "nuNorma": "43",
+        "data": "21/03/1836",
+        "nomeNorma": "Lei nº 43, de 21/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "APROVA O COMPROMISSO DA IRMANDADE DA SANTA CASA DE MISERICORDIA DA VILA DE SANTOS"
+      },
+      {
+        "idNorma": "141422",
+        "tipo": "Lei",
+        "nuNorma": "42",
+        "data": "21/03/1836",
+        "nomeNorma": "Lei nº 42, de 21/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "AMPLIA O REGIMENTO DA ASSEMBLEIA PROVINCIAL"
+      },
+      {
+        "idNorma": "138948",
+        "tipo": "Lei",
+        "nuNorma": "41",
+        "data": "21/03/1836",
+        "nomeNorma": "Lei nº 41, de 21/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA DAS CÂMARAS MUNICIPAIS PARA O ANO FINANCEIRO DE 1.º DE OUTUBRO DE 1836 A 30 DE SETEMBRO DE 1837"
+      },
+      {
+        "idNorma": "138934",
+        "tipo": "Lei",
+        "nuNorma": "40",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 40, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA PARA O ANO FINANCEIRO DE 1.º DE JULHO DE 1836 AO ÚLTIMO DE JUNHO DE 1837"
+      },
+      {
+        "idNorma": "138920",
+        "tipo": "Lei",
+        "nuNorma": "39",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 39, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "DECLARA QUE OS FABRIQUEIROS DAS IGREJAS MATRIZES SERÃO NOMEADOS E DEMITIDOS PELA CÂMARAS MUNICIPAIS"
+      },
+      {
+        "idNorma": "138905",
+        "tipo": "Lei",
+        "nuNorma": "38",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 38, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "MARCA OS CASOS E A MANEIRA PORQUE DEVE TER LUGAR A DESAPROPRIAÇÃO POR UTILIDADE MUNICIPAL OU PROVINCIAL"
+      },
+      {
+        "idNorma": "141421",
+        "tipo": "Lei",
+        "nuNorma": "37",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 37, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "JUBILA JOSE GONÇALVES DE GODOY, PROFESSOR PUBLICO DE GRAMATICA LATINA DA VILA DE SOROCABA"
+      },
+      {
+        "idNorma": "138878",
+        "tipo": "Lei",
+        "nuNorma": "36",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 36, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "MARCA O DIA 7 DE SETEMBRO DO ANO ANTERIOR A CADA LEGISLATURA PARA ELEIÇÃO DOS DEPUTADOS À ASSEMBLÉIA LEGISLATIVA PROVINCIAL"
+      },
+      {
+        "idNorma": "138864",
+        "tipo": "Lei",
+        "nuNorma": "35",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 35, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA OS PROFESSORES DE PRIMEIRAS LETRAS A CASTIGAREM MODERADAMENTE OS SEUS DISCÍPULOS"
+      },
+      {
+        "idNorma": "138846",
+        "tipo": "Lei",
+        "nuNorma": "34",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 34, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE O QUE AS PARTES DEVEM PAGAR PELAS CERTIDÕES PASSADAS NA SECRETARIA DA ASSEMBLÉIA"
+      },
+      {
+        "idNorma": "138826",
+        "tipo": "Lei",
+        "nuNorma": "33",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 33, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA A CRIAR, SUPRIMIR E ALTERAR AS CABEÇAS DE TERMOS"
+      },
+      {
+        "idNorma": "138808",
+        "tipo": "Lei",
+        "nuNorma": "32",
+        "data": "18/03/1836",
+        "nomeNorma": "Lei nº 32, de 18/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO A CONCEDER CARTA DE PRIVILÉGIO EXCLUSIVO À CAMPANHIA DE AGUIAR, VIÚVA E FILHOS, PLATT E REID, E NA FALTA DELES A OUTROS, PARA A FATURA DE UMA ESTRADA DE FERRO"
+      },
+      {
+        "idNorma": "138782",
+        "tipo": "Lei",
+        "nuNorma": "31",
+        "data": "10/03/1836",
+        "nomeNorma": "Lei nº 31, de 10/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "CRIA UMA COMPANHIA DE GUARDAS MUNICIPAIS PERMANENTES PARA SER ESTACIONADA NA ESTRADA ENTRE ESTA PROVÍNCIA E A DO RIO GRANDE DO SUL"
+      },
+      {
+        "idNorma": "138763",
+        "tipo": "Lei",
+        "nuNorma": "30",
+        "data": "07/03/1836",
+        "nomeNorma": "Lei nº 30, de 07/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "APROVA O COMPROMISSO DA IRMANDADE DA SANTA CASA DE MISERICÓRDIA DA VILA DE PARANAGUÁ"
+      },
+      {
+        "idNorma": "141420",
+        "tipo": "Lei",
+        "nuNorma": "29",
+        "data": "07/03/1836",
+        "nomeNorma": "Lei nº 29, de 07/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE AS IMPOSIÇÕES MUNICIPAIS QUE SE PAGAM NO RIO IGUARIAIVA SÓ CONTINUARÃO A SER COBRADAS, ONDE MELHOR CONVIER, PELA RESPECTIVA CÂMARA DO MUNICÍPIO EM QUE OS GÊNEROS FOREM CONSUMIDOS"
+      },
+      {
+        "idNorma": "141419",
+        "tipo": "Lei",
+        "nuNorma": "28",
+        "data": "07/03/1836",
+        "nomeNorma": "Lei nº 28, de 07/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABALECE NO MUNICÍPIO DE PORTO FELIZ UMA CAPTAÇÃO DE 160 RS SOBRE TODAS AS PESSOAS LIVRES E ESCRAVAS, EXCETO AS MENORES DE 10 ANOS"
+      },
+      {
+        "idNorma": "138709",
+        "tipo": "Lei",
+        "nuNorma": "27",
+        "data": "07/03/1836",
+        "nomeNorma": "Lei nº 27, de 07/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA A IRMANDADE DA SANTA CASA DE MISERICÓRDIA DA VILA DE PARANAGUÁ PARA PODER POSSUIR ATÉ A QUANTIA DE 40:000$000 rs. EM BENS DE RAIZ"
+      },
+      {
+        "idNorma": "141418",
+        "tipo": "Lei",
+        "nuNorma": "26",
+        "data": "07/03/1836",
+        "nomeNorma": "Lei nº 26, de 07/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE IMPOSIÇÕES NO MUNICÍPIO DA VILA DE SANTOS"
+      },
+      {
+        "idNorma": "138672",
+        "tipo": "Lei",
+        "nuNorma": "25",
+        "data": "05/03/1836",
+        "nomeNorma": "Lei nº 25, de 05/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA A FREGUESIA O CURATO DE SANTO ANTÔNIO NO MUNICÍPIO DE SÃO JOÃO DE ATIBAIA"
+      },
+      {
+        "idNorma": "138655",
+        "tipo": "Lei",
+        "nuNorma": "24",
+        "data": "05/03/1836",
+        "nomeNorma": "Lei nº 24, de 05/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "CRIA CADEIRAS DE PRIMEIRAS LETRAS NAS FREGUESIAS DE MORRETES, SILVEIRAS, JUQUERY E LIMEIRA"
+      },
+      {
+        "idNorma": "138635",
+        "tipo": "Lei",
+        "nuNorma": "23",
+        "data": "05/03/1836",
+        "nomeNorma": "Lei nº 23, de 05/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "DECLARA QUEM DEVE RUBRICAR OS LIVROS DE BATIZADOS, CASAMENTOS E ÓBITOS E OUTROS QUAISQUER QUE DEVAM SER RUBRICADOS NAS PARÓQUIAS"
+      },
+      {
+        "idNorma": "138612",
+        "tipo": "Lei",
+        "nuNorma": "22",
+        "data": "05/03/1836",
+        "nomeNorma": "Lei nº 22, de 05/03/1836",
+        "idTipo": "9",
+        "dsEmenta": "DÁ PROVIDÊNCIAS PARA A CONCLUSÃO DA PONTE SOBRE O RIO PARAÍBA NA ESTRADA DE JACAREÍ PARA PARAIBUNA E SÃO SEBASTIÃO"
+      },
+      {
+        "idNorma": "141417",
+        "tipo": "Lei",
+        "nuNorma": "21",
+        "data": "29/02/1836",
+        "nomeNorma": "Lei nº 21, de 29/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA A CAMARA MUNICIPAL DA VILA DE BRAGANÇA A VENDER EM HASTA PUBLICA A CADEIA VELHA DA MESMA VILA APLICANDO SEU PRODUTO PARA A CONCLUSÃO DA QUE SE ESTÁ CONSTRUINDO DE NOVO"
+      },
+      {
+        "idNorma": "141415",
+        "tipo": "Lei",
+        "nuNorma": "20",
+        "data": "27/02/1836",
+        "nomeNorma": "Lei nº 20, de 27/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA AO PRESIDENTE DA PROVÍNCIA A CRIAR, SUPRIMIR E ALTERAR OS DISTRITOS DE PAZ COMO LHE PARECER CONVENIENTE, PRECEDENDO AUDIÊNCIA DAS CAMARAS RESPECTIVAS"
+      },
+      {
+        "idNorma": "141414",
+        "tipo": "Lei",
+        "nuNorma": "19",
+        "data": "27/02/1836",
+        "nomeNorma": "Lei nº 19, de 27/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "CONCEDE POR ESPAÇO DE 5 ANOS UMA LOTERIA ANUALMENTE EM BENEFÍCIO DO THEATRO DESTA CIDADE"
+      },
+      {
+        "idNorma": "141413",
+        "tipo": "Lei",
+        "nuNorma": "18",
+        "data": "27/02/1836",
+        "nomeNorma": "Lei nº 18, de 27/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "CONCEDE ANUALMENTE, POR ESPAÇO DE 5 ANOS, UMA LOTERIA EM BENEFÍCIO DA SANTA CASA DE MISERICÓRDIA DA VILA DE SANTOS, CONFORME PLANO APRESENTADO PELA RESPECTIVA IRMANDADE"
+      },
+      {
+        "idNorma": "141410",
+        "tipo": "Lei",
+        "nuNorma": "17",
+        "data": "27/02/1836",
+        "nomeNorma": "Lei nº 17, de 27/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "DISPÕE QUE A RESOLUÇÃO Nº 19 DE 11 DE ABRIL DE 1835, CONTINUA EM SEU INTEIRO VIGOR"
+      },
+      {
+        "idNorma": "141409",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "27/02/1836",
+        "nomeNorma": "Lei nº 16, de 27/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO DA PROVÍNCIA A DESPENDER ATÉ A QUANTIA DE 400$RS, PARA FAZER EXPLORAR A NOVA ESTRADA QUE DEVE COMUNICAR A VILA DE CANANÉIA COM A DE CORITIBA"
+      },
+      {
+        "idNorma": "141408",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "27/02/1836",
+        "nomeNorma": "Lei nº 15, de 27/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE A CÂMARA MUNICIPAL DA VILA DE TAUBATÉ FARÁ ABRIR UMA NOVA ESTRADA DE COMUNICAÇÃO COM A PROVÍNCIA DE MINAS GERAIS"
+      },
+      {
+        "idNorma": "138487",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "23/02/1836",
+        "nomeNorma": "Lei nº 14, de 23/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "MANDA ESTABELECER UMA FAZENDA NORMAL NÃO LONGE DESTA CAPITAL E DETERMINA O OBJETO A QUE DEVERÁ SER DESTINADA"
+      },
+      {
+        "idNorma": "138470",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "23/02/1836",
+        "nomeNorma": "Lei nº 13, de 23/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO PARA FIXAR AS DIVISAS ENTRE AS VILAS E FREGUESIAS QUE AS NÃO TIVERAM CLARAMENTE DESIGNADAS"
+      },
+      {
+        "idNorma": "138452",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "23/02/1836",
+        "nomeNorma": "Lei nº 12, de 23/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE A GRADUAÇÃO QUE DEVERÃO TER 1º E 2º COMANDANTES DA GUARDA POLICIAL E A FORMA DE SUA NOMEAÇÃO"
+      },
+      {
+        "idNorma": "138436",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "23/02/1836",
+        "nomeNorma": "Lei nº 11, de 23/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE O MODO DA NOMEAÇÃO DOS OFICIAIS E INFERIORES DAS GUARDAS NACIONAIS DESTA PROVÍNCIA"
+      },
+      {
+        "idNorma": "138418",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "23/02/1836",
+        "nomeNorma": "Lei nº 10, de 23/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE A MANEIRA PORQUE DEVERÃO SER ORGANIZADOS OS BALANÇOS DA RECEITA E DESPESA PROVINCIAL DOS ANOS FINDOS E OS ORÇAMENTOS PARA FUTUROS ANOS FINANCEIROS"
+      },
+      {
+        "idNorma": "141406",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "19/02/1836",
+        "nomeNorma": "Lei nº 9, de 19/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO DA PROVÍNCIA A ARREMATAR EM HASTA PÚBLICA DAS TERRAS PERTENCENTES À MATRIZ DA VILA DO BANANAL, E A APLICAR SEU PRODUTO ÀS OBRAS DA DITA MATRIZ"
+      },
+      {
+        "idNorma": "138387",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "19/02/1836",
+        "nomeNorma": "Lei nº 8, de 19/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "ELEVA A CONGRUA DO CURA DA FEGUESIA DA SÉ DESDE JÁ A 400$000 rs., FICANDO ESTE CURATO DESANEXADO DO CABIDO DA CATEDRAL"
+      },
+      {
+        "idNorma": "138370",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "19/02/1836",
+        "nomeNorma": "Lei nº 7, de 19/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "PERMITE À IRMANDADE DA SANTA CASA DE MISERICÓRDIA DA VILA DE SANTOS, A FACULDADE DE ADQUIRIR ATÉ A QUANTIA DE 200.000$000 rs. EM BENS DE RAIZ"
+      },
+      {
+        "idNorma": "138355",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "19/02/1836",
+        "nomeNorma": "Lei nº 6, de 19/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA O MODO PORQUE AS CÂMARAS MUNICIPAIS DEVERÃO ORGANIZAR SUAS CONTAS DE RECEITA, DESPESA E ORÇAMENTOS"
+      },
+      {
+        "idNorma": "138339",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "19/02/1836",
+        "nomeNorma": "Lei nº 5, de 19/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "ESTABELECE A MANEIRA DE PROCEDER-SE AO ARROLAMENTO DE TODAS AS PESSOAS EXISTENTES NESTA PROVÍNCIA"
+      },
+      {
+        "idNorma": "138320",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "12/02/1836",
+        "nomeNorma": "Lei nº 4, de 12/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "APROVA O REGIMENTO DA ASSEMBLÉIA LEGISLATIVA PROVINCIAL"
+      },
+      {
+        "idNorma": "138303",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "09/02/1836",
+        "nomeNorma": "Lei nº 3, de 09/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "APROVA OS ESTATUTOS DA CONFRARIA DE NOSSA SENHORA DO REMÉDIO DESTA CIDADE"
+      },
+      {
+        "idNorma": "138284",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "09/02/1836",
+        "nomeNorma": "Lei nº 2, de 09/02/1836",
+        "idTipo": "9",
+        "dsEmenta": "APROVA O COMPROMISSO DA IRMANDADE DA SANTA CASA DE MISERICÓRDIA DESTA CIDADE"
+      },
+      {
+        "idNorma": "141405",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "30/01/1836",
+        "nomeNorma": "Lei nº 1, de 30/01/1836",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE EM TODAS AS ESTAÇÕES PÚBLICAS SE PASSEM CERTIDÕES AUTÊNTICAS INDEPENDENTEMENTE DE DESPACHO"
+      },
+      {
+        "idNorma": "141399",
+        "tipo": "Lei",
+        "nuNorma": "19",
+        "data": "11/04/1835",
+        "nomeNorma": "Lei nº 19, de 11/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O PRESIDENTE DA PROVÍNCIA POR UM ANO A PROVER, INTERINAMENTE, SEM PROPOSTA OU OUTRA FORMALIDADE, OS EMPREGADOS DE SUA COMPETÊNCIA, ENTRE OS QUAIS SE COMPREENDEM OS JUÍZES DE DIREITO E DO CÍVEL"
+      },
+      {
+        "idNorma": "138237",
+        "tipo": "Lei",
+        "nuNorma": "18",
+        "data": "11/04/1835",
+        "nomeNorma": "Lei nº 18, de 11/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "CRIA O EMPREGO DE PREFEITO NESTA CIDADE E EM CADA UMA DAS VILAS DESTA PROVÍNCIA"
+      },
+      {
+        "idNorma": "138215",
+        "tipo": "Lei",
+        "nuNorma": "17",
+        "data": "11/04/1835",
+        "nomeNorma": "Lei nº 17, de 11/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "MARCA A RECEITA E FIXA A DESPESA PROVINCIAL PARA O ANO FINANCEIRO DE 1º DE JULHO DE 1835 AO ÚLTIMO DE JUNHO DE 1836"
+      },
+      {
+        "idNorma": "138199",
+        "tipo": "Lei",
+        "nuNorma": "16",
+        "data": "11/04/1835",
+        "nomeNorma": "Lei nº 16, de 11/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA O GOVERNO A DESPENDER O QUE FOR NECESSÁRIO PARA A REDAÇÃO E IMPRESSÃO DA ESTATÍSTICA DA PROVÍNCIA"
+      },
+      {
+        "idNorma": "141404",
+        "tipo": "Lei",
+        "nuNorma": "15",
+        "data": "11/04/1835",
+        "nomeNorma": "Lei nº 15, de 11/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "MARCA O DIA DA REUNIÃO DA ASSEMBLÉIA LEGISLATIVA PROVINCIAL"
+      },
+      {
+        "idNorma": "138153",
+        "tipo": "Lei",
+        "nuNorma": "14",
+        "data": "04/04/1835",
+        "nomeNorma": "Lei nº 14, de 04/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "MARCA O SUBSÍDIO E AJUDA DE CUSTO DOS MEMBROS DA SEGUINTE LEGISLATURA"
+      },
+      {
+        "idNorma": "138134",
+        "tipo": "Lei",
+        "nuNorma": "13",
+        "data": "04/04/1835",
+        "nomeNorma": "Lei nº 13, de 04/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE AS PONTES E ATERRADOS DAS ESTRADAS, CUJA CONSERVAÇÃO É AS CUSTAS DOS PROPRIETÁRIOS, FIQUEM A CARGO DAS CÂMARAS QUANDO EXCEDEREM AO VALOR DE 10$000 rs."
+      },
+      {
+        "idNorma": "138116",
+        "tipo": "Lei",
+        "nuNorma": "12",
+        "data": "04/04/1835",
+        "nomeNorma": "Lei nº 12, de 04/04/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA A MANEIRA DA PUBLICAÇÃO DAS LEIS"
+      },
+      {
+        "idNorma": "138111",
+        "tipo": "Lei",
+        "nuNorma": "11",
+        "data": "24/03/1835",
+        "nomeNorma": "Lei nº 11, de 24/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA O ESTABELECIMENTO DE BARREIRAS EM TODAS AS ESTRADAS EXISTENTES OU QUE DE NOVO SE ABRIREM, ATRAVESSANDO A SERRA DO MAR NESTA PROVÍNCIA, OU SEGUINDO PARA O RIO DE JANEIRO, PARA COBRANÇA DA TAXA QUE DEVERÁ SER APLICADA ÀS OBRAS DAS MESMAS ESTRADAS"
+      },
+      {
+        "idNorma": "138092",
+        "tipo": "Lei",
+        "nuNorma": "10",
+        "data": "24/03/1835",
+        "nomeNorma": "Lei nº 10, de 24/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "CRIA NESTA CAPITAL UM GABINETE TOPOGRÁFICO"
+      },
+      {
+        "idNorma": "138075",
+        "tipo": "Lei",
+        "nuNorma": "9",
+        "data": "24/03/1835",
+        "nomeNorma": "Lei nº 9, de 24/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZA AO GOVERNO PARA DESIGNAR QUALQUER DOS ORDENADOS INFERIORES ESTABELECIDOS NO DECRETO DE 7 DE AGOSTO DE 1832, AOS PROFESSORES DE PEQUENA POPULAÇÃO E PARA PROVER INTERINAMENTE AS CADEIRAS DE ENSINO DE MENINAS"
+      },
+      {
+        "idNorma": "141403",
+        "tipo": "Lei",
+        "nuNorma": "8",
+        "data": "23/03/1835",
+        "nomeNorma": "Lei nº 8, de 23/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINA QUE IMPOSIÇÃO DE 5 RÉIS, EM LIBRA,  DE CARNE VERDE, CRIADA PELO ALVARÁ DE 3 DE JUNHO DE 1809, FICA SUBSTITUIDA PELA COTA DE 1$600RS, QUE DEVERÃO SER PAGOS DE TODA E QUALQUER REZ MORTA QUE FOR VENDIDA NO TODO OU A RETALHO"
+      },
+      {
+        "idNorma": "141402",
+        "tipo": "Lei",
+        "nuNorma": "7",
+        "data": "23/03/1835",
+        "nomeNorma": "Lei nº 7, de 23/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "FAZENDO EXTENSIVA EM TODA SUA PLENITUDE, A FAVOR DO HOSPITAL DA MISERICÓRDIA DA VILA DE SANTOS, A CONTRIBUIÇÃO DA MARINHA, ESTABELECIDA NA CORTE DO RIO DE JANEIRO PELAS DISPOSIÇÕES DE ALVARÁ"
+      },
+      {
+        "idNorma": "141401",
+        "tipo": "Lei",
+        "nuNorma": "6",
+        "data": "12/03/1835",
+        "nomeNorma": "Lei nº 6, de 12/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINANDO QUE NOMEAÇÃO, SUBSTITUIÇÃO E DEMISSÃO DOS TESOUREIROS DOS COFRES DOS ORFÃOS DA PROVÍNCIA, COMPETE A CADA UM DOS JUIZES DE ORFÃOS NO TERMO DE SUA JURISDIÇÃO, DEBAIXO DE SUA RESPONSABILIDADE"
+      },
+      {
+        "idNorma": "141400",
+        "tipo": "Lei",
+        "nuNorma": "5",
+        "data": "12/03/1835",
+        "nomeNorma": "Lei nº 5, de 12/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINANDO QUE AOS JUÍZES DE DIREITO SÃO DEVIDOS, TÃO SOMENTE NAS CAUSAS CIVEIS, OS EMOLUMENTOS, QUE AOS JUIZES DE FÓRA COMPETIAM PELO REGIMENTO DE 10 DE OUTUBRO DE 1754"
+      },
+      {
+        "idNorma": "137973",
+        "tipo": "Lei",
+        "nuNorma": "4",
+        "data": "12/03/1835",
+        "nomeNorma": "Lei nº 4, de 12/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "DETERMINANDO QUE OS DÍZIMOS QUE FICARAM PERTENCENDO A RECEITA PROVINCIAL SEJAM SOMENTE COBRADOS NA EXPORTAÇÃO DOS GÊNEROS PARA FORA DA PROVÍNCIA E FAZENDO EXTENSIVA ESTA IMPOSIÇÃO A TODOS OS MAIS  PRODUTOS E CRIAÇÃO HAVIDOS NA PROVÍNCIA"
+      },
+      {
+        "idNorma": "137962",
+        "tipo": "Lei",
+        "nuNorma": "3",
+        "data": "09/03/1835",
+        "nomeNorma": "Lei nº 3, de 09/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "REVOGANDO A LEI DE 27 DE AGOSTO DE 1830, NA PARTE RELATIVA AOS COLETORES E ESCRIVÃES ESPECIAIS PARA A ARRECADAÇÃO DA DÉCIMA DE PRÉDIOS URBANOS"
+      },
+      {
+        "idNorma": "137943",
+        "tipo": "Lei",
+        "nuNorma": "2",
+        "data": "09/03/1835",
+        "nomeNorma": "Lei nº 2, de 09/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "MANDANDO CONTINUAR A CARGO DA TESOURARIA, A ARRECADAÇÃO, ADMINISTRAÇÃO, DISTRIBUIÇÃO E CONTABILIDADE DAS RENDAS PROVINCIAIS, E AUTORIZANDO O GOVERNO A DESPENDER ANUALMENTE A QUANTIA DE 4.000$000rs. PARA O ESTABELECIMENTO DE UMA ESTAÇÃO  DESTINADA ÀQUELE FIM"
+      },
+      {
+        "idNorma": "137919",
+        "tipo": "Lei",
+        "nuNorma": "1",
+        "data": "09/03/1835",
+        "nomeNorma": "Lei nº 1, de 09/03/1835",
+        "idTipo": "9",
+        "dsEmenta": "AUTORIZANDO O GOVERNO A DESPENDER O QUE FOR NECESSÁRIO PARA A IMPRESSÃO E DISTRIBUIÇÃO DE UMA FOLHA DIÁRIA EM QUE SE TRANSCREVAM OS ATOS OFICIAIS"
+      }
+    ],
+    "totalPages": 182,
+    "totalElements": 181192,
+    "number": 181,
+    "size": 1000,
+    "numberOfElements": 192,
+    "last": true
+  }
+}

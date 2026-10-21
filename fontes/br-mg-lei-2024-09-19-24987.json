@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-09-19-24987",
+  "titulo": "LEI nº 24987, de 19/09/2024",
+  "data": "2024-09-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24987/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24987/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9465791677683e7593d78c9e14c362dda111397e7f6638812fed20a9c985f4af",
+  "coletado_em": "2026-10-21T08:41:49.702Z",
+  "sha256_fonte": "612917cb8a0414a88b81c14f065e31153261d6834c548fbf8ba7ea309f223e84",
+  "sha256_markdown": "d0b3c72e16d463e21a04f7abef07b912d6d57c347c5727ea9f3e39046676aaba"
+}

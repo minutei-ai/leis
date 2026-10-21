@@ -1,0 +1,604 @@
+{
+  "ano_publicacao": 1959,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1959",
+    "ano-final": "31/12/1959",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:58.087Z",
+  "total": 97,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "eb21a8b1a69fab3ec7366bd816c5a17a6aaca32fd0cbad83717bc3670f0b2096"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5674-de-24-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.674 de 24 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-24-5674",
+      "data": "1959-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5673-de-24-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.673 de 24 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-24-5673",
+      "data": "1959-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5672-de-24-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.672 de 24 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-24-5672",
+      "data": "1959-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5671-de-24-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.671 de 24 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-24-5671",
+      "data": "1959-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5670-de-22-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.670 de 22 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-22-5670",
+      "data": "1959-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5669-de-18-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.669 de 18 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-18-5669",
+      "data": "1959-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5668-de-18-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.668 de 18 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-18-5668",
+      "data": "1959-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5667-de-17-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.667 de 17 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-17-5667",
+      "data": "1959-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5666-de-17-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.666 de 17 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-17-5666",
+      "data": "1959-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5665-de-14-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.665 de 14 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-14-5665",
+      "data": "1959-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5664-de-10-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.664 de 10 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-10-5664",
+      "data": "1959-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5663-de-10-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.663 de 10 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-10-5663",
+      "data": "1959-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5662-de-4-de-dezembro-de-1959",
+      "titulo": "LEI Nº 5.662 de 4 de Dezembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-12-04-5662",
+      "data": "1959-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5661-de-30-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.661 de 30 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-30-5661",
+      "data": "1959-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5660-de-25-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.660 de 25 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-25-5660",
+      "data": "1959-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5659-de-23-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.659 de 23 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-23-5659",
+      "data": "1959-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5658-de-16-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.658 de 16 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-16-5658",
+      "data": "1959-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5657-de-16-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.657 de 16 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-16-5657",
+      "data": "1959-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5656-de-16-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.656 de 16 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-16-5656",
+      "data": "1959-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5655-de-3-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.655 de 3 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-03-5655",
+      "data": "1959-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5654-de-3-de-novembro-de-1959",
+      "titulo": "LEI Nº 5.654 de 3 de Novembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-11-03-5654",
+      "data": "1959-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5653-de-27-de-outubro-de-1959",
+      "titulo": "LEI Nº 5.653 de 27 de Outubro de 1959",
+      "id": "br-municipal-3550308-lei-1959-10-27-5653",
+      "data": "1959-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5652-de-27-de-outubro-de-1959",
+      "titulo": "LEI Nº 5.652 de 27 de Outubro de 1959",
+      "id": "br-municipal-3550308-lei-1959-10-27-5652",
+      "data": "1959-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5651-de-27-de-outubro-de-1959",
+      "titulo": "LEI Nº 5.651 de 27 de Outubro de 1959",
+      "id": "br-municipal-3550308-lei-1959-10-27-5651",
+      "data": "1959-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5650-de-22-de-outubro-de-1959",
+      "titulo": "LEI Nº 5.650 de 22 de Outubro de 1959",
+      "id": "br-municipal-3550308-lei-1959-10-22-5650",
+      "data": "1959-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5649-de-22-de-outubro-de-1959",
+      "titulo": "LEI Nº 5.649 de 22 de Outubro de 1959",
+      "id": "br-municipal-3550308-lei-1959-10-22-5649",
+      "data": "1959-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5648-de-22-de-outubro-de-1959",
+      "titulo": "LEI Nº 5.648 de 22 de Outubro de 1959",
+      "id": "br-municipal-3550308-lei-1959-10-22-5648",
+      "data": "1959-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5647-de-28-de-setembro-de-1959",
+      "titulo": "LEI Nº 5.647 de 28 de Setembro de 1959",
+      "id": "br-municipal-3550308-lei-1959-09-28-5647",
+      "data": "1959-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5646-de-26-de-agosto-de-1959",
+      "titulo": "LEI Nº 5.646 de 26 de Agosto de 1959",
+      "id": "br-municipal-3550308-lei-1959-08-26-5646",
+      "data": "1959-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5645-de-25-de-agosto-de-1959",
+      "titulo": "LEI Nº 5.645 de 25 de Agosto de 1959",
+      "id": "br-municipal-3550308-lei-1959-08-25-5645",
+      "data": "1959-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5644-de-25-de-agosto-de-1959",
+      "titulo": "LEI Nº 5.644 de 25 de Agosto de 1959",
+      "id": "br-municipal-3550308-lei-1959-08-25-5644",
+      "data": "1959-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5643-de-19-de-agosto-de-1959",
+      "titulo": "LEI Nº 5.643 de 19 de Agosto de 1959",
+      "id": "br-municipal-3550308-lei-1959-08-19-5643",
+      "data": "1959-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5642-de-18-de-agosto-de-1959",
+      "titulo": "LEI Nº 5.642 de 18 de Agosto de 1959",
+      "id": "br-municipal-3550308-lei-1959-08-18-5642",
+      "data": "1959-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5641-de-30-de-julho-de-1959",
+      "titulo": "LEI Nº 5.641 de 30 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-30-5641",
+      "data": "1959-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5640-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.640 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5640",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5639-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.639 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5639",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5638-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.638 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5638",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5637-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.637 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5637",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5636-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.636 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5636",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5635-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.635 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5635",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5634-de-27-de-julho-de-1959",
+      "titulo": "LEI Nº 5.634 de 27 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-27-5634",
+      "data": "1959-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5633-de-21-de-julho-de-1959",
+      "titulo": "LEI Nº 5.633 de 21 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-21-5633",
+      "data": "1959-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5632-de-21-de-julho-de-1959",
+      "titulo": "LEI Nº 5.632 de 21 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-21-5632",
+      "data": "1959-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5631-de-13-de-julho-de-1959",
+      "titulo": "LEI Nº 5.631 de 13 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-13-5631",
+      "data": "1959-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5630-de-13-de-julho-de-1959",
+      "titulo": "LEI Nº 5.630 de 13 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-13-5630",
+      "data": "1959-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5629-de-13-de-julho-de-1959",
+      "titulo": "LEI Nº 5.629 de 13 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-13-5629",
+      "data": "1959-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5628-de-10-de-julho-de-1959",
+      "titulo": "LEI Nº 5.628 de 10 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-10-5628",
+      "data": "1959-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5627-de-3-de-julho-de-1959",
+      "titulo": "LEI Nº 5.627 de 3 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-03-5627",
+      "data": "1959-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5626-de-1-de-julho-de-1959",
+      "titulo": "LEI Nº 5.626 de 1 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-01-5626",
+      "data": "1959-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5625-de-1-de-julho-de-1959",
+      "titulo": "LEI Nº 5.625 de 1 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-01-5625",
+      "data": "1959-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5624-de-1-de-julho-de-1959",
+      "titulo": "LEI Nº 5.624 de 1 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-01-5624",
+      "data": "1959-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5623-de-1-de-julho-de-1959",
+      "titulo": "LEI Nº 5.623 de 1 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-01-5623",
+      "data": "1959-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5622-de-1-de-julho-de-1959",
+      "titulo": "LEI Nº 5.622 de 1 de Julho de 1959",
+      "id": "br-municipal-3550308-lei-1959-07-01-5622",
+      "data": "1959-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5621-de-25-de-junho-de-1959",
+      "titulo": "LEI Nº 5.621 de 25 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-25-5621",
+      "data": "1959-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5620-de-17-de-junho-de-1959",
+      "titulo": "LEI Nº 5.620 de 17 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-17-5620",
+      "data": "1959-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5619-de-17-de-junho-de-1959",
+      "titulo": "LEI Nº 5.619 de 17 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-17-5619",
+      "data": "1959-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5618-de-17-de-junho-de-1959",
+      "titulo": "LEI Nº 5.618 de 17 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-17-5618",
+      "data": "1959-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5617-de-16-de-junho-de-1959",
+      "titulo": "LEI Nº 5.617 de 16 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-16-5617",
+      "data": "1959-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5616-de-10-de-junho-de-1959",
+      "titulo": "LEI Nº 5.616 de 10 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-10-5616",
+      "data": "1959-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5615-de-10-de-junho-de-1959",
+      "titulo": "LEI Nº 5.615 de 10 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-10-5615",
+      "data": "1959-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5614-de-9-de-junho-de-1959",
+      "titulo": "LEI Nº 5.614 de 9 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-09-5614",
+      "data": "1959-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5613-de-8-de-junho-de-1959",
+      "titulo": "LEI Nº 5.613 de 8 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-08-5613",
+      "data": "1959-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5612-de-8-de-junho-de-1959",
+      "titulo": "LEI Nº 5.612 de 8 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-08-5612",
+      "data": "1959-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5611-de-8-de-junho-de-1959",
+      "titulo": "LEI Nº 5.611 de 8 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-08-5611",
+      "data": "1959-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5610-de-8-de-junho-de-1959",
+      "titulo": "LEI Nº 5.610 de 8 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-08-5610",
+      "data": "1959-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5609-de-4-de-junho-de-1959",
+      "titulo": "LEI Nº 5.609 de 4 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-04-5609",
+      "data": "1959-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5608-de-4-de-junho-de-1959",
+      "titulo": "LEI Nº 5.608 de 4 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-04-5608",
+      "data": "1959-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5607-de-3-de-junho-de-1959",
+      "titulo": "LEI Nº 5.607 de 3 de Junho de 1959",
+      "id": "br-municipal-3550308-lei-1959-06-03-5607",
+      "data": "1959-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5606-de-27-de-maio-de-1959",
+      "titulo": "LEI Nº 5.606 de 27 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-27-5606",
+      "data": "1959-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5605-de-27-de-maio-de-1959",
+      "titulo": "LEI Nº 5.605 de 27 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-27-5605",
+      "data": "1959-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5604-de-26-de-maio-de-1959",
+      "titulo": "LEI Nº 5.604 de 26 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-26-5604",
+      "data": "1959-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5603-de-22-de-maio-de-1959",
+      "titulo": "LEI Nº 5.603 de 22 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-22-5603",
+      "data": "1959-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5602-de-22-de-maio-de-1959",
+      "titulo": "LEI Nº 5.602 de 22 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-22-5602",
+      "data": "1959-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5601-de-22-de-maio-de-1959",
+      "titulo": "LEI Nº 5.601 de 22 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-22-5601",
+      "data": "1959-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5600-de-22-de-maio-de-1959",
+      "titulo": "LEI Nº 5.600 de 22 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-22-5600",
+      "data": "1959-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5599-de-20-de-maio-de-1959",
+      "titulo": "LEI Nº 5.599 de 20 de Maio de 1959",
+      "id": "br-municipal-3550308-lei-1959-05-20-5599",
+      "data": "1959-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5598-de-17-de-abril-de-1959",
+      "titulo": "LEI Nº 5.598 de 17 de Abril de 1959",
+      "id": "br-municipal-3550308-lei-1959-04-17-5598",
+      "data": "1959-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5597-de-10-de-abril-de-1959",
+      "titulo": "LEI Nº 5.597 de 10 de Abril de 1959",
+      "id": "br-municipal-3550308-lei-1959-04-10-5597",
+      "data": "1959-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5596-de-10-de-abril-de-1959",
+      "titulo": "LEI Nº 5.596 de 10 de Abril de 1959",
+      "id": "br-municipal-3550308-lei-1959-04-10-5596",
+      "data": "1959-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5595-de-10-de-abril-de-1959",
+      "titulo": "LEI Nº 5.595 de 10 de Abril de 1959",
+      "id": "br-municipal-3550308-lei-1959-04-10-5595",
+      "data": "1959-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5594-de-10-de-abril-de-1959",
+      "titulo": "LEI Nº 5.594 de 10 de Abril de 1959",
+      "id": "br-municipal-3550308-lei-1959-04-10-5594",
+      "data": "1959-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5593-de-10-de-abril-de-1959",
+      "titulo": "LEI Nº 5.593 de 10 de Abril de 1959",
+      "id": "br-municipal-3550308-lei-1959-04-10-5593",
+      "data": "1959-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5592-de-25-de-marco-de-1959",
+      "titulo": "LEI Nº 5.592 de 25 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-25-5592",
+      "data": "1959-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5591-de-18-de-marco-de-1959",
+      "titulo": "LEI Nº 5.591 de 18 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-18-5591",
+      "data": "1959-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5590-de-16-de-marco-de-1959",
+      "titulo": "LEI Nº 5.590 de 16 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-16-5590",
+      "data": "1959-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5589-de-13-de-marco-de-1959",
+      "titulo": "LEI Nº 5.589 de 13 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-13-5589",
+      "data": "1959-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5588-de-12-de-marco-de-1959",
+      "titulo": "LEI Nº 5.588 de 12 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-12-5588",
+      "data": "1959-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5587-de-12-de-marco-de-1959",
+      "titulo": "LEI Nº 5.587 de 12 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-12-5587",
+      "data": "1959-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5586-de-4-de-marco-de-1959",
+      "titulo": "LEI Nº 5.586 de 4 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-04-5586",
+      "data": "1959-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5585-de-4-de-marco-de-1959",
+      "titulo": "LEI Nº 5.585 de 4 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-04-5585",
+      "data": "1959-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5584-de-4-de-marco-de-1959",
+      "titulo": "LEI Nº 5.584 de 4 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-04-5584",
+      "data": "1959-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5583-de-3-de-marco-de-1959",
+      "titulo": "LEI Nº 5.583 de 3 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-03-5583",
+      "data": "1959-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5582-de-3-de-marco-de-1959",
+      "titulo": "LEI Nº 5.582 de 3 de Março de 1959",
+      "id": "br-municipal-3550308-lei-1959-03-03-5582",
+      "data": "1959-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5581-de-26-de-fevereiro-de-1959",
+      "titulo": "LEI Nº 5.581 de 26 de Fevereiro de 1959",
+      "id": "br-municipal-3550308-lei-1959-02-26-5581",
+      "data": "1959-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5580-de-26-de-fevereiro-de-1959",
+      "titulo": "LEI Nº 5.580 de 26 de Fevereiro de 1959",
+      "id": "br-municipal-3550308-lei-1959-02-26-5580",
+      "data": "1959-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5579-de-26-de-fevereiro-de-1959",
+      "titulo": "LEI Nº 5.579 de 26 de Fevereiro de 1959",
+      "id": "br-municipal-3550308-lei-1959-02-26-5579",
+      "data": "1959-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5578-de-20-de-fevereiro-de-1959",
+      "titulo": "LEI Nº 5.578 de 20 de Fevereiro de 1959",
+      "id": "br-municipal-3550308-lei-1959-02-20-5578",
+      "data": "1959-02-20"
+    }
+  ],
+  "pendencias": []
+}

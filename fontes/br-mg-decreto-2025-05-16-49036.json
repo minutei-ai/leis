@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-05-16-49036",
+  "titulo": "DEC nº 49036, de 16/05/2025",
+  "data": "2025-05-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49036/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49036/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b9272a98a950f9c285cce32bdc5c2af19989cb579919b92d28378da4d701134b",
+  "coletado_em": "2026-10-21T08:31:19.932Z",
+  "sha256_fonte": "7e84b82454d1f2519605e1181ee42874da1f0a194d65aad07a107f58bd857b5b",
+  "sha256_markdown": "9e2de9715fa89af833a09ab20b9a64558119ac7a6c14d73d787f411bcfea0d8a"
+}

@@ -1,0 +1,1142 @@
+{
+  "ano_publicacao": 2023,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2023",
+    "ano-final": "31/12/2023",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:44:49.013Z",
+  "total": 186,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "21b62253f8486fd382c44be671c0ec86b67326c645ffbf44d75ba3de40c84f90"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "655b09d05d33eab2d306feefb17c8bb8ac3365d4882f255c84cd624f5f53399e"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18066-de-28-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.066 de 28 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-28-18066",
+      "data": "2023-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18065-de-28-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.065 de 28 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-28-18065",
+      "data": "2023-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18064-de-28-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.064 de 28 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-28-18064",
+      "data": "2023-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18063-de-28-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.063 de 28 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-28-18063",
+      "data": "2023-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18062-de-28-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.062 de 28 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-28-18062",
+      "data": "2023-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18061-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.061 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18061",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18060-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.060 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18060",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18059-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.059 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18059",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18058-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.058 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18058",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18057-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.057 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18057",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18056-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.056 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18056",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18055-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.055 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18055",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18054-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.054 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18054",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18053-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.053 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18053",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18052-de-19-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.052 de 19 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-19-18052",
+      "data": "2023-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18051-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.051 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18051",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18050-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.050 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18050",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18049-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.049 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18049",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18148-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.048 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18048",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18047-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.047 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18047",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18046-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.046 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18046",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18045-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.045 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18045",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18044-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.044 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18044",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18043-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.043 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18043",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18042-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.042 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18042",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18041-de-13-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.041 de 13 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-13-18041",
+      "data": "2023-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18040-de-12-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.040 de 12 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-12-18040",
+      "data": "2023-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18039-de-12-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.039 de 12 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-12-18039",
+      "data": "2023-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18038-de-8-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.038 de 8 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-08-18038",
+      "data": "2023-12-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18037-de-4-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.037 de 4 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-04-18037",
+      "data": "2023-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18036-de-4-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.036 de 4 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-04-18036",
+      "data": "2023-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18035-de-1-de-dezembro-de-2023",
+      "titulo": "LEI Nº 18.035 de 1 de Dezembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-12-01-18035",
+      "data": "2023-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18034-de-30-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.034 de 30 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-30-18034",
+      "data": "2023-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18033-de-30-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.033 de 30 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-30-18033",
+      "data": "2023-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18032-de-30-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.032 de 30 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-30-18032",
+      "data": "2023-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18031-de-28-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.031 de 28 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-28-18031",
+      "data": "2023-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18030-de-28-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.030 de 28 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-28-18030",
+      "data": "2023-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18029-de-28-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.029 de 28 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-28-18029",
+      "data": "2023-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18028-de-28-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.028 de 28 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-28-18028",
+      "data": "2023-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18027-de-28-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.027 de 28 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-28-18027",
+      "data": "2023-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18026-de-17-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.026 de 17 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-17-18026",
+      "data": "2023-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18025-de-17-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.025 de 17 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-17-18025",
+      "data": "2023-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18024-de-17-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.024 de 17 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-17-18024",
+      "data": "2023-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18023-de-10-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.023 de 10 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-10-18023",
+      "data": "2023-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18022-de-10-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.022 de 10 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-10-18022",
+      "data": "2023-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18021-de-10-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.021 de 10 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-10-18021",
+      "data": "2023-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18020-de-6-de-novembro-de-2023",
+      "titulo": "LEI Nº 18.020 de 6 de Novembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-11-06-18020",
+      "data": "2023-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18019-de-31-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.019 de 31 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-31-18019",
+      "data": "2023-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18018-de-31-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.018 de 31 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-31-18018",
+      "data": "2023-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18017-de-31-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.017 de 31 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-31-18017",
+      "data": "2023-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18016-de-30-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.016 de 30 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-30-18016",
+      "data": "2023-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18015-de-30-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.015 de 30 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-30-18015",
+      "data": "2023-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18014-de-30-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.014 de 30 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-30-18014",
+      "data": "2023-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18013-de-30-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.013 de 30 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-30-18013",
+      "data": "2023-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18012-de-30-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.012 de 30 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-30-18012",
+      "data": "2023-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18011-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.011 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18011",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18010-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.010 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18010",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18009-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.009 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18009",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18008-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.008 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18008",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18007-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.007 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18007",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18006-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.006 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18006",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18005-de-27-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.005 de 27 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-27-18005",
+      "data": "2023-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18004-de-18-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.004 de 18 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-18-18004",
+      "data": "2023-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18003-de-9-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.003 de 9 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-09-18003",
+      "data": "2023-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18002-de-5-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.002 de 9 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-09-18002",
+      "data": "2023-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18001-de-6-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.001 de 6 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-06-18001",
+      "data": "2023-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18000-de-5-de-outubro-de-2023",
+      "titulo": "LEI Nº 18.000 de 5 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-05-18000",
+      "data": "2023-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17999-de-5-de-outubro-de-2023",
+      "titulo": "LEI Nº 17.999 de 5 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-05-17999",
+      "data": "2023-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17998-de-5-de-outubro-de-2023",
+      "titulo": "LEI Nº 17.998 de 5 de Outubro de 2023",
+      "id": "br-municipal-3550308-lei-2023-10-05-17998",
+      "data": "2023-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17997-de-28-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.997 de 28 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-28-17997",
+      "data": "2023-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17996-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.996 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17996",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17995-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.995 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17995",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17994-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.994 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17994",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17993-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.993 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17993",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17992-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.992 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17992",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17991-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.991 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17991",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17990-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.990 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17990",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17989-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.989 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17989",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17988-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.988 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17988",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17987-de-22-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.987 de 22 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-22-17987",
+      "data": "2023-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17986-de-18-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.986 de 18 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-18-17986",
+      "data": "2023-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17985-de-14-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.985 de 14 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-14-17985",
+      "data": "2023-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17984-de-14-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.984 de 14 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-14-17984",
+      "data": "2023-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17983-de-4-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.983 de 4 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-04-17983",
+      "data": "2023-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17982-de-4-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.982 de 4 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-04-17982",
+      "data": "2023-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17981-de-4-de-setembro-de-2023",
+      "titulo": "LEI Nº 17.981 de 4 de Setembro de 2023",
+      "id": "br-municipal-3550308-lei-2023-09-04-17981",
+      "data": "2023-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17980-de-24-de-agosto-de-2023",
+      "titulo": "LEI Nº 17.980 de 24 de Agosto de 2023",
+      "id": "br-municipal-3550308-lei-2023-08-24-17980",
+      "data": "2023-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17979-de-20-de-julho-de-2023",
+      "titulo": "LEI Nº 17.979 de 20 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-20-17979",
+      "data": "2023-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17978-de-20-de-julho-de-2023",
+      "titulo": "LEI Nº 17.978 de 20 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-20-17978",
+      "data": "2023-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17977-de-18-de-julho-de-2023",
+      "titulo": "LEI Nº 17.977 de 18 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-18-17977",
+      "data": "2023-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17976-de-18-de-julho-de-2023",
+      "titulo": "LEI Nº 17.976 de 18 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-18-17976",
+      "data": "2023-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17975-de-8-de-julho-de-2023",
+      "titulo": "LEI Nº 17.975 de 8 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-08-17975",
+      "data": "2023-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17974-de-5-de-julho-de-2023",
+      "titulo": "LEI Nº 17.974 de 5 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-05-17974",
+      "data": "2023-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17973-de-5-de-julho-de-2023",
+      "titulo": "LEI Nº 17.973 de 5 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-05-17973",
+      "data": "2023-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17972-de-5-de-julho-de-2023",
+      "titulo": "LEI Nº 17.972 de 5 de Julho de 2023",
+      "id": "br-municipal-3550308-lei-2023-07-05-17972",
+      "data": "2023-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17971-de-26-de-junho-de-2023",
+      "titulo": "LEI Nº 17.971 de 26 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-26-17971",
+      "data": "2023-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17970-de-23-de-junho-de-2023",
+      "titulo": "LEI Nº 17.970 de 23 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-23-17970",
+      "data": "2023-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17969-de-23-de-junho-de-2023",
+      "titulo": "LEI Nº 17.969 de 23 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-23-17969",
+      "data": "2023-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17968-de-20-de-junho-de-2023",
+      "titulo": "LEI Nº 17.968 de 20 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-20-17968",
+      "data": "2023-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17967-de-19-de-junho-de-2023",
+      "titulo": "LEI Nº 17.967 de 19 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-19-17967",
+      "data": "2023-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17966-de-19-de-junho-de-2023",
+      "titulo": "LEI Nº 17.966 de 19 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-19-17966",
+      "data": "2023-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17965-de-19-de-junho-de-2023",
+      "titulo": "LEI Nº 17.965 de 19 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-19-17965",
+      "data": "2023-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17964-de-16-de-junho-de-2023",
+      "titulo": "LEI Nº 17.964 de 16 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-16-17964",
+      "data": "2023-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17963-de-16-de-junho-de-2023",
+      "titulo": "LEI Nº 17.963 de 16 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-16-17963",
+      "data": "2023-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17962-de-15-de-junho-de-2023",
+      "titulo": "LEI Nº 17.962 de 15 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-15-17962",
+      "data": "2023-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17961-de-15-de-junho-de-2023",
+      "titulo": "LEI Nº 17.961 de 15 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-15-17961",
+      "data": "2023-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17960-de-12-de-junho-de-2023",
+      "titulo": "LEI Nº 17.960 de 12 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-12-17960",
+      "data": "2023-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-179540-de-6-de-junho-de-2023",
+      "titulo": "LEI Nº 17.959 de 6 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-06-17959",
+      "data": "2023-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17958-de-6-de-junho-de-2023",
+      "titulo": "LEI Nº 17.958 de 6 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-06-17958",
+      "data": "2023-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17957-de-6-de-junho-de-2023",
+      "titulo": "LEI Nº 17.957 de 6 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-06-17957",
+      "data": "2023-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17956-de-6-de-junho-de-2023",
+      "titulo": "LEI Nº 17.956 de 6 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-06-17956",
+      "data": "2023-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17955-de-6-de-junho-de-2023",
+      "titulo": "LEI Nº 17.955 de 6 de Junho de 2023",
+      "id": "br-municipal-3550308-lei-2023-06-06-17955",
+      "data": "2023-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17954-de-31-de-maio-de-2023",
+      "titulo": "LEI Nº 17.954 de 31 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-31-17954",
+      "data": "2023-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17953-de-26-de-maio-de-2023",
+      "titulo": "LEI Nº 17.953 de 26 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-26-17953",
+      "data": "2023-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17952-de-25-de-maio-de-2023",
+      "titulo": "LEI Nº 17.952 de 25 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-25-17952",
+      "data": "2023-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17951-de-23-de-maio-de-2023",
+      "titulo": "LEI Nº 17.951 de 23 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-23-17951",
+      "data": "2023-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17950-de-19-de-maio-de-2023",
+      "titulo": "LEI Nº 17.950 de 19 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-19-17950",
+      "data": "2023-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17949-de-12-de-maio-de-2023",
+      "titulo": "LEI Nº 17.949 de 12 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-12-17949",
+      "data": "2023-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17948-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.948 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17948",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17947-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.947 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17947",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17946-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.946 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17946",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17945-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.945 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17945",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17944-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.944 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17944",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17943-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.943 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17943",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17942-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.942 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17942",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17941-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.941 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17941",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17940-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.940 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17940",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17939-de-4-de-maio-de-2023",
+      "titulo": "LEI Nº 17.939 de 4 de Maio de 2023",
+      "id": "br-municipal-3550308-lei-2023-05-04-17939",
+      "data": "2023-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17938-de-28-de-abril-de-2023",
+      "titulo": "LEI Nº 17.938 de 28 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-28-17938",
+      "data": "2023-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17937-de-26-de-abril-de-2023",
+      "titulo": "LEI Nº 17.937 de 26 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-26-17937",
+      "data": "2023-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17936-de-26-de-abril-de-2023",
+      "titulo": "LEI Nº 17.936 de 26 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-26-17936",
+      "data": "2023-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17935-de-26-de-abril-de-2023",
+      "titulo": "LEI Nº 17.935 de 26 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-26-17935",
+      "data": "2023-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17934-de-26-de-abril-de-2023",
+      "titulo": "LEI Nº 17.934 de 26 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-26-17934",
+      "data": "2023-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17933-de-20-de-abril-de-2023",
+      "titulo": "LEI Nº 17.933 de 20 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-20-17933",
+      "data": "2023-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17932-de-20-de-abril-de-2023",
+      "titulo": "LEI Nº 17.932 de 20 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-20-17932",
+      "data": "2023-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17931-de-20-de-abril-de-2023",
+      "titulo": "LEI Nº 17.931 de 20 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-20-17931",
+      "data": "2023-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17930-de-19-de-abril-de-2023",
+      "titulo": "LEI Nº 17.930 de 19 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-19-17930",
+      "data": "2023-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17929-de-14-de-abril-de-2023",
+      "titulo": "LEI Nº 17.929 de 14 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-14-17929",
+      "data": "2023-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17928-de-10-de-abril-de-2023",
+      "titulo": "LEI Nº 17.928 de 10 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-10-17928",
+      "data": "2023-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17927-de-10-de-abril-de-2023",
+      "titulo": "LEI Nº 17.927 de 10 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-10-17927",
+      "data": "2023-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17926-de-10-de-abril-de-2023",
+      "titulo": "LEI Nº 17.926 de 10 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-10-17926",
+      "data": "2023-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17925-de-10-de-abril-de-2023",
+      "titulo": "LEI Nº 17.925 de 10 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-10-17925",
+      "data": "2023-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17924-de-10-de-abril-de-2023",
+      "titulo": "LEI Nº 17.924 de 10 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-10-17924",
+      "data": "2023-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17923-de-10-de-abril-de-2023",
+      "titulo": "LEI Nº 17.923 de 10 de Abril de 2023",
+      "id": "br-municipal-3550308-lei-2023-04-10-17923",
+      "data": "2023-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17922-de-31-de-marco-de-2023",
+      "titulo": "LEI Nº 17.922 de 31 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-31-17922",
+      "data": "2023-03-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17921-de-29-de-marco-de-2023",
+      "titulo": "LEI Nº 17.921 de 29 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-29-17921",
+      "data": "2023-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17920-de-29-de-marco-de-2023",
+      "titulo": "LEI Nº 17.920 de 29 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-29-17920",
+      "data": "2023-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17919-de-29-de-marco-de-2023",
+      "titulo": "LEI Nº 17.919 de 29 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-29-17919",
+      "data": "2023-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17918-de-29-de-marco-de-2023",
+      "titulo": "LEI Nº 17.918 de 29 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-29-17918",
+      "data": "2023-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17917-de-29-de-marco-de-2023",
+      "titulo": "LEI Nº 17.917 de 29 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-29-17917",
+      "data": "2023-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17916-de-24-de-marco-de-2023",
+      "titulo": "LEI Nº 17.916 de 24 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-24-17916",
+      "data": "2023-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17915-de-20-de-marco-de-2023",
+      "titulo": "LEI Nº 17.915 de 20 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-20-17915",
+      "data": "2023-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17914-de-7-de-marco-de-2023",
+      "titulo": "LEI Nº 17.914 de 7 de Março de 2023",
+      "id": "br-municipal-3550308-lei-2023-03-07-17914",
+      "data": "2023-03-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17913-de-17-de-fevereiro-de-2023",
+      "titulo": "LEI Nº 17.913 de 17 de Fevereiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-02-17-17913",
+      "data": "2023-02-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17912-de-17-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.912 de 17 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-17-17912",
+      "data": "2023-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17911-de-17-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.911 de 17 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-17-17911",
+      "data": "2023-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17910-de-17-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.910 de 17 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-17-17910",
+      "data": "2023-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17909-de-17-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.909 de 17 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-17-17909",
+      "data": "2023-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17908-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.908 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17908",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17907-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.907 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17907",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17906-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.906 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17906",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17905-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.905 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17905",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17904-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.904 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17904",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17903-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.903 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17903",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17902-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.902 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17902",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17901-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.901 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17901",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17900-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.900 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17900",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17899-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.899 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17899",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17898-de-11-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.898 de 11 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-11-17898",
+      "data": "2023-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17897-de-10-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.897 de 10 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-10-17897",
+      "data": "2023-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17896-de-6-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.896 de 6 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-06-17896",
+      "data": "2023-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17895-de-6-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.895 de 6 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-06-17895",
+      "data": "2023-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17894-de-6-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.894 de 6 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-06-17894",
+      "data": "2023-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17893-de-6-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.893 de 6 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-06-17893",
+      "data": "2023-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17892-de-4-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.892 de 4 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-04-17892",
+      "data": "2023-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17891-de-4-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.891 de 4 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-04-17891",
+      "data": "2023-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17890-de-4-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.890 de 4 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-04-17890",
+      "data": "2023-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17889-de-4-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.889 de 4 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-04-17889",
+      "data": "2023-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17888-de-4-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.888 de 4 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-04-17888",
+      "data": "2023-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17887-de-4-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.887 de 4 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-04-17887",
+      "data": "2023-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17886-de-3-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.886 de 3 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-03-17886",
+      "data": "2023-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17885-de-2-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.885 de 2 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-02-17885",
+      "data": "2023-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17884-de-2-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.884 de 2 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-02-17884",
+      "data": "2023-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17883-de-2-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.883 de 2 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-02-17883",
+      "data": "2023-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17882-de-2-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.882 de 2 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-02-17882",
+      "data": "2023-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17881-de-2-de-janeiro-de-2023",
+      "titulo": "LEI Nº 17.881 de 2 de Janeiro de 2023",
+      "id": "br-municipal-3550308-lei-2023-01-02-17881",
+      "data": "2023-01-02"
+    }
+  ],
+  "pendencias": []
+}

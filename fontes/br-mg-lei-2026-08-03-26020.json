@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-03-26020",
+  "titulo": "LEI nº 26020, de 03/08/2026",
+  "data": "2026-08-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26020/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26020/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "529df45aa9bdbce48a689228883aad2a8c5d261e463c3f550f385230c551ba3e",
+  "coletado_em": "2026-10-21T08:28:59.709Z",
+  "sha256_fonte": "c510617b650b7f188e4a7ca21654db2f6ac64930b3e0d361090ad822494ebf17",
+  "sha256_markdown": "fbdfade839faa4d83f7d698328c35b37c59c54720309c5ac8d59513bc5ca21cf"
+}

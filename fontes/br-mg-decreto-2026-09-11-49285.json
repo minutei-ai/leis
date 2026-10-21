@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-09-11-49285",
+  "titulo": "DEC nº 49285, de 11/09/2026",
+  "data": "2026-09-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49285/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49285/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "822deb519a84c570a58b5cbc86da73beb0cf5df141da946709f371c5696eabeb",
+  "coletado_em": "2026-10-21T08:29:29.318Z",
+  "sha256_fonte": "830b579c9f373fb2b29cfb10301b1f099df23a89d44cd888cd5af291b1e9ebb3",
+  "sha256_markdown": "78954738fc824ae04e135a02d3fa937265d42004fae83c7a0459ad038dc96a82"
+}

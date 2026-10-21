@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-06-11-25922",
+  "titulo": "LEI nº 25922, de 11/06/2026",
+  "data": "2026-06-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25922/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25922/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "32ccb92fd25c10c893fe6ef9bff61725bb26d4043111ea0475d5a7babd78c18a",
+  "coletado_em": "2026-10-21T08:27:51.446Z",
+  "sha256_fonte": "eb8a32d649bd08cbd4c824fcbb211e624e18c31c26a2335772a5ea46fc6038ae",
+  "sha256_markdown": "6204b037423a61a1211ef40153c929a54403a373ab5df4422316a6d79fef51b4"
+}

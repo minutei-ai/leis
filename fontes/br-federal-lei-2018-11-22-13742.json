@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-22-13742",
+  "titulo": "Lei nº 13.742 de 22/11/2018",
+  "data": "2018-11-22",
+  "fonte": "https://normas.leg.br/api/public/binario/71f0d2ff-67c8-4b4a-bcf2-686ace93221f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-22;13742",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-22%3B13742&tipo_documento=maior-detalhe",
+  "sha256_dados": "b4d428a466c83e3c2beab149df3299c264214b04929089f9264f67b209d4f34b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:55.287Z",
+  "sha256_fonte": "9c9030868468caaa030159731e79a47f62f9659662f630502245d024a3beaf90",
+  "sha256_markdown": "31dfb3a390caa7d95ccb2d6d7217ce3ec5be2374e00d361251d937480be2a1f4"
+}

@@ -1,0 +1,632 @@
+{
+  "ano_publicacao": 1990,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1990",
+    "ano-final": "31/12/1990",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:50.087Z",
+  "total": 101,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "3b73ca56d3e8a12f94383f722d0233802403675039befbf23ee3eb62c54e82b4"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "a77300bcc4e22e22f681a31a36973d82daff3743e0bef893b90e2ea7f2186feb"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10923-de-30-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.923 de 30 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-30-10923",
+      "data": "1990-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10922-de-30-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.922 de 30 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-30-10922",
+      "data": "1990-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10921-de-30-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.921 de 30 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-30-10921",
+      "data": "1990-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10918-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.918 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10918",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10917-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.917 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10917",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10915-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.915 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10915",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10914-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.914 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10914",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10913-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.913 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10913",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10919-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.919 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10919",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10916-de-21-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.916 de 21 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-21-10916",
+      "data": "1990-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10912-de-20-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.912 de 20 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-20-10912",
+      "data": "1990-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10911-de-20-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.911 de 20 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-20-10911",
+      "data": "1990-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10910-de-20-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.910 de 20 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-20-10910",
+      "data": "1990-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10909-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.909 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10909",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10907-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.907 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10907",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10906-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.906 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10906",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10903-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.903 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10903",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10908-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.908 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10908",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10905-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.905 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10905",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10904-de-18-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.904 de 18 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-18-10904",
+      "data": "1990-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10902-de-14-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.902 de 14 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-14-10902",
+      "data": "1990-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10900-de-11-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.900 de 11 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-11-10900",
+      "data": "1990-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10901-de-11-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.901 de 11 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-11-10901",
+      "data": "1990-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10899-de-10-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.899 de 10 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-10-10899",
+      "data": "1990-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10896-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.896 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10896",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10895-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.895 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10895",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10894-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.894 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10894",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10893-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.893 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10893",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10892-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.892 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10892",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10891-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.891 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10891",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10898-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.898 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10898",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10897-de-5-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.897 de 5 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-05-10897",
+      "data": "1990-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10890-de-4-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.890 de 4 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-04-10890",
+      "data": "1990-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10889-de-4-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.889 de 4 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-04-10889",
+      "data": "1990-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10888-de-4-de-dezembro-de-1990",
+      "titulo": "LEI Nº 10.888 de 4 de Dezembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-12-04-10888",
+      "data": "1990-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10887-de-22-de-novembro-de-1990",
+      "titulo": "LEI Nº 10.887 de 22 de Novembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-11-22-10887",
+      "data": "1990-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10886-de-8-de-novembro-de-1990",
+      "titulo": "LEI Nº 10.886 de 8 de Novembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-11-08-10886",
+      "data": "1990-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10885-de-8-de-novembro-de-1990",
+      "titulo": "LEI Nº 10.885 de 8 de Novembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-11-08-10885",
+      "data": "1990-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10884-de-26-de-outubro-de-1990",
+      "titulo": "LEI Nº 10.884 de 26 de Outubro de 1990",
+      "id": "br-municipal-3550308-lei-1990-10-26-10884",
+      "data": "1990-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10883-de-26-de-outubro-de-1990",
+      "titulo": "LEI Nº 10.883 de 26 de Outubro de 1990",
+      "id": "br-municipal-3550308-lei-1990-10-26-10883",
+      "data": "1990-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10882-de-15-de-outubro-de-1990",
+      "titulo": "LEI Nº 10.882 de 15 de Outubro de 1990",
+      "id": "br-municipal-3550308-lei-1990-10-15-10882",
+      "data": "1990-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10881-de-17-de-setembro-de-1990",
+      "titulo": "LEI Nº 10.881 de 17 de Setembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-09-17-10881",
+      "data": "1990-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10880-de-17-de-setembro-de-1990",
+      "titulo": "LEI Nº 10.880 de 17 de Setembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-09-17-10880",
+      "data": "1990-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10879-de-17-de-setembro-de-1990",
+      "titulo": "LEI Nº 10.879 de 17 de Setembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-09-17-10879",
+      "data": "1990-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10878-de-10-de-setembro-de-1990",
+      "titulo": "LEI Nº 10.878 de 10 de Setembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-09-10-10878",
+      "data": "1990-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10877-de-4-de-setembro-de-1990",
+      "titulo": "LEI Nº 10.877 de 4 de Setembro de 1990",
+      "id": "br-municipal-3550308-lei-1990-09-04-10877",
+      "data": "1990-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10874-de-20-de-julho-de-1990",
+      "titulo": "LEI Nº 10.874 de 20 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-20-10874",
+      "data": "1990-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10876-de-20-de-julho-de-1990",
+      "titulo": "LEI Nº 10.876 de 20 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-20-10876",
+      "data": "1990-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10875-de-20-de-julho-de-1990",
+      "titulo": "LEI Nº 10.875 de 20 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-20-10875",
+      "data": "1990-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10873-de-20-de-julho-de-1990",
+      "titulo": "LEI Nº 10.873 de 20 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-20-10873",
+      "data": "1990-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10872-de-19-de-julho-de-1990",
+      "titulo": "LEI Nº 10.872 de 19 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-19-10872",
+      "data": "1990-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10871-de-19-de-julho-de-1990",
+      "titulo": "LEI Nº 10.871 de 19 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-19-10871",
+      "data": "1990-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10870-de-19-de-julho-de-1990",
+      "titulo": "LEI Nº 10.870 de 19 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-19-10870",
+      "data": "1990-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10869-de-17-de-julho-de-1990",
+      "titulo": "LEI Nº 10.869 de 17 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-17-10869",
+      "data": "1990-07-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10868-de-13-de-julho-de-1990",
+      "titulo": "LEI Nº 10.868 de 13 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-13-10868",
+      "data": "1990-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10867-de-13-de-julho-de-1990",
+      "titulo": "LEI Nº 10.867 de 13 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-13-10867",
+      "data": "1990-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10866-de-13-de-julho-de-1990",
+      "titulo": "LEI Nº 10.866 de 13 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-13-10866",
+      "data": "1990-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10865-de-6-de-julho-de-1990",
+      "titulo": "LEI Nº 10.865 de 6 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-06-10865",
+      "data": "1990-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10864-de-4-de-julho-de-1990",
+      "titulo": "LEI Nº 10.864 de 4 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-04-10864",
+      "data": "1990-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10863-de-4-de-julho-de-1990",
+      "titulo": "LEI Nº 10.863 de 4 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-04-10863",
+      "data": "1990-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10862-de-4-de-julho-de-1990",
+      "titulo": "LEI Nº 10.862 de 4 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-04-10862",
+      "data": "1990-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10861-de-4-de-julho-de-1990",
+      "titulo": "LEI Nº 10.861 de 4 de Julho de 1990",
+      "id": "br-municipal-3550308-lei-1990-07-04-10861",
+      "data": "1990-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10859-de-28-de-junho-de-1990",
+      "titulo": "LEI Nº 10.859 de 28 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-28-10859",
+      "data": "1990-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10860-de-28-de-junho-de-1990",
+      "titulo": "LEI Nº 10.860 de 28 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-28-10860",
+      "data": "1990-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10858-de-27-de-junho-de-1990",
+      "titulo": "LEI Nº 10.858 de 27 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-27-10858",
+      "data": "1990-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10857-de-27-de-junho-de-1990",
+      "titulo": "LEI Nº 10.857 de 27 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-27-10857",
+      "data": "1990-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10856-de-26-de-junho-de-1990",
+      "titulo": "LEI Nº 10.856 de 26 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-26-10856",
+      "data": "1990-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10855-de-26-de-junho-de-1990",
+      "titulo": "LEI Nº 10.855 de 26 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-26-10855",
+      "data": "1990-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10854-de-22-de-junho-de-1990",
+      "titulo": "LEI Nº 10.854 de 22 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-22-10854",
+      "data": "1990-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10853-de-21-de-junho-de-1990",
+      "titulo": "LEI Nº 10.853 de 21 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-21-10853",
+      "data": "1990-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10852-de-20-de-junho-de-1990",
+      "titulo": "LEI Nº 10.852 de 20 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-20-10852",
+      "data": "1990-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10851-de-20-de-junho-de-1990",
+      "titulo": "LEI Nº 10.851 de 20 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-20-10851",
+      "data": "1990-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10850-de-20-de-junho-de-1990",
+      "titulo": "LEI Nº 10.850 de 20 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-20-10850",
+      "data": "1990-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10849-de-20-de-junho-de-1990",
+      "titulo": "LEI Nº 10.849 de 20 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-20-10849",
+      "data": "1990-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10848-de-19-de-junho-de-1990",
+      "titulo": "LEI Nº 10.848 de 19 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-19-10848",
+      "data": "1990-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10847-de-19-de-junho-de-1990",
+      "titulo": "LEI Nº 10.847 de 19 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-19-10847",
+      "data": "1990-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10846-de-19-de-junho-de-1990",
+      "titulo": "LEI Nº 10.846 de 19 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-19-10846",
+      "data": "1990-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10845-de-19-de-junho-de-1990",
+      "titulo": "LEI Nº 10.845 de 19 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-19-10845",
+      "data": "1990-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10844-de-11-de-junho-de-1990",
+      "titulo": "LEI Nº 10.844 de 11 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-11-10844",
+      "data": "1990-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10843-de-1-de-junho-de-1990",
+      "titulo": "LEI Nº 10.843 de 1 de Junho de 1990",
+      "id": "br-municipal-3550308-lei-1990-06-01-10843",
+      "data": "1990-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10842-de-21-de-maio-de-1990",
+      "titulo": "LEI Nº 10.842 de 21 de Maio de 1990",
+      "id": "br-municipal-3550308-lei-1990-05-21-10842",
+      "data": "1990-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10841-de-2-de-maio-de-1990",
+      "titulo": "LEI Nº 10.841 de 2 de Maio de 1990",
+      "id": "br-municipal-3550308-lei-1990-05-02-10841",
+      "data": "1990-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-0-de-04-de-abril-de-1990",
+      "titulo": "LEI Nº 0 de 4 de Abril de 1990",
+      "id": "br-municipal-3550308-lei-1990-04-04-0",
+      "data": "1990-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10840-de-28-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.840 de 28 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-28-10840",
+      "data": "1990-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10839-de-20-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.839 de 20 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-20-10839",
+      "data": "1990-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10838-de-20-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.838 de 20 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-20-10838",
+      "data": "1990-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10837-de-19-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.837 de 19 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-19-10837",
+      "data": "1990-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10835-de-19-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.835 de 19 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-19-10835",
+      "data": "1990-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10834-de-19-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.834 de 19 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-19-10834",
+      "data": "1990-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10833-de-19-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.833 de 19 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-19-10833",
+      "data": "1990-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10836-de-19-de-fevereiro-de-1990",
+      "titulo": "LEI Nº 10.836 de 19 de Fevereiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-02-19-10836",
+      "data": "1990-02-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10832-de-5-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.832 de 5 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-05-10832",
+      "data": "1990-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10831-de-4-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.831 de 4 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-04-10831",
+      "data": "1990-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10830-de-4-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.830 de 4 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-04-10830",
+      "data": "1990-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10829-de-4-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.829 de 4 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-04-10829",
+      "data": "1990-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10828-de-4-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.828 de 4 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-04-10828",
+      "data": "1990-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10827-de-04-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.827 de 4 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-04-10827",
+      "data": "1990-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10826-de-3-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.826 de 3 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-03-10826",
+      "data": "1990-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10825-de-3-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.825 de 3 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-03-10825",
+      "data": "1990-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10824-de-03-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.824 de 3 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-03-10824",
+      "data": "1990-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10823-de-2-de-janeiro-de-1990",
+      "titulo": "LEI Nº 10.823 de 2 de Janeiro de 1990",
+      "id": "br-municipal-3550308-lei-1990-01-02-10823",
+      "data": "1990-01-02"
+    }
+  ],
+  "pendencias": []
+}

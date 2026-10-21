@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-07-08-49073",
+  "titulo": "DEC nº 49073, de 08/07/2025",
+  "data": "2025-07-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49073/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49073/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "aa07f30c701d8d93960be06c14ba9370e802c0d12b7e671d5a9cdebf412827e1",
+  "coletado_em": "2026-10-21T08:32:35.852Z",
+  "sha256_fonte": "0275fc93d8c0a6e6cb09e1f51e15b538fe7f1a2ffcd4aeee0051e8b1746066ba",
+  "sha256_markdown": "6e8242a234e26fbb1566e45260625795e52dfca4f4f960051594365d922acd6c"
+}

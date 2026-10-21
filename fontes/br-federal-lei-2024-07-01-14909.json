@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-07-01-14909",
+  "titulo": "Lei nº 14.909 de 01/07/2024",
+  "data": "2024-07-01",
+  "fonte": "https://normas.leg.br/api/public/binario/c3560dc8-bfbb-4122-b970-ac07c5015464/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-07-01;14909",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-07-01%3B14909&tipo_documento=maior-detalhe",
+  "sha256_dados": "150828918d5622409acddbd629427f1c8502bf6facbd2ef107acd34450708183",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:23:51.849Z",
+  "sha256_fonte": "2de3c24c30182237942a1db02f22b5155775bbc323b56d109cf77ca3554db4fa",
+  "sha256_markdown": "9f849253627658566ef3423bb51acb2694cb642c0b38218f436a3ad975754836"
+}

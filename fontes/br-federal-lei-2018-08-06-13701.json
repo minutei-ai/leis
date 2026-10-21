@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-08-06-13701",
+  "titulo": "Lei nº 13.701 de 06/08/2018",
+  "data": "2018-08-06",
+  "fonte": "https://normas.leg.br/api/public/binario/05110467-3769-4584-93d0-5e154e831461/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-08-06;13701",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-08-06%3B13701&tipo_documento=maior-detalhe",
+  "sha256_dados": "3cb079dd6241240336d0bcd1f3cff420a6a0da7090cafed76613f9638eccb55b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:51.039Z",
+  "sha256_fonte": "785400e73f1005e7d3e19af750c0de67d52a5e62e5c3b4b8a570172777d2416a",
+  "sha256_markdown": "cd916d683acbd9763c2e4118f4834c7f1b1bfab2f7ca7cc259264d491c06ee97"
+}

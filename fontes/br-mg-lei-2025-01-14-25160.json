@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-01-14-25160",
+  "titulo": "LEI nº 25160, de 14/01/2025",
+  "data": "2025-01-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25160/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25160/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "5269c2c5c92cadc7b465685d09b6056956564359d5d8673c93de7b8d2ea69f72",
+  "coletado_em": "2026-10-21T08:29:56.615Z",
+  "sha256_fonte": "112cbaacb5c6bef538fda0d6ca7b9cbb8a66d0c58c729c9b5e27edb798a9d51b",
+  "sha256_markdown": "a48fd625f48c7257fd0832aa7e2e57929bc345d7656ccb6a530e806499d8b6ae"
+}

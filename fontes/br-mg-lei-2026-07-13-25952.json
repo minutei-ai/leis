@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-13-25952",
+  "titulo": "LEI nº 25952, de 13/07/2026",
+  "data": "2026-07-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25952/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25952/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "514db8ffb4728714959371c3f5f45fd8b86ceb14522a9cd2af2ac048b526f18a",
+  "coletado_em": "2026-10-21T08:28:19.579Z",
+  "sha256_fonte": "e04aa257263d54b34830adfa756ba9b1408d8e168e856167ba94458417b42748",
+  "sha256_markdown": "0bf134a321c45d4f572f2ebab0f35f5f4bee01b5cec3da0e96c3d7561e350343"
+}

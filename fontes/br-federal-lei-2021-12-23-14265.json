@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-12-23-14265",
+  "titulo": "Lei nº 14.265 de 23/12/2021",
+  "data": "2021-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/a76edea7-12ee-4fa5-88cb-8b5c0b40ad77/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-12-23;14265",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-12-23%3B14265&tipo_documento=maior-detalhe",
+  "sha256_dados": "e4624329c4eef1708069d2a9b9d0566fb78cac49a100c21e5d52d62511e3aa40",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:27.214Z",
+  "sha256_fonte": "21ccc0a07bead6df97656e4174e4940fd9d53502919540a2f63da924e3aadca3",
+  "sha256_markdown": "9a3b1a0ab2ef2915777137bac2bb20a14623db5c0141401f89ed74c800000f77"
+}

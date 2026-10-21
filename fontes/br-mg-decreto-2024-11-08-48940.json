@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-11-08-48940",
+  "titulo": "DEC nº 48940, de 08/11/2024",
+  "data": "2024-11-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48940/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48940/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "84c0fced0404a0d5b0fb9599b31528c563ca89e221a67da02ebcc5b993265bbf",
+  "coletado_em": "2026-10-21T08:42:37.806Z",
+  "sha256_fonte": "dcb827da37016a054fc9df9de7a8ba0b897deac5520b781f0dac3666055aea7a",
+  "sha256_markdown": "f794ac844923c3f7597e0d154982a45ec5e7f26644c29460d11e4851a28833f5"
+}

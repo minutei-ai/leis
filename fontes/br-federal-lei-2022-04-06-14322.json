@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-04-06-14322",
+  "titulo": "Lei nº 14.322 de 06/04/2022",
+  "data": "2022-04-06",
+  "fonte": "https://normas.leg.br/api/public/binario/6e2733b7-c1d9-499f-9990-a89f395734d6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-04-06;14322",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-04-06%3B14322&tipo_documento=maior-detalhe",
+  "sha256_dados": "8fe60a180a78fc65ab862cdb8a498b2dc3b0b701096d84d6866ad4b3f2e578ae",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:26.750Z",
+  "sha256_fonte": "1796203ab76a54e8bd9a1bf002d15abb2bf5a316017a8faecd7cb1613d7e2083",
+  "sha256_markdown": "75b597d8a2b8406f5c82f414072364d23b7bb75cb6d19213ac2791c71cd72449"
+}

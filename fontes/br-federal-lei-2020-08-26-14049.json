@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-08-26-14049",
+  "titulo": "Lei nº 14.049 de 26/08/2020",
+  "data": "2020-08-26",
+  "fonte": "https://normas.leg.br/api/public/binario/00cd3589-fc4a-48fe-8dd7-268423b7fcd6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-08-26;14049",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-08-26%3B14049&tipo_documento=maior-detalhe",
+  "sha256_dados": "f15cdabf9d47666e6ceef7469534aff21576a04df4ccd20bba5d92b0cc654ed6",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:16.029Z",
+  "sha256_fonte": "c14c0cc194990e27aa12c9190c67e84671a998d8264c3322244d48e9807c5c9a",
+  "sha256_markdown": "17a64e124705b6bb84a138a29eaa2350d960b6486f746bc0cbc57bad3195b37b"
+}

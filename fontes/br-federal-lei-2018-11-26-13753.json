@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-26-13753",
+  "titulo": "Lei nº 13.753 de 26/11/2018",
+  "data": "2018-11-26",
+  "fonte": "https://normas.leg.br/api/public/binario/4e11284f-3bcc-4545-b156-34c6cce128a9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-26;13753",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-26%3B13753&tipo_documento=maior-detalhe",
+  "sha256_dados": "4239a665d694792b7e2d7961aecfe20abc176a296d90cea55ba034bc53949907",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:44.800Z",
+  "sha256_fonte": "940f7490b68fb670cceeec66f01620394770a00ed81f9035681ffd2cd12f9b85",
+  "sha256_markdown": "09217b2425ac3adf92d6267c040eefccf9a7eba015e22ad6faed78f953cc3973"
+}

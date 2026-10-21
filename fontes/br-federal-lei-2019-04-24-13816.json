@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-04-24-13816",
+  "titulo": "Lei nº 13.816 de 24/04/2019",
+  "data": "2019-04-24",
+  "fonte": "https://normas.leg.br/api/public/binario/a5459e2f-e13d-41f6-a35c-85a644afc694/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-04-24;13816",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-04-24%3B13816&tipo_documento=maior-detalhe",
+  "sha256_dados": "195df1984f93f8edfa71dffe2ae4aca17333b8a6ebc0808ced541557da557dc8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:47:20.999Z",
+  "sha256_fonte": "7e5ab238f9ed72e3dfdfeac3d4608066c7b23ed606bcc95d8292956f6879e0e0",
+  "sha256_markdown": "26076f298e6012ed480554ac0663d80587a9e14a68eb3ae67d3c84c76a30ed3d"
+}

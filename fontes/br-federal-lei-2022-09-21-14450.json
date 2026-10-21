@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-09-21-14450",
+  "titulo": "Lei nº 14.450 de 21/09/2022",
+  "data": "2022-09-21",
+  "fonte": "https://normas.leg.br/api/public/binario/6a9ba405-89cd-4ff7-ab0a-43b220ed998e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-09-21;14450",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-09-21%3B14450&tipo_documento=maior-detalhe",
+  "sha256_dados": "97ee686c3d6a141baa5d40cb77f9e13cc6c9503a3c31b598dbeff4c11b4fed10",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:36.917Z",
+  "sha256_fonte": "d88644d76d2456025884670dfa934ba9850cca915089fc884666265e5df0b20e",
+  "sha256_markdown": "010c9f9b25dabd3d659a3674f55cd7027bd168a3bf273f68c14280d4cbb72b32"
+}

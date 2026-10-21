@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-11-01-25580",
+  "titulo": "LEI nº 25580, de 01/11/2025",
+  "data": "2025-11-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25580/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25580/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "35935f77473eab7d0fb416c39622080afaa945496cecfa17363b53f8e1280be2",
+  "coletado_em": "2026-10-21T08:35:15.158Z",
+  "sha256_fonte": "88ae750d0bbbaca01ed2041d3801eae101c99648dc2d32143eab14d3459b2810",
+  "sha256_markdown": "f9b8a8da7cef4a5753d4cdbebf8524cd593f2d7caf51cae4853978f734979fd3"
+}

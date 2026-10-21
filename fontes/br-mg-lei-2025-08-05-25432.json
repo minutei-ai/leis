@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-08-05-25432",
+  "titulo": "LEI nº 25432, de 05/08/2025",
+  "data": "2025-08-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25432/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25432/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "1365a149085234693aaea051d46bf7c3830a5507155717f41a1e47a63890cf4f",
+  "coletado_em": "2026-10-21T08:33:34.997Z",
+  "sha256_fonte": "3964cbe9455db8ad24957e82422d06b06a4b35b208cb6c711ff0444b82cb2cf8",
+  "sha256_markdown": "59dc844e21ca276db45853e86185314664c4a43c053d3c5b45d06e78d9f59d20"
+}

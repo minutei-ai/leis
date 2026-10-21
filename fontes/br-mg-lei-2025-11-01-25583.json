@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-11-01-25583",
+  "titulo": "LEI nº 25583, de 01/11/2025",
+  "data": "2025-11-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25583/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25583/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "fb50aa3542501f60abd6e092b9d831f878367ece4bcc1bbfa48ae06d1fcc6248",
+  "coletado_em": "2026-10-21T08:35:16.834Z",
+  "sha256_fonte": "35fc757e45c9288e3cda614dc9ff840e39bdf00f99dccc7b01db0ad11eb788f1",
+  "sha256_markdown": "f8a10b42f50e9538e3854e1e25e470f0a4478c9e8b4b29f2449025ad4967ee79"
+}

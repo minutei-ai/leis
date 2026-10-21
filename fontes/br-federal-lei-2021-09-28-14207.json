@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-09-28-14207",
+  "titulo": "Lei nº 14.207 de 28/09/2021",
+  "data": "2021-09-28",
+  "fonte": "https://normas.leg.br/api/public/binario/0d2b83ee-d646-4612-a25d-d7e335ba6b0d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-09-28;14207",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-09-28%3B14207&tipo_documento=maior-detalhe",
+  "sha256_dados": "c0d6d1409f9471fe1ebfd8f1b8dd041153dad72c8d1a093f92963f4b9c31aebb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:53.100Z",
+  "sha256_fonte": "5dea8aba136adec1d3c53aebd3e7dd2f17ce4513b4804e1d29d4eec45539d989",
+  "sha256_markdown": "1a1be42ecf685870075ae551ba8a91afa351b901a78d1988e7ae3f7fb7c0d33c"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-06-21-14375",
+  "titulo": "Lei nº 14.375 de 21/06/2022",
+  "data": "2022-06-21",
+  "fonte": "https://normas.leg.br/api/public/binario/eb996ed2-b88a-4463-9cf9-e9a7cf8633ce/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-06-21;14375",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-06-21%3B14375&tipo_documento=maior-detalhe",
+  "sha256_dados": "36a1b9a2ce86c04c964ae1476a16a814e4e28366c736bbd0e6c9ed084a0ae258",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:35:19.013Z",
+  "sha256_fonte": "3f9d4b0749eb85cbdf78b153af9f78c8432fd70f352fddfe25a7685d8ad3afd0",
+  "sha256_markdown": "345e674b966063c1adbe655413f97230289ddcac0653005240998392c0c4aaa0"
+}

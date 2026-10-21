@@ -1,0 +1,559 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1978",
+  "tipo": "DEL",
+  "ano": 1978,
+  "coletado_em": "2026-10-21T08:36:38.065Z",
+  "normas": [
+    {
+      "senadoId": "525929",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-29-1654",
+      "titulo": "Decreto-Lei nº 1.654 de 29/12/1978",
+      "data": "1978-12-29",
+      "numero": "1654",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-29;1654",
+      "ementa": "Altera o Decreto-Lei nº. 1598, de 26 de dezembro de 1977."
+    },
+    {
+      "senadoId": "525927",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-27-1653",
+      "titulo": "Decreto-Lei nº 1.653 de 27/12/1978",
+      "data": "1978-12-27",
+      "numero": "1653",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-27;1653",
+      "ementa": "Prorroga o prazo de aplicação dos incentivos fiscais criados pelo artigo   4º do Decreto-Lei nº. 880, de 18 de setembro de 1969, dilatado por força do   Decreto-Lei nº 1345, de 19 de setembro de 1974, e dá outras   providências."
+    },
+    {
+      "senadoId": "525925",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-22-1652",
+      "titulo": "Decreto-Lei nº 1.652 de 22/12/1978",
+      "data": "1978-12-22",
+      "numero": "1652",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-22;1652",
+      "ementa": "Altera, para o exercício de 1979, a distribuição do produto da arrecadação   dos impostos que menciona."
+    },
+    {
+      "senadoId": "525923",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-21-1651",
+      "titulo": "Decreto-Lei nº 1.651 de 21/12/1978",
+      "data": "1978-12-21",
+      "numero": "1651",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-21;1651",
+      "ementa": "Aumenta os limites do Decreto-Lei nº. 1312, de 15 de fevereiro de 1974,   alterados pelos Decretos-Leis nºs 1460, de 22 de abril de 1976 e 1562, de 19 de   julho de 1977 e dá outras providências."
+    },
+    {
+      "senadoId": "525921",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-19-1650",
+      "titulo": "Decreto-Lei nº 1.650 de 19/12/1978",
+      "data": "1978-12-19",
+      "numero": "1650",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-19;1650",
+      "ementa": "Restringe a aplicação do artigo 2º da Lei nº. 4729, de 14 de julho de 1965,   e do artigo 18, parágrafo segundo, do Decreto-Lei nº 157, de 10 de fevereiro de   1967."
+    },
+    {
+      "senadoId": "525919",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-19-1649",
+      "titulo": "Decreto-Lei nº 1.649 de 19/12/1978",
+      "data": "1978-12-19",
+      "numero": "1649",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-19;1649",
+      "ementa": "Dispõe sobre a criação de cargos no Tribunal de Contas da União, e dá   outras providências."
+    },
+    {
+      "senadoId": "525913",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-18-1646",
+      "titulo": "Decreto-Lei nº 1.646 de 18/12/1978",
+      "data": "1978-12-18",
+      "numero": "1646",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-18;1646",
+      "ementa": "Estende até 31 de dezembro de 1979 o prazo estabelecido no § 2º do artigo   1º do Decreto-Lei n. 1592, de 21 de dezembro de 1977."
+    },
+    {
+      "senadoId": "525917",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-18-1648",
+      "titulo": "Decreto-Lei nº 1.648 de 18/12/1978",
+      "data": "1978-12-18",
+      "numero": "1648",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-18;1648",
+      "ementa": "Altera a legislação do imposto sobre a renda das pessoas jurídicas e dá outras providências."
+    },
+    {
+      "senadoId": "525915",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-18-1647",
+      "titulo": "Decreto-Lei nº 1.647 de 18/12/1978",
+      "data": "1978-12-18",
+      "numero": "1647",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-18;1647",
+      "ementa": "Altera dispositivos da Lei n. 6468, de 14 de novembro de 1977, que dispõe sobre o regime de tributação simplificada para as pessoas jurídicas de pequeno porte e estabelece isenção do imposto de renda em favor daquelas que auferem reduzida receita bruta."
+    },
+    {
+      "senadoId": "525909",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-11-1644",
+      "titulo": "Decreto-Lei nº 1.644 de 11/12/1978",
+      "data": "1978-12-11",
+      "numero": "1644",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-11;1644",
+      "ementa": "Prorroga o prazo de vigência de que trata o artigo 5º do Decreto-Lei   nº.1106, de 16 de junho de 1970."
+    },
+    {
+      "senadoId": "525911",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-11-1645",
+      "titulo": "Decreto-Lei nº 1.645 de 11/12/1978",
+      "data": "1978-12-11",
+      "numero": "1645",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-11;1645",
+      "ementa": "Dispõe sobre a cobrança da Dívida Ativa da União e dá outras   providências."
+    },
+    {
+      "senadoId": "525907",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-07-1643",
+      "titulo": "Decreto-Lei nº 1.643 de 07/12/1978",
+      "data": "1978-12-07",
+      "numero": "1643",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-07;1643",
+      "ementa": "Prorroga prazos previstos na legislação do Imposto de Renda."
+    },
+    {
+      "senadoId": "525903",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-07-1641",
+      "titulo": "Decreto-Lei nº 1.641 de 07/12/1978",
+      "data": "1978-12-07",
+      "numero": "1641",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-07;1641",
+      "ementa": "Altera a legislação do Imposto de Renda das pessoas físicas."
+    },
+    {
+      "senadoId": "525905",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-12-07-1642",
+      "titulo": "Decreto-Lei nº 1.642 de 07/12/1978",
+      "data": "1978-12-07",
+      "numero": "1642",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-12-07;1642",
+      "ementa": "Altera a legislação do imposto de renda das pessoas físicas."
+    },
+    {
+      "senadoId": "525901",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-11-20-1640",
+      "titulo": "Decreto-Lei nº 1.640 de 20/11/1978",
+      "data": "1978-11-20",
+      "numero": "1640",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-11-20;1640",
+      "ementa": "Acrescenta parágrafo ao artigo 6º da Lei nº 4.947, de 6 de abril de 1966,   e dá outras providências."
+    },
+    {
+      "senadoId": "525899",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-10-18-1639",
+      "titulo": "Decreto-Lei nº 1.639 de 18/10/1978",
+      "data": "1978-10-18",
+      "numero": "1639",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-10-18;1639",
+      "ementa": "Dá nova redação aos incisos IX e XII do artigo 15 do Decreto-Lei nº 37, de   18 de novembro de 1966."
+    },
+    {
+      "senadoId": "525897",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-10-06-1638",
+      "titulo": "Decreto-Lei nº 1.638 de 06/10/1978",
+      "data": "1978-10-06",
+      "numero": "1638",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-10-06;1638",
+      "ementa": "Dá nova redação ao artigo 16 da Lei nº. 4.595, de 31 de dezembro de 1964,   dispõe sobre a constituição de reserva monetária no Banco Central do Brasil e   dá outras providências."
+    },
+    {
+      "senadoId": "525895",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-10-06-1637",
+      "titulo": "Decreto-Lei nº 1.637 de 06/10/1978",
+      "data": "1978-10-06",
+      "numero": "1637",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-10-06;1637",
+      "ementa": "Dispõe sobre a integralização de quotas e reajustes de haveres de   organismos financeiros internacionais."
+    },
+    {
+      "senadoId": "525893",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-09-04-1636",
+      "titulo": "Decreto-Lei nº 1.636 de 04/09/1978",
+      "data": "1978-09-04",
+      "numero": "1636",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-09-04;1636",
+      "ementa": "Isenta do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e   Gasosos o gasóleo destinado à fabricação de vaselinas sólidas."
+    },
+    {
+      "senadoId": "525891",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-09-01-1635",
+      "titulo": "Decreto-Lei nº 1.635 de 01/09/1978",
+      "data": "1978-09-01",
+      "numero": "1635",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-09-01;1635",
+      "ementa": "Prorroga o prazo de vigência do Decreto-lei nº. 1396, de 12 de março de   1975, que isenta do Imposto Único sobre Minerais as saídas de sal marinho para o   exterior."
+    },
+    {
+      "senadoId": "525889",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-08-31-1634",
+      "titulo": "Decreto-Lei nº 1.634 de 31/08/1978",
+      "data": "1978-08-31",
+      "numero": "1634",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-08-31;1634",
+      "ementa": "Dispõe sobre isenção do Empréstimo Compulsório em favor da Centrais   Elétricas Brasileiras S.A.- ELETROBRÁS."
+    },
+    {
+      "senadoId": "525887",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-08-09-1633",
+      "titulo": "Decreto-Lei nº 1.633 de 09/08/1978",
+      "data": "1978-08-09",
+      "numero": "1633",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-08-09;1633",
+      "ementa": "Institui incentivos fiscais à exportação de manufaturados por empresas exportadoras de serviços e dá outras providências."
+    },
+    {
+      "senadoId": "525885",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-08-04-1632",
+      "titulo": "Decreto-Lei nº 1.632 de 04/08/1978",
+      "data": "1978-08-04",
+      "numero": "1632",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-08-04;1632",
+      "ementa": "Dispõe sobre a proibição de greve nos serviços públicos e em atividades   essenciais de interesse da segurança nacional."
+    },
+    {
+      "senadoId": "525883",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-08-02-1631",
+      "titulo": "Decreto-Lei nº 1.631 de 02/08/1978",
+      "data": "1978-08-02",
+      "numero": "1631",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-08-02;1631",
+      "ementa": "Dispõe sobre a incidência do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos nos álcoois etílico e metílico, para fins carburantes, e dá outras providências."
+    },
+    {
+      "senadoId": "525881",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-07-17-1630",
+      "titulo": "Decreto-Lei nº 1.630 de 17/07/1978",
+      "data": "1978-07-17",
+      "numero": "1630",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-07-17;1630",
+      "ementa": "Concede benefícios tributários ao Programa Nuclear Brasileiro e dá outras   providências."
+    },
+    {
+      "senadoId": "525879",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-07-06-1629",
+      "titulo": "Decreto-Lei nº 1.629 de 06/07/1978",
+      "data": "1978-07-06",
+      "numero": "1629",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-07-06;1629",
+      "ementa": "Modifica a redação da alínea \"f\" do artigo 60 da Lei nº 5.025, de 10 de   junho de 1966."
+    },
+    {
+      "senadoId": "525877",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-06-15-1628",
+      "titulo": "Decreto-Lei nº 1.628 de 15/06/1978",
+      "data": "1978-06-15",
+      "numero": "1628",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-06-15;1628",
+      "ementa": "Altera a redação do artigo 18 da Lei n° ;4.452, de 5 de novembro de   1964."
+    },
+    {
+      "senadoId": "525875",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-06-02-1627",
+      "titulo": "Decreto-Lei nº 1.627 de 02/06/1978",
+      "data": "1978-06-02",
+      "numero": "1627",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-06-02;1627",
+      "ementa": "Dispõe quanto a isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados, nos casos que especifica e dá outras providências."
+    },
+    {
+      "senadoId": "525873",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-06-01-1626",
+      "titulo": "Decreto-Lei nº 1.626 de 01/06/1978",
+      "data": "1978-06-01",
+      "numero": "1626",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-06-01;1626",
+      "ementa": "Dispõe sobre isenção do Adicional ao Frete para Renovação da Marinha   Mercante e da Taxa de Melhoramento dos Portos, nos casos que especifica, e dá   outras providências."
+    },
+    {
+      "senadoId": "525871",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-05-09-1625",
+      "titulo": "Decreto-Lei nº 1.625 de 09/05/1978",
+      "data": "1978-05-09",
+      "numero": "1625",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-05-09;1625",
+      "ementa": "Acrescenta parágrafo ao art. 15 do Decreto-Lei nº 1493, de 7 de dezembro   de 1976, e dá outras providências."
+    },
+    {
+      "senadoId": "525869",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-05-03-1624",
+      "titulo": "Decreto-Lei nº 1.624 de 03/05/1978",
+      "data": "1978-05-03",
+      "numero": "1624",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-05-03;1624",
+      "ementa": "Estende o prazo de redução do imposto sobre a renda e adicionais não   restituíveis previsto na artigo 14 da Lei nº 4239, de 27 de junho de   1963."
+    },
+    {
+      "senadoId": "525867",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-04-25-1623",
+      "titulo": "Decreto-Lei nº 1.623 de 25/04/1978",
+      "data": "1978-04-25",
+      "numero": "1623",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-04-25;1623",
+      "ementa": "Dispõe sobre a retribuição do Governador do Estado de Mato Grosso do Sul e   do pessoal requisitado para prestar serviços à Comissão Especial de que trata o   art. 48 da Lei Complemetar n.º 31, de 11 de outubro de 1977, e dá outras   providências."
+    },
+    {
+      "senadoId": "525865",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-04-18-1622",
+      "titulo": "Decreto-Lei nº 1.622 de 18/04/1978",
+      "data": "1978-04-18",
+      "numero": "1622",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-04-18;1622",
+      "ementa": "Concede isenção do imposto sobre produtos industrializados e do imposto   de importação nos casos que especifica."
+    },
+    {
+      "senadoId": "525863",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-04-13-1621",
+      "titulo": "Decreto-Lei nº 1.621 de 13/04/1978",
+      "data": "1978-04-13",
+      "numero": "1621",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-04-13;1621",
+      "ementa": "Concede incentivos à capitalização da empresa privada nacional e ao   financiamento da pequena e média empresa de regiões menos desenvolvidas e dá   outras providências."
+    },
+    {
+      "senadoId": "525861",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-10-1620",
+      "titulo": "Decreto-Lei nº 1.620 de 10/03/1978",
+      "data": "1978-03-10",
+      "numero": "1620",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-10;1620",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das   Secretarias dos Tribunais do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "525859",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-06-1619",
+      "titulo": "Decreto-Lei nº 1.619 de 06/03/1978",
+      "data": "1978-03-06",
+      "numero": "1619",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-06;1619",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Serviços   Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525843",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1611",
+      "titulo": "Decreto-Lei nº 1.611 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1611",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1611",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores das Secretarias das   Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras   providências."
+    },
+    {
+      "senadoId": "525853",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1616",
+      "titulo": "Decreto-Lei nº 1.616 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1616",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1616",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Quadros   Permanentes e Suplementares do Superior Tribunal Militar e dá outra   providências."
+    },
+    {
+      "senadoId": "525845",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1612",
+      "titulo": "Decreto-Lei nº 1.612 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1612",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1612",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria   do Tribunal de Justiça do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525857",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1618",
+      "titulo": "Decreto-Lei nº 1.618 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1618",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1618",
+      "ementa": "Fixa o valor do soldo dos postos de Coronel PM da Polícia Militar e de   Coronel BM do Corpo de Bombeiros do Distrito Federal e dá nova redação a   dispositivos das Leis nºs 5619, de 3 de novembro de 1970 e 5906, de 23 de julho   de 1973."
+    },
+    {
+      "senadoId": "525849",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1614",
+      "titulo": "Decreto-Lei nº 1.614 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1614",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1614",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Distrito   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525847",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1613",
+      "titulo": "Decreto-Lei nº 1.613 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1613",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1613",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos   Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos   Territórios."
+    },
+    {
+      "senadoId": "525855",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1617",
+      "titulo": "Decreto-Lei nº 1.617 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1617",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1617",
+      "ementa": "Destina a renda líquida de um dos concursos de prognósticos esportivos ao   custeio da realização do Campeonato Brasileiro de Futebol e dá outras   providências."
+    },
+    {
+      "senadoId": "525851",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-03-1615",
+      "titulo": "Decreto-Lei nº 1.615 de 03/03/1978",
+      "data": "1978-03-03",
+      "numero": "1615",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1615",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria Geral do   Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "525841",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-02-1610",
+      "titulo": "Decreto-Lei nº 1.610 de 02/03/1978",
+      "data": "1978-03-02",
+      "numero": "1610",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-02;1610",
+      "ementa": "Reajusta os vencimentos e proventos dos membros do Tribunal de Contas do   Distrito Federal e respectivo Ministério Público."
+    },
+    {
+      "senadoId": "525839",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-03-01-1609",
+      "titulo": "Decreto-Lei nº 1.609 de 01/03/1978",
+      "data": "1978-03-01",
+      "numero": "1609",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-03-01;1609",
+      "ementa": "Altera o artigo 3º da Lei n.º 6.441, de 1º de setembro de 1977, que dispõe   sobre a abertura de crédito especial para indenização à Companhia Docas da   Bahia."
+    },
+    {
+      "senadoId": "525837",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-02-28-1608",
+      "titulo": "Decreto-Lei nº 1.608 de 28/02/1978",
+      "data": "1978-02-28",
+      "numero": "1608",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-02-28;1608",
+      "ementa": "Altera incentivo fiscal previsto na legislação do Imposto de Renda."
+    },
+    {
+      "senadoId": "525835",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-02-27-1607",
+      "titulo": "Decreto-Lei nº 1.607 de 27/02/1978",
+      "data": "1978-02-27",
+      "numero": "1607",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-02-27;1607",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das   Secretarias do Tribunal Federal de Recursos e do Conselho de Justiça Federal, e   dá outras providências."
+    },
+    {
+      "senadoId": "525831",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-02-27-1605",
+      "titulo": "Decreto-Lei nº 1.605 de 27/02/1978",
+      "data": "1978-02-27",
+      "numero": "1605",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-02-27;1605",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria   do Supremo Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525833",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-02-27-1606",
+      "titulo": "Decreto-Lei nº 1.606 de 27/02/1978",
+      "data": "1978-02-27",
+      "numero": "1606",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-02-27;1606",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Justiça   Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "525827",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-02-22-1603",
+      "titulo": "Decreto-Lei nº 1.603 de 22/02/1978",
+      "data": "1978-02-22",
+      "numero": "1603",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-02-22;1603",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração dos militares e dá   nova redação a dispositivo da Lei nº 5.787, de 27 junho de 1972."
+    },
+    {
+      "senadoId": "525829",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-02-22-1604",
+      "titulo": "Decreto-Lei nº 1.604 de 22/02/1978",
+      "data": "1978-02-22",
+      "numero": "1604",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-02-22;1604",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências."
+    },
+    {
+      "senadoId": "525825",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-01-20-1602",
+      "titulo": "Decreto-Lei nº 1.602 de 20/01/1978",
+      "data": "1978-01-20",
+      "numero": "1602",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-01-20;1602",
+      "ementa": "Prorroga, até 31 de dezembro de 1979, o regime especial de que trata o   Decreto-lei nº 1.532, de 30 de março de 1977."
+    },
+    {
+      "senadoId": "525823",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-01-18-1601",
+      "titulo": "Decreto-Lei nº 1.601 de 18/01/1978",
+      "data": "1978-01-18",
+      "numero": "1601",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-01-18;1601",
+      "ementa": "Dispõe sobre a sistemática a ser aplicada aos incentivos fiscais à   atividade turística, que menciona, ;e dá outras providências."
+    },
+    {
+      "senadoId": "525821",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1978-01-03-1600",
+      "titulo": "Decreto-Lei nº 1.600 de 03/01/1978",
+      "data": "1978-01-03",
+      "numero": "1600",
+      "urn": "urn:lex:br:federal:decreto.lei:1978-01-03;1600",
+      "ementa": "Altera, para o exercício de 1978, a distribuição do produto da arrecadação   dos impostos que menciona."
+    }
+  ],
+  "pendencias": []
+}

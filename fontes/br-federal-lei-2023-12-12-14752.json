@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-12-12-14752",
+  "titulo": "Lei nº 14.752 de 12/12/2023",
+  "data": "2023-12-12",
+  "fonte": "https://normas.leg.br/api/public/binario/6a02c7f2-2771-46ca-98f8-8135b641c388/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-12-12;14752",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-12-12%3B14752&tipo_documento=maior-detalhe",
+  "sha256_dados": "767a32d7b192d6afa1ab4398bbdd8cbfc9d50d0058bca1fe4fb57893377b881c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:27:10.307Z",
+  "sha256_fonte": "ff4c9c599c1b05019bf91d7a4fbd3992bc4dcc543779f49a75f875548af2b4fb",
+  "sha256_markdown": "197720ce30b357cd09ac64eae9e479c132547eadc2b03d904043c8d47432b090"
+}

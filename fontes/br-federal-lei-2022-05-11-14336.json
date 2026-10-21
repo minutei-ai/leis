@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-05-11-14336",
+  "titulo": "Lei nº 14.336 de 11/05/2022",
+  "data": "2022-05-11",
+  "fonte": "https://normas.leg.br/api/public/binario/17bf8c9e-3b1f-4cb1-b0f8-48abc45ca9ca/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-05-11;14336",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-05-11%3B14336&tipo_documento=maior-detalhe",
+  "sha256_dados": "2fa3b7b7e5d0fac2ab85db8b8f1897643cabbe2c8bd4d91b5e9ec3447681051d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:07.562Z",
+  "sha256_fonte": "9dfb884ad27c61b194ecc7230d2f6ed6fdceb1c923583cc9387d5b006592cbbd",
+  "sha256_markdown": "be52b11f8f105adf59021f7a29ff72b393246fbe6f2b316941c6f41fff139ec8"
+}

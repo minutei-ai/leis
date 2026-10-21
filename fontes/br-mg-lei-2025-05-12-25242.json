@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-12-25242",
+  "titulo": "LEI nº 25242, de 12/05/2025",
+  "data": "2025-05-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25242/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25242/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "68667bb14ba87169a653885e2c3a5b770c6533b07988986f351f7f690d9e4426",
+  "coletado_em": "2026-10-21T08:31:17.110Z",
+  "sha256_fonte": "9553f5e2d327b8ec6bb0051110279b0706ba5c738f7127bdf7cb71391fff126d",
+  "sha256_markdown": "75c812dbcb35788e1cf261fda8335d76498c28016a0afc022433fcf186dae6f6"
+}

@@ -1,0 +1,149 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2022",
+  "tipo": "EMC",
+  "ano": 2022,
+  "coletado_em": "2026-10-21T08:39:29.064Z",
+  "normas": [
+    {
+      "senadoId": "36638908",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-12-22-128",
+      "titulo": "Emenda Constitucional nº 128 de 22/12/2022",
+      "data": "2022-12-22",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-22;128",
+      "ementa": "Acrescenta § 7º ao art. 167 da Constituição Federal, para proibir a imposição e a transferência, por lei, de qualquer encargo financeiro decorrente da prestação de serviço público para a União, os Estados, o Distrito Federal e os Municípios."
+    },
+    {
+      "senadoId": "36638795",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-12-22-127",
+      "titulo": "Emenda Constitucional nº 127 de 22/12/2022",
+      "data": "2022-12-22",
+      "numero": "127",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-22;127",
+      "ementa": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer que compete à União prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, para o cumprimento dos pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira; altera a Emenda Constitucional nº 109, de 15 de março de 2021, para estabelecer o superávit financeiro dos fundos públicos do Poder Executivo como fonte de recursos para o cumprimento dos pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira; e dá outras providências."
+    },
+    {
+      "senadoId": "36621395",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-12-21-126",
+      "titulo": "Emenda Constitucional nº 126 de 21/12/2022",
+      "data": "2022-12-21",
+      "numero": "126",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-21;126",
+      "ementa": "Altera a Constituição Federal, para dispor sobre as emendas individuais ao projeto de lei orçamentária, e o Ato das Disposições Constitucionais Transitórias para excluir despesas dos limites previstos no art. 107; define regras para a transição da Presidência da República aplicáveis à Lei Orçamentária de 2023; e dá outras providências."
+    },
+    {
+      "senadoId": "36089342",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-07-14-125",
+      "titulo": "Emenda Constitucional nº 125 de 14/07/2022",
+      "data": "2022-07-14",
+      "numero": "125",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;125",
+      "ementa": "Altera o art. 105 da Constituição Federal para instituir no recurso especial o requisito da relevância das questões de direito federal infraconstitucional."
+    },
+    {
+      "senadoId": "36089312",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-07-14-123",
+      "titulo": "Emenda Constitucional nº 123 de 14/07/2022",
+      "data": "2022-07-14",
+      "numero": "123",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;123",
+      "ementa": "Altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis; inclui o art. 120 no Ato das Disposições Constitucionais Transitórias para reconhecer o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes; autoriza a União a entregar auxílio financeiro aos Estados e ao Distrito Federal que outorgarem créditos tributários do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) aos produtores e distribuidores de etanol hidratado; expande o auxílio Gás dos Brasileiros, de que trata a Lei nº 14.237, de 19 de novembro de 2021; institui auxílio para caminhoneiros autônomos; expande o Programa Auxílio Brasil, de que trata a Lei nº 14.284, de 29 de dezembro de 2021; e institui auxílio para entes da Federação financiarem a gratuidade do transporte público."
+    },
+    {
+      "senadoId": "36089282",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-07-14-124",
+      "titulo": "Emenda Constitucional nº 124 de 14/07/2022",
+      "data": "2022-07-14",
+      "numero": "124",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;124",
+      "ementa": "Institui o piso salarial nacional do enfermeiro, do técnico de enfermagem, do auxiliar de enfermagem e da parteira."
+    },
+    {
+      "senadoId": "35857592",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-05-17-122",
+      "titulo": "Emenda Constitucional nº 122 de 17/05/2022",
+      "data": "2022-05-17",
+      "numero": "122",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-17;122",
+      "ementa": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+    },
+    {
+      "senadoId": "35829646",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-05-10-121",
+      "titulo": "Emenda Constitucional nº 121 de 10/05/2022",
+      "data": "2022-05-10",
+      "numero": "121",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-10;121",
+      "ementa": "Altera o inciso IV do § 2º do art. 4º da Emenda Constitucional nº 109, de 15 de março de 2021."
+    },
+    {
+      "senadoId": "35737911",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-05-05-120",
+      "titulo": "Emenda Constitucional nº 120 de 05/05/2022",
+      "data": "2022-05-05",
+      "numero": "120",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-05;120",
+      "ementa": "Acrescenta §§ 7º, 8º, 9º, 10 e 11 ao art. 198 da Constituição Federal, para dispor sobre a responsabilidade financeira da União, corresponsável pelo Sistema Único de Saúde (SUS), na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário de saúde e de agente de combate às endemias."
+    },
+    {
+      "senadoId": "35702683",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-04-27-119",
+      "titulo": "Emenda Constitucional nº 119 de 27/04/2022",
+      "data": "2022-04-27",
+      "numero": "119",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-04-27;119",
+      "ementa": "Altera o Ato das Disposições Constitucionais Transitórias para determinar a impossibilidade de responsabilização dos Estados, do Distrito Federal, dos Municípios e dos agentes públicos desses entes federados pelo descumprimento, nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal; e dá outras providências."
+    },
+    {
+      "senadoId": "35698650",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-04-26-118",
+      "titulo": "Emenda Constitucional nº 118 de 26/04/2022",
+      "data": "2022-04-26",
+      "numero": "118",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-04-26;118",
+      "ementa": "Dá nova redação às alíneas \"b\" e \"c\" do inciso XXIII do caput do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos."
+    },
+    {
+      "senadoId": "35647460",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-04-05-117",
+      "titulo": "Emenda Constitucional nº 117 de 05/04/2022",
+      "data": "2022-04-05",
+      "numero": "117",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-04-05;117",
+      "ementa": "Altera o art. 17 da Constituição Federal para impor aos partidos políticos a aplicação de recursos do fundo partidário na promoção e difusão da participação política das mulheres, bem como a aplicação de recursos desse fundo e do Fundo Especial de Financiamento de Campanha e a divisão do tempo de propaganda gratuita no rádio e na televisão no percentual mínimo de 30% (trinta por cento) para candidaturas femininas."
+    },
+    {
+      "senadoId": "35503810",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-02-17-116",
+      "titulo": "Emenda Constitucional nº 116 de 17/02/2022",
+      "data": "2022-02-17",
+      "numero": "116",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-02-17;116",
+      "ementa": "Acrescenta § 1º-A ao art. 156 da Constituição Federal para prever a não incidência sobre templos de qualquer culto do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), ainda que as entidades abrangidas pela imunidade tributária sejam apenas locatárias do bem imóvel."
+    },
+    {
+      "senadoId": "35485358",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2022-02-10-115",
+      "titulo": "Emenda Constitucional nº 115 de 10/02/2022",
+      "data": "2022-02-10",
+      "numero": "115",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-02-10;115",
+      "ementa": "Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais."
+    }
+  ],
+  "pendencias": []
+}

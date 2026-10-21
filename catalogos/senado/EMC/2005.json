@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2005",
+  "tipo": "EMC",
+  "ano": 2005,
+  "coletado_em": "2026-10-21T08:39:45.171Z",
+  "normas": [
+    {
+      "senadoId": "540651",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2005-08-10-48",
+      "titulo": "Emenda Constitucional nº 48 de 10/08/2005",
+      "data": "2005-08-10",
+      "numero": "48",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2005-08-10;48",
+      "ementa": "Acrescenta o § 3º ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura."
+    },
+    {
+      "senadoId": "540650",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2005-07-05-47",
+      "titulo": "Emenda Constitucional nº 47 de 05/07/2005",
+      "data": "2005-07-05",
+      "numero": "47",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2005-07-05;47",
+      "ementa": "Altera os arts. 37, 40, 195 e 201 da Constituição Federal, para dispor sobre a previdência social, e dá outras providências."
+    },
+    {
+      "senadoId": "540649",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2005-05-05-46",
+      "titulo": "Emenda Constitucional nº 46 de 05/05/2005",
+      "data": "2005-05-05",
+      "numero": "46",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2005-05-05;46",
+      "ementa": "Altera o inciso IV do art. 20 da Constituição Federal."
+    }
+  ],
+  "pendencias": []
+}

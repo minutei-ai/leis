@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-10-13929",
+  "titulo": "Lei nº 13.929 de 10/12/2019",
+  "data": "2019-12-10",
+  "fonte": "https://normas.leg.br/api/public/binario/99d7efbb-dd2c-4a5a-99af-80b89b925ddc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-10;13929",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-10%3B13929&tipo_documento=maior-detalhe",
+  "sha256_dados": "2e54a702493eb8e89691619dec4a1d14df9f65ebdf81bded685eb0ea509febc7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:53.670Z",
+  "sha256_fonte": "a52a45afe07456960877a6dd37a5c5a04f4ee00eef0d9dd85fce4c5d7a55cc34",
+  "sha256_markdown": "e9db9913145f5ced2cdc559514d7810073dc96b787e8b74fced4ff79a6792125"
+}

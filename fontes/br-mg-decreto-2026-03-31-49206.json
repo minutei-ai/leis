@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-31-49206",
+  "titulo": "DEC nº 49206, de 31/03/2026",
+  "data": "2026-03-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49206/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49206/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b85eb26fede3649a58f975f186bd4e6819aa1f6da9f36c98a09c87e9ef363d44",
+  "coletado_em": "2026-10-21T08:26:24.029Z",
+  "sha256_fonte": "5ed0a9148e81cf3fd99fddb8e7fabf964493401f0ba2f25a5c4dab74a23e84df",
+  "sha256_markdown": "2d519056311f3fa77a93daa5b137120a3006721180ecca6e55c237412d9c1c4f"
+}

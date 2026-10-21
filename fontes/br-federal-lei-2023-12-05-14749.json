@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-12-05-14749",
+  "titulo": "Lei nº 14.749 de 05/12/2023",
+  "data": "2023-12-05",
+  "fonte": "https://normas.leg.br/api/public/binario/fd726875-5678-4463-95a4-c608a1ff44da/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-12-05;14749",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-12-05%3B14749&tipo_documento=maior-detalhe",
+  "sha256_dados": "2a1ae384f2a8fa45eeea3811d6ca9a1d0f768ba4a66798caf9ccc7f2ba094e98",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:27:18.111Z",
+  "sha256_fonte": "5bfba3ebfa262d2a968e70eb09541ca1950071dc7b7c4d17be8e4f887143a0a3",
+  "sha256_markdown": "12c6a788768e3c7a4a57145e42acaa1086e9a5fe51a75f88387ee942eedfc2bd"
+}

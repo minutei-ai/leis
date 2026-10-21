@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-11-24-14104",
+  "titulo": "Lei nº 14.104 de 24/11/2020",
+  "data": "2020-11-24",
+  "fonte": "https://normas.leg.br/api/public/binario/e1913173-c58a-4cfa-9774-f19da5a3352f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-11-24;14104",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-11-24%3B14104&tipo_documento=maior-detalhe",
+  "sha256_dados": "a3f57bc0ec7d0bbcac9dc81ca4e8b7d6f55b834e579f577b3a0a79a7f3ac3ec7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:07.586Z",
+  "sha256_fonte": "7249ec7d1c7679e24a0480dbdc73b7c43540c1423de06954c114a0d14ee836b8",
+  "sha256_markdown": "cd8172307ab698e33c491bfee2afa6c8933c2b2e64e163cbd9e95e85b9952a72"
+}

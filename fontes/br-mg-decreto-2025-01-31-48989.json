@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-01-31-48989",
+  "titulo": "DEC nº 48989, de 31/01/2025",
+  "data": "2025-01-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48989/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48989/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "1a7deace00d0bb1403e715575eb11a4b3d9453f79ccc9b3548247697f761273b",
+  "coletado_em": "2026-10-21T08:30:07.399Z",
+  "sha256_fonte": "b7c6fd1c887b2a2b7b5afbd974555c0abfe6b46ef9f54c3f09f1df808745e97a",
+  "sha256_markdown": "fe77e2c94d48607da178a46c78726b9fbbea7d07e0fdf1e88e59896318c11c0d"
+}

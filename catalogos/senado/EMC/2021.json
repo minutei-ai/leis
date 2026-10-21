@@ -1,0 +1,69 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2021",
+  "tipo": "EMC",
+  "ano": 2021,
+  "coletado_em": "2026-10-21T08:39:30.008Z",
+  "normas": [
+    {
+      "senadoId": "35289134",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2021-12-16-114",
+      "titulo": "Emenda Constitucional nº 114 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "114",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-12-16;114",
+      "ementa": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modificar normas relativas ao Novo Regime Fiscal e autorizar o parcelamento de débitos previdenciários dos Municípios; e dá outras providências."
+    },
+    {
+      "senadoId": "35268195",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2021-12-08-113",
+      "titulo": "Emenda Constitucional nº 113 de 08/12/2021",
+      "data": "2021-12-08",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-12-08;113",
+      "ementa": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modificar normas relativas ao Novo Regime Fiscal e autorizar o parcelamento de débitos previdenciários dos Municípios; e dá outras providências."
+    },
+    {
+      "senadoId": "35097276",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2021-10-27-112",
+      "titulo": "Emenda Constitucional nº 112 de 27/10/2021",
+      "data": "2021-10-27",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-10-27;112",
+      "ementa": "Altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios."
+    },
+    {
+      "senadoId": "34969552",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2021-09-28-111",
+      "titulo": "Emenda Constitucional nº 111 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-09-28;111",
+      "ementa": "Altera a Constituição Federal para disciplinar a realização de consultas populares concomitantes às eleições municipais, dispor sobre o instituto da fidelidade partidária, alterar a data de posse de Governadores e do Presidente da República e estabelecer regras transitórias para distribuição entre os partidos políticos dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha (FEFC) e para o funcionamento dos partidos políticos."
+    },
+    {
+      "senadoId": "34276106",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2021-07-12-110",
+      "titulo": "Emenda Constitucional nº 110 de 12/07/2021",
+      "data": "2021-07-12",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-07-12;110",
+      "ementa": "Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994."
+    },
+    {
+      "senadoId": "33324315",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2021-03-15-109",
+      "titulo": "Emenda Constitucional nº 109 de 15/03/2021",
+      "data": "2021-03-15",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-03-15;109",
+      "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia da Covid-19."
+    }
+  ],
+  "pendencias": []
+}

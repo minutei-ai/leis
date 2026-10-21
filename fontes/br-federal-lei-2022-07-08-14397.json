@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-08-14397",
+  "titulo": "Lei nº 14.397 de 08/07/2022",
+  "data": "2022-07-08",
+  "fonte": "https://normas.leg.br/api/public/binario/a724d411-69e3-445e-a0f8-1ad48fc968b9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-08;14397",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-08%3B14397&tipo_documento=maior-detalhe",
+  "sha256_dados": "41d1dbc79dcc1c4226bd6e52d5e5435cd6d6af798bf5b6b9d4b8a18252fe0d00",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:49.511Z",
+  "sha256_fonte": "ff883102eef6d4b1fb5f29799dcf60a0136e321e5b67313e47edc33ac56623d2",
+  "sha256_markdown": "097435442321a32d1889bdf121437feaa2478f2dba10c46849b2c711c6a1599c"
+}

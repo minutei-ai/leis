@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-05-24-48831",
+  "titulo": "DEC nº 48831, de 24/05/2024",
+  "data": "2024-05-24",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48831/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48831/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ee55ccc14491d7befb8a315ba97276eb4ab05f3df2aaddeb809623ce3c4f1def",
+  "coletado_em": "2026-10-21T08:38:53.912Z",
+  "sha256_fonte": "69fb4761f2d8fc059bf3764cc9ce2d7088322c83966b356adefe0a2868011be9",
+  "sha256_markdown": "38261254e388a2eab53098a0cfb3bf8c10ef8e387872e7b039c82f16bccf2328"
+}

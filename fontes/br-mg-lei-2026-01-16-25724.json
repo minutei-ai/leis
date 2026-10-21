@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-16-25724",
+  "titulo": "LEI nº 25724, de 16/01/2026",
+  "data": "2026-01-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25724/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25724/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8a8a64424f9fed0a2b9bb239a0473e4de569e0f368faa2dbd8e12ef285b19b18",
+  "coletado_em": "2026-10-21T08:25:10.107Z",
+  "sha256_fonte": "9321c5d62dda829e2174f7b669854863c585b9a6e2ad6f279a5165bdea4e335a",
+  "sha256_markdown": "b9235529e2eb9d907741599e5f316a896ea92771de10019ac5948ffe1f81ee57"
+}

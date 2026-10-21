@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-02-01-48774",
+  "titulo": "DEC nº 48774, de 01/02/2024",
+  "data": "2024-02-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48774/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48774/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "5642a6430b58a94b1b808d2bd5a4835531ce524964a4e9eb5e00c226dd779572",
+  "coletado_em": "2026-10-21T08:37:28.454Z",
+  "sha256_fonte": "f2ba396f742daae857146e3f3b24c58ca1e8837262be015a97f6167558e7ec10",
+  "sha256_markdown": "2b9dcfb419062acf41181511d864d5be8c93e5480162a1deb5655ee8bd74dcc2"
+}

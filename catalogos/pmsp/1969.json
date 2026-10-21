@@ -1,0 +1,1034 @@
+{
+  "ano_publicacao": 1969,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1969",
+    "ano-final": "31/12/1969",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:41.918Z",
+  "total": 168,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "f0a642d378cfbbb551626266e249cd1493419a873ef92dc236ca5883d7652ad2"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "5bf8bcb5bb43d7b26d8b8dd2866f7cf95bf9a9a3613cdb703696cbec7fbc4ce3"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7410-de-30-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.410 de 30 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-30-7410",
+      "data": "1969-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7405-de-19-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.405 de 19 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-19-7405",
+      "data": "1969-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7403-de-19-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.403 de 19 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-19-7403",
+      "data": "1969-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7404-de-19-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.404 de 19 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-19-7404",
+      "data": "1969-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7402-de-12-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.402 de 12 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-12-7402",
+      "data": "1969-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7401-de-9-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.401 de 9 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-09-7401",
+      "data": "1969-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7400-de-9-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.400 de 9 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-09-7400",
+      "data": "1969-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7399-de-4-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.399 de 4 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-04-7399",
+      "data": "1969-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7398-de-4-de-dezembro-de-1969",
+      "titulo": "LEI Nº 7.398 de 4 de Dezembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-12-04-7398",
+      "data": "1969-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7397-de-26-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.397 de 26 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-26-7397",
+      "data": "1969-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7395-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.395 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7395",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7394-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.394 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7394",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7393-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.393 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7393",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7392-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.392 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7392",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7391-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.391 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7391",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7390-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.390 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7390",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7389-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.389 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7389",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7387-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.387 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7387",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7386-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.386 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7386",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7396-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.396 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7396",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7388-de-19-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.388 de 19 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-19-7388",
+      "data": "1969-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7385-de-14-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.385 de 14 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-14-7385",
+      "data": "1969-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7384-de-14-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.384 de 14 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-14-7384",
+      "data": "1969-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7383-de-14-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.383 de 14 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-14-7383",
+      "data": "1969-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7382-de-7-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.382 de 7 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-07-7382",
+      "data": "1969-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7381-de-7-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.381 de 7 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-07-7381",
+      "data": "1969-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7377-de-7-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.377 de 7 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-07-7377",
+      "data": "1969-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7378-de-7-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.378 de 7 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-07-7378",
+      "data": "1969-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7380-de-6-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.380 de 6 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-06-7380",
+      "data": "1969-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7379-de-6-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.379 de 6 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-06-7379",
+      "data": "1969-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7376-de-6-de-novembro-de-1969",
+      "titulo": "LEI Nº 7.376 de 6 de Novembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-11-06-7376",
+      "data": "1969-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7375-de-29-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.375 de 29 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-29-7375",
+      "data": "1969-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7374-de-29-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.374 de 29 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-29-7374",
+      "data": "1969-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7373-de-20-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.373 de 20 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-20-7373",
+      "data": "1969-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7372-de-20-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.372 de 20 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-20-7372",
+      "data": "1969-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7371-de-9-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.371 de 9 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-09-7371",
+      "data": "1969-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7369-de-9-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.369 de 9 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-09-7369",
+      "data": "1969-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7368-de-9-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.368 de 9 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-09-7368",
+      "data": "1969-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7370-de-9-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.370 de 9 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-09-7370",
+      "data": "1969-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7367-de-2-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.367 de 2 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-02-7367",
+      "data": "1969-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7366-de-2-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.366 de 2 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-02-7366",
+      "data": "1969-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7365-de-2-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.365 de 2 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-02-7365",
+      "data": "1969-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7364-de-2-de-outubro-de-1969",
+      "titulo": "LEI Nº 7.364 de 2 de Outubro de 1969",
+      "id": "br-municipal-3550308-lei-1969-10-02-7364",
+      "data": "1969-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7363-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.363 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7363",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7362-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.362 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7362",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7361-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.361 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7361",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7360-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.360 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7360",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7357-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.357 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7357",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7359-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.359 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7359",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7358-de-25-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.358 de 25 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-25-7358",
+      "data": "1969-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7356-de-19-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.356 de 19 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-19-7356",
+      "data": "1969-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7355-de-19-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.355 de 19 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-19-7355",
+      "data": "1969-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7354-de-19-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.354 de 19 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-19-7354",
+      "data": "1969-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7353-de-19-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.353 de 19 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-19-7353",
+      "data": "1969-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7348-de-10-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.348 de 10 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-10-7348",
+      "data": "1969-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7351-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.351 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7351",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7349-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.349 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7349",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7347-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.347 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7347",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7346-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.346 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7346",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7345-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.345 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7345",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7344-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.344 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7344",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7343-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.343 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7343",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7342-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.342 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7342",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7341-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.341 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7341",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7340-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.340 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7340",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7352-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.352 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7352",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7350-de-9-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.350 de 9 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-09-7350",
+      "data": "1969-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7339-de-1-de-setembro-de-1969",
+      "titulo": "LEI Nº 7.339 de 1 de Setembro de 1969",
+      "id": "br-municipal-3550308-lei-1969-09-01-7339",
+      "data": "1969-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7338-de-28-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.338 de 28 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-28-7338",
+      "data": "1969-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7337-de-28-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.337 de 28 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-28-7337",
+      "data": "1969-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7336-de-21-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.336 de 21 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-21-7336",
+      "data": "1969-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7335-de-21-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.335 de 21 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-21-7335",
+      "data": "1969-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7334-de-21-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.334 de 21 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-21-7334",
+      "data": "1969-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7333-de-14-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.333 de 14 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-14-7333",
+      "data": "1969-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7332-de-14-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.332 de 14 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-14-7332",
+      "data": "1969-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7331-de-14-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.331 de 14 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-14-7331",
+      "data": "1969-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7330-de-14-de-agosto-de-1969",
+      "titulo": "LEI Nº 7.330 de 14 de Agosto de 1969",
+      "id": "br-municipal-3550308-lei-1969-08-14-7330",
+      "data": "1969-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7328-de-11-de-julho-de-1969",
+      "titulo": "LEI Nº 7.328 de 11 de Julho de 1969",
+      "id": "br-municipal-3550308-lei-1969-07-11-7328",
+      "data": "1969-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7329-de-11-de-julho-de-1969",
+      "titulo": "LEI Nº 7.329 de 11 de Julho de 1969",
+      "id": "br-municipal-3550308-lei-1969-07-11-7329",
+      "data": "1969-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7326-de-4-de-julho-de-1969",
+      "titulo": "LEI Nº 7.326 de 4 de Julho de 1969",
+      "id": "br-municipal-3550308-lei-1969-07-04-7326",
+      "data": "1969-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7325-de-4-de-julho-de-1969",
+      "titulo": "LEI Nº 7.325 de 4 de Julho de 1969",
+      "id": "br-municipal-3550308-lei-1969-07-04-7325",
+      "data": "1969-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7327-de-4-de-julho-de-1969",
+      "titulo": "LEI Nº 7.327 de 4 de Julho de 1969",
+      "id": "br-municipal-3550308-lei-1969-07-04-7327",
+      "data": "1969-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7324-de-27-de-junho-de-1969",
+      "titulo": "LEI Nº 7.324 de 27 de Junho de 1969",
+      "id": "br-municipal-3550308-lei-1969-06-27-7324",
+      "data": "1969-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7322-de-23-de-junho-de-1969",
+      "titulo": "LEI Nº 7.322 de 23 de Junho de 1969",
+      "id": "br-municipal-3550308-lei-1969-06-23-7322",
+      "data": "1969-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7323-de-23-de-junho-de-1969",
+      "titulo": "LEI Nº 7.323 de 23 de Junho de 1969",
+      "id": "br-municipal-3550308-lei-1969-06-23-7323",
+      "data": "1969-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7321-de-23-de-junho-de-1969",
+      "titulo": "LEI Nº 7.321 de 23 de Junho de 1969",
+      "id": "br-municipal-3550308-lei-1969-06-23-7321",
+      "data": "1969-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7320-de-23-de-junho-de-1969",
+      "titulo": "LEI Nº 7.320 de 23 de Junho de 1969",
+      "id": "br-municipal-3550308-lei-1969-06-23-7320",
+      "data": "1969-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7319-de-30-de-maio-de-1969",
+      "titulo": "LEI Nº 7.319 de 30 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-30-7319",
+      "data": "1969-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7318-de-23-de-maio-de-1969",
+      "titulo": "LEI Nº 7.318 de 23 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-23-7318",
+      "data": "1969-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7317-de-23-de-maio-de-1969",
+      "titulo": "LEI Nº 7.317 de 23 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-23-7317",
+      "data": "1969-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7316-de-15-de-maio-de-1969",
+      "titulo": "LEI Nº 7.316 de 15 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-15-7316",
+      "data": "1969-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7315-de-15-de-maio-de-1969",
+      "titulo": "LEI Nº 7.315 de 15 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-15-7315",
+      "data": "1969-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7312-de-15-de-maio-de-1969",
+      "titulo": "LEI Nº 7.312 de 15 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-15-7312",
+      "data": "1969-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7314-de-15-de-maio-de-1969",
+      "titulo": "LEI Nº 7.314 de 15 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-15-7314",
+      "data": "1969-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7313-de-15-de-maio-de-1969",
+      "titulo": "LEI Nº 7.313 de 15 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-15-7313",
+      "data": "1969-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7311-de-8-de-maio-de-1969",
+      "titulo": "LEI Nº 7.311 de 8 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-08-7311",
+      "data": "1969-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7310-de-8-de-maio-de-1969",
+      "titulo": "LEI Nº 7.310 de 8 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-08-7310",
+      "data": "1969-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7309-de-8-de-maio-de-1969",
+      "titulo": "LEI Nº 7.309 de 8 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-08-7309",
+      "data": "1969-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7308-de-7-de-maio-de-1969",
+      "titulo": "LEI Nº 7.308 de 7 de Maio de 1969",
+      "id": "br-municipal-3550308-lei-1969-05-07-7308",
+      "data": "1969-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7307-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.307 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7307",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7306-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.306 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7306",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7305-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.305 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7305",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7304-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.304 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7304",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7303-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.303 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7303",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7301-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.301 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7301",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7300-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.300 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7300",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7299-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.299 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7299",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7298-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.298 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7298",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7297-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.297 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7297",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7296-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.296 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7296",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7295-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.295 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7295",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7294-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.294 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7294",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7293-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.293 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7293",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7292-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.292 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7292",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7302-de-30-de-abril-de-1969",
+      "titulo": "LEI Nº 7.302 de 30 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-30-7302",
+      "data": "1969-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7291-de-17-de-abril-de-1969",
+      "titulo": "LEI Nº 7.291 de 17 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-17-7291",
+      "data": "1969-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7290-de-14-de-abril-de-1969",
+      "titulo": "LEI Nº 7.290 de 14 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-14-7290",
+      "data": "1969-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7289-de-3-de-abril-de-1969",
+      "titulo": "LEI Nº 7.289 de 3 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-03-7289",
+      "data": "1969-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7288-de-2-de-abril-de-1969",
+      "titulo": "LEI Nº 7.288 de 2 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-02-7288",
+      "data": "1969-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7287-de-2-de-abril-de-1969",
+      "titulo": "LEI Nº 7.287 de 2 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-02-7287",
+      "data": "1969-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7285-de-2-de-abril-de-1969",
+      "titulo": "LEI Nº 7.285 de 2 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-02-7285",
+      "data": "1969-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7286-de-2-de-abril-de-1969",
+      "titulo": "LEI Nº 7.286 de 2 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-02-7286",
+      "data": "1969-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7284-de-1-de-abril-de-1969",
+      "titulo": "LEI Nº 7.284 de 1 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-01-7284",
+      "data": "1969-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7283-de-1-de-abril-de-1969",
+      "titulo": "LEI Nº 7.283 de 1 de Abril de 1969",
+      "id": "br-municipal-3550308-lei-1969-04-01-7283",
+      "data": "1969-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7282-de-28-de-marco-de-1969",
+      "titulo": "LEI Nº 7.282 de 28 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-28-7282",
+      "data": "1969-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7281-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.281 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7281",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7280-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.280 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7280",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7279-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.279 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7279",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7278-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.278 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7278",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7277-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.277 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7277",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7276-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.276 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7276",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7275-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.275 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7275",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7274-de-26-de-marco-de-1969",
+      "titulo": "LEI Nº 7.274 de 26 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-26-7274",
+      "data": "1969-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7273-de-21-de-marco-de-1969",
+      "titulo": "LEI Nº 7.273 de 21 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-21-7273",
+      "data": "1969-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7272-de-21-de-marco-de-1969",
+      "titulo": "LEI Nº 7.272 de 21 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-21-7272",
+      "data": "1969-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7271-de-18-de-marco-de-1969",
+      "titulo": "LEI Nº 7.271 de 18 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-18-7271",
+      "data": "1969-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7270-de-18-de-marco-de-1969",
+      "titulo": "LEI Nº 7.270 de 18 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-18-7270",
+      "data": "1969-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7269-de-18-de-marco-de-1969",
+      "titulo": "LEI Nº 7.269 de 18 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-18-7269",
+      "data": "1969-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7268-de-18-de-marco-de-1969",
+      "titulo": "LEI Nº 7.268 de 18 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-18-7268",
+      "data": "1969-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7267-de-18-de-marco-de-1969",
+      "titulo": "LEI Nº 7.267 de 18 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-18-7267",
+      "data": "1969-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7266-de-18-de-marco-de-1969",
+      "titulo": "LEI Nº 7.266 de 18 de Março de 1969",
+      "id": "br-municipal-3550308-lei-1969-03-18-7266",
+      "data": "1969-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7265-de-17-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.265 de 17 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-17-7265",
+      "data": "1969-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7264-de-15-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.264 de 15 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-15-7264",
+      "data": "1969-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7263-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.263 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7263",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7262-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.262 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7262",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7261-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.261 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7261",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7260-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.260 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7260",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7259-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.259 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7259",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7258-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.258 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7258",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7257-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.257 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7257",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7256-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.256 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7256",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7255-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.255 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7255",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7253-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.253 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7253",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7252-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.252 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7252",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7251-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.251 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7251",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7254-de-10-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.254 de 10 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-10-7254",
+      "data": "1969-01-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7250-de-6-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.250 de 6 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-06-7250",
+      "data": "1969-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7249-de-6-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.249 de 6 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-06-7249",
+      "data": "1969-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7248-de-6-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.248 de 6 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-06-7248",
+      "data": "1969-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7247-de-6-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.247 de 6 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-06-7247",
+      "data": "1969-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7246-de-6-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.246 de 6 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-06-7246",
+      "data": "1969-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7245-de-3-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.245 de 3 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-03-7245",
+      "data": "1969-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7244-de-3-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.244 de 3 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-03-7244",
+      "data": "1969-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7243-de-3-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.243 de 3 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-03-7243",
+      "data": "1969-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7242-de-2-de-janeiro-de-1969",
+      "titulo": "LEI Nº 7.242 de 2 de Janeiro de 1969",
+      "id": "br-municipal-3550308-lei-1969-01-02-7242",
+      "data": "1969-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7184-de-18-de-setembro-de-1968",
+      "titulo": "LEI Nº 7.184 de 18 de Setembro de 1968",
+      "id": "br-municipal-3550308-lei-1968-09-18-7184",
+      "data": "1968-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7183-de-18-de-setembro-de-1968",
+      "titulo": "LEI Nº 7.183 de 18 de Setembro de 1968",
+      "id": "br-municipal-3550308-lei-1968-09-18-7183",
+      "data": "1968-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-05869-de-23-de-novembro-de-1961",
+      "titulo": "LEI Nº 05.869 de 23 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-23-05869",
+      "data": "1961-11-23"
+    }
+  ],
+  "pendencias": []
+}

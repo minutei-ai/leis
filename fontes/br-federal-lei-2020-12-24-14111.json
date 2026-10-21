@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-12-24-14111",
+  "titulo": "Lei nº 14.111 de 24/12/2020",
+  "data": "2020-12-24",
+  "fonte": "https://normas.leg.br/api/public/binario/b32a9761-0fc3-4acf-8555-d58241e252d0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-12-24;14111",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-12-24%3B14111&tipo_documento=maior-detalhe",
+  "sha256_dados": "9c63c5c0d0f460486e9fd171eaf219f0a111ace943772f693869c8e096106388",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:57.172Z",
+  "sha256_fonte": "e55ba722075c787181280718466314308f747315d93e090b746fda0d0c24d1ab",
+  "sha256_markdown": "a03cd89c8d852e739a87a1d32243bac3a0b30577c997eecfb3894b25c45a7173"
+}

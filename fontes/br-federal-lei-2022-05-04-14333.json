@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-05-04-14333",
+  "titulo": "Lei nº 14.333 de 04/05/2022",
+  "data": "2022-05-04",
+  "fonte": "https://normas.leg.br/api/public/binario/5247e1e1-d2ad-4e0d-bce2-9a4fe6020784/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-05-04;14333",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-05-04%3B14333&tipo_documento=maior-detalhe",
+  "sha256_dados": "1bf56bc9f1a828ca4f320c61574d9486b8a03e38676c7c15e54883b26f090953",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:15.144Z",
+  "sha256_fonte": "dae4c198915eb2e0a28920b7260e9daa6a47655f2494e781dcb1df90df96f30f",
+  "sha256_markdown": "ae9e2d2e5343e0ca2c03d0c1e4fb034d39e0ac113bc170ec2c5bcb71338fb81b"
+}

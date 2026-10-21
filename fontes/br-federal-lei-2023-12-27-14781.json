@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-12-27-14781",
+  "titulo": "Lei nº 14.781 de 27/12/2023",
+  "data": "2023-12-27",
+  "fonte": "https://normas.leg.br/api/public/binario/7f061f6b-5e9b-4522-a3ef-fdd00ca5b888/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-12-27;14781",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-12-27%3B14781&tipo_documento=maior-detalhe",
+  "sha256_dados": "02fdbc8367974169035e7c503fb7d8864fa10c251356d93315be0b5348659933",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:26:36.889Z",
+  "sha256_fonte": "f20ee87d6ec2db3bf1f2be586d79ec4e777df645e04cfa24a550e8b6bd4321e9",
+  "sha256_markdown": "cd2904de73c7785738cbb275b2388ac3a43b39251c97551876412a386c9f28ee"
+}

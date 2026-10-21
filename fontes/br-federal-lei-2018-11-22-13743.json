@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-22-13743",
+  "titulo": "Lei nº 13.743 de 22/11/2018",
+  "data": "2018-11-22",
+  "fonte": "https://normas.leg.br/api/public/binario/e0c20318-0619-4979-8c6d-d763ce38395f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-22;13743",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-22%3B13743&tipo_documento=maior-detalhe",
+  "sha256_dados": "77df896d698631d820039a6caed2e1f4d93cd7e580dc502ecfb4874e19844236",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:50.064Z",
+  "sha256_fonte": "a9a2bfddd30fe73a1505d81c0609357627cb9169810d8586766418c408915309",
+  "sha256_markdown": "88c832f71c970742474f26354915a1f031c93a667f6748874885da1dd2d853b8"
+}

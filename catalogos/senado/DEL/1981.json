@@ -1,0 +1,689 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1981",
+  "tipo": "DEL",
+  "ano": 1981,
+  "coletado_em": "2026-10-21T08:36:33.856Z",
+  "normas": [
+    {
+      "senadoId": "526439",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-29-1915",
+      "titulo": "Decreto-Lei nº 1.915 de 29/12/1981",
+      "data": "1981-12-29",
+      "numero": "1915",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1915",
+      "ementa": "Prorroga até 31 de dezembro de 1983 o prazo da isenção fiscal concedida às empresas siderúrgicas pelo Decreto-Lei 569, de 7 de maio de 1969."
+    },
+    {
+      "senadoId": "526435",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-29-1913",
+      "titulo": "Decreto-Lei nº 1.913 de 29/12/1981",
+      "data": "1981-12-29",
+      "numero": "1913",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1913",
+      "ementa": "Reajusta os valores de vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, bem como os das pensões e dá outras providências."
+    },
+    {
+      "senadoId": "526433",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-29-1912",
+      "titulo": "Decreto-Lei nº 1.912 de 29/12/1981",
+      "data": "1981-12-29",
+      "numero": "1912",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1912",
+      "ementa": "Altera a Lei nº. 4452, de 5 de novembro de 1964."
+    },
+    {
+      "senadoId": "526429",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-29-1910",
+      "titulo": "Decreto-Lei nº 1.910 de 29/12/1981",
+      "data": "1981-12-29",
+      "numero": "1910",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1910",
+      "ementa": "Dispõe sobre contribuições para o custeio da Previdência Social e dá   outras providências."
+    },
+    {
+      "senadoId": "526431",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-29-1911",
+      "titulo": "Decreto-Lei nº 1.911 de 29/12/1981",
+      "data": "1981-12-29",
+      "numero": "1911",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1911",
+      "ementa": "Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional - ORTN   para cobertura do débito da Previdência Oficial junto à rede bancária pública e   privada."
+    },
+    {
+      "senadoId": "526437",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-29-1914",
+      "titulo": "Decreto-Lei nº 1.914 de 29/12/1981",
+      "data": "1981-12-29",
+      "numero": "1914",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1914",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria-Geral do Tribunal de Contas da União, e dá outras providências."
+    },
+    {
+      "senadoId": "526427",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-28-1909",
+      "titulo": "Decreto-Lei nº 1.909 de 28/12/1981",
+      "data": "1981-12-28",
+      "numero": "1909",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-28;1909",
+      "ementa": "Estabelece contenção de despesas orçamentárias para o exercício de 1982 e   dá outras providências."
+    },
+    {
+      "senadoId": "526423",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-28-1907",
+      "titulo": "Decreto-Lei nº 1.907 de 28/12/1981",
+      "data": "1981-12-28",
+      "numero": "1907",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-28;1907",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos membros do Tribunal de Contas do Distrito Federal e do respectivo Ministério Público e dá outras providências."
+    },
+    {
+      "senadoId": "526425",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-28-1908",
+      "titulo": "Decreto-Lei nº 1.908 de 28/12/1981",
+      "data": "1981-12-28",
+      "numero": "1908",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-28;1908",
+      "ementa": "Dá nova redação ao art. 2º do Decreto-Lei n. 1798, de 24 de julho de 1980,   que estabelece limite de remuneração mensal para os servidores da Administração   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "526419",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-23-1905",
+      "titulo": "Decreto-Lei nº 1.905 de 23/12/1981",
+      "data": "1981-12-23",
+      "numero": "1905",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-23;1905",
+      "ementa": "Reajusta os valores de vencimentos, salários e proventos dos servidores civis do Distrito Federal, bem como os das pensões e dá outras providências."
+    },
+    {
+      "senadoId": "526421",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-23-1906",
+      "titulo": "Decreto-Lei nº 1.906 de 23/12/1981",
+      "data": "1981-12-23",
+      "numero": "1906",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-23;1906",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "526417",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-23-1904",
+      "titulo": "Decreto-Lei nº 1.904 de 23/12/1981",
+      "data": "1981-12-23",
+      "numero": "1904",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-23;1904",
+      "ementa": "Altera a redação do artigo 1º do Decreto-Lei nº. 1813, de 24 de novembro de   1980."
+    },
+    {
+      "senadoId": "526415",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-22-1903",
+      "titulo": "Decreto-Lei nº 1.903 de 22/12/1981",
+      "data": "1981-12-22",
+      "numero": "1903",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-22;1903",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos membros da Magistratura Federal, do Distrito Federal e Territórios e do Tribunal de Contas da União, bem assim os de pensões e dá outras providências."
+    },
+    {
+      "senadoId": "526411",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-22-1901",
+      "titulo": "Decreto-Lei nº 1.901 de 22/12/1981",
+      "data": "1981-12-22",
+      "numero": "1901",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-22;1901",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração dos militares,   extingue gratificações e dá outras providências."
+    },
+    {
+      "senadoId": "526413",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-22-1902",
+      "titulo": "Decreto-Lei nº 1.902 de 22/12/1981",
+      "data": "1981-12-22",
+      "numero": "1902",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-22;1902",
+      "ementa": "Reajusta os valores de vencimentos, salários e proventos dos servidores   civis do Poder Executivo, bem como os das pensões e dá outras providências."
+    },
+    {
+      "senadoId": "526405",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-21-1898",
+      "titulo": "Decreto-Lei nº 1.898 de 21/12/1981",
+      "data": "1981-12-21",
+      "numero": "1898",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-21;1898",
+      "ementa": "Prorroga o prazo de vigência de incentivos fiscais previstos na legislação do imposto de renda ."
+    },
+    {
+      "senadoId": "526407",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-21-1899",
+      "titulo": "Decreto-Lei nº 1.899 de 21/12/1981",
+      "data": "1981-12-21",
+      "numero": "1899",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-21;1899",
+      "ementa": "Institui taxas relativas a atividades agropecuárias de competência do Ministério da Agricultura e dá outras providências."
+    },
+    {
+      "senadoId": "526409",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-21-1900",
+      "titulo": "Decreto-Lei nº 1.900 de 21/12/1981",
+      "data": "1981-12-21",
+      "numero": "1900",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-21;1900",
+      "ementa": "Dispõe sobre a contribuição para o desenvolvimento da indústria   cinematográfica nacional."
+    },
+    {
+      "senadoId": "526403",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-17-1897",
+      "titulo": "Decreto-Lei nº 1.897 de 17/12/1981",
+      "data": "1981-12-17",
+      "numero": "1897",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-17;1897",
+      "ementa": "Dispõe sobre a composição da categoria Direção Superior do Grupo-Direção e   Assessoramento Superiores, do Quadro Permanente do Ministério Público Federal, e   dá outras Providências."
+    },
+    {
+      "senadoId": "526401",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-17-1896",
+      "titulo": "Decreto-Lei nº 1.896 de 17/12/1981",
+      "data": "1981-12-17",
+      "numero": "1896",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-17;1896",
+      "ementa": "Dispõe sobre a utilização de instalações e serviços destinados a apoiar e   tornar segura a navegação áerea e dá outras providências."
+    },
+    {
+      "senadoId": "526399",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-16-1895",
+      "titulo": "Decreto-Lei nº 1.895 de 16/12/1981",
+      "data": "1981-12-16",
+      "numero": "1895",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-16;1895",
+      "ementa": "Altera dispositivos da Lei nº. 6468, de 14 de novembro de 1977, modificada   pelos Decretos-Leis nºs. 1647, de 18 de dezembro de 1978, e 1706, de 23 de   outubro de 1979, que dispõe sobre a tributação simplificada para pequenas e   médias empresas, e dá outras providências."
+    },
+    {
+      "senadoId": "526393",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-16-1892",
+      "titulo": "Decreto-Lei nº 1.892 de 16/12/1981",
+      "data": "1981-12-16",
+      "numero": "1892",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-16;1892",
+      "ementa": "Estimula a capitalização das empresas mediante isenção de imposto de renda sobre lucros decorrentes da alienação de imóveis e de participações societárias, e dá outras providências."
+    },
+    {
+      "senadoId": "526395",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-16-1893",
+      "titulo": "Decreto-Lei nº 1.893 de 16/12/1981",
+      "data": "1981-12-16",
+      "numero": "1893",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-16;1893",
+      "ementa": "Dispõe sobre a adoção de medidas de incentivo à arrecadação federal e dá outras Providências."
+    },
+    {
+      "senadoId": "526397",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-16-1894",
+      "titulo": "Decreto-Lei nº 1.894 de 16/12/1981",
+      "data": "1981-12-16",
+      "numero": "1894",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-16;1894",
+      "ementa": "Institui incentivos fiscais para empresas exportadoras de produtos manufaturados e dá outras providências."
+    },
+    {
+      "senadoId": "526391",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-15-1891",
+      "titulo": "Decreto-Lei nº 1.891 de 15/12/1981",
+      "data": "1981-12-15",
+      "numero": "1891",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-15;1891",
+      "ementa": "Dispõe sobre a obrigatoriedade do uso de borderôs e ingressos,   padronizados, de emissão da EMBRAFILME, pelas salas exibidoras   nacionais."
+    },
+    {
+      "senadoId": "526389",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-12-15-1890",
+      "titulo": "Decreto-Lei nº 1.890 de 15/12/1981",
+      "data": "1981-12-15",
+      "numero": "1890",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-12-15;1890",
+      "ementa": "Autoriza o Poder Executivo a abrir, em favor do Ministério da Educação e   Cultura, do Ministério do Transportes, dos Encargos Gerais da União, do Fundo   Nacional de Desenvolvimento e do Fundo Nacional de Apoio ao Desenvolvimento   Urbano, créditos adicionais até o limite de Cr$ 10.952,872.000,00 para o fim que   especifica."
+    },
+    {
+      "senadoId": "526387",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-11-12-1889",
+      "titulo": "Decreto-Lei nº 1.889 de 12/11/1981",
+      "data": "1981-11-12",
+      "numero": "1889",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-11-12;1889",
+      "ementa": "Cancela débitos para com as autarquias federais e dá outras   providências."
+    },
+    {
+      "senadoId": "526385",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-11-06-1888",
+      "titulo": "Decreto-Lei nº 1.888 de 06/11/1981",
+      "data": "1981-11-06",
+      "numero": "1888",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-11-06;1888",
+      "ementa": "Acrescenta parágrafo ao artigo 2º do Decreto-Lei nº. 1874, de 8 de julho   de 1981, e dá outras providências."
+    },
+    {
+      "senadoId": "526383",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-10-29-1887",
+      "titulo": "Decreto-Lei nº 1.887 de 29/10/1981",
+      "data": "1981-10-29",
+      "numero": "1887",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-10-29;1887",
+      "ementa": "Altera a legislação relativa ao imposto de renda de pessoa física."
+    },
+    {
+      "senadoId": "526381",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-10-26-1886",
+      "titulo": "Decreto-Lei nº 1.886 de 26/10/1981",
+      "data": "1981-10-26",
+      "numero": "1886",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-10-26;1886",
+      "ementa": "Modifica a redação de dispositivo do Decreto-Lei nº 1.691, de 02 agosto de   1979, que altera a legislação da Taxa Rodoviária Única, e dá outras   providências."
+    },
+    {
+      "senadoId": "526379",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-09-29-1885",
+      "titulo": "Decreto-Lei nº 1.885 de 29/09/1981",
+      "data": "1981-09-29",
+      "numero": "1885",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-09-29;1885",
+      "ementa": "Eleva o adicional do imposto de renda de que trata o § 2º do artigo 1º do Decreto-lei nº. 1704, de 23 de outubro de 1979, para as instituições que relaciona."
+    },
+    {
+      "senadoId": "526377",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-09-17-1884",
+      "titulo": "Decreto-Lei nº 1.884 de 17/09/1981",
+      "data": "1981-09-17",
+      "numero": "1884",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-09-17;1884",
+      "ementa": "Acrescenta parágrafos ao artigo 4º do Decreto-Lei nº. 1798, de 24 de julho   de 1980, que estabelece limite de remuneração mensal para os servidores da   Administração Federal ."
+    },
+    {
+      "senadoId": "526375",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-09-02-1883",
+      "titulo": "Decreto-Lei nº 1.883 de 02/09/1981",
+      "data": "1981-09-02",
+      "numero": "1883",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-09-02;1883",
+      "ementa": "Dispõe sobre a concessão de adicionais de insalubridade e de   periculosidade aos servidores públicos civis do Distrito Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "526373",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-09-01-1882",
+      "titulo": "Decreto-Lei nº 1.882 de 01/09/1981",
+      "data": "1981-09-01",
+      "numero": "1882",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-09-01;1882",
+      "ementa": "Altera disposição da Lei nº. 5787, de 27 junho de 1972, modificada pelos   Decretos-Leis nºs 1824, de 22 de dezembro de 1980, e 1848, de 06 de janeiro de   1981."
+    },
+    {
+      "senadoId": "526371",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-08-27-1881",
+      "titulo": "Decreto-Lei nº 1.881 de 27/08/1981",
+      "data": "1981-08-27",
+      "numero": "1881",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-08-27;1881",
+      "ementa": "Altera a Lei nº 5172, de 25 de outubro de 1966, cria a Reserva do Fundo de   Participação dos Municípios - FPM e dá outras providências."
+    },
+    {
+      "senadoId": "526369",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-08-27-1880",
+      "titulo": "Decreto-Lei nº 1.880 de 27/08/1981",
+      "data": "1981-08-27",
+      "numero": "1880",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-08-27;1880",
+      "ementa": "Acrescenta parágrafo ao artigo 1º, do Decreto-Lei nº 1798, de 24 de julho   de 1980."
+    },
+    {
+      "senadoId": "526365",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-07-23-1878",
+      "titulo": "Decreto-Lei nº 1.878 de 23/07/1981",
+      "data": "1981-07-23",
+      "numero": "1878",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-07-23;1878",
+      "ementa": "Altera disposição do Decreto-Lei nº.1703, de 18 de outubro de 1979."
+    },
+    {
+      "senadoId": "526367",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-07-23-1879",
+      "titulo": "Decreto-Lei nº 1.879 de 23/07/1981",
+      "data": "1981-07-23",
+      "numero": "1879",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-07-23;1879",
+      "ementa": "Autoriza a conversão dos créditos que especifica em ações de sociedades de   economia mista ou empresas públicas."
+    },
+    {
+      "senadoId": "526359",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-07-15-1875",
+      "titulo": "Decreto-Lei nº 1.875 de 15/07/1981",
+      "data": "1981-07-15",
+      "numero": "1875",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-07-15;1875",
+      "ementa": "Dispõe sobre a simplificação de normas gerais de direito financeiro   aplicáveis a Municípios com população inferior a 50.000 (cinqüenta mil)   habitantes."
+    },
+    {
+      "senadoId": "526361",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-07-15-1876",
+      "titulo": "Decreto-Lei nº 1.876 de 15/07/1981",
+      "data": "1981-07-15",
+      "numero": "1876",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-07-15;1876",
+      "ementa": "Dispensa do pagamento de foros e laudêmios os titulares do domínio útil dos bens imóveis da União, nos casos que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "526363",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-07-15-1877",
+      "titulo": "Decreto-Lei nº 1.877 de 15/07/1981",
+      "data": "1981-07-15",
+      "numero": "1877",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-07-15;1877",
+      "ementa": "Inclui gratificação no Anexo II do Decreto-Lei nº 1.341, de 22 de agosto de   1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526357",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-07-08-1874",
+      "titulo": "Decreto-Lei nº 1.874 de 08/07/1981",
+      "data": "1981-07-08",
+      "numero": "1874",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-07-08;1874",
+      "ementa": "Dispõe sobre o reposicionamento de servidores pertencentes às Categorias Funcionais que especifica e dá outras providências."
+    },
+    {
+      "senadoId": "526355",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-05-27-1873",
+      "titulo": "Decreto-Lei nº 1.873 de 27/05/1981",
+      "data": "1981-05-27",
+      "numero": "1873",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-05-27;1873",
+      "ementa": "Dispõe sobre a concessão de adicionais de insalubridade e de periculosidade aos servidores públicos federais, e dá outras providências."
+    },
+    {
+      "senadoId": "526353",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-05-21-1872",
+      "titulo": "Decreto-Lei nº 1.872 de 21/05/1981",
+      "data": "1981-05-21",
+      "numero": "1872",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-05-21;1872",
+      "ementa": "Dispõe sobre a aquisição, pelos concessionários, de energia elétrica   excedente gerada por autoprodutores, e dá outras providências."
+    },
+    {
+      "senadoId": "526351",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-05-08-1871",
+      "titulo": "Decreto-Lei nº 1.871 de 08/05/1981",
+      "data": "1981-05-08",
+      "numero": "1871",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-05-08;1871",
+      "ementa": "Dispõe sobre a isenção de imposto e taxas nas importações realizadas pela   PRÓLOGO S.A. - Produtos Eletrônicos."
+    },
+    {
+      "senadoId": "526349",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-05-06-1870",
+      "titulo": "Decreto-Lei nº 1.870 de 06/05/1981",
+      "data": "1981-05-06",
+      "numero": "1870",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-05-06;1870",
+      "ementa": "Atribui competência para a dispensa da retenção de imposto de renda de   reduzido valor, dispõe sobre a retenção do imposto incidente sobre rendimentos   de depósito a prazo fixo, e dá outras providências."
+    },
+    {
+      "senadoId": "526347",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-04-14-1869",
+      "titulo": "Decreto-Lei nº 1.869 de 14/04/1981",
+      "data": "1981-04-14",
+      "numero": "1869",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-04-14;1869",
+      "ementa": "Dispõe sobre a isenção de impostos e taxas nas importações realizadas pela   Indústria de Material Bélico do Brasil - IMBEL."
+    },
+    {
+      "senadoId": "526345",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-03-30-1868",
+      "titulo": "Decreto-Lei nº 1.868 de 30/03/1981",
+      "data": "1981-03-30",
+      "numero": "1868",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-03-30;1868",
+      "ementa": "Altera o dispositivo do Decreto-Lei nº. 1164, de 1 de abril de 1971, que   declara indispensáveis à segurança e ao desenvolvimento nacionais terras   devolutas situadas na faixa de cem quilômetros de largura em cada lado do eixo   de rodovias na Amazônia Legal."
+    },
+    {
+      "senadoId": "526343",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-03-25-1867",
+      "titulo": "Decreto-Lei nº 1.867 de 25/03/1981",
+      "data": "1981-03-25",
+      "numero": "1867",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-03-25;1867",
+      "ementa": "Dá nova redação ao Decreto-Lei nº 1861, de 25 de fevereiro de 1981."
+    },
+    {
+      "senadoId": "526341",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-03-09-1866",
+      "titulo": "Decreto-Lei nº 1.866 de 09/03/1981",
+      "data": "1981-03-09",
+      "numero": "1866",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-03-09;1866",
+      "ementa": "Dispõe sobre a nomeação de prefeito em município declarado de interesse da segurança nacional."
+    },
+    {
+      "senadoId": "526339",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-26-1865",
+      "titulo": "Decreto-Lei nº 1.865 de 26/02/1981",
+      "data": "1981-02-26",
+      "numero": "1865",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-26;1865",
+      "ementa": "Dispõe sobre a ocupação provisória de imóveis para pesquisa e lavra de   substâncias minerais que contenham elementos nucleares."
+    },
+    {
+      "senadoId": "526335",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-26-1863",
+      "titulo": "Decreto-Lei nº 1.863 de 26/02/1981",
+      "data": "1981-02-26",
+      "numero": "1863",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-26;1863",
+      "ementa": "Concede isenção de tributos às Missões Diplomáticas e Representações   Consulares de Carreira, com base na reciprocidade de tratamento ."
+    },
+    {
+      "senadoId": "526337",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-26-1864",
+      "titulo": "Decreto-Lei nº 1.864 de 26/02/1981",
+      "data": "1981-02-26",
+      "numero": "1864",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-26;1864",
+      "ementa": "Dispõe sobre a ocupação provisória de imóveis para pesquisa e lavra de   petróleo."
+    },
+    {
+      "senadoId": "526331",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-25-1861",
+      "titulo": "Decreto-Lei nº 1.861 de 25/02/1981",
+      "data": "1981-02-25",
+      "numero": "1861",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-25;1861",
+      "ementa": "Altera a legislação referente às contribuições compulsórias recolhidas pelo IAPAS à conta de diversas entidades e dá outras providências."
+    },
+    {
+      "senadoId": "526333",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-25-1862",
+      "titulo": "Decreto-Lei nº 1.862 de 25/02/1981",
+      "data": "1981-02-25",
+      "numero": "1862",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-25;1862",
+      "ementa": "Autoriza a elevação do capital do Banco Nacional do Desenvolvimento   Econômico - BNDE e dá outras providências."
+    },
+    {
+      "senadoId": "526329",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-18-1860",
+      "titulo": "Decreto-Lei nº 1.860 de 18/02/1981",
+      "data": "1981-02-18",
+      "numero": "1860",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-18;1860",
+      "ementa": "Fixa o valor do soldo dos postos de Coronel PM, da Polícia Militar e   Coronel BM, do Corpo de Bombeiros do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "526327",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-17-1859",
+      "titulo": "Decreto-Lei nº 1.859 de 17/02/1981",
+      "data": "1981-02-17",
+      "numero": "1859",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-17;1859",
+      "ementa": "Estingue o Fundo Nacional de Desenvolvimento, e dá outras   providências."
+    },
+    {
+      "senadoId": "526325",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-16-1858",
+      "titulo": "Decreto-Lei nº 1.858 de 16/02/1981",
+      "data": "1981-02-16",
+      "numero": "1858",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-16;1858",
+      "ementa": "Reestrutura a carreira do Magistério de 1º e 2º Graus do Serviço Público Civil da União e das Autarquias Federais, e dá outras providências."
+    },
+    {
+      "senadoId": "526323",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-10-1857",
+      "titulo": "Decreto-Lei nº 1.857 de 10/02/1981",
+      "data": "1981-02-10",
+      "numero": "1857",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-10;1857",
+      "ementa": "Altera alíquotas da Tarifa Aduaneira do Brasil (TAB), prorroga prazos de   vigência de Decretos-Leis que dispõem sobre acréscimos às alíquotas do imposto   de importação e dá outras providências."
+    },
+    {
+      "senadoId": "526317",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-10-1854",
+      "titulo": "Decreto-Lei nº 1.854 de 10/02/1981",
+      "data": "1981-02-10",
+      "numero": "1854",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-10;1854",
+      "ementa": "Dispõe sobre a renúncia, pela União, ao domínio direto de áreas situadas   no Município de Guarulhos, Estado de São Paulo, necessárias à ampliação da Base   Aérea e a implantação do Aeroporto de Guarulhos."
+    },
+    {
+      "senadoId": "526319",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-10-1855",
+      "titulo": "Decreto-Lei nº 1.855 de 10/02/1981",
+      "data": "1981-02-10",
+      "numero": "1855",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-10;1855",
+      "ementa": "Dispõe sobre a retribuição dos professores civis do Magistério do Exército   e da outras providências."
+    },
+    {
+      "senadoId": "526321",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-10-1856",
+      "titulo": "Decreto-Lei nº 1.856 de 10/02/1981",
+      "data": "1981-02-10",
+      "numero": "1856",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-10;1856",
+      "ementa": "Autoriza o Ministro da Fazenda a conceder isenção dos impostos de   importação e sobre produtos industrializados, nos casos que   especifica."
+    },
+    {
+      "senadoId": "526315",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-02-09-1853",
+      "titulo": "Decreto-Lei nº 1.853 de 09/02/1981",
+      "data": "1981-02-09",
+      "numero": "1853",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-02-09;1853",
+      "ementa": "Dá nova redação a dispositivos do Decreto-Lei n° 1.732, de 20 de dezembro   de 1979, que reajusta os vencimentos, salários e proventos dos servidores civis   do Poder Executivo ."
+    },
+    {
+      "senadoId": "526311",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-01-27-1851",
+      "titulo": "Decreto-Lei nº 1.851 de 27/01/1981",
+      "data": "1981-01-27",
+      "numero": "1851",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-01-27;1851",
+      "ementa": "Altera o limite mínimo do benefício fiscal concedido pelo Decreto-Lei nº 1.358, de 12 de novembro de 1974, a pessoas físicas mutuárias do Sistema Financeiro de Habitação, e dá outras providências."
+    },
+    {
+      "senadoId": "526313",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-01-27-1852",
+      "titulo": "Decreto-Lei nº 1.852 de 27/01/1981",
+      "data": "1981-01-27",
+      "numero": "1852",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-01-27;1852",
+      "ementa": "Regula a distribuição aos Municípios da parcela do imposto sobre   transmissão de bens imóveis e de direitos a eles relativos."
+    },
+    {
+      "senadoId": "526309",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-01-15-1850",
+      "titulo": "Decreto-Lei nº 1.850 de 15/01/1981",
+      "data": "1981-01-15",
+      "numero": "1850",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-01-15;1850",
+      "ementa": "Isenta de laudêmio as transferências do domínio útil de terrenos de   marinha, destinados à construção de conjuntos habitacionais de interesse   social."
+    },
+    {
+      "senadoId": "526307",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-01-13-1849",
+      "titulo": "Decreto-Lei nº 1.849 de 13/01/1981",
+      "data": "1981-01-13",
+      "numero": "1849",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-01-13;1849",
+      "ementa": "Altera a redação do artigo 4º e seus parágrafos da Lei nº 5.655, de 20 de   maio de 1971, e dá outras providências."
+    },
+    {
+      "senadoId": "526305",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1981-01-06-1848",
+      "titulo": "Decreto-Lei nº 1.848 de 06/01/1981",
+      "data": "1981-01-06",
+      "numero": "1848",
+      "urn": "urn:lex:br:federal:decreto.lei:1981-01-06;1848",
+      "ementa": "Dá nova redação a dispositivos da Lei nº 5.787, de 27 de junho de 1972,   alterada pelos Decretos-Leis nºs 1.693, de 30 de agosto de 1979, e 1.824, de 22   de dezembro de 1980."
+    }
+  ],
+  "pendencias": []
+}

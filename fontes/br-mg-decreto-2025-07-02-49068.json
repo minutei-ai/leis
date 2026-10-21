@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-07-02-49068",
+  "titulo": "DEC nº 49068, de 02/07/2025",
+  "data": "2025-07-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49068/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49068/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "4fc449ce22ac5f396bb7af00b333879b30cedd1b927b51b035d732f911d870d9",
+  "coletado_em": "2026-10-21T08:32:24.091Z",
+  "sha256_fonte": "b9d473876a9cd441d6b1f24d1b50bd6a15cb9e4ff614e033173c014aeb8a20d7",
+  "sha256_markdown": "4c70df930a5bacd0dff60fcc3b0e211b9351791bd9cae50da27ca113df36c6d0"
+}

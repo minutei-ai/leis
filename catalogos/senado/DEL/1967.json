@@ -1,0 +1,2499 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1967",
+  "tipo": "DEL",
+  "ano": 1967,
+  "coletado_em": "2026-10-21T08:36:55.653Z",
+  "normas": [
+    {
+      "senadoId": "523331",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-29-347",
+      "titulo": "Decreto-Lei nº 347 de 29/12/1967",
+      "data": "1967-12-29",
+      "numero": "347",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-29;347",
+      "ementa": "Dispõe sobre a entrega das parcelas pertecentes aos Municípios, do produto   da arrecadação do imposto sobre circulação de mercadorias."
+    },
+    {
+      "senadoId": "523324",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-28-344",
+      "titulo": "Decreto-Lei nº 344 de 28/12/1967",
+      "data": "1967-12-28",
+      "numero": "344",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-28;344",
+      "ementa": "Altera alíquotas do Imposto sobre Produtos Industrializados."
+    },
+    {
+      "senadoId": "523322",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-28-343",
+      "titulo": "Decreto-Lei nº 343 de 28/12/1967",
+      "data": "1967-12-28",
+      "numero": "343",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-28;343",
+      "ementa": "Altera a legislação do Imposto Único sobre lubrificantes e combustíveis líquidos e gasosos, e dá outras providências."
+    },
+    {
+      "senadoId": "523328",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-28-346",
+      "titulo": "Decreto-Lei nº 346 de 28/12/1967",
+      "data": "1967-12-28",
+      "numero": "346",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-28;346",
+      "ementa": "Dispõe sobre a utilização facultativa dos serviços de despachantes   aduaneiros, altera a redação dos artigos 48 e 53 do Decreto-Lei nº 37, de 18 de   novembro de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "523326",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-28-345",
+      "titulo": "Decreto-Lei nº 345 de 28/12/1967",
+      "data": "1967-12-28",
+      "numero": "345",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-28;345",
+      "ementa": "Modifica a Lei nº 5325, de 2 de outubro de 1967, que institui a duplicata   fiscal, e dá outras providências."
+    },
+    {
+      "senadoId": "523320",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-22-342",
+      "titulo": "Decreto-Lei nº 342 de 22/12/1967",
+      "data": "1967-12-22",
+      "numero": "342",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-22;342",
+      "ementa": "Prorroga o prazo de vigência do Decreto-Lei nº 332, de 12 de outubro de   1967."
+    },
+    {
+      "senadoId": "523318",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-22-341",
+      "titulo": "Decreto-Lei nº 341 de 22/12/1967",
+      "data": "1967-12-22",
+      "numero": "341",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-22;341",
+      "ementa": "Prorroga para o exercício de 1968 os benefícios dos Decretos-Leis números   157 e 238, de 10 e 28 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "523316",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-22-340",
+      "titulo": "Decreto-Lei nº 340 de 22/12/1967",
+      "data": "1967-12-22",
+      "numero": "340",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-22;340",
+      "ementa": "Acrescenta disposições disciplinadoras ao Decreto-Lei nº 288, de 28 de   fevereiro de 1967."
+    },
+    {
+      "senadoId": "523313",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-19-338",
+      "titulo": "Decreto-Lei nº 338 de 19/12/1967",
+      "data": "1967-12-19",
+      "numero": "338",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-19;338",
+      "ementa": "Dá nova redação ao artigo 12 e seu parágrafo 1º, do Decreto-Lei nº 157, de   10 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "523311",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-19-337",
+      "titulo": "Decreto-Lei nº 337 de 19/12/1967",
+      "data": "1967-12-19",
+      "numero": "337",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-19;337",
+      "ementa": "Prorroga a entrada em vigor do Decreto-Lei nº 265, de 28 de fevereiro de 1967."
+    },
+    {
+      "senadoId": "523314",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-12-19-339",
+      "titulo": "Decreto-Lei nº 339 de 19/12/1967",
+      "data": "1967-12-19",
+      "numero": "339",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-12-19;339",
+      "ementa": "Exclui da obrigação do artigo 10 do Decreto-Lei nº 62, de 21 de novembro   de 1966, o Banco do Brasil S.A., o Banco do Nordeste do Brasil S.A., o Banco da   Amazônia S.A. e o Banco Nacional de Crédito Cooperativo S.A."
+    },
+    {
+      "senadoId": "523309",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-10-24-336",
+      "titulo": "Decreto-Lei nº 336 de 24/10/1967",
+      "data": "1967-10-24",
+      "numero": "336",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-10-24;336",
+      "ementa": "Altera os critérios de distribuição do Imposto Único sobre Energia   Elétrica e dá outras providências."
+    },
+    {
+      "senadoId": "523307",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-10-18-335",
+      "titulo": "Decreto-Lei nº 335 de 18/10/1967",
+      "data": "1967-10-18",
+      "numero": "335",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-10-18;335",
+      "ementa": "Altera o Decreto-Lei nº 208, de 27 de fevereiro de 1967, e dá outras   providências."
+    },
+    {
+      "senadoId": "523305",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-10-12-334",
+      "titulo": "Decreto-Lei nº 334 de 12/10/1967",
+      "data": "1967-10-12",
+      "numero": "334",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-10-12;334",
+      "ementa": "Dispõe sobre o imposto único sobre minerais do País, alterando, em parte,   a Lei nº 4.425, de 8 de outubro de 1964, e dá outras providências."
+    },
+    {
+      "senadoId": "523301",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-10-12-332",
+      "titulo": "Decreto-Lei nº 332 de 12/10/1967",
+      "data": "1967-10-12",
+      "numero": "332",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-10-12;332",
+      "ementa": "Dispõe sobre estímulos ao aumento de produtividade dos artigos que   especifica."
+    },
+    {
+      "senadoId": "523303",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-10-12-333",
+      "titulo": "Decreto-Lei nº 333 de 12/10/1967",
+      "data": "1967-10-12",
+      "numero": "333",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-10-12;333",
+      "ementa": "Dispõe sobre a entrada em vigor das deliberações do Conselho de Política   Aduaneira e incorpora às aliquotas do imposto de importação a taxa de despacho   aduaneiro e dá outras providências."
+    },
+    {
+      "senadoId": "523299",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-09-21-331",
+      "titulo": "Decreto-Lei nº 331 de 21/09/1967",
+      "data": "1967-09-21",
+      "numero": "331",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-09-21;331",
+      "ementa": "Prorroga a vigência do Decreto-Lei nº 265, de 28 de fevereiro de   1967."
+    },
+    {
+      "senadoId": "523297",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-09-13-330",
+      "titulo": "Decreto-Lei nº 330 de 13/09/1967",
+      "data": "1967-09-13",
+      "numero": "330",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-09-13;330",
+      "ementa": "Revoga dispositivos do Decreto-Lei nº 227, de 28 de fevereiro de 1967,   alterado pelo Decreto-Lei nº 318, de 14 de março de 1967 (Código de Minas) e   restaura vigência do art. 33, da Lei nº 4.118, de 27 de agôsto de   1962."
+    },
+    {
+      "senadoId": "523295",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-08-02-329",
+      "titulo": "Decreto-Lei nº 329 de 02/08/1967",
+      "data": "1967-08-02",
+      "numero": "329",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-08-02;329",
+      "ementa": "Prorroga o prazo a que se refere o art. 1º do Decreto-Lei nº 324 de 27 de   abril de 1967."
+    },
+    {
+      "senadoId": "523293",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-07-20-328",
+      "titulo": "Decreto-Lei nº 328 de 20/07/1967",
+      "data": "1967-07-20",
+      "numero": "328",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-07-20;328",
+      "ementa": "Altera a redação da alínea \"b\", artigo 1º, da Lei   4.357, de 16 de julho de 1964, e dá outras providências."
+    },
+    {
+      "senadoId": "523291",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-05-11-327",
+      "titulo": "Decreto-Lei nº 327 de 11/05/1967",
+      "data": "1967-05-11",
+      "numero": "327",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-05-11;327",
+      "ementa": "Abre ao Ministério da Fazenda o crédito especial de NCr$ 600.000,00   (Seiscentos mil cruzeiros novos) destinado a atender no corrente ano as despesas   de gratificação especial do Serviço Nacional de Informações."
+    },
+    {
+      "senadoId": "523289",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-05-08-326",
+      "titulo": "Decreto-Lei nº 326 de 08/05/1967",
+      "data": "1967-05-08",
+      "numero": "326",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-05-08;326",
+      "ementa": "Dispõe sobre o recolhimento do imposto sobre produtos industrializados e   dá outras providências."
+    },
+    {
+      "senadoId": "523287",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-05-03-325",
+      "titulo": "Decreto-Lei nº 325 de 03/05/1967",
+      "data": "1967-05-03",
+      "numero": "325",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-05-03;325",
+      "ementa": "Dispõe sobre os recursos da arrecadação da Taxa de Renovação da Marinha   Mercante e do Fundo de Marinha Mercante."
+    },
+    {
+      "senadoId": "523285",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-04-27-324",
+      "titulo": "Decreto-Lei nº 324 de 27/04/1967",
+      "data": "1967-04-27",
+      "numero": "324",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-04-27;324",
+      "ementa": "Prorroga o prazo de aplicação do disposto no art. 1º do Decreto-Lei nº   100, de 10 de janeiro de 1967."
+    },
+    {
+      "senadoId": "523283",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-04-19-323",
+      "titulo": "Decreto-Lei nº 323 de 19/04/1967",
+      "data": "1967-04-19",
+      "numero": "323",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-04-19;323",
+      "ementa": "Altera a Legislação sôbre Imposto de Renda"
+    },
+    {
+      "senadoId": "523281",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-04-07-322",
+      "titulo": "Decreto-Lei nº 322 de 07/04/1967",
+      "data": "1967-04-07",
+      "numero": "322",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-04-07;322",
+      "ementa": "Estabelece limitações ao reajustamento de aluguéis e dá outras   providências."
+    },
+    {
+      "senadoId": "523279",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-04-04-321",
+      "titulo": "Decreto-Lei nº 321 de 04/04/1967",
+      "data": "1967-04-04",
+      "numero": "321",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-04-04;321",
+      "ementa": "Dá nova redação ao art. 52 da Lei nº 5.020, de 7 de junho de 1966,   alterado pelo Decreto-Lei nº 174, de 15 de fevereiro de 1967, que dispõe sôbre   as Promoções dos Oficiais da ativa da Aeronáutica, e dá outras providências."
+    },
+    {
+      "senadoId": "523277",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-29-320",
+      "titulo": "Decreto-Lei nº 320 de 29/03/1967",
+      "data": "1967-03-29",
+      "numero": "320",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-29;320",
+      "ementa": "Prorroga a vigência do Decreto-Lei n° 265, de 28 de fevereiro de   1967."
+    },
+    {
+      "senadoId": "523276",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-27-319",
+      "titulo": "Decreto-Lei nº 319 de 27/03/1967",
+      "data": "1967-03-27",
+      "numero": "319",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-27;319",
+      "ementa": "Prorroga o prazo de início para a cobrança e recolhimento do Imposto de   Circulação de Mercadorias sobre os derivados de petróleo"
+    },
+    {
+      "senadoId": "523274",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-14-318",
+      "titulo": "Decreto-Lei nº 318 de 14/03/1967",
+      "data": "1967-03-14",
+      "numero": "318",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-14;318",
+      "ementa": "Da nova redação ao preâmbulo e a dispositivos do Decreto-Lei n° 227, de 28   de fevereiro de 1967."
+    },
+    {
+      "senadoId": "523268",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-13-315",
+      "titulo": "Decreto-Lei nº 315 de 13/03/1967",
+      "data": "1967-03-13",
+      "numero": "315",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-13;315",
+      "ementa": "Organiza a Secretaria de Segurança Pública da Prefeitura do Distrito   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "523266",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-13-314",
+      "titulo": "Decreto-Lei nº 314 de 13/03/1967",
+      "data": "1967-03-13",
+      "numero": "314",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-13;314",
+      "ementa": "Define os crimes contra a segurança nacional, a ordem política e social e   dá outras providências."
+    },
+    {
+      "senadoId": "523270",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-13-316",
+      "titulo": "Decreto-Lei nº 316 de 13/03/1967",
+      "data": "1967-03-13",
+      "numero": "316",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-13;316",
+      "ementa": "Dispõe sôbre as estipulações de moeda de pagamento das   obrigações."
+    },
+    {
+      "senadoId": "523272",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-13-317",
+      "titulo": "Decreto-Lei nº 317 de 13/03/1967",
+      "data": "1967-03-13",
+      "numero": "317",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-13;317",
+      "ementa": "Reorganiza as Polícias e os Corpos de Bombeiros Militares dos Estados, dos   Territórios e do Distrito federal e dá outras providências."
+    },
+    {
+      "senadoId": "523264",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-03-07-313",
+      "titulo": "Decreto-Lei nº 313 de 07/03/1967",
+      "data": "1967-03-07",
+      "numero": "313",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-03-07;313",
+      "ementa": "Cria, no Corpo de Oficiais da Aeronáutica da Ativa, o Quadro de   Oficiais-Engenheiros e sua respectiva reserva."
+    },
+    {
+      "senadoId": "523192",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-277",
+      "titulo": "Decreto-Lei nº 277 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "277",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;277",
+      "ementa": "Altera os artigos 48 e 53, do Decreto-Lei nº 37, de 18 de novembro de   1966, que dispõe sôbre o impôsto de importação e reorganiza os serviços   aduaneiros."
+    },
+    {
+      "senadoId": "523196",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-279",
+      "titulo": "Decreto-Lei nº 279 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "279",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;279",
+      "ementa": "Autoriza o Poder Executivo a abrir crédito especial, ao Ministério da   Educação e Cultura."
+    },
+    {
+      "senadoId": "523096",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-228",
+      "titulo": "Decreto-Lei nº 228 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "228",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;228",
+      "ementa": "Reformula a organização da representação estudantil e dá outras   providências."
+    },
+    {
+      "senadoId": "523142",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-251",
+      "titulo": "Decreto-Lei nº 251 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "251",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;251",
+      "ementa": "Desapropria, por utilidade pública, o imóvel destinado a Hospital, em   Bento Gonçalves, Estado do Rio Grande do Sul, e dá outras   providências."
+    },
+    {
+      "senadoId": "523234",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-298",
+      "titulo": "Decreto-Lei nº 298 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "298",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;298",
+      "ementa": "Autoriza o Poder Executivo a abrir crédito de NCr$ 1.000.000,00 (hum   milhão de cruzeiros novos) e dá outras providências."
+    },
+    {
+      "senadoId": "523204",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-283",
+      "titulo": "Decreto-Lei nº 283 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "283",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;283",
+      "ementa": "Dispõe sôbre empréstimos contraídos no exterior destinados à construção e   venda de habitações."
+    },
+    {
+      "senadoId": "523184",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-272",
+      "titulo": "Decreto-Lei nº 272 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "272",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;272",
+      "ementa": "Da nova redação ao art. 1º de Decreto-Lei nº 149, de 8 de fevereiro   de1967."
+    },
+    {
+      "senadoId": "523156",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-258",
+      "titulo": "Decreto-Lei nº 258 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "258",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;258",
+      "ementa": "Organiza o Departamento Nacional do Salário e dá outras   providências."
+    },
+    {
+      "senadoId": "523106",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-233",
+      "titulo": "Decreto-Lei nº 233 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "233",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;233",
+      "ementa": "Faz doação, à Universidade Federal do Rio de Janeiro, do imóvel situado na   Avenida Pasteur nº 250, e dependências anexas, no Estado da   Guanabara."
+    },
+    {
+      "senadoId": "523130",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-245",
+      "titulo": "Decreto-Lei nº 245 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "245",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;245",
+      "ementa": "Transforma o Colégio Pedro II em autarquia e dá outras   providências."
+    },
+    {
+      "senadoId": "523114",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-237",
+      "titulo": "Decreto-Lei nº 237 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "237",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;237",
+      "ementa": "Modifica o Código Nacional de Trânsito."
+    },
+    {
+      "senadoId": "523132",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-246",
+      "titulo": "Decreto-Lei nº 246 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "246",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;246",
+      "ementa": "Modifica o Decreto-Lei nº 113, de 25 de janeiro de 1967, e o Regimento de   Custas da Justiça do Distrito Federal."
+    },
+    {
+      "senadoId": "523158",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-259",
+      "titulo": "Decreto-Lei nº 259 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "259",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;259",
+      "ementa": "Atribui competência ao Conselho Deliberativo da Superintendência do   Desenvolvimento do Nordeste (SUDENE) para aprovar a estrutura e regimento da   Secretaria Executiva da entidade."
+    },
+    {
+      "senadoId": "523118",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-239",
+      "titulo": "Decreto-Lei nº 239 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "239",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;239",
+      "ementa": "Define o Programa Tecnológico Nacional, o sistema nacional de tecnologia e   dá outras providências."
+    },
+    {
+      "senadoId": "523110",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-235",
+      "titulo": "Decreto-Lei nº 235 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "235",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;235",
+      "ementa": "Acrescenta parágrafo ao art. 1º do Decreto-Lei nº162, de 13 de fevereiro   de 1967."
+    },
+    {
+      "senadoId": "523098",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-229",
+      "titulo": "Decreto-Lei nº 229 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "229",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;229",
+      "ementa": "Altera dispositivos da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1° de maio de 1943, e dá outras providências."
+    },
+    {
+      "senadoId": "523128",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-244",
+      "titulo": "Decreto-Lei nº 244 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "244",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;244",
+      "ementa": "Dispõe sôbre a indústria de construção naval."
+    },
+    {
+      "senadoId": "523191",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-276",
+      "titulo": "Decreto-Lei nº 276 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "276",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;276",
+      "ementa": "Altera despositivos da Lei nº 4.214, de 2 de março de 1963, e dá outras   providências."
+    },
+    {
+      "senadoId": "523085",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-222",
+      "titulo": "Decreto-Lei nº 222 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "222",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;222",
+      "ementa": "Revigora o crédito especial aberto pelo art. 55 da Lei nº 4.242, de 17 de   julho de 1963."
+    },
+    {
+      "senadoId": "523102",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-231",
+      "titulo": "Decreto-Lei nº 231 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "231",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;231",
+      "ementa": "Altera o Decreto-lei nº 147, de 3 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "523083",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-221",
+      "titulo": "Decreto-Lei nº 221 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "221",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;221",
+      "ementa": "Dispõe sobre a proteção e estímulos à pesca e dá outras providências."
+    },
+    {
+      "senadoId": "523100",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-230",
+      "titulo": "Decreto-Lei nº 230 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "230",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;230",
+      "ementa": "Abre ao Ministério da Fazenda o crédito especial de NCr$ 472.080,53, para   o fim que menciona."
+    },
+    {
+      "senadoId": "523166",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-263",
+      "titulo": "Decreto-Lei nº 263 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "263",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;263",
+      "ementa": "Autoriza o resgate de título da Dívida Pública Interna Fundada Federal e   dá outras providências."
+    },
+    {
+      "senadoId": "523244",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-303",
+      "titulo": "Decreto-Lei nº 303 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "303",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;303",
+      "ementa": "Cria o Conselho Nacional de Controle da Poluição Ambiental e dá outras   providências."
+    },
+    {
+      "senadoId": "523210",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-286",
+      "titulo": "Decreto-Lei nº 286 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "286",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;286",
+      "ementa": "Dispõe sôbre a regularização de emissões ilegais de títulos, e dá outras   providências."
+    },
+    {
+      "senadoId": "523212",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-287",
+      "titulo": "Decreto-Lei nº 287 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "287",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;287",
+      "ementa": "Dispõe sôbre a licitação e contratação de serviços ou obras, pela   Superintendência do Desenvolvimento do Nordeste - SUDENE , e dá outras   providências."
+    },
+    {
+      "senadoId": "523200",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-281",
+      "titulo": "Decreto-Lei nº 281 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "281",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;281",
+      "ementa": "Extingue o Instituto Nacional do Mate e dá outras   providências."
+    },
+    {
+      "senadoId": "523091",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-225",
+      "titulo": "Decreto-Lei nº 225 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "225",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;225",
+      "ementa": "Dispõe sôbre a administração do Instituto Nacional de Previdência Social   (INPS) e dá outras providências."
+    },
+    {
+      "senadoId": "523228",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-295",
+      "titulo": "Decreto-Lei nº 295 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "295",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;295",
+      "ementa": "Cria Comissão Liquidante do Acervo do Conselho Nacional de   Economia."
+    },
+    {
+      "senadoId": "523120",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-240",
+      "titulo": "Decreto-Lei nº 240 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "240",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;240",
+      "ementa": "Define a política e o sistema nacional de metrologia e dá outras   providências."
+    },
+    {
+      "senadoId": "523087",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-223",
+      "titulo": "Decreto-Lei nº 223 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "223",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;223",
+      "ementa": "Autoriza a desapropriação de imóveis residenciais em Brasília, Distrito   Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "523112",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-236",
+      "titulo": "Decreto-Lei nº 236 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "236",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;236",
+      "ementa": "Complementa e modifica a Lei número 4.117 de 27 de agôsto de 1962."
+    },
+    {
+      "senadoId": "523224",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-293",
+      "titulo": "Decreto-Lei nº 293 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "293",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;293",
+      "ementa": "Dispõe sôbre o seguro de acidentes do trabalho."
+    },
+    {
+      "senadoId": "523138",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-249",
+      "titulo": "Decreto-Lei nº 249 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "249",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;249",
+      "ementa": "Dispõe sôbre a reorganização da Companhia de Navegação do São   Francisco."
+    },
+    {
+      "senadoId": "523075",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-217",
+      "titulo": "Decreto-Lei nº 217 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "217",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;217",
+      "ementa": "Abre ao Ministério das Relações Exteriores o crédito especial de NCr$   700.000,00 destinado a atender despesas com a posse do Presidente da República,   em 15 de março de 1967."
+    },
+    {
+      "senadoId": "523260",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-311",
+      "titulo": "Decreto-Lei nº 311 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "311",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;311",
+      "ementa": "Isenta dos impostos de importação e de consumo, bem como da taxa de   despacho aduaneiro, materiais transferidos à Companhia de Transportes Urbanos   (CTU)."
+    },
+    {
+      "senadoId": "523081",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-220",
+      "titulo": "Decreto-Lei nº 220 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "220",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;220",
+      "ementa": "Dispõe sôbre a aceitação pelo Banco Nacional de Crédito Cooperativo S.A da   Nota Promissória Rural prevista no Decreto-Lei nº 167, de 14 de fevereiro de   1967."
+    },
+    {
+      "senadoId": "523230",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-296",
+      "titulo": "Decreto-Lei nº 296 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "296",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;296",
+      "ementa": "Altera dispositivo do Decreto-Lei nº 73, de 21 de novembro de 1966."
+    },
+    {
+      "senadoId": "523174",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-267",
+      "titulo": "Decreto-Lei nº 267 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "267",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;267",
+      "ementa": "Introduz alteração no Ministério Público da União junto a Justiça Militar   e dá outras providências."
+    },
+    {
+      "senadoId": "523226",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-294",
+      "titulo": "Decreto-Lei nº 294 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "294",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;294",
+      "ementa": "Altera parcialmente o dispositivo no art. 20 do Decreto-Lei nº 81 de 21 de   dezembro de 1966."
+    },
+    {
+      "senadoId": "523182",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-271",
+      "titulo": "Decreto-Lei nº 271 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "271",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;271",
+      "ementa": "Dispõe sôbre loteamento urbano, responsabilidade do loteador, concessão de uso e espaço aéreo e dá outras providências."
+    },
+    {
+      "senadoId": "523222",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-292",
+      "titulo": "Decreto-Lei nº 292 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "292",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;292",
+      "ementa": "Cria a Superintendência do Vale do São Francisco, extingue a Comissão do   Vale do São Francisco e da outras providências."
+    },
+    {
+      "senadoId": "523194",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-278",
+      "titulo": "Decreto-Lei nº 278 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "278",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;278",
+      "ementa": "Altera a denominação do Banco Central da República do Brasil, dispõe sôbre   suas contas, orçamentos, balanços, atos e contratos, e dá outras   providências."
+    },
+    {
+      "senadoId": "523152",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-256",
+      "titulo": "Decreto-Lei nº 256 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "256",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;256",
+      "ementa": "Dispõe sôbre a extinção da Autarquia Federal denominada Administração do   Porto do Rio de Janeiro e autoriza a constituição da Cia. Docas do Rio de   Janeiro e da outras providências."
+    },
+    {
+      "senadoId": "523248",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-305",
+      "titulo": "Decreto-Lei nº 305 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "305",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;305",
+      "ementa": "Dispõe sôbre a legalização dos livros de escrituração das operações   mercantis"
+    },
+    {
+      "senadoId": "523140",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-250",
+      "titulo": "Decreto-Lei nº 250 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "250",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;250",
+      "ementa": "Autoriza a Universidade Federal da Bahia a incorporar a Escola Agronômica   da Bahia e a Escola de Veterinária da Bahia."
+    },
+    {
+      "senadoId": "523214",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-288",
+      "titulo": "Decreto-Lei nº 288 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "288",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;288",
+      "ementa": "Altera as disposições da Lei número 3.173 de 6 de junho de 1957 e regula a Zona Franca de Manaus."
+    },
+    {
+      "senadoId": "523185",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-273",
+      "titulo": "Decreto-Lei nº 273 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "273",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;273",
+      "ementa": "Abre ao Ministério da Fazenda o crédito especial de NCr$ 30.000.000,00   para os fins que especifica."
+    },
+    {
+      "senadoId": "523178",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-269",
+      "titulo": "Decreto-Lei nº 269 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "269",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;269",
+      "ementa": "Autoriza o Poder Executivo a instituir a Fundação Universidade Federal de   Sergipe e dá outras providências."
+    },
+    {
+      "senadoId": "523187",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-274",
+      "titulo": "Decreto-Lei nº 274 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "274",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;274",
+      "ementa": "Dispõe sôbre o Sistema de Classificação de Cargos do Distrito Federal,   aprova os respectivos Quadros de Pessoal e dá outras providências."
+    },
+    {
+      "senadoId": "523236",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-299",
+      "titulo": "Decreto-Lei nº 299 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "299",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;299",
+      "ementa": "Reorganiza o Grupo Ocupacional P-1700 do Anexo da Lei nº 3.780, de 12 de   julho de 1960 e dá outras providências."
+    },
+    {
+      "senadoId": "523150",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-255",
+      "titulo": "Decreto-Lei nº 255 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "255",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;255",
+      "ementa": "Trasfere para o Tribunal Regional Eleitoral do Estado da Guanabara o   Quadro Suplementar, a que se refere o art. 9º da Lei nº 4.017, de 16 de dezembro   de 1961, e da outras providências."
+    },
+    {
+      "senadoId": "523089",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-224",
+      "titulo": "Decreto-Lei nº 224 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "224",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;224",
+      "ementa": "Dispõe sôbre a extinção do Serviço de Alimentação da Previdência Social   (SAPS), transfere os respectivos bens, serviços e atribuições, com o respectivo   pessoal, para outros órgãos e entidades, e dá outras providências."
+    },
+    {
+      "senadoId": "523206",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-284",
+      "titulo": "Decreto-Lei nº 284 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "284",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;284",
+      "ementa": "Institui o impôsto sôbre transporte rodoviário de passageiros e dá outras   providências."
+    },
+    {
+      "senadoId": "523160",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-260",
+      "titulo": "Decreto-Lei nº 260 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "260",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;260",
+      "ementa": "Concede ao supremo Tribunal Federal um crédito especial de NCr$   2.500.000,00 (dois milhões e quinhentos mil cruzeiros novos), para a construção   de um edifício anexo para o Tribunal."
+    },
+    {
+      "senadoId": "523258",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-310",
+      "titulo": "Decreto-Lei nº 310 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "310",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;310",
+      "ementa": "Dispõe sôbre a Delegacia do Tesouro Brasileiro no Exterior e dá outras   providências."
+    },
+    {
+      "senadoId": "523077",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-218",
+      "titulo": "Decreto-Lei nº 218 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "218",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;218",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "523218",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-290",
+      "titulo": "Decreto-Lei nº 290 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "290",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;290",
+      "ementa": "Regula a situação dos servidores das Autarquias Federais e dos empregados   das sociedades de economia mista, aposentados na forma dos Atos Institucionais   n°s 1 e 2."
+    },
+    {
+      "senadoId": "523148",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-254",
+      "titulo": "Decreto-Lei nº 254 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "254",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;254",
+      "ementa": "Código da Propriedade Industrial."
+    },
+    {
+      "senadoId": "523154",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-257",
+      "titulo": "Decreto-Lei nº 257 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "257",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;257",
+      "ementa": "Dispõe sôbre a Política Econômica do Sal, regula sua execução e da outras   providências."
+    },
+    {
+      "senadoId": "523094",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-227",
+      "titulo": "Decreto-Lei nº 227 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "227",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;227",
+      "ementa": "Dá nova redação ao Decreto-Lei nº 1.985 (Código de Minas) de 29 de janeiro de 1940."
+    },
+    {
+      "senadoId": "523136",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-248",
+      "titulo": "Decreto-Lei nº 248 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "248",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;248",
+      "ementa": "Institui a Política Nacional de Saneamento Básico, cria o Conselho   Nacional de Saneamento Básico e dá outras providências."
+    },
+    {
+      "senadoId": "523198",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-280",
+      "titulo": "Decreto-Lei nº 280 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "280",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;280",
+      "ementa": "Autoriza o Poder Executivo a organizar uma Sociedade por Ações e dá outras   providências."
+    },
+    {
+      "senadoId": "523202",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-282",
+      "titulo": "Decreto-Lei nº 282 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "282",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;282",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial que menciona."
+    },
+    {
+      "senadoId": "523164",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-262",
+      "titulo": "Decreto-Lei nº 262 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "262",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;262",
+      "ementa": "Dispõe sôbre a venda de terrenos do Instituto Nacional da Previdência   Social a entidades do Sistema Financeiro da Habitação."
+    },
+    {
+      "senadoId": "523232",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-297",
+      "titulo": "Decreto-Lei nº 297 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "297",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;297",
+      "ementa": "Altera a distribuição de dotações destinadas à Superintendência do   Desenvolvimento do Nordeste pela Lei nº 5.189 de 8 de dezembro de 1966, que   aprovou o Orçamento da União para o exercício financeiro de 1967."
+    },
+    {
+      "senadoId": "523242",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-302",
+      "titulo": "Decreto-Lei nº 302 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "302",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;302",
+      "ementa": "Revoga o Decreto-Lei nº 137, de 2 de fevereiro de 1967, dispõe sobre a   política de consolidação do Distrito Federal; cria a Coordenação do   Desenvolvimento de Brasília (CODEBRÁS), extingue o Grupo de Trabalho de Brasília   (GTB), e dá outras providências."
+    },
+    {
+      "senadoId": "523126",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-243",
+      "titulo": "Decreto-Lei nº 243 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "243",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;243",
+      "ementa": "Fixa as Diretrizes e Bases da Cartografia Brasileira e dá outras   providências."
+    },
+    {
+      "senadoId": "523240",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-301",
+      "titulo": "Decreto-Lei nº 301 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "301",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;301",
+      "ementa": "Dispõe sôbre o Plano de Desenvolvimento da Fronteira Sudoeste, aprova o I   Plano Diretor, extingue a Superintendência do Plano de Valorização Econômica da   Região da Fronteira Sudoeste do País, cria a Superintendência do Desenvolvimento   da Fronteira Sudoeste - SUDESUL - e dá outras providências."
+    },
+    {
+      "senadoId": "523252",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-307",
+      "titulo": "Decreto-Lei nº 307 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "307",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;307",
+      "ementa": "Autoriza a abertura de crédito especial para concessão de recursos   financeiros ao Estado da Bahia."
+    },
+    {
+      "senadoId": "523246",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-304",
+      "titulo": "Decreto-Lei nº 304 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "304",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;304",
+      "ementa": "Abre Crédito Especial pelo Ministério da Viação e Obras Públicas ao Grupo   Executivo de Integração da Política de Transportes - GEIPOT."
+    },
+    {
+      "senadoId": "523108",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-234",
+      "titulo": "Decreto-Lei nº 234 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "234",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;234",
+      "ementa": "Altera disposições do Decreto-Lei nº 32, de 18 de novembro de 1966 (Codigo   Brasileiro do Ar), e dá outras providências."
+    },
+    {
+      "senadoId": "523122",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-241",
+      "titulo": "Decreto-Lei nº 241 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "241",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;241",
+      "ementa": "Inclui entre as profissões cujo exercício é regulado pela Lei nº 5.194, de   24 de dezembro de 1966, a profissão de engenheiro de operação."
+    },
+    {
+      "senadoId": "523238",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-300",
+      "titulo": "Decreto-Lei nº 300 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "300",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;300",
+      "ementa": "Dispõe sobre as penalidades pela falta de pagamento da contribuição sindical rural."
+    },
+    {
+      "senadoId": "523134",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-247",
+      "titulo": "Decreto-Lei nº 247 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "247",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;247",
+      "ementa": "Modifica a redação do art. 4º da Lei nº 4.878, de 3 de dezembro de 1965, e   dá outras providências."
+    },
+    {
+      "senadoId": "523262",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-312",
+      "titulo": "Decreto-Lei nº 312 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "312",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;312",
+      "ementa": "Autoriza a prestação da assistência farmacêutica pela previdência social e   dá outras providências."
+    },
+    {
+      "senadoId": "523124",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-242",
+      "titulo": "Decreto-Lei nº 242 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "242",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;242",
+      "ementa": "Dispõe sôbre o custeio do Plano Nacional de Cultura."
+    },
+    {
+      "senadoId": "523092",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-226",
+      "titulo": "Decreto-Lei nº 226 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "226",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;226",
+      "ementa": "Cria junto ao Departamento de Administração do Ministério do Trabalho e   Previdência Social o Serviço da Conta \"Emprêgo e Salário\"."
+    },
+    {
+      "senadoId": "523220",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-291",
+      "titulo": "Decreto-Lei nº 291 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "291",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;291",
+      "ementa": "Estabelece incentivos para o desenvolvimento da Amazônia Ocidental da   Faixa de Fronteiras abrangida pela Amazônia e dá outras providências."
+    },
+    {
+      "senadoId": "523189",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-275",
+      "titulo": "Decreto-Lei nº 275 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "275",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;275",
+      "ementa": "Autoriza o Poder Executivo a abrir pelo Ministério Extraordinário para a   Coordenação dos Organismos Regionais, o crédito especial de NCr$ 570.000,00   (quinhentos e setenta mil cruzeiros novos), para atender a despesas com a Seção   Brasileira da Comissão Mista da Lagoa Mirim."
+    },
+    {
+      "senadoId": "523254",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-308",
+      "titulo": "Decreto-Lei nº 308 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "308",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;308",
+      "ementa": "Dispõe sôbre a receita do Instituto do Açúcar e do Álcool (I.A.A) e dá   outras providências."
+    },
+    {
+      "senadoId": "523216",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-289",
+      "titulo": "Decreto-Lei nº 289 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "289",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;289",
+      "ementa": "Cria o Instituto Brasileiro do Desenvolvimento Florestal e dá outras providências."
+    },
+    {
+      "senadoId": "523104",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-232",
+      "titulo": "Decreto-Lei nº 232 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "232",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;232",
+      "ementa": "Faz doação à Academia Brasileira de Letras do imóvel situado na avenida   Presidente Wilson, nº 231 no Estado da Guanabara."
+    },
+    {
+      "senadoId": "523208",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-285",
+      "titulo": "Decreto-Lei nº 285 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "285",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;285",
+      "ementa": "Dispõe sôbre o tratamento fiscal das pessoas jurídicas nos casos de fusão   ou incorporação considerados de interesse para a economia   nacional."
+    },
+    {
+      "senadoId": "523079",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-219",
+      "titulo": "Decreto-Lei nº 219 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "219",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;219",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Agricultura, o   crédito especial de NCr$ 4.898.600,00 (quatro milhões, oitocentos e noventa e   oito mil e seiscentos cruzeiros novos)."
+    },
+    {
+      "senadoId": "523180",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-270",
+      "titulo": "Decreto-Lei nº 270 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "270",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;270",
+      "ementa": "Cria o Fundo Aeroviário e o Conselho Aeroviário Nacional e dispõe sôbre a   constituição do Plano Aeroviário Nacional e a utilização da Infraestrutura   Aeroportuária Brasileira, estabelecendo as taxas correspondentes."
+    },
+    {
+      "senadoId": "523168",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-264",
+      "titulo": "Decreto-Lei nº 264 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "264",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;264",
+      "ementa": "Dispõe sôbre a Tarifa das Alfândegas e dá outras providências sobre   comércio exterior."
+    },
+    {
+      "senadoId": "523146",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-253",
+      "titulo": "Decreto-Lei nº 253 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "253",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;253",
+      "ementa": "Modifica a Lei nº 5.010, de 30 de maio de 1966, e da outras   providências."
+    },
+    {
+      "senadoId": "523176",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-268",
+      "titulo": "Decreto-Lei nº 268 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "268",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;268",
+      "ementa": "Autoriza a abertura de crédito especial de NCr$ 350.000, (trezentos e   cinqüenta mil cruzeiros novos), ao Ministério da Educação e   Cultura."
+    },
+    {
+      "senadoId": "523116",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-238",
+      "titulo": "Decreto-Lei nº 238 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "238",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;238",
+      "ementa": "Retifica o Decreto-Lei nº 157, de 10 de fevereiro de 1967 e dá outras   providências."
+    },
+    {
+      "senadoId": "523172",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-266",
+      "titulo": "Decreto-Lei nº 266 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "266",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;266",
+      "ementa": "Dispõe sôbre o regime do pessoal das Caixas Econômicas   Federais."
+    },
+    {
+      "senadoId": "523162",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-261",
+      "titulo": "Decreto-Lei nº 261 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "261",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;261",
+      "ementa": "Dispõe sôbre as sociedades de capitalização e dá outras providências."
+    },
+    {
+      "senadoId": "523256",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-309",
+      "titulo": "Decreto-Lei nº 309 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "309",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;309",
+      "ementa": "Altera as Leis n° 4.448, de 29 de outubro de 1964, e 5.074, de 22 de   agosto de 1966, que regulam as promoções dos Oficiais do Exército."
+    },
+    {
+      "senadoId": "523250",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-306",
+      "titulo": "Decreto-Lei nº 306 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "306",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;306",
+      "ementa": "Introduz um ;§ 4° no art. 21 do Decreto-Lei n° 67, de 21 de novembro   de 1966."
+    },
+    {
+      "senadoId": "523144",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-28-252",
+      "titulo": "Decreto-Lei nº 252 de 28/02/1967",
+      "data": "1967-02-28",
+      "numero": "252",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-28;252",
+      "ementa": "Estabelece normas complementares ao Decreto-Lei nº 53, de 18 de novembro   de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "523061",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-210",
+      "titulo": "Decreto-Lei nº 210 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "210",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;210",
+      "ementa": "Estabelece normas para abastecimento de trigo, sua industrialização e   comercialização e dá outras providências."
+    },
+    {
+      "senadoId": "523067",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-213",
+      "titulo": "Decreto-Lei nº 213 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "213",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;213",
+      "ementa": "Organiza o Departamento Nacional de Salário."
+    },
+    {
+      "senadoId": "523043",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-201",
+      "titulo": "Decreto-Lei nº 201 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "201",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;201",
+      "ementa": "Dispõe sôbre a responsabilidade dos prefeitos e vereadores, e dá outras providências."
+    },
+    {
+      "senadoId": "523069",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-214",
+      "titulo": "Decreto-Lei nº 214 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "214",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;214",
+      "ementa": "Prorroga o período de vigência do crédito especial autorizado pela Lei nº   4.793, de 20 de outubro de 1965."
+    },
+    {
+      "senadoId": "523065",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-212",
+      "titulo": "Decreto-Lei nº 212 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "212",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;212",
+      "ementa": "Dispõe sôbre medidas de segurança sanitária do País."
+    },
+    {
+      "senadoId": "523047",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-203",
+      "titulo": "Decreto-Lei nº 203 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "203",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;203",
+      "ementa": "Autoriza a Prefeitura do Distrito Federal a promover a desapropriação de   terras situadas no perímetro do Distrito Federal."
+    },
+    {
+      "senadoId": "523053",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-206",
+      "titulo": "Decreto-Lei nº 206 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "206",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;206",
+      "ementa": "Dispõe sôbre a Escola de Enfermagem Alfredo Pinto e dá outras   providências."
+    },
+    {
+      "senadoId": "523059",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-209",
+      "titulo": "Decreto-Lei nº 209 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "209",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;209",
+      "ementa": "Institui o Código Brasileiro de Alimentos, e dá outras providências."
+    },
+    {
+      "senadoId": "523051",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-205",
+      "titulo": "Decreto-Lei nº 205 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "205",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;205",
+      "ementa": "Dispõe sôbre a organização, funcionamento e extinção de aeroclubes, e dá   outras providências."
+    },
+    {
+      "senadoId": "523057",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-208",
+      "titulo": "Decreto-Lei nº 208 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "208",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;208",
+      "ementa": "Regulamenta a cobrança de Impôsto de Circulação de Mercadorias sôbre os   derivados de petróleo, redistribui o Fundo Rodoviário Nacional e dá outras   providências."
+    },
+    {
+      "senadoId": "523071",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-215",
+      "titulo": "Decreto-Lei nº 215 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "215",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;215",
+      "ementa": "Altera o Código da Justiça Militar (Decreto-Lei nº 925,de 2 de dezembro de   1938)."
+    },
+    {
+      "senadoId": "523045",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-202",
+      "titulo": "Decreto-Lei nº 202 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "202",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;202",
+      "ementa": "Incorpora ao Fundo Rotativo Habitacional de Brasília, saldos de dotações   orçamentárias, consignados a favor do Grupo de Trabalho de   Brasília."
+    },
+    {
+      "senadoId": "523049",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-204",
+      "titulo": "Decreto-Lei nº 204 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "204",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;204",
+      "ementa": "Dispõe sôbre a exploração de loterias e dá outras providências."
+    },
+    {
+      "senadoId": "523063",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-211",
+      "titulo": "Decreto-Lei nº 211 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "211",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;211",
+      "ementa": "Dispõe sôbre o registro dos órgãos executivos de atividades hemoterápicas   a que se refere o art. 3º, item 3, da Lei nº 4.701, de 28 de junho de 1965, e dá   outras providências."
+    },
+    {
+      "senadoId": "523055",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-207",
+      "titulo": "Decreto-Lei nº 207 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "207",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;207",
+      "ementa": "Altera dispositivos da Lei nº 5.250, de 9 de fevereiro de   1967."
+    },
+    {
+      "senadoId": "523073",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-27-216",
+      "titulo": "Decreto-Lei nº 216 de 27/02/1967",
+      "data": "1967-02-27",
+      "numero": "216",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-27;216",
+      "ementa": "Dispõe sôbre a execução do art. 188 da Constituição Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "523041",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-25-200",
+      "titulo": "Decreto-Lei nº 200 de 25/02/1967",
+      "data": "1967-02-25",
+      "numero": "200",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-25;200",
+      "ementa": "Dispõe sobre a organização da Administração Federal, estabelece diretrizes para a Reforma Administrativa e dá outras providências."
+    },
+    {
+      "senadoId": "523039",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-25-199",
+      "titulo": "Decreto-Lei nº 199 de 25/02/1967",
+      "data": "1967-02-25",
+      "numero": "199",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-25;199",
+      "ementa": "Dispõe sôbre a Lei Orgânica do Tribunal de Contas da União e dá outras   providências."
+    },
+    {
+      "senadoId": "523170",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-25-265",
+      "titulo": "Decreto-Lei nº 265 de 25/02/1967",
+      "data": "1967-02-25",
+      "numero": "265",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-25;265",
+      "ementa": "Cria a Cédula Industrial Pignoratícia, altera disposições sôbre a Duplicata e dá outras providências."
+    },
+    {
+      "senadoId": "523019",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-189",
+      "titulo": "Decreto-Lei nº 189 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "189",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;189",
+      "ementa": "Dispõe sôbre a taxa de câmbio a que se refere o parágrafo único do   Decreto-Lei nº 37, de 18 de novembro de 1966."
+    },
+    {
+      "senadoId": "523031",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-195",
+      "titulo": "Decreto-Lei nº 195 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "195",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;195",
+      "ementa": "Dispõe sôbre a cobrança da Contribuição de Melhoria."
+    },
+    {
+      "senadoId": "523027",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-193",
+      "titulo": "Decreto-Lei nº 193 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "193",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;193",
+      "ementa": "Altera a redação dos artigos 10 e 11 da Lei nº 4.923, de 23 de dezembro de   1965, que instituiu o cadastro permanente das admissões e dispensas de   empregados."
+    },
+    {
+      "senadoId": "523035",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-197",
+      "titulo": "Decreto-Lei nº 197 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "197",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;197",
+      "ementa": "Dá nova redação a dispositivos da Lei nº 3.765, de 4 de maio de 1960, que   dispõe sôbre as Pensões Militares."
+    },
+    {
+      "senadoId": "523029",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-194",
+      "titulo": "Decreto-Lei nº 194 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "194",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;194",
+      "ementa": "Dispõe sôbre a aplicação da legilação sobre o Fundo de Garantia de Tempo   de Serviço às entidades de fins filantrópicos."
+    },
+    {
+      "senadoId": "523023",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-191",
+      "titulo": "Decreto-Lei nº 191 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "191",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;191",
+      "ementa": "Autoriza o Poder Executivo a abrir o crédito especial de NCr$   21.000.000,00 (vinte e um milhões de cruzeiros novos) como reforço ao Fundo de   Marinha Mercante, e dá outras providências."
+    },
+    {
+      "senadoId": "523037",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-198",
+      "titulo": "Decreto-Lei nº 198 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "198",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;198",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério das Minas e Energia, o   crédito especial de NCr$ 4.000.000,00 (quatro milhões de cruzeiros novos), para   o fim que especifica."
+    },
+    {
+      "senadoId": "523021",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-190",
+      "titulo": "Decreto-Lei nº 190 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "190",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;190",
+      "ementa": "Dispõe sôbre o despacho de embarcações e dá outras providências."
+    },
+    {
+      "senadoId": "523033",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-196",
+      "titulo": "Decreto-Lei nº 196 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "196",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;196",
+      "ementa": "Altera dispositivo da Lei nº 4328, de 30 de abril de 1964."
+    },
+    {
+      "senadoId": "523025",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-24-192",
+      "titulo": "Decreto-Lei nº 192 de 24/02/1967",
+      "data": "1967-02-24",
+      "numero": "192",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-24;192",
+      "ementa": "Fixa o entendimento da expressão \"indenizações trabalhistas\" nos textos   legais que menciona."
+    },
+    {
+      "senadoId": "523011",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-23-185",
+      "titulo": "Decreto-Lei nº 185 de 23/02/1967",
+      "data": "1967-02-23",
+      "numero": "185",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-23;185",
+      "ementa": "Estabelece normas para contratação de obras e para revisão de preços em   contratos de obras ou serviços a cargo do Governo Federal."
+    },
+    {
+      "senadoId": "523013",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-23-186",
+      "titulo": "Decreto-Lei nº 186 de 23/02/1967",
+      "data": "1967-02-23",
+      "numero": "186",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-23;186",
+      "ementa": "Incorpora o Instituto Borges da Costa à Universidade Federal de Minas   Gerais."
+    },
+    {
+      "senadoId": "523017",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-23-188",
+      "titulo": "Decreto-Lei nº 188 de 23/02/1967",
+      "data": "1967-02-23",
+      "numero": "188",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-23;188",
+      "ementa": "Dispõe sôbre a aplicação da correção do registro contábil do valor   original dos bens do ativo imobilizado do capital das emprêsas concessionárias   dos serviços portuários."
+    },
+    {
+      "senadoId": "523015",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-23-187",
+      "titulo": "Decreto-Lei nº 187 de 23/02/1967",
+      "data": "1967-02-23",
+      "numero": "187",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-23;187",
+      "ementa": "Concede pensão especial à cidadã portuguesa Mary Crispim Galvão, servidora   da Delegacia do Tesouro Brasileiro no exterior."
+    },
+    {
+      "senadoId": "523007",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-21-183",
+      "titulo": "Decreto-Lei nº 183 de 21/02/1967",
+      "data": "1967-02-21",
+      "numero": "183",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-21;183",
+      "ementa": "Retifica, sem ônus, a Lei nº 5.189, de 8 de dezembro de   1966."
+    },
+    {
+      "senadoId": "523009",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-21-184",
+      "titulo": "Decreto-Lei nº 184 de 21/02/1967",
+      "data": "1967-02-21",
+      "numero": "184",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-21;184",
+      "ementa": "Dispõe sobre a criação de cargos em comissão, no Conselho Federal de   Cultura."
+    },
+    {
+      "senadoId": "523005",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-20-182",
+      "titulo": "Decreto-Lei nº 182 de 20/02/1967",
+      "data": "1967-02-20",
+      "numero": "182",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-20;182",
+      "ementa": "Acrescenta parágrafo único ao art. 16 da Lei nº 3.222, de 21 de julho de   1957, alterado pela Lei nº 5.176, de 1º de dezembro de 1966."
+    },
+    {
+      "senadoId": "523003",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-17-181",
+      "titulo": "Decreto-Lei nº 181 de 17/02/1967",
+      "data": "1967-02-17",
+      "numero": "181",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-17;181",
+      "ementa": "Dá nova denominação à atual Escola Técnica Federal da Guanabara."
+    },
+    {
+      "senadoId": "522997",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-16-178",
+      "titulo": "Decreto-Lei nº 178 de 16/02/1967",
+      "data": "1967-02-16",
+      "numero": "178",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-16;178",
+      "ementa": "Dispõe sôbre a cessão de imóveis da União Federal para as finalidades que   especifica."
+    },
+    {
+      "senadoId": "523001",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-16-180",
+      "titulo": "Decreto-Lei nº 180 de 16/02/1967",
+      "data": "1967-02-16",
+      "numero": "180",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-16;180",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "522995",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-16-177",
+      "titulo": "Decreto-Lei nº 177 de 16/02/1967",
+      "data": "1967-02-16",
+      "numero": "177",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-16;177",
+      "ementa": "Altera o Decreto-Lei n° 81, de 21 de dezembro de 1966."
+    },
+    {
+      "senadoId": "522999",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-16-179",
+      "titulo": "Decreto-Lei nº 179 de 16/02/1967",
+      "data": "1967-02-16",
+      "numero": "179",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-16;179",
+      "ementa": "Autoriza a instituição da Fundação Interestadual para o Desenvolvimento   dos Vales do Tocantins-Araguaia e Paraguai-Cuiabá (FIRTOP) e dá outras   providências."
+    },
+    {
+      "senadoId": "522991",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-175",
+      "titulo": "Decreto-Lei nº 175 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "175",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;175",
+      "ementa": "Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito   especial que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "522987",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-173",
+      "titulo": "Decreto-Lei nº 173 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "173",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;173",
+      "ementa": "Dispõe sôbre os recursos financeiros para a manutenção, no exercício   financeiro de 1967, do Instituto Nacional do Cinema, entidade autárquica,   vinculada ao ministério da Educação e Cultura, e dá outras   providências."
+    },
+    {
+      "senadoId": "522985",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-172",
+      "titulo": "Decreto-Lei nº 172 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "172",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;172",
+      "ementa": "Dispõe sôbre a transferência de dotações orçamentárias para o Conselho   Federal de Cultura."
+    },
+    {
+      "senadoId": "522989",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-174",
+      "titulo": "Decreto-Lei nº 174 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "174",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;174",
+      "ementa": "Dá nova redação a dispositivos da Lei n° 5.020 de 7 de Junho de 1966, que   dispõe sobre as promoções de oficiais da ativa da aeronáutica."
+    },
+    {
+      "senadoId": "522983",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-171",
+      "titulo": "Decreto-Lei nº 171 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "171",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;171",
+      "ementa": "Altera sem aumento de despesas, a Lei n° 5.189, de 8 de dezembro de 1966,   que estima a receita e fixa a despesa da União para o exercício financeiro de   1967."
+    },
+    {
+      "senadoId": "522993",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-176",
+      "titulo": "Decreto-Lei nº 176 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "176",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;176",
+      "ementa": "Modifica o parágrafo 1º do art. 28 do Decreto-Lei n° 81, de 21 de dezembro   de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "522981",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-15-170",
+      "titulo": "Decreto-Lei nº 170 de 15/02/1967",
+      "data": "1967-02-15",
+      "numero": "170",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-15;170",
+      "ementa": "Altera a Lei Orçamentária sem aumento de despesa."
+    },
+    {
+      "senadoId": "522978",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-14-168",
+      "titulo": "Decreto-Lei nº 168 de 14/02/1967",
+      "data": "1967-02-14",
+      "numero": "168",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-14;168",
+      "ementa": "Retifica dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, no   que tange a aspectos administrativos da Superintendência de Seguros Privados   (SUSEP)."
+    },
+    {
+      "senadoId": "522974",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-14-166",
+      "titulo": "Decreto-Lei nº 166 de 14/02/1967",
+      "data": "1967-02-14",
+      "numero": "166",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-14;166",
+      "ementa": "Transfere a Agência Nacional do Ministério da Justiça e Negócios   Interiores para a Presidência da República."
+    },
+    {
+      "senadoId": "522976",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-14-167",
+      "titulo": "Decreto-Lei nº 167 de 14/02/1967",
+      "data": "1967-02-14",
+      "numero": "167",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-14;167",
+      "ementa": "Dispõe sobre títulos de crédito rural e dá outras providências."
+    },
+    {
+      "senadoId": "522979",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-14-169",
+      "titulo": "Decreto-Lei nº 169 de 14/02/1967",
+      "data": "1967-02-14",
+      "numero": "169",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-14;169",
+      "ementa": "Reduz alíquotas do imposto de importação e dá outras   providências"
+    },
+    {
+      "senadoId": "522966",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-13-162",
+      "titulo": "Decreto-Lei nº 162 de 13/02/1967",
+      "data": "1967-02-13",
+      "numero": "162",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-13;162",
+      "ementa": "Dispõe sôbre a exploração dos serviços de telecomunicações."
+    },
+    {
+      "senadoId": "522972",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-13-165",
+      "titulo": "Decreto-Lei nº 165 de 13/02/1967",
+      "data": "1967-02-13",
+      "numero": "165",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-13;165",
+      "ementa": "Dispõe sobre a isenção ou redução do imposto sobre a transferência de   juros para o exterior, quando houver acordo tributário."
+    },
+    {
+      "senadoId": "522970",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-13-164",
+      "titulo": "Decreto-Lei nº 164 de 13/02/1967",
+      "data": "1967-02-13",
+      "numero": "164",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-13;164",
+      "ementa": "Modifica a Legislação da Política Econômica da Borracha e dá outras   providências."
+    },
+    {
+      "senadoId": "522968",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-13-163",
+      "titulo": "Decreto-Lei nº 163 de 13/02/1967",
+      "data": "1967-02-13",
+      "numero": "163",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-13;163",
+      "ementa": "Exclui do sistema de alienação compulsória, instituída na Lei nº 4.380, de   21 de agôsto de 1964, com as alterações decorrentes do prescrito na Lei nº   5.049, de 29 de junho de 1966, os imóveis de propriedade das entidades que   menciona."
+    },
+    {
+      "senadoId": "522964",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-13-161",
+      "titulo": "Decreto-Lei nº 161 de 13/02/1967",
+      "data": "1967-02-13",
+      "numero": "161",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-13;161",
+      "ementa": "Autoriza o Poder Executivo a instituir a \"Fundação Instituto Brasileiro de   Geografia e Estatística\" e dá outras providências."
+    },
+    {
+      "senadoId": "522952",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-155",
+      "titulo": "Decreto-Lei nº 155 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "155",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;155",
+      "ementa": "Dispõe sôbre a extinção da autarquia federal denominada Serviços de   Navegação da Amazônia e de Administração do Pôrto do Pará; autoriza a   constituição da Empresa de Navegação da Amazônia S.A. e da Companhia das Docas   do Pará, e dá outras providências."
+    },
+    {
+      "senadoId": "522958",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-158",
+      "titulo": "Decreto-Lei nº 158 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "158",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;158",
+      "ementa": "Dispõe sôbre a aposentadoria especial do aeronauta e dá outras   providências."
+    },
+    {
+      "senadoId": "522956",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-157",
+      "titulo": "Decreto-Lei nº 157 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "157",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;157",
+      "ementa": "Concede estímulos fiscais à capitalização das empresas; reforça os incentivos à compra de ações; facilita o pagamento de débitos fiscais."
+    },
+    {
+      "senadoId": "522948",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-153",
+      "titulo": "Decreto-Lei nº 153 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "153",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;153",
+      "ementa": "Estabelece normas para o funcionamento da Companhia Brasileira de   Dragagem, constituída nos termos do artigo 26, da Lei nº 4.213, de 14 de   fevereiro de 1963, e de acordo com o dispositivo no Decreto nº 54.046, de   23.07.64."
+    },
+    {
+      "senadoId": "522946",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-152",
+      "titulo": "Decreto-Lei nº 152 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "152",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;152",
+      "ementa": "Autoriza a constituição de uma sociedade de econômia mista destinada a   explorar os serviços de transporte marítimo na Baía da Guanabara."
+    },
+    {
+      "senadoId": "522954",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-156",
+      "titulo": "Decreto-Lei nº 156 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "156",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;156",
+      "ementa": "Modifica disposição do Decreto-Lei nº 38, de 18 de novembro de 1966."
+    },
+    {
+      "senadoId": "522962",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-160",
+      "titulo": "Decreto-Lei nº 160 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "160",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;160",
+      "ementa": "Autoriza o Poder Executivo a abrir, ao Ministério da Indústria e do   Comércio, o crédito especial de Cr$ 107.000.000 (cento e sete milhões de   cruzeiros), para cobrir despesas com indenizações decorrentes de sentenças   judiciais."
+    },
+    {
+      "senadoId": "522950",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-154",
+      "titulo": "Decreto-Lei nº 154 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "154",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;154",
+      "ementa": "Dispõe sobre os bens e o pessoal vinculado ao Serviço de Navegação da   Bacia do Prata - Autarquia Federal vinculada ao Ministério da Viação e Obras   Públicas, extingue esta Autarquia, e autoriza a constituição do Serviço de   Navegação da Bacia do Prata S.A. e dá outras providências."
+    },
+    {
+      "senadoId": "522960",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-10-159",
+      "titulo": "Decreto-Lei nº 159 de 10/02/1967",
+      "data": "1967-02-10",
+      "numero": "159",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-10;159",
+      "ementa": "Dispõe sôbre as substâncias capazes de determinar dependência física ou   psíquica, e dá outras providências."
+    },
+    {
+      "senadoId": "522944",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-09-151",
+      "titulo": "Decreto-Lei nº 151 de 09/02/1967",
+      "data": "1967-02-09",
+      "numero": "151",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-09;151",
+      "ementa": "Dispõe sôbre os depósitos bancários do SESI, SESC, SENAI, SENAC e das   entidades sindicais."
+    },
+    {
+      "senadoId": "522942",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-09-150",
+      "titulo": "Decreto-Lei nº 150 de 09/02/1967",
+      "data": "1967-02-09",
+      "numero": "150",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-09;150",
+      "ementa": "Dispensa de registro, no Serviço Nacional de Fiscalização da Medicina e   Farmácia, os diplomas expedidos por Escolas ;ou Faculdades de Medicina e de   Farmácia."
+    },
+    {
+      "senadoId": "522938",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-08-148",
+      "titulo": "Decreto-Lei nº 148 de 08/02/1967",
+      "data": "1967-02-08",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-08;148",
+      "ementa": "Dispõe sobre a organização da vida rural, investiduras das Associações   Rurais nas funções e prerrogativas do órgão sindical."
+    },
+    {
+      "senadoId": "522940",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-08-149",
+      "titulo": "Decreto-Lei nº 149 de 08/02/1967",
+      "data": "1967-02-08",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-08;149",
+      "ementa": "Aprova o Convênio firmado entre o Governo Federal e o Estado de Guanabara   para a reinclusão nos Quadros do Corpo de Bombeiros do Estado da Guanabara, do   pessoal do Corpo de Bombeiros do antigo Distrito Federal."
+    },
+    {
+      "senadoId": "522934",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-03-146",
+      "titulo": "Decreto-Lei nº 146 de 03/02/1967",
+      "data": "1967-02-03",
+      "numero": "146",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-03;146",
+      "ementa": "Dispõe sôbre vencimentos dos Tesoureiros efetivos, Tesoureiros-Auxiliares   do Serviço Público Federal e Autárquico, e Conferentes das Caixas Econômicas   Federais e dá outras providências."
+    },
+    {
+      "senadoId": "522936",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-03-147",
+      "titulo": "Decreto-Lei nº 147 de 03/02/1967",
+      "data": "1967-02-03",
+      "numero": "147",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-03;147",
+      "ementa": "Dá nova lei orgânica à Procuradoria Geral da Fazenda Nacional (P.G.F.N.)"
+    },
+    {
+      "senadoId": "522930",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-144",
+      "titulo": "Decreto-Lei nº 144 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "144",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;144",
+      "ementa": "Cria a Tabela de Taxas e Emolumentos da Junta Comercial do Distrito   Federal e dá providências para sua instalação, organização e   funcionamento."
+    },
+    {
+      "senadoId": "522926",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-142",
+      "titulo": "Decreto-Lei nº 142 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "142",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;142",
+      "ementa": "Dispõe sôbre o Plano Rodoviário Nacional."
+    },
+    {
+      "senadoId": "522920",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-139",
+      "titulo": "Decreto-Lei nº 139 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "139",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;139",
+      "ementa": "Reestrutura o Conselho Nacional de Trasportes."
+    },
+    {
+      "senadoId": "522914",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-136",
+      "titulo": "Decreto-Lei nº 136 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "136",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;136",
+      "ementa": "Altera o Anexo 2 integrante da Lei nº 5.189, de 8 de dezembro de   1966."
+    },
+    {
+      "senadoId": "522912",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-135",
+      "titulo": "Decreto-Lei nº 135 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "135",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;135",
+      "ementa": "Dispõe sôbre a constituição da Fundação denominada Grupo de Estudos de   Integração da Política de Transportes - GEIPOT - e sobre os contratos celebrados   pelo Grupo Executivo de Integração da Política de Transporte órgão centralizado   da União."
+    },
+    {
+      "senadoId": "522918",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-138",
+      "titulo": "Decreto-Lei nº 138 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "138",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;138",
+      "ementa": "Autoriza o Departamento Nacional de Obras Contra as Secas a executar obras   de Engenharia Rural."
+    },
+    {
+      "senadoId": "522916",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-137",
+      "titulo": "Decreto-Lei nº 137 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "137",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;137",
+      "ementa": "Dispõe sobre a política de consolidação do Distrito Federal, cria a   Coordenação de Desenvolvimento de Brasília (CODEBRÁS), extingue o Grupo de   Trabalho de Brasília - GTB e dá outras providências."
+    },
+    {
+      "senadoId": "522928",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-143",
+      "titulo": "Decreto-Lei nº 143 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "143",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;143",
+      "ementa": "Estabelece modificações no Plano Ferroviário Nacional do Plano Nacional de   Viação, aprovado pela Lei nº 4.592, de 29 de dezembro de 1964, e dá outras   providências."
+    },
+    {
+      "senadoId": "522932",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-145",
+      "titulo": "Decreto-Lei nº 145 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "145",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;145",
+      "ementa": "Extingue as taxas criadas pelo Decreto-Lei nº 7.632, de 12 de junho de   1945 e dá outras providências."
+    },
+    {
+      "senadoId": "522922",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-140",
+      "titulo": "Decreto-Lei nº 140 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "140",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;140",
+      "ementa": "Acrescenta o § 7º ao art. 4º da Lei nº 4.985, de 18 de maio de 1966."
+    },
+    {
+      "senadoId": "522924",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-141",
+      "titulo": "Decreto-Lei nº 141 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "141",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;141",
+      "ementa": "Dispõe sôbre liquidação dos direitos e obrigações das autarquias   extintas."
+    },
+    {
+      "senadoId": "522910",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-02-134",
+      "titulo": "Decreto-Lei nº 134 de 02/02/1967",
+      "data": "1967-02-02",
+      "numero": "134",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-02;134",
+      "ementa": "Dispõe sôbre sobre o cálculo do \"imposto único\" incidente sobre águas   minerais industrializadas e dá outras providências."
+    },
+    {
+      "senadoId": "522908",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-01-133",
+      "titulo": "Decreto-Lei nº 133 de 01/02/1967",
+      "data": "1967-02-01",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-01;133",
+      "ementa": "Dispõe sobre regime de trabalho nas emprêsas, em decorrência do   racionamento de energia elétrica, e dá outras providências."
+    },
+    {
+      "senadoId": "522906",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-02-01-132",
+      "titulo": "Decreto-Lei nº 132 de 01/02/1967",
+      "data": "1967-02-01",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-02-01;132",
+      "ementa": "Altera a Lei nº 3.654, de 4 de novembro de 1959."
+    },
+    {
+      "senadoId": "522880",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-119",
+      "titulo": "Decreto-Lei nº 119 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "119",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;119",
+      "ementa": "Autoriza o Serviço de Navegação da Bacia do Prata (SNBP) a alienar, em   concorrência pública, o navio \"Cidade Murtinho\" de sua propriedade."
+    },
+    {
+      "senadoId": "522882",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-120",
+      "titulo": "Decreto-Lei nº 120 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "120",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;120",
+      "ementa": "Cria o Serviço de Estatística dos Trasportes no Ministério da Viação e   obras Públicas."
+    },
+    {
+      "senadoId": "522892",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-125",
+      "titulo": "Decreto-Lei nº 125 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "125",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;125",
+      "ementa": "Altera a redação do art. 11 da Lei nº 4.425, de 8 de outubro de 1964."
+    },
+    {
+      "senadoId": "522878",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-118",
+      "titulo": "Decreto-Lei nº 118 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "118",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;118",
+      "ementa": "Dá nova redação ao art. 7º da Lei nº 5.165, de 21 de outubro de1966."
+    },
+    {
+      "senadoId": "522902",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-130",
+      "titulo": "Decreto-Lei nº 130 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;130",
+      "ementa": "Altera o parágrafo único do art. 1º do Decreto-Lei nº 38, de 18 de   novembro de 1966."
+    },
+    {
+      "senadoId": "522888",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-123",
+      "titulo": "Decreto-Lei nº 123 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "123",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;123",
+      "ementa": "Estabelece a correção monetária nos contratos a conta do Fundo da Marinha   Mercante, define as condições do prêmio pago aos armadores nacionais e eleva o   teto dos financiamentos sob responsabilidade da Comissão de Marinha   Mercante."
+    },
+    {
+      "senadoId": "522876",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-117",
+      "titulo": "Decreto-Lei nº 117 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "117",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;117",
+      "ementa": "Regula o limite máximo de carga por eixo, para o tráfego nas vias   públicas, de veículos ou combinações de veículos e dá outras   providências."
+    },
+    {
+      "senadoId": "522898",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-128",
+      "titulo": "Decreto-Lei nº 128 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;128",
+      "ementa": "Dispõe sôbre a alienação de imóveis integrantes dos acervos das empresas   concessionárias dos serviços portuários."
+    },
+    {
+      "senadoId": "522894",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-126",
+      "titulo": "Decreto-Lei nº 126 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "126",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;126",
+      "ementa": "Define as atribuições dos Portos Organizados e Repartições aduaneiras na   fiscalização, controle e trânsito de mercadorias."
+    },
+    {
+      "senadoId": "522900",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-129",
+      "titulo": "Decreto-Lei nº 129 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;129",
+      "ementa": "Dá nova redação ao art. 43 do Decreto-Lei nº 72, de 21 de novembro de   1966."
+    },
+    {
+      "senadoId": "522886",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-122",
+      "titulo": "Decreto-Lei nº 122 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "122",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;122",
+      "ementa": "Reorganiza o Departamento Nacional de Estradas de Rodagem e dé outras   providências."
+    },
+    {
+      "senadoId": "522904",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-131",
+      "titulo": "Decreto-Lei nº 131 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;131",
+      "ementa": "Abre ao Ministério da Fazenda o crédito especial de Cr$ 32.358.800, para o   fim que especifica."
+    },
+    {
+      "senadoId": "522884",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-121",
+      "titulo": "Decreto-Lei nº 121 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "121",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;121",
+      "ementa": "Estabelece a competência da União para regulamentar o transporte   rodoviário de cargas e coletivo de passageiros."
+    },
+    {
+      "senadoId": "522896",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-127",
+      "titulo": "Decreto-Lei nº 127 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "127",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;127",
+      "ementa": "Dispõe sôbre operação de carga e descarga de mercadorias nos pôrtos   organizados e dá outra providências."
+    },
+    {
+      "senadoId": "522890",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-31-124",
+      "titulo": "Decreto-Lei nº 124 de 31/01/1967",
+      "data": "1967-01-31",
+      "numero": "124",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-31;124",
+      "ementa": "Altera a redação do art. 22 do Decreto-Lei nº 79, de 19 de dezembro   de1966."
+    },
+    {
+      "senadoId": "522874",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-27-116-a",
+      "titulo": "Decreto-Lei nº 116-A de 27/01/1967",
+      "data": "1967-01-27",
+      "numero": "116-a",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-27;116-a",
+      "ementa": "Altera alíquotas do Imposto sôbre Produtos Industrializados."
+    },
+    {
+      "senadoId": "522871",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-25-115",
+      "titulo": "Decreto-Lei nº 115 de 25/01/1967",
+      "data": "1967-01-25",
+      "numero": "115",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-25;115",
+      "ementa": "Aprova o Regimento de Custas da Justiça do Distrito Federal e   dá outras providências."
+    },
+    {
+      "senadoId": "522869",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-25-114",
+      "titulo": "Decreto-Lei nº 114 de 25/01/1967",
+      "data": "1967-01-25",
+      "numero": "114",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-25;114",
+      "ementa": "Cria cargos na carreira do Ministério Público do Distrito Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "522867",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-25-113",
+      "titulo": "Decreto-Lei nº 113 de 25/01/1967",
+      "data": "1967-01-25",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-25;113",
+      "ementa": "Altera a Organização Jurídica do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "522873",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-25-116",
+      "titulo": "Decreto-Lei nº 116 de 25/01/1967",
+      "data": "1967-01-25",
+      "numero": "116",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-25;116",
+      "ementa": "Dispõe sôbre as operações inerentes ao transporte de mercadorias por via   d'água nos portos brasileiros, delimitando suas responsabilidades e tratando   das faltas e avarias ."
+    },
+    {
+      "senadoId": "522865",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-24-112",
+      "titulo": "Decreto-Lei nº 112 de 24/01/1967",
+      "data": "1967-01-24",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-24;112",
+      "ementa": "Altera o art. 37 do Decreto-Lei nº 81, de 21 de dezembro de 1966, que   dispõe sobre abertura, pelo Poder Executivo, do crédito especial de Cr$   700.000.000.000, destinado a atender ao reajustamento dos servidores civis e   militares da União."
+    },
+    {
+      "senadoId": "522863",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-24-111",
+      "titulo": "Decreto-Lei nº 111 de 24/01/1967",
+      "data": "1967-01-24",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-24;111",
+      "ementa": "Altera a Lei nº 5.189, de 8 de dezembro de 1966."
+    },
+    {
+      "senadoId": "522861",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-23-110",
+      "titulo": "Decreto-Lei nº 110 de 23/01/1967",
+      "data": "1967-01-23",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-23;110",
+      "ementa": "Ratifica o sistema de remuneração nos órgãos de deliberação coletiva da   previdência social, a que se refere o art. 26 do Decreto-Lei nº 72, de 21 de   novembro de 1966."
+    },
+    {
+      "senadoId": "522859",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-18-109",
+      "titulo": "Decreto-Lei nº 109 de 18/01/1967",
+      "data": "1967-01-18",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-18;109",
+      "ementa": "Altera o Decreto-Lei nº 94, de 30 de dezembro de 1966."
+    },
+    {
+      "senadoId": "522857",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-17-108",
+      "titulo": "Decreto-Lei nº 108 de 17/01/1967",
+      "data": "1967-01-17",
+      "numero": "108",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-17;108",
+      "ementa": "Modifica disposição da Lei nº 4.595, de 31 de dezembro   de1964."
+    },
+    {
+      "senadoId": "522855",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-16-107",
+      "titulo": "Decreto-Lei nº 107 de 16/01/1967",
+      "data": "1967-01-16",
+      "numero": "107",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-16;107",
+      "ementa": "Autoriza o Poder Executivo a constituir a emprêsa Telecomunicações S.A.   (TASA), e dá outras providências."
+    },
+    {
+      "senadoId": "522853",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-16-106",
+      "titulo": "Decreto-Lei nº 106 de 16/01/1967",
+      "data": "1967-01-16",
+      "numero": "106",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-16;106",
+      "ementa": "Altera dispositivos no Decreto-Lei nº 29, de 14 de novembro de 1966."
+    },
+    {
+      "senadoId": "522851",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-16-105",
+      "titulo": "Decreto-Lei nº 105 de 16/01/1967",
+      "data": "1967-01-16",
+      "numero": "105",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-16;105",
+      "ementa": "Aprova o têrmo aditivo ao convênio firmado entre o Governo Federal e o   Estado da Guanabara para a reinclusão, nos Quadros da Polícia Militar do Estado   da Guanabara, do pessoal da Polícia Militar do Antigo Distrito Federal, aprovado   pelo Decreto-Lei nº 10, de 28 de julho de1966."
+    },
+    {
+      "senadoId": "522845",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-13-102",
+      "titulo": "Decreto-Lei nº 102 de 13/01/1967",
+      "data": "1967-01-13",
+      "numero": "102",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-13;102",
+      "ementa": "Dispõe sôbre a distribuição gratuita à magistratura e magistério   especializado das publicações do Supremo Tribunal Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "522849",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-13-104",
+      "titulo": "Decreto-Lei nº 104 de 13/01/1967",
+      "data": "1967-01-13",
+      "numero": "104",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-13;104",
+      "ementa": "Altera a legislação do impôsto sôbre produtos industrializados e dá outras   providências."
+    },
+    {
+      "senadoId": "522847",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-13-103",
+      "titulo": "Decreto-Lei nº 103 de 13/01/1967",
+      "data": "1967-01-13",
+      "numero": "103",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-13;103",
+      "ementa": "Dispõe sôbre a elevação do capital social da Fábrica Nacional de Motores   S.A. e de sua transferência para o setor privado."
+    },
+    {
+      "senadoId": "522843",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-11-101",
+      "titulo": "Decreto-Lei nº 101 de 11/01/1967",
+      "data": "1967-01-11",
+      "numero": "101",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-11;101",
+      "ementa": "Modifica dispositivo da Lei n° 5.159, de 21 de outubro de 1966, que   autoriza a abertura, pelo Ministério da Indústria e do Comércio, do crédito   especial de Cr$ 1.500.000.000 (Um bilhão e quinhentos milhões de cruzeiros), a   favor do Instituto de Resseguros do Brasil, destinado a garantir as   responsabilidades a serem assumidas pelo Governo Federal, no tocante ao seguro   de crédito à exportação, objeto da Lei n° 4.678, de 16 de junho de   1965."
+    },
+    {
+      "senadoId": "522841",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1967-01-10-100",
+      "titulo": "Decreto-Lei nº 100 de 10/01/1967",
+      "data": "1967-01-10",
+      "numero": "100",
+      "urn": "urn:lex:br:federal:decreto.lei:1967-01-10;100",
+      "ementa": "Disciplina a aplicação do disposto na art. 53, da Lei n° 4.728, de 14 de   julho de 1965"
+    }
+  ],
+  "pendencias": []
+}

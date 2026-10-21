@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-11-19-49130",
+  "titulo": "DEC nº 49130, de 19/11/2025",
+  "data": "2025-11-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49130/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49130/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "45b5fc6038551e51d5e86ac5bbe4ceeb89666921109b8a8f6cfbe4469905c9d2",
+  "coletado_em": "2026-10-21T08:35:29.466Z",
+  "sha256_fonte": "9869e1565ad7c86e8cdff6b44eed428345861244295d48e1c300738a415ec46a",
+  "sha256_markdown": "d7b16724c1feccc9b924a4f3f086cbc441bacc9d143d8d1e1df884bfa398efac"
+}

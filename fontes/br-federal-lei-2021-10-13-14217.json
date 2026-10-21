@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-10-13-14217",
+  "titulo": "Lei nº 14.217 de 13/10/2021",
+  "data": "2021-10-13",
+  "fonte": "https://normas.leg.br/api/public/binario/bee151c5-f83c-463d-a1e1-7e44d9e592ae/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-10-13;14217",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-10-13%3B14217&tipo_documento=maior-detalhe",
+  "sha256_dados": "fd6bbe63499cd12e5a37f6248834e975340e5a735bf57d38f23db4e955fd8274",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:40.345Z",
+  "sha256_fonte": "786bc9a43da88212f467685e6b41dc8fa7f823d18e4c59584b453c35be28e4fc",
+  "sha256_markdown": "78e4a998488921f9e93563841a683eeab4ba9455a5a6d548906577f58bab9603"
+}

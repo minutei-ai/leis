@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-30-25269",
+  "titulo": "LEI nº 25269, de 30/05/2025",
+  "data": "2025-05-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25269/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25269/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b18276e5ce58693830cf4b6aa5720c9acc967f699d456f4e413c45fae01bf516",
+  "coletado_em": "2026-10-21T08:31:40.753Z",
+  "sha256_fonte": "04774be2b947367d0a2e7141a28a91dc93f68d6fe4ba3a4b739adabe884fdf7f",
+  "sha256_markdown": "42d0e02d9b31a720c476d1d4247500fdcde3c44e231224433a18c5648abef806"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-09-08-25463",
+  "titulo": "LEI nº 25463, de 08/09/2025",
+  "data": "2025-09-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25463/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25463/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cb91c4d8bc0353b3f7eff07005d3d10a65b4db97770942e930a574361a183937",
+  "coletado_em": "2026-10-21T08:33:57.365Z",
+  "sha256_fonte": "234a0706fe65b86fe37103c78efad0faa6ba2daa19de300ecb7335030a4b1f5e",
+  "sha256_markdown": "c52d95e25a4ae0ddb339ef0416764e928cb2eb91f787b3584862f98aaba85c33"
+}

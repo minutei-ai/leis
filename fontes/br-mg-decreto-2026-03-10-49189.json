@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-10-49189",
+  "titulo": "DEC nº 49189, de 10/03/2026",
+  "data": "2026-03-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49189/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49189/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "0d089502e2f8847758e2607e56925f733309f59d2d829cd0b57f8dc97e175efe",
+  "coletado_em": "2026-10-21T08:25:43.533Z",
+  "sha256_fonte": "f12144c2fc4d67a889c9f348e54dd30c7d6b54ac29a8bc2e38b9e1b55bc230e6",
+  "sha256_markdown": "5bb24be36363b79886aea88e55909a3c641136993407967c0d03c817c0aadba3"
+}

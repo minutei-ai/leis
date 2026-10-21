@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-22-25666",
+  "titulo": "LEI nº 25666, de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25666/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25666/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e885390d2041379db1d12aeb5115891ad8e729f4127c7591efa3cc690c710eec",
+  "coletado_em": "2026-10-21T08:36:25.334Z",
+  "sha256_fonte": "7e16f88da1992cf914265894555733256eac380d5e8cf64ddb3a2cb8f15a3323",
+  "sha256_markdown": "626545b786782df865df41790a8924e67068dacee59a95747c57e6d016d7c302"
+}

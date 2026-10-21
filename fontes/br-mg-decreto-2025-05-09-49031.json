@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-05-09-49031",
+  "titulo": "DEC nº 49031, de 09/05/2025",
+  "data": "2025-05-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49031/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49031/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "53eaf3989a39e514324889d924803f7c42a4a6bdc97b596c44aafc8df49264f3",
+  "coletado_em": "2026-10-21T08:31:11.714Z",
+  "sha256_fonte": "7b579f8b4d77e7cf1d7716cedc770a2a567f921c874b0c19ed55d5b9a9155e81",
+  "sha256_markdown": "ad061976a60cd2a59d15659c13ebc21d2da67f5ad2863c5f5c4771a89c44a1f7"
+}

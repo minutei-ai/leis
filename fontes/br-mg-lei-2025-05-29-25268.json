@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-29-25268",
+  "titulo": "LEI nº 25268, de 29/05/2025",
+  "data": "2025-05-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25268/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25268/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2e3c0a769eb4e09502d4e603a9462e9d2cb7a6b8ea447e63089976bf4711d620",
+  "coletado_em": "2026-10-21T08:31:34.025Z",
+  "sha256_fonte": "2719118b497cb5f9c9ed5ae4c2d80d4c750b6d5770ac57dd1830eafe0efedb41",
+  "sha256_markdown": "3b5995c99b0715244fa96aee763094850291ceb667b67717772b05c705464137"
+}

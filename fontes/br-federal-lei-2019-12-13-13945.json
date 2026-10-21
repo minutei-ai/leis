@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-13-13945",
+  "titulo": "Lei nº 13.945 de 13/12/2019",
+  "data": "2019-12-13",
+  "fonte": "https://normas.leg.br/api/public/binario/98395dda-dae0-47b1-a700-171f05eed55c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-13;13945",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-13%3B13945&tipo_documento=maior-detalhe",
+  "sha256_dados": "aa4e8cc25ed8a0cd0f344c9d28dc2afff40d99376cd15356d21e81c62f0573c0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:30.186Z",
+  "sha256_fonte": "afdb39da3b4df50087dc8f16871a4213d794adc0972c9ef53d9a007a43f033da",
+  "sha256_markdown": "9f73b3b8e7907c08fdb1bffbb814d09115bc10d630e6967011b0dcb5c6febd4b"
+}

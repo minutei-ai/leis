@@ -1,0 +1,448 @@
+{
+  "ano_publicacao": 1905,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1905",
+    "ano-final": "31/12/1905",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:57.311Z",
+  "total": 71,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "bfc9afddeb311ee99a8e683ae5896fee8502f03e84306d50ebcfe085d325537b"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-868-de-9-de-dezembro-de-1905",
+      "titulo": "LEI Nº 868 de 9 de Dezembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-12-09-868",
+      "data": "1905-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-867-de-30-de-novembro-de-1905",
+      "titulo": "LEI Nº 867 de 30 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-30-867",
+      "data": "1905-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-866-de-30-de-novembro-de-1905",
+      "titulo": "LEI Nº 866 de 30 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-30-866",
+      "data": "1905-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-865-de-30-de-novembro-de-1905",
+      "titulo": "LEI Nº 865 de 30 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-30-865",
+      "data": "1905-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-864-de-30-de-novembro-de-1905",
+      "titulo": "LEI Nº 864 de 30 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-30-864",
+      "data": "1905-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-857-de-26-de-novembro-de-1905",
+      "titulo": "LEI Nº 857 de 26 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-26-857",
+      "data": "1905-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-863-de-17-de-novembro-de-1905",
+      "titulo": "LEI Nº 863 de 17 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-17-863",
+      "data": "1905-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-862-de-16-de-novembro-de-1905",
+      "titulo": "LEI Nº 862 de 16 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-16-862",
+      "data": "1905-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-861-de-6-de-novembro-de-1905",
+      "titulo": "LEI Nº 861 de 6 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-06-861",
+      "data": "1905-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-860-de-6-de-novembro-de-1905",
+      "titulo": "LEI Nº 860 de 6 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-06-860",
+      "data": "1905-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-859-de-6-de-novembro-de-1905",
+      "titulo": "LEI Nº 859 de 6 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-06-859",
+      "data": "1905-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-858-de-6-de-novembro-de-1905",
+      "titulo": "LEI Nº 858 de 6 de Novembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-11-06-858",
+      "data": "1905-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-856-de-26-de-outubro-de-1905",
+      "titulo": "LEI Nº 856 de 26 de Outubro de 1905",
+      "id": "br-municipal-3550308-lei-1905-10-26-856",
+      "data": "1905-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-855-de-19-de-outubro-de-1905",
+      "titulo": "LEI Nº 855 de 19 de Outubro de 1905",
+      "id": "br-municipal-3550308-lei-1905-10-19-855",
+      "data": "1905-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-854-de-19-de-outubro-de-1905",
+      "titulo": "LEI Nº 854 de 19 de Outubro de 1905",
+      "id": "br-municipal-3550308-lei-1905-10-19-854",
+      "data": "1905-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-853-de-19-de-outubro-de-1905",
+      "titulo": "LEI Nº 853 de 19 de Outubro de 1905",
+      "id": "br-municipal-3550308-lei-1905-10-19-853",
+      "data": "1905-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-852-de-10-de-outubro-de-1905",
+      "titulo": "LEI Nº 852 de 10 de Outubro de 1905",
+      "id": "br-municipal-3550308-lei-1905-10-10-852",
+      "data": "1905-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-851-de-5-de-outubro-de-1905",
+      "titulo": "LEI Nº 851 de 5 de Outubro de 1905",
+      "id": "br-municipal-3550308-lei-1905-10-05-851",
+      "data": "1905-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-850-de-30-de-setembro-de-1905",
+      "titulo": "LEI Nº 850 de 30 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-30-850",
+      "data": "1905-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-849-de-30-de-setembro-de-1905",
+      "titulo": "LEI Nº 849 de 30 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-30-849",
+      "data": "1905-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-848-de-30-de-setembro-de-1905",
+      "titulo": "LEI Nº 848 de 30 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-30-848",
+      "data": "1905-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-847-de-21-de-setembro-de-1905",
+      "titulo": "LEI Nº 847 de 21 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-21-847",
+      "data": "1905-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-846-de-21-de-setembro-de-1905",
+      "titulo": "LEI Nº 846 de 21 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-21-846",
+      "data": "1905-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-845-de-20-de-setembro-de-1905",
+      "titulo": "LEI Nº 845 de 20 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-20-845",
+      "data": "1905-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-844-de-20-de-setembro-de-1905",
+      "titulo": "LEI Nº 844 de 20 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-20-844",
+      "data": "1905-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-843-de-14-de-setembro-de-1905",
+      "titulo": "LEI Nº 843 de 14 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-14-843",
+      "data": "1905-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-842-de-11-de-setembro-de-1905",
+      "titulo": "LEI Nº 842 de 11 de Setembro de 1905",
+      "id": "br-municipal-3550308-lei-1905-09-11-842",
+      "data": "1905-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-841-de-23-de-agosto-de-1905",
+      "titulo": "LEI Nº 841 de 23 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-23-841",
+      "data": "1905-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-840-de-23-de-agosto-de-1905",
+      "titulo": "LEI Nº 840 de 23 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-23-840",
+      "data": "1905-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-839-de-23-de-agosto-de-1905",
+      "titulo": "LEI Nº 839 de 23 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-23-839",
+      "data": "1905-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-838-de-23-de-agosto-de-1905",
+      "titulo": "LEI Nº 838 de 23 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-23-838",
+      "data": "1905-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-837-de-23-de-agosto-de-1905",
+      "titulo": "LEI Nº 837 de 23 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-23-837",
+      "data": "1905-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-836-de-10-de-agosto-de-1905",
+      "titulo": "LEI Nº 836 de 10 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-10-836",
+      "data": "1905-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-835-de-10-de-agosto-de-1905",
+      "titulo": "LEI Nº 835 de 10 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-10-835",
+      "data": "1905-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-834-de-10-de-agosto-de-1905",
+      "titulo": "LEI Nº 834 de 10 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-10-834",
+      "data": "1905-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-833-de-10-de-agosto-de-1905",
+      "titulo": "LEI Nº 833 de 10 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-10-833",
+      "data": "1905-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-832-de-5-de-agosto-de-1905",
+      "titulo": "LEI Nº 832 de 5 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-05-832",
+      "data": "1905-08-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-831-de-5-de-agosto-de-1905",
+      "titulo": "LEI Nº 831 de 5 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-05-831",
+      "data": "1905-08-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-830-de-5-de-agosto-de-1905",
+      "titulo": "LEI Nº 830 de 5 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-05-830",
+      "data": "1905-08-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-829-de-5-de-agosto-de-1905",
+      "titulo": "LEI Nº 829 de 5 de Agosto de 1905",
+      "id": "br-municipal-3550308-lei-1905-08-05-829",
+      "data": "1905-08-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-828-de-20-de-julho-de-1905",
+      "titulo": "LEI Nº 828 de 20 de Julho de 1905",
+      "id": "br-municipal-3550308-lei-1905-07-20-828",
+      "data": "1905-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-827-de-20-de-julho-de-1905",
+      "titulo": "LEI Nº 827 de 20 de Julho de 1905",
+      "id": "br-municipal-3550308-lei-1905-07-20-827",
+      "data": "1905-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-826-de-28-de-junho-de-1905",
+      "titulo": "LEI Nº 826 de 28 de Junho de 1905",
+      "id": "br-municipal-3550308-lei-1905-06-28-826",
+      "data": "1905-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-825-de-14-de-junho-de-1905",
+      "titulo": "LEI Nº 825 de 14 de Junho de 1905",
+      "id": "br-municipal-3550308-lei-1905-06-14-825",
+      "data": "1905-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-824-de-30-de-maio-de-1905",
+      "titulo": "LEI Nº 824 de 30 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-30-824",
+      "data": "1905-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-823-de-30-de-maio-de-1905",
+      "titulo": "LEI Nº 823 de 30 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-30-823",
+      "data": "1905-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-822-de-22-de-maio-de-1905",
+      "titulo": "LEI Nº 822 de 22 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-22-822",
+      "data": "1905-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-821-de-22-de-maio-de-1905",
+      "titulo": "LEI Nº 821 de 22 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-22-821",
+      "data": "1905-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-820-de-22-de-maio-de-1905",
+      "titulo": "LEI Nº 820 de 22 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-22-820",
+      "data": "1905-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-819-de-8-de-maio-de-1905",
+      "titulo": "LEI Nº 819 de 8 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-08-819",
+      "data": "1905-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-818-de-4-de-maio-de-1905",
+      "titulo": "LEI Nº 818 de 4 de Maio de 1905",
+      "id": "br-municipal-3550308-lei-1905-05-04-818",
+      "data": "1905-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-817-de-26-de-abril-de-1905",
+      "titulo": "LEI Nº 817 de 26 de Abril de 1905",
+      "id": "br-municipal-3550308-lei-1905-04-26-817",
+      "data": "1905-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-816-de-26-de-abril-de-1905",
+      "titulo": "LEI Nº 816 de 26 de Abril de 1905",
+      "id": "br-municipal-3550308-lei-1905-04-26-816",
+      "data": "1905-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-815-de-15-de-abril-de-1905",
+      "titulo": "LEI Nº 815 de 15 de Abril de 1905",
+      "id": "br-municipal-3550308-lei-1905-04-15-815",
+      "data": "1905-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-814-de-27-de-marco-de-1905",
+      "titulo": "LEI Nº 814 de 27 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-27-814",
+      "data": "1905-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-813-de-27-de-marco-de-1905",
+      "titulo": "LEI Nº 813 de 27 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-27-813",
+      "data": "1905-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-812-de-14-de-marco-de-1905",
+      "titulo": "LEI Nº 812 de 14 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-14-812",
+      "data": "1905-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-811-de-14-de-marco-de-1905",
+      "titulo": "LEI Nº 811 de 14 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-14-811",
+      "data": "1905-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-810-de-14-de-marco-de-1905",
+      "titulo": "LEI Nº 810 de 14 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-14-810",
+      "data": "1905-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-809-de-11-de-marco-de-1905",
+      "titulo": "LEI Nº 809 de 11 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-11-809",
+      "data": "1905-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-808-de-11-de-marco-de-1905",
+      "titulo": "LEI Nº 808 de 11 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-11-808",
+      "data": "1905-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-807-de-3-de-marco-de-1905",
+      "titulo": "LEI Nº 807 de 3 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-03-807",
+      "data": "1905-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-806-de-3-de-marco-de-1905",
+      "titulo": "LEI Nº 806 de 3 de Março de 1905",
+      "id": "br-municipal-3550308-lei-1905-03-03-806",
+      "data": "1905-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-805-de-22-de-fevereiro-de-1905",
+      "titulo": "LEI Nº 805 de 22 de Fevereiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-02-22-805",
+      "data": "1905-02-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-804-de-11-de-fevereiro-de-1905",
+      "titulo": "LEI Nº 804 de 11 de Fevereiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-02-11-804",
+      "data": "1905-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-803-de-11-de-fevereiro-de-1905",
+      "titulo": "LEI Nº 803 de 11 de Fevereiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-02-11-803",
+      "data": "1905-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-802-de-11-de-fevereiro-de-1905",
+      "titulo": "LEI Nº 802 de 11 de Fevereiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-02-11-802",
+      "data": "1905-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-801-de-11-de-fevereiro-de-1905",
+      "titulo": "LEI Nº 801 de 11 de Fevereiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-02-11-801",
+      "data": "1905-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-800-de-7-de-fevereiro-de-1905",
+      "titulo": "LEI Nº 800 de 7 de Fevereiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-02-07-800",
+      "data": "1905-02-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-799-de-4-de-janeiro-de-1905",
+      "titulo": "LEI Nº 799 de 4 de Janeiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-01-04-799",
+      "data": "1905-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-798-de-4-de-janeiro-de-1905",
+      "titulo": "LEI Nº 798 de 4 de Janeiro de 1905",
+      "id": "br-municipal-3550308-lei-1905-01-04-798",
+      "data": "1905-01-04"
+    }
+  ],
+  "pendencias": []
+}

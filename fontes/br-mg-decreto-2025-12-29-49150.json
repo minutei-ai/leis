@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-29-49150",
+  "titulo": "DEC nº 49150, de 29/12/2025",
+  "data": "2025-12-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49150/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49150/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "02677ed374cec6d2e9b5e181d01a4c448c432f945412458e4b86f47a96056113",
+  "coletado_em": "2026-10-21T08:36:33.426Z",
+  "sha256_fonte": "194cfc1eeda085f62b61441f737c56aa6817687e4a551387932b6576449264a3",
+  "sha256_markdown": "3fc6e9a7c931bca89aaec05b7edc069f2b044768e2f6dc761f5f4214a78b047e"
+}

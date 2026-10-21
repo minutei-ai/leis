@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-02-20-49182",
+  "titulo": "DEC nº 49182, de 20/02/2026",
+  "data": "2026-02-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49182/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49182/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "de9ea886d60ab6ecdc2d5dba0ee1b68c72052bb570c40ca812419f9e640ef71c",
+  "coletado_em": "2026-10-21T08:25:38.933Z",
+  "sha256_fonte": "34b0c65a9b93bb8e93d7afc138717a8b62e7e99248027ded7abd6bef95889623",
+  "sha256_markdown": "19f23be67d9fccdbadc7a815a37ca59d796e893194cc465b35794a44259d97ba"
+}

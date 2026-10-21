@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-05-26030",
+  "titulo": "LEI nº 26030, de 05/08/2026",
+  "data": "2026-08-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26030/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26030/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d79dac0a9f6231b140801519772a8ba92cecf82c4c8ef1b0adff7def5f0e45b3",
+  "coletado_em": "2026-10-21T08:29:08.726Z",
+  "sha256_fonte": "2ea3ad7adc9604cd768022b9ff9c531b978bbdc35f650d2b8ebea2c3e69cc11f",
+  "sha256_markdown": "b053b7ec9c1e5537f1631857393b95b759b2f239158c1291cd15e7f0712ddfd9"
+}

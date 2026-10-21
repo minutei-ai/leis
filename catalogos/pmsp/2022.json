@@ -1,0 +1,925 @@
+{
+  "ano_publicacao": 2022,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2022",
+    "ano-final": "31/12/2022",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:45:39.399Z",
+  "total": 150,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "bb6090e16ea854c71001e5b4f612a71f6dd18549f4b0e480ddc1b02b946c5612"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "75a3cbe109f46d873d2221edb52bbf4aa7a61b9e63f7ae330de96bcdb8adab53"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17880-de-30-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.880 de 30 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-30-17880",
+      "data": "2022-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17879-de-30-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.879 de 30 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-30-17879",
+      "data": "2022-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17878-de-29-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.878 de 29 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-29-17878",
+      "data": "2022-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17877-de-29-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.877 de 29 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-29-17877",
+      "data": "2022-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17876-de-29-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.876 de 29 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-29-17876",
+      "data": "2022-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17875-de-29-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.875 de 29 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-29-17875",
+      "data": "2022-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17874-de-28-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.874 de 28 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-28-17874",
+      "data": "2022-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17873-de-28-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.873 de 28 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-28-17873",
+      "data": "2022-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17872-de-28-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.872 de 28 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-28-17872",
+      "data": "2022-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17871-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.871 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17871",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17870-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.870 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17870",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17869-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.869 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17869",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17868-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.868 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17868",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17867-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.867 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17867",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17866-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.866 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17866",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17865-de-27-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.865 de 27 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-27-17865",
+      "data": "2022-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17864-de-23-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.864 de 23 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-23-17864",
+      "data": "2022-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17863-de-21-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.863 de 21 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-21-17863",
+      "data": "2022-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17862-de-21-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.862 de 21 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-21-17862",
+      "data": "2022-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17861-de-21-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.861 de 21 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-21-17861",
+      "data": "2022-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17860-de-19-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.860 de 19 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-19-17860",
+      "data": "2022-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17859-de-16-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.859 de 16 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-16-17859",
+      "data": "2022-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17858-de-8-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.858 de 8 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-08-17858",
+      "data": "2022-12-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17857-de-8-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.857 de 8 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-08-17857",
+      "data": "2022-12-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17856-de-5-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.856 de 5 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-05-17856",
+      "data": "2022-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17855-de-2-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.855 de 2 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-02-17855",
+      "data": "2022-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17854-de-2-de-dezembro-de-2022",
+      "titulo": "LEI Nº 17.854 de 2 de Dezembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-12-02-17854",
+      "data": "2022-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17853-de-29-de-novembro-de-2022",
+      "titulo": "LEI Nº 17.853 de 29 de Novembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-11-29-17853",
+      "data": "2022-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17852-de-22-de-novembro-de-2022",
+      "titulo": "LEI Nº 17.852 de 22 de Novembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-11-22-17852",
+      "data": "2022-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17851-de-27-de-outubro-de-2022",
+      "titulo": "LEI Nº 17.851 de 27 de Outubro de 2022",
+      "id": "br-municipal-3550308-lei-2022-10-27-17851",
+      "data": "2022-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17850-de-19-de-outubro-de-2022",
+      "titulo": "LEI Nº 17.850 de 19 de Outubro de 2022",
+      "id": "br-municipal-3550308-lei-2022-10-19-17850",
+      "data": "2022-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17849-de-30-de-setembro-de-2022",
+      "titulo": "LEI Nº 17.849 de 30 de Setembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-09-30-17849",
+      "data": "2022-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17848-de-29-de-setembro-de-2022",
+      "titulo": "LEI Nº 17.848 de 29 de Setembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-09-29-17848",
+      "data": "2022-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17847-de-27-de-setembro-de-2022",
+      "titulo": "LEI Nº 17.847 de 27 de Setembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-09-27-17847",
+      "data": "2022-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17846-de-27-de-setembro-de-2022",
+      "titulo": "LEI Nº 17.846 de 27 de Setembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-09-27-17846",
+      "data": "2022-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17845-de-22-de-setembro-de-2022",
+      "titulo": "LEI Nº 17.845 de 22 de Setembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-09-22-17845",
+      "data": "2022-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17844-de-14-de-setembro-de-2022",
+      "titulo": "LEI Nº 17.844 de 14 de Setembro de 2022",
+      "id": "br-municipal-3550308-lei-2022-09-14-17844",
+      "data": "2022-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17843-de-23-de-agosto-de-2022",
+      "titulo": "LEI Nº 17.843 de 23 de Agosto de 2022",
+      "id": "br-municipal-3550308-lei-2022-08-23-17843",
+      "data": "2022-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17842-de-23-de-agosto-de-2022",
+      "titulo": "LEI Nº 17.842 de 23 de Agosto de 2022",
+      "id": "br-municipal-3550308-lei-2022-08-23-17842",
+      "data": "2022-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17841-de-19-de-agosto-de-2022",
+      "titulo": "LEI Nº 17.841 de 19 de Agosto de 2022",
+      "id": "br-municipal-3550308-lei-2022-08-19-17841",
+      "data": "2022-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17840-de-27-de-julho-de-2022",
+      "titulo": "LEI Nº 17.840 de 27 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-27-17840",
+      "data": "2022-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17839-de-20-de-julho-de-2022",
+      "titulo": "LEI Nº 17.839 de 20 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-20-17839",
+      "data": "2022-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17838-de-18-de-julho-de-2022",
+      "titulo": "LEI Nº 17.838 de 18 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-18-17838",
+      "data": "2022-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17837-de-18-de-julho-de-2022",
+      "titulo": "LEI Nº 17.837 de 18 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-18-17837",
+      "data": "2022-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17836-de-12-de-julho-de-2022",
+      "titulo": "LEI Nº 17.836 de 12 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-12-17836",
+      "data": "2022-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17835-de-11-de-julho-de-2022",
+      "titulo": "LEI Nº 17.835 de 11 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-11-17835",
+      "data": "2022-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17834-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.834 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17834",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17833-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.833 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17833",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17832-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.832 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17832",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17831-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.831 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17831",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17830-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.830 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17830",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17829-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.829 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17829",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17828-de-8-de-julho-de-2022",
+      "titulo": "LEI Nº 17.828 de 8 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-08-17828",
+      "data": "2022-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17827-de-7-de-julho-de-2022",
+      "titulo": "LEI Nº 17.827 de 7 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-07-17827",
+      "data": "2022-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17826-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.826 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17826",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17825-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.825 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17825",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17824-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.824 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17824",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17823-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.823 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17823",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17822-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.822 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17822",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17821-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.821 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17821",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17820-de-4-de-julho-de-2022",
+      "titulo": "LEI Nº 17.820 de 4 de Julho de 2022",
+      "id": "br-municipal-3550308-lei-2022-07-04-17820",
+      "data": "2022-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17819-de-29-de-junho-de-2022",
+      "titulo": "LEI Nº 17.819 de 29 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-29-17819",
+      "data": "2022-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17818-de-22-de-junho-de-2022",
+      "titulo": "LEI Nº 17.818 de 22 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-22-17818",
+      "data": "2022-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17817-de-22-de-junho-de-2022",
+      "titulo": "LEI Nº 17.817 de 22 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-22-17817",
+      "data": "2022-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17816-de-16-de-junho-de-2022",
+      "titulo": "LEI Nº 17.816 de 16 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-16-17816",
+      "data": "2022-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17815-de-14-de-junho-de-2022",
+      "titulo": "LEI Nº 17.815 de 14 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-14-17815",
+      "data": "2022-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17814-de-13-de-junho-de-2022",
+      "titulo": "LEI Nº 17.814 de 13 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-13-17814",
+      "data": "2022-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17813-de-10-de-junho-de-2022",
+      "titulo": "LEI Nº 17.813 de 10 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-10-17813",
+      "data": "2022-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17812-de-9-de-junho-de-2022",
+      "titulo": "LEI Nº 17.812 de 9 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-09-17812",
+      "data": "2022-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17811-de-3-de-junho-de-2022",
+      "titulo": "LEI Nº 17.811 de 3 de Junho de 2022",
+      "id": "br-municipal-3550308-lei-2022-06-03-17811",
+      "data": "2022-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17810-de-17-de-maio-de-2022",
+      "titulo": "LEI Nº 17.810 de 17 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-17-17810",
+      "data": "2022-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17809-de-12-de-maio-de-2022",
+      "titulo": "LEI Nº 17.809 de 12 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-12-17809",
+      "data": "2022-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17808-de-9-de-maio-de-2022",
+      "titulo": "LEI Nº 17.808 de 9 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-09-17808",
+      "data": "2022-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17807-de-9-de-maio-de-2022",
+      "titulo": "LEI Nº 17.807 de 9 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-09-17807",
+      "data": "2022-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17806-de-9-de-maio-de-2022",
+      "titulo": "LEI Nº 17.806 de 9 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-09-17806",
+      "data": "2022-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17805-de-9-de-maio-de-2022",
+      "titulo": "LEI Nº 17.805 de 9 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-09-17805",
+      "data": "2022-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17804-de-9-de-maio-de-2022",
+      "titulo": "LEI Nº 17.804 de 9 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-09-17804",
+      "data": "2022-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17803-de-9-de-maio-de-2022",
+      "titulo": "LEI Nº 17.803 de 9 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-09-17803",
+      "data": "2022-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17802-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.802 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17802",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17801-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.801 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17801",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17800-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.800 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17800",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17799-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.799 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17799",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17798-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.798 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17798",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17797-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.797 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17797",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17796-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.796 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17796",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17795-de-3-de-maio-de-2022",
+      "titulo": "LEI Nº 17.795 de 3 de Maio de 2022",
+      "id": "br-municipal-3550308-lei-2022-05-03-17795",
+      "data": "2022-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17794-de-27-de-abril-de-2022",
+      "titulo": "LEI Nº 17.794 de 27 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-27-17794",
+      "data": "2022-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17793-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.793 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17793",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17792-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.792 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17792",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17791-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.791 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17791",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17790-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.790 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17790",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17789-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.789 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17789",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17788-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.788 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17788",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17787-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.787 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17787",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17786-de-26-de-abril-de-2022",
+      "titulo": "LEI Nº 17.786 de 26 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-26-17786",
+      "data": "2022-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17785-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.785 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17785",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17784-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.784 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17784",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17783-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.783 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17783",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17782-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.782 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17782",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-177871-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.781 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17781",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17780-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.780 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17780",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17779-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.779 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17779",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17778-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.778 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17778",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17777-de-19-de-abril-de-2022",
+      "titulo": "LEI Nº 17.777 de 19 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-19-17777",
+      "data": "2022-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17776-de-13-de-abril-de-2022",
+      "titulo": "LEI Nº 17.776 de 13 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-13-17776",
+      "data": "2022-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17775-de-8-de-abril-de-2022",
+      "titulo": "LEI Nº 17.775 de 8 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-08-17775",
+      "data": "2022-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17774-de-8-de-abril-de-2022",
+      "titulo": "LEI Nº 17.774 de 8 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-08-17774",
+      "data": "2022-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17773-de-8-de-abril-de-2022",
+      "titulo": "LEI Nº 17.773 de 8 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-08-17773",
+      "data": "2022-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17772-de-8-de-abril-de-2022",
+      "titulo": "LEI Nº 17.772 de 8 de Abril de 2022",
+      "id": "br-municipal-3550308-lei-2022-04-08-17772",
+      "data": "2022-04-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17771-de-28-de-marco-de-2022",
+      "titulo": "LEI Nº 17.771 de 28 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-28-17771",
+      "data": "2022-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17770-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.770 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17770",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17769-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.769 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17769",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17768-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.768 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17768",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17767-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.767 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17767",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17766-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.766 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17766",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17765-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.765 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17765",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17764-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.764 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17764",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17763-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.763 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17763",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17762-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.762 de 23 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-23-17762",
+      "data": "2022-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17760-de-22-de-marco-de-2022",
+      "titulo": "LEI Nº 17.760 de 22 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-22-17760",
+      "data": "2022-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17759-de-15-de-marco-de-2022",
+      "titulo": "LEI Nº 17.759 de 15 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-15-17759",
+      "data": "2022-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17758-de-4-de-marco-de-2022",
+      "titulo": "LEI Nº 17.758 de 4 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-04-17758",
+      "data": "2022-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17757-de-4-de-marco-de-2022",
+      "titulo": "LEI Nº 17.757 de 4 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-04-17757",
+      "data": "2022-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17756-de-4-de-marco-de-2022",
+      "titulo": "LEI Nº 17.756 de 4 de Março de 2022",
+      "id": "br-municipal-3550308-lei-2022-03-04-17756",
+      "data": "2022-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17755-de-24-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.755 de 24 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-24-17755",
+      "data": "2022-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17754-de-24-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.754 de 24 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-24-17754",
+      "data": "2022-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17753-de-24-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.753 de 24 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-24-17753",
+      "data": "2022-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17752-de-24-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.752 de 24 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-24-17752",
+      "data": "2022-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17751-de-24-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.751 de 24 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-24-17751",
+      "data": "2022-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17750-de-24-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.750 de 24 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-24-17750",
+      "data": "2022-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17749-de-17-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.749 de 17 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-17-17749",
+      "data": "2022-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17748-de-14-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.748 de 14 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-14-17748",
+      "data": "2022-01-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17747-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.747 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17747",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17746-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.746 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17746",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17745-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.745 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17745",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17744-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.744 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17744",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17743-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.743 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17743",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17742-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.742 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17742",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17741-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.741 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17741",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17740-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.740 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17740",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17739-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.739 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17739",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17738-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.738 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17738",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17737-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.737 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17737",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17736-de-12-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.736 de 12 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-12-17736",
+      "data": "2022-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17735-de-11-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.735 de 11 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-11-17735",
+      "data": "2022-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17734-de-11-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.734 de 11 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-11-17734",
+      "data": "2022-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17733-de-11-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.733 de 11 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-11-17733",
+      "data": "2022-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17732-de-11-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.732 de 11 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-11-17732",
+      "data": "2022-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17731-de-6-de-janeiro-de-2022",
+      "titulo": "LEI Nº 17.731 de 6 de Janeiro de 2022",
+      "id": "br-municipal-3550308-lei-2022-01-06-17731",
+      "data": "2022-01-06"
+    }
+  ],
+  "pendencias": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-legislativo-17761-de-23-de-marco-de-2022",
+      "titulo": "LEI Nº 17.761 de 23 de Março de 2022"
+    }
+  ]
+}

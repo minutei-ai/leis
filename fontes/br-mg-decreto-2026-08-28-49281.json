@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-08-28-49281",
+  "titulo": "DEC nº 49281, de 28/08/2026",
+  "data": "2026-08-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49281/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49281/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7461c4ec89b8d5840fbe93678a1eb64e8ef435c089df04b8dece6ef09dbc3481",
+  "coletado_em": "2026-10-21T08:29:26.402Z",
+  "sha256_fonte": "1abccf35709100995a592815764a282e85d9282b58bdf941dfdf4aeccfb7db66",
+  "sha256_markdown": "19b33dbf2a5caf6f95761492910ddc171b7c46be778f9195064c6a6af1de7c20"
+}

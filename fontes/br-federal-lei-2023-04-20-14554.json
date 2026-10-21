@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-04-20-14554",
+  "titulo": "Lei nº 14.554 de 20/04/2023",
+  "data": "2023-04-20",
+  "fonte": "https://normas.leg.br/api/public/binario/a1cd33bd-04d0-4e73-8904-11c0301ab5b3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-04-20;14554",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-04-20%3B14554&tipo_documento=maior-detalhe",
+  "sha256_dados": "cee46ee4760cb2093dd967eb58cdf89126d9b94611c7abbd54e5fb7485c066a1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:28.119Z",
+  "sha256_fonte": "97c95c955a51fba6129d624169e2388812afa266f5269421c21087e8cc27cf0e",
+  "sha256_markdown": "a07326917965a8f8bad78d58d815db11b37ff049fd392b38d6c2f612fe0ecc9a"
+}

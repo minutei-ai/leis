@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-10-25-14230",
+  "titulo": "Lei nº 14.230 de 25/10/2021",
+  "data": "2021-10-25",
+  "fonte": "https://normas.leg.br/api/public/binario/88a6b056-c801-47d9-98e0-c2dfb1c4d7bb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-10-25;14230",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-10-25%3B14230&tipo_documento=maior-detalhe",
+  "sha256_dados": "5e518712987d1947c78a96fc20fe61b5e44d0b582b4c9015aab5e1736fafb432",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:24.931Z",
+  "sha256_fonte": "dfc22a3b01661c0b50ac7a2502ba55b1a0600b990822216fbab0533715319642",
+  "sha256_markdown": "fc53b6ad2564b8702e83fe2d786548176fc35e61eee19adfa6a6276f28f88715"
+}

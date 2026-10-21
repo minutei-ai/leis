@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-28-14663",
+  "titulo": "Lei nº 14.663 de 28/08/2023",
+  "data": "2023-08-28",
+  "fonte": "https://normas.leg.br/api/public/binario/a8e5bc9a-a3c1-4a80-85cd-ae088c84ee9a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-28;14663",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-28%3B14663&tipo_documento=maior-detalhe",
+  "sha256_dados": "d07d5ad49203af83f14f018d832c98aa05870c89d9af7c7ce8c4ab544b969d02",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:05.558Z",
+  "sha256_fonte": "7682e7f7179945db8d4cfadcdd324a1d86b4af690b64f97acf0b881bbcba1d62",
+  "sha256_markdown": "92564242471a4906605114b79c97dd26e9f45d222965fe4ed3c881ac2d936de0"
+}

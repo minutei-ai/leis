@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-02-25936",
+  "titulo": "LEI nº 25936, de 02/07/2026",
+  "data": "2026-07-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25936/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25936/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2abbd908813039e5f3335806f7d2a96d7c8320bf7314a14835773c178c72dc60",
+  "coletado_em": "2026-10-21T08:28:04.419Z",
+  "sha256_fonte": "69852daedf6e7cd84cad0a45a4f8b4b54eceb071c7b87fdd65d163544c530e75",
+  "sha256_markdown": "d575fdbd54beeecc555b028882f1adb6d57c6c429502db81b4ce671034033b80"
+}

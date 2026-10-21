@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-06-25-13850",
+  "titulo": "Lei nº 13.850 de 25/06/2019",
+  "data": "2019-06-25",
+  "fonte": "https://normas.leg.br/api/public/binario/998f3d56-ab6e-4faf-a7fa-dd7ecd31e74c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-06-25;13850",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-06-25%3B13850&tipo_documento=maior-detalhe",
+  "sha256_dados": "baae6abbec603dbd4dc79839744f57e63ebbee0443e0d38796cb90b519b15ca2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:46:40.313Z",
+  "sha256_fonte": "b55968e9eba8622ac3d96a39d71ae5edfdff010348c0a4bdafae620bdc4d0951",
+  "sha256_markdown": "b1c4dfb90c599c8f022bf52fca6e5291cf37d97d74047dce54566ede2e3d0b9f"
+}

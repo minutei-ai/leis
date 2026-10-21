@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-07-28-14030",
+  "titulo": "Lei nº 14.030 de 28/07/2020",
+  "data": "2020-07-28",
+  "fonte": "https://normas.leg.br/api/public/binario/fdf5c191-e22c-45f0-b6ed-2123a0022ff3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-07-28;14030",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-07-28%3B14030&tipo_documento=maior-detalhe",
+  "sha256_dados": "f7e68369221248737cafb691a22079bc2a032860eb8b5372df9f8afb199da6fc",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:43.148Z",
+  "sha256_fonte": "e01ed1ca2ac72b916d9e7d4b1962cf28b4f49b695b4698ce0f8b4d5dac082236",
+  "sha256_markdown": "b830c9280e30f775b3e09111a9a579c70a251f0e254398dd207ed42236e3410b"
+}

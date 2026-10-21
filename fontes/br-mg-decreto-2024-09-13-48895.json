@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-09-13-48895",
+  "titulo": "DEC nº 48895, de 13/09/2024",
+  "data": "2024-09-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48895/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48895/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2691b893fffe70dd1283869083946b4cd3684dfe0d650f653e42fd96ea484078",
+  "coletado_em": "2026-10-21T08:41:35.337Z",
+  "sha256_fonte": "15d731f33738d2202762a4431eac370c23baf55c12bd81f79b3e9ee8a6a3721c",
+  "sha256_markdown": "41c571e5a67bafb5bf40e10574c0f872f6a290c6d197ada2b7ab8b3161da6126"
+}

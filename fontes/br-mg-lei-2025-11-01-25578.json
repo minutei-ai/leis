@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-11-01-25578",
+  "titulo": "LEI nº 25578, de 01/11/2025",
+  "data": "2025-11-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25578/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25578/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "dd3ceed21e06402c3ae4f6478bccc39ad30170bf727131535e5f14bd972d843a",
+  "coletado_em": "2026-10-21T08:35:14.042Z",
+  "sha256_fonte": "590e5d8e37361ea566f2ad6536959f986b98ebb4563fa77742d1ff6f6488fe5a",
+  "sha256_markdown": "a4701e19b5defce1991a3376b47e1f44d6f928236f4d5c565ee6a53f4c4c15b2"
+}

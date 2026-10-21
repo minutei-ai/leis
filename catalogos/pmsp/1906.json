@@ -1,0 +1,616 @@
+{
+  "ano_publicacao": 1906,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1906",
+    "ano-final": "31/12/1906",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:56.603Z",
+  "total": 99,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "d375e88a43103cf0bf16de9b4c0d5c498f43e3ac9cb470742c75c9696617e826"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-967-de-21-de-dezembro-de-1906",
+      "titulo": "LEI Nº 967 de 21 de Dezembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-12-21-967",
+      "data": "1906-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-966-de-15-de-dezembro-de-1906",
+      "titulo": "LEI Nº 966 de 15 de Dezembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-12-15-966",
+      "data": "1906-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-965-de-10-de-dezembro-de-1906",
+      "titulo": "LEI Nº 965 de 10 de Dezembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-12-10-965",
+      "data": "1906-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-964-de-10-de-dezembro-de-1906",
+      "titulo": "LEI Nº 964 de 10 de Dezembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-12-10-964",
+      "data": "1906-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-963-de-29-de-novembro-de-1906",
+      "titulo": "LEI Nº 963 de 29 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-29-963",
+      "data": "1906-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-962-de-22-de-novembro-de-1906",
+      "titulo": "LEI Nº 962 de 22 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-22-962",
+      "data": "1906-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-961-de-19-de-novembro-de-1906",
+      "titulo": "LEI Nº 961 de 19 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-19-961",
+      "data": "1906-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-960-de-19-de-novembro-de-1906",
+      "titulo": "LEI Nº 960 de 19 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-19-960",
+      "data": "1906-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-959-de-19-de-novembro-de-1906",
+      "titulo": "LEI Nº 959 de 19 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-19-959",
+      "data": "1906-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-958-de-19-de-novembro-de-1906",
+      "titulo": "LEI Nº 958 de 19 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-19-958",
+      "data": "1906-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-957-de-19-de-novembro-de-1906",
+      "titulo": "LEI Nº 957 de 19 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-19-957",
+      "data": "1906-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-956-de-16-de-novembro-de-1906",
+      "titulo": "LEI Nº 956 de 16 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-16-956",
+      "data": "1906-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-955-de-13-de-novembro-de-1906",
+      "titulo": "LEI Nº 955 de 13 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-13-955",
+      "data": "1906-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-954-de-5-de-novembro-de-1906",
+      "titulo": "LEI Nº 954 de 5 de Novembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-11-05-954",
+      "data": "1906-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-953-de-31-de-outubro-de-1906",
+      "titulo": "LEI Nº 953 de 31 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-31-953",
+      "data": "1906-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-952-de-31-de-outubro-de-1906",
+      "titulo": "LEI Nº 952 de 31 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-31-952",
+      "data": "1906-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-951-de-25-de-outubro-de-1906",
+      "titulo": "LEI Nº 951 de 25 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-25-951",
+      "data": "1906-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-950-de-25-de-outubro-de-1906",
+      "titulo": "LEI Nº 950 de 25 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-25-950",
+      "data": "1906-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-949-de-25-de-outubro-de-1906",
+      "titulo": "LEI Nº 949 de 25 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-25-949",
+      "data": "1906-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-948-de-25-de-outubro-de-1906",
+      "titulo": "LEI Nº 948 de 25 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-25-948",
+      "data": "1906-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-947-de-25-de-outubro-de-1906",
+      "titulo": "LEI Nº 947 de 25 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-25-947",
+      "data": "1906-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-946-de-11-de-outubro-de-1906",
+      "titulo": "LEI Nº 946 de 11 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-11-946",
+      "data": "1906-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-945-de-5-de-outubro-de-1906",
+      "titulo": "LEI Nº 945 de 5 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-05-945",
+      "data": "1906-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-944-de-5-de-outubro-de-1906",
+      "titulo": "LEI Nº 944 de 5 de Outubro de 1906",
+      "id": "br-municipal-3550308-lei-1906-10-05-944",
+      "data": "1906-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-943-de-26-de-setembro-de-1906",
+      "titulo": "LEI Nº 943 de 26 de Setembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-09-26-943",
+      "data": "1906-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-942-de-26-de-setembro-de-1906",
+      "titulo": "LEI Nº 942 de 26 de Setembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-09-26-942",
+      "data": "1906-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-941-de-26-de-setembro-de-1906",
+      "titulo": "LEI Nº 941 de 26 de Setembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-09-26-941",
+      "data": "1906-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-940-de-15-de-setembro-de-1906",
+      "titulo": "LEI Nº 940 de 15 de Setembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-09-15-940",
+      "data": "1906-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-939-de-15-de-setembro-de-1906",
+      "titulo": "LEI Nº 939 de 15 de Setembro de 1906",
+      "id": "br-municipal-3550308-lei-1906-09-15-939",
+      "data": "1906-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-938-de-28-de-agosto-de-1906",
+      "titulo": "LEI Nº 938 de 28 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-28-938",
+      "data": "1906-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-937-de-28-de-agosto-de-1906",
+      "titulo": "LEI Nº 937 de 28 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-28-937",
+      "data": "1906-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-936-de-28-de-agosto-de-1906",
+      "titulo": "LEI Nº 936 de 28 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-28-936",
+      "data": "1906-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-935-de-28-de-agosto-de-1906",
+      "titulo": "LEI Nº 935 de 28 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-28-935",
+      "data": "1906-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-934-de-28-de-agosto-de-1906",
+      "titulo": "LEI Nº 934 de 28 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-28-934",
+      "data": "1906-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-933-de-14-de-agosto-de-1906",
+      "titulo": "LEI Nº 933 de 14 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-14-933",
+      "data": "1906-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-932-de-14-de-agosto-de-1906",
+      "titulo": "LEI Nº 932 de 14 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-14-932",
+      "data": "1906-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-931-de-14-de-agosto-de-1906",
+      "titulo": "LEI Nº 931 de 14 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-14-931",
+      "data": "1906-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-930-de-14-de-agosto-de-1906",
+      "titulo": "LEI Nº 930 de 14 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-14-930",
+      "data": "1906-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-929-de-13-de-agosto-de-1906",
+      "titulo": "LEI Nº 929 de 13 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-13-929",
+      "data": "1906-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-928-de-13-de-agosto-de-1906",
+      "titulo": "LEI Nº 928 de 13 de Agosto de 1906",
+      "id": "br-municipal-3550308-lei-1906-08-13-928",
+      "data": "1906-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-927-de-21-de-julho-de-1906",
+      "titulo": "LEI Nº 927 de 21 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-21-927",
+      "data": "1906-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-926-de-21-de-julho-de-1906",
+      "titulo": "LEI Nº 926 de 21 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-21-926",
+      "data": "1906-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-925-de-21-de-julho-de-1906",
+      "titulo": "LEI Nº 925 de 21 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-21-925",
+      "data": "1906-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-924-de-21-de-julho-de-1906",
+      "titulo": "LEI Nº 924 de 21 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-21-924",
+      "data": "1906-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-923-de-12-de-julho-de-1906",
+      "titulo": "LEI Nº 923 de 12 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-12-923",
+      "data": "1906-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-922-de-7-de-julho-de-1906",
+      "titulo": "LEI Nº 922 de 7 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-07-922",
+      "data": "1906-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-921-de-7-de-julho-de-1906",
+      "titulo": "LEI Nº 921 de 7 de Julho de 1906",
+      "id": "br-municipal-3550308-lei-1906-07-07-921",
+      "data": "1906-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-920-de-27-de-junho-de-1906",
+      "titulo": "LEI Nº 920 de 27 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-27-920",
+      "data": "1906-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-919-de-21-de-junho-de-1906",
+      "titulo": "LEI Nº 919 de 21 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-21-919",
+      "data": "1906-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-918-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 918 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-918",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-917-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 917 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-917",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-916-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 916 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-916",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-915-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 915 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-915",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-914-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 914 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-914",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-913-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 913 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-913",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-912-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 912 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-912",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-911-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 911 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-911",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-910-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 910 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-910",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-909-de-9-de-junho-de-1906",
+      "titulo": "LEI Nº 909 de 9 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-09-909",
+      "data": "1906-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-908-de-8-de-junho-de-1906",
+      "titulo": "LEI Nº 908 de 8 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-08-908",
+      "data": "1906-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-907-de-8-de-junho-de-1906",
+      "titulo": "LEI Nº 907 de 8 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-08-907",
+      "data": "1906-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-906-de-4-de-junho-de-1906",
+      "titulo": "LEI Nº 906 de 4 de Junho de 1906",
+      "id": "br-municipal-3550308-lei-1906-06-04-906",
+      "data": "1906-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-905-de-23-de-maio-de-1906",
+      "titulo": "LEI Nº 905 de 23 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-23-905",
+      "data": "1906-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-904-de-23-de-maio-de-1906",
+      "titulo": "LEI Nº 904 de 23 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-23-904",
+      "data": "1906-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-903-de-23-de-maio-de-1906",
+      "titulo": "LEI Nº 903 de 23 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-23-903",
+      "data": "1906-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-902-de-12-de-maio-de-1906",
+      "titulo": "LEI Nº 902 de 12 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-12-902",
+      "data": "1906-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-901-de-12-de-maio-de-1906",
+      "titulo": "LEI Nº 901 de 12 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-12-901",
+      "data": "1906-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-900-de-12-de-maio-de-1906",
+      "titulo": "LEI Nº 900 de 12 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-12-900",
+      "data": "1906-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-899-de-12-de-maio-de-1906",
+      "titulo": "LEI Nº 899 de 12 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-12-899",
+      "data": "1906-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-898-de-12-de-maio-de-1906",
+      "titulo": "LEI Nº 898 de 12 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-12-898",
+      "data": "1906-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-897-de-7-de-maio-de-1906",
+      "titulo": "LEI Nº 897 de 7 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-07-897",
+      "data": "1906-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-896-de-7-de-maio-de-1906",
+      "titulo": "LEI Nº 896 de 7 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-07-896",
+      "data": "1906-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-895-de-7-de-maio-de-1906",
+      "titulo": "LEI Nº 895 de 7 de Maio de 1906",
+      "id": "br-municipal-3550308-lei-1906-05-07-895",
+      "data": "1906-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-894-de-20-de-abril-de-1906",
+      "titulo": "LEI Nº 894 de 20 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-20-894",
+      "data": "1906-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-893-de-20-de-abril-de-1906",
+      "titulo": "LEI Nº 893 de 20 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-20-893",
+      "data": "1906-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-892-de-20-de-abril-de-1906",
+      "titulo": "LEI Nº 892 de 20 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-20-892",
+      "data": "1906-04-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-891-de-11-de-abril-de-1906",
+      "titulo": "LEI Nº 891 de 11 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-11-891",
+      "data": "1906-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-890-de-11-de-abril-de-1906",
+      "titulo": "LEI Nº 890 de 11 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-11-890",
+      "data": "1906-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-889-de-11-de-abril-de-1906",
+      "titulo": "LEI Nº 889 de 11 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-11-889",
+      "data": "1906-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-888-de-11-de-abril-de-1906",
+      "titulo": "LEI Nº 888 de 11 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-11-888",
+      "data": "1906-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-887-de-6-de-abril-de-1906",
+      "titulo": "LEI Nº 887 de 6 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-06-887",
+      "data": "1906-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-886-de-6-de-abril-de-1906",
+      "titulo": "LEI Nº 886 de 6 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-06-886",
+      "data": "1906-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-885-de-2-de-abril-de-1906",
+      "titulo": "LEI Nº 885 de 2 de Abril de 1906",
+      "id": "br-municipal-3550308-lei-1906-04-02-885",
+      "data": "1906-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-884-de-24-de-marco-de-1906",
+      "titulo": "LEI Nº 884 de 24 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-24-884",
+      "data": "1906-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-883-de-24-de-marco-de-1906",
+      "titulo": "LEI Nº 883 de 24 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-24-883",
+      "data": "1906-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-882-de-15-de-marco-de-1906",
+      "titulo": "LEI Nº 882 de 15 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-15-882",
+      "data": "1906-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-881-de-15-de-marco-de-1906",
+      "titulo": "LEI Nº 881 de 15 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-15-881",
+      "data": "1906-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-880-de-9-de-marco-de-1906",
+      "titulo": "LEI Nº 880 de 9 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-09-880",
+      "data": "1906-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-879-de-5-de-marco-de-1906",
+      "titulo": "LEI Nº 879 de 5 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-05-879",
+      "data": "1906-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-878-de-5-de-marco-de-1906",
+      "titulo": "LEI Nº 878 de 5 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-05-878",
+      "data": "1906-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-877-de-5-de-marco-de-1906",
+      "titulo": "LEI Nº 877 de 5 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-05-877",
+      "data": "1906-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-876-de-5-de-marco-de-1906",
+      "titulo": "LEI Nº 876 de 5 de Março de 1906",
+      "id": "br-municipal-3550308-lei-1906-03-05-876",
+      "data": "1906-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-875-de-26-de-fevereiro-de-1906",
+      "titulo": "LEI Nº 875 de 26 de Fevereiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-02-26-875",
+      "data": "1906-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-874-de-14-de-fevereiro-de-1906",
+      "titulo": "LEI Nº 874 de 14 de Fevereiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-02-14-874",
+      "data": "1906-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-873-de-14-de-fevereiro-de-1906",
+      "titulo": "LEI Nº 873 de 14 de Fevereiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-02-14-873",
+      "data": "1906-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-872-de-14-de-fevereiro-de-1906",
+      "titulo": "LEI Nº 872 de 14 de Fevereiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-02-14-872",
+      "data": "1906-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-871-de-14-de-fevereiro-de-1906",
+      "titulo": "LEI Nº 871 de 14 de Fevereiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-02-14-871",
+      "data": "1906-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-870-de-29-de-janeiro-de-1906",
+      "titulo": "LEI Nº 870 de 29 de Janeiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-01-29-870",
+      "data": "1906-01-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-869-de-2-de-janeiro-de-1906",
+      "titulo": "LEI Nº 869 de 2 de Janeiro de 1906",
+      "id": "br-municipal-3550308-lei-1906-01-02-869",
+      "data": "1906-01-02"
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,674 @@
+{
+  "ano_publicacao": 1937,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1937",
+    "ano-final": "31/12/1937",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:24.751Z",
+  "total": 108,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "a6e9f7e800481af34d119990abc5719f2f99bcc441bbaf1e9e280376ef9a26c6"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "3232a30c3557eb1dba15984342cc6658a8d3d9c4ddc8c07b2a6c2fc0a4bd423c"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3664-de-10-de-novembro-de-1937",
+      "titulo": "LEI Nº 3.664 de 10 de Novembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-11-10-3664",
+      "data": "1937-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3663-de-10-de-novembro-de-1937",
+      "titulo": "LEI Nº 3.663 de 10 de Novembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-11-10-3663",
+      "data": "1937-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3660-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.660 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3660",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3659-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.659 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3659",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3658-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.658 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3658",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3657-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.657 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3657",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3656-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.656 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3656",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3655-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.655 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3655",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3654-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.654 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3654",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3653-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.653 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3653",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3652-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.652 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3652",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3651-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.651 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3651",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3650-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.650 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3650",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3649-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.649 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3649",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3648-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.648 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3648",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3647-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.647 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3647",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3662-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.662 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3662",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3661-de-30-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.661 de 30 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-30-3661",
+      "data": "1937-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3646-de-8-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.646 de 8 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-08-3646",
+      "data": "1937-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3645-de-8-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.645 de 8 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-08-3645",
+      "data": "1937-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3644-de-8-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.644 de 8 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-08-3644",
+      "data": "1937-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3643-de-8-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.643 de 8 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-08-3643",
+      "data": "1937-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3642-de-1-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.642 de 1 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-01-3642",
+      "data": "1937-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3641-de-1-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.641 de 1 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-01-3641",
+      "data": "1937-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3640-de-1-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.640 de 1 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-01-3640",
+      "data": "1937-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3639-de-1-de-outubro-de-1937",
+      "titulo": "LEI Nº 3.639 de 1 de Outubro de 1937",
+      "id": "br-municipal-3550308-lei-1937-10-01-3639",
+      "data": "1937-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3638-de-22-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.638 de 22 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-22-3638",
+      "data": "1937-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3637-de-22-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.637 de 22 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-22-3637",
+      "data": "1937-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3636-de-22-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.636 de 22 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-22-3636",
+      "data": "1937-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3635-de-6-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.635 de 6 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-06-3635",
+      "data": "1937-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3634-de-6-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.634 de 6 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-06-3634",
+      "data": "1937-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3633-de-1-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.633 de 1 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-01-3633",
+      "data": "1937-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3632-de-1-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.632 de 1 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-01-3632",
+      "data": "1937-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3631-de-1-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.631 de 1 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-01-3631",
+      "data": "1937-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3630-de-1-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.630 de 1 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-01-3630",
+      "data": "1937-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3629-de-1-de-setembro-de-1937",
+      "titulo": "LEI Nº 3.629 de 1 de Setembro de 1937",
+      "id": "br-municipal-3550308-lei-1937-09-01-3629",
+      "data": "1937-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3628-de-31-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.628 de 31 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-31-3628",
+      "data": "1937-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3627-de-10-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.627 de 10 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-10-3627",
+      "data": "1937-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3626-de-10-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.626 de 10 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-10-3626",
+      "data": "1937-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3625-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.625 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3625",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3624-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.624 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3624",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3623-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.623 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3623",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3622-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.622 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3622",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3621-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.621 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3621",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3620-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.620 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3620",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3619-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.619 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3619",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3618-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.618 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3618",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3617-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.617 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3617",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3616-de-4-de-agosto-de-1937",
+      "titulo": "LEI Nº 3.616 de 4 de Agosto de 1937",
+      "id": "br-municipal-3550308-lei-1937-08-04-3616",
+      "data": "1937-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3615-de-28-de-julho-de-1937",
+      "titulo": "LEI Nº 3.615 de 28 de Julho de 1937",
+      "id": "br-municipal-3550308-lei-1937-07-28-3615",
+      "data": "1937-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3614-de-28-de-julho-de-1937",
+      "titulo": "LEI Nº 3.614 de 28 de Julho de 1937",
+      "id": "br-municipal-3550308-lei-1937-07-28-3614",
+      "data": "1937-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3613-de-28-de-julho-de-1937",
+      "titulo": "LEI Nº 3.613 de 28 de Julho de 1937",
+      "id": "br-municipal-3550308-lei-1937-07-28-3613",
+      "data": "1937-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3612-de-28-de-julho-de-1937",
+      "titulo": "LEI Nº 3.612 de 28 de Julho de 1937",
+      "id": "br-municipal-3550308-lei-1937-07-28-3612",
+      "data": "1937-07-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3611-de-23-de-junho-de-1937",
+      "titulo": "LEI Nº 3.611 de 23 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-23-3611",
+      "data": "1937-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3610-de-9-de-junho-de-1937",
+      "titulo": "LEI Nº 3.610 de 9 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-09-3610",
+      "data": "1937-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3609-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.609 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3609",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3608-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.608 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3608",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3607-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.607 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3607",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3606-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.606 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3606",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3605-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.605 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3605",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3604-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.604 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3604",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3603-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.603 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3603",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3602-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.602 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3602",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3601-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.601 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3601",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3600-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.600 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3600",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3599-de-3-de-junho-de-1937",
+      "titulo": "LEI Nº 3.599 de 3 de Junho de 1937",
+      "id": "br-municipal-3550308-lei-1937-06-03-3599",
+      "data": "1937-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3598-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.598 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3598",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3597-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.597 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3597",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3596-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.596 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3596",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3595-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.595 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3595",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3594-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.594 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3594",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3593-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.593 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3593",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3592-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.592 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3592",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3591-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.591 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3591",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3590-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.590 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3590",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3589-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.589 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3589",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3588-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.588 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3588",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3587-de-28-de-abril-de-1937",
+      "titulo": "LEI Nº 3.587 de 28 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-28-3587",
+      "data": "1937-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3586-de-27-de-abril-de-1937",
+      "titulo": "LEI Nº 3.586 de 27 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-27-3586",
+      "data": "1937-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3585-de-27-de-abril-de-1937",
+      "titulo": "LEI Nº 3.585 de 27 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-27-3585",
+      "data": "1937-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3584-de-27-de-abril-de-1937",
+      "titulo": "LEI Nº 3.584 de 27 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-27-3584",
+      "data": "1937-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3583-de-27-de-abril-de-1937",
+      "titulo": "LEI Nº 3.583 de 27 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-27-3583",
+      "data": "1937-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3582-de-27-de-abril-de-1937",
+      "titulo": "LEI Nº 3.582 de 27 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-27-3582",
+      "data": "1937-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3581-de-26-de-abril-de-1937",
+      "titulo": "LEI Nº 3.581 de 26 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-26-3581",
+      "data": "1937-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3580-de-17-de-abril-de-1937",
+      "titulo": "LEI Nº 3.580 de 17 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-17-3580",
+      "data": "1937-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3579-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.579 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3579",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3578-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.578 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3578",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3577-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.577 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3577",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3576-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.576 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3576",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3575-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.575 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3575",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3574-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.574 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3574",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3573-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.573 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3573",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3572-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.572 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3572",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3571-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.571 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3571",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3570-de-7-de-abril-de-1937",
+      "titulo": "LEI Nº 3.570 de 7 de Abril de 1937",
+      "id": "br-municipal-3550308-lei-1937-04-07-3570",
+      "data": "1937-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3569-de-20-de-marco-de-1937",
+      "titulo": "LEI Nº 3.569 de 20 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-20-3569",
+      "data": "1937-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3568-de-20-de-marco-de-1937",
+      "titulo": "LEI Nº 3.568 de 20 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-20-3568",
+      "data": "1937-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3567-de-17-de-marco-de-1937",
+      "titulo": "LEI Nº 3.567 de 17 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-17-3567",
+      "data": "1937-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3566-de-17-de-marco-de-1937",
+      "titulo": "LEI Nº 3.566 de 17 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-17-3566",
+      "data": "1937-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3565-de-16-de-marco-de-1937",
+      "titulo": "LEI Nº 3.565 de 16 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-16-3565",
+      "data": "1937-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3564-de-16-de-marco-de-1937",
+      "titulo": "LEI Nº 3.564 de 16 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-16-3564",
+      "data": "1937-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3563-de-11-de-marco-de-1937",
+      "titulo": "LEI Nº 3.563 de 11 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-11-3563",
+      "data": "1937-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3562-de-11-de-marco-de-1937",
+      "titulo": "LEI Nº 3.562 de 11 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-11-3562",
+      "data": "1937-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3561-de-3-de-marco-de-1937",
+      "titulo": "LEI Nº 3.561 de 3 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-03-3561",
+      "data": "1937-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3560-de-3-de-marco-de-1937",
+      "titulo": "LEI Nº 3.560 de 3 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-03-3560",
+      "data": "1937-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3559-de-3-de-marco-de-1937",
+      "titulo": "LEI Nº 3.559 de 3 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-03-3559",
+      "data": "1937-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3558-de-3-de-marco-de-1937",
+      "titulo": "LEI Nº 3.558 de 3 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-03-3558",
+      "data": "1937-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3557-de-2-de-marco-de-1937",
+      "titulo": "LEI Nº 3.557 de 2 de Março de 1937",
+      "id": "br-municipal-3550308-lei-1937-03-02-3557",
+      "data": "1937-03-02"
+    }
+  ],
+  "pendencias": []
+}

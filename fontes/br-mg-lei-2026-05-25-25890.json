@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-25-25890",
+  "titulo": "LEI nº 25890, de 25/05/2026",
+  "data": "2026-05-25",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25890/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25890/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9b0ab2488f5c4128d5f118d07df7e6d55f00de8f850edfd05042a5229756515a",
+  "coletado_em": "2026-10-21T08:27:27.136Z",
+  "sha256_fonte": "15d803e2be2f6ff419c71ac6d23f5ed249a8c0ea7836b7e8b8f86372a12a0399",
+  "sha256_markdown": "40214032291e55bbeabf7bd5f1561ac3d7b230ad216482c084c918876d7447e9"
+}

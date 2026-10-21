@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-08-04-25427",
+  "titulo": "LEI nº 25427, de 04/08/2025",
+  "data": "2025-08-04",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25427/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25427/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "25c79e7540d95ad3bc7c43a74163f765bc4c796e057d4d223bd400cd086eaf34",
+  "coletado_em": "2026-10-21T08:33:31.078Z",
+  "sha256_fonte": "5a70e56987ca78f3914810e26f540c1943d4f9aab5888917559cdded1e3718a1",
+  "sha256_markdown": "1721f315c66a44fa7dd80c23bdcc230637cf7e3488a58e28be353082ed6955c6"
+}

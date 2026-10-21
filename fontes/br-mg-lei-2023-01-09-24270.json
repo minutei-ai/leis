@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2023-01-09-24270",
+  "titulo": "LEI nº 24270, de 09/01/2023",
+  "data": "2023-01-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24270/2023/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24270/2023/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "50479e9ce0903ec471009c2e450d32f65f2c2d37fe5ac4346dff3c863789f172",
+  "coletado_em": "2026-10-21T08:44:00.411Z",
+  "sha256_fonte": "20f73c6a86fb3ef644de7b3c36eddf9b437156d5bd792f0f1ea1d3698ccf77d4",
+  "sha256_markdown": "dfead8e5aca0d6946e28084ee78d0ccb96faabee888869064c898bca6a82b620"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-10-23-48926",
+  "titulo": "DEC nº 48926, de 23/10/2024",
+  "data": "2024-10-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48926/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48926/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "150871ff01d061e2497cc52a58a2c3cce072e2db068724352ca08c21f3c18f85",
+  "coletado_em": "2026-10-21T08:42:13.035Z",
+  "sha256_fonte": "e8a9b1bc0a3164d151b8a49a141608c603e6eae8b26a83740772352bb3df762d",
+  "sha256_markdown": "f7de577566de6704f372fc44663d2c31b36c28f200148f309b3767957c01fbcb"
+}

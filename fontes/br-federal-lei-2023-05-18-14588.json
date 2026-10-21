@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-05-18-14588",
+  "titulo": "Lei nº 14.588 de 18/05/2023",
+  "data": "2023-05-18",
+  "fonte": "https://normas.leg.br/api/public/binario/64240512-b5b9-4e19-8cc3-5c8e5ea9cf38/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-05-18;14588",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-05-18%3B14588&tipo_documento=maior-detalhe",
+  "sha256_dados": "0b2e0da9543087183ad73d0ae52d3b596cdd93e44a79e065aa5d42f55004d24e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:30:43.173Z",
+  "sha256_fonte": "ac378678da0735d91bf71eae24f0234faaaa02ea61f16841ec5d4dff951d3d4a",
+  "sha256_markdown": "165ff3b0ab5fb707df25d8b8bc990029592874c47709ef50987674fd9dd9080a"
+}

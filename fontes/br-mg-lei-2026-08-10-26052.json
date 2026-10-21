@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-10-26052",
+  "titulo": "LEI nº 26052, de 10/08/2026",
+  "data": "2026-08-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26052/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26052/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ee728ff70f49a48fc3491b1276c6ee04e9f6a41b13a1d16ac1ef90c40bad32c0",
+  "coletado_em": "2026-10-21T08:29:19.066Z",
+  "sha256_fonte": "e69729deb51fbaa26c3f05dece04ebdba86691ec5acd07345eadd6ee75111063",
+  "sha256_markdown": "35ed602c57d65e97e8e01fe430d7d7d1c6474925d9dbe4237fb9c656545fe2d6"
+}

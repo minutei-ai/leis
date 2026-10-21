@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-10-25-14706",
+  "titulo": "Lei nº 14.706 de 25/10/2023",
+  "data": "2023-10-25",
+  "fonte": "https://normas.leg.br/api/public/binario/422a0ddc-a20f-4181-a497-85e651b1d709/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-10-25;14706",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-10-25%3B14706&tipo_documento=maior-detalhe",
+  "sha256_dados": "7ea20118b4ec61f994f783f0ee99ed20fbdd0ecd804751be9df484e51e79d906",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:11.645Z",
+  "sha256_fonte": "c882f12afff03631296fa130fc6306aac7e23438d0f26d12bf67c39fd4677bde",
+  "sha256_markdown": "6584ea91213fa93db9fe4e019eb3f79e5031edde60b8284acaa4f11c52def787"
+}

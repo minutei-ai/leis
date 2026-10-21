@@ -1,0 +1,42 @@
+---
+id: "br-sp-norma-212933"
+titulo: "Decreto nº 70.830, de 27/08/2026"
+data: "2026-08-27"
+fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70830-27.08.2026.html"
+versao: "publicação original disponibilizada pela Alesp"
+dados: "https://baleg-api-prd.al.sp.gov.br/norma/212933"
+sha256_dados: "3015bfae77b3317677d70038593d468e19b1e5f06f14f15bda5dcd9faa53a080"
+coletado_em: "2026-10-21T08:37:14.864Z"
+sha256_fonte: "edc799a1957aa873a4719cf95a52b87c48f2c84351a77c94b1805210bf234431"
+sha256_markdown: "676d20aebb7d2d17405a701e15db01156dad09d70ebc89a49352131f6da2ef80"
+---
+
+# Decreto nº 70.830, de 27/08/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212933)<br>
+
+# DECRETO N° 70.830, DE 27 DE AGOSTO DE 2026
+
+### Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes e de Capital.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 18.178, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211200), e na [Lei n° 18.387, de 6 de janeiro de 2026](https://www.al.sp.gov.br/norma/212096),
+
+Decreta:
+
+**Artigo 1° -** Fica aberto um crédito de R$ 13.190.406,00 (treze milhões, cento e noventa mil, quatrocentos e seis reais), suplementar ao orçamento da Secretaria da Educação, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.
+
+**Artigo 2° -** O crédito aberto pelo artigo anterior será coberto com recursos a que alude o inciso III, do § 1°, do artigo 43, da Lei federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.
+
+**Artigo 3° -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 8°, do [Decreto n° 70.333, de 12 de janeiro de 2026](https://www.al.sp.gov.br/norma/212159), de conformidade com a Tabela 2, anexa.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Nerylson Lima da Silva
+
+Samuel Yoshiaki Oliveira Kinoshita
+
+![](/repositorio/legislacao/decreto/2026/2026082809234216645.png)
+
+![](/repositorio/legislacao/decreto/2026/2026082809234215754.png)

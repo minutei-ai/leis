@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-13-14475",
+  "titulo": "Lei nº 14.475 de 13/12/2022",
+  "data": "2022-12-13",
+  "fonte": "https://normas.leg.br/api/public/binario/ef5ce6d7-b19a-42af-b564-a21cb70d41b5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-13;14475",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-13%3B14475&tipo_documento=maior-detalhe",
+  "sha256_dados": "6c6db624f8d2225760d650c158381cb06255883918ad5e63e117e93d27eea2ea",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:10.202Z",
+  "sha256_fonte": "d46fe2e525b4f757cc62fb01ca378d716b7c7d796ec79fff1e6321c2718d6df2",
+  "sha256_markdown": "1332c688b7d15605193783d2f33053987b6e50caeddc1447328b38ad3834c74c"
+}

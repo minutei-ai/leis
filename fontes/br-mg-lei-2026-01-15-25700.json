@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-15-25700",
+  "titulo": "LEI nº 25700, de 15/01/2026",
+  "data": "2026-01-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25700/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25700/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "edc3ea96c9b27b3205b0f5bb7d6fedfa48d4f152c3c7533fd5daf96fb3d4d493",
+  "coletado_em": "2026-10-21T08:25:02.725Z",
+  "sha256_fonte": "929d298fa77a314a6a0b18fad13ded1cba018760b09abc2e4abca0c894a4708b",
+  "sha256_markdown": "1a11e40cd727c015569976f7ddada80e3b5b4a4650f480f378dda31795c735dd"
+}

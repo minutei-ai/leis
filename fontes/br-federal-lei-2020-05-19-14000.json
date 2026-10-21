@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-05-19-14000",
+  "titulo": "Lei nº 14.000 de 19/05/2020",
+  "data": "2020-05-19",
+  "fonte": "https://normas.leg.br/api/public/binario/32779acf-10d3-4cc2-a039-cd02cee88062/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-05-19;14000",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-05-19%3B14000&tipo_documento=maior-detalhe",
+  "sha256_dados": "19a88fc70ea337cd552fcd2844fadd89c0f105ac1b876bb4592bcd912a2b05bc",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:21.885Z",
+  "sha256_fonte": "8656d94bb2a75548de372a66e861c4f04046e26b184772ca0d61f5ce4041642c",
+  "sha256_markdown": "d192a184521acd987be87679aafe7b0fcfc395c192fc1c492bffc97e1cb436ff"
+}

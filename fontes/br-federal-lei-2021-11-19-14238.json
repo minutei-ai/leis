@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-11-19-14238",
+  "titulo": "Lei nº 14.238 de 19/11/2021",
+  "data": "2021-11-19",
+  "fonte": "https://normas.leg.br/api/public/binario/940dd0b7-e5fc-45fe-a5ce-7a3e1e2f0996/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-11-19;14238",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-11-19%3B14238&tipo_documento=maior-detalhe",
+  "sha256_dados": "f5d135d12c89c4b5669b85981c9f3d8709face785836829f2f8d214533d90ccc",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:14.661Z",
+  "sha256_fonte": "6c723b10e4452ec31cc52665811851e9c789e761db137f843ee977a31a6a06c7",
+  "sha256_markdown": "1a1408d3c7763ce136667fa316cf7b07cc5ffff04a5ae815d41eb1a43daa753a"
+}

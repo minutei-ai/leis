@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-07-07-14021",
+  "titulo": "Lei nº 14.021 de 07/07/2020",
+  "data": "2020-07-07",
+  "fonte": "https://normas.leg.br/api/public/binario/3efd7c96-a0f7-4b96-9568-d3fe4e950af4/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-07-07;14021",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-07-07%3B14021&tipo_documento=maior-detalhe",
+  "sha256_dados": "b41af7e18317157b798017f73649e5aff3da20122516c5d986041fea0ee26238",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:52.461Z",
+  "sha256_fonte": "9bb7cd0ceaa57ef640d478f8e9f65b32e94ba8ee804bd4fc4be18e1172d283d8",
+  "sha256_markdown": "5063b2b770b5921b6f3b19f3db8f3fe473c7fbb06419894d41185b16f7bd8ead"
+}

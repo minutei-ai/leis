@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-13-25693",
+  "titulo": "LEI nº 25693, de 13/01/2026",
+  "data": "2026-01-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25693/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25693/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "bdeec191f410801527f8e49518d98a8686b0898f764a59629f62aa7778a77a07",
+  "coletado_em": "2026-10-21T08:24:51.438Z",
+  "sha256_fonte": "22e139158090e01df23fd92d055799100dda1ac488e207c7cfc0dd15f135d04c",
+  "sha256_markdown": "4caf7150c0f4aab8f306961c98e9348cdae037bf1618840bd76ea2fe3d406eb7"
+}

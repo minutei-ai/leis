@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-09-14-14673",
+  "titulo": "Lei nº 14.673 de 14/09/2023",
+  "data": "2023-09-14",
+  "fonte": "https://normas.leg.br/api/public/binario/585a4f8d-c90c-4ad6-a485-b70140c12249/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-09-14;14673",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-09-14%3B14673&tipo_documento=maior-detalhe",
+  "sha256_dados": "2eea2c7e40eb1cfa74b1942f6a45942896f8d2eddfb697a9d2d198f088f7ebc2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:51.462Z",
+  "sha256_fonte": "a804a76879e4ba06f1376ff7a3b8e764c06de60be18f4fa63f5b51ae7ba5476b",
+  "sha256_markdown": "df96a519f7f1b2e9ef257d70c2484b2095970c3cfe6790cc3626d1f45bc24e68"
+}

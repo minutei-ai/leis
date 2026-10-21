@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-06-03-14009",
+  "titulo": "Lei nº 14.009 de 03/06/2020",
+  "data": "2020-06-03",
+  "fonte": "https://normas.leg.br/api/public/binario/b2d4f3f5-ed63-432d-9727-3cb976388a08/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-06-03;14009",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-06-03%3B14009&tipo_documento=maior-detalhe",
+  "sha256_dados": "40f559efd19cab40ab3e12b617ea108669d23eecc45092dfc7fa64f7374bf21d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:10.004Z",
+  "sha256_fonte": "878bec374aab346f0d5873af42dd3f435ef88f6a1fae4059e0682f3fda47a322",
+  "sha256_markdown": "a00647187325249d7c54cd220bec3403480cef7ea6e3cde09e327ecb00cf8d7e"
+}

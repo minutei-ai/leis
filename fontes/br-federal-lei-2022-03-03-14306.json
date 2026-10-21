@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-03-03-14306",
+  "titulo": "Lei nº 14.306 de 03/03/2022",
+  "data": "2022-03-03",
+  "fonte": "https://normas.leg.br/api/public/binario/e0c64e77-8998-4650-a2f9-25489df30c28/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-03-03;14306",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-03-03%3B14306&tipo_documento=maior-detalhe",
+  "sha256_dados": "d07dc0639656e90562dee6ed9c9857e966dc5c0c047e7c266e5ca1e46394278d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:47.225Z",
+  "sha256_fonte": "620d1e99d8e8915a615526e2f533d0cd41b38516af37c6733f1746dc2a4f227b",
+  "sha256_markdown": "dca296d623915960d38892a22714ac3d08e7f14055d7b4b5955ce9d536699e7e"
+}

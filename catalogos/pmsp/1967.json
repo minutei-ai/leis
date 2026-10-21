@@ -1,0 +1,674 @@
+{
+  "ano_publicacao": 1967,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1967",
+    "ano-final": "31/12/1967",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:45.071Z",
+  "total": 108,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "b76da1835727df6b4e3934559076bfad9e7f43423596f51c25dded85d07d1d6d"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "3a7ed05cb12ddf4e765d7adf890624b8e2f134bc4bd9537939e7b8ba5d21f93c"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7101-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.101 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7101",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7100-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.100 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7100",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7099-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.099 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7099",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7098-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.098 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7098",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7097-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.097 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7097",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7096-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.096 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7096",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7095-de-29-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.095 de 29 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-29-7095",
+      "data": "1967-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7094-de-28-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.094 de 28 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-28-7094",
+      "data": "1967-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7093-de-20-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.093 de 20 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-20-7093",
+      "data": "1967-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7092-de-16-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.092 de 16 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-16-7092",
+      "data": "1967-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7091-de-14-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.091 de 14 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-14-7091",
+      "data": "1967-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7090-de-14-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.090 de 14 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-14-7090",
+      "data": "1967-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7089-de-14-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.089 de 14 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-14-7089",
+      "data": "1967-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7087-de-14-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.087 de 14 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-14-7087",
+      "data": "1967-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7086-de-14-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.086 de 14 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-14-7086",
+      "data": "1967-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7088-de-14-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.088 de 14 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-14-7088",
+      "data": "1967-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7085-de-12-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.085 de 12 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-12-7085",
+      "data": "1967-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7084-de-7-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.084 de 7 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-07-7084",
+      "data": "1967-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7083-de-7-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.083 de 7 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-07-7083",
+      "data": "1967-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7082-de-5-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.082 de 5 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-05-7082",
+      "data": "1967-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7081-de-5-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.081 de 5 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-05-7081",
+      "data": "1967-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7080-de-5-de-dezembro-de-1967",
+      "titulo": "LEI Nº 7.080 de 5 de Dezembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-12-05-7080",
+      "data": "1967-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7079-de-28-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.079 de 28 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-28-7079",
+      "data": "1967-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7078-de-28-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.078 de 28 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-28-7078",
+      "data": "1967-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7077-de-28-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.077 de 28 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-28-7077",
+      "data": "1967-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7076-de-22-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.076 de 22 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-22-7076",
+      "data": "1967-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7075-de-22-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.075 de 22 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-22-7075",
+      "data": "1967-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7074-de-22-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.074 de 22 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-22-7074",
+      "data": "1967-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7073-de-20-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.073 de 20 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-20-7073",
+      "data": "1967-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7072-de-9-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.072 de 9 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-09-7072",
+      "data": "1967-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7071-de-8-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.071 de 8 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-08-7071",
+      "data": "1967-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7070-de-8-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.070 de 8 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-08-7070",
+      "data": "1967-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7069-de-8-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.069 de 8 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-08-7069",
+      "data": "1967-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7068-de-8-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.068 de 8 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-08-7068",
+      "data": "1967-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7067-de-3-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.067 de 3 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-03-7067",
+      "data": "1967-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7066-de-3-de-novembro-de-1967",
+      "titulo": "LEI Nº 7.066 de 3 de Novembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-11-03-7066",
+      "data": "1967-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7065-de-30-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.065 de 30 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-30-7065",
+      "data": "1967-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7064-de-24-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.064 de 24 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-24-7064",
+      "data": "1967-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7063-de-17-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.063 de 17 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-17-7063",
+      "data": "1967-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7061-de-12-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.061 de 12 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-12-7061",
+      "data": "1967-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7062-de-12-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.062 de 12 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-12-7062",
+      "data": "1967-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7060-de-12-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.060 de 12 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-12-7060",
+      "data": "1967-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7059-de-4-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.059 de 4 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-04-7059",
+      "data": "1967-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7058-de-2-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.058 de 2 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-02-7058",
+      "data": "1967-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7057-de-2-de-outubro-de-1967",
+      "titulo": "LEI Nº 7.057 de 2 de Outubro de 1967",
+      "id": "br-municipal-3550308-lei-1967-10-02-7057",
+      "data": "1967-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7056-de-25-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.056 de 25 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-25-7056",
+      "data": "1967-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7055-de-25-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.055 de 25 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-25-7055",
+      "data": "1967-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7054-de-25-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.054 de 25 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-25-7054",
+      "data": "1967-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7053-de-25-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.053 de 25 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-25-7053",
+      "data": "1967-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7052-de-20-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.052 de 20 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-20-7052",
+      "data": "1967-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7051-de-20-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.051 de 20 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-20-7051",
+      "data": "1967-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7050-de-14-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.050 de 14 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-14-7050",
+      "data": "1967-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7049-de-12-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.049 de 12 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-12-7049",
+      "data": "1967-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7048-de-6-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.048 de 6 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-06-7048",
+      "data": "1967-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7047-de-6-de-setembro-de-1967",
+      "titulo": "LEI Nº 7.047 de 6 de Setembro de 1967",
+      "id": "br-municipal-3550308-lei-1967-09-06-7047",
+      "data": "1967-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7046-de-23-de-agosto-de-1967",
+      "titulo": "LEI Nº 7.046 de 23 de Agosto de 1967",
+      "id": "br-municipal-3550308-lei-1967-08-23-7046",
+      "data": "1967-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7045-de-23-de-agosto-de-1967",
+      "titulo": "LEI Nº 7.045 de 23 de Agosto de 1967",
+      "id": "br-municipal-3550308-lei-1967-08-23-7045",
+      "data": "1967-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7044-de-23-de-agosto-de-1967",
+      "titulo": "LEI Nº 7.044 de 23 de Agosto de 1967",
+      "id": "br-municipal-3550308-lei-1967-08-23-7044",
+      "data": "1967-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7043-de-23-de-agosto-de-1967",
+      "titulo": "LEI Nº 7.043 de 23 de Agosto de 1967",
+      "id": "br-municipal-3550308-lei-1967-08-23-7043",
+      "data": "1967-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7042-de-11-de-agosto-de-1967",
+      "titulo": "LEI Nº 7.042 de 11 de Agosto de 1967",
+      "id": "br-municipal-3550308-lei-1967-08-11-7042",
+      "data": "1967-08-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7041-de-23-de-junho-de-1967",
+      "titulo": "LEI Nº 7.041 de 23 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-23-7041",
+      "data": "1967-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7040-de-21-de-junho-de-1967",
+      "titulo": "LEI Nº 7.040 de 21 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-21-7040",
+      "data": "1967-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7039-de-14-de-junho-de-1967",
+      "titulo": "LEI Nº 7.039 de 14 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-14-7039",
+      "data": "1967-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7038-de-14-de-junho-de-1967",
+      "titulo": "LEI Nº 7.038 de 14 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-14-7038",
+      "data": "1967-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7037-de-13-de-junho-de-1967",
+      "titulo": "LEI Nº 7.037 de 13 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-13-7037",
+      "data": "1967-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7036-de-12-de-junho-de-1967",
+      "titulo": "LEI Nº 7.036 de 12 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-12-7036",
+      "data": "1967-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7035-de-12-de-junho-de-1967",
+      "titulo": "LEI Nº 7.035 de 12 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-12-7035",
+      "data": "1967-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7034-de-5-de-junho-de-1967",
+      "titulo": "LEI Nº 7.034 de 5 de Junho de 1967",
+      "id": "br-municipal-3550308-lei-1967-06-05-7034",
+      "data": "1967-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7033-de-29-de-maio-de-1967",
+      "titulo": "LEI Nº 7.033 de 29 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-29-7033",
+      "data": "1967-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7032-de-29-de-maio-de-1967",
+      "titulo": "LEI Nº 7.032 de 29 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-29-7032",
+      "data": "1967-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7031-de-26-de-maio-de-1967",
+      "titulo": "LEI Nº 7.031 de 26 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-26-7031",
+      "data": "1967-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7030-de-19-de-maio-de-1967",
+      "titulo": "LEI Nº 7.030 de 19 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-19-7030",
+      "data": "1967-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7029-de-10-de-maio-de-1967",
+      "titulo": "LEI Nº 7.029 de 10 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-10-7029",
+      "data": "1967-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7028-de-10-de-maio-de-1967",
+      "titulo": "LEI Nº 7.028 de 10 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-10-7028",
+      "data": "1967-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7027-de-10-de-maio-de-1967",
+      "titulo": "LEI Nº 7.027 de 10 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-10-7027",
+      "data": "1967-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7026-de-10-de-maio-de-1967",
+      "titulo": "LEI Nº 7.026 de 10 de Maio de 1967",
+      "id": "br-municipal-3550308-lei-1967-05-10-7026",
+      "data": "1967-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7025-de-28-de-abril-de-1967",
+      "titulo": "LEI Nº 7.025 de 28 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-28-7025",
+      "data": "1967-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7024-de-26-de-abril-de-1967",
+      "titulo": "LEI Nº 7.024 de 26 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-26-7024",
+      "data": "1967-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7023-de-26-de-abril-de-1967",
+      "titulo": "LEI Nº 7.023 de 26 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-26-7023",
+      "data": "1967-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7022-de-26-de-abril-de-1967",
+      "titulo": "LEI Nº 7.022 de 26 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-26-7022",
+      "data": "1967-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7021-de-19-de-abril-de-1967",
+      "titulo": "LEI Nº 7.021 de 19 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-19-7021",
+      "data": "1967-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7020-de-19-de-abril-de-1967",
+      "titulo": "LEI Nº 7.020 de 19 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-19-7020",
+      "data": "1967-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7018-de-19-de-abril-de-1967",
+      "titulo": "LEI Nº 7.018 de 19 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-19-7018",
+      "data": "1967-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7019-de-19-de-abril-de-1967",
+      "titulo": "LEI Nº 7.019 de 19 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-19-7019",
+      "data": "1967-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7017-de-19-de-abril-de-1967",
+      "titulo": "LEI Nº 7.017 de 19 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-19-7017",
+      "data": "1967-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7016-de-14-de-abril-de-1967",
+      "titulo": "LEI Nº 7.016 de 14 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-14-7016",
+      "data": "1967-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7015-de-14-de-abril-de-1967",
+      "titulo": "LEI Nº 7.015 de 14 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-14-7015",
+      "data": "1967-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7013-de-14-de-abril-de-1967",
+      "titulo": "LEI Nº 7.013 de 14 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-14-7013",
+      "data": "1967-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7012-de-14-de-abril-de-1967",
+      "titulo": "LEI Nº 7.012 de 14 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-14-7012",
+      "data": "1967-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7011-de-14-de-abril-de-1967",
+      "titulo": "LEI Nº 7.011 de 14 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-14-7011",
+      "data": "1967-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7014-de-14-de-abril-de-1967",
+      "titulo": "LEI Nº 7.014 de 14 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-14-7014",
+      "data": "1967-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7010-de-7-de-abril-de-1967",
+      "titulo": "LEI Nº 7.010 de 7 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-07-7010",
+      "data": "1967-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7008-de-6-de-abril-de-1967",
+      "titulo": "LEI Nº 7.008 de 6 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-06-7008",
+      "data": "1967-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7009-de-6-de-abril-de-1967",
+      "titulo": "LEI Nº 7.009 de 6 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-06-7009",
+      "data": "1967-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7007-de-5-de-abril-de-1967",
+      "titulo": "LEI Nº 7.007 de 5 de Abril de 1967",
+      "id": "br-municipal-3550308-lei-1967-04-05-7007",
+      "data": "1967-04-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7006-de-20-de-marco-de-1967",
+      "titulo": "LEI Nº 7.006 de 20 de Março de 1967",
+      "id": "br-municipal-3550308-lei-1967-03-20-7006",
+      "data": "1967-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7005-de-20-de-marco-de-1967",
+      "titulo": "LEI Nº 7.005 de 20 de Março de 1967",
+      "id": "br-municipal-3550308-lei-1967-03-20-7005",
+      "data": "1967-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7004-de-20-de-marco-de-1967",
+      "titulo": "LEI Nº 7.004 de 20 de Março de 1967",
+      "id": "br-municipal-3550308-lei-1967-03-20-7004",
+      "data": "1967-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7003-de-10-de-marco-de-1967",
+      "titulo": "LEI Nº 7.003 de 10 de Março de 1967",
+      "id": "br-municipal-3550308-lei-1967-03-10-7003",
+      "data": "1967-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7002-de-8-de-marco-de-1967",
+      "titulo": "LEI Nº 7.002 de 8 de Março de 1967",
+      "id": "br-municipal-3550308-lei-1967-03-08-7002",
+      "data": "1967-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7001-de-1-de-fevereiro-de-1967",
+      "titulo": "LEI Nº 7.001 de 1 de Fevereiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-02-01-7001",
+      "data": "1967-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7000-de-20-de-janeiro-de-1967",
+      "titulo": "LEI Nº 7.000 de 20 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-20-7000",
+      "data": "1967-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6999-de-20-de-janeiro-de-1967",
+      "titulo": "LEI Nº 6.999 de 20 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-20-6999",
+      "data": "1967-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6998-de-13-de-janeiro-de-1967",
+      "titulo": "LEI Nº 6.998 de 13 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-13-6998",
+      "data": "1967-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6997-de-13-de-janeiro-de-1967",
+      "titulo": "LEI Nº 6.997 de 13 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-13-6997",
+      "data": "1967-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6996-de-5-de-janeiro-de-1967",
+      "titulo": "LEI Nº 6.996 de 5 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-05-6996",
+      "data": "1967-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6995-de-5-de-janeiro-de-1967",
+      "titulo": "LEI Nº 6.995 de 5 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-05-6995",
+      "data": "1967-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6994-de-5-de-janeiro-de-1967",
+      "titulo": "LEI Nº 6.994 de 5 de Janeiro de 1967",
+      "id": "br-municipal-3550308-lei-1967-01-05-6994",
+      "data": "1967-01-05"
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-07-29-49266",
+  "titulo": "DEC nº 49266, de 29/07/2026",
+  "data": "2026-07-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49266/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49266/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "4006acb5e1e200128248bcca4a477c3ed852ae710275d56942f01b612e5771d6",
+  "coletado_em": "2026-10-21T08:28:56.881Z",
+  "sha256_fonte": "8225d179fd15bf3cc4e614d15e4457bafee5310d41e85dceeef8136e6a096159",
+  "sha256_markdown": "f8c0baf5ff92ebdaf457107cf6f896a767cafe00c61928e492c9dd4c097bf734"
+}

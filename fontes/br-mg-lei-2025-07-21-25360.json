@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-21-25360",
+  "titulo": "LEI nº 25360, de 21/07/2025",
+  "data": "2025-07-21",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25360/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25360/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9b93164a626f4047dad52f6fab78c09535fe1c4672d1560005f4d30a9d61e37d",
+  "coletado_em": "2026-10-21T08:32:50.463Z",
+  "sha256_fonte": "c83c8c0b376127352e5d9763034f029b37553a733f56fb7d4f20b8024a6dca0f",
+  "sha256_markdown": "3d8f80574453d91d519bf57aafec3d82659138be1116f625ca665adbdf9f0ac1"
+}

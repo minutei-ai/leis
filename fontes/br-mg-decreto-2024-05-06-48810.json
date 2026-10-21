@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-05-06-48810",
+  "titulo": "DEC nº 48810, de 06/05/2024",
+  "data": "2024-05-06",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48810/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48810/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7923e945303045dcadffecac9cb9ad3f34970d042f68b69ab19b1597169b3c1f",
+  "coletado_em": "2026-10-21T08:38:25.135Z",
+  "sha256_fonte": "68470d0b7a5a764e1dc5906f63de66af016a8c10cff62824f991fdacf88edcb6",
+  "sha256_markdown": "b45f41066880b19113dad3aacfdd955505476af5680e109dbc6646998fc6a427"
+}

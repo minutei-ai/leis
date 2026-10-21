@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-18-14415",
+  "titulo": "Lei nº 14.415 de 18/07/2022",
+  "data": "2022-07-18",
+  "fonte": "https://normas.leg.br/api/public/binario/228ca0d2-01e9-4b50-b284-86bf221b5021/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-18;14415",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-18%3B14415&tipo_documento=maior-detalhe",
+  "sha256_dados": "a934a80068a236fecbb7e7c65feaffbd0742e49250c023ed0b9c0850c6992c2c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:28.016Z",
+  "sha256_fonte": "8a629146a1a143a11a0d68fc6ab34c95f3f4bdfa4c39eda3c257d1bd00fe07b1",
+  "sha256_markdown": "082dfc894926bea45a8288436a7fba4dbc2814cb0eb88eeeb1cc4b751b18810d"
+}

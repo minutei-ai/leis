@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-03-49188",
+  "titulo": "DEC nº 49188, de 03/03/2026",
+  "data": "2026-03-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49188/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49188/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b3574984e89b3f09c04c34d4d8ebce1fa6117e852967a696fb7cc7f3adb2f5f8",
+  "coletado_em": "2026-10-21T08:25:42.402Z",
+  "sha256_fonte": "f0662a82f812b6bf78b5518bbc41fc1b750daabfd30b88656544f3a6f828f1aa",
+  "sha256_markdown": "2e1f706ffaca9212384695d6fd9510ede1a95a73f414ea1c85aa064d0e3fb7cd"
+}

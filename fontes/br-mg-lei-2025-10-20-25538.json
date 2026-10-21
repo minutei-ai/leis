@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-10-20-25538",
+  "titulo": "LEI nº 25538, de 20/10/2025",
+  "data": "2025-10-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25538/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25538/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "bf7e9868819d56f677556f7178b4b218d7ffcb47c34098e0b43607caf13da4e9",
+  "coletado_em": "2026-10-21T08:34:53.834Z",
+  "sha256_fonte": "4922e384cee60209d0858eb544054b4611d961ad2fa5ec2f1166dac475b0cefa",
+  "sha256_markdown": "3eb7fd0332d5f710a0da66427d635df09466142b6fd198367085895e68f77a47"
+}

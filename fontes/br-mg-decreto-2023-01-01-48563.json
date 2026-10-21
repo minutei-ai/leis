@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2023-01-01-48563",
+  "titulo": "DEC nº 48563, de 01/01/2023",
+  "data": "2023-01-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48563/2023/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48563/2023/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "795fde20a740903a116ceee3fa57e1fdaf7c4c951e5db7e637abf7d7221d2020",
+  "coletado_em": "2026-10-21T08:43:59.288Z",
+  "sha256_fonte": "a272d1dc5bf036cabce21a43f2671a6b299453661137265442b2aaac7000c043",
+  "sha256_markdown": "83e1fa7e90b9fd97403d2a7118315b5f4b2a9e44a4f7916f23efdb231c021e9b"
+}

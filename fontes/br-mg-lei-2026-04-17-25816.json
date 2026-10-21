@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-04-17-25816",
+  "titulo": "LEI nº 25816, de 17/04/2026",
+  "data": "2026-04-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25816/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25816/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "dca6854101bdedee93922ffeb008a5f55cdbe110f6110507235ba2c51c55edf5",
+  "coletado_em": "2026-10-21T08:26:35.365Z",
+  "sha256_fonte": "056d522123c659bc5aeac6ba681929df65e45db3950cae42238c54c649db9fbd",
+  "sha256_markdown": "0da682599ca63f452bbb0d65a39dde7f26d00d1bd54b7ca6caca47e5450f075b"
+}

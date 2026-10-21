@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-05-09-48814",
+  "titulo": "DEC nº 48814, de 09/05/2024",
+  "data": "2024-05-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48814/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48814/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9fe6201b12bf59173e5feaf420eed054e4b7bb136edc414619cc0a0a9a5f15f5",
+  "coletado_em": "2026-10-21T08:38:28.516Z",
+  "sha256_fonte": "63200754e7ad812a628ba7c62fc2b39066fb05168a35253b07704482a41355fe",
+  "sha256_markdown": "e5883b9f1301a2ff8986c1778808ebf5e3edd1306bf5085513c91e62cbcc8ad3"
+}

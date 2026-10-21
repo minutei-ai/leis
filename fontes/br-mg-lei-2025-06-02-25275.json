@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-06-02-25275",
+  "titulo": "LEI nº 25275, de 02/06/2025",
+  "data": "2025-06-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25275/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25275/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "527d5c12635ff4729197637f4427403c38050163337e2ea08579c1200fae2077",
+  "coletado_em": "2026-10-21T08:31:44.668Z",
+  "sha256_fonte": "972066fc01f8b72eecd6e114be245aafdee86e074c178d116c8c6f6c1449e38e",
+  "sha256_markdown": "d885dc033096c72f8fe61f47f1509f3a2295804abd873b8a8dcd0c38b55d048f"
+}

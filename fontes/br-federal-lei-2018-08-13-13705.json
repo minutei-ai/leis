@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-08-13-13705",
+  "titulo": "Lei nº 13.705 de 13/08/2018",
+  "data": "2018-08-13",
+  "fonte": "https://normas.leg.br/api/public/binario/50876195-7638-4bab-a2de-c33c91e5f40a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-08-13;13705",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-08-13%3B13705&tipo_documento=maior-detalhe",
+  "sha256_dados": "74006cb8f9e59a2ad2a4eb2098939174fbd0a7a17a9b121f3b3642f38ebff9b0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:45.766Z",
+  "sha256_fonte": "039b04893f7f99c9e694b0aae9356f87232bcab1292ec7bbf0fd8db2610bfb7f",
+  "sha256_markdown": "9ba962e268aefde6a481b930aa5359183ac7034643765c6d984bed98a1a6f226"
+}

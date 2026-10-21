@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-27-14512",
+  "titulo": "Lei nº 14.512 de 27/12/2022",
+  "data": "2022-12-27",
+  "fonte": "https://normas.leg.br/api/public/binario/46a1e88c-bc30-4f7d-9569-953b54adde4b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-27;14512",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-27%3B14512&tipo_documento=maior-detalhe",
+  "sha256_dados": "b8d30d8bc6c1867bddcd1a01b718487437ba8621f6dfc0d65592ef2b281d21f1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:20.427Z",
+  "sha256_fonte": "f875ddbf86a39dc362f92bea69d301be93d8c32865dd4a4aad1d4a91ac30eb72",
+  "sha256_markdown": "c65fec0815ff5aa918ba7bce9934bb10b1ec427fcb511141fcaa3426deb6534d"
+}

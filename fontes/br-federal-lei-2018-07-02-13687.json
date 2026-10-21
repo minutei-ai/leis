@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-07-02-13687",
+  "titulo": "Lei nº 13.687 de 02/07/2018",
+  "data": "2018-07-02",
+  "fonte": "https://normas.leg.br/api/public/binario/d83a8afd-7ecd-4e5e-8b51-b53f0a898458/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-07-02;13687",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-07-02%3B13687&tipo_documento=maior-detalhe",
+  "sha256_dados": "61f581583c25050f9eb29cbaad840c10aa8155588ec6e6399cefcadb08589e75",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:09.285Z",
+  "sha256_fonte": "66c234e7cc163ef48150e232c1d92f452fadd97e844ef2518e5f7e7bcc0f18b2",
+  "sha256_markdown": "74ca156ae86cfe41c66ec7f3a8929f9f2c8f9ee8aadc81c54a79101d3e8a6f14"
+}

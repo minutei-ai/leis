@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-04-25-14556",
+  "titulo": "Lei nº 14.556 de 25/04/2023",
+  "data": "2023-04-25",
+  "fonte": "https://normas.leg.br/api/public/binario/68283d2a-e9f2-4c0c-b29b-c026b202fb4d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-04-25;14556",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-04-25%3B14556&tipo_documento=maior-detalhe",
+  "sha256_dados": "9216edb692df503fbca72ec9b12707fa0cafc976174aa505c19d1181c0c27a76",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:20.616Z",
+  "sha256_fonte": "f9dfbd84527f088af375d500cc7552ceaf7105cfd8e1c75536d2196c78fbad2b",
+  "sha256_markdown": "faed898e3109ec4ec04d896492efa795f9eb6cc8722fc425d42bc70e529b37d3"
+}

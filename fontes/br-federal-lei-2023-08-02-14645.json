@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-02-14645",
+  "titulo": "Lei nº 14.645 de 02/08/2023",
+  "data": "2023-08-02",
+  "fonte": "https://normas.leg.br/api/public/binario/5a07890d-d63b-44d1-b0ee-d9b6992489ea/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-02;14645",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-02%3B14645&tipo_documento=maior-detalhe",
+  "sha256_dados": "19a8fcb1061a4e31387a5c8cc287b03721dc69c3ba7b814c6f57eaaff3b45e29",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:27.224Z",
+  "sha256_fonte": "8b21500cd57cc5fc6eb311a74b1c172b5af65d5414370e0f1a9f5687ce39391e",
+  "sha256_markdown": "3bc66a42e5184b45ad5119994285816275840dd72b81d49efa70e93cc92d9ef7"
+}

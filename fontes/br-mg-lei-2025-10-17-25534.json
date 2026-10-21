@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-10-17-25534",
+  "titulo": "LEI nº 25534, de 17/10/2025",
+  "data": "2025-10-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25534/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25534/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "bb625f51d710d0834d4218e464ca27bc4c2d25b66587fac0616f758c09dee4d7",
+  "coletado_em": "2026-10-21T08:34:49.255Z",
+  "sha256_fonte": "826eac0f32fb57022ce4a7a45bffa1536566f451fb85c9f97421628d8e3aa969",
+  "sha256_markdown": "9bdf8954b816289eb297353ec57a5a21cb37c339a4993e26d882a4e95df98bcb"
+}

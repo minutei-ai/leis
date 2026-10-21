@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-08-24-13713",
+  "titulo": "Lei nº 13.713 de 24/08/2018",
+  "data": "2018-08-24",
+  "fonte": "https://normas.leg.br/api/public/binario/954ca6cc-d1ab-4372-aea2-4cf390d07519/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-08-24;13713",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-08-24%3B13713&tipo_documento=maior-detalhe",
+  "sha256_dados": "4410b68fd5d7cbf9e47762f6062c39ead3b7027f4e7ed79c5b98f0623d66f399",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:38.858Z",
+  "sha256_fonte": "fe38db5eeda47f5f67801e0ef9dc4df136eff7abd09d6570fb1a8fdf856e5598",
+  "sha256_markdown": "4a84cb345bc1103c48f487175a0eab3524791220481b5cee70b1083cf54c3192"
+}

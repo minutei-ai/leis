@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-08-14-49086",
+  "titulo": "DEC nº 49086, de 14/08/2025",
+  "data": "2025-08-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49086/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49086/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ba8dc06b66dfe7dae8ec4d155a17c34931973c18a0d8e8a399f158821bd944b7",
+  "coletado_em": "2026-10-21T08:33:43.223Z",
+  "sha256_fonte": "937bfdc2bd26676ab6524edaf9995464f3ec55995666110a3e22722371b7021f",
+  "sha256_markdown": "b91f4c483e59c0676527d2758166228d661062e714277b95af2a61ba21d3d69b"
+}

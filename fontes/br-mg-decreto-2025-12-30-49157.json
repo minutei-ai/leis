@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-30-49157",
+  "titulo": "DEC nº 49157, de 30/12/2025",
+  "data": "2025-12-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49157/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49157/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "81095627ec19a33abe6af0d0c69c5e334c622f5d126cac6b2b9258113ee9f770",
+  "coletado_em": "2026-10-21T08:36:38.659Z",
+  "sha256_fonte": "5aedf4d81c70787ba7d635ecfb6f33716e9af82e0944851d07b32409738b7c65",
+  "sha256_markdown": "c2327f4d5cffa1471939d88d773505fdfa23a1d47d6e95487ba6af9519e78b7b"
+}

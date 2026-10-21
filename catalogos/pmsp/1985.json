@@ -1,0 +1,1404 @@
+{
+  "ano_publicacao": 1985,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1985",
+    "ano-final": "31/12/1985",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:47:00.827Z",
+  "total": 229,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "f5bcfe4be91afdfde2357a1dabc6adcac54fc9592c267c0d4657f9c232e08873"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "bfde97cd118f6d5a156e616a0105d223f006df2e258bcb207376ef4979eb0c39"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "88dfa4a942590ac6f04c3f7ff720c42a44a2309df056cbfe10ecccb9780e336d"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10038-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.038 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10038",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10036-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.036 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10036",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10035-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.035 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10035",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10034-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.034 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10034",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10033-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.033 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10033",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10037-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.037 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10037",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10032-de-27-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.032 de 27 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-27-10032",
+      "data": "1985-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10031-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.031 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10031",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10030-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.030 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10030",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10029-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.029 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10029",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10028-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.028 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10028",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10027-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.027 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10027",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10026-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.026 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10026",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10025-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.025 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10025",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10024-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.024 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10024",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10023-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.023 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10023",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10022-de-26-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.022 de 26 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-26-10022",
+      "data": "1985-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10021-de-24-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.021 de 24 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-24-10021",
+      "data": "1985-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10020-de-23-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.020 de 23 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-23-10020",
+      "data": "1985-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10019-de-23-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.019 de 23 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-23-10019",
+      "data": "1985-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10018-de-23-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.018 de 23 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-23-10018",
+      "data": "1985-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10017-de-17-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.017 de 17 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-17-10017",
+      "data": "1985-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10016-de-17-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.016 de 17 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-17-10016",
+      "data": "1985-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10014-de-16-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.014 de 16 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-16-10014",
+      "data": "1985-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10015-de-16-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.015 de 16 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-16-10015",
+      "data": "1985-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10013-de-13-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.013 de 13 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-13-10013",
+      "data": "1985-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10012-de-13-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.012 de 13 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-13-10012",
+      "data": "1985-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10011-de-12-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.011 de 12 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-12-10011",
+      "data": "1985-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10010-de-4-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.010 de 4 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-04-10010",
+      "data": "1985-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10009-de-4-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.009 de 4 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-04-10009",
+      "data": "1985-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10008-de-4-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.008 de 4 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-04-10008",
+      "data": "1985-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10006-de-3-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.006 de 3 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-03-10006",
+      "data": "1985-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10007-de-03-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.007 de 3 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-03-10007",
+      "data": "1985-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10005-de-2-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.005 de 2 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-02-10005",
+      "data": "1985-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10004-de-2-de-dezembro-de-1985",
+      "titulo": "LEI Nº 10.004 de 2 de Dezembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-12-02-10004",
+      "data": "1985-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10003-de-29-de-novembro-de-1985",
+      "titulo": "LEI Nº 10.003 de 29 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-29-10003",
+      "data": "1985-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10002-de-29-de-novembro-de-1985",
+      "titulo": "LEI Nº 10.002 de 29 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-29-10002",
+      "data": "1985-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10001-de-27-de-novembro-de-1985",
+      "titulo": "LEI Nº 10.001 de 27 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-27-10001",
+      "data": "1985-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10000-de-20-de-novembro-de-1985",
+      "titulo": "LEI Nº 10.000 de 20 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-20-10000",
+      "data": "1985-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9999-de-18-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.999 de 18 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-18-9999",
+      "data": "1985-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9998-de-7-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.998 de 7 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-07-9998",
+      "data": "1985-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9997-de-7-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.997 de 7 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-07-9997",
+      "data": "1985-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9996-de-1-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.996 de 1 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-01-9996",
+      "data": "1985-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9995-de-1-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.995 de 1 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-01-9995",
+      "data": "1985-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9993-de-1-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.993 de 1 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-01-9993",
+      "data": "1985-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9994-de-1-de-novembro-de-1985",
+      "titulo": "LEI Nº 9.994 de 1 de Novembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-11-01-9994",
+      "data": "1985-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9991-de-31-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.991 de 31 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-31-9991",
+      "data": "1985-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9990-de-31-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.990 de 31 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-31-9990",
+      "data": "1985-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9989-de-31-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.989 de 31 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-31-9989",
+      "data": "1985-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9992-de-31-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.992 de 31 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-31-9992",
+      "data": "1985-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9988-de-30-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.988 de 30 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-30-9988",
+      "data": "1985-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9987-de-25-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.987 de 25 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-25-9987",
+      "data": "1985-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9986-de-24-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.986 de 24 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-24-9986",
+      "data": "1985-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9985-de-24-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.985 de 24 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-24-9985",
+      "data": "1985-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9984-de-24-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.984 de 24 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-24-9984",
+      "data": "1985-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9983-de-21-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.983 de 21 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-21-9983",
+      "data": "1985-10-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9982-de-21-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.982 de 21 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-21-9982",
+      "data": "1985-10-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9981-de-21-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.981 de 21 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-21-9981",
+      "data": "1985-10-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9980-de-18-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.980 de 18 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-18-9980",
+      "data": "1985-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9979-de-18-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.979 de 18 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-18-9979",
+      "data": "1985-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9978-de-18-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.978 de 18 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-18-9978",
+      "data": "1985-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9977-de-11-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.977 de 11 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-11-9977",
+      "data": "1985-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9976-de-4-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.976 de 4 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-04-9976",
+      "data": "1985-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9975-de-2-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.975 de 2 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-02-9975",
+      "data": "1985-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9974-de-2-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.974 de 2 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-02-9974",
+      "data": "1985-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9973-de-1-de-outubro-de-1985",
+      "titulo": "LEI Nº 9.973 de 1 de Outubro de 1985",
+      "id": "br-municipal-3550308-lei-1985-10-01-9973",
+      "data": "1985-10-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9972-de-26-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.972 de 26 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-26-9972",
+      "data": "1985-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9971-de-26-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.971 de 26 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-26-9971",
+      "data": "1985-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9970-de-19-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.970 de 19 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-19-9970",
+      "data": "1985-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9969-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.969 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9969",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9968-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.968 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9968",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9967-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.967 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9967",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9966-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.966 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9966",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9965-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.965 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9965",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9964-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.964 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9964",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9963-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.963 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9963",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9962-de-13-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.962 de 13 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-13-9962",
+      "data": "1985-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9961-de-3-de-setembro-de-1985",
+      "titulo": "LEI Nº 9.961 de 3 de Setembro de 1985",
+      "id": "br-municipal-3550308-lei-1985-09-03-9961",
+      "data": "1985-09-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9958-de-26-de-julho-de-1985",
+      "titulo": "LEI Nº 9.958 de 26 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-26-9958",
+      "data": "1985-07-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9960-de-26-de-julho-de-1985",
+      "titulo": "LEI Nº 9.960 de 26 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-26-9960",
+      "data": "1985-07-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9959-de-26-de-julho-de-1985",
+      "titulo": "LEI Nº 9.959 de 26 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-26-9959",
+      "data": "1985-07-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9957-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.957 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9957",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9956-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.956 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9956",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9954-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.954 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9954",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9950-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.950 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9950",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9949-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.949 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9949",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9947-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.947 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9947",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9946-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.946 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9946",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9955-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.955 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9955",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9953-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.953 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9953",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9952-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.952 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9952",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9951-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.951 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9951",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9948-de-25-de-julho-de-1985",
+      "titulo": "LEI Nº 9.948 de 25 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-25-9948",
+      "data": "1985-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9943-de-18-de-julho-de-1985",
+      "titulo": "LEI Nº 9.943 de 18 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-18-9943",
+      "data": "1985-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9942-de-18-de-julho-de-1985",
+      "titulo": "LEI Nº 9.942 de 18 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-18-9942",
+      "data": "1985-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9941-de-18-de-julho-de-1985",
+      "titulo": "LEI Nº 9.941 de 18 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-18-9941",
+      "data": "1985-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9945-de-18-de-julho-de-1985",
+      "titulo": "LEI Nº 9.945 de 18 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-18-9945",
+      "data": "1985-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9944-de-18-de-julho-de-1985",
+      "titulo": "LEI Nº 9.944 de 18 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-18-9944",
+      "data": "1985-07-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9940-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.940 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9940",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9937-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.937 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9937",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9935-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.935 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9935",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9934-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.934 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9934",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9933-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.933 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9933",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9932-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.932 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9932",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9931-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.931 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9931",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9930-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.930 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9930",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9939-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.939 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9939",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9938-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.938 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9938",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9936-de-16-de-julho-de-1985",
+      "titulo": "LEI Nº 9.936 de 16 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-16-9936",
+      "data": "1985-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9929-de-15-de-julho-de-1985",
+      "titulo": "LEI Nº 9.929 de 15 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-15-9929",
+      "data": "1985-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9926-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.926 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9926",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9925-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.925 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9925",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9924-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.924 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9924",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9923-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.923 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9923",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9922-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.922 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9922",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9928-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.928 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9928",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9927-de-10-de-julho-de-1985",
+      "titulo": "LEI Nº 9.927 de 10 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-10-9927",
+      "data": "1985-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9921-de-2-de-julho-de-1985",
+      "titulo": "LEI Nº 9.921 de 2 de Julho de 1985",
+      "id": "br-municipal-3550308-lei-1985-07-02-9921",
+      "data": "1985-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9920-de-28-de-junho-de-1985",
+      "titulo": "LEI Nº 9.920 de 28 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-28-9920",
+      "data": "1985-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9919-de-21-de-junho-de-1985",
+      "titulo": "LEI Nº 9.919 de 21 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-21-9919",
+      "data": "1985-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9918-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.918 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9918",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9917-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.917 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9917",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9916-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.916 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9916",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9915-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.915 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9915",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9914-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.914 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9914",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9913-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.913 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9913",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9912-de-18-de-junho-de-1985",
+      "titulo": "LEI Nº 9.912 de 18 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-18-9912",
+      "data": "1985-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9911-de-17-de-junho-de-1985",
+      "titulo": "LEI Nº 9.911 de 17 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-17-9911",
+      "data": "1985-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9910-de-17-de-junho-de-1985",
+      "titulo": "LEI Nº 9.910 de 17 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-17-9910",
+      "data": "1985-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9909-de-17-de-junho-de-1985",
+      "titulo": "LEI Nº 9.909 de 17 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-17-9909",
+      "data": "1985-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9908-de-17-de-junho-de-1985",
+      "titulo": "LEI Nº 9.908 de 17 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-17-9908",
+      "data": "1985-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9907-de-17-de-junho-de-1985",
+      "titulo": "LEI Nº 9.907 de 17 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-17-9907",
+      "data": "1985-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9906-de-14-de-junho-de-1985",
+      "titulo": "LEI Nº 9.906 de 14 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-14-9906",
+      "data": "1985-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9905-de-11-de-junho-de-1985",
+      "titulo": "LEI Nº 9.905 de 11 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-11-9905",
+      "data": "1985-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9904-de-7-de-junho-de-1985",
+      "titulo": "LEI Nº 9.904 de 7 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-07-9904",
+      "data": "1985-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9903-de-7-de-junho-de-1985",
+      "titulo": "LEI Nº 9.903 de 7 de Junho de 1985",
+      "id": "br-municipal-3550308-lei-1985-06-07-9903",
+      "data": "1985-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9902-de-29-de-maio-de-1985",
+      "titulo": "LEI Nº 9.902 de 29 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-29-9902",
+      "data": "1985-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9901-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.901 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9901",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9900-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.900 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9900",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9899-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.899 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9899",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9898-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.898 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9898",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9896-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.896 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9896",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9895-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.895 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9895",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9894-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.894 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9894",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9893-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.893 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9893",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9897-de-24-de-maio-de-1985",
+      "titulo": "LEI Nº 9.897 de 24 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-24-9897",
+      "data": "1985-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9892-de-23-de-maio-de-1985",
+      "titulo": "LEI Nº 9.892 de 23 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-23-9892",
+      "data": "1985-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9891-de-20-de-maio-de-1985",
+      "titulo": "LEI Nº 9.891 de 20 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-20-9891",
+      "data": "1985-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9889-de-13-de-maio-de-1985",
+      "titulo": "LEI Nº 9.889 de 13 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-13-9889",
+      "data": "1985-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9888-de-13-de-maio-de-1985",
+      "titulo": "LEI Nº 9.888 de 13 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-13-9888",
+      "data": "1985-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9890-de-13-de-maio-de-1985",
+      "titulo": "LEI Nº 9.890 de 13 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-13-9890",
+      "data": "1985-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9887-de-6-de-maio-de-1985",
+      "titulo": "LEI Nº 9.887 de 6 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-06-9887",
+      "data": "1985-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9886-de-6-de-maio-de-1985",
+      "titulo": "LEI Nº 9.886 de 6 de Maio de 1985",
+      "id": "br-municipal-3550308-lei-1985-05-06-9886",
+      "data": "1985-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9885-de-24-de-abril-de-1985",
+      "titulo": "LEI Nº 9.885 de 24 de Abril de 1985",
+      "id": "br-municipal-3550308-lei-1985-04-24-9885",
+      "data": "1985-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9884-de-24-de-abril-de-1985",
+      "titulo": "LEI Nº 9.884 de 24 de Abril de 1985",
+      "id": "br-municipal-3550308-lei-1985-04-24-9884",
+      "data": "1985-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9883-de-28-de-marco-de-1985",
+      "titulo": "LEI Nº 9.883 de 28 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-28-9883",
+      "data": "1985-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9882-de-28-de-marco-de-1985",
+      "titulo": "LEI Nº 9.882 de 28 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-28-9882",
+      "data": "1985-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9881-de-28-de-marco-de-1985",
+      "titulo": "LEI Nº 9.881 de 28 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-28-9881",
+      "data": "1985-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9880-de-28-de-marco-de-1985",
+      "titulo": "LEI Nº 9.880 de 28 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-28-9880",
+      "data": "1985-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9879-de-28-de-marco-de-1985",
+      "titulo": "LEI Nº 9.879 de 28 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-28-9879",
+      "data": "1985-03-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9878-de-25-de-marco-de-1985",
+      "titulo": "LEI Nº 9.878 de 25 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-25-9878",
+      "data": "1985-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9877-de-15-de-marco-de-1985",
+      "titulo": "LEI Nº 9.877 de 15 de Março de 1985",
+      "id": "br-municipal-3550308-lei-1985-03-15-9877",
+      "data": "1985-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9876-de-8-de-fevereiro-de-1985",
+      "titulo": "LEI Nº 9.876 de 8 de Fevereiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-02-08-9876",
+      "data": "1985-02-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9875-de-7-de-fevereiro-de-1985",
+      "titulo": "LEI Nº 9.875 de 7 de Fevereiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-02-07-9875",
+      "data": "1985-02-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9874-de-18-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.874 de 18 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-18-9874",
+      "data": "1985-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9873-de-18-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.873 de 18 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-18-9873",
+      "data": "1985-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9872-de-18-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.872 de 18 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-18-9872",
+      "data": "1985-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9871-de-18-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.871 de 18 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-18-9871",
+      "data": "1985-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9870-de-17-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.870 de 17 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-17-9870",
+      "data": "1985-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9869-de-17-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.869 de 17 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-17-9869",
+      "data": "1985-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9868-de-17-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.868 de 17 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-17-9868",
+      "data": "1985-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9867-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.867 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9867",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9866-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.866 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9866",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9865-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.865 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9865",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9864-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.864 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9864",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9863-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.863 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9863",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9862-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.862 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9862",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9861-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.861 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9861",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9860-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.860 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9860",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9859-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.859 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9859",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9858-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.858 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9858",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9857-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.857 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9857",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9856-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.856 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9856",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9855-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.855 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9855",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9854-de-11-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.854 de 11 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-11-9854",
+      "data": "1985-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9853-de-9-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.853 de 9 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-09-9853",
+      "data": "1985-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9852-de-9-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.852 de 9 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-09-9852",
+      "data": "1985-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9851-de-9-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.851 de 9 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-09-9851",
+      "data": "1985-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9850-de-9-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.850 de 9 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-09-9850",
+      "data": "1985-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9849-de-7-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.849 de 7 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-07-9849",
+      "data": "1985-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9848-de-7-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.848 de 7 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-07-9848",
+      "data": "1985-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9847-de-7-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.847 de 7 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-07-9847",
+      "data": "1985-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9845-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.845 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9845",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9844-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.844 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9844",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9839-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.839 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9839",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9837-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.837 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9837",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9836-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.836 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9836",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9846-de-04-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.846 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9846",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9843-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.843 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9843",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9842-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.842 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9842",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9841-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.841 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9841",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9840-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.840 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9840",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9838-de-4-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.838 de 4 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-04-9838",
+      "data": "1985-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9834-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.834 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9834",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9833-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.833 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9833",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9832-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.832 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9832",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9830-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.830 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9830",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9828-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.828 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9828",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9827-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.827 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9827",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9826-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.826 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9826",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9825-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.825 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9825",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9824-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.824 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9824",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9823-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.823 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9823",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9822-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.822 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9822",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9821-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.821 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9821",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9820-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.820 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9820",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9819-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.819 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9819",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9818-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.818 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9818",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9817-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.817 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9817",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9816-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.816 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9816",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9815-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.815 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9815",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9814-de-03-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.814 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9814",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9813-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.813 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9813",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9812-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.812 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9812",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9810-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.810 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9810",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9835-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.835 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9835",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9831-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.831 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9831",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9829-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.829 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9829",
+      "data": "1985-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9811-de-3-de-janeiro-de-1985",
+      "titulo": "LEI Nº 9.811 de 3 de Janeiro de 1985",
+      "id": "br-municipal-3550308-lei-1985-01-03-9811",
+      "data": "1985-01-03"
+    }
+  ],
+  "pendencias": []
+}

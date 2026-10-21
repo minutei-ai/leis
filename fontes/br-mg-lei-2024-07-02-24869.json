@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-07-02-24869",
+  "titulo": "LEI nº 24869, de 02/07/2024",
+  "data": "2024-07-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24869/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24869/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2fbe61e3499b7a9c5b84244bf53a6c882a85938574aae0d57ffb80de6d442cea",
+  "coletado_em": "2026-10-21T08:40:19.810Z",
+  "sha256_fonte": "4fa3b7c702d6d59af470165777a332c9d7298af0086a6d4b6e21f332e220cf8c",
+  "sha256_markdown": "8d535d5850c225ed3378134538d100e44415538966d65e81a7dedfd32469fff5"
+}

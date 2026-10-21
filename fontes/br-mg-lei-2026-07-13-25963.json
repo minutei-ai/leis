@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-13-25963",
+  "titulo": "LEI nº 25963, de 13/07/2026",
+  "data": "2026-07-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25963/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25963/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cec7812c93f0dd59078af029cd703dd9be1b76cfff598d4f38b05f24044e1a42",
+  "coletado_em": "2026-10-21T08:28:19.019Z",
+  "sha256_fonte": "717769dc0b28d186524c41883f5ad63b98b7c311e05c5173d881d0e29f2d2e90",
+  "sha256_markdown": "b88a48525f609852c10c06d3043301354dbd1e53411e4802203fb451b116e0c6"
+}

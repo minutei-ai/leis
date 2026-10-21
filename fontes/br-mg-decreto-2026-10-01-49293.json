@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-10-01-49293",
+  "titulo": "DEC nº 49293, de 01/10/2026",
+  "data": "2026-10-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49293/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49293/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7c035d1aa5b3bf9732a75913c422ff3056206d0fcf083449a33aaa39603f7df0",
+  "coletado_em": "2026-10-21T08:29:34.021Z",
+  "sha256_fonte": "a3ab0a0641067c9d5af46837474e021359ab138164defd7819c54d54af3f71d0",
+  "sha256_markdown": "813916427eb3b89c00bf7d484cdd77fa164e0460993a94910b2f0f3786f8495e"
+}

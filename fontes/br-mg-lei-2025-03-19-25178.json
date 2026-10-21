@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-03-19-25178",
+  "titulo": "LEI nº 25178, de 19/03/2025",
+  "data": "2025-03-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25178/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25178/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f57212c76d13493030685015fa3d58e99d6690c0eebd881cb21ead107709c4fc",
+  "coletado_em": "2026-10-21T08:30:25.494Z",
+  "sha256_fonte": "7f8433f60e806bac4868f89a178f8d7bb7ad41f8d56c94a57a6a1541fe695149",
+  "sha256_markdown": "1c273eff458778b18bf295f56eacd6612feb1d37ec8171d82ec1664ecc7c310e"
+}

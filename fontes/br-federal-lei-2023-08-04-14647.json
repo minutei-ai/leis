@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-04-14647",
+  "titulo": "Lei nº 14.647 de 04/08/2023",
+  "data": "2023-08-04",
+  "fonte": "https://normas.leg.br/api/public/binario/2820776c-21f2-40d1-81cb-fd4e8977918e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-04;14647",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-04%3B14647&tipo_documento=maior-detalhe",
+  "sha256_dados": "14b2e8dbf26468a932630609f3bf17f7170d54d8a59ed3fbb9f43ea663339c6c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:25.959Z",
+  "sha256_fonte": "a6a61b7e1e7f7e1c3c1b38357d7237b5cfa4fd8088934820aaca472ea63002ef",
+  "sha256_markdown": "340d1b20d1f876438bd23b9354a03f41d6c36cad68840488ea3db4e8af112ac6"
+}

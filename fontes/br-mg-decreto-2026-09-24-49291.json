@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-09-24-49291",
+  "titulo": "DEC nº 49291, de 24/09/2026",
+  "data": "2026-09-24",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49291/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49291/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d5765a9c47d908c7b327278d9ceecae22f23d8af8c2b27dccf03ebf7060f8723",
+  "coletado_em": "2026-10-21T08:29:32.705Z",
+  "sha256_fonte": "f2a2298b3e2a95b10969d9c75e09e11df4f61930b9164d86f414b2d1ff48fbfa",
+  "sha256_markdown": "f76bfbff159d3e7c2b15fb28199410b359f417c0273669896edc749b69ad26e4"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-06-25680",
+  "titulo": "LEI nº 25680, de 06/01/2026",
+  "data": "2026-01-06",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25680/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25680/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "27ef535f888cd359fa8f0c3c257f72aa8094a81603f79d5b204fd50d158242f8",
+  "coletado_em": "2026-10-21T08:24:42.285Z",
+  "sha256_fonte": "a6e446b38d26ae25f75978a85034a004f381dd5ba0aa30b949142152dc23d52c",
+  "sha256_markdown": "ce73f1588f9aa042f16e5c7a7cb620ce5fa3b6715e059c4889e2de04c0bc2e9e"
+}

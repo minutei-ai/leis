@@ -1,0 +1,1022 @@
+{
+  "ano_publicacao": 1966,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1966",
+    "ano-final": "31/12/1966",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:46.727Z",
+  "total": 166,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "5490dd7d494e1b4723e3c7bca77c8174510a73ccc753524c48e838c7bdc1562d"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "b1999c983de7595c24d8e9899db2b590bf7a029a62c73443394677448d178612"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6990-de-30-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.990 de 30 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-30-6990",
+      "data": "1966-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6989-de-29-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.989 de 29 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-29-6989",
+      "data": "1966-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6987-de-26-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.987 de 26 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-26-6987",
+      "data": "1966-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6988-de-26-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.988 de 26 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-26-6988",
+      "data": "1966-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6986-de-23-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.986 de 23 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-23-6986",
+      "data": "1966-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6985-de-23-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.985 de 23 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-23-6985",
+      "data": "1966-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6984-de-23-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.984 de 23 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-23-6984",
+      "data": "1966-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6982-de-23-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.982 de 23 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-23-6982",
+      "data": "1966-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6983-de-23-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.983 de 23 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-23-6983",
+      "data": "1966-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6981-de-16-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.981 de 16 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-16-6981",
+      "data": "1966-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6980-de-16-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.980 de 16 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-16-6980",
+      "data": "1966-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6979-de-16-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.979 de 16 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-16-6979",
+      "data": "1966-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6978-de-16-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.978 de 16 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-16-6978",
+      "data": "1966-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6977-de-14-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.977 de 14 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-14-6977",
+      "data": "1966-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6976-de-14-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.976 de 14 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-14-6976",
+      "data": "1966-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6975-de-12-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.975 de 12 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-12-6975",
+      "data": "1966-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6973-de-7-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.973 de 7 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-07-6973",
+      "data": "1966-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6972-de-7-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.972 de 7 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-07-6972",
+      "data": "1966-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6971-de-7-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.971 de 7 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-07-6971",
+      "data": "1966-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6974-de-7-de-dezembro-de-1966",
+      "titulo": "LEI Nº 6.974 de 7 de Dezembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-12-07-6974",
+      "data": "1966-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6969-de-28-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.969 de 28 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-28-6969",
+      "data": "1966-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6968-de-28-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.968 de 28 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-28-6968",
+      "data": "1966-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6970-de-28-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.970 de 28 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-28-6970",
+      "data": "1966-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6967-de-24-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.967 de 24 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-24-6967",
+      "data": "1966-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6966-de-24-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.966 de 24 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-24-6966",
+      "data": "1966-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6965-de-16-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.965 de 16 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-16-6965",
+      "data": "1966-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6964-de-16-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.964 de 16 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-16-6964",
+      "data": "1966-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6963-de-10-de-novembro-de-1966",
+      "titulo": "LEI Nº 6.963 de 10 de Novembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-11-10-6963",
+      "data": "1966-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6962-de-27-de-outubro-de-1966",
+      "titulo": "LEI Nº 6.962 de 27 de Outubro de 1966",
+      "id": "br-municipal-3550308-lei-1966-10-27-6962",
+      "data": "1966-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6961-de-24-de-outubro-de-1966",
+      "titulo": "LEI Nº 6.961 de 24 de Outubro de 1966",
+      "id": "br-municipal-3550308-lei-1966-10-24-6961",
+      "data": "1966-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6960-de-17-de-outubro-de-1966",
+      "titulo": "LEI Nº 6.960 de 17 de Outubro de 1966",
+      "id": "br-municipal-3550308-lei-1966-10-17-6960",
+      "data": "1966-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6959-de-12-de-outubro-de-1966",
+      "titulo": "LEI Nº 6.959 de 12 de Outubro de 1966",
+      "id": "br-municipal-3550308-lei-1966-10-12-6959",
+      "data": "1966-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6958-de-12-de-outubro-de-1966",
+      "titulo": "LEI Nº 6.958 de 12 de Outubro de 1966",
+      "id": "br-municipal-3550308-lei-1966-10-12-6958",
+      "data": "1966-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6957-de-7-de-outubro-de-1966",
+      "titulo": "LEI Nº 6.957 de 7 de Outubro de 1966",
+      "id": "br-municipal-3550308-lei-1966-10-07-6957",
+      "data": "1966-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6956-de-28-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.956 de 28 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-28-6956",
+      "data": "1966-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6955-de-27-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.955 de 27 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-27-6955",
+      "data": "1966-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6954-de-23-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.954 de 23 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-23-6954",
+      "data": "1966-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6953-de-21-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.953 de 21 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-21-6953",
+      "data": "1966-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6952-de-19-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.952 de 19 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-19-6952",
+      "data": "1966-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6951-de-16-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.951 de 16 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-16-6951",
+      "data": "1966-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6950-de-16-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.950 de 16 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-16-6950",
+      "data": "1966-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6949-de-16-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.949 de 16 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-16-6949",
+      "data": "1966-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6948-de-14-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.948 de 14 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-14-6948",
+      "data": "1966-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6947-de-14-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.947 de 14 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-14-6947",
+      "data": "1966-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6946-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.946 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6946",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6945-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.945 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6945",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6944-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.944 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6944",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6943-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.943 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6943",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6942-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.942 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6942",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6941-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.941 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6941",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6940-de-9-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.940 de 9 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-09-6940",
+      "data": "1966-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6938-de-6-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.938 de 6 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-06-6938",
+      "data": "1966-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6939-de-5-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.939 de 5 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-05-6939",
+      "data": "1966-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6937-de-5-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.937 de 5 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-05-6937",
+      "data": "1966-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6936-de-2-de-setembro-de-1966",
+      "titulo": "LEI Nº 6.936 de 2 de Setembro de 1966",
+      "id": "br-municipal-3550308-lei-1966-09-02-6936",
+      "data": "1966-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6935-de-31-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.935 de 31 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-31-6935",
+      "data": "1966-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6934-de-31-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.934 de 31 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-31-6934",
+      "data": "1966-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6933-de-26-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.933 de 26 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-26-6933",
+      "data": "1966-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6931-de-18-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.931 de 18 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-18-6931",
+      "data": "1966-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6930-de-18-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.930 de 18 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-18-6930",
+      "data": "1966-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6929-de-18-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.929 de 18 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-18-6929",
+      "data": "1966-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6928-de-18-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.928 de 18 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-18-6928",
+      "data": "1966-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6932-de-18-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.932 de 18 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-18-6932",
+      "data": "1966-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6927-de-12-de-agosto-de-1966",
+      "titulo": "LEI Nº 6.927 de 12 de Agosto de 1966",
+      "id": "br-municipal-3550308-lei-1966-08-12-6927",
+      "data": "1966-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6926-de-11-de-julho-de-1966",
+      "titulo": "LEI Nº 6.926 de 11 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-11-6926",
+      "data": "1966-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6924-de-8-de-julho-de-1966",
+      "titulo": "LEI Nº 6.924 de 8 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-08-6924",
+      "data": "1966-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6923-de-8-de-julho-de-1966",
+      "titulo": "LEI Nº 6.923 de 8 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-08-6923",
+      "data": "1966-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6922-de-8-de-julho-de-1966",
+      "titulo": "LEI Nº 6.922 de 8 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-08-6922",
+      "data": "1966-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6921-de-8-de-julho-de-1966",
+      "titulo": "LEI Nº 6.921 de 8 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-08-6921",
+      "data": "1966-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6920-de-8-de-julho-de-1966",
+      "titulo": "LEI Nº 6.920 de 8 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-08-6920",
+      "data": "1966-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6925-de-8-de-julho-de-1966",
+      "titulo": "LEI Nº 6.925 de 8 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-08-6925",
+      "data": "1966-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6919-de-6-de-julho-de-1966",
+      "titulo": "LEI Nº 6.919 de 6 de Julho de 1966",
+      "id": "br-municipal-3550308-lei-1966-07-06-6919",
+      "data": "1966-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6918-de-28-de-junho-de-1966",
+      "titulo": "LEI Nº 6.918 de 28 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-28-6918",
+      "data": "1966-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6917-de-28-de-junho-de-1966",
+      "titulo": "LEI Nº 6.917 de 28 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-28-6917",
+      "data": "1966-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6916-de-28-de-junho-de-1966",
+      "titulo": "LEI Nº 6.916 de 28 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-28-6916",
+      "data": "1966-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6915-de-24-de-junho-de-1966",
+      "titulo": "LEI Nº 6.915 de 24 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-24-6915",
+      "data": "1966-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6914-de-21-de-junho-de-1966",
+      "titulo": "LEI Nº 6.914 de 21 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-21-6914",
+      "data": "1966-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6913-de-16-de-junho-de-1966",
+      "titulo": "LEI Nº 6.913 de 16 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-16-6913",
+      "data": "1966-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6912-de-16-de-junho-de-1966",
+      "titulo": "LEI Nº 6.912 de 16 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-16-6912",
+      "data": "1966-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6911-de-16-de-junho-de-1966",
+      "titulo": "LEI Nº 6.911 de 16 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-16-6911",
+      "data": "1966-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6910-de-16-de-junho-de-1966",
+      "titulo": "LEI Nº 6.910 de 16 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-16-6910",
+      "data": "1966-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6909-de-13-de-junho-de-1966",
+      "titulo": "LEI Nº 6.909 de 13 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-13-6909",
+      "data": "1966-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6908-de-13-de-junho-de-1966",
+      "titulo": "LEI Nº 6.908 de 13 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-13-6908",
+      "data": "1966-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6907-de-6-de-junho-de-1966",
+      "titulo": "LEI Nº 6.907 de 6 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-06-6907",
+      "data": "1966-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6906-de-6-de-junho-de-1966",
+      "titulo": "LEI Nº 6.906 de 6 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-06-6906",
+      "data": "1966-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6905-de-3-de-junho-de-1966",
+      "titulo": "LEI Nº 6.905 de 3 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-03-6905",
+      "data": "1966-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6904-de-1-de-junho-de-1966",
+      "titulo": "LEI Nº 6.904 de 1 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-01-6904",
+      "data": "1966-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6903-de-1-de-junho-de-1966",
+      "titulo": "LEI Nº 6.903 de 1 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-01-6903",
+      "data": "1966-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6902-de-1-de-junho-de-1966",
+      "titulo": "LEI Nº 6.902 de 1 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-01-6902",
+      "data": "1966-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6901-de-1-de-junho-de-1966",
+      "titulo": "LEI Nº 6.901 de 1 de Junho de 1966",
+      "id": "br-municipal-3550308-lei-1966-06-01-6901",
+      "data": "1966-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6900-de-31-de-maio-de-1966",
+      "titulo": "LEI Nº 6.900 de 31 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-31-6900",
+      "data": "1966-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6896-de-27-de-maio-de-1966",
+      "titulo": "LEI Nº 6.896 de 27 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-27-6896",
+      "data": "1966-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6899-de-25-de-maio-de-1966",
+      "titulo": "LEI Nº 6.899 de 25 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-25-6899",
+      "data": "1966-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6898-de-25-de-maio-de-1966",
+      "titulo": "LEI Nº 6.898 de 25 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-25-6898",
+      "data": "1966-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6897-de-25-de-maio-de-1966",
+      "titulo": "LEI Nº 6.897 de 25 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-25-6897",
+      "data": "1966-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6895-de-25-de-maio-de-1966",
+      "titulo": "LEI Nº 6.895 de 25 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-25-6895",
+      "data": "1966-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6894-de-20-de-maio-de-1966",
+      "titulo": "LEI Nº 6.894 de 20 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-20-6894",
+      "data": "1966-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6893-de-20-de-maio-de-1966",
+      "titulo": "LEI Nº 6.893 de 20 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-20-6893",
+      "data": "1966-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6892-de-20-de-maio-de-1966",
+      "titulo": "LEI Nº 6.892 de 20 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-20-6892",
+      "data": "1966-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6890-de-20-de-maio-de-1966",
+      "titulo": "LEI Nº 6.890 de 20 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-20-6890",
+      "data": "1966-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6891-de-20-de-maio-de-1966",
+      "titulo": "LEI Nº 6.891 de 20 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-20-6891",
+      "data": "1966-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6889-de-20-de-maio-de-1966",
+      "titulo": "LEI Nº 6.889 de 20 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-20-6889",
+      "data": "1966-05-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6883-de-18-de-maio-de-1966",
+      "titulo": "LEI Nº 6.883 de 18 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-18-6883",
+      "data": "1966-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6882-de-18-de-maio-de-1966",
+      "titulo": "LEI Nº 6.882 de 18 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-18-6882",
+      "data": "1966-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6888-de-17-de-maio-de-1966",
+      "titulo": "LEI Nº 6.888 de 17 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-17-6888",
+      "data": "1966-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6887-de-16-de-maio-de-1966",
+      "titulo": "LEI Nº 6.887 de 16 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-16-6887",
+      "data": "1966-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6886-de-16-de-maio-de-1966",
+      "titulo": "LEI Nº 6.886 de 16 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-16-6886",
+      "data": "1966-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6885-de-16-de-maio-de-1966",
+      "titulo": "LEI Nº 6.885 de 16 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-16-6885",
+      "data": "1966-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6884-de-16-de-maio-de-1966",
+      "titulo": "LEI Nº 6.884 de 16 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-16-6884",
+      "data": "1966-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6877-de-11-de-maio-de-1966",
+      "titulo": "LEI Nº 6.877 de 11 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-11-6877",
+      "data": "1966-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6881-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.881 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6881",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6880-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.880 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6880",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6879-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.879 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6879",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6878-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.878 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6878",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6876-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.876 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6876",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6875-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.875 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6875",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6874-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.874 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6874",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6873-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.873 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6873",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6872-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.872 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6872",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6871-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.871 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6871",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6870-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.870 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6870",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6869-de-10-de-maio-de-1966",
+      "titulo": "LEI Nº 6.869 de 10 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-10-6869",
+      "data": "1966-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6868-de-5-de-maio-de-1966",
+      "titulo": "LEI Nº 6.868 de 5 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-05-6868",
+      "data": "1966-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6867-de-5-de-maio-de-1966",
+      "titulo": "LEI Nº 6.867 de 5 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-05-6867",
+      "data": "1966-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6866-de-5-de-maio-de-1966",
+      "titulo": "LEI Nº 6.866 de 5 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-05-6866",
+      "data": "1966-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6865-de-5-de-maio-de-1966",
+      "titulo": "LEI Nº 6.865 de 5 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-05-6865",
+      "data": "1966-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6864-de-5-de-maio-de-1966",
+      "titulo": "LEI Nº 6.864 de 5 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-05-6864",
+      "data": "1966-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6863-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.863 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6863",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6861-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.861 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6861",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6860-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.860 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6860",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6859-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.859 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6859",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6858-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.858 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6858",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6852-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.852 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6852",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6851-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.851 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6851",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6850-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.850 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6850",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6849-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.849 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6849",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6848-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.848 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6848",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6862-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.862 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6862",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6847-de-2-de-maio-de-1966",
+      "titulo": "LEI Nº 6.847 de 2 de Maio de 1966",
+      "id": "br-municipal-3550308-lei-1966-05-02-6847",
+      "data": "1966-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6857-de-29-de-abril-de-1966",
+      "titulo": "LEI Nº 6.857 de 29 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-29-6857",
+      "data": "1966-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6856-de-29-de-abril-de-1966",
+      "titulo": "LEI Nº 6.856 de 29 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-29-6856",
+      "data": "1966-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6855-de-29-de-abril-de-1966",
+      "titulo": "LEI Nº 6.855 de 29 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-29-6855",
+      "data": "1966-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6854-de-29-de-abril-de-1966",
+      "titulo": "LEI Nº 6.854 de 29 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-29-6854",
+      "data": "1966-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6853-de-29-de-abril-de-1966",
+      "titulo": "LEI Nº 6.853 de 29 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-29-6853",
+      "data": "1966-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6843-de-28-de-abril-de-1966",
+      "titulo": "LEI Nº 6.843 de 28 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-28-6843",
+      "data": "1966-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6842-de-28-de-abril-de-1966",
+      "titulo": "LEI Nº 6.842 de 28 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-28-6842",
+      "data": "1966-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6841-de-28-de-abril-de-1966",
+      "titulo": "LEI Nº 6.841 de 28 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-28-6841",
+      "data": "1966-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6840-de-28-de-abril-de-1966",
+      "titulo": "LEI Nº 6.840 de 28 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-28-6840",
+      "data": "1966-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6846-de-27-de-abril-de-1966",
+      "titulo": "LEI Nº 6.846 de 27 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-27-6846",
+      "data": "1966-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6845-de-27-de-abril-de-1966",
+      "titulo": "LEI Nº 6.845 de 27 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-27-6845",
+      "data": "1966-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6844-de-27-de-abril-de-1966",
+      "titulo": "LEI Nº 6.844 de 27 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-27-6844",
+      "data": "1966-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6839-de-27-de-abril-de-1966",
+      "titulo": "LEI Nº 6.839 de 27 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-27-6839",
+      "data": "1966-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6838-de-27-de-abril-de-1966",
+      "titulo": "LEI Nº 6.838 de 27 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-27-6838",
+      "data": "1966-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6837-de-26-de-abril-de-1966",
+      "titulo": "LEI Nº 6.837 de 26 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-26-6837",
+      "data": "1966-04-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6836-de-11-de-abril-de-1966",
+      "titulo": "LEI Nº 6.836 de 11 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-11-6836",
+      "data": "1966-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6835-de-11-de-abril-de-1966",
+      "titulo": "LEI Nº 6.835 de 11 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-11-6835",
+      "data": "1966-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6834-de-11-de-abril-de-1966",
+      "titulo": "LEI Nº 6.834 de 11 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-11-6834",
+      "data": "1966-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6833-de-4-de-abril-de-1966",
+      "titulo": "LEI Nº 6.833 de 4 de Abril de 1966",
+      "id": "br-municipal-3550308-lei-1966-04-04-6833",
+      "data": "1966-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6832-de-29-de-marco-de-1966",
+      "titulo": "LEI Nº 6.832 de 29 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-29-6832",
+      "data": "1966-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6831-de-29-de-marco-de-1966",
+      "titulo": "LEI Nº 6.831 de 29 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-29-6831",
+      "data": "1966-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6829-de-29-de-marco-de-1966",
+      "titulo": "LEI Nº 6.829 de 29 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-29-6829",
+      "data": "1966-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6830-de-29-de-marco-de-1966",
+      "titulo": "LEI Nº 6.830 de 29 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-29-6830",
+      "data": "1966-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6828-de-29-de-marco-de-1966",
+      "titulo": "LEI Nº 6.828 de 29 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-29-6828",
+      "data": "1966-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6827-de-21-de-marco-de-1966",
+      "titulo": "LEI Nº 6.827 de 21 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-21-6827",
+      "data": "1966-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6826-de-21-de-marco-de-1966",
+      "titulo": "LEI Nº 6.826 de 21 de Março de 1966",
+      "id": "br-municipal-3550308-lei-1966-03-21-6826",
+      "data": "1966-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6825-de-7-de-janeiro-de-1966",
+      "titulo": "LEI Nº 6.825 de 7 de Janeiro de 1966",
+      "id": "br-municipal-3550308-lei-1966-01-07-6825",
+      "data": "1966-01-07"
+    }
+  ],
+  "pendencias": []
+}

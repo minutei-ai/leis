@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-23-14501",
+  "titulo": "Lei nº 14.501 de 23/12/2022",
+  "data": "2022-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/61a5e88c-438c-495b-a1b2-d9efb539e0bd/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-23;14501",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-23%3B14501&tipo_documento=maior-detalhe",
+  "sha256_dados": "822e4af79f67c517869002b43748fb94bd957ece8a9cab7b0c0bf439b4c5d414",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:45.192Z",
+  "sha256_fonte": "e510b857486f707d7837e04fca89b85deea0c94df62508f341454a768a18b0cc",
+  "sha256_markdown": "554337c39f4cd42e498ed678fa2756ba1bd9d77db42f13d1336ea194b033a9b7"
+}

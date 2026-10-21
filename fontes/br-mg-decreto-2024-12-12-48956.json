@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-12-12-48956",
+  "titulo": "DEC nº 48956, de 12/12/2024",
+  "data": "2024-12-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48956/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48956/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "81c70c8c79f227abddb31307b5e645f0f11a7af1369499392bedf813ed1cd404",
+  "coletado_em": "2026-10-21T08:42:58.186Z",
+  "sha256_fonte": "f651e5b60a0ef15a07b50129c714322fa34df8735bf461e0c66e1db6caa6fb34",
+  "sha256_markdown": "14231c90117b3556b88b84d53c21dec0e48f160a42609e3cca97a6ab675fbe53"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-27-13972",
+  "titulo": "Lei nº 13.972 de 27/12/2019",
+  "data": "2019-12-27",
+  "fonte": "https://normas.leg.br/api/public/binario/6e930ec6-035b-4701-8984-edb081f11f4b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-27;13972",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-27%3B13972&tipo_documento=maior-detalhe",
+  "sha256_dados": "aa51173d325b95f75cee7fb76f41e6f9812b50cc3fa253dfe2b2352e44cc0b79",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:01.541Z",
+  "sha256_fonte": "b4d47a452e332e722c4ac15fd11d233cedb9da62212becd45a585ea26590f4c4",
+  "sha256_markdown": "c807dbd65487530ef21628d9eaf36294341fcc6f83cbe3de6611a90dad176d2f"
+}

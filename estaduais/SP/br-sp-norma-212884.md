@@ -1,0 +1,40 @@
+---
+id: "br-sp-norma-212884"
+titulo: "Decreto nº 70.792, de 11/08/2026"
+data: "2026-08-11"
+fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70792-11.08.2026.html"
+versao: "publicação original disponibilizada pela Alesp"
+dados: "https://baleg-api-prd.al.sp.gov.br/norma/212884"
+sha256_dados: "ea47400b6a613d61dd43636c01e498c61486eb5b797a7f4c4c0717d25338a999"
+coletado_em: "2026-10-21T08:38:16.133Z"
+sha256_fonte: "fb0e4e1389b4ab7c97fed888cc508166cec0eca1b094cd5400277f5cf58a5902"
+sha256_markdown: "32173ab70e1262624eccac6f51aab09f26c46584d5554002a76be0945693c56c"
+---
+
+# Decreto nº 70.792, de 11/08/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212884)<br>
+
+# DECRETO N° 70.792, DE 11 DE AGOSTO DE 2026
+
+### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas de Capital.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 18.178, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211200), e na [Lei n° 18.387, de 6 de janeiro de 2026](https://www.al.sp.gov.br/norma/212096),
+
+Decreta:
+
+**Artigo 1° -** Fica aberto um crédito de R$ 295.780.000,00 (duzentos e noventa e cinco milhões setecentos e oitenta mil reais), suplementar ao orçamento da Secretaria de Parcerias em Investimentos, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.
+
+**Artigo 2° -** O crédito aberto pelo artigo anterior será coberto com recursos a que alude o inciso I, do § 1°, do artigo 43, da Lei federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.
+
+**Artigo 3° -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 8°, do [Decreto n° 70.333, de 12 de janeiro de 2026](https://www.al.sp.gov.br/norma/212159), de conformidade com a Tabela 2, anexa.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Nerylson Lima da Silva
+
+Samuel Yoshiaki Oliveira Kinoshita
+
+![](/repositorio/legislacao/decreto/2026/2026081208273938946.png)

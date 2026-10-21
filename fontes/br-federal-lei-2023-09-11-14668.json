@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-09-11-14668",
+  "titulo": "Lei nº 14.668 de 11/09/2023",
+  "data": "2023-09-11",
+  "fonte": "https://normas.leg.br/api/public/binario/dfa747d3-d914-478e-9bd9-3f8f3eb2ef02/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-09-11;14668",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-09-11%3B14668&tipo_documento=maior-detalhe",
+  "sha256_dados": "34afa3ec2da772ed7fa8ae1478f8f680be9d547eabe38c285aca0598ba16462e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:54.010Z",
+  "sha256_fonte": "10c56313fdd86aa1b083196fe52d8ede976d250f43a57e30276f041d320087dc",
+  "sha256_markdown": "b6f05639d6f7344e87944bc92a859a63386a121506d64832cb768f9a096517c5"
+}

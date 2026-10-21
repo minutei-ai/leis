@@ -1,0 +1,3989 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2020",
+  "tipo": "DEC",
+  "ano": 2020,
+  "coletado_em": "2026-10-21T08:44:10.922Z",
+  "normas": [
+    {
+      "senadoId": "33038772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-29-10594",
+      "titulo": "Decreto nº 10.594 de 29/12/2020",
+      "data": "2020-12-29",
+      "numero": "10594",
+      "urn": "urn:lex:br:federal:decreto:2020-12-29;10594",
+      "ementa": "Prorroga, de ofício, a vigência de convênios, contratos de repasse, termos de fomento, termos de colaboração, termos de parceria, termos de compromisso e outros instrumentos congêneres, celebrados pelos órgãos e entidades da administração pública federal para transferências de recursos da União."
+    },
+    {
+      "senadoId": "32999891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-24-10593",
+      "titulo": "Decreto nº 10.593 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "10593",
+      "urn": "urn:lex:br:federal:decreto:2020-12-24;10593",
+      "ementa": "Dispõe sobre a organização e o funcionamento do Sistema Nacional de Proteção e Defesa Civil e do Conselho Nacional de Proteção e Defesa Civil e sobre o Plano Nacional de Proteção e Defesa Civil e o Sistema Nacional de Informações sobre Desastres."
+    },
+    {
+      "senadoId": "32996494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-24-10588",
+      "titulo": "Decreto nº 10.588 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "10588",
+      "urn": "urn:lex:br:federal:decreto:2020-12-24;10588",
+      "ementa": "Dispõe sobre o apoio técnico e financeiro de que trata o art. 13 da Lei nº 14.026, de 15 de julho de 2020, sobre a alocação de recursos públicos federais e os financiamentos com recursos da União ou geridos ou operados por órgãos ou entidades da União de que trata o art. 50 da Lei nº 11.445, de 5 de janeiro de 2007."
+    },
+    {
+      "senadoId": "32999529",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-24-10591",
+      "titulo": "Decreto nº 10.591 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "10591",
+      "urn": "urn:lex:br:federal:decreto:2020-12-24;10591",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Governo da Presidência da República e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32996530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-24-10589",
+      "titulo": "Decreto nº 10.589 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "10589",
+      "urn": "urn:lex:br:federal:decreto:2020-12-24;10589",
+      "ementa": "Cria a empresa pública NAV Brasil Serviços de Navegação Aérea S.A."
+    },
+    {
+      "senadoId": "32999666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-24-10592",
+      "titulo": "Decreto nº 10.592 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "10592",
+      "urn": "urn:lex:br:federal:decreto:2020-12-24;10592",
+      "ementa": "Regulamenta a Lei nº 11.952, de 25 de junho de 2009, para dispor sobre a regularização fundiária das áreas rurais situadas em terras da União, no âmbito da Amazônia Legal, e em terras do Instituto Nacional de Colonização e Reforma Agrária, por meio de alienação\ne concessão de direito real de uso de imóveis."
+    },
+    {
+      "senadoId": "32996566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-24-10590",
+      "titulo": "Decreto nº 10.590 de 24/12/2020",
+      "data": "2020-12-24",
+      "numero": "10590",
+      "urn": "urn:lex:br:federal:decreto:2020-12-24;10590",
+      "ementa": "Concede indulto natalino e dá outras providências."
+    },
+    {
+      "senadoId": "32991396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10579",
+      "titulo": "Decreto nº 10.579 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10579",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10579",
+      "ementa": "Estabelece regras para a inscrição de restos a pagar das despesas de que trata o art. 5º da Emenda Constitucional nº 106, de 7 de maio de 2020, e dá outras providências."
+    },
+    {
+      "senadoId": "32991872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10582",
+      "titulo": "Decreto nº 10.582 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10582",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10582",
+      "ementa": "Altera o Decreto nº 9.783, de 7 de maio de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados - SUSEP, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32991661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10581",
+      "titulo": "Decreto nº 10.581 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10581",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10581",
+      "ementa": "Altera o Decreto nº 9.982, de 20 de agosto de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria-Geral da Presidência da República e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32992440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10586",
+      "titulo": "Decreto nº 10.586 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10586",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10586",
+      "ementa": "Regulamenta a Lei nº 10.711, de 5 de agosto de 2003, que dispõe sobre o Sistema Nacional de Sementes e Mudas."
+    },
+    {
+      "senadoId": "32991550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10580",
+      "titulo": "Decreto nº 10.580 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10580",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10580",
+      "ementa": "Altera o Decreto nº 10.077, de 18 de outubro de 2019, que remaneja, em caráter temporário, cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Função Comissionada do Poder Executivo - FCPE para a Fundação Instituto Brasileiro de Geografia e Estatística - IBGE e transforma funções de confiança."
+    },
+    {
+      "senadoId": "32992198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10584",
+      "titulo": "Decreto nº 10.584 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10584",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10584",
+      "ementa": "Altera o Decreto nº 9.895, de 27 de junho de 2019, que dispõe sobre a Comissão de Ética dos Agentes Públicos da Presidência e da Vice-Presidência da República."
+    },
+    {
+      "senadoId": "32992012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10583",
+      "titulo": "Decreto nº 10.583 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10583",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10583",
+      "ementa": "Altera o Decreto nº 10.382, de 28 de maio de 2020, que institui o Programa de Gestão Estratégica e Transformação do Estado, no âmbito da administração pública federal direta, autárquica e fundacional, para dispor sobre remanejamento temporário de funções de confiança."
+    },
+    {
+      "senadoId": "32992800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10587",
+      "titulo": "Decreto nº 10.587 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10587",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10587",
+      "ementa": "Altera o Decreto nº 5.231, de 6 de outubro de 2004, que dispõe sobre os princípios a serem observados pela administração pública federal na criação, organização e exploração de Terminais Pesqueiros Públicos."
+    },
+    {
+      "senadoId": "32992321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-18-10585",
+      "titulo": "Decreto nº 10.585 de 18/12/2020",
+      "data": "2020-12-18",
+      "numero": "10585",
+      "urn": "urn:lex:br:federal:decreto:2020-12-18;10585",
+      "ementa": "Revoga o § 1º do art. 6º do Decreto nº 90.922, de 6 de fevereiro de 1985, que dispõe sobre o exercício da profissão de técnico industrial e técnico agrícola de nível médio ou de 2º grau."
+    },
+    {
+      "senadoId": "32979250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-15-10578",
+      "titulo": "Decreto nº 10.578 de 15/12/2020",
+      "data": "2020-12-15",
+      "numero": "10578",
+      "urn": "urn:lex:br:federal:decreto:2020-12-15;10578",
+      "ementa": "Dispõe sobre a dissolução societária do Centro Nacional de Tecnologia Eletrônica Avançada S.A. e a publicização das atividades direcionadas à pesquisa científica, ao desenvolvimento tecnológico e à inovação no setor de microeletrônica."
+    },
+    {
+      "senadoId": "32974030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-14-10577",
+      "titulo": "Decreto nº 10.577 de 14/12/2020",
+      "data": "2020-12-14",
+      "numero": "10577",
+      "urn": "urn:lex:br:federal:decreto:2020-12-14;10577",
+      "ementa": "Altera o Decreto nº 2.413, de 4 de dezembro de 1997, que dispõe sobre as atribuições da Comissão Nacional de Energia Nuclear nas atividades de industrialização, importação e exportação de minerais e minérios de lítio e seus derivados."
+    },
+    {
+      "senadoId": "32974326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-14-10576",
+      "titulo": "Decreto nº 10.576 de 14/12/2020",
+      "data": "2020-12-14",
+      "numero": "10576",
+      "urn": "urn:lex:br:federal:decreto:2020-12-14;10576",
+      "ementa": "Dispõe sobre a cessão de uso de espaços físicos em corpos d'água de domínio da União para a prática da aquicultura."
+    },
+    {
+      "senadoId": "32974252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-14-10574",
+      "titulo": "Decreto nº 10.574 de 14/12/2020",
+      "data": "2020-12-14",
+      "numero": "10574",
+      "urn": "urn:lex:br:federal:decreto:2020-12-14;10574",
+      "ementa": "Altera o Decreto nº 9.944, de 30 de julho de 2019, que dispõe sobre o Conselho Nacional do Trabalho e institui a Comissão Tripartite Paritária Permanente."
+    },
+    {
+      "senadoId": "32974104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-14-10575",
+      "titulo": "Decreto nº 10.575 de 14/12/2020",
+      "data": "2020-12-14",
+      "numero": "10575",
+      "urn": "urn:lex:br:federal:decreto:2020-12-14;10575",
+      "ementa": "Distribui o efetivo de Oficiais e Praças do Exército em tempo de paz para o ano de 2021."
+    },
+    {
+      "senadoId": "32974178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-14-10573",
+      "titulo": "Decreto nº 10.573 de 14/12/2020",
+      "data": "2020-12-14",
+      "numero": "10573",
+      "urn": "urn:lex:br:federal:decreto:2020-12-14;10573",
+      "ementa": "Dispõe sobre as linhas gerais dos órgãos da Polícia Civil do Distrito Federal."
+    },
+    {
+      "senadoId": "32971642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-11-10572",
+      "titulo": "Decreto nº 10.572 de 11/12/2020",
+      "data": "2020-12-11",
+      "numero": "10572",
+      "urn": "urn:lex:br:federal:decreto:2020-12-11;10572",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF."
+    },
+    {
+      "senadoId": "32967095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-09-10570",
+      "titulo": "Decreto nº 10.570 de 09/12/2020",
+      "data": "2020-12-09",
+      "numero": "10570",
+      "urn": "urn:lex:br:federal:decreto:2020-12-09;10570",
+      "ementa": "Institui a Estratégia Nacional de Fortalecimento dos Vínculos Familiares e o seu Comitê Interministerial."
+    },
+    {
+      "senadoId": "32966947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-09-10568",
+      "titulo": "Decreto nº 10.568 de 09/12/2020",
+      "data": "2020-12-09",
+      "numero": "10568",
+      "urn": "urn:lex:br:federal:decreto:2020-12-09;10568",
+      "ementa": "Institui o Comitê Intersetorial do Plano Nacional de Enfrentamento ao Feminicídio."
+    },
+    {
+      "senadoId": "32966850",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-09-10567",
+      "titulo": "Decreto nº 10.567 de 09/12/2020",
+      "data": "2020-12-09",
+      "numero": "10567",
+      "urn": "urn:lex:br:federal:decreto:2020-12-09;10567",
+      "ementa": "Revoga o Decreto nº 10.563, de 7 de dezembro de 2020, que altera o Decreto nº 3.998, de 5 de novembro de 2001, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972."
+    },
+    {
+      "senadoId": "32967169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-09-10571",
+      "titulo": "Decreto nº 10.571 de 09/12/2020",
+      "data": "2020-12-09",
+      "numero": "10571",
+      "urn": "urn:lex:br:federal:decreto:2020-12-09;10571",
+      "ementa": "Dispõe sobre a apresentação e a análise das declarações de bens e de situações que possam gerar conflito de interesses por agentes públicos civis da administração pública federal."
+    },
+    {
+      "senadoId": "32967021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-09-10569",
+      "titulo": "Decreto nº 10.569 de 09/12/2020",
+      "data": "2020-12-09",
+      "numero": "10569",
+      "urn": "urn:lex:br:federal:decreto:2020-12-09;10569",
+      "ementa": "Aprova a Estratégia Nacional de Segurança de Infraestruturas Críticas."
+    },
+    {
+      "senadoId": "32964785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-08-10565",
+      "titulo": "Decreto nº 10.565 de 08/12/2020",
+      "data": "2020-12-08",
+      "numero": "10565",
+      "urn": "urn:lex:br:federal:decreto:2020-12-08;10565",
+      "ementa": "Dispõe sobre a qualificação do leilão de instalações de transmissão nº 1 de 2020 no âmbito do Programa de Parcerias de Investimentos da Presidência da República e a exclusão de usinas hidrelétricas do referido Programa."
+    },
+    {
+      "senadoId": "32964859",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-08-10566",
+      "titulo": "Decreto nº 10.566 de 08/12/2020",
+      "data": "2020-12-08",
+      "numero": "10566",
+      "urn": "urn:lex:br:federal:decreto:2020-12-08;10566",
+      "ementa": "Institui o Comitê Integrado de Governança da Presidência da República."
+    },
+    {
+      "senadoId": "32961967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-07-10563",
+      "titulo": "Decreto nº 10.563 de 07/12/2020",
+      "data": "2020-12-07",
+      "numero": "10563",
+      "urn": "urn:lex:br:federal:decreto:2020-12-07;10563",
+      "ementa": "Altera o Decreto nº 3.998, de 5 de novembro de 2001, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas."
+    },
+    {
+      "senadoId": "32961893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-07-10562",
+      "titulo": "Decreto nº 10.562 de 07/12/2020",
+      "data": "2020-12-07",
+      "numero": "10562",
+      "urn": "urn:lex:br:federal:decreto:2020-12-07;10562",
+      "ementa": "Altera o Decreto nº 9.681, de 3 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Controladoria-Geral da União, remaneja cargos em comissão e funções de confiança e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "32962041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-07-10564",
+      "titulo": "Decreto nº 10.564 de 07/12/2020",
+      "data": "2020-12-07",
+      "numero": "10564",
+      "urn": "urn:lex:br:federal:decreto:2020-12-07;10564",
+      "ementa": "Altera o Decreto nº 9.217, de 4 de dezembro de 2017, que dispõe sobre a composição, o funcionamento e a competência do Conselho de Participação no Fundo de Apoio à Estruturação e ao Desenvolvimento de Projetos de Concessão e Parcerias Público-Privadas da União, dos Estados, do Distrito Federal e dos Municípios e autoriza a União a proceder à integralização de cotas em fundo administrado pela Caixa Econômica Federal."
+    },
+    {
+      "senadoId": "32957718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-03-10560",
+      "titulo": "Decreto nº 10.560 de 03/12/2020",
+      "data": "2020-12-03",
+      "numero": "10560",
+      "urn": "urn:lex:br:federal:decreto:2020-12-03;10560",
+      "ementa": "Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais para o exercício financeiro de 2021 e dá outras providências."
+    },
+    {
+      "senadoId": "32956570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-03-10559",
+      "titulo": "Decreto nº 10.559 de 03/12/2020",
+      "data": "2020-12-03",
+      "numero": "10559",
+      "urn": "urn:lex:br:federal:decreto:2020-12-03;10559",
+      "ementa": "Institui o Prêmio de Acessibilidade no âmbito do Ministério da Mulher, da Família e dos Direitos Humanos e da Casa Civil da Presidência da República."
+    },
+    {
+      "senadoId": "32956034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-03-10558",
+      "titulo": "Decreto nº 10.558 de 03/12/2020",
+      "data": "2020-12-03",
+      "numero": "10558",
+      "urn": "urn:lex:br:federal:decreto:2020-12-03;10558",
+      "ementa": "Institui o Comitê Interministerial de Doenças Raras."
+    },
+    {
+      "senadoId": "32957792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-03-10561",
+      "titulo": "Decreto nº 10.561 de 03/12/2020",
+      "data": "2020-12-03",
+      "numero": "10561",
+      "urn": "urn:lex:br:federal:decreto:2020-12-03;10561",
+      "ementa": "Dispõe sobre a exclusão da participação minoritária detida pelo Fundo do Regime Geral da Previdência Social na Caixa Seguros Holding S.A. do Programa Nacional de Desestatização e a autorização da alienação da referida participação para a Caixa Seguridade Participações S.A."
+    },
+    {
+      "senadoId": "32953144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-12-01-10557",
+      "titulo": "Decreto nº 10.557 de 01/12/2020",
+      "data": "2020-12-01",
+      "numero": "10557",
+      "urn": "urn:lex:br:federal:decreto:2020-12-01;10557",
+      "ementa": "Incorpora a concessão tarifária outorgada pela República Federativa do Brasil, no âmbito do Acordo Geral sobre Tarifas Aduaneiras e Comércio, para os códigos 1001.19.00 e 1001.99.00 da Nomenclatura Comum do Mercosul."
+    },
+    {
+      "senadoId": "32951521",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-27-10556",
+      "titulo": "Decreto nº 10.556 de 27/11/2020",
+      "data": "2020-11-27",
+      "numero": "10556",
+      "urn": "urn:lex:br:federal:decreto:2020-11-27;10556",
+      "ementa": "Altera o Decreto n o 10.249, de 19 de fevereiro de 2020, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2020."
+    },
+    {
+      "senadoId": "32947540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-26-10555",
+      "titulo": "Decreto nº 10.555 de 26/11/2020",
+      "data": "2020-11-26",
+      "numero": "10555",
+      "urn": "urn:lex:br:federal:decreto:2020-11-26;10555",
+      "ementa": "Altera o Decreto nº 9.926, de 19 de julho de 2019, que dispõe sobre o Conselho Nacional de Políticas sobre Drogas."
+    },
+    {
+      "senadoId": "32947286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-26-10554",
+      "titulo": "Decreto nº 10.554 de 26/11/2020",
+      "data": "2020-11-26",
+      "numero": "10554",
+      "urn": "urn:lex:br:federal:decreto:2020-11-26;10554",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "32945075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-25-10552",
+      "titulo": "Decreto nº 10.552 de 25/11/2020",
+      "data": "2020-11-25",
+      "numero": "10552",
+      "urn": "urn:lex:br:federal:decreto:2020-11-25;10552",
+      "ementa": "Regulamenta o § 2º do art. 29 da Lei nº 13.681, de 18 de junho de 2018, para dispor sobre o enquadramento dos servidores de que trata a Emenda Constitucional nº 79, de 27 de maio de 2014, na carreira de Planejamento e Orçamento e na carreira de Finanças e Controle."
+    },
+    {
+      "senadoId": "32945149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-25-10553",
+      "titulo": "Decreto nº 10.553 de 25/11/2020",
+      "data": "2020-11-25",
+      "numero": "10553",
+      "urn": "urn:lex:br:federal:decreto:2020-11-25;10553",
+      "ementa": "Dispõe sobre o Conselho Superior do Cinema."
+    },
+    {
+      "senadoId": "32944902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-25-10551",
+      "titulo": "Decreto nº 10.551 de 25/11/2020",
+      "data": "2020-11-25",
+      "numero": "10551",
+      "urn": "urn:lex:br:federal:decreto:2020-11-25;10551",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF."
+    },
+    {
+      "senadoId": "32942915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-24-10550",
+      "titulo": "Decreto nº 10.550 de 24/11/2020",
+      "data": "2020-11-24",
+      "numero": "10550",
+      "urn": "urn:lex:br:federal:decreto:2020-11-24;10550",
+      "ementa": "Altera o Decreto nº 6.759, de 5 de fevereiro de 2009, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior."
+    },
+    {
+      "senadoId": "32941269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-23-10549",
+      "titulo": "Decreto nº 10.549 de 23/11/2020",
+      "data": "2020-11-23",
+      "numero": "10549",
+      "urn": "urn:lex:br:federal:decreto:2020-11-23;10549",
+      "ementa": "Altera o Decreto nº 9.589, de 29 de novembro de 2018, que dispõe sobre os procedimentos e os critérios aplicáveis ao processo de liquidação de empresas estatais federais controladas diretamente pela União."
+    },
+    {
+      "senadoId": "32939726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-20-10547",
+      "titulo": "Decreto nº 10.547 de 20/11/2020",
+      "data": "2020-11-20",
+      "numero": "10547",
+      "urn": "urn:lex:br:federal:decreto:2020-11-20;10547",
+      "ementa": "Altera o Decreto nº 9.870, de 27 de junho de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Gabinete de Intervenção Federal no Estado do Rio de Janeiro e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32939800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-20-10548",
+      "titulo": "Decreto nº 10.548 de 20/11/2020",
+      "data": "2020-11-20",
+      "numero": "10548",
+      "urn": "urn:lex:br:federal:decreto:2020-11-20;10548",
+      "ementa": "Remaneja, em caráter temporário, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS para o Ministério do Turismo, estabelece a reabsorção temporária das atividades da Cinemateca Brasileira pelo Ministério do Turismo e altera o Decreto nº 10.359, de 20 de maio de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Turismo."
+    },
+    {
+      "senadoId": "32937605",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-19-10546",
+      "titulo": "Decreto nº 10.546 de 19/11/2020",
+      "data": "2020-11-19",
+      "numero": "10546",
+      "urn": "urn:lex:br:federal:decreto:2020-11-19;10546",
+      "ementa": "Altera o Decreto nº 9.745, de 8 de abril de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Economia, remaneja e transforma cargos em comissão e funções de confiança e substitui cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS por Funções Comissionadas do Poder Executivo - FCPE."
+    },
+    {
+      "senadoId": "32929386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-17-10545",
+      "titulo": "Decreto nº 10.545 de 17/11/2020",
+      "data": "2020-11-17",
+      "numero": "10545",
+      "urn": "urn:lex:br:federal:decreto:2020-11-17;10545",
+      "ementa": "Dispõe sobre a atribuição das competências da Comissão Especial de Supervisão do Ministério das Comunicações, previstas na Lei nº 9.472, de 16 de julho de 1997, ao Conselho do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32928026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-16-10544",
+      "titulo": "Decreto nº 10.544 de 16/11/2020",
+      "data": "2020-11-16",
+      "numero": "10544",
+      "urn": "urn:lex:br:federal:decreto:2020-11-16;10544",
+      "ementa": "Aprova o X Plano Setorial para os Recursos do Mar."
+    },
+    {
+      "senadoId": "32926609",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-13-10543",
+      "titulo": "Decreto nº 10.543 de 13/11/2020",
+      "data": "2020-11-13",
+      "numero": "10543",
+      "urn": "urn:lex:br:federal:decreto:2020-11-13;10543",
+      "ementa": "Dispõe sobre o uso de assinaturas eletrônicas na administração pública federal e regulamenta o art. 5º da Lei nº 14.063, de 23 de setembro de 2020, quanto ao nível mínimo exigido para a assinatura eletrônica em interações com o ente público."
+    },
+    {
+      "senadoId": "32925223",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-12-10541",
+      "titulo": "Decreto nº 10.541 de 12/11/2020",
+      "data": "2020-11-12",
+      "numero": "10541",
+      "urn": "urn:lex:br:federal:decreto:2020-11-12;10541",
+      "ementa": "Cria a Medalha Mérito Riachuelo e altera o Decreto nº 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares."
+    },
+    {
+      "senadoId": "32925149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-12-10542",
+      "titulo": "Decreto nº 10.542 de 12/11/2020",
+      "data": "2020-11-12",
+      "numero": "10542",
+      "urn": "urn:lex:br:federal:decreto:2020-11-12;10542",
+      "ementa": "Altera o Decreto nº 3.520, de 21 de junho de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Política Energética - CNPE, e o Decreto nº 9.915, de 16 de julho de 2019, que dispõe sobre a qualificação da Usina Termonuclear Angra 3 no Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32921663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-05-10540",
+      "titulo": "Decreto nº 10.540 de 05/11/2020",
+      "data": "2020-11-05",
+      "numero": "10540",
+      "urn": "urn:lex:br:federal:decreto:2020-11-05;10540",
+      "ementa": "Dispõe sobre o padrão mínimo de qualidade do Sistema Único e Integrado de Execução\nOrçamentária, Administração Financeira e Controle."
+    },
+    {
+      "senadoId": "32920991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-04-10539",
+      "titulo": "Decreto nº 10.539 de 04/11/2020",
+      "data": "2020-11-04",
+      "numero": "10539",
+      "urn": "urn:lex:br:federal:decreto:2020-11-04;10539",
+      "ementa": "Altera o Decreto nº 10.341, de 6 de maio de 2020, que autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem e em ações subsidiárias na faixa de fronteira, nas terras indígenas, nas unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal."
+    },
+    {
+      "senadoId": "32920024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-11-03-10538",
+      "titulo": "Decreto nº 10.538 de 03/11/2020",
+      "data": "2020-11-03",
+      "numero": "10538",
+      "urn": "urn:lex:br:federal:decreto:2020-11-03;10538",
+      "ementa": "Desobriga o conscrito dispensado do Serviço Militar Obrigatório de participar da cerimônia de juramento à Bandeira Nacional, em caráter emergencial e temporário, durante a vigência da declaração de emergência de saúde pública de importância internacional decorrente da covid-19."
+    },
+    {
+      "senadoId": "32910734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-28-10536",
+      "titulo": "Decreto nº 10.536 de 28/10/2020",
+      "data": "2020-10-28",
+      "numero": "10536",
+      "urn": "urn:lex:br:federal:decreto:2020-10-28;10536",
+      "ementa": "Altera o Decreto nº 5.751, de 12 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e das Funções Gratificadas do Comando do Exército do Ministério da Defesa."
+    },
+    {
+      "senadoId": "32910770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-28-10535",
+      "titulo": "Decreto nº 10.535 de 28/10/2020",
+      "data": "2020-10-28",
+      "numero": "10535",
+      "urn": "urn:lex:br:federal:decreto:2020-10-28;10535",
+      "ementa": "Altera o Decreto nº 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente."
+    },
+    {
+      "senadoId": "32910664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-28-10537",
+      "titulo": "Decreto nº 10.537 de 28/10/2020",
+      "data": "2020-10-28",
+      "numero": "10537",
+      "urn": "urn:lex:br:federal:decreto:2020-10-28;10537",
+      "ementa": "Altera o art. 154 do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999, e o art. 1º do Decreto nº 10.413, de 2 de julho de 2020, que autoriza o Instituto Nacional do Seguro Social a prorrogar o período das antecipações de que tratam os art. 3º e art. 4º da Lei nº 13.982, de 2 de abril de 2020."
+    },
+    {
+      "senadoId": "32910824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-28-10534",
+      "titulo": "Decreto nº 10.534 de 28/10/2020",
+      "data": "2020-10-28",
+      "numero": "10534",
+      "urn": "urn:lex:br:federal:decreto:2020-10-28;10534",
+      "ementa": "Institui a Política Nacional de Inovação e dispõe sobre a sua governança."
+    },
+    {
+      "senadoId": "32910543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-28-10533",
+      "titulo": "Decreto nº 10.533 de 28/10/2020",
+      "data": "2020-10-28",
+      "numero": "10533",
+      "urn": "urn:lex:br:federal:decreto:2020-10-28;10533",
+      "ementa": "Revoga o Decreto nº 10.530, de 26 de outubro de 2020, que dispõe sobre a qualificação da política de fomento ao setor de atenção primária à saúde no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32908324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-26-10530",
+      "titulo": "Decreto nº 10.530 de 26/10/2020",
+      "data": "2020-10-26",
+      "numero": "10530",
+      "urn": "urn:lex:br:federal:decreto:2020-10-26;10530",
+      "ementa": "Dispõe sobre a qualificação da política de fomento ao setor de atenção primária à saúde no âmbito do Programa de Parcerias de Investimentos da Presidência da República, para fins de elaboração de estudos de alternativas de parcerias com a iniciativa privada."
+    },
+    {
+      "senadoId": "32908285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-26-10529",
+      "titulo": "Decreto nº 10.529 de 26/10/2020",
+      "data": "2020-10-26",
+      "numero": "10529",
+      "urn": "urn:lex:br:federal:decreto:2020-10-26;10529",
+      "ementa": "Altera o Decreto nº 10.255, de 27 de fevereiro de 2020, que convoca a Quinta Conferência Nacional dos Direitos da Pessoa com Deficiência."
+    },
+    {
+      "senadoId": "32908360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-26-10531",
+      "titulo": "Decreto nº 10.531 de 26/10/2020",
+      "data": "2020-10-26",
+      "numero": "10531",
+      "urn": "urn:lex:br:federal:decreto:2020-10-26;10531",
+      "ementa": "Institui a Estratégia Federal de Desenvolvimento para o Brasil no período de 2020 a 2031."
+    },
+    {
+      "senadoId": "32908094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-26-10528",
+      "titulo": "Decreto nº 10.528 de 26/10/2020",
+      "data": "2020-10-26",
+      "numero": "10528",
+      "urn": "urn:lex:br:federal:decreto:2020-10-26;10528",
+      "ementa": "Altera o Decreto nº 10.171, de 11 de dezembro de 2019, que dispõe sobre a passagem à disposição de militares das Forças Armadas."
+    },
+    {
+      "senadoId": "32908195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-26-10532",
+      "titulo": "Decreto nº 10.532 de 26/10/2020",
+      "data": "2020-10-26",
+      "numero": "10532",
+      "urn": "urn:lex:br:federal:decreto:2020-10-26;10532",
+      "ementa": "Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016."
+    },
+    {
+      "senadoId": "32903079",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-22-10527",
+      "titulo": "Decreto nº 10.527 de 22/10/2020",
+      "data": "2020-10-22",
+      "numero": "10527",
+      "urn": "urn:lex:br:federal:decreto:2020-10-22;10527",
+      "ementa": "Institui o Selo Biocombustível Social e dispõe sobre os coeficientes de redução das alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público e da Contribuição Social para o Financiamento da Seguridade Social, incidentes na produção e na comercialização de biodiesel, e sobre os termos e as condições para a utilização das alíquotas diferenciadas."
+    },
+    {
+      "senadoId": "32893000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-20-10526",
+      "titulo": "Decreto nº 10.526 de 20/10/2020",
+      "data": "2020-10-20",
+      "numero": "10526",
+      "urn": "urn:lex:br:federal:decreto:2020-10-20;10526",
+      "ementa": "Institui o Comitê Interministerial de Planejamento da Infraestrutura e o Plano Integrado de Longo Prazo da Infraestrutura no âmbito do Governo federal."
+    },
+    {
+      "senadoId": "32892923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-20-10525",
+      "titulo": "Decreto nº 10.525 de 20/10/2020",
+      "data": "2020-10-20",
+      "numero": "10525",
+      "urn": "urn:lex:br:federal:decreto:2020-10-20;10525",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público do setor de mobilidade urbana no Estado de Minas Gerais no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32892849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-20-10524",
+      "titulo": "Decreto nº 10.524 de 20/10/2020",
+      "data": "2020-10-20",
+      "numero": "10524",
+      "urn": "urn:lex:br:federal:decreto:2020-10-20;10524",
+      "ementa": "Dispõe sobre o Plano Sub-regional de Desenvolvimento Sustentável do Xingu e institui o seu Comitê Gestor."
+    },
+    {
+      "senadoId": "32884869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-19-10523",
+      "titulo": "Decreto nº 10.523 de 19/10/2020",
+      "data": "2020-10-19",
+      "numero": "10523",
+      "urn": "urn:lex:br:federal:decreto:2020-10-19;10523",
+      "ementa": "Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016."
+    },
+    {
+      "senadoId": "32884795",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-19-10522",
+      "titulo": "Decreto nº 10.522 de 19/10/2020",
+      "data": "2020-10-19",
+      "numero": "10522",
+      "urn": "urn:lex:br:federal:decreto:2020-10-19;10522",
+      "ementa": "Autoriza o emprego das Forças Armadas para a garantia da ordem pública durante a votação e a apuração das eleições de 2020."
+    },
+    {
+      "senadoId": "32881989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-15-10520",
+      "titulo": "Decreto nº 10.520 de 15/10/2020",
+      "data": "2020-10-15",
+      "numero": "10520",
+      "urn": "urn:lex:br:federal:decreto:2020-10-15;10520",
+      "ementa": "Dispõe sobre as requisições de pessoal para a Secretaria Especial do Programa de Parcerias de Investimentos do Ministério da Economia."
+    },
+    {
+      "senadoId": "32882025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-15-10521",
+      "titulo": "Decreto nº 10.521 de 15/10/2020",
+      "data": "2020-10-15",
+      "numero": "10521",
+      "urn": "urn:lex:br:federal:decreto:2020-10-15;10521",
+      "ementa": "Regulamenta o § 6º do art. 7º do Decreto-Lei nº 288, de 28 de fevereiro de 1967, e o art. 2º da Lei nº 8.387, de 30 de dezembro de 1991, que tratam do benefício fiscal concedido às empresas que produzem bens e serviços do setor de tecnologia da informação e de comunicação na Zona Franca de Manaus e que investem em atividades de pesquisa, desenvolvimento e inovação na Amazônia Ocidental ou no Estado do Amapá."
+    },
+    {
+      "senadoId": "32872368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-14-10519",
+      "titulo": "Decreto nº 10.519 de 14/10/2020",
+      "data": "2020-10-14",
+      "numero": "10519",
+      "urn": "urn:lex:br:federal:decreto:2020-10-14;10519",
+      "ementa": "Altera o Decreto nº 6.464, de 27 de maio de 2008, que dispõe sobre a designação e atuação de adidos agrícolas junto a missões diplomáticas brasileiras no exterior."
+    },
+    {
+      "senadoId": "32872332",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-14-10518",
+      "titulo": "Decreto nº 10.518 de 14/10/2020",
+      "data": "2020-10-14",
+      "numero": "10518",
+      "urn": "urn:lex:br:federal:decreto:2020-10-14;10518",
+      "ementa": "Altera o Decreto nº 7.775, de 4 de julho de 2012, que regulamenta o art. 19 da Lei nº 10.696, de 2 de julho de 2003, que institui o Programa de Aquisição de Alimentos, e o Capítulo III da Lei nº 12.512, de 14 de outubro de 2011."
+    },
+    {
+      "senadoId": "32865475",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-13-10517",
+      "titulo": "Decreto nº 10.517 de 13/10/2020",
+      "data": "2020-10-13",
+      "numero": "10517",
+      "urn": "urn:lex:br:federal:decreto:2020-10-13;10517",
+      "ementa": "Prorroga os prazos para celebrar acordos de redução proporcional de jornada de trabalho e de salário e de suspensão temporária de contrato de trabalho e para efetuar o pagamento dos benefícios emergenciais de que trata a Lei nº 14.020, de 6 de julho de 2020."
+    },
+    {
+      "senadoId": "32865398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-13-10516",
+      "titulo": "Decreto nº 10.516 de 13/10/2020",
+      "data": "2020-10-13",
+      "numero": "10516",
+      "urn": "urn:lex:br:federal:decreto:2020-10-13;10516",
+      "ementa": "Promulga o Acordo-Quadro entre a República Federativa do Brasil e a República de Cabo Verde\nsobre Cooperação em Matéria de Defesa, firmado em Praia, em 20 de outubro de 2016."
+    },
+    {
+      "senadoId": "32856844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-08-10514",
+      "titulo": "Decreto nº 10.514 de 08/10/2020",
+      "data": "2020-10-08",
+      "numero": "10514",
+      "urn": "urn:lex:br:federal:decreto:2020-10-08;10514",
+      "ementa": "Altera o Decreto nº 9.853, de 25 de junho de 2019, que dispõe sobre a Comissão Interministerial Brasil 200 Anos."
+    },
+    {
+      "senadoId": "32856918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-08-10515",
+      "titulo": "Decreto nº 10.515 de 08/10/2020",
+      "data": "2020-10-08",
+      "numero": "10515",
+      "urn": "urn:lex:br:federal:decreto:2020-10-08;10515",
+      "ementa": "Altera o Decreto nº 9.662, de 1º de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Justiça e Segurança Pública, remaneja cargos em comissão e funções de confiança, transforma funções de confiança e substitui cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS por Funções Comissionadas do Poder Executivo - FCPE."
+    },
+    {
+      "senadoId": "32856770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-08-10513",
+      "titulo": "Decreto nº 10.513 de 08/10/2020",
+      "data": "2020-10-08",
+      "numero": "10513",
+      "urn": "urn:lex:br:federal:decreto:2020-10-08;10513",
+      "ementa": "Autoriza a nomeação de candidatos aprovados no concurso público para o cargo de Perito Criminal Federal, do Quadro de Pessoal da Polícia Federal."
+    },
+    {
+      "senadoId": "32851712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-07-10511",
+      "titulo": "Decreto nº 10.511 de 07/10/2020",
+      "data": "2020-10-07",
+      "numero": "10511",
+      "urn": "urn:lex:br:federal:decreto:2020-10-07;10511",
+      "ementa": "Revoga o Decreto nº 76.590, de 11 de novembro de 1975, o Decreto nº 98.996, de 2 de março de 1990, e o Decreto nº 99.255, de 15 de maio de 1990."
+    },
+    {
+      "senadoId": "32851786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-07-10512",
+      "titulo": "Decreto nº 10.512 de 07/10/2020",
+      "data": "2020-10-07",
+      "numero": "10512",
+      "urn": "urn:lex:br:federal:decreto:2020-10-07;10512",
+      "ementa": "Revoga o Decreto nº 89.121, de 6 de dezembro de 1983, o Decreto nº 91.438, de 15 de julho de 1985, o Decreto nº 91.783, de 17 de outubro de 1985, e o Decreto nº 97.464, de 20 de janeiro de 1989."
+    },
+    {
+      "senadoId": "32850190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-06-10509",
+      "titulo": "Decreto nº 10.509 de 06/10/2020",
+      "data": "2020-10-06",
+      "numero": "10509",
+      "urn": "urn:lex:br:federal:decreto:2020-10-06;10509",
+      "ementa": "Institui o Programa de Equipagem e de Modernização da Infraestrutura dos Órgãos, das Entidades e das Instâncias Colegiadas de Promoção e de Defesa dos Direitos Humanos, no âmbito do Ministério da Mulher, da Família e dos Direitos Humanos."
+    },
+    {
+      "senadoId": "32850226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-06-10510",
+      "titulo": "Decreto nº 10.510 de 06/10/2020",
+      "data": "2020-10-06",
+      "numero": "10510",
+      "urn": "urn:lex:br:federal:decreto:2020-10-06;10510",
+      "ementa": "Institui o Fórum Brasileiro Antidopagem"
+    },
+    {
+      "senadoId": "32847060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-02-10508",
+      "titulo": "Decreto nº 10.508 de 02/10/2020",
+      "data": "2020-10-02",
+      "numero": "10508",
+      "urn": "urn:lex:br:federal:decreto:2020-10-02;10508",
+      "ementa": "Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Federal Democrática do Nepal, firmado em Brasília, em 3 de agosto de 2011."
+    },
+    {
+      "senadoId": "32846548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-02-10503",
+      "titulo": "Decreto nº 10.503 de 02/10/2020",
+      "data": "2020-10-02",
+      "numero": "10503",
+      "urn": "urn:lex:br:federal:decreto:2020-10-02;10503",
+      "ementa": "Prorroga a aplicação da redução das alíquotas de tributos de que tratam o Decreto nº 10.285, de 20 de março de 2020, o Decreto nº 10.302, de 1º de abril de 2020, o Decreto nº 10.318, de 9 de abril de 2020, e o Decreto nº 10.352, de 19 de maio de 2020."
+    },
+    {
+      "senadoId": "32846625",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-02-10504",
+      "titulo": "Decreto nº 10.504 de 02/10/2020",
+      "data": "2020-10-02",
+      "numero": "10504",
+      "urn": "urn:lex:br:federal:decreto:2020-10-02;10504",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF."
+    },
+    {
+      "senadoId": "32846838",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-02-10505",
+      "titulo": "Decreto nº 10.505 de 02/10/2020",
+      "data": "2020-10-02",
+      "numero": "10505",
+      "urn": "urn:lex:br:federal:decreto:2020-10-02;10505",
+      "ementa": "Convoca a Décima Primeira Conferência Nacional dos Direitos da Criança e do Adolescente."
+    },
+    {
+      "senadoId": "32846986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-02-10507",
+      "titulo": "Decreto nº 10.507 de 02/10/2020",
+      "data": "2020-10-02",
+      "numero": "10507",
+      "urn": "urn:lex:br:federal:decreto:2020-10-02;10507",
+      "ementa": "Autoriza a nomeação de candidatos aprovados no concurso público para o cargo de Auditor Fiscal Federal Agropecuário - Médico Veterinário, do Quadro de Pessoal do Ministério da Agricultura, Pecuária e Abastecimento."
+    },
+    {
+      "senadoId": "32846912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-10-02-10506",
+      "titulo": "Decreto nº 10.506 de 02/10/2020",
+      "data": "2020-10-02",
+      "numero": "10506",
+      "urn": "urn:lex:br:federal:decreto:2020-10-02;10506",
+      "ementa": "Altera o Decreto nº 9.991, de 28 de agosto de 2019, que dispõe sobre a Política Nacional de Desenvolvimento de Pessoas da administração pública federal direta, autárquica e fundacional, e regulamenta dispositivos da Lei nº 8.112, de 11 de dezembro de 1990, quanto a licenças e afastamentos para ações de desenvolvimento."
+    },
+    {
+      "senadoId": "32831139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-30-10500",
+      "titulo": "Decreto nº 10.500 de 30/09/2020",
+      "data": "2020-09-30",
+      "numero": "10500",
+      "urn": "urn:lex:br:federal:decreto:2020-09-30;10500",
+      "ementa": "Altera o Decreto nº 10.249, de 19 de fevereiro de 2020, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2020."
+    },
+    {
+      "senadoId": "32831236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-30-10501",
+      "titulo": "Decreto nº 10.501 de 30/09/2020",
+      "data": "2020-09-30",
+      "numero": "10501",
+      "urn": "urn:lex:br:federal:decreto:2020-09-30;10501",
+      "ementa": "Altera o Decreto nº 9.906, de 9 de julho de 2019, que institui o Programa Nacional de Incentivo ao Voluntariado, o Conselho do Programa Nacional de Incentivo ao Voluntariado, o Prêmio Nacional de Incentivo ao Voluntariado e o Selo de Acreditação do Programa Nacional de Incentivo ao Voluntariado."
+    },
+    {
+      "senadoId": "32831310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-30-10502",
+      "titulo": "Decreto nº 10.502 de 30/09/2020",
+      "data": "2020-09-30",
+      "numero": "10502",
+      "urn": "urn:lex:br:federal:decreto:2020-09-30;10502",
+      "ementa": "Institui a Política Nacional de Educação Especial: Equitativa, Inclusiva e com Aprendizado ao Longo da Vida."
+    },
+    {
+      "senadoId": "32826885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-28-10496",
+      "titulo": "Decreto nº 10.496 de 28/09/2020",
+      "data": "2020-09-28",
+      "numero": "10496",
+      "urn": "urn:lex:br:federal:decreto:2020-09-28;10496",
+      "ementa": "Institui o Cadastro Integrado de Projetos de Investimento."
+    },
+    {
+      "senadoId": "32826959",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-28-10497",
+      "titulo": "Decreto nº 10.497 de 28/09/2020",
+      "data": "2020-09-28",
+      "numero": "10497",
+      "urn": "urn:lex:br:federal:decreto:2020-09-28;10497",
+      "ementa": "Institui o Mês Nacional da Ciência, Tecnologia e Inovações."
+    },
+    {
+      "senadoId": "32827107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-28-10499",
+      "titulo": "Decreto nº 10.499 de 28/09/2020",
+      "data": "2020-09-28",
+      "numero": "10499",
+      "urn": "urn:lex:br:federal:decreto:2020-09-28;10499",
+      "ementa": "Remaneja, em caráter temporário, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS para o Ministério da Economia."
+    },
+    {
+      "senadoId": "32827033",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-28-10498",
+      "titulo": "Decreto nº 10.498 de 28/09/2020",
+      "data": "2020-09-28",
+      "numero": "10498",
+      "urn": "urn:lex:br:federal:decreto:2020-09-28;10498",
+      "ementa": "Autoriza o aumento de capital social de Companhias Docas federais."
+    },
+    {
+      "senadoId": "32810817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-23-10495",
+      "titulo": "Decreto nº 10.495 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "10495",
+      "urn": "urn:lex:br:federal:decreto:2020-09-23;10495",
+      "ementa": "Dispõe sobre a execução do Sétimo Protocolo Adicional ao Apêndice II do Acordo de Complementação Econômica nº 55 (7PA-APII-ACE55), firmado pela República Federativa do Brasil, pela República do Paraguai, pela República Oriental do Uruguai, Estados Partes do Mercosul, e pelos Estados Unidos Mexicanos."
+    },
+    {
+      "senadoId": "32810453",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-23-10491",
+      "titulo": "Decreto nº 10.491 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "10491",
+      "urn": "urn:lex:br:federal:decreto:2020-09-23;10491",
+      "ementa": "Altera o Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999."
+    },
+    {
+      "senadoId": "32810552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-23-10492",
+      "titulo": "Decreto nº 10.492 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "10492",
+      "urn": "urn:lex:br:federal:decreto:2020-09-23;10492",
+      "ementa": "Remaneja, em caráter temporário, cargos em comissão do Grupo-Direção e Assessoramento Superiors - DAS para o Ministério da Cidadania."
+    },
+    {
+      "senadoId": "32810743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-23-10494",
+      "titulo": "Decreto nº 10.494 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "10494",
+      "urn": "urn:lex:br:federal:decreto:2020-09-23;10494",
+      "ementa": "Institui o PagTesouro como plataforma digital para pagamento e recolhimento de valores à Conta Única do Tesouro Nacional."
+    },
+    {
+      "senadoId": "32810626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-23-10493",
+      "titulo": "Decreto nº 10.493 de 23/09/2020",
+      "data": "2020-09-23",
+      "numero": "10493",
+      "urn": "urn:lex:br:federal:decreto:2020-09-23;10493",
+      "ementa": "Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 74 (1PA-ACE74), firmado pela República Federativa do Brasil e pela República do Paraguai, em 11 de fevereiro de 2020."
+    },
+    {
+      "senadoId": "32648483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-17-10489",
+      "titulo": "Decreto nº 10.489 de 17/09/2020",
+      "data": "2020-09-17",
+      "numero": "10489",
+      "urn": "urn:lex:br:federal:decreto:2020-09-17;10489",
+      "ementa": "Altera o Decreto nº 10.464, de 17 de agosto de 2020, que regulamenta a Lei nº 14.017, de 29 de junho de 2020, que dispõe sobre as ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020."
+    },
+    {
+      "senadoId": "32648557",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-17-10490",
+      "titulo": "Decreto nº 10.490 de 17/09/2020",
+      "data": "2020-09-17",
+      "numero": "10490",
+      "urn": "urn:lex:br:federal:decreto:2020-09-17;10490",
+      "ementa": "Institui a Rede Brasileira de Bancos de Alimentos e o Comitê Gestor da Rede Brasileira de Bancos de Alimentos."
+    },
+    {
+      "senadoId": "32645170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-16-10488",
+      "titulo": "Decreto nº 10.488 de 16/09/2020",
+      "data": "2020-09-16",
+      "numero": "10488",
+      "urn": "urn:lex:br:federal:decreto:2020-09-16;10488",
+      "ementa": "Regulamenta a Medida Provisória nº 1.000, de 2 de setembro de 2020, que institui o auxílio emergencial residual para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19) responsável pelo surto de 2019, altera o Decreto nº 10.316, de 7 de abril de 2020, e dá outras providências."
+    },
+    {
+      "senadoId": "32643539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-15-10487",
+      "titulo": "Decreto nº 10.487 de 15/09/2020",
+      "data": "2020-09-15",
+      "numero": "10487",
+      "urn": "urn:lex:br:federal:decreto:2020-09-15;10487",
+      "ementa": "Dispõe sobre a qualificação da empresa Estrada de Ferro Paraná Oeste S.A. - Ferroeste no âmbito do Programa de Parcerias de Investimentos da Presidência da República e institui o Comitê de Governança do Projeto."
+    },
+    {
+      "senadoId": "32639588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-11-10486",
+      "titulo": "Decreto nº 10.486 de 11/09/2020",
+      "data": "2020-09-11",
+      "numero": "10486",
+      "urn": "urn:lex:br:federal:decreto:2020-09-11;10486",
+      "ementa": "Altera o Decreto nº 9.794, de 14 de maio de 2019, que dispõe sobre os atos de nomeação e de designação para cargos em comissão e funções de confiança de competência originária do Presidente da República e institui o Sistema Integrado de Nomeações e Consultas - Sinc no âmbito da administração pública federal."
+    },
+    {
+      "senadoId": "32639491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-11-10485",
+      "titulo": "Decreto nº 10.485 de 11/09/2020",
+      "data": "2020-09-11",
+      "numero": "10485",
+      "urn": "urn:lex:br:federal:decreto:2020-09-11;10485",
+      "ementa": "Altera o Decreto nº 10.463, de 14 de agosto de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Ciência, Tecnologia e Inovações e transforma funções de confiança."
+    },
+    {
+      "senadoId": "32637069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-10-10483",
+      "titulo": "Decreto nº 10.483 de 10/09/2020",
+      "data": "2020-09-10",
+      "numero": "10483",
+      "urn": "urn:lex:br:federal:decreto:2020-09-10;10483",
+      "ementa": "Dispõe sobre a prorrogação do mandato de representantes do Conselho Nacional do Meio Ambiente."
+    },
+    {
+      "senadoId": "32637143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-10-10484",
+      "titulo": "Decreto nº 10.484 de 10/09/2020",
+      "data": "2020-09-10",
+      "numero": "10484",
+      "urn": "urn:lex:br:federal:decreto:2020-09-10;10484",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos públicos federais do setor portuário e de trechos de rodovias federais no Programa de Parcerias de Investimentos da Presidência da República e sobre a inclusão de trechos de rodovias federais no Plano Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32635019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-09-10482",
+      "titulo": "Decreto nº 10.482 de 09/09/2020",
+      "data": "2020-09-09",
+      "numero": "10482",
+      "urn": "urn:lex:br:federal:decreto:2020-09-09;10482",
+      "ementa": "Institui a Comissão Intersetorial de Enfrentamento à Violência Sexual contra Crianças e Adolescentes."
+    },
+    {
+      "senadoId": "32620893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-03-10481",
+      "titulo": "Decreto nº 10.481 de 03/09/2020",
+      "data": "2020-09-03",
+      "numero": "10481",
+      "urn": "urn:lex:br:federal:decreto:2020-09-03;10481",
+      "ementa": "Dispõe sobre a exclusão da participação minoritária detida pelo Instituto Nacional do Seguro Social na Caixa Seguros Holding S.A do Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32609031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-09-01-10480",
+      "titulo": "Decreto nº 10.480 de 01/09/2020",
+      "data": "2020-09-01",
+      "numero": "10480",
+      "urn": "urn:lex:br:federal:decreto:2020-09-01;10480",
+      "ementa": "Dispõe sobre medidas para estimular o desenvolvimento da infraestrutura de redes de telecomunicações e regulamenta a Lei nº 13.116, de 20 de abril de 2015."
+    },
+    {
+      "senadoId": "32607492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-31-10479",
+      "titulo": "Decreto nº 10.479 de 31/08/2020",
+      "data": "2020-08-31",
+      "numero": "10479",
+      "urn": "urn:lex:br:federal:decreto:2020-08-31;10479",
+      "ementa": "Dispõe sobre a qualificação das áreas em oferta permanente para exploração e produção de petróleo e de gás natural no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32607418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-31-10478",
+      "titulo": "Decreto nº 10.478 de 31/08/2020",
+      "data": "2020-08-31",
+      "numero": "10478",
+      "urn": "urn:lex:br:federal:decreto:2020-08-31;10478",
+      "ementa": "Altera o Código de Conduta da Alta Administração Federal."
+    },
+    {
+      "senadoId": "32604894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-27-10475",
+      "titulo": "Decreto nº 10.475 de 27/08/2020",
+      "data": "2020-08-27",
+      "numero": "10475",
+      "urn": "urn:lex:br:federal:decreto:2020-08-27;10475",
+      "ementa": "Altera o Decreto nº 9.858, de 25 de junho de 2019, que dispõe sobre a Comissão Interministerial para os Recursos do Mar."
+    },
+    {
+      "senadoId": "32605042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-27-10477",
+      "titulo": "Decreto nº 10.477 de 27/08/2020",
+      "data": "2020-08-27",
+      "numero": "10477",
+      "urn": "urn:lex:br:federal:decreto:2020-08-27;10477",
+      "ementa": "Altera o Decreto nº 9.795, de 17 de maio de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Saúde, e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32604968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-27-10476",
+      "titulo": "Decreto nº 10.476 de 27/08/2020",
+      "data": "2020-08-27",
+      "numero": "10476",
+      "urn": "urn:lex:br:federal:decreto:2020-08-27;10476",
+      "ementa": "Altera o Decreto nº 8.867, de 3 de outubro de 2016, que aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Fundação Nacional de Saúde, e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32601166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-26-10474",
+      "titulo": "Decreto nº 10.474 de 26/08/2020",
+      "data": "2020-08-26",
+      "numero": "10474",
+      "urn": "urn:lex:br:federal:decreto:2020-08-26;10474",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Autoridade Nacional de Proteção de Dados e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32583949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-24-10471",
+      "titulo": "Decreto nº 10.471 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "10471",
+      "urn": "urn:lex:br:federal:decreto:2020-08-24;10471",
+      "ementa": "Regulamenta o adicional de compensação por disponibilidade militar, de que trata o art. 8º da Lei nº 13.954, de 16 de dezembro de 2019."
+    },
+    {
+      "senadoId": "32583852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-24-10470",
+      "titulo": "Decreto nº 10.470 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "10470",
+      "urn": "urn:lex:br:federal:decreto:2020-08-24;10470",
+      "ementa": "Prorroga os prazos para celebrar acordos de redução proporcional de jornada de trabalho e de salário e de suspensão temporária de contrato de trabalho e para efetuar o pagamento dos benefícios emergenciais de que trata a Lei nº 14.020, de 6 de julho de 2020."
+    },
+    {
+      "senadoId": "32584023",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-24-10472",
+      "titulo": "Decreto nº 10.472 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "10472",
+      "urn": "urn:lex:br:federal:decreto:2020-08-24;10472",
+      "ementa": "Dispõe sobre a qualificação do Aeroporto Governador Aluízio Alves no âmbito do Programa de Parcerias de Investimentos da Presidência da República - PPI para fins de relicitação."
+    },
+    {
+      "senadoId": "32584059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-24-10473",
+      "titulo": "Decreto nº 10.473 de 24/08/2020",
+      "data": "2020-08-24",
+      "numero": "10473",
+      "urn": "urn:lex:br:federal:decreto:2020-08-24;10473",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "32569762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-19-10469",
+      "titulo": "Decreto nº 10.469 de 19/08/2020",
+      "data": "2020-08-19",
+      "numero": "10469",
+      "urn": "urn:lex:br:federal:decreto:2020-08-19;10469",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Agência Espacial Brasileira e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32560197",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-18-10465",
+      "titulo": "Decreto nº 10.465 de 18/08/2020",
+      "data": "2020-08-18",
+      "numero": "10465",
+      "urn": "urn:lex:br:federal:decreto:2020-08-18;10465",
+      "ementa": "Institui o Comitê de Regulação e Fiscalização dos Mercados Financeiro, de Capitais, de Seguros, de Previdência e Capitalização."
+    },
+    {
+      "senadoId": "32560419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-18-10468",
+      "titulo": "Decreto nº 10.468 de 18/08/2020",
+      "data": "2020-08-18",
+      "numero": "10468",
+      "urn": "urn:lex:br:federal:decreto:2020-08-18;10468",
+      "ementa": "Altera o Decreto nº 9.013, de 29 de março de 2017, que regulamenta a Lei nº 1.283, de 18 de dezembro de 1950, e a Lei nº 7.889, de 23 de novembro de 1989, que dispõem sobre o regulamento da inspeção industrial e sanitária de produtos de origem animal."
+    },
+    {
+      "senadoId": "32560271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-18-10466",
+      "titulo": "Decreto nº 10.466 de 18/08/2020",
+      "data": "2020-08-18",
+      "numero": "10466",
+      "urn": "urn:lex:br:federal:decreto:2020-08-18;10466",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos turísticos no âmbito do Programa de Parcerias de Investimentos - PPI."
+    },
+    {
+      "senadoId": "32560345",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-18-10467",
+      "titulo": "Decreto nº 10.467 de 18/08/2020",
+      "data": "2020-08-18",
+      "numero": "10467",
+      "urn": "urn:lex:br:federal:decreto:2020-08-18;10467",
+      "ementa": "Dispõe sobre a qualificação do serviço público de loteria denominado apostas de quota fixa instituído pela Lei nº 13.756, de 12 de dezembro de 2018, no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32554875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-17-10464",
+      "titulo": "Decreto nº 10.464 de 17/08/2020",
+      "data": "2020-08-17",
+      "numero": "10464",
+      "urn": "urn:lex:br:federal:decreto:2020-08-17;10464",
+      "ementa": "Regulamenta a Lei nº 14.017, de 29 de junho de 2020, que dispõe sobre as ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020."
+    },
+    {
+      "senadoId": "32552559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-14-10462",
+      "titulo": "Decreto nº 10.462 de 14/08/2020",
+      "data": "2020-08-14",
+      "numero": "10462",
+      "urn": "urn:lex:br:federal:decreto:2020-08-14;10462",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério das Comunicações, remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32552633",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-14-10463",
+      "titulo": "Decreto nº 10.463 de 14/08/2020",
+      "data": "2020-08-14",
+      "numero": "10463",
+      "urn": "urn:lex:br:federal:decreto:2020-08-14;10463",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Ciência, Tecnologia e Inovações e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32552411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-14-10460",
+      "titulo": "Decreto nº 10.460 de 14/08/2020",
+      "data": "2020-08-14",
+      "numero": "10460",
+      "urn": "urn:lex:br:federal:decreto:2020-08-14;10460",
+      "ementa": "Altera o Decreto nº 9.980, de 20 de agosto de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Governo da Presidência da República, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32552485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-14-10461",
+      "titulo": "Decreto nº 10.461 de 14/08/2020",
+      "data": "2020-08-14",
+      "numero": "10461",
+      "urn": "urn:lex:br:federal:decreto:2020-08-14;10461",
+      "ementa": "Altera o Decreto nº 10.357, de 20 de maio de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Cidadania, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32550722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-13-10458",
+      "titulo": "Decreto nº 10.458 de 13/08/2020",
+      "data": "2020-08-13",
+      "numero": "10458",
+      "urn": "urn:lex:br:federal:decreto:2020-08-13;10458",
+      "ementa": "Institui a Comissão de Desenvolvimento Integrado para o Centro Espacial de Alcântara e dispõe sobre o Programa de Desenvolvimento Integrado para o Centro Espacial de Alcântara."
+    },
+    {
+      "senadoId": "32550618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-13-10457",
+      "titulo": "Decreto nº 10.457 de 13/08/2020",
+      "data": "2020-08-13",
+      "numero": "10457",
+      "urn": "urn:lex:br:federal:decreto:2020-08-13;10457",
+      "ementa": "Regulamenta o incentivo de que trata o art. 11-C da Lei nº 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional."
+    },
+    {
+      "senadoId": "32550796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-13-10459",
+      "titulo": "Decreto nº 10.459 de 13/08/2020",
+      "data": "2020-08-13",
+      "numero": "10459",
+      "urn": "urn:lex:br:federal:decreto:2020-08-13;10459",
+      "ementa": "Altera o Decreto nº 2.594, de 15 de maio de 1998, que regulamenta a Lei nº 9.491, de 9 de setembro de 1997, que dispõe sobre o Programa Nacional de Desestatização, e o Decreto nº 10.263, de 5 de março de 2020, que altera o Decreto nº 2.594, de 15 de maio de 1998."
+    },
+    {
+      "senadoId": "32542406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-11-10455",
+      "titulo": "Decreto nº 10.455 de 11/08/2020",
+      "data": "2020-08-11",
+      "numero": "10455",
+      "urn": "urn:lex:br:federal:decreto:2020-08-11;10455",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Meio Ambiente e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32542480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-11-10456",
+      "titulo": "Decreto nº 10.456 de 11/08/2020",
+      "data": "2020-08-11",
+      "numero": "10456",
+      "urn": "urn:lex:br:federal:decreto:2020-08-11;10456",
+      "ementa": "Dispõe sobre o horário de retransmissão obrigatória do programa oficial de informações dos Poderes da República pelas emissoras de radiodifusão sonora e regulamenta os casos excepcionais de flexibilização ou de dispensa."
+    },
+    {
+      "senadoId": "32539845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-10-10453",
+      "titulo": "Decreto nº 10.453 de 10/08/2020",
+      "data": "2020-08-10",
+      "numero": "10453",
+      "urn": "urn:lex:br:federal:decreto:2020-08-10;10453",
+      "ementa": "Altera o Decreto nº 10.117, de 19 de novembro de 2019, que dispõe sobre a qualificação de projetos para ampliação da capacidade de recuperação energética de resíduos sólidos urbanos no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32539697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-10-10451",
+      "titulo": "Decreto nº 10.451 de 10/08/2020",
+      "data": "2020-08-10",
+      "numero": "10451",
+      "urn": "urn:lex:br:federal:decreto:2020-08-10;10451",
+      "ementa": "Institui o Comitê Gestor do Projeto de Cooperação Brasil-Alemanha para Regularização Ambiental de Imóveis Rurais na Amazônia e em Áreas de Transição para o Cerrado."
+    },
+    {
+      "senadoId": "32539623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-10-10450",
+      "titulo": "Decreto nº 10.450 de 10/08/2020",
+      "data": "2020-08-10",
+      "numero": "10450",
+      "urn": "urn:lex:br:federal:decreto:2020-08-10;10450",
+      "ementa": "Altera o Decreto nº 10.239, de 11 de fevereiro de 2020, que dispõe sobre o Conselho Nacional da Amazônia Legal."
+    },
+    {
+      "senadoId": "32539771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-10-10452",
+      "titulo": "Decreto nº 10.452 de 10/08/2020",
+      "data": "2020-08-10",
+      "numero": "10452",
+      "urn": "urn:lex:br:federal:decreto:2020-08-10;10452",
+      "ementa": "Promulga o texto do Acordo Quadro de Cooperação entre os Estados Partes do Mercosul e Estados Associados para a Criação de Equipes Conjuntas de Investigação, firmado pela República Federativa do Brasil, em San Juan, em 2 de agosto de 2010."
+    },
+    {
+      "senadoId": "32539919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-10-10454",
+      "titulo": "Decreto nº 10.454 de 10/08/2020",
+      "data": "2020-08-10",
+      "numero": "10454",
+      "urn": "urn:lex:br:federal:decreto:2020-08-10;10454",
+      "ementa": "Altera o Decreto nº 5.417, de 13 de abril de 2005, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Comando da Marinha do Ministério da Defesa."
+    },
+    {
+      "senadoId": "32538652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-09-10449",
+      "titulo": "Decreto nº 10.449 de 09/08/2020",
+      "data": "2020-08-09",
+      "numero": "10449",
+      "urn": "urn:lex:br:federal:decreto:2020-08-09;10449",
+      "ementa": "Altera o Decreto nº 9.660, de 1º de janeiro de 2019, e o Decreto nº 10.359, de 20 de maio de 2020, para dispor sobre a supervisão direta das entidades vinculadas ao Ministério do Turismo."
+    },
+    {
+      "senadoId": "32538578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-07-10448",
+      "titulo": "Decreto nº 10.448 de 07/08/2020",
+      "data": "2020-08-07",
+      "numero": "10448",
+      "urn": "urn:lex:br:federal:decreto:2020-08-07;10448",
+      "ementa": "Dispõe sobre a execução do Acordo de Complementação Econômica nº 74 (ACE74), firmado pela República Federativa do Brasil e pela República do Paraguai, em 11 de fevereiro de 2020."
+    },
+    {
+      "senadoId": "32538504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-07-10447",
+      "titulo": "Decreto nº 10.447 de 07/08/2020",
+      "data": "2020-08-07",
+      "numero": "10447",
+      "urn": "urn:lex:br:federal:decreto:2020-08-07;10447",
+      "ementa": "Dispõe sobre a qualificação das unidades de conservação Parque Nacional de Brasília, localizado no Distrito Federal, e Parque Nacional de São Joaquim, localizado no Estado de Santa Catarina, no âmbito do Programa de Parcerias de Investimentos da Presidência da República e a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32537229",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-08-06-10446",
+      "titulo": "Decreto nº 10.446 de 06/08/2020",
+      "data": "2020-08-06",
+      "numero": "10446",
+      "urn": "urn:lex:br:federal:decreto:2020-08-06;10446",
+      "ementa": "Dispõe sobre a regulamentação da celebração de aditivos contratuais que versem sobre a alteração do cronograma de pagamentos das outorgas nos contratos de parceria no setor aeroportuário celebrados até 31 de dezembro de 2016, de que trata a Lei nº 13.499, de 26 de outubro de 2017, com as alterações promovidas pela Lei nº 14.034, de 5 de agosto de 2020."
+    },
+    {
+      "senadoId": "32518956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-30-10445",
+      "titulo": "Decreto nº 10.445 de 30/07/2020",
+      "data": "2020-07-30",
+      "numero": "10445",
+      "urn": "urn:lex:br:federal:decreto:2020-07-30;10445",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Agência Brasileira de Inteligência e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32518552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-30-10444",
+      "titulo": "Decreto nº 10.444 de 30/07/2020",
+      "data": "2020-07-30",
+      "numero": "10444",
+      "urn": "urn:lex:br:federal:decreto:2020-07-30;10444",
+      "ementa": "Altera o Decreto nº 10.249, de 19 de fevereiro de 2020, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2020."
+    },
+    {
+      "senadoId": "32512269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-28-10443",
+      "titulo": "Decreto nº 10.443 de 28/07/2020",
+      "data": "2020-07-28",
+      "numero": "10443",
+      "urn": "urn:lex:br:federal:decreto:2020-07-28;10443",
+      "ementa": "Dispõe sobre a organização básica da Polícia Militar do Distrito Federal."
+    },
+    {
+      "senadoId": "32510860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-27-10442",
+      "titulo": "Decreto nº 10.442 de 27/07/2020",
+      "data": "2020-07-27",
+      "numero": "10442",
+      "urn": "urn:lex:br:federal:decreto:2020-07-27;10442",
+      "ementa": "Dispõe sobre a qualificação de terminais pesqueiros públicos no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32510786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-27-10441",
+      "titulo": "Decreto nº 10.441 de 27/07/2020",
+      "data": "2020-07-27",
+      "numero": "10441",
+      "urn": "urn:lex:br:federal:decreto:2020-07-27;10441",
+      "ementa": "Fixa, para a Aeronáutica, os quantitativos de vagas para promoções obrigatórias de Oficiais, para os Quadros que menciona, no ano-base de 2020."
+    },
+    {
+      "senadoId": "32510638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-27-10439",
+      "titulo": "Decreto nº 10.439 de 27/07/2020",
+      "data": "2020-07-27",
+      "numero": "10439",
+      "urn": "urn:lex:br:federal:decreto:2020-07-27;10439",
+      "ementa": "Fixa, para o Exército, os quantitativos de vagas para promoções obrigatórias de Oficiais, para as Armas, os Quadros e os Serviços que menciona, no ano-base de 2020."
+    },
+    {
+      "senadoId": "32510712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-27-10440",
+      "titulo": "Decreto nº 10.440 de 27/07/2020",
+      "data": "2020-07-27",
+      "numero": "10440",
+      "urn": "urn:lex:br:federal:decreto:2020-07-27;10440",
+      "ementa": "Fixa, para a Marinha, os quantitativos de vagas para promoções obrigatórias de Oficiais, para os Corpos e os Quadros que menciona, no ano-base de 2020."
+    },
+    {
+      "senadoId": "32509988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-24-10438",
+      "titulo": "Decreto nº 10.438 de 24/07/2020",
+      "data": "2020-07-24",
+      "numero": "10438",
+      "urn": "urn:lex:br:federal:decreto:2020-07-24;10438",
+      "ementa": "Institui os símbolos representativos da Polícia Rodoviária Federal e dispõe sobre a identificação visual de seus servidores."
+    },
+    {
+      "senadoId": "32507097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-22-10436",
+      "titulo": "Decreto nº 10.436 de 22/07/2020",
+      "data": "2020-07-22",
+      "numero": "10436",
+      "urn": "urn:lex:br:federal:decreto:2020-07-22;10436",
+      "ementa": "Altera o Decreto nº 10.382, de 28 de maio de 2020, que institui o Programa de Gestão Estratégica e Transformação do Estado, no âmbito da administração pública federal direta, autárquica e fundacional, para dispor sobre remanejamento temporário de funções de confiança."
+    },
+    {
+      "senadoId": "32507133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-22-10437",
+      "titulo": "Decreto nº 10.437 de 22/07/2020",
+      "data": "2020-07-22",
+      "numero": "10437",
+      "urn": "urn:lex:br:federal:decreto:2020-07-22;10437",
+      "ementa": "Altera o Decreto nº 10.139, de 28 de novembro de 2019, que dispõe sobre a revisão e a consolidação dos atos normativos inferiores a decreto, e o Decreto nº 9.215, de 29 de novembro de 2017, que dispõe sobre a publicação do Diário Oficial da União."
+    },
+    {
+      "senadoId": "32505721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-21-10435",
+      "titulo": "Decreto nº 10.435 de 21/07/2020",
+      "data": "2020-07-21",
+      "numero": "10435",
+      "urn": "urn:lex:br:federal:decreto:2020-07-21;10435",
+      "ementa": "Altera o Decreto nº 9.884, de 27 de junho de 2019, que dispõe sobre a Junta de Execução Orçamentária."
+    },
+    {
+      "senadoId": "32505685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-21-10434",
+      "titulo": "Decreto nº 10.434 de 21/07/2020",
+      "data": "2020-07-21",
+      "numero": "10434",
+      "urn": "urn:lex:br:federal:decreto:2020-07-21;10434",
+      "ementa": "Altera o Decreto nº 7.082, de 27 de janeiro de 2010, e o Decreto nº 8.587, de 11 de dezembro de 2015, para dispor sobre a execução do Programa Nacional de Reestruturação dos Hospitais Universitários Federais - REHUF."
+    },
+    {
+      "senadoId": "32505649",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-21-10433",
+      "titulo": "Decreto nº 10.433 de 21/07/2020",
+      "data": "2020-07-21",
+      "numero": "10433",
+      "urn": "urn:lex:br:federal:decreto:2020-07-21;10433",
+      "ementa": "Institui o Comitê de Governança Digital e Segurança da Informação da Presidência da República."
+    },
+    {
+      "senadoId": "32502385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-20-10432",
+      "titulo": "Decreto nº 10.432 de 20/07/2020",
+      "data": "2020-07-20",
+      "numero": "10432",
+      "urn": "urn:lex:br:federal:decreto:2020-07-20;10432",
+      "ementa": "Dispõe sobre a inclusão e a exclusão de participações societárias minoritárias no Programa Nacional de Desestatização e estabelece diretrizes para o depósito de seus valores mobiliários no Fundo Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32502349",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-20-10431",
+      "titulo": "Decreto nº 10.431 de 20/07/2020",
+      "data": "2020-07-20",
+      "numero": "10431",
+      "urn": "urn:lex:br:federal:decreto:2020-07-20;10431",
+      "ementa": "Institui a Comissão Executiva Nacional do Plano Setorial para Consolidação de uma Economia de Baixa Emissão de Carbono na Agricultura."
+    },
+    {
+      "senadoId": "32502313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-20-10430",
+      "titulo": "Decreto nº 10.430 de 20/07/2020",
+      "data": "2020-07-20",
+      "numero": "10430",
+      "urn": "urn:lex:br:federal:decreto:2020-07-20;10430",
+      "ementa": "Dispõe sobre o Comitê Interministerial de Saneamento Básico."
+    },
+    {
+      "senadoId": "32500286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-17-10429",
+      "titulo": "Decreto nº 10.429 de 17/07/2020",
+      "data": "2020-07-17",
+      "numero": "10429",
+      "urn": "urn:lex:br:federal:decreto:2020-07-17;10429",
+      "ementa": "Altera o Decreto nº 10.357, de 20 de maio de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Cidadania e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32500188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-17-10428",
+      "titulo": "Decreto nº 10.428 de 17/07/2020",
+      "data": "2020-07-17",
+      "numero": "10428",
+      "urn": "urn:lex:br:federal:decreto:2020-07-17;10428",
+      "ementa": "Altera o Decreto nº 9.678, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Casa Civil da Presidência da República, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32494856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-16-10426",
+      "titulo": "Decreto nº 10.426 de 16/07/2020",
+      "data": "2020-07-16",
+      "numero": "10426",
+      "urn": "urn:lex:br:federal:decreto:2020-07-16;10426",
+      "ementa": "Dispõe sobre a descentralização de créditos entre órgãos e entidades da administração pública federal integrantes dos Orçamentos Fiscal e da Seguridade Social da União, por meio da celebração de termo de execução descentralizada."
+    },
+    {
+      "senadoId": "32494892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-16-10427",
+      "titulo": "Decreto nº 10.427 de 16/07/2020",
+      "data": "2020-07-16",
+      "numero": "10427",
+      "urn": "urn:lex:br:federal:decreto:2020-07-16;10427",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público federal do setor aeroportuário no âmbito do Programa de Parcerias de Investimentos - PPI, para fins de relicitação."
+    },
+    {
+      "senadoId": "32494820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-16-10425",
+      "titulo": "Decreto nº 10.425 de 16/07/2020",
+      "data": "2020-07-16",
+      "numero": "10425",
+      "urn": "urn:lex:br:federal:decreto:2020-07-16;10425",
+      "ementa": "Dispõe sobre o Conselho de Participação em Fundos Garantidores de Risco de Crédito para Micro, Pequenas e Médias Empresas e sobre o Conselho de Participação em Operações de Crédito Educativo."
+    },
+    {
+      "senadoId": "32461165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-15-10424",
+      "titulo": "Decreto nº 10.424 de 15/07/2020",
+      "data": "2020-07-15",
+      "numero": "10424",
+      "urn": "urn:lex:br:federal:decreto:2020-07-15;10424",
+      "ementa": "Determina a suspensão da permissão do emprego do fogo de que trata o Decreto nº 2.661, de 8 de julho de 1998, no território nacional pelo prazo de cento e vinte dias."
+    },
+    {
+      "senadoId": "32461129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-15-10423",
+      "titulo": "Decreto nº 10.423 de 15/07/2020",
+      "data": "2020-07-15",
+      "numero": "10423",
+      "urn": "urn:lex:br:federal:decreto:2020-07-15;10423",
+      "ementa": "Dispõe sobre a qualificação do Hospital Fêmina, localizado no Município de Porto Alegre, Estado do Rio Grande do Sul, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32456170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-13-10422",
+      "titulo": "Decreto nº 10.422 de 13/07/2020",
+      "data": "2020-07-13",
+      "numero": "10422",
+      "urn": "urn:lex:br:federal:decreto:2020-07-13;10422",
+      "ementa": "Prorroga os prazos para celebrar os acordos de redução proporcional de jornada e de salário e de suspensão temporária do contrato de trabalho e para efetuar o pagamento dos benefícios emergenciais de que trata a Lei nº 14.020, de 6 de julho de 2020."
+    },
+    {
+      "senadoId": "32450031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-09-10421",
+      "titulo": "Decreto nº 10.421 de 09/07/2020",
+      "data": "2020-07-09",
+      "numero": "10421",
+      "urn": "urn:lex:br:federal:decreto:2020-07-09;10421",
+      "ementa": "Altera o Decreto nº 10.341, de 6 de maio de 2020, que autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem e em ações subsidiárias na faixa de fronteira, nas terras indígenas, nas unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal."
+    },
+    {
+      "senadoId": "32439858",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-07-10417",
+      "titulo": "Decreto nº 10.417 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "10417",
+      "urn": "urn:lex:br:federal:decreto:2020-07-07;10417",
+      "ementa": "Institui o Conselho Nacional de Defesa do Consumidor."
+    },
+    {
+      "senadoId": "32439930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-07-10419",
+      "titulo": "Decreto nº 10.419 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "10419",
+      "urn": "urn:lex:br:federal:decreto:2020-07-07;10419",
+      "ementa": "Regulamenta a alínea \"e\" do § 1º do art. 9º da Lei nº 1.283, de 18 de dezembro de 1950, e altera o Decreto nº 9.013, de 29 de março de 2017, para dispor sobre a inspeção ante mortem e post mortem de animais."
+    },
+    {
+      "senadoId": "32439894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-07-10418",
+      "titulo": "Decreto nº 10.418 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "10418",
+      "urn": "urn:lex:br:federal:decreto:2020-07-07;10418",
+      "ementa": "Regulamenta a verificação do cumprimento das normas gerais de inatividade e pensões do Sistema de Proteção Social dos Militares dos Estados, do Distrito Federal e dos Territórios, de que tratam os art. 24-A, art. 24-B e art. 24-C do Decreto-Lei nº 667, de 2 de julho de 1969, nos termos do disposto no parágrafo único do art. 24-D do referido Decreto-Lei."
+    },
+    {
+      "senadoId": "32439822",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-07-10416",
+      "titulo": "Decreto nº 10.416 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "10416",
+      "urn": "urn:lex:br:federal:decreto:2020-07-07;10416",
+      "ementa": "Autoriza o uso de videonconferência nas reuniões de colegiados da administração pública federal."
+    },
+    {
+      "senadoId": "32439966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-07-10420",
+      "titulo": "Decreto nº 10.420 de 07/07/2020",
+      "data": "2020-07-07",
+      "numero": "10420",
+      "urn": "urn:lex:br:federal:decreto:2020-07-07;10420",
+      "ementa": "Altera o Decreto nº 9.191, de 1º de novembro de 2017, que estabelece as normas e as diretrizes para\nelaboração, redação, alteração, consolidação e encaminhamento de propostas de atos normativos ao Presidente da República pelos Ministros de Estado."
+    },
+    {
+      "senadoId": "32432103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-06-10415",
+      "titulo": "Decreto nº 10.415 de 06/07/2020",
+      "data": "2020-07-06",
+      "numero": "10415",
+      "urn": "urn:lex:br:federal:decreto:2020-07-06;10415",
+      "ementa": "Institui o Grupo de Trabalho Interinstitucional sobre o Modelo Único de Avaliação Biopsicossocial da Deficiência."
+    },
+    {
+      "senadoId": "32316957",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-02-10414",
+      "titulo": "Decreto nº 10.414 de 02/07/2020",
+      "data": "2020-07-02",
+      "numero": "10414",
+      "urn": "urn:lex:br:federal:decreto:2020-07-02;10414",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF."
+    },
+    {
+      "senadoId": "32316906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-07-02-10413",
+      "titulo": "Decreto nº 10.413 de 02/07/2020",
+      "data": "2020-07-02",
+      "numero": "10413",
+      "urn": "urn:lex:br:federal:decreto:2020-07-02;10413",
+      "ementa": "Autoriza o Instituto Nacional do Seguro Social a prorrogar o período das antecipações de que tratam os art. 3º e art. 4º da Lei nº 13.982, de 2 de abril de 2020."
+    },
+    {
+      "senadoId": "32302096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-30-10408",
+      "titulo": "Decreto nº 10.408 de 30/06/2020",
+      "data": "2020-06-30",
+      "numero": "10408",
+      "urn": "urn:lex:br:federal:decreto:2020-06-30;10408",
+      "ementa": "Altera o Decreto nº 10.154, de 4 de dezembro de 2019, para prorrogar a vigência do Escritório de Governança do Legado Olímpico - EGLO e o prazo de remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Comissionadas do Poder Executivo - FCPE alocados, em caráter temporário, no Ministério da Cidadania."
+    },
+    {
+      "senadoId": "32302377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-30-10410",
+      "titulo": "Decreto nº 10.410 de 30/06/2020",
+      "data": "2020-06-30",
+      "numero": "10410",
+      "urn": "urn:lex:br:federal:decreto:2020-06-30;10410",
+      "ementa": "Altera o Regulamento da Previdência Social, aprovado pelo Decreto n° 3.048, de 6 de maio de 1999."
+    },
+    {
+      "senadoId": "32302487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-30-10412",
+      "titulo": "Decreto nº 10.412 de 30/06/2020",
+      "data": "2020-06-30",
+      "numero": "10412",
+      "urn": "urn:lex:br:federal:decreto:2020-06-30;10412",
+      "ementa": "Altera o Decreto nº 10.316, de 7 de abril de 2020, para prorrogar o período de pagamento do auxílio emergencial de que trata a Lei nº 13.982, de 2 de abril de 2020."
+    },
+    {
+      "senadoId": "32302413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-30-10411",
+      "titulo": "Decreto nº 10.411 de 30/06/2020",
+      "data": "2020-06-30",
+      "numero": "10411",
+      "urn": "urn:lex:br:federal:decreto:2020-06-30;10411",
+      "ementa": "Regulamenta a análise de impacto regulatório, de que tratam o art. 5º da Lei nº 13.874, de 20 de setembro de 2019, e o art. 6º da Lei nº 13.848, de 25 de junho de 2019."
+    },
+    {
+      "senadoId": "32302170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-30-10409",
+      "titulo": "Decreto nº 10.409 de 30/06/2020",
+      "data": "2020-06-30",
+      "numero": "10409",
+      "urn": "urn:lex:br:federal:decreto:2020-06-30;10409",
+      "ementa": "Altera o Decreto nº 9.675, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério de Minas e Energia, e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32296034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-29-10406",
+      "titulo": "Decreto nº 10.406 de 29/06/2020",
+      "data": "2020-06-29",
+      "numero": "10406",
+      "urn": "urn:lex:br:federal:decreto:2020-06-29;10406",
+      "ementa": "Altera o Decreto nº 10.195, de 30 de dezembro de 2019, para prorrogar o prazo de remanejamento dos cargos\nem comissão do Grupo-Direção e Assessoramento Superiores - DAS alocados, em caráter temporário, no\nMinistério da Educação."
+    },
+    {
+      "senadoId": "32296070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-29-10407",
+      "titulo": "Decreto nº 10.407 de 29/06/2020",
+      "data": "2020-06-29",
+      "numero": "10407",
+      "urn": "urn:lex:br:federal:decreto:2020-06-29;10407",
+      "ementa": "Regulamenta a Lei nº 13.993, de 23 de abril de 2020, que dispõe sobre a proibição de exportações de produtos médicos, hospitalares e de higiene essenciais ao combate à epidemia da covid-19 no País."
+    },
+    {
+      "senadoId": "32290031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-25-10405",
+      "titulo": "Decreto nº 10.405 de 25/06/2020",
+      "data": "2020-06-25",
+      "numero": "10405",
+      "urn": "urn:lex:br:federal:decreto:2020-06-25;10405",
+      "ementa": "Altera o Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, aprovado pelo Decreto nº 5.371, de 17 de fevereiro de 2005, o Decreto nº 5.820, de 29 junho de 2006, o Decreto nº 8.139, de 7 de novembro de 2013, e o Regulamento do Serviço de Retransmissão de Rádio na Amazônia Legal, aprovado pelo Decreto nº 9.942, de 25 julho de 2019, para dispor sobre a execução dos serviços de radiodifusão e o processo de licenciamento de estações de radiodifusão."
+    },
+    {
+      "senadoId": "32282301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-22-10404",
+      "titulo": "Decreto nº 10.404 de 22/06/2020",
+      "data": "2020-06-22",
+      "numero": "10404",
+      "urn": "urn:lex:br:federal:decreto:2020-06-22;10404",
+      "ementa": "Altera o Decreto nº 10.277, de 16 de março de 2020, que institui o Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19."
+    },
+    {
+      "senadoId": "32278342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-19-10403",
+      "titulo": "Decreto nº 10.403 de 19/06/2020",
+      "data": "2020-06-19",
+      "numero": "10403",
+      "urn": "urn:lex:br:federal:decreto:2020-06-19;10403",
+      "ementa": "Altera o Decreto nº 10.046, de 9 de outubro de 2019, que dispõe sobre a governança no\ncompartilhamento de dados no âmbito da administração pública federal e institui o Cadastro Base do Cidadão e o Comitê Central de Governança de Dados."
+    },
+    {
+      "senadoId": "32272574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-17-10402",
+      "titulo": "Decreto nº 10.402 de 17/06/2020",
+      "data": "2020-06-17",
+      "numero": "10402",
+      "urn": "urn:lex:br:federal:decreto:2020-06-17;10402",
+      "ementa": "Dispõe sobre a adaptação do instrumento de concessão para autorização de serviço de telecomunicações e sobre a prorrogação e a transferência de autorização de radiofrequências, de outorgas de serviços de telecomunicações e de direitos de exploração de satélites."
+    },
+    {
+      "senadoId": "32272538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-17-10401",
+      "titulo": "Decreto nº 10.401 de 17/06/2020",
+      "data": "2020-06-17",
+      "numero": "10401",
+      "urn": "urn:lex:br:federal:decreto:2020-06-17;10401",
+      "ementa": "Altera o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, aprovado pelo Decreto nº 5.371, de 17 de fevereiro de 2005."
+    },
+    {
+      "senadoId": "32267000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-16-10400",
+      "titulo": "Decreto nº 10.400 de 16/06/2020",
+      "data": "2020-06-16",
+      "numero": "10400",
+      "urn": "urn:lex:br:federal:decreto:2020-06-16;10400",
+      "ementa": "Altera o Decreto nº 9.678, de 2 de janeiro de 2019, e o Decreto nº 10.372, de 25 de maio de 2020, que dispõem sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Casa Civil da Presidência da República."
+    },
+    {
+      "senadoId": "32267074",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-16-10399",
+      "titulo": "Decreto nº 10.399 de 16/06/2020",
+      "data": "2020-06-16",
+      "numero": "10399",
+      "urn": "urn:lex:br:federal:decreto:2020-06-16;10399",
+      "ementa": "Altera o Decreto nº 10.366, de 22 de maio de 2020, para alterar a vigência de dispositivos."
+    },
+    {
+      "senadoId": "32267148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-16-10397",
+      "titulo": "Decreto nº 10.397 de 16/06/2020",
+      "data": "2020-06-16",
+      "numero": "10397",
+      "urn": "urn:lex:br:federal:decreto:2020-06-16;10397",
+      "ementa": "Dispõe sobre a execução do Septuagésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2, firmado pela República Federativa do Brasil e pela República Oriental do Uruguai, em 16 de maio de 2014."
+    },
+    {
+      "senadoId": "32267258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-16-10398",
+      "titulo": "Decreto nº 10.398 de 16/06/2020",
+      "data": "2020-06-16",
+      "numero": "10398",
+      "urn": "urn:lex:br:federal:decreto:2020-06-16;10398",
+      "ementa": "Altera o Decreto nº 10.316, de 7 de abril de 2020, para definir a base do Cadastro Único a ser utilizada para pagamento do auxílio emergencial estabelecido pelo art. 2º da Lei nº 13.982, de 2 de abril de 2020."
+    },
+    {
+      "senadoId": "32251377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-10-10395",
+      "titulo": "Decreto nº 10.395 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "10395",
+      "urn": "urn:lex:br:federal:decreto:2020-06-10;10395",
+      "ementa": "Altera o Anexo ao Decreto nº 9.660, de 1º de janeiro de 2019, que dispõe sobre a vinculação das entidades da administração pública federal indireta."
+    },
+    {
+      "senadoId": "32251242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-10-10394",
+      "titulo": "Decreto nº 10.394 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "10394",
+      "urn": "urn:lex:br:federal:decreto:2020-06-10;10394",
+      "ementa": "Altera o Decreto nº 10.341, de 6 de maio de 2020, que autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem e em ações subsidiárias na faixa de fronteira, nas terras indígenas, nas unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal."
+    },
+    {
+      "senadoId": "32251616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-10-10396",
+      "titulo": "Decreto nº 10.396 de 10/06/2020",
+      "data": "2020-06-10",
+      "numero": "10396",
+      "urn": "urn:lex:br:federal:decreto:2020-06-10;10396",
+      "ementa": "Promulga o Acordo sobre Serviços Aéreos entre o Governo da República Federativa do Brasil e o Governo da República da Polônia, firmado no Rio de Janeiro, em 13 de março de 2000."
+    },
+    {
+      "senadoId": "32247437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-09-10392",
+      "titulo": "Decreto nº 10.392 de 09/06/2020",
+      "data": "2020-06-09",
+      "numero": "10392",
+      "urn": "urn:lex:br:federal:decreto:2020-06-09;10392",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público federal do setor ferroviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32247511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-09-10393",
+      "titulo": "Decreto nº 10.393 de 09/06/2020",
+      "data": "2020-06-09",
+      "numero": "10393",
+      "urn": "urn:lex:br:federal:decreto:2020-06-09;10393",
+      "ementa": "Institui a nova Estratégia Nacional de Educação Financeira - ENEF e o Fórum Brasileiro de Educação Financeira - FBEF."
+    },
+    {
+      "senadoId": "32242752",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-05-10389",
+      "titulo": "Decreto nº 10.389 de 05/06/2020",
+      "data": "2020-06-05",
+      "numero": "10389",
+      "urn": "urn:lex:br:federal:decreto:2020-06-05;10389",
+      "ementa": "Dispõe sobre a qualificação dos projetos minerários em áreas para pesquisa ou lavra de recursos minerais colocadas em disponibilidade pela Agência Nacional de Mineração no exercício de 2020 no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32243073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-05-10387",
+      "titulo": "Decreto nº 10.387 de 05/06/2020",
+      "data": "2020-06-05",
+      "numero": "10387",
+      "urn": "urn:lex:br:federal:decreto:2020-06-05;10387",
+      "ementa": "Altera o Decreto nº 8.874, de 11 de outubro de 2016, para dispor sobre incentivo ao financiamento de projetos de infraestrutura com benefícios ambientais e sociais."
+    },
+    {
+      "senadoId": "32242999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-05-10388",
+      "titulo": "Decreto nº 10.388 de 05/06/2020",
+      "data": "2020-06-05",
+      "numero": "10388",
+      "urn": "urn:lex:br:federal:decreto:2020-06-05;10388",
+      "ementa": "Regulamenta o § 1º do caput do art. 33 da Lei nº 12.305, de 2 de agosto de 2010, e institui o sistema de logística reversa de medicamentos domiciliares vencidos ou em desuso, de uso humano, industrializados e manipulados, e de suas embalagens após o descarte pelos consumidores."
+    },
+    {
+      "senadoId": "32242900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-05-10391",
+      "titulo": "Decreto nº 10.391 de 05/06/2020",
+      "data": "2020-06-05",
+      "numero": "10391",
+      "urn": "urn:lex:br:federal:decreto:2020-06-05;10391",
+      "ementa": "Restaura a vigência do Decreto nº 93.206, de 3 de setembro de 1986, e revoga o Decreto nº 10.386, de 2 de junho de 2020, que dispõem sobre a Aviação do Exército."
+    },
+    {
+      "senadoId": "32242826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-05-10390",
+      "titulo": "Decreto nº 10.390 de 05/06/2020",
+      "data": "2020-06-05",
+      "numero": "10390",
+      "urn": "urn:lex:br:federal:decreto:2020-06-05;10390",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos públicos federais do setor portuário e do setor de transporte rodoviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32236132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-06-02-10386",
+      "titulo": "Decreto nº 10.386 de 02/06/2020",
+      "data": "2020-06-02",
+      "numero": "10386",
+      "urn": "urn:lex:br:federal:decreto:2020-06-02;10386",
+      "ementa": "Dispõe sobre a Aviação do Exército."
+    },
+    {
+      "senadoId": "32228347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-30-10385",
+      "titulo": "Decreto nº 10.385 de 30/05/2020",
+      "data": "2020-05-30",
+      "numero": "10385",
+      "urn": "urn:lex:br:federal:decreto:2020-05-30;10385",
+      "ementa": "Altera o Decreto nº 10.249, de 19 de fevereiro de 2020, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo federal para o exercício de 2020."
+    },
+    {
+      "senadoId": "32223751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10379",
+      "titulo": "Decreto nº 10.379 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10379",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10379",
+      "ementa": "Altera o Decreto nº 9.662, de 1º de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Justiça e Segurança Pública, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32224497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10382",
+      "titulo": "Decreto nº 10.382 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10382",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10382",
+      "ementa": "Institui o Programa de Gestão Estratégica e Transformação do Estado, no âmbito da administração pública federal direta, autárquica e fundacional, altera o Decreto nº 9.739, de 28 de março de 2019, que estabelece medidas de eficiência organizacional para o aprimoramento da administração pública federal direta, autárquica e fundacional, estabelece normas sobre concursos públicos e dispõe sobre o Sistema de Organização e Inovação Institucional do Governo Federal, e remaneja, em caráter temporário, Funções Comissionadas do Poder Executivo - FCPE para o Ministério da Economia."
+    },
+    {
+      "senadoId": "32224090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10384",
+      "titulo": "Decreto nº 10.384 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10384",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10384",
+      "ementa": "Dispõe sobre a prorrogação do prazo para a apresentação obrigatória para o alistamento militar devido ao enfrentamento da pandemia da covid-19."
+    },
+    {
+      "senadoId": "32223958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10383",
+      "titulo": "Decreto nº 10.383 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10383",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10383",
+      "ementa": "Dispõe sobre a qualificação de terminais pesqueiros públicos no Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32223884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10381",
+      "titulo": "Decreto nº 10.381 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10381",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10381",
+      "ementa": "Dispõe sobre a qualificação dos projetos de concessão das Florestas Nacionais de Canela e de São Francisco de Paula no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32223677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10378",
+      "titulo": "Decreto nº 10.378 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10378",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10378",
+      "ementa": "Autoriza a nomeação de candidatos aprovados no concurso público para os cargos do Quadro de Pessoal da Polícia Rodoviária Federal do Ministério da Justiça e Segurança Pública."
+    },
+    {
+      "senadoId": "32223825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-28-10380",
+      "titulo": "Decreto nº 10.380 de 28/05/2020",
+      "data": "2020-05-28",
+      "numero": "10380",
+      "urn": "urn:lex:br:federal:decreto:2020-05-28;10380",
+      "ementa": "Altera o Decreto nº 9.982, de 20 de agosto de 2019, que aprova a Estrutura Regimental e o\nQuadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria-Geral da Presidência da República e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32218025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-27-10376",
+      "titulo": "Decreto nº 10.376 de 27/05/2020",
+      "data": "2020-05-27",
+      "numero": "10376",
+      "urn": "urn:lex:br:federal:decreto:2020-05-27;10376",
+      "ementa": "Altera o Decreto nº 9.681, de 3 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Controladoria-Geral da União e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32218099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-27-10377",
+      "titulo": "Decreto nº 10.377 de 27/05/2020",
+      "data": "2020-05-27",
+      "numero": "10377",
+      "urn": "urn:lex:br:federal:decreto:2020-05-27;10377",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários."
+    },
+    {
+      "senadoId": "32212382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-26-10373",
+      "titulo": "Decreto nº 10.373 de 26/05/2020",
+      "data": "2020-05-26",
+      "numero": "10373",
+      "urn": "urn:lex:br:federal:decreto:2020-05-26;10373",
+      "ementa": "Institui o Comitê Nacional de Facilitação do Comércio e altera o Decreto nº 9.745, de 8 de abril de 2019."
+    },
+    {
+      "senadoId": "32212454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-26-10375",
+      "titulo": "Decreto nº 10.375 de 26/05/2020",
+      "data": "2020-05-26",
+      "numero": "10375",
+      "urn": "urn:lex:br:federal:decreto:2020-05-26;10375",
+      "ementa": "Institui o Programa Nacional de Bioinsumos e o Conselho Estratégico do Programa Nacional de Bioinsumos."
+    },
+    {
+      "senadoId": "32212418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-26-10374",
+      "titulo": "Decreto nº 10.374 de 26/05/2020",
+      "data": "2020-05-26",
+      "numero": "10374",
+      "urn": "urn:lex:br:federal:decreto:2020-05-26;10374",
+      "ementa": "Aprova as Estruturas Regimentais e os Quadros Demonstrativos dos Cargos em Comissão e das Funções de Confiança da Assessoria Especial do Presidente da República, do Gabinete Pessoal do Presidente da República e da Secretaria Especial de Assuntos Estratégicos da Presidência da República e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "32208307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-25-10372",
+      "titulo": "Decreto nº 10.372 de 25/05/2020",
+      "data": "2020-05-25",
+      "numero": "10372",
+      "urn": "urn:lex:br:federal:decreto:2020-05-25;10372",
+      "ementa": "Altera o Decreto nº 9.678, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Casa Civil da Presidência da República, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32197882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10370",
+      "titulo": "Decreto nº 10.370 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10370",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10370",
+      "ementa": "Dispõe sobre a qualificação da usina hidrelétrica planejada UHE Formoso no âmbito do Programa de Parcerias de Investimentos da Presidência da República"
+    },
+    {
+      "senadoId": "32197675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10367",
+      "titulo": "Decreto nº 10.367 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10367",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10367",
+      "ementa": "Altera o Decreto nº 8.489, de 10 de julho de 2015, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Departamento Nacional de Infraestrutura de Transportes - DNIT e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32197639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10366",
+      "titulo": "Decreto nº 10.366 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10366",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10366",
+      "ementa": "Altera o Decreto nº 9.745, de 8 de abril de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Economia, e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32197497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10365",
+      "titulo": "Decreto nº 10.365 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10365",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10365",
+      "ementa": "Altera o Decreto nº 9.662, de 1º de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Justiça e Segurança Pública, remaneja funções de confiança e declara extintos cargos em comissão."
+    },
+    {
+      "senadoId": "32197956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10371",
+      "titulo": "Decreto nº 10.371 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10371",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10371",
+      "ementa": "Dispõe sobre a destinação de percentual de contribuições para atendimento de despesas decorrentes da transferência de atividades ao Ministério da Agricultura, Pecuária e Abastecimento."
+    },
+    {
+      "senadoId": "32197711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10368",
+      "titulo": "Decreto nº 10.368 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10368",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10368",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Infraestrutura e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32197785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-22-10369",
+      "titulo": "Decreto nº 10.369 de 22/05/2020",
+      "data": "2020-05-22",
+      "numero": "10369",
+      "urn": "urn:lex:br:federal:decreto:2020-05-22;10369",
+      "ementa": "Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Fundação Escola Nacional de Administração Pública - Enap e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32195278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-21-10364",
+      "titulo": "Decreto nº 10.364 de 21/05/2020",
+      "data": "2020-05-21",
+      "numero": "10364",
+      "urn": "urn:lex:br:federal:decreto:2020-05-21;10364",
+      "ementa": "Promulga o Acordo de Cooperação Estratégica entre a República Federativa do Brasil e o Serviço Europeu de Polícia, firmado em Haia, em 11 de abril de 2017."
+    },
+    {
+      "senadoId": "32195352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-21-10363",
+      "titulo": "Decreto nº 10.363 de 21/05/2020",
+      "data": "2020-05-21",
+      "numero": "10363",
+      "urn": "urn:lex:br:federal:decreto:2020-05-21;10363",
+      "ementa": "Altera o Decreto nº 9.668, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete de Segurança Institucional da Presidência da República, e remaneja e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "32195204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-21-10362",
+      "titulo": "Decreto nº 10.362 de 21/05/2020",
+      "data": "2020-05-21",
+      "numero": "10362",
+      "urn": "urn:lex:br:federal:decreto:2020-05-21;10362",
+      "ementa": "Dispõe sobre a execução do Octogésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (80PA-ACE2), firmado pela República Federativa do Brasil e pela República Oriental do Uruguai."
+    },
+    {
+      "senadoId": "32195056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-21-10360",
+      "titulo": "Decreto nº 10.360 de 21/05/2020",
+      "data": "2020-05-21",
+      "numero": "10360",
+      "urn": "urn:lex:br:federal:decreto:2020-05-21;10360",
+      "ementa": "Dispõe sobre a forma de identificação das autorizações de despesas relacionadas ao enfrentamento de calamidade pública nacional decorrente de pandemia e de seus efeitos sociais e econômicos."
+    },
+    {
+      "senadoId": "32195130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-21-10361",
+      "titulo": "Decreto nº 10.361 de 21/05/2020",
+      "data": "2020-05-21",
+      "numero": "10361",
+      "urn": "urn:lex:br:federal:decreto:2020-05-21;10361",
+      "ementa": "Altera o Anexo ao Decreto nº 10.232, de 6 de fevereiro de 2020, que distribui o efetivo de Oficiais e Praças do Exército em tempo de paz para 2020."
+    },
+    {
+      "senadoId": "32191708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-20-10355",
+      "titulo": "Decreto nº 10.355 de 20/05/2020",
+      "data": "2020-05-20",
+      "numero": "10355",
+      "urn": "urn:lex:br:federal:decreto:2020-05-20;10355",
+      "ementa": "Dispõe sobre a qualificação dos estudos para a estruturação do projeto do Baixio de Irecê, Estado da Bahia, de perímetro público de irrigação, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32191856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-20-10359",
+      "titulo": "Decreto nº 10.359 de 20/05/2020",
+      "data": "2020-05-20",
+      "numero": "10359",
+      "urn": "urn:lex:br:federal:decreto:2020-05-20;10359",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Turismo e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32192055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-20-10358",
+      "titulo": "Decreto nº 10.358 de 20/05/2020",
+      "data": "2020-05-20",
+      "numero": "10358",
+      "urn": "urn:lex:br:federal:decreto:2020-05-20;10358",
+      "ementa": "Altera o Decreto nº 9.982, de 20 de agosto de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria-Geral da Presidência da República e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32191634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-20-10354",
+      "titulo": "Decreto nº 10.354 de 20/05/2020",
+      "data": "2020-05-20",
+      "numero": "10354",
+      "urn": "urn:lex:br:federal:decreto:2020-05-20;10354",
+      "ementa": "Dispõe sobre a qualificação da Empresa Brasil de Comunicação no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32191930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-20-10356",
+      "titulo": "Decreto nº 10.356 de 20/05/2020",
+      "data": "2020-05-20",
+      "numero": "10356",
+      "urn": "urn:lex:br:federal:decreto:2020-05-20;10356",
+      "ementa": "Dispõe sobre a política industrial para o setor de tecnologias da informação e comunicação."
+    },
+    {
+      "senadoId": "32191782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-20-10357",
+      "titulo": "Decreto nº 10.357 de 20/05/2020",
+      "data": "2020-05-20",
+      "numero": "10357",
+      "urn": "urn:lex:br:federal:decreto:2020-05-20;10357",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Cidadania e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "32189094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-19-10352",
+      "titulo": "Decreto nº 10.352 de 19/05/2020",
+      "data": "2020-05-19",
+      "numero": "10352",
+      "urn": "urn:lex:br:federal:decreto:2020-05-19;10352",
+      "ementa": "Reduz temporariamente a alíquota do Imposto sobre Produtos Industrializados incidente sobre o produto que menciona."
+    },
+    {
+      "senadoId": "32189265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-19-10353",
+      "titulo": "Decreto nº 10.353 de 19/05/2020",
+      "data": "2020-05-19",
+      "numero": "10353",
+      "urn": "urn:lex:br:federal:decreto:2020-05-19;10353",
+      "ementa": "Dispõe sobre a qualificação dos estudos referentes a empreendimento público federal do setor rodoviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32183639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-18-10350",
+      "titulo": "Decreto nº 10.350 de 18/05/2020",
+      "data": "2020-05-18",
+      "numero": "10350",
+      "urn": "urn:lex:br:federal:decreto:2020-05-18;10350",
+      "ementa": "Dispõe sobre a criação da Conta destinada ao setor elétrico para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020 e regulamenta a Medida Provisória nº 950, de 8 de abril de 2020, e dá outras providências."
+    },
+    {
+      "senadoId": "32183728",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-18-10351",
+      "titulo": "Decreto nº 10.351 de 18/05/2020",
+      "data": "2020-05-18",
+      "numero": "10351",
+      "urn": "urn:lex:br:federal:decreto:2020-05-18;10351",
+      "ementa": "Altera o Decreto nº 10.159, de 9 de dezembro de 2019 que institui o Comitê de Governança Digital da Presidência da República."
+    },
+    {
+      "senadoId": "32177782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-13-10349",
+      "titulo": "Decreto nº 10.349 de 13/05/2020",
+      "data": "2020-05-13",
+      "numero": "10349",
+      "urn": "urn:lex:br:federal:decreto:2020-05-13;10349",
+      "ementa": "Dispõe sobre a qualificação da política de atração de investimentos privados para o setor de turismo, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32177634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-13-10347",
+      "titulo": "Decreto nº 10.347 de 13/05/2020",
+      "data": "2020-05-13",
+      "numero": "10347",
+      "urn": "urn:lex:br:federal:decreto:2020-05-13;10347",
+      "ementa": "Dispõe sobre as competências para a concessão de florestas públicas, em âmbito federal."
+    },
+    {
+      "senadoId": "32177708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-13-10348",
+      "titulo": "Decreto nº 10.348 de 13/05/2020",
+      "data": "2020-05-13",
+      "numero": "10348",
+      "urn": "urn:lex:br:federal:decreto:2020-05-13;10348",
+      "ementa": "Estabelece cumulatividades de Embaixadas do Brasil no Caribe e na África."
+    },
+    {
+      "senadoId": "32164470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-11-10345",
+      "titulo": "Decreto nº 10.345 de 11/05/2020",
+      "data": "2020-05-11",
+      "numero": "10345",
+      "urn": "urn:lex:br:federal:decreto:2020-05-11;10345",
+      "ementa": "Dispõe sobre a composição e as competências do Conselho de Participação de Fundos Garantidores para Cobertura de Riscos em Operações de Projetos de Infraestrutura de Grande Vulto e sobre o Conselho de Participação em Fundo Garantidor de Operações de Comércio Exterior."
+    },
+    {
+      "senadoId": "32164544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-11-10346",
+      "titulo": "Decreto nº 10.346 de 11/05/2020",
+      "data": "2020-05-11",
+      "numero": "10346",
+      "urn": "urn:lex:br:federal:decreto:2020-05-11;10346",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "32164396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-11-10344",
+      "titulo": "Decreto nº 10.344 de 11/05/2020",
+      "data": "2020-05-11",
+      "numero": "10344",
+      "urn": "urn:lex:br:federal:decreto:2020-05-11;10344",
+      "ementa": "Altera o Decreto nº 10.282, de 20 de março de 2020, que regulamenta a Lei nº 13.979, de 6 de fevereiro de 2020, para definir os serviços públicos e as atividades essenciais."
+    },
+    {
+      "senadoId": "32162713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-08-10343",
+      "titulo": "Decreto nº 10.343 de 08/05/2020",
+      "data": "2020-05-08",
+      "numero": "10343",
+      "urn": "urn:lex:br:federal:decreto:2020-05-08;10343",
+      "ementa": "Dispõe sobre a execução do Quadragésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 14 (44PA-ACE14), firmado pela República Federativa do Brasil e pela República Argentina."
+    },
+    {
+      "senadoId": "32160571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-07-10342",
+      "titulo": "Decreto nº 10.342 de 07/05/2020",
+      "data": "2020-05-07",
+      "numero": "10342",
+      "urn": "urn:lex:br:federal:decreto:2020-05-07;10342",
+      "ementa": "Altera o Decreto nº 10.282, de 20 de março de 2020, que regulamenta a Lei nº 13.979, de 6 de fevereiro de 2020, para definir os serviços públicos e as atividades essenciais."
+    },
+    {
+      "senadoId": "32153697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-06-10340",
+      "titulo": "Decreto nº 10.340 de 06/05/2020",
+      "data": "2020-05-06",
+      "numero": "10340",
+      "urn": "urn:lex:br:federal:decreto:2020-05-06;10340",
+      "ementa": "Altera o Decreto nº 9.373, de 11 de maio de 2018, que dispõe sobre a alienação, a cessão, a transferência, a destinação e a disposição final ambientalmente adequadas de bens móveis no âmbito da administração pública federal direta, autárquica e fundacional."
+    },
+    {
+      "senadoId": "32153623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-06-10339",
+      "titulo": "Decreto nº 10.339 de 06/05/2020",
+      "data": "2020-05-06",
+      "numero": "10339",
+      "urn": "urn:lex:br:federal:decreto:2020-05-06;10339",
+      "ementa": "Dispõe sobre a qualificação dos projetos de concessão florestal das Florestas Nacionais de Humaitá e do Iquiri e da gleba Castanho no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32153771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-06-10341",
+      "titulo": "Decreto nº 10.341 de 06/05/2020",
+      "data": "2020-05-06",
+      "numero": "10341",
+      "urn": "urn:lex:br:federal:decreto:2020-05-06;10341",
+      "ementa": "Autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem e em ações subsidiárias na faixa de fronteira, nas terras indígenas, nas unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal."
+    },
+    {
+      "senadoId": "32145575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-05-10336",
+      "titulo": "Decreto nº 10.336 de 05/05/2020",
+      "data": "2020-05-05",
+      "numero": "10336",
+      "urn": "urn:lex:br:federal:decreto:2020-05-05;10336",
+      "ementa": "Dispõe sobre a qualificação do projeto de poço transparente em reservatório de baixa permeabilidade de petróleo e gás natural, no âmbito no Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32145649",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-05-10337",
+      "titulo": "Decreto nº 10.337 de 05/05/2020",
+      "data": "2020-05-05",
+      "numero": "10337",
+      "urn": "urn:lex:br:federal:decreto:2020-05-05;10337",
+      "ementa": "Dispõe sobre a qualificação da décima sétima rodada de licitações de blocos exploratórios de petróleo e gás natural sob o regime de concessão no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32145723",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-05-05-10338",
+      "titulo": "Decreto nº 10.338 de 05/05/2020",
+      "data": "2020-05-05",
+      "numero": "10338",
+      "urn": "urn:lex:br:federal:decreto:2020-05-05;10338",
+      "ementa": "Dispõe sobre a qualificação dos leilões de geração de energia existente A-4 e A-5, ambos de 2020, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32142714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-30-10335",
+      "titulo": "Decreto nº 10.335 de 30/04/2020",
+      "data": "2020-04-30",
+      "numero": "10335",
+      "urn": "urn:lex:br:federal:decreto:2020-04-30;10335",
+      "ementa": "Altera o Decreto nº 5.621, de 16 de dezembro de 2005, que regulamenta a Lei nº 5.917, de 10 de setembro de 1973, que dispõe sobre o Plano Nacional de Viação."
+    },
+    {
+      "senadoId": "32139431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-29-10334",
+      "titulo": "Decreto nº 10.334 de 29/04/2020",
+      "data": "2020-04-29",
+      "numero": "10334",
+      "urn": "urn:lex:br:federal:decreto:2020-04-29;10334",
+      "ementa": "Altera o Decreto nº 9.058, de 25 de maio de 2017, que dispõe sobre a distribuição do quantitativo de Gratificações Temporárias das Unidades dos Sistemas Estruturadores da Administração Pública Federal - GSISTE e define os procedimentos a serem observados para a sua concessão."
+    },
+    {
+      "senadoId": "32139357",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-29-10333",
+      "titulo": "Decreto nº 10.333 de 29/04/2020",
+      "data": "2020-04-29",
+      "numero": "10333",
+      "urn": "urn:lex:br:federal:decreto:2020-04-29;10333",
+      "ementa": "Aprova o Regulamento do Fundo de Desenvolvimento Social."
+    },
+    {
+      "senadoId": "32135291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-28-10329",
+      "titulo": "Decreto nº 10.329 de 28/04/2020",
+      "data": "2020-04-28",
+      "numero": "10329",
+      "urn": "urn:lex:br:federal:decreto:2020-04-28;10329",
+      "ementa": "Altera o Decreto nº 10.282, de 20 de março de 2020, que regulamenta a Lei nº 13.979, de 6 de fevereiro de 2020, para definir os serviços públicos e as atividades essenciais."
+    },
+    {
+      "senadoId": "32135439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-28-10331",
+      "titulo": "Decreto nº 10.331 de 28/04/2020",
+      "data": "2020-04-28",
+      "numero": "10331",
+      "urn": "urn:lex:br:federal:decreto:2020-04-28;10331",
+      "ementa": "Dispõe sobre a qualificação de unidades de conservação no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32135365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-28-10330",
+      "titulo": "Decreto nº 10.330 de 28/04/2020",
+      "data": "2020-04-28",
+      "numero": "10330",
+      "urn": "urn:lex:br:federal:decreto:2020-04-28;10330",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos públicos federais do setor portuário, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "32135217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-28-10328",
+      "titulo": "Decreto nº 10.328 de 28/04/2020",
+      "data": "2020-04-28",
+      "numero": "10328",
+      "urn": "urn:lex:br:federal:decreto:2020-04-28;10328",
+      "ementa": "Altera o Decreto nº 8.690, de 11 de março de 2016, que dispõe sobre a gestão das consignações em folha de pagamento no âmbito do sistema de gestão de pessoas do Poder Executivo federal."
+    },
+    {
+      "senadoId": "32135513",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-28-10332",
+      "titulo": "Decreto nº 10.332 de 28/04/2020",
+      "data": "2020-04-28",
+      "numero": "10332",
+      "urn": "urn:lex:br:federal:decreto:2020-04-28;10332",
+      "ementa": "Institui a Estratégia de Governo Digital para o período de 2020 a 2022, no âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional e dá outras providências."
+    },
+    {
+      "senadoId": "32134328",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-27-10327",
+      "titulo": "Decreto nº 10.327 de 27/04/2020",
+      "data": "2020-04-27",
+      "numero": "10327",
+      "urn": "urn:lex:br:federal:decreto:2020-04-27;10327",
+      "ementa": "Altera o Decreto nº 9.920, de 18 de julho de 2019, que institui o Conselho para a Preparação e o Acompanhamento do Processo de Acessão da República Federativa do Brasil à Organização para a Cooperação e Desenvolvimento Econômico - OCDE."
+    },
+    {
+      "senadoId": "32130585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-24-10326",
+      "titulo": "Decreto nº 10.326 de 24/04/2020",
+      "data": "2020-04-24",
+      "numero": "10326",
+      "urn": "urn:lex:br:federal:decreto:2020-04-24;10326",
+      "ementa": "Altera o Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, aprovado pelo Decreto nº 5.371, de 17 de fevereiro de 2005, o Decreto nº 5.820, de 29 junho de 2006, o Decreto nº 8.139, de 7 de novembro de 2013, e o Decreto nº 9.942, de 25 julho de 2019, para dispor sobre a execução do serviço de radiodifusão e o processo de licenciamento de estações de radiodifusão."
+    },
+    {
+      "senadoId": "32124178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-22-10324",
+      "titulo": "Decreto nº 10.324 de 22/04/2020",
+      "data": "2020-04-22",
+      "numero": "10324",
+      "urn": "urn:lex:br:federal:decreto:2020-04-22;10324",
+      "ementa": "Altera o Decreto nº 10.249, de 19 de fevereiro de 2020, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo federal para o exercício de 2020."
+    },
+    {
+      "senadoId": "32124320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-22-10325",
+      "titulo": "Decreto nº 10.325 de 22/04/2020",
+      "data": "2020-04-22",
+      "numero": "10325",
+      "urn": "urn:lex:br:federal:decreto:2020-04-22;10325",
+      "ementa": "Institui o Comitê Nacional de Desenvolvimento Tecnológico da Habitação."
+    },
+    {
+      "senadoId": "32117448",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-17-10323",
+      "titulo": "Decreto nº 10.323 de 17/04/2020",
+      "data": "2020-04-17",
+      "numero": "10323",
+      "urn": "urn:lex:br:federal:decreto:2020-04-17;10323",
+      "ementa": "Altera a relação a que se refere a Seção I do Anexo III à Lei nº 13.898, de 11 de novembro de 2019, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020."
+    },
+    {
+      "senadoId": "32111653",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-15-10321",
+      "titulo": "Decreto nº 10.321 de 15/04/2020",
+      "data": "2020-04-15",
+      "numero": "10321",
+      "urn": "urn:lex:br:federal:decreto:2020-04-15;10321",
+      "ementa": "Regulamenta a Lei nº 13.971, de 27 de dezembro de 2019, que institui o Plano Plurianual da União para o período 2020 a 2023, e altera o Decreto nº 9.834, de 12 de junho de 2019, que institui o Conselho de Monitoramento e Avaliação de Políticas Públicas."
+    },
+    {
+      "senadoId": "32111740",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-15-10322",
+      "titulo": "Decreto nº 10.322 de 15/04/2020",
+      "data": "2020-04-15",
+      "numero": "10322",
+      "urn": "urn:lex:br:federal:decreto:2020-04-15;10322",
+      "ementa": "Dispõe sobre a qualificação da Nuclebrás Equipamentos Pesados S.A. - Nuclep no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32095648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-09-10320",
+      "titulo": "Decreto nº 10.320 de 09/04/2020",
+      "data": "2020-04-09",
+      "numero": "10320",
+      "urn": "urn:lex:br:federal:decreto:2020-04-09;10320",
+      "ementa": "Institui o Programa para Aprimoramento das Licitações de Exploração e Produção de Petróleo e Gás Natural e o seu Comitê Interministerial Executivo."
+    },
+    {
+      "senadoId": "32095576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-09-10318",
+      "titulo": "Decreto nº 10.318 de 09/04/2020",
+      "data": "2020-04-09",
+      "numero": "10318",
+      "urn": "urn:lex:br:federal:decreto:2020-04-09;10318",
+      "ementa": "Reduz temporariamente as alíquotas da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins incidentes sobre os produtos que menciona."
+    },
+    {
+      "senadoId": "32095612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-09-10319",
+      "titulo": "Decreto nº 10.319 de 09/04/2020",
+      "data": "2020-04-09",
+      "numero": "10319",
+      "urn": "urn:lex:br:federal:decreto:2020-04-09;10319",
+      "ementa": "Institui a Comissão Nacional das Autoridades Aeroportuárias e a Comissão Nacional das Autoridades nos Portos."
+    },
+    {
+      "senadoId": "32071130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-07-10317",
+      "titulo": "Decreto nº 10.317 de 07/04/2020",
+      "data": "2020-04-07",
+      "numero": "10317",
+      "urn": "urn:lex:br:federal:decreto:2020-04-07;10317",
+      "ementa": "Altera o Decreto nº 5.751, de 12 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo Direção e Assessoramento Superiores - DAS e das Funções Gratificadas do Comando do Exército do Ministério da Defesa."
+    },
+    {
+      "senadoId": "32071071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-07-10316",
+      "titulo": "Decreto nº 10.316 de 07/04/2020",
+      "data": "2020-04-07",
+      "numero": "10316",
+      "urn": "urn:lex:br:federal:decreto:2020-04-07;10316",
+      "ementa": "Regulamenta a Lei nº 13.982, de 2 de abril de 2020, que estabelece medidas excepcionais de proteção social a serem adotadas durante o período de enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19)."
+    },
+    {
+      "senadoId": "32065941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-06-10315",
+      "titulo": "Decreto nº 10.315 de 06/04/2020",
+      "data": "2020-04-06",
+      "numero": "10315",
+      "urn": "urn:lex:br:federal:decreto:2020-04-06;10315",
+      "ementa": "Prorroga, de ofício, a vigência de instrumentos e o prazo para bloqueio dos restos a pagar de transferências voluntárias."
+    },
+    {
+      "senadoId": "32065905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-06-10314",
+      "titulo": "Decreto nº 10.314 de 06/04/2020",
+      "data": "2020-04-06",
+      "numero": "10314",
+      "urn": "urn:lex:br:federal:decreto:2020-04-06;10314",
+      "ementa": "Altera o Decreto nº 9.764, de 11 de abril de 2019, que dispõe sobre o recebimento de doações de bens móveis e de serviços, sem ônus ou encargos, de pessoas físicas ou jurídicas de direito privado pelos órgãos e pelas entidades da administração pública federal direta, autárquica e fundacional."
+    },
+    {
+      "senadoId": "32065977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-06-10313",
+      "titulo": "Decreto nº 10.313 de 06/04/2020",
+      "data": "2020-04-06",
+      "numero": "10313",
+      "urn": "urn:lex:br:federal:decreto:2020-04-06;10313",
+      "ementa": "Revoga dispositivos do Decreto nº 10.072, de 18 de outubro de 2019, que altera o Decreto nº 9.745, de 8 de abril de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Economia, e o Decreto nº 10.186, de 20 de dezembro de 2019."
+    },
+    {
+      "senadoId": "32053071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-04-10312",
+      "titulo": "Decreto nº 10.312 de 04/04/2020",
+      "data": "2020-04-04",
+      "numero": "10312",
+      "urn": "urn:lex:br:federal:decreto:2020-04-04;10312",
+      "ementa": "Amplia, temporariamente, o escopo de multiprogramação com conteúdo específico destinado às atividades de educação, ciência, tecnologia, inovações, cidadania e saúde de entidades executoras de serviço de radiodifusão de sons e imagens em tecnologia digital, com fins exclusivamente educacionais ou de exploração comercial, em razão da pandemia da covid-19."
+    },
+    {
+      "senadoId": "32052985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-03-10311",
+      "titulo": "Decreto nº 10.311 de 03/04/2020",
+      "data": "2020-04-03",
+      "numero": "10311",
+      "urn": "urn:lex:br:federal:decreto:2020-04-03;10311",
+      "ementa": "Institui o Conselho de Solidariedade para Combate à Covid-19 e aos seus Efeitos Sociais e Econômicos."
+    },
+    {
+      "senadoId": "32047071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-02-10307",
+      "titulo": "Decreto nº 10.307 de 02/04/2020",
+      "data": "2020-04-02",
+      "numero": "10307",
+      "urn": "urn:lex:br:federal:decreto:2020-04-02;10307",
+      "ementa": "Promulga o Acordo entre a República Federativa do Brasil e o Reino da Suécia sobre Troca e Proteção Mútua de Informação Classificada, firmado em Estocolmo, em 3 de abril de 2014."
+    },
+    {
+      "senadoId": "32047143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-02-10309",
+      "titulo": "Decreto nº 10.309 de 02/04/2020",
+      "data": "2020-04-02",
+      "numero": "10309",
+      "urn": "urn:lex:br:federal:decreto:2020-04-02;10309",
+      "ementa": "Altera o Decreto nº 9.287, de 15 de fevereiro de 2018, que dispõe sobre a utilização de veículos oficiais pela administração pública federal direta, autárquica e fundacional."
+    },
+    {
+      "senadoId": "32047035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-02-10306",
+      "titulo": "Decreto nº 10.306 de 02/04/2020",
+      "data": "2020-04-02",
+      "numero": "10306",
+      "urn": "urn:lex:br:federal:decreto:2020-04-02;10306",
+      "ementa": "Estabelece a utilização do Building Information Modelling na execução direta ou indireta de obras e serviços de engenharia realizada pelos órgãos e pelas entidades da administração pública federal, no âmbito da Estratégia Nacional de Disseminação do Building Information Modelling - Estratégia BIM BR, instituída pelo Decreto nº 9.983, de 22 de agosto de 2019."
+    },
+    {
+      "senadoId": "32047107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-02-10308",
+      "titulo": "Decreto nº 10.308 de 02/04/2020",
+      "data": "2020-04-02",
+      "numero": "10308",
+      "urn": "urn:lex:br:federal:decreto:2020-04-02;10308",
+      "ementa": "Dispõe sobre requisição de bens e serviços prestados por empresas públicas vinculadas ao Ministério da Infraestrutura durante o período do estado de calamidade pública decorrente da pandemia de coronavírus (covid-19)."
+    },
+    {
+      "senadoId": "32047179",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-02-10310",
+      "titulo": "Decreto nº 10.310 de 02/04/2020",
+      "data": "2020-04-02",
+      "numero": "10310",
+      "urn": "urn:lex:br:federal:decreto:2020-04-02;10310",
+      "ementa": "Altera o Decreto nº 10.139, de 28 de novembro de 2019, o Decreto nº 10.178, de 18 de dezembro de 2019, e o Decreto nº 10.229, de 5 de fevereiro de 2020, para adiar prazos e etapas que estabelecem."
+    },
+    {
+      "senadoId": "32040252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-01-10304",
+      "titulo": "Decreto nº 10.304 de 01/04/2020",
+      "data": "2020-04-01",
+      "numero": "10304",
+      "urn": "urn:lex:br:federal:decreto:2020-04-01;10304",
+      "ementa": "Dispõe sobre a exclusão da Eletrobras Participações S.A. - Eletropar do Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32040288",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-01-10305",
+      "titulo": "Decreto nº 10.305 de 01/04/2020",
+      "data": "2020-04-01",
+      "numero": "10305",
+      "urn": "urn:lex:br:federal:decreto:2020-04-01;10305",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro ou relativas a Títulos ou Valores Mobiliários."
+    },
+    {
+      "senadoId": "32040193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-01-10303",
+      "titulo": "Decreto nº 10.303 de 01/04/2020",
+      "data": "2020-04-01",
+      "numero": "10303",
+      "urn": "urn:lex:br:federal:decreto:2020-04-01;10303",
+      "ementa": "Altera o Decreto nº 9.907, de 9 de julho de 2019, que remaneja, em caráter temporário, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS para a Secretaria-Geral da Presidência da República."
+    },
+    {
+      "senadoId": "32040060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-04-01-10302",
+      "titulo": "Decreto nº 10.302 de 01/04/2020",
+      "data": "2020-04-01",
+      "numero": "10302",
+      "urn": "urn:lex:br:federal:decreto:2020-04-01;10302",
+      "ementa": "Reduz temporariamente as alíquotas do Imposto sobre Produtos Industrializados - IPI incidentes sobre os produtos que menciona."
+    },
+    {
+      "senadoId": "32025334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10298",
+      "titulo": "Decreto nº 10.298 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10298",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10298",
+      "ementa": "Institui o Conselho Nacional de Secretários de Transportes."
+    },
+    {
+      "senadoId": "32025442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10301",
+      "titulo": "Decreto nº 10.301 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10301",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10301",
+      "ementa": "Altera o Decreto nº 5.023, de 23 de março de 2004, que cria a Medalha da Vitória."
+    },
+    {
+      "senadoId": "32025514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10295",
+      "titulo": "Decreto nº 10.295 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10295",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10295",
+      "ementa": "Altera o Decreto nº 10.249, de 19 de fevereiro de 2020, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo federal para o exercício de 2020."
+    },
+    {
+      "senadoId": "32025478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10294",
+      "titulo": "Decreto nº 10.294 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10294",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10294",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, do Ministério de Minas e Energia e de Encargos Financeiros da União, crédito suplementar no valor de R$ 142.004.435,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+      "senadoId": "32025406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10300",
+      "titulo": "Decreto nº 10.300 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10300",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10300",
+      "ementa": "Altera o Decreto nº 10.277, de 16 de março de 2020, para dispor sobre a composição do Centro de Coordenação de Operações do Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19."
+    },
+    {
+      "senadoId": "32025370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10299",
+      "titulo": "Decreto nº 10.299 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10299",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10299",
+      "ementa": "Transfere a sede do Comando de Artilharia do Exército."
+    },
+    {
+      "senadoId": "32025262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10296",
+      "titulo": "Decreto nº 10.296 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10296",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10296",
+      "ementa": "Dispõe sobre a Região Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro e institui o seu Conselho Administrativo."
+    },
+    {
+      "senadoId": "32025298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-30-10297",
+      "titulo": "Decreto nº 10.297 de 30/03/2020",
+      "data": "2020-03-30",
+      "numero": "10297",
+      "urn": "urn:lex:br:federal:decreto:2020-03-30;10297",
+      "ementa": "Dispõe sobre a inclusão do Centro Nacional de Tecnologia Eletrônica Avançada S.A. no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "32009289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-25-10293",
+      "titulo": "Decreto nº 10.293 de 25/03/2020",
+      "data": "2020-03-25",
+      "numero": "10293",
+      "urn": "urn:lex:br:federal:decreto:2020-03-25;10293",
+      "ementa": "Altera o Decreto nº 9.570, de 20 de novembro de2018, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Defesa."
+    },
+    {
+      "senadoId": "32009253",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-25-10292",
+      "titulo": "Decreto nº 10.292 de 25/03/2020",
+      "data": "2020-03-25",
+      "numero": "10292",
+      "urn": "urn:lex:br:federal:decreto:2020-03-25;10292",
+      "ementa": "Altera o Decreto nº 10.282, de 20 de março de 2020,que regulamenta a Lei nº 13.979, de 6 de fevereiro de 2020, para definir os serviços públicos e as atividades essenciais."
+    },
+    {
+      "senadoId": "32001415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-24-10289",
+      "titulo": "Decreto nº 10.289 de 24/03/2020",
+      "data": "2020-03-24",
+      "numero": "10289",
+      "urn": "urn:lex:br:federal:decreto:2020-03-24;10289",
+      "ementa": "Altera o Decreto nº 10.277, de 16 de março de 2020, para instituir o Centro de Coordenação de Operações, no âmbito do Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid19."
+    },
+    {
+      "senadoId": "32003716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-24-10291",
+      "titulo": "Decreto nº 10.291 de 24/03/2020",
+      "data": "2020-03-24",
+      "numero": "10291",
+      "urn": "urn:lex:br:federal:decreto:2020-03-24;10291",
+      "ementa": "Dispõe sobre a execução do Centésimo Nonagésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 18 (190PA-ACE18),firmado pela República Federativa do Brasil, pela República Argentina, pela República do Paraguai e pela República Oriental do Uruguai."
+    },
+    {
+      "senadoId": "32003680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-24-10290",
+      "titulo": "Decreto nº 10.290 de 24/03/2020",
+      "data": "2020-03-24",
+      "numero": "10290",
+      "urn": "urn:lex:br:federal:decreto:2020-03-24;10290",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Desenvolvimento Regional e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "31994788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-22-10288",
+      "titulo": "Decreto nº 10.288 de 22/03/2020",
+      "data": "2020-03-22",
+      "numero": "10288",
+      "urn": "urn:lex:br:federal:decreto:2020-03-22;10288",
+      "ementa": "Regulamenta a Lei nº 13.979, de 6 de fevereiro de 2020, para definir as atividades e os serviços relacionados à imprensa como essenciais."
+    },
+    {
+      "senadoId": "31994968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-20-10284",
+      "titulo": "Decreto nº 10.284 de 20/03/2020",
+      "data": "2020-03-20",
+      "numero": "10284",
+      "urn": "urn:lex:br:federal:decreto:2020-03-20;10284",
+      "ementa": "Dispõe sobre a dilação do prazo de vencimento das tarifas de navegação aérea, durante o período de enfrentamento da pandemia da covid-19."
+    },
+    {
+      "senadoId": "31994824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-20-10286",
+      "titulo": "Decreto nº 10.286 de 20/03/2020",
+      "data": "2020-03-20",
+      "numero": "10286",
+      "urn": "urn:lex:br:federal:decreto:2020-03-20;10286",
+      "ementa": "Promulga o Acordo de Cooperação em Agricultura entre o Governo da República Federativa do Brasil e o Governo da República do Uzbequistão, firmado em Brasília, em 28 de maio de 2009."
+    },
+    {
+      "senadoId": "31995004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-20-10285",
+      "titulo": "Decreto nº 10.285 de 20/03/2020",
+      "data": "2020-03-20",
+      "numero": "10285",
+      "urn": "urn:lex:br:federal:decreto:2020-03-20;10285",
+      "ementa": "Reduz temporariamente as alíquotas do Imposto sobre Produtos Industrializados - IPI incidentes sobre os produtos que menciona."
+    },
+    {
+      "senadoId": "31994896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-20-10282",
+      "titulo": "Decreto nº 10.282 de 20/03/2020",
+      "data": "2020-03-20",
+      "numero": "10282",
+      "urn": "urn:lex:br:federal:decreto:2020-03-20;10282",
+      "ementa": "Regulamenta a Lei nº 13.979, de 6 de fevereiro de 2020, para definir os serviços públicos e as atividades essenciais."
+    },
+    {
+      "senadoId": "31994860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-20-10287",
+      "titulo": "Decreto nº 10.287 de 20/03/2020",
+      "data": "2020-03-20",
+      "numero": "10287",
+      "urn": "urn:lex:br:federal:decreto:2020-03-20;10287",
+      "ementa": "Promulga o Acordo sobre a Criação e a Implementação de um Sistema de Credenciamento de Cursos de Graduação para o Reconhecimento Regional da Qualidade Acadêmica dos espectivos Diplomas no Mercosul e Estados Associados, firmado em San Miguel de Tucumán, em 30 de junho de 2008."
+    },
+    {
+      "senadoId": "31994932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-20-10283",
+      "titulo": "Decreto nº 10.283 de 20/03/2020",
+      "data": "2020-03-20",
+      "numero": "10283",
+      "urn": "urn:lex:br:federal:decreto:2020-03-20;10283",
+      "ementa": "Institui o Serviço Social Autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde - Adaps."
+    },
+    {
+      "senadoId": "31990518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-18-10279",
+      "titulo": "Decreto nº 10.279 de 18/03/2020",
+      "data": "2020-03-18",
+      "numero": "10279",
+      "urn": "urn:lex:br:federal:decreto:2020-03-18;10279",
+      "ementa": "Altera o Decreto nº 9.094, de 17 de julho de 2017, que regulamenta dispositivos da Lei nº 13.460, de 26 de junho de 2017, dispõe sobre a simplificação do atendimento prestado aos usuários dos serviços públicos, institui o Cadastro de Pessoas Físicas - CPF como instrumento suficiente e substitutivo para a apresentação de dados do cidadão no exercício de obrigações e direitos e na obtenção de benefícios, ratifica a dispensa do reconhecimento de firma e da autenticação em documentos produzidos no País e institui a Carta de Serviços ao Usuário."
+    },
+    {
+      "senadoId": "31990460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-18-10278",
+      "titulo": "Decreto nº 10.278 de 18/03/2020",
+      "data": "2020-03-18",
+      "numero": "10278",
+      "urn": "urn:lex:br:federal:decreto:2020-03-18;10278",
+      "ementa": "Regulamenta o disposto no inciso X do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019, e no art. 2º-A da Lei nº 12.682, de 9 de julho de 2012, para estabelecer a técnica e os requisitos para a digitalização de documentos públicos ou privados, a fim de que os documentos digitalizados produzam os mesmos efeitos legais dos documentos originais."
+    },
+    {
+      "senadoId": "31990554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-18-10280",
+      "titulo": "Decreto nº 10.280 de 18/03/2020",
+      "data": "2020-03-18",
+      "numero": "10280",
+      "urn": "urn:lex:br:federal:decreto:2020-03-18;10280",
+      "ementa": "Altera o Decreto nº 9.976, de 19 de agosto de 2019, que dispõe sobre o Conselho de Participação em Fundos Garantidores de Risco de Crédito para Micro,Pequenas e Médias Empresas e em Operações de Crédito Educativo."
+    },
+    {
+      "senadoId": "31990590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-18-10281",
+      "titulo": "Decreto nº 10.281 de 18/03/2020",
+      "data": "2020-03-18",
+      "numero": "10281",
+      "urn": "urn:lex:br:federal:decreto:2020-03-18;10281",
+      "ementa": "Reabre, em favor do Ministério da Defesa, crédito extraordinário, no valor de R$10.601.952,00, aberto pela Medida Provisória nº 912, de 19 de dezembro de 2019."
+    },
+    {
+      "senadoId": "31989581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-16-10277",
+      "titulo": "Decreto nº 10.277 de 16/03/2020",
+      "data": "2020-03-16",
+      "numero": "10277",
+      "urn": "urn:lex:br:federal:decreto:2020-03-16;10277",
+      "ementa": "Institui o Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19."
+    },
+    {
+      "senadoId": "31988799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-13-10276",
+      "titulo": "Decreto nº 10.276 de 13/03/2020",
+      "data": "2020-03-13",
+      "numero": "10276",
+      "urn": "urn:lex:br:federal:decreto:2020-03-13;10276",
+      "ementa": "Promulga o texto revisado do Protocolo de Revisão da Convenção Internacional para a Simplificação e a Harmonização dos Regimes Aduaneiros - Convenção de Quioto, concluído em Bruxelas, em 26 de junho de 1999."
+    },
+    {
+      "senadoId": "31988516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-13-10273",
+      "titulo": "Decreto nº 10.273 de 13/03/2020",
+      "data": "2020-03-13",
+      "numero": "10273",
+      "urn": "urn:lex:br:federal:decreto:2020-03-13;10273",
+      "ementa": "Altera o Decreto nº 8.538, de 6 de outubro de 2015, para adequá-lo ao disposto no art. 34 da Lei nº 11.488, de 15 de junho de 2007, e estender o tratamento diferenciado para consórcios formados por microempresas e empresas de pequeno porte."
+    },
+    {
+      "senadoId": "31988737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-13-10275",
+      "titulo": "Decreto nº 10.275 de 13/03/2020",
+      "data": "2020-03-13",
+      "numero": "10275",
+      "urn": "urn:lex:br:federal:decreto:2020-03-13;10275",
+      "ementa": "Institui o Comitê Técnico da Indústria de Baixo Carbono."
+    },
+    {
+      "senadoId": "31988669",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-13-10274",
+      "titulo": "Decreto nº 10.274 de 13/03/2020",
+      "data": "2020-03-13",
+      "numero": "10274",
+      "urn": "urn:lex:br:federal:decreto:2020-03-13;10274",
+      "ementa": "Altera o Anexo ao Decreto nº 3.446, de 4 de maio de 2000, que aprova o Regulamento da Ordem do Mérito Aeronáutico."
+    },
+    {
+      "senadoId": "31987320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-12-10272",
+      "titulo": "Decreto nº 10.272 de 12/03/2020",
+      "data": "2020-03-12",
+      "numero": "10272",
+      "urn": "urn:lex:br:federal:decreto:2020-03-12;10272",
+      "ementa": "Altera o Decreto nº 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica."
+    },
+    {
+      "senadoId": "31976171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-06-10270",
+      "titulo": "Decreto nº 10.270 de 06/03/2020",
+      "data": "2020-03-06",
+      "numero": "10270",
+      "urn": "urn:lex:br:federal:decreto:2020-03-06;10270",
+      "ementa": "Institui o Grupo de Trabalho de Avaliação Nacional de Riscos de Lavagem de Dinheiro, Financiamento do Terrorismo e Financiamento da Proliferação de Armas de Destruição em Massa."
+    },
+    {
+      "senadoId": "31976135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-06-10269",
+      "titulo": "Decreto nº 10.269 de 06/03/2020",
+      "data": "2020-03-06",
+      "numero": "10269",
+      "urn": "urn:lex:br:federal:decreto:2020-03-06;10269",
+      "ementa": "Institui o Comitê Estratégico e o Comitê-Executivo do Programa Nacional de Levantamento e Interpretação de Solos do Brasil."
+    },
+    {
+      "senadoId": "31976207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-06-10271",
+      "titulo": "Decreto nº 10.271 de 06/03/2020",
+      "data": "2020-03-06",
+      "numero": "10271",
+      "urn": "urn:lex:br:federal:decreto:2020-03-06;10271",
+      "ementa": "Dispõe sobre a execução da Resolução GMC nº 37/19, de 15 de julho de 2019, do Grupo Mercado Comum, que dispõe sobre a proteção dos consumidores nas operações de comércio eletrônico."
+    },
+    {
+      "senadoId": "31976008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-06-10268",
+      "titulo": "Decreto nº 10.268 de 06/03/2020",
+      "data": "2020-03-06",
+      "numero": "10268",
+      "urn": "urn:lex:br:federal:decreto:2020-03-06;10268",
+      "ementa": "Dispõe sobre a implementação e o acompanhamento da participação da República Federativa do Brasil no programa Global Entry dos Estados Unidos da América de trâmite imigratório simplificado para viajantes pré-aprovados."
+    },
+    {
+      "senadoId": "31973497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-05-10263",
+      "titulo": "Decreto nº 10.263 de 05/03/2020",
+      "data": "2020-03-05",
+      "numero": "10263",
+      "urn": "urn:lex:br:federal:decreto:2020-03-05;10263",
+      "ementa": "Altera o Decreto nº 2.594, de 15 de maio de 1998, que regulamenta a Lei nº 9.491, de 9 de setembro de 1997, para dispor sobre o Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "31973605",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-05-10266",
+      "titulo": "Decreto nº 10.266 de 05/03/2020",
+      "data": "2020-03-05",
+      "numero": "10266",
+      "urn": "urn:lex:br:federal:decreto:2020-03-05;10266",
+      "ementa": "Dispõe sobre a identidade funcional expedida pela administração pública federal."
+    },
+    {
+      "senadoId": "31973533",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-05-10264",
+      "titulo": "Decreto nº 10.264 de 05/03/2020",
+      "data": "2020-03-05",
+      "numero": "10264",
+      "urn": "urn:lex:br:federal:decreto:2020-03-05;10264",
+      "ementa": "Altera o Decreto nº 10.252, de 20 de fevereiro de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos cargos em comissão e das funções de confiança do Instituto Nacional de Colonização e Reforma Agrária - Incra e remaneja os cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "31973461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-05-10262",
+      "titulo": "Decreto nº 10.262 de 05/03/2020",
+      "data": "2020-03-05",
+      "numero": "10262",
+      "urn": "urn:lex:br:federal:decreto:2020-03-05;10262",
+      "ementa": "Dispõe sobre a execução do Quadragésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 14 (43PA-ACE14), firmado pela República Federativa do Brasil e pela República Argentina."
+    },
+    {
+      "senadoId": "31973641",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-05-10267",
+      "titulo": "Decreto nº 10.267 de 05/03/2020",
+      "data": "2020-03-05",
+      "numero": "10267",
+      "urn": "urn:lex:br:federal:decreto:2020-03-05;10267",
+      "ementa": "Dispõe sobre o transporte aéreo de autoridades em aeronaves do Comando da Aeronáutica."
+    },
+    {
+      "senadoId": "31973569",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-05-10265",
+      "titulo": "Decreto nº 10.265 de 05/03/2020",
+      "data": "2020-03-05",
+      "numero": "10265",
+      "urn": "urn:lex:br:federal:decreto:2020-03-05;10265",
+      "ementa": "Institui a Câmara Técnica de Normas Contábeis e de Demonstrativos Fiscais da Federação."
+    },
+    {
+      "senadoId": "31971771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-04-10261",
+      "titulo": "Decreto nº 10.261 de 04/03/2020",
+      "data": "2020-03-04",
+      "numero": "10261",
+      "urn": "urn:lex:br:federal:decreto:2020-03-04;10261",
+      "ementa": "Altera o Decreto nº 10.251, de 20 de fevereiro de 2020, para reduzir o prazo do emprego das Forças Armadas para a Garantia da Lei e da Ordem no Estado do Ceará."
+    },
+    {
+      "senadoId": "31967574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-03-03-10260",
+      "titulo": "Decreto nº 10.260 de 03/03/2020",
+      "data": "2020-03-03",
+      "numero": "10260",
+      "urn": "urn:lex:br:federal:decreto:2020-03-03;10260",
+      "ementa": "Institui o Programa Abrace o Marajó e o seu Comitê Gestor."
+    },
+    {
+      "senadoId": "31958882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-28-10258",
+      "titulo": "Decreto nº 10.258 de 28/02/2020",
+      "data": "2020-02-28",
+      "numero": "10258",
+      "urn": "urn:lex:br:federal:decreto:2020-02-28;10258",
+      "ementa": "Altera o Decreto nº 9.052, de 15 de maio de 2017, que dispõe sobre o processo de inventariança do Fundo Nacional de Desenvolvimento."
+    },
+    {
+      "senadoId": "31958918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-28-10259",
+      "titulo": "Decreto nº 10.259 de 28/02/2020",
+      "data": "2020-02-28",
+      "numero": "10259",
+      "urn": "urn:lex:br:federal:decreto:2020-02-28;10259",
+      "ementa": "Altera o Decreto nº 10.251, de 20 de fevereiro de 2020, para ampliar o prazo do emprego das Forças Armadas para a Garantia da Lei e da Ordem no Estado do Ceará."
+    },
+    {
+      "senadoId": "31957430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-27-10257",
+      "titulo": "Decreto nº 10.257 de 27/02/2020",
+      "data": "2020-02-27",
+      "numero": "10257",
+      "urn": "urn:lex:br:federal:decreto:2020-02-27;10257",
+      "ementa": "Altera o Decreto nº 9.278, de 5 de fevereiro de 2018, que regulamenta a Lei nº 7.116, de 29 de agosto de 1983, que assegura validade nacional às Carteiras de Identidade e regula sua expedição."
+    },
+    {
+      "senadoId": "31957394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-27-10256",
+      "titulo": "Decreto nº 10.256 de 27/02/2020",
+      "data": "2020-02-27",
+      "numero": "10256",
+      "urn": "urn:lex:br:federal:decreto:2020-02-27;10256",
+      "ementa": "Promulga o Acordo sobre Gratuidade de Vistos para Estudantes e Docentes dos Estados Partes do Mercosul, firmado em Córdoba, em 20 de julho de 2006."
+    },
+    {
+      "senadoId": "31957358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-27-10255",
+      "titulo": "Decreto nº 10.255 de 27/02/2020",
+      "data": "2020-02-27",
+      "numero": "10255",
+      "urn": "urn:lex:br:federal:decreto:2020-02-27;10255",
+      "ementa": "Convoca a Quinta Conferência Nacional dos Direitos da Pessoa com Deficiência."
+    },
+    {
+      "senadoId": "31955544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-20-10251",
+      "titulo": "Decreto nº 10.251 de 20/02/2020",
+      "data": "2020-02-20",
+      "numero": "10251",
+      "urn": "urn:lex:br:federal:decreto:2020-02-20;10251",
+      "ementa": "Autoriza o emprego das Forças Armadas para a Garantia da Lei e da Ordem no Estado do Ceará."
+    },
+    {
+      "senadoId": "31955452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-20-10253",
+      "titulo": "Decreto nº 10.253 de 20/02/2020",
+      "data": "2020-02-20",
+      "numero": "10253",
+      "urn": "urn:lex:br:federal:decreto:2020-02-20;10253",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Agricultura, Pecuária e Abastecimento e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "31955508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-20-10254",
+      "titulo": "Decreto nº 10.254 de 20/02/2020",
+      "data": "2020-02-20",
+      "numero": "10254",
+      "urn": "urn:lex:br:federal:decreto:2020-02-20;10254",
+      "ementa": "Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016."
+    },
+    {
+      "senadoId": "31955416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-20-10252",
+      "titulo": "Decreto nº 10.252 de 20/02/2020",
+      "data": "2020-02-20",
+      "numero": "10252",
+      "urn": "urn:lex:br:federal:decreto:2020-02-20;10252",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto Nacional de Colonização e Reforma Agrária - Incra, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "31953444",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-19-10250",
+      "titulo": "Decreto nº 10.250 de 19/02/2020",
+      "data": "2020-02-19",
+      "numero": "10250",
+      "urn": "urn:lex:br:federal:decreto:2020-02-19;10250",
+      "ementa": "Institui a Comissão Interministerial Brasil 100 Anos Olímpicos."
+    },
+    {
+      "senadoId": "31953301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-19-10249",
+      "titulo": "Decreto nº 10.249 de 19/02/2020",
+      "data": "2020-02-19",
+      "numero": "10249",
+      "urn": "urn:lex:br:federal:decreto:2020-02-19;10249",
+      "ementa": "Dispõe sobre a programação orçamentária e financeira, estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2020 e dá outras providências."
+    },
+    {
+      "senadoId": "31950040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-18-10245",
+      "titulo": "Decreto nº 10.245 de 18/02/2020",
+      "data": "2020-02-18",
+      "numero": "10245",
+      "urn": "urn:lex:br:federal:decreto:2020-02-18;10245",
+      "ementa": "Dispõe sobre o Conselho do Programa de Parcerias de Investimentos."
+    },
+    {
+      "senadoId": "31950077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-18-10246",
+      "titulo": "Decreto nº 10.246 de 18/02/2020",
+      "data": "2020-02-18",
+      "numero": "10246",
+      "urn": "urn:lex:br:federal:decreto:2020-02-18;10246",
+      "ementa": "Institui o Programa Brasil Mais e dispõe sobre o Comitê de Orientação Estratégica do Programa Brasil Mais."
+    },
+    {
+      "senadoId": "31950151",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-18-10248",
+      "titulo": "Decreto nº 10.248 de 18/02/2020",
+      "data": "2020-02-18",
+      "numero": "10248",
+      "urn": "urn:lex:br:federal:decreto:2020-02-18;10248",
+      "ementa": "Dispõe sobre a qualificação de trecho da rodovia federal BR-040/DF/GO/MG, para fins de relicitação, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "31950114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-18-10247",
+      "titulo": "Decreto nº 10.247 de 18/02/2020",
+      "data": "2020-02-18",
+      "numero": "10247",
+      "urn": "urn:lex:br:federal:decreto:2020-02-18;10247",
+      "ementa": "Cria a Medalha Mérito Engenharia da Marinha e altera o Decreto nº 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares."
+    },
+    {
+      "senadoId": "31944647",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-13-10242",
+      "titulo": "Decreto nº 10.242 de 13/02/2020",
+      "data": "2020-02-13",
+      "numero": "10242",
+      "urn": "urn:lex:br:federal:decreto:2020-02-13;10242",
+      "ementa": "Institui o Comitê de Alterações Tarifárias no âmbito da Câmara de Comércio Exterior."
+    },
+    {
+      "senadoId": "31944593",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-13-10241",
+      "titulo": "Decreto nº 10.241 de 13/02/2020",
+      "data": "2020-02-13",
+      "numero": "10241",
+      "urn": "urn:lex:br:federal:decreto:2020-02-13;10241",
+      "ementa": "Altera o Decreto nº 93.872, de 23 de dezembro de 1986, para autorizar o uso de suprimentos de fundos para atender a peculiaridades da Controladoria-Geral da União."
+    },
+    {
+      "senadoId": "31944683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-13-10243",
+      "titulo": "Decreto nº 10.243 de 13/02/2020",
+      "data": "2020-02-13",
+      "numero": "10243",
+      "urn": "urn:lex:br:federal:decreto:2020-02-13;10243",
+      "ementa": "Altera o Decreto nº 6.017, de 17 de janeiro de 2007, que regulamenta a Lei nº 11.107, de 6 de abril de 2005, que dispõe sobre normas gerais de contratação de consórcios públicos."
+    },
+    {
+      "senadoId": "31944719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-13-10244",
+      "titulo": "Decreto nº 10.244 de 13/02/2020",
+      "data": "2020-02-13",
+      "numero": "10244",
+      "urn": "urn:lex:br:federal:decreto:2020-02-13;10244",
+      "ementa": "Subordina a Secretaria Especial de Assuntos Estratégicos diretamente ao Presidente da República e transfere competências da Assessoria Especial do Presidente da República para a Secretaria Especial de Assuntos Estratégicos da Presidência da República."
+    },
+    {
+      "senadoId": "31943255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-12-10240",
+      "titulo": "Decreto nº 10.240 de 12/02/2020",
+      "data": "2020-02-12",
+      "numero": "10240",
+      "urn": "urn:lex:br:federal:decreto:2020-02-12;10240",
+      "ementa": "Regulamenta o inciso VI do caput do art. 33 e o art. 56 da Lei nº 12.305, de 2 de agosto de 2010, e complementa o Decreto nº 9.177, de 23 de outubro de 2017, quanto à implementação de sistema de logística reversa de produtos eletroeletrônicos e seus componentes de uso doméstico."
+    },
+    {
+      "senadoId": "31939525",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-11-10239",
+      "titulo": "Decreto nº 10.239 de 11/02/2020",
+      "data": "2020-02-11",
+      "numero": "10239",
+      "urn": "urn:lex:br:federal:decreto:2020-02-11;10239",
+      "ementa": "Dispõe sobre o Conselho Nacional da Amazônia Legal."
+    },
+    {
+      "senadoId": "31939451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-11-10237",
+      "titulo": "Decreto nº 10.237 de 11/02/2020",
+      "data": "2020-02-11",
+      "numero": "10237",
+      "urn": "urn:lex:br:federal:decreto:2020-02-11;10237",
+      "ementa": "Distribui o efetivo de Oficiais da Marinha em tempo de paz para 2020."
+    },
+    {
+      "senadoId": "31939414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-11-10236",
+      "titulo": "Decreto nº 10.236 de 11/02/2020",
+      "data": "2020-02-11",
+      "numero": "10236",
+      "urn": "urn:lex:br:federal:decreto:2020-02-11;10236",
+      "ementa": "Aprova o Regimento Interno do Conselho de Saúde Suplementar."
+    },
+    {
+      "senadoId": "31939377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-11-10235",
+      "titulo": "Decreto nº 10.235 de 11/02/2020",
+      "data": "2020-02-11",
+      "numero": "10235",
+      "urn": "urn:lex:br:federal:decreto:2020-02-11;10235",
+      "ementa": "Altera o Decreto nº 4.703, de 21 de maio de 2003, que dispõe sobre o Programa Nacional da Diversidade Biológica - PRONABIO e a Comissão Nacional da Biodiversidade."
+    },
+    {
+      "senadoId": "31939488",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-11-10238",
+      "titulo": "Decreto nº 10.238 de 11/02/2020",
+      "data": "2020-02-11",
+      "numero": "10238",
+      "urn": "urn:lex:br:federal:decreto:2020-02-11;10238",
+      "ementa": "Altera o Decreto nº 10.211, de 30 de janeiro de 2020, que dispõe sobre o Grupo Executivo Interministerial de Emergência em Saúde Pública de Importância Nacional e Internacional - GEI-ESPII."
+    },
+    {
+      "senadoId": "31939340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-11-10234",
+      "titulo": "Decreto nº 10.234 de 11/02/2020",
+      "data": "2020-02-11",
+      "numero": "10234",
+      "urn": "urn:lex:br:federal:decreto:2020-02-11;10234",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, remaneja cargos em comissão e funções de confiança e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "31933230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-06-10231",
+      "titulo": "Decreto nº 10.231 de 06/02/2020",
+      "data": "2020-02-06",
+      "numero": "10231",
+      "urn": "urn:lex:br:federal:decreto:2020-02-06;10231",
+      "ementa": "Distribui o efetivo de Oficiais da Aeronáutica em tempo de paz para 2020."
+    },
+    {
+      "senadoId": "31933304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-06-10233",
+      "titulo": "Decreto nº 10.233 de 06/02/2020",
+      "data": "2020-02-06",
+      "numero": "10233",
+      "urn": "urn:lex:br:federal:decreto:2020-02-06;10233",
+      "ementa": "Autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem, para a proteção do perímetro externo da penitenciária federal em Brasília, Distrito Federal."
+    },
+    {
+      "senadoId": "31933267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-06-10232",
+      "titulo": "Decreto nº 10.232 de 06/02/2020",
+      "data": "2020-02-06",
+      "numero": "10232",
+      "urn": "urn:lex:br:federal:decreto:2020-02-06;10232",
+      "ementa": "Distribui o efetivo de Oficiais e Praças do Exército em tempo de paz para 2020."
+    },
+    {
+      "senadoId": "31924984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10225",
+      "titulo": "Decreto nº 10.225 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10225",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10225",
+      "ementa": "Institui o Comitê Gestor da Política Nacional de Prevenção da Automutilação e do Suicídio, regulamenta a Política Nacional de Prevenção da Automutilação e do Suicídio e estabelece normas relativas à notificação compulsória de violência autoprovocada."
+    },
+    {
+      "senadoId": "31924836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10221",
+      "titulo": "Decreto nº 10.221 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10221",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10221",
+      "ementa": "Institui o Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica na Amazônia Legal - Mais Luz para a Amazônia."
+    },
+    {
+      "senadoId": "31925132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10229",
+      "titulo": "Decreto nº 10.229 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10229",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10229",
+      "ementa": "Regulamenta o direito de desenvolver, executar, operar ou comercializar produto ou serviço em desacordo com a norma técnica desatualizada de que trata o inciso VI do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019."
+    },
+    {
+      "senadoId": "31925021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10226",
+      "titulo": "Decreto nº 10.226 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10226",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10226",
+      "ementa": "Altera o Decreto nº 9.306, que dispõe sobre o Sistema Nacional de Juventude, instituído pela Lei nº 12.852, de 5 de agosto de 2013."
+    },
+    {
+      "senadoId": "31924910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10223",
+      "titulo": "Decreto nº 10.223 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10223",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10223",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "31924947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10224",
+      "titulo": "Decreto nº 10.224 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10224",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10224",
+      "ementa": "Regulamenta a Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional do Meio Ambiente."
+    },
+    {
+      "senadoId": "31924873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10222",
+      "titulo": "Decreto nº 10.222 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10222",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10222",
+      "ementa": "Aprova a Estratégia Nacional de Segurança Cibernética."
+    },
+    {
+      "senadoId": "31925095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10228",
+      "titulo": "Decreto nº 10.228 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10228",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10228",
+      "ementa": "Altera o Decreto nº 9.492, de 5 de setembro de 2018, que regulamenta a Lei nº 13.460, de 26 de junho de 2017, para dispor sobre o Sistema de Ouvidoria do Poder Executivo federal e instituir os conselhos de usuários dos serviços públicos no âmbito da administração pública direta, indireta, autárquica e fundacional do Poder Executivo federal."
+    },
+    {
+      "senadoId": "31924799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10220",
+      "titulo": "Decreto nº 10.220 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10220",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10220",
+      "ementa": "Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América sobre Salvaguardas Tecnológicas Relacionadas à Participação dos Estados Unidos da América em Lançamentos a partir do Centro Espacial de Alcântara, firmado em Washington, D.C., em 18 de março de 2019."
+    },
+    {
+      "senadoId": "31925058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10227",
+      "titulo": "Decreto nº 10.227 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10227",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10227",
+      "ementa": "Promulga os textos dos Instrumentos de Emenda à Constituição e à Convenção da União Internacional de Telecomunicações, contidos nos Atos Finais das Conferências de Plenipotenciários de Antalya e Guadalajara."
+    },
+    {
+      "senadoId": "31925169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-02-05-10230",
+      "titulo": "Decreto nº 10.230 de 05/02/2020",
+      "data": "2020-02-05",
+      "numero": "10230",
+      "urn": "urn:lex:br:federal:decreto:2020-02-05;10230",
+      "ementa": "Altera o Decreto nº 7.579, de 11 de outubro de 2011, que dispõe sobre o Sistema de Administração dos Recursos de Tecnologia da Informação - SISP, do Poder Executivo Federal."
+    },
+    {
+      "senadoId": "31911667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10212",
+      "titulo": "Decreto nº 10.212 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10212",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10212",
+      "ementa": "Promulga o texto revisado do Regulamento Sanitário Internacional, acordado na 58ª Assembleia Geral da Organização Mundial de Saúde, em 23 de maio de 2005."
+    },
+    {
+      "senadoId": "31911604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10211",
+      "titulo": "Decreto nº 10.211 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10211",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10211",
+      "ementa": "Dispõe sobre o Grupo Executivo Interministerial de Emergência em Saúde Pública de Importância Nacional e Internacional - GEI-ESPII."
+    },
+    {
+      "senadoId": "31912003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10215",
+      "titulo": "Decreto nº 10.215 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10215",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10215",
+      "ementa": "Promulga o texto do Protocolo Modificativo do Protocolo de Olivos para a Solução de Controvérsias no Mercosul, de 19 de janeiro de 2007."
+    },
+    {
+      "senadoId": "31912053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10216",
+      "titulo": "Decreto nº 10.216 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10216",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10216",
+      "ementa": "Institui o Grupo de Trabalho Interinstitucional de Acompanhamento da Implementação do Plano Nacional de Saneamento Básico."
+    },
+    {
+      "senadoId": "31911903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10213",
+      "titulo": "Decreto nº 10.213 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10213",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10213",
+      "ementa": "Dispõe sobre a execução do Centésimo Octogésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 18 (180PA-ACE18), firmado pela República Federativa do Brasil, pela República Argentina, pela República do Paraguai e pela República Oriental do Uruguai."
+    },
+    {
+      "senadoId": "31912090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10217",
+      "titulo": "Decreto nº 10.217 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10217",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10217",
+      "ementa": "Altera o Decreto nº 6.382, de 27 de fevereiro de 2008, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Comissão de Valores Mobiliários, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "31912175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10218",
+      "titulo": "Decreto nº 10.218 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10218",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10218",
+      "ementa": "Transfere a Secretaria Especial do Programa de Parcerias de Investimentos da Casa Civil da Presidência da República para o Ministério da Economia."
+    },
+    {
+      "senadoId": "31911953",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10214",
+      "titulo": "Decreto nº 10.214 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10214",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10214",
+      "ementa": "Promulga o texto da Convenção de Viena sobre Sucessão de Estados em Matéria de Tratados, concluída em Viena, em 23 de agosto de 1978."
+    },
+    {
+      "senadoId": "31912212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-30-10219",
+      "titulo": "Decreto nº 10.219 de 30/01/2020",
+      "data": "2020-01-30",
+      "numero": "10219",
+      "urn": "urn:lex:br:federal:decreto:2020-01-30;10219",
+      "ementa": "Altera o Decreto nº 10.178, de 18 de dezembro 2019, que regulamenta dispositivos da Lei nº 13.874, de 20 de setembro de 2019, para dispor sobre os critérios e os procedimentos para a classificação de risco de atividade econômica e para fixar o prazo para aprovação tácita."
+    },
+    {
+      "senadoId": "31910750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-23-10210",
+      "titulo": "Decreto nº 10.210 de 23/01/2020",
+      "data": "2020-01-23",
+      "numero": "10210",
+      "urn": "urn:lex:br:federal:decreto:2020-01-23;10210",
+      "ementa": "Regulamenta o art. 18 da Lei nº 13.954, de 16 de dezembro de 2019, que dispõe sobre a contratação de militar inativo para o desempenho de atividades de natureza civil na administração pública."
+    },
+    {
+      "senadoId": "31909628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10207",
+      "titulo": "Decreto nº 10.207 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10207",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10207",
+      "ementa": "Revoga o Decreto nº 3.135, de 10 de agosto de 1999, que dispõe sobre o provimento do cargo que menciona no Instituto Nacional de Colonização e Reforma Agrária - INCRA."
+    },
+    {
+      "senadoId": "31910714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10209",
+      "titulo": "Decreto nº 10.209 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10209",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10209",
+      "ementa": "Dispõe sobre a requisição de informações e documentos e sobre o compartilhamento de informações protegidas pelo sigilo fiscal."
+    },
+    {
+      "senadoId": "31909554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10205",
+      "titulo": "Decreto nº 10.205 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10205",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10205",
+      "ementa": "Altera o Decreto nº 9.678, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Casa Civil da Presidência da República, e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "31909517",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10204",
+      "titulo": "Decreto nº 10.204 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10204",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10204",
+      "ementa": "Altera o Decreto nº 9.672, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Meio Ambiente, remaneja cargos em comissão e funções de confiança e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "31909480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10203",
+      "titulo": "Decreto nº 10.203 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10203",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10203",
+      "ementa": "Altera o Decreto nº 7.217, de 21 de junho de 2010, que regulamenta a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico."
+    },
+    {
+      "senadoId": "31909665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10208",
+      "titulo": "Decreto nº 10.208 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10208",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10208",
+      "ementa": "Revoga o Decreto nº 3.447, de 5 de maio de 2000, que delega competência ao Ministro de Estado da Justiça para resolver sobre a expulsão de estrangeiro do País."
+    },
+    {
+      "senadoId": "31909591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-22-10206",
+      "titulo": "Decreto nº 10.206 de 22/01/2020",
+      "data": "2020-01-22",
+      "numero": "10206",
+      "urn": "urn:lex:br:federal:decreto:2020-01-22;10206",
+      "ementa": "Dispõe sobre a qualificação do Serviço Federal de Processamento de Dados no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "31905569",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-15-10200",
+      "titulo": "Decreto nº 10.200 de 15/01/2020",
+      "data": "2020-01-15",
+      "numero": "10200",
+      "urn": "urn:lex:br:federal:decreto:2020-01-15;10200",
+      "ementa": "Revoga o Decreto de 30 de junho de 2010, que cria a Zona de Processamento de Exportação de Aracruz, no Município de Aracruz, Estado do Espírito Santo, e o Decreto de 22 de dezembro de 2010, que retifica a área total da referida Zona de Processamento de Exportação."
+    },
+    {
+      "senadoId": "31905606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-15-10201",
+      "titulo": "Decreto nº 10.201 de 15/01/2020",
+      "data": "2020-01-15",
+      "numero": "10201",
+      "urn": "urn:lex:br:federal:decreto:2020-01-15;10201",
+      "ementa": "Regulamenta o § 4º do art. 1º e o art. 2º da Lei nº 9.469, de 10 de julho de 1997, para fixar os valores de alçada para a autorização de acordos ou transações celebradas por pessoa jurídica de direito público federal e por empresas públicas federais, para prevenir ou terminar litígios, inclusive os judiciais."
+    },
+    {
+      "senadoId": "31905532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-15-10199",
+      "titulo": "Decreto nº 10.199 de 15/01/2020",
+      "data": "2020-01-15",
+      "numero": "10199",
+      "urn": "urn:lex:br:federal:decreto:2020-01-15;10199",
+      "ementa": "Dispõe sobre a qualificação da Empresa de Tecnologia e Informações da Previdência no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "31905643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-15-10202",
+      "titulo": "Decreto nº 10.202 de 15/01/2020",
+      "data": "2020-01-15",
+      "numero": "10202",
+      "urn": "urn:lex:br:federal:decreto:2020-01-15;10202",
+      "ementa": "Delega a competência ao Ministro de Estado da Economia para a prática dos atos que especifica."
+    },
+    {
+      "senadoId": "31900862",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-03-10198",
+      "titulo": "Decreto nº 10.198 de 03/01/2020",
+      "data": "2020-01-03",
+      "numero": "10198",
+      "urn": "urn:lex:br:federal:decreto:2020-01-03;10198",
+      "ementa": "Altera o Decreto nº 6.514, de 22 de julho de 2008, que dispõe sobre as infrações e sanções administrativas ao meio ambiente e estabelece o processo administrativo federal para apuração dessas infrações."
+    },
+    {
+      "senadoId": "31900545",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2020-01-02-10197",
+      "titulo": "Decreto nº 10.197 de 02/01/2020",
+      "data": "2020-01-02",
+      "numero": "10197",
+      "urn": "urn:lex:br:federal:decreto:2020-01-02;10197",
+      "ementa": "Altera o Decreto nº 8.573, de 19 de novembro de 2015, para estabelecer o Consumidor.gov.br como plataforma oficial da administração pública federal direta, autárquica e fundacional para a autocomposição nas controvérsias em relações de consumo."
+    }
+  ],
+  "pendencias": []
+}

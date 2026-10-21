@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-01-14-25151",
+  "titulo": "LEI nº 25151, de 14/01/2025",
+  "data": "2025-01-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25151/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25151/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6c8258e419cf568d7073801b79cfaf9fe272e82fe3c2fb00d8a272f711b50cfc",
+  "coletado_em": "2026-10-21T08:29:55.495Z",
+  "sha256_fonte": "abe232f8d7962989d7d3527316f414818339dbf536701962d94474505882de30",
+  "sha256_markdown": "af0add04e8832f6b26a296346d6dabe01cac2575c6d669edc0197b6bf6747e67"
+}

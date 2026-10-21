@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-04-29-49221",
+  "titulo": "DEC nº 49221, de 29/04/2026",
+  "data": "2026-04-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49221/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49221/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "c0fc98c4ac3211f63ab1bbeb9d957f3a9ed0c05714ef37d7487dee6eee0a343d",
+  "coletado_em": "2026-10-21T08:26:48.463Z",
+  "sha256_fonte": "5698ae05070ec5a90341e4f931118d161e9156397e0ad4a657a11e51ce58f3f5",
+  "sha256_markdown": "83572ac52b48f84f29a17c1041ce1f410ad75783369630b26ba9609b649feb10"
+}

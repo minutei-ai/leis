@@ -1,0 +1,280 @@
+{
+  "ano_publicacao": 1898,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1898",
+    "ano-final": "31/12/1898",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:02.773Z",
+  "total": 43,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "4f297e1eece4980e6458c88f3ca00ac92aff9d6d3d9272f413c566e7e5b3f6ec"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-377-de-24-de-dezembro-de-1898",
+      "titulo": "LEI Nº 377 de 24 de Dezembro de 1898",
+      "id": "br-municipal-3550308-lei-1898-12-24-377",
+      "data": "1898-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-376-de-23-de-dezembro-de-1898",
+      "titulo": "LEI Nº 376 de 23 de Dezembro de 1898",
+      "id": "br-municipal-3550308-lei-1898-12-23-376",
+      "data": "1898-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-375-de-12-de-dezembro-de-1898",
+      "titulo": "LEI Nº 375 de 12 de Dezembro de 1898",
+      "id": "br-municipal-3550308-lei-1898-12-12-375",
+      "data": "1898-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-374-de-29-de-outubro-de-1898",
+      "titulo": "LEI Nº 374 de 29 de Outubro de 1898",
+      "id": "br-municipal-3550308-lei-1898-10-29-374",
+      "data": "1898-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-373-de-14-de-outubro-de-1898",
+      "titulo": "LEI Nº 373 de 14 de Outubro de 1898",
+      "id": "br-municipal-3550308-lei-1898-10-14-373",
+      "data": "1898-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-372-de-10-de-outubro-de-1898",
+      "titulo": "LEI Nº 372 de 10 de Outubro de 1898",
+      "id": "br-municipal-3550308-lei-1898-10-10-372",
+      "data": "1898-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-371-de-10-de-outubro-de-1898",
+      "titulo": "LEI Nº 371 de 10 de Outubro de 1898",
+      "id": "br-municipal-3550308-lei-1898-10-10-371",
+      "data": "1898-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-370-de-26-de-setembro-de-1898",
+      "titulo": "LEI Nº 370 de 26 de Setembro de 1898",
+      "id": "br-municipal-3550308-lei-1898-09-26-370",
+      "data": "1898-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-369-de-5-de-setembro-de-1898",
+      "titulo": "LEI Nº 369 de 5 de Setembro de 1898",
+      "id": "br-municipal-3550308-lei-1898-09-05-369",
+      "data": "1898-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-368-de-26-de-agosto-de-1898",
+      "titulo": "LEI Nº 368 de 26 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-26-368",
+      "data": "1898-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-367-de-22-de-agosto-de-1898",
+      "titulo": "LEI Nº 367 de 22 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-22-367",
+      "data": "1898-08-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-366-de-12-de-agosto-de-1898",
+      "titulo": "LEI Nº 366 de 12 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-12-366",
+      "data": "1898-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-365-de-10-de-agosto-de-1898",
+      "titulo": "LEI Nº 365 de 10 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-10-365",
+      "data": "1898-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-364-de-10-de-agosto-de-1898",
+      "titulo": "LEI Nº 364 de 10 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-10-364",
+      "data": "1898-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-363-de-10-de-agosto-de-1898",
+      "titulo": "LEI Nº 363 de 10 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-10-363",
+      "data": "1898-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-362-de-10-de-agosto-de-1898",
+      "titulo": "LEI Nº 362 de 10 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-10-362",
+      "data": "1898-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-361-de-2-de-agosto-de-1898",
+      "titulo": "LEI Nº 361 de 2 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-02-361",
+      "data": "1898-08-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-360-de-2-de-agosto-de-1898",
+      "titulo": "LEI Nº 360 de 2 de Agosto de 1898",
+      "id": "br-municipal-3550308-lei-1898-08-02-360",
+      "data": "1898-08-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-359-de-22-de-julho-de-1898",
+      "titulo": "LEI Nº 359 de 22 de Julho de 1898",
+      "id": "br-municipal-3550308-lei-1898-07-22-359",
+      "data": "1898-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-358-de-23-de-junho-de-1898",
+      "titulo": "LEI Nº 358 de 23 de Junho de 1898",
+      "id": "br-municipal-3550308-lei-1898-06-23-358",
+      "data": "1898-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-357-de-16-de-junho-de-1898",
+      "titulo": "LEI Nº 357 de 16 de Junho de 1898",
+      "id": "br-municipal-3550308-lei-1898-06-16-357",
+      "data": "1898-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-356-de-3-de-junho-de-1898",
+      "titulo": "LEI Nº 356 de 3 de Junho de 1898",
+      "id": "br-municipal-3550308-lei-1898-06-03-356",
+      "data": "1898-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-355-de-3-de-junho-de-1898",
+      "titulo": "LEI Nº 355 de 3 de Junho de 1898",
+      "id": "br-municipal-3550308-lei-1898-06-03-355",
+      "data": "1898-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-354-de-25-de-maio-de-1898",
+      "titulo": "LEI Nº 354 de 25 de Maio de 1898",
+      "id": "br-municipal-3550308-lei-1898-05-25-354",
+      "data": "1898-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-353-de-17-de-maio-de-1898",
+      "titulo": "LEI Nº 353 de 17 de Maio de 1898",
+      "id": "br-municipal-3550308-lei-1898-05-17-353",
+      "data": "1898-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-352-de-17-de-maio-de-1898",
+      "titulo": "LEI Nº 352 de 17 de Maio de 1898",
+      "id": "br-municipal-3550308-lei-1898-05-17-352",
+      "data": "1898-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-351-de-17-de-maio-de-1898",
+      "titulo": "LEI Nº 351 de 17 de Maio de 1898",
+      "id": "br-municipal-3550308-lei-1898-05-17-351",
+      "data": "1898-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-350-de-17-de-maio-de-1898",
+      "titulo": "LEI Nº 350 de 17 de Maio de 1898",
+      "id": "br-municipal-3550308-lei-1898-05-17-350",
+      "data": "1898-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-349-de-15-de-abril-de-1898",
+      "titulo": "LEI Nº 349 de 15 de Abril de 1898",
+      "id": "br-municipal-3550308-lei-1898-04-15-349",
+      "data": "1898-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-348-de-12-de-abril-de-1898",
+      "titulo": "LEI Nº 348 de 12 de Abril de 1898",
+      "id": "br-municipal-3550308-lei-1898-04-12-348",
+      "data": "1898-04-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-347-de-26-de-marco-de-1898",
+      "titulo": "LEI Nº 347 de 26 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-26-347",
+      "data": "1898-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-346-de-24-de-marco-de-1898",
+      "titulo": "LEI Nº 346 de 24 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-24-346",
+      "data": "1898-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-345-de-24-de-marco-de-1898",
+      "titulo": "LEI Nº 345 de 24 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-24-345",
+      "data": "1898-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-344-de-12-de-marco-de-1898",
+      "titulo": "LEI Nº 344 de 12 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-12-344",
+      "data": "1898-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-343-de-11-de-marco-de-1898",
+      "titulo": "LEI Nº 343 de 11 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-11-343",
+      "data": "1898-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-342-de-9-de-marco-de-1898",
+      "titulo": "LEI Nº 342 de 9 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-09-342",
+      "data": "1898-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-341-de-7-de-marco-de-1898",
+      "titulo": "LEI Nº 341 de 7 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-07-341",
+      "data": "1898-03-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-339-de-5-de-marco-de-1898",
+      "titulo": "LEI Nº 339 de 5 de Março de 1898",
+      "id": "br-municipal-3550308-lei-1898-03-05-339",
+      "data": "1898-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-338-de-26-de-fevereiro-de-1898",
+      "titulo": "LEI Nº 338 de 26 de Fevereiro de 1898",
+      "id": "br-municipal-3550308-lei-1898-02-26-338",
+      "data": "1898-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-337-de-25-de-fevereiro-de-1898",
+      "titulo": "LEI Nº 337 de 25 de Fevereiro de 1898",
+      "id": "br-municipal-3550308-lei-1898-02-25-337",
+      "data": "1898-02-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-336-de-24-de-janeiro-de-1898",
+      "titulo": "LEI Nº 336 de 24 de Janeiro de 1898",
+      "id": "br-municipal-3550308-lei-1898-01-24-336",
+      "data": "1898-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-335-de-11-de-janeiro-de-1898",
+      "titulo": "LEI Nº 335 de 11 de Janeiro de 1898",
+      "id": "br-municipal-3550308-lei-1898-01-11-335",
+      "data": "1898-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-334-de-10-de-janeiro-de-1898",
+      "titulo": "LEI Nº 334 de 10 de Janeiro de 1898",
+      "id": "br-municipal-3550308-lei-1898-01-10-334",
+      "data": "1898-01-10"
+    }
+  ],
+  "pendencias": []
+}

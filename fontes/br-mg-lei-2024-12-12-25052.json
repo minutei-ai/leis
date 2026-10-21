@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-12-12-25052",
+  "titulo": "LEI nº 25052, de 12/12/2024",
+  "data": "2024-12-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25052/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25052/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "c390946a877307339f69786e429f190c1dab70ce31dabb11d6c0c7ad50d1c750",
+  "coletado_em": "2026-10-21T08:42:58.855Z",
+  "sha256_fonte": "ec13705626de0495f4ccbacdc5ca91f293c48a9fdb63b21bee310affeee6f7be",
+  "sha256_markdown": "ff15148c60502d3913f9db80228fd3300f45810e97f809494c2897b7b6609ccc"
+}

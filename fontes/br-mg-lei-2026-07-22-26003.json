@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-22-26003",
+  "titulo": "LEI nº 26003, de 22/07/2026",
+  "data": "2026-07-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26003/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26003/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "fe147a2b7dd3603ab397be228cde488462d99547656f77565dad393574f03978",
+  "coletado_em": "2026-10-21T08:28:45.579Z",
+  "sha256_fonte": "aac569b4ab53adfbae142490fd8a26dbf27ae01a71379898918667590d39b580",
+  "sha256_markdown": "b81b21a67eb54ffe05432142781a6513dc31d97cf7f07fca464b076d13551196"
+}

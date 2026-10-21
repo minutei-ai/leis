@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-08-07-49083",
+  "titulo": "DEC nº 49083, de 07/08/2025",
+  "data": "2025-08-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49083/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49083/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9fba57141019c962599a279d6e1e7bcd02782dc40598ed24ca93dfd7b0f6d126",
+  "coletado_em": "2026-10-21T08:33:39.706Z",
+  "sha256_fonte": "80c51a7b0191ef0c2927cb2962ecc9c3dd29a563958eb829bd7c15dd8f1d7bc4",
+  "sha256_markdown": "e0ba231da146d465b3b6b7576e294079938d2ba6bb9d845872344937d9aa856e"
+}

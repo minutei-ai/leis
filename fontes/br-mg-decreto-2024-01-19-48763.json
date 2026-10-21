@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-01-19-48763",
+  "titulo": "DEC nº 48763, de 19/01/2024",
+  "data": "2024-01-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48763/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48763/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a3d618675de0f345174ba9953d8adbf0a1f5e1a39e275641356cac6d6f9285dd",
+  "coletado_em": "2026-10-21T08:37:21.334Z",
+  "sha256_fonte": "4194c13a2187e04b88fe382101d381460ba47981af542dc8208a430d7371ede6",
+  "sha256_markdown": "d106fd3d36cc2d2adb62e57dddb180199bd51a2dda007af80cdc16a24b041fb6"
+}

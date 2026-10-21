@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2023-01-20-24272",
+  "titulo": "LEI nº 24272, de 20/01/2023",
+  "data": "2023-01-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24272/2023/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/24272/2023/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "3245e2914202894cc83dfa0aa274e296224504cea1caf2838008dde780033322",
+  "coletado_em": "2026-10-21T08:44:02.287Z",
+  "sha256_fonte": "79f76369ef9b9cc47bef8ee92150eae49ee1997f89f2e04930f32576a1f022b4",
+  "sha256_markdown": "1a78e7867c7c731155364ad3345581ca804405b3119dc24ecab4a8f10c3ed98a"
+}

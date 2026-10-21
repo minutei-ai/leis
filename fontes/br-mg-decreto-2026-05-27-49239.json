@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-05-27-49239",
+  "titulo": "DEC nº 49239, de 27/05/2026",
+  "data": "2026-05-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49239/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49239/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "aafa10e3c6af3073e350d22c85646b3240845c02e0cb9acb69d76332d0e8753c",
+  "coletado_em": "2026-10-21T08:27:29.402Z",
+  "sha256_fonte": "a43cab3952cb0de43e440d755bec253ead1557799ab2c873d8c9b953ee7fd2de",
+  "sha256_markdown": "d4730f5cb618d0bbb1d0212458bb55f9d0696d277c2b034bac3de02e4f09cb89"
+}

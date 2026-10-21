@@ -1,0 +1,21 @@
+{
+  "ano_publicacao": 1843,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1843",
+    "ano-final": "31/12/1843",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:37.963Z",
+  "total": 0,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "69aa182bb9287aa113d8f947ec2cdd377b85983abbad14f9bde49324d03e4426"
+    }
+  ],
+  "normas": [],
+  "pendencias": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-01-08-49159",
+  "titulo": "DEC nº 49159, de 08/01/2026",
+  "data": "2026-01-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49159/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49159/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "40241ebd7cc828bc0142336c4c0153f7e3bc075236501799457b81e46f5aa6fa",
+  "coletado_em": "2026-10-21T08:24:49.159Z",
+  "sha256_fonte": "7d2f360cd98ee7274bf5c6eb7f1d9de9086f5a762fea99797d6e5d256148b1b0",
+  "sha256_markdown": "b35f73882a000c27a9b94697c8a4cc9153216675d2c7b5c1e179afb56c9d4054"
+}

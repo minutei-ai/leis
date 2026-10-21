@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-12-19-13769",
+  "titulo": "Lei nº 13.769 de 19/12/2018",
+  "data": "2018-12-19",
+  "fonte": "https://normas.leg.br/api/public/binario/fb4e891f-b3b6-4f10-bff5-90e017d3992b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-12-19;13769",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-12-19%3B13769&tipo_documento=maior-detalhe",
+  "sha256_dados": "7709805797101ae711df21d7f0693f511a26ab13c855d4d34435813f6b6caeb4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:22.472Z",
+  "sha256_fonte": "ead8fdce799ed9d2550ba821a84ba326db314b29a599d5d5b6847dc4a01742ba",
+  "sha256_markdown": "4cb6b4361b1cd527b6dbb04f556d60627a9c5bd93b07458fcede2bee7b6ff71f"
+}

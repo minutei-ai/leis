@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-05-23-48828",
+  "titulo": "DEC nº 48828, de 23/05/2024",
+  "data": "2024-05-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48828/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48828/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7f002c0703b729b1fef8d0da0c3786959856904ed564648f8592858484103bb4",
+  "coletado_em": "2026-10-21T08:38:52.794Z",
+  "sha256_fonte": "bee69b4b6f0fced1ef248356504905986a87ba5924f0029e5b057d8a87211705",
+  "sha256_markdown": "4fff3b940ef09c4286598622b8460e351777355afda0e8e4a31d242187f79d7f"
+}

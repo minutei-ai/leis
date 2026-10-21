@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-22-49145",
+  "titulo": "DEC nº 49145, de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49145/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49145/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "abc134b0f81486935c40351abd46136346840cc35595c7c9334309bcde3959b4",
+  "coletado_em": "2026-10-21T08:36:25.898Z",
+  "sha256_fonte": "bbf02c656b764be555cbfbb147fa0128c33d668ba32b6235c0cd839799e05e69",
+  "sha256_markdown": "a6476eb1f6f7853d20df8f5f536c702ac147ca748c5158ceeb5a2cd90e42729f"
+}

@@ -1,0 +1,82 @@
+{
+  "ano_publicacao": 1892,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1892",
+    "ano-final": "31/12/1892",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:07.789Z",
+  "total": 10,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "82ecb57be34aa6bfd7a7a7b6f5e8ea1c5016645b22cb8f7449c7c413c22b96f4"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5-de-26-de-dezembro-de-1892",
+      "titulo": "LEI Nº 5 de 26 de Dezembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-12-26-5",
+      "data": "1892-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9-de-3-de-dezembro-de-1892",
+      "titulo": "LEI Nº 9 de 3 de Dezembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-12-03-9",
+      "data": "1892-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8-de-3-de-dezembro-de-1892",
+      "titulo": "LEI Nº 8 de 3 de Dezembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-12-03-8",
+      "data": "1892-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-6-de-3-de-dezembro-de-1892",
+      "titulo": "LEI Nº 6 de 3 de Dezembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-12-03-6",
+      "data": "1892-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10-de-3-de-dezembro-de-1892",
+      "titulo": "LEI Nº 10 de 3 de Dezembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-12-03-10",
+      "data": "1892-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7-de-3-de-dezembro-de-1892",
+      "titulo": "LEI Nº 7 de 3 de Dezembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-12-03-7",
+      "data": "1892-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-4-de-10-de-novembro-de-1892",
+      "titulo": "LEI Nº 4 de 10 de Novembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-11-10-4",
+      "data": "1892-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-3-de-9-de-novembro-de-1892",
+      "titulo": "LEI Nº 3 de 9 de Novembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-11-09-3",
+      "data": "1892-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2-de-29-de-outubro-de-1892",
+      "titulo": "LEI Nº 2 de 29 de Outubro de 1892",
+      "id": "br-municipal-3550308-lei-1892-10-29-2",
+      "data": "1892-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1-de-29-de-setembro-de-1892",
+      "titulo": "LEI Nº 1 de 29 de Setembro de 1892",
+      "id": "br-municipal-3550308-lei-1892-09-29-1",
+      "data": "1892-09-29"
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,1338 @@
+{
+  "ano_publicacao": 1986,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1986",
+    "ano-final": "31/12/1986",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:58.425Z",
+  "total": 218,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "ef765e53e410ee57a54532c526140c0fa3e64f8ee1644ba4f27608f3abeccf9a"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "4c5ebc4e7749da26741dd884a093b5c255d56135f9d0c61c189a9786ae7d45d7"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "3986c8b14ef6c8920f6332292385da8150c399c0a9e93b3764b7e132a96af528"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10571-de-08-de-julho-de-1988",
+      "titulo": "LEI Nº 10.571 de 8 de Julho de 1988",
+      "id": "br-municipal-3550308-lei-1988-07-08-10571",
+      "data": "1988-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10254-de-23-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.254 de 23 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-23-10254",
+      "data": "1986-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10255-de-23-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.255 de 23 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-23-10255",
+      "data": "1986-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10253-de-22-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.253 de 22 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-22-10253",
+      "data": "1986-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10252-de-22-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.252 de 22 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-22-10252",
+      "data": "1986-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10251-de-22-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.251 de 22 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-22-10251",
+      "data": "1986-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10250-de-18-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.250 de 18 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-18-10250",
+      "data": "1986-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10249-de-18-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.249 de 18 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-18-10249",
+      "data": "1986-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10248-de-18-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.248 de 18 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-18-10248",
+      "data": "1986-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10247-de-18-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.247 de 18 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-18-10247",
+      "data": "1986-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10246-de-18-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.246 de 18 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-18-10246",
+      "data": "1986-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10245-de-18-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.245 de 18 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-18-10245",
+      "data": "1986-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10244-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.244 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10244",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10242-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.242 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10242",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10241-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.241 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10241",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10240-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.240 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10240",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10239-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.239 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10239",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10238-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.238 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10238",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10243-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.243 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10243",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10237-de-17-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.237 de 17 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-17-10237",
+      "data": "1986-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10236-de-16-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.236 de 16 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-16-10236",
+      "data": "1986-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10235-de-16-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.235 de 16 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-16-10235",
+      "data": "1986-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10234-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.234 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10234",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10233-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.233 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10233",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10232-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.232 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10232",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10231-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.231 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10231",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10230-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.230 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10230",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10229-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.229 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10229",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10228-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.228 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10228",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10227-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.227 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10227",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10226-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.226 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10226",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10225-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.225 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10225",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10223-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.223 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10223",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10221-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.221 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10221",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10220-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.220 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10220",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10219-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.219 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10219",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10218-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.218 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10218",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10224-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.224 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10224",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10222-de-15-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.222 de 15 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-15-10222",
+      "data": "1986-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10217-de-12-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.217 de 12 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-12-10217",
+      "data": "1986-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10216-de-12-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.216 de 12 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-12-10216",
+      "data": "1986-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10215-de-11-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.215 de 11 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-11-10215",
+      "data": "1986-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10214-de-11-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.214 de 11 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-11-10214",
+      "data": "1986-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10213-de-11-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.213 de 11 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-11-10213",
+      "data": "1986-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10212-de-11-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.212 de 11 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-11-10212",
+      "data": "1986-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10211-de-11-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.211 de 11 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-11-10211",
+      "data": "1986-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10210-de-9-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.210 de 9 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-09-10210",
+      "data": "1986-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10209-de-09-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.209 de 9 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-09-10209",
+      "data": "1986-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10208-de-5-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.208 de 5 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-05-10208",
+      "data": "1986-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10207-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.207 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10207",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10206-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.206 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10206",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10204-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.204 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10204",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10203-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.203 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10203",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10205-de-04-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.205 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10205",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10202-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.202 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10202",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10201-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.201 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10201",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10200-de-4-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.200 de 4 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-04-10200",
+      "data": "1986-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10197-de-3-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.197 de 3 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-03-10197",
+      "data": "1986-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10196-de-3-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.196 de 3 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-03-10196",
+      "data": "1986-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10199-de-3-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.199 de 3 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-03-10199",
+      "data": "1986-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10198-de-3-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.198 de 3 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-03-10198",
+      "data": "1986-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10195-de-3-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.195 de 3 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-03-10195",
+      "data": "1986-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10194-de-2-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.194 de 2 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-02-10194",
+      "data": "1986-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10193-de-2-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.193 de 2 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-02-10193",
+      "data": "1986-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10192-de-2-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.192 de 2 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-02-10192",
+      "data": "1986-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10191-de-2-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.191 de 2 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-02-10191",
+      "data": "1986-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10190-de-1-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.190 de 1 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-01-10190",
+      "data": "1986-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10189-de-1-de-dezembro-de-1986",
+      "titulo": "LEI Nº 10.189 de 1 de Dezembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-12-01-10189",
+      "data": "1986-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10188-de-13-de-novembro-de-1986",
+      "titulo": "LEI Nº 10.188 de 13 de Novembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-11-13-10188",
+      "data": "1986-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10187-de-12-de-novembro-de-1986",
+      "titulo": "LEI Nº 10.187 de 12 de Novembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-11-12-10187",
+      "data": "1986-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10186-de-12-de-novembro-de-1986",
+      "titulo": "LEI Nº 10.186 de 12 de Novembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-11-12-10186",
+      "data": "1986-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10185-de-6-de-novembro-de-1986",
+      "titulo": "LEI Nº 10.185 de 6 de Novembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-11-06-10185",
+      "data": "1986-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10184-de-6-de-novembro-de-1986",
+      "titulo": "LEI Nº 10.184 de 6 de Novembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-11-06-10184",
+      "data": "1986-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10183-de-6-de-novembro-de-1986",
+      "titulo": "LEI Nº 10.183 de 6 de Novembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-11-06-10183",
+      "data": "1986-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10182-de-30-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.182 de 30 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-30-10182",
+      "data": "1986-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10181-de-30-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.181 de 30 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-30-10181",
+      "data": "1986-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10180-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.180 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10180",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10179-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.179 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10179",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10178-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.178 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10178",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10177-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.177 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10177",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10176-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.176 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10176",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10174-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.174 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10174",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10175-de-29-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.175 de 29 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-29-10175",
+      "data": "1986-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10173-de-24-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.173 de 24 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-24-10173",
+      "data": "1986-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10172-de-24-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.172 de 24 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-24-10172",
+      "data": "1986-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10171-de-24-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.171 de 24 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-24-10171",
+      "data": "1986-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10170-de-21-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.170 de 21 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-21-10170",
+      "data": "1986-10-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10168-de-20-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.168 de 20 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-20-10168",
+      "data": "1986-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10167-de-20-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.167 de 20 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-20-10167",
+      "data": "1986-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10169-de-20-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.169 de 20 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-20-10169",
+      "data": "1986-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10166-de-20-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.166 de 20 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-20-10166",
+      "data": "1986-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10165-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.165 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10165",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10164-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.164 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10164",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10163-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.163 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10163",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10162-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.162 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10162",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10161-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.161 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10161",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10160-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.160 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10160",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10159-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.159 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10159",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10158-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.158 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10158",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10157-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.157 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10157",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10156-de-15-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.156 de 15 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-15-10156",
+      "data": "1986-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10155-de-13-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.155 de 13 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-13-10155",
+      "data": "1986-10-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10153-de-7-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.153 de 7 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-07-10153",
+      "data": "1986-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10151-de-7-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.151 de 7 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-07-10151",
+      "data": "1986-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10150-de-7-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.150 de 7 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-07-10150",
+      "data": "1986-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10154-de-7-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.154 de 7 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-07-10154",
+      "data": "1986-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10152-de-7-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.152 de 7 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-07-10152",
+      "data": "1986-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10149-de-7-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.149 de 7 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-07-10149",
+      "data": "1986-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10148-de-3-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.148 de 3 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-03-10148",
+      "data": "1986-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10147-de-3-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.147 de 3 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-03-10147",
+      "data": "1986-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10146-de-3-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.146 de 3 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-03-10146",
+      "data": "1986-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10145-de-3-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.145 de 3 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-03-10145",
+      "data": "1986-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10144-de-3-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.144 de 3 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-03-10144",
+      "data": "1986-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10143-de-3-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.143 de 3 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-03-10143",
+      "data": "1986-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10142-de-2-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.142 de 2 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-02-10142",
+      "data": "1986-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10141-de-2-de-outubro-de-1986",
+      "titulo": "LEI Nº 10.141 de 2 de Outubro de 1986",
+      "id": "br-municipal-3550308-lei-1986-10-02-10141",
+      "data": "1986-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10140-de-30-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.140 de 30 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-30-10140",
+      "data": "1986-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10139-de-29-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.139 de 29 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-29-10139",
+      "data": "1986-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10138-de-29-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.138 de 29 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-29-10138",
+      "data": "1986-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10136-de-29-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.136 de 29 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-29-10136",
+      "data": "1986-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10137-de-29-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.137 de 29 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-29-10137",
+      "data": "1986-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10135-de-29-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.135 de 29 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-29-10135",
+      "data": "1986-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10134-de-26-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.134 de 26 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-26-10134",
+      "data": "1986-09-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10133-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.133 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10133",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10132-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.132 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10132",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10131-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.131 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10131",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10129-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.129 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10129",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10128-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.128 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10128",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10127-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.127 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10127",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10126-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.126 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10126",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10130-de-23-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.130 de 23 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-23-10130",
+      "data": "1986-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10125-de-17-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.125 de 17 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-17-10125",
+      "data": "1986-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10124-de-17-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.124 de 17 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-17-10124",
+      "data": "1986-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10123-de-17-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.123 de 17 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-17-10123",
+      "data": "1986-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10122-de-17-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.122 de 17 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-17-10122",
+      "data": "1986-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10121-de-17-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.121 de 17 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-17-10121",
+      "data": "1986-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10120-de-17-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.120 de 17 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-17-10120",
+      "data": "1986-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10119-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.119 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10119",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10118-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.118 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10118",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10117-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.117 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10117",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10116-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.116 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10116",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10114-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.114 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10114",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10113-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.113 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10113",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10112-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.112 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10112",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10111-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.111 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10111",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10115-de-15-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.115 de 15 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-15-10115",
+      "data": "1986-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10110-de-12-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.110 de 12 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-12-10110",
+      "data": "1986-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10109-de-9-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.109 de 9 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-09-10109",
+      "data": "1986-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10107-de-08-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.107 de 8 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-08-10107",
+      "data": "1986-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10108-de-8-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.108 de 8 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-08-10108",
+      "data": "1986-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10106-de-8-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.106 de 8 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-08-10106",
+      "data": "1986-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10105-de-02-de-setembro-de-1986",
+      "titulo": "LEI Nº 10.105 de 2 de Setembro de 1986",
+      "id": "br-municipal-3550308-lei-1986-09-02-10105",
+      "data": "1986-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10104-de-29-de-agosto-de-1986",
+      "titulo": "LEI Nº 10.104 de 29 de Agosto de 1986",
+      "id": "br-municipal-3550308-lei-1986-08-29-10104",
+      "data": "1986-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10103-de-26-de-agosto-de-1986",
+      "titulo": "LEI Nº 10.103 de 26 de Agosto de 1986",
+      "id": "br-municipal-3550308-lei-1986-08-26-10103",
+      "data": "1986-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10102-de-18-de-agosto-de-1986",
+      "titulo": "LEI Nº 10.102 de 18 de Agosto de 1986",
+      "id": "br-municipal-3550308-lei-1986-08-18-10102",
+      "data": "1986-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10101-de-15-de-julho-de-1986",
+      "titulo": "LEI Nº 10.101 de 15 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-15-10101",
+      "data": "1986-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10100-de-15-de-julho-de-1986",
+      "titulo": "LEI Nº 10.100 de 15 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-15-10100",
+      "data": "1986-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10098-de-15-de-julho-de-1986",
+      "titulo": "LEI Nº 10.098 de 15 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-15-10098",
+      "data": "1986-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10099-de-15-de-julho-de-1986",
+      "titulo": "LEI Nº 10.099 de 15 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-15-10099",
+      "data": "1986-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10095-de-10-de-julho-de-1986",
+      "titulo": "LEI Nº 10.095 de 10 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-10-10095",
+      "data": "1986-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10097-de-10-de-julho-de-1986",
+      "titulo": "LEI Nº 10.097 de 10 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-10-10097",
+      "data": "1986-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10096-de-10-de-julho-de-1986",
+      "titulo": "LEI Nº 10.096 de 10 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-10-10096",
+      "data": "1986-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10094-de-08-de-julho-de-1986",
+      "titulo": "LEI Nº 10.094 de 8 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-08-10094",
+      "data": "1986-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10093-de-8-de-julho-de-1986",
+      "titulo": "LEI Nº 10.093 de 8 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-08-10093",
+      "data": "1986-07-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10091-de-7-de-julho-de-1986",
+      "titulo": "LEI Nº 10.091 de 7 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-07-10091",
+      "data": "1986-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10092-de-7-de-julho-de-1986",
+      "titulo": "LEI Nº 10.092 de 7 de Julho de 1986",
+      "id": "br-municipal-3550308-lei-1986-07-07-10092",
+      "data": "1986-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10090-de-30-de-junho-de-1986",
+      "titulo": "LEI Nº 10.090 de 30 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-30-10090",
+      "data": "1986-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10089-de-26-de-junho-de-1986",
+      "titulo": "LEI Nº 10.089 de 26 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-26-10089",
+      "data": "1986-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10087-de-20-de-junho-de-1986",
+      "titulo": "LEI Nº 10.087 de 20 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-20-10087",
+      "data": "1986-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10088-de-20-de-junho-de-1986",
+      "titulo": "LEI Nº 10.088 de 20 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-20-10088",
+      "data": "1986-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10086-de-19-de-junho-de-1986",
+      "titulo": "LEI Nº 10.086 de 19 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-19-10086",
+      "data": "1986-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10085-de-17-de-junho-de-1986",
+      "titulo": "LEI Nº 10.085 de 17 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-17-10085",
+      "data": "1986-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10084-de-17-de-junho-de-1986",
+      "titulo": "LEI Nº 10.084 de 17 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-17-10084",
+      "data": "1986-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10082-de-17-de-junho-de-1986",
+      "titulo": "LEI Nº 10.082 de 17 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-17-10082",
+      "data": "1986-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10081-de-17-de-junho-de-1986",
+      "titulo": "LEI Nº 10.081 de 17 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-17-10081",
+      "data": "1986-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10083-de-17-de-junho-de-1986",
+      "titulo": "LEI Nº 10.083 de 17 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-17-10083",
+      "data": "1986-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10079-de-13-de-junho-de-1986",
+      "titulo": "LEI Nº 10.079 de 13 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-13-10079",
+      "data": "1986-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10080-de-13-de-junho-de-1986",
+      "titulo": "LEI Nº 10.080 de 13 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-13-10080",
+      "data": "1986-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10078-de-11-de-junho-de-1986",
+      "titulo": "LEI Nº 10.078 de 11 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-11-10078",
+      "data": "1986-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10077-de-11-de-junho-de-1986",
+      "titulo": "LEI Nº 10.077 de 11 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-11-10077",
+      "data": "1986-06-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10076-de-10-de-junho-de-1986",
+      "titulo": "LEI Nº 10.076 de 10 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-10-10076",
+      "data": "1986-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10075-de-10-de-junho-de-1986",
+      "titulo": "LEI Nº 10.075 de 10 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-10-10075",
+      "data": "1986-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10072-de-10-de-junho-de-1986",
+      "titulo": "LEI Nº 10.072 de 10 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-10-10072",
+      "data": "1986-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10074-de-9-de-junho-de-1986",
+      "titulo": "LEI Nº 10.074 de 9 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-09-10074",
+      "data": "1986-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10073-de-9-de-junho-de-1986",
+      "titulo": "LEI Nº 10.073 de 9 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-09-10073",
+      "data": "1986-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10071-de-3-de-junho-de-1986",
+      "titulo": "LEI Nº 10.071 de 3 de Junho de 1986",
+      "id": "br-municipal-3550308-lei-1986-06-03-10071",
+      "data": "1986-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10070-de-23-de-maio-de-1986",
+      "titulo": "LEI Nº 10.070 de 23 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-23-10070",
+      "data": "1986-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10069-de-23-de-maio-de-1986",
+      "titulo": "LEI Nº 10.069 de 23 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-23-10069",
+      "data": "1986-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10068-de-23-de-maio-de-1986",
+      "titulo": "LEI Nº 10.068 de 23 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-23-10068",
+      "data": "1986-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10067-de-14-de-maio-de-1986",
+      "titulo": "LEI Nº 10.067 de 14 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-14-10067",
+      "data": "1986-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10066-de-14-de-maio-de-1986",
+      "titulo": "LEI Nº 10.066 de 14 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-14-10066",
+      "data": "1986-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10065-de-12-de-maio-de-1986",
+      "titulo": "LEI Nº 10.065 de 12 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-12-10065",
+      "data": "1986-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10064-de-12-de-maio-de-1986",
+      "titulo": "LEI Nº 10.064 de 12 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-12-10064",
+      "data": "1986-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10063-de-12-de-maio-de-1986",
+      "titulo": "LEI Nº 10.063 de 12 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-12-10063",
+      "data": "1986-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10062-de-6-de-maio-de-1986",
+      "titulo": "LEI Nº 10.062 de 6 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-06-10062",
+      "data": "1986-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10061-de-6-de-maio-de-1986",
+      "titulo": "LEI Nº 10.061 de 6 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-06-10061",
+      "data": "1986-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10059-de-6-de-maio-de-1986",
+      "titulo": "LEI Nº 10.059 de 6 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-06-10059",
+      "data": "1986-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10060-de-6-de-maio-de-1986",
+      "titulo": "LEI Nº 10.060 de 6 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-06-10060",
+      "data": "1986-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10058-de-6-de-maio-de-1986",
+      "titulo": "LEI Nº 10.058 de 6 de Maio de 1986",
+      "id": "br-municipal-3550308-lei-1986-05-06-10058",
+      "data": "1986-05-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10057-de-30-de-abril-de-1986",
+      "titulo": "LEI Nº 10.057 de 30 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-30-10057",
+      "data": "1986-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10055-de-28-de-abril-de-1986",
+      "titulo": "LEI Nº 10.055 de 28 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-28-10055",
+      "data": "1986-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10056-de-28-de-abril-de-1986",
+      "titulo": "LEI Nº 10.056 de 28 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-28-10056",
+      "data": "1986-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10054-de-23-de-abril-de-1986",
+      "titulo": "LEI Nº 10.054 de 23 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-23-10054",
+      "data": "1986-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10053-de-23-de-abril-de-1986",
+      "titulo": "LEI Nº 10.053 de 23 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-23-10053",
+      "data": "1986-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10052-de-15-de-abril-de-1986",
+      "titulo": "LEI Nº 10.052 de 15 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-15-10052",
+      "data": "1986-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10051-de-14-de-abril-de-1986",
+      "titulo": "LEI Nº 10.051 de 14 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-14-10051",
+      "data": "1986-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10050-de-14-de-abril-de-1986",
+      "titulo": "LEI Nº 10.050 de 14 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-14-10050",
+      "data": "1986-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10049-de-11-de-abril-de-1986",
+      "titulo": "LEI Nº 10.049 de 11 de Abril de 1986",
+      "id": "br-municipal-3550308-lei-1986-04-11-10049",
+      "data": "1986-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10048-de-25-de-marco-de-1986",
+      "titulo": "LEI Nº 10.048 de 25 de Março de 1986",
+      "id": "br-municipal-3550308-lei-1986-03-25-10048",
+      "data": "1986-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10047-de-25-de-marco-de-1986",
+      "titulo": "LEI Nº 10.047 de 25 de Março de 1986",
+      "id": "br-municipal-3550308-lei-1986-03-25-10047",
+      "data": "1986-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10046-de-18-de-marco-de-1986",
+      "titulo": "LEI Nº 10.046 de 18 de Março de 1986",
+      "id": "br-municipal-3550308-lei-1986-03-18-10046",
+      "data": "1986-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10045-de-4-de-marco-de-1986",
+      "titulo": "LEI Nº 10.045 de 4 de Março de 1986",
+      "id": "br-municipal-3550308-lei-1986-03-04-10045",
+      "data": "1986-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10044-de-4-de-marco-de-1986",
+      "titulo": "LEI Nº 10.044 de 4 de Março de 1986",
+      "id": "br-municipal-3550308-lei-1986-03-04-10044",
+      "data": "1986-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10043-de-28-de-fevereiro-de-1986",
+      "titulo": "LEI Nº 10.043 de 28 de Fevereiro de 1986",
+      "id": "br-municipal-3550308-lei-1986-02-28-10043",
+      "data": "1986-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10042-de-26-de-fevereiro-de-1986",
+      "titulo": "LEI Nº 10.042 de 26 de Fevereiro de 1986",
+      "id": "br-municipal-3550308-lei-1986-02-26-10042",
+      "data": "1986-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10041-de-25-de-fevereiro-de-1986",
+      "titulo": "LEI Nº 10.041 de 25 de Fevereiro de 1986",
+      "id": "br-municipal-3550308-lei-1986-02-25-10041",
+      "data": "1986-02-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10039-de-8-de-janeiro-de-1986",
+      "titulo": "LEI Nº 10.039 de 8 de Janeiro de 1986",
+      "id": "br-municipal-3550308-lei-1986-01-08-10039",
+      "data": "1986-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10040-de-8-de-janeiro-de-1986",
+      "titulo": "LEI Nº 10.040 de 8 de Janeiro de 1986",
+      "id": "br-municipal-3550308-lei-1986-01-08-10040",
+      "data": "1986-01-08"
+    }
+  ],
+  "pendencias": []
+}

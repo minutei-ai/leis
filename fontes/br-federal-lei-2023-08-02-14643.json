@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-02-14643",
+  "titulo": "Lei nº 14.643 de 02/08/2023",
+  "data": "2023-08-02",
+  "fonte": "https://normas.leg.br/api/public/binario/10ce5998-1265-4573-966a-d7a7aa68bcee/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-02;14643",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-02%3B14643&tipo_documento=maior-detalhe",
+  "sha256_dados": "6b635853874c58eb484c9130fca1a9911ee6b01d2bd91d51950115701f5668a2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:31.113Z",
+  "sha256_fonte": "a91d77c892703dcf9c45bea17ca9004fc755c7d84eb6a747e6bfd43f088db412",
+  "sha256_markdown": "2f57887906c4f293a9265fe4c14485a56d4fd699f56df07bf778e7535c05fd78"
+}

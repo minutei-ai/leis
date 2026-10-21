@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-emenda-constitucional-2025-12-03-120",
+  "titulo": "EMC nº 120, de 03/12/2025",
+  "data": "2025-12-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/120/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/120/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "123b81c63eb0857e508870b4a4cd186f1c1b24d37557721bbcfb931b385c2f06",
+  "coletado_em": "2026-10-21T08:35:37.378Z",
+  "sha256_fonte": "f0ecd62c408090217c68906cb423c4f1e701a2c4e0a7506a3d99af1e60aa39bc",
+  "sha256_markdown": "7f141cc9242c89592fae0090fea924c9bff4afd0ba8906317d0036ab00460b15"
+}

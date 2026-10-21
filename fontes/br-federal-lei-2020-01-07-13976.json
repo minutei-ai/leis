@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-01-07-13976",
+  "titulo": "Lei nº 13.976 de 07/01/2020",
+  "data": "2020-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/c83ed6cc-5993-40d5-a811-9b945f684e95/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-01-07;13976",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-01-07%3B13976&tipo_documento=maior-detalhe",
+  "sha256_dados": "a2835ef25b855236adb187097bc3b87d8cded4a8a281e7f01e7d376bac4e9a11",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:53.767Z",
+  "sha256_fonte": "c19d1415f335bca81361f9c985924aa301772e8ebd81924163cfdbde86c04abb",
+  "sha256_markdown": "f4cc4a5ce5d086c32a7586b1b9c87a078d81949e8ff02843f48288c4e0f75127"
+}

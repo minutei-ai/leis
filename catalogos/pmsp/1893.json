@@ -1,0 +1,478 @@
+{
+  "ano_publicacao": 1893,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1893",
+    "ano-final": "31/12/1893",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:07.105Z",
+  "total": 76,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "183ce5221f19595ced4963f1243049e16e2b30a1622de69b6992f367061a4dce"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-86-de-29-de-dezembro-de-1893",
+      "titulo": "LEI Nº 86 de 29 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-29-86",
+      "data": "1893-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-85-de-29-de-dezembro-de-1893",
+      "titulo": "LEI Nº 85 de 29 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-29-85",
+      "data": "1893-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-84-de-29-de-dezembro-de-1893",
+      "titulo": "LEI Nº 84 de 29 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-29-84",
+      "data": "1893-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-83-de-22-de-dezembro-de-1893",
+      "titulo": "LEI Nº 83 de 22 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-22-83",
+      "data": "1893-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-82-de-22-de-dezembro-de-1893",
+      "titulo": "LEI Nº 82 de 22 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-22-82",
+      "data": "1893-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-81-de-22-de-dezembro-de-1893",
+      "titulo": "LEI Nº 81 de 22 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-22-81",
+      "data": "1893-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-80-de-22-de-dezembro-de-1893",
+      "titulo": "LEI Nº 80 de 22 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-22-80",
+      "data": "1893-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-79-de-9-de-dezembro-de-1893",
+      "titulo": "LEI Nº 79 de 9 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-09-79",
+      "data": "1893-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-78-de-9-de-dezembro-de-1893",
+      "titulo": "LEI Nº 78 de 9 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-09-78",
+      "data": "1893-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-77-de-9-de-dezembro-de-1893",
+      "titulo": "LEI Nº 77 de 9 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-09-77",
+      "data": "1893-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-76-de-9-de-dezembro-de-1893",
+      "titulo": "LEI Nº 76 de 9 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-09-76",
+      "data": "1893-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-75-de-9-de-dezembro-de-1893",
+      "titulo": "LEI Nº 75 de 9 de Dezembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-12-09-75",
+      "data": "1893-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-74-de-28-de-novembro-de-1893",
+      "titulo": "LEI Nº 74 de 28 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-28-74",
+      "data": "1893-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-73-de-28-de-novembro-de-1893",
+      "titulo": "LEI Nº 73 de 28 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-28-73",
+      "data": "1893-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-72-de-28-de-novembro-de-1893",
+      "titulo": "LEI Nº 72 de 28 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-28-72",
+      "data": "1893-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-71-de-28-de-novembro-de-1893",
+      "titulo": "LEI Nº 71 de 28 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-28-71",
+      "data": "1893-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-70-de-16-de-novembro-de-1893",
+      "titulo": "LEI Nº 70 de 16 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-16-70",
+      "data": "1893-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-69-de-16-de-novembro-de-1893",
+      "titulo": "LEI Nº 69 de 16 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-16-69",
+      "data": "1893-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-68-de-13-de-novembro-de-1893",
+      "titulo": "LEI Nº 68 de 13 de Novembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-11-13-68",
+      "data": "1893-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-67-de-23-de-outubro-de-1893",
+      "titulo": "LEI Nº 67 de 23 de Outubro de 1893",
+      "id": "br-municipal-3550308-lei-1893-10-23-67",
+      "data": "1893-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-65-de-23-de-outubro-de-1893",
+      "titulo": "LEI Nº 65 de 23 de Outubro de 1893",
+      "id": "br-municipal-3550308-lei-1893-10-23-65",
+      "data": "1893-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-66-de-23-de-outubro-de-1893",
+      "titulo": "LEI Nº 66 de 23 de Outubro de 1893",
+      "id": "br-municipal-3550308-lei-1893-10-23-66",
+      "data": "1893-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-64-de-16-de-outubro-de-1893",
+      "titulo": "LEI Nº 64 de 16 de Outubro de 1893",
+      "id": "br-municipal-3550308-lei-1893-10-16-64",
+      "data": "1893-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-63-de-28-de-setembro-de-1893",
+      "titulo": "LEI Nº 63 de 28 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-28-63",
+      "data": "1893-09-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-62-de-12-de-setembro-de-1893",
+      "titulo": "LEI Nº 62 de 12 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-12-62",
+      "data": "1893-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-61-de-12-de-setembro-de-1893",
+      "titulo": "LEI Nº 61 de 12 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-12-61",
+      "data": "1893-09-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-60-de-2-de-setembro-de-1893",
+      "titulo": "LEI Nº 60 de 2 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-02-60",
+      "data": "1893-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-59-de-2-de-setembro-de-1893",
+      "titulo": "LEI Nº 59 de 2 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-02-59",
+      "data": "1893-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-58-de-1-de-setembro-de-1893",
+      "titulo": "LEI Nº 58 de 1 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-01-58",
+      "data": "1893-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-57-de-1-de-setembro-de-1893",
+      "titulo": "LEI Nº 57 de 1 de Setembro de 1893",
+      "id": "br-municipal-3550308-lei-1893-09-01-57",
+      "data": "1893-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-56-de-27-de-julho-de-1893",
+      "titulo": "LEI Nº 56 de 27 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-27-56",
+      "data": "1893-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-55-de-27-de-julho-de-1893",
+      "titulo": "LEI Nº 55 de 27 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-27-55",
+      "data": "1893-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-54-de-27-de-julho-de-1893",
+      "titulo": "LEI Nº 54 de 27 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-27-54",
+      "data": "1893-07-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-53-de-25-de-julho-de-1893",
+      "titulo": "LEI Nº 53 de 25 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-25-53",
+      "data": "1893-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-52-de-25-de-julho-de-1893",
+      "titulo": "LEI Nº 52 de 25 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-25-52",
+      "data": "1893-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-51-de-25-de-julho-de-1893",
+      "titulo": "LEI Nº 51 de 25 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-25-51",
+      "data": "1893-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-50-de-25-de-julho-de-1893",
+      "titulo": "LEI Nº 50 de 25 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-25-50",
+      "data": "1893-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-49-de-20-de-julho-de-1893",
+      "titulo": "LEI Nº 49 de 20 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-20-49",
+      "data": "1893-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-48-de-20-de-julho-de-1893",
+      "titulo": "LEI Nº 48 de 20 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-20-48",
+      "data": "1893-07-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-47-de-6-de-julho-de-1893",
+      "titulo": "LEI Nº 47 de 6 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-06-47",
+      "data": "1893-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-46-de-6-de-julho-de-1893",
+      "titulo": "LEI Nº 46 de 6 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-06-46",
+      "data": "1893-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-45-de-5-de-julho-de-1893",
+      "titulo": "LEI Nº 45 de 5 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-05-45",
+      "data": "1893-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-44-de-5-de-julho-de-1893",
+      "titulo": "LEI Nº 44 de 5 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-05-44",
+      "data": "1893-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-43-de-5-de-julho-de-1893",
+      "titulo": "LEI Nº 43 de 5 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-05-43",
+      "data": "1893-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-42-de-5-de-julho-de-1893",
+      "titulo": "LEI Nº 42 de 5 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-05-42",
+      "data": "1893-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-41-de-5-de-julho-de-1893",
+      "titulo": "LEI Nº 41 de 5 de Julho de 1893",
+      "id": "br-municipal-3550308-lei-1893-07-05-41",
+      "data": "1893-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-40-de-31-de-maio-de-1893",
+      "titulo": "LEI Nº 40 de 31 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-31-40",
+      "data": "1893-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-39-de-24-de-maio-de-1893",
+      "titulo": "LEI Nº 39 de 24 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-24-39",
+      "data": "1893-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-38-de-24-de-maio-de-1893",
+      "titulo": "LEI Nº 38 de 24 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-24-38",
+      "data": "1893-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-37-de-24-de-maio-de-1893",
+      "titulo": "LEI Nº 37 de 24 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-24-37",
+      "data": "1893-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-36-de-10-de-maio-de-1893",
+      "titulo": "LEI Nº 36 de 10 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-10-36",
+      "data": "1893-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-35-de-10-de-maio-de-1893",
+      "titulo": "LEI Nº 35 de 10 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-10-35",
+      "data": "1893-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-34-de-4-de-maio-de-1893",
+      "titulo": "LEI Nº 34 de 4 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-04-34",
+      "data": "1893-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-33-de-4-de-maio-de-1893",
+      "titulo": "LEI Nº 33 de 4 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-04-33",
+      "data": "1893-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-32-de-4-de-maio-de-1893",
+      "titulo": "LEI Nº 32 de 4 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-04-32",
+      "data": "1893-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-31-de-4-de-maio-de-1893",
+      "titulo": "LEI Nº 31 de 4 de Maio de 1893",
+      "id": "br-municipal-3550308-lei-1893-05-04-31",
+      "data": "1893-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-30-de-29-de-abril-de-1893",
+      "titulo": "LEI Nº 30 de 29 de Abril de 1893",
+      "id": "br-municipal-3550308-lei-1893-04-29-30",
+      "data": "1893-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-29-de-29-de-abril-de-1893",
+      "titulo": "LEI Nº 29 de 29 de Abril de 1893",
+      "id": "br-municipal-3550308-lei-1893-04-29-29",
+      "data": "1893-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-28-de-28-de-abril-de-1893",
+      "titulo": "LEI Nº 28 de 28 de Abril de 1893",
+      "id": "br-municipal-3550308-lei-1893-04-28-28",
+      "data": "1893-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-27-de-15-de-abril-de-1893",
+      "titulo": "LEI Nº 27 de 15 de Abril de 1893",
+      "id": "br-municipal-3550308-lei-1893-04-15-27",
+      "data": "1893-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-26-de-15-de-abril-de-1893",
+      "titulo": "LEI Nº 26 de 15 de Abril de 1893",
+      "id": "br-municipal-3550308-lei-1893-04-15-26",
+      "data": "1893-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-25-de-15-de-abril-de-1893",
+      "titulo": "LEI Nº 25 de 15 de Abril de 1893",
+      "id": "br-municipal-3550308-lei-1893-04-15-25",
+      "data": "1893-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-24-de-24-de-marco-de-1893",
+      "titulo": "LEI Nº 24 de 24 de Março de 1893",
+      "id": "br-municipal-3550308-lei-1893-03-24-24",
+      "data": "1893-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-23-de-28-de-fevereiro-de-1893",
+      "titulo": "LEI Nº 23 de 28 de Fevereiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-02-28-23",
+      "data": "1893-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-22-de-28-de-fevereiro-de-1893",
+      "titulo": "LEI Nº 22 de 28 de Fevereiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-02-28-22",
+      "data": "1893-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-21-de-22-de-fevereiro-de-1893",
+      "titulo": "LEI Nº 21 de 22 de Fevereiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-02-22-21",
+      "data": "1893-02-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-20-de-4-de-fevereiro-de-1893",
+      "titulo": "LEI Nº 20 de 4 de Fevereiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-02-04-20",
+      "data": "1893-02-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-19-de-24-de-janeiro-de-1893",
+      "titulo": "LEI Nº 19 de 24 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-24-19",
+      "data": "1893-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18-de-24-de-janeiro-de-1893",
+      "titulo": "LEI Nº 18 de 24 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-24-18",
+      "data": "1893-01-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17-de-19-de-janeiro-de-1893",
+      "titulo": "LEI Nº 17 de 19 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-19-17",
+      "data": "1893-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16-de-18-de-janeiro-de-1893",
+      "titulo": "LEI Nº 16 de 18 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-18-16",
+      "data": "1893-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15-de-18-de-janeiro-de-1893",
+      "titulo": "LEI Nº 15 de 18 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-18-15",
+      "data": "1893-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14-de-18-de-janeiro-de-1893",
+      "titulo": "LEI Nº 14 de 18 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-18-14",
+      "data": "1893-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13-de-17-de-janeiro-de-1893",
+      "titulo": "LEI Nº 13 de 17 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-17-13",
+      "data": "1893-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12-de-17-de-janeiro-de-1893",
+      "titulo": "LEI Nº 12 de 17 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-17-12",
+      "data": "1893-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11-de-17-de-janeiro-de-1893",
+      "titulo": "LEI Nº 11 de 17 de Janeiro de 1893",
+      "id": "br-municipal-3550308-lei-1893-01-17-11",
+      "data": "1893-01-17"
+    }
+  ],
+  "pendencias": []
+}

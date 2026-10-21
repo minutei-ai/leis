@@ -1,0 +1,1130 @@
+{
+  "ano_publicacao": 2026,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2026",
+    "ano-final": "31/12/2026",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:44:07.341Z",
+  "total": 184,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "f7325dff3fb89030ca7d0f259938dc28daf15bb6d90b68b566017e2b24eb394c"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "f6f4d0a20fecd9d6dccb492acd9a68058ae24b4da77f4c0ad4e3284fcd1a2f4b"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18562-de-16-de-outubro-de-2026",
+      "titulo": "LEI Nº 18.562 de 16 de Outubro de 2026",
+      "id": "br-municipal-3550308-lei-2026-10-16-18562",
+      "data": "2026-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18561-de-30-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.561 de 30 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-30-18561",
+      "data": "2026-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18560-de-30-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.560 de 30 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-30-18560",
+      "data": "2026-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18559-de-29-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.559 de 29 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-29-18559",
+      "data": "2026-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18558-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.558 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18558",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18557-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.557 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18557",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18556-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.556 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18556",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18555-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.555 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18555",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18554-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.554 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18554",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18553-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.553 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18553",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18552-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.552 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18552",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18551-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.551 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18551",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18550-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.550 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18550",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18549-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.549 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18549",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18548-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.548 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18548",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18547-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.547 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18547",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18546-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.546 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18546",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18545-de-24-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.545 de 24 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-24-18545",
+      "data": "2026-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18544-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.544 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18544",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18543-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.543 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18543",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18542-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.542 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18542",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18541-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.541 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18541",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18540-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.540 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18540",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18539-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.539 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18539",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18538-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.538 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18538",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18537-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.537 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18537",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18536-de-22-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.536 de 22 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-22-18536",
+      "data": "2026-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18535-de-16-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.535 de 16 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-16-18535",
+      "data": "2026-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18534-de-16-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.534 de 16 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-16-18534",
+      "data": "2026-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18533-de-16-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.533 de 16 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-16-18533",
+      "data": "2026-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18532-de-16-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.532 de 16 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-16-18532",
+      "data": "2026-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18531-de-16-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.531 de 16 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-16-18531",
+      "data": "2026-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18530-de-11-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.530 de 11 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-11-18530",
+      "data": "2026-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18529-de-11-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.529 de 11 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-11-18529",
+      "data": "2026-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18528-de-4-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.528 de 4 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-04-18528",
+      "data": "2026-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18527-de-1-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.527 de 1 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-01-18527",
+      "data": "2026-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18526-de-1-de-setembro-de-2026",
+      "titulo": "LEI Nº 18.526 de 1 de Setembro de 2026",
+      "id": "br-municipal-3550308-lei-2026-09-01-18526",
+      "data": "2026-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18525-de-20-de-agosto-de-2026",
+      "titulo": "LEI Nº 18.525 de 20 de Agosto de 2026",
+      "id": "br-municipal-3550308-lei-2026-08-20-18525",
+      "data": "2026-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18524-de-16-de-julho-de-2026",
+      "titulo": "LEI Nº 18.524 de 16 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-16-18524",
+      "data": "2026-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18523-de-15-de-julho-de-2026",
+      "titulo": "LEI Nº 18.523 de 15 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-15-18523",
+      "data": "2026-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18522-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.522 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18522",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18521-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.521 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18521",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18520-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.520 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18520",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18519-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.519 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18519",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18518-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.518 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18518",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18517-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.517 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18517",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18516-de-14-de-julho-de-2026",
+      "titulo": "LEI Nº 18.516 de 14 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-14-18516",
+      "data": "2026-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18515-de-10-de-julho-de-2026",
+      "titulo": "LEI Nº 18.515 de 10 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-10-18515",
+      "data": "2026-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18514-de-10-de-julho-de-2026",
+      "titulo": "LEI Nº 18.514 de 10 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-10-18514",
+      "data": "2026-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18513-de-10-de-julho-de-2026",
+      "titulo": "LEI Nº 18.513 de 10 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-10-18513",
+      "data": "2026-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18512-de-10-de-julho-de-2026",
+      "titulo": "LEI Nº 18.512 de 10 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-10-18512",
+      "data": "2026-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18511-de-10-de-julho-de-2026",
+      "titulo": "LEI Nº 18.511 de 10 de Julho de 2026",
+      "id": "br-municipal-3550308-lei-2026-07-10-18511",
+      "data": "2026-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18510-de-24-de-junho-de-2026",
+      "titulo": "LEI Nº 18.510 de 24 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-24-18510",
+      "data": "2026-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18509-de-24-de-junho-de-2026",
+      "titulo": "LEI Nº 18.509 de 24 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-24-18509",
+      "data": "2026-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18508-de-24-de-junho-de-2026",
+      "titulo": "LEI Nº 18.508 de 24 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-24-18508",
+      "data": "2026-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18507-de-24-de-junho-de-2026",
+      "titulo": "LEI Nº 18.507 de 24 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-24-18507",
+      "data": "2026-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18506-de-22-de-junho-de-2026",
+      "titulo": "LEI Nº 18.506 de 22 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-22-18506",
+      "data": "2026-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18505-de-22-de-junho-de-2026",
+      "titulo": "LEI Nº 18.505 de 22 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-22-18505",
+      "data": "2026-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18504-de-18-de-junho-de-2026",
+      "titulo": "LEI Nº 18.504 de 18 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-18-18504",
+      "data": "2026-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18503-de-18-de-junho-de-2026",
+      "titulo": "LEI Nº 18.503 de 18 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-18-18503",
+      "data": "2026-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18502-de-18-de-junho-de-2026",
+      "titulo": "LEI Nº 18.502 de 18 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-18-18502",
+      "data": "2026-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18501-de-18-de-junho-de-2026",
+      "titulo": "LEI Nº 18.501 de 18 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-18-18501",
+      "data": "2026-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18500-de-18-de-junho-de-2026",
+      "titulo": "LEI Nº 18.500 de 18 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-18-18500",
+      "data": "2026-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18499-de-12-de-junho-de-2026",
+      "titulo": "LEI Nº 18.499 de 12 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-12-18499",
+      "data": "2026-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18498-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.498 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18498",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18497-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.497 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18497",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18946-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.496 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18496",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18495-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.495 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18495",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18494-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.494 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18494",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18493-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.493 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18493",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18492-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.492 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18492",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18491-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.491 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18491",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18490-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.490 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18490",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18489-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.489 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18489",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18488-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.488 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18488",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18487-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.487 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18487",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18486-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.486 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18486",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18485-de-8-de-junho-de-2026",
+      "titulo": "LEI Nº 18.485 de 8 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-08-18485",
+      "data": "2026-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18484-de-3-de-junho-de-2026",
+      "titulo": "LEI Nº 18.484 de 3 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-03-18484",
+      "data": "2026-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18483-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.483 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18483",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18482-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.482 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18482",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18481-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.481 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18481",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18480-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.480 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18480",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18479-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.479 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18479",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18478-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.478 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18478",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18477-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.477 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18477",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18476-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.476 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18476",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18475-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.475 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18475",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18474-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.474 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18474",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18473-de-1-de-junho-de-2026",
+      "titulo": "LEI Nº 18.473 de 1 de Junho de 2026",
+      "id": "br-municipal-3550308-lei-2026-06-01-18473",
+      "data": "2026-06-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18472-de-29-de-maio-de-2026",
+      "titulo": "LEI Nº 18.472 de 29 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-29-18472",
+      "data": "2026-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18471-de-29-de-maio-de-2026",
+      "titulo": "LEI Nº 18.471 de 29 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-29-18471",
+      "data": "2026-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18470-de-27-de-maio-de-2026",
+      "titulo": "LEI Nº 18.470 de 27 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-27-18470",
+      "data": "2026-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18469-de-27-de-maio-de-2026",
+      "titulo": "LEI Nº 18.469 de 27 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-27-18469",
+      "data": "2026-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18468-de-25-de-maio-de-2026",
+      "titulo": "LEI Nº 18.468 de 25 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-25-18468",
+      "data": "2026-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18467-de-25-de-maio-de-2026",
+      "titulo": "LEI Nº 18.467 de 25 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-25-18467",
+      "data": "2026-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18466-de-25-de-maio-de-2026",
+      "titulo": "LEI Nº 18.466 de 25 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-25-18466",
+      "data": "2026-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18465-de-19-de-maio-de-2026",
+      "titulo": "LEI Nº 18.465 de 19 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-19-18465",
+      "data": "2026-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18464-de-18-de-maio-de-2026",
+      "titulo": "LEI Nº 18.464 de 18 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-18-18464",
+      "data": "2026-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18463-de-13-de-maio-de-2026",
+      "titulo": "LEI Nº 18.463 de 13 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-13-18463",
+      "data": "2026-05-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18462-de-1-de-maio-de-2026",
+      "titulo": "LEI Nº 18.462 de 1 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-01-18462",
+      "data": "2026-05-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18461-de-1-de-maio-de-2026",
+      "titulo": "LEI Nº 18.461 de 1 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-01-18461",
+      "data": "2026-05-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18460-de-1-de-maio-de-2026",
+      "titulo": "LEI Nº 18.460 de 1 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-01-18460",
+      "data": "2026-05-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18459-de-1-de-maio-de-2026",
+      "titulo": "LEI Nº 18.459 de 1 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-01-18459",
+      "data": "2026-05-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18458-de-1-de-maio-de-2026",
+      "titulo": "LEI Nº 18.458 de 1 de Maio de 2026",
+      "id": "br-municipal-3550308-lei-2026-05-01-18458",
+      "data": "2026-05-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18457-de-29-de-abril-de-2026",
+      "titulo": "LEI Nº 18.457 de 29 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-29-18457",
+      "data": "2026-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18456-de-29-de-abril-de-2026",
+      "titulo": "LEI Nº 18.456 de 29 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-29-18456",
+      "data": "2026-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18455-de-29-de-abril-de-2026",
+      "titulo": "LEI Nº 18.455 de 29 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-29-18455",
+      "data": "2026-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18454-de-29-de-abril-de-2026",
+      "titulo": "LEI Nº 18.454 de 29 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-29-18454",
+      "data": "2026-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18453-de-29-de-abril-de-2026",
+      "titulo": "LEI Nº 18.453 de 29 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-29-18453",
+      "data": "2026-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18452-de-24-de-abril-de-2026",
+      "titulo": "LEI Nº 18.452 de 24 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-24-18452",
+      "data": "2026-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18451-de-24-de-abril-de-2026",
+      "titulo": "LEI Nº 18.451 de 24 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-24-18451",
+      "data": "2026-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18450-de-24-de-abril-de-2026",
+      "titulo": "LEI Nº 18.450 de 24 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-24-18450",
+      "data": "2026-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18449-de-24-de-abril-de-2026",
+      "titulo": "LEI Nº 18.449 de 24 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-24-18449",
+      "data": "2026-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18448-de-24-de-abril-de-2026",
+      "titulo": "LEI Nº 18.448 de 24 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-24-18448",
+      "data": "2026-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18447-de-23-de-abril-de-2026",
+      "titulo": "LEI Nº 18.447 de 23 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-23-18447",
+      "data": "2026-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18446-de-23-de-abril-de-2026",
+      "titulo": "LEI Nº 18.446 de 23 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-23-18446",
+      "data": "2026-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18445-de-23-de-abril-de-2026",
+      "titulo": "LEI Nº 18.445 de 23 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-23-18445",
+      "data": "2026-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18444-de-23-de-abril-de-2026",
+      "titulo": "LEI Nº 18.444 de 23 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-23-18444",
+      "data": "2026-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18443-de-22-de-abril-de-2026",
+      "titulo": "LEI Nº 18.443 de 22 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-22-18443",
+      "data": "2026-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18442-de-22-de-abril-de-2026",
+      "titulo": "LEI Nº 18.442 de 22 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-22-18442",
+      "data": "2026-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18441-de-22-de-abril-de-2026",
+      "titulo": "LEI Nº 18.441 de 22 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-22-18441",
+      "data": "2026-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18440-de-22-de-abril-de-2026",
+      "titulo": "LEI Nº 18.440 de 22 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-22-18440",
+      "data": "2026-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18439-de-14-de-abril-de-2026",
+      "titulo": "LEI Nº 18.439 de 14 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-14-18439",
+      "data": "2026-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18438-de-13-de-abril-de-2026",
+      "titulo": "LEI Nº 18.438 de 13 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-13-18438",
+      "data": "2026-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18437-de-9-de-abril-de-2026",
+      "titulo": "LEI Nº 18.437 de 9 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-09-18437",
+      "data": "2026-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18436-de-6-de-abril-de-2026",
+      "titulo": "LEI Nº 18.436 de 6 de Abril de 2026",
+      "id": "br-municipal-3550308-lei-2026-04-06-18436",
+      "data": "2026-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18435-de-25-de-marco-de-2026",
+      "titulo": "LEI Nº 18.435 de 25 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-25-18435",
+      "data": "2026-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18434-de-25-de-marco-de-2026",
+      "titulo": "LEI Nº 18.434 de 25 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-25-18434",
+      "data": "2026-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18433-de-25-de-marco-de-2026",
+      "titulo": "LEI Nº 18.433 de 25 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-25-18433",
+      "data": "2026-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18432-de-25-de-marco-de-2026",
+      "titulo": "LEI Nº 18.432 de 25 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-25-18432",
+      "data": "2026-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18431-de-25-de-marco-de-2026",
+      "titulo": "LEI Nº 18.431 de 25 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-25-18431",
+      "data": "2026-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18430-de-25-de-marco-de-2026",
+      "titulo": "LEI Nº 18.430 de 25 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-25-18430",
+      "data": "2026-03-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18429-de-20-de-marco-de-2026",
+      "titulo": "LEI Nº 18.429 de 20 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-20-18429",
+      "data": "2026-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18428-de-10-de-marco-de-2026",
+      "titulo": "LEI Nº 18.428 de 10 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-10-18428",
+      "data": "2026-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18427-de-10-de-marco-de-2026",
+      "titulo": "LEI Nº 18.427 de 10 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-10-18427",
+      "data": "2026-03-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18426-de-9-de-marco-de-2026",
+      "titulo": "LEI Nº 18.426 de 9 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-09-18426",
+      "data": "2026-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18425-de-9-de-marco-de-2026",
+      "titulo": "LEI Nº 18.425 de 9 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-09-18425",
+      "data": "2026-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18424-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.424 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18424",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18423-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.423 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18423",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18422-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.422 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18422",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18421-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.421 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18421",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18420-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.420 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18420",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18419-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.419 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18419",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18418-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.418 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18418",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18417-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.417 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18417",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18416-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.416 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18416",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18415-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.415 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18415",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18414-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.414 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18414",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18413-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.413 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18413",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18412-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.412 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18412",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18411-de-4-de-marco-de-2026",
+      "titulo": "LEI Nº 18.411 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18411",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18410-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.410 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18410",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18409-de-3-de-marco-de-2026",
+      "titulo": "LEI Nº 18.409 de 3 de Março de 2026",
+      "id": "br-municipal-3550308-lei-2026-03-03-18409",
+      "data": "2026-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18408-de-26-de-fevereiro-de-2026",
+      "titulo": "LEI Nº 18.408 de 26 de Fevereiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-02-26-18408",
+      "data": "2026-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18407-de-19-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.407 de 19 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-19-18407",
+      "data": "2026-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18406-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.406 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18406",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18405-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.405 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18405",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18404-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.404 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18404",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18403-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.403 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18403",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18402-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.402 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18402",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18401-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.401 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18401",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18400-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.400 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18400",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18399-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.399 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18399",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18398-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.398 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18398",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18397-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.397 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18397",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18396-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.396 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18396",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18395-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.395 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18395",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18394-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.394 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18394",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18393-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.393 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18393",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18392-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.392 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18392",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18391-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.391 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18391",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18390-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.390 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18390",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18389-de-15-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.389 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18389",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18388-de-16-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.388 de 15 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-15-18388",
+      "data": "2026-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18387-de-9-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.387 de 9 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-09-18387",
+      "data": "2026-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18386-de-9-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.386 de 9 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-09-18386",
+      "data": "2026-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18835-de-7-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.385 de 7 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-07-18385",
+      "data": "2026-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18384-de-7-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.384 de 7 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-07-18384",
+      "data": "2026-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18383-de-7-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.383 de 7 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-07-18383",
+      "data": "2026-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18832-de-7-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.382 de 7 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-07-18382",
+      "data": "2026-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18381-de-7-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.381 de 7 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-07-18381",
+      "data": "2026-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18380-de-5-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.380 de 5 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-05-18380",
+      "data": "2026-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18379-de-5-de-janeiro-de-2026",
+      "titulo": "LEI Nº 18.379 de 5 de Janeiro de 2026",
+      "id": "br-municipal-3550308-lei-2026-01-05-18379",
+      "data": "2026-01-05"
+    }
+  ],
+  "pendencias": []
+}

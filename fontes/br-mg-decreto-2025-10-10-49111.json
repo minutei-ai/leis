@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-10-10-49111",
+  "titulo": "DEC nº 49111, de 10/10/2025",
+  "data": "2025-10-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49111/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49111/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "1a7111ee99ec59b5b4606f02a2b83a75de0f55d7502b2544b5a2f723c2867062",
+  "coletado_em": "2026-10-21T08:34:43.650Z",
+  "sha256_fonte": "a739c95bf2b5422fd1e0dbb448be11c163763e50a832924f4bc589e5f9159f58",
+  "sha256_markdown": "1a81fc7976bc0625c639f8d3ab2cd82318221902c86f3ee787a8eaa35907a37d"
+}

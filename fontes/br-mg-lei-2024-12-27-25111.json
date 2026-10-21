@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-12-27-25111",
+  "titulo": "LEI nº 25111, de 27/12/2024",
+  "data": "2024-12-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25111/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25111/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "0e97f8eafe7d789aa2692c3139ad5f37b73a82f976601fade1fcf130bc2eaab0",
+  "coletado_em": "2026-10-21T08:43:44.921Z",
+  "sha256_fonte": "ec75d27de25ba350a90c12b4768d2360a8b9e91ca28046dcc01cdfe889c6561e",
+  "sha256_markdown": "1509b0d210bdb2f54f4157369374dde587d794059ac383e030e6e68072476529"
+}

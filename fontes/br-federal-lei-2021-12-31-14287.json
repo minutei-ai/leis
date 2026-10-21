@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-12-31-14287",
+  "titulo": "Lei nº 14.287 de 31/12/2021",
+  "data": "2021-12-31",
+  "fonte": "https://normas.leg.br/api/public/binario/a10ba655-826a-4c63-a225-8948a060bd45/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-12-31;14287",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-12-31%3B14287&tipo_documento=maior-detalhe",
+  "sha256_dados": "27fe75a96b9c852b7244c5cf6a2fa590f4533aaff9f67acdd396d86be50d5a21",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:11.898Z",
+  "sha256_fonte": "07f33baa2ba7b39c0d32309ebeee0fa45d2d1c50c1909627c24e3d4dbcfbae78",
+  "sha256_markdown": "4093ecfdd5fbdd065792075cec52e514f3b763a085e1480e90b57957bc489d47"
+}

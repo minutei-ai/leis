@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-12-25757",
+  "titulo": "LEI nº 25757, de 12/03/2026",
+  "data": "2026-03-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25757/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25757/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "32e43f3f865eb5a42ca2354ecdb42693565daf4b24389af6cd301579a67934b2",
+  "coletado_em": "2026-10-21T08:25:44.657Z",
+  "sha256_fonte": "d82b68077aacbc897c01435d32cd69294a97f3c30b718166de30992308e1dbf2",
+  "sha256_markdown": "8525dcbeaa79726e1ab6b6092674e9d25a4011d98b3669fc4b73d689175f770e"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-08-26-13867",
+  "titulo": "Lei nº 13.867 de 26/08/2019",
+  "data": "2019-08-26",
+  "fonte": "https://normas.leg.br/api/public/binario/71eb01c3-1d1f-40e1-88ca-302e0ead6722/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-08-26;13867",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-08-26%3B13867&tipo_documento=maior-detalhe",
+  "sha256_dados": "410f508649ecd1a00db1ff84eb6b170324b9d1268c85cc655f1f43386dea1511",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:46:15.644Z",
+  "sha256_fonte": "e074834d42cdd9bf659f829147962c2a790775d9755feac0d7a1cb3eff89c05b",
+  "sha256_markdown": "a1157bcf64d797a1a366bf499cbbc4ff1f9ac05cd7be2d60cfb0b0f7bcfbde45"
+}

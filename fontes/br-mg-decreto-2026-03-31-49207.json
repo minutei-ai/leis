@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-31-49207",
+  "titulo": "DEC nº 49207, de 31/03/2026",
+  "data": "2026-03-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49207/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49207/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cde248b6dbd0b5dca7dbf22fddda6f1ed094cb0d6bfe5dc6854907e9a41914b5",
+  "coletado_em": "2026-10-21T08:26:25.165Z",
+  "sha256_fonte": "a6db5f8e52c7df7c8a948b0f335af404618999b0d64bcadcd8d71ef19e2f08c2",
+  "sha256_markdown": "c5b415fba977fb9af64d45e2991720db8ddeb21bbc2b04c93c6786e57d5c7cec"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-03-25324",
+  "titulo": "LEI nº 25324, de 03/07/2025",
+  "data": "2025-07-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25324/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25324/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7662cf7adbc35fd011634ce9ca93576e3687100baef95712ad4c8d30d57fe4e6",
+  "coletado_em": "2026-10-21T08:32:28.009Z",
+  "sha256_fonte": "e1d5ed8259f0da9529fefa2cbbbaf3251a973fe7977bd1901b59ce97ff721e34",
+  "sha256_markdown": "ce4e51d677c01aad1e2833b78c40a5489cb51f8c06b2509949952a40319fa9b4"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-17-25985",
+  "titulo": "LEI nº 25985, de 17/07/2026",
+  "data": "2026-07-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25985/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25985/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8c5ed986448f711819ef1a2e984ffbbc3454ab984b44ec60ecf35f0e527c338d",
+  "coletado_em": "2026-10-21T08:28:35.441Z",
+  "sha256_fonte": "3fff9541bbc956ebb6c70d0178c60b908a2eb5908ee69bd5ddb7398b1d66f71b",
+  "sha256_markdown": "e08dabd3c64e0d17c62ab25739d3677c01413373472a59195b4956e148e045af"
+}

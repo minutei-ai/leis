@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-11-30-14743",
+  "titulo": "Lei nº 14.743 de 30/11/2023",
+  "data": "2023-11-30",
+  "fonte": "https://normas.leg.br/api/public/binario/943dbe52-568c-4115-a583-2b321a0eeee2/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-11-30;14743",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-11-30%3B14743&tipo_documento=maior-detalhe",
+  "sha256_dados": "c845fbc28059157f78c5eade1154010479e5054a7474d0a0f8ab8a89044f8703",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:27:24.535Z",
+  "sha256_fonte": "c91d7584ac048d24309be4717aadb4dad80cc84120d08d9da6893efa1825d3c2",
+  "sha256_markdown": "c4cf38f3d9e1ae13ba94b81e78f447174e74cdbc6d9f33b8c6535c2496de95a9"
+}

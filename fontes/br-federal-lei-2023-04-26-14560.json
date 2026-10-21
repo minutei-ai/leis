@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-04-26-14560",
+  "titulo": "Lei nº 14.560 de 26/04/2023",
+  "data": "2023-04-26",
+  "fonte": "https://normas.leg.br/api/public/binario/ecdaae21-0ca1-4205-9831-3121505d6ffc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-04-26;14560",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-04-26%3B14560&tipo_documento=maior-detalhe",
+  "sha256_dados": "a449c6e467013ca6c1dd96a36e4a6d5a9e494205f7b66f70921a2f71395bcd9b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:19.330Z",
+  "sha256_fonte": "e7bc2dd042f459494d3725f412453f201bc30a7e095d463ac81abc8a7a751606",
+  "sha256_markdown": "9977fabbe2538878f2c615c4f3988ec6cd978c678b0e16ee69c4d9af5abfe524"
+}

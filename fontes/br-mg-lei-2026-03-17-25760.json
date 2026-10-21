@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-17-25760",
+  "titulo": "LEI nº 25760, de 17/03/2026",
+  "data": "2026-03-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25760/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25760/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6434967acc80d3262a052df6825ea94bfe28603bf913258ac1509ff139685ebb",
+  "coletado_em": "2026-10-21T08:25:48.067Z",
+  "sha256_fonte": "49702597f450559d56a74216ae3c75ea1ba7d81cdd4f68c7fc98c0de30a61a2f",
+  "sha256_markdown": "bdf74f5dc87256ff42b341e3aa13fbb288433b1676d33a90ef918a9e58676381"
+}

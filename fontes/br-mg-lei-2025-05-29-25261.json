@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-29-25261",
+  "titulo": "LEI nº 25261, de 29/05/2025",
+  "data": "2025-05-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25261/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25261/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "0c67d34c50e1df7912949c883b2886a09a5465adc82a9e31a4f6770e3a9b98fc",
+  "coletado_em": "2026-10-21T08:31:36.823Z",
+  "sha256_fonte": "ea803ff5da484e13047c02773edc3702b7fa59cc29253770a36fb581844bd491",
+  "sha256_markdown": "fe95a0698e4bad32d0f066cc2f87e2c376dcffddc0fa90891f8796e38ef3cc33"
+}

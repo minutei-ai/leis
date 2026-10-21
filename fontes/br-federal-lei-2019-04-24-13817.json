@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-04-24-13817",
+  "titulo": "Lei nº 13.817 de 24/04/2019",
+  "data": "2019-04-24",
+  "fonte": "https://normas.leg.br/api/public/binario/03d6b899-110f-4965-a271-09f6ba162383/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-04-24;13817",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-04-24%3B13817&tipo_documento=maior-detalhe",
+  "sha256_dados": "d2714149564281e07669240d30ee9c74cd4e118a3047b4f5600d2ca5fb2060aa",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:47:23.570Z",
+  "sha256_fonte": "5b92579b86519b9b31a411314ef25d819ef665bdfecc9dc1be964bb9822de195",
+  "sha256_markdown": "615b06e04809288c27d7a930a671a4fcf20366bfbb2ccb8246677a188dde429c"
+}

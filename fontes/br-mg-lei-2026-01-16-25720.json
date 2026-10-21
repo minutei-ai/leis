@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-16-25720",
+  "titulo": "LEI nº 25720, de 16/01/2026",
+  "data": "2026-01-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25720/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25720/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e7894dca7bed8c477c090f9b08cf4ff4b0b6ed9317f3fab8078351c8f5601c0e",
+  "coletado_em": "2026-10-21T08:25:12.352Z",
+  "sha256_fonte": "108651e9cd51fc56aa37608e0b1b4715efc01c66a48ac58b01ffccb59ba5937c",
+  "sha256_markdown": "98ad5b6ea30f5e7223ae57edbd07064892a10be219c1ac62a621a2314a6e38c7"
+}

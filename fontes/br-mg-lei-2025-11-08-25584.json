@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-11-08-25584",
+  "titulo": "LEI nº 25584, de 08/11/2025",
+  "data": "2025-11-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25584/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25584/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a0d7d6629aa97bd1822925fd72dd0de4cfc160f147350192a060974a74795608",
+  "coletado_em": "2026-10-21T08:35:25.519Z",
+  "sha256_fonte": "5dc0d117778d4275db03dc52dfaeb41d78870420abbb1b362a393c1f6280fdb8",
+  "sha256_markdown": "5806184d46625e21bda74d42d36d61feca90f22c3f9f6581a9a6af69befc56bc"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-10-06-14214",
+  "titulo": "Lei nº 14.214 de 06/10/2021",
+  "data": "2021-10-06",
+  "fonte": "https://normas.leg.br/api/public/binario/456c4b9a-b73f-4848-9b68-bca21d9181a0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-10-06;14214",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-10-06%3B14214&tipo_documento=maior-detalhe",
+  "sha256_dados": "e3d256f1673d8660f80c882d2d42e4dc394f2bc979c10e86849bf23964227c1e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:45.497Z",
+  "sha256_fonte": "fa78ed1e574b8d7bf43cea069292157da8e97b160350699bacc461f58130dd53",
+  "sha256_markdown": "b36eeb26f589969c85f80011c4af84ad7353491a8db0becec4fae75692bf6170"
+}

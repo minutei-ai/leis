@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-02-28-49002",
+  "titulo": "DEC nº 49002, de 28/02/2025",
+  "data": "2025-02-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49002/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49002/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8d4a32cc7425b264be568a4067a32898ed60924236af20f6a6ef271b3389c107",
+  "coletado_em": "2026-10-21T08:30:16.474Z",
+  "sha256_fonte": "8f9735667d77215d11a9d97cadb93a06747f32c11b55b0bc1a0f5eac09113be2",
+  "sha256_markdown": "a56afa3d0bfb42c10b38021b9e2d8bc6c30677e739abff7f8a62d7a79af5382e"
+}

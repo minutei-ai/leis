@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-03-18-25170",
+  "titulo": "LEI nº 25170, de 18/03/2025",
+  "data": "2025-03-18",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25170/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25170/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7af93314a47f066a9e32197297ef8d69348dafe1d84eb6187e2832f6401e15bb",
+  "coletado_em": "2026-10-21T08:30:20.453Z",
+  "sha256_fonte": "44db038a4c86f167eb668421582030e4c68761b414a9da52f6c047a6eba10508",
+  "sha256_markdown": "3f3ebef37d7a117ba6525ca79f57222cc02dd9b15ba9a99762542400a0b182ab"
+}

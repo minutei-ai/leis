@@ -1,0 +1,992 @@
+{
+  "ano_publicacao": 1977,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1977",
+    "ano-final": "31/12/1977",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:29.355Z",
+  "total": 161,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "bc8e41c98eb9722b05f891d5885343d1af72bb1435f7d9590b16a3e4ea441eec"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "866b90c55ea23acbf5d4017ba80b7f6de883165a63a748dcbc789a83f34e396f"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8673-de-27-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.673 de 27 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-27-8673",
+      "data": "1977-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8672-de-27-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.672 de 27 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-27-8672",
+      "data": "1977-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8671-de-27-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.671 de 27 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-27-8671",
+      "data": "1977-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8669-de-22-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.669 de 22 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-22-8669",
+      "data": "1977-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8668-de-22-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.668 de 22 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-22-8668",
+      "data": "1977-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8670-de-22-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.670 de 22 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-22-8670",
+      "data": "1977-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8667-de-21-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.667 de 21 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-21-8667",
+      "data": "1977-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8665-de-21-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.665 de 21 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-21-8665",
+      "data": "1977-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8666-de-21-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.666 de 21 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-21-8666",
+      "data": "1977-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8664-de-19-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.664 de 19 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-19-8664",
+      "data": "1977-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8663-de-19-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.663 de 19 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-19-8663",
+      "data": "1977-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8662-de-16-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.662 de 16 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-16-8662",
+      "data": "1977-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8661-de-16-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.661 de 16 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-16-8661",
+      "data": "1977-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8660-de-16-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.660 de 16 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-16-8660",
+      "data": "1977-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8659-de-16-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.659 de 16 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-16-8659",
+      "data": "1977-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8657-de-14-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.657 de 14 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-14-8657",
+      "data": "1977-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8658-de-14-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.658 de 14 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-14-8658",
+      "data": "1977-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8656-de-9-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.656 de 9 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-09-8656",
+      "data": "1977-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8655-de-6-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.655 de 6 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-06-8655",
+      "data": "1977-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8654-de-6-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.654 de 6 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-06-8654",
+      "data": "1977-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8653-de-2-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.653 de 2 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-02-8653",
+      "data": "1977-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8652-de-2-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.652 de 2 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-02-8652",
+      "data": "1977-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8651-de-1-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.651 de 1 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-01-8651",
+      "data": "1977-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8650-de-1-de-dezembro-de-1977",
+      "titulo": "LEI Nº 8.650 de 1 de Dezembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-12-01-8650",
+      "data": "1977-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8649-de-25-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.649 de 25 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-25-8649",
+      "data": "1977-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8648-de-25-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.648 de 25 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-25-8648",
+      "data": "1977-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8647-de-23-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.647 de 23 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-23-8647",
+      "data": "1977-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8646-de-23-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.646 de 23 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-23-8646",
+      "data": "1977-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8645-de-21-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.645 de 21 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-21-8645",
+      "data": "1977-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8644-de-18-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.644 de 18 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-18-8644",
+      "data": "1977-11-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8643-de-17-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.643 de 17 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-17-8643",
+      "data": "1977-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8642-de-10-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.642 de 10 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-10-8642",
+      "data": "1977-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8641-de-8-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.641 de 8 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-08-8641",
+      "data": "1977-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8640-de-7-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.640 de 7 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-07-8640",
+      "data": "1977-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8639-de-7-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.639 de 7 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-07-8639",
+      "data": "1977-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8638-de-7-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.638 de 7 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-07-8638",
+      "data": "1977-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8636-de-4-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.636 de 4 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-04-8636",
+      "data": "1977-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8637-de-4-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.637 de 4 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-04-8637",
+      "data": "1977-11-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8635-de-3-de-novembro-de-1977",
+      "titulo": "LEI Nº 8.635 de 3 de Novembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-11-03-8635",
+      "data": "1977-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8634-de-27-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.634 de 27 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-27-8634",
+      "data": "1977-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8633-de-26-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.633 de 26 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-26-8633",
+      "data": "1977-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8632-de-24-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.632 de 24 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-24-8632",
+      "data": "1977-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8631-de-20-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.631 de 20 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-20-8631",
+      "data": "1977-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8630-de-19-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.630 de 19 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-19-8630",
+      "data": "1977-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8629-de-17-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.629 de 17 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-17-8629",
+      "data": "1977-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8628-de-13-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.628 de 13 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-13-8628",
+      "data": "1977-10-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8627-de-12-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.627 de 12 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-12-8627",
+      "data": "1977-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8626-de-12-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.626 de 12 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-12-8626",
+      "data": "1977-10-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8625-de-11-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.625 de 11 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-11-8625",
+      "data": "1977-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8624-de-11-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.624 de 11 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-11-8624",
+      "data": "1977-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8623-de-11-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.623 de 11 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-11-8623",
+      "data": "1977-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8622-de-10-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.622 de 10 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-10-8622",
+      "data": "1977-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8621-de-10-de-outubro-de-1977",
+      "titulo": "LEI Nº 8.621 de 10 de Outubro de 1977",
+      "id": "br-municipal-3550308-lei-1977-10-10-8621",
+      "data": "1977-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8620-de-29-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.620 de 29 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-29-8620",
+      "data": "1977-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8619-de-29-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.619 de 29 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-29-8619",
+      "data": "1977-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8618-de-29-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.618 de 29 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-29-8618",
+      "data": "1977-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8617-de-29-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.617 de 29 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-29-8617",
+      "data": "1977-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8616-de-27-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.616 de 27 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-27-8616",
+      "data": "1977-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8615-de-27-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.615 de 27 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-27-8615",
+      "data": "1977-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8614-de-23-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.614 de 23 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-23-8614",
+      "data": "1977-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8613-de-23-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.613 de 23 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-23-8613",
+      "data": "1977-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8612-de-23-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.612 de 23 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-23-8612",
+      "data": "1977-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8610-de-21-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.610 de 21 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-21-8610",
+      "data": "1977-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8609-de-21-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.609 de 21 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-21-8609",
+      "data": "1977-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8608-de-21-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.608 de 21 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-21-8608",
+      "data": "1977-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8611-de-21-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.611 de 21 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-21-8611",
+      "data": "1977-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8607-de-19-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.607 de 19 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-19-8607",
+      "data": "1977-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8606-de-19-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.606 de 19 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-19-8606",
+      "data": "1977-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8605-de-14-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.605 de 14 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-14-8605",
+      "data": "1977-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8604-de-14-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.604 de 14 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-14-8604",
+      "data": "1977-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8603-de-14-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.603 de 14 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-14-8603",
+      "data": "1977-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8602-de-9-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.602 de 9 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-09-8602",
+      "data": "1977-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8601-de-8-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.601 de 8 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-08-8601",
+      "data": "1977-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8600-de-8-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.600 de 8 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-08-8600",
+      "data": "1977-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8599-de-5-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.599 de 5 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-05-8599",
+      "data": "1977-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8598-de-5-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.598 de 5 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-05-8598",
+      "data": "1977-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8597-de-5-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.597 de 5 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-05-8597",
+      "data": "1977-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8596-de-1-de-setembro-de-1977",
+      "titulo": "LEI Nº 8.596 de 1 de Setembro de 1977",
+      "id": "br-municipal-3550308-lei-1977-09-01-8596",
+      "data": "1977-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8595-de-24-de-agosto-de-1977",
+      "titulo": "LEI Nº 8.595 de 24 de Agosto de 1977",
+      "id": "br-municipal-3550308-lei-1977-08-24-8595",
+      "data": "1977-08-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8594-de-15-de-agosto-de-1977",
+      "titulo": "LEI Nº 8.594 de 15 de Agosto de 1977",
+      "id": "br-municipal-3550308-lei-1977-08-15-8594",
+      "data": "1977-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8593-de-15-de-agosto-de-1977",
+      "titulo": "LEI Nº 8.593 de 15 de Agosto de 1977",
+      "id": "br-municipal-3550308-lei-1977-08-15-8593",
+      "data": "1977-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8592-de-15-de-julho-de-1977",
+      "titulo": "LEI Nº 8.592 de 15 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-15-8592",
+      "data": "1977-07-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8591-de-13-de-julho-de-1977",
+      "titulo": "LEI Nº 8.591 de 13 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-13-8591",
+      "data": "1977-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8590-de-7-de-julho-de-1977",
+      "titulo": "LEI Nº 8.590 de 7 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-07-8590",
+      "data": "1977-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8589-de-7-de-julho-de-1977",
+      "titulo": "LEI Nº 8.589 de 7 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-07-8589",
+      "data": "1977-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8588-de-7-de-julho-de-1977",
+      "titulo": "LEI Nº 8.588 de 7 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-07-8588",
+      "data": "1977-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8587-de-7-de-julho-de-1977",
+      "titulo": "LEI Nº 8.587 de 7 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-07-8587",
+      "data": "1977-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8586-de-6-de-julho-de-1977",
+      "titulo": "LEI Nº 8.586 de 6 de Julho de 1977",
+      "id": "br-municipal-3550308-lei-1977-07-06-8586",
+      "data": "1977-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8585-de-28-de-junho-de-1977",
+      "titulo": "LEI Nº 8.585 de 28 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-28-8585",
+      "data": "1977-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8584-de-24-de-junho-de-1977",
+      "titulo": "LEI Nº 8.584 de 24 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-24-8584",
+      "data": "1977-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8583-de-16-de-junho-de-1977",
+      "titulo": "LEI Nº 8.583 de 16 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-16-8583",
+      "data": "1977-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8582-de-16-de-junho-de-1977",
+      "titulo": "LEI Nº 8.582 de 16 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-16-8582",
+      "data": "1977-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8581-de-16-de-junho-de-1977",
+      "titulo": "LEI Nº 8.581 de 16 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-16-8581",
+      "data": "1977-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8580-de-14-de-junho-de-1977",
+      "titulo": "LEI Nº 8.580 de 14 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-14-8580",
+      "data": "1977-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8578-de-7-de-junho-de-1977",
+      "titulo": "LEI Nº 8.578 de 7 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-07-8578",
+      "data": "1977-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8577-de-7-de-junho-de-1977",
+      "titulo": "LEI Nº 8.577 de 7 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-07-8577",
+      "data": "1977-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8576-de-7-de-junho-de-1977",
+      "titulo": "LEI Nº 8.576 de 7 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-07-8576",
+      "data": "1977-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8575-de-7-de-junho-de-1977",
+      "titulo": "LEI Nº 8.575 de 7 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-07-8575",
+      "data": "1977-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8579-de-7-de-junho-de-1977",
+      "titulo": "LEI Nº 8.579 de 7 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-07-8579",
+      "data": "1977-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8574-de-2-de-junho-de-1977",
+      "titulo": "LEI Nº 8.574 de 2 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-02-8574",
+      "data": "1977-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8573-de-2-de-junho-de-1977",
+      "titulo": "LEI Nº 8.573 de 2 de Junho de 1977",
+      "id": "br-municipal-3550308-lei-1977-06-02-8573",
+      "data": "1977-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8572-de-25-de-maio-de-1977",
+      "titulo": "LEI Nº 8.572 de 25 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-25-8572",
+      "data": "1977-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8571-de-19-de-maio-de-1977",
+      "titulo": "LEI Nº 8.571 de 19 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-19-8571",
+      "data": "1977-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8570-de-19-de-maio-de-1977",
+      "titulo": "LEI Nº 8.570 de 19 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-19-8570",
+      "data": "1977-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8569-de-19-de-maio-de-1977",
+      "titulo": "LEI Nº 8.569 de 19 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-19-8569",
+      "data": "1977-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8568-de-19-de-maio-de-1977",
+      "titulo": "LEI Nº 8.568 de 19 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-19-8568",
+      "data": "1977-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8567-de-19-de-maio-de-1977",
+      "titulo": "LEI Nº 8.567 de 19 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-19-8567",
+      "data": "1977-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8565-de-16-de-maio-de-1977",
+      "titulo": "LEI Nº 8.565 de 16 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-16-8565",
+      "data": "1977-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8566-de-16-de-maio-de-1977",
+      "titulo": "LEI Nº 8.566 de 16 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-16-8566",
+      "data": "1977-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8564-de-12-de-maio-de-1977",
+      "titulo": "LEI Nº 8.564 de 12 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-12-8564",
+      "data": "1977-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8563-de-11-de-maio-de-1977",
+      "titulo": "LEI Nº 8.563 de 11 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-11-8563",
+      "data": "1977-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8562-de-4-de-maio-de-1977",
+      "titulo": "LEI Nº 8.562 de 4 de Maio de 1977",
+      "id": "br-municipal-3550308-lei-1977-05-04-8562",
+      "data": "1977-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8561-de-25-de-abril-de-1977",
+      "titulo": "LEI Nº 8.561 de 25 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-25-8561",
+      "data": "1977-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8560-de-25-de-abril-de-1977",
+      "titulo": "LEI Nº 8.560 de 25 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-25-8560",
+      "data": "1977-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8559-de-25-de-abril-de-1977",
+      "titulo": "LEI Nº 8.559 de 25 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-25-8559",
+      "data": "1977-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8558-de-25-de-abril-de-1977",
+      "titulo": "LEI Nº 8.558 de 25 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-25-8558",
+      "data": "1977-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8557-de-25-de-abril-de-1977",
+      "titulo": "LEI Nº 8.557 de 25 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-25-8557",
+      "data": "1977-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8556-de-19-de-abril-de-1977",
+      "titulo": "LEI Nº 8.556 de 19 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-19-8556",
+      "data": "1977-04-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8555-de-14-de-abril-de-1977",
+      "titulo": "LEI Nº 8.555 de 14 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-14-8555",
+      "data": "1977-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8554-de-14-de-abril-de-1977",
+      "titulo": "LEI Nº 8.554 de 14 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-14-8554",
+      "data": "1977-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8553-de-14-de-abril-de-1977",
+      "titulo": "LEI Nº 8.553 de 14 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-14-8553",
+      "data": "1977-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8552-de-5-de-abril-de-1977",
+      "titulo": "LEI Nº 8.552 de 5 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-05-8552",
+      "data": "1977-04-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8551-de-4-de-abril-de-1977",
+      "titulo": "LEI Nº 8.551 de 4 de Abril de 1977",
+      "id": "br-municipal-3550308-lei-1977-04-04-8551",
+      "data": "1977-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8550-de-31-de-marco-de-1977",
+      "titulo": "LEI Nº 8.550 de 31 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-31-8550",
+      "data": "1977-03-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8549-de-30-de-marco-de-1977",
+      "titulo": "LEI Nº 8.549 de 30 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-30-8549",
+      "data": "1977-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8548-de-29-de-marco-de-1977",
+      "titulo": "LEI Nº 8.548 de 29 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-29-8548",
+      "data": "1977-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8547-de-29-de-marco-de-1977",
+      "titulo": "LEI Nº 8.547 de 29 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-29-8547",
+      "data": "1977-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8546-de-29-de-marco-de-1977",
+      "titulo": "LEI Nº 8.546 de 29 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-29-8546",
+      "data": "1977-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8545-de-29-de-marco-de-1977",
+      "titulo": "LEI Nº 8.545 de 29 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-29-8545",
+      "data": "1977-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8544-de-23-de-marco-de-1977",
+      "titulo": "LEI Nº 8.544 de 23 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-23-8544",
+      "data": "1977-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8543-de-21-de-marco-de-1977",
+      "titulo": "LEI Nº 8.543 de 21 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-21-8543",
+      "data": "1977-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8542-de-21-de-marco-de-1977",
+      "titulo": "LEI Nº 8.542 de 21 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-21-8542",
+      "data": "1977-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8541-de-21-de-marco-de-1977",
+      "titulo": "LEI Nº 8.541 de 21 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-21-8541",
+      "data": "1977-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8540-de-17-de-marco-de-1977",
+      "titulo": "LEI Nº 8.540 de 17 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-17-8540",
+      "data": "1977-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8539-de-17-de-marco-de-1977",
+      "titulo": "LEI Nº 8.539 de 17 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-17-8539",
+      "data": "1977-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8538-de-14-de-marco-de-1977",
+      "titulo": "LEI Nº 8.538 de 14 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-14-8538",
+      "data": "1977-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8537-de-9-de-marco-de-1977",
+      "titulo": "LEI Nº 8.537 de 9 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-09-8537",
+      "data": "1977-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8536-de-9-de-marco-de-1977",
+      "titulo": "LEI Nº 8.536 de 9 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-09-8536",
+      "data": "1977-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8535-de-3-de-marco-de-1977",
+      "titulo": "LEI Nº 8.535 de 3 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-03-8535",
+      "data": "1977-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8534-de-3-de-marco-de-1977",
+      "titulo": "LEI Nº 8.534 de 3 de Março de 1977",
+      "id": "br-municipal-3550308-lei-1977-03-03-8534",
+      "data": "1977-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8533-de-19-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.533 de 19 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-19-8533",
+      "data": "1977-01-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8532-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.532 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8532",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8531-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.531 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8531",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8528-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.528 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8528",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8527-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.527 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8527",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8526-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.526 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8526",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8525-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.525 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8525",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8523-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.523 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8523",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8522-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.522 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8522",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8521-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.521 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8521",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8520-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.520 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8520",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8518-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.518 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8518",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8517-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.517 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8517",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8515-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.515 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8515",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8514-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.514 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8514",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8530-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.530 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8530",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8529-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.529 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8529",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8524-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.524 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8524",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8519-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.519 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8519",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8516-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.516 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8516",
+      "data": "1977-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8513-de-3-de-janeiro-de-1977",
+      "titulo": "LEI Nº 8.513 de 3 de Janeiro de 1977",
+      "id": "br-municipal-3550308-lei-1977-01-03-8513",
+      "data": "1977-01-03"
+    }
+  ],
+  "pendencias": []
+}

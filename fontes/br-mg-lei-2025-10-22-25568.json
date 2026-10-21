@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-10-22-25568",
+  "titulo": "LEI nº 25568, de 22/10/2025",
+  "data": "2025-10-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25568/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25568/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b694327c478522f535801cfbd9eea9ca21691e452a2cd1566462e1e8e531ea65",
+  "coletado_em": "2026-10-21T08:35:05.068Z",
+  "sha256_fonte": "5e25e3ebafd6be031accfb4713ce0d0e4b12c43cee10ed16808d55fd5bf0e134",
+  "sha256_markdown": "2cc619b8f26a3ebd4081537113847bedf93d23a0f2ef078a906e4816a67bbaf9"
+}

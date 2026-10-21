@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-01-03-25127",
+  "titulo": "LEI nº 25127, de 03/01/2025",
+  "data": "2025-01-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25127/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25127/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cc28f9921d9bd51fece02ca53ec92f2bea48d54f4b7ad1b744f9bf91d75565ce",
+  "coletado_em": "2026-10-21T08:29:36.875Z",
+  "sha256_fonte": "53567f7b6219f4b898bc1a628f5fb477c64bde858cff905a82f1545ed350c675",
+  "sha256_markdown": "399a181182a0fb40ab0fd2d4fe944c71e24ce45a0c8144863e0c9b260ea1163e"
+}

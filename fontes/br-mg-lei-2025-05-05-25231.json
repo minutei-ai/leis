@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-05-25231",
+  "titulo": "LEI nº 25231, de 05/05/2025",
+  "data": "2025-05-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25231/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25231/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7bb9b20508cead6e7a874fca695faee500d086a0a5a2391fa2ae2487775ba97b",
+  "coletado_em": "2026-10-21T08:31:07.361Z",
+  "sha256_fonte": "7c14a07e1b22ac33088c4eb19c0d82c42da4dbc0bf874dde7b3affdeb5e4ed45",
+  "sha256_markdown": "306dad2a8924fe66d35ce7069dd0ff0eef9579c10d0fc30aebeabaf6ca994347"
+}

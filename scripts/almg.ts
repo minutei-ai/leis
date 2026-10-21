@@ -102,7 +102,7 @@ export const almgNormFromRecord = Effect.fn("almg.normFromRecord")(function* (re
 });
 
 export const projectAlmgRecords = Effect.fn("almg.projectRecords")(function* (records: ReadonlyArray<typeof AlmgRecord.Type>) {
-  const norms: Array<typeof AlmgNorm.Type> = [];
+  const norms = new Map<string, typeof AlmgNorm.Type>();
   const pending: Array<typeof AlmgRecord.Type> = [];
   const excluded = new Map<string, number>();
   for (const record of records) {
@@ -112,11 +112,17 @@ export const projectAlmgRecords = Effect.fn("almg.projectRecords")(function* (re
     }
     const norm = yield* almgNormFromRecord(record).pipe(Effect.option);
     if (norm._tag === "None") pending.push(record);
-    else norms.push(norm.value);
+    else {
+      const prior = norms.get(norm.value.id);
+      if (prior !== undefined) {
+        const encode = Schema.encodeSync(Schema.parseJson(AlmgNorm));
+        if (encode(prior) !== encode(norm.value))
+          return yield* Effect.fail(new AlmgFailure({ fonte: norm.value.fonte, motivo: "Identidade duplicada com dados conflitantes no catálogo" }));
+        pending.push(record);
+      } else norms.set(norm.value.id, norm.value);
+    }
   }
-  if (new Set(norms.map((norm) => norm.id)).size !== norms.length)
-    return yield* Effect.fail(new AlmgFailure({ fonte: "ALMG CSV", motivo: "Identidades duplicadas no catálogo" }));
-  return { normas: norms, pendencias: pending, fora_escopo: Object.fromEntries(excluded) };
+  return { normas: Array.from(norms.values()), pendencias: pending, fora_escopo: Object.fromEntries(excluded) };
 });
 
 export const discoverAlmgYear = Effect.fn("almg.discoverYear")(function* (year: number, refresh: boolean) {

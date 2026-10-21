@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-10-10-14694",
+  "titulo": "Lei nº 14.694 de 10/10/2023",
+  "data": "2023-10-10",
+  "fonte": "https://normas.leg.br/api/public/binario/5022e1d9-2152-4d51-9473-0e6a8ac1cfef/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-10-10;14694",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-10-10%3B14694&tipo_documento=maior-detalhe",
+  "sha256_dados": "9cd6b7bb2c2f958fcb88dbcd6233a2a40477e1080f5ee0a833ed78c2d5000b4c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:27.164Z",
+  "sha256_fonte": "23c70f29e34dad12fa3d81a472f11912d072cc44cd8712580b2514765aa1e19d",
+  "sha256_markdown": "84ea17ffbca0a541bc79ddb5121550b2e877439d30e18afc0850feda65e2ed1d"
+}

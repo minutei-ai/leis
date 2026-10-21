@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-12-23-14270",
+  "titulo": "Lei nº 14.270 de 23/12/2021",
+  "data": "2021-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/4a3d15e8-adf4-4672-b91c-c40c519bbe5a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-12-23;14270",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-12-23%3B14270&tipo_documento=maior-detalhe",
+  "sha256_dados": "bf4706cea163c7fd934d653b9723de8292673c8e9abc74253c99de8d86535e29",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:31.053Z",
+  "sha256_fonte": "9bc405bf5c6eb7baa6fb6be752588b0abc61dbee4a8876c3c4883ce5bbd98520",
+  "sha256_markdown": "a5d20ccdbf55a775bbe416c075f3b8374525e011a298aca74db92928faadfb08"
+}

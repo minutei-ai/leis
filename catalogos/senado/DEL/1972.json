@@ -1,0 +1,549 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1972",
+  "tipo": "DEL",
+  "ano": 1972,
+  "coletado_em": "2026-10-21T08:36:45.781Z",
+  "normas": [
+    {
+      "senadoId": "525127",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-29-1253",
+      "titulo": "Decreto-Lei nº 1.253 de 29/12/1972",
+      "data": "1972-12-29",
+      "numero": "1253",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-29;1253",
+      "ementa": "Prorroga até 31 de dezembro de 1973 o regime especial de que trata o   Decreto Lei nº 1.182, de 16 de julho de 1971, e dá outras   providências."
+    },
+    {
+      "senadoId": "525129",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-29-1254",
+      "titulo": "Decreto-Lei nº 1.254 de 29/12/1972",
+      "data": "1972-12-29",
+      "numero": "1254",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-29;1254",
+      "ementa": "Altera, para o exercício de 1973, a distribuição do produto da arrecadação   dos impostos únicos."
+    },
+    {
+      "senadoId": "525131",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-29-1255",
+      "titulo": "Decreto-Lei nº 1.255 de 29/12/1972",
+      "data": "1972-12-29",
+      "numero": "1255",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-29;1255",
+      "ementa": "Amplia o prazo de vigência do artigo 2º, do Decreto-Lei nº 291, de 28 de   fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "525125",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-22-1252",
+      "titulo": "Decreto-Lei nº 1.252 de 22/12/1972",
+      "data": "1972-12-22",
+      "numero": "1252",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-22;1252",
+      "ementa": "Altera e consolida a legislação referente ao Fundo   Aeronáutico."
+    },
+    {
+      "senadoId": "525123",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-21-1251",
+      "titulo": "Decreto-Lei nº 1.251 de 21/12/1972",
+      "data": "1972-12-21",
+      "numero": "1251",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-21;1251",
+      "ementa": "Altera os valores das contribuições ao Instituto do Açúcar e do Álcool e   dá outras providências."
+    },
+    {
+      "senadoId": "525121",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-21-1250",
+      "titulo": "Decreto-Lei nº 1.250 de 21/12/1972",
+      "data": "1972-12-21",
+      "numero": "1250",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-21;1250",
+      "ementa": "Altera o Decreto-Lei nº 1.171, de 2 de Junho de 1971."
+    },
+    {
+      "senadoId": "525119",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-12-11-1249",
+      "titulo": "Decreto-Lei nº 1.249 de 11/12/1972",
+      "data": "1972-12-11",
+      "numero": "1249",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-12-11;1249",
+      "ementa": "Fixa valor do soldo do posto de Almirante-de-Esquadra ou equivalente e dá   outras providências."
+    },
+    {
+      "senadoId": "525117",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-11-29-1248",
+      "titulo": "Decreto-Lei nº 1.248 de 29/11/1972",
+      "data": "1972-11-29",
+      "numero": "1248",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-11-29;1248",
+      "ementa": "Dispõe sobre o tratamento tributário das operações de compra de mercadorias no mercado interno, para o fim específico da exportação, e dá outras providências."
+    },
+    {
+      "senadoId": "525115",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-11-24-1247",
+      "titulo": "Decreto-Lei nº 1.247 de 24/11/1972",
+      "data": "1972-11-24",
+      "numero": "1247",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-11-24;1247",
+      "ementa": "Autoriza o Tesouro Nacional a subscrever aumento do capital do Banco do   Brasil S.A. e dá outras providências."
+    },
+    {
+      "senadoId": "525113",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-11-14-1246",
+      "titulo": "Decreto-Lei nº 1.246 de 14/11/1972",
+      "data": "1972-11-14",
+      "numero": "1246",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-11-14;1246",
+      "ementa": "Modifica a legislação do imposto de renda devido pelas pessoas   físicas."
+    },
+    {
+      "senadoId": "525111",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-11-06-1245",
+      "titulo": "Decreto-Lei nº 1.245 de 06/11/1972",
+      "data": "1972-11-06",
+      "numero": "1245",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-11-06;1245",
+      "ementa": "Dispõe sobre o pagamento de títulos do Tesouro Nacional vinculados a   créditos contratados no exterior com base nas Leis nº 1.518, de 24 de dezembro   de 1951, nº 4.457, de 6 de novembro de 1964, e nº 5.000, de 24 de maio de 1966,   e dá outras providências."
+    },
+    {
+      "senadoId": "525109",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-10-31-1244",
+      "titulo": "Decreto-Lei nº 1.244 de 31/10/1972",
+      "data": "1972-10-31",
+      "numero": "1244",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-10-31;1244",
+      "ementa": "Dispõe sobre o regime fiscal dos estabelecimentos constituídos por   conjuntos industriais completos importados com base no Decreto-Lei nº 1.236, de   26 de Agosto de 1972, e dá outras providências."
+    },
+    {
+      "senadoId": "525105",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-10-30-1242",
+      "titulo": "Decreto-Lei nº 1.242 de 30/10/1972",
+      "data": "1972-10-30",
+      "numero": "1242",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-10-30;1242",
+      "ementa": "Altera o Decreto-Lei nº 999, de 21 de outubro de 1969, que criou a Taxa   Rodoviária Única, e dá outras providências."
+    },
+    {
+      "senadoId": "525107",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-10-30-1243",
+      "titulo": "Decreto-Lei nº 1.243 de 30/10/1972",
+      "data": "1972-10-30",
+      "numero": "1243",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-10-30;1243",
+      "ementa": "Eleva a dotação do Programa de Integração Nacional (PIN) criado pelo   Decreto-Lei n. 1106, de 16 de Junho de 1970, altera o Decreto-Lei nº 1.164, de   1º de abril de 1971, e dá outras providências."
+    },
+    {
+      "senadoId": "525101",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-10-11-1240",
+      "titulo": "Decreto-Lei nº 1.240 de 11/10/1972",
+      "data": "1972-10-11",
+      "numero": "1240",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-10-11;1240",
+      "ementa": "Dispõe sobre incentivos fiscais à exportação de minerias abundantes no   País."
+    },
+    {
+      "senadoId": "525103",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-10-11-1241",
+      "titulo": "Decreto-Lei nº 1.241 de 11/10/1972",
+      "data": "1972-10-11",
+      "numero": "1241",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-10-11;1241",
+      "ementa": "Altera a redação do art. 1º do artigo 6º. da Lei nº 4.341, de 13 de junho   de 1964, e dá outras providências."
+    },
+    {
+      "senadoId": "525099",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-10-02-1239",
+      "titulo": "Decreto-Lei nº 1.239 de 02/10/1972",
+      "data": "1972-10-02",
+      "numero": "1239",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-10-02;1239",
+      "ementa": "Acrescenta parágrafo ao artigo 5º do Decreto-Lei nº 204, de 27 de   fevereiro de 1967, e dispõe sobre financiamento à exportação."
+    },
+    {
+      "senadoId": "525097",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-09-14-1238",
+      "titulo": "Decreto-Lei nº 1.238 de 14/09/1972",
+      "data": "1972-09-14",
+      "numero": "1238",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-09-14;1238",
+      "ementa": "Autoriza a remissão de débitos do Departamento Nacional de Estradas de   Rodagem."
+    },
+    {
+      "senadoId": "525095",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-09-12-1237",
+      "titulo": "Decreto-Lei nº 1.237 de 12/09/1972",
+      "data": "1972-09-12",
+      "numero": "1237",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-09-12;1237",
+      "ementa": "Complementa a redação do artigo. 6. do Decreto-Lei n.º 185, de 23 de   fevereiro de 1967, que estabelece normas para a contratação de obras em serviços   a cargo do Governo Federal."
+    },
+    {
+      "senadoId": "525093",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-08-28-1236",
+      "titulo": "Decreto-Lei nº 1.236 de 28/08/1972",
+      "data": "1972-08-28",
+      "numero": "1236",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-08-28;1236",
+      "ementa": "Altera o artigo 17 do Decreto-Lei nº ;37, de 18 de novembro de   1966."
+    },
+    {
+      "senadoId": "525091",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-08-21-1235",
+      "titulo": "Decreto-Lei nº 1.235 de 21/08/1972",
+      "data": "1972-08-21",
+      "numero": "1235",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-08-21;1235",
+      "ementa": "Concede isenção da taxa de armazenagem e dá outras providências."
+    },
+    {
+      "senadoId": "525089",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-25-1234",
+      "titulo": "Decreto-Lei nº 1.234 de 25/07/1972",
+      "data": "1972-07-25",
+      "numero": "1234",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-25;1234",
+      "ementa": "Dá nova redação ao artigo 2º do Decreto-Lei nº 1.117, de 10 de agosto de   1970."
+    },
+    {
+      "senadoId": "525087",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-19-1233",
+      "titulo": "Decreto-Lei nº 1.233 de 19/07/1972",
+      "data": "1972-07-19",
+      "numero": "1233",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-19;1233",
+      "ementa": "Cria o cargo em comissão de Secretário de Tecnologia Industrial, no   Ministério da Indústria e do Comércio, e dá outras providências."
+    },
+    {
+      "senadoId": "525085",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-17-1232",
+      "titulo": "Decreto-Lei nº 1.232 de 17/07/1972",
+      "data": "1972-07-17",
+      "numero": "1232",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-17;1232",
+      "ementa": "Institui Programa de Incentivo à Produção de Borracha   Vegetal."
+    },
+    {
+      "senadoId": "525083",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-06-1231",
+      "titulo": "Decreto-Lei nº 1.231 de 06/07/1972",
+      "data": "1972-07-06",
+      "numero": "1231",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-06;1231",
+      "ementa": "Reabre o prazo estabelecido no artigo 1º, § 2º, do Decreto-Lei nº 1.184,   de 12 de agosto de 1971 e dá outras providências."
+    },
+    {
+      "senadoId": "525079",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-05-1229",
+      "titulo": "Decreto-Lei nº 1.229 de 05/07/1972",
+      "data": "1972-07-05",
+      "numero": "1229",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-05;1229",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º,   alínea \"b\", da Constituição, o Município de Guaraciaba, do Estado de Santa   Catarina e dá outras providências."
+    },
+    {
+      "senadoId": "525081",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-05-1230",
+      "titulo": "Decreto-Lei nº 1.230 de 05/07/1972",
+      "data": "1972-07-05",
+      "numero": "1230",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-05;1230",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º,   alínea \"b\", da Constituição, o Município de Tarauacá, do Acre e dá outras   providências."
+    },
+    {
+      "senadoId": "525077",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-07-03-1228",
+      "titulo": "Decreto-Lei nº 1.228 de 03/07/1972",
+      "data": "1972-07-03",
+      "numero": "1228",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-07-03;1228",
+      "ementa": "Dispõe sobre a isenção do imposto de renda das empresas estrangeiras de   transporte terrestre."
+    },
+    {
+      "senadoId": "525075",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-06-28-1227",
+      "titulo": "Decreto-Lei nº 1.227 de 28/06/1972",
+      "data": "1972-06-28",
+      "numero": "1227",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-06-28;1227",
+      "ementa": "Dispõe sobre aplicação de disposições legais e regulamentares, já   revogadas, a militares em serviço no estrangeiro, até a vigência de lei   específica."
+    },
+    {
+      "senadoId": "525073",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-06-26-1226",
+      "titulo": "Decreto-Lei nº 1.226 de 26/06/1972",
+      "data": "1972-06-26",
+      "numero": "1226",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-06-26;1226",
+      "ementa": "Autoriza o Poder Executivo a promover a subscrição no aumento de capital   do Banco do Nordeste do Brasil S.A. e dá outras providências."
+    },
+    {
+      "senadoId": "525071",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-06-22-1225",
+      "titulo": "Decreto-Lei nº 1.225 de 22/06/1972",
+      "data": "1972-06-22",
+      "numero": "1225",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-06-22;1225",
+      "ementa": "Declara de interesse da Segurança Nacional nos termos do artigo 15, par.   1., alínea \"b\", da Constituição, os Municípios de Lauro de Freitas, Simões   Filho, Candeias e Camaçari, todos do Estado da Bahia e dá outras   providências."
+    },
+    {
+      "senadoId": "525069",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-06-14-1224",
+      "titulo": "Decreto-Lei nº 1.224 de 14/06/1972",
+      "data": "1972-06-14",
+      "numero": "1224",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-06-14;1224",
+      "ementa": "Autoriza o Poder Executivo a promover a subscrição no aumento de capital   da Companhia Vale do Rio Doce - CVRD."
+    },
+    {
+      "senadoId": "525067",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-06-06-1223",
+      "titulo": "Decreto-Lei nº 1.223 de 06/06/1972",
+      "data": "1972-06-06",
+      "numero": "1223",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-06-06;1223",
+      "ementa": "Dá nova redação ao artigo 71 do Decreto-Lei nº 37, de 18 de Novembro de   1966."
+    },
+    {
+      "senadoId": "525065",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-29-1222",
+      "titulo": "Decreto-Lei nº 1.222 de 29/05/1972",
+      "data": "1972-05-29",
+      "numero": "1222",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-29;1222",
+      "ementa": "Cria o cargo em comissão de Secretário Especial de Saúde da Região   Amazônica."
+    },
+    {
+      "senadoId": "525061",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-15-1220",
+      "titulo": "Decreto-Lei nº 1.220 de 15/05/1972",
+      "data": "1972-05-15",
+      "numero": "1220",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-15;1220",
+      "ementa": "Altera a redação do art. 6º do Decreto-Lei nº 61 de 21 de Novembro de   1966."
+    },
+    {
+      "senadoId": "525059",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-15-1219",
+      "titulo": "Decreto-Lei nº 1.219 de 15/05/1972",
+      "data": "1972-05-15",
+      "numero": "1219",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-15;1219",
+      "ementa": "Dispõe sobre a concessão de estímulos à exportação de manufaturados e dá   outras providências."
+    },
+    {
+      "senadoId": "525063",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-15-1221",
+      "titulo": "Decreto-Lei nº 1.221 de 15/05/1972",
+      "data": "1972-05-15",
+      "numero": "1221",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-15;1221",
+      "ementa": "Altera a redução do art.1º, item II, do Decreto-Lei nº 343, de 28 de   dezembro de 1967, e do art.13, item II, alínea \"i\", da Lei nº. 4.452, de 5 de   Novembro de 1964."
+    },
+    {
+      "senadoId": "525057",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-15-1218",
+      "titulo": "Decreto-Lei nº 1.218 de 15/05/1972",
+      "data": "1972-05-15",
+      "numero": "1218",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-15;1218",
+      "ementa": "Acrescenta parágrafo único ao artigo 1º do Decreto-Lei nº 415, de 10 de   janeiro de 1969."
+    },
+    {
+      "senadoId": "525055",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-09-1217",
+      "titulo": "Decreto-Lei nº 1.217 de 09/05/1972",
+      "data": "1972-05-09",
+      "numero": "1217",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-09;1217",
+      "ementa": "Dispõe sobre incentivos à pesca e dá outras providências."
+    },
+    {
+      "senadoId": "525053",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-09-1216",
+      "titulo": "Decreto-Lei nº 1.216 de 09/05/1972",
+      "data": "1972-05-09",
+      "numero": "1216",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-09;1216",
+      "ementa": "Dispõe sobre a entrega das parcelas pertencentes aos Municípios, do   produto da arrecadação do imposto sobre a circulação de   mercadorias."
+    },
+    {
+      "senadoId": "525051",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-05-04-1215",
+      "titulo": "Decreto-Lei nº 1.215 de 04/05/1972",
+      "data": "1972-05-04",
+      "numero": "1215",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-05-04;1215",
+      "ementa": "Dispõe sobre o imposto de renda nas remessas de juros decorrentes de   empréstimos contraídos no exterior."
+    },
+    {
+      "senadoId": "525049",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-04-26-1214",
+      "titulo": "Decreto-Lei nº 1.214 de 26/04/1972",
+      "data": "1972-04-26",
+      "numero": "1214",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-04-26;1214",
+      "ementa": "Altera os Decretos-Leis nºs 157, de 10 de Fevereiro de 1967, e 1.161, de 19   de Março de 1971, e dá outras providências."
+    },
+    {
+      "senadoId": "525047",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-04-06-1213",
+      "titulo": "Decreto-Lei nº 1.213 de 06/04/1972",
+      "data": "1972-04-06",
+      "numero": "1213",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-04-06;1213",
+      "ementa": "Aplica ao pessoal civil docente e coadjuvante do Magistério do Exército o   disposto no artigo 1. do Decreto-Lei nº 1.202, de 17 de janeiro de 1972, que   reajusta os vencimentos dos servidores civis e militares do Poder Executivo e dá   outras providências."
+    },
+    {
+      "senadoId": "525045",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-03-08-1212",
+      "titulo": "Decreto-Lei nº 1.212 de 08/03/1972",
+      "data": "1972-03-08",
+      "numero": "1212",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-03-08;1212",
+      "ementa": "Reajusta os vencimentos dos servidores da Secretária Geral do Tribunal de   Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "525043",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-03-01-1211",
+      "titulo": "Decreto-Lei nº 1.211 de 01/03/1972",
+      "data": "1972-03-01",
+      "numero": "1211",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-03-01;1211",
+      "ementa": "Concede isenção dos impostos de importação e sobre produtos   industrializados para equipamento de produção cinematográfica."
+    },
+    {
+      "senadoId": "525041",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-03-01-1210",
+      "titulo": "Decreto-Lei nº 1.210 de 01/03/1972",
+      "data": "1972-03-01",
+      "numero": "1210",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-03-01;1210",
+      "ementa": "Concede aumento de vencimentos aos funcionários dos Serviços Auxiliares do   Tribunal de Contas do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525037",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-02-28-1208",
+      "titulo": "Decreto-Lei nº 1.208 de 28/02/1972",
+      "data": "1972-02-28",
+      "numero": "1208",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-02-28;1208",
+      "ementa": "Reajusta os vencimentos dos servidores civis e militares do Distrito   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525039",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-02-28-1209",
+      "titulo": "Decreto-Lei nº 1.209 de 28/02/1972",
+      "data": "1972-02-28",
+      "numero": "1209",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-02-28;1209",
+      "ementa": "Concede aumento de vencimentos aos funcionários das Secretárias e Serviços   Auxiliares do Poder Judiciário da União e do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "525035",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-02-07-1207",
+      "titulo": "Decreto-Lei nº 1.207 de 07/02/1972",
+      "data": "1972-02-07",
+      "numero": "1207",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-02-07;1207",
+      "ementa": "Cria Programa Especial para o Vale do São Francisco (PROVALE) e dá outras   providências."
+    },
+    {
+      "senadoId": "525033",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-02-03-1206",
+      "titulo": "Decreto-Lei nº 1.206 de 03/02/1972",
+      "data": "1972-02-03",
+      "numero": "1206",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-02-03;1206",
+      "ementa": "Autoriza o Ministério dos Transportes a prestar assistência técnica em   assuntos rodoviários, aquaviários e ferroviários a países amigos e a construir   prédios destinados à instalação de serviços públicos de fronteira, nos terminais   respectivos e dá outras providências."
+    },
+    {
+      "senadoId": "525031",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-01-31-1205",
+      "titulo": "Decreto-Lei nº 1.205 de 31/01/1972",
+      "data": "1972-01-31",
+      "numero": "1205",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-01-31;1205",
+      "ementa": "Institui normas para utilização dos créditos orçamentários e adicionais e   dá outras providências."
+    },
+    {
+      "senadoId": "525029",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-01-18-1204",
+      "titulo": "Decreto-Lei nº 1.204 de 18/01/1972",
+      "data": "1972-01-18",
+      "numero": "1204",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-01-18;1204",
+      "ementa": "Altera, para o exercício de 1972, a distribuição do produto da arrecadação   dos impostos únicos."
+    },
+    {
+      "senadoId": "525027",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-01-18-1203",
+      "titulo": "Decreto-Lei nº 1.203 de 18/01/1972",
+      "data": "1972-01-18",
+      "numero": "1203",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-01-18;1203",
+      "ementa": "Dispõe sobre a entrega das parcelas pertecentes aos Municípios no produto   da arrecadação do imposto sobre circulação de mercadorias."
+    },
+    {
+      "senadoId": "525025",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1972-01-17-1202",
+      "titulo": "Decreto-Lei nº 1.202 de 17/01/1972",
+      "data": "1972-01-17",
+      "numero": "1202",
+      "urn": "urn:lex:br:federal:decreto.lei:1972-01-17;1202",
+      "ementa": "Reajusta os vencimentos dos servidores civis e militares do Poder   Executivo e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

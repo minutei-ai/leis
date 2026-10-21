@@ -1,0 +1,389 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1986",
+  "tipo": "DEL",
+  "ano": 1986,
+  "coletado_em": "2026-10-21T08:36:28.214Z",
+  "normas": [
+    {
+      "senadoId": "527249",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-30-2318",
+      "titulo": "Decreto-Lei nº 2.318 de 30/12/1986",
+      "data": "1986-12-30",
+      "numero": "2318",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-30;2318",
+      "ementa": "Dispõe sobre fontes de custeio da previdência social e sobre a admissão de menores nas empresas."
+    },
+    {
+      "senadoId": "527247",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-29-2317",
+      "titulo": "Decreto-Lei nº 2.317 de 29/12/1986",
+      "data": "1986-12-29",
+      "numero": "2317",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-29;2317",
+      "ementa": "Reajusta os vencimentos, salários, soldos e proventos dos servidores civis   e da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, dos membros e   dos servidores do Tribunal de Contas do Distrito Federal e do respectivo   Ministério Público, e dá outras providências."
+    },
+    {
+      "senadoId": "527245",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-23-2316",
+      "titulo": "Decreto-Lei nº 2.316 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "2316",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-23;2316",
+      "ementa": "Introduz alterações no Código Tributário do Distrito Federal, instituído pelo   Decreto-Lei n° 82, de 26 de dezembro de 1966."
+    },
+    {
+      "senadoId": "527243",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-23-2315",
+      "titulo": "Decreto-Lei nº 2.315 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "2315",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-23;2315",
+      "ementa": "Autoriza o Poder Executivo a abrir crédito especial até o limite de Cz$   5.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "527241",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-23-2314",
+      "titulo": "Decreto-Lei nº 2.314 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "2314",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-23;2314",
+      "ementa": "Altera a Legislação do imposto de renda."
+    },
+    {
+      "senadoId": "527237",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-23-2312",
+      "titulo": "Decreto-Lei nº 2.312 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "2312",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-23;2312",
+      "ementa": "Revoga disposições sobre as atividades de programação e administração   financeira da União, e dá outras providências."
+    },
+    {
+      "senadoId": "527239",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-23-2313",
+      "titulo": "Decreto-Lei nº 2.313 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "2313",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-23;2313",
+      "ementa": "Altera a redação do artigo 3º do Decreto-Lei n° 2.303, de 21 de novembro de   1986 e dá outras providências."
+    },
+    {
+      "senadoId": "527235",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-23-2311",
+      "titulo": "Decreto-Lei nº 2.311 de 23/12/1986",
+      "data": "1986-12-23",
+      "numero": "2311",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-23;2311",
+      "ementa": "Dá nova redação ao parágrafo único do artigo 6º e ao artigo 12 do Decreto-Lei n° 2.284, de 10 de março de 1986 e ao § 3º do artigo 2º do Decreto-Lei n° 2.290, de 21 de novembro de 1986."
+    },
+    {
+      "senadoId": "527231",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-22-2309",
+      "titulo": "Decreto-Lei nº 2.309 de 22/12/1986",
+      "data": "1986-12-22",
+      "numero": "2309",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-22;2309",
+      "ementa": "Prorroga até 31 de dezembro de 1988 o prazo de isenção fiscal concedida às   empresas siderúrgicas pelo Decreto-Lei n° 569, de 7 de maio de 1969."
+    },
+    {
+      "senadoId": "527233",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-22-2310",
+      "titulo": "Decreto-Lei nº 2.310 de 22/12/1986",
+      "data": "1986-12-22",
+      "numero": "2310",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-22;2310",
+      "ementa": "Reajusta os valores de vencimentos, salários, soldos e proventos dos   servidores civis e militares da União, dos Territórios e das autarquias   federais, dos membros do Poder Judiciário da União, do Distrito Federal e dos   Territórios, do Tribunal de Contas da União, bem como os valores das pensões, e   dá outras providências."
+    },
+    {
+      "senadoId": "527229",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-19-2308",
+      "titulo": "Decreto-Lei nº 2.308 de 19/12/1986",
+      "data": "1986-12-19",
+      "numero": "2308",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-19;2308",
+      "ementa": "Altera a legislação do imposto de renda."
+    },
+    {
+      "senadoId": "527225",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-18-2306",
+      "titulo": "Decreto-Lei nº 2.306 de 18/12/1986",
+      "data": "1986-12-18",
+      "numero": "2306",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-18;2306",
+      "ementa": "Altera a redação do § 4º do artigo 5º do Decreto-Lei n° 2.290, de 21 de   novembro de 1986."
+    },
+    {
+      "senadoId": "527227",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-18-2307",
+      "titulo": "Decreto-Lei nº 2.307 de 18/12/1986",
+      "data": "1986-12-18",
+      "numero": "2307",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-18;2307",
+      "ementa": "Dispõe sobre operações de crédito e financiamento, no âmbito da   Administração Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "527223",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-12-10-2305",
+      "titulo": "Decreto-Lei nº 2.305 de 10/12/1986",
+      "data": "1986-12-10",
+      "numero": "2305",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-12-10;2305",
+      "ementa": "Revoga isenção do I.P.I. sobre caminhões-tratores."
+    },
+    {
+      "senadoId": "527219",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2303",
+      "titulo": "Decreto-Lei nº 2.303 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2303",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2303",
+      "ementa": "Altera a legislação tributária federal e dá outras providências."
+    },
+    {
+      "senadoId": "527207",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2297",
+      "titulo": "Decreto-Lei nº 2.297 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2297",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2297",
+      "ementa": "Isenta do imposto de renda e ganho auferido, por pessoas físicas, na   alienação de imóveis finaciados pelo Sistema Financeiro da   Habitação."
+    },
+    {
+      "senadoId": "527211",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2299",
+      "titulo": "Decreto-Lei nº 2.299 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2299",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2299",
+      "ementa": "Altera o Decreto-Lei nº 200, de 25 de fevereiro de 1967, e dá outras   providências."
+    },
+    {
+      "senadoId": "527203",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2295",
+      "titulo": "Decreto-Lei nº 2.295 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2295",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2295",
+      "ementa": "Isenta do imposto de exportação as vendas de café para o exterior e dá outras providências."
+    },
+    {
+      "senadoId": "527197",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2292",
+      "titulo": "Decreto-Lei nº 2.292 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2292",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2292",
+      "ementa": "Dispõe sobre a instituição, em benefício do trabalhador, de planos de poupança e investimento (PAIT), e dá outras providências."
+    },
+    {
+      "senadoId": "527193",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2290",
+      "titulo": "Decreto-Lei nº 2.290 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2290",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2290",
+      "ementa": "Estabelece normas sobre a desindexação da economia e dá outras providências."
+    },
+    {
+      "senadoId": "527195",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2291",
+      "titulo": "Decreto-Lei nº 2.291 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2291",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2291",
+      "ementa": "Extingue o Banco Nacional da Habitação - BNH e dá outras providências."
+    },
+    {
+      "senadoId": "527217",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2302",
+      "titulo": "Decreto-Lei nº 2.302 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2302",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2302",
+      "ementa": "Dispõe sobre escala móvel de salário e dá outras   providências."
+    },
+    {
+      "senadoId": "527213",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2300",
+      "titulo": "Decreto-Lei nº 2.300 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2300",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2300",
+      "ementa": "Dispõe sobre licitações e contratos da Administração Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "527221",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2304",
+      "titulo": "Decreto-Lei nº 2.304 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2304",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2304",
+      "ementa": "Dispõe sobre a aplicação de recursos do Fundo de Investimentos do Nordeste   ( FINOR ), do Fundo de Investimentos da Amazônia ( FINAM ) e do Fundo de   Investimentos Setoriais ( FISET ) e dá outras providências."
+    },
+    {
+      "senadoId": "527205",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2296",
+      "titulo": "Decreto-Lei nº 2.296 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2296",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2296",
+      "ementa": "Concede estímulos aos programas de previdência privada, para incentivar a formação de poupança de longo prazo, e dá outras providências."
+    },
+    {
+      "senadoId": "527209",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2298",
+      "titulo": "Decreto-Lei nº 2.298 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2298",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2298",
+      "ementa": "Dispõe sobre mercado de títulos e valores mobiliários   incentivados."
+    },
+    {
+      "senadoId": "527201",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2294",
+      "titulo": "Decreto-Lei nº 2.294 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2294",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2294",
+      "ementa": "Dispõe sobre o exercício e a exploração de atividades e serviços   turísticos e dá outras providências."
+    },
+    {
+      "senadoId": "527215",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2301",
+      "titulo": "Decreto-Lei nº 2.301 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2301",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2301",
+      "ementa": "Institui caderneta de poupança do tipo pecúlio."
+    },
+    {
+      "senadoId": "527199",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-11-21-2293",
+      "titulo": "Decreto-Lei nº 2.293 de 21/11/1986",
+      "data": "1986-11-21",
+      "numero": "2293",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2293",
+      "ementa": "Dispõe sobre operações de crédito e financiamento, no âmbito da   Administração Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "527191",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-09-09-2289",
+      "titulo": "Decreto-Lei nº 2.289 de 09/09/1986",
+      "data": "1986-09-09",
+      "numero": "2289",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-09-09;2289",
+      "ementa": "Autoriza o Poder Executivo a abrir créditos adicionais até o limite de CZ$   48.057.100.000,00, e dá outras providências."
+    },
+    {
+      "senadoId": "527183",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-07-23-2285",
+      "titulo": "Decreto-Lei nº 2.285 de 23/07/1986",
+      "data": "1986-07-23",
+      "numero": "2285",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-07-23;2285",
+      "ementa": "Estende aos fundos em condomínio a que se refere o artigo 50 da Lei nº   4.728, de 14 de julho de 1965, o tratamento fiscal previsto no Decreto-Lei nº   1.986, de 28 de dezembro de 1982, e dá outras providências."
+    },
+    {
+      "senadoId": "527185",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-07-23-2286",
+      "titulo": "Decreto-Lei nº 2.286 de 23/07/1986",
+      "data": "1986-07-23",
+      "numero": "2286",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-07-23;2286",
+      "ementa": "Dispõe sobre cobrança de imposto nas operações a termo de bolsas de   mercadorias e dá outras providências."
+    },
+    {
+      "senadoId": "527189",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-07-23-2288",
+      "titulo": "Decreto-Lei nº 2.288 de 23/07/1986",
+      "data": "1986-07-23",
+      "numero": "2288",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-07-23;2288",
+      "ementa": "Cria o Fundo Nacional de Desenvolvimento, institui empréstimo compulsório para absorção tempóraria de excesso de poder aquisitivo e dá outras providências."
+    },
+    {
+      "senadoId": "527187",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-07-23-2287",
+      "titulo": "Decreto-Lei nº 2.287 de 23/07/1986",
+      "data": "1986-07-23",
+      "numero": "2287",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-07-23;2287",
+      "ementa": "Altera dispositivos da Lei nº 7.450, de 23 de dezembro de 1985, e dá outras providências."
+    },
+    {
+      "senadoId": "527181",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-03-10-2284",
+      "titulo": "Decreto-Lei nº 2.284 de 10/03/1986",
+      "data": "1986-03-10",
+      "numero": "2284",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-03-10;2284",
+      "ementa": "Mantém a nova unidade do sistema monetário brasileiro, o seguro-desemprego, amplia e consolida as medidas de combate à inflação."
+    },
+    {
+      "senadoId": "527179",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-02-27-2283",
+      "titulo": "Decreto-Lei nº 2.283 de 27/02/1986",
+      "data": "1986-02-27",
+      "numero": "2283",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-02-27;2283",
+      "ementa": "Dispõe sobre a instituição da nova unidade do sistema monetário brasileiro, do Seguro-Desemprego e dá outras providências."
+    },
+    {
+      "senadoId": "527177",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-01-29-2282",
+      "titulo": "Decreto-Lei nº 2.282 de 29/01/1986",
+      "data": "1986-01-29",
+      "numero": "2282",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-01-29;2282",
+      "ementa": "Altera o percentual de reajuste de que trata a Lei nº 7.425, de 17 de   dezembro de 1985, e dá outras providências."
+    },
+    {
+      "senadoId": "527175",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1986-01-17-2281",
+      "titulo": "Decreto-Lei nº 2.281 de 17/01/1986",
+      "data": "1986-01-17",
+      "numero": "2281",
+      "urn": "urn:lex:br:federal:decreto.lei:1986-01-17;2281",
+      "ementa": "Altera o percentual de reajuste de que trata a Lei nº 7.419, de 17 de   dezembro de 1985, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

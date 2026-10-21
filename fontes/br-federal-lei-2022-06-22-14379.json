@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-06-22-14379",
+  "titulo": "Lei nº 14.379 de 22/06/2022",
+  "data": "2022-06-22",
+  "fonte": "https://normas.leg.br/api/public/binario/0281f2ae-5510-4f64-b224-531c5e410a72/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-06-22;14379",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-06-22%3B14379&tipo_documento=maior-detalhe",
+  "sha256_dados": "b347b5ded12ca021d17fd5562e3a307f30c2e436126531645424f6ccf6b15b93",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:35:15.137Z",
+  "sha256_fonte": "221ac2a7eda888810fa3071d78c8ee5b279e51c0782cf995cf85e5ff0a670147",
+  "sha256_markdown": "e861163691d19e726a7f8d6ed08e24b65a55f65d7edd9d25f54e74b584b0f75e"
+}

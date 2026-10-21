@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-09-05-25458",
+  "titulo": "LEI nº 25458, de 05/09/2025",
+  "data": "2025-09-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25458/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25458/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "c843c134916b8f8f66850c7e2ae4ab4a9c91e6052a231f834e89574cc0091c6a",
+  "coletado_em": "2026-10-21T08:33:55.126Z",
+  "sha256_fonte": "b0c03fb21de537125a5298938e93490b1c01e94c63040ba5341effeba50c08db",
+  "sha256_markdown": "f965c45b02b1264ff442c296744fd3f25122d78f461123faa82b6d2549e82807"
+}

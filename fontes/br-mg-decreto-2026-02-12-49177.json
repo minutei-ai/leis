@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-02-12-49177",
+  "titulo": "DEC nº 49177, de 12/02/2026",
+  "data": "2026-02-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49177/2026/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49177/2026/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "b829e75451d8c4617913e8c2aaa3a88c9cab5c35407468450084487b43dc297f",
+  "coletado_em": "2026-10-21T08:25:36.088Z",
+  "sha256_fonte": "729ea1b04ea6a816615966d0b90bc8c7db88078c5ccb05ee56a9e8d282179b97",
+  "sha256_markdown": "d85a0ca5943108fea4401dcd24bdcd3c1b28e92c60881e303c67d851e41b1525"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-09-01-25445",
+  "titulo": "LEI nº 25445, de 01/09/2025",
+  "data": "2025-09-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25445/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25445/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "32f61977fcfaa198f08a2c3ece946d1cccddaa4cf061a427fea45cd90f9f8b1b",
+  "coletado_em": "2026-10-21T08:33:48.839Z",
+  "sha256_fonte": "dbb38e1ffc25d34954b41675aa02ffc4a8993e017f3697f39988dc969e2eacad",
+  "sha256_markdown": "7d4d454479e731d87206963bccf200aeea6ae8ab356b08f817c6f8c12d658a1e"
+}

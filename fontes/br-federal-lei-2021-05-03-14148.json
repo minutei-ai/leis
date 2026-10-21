@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-05-03-14148",
+  "titulo": "Lei nº 14.148 de 03/05/2021",
+  "data": "2021-05-03",
+  "fonte": "https://normas.leg.br/api/public/binario/b1f8ed61-7242-41ec-8621-533f9f6d7d50/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-05-03;14148",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-05-03%3B14148&tipo_documento=maior-detalhe",
+  "sha256_dados": "c65d7eb3c409bad31871573ee53a5e8d42c832a8798b122a176c56e099e2d138",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:10.026Z",
+  "sha256_fonte": "62374b1020e341d4752962cf176d19976d6703c75041cb5c6630051912f3dcd6",
+  "sha256_markdown": "22f99d266e71f7184de6e27762e2819b72764b9539f0fd06e1f3be621dc88445"
+}

@@ -1,0 +1,944 @@
+{
+  "ano_publicacao": 2001,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2001",
+    "ano-final": "31/12/2001",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:26.883Z",
+  "total": 153,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "8aaf5bfdc994c098530116e2ec9bfd11d2dfa73b8a9ebbe6a9d43023ecc3fb35"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "3b77aaca7ef7b8ca345e57ddd57cfa9ff02d9e4baf7be77db04164cd8477085d"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13263-de-28-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.263 de 28 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-28-13263",
+      "data": "2001-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13262-de-28-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.262 de 28 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-28-13262",
+      "data": "2001-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13258-de-28-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.258 de 28 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-28-13258",
+      "data": "2001-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13261-de-28-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.261 de 28 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-28-13261",
+      "data": "2001-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13260-de-28-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.260 de 28 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-28-13260",
+      "data": "2001-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13257-de-28-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.257 de 28 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-28-13257",
+      "data": "2001-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13251-de-27-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.251 de 27 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-27-13251",
+      "data": "2001-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13255-de-27-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.255 de 27 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-27-13255",
+      "data": "2001-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13254-de-27-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.254 de 27 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-27-13254",
+      "data": "2001-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13253-de-27-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.253 de 27 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-27-13253",
+      "data": "2001-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13252-de-27-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.252 de 27 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-27-13252",
+      "data": "2001-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13250-de-27-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.250 de 27 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-27-13250",
+      "data": "2001-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13249-de-26-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.249 de 26 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-26-13249",
+      "data": "2001-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13248-de-26-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.248 de 26 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-26-13248",
+      "data": "2001-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13247-de-26-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.247 de 26 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-26-13247",
+      "data": "2001-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13246-de-26-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.246 de 26 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-26-13246",
+      "data": "2001-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13245-de-26-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.245 de 26 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-26-13245",
+      "data": "2001-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13243-de-21-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.243 de 21 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-21-13243",
+      "data": "2001-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13244-de-21-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.244 de 21 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-21-13244",
+      "data": "2001-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13242-de-18-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.242 de 18 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-18-13242",
+      "data": "2001-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13241-de-12-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.241 de 12 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-12-13241",
+      "data": "2001-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13240-de-11-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.240 de 11 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-11-13240",
+      "data": "2001-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13238-de-10-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.238 de 10 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-10-13238",
+      "data": "2001-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13239-de-10-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.239 de 10 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-10-13239",
+      "data": "2001-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13236-de-7-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.236 de 7 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-07-13236",
+      "data": "2001-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13235-de-7-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.235 de 7 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-07-13235",
+      "data": "2001-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13237-de-7-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.237 de 7 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-07-13237",
+      "data": "2001-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13234-de-6-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.234 de 6 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-06-13234",
+      "data": "2001-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13233-de-5-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.233 de 5 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-05-13233",
+      "data": "2001-12-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13232-de-4-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.232 de 4 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-04-13232",
+      "data": "2001-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13230-de-4-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.230 de 4 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-04-13230",
+      "data": "2001-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13229-de-4-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.229 de 4 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-04-13229",
+      "data": "2001-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13231-de-4-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.231 de 4 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-04-13231",
+      "data": "2001-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13228-de-3-de-dezembro-de-2001",
+      "titulo": "LEI Nº 13.228 de 3 de Dezembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-12-03-13228",
+      "data": "2001-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13259-de-28-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.259 de 28 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-28-13259",
+      "data": "2001-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13227-de-27-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.227 de 27 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-27-13227",
+      "data": "2001-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13225-de-27-de-novembro-de-2001",
+      "titulo": "Lei Nº 13.225 de 27 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-27-13225",
+      "data": "2001-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13224-de-27-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.224 de 27 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-27-13224",
+      "data": "2001-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13226-de-27-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.226 de 27 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-27-13226",
+      "data": "2001-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13223-de-26-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.223 de 26 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-26-13223",
+      "data": "2001-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13221-de-26-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.221 de 26 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-26-13221",
+      "data": "2001-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13222-de-26-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.222 de 26 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-26-13222",
+      "data": "2001-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13219-de-23-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.219 de 23 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-23-13219",
+      "data": "2001-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13216-de-23-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.216 de 23 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-23-13216",
+      "data": "2001-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13220-de-23-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.220 de 23 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-23-13220",
+      "data": "2001-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13218-de-22-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.218 de 22 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-22-13218",
+      "data": "2001-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13217-de-22-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.217 de 22 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-22-13217",
+      "data": "2001-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13215-de-22-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.215 de 22 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-22-13215",
+      "data": "2001-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13214-de-22-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.214 de 22 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-22-13214",
+      "data": "2001-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13212-de-20-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.212 de 20 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-20-13212",
+      "data": "2001-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13213-de-20-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.213 de 20 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-20-13213",
+      "data": "2001-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13204-de-15-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.204 de 15 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-15-13204",
+      "data": "2001-11-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13211-de-13-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.211 de 13 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-13-13211",
+      "data": "2001-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13210-de-13-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.210 de 13 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-13-13210",
+      "data": "2001-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13209-de-13-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.209 de 13 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-13-13209",
+      "data": "2001-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13208-de-13-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.208 de 13 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-13-13208",
+      "data": "2001-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13207-de-9-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.207 de 9 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-09-13207",
+      "data": "2001-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13203-de-15-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.203 de 9 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-09-13203",
+      "data": "2001-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13206-de-8-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.206 de 8 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-08-13206",
+      "data": "2001-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13205-de-8-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.205 de 8 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-08-13205",
+      "data": "2001-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13202-de-7-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.202 de 7 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-07-13202",
+      "data": "2001-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13201-de-7-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.201 de 7 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-07-13201",
+      "data": "2001-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13200-de-7-de-novembro-de-2001",
+      "titulo": "LEI Nº 13.200 de 7 de Novembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-11-07-13200",
+      "data": "2001-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13199-de-30-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.199 de 30 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-30-13199",
+      "data": "2001-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13198-de-30-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.198 de 30 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-30-13198",
+      "data": "2001-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13197-de-29-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.197 de 29 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-29-13197",
+      "data": "2001-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13196-de-29-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.196 de 29 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-29-13196",
+      "data": "2001-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13195-de-29-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.195 de 29 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-29-13195",
+      "data": "2001-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13194-de-24-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.194 de 24 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-24-13194",
+      "data": "2001-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13193-de-23-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.193 de 23 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-23-13193",
+      "data": "2001-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13192-de-23-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.192 de 23 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-23-13192",
+      "data": "2001-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13191-de-23-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.191 de 23 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-23-13191",
+      "data": "2001-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13190-de-18-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.190 de 18 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-18-13190",
+      "data": "2001-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13189-de-17-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.189 de 17 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-17-13189",
+      "data": "2001-10-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13188-de-16-de-outubro-de-2001",
+      "titulo": "Lei Nº 13.188 de 16 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-16-13188",
+      "data": "2001-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13187-de-16-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.187 de 16 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-16-13187",
+      "data": "2001-10-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13186-de-11-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.186 de 11 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-11-13186",
+      "data": "2001-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13185-de-11-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.185 de 11 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-11-13185",
+      "data": "2001-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13184-de-10-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.184 de 10 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-10-13184",
+      "data": "2001-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13183-de-10-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.183 de 10 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-10-13183",
+      "data": "2001-10-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13182-de-9-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.182 de 9 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-09-13182",
+      "data": "2001-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13181-de-4-de-outubro-de-2001",
+      "titulo": "LEI Nº 13.181 de 4 de Outubro de 2001",
+      "id": "br-municipal-3550308-lei-2001-10-04-13181",
+      "data": "2001-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13180-de-27-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.180 de 27 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-27-13180",
+      "data": "2001-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13179-de-25-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.179 de 25 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-25-13179",
+      "data": "2001-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13178-de-17-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.178 de 17 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-17-13178",
+      "data": "2001-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13177-de-13-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.177 de 13 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-13-13177",
+      "data": "2001-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13176-de-13-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.176 de 13 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-13-13176",
+      "data": "2001-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13175-de-5-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.175 de 5 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-05-13175",
+      "data": "2001-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13174-de-05-de-setembro-de-2001",
+      "titulo": "LEI Nº 13.174 de 5 de Setembro de 2001",
+      "id": "br-municipal-3550308-lei-2001-09-05-13174",
+      "data": "2001-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13173-de-29-de-agosto-de-2001",
+      "titulo": "LEI Nº 13.173 de 29 de Agosto de 2001",
+      "id": "br-municipal-3550308-lei-2001-08-29-13173",
+      "data": "2001-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13171-de-15-de-agosto-de-2001",
+      "titulo": "LEI Nº 13.171 de 15 de Agosto de 2001",
+      "id": "br-municipal-3550308-lei-2001-08-15-13171",
+      "data": "2001-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13172-de-15-de-agosto-de-2001",
+      "titulo": "LEI Nº 13.172 de 15 de Agosto de 2001",
+      "id": "br-municipal-3550308-lei-2001-08-15-13172",
+      "data": "2001-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13170-de-13-de-julho-de-2001",
+      "titulo": "LEI Nº 13.170 de 13 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-13-13170",
+      "data": "2001-07-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13169-de-11-de-julho-de-2001",
+      "titulo": "LEI Nº 13.169 de 11 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-11-13169",
+      "data": "2001-07-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13168-de-6-de-julho-de-2001",
+      "titulo": "LEI Nº 13.168 de 6 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-06-13168",
+      "data": "2001-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13167-de-05-de-julho-de-2001",
+      "titulo": "LEI Nº 13.167 de 5 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-05-13167",
+      "data": "2001-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13166-de-05-de-julho-de-2001",
+      "titulo": "LEI Nº 13.166 de 5 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-05-13166",
+      "data": "2001-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13165-de-5-de-julho-de-2001",
+      "titulo": "LEI Nº 13.165 de 5 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-05-13165",
+      "data": "2001-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13164-de-05-de-julho-de-2001",
+      "titulo": "LEI Nº 13.164 de 5 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-05-13164",
+      "data": "2001-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13163-de-5-de-julho-de-2001",
+      "titulo": "LEI Nº 13.163 de 5 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-05-13163",
+      "data": "2001-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13162-de-5-de-julho-de-2001",
+      "titulo": "LEI Nº 13.162 de 5 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-05-13162",
+      "data": "2001-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13161-de-2-de-julho-de-2001",
+      "titulo": "LEI Nº 13.161 de 2 de Julho de 2001",
+      "id": "br-municipal-3550308-lei-2001-07-02-13161",
+      "data": "2001-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13160-de-29-de-junho-de-2001",
+      "titulo": "LEI Nº 13.160 de 29 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-29-13160",
+      "data": "2001-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13159-de-29-de-junho-de-2001",
+      "titulo": "LEI Nº 13.159 de 29 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-29-13159",
+      "data": "2001-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13158-de-29-de-junho-de-2001",
+      "titulo": "LEI Nº 13.158 de 29 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-29-13158",
+      "data": "2001-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13157-de-29-de-junho-de-2001",
+      "titulo": "LEI Nº 13.157 de 29 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-29-13157",
+      "data": "2001-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13156-de-29-de-junho-de-2001",
+      "titulo": "LEI Nº 13.156 de 29 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-29-13156",
+      "data": "2001-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13155-de-29-de-junho-de-2001",
+      "titulo": "LEI Nº 13.155 de 29 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-29-13155",
+      "data": "2001-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13154-de-26-de-junho-de-2001",
+      "titulo": "LEI Nº 13.154 de 26 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-26-13154",
+      "data": "2001-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13153-de-22-de-junho-de-2001",
+      "titulo": "LEI Nº 13.153 de 22 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-22-13153",
+      "data": "2001-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13152-de-22-de-junho-de-2001",
+      "titulo": "LEI Nº 13.152 de 22 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-22-13152",
+      "data": "2001-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13151-de-22-de-junho-de-2001",
+      "titulo": "LEI Nº 13.151 de 22 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-22-13151",
+      "data": "2001-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13150-de-20-de-junho-de-2001",
+      "titulo": "LEI Nº 13.150 de 20 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-20-13150",
+      "data": "2001-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13149-de-19-de-junho-de-2001",
+      "titulo": "LEI Nº 13.149 de 19 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-19-13149",
+      "data": "2001-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13148-de-19-de-junho-de-2001",
+      "titulo": "LEI Nº 13.148 de 19 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-19-13148",
+      "data": "2001-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13147-de-18-de-junho-de-2001",
+      "titulo": "LEI Nº 13.147 de 18 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-18-13147",
+      "data": "2001-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13146-de-18-de-junho-de-2001",
+      "titulo": "LEI Nº 13.146 de 18 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-18-13146",
+      "data": "2001-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13145-de-18-de-junho-de-2001",
+      "titulo": "LEI Nº 13.145 de 18 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-18-13145",
+      "data": "2001-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13144-de-13-de-junho-de-2001",
+      "titulo": "LEI Nº 13.144 de 13 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-13-13144",
+      "data": "2001-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13143-de-13-de-junho-de-2001",
+      "titulo": "LEI Nº 13.143 de 13 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-13-13143",
+      "data": "2001-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13142-de-13-de-junho-de-2001",
+      "titulo": "LEI Nº 13.142 de 13 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-13-13142",
+      "data": "2001-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13141-de-13-de-junho-de-2001",
+      "titulo": "LEI Nº 13.141 de 13 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-13-13141",
+      "data": "2001-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13140-de-13-de-junho-de-2001",
+      "titulo": "LEI Nº 13.140 de 13 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-13-13140",
+      "data": "2001-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13139-de-13-de-junho-de-2001",
+      "titulo": "LEI Nº 13.139 de 13 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-13-13139",
+      "data": "2001-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13137-de-12-de-junho-de-2001",
+      "titulo": "LEI Nº 13.137 de 12 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-12-13137",
+      "data": "2001-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13138-de-12-de-junho-de-2001",
+      "titulo": "LEI Nº 13.138 de 12 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-12-13138",
+      "data": "2001-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13136-de-9-de-junho-de-2001",
+      "titulo": "LEI Nº 13.136 de 9 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-09-13136",
+      "data": "2001-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13135-de-06-de-junho-de-2001",
+      "titulo": "LEI Nº 13.135 de 6 de Junho de 2001",
+      "id": "br-municipal-3550308-lei-2001-06-06-13135",
+      "data": "2001-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13134-de-23-de-maio-de-2001",
+      "titulo": "LEI Nº 13.134 de 23 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-23-13134",
+      "data": "2001-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13133-de-23-de-maio-de-2001",
+      "titulo": "LEI Nº 13.133 de 23 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-23-13133",
+      "data": "2001-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13132-de-23-de-maio-de-2001",
+      "titulo": "LEI Nº 13.132 de 23 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-23-13132",
+      "data": "2001-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13131-de-18-de-maio-de-2001",
+      "titulo": "LEI Nº 13.131 de 18 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-18-13131",
+      "data": "2001-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13130-de-11-de-maio-de-2001",
+      "titulo": "LEI Nº 13.130 de 11 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-11-13130",
+      "data": "2001-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13129-de-8-de-maio-de-2001",
+      "titulo": "LEI Nº 13.129 de 8 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-08-13129",
+      "data": "2001-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13128-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.128 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13128",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13127-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.127 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13127",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13126-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.126 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13126",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13125-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.125 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13125",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13124-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.124 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13124",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13123-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.123 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13123",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13122-de-7-de-maio-de-2001",
+      "titulo": "LEI Nº 13.122 de 7 de Maio de 2001",
+      "id": "br-municipal-3550308-lei-2001-05-07-13122",
+      "data": "2001-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13120-de-27-de-abril-de-2001",
+      "titulo": "LEI Nº 13.120 de 27 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-27-13120",
+      "data": "2001-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13121-de-27-de-abril-de-2001",
+      "titulo": "LEI Nº 13.121 de 27 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-27-13121",
+      "data": "2001-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13119-de-25-de-abril-de-2001",
+      "titulo": "LEI Nº 13.119 de 25 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-25-13119",
+      "data": "2001-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13118-de-10-de-abril-de-2001",
+      "titulo": "LEI Nº 13.118 de 10 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-10-13118",
+      "data": "2001-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13117-de-9-de-abril-de-2001",
+      "titulo": "LEI Nº 13.117 de 9 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-09-13117",
+      "data": "2001-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13116-de-09-de-abril-de-2001",
+      "titulo": "LEI Nº 13.116 de 9 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-09-13116",
+      "data": "2001-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13115-de-6-de-abril-de-2001",
+      "titulo": "LEI Nº 13.115 de 6 de Abril de 2001",
+      "id": "br-municipal-3550308-lei-2001-04-06-13115",
+      "data": "2001-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13114-de-16-de-marco-de-2001",
+      "titulo": "LEI Nº 13.114 de 16 de Março de 2001",
+      "id": "br-municipal-3550308-lei-2001-03-16-13114",
+      "data": "2001-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13113-de-16-de-marco-de-2001",
+      "titulo": "LEI Nº 13.113 de 16 de Março de 2001",
+      "id": "br-municipal-3550308-lei-2001-03-16-13113",
+      "data": "2001-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13110-de-14-de-marco-de-2001",
+      "titulo": "LEI Nº 13.110 de 14 de Março de 2001",
+      "id": "br-municipal-3550308-lei-2001-03-14-13110",
+      "data": "2001-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13112-de-14-de-marco-de-2001",
+      "titulo": "LEI Nº 13.112 de 14 de Março de 2001",
+      "id": "br-municipal-3550308-lei-2001-03-14-13112",
+      "data": "2001-03-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13111-de-14-de-marco-de-2001",
+      "titulo": "LEI Nº 13.111 de 14 de Março de 2001",
+      "id": "br-municipal-3550308-lei-2001-03-14-13111",
+      "data": "2001-03-14"
+    }
+  ],
+  "pendencias": []
+}

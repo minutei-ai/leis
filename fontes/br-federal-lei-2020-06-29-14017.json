@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-06-29-14017",
+  "titulo": "Lei nº 14.017 de 29/06/2020",
+  "data": "2020-06-29",
+  "fonte": "https://normas.leg.br/api/public/binario/23852eb4-95a5-42d8-b658-937e9ca7f22f/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-06-29;14017",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-06-29%3B14017&tipo_documento=maior-detalhe",
+  "sha256_dados": "65a4c911b747377acbd8e143a98b04437b70e4e31c56e9e1720a3c869ca9401d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:59.609Z",
+  "sha256_fonte": "c7acc0a22e81e29b77ca95016ec53ecd2cee0345ff08ea9d34404c6a8adb1a80",
+  "sha256_markdown": "85a603c7c9dc617c4a59a85ad2acbd5f92a8a7c11fdfad600162898399b396b0"
+}

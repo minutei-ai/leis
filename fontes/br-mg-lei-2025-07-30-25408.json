@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-30-25408",
+  "titulo": "LEI nº 25408, de 30/07/2025",
+  "data": "2025-07-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25408/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25408/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ac63a0737cb30d4712999badb12deda02f938834db65e8411d6d9721450cbfa5",
+  "coletado_em": "2026-10-21T08:33:18.624Z",
+  "sha256_fonte": "12c172fee32dfc3704928d8a74135e48a3eb80ee3b6fbf329b67d209fb0ad569",
+  "sha256_markdown": "88822c1b978c014752a9e3ae9dee3cf4cc5061d0bb1dbd5a243677327a3617ca"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-08-20-49279",
+  "titulo": "DEC nº 49279, de 20/08/2026",
+  "data": "2026-08-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49279/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49279/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "be9314795f1e30c4519b6ca8b104b1a7eff1605da2a879d33e31f32f257b6eb7",
+  "coletado_em": "2026-10-21T08:29:25.259Z",
+  "sha256_fonte": "59679f558245fd0caf9074ec25eb498629b1d1387415fa31ac20450c4a5670b5",
+  "sha256_markdown": "df784cb857d09e94e320ba72a12f5550cd5a982ee9cd65c0e42ce89fec13951a"
+}

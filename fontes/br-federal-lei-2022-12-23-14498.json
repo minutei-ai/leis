@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-23-14498",
+  "titulo": "Lei nº 14.498 de 23/12/2022",
+  "data": "2022-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/66dd76b3-9942-4501-9980-add85780b250/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-23;14498",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-23%3B14498&tipo_documento=maior-detalhe",
+  "sha256_dados": "2c2a91eceb1f80f104fddcedbe099263583ef77eabae3703e1caf2ef71ca5014",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:32.274Z",
+  "sha256_fonte": "5837ca43293bc8ffbe8d004840c3daf93f537551eeed762117f38076a2417405",
+  "sha256_markdown": "fa5d5186fb5a00712279f67815faa170f4430dd6b571297b7c1a2b8a9caab08e"
+}

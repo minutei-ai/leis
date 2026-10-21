@@ -1,0 +1,1029 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1979",
+  "tipo": "DEL",
+  "ano": 1979,
+  "coletado_em": "2026-10-21T08:36:36.146Z",
+  "normas": [
+    {
+      "senadoId": "526116",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-31-1753",
+      "titulo": "Decreto-Lei nº 1.753 de 31/12/1979",
+      "data": "1979-12-31",
+      "numero": "1753",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-31;1753",
+      "ementa": "Adapta a Tarifa Aduaneira do Brasil à Nomeclatura Brasileira de   Mercadorias e dá outras providências."
+    },
+    {
+      "senadoId": "526114",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-31-1752",
+      "titulo": "Decreto-Lei nº 1.752 de 31/12/1979",
+      "data": "1979-12-31",
+      "numero": "1752",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-31;1752",
+      "ementa": "Extingue o Certificado de Aplicação previsto no artigo 15 do Decreto-Lei   n.1376, de 12 de dezembro de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526118",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-31-1754",
+      "titulo": "Decreto-Lei nº 1.754 de 31/12/1979",
+      "data": "1979-12-31",
+      "numero": "1754",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-31;1754",
+      "ementa": "Altera a composição do Fundo Nacional de Desenvolvimento, e dá outras providências."
+    },
+    {
+      "senadoId": "526120",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-31-1755",
+      "titulo": "Decreto-Lei nº 1.755 de 31/12/1979",
+      "data": "1979-12-31",
+      "numero": "1755",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-31;1755",
+      "ementa": "Dispõe sobre a arrecadação e restituição das receitas federais e dá outras providências."
+    },
+    {
+      "senadoId": "526122",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-31-1756",
+      "titulo": "Decreto-Lei nº 1.756 de 31/12/1979",
+      "data": "1979-12-31",
+      "numero": "1756",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-31;1756",
+      "ementa": "Aumenta os limites do Decreto-Lei n.1312, de 15 de fevereiro de 1974, alterados pelos Decretos-Leis n. 1460, de 22 de abril de 1976, 1562, de 19 de julho de 1977 e 1651, de 21 de dezembro de 1978, e dá outras providências."
+    },
+    {
+      "senadoId": "526104",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-28-1747",
+      "titulo": "Decreto-Lei nº 1.747 de 28/12/1979",
+      "data": "1979-12-28",
+      "numero": "1747",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-28;1747",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração dos   militares."
+    },
+    {
+      "senadoId": "526108",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-28-1749",
+      "titulo": "Decreto-Lei nº 1.749 de 28/12/1979",
+      "data": "1979-12-28",
+      "numero": "1749",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-28;1749",
+      "ementa": "Eleva em até Cr$ 350.000.000,00 o limite atribuído ao Governo do Distrito   Federal para abertura de crédito suplementar."
+    },
+    {
+      "senadoId": "526106",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-28-1748",
+      "titulo": "Decreto-Lei nº 1.748 de 28/12/1979",
+      "data": "1979-12-28",
+      "numero": "1748",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-28;1748",
+      "ementa": "Dispõe sobre o valor da contribuição para a Pensão Militar."
+    },
+    {
+      "senadoId": "526112",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-28-1751",
+      "titulo": "Decreto-Lei nº 1.751 de 28/12/1979",
+      "data": "1979-12-28",
+      "numero": "1751",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-28;1751",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "526110",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-28-1750",
+      "titulo": "Decreto-Lei nº 1.750 de 28/12/1979",
+      "data": "1979-12-28",
+      "numero": "1750",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-28;1750",
+      "ementa": "Reajusta os vencimentos e proventos dos membros do Tribunal de Contas do Distrito Federal e respectivo Ministério Público, e dá outras providências."
+    },
+    {
+      "senadoId": "526098",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-27-1744",
+      "titulo": "Decreto-Lei nº 1.744 de 27/12/1979",
+      "data": "1979-12-27",
+      "numero": "1744",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-27;1744",
+      "ementa": "Fixa alíquotas do Imposto sobre Operações relativas à Circulação de   Mercadorias (ICM) nos Territórios Federais."
+    },
+    {
+      "senadoId": "526092",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-27-1741",
+      "titulo": "Decreto-Lei nº 1.741 de 27/12/1979",
+      "data": "1979-12-27",
+      "numero": "1741",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-27;1741",
+      "ementa": "Altera a redação do artigo 13 do Decreto-Lei n. 1089/70."
+    },
+    {
+      "senadoId": "526102",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-27-1746",
+      "titulo": "Decreto-Lei nº 1.746 de 27/12/1979",
+      "data": "1979-12-27",
+      "numero": "1746",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-27;1746",
+      "ementa": "Altera a Lei n. 6732, de 4 de dezembro de 1979, e dá outras   providências."
+    },
+    {
+      "senadoId": "526096",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-27-1743",
+      "titulo": "Decreto-Lei nº 1.743 de 27/12/1979",
+      "data": "1979-12-27",
+      "numero": "1743",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-27;1743",
+      "ementa": "Altera o limite percentual da Gratificação de que trata o Decreto-Lei n.   1698, de 3 de outubro de 1979."
+    },
+    {
+      "senadoId": "526094",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-27-1742",
+      "titulo": "Decreto-Lei nº 1.742 de 27/12/1979",
+      "data": "1979-12-27",
+      "numero": "1742",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-27;1742",
+      "ementa": "Dispõe sobre a realização das despesas à conta de recursos vinculados do   Tesouro Nacional no exercício financeiro de 1980 e dá outras   providências."
+    },
+    {
+      "senadoId": "526100",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-27-1745",
+      "titulo": "Decreto-Lei nº 1.745 de 27/12/1979",
+      "data": "1979-12-27",
+      "numero": "1745",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-27;1745",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "526088",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-26-1739",
+      "titulo": "Decreto-Lei nº 1.739 de 26/12/1979",
+      "data": "1979-12-26",
+      "numero": "1739",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-26;1739",
+      "ementa": "Fixa o limite máximo do salário-de-contribuição, previsto na Lei n. 6332,   de 18 de maio de 1976, e dá outras providências."
+    },
+    {
+      "senadoId": "526090",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-26-1740",
+      "titulo": "Decreto-Lei nº 1.740 de 26/12/1979",
+      "data": "1979-12-26",
+      "numero": "1740",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-26;1740",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria   do Supremo Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "526086",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-21-1738",
+      "titulo": "Decreto-Lei nº 1.738 de 21/12/1979",
+      "data": "1979-12-21",
+      "numero": "1738",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-21;1738",
+      "ementa": "Reajusta os vencimentos, salários e proventos civis do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "526074",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1732",
+      "titulo": "Decreto-Lei nº 1.732 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1732",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1732",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências."
+    },
+    {
+      "senadoId": "526084",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1737",
+      "titulo": "Decreto-Lei nº 1.737 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1737",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1737",
+      "ementa": "Disciplina os depósitos de interesse da administração pública efetuados na   Caixa Econômica Federal."
+    },
+    {
+      "senadoId": "526078",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1734",
+      "titulo": "Decreto-Lei nº 1.734 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1734",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1734",
+      "ementa": "Prorroga o prazo de aplicação dos incentivos fiscais criados pelo artigo 4º do Decreto-Lei n. 880, de 18 de setembro de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "526082",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1736",
+      "titulo": "Decreto-Lei nº 1.736 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1736",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1736",
+      "ementa": "Dispõe sobre débitos para com a Fazenda e dá outras providências."
+    },
+    {
+      "senadoId": "526072",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1731",
+      "titulo": "Decreto-Lei nº 1.731 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1731",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1731",
+      "ementa": "Reajusta o valor do soldo base de cálculo de remuneração dos   militares."
+    },
+    {
+      "senadoId": "526080",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1735",
+      "titulo": "Decreto-Lei nº 1.735 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1735",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1735",
+      "ementa": "Dá nova redação ao art. 39 da Lei nº 4320, de 17 de março de   1964."
+    },
+    {
+      "senadoId": "526076",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-20-1733",
+      "titulo": "Decreto-Lei nº 1.733 de 20/12/1979",
+      "data": "1979-12-20",
+      "numero": "1733",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1733",
+      "ementa": "Altera a legislação do imposto sobre a renda das pessoas jurídicas e dá   outras providências."
+    },
+    {
+      "senadoId": "526068",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-17-1729",
+      "titulo": "Decreto-Lei nº 1.729 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "1729",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-17;1729",
+      "ementa": "Altera a tabela do imposto incidente na fonte sobre rendimentos do   trabalho não-assalariado e dá outras providências."
+    },
+    {
+      "senadoId": "526070",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-17-1730",
+      "titulo": "Decreto-Lei nº 1.730 de 17/12/1979",
+      "data": "1979-12-17",
+      "numero": "1730",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-17;1730",
+      "ementa": "Altera a legislação do imposto sobre a renda das pessoas jurídicas e dá outras providências."
+    },
+    {
+      "senadoId": "526066",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-12-1728",
+      "titulo": "Decreto-Lei nº 1.728 de 12/12/1979",
+      "data": "1979-12-12",
+      "numero": "1728",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-12;1728",
+      "ementa": "Altera os limites do benefício fiscal instituído pelo Decreto-Lei n. 1358, de 12 de novembro de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526064",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-10-1727",
+      "titulo": "Decreto-Lei nº 1.727 de 10/12/1979",
+      "data": "1979-12-10",
+      "numero": "1727",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-10;1727",
+      "ementa": "Inclui gratificação no Anexo II do Decreto-Lei n. 1360, de 22 de novembro   de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526060",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-07-1725",
+      "titulo": "Decreto-Lei nº 1.725 de 07/12/1979",
+      "data": "1979-12-07",
+      "numero": "1725",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-07;1725",
+      "ementa": "Estabelece limite para o benefício previsto no artigo 9º do Decreto-Lei n.   1351, de 24 de outubro de 1974, que altera a legislação do Imposto sobre a   Renda."
+    },
+    {
+      "senadoId": "526058",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-07-1724",
+      "titulo": "Decreto-Lei nº 1.724 de 07/12/1979",
+      "data": "1979-12-07",
+      "numero": "1724",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-07;1724",
+      "ementa": "Dispõe sobre os estímulos fiscais de que tratam os artigos. 1º e 5º do Decreto-Lei n. 491, de 5 de março de 1969."
+    },
+    {
+      "senadoId": "526062",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-07-1726",
+      "titulo": "Decreto-Lei nº 1.726 de 07/12/1979",
+      "data": "1979-12-07",
+      "numero": "1726",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-07;1726",
+      "ementa": "Dispõe sobre isenção ou redução fiscal na importação."
+    },
+    {
+      "senadoId": "526056",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-06-1723",
+      "titulo": "Decreto-Lei nº 1.723 de 06/12/1979",
+      "data": "1979-12-06",
+      "numero": "1723",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-06;1723",
+      "ementa": "Dispõe sobre a participação dos Territórios Federais na Reserva criada   pelo Decreto-Lei n. 1434, de 11 de dezembro de 1975."
+    },
+    {
+      "senadoId": "526052",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-03-1721",
+      "titulo": "Decreto-Lei nº 1.721 de 03/12/1979",
+      "data": "1979-12-03",
+      "numero": "1721",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-03;1721",
+      "ementa": "Dá nova redação ao artigo 1º do Decreto-Lei n. 1158, de 16 de março de   1971, ao parágrafo 2º do artigo 1º do Decreto-Lei n. 1189, de 24 de setembro de   1971, e ao artigo 4º do Decreto-Lei n. 1248, de 29 de novembro de   1972."
+    },
+    {
+      "senadoId": "526054",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-12-03-1722",
+      "titulo": "Decreto-Lei nº 1.722 de 03/12/1979",
+      "data": "1979-12-03",
+      "numero": "1722",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-12-03;1722",
+      "ementa": "Altera a forma de utilização de estímulos fiscais às exportações de manufaturados e dá outras providências."
+    },
+    {
+      "senadoId": "526050",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-29-1720",
+      "titulo": "Decreto-Lei nº 1.720 de 29/11/1979",
+      "data": "1979-11-29",
+      "numero": "1720",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-29;1720",
+      "ementa": "Prorroga até 31 de dezembro de 1981 o prazo da isenção concedida às empresas siderúrgicas pelo Decreto-Lei nº.569/69."
+    },
+    {
+      "senadoId": "526048",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-28-1719",
+      "titulo": "Decreto-Lei nº 1.719 de 28/11/1979",
+      "data": "1979-11-28",
+      "numero": "1719",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-28;1719",
+      "ementa": "Autoriza a garantia do Tesouro Nacional a empréstimo interno para o Estado   de Mato Grosso, no limite e condições que especifica."
+    },
+    {
+      "senadoId": "526046",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-27-1718",
+      "titulo": "Decreto-Lei nº 1.718 de 27/11/1979",
+      "data": "1979-11-27",
+      "numero": "1718",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-27;1718",
+      "ementa": "Revoga exigência de prestação de informações permanentes referidas na   legistação do imposto sobre a renda e dá outras providências."
+    },
+    {
+      "senadoId": "526044",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-26-1717",
+      "titulo": "Decreto-Lei nº 1.717 de 26/11/1979",
+      "data": "1979-11-26",
+      "numero": "1717",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-26;1717",
+      "ementa": "Acrescenta os itens V, VI e VII ao § 1º do artigo 1º do Decreto-Lei nº.   1.678, de 22 de fevereiro de 1979, e dá outras providências."
+    },
+    {
+      "senadoId": "526040",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-22-1715",
+      "titulo": "Decreto-Lei nº 1.715 de 22/11/1979",
+      "data": "1979-11-22",
+      "numero": "1715",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-22;1715",
+      "ementa": "Regula a expedição de certidão de quitação de tributos federais e extingue   a declaração de devedor remisso."
+    },
+    {
+      "senadoId": "526042",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-21-1716",
+      "titulo": "Decreto-Lei nº 1.716 de 21/11/1979",
+      "data": "1979-11-21",
+      "numero": "1716",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-21;1716",
+      "ementa": "Dá nova redação a despositivos da Lei nº. 5.619, de 03 de novembro de 1970   e Lei nº. 5.906, de 23 de julho de 1973, alteradas pelo Decreto-Lei nº. 1.618,   de 03 de março de 1978."
+    },
+    {
+      "senadoId": "526038",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-21-1714",
+      "titulo": "Decreto-Lei nº 1.714 de 21/11/1979",
+      "data": "1979-11-21",
+      "numero": "1714",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-21;1714",
+      "ementa": "Inclui gratificação no Anexo II do Decreto-Lei nº 1.341, de 22 de agosto   de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526036",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-19-1713",
+      "titulo": "Decreto-Lei nº 1.713 de 19/11/1979",
+      "data": "1979-11-19",
+      "numero": "1713",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-19;1713",
+      "ementa": "Dispõe quanto ao imposto de renda devido na fonte sobre rendimentos do   trabalho assalariado."
+    },
+    {
+      "senadoId": "526034",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-14-1712",
+      "titulo": "Decreto-Lei nº 1.712 de 14/11/1979",
+      "data": "1979-11-14",
+      "numero": "1712",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-14;1712",
+      "ementa": "Dispõe sobre a arrecadação das contribuições ao Instituto do Açúcar e do Álcool e dá outras providências."
+    },
+    {
+      "senadoId": "526032",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-11-12-1711",
+      "titulo": "Decreto-Lei nº 1.711 de 12/11/1979",
+      "data": "1979-11-12",
+      "numero": "1711",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-11-12;1711",
+      "ementa": "Autoriza o parcelamento da Taxa Rodoviária Única e dá outras   providências."
+    },
+    {
+      "senadoId": "526028",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-31-1709",
+      "titulo": "Decreto-Lei nº 1.709 de 31/10/1979",
+      "data": "1979-10-31",
+      "numero": "1709",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-31;1709",
+      "ementa": "Dispõe sobre pagamento da Gratificação de Produtividade, nos casos que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "526030",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-31-1710",
+      "titulo": "Decreto-Lei nº 1.710 de 31/10/1979",
+      "data": "1979-10-31",
+      "numero": "1710",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-31;1710",
+      "ementa": "Estende a Gratificação de Produtividade aos casos que especifica e dá   outras providências."
+    },
+    {
+      "senadoId": "526024",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-30-1707",
+      "titulo": "Decreto-Lei nº 1.707 de 30/10/1979",
+      "data": "1979-10-30",
+      "numero": "1707",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-30;1707",
+      "ementa": "Modifica os Decretos-Lei nºs. 1312, de 1974, 1460, de 1976, 1562, de 1977   e 1651, de 1978."
+    },
+    {
+      "senadoId": "526026",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-30-1708",
+      "titulo": "Decreto-Lei nº 1.708 de 30/10/1979",
+      "data": "1979-10-30",
+      "numero": "1708",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-30;1708",
+      "ementa": "Altera o art. 1º do Decreto-Lei nº 1.237, de 12 de setembro de   1972."
+    },
+    {
+      "senadoId": "526022",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-23-1706",
+      "titulo": "Decreto-Lei nº 1.706 de 23/10/1979",
+      "data": "1979-10-23",
+      "numero": "1706",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-23;1706",
+      "ementa": "Altera dispositivos da Lei nº 6.468, de 14 de novembro de 1977, modificada   pelo Decreto-Lei nº 1647, de 18 de dezembro de 1978, regulando a tributação   simplificada para pequenas e médias empresas, e dá outras providências."
+    },
+    {
+      "senadoId": "526018",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-23-1704",
+      "titulo": "Decreto-Lei nº 1.704 de 23/10/1979",
+      "data": "1979-10-23",
+      "numero": "1704",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-23;1704",
+      "ementa": "Altera a legislação do imposto sobre a renda que incide sobre o lucro das pessoas jurídicas, modifica o sistema de correção monetária de débitos fiscais e dá outras providências."
+    },
+    {
+      "senadoId": "526020",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-23-1705",
+      "titulo": "Decreto-Lei nº 1.705 de 23/10/1979",
+      "data": "1979-10-23",
+      "numero": "1705",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-23;1705",
+      "ementa": "Dispõe quando à obrigatoriedade de recolhimento antecipado, pelas pessoas físicas, do imposto de renda sobre os rendimentos que especifica."
+    },
+    {
+      "senadoId": "526012",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-18-1701",
+      "titulo": "Decreto-Lei nº 1.701 de 18/10/1979",
+      "data": "1979-10-18",
+      "numero": "1701",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-18;1701",
+      "ementa": "Prorroga o prazo para destinação de recursos ao PIN e ao   PROTERRA."
+    },
+    {
+      "senadoId": "526014",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-18-1702",
+      "titulo": "Decreto-Lei nº 1.702 de 18/10/1979",
+      "data": "1979-10-18",
+      "numero": "1702",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-18;1702",
+      "ementa": "Dispõe sobre a contribuição para análise e fiscalização de projetos   técnico-econômicos nas áreas da SUDAM e da SUDENE, e dá outras   providências."
+    },
+    {
+      "senadoId": "526016",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-18-1703",
+      "titulo": "Decreto-Lei nº 1.703 de 18/10/1979",
+      "data": "1979-10-18",
+      "numero": "1703",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-18;1703",
+      "ementa": "Estabelece condições especiais para importação de bens destinados a produção de petróleo bruto e gás natural na Bacia de Campos, na Plataforma Continental Brasileira e dá outras providências."
+    },
+    {
+      "senadoId": "526010",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-18-1700",
+      "titulo": "Decreto-Lei nº 1.700 de 18/10/1979",
+      "data": "1979-10-18",
+      "numero": "1700",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-18;1700",
+      "ementa": "Extingue o registro das letras de câmbio e notas promissórias e dá outras   providências."
+    },
+    {
+      "senadoId": "526009",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-16-1699",
+      "titulo": "Decreto-Lei nº 1.699 de 16/10/1979",
+      "data": "1979-10-16",
+      "numero": "1699",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-16;1699",
+      "ementa": "Dispõe sobre cancelamento e parcelamento de débitos, no âmbito da Previdência Social, e dá outras providências."
+    },
+    {
+      "senadoId": "526008",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-10-03-1698",
+      "titulo": "Decreto-Lei nº 1.698 de 03/10/1979",
+      "data": "1979-10-03",
+      "numero": "1698",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-10-03;1698",
+      "ementa": "Altera o limite percentual fixado no Anexo do Decreto-Lei nº 1574, de 19 de setembro de 1977, e dá outras providências."
+    },
+    {
+      "senadoId": "526007",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-09-26-1697",
+      "titulo": "Decreto-Lei nº 1.697 de 26/09/1979",
+      "data": "1979-09-26",
+      "numero": "1697",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-09-26;1697",
+      "ementa": "Concede isenção dos impostos de importação e sobre produtos   industrializados aos bens destinados ao IX Recenseamento Geral do   Brasil."
+    },
+    {
+      "senadoId": "526006",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-09-24-1696",
+      "titulo": "Decreto-Lei nº 1.696 de 24/09/1979",
+      "data": "1979-09-24",
+      "numero": "1696",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-09-24;1696",
+      "ementa": "Dispõe sobre a aplicação dos recursos atribuídos à Companhia de Pesquisa de Recursos Minerais - CPRM na alínea \"j\" do item II do artigo 13 da Lei nº 4.452, de 05 de novembro de 1964."
+    },
+    {
+      "senadoId": "526005",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-09-18-1695",
+      "titulo": "Decreto-Lei nº 1.695 de 18/09/1979",
+      "data": "1979-09-18",
+      "numero": "1695",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-09-18;1695",
+      "ementa": "Suprime a incidência do imposto de renda na fonte sobre o 13º salário e   atribui competência ao Ministro da Fazenda para fixar prazos de recolhimento de   imposto de renda retido por fontes pagadoras de rendimentos."
+    },
+    {
+      "senadoId": "526004",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-09-06-1694",
+      "titulo": "Decreto-Lei nº 1.694 de 06/09/1979",
+      "data": "1979-09-06",
+      "numero": "1694",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-09-06;1694",
+      "ementa": "Cancela débitos para com as autarquias federais e dá outras   providências."
+    },
+    {
+      "senadoId": "526003",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-08-30-1693",
+      "titulo": "Decreto-Lei nº 1.693 de 30/08/1979",
+      "data": "1979-08-30",
+      "numero": "1693",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-08-30;1693",
+      "ementa": "Dá nova redação a dispositivos da Lei n° ;5.787, de 27 de junho de   1972, alterada pelo Decreto-lei n° ;1.603, de 22 de fevereiro de   1978."
+    },
+    {
+      "senadoId": "526002",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-08-29-1692",
+      "titulo": "Decreto-Lei nº 1.692 de 29/08/1979",
+      "data": "1979-08-29",
+      "numero": "1692",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-08-29;1692",
+      "ementa": "Concede incentivo fiscal às vendas de produtos industrializados à ITAIPU   BINACIONAL."
+    },
+    {
+      "senadoId": "526001",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-08-02-1691",
+      "titulo": "Decreto-Lei nº 1.691 de 02/08/1979",
+      "data": "1979-08-02",
+      "numero": "1691",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-08-02;1691",
+      "ementa": "Altera a legislação do Imposto Único sobre Lubrificantes e Combustíveis   Líquidos e Gasosos, da Taxa Rodoviária Única, e dá outras   providências."
+    },
+    {
+      "senadoId": "526000",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-08-01-1690",
+      "titulo": "Decreto-Lei nº 1.690 de 01/08/1979",
+      "data": "1979-08-01",
+      "numero": "1690",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-08-01;1690",
+      "ementa": "Altera dispositivos do Decreto-Lei n° ;1.631, de 2 de agosto de 1978,   que dispõe sobre a incidência do Imposto Único sobre Lubrificantes e   Combustíveis Líquidos e Gasosos nos álcoois etílico e metílico, para fins   carburantes, e dá outras providências."
+    },
+    {
+      "senadoId": "525999",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-07-30-1689",
+      "titulo": "Decreto-Lei nº 1.689 de 30/07/1979",
+      "data": "1979-07-30",
+      "numero": "1689",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-07-30;1689",
+      "ementa": "Concede isenção de impostos relativamente a selos, peças filatélicas e   material de uso filatélico vendidos no recinto das exposições vinculadas à   \"Brasiliana 79\", e dá outras providências."
+    },
+    {
+      "senadoId": "525997",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-07-26-1688",
+      "titulo": "Decreto-Lei nº 1.688 de 26/07/1979",
+      "data": "1979-07-26",
+      "numero": "1688",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-07-26;1688",
+      "ementa": "Limita o benefício previsto no artigo 9º do Decreto-Lei n. 1351, de 24 de   outubro de 1974."
+    },
+    {
+      "senadoId": "525995",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-07-18-1687",
+      "titulo": "Decreto-Lei nº 1.687 de 18/07/1979",
+      "data": "1979-07-18",
+      "numero": "1687",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-07-18;1687",
+      "ementa": "Dispõe sobre cobrança da Dívida Ativa da União e dá outras providências."
+    },
+    {
+      "senadoId": "525993",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-06-26-1686",
+      "titulo": "Decreto-Lei nº 1.686 de 26/06/1979",
+      "data": "1979-06-26",
+      "numero": "1686",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-06-26;1686",
+      "ementa": "Altera alíquotas do IPI incidente sobre os produtos   que especifica e dá outras providências."
+    },
+    {
+      "senadoId": "525991",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-06-25-1685",
+      "titulo": "Decreto-Lei nº 1.685 de 25/06/1979",
+      "data": "1979-06-25",
+      "numero": "1685",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-06-25;1685",
+      "ementa": "Prorroga prazos de vigência de Decretos-Leis que dispõem sobre acréscimos às alíquotas do Imposto de Importação e dá outras providências."
+    },
+    {
+      "senadoId": "525989",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-06-18-1684",
+      "titulo": "Decreto-Lei nº 1.684 de 18/06/1979",
+      "data": "1979-06-18",
+      "numero": "1684",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-06-18;1684",
+      "ementa": "Altera o artigo 2º do Decreto-Lei nº 1.640, de 20 de   novembro de 1978."
+    },
+    {
+      "senadoId": "525987",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-05-29-1683",
+      "titulo": "Decreto-Lei nº 1.683 de 29/05/1979",
+      "data": "1979-05-29",
+      "numero": "1683",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-05-29;1683",
+      "ementa": "Dispõe sobre o recebimento de contribuições   previdenciárias em atraso, com dispensa total ou parcial de multa."
+    },
+    {
+      "senadoId": "525985",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-05-07-1682",
+      "titulo": "Decreto-Lei nº 1.682 de 07/05/1979",
+      "data": "1979-05-07",
+      "numero": "1682",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-05-07;1682",
+      "ementa": "Reduz alíquotas do imposto sobre Produtos   Industrializados, assegura manutenção e utilização de crédito, e dá outras   providências."
+    },
+    {
+      "senadoId": "525983",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-05-07-1681",
+      "titulo": "Decreto-Lei nº 1.681 de 07/05/1979",
+      "data": "1979-05-07",
+      "numero": "1681",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-05-07;1681",
+      "ementa": "Altera a alínea \"i\", do item II, do Artigo 13, da Lei   n. 4452, de 05 de novembro de 1964."
+    },
+    {
+      "senadoId": "525981",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-03-28-1680",
+      "titulo": "Decreto-Lei nº 1.680 de 28/03/1979",
+      "data": "1979-03-28",
+      "numero": "1680",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-03-28;1680",
+      "ementa": "Regula a declaração do imposto sobre produtos industrializados e dá outras providências."
+    },
+    {
+      "senadoId": "525979",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-03-13-1679",
+      "titulo": "Decreto-Lei nº 1.679 de 13/03/1979",
+      "data": "1979-03-13",
+      "numero": "1679",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-03-13;1679",
+      "ementa": "Concede incentivos à capitalização da empresa privada   nacional e ao financiamento da pequena e média empresa de regiões menos   desenvolvidas e dá outras providências."
+    },
+    {
+      "senadoId": "525977",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-22-1678",
+      "titulo": "Decreto-Lei nº 1.678 de 22/02/1979",
+      "data": "1979-02-22",
+      "numero": "1678",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-22;1678",
+      "ementa": "Constitui reserva de contenção com parcela das receitas vinculadas da União e dá outras providências."
+    },
+    {
+      "senadoId": "525975",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-21-1677",
+      "titulo": "Decreto-Lei nº 1.677 de 21/02/1979",
+      "data": "1979-02-21",
+      "numero": "1677",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-21;1677",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências."
+    },
+    {
+      "senadoId": "525969",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-19-1674",
+      "titulo": "Decreto-Lei nº 1.674 de 19/02/1979",
+      "data": "1979-02-19",
+      "numero": "1674",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-19;1674",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos   servidores das Secretarias do Superior Tribunal Militar e das Auditorias da   Justiça Militar e dá outras providências."
+    },
+    {
+      "senadoId": "525971",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-19-1675",
+      "titulo": "Decreto-Lei nº 1.675 de 19/02/1979",
+      "data": "1979-02-19",
+      "numero": "1675",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-19;1675",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "525967",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-19-1673",
+      "titulo": "Decreto-Lei nº 1.673 de 19/02/1979",
+      "data": "1979-02-19",
+      "numero": "1673",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-19;1673",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos   servidores das Secretarias dos Tribunais do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "525973",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-19-1676",
+      "titulo": "Decreto-Lei nº 1.676 de 19/02/1979",
+      "data": "1979-02-19",
+      "numero": "1676",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-19;1676",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "525965",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-16-1672",
+      "titulo": "Decreto-Lei nº 1.672 de 16/02/1979",
+      "data": "1979-02-16",
+      "numero": "1672",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-16;1672",
+      "ementa": "Altera a legislação do Imposto de Renda em relação a   rendimentos sujeitos à retenção na fonte."
+    },
+    {
+      "senadoId": "525961",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-14-1670",
+      "titulo": "Decreto-Lei nº 1.670 de 14/02/1979",
+      "data": "1979-02-14",
+      "numero": "1670",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-14;1670",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal."
+    },
+    {
+      "senadoId": "525963",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-14-1671",
+      "titulo": "Decreto-Lei nº 1.671 de 14/02/1979",
+      "data": "1979-02-14",
+      "numero": "1671",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-14;1671",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios."
+    },
+    {
+      "senadoId": "525959",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-14-1669",
+      "titulo": "Decreto-Lei nº 1.669 de 14/02/1979",
+      "data": "1979-02-14",
+      "numero": "1669",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-14;1669",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "525949",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-13-1664",
+      "titulo": "Decreto-Lei nº 1.664 de 13/02/1979",
+      "data": "1979-02-13",
+      "numero": "1664",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1664",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos   servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da   Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525957",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-13-1668",
+      "titulo": "Decreto-Lei nº 1.668 de 13/02/1979",
+      "data": "1979-02-13",
+      "numero": "1668",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1668",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Serviços   Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525947",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-13-1663",
+      "titulo": "Decreto-Lei nº 1.663 de 13/02/1979",
+      "data": "1979-02-13",
+      "numero": "1663",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1663",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos   servidores da Secretaria do Supremo Tribunal Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525955",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-13-1667",
+      "titulo": "Decreto-Lei nº 1.667 de 13/02/1979",
+      "data": "1979-02-13",
+      "numero": "1667",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1667",
+      "ementa": "Reajusta os vencimentos e proventos dos Membros do Tribunal de Contas do   Distrito Federal e respectivo Ministério Público."
+    },
+    {
+      "senadoId": "525953",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-13-1666",
+      "titulo": "Decreto-Lei nº 1.666 de 13/02/1979",
+      "data": "1979-02-13",
+      "numero": "1666",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1666",
+      "ementa": "Fixa o valor do soldo dos postos de Coronel PM da   Polícia Militar e de Coronel BM do Corpo de Bombeiros do Distrito Federal e dá   outras providências."
+    },
+    {
+      "senadoId": "525951",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-13-1665",
+      "titulo": "Decreto-Lei nº 1.665 de 13/02/1979",
+      "data": "1979-02-13",
+      "numero": "1665",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1665",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525945",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-02-02-1662",
+      "titulo": "Decreto-Lei nº 1.662 de 02/02/1979",
+      "data": "1979-02-02",
+      "numero": "1662",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-02-02;1662",
+      "ementa": "Altera a legislação do imposto de renda e do imposto sobre produtos   industrializados, nos casos que especifica."
+    },
+    {
+      "senadoId": "525943",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-25-1661",
+      "titulo": "Decreto-Lei nº 1.661 de 25/01/1979",
+      "data": "1979-01-25",
+      "numero": "1661",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-25;1661",
+      "ementa": "Estabelece alterações no regime de Benefícios Fiscais   a Progamas Especiais de Exportação e dá outras providências."
+    },
+    {
+      "senadoId": "525937",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-24-1658",
+      "titulo": "Decreto-Lei nº 1.658 de 24/01/1979",
+      "data": "1979-01-24",
+      "numero": "1658",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-24;1658",
+      "ementa": "Extingue o estímulo fiscal de que trata o artigo 1º do Decreto-Lei   n° ;491, de 5 de março de 1969."
+    },
+    {
+      "senadoId": "525939",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-24-1659",
+      "titulo": "Decreto-Lei nº 1.659 de 24/01/1979",
+      "data": "1979-01-24",
+      "numero": "1659",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-24;1659",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração   dos militares."
+    },
+    {
+      "senadoId": "525941",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-24-1660",
+      "titulo": "Decreto-Lei nº 1.660 de 24/01/1979",
+      "data": "1979-01-24",
+      "numero": "1660",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-24;1660",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Poder   Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá   outras providências."
+    },
+    {
+      "senadoId": "525935",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-23-1657",
+      "titulo": "Decreto-Lei nº 1.657 de 23/01/1979",
+      "data": "1979-01-23",
+      "numero": "1657",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-23;1657",
+      "ementa": "Altera os limites de que tratam os Decretos-Leis n° 1.358, de 12 de novembro de 1974; 1.431, de 05 de dezembro de 1975; 1.491, de 1º de dezembro de 1976 e 1.596, de 22 de dezembro de 1977."
+    },
+    {
+      "senadoId": "525933",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-10-1656",
+      "titulo": "Decreto-Lei nº 1.656 de 10/01/1979",
+      "data": "1979-01-10",
+      "numero": "1656",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-10;1656",
+      "ementa": "Prorroga o prazo estabelecido no artigo 1º do   Decreto-Lei n° 1.577, de 10 de outubro de 1977, que dispõe sobre a concessão de   isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados,   nos casos que especifica."
+    },
+    {
+      "senadoId": "525931",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1979-01-09-1655",
+      "titulo": "Decreto-Lei nº 1.655 de 09/01/1979",
+      "data": "1979-01-09",
+      "numero": "1655",
+      "urn": "urn:lex:br:federal:decreto.lei:1979-01-09;1655",
+      "ementa": "Dispõe sobre a guarda e a liquidação dos comprovantes   do recolhimento restituível decorrente do consumo de óleo combustível instituído   pelo Decreto-Lei n° 1.520, de 17 de janeiro de 1977."
+    }
+  ],
+  "pendencias": []
+}

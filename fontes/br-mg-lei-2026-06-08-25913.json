@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-06-08-25913",
+  "titulo": "LEI nº 25913, de 08/06/2026",
+  "data": "2026-06-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25913/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25913/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "de43b1439234a1771e26af0268022cdc1a653453f0010ffaa1202abcb093fbeb",
+  "coletado_em": "2026-10-21T08:27:45.837Z",
+  "sha256_fonte": "103ac83e899df02b7413a3b9c1656e2205c515fcff1a4b92c6ca4f5ea759c6d9",
+  "sha256_markdown": "2debd3f06fdba919cbb63ed85362439d4ef6e56f393ba90be29df170f76b071d"
+}

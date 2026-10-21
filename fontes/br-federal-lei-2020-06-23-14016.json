@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-06-23-14016",
+  "titulo": "Lei nº 14.016 de 23/06/2020",
+  "data": "2020-06-23",
+  "fonte": "https://normas.leg.br/api/public/binario/42031abf-ccb5-44ff-a0b2-6c6f6f9a761d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-06-23;14016",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-06-23%3B14016&tipo_documento=maior-detalhe",
+  "sha256_dados": "53c12559747e576da5d005693a1a32dd59aa574e67f0e6db5fc1c7d6dcff8134",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:00.871Z",
+  "sha256_fonte": "86d6b1e2bd99d64a7503f2bc4180fbd8363b1aae373fe3964cf79a13658fe8f6",
+  "sha256_markdown": "4eb565c9e3363d86d6fb224eeb7f7a845c4be98545e863e0c3a839456088c5b3"
+}

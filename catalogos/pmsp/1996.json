@@ -1,0 +1,1996 @@
+{
+  "ano_publicacao": 1996,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1996",
+    "ano-final": "31/12/1996",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:37.904Z",
+  "total": 327,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "347e2754a51e3b2d3cf1ad614c1cbbf3f9ec3191d40e98e57b15201f25279982"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "ee7dd534a9421a0943bd7463c987d58aefe95704b3f5623ef8604e29efbb3cf6"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "8993cb20fb4f65359e0fe4fb01f892e2f36300f3d02f39df254aee1a861ad607"
+    },
+    {
+      "numero": 4,
+      "sha256_fonte": "342b11cc3a24b629e07e5c9dd924aa850fd03399ae382d583d13a4f3fb02090b"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12288-de-30-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.288 de 30 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-30-12288",
+      "data": "1996-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12285-de-27-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.285 de 27 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-27-12285",
+      "data": "1996-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12284-de-27-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.284 de 27 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-27-12284",
+      "data": "1996-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12283-de-27-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.283 de 27 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-27-12283",
+      "data": "1996-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12286-de-27-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.286 de 27 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-27-12286",
+      "data": "1996-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12282-de-26-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.282 de 26 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-26-12282",
+      "data": "1996-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12281-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.281 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12281",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12279-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.279 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12279",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12278-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.278 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12278",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12277-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.277 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12277",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12276-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.276 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12276",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12274-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.274 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12274",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12269-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.269 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12269",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12280-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.280 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12280",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12275-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.275 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12275",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12273-de-13-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.273 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12273",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12272-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.272 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12272",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12271-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.271 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12271",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12270-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.270 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12270",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12268-de-19-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.268 de 19 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-19-12268",
+      "data": "1996-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12267-de-18-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.267 de 18 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-18-12267",
+      "data": "1996-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12266-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.266 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12266",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12262-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.262 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12262",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12261-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.261 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12261",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12259-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.259 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12259",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12258-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.258 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12258",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12257-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.257 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12257",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12256-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.256 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12256",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12255-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.255 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12255",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12254-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.254 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12254",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12253-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.253 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12253",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12252-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.252 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12252",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12251-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.251 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12251",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12249-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.249 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12249",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12248-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.248 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12248",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12265-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.265 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12265",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12264-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.264 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12264",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12263-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.263 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12263",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12260-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.260 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12260",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12250-de-11-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.250 de 11 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-11-12250",
+      "data": "1996-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12247-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.247 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12247",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12246-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.246 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12246",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12245-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.245 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12245",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12244-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.244 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12244",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12243-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.243 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12243",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12242-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.242 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12242",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12241-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.241 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12241",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12240-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.240 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12240",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12239-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.239 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12239",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12238-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.238 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12238",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12237-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.237 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12237",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12236-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.236 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12236",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12235-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.235 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12235",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12234-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.234 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12234",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12233-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.233 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12233",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12232-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.232 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12232",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12231-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.231 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12231",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12230-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.230 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12230",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12229-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.229 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12229",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12228-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.228 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12228",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12227-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.227 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12227",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12226-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.226 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12226",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12225-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.225 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12225",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12224-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.224 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12224",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12223-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.223 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12223",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12222-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.222 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12222",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12221-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.221 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12221",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12220-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.220 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12220",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12219-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.219 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12219",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12218-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.218 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12218",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12217-de-2-de-dezembro-de-1996",
+      "titulo": "LEI Nº 12.217 de 2 de Dezembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-12-02-12217",
+      "data": "1996-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12216-de-28-de-novembro-de-1996",
+      "titulo": "LEI Nº 12.216 de 28 de Novembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-11-28-12216",
+      "data": "1996-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12215-de-13-de-novembro-de-1996",
+      "titulo": "LEI Nº 12.215 de 13 de Novembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-11-13-12215",
+      "data": "1996-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12214-de-13-de-novembro-de-1996",
+      "titulo": "LEI Nº 12.214 de 13 de Novembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-11-13-12214",
+      "data": "1996-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12213-de-30-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.213 de 30 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-30-12213",
+      "data": "1996-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12212-de-24-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.212 de 24 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-24-12212",
+      "data": "1996-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12211-de-24-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.211 de 24 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-24-12211",
+      "data": "1996-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12210-de-24-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.210 de 24 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-24-12210",
+      "data": "1996-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12208-de-24-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.208 de 24 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-24-12208",
+      "data": "1996-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12207-de-24-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.207 de 24 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-24-12207",
+      "data": "1996-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12209-de-24-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.209 de 24 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-24-12209",
+      "data": "1996-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12206-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.206 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12206",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12205-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.205 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12205",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12204-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.204 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12204",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12203-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.203 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12203",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12202-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.202 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12202",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12201-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.201 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12201",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12200-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.200 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12200",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12199-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.199 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12199",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12198-de-7-de-outubro-de-1996",
+      "titulo": "LEI Nº 12.198 de 7 de Outubro de 1996",
+      "id": "br-municipal-3550308-lei-1996-10-07-12198",
+      "data": "1996-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12197-de-18-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.197 de 18 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-18-12197",
+      "data": "1996-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12196-de-18-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.196 de 18 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-18-12196",
+      "data": "1996-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12195-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.195 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12195",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12194-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.194 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12194",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12193-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.193 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12193",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12192-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.192 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12192",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12191-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.191 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12191",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12190-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.190 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12190",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12189-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.189 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12189",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12188-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.188 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12188",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12187-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.187 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12187",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12186-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.186 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12186",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12185-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.185 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12185",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12184-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.184 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12184",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12183-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.183 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12183",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12182-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.182 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12182",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12181-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.181 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12181",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12180-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.180 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12180",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12179-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.179 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12179",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12178-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.178 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12178",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12177-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.177 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12177",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12176-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.176 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12176",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12175-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.175 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12175",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12174-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.174 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12174",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12173-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.173 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12173",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12172-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.172 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12172",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12171-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.171 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12171",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12170-de-16-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.170 de 16 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-16-12170",
+      "data": "1996-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12169-de-6-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.169 de 6 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-06-12169",
+      "data": "1996-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12168-de-6-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.168 de 6 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-06-12168",
+      "data": "1996-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12167-de-6-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.167 de 6 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-06-12167",
+      "data": "1996-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12166-de-6-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.166 de 6 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-06-12166",
+      "data": "1996-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12165-de-6-de-setembro-de-1996",
+      "titulo": "LEI Nº 12.165 de 6 de Setembro de 1996",
+      "id": "br-municipal-3550308-lei-1996-09-06-12165",
+      "data": "1996-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12164-de-20-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.164 de 20 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-20-12164",
+      "data": "1996-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12163-de-20-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.163 de 20 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-20-12163",
+      "data": "1996-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12162-de-20-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.162 de 20 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-20-12162",
+      "data": "1996-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12161-de-20-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.161 de 20 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-20-12161",
+      "data": "1996-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12160-de-20-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.160 de 20 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-20-12160",
+      "data": "1996-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12159-de-20-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.159 de 20 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-20-12159",
+      "data": "1996-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12158-de-14-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.158 de 14 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-14-12158",
+      "data": "1996-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12157-de-9-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.157 de 9 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-09-12157",
+      "data": "1996-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12156-de-1-de-agosto-de-1996",
+      "titulo": "LEI Nº 12.156 de 1 de Agosto de 1996",
+      "id": "br-municipal-3550308-lei-1996-08-01-12156",
+      "data": "1996-08-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12155-de-30-de-julho-de-1996",
+      "titulo": "LEI Nº 12.155 de 30 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-30-12155",
+      "data": "1996-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12154-de-30-de-julho-de-1996",
+      "titulo": "LEI Nº 12.154 de 30 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-30-12154",
+      "data": "1996-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12153-de-29-de-julho-de-1996",
+      "titulo": "LEI Nº 12.153 de 29 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-29-12153",
+      "data": "1996-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12152-de-23-de-julho-de-1996",
+      "titulo": "LEI Nº 12.152 de 23 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-23-12152",
+      "data": "1996-07-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12151-de-19-de-julho-de-1996",
+      "titulo": "LEI Nº 12.151 de 19 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-19-12151",
+      "data": "1996-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12150-de-19-de-julho-de-1996",
+      "titulo": "LEI Nº 12.150 de 19 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-19-12150",
+      "data": "1996-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12149-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.149 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12149",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12148-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.148 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12148",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12147-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.147 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12147",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12146-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.146 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12146",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12145-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.145 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12145",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12144-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.144 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12144",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12143-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.143 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12143",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12142-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.142 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12142",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12141-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.141 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12141",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12139-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.139 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12139",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12137-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.137 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12137",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12136-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.136 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12136",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12135-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.135 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12135",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12134-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.134 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12134",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12133-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.133 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12133",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12132-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.132 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12132",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12131-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.131 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12131",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12130-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.130 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12130",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12129-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.129 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12129",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12128-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.128 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12128",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12127-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.127 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12127",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12125-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.125 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12125",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12124-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.124 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12124",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12123-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.123 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12123",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12140-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.140 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12140",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12138-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.138 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12138",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12126-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.126 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12126",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12122-de-5-de-julho-de-1996",
+      "titulo": "LEI Nº 12.122 de 5 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-05-12122",
+      "data": "1996-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12121-de-1-de-julho-de-1996",
+      "titulo": "LEI Nº 12.121 de 1 de Julho de 1996",
+      "id": "br-municipal-3550308-lei-1996-07-01-12121",
+      "data": "1996-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12120-de-28-de-junho-de-1996",
+      "titulo": "LEI Nº 12.120 de 28 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-28-12120",
+      "data": "1996-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12119-de-28-de-junho-de-1996",
+      "titulo": "LEI Nº 12.119 de 28 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-28-12119",
+      "data": "1996-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12118-de-28-de-junho-de-1996",
+      "titulo": "LEI Nº 12.118 de 28 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-28-12118",
+      "data": "1996-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12116-de-28-de-junho-de-1996",
+      "titulo": "LEI Nº 12.116 de 28 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-28-12116",
+      "data": "1996-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12115-de-28-de-junho-de-1996",
+      "titulo": "LEI Nº 12.115 de 28 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-28-12115",
+      "data": "1996-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12117-de-28-de-junho-de-1996",
+      "titulo": "LEI Nº 12.117 de 28 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-28-12117",
+      "data": "1996-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12114-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.114 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12114",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12113-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.113 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12113",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12112-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.112 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12112",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12111-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.111 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12111",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12110-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.110 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12110",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12109-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.109 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12109",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12108-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.108 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12108",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12107-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.107 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12107",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12106-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.106 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12106",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12105-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.105 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12105",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12104-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.104 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12104",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12103-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.103 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12103",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12102-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.102 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12102",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12101-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.101 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12101",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12100-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.100 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12100",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12099-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.099 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12099",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12098-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.098 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12098",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12097-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.097 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12097",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12096-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.096 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12096",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12094-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.094 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12094",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12093-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.093 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12093",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12092-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.092 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12092",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12095-de-25-de-junho-de-1996",
+      "titulo": "LEI Nº 12.095 de 25 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-25-12095",
+      "data": "1996-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12091-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.091 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12091",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12090-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.090 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12090",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12089-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.089 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12089",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12088-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.088 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12088",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12087-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.087 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12087",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12086-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.086 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12086",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12085-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.085 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12085",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12084-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.084 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12084",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12083-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.083 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12083",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12082-de-24-de-junho-de-1996",
+      "titulo": "LEI Nº 12.082 de 24 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-24-12082",
+      "data": "1996-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12080-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.080 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12080",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12079-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.079 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12079",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12078-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.078 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12078",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12077-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.077 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12077",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12075-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.075 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12075",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12074-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.074 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12074",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12081-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.081 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12081",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12076-de-13-de-junho-de-1996",
+      "titulo": "LEI Nº 12.076 de 13 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-13-12076",
+      "data": "1996-06-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12073-de-10-de-junho-de-1996",
+      "titulo": "LEI Nº 12.073 de 10 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-10-12073",
+      "data": "1996-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12072-de-4-de-junho-de-1996",
+      "titulo": "LEI Nº 12.072 de 4 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-04-12072",
+      "data": "1996-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12071-de-4-de-junho-de-1996",
+      "titulo": "LEI Nº 12.071 de 4 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-04-12071",
+      "data": "1996-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12070-de-4-de-junho-de-1996",
+      "titulo": "LEI Nº 12.070 de 4 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-04-12070",
+      "data": "1996-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12069-de-4-de-junho-de-1996",
+      "titulo": "LEI Nº 12.069 de 4 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-04-12069",
+      "data": "1996-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12068-de-3-de-junho-de-1996",
+      "titulo": "LEI Nº 12.068 de 3 de Junho de 1996",
+      "id": "br-municipal-3550308-lei-1996-06-03-12068",
+      "data": "1996-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12067-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.067 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12067",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12066-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.066 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12066",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12065-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.065 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12065",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12064-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.064 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12064",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12063-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.063 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12063",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12062-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.062 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12062",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12060-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.060 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12060",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12059-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.059 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12059",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12061-de-24-de-maio-de-1996",
+      "titulo": "LEI Nº 12.061 de 24 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-24-12061",
+      "data": "1996-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12058-de-15-de-maio-de-1996",
+      "titulo": "LEI Nº 12.058 de 15 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-15-12058",
+      "data": "1996-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12057-de-15-de-maio-de-1996",
+      "titulo": "LEI Nº 12.057 de 15 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-15-12057",
+      "data": "1996-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12056-de-9-de-maio-de-1996",
+      "titulo": "LEI Nº 12.056 de 9 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-09-12056",
+      "data": "1996-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12054-de-9-de-maio-de-1996",
+      "titulo": "LEI Nº 12.054 de 9 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-09-12054",
+      "data": "1996-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12053-de-9-de-maio-de-1996",
+      "titulo": "LEI Nº 12.053 de 9 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-09-12053",
+      "data": "1996-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12055-de-9-de-maio-de-1996",
+      "titulo": "LEI Nº 12.055 de 9 de Maio de 1996",
+      "id": "br-municipal-3550308-lei-1996-05-09-12055",
+      "data": "1996-05-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12052-de-30-de-abril-de-1996",
+      "titulo": "LEI Nº 12.052 de 30 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-30-12052",
+      "data": "1996-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12051-de-30-de-abril-de-1996",
+      "titulo": "LEI Nº 12.051 de 30 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-30-12051",
+      "data": "1996-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12050-de-30-de-abril-de-1996",
+      "titulo": "LEI Nº 12.050 de 30 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-30-12050",
+      "data": "1996-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12049-de-30-de-abril-de-1996",
+      "titulo": "LEI Nº 12.049 de 30 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-30-12049",
+      "data": "1996-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12048-de-25-de-abril-de-1996",
+      "titulo": "LEI Nº 12.048 de 25 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-25-12048",
+      "data": "1996-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12047-de-25-de-abril-de-1996",
+      "titulo": "LEI Nº 12.047 de 25 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-25-12047",
+      "data": "1996-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12046-de-23-de-abril-de-1996",
+      "titulo": "LEI Nº 12.046 de 23 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-23-12046",
+      "data": "1996-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12045-de-17-de-abril-de-1996",
+      "titulo": "LEI Nº 12.045 de 17 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-17-12045",
+      "data": "1996-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12043-de-17-de-abril-de-1996",
+      "titulo": "LEI Nº 12.043 de 17 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-17-12043",
+      "data": "1996-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12044-de-17-de-abril-de-1996",
+      "titulo": "LEI Nº 12.044 de 17 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-17-12044",
+      "data": "1996-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12042-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.042 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12042",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12041-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.041 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12041",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12040-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.040 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12040",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12039-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.039 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12039",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12038-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.038 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12038",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12037-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.037 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12037",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12036-de-11-de-abril-de-1996",
+      "titulo": "LEI Nº 12.036 de 11 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-11-12036",
+      "data": "1996-04-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12035-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.035 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12035",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12034-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.034 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12034",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12033-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.033 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12033",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12032-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.032 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12032",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12031-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.031 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12031",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12029-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.029 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12029",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12028-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.028 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12028",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12027-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.027 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12027",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12026-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.026 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12026",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12025-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.025 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12025",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12024-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.024 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12024",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12023-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.023 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12023",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12022-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.022 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12022",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12021-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.021 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12021",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12019-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.019 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12019",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12018-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.018 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12018",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12017-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.017 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12017",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12016-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.016 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12016",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12015-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.015 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12015",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12014-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.014 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12014",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12030-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.030 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12030",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12020-de-2-de-abril-de-1996",
+      "titulo": "LEI Nº 12.020 de 2 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-02-12020",
+      "data": "1996-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12013-de-1-de-abril-de-1996",
+      "titulo": "LEI Nº 12.013 de 1 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-01-12013",
+      "data": "1996-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12012-de-1-de-abril-de-1996",
+      "titulo": "LEI Nº 12.012 de 1 de Abril de 1996",
+      "id": "br-municipal-3550308-lei-1996-04-01-12012",
+      "data": "1996-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12011-de-15-de-marco-de-1996",
+      "titulo": "LEI Nº 12.011 de 15 de Março de 1996",
+      "id": "br-municipal-3550308-lei-1996-03-15-12011",
+      "data": "1996-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12010-de-4-de-marco-de-1996",
+      "titulo": "LEI Nº 12.010 de 4 de Março de 1996",
+      "id": "br-municipal-3550308-lei-1996-03-04-12010",
+      "data": "1996-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12009-de-26-de-fevereiro-de-1996",
+      "titulo": "LEI Nº 12.009 de 26 de Fevereiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-02-26-12009",
+      "data": "1996-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12008-de-26-de-fevereiro-de-1996",
+      "titulo": "LEI Nº 12.008 de 26 de Fevereiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-02-26-12008",
+      "data": "1996-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12007-de-26-de-fevereiro-de-1996",
+      "titulo": "LEI Nº 12.007 de 26 de Fevereiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-02-26-12007",
+      "data": "1996-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12006-de-26-de-fevereiro-de-1996",
+      "titulo": "LEI Nº 12.006 de 26 de Fevereiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-02-26-12006",
+      "data": "1996-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12005-de-26-de-fevereiro-de-1996",
+      "titulo": "LEI Nº 12.005 de 26 de Fevereiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-02-26-12005",
+      "data": "1996-02-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12004-de-31-de-janeiro-de-1996",
+      "titulo": "LEI Nº 12.004 de 31 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-31-12004",
+      "data": "1996-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12003-de-30-de-janeiro-de-1996",
+      "titulo": "LEI Nº 12.003 de 30 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-30-12003",
+      "data": "1996-01-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12002-de-23-de-janeiro-de-1996",
+      "titulo": "LEI Nº 12.002 de 23 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-23-12002",
+      "data": "1996-01-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12001-de-18-de-janeiro-de-1996",
+      "titulo": "LEI Nº 12.001 de 18 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-18-12001",
+      "data": "1996-01-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12000-de-17-de-janeiro-de-1996",
+      "titulo": "LEI Nº 12.000 de 17 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-17-12000",
+      "data": "1996-01-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11999-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.999 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11999",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11998-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.998 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11998",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11994-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.994 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11994",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11993-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.993 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11993",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11992-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.992 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11992",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11991-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.991 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11991",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11990-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.990 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11990",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11989-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.989 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11989",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11986-de-16-de-janeiro-de-1996",
+      "titulo": "Lei Nº 11.986 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11986",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11985-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.985 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11985",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11984-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.984 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11984",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11997-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.997 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11997",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11996-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.996 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11996",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11995-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.995 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11995",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11988-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.988 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11988",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11987-de-16-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.987 de 16 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-16-11987",
+      "data": "1996-01-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11983-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.983 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11983",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11981-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.981 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11981",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11980-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.980 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11980",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11979-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.979 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11979",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11977-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.977 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11977",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11982-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.982 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11982",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11978-de-15-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.978 de 15 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-15-11978",
+      "data": "1996-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11976-de-11-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.976 de 11 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-11-11976",
+      "data": "1996-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11975-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.975 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11975",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11974-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.974 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11974",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11973-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.973 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11973",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11972-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.972 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11972",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11971-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.971 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11971",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11970-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.970 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11970",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11969-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.969 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11969",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11968-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.968 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11968",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11967-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.967 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11967",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11966-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.966 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11966",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11965-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.965 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11965",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11964-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.964 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11964",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11963-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.963 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11963",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11962-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.962 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11962",
+      "data": "1996-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11961-de-4-de-janeiro-de-1996",
+      "titulo": "LEI Nº 11.961 de 4 de Janeiro de 1996",
+      "id": "br-municipal-3550308-lei-1996-01-04-11961",
+      "data": "1996-01-04"
+    }
+  ],
+  "pendencias": []
+}

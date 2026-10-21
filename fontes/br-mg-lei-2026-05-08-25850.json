@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-08-25850",
+  "titulo": "LEI nº 25850, de 08/05/2026",
+  "data": "2026-05-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25850/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25850/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "18ca4a2c3457206b2091fd3f499efa5269d161fa23c0a14e98861862ea0c76eb",
+  "coletado_em": "2026-10-21T08:26:58.081Z",
+  "sha256_fonte": "a65af0c8e286952af0c9529e8cb5def6524c32f6f7ae038e59c066f2533f1cbe",
+  "sha256_markdown": "6681edd52296a4081421f56878c75c3c5a65d5dec848f257341050129c04dfa8"
+}

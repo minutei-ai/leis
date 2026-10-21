@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2009",
+  "tipo": "EMC",
+  "ano": 2009,
+  "coletado_em": "2026-10-21T08:39:41.838Z",
+  "normas": [
+    {
+      "senadoId": "540665",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2009-12-09-62",
+      "titulo": "Emenda Constitucional nº 62 de 09/12/2009",
+      "data": "2009-12-09",
+      "numero": "62",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2009-12-09;62",
+      "ementa": "Altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios."
+    },
+    {
+      "senadoId": "540664",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2009-11-11-61",
+      "titulo": "Emenda Constitucional nº 61 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "61",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2009-11-11;61",
+      "ementa": "Altera o art. 103-B da Constituição Federal, para modificar a composição do Conselho Nacional de Justiça."
+    },
+    {
+      "senadoId": "540663",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2009-11-11-60",
+      "titulo": "Emenda Constitucional nº 60 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "60",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2009-11-11;60",
+      "ementa": "Altera o art. 89 do Ato das Disposições Constitucionais Transitórias para dispor sobre o quadro de servidores civis e militares do ex-Território Federal de Rondônia."
+    },
+    {
+      "senadoId": "540662",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2009-11-11-59",
+      "titulo": "Emenda Constitucional nº 59 de 11/11/2009",
+      "data": "2009-11-11",
+      "numero": "59",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2009-11-11;59",
+      "ementa": "Acrescenta § 3º ao art. 76 do Ato das Disposições Constitucionais Transitórias para reduzir, anualmente, a partir do exercício de 2009, o percentual da Desvinculação das Receitas da União incidente sobre os recursos destinados à manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal, dá nova redação aos incisos I e VII do art. 208, de forma a prever a obrigatoriedade do ensino de quatro a dezessete anos e ampliar a abrangência dos programas suplementares para todas as etapas da educação básica, e dá nova redação ao § 4º do art. 211 e ao § 3º do art. 212 e ao caput do art. 214, com a inserção neste dispositivo de inciso VI."
+    },
+    {
+      "senadoId": "540661",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2009-09-23-58",
+      "titulo": "Emenda Constitucional nº 58 de 23/09/2009",
+      "data": "2009-09-23",
+      "numero": "58",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2009-09-23;58",
+      "ementa": "Altera a redação do inciso IV do caput do art. 29 e do art. 29-A da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais."
+    }
+  ],
+  "pendencias": []
+}

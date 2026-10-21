@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-10-04-13722",
+  "titulo": "Lei nº 13.722 de 04/10/2018",
+  "data": "2018-10-04",
+  "fonte": "https://normas.leg.br/api/public/binario/4bf395ea-4218-42ea-bb97-147a8393c041/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-10-04;13722",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-10-04%3B13722&tipo_documento=maior-detalhe",
+  "sha256_dados": "4a77beb5b5cd3430c86dfcf4947e7a6453ff4b2b34904cbd6f8f727537f8b294",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:20.414Z",
+  "sha256_fonte": "75fd24fceeb68efd1601d5a4f68b3d1179e6488a472b45fbac9c24258d0c9391",
+  "sha256_markdown": "a3ebae6fa702d4c0d5648a16b162e414cc925490ac9a7852578daa8bb88d9af8"
+}

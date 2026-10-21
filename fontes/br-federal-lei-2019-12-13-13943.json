@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-13-13943",
+  "titulo": "Lei nº 13.943 de 13/12/2019",
+  "data": "2019-12-13",
+  "fonte": "https://normas.leg.br/api/public/binario/95285649-fce2-47d4-badb-24e738d8fda7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-13;13943",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-13%3B13943&tipo_documento=maior-detalhe",
+  "sha256_dados": "acfdad856626455a17988afb536e43d1484bae0efc8cc38355bae5d69c94fb0d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:31.455Z",
+  "sha256_fonte": "bc9849ff0683884bda25bde202881a5396212a5e5a6706fc7dfdcf9c93be549c",
+  "sha256_markdown": "6f83ba7f10087253e276e8767b7c696e6b105a64ff6d9032efee3adbf58ba5d1"
+}

@@ -1,0 +1,848 @@
+{
+  "ano_publicacao": 1961,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1961",
+    "ano-final": "31/12/1961",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:55.801Z",
+  "total": 137,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "193752b7e79c9bba273f1212faaba7b9b8713de0b58933d672fef62c5d207eee"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "b70b1af51f90a7efff53e24297e63b5a9e5474a729140a548518d7fa8b379d46"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5925-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.925 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5925",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5924-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.924 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5924",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5923-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.923 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5923",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5922-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.922 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5922",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5921-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.921 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5921",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5920-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.920 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5920",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5919-de-28-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.919 de 28 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-28-5919",
+      "data": "1961-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5918-de-26-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.918 de 26 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-26-5918",
+      "data": "1961-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5917-de-26-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.917 de 26 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-26-5917",
+      "data": "1961-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5916-de-21-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.916 de 21 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-21-5916",
+      "data": "1961-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5915-de-21-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.915 de 21 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-21-5915",
+      "data": "1961-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5914-de-21-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.914 de 21 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-21-5914",
+      "data": "1961-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5913-de-21-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.913 de 21 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-21-5913",
+      "data": "1961-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5912-de-20-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.912 de 20 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-20-5912",
+      "data": "1961-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5911-de-20-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.911 de 20 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-20-5911",
+      "data": "1961-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5910-de-20-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.910 de 20 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-20-5910",
+      "data": "1961-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5909-de-18-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.909 de 18 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-18-5909",
+      "data": "1961-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5908-de-18-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.908 de 18 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-18-5908",
+      "data": "1961-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5907-de-18-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.907 de 18 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-18-5907",
+      "data": "1961-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5906-de-18-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.906 de 18 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-18-5906",
+      "data": "1961-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5905-de-18-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.905 de 18 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-18-5905",
+      "data": "1961-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5904-de-16-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.904 de 16 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-16-5904",
+      "data": "1961-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5903-de-14-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.903 de 14 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-14-5903",
+      "data": "1961-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5902-de-14-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.902 de 14 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-14-5902",
+      "data": "1961-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5901-de-12-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.901 de 12 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-12-5901",
+      "data": "1961-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5900-de-12-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.900 de 12 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-12-5900",
+      "data": "1961-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5899-de-12-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.899 de 12 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-12-5899",
+      "data": "1961-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5898-de-11-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.898 de 11 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-11-5898",
+      "data": "1961-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5897-de-7-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.897 de 7 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-07-5897",
+      "data": "1961-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5896-de-7-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.896 de 7 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-07-5896",
+      "data": "1961-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5895-de-7-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.895 de 7 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-07-5895",
+      "data": "1961-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5894-de-7-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.894 de 7 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-07-5894",
+      "data": "1961-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5893-de-6-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.893 de 6 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-06-5893",
+      "data": "1961-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5892-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.892 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5892",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5891-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.891 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5891",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5890-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.890 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5890",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5889-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.889 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5889",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5888-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.888 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5888",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5886-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.886 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5886",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5887-de-4-de-dezembro-de-1961",
+      "titulo": "LEI Nº 5.887 de 4 de Dezembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-12-04-5887",
+      "data": "1961-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5885-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.885 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5885",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5884-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.884 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5884",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5883-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.883 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5883",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5882-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.882 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5882",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5881-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.881 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5881",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5879-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.879 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5879",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5878-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.878 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5878",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5877-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.877 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5877",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5876-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.876 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5876",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5875-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.875 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5875",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5874-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.874 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5874",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5872-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.872 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5872",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5880-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.880 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5880",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5873-de-30-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.873 de 30 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-30-5873",
+      "data": "1961-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5871-de-29-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.871 de 29 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-29-5871",
+      "data": "1961-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5870-de-28-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.870 de 28 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-28-5870",
+      "data": "1961-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5869-de-23-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.869 de 27 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-27-5869",
+      "data": "1961-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5868-de-23-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.868 de 23 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-23-5868",
+      "data": "1961-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5867-de-21-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.867 de 21 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-21-5867",
+      "data": "1961-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5866-de-21-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.866 de 21 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-21-5866",
+      "data": "1961-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5865-de-21-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.865 de 21 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-21-5865",
+      "data": "1961-11-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5864-de-17-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.864 de 17 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-17-5864",
+      "data": "1961-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5863-de-16-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.863 de 16 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-16-5863",
+      "data": "1961-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5859-de-14-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.859 de 14 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-14-5859",
+      "data": "1961-11-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5862-de-13-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.862 de 13 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-13-5862",
+      "data": "1961-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5861-de-13-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.861 de 13 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-13-5861",
+      "data": "1961-11-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5860-de-12-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.860 de 12 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-12-5860",
+      "data": "1961-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5858-de-10-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.858 de 10 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-10-5858",
+      "data": "1961-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5857-de-10-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.857 de 10 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-10-5857",
+      "data": "1961-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5856-de-10-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.856 de 10 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-10-5856",
+      "data": "1961-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5855-de-7-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.855 de 7 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-07-5855",
+      "data": "1961-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5854-de-7-de-novembro-de-1961",
+      "titulo": "LEI Nº 5.854 de 7 de Novembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-11-07-5854",
+      "data": "1961-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5853-de-30-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.853 de 30 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-30-5853",
+      "data": "1961-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5852-de-26-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.852 de 26 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-26-5852",
+      "data": "1961-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5851-de-25-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.851 de 25 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-25-5851",
+      "data": "1961-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5849-de-24-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.849 de 24 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-24-5849",
+      "data": "1961-10-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5850-de-23-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.850 de 23 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-23-5850",
+      "data": "1961-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5848-de-19-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.848 de 19 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-19-5848",
+      "data": "1961-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5847-de-19-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.847 de 19 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-19-5847",
+      "data": "1961-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5846-de-19-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.846 de 19 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-19-5846",
+      "data": "1961-10-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5845-de-18-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.845 de 18 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-18-5845",
+      "data": "1961-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5844-de-13-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.844 de 13 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-13-5844",
+      "data": "1961-10-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5843-de-13-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.843 de 13 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-13-5843",
+      "data": "1961-10-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5842-de-11-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.842 de 11 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-11-5842",
+      "data": "1961-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5841-de-11-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.841 de 11 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-11-5841",
+      "data": "1961-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5840-de-11-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.840 de 11 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-11-5840",
+      "data": "1961-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5839-de-7-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.839 de 7 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-07-5839",
+      "data": "1961-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5838-de-6-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.838 de 6 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-06-5838",
+      "data": "1961-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5837-de-6-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.837 de 6 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-06-5837",
+      "data": "1961-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5836-de-6-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.836 de 6 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-06-5836",
+      "data": "1961-10-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5835-de-3-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.835 de 3 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-03-5835",
+      "data": "1961-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5834-de-3-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.834 de 3 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-03-5834",
+      "data": "1961-10-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5833-de-2-de-outubro-de-1961",
+      "titulo": "LEI Nº 5.833 de 2 de Outubro de 1961",
+      "id": "br-municipal-3550308-lei-1961-10-02-5833",
+      "data": "1961-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5832-de-29-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.832 de 29 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-29-5832",
+      "data": "1961-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5831-de-27-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.831 de 27 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-27-5831",
+      "data": "1961-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5830-de-27-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.830 de 27 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-27-5830",
+      "data": "1961-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5828-de-8-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.828 de 8 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-08-5828",
+      "data": "1961-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5829-de-8-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.829 de 8 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-08-5829",
+      "data": "1961-09-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5827-de-6-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.827 de 6 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-06-5827",
+      "data": "1961-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5826-de-6-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.826 de 6 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-06-5826",
+      "data": "1961-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5825-de-6-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.825 de 6 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-06-5825",
+      "data": "1961-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5824-de-1-de-setembro-de-1961",
+      "titulo": "LEI Nº 5.824 de 1 de Setembro de 1961",
+      "id": "br-municipal-3550308-lei-1961-09-01-5824",
+      "data": "1961-09-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5823-de-30-de-agosto-de-1961",
+      "titulo": "LEI Nº 5.823 de 30 de Agosto de 1961",
+      "id": "br-municipal-3550308-lei-1961-08-30-5823",
+      "data": "1961-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5822-de-17-de-agosto-de-1961",
+      "titulo": "LEI Nº 5.822 de 17 de Agosto de 1961",
+      "id": "br-municipal-3550308-lei-1961-08-17-5822",
+      "data": "1961-08-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5821-de-6-de-julho-de-1961",
+      "titulo": "LEI Nº 5.821 de 6 de Julho de 1961",
+      "id": "br-municipal-3550308-lei-1961-07-06-5821",
+      "data": "1961-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5820-de-26-de-junho-de-1961",
+      "titulo": "LEI Nº 5.820 de 26 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-26-5820",
+      "data": "1961-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5818-de-22-de-junho-de-1961",
+      "titulo": "LEI Nº 5.818 de 22 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-22-5818",
+      "data": "1961-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5817-de-22-de-junho-de-1961",
+      "titulo": "LEI Nº 5.817 de 22 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-22-5817",
+      "data": "1961-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5819-de-22-de-junho-de-1961",
+      "titulo": "LEI Nº 5.819 de 22 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-22-5819",
+      "data": "1961-06-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5816-de-14-de-junho-de-1961",
+      "titulo": "LEI Nº 5.816 de 14 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-14-5816",
+      "data": "1961-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5815-de-14-de-junho-de-1961",
+      "titulo": "LEI Nº 5.815 de 14 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-14-5815",
+      "data": "1961-06-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5814-de-8-de-junho-de-1961",
+      "titulo": "LEI Nº 5.814 de 8 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-08-5814",
+      "data": "1961-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5813-de-7-de-junho-de-1961",
+      "titulo": "LEI Nº 5.813 de 7 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-07-5813",
+      "data": "1961-06-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5812-de-6-de-junho-de-1961",
+      "titulo": "LEI Nº 5.812 de 6 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-06-5812",
+      "data": "1961-06-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5811-de-2-de-junho-de-1961",
+      "titulo": "LEI Nº 5.811 de 2 de Junho de 1961",
+      "id": "br-municipal-3550308-lei-1961-06-02-5811",
+      "data": "1961-06-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5810-de-31-de-maio-de-1961",
+      "titulo": "LEI Nº 5.810 de 31 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-31-5810",
+      "data": "1961-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5809-de-31-de-maio-de-1961",
+      "titulo": "LEI Nº 5.809 de 31 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-31-5809",
+      "data": "1961-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5808-de-31-de-maio-de-1961",
+      "titulo": "LEI Nº 5.808 de 31 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-31-5808",
+      "data": "1961-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5807-de-23-de-maio-de-1961",
+      "titulo": "LEI Nº 5.807 de 23 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-23-5807",
+      "data": "1961-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5806-de-23-de-maio-de-1961",
+      "titulo": "LEI Nº 5.806 de 23 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-23-5806",
+      "data": "1961-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5805-de-10-de-maio-de-1961",
+      "titulo": "LEI Nº 5.805 de 10 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-10-5805",
+      "data": "1961-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5804-de-10-de-maio-de-1961",
+      "titulo": "LEI Nº 5.804 de 10 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-10-5804",
+      "data": "1961-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5803-de-10-de-maio-de-1961",
+      "titulo": "LEI Nº 5.803 de 10 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-10-5803",
+      "data": "1961-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5802-de-10-de-maio-de-1961",
+      "titulo": "LEI Nº 5.802 de 10 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-10-5802",
+      "data": "1961-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5801-de-8-de-maio-de-1961",
+      "titulo": "LEI Nº 5.801 de 8 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-08-5801",
+      "data": "1961-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5800-de-8-de-maio-de-1961",
+      "titulo": "LEI Nº 5.800 de 8 de Maio de 1961",
+      "id": "br-municipal-3550308-lei-1961-05-08-5800",
+      "data": "1961-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5799-de-18-de-abril-de-1961",
+      "titulo": "LEI Nº 5.799 de 18 de Abril de 1961",
+      "id": "br-municipal-3550308-lei-1961-04-18-5799",
+      "data": "1961-04-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5798-de-3-de-abril-de-1961",
+      "titulo": "LEI Nº 5.798 de 3 de Abril de 1961",
+      "id": "br-municipal-3550308-lei-1961-04-03-5798",
+      "data": "1961-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5797-de-29-de-marco-de-1961",
+      "titulo": "LEI Nº 5.797 de 29 de Março de 1961",
+      "id": "br-municipal-3550308-lei-1961-03-29-5797",
+      "data": "1961-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5796-de-16-de-marco-de-1961",
+      "titulo": "LEI Nº 5.796 de 16 de Março de 1961",
+      "id": "br-municipal-3550308-lei-1961-03-16-5796",
+      "data": "1961-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5795-de-23-de-fevereiro-de-1961",
+      "titulo": "LEI Nº 5.795 de 23 de Fevereiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-02-23-5795",
+      "data": "1961-02-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5794-de-7-de-janeiro-de-1961",
+      "titulo": "LEI Nº 5.794 de 7 de Janeiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-01-07-5794",
+      "data": "1961-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5793-de-5-de-janeiro-de-1961",
+      "titulo": "LEI Nº 5.793 de 5 de Janeiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-01-05-5793",
+      "data": "1961-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5792-de-4-de-janeiro-de-1961",
+      "titulo": "LEI Nº 5.792 de 4 de Janeiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-01-04-5792",
+      "data": "1961-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5791-de-3-de-janeiro-de-1961",
+      "titulo": "LEI Nº 5.791 de 3 de Janeiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-01-03-5791",
+      "data": "1961-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5790-de-3-de-janeiro-de-1961",
+      "titulo": "LEI Nº 5.790 de 3 de Janeiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-01-03-5790",
+      "data": "1961-01-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-5789-de-3-de-janeiro-de-1961",
+      "titulo": "LEI Nº 5.789 de 3 de Janeiro de 1961",
+      "id": "br-municipal-3550308-lei-1961-01-03-5789",
+      "data": "1961-01-03"
+    }
+  ],
+  "pendencias": []
+}

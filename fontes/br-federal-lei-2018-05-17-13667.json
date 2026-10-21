@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-05-17-13667",
+  "titulo": "Lei nº 13.667 de 17/05/2018",
+  "data": "2018-05-17",
+  "fonte": "https://normas.leg.br/api/public/binario/34ee95a6-2d96-4013-b554-b7451217a804/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-05-17;13667",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-05-17%3B13667&tipo_documento=maior-detalhe",
+  "sha256_dados": "49e45c6105175575965f5cd35714349e598d385b55ee8b588675673c1d015159",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:35.617Z",
+  "sha256_fonte": "a5ffcdff45dcc5bc94ce7bb026eba96c4b9ea5d2605db46f0c2119c989d17005",
+  "sha256_markdown": "6c152713c6c217b0b6885552aea83a723b7ea8483bc7a87a70851f14608801fa"
+}

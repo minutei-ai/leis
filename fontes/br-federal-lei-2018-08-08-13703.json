@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-08-08-13703",
+  "titulo": "Lei nº 13.703 de 08/08/2018",
+  "data": "2018-08-08",
+  "fonte": "https://normas.leg.br/api/public/binario/4b016d53-cb57-4d70-8376-92e7f18f8220/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-08-08;13703",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-08-08%3B13703&tipo_documento=maior-detalhe",
+  "sha256_dados": "381acbb7f5dbc514f7db81ae1bc271d040a089e0d17f14700cf7224d0dbbb17d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:47.157Z",
+  "sha256_fonte": "fdd146144f588616ba49a435794de612bf89fcbad94cbef68025b145d086b5e6",
+  "sha256_markdown": "073e15c5b714f363da05bc99ef5a3d673b75d59919835858083ba5a89b38ce5b"
+}

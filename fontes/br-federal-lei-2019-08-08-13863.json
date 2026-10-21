@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-08-08-13863",
+  "titulo": "Lei nº 13.863 de 08/08/2019",
+  "data": "2019-08-08",
+  "fonte": "https://normas.leg.br/api/public/binario/16f5aaca-cc06-4dcb-800b-9b603615bcc0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-08-08;13863",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-08-08%3B13863&tipo_documento=maior-detalhe",
+  "sha256_dados": "1eb1a1139ff539b70e6f01b97e20b9aad6a4ec3887c51aa75a029d1247282e8e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:46:19.413Z",
+  "sha256_fonte": "32c8de050b0e7d4726d8b403a40551a3ce8453edc5d105af913e6c1647909b8c",
+  "sha256_markdown": "f370be58dfe7e4316dffe07967ef320751ff8ae53248c3a015d5605a8ba6047a"
+}

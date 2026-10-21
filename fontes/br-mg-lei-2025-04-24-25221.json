@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-04-24-25221",
+  "titulo": "LEI nº 25221, de 24/04/2025",
+  "data": "2025-04-24",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25221/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25221/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "0f194b8a84d9a2ee7da22ab38fc93d44ee47f3588e6855792ae36f57782a0c67",
+  "coletado_em": "2026-10-21T08:30:59.392Z",
+  "sha256_fonte": "01042d41e191d2372d2492b181ee2a1545ace0772d40ba8ee5562b11038c2091",
+  "sha256_markdown": "08ef53d3aa3d9d644630bdbc3285e5636614648aa083cce1d84d513c5a893ff6"
+}

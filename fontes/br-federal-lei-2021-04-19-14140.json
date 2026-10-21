@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-04-19-14140",
+  "titulo": "Lei nº 14.140 de 19/04/2021",
+  "data": "2021-04-19",
+  "fonte": "https://normas.leg.br/api/public/binario/cea655aa-3cc2-409e-be39-fae105f60418/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-04-19;14140",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-04-19%3B14140&tipo_documento=maior-detalhe",
+  "sha256_dados": "1a020c3ba49178f2f291a8839a53a4a7b0cc44ef399561aeac80c1d290e4cb9e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:18.885Z",
+  "sha256_fonte": "0694ba336538b4ac93ff62b98a44b5b8dc80c567c08544187d31f008c979ada8",
+  "sha256_markdown": "d38d9afa61d1834f30359811302e7a73c0860f56963cb6af7f7933535b0447ea"
+}

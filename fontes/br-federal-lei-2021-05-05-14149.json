@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-05-05-14149",
+  "titulo": "Lei nº 14.149 de 05/05/2021",
+  "data": "2021-05-05",
+  "fonte": "https://normas.leg.br/api/public/binario/fd999132-ccd7-40f0-bac2-1b14abad1a9f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-05-05;14149",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-05-05%3B14149&tipo_documento=maior-detalhe",
+  "sha256_dados": "ba20a3f1ebf16b5590cfa48eea44a3b588690ef96d1f0a0f6b688ea909c4bac5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:08.738Z",
+  "sha256_fonte": "4b756f5e3f43a005d8b6a4345ac780f72816ff84401be9a4f814f79199cc5cae",
+  "sha256_markdown": "d10b06ffaf62b375ed46a13564bd0afe750222ea6e206a982ebe9dc7a61f7178"
+}

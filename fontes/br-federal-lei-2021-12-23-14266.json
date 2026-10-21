@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-12-23-14266",
+  "titulo": "Lei nº 14.266 de 23/12/2021",
+  "data": "2021-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/eeae2dd7-2fcc-4fa8-8f9b-6c0e7ec3545b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-12-23;14266",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-12-23%3B14266&tipo_documento=maior-detalhe",
+  "sha256_dados": "2ebdfaff8af9f262e47bee62ad75e657b54bd5ac36a705ce2987c65c4c3fbe14",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:32.300Z",
+  "sha256_fonte": "bb34c6810675f06b20f76b962d11dbac7d3677c55faeb410fe1c517201901d80",
+  "sha256_markdown": "4fad883e2db19b426770c16031b79b8b1b7746bfb495bd304d017b5107779170"
+}

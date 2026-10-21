@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-06-10-14014",
+  "titulo": "Lei nº 14.014 de 10/06/2020",
+  "data": "2020-06-10",
+  "fonte": "https://normas.leg.br/api/public/binario/1dd8df47-c902-4a5b-9023-fa8bad5df573/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-06-10;14014",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-06-10%3B14014&tipo_documento=maior-detalhe",
+  "sha256_dados": "a9f04b617e40161d4ef24128e2b2ee68829c847ad3f07aa9b382936b52470a61",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:03.406Z",
+  "sha256_fonte": "7f30dff9cff427930b4cd3595cfd1162564dcb3eecd4a61e649a0346957f366c",
+  "sha256_markdown": "2c77efa78936dc451783a4f74fefba4604d380558206be1d30f062d641cbf407"
+}

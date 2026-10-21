@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-07-26041",
+  "titulo": "LEI nº 26041, de 07/08/2026",
+  "data": "2026-08-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26041/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26041/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7bf37a1cf27ef5a76371100767eaaba7431739ccc8e63c3141ee985e8cc6f7a1",
+  "coletado_em": "2026-10-21T08:29:14.003Z",
+  "sha256_fonte": "e760ac37ccee07b0444be0a66e5fddad87101be406406d3183a1cdb5161d9a62",
+  "sha256_markdown": "95295bed6056c655f14535e67c980ed0e628eb36b6e5ecb39bdd484d3ea94bcd"
+}

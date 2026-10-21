@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-08-14402",
+  "titulo": "Lei nº 14.402 de 08/07/2022",
+  "data": "2022-07-08",
+  "fonte": "https://normas.leg.br/api/public/binario/f49731c5-2ec1-4723-8826-52d49ea0750d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-08;14402",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-08%3B14402&tipo_documento=maior-detalhe",
+  "sha256_dados": "1774b837237734f0fa0529cfb75ad146918a6b6e21705156d81a17a2df019716",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:44.576Z",
+  "sha256_fonte": "48cbd2684085378f38afb310e380a087ca993bc50ad6ef4b387b4a9f3666cb76",
+  "sha256_markdown": "8c4bc2fdf0daf54b5b6b8cca5376140d98d5602a83fbd9b85f3823c2e17aa04f"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-08-18-14040",
+  "titulo": "Lei nº 14.040 de 18/08/2020",
+  "data": "2020-08-18",
+  "fonte": "https://normas.leg.br/api/public/binario/014e45b4-791a-4f84-91ba-cfc3a871cc26/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-08-18;14040",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-08-18%3B14040&tipo_documento=maior-detalhe",
+  "sha256_dados": "1366badd4ac2efe0788914af8c17598781669b336564e1013f6de95cd281f0c2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:29.161Z",
+  "sha256_fonte": "f16e412a0fa1d6b0376a08985cfa69721af0ac6ca3c684502758009977340019",
+  "sha256_markdown": "3e07b8f62d338690e79a96ba1b12cfcdde0b689482f2aba650dc8818659a46c5"
+}

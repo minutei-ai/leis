@@ -1,0 +1,3329 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2021",
+  "tipo": "DEC",
+  "ano": 2021,
+  "coletado_em": "2026-10-21T08:44:07.083Z",
+  "normas": [
+    {
+      "senadoId": "35396946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-31-10926",
+      "titulo": "Decreto nº 10.926 de 31/12/2021",
+      "data": "2021-12-31",
+      "numero": "10926",
+      "urn": "urn:lex:br:federal:decreto:2021-12-31;10926",
+      "ementa": "Dispõe sobre a execução, no território nacional, da Decisão CMC 24/19 - Regime Aduaneiro de Bagagem no Mercosul, aprovada pelos Estados Partes do Mercosul, em 5 de dezembro de 2019."
+    },
+    {
+      "senadoId": "35396517",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-31-10925",
+      "titulo": "Decreto nº 10.925 de 31/12/2021",
+      "data": "2021-12-31",
+      "numero": "10925",
+      "urn": "urn:lex:br:federal:decreto:2021-12-31;10925",
+      "ementa": "Altera o Decreto nº 10.096, de 6 de novembro de 2019, que aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho - Fundacentro, e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35394903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-30-10922",
+      "titulo": "Decreto nº 10.922 de 30/12/2021",
+      "data": "2021-12-30",
+      "numero": "10922",
+      "urn": "urn:lex:br:federal:decreto:2021-12-30;10922",
+      "ementa": "Dispõe sobre a atualização dos valores estabelecidos na Lei nº 14.133, de 1º de abril de 2021 - de Licitações e Contratos Administrativos."
+    },
+    {
+      "senadoId": "35394867",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-30-10921",
+      "titulo": "Decreto nº 10.921 de 30/12/2021",
+      "data": "2021-12-30",
+      "numero": "10921",
+      "urn": "urn:lex:br:federal:decreto:2021-12-30;10921",
+      "ementa": "Altera o Decreto nº 10.761, de 2 de agosto de 2021, para dispor sobre o regime de cooperação mútua para viabilizar as atividades da Perícia Médica Federal."
+    },
+    {
+      "senadoId": "35394831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-30-10920",
+      "titulo": "Decreto nº 10.920 de 30/12/2021",
+      "data": "2021-12-30",
+      "numero": "10920",
+      "urn": "urn:lex:br:federal:decreto:2021-12-30;10920",
+      "ementa": "Dispõe sobre a prorrogação do prazo de vigência do Comitê de Monitoramento da Abertura do Mercado de Gás Natural."
+    },
+    {
+      "senadoId": "35394975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-30-10924",
+      "titulo": "Decreto nº 10.924 de 30/12/2021",
+      "data": "2021-12-30",
+      "numero": "10924",
+      "urn": "urn:lex:br:federal:decreto:2021-12-30;10924",
+      "ementa": "Cria o Centro de Obtenções do Exército e altera o Decreto nº 5.751, de 12 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo Direção e Assessoramento Superiores - DAS e das Funções Gratificadas do Comando do Exército do Ministério da Defesa."
+    },
+    {
+      "senadoId": "35394939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-30-10923",
+      "titulo": "Decreto nº 10.923 de 30/12/2021",
+      "data": "2021-12-30",
+      "numero": "10923",
+      "urn": "urn:lex:br:federal:decreto:2021-12-30;10923",
+      "ementa": "Aprova a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI."
+    },
+    {
+      "senadoId": "35368100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-29-10917",
+      "titulo": "Decreto nº 10.917 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "10917",
+      "urn": "urn:lex:br:federal:decreto:2021-12-29;10917",
+      "ementa": "Dispõe sobre o Comitê Federal de Assistência Emergencial."
+    },
+    {
+      "senadoId": "35368136",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-29-10918",
+      "titulo": "Decreto nº 10.918 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "10918",
+      "urn": "urn:lex:br:federal:decreto:2021-12-29;10918",
+      "ementa": "Dispõe sobre o Fundo de Desenvolvimento da Infraestrutura Regional Sustentável, de que trata o art. 32 da Lei nº 12.712, de 30 de agosto de 2012, e sobre o Conselho do Fundo de Desenvolvimento da Infraestrutura Regional Sustentável, de que trata o art. 35 da Lei nº 12.712, de 2012."
+    },
+    {
+      "senadoId": "35368172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-29-10919",
+      "titulo": "Decreto nº 10.919 de 29/12/2021",
+      "data": "2021-12-29",
+      "numero": "10919",
+      "urn": "urn:lex:br:federal:decreto:2021-12-29;10919",
+      "ementa": "Prorroga a concessão do Benefício Extraordinário destinado às famílias beneficiárias do Programa Auxílio Brasil."
+    },
+    {
+      "senadoId": "35364791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-28-10916",
+      "titulo": "Decreto nº 10.916 de 28/12/2021",
+      "data": "2021-12-28",
+      "numero": "10916",
+      "urn": "urn:lex:br:federal:decreto:2021-12-28;10916",
+      "ementa": "Altera o Decreto nº 10.558, de 3 de dezembro de 2020, que institui o Comitê Interministerial de Doenças Raras."
+    },
+    {
+      "senadoId": "35339286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-27-10914",
+      "titulo": "Decreto nº 10.914 de 27/12/2021",
+      "data": "2021-12-27",
+      "numero": "10914",
+      "urn": "urn:lex:br:federal:decreto:2021-12-27;10914",
+      "ementa": "Qualifica como organização social a Sociedade Amigos da Cinemateca."
+    },
+    {
+      "senadoId": "35339345",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-27-10915",
+      "titulo": "Decreto nº 10.915 de 27/12/2021",
+      "data": "2021-12-27",
+      "numero": "10915",
+      "urn": "urn:lex:br:federal:decreto:2021-12-27;10915",
+      "ementa": "Desqualifica como organização social a Associação de Comunicação Educativa Roquette Pinto."
+    },
+    {
+      "senadoId": "35320020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-24-10913",
+      "titulo": "Decreto nº 10.913 de 24/12/2021",
+      "data": "2021-12-24",
+      "numero": "10913",
+      "urn": "urn:lex:br:federal:decreto:2021-12-24;10913",
+      "ementa": "Concede indulto natalino e dá outras providências."
+    },
+    {
+      "senadoId": "35320092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-23-10912",
+      "titulo": "Decreto nº 10.912 de 23/12/2021",
+      "data": "2021-12-23",
+      "numero": "10912",
+      "urn": "urn:lex:br:federal:decreto:2021-12-23;10912",
+      "ementa": "Altera o Decreto nº 10.829, de 5 de outubro de 2021, para estabelecer regras transitórias sobre apostilamentos nas transformações a partir de cargos e funções de confiança em extinção."
+    },
+    {
+      "senadoId": "35317015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-22-10909",
+      "titulo": "Decreto nº 10.909 de 22/12/2021",
+      "data": "2021-12-22",
+      "numero": "10909",
+      "urn": "urn:lex:br:federal:decreto:2021-12-22;10909",
+      "ementa": "Prorroga o prazo previsto no Decreto nº 10.608, de 25 de janeiro de 2021, de exercício das atividades de controle interno da Advocacia-Geral da União pela Secretaria de Controle Interno da Secretaria-Geral da Presidência da República."
+    },
+    {
+      "senadoId": "35317176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-22-10910",
+      "titulo": "Decreto nº 10.910 de 22/12/2021",
+      "data": "2021-12-22",
+      "numero": "10910",
+      "urn": "urn:lex:br:federal:decreto:2021-12-22;10910",
+      "ementa": "Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016."
+    },
+    {
+      "senadoId": "35317505",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-22-10911",
+      "titulo": "Decreto nº 10.911 de 22/12/2021",
+      "data": "2021-12-22",
+      "numero": "10911",
+      "urn": "urn:lex:br:federal:decreto:2021-12-22;10911",
+      "ementa": "Altera o Regulamento do Conselho Federal e Conselhos Regionais de Medicina, aprovado pelo Decreto nº 44.045, de 19 de julho de 1958."
+    },
+    {
+      "senadoId": "35315926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-21-10908",
+      "titulo": "Decreto nº 10.908 de 21/12/2021",
+      "data": "2021-12-21",
+      "numero": "10908",
+      "urn": "urn:lex:br:federal:decreto:2021-12-21;10908",
+      "ementa": "Altera o Decreto nº 9.853, de 25 de junho de 2019, que dispõe sobre a Comissão Interministerial Brasil 200 Anos."
+    },
+    {
+      "senadoId": "35313829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-20-10907",
+      "titulo": "Decreto nº 10.907 de 20/12/2021",
+      "data": "2021-12-20",
+      "numero": "10907",
+      "urn": "urn:lex:br:federal:decreto:2021-12-20;10907",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Casa Civil da Presidência da República, remaneja e transforma cargos em comissão e funções de confiança e altera o Decreto nº 9.203, de 22 de novembro de 2017, e o Decreto nº 9.920, de 18 de julho de 2019."
+    },
+    {
+      "senadoId": "35313199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-20-10904",
+      "titulo": "Decreto nº 10.904 de 20/12/2021",
+      "data": "2021-12-20",
+      "numero": "10904",
+      "urn": "urn:lex:br:federal:decreto:2021-12-20;10904",
+      "ementa": "Altera o Decreto nº 10.382, de 28 de maio de 2020, para dispor sobre remanejamento temporário de funções de confiança."
+    },
+    {
+      "senadoId": "35313657",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-20-10906",
+      "titulo": "Decreto nº 10.906 de 20/12/2021",
+      "data": "2021-12-20",
+      "numero": "10906",
+      "urn": "urn:lex:br:federal:decreto:2021-12-20;10906",
+      "ementa": "Institui o Plano Nacional de Enfrentamento ao Feminicídio."
+    },
+    {
+      "senadoId": "35313114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-20-10903",
+      "titulo": "Decreto nº 10.903 de 20/12/2021",
+      "data": "2021-12-20",
+      "numero": "10903",
+      "urn": "urn:lex:br:federal:decreto:2021-12-20;10903",
+      "ementa": "Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República de Moçambique, firmado em Maputo, em 30 de março de 2015."
+    },
+    {
+      "senadoId": "35313273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-20-10905",
+      "titulo": "Decreto nº 10.905 de 20/12/2021",
+      "data": "2021-12-20",
+      "numero": "10905",
+      "urn": "urn:lex:br:federal:decreto:2021-12-20;10905",
+      "ementa": "Dispõe sobre o Conselho Nacional do Trabalho, a Comissão Tripartite Paritária Permanente, o Conselho Deliberativo do Fundo de Amparo ao Trabalhador e o Conselho Curador do Fundo de Garantia do Tempo de Serviço."
+    },
+    {
+      "senadoId": "35312863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-20-10902",
+      "titulo": "Decreto nº 10.902 de 20/12/2021",
+      "data": "2021-12-20",
+      "numero": "10902",
+      "urn": "urn:lex:br:federal:decreto:2021-12-20;10902",
+      "ementa": "Dispõe sobre a qualificação de empreendimento do setor de energia elétrica no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "35310051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-17-10900",
+      "titulo": "Decreto nº 10.900 de 17/12/2021",
+      "data": "2021-12-17",
+      "numero": "10900",
+      "urn": "urn:lex:br:federal:decreto:2021-12-17;10900",
+      "ementa": "Dispõe sobre o Serviço de Identificação do Cidadão e a governança da identificação das pessoas naturais no âmbito da administração pública federal direta, autárquica e fundacional, e altera o Decreto nº 8.936, de 19 de dezembro de 2016, o Decreto nº 10.543, de 13 de novembro de 2020, e o Decreto nº 9.278, de 5 de fevereiro de 2018."
+    },
+    {
+      "senadoId": "35310110",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-17-10901",
+      "titulo": "Decreto nº 10.901 de 17/12/2021",
+      "data": "2021-12-17",
+      "numero": "10901",
+      "urn": "urn:lex:br:federal:decreto:2021-12-17;10901",
+      "ementa": "Promulga as Emendas à Convenção sobre o Regulamento Internacional para evitar Abalroamentos no Mar, adotadas pela Assembleia da Organização Marítima Internacional entre 1981 a 2013."
+    },
+    {
+      "senadoId": "35288718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-16-10896",
+      "titulo": "Decreto nº 10.896 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "10896",
+      "urn": "urn:lex:br:federal:decreto:2021-12-16;10896",
+      "ementa": "Altera o Decreto nº 10.077, de 18 de outubro de 2019, que remaneja, em caráter temporário, cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Função Comissionada do Poder Executivo - FCPE para a Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35288792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-16-10897",
+      "titulo": "Decreto nº 10.897 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "10897",
+      "urn": "urn:lex:br:federal:decreto:2021-12-16;10897",
+      "ementa": "Altera o Decreto nº 10.492, de 23 de setembro de 2020, que remaneja, em caráter temporário, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS para o Ministério da Cidadania."
+    },
+    {
+      "senadoId": "35288866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-16-10898",
+      "titulo": "Decreto nº 10.898 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "10898",
+      "urn": "urn:lex:br:federal:decreto:2021-12-16;10898",
+      "ementa": "Distribui o efetivo de Oficiais e Praças do Exército em tempo de paz para 2022."
+    },
+    {
+      "senadoId": "35288940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-16-10899",
+      "titulo": "Decreto nº 10.899 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "10899",
+      "urn": "urn:lex:br:federal:decreto:2021-12-16;10899",
+      "ementa": "Altera o Decreto nº 10.496, de 28 de setembro de 2020, que institui o Cadastro Integrado de Projetos de Investimento."
+    },
+    {
+      "senadoId": "35288621",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-16-10895",
+      "titulo": "Decreto nº 10.895 de 16/12/2021",
+      "data": "2021-12-16",
+      "numero": "10895",
+      "urn": "urn:lex:br:federal:decreto:2021-12-16;10895",
+      "ementa": "Altera o Decreto nº 2.381, de 12 de novembro de 1997, para dispor sobre a aplicação dos recursos do Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal - FUNAPOL."
+    },
+    {
+      "senadoId": "35281358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-14-10894",
+      "titulo": "Decreto nº 10.894 de 14/12/2021",
+      "data": "2021-12-14",
+      "numero": "10894",
+      "urn": "urn:lex:br:federal:decreto:2021-12-14;10894",
+      "ementa": "Dispõe sobre a inclusão do Porto Organizado de São Sebastião no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "35281299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-14-10893",
+      "titulo": "Decreto nº 10.893 de 14/12/2021",
+      "data": "2021-12-14",
+      "numero": "10893",
+      "urn": "urn:lex:br:federal:decreto:2021-12-14;10893",
+      "ementa": "Regulamenta o § 1º-C do art. 26 da Lei nº 9.427, de 26 de dezembro de 1996, que institui a Agência Nacional de Energia Elétrica - Aneel e disciplina o regime das concessões de serviços públicos de energia elétrica."
+    },
+    {
+      "senadoId": "35278701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-13-10892",
+      "titulo": "Decreto nº 10.892 de 13/12/2021",
+      "data": "2021-12-13",
+      "numero": "10892",
+      "urn": "urn:lex:br:federal:decreto:2021-12-13;10892",
+      "ementa": "Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais para o exercício financeiro de 2022 e dá outras providências."
+    },
+    {
+      "senadoId": "35274443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-09-10889",
+      "titulo": "Decreto nº 10.889 de 09/12/2021",
+      "data": "2021-12-09",
+      "numero": "10889",
+      "urn": "urn:lex:br:federal:decreto:2021-12-09;10889",
+      "ementa": "Regulamenta o inciso VI do caput do art. 5º e o art. 11 da Lei nº 12.813, de 16 de maio de 2013, dispõe sobre a divulgação da agenda de compromissos públicos e a participação de agentes públicos, no âmbito do Poder Executivo federal, em audiências e sobre a concessão de hospitalidades por agente privado, e institui o Sistema Eletrônico de Agendas do Poder Executivo federal - e - Agendas."
+    },
+    {
+      "senadoId": "35274517",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-09-10891",
+      "titulo": "Decreto nº 10.891 de 09/12/2021",
+      "data": "2021-12-09",
+      "numero": "10891",
+      "urn": "urn:lex:br:federal:decreto:2021-12-09;10891",
+      "ementa": "Altera o Decreto nº 10.521, de 15 de outubro de 2020, para dispor sobre o benefício fiscal concedido às empresas que produzem bens e serviços do setor de tecnologias da informação e de comunicação na Zona Franca de Manaus e que investem em atividades de pesquisa, desenvolvimento e inovação na Amazônia Ocidental ou no Estado do Amapá."
+    },
+    {
+      "senadoId": "35274594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-09-10890",
+      "titulo": "Decreto nº 10.890 de 09/12/2021",
+      "data": "2021-12-09",
+      "numero": "10890",
+      "urn": "urn:lex:br:federal:decreto:2021-12-09;10890",
+      "ementa": "Altera o Decreto nº 9.492, de 5 de setembro de 2018, e o Decreto nº 10.153, de 3 de dezembro de 2019, para dispor sobre a proteção ao denunciante de ilícitos e de irregularidades praticados contra a administração pública federal direta e indireta."
+    },
+    {
+      "senadoId": "35274268",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-09-10888",
+      "titulo": "Decreto nº 10.888 de 09/12/2021",
+      "data": "2021-12-09",
+      "numero": "10888",
+      "urn": "urn:lex:br:federal:decreto:2021-12-09;10888",
+      "ementa": "Dispõe sobre a publicidade e a transparência das comunicações realizadas entre os órgãos, fundos e entidades do Poder Executivo federal e o relator-geral do projeto de lei orçamentária anual sobre a execução de recursos decorrentes de emendas."
+    },
+    {
+      "senadoId": "35263496",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-07-10886",
+      "titulo": "Decreto nº 10.886 de 07/12/2021",
+      "data": "2021-12-07",
+      "numero": "10886",
+      "urn": "urn:lex:br:federal:decreto:2021-12-07;10886",
+      "ementa": "Institui a Estratégia Nacional de Propriedade Intelectual."
+    },
+    {
+      "senadoId": "35263570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-07-10887",
+      "titulo": "Decreto nº 10.887 de 07/12/2021",
+      "data": "2021-12-07",
+      "numero": "10887",
+      "urn": "urn:lex:br:federal:decreto:2021-12-07;10887",
+      "ementa": "Altera o Decreto nº 2.181, de 20 de março de 1997, que dispõe sobre a organização do Sistema Nacional de Defesa do Consumidor."
+    },
+    {
+      "senadoId": "35258427",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-06-10885",
+      "titulo": "Decreto nº 10.885 de 06/12/2021",
+      "data": "2021-12-06",
+      "numero": "10885",
+      "urn": "urn:lex:br:federal:decreto:2021-12-06;10885",
+      "ementa": "Exclui a Casa da Moeda do Brasil do Programa Nacional de Desestatização e do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "35258463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-06-10884",
+      "titulo": "Decreto nº 10.884 de 06/12/2021",
+      "data": "2021-12-06",
+      "numero": "10884",
+      "urn": "urn:lex:br:federal:decreto:2021-12-06;10884",
+      "ementa": "Distribui o efetivo de Oficiais da Marinha em tempo de paz para 2022."
+    },
+    {
+      "senadoId": "35258499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-06-10883",
+      "titulo": "Decreto nº 10.883 de 06/12/2021",
+      "data": "2021-12-06",
+      "numero": "10883",
+      "urn": "urn:lex:br:federal:decreto:2021-12-06;10883",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Mulher, da Família e dos Direitos Humanos, e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35219772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-03-10882",
+      "titulo": "Decreto nº 10.882 de 03/12/2021",
+      "data": "2021-12-03",
+      "numero": "10882",
+      "urn": "urn:lex:br:federal:decreto:2021-12-03;10882",
+      "ementa": "Regulamenta o Tratado de Marraqueche para Facilitar o Acesso a Obras Publicadas às Pessoas Cegas, com Deficiência Visual ou com Outras Dificuldades para Ter Acesso ao Texto Impresso."
+    },
+    {
+      "senadoId": "35217661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-02-10880",
+      "titulo": "Decreto nº 10.880 de 02/12/2021",
+      "data": "2021-12-02",
+      "numero": "10880",
+      "urn": "urn:lex:br:federal:decreto:2021-12-02;10880",
+      "ementa": "Regulamenta o Programa Alimenta Brasil, instituído pela Medida Provisória nº 1.061, de 9 de agosto de 2021."
+    },
+    {
+      "senadoId": "35217697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-02-10881",
+      "titulo": "Decreto nº 10.881 de 02/12/2021",
+      "data": "2021-12-02",
+      "numero": "10881",
+      "urn": "urn:lex:br:federal:decreto:2021-12-02;10881",
+      "ementa": "Regulamenta o Programa Auxílio Gás dos Brasileiros, instituído pela Lei nº 14.237, de 19 de novembro de 2021."
+    },
+    {
+      "senadoId": "35212389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-01-10878",
+      "titulo": "Decreto nº 10.878 de 01/12/2021",
+      "data": "2021-12-01",
+      "numero": "10878",
+      "urn": "urn:lex:br:federal:decreto:2021-12-01;10878",
+      "ementa": "Altera o Decreto nº 3.690, de 19 de dezembro de 2000, que aprova o Regulamento do Corpo do Pessoal Graduado da Aeronáutica."
+    },
+    {
+      "senadoId": "35212315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-12-01-10879",
+      "titulo": "Decreto nº 10.879 de 01/12/2021",
+      "data": "2021-12-01",
+      "numero": "10879",
+      "urn": "urn:lex:br:federal:decreto:2021-12-01;10879",
+      "ementa": "Altera o Decreto nº 10.255, de 27 de fevereiro de 2020, que convoca a Quinta Conferência Nacional dos Direitos da Pessoa com Deficiência."
+    },
+    {
+      "senadoId": "35207343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-30-10876",
+      "titulo": "Decreto nº 10.876 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "10876",
+      "urn": "urn:lex:br:federal:decreto:2021-11-30;10876",
+      "ementa": "Altera o Decreto nº 10.546, de 19 de novembro de 2020, que altera a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Economia, e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35207271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-30-10874",
+      "titulo": "Decreto nº 10.874 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "10874",
+      "urn": "urn:lex:br:federal:decreto:2021-11-30;10874",
+      "ementa": "Altera o Decreto nº 10.699, de 14 de maio de 2021, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2021."
+    },
+    {
+      "senadoId": "35207307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-30-10875",
+      "titulo": "Decreto nº 10.875 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "10875",
+      "urn": "urn:lex:br:federal:decreto:2021-11-30;10875",
+      "ementa": "Altera o Decreto nº 9.870, de 27 de junho de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Gabinete de Intervenção Federal no Estado do Rio de Janeiro, e remaneja e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "35207402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-30-10877",
+      "titulo": "Decreto nº 10.877 de 30/11/2021",
+      "data": "2021-11-30",
+      "numero": "10877",
+      "urn": "urn:lex:br:federal:decreto:2021-11-30;10877",
+      "ementa": "Altera o Decreto nº 8.854, de 22 de setembro de 2016, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto Nacional da Propriedade Industrial - INPI, remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35204084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-29-10872",
+      "titulo": "Decreto nº 10.872 de 29/11/2021",
+      "data": "2021-11-29",
+      "numero": "10872",
+      "urn": "urn:lex:br:federal:decreto:2021-11-29;10872",
+      "ementa": "Dispõe sobre a qualificação de estudos referentes a empreendimentos públicos do setor rodoviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "35204120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-29-10873",
+      "titulo": "Decreto nº 10.873 de 29/11/2021",
+      "data": "2021-11-29",
+      "numero": "10873",
+      "urn": "urn:lex:br:federal:decreto:2021-11-29;10873",
+      "ementa": "Autoriza o emprego das Forças Armadas para a garantia da votação e da apuração das eleições suplementares às eleições de 2020 no Município de Coari, Estado do Amazonas."
+    },
+    {
+      "senadoId": "35204048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-29-10871",
+      "titulo": "Decreto nº 10.871 de 29/11/2021",
+      "data": "2021-11-29",
+      "numero": "10871",
+      "urn": "urn:lex:br:federal:decreto:2021-11-29;10871",
+      "ementa": "Altera o Decreto nº 9.829, de 10 de junho de 2019, que dispõe sobre o sobre o Conselho Deliberativo do Sistema de Proteção da Amazônia."
+    },
+    {
+      "senadoId": "35198680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-25-10869",
+      "titulo": "Decreto nº 10.869 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "10869",
+      "urn": "urn:lex:br:federal:decreto:2021-11-25;10869",
+      "ementa": "Altera o Decreto nº 9.052, de 15 de maio de 2017, que dispõe sobre o processo de inventariança do Fundo Nacional de Desenvolvimento, e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35198644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-25-10868",
+      "titulo": "Decreto nº 10.868 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "10868",
+      "urn": "urn:lex:br:federal:decreto:2021-11-25;10868",
+      "ementa": "Altera o Decreto nº 10.499, de 28 de setembro de 2020, que remaneja, em caráter temporário, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS para o Ministério da Economia, e o Decreto nº 10.681, de 20 de abril de 2021, que regulamenta a Lei Complementar nº 159, de 19 de maio de 2017, e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35198746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-25-10870",
+      "titulo": "Decreto nº 10.870 de 25/11/2021",
+      "data": "2021-11-25",
+      "numero": "10870",
+      "urn": "urn:lex:br:federal:decreto:2021-11-25;10870",
+      "ementa": "Altera as relações a que se referem a Seção I do Anexo III à Lei nº 14.116, de 31 de dezembro de 2020, e a Seção I do Anexo III à Lei nº 14.194, de 20 de agosto de 2021."
+    },
+    {
+      "senadoId": "35196177",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-24-10867",
+      "titulo": "Decreto nº 10.867 de 24/11/2021",
+      "data": "2021-11-24",
+      "numero": "10867",
+      "urn": "urn:lex:br:federal:decreto:2021-11-24;10867",
+      "ementa": "Altera o Decreto nº 8.063, de 1º de agosto de 2013, que cria a empresa pública denominada Empresa Brasileira de Administração de Petróleo e Gás Natural S.A. - Pré-Sal Petróleo S.A. - PPSA."
+    },
+    {
+      "senadoId": "35193661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-23-10866",
+      "titulo": "Decreto nº 10.866 de 23/11/2021",
+      "data": "2021-11-23",
+      "numero": "10866",
+      "urn": "urn:lex:br:federal:decreto:2021-11-23;10866",
+      "ementa": "Altera o Decreto nº 10.852, de 8 de novembro de 2021, para dispor sobre a Bolsa de Iniciação Científica Júnior."
+    },
+    {
+      "senadoId": "35183764",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10863",
+      "titulo": "Decreto nº 10.863 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10863",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10863",
+      "ementa": "Estabelece, para o processo de desestatização da Empresa Gestora de Ativos S.A. - Emgea, o marco temporal para o início da contagem do prazo estabelecido no caput do art. 3º do Decreto nº 9.589, de 29 de novembro de 2018."
+    },
+    {
+      "senadoId": "35183989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10861",
+      "titulo": "Decreto nº 10.861 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10861",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10861",
+      "ementa": "Altera o Anexo ao Decreto nº 9.660, de 1º de janeiro de 2019, que dispõe sobre a vinculação das entidades da administração pública federal indireta."
+    },
+    {
+      "senadoId": "35184063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10864",
+      "titulo": "Decreto nº 10.864 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10864",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10864",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público federal do setor rodoviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "35183841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10865",
+      "titulo": "Decreto nº 10.865 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10865",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10865",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos públicos federais do setor aquaviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "35183915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10859",
+      "titulo": "Decreto nº 10.859 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10859",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10859",
+      "ementa": "Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "35184167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10860",
+      "titulo": "Decreto nº 10.860 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10860",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10860",
+      "ementa": "Delega ao Ministro de Estado da Mulher, da Família e dos Direitos Humanos as competências referentes ao Comitê Nacional de Prevenção e Combate à Tortura e ao Mecanismo Nacional de Prevenção e Combate à Tortura."
+    },
+    {
+      "senadoId": "35184241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-19-10862",
+      "titulo": "Decreto nº 10.862 de 19/11/2021",
+      "data": "2021-11-19",
+      "numero": "10862",
+      "urn": "urn:lex:br:federal:decreto:2021-11-19;10862",
+      "ementa": "Promulga o Acordo entre a República Federativa do Brasil e o Novo Banco de Desenvolvimento relativo à Sede do Escritório Regional das Américas do Novo Banco de Desenvolvimento na República Federativa do Brasil, firmado em Joanesburgo, República da África do Sul, em 26 de julho de 2018"
+    },
+    {
+      "senadoId": "35138075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-17-10858",
+      "titulo": "Decreto nº 10.858 de 17/11/2021",
+      "data": "2021-11-17",
+      "numero": "10858",
+      "urn": "urn:lex:br:federal:decreto:2021-11-17;10858",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos públicos federais do setor de transporte portuário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "35133473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-12-10857",
+      "titulo": "Decreto nº 10.857 de 12/11/2021",
+      "data": "2021-11-12",
+      "numero": "10857",
+      "urn": "urn:lex:br:federal:decreto:2021-11-12;10857",
+      "ementa": "Altera o Decreto nº 9.982, de 20 de agosto de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria-Geral da Presidência da República, remaneja Gratificações de Exercício de Cargo de Confiança devida a Militares e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "35130726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-11-10855",
+      "titulo": "Decreto nº 10.855 de 11/11/2021",
+      "data": "2021-11-11",
+      "numero": "10855",
+      "urn": "urn:lex:br:federal:decreto:2021-11-11;10855",
+      "ementa": "Transforma Funções Comissionadas de Coordenação de Curso - FCC em Cargos de Direção - CD e Funções Gratificadas - FG."
+    },
+    {
+      "senadoId": "35130762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-11-10856",
+      "titulo": "Decreto nº 10.856 de 11/11/2021",
+      "data": "2021-11-11",
+      "numero": "10856",
+      "urn": "urn:lex:br:federal:decreto:2021-11-11;10856",
+      "ementa": "Desafeta do uso especial do Comando do Exército o imóvel rural que menciona."
+    },
+    {
+      "senadoId": "35127852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-10-10854",
+      "titulo": "Decreto nº 10.854 de 10/11/2021",
+      "data": "2021-11-10",
+      "numero": "10854",
+      "urn": "urn:lex:br:federal:decreto:2021-11-10;10854",
+      "ementa": "Regulamenta disposições relativas à legislação trabalhista e institui o Programa Permanente de Consolidação, Simplificação e Desburocratização de Normas Trabalhistas Infralegais e o Prêmio Nacional Trabalhista, e altera o Decreto nº 9.580, de 22 de novembro de 2018."
+    },
+    {
+      "senadoId": "35124921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-09-10853",
+      "titulo": "Decreto nº 10.853 de 09/11/2021",
+      "data": "2021-11-09",
+      "numero": "10853",
+      "urn": "urn:lex:br:federal:decreto:2021-11-09;10853",
+      "ementa": "Altera o Decreto nº 5.417, de 13 de abril de 2005, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Comando da Marinha do Ministério da Defesa."
+    },
+    {
+      "senadoId": "35122515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-08-10852",
+      "titulo": "Decreto nº 10.852 de 08/11/2021",
+      "data": "2021-11-08",
+      "numero": "10852",
+      "urn": "urn:lex:br:federal:decreto:2021-11-08;10852",
+      "ementa": "Regulamenta o Programa Auxílio Brasil, instituído pela Medida Provisória nº 1.061, de 9 de agosto de 2021."
+    },
+    {
+      "senadoId": "35120243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-05-10851",
+      "titulo": "Decreto nº 10.851 de 05/11/2021",
+      "data": "2021-11-05",
+      "numero": "10851",
+      "urn": "urn:lex:br:federal:decreto:2021-11-05;10851",
+      "ementa": "Altera o Decreto nº 5.209, de 17 de setembro de 2004, e o Decreto nº 7.492, de 2 de junho de 2011, para reajustar os valores referenciais de caracterização das situações de pobreza e de extrema pobreza e os valores dos benefícios do Programa Bolsa Família."
+    },
+    {
+      "senadoId": "35108708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-11-03-10850",
+      "titulo": "Decreto nº 10.850 de 03/11/2021",
+      "data": "2021-11-03",
+      "numero": "10850",
+      "urn": "urn:lex:br:federal:decreto:2021-11-03;10850",
+      "ementa": "Promulga as Emendas à Convenção Internacional para a Salvaguarda da Vida Humana no Mar adotadas pelo Comitê de Segurança Marítima da Organização Marítima Internacional, ao Anexo à Convenção e ao Protocolo de 1988."
+    },
+    {
+      "senadoId": "35101530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-28-10849",
+      "titulo": "Decreto nº 10.849 de 28/10/2021",
+      "data": "2021-10-28",
+      "numero": "10849",
+      "urn": "urn:lex:br:federal:decreto:2021-10-28;10849",
+      "ementa": "Altera o Decreto nº 9.637, de 26 de dezembro de 2018, para dispor sobre a composição do Comitê Gestor da Segurança da Informação."
+    },
+    {
+      "senadoId": "35093627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-26-10848",
+      "titulo": "Decreto nº 10.848 de 26/10/2021",
+      "data": "2021-10-26",
+      "numero": "10848",
+      "urn": "urn:lex:br:federal:decreto:2021-10-26;10848",
+      "ementa": "Promulga as Emendas ao Anexo à Convenção para a Facilitação do Tráfego Marítimo Internacional adotadas pelo Comitê de Facilitação da Organização Marítima Internacional, entre 1969 e 2005."
+    },
+    {
+      "senadoId": "35093591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-26-10847",
+      "titulo": "Decreto nº 10.847 de 26/10/2021",
+      "data": "2021-10-26",
+      "numero": "10847",
+      "urn": "urn:lex:br:federal:decreto:2021-10-26;10847",
+      "ementa": "Promulga o Protocolo Adicional ao Tratado de Amizade, Cooperação e Consulta entre a República Federativa do Brasil e a República Portuguesa, que Cria o Prêmio Monteiro Lobato de Literatura para a Infância e a Juventude, firmado em Salvador, em 5 de maio de 2017."
+    },
+    {
+      "senadoId": "35082879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-25-10846",
+      "titulo": "Decreto nº 10.846 de 25/10/2021",
+      "data": "2021-10-25",
+      "numero": "10846",
+      "urn": "urn:lex:br:federal:decreto:2021-10-25;10846",
+      "ementa": "Institui o Programa Nacional de Crescimento Verde."
+    },
+    {
+      "senadoId": "35083127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-25-10844",
+      "titulo": "Decreto nº 10.844 de 25/10/2021",
+      "data": "2021-10-25",
+      "numero": "10844",
+      "urn": "urn:lex:br:federal:decreto:2021-10-25;10844",
+      "ementa": "Altera o Decreto nº 8.772, de 11 de maio de 2016, para dispor sobre a segregação de cadastros."
+    },
+    {
+      "senadoId": "35083020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-25-10845",
+      "titulo": "Decreto nº 10.845 de 25/10/2021",
+      "data": "2021-10-25",
+      "numero": "10845",
+      "urn": "urn:lex:br:federal:decreto:2021-10-25;10845",
+      "ementa": "Dispõe sobre o Comitê Interministerial sobre a Mudança do Clima e o Crescimento Verde."
+    },
+    {
+      "senadoId": "35067020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-20-10843",
+      "titulo": "Decreto nº 10.843 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "10843",
+      "urn": "urn:lex:br:federal:decreto:2021-10-20;10843",
+      "ementa": "Cria a Embaixada do Brasil em Manama no Reino do Bahrein."
+    },
+    {
+      "senadoId": "35066912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-20-10840",
+      "titulo": "Decreto nº 10.840 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "10840",
+      "urn": "urn:lex:br:federal:decreto:2021-10-20;10840",
+      "ementa": "Promulga o Acordo entre a República Federativa do Brasil e o Reino do Bahrein sobre Serviços Aéreos, firmado em Bahrein, em 14 de novembro de 2018."
+    },
+    {
+      "senadoId": "35066948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-20-10841",
+      "titulo": "Decreto nº 10.841 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "10841",
+      "urn": "urn:lex:br:federal:decreto:2021-10-20;10841",
+      "ementa": "Altera o Decreto nº 10.177, de 16 de dezembro de 2019, que dispõe sobre o Conselho Nacional dos Direitos da Pessoa com Deficiência."
+    },
+    {
+      "senadoId": "35066984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-20-10842",
+      "titulo": "Decreto nº 10.842 de 20/10/2021",
+      "data": "2021-10-20",
+      "numero": "10842",
+      "urn": "urn:lex:br:federal:decreto:2021-10-20;10842",
+      "ementa": "Altera o Decreto nº 10.141, de 28 de novembro de 2019, que institui o Comitê Nacional das Zonas Úmidas."
+    },
+    {
+      "senadoId": "35061959",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-18-10839",
+      "titulo": "Decreto nº 10.839 de 18/10/2021",
+      "data": "2021-10-18",
+      "numero": "10839",
+      "urn": "urn:lex:br:federal:decreto:2021-10-18;10839",
+      "ementa": "Regulamenta os procedimentos administrativos relativos à investigação de existência de subsídios e à aplicação de medidas compensatórias."
+    },
+    {
+      "senadoId": "35061923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-18-10838",
+      "titulo": "Decreto nº 10.838 de 18/10/2021",
+      "data": "2021-10-18",
+      "numero": "10838",
+      "urn": "urn:lex:br:federal:decreto:2021-10-18;10838",
+      "ementa": "Regulamenta os art. 6º e art. 8º da Lei nº 14.182, de 12 de julho de 2021, para dispor sobre os programas de revitalização dos recursos hídricos das Bacias Hidrográficas do Rio São Francisco e do Rio Parnaíba e daquelas na área de influência dos reservatórios das Usinas Hidrelétricas de Furnas."
+    },
+    {
+      "senadoId": "35048651",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-14-10836",
+      "titulo": "Decreto nº 10.836 de 14/10/2021",
+      "data": "2021-10-14",
+      "numero": "10836",
+      "urn": "urn:lex:br:federal:decreto:2021-10-14;10836",
+      "ementa": "Regulamenta o art. 15-E da Lei nº 7.827, de 27 de setembro de 1989, que autoriza os bancos administradores do Fundo Constitucional de Financiamento do Norte, do Fundo Constitucional de Financiamento do Nordeste e do Fundo Constitucional de Financiamento do Centro-Oeste a realizar acordos de renegociação extraordinária de operações de crédito inadimplidas sob a sua gestão."
+    },
+    {
+      "senadoId": "35048687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-14-10837",
+      "titulo": "Decreto nº 10.837 de 14/10/2021",
+      "data": "2021-10-14",
+      "numero": "10837",
+      "urn": "urn:lex:br:federal:decreto:2021-10-14;10837",
+      "ementa": "Altera o Decreto nº 9.763, de 11 de abril de 2019, para dispor sobre a composição do Comitê Interministerial de Gestão Turística do Patrimônio Mundial."
+    },
+    {
+      "senadoId": "35048615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-14-10835",
+      "titulo": "Decreto nº 10.835 de 14/10/2021",
+      "data": "2021-10-14",
+      "numero": "10835",
+      "urn": "urn:lex:br:federal:decreto:2021-10-14;10835",
+      "ementa": "Dispõe sobre as cessões, as requisições e as alterações de exercício para composição da força de trabalho em que a administração pública federal, direta e indireta, seja parte."
+    },
+    {
+      "senadoId": "35040902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-13-10834",
+      "titulo": "Decreto nº 10.834 de 13/10/2021",
+      "data": "2021-10-13",
+      "numero": "10834",
+      "urn": "urn:lex:br:federal:decreto:2021-10-13;10834",
+      "ementa": "Autoriza o ingresso e a permanência temporária de forças militares dos Estados Unidos da América no território nacional para participar em conjunto com o Exército Brasileiro do exercício de adestramento combinado CORE 21 no período de 28 de novembro a 18 de dezembro de 2021."
+    },
+    {
+      "senadoId": "35033904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-07-10833",
+      "titulo": "Decreto nº 10.833 de 07/10/2021",
+      "data": "2021-10-07",
+      "numero": "10833",
+      "urn": "urn:lex:br:federal:decreto:2021-10-07;10833",
+      "ementa": "Altera o Decreto nº 4.074, de 4 de janeiro de 2002, que regulamenta a Lei nº 7.802, de 11 de julho de 1989, que dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a importação, a exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins."
+    },
+    {
+      "senadoId": "35033868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-07-10832",
+      "titulo": "Decreto nº 10.832 de 07/10/2021",
+      "data": "2021-10-07",
+      "numero": "10832",
+      "urn": "urn:lex:br:federal:decreto:2021-10-07;10832",
+      "ementa": "Transforma o 4º Grupamento de Engenharia do Exército em organização militar de comando privativo de Oficial-General."
+    },
+    {
+      "senadoId": "35014900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-06-10831",
+      "titulo": "Decreto nº 10.831 de 06/10/2021",
+      "data": "2021-10-06",
+      "numero": "10831",
+      "urn": "urn:lex:br:federal:decreto:2021-10-06;10831",
+      "ementa": "Regulamenta o art. 24 da Medida Provisória nº 1.061, de 9 de agosto de 2021, que institui o Programa Auxílio Brasil e o Programa Alimenta Brasil, e dá outras providências."
+    },
+    {
+      "senadoId": "35009166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-05-10829",
+      "titulo": "Decreto nº 10.829 de 05/10/2021",
+      "data": "2021-10-05",
+      "numero": "10829",
+      "urn": "urn:lex:br:federal:decreto:2021-10-05;10829",
+      "ementa": "Regulamenta a Lei nº 14.204, de 16 de setembro de 2021, que simplifica a gestão de cargos em comissão e de funções de confiança na administração pública federal direta, autárquica e fundacional, e altera o Decreto nº 9.739, de 28 de março de 2019."
+    },
+    {
+      "senadoId": "35009240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-05-10830",
+      "titulo": "Decreto nº 10.830 de 05/10/2021",
+      "data": "2021-10-05",
+      "numero": "10830",
+      "urn": "urn:lex:br:federal:decreto:2021-10-05;10830",
+      "ementa": "Remaneja e transforma cargos em comissão e altera o Decreto nº 10.548, de 20 de novembro de 2020, para remanejar, em caráter temporário, Cargos Comissionados Executivos - CCE para o Ministério do Turismo e prorrogar o prazo da reabsorção temporária das atividades da Cinemateca Brasileira pelo Ministério do Turismo."
+    },
+    {
+      "senadoId": "34999164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-10-01-10828",
+      "titulo": "Decreto nº 10.828 de 01/10/2021",
+      "data": "2021-10-01",
+      "numero": "10828",
+      "urn": "urn:lex:br:federal:decreto:2021-10-01;10828",
+      "ementa": "Regulamenta a emissão de Cédula de Produto Rural, relacionada às atividades de conservação e recuperação de florestas nativas e de seus biomas, de que trata o inciso II do § 2º do art. 1º da Lei nº 8.929, de 22 de agosto de 1994."
+    },
+    {
+      "senadoId": "34978362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-30-10826",
+      "titulo": "Decreto nº 10.826 de 30/09/2021",
+      "data": "2021-09-30",
+      "numero": "10826",
+      "urn": "urn:lex:br:federal:decreto:2021-09-30;10826",
+      "ementa": "Altera o Decreto nº 10.699, de 14 de maio de 2021, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2021."
+    },
+    {
+      "senadoId": "34978301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-30-10827",
+      "titulo": "Decreto nº 10.827 de 30/09/2021",
+      "data": "2021-09-30",
+      "numero": "10827",
+      "urn": "urn:lex:br:federal:decreto:2021-09-30;10827",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Agricultura, Pecuária e Abastecimento, remaneja e transforma cargos em comissão e funções de confiança e altera o Decreto nº 3.035, de 27 de abril de 1999 e o Decreto nº 6.010, de 3 de janeiro de 2007."
+    },
+    {
+      "senadoId": "34975657",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-29-10824",
+      "titulo": "Decreto nº 10.824 de 29/09/2021",
+      "data": "2021-09-29",
+      "numero": "10824",
+      "urn": "urn:lex:br:federal:decreto:2021-09-29;10824",
+      "ementa": "Promulga o Acordo entre a República Federativa do Brasil e o Reino dos Países Baixos sobre Serviços Aéreos, firmado em Brasília, em 8 de julho de 2019."
+    },
+    {
+      "senadoId": "34975731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-29-10825",
+      "titulo": "Decreto nº 10.825 de 29/09/2021",
+      "data": "2021-09-29",
+      "numero": "10825",
+      "urn": "urn:lex:br:federal:decreto:2021-09-29;10825",
+      "ementa": "Reativa a 7ª Divisão de Exército, com sede no Município de Recife, Estado de Pernambuco, subordinada ao Comando Militar do Nordeste do Exército Brasileiro."
+    },
+    {
+      "senadoId": "34969273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-28-10822",
+      "titulo": "Decreto nº 10.822 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "10822",
+      "urn": "urn:lex:br:federal:decreto:2021-09-28;10822",
+      "ementa": "Institui o Plano Nacional de Segurança Pública e Defesa Social 2021-2030."
+    },
+    {
+      "senadoId": "34969237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-28-10821",
+      "titulo": "Decreto nº 10.821 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "10821",
+      "urn": "urn:lex:br:federal:decreto:2021-09-28;10821",
+      "ementa": "Revoga o inciso I do § 2º do art. 18 do Anexo I ao Decreto nº 10.610, de 27 de janeiro de 2021, que aprova o Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado Prestado no Regime Público."
+    },
+    {
+      "senadoId": "34969201",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-28-10820",
+      "titulo": "Decreto nº 10.820 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "10820",
+      "urn": "urn:lex:br:federal:decreto:2021-09-28;10820",
+      "ementa": "Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e a Comunidade do Caribe, firmado em Brasília, em 26 de abril de 2010."
+    },
+    {
+      "senadoId": "34969309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-28-10823",
+      "titulo": "Decreto nº 10.823 de 28/09/2021",
+      "data": "2021-09-28",
+      "numero": "10823",
+      "urn": "urn:lex:br:federal:decreto:2021-09-28;10823",
+      "ementa": "Promulga a Decisão Ministerial sobre Competição nas Exportações - WT/MIN(15)/45*WT/L/980, acordada em Nairóbi pelos Estados Membros na 10ª Conferência Ministerial da Organização Mundial do Comércio, em 19 de dezembro de 2015."
+    },
+    {
+      "senadoId": "34952842",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10817",
+      "titulo": "Decreto nº 10.817 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10817",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10817",
+      "ementa": "Altera o Decreto nº 10.374, de 26 de maio de 2020, que aprova as Estruturas Regimentais e os Quadros Demonstrativos dos Cargos em Comissão e das Funções de Confiança da Assessoria Especial do Presidente da República, do Gabinete Pessoal do Presidente da República e da Secretaria Especial de Assuntos Estratégicos da Presidência da República, e remaneja e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "34952508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10812",
+      "titulo": "Decreto nº 10.812 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10812",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10812",
+      "ementa": "Altera o Decreto nº 10.177, de 16 de dezembro de 2019, que dispõe sobre o Conselho Nacional dos Direitos da Pessoa com Deficiência."
+    },
+    {
+      "senadoId": "34952413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10811",
+      "titulo": "Decreto nº 10.811 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10811",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10811",
+      "ementa": "Altera o Decreto nº 6.187, de 14 de agosto de 2007, para dispor sobre a participação de entidade de prática desportiva da modalidade de futebol profissional na Timemania."
+    },
+    {
+      "senadoId": "34952377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10810",
+      "titulo": "Decreto nº 10.810 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10810",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10810",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "34953042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10819",
+      "titulo": "Decreto nº 10.819 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10819",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10819",
+      "ementa": "Regulamenta o disposto na Lei Complementar nº 178, de 13 de janeiro de 2021, e no art. 2º da Lei nº 9.496, de 11 de setembro de 1997."
+    },
+    {
+      "senadoId": "34952544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10813",
+      "titulo": "Decreto nº 10.813 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10813",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10813",
+      "ementa": "Promulga o Acordo entre o Governo da República Federativa do Brasil e o Conselho Federal Suíço Relativo a Serviços Aéreos Regulares, firmado em Brasília, em 8 de julho de 2013."
+    },
+    {
+      "senadoId": "34952918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10818",
+      "titulo": "Decreto nº 10.818 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10818",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10818",
+      "ementa": "Regulamenta o disposto no art. 20 da Lei nº 14.133, de 1º de abril de 2021, para estabelecer o enquadramento dos bens de consumo adquiridos para suprir as demandas das estruturas da administração pública federal nas categorias de qualidade comum e de luxo."
+    },
+    {
+      "senadoId": "34952580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10814",
+      "titulo": "Decreto nº 10.814 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10814",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10814",
+      "ementa": "Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Comunidade das Bahamas sobre Serviços Aéreos, firmado em Nassau, em 7 de dezembro de 2016."
+    },
+    {
+      "senadoId": "34953116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10816",
+      "titulo": "Decreto nº 10.816 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10816",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10816",
+      "ementa": "Altera o Decreto nº 10.133, de 26 de novembro de 2019, que institui o Programa Viver - Envelhecimento Ativo e Saudável."
+    },
+    {
+      "senadoId": "34952616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-27-10815",
+      "titulo": "Decreto nº 10.815 de 27/09/2021",
+      "data": "2021-09-27",
+      "numero": "10815",
+      "urn": "urn:lex:br:federal:decreto:2021-09-27;10815",
+      "ementa": "Altera o Decreto nº 9.937, de 24 de julho de 2019, que institui o Programa de Proteção aos Defensores de Direitos Humanos, Comunicadores e Ambientalistas e o Conselho Deliberativo do Programa de Proteção aos Defensores dos Direitos Humanos, Comunicadores e Ambientalistas."
+    },
+    {
+      "senadoId": "34879140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-23-10807",
+      "titulo": "Decreto nº 10.807 de 23/09/2021",
+      "data": "2021-09-23",
+      "numero": "10807",
+      "urn": "urn:lex:br:federal:decreto:2021-09-23;10807",
+      "ementa": "Altera o Decreto nº 3.500, de 9 de junho de 2000, que dispõe sobre a Comissão Nacional de Classificação."
+    },
+    {
+      "senadoId": "34879176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-23-10808",
+      "titulo": "Decreto nº 10.808 de 23/09/2021",
+      "data": "2021-09-23",
+      "numero": "10808",
+      "urn": "urn:lex:br:federal:decreto:2021-09-23;10808",
+      "ementa": "Altera o Decreto nº 9.675, de 2 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério de Minas e Energia, e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "34879104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-23-10806",
+      "titulo": "Decreto nº 10.806 de 23/09/2021",
+      "data": "2021-09-23",
+      "numero": "10806",
+      "urn": "urn:lex:br:federal:decreto:2021-09-23;10806",
+      "ementa": "Cria a Escola Superior de Defesa, altera o Decreto nº 9.570, de 20 de novembro de 2018, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Defesa, e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "34879434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-23-10809",
+      "titulo": "Decreto nº 10.809 de 23/09/2021",
+      "data": "2021-09-23",
+      "numero": "10809",
+      "urn": "urn:lex:br:federal:decreto:2021-09-23;10809",
+      "ementa": "Promulga o Acordo sobre Serviços Aéreos entre a República Federativa do Brasil e o Reino dos Países Baixos, com relação a Sint Maarten, firmado em Brasília, em 8 de julho de 2019."
+    },
+    {
+      "senadoId": "34875056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-22-10805",
+      "titulo": "Decreto nº 10.805 de 22/09/2021",
+      "data": "2021-09-22",
+      "numero": "10805",
+      "urn": "urn:lex:br:federal:decreto:2021-09-22;10805",
+      "ementa": "Altera o Decreto nº 10.509, de 6 de outubro de 2020, que institui o Programa de Equipagem e de Modernização da Infraestrutura dos Órgãos, das Entidades e das Instâncias Colegiadas de Promoção e de Defesa dos Direitos Humanos, no âmbito do Ministério da Mulher, da Família e dos Direitos Humanos."
+    },
+    {
+      "senadoId": "34875249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-22-10804",
+      "titulo": "Decreto nº 10.804 de 22/09/2021",
+      "data": "2021-09-22",
+      "numero": "10804",
+      "urn": "urn:lex:br:federal:decreto:2021-09-22;10804",
+      "ementa": "Altera o Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, e o Decreto nº 8.139, de 7 de novembro de 2013, para dispor sobre os critérios adotados para a concessão de parcelamento do preço público da outorga para executar o serviço de radiodifusão."
+    },
+    {
+      "senadoId": "34868464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-17-10799",
+      "titulo": "Decreto nº 10.799 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "10799",
+      "urn": "urn:lex:br:federal:decreto:2021-09-17;10799",
+      "ementa": "Altera o Decreto nº 9.612, de 17 de dezembro de 2018, que dispõe sobre políticas públicas de telecomunicações."
+    },
+    {
+      "senadoId": "34868757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-17-10802",
+      "titulo": "Decreto nº 10.802 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "10802",
+      "urn": "urn:lex:br:federal:decreto:2021-09-17;10802",
+      "ementa": "Regulamenta o reconhecimento e a regularização de obrigações por parte da União."
+    },
+    {
+      "senadoId": "34868612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-17-10801",
+      "titulo": "Decreto nº 10.801 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "10801",
+      "urn": "urn:lex:br:federal:decreto:2021-09-17;10801",
+      "ementa": "Promulga o Acordo Constitutivo do Banco Asiático de Investimento em Infraestrutura, firmado em Pequim, em 29 de junho de 2015, e sua documentação complementar, que estipula a adesão brasileira à subscrição de valor não superior a cinquenta ações, no total de US$ 5.000.000,00 (cinco milhões de dólares norte-americanos)."
+    },
+    {
+      "senadoId": "34868390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-17-10798",
+      "titulo": "Decreto nº 10.798 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "10798",
+      "urn": "urn:lex:br:federal:decreto:2021-09-17;10798",
+      "ementa": "Regulamenta o art. 23 da Lei nº 14.182, de 12 de julho de 2021, para dispor sobre as condições para a prorrogação do período de suprimento dos contratos de compra e venda de energia do Programa de Incentivo às Fontes Alternativas de Energia Elétrica."
+    },
+    {
+      "senadoId": "34868831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-17-10803",
+      "titulo": "Decreto nº 10.803 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "10803",
+      "urn": "urn:lex:br:federal:decreto:2021-09-17;10803",
+      "ementa": "Institui o Fórum Consultivo de Mobilidade Urbana."
+    },
+    {
+      "senadoId": "34868538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-17-10800",
+      "titulo": "Decreto nº 10.800 de 17/09/2021",
+      "data": "2021-09-17",
+      "numero": "10800",
+      "urn": "urn:lex:br:federal:decreto:2021-09-17;10800",
+      "ementa": "Institui o Programa Amazônia Integrada Sustentável e o seu Comitê Gestor."
+    },
+    {
+      "senadoId": "34863508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-16-10797",
+      "titulo": "Decreto nº 10.797 de 16/09/2021",
+      "data": "2021-09-16",
+      "numero": "10797",
+      "urn": "urn:lex:br:federal:decreto:2021-09-16;10797",
+      "ementa": "Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF."
+    },
+    {
+      "senadoId": "34863434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-16-10796",
+      "titulo": "Decreto nº 10.796 de 16/09/2021",
+      "data": "2021-09-16",
+      "numero": "10796",
+      "urn": "urn:lex:br:federal:decreto:2021-09-16;10796",
+      "ementa": "Promulga o Acordo entre a República Federativa do Brasil e a República Dominicana sobre Isenção de Vistos de Turismo e Negócios, firmado em Brasília, em 14 de maio de 2018."
+    },
+    {
+      "senadoId": "34851168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-13-10794",
+      "titulo": "Decreto nº 10.794 de 13/09/2021",
+      "data": "2021-09-13",
+      "numero": "10794",
+      "urn": "urn:lex:br:federal:decreto:2021-09-13;10794",
+      "ementa": "Altera o Decreto nº 10.699, de 14 de maio de 2021, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2021."
+    },
+    {
+      "senadoId": "34851242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-13-10795",
+      "titulo": "Decreto nº 10.795 de 13/09/2021",
+      "data": "2021-09-13",
+      "numero": "10795",
+      "urn": "urn:lex:br:federal:decreto:2021-09-13;10795",
+      "ementa": "Institui o Programa de Integridade da Presidência da República."
+    },
+    {
+      "senadoId": "34851094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-13-10793",
+      "titulo": "Decreto nº 10.793 de 13/09/2021",
+      "data": "2021-09-13",
+      "numero": "10793",
+      "urn": "urn:lex:br:federal:decreto:2021-09-13;10793",
+      "ementa": "Regulamenta o Programa Nacional de Apoio à Aquisição de Habitação para Profissionais da Segurança Pública - Programa Habite Seguro, e altera o Decreto nº 10.333, de 29 de abril de 2020, que aprova o Regulamento do Fundo de Desenvolvimento Social."
+    },
+    {
+      "senadoId": "34851020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-13-10792",
+      "titulo": "Decreto nº 10.792 de 13/09/2021",
+      "data": "2021-09-13",
+      "numero": "10792",
+      "urn": "urn:lex:br:federal:decreto:2021-09-13;10792",
+      "ementa": "Regulamenta o art. 68-D da Lei nº 9.478, de 6 de agosto de 1997, para dispor sobre a comercialização de combustíveis por revendedor varejista."
+    },
+    {
+      "senadoId": "34848969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-10-10791",
+      "titulo": "Decreto nº 10.791 de 10/09/2021",
+      "data": "2021-09-10",
+      "numero": "10791",
+      "urn": "urn:lex:br:federal:decreto:2021-09-10;10791",
+      "ementa": "Cria a Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A."
+    },
+    {
+      "senadoId": "34834674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-09-10790",
+      "titulo": "Decreto nº 10.790 de 09/09/2021",
+      "data": "2021-09-09",
+      "numero": "10790",
+      "urn": "urn:lex:br:federal:decreto:2021-09-09;10790",
+      "ementa": "Altera o Decreto nº 9.783, de 7 de maio de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados - SUSEP, remaneja e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "34820530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-08-10789",
+      "titulo": "Decreto nº 10.789 de 08/09/2021",
+      "data": "2021-09-08",
+      "numero": "10789",
+      "urn": "urn:lex:br:federal:decreto:2021-09-08;10789",
+      "ementa": "Dispõe sobre a atribuição e a delegação competências ao Presidente do Banco Central do Brasil e altera o Decreto nº 71.733, de 18 de janeiro de 1973, o Decreto nº 1.387, de 7 de fevereiro de 1995, o Decreto nº 1.590, de 10 de agosto de 1995, o Decreto nº 3.035, de 27 de abril de 1999, o Decreto nº 3.644, de 30 de outubro de 2000, o Decreto nº 9.144, de 22 de agosto de 2017, o Decreto nº 9.739, de 28 de março de 2019, o Decreto nº 9.794, de 14 de maio de 2019, e o Decreto nº 10.193, de 27 de dezembro de 2019."
+    },
+    {
+      "senadoId": "34816640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-06-10788",
+      "titulo": "Decreto nº 10.788 de 06/09/2021",
+      "data": "2021-09-06",
+      "numero": "10788",
+      "urn": "urn:lex:br:federal:decreto:2021-09-06;10788",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Infraestrutura, remaneja e transforma cargos em comissão e funções de confiança e altera o Decreto nº 9.660, 1º de janeiro de 2019."
+    },
+    {
+      "senadoId": "34816463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-06-10786",
+      "titulo": "Decreto nº 10.786 de 06/09/2021",
+      "data": "2021-09-06",
+      "numero": "10786",
+      "urn": "urn:lex:br:federal:decreto:2021-09-06;10786",
+      "ementa": "Torna pública a decisão, pela República Federativa do Brasil, de não renovar a vigência do Convênio entre a República Federativa do Brasil e a República Oriental do Uruguai sobre Transporte Marítimo, firmado em Rivera, em 12 de junho de 1975, e do Acordo sobre Transportes Marítimos entre a República Federativa do Brasil e a República Argentina, firmado em Buenos Aires, em 15 de agosto de 1985."
+    },
+    {
+      "senadoId": "34816566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-06-10787",
+      "titulo": "Decreto nº 10.787 de 06/09/2021",
+      "data": "2021-09-06",
+      "numero": "10787",
+      "urn": "urn:lex:br:federal:decreto:2021-09-06;10787",
+      "ementa": "Altera o Decreto nº 5.879, de 22 de agosto de 2006, e o Decreto nº 9.022, de 31 de março de 2017, para dispor sobre a destinação e a utilização dos recursos destinados a custear estudos e pesquisas para o planejamento da expansão do sistema energético."
+    },
+    {
+      "senadoId": "34805034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-09-01-10785",
+      "titulo": "Decreto nº 10.785 de 01/09/2021",
+      "data": "2021-09-01",
+      "numero": "10785",
+      "urn": "urn:lex:br:federal:decreto:2021-09-01;10785",
+      "ementa": "Altera o Decreto nº 9.662, de 1º de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Justiça e Segurança Pública, e remaneja e transforma cargos em comissão, funções de confiança e funções comissionaas técnicas."
+    },
+    {
+      "senadoId": "34802582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-31-10783",
+      "titulo": "Decreto nº 10.783 de 31/08/2021",
+      "data": "2021-08-31",
+      "numero": "10783",
+      "urn": "urn:lex:br:federal:decreto:2021-08-31;10783",
+      "ementa": "Altera o Decreto nº 10.570, de 9 de dezembro de 2020, que institui a Estratégia Nacional de Fortalecimento dos Vínculos Familiares e o seu Comitê Interministerial."
+    },
+    {
+      "senadoId": "34802656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-31-10784",
+      "titulo": "Decreto nº 10.784 de 31/08/2021",
+      "data": "2021-08-31",
+      "numero": "10784",
+      "urn": "urn:lex:br:federal:decreto:2021-08-31;10784",
+      "ementa": "Institui Grupo de Trabalho Interministerial com a finalidade de propor a instituição do Programa de Enfrentamento ao Escalpelamento."
+    },
+    {
+      "senadoId": "34787103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-30-10782",
+      "titulo": "Decreto nº 10.782 de 30/08/2021",
+      "data": "2021-08-30",
+      "numero": "10782",
+      "urn": "urn:lex:br:federal:decreto:2021-08-30;10782",
+      "ementa": "Altera o Decreto nº 9.319, de 21 de março de 2018, que institui o Sistema Nacional para a Transformação Digital e estabelece a estrutura de governança para a implantação da Estratégia Brasileira para a Transformação Digital."
+    },
+    {
+      "senadoId": "34763360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-26-10781",
+      "titulo": "Decreto nº 10.781 de 26/08/2021",
+      "data": "2021-08-26",
+      "numero": "10781",
+      "urn": "urn:lex:br:federal:decreto:2021-08-26;10781",
+      "ementa": "Homologa o 2º Termo Aditivo ao Contrato Internacional de Concessão, firmado pela República Federativa do Brasil e pela República Argentina, por intermédio da Comissão Mista Brasileiro-Argentina, com a concessionária Mercovia S.A."
+    },
+    {
+      "senadoId": "34761478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-25-10780",
+      "titulo": "Decreto nº 10.780 de 25/08/2021",
+      "data": "2021-08-25",
+      "numero": "10780",
+      "urn": "urn:lex:br:federal:decreto:2021-08-25;10780",
+      "ementa": "Institui o Sistema Nacional de Garantias de Crédito, nos termos do disposto no art. 60-A da Lei Complementar nº 123, de 14 de dezembro de 2006."
+    },
+    {
+      "senadoId": "34761381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-25-10779",
+      "titulo": "Decreto nº 10.779 de 25/08/2021",
+      "data": "2021-08-25",
+      "numero": "10779",
+      "urn": "urn:lex:br:federal:decreto:2021-08-25;10779",
+      "ementa": "Estabelece medidas para a redução do consumo de energia elétrica no âmbito da administração pública federal."
+    },
+    {
+      "senadoId": "34757929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-24-10777",
+      "titulo": "Decreto nº 10.777 de 24/08/2021",
+      "data": "2021-08-24",
+      "numero": "10777",
+      "urn": "urn:lex:br:federal:decreto:2021-08-24;10777",
+      "ementa": "Institui a Política Nacional de Inteligência de Segurança Pública."
+    },
+    {
+      "senadoId": "34757794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-24-10776",
+      "titulo": "Decreto nº 10.776 de 24/08/2021",
+      "data": "2021-08-24",
+      "numero": "10776",
+      "urn": "urn:lex:br:federal:decreto:2021-08-24;10776",
+      "ementa": "Altera o Decreto nº 10.139, de 28 de novembro de 2019, que dispõe sobre a revisão e a consolidação dos atos normativos inferiores a decreto."
+    },
+    {
+      "senadoId": "34758045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-24-10778",
+      "titulo": "Decreto nº 10.778 de 24/08/2021",
+      "data": "2021-08-24",
+      "numero": "10778",
+      "urn": "urn:lex:br:federal:decreto:2021-08-24;10778",
+      "ementa": "Aprova a Estratégia Nacional de Inteligência de Segurança Pública."
+    },
+    {
+      "senadoId": "34755443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-23-10775",
+      "titulo": "Decreto nº 10.775 de 23/08/2021",
+      "data": "2021-08-23",
+      "numero": "10775",
+      "urn": "urn:lex:br:federal:decreto:2021-08-23;10775",
+      "ementa": "Altera o Decreto nº 5.371, de 17 de fevereiro de 2005, que aprova o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens, o Decreto nº 9.942, de 25 de julho de 2019, que aprova o Regulamento do Serviço de Retransmissão de Rádio na Amazônia Legal, ancilar ao serviço de radiodifusão sonora em frequência modulada, o Decreto nº 52.795, de 31 de outubro de 1963, que aprova o Regulamento dos Serviços de Radiodifusão, e o Decreto nº 10.405, de 25 de junho de 2020, que altera o Regulamento dos Serviços de Radiodifusão."
+    },
+    {
+      "senadoId": "34755369",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-23-10774",
+      "titulo": "Decreto nº 10.774 de 23/08/2021",
+      "data": "2021-08-23",
+      "numero": "10774",
+      "urn": "urn:lex:br:federal:decreto:2021-08-23;10774",
+      "ementa": "Convoca a V Conferência Nacional de Promoção da Igualdade Racial."
+    },
+    {
+      "senadoId": "34755266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-23-10773",
+      "titulo": "Decreto nº 10.773 de 23/08/2021",
+      "data": "2021-08-23",
+      "numero": "10773",
+      "urn": "urn:lex:br:federal:decreto:2021-08-23;10773",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Desenvolvimento Regional e remaneja e transforma cargos em comissão, funções de confiança e funções comissionadas técnicas."
+    },
+    {
+      "senadoId": "34722276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-20-10771",
+      "titulo": "Decreto nº 10.771 de 20/08/2021",
+      "data": "2021-08-20",
+      "numero": "10771",
+      "urn": "urn:lex:br:federal:decreto:2021-08-20;10771",
+      "ementa": "Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016."
+    },
+    {
+      "senadoId": "34722374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-20-10772",
+      "titulo": "Decreto nº 10.772 de 20/08/2021",
+      "data": "2021-08-20",
+      "numero": "10772",
+      "urn": "urn:lex:br:federal:decreto:2021-08-20;10772",
+      "ementa": "Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Austrália para Cooperação em Ciência, Tecnologia e Inovação, firmado em Camberra, em 7 de setembro de 2017."
+    },
+    {
+      "senadoId": "34687053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-17-10770",
+      "titulo": "Decreto nº 10.770 de 17/08/2021",
+      "data": "2021-08-17",
+      "numero": "10770",
+      "urn": "urn:lex:br:federal:decreto:2021-08-17;10770",
+      "ementa": "O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, caput, incisos IV e VI, alínea \"a\", da Constituição, e tendo em vista o disposto no art. 4º, caput, inciso VII, e no art. 5º da Lei nº 13.257, de 8 de março de 2016, e no art. 10, parágrafo único, da Lei nº 13.971, de 27 de dezembro de 2019,"
+    },
+    {
+      "senadoId": "34683286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-16-10769",
+      "titulo": "Decreto nº 10.769 de 16/08/2021",
+      "data": "2021-08-16",
+      "numero": "10769",
+      "urn": "urn:lex:br:federal:decreto:2021-08-16;10769",
+      "ementa": "Dispõe sobre a Qualificação de Empreendimento Público Federal referente aos serviços de recolhimento, guarda e desfazimento de veículos apreendidos pela Polícia Rodoviária Federal - PRF, no âmbito do Programa de Parcerias de Investimentos - PPI, para fins de elaboração de estudos de viabilidade e de alternativas de parceria com a iniciativa privada."
+    },
+    {
+      "senadoId": "34680970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-13-10768",
+      "titulo": "Decreto nº 10.768 de 13/08/2021",
+      "data": "2021-08-13",
+      "numero": "10768",
+      "urn": "urn:lex:br:federal:decreto:2021-08-13;10768",
+      "ementa": "Altera o Decreto nº 5.480, de 30 de junho de 2005, que dispõe sobre o Sistema de Correição do Poder Executivo Federal."
+    },
+    {
+      "senadoId": "34679228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-12-10766",
+      "titulo": "Decreto nº 10.766 de 12/08/2021",
+      "data": "2021-08-12",
+      "numero": "10766",
+      "urn": "urn:lex:br:federal:decreto:2021-08-12;10766",
+      "ementa": "Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Quênia sobre o Exercício de Atividades Remuneradas por parte de Dependentes do Pessoal Diplomático, Consular, Militar, Administrativo e Técnico, firmado em Nairóbi, em 6 de julho de 2010."
+    },
+    {
+      "senadoId": "34679302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-12-10767",
+      "titulo": "Decreto nº 10.767 de 12/08/2021",
+      "data": "2021-08-12",
+      "numero": "10767",
+      "urn": "urn:lex:br:federal:decreto:2021-08-12;10767",
+      "ementa": "Dispõe sobre a qualificação de armazéns e de imóveis de domínio da Companhia Nacional de Abastecimento - Conab no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34676103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-11-10765",
+      "titulo": "Decreto nº 10.765 de 11/08/2021",
+      "data": "2021-08-11",
+      "numero": "10765",
+      "urn": "urn:lex:br:federal:decreto:2021-08-11;10765",
+      "ementa": "Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016."
+    },
+    {
+      "senadoId": "34664219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-09-10763",
+      "titulo": "Decreto nº 10.763 de 09/08/2021",
+      "data": "2021-08-09",
+      "numero": "10763",
+      "urn": "urn:lex:br:federal:decreto:2021-08-09;10763",
+      "ementa": "Desafeta do uso especial do Comando do Exército as terras públicas federais que menciona."
+    },
+    {
+      "senadoId": "34664293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-09-10764",
+      "titulo": "Decreto nº 10.764 de 09/08/2021",
+      "data": "2021-08-09",
+      "numero": "10764",
+      "urn": "urn:lex:br:federal:decreto:2021-08-09;10764",
+      "ementa": "Dispõe sobre o Comitê Gestor da Rede Nacional de Contratações Públicas, de que trata o § 1º do art. 174 da Lei nº 14.133, de 1º de abril de 2021."
+    },
+    {
+      "senadoId": "34636350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-02-10762",
+      "titulo": "Decreto nº 10.762 de 02/08/2021",
+      "data": "2021-08-02",
+      "numero": "10762",
+      "urn": "urn:lex:br:federal:decreto:2021-08-02;10762",
+      "ementa": "Altera o Decreto nº 9.915, de 16 de julho de 2019, que dispõe sobre a qualificação da Usina Termonuclear Angra 3 no Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34636449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-08-02-10761",
+      "titulo": "Decreto nº 10.761 de 02/08/2021",
+      "data": "2021-08-02",
+      "numero": "10761",
+      "urn": "urn:lex:br:federal:decreto:2021-08-02;10761",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Trabalho e Previdência provisórios, remaneja e transforma cargos em comissão, funções de confiança e funções comissionadas técnicas, altera o Decreto nº 9.660, de 1º de janeiro de 2019, e o Decreto nº 9.745, de 8 de abril de 2019, e dá outras providências."
+    },
+    {
+      "senadoId": "34632947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-30-10759",
+      "titulo": "Decreto nº 10.759 de 30/07/2021",
+      "data": "2021-07-30",
+      "numero": "10759",
+      "urn": "urn:lex:br:federal:decreto:2021-07-30;10759",
+      "ementa": "Altera o Decreto nº 4.376, de 13 de setembro de 2002, que dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência."
+    },
+    {
+      "senadoId": "34633181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-30-10760",
+      "titulo": "Decreto nº 10.760 de 30/07/2021",
+      "data": "2021-07-30",
+      "numero": "10760",
+      "urn": "urn:lex:br:federal:decreto:2021-07-30;10760",
+      "ementa": "Altera o Decreto nº 10.699, de 14 de maio de 2021, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2021."
+    },
+    {
+      "senadoId": "34629524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-29-10757",
+      "titulo": "Decreto nº 10.757 de 29/07/2021",
+      "data": "2021-07-29",
+      "numero": "10757",
+      "urn": "urn:lex:br:federal:decreto:2021-07-29;10757",
+      "ementa": "Altera o Decreto nº 9.620, de 20 de dezembro de 2018, que convoca a 5ª Conferência Nacional dos Direitos da Pessoa Idosa."
+    },
+    {
+      "senadoId": "34629598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-29-10758",
+      "titulo": "Decreto nº 10.758 de 29/07/2021",
+      "data": "2021-07-29",
+      "numero": "10758",
+      "urn": "urn:lex:br:federal:decreto:2021-07-29;10758",
+      "ementa": "Regulamenta a Medida Provisória nº 1.042, de 14 de abril de 2021, que simplifica a gestão de cargos em comissão e de funções de confiança, autoriza o Poder Executivo federal a transformar, sem aumento de despesa, cargos em comissão, funções de confiança e gratificações, prevê os Cargos Comissionados Executivos - CCE e as Funções Comissionadas Executivas - FCC, e altera o Decreto nº 9.739, de 28 de março de 2019, e o Decreto nº 10.382, de 28 de maio de 2020."
+    },
+    {
+      "senadoId": "34623871",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-27-10756",
+      "titulo": "Decreto nº 10.756 de 27/07/2021",
+      "data": "2021-07-27",
+      "numero": "10756",
+      "urn": "urn:lex:br:federal:decreto:2021-07-27;10756",
+      "ementa": "Institui o Sistema de Integridade Pública do Poder Executivo Federal."
+    },
+    {
+      "senadoId": "34621756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-26-10755",
+      "titulo": "Decreto nº 10.755 de 26/07/2021",
+      "data": "2021-07-26",
+      "numero": "10755",
+      "urn": "urn:lex:br:federal:decreto:2021-07-26;10755",
+      "ementa": "Regulamenta a Lei nº 8.313, de 23 de dezembro de 1991, estabelece a sistemática de execução do Programa Nacional de Apoio à Cultura - PRONAC, altera o Decreto nº 6.299, de 12 de dezembro de 2007, e o Decreto nº 9.891, de 27 de junho de 2019, e dá outras providências."
+    },
+    {
+      "senadoId": "34621156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-23-10752",
+      "titulo": "Decreto nº 10.752 de 23/07/2021",
+      "data": "2021-07-23",
+      "numero": "10752",
+      "urn": "urn:lex:br:federal:decreto:2021-07-23;10752",
+      "ementa": "Altera o Decreto nº 10.407, de 29 de junho de 2020, que regulamenta a Lei nº 13.993, de 23 de abril de 2020, que dispõe sobre a proibição de exportações de produtos médicos, hospitalares e de higiene essenciais ao combate à epidemia da covid-19 no País."
+    },
+    {
+      "senadoId": "34621230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-23-10753",
+      "titulo": "Decreto nº 10.753 de 23/07/2021",
+      "data": "2021-07-23",
+      "numero": "10753",
+      "urn": "urn:lex:br:federal:decreto:2021-07-23;10753",
+      "ementa": "Dispõe sobre a qualificação da concessão do Canal de Acesso Aquaviário do Complexo Portuário de Paranaguá e Antonina, Estado do Paraná, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34621304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-23-10754",
+      "titulo": "Decreto nº 10.754 de 23/07/2021",
+      "data": "2021-07-23",
+      "numero": "10754",
+      "urn": "urn:lex:br:federal:decreto:2021-07-23;10754",
+      "ementa": "Altera o Decreto nº 9.855, de 25 de junho de 2019, que dispõe sobre o Comitê Gestor do Programa Criança Feliz."
+    },
+    {
+      "senadoId": "34577560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-22-10751",
+      "titulo": "Decreto nº 10.751 de 22/07/2021",
+      "data": "2021-07-22",
+      "numero": "10751",
+      "urn": "urn:lex:br:federal:decreto:2021-07-22;10751",
+      "ementa": "Altera o Decreto nº 10.464, de 17 de agosto de 2020, para dispor sobre as ações emergenciais destinadas ao setor cultural a serem adotadas em decorrência dos efeitos econômicos e sociais da pandemia da covid-19."
+    },
+    {
+      "senadoId": "34301480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-19-10750",
+      "titulo": "Decreto nº 10.750 de 19/07/2021",
+      "data": "2021-07-19",
+      "numero": "10750",
+      "urn": "urn:lex:br:federal:decreto:2021-07-19;10750",
+      "ementa": "Regulamenta o procedimento de revisão da reforma por incapacidade definitiva para o serviço ativo ou por invalidez de militares inativos, de carreira ou temporários, das Forças Armadas."
+    },
+    {
+      "senadoId": "34301343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-19-10749",
+      "titulo": "Decreto nº 10.749 de 19/07/2021",
+      "data": "2021-07-19",
+      "numero": "10749",
+      "urn": "urn:lex:br:federal:decreto:2021-07-19;10749",
+      "ementa": "Dispõe sobre a execução da Decisão CMC nº 03/18, de 9 de outubro de 2018, do Conselho do Mercado Comum do Mercosul, que altera o Regime Aduaneiro de Bagagem no Mercosul."
+    },
+    {
+      "senadoId": "34300387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-16-10748",
+      "titulo": "Decreto nº 10.748 de 16/07/2021",
+      "data": "2021-07-16",
+      "numero": "10748",
+      "urn": "urn:lex:br:federal:decreto:2021-07-16;10748",
+      "ementa": "Institui a Rede Federal de Gestão de Incidentes Cibernéticos."
+    },
+    {
+      "senadoId": "34284192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-13-10747",
+      "titulo": "Decreto nº 10.747 de 13/07/2021",
+      "data": "2021-07-13",
+      "numero": "10747",
+      "urn": "urn:lex:br:federal:decreto:2021-07-13;10747",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério das Comunicações, remaneja e transforma cargos em comissão e funções de confiança e dá outras providências."
+    },
+    {
+      "senadoId": "34275560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-09-10746",
+      "titulo": "Decreto nº 10.746 de 09/07/2021",
+      "data": "2021-07-09",
+      "numero": "10746",
+      "urn": "urn:lex:br:federal:decreto:2021-07-09;10746",
+      "ementa": "Institui a Política de Ciência, Tecnologia e Inovação de Materiais Avançados e o Comitê Gestor de Materiais Avançados."
+    },
+    {
+      "senadoId": "34273584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-08-10744",
+      "titulo": "Decreto nº 10.744 de 08/07/2021",
+      "data": "2021-07-08",
+      "numero": "10744",
+      "urn": "urn:lex:br:federal:decreto:2021-07-08;10744",
+      "ementa": "Dispõe sobre a qualificação de trechos da Ferrovia de Integração Oeste-Leste no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34273658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-08-10745",
+      "titulo": "Decreto nº 10.745 de 08/07/2021",
+      "data": "2021-07-08",
+      "numero": "10745",
+      "urn": "urn:lex:br:federal:decreto:2021-07-08;10745",
+      "ementa": "Altera o Decreto nº 9.970, de 14 de agosto de 2019, que dispõe sobre o Comitê Federal de Assistência Emergencial."
+    },
+    {
+      "senadoId": "34273510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-08-10743",
+      "titulo": "Decreto nº 10.743 de 08/07/2021",
+      "data": "2021-07-08",
+      "numero": "10743",
+      "urn": "urn:lex:br:federal:decreto:2021-07-08;10743",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos públicos federais do setor de transporte portuário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34259921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-05-10741",
+      "titulo": "Decreto nº 10.741 de 05/07/2021",
+      "data": "2021-07-05",
+      "numero": "10741",
+      "urn": "urn:lex:br:federal:decreto:2021-07-05;10741",
+      "ementa": "O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso VI, alínea \"a\", da Constituição, e tendo em vista o disposto no art. 6º, caput, inciso I, da Lei nº 9.491, de 9 de setembro de 1997, no art. 7º, caput, inciso V, alínea \"c\", da Lei nº 13.334, de 13 de setembro de 2016, e na Resolução nº 181, de 27 de abril de 2021, do Conselho do Programa de Parcerias de Investimentos da Presidência da República,"
+    },
+    {
+      "senadoId": "34259995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-05-10742",
+      "titulo": "Decreto nº 10.742 de 05/07/2021",
+      "data": "2021-07-05",
+      "numero": "10742",
+      "urn": "urn:lex:br:federal:decreto:2021-07-05;10742",
+      "ementa": "Regulamenta a Lei nº 3.765, de 4 de maio de 1960, que dispõe sobre as pensões militares."
+    },
+    {
+      "senadoId": "34259847",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-05-10740",
+      "titulo": "Decreto nº 10.740 de 05/07/2021",
+      "data": "2021-07-05",
+      "numero": "10740",
+      "urn": "urn:lex:br:federal:decreto:2021-07-05;10740",
+      "ementa": "Prorroga o Auxílio Emergencial 2021 para o enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19), instituído pela Medida Provisória nº 1.039, de 18 de março de 2021."
+    },
+    {
+      "senadoId": "34251158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-01-10739",
+      "titulo": "Decreto nº 10.739 de 01/07/2021",
+      "data": "2021-07-01",
+      "numero": "10739",
+      "urn": "urn:lex:br:federal:decreto:2021-07-01;10739",
+      "ementa": "Regulamenta o art. 9º da Lei nº 14.161, de 2 de junho de 2021, para dispor sobre o Fundo Garantidor de Operações para pessoas jurídicas beneficiárias do Programa Emergencial de Retomada do Setor de Eventos, de que trata a Lei nº 14.148, de 3 de maio de 2021."
+    },
+    {
+      "senadoId": "34251084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-01-10738",
+      "titulo": "Decreto nº 10.738 de 01/07/2021",
+      "data": "2021-07-01",
+      "numero": "10738",
+      "urn": "urn:lex:br:federal:decreto:2021-07-01;10738",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos do setor de energia elétrica no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34251019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-07-01-10737",
+      "titulo": "Decreto nº 10.737 de 01/07/2021",
+      "data": "2021-07-01",
+      "numero": "10737",
+      "urn": "urn:lex:br:federal:decreto:2021-07-01;10737",
+      "ementa": "Altera o Decreto nº 9.191, de 1º de novembro de 2017, quanto ao encaminhamento de propostas de atos normativos que envolvam o Banco Central do Brasil."
+    },
+    {
+      "senadoId": "34229964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-29-10736",
+      "titulo": "Decreto nº 10.736 de 29/06/2021",
+      "data": "2021-06-29",
+      "numero": "10736",
+      "urn": "urn:lex:br:federal:decreto:2021-06-29;10736",
+      "ementa": "Institui a Rede Nacional Colaborativa para a Gestão Sustentável dos Recursos Pesqueiros - Rede Pesca Brasil."
+    },
+    {
+      "senadoId": "34225550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-28-10733",
+      "titulo": "Decreto nº 10.733 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "10733",
+      "urn": "urn:lex:br:federal:decreto:2021-06-28;10733",
+      "ementa": "Declara de utilidade pública, para fins de desapropriação ou de instituição de servidão de passagem, em favor da União, os imóveis de propriedade particular constituídos de terras, benfeitorias e acessões , inclusive o domínio útil dos terrenos foreiros que constituem as áreas complementares necessárias à implantação e conclusão do Projeto de Integração do Rio São Francisco com Bacias Hidrográficas do Nordeste Setentrional e de suas obras associadas, localizados nos Estados do Ceará, da Paraíba, de Pernambuco e do Rio Grande do Norte."
+    },
+    {
+      "senadoId": "34225624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-28-10734",
+      "titulo": "Decreto nº 10.734 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "10734",
+      "urn": "urn:lex:br:federal:decreto:2021-06-28;10734",
+      "ementa": "Dispõe sobre a qualificação das Florestas Nacionais de Três Barras e de Chapecó, localizadas no Estado de Santa Catarina e da Floresta Nacional de Irati, localizada no Estado do Paraná, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34225331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-28-10731",
+      "titulo": "Decreto nº 10.731 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "10731",
+      "urn": "urn:lex:br:federal:decreto:2021-06-28;10731",
+      "ementa": "Dispõe sobre a prorrogação do prazo para a apresentação obrigatória para o alistamento militar devido ao enfrentamento da pandemia da covid-19."
+    },
+    {
+      "senadoId": "34225257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-28-10730",
+      "titulo": "Decreto nº 10.730 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "10730",
+      "urn": "urn:lex:br:federal:decreto:2021-06-28;10730",
+      "ementa": "Autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem nas terras indígenas, em unidades federais de conservação ambiental, em áreas de propriedade ou sob posse da União e, por requerimento do respectivo Governador, em outras áreas dos Estados abrangidos."
+    },
+    {
+      "senadoId": "34225698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-28-10735",
+      "titulo": "Decreto nº 10.735 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "10735",
+      "urn": "urn:lex:br:federal:decreto:2021-06-28;10735",
+      "ementa": "Determina a suspensão da permissão do emprego do fogo de que trata o Decreto nº 2.661, de 8 de julho de 1998, no território nacional pelo prazo de cento e vinte dias."
+    },
+    {
+      "senadoId": "34225476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-28-10732",
+      "titulo": "Decreto nº 10.732 de 28/06/2021",
+      "data": "2021-06-28",
+      "numero": "10732",
+      "urn": "urn:lex:br:federal:decreto:2021-06-28;10732",
+      "ementa": "Institui o Comitê da Serra da Barriga."
+    },
+    {
+      "senadoId": "34218844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-23-10729",
+      "titulo": "Decreto nº 10.729 de 23/06/2021",
+      "data": "2021-06-23",
+      "numero": "10729",
+      "urn": "urn:lex:br:federal:decreto:2021-06-23;10729",
+      "ementa": "Dispõe sobre o Plano Sub-regional de Desenvolvimento Sustentável do Xingu e institui o seu Comitê Gestor."
+    },
+    {
+      "senadoId": "34218770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-23-10728",
+      "titulo": "Decreto nº 10.728 de 23/06/2021",
+      "data": "2021-06-23",
+      "numero": "10728",
+      "urn": "urn:lex:br:federal:decreto:2021-06-23;10728",
+      "ementa": "Regulamenta o art. 5º da Lei nº 8.745, de 9 de dezembro de 1993, para dispor sobre a autorização para realização das contratações por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do disposto no inciso IX do caput do art. 37 da Constituição."
+    },
+    {
+      "senadoId": "34213394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-22-10726",
+      "titulo": "Decreto nº 10.726 de 22/06/2021",
+      "data": "2021-06-22",
+      "numero": "10726",
+      "urn": "urn:lex:br:federal:decreto:2021-06-22;10726",
+      "ementa": "Altera o Decreto nº 10.035, de 1º de outubro de 2019, que institui a Plataforma +Brasil no âmbito da administração pública federal."
+    },
+    {
+      "senadoId": "34213468",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-22-10727",
+      "titulo": "Decreto nº 10.727 de 22/06/2021",
+      "data": "2021-06-22",
+      "numero": "10727",
+      "urn": "urn:lex:br:federal:decreto:2021-06-22;10727",
+      "ementa": "Altera o Decreto nº 9.088, de 6 de julho de 2017, que dispõe sobre cargos e funções considerados de natureza militar."
+    },
+    {
+      "senadoId": "34213320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-22-10725",
+      "titulo": "Decreto nº 10.725 de 22/06/2021",
+      "data": "2021-06-22",
+      "numero": "10725",
+      "urn": "urn:lex:br:federal:decreto:2021-06-22;10725",
+      "ementa": "Dispõe sobre a qualificação do Novo Hospital da Criança, localizado no Município de Guarulhos, Estado de São Paulo, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34207566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-17-10724",
+      "titulo": "Decreto nº 10.724 de 17/06/2021",
+      "data": "2021-06-17",
+      "numero": "10724",
+      "urn": "urn:lex:br:federal:decreto:2021-06-17;10724",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "34188845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-15-10722",
+      "titulo": "Decreto nº 10.722 de 15/06/2021",
+      "data": "2021-06-15",
+      "numero": "10722",
+      "urn": "urn:lex:br:federal:decreto:2021-06-15;10722",
+      "ementa": "Transforma o Conselho de Solidariedade para Combate à Covid-19 e aos seus Efeitos Sociais e Econômicos no Conselho de Solidariedade."
+    },
+    {
+      "senadoId": "34189800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-15-10723",
+      "titulo": "Decreto nº 10.723 de 15/06/2021",
+      "data": "2021-06-15",
+      "numero": "10723",
+      "urn": "urn:lex:br:federal:decreto:2021-06-15;10723",
+      "ementa": "Declara de interesse social, para fins de desapropriação, os imóveis rurais abrangidos pelo território quilombola Pedro Cubas, localizados no Município de Eldorado, Estado de São Paulo."
+    },
+    {
+      "senadoId": "34166212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-14-10720",
+      "titulo": "Decreto nº 10.720 de 14/06/2021",
+      "data": "2021-06-14",
+      "numero": "10720",
+      "urn": "urn:lex:br:federal:decreto:2021-06-14;10720",
+      "ementa": "Altera o Decreto nº 10.499, de 28 de setembro de 2020, e o Decreto nº 10.681, de 20 de abril de 2021, para dispor sobre os Conselhos de Supervisão de Regime de Recuperação Fiscal dos Estados e do Distrito Federal."
+    },
+    {
+      "senadoId": "34166286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-14-10721",
+      "titulo": "Decreto nº 10.721 de 14/06/2021",
+      "data": "2021-06-14",
+      "numero": "10721",
+      "urn": "urn:lex:br:federal:decreto:2021-06-14;10721",
+      "ementa": "Extingue o Consulado-Geral do Brasil nos Estados Unidos Mexicanos, com sede na Cidade do México, e transfere os serviços consulares para a Embaixada do Brasil no México."
+    },
+    {
+      "senadoId": "34158143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-12-10719",
+      "titulo": "Decreto nº 10.719 de 12/06/2021",
+      "data": "2021-06-12",
+      "numero": "10719",
+      "urn": "urn:lex:br:federal:decreto:2021-06-12;10719",
+      "ementa": "Declara luto oficial pelo falecimento do ex-Vice-Presidente da República Marco Antônio de Oliveira Maciel."
+    },
+    {
+      "senadoId": "34147571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-10-10717",
+      "titulo": "Decreto nº 10.717 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "10717",
+      "urn": "urn:lex:br:federal:decreto:2021-06-10;10717",
+      "ementa": "Altera o Decreto nº 9.933, de 23 de julho de 2019, que dispõe sobre o Conselho Nacional das Zonas de Processamento de Exportação."
+    },
+    {
+      "senadoId": "34147645",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-10-10718",
+      "titulo": "Decreto nº 10.718 de 10/06/2021",
+      "data": "2021-06-10",
+      "numero": "10718",
+      "urn": "urn:lex:br:federal:decreto:2021-06-10;10718",
+      "ementa": "Dispõe sobre a qualificação da política de atração de investimentos privados para o setor de cultura no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34141703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-08-10714",
+      "titulo": "Decreto nº 10.714 de 08/06/2021",
+      "data": "2021-06-08",
+      "numero": "10714",
+      "urn": "urn:lex:br:federal:decreto:2021-06-08;10714",
+      "ementa": "Promulga a Convenção entre a República Federativa do Brasil e a Confederação Suíça para Eliminar a Dupla Tributação em Relação aos Tributos sobre a Renda e Prevenir a Evasão e a Elisão Fiscais e o seu Protocolo, firmados em Brasília, em 3 de maio de 2018."
+    },
+    {
+      "senadoId": "34141851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-08-10716",
+      "titulo": "Decreto nº 10.716 de 08/06/2021",
+      "data": "2021-06-08",
+      "numero": "10716",
+      "urn": "urn:lex:br:federal:decreto:2021-06-08;10716",
+      "ementa": "Dispõe sobre a qualificação do Museu Marítimo do Brasil no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "34141777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-08-10715",
+      "titulo": "Decreto nº 10.715 de 08/06/2021",
+      "data": "2021-06-08",
+      "numero": "10715",
+      "urn": "urn:lex:br:federal:decreto:2021-06-08;10715",
+      "ementa": "Institui os Sistemas Estruturantes de Gestão de Pessoal da Administração Pública Federal."
+    },
+    {
+      "senadoId": "34138385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-07-10713",
+      "titulo": "Decreto nº 10.713 de 07/06/2021",
+      "data": "2021-06-07",
+      "numero": "10713",
+      "urn": "urn:lex:br:federal:decreto:2021-06-07;10713",
+      "ementa": "Dispõe sobre a Câmara Interministerial de Segurança Alimentar e Nutricional."
+    },
+    {
+      "senadoId": "34132731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-02-10711",
+      "titulo": "Decreto nº 10.711 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "10711",
+      "urn": "urn:lex:br:federal:decreto:2021-06-02;10711",
+      "ementa": "Institui o Banco Nacional de Perfis Balísticos, o Sistema Nacional de Análise Balística e o Comitê Gestor do Sistema Nacional de Análise Balística."
+    },
+    {
+      "senadoId": "34132805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-06-02-10712",
+      "titulo": "Decreto nº 10.712 de 02/06/2021",
+      "data": "2021-06-02",
+      "numero": "10712",
+      "urn": "urn:lex:br:federal:decreto:2021-06-02;10712",
+      "ementa": "Regulamenta a Lei nº 14.134, de 8 de abril de 2021, que dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art. 177 da Constituição, e sobre as atividades de escoamento, tratamento, processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comercialização de gás natural."
+    },
+    {
+      "senadoId": "34123538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-31-10710",
+      "titulo": "Decreto nº 10.710 de 31/05/2021",
+      "data": "2021-05-31",
+      "numero": "10710",
+      "urn": "urn:lex:br:federal:decreto:2021-05-31;10710",
+      "ementa": "Regulamenta o art. 10-B da Lei nº 11.445, de 5 de janeiro de 2007, para estabelecer a metodologia para comprovação da capacidade econômico-financeira dos prestadores de serviços públicos de abastecimento de água potável ou de esgotamento sanitário, considerados os contratos regulares em vigor, com vistas a viabilizar o cumprimento das metas de universalização previstas no caput do art. 11-B da Lei nº 11.445, de 2007."
+    },
+    {
+      "senadoId": "34121701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-29-10709",
+      "titulo": "Decreto nº 10.709 de 29/05/2021",
+      "data": "2021-05-29",
+      "numero": "10709",
+      "urn": "urn:lex:br:federal:decreto:2021-05-29;10709",
+      "ementa": "Altera o Decreto nº 10.699, de 14 de maio de 2021, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2021."
+    },
+    {
+      "senadoId": "34121602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-28-10707",
+      "titulo": "Decreto nº 10.707 de 28/05/2021",
+      "data": "2021-05-28",
+      "numero": "10707",
+      "urn": "urn:lex:br:federal:decreto:2021-05-28;10707",
+      "ementa": "Regulamenta a contratação de reserva de capacidade, na forma de potência, de que tratam os art. 3º e art. 3º-A da Lei nº 10.848, de 15 de março de 2004, e altera o Decreto nº 5.163, de 30 de julho de 2004, e o Decreto nº 5.177, de 12 de agosto de 2004."
+    },
+    {
+      "senadoId": "34121528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-28-10708",
+      "titulo": "Decreto nº 10.708 de 28/05/2021",
+      "data": "2021-05-28",
+      "numero": "10708",
+      "urn": "urn:lex:br:federal:decreto:2021-05-28;10708",
+      "ementa": "Altera o Decreto nº 10.527, de 22 de outubro de 2020, que institui o Selo Biocombustível Social e dispõe sobre os coeficientes de redução das alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público e da Contribuição Social para o Financiamento da Seguridade Social, incidentes na produção e na comercialização de biodiesel, e sobre os termos e as condições para a utilização das alíquotas diferenciadas."
+    },
+    {
+      "senadoId": "34013389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-26-10705",
+      "titulo": "Decreto nº 10.705 de 26/05/2021",
+      "data": "2021-05-26",
+      "numero": "10705",
+      "urn": "urn:lex:br:federal:decreto:2021-05-26;10705",
+      "ementa": "Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo dos Emirados Árabes Unidos para Eliminar a Dupla Tributação em Relação aos Tributos sobre a Renda e Prevenir a Evasão e a Elisão Fiscais e o seu Protocolo, firmados em Brasília, em 12 de novembro de 2018."
+    },
+    {
+      "senadoId": "34013463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-26-10706",
+      "titulo": "Decreto nº 10.706 de 26/05/2021",
+      "data": "2021-05-26",
+      "numero": "10706",
+      "urn": "urn:lex:br:federal:decreto:2021-05-26;10706",
+      "ementa": "Altera o Decreto nº 9.982, de 20 de agosto de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria-Geral da Presidência da República."
+    },
+    {
+      "senadoId": "34006922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-21-10704",
+      "titulo": "Decreto nº 10.704 de 21/05/2021",
+      "data": "2021-05-21",
+      "numero": "10704",
+      "urn": "urn:lex:br:federal:decreto:2021-05-21;10704",
+      "ementa": "Fixa, para a Aeronáutica, os quantitativos de vagas para promoções obrigatórias de Oficiais, para os Quadros que menciona, no ano-base de 2021."
+    },
+    {
+      "senadoId": "33990126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-18-10703",
+      "titulo": "Decreto nº 10.703 de 18/05/2021",
+      "data": "2021-05-18",
+      "numero": "10703",
+      "urn": "urn:lex:br:federal:decreto:2021-05-18;10703",
+      "ementa": "Institui a Comissão Nacional das Autoridades Aeroportuárias, a Comissão Nacional das Autoridades nos Portos e a Comissão Nacional das Autoridades de Transportes Terrestres."
+    },
+    {
+      "senadoId": "33990052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-18-10702",
+      "titulo": "Decreto nº 10.702 de 18/05/2021",
+      "data": "2021-05-18",
+      "numero": "10702",
+      "urn": "urn:lex:br:federal:decreto:2021-05-18;10702",
+      "ementa": "Institui o Programa de Incentivo ao Transporte Rodoviário de Cargas - Programa Gigantes do Asfalto."
+    },
+    {
+      "senadoId": "33985956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-17-10701",
+      "titulo": "Decreto nº 10.701 de 17/05/2021",
+      "data": "2021-05-17",
+      "numero": "10701",
+      "urn": "urn:lex:br:federal:decreto:2021-05-17;10701",
+      "ementa": "Institui o Programa Nacional de Enfrentamento da Violência contra Crianças e Adolescentes e a Comissão Intersetorial de Enfrentamento à Violência contra Crianças e Adolescentes."
+    },
+    {
+      "senadoId": "33975938",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-14-10699",
+      "titulo": "Decreto nº 10.699 de 14/05/2021",
+      "data": "2021-05-14",
+      "numero": "10699",
+      "urn": "urn:lex:br:federal:decreto:2021-05-14;10699",
+      "ementa": "Dispõe sobre a programação orçamentária e financeira, estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2021 e dá outras providências."
+    },
+    {
+      "senadoId": "33976035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-14-10700",
+      "titulo": "Decreto nº 10.700 de 14/05/2021",
+      "data": "2021-05-14",
+      "numero": "10700",
+      "urn": "urn:lex:br:federal:decreto:2021-05-14;10700",
+      "ementa": "Dispõe sobre a qualificação de trecho da rodovia BR-235/PE no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33969845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-12-10698",
+      "titulo": "Decreto nº 10.698 de 12/05/2021",
+      "data": "2021-05-12",
+      "numero": "10698",
+      "urn": "urn:lex:br:federal:decreto:2021-05-12;10698",
+      "ementa": "Remaneja e transforma Gratificações Temporárias pelo exercício na Advocacia-Geral da União - GT e Gratificações de Representação de Gabinete - RGA em Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE."
+    },
+    {
+      "senadoId": "33824988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-10-10697",
+      "titulo": "Decreto nº 10.697 de 10/05/2021",
+      "data": "2021-05-10",
+      "numero": "10697",
+      "urn": "urn:lex:br:federal:decreto:2021-05-10;10697",
+      "ementa": "Altera o Decreto nº 9.795, de 17 de maio de 2019, para criar a Secretaria Extraordinária de Enfrentamento à Covid-19 e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "33806971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-06-10696",
+      "titulo": "Decreto nº 10.696 de 06/05/2021",
+      "data": "2021-05-06",
+      "numero": "10696",
+      "urn": "urn:lex:br:federal:decreto:2021-05-06;10696",
+      "ementa": "Altera o Decreto nº 6.317, de 20 de dezembro de 2007, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, e remaneja cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "33788954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-04-10695",
+      "titulo": "Decreto nº 10.695 de 04/05/2021",
+      "data": "2021-05-04",
+      "numero": "10695",
+      "urn": "urn:lex:br:federal:decreto:2021-05-04;10695",
+      "ementa": "Dispõe sobre a antecipação do abono anual devido aos segurados e aos dependentes da Previdência Social no ano de 2021."
+    },
+    {
+      "senadoId": "33788806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-04-10693",
+      "titulo": "Decreto nº 10.693 de 04/05/2021",
+      "data": "2021-05-04",
+      "numero": "10693",
+      "urn": "urn:lex:br:federal:decreto:2021-05-04;10693",
+      "ementa": "Dispõe sobre a qualificação das usinas hidrelétricas planejadas UHE Ercilândia e UHE Apertados no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33788880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-04-10694",
+      "titulo": "Decreto nº 10.694 de 04/05/2021",
+      "data": "2021-05-04",
+      "numero": "10694",
+      "urn": "urn:lex:br:federal:decreto:2021-05-04;10694",
+      "ementa": "Altera o Decreto nº 10.609, de 26 de janeiro de 2021, para modificar a composição do Fórum Nacional de Modernização do Estado."
+    },
+    {
+      "senadoId": "33734073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-03-10691",
+      "titulo": "Decreto nº 10.691 de 03/05/2021",
+      "data": "2021-05-03",
+      "numero": "10691",
+      "urn": "urn:lex:br:federal:decreto:2021-05-03;10691",
+      "ementa": "Altera o Decreto nº 9.839, de 14 de junho de 2019, que dispõe sobre o Comitê de Desenvolvimento do Programa Espacial Brasileiro."
+    },
+    {
+      "senadoId": "33734147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-05-03-10692",
+      "titulo": "Decreto nº 10.692 de 03/05/2021",
+      "data": "2021-05-03",
+      "numero": "10692",
+      "urn": "urn:lex:br:federal:decreto:2021-05-03;10692",
+      "ementa": "Institui o Cadastro Nacional de Municípios com Áreas Suscetíveis à Ocorrência de Deslizamentos de Grande Impacto, Inundações Bruscas ou Processos Geológicos ou Hidrológicos Correlatos."
+    },
+    {
+      "senadoId": "33714779",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-29-10690",
+      "titulo": "Decreto nº 10.690 de 29/04/2021",
+      "data": "2021-04-29",
+      "numero": "10690",
+      "urn": "urn:lex:br:federal:decreto:2021-04-29;10690",
+      "ementa": "Regulamenta o processo de transição entre empresas estatais federais dependentes e não dependentes."
+    },
+    {
+      "senadoId": "33668150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-27-10689",
+      "titulo": "Decreto nº 10.689 de 27/04/2021",
+      "data": "2021-04-27",
+      "numero": "10689",
+      "urn": "urn:lex:br:federal:decreto:2021-04-27;10689",
+      "ementa": "Institui o Grupo de Apoio a Desastres no âmbito do Ministério do Desenvolvimento Regional."
+    },
+    {
+      "senadoId": "33660379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-26-10688",
+      "titulo": "Decreto nº 10.688 de 26/04/2021",
+      "data": "2021-04-26",
+      "numero": "10688",
+      "urn": "urn:lex:br:federal:decreto:2021-04-26;10688",
+      "ementa": "Altera o Decreto nº 9.064, de 31 de maio de 2017, que dispõe sobre a Unidade Familiar de Produção Agrária, institui o Cadastro Nacional da Agricultura Familiar e regulamenta a Lei nº 11.326, de 24 de julho de 2006, que estabelece as diretrizes para a formulação da Política Nacional da Agricultura Familiar e empreendimentos familiares rurais."
+    },
+    {
+      "senadoId": "33660305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-26-10687",
+      "titulo": "Decreto nº 10.687 de 26/04/2021",
+      "data": "2021-04-26",
+      "numero": "10687",
+      "urn": "urn:lex:br:federal:decreto:2021-04-26;10687",
+      "ementa": "Dispõe sobre a qualificação dos projetos e empreendimentos vinculados aos procedimentos de disponibilidade de áreas para pesquisa ou lavra de recursos minerais realizados pela Agência Nacional de Mineração durante os exercícios de 2021 e 2022 no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33595528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-22-10684",
+      "titulo": "Decreto nº 10.684 de 22/04/2021",
+      "data": "2021-04-22",
+      "numero": "10684",
+      "urn": "urn:lex:br:federal:decreto:2021-04-22;10684",
+      "ementa": "Fixa, para o Exército, os quantitativos de vagas para promoções obrigatórias de Oficiais, para as Armas, os Quadros e os Serviços que menciona, no ano-base de 2021."
+    },
+    {
+      "senadoId": "33595676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-22-10686",
+      "titulo": "Decreto nº 10.686 de 22/04/2021",
+      "data": "2021-04-22",
+      "numero": "10686",
+      "urn": "urn:lex:br:federal:decreto:2021-04-22;10686",
+      "ementa": "Dispõe sobre o bloqueio de dotações orçamentárias primárias discricionárias e dá outras providências."
+    },
+    {
+      "senadoId": "33595602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-22-10685",
+      "titulo": "Decreto nº 10.685 de 22/04/2021",
+      "data": "2021-04-22",
+      "numero": "10685",
+      "urn": "urn:lex:br:federal:decreto:2021-04-22;10685",
+      "ementa": "Fixa, para a Marinha, os quantitativos de vagas para promoções obrigatórias de Oficiais, para os Corpos e os Quadros que menciona, no ano-base de 2021."
+    },
+    {
+      "senadoId": "33581129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-20-10682",
+      "titulo": "Decreto nº 10.682 de 20/04/2021",
+      "data": "2021-04-20",
+      "numero": "10682",
+      "urn": "urn:lex:br:federal:decreto:2021-04-20;10682",
+      "ementa": "Altera o Decreto nº 10.625, de 11 de fevereiro de 2021, que dispõe sobre a execução orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo federal até a publicação da Lei Orçamentária de 2021, e sobre a programação financeira."
+    },
+    {
+      "senadoId": "33581203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-20-10683",
+      "titulo": "Decreto nº 10.683 de 20/04/2021",
+      "data": "2021-04-20",
+      "numero": "10683",
+      "urn": "urn:lex:br:federal:decreto:2021-04-20;10683",
+      "ementa": "Altera o Decreto nº 10.464, de 17 de agosto de 2020, que regulamenta a Lei nº 14.017, de 29 de junho de 2020, que dispõe sobre as ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020."
+    },
+    {
+      "senadoId": "33581301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-20-10681",
+      "titulo": "Decreto nº 10.681 de 20/04/2021",
+      "data": "2021-04-20",
+      "numero": "10681",
+      "urn": "urn:lex:br:federal:decreto:2021-04-20;10681",
+      "ementa": "Regulamenta a Lei Complementar nº 159, de 19 de maio de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal."
+    },
+    {
+      "senadoId": "33568482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-19-10680",
+      "titulo": "Decreto nº 10.680 de 19/04/2021",
+      "data": "2021-04-19",
+      "numero": "10680",
+      "urn": "urn:lex:br:federal:decreto:2021-04-19;10680",
+      "ementa": "Altera o Decreto nº 10.357, de 20 de maio de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Cidadania e remaneja e transforma cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "33546217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-16-10677",
+      "titulo": "Decreto nº 10.677 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "10677",
+      "urn": "urn:lex:br:federal:decreto:2021-04-16;10677",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos turísticos no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33546291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-16-10678",
+      "titulo": "Decreto nº 10.678 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "10678",
+      "urn": "urn:lex:br:federal:decreto:2021-04-16;10678",
+      "ementa": "Dispõe sobre a qualificação da política de fomento a parcerias com a iniciativa privada para estudar alternativas habitacionais destinadas à locação social no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33546365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-16-10679",
+      "titulo": "Decreto nº 10.679 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "10679",
+      "urn": "urn:lex:br:federal:decreto:2021-04-16;10679",
+      "ementa": "Dispõe sobre a Medalha do Soldado do Silêncio e a Medalha Tributo à Força Expedicionária Brasileira e altera o Decreto nº 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares."
+    },
+    {
+      "senadoId": "33546143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-16-10676",
+      "titulo": "Decreto nº 10.676 de 16/04/2021",
+      "data": "2021-04-16",
+      "numero": "10676",
+      "urn": "urn:lex:br:federal:decreto:2021-04-16;10676",
+      "ementa": "Dispõe sobre a qualificação das Florestas Nacionais de Balata-Tufari, de Pau Rosa e de Jatuarana, localizadas no Estado do Amazonas, no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33473908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-14-10675",
+      "titulo": "Decreto nº 10.675 de 14/04/2021",
+      "data": "2021-04-14",
+      "numero": "10675",
+      "urn": "urn:lex:br:federal:decreto:2021-04-14;10675",
+      "ementa": "Dispõe sobre a qualificação de projetos do setor de mineração no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33462458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-13-10673",
+      "titulo": "Decreto nº 10.673 de 13/04/2021",
+      "data": "2021-04-13",
+      "numero": "10673",
+      "urn": "urn:lex:br:federal:decreto:2021-04-13;10673",
+      "ementa": "Dispõe sobre a qualificação de unidades de conservação no Programa de Parcerias de Investimentos da Presidência da República e sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "33462532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-13-10674",
+      "titulo": "Decreto nº 10.674 de 13/04/2021",
+      "data": "2021-04-13",
+      "numero": "10674",
+      "urn": "urn:lex:br:federal:decreto:2021-04-13;10674",
+      "ementa": "Dispõe sobre a inclusão da Empresa Brasileira de Correios e Telégrafos no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "33454430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-12-10672",
+      "titulo": "Decreto nº 10.672 de 12/04/2021",
+      "data": "2021-04-12",
+      "numero": "10672",
+      "urn": "urn:lex:br:federal:decreto:2021-04-12;10672",
+      "ementa": "Altera o Decreto nº 8.033, de 27 de junho de 2013, que regulamenta o disposto na Lei nº 12.815, de 5 de junho de 2013, e as demais disposições legais que regulam a exploração de portos organizados e de instalações portuárias."
+    },
+    {
+      "senadoId": "33445724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-09-10671",
+      "titulo": "Decreto nº 10.671 de 09/04/2021",
+      "data": "2021-04-09",
+      "numero": "10671",
+      "urn": "urn:lex:br:federal:decreto:2021-04-09;10671",
+      "ementa": "Promulga o texto da Convenção sobre Trabalho Marítimo - CTM, 2006, firmado em Genebra, em 7 de fevereiro de 2006."
+    },
+    {
+      "senadoId": "33429800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-08-10668",
+      "titulo": "Decreto nº 10.668 de 08/04/2021",
+      "data": "2021-04-08",
+      "numero": "10668",
+      "urn": "urn:lex:br:federal:decreto:2021-04-08;10668",
+      "ementa": "Altera o Decreto nº 7.212, de 15 de junho de 2010, que regulamenta a cobrança, a fiscalização, a arrecadação e a administração do Imposto sobre Produtos Industrializados - IPI."
+    },
+    {
+      "senadoId": "33429059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-08-10670",
+      "titulo": "Decreto nº 10.670 de 08/04/2021",
+      "data": "2021-04-08",
+      "numero": "10670",
+      "urn": "urn:lex:br:federal:decreto:2021-04-08;10670",
+      "ementa": "Dispõe sobre a qualificação da Centrais Elétricas Brasileiras S.A. - Eletrobras no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "33428696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-08-10669",
+      "titulo": "Decreto nº 10.669 de 08/04/2021",
+      "data": "2021-04-08",
+      "numero": "10669",
+      "urn": "urn:lex:br:federal:decreto:2021-04-08;10669",
+      "ementa": "Dispõe sobre a inclusão da Empresa Brasil de Comunicação S.A. no Programa Nacional de Desestatização e altera o Decreto nº 10.354, de 20 de maio de 2020."
+    },
+    {
+      "senadoId": "33419091",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-05-10667",
+      "titulo": "Decreto nº 10.667 de 05/04/2021",
+      "data": "2021-04-05",
+      "numero": "10667",
+      "urn": "urn:lex:br:federal:decreto:2021-04-05;10667",
+      "ementa": "Altera o Decreto nº 9.764, de 11 de abril de 2019, que dispõe sobre o recebimento de doações de bens móveis e de serviços de pessoas físicas ou jurídicas de direito privado pelos órgãos e pelas entidades da administração pública federal direta, autárquica e fundacional."
+    },
+    {
+      "senadoId": "33419017",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-04-05-10666",
+      "titulo": "Decreto nº 10.666 de 05/04/2021",
+      "data": "2021-04-05",
+      "numero": "10666",
+      "urn": "urn:lex:br:federal:decreto:2021-04-05;10666",
+      "ementa": "Altera o Decreto nº 10.020, de 17 de setembro de 2019, que dispõe sobre a Comissão Especial dos ex-Territórios Federais de Rondônia, do Amapá e de Roraima - CEEXT."
+    },
+    {
+      "senadoId": "33382382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-31-10665",
+      "titulo": "Decreto nº 10.665 de 31/03/2021",
+      "data": "2021-03-31",
+      "numero": "10665",
+      "urn": "urn:lex:br:federal:decreto:2021-03-31;10665",
+      "ementa": "Altera o Decreto nº 4.550, de 27 de dezembro de 2002, que regulamenta a comercialização de energia elétrica gerada pela Eletrobrás Termonuclear S/A - ELETRONUCLEAR, por ITAIPU Binacional, e dá outras providências."
+    },
+    {
+      "senadoId": "33382308",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-31-10664",
+      "titulo": "Decreto nº 10.664 de 31/03/2021",
+      "data": "2021-03-31",
+      "numero": "10664",
+      "urn": "urn:lex:br:federal:decreto:2021-03-31;10664",
+      "ementa": "Altera o Decreto nº 8.139, de 7 de novembro de 2013, que dispõe sobre as condições para extinção do serviço de radiodifusão sonora em ondas médias de caráter local, sobre a adaptação das outorgas vigentes para execução deste serviço, e o Decreto nº 10.312, de 4 de abril de 2020, que amplia, temporariamente, o escopo de multiprogramação com conteúdo específico destinado às atividades de educação, ciência, tecnologia, inovações, cidadania e saúde de entidades executoras de serviço de radiodifusão de sons e imagens em tecnologia digital, com fins exclusivamente educacionais ou de exploração comercial, em razão da pandemia da covid-19."
+    },
+    {
+      "senadoId": "33378736",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-30-10663",
+      "titulo": "Decreto nº 10.663 de 30/03/2021",
+      "data": "2021-03-30",
+      "numero": "10663",
+      "urn": "urn:lex:br:federal:decreto:2021-03-30;10663",
+      "ementa": "Altera o Decreto nº 10.625, de 11 de fevereiro de 2021, que dispõe sobre a execução orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo federal até a publicação da Lei Orçamentária de 2021, e sobre a programação financeira."
+    },
+    {
+      "senadoId": "33358907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-29-10662",
+      "titulo": "Decreto nº 10.662 de 29/03/2021",
+      "data": "2021-03-29",
+      "numero": "10662",
+      "urn": "urn:lex:br:federal:decreto:2021-03-29;10662",
+      "ementa": "Altera o Decreto nº 10.253, de 20 de fevereiro de 2020, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Agricultura, Pecuária e Abastecimento, e remaneja, transforma e substitui cargos em comissão e funções de confiança."
+    },
+    {
+      "senadoId": "33356401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-26-10661",
+      "titulo": "Decreto nº 10.661 de 26/03/2021",
+      "data": "2021-03-26",
+      "numero": "10661",
+      "urn": "urn:lex:br:federal:decreto:2021-03-26;10661",
+      "ementa": "Regulamenta a Medida Provisória nº 1.039, de 18 de março de 2021, que institui o Auxílio Emergencial 2021 para o enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19)."
+    },
+    {
+      "senadoId": "33354635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-25-10660",
+      "titulo": "Decreto nº 10.660 de 25/03/2021",
+      "data": "2021-03-25",
+      "numero": "10660",
+      "urn": "urn:lex:br:federal:decreto:2021-03-25;10660",
+      "ementa": "Institui o Comitê Permanente de Avaliação de Custos na Educação Básica do Ministério da Educação."
+    },
+    {
+      "senadoId": "33354561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-25-10659",
+      "titulo": "Decreto nº 10.659 de 25/03/2021",
+      "data": "2021-03-25",
+      "numero": "10659",
+      "urn": "urn:lex:br:federal:decreto:2021-03-25;10659",
+      "ementa": "Institui o Comitê de Coordenação Nacional para Enfrentamento da Pandemia da Covid-19."
+    },
+    {
+      "senadoId": "33351601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-24-10657",
+      "titulo": "Decreto nº 10.657 de 24/03/2021",
+      "data": "2021-03-24",
+      "numero": "10657",
+      "urn": "urn:lex:br:federal:decreto:2021-03-24;10657",
+      "ementa": "Institui a Política de Apoio ao Licenciamento Ambiental de Projetos de Investimentos para a Produção de Minerais Estratégicos - Pró-Minerais Estratégicos, dispõe sobre sua qualificação no âmbito do Programa de Parcerias de Investimentos da Presidência da República e institui o Comitê Interministerial de Análise de Projetos de Minerais Estratégicos."
+    },
+    {
+      "senadoId": "33351527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-24-10658",
+      "titulo": "Decreto nº 10.658 de 24/03/2021",
+      "data": "2021-03-24",
+      "numero": "10658",
+      "urn": "urn:lex:br:federal:decreto:2021-03-24;10658",
+      "ementa": "Altera o Decreto nº 9.829, de 10 de junho de 2019, que dispõe sobre o Conselho Deliberativo do Sistema de Proteção da Amazônia."
+    },
+    {
+      "senadoId": "33347000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-22-10655",
+      "titulo": "Decreto nº 10.655 de 22/03/2021",
+      "data": "2021-03-22",
+      "numero": "10655",
+      "urn": "urn:lex:br:federal:decreto:2021-03-22;10655",
+      "ementa": "Institui o Conselho de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação da União."
+    },
+    {
+      "senadoId": "33347074",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-22-10656",
+      "titulo": "Decreto nº 10.656 de 22/03/2021",
+      "data": "2021-03-22",
+      "numero": "10656",
+      "urn": "urn:lex:br:federal:decreto:2021-03-22;10656",
+      "ementa": "Regulamenta a Lei nº 14.113, de 25 de dezembro de 2020, que dispõe sobre o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação."
+    },
+    {
+      "senadoId": "33346926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-22-10654",
+      "titulo": "Decreto nº 10.654 de 22/03/2021",
+      "data": "2021-03-22",
+      "numero": "10654",
+      "urn": "urn:lex:br:federal:decreto:2021-03-22;10654",
+      "ementa": "Dispõe sobre a avaliação biopsicossocial da visão monocular para fins de reconhecimento da condição de pessoa com deficiência."
+    },
+    {
+      "senadoId": "33343891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-19-10653",
+      "titulo": "Decreto nº 10.653 de 19/03/2021",
+      "data": "2021-03-19",
+      "numero": "10653",
+      "urn": "urn:lex:br:federal:decreto:2021-03-19;10653",
+      "ementa": "Dispõe sobre a qualificação de projetos e empreendimentos públicos federais do setor de energia elétrica no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33343817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-19-10652",
+      "titulo": "Decreto nº 10.652 de 19/03/2021",
+      "data": "2021-03-19",
+      "numero": "10652",
+      "urn": "urn:lex:br:federal:decreto:2021-03-19;10652",
+      "ementa": "Altera o Decreto nº 10.195, de 30 de dezembro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Educação, e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "33338629",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-18-10651",
+      "titulo": "Decreto nº 10.651 de 18/03/2021",
+      "data": "2021-03-18",
+      "numero": "10651",
+      "urn": "urn:lex:br:federal:decreto:2021-03-18;10651",
+      "ementa": "Regulamenta o § 3º do art. 50 da Lei nº 6.880, de 9 de dezembro de 1980."
+    },
+    {
+      "senadoId": "33335558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-17-10650",
+      "titulo": "Decreto nº 10.650 de 17/03/2021",
+      "data": "2021-03-17",
+      "numero": "10650",
+      "urn": "urn:lex:br:federal:decreto:2021-03-17;10650",
+      "ementa": "Institui o Programa Integra Brasil e o Comitê Gestor do Programa Integra Brasil."
+    },
+    {
+      "senadoId": "33333295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-16-10649",
+      "titulo": "Decreto nº 10.649 de 16/03/2021",
+      "data": "2021-03-16",
+      "numero": "10649",
+      "urn": "urn:lex:br:federal:decreto:2021-03-16;10649",
+      "ementa": "Altera o Decreto nº 10.625, de 11 de fevereiro de 2021, que dispõe sobre a execução orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo federal até a publicação da Lei Orçamentária de 2021, e sobre a programação financeira."
+    },
+    {
+      "senadoId": "33322164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-12-10648",
+      "titulo": "Decreto nº 10.648 de 12/03/2021",
+      "data": "2021-03-12",
+      "numero": "10648",
+      "urn": "urn:lex:br:federal:decreto:2021-03-12;10648",
+      "ementa": "Institui a Política de Modernização da Infraestrutura Federal de Transporte Rodoviário - inov@BR e a qualifica no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33310487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-11-10645",
+      "titulo": "Decreto nº 10.645 de 11/03/2021",
+      "data": "2021-03-11",
+      "numero": "10645",
+      "urn": "urn:lex:br:federal:decreto:2021-03-11;10645",
+      "ementa": "Regulamenta o art. 75 da Lei nº 13.146, de 6 julho de 2015, para dispor sobre as diretrizes, os objetivos e os eixos do Plano Nacional de Tecnologia Assistiva."
+    },
+    {
+      "senadoId": "33310635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-11-10647",
+      "titulo": "Decreto nº 10.647 de 11/03/2021",
+      "data": "2021-03-11",
+      "numero": "10647",
+      "urn": "urn:lex:br:federal:decreto:2021-03-11;10647",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público federal do setor rodoviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33310561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-11-10646",
+      "titulo": "Decreto nº 10.646 de 11/03/2021",
+      "data": "2021-03-11",
+      "numero": "10646",
+      "urn": "urn:lex:br:federal:decreto:2021-03-11;10646",
+      "ementa": "Declara a revogação, para os fins do disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, de decretos normativos."
+    },
+    {
+      "senadoId": "33303677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-10-10644",
+      "titulo": "Decreto nº 10.644 de 10/03/2021",
+      "data": "2021-03-10",
+      "numero": "10644",
+      "urn": "urn:lex:br:federal:decreto:2021-03-10;10644",
+      "ementa": "Prorroga o prazo de inventariança da extinta empresa binacional Alcântara Cyclone Space e altera o Decreto nº 9.581, de 23 de novembro de 2018, que dispõe sobre a extinção da empresa binacional Alcântara Cyclone Space e organiza os trabalhos de sua inventariança."
+    },
+    {
+      "senadoId": "33289319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-03-10642",
+      "titulo": "Decreto nº 10.642 de 03/03/2021",
+      "data": "2021-03-03",
+      "numero": "10642",
+      "urn": "urn:lex:br:federal:decreto:2021-03-03;10642",
+      "ementa": "Altera o Decreto nº 10.311, de 3 de abril de 2020, que institui o Conselho de Solidariedade para Combate à Covid-19 e aos seus Efeitos Sociais e Econômicos."
+    },
+    {
+      "senadoId": "33289393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-03-10643",
+      "titulo": "Decreto nº 10.643 de 03/03/2021",
+      "data": "2021-03-03",
+      "numero": "10643",
+      "urn": "urn:lex:br:federal:decreto:2021-03-03;10643",
+      "ementa": "Altera o Decreto nº 9.893, de 27 de junho de 2019, que dispõe sobre o Conselho Nacional dos Direitos da Pessoa Idosa."
+    },
+    {
+      "senadoId": "33276254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-02-10641",
+      "titulo": "Decreto nº 10.641 de 02/03/2021",
+      "data": "2021-03-02",
+      "numero": "10641",
+      "urn": "urn:lex:br:federal:decreto:2021-03-02;10641",
+      "ementa": "Altera o Decreto nº 9.637, de 26 de dezembro de 2018, que institui a Política Nacional de Segurança da Informação, dispõe sobre a governança da segurança da informação, e altera o Decreto nº 2.295, de 4 de agosto de 1997, que regulamenta o disposto no art. 24, caput, inciso IX, da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre a dispensa de licitação nos casos que possam comprometer a segurança nacional."
+    },
+    {
+      "senadoId": "33265684",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-01-10639",
+      "titulo": "Decreto nº 10.639 de 01/03/2021",
+      "data": "2021-03-01",
+      "numero": "10639",
+      "urn": "urn:lex:br:federal:decreto:2021-03-01;10639",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos Comissionados da Agência Nacional de Águas e Saneamento Básico - ANA e transforma e remaneja cargos em comissão."
+    },
+    {
+      "senadoId": "33265587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-01-10638",
+      "titulo": "Decreto nº 10.638 de 01/03/2021",
+      "data": "2021-03-01",
+      "numero": "10638",
+      "urn": "urn:lex:br:federal:decreto:2021-03-01;10638",
+      "ementa": "Altera o Decreto nº 5.059, de 30 de abril de 2004, que reduz as alíquotas da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público e da Contribuição para o Financiamento da Seguridade Social incidentes sobre a importação e a comercialização de gasolina, óleo diesel, gás liquefeito de petróleo e querosene de aviação."
+    },
+    {
+      "senadoId": "33265758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-03-01-10640",
+      "titulo": "Decreto nº 10.640 de 01/03/2021",
+      "data": "2021-03-01",
+      "numero": "10640",
+      "urn": "urn:lex:br:federal:decreto:2021-03-01;10640",
+      "ementa": "Altera o Decreto nº 8.734, de 2 de maio de 2016, que aprova o Regulamento para o Quadro Complementar de Oficiais do Exército (R-41)."
+    },
+    {
+      "senadoId": "33263008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-26-10636",
+      "titulo": "Decreto nº 10.636 de 26/02/2021",
+      "data": "2021-02-26",
+      "numero": "10636",
+      "urn": "urn:lex:br:federal:decreto:2021-02-26;10636",
+      "ementa": "Altera o Decreto nº 9.278, de 5 de fevereiro de 2018, que regulamenta a Lei nº 7.116, de 29 de agosto de 1983, que assegura validade nacional às Carteiras de Identidade e regula sua expedição."
+    },
+    {
+      "senadoId": "33263082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-26-10637",
+      "titulo": "Decreto nº 10.637 de 26/02/2021",
+      "data": "2021-02-26",
+      "numero": "10637",
+      "urn": "urn:lex:br:federal:decreto:2021-02-26;10637",
+      "ementa": "Altera o Decreto nº 10.625, de 11 de fevereiro de 2021, que dispõe sobre a execução orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo federal até a publicação da Lei Orçamentária de 2021, e sobre a programação financeira."
+    },
+    {
+      "senadoId": "33243982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-22-10634",
+      "titulo": "Decreto nº 10.634 de 22/02/2021",
+      "data": "2021-02-22",
+      "numero": "10634",
+      "urn": "urn:lex:br:federal:decreto:2021-02-22;10634",
+      "ementa": "Dispõe sobre a divulgação de informações aos consumidores referentes aos preços dos combustíveis automotivos."
+    },
+    {
+      "senadoId": "33244077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-22-10635",
+      "titulo": "Decreto nº 10.635 de 22/02/2021",
+      "data": "2021-02-22",
+      "numero": "10635",
+      "urn": "urn:lex:br:federal:decreto:2021-02-22;10635",
+      "ementa": "Dispõe sobre a qualificação de empreendimentos dos setores de transporte rodoviário, portuário e aeroportuário no âmbito do Programa de Parcerias de Investimentos da Presidência da República e sobre a inclusão de empreendimentos públicos federais dos setores portuários e aeroportuário no Programa Nacional de Desestatização."
+    },
+    {
+      "senadoId": "33240102",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-18-10631",
+      "titulo": "Decreto nº 10.631 de 18/02/2021",
+      "data": "2021-02-18",
+      "numero": "10631",
+      "urn": "urn:lex:br:federal:decreto:2021-02-18;10631",
+      "ementa": "Altera o Decreto nº 2.295, de 4 de agosto de 1997, que regulamenta o disposto no art. 24, caput, inciso IX, da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre a dispensa de licitação nos casos que possam comprometer a segurança nacional."
+    },
+    {
+      "senadoId": "33240250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-18-10633",
+      "titulo": "Decreto nº 10.633 de 18/02/2021",
+      "data": "2021-02-18",
+      "numero": "10633",
+      "urn": "urn:lex:br:federal:decreto:2021-02-18;10633",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público federal do setor ferroviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33240176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-18-10632",
+      "titulo": "Decreto nº 10.632 de 18/02/2021",
+      "data": "2021-02-18",
+      "numero": "10632",
+      "urn": "urn:lex:br:federal:decreto:2021-02-18;10632",
+      "ementa": "Altera o Decreto nº 9.052, de 15 de maio de 2017, que dispõe sobre o processo de inventariança do Fundo Nacional de Desenvolvimento."
+    },
+    {
+      "senadoId": "33232769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-12-10628",
+      "titulo": "Decreto nº 10.628 de 12/02/2021",
+      "data": "2021-02-12",
+      "numero": "10628",
+      "urn": "urn:lex:br:federal:decreto:2021-02-12;10628",
+      "ementa": "Altera o Decreto nº 9.845, de 25 de junho de 2019, que regulamenta a Lei nº 10.826, de 22 de dezembro de 2003, para dispor sobre a aquisição, o cadastro, o registro e a posse de armas de fogo e de munição."
+    },
+    {
+      "senadoId": "33232695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-12-10627",
+      "titulo": "Decreto nº 10.627 de 12/02/2021",
+      "data": "2021-02-12",
+      "numero": "10627",
+      "urn": "urn:lex:br:federal:decreto:2021-02-12;10627",
+      "ementa": "Altera o Anexo I ao Decreto nº 10.030, de 30 de setembro de 2019, que aprova o Regulamento de Produtos Controlados."
+    },
+    {
+      "senadoId": "33232843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-12-10629",
+      "titulo": "Decreto nº 10.629 de 12/02/2021",
+      "data": "2021-02-12",
+      "numero": "10629",
+      "urn": "urn:lex:br:federal:decreto:2021-02-12;10629",
+      "ementa": "Altera o Decreto nº 9.846, de 25 de junho de 2019, que regulamenta a Lei nº 10.826, de 22 de dezembro de 2003, para dispor sobre o registro, o cadastro, e a aquisição de armas e de munições por caçadores, colecionadores e atiradores."
+    },
+    {
+      "senadoId": "33232917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-12-10630",
+      "titulo": "Decreto nº 10.630 de 12/02/2021",
+      "data": "2021-02-12",
+      "numero": "10630",
+      "urn": "urn:lex:br:federal:decreto:2021-02-12;10630",
+      "ementa": "Altera o Decreto nº 9.847, de 25 de junho de 2019, que regulamenta a Lei nº 10.826, de 22 de dezembro de 2003, para dispor sobre a aquisição, o cadastro, o registro, o porte e a comercialização de armas de fogo e de munição e sobre o Sistema Nacional de Armas e o Sistema de Gerenciamento Militar de Armas."
+    },
+    {
+      "senadoId": "33230272",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-11-10625",
+      "titulo": "Decreto nº 10.625 de 11/02/2021",
+      "data": "2021-02-11",
+      "numero": "10625",
+      "urn": "urn:lex:br:federal:decreto:2021-02-11;10625",
+      "ementa": "Dispõe sobre a execução orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo federal até a publicação da Lei Orçamentária de 2021, e sobre a programação financeira."
+    },
+    {
+      "senadoId": "33230369",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-11-10626",
+      "titulo": "Decreto nº 10.626 de 11/02/2021",
+      "data": "2021-02-11",
+      "numero": "10626",
+      "urn": "urn:lex:br:federal:decreto:2021-02-11;10626",
+      "ementa": "Altera o Decreto nº 6.605, de 14 de outubro de 2008, que dispõe sobre o Comitê Gestor da Infraestrutura de Chaves Públicas Brasileira - CG ICP-Brasil."
+    },
+    {
+      "senadoId": "33224511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-09-10622",
+      "titulo": "Decreto nº 10.622 de 09/02/2021",
+      "data": "2021-02-09",
+      "numero": "10622",
+      "urn": "urn:lex:br:federal:decreto:2021-02-09;10622",
+      "ementa": "Designa a autoridade central federal de que trata a Lei nº 13.812, de 16 de março de 2019, institui o Comitê Gestor da Política Nacional de Busca de Pessoas Desaparecidas e dispõe sobre a Política Nacional de Busca de Pessoas Desaparecidas e o Cadastro Nacional de Pessoas Desaparecidas."
+    },
+    {
+      "senadoId": "33224659",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-09-10624",
+      "titulo": "Decreto nº 10.624 de 09/02/2021",
+      "data": "2021-02-09",
+      "numero": "10624",
+      "urn": "urn:lex:br:federal:decreto:2021-02-09;10624",
+      "ementa": "Dispõe sobre a qualificação de empreendimento público federal do setor ferroviário no âmbito do Programa de Parcerias de Investimentos da Presidência da República."
+    },
+    {
+      "senadoId": "33224585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-09-10623",
+      "titulo": "Decreto nº 10.623 de 09/02/2021",
+      "data": "2021-02-09",
+      "numero": "10623",
+      "urn": "urn:lex:br:federal:decreto:2021-02-09;10623",
+      "ementa": "Institui o Programa Adote um Parque, com a finalidade de promover a conservação, a recuperação e a melhoria das unidades de conservação federais por pessoas físicas e jurídicas privadas, nacionais e estrangeiras."
+    },
+    {
+      "senadoId": "33220587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-05-10620",
+      "titulo": "Decreto nº 10.620 de 05/02/2021",
+      "data": "2021-02-05",
+      "numero": "10620",
+      "urn": "urn:lex:br:federal:decreto:2021-02-05;10620",
+      "ementa": "Dispõe sobre a competência para a concessão e a manutenção das aposentadorias e pensões do regime próprio de previdência social da União no âmbito da administração pública federal."
+    },
+    {
+      "senadoId": "33220661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-05-10621",
+      "titulo": "Decreto nº 10.621 de 05/02/2021",
+      "data": "2021-02-05",
+      "numero": "10621",
+      "urn": "urn:lex:br:federal:decreto:2021-02-05;10621",
+      "ementa": "Altera a relação a que se refere a Seção I do Anexo III à Lei nº 14.116, de 31 de dezembro de 2020, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021."
+    },
+    {
+      "senadoId": "33220513",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-05-10619",
+      "titulo": "Decreto nº 10.619 de 05/02/2021",
+      "data": "2021-02-05",
+      "numero": "10619",
+      "urn": "urn:lex:br:federal:decreto:2021-02-05;10619",
+      "ementa": "Distribui o efetivo de Oficiais da Marinha em tempo de paz para 2021."
+    },
+    {
+      "senadoId": "33220439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-05-10618",
+      "titulo": "Decreto nº 10.618 de 05/02/2021",
+      "data": "2021-02-05",
+      "numero": "10618",
+      "urn": "urn:lex:br:federal:decreto:2021-02-05;10618",
+      "ementa": "Distribui o efetivo de Oficiais da Aeronáutica em tempo de paz para 2021."
+    },
+    {
+      "senadoId": "33220365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-02-05-10617",
+      "titulo": "Decreto nº 10.617 de 05/02/2021",
+      "data": "2021-02-05",
+      "numero": "10617",
+      "urn": "urn:lex:br:federal:decreto:2021-02-05;10617",
+      "ementa": "Altera o Decreto nº 9.931, de 23 de julho de 2019, que institui o Grupo Interministerial de Propriedade Intelectual."
+    },
+    {
+      "senadoId": "33208824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-29-10614",
+      "titulo": "Decreto nº 10.614 de 29/01/2021",
+      "data": "2021-01-29",
+      "numero": "10614",
+      "urn": "urn:lex:br:federal:decreto:2021-01-29;10614",
+      "ementa": "Altera o Decreto nº 10.579, de 18 de dezembro de 2020, que estabelece regras para a inscrição de restos a pagar das despesas de que trata o art. 5º da Emenda Constitucional nº 106, de 7 de maio de 2020."
+    },
+    {
+      "senadoId": "33208653",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-29-10612",
+      "titulo": "Decreto nº 10.612 de 29/01/2021",
+      "data": "2021-01-29",
+      "numero": "10612",
+      "urn": "urn:lex:br:federal:decreto:2021-01-29;10612",
+      "ementa": "Altera o Decreto nº 10.195, de 30 de dezembro de 2019, para prorrogar o prazo de remanejamento temporário de cargos em comissão ao Ministério da Educação."
+    },
+    {
+      "senadoId": "33208898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-29-10615",
+      "titulo": "Decreto nº 10.615 de 29/01/2021",
+      "data": "2021-01-29",
+      "numero": "10615",
+      "urn": "urn:lex:br:federal:decreto:2021-01-29;10615",
+      "ementa": "Dispõe sobre o Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores, instituído pela Lei nº 11.484, de 31 de maio de 2007."
+    },
+    {
+      "senadoId": "33208750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-29-10613",
+      "titulo": "Decreto nº 10.613 de 29/01/2021",
+      "data": "2021-01-29",
+      "numero": "10613",
+      "urn": "urn:lex:br:federal:decreto:2021-01-29;10613",
+      "ementa": "Dispõe sobre a execução do Octogésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (81PA-ACE2), firmado pela República Federativa do Brasil e pela República Oriental do Uruguai."
+    },
+    {
+      "senadoId": "33208554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-29-10611",
+      "titulo": "Decreto nº 10.611 de 29/01/2021",
+      "data": "2021-01-29",
+      "numero": "10611",
+      "urn": "urn:lex:br:federal:decreto:2021-01-29;10611",
+      "ementa": "Altera o Decreto nº 10.415, de 6 de julho de 2020, que institui o Grupo de Trabalho Interinstitucional sobre o Modelo Único de Avaliação Biopsicossocial da Deficiência."
+    },
+    {
+      "senadoId": "33208972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-29-10616",
+      "titulo": "Decreto nº 10.616 de 29/01/2021",
+      "data": "2021-01-29",
+      "numero": "10616",
+      "urn": "urn:lex:br:federal:decreto:2021-01-29;10616",
+      "ementa": "Delega a competência ao Ministro de Estado da Economia para a prática dos atos que especifica, e altera o Decreto nº 10.044, de 4 de outubro de 2019, que dispõe sobre a Câmara de Comércio Exterior."
+    },
+    {
+      "senadoId": "33208102",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-27-10610",
+      "titulo": "Decreto nº 10.610 de 27/01/2021",
+      "data": "2021-01-27",
+      "numero": "10610",
+      "urn": "urn:lex:br:federal:decreto:2021-01-27;10610",
+      "ementa": "Aprova o Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado Prestado no Regime Público."
+    },
+    {
+      "senadoId": "33207906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-26-10609",
+      "titulo": "Decreto nº 10.609 de 26/01/2021",
+      "data": "2021-01-26",
+      "numero": "10609",
+      "urn": "urn:lex:br:federal:decreto:2021-01-26;10609",
+      "ementa": "Institui a Política Nacional de Modernização do Estado e o Fórum Nacional de Modernização do Estado."
+    },
+    {
+      "senadoId": "33207485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-25-10608",
+      "titulo": "Decreto nº 10.608 de 25/01/2021",
+      "data": "2021-01-25",
+      "numero": "10608",
+      "urn": "urn:lex:br:federal:decreto:2021-01-25;10608",
+      "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Advocacia-Geral da União, aprova o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Procuradoria-Geral Federal, remaneja e transforma cargos em comissão e funções de confiança e substitui cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS por Funções Comissionadas do Poder Executivo - FCPE."
+    },
+    {
+      "senadoId": "33198308",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-22-10607",
+      "titulo": "Decreto nº 10.607 de 22/01/2021",
+      "data": "2021-01-22",
+      "numero": "10607",
+      "urn": "urn:lex:br:federal:decreto:2021-01-22;10607",
+      "ementa": "Institui o Grupo de Trabalho Interministerial para reformular a Política Marítima Nacional."
+    },
+    {
+      "senadoId": "33198160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-22-10605",
+      "titulo": "Decreto nº 10.605 de 22/01/2021",
+      "data": "2021-01-22",
+      "numero": "10605",
+      "urn": "urn:lex:br:federal:decreto:2021-01-22;10605",
+      "ementa": "Institui o Grupo de Trabalho Interministerial com a finalidade de desenvolver o Plano Nacional de Fertilizantes."
+    },
+    {
+      "senadoId": "33198234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-22-10606",
+      "titulo": "Decreto nº 10.606 de 22/01/2021",
+      "data": "2021-01-22",
+      "numero": "10606",
+      "urn": "urn:lex:br:federal:decreto:2021-01-22;10606",
+      "ementa": "Institui o Sistema Integrado de Informações do Plano Setorial para Consolidação de uma Economia de Baixa Emissão de Carbono na Agricultura e o Comitê Técnico de Acompanhamento do Plano Setorial para Consolidação de uma Economia de Baixa Emissão de Carbono na Agricultura."
+    },
+    {
+      "senadoId": "33106813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-20-10603",
+      "titulo": "Decreto nº 10.603 de 20/01/2021",
+      "data": "2021-01-20",
+      "numero": "10603",
+      "urn": "urn:lex:br:federal:decreto:2021-01-20;10603",
+      "ementa": "Dispõe sobre o Comitê Nacional de Pesquisas Antárticas."
+    },
+    {
+      "senadoId": "33106887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-20-10604",
+      "titulo": "Decreto nº 10.604 de 20/01/2021",
+      "data": "2021-01-20",
+      "numero": "10604",
+      "urn": "urn:lex:br:federal:decreto:2021-01-20;10604",
+      "ementa": "Altera o Decreto nº 9.921, de 18 de julho de 2019, que consolida atos normativos editados pelo Poder Executivo federal que dispõem sobre a temática da pessoa idosa."
+    },
+    {
+      "senadoId": "33105714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-15-10601",
+      "titulo": "Decreto nº 10.601 de 15/01/2021",
+      "data": "2021-01-15",
+      "numero": "10601",
+      "urn": "urn:lex:br:federal:decreto:2021-01-15;10601",
+      "ementa": "Reabre, em favor do Ministério da Saúde, crédito extraordinário, no valor de R$ 1.682.804.743,00, aberto pela Medida Provisória nº 1.004, de 24 de setembro de 2020."
+    },
+    {
+      "senadoId": "33105811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-15-10602",
+      "titulo": "Decreto nº 10.602 de 15/01/2021",
+      "data": "2021-01-15",
+      "numero": "10602",
+      "urn": "urn:lex:br:federal:decreto:2021-01-15;10602",
+      "ementa": "Altera o Decreto nº 10.356, de 20 de maio de 2020, que dispõe sobre a política industrial para o setor de tecnologias da informação e comunicação."
+    },
+    {
+      "senadoId": "33105278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-14-10600",
+      "titulo": "Decreto nº 10.600 de 14/01/2021",
+      "data": "2021-01-14",
+      "numero": "10600",
+      "urn": "urn:lex:br:federal:decreto:2021-01-14;10600",
+      "ementa": "Regulamenta a Lei nº 14.118, de 12 de janeiro de 2021, que institui o Programa Casa Verde e Amarela."
+    },
+    {
+      "senadoId": "33079891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-12-10599",
+      "titulo": "Decreto nº 10.599 de 12/01/2021",
+      "data": "2021-01-12",
+      "numero": "10599",
+      "urn": "urn:lex:br:federal:decreto:2021-01-12;10599",
+      "ementa": "Altera o Decreto nº 9.745, de 8 de abril de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Economia e remaneja e transforma cargos em comissão."
+    },
+    {
+      "senadoId": "33079200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-11-10598",
+      "titulo": "Decreto nº 10.598 de 11/01/2021",
+      "data": "2021-01-11",
+      "numero": "10598",
+      "urn": "urn:lex:br:federal:decreto:2021-01-11;10598",
+      "ementa": "Altera o Decreto nº 9.683, de 9 de janeiro de 2019, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério das Relações Exteriores, remaneja funções de confiança, transforma funções de confiança e substitui cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS por Função Comissionada do Poder Executivo - FCPE."
+    },
+    {
+      "senadoId": "33077259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-08-10596",
+      "titulo": "Decreto nº 10.596 de 08/01/2021",
+      "data": "2021-01-08",
+      "numero": "10596",
+      "urn": "urn:lex:br:federal:decreto:2021-01-08;10596",
+      "ementa": "Altera o Decreto nº 6.382, de 27 de fevereiro de 2008, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Comissão de Valores Mobiliários, remaneja cargos em comissão e funções de confiança e substitui cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS por Função Comissionada do Poder Executivo - FCPE."
+    },
+    {
+      "senadoId": "33077895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-08-10597",
+      "titulo": "Decreto nº 10.597 de 08/01/2021",
+      "data": "2021-01-08",
+      "numero": "10597",
+      "urn": "urn:lex:br:federal:decreto:2021-01-08;10597",
+      "ementa": "Altera o Decreto nº 9.011, de 23 de março de 2017, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Conselho Administrativo de Defesa Econômica - CADE, e remaneja e transforma funções de confiança."
+    },
+    {
+      "senadoId": "33075961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2021-01-07-10595",
+      "titulo": "Decreto nº 10.595 de 07/01/2021",
+      "data": "2021-01-07",
+      "numero": "10595",
+      "urn": "urn:lex:br:federal:decreto:2021-01-07;10595",
+      "ementa": "Reabre, em favor do Ministério da Saúde, crédito extraordinário, no valor de R$ 19.911.094.462,00, aberto pela Medida Provisória nº 1.015, de 17 de dezembro de 2020."
+    }
+  ],
+  "pendencias": []
+}

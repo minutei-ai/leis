@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-06-12-25308",
+  "titulo": "LEI nº 25308, de 12/06/2025",
+  "data": "2025-06-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25308/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25308/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "81993b3d74348fd2e6e389650fb7a634689efe830ebd253e0630a7bde210b472",
+  "coletado_em": "2026-10-21T08:32:06.650Z",
+  "sha256_fonte": "64b1d886418bf37212292fcfd3c0921d3d14cd4f7e9acf46ca1b75c0f66b14fb",
+  "sha256_markdown": "75b3a8bf0d168cdc1053edbf0c76c7b8e4edf167f1307e1678c346b365bfd2e4"
+}

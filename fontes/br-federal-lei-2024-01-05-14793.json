@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-01-05-14793",
+  "titulo": "Lei nº 14.793 de 05/01/2024",
+  "data": "2024-01-05",
+  "fonte": "https://normas.leg.br/api/public/binario/dda9b82d-9433-478f-8204-3f83ff667e22/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-01-05;14793",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-01-05%3B14793&tipo_documento=maior-detalhe",
+  "sha256_dados": "ec7ac77e769ea6fc88ce52748caa8cb55240375fce5d53bf57df75c6114976af",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:26:12.155Z",
+  "sha256_fonte": "ede59a0892df81c104e52f7e7b1a32149b03927058f8df15efe60a0c65e86c28",
+  "sha256_markdown": "c02d967a97d64653649ddf4623759e60dd7d8f03050f95fb0f98e9919f6471ee"
+}

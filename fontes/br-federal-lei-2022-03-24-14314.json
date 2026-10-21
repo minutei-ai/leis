@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-03-24-14314",
+  "titulo": "Lei nº 14.314 de 24/03/2022",
+  "data": "2022-03-24",
+  "fonte": "https://normas.leg.br/api/public/binario/e8f22a0c-834c-4e01-b39d-08387567cfc1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-03-24;14314",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-03-24%3B14314&tipo_documento=maior-detalhe",
+  "sha256_dados": "d61cc5ce0cd2949382c5bd43001baf9293c082cfddcb88d213527b09df860828",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:36.937Z",
+  "sha256_fonte": "3bb1ce9e34a2b0fe8cb4c839e3ab4b0ea828b67beca82046a9a938e644946824",
+  "sha256_markdown": "392930a6e02300c0170282932b0ce96e3078d01cfa6ac415460a63db225dbb1c"
+}

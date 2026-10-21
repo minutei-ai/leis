@@ -1,0 +1,649 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2026",
+  "tipo": "MPV",
+  "ano": 2026,
+  "coletado_em": "2026-10-21T08:33:19.644Z",
+  "normas": [
+    {
+      "senadoId": "44154527",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-10-09-1396",
+      "titulo": "Medida Provisória nº 1.396 de 09/10/2026",
+      "data": "2026-10-09",
+      "numero": "1396",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-10-09;1396",
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração."
+    },
+    {
+      "senadoId": "44152033",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-10-08-1395",
+      "titulo": "Medida Provisória nº 1.395 de 08/10/2026",
+      "data": "2026-10-08",
+      "numero": "1395",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-10-08;1395",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 7.520.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "44059093",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-09-25-1393",
+      "titulo": "Medida Provisória nº 1.393 de 25/09/2026",
+      "data": "2026-09-25",
+      "numero": "1393",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-09-25;1393",
+      "ementa": "Altera a Lei nº 14.690, de 3 de outubro de 2023, para instituir a Modalidade Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil 3.0 e prever a adoção de medidas de promoção do crédito responsável, altera a Medida Provisória nº 1.373, de 29 de junho de 2026, para estabelecer novo prazo para o Programa Extraordinário de Reequilíbrio Financeiro de Tomadores de Crédito Adimplentes - Desenrola Adimplentes, e dá outras providências."
+    },
+    {
+      "senadoId": "44059160",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-09-25-1394",
+      "titulo": "Medida Provisória nº 1.394 de 25/09/2026",
+      "data": "2026-09-25",
+      "numero": "1394",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-09-25;1394",
+      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023."
+    },
+    {
+      "senadoId": "43972193",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-09-21-1392",
+      "titulo": "Medida Provisória nº 1.392 de 21/09/2026",
+      "data": "2026-09-21",
+      "numero": "1392",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-09-21;1392",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento e Assistência Social, Família e Combate à Fome e dos Povos Indígenas, no valor de R$ 64.289.400,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43792112",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-09-11-1391",
+      "titulo": "Medida Provisória nº 1.391 de 11/09/2026",
+      "data": "2026-09-11",
+      "numero": "1391",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-09-11;1391",
+      "ementa": "Autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel e suas correntes, com a finalidade de garantir o fornecimento de óleo diesel e suas correntes em todo o território nacional, enquanto houver instabilidade na oferta de combustíveis decorrentes de conflitos geopolíticos, e dispõe sobre o tratamento tributário dos depósitos a prazo sem emissão de certificado para fins do imposto de que trata a Lei nº 8.894, de 21 de junho de 1994."
+    },
+    {
+      "senadoId": "43772948",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-09-08-1389",
+      "titulo": "Medida Provisória nº 1.389 de 08/09/2026",
+      "data": "2026-09-08",
+      "numero": "1389",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-09-08;1389",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43773029",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-09-08-1390",
+      "titulo": "Medida Provisória nº 1.390 de 08/09/2026",
+      "data": "2026-09-08",
+      "numero": "1390",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-09-08;1390",
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 375.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43704062",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-24-1388",
+      "titulo": "Medida Provisória nº 1.388 de 24/08/2026",
+      "data": "2026-08-24",
+      "numero": "1388",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-24;1388",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.152.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43704012",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-24-1387",
+      "titulo": "Medida Provisória nº 1.387 de 24/08/2026",
+      "data": "2026-08-24",
+      "numero": "1387",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-24;1387",
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 7.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43703975",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-24-1386",
+      "titulo": "Medida Provisória nº 1.386 de 24/08/2026",
+      "data": "2026-08-24",
+      "numero": "1386",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-24;1386",
+      "ementa": "Dispõe sobre a prorrogação excepcional dos prazos de suspensão de tributos previstos no regime aduaneiro especial de drawback suspensão, de que trata o art. 12 da Lei nº 11.945, de 4 de junho de 2009, para atos concessórios cujo cumprimento dos compromissos de exportação seja comprovadamente afetado pela aplicação de tarifas adicionais, diferenciadas por país de origem, sobre exportações brasileiras aos Estados Unidos da América."
+    },
+    {
+      "senadoId": "43676593",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-12-1383",
+      "titulo": "Medida Provisória nº 1.383 de 12/08/2026",
+      "data": "2026-08-12",
+      "numero": "1383",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-12;1383",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 360.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43676642",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-12-1384",
+      "titulo": "Medida Provisória nº 1.384 de 12/08/2026",
+      "data": "2026-08-12",
+      "numero": "1384",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-12;1384",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e Agricultura Familiar e do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 924.985.960,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43675424",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-12-1385",
+      "titulo": "Medida Provisória nº 1.385 de 12/08/2026",
+      "data": "2026-08-12",
+      "numero": "1385",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-12;1385",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério das Cidades e de Encargos Financeiros da União, no valor de R$ 3.500.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43620281",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-08-01-1382",
+      "titulo": "Medida Provisória nº 1.382 de 01/08/2026",
+      "data": "2026-08-01",
+      "numero": "1382",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-08-01;1382",
+      "ementa": "Altera a Lei nº 14.042, de 19 de agosto de 2020, para autorizar a União a aumentar a sua participação no Fundo Garantidor para Investimentos - FGI; altera a Lei nº 13.999, de 18 de maio de 2020, para autorizar a União a aumentar a sua participação no Fundo Garantidor de Operações - FGO; altera a Medida Provisória nº 1.373, de 29 de junho de 2026, para autorizar a combinação de recursos das instituições financeiras habilitadas com os destinados pela União, para viabilizar as operações de crédito no âmbito do Programa Extraordinário de Reequilíbrio Financeiro de Tomadores de Crédito Adimplentes - Desenrola Adimplentes; altera a Medida Provisória nº 1.355, de 4 de maio de 2026, para ampliar o prazo de execução das ações de educação financeira adotadas pelas instituições financeiras participantes do Programa Extraordinário de Reequilíbrio Financeiro das Famílias - Novo Desenrola Brasil; e altera a Lei nº 11.977, de 7 de julho de 2009, e a Lei nº 14.620, de 13 de julho de 2023, para dispor sobre o Programa Minha Casa, Minha Vida."
+    },
+    {
+      "senadoId": "43615536",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-30-1381",
+      "titulo": "Medida Provisória nº 1.381 de 30/07/2026",
+      "data": "2026-07-30",
+      "numero": "1381",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-30;1381",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.473.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43596654",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-23-1380",
+      "titulo": "Medida Provisória nº 1.380 de 23/07/2026",
+      "data": "2026-07-23",
+      "numero": "1380",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-23;1380",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.330.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43591562",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-22-1379",
+      "titulo": "Medida Provisória nº 1.379 de 22/07/2026",
+      "data": "2026-07-22",
+      "numero": "1379",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-22;1379",
+      "ementa": "Altera a Lei nº 15.473, de 22 de julho de 2026, que altera a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 12.712, de 30 de agosto de 2012, para fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação."
+    },
+    {
+      "senadoId": "43573958",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-20-1378",
+      "titulo": "Medida Provisória nº 1.378 de 20/07/2026",
+      "data": "2026-07-20",
+      "numero": "1378",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-20;1378",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Previdência Social, no valor de R$ 547.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43564547",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-16-1377",
+      "titulo": "Medida Provisória nº 1.377 de 16/07/2026",
+      "data": "2026-07-16",
+      "numero": "1377",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-16;1377",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, da Advocacia-Geral da União, e de Operações Oficiais de Crédito, no valor de R$ 13.285.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43548754",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-15-1376",
+      "titulo": "Medida Provisória nº 1.376 de 15/07/2026",
+      "data": "2026-07-15",
+      "numero": "1376",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-15;1376",
+      "ementa": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos."
+    },
+    {
+      "senadoId": "43484350",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-07-03-1375",
+      "titulo": "Medida Provisória nº 1.375 de 03/07/2026",
+      "data": "2026-07-03",
+      "numero": "1375",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-07-03;1375",
+      "ementa": "Amplia o rol de Carreiras e Planos Especiais de Cargos cujos ocupantes fazem jus à indenização de que trata a Lei nº 12.855, de 2 de setembro de 2013, altera a Lei nº 15.367, de 30 de março de 2026, para admitir que as pessoas de que tratam o art. 6º da Emenda Constitucional nº 79, de 27 de maio de 2014, e o art. 6º da Emenda Constitucional nº 98, de 6 de dezembro de 2017, exerçam o direito de opção de que tratam os art. 52 a art. 54 da referida Lei, e transforma cargos efetivos vagos."
+    },
+    {
+      "senadoId": "43468525",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-30-1374",
+      "titulo": "Medida Provisória nº 1.374 de 30/06/2026",
+      "data": "2026-06-30",
+      "numero": "1374",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-30;1374",
+      "ementa": "Autoriza a concessão de apoio financeiro, na forma de subvenção econômica, aos produtores independentes de cana-de-açúcar da Região Nordeste que sofreram prejuízos econômicos decorrentes da tributação adicional sobre exportações brasileiras impostas pelos Estados Unidos da América ou de eventos climáticos extremos, com o objetivo de preservar a renda, a produção e os empregos no setor sucroenergético, e altera a Lei nº 9.818, de 23 de agosto de 1999, a Lei nº 11.540, de 12 de novembro de 2007, a Lei nº 14.947, de 2 de agosto de 2024, e a Medida Provisória nº 1.353, de 30 de abril de 2026."
+    },
+    {
+      "senadoId": "43453451",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-29-1373",
+      "titulo": "Medida Provisória nº 1.373 de 29/06/2026",
+      "data": "2026-06-29",
+      "numero": "1373",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-29;1373",
+      "ementa": "Institui o Programa Extraordinário de Reequilíbrio Financeiro de Tomadores de Crédito Adimplentes - Desenrola Adimplentes e dá outras providências."
+    },
+    {
+      "senadoId": "43453705",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-26-1372",
+      "titulo": "Medida Provisória nº 1.372 de 26/06/2026",
+      "data": "2026-06-26",
+      "numero": "1372",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-26;1372",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 550.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43441466",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-22-1371",
+      "titulo": "Medida Provisória nº 1.371 de 22/06/2026",
+      "data": "2026-06-22",
+      "numero": "1371",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-22;1371",
+      "ementa": "Altera a Medida Provisória nº 1.354, de 30 de abril de 2026, que abre crédito extraordinário em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, para dar nova redação ao título de ação orçamentária constante de seu Anexo."
+    },
+    {
+      "senadoId": "43438075",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-19-1370",
+      "titulo": "Medida Provisória nº 1.370 de 19/06/2026",
+      "data": "2026-06-19",
+      "numero": "1370",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-19;1370",
+      "ementa": "Altera a Lei nº 12.871, de 22 de outubro de 2013, a Lei nº 3.268, de 30 de setembro de 1957, a Lei nº 6.932, de 7 de julho de 1981, a Lei nº 13.959, de 18 de dezembro de 2019, e a Lei nº 10.861, de 14 de abril de 2004, para dispor sobre o Exame Nacional de Avaliação da Formação Médica."
+    },
+    {
+      "senadoId": "43429431",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-18-1369",
+      "titulo": "Medida Provisória nº 1.369 de 18/06/2026",
+      "data": "2026-06-18",
+      "numero": "1369",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-18;1369",
+      "ementa": "Altera a Lei nº 15.201, de 9 de setembro de 2025, que institui o Programa de Gerenciamento de Benefícios no âmbito do Instituto Nacional do Seguro Social e do Departamento de Perícia Médica Federal da Secretaria de Regime Geral de Previdência Social do Ministério da Previdência Social."
+    },
+    {
+      "senadoId": "43432257",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-18-1368",
+      "titulo": "Medida Provisória nº 1.368 de 18/06/2026",
+      "data": "2026-06-18",
+      "numero": "1368",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-18;1368",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Portos e Aeroportos, no valor de R$ 8.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43404456",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-12-1367",
+      "titulo": "Medida Provisória nº 1.367 de 12/06/2026",
+      "data": "2026-06-12",
+      "numero": "1367",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-12;1367",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Meio Ambiente e Mudança do Clima, no valor de R$ 337.483.432,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43404335",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-12-1366",
+      "titulo": "Medida Provisória nº 1.366 de 12/06/2026",
+      "data": "2026-06-12",
+      "numero": "1366",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-12;1366",
+      "ementa": "Altera a Lei nº 12.087, de 11 de novembro de 2009, que dispõe sobre a participação da União em fundos garantidores de risco de crédito para microempresas, pequenas e médias empresas e para produtores rurais e suas cooperativas; a Lei nº 13.999, de 18 de maio de 2020, que institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte - Pronampe; a Lei nº 14.947, de 2 de agosto de 2024, que dispõe sobre a criação do Fundo de Investimento em Infraestrutura Social - FIIS; a Medida Provisória nº 1.359, de 19 de maio de 2026, que autoriza a União a destinar recursos para disponibilizar linhas de financiamento reembolsável a profissionais de transporte remunerado privado individual de passageiros, taxistas e cooperativas de taxistas, para aquisição de veículos automotores novos que atendam a critérios de sustentabilidade ambiental, social e econômica, e a Lei nº 9.998, de 17 de agosto de 2000, que institui o Fundo de Universalização dos Serviços de Telecomunicações."
+    },
+    {
+      "senadoId": "43366959",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-03-1365",
+      "titulo": "Medida Provisória nº 1.365 de 03/06/2026",
+      "data": "2026-06-03",
+      "numero": "1365",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-03;1365",
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 1.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43340402",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-06-01-1364",
+      "titulo": "Medida Provisória nº 1.364 de 01/06/2026",
+      "data": "2026-06-01",
+      "numero": "1364",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-06-01;1364",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 49.200.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43335947",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-30-1363",
+      "titulo": "Medida Provisória nº 1.363 de 30/05/2026",
+      "data": "2026-05-30",
+      "numero": "1363",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-30;1363",
+      "ementa": "Autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel de uso rodoviário no País, no valor de R$ 1,12 (um real e doze centavos) por litro comercializado, com o objetivo de estabilizar preço e oferta, de modo a garantir o abastecimento nacional do referido combustível, em decorrência do choque de oferta derivado do conflito bélico no Oriente Médio."
+    },
+    {
+      "senadoId": "43319266",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-25-1362",
+      "titulo": "Medida Provisória nº 1.362 de 25/05/2026",
+      "data": "2026-05-25",
+      "numero": "1362",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-25;1362",
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 30.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43304665",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-20-1361",
+      "titulo": "Medida Provisória nº 1.361 de 20/05/2026",
+      "data": "2026-05-20",
+      "numero": "1361",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-20;1361",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 75.344.207,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43301994",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-19-1360",
+      "titulo": "Medida Provisória nº 1.360 de 19/05/2026",
+      "data": "2026-05-19",
+      "numero": "1360",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-19;1360",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e a Lei nº 12.009, de 29 de julho de 2009."
+    },
+    {
+      "senadoId": "43301927",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-19-1359",
+      "titulo": "Medida Provisória nº 1.359 de 19/05/2026",
+      "data": "2026-05-19",
+      "numero": "1359",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-19;1359",
+      "ementa": "Autoriza a União a destinar recursos para disponibilizar linhas de financiamento reembolsável a profissionais de transporte remunerado privado individual de passageiros, taxistas e cooperativas de taxistas, para aquisição de veículos automotores novos que atendam a critérios de sustentabilidade ambiental, social e econômica."
+    },
+    {
+      "senadoId": "43289824",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-13-1358",
+      "titulo": "Medida Provisória nº 1.358 de 13/05/2026",
+      "data": "2026-05-13",
+      "numero": "1358",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-13;1358",
+      "ementa": "Autoriza a concessão de subvenção econômica aos produtores e importadores de combustíveis derivados de petróleo, com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio, e altera Medida a Provisória nº 1.355, de 4 de maio de 2026."
+    },
+    {
+      "senadoId": "43286041",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-12-1357",
+      "titulo": "Medida Provisória nº 1.357 de 12/05/2026",
+      "data": "2026-05-12",
+      "numero": "1357",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-12;1357",
+      "ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que dispõe sobre tributação simplificada das remessas postais internacionais."
+    },
+    {
+      "senadoId": "43247820",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-04-1355",
+      "titulo": "Medida Provisória nº 1.355 de 04/05/2026",
+      "data": "2026-05-04",
+      "numero": "1355",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-04;1355",
+      "ementa": "Institui o Programa Extraordinário de Reequilíbrio Financeiro das Famílias - Novo Desenrola Brasil, dispõe sobre a transferência de recursos ao Fundo de Garantia de Operações, e altera a Lei nº 12.087, de 11 de novembro de 2009, a Lei nº 14.467, de 16 de novembro de 2022, a Lei nº 14.509, de 27 de dezembro de 2022, a Lei nº 13.999, de 18 de maio de 2020, a Lei nº 10.260, de 12 de julho de 2001, a Lei nº 8.213, de 24 de julho de 1991, e a Lei nº 10.820, de 17 de dezembro de 2003."
+    },
+    {
+      "senadoId": "43240254",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-05-04-1356",
+      "titulo": "Medida Provisória nº 1.356 de 04/05/2026",
+      "data": "2026-05-04",
+      "numero": "1356",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-04;1356",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 305.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43212522",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-30-1353",
+      "titulo": "Medida Provisória nº 1.353 de 30/04/2026",
+      "data": "2026-04-30",
+      "numero": "1353",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-30;1353",
+      "ementa": "Altera a Lei nº 14.042, de 19 de agosto de 2020, para autorizar a União a aumentar a sua participação no Fundo Garantidor para Investimentos - FGI, e autoriza a destinação de recursos para disponibilizar linhas de financiamento reembolsável a pessoas físicas ou jurídicas de direito privado para aquisição de caminhões, caminhões-tratores, ônibus, micro-ônibus ou implementos rodoviários, desde que os veículos atendam a critérios de sustentabilidade ambiental, social e econômica."
+    },
+    {
+      "senadoId": "43212250",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-30-1354",
+      "titulo": "Medida Provisória nº 1.354 de 30/04/2026",
+      "data": "2026-04-30",
+      "numero": "1354",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-30;1354",
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 17.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "43101072",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-28-1352",
+      "titulo": "Medida Provisória nº 1.352 de 28/04/2026",
+      "data": "2026-04-28",
+      "numero": "1352",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-28;1352",
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 5.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43090215",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-27-1351",
+      "titulo": "Medida Provisória nº 1.351 de 27/04/2026",
+      "data": "2026-04-27",
+      "numero": "1351",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-27;1351",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 330.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "43063332",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-15-1350",
+      "titulo": "Medida Provisória nº 1.350 de 15/04/2026",
+      "data": "2026-04-15",
+      "numero": "1350",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-15;1350",
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para aprimorar o Fundo Garantidor da Habitação Popular."
+    },
+    {
+      "senadoId": "43024252",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-07-1349",
+      "titulo": "Medida Provisória nº 1.349 de 07/04/2026",
+      "data": "2026-04-07",
+      "numero": "1349",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-07;1349",
+      "ementa": "Institui o Regime Emergencial de Abastecimento Interno de Combustíveis e altera a Medida Provisória nº 1.340, de 12 de março de 2026, a Lei nº 9.847, de 26 de outubro de 1999, e a Lei nº 12.462, de 4 de agosto de 2011."
+    },
+    {
+      "senadoId": "43017083",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-04-06-1348",
+      "titulo": "Medida Provisória nº 1.348 de 06/04/2026",
+      "data": "2026-04-06",
+      "numero": "1348",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-04-06;1348",
+      "ementa": "Altera a Lei Complementar nº 89, de 18 de fevereiro de 1997, para dispor sobre as receitas e a destinação de recursos do Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal - FUNAPOL e sobre o auxílio-saúde dos servidores das polícias federais, e a Lei nº 13.756, de 12 de dezembro de 2018, para ajustar a destinação do produto da arrecadação das apostas de quota fixa."
+    },
+    {
+      "senadoId": "42963038",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-27-1346",
+      "titulo": "Medida Provisória nº 1.346 de 27/03/2026",
+      "data": "2026-03-27",
+      "numero": "1346",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-27;1346",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Agrário e Agricultura Familiar e de Operações Oficiais de Crédito, no valor de R$ 20.429.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "42963131",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-27-1347",
+      "titulo": "Medida Provisória nº 1.347 de 27/03/2026",
+      "data": "2026-03-27",
+      "numero": "1347",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-27;1347",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 285.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "42930860",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-24-1345",
+      "titulo": "Medida Provisória nº 1.345 de 24/03/2026",
+      "data": "2026-03-24",
+      "numero": "1345",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-24;1345",
+      "ementa": "Altera a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 12.712, de 30 de agosto de 2012, para fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação."
+    },
+    {
+      "senadoId": "42916072",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-19-1343",
+      "titulo": "Medida Provisória nº 1.343 de 19/03/2026",
+      "data": "2026-03-19",
+      "numero": "1343",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-19;1343",
+      "ementa": "Altera a Lei nº 13.703, de 8 de agosto de 2018, para criar a obrigatoriedade de cadastramento da operação de transporte e a geração do Código Identificador da Operação de Transporte - CIOT, e para dispor sobre medidas administrativas para o cumprimento da Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas."
+    },
+    {
+      "senadoId": "42922061",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-19-1344",
+      "titulo": "Medida Provisória nº 1.344 de 19/03/2026",
+      "data": "2026-03-19",
+      "numero": "1344",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-19;1344",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 10.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "42903730",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-17-1342",
+      "titulo": "Medida Provisória nº 1.342 de 17/03/2026",
+      "data": "2026-03-17",
+      "numero": "1342",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-17;1342",
+      "ementa": "Abre crédito extraordinário em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome e do Ministério das Cidades; de Encargos Financeiros da União; e de Operações Oficiais de Crédito, no valor de R$ 1.305.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "42896455",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-12-1340",
+      "titulo": "Medida Provisória nº 1.340 de 12/03/2026",
+      "data": "2026-03-12",
+      "numero": "1340",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-12;1340",
+      "ementa": "Autoriza a concessão de subvenção econômica à comercialização de óleo diesel de uso rodoviário no território nacional por produtores e importadores de óleo diesel, dispõe sobre o imposto de exportação sobre óleo diesel e altera a Lei nº 9.847, de 26 de outubro de 1999."
+    },
+    {
+      "senadoId": "42896529",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-12-1341",
+      "titulo": "Medida Provisória nº 1.341 de 12/03/2026",
+      "data": "2026-03-12",
+      "numero": "1341",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-12;1341",
+      "ementa": "Dispõe sobre o prazo de isenção, redução ou suspensão de tributos previstos nos regimes aduaneiros especiais de drawback no caso de importação de cacau."
+    },
+    {
+      "senadoId": "42878727",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-08-1339",
+      "titulo": "Medida Provisória nº 1.339 de 08/03/2026",
+      "data": "2026-03-08",
+      "numero": "1339",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-08;1339",
+      "ementa": "Abre crédito extraordinário em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 266.512.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "42878665",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-06-1338",
+      "titulo": "Medida Provisória nº 1.338 de 06/03/2026",
+      "data": "2026-03-06",
+      "numero": "1338",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-06;1338",
+      "ementa": "Institui Apoio Financeiro destinado às famílias residentes em áreas efetivamente atingidas que tiveram dano material ou perda de bens nos Municípios da Zona da Mata do Estado de Minas Gerais com estado de calamidade pública reconhecido pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "42878517",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-03-06-1337",
+      "titulo": "Medida Provisória nº 1.337 de 06/03/2026",
+      "data": "2026-03-06",
+      "numero": "1337",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-03-06;1337",
+      "ementa": "Autoriza a utilização do superávit financeiro do Fundo Social de que trata a Lei nº 12.351, de 22 de dezembro de 2010, para disponibilização de linhas de financiamento para pessoas físicas ou jurídicas afetadas pelos eventos climáticos ocorridos, em fevereiro e março de 2026, nos Municípios que tiveram estado de calamidade pública reconhecido pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "42758569",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-02-06-1336",
+      "titulo": "Medida Provisória nº 1.336 de 06/02/2026",
+      "data": "2026-02-06",
+      "numero": "1336",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-02-06;1336",
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço."
+    },
+    {
+      "senadoId": "42693852",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-01-22-1335",
+      "titulo": "Medida Provisória nº 1.335 de 22/01/2026",
+      "data": "2026-01-22",
+      "numero": "1335",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-01-22;1335",
+      "ementa": "Dispõe sobre as medidas relativas à proteção especial à propriedade intelectual e aos direitos de mídia e de marketing, relacionados à realização, no Brasil, da Copa do Mundo Feminina da FIFA 2027."
+    },
+    {
+      "senadoId": "42688845",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-01-21-1334",
+      "titulo": "Medida Provisória nº 1.334 de 21/01/2026",
+      "data": "2026-01-21",
+      "numero": "1334",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-01-21;1334",
+      "ementa": "Altera a Lei nº 11.738, de 16 de julho de 2008, para dispor sobre o piso salarial profissional nacional para os profissionais do magistério público da educação básica."
+    },
+    {
+      "senadoId": "41960303",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2026-01-07-1333",
+      "titulo": "Medida Provisória nº 1.333 de 07/01/2026",
+      "data": "2026-01-07",
+      "numero": "1333",
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-01-07;1333",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 250.000.000,00, para os fins que especifica."
+    }
+  ],
+  "pendencias": []
+}

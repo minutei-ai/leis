@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-06-10-14169",
+  "titulo": "Lei nº 14.169 de 10/06/2021",
+  "data": "2021-06-10",
+  "fonte": "https://normas.leg.br/api/public/binario/dea58f15-21ed-4c19-b941-524448995853/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-06-10;14169",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-06-10%3B14169&tipo_documento=maior-detalhe",
+  "sha256_dados": "10fc3415e6f51a184109e7c2217af4b1b137ab44199435c71bb7b9ed8c9d4124",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:39:50.014Z",
+  "sha256_fonte": "08ed0a44d74c08e62adc7fedea35abb667e42267bf47cf93852831c9d48ac9e4",
+  "sha256_markdown": "be5697f68e2d02365d8d64c32f97a7b5ce4db4d4cfc0f715aef3ecc59a596b85"
+}

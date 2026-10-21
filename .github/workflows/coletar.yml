@@ -1,0 +1,66 @@
+name: Ampliar acervo oficial
+on:
+  workflow_dispatch:
+    inputs:
+      limite:
+        description: Máximo de tentativas por fonte neste lote
+        type: number
+        default: 1000
+  schedule:
+    - cron: '15 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: coleta-acervo
+  cancel-in-progress: false
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      BATCH_LIMIT: ${{ inputs.limite || 1000 }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.3
+      - run: bun install --frozen-lockfile
+      - name: Descobrir todas as famílias federais suportadas
+        continue-on-error: true
+        timeout-minutes: 90
+        run: bun run discover --all
+      - name: Descobrir legislação mineira desde 1947
+        continue-on-error: true
+        run: bun run collect:almg --from 1947 --discover-only
+      - name: Descobrir todas as páginas paulistas
+        continue-on-error: true
+        run: bun run collect:alesp --discover-only
+      - name: Descobrir leis municipais de São Paulo
+        continue-on-error: true
+        run: bun run collect:pmsp --discover-only
+      - name: Coletar novo lote federal
+        continue-on-error: true
+        run: bun run collect:senado --limit "$BATCH_LIMIT" --skip-failures
+      - name: Coletar novo lote mineiro
+        continue-on-error: true
+        run: bun run collect:almg --from 1947 --limit "$BATCH_LIMIT" --skip-failures
+      - name: Coletar novo lote paulista
+        continue-on-error: true
+        run: bun run collect:alesp --limit "$BATCH_LIMIT" --skip-failures
+      - name: Coletar novo lote municipal de São Paulo
+        continue-on-error: true
+        run: bun run collect:pmsp --limit "$BATCH_LIMIT" --skip-failures
+      - run: bun run check
+      - run: bun run audit
+      - run: bun run coverage
+      - name: Publicar somente o lote auditado
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'Nenhum arquivo novo ou alterado; confira as pendências em COBERTURA.md.'
+            exit 0
+          fi
+          git commit -q -m 'Atualiza lote auditado de fontes oficiais'
+          git push origin HEAD:main

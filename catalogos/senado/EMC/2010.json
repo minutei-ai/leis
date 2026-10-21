@@ -1,0 +1,59 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2010",
+  "tipo": "EMC",
+  "ano": 2010,
+  "coletado_em": "2026-10-21T08:39:41.039Z",
+  "normas": [
+    {
+      "senadoId": "540670",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2010-12-22-67",
+      "titulo": "Emenda Constitucional nº 67 de 22/12/2010",
+      "data": "2010-12-22",
+      "numero": "67",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-12-22;67",
+      "ementa": "Prorroga, por tempo indeterminado, o prazo de vigência do Fundo de Combate e Erradicação da Pobreza."
+    },
+    {
+      "senadoId": "540668",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2010-07-13-65",
+      "titulo": "Emenda Constitucional nº 65 de 13/07/2010",
+      "data": "2010-07-13",
+      "numero": "65",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-07-13;65",
+      "ementa": "Altera a denominação do Capítulo VII do Título VIII da Constituição Federal e modifica o seu art. 227, para cuidar dos interesses da juventude."
+    },
+    {
+      "senadoId": "540669",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2010-07-13-66",
+      "titulo": "Emenda Constitucional nº 66 de 13/07/2010",
+      "data": "2010-07-13",
+      "numero": "66",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-07-13;66",
+      "ementa": "Dá nova redação ao § 6º do art. 226 da Constituição Federal, que dispõe sobre a dissolubilidade do casamento civil pelo divórcio, suprimindo o requisito de prévia separação judicial por mais de 1 (um) ano ou de comprovada separação de fato por mais de 2 (dois) anos."
+    },
+    {
+      "senadoId": "540666",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2010-02-04-63",
+      "titulo": "Emenda Constitucional nº 63 de 04/02/2010",
+      "data": "2010-02-04",
+      "numero": "63",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-02-04;63",
+      "ementa": "Altera o § 5º do art. 198 da Constituição Federal para dispor sobre piso salarial profissional nacional e diretrizes para os Planos de Carreira de agentes comunitários de saúde e de agentes de combate às endemias."
+    },
+    {
+      "senadoId": "540667",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2010-02-04-64",
+      "titulo": "Emenda Constitucional nº 64 de 04/02/2010",
+      "data": "2010-02-04",
+      "numero": "64",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-02-04;64",
+      "ementa": "Altera o art. 6º da Constituição Federal, para introduzir a alimentação como direito social."
+    }
+  ],
+  "pendencias": []
+}

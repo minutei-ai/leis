@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-11-21-13908",
+  "titulo": "Lei nº 13.908 de 21/11/2019",
+  "data": "2019-11-21",
+  "fonte": "https://normas.leg.br/api/public/binario/0c7d60f5-7c4c-45b6-b50b-cf73f2c1d921/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-11-21;13908",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-11-21%3B13908&tipo_documento=maior-detalhe",
+  "sha256_dados": "26f5ef896d47bee1eb16567458b07ceb6d81373da80d7c624dc3e1777e1d12fd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:45:19.479Z",
+  "sha256_fonte": "893c7909808d4cbc783eba27e1dbbe46646df02dc168e1b43d558f63d944dfe4",
+  "sha256_markdown": "230272f8da6705f57e527e5d5e94597ad6f95e3638ab524ca1448e66426f6148"
+}

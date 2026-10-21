@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-02-25-48999",
+  "titulo": "DEC nº 48999, de 25/02/2025",
+  "data": "2025-02-25",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48999/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48999/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "fac80034f594706e3ed782d366bc1da31dc6046fff78c1165fc3f9e386fcf33f",
+  "coletado_em": "2026-10-21T08:30:13.656Z",
+  "sha256_fonte": "2e26a7b916135dd07e16e8bb14e0d5d76517e2a10cb800e53c856c159e6d3b22",
+  "sha256_markdown": "96b9c4053c84b9130eae8277bda7f64cf23bde58361a86b6ff40e07b7386dd79"
+}

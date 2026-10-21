@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-09-15-14449",
+  "titulo": "Lei nº 14.449 de 15/09/2022",
+  "data": "2022-09-15",
+  "fonte": "https://normas.leg.br/api/public/binario/a0acec36-9630-44aa-a574-2baa96088bfb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-09-15;14449",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-09-15%3B14449&tipo_documento=maior-detalhe",
+  "sha256_dados": "b490e0002b5740cc60eb2722adddbb6b7bf49d270d29e31e2033785fcf41df40",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:43.412Z",
+  "sha256_fonte": "a89e98c911082c8ed554e5190f3c8eb6223c2d233edcf1985371bbac22a0338a",
+  "sha256_markdown": "68f947f125cc594509dfa3923352acedab77c8815b0214d182cd0af2952d90de"
+}

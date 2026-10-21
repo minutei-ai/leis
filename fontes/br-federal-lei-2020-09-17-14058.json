@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-09-17-14058",
+  "titulo": "Lei nº 14.058 de 17/09/2020",
+  "data": "2020-09-17",
+  "fonte": "https://normas.leg.br/api/public/binario/4d144f22-1667-485d-ba1e-9c7d8fc6aa50/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-09-17;14058",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-09-17%3B14058&tipo_documento=maior-detalhe",
+  "sha256_dados": "74a52db25a0084f36ba3e5f9d25a62fc77a60f8b02c2416547a4ef87f9fedc5b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:05.621Z",
+  "sha256_fonte": "879363cdd95512b66b661bd8bfa00f8f74cf5933122aa157dbadcfd8bcc5d455",
+  "sha256_markdown": "6d639ef02ec003910a6f72a1d78d346345fb07cf1f9049629395d4f006c9098d"
+}

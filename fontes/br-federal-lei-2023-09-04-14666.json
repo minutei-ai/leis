@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-09-04-14666",
+  "titulo": "Lei nº 14.666 de 04/09/2023",
+  "data": "2023-09-04",
+  "fonte": "https://normas.leg.br/api/public/binario/66ccf429-127e-421c-a2fb-d42b1cee396c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-09-04;14666",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-09-04%3B14666&tipo_documento=maior-detalhe",
+  "sha256_dados": "af9edfba8bfda71e7623310f93613f25fa30a576b04162cda4386ca46d2af7f0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:00.454Z",
+  "sha256_fonte": "7e8532a9e986cfc3214bfd68afcdc94521173c6a391c85370aafd6b85fe29f30",
+  "sha256_markdown": "aead88e09cd57107645c97fd4746688aa5ccf5f5f4fadc11738733d80cc8e271"
+}

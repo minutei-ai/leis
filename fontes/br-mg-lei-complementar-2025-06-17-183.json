@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-complementar-2025-06-17-183",
+  "titulo": "LCP nº 183, de 17/06/2025",
+  "data": "2025-06-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/183/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/183/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6c4c84e62bcde394c3d52d4fb420f1f710e81d2214fc561df0b75223bf347efd",
+  "coletado_em": "2026-10-21T08:32:12.825Z",
+  "sha256_fonte": "6d160b4096c08a86008a56f9ae523df2185b9f8d006aed5d5fd03373c11fbefe",
+  "sha256_markdown": "9232817d2987dfdeea394d03b80d33982860bd565e1bff3f6eb377642931e1b2"
+}

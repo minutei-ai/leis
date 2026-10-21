@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-30-25785",
+  "titulo": "LEI nº 25785, de 30/03/2026",
+  "data": "2026-03-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25785/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25785/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "45c260726f7c2682640d1965e778b309c784355bce8cb9a0f9697fb94122001b",
+  "coletado_em": "2026-10-21T08:26:10.542Z",
+  "sha256_fonte": "1775e41a1584a8db30f317bd976808419c99ed173d697f47ec169d82add2fba2",
+  "sha256_markdown": "197df1ddb9afbe4dcd40efd3db9cf5640fa1831ca13a93f1880b75584aac21f5"
+}

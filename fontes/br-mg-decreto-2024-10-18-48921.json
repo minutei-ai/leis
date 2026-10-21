@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-10-18-48921",
+  "titulo": "DEC nº 48921, de 18/10/2024",
+  "data": "2024-10-18",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48921/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48921/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "dc67ac774657638b603c19b2efdf2dc8b1ee837907868cad9a1d08d625d3439e",
+  "coletado_em": "2026-10-21T08:42:11.326Z",
+  "sha256_fonte": "eb827282f9ffcd180138dceeb3ba9671f715d3b0e4dc6032b118316967b84d5c",
+  "sha256_markdown": "c669b95fade3fffdc99ea6173b317c2486ad6bca3f5e5098ea593cbdef53ba4d"
+}

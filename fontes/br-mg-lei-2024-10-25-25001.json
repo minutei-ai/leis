@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-10-25-25001",
+  "titulo": "LEI nº 25001, de 25/10/2024",
+  "data": "2024-10-25",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25001/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25001/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6388a29c6de72d059965dac88caff3887b6cf25be3bf86cef7b0df01df13b449",
+  "coletado_em": "2026-10-21T08:42:16.654Z",
+  "sha256_fonte": "7888af8e4d8a0491cbdd3fd8bcb2f80e76d9bc99d5fd3f6c33ad0c1e4da8be9e",
+  "sha256_markdown": "22da51ced53b9055c8593c2cbfcc160e64b8056f81a05df2faf537542127c43e"
+}

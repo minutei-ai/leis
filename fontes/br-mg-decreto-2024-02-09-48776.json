@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-02-09-48776",
+  "titulo": "DEC nº 48776, de 09/02/2024",
+  "data": "2024-02-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48776/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48776/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "360ceb65489f548d26646a93370f5a75b9a867821d6846451d5a77884e8f31ca",
+  "coletado_em": "2026-10-21T08:37:36.394Z",
+  "sha256_fonte": "3e2296961995c159708a1f45829015782ebc8283cc09db2022f993fb66e3d414",
+  "sha256_markdown": "619467e43a07de0ffc56e9d3df02b4b6a069e2af62f3a26834928d889fa4c43c"
+}

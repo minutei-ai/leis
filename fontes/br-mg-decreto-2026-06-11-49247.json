@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-06-11-49247",
+  "titulo": "DEC nº 49247, de 11/06/2026",
+  "data": "2026-06-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49247/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49247/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "28c6424c745b6c93a271a87eb195c6a4799bcad6c5771227b59fc95b40dc0495",
+  "coletado_em": "2026-10-21T08:27:54.811Z",
+  "sha256_fonte": "5a633a0a0a8d9bcfd29423956da43aa8a2744c1e0dedd48ae50bf8a3ddf36bd1",
+  "sha256_markdown": "a446932625e7e7435e26851ac42d708c9c9c10b594101cacada4cb5cee91b36d"
+}

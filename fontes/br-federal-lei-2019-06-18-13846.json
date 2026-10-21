@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-06-18-13846",
+  "titulo": "Lei nº 13.846 de 18/06/2019",
+  "data": "2019-06-18",
+  "fonte": "https://normas.leg.br/api/public/binario/36975904-9200-48be-ae83-7882063eefb2/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-06-18;13846",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-06-18%3B13846&tipo_documento=maior-detalhe",
+  "sha256_dados": "4dfba088feb4120dd03f0cb8b3c9bb019fe5297e2e7968d19816f21523ccb41e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:46:44.679Z",
+  "sha256_fonte": "158b9d6d94d5bbfaf140de62cae113ce9bdf6658496662349d5ba6da44099846",
+  "sha256_markdown": "565fa502a0870f35b96fa1080f03eaff57beeeb96bc54e1f6342b93766612c24"
+}

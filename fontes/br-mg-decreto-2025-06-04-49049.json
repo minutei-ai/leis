@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-06-04-49049",
+  "titulo": "DEC nº 49049, de 04/06/2025",
+  "data": "2025-06-04",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49049/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49049/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ed2f3786663aeccffbdc08b38da89faf00b72ec6b3b919c29a2c38e06d12e3d8",
+  "coletado_em": "2026-10-21T08:31:48.596Z",
+  "sha256_fonte": "325b74d7674c6962ac74fd665f2b7c658dad734828c0c1da8098d3a74ad48bec",
+  "sha256_markdown": "c0e930ed420c3e80a76280556e0e529b428ec7ba21abfbbc7416f85843e4e99c"
+}

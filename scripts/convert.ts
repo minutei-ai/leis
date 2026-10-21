@@ -12,11 +12,24 @@ export class InvalidDocument extends Schema.TaggedError<InvalidDocument>()(
   },
 ) {}
 
+export const decodeHtml = (source: typeof Source.Type, bytes: Uint8Array) => {
+  if (source.fonte.startsWith("https://www.al.sp.gov.br/repositorio/legislacao/"))
+    return new TextDecoder("windows-1252", { fatal: true }).decode(bytes);
+  return new TextDecoder("utf-8", { fatal: true }).decode(bytes);
+};
+
 export const convert = Effect.fn("leis.convert")(function* (
   source: typeof Source.Type,
   html: string,
 ) {
   const $ = load(html);
+  if (source.fonte.startsWith("https://legislacao.prefeitura.sp.gov.br/leis/")) {
+    const content = $(".bx-retornaLei .customStyle:not(.bx-ementa)");
+    const title = $(".bx-leis > h4").text().replace(/\s+/gu, " ").trim();
+    if (content.length !== 1 || !source.id.startsWith("br-municipal-3550308-") || title.toLocaleLowerCase("pt-BR") !== source.titulo.toLocaleLowerCase("pt-BR"))
+      return yield* Effect.fail(new InvalidDocument({ fonte: source.fonte, motivo: "Conteúdo compilado municipal ausente" }));
+    $("body").html(content.html() ?? "");
+  }
   const body = $("body");
   body.find("script, style").remove();
   const text = body.text().replace(/\s+/gu, " ").normalize("NFC");
@@ -36,7 +49,7 @@ export const convert = Effect.fn("leis.convert")(function* (
         }),
       );
   }
-  if (!/Art\.?\s*1[º°o.\s]/iu.test(text))
+  if (!/Art(?:igo|\.)?\s*1[º°o.\s]/iu.test(text))
     return yield* Effect.fail(
       new InvalidDocument({
         fonte: source.fonte,

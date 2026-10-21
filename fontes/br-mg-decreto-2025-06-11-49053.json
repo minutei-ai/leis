@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-06-11-49053",
+  "titulo": "DEC nº 49053, de 11/06/2025",
+  "data": "2025-06-11",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49053/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49053/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "acb9a80bb6c68a55cd960b5f2b62edf5ec24404686292e49c9d19a9e17711536",
+  "coletado_em": "2026-10-21T08:31:58.711Z",
+  "sha256_fonte": "90ada6fde405acdbbd054553b3c715a1b8fba89292a1186ab8badc408454e613",
+  "sha256_markdown": "3e7d9c2281f2db344de12d6b044359a26a9a19f78846cdc5ee870f16a8e7f388"
+}

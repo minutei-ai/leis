@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-11-25-14249",
+  "titulo": "Lei nº 14.249 de 25/11/2021",
+  "data": "2021-11-25",
+  "fonte": "https://normas.leg.br/api/public/binario/cc03ab0f-54cd-457f-ac3c-e51e67671dc7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-11-25;14249",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-11-25%3B14249&tipo_documento=maior-detalhe",
+  "sha256_dados": "7e3aab2741469e9645c0a8217ee1388262ebf9c02cd4fc98f4209e0f1c856d80",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:01.823Z",
+  "sha256_fonte": "78bf13d1c3e8a5c65636739f26bd7653908660529dc89ff118a5dfc5f25dd00e",
+  "sha256_markdown": "ff298d09e625947f17be6b091640b2893f701e6b5bef8ba8ac353ac55840a735"
+}

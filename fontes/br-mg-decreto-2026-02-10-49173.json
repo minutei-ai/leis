@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-02-10-49173",
+  "titulo": "DEC nº 49173, de 10/02/2026",
+  "data": "2026-02-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49173/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49173/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6a6180e7adb7905127574d8d7861cbce3dcbd17685a0933ed54a1b0245d7522e",
+  "coletado_em": "2026-10-21T08:25:33.801Z",
+  "sha256_fonte": "3ed0f7990d0221ade633aff65dd3d9ac3e9bccf0a8c477667cea556ce1eb973e",
+  "sha256_markdown": "9c0ed379d7cd85af39bc30c4f46c4c96dd3a7722934f421c2e128412a6473bf9"
+}

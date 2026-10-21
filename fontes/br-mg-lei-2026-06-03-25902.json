@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-06-03-25902",
+  "titulo": "LEI nº 25902, de 03/06/2026",
+  "data": "2026-06-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25902/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25902/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "032a13c7fa10b9d3e79d2eb88e069147c3ab1cc542c5bf04c7eb47829073c338",
+  "coletado_em": "2026-10-21T08:27:39.665Z",
+  "sha256_fonte": "b58831cb4a42e0f5c7d8cfd4ce1cbd9388bdbd598b05e6013de38f18bd18467b",
+  "sha256_markdown": "4a5833af9c5af93cf16b74697e605a466634f0c5fd9fd15f383e2116c11bb577"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-11-19-14103",
+  "titulo": "Lei nº 14.103 de 19/11/2020",
+  "data": "2020-11-19",
+  "fonte": "https://normas.leg.br/api/public/binario/7f8f92ae-31e3-4b81-8741-eb62a33fbc15/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-11-19;14103",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-11-19%3B14103&tipo_documento=maior-detalhe",
+  "sha256_dados": "d2a23ace9e9786b190c1ba698692520efa8ceab066fd422024c80c4c961698e4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:08.885Z",
+  "sha256_fonte": "42098f689457a28dcfd0d8db5e9aa7182b256cb8184f85b436c370c513f0d11c",
+  "sha256_markdown": "f3cd8347d22c4208d420684a252931a55b6d8d99223bfd4734ece7a831fe823a"
+}

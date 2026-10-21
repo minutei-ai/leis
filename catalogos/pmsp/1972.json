@@ -1,0 +1,926 @@
+{
+  "ano_publicacao": 1972,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1972",
+    "ano-final": "31/12/1972",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:37.334Z",
+  "total": 150,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "41c7f99f21e0a5254370bc1966864dd016fd82df5c649cc48bad1fc18859f5f3"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "087bbc0c1e1eeb7c46bc807570576e4fa66442f0569f4722e98cd89828013871"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7838-de-29-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.838 de 29 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-29-7838",
+      "data": "1972-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7837-de-29-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.837 de 29 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-29-7837",
+      "data": "1972-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7836-de-28-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.836 de 28 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-28-7836",
+      "data": "1972-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7835-de-27-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.835 de 27 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-27-7835",
+      "data": "1972-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7833-de-27-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.833 de 27 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-27-7833",
+      "data": "1972-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7832-de-27-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.832 de 27 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-27-7832",
+      "data": "1972-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7834-de-27-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.834 de 27 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-27-7834",
+      "data": "1972-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7831-de-21-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.831 de 21 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-21-7831",
+      "data": "1972-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7830-de-20-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.830 de 20 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-20-7830",
+      "data": "1972-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7829-de-20-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.829 de 20 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-20-7829",
+      "data": "1972-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7828-de-20-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.828 de 20 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-20-7828",
+      "data": "1972-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7827-de-19-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.827 de 19 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-19-7827",
+      "data": "1972-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7826-de-19-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.826 de 19 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-19-7826",
+      "data": "1972-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7825-de-18-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.825 de 18 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-18-7825",
+      "data": "1972-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7824-de-18-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.824 de 18 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-18-7824",
+      "data": "1972-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7823-de-18-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.823 de 18 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-18-7823",
+      "data": "1972-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7822-de-13-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.822 de 13 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-13-7822",
+      "data": "1972-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7821-de-13-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.821 de 13 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-13-7821",
+      "data": "1972-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7820-de-12-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.820 de 12 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-12-7820",
+      "data": "1972-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7819-de-12-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.819 de 12 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-12-7819",
+      "data": "1972-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7818-de-11-de-dezembro-de-1972",
+      "titulo": "LEI Nº 7.818 de 11 de Dezembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-12-11-7818",
+      "data": "1972-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7817-de-30-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.817 de 30 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-30-7817",
+      "data": "1972-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7816-de-30-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.816 de 30 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-30-7816",
+      "data": "1972-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7815-de-27-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.815 de 27 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-27-7815",
+      "data": "1972-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7814-de-27-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.814 de 27 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-27-7814",
+      "data": "1972-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7812-de-16-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.812 de 16 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-16-7812",
+      "data": "1972-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7813-de-16-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.813 de 16 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-16-7813",
+      "data": "1972-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7811-de-10-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.811 de 10 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-10-7811",
+      "data": "1972-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7810-de-10-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.810 de 10 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-10-7810",
+      "data": "1972-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7809-de-10-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.809 de 10 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-10-7809",
+      "data": "1972-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7808-de-7-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.808 de 7 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-07-7808",
+      "data": "1972-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7807-de-7-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.807 de 7 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-07-7807",
+      "data": "1972-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7806-de-7-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.806 de 7 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-07-7806",
+      "data": "1972-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7804-de-1-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.804 de 1 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-01-7804",
+      "data": "1972-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7803-de-1-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.803 de 1 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-01-7803",
+      "data": "1972-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7805-de-01-de-novembro-de-1972",
+      "titulo": "LEI Nº 7.805 de 1 de Novembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-11-01-7805",
+      "data": "1972-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7802-de-27-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.802 de 27 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-27-7802",
+      "data": "1972-10-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7801-de-25-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.801 de 25 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-25-7801",
+      "data": "1972-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7800-de-18-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.800 de 18 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-18-7800",
+      "data": "1972-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7799-de-18-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.799 de 18 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-18-7799",
+      "data": "1972-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7798-de-18-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.798 de 18 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-18-7798",
+      "data": "1972-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7797-de-13-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.797 de 13 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-13-7797",
+      "data": "1972-10-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7796-de-9-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.796 de 9 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-09-7796",
+      "data": "1972-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7795-de-9-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.795 de 9 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-09-7795",
+      "data": "1972-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7794-de-9-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.794 de 9 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-09-7794",
+      "data": "1972-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7793-de-9-de-outubro-de-1972",
+      "titulo": "LEI Nº 7.793 de 9 de Outubro de 1972",
+      "id": "br-municipal-3550308-lei-1972-10-09-7793",
+      "data": "1972-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7791-de-30-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.791 de 30 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-30-7791",
+      "data": "1972-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7790-de-29-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.790 de 29 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-29-7790",
+      "data": "1972-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7792-de-29-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.792 de 29 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-29-7792",
+      "data": "1972-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7789-de-22-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.789 de 22 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-22-7789",
+      "data": "1972-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7788-de-22-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.788 de 22 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-22-7788",
+      "data": "1972-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7787-de-22-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.787 de 22 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-22-7787",
+      "data": "1972-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7786-de-22-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.786 de 22 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-22-7786",
+      "data": "1972-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7785-de-20-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.785 de 20 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-20-7785",
+      "data": "1972-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7784-de-19-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.784 de 19 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-19-7784",
+      "data": "1972-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7783-de-19-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.783 de 19 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-19-7783",
+      "data": "1972-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7782-de-19-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.782 de 19 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-19-7782",
+      "data": "1972-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7781-de-19-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.781 de 19 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-19-7781",
+      "data": "1972-09-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7780-de-15-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.780 de 15 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-15-7780",
+      "data": "1972-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7779-de-15-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.779 de 15 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-15-7779",
+      "data": "1972-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7778-de-15-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.778 de 15 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-15-7778",
+      "data": "1972-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7777-de-15-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.777 de 15 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-15-7777",
+      "data": "1972-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7776-de-15-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.776 de 15 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-15-7776",
+      "data": "1972-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7775-de-13-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.775 de 13 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-13-7775",
+      "data": "1972-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7773-de-5-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.773 de 5 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-05-7773",
+      "data": "1972-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7774-de-04-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.774 de 4 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-04-7774",
+      "data": "1972-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7772-de-4-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.772 de 4 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-04-7772",
+      "data": "1972-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7771-de-4-de-setembro-de-1972",
+      "titulo": "LEI Nº 7.771 de 4 de Setembro de 1972",
+      "id": "br-municipal-3550308-lei-1972-09-04-7771",
+      "data": "1972-09-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7770-de-31-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.770 de 31 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-31-7770",
+      "data": "1972-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7769-de-31-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.769 de 31 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-31-7769",
+      "data": "1972-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7768-de-25-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.768 de 25 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-25-7768",
+      "data": "1972-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7767-de-25-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.767 de 25 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-25-7767",
+      "data": "1972-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7766-de-25-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.766 de 25 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-25-7766",
+      "data": "1972-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7765-de-25-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.765 de 25 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-25-7765",
+      "data": "1972-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7764-de-25-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.764 de 25 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-25-7764",
+      "data": "1972-08-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7763-de-21-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.763 de 21 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-21-7763",
+      "data": "1972-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7762-de-15-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.762 de 15 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-15-7762",
+      "data": "1972-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7761-de-15-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.761 de 15 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-15-7761",
+      "data": "1972-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7760-de-11-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.760 de 11 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-11-7760",
+      "data": "1972-08-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7759-de-11-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.759 de 11 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-11-7759",
+      "data": "1972-08-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7758-de-11-de-agosto-de-1972",
+      "titulo": "LEI Nº 7.758 de 11 de Agosto de 1972",
+      "id": "br-municipal-3550308-lei-1972-08-11-7758",
+      "data": "1972-08-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7757-de-12-de-julho-de-1972",
+      "titulo": "LEI Nº 7.757 de 12 de Julho de 1972",
+      "id": "br-municipal-3550308-lei-1972-07-12-7757",
+      "data": "1972-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7756-de-10-de-julho-de-1972",
+      "titulo": "LEI Nº 7.756 de 10 de Julho de 1972",
+      "id": "br-municipal-3550308-lei-1972-07-10-7756",
+      "data": "1972-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7755-de-10-de-julho-de-1972",
+      "titulo": "LEI Nº 7.755 de 10 de Julho de 1972",
+      "id": "br-municipal-3550308-lei-1972-07-10-7755",
+      "data": "1972-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7754-de-10-de-julho-de-1972",
+      "titulo": "LEI Nº 7.754 de 10 de Julho de 1972",
+      "id": "br-municipal-3550308-lei-1972-07-10-7754",
+      "data": "1972-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7753-de-30-de-junho-de-1972",
+      "titulo": "LEI Nº 7.753 de 30 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-30-7753",
+      "data": "1972-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7752-de-29-de-junho-de-1972",
+      "titulo": "LEI Nº 7.752 de 29 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-29-7752",
+      "data": "1972-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7751-de-29-de-junho-de-1972",
+      "titulo": "LEI Nº 7.751 de 29 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-29-7751",
+      "data": "1972-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7750-de-29-de-junho-de-1972",
+      "titulo": "LEI Nº 7.750 de 29 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-29-7750",
+      "data": "1972-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7749-de-28-de-junho-de-1972",
+      "titulo": "LEI Nº 7.749 de 28 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-28-7749",
+      "data": "1972-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7748-de-28-de-junho-de-1972",
+      "titulo": "LEI Nº 7.748 de 28 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-28-7748",
+      "data": "1972-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7747-de-27-de-julho-de-1972",
+      "titulo": "LEI Nº 7.747 de 27 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-27-7747",
+      "data": "1972-06-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7746-de-21-de-junho-de-1972",
+      "titulo": "LEI Nº 7.746 de 21 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-21-7746",
+      "data": "1972-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7745-de-21-de-junho-de-1972",
+      "titulo": "LEI Nº 7.745 de 21 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-21-7745",
+      "data": "1972-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7744-de-21-de-junho-de-1972",
+      "titulo": "LEI Nº 7.744 de 21 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-21-7744",
+      "data": "1972-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7743-de-21-de-junho-de-1972",
+      "titulo": "LEI Nº 7.743 de 21 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-21-7743",
+      "data": "1972-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7742-de-9-de-junho-de-1972",
+      "titulo": "LEI Nº 7.742 de 9 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-09-7742",
+      "data": "1972-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7741-de-8-de-junho-de-1972",
+      "titulo": "LEI Nº 7.741 de 8 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-08-7741",
+      "data": "1972-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7740-de-8-de-junho-de-1972",
+      "titulo": "LEI Nº 7.740 de 8 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-08-7740",
+      "data": "1972-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7739-de-5-de-junho-de-1972",
+      "titulo": "LEI Nº 7.739 de 5 de Junho de 1972",
+      "id": "br-municipal-3550308-lei-1972-06-05-7739",
+      "data": "1972-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7738-de-30-de-maio-de-1972",
+      "titulo": "LEI Nº 7.738 de 30 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-30-7738",
+      "data": "1972-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7737-de-30-de-maio-de-1972",
+      "titulo": "LEI Nº 7.737 de 30 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-30-7737",
+      "data": "1972-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7736-de-26-de-maio-de-1972",
+      "titulo": "LEI Nº 7.736 de 26 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-26-7736",
+      "data": "1972-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7735-de-11-de-maio-de-1972",
+      "titulo": "LEI Nº 7.735 de 11 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-11-7735",
+      "data": "1972-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7734-de-11-de-maio-de-1972",
+      "titulo": "LEI Nº 7.734 de 11 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-11-7734",
+      "data": "1972-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7733-de-11-de-maio-de-1972",
+      "titulo": "LEI Nº 7.733 de 11 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-11-7733",
+      "data": "1972-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7732-de-8-de-maio-de-1972",
+      "titulo": "LEI Nº 7.732 de 8 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-08-7732",
+      "data": "1972-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7731-de-8-de-maio-de-1972",
+      "titulo": "LEI Nº 7.731 de 8 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-08-7731",
+      "data": "1972-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7730-de-8-de-maio-de-1972",
+      "titulo": "LEI Nº 7.730 de 8 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-08-7730",
+      "data": "1972-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7729-de-4-de-maio-de-1972",
+      "titulo": "LEI Nº 7.729 de 4 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-04-7729",
+      "data": "1972-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7728-de-4-de-maio-de-1972",
+      "titulo": "LEI Nº 7.728 de 4 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-04-7728",
+      "data": "1972-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7727-de-4-de-maio-de-1972",
+      "titulo": "LEI Nº 7.727 de 4 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-04-7727",
+      "data": "1972-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7726-de-4-de-maio-de-1972",
+      "titulo": "LEI Nº 7.726 de 4 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-04-7726",
+      "data": "1972-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7725-de-4-de-maio-de-1972",
+      "titulo": "LEI Nº 7.725 de 4 de Maio de 1972",
+      "id": "br-municipal-3550308-lei-1972-05-04-7725",
+      "data": "1972-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7724-de-18-de-abril-de-1972",
+      "titulo": "LEI Nº 7.724 de 18 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-18-7724",
+      "data": "1972-04-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7723-de-17-de-abril-de-1972",
+      "titulo": "LEI Nº 7.723 de 17 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-17-7723",
+      "data": "1972-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7722-de-13-de-abril-de-1972",
+      "titulo": "LEI Nº 7.722 de 13 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-13-7722",
+      "data": "1972-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7721-de-13-de-abril-de-1972",
+      "titulo": "LEI Nº 7.721 de 13 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-13-7721",
+      "data": "1972-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7720-de-13-de-abril-de-1972",
+      "titulo": "LEI Nº 7.720 de 13 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-13-7720",
+      "data": "1972-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7719-de-7-de-abril-de-1972",
+      "titulo": "LEI Nº 7.719 de 7 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-07-7719",
+      "data": "1972-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7718-de-7-de-abril-de-1972",
+      "titulo": "LEI Nº 7.718 de 7 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-07-7718",
+      "data": "1972-04-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7717-de-4-de-abril-de-1972",
+      "titulo": "LEI Nº 7.717 de 4 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-04-7717",
+      "data": "1972-04-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7716-de-3-de-abril-de-1972",
+      "titulo": "LEI Nº 7.716 de 3 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-03-7716",
+      "data": "1972-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7715-de-3-de-abril-de-1972",
+      "titulo": "LEI Nº 7.715 de 3 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-03-7715",
+      "data": "1972-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7714-de-3-de-abril-de-1972",
+      "titulo": "LEI Nº 7.714 de 3 de Abril de 1972",
+      "id": "br-municipal-3550308-lei-1972-04-03-7714",
+      "data": "1972-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7712-de-23-de-marco-de-1972",
+      "titulo": "LEI Nº 7.712 de 23 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-23-7712",
+      "data": "1972-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7713-de-23-de-marco-de-1972",
+      "titulo": "LEI Nº 7.713 de 23 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-23-7713",
+      "data": "1972-03-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7710-de-17-de-marco-de-1972",
+      "titulo": "LEI Nº 7.710 de 17 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-17-7710",
+      "data": "1972-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7709-de-17-de-marco-de-1972",
+      "titulo": "LEI Nº 7.709 de 17 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-17-7709",
+      "data": "1972-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7708-de-17-de-marco-de-1972",
+      "titulo": "LEI Nº 7.708 de 17 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-17-7708",
+      "data": "1972-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7706-de-17-de-marco-de-1972",
+      "titulo": "LEI Nº 7.706 de 17 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-17-7706",
+      "data": "1972-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7711-de-17-de-marco-de-1972",
+      "titulo": "LEI Nº 7.711 de 17 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-17-7711",
+      "data": "1972-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7707-de-17-de-marco-de-1972",
+      "titulo": "LEI Nº 7.707 de 17 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-17-7707",
+      "data": "1972-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7705-de-13-de-marco-de-1972",
+      "titulo": "LEI Nº 7.705 de 13 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-13-7705",
+      "data": "1972-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7704-de-9-de-marco-de-1972",
+      "titulo": "LEI Nº 7.704 de 9 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-09-7704",
+      "data": "1972-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7702-de-8-de-marco-de-1972",
+      "titulo": "LEI Nº 7.702 de 8 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-08-7702",
+      "data": "1972-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7701-de-8-de-marco-de-1972",
+      "titulo": "LEI Nº 7.701 de 8 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-08-7701",
+      "data": "1972-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7703-de-8-de-marco-de-1972",
+      "titulo": "LEI Nº 7.703 de 8 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-08-7703",
+      "data": "1972-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7700-de-3-de-marco-de-1972",
+      "titulo": "LEI Nº 7.700 de 3 de Março de 1972",
+      "id": "br-municipal-3550308-lei-1972-03-03-7700",
+      "data": "1972-03-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7699-de-28-de-fevereiro-de-1972",
+      "titulo": "LEI Nº 7.699 de 28 de Fevereiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-02-28-7699",
+      "data": "1972-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7697-de-24-de-fevereiro-de-1972",
+      "titulo": "LEI Nº 7.697 de 24 de Fevereiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-02-24-7697",
+      "data": "1972-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7696-de-24-de-fevereiro-de-1972",
+      "titulo": "LEI Nº 7.696 de 24 de Fevereiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-02-24-7696",
+      "data": "1972-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7695-de-24-de-fevereiro-de-1972",
+      "titulo": "LEI Nº 7.695 de 24 de Fevereiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-02-24-7695",
+      "data": "1972-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7698-de-24-de-fevereiro-de-1972",
+      "titulo": "LEI Nº 7.698 de 24 de Fevereiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-02-24-7698",
+      "data": "1972-02-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7694-de-7-de-janeiro-de-1972",
+      "titulo": "LEI Nº 7.694 de 7 de Janeiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-01-07-7694",
+      "data": "1972-01-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7693-de-6-de-janeiro-de-1972",
+      "titulo": "LEI Nº 7.693 de 6 de Janeiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-01-06-7693",
+      "data": "1972-01-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7692-de-5-de-janeiro-de-1972",
+      "titulo": "LEI Nº 7.692 de 5 de Janeiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-01-05-7692",
+      "data": "1972-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7690-de-5-de-janeiro-de-1972",
+      "titulo": "LEI Nº 7.690 de 5 de Janeiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-01-05-7690",
+      "data": "1972-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7691-de-5-de-janeiro-de-1972",
+      "titulo": "LEI Nº 7.691 de 5 de Janeiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-01-05-7691",
+      "data": "1972-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7689-de-5-de-janeiro-de-1972",
+      "titulo": "LEI Nº 7.689 de 5 de Janeiro de 1972",
+      "id": "br-municipal-3550308-lei-1972-01-05-7689",
+      "data": "1972-01-05"
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-10-02-25518",
+  "titulo": "LEI nº 25518, de 02/10/2025",
+  "data": "2025-10-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25518/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25518/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "31b1bbdfacfd72d0a27bf204b3b7850f1401284c6acec96b87280ca9f64c658f",
+  "coletado_em": "2026-10-21T08:34:40.628Z",
+  "sha256_fonte": "8e7d0856b9b82908d40e75dc73b6922049a15b8915758f118b5dfab3be1d56b8",
+  "sha256_markdown": "082ec3cd926476ff550c209943e46adaababbe61c8ee78451997ce4d07ac9e7d"
+}

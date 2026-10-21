@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-19-25730",
+  "titulo": "LEI nº 25730, de 19/01/2026",
+  "data": "2026-01-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25730/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25730/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "11925b7c5722bc1a6ebb71a0de5af1e536d611880412c72da2e2ebe29ede392c",
+  "coletado_em": "2026-10-21T08:25:25.877Z",
+  "sha256_fonte": "afb66e980051e53de66e219bbaa1e653b33c825d5cfca8f50624684b1b10b6f1",
+  "sha256_markdown": "5231dff4a02be527d81523b87f15c8f6d34ed0b571b4665d6c1f33cc44a28b15"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-03-03-14122",
+  "titulo": "Lei nº 14.122 de 03/03/2021",
+  "data": "2021-03-03",
+  "fonte": "https://normas.leg.br/api/public/binario/a7786713-6606-4680-8423-b216b2e530dd/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-03-03;14122",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-03-03%3B14122&tipo_documento=maior-detalhe",
+  "sha256_dados": "306d8a89fb1bd503bc8c76115df36d33d1ec604cef96f7727f6093b6638a56a1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:43.654Z",
+  "sha256_fonte": "b30b95c2471603c76ac442ebe9a853a19ae41c7141c8049dad300059e55728eb",
+  "sha256_markdown": "c385cb5c8a3acc7c7173cb1ab99c2796cbe60ab4dd82ec0049ea4cd63bc4ee5e"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-04-22-25825",
+  "titulo": "LEI nº 25825, de 22/04/2026",
+  "data": "2026-04-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25825/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25825/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a9375e15d9ca38c76808a1d794d874b7b789e1eb370cc0fbd18c25e9f6644df4",
+  "coletado_em": "2026-10-21T08:26:40.538Z",
+  "sha256_fonte": "00e8682ecc7e5c8f7fa3cdbf4d87bc4e70b3927d910dacded351495904badcd9",
+  "sha256_markdown": "301deaf1ce0839d0ce8aa33057ccf495a496718426eca81ee89b801a6e886f4b"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-30-25411",
+  "titulo": "LEI nº 25411, de 30/07/2025",
+  "data": "2025-07-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25411/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25411/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "aedc7e9f0ff232e66a84990239f867e9b2839a4a6cb9800117dd11d758633683",
+  "coletado_em": "2026-10-21T08:33:15.822Z",
+  "sha256_fonte": "a4804b7b678ee3d8099e93116bf21f2cc719ba144740a067e5cd0bf9503e0d32",
+  "sha256_markdown": "aa94e696d443de9eed278cfd50dd7b8555999efe55a104f933b492cae5969dfb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-01-07-13974",
+  "titulo": "Lei nº 13.974 de 07/01/2020",
+  "data": "2020-01-07",
+  "fonte": "https://normas.leg.br/api/public/binario/c1f87dca-838e-489b-89e3-ea866d05431e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-01-07;13974",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-01-07%3B13974&tipo_documento=maior-detalhe",
+  "sha256_dados": "cd25dead5dafb0822d8f4ba9e1340f6838d2f0ae186e1fa1be395d4d5db65514",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:56.357Z",
+  "sha256_fonte": "1cfa4d8baa8578f1d7056b521ddf08ba2788d5c963281ed1e6514c2133a0708b",
+  "sha256_markdown": "f4cf2f3f255387304b6e72322879995f0ebaa5e4a81eb2e8e35218a2e245ead2"
+}

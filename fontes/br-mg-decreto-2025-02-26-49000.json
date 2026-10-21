@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-02-26-49000",
+  "titulo": "DEC nº 49000, de 26/02/2025",
+  "data": "2025-02-26",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49000/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49000/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "246ba04247a80c228d3fa78d98d2865cad53f61c149382a89478ddbfaf47d28b",
+  "coletado_em": "2026-10-21T08:30:14.790Z",
+  "sha256_fonte": "0d217333b27f797b45db83aeb4862549026cb0e19295777f12f415daaa2100f0",
+  "sha256_markdown": "e192f8a988d4bb7d6999e33555cf6b1c555f84f205faed565149bf0f9984dc70"
+}

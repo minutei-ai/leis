@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-09-18-49100",
+  "titulo": "DEC nº 49100, de 18/09/2025",
+  "data": "2025-09-18",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49100/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49100/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "42c764c64146209a7d9316af31c98d5b047852d5e3f38b4eaad0f16bbc7407a9",
+  "coletado_em": "2026-10-21T08:34:16.462Z",
+  "sha256_fonte": "524606f1f0fd838fbd4ecac79205d7104119d766fb2a8abe424c3a0ecb75cd31",
+  "sha256_markdown": "89773776c17cf9510ac296ac9605700062a1e3ef4afb2cc78ce555b2b61cce31"
+}

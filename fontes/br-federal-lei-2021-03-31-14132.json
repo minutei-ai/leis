@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-03-31-14132",
+  "titulo": "Lei nº 14.132 de 31/03/2021",
+  "data": "2021-03-31",
+  "fonte": "https://normas.leg.br/api/public/binario/1df7dd28-c3ca-49f3-b533-2d84edaa2473/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-03-31;14132",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-03-31%3B14132&tipo_documento=maior-detalhe",
+  "sha256_dados": "451b14d159655d0422ca9cf44b275a3ffa22b4df686f91e160eed8e6159aa839",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:30.764Z",
+  "sha256_fonte": "46a2018dea6db1345c51469e1c33fb808f5dff20ac4fa3bf5bb42e6a95392b6c",
+  "sha256_markdown": "64d47e1129539e5fc0061e0beaea49b7007833171d4c62e881da8d6f9182c806"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-01-03-25132",
+  "titulo": "LEI nº 25132, de 03/01/2025",
+  "data": "2025-01-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25132/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25132/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ba89054123f94c956daae0ae239dee80cf1276c1a45fcb1530d1b9cde6eb1984",
+  "coletado_em": "2026-10-21T08:29:39.686Z",
+  "sha256_fonte": "f22c777f50bb694ae9d64093c61b82f85d8ac60cda9441b0d6ff25aa8832764b",
+  "sha256_markdown": "d6637e3a87b2d1ae6a32fd10e7f83f9b7c240c59996c0f331d28a433343c0b5d"
+}

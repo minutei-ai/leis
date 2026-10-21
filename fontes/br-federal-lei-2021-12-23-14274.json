@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-12-23-14274",
+  "titulo": "Lei nº 14.274 de 23/12/2021",
+  "data": "2021-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/34f1abc4-badc-42fb-b619-deb21e531444/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-12-23;14274",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-12-23%3B14274&tipo_documento=maior-detalhe",
+  "sha256_dados": "bf31e1feb36f22ee8ccef8abd52be439cf75c10c5af4169d7528280252078e0f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:37:28.537Z",
+  "sha256_fonte": "24adc6bfd87cd065b5ae897724e3a0dcb67c5a72f116dfafb6719c236adfaa60",
+  "sha256_markdown": "38ff06d356e463528c745bf66f429a86a41adcc510d208901fc2f5cf32ceef8c"
+}

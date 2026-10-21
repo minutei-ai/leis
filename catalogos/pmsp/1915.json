@@ -1,0 +1,586 @@
+{
+  "ano_publicacao": 1915,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1915",
+    "ano-final": "31/12/1915",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:46.711Z",
+  "total": 94,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "9de09a69e72aba23691a1f55e65afc090e405aaec1f0c9a3810c74df2a069591"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1934-de-28-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.934 de 28 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-28-1934",
+      "data": "1915-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1933-de-21-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.933 de 21 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-21-1933",
+      "data": "1915-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1932-de-21-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.932 de 21 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-21-1932",
+      "data": "1915-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1931-de-16-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.931 de 16 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-16-1931",
+      "data": "1915-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1930-de-3-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.930 de 3 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-03-1930",
+      "data": "1915-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1929-de-3-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.929 de 3 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-03-1929",
+      "data": "1915-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1928-de-3-de-dezembro-de-1915",
+      "titulo": "LEI Nº 1.928 de 3 de Dezembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-12-03-1928",
+      "data": "1915-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1927-de-23-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.927 de 23 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-23-1927",
+      "data": "1915-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1926-de-22-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.926 de 22 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-22-1926",
+      "data": "1915-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1925-de-22-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.925 de 22 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-22-1925",
+      "data": "1915-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1924-de-22-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.924 de 22 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-22-1924",
+      "data": "1915-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1923-de-22-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.923 de 22 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-22-1923",
+      "data": "1915-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1922-de-19-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.922 de 19 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-19-1922",
+      "data": "1915-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1921-de-12-de-novembro-de-1915",
+      "titulo": "LEI Nº 1.921 de 12 de Novembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-11-12-1921",
+      "data": "1915-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1920-de-30-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.920 de 30 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-30-1920",
+      "data": "1915-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1919-de-28-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.919 de 28 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-28-1919",
+      "data": "1915-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1918-de-28-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.918 de 28 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-28-1918",
+      "data": "1915-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1917-de-11-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.917 de 11 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-11-1917",
+      "data": "1915-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1916-de-11-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.916 de 11 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-11-1916",
+      "data": "1915-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1915-de-5-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.915 de 5 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-05-1915",
+      "data": "1915-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1914-de-5-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.914 de 5 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-05-1914",
+      "data": "1915-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1913-de-5-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.913 de 5 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-05-1913",
+      "data": "1915-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1912-de-5-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.912 de 5 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-05-1912",
+      "data": "1915-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1911-de-5-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.911 de 5 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-05-1911",
+      "data": "1915-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1910-de-5-de-outubro-de-1915",
+      "titulo": "LEI Nº 1.910 de 5 de Outubro de 1915",
+      "id": "br-municipal-3550308-lei-1915-10-05-1910",
+      "data": "1915-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1909-de-13-de-setembro-de-1915",
+      "titulo": "LEI Nº 1.909 de 13 de Setembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-09-13-1909",
+      "data": "1915-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1908-de-13-de-setembro-de-1915",
+      "titulo": "LEI Nº 1.908 de 13 de Setembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-09-13-1908",
+      "data": "1915-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1907-de-13-de-setembro-de-1915",
+      "titulo": "LEI Nº 1.907 de 13 de Setembro de 1915",
+      "id": "br-municipal-3550308-lei-1915-09-13-1907",
+      "data": "1915-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1906-de-26-de-agosto-de-1915",
+      "titulo": "LEI Nº 1.906 de 26 de Agosto de 1915",
+      "id": "br-municipal-3550308-lei-1915-08-26-1906",
+      "data": "1915-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1905-de-26-de-agosto-de-1915",
+      "titulo": "LEI Nº 1.905 de 26 de Agosto de 1915",
+      "id": "br-municipal-3550308-lei-1915-08-26-1905",
+      "data": "1915-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1904-de-20-de-agosto-de-1915",
+      "titulo": "LEI Nº 1.904 de 20 de Agosto de 1915",
+      "id": "br-municipal-3550308-lei-1915-08-20-1904",
+      "data": "1915-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1903-de-20-de-agosto-de-1915",
+      "titulo": "LEI Nº 1.903 de 20 de Agosto de 1915",
+      "id": "br-municipal-3550308-lei-1915-08-20-1903",
+      "data": "1915-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1902-de-18-de-agosto-de-1915",
+      "titulo": "LEI Nº 1.902 de 18 de Agosto de 1915",
+      "id": "br-municipal-3550308-lei-1915-08-18-1902",
+      "data": "1915-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1901-de-7-de-agosto-de-1915",
+      "titulo": "LEI Nº 1.901 de 7 de Agosto de 1915",
+      "id": "br-municipal-3550308-lei-1915-08-07-1901",
+      "data": "1915-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1900-de-29-de-julho-de-1915",
+      "titulo": "LEI Nº 1.900 de 29 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-29-1900",
+      "data": "1915-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1899-de-29-de-julho-de-1915",
+      "titulo": "LEI Nº 1.899 de 29 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-29-1899",
+      "data": "1915-07-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1898-de-21-de-julho-de-1915",
+      "titulo": "LEI Nº 1.898 de 21 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-21-1898",
+      "data": "1915-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1897-de-21-de-julho-de-1915",
+      "titulo": "LEI Nº 1.897 de 21 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-21-1897",
+      "data": "1915-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1896-de-21-de-julho-de-1915",
+      "titulo": "LEI Nº 1.896 de 21 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-21-1896",
+      "data": "1915-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1895-de-21-de-julho-de-1915",
+      "titulo": "LEI Nº 1.895 de 21 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-21-1895",
+      "data": "1915-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1894-de-21-de-julho-de-1915",
+      "titulo": "LEI Nº 1.894 de 21 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-21-1894",
+      "data": "1915-07-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1893-de-17-de-julho-de-1915",
+      "titulo": "LEI Nº 1.893 de 17 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-17-1893",
+      "data": "1915-07-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1892-de-12-de-julho-de-1915",
+      "titulo": "LEI Nº 1.892 de 12 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-12-1892",
+      "data": "1915-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1891-de-10-de-julho-de-1915",
+      "titulo": "LEI Nº 1.891 de 10 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-10-1891",
+      "data": "1915-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1890-de-10-de-julho-de-1915",
+      "titulo": "LEI Nº 1.890 de 10 de Julho de 1915",
+      "id": "br-municipal-3550308-lei-1915-07-10-1890",
+      "data": "1915-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1889-de-26-de-junho-de-1915",
+      "titulo": "LEI Nº 1.889 de 26 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-26-1889",
+      "data": "1915-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1888-de-26-de-junho-de-1915",
+      "titulo": "LEI Nº 1.888 de 26 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-26-1888",
+      "data": "1915-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1887-de-26-de-junho-de-1915",
+      "titulo": "LEI Nº 1.887 de 26 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-26-1887",
+      "data": "1915-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1886-de-25-de-junho-de-1915",
+      "titulo": "LEI Nº 1.886 de 25 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-25-1886",
+      "data": "1915-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1885-de-23-de-junho-de-1915",
+      "titulo": "LEI Nº 1.885 de 23 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-23-1885",
+      "data": "1915-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1884-de-23-de-junho-de-1915",
+      "titulo": "LEI Nº 1.884 de 23 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-23-1884",
+      "data": "1915-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1883-de-18-de-junho-de-1915",
+      "titulo": "LEI Nº 1.883 de 18 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-18-1883",
+      "data": "1915-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1882-de-9-de-junho-de-1915",
+      "titulo": "LEI Nº 1.882 de 9 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-09-1882",
+      "data": "1915-06-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1881-de-5-de-junho-de-1915",
+      "titulo": "LEI Nº 1.881 de 5 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-05-1881",
+      "data": "1915-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1880-de-4-de-junho-de-1915",
+      "titulo": "LEI Nº 1.880 de 4 de Junho de 1915",
+      "id": "br-municipal-3550308-lei-1915-06-04-1880",
+      "data": "1915-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1879-de-29-de-maio-de-1915",
+      "titulo": "LEI Nº 1.879 de 29 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-29-1879",
+      "data": "1915-05-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1878-de-28-de-maio-de-1915",
+      "titulo": "LEI Nº 1.878 de 28 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-28-1878",
+      "data": "1915-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1877-de-21-de-maio-de-1915",
+      "titulo": "LEI Nº 1.877 de 21 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-21-1877",
+      "data": "1915-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1876-de-21-de-maio-de-1915",
+      "titulo": "LEI Nº 1.876 de 21 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-21-1876",
+      "data": "1915-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1875-de-15-de-maio-de-1915",
+      "titulo": "LEI Nº 1.875 de 15 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-15-1875",
+      "data": "1915-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1874-de-12-de-maio-de-1915",
+      "titulo": "LEI Nº 1.874 de 12 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-12-1874",
+      "data": "1915-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1873-de-7-de-maio-de-1915",
+      "titulo": "LEI Nº 1.873 de 7 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-07-1873",
+      "data": "1915-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1872-de-7-de-maio-de-1915",
+      "titulo": "LEI Nº 1.872 de 7 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-07-1872",
+      "data": "1915-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1871-de-7-de-maio-de-1915",
+      "titulo": "LEI Nº 1.871 de 7 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-07-1871",
+      "data": "1915-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1870-de-7-de-maio-de-1915",
+      "titulo": "LEI Nº 1.870 de 7 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-07-1870",
+      "data": "1915-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1869-de-4-de-maio-de-1915",
+      "titulo": "LEI Nº 1.869 de 4 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-04-1869",
+      "data": "1915-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1868-de-4-de-maio-de-1915",
+      "titulo": "LEI Nº 1.868 de 4 de Maio de 1915",
+      "id": "br-municipal-3550308-lei-1915-05-04-1868",
+      "data": "1915-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1867-de-30-de-abril-de-1915",
+      "titulo": "LEI Nº 1.867 de 30 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-30-1867",
+      "data": "1915-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1866-de-23-de-abril-de-1915",
+      "titulo": "LEI Nº 1.866 de 23 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-23-1866",
+      "data": "1915-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1865-de-17-de-abril-de-1915",
+      "titulo": "LEI Nº 1.865 de 17 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-17-1865",
+      "data": "1915-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1864-de-6-de-abril-de-1915",
+      "titulo": "LEI Nº 1.864 de 6 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-06-1864",
+      "data": "1915-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1863-de-6-de-abril-de-1915",
+      "titulo": "LEI Nº 1.863 de 6 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-06-1863",
+      "data": "1915-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1862-de-6-de-abril-de-1915",
+      "titulo": "LEI Nº 1.862 de 6 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-06-1862",
+      "data": "1915-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1861-de-6-de-abril-de-1915",
+      "titulo": "LEI Nº 1.861 de 6 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-06-1861",
+      "data": "1915-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1860-de-6-de-abril-de-1915",
+      "titulo": "LEI Nº 1.860 de 6 de Abril de 1915",
+      "id": "br-municipal-3550308-lei-1915-04-06-1860",
+      "data": "1915-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1859-de-26-de-marco-de-1915",
+      "titulo": "LEI Nº 1.859 de 26 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-26-1859",
+      "data": "1915-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1858-de-26-de-marco-de-1915",
+      "titulo": "LEI Nº 1.858 de 26 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-26-1858",
+      "data": "1915-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1857-de-26-de-marco-de-1915",
+      "titulo": "LEI Nº 1.857 de 26 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-26-1857",
+      "data": "1915-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1856-de-19-de-marco-de-1915",
+      "titulo": "LEI Nº 1.856 de 19 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-19-1856",
+      "data": "1915-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1855-de-19-de-marco-de-1915",
+      "titulo": "LEI Nº 1.855 de 19 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-19-1855",
+      "data": "1915-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1854-de-13-de-marco-de-1915",
+      "titulo": "LEI Nº 1.854 de 13 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-13-1854",
+      "data": "1915-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1853-de-12-de-marco-de-1915",
+      "titulo": "LEI Nº 1.853 de 12 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-12-1853",
+      "data": "1915-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1852-de-12-de-marco-de-1915",
+      "titulo": "LEI Nº 1.852 de 12 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-12-1852",
+      "data": "1915-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1851-de-12-de-marco-de-1915",
+      "titulo": "LEI Nº 1.851 de 12 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-12-1851",
+      "data": "1915-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1850-de-5-de-marco-de-1915",
+      "titulo": "LEI Nº 1.850 de 5 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-05-1850",
+      "data": "1915-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1849-de-5-de-marco-de-1915",
+      "titulo": "LEI Nº 1.849 de 5 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-05-1849",
+      "data": "1915-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1848-de-5-de-marco-de-1915",
+      "titulo": "LEI Nº 1.848 de 5 de Março de 1915",
+      "id": "br-municipal-3550308-lei-1915-03-05-1848",
+      "data": "1915-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1847-de-2-de-fevereiro-de-1915",
+      "titulo": "LEI Nº 1.847 de 2 de Fevereiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-02-02-1847",
+      "data": "1915-02-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1846-de-2-de-fevereiro-de-1915",
+      "titulo": "LEI Nº 1.846 de 2 de Fevereiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-02-02-1846",
+      "data": "1915-02-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1845-de-1-de-fevereiro-de-1915",
+      "titulo": "LEI Nº 1.845 de 1 de Fevereiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-02-01-1845",
+      "data": "1915-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1844-de-1-de-fevereiro-de-1915",
+      "titulo": "LEI Nº 1.844 de 1 de Fevereiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-02-01-1844",
+      "data": "1915-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1843-de-28-de-janeiro-de-1915",
+      "titulo": "LEI Nº 1.843 de 28 de Janeiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-01-28-1843",
+      "data": "1915-01-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1842-de-20-de-janeiro-de-1915",
+      "titulo": "LEI Nº 1.842 de 20 de Janeiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-01-20-1842",
+      "data": "1915-01-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1841-de-20-de-janeiro-de-1915",
+      "titulo": "LEI Nº 1.841 de 20 de Janeiro de 1915",
+      "id": "br-municipal-3550308-lei-1915-01-20-1841",
+      "data": "1915-01-20"
+    }
+  ],
+  "pendencias": []
+}

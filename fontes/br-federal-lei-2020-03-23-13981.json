@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-03-23-13981",
+  "titulo": "Lei nº 13.981 de 23/03/2020",
+  "data": "2020-03-23",
+  "fonte": "https://normas.leg.br/api/public/binario/9e2aafad-cb83-439c-954a-f8fe6c584033/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-03-23;13981",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-03-23%3B13981&tipo_documento=maior-detalhe",
+  "sha256_dados": "57f2f31cd967384be281e33048438d483c907f05e6206c12d1ccb84360127300",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:47.217Z",
+  "sha256_fonte": "f918fb626b13ec20bd209e04e88ce8c69cf9284d1afb73073ec80f8e81be7e0f",
+  "sha256_markdown": "f4509c14de335916f600fefc31c4ab34fe51bc2867888efff4c246579ffee4d4"
+}

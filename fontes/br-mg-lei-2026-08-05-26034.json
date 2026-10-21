@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-05-26034",
+  "titulo": "LEI nº 26034, de 05/08/2026",
+  "data": "2026-08-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26034/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26034/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "23a3dff363184bebb2c24ab92d217cfa604a9c09b7f48b5cbef1c4d380ac5d66",
+  "coletado_em": "2026-10-21T08:29:07.602Z",
+  "sha256_fonte": "03c29f292b2c4eb552c83d40d7009875c44adb588576d21040ad14e334d1fd55",
+  "sha256_markdown": "7189110dbcb4f500b336869eaf333e3b1170707159d1bcd6af967b8739cd4090"
+}

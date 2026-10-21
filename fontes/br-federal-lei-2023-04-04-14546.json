@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-04-04-14546",
+  "titulo": "Lei nº 14.546 de 04/04/2023",
+  "data": "2023-04-04",
+  "fonte": "https://normas.leg.br/api/public/binario/22516dc5-2a5b-4974-9729-9ccfe71e3e4b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-04-04;14546",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-04-04%3B14546&tipo_documento=maior-detalhe",
+  "sha256_dados": "10ddf3ae221dc89d98d8bd55d5adf1167817fe1013daeedd179221347d9de60e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:37.637Z",
+  "sha256_fonte": "c1d68394d1a6100b5e7532486a5acb8a02a252c651cbee19bcecc720534b2091",
+  "sha256_markdown": "32307fa30781fa433a8c0e7542155bd95830825350b0b375c42b603b296fe9a3"
+}

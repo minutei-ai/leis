@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-emenda-constitucional-2026-04-15-122",
+  "titulo": "EMC nº 122, de 15/04/2026",
+  "data": "2026-04-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/122/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/EMC/122/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "4defc0e198b485aace4e2d6b05f81ea1dc56fc7a15d8d3752df187b8043bb32a",
+  "coletado_em": "2026-10-21T08:26:31.381Z",
+  "sha256_fonte": "a9371aefd645b9d35c879e1cf5430c481f1b6ba3fa831097fa8532823751fc78",
+  "sha256_markdown": "8e5524eab5972d6a167ebf790409f4430462f865da4ac6ee8fc4d8e13001e893"
+}

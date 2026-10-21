@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-27-26008",
+  "titulo": "LEI nº 26008, de 27/07/2026",
+  "data": "2026-07-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26008/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26008/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "068db84e03c2174a9cca75b398b987d78568423dd08cbd61e38d63820e0f3176",
+  "coletado_em": "2026-10-21T08:28:48.949Z",
+  "sha256_fonte": "2a9d930de90aeae52bd74b4ea9c4d77ff252a8c2dc25193a643e71c6525e08af",
+  "sha256_markdown": "121d75e974222f8cbbced268bf81a587bf9a0c8b0e0b80b3f453bc6052355682"
+}

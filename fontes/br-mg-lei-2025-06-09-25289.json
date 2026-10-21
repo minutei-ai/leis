@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-06-09-25289",
+  "titulo": "LEI nº 25289, de 09/06/2025",
+  "data": "2025-06-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25289/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25289/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ba4a971ae09d64bcf8d82542356aaf03225cd8f1aabfc30306f1c2ce5cea21cb",
+  "coletado_em": "2026-10-21T08:31:53.108Z",
+  "sha256_fonte": "9bfdb37dbcd390339a775368f09f2293cb1f5ee7682c887d09008b01070c059b",
+  "sha256_markdown": "42c8a5aaff2e2855a4e76338e47023bb65e25539890d726e765da336e135fc75"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-08-25862",
+  "titulo": "LEI nº 25862, de 08/05/2026",
+  "data": "2026-05-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25862/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25862/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e46158c232c7ce3fc554034f73f06099f118f90b52451f0f0515f0e66e43128b",
+  "coletado_em": "2026-10-21T08:27:00.329Z",
+  "sha256_fonte": "a633417d0530909961ef67eeab69a95f8ec61e353e557078f3af25eb2ec7c9bc",
+  "sha256_markdown": "435500b450c53f3c73b2929b58aeac063e92bbc545f41699c705918e82d70415"
+}

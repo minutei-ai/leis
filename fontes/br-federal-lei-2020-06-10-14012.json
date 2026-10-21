@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-06-10-14012",
+  "titulo": "Lei nº 14.012 de 10/06/2020",
+  "data": "2020-06-10",
+  "fonte": "https://normas.leg.br/api/public/binario/02838236-e838-46e4-ac69-471d53e9289a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-06-10;14012",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-06-10%3B14012&tipo_documento=maior-detalhe",
+  "sha256_dados": "2564d6481fad0e7e75a0f085f8b8f2df18b84a408928a7fa7d2d9db7a0025dff",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:04.677Z",
+  "sha256_fonte": "5ab6f51bb10be9b3b4518341a3244e110f1b455560c3b2c960a6487e89dac359",
+  "sha256_markdown": "f7a1e1e24e048532653762f83464a4ce3196ac70562b47c9551be40f8f40f0c2"
+}

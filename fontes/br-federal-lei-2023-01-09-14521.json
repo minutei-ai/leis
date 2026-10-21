@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-01-09-14521",
+  "titulo": "Lei nº 14.521 de 09/01/2023",
+  "data": "2023-01-09",
+  "fonte": "https://normas.leg.br/api/public/binario/782439cb-1715-4417-9486-1ef493bc0e23/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-01-09;14521",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-01-09%3B14521&tipo_documento=maior-detalhe",
+  "sha256_dados": "f259010a98f31a065ed9d6d354be4a6fd5c7af7a0ff822180c7a9aca6c5c5870",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:11.336Z",
+  "sha256_fonte": "b703bd42c62aa249ba81e84ba7c19656f0712fa068a0b83b13d5c83751b7e246",
+  "sha256_markdown": "098675dbc0e74bbcbf0b11f94d642d38b2a7829e0be858188ff30b2da8788265"
+}

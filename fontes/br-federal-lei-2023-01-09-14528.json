@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-01-09-14528",
+  "titulo": "Lei nº 14.528 de 09/01/2023",
+  "data": "2023-01-09",
+  "fonte": "https://normas.leg.br/api/public/binario/9e736545-fdc5-4a73-af4a-727540d89128/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-01-09;14528",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-01-09%3B14528&tipo_documento=maior-detalhe",
+  "sha256_dados": "66bfe73aee2c0e30b055356a8acd0c0faab01fe4a909b11469185deba15f356a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:01.047Z",
+  "sha256_fonte": "d198a4aaf95cd788b8f4a2483139e54f11929c5d83aedb550fd2725213ff8be7",
+  "sha256_markdown": "66b1f6e48cbb45e932a0115f0f9c73fc3fd630c809b7c8a410c9bd3ac92b39c2"
+}

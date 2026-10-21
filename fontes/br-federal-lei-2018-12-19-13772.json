@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-12-19-13772",
+  "titulo": "Lei nº 13.772 de 19/12/2018",
+  "data": "2018-12-19",
+  "fonte": "https://normas.leg.br/api/public/binario/121d95d7-441b-4670-a5dc-794511746c30/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-12-19;13772",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-12-19%3B13772&tipo_documento=maior-detalhe",
+  "sha256_dados": "e7a030b84ec053f7fe3932de78084477b4338606d23554756e42f9e3bea9aa5b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:18.568Z",
+  "sha256_fonte": "7dccb4b6a2f231b563b05ea3ed9c376cd22253ae77d554f0d20adf668538c66d",
+  "sha256_markdown": "51f50001797757171a3c9780444dc41ea467fdc0fa7680f97ba7f8aafe6f0ac0"
+}

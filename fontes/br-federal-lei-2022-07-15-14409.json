@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-15-14409",
+  "titulo": "Lei nº 14.409 de 15/07/2022",
+  "data": "2022-07-15",
+  "fonte": "https://normas.leg.br/api/public/binario/97c5c67c-0743-4855-8473-61aecd984e53/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-15;14409",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-15%3B14409&tipo_documento=maior-detalhe",
+  "sha256_dados": "7505bbbdd65d1fc3364624ffb72d25e4b511e1f91332fe1ac954f719823c9390",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:35.618Z",
+  "sha256_fonte": "109315255b5abc4f8503cbbefc431d0d21b2ca9f42153f9100efabf5321255c6",
+  "sha256_markdown": "20ce48735c815924e088a07b96554103ab10bc180a01e7757063595c9ccc717e"
+}

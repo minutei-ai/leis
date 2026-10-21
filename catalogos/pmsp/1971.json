@@ -1,0 +1,674 @@
+{
+  "ano_publicacao": 1971,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1971",
+    "ano-final": "31/12/1971",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:38.888Z",
+  "total": 108,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "c5515a477c5294d45e712caf30e63fcbc17ac9aa260ea226a944246dfc25238b"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "c19085ec7fff97a599ee80633828ab595cbf06c2f58350459e4bf8561f2938a4"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7688-de-30-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.688 de 30 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-30-7688",
+      "data": "1971-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7686-de-29-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.686 de 29 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-29-7686",
+      "data": "1971-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7687-de-29-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.687 de 29 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-29-7687",
+      "data": "1971-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7684-de-28-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.684 de 28 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-28-7684",
+      "data": "1971-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7683-de-28-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.683 de 28 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-28-7683",
+      "data": "1971-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7685-de-28-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.685 de 28 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-28-7685",
+      "data": "1971-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7682-de-24-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.682 de 24 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-24-7682",
+      "data": "1971-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7681-de-22-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.681 de 22 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-22-7681",
+      "data": "1971-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7680-de-21-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.680 de 21 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-21-7680",
+      "data": "1971-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7679-de-21-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.679 de 21 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-21-7679",
+      "data": "1971-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7678-de-14-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.678 de 14 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-14-7678",
+      "data": "1971-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7677-de-8-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.677 de 8 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-08-7677",
+      "data": "1971-12-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7676-de-8-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.676 de 8 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-08-7676",
+      "data": "1971-12-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7675-de-7-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.675 de 7 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-07-7675",
+      "data": "1971-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7674-de-3-de-dezembro-de-1971",
+      "titulo": "LEI Nº 7.674 de 3 de Dezembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-12-03-7674",
+      "data": "1971-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7673-de-24-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.673 de 24 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-24-7673",
+      "data": "1971-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7672-de-24-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.672 de 24 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-24-7672",
+      "data": "1971-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7671-de-24-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.671 de 24 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-24-7671",
+      "data": "1971-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7670-de-24-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.670 de 24 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-24-7670",
+      "data": "1971-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7669-de-19-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.669 de 19 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-19-7669",
+      "data": "1971-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7668-de-19-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.668 de 19 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-19-7668",
+      "data": "1971-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7667-de-3-de-novembro-de-1971",
+      "titulo": "LEI Nº 7.667 de 3 de Novembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-11-03-7667",
+      "data": "1971-11-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7666-de-28-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.666 de 28 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-28-7666",
+      "data": "1971-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7665-de-28-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.665 de 28 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-28-7665",
+      "data": "1971-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7664-de-28-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.664 de 28 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-28-7664",
+      "data": "1971-10-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7663-de-18-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.663 de 18 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-18-7663",
+      "data": "1971-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7661-de-18-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.661 de 18 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-18-7661",
+      "data": "1971-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7660-de-18-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.660 de 18 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-18-7660",
+      "data": "1971-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7662-de-18-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.662 de 18 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-18-7662",
+      "data": "1971-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7659-de-8-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.659 de 8 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-08-7659",
+      "data": "1971-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7658-de-8-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.658 de 8 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-08-7658",
+      "data": "1971-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7657-de-7-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.657 de 7 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-07-7657",
+      "data": "1971-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7655-de-7-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.655 de 7 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-07-7655",
+      "data": "1971-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7654-de-7-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.654 de 7 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-07-7654",
+      "data": "1971-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7656-de-7-de-outubro-de-1971",
+      "titulo": "LEI Nº 7.656 de 7 de Outubro de 1971",
+      "id": "br-municipal-3550308-lei-1971-10-07-7656",
+      "data": "1971-10-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7653-de-23-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.653 de 23 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-23-7653",
+      "data": "1971-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7652-de-22-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.652 de 22 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-22-7652",
+      "data": "1971-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7650-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.650 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7650",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7649-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.649 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7649",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7648-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.648 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7648",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7647-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.647 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7647",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7646-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.646 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7646",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7645-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.645 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7645",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7644-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.644 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7644",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7643-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.643 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7643",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7642-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.642 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7642",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7641-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.641 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7641",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7640-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.640 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7640",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7639-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.639 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7639",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7638-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.638 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7638",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7636-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.636 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7636",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7635-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.635 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7635",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7651-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.651 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7651",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7637-de-20-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.637 de 20 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-20-7637",
+      "data": "1971-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7634-de-10-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.634 de 10 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-10-7634",
+      "data": "1971-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7633-de-10-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.633 de 10 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-10-7633",
+      "data": "1971-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7632-de-10-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.632 de 10 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-10-7632",
+      "data": "1971-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7631-de-10-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.631 de 10 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-10-7631",
+      "data": "1971-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7630-de-10-de-setembro-de-1971",
+      "titulo": "LEI Nº 7.630 de 10 de Setembro de 1971",
+      "id": "br-municipal-3550308-lei-1971-09-10-7630",
+      "data": "1971-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7629-de-18-de-agosto-de-1971",
+      "titulo": "LEI Nº 7.629 de 18 de Agosto de 1971",
+      "id": "br-municipal-3550308-lei-1971-08-18-7629",
+      "data": "1971-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7628-de-18-de-agosto-de-1971",
+      "titulo": "LEI Nº 7.628 de 18 de Agosto de 1971",
+      "id": "br-municipal-3550308-lei-1971-08-18-7628",
+      "data": "1971-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7627-de-18-de-agosto-de-1971",
+      "titulo": "LEI Nº 7.627 de 18 de Agosto de 1971",
+      "id": "br-municipal-3550308-lei-1971-08-18-7627",
+      "data": "1971-08-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7626-de-2-de-julho-de-1971",
+      "titulo": "LEI Nº 7.626 de 2 de Julho de 1971",
+      "id": "br-municipal-3550308-lei-1971-07-02-7626",
+      "data": "1971-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7625-de-2-de-julho-de-1971",
+      "titulo": "LEI Nº 7.625 de 2 de Julho de 1971",
+      "id": "br-municipal-3550308-lei-1971-07-02-7625",
+      "data": "1971-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7624-de-2-de-julho-de-1971",
+      "titulo": "LEI Nº 7.624 de 2 de Julho de 1971",
+      "id": "br-municipal-3550308-lei-1971-07-02-7624",
+      "data": "1971-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7622-de-28-de-junho-de-1971",
+      "titulo": "LEI Nº 7.622 de 28 de Junho de 1971",
+      "id": "br-municipal-3550308-lei-1971-06-28-7622",
+      "data": "1971-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7621-de-28-de-junho-de-1971",
+      "titulo": "LEI Nº 7.621 de 28 de Junho de 1971",
+      "id": "br-municipal-3550308-lei-1971-06-28-7621",
+      "data": "1971-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7620-de-28-de-junho-de-1971",
+      "titulo": "LEI Nº 7.620 de 28 de Junho de 1971",
+      "id": "br-municipal-3550308-lei-1971-06-28-7620",
+      "data": "1971-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7623-de-28-de-junho-de-1971",
+      "titulo": "LEI Nº 7.623 de 28 de Junho de 1971",
+      "id": "br-municipal-3550308-lei-1971-06-28-7623",
+      "data": "1971-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7619-de-23-de-junho-de-1971",
+      "titulo": "LEI Nº 7.619 de 23 de Junho de 1971",
+      "id": "br-municipal-3550308-lei-1971-06-23-7619",
+      "data": "1971-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7618-de-8-de-junho-de-1971",
+      "titulo": "LEI Nº 7.618 de 8 de Junho de 1971",
+      "id": "br-municipal-3550308-lei-1971-06-08-7618",
+      "data": "1971-06-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7617-de-31-de-maio-de-1971",
+      "titulo": "LEI Nº 7.617 de 31 de Maio de 1971",
+      "id": "br-municipal-3550308-lei-1971-05-31-7617",
+      "data": "1971-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7616-de-31-de-maio-de-1971",
+      "titulo": "LEI Nº 7.616 de 31 de Maio de 1971",
+      "id": "br-municipal-3550308-lei-1971-05-31-7616",
+      "data": "1971-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7615-de-19-de-maio-de-1971",
+      "titulo": "LEI Nº 7.615 de 19 de Maio de 1971",
+      "id": "br-municipal-3550308-lei-1971-05-19-7615",
+      "data": "1971-05-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7614-de-23-de-abril-de-1971",
+      "titulo": "LEI Nº 7.614 de 23 de Abril de 1971",
+      "id": "br-municipal-3550308-lei-1971-04-23-7614",
+      "data": "1971-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7613-de-23-de-abril-de-1971",
+      "titulo": "LEI Nº 7.613 de 23 de Abril de 1971",
+      "id": "br-municipal-3550308-lei-1971-04-23-7613",
+      "data": "1971-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7612-de-6-de-abril-de-1971",
+      "titulo": "LEI Nº 7.612 de 6 de Abril de 1971",
+      "id": "br-municipal-3550308-lei-1971-04-06-7612",
+      "data": "1971-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7611-de-2-de-abril-de-1971",
+      "titulo": "LEI Nº 7.611 de 2 de Abril de 1971",
+      "id": "br-municipal-3550308-lei-1971-04-02-7611",
+      "data": "1971-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7610-de-2-de-abril-de-1971",
+      "titulo": "LEI Nº 7.610 de 2 de Abril de 1971",
+      "id": "br-municipal-3550308-lei-1971-04-02-7610",
+      "data": "1971-04-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7609-de-30-de-marco-de-1971",
+      "titulo": "LEI Nº 7.609 de 30 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-30-7609",
+      "data": "1971-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7608-de-30-de-marco-de-1971",
+      "titulo": "LEI Nº 7.608 de 30 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-30-7608",
+      "data": "1971-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7607-de-22-de-marco-de-1971",
+      "titulo": "LEI Nº 7.607 de 22 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-22-7607",
+      "data": "1971-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7606-de-22-de-marco-de-1971",
+      "titulo": "LEI Nº 7.606 de 22 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-22-7606",
+      "data": "1971-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7605-de-22-de-marco-de-1971",
+      "titulo": "LEI Nº 7.605 de 22 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-22-7605",
+      "data": "1971-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7604-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.604 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7604",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7603-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.603 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7603",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7602-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.602 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7602",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7598-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.598 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7598",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7597-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.597 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7597",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7596-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.596 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7596",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7595-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.595 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7595",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7601-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.601 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7601",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7600-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.600 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7600",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7599-de-16-de-marco-de-1971",
+      "titulo": "LEI Nº 7.599 de 16 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-16-7599",
+      "data": "1971-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7594-de-15-de-marco-de-1971",
+      "titulo": "LEI Nº 7.594 de 15 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-15-7594",
+      "data": "1971-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7593-de-12-de-marco-de-1971",
+      "titulo": "LEI Nº 7.593 de 12 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-12-7593",
+      "data": "1971-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7592-de-12-de-marco-de-1971",
+      "titulo": "LEI Nº 7.592 de 12 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-12-7592",
+      "data": "1971-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7591-de-4-de-marco-de-1971",
+      "titulo": "LEI Nº 7.591 de 4 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-04-7591",
+      "data": "1971-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7590-de-4-de-marco-de-1971",
+      "titulo": "LEI Nº 7.590 de 4 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-04-7590",
+      "data": "1971-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7589-de-4-de-marco-de-1971",
+      "titulo": "LEI Nº 7.589 de 4 de Março de 1971",
+      "id": "br-municipal-3550308-lei-1971-03-04-7589",
+      "data": "1971-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7588-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.588 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7588",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7587-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.587 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7587",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7586-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.586 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7586",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7585-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.585 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7585",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7584-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.584 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7584",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7583-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.583 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7583",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7582-de-4-de-janeiro-de-1971",
+      "titulo": "LEI Nº 7.582 de 4 de Janeiro de 1971",
+      "id": "br-municipal-3550308-lei-1971-01-04-7582",
+      "data": "1971-01-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7581-de-31-de-dezembro-de-1970",
+      "titulo": "LEI Nº 7.581 de 31 de Dezembro de 1970",
+      "id": "br-municipal-3550308-lei-1970-12-31-7581",
+      "data": "1970-12-31"
+    }
+  ],
+  "pendencias": []
+}

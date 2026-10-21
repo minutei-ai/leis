@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-11-05-25014",
+  "titulo": "LEI nº 25014, de 05/11/2024",
+  "data": "2024-11-05",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25014/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25014/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "980e74400b90825c740aa8b3a9201b0261cd8572c2a6349324145c143849b31c",
+  "coletado_em": "2026-10-21T08:42:28.780Z",
+  "sha256_fonte": "07a9ccc1632812fe613a6b1f08f7251520e3835cb608fd034d370249c565a0ab",
+  "sha256_markdown": "e31f6de20534c1b86cf7d2a6d3eb0bd52592cf8938b53c80112ef3f2f6ae0924"
+}

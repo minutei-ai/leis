@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-08-01-14641",
+  "titulo": "Lei nº 14.641 de 01/08/2023",
+  "data": "2023-08-01",
+  "fonte": "https://normas.leg.br/api/public/binario/4b293839-2cfe-452b-b989-2f1b11495aab/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-08-01;14641",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-08-01%3B14641&tipo_documento=maior-detalhe",
+  "sha256_dados": "42307986e0545771836827a835892b372c5ee12d6e3d92aa459221977456a4e5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:29:33.643Z",
+  "sha256_fonte": "00b1facc3372fb71f26d56f959aaf82a191cf3a74dc3d911fe9e1ef4645ebf28",
+  "sha256_markdown": "3aa3a3cc4e423617161c910432abb4c53a497ec7ba736a4d02ced4e747a8e7f8"
+}

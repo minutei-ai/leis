@@ -3,12 +3,14 @@ import { mkdir, rename } from "node:fs/promises";
 import { gzipSync } from "node:zlib";
 import { Clock, Effect, Schedule, Schema } from "effect";
 
-const Families = Schema.Struct({
+export const Families = Schema.Struct({
   LEI: Schema.Literal("lei"),
   LCP: Schema.Literal("lei.complementar"),
   LDL: Schema.Literal("lei.delegada"),
   DEL: Schema.Literal("decreto.lei"),
   EMC: Schema.Literal("emenda.constitucional"),
+  DEC: Schema.Literal("decreto"),
+  MPV: Schema.Literal("medida.provisoria"),
 });
 
 export const Family = Schema.keyof(Families);

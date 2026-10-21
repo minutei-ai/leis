@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-05-22-14001",
+  "titulo": "Lei nº 14.001 de 22/05/2020",
+  "data": "2020-05-22",
+  "fonte": "https://normas.leg.br/api/public/binario/f5849942-2695-4fa7-8502-c115d16d71d5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-05-22;14001",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-05-22%3B14001&tipo_documento=maior-detalhe",
+  "sha256_dados": "bc68db96e7b5cb02adc5c5b9bebd21e923f931d4ca4c71eaad37d2064135d957",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:20.447Z",
+  "sha256_fonte": "53c3bfe902df2a9cccaf94d3970bb854a77a0f4656bca9caf7f875a8c57a28bf",
+  "sha256_markdown": "706f580171c71d10ec2817076a212e8d810f840316ad8d3b7b6effafa3608983"
+}

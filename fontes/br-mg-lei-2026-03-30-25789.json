@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-30-25789",
+  "titulo": "LEI nº 25789, de 30/03/2026",
+  "data": "2026-03-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25789/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25789/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ab5ec6bbca22709bd5c2c2b24dcf4fdc0db19f771d01e5d36331a69970d9739f",
+  "coletado_em": "2026-10-21T08:26:08.865Z",
+  "sha256_fonte": "58054dcf75d7c70324cf1d09ef9b282e56bec2cb120fcbbd2c0cd147e4d63f95",
+  "sha256_markdown": "46f5a5f34a06168359cbfd5588e1f84561a2617c3d26c63602039ee183f7c66d"
+}

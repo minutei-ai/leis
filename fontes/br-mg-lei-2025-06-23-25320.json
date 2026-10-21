@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-06-23-25320",
+  "titulo": "LEI nº 25320, de 23/06/2025",
+  "data": "2025-06-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25320/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25320/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "0800f5797465f0290012b5c796bcdc4cb6d47b1ed34274eb8b7a2808817ca2c1",
+  "coletado_em": "2026-10-21T08:32:17.326Z",
+  "sha256_fonte": "05090e381300510bdbf380264e22244c2eafd4a8aafe6b6770dc20d2d9a013c2",
+  "sha256_markdown": "659fead0dd635b222213f349e12806f80fb2abc605f7ad4ad644dca558fa0dec"
+}

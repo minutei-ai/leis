@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-10-13-25527",
+  "titulo": "LEI nº 25527, de 13/10/2025",
+  "data": "2025-10-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25527/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25527/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "bfab6e9816395613574a87344076a216e752259719b9c0ccf77d51a7e996773a",
+  "coletado_em": "2026-10-21T08:34:44.768Z",
+  "sha256_fonte": "c41dac2fdf980911b768a8bb82e777bc979672372e7e3f53e71d4f980728089b",
+  "sha256_markdown": "a5aed1e98bbd2d94fee8b66be1a2fcffd97946a080c5dd247f34b614d2792152"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "br-sp-norma-212784",
+  "fonte": "https://baleg-api-prd.al.sp.gov.br/norma/212784",
+  "coletado_em": "2026-10-21T08:40:23.622Z",
+  "erro": "InvalidDocument: { \"fonte\": \"https://www.al.sp.gov.br/repositorio/legislacao/ato.do.presidente/2026/ato.do.presidente-121-23.06.2026.html\", \"motivo\": \"Artigo inicial ausente\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/convert.ts:47:11)\n    at leis.convert (/home/yorizel/repos/leis/scripts/convert.ts:21:31)\n    at leis.convert (/home/yorizel/repos/leis/scripts/collect-alesp.ts:47:33)"
+}

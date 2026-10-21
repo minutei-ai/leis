@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-09-04-49091",
+  "titulo": "DEC nº 49091, de 04/09/2025",
+  "data": "2025-09-04",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49091/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49091/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "df0ef4aae5a2b483c74b3240045d738089f4f8bf8ee0a49fbf2746bedcb1ada6",
+  "coletado_em": "2026-10-21T08:33:51.109Z",
+  "sha256_fonte": "58c39bedb25f45c5673a4a11991f431962047a85acc7d255ab44e40663742481",
+  "sha256_markdown": "9531b052430f34b792d26e2394d06fd371307e045b7d166b0c7266325be42da2"
+}

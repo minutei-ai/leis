@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2024",
+  "tipo": "EMC",
+  "ano": 2024,
+  "coletado_em": "2026-10-21T08:39:27.169Z",
+  "normas": [
+    {
+      "senadoId": "39986569",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2024-12-20-135",
+      "titulo": "Emenda Constitucional nº 135 de 20/12/2024",
+      "data": "2024-12-20",
+      "numero": "135",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2024-12-20;135",
+      "ementa": "Altera os arts. 37, 163, 165, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADC T)."
+    },
+    {
+      "senadoId": "39704393",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2024-09-24-134",
+      "titulo": "Emenda Constitucional nº 134 de 24/09/2024",
+      "data": "2024-09-24",
+      "numero": "134",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2024-09-24;134",
+      "ementa": "Altera o art. 96 da Constituição Federal, para dispor sobre a eleição dos órgãos diretivos de Tribunais de Justiça."
+    },
+    {
+      "senadoId": "39486445",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2024-08-22-133",
+      "titulo": "Emenda Constitucional nº 133 de 22/08/2024",
+      "data": "2024-08-22",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2024-08-22;133",
+      "ementa": "Impõe aos partidos políticos a obrigatoriedade da aplicação de recursos financeiros para candidaturas de pessoas pretas e pardas; estabelece parâmetros e condições para regularização e refinanciamento de débitos de partidos políticos; e reforça a imunidade tributária dos partidos políticos conforme prevista na Constituição Federal."
+    }
+  ],
+  "pendencias": []
+}

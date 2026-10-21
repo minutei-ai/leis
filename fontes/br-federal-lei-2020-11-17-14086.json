@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-11-17-14086",
+  "titulo": "Lei nº 14.086 de 17/11/2020",
+  "data": "2020-11-17",
+  "fonte": "https://normas.leg.br/api/public/binario/2d6231ef-6d96-4c60-bd4d-71f988f24a46/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-11-17;14086",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-11-17%3B14086&tipo_documento=maior-detalhe",
+  "sha256_dados": "3785687e1abada953b62816fa57271514e452a8c0182042dc6a90aa9214a28eb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:17.765Z",
+  "sha256_fonte": "2728aef05f7164330e2900927ca2ad8622466dd8700f028c2b59f439b71a850a",
+  "sha256_markdown": "f780c9d2fb5ef45feadce186f163d682485360dd1de55470f6ae40715f4a337b"
+}

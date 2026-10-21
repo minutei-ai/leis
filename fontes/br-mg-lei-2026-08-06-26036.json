@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-06-26036",
+  "titulo": "LEI nº 26036, de 06/08/2026",
+  "data": "2026-08-06",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26036/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26036/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cd02a0256d45b9b6cbbff03e29994545dbeeebb935f2239b24b9821500c95e0c",
+  "coletado_em": "2026-10-21T08:29:12.130Z",
+  "sha256_fonte": "4e9054d23114349b650a292dd128040d7b63f3e332cdf86353d3560fe491fe7e",
+  "sha256_markdown": "a9cc1c6d58efde81dbe6e845d297a738e81ba72a136c4104757634782454dead"
+}

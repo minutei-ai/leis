@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-02-06-48991",
+  "titulo": "DEC nº 48991, de 06/02/2025",
+  "data": "2025-02-06",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48991/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48991/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "94b68ff2d783d29d1108b07b21501df3e9f77686c46c3bf3764193846cc266c5",
+  "coletado_em": "2026-10-21T08:30:09.676Z",
+  "sha256_fonte": "87fa39dd2102c8740b57f6ff98be5c9a54598468d5340e9a529da732471f5f6f",
+  "sha256_markdown": "922ad0271b760d887271ccce1e7ccbcd2616f4c7c9f514719df84f1a0021f449"
+}

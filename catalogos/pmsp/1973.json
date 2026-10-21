@@ -1,0 +1,1016 @@
+{
+  "ano_publicacao": 1973,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1973",
+    "ano-final": "31/12/1973",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:35.729Z",
+  "total": 165,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "1d716d0681c4ecd30d42b06228a4a744392d2133b2f5ec86949cee3d012b83b0"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "177bd56d7201b96ec7ef02ea39a311308648780ea0ec62574c40c16eca75ffb9"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8002-de-27-de-dezembro-de-1973",
+      "titulo": "LEI Nº 8.002 de 27 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-27-8002",
+      "data": "1973-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8003-de-27-de-dezembro-de-1973",
+      "titulo": "LEI Nº 8.003 de 27 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-27-8003",
+      "data": "1973-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8001-de-24-de-dezembro-de-1973",
+      "titulo": "LEI Nº 8.001 de 24 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-24-8001",
+      "data": "1973-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8000-de-21-de-dezembro-de-1973",
+      "titulo": "LEI Nº 8.000 de 21 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-21-8000",
+      "data": "1973-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7999-de-21-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.999 de 21 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-21-7999",
+      "data": "1973-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7998-de-21-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.998 de 21 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-21-7998",
+      "data": "1973-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7997-de-21-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.997 de 21 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-21-7997",
+      "data": "1973-12-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7996-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.996 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7996",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7995-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.995 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7995",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7994-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.994 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7994",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7993-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.993 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7993",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7991-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.991 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7991",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7990-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.990 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7990",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7989-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.989 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7989",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7992-de-20-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.992 de 20 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-20-7992",
+      "data": "1973-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7988-de-19-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.988 de 19 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-19-7988",
+      "data": "1973-12-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7986-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.986 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7986",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7985-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.985 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7985",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7984-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.984 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7984",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7983-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.983 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7983",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7982-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.982 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7982",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7981-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.981 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7981",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7987-de-18-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.987 de 18 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-18-7987",
+      "data": "1973-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7979-de-14-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.979 de 14 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-14-7979",
+      "data": "1973-12-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7978-de-12-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.978 de 12 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-12-7978",
+      "data": "1973-12-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7980-de-11-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.980 de 11 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-11-7980",
+      "data": "1973-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7977-de-11-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.977 de 11 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-11-7977",
+      "data": "1973-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7976-de-11-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.976 de 11 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-11-7976",
+      "data": "1973-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7975-de-10-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.975 de 10 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-10-7975",
+      "data": "1973-12-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7974-de-7-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.974 de 7 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-07-7974",
+      "data": "1973-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7972-de-7-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.972 de 7 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-07-7972",
+      "data": "1973-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7971-de-7-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.971 de 7 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-07-7971",
+      "data": "1973-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7973-de-7-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.973 de 7 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-07-7973",
+      "data": "1973-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7970-de-4-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.970 de 4 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-04-7970",
+      "data": "1973-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7969-de-4-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.969 de 4 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-04-7969",
+      "data": "1973-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7968-de-4-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.968 de 4 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-04-7968",
+      "data": "1973-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7967-de-4-de-dezembro-de-1973",
+      "titulo": "LEI Nº 7.967 de 4 de Dezembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-12-04-7967",
+      "data": "1973-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7966-de-29-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.966 de 29 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-29-7966",
+      "data": "1973-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7965-de-29-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.965 de 29 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-29-7965",
+      "data": "1973-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7963-de-22-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.963 de 22 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-22-7963",
+      "data": "1973-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7962-de-22-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.962 de 22 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-22-7962",
+      "data": "1973-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7961-de-22-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.961 de 22 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-22-7961",
+      "data": "1973-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7964-de-22-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.964 de 22 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-22-7964",
+      "data": "1973-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7960-de-22-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.960 de 22 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-22-7960",
+      "data": "1973-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7959-de-20-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.959 de 20 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-20-7959",
+      "data": "1973-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7958-de-20-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.958 de 20 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-20-7958",
+      "data": "1973-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7955-de-20-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.955 de 20 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-20-7955",
+      "data": "1973-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7957-de-20-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.957 de 20 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-20-7957",
+      "data": "1973-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7956-de-20-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.956 de 20 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-20-7956",
+      "data": "1973-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7954-de-20-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.954 de 20 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-20-7954",
+      "data": "1973-11-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7953-de-16-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.953 de 16 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-16-7953",
+      "data": "1973-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7952-de-12-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.952 de 12 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-12-7952",
+      "data": "1973-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7951-de-9-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.951 de 9 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-09-7951",
+      "data": "1973-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7950-de-9-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.950 de 9 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-09-7950",
+      "data": "1973-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7949-de-8-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.949 de 8 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-08-7949",
+      "data": "1973-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7948-de-1-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.948 de 1 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-01-7948",
+      "data": "1973-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7947-de-1-de-novembro-de-1973",
+      "titulo": "LEI Nº 7.947 de 1 de Novembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-11-01-7947",
+      "data": "1973-11-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7946-de-30-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.946 de 30 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-30-7946",
+      "data": "1973-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7945-de-29-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.945 de 29 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-29-7945",
+      "data": "1973-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7944-de-18-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.944 de 18 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-18-7944",
+      "data": "1973-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7943-de-15-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.943 de 15 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-15-7943",
+      "data": "1973-10-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7942-de-11-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.942 de 11 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-11-7942",
+      "data": "1973-10-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7941-de-9-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.941 de 9 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-09-7941",
+      "data": "1973-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7940-de-8-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.940 de 8 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-08-7940",
+      "data": "1973-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7939-de-2-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.939 de 2 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-02-7939",
+      "data": "1973-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7938-de-2-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.938 de 2 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-02-7938",
+      "data": "1973-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7937-de-2-de-outubro-de-1973",
+      "titulo": "LEI Nº 7.937 de 2 de Outubro de 1973",
+      "id": "br-municipal-3550308-lei-1973-10-02-7937",
+      "data": "1973-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7936-de-6-de-setembro-de-1973",
+      "titulo": "LEI Nº 7.936 de 6 de Setembro de 1973",
+      "id": "br-municipal-3550308-lei-1973-09-06-7936",
+      "data": "1973-09-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7935-de-27-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.935 de 27 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-27-7935",
+      "data": "1973-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7934-de-27-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.934 de 27 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-27-7934",
+      "data": "1973-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7933-de-27-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.933 de 27 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-27-7933",
+      "data": "1973-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7932-de-22-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.932 de 22 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-22-7932",
+      "data": "1973-08-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7931-de-21-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.931 de 21 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-21-7931",
+      "data": "1973-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7930-de-21-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.930 de 21 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-21-7930",
+      "data": "1973-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7929-de-21-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.929 de 21 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-21-7929",
+      "data": "1973-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7928-de-21-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.928 de 21 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-21-7928",
+      "data": "1973-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7927-de-21-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.927 de 21 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-21-7927",
+      "data": "1973-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7926-de-21-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.926 de 21 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-21-7926",
+      "data": "1973-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7925-de-10-de-agosto-de-1973",
+      "titulo": "LEI Nº 7.925 de 10 de Agosto de 1973",
+      "id": "br-municipal-3550308-lei-1973-08-10-7925",
+      "data": "1973-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7923-de-6-de-julho-de-1973",
+      "titulo": "LEI Nº 7.923 de 6 de Julho de 1973",
+      "id": "br-municipal-3550308-lei-1973-07-06-7923",
+      "data": "1973-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7924-de-6-de-julho-de-1973",
+      "titulo": "LEI Nº 7.924 de 6 de Julho de 1973",
+      "id": "br-municipal-3550308-lei-1973-07-06-7924",
+      "data": "1973-07-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7922-de-4-de-julho-de-1973",
+      "titulo": "LEI Nº 7.922 de 4 de Julho de 1973",
+      "id": "br-municipal-3550308-lei-1973-07-04-7922",
+      "data": "1973-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7921-de-4-de-julho-de-1973",
+      "titulo": "LEI Nº 7.921 de 4 de Julho de 1973",
+      "id": "br-municipal-3550308-lei-1973-07-04-7921",
+      "data": "1973-07-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7920-de-28-de-junho-de-1973",
+      "titulo": "LEI Nº 7.920 de 28 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-28-7920",
+      "data": "1973-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7919-de-28-de-junho-de-1973",
+      "titulo": "LEI Nº 7.919 de 28 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-28-7919",
+      "data": "1973-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7918-de-26-de-junho-de-1973",
+      "titulo": "LEI Nº 7.918 de 26 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-26-7918",
+      "data": "1973-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7917-de-26-de-junho-de-1973",
+      "titulo": "LEI Nº 7.917 de 26 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-26-7917",
+      "data": "1973-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7916-de-20-de-junho-de-1973",
+      "titulo": "LEI Nº 7.916 de 20 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-20-7916",
+      "data": "1973-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7915-de-20-de-junho-de-1973",
+      "titulo": "LEI Nº 7.915 de 20 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-20-7915",
+      "data": "1973-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7914-de-20-de-junho-de-1973",
+      "titulo": "LEI Nº 7.914 de 20 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-20-7914",
+      "data": "1973-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7913-de-20-de-junho-de-1973",
+      "titulo": "LEI Nº 7.913 de 20 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-20-7913",
+      "data": "1973-06-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7912-de-16-de-junho-de-1973",
+      "titulo": "LEI Nº 7.912 de 16 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-16-7912",
+      "data": "1973-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7911-de-12-de-junho-de-1973",
+      "titulo": "LEI Nº 7.911 de 12 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-12-7911",
+      "data": "1973-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7910-de-5-de-junho-de-1973",
+      "titulo": "LEI Nº 7.910 de 5 de Junho de 1973",
+      "id": "br-municipal-3550308-lei-1973-06-05-7910",
+      "data": "1973-06-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7909-de-31-de-maio-de-1973",
+      "titulo": "LEI Nº 7.909 de 31 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-31-7909",
+      "data": "1973-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7908-de-31-de-maio-de-1973",
+      "titulo": "LEI Nº 7.908 de 31 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-31-7908",
+      "data": "1973-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7907-de-23-de-maio-de-1973",
+      "titulo": "LEI Nº 7.907 de 23 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-23-7907",
+      "data": "1973-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7906-de-23-de-maio-de-1973",
+      "titulo": "LEI Nº 7.906 de 23 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-23-7906",
+      "data": "1973-05-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7905-de-18-de-maio-de-1973",
+      "titulo": "LEI Nº 7.905 de 18 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-18-7905",
+      "data": "1973-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7904-de-18-de-maio-de-1973",
+      "titulo": "LEI Nº 7.904 de 18 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-18-7904",
+      "data": "1973-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7903-de-18-de-maio-de-1973",
+      "titulo": "LEI Nº 7.903 de 18 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-18-7903",
+      "data": "1973-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7902-de-18-de-maio-de-1973",
+      "titulo": "LEI Nº 7.902 de 18 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-18-7902",
+      "data": "1973-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7901-de-14-de-maio-de-1973",
+      "titulo": "LEI Nº 7.901 de 14 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-14-7901",
+      "data": "1973-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7900-de-11-de-maio-de-1973",
+      "titulo": "LEI Nº 7.900 de 11 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-11-7900",
+      "data": "1973-05-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7899-de-8-de-maio-de-1973",
+      "titulo": "LEI Nº 7.899 de 8 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-08-7899",
+      "data": "1973-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7898-de-8-de-maio-de-1973",
+      "titulo": "LEI Nº 7.898 de 8 de Maio de 1973",
+      "id": "br-municipal-3550308-lei-1973-05-08-7898",
+      "data": "1973-05-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7897-de-25-de-abril-de-1973",
+      "titulo": "LEI Nº 7.897 de 25 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-25-7897",
+      "data": "1973-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7896-de-25-de-abril-de-1973",
+      "titulo": "LEI Nº 7.896 de 25 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-25-7896",
+      "data": "1973-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7895-de-25-de-abril-de-1973",
+      "titulo": "LEI Nº 7.895 de 25 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-25-7895",
+      "data": "1973-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7894-de-24-de-abril-de-1973",
+      "titulo": "LEI Nº 7.894 de 24 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-24-7894",
+      "data": "1973-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7893-de-24-de-abril-de-1973",
+      "titulo": "LEI Nº 7.893 de 24 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-24-7893",
+      "data": "1973-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7892-de-17-de-abril-de-1973",
+      "titulo": "LEI Nº 7.892 de 17 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-17-7892",
+      "data": "1973-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7891-de-10-de-abril-de-1973",
+      "titulo": "LEI Nº 7.891 de 10 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-10-7891",
+      "data": "1973-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7890-de-10-de-abril-de-1973",
+      "titulo": "LEI Nº 7.890 de 10 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-10-7890",
+      "data": "1973-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7889-de-10-de-abril-de-1973",
+      "titulo": "LEI Nº 7.889 de 10 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-10-7889",
+      "data": "1973-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7888-de-10-de-abril-de-1973",
+      "titulo": "LEI Nº 7.888 de 10 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-10-7888",
+      "data": "1973-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7887-de-6-de-abril-de-1973",
+      "titulo": "LEI Nº 7.887 de 6 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-06-7887",
+      "data": "1973-04-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7886-de-3-de-abril-de-1973",
+      "titulo": "LEI Nº 7.886 de 3 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-03-7886",
+      "data": "1973-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7884-de-3-de-abril-de-1973",
+      "titulo": "LEI Nº 7.884 de 3 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-03-7884",
+      "data": "1973-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7883-de-3-de-abril-de-1973",
+      "titulo": "LEI Nº 7.883 de 3 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-03-7883",
+      "data": "1973-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7885-de-3-de-abril-de-1973",
+      "titulo": "LEI Nº 7.885 de 3 de Abril de 1973",
+      "id": "br-municipal-3550308-lei-1973-04-03-7885",
+      "data": "1973-04-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7882-de-30-de-marco-de-1973",
+      "titulo": "LEI Nº 7.882 de 30 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-30-7882",
+      "data": "1973-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7881-de-30-de-marco-de-1973",
+      "titulo": "LEI Nº 7.881 de 30 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-30-7881",
+      "data": "1973-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7880-de-30-de-marco-de-1973",
+      "titulo": "LEI Nº 7.880 de 30 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-30-7880",
+      "data": "1973-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7879-de-30-de-marco-de-1973",
+      "titulo": "LEI Nº 7.879 de 30 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-30-7879",
+      "data": "1973-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7878-de-30-de-marco-de-1973",
+      "titulo": "LEI Nº 7.878 de 30 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-30-7878",
+      "data": "1973-03-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7877-de-26-de-marco-de-1973",
+      "titulo": "LEI Nº 7.877 de 26 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-26-7877",
+      "data": "1973-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7876-de-26-de-marco-de-1973",
+      "titulo": "LEI Nº 7.876 de 26 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-26-7876",
+      "data": "1973-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7875-de-26-de-marco-de-1973",
+      "titulo": "LEI Nº 7.875 de 26 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-26-7875",
+      "data": "1973-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7874-de-26-de-marco-de-1973",
+      "titulo": "LEI Nº 7.874 de 26 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-26-7874",
+      "data": "1973-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7873-de-22-de-marco-de-1973",
+      "titulo": "LEI Nº 7.873 de 22 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-22-7873",
+      "data": "1973-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7872-de-22-de-marco-de-1973",
+      "titulo": "LEI Nº 7.872 de 22 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-22-7872",
+      "data": "1973-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7871-de-22-de-marco-de-1973",
+      "titulo": "LEI Nº 7.871 de 22 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-22-7871",
+      "data": "1973-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7870-de-22-de-marco-de-1973",
+      "titulo": "LEI Nº 7.870 de 22 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-22-7870",
+      "data": "1973-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7869-de-22-de-marco-de-1973",
+      "titulo": "LEI Nº 7.869 de 22 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-22-7869",
+      "data": "1973-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7868-de-22-de-marco-de-1973",
+      "titulo": "LEI Nº 7.868 de 22 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-22-7868",
+      "data": "1973-03-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7867-de-19-de-marco-de-1973",
+      "titulo": "LEI Nº 7.867 de 19 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-19-7867",
+      "data": "1973-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7866-de-15-de-marco-de-1973",
+      "titulo": "LEI Nº 7.866 de 15 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-15-7866",
+      "data": "1973-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7865-de-15-de-marco-de-1973",
+      "titulo": "LEI Nº 7.865 de 15 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-15-7865",
+      "data": "1973-03-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7864-de-13-de-marco-de-1973",
+      "titulo": "LEI Nº 7.864 de 13 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-13-7864",
+      "data": "1973-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7863-de-13-de-marco-de-1973",
+      "titulo": "LEI Nº 7.863 de 13 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-13-7863",
+      "data": "1973-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7862-de-13-de-marco-de-1973",
+      "titulo": "LEI Nº 7.862 de 13 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-13-7862",
+      "data": "1973-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7861-de-13-de-marco-de-1973",
+      "titulo": "LEI Nº 7.861 de 13 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-13-7861",
+      "data": "1973-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7860-de-9-de-marco-de-1973",
+      "titulo": "LEI Nº 7.860 de 9 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-09-7860",
+      "data": "1973-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7859-de-8-de-marco-de-1973",
+      "titulo": "LEI Nº 7.859 de 8 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-08-7859",
+      "data": "1973-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7858-de-1-de-marco-de-1973",
+      "titulo": "LEI Nº 7.858 de 1 de Março de 1973",
+      "id": "br-municipal-3550308-lei-1973-03-01-7858",
+      "data": "1973-03-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7857-de-27-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.857 de 27 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-27-7857",
+      "data": "1973-02-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7856-de-27-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.856 de 27 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-27-7856",
+      "data": "1973-02-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7855-de-27-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.855 de 27 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-27-7855",
+      "data": "1973-02-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7854-de-23-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.854 de 23 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-23-7854",
+      "data": "1973-02-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7853-de-23-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.853 de 23 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-23-7853",
+      "data": "1973-02-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7852-de-15-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.852 de 15 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-15-7852",
+      "data": "1973-02-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7851-de-14-de-fevereiro-de-1973",
+      "titulo": "LEI Nº 7.851 de 14 de Fevereiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-02-14-7851",
+      "data": "1973-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7849-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.849 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7849",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7848-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.848 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7848",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7847-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.847 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7847",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7846-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.846 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7846",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7845-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.845 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7845",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7843-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.843 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7843",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7842-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.842 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7842",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7850-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.850 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7850",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7844-de-12-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.844 de 12 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-12-7844",
+      "data": "1973-01-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7841-de-8-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.841 de 8 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-08-7841",
+      "data": "1973-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7840-de-8-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.840 de 8 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-08-7840",
+      "data": "1973-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7839-de-8-de-janeiro-de-1973",
+      "titulo": "LEI Nº 7.839 de 8 de Janeiro de 1973",
+      "id": "br-municipal-3550308-lei-1973-01-08-7839",
+      "data": "1973-01-08"
+    }
+  ],
+  "pendencias": []
+}

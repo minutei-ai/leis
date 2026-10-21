@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-06-12-25300",
+  "titulo": "LEI nº 25300, de 12/06/2025",
+  "data": "2025-06-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25300/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25300/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "4411056c2ca49a14b391b6bb5ce2953ef8246c9a3ecad505aa08af784d350cd9",
+  "coletado_em": "2026-10-21T08:32:02.159Z",
+  "sha256_fonte": "e514ab26d7a8e06af08f88f93f291f0b38b7d0ff46a783faad2655fa1dbeb080",
+  "sha256_markdown": "e367a55766fd30364fef793991156b9cf7bd89781c606426bdbdaf9d8a5131ef"
+}

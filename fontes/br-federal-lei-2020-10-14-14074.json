@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-10-14-14074",
+  "titulo": "Lei nº 14.074 de 14/10/2020",
+  "data": "2020-10-14",
+  "fonte": "https://normas.leg.br/api/public/binario/47157436-1c0c-4150-ad69-4a2efefd9c4d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-10-14;14074",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-10-14%3B14074&tipo_documento=maior-detalhe",
+  "sha256_dados": "157404ca14be507053ed3282951ee9f9d753f725c9ad9dfc8d19ed31c85d70cf",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:46.583Z",
+  "sha256_fonte": "ced5451cbde29af5f45a17aae85872846b1cd87a06aa59831b7a3952a41afcd1",
+  "sha256_markdown": "a12170988721580368f2afe6aa13a458b90c2b88cd4d1654ba35349e31e38fad"
+}

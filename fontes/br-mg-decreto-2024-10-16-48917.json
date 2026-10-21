@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-10-16-48917",
+  "titulo": "DEC nº 48917, de 16/10/2024",
+  "data": "2024-10-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48917/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48917/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d2f731998d317c7888a93b3a6edf965ec38ea8677a81d572f645209c05ea9e1a",
+  "coletado_em": "2026-10-21T08:42:07.856Z",
+  "sha256_fonte": "596e9690239833f5af648d519afc5d673337814834f6f679c80de6864e90d1b0",
+  "sha256_markdown": "22be7263eadff7f2b67ccf32818d95f82d17bd9306e48475626443cc2f374d07"
+}

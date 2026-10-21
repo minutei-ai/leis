@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-07-25840",
+  "titulo": "LEI nº 25840, de 07/05/2026",
+  "data": "2026-05-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25840/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25840/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "580f2e26470baefc7492cc7d051922eec293124c1059973b5bac7a9798e690ef",
+  "coletado_em": "2026-10-21T08:26:52.453Z",
+  "sha256_fonte": "144a16d95bf20847e397e172a87c319ce49c50841f0ead23aa8730e90fbe694e",
+  "sha256_markdown": "1bc9de3cd3a3a3872c7c77282d8314ac015459e49c673e72ed0394f51d96166c"
+}

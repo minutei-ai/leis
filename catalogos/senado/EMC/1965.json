@@ -1,0 +1,99 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1965",
+  "tipo": "EMC",
+  "ano": 1965,
+  "coletado_em": "2026-10-21T08:40:24.116Z",
+  "normas": [
+    {
+      "senadoId": "540610",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-12-07-19",
+      "titulo": "Emenda Constitucional nº 19 de 07/12/1965",
+      "data": "1965-12-07",
+      "numero": "19",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-12-07;19",
+      "ementa": "Altera dispositivos constitucionais referentes ao afastamento de funcionários públicos que exerça cargo eletivo e a agregação de militar em atividade ao cargo público civil temporário não eletivo que aceitar."
+    },
+    {
+      "senadoId": "540607",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-12-01-18",
+      "titulo": "Emenda Constitucional nº 18 de 01/12/1965",
+      "data": "1965-12-01",
+      "numero": "18",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-12-01;18",
+      "ementa": "Dispõe sobre o sistema tributário nacional e dá outras providências."
+    },
+    {
+      "senadoId": "540604",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-11-26-17",
+      "titulo": "Emenda Constitucional nº 17 de 26/11/1965",
+      "data": "1965-11-26",
+      "numero": "17",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-11-26;17",
+      "ementa": "Altera dispositivos constitucionais referentes ao Poder Legislativo."
+    },
+    {
+      "senadoId": "540601",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-11-26-16",
+      "titulo": "Emenda Constitucional nº 16 de 26/11/1965",
+      "data": "1965-11-26",
+      "numero": "16",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-11-26;16",
+      "ementa": "Altera dispositivos constitucionais referentes ao Poder Judiciário."
+    },
+    {
+      "senadoId": "593618",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-07-05-15",
+      "titulo": "Emenda Constitucional nº 15 de 05/07/1965",
+      "data": "1965-07-05",
+      "numero": "15",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-07-05;15",
+      "ementa": "Torna obrigatória a declaração de bens de candidatos e cargos eletivos, proíbe e considera nulos atos de nomeação ou admissão de pessoal, contratos de obras, aquisição de equipamentos e máquinas, distribuição de fundos ou verbas globais e autorização de empréstimos a Estado ou Municípoi, praticados nos noventa dias anteriores à data das eleições federais, estaduais e municipais a até o término dos mandatos de Presidente da República, Governadores e Prefeitos."
+    },
+    {
+      "senadoId": "593615",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-06-03-14",
+      "titulo": "Emenda Constitucional nº 14 de 03/06/1965",
+      "data": "1965-06-03",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-06-03;14",
+      "ementa": "Altera o inciso IX do art. 124 e o art. 139 da Constituição Federal."
+    },
+    {
+      "senadoId": "593609",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-04-08-12",
+      "titulo": "Emenda Constitucional nº 12 de 08/04/1965",
+      "data": "1965-04-08",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-04-08;12",
+      "ementa": "Altera o parágrafo 1º do artigo n. 28 da Constituição Federal."
+    },
+    {
+      "senadoId": "593612",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-04-08-13",
+      "titulo": "Emenda Constitucional nº 13 de 08/04/1965",
+      "data": "1965-04-08",
+      "numero": "13",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-04-08;13",
+      "ementa": "Dispõe sobre a coincidência das eleições federais e estaduais, duração de mandatos estaduais e municipais, aplicação do princípio da maioria absoluta nas eleições para governador e vice-governador, época das eleições municipais, e dá outras providências."
+    },
+    {
+      "senadoId": "593606",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1965-03-31-11",
+      "titulo": "Emenda Constitucional nº 11 de 31/03/1965",
+      "data": "1965-03-31",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1965-03-31;11",
+      "ementa": "Acrescenta parágrafo ao art. 157 da Constituição."
+    }
+  ],
+  "pendencias": []
+}

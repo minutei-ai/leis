@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-10-04-13724",
+  "titulo": "Lei nº 13.724 de 04/10/2018",
+  "data": "2018-10-04",
+  "fonte": "https://normas.leg.br/api/public/binario/a8eff517-a470-45b0-a370-872508f56cde/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-10-04;13724",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-10-04%3B13724&tipo_documento=maior-detalhe",
+  "sha256_dados": "ef831083f983badd299bb7037d6163f68771bab638d48e3cd94847f3e603f931",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:21.748Z",
+  "sha256_fonte": "979e12d56384af8e74388003d277d262aff072323577c42afb1b2d7dea74dd86",
+  "sha256_markdown": "73d46d20e1406162186ccd6af1a8b02de1aa85cf4dfa5ddd4755bb7ad655789d"
+}

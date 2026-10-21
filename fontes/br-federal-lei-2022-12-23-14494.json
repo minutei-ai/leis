@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-23-14494",
+  "titulo": "Lei nº 14.494 de 23/12/2022",
+  "data": "2022-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/f4d8fb6c-3ffb-499d-b6a0-def1fe233b66/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-23;14494",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-23%3B14494&tipo_documento=maior-detalhe",
+  "sha256_dados": "60b432da49762b819ec22f3cbacc0f2d896276cd1da5290fc32919b0d1c1a731",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:46.450Z",
+  "sha256_fonte": "a51f01d2c1ac5567e0d25661cffdfbdaa5592863a15ada753072d5b2c7125303",
+  "sha256_markdown": "7af439169d1ed82ea60e5348d440e7b53ae016a9b03bc98edc32cfe6fe061291"
+}

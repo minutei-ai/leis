@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-06-20-14602",
+  "titulo": "Lei nº 14.602 de 20/06/2023",
+  "data": "2023-06-20",
+  "fonte": "https://normas.leg.br/api/public/binario/2b0f025f-aad6-4fa5-a7e4-77a8533c8f9b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-06-20;14602",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-06-20%3B14602&tipo_documento=maior-detalhe",
+  "sha256_dados": "d285dc4106234b2d88b647ed937cf6e5098b3f791d31c8cb669cbf3fe62c9be2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:30:14.680Z",
+  "sha256_fonte": "3d0db040df59caab2ba7eec4b45dfc1129c53bda4cc3c2d52ddfae27b9393ea4",
+  "sha256_markdown": "c3ea7d965bcab755a54717db8e0ffef1ca265913c1a0e055d0c3050c410fff1c"
+}

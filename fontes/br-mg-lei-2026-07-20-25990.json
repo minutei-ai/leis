@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-20-25990",
+  "titulo": "LEI nº 25990, de 20/07/2026",
+  "data": "2026-07-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25990/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25990/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "69dc418e33d58ed12bae6ae00a1938de3002dd2d4529aac91463bbd0fc54455c",
+  "coletado_em": "2026-10-21T08:28:38.818Z",
+  "sha256_fonte": "534c93ccd23980f90bb0b22dfe6b91866fb81621220b560ec04161f3ce59f4eb",
+  "sha256_markdown": "b0ce67b8561e2d6e87ef36c69361a2e9e1f613bef28a6830a4d22f76f497fa79"
+}

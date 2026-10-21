@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-03-28-14315",
+  "titulo": "Lei nº 14.315 de 28/03/2022",
+  "data": "2022-03-28",
+  "fonte": "https://normas.leg.br/api/public/binario/06a9fac1-3e6f-4299-9b53-43a4cdf2fcea/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-03-28;14315",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-03-28%3B14315&tipo_documento=maior-detalhe",
+  "sha256_dados": "89b2f79e491361d08f1333f64588fa00a0f03a67e009aae2e300ba5cc00fe2dd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:35.701Z",
+  "sha256_fonte": "c0d2985bee482131844ac58d00f39ecb0212faeced344f383c6345e28f31482e",
+  "sha256_markdown": "35afd5d737df87f96ef6c41bb279947c7768c1eb4b449b4f2b3cd1a90411ee38"
+}

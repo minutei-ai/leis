@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-16-25721",
+  "titulo": "LEI nº 25721, de 16/01/2026",
+  "data": "2026-01-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25721/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25721/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "078ace50157f905016e7d32626374306dacef73d8d8f90662d5d398e51b3b55e",
+  "coletado_em": "2026-10-21T08:25:06.689Z",
+  "sha256_fonte": "e96661ed2a5170518282d2d8dcad00232c58920fdf610f013d610423a41bd33b",
+  "sha256_markdown": "6a01d21f2aceef850b3700f01b8811832050634b4e744a317b1cfd594537b5a9"
+}

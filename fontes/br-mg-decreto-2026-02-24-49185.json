@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-02-24-49185",
+  "titulo": "DEC nº 49185, de 24/02/2026",
+  "data": "2026-02-24",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49185/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49185/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "53241cef80a4f703e7edc08640741677d3885817ade39ab983f0b2149893b705",
+  "coletado_em": "2026-10-21T08:25:40.717Z",
+  "sha256_fonte": "c17f3da2ad60473955f7ff5052223012877f8bc8a3c13cb799c770359255dee5",
+  "sha256_markdown": "028f5ee0ce6bee6568eccdf6c7c4f3d26da40c74618327faa21b6ba7b5b44796"
+}

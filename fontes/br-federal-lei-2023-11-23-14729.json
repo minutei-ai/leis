@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-11-23-14729",
+  "titulo": "Lei nº 14.729 de 23/11/2023",
+  "data": "2023-11-23",
+  "fonte": "https://normas.leg.br/api/public/binario/b0840884-7a43-4dfe-80b7-766fd5755d6e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-11-23;14729",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-11-23%3B14729&tipo_documento=maior-detalhe",
+  "sha256_dados": "abe5d57438fff4e635d7b832ca42df801a8d2243884e425c27c0c3c430430a82",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:27:37.224Z",
+  "sha256_fonte": "e52ef1aa9a84d6255c0bd6fbf84067aae07f96e37815cd81a357b85d596f4462",
+  "sha256_markdown": "18b972e23db7b811011e2eabf55b51a0b556c67205af181bf12e6c51f5fcbd49"
+}

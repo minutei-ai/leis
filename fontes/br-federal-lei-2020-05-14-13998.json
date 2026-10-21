@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-05-14-13998",
+  "titulo": "Lei nº 13.998 de 14/05/2020",
+  "data": "2020-05-14",
+  "fonte": "https://normas.leg.br/api/public/binario/da7cf24a-e4af-49e1-a6a7-bd6acda901a5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-05-14;13998",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-05-14%3B13998&tipo_documento=maior-detalhe",
+  "sha256_dados": "bf17734b2591adf0eabd24cbf1c1545bb11541e415181359ea38a5811b08b1db",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:24.585Z",
+  "sha256_fonte": "9a8b979c32c0c7aa3bcaef72ba29fbdaea81c3417c8496d5702c86f86520d9ce",
+  "sha256_markdown": "201fbf6d47ff8355a26695cdb4b7c406c82057a6c166d0fedd64d70d54a377d8"
+}

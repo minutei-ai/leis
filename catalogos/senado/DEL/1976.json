@@ -1,0 +1,779 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1976",
+  "tipo": "DEL",
+  "ano": 1976,
+  "coletado_em": "2026-10-21T08:36:40.993Z",
+  "normas": [
+    {
+      "senadoId": "525653",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-31-1516",
+      "titulo": "Decreto-Lei nº 1.516 de 31/12/1976",
+      "data": "1976-12-31",
+      "numero": "1516",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-31;1516",
+      "ementa": "Dá nova redação a dispositivos do Decreto-Lei nº 1.370, de 9 de dezembro de   1974, que dispõe sobre a tributação dos rendimentos auferidos por garimpeiros   matriculados e dá outras providências."
+    },
+    {
+      "senadoId": "525655",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-31-1517",
+      "titulo": "Decreto-Lei nº 1.517 de 31/12/1976",
+      "data": "1976-12-31",
+      "numero": "1517",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-31;1517",
+      "ementa": "Fixa alíquotas do imposto sobre operações relativas à circulação de   mercadorias (ICM) nos Territórios Federais."
+    },
+    {
+      "senadoId": "525649",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-30-1514",
+      "titulo": "Decreto-Lei nº 1.514 de 30/12/1976",
+      "data": "1976-12-30",
+      "numero": "1514",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-30;1514",
+      "ementa": "Altera a redação do inciso II, do art.11 do Decreto-Lei nº 1.376, de 12 de   dezembro de 1974, já modificado pelo Decreto-Lei nº 1439, de 30 de dezembro de   1975."
+    },
+    {
+      "senadoId": "525651",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-30-1515",
+      "titulo": "Decreto-Lei nº 1.515 de 30/12/1976",
+      "data": "1976-12-30",
+      "numero": "1515",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-30;1515",
+      "ementa": "Altera a redação da alínea \"b\" do art. 74, da Lei n° ;3.807, de 26 de   Agosto de 1960, e dá outras providências."
+    },
+    {
+      "senadoId": "525647",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-29-1513",
+      "titulo": "Decreto-Lei nº 1.513 de 29/12/1976",
+      "data": "1976-12-29",
+      "numero": "1513",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-29;1513",
+      "ementa": "Dispõe sobre incidência do Empréstimo Compulsório em favor das Centrais   Elétricas Brasileiras S.A. - ELETROBRÁS."
+    },
+    {
+      "senadoId": "525645",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-29-1512",
+      "titulo": "Decreto-Lei nº 1.512 de 29/12/1976",
+      "data": "1976-12-29",
+      "numero": "1512",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-29;1512",
+      "ementa": "Altera a legislação do empréstimo compulsório instituído em favor das   Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e dá outras   providências."
+    },
+    {
+      "senadoId": "525643",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-28-1511",
+      "titulo": "Decreto-Lei nº 1.511 de 28/12/1976",
+      "data": "1976-12-28",
+      "numero": "1511",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-28;1511",
+      "ementa": "Altera a redação do art. 1º do Decreto-Lei nº 343, de 28 de Dezembro de   1967."
+    },
+    {
+      "senadoId": "525641",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-27-1510",
+      "titulo": "Decreto-Lei nº 1.510 de 27/12/1976",
+      "data": "1976-12-27",
+      "numero": "1510",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-27;1510",
+      "ementa": "Dispõe sobre a tributação de resultados obtidos na venda de participações societárias pelas pessoas físicas; altera o Decreto-Lei nº 1.381, de 23 de Dezembro de 1974, que dispõe sobre o tratamento tributário aplicável à pessoa física equiparada à pessoa jurídica em decorrência de operações com imóveis, e dá outras providências."
+    },
+    {
+      "senadoId": "525639",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-27-1509",
+      "titulo": "Decreto-Lei nº 1.509 de 27/12/1976",
+      "data": "1976-12-27",
+      "numero": "1509",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-27;1509",
+      "ementa": "Altera dispositivo do Decreto-Lei n° ;1.189, de 24 de Setembro de   1971, que dispõe sobre incentivos à exportação de produtos   manufaturados."
+    },
+    {
+      "senadoId": "525632",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-23-1505",
+      "titulo": "Decreto-Lei nº 1.505 de 23/12/1976",
+      "data": "1976-12-23",
+      "numero": "1505",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-23;1505",
+      "ementa": "Altera dispositivo do Decreto-Lei nº 651, de 26 de Agosto de 1938, e dá outras providências."
+    },
+    {
+      "senadoId": "525630",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-23-1504",
+      "titulo": "Decreto-Lei nº 1.504 de 23/12/1976",
+      "data": "1976-12-23",
+      "numero": "1504",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-23;1504",
+      "ementa": "Altera dispositivo do Decreto-Lei n° ;1.455, de 7 de Abril de 1976,   que dispõe sobre bagagem de passageiro procedente do exterior, disciplina o   regime de entreposto aduaneiro, estabelece normas sobre mercadorias estrangeiras   apreendidas e dá outras providências."
+    },
+    {
+      "senadoId": "525633",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-23-1506",
+      "titulo": "Decreto-Lei nº 1.506 de 23/12/1976",
+      "data": "1976-12-23",
+      "numero": "1506",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-23;1506",
+      "ementa": "Altera dispositivo da Lei nº 5.655, de 20 de Maio de 1971, e dá outras providências."
+    },
+    {
+      "senadoId": "525635",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-23-1507",
+      "titulo": "Decreto-Lei nº 1.507 de 23/12/1976",
+      "data": "1976-12-23",
+      "numero": "1507",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-23;1507",
+      "ementa": "Altera o art. 3º e seus paragráfos da Lei n° ;3.421, de 10 de Julho de   1958, e dá outras providências."
+    },
+    {
+      "senadoId": "525637",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-23-1508",
+      "titulo": "Decreto-Lei nº 1.508 de 23/12/1976",
+      "data": "1976-12-23",
+      "numero": "1508",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-23;1508",
+      "ementa": "Altera para o exercício de 1977 a distribuição do produto da arrecadação   dos impostos que menciona."
+    },
+    {
+      "senadoId": "525628",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-23-1503",
+      "titulo": "Decreto-Lei nº 1.503 de 23/12/1976",
+      "data": "1976-12-23",
+      "numero": "1503",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-23;1503",
+      "ementa": "Dispõe sobre incentivos fiscais para empreendimentos   florestais."
+    },
+    {
+      "senadoId": "525626",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-22-1502",
+      "titulo": "Decreto-Lei nº 1.502 de 22/12/1976",
+      "data": "1976-12-22",
+      "numero": "1502",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-22;1502",
+      "ementa": "Revoga o Decreto-Lei nº 1.425,de 3 de Novembro de 1975, que autoriza   restituição do Imposto sobre Produtos Industrializados à TELEBRÁS, suas   subsidiárias, associadas e demais concessionárias dos serviços de   telefonia."
+    },
+    {
+      "senadoId": "525616",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-20-1497",
+      "titulo": "Decreto-Lei nº 1.497 de 20/12/1976",
+      "data": "1976-12-20",
+      "numero": "1497",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-20;1497",
+      "ementa": "Reformula critérios de distribuição das quotas do Imposto Único sobre   Energia Elétrica."
+    },
+    {
+      "senadoId": "525620",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-20-1499",
+      "titulo": "Decreto-Lei nº 1.499 de 20/12/1976",
+      "data": "1976-12-20",
+      "numero": "1499",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-20;1499",
+      "ementa": "Dispõe sobre a prorrogação do benefício fiscal concedido às empresas   comerciais exportadoras de que trata o artigo 4º do Decreto-Lei n° 1.248, de 29   de novembro de 1972."
+    },
+    {
+      "senadoId": "525614",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-20-1496",
+      "titulo": "Decreto-Lei nº 1.496 de 20/12/1976",
+      "data": "1976-12-20",
+      "numero": "1496",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-20;1496",
+      "ementa": "Altera a redação do artigo 4º do Decreto-Lei n° ;1.083, de 6 de   fevereiro de 1970, \"que dispõe sobre a incidência e cobrança do Imposto Único   sobre Minerais, concede isenções e dá outras providências\", modificado pelo   Decreto-Lei n° ;1.402, de 23 de maio de 1975."
+    },
+    {
+      "senadoId": "525618",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-20-1498",
+      "titulo": "Decreto-Lei nº 1.498 de 20/12/1976",
+      "data": "1976-12-20",
+      "numero": "1498",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-20;1498",
+      "ementa": "Inclui dispositivos do Decreto-Lei n° ;1.445, de 13 de fevereiro de   1976, que reajustou os vencimentos e salários dos servidores civis do Poder   Executivo, dos membros da Magistratura e do Tribunal de Contas da   União."
+    },
+    {
+      "senadoId": "525624",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-20-1501",
+      "titulo": "Decreto-Lei nº 1.501 de 20/12/1976",
+      "data": "1976-12-20",
+      "numero": "1501",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-20;1501",
+      "ementa": "Prorroga os prazos de vigência de Decretos-Leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências."
+    },
+    {
+      "senadoId": "525622",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-20-1500",
+      "titulo": "Decreto-Lei nº 1.500 de 20/12/1976",
+      "data": "1976-12-20",
+      "numero": "1500",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-20;1500",
+      "ementa": "Assegura a manutenção e utilização do crédito do Imposto sobre Produtos   Industrializados relativo aos insumos empregados na industrialização dos   produtos não tributados que indica."
+    },
+    {
+      "senadoId": "525612",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-09-1495",
+      "titulo": "Decreto-Lei nº 1.495 de 09/12/1976",
+      "data": "1976-12-09",
+      "numero": "1495",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-09;1495",
+      "ementa": "Retifica o Decreto-Lei n° ;1.480, de 09 de setembro de   1976."
+    },
+    {
+      "senadoId": "525608",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-07-1493",
+      "titulo": "Decreto-Lei nº 1.493 de 07/12/1976",
+      "data": "1976-12-07",
+      "numero": "1493",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-07;1493",
+      "ementa": "Altera a legislação do Imposto de Renda e dá outras providências."
+    },
+    {
+      "senadoId": "525610",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-07-1494",
+      "titulo": "Decreto-Lei nº 1.494 de 07/12/1976",
+      "data": "1976-12-07",
+      "numero": "1494",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-07;1494",
+      "ementa": "Regula a retenção do imposto de renda na fonte incidente sobre rendimentos obtidos em aplicações financeiras e dá outras providências."
+    },
+    {
+      "senadoId": "525606",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-06-1492",
+      "titulo": "Decreto-Lei nº 1.492 de 06/12/1976",
+      "data": "1976-12-06",
+      "numero": "1492",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-06;1492",
+      "ementa": "Dispõe sobre a utilização parcial de créditos do Imposto sobre Circulação de Mercadorias na dedução do Imposto sobre Produtos Industrializados ou nas modalidades de aproveitamento indicadas pelo Ministro da Fazenda."
+    },
+    {
+      "senadoId": "525604",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-12-01-1491",
+      "titulo": "Decreto-Lei nº 1.491 de 01/12/1976",
+      "data": "1976-12-01",
+      "numero": "1491",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-12-01;1491",
+      "ementa": "Altera a alíquota e os limites do benefício fiscal de que tratam os Decretos-Leis nº ;1.358, de 12 de novembro de 1.974 e 1.431, de 5 de dezembro de 1975."
+    },
+    {
+      "senadoId": "525602",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-11-30-1490",
+      "titulo": "Decreto-Lei nº 1.490 de 30/11/1976",
+      "data": "1976-11-30",
+      "numero": "1490",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-11-30;1490",
+      "ementa": "Altera a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, concede isenção fiscal e dá outras providências."
+    },
+    {
+      "senadoId": "525600",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-11-25-1489",
+      "titulo": "Decreto-Lei nº 1.489 de 25/11/1976",
+      "data": "1976-11-25",
+      "numero": "1489",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-11-25;1489",
+      "ementa": "Concede benefícios fiscais para construção da ligação ferroviária Belo   Horizonte-Itutinga-Volta Redonda, inclusive Ramal de Sepetiba."
+    },
+    {
+      "senadoId": "525598",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-11-11-1488",
+      "titulo": "Decreto-Lei nº 1.488 de 11/11/1976",
+      "data": "1976-11-11",
+      "numero": "1488",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-11-11;1488",
+      "ementa": "Acrescenta um parágrafo no artigo 1º do Decreto-Lei nº 1.428, de 2 de   dezembro de 1975, que dispõe sobre isenções de impostos na importação, cria   incentivos fiscais à indústria nacional de bens de capital, regulamenta a   concessão de estímulos à ampliação de produção destinada à exportação e dá   outras providências."
+    },
+    {
+      "senadoId": "525596",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-11-10-1487",
+      "titulo": "Decreto-Lei nº 1.487 de 10/11/1976",
+      "data": "1976-11-10",
+      "numero": "1487",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-11-10;1487",
+      "ementa": "Autoriza remissão de créditos relativos a imposto territorial rural e a   contribuição dos que exercem atividades rurais, relativos a 1975, e dispensa a   taxa de serviços cadastrais correspondente a 1975 e 1976."
+    },
+    {
+      "senadoId": "525594",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-11-01-1486",
+      "titulo": "Decreto-Lei nº 1.486 de 01/11/1976",
+      "data": "1976-11-01",
+      "numero": "1486",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-11-01;1486",
+      "ementa": "Altera o Anexo II do Decreto-Lei nº 1.462, de 29 de abril de 1976, e dá   outras providências."
+    },
+    {
+      "senadoId": "525590",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-10-25-1484",
+      "titulo": "Decreto-Lei nº 1.484 de 25/10/1976",
+      "data": "1976-10-25",
+      "numero": "1484",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-10-25;1484",
+      "ementa": "Altera o Decreto-Lei n.º 1.469, de 24 de maio de 1976, que reajusta os   vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do   Distrito Federal."
+    },
+    {
+      "senadoId": "525592",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-10-25-1485",
+      "titulo": "Decreto-Lei nº 1.485 de 25/10/1976",
+      "data": "1976-10-25",
+      "numero": "1485",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-10-25;1485",
+      "ementa": "Institui estímulos fiscais ao turismo estrangeiro no País."
+    },
+    {
+      "senadoId": "525588",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-10-06-1483",
+      "titulo": "Decreto-Lei nº 1.483 de 06/10/1976",
+      "data": "1976-10-06",
+      "numero": "1483",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-10-06;1483",
+      "ementa": "Dispõe sobre a correção monetária do valor dos recursos florestais e dos direitos de sua exploração e dá outras providências."
+    },
+    {
+      "senadoId": "525586",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-10-05-1482",
+      "titulo": "Decreto-Lei nº 1.482 de 05/10/1976",
+      "data": "1976-10-05",
+      "numero": "1482",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-10-05;1482",
+      "ementa": "Concede isenção de impostos na importação de eletrodos próprios para   marca-passo cardíaco."
+    },
+    {
+      "senadoId": "525582",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-09-09-1480",
+      "titulo": "Decreto-Lei nº 1.480 de 09/09/1976",
+      "data": "1976-09-09",
+      "numero": "1480",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-09-09;1480",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do parágrafo único   do artigo 89 e artigo 15, parágrafo 1º, alínea \"b\", da Constituição, os   Municípios de Fronteira Rica, Mirassol do Oeste, Eldorado e Mundo Novo, no   Estado de Mato Grosso, e dá outras providências."
+    },
+    {
+      "senadoId": "525584",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-09-09-1481",
+      "titulo": "Decreto-Lei nº 1.481 de 09/09/1976",
+      "data": "1976-09-09",
+      "numero": "1481",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-09-09;1481",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do parágrafo único   do artigo 89 e artigo 15, parágrafo 1º, alínea\"b\", da Constituição, os   Municípios de Senador Guiomard, Plácido de Castro, Mâncio Lima, Manoel Urbano e   Assis Brasil, no Estado do Acre, e dá outras providências."
+    },
+    {
+      "senadoId": "525580",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-08-31-1479",
+      "titulo": "Decreto-Lei nº 1.479 de 31/08/1976",
+      "data": "1976-08-31",
+      "numero": "1479",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-08-31;1479",
+      "ementa": "Acrescenta artigo ao Decreto-Lei nº 1.452, de 30 de março de 1976, que   concede incentivo para projetos prioritários para a economia   nacional."
+    },
+    {
+      "senadoId": "525578",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-08-26-1478",
+      "titulo": "Decreto-Lei nº 1.478 de 26/08/1976",
+      "data": "1976-08-26",
+      "numero": "1478",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-08-26;1478",
+      "ementa": "Altera dispositivos do Decreto-Lei n° 1.376, de 12 de dezembro de 1974,   relativos aos Fundos de Investimentos do Nordeste, da Amazônia e Setoriais, e dá   outras providências."
+    },
+    {
+      "senadoId": "525576",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-08-26-1477",
+      "titulo": "Decreto-Lei nº 1.477 de 26/08/1976",
+      "data": "1976-08-26",
+      "numero": "1477",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-08-26;1477",
+      "ementa": "Dispõe sobre correção monetária nos casos de liquidação extrajudicial ou falência das entidades que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "525574",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-08-20-1476",
+      "titulo": "Decreto-Lei nº 1.476 de 20/08/1976",
+      "data": "1976-08-20",
+      "numero": "1476",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-08-20;1476",
+      "ementa": "Suspende, até o final do corrente exercício, a vigência das normas legais   e regulamentares autorizativas de destinações especiais dos resultados   atribuíveis à União nas empresas públicas e sociedades de economia mista   federais."
+    },
+    {
+      "senadoId": "525572",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-08-13-1475",
+      "titulo": "Decreto-Lei nº 1.475 de 13/08/1976",
+      "data": "1976-08-13",
+      "numero": "1475",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-08-13;1475",
+      "ementa": "Altera o artigo 58, da Lei n° 5.025, de 10 de junho de 1966, que dispõe   sobre o intercâmbio comercial com o exterior."
+    },
+    {
+      "senadoId": "525570",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-08-05-1474",
+      "titulo": "Decreto-Lei nº 1.474 de 05/08/1976",
+      "data": "1976-08-05",
+      "numero": "1474",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-08-05;1474",
+      "ementa": "Altera a redação do artigo 2º do Decreto-Lei nº 1.453, de 6 de abril de   1976, e dá outras providências."
+    },
+    {
+      "senadoId": "525568",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-07-13-1473",
+      "titulo": "Decreto-Lei nº 1.473 de 13/07/1976",
+      "data": "1976-07-13",
+      "numero": "1473",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-07-13;1473",
+      "ementa": "Altera o Decreto-Lei nº 1.164, de 1º de abril de 1971."
+    },
+    {
+      "senadoId": "525566",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-06-30-1472",
+      "titulo": "Decreto-Lei nº 1.472 de 30/06/1976",
+      "data": "1976-06-30",
+      "numero": "1472",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-06-30;1472",
+      "ementa": "Dá nova redação ao parágrafo 4º do artigo 2º do Decreto-lei nº 1.457, de   14 de abril de 1976, que reajusta os vencimentos e salários dos servidores das   Secretarias dos Tribunais do Trabalho, e dá outras providências."
+    },
+    {
+      "senadoId": "525564",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-06-15-1471",
+      "titulo": "Decreto-Lei nº 1.471 de 15/06/1976",
+      "data": "1976-06-15",
+      "numero": "1471",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-06-15;1471",
+      "ementa": "Estende a financiamentos do BNDE a bancos de investimento privados o   sistema de incentivo fiscal previsto no Decreto-lei nº 1.452, de 30 de março de   1976."
+    },
+    {
+      "senadoId": "525562",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-06-04-1470",
+      "titulo": "Decreto-Lei nº 1.470 de 04/06/1976",
+      "data": "1976-06-04",
+      "numero": "1470",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-06-04;1470",
+      "ementa": "Estabelece condição para emissão ou prorrogação de passaporte comum,   concessão de visto policial de saída e dá outras providências."
+    },
+    {
+      "senadoId": "525560",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-05-24-1469",
+      "titulo": "Decreto-Lei nº 1.469 de 24/05/1976",
+      "data": "1976-05-24",
+      "numero": "1469",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-05-24;1469",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525558",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-05-12-1468",
+      "titulo": "Decreto-Lei nº 1.468 de 12/05/1976",
+      "data": "1976-05-12",
+      "numero": "1468",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-05-12;1468",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências."
+    },
+    {
+      "senadoId": "525554",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-05-10-1466",
+      "titulo": "Decreto-Lei nº 1.466 de 10/05/1976",
+      "data": "1976-05-10",
+      "numero": "1466",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-05-10;1466",
+      "ementa": "Altera o Decreto-Lei nº 835, de 8 de setembro de 1969, que regula a   aplicação do Fundo de Participação dos Estados, do Distrito Federal e dos   Territórios, do Fundo de Participação dos Municípios e do Fundo   Especial."
+    },
+    {
+      "senadoId": "525556",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-05-10-1467",
+      "titulo": "Decreto-Lei nº 1.467 de 10/05/1976",
+      "data": "1976-05-10",
+      "numero": "1467",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-05-10;1467",
+      "ementa": "Reajusta os vencimentos, salários e proventos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525552",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-30-1465",
+      "titulo": "Decreto-Lei nº 1.465 de 30/04/1976",
+      "data": "1976-04-30",
+      "numero": "1465",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-30;1465",
+      "ementa": "Dá nova redação ao parágrafo único do artigo 4º do Decreto-Lei nº 1.445,   de 13 de fevereiro de 1976."
+    },
+    {
+      "senadoId": "525548",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-29-1463",
+      "titulo": "Decreto-Lei nº 1.463 de 29/04/1976",
+      "data": "1976-04-29",
+      "numero": "1463",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-29;1463",
+      "ementa": "Dispõe sobre as Tabelas de Escalonamento Vertical de que tratam as Leis   nºs 5.619, de 3 de novembro de 1970 e 5.906, de 23 de julho de 1973, e dá outras   providências."
+    },
+    {
+      "senadoId": "525546",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-29-1462",
+      "titulo": "Decreto-Lei nº 1.462 de 29/04/1976",
+      "data": "1976-04-29",
+      "numero": "1462",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-29;1462",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Distrito   Federal e dos Membros do Tribunal de Contas do Distrito Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "525550",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-29-1464",
+      "titulo": "Decreto-Lei nº 1.464 de 29/04/1976",
+      "data": "1976-04-29",
+      "numero": "1464",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-29;1464",
+      "ementa": "Fixa o valor do soldo do posto de Coronel da Polícia Militar e do Corpo de   Bombeiros do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525544",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-23-1461",
+      "titulo": "Decreto-Lei nº 1.461 de 23/04/1976",
+      "data": "1976-04-23",
+      "numero": "1461",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-23;1461",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores das Secretarias dos   Tribunais Regionais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "525542",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-22-1460",
+      "titulo": "Decreto-Lei nº 1.460 de 22/04/1976",
+      "data": "1976-04-22",
+      "numero": "1460",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-22;1460",
+      "ementa": "Aumenta os limites do Decreto-Lei nº 1.312, de 15 de fevereiro de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "525538",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-19-1458",
+      "titulo": "Decreto-Lei nº 1.458 de 19/04/1976",
+      "data": "1976-04-19",
+      "numero": "1458",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-19;1458",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores das Secretarias do   Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "525540",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-19-1459",
+      "titulo": "Decreto-Lei nº 1.459 de 19/04/1976",
+      "data": "1976-04-19",
+      "numero": "1459",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-19;1459",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores da Secretaria do   Tribunal Superior Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "525536",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-14-1457",
+      "titulo": "Decreto-Lei nº 1.457 de 14/04/1976",
+      "data": "1976-04-14",
+      "numero": "1457",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-14;1457",
+      "ementa": "Reajusta os vencimentos e salários dos servidores das Secretarias dos   Tribunais do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "525534",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-07-1456",
+      "titulo": "Decreto-Lei nº 1.456 de 07/04/1976",
+      "data": "1976-04-07",
+      "numero": "1456",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-07;1456",
+      "ementa": "Concede estímulos fiscais às empresas comerciais exportadoras constituídas   na forma prevista pelo Decreto-Lei nº 1.248, de 29 de novembro de   1972."
+    },
+    {
+      "senadoId": "525532",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-07-1455",
+      "titulo": "Decreto-Lei nº 1.455 de 07/04/1976",
+      "data": "1976-04-07",
+      "numero": "1455",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-07;1455",
+      "ementa": "Dispõe sobre bagagem de passageiro procedente do exterior, disciplina o regime de entreposto aduaneiro, estabelece normas sobre mercadorias estrangeiras apreendidas e dá outras providências."
+    },
+    {
+      "senadoId": "525530",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-07-1454",
+      "titulo": "Decreto-Lei nº 1.454 de 07/04/1976",
+      "data": "1976-04-07",
+      "numero": "1454",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-07;1454",
+      "ementa": "Dispõe sobre Imposto de Renda incidente em títulos de renda fixa, altera disposições fiscais previstas no Decreto-Lei n° 1.338, de 23 de julho de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "525528",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-04-06-1453",
+      "titulo": "Decreto-Lei nº 1.453 de 06/04/1976",
+      "data": "1976-04-06",
+      "numero": "1453",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-04-06;1453",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria Geral do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "525526",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-03-30-1452",
+      "titulo": "Decreto-Lei nº 1.452 de 30/03/1976",
+      "data": "1976-03-30",
+      "numero": "1452",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-03-30;1452",
+      "ementa": "Concede incentivo a projetos prioritários para a economia nacional e dá outras providências."
+    },
+    {
+      "senadoId": "525524",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-03-24-1451",
+      "titulo": "Decreto-Lei nº 1.451 de 24/03/1976",
+      "data": "1976-03-24",
+      "numero": "1451",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-03-24;1451",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis dos Quadros Permanentes e Suplementares do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "525522",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-03-24-1450",
+      "titulo": "Decreto-Lei nº 1.450 de 24/03/1976",
+      "data": "1976-03-24",
+      "numero": "1450",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-03-24;1450",
+      "ementa": "Concede isenção dos impostos de importação e sobre produtos   industrializados incidentes nos bens destinados à construção da Usina   Hidrelétrica de Itaipu e dá outras providências."
+    },
+    {
+      "senadoId": "525514",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-13-1446",
+      "titulo": "Decreto-Lei nº 1.446 de 13/02/1976",
+      "data": "1976-02-13",
+      "numero": "1446",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-13;1446",
+      "ementa": "Dispõe sobre a tributação de rendimentos de serviços técnicos prestados no   exterior."
+    },
+    {
+      "senadoId": "525520",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-13-1449",
+      "titulo": "Decreto-Lei nº 1.449 de 13/02/1976",
+      "data": "1976-02-13",
+      "numero": "1449",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-13;1449",
+      "ementa": "Altera dispositivo da Lei n.º 3.765, de 4 de maio de 1960, que dispõe   sobre as pensões militares e dá outras providêcias ."
+    },
+    {
+      "senadoId": "525516",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-13-1447",
+      "titulo": "Decreto-Lei nº 1.447 de 13/02/1976",
+      "data": "1976-02-13",
+      "numero": "1447",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-13;1447",
+      "ementa": "Dispõe sobre a Tabela de Escalonamento Vertical de que trata a Lei nº   5.787, de 27 de junho de 1972, e dá outras providências."
+    },
+    {
+      "senadoId": "525512",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-13-1445",
+      "titulo": "Decreto-Lei nº 1.445 de 13/02/1976",
+      "data": "1976-02-13",
+      "numero": "1445",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-13;1445",
+      "ementa": "Reajusta os vencimentos e sálarios dos servidores civis do Poder   Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá   outras providências."
+    },
+    {
+      "senadoId": "525518",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-13-1448",
+      "titulo": "Decreto-Lei nº 1.448 de 13/02/1976",
+      "data": "1976-02-13",
+      "numero": "1448",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-13;1448",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração do militares ."
+    },
+    {
+      "senadoId": "525510",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-03-1444",
+      "titulo": "Decreto-Lei nº 1.444 de 03/02/1976",
+      "data": "1976-02-03",
+      "numero": "1444",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-03;1444",
+      "ementa": "Prorroga a vigência do Decreto-Lei n.º 1.124, de 8 de setembro de 1970,   altera limite para dedução do Imposto de Renda das pessoas jurídicas em favor do   MOBRAL e dá outras providências."
+    },
+    {
+      "senadoId": "525508",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-02-02-1443",
+      "titulo": "Decreto-Lei nº 1.443 de 02/02/1976",
+      "data": "1976-02-02",
+      "numero": "1443",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-02-02;1443",
+      "ementa": "Fixa alíquota para cálculo do imposto incidente sobre o lucro tributável   das sociedades civis que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "525506",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-01-27-1442",
+      "titulo": "Decreto-Lei nº 1.442 de 27/01/1976",
+      "data": "1976-01-27",
+      "numero": "1442",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-01-27;1442",
+      "ementa": "Autoriza o Ministro da Fazenda a estender à Caixa Econômica Federal a   condição de Agente do Tesouro Nacional, para os fins que   especifica."
+    },
+    {
+      "senadoId": "525504",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1976-01-12-1441",
+      "titulo": "Decreto-Lei nº 1.441 de 12/01/1976",
+      "data": "1976-01-12",
+      "numero": "1441",
+      "urn": "urn:lex:br:federal:decreto.lei:1976-01-12;1441",
+      "ementa": "Altera, para o exercício de 1976, a distribuição do produto da arrecadação   dos impostos únicos."
+    }
+  ],
+  "pendencias": []
+}

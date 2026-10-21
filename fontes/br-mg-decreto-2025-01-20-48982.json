@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-01-20-48982",
+  "titulo": "DEC nº 48982, de 20/01/2025",
+  "data": "2025-01-20",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48982/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48982/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "cfc70f71ff81c91a1551c72d93120ad69ffbe24d0f1fadf6a059efa9edb1c484",
+  "coletado_em": "2026-10-21T08:30:02.357Z",
+  "sha256_fonte": "21aff8dedc7f9340bbe2b19733682e65a747b781caf4ffefdb452db7e505be6c",
+  "sha256_markdown": "374a4c65431b3608d7787be2a8779808ed0d8083f936347ad0caf8e317921cf7"
+}

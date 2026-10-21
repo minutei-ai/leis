@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-09-17-14205",
+  "titulo": "Lei nº 14.205 de 17/09/2021",
+  "data": "2021-09-17",
+  "fonte": "https://normas.leg.br/api/public/binario/4407c886-49e3-41dd-b7f6-1bf8852621cc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-09-17;14205",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-09-17%3B14205&tipo_documento=maior-detalhe",
+  "sha256_dados": "f52b330de7b9663769acad9f8953babc067213b3aa3a38c03695632c3d98594a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:56.967Z",
+  "sha256_fonte": "b6bebb21ce8c14d23a31187bb780b86d1fe7b3cedeb1c833d11b0539f9e5ffd4",
+  "sha256_markdown": "aa0d67556a94d806f2f8f433c85dccdaf73d6d353f1bd3347f49e5e495997079"
+}

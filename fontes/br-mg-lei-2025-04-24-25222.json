@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-04-24-25222",
+  "titulo": "LEI nº 25222, de 24/04/2025",
+  "data": "2025-04-24",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25222/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25222/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f08d807d703bcf49f5d85b3cc31af71e07af3dc8a63ada81a10f1aef65cfb562",
+  "coletado_em": "2026-10-21T08:31:00.532Z",
+  "sha256_fonte": "e1c299d1a762793656f06344821c5505448f86846fa1e6be55547b26e0316332",
+  "sha256_markdown": "8fc1a72a1d4b10c6cdebe5607dad582df22670594b0b5b1fd23d92e5db2fd8a2"
+}

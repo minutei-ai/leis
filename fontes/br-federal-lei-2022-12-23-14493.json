@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-23-14493",
+  "titulo": "Lei nº 14.493 de 23/12/2022",
+  "data": "2022-12-23",
+  "fonte": "https://normas.leg.br/api/public/binario/b43de12d-b2cd-42e4-b283-d990d2b8015d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-23;14493",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-23%3B14493&tipo_documento=maior-detalhe",
+  "sha256_dados": "44e134c7330c1d55c23fcd39fb2d558e7e7f98fba04ea4195c1292ccc76bf2c4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:34.869Z",
+  "sha256_fonte": "6dc82fa4cd421cc48683e3869d2ae0d6727800d2e3bf7274bc77637291e31e94",
+  "sha256_markdown": "99727db7f866bb0ebce057f24b6e724b20bf8cb3910905ac0ce0ce18fdfd6c11"
+}

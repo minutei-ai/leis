@@ -1,0 +1,42 @@
+---
+id: "br-sp-norma-212907"
+titulo: "Decreto nº 70.810, de 24/08/2026"
+data: "2026-08-24"
+fonte: "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70810-24.08.2026.html"
+versao: "publicação original disponibilizada pela Alesp"
+dados: "https://baleg-api-prd.al.sp.gov.br/norma/212907"
+sha256_dados: "029f9767ce336e42995efc6fd5dda63f84291054a975c44b65b48307b3342411"
+coletado_em: "2026-10-21T08:37:47.044Z"
+sha256_fonte: "c4a9da2df54123c5c90092ff4c8f7e790e0b65bd39b068b7331b01f0a1f8a73c"
+sha256_markdown: "c6152cf12a832fe25fcd4aaf5bf5cb35029b1b1997daafb02845d7b31602f3df"
+---
+
+# Decreto nº 70.810, de 24/08/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212907)<br>
+
+# DECRETO N° 70.810, DE 24 DE AGOSTO DE 2026
+
+### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria dos Direitos da Pessoa com Deficiência, visando ao atendimento de Despesas de Capital.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 18.178, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211200), e na [Lei n° 18.387, de 6 de janeiro de 2026](https://www.al.sp.gov.br/norma/212096),
+
+Decreta:
+
+**Artigo 1° -** Fica aberto um crédito de R$ 204.989,00 (duzentos e quatro mil e novecentos e oitenta e nove reais), suplementar ao orçamento da Secretaria dos Direitos da Pessoa com Deficiência, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.
+
+**Artigo 2° -** O crédito aberto pelo artigo anterior será coberto com recursos a que alude o inciso III, do § 1°, do artigo 43, da Lei federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.
+
+**Artigo 3° -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 8°, do [Decreto n° 70.333, de 12 de janeiro de 2026](https://www.al.sp.gov.br/norma/212159), de conformidade com a Tabela 2, anexa.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Nerylson Lima da Silva
+
+Samuel Yoshiaki Oliveira Kinoshita
+
+![](/repositorio/legislacao/decreto/2026/2026082508274936754.png)
+
+![](/repositorio/legislacao/decreto/2026/2026082508274935846.png)

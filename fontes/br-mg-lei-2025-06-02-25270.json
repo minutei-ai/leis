@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-06-02-25270",
+  "titulo": "LEI nº 25270, de 02/06/2025",
+  "data": "2025-06-02",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25270/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25270/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "86cc456bc1d464b71531a01642c9804d5ac8771390c0239a2176fcd830dc7f69",
+  "coletado_em": "2026-10-21T08:31:42.989Z",
+  "sha256_fonte": "182d5fde079f4e5b7e7cc4ff44706c72fd8beeddd2ce74284263d20950a99c2c",
+  "sha256_markdown": "27d2e3e6a2767d6746cbdb5bae5d2c8081103faf3dd97715a7f44f5825711d69"
+}

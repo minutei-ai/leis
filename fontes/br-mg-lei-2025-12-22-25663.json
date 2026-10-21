@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-22-25663",
+  "titulo": "LEI nº 25663, de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25663/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25663/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "0e8e0afa203dc57f073b7ff3d3bfc6d4839de18bde4661ff78b69ccd4c62c75a",
+  "coletado_em": "2026-10-21T08:36:23.637Z",
+  "sha256_fonte": "41957f6b86c3524723dd5ed7146081e9987ac71828ab0ae4d7990add61581e65",
+  "sha256_markdown": "1f05b665ccea8a049f0dc2616aeccf906b1f5b5034089eae901605690acddfda"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-08-13-14036",
+  "titulo": "Lei nº 14.036 de 13/08/2020",
+  "data": "2020-08-13",
+  "fonte": "https://normas.leg.br/api/public/binario/1e580993-27ed-498d-9993-aa5c570d5001/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-08-13;14036",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-08-13%3B14036&tipo_documento=maior-detalhe",
+  "sha256_dados": "e6e2e508648b823007de2bafe14cfb05ec8e251d6559271382bb1c1d1e441f35",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:34.267Z",
+  "sha256_fonte": "d8e8ed439e3444072801620af3ef5fc8443e57c43d14dfb31efba20db7d67c4e",
+  "sha256_markdown": "6996243b510c6cb60760447b99985d70849cabc766127b49ca62d4270a011a69"
+}

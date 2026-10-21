@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-01-11-14534",
+  "titulo": "Lei nº 14.534 de 11/01/2023",
+  "data": "2023-01-11",
+  "fonte": "https://normas.leg.br/api/public/binario/cc4c60d4-00ba-4c9e-b319-e8fce1db7953/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-01-11;14534",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-01-11%3B14534&tipo_documento=maior-detalhe",
+  "sha256_dados": "caeb91c59049aa92c17a6ac5d879f0179c5bb488778799ccb77b5e8f5d5f9021",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:55.943Z",
+  "sha256_fonte": "66f80ec0730488dbee5e5c05655998945648d8c52e8ded74d4c5de49b93daa31",
+  "sha256_markdown": "40b7ce52249befddb26892edddfb733abe2a4412b0d8f89e9ac2e87c4a502a4f"
+}

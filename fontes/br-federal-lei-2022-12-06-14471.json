@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-12-06-14471",
+  "titulo": "Lei nº 14.471 de 06/12/2022",
+  "data": "2022-12-06",
+  "fonte": "https://normas.leg.br/api/public/binario/99289a5f-5231-48ca-b8d1-afa28dbe5c2c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-12-06;14471",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-12-06%3B14471&tipo_documento=maior-detalhe",
+  "sha256_dados": "89ee4871d54df684bedb4074c36f04e36582a8c0ebc6e7d28950c265694335ca",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:15.277Z",
+  "sha256_fonte": "4acd6d3d9820366a107febaab2195a5813b25b2336fad0181e2dd09137546c99",
+  "sha256_markdown": "16b0f750632e38eb620fcfd5190a368a333dfb2bdb75658ac87a74c5b85fcb1b"
+}

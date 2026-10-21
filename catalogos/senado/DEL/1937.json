@@ -1,0 +1,1609 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1937",
+  "tipo": "DEL",
+  "ano": 1937,
+  "coletado_em": "2026-10-21T08:37:50.367Z",
+  "normas": [
+    {
+      "senadoId": "522953",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-31-156",
+      "titulo": "Decreto-Lei nº 156 de 31/12/1937",
+      "data": "1937-12-31",
+      "numero": "156",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-31;156",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de   117:359$600, à verba 2ª, Pessoal, subconsignação n. 20, do vigente orçamento do   mesmo Ministério."
+    },
+    {
+      "senadoId": "522951",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-31-155",
+      "titulo": "Decreto-Lei nº 155 de 31/12/1937",
+      "data": "1937-12-31",
+      "numero": "155",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-31;155",
+      "ementa": "Cria na Diretoria da Receita da Secretaria Geral de Finanças da Prefeitura   do Distrito Federal a Sub-Diretoria da Renda Imobiliária e dá outras   providências."
+    },
+    {
+      "senadoId": "522955",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-31-157",
+      "titulo": "Decreto-Lei nº 157 de 31/12/1937",
+      "data": "1937-12-31",
+      "numero": "157",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-31;157",
+      "ementa": "Dispõe sobre a arecadação dos impostos predial e territorial, na   Prefeitura do Distrito Federal."
+    },
+    {
+      "senadoId": "522943",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-151",
+      "titulo": "Decreto-Lei nº 151 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "151",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;151",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito especial de 5.000:000$, para   auxílio ao Estado de Pernambuco e instalação de colônias agrícolas."
+    },
+    {
+      "senadoId": "522947",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-153",
+      "titulo": "Decreto-Lei nº 153 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "153",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;153",
+      "ementa": "Cria uma companhia no Corpo de Bombeiros do Distrito Federal e dá outras   providências."
+    },
+    {
+      "senadoId": "522935",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-147",
+      "titulo": "Decreto-Lei nº 147 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "147",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;147",
+      "ementa": "Concede subvenção ao Aero-Clube do Brasil e ao Aero-Clube de São Paulo."
+    },
+    {
+      "senadoId": "522939",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-149",
+      "titulo": "Decreto-Lei nº 149 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;149",
+      "ementa": "Abre o crédito suplementar de 800:000$, à verba 4ª - Eventuais -   sub-consignação n. 6, do vigente orçamento do Ministério das Relações   Exteriores."
+    },
+    {
+      "senadoId": "522949",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-154",
+      "titulo": "Decreto-Lei nº 154 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "154",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;154",
+      "ementa": "Dispõe sobre a colocação hierárquica dos aspirantes de marinha."
+    },
+    {
+      "senadoId": "522945",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-152",
+      "titulo": "Decreto-Lei nº 152 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "152",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;152",
+      "ementa": "Abre, pelo Ministério da Fazenda, o crédito especial de 20:799$500, para   pagamento a D. Irmã Seabra Azamor de Oliveira e filhos, e dá outras   providências."
+    },
+    {
+      "senadoId": "522937",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-148",
+      "titulo": "Decreto-Lei nº 148 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;148",
+      "ementa": "Aprova o plano de construção de um liceu profissional no Distrito Federal."
+    },
+    {
+      "senadoId": "522941",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-30-150",
+      "titulo": "Decreto-Lei nº 150 de 30/12/1937",
+      "data": "1937-12-30",
+      "numero": "150",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-30;150",
+      "ementa": "Suspende, até 31 de março de 1938, as execuções judiciais para cobrança de   dívida de agricultores."
+    },
+    {
+      "senadoId": "522895",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-127",
+      "titulo": "Decreto-Lei nº 127 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "127",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;127",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de 80:000$,   para pagamento de \"coupons\" dos empréstimos municipais internos, vencidos até   1936."
+    },
+    {
+      "senadoId": "522901",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-130",
+      "titulo": "Decreto-Lei nº 130 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;130",
+      "ementa": "Abre o crédito suplementar de 3:500$000, para reforço de sub-consignação   da verba 10 - Diretoria de Segurança - do vigente orçamento da Prefeitura do   Distrito Federal."
+    },
+    {
+      "senadoId": "522919",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-139",
+      "titulo": "Decreto-Lei nº 139 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "139",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;139",
+      "ementa": "Interpreta o art. 89 e seu parágrafo do Decreto nº 54, de 12 de setembro   de 1934."
+    },
+    {
+      "senadoId": "522881",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-120",
+      "titulo": "Decreto-Lei nº 120 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "120",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;120",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de 840$,   correspondente aos juros recebidos das apólices que menciona."
+    },
+    {
+      "senadoId": "522909",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-134",
+      "titulo": "Decreto-Lei nº 134 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "134",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;134",
+      "ementa": "Abre o crédito suplementar de 50:000$, (cinquenta contos de réis) para   reforço da sub-consignação da verba 18ª - Substituições - do vigente orçamento   da Prefeitura do Distrito Federal."
+    },
+    {
+      "senadoId": "522897",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-128",
+      "titulo": "Decreto-Lei nº 128 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;128",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de 200:000$,   para ocorrer às despesas que menciona."
+    },
+    {
+      "senadoId": "522875",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-117",
+      "titulo": "Decreto-Lei nº 117 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "117",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;117",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de   311:880$700, para pagamento de pessoal, nas condições que menciona."
+    },
+    {
+      "senadoId": "522911",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-135",
+      "titulo": "Decreto-Lei nº 135 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "135",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;135",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal o crédito especial de 120:000$,   para despesas com o pessoal, na Diretoria de Trabalho, Matas e Jardins, da   Secretaria Geral de Viação, Trabalho e obras Públicas, e dá outras providências."
+    },
+    {
+      "senadoId": "522917",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-138",
+      "titulo": "Decreto-Lei nº 138 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "138",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;138",
+      "ementa": "Suspende, provisoriamente, a cobrança dos impostos de licença para   localização de comércio, indústrias e profissões, no Distrito Federal."
+    },
+    {
+      "senadoId": "522923",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-141",
+      "titulo": "Decreto-Lei nº 141 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "141",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;141",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito especial de 9:709$700, para   pagamento de vencimentos ao bacharel Carlos Gomes Rabelo Horta."
+    },
+    {
+      "senadoId": "522925",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-142",
+      "titulo": "Decreto-Lei nº 142 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "142",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;142",
+      "ementa": "Concede prazo para eliminação das receitas estaduais, dos impostos a que   se refere o art. 25 da Constituição Federal."
+    },
+    {
+      "senadoId": "522933",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-146",
+      "titulo": "Decreto-Lei nº 146 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "146",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;146",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito especial de 15:000$, para   pagamento de gratificação aos membros da Comissão de Eficiência."
+    },
+    {
+      "senadoId": "522903",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-131",
+      "titulo": "Decreto-Lei nº 131 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;131",
+      "ementa": "Abre o crédito suplementar de 100:000$, para reforço da sub-consignação da   verba 26 - Departamento de Educação - do vigente orçamento da Prefeitura do   Distrito Federal."
+    },
+    {
+      "senadoId": "522887",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-123",
+      "titulo": "Decreto-Lei nº 123 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "123",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;123",
+      "ementa": "Abre o crédito suplementar de 145:450$, para reforço de sub-consignação da   verba 20 - Secretaria Geral de Finanças - do vigente orçamento da Prefeitura do   Distrito Federal."
+    },
+    {
+      "senadoId": "522883",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-121",
+      "titulo": "Decreto-Lei nº 121 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "121",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;121",
+      "ementa": "Abre o crédito suplementar de 94:770$400, para reforma de sub-consignações   da verba 2 - Secretaria da Câmara Municipal - do vigente orçamento da Prefeitura   do Distrito Federal."
+    },
+    {
+      "senadoId": "522905",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-132",
+      "titulo": "Decreto-Lei nº 132 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;132",
+      "ementa": "Abre crédito suplementar de 170:000$, para reforço de sub-consignação da   verba 11 - Diretoria de Turismo e Propaganda - do vigente orçamento da   Agricultura do Distrito Federal."
+    },
+    {
+      "senadoId": "522927",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-143",
+      "titulo": "Decreto-Lei nº 143 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "143",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;143",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, o crédito especial de 256:800$,   para construção de um hospital em Ponta Porã, Estado de Mato Grosso."
+    },
+    {
+      "senadoId": "522929",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-144",
+      "titulo": "Decreto-Lei nº 144 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "144",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;144",
+      "ementa": "Autoriza o Ministério da Viação e Obras Públicas a contratar o   estabelecimento e funcionamento de uma linha aérea, entre Uberaba, em Minas   Gerais, e Goiânia, em Goiás."
+    },
+    {
+      "senadoId": "522931",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-145",
+      "titulo": "Decreto-Lei nº 145 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "145",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;145",
+      "ementa": "Regula, em caráter transitório, o ingresso nas carreiras de \"Oficial   Administrativo\", \"Estatístico\" e \"Contínuo\"."
+    },
+    {
+      "senadoId": "522893",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-126",
+      "titulo": "Decreto-Lei nº 126 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "126",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;126",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de   848:392$700, para pagamento de material, nas condições que menciona."
+    },
+    {
+      "senadoId": "522889",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-124",
+      "titulo": "Decreto-Lei nº 124 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "124",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;124",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de   80:000$000, para atender às despesas de instalação da Comissão de Elaboração do   \"Plano da Cidade\"."
+    },
+    {
+      "senadoId": "522899",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-129",
+      "titulo": "Decreto-Lei nº 129 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;129",
+      "ementa": "Abre o crédito suplementar de 1:500$, para reforço da sub-consignação da   verba 20 - Secretaria Geral de Finanças - do vigente orçamento da Prefeitura do   Distrito Federal."
+    },
+    {
+      "senadoId": "522913",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-136",
+      "titulo": "Decreto-Lei nº 136 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "136",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;136",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de 131:080$   (cento e trinta e um contos e oitenta mil réis), para atender ao pagamento, na   Secretaria Geral de Educação e Cultura, das quotas de Fiscalização Federal."
+    },
+    {
+      "senadoId": "522891",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-125",
+      "titulo": "Decreto-Lei nº 125 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "125",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;125",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de 200:000$,   para atender ao pagamento de serviços extraordinários na Secretaria Geral de   Viação, Trabalho e Obras Públicas."
+    },
+    {
+      "senadoId": "522915",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-137",
+      "titulo": "Decreto-Lei nº 137 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "137",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;137",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de 327:030$,   para despesas com a desapropriação que menciona."
+    },
+    {
+      "senadoId": "522885",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-122",
+      "titulo": "Decreto-Lei nº 122 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "122",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;122",
+      "ementa": "Abre o crédito suplementar de 55:000$ para reforço de sub-consignações da   verba 21 - Diretorias de Receita, de Despesa, de Tomada de Contas, Contadoria   Geral e Tesouraria - do vigente orçamento da Prefeitura do Distrito Federal."
+    },
+    {
+      "senadoId": "522921",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-140",
+      "titulo": "Decreto-Lei nº 140 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "140",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;140",
+      "ementa": "Define a competência dos Estados para arrecadar o imposto de vendas e   consignações."
+    },
+    {
+      "senadoId": "522879",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-119",
+      "titulo": "Decreto-Lei nº 119 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "119",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;119",
+      "ementa": "Abre, pela Prefeitura do Distrito Federal, o crédito especial de   840:268$690, para pagamento de material nas condições que menciona."
+    },
+    {
+      "senadoId": "522877",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-118",
+      "titulo": "Decreto-Lei nº 118 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "118",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;118",
+      "ementa": "Fixa o imposto sobre vendas e consignações, a ser cobrado no Distrito   Federal."
+    },
+    {
+      "senadoId": "522907",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-29-133",
+      "titulo": "Decreto-Lei nº 133 de 29/12/1937",
+      "data": "1937-12-29",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-29;133",
+      "ementa": "Abre o crédito suplementar de 800:000$, para reforço de sub-consignação da   verba 15 - 1º - Inativos e Pensões - do vigente orçamento da Prefeitura do   Distrito Federal."
+    },
+    {
+      "senadoId": "522860",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-110",
+      "titulo": "Decreto-Lei nº 110 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;110",
+      "ementa": "Dispõe sobre o recurso de decisões do Tribunal de Segurança Nacional."
+    },
+    {
+      "senadoId": "522872",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-116",
+      "titulo": "Decreto-Lei nº 116 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "116",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;116",
+      "ementa": "Abre o crédito suplementar de 559:896$000 à sub-consignação nº 2, da verba   5ª - Pessoal - do vigente orçamento do Ministério da Justiça."
+    },
+    {
+      "senadoId": "522864",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-112",
+      "titulo": "Decreto-Lei nº 112 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;112",
+      "ementa": "Aprova quatro atos internacionais, assinados em Buenos Aires, em 23 de   dezembro de 1936, por ocasião da Conferência Inter-Americana de Consolidação da   Paz."
+    },
+    {
+      "senadoId": "522870",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-115",
+      "titulo": "Decreto-Lei nº 115 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "115",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;115",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito especial de 534:061$200, para   pagamento aos primeiros suplentes de pretor da Justiça do Distrito Federal."
+    },
+    {
+      "senadoId": "522862",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-111",
+      "titulo": "Decreto-Lei nº 111 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;111",
+      "ementa": "Aprova a adesão do Brasil à Convenção Internacional sobre linhas de limite   de carga dos navios mercantes, firmado em Londres, a 5 de julho de 1930."
+    },
+    {
+      "senadoId": "522868",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-114",
+      "titulo": "Decreto-Lei nº 114 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "114",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;114",
+      "ementa": "Aprova a adesão do Brasil ao Protocolo destinado a regulamentar a ação dos   submarinos em relação aos navios mercantes em tempo de guerra, firmado em   Londres, a 6 de novembro de 1936."
+    },
+    {
+      "senadoId": "522866",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-28-113",
+      "titulo": "Decreto-Lei nº 113 de 28/12/1937",
+      "data": "1937-12-28",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-28;113",
+      "ementa": "Aprova a Convenção Internacional relativa à repressão do tráfico de   mulheres maiores, firmada em Genebra, a 11 de outubro de 1933."
+    },
+    {
+      "senadoId": "522858",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-27-109",
+      "titulo": "Decreto-Lei nº 109 de 27/12/1937",
+      "data": "1937-12-27",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-27;109",
+      "ementa": "Extingue, à medida que se vagarem, quatro cargos de \"professor\", padrão   \"J\", do quadro I, do Ministério da Educação e Saúde."
+    },
+    {
+      "senadoId": "522856",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-27-108",
+      "titulo": "Decreto-Lei nº 108 de 27/12/1937",
+      "data": "1937-12-27",
+      "numero": "108",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-27;108",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito de réis   35.755:000$, suplementar a diversas subconsignações do orçamento do mesmo   ministério para o corrente exercício."
+    },
+    {
+      "senadoId": "522854",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-27-107",
+      "titulo": "Decreto-Lei nº 107 de 27/12/1937",
+      "data": "1937-12-27",
+      "numero": "107",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-27;107",
+      "ementa": "Orça a receita geral e fixa a Despesa da União para o exercício de 1938."
+    },
+    {
+      "senadoId": "522850",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-24-105",
+      "titulo": "Decreto-Lei nº 105 de 24/12/1937",
+      "data": "1937-12-24",
+      "numero": "105",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-24;105",
+      "ementa": "Cria no Quadro Único do Ministério das Relações Exteriores um cargo de   redator-chefe dos Anais."
+    },
+    {
+      "senadoId": "522852",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-24-106",
+      "titulo": "Decreto-Lei nº 106 de 24/12/1937",
+      "data": "1937-12-24",
+      "numero": "106",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-24;106",
+      "ementa": "Torna extensivos a Adalgisa do Vale Cabral, irmã do então primeiro tenente   Anibal do Vale Cabral, falecido em consequência do desastre do encouroçado   \"Aquidaban\", os benefícios da Lei n. 2542, de 3 de janeiro de 1912."
+    },
+    {
+      "senadoId": "522848",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-24-104",
+      "titulo": "Decreto-Lei nº 104 de 24/12/1937",
+      "data": "1937-12-24",
+      "numero": "104",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-24;104",
+      "ementa": "Suspende a cobrança à boca do cofre dos prêmios e taxas postais e   telégraficas pelas correspondências e telegramas oficiais federais, até que seja   regulamentado o dispositivo legal."
+    },
+    {
+      "senadoId": "522844",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-102",
+      "titulo": "Decreto-Lei nº 102 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "102",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;102",
+      "ementa": "Autoriza a aquisição de um terreno para ampliação das instalações da   Fábrica de Projetís de artilharia."
+    },
+    {
+      "senadoId": "522840",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-100",
+      "titulo": "Decreto-Lei nº 100 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "100",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;100",
+      "ementa": "Abre, pelo Ministério da Fazenda o crédito suplementar de 61.256:272$500,   às verbas que especifica."
+    },
+    {
+      "senadoId": "522834",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-97",
+      "titulo": "Decreto-Lei nº 97 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "97",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;97",
+      "ementa": "Regula as vendas de letras de exportação e dá outras providências."
+    },
+    {
+      "senadoId": "522846",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-103",
+      "titulo": "Decreto-Lei nº 103 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "103",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;103",
+      "ementa": "Regula o exercício do magistério no Exército."
+    },
+    {
+      "senadoId": "522838",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-99",
+      "titulo": "Decreto-Lei nº 99 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "99",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;99",
+      "ementa": "Abre, pelo Ministério da Fazenda, o crédito especial de 29.000:000$ (vinte   e nove mil contos de réis), para pagamento de juros de títulos da Dívida Interna   Fundada."
+    },
+    {
+      "senadoId": "522842",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-101",
+      "titulo": "Decreto-Lei nº 101 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "101",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;101",
+      "ementa": "Cria, no Ministério da Marinha, a Divisão de História Marítima do Brasil."
+    },
+    {
+      "senadoId": "522830",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-95",
+      "titulo": "Decreto-Lei nº 95 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "95",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;95",
+      "ementa": "Abre, pelo Ministério da Fazenda, o crédito especial de 200:000$, destinado à contribuição da União para a Seção Técnica da Comissão de Estudos Financeiros e Econômicos dos Estados e Municípios."
+    },
+    {
+      "senadoId": "522836",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-23-98",
+      "titulo": "Decreto-Lei nº 98 de 23/12/1937",
+      "data": "1937-12-23",
+      "numero": "98",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-23;98",
+      "ementa": "Incorpora à Universidade do Brasil o Instituto Nacional de Puericultura."
+    },
+    {
+      "senadoId": "522828",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-22-94",
+      "titulo": "Decreto-Lei nº 94 de 22/12/1937",
+      "data": "1937-12-22",
+      "numero": "94",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-22;94",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito suplementar de 674:800$ às   verbas que especifica."
+    },
+    {
+      "senadoId": "522832",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-22-96",
+      "titulo": "Decreto-Lei nº 96 de 22/12/1937",
+      "data": "1937-12-22",
+      "numero": "96",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-22;96",
+      "ementa": "Dispõe sobre a administração do Distrito Federal."
+    },
+    {
+      "senadoId": "522824",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-21-92",
+      "titulo": "Decreto-Lei nº 92 de 21/12/1937",
+      "data": "1937-12-21",
+      "numero": "92",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-21;92",
+      "ementa": "Cria o Serviço Nacional de Teatro."
+    },
+    {
+      "senadoId": "522822",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-21-91",
+      "titulo": "Decreto-Lei nº 91 de 21/12/1937",
+      "data": "1937-12-21",
+      "numero": "91",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-21;91",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito especial de 50:000$, destinado   à aquisição de um automóvel para transporte do Presidente do Supremo Tribunal   Federal."
+    },
+    {
+      "senadoId": "522818",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-21-89",
+      "titulo": "Decreto-Lei nº 89 de 21/12/1937",
+      "data": "1937-12-21",
+      "numero": "89",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-21;89",
+      "ementa": "Aprova o Protocolo especial sobre ligações ferroviárias e aproveitamento   do petróleo boliviano assinado em La Paz, em 25 de novembro de 1937."
+    },
+    {
+      "senadoId": "522826",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-21-93",
+      "titulo": "Decreto-Lei nº 93 de 21/12/1937",
+      "data": "1937-12-21",
+      "numero": "93",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-21;93",
+      "ementa": "Cria o Instituto Nacional do Livro."
+    },
+    {
+      "senadoId": "522820",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-21-90",
+      "titulo": "Decreto-Lei nº 90 de 21/12/1937",
+      "data": "1937-12-21",
+      "numero": "90",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-21;90",
+      "ementa": "Abre, pelo Ministério da Justiça, o crédito suplementar de 4:950$, para   pagamento ao procurador regional eleitoral do Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "522812",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-20-86",
+      "titulo": "Decreto-Lei nº 86 de 20/12/1937",
+      "data": "1937-12-20",
+      "numero": "86",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-20;86",
+      "ementa": "Extingue as graduações e elevações de posto dos oficiais e praças do Corpo   de Bombeiros."
+    },
+    {
+      "senadoId": "522814",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-20-87",
+      "titulo": "Decreto-Lei nº 87 de 20/12/1937",
+      "data": "1937-12-20",
+      "numero": "87",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-20;87",
+      "ementa": "Determina que o cargo de fiscal do Corpo de Bombeiros do Distrito Federal   seja exercido por um tenente-coronel do Exército."
+    },
+    {
+      "senadoId": "522816",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-20-88",
+      "titulo": "Decreto-Lei nº 88 de 20/12/1937",
+      "data": "1937-12-20",
+      "numero": "88",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-20;88",
+      "ementa": "Modifica a Lei n.º 244, de 11 de setembro de 1936, que instituiu o   Tribunal de Segurança Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "522810",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-18-85",
+      "titulo": "Decreto-Lei nº 85 de 18/12/1937",
+      "data": "1937-12-18",
+      "numero": "85",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-18;85",
+      "ementa": "Cria dois lugares de contador na Justiça Local do Distrito Federal."
+    },
+    {
+      "senadoId": "522802",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-18-81",
+      "titulo": "Decreto-Lei nº 81 de 18/12/1937",
+      "data": "1937-12-18",
+      "numero": "81",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-18;81",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito de réis   2.000:000$, suplementar à subconsignação n. 16, n. XVII, anexo 12, do orçamento   para o exercício de 1937."
+    },
+    {
+      "senadoId": "522804",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-18-82",
+      "titulo": "Decreto-Lei nº 82 de 18/12/1937",
+      "data": "1937-12-18",
+      "numero": "82",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-18;82",
+      "ementa": "Incorpora o Instituto Nacional de Saúde Pública no Instituto Osvaldo Cruz   e define as atribuições deste."
+    },
+    {
+      "senadoId": "522808",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-18-84",
+      "titulo": "Decreto-Lei nº 84 de 18/12/1937",
+      "data": "1937-12-18",
+      "numero": "84",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-18;84",
+      "ementa": "Abre crédito especial de 4.000:000$, para conclusão do edifício-sede do   Ministério do Trabalho."
+    },
+    {
+      "senadoId": "522806",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-18-83",
+      "titulo": "Decreto-Lei nº 83 de 18/12/1937",
+      "data": "1937-12-18",
+      "numero": "83",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-18;83",
+      "ementa": "Abre, pelo Ministério do Trabalho, o crédito especial de 150:000$, para   despesas decorrentes da Exposição Internacional de Paris, de 1937."
+    },
+    {
+      "senadoId": "522800",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-18-80",
+      "titulo": "Decreto-Lei nº 80 de 18/12/1937",
+      "data": "1937-12-18",
+      "numero": "80",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-18;80",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de   30:000$, à verba de serviços extraordinários."
+    },
+    {
+      "senadoId": "522798",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-17-79",
+      "titulo": "Decreto-Lei nº 79 de 17/12/1937",
+      "data": "1937-12-17",
+      "numero": "79",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-17;79",
+      "ementa": "Abre, pelo Ministério da Agricultura, o crédito suplementar de 506:800$,   às verbas que especifica."
+    },
+    {
+      "senadoId": "522796",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-17-78",
+      "titulo": "Decreto-Lei nº 78 de 17/12/1937",
+      "data": "1937-12-17",
+      "numero": "78",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-17;78",
+      "ementa": "Regula aposentadoria dos capitães de navios nacionais que, por força do   dispositivo constitucional, não puderem mais exercer cargos de comando na   Marinha Mercante Nacional."
+    },
+    {
+      "senadoId": "522783",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-71",
+      "titulo": "Decreto-Lei nº 71 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "71",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;71",
+      "ementa": "Regula a remuneração dos cargos em comissão do Ministério da Fazenda."
+    },
+    {
+      "senadoId": "522788",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-74",
+      "titulo": "Decreto-Lei nº 74 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "74",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;74",
+      "ementa": "Dispõe sobre a organização do Conselho Federal de Comércio Exterior."
+    },
+    {
+      "senadoId": "522785",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-72",
+      "titulo": "Decreto-Lei nº 72 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "72",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;72",
+      "ementa": "Altera a Lei n.º 470, de 9 de agosto de 1937, e regula a cobrança do   imposto nela instituído."
+    },
+    {
+      "senadoId": "522794",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-77",
+      "titulo": "Decreto-Lei nº 77 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "77",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;77",
+      "ementa": "Dispõe sobre a venda do imóvel em que funciona o Laboratório   Químico-Farmacêutico Militar."
+    },
+    {
+      "senadoId": "522792",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-76",
+      "titulo": "Decreto-Lei nº 76 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "76",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;76",
+      "ementa": "Autoriza a aquisição de um imóvel em Curitiba, para residência do   comandante da 5ª Região Militar."
+    },
+    {
+      "senadoId": "522781",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-70",
+      "titulo": "Decreto-Lei nº 70 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "70",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;70",
+      "ementa": "Suspende as consignações em folha do funcionalismo federal, relativas ao   mês de dezembro de 1937."
+    },
+    {
+      "senadoId": "522790",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-16-75",
+      "titulo": "Decreto-Lei nº 75 de 16/12/1937",
+      "data": "1937-12-16",
+      "numero": "75",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-16;75",
+      "ementa": "Autoriza o Ministério da Guerra a adquirir um imóvel situado à avenida   Brigadeiro Luiz Antônio, em São Paulo."
+    },
+    {
+      "senadoId": "522775",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-15-67",
+      "titulo": "Decreto-Lei nº 67 de 15/12/1937",
+      "data": "1937-12-15",
+      "numero": "67",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-15;67",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, o crédito especial de 10:500$,   para pagamento de aluguéis de salas, no Edifício \"Rex\"."
+    },
+    {
+      "senadoId": "522777",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-15-68",
+      "titulo": "Decreto-Lei nº 68 de 15/12/1937",
+      "data": "1937-12-15",
+      "numero": "68",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-15;68",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de   16.072:529$900, de verbas que especifica."
+    },
+    {
+      "senadoId": "522779",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-15-69",
+      "titulo": "Decreto-Lei nº 69 de 15/12/1937",
+      "data": "1937-12-15",
+      "numero": "69",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-15;69",
+      "ementa": "Transfere, do Ministério da Guerra para o da Agricultura, a gestão da   antiga Fábrica de Ferro de Ipanema, no Estado de São Paulo, com todas as   benfeitorias existentes, casas, barracas, linhas férreas, etc., e dá outras   providências."
+    },
+    {
+      "senadoId": "522771",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-14-65",
+      "titulo": "Decreto-Lei nº 65 de 14/12/1937",
+      "data": "1937-12-14",
+      "numero": "65",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-14;65",
+      "ementa": "Dispõe sobre o recolhimento das contribuiçoes devidas por empregados aos   Institutos e Caixas de Aposentadorias e Pensões."
+    },
+    {
+      "senadoId": "522773",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-14-66",
+      "titulo": "Decreto-Lei nº 66 de 14/12/1937",
+      "data": "1937-12-14",
+      "numero": "66",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-14;66",
+      "ementa": "Declara em vigor, com as modificações resultantes dos preceitos   constitucionais, o Código de Minas e outros decretos que especifica, e expede   bases para confirmar a execução desses decretos à Constituição."
+    },
+    {
+      "senadoId": "522769",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-14-64",
+      "titulo": "Decreto-Lei nº 64 de 14/12/1937",
+      "data": "1937-12-14",
+      "numero": "64",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-14;64",
+      "ementa": "Dispõe sobre a quota adicional de 20% sobre vencimentos de oficiais e   praças em determinadas guarnições militares."
+    },
+    {
+      "senadoId": "522767",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-13-63",
+      "titulo": "Decreto-Lei nº 63 de 13/12/1937",
+      "data": "1937-12-13",
+      "numero": "63",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-13;63",
+      "ementa": "Declara em disponibilidade os funcionários da extinta Justiça Eleitoral."
+    },
+    {
+      "senadoId": "522763",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-13-61",
+      "titulo": "Decreto-Lei nº 61 de 13/12/1937",
+      "data": "1937-12-13",
+      "numero": "61",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-13;61",
+      "ementa": "Abre, pelo Ministério da Guerra, o crédito especial de 200:000$, para   aquisição de um prédio em Belém do Pará."
+    },
+    {
+      "senadoId": "522765",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-13-62",
+      "titulo": "Decreto-Lei nº 62 de 13/12/1937",
+      "data": "1937-12-13",
+      "numero": "62",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-13;62",
+      "ementa": "Abre, pelo Ministério da Guerra, o crédito suplementar de 120:000$ à verba   \"Comissão em País Estrangeiro\"."
+    },
+    {
+      "senadoId": "522759",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-11-59",
+      "titulo": "Decreto-Lei nº 59 de 11/12/1937",
+      "data": "1937-12-11",
+      "numero": "59",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-11;59",
+      "ementa": "Dispõe sobre registro das sociedades civís a que se refere o art. 4º do   Decreto nº 37, de 2 do corrente mês."
+    },
+    {
+      "senadoId": "522761",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-11-60",
+      "titulo": "Decreto-Lei nº 60 de 11/12/1937",
+      "data": "1937-12-11",
+      "numero": "60",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-11;60",
+      "ementa": "Abre o crédito suplementar de 3.670:000$, para reforço de sub-consignações   da verba 3ª -Departamento dos Correios e Telégrafos do vigente orçamento do   Ministério da Viação e Obras Públicas."
+    },
+    {
+      "senadoId": "522753",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-10-56",
+      "titulo": "Decreto-Lei nº 56 de 10/12/1937",
+      "data": "1937-12-10",
+      "numero": "56",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-10;56",
+      "ementa": "Abre, pelo Ministério das Relações Exteriores, o crédito suplementar de   960:000$ às verbas que especifica."
+    },
+    {
+      "senadoId": "522755",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-10-57",
+      "titulo": "Decreto-Lei nº 57 de 10/12/1937",
+      "data": "1937-12-10",
+      "numero": "57",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-10;57",
+      "ementa": "Transfere à Associação \"Lar Proletário\" a propriedade e a posse de   terrenos da União do Distrito Federal."
+    },
+    {
+      "senadoId": "522757",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-10-58",
+      "titulo": "Decreto-Lei nº 58 de 10/12/1937",
+      "data": "1937-12-10",
+      "numero": "58",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-10;58",
+      "ementa": "Dispõe sôbre o loteamento e a venda de terrenos para pagamento em   prestações."
+    },
+    {
+      "senadoId": "522747",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-09-53",
+      "titulo": "Decreto-Lei nº 53 de 09/12/1937",
+      "data": "1937-12-09",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-09;53",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, o crédito especial de 49:500$, para pagamento de diárias aos membros do Conselho Nacional de Educação."
+    },
+    {
+      "senadoId": "522751",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-09-55",
+      "titulo": "Decreto-Lei nº 55 de 09/12/1937",
+      "data": "1937-12-09",
+      "numero": "55",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-09;55",
+      "ementa": "Autoriza a utilização e instalação, pelo Ministério da agricultura, de uma   câmara de expurgo, adquirida em 1936, juntamente com outros materiais agrícolas,   destinados a serem cedidos pelo Custo aos lavradores inscritos no mesmo   ministério."
+    },
+    {
+      "senadoId": "522749",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-09-54",
+      "titulo": "Decreto-Lei nº 54 de 09/12/1937",
+      "data": "1937-12-09",
+      "numero": "54",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-09;54",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas o crédito especial de   3.000:000$, para continuação das estradas de rodagem Itaipava-Teresópolis e Rio   - Bahia."
+    },
+    {
+      "senadoId": "522743",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-08-51",
+      "titulo": "Decreto-Lei nº 51 de 08/12/1937",
+      "data": "1937-12-08",
+      "numero": "51",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-08;51",
+      "ementa": "Dispõe sobre tipos de café, e dá outras providências."
+    },
+    {
+      "senadoId": "522741",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-08-50",
+      "titulo": "Decreto-Lei nº 50 de 08/12/1937",
+      "data": "1937-12-08",
+      "numero": "50",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-08;50",
+      "ementa": "Abre, pelo Ministério da Fazenda, o crédito especial de 3.000:000$, para   cunhagem de moedas auxiliares e divisionárias."
+    },
+    {
+      "senadoId": "522739",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-08-49",
+      "titulo": "Decreto-Lei nº 49 de 08/12/1937",
+      "data": "1937-12-08",
+      "numero": "49",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-08;49",
+      "ementa": "Abre, pelo Ministério da Agricultura, o crédito especial de 830.757$400,   para aquisição do imóvel denominado \"Estância Cinco Cruzes\"."
+    },
+    {
+      "senadoId": "522745",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-08-52",
+      "titulo": "Decreto-Lei nº 52 de 08/12/1937",
+      "data": "1937-12-08",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-08;52",
+      "ementa": "Dispõe sobre a arrecadação, por intermédio das repartições   postais-telegráficas, das contribuições devidas ao Instituto de Aposentadoria e   Pensões dos Industriários."
+    },
+    {
+      "senadoId": "522737",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-08-48",
+      "titulo": "Decreto-Lei nº 48 de 08/12/1937",
+      "data": "1937-12-08",
+      "numero": "48",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-08;48",
+      "ementa": "Abre, pelo Ministério da Viação, o crédito especial de 55:155$400, para   liquidar os compromissos assumidos com a contrução das estradas de rodagem, nos   Estados do Paraná e Santa Catarina."
+    },
+    {
+      "senadoId": "522733",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-07-46",
+      "titulo": "Decreto-Lei nº 46 de 07/12/1937",
+      "data": "1937-12-07",
+      "numero": "46",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-07;46",
+      "ementa": "Abre, pelo Ministério da Marinha, o crédito especial de dois mil contos de   reis (2.000:000$), para a Escola Naval e construção de uma ponte entre a ilha de   Willegaignon e o continente."
+    },
+    {
+      "senadoId": "522735",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-07-47",
+      "titulo": "Decreto-Lei nº 47 de 07/12/1937",
+      "data": "1937-12-07",
+      "numero": "47",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-07;47",
+      "ementa": "Altera o art. 17 do Decreto nº 24.023, de 21 de março de 1934."
+    },
+    {
+      "senadoId": "522729",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-07-44",
+      "titulo": "Decreto-Lei nº 44 de 07/12/1937",
+      "data": "1937-12-07",
+      "numero": "44",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-07;44",
+      "ementa": "Conceda o título de engenheiro-agrônomo aos diplomados por   estabelecimentos de ensino agronômico, e dá outras providências."
+    },
+    {
+      "senadoId": "522731",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-07-45",
+      "titulo": "Decreto-Lei nº 45 de 07/12/1937",
+      "data": "1937-12-07",
+      "numero": "45",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-07;45",
+      "ementa": "Abre, pelo Ministério das Relações Exteriores, o crédito especial de   150:000$, para a Comissão de Limites do Setor Oeste."
+    },
+    {
+      "senadoId": "522721",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-06-40",
+      "titulo": "Decreto-Lei nº 40 de 06/12/1937",
+      "data": "1937-12-06",
+      "numero": "40",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-06;40",
+      "ementa": "Abre, pelo Ministério da Guerra, o crédito suplementar de 800:000$, à   verba 6ª, reduzindo de igual quantia o crédito aberto pelo decreto n.º 1912, à   verba 1ª, sub-consignação n.º 11, do Título I - Pessoal."
+    },
+    {
+      "senadoId": "522723",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-06-41",
+      "titulo": "Decreto-Lei nº 41 de 06/12/1937",
+      "data": "1937-12-06",
+      "numero": "41",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-06;41",
+      "ementa": "Dispõe sobre crimes eleitorais."
+    },
+    {
+      "senadoId": "522725",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-06-42",
+      "titulo": "Decreto-Lei nº 42 de 06/12/1937",
+      "data": "1937-12-06",
+      "numero": "42",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-06;42",
+      "ementa": "Completa as providências estabelecidas no Decreto-Lei n.º 5, de 13 de   novembro deste ano."
+    },
+    {
+      "senadoId": "522727",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-06-43",
+      "titulo": "Decreto-Lei nº 43 de 06/12/1937",
+      "data": "1937-12-06",
+      "numero": "43",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-06;43",
+      "ementa": "Dispõe sobre a divisão territorial do Distrito Federal para efeito do   Registro Geral de Imóvel."
+    },
+    {
+      "senadoId": "522719",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-03-39",
+      "titulo": "Decreto-Lei nº 39 de 03/12/1937",
+      "data": "1937-12-03",
+      "numero": "39",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-03;39",
+      "ementa": "Dispõe sobre a execução dos julgados nos processos de conflitos oriundos   das relações entre empregadores e empregados, e dá outras providências."
+    },
+    {
+      "senadoId": "522715",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-02-37",
+      "titulo": "Decreto-Lei nº 37 de 02/12/1937",
+      "data": "1937-12-02",
+      "numero": "37",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-02;37",
+      "ementa": "Dispõe sobre partidos políticos."
+    },
+    {
+      "senadoId": "522717",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-02-38",
+      "titulo": "Decreto-Lei nº 38 de 02/12/1937",
+      "data": "1937-12-02",
+      "numero": "38",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-02;38",
+      "ementa": "Dispõe sobre promoções no Exército em tempo de paz."
+    },
+    {
+      "senadoId": "522707",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-33",
+      "titulo": "Decreto-Lei nº 33 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "33",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;33",
+      "ementa": "Aprova o contrato firmado pelo Tesouro Nacional com o Banco do Brasil,   para as operações da Carteira de Redescontos."
+    },
+    {
+      "senadoId": "522709",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-34",
+      "titulo": "Decreto-Lei nº 34 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "34",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;34",
+      "ementa": "Abre, ao Ministério da Educação e Saúde o crédito suplementar de   5.000:000$, para atender ao pagamento de subvenções."
+    },
+    {
+      "senadoId": "522713",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-36",
+      "titulo": "Decreto-Lei nº 36 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "36",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;36",
+      "ementa": "Dispõe sobre os serviços odontológicos do Exército Nacional."
+    },
+    {
+      "senadoId": "522703",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-31",
+      "titulo": "Decreto-Lei nº 31 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "31",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;31",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de   2.300:000$, para finalização das limpezas e desobstrução dos rios de Jacarepagua   e aquisição de \"drag-lineas\" e reparos e montagem da aparelhagem existente."
+    },
+    {
+      "senadoId": "522705",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-32",
+      "titulo": "Decreto-Lei nº 32 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "32",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;32",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de   800:000$, para conclusão dos trabalhos de terraplanagem necessários à instalação   de fábrica de aviões."
+    },
+    {
+      "senadoId": "522711",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-35",
+      "titulo": "Decreto-Lei nº 35 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "35",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;35",
+      "ementa": "Inclue no regime estabelecido pelo decreto-lei n.º 2, de 13 de novembro de   1937, todos os cafés exportados para o estrangeiro, a partir de 1 do mesmo mês,   e dá outras providências."
+    },
+    {
+      "senadoId": "522701",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-12-01-30",
+      "titulo": "Decreto-Lei nº 30 de 01/12/1937",
+      "data": "1937-12-01",
+      "numero": "30",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-12-01;30",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de   75:000$, para distribuição de premios aos vencendores das provas aéreas,   realizadas em comemoração do \"Dia do Aviador\"."
+    },
+    {
+      "senadoId": "522695",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-30-27",
+      "titulo": "Decreto-Lei nº 27 de 30/11/1937",
+      "data": "1937-11-30",
+      "numero": "27",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-30;27",
+      "ementa": "Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de   1.500:000$, destinado à construção de uma ponte sobre o rio Toropí."
+    },
+    {
+      "senadoId": "522699",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-30-29",
+      "titulo": "Decreto-Lei nº 29 de 30/11/1937",
+      "data": "1937-11-30",
+      "numero": "29",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-30;29",
+      "ementa": "Aprova o Protocolo Adicional ao Tratado de Extradição entre o Brasil e a   Itália."
+    },
+    {
+      "senadoId": "522691",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-30-25",
+      "titulo": "Decreto-Lei nº 25 de 30/11/1937",
+      "data": "1937-11-30",
+      "numero": "25",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-30;25",
+      "ementa": "Organiza a proteção do patrimônio histórico e artístico nacional."
+    },
+    {
+      "senadoId": "522693",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-30-26",
+      "titulo": "Decreto-Lei nº 26 de 30/11/1937",
+      "data": "1937-11-30",
+      "numero": "26",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-30;26",
+      "ementa": "Dispõe sobre a utilização, nos trabalhos de panificação, de farinha de   trigo, fabricada no país, e dá outras providências."
+    },
+    {
+      "senadoId": "522697",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-30-28",
+      "titulo": "Decreto-Lei nº 28 de 30/11/1937",
+      "data": "1937-11-30",
+      "numero": "28",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-30;28",
+      "ementa": "Aprova o Tratado de Extradição entre o Brasil e o México e o respectivo   Protocolo Adicional."
+    },
+    {
+      "senadoId": "522685",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-29-22",
+      "titulo": "Decreto-Lei nº 22 de 29/11/1937",
+      "data": "1937-11-29",
+      "numero": "22",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-29;22",
+      "ementa": "Abre, pelo Ministério da Educação e Saúde, o crédito especial de 592:000$,   para despesas nos hospitais Estácio de Sá e Pedro II."
+    },
+    {
+      "senadoId": "522689",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-29-24",
+      "titulo": "Decreto-Lei nº 24 de 29/11/1937",
+      "data": "1937-11-29",
+      "numero": "24",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-29;24",
+      "ementa": "Dispõe sobre a acumulação de funções e cargos públicos remunerados, e dá   outras providências."
+    },
+    {
+      "senadoId": "522687",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-29-23",
+      "titulo": "Decreto-Lei nº 23 de 29/11/1937",
+      "data": "1937-11-29",
+      "numero": "23",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-29;23",
+      "ementa": "Abre o crédito suplementar de 1.000:000$ à verba 1ª, Pessoal, do vigente   orçamento do Ministério das Relações Exteriores."
+    },
+    {
+      "senadoId": "522681",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-26-20",
+      "titulo": "Decreto-Lei nº 20 de 26/11/1937",
+      "data": "1937-11-26",
+      "numero": "20",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-26;20",
+      "ementa": "autoriza a trasnferência, à Prefeitura Municípal da Cidade do Rio Grande,   do domínio útil da ponte do \"Saco da Mangueira\"."
+    },
+    {
+      "senadoId": "522683",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-26-21",
+      "titulo": "Decreto-Lei nº 21 de 26/11/1937",
+      "data": "1937-11-26",
+      "numero": "21",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-26;21",
+      "ementa": "Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito   suplementar de 1.060:000$ às verbas que especifica."
+    },
+    {
+      "senadoId": "522671",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-25-15",
+      "titulo": "Decreto-Lei nº 15 de 25/11/1937",
+      "data": "1937-11-25",
+      "numero": "15",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-25;15",
+      "ementa": "Revoga o Decreto n.º 24.264, de 17 de maio de 1934."
+    },
+    {
+      "senadoId": "522677",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-25-18",
+      "titulo": "Decreto-Lei nº 18 de 25/11/1937",
+      "data": "1937-11-25",
+      "numero": "18",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-25;18",
+      "ementa": "Abre, pelo Ministério da guerra, o crédito suplementar de reis   37.917:000$000, as verbas que especifica."
+    },
+    {
+      "senadoId": "522673",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-25-16",
+      "titulo": "Decreto-Lei nº 16 de 25/11/1937",
+      "data": "1937-11-25",
+      "numero": "16",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-25;16",
+      "ementa": "Autoriza a aquisição de um terreno em cruz alta, para misteres da aviação   militar."
+    },
+    {
+      "senadoId": "522669",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-25-14",
+      "titulo": "Decreto-Lei nº 14 de 25/11/1937",
+      "data": "1937-11-25",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-25;14",
+      "ementa": "Institue o conselho Técnico de Economia e Finanças, no Ministério da   Fazenda, e dá outras providências."
+    },
+    {
+      "senadoId": "522679",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-25-19",
+      "titulo": "Decreto-Lei nº 19 de 25/11/1937",
+      "data": "1937-11-25",
+      "numero": "19",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-25;19",
+      "ementa": "Revoga o decreto n. 23.771, de 20 de janeiro de 1933, que nomea coronel   da, 2ª classe da reserva de 1ª linha o Dr. Pedro Ernesto Baptista, para o Corpo   de Saúde"
+    },
+    {
+      "senadoId": "522675",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-25-17",
+      "titulo": "Decreto-Lei nº 17 de 25/11/1937",
+      "data": "1937-11-25",
+      "numero": "17",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-25;17",
+      "ementa": "Autoriza a aquisição de um imóvel, sito à avenida João Pessoa, em Porto   Alegre, para residência do comandante da 3º região militar."
+    },
+    {
+      "senadoId": "522663",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-24-11",
+      "titulo": "Decreto-Lei nº 11 de 24/11/1937",
+      "data": "1937-11-24",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-24;11",
+      "ementa": "Regula a abertura de créditos adicionais e dá outras providências"
+    },
+    {
+      "senadoId": "522665",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-24-12",
+      "titulo": "Decreto-Lei nº 12 de 24/11/1937",
+      "data": "1937-11-24",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-24;12",
+      "ementa": "Abre, pelo Ministério da Guerra, o crédito especial de 3.610:000$000,   destinado às instalações da Fábrica de Itajubá."
+    },
+    {
+      "senadoId": "522667",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-24-13",
+      "titulo": "Decreto-Lei nº 13 de 24/11/1937",
+      "data": "1937-11-24",
+      "numero": "13",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-24;13",
+      "ementa": "Revoga os arts. 1º e 3º da lei n.º 583, de 9 de novembro de 1937."
+    },
+    {
+      "senadoId": "522660",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-20-9",
+      "titulo": "Decreto-Lei nº 9 de 20/11/1937",
+      "data": "1937-11-20",
+      "numero": "9",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-20;9",
+      "ementa": "Cassa as honras de postos concedidos a José Antônio Flôres da Cunha."
+    },
+    {
+      "senadoId": "522658",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-18-8",
+      "titulo": "Decreto-Lei nº 8 de 18/11/1937",
+      "data": "1937-11-18",
+      "numero": "8",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-18;8",
+      "ementa": "Revoga a Lei nº 507, de 21 de setembro de 1937."
+    },
+    {
+      "senadoId": "522656",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-17-7",
+      "titulo": "Decreto-Lei nº 7 de 17/11/1937",
+      "data": "1937-11-17",
+      "numero": "7",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-17;7",
+      "ementa": "Dispõe sobre o atual Tribunal de Contas, e dá outras providências."
+    },
+    {
+      "senadoId": "522654",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-16-6",
+      "titulo": "Decreto-Lei nº 6 de 16/11/1937",
+      "data": "1937-11-16",
+      "numero": "6",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-16;6",
+      "ementa": "Dispõe sobre a extinção da Justiça Federal e o andamento das causas em   curso, e dá outras providências."
+    },
+    {
+      "senadoId": "526874",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-2132",
+      "titulo": "Decreto-Lei nº 2.132 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "2132",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;2132",
+      "ementa": "Restabelece o imposto de consumo sobre gasolina."
+    },
+    {
+      "senadoId": "30835706",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-2133",
+      "titulo": "Decreto-Lei nº 2.133 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "2133",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;2133",
+      "ementa": "Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de   130:000$000, para ocorrer às despesas com as solenidades da Festa da   Bandeira."
+    },
+    {
+      "senadoId": "522648",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-3",
+      "titulo": "Decreto-Lei nº 3 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "3",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;3",
+      "ementa": "Restabelece o imposto de consumo sôbre gasolina."
+    },
+    {
+      "senadoId": "526879",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-2134",
+      "titulo": "Decreto-Lei nº 2.134 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "2134",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;2134",
+      "ementa": "Estabelece medidas contra os devedores a Fazenda Nacional."
+    },
+    {
+      "senadoId": "522645",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-2",
+      "titulo": "Decreto-Lei nº 2 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "2",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;2",
+      "ementa": "Regulariza a situação do Departamento Nacional do Café, e dá outras   providências."
+    },
+    {
+      "senadoId": "526871",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-2131",
+      "titulo": "Decreto-Lei nº 2.131 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "2131",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;2131",
+      "ementa": "Regulariza a situação do Departamento Nacional do Café e dá outras   providências."
+    },
+    {
+      "senadoId": "522650",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-4",
+      "titulo": "Decreto-Lei nº 4 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "4",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;4",
+      "ementa": "Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial   de 130:000$000, para ocorrer às despesas com as solenidades da Festa da   Bandeira."
+    },
+    {
+      "senadoId": "522652",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-13-5",
+      "titulo": "Decreto-Lei nº 5 de 13/11/1937",
+      "data": "1937-11-13",
+      "numero": "5",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-13;5",
+      "ementa": "Estabelece medidas contra os devedores à Fazenda Nacional."
+    },
+    {
+      "senadoId": "526868",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-12-2130",
+      "titulo": "Decreto-Lei nº 2.130 de 12/11/1937",
+      "data": "1937-11-12",
+      "numero": "2130",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-12;2130",
+      "ementa": "Dispõe sobre a entrega de apólices do reajustamento econômico."
+    },
+    {
+      "senadoId": "522643",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1937-11-12-1",
+      "titulo": "Decreto-Lei nº 1 de 12/11/1937",
+      "data": "1937-11-12",
+      "numero": "1",
+      "urn": "urn:lex:br:federal:decreto.lei:1937-11-12;1",
+      "ementa": "Dispõe sobre a entrega de apólices do Reajustamento Econômico."
+    }
+  ],
+  "pendencias": []
+}

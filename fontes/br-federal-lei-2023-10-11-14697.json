@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-10-11-14697",
+  "titulo": "Lei nº 14.697 de 11/10/2023",
+  "data": "2023-10-11",
+  "fonte": "https://normas.leg.br/api/public/binario/cf2ab87d-d1da-4d5a-91b0-92585f750162/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-10-11;14697",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-10-11%3B14697&tipo_documento=maior-detalhe",
+  "sha256_dados": "a0abbf54262d8e957644d9d57d32cb74ce58f341378d7e7cd449eba3385fd60c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:28:22.024Z",
+  "sha256_fonte": "49e1084e385eceabc64728e48452617364535579b2afb07a32a1aa2f6d24de46",
+  "sha256_markdown": "26ec52ed385dcf7f70174af0cf51da3d9391176041f2e901ce0714de91e49ac0"
+}

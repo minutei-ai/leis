@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-30-25798",
+  "titulo": "LEI nº 25798, de 30/03/2026",
+  "data": "2026-03-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25798/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25798/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "4c9a2720830a8e22fee22d0985e746aa887d389a7c28d716c55f10b6a203ca64",
+  "coletado_em": "2026-10-21T08:26:11.100Z",
+  "sha256_fonte": "0b0f820f7c9fa722b5abb4d93a502c43ffe804b6b995e625bd54f2248b44ca14",
+  "sha256_markdown": "4da6625431eda885bd6e01b83b6585d61cfd68bb32924b63ced304dfdeaa00d7"
+}

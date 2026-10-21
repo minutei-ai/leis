@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-09-26-49106",
+  "titulo": "DEC nº 49106, de 26/09/2025",
+  "data": "2025-09-26",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49106/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49106/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "9ea89f805e0bc65559503a3a5282f5ac525a199f64d393346dad14f2449a4bbd",
+  "coletado_em": "2026-10-21T08:34:23.247Z",
+  "sha256_fonte": "43de451bc3811bbbb222922ae97fc269737963b582dac5d42ce355d1a6f205f6",
+  "sha256_markdown": "eb3162ba6b0b21c9ae9905b5877832de75032f43157b692eeda687afcfa5bf93"
+}

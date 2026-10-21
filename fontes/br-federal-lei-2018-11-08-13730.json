@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-08-13730",
+  "titulo": "Lei nº 13.730 de 08/11/2018",
+  "data": "2018-11-08",
+  "fonte": "https://normas.leg.br/api/public/binario/b9c293ca-6b2b-4915-aa2c-b59726dba17e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-08;13730",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-08%3B13730&tipo_documento=maior-detalhe",
+  "sha256_dados": "86c612031989fc5df341b19b49349c76ed139511d97e7cd240b174bd0a3304cb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:13.431Z",
+  "sha256_fonte": "98f3fca1a138d56ded8cc574744774880f4f0cf9b462383cfe6b41a6ad154d77",
+  "sha256_markdown": "0599caee87ba98d3bf788853fecb4f7d7ad16e71ef6573226ce4e8f5431246b8"
+}

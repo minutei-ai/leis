@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-03-31-49011",
+  "titulo": "DEC nº 49011, de 31/03/2025",
+  "data": "2025-03-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49011/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49011/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "27010a042a658fc5400b008471857f226e48c7d600f88bd6efd7721ede93fbe2",
+  "coletado_em": "2026-10-21T08:30:36.163Z",
+  "sha256_fonte": "6f3aaf4b6bf2588689e88b574f9248617ce4360f50ff498590557c3fcb3a78ce",
+  "sha256_markdown": "599d1b5754afe91de3e0025e93a1ac06ad7cdb7be18210e75e6ef3099a4e6ddb"
+}

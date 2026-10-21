@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-05-21-25874",
+  "titulo": "LEI nº 25874, de 21/05/2026",
+  "data": "2026-05-21",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25874/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25874/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "3ecfe3b05d8fd6cd4374caee3deeaaf8689fc0283d995491eb9757168c702802",
+  "coletado_em": "2026-10-21T08:27:19.249Z",
+  "sha256_fonte": "be939caacdffc3d1b8b0eb126db1a4e7ae37898f7bf1c5efefc8ba6c18e35bb1",
+  "sha256_markdown": "892b2fadb62ae2663490c0ac0c1c90cee3ecca7e8daf4346f5222271c7dddbd8"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2023-02-01-48570",
+  "titulo": "DEC nº 48570, de 01/02/2023",
+  "data": "2023-02-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48570/2023/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48570/2023/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ca1f30fea85fe2750f94f66f04bbaad39abc34e0162edc849e5ddc2071fb967f",
+  "coletado_em": "2026-10-21T08:44:05.825Z",
+  "sha256_fonte": "e02a06305283696b1cdf3b1bb3121264b6e2750384adec04428134fa800aa80f",
+  "sha256_markdown": "8e0e2cf3c4e0fdb45b6b308c49aba32a3a510429aacfcb4c545b1156266f1400"
+}

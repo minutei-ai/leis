@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-12-11-13935",
+  "titulo": "Lei nº 13.935 de 11/12/2019",
+  "data": "2019-12-11",
+  "fonte": "https://normas.leg.br/api/public/binario/7c4f86a2-8b20-4b0f-9d75-0fe210f0b8aa/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-12-11;13935",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-11%3B13935&tipo_documento=maior-detalhe",
+  "sha256_dados": "f9b79129e8fd94657731e5d8e5a691a7d764f92f1ef0771ba7438539286059c3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:44:49.775Z",
+  "sha256_fonte": "bfe5a4727a0575ea0982e8e5ede518b08b74eb251da3350b7e86e6ae4a656039",
+  "sha256_markdown": "fdac227dfcac31ed4fd76761f61d853290cab98e99e0985429c88b9673e2e5ac"
+}

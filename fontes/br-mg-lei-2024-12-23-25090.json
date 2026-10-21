@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2024-12-23-25090",
+  "titulo": "LEI nº 25090, de 23/12/2024",
+  "data": "2024-12-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25090/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25090/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e392571b27ad441026f74b47b86bd1e2f953263b1965ee613a23c7780e98b63e",
+  "coletado_em": "2026-10-21T08:43:30.821Z",
+  "sha256_fonte": "f03fb555cb67c2c1a6cfa08db62f58f293e1c03cfbcb8ed3cb67ee58a69e429e",
+  "sha256_markdown": "581652a054a9588a471e011644d68b402335292da259701c8e647785b865fc51"
+}

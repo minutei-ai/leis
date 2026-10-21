@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-04-15-49022",
+  "titulo": "DEC nº 49022, de 15/04/2025",
+  "data": "2025-04-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49022/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49022/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "b041fa4d39fce775461e9d428b1212e32894f9165339af81bf8e08d59f9cd94c",
+  "coletado_em": "2026-10-21T08:30:55.278Z",
+  "sha256_fonte": "0d7546f60363635335f1293a6d4c3dfe0f2ea710dc85c29bae526205794d8c78",
+  "sha256_markdown": "8384cb1217961fe4b66fa5db9ffdeab193a41efd682c6b23cf9a3e1e6c04951d"
+}

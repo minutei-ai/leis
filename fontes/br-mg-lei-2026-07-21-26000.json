@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-07-21-26000",
+  "titulo": "LEI nº 26000, de 21/07/2026",
+  "data": "2026-07-21",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26000/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26000/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "4fcd5add305a54a0b135291c73235ca014118d7aced2dde00675e4e9b6c59a16",
+  "coletado_em": "2026-10-21T08:28:43.884Z",
+  "sha256_fonte": "962208a33c5fe417b348e9080caf53b577f9e356078287e5a916938671f9aa47",
+  "sha256_markdown": "fc13ec210604f83dc6756602ddbfe975579cc83ad8f5256dba82b71a8fe39a6e"
+}

@@ -1,0 +1,232 @@
+{
+  "ano_publicacao": 1897,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1897",
+    "ano-final": "31/12/1897",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:03.494Z",
+  "total": 35,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "0126f308e0155f5f30f02b1401052cc3532812fb0bd1075e62bf666814f21d9e"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-333-de-23-de-dezembro-de-1897",
+      "titulo": "LEI Nº 333 de 23 de Dezembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-12-23-333",
+      "data": "1897-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-332-de-23-de-dezembro-de-1897",
+      "titulo": "LEI Nº 332 de 23 de Dezembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-12-23-332",
+      "data": "1897-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-331-de-17-de-dezembro-de-1897",
+      "titulo": "LEI Nº 331 de 17 de Dezembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-12-17-331",
+      "data": "1897-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-330-de-15-de-dezembro-de-1897",
+      "titulo": "LEI Nº 330 de 15 de Dezembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-12-15-330",
+      "data": "1897-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-329-de-8-de-novembro-de-1897",
+      "titulo": "LEI Nº 329 de 8 de Novembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-11-08-329",
+      "data": "1897-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-328-de-30-de-setembro-de-1897",
+      "titulo": "LEI Nº 328 de 30 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-30-328",
+      "data": "1897-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-327-de-30-de-setembro-de-1897",
+      "titulo": "LEI Nº 327 de 30 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-30-327",
+      "data": "1897-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-326-de-22-de-setembro-de-1897",
+      "titulo": "LEI Nº 326 de 22 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-22-326",
+      "data": "1897-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-325-de-22-de-setembro-de-1897",
+      "titulo": "LEI Nº 325 de 22 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-22-325",
+      "data": "1897-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-324-de-22-de-setembro-de-1897",
+      "titulo": "LEI Nº 324 de 22 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-22-324",
+      "data": "1897-09-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-323-de-21-de-setembro-de-1897",
+      "titulo": "LEI Nº 323 de 21 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-21-323",
+      "data": "1897-09-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-322-de-20-de-setembro-de-1897",
+      "titulo": "LEI Nº 322 de 20 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-20-322",
+      "data": "1897-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-321-de-20-de-setembro-de-1897",
+      "titulo": "LEI Nº 321 de 20 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-20-321",
+      "data": "1897-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-320-de-20-de-setembro-de-1897",
+      "titulo": "LEI Nº 320 de 20 de Setembro de 1897",
+      "id": "br-municipal-3550308-lei-1897-09-20-320",
+      "data": "1897-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-319-de-30-de-agosto-de-1897",
+      "titulo": "LEI Nº 319 de 30 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-30-319",
+      "data": "1897-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-318-de-30-de-agosto-de-1897",
+      "titulo": "LEI Nº 318 de 30 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-30-318",
+      "data": "1897-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-317-de-27-de-agosto-de-1897",
+      "titulo": "LEI Nº 317 de 27 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-27-317",
+      "data": "1897-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-316-de-23-de-agosto-de-1897",
+      "titulo": "LEI Nº 316 de 23 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-23-316",
+      "data": "1897-08-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-315-de-14-de-agosto-de-1897",
+      "titulo": "LEI Nº 315 de 14 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-14-315",
+      "data": "1897-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-314-de-13-de-agosto-de-1897",
+      "titulo": "LEI Nº 314 de 13 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-13-314",
+      "data": "1897-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-313-de-13-de-agosto-de-1897",
+      "titulo": "LEI Nº 313 de 13 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-13-313",
+      "data": "1897-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-312-de-7-de-agosto-de-1897",
+      "titulo": "LEI Nº 312 de 7 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-07-312",
+      "data": "1897-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-311-de-7-de-agosto-de-1897",
+      "titulo": "LEI Nº 311 de 7 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-07-311",
+      "data": "1897-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-310-de-7-de-agosto-de-1897",
+      "titulo": "LEI Nº 310 de 7 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-07-310",
+      "data": "1897-08-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-309-de-4-de-agosto-de-1897",
+      "titulo": "LEI Nº 309 de 4 de Agosto de 1897",
+      "id": "br-municipal-3550308-lei-1897-08-04-309",
+      "data": "1897-08-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-308-de-21-de-junho-de-1897",
+      "titulo": "LEI Nº 308 de 21 de Junho de 1897",
+      "id": "br-municipal-3550308-lei-1897-06-21-308",
+      "data": "1897-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-307-de-19-de-junho-de-1897",
+      "titulo": "LEI Nº 307 de 19 de Junho de 1897",
+      "id": "br-municipal-3550308-lei-1897-06-19-307",
+      "data": "1897-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-306-de-19-de-junho-de-1897",
+      "titulo": "LEI Nº 306 de 19 de Junho de 1897",
+      "id": "br-municipal-3550308-lei-1897-06-19-306",
+      "data": "1897-06-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-305-de-18-de-junho-de-1897",
+      "titulo": "LEI Nº 305 de 18 de Junho de 1897",
+      "id": "br-municipal-3550308-lei-1897-06-18-305",
+      "data": "1897-06-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-304-de-15-de-junho-de-1897",
+      "titulo": "LEI Nº 304 de 15 de Junho de 1897",
+      "id": "br-municipal-3550308-lei-1897-06-15-304",
+      "data": "1897-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-303-de-30-de-abril-de-1897",
+      "titulo": "LEI Nº 303 de 30 de Abril de 1897",
+      "id": "br-municipal-3550308-lei-1897-04-30-303",
+      "data": "1897-04-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-302-de-13-de-fevereiro-de-1897",
+      "titulo": "LEI Nº 302 de 13 de Fevereiro de 1897",
+      "id": "br-municipal-3550308-lei-1897-02-13-302",
+      "data": "1897-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-301-de-28-de-janeiro-de-1897",
+      "titulo": "LEI Nº 301 de 28 de Janeiro de 1897",
+      "id": "br-municipal-3550308-lei-1897-01-28-301",
+      "data": "1897-01-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-300-de-26-de-janeiro-de-1897",
+      "titulo": "LEI Nº 300 de 26 de Janeiro de 1897",
+      "id": "br-municipal-3550308-lei-1897-01-26-300",
+      "data": "1897-01-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-299-de-15-de-janeiro-de-1897",
+      "titulo": "LEI Nº 299 de 15 de Janeiro de 1897",
+      "id": "br-municipal-3550308-lei-1897-01-15-299",
+      "data": "1897-01-15"
+    }
+  ],
+  "pendencias": []
+}

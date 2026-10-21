@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-09-25239",
+  "titulo": "LEI nº 25239, de 09/05/2025",
+  "data": "2025-05-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25239/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25239/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "3851d808fe74f6df815ceb7a924d6be593c910ab33eddb5f002ca5c488684b27",
+  "coletado_em": "2026-10-21T08:31:13.744Z",
+  "sha256_fonte": "d0dca5f6fd5071d4abb8e97dac14056a483877e29f765e3d81560b745e079f2c",
+  "sha256_markdown": "04508bd2c21f16024979b6b3e77be13a8c4e96ed60526de5a3df191ac768a1b7"
+}

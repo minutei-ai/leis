@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-04-08-25204",
+  "titulo": "LEI nº 25204, de 08/04/2025",
+  "data": "2025-04-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25204/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25204/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "61e0739abf36dd4ada60b193e000aa195670fe48d7a2e77c79e16fe36916f55c",
+  "coletado_em": "2026-10-21T08:30:45.737Z",
+  "sha256_fonte": "99246fcacf25d568aae2096bc9a92a988f80a63063374e10e9dcb4978d78aa15",
+  "sha256_markdown": "acef0e811806c9dff25de64c314141fcb91aa7f9e79792893670442d0f9bbca0"
+}

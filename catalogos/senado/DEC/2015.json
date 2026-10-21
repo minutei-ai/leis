@@ -1,0 +1,3636 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2015",
+  "tipo": "DEC",
+  "ano": 2015,
+  "coletado_em": "2026-10-21T08:44:21.296Z",
+  "normas": [
+    {
+      "senadoId": "414422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8627",
+      "titulo": "Decreto nº 8.627 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8627",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8627",
+      "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTÉRIO DO TURISMO, ALTERA O DECRETO Nº 6.705, DE 19 DE DEZEMBRO DE 2008, QUE DISPÕE SOBRE O CONSELHO NACIONAL DE TURISMO, E REMANEJA CARGOS EM COMISSÃO."
+    },
+    {
+      "senadoId": "584615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8630",
+      "titulo": "Decreto nº 8.630 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8630",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8630",
+      "ementa": "PROMULGA O ACORDO NA ÁREA DE SUBMARINOS ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA FRANCESA, FIRMADO NO RIO DE JANEIRO, EM 23 DE DEZEMBRO DE 2008."
+    },
+    {
+      "senadoId": "584606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8628",
+      "titulo": "Decreto nº 8.628 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8628",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8628",
+      "ementa": "CRIA A MEDALHA \"MÉRITO ACANTO\" E ALTERA O DECRETO Nº 40.556, DE 17 DE DEZEMBRO DE 1956, QUE REGULA O USO DAS CONDECORAÇÕES NOS UNIFORMES MILITARES."
+    },
+    {
+      "senadoId": "584623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8632",
+      "titulo": "Decreto nº 8.632 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8632",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8632",
+      "ementa": "APROVA O PROGRAMA DE DISPÊNDIOS GLOBAIS - PDG PARA 2016 DAS EMPRESAS ESTATAIS FEDERAIS, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "584619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8631",
+      "titulo": "Decreto nº 8.631 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8631",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8631",
+      "ementa": "ALTERA OS ANEXOS I E II AO DECRETO Nº 8.383, DE 29 DE DEZEMBRO DE 2014, QUE APROVA O PROGRAMA DE DISPÊNDIOS GLOBAIS - PDG PARA 2015 DAS EMPRESAS ESTATAIS FEDERAIS, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "584611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8629",
+      "titulo": "Decreto nº 8.629 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8629",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8629",
+      "ementa": "ALTERA O DECRETO Nº 7.217, DE 21 DE JUNHO DE 2010, QUE REGULAMENTA A LEI Nº 11.445, DE 5 DE JANEIRO DE 2007, QUE ESTABELECE DIRETRIZES NACIONAIS PARA O SANEAMENTO BÁSICO."
+    },
+    {
+      "senadoId": "414414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8625",
+      "titulo": "Decreto nº 8.625 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8625",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8625",
+      "ementa": "CRIA A ORDEM DO MÉRITO DA ADVOCACIA-GERAL DA UNIÃO."
+    },
+    {
+      "senadoId": "414418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-30-8626",
+      "titulo": "Decreto nº 8.626 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "8626",
+      "urn": "urn:lex:br:federal:decreto:2015-12-30;8626",
+      "ementa": "ALTERA OS DECRETOS QUE ESPECIFICA, PARA PRORROGAR O PRAZO DE VIGÊNCIA DAS MARGENS DE PREFERÊNCIA."
+    },
+    {
+      "senadoId": "414382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8617",
+      "titulo": "Decreto nº 8.617 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8617",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8617",
+      "ementa": "DISCRIMINA AÇÕES DO PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO - PAC A SEREM EXECUTADAS POR MEIO DE TRANSFERÊNCIA OBRIGATÓRIA."
+    },
+    {
+      "senadoId": "414390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8619",
+      "titulo": "Decreto nº 8.619 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8619",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8619",
+      "ementa": "DISPÕE SOBRE O APOIO FINANCEIRO SUPLEMENTAR À MANUTENÇÃO E AO DESENVOLVIMENTO DA EDUCAÇÃO INFANTIL PARA O ATENDIMENTO EM CRECHES DE CRIANÇAS DE ZERO A QUARENTA E OITO MESES CADASTRADAS NO CENSO ESCOLAR DA EDUCAÇÃO BÁSICA CUJAS FAMÍLIAS SEJAM BENEFICIÁRIAS DO PROGRAMA BOLSA FAMÍLIA."
+    },
+    {
+      "senadoId": "414379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8616",
+      "titulo": "Decreto nº 8.616 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8616",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8616",
+      "ementa": "REGULAMENTA O DISPOSTO NA LEI COMPLEMENTAR Nº 148, DE 25 DE NOVEMBRO DE 2014, E NO ART. 2º DA LEI Nº 9.496, DE 11 DE SETEMBRO DE 1997, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "414406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8623",
+      "titulo": "Decreto nº 8.623 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8623",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8623",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA BOLÍVIA SOBRE COOPERAÇÃO NO DOMÍNIO DA DEFESA, FIRMADO EM BRASÍLIA, EM 14 DE FEVEREIRO DE 2007."
+    },
+    {
+      "senadoId": "414402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8622",
+      "titulo": "Decreto nº 8.622 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8622",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8622",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA COLÔMBIA SOBRE COOPERAÇÃO EM MATÉRIA DE DEFESA, FIRMADO EM BOGOTÁ, EM 19 DE JULHO DE 2008."
+    },
+    {
+      "senadoId": "414386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8618",
+      "titulo": "Decreto nº 8.618 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8618",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8618",
+      "ementa": "REGULAMENTA A LEI Nº 13.152, DE 29 DE JULHO DE 2015, QUE DISPÕE SOBRE O VALOR DO SALÁRIO MÍNIMO E A SUA POLÍTICA DE VALORIZAÇÃO DE LONGO PRAZO."
+    },
+    {
+      "senadoId": "414398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8621",
+      "titulo": "Decreto nº 8.621 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8621",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8621",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA JAMAICA SOBRE O EXERCÍCIO DE ATIVIDADE REMUNERADA POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, MILITAR, ADMINISTRATIVO E TÉCNICO, FIRMADO EM KINGSTON, EM 1º DE DEZEMBRO DE 2010."
+    },
+    {
+      "senadoId": "414394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8620",
+      "titulo": "Decreto nº 8.620 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8620",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8620",
+      "ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE EXIBIÇÃO DE OBRAS AUDIOVISUAIS CINEMATOGRÁFICAS BRASILEIRAS."
+    },
+    {
+      "senadoId": "414410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-29-8624",
+      "titulo": "Decreto nº 8.624 de 29/12/2015",
+      "data": "2015-12-29",
+      "numero": "8624",
+      "urn": "urn:lex:br:federal:decreto:2015-12-29;8624",
+      "ementa": "PROMULGA O ACORDO SOBRE O NOVO BANCO DE DESENVOLVIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A FEDERAÇÃO DA RÚSSIA, A REPÚBLICA DA ÍNDIA, A REPÚBLICA POPULAR DA CHINA E A REPÚBLICA DA ÁFRICA DO SUL, FIRMADO EM FORTALEZA, EM 15 DE JULHO DE 2014."
+    },
+    {
+      "senadoId": "414375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-23-8615",
+      "titulo": "Decreto nº 8.615 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "8615",
+      "urn": "urn:lex:br:federal:decreto:2015-12-23;8615",
+      "ementa": "CONCEDE INDULTO NATALINO E COMUTAÇÃO DE PENAS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "414371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-22-8614",
+      "titulo": "Decreto nº 8.614 de 22/12/2015",
+      "data": "2015-12-22",
+      "numero": "8614",
+      "urn": "urn:lex:br:federal:decreto:2015-12-22;8614",
+      "ementa": "REGULAMENTA A LEI COMPLEMENTAR Nº 121, DE 9 DE FEVEREIRO DE 2006, PARA INSTITUIR A POLÍTICA NACIONAL DE REPRESSÃO AO FURTO E ROUBO DE VEÍCULOS E CARGAS E PARA DISCIPLINAR A IMPLANTAÇÃO DO SISTEMA NACIONAL DE PREVENÇÃO, FISCALIZAÇÃO E REPRESSÃO AO FURTO E ROUBO DE VEÍCULOS E CARGAS."
+    },
+    {
+      "senadoId": "414362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-21-8612",
+      "titulo": "Decreto nº 8.612 de 21/12/2015",
+      "data": "2015-12-21",
+      "numero": "8612",
+      "urn": "urn:lex:br:federal:decreto:2015-12-21;8612",
+      "ementa": "INSTITUI A SALA NACIONAL DE COORDENAÇÃO E CONTROLE, PARA O ENFRETAMENTO DA DENGUE, DO VÍRUS CHINKUNGUNYA E DO ZIKA VÍRUS."
+    },
+    {
+      "senadoId": "414358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-21-8611",
+      "titulo": "Decreto nº 8.611 de 21/12/2015",
+      "data": "2015-12-21",
+      "numero": "8611",
+      "urn": "urn:lex:br:federal:decreto:2015-12-21;8611",
+      "ementa": "ALTERA O DECRETO Nº 5.520, DE 24 DE AGOSTO DE 2005, QUE INSTITUI O SISTEMA FEDERAL DE CULTURA - SFC E DISPÕE SOBRE A COMPOSIÇÃO E O FUNCIONAMENTO DO CONSELHO NACIONAL DE POLÍTICA CULTURAL - CNPC DO MINISTÉRIO DA CULTURA."
+    },
+    {
+      "senadoId": "414367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-21-8613",
+      "titulo": "Decreto nº 8.613 de 21/12/2015",
+      "data": "2015-12-21",
+      "numero": "8613",
+      "urn": "urn:lex:br:federal:decreto:2015-12-21;8613",
+      "ementa": "ALTERA O ANEXO AO DECRETO Nº 5.741, DE 30 DE MARÇO DE 2006, QUE REGULAMENTA OS ARTS. 27-A, 28-A E 29-A DA LEI Nº 8.171, DE 17 DE JANEIRO DE 1991, E ORGANIZA O SISTEMA UNIFICADO DE ATENÇÃO À SANIDADE AGROPECUÁRIA."
+    },
+    {
+      "senadoId": "414345",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8608",
+      "titulo": "Decreto nº 8.608 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8608",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8608",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ARGELINA DEMOCRÁTICA E POPULAR SOBRE TRANSPORTE E NAVEGAÇÃO MARÍTIMA, FIRMADO EM ARGEL, EM 8 DE FEVEREIRO DE 2006."
+    },
+    {
+      "senadoId": "414291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8594",
+      "titulo": "Decreto nº 8.594 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8594",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8594",
+      "ementa": "ALTERA O DECRETO Nº 71.733, DE 18 DE JANEIRO DE 1973, QUE REGULAMENTA A LEI Nº 5.809, DE 10 DE OUTUBRO DE 1972, QUE DISPÕE SOBRE RETRIBUIÇÃO E DIREITOS DO PESSOAL CIVIL E MILITAR EM SERVIÇO DA UNIÃO NO EXTERIOR."
+    },
+    {
+      "senadoId": "414337",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8606",
+      "titulo": "Decreto nº 8.606 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8606",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8606",
+      "ementa": "PROMULGA AS EMENDAS AO ACORDO RELATIVO À ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE E AO ACORDO OPERACIONAL, APROVADAS PELA 25ª ASSEMBLEIA DAS PARTES E PELA 31ª ASSEMBLEIA DE SIGNATÁRIOS."
+    },
+    {
+      "senadoId": "414315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8600",
+      "titulo": "Decreto nº 8.600 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8600",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8600",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO CONGO SOBRE O EXERCÍCIO DE ATIVIDADE REMUNERADA POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, MILITAR, ADMINISTRATIVO E TÉCNICO, FIRMADO EM BRASÍLIA, EM 9 DE SETEMBRO DE 2010."
+    },
+    {
+      "senadoId": "414330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8604",
+      "titulo": "Decreto nº 8.604 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8604",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8604",
+      "ementa": "PROMULGA O ACORDO SOBRE PRIVILÉGIOS E IMUNIDADES DO TRIBUNAL PENAL INTERNACIONAL, FIRMADO DURANTE A PRIMEIRA ASSEMBLEIA DE ESTADOS PARTES NO ESTATUTO DE ROMA."
+    },
+    {
+      "senadoId": "414354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8610",
+      "titulo": "Decreto nº 8.610 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8610",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8610",
+      "ementa": "PROMULGA O ACORDO SOBRE A SEGURANÇA DA AVIAÇÃO CIVIL ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A UNIÃO EUROPEIA, FIRMADO EM BRASÍLIA, EM 14 DE JULHO DE 2010."
+    },
+    {
+      "senadoId": "414299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8596",
+      "titulo": "Decreto nº 8.596 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8596",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8596",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA COLÔMBIA, PARA O ESTABELECIMENTO DA ZONA DE REGIME ESPECIAL FRONTEIRIÇO PARA AS LOCALIDADES DE TABATINGA, BRASIL, E LETÍCIA, COLÔMBIA, FIRMADO EM BOGOTÁ, COLÔMBIA, EM 19 DE SETEMBRO DE 2008."
+    },
+    {
+      "senadoId": "414323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8602",
+      "titulo": "Decreto nº 8.602 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8602",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8602",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO EM MATÉRIA DE COMUNICAÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI, FIRMADO EM BRASÍLIA, EM 1º DE ABRIL DE 2005."
+    },
+    {
+      "senadoId": "414303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8597",
+      "titulo": "Decreto nº 8.597 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8597",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8597",
+      "ementa": "REGULAMENTA A LEI Nº 11.898, DE 8 DE JANEIRO DE 2009, NA PARTE QUE DISPÕE SOBRE A ISENÇÃO DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS NAS ÁREAS DE LIVRE COMÉRCIO LOCALIZADAS NOS MUNICÍPIOS DE TABATINGA, NO ESTADO DO AMAZONAS, GUAJARÁ-MIRIM, NO ESTADO DE RONDÔNIA, MACAPÁ E SANTANA, NO ESTADO DO AMAPÁ, E BRASILÉIA E CRUZEIRO DO SUL, NO ESTADO DO ACRE."
+    },
+    {
+      "senadoId": "414307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8598",
+      "titulo": "Decreto nº 8.598 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8598",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8598",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO DO LESOTO, FIRMADO EM BRASÍLIA, EM 8 DE SETEMBRO DE 2010."
+    },
+    {
+      "senadoId": "414326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8603",
+      "titulo": "Decreto nº 8.603 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8603",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8603",
+      "ementa": "PROMULGA O MEMORANDO DE ENTENDIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA DA COLÔMBIA PARA A COOPERAÇÃO NO COMBATE DA FABRICAÇÃO E O TRÁFICO ILÍCITOS DE ARMAS DE FOGO, MUNIÇÕES, ACESSÓRIOS, EXPLOSIVOS E OUTROS MATERIAIS RELACIONADOS, FIRMADO EM BOGOTÁ, EM 19 DE JULHO DE 2008."
+    },
+    {
+      "senadoId": "414319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8601",
+      "titulo": "Decreto nº 8.601 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8601",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8601",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO CONGO SOBRE O EXERCÍCIO DE ATIVIDADE REMUNERADA POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, MILITAR, ADMINISTRATIVO E TÉCNICO, FIRMADO EM BRASÍLIA, EM 9 DE SETEMBRO DE 2010."
+    },
+    {
+      "senadoId": "414295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8595",
+      "titulo": "Decreto nº 8.595 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8595",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8595",
+      "ementa": "CRIA A PRIMEIRA BRIGADA DE DEFESA ANTIAÉREA NA ESTRUTURA DO COMANDO DA AERONÁUTICA E ALTERA O ANEXO I AO DECRETO Nº 6.834, DE 30 DE ABRIL DE 2009, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DO GRUPO- DIREÇÃO E ASSESSORAMENTO SUPERIORES E DAS FUNÇÕES GRATIFICADAS DO COMANDO DA AERONÁUTICA DO MINISTÉRIO DA DEFESA.CRIA A PRIMEIRA BRIGADA DE DEFESA ANTIAÉREA NA ESTRUTURA DO COMANDO DA AERONÁUTICA E ALTERA O ANEXO I AO DECRETO Nº 6.834, DE 30 DE ABRIL DE 2009, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DO GRUPO- DIREÇÃO E ASSESSORAMENTO SUPERIORES E DAS FUNÇÕES GRATIFICADAS DO COMANDO DA AERONÁUTICA DO MINISTÉRIO DA DEFESA."
+    },
+    {
+      "senadoId": "414311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8599",
+      "titulo": "Decreto nº 8.599 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8599",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8599",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO BURUNDI, FIRMADO EM BRASÍLIA, EM 25 DE AGOSTO DE 2009."
+    },
+    {
+      "senadoId": "414333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8605",
+      "titulo": "Decreto nº 8.605 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8605",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8605",
+      "ementa": "PROMULGA A CONVENÇÃO Nº 185 (REVISADA) DA ORGANIZAÇÃO INTERNACIONAL DO TRABALHO - OIT E ANEXOS, ADOTADA DURANTE A 91ª CONFERÊNCIA INTERNACIONAL DO TRABALHO, REALIZADA EM 2003, QUE TRATA DO NOVO DOCUMENTO DE IDENTIDADE DO TRABALHADOR MARÍTIMO."
+    },
+    {
+      "senadoId": "414349",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8609",
+      "titulo": "Decreto nº 8.609 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8609",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8609",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AMÉRICA SOBRE COOPERAÇÃO EM MATÉRIA DE DEFESA, FIRMADO EM WASHINGTON, EM 12 DE ABRIL DE 2010."
+    },
+    {
+      "senadoId": "414341",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-18-8607",
+      "titulo": "Decreto nº 8.607 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "8607",
+      "urn": "urn:lex:br:federal:decreto:2015-12-18;8607",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO EDUCACIONAL ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DAS SEICHELES, FIRMADO EM VITORIA, EM 16 DE SETEMBRO DE 2008."
+    },
+    {
+      "senadoId": "414287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-17-8593",
+      "titulo": "Decreto nº 8.593 de 17/12/2015",
+      "data": "2015-12-17",
+      "numero": "8593",
+      "urn": "urn:lex:br:federal:decreto:2015-12-17;8593",
+      "ementa": "DISPÕE SOBRE A CRIAÇÃO DO CONSELHO NACIONAL DE POLÍTICA INDIGENISTA - CNPI E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-16-8591",
+      "titulo": "Decreto nº 8.591 de 16/12/2015",
+      "data": "2015-12-16",
+      "numero": "8591",
+      "urn": "urn:lex:br:federal:decreto:2015-12-16;8591",
+      "ementa": "ALTERA O DECRETO Nº 8.133, DE 28 DE OUTUBRO DE 2013, QUE DISPÕE SOBRE A DECLARAÇÃO DE ESTADO DE EMERGÊNCIA FITOSSANITÁRIA OU ZOOSSANITÁRIA DE QUE TRATA A LEI Nº 12.873, DE 24 DE OUTUBRO DE 2013."
+    },
+    {
+      "senadoId": "414283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-16-8592",
+      "titulo": "Decreto nº 8.592 de 16/12/2015",
+      "data": "2015-12-16",
+      "numero": "8592",
+      "urn": "urn:lex:br:federal:decreto:2015-12-16;8592",
+      "ementa": "ALTERA O ANEXO AO DECRETO Nº 6.871, DE 4 DE JUNHO DE 2009, QUE REGULAMENTA A LEI Nº 8.918, DE 14 DE JULHO DE 1994, QUE DISPÕE SOBRE A PADRONIZAÇÃO, A CLASSIFICAÇÃO, O REGISTRO, A INSPEÇÃO, A PRODUÇÃO E A FISCALIZAÇÃO DE BEBIDAS."
+    },
+    {
+      "senadoId": "593384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-15-8590",
+      "titulo": "Decreto nº 8.590 de 15/12/2015",
+      "data": "2015-12-15",
+      "numero": "8590",
+      "urn": "urn:lex:br:federal:decreto:2015-12-15;8590",
+      "ementa": "APROVA O ESTATUTO SOCIAL DA EMPRESA GESTORA DE ATIVOS - EMGEA."
+    },
+    {
+      "senadoId": "593376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-15-8588",
+      "titulo": "Decreto nº 8.588 de 15/12/2015",
+      "data": "2015-12-15",
+      "numero": "8588",
+      "urn": "urn:lex:br:federal:decreto:2015-12-15;8588",
+      "ementa": "ALTERA O DECRETO Nº 8.005, DE 15 DE MAIO DE 2013, QUE DISPÕE SOBRE O REMANEJAMENTO, EM CARÁTER TEMPORÁRIO, DE CARGOS EM COMISSÃO PARA O INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL - IPHAN."
+    },
+    {
+      "senadoId": "593380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-15-8589",
+      "titulo": "Decreto nº 8.589 de 15/12/2015",
+      "data": "2015-12-15",
+      "numero": "8589",
+      "urn": "urn:lex:br:federal:decreto:2015-12-15;8589",
+      "ementa": "ALTERA O DECRETO Nº 8.579, DE 26 DE NOVEMBRO DE 2015, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA."
+    },
+    {
+      "senadoId": "593372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-11-8587",
+      "titulo": "Decreto nº 8.587 de 11/12/2015",
+      "data": "2015-12-11",
+      "numero": "8587",
+      "urn": "urn:lex:br:federal:decreto:2015-12-11;8587",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO PROGRAMA NACIONAL DE REESTRUTURAÇÃO DOS HOSPITAIS UNIVERSITÁRIOS FEDERAIS - REHUF E ALTERA O DECRETO Nº 7.082, DE 27 DE JANEIRO DE 2010."
+    },
+    {
+      "senadoId": "593368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-09-8586",
+      "titulo": "Decreto nº 8.586 de 09/12/2015",
+      "data": "2015-12-09",
+      "numero": "8586",
+      "urn": "urn:lex:br:federal:decreto:2015-12-09;8586",
+      "ementa": "ALTERA O DECRETO Nº 6.754, DE 28 DE JANEIRO DE 2009, QUE REGULAMENTA A LEI Nº 10.304, DE 5 DE NOVEMBRO DE 2001, QUE DISPÕE SOBRE A TRANSFERÊNCIA AO DOMÍNIO DO ESTADO DE RORAIMA DE TERRAS PERTENCENTES À UNIÃO."
+    },
+    {
+      "senadoId": "593364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-08-8585",
+      "titulo": "Decreto nº 8.585 de 08/12/2015",
+      "data": "2015-12-08",
+      "numero": "8585",
+      "urn": "urn:lex:br:federal:decreto:2015-12-08;8585",
+      "ementa": "ALTERA O DECRETO Nº 57.654, DE 20 DE JANEIRO DE 1966, QUE REGULAMENTA A LEI Nº 4.375, DE 17 DE AGOSTO DE 1964 - LEI DO SERVIÇO MILITAR, PARA DISPOR SOBRE CERTIFICADOS MILITARES."
+    },
+    {
+      "senadoId": "593360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-07-8584",
+      "titulo": "Decreto nº 8.584 de 07/12/2015",
+      "data": "2015-12-07",
+      "numero": "8584",
+      "urn": "urn:lex:br:federal:decreto:2015-12-07;8584",
+      "ementa": "ALTERA O DECRETO Nº 7.397, DE 22 DE DEZEMBRO DE 2010, QUE INSTITUI A ESTRATÉGIA NACIONAL DE EDUCAÇÃO FINANCEIRA - ENEF E DISPÕE SOBRE SUA GESTÃO."
+    },
+    {
+      "senadoId": "593356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-04-8583",
+      "titulo": "Decreto nº 8.583 de 04/12/2015",
+      "data": "2015-12-04",
+      "numero": "8583",
+      "urn": "urn:lex:br:federal:decreto:2015-12-04;8583",
+      "ementa": "ALTERA O DECRETO Nº 7.974, DE 1º DE ABRIL DE 2013, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA DEFESA."
+    },
+    {
+      "senadoId": "593352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-04-8582",
+      "titulo": "Decreto nº 8.582 de 04/12/2015",
+      "data": "2015-12-04",
+      "numero": "8582",
+      "urn": "urn:lex:br:federal:decreto:2015-12-04;8582",
+      "ementa": "DELEGA COMPETÊNCIA AO MINISTRO DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO PARA A PRÁTICA DOS ATOS QUE ESPECIFICA."
+    },
+    {
+      "senadoId": "593348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-12-03-8581",
+      "titulo": "Decreto nº 8.581 de 03/12/2015",
+      "data": "2015-12-03",
+      "numero": "8581",
+      "urn": "urn:lex:br:federal:decreto:2015-12-03;8581",
+      "ementa": "ALTERA O DECRETO Nº 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015."
+    },
+    {
+      "senadoId": "593344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-27-8580",
+      "titulo": "Decreto nº 8.580 de 27/11/2015",
+      "data": "2015-11-27",
+      "numero": "8580",
+      "urn": "urn:lex:br:federal:decreto:2015-11-27;8580",
+      "ementa": "ALTERA O DECRETO Nº 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA, ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015."
+    },
+    {
+      "senadoId": "593328",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-26-8576",
+      "titulo": "Decreto nº 8.576 de 26/11/2015",
+      "data": "2015-11-26",
+      "numero": "8576",
+      "urn": "urn:lex:br:federal:decreto:2015-11-26;8576",
+      "ementa": "INSTITUI A COMISSÃO NACIONAL PARA REDUÇÃO DAS EMISSÕES DE GASES DE EFEITO ESTUFA PROVENIENTES DO DESMATAMENTO E DA DEGRADAÇÃO FLORESTAL, CONSERVAÇÃO DOS ESTOQUES DE CARBONO FLORESTAL, MANEJO SUSTENTÁVEL DE FLORESTAS E AUMENTO DE ESTOQUES DE CARBONO FLORESTAL - REDD+."
+    },
+    {
+      "senadoId": "593332",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-26-8577",
+      "titulo": "Decreto nº 8.577 de 26/11/2015",
+      "data": "2015-11-26",
+      "numero": "8577",
+      "urn": "urn:lex:br:federal:decreto:2015-11-26;8577",
+      "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DA CASA MILITAR DA PRESIDÊNCIA DA REPÚBLICA E REMANEJA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA."
+    },
+    {
+      "senadoId": "593340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-26-8579",
+      "titulo": "Decreto nº 8.579 de 26/11/2015",
+      "data": "2015-11-26",
+      "numero": "8579",
+      "urn": "urn:lex:br:federal:decreto:2015-11-26;8579",
+      "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA, ALTERA O ANEXO II AO DECRETO Nº 5.135, DE 7 DE JULHO DE 2004, O DECRETO Nº 8.364, DE 17 DE NOVEMBRO DE 2014, O DECRETO Nº 6.884, DE 25 DE JUNHO DE 2009, O DECRETO Nº 8.414, DE 26 DE FEVEREIRO DE 2015, O DECRETO Nº 4.376, DE 13 DE SETEMBRO DE 2002, O DECRETO NO 8.373, DE 11 DE DEZEMBRO DE 2014, E O DECRETO Nº 5.490, DE 14 DE JULHO DE 2005, E REMANEJA CARGOS EM COMISSÃO."
+    },
+    {
+      "senadoId": "593336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-26-8578",
+      "titulo": "Decreto nº 8.578 de 26/11/2015",
+      "data": "2015-11-26",
+      "numero": "8578",
+      "urn": "urn:lex:br:federal:decreto:2015-11-26;8578",
+      "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO E DISPÕE SOBRE A CRIAÇÃO DA COMISSÃO DE TRANSIÇÃO E INVENTARIANÇA DA EXTINTA SECRETARIA DE ASSUNTOS ESTRATÉGICOS DA PRESIDÊNCIA DA REPÚBLICA."
+    },
+    {
+      "senadoId": "593324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-25-8575",
+      "titulo": "Decreto nº 8.575 de 25/11/2015",
+      "data": "2015-11-25",
+      "numero": "8575",
+      "urn": "urn:lex:br:federal:decreto:2015-11-25;8575",
+      "ementa": "ALTERA O DECRETO Nº 2.444, DE 30 DE DEZEMBRO DE 1997, QUE DISPÕE SOBRE A INCLUSÃO, NO PROGRAMA NACIONAL DE DESESTATIZAÇÃO - PND, DAS RODOVIAS FEDERAIS QUE MENCIONA."
+    },
+    {
+      "senadoId": "593319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-24-8574",
+      "titulo": "Decreto nº 8.574 de 24/11/2015",
+      "data": "2015-11-24",
+      "numero": "8574",
+      "urn": "urn:lex:br:federal:decreto:2015-11-24;8574",
+      "ementa": "ALTERA O ANEXO AO DECRETO Nº 8.399, DE 4 DE FEVEREIRO DE 2015, QUE DISTRIBUI O EFETIVO DE PESSOAL MILITAR DO EXÉRCITO EM TEMPO DE PAZ PARA 2015."
+    },
+    {
+      "senadoId": "593315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-19-8573",
+      "titulo": "Decreto nº 8.573 de 19/11/2015",
+      "data": "2015-11-19",
+      "numero": "8573",
+      "urn": "urn:lex:br:federal:decreto:2015-11-19;8573",
+      "ementa": "DISPÕE SOBRE O CONSUMIDOR.GOV.BR, SISTEMA ALTERNATIVO DE SOLUÇÃO DE CONFLITOS DE CONSUMO, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-13-8572",
+      "titulo": "Decreto nº 8.572 de 13/11/2015",
+      "data": "2015-11-13",
+      "numero": "8572",
+      "urn": "urn:lex:br:federal:decreto:2015-11-13;8572",
+      "ementa": "ALTERA O DECRETO Nº 5.113, DE 22 DE JUNHO DE 2004, QUE REGULAMENTA O ART. 20, INCISO XVI, DA LEI Nº 8.036, DE 11 DE MAIO DE 1990, QUE DISPÕE SOBRE O FUNDO DE GARANTIA DO TEMPO DE SERVIÇO - FGTS."
+    },
+    {
+      "senadoId": "593295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-12-8568",
+      "titulo": "Decreto nº 8.568 de 12/11/2015",
+      "data": "2015-11-12",
+      "numero": "8568",
+      "urn": "urn:lex:br:federal:decreto:2015-11-12;8568",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONAGÉSIMO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (91PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 12 DE OUTUBRO DE 2011."
+    },
+    {
+      "senadoId": "593303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-12-8570",
+      "titulo": "Decreto nº 8.570 de 12/11/2015",
+      "data": "2015-11-12",
+      "numero": "8570",
+      "urn": "urn:lex:br:federal:decreto:2015-11-12;8570",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEXAGÉSIMO OITAVO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (68PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 7 DE JULHO DE 2009."
+    },
+    {
+      "senadoId": "593307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-12-8571",
+      "titulo": "Decreto nº 8.571 de 12/11/2015",
+      "data": "2015-11-12",
+      "numero": "8571",
+      "urn": "urn:lex:br:federal:decreto:2015-11-12;8571",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO OITAVO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (88PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 12 DE OUTUBRO DE 2011."
+    },
+    {
+      "senadoId": "593299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-12-8569",
+      "titulo": "Decreto nº 8.569 de 12/11/2015",
+      "data": "2015-11-12",
+      "numero": "8569",
+      "urn": "urn:lex:br:federal:decreto:2015-11-12;8569",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO NONO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (89PAACE18), FIRMANDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 12 DE OUTUBRO DE 2011."
+    },
+    {
+      "senadoId": "593291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-12-8567",
+      "titulo": "Decreto nº 8.567 de 12/11/2015",
+      "data": "2015-11-12",
+      "numero": "8567",
+      "urn": "urn:lex:br:federal:decreto:2015-11-12;8567",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 58, FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI, A REPÚBLICA ORIENTAL DO URUGUAI E A REPÚBLICA DO PERU, EM MONTEVIDÉU, EM 30 DE NOVEMBRO DE 2005."
+    },
+    {
+      "senadoId": "593267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8561",
+      "titulo": "Decreto nº 8.561 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8561",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8561",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO SEGUNDO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (82PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 28 DE FEVEREIRO DE 2011."
+    },
+    {
+      "senadoId": "593259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8559",
+      "titulo": "Decreto nº 8.559 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8559",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8559",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONAGÉSIMO SÉTIMO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (97PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 14 DE NOVEMBRO DE 2014."
+    },
+    {
+      "senadoId": "593275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8563",
+      "titulo": "Decreto nº 8.563 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8563",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8563",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGÉSIMO NONO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (79PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 17 DE DEZEMBRO DE 2010."
+    },
+    {
+      "senadoId": "593279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8564",
+      "titulo": "Decreto nº 8.564 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8564",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8564",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGÉSIMO SEXTO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (76PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 17 DE DEZEMBRO DE 2010."
+    },
+    {
+      "senadoId": "593287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8566",
+      "titulo": "Decreto nº 8.566 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8566",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8566",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO VIGÉSIMO PROTOCOLO ADICIONAL AO ACORDO REGIONAL DE ABERTURA DE MERCADOS EM FAVOR DA BOLÍVIA (20PA-AR.AM1), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E O ESTADO PLURINACIONAL DA BOLÍVIA, EM 27 DE OUTUBRO DE 2010."
+    },
+    {
+      "senadoId": "593255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8558",
+      "titulo": "Decreto nº 8.558 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8558",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8558",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONAGÉSIMO OITAVO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (98PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 14 DE NOVEMBRO DE 2014."
+    },
+    {
+      "senadoId": "593283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8565",
+      "titulo": "Decreto nº 8.565 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8565",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8565",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONAGÉSIMO TERCEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (93PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 22 DE MARÇO DE 2012."
+    },
+    {
+      "senadoId": "593247",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8556",
+      "titulo": "Decreto nº 8.556 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8556",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8556",
+      "ementa": "ALTERA O DECRETO Nº 4.115, DE 6 DE FEVEREIRO DE 2002, QUE DISPÕE SOBRE A ORDEM NACIONAL DO MÉRITO CIENTÍFICO"
+    },
+    {
+      "senadoId": "593251",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8557",
+      "titulo": "Decreto nº 8.557 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8557",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8557",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUINQUAGÉSIMO SÉTIMO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 35 (57PA-ACE35), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, ESTADOS PARTES DO MERCOSUL, E A REPÚBLICA DO CHILE, EM 24 DE NOVEMBRO DE 2014."
+    },
+    {
+      "senadoId": "593263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8560",
+      "titulo": "Decreto nº 8.560 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8560",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8560",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONAGÉSIMO NONO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (99PA-ACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 14 DE NOVEMBRO DE 2014."
+    },
+    {
+      "senadoId": "593271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-11-8562",
+      "titulo": "Decreto nº 8.562 de 11/11/2015",
+      "data": "2015-11-11",
+      "numero": "8562",
+      "urn": "urn:lex:br:federal:decreto:2015-11-11;8562",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGÉSIMO QUINTO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (75PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM17 DE DEZEMBRO DE 2010."
+    },
+    {
+      "senadoId": "593243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-06-8555",
+      "titulo": "Decreto nº 8.555 de 06/11/2015",
+      "data": "2015-11-06",
+      "numero": "8555",
+      "urn": "urn:lex:br:federal:decreto:2015-11-06;8555",
+      "ementa": "DELEGA COMPETÊNCIA AO MINISTRO DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO PARA ABERTURA DE CRÉDITOS SUPLEMENTARES AUTORIZADOS NA LEI Nº 13.115, DE 20 DE ABRIL DE 2015."
+    },
+    {
+      "senadoId": "593239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-06-8554",
+      "titulo": "Decreto nº 8.554 de 06/11/2015",
+      "data": "2015-11-06",
+      "numero": "8554",
+      "urn": "urn:lex:br:federal:decreto:2015-11-06;8554",
+      "ementa": "INSTITUI A MEDALHA MÉRITO ESTADO-MAIOR CONJUNTO DAS FORÇAS ARMADAS, DISPÕE SOBRE AS MEDALHAS SÉRGIO VIEIRA DE MELLO E MÉRITO DA AVIAÇÃO DE SEGURANÇA PÚBLICA MAJOR IBES CARLOS PACHECO E ALTERA O DECRETO Nº 40.556, DE 17 DE DEZEMBRO DE 1956, QUE REGULA O USO DAS CONDECORAÇÕES NOS UNIFORMES MILITARES."
+    },
+    {
+      "senadoId": "593232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-03-8552",
+      "titulo": "Decreto nº 8.552 de 03/11/2015",
+      "data": "2015-11-03",
+      "numero": "8552",
+      "urn": "urn:lex:br:federal:decreto:2015-11-03;8552",
+      "ementa": "REGULAMENTA A LEI Nº 11.265, DE 3 DE JANEIRO DE 2006, QUE DISPÕE SOBRE A COMERCIALIZAÇÃO DE ALIMENTOS PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA E DE PRODUTOS DE PUERICULTURA CORRELATOS."
+    },
+    {
+      "senadoId": "593235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-11-03-8553",
+      "titulo": "Decreto nº 8.553 de 03/11/2015",
+      "data": "2015-11-03",
+      "numero": "8553",
+      "urn": "urn:lex:br:federal:decreto:2015-11-03;8553",
+      "ementa": "INSTITUI O PACTO NACIONAL PARA ALIMENTAÇÃO SAUDÁVEL."
+    },
+    {
+      "senadoId": "593228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-29-8551",
+      "titulo": "Decreto nº 8.551 de 29/10/2015",
+      "data": "2015-10-29",
+      "numero": "8551",
+      "urn": "urn:lex:br:federal:decreto:2015-10-29;8551",
+      "ementa": "ALTERA O DECRETO Nº 8.407, DE 24 DE FEVEREIRO DE 2015, QUE DISPÕE SOBRE A REALIZAÇÃO, NO EXERCÍCIO DE 2015, DE DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS."
+    },
+    {
+      "senadoId": "414261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-23-8545",
+      "titulo": "Decreto nº 8.545 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "8545",
+      "urn": "urn:lex:br:federal:decreto:2015-10-23;8545",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA GUINÉ EQUATORIAL SOBRE O EXERCÍCIO DE ATIVIDADE REMUNERADA POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, MILITAR, ADMINISTRATIVO E TÉCNICO DAS MISSÕES DIPLOMÁTICAS, REPARTIÇÕES CONSULARES E PERANTE ORGANIZAÇÕES INTERNACIONAIS, FIRMADO EM MALABO, EM 5 DE JULHO DE 2010."
+    },
+    {
+      "senadoId": "414277",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-23-8549",
+      "titulo": "Decreto nº 8.549 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "8549",
+      "urn": "urn:lex:br:federal:decreto:2015-10-23;8549",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE HONDURAS SOBRE COOPERAÇÃO NO DOMÍNIO DA DEFESA, FIRMADO EM TEGUCIGALPA, EM 27 DE JULHO DE 2007."
+    },
+    {
+      "senadoId": "414273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-23-8548",
+      "titulo": "Decreto nº 8.548 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "8548",
+      "urn": "urn:lex:br:federal:decreto:2015-10-23;8548",
+      "ementa": "PROMULGA O ACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI SOBRE TRANSPORTE FLUVIAL E LACUSTRE NA HIDROVIA URUGUAI-BRASIL, FIRMADO EM SANTANA DO LIVRAMENTO, EM 30 DE JULHO DE 2010."
+    },
+    {
+      "senadoId": "414281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-23-8550",
+      "titulo": "Decreto nº 8.550 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "8550",
+      "urn": "urn:lex:br:federal:decreto:2015-10-23;8550",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 59 (9PA-ACE59), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, ESTADOS PARTES DO MERCOSUL, A REPÚBLICA DA COLÔMBIA E A REPÚBLICA DO EQUADOR, PAÍSES-MEMBROS DA COMUNIDADE ANDINA, E A REPÚBLICA BOLIVARIANA DA VENEZUELA, DE 22 DE DEZEMBRO DE 2011."
+    },
+    {
+      "senadoId": "414265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-23-8546",
+      "titulo": "Decreto nº 8.546 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "8546",
+      "urn": "urn:lex:br:federal:decreto:2015-10-23;8546",
+      "ementa": "PROMULGA O INSTRUMENTO DE ADESÃO DA REPÚBLICA FEDERATIVA DO BRASIL AO BANCO DE DESENVOLVIMENTO DO CARIBE, FIRMADO EM 20 DE DEZEMBRO DE 2010."
+    },
+    {
+      "senadoId": "414269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-23-8547",
+      "titulo": "Decreto nº 8.547 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "8547",
+      "urn": "urn:lex:br:federal:decreto:2015-10-23;8547",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE MOÇAMBIQUE NO DOMÍNIO DA DEFESA, FIRMADO EM MAPUTO, EM 26 DE MARÇO DE 2009."
+    },
+    {
+      "senadoId": "414257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-21-8544",
+      "titulo": "Decreto nº 8.544 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "8544",
+      "urn": "urn:lex:br:federal:decreto:2015-10-21;8544",
+      "ementa": "ALTERA O DECRETO Nº 7.819, DE 3 DE OUTUBRO DE 2012, QUE REGULAMENTA OS ARTS. 40 A 44 DA LEI Nº 12.715, DE 17 DE SETEMBRO DE 2012, QUE DISPÕE SOBRE O PROGRAMA DE INCENTIVO À INOVAÇÃO TECNOLÓGICA E ADENSAMENTO DA CADEIA PRODUTIVA DE VEÍCULOS AUTOMOTORES - INOVAR-AUTO E O DECRETO Nº 7.660, DE 23 DE DEZEMBRO DE 2011, QUE APROVA A TABELA DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI."
+    },
+    {
+      "senadoId": "414254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-21-8543",
+      "titulo": "Decreto nº 8.543 de 21/10/2015",
+      "data": "2015-10-21",
+      "numero": "8543",
+      "urn": "urn:lex:br:federal:decreto:2015-10-21;8543",
+      "ementa": "ALTERA O DECRETO Nº 8.415, DE 27 DE FEVEREIRO DE 2015, QUE REGULAMENTA A APLICAÇÃO DO REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA."
+    },
+    {
+      "senadoId": "414250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-16-8542",
+      "titulo": "Decreto nº 8.542 de 16/10/2015",
+      "data": "2015-10-16",
+      "numero": "8542",
+      "urn": "urn:lex:br:federal:decreto:2015-10-16;8542",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ISLÂMICA DO IRÃ SOBRE A ISENÇÃO DE VISTO PARA PORTADORES DE PASSAPORTES DIPLOMÁTICOS, FIRMADO EM BRASÍLIA, EM 23 DE NOVEMBRO DE 2009."
+    },
+    {
+      "senadoId": "414246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-13-8541",
+      "titulo": "Decreto nº 8.541 de 13/10/2015",
+      "data": "2015-10-13",
+      "numero": "8541",
+      "urn": "urn:lex:br:federal:decreto:2015-10-13;8541",
+      "ementa": "ESTABELECE, NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA, AUTÁRQUICA E FUNDACIONAL, MEDIDAS DE RACIONALIZAÇÃO DO GASTO PÚBLICO NO USO DE VEÍCULOS OFICIAIS E NAS COMPRAS DE PASSAGENS AÉREAS PARA VIAGENS A SERVIÇO."
+    },
+    {
+      "senadoId": "414242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-09-8540",
+      "titulo": "Decreto nº 8.540 de 09/10/2015",
+      "data": "2015-10-09",
+      "numero": "8540",
+      "urn": "urn:lex:br:federal:decreto:2015-10-09;8540",
+      "ementa": "ESTABELECE, NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA, AUTÁRQUICA E FUNDACIONAL, MEDIDAS DE RACIONALIZAÇÃO DO GASTO PÚBLICO NAS CONTRATAÇÕES PARA AQUISIÇÃO DE BENS E PRESTAÇÃO DE SERVIÇOS E NA UTILIZAÇÃO DE TELEFONES CELULARES CORPORATIVOS E OUTROS DISPOSITIVOS."
+    },
+    {
+      "senadoId": "414238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-08-8539",
+      "titulo": "Decreto nº 8.539 de 08/10/2015",
+      "data": "2015-10-08",
+      "numero": "8539",
+      "urn": "urn:lex:br:federal:decreto:2015-10-08;8539",
+      "ementa": "DISPÕE SOBRE O USO DO MEIO ELETRÔNICO PARA A REALIZAÇÃO DO PROCESSO ADMINISTRATIVO NO ÂMBITO DOS ÓRGÃOS E DAS ENTIDADES DA ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA, AUTÁRQUICA E FUNDACIONAL."
+    },
+    {
+      "senadoId": "414234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-06-8538",
+      "titulo": "Decreto nº 8.538 de 06/10/2015",
+      "data": "2015-10-06",
+      "numero": "8538",
+      "urn": "urn:lex:br:federal:decreto:2015-10-06;8538",
+      "ementa": "REGULAMENTA O TRATAMENTO FAVORECIDO, DIFERENCIADO E SIMPLIFICADO PARA AS MICROEMPRESAS, EMPRESAS DE PEQUENO PORTE, AGRICULTORES FAMILIARES, PRODUTORES RURAIS PESSOA FÍSICA, MICROEMPREENDEDORES INDIVIDUAIS E SOCIEDADES COOPERATIVAS DE CONSUMO NAS CONTRATAÇÕES PÚBLICAS DE BENS, SERVIÇOS E OBRAS NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA FEDERAL."
+    },
+    {
+      "senadoId": "414230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-05-8537",
+      "titulo": "Decreto nº 8.537 de 05/10/2015",
+      "data": "2015-10-05",
+      "numero": "8537",
+      "urn": "urn:lex:br:federal:decreto:2015-10-05;8537",
+      "ementa": "REGULAMENTA A LEI Nº 12.852, DE 5 DE AGOSTO DE 2013, E A LEI Nº 12.933, DE 26 DE DEZEMBRO DE 2013, PARA DISPOR SOBRE O BENEFÍCIO DA MEIA-ENTRADA PARA ACESSO A EVENTOS ARTÍSTICO-CULTURAIS E ESPORTIVOS E PARA ESTABELECER OS PROCEDIMENTOS E OS CRITÉRIOS PARA A RESERVA DE VAGAS A JOVENS DE BAIXA RENDA NOS VEÍCULOS DO SISTEMA DE TRANSPORTE COLETIVO INTERESTADUAL."
+    },
+    {
+      "senadoId": "414226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-02-8536",
+      "titulo": "Decreto nº 8.536 de 02/10/2015",
+      "data": "2015-10-02",
+      "numero": "8536",
+      "urn": "urn:lex:br:federal:decreto:2015-10-02;8536",
+      "ementa": "ALTERA O ANEXO AO DECRETO Nº 6.129, DE 20 DE JUNHO DE 2007, QUE DISPÕE SOBRE A VINCULAÇÃO DAS ENTIDADES INTEGRANTES DA ADMINISTRAÇÃO PÚBLICA FEDERAL INDIRETA."
+    },
+    {
+      "senadoId": "414222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-10-01-8535",
+      "titulo": "Decreto nº 8.535 de 01/10/2015",
+      "data": "2015-10-01",
+      "numero": "8535",
+      "urn": "urn:lex:br:federal:decreto:2015-10-01;8535",
+      "ementa": "DISPÕE SOBRE A CONTRATAÇÃO DE SERVIÇOS DE INSTITUIÇÕES FINANCEIRAS PELOS ÓRGÃOS E ENTIDADES DO PODER EXECUTIVO FEDERAL."
+    },
+    {
+      "senadoId": "414211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-30-8532",
+      "titulo": "Decreto nº 8.532 de 30/09/2015",
+      "data": "2015-09-30",
+      "numero": "8532",
+      "urn": "urn:lex:br:federal:decreto:2015-09-30;8532",
+      "ementa": "ALTERA OS ANEXOS VIII, IX E XI DO DECRETO Nº 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015."
+    },
+    {
+      "senadoId": "414215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-30-8533",
+      "titulo": "Decreto nº 8.533 de 30/09/2015",
+      "data": "2015-09-30",
+      "numero": "8533",
+      "urn": "urn:lex:br:federal:decreto:2015-09-30;8533",
+      "ementa": "REGULAMENTA O DISPOSTO NO ART. 9º-A DA LEI Nº 10.925, DE 23 DE JULHO DE 2004, QUE DISPÕE SOBRE O CRÉDITO PRESUMIDO DA CONTRIBUIÇÃO PARA OS PROGRAMAS DE INTEGRAÇÃO SOCIAL E DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO - PIS/PASEP E DA CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS RELATIVO À AQUISIÇÃO DE LEITE IN NATURA, E INSTITUI O PROGRAMA MAIS LEITE SAUDÁVEL."
+    },
+    {
+      "senadoId": "414218",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-30-8534",
+      "titulo": "Decreto nº 8.534 de 30/09/2015",
+      "data": "2015-09-30",
+      "numero": "8534",
+      "urn": "urn:lex:br:federal:decreto:2015-09-30;8534",
+      "ementa": "ALTERA O DECRETO Nº 7.560, DE 8 DE SETEMBRO DE 2011, QUE DISPÕE SOBRE OS PROCEDIMENTOS A SEREM OBSERVADOS PELOS ÓRGÃOS DA ADMINISTRAÇÃO PÚBLICA FEDERAL QUANTO ÀS AÇÕES DO PODER EXECUTIVO FEDERAL NO ÂMBITO DA AUTORIDADE PÚBLICA OLÍMPICA - APO."
+    },
+    {
+      "senadoId": "414179",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8524",
+      "titulo": "Decreto nº 8.524 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8524",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8524",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2142 (2014), DE 5 DE MARÇO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO DE ARMAS APLICÁVEL À SOMÁLIA."
+    },
+    {
+      "senadoId": "414203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8530",
+      "titulo": "Decreto nº 8.530 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8530",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8530",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2178 (2014), DE 24 DE SETEMBRO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE TRATA DE COMBATENTES TERRORISTAS ESTRANGEIROS."
+    },
+    {
+      "senadoId": "414163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8520",
+      "titulo": "Decreto nº 8.520 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8520",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8520",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2174 (2014), DE 27 DE AGOSTO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO DE ARMAS APLICÁVEL À LÍBIA E AUTORIZA A IMPOSIÇÃO DE SANÇÕES A INDIVÍDUOS E A ENTIDADES."
+    },
+    {
+      "senadoId": "414191",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8527",
+      "titulo": "Decreto nº 8.527 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8527",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8527",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2198 (2015), DE 29 DE JANEIRO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O EMBARGO DE ARMAS APLICÁVEL À REPÚBLICA DEMOCRÁTICA DO CONGO."
+    },
+    {
+      "senadoId": "414167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8521",
+      "titulo": "Decreto nº 8.521 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8521",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8521",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2161 (2014), DE 17 DE JUNHO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE TRATA DE SANÇÕES A INDIVÍDUOS, GRUPOS, INICIATIVAS E ENTIDADES DA AL-QAEDA E ASSOCIADOS."
+    },
+    {
+      "senadoId": "414171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8522",
+      "titulo": "Decreto nº 8.522 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8522",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8522",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2160 (2014), DE 17 DE JUNHO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O REGIME DE SANÇÕES APLICÁVEL AO TALIBÃ E DÁ OUTRAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "414187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8526",
+      "titulo": "Decreto nº 8.526 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8526",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8526",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2199 (2015), DE 12 DE FEVEREIRO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE REAFIRMA OBRIGAÇÕES IMPOSTAS AOS ESTADOS-MEMBROS PARA COMBATER O TERRORISMO E O FINANCIAMENTO DO TERRORISMO E PARA COIBIR O COMÉRCIO DE ARMAS E MATERIAIS CONEXOS COM O ESTADO ISLÂMICO NO IRAQUE E NO LEVANTE, COM A FRENTE AL-NUSRA E COM INDIVÍDUOS, GRUPOS, EMPRESAS E ENTIDADES ASSOCIADOS À AL-QAEDA."
+    },
+    {
+      "senadoId": "414159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8519",
+      "titulo": "Decreto nº 8.519 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8519",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8519",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2204 (2015), DE 24 DE FEVEREIRO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O REGIME DE SANÇÕES SOBRE O IÊMEN PARA ESTENDER O PERÍODO DE APLICAÇÃO DAS SANÇÕES ESTABELECIDAS PELA RESOLUÇÃO 2140 (2014)."
+    },
+    {
+      "senadoId": "414195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8528",
+      "titulo": "Decreto nº 8.528 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8528",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8528",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2184 (2014), DE 12 DE NOVEMBRO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO DE ARMAS APLICÁVEL À SOMÁLIA."
+    },
+    {
+      "senadoId": "414207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8531",
+      "titulo": "Decreto nº 8.531 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8531",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8531",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2127 (2013), DE 5 DE DEZEMBRO DE 2013, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE, ENTRE OUTRAS DISPOSIÇÕES, ESTABELECE EMBARGO DE ARMAS À REPÚBLICA CENTRO-AFRICANA."
+    },
+    {
+      "senadoId": "414183",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8525",
+      "titulo": "Decreto nº 8.525 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8525",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8525",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2182 (2014), DE 24 DE OUTUBRO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO DE ARMAS APLICÁVEL À SOMÁLIA."
+    },
+    {
+      "senadoId": "414199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8529",
+      "titulo": "Decreto nº 8.529 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8529",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8529",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2207 (2015), DE 4 DE MARÇO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ESTENDE O MANDATO DO PAINEL DE PERITOS DO COMITÊ DE SANÇÕES RELATIVO À REPÚBLICA POPULAR DEMOCRÁTICA DA COREIA (COMITÊ 1718) ATÉ 5 DE ABRIL DE 2016."
+    },
+    {
+      "senadoId": "414175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-28-8523",
+      "titulo": "Decreto nº 8.523 de 28/09/2015",
+      "data": "2015-09-28",
+      "numero": "8523",
+      "urn": "urn:lex:br:federal:decreto:2015-09-28;8523",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2136 (2014), DE 30 DE JANEIRO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO DE ARMAS APLICÁVEL À REPÚBLICA DEMOCRÁTICA DO CONGO."
+    },
+    {
+      "senadoId": "414155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-18-8518",
+      "titulo": "Decreto nº 8.518 de 18/09/2015",
+      "data": "2015-09-18",
+      "numero": "8518",
+      "urn": "urn:lex:br:federal:decreto:2015-09-18;8518",
+      "ementa": "DISPÕE SOBRE A CARTEIRA DE IDENTIDADE DE MILITAR DAS FORÇAS ARMADAS, O DOCUMENTO DE IDENTIFICAÇÃO DE SEUS DEPENDENTES E PENSIONISTAS E O DOCUMENTO DE IDENTIFICAÇÃO DOS INTEGRANTES DA MARINHA MERCANTE."
+    },
+    {
+      "senadoId": "414147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-10-8516",
+      "titulo": "Decreto nº 8.516 de 10/09/2015",
+      "data": "2015-09-10",
+      "numero": "8516",
+      "urn": "urn:lex:br:federal:decreto:2015-09-10;8516",
+      "ementa": "REGULAMENTA A FORMAÇÃO DO CADASTRO NACIONAL DE ESPECIALISTAS DE QUE TRATAM O § 4º E § 5º DO ART. 1º DA LEI Nº 6.932, DE 7 DE JULHO DE 1981, E O ART. 35 DA LEI Nº 12.871, DE 22 DE OUTUBRO DE 2013."
+    },
+    {
+      "senadoId": "414151",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-10-8517",
+      "titulo": "Decreto nº 8.517 de 10/09/2015",
+      "data": "2015-09-10",
+      "numero": "8517",
+      "urn": "urn:lex:br:federal:decreto:2015-09-10;8517",
+      "ementa": "DISPÕE SOBRE A INCLUSÃO NO PROGRAMA NACIONAL DE DESESTATIZAÇÃO - PND DOS AEROPORTOS INTERNACIONAIS SALGADO FILHO, NO ESTADO DO RIO GRANDE DO SUL, DEPUTADO LUÍS EDUARDO MAGALHÃES, NO ESTADO DA BAHIA, HERCÍLIO LUZ, NO ESTADO DE SANTA CATARINA, E PINTO MARTINS, NO ESTADO DO CEARÁ, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "584602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-03-8514",
+      "titulo": "Decreto nº 8.514 de 03/09/2015",
+      "data": "2015-09-03",
+      "numero": "8514",
+      "urn": "urn:lex:br:federal:decreto:2015-09-03;8514",
+      "ementa": "ALTERA O DECRETO Nº 2.040, DE 21 DE OUTUBRO DE 1996, QUE APROVA O REGULAMENTO DE MOVIMENTAÇÃO PARA OFICIAIS E PRAÇAS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "584598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-03-8513",
+      "titulo": "Decreto nº 8.513 de 03/09/2015",
+      "data": "2015-09-03",
+      "numero": "8513",
+      "urn": "urn:lex:br:federal:decreto:2015-09-03;8513",
+      "ementa": "DISPÕE SOBRE A ANTECIPAÇÃO DO ABONO ANUAL DEVIDO AOS SEGURADOS E DEPENDENTES DA PREVIDÊNCIA SOCIAL NO ANO DE 2015."
+    },
+    {
+      "senadoId": "414143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-09-03-8515",
+      "titulo": "Decreto nº 8.515 de 03/09/2015",
+      "data": "2015-09-03",
+      "numero": "8515",
+      "urn": "urn:lex:br:federal:decreto:2015-09-03;8515",
+      "ementa": "DELEGA COMPETÊNCIA AO MINISTRO DE ESTADO DA DEFESA PARA A EDIÇÃO DE ATOS RELATIVOS A PESSOAL MILITAR."
+    },
+    {
+      "senadoId": "584590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-31-8511",
+      "titulo": "Decreto nº 8.511 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "8511",
+      "urn": "urn:lex:br:federal:decreto:2015-08-31;8511",
+      "ementa": "REVOGA O INCISO XXX DO CAPUT DO ART. 8º DO DECRETO Nº 6.306, DE 14 DE DEZEMBRO DE 2007, QUE REGULAMENTA O IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO E SEGURO, OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS - IOF."
+    },
+    {
+      "senadoId": "584586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-31-8510",
+      "titulo": "Decreto nº 8.510 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "8510",
+      "urn": "urn:lex:br:federal:decreto:2015-08-31;8510",
+      "ementa": "REGULAMENTA O DISPOSTO Nº ART. 14 DA MEDIDA PROVISÓRIA Nº 685, DE 21 DE JULHO DE 2015, NO § 5º DO ART. 33 DA MEDIDA PROVISÓRIA Nº 2.228-1, DE 6 DE SETEMBRO DE 2001, NO PARÁGRAFO ÚNICO DO ART. 23 DA LEI Nº 12.529, DE 30 DE NOVEMBRO DE 2011, E NO ART. 3º DA MEDIDA PROVISÓRIA Nº 687, DE 17 DE AGOSTO DE 2015."
+    },
+    {
+      "senadoId": "584594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-31-8512",
+      "titulo": "Decreto nº 8.512 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "8512",
+      "urn": "urn:lex:br:federal:decreto:2015-08-31;8512",
+      "ementa": "ALTERA A TABELA DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI, APROVADA PELO DECRETO Nº 7.660, DE 23 DE DEZEMBRO DE 2011."
+    },
+    {
+      "senadoId": "584574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-25-8507",
+      "titulo": "Decreto nº 8.507 de 25/08/2015",
+      "data": "2015-08-25",
+      "numero": "8507",
+      "urn": "urn:lex:br:federal:decreto:2015-08-25;8507",
+      "ementa": "ALTERA O DECRETO Nº 8.407, DE 24 DE FEVEREIRO DE 2015, QUE DISPÕE SOBRE A REALIZAÇÃO, NO EXERCÍCIO DE 2015, DE DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS."
+    },
+    {
+      "senadoId": "584582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-25-8509",
+      "titulo": "Decreto nº 8.509 de 25/08/2015",
+      "data": "2015-08-25",
+      "numero": "8509",
+      "urn": "urn:lex:br:federal:decreto:2015-08-25;8509",
+      "ementa": "DISCRIMINA AÇÕES DO PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO - PAC A SEREM EXECUTADAS POR MEIO DE TRANSFERÊNCIA OBRIGATÓRIA."
+    },
+    {
+      "senadoId": "584578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-25-8508",
+      "titulo": "Decreto nº 8.508 de 25/08/2015",
+      "data": "2015-08-25",
+      "numero": "8508",
+      "urn": "urn:lex:br:federal:decreto:2015-08-25;8508",
+      "ementa": "ALTERA O DECRETO Nº 8.189, DE 21 DE JANEIRO DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO, ALTERA O DECRETO Nº 7.688, DE 2 DE MARÇO DE 2012, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, E REMANEJA CARGOS EM COMISSÃO."
+    },
+    {
+      "senadoId": "584571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-24-8506",
+      "titulo": "Decreto nº 8.506 de 24/08/2015",
+      "data": "2015-08-24",
+      "numero": "8506",
+      "urn": "urn:lex:br:federal:decreto:2015-08-24;8506",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AMÉRICA PARA MELHORIA DA OBSERVÂNCIA TRIBUTÁRIA INTERNACIONAL E IMPLEMENTAÇÃO DO FATCA, FIRMADO EM BRASÍLIA, EM 23 DE SETEMBRO DE 2014."
+    },
+    {
+      "senadoId": "584568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-20-8505",
+      "titulo": "Decreto nº 8.505 de 20/08/2015",
+      "data": "2015-08-20",
+      "numero": "8505",
+      "urn": "urn:lex:br:federal:decreto:2015-08-20;8505",
+      "ementa": "DISPÕE SOBRE O PROGRAMA ÁREAS PROTEGIDAS DA AMAZÔNIA, INSTITUÍDO NO ÂMBITO DO MINISTÉRIO DO MEIO AMBIENTE."
+    },
+    {
+      "senadoId": "584559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-18-8502",
+      "titulo": "Decreto nº 8.502 de 18/08/2015",
+      "data": "2015-08-18",
+      "numero": "8502",
+      "urn": "urn:lex:br:federal:decreto:2015-08-18;8502",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA FEDERAL DA ALEMANHA SOBRE COOPERAÇÃO EM MATÉRIA DE DEFESA, FIRMADO EM BERLIM, EM 8 DE NOVEMBRO DE 2010."
+    },
+    {
+      "senadoId": "584564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-18-8504",
+      "titulo": "Decreto nº 8.504 de 18/08/2015",
+      "data": "2015-08-18",
+      "numero": "8504",
+      "urn": "urn:lex:br:federal:decreto:2015-08-18;8504",
+      "ementa": "REVOGA O DECRETO Nº 8, DE 17 DE JANEIRO DE 1980, QUE APROVA A DIRETRIZ PARA O ESTABELECIMENTO DE ESTRUTURA MILITAR."
+    },
+    {
+      "senadoId": "584556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-18-8501",
+      "titulo": "Decreto nº 8.501 de 18/08/2015",
+      "data": "2015-08-18",
+      "numero": "8501",
+      "urn": "urn:lex:br:federal:decreto:2015-08-18;8501",
+      "ementa": "PROMULGA A CONVENÇÃO PARA A REDUÇÃO DOS CASOS DE APATRIDIA, FIRMADA EM NOVA IORQUE, EM 30 DE AGOSTO DE 1961."
+    },
+    {
+      "senadoId": "584561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-18-8503",
+      "titulo": "Decreto nº 8.503 de 18/08/2015",
+      "data": "2015-08-18",
+      "numero": "8503",
+      "urn": "urn:lex:br:federal:decreto:2015-08-18;8503",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A ORGANIZAÇÃO INTERNACIONAL PARA AS MIGRAÇÕES REFERENTE À POSIÇÃO LEGAL, PRIVILÉGIOS E IMUNIDADES DA ORGANIZAÇÃO NO BRASIL, FIRMADO EM BRASÍLIA, EM 13 DE ABRIL DE 2010."
+    },
+    {
+      "senadoId": "584550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-12-8499",
+      "titulo": "Decreto nº 8.499 de 12/08/2015",
+      "data": "2015-08-12",
+      "numero": "8499",
+      "urn": "urn:lex:br:federal:decreto:2015-08-12;8499",
+      "ementa": "ALTERA O DECRETO Nº 3.048, DE 6 DE MAIO DE 1999, QUE APROVA O REGULAMENTO DA PREVIDÊNCIA SOCIAL."
+    },
+    {
+      "senadoId": "584554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-12-8500",
+      "titulo": "Decreto nº 8.500 de 12/08/2015",
+      "data": "2015-08-12",
+      "numero": "8500",
+      "urn": "urn:lex:br:federal:decreto:2015-08-12;8500",
+      "ementa": "ALTERA O DECRETO Nº 4.892, DE 25 DE NOVEMBRO 2003, QUE REGULAMENTA A LEI COMPLEMENTAR Nº 93, DE 4 DE FEVEREIRO DE 1998, QUE INSTITUI O FUNDO DE TERRAS E DA REFORMA AGRÁRIA."
+    },
+    {
+      "senadoId": "584547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-10-8498",
+      "titulo": "Decreto nº 8.498 de 10/08/2015",
+      "data": "2015-08-10",
+      "numero": "8498",
+      "urn": "urn:lex:br:federal:decreto:2015-08-10;8498",
+      "ementa": "ALTERA O DECRETO Nº 7.790, DE 15 DE AGOSTO DE 2012, QUE DISPÕE SOBRE FINANCIAMENTO DO FUNDO DE FINANCIAMENTO ESTUDANTIL - FIES."
+    },
+    {
+      "senadoId": "584543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-08-04-8497",
+      "titulo": "Decreto nº 8.497 de 04/08/2015",
+      "data": "2015-08-04",
+      "numero": "8497",
+      "urn": "urn:lex:br:federal:decreto:2015-08-04;8497",
+      "ementa": "REGULAMENTA A FORMAÇÃO DO CADASTRO NACIONAL DE ESPECIALISTAS DE QUE TRATAM O § 4º E § 5º DO ART. 1º DA LEI Nº 6.932, DE 7 DE JULHO DE 1981, E O ART. 35 DA LEI Nº 12.871, DE 22 DE OUTUBRO DE 2013."
+    },
+    {
+      "senadoId": "584538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-30-8496",
+      "titulo": "Decreto nº 8.496 de 30/07/2015",
+      "data": "2015-07-30",
+      "numero": "8496",
+      "urn": "urn:lex:br:federal:decreto:2015-07-30;8496",
+      "ementa": "ALTERA O DECRETO NO 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA, ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "584534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-27-8495",
+      "titulo": "Decreto nº 8.495 de 27/07/2015",
+      "data": "2015-07-27",
+      "numero": "8495",
+      "urn": "urn:lex:br:federal:decreto:2015-07-27;8495",
+      "ementa": "AUTORIZA A INTEGRALIZAÇÃO DE COTAS NO FUNDO DE GARANTIA DE OPERAÇÕES DE CRÉDITO EDUCATIVO."
+    },
+    {
+      "senadoId": "584530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-24-8494",
+      "titulo": "Decreto nº 8.494 de 24/07/2015",
+      "data": "2015-07-24",
+      "numero": "8494",
+      "urn": "urn:lex:br:federal:decreto:2015-07-24;8494",
+      "ementa": "TORNA PÚBLICA A DENÚNCIA, PELA REPÚBLICA FEDERATIVA DO BRASIL, DO TRATADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A UCRÂNIA SOBRE COOPERAÇÃO DE LONGO PRAZO NA UTILIZAÇÃO DO VEÍCULO DE LANÇAMENTOS CYCLONE-4 NO CENTRO DE LANÇAMENTO DE ALCÂNTARA, FIRMADO EM BRASÍLIA, EM 21 DE OUTUBRO DE 2003."
+    },
+    {
+      "senadoId": "584527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-15-8493",
+      "titulo": "Decreto nº 8.493 de 15/07/2015",
+      "data": "2015-07-15",
+      "numero": "8493",
+      "urn": "urn:lex:br:federal:decreto:2015-07-15;8493",
+      "ementa": "ALTERA O DECRETO Nº 7.520, DE 8 DE JULHO DE 2011, QUE INSTITUI O PROGRAMA NACIONAL DE UNIVERSALIZAÇÃO DO ACESSO E USO DA ENERGIA ELÉTRICA - \"LUZ PARA TODOS\"."
+    },
+    {
+      "senadoId": "584518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-13-8491",
+      "titulo": "Decreto nº 8.491 de 13/07/2015",
+      "data": "2015-07-13",
+      "numero": "8491",
+      "urn": "urn:lex:br:federal:decreto:2015-07-13;8491",
+      "ementa": "ALTERA O ANEXO I AO DECRETO Nº 5.751, DE 12 DE ABRIL DE 2006, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS E DAS FUNÇÕES GRATIFICADAS DO COMANDO DO EXÉRCITO DO MINISTÉRIO DA DEFESA."
+    },
+    {
+      "senadoId": "584515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-13-8490",
+      "titulo": "Decreto nº 8.490 de 13/07/2015",
+      "data": "2015-07-13",
+      "numero": "8490",
+      "urn": "urn:lex:br:federal:decreto:2015-07-13;8490",
+      "ementa": "ALTERA O DECRETO Nº 8.065, DE 7 DE AGOSTO DE 2013, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTÉRIO DA SAÚDE E REMANEJA CARGOS EM COMISSÃO."
+    },
+    {
+      "senadoId": "584522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-13-8492",
+      "titulo": "Decreto nº 8.492 de 13/07/2015",
+      "data": "2015-07-13",
+      "numero": "8492",
+      "urn": "urn:lex:br:federal:decreto:2015-07-13;8492",
+      "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, E REMANEJA CARGOS EM COMISSÃO."
+    },
+    {
+      "senadoId": "584505",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-10-8487",
+      "titulo": "Decreto nº 8.487 de 10/07/2015",
+      "data": "2015-07-10",
+      "numero": "8487",
+      "urn": "urn:lex:br:federal:decreto:2015-07-10;8487",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA SOCIALISTA DO VIETNÃ, FIRMADO EM HANÓI, EM 10 DE JULHO DE 2008."
+    },
+    {
+      "senadoId": "584508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-10-8488",
+      "titulo": "Decreto nº 8.488 de 10/07/2015",
+      "data": "2015-07-10",
+      "numero": "8488",
+      "urn": "urn:lex:br:federal:decreto:2015-07-10;8488",
+      "ementa": "PROMULGA O PROTOCOLO DE COOPERAÇÃO DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA NO DOMÍNIO DA DEFESA, FIRMADO NA CIDADE DE PRAIA, EM 15 DE SETEMBRO DE 2006."
+    },
+    {
+      "senadoId": "584512",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-10-8489",
+      "titulo": "Decreto nº 8.489 de 10/07/2015",
+      "data": "2015-07-10",
+      "numero": "8489",
+      "urn": "urn:lex:br:federal:decreto:2015-07-10;8489",
+      "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO, DAS FUNÇÕES DE CONFIANÇA DO DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT, ALTERA AS ESTRUTURAS REGIMENTAIS DO MINISTÉRIO DA FAZENDA E DA SECRETARIA DA MICRO E PEQUENA EMPRESA, DECLARA O VALOR EM DAS-UNITÁRIO DAS FCDNIT E REMANEJA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA."
+    },
+    {
+      "senadoId": "584502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-08-8486",
+      "titulo": "Decreto nº 8.486 de 08/07/2015",
+      "data": "2015-07-08",
+      "numero": "8486",
+      "urn": "urn:lex:br:federal:decreto:2015-07-08;8486",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO PROTOCOLO DE ADESÃO DA REPÚBLICA DO PANAMÁ AO ACORDO-QUADRO PARA A PROMOÇÃO DO COMÉRCIO MEDIANTE A SUPERAÇÃO DAS BARREIRAS TÉCNICAS AO COMÉRCIO (AR.BTC Nº 8), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, O ESTADO PLURINACIONAL DA BOLÍVIA, A REPÚBLICA DO CHILE, A REPÚBLICA DA COLÔMBIA, A REPÚBLICA DE CUBA, A REPÚBLICA DO EQUADOR, OS ESTADOS UNIDOS MEXICANOS, A REPÚBLICA DO PARAGUAI, A REPÚBLICA DO PERU, A REPÚBLICA ORIENTAL DO URUGUAI, A REPÚBLICA BOLIVARIANA DA VENEZUELA E A REPÚBLICA DO PANAMÁ, EM 2 DE FEVEREIRO DE 2012."
+    },
+    {
+      "senadoId": "584498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-08-8485",
+      "titulo": "Decreto nº 8.485 de 08/07/2015",
+      "data": "2015-07-08",
+      "numero": "8485",
+      "urn": "urn:lex:br:federal:decreto:2015-07-08;8485",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUINTO PROTOCOLO ADICIONAL AO ACORDO DE ALCANCE PARCIAL DE COMPLEMENTAÇÃO ECONÔMICA Nº 38, FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA COOPERATIVISTA DA GUIANA, EM 3 DE DEZEMBRO DE 2010."
+    },
+    {
+      "senadoId": "584490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-08-8483",
+      "titulo": "Decreto nº 8.483 de 08/07/2015",
+      "data": "2015-07-08",
+      "numero": "8483",
+      "urn": "urn:lex:br:federal:decreto:2015-07-08;8483",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO TERCEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (83PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 28 DE FEVEREIRO DE 2011."
+    },
+    {
+      "senadoId": "584494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-08-8484",
+      "titulo": "Decreto nº 8.484 de 08/07/2015",
+      "data": "2015-07-08",
+      "numero": "8484",
+      "urn": "urn:lex:br:federal:decreto:2015-07-08;8484",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO SEXTO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (86PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 28 DE SETEMBRO DE 2011."
+    },
+    {
+      "senadoId": "584482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-07-8481",
+      "titulo": "Decreto nº 8.481 de 07/07/2015",
+      "data": "2015-07-07",
+      "numero": "8481",
+      "urn": "urn:lex:br:federal:decreto:2015-07-07;8481",
+      "ementa": "AUTORIZA A DOAÇÃO DE ATÉ QUARENTA E CINCO MIL TONELADAS DE FEIJÃO DOS ESTOQUES PÚBLICOS SOB ADMINISTRAÇÃO DA COMPANHIA NACIONAL DE ABASTECIMENTO."
+    },
+    {
+      "senadoId": "584486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-07-8482",
+      "titulo": "Decreto nº 8.482 de 07/07/2015",
+      "data": "2015-07-07",
+      "numero": "8482",
+      "urn": "urn:lex:br:federal:decreto:2015-07-07;8482",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA FEDERAÇÃO DA RÚSSIA SOBRE COOPERAÇÃO TÉCNICO-MILITAR, FIRMADO NO RIO DE JANEIRO, EM 26 DE NOVEMBRO DE 2008."
+    },
+    {
+      "senadoId": "584474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-06-8479",
+      "titulo": "Decreto nº 8.479 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "8479",
+      "urn": "urn:lex:br:federal:decreto:2015-07-06;8479",
+      "ementa": "REGULAMENTA O DISPOSTO NA MEDIDA PROVISÓRIA Nº 680, DE 6 DE JULHO DE 2015, QUE INSTITUI O PROGRAMA DE PROTEÇÃO AO EMPREGO."
+    },
+    {
+      "senadoId": "584478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-06-8480",
+      "titulo": "Decreto nº 8.480 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "8480",
+      "urn": "urn:lex:br:federal:decreto:2015-07-06;8480",
+      "ementa": "ALTERA O DECRETO Nº 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA, E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015."
+    },
+    {
+      "senadoId": "584470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-07-03-8478",
+      "titulo": "Decreto nº 8.478 de 03/07/2015",
+      "data": "2015-07-03",
+      "numero": "8478",
+      "urn": "urn:lex:br:federal:decreto:2015-07-03;8478",
+      "ementa": "ALTERA O ANEXO III AO DECRETO Nº 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015."
+    },
+    {
+      "senadoId": "584462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-30-8476",
+      "titulo": "Decreto nº 8.476 de 30/06/2015",
+      "data": "2015-06-30",
+      "numero": "8476",
+      "urn": "urn:lex:br:federal:decreto:2015-06-30;8476",
+      "ementa": "ALTERA O DECRETO Nº 5.353, DE 24 DE JANEIRO DE 2005, QUE DISPÕE SOBRE A COMPETÊNCIA, COMPOSIÇÃO, FUNCIONAMENTO E ESTRUTURAÇÃO DO CONSELHO NACIONAL DE DESENVOLVIMENTO INDUSTRIAL - CNDI."
+    },
+    {
+      "senadoId": "584466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-30-8477",
+      "titulo": "Decreto nº 8.477 de 30/06/2015",
+      "data": "2015-06-30",
+      "numero": "8477",
+      "urn": "urn:lex:br:federal:decreto:2015-06-30;8477",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUADRAGÉSIMO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 14 (41PAACE14), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA, EM 25 DE JUNHO DE 2015."
+    },
+    {
+      "senadoId": "584458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-30-8475",
+      "titulo": "Decreto nº 8.475 de 30/06/2015",
+      "data": "2015-06-30",
+      "numero": "8475",
+      "urn": "urn:lex:br:federal:decreto:2015-06-30;8475",
+      "ementa": "ALTERA O ESTATUTO SOCIAL DA CASA DA MOEDA DO BRASIL - CMB, APROVADO PELO DECRETO Nº 2.122, DE 13 DE JANEIRO DE 1997."
+    },
+    {
+      "senadoId": "584437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-22-8470",
+      "titulo": "Decreto nº 8.470 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "8470",
+      "urn": "urn:lex:br:federal:decreto:2015-06-22;8470",
+      "ementa": "ALTERA O ANEXO II AO DECRETO Nº 7.743, DE 31 DE MAIO DE 2012, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTÉRIO DA CULTURA, E REMANEJA CARGOS EM COMISSÃO."
+    },
+    {
+      "senadoId": "584450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-22-8473",
+      "titulo": "Decreto nº 8.473 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "8473",
+      "urn": "urn:lex:br:federal:decreto:2015-06-22;8473",
+      "ementa": "ESTABELECE, NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA FEDERAL, O PERCENTUAL MÍNIMO DESTINADO À AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DE AGRICULTORES FAMILIARES E SUAS ORGANIZAÇÕES, EMPREENDEDORES FAMILIARES RURAIS E DEMAIS BENEFICIÁRIOS DA LEI Nº 11.326, DE 24 DE JULHO DE 2006, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "584446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-22-8472",
+      "titulo": "Decreto nº 8.472 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "8472",
+      "urn": "urn:lex:br:federal:decreto:2015-06-22;8472",
+      "ementa": "ALTERA O DECRETO Nº 4.962, DE 22 DE JANEIRO DE 2004, QUE REGULAMENTA A LEI Nº 10.420, DE 10 ABRIL DE 2002, QUE CRIA O GARANTIA-SAFRA E DISPÕE SOBRE O COMITÊ GESTOR DO GARANTIA-SAFRA."
+    },
+    {
+      "senadoId": "584442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-22-8471",
+      "titulo": "Decreto nº 8.471 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "8471",
+      "urn": "urn:lex:br:federal:decreto:2015-06-22;8471",
+      "ementa": "ALTERA O ANEXO AO DECRETO Nº 5.741, DE 30 DE MARÇO DE 2006, QUE REGULAMENTA OS ARTS. 27-A, 28-A E 29-A DA LEI Nº 8.171, DE 17 DE JANEIRO DE 1991, E ORGANIZA O SISTEMA UNIFICADO DE ATENÇÃO À SANIDADE AGROPECUÁRIA."
+    },
+    {
+      "senadoId": "584433",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-22-8469",
+      "titulo": "Decreto nº 8.469 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "8469",
+      "urn": "urn:lex:br:federal:decreto:2015-06-22;8469",
+      "ementa": "REGULAMENTA A LEI Nº 9.610, DE 19 DE FEVEREIRO DE 1998, E A LEI Nº 12.853, DE 14 DE AGOSTO DE 2013, PARA DISPOR SOBRE A GESTÃO COLETIVA DE DIREITOS AUTORAIS."
+    },
+    {
+      "senadoId": "584454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-22-8474",
+      "titulo": "Decreto nº 8.474 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "8474",
+      "urn": "urn:lex:br:federal:decreto:2015-06-22;8474",
+      "ementa": "REGULAMENTA O DISPOSTO NO § 1º DO ART. 9º-C E NO § 1º DO ART. 9º-D DA LEI Nº 11.350, DE 5 DE OUTUBRO DE 2006, PARA DISPOR SOBRE AS ATIVIDADES DE AGENTE COMUNITÁRIO DE SAÚDE E DE AGENTE DE COMBATE ÀS ENDEMIAS."
+    },
+    {
+      "senadoId": "414139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-17-8468",
+      "titulo": "Decreto nº 8.468 de 17/06/2015",
+      "data": "2015-06-17",
+      "numero": "8468",
+      "urn": "urn:lex:br:federal:decreto:2015-06-17;8468",
+      "ementa": "ALTERA O DECRETO Nº 3.035, DE 27 DE ABRIL DE 1999, QUE DELEGA COMPETÊNCIA PARA A PRÁTICA DOS ATOS QUE MENCIONA."
+    },
+    {
+      "senadoId": "414135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-15-8467",
+      "titulo": "Decreto nº 8.467 de 15/06/2015",
+      "data": "2015-06-15",
+      "numero": "8467",
+      "urn": "urn:lex:br:federal:decreto:2015-06-15;8467",
+      "ementa": "ALTERA O DECRETO Nº 8.425, DE 31 DE MARÇO DE 2015, PARA DISPOR SOBRE SUA VIGÊNCIA."
+    },
+    {
+      "senadoId": "414131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-10-8466",
+      "titulo": "Decreto nº 8.466 de 10/06/2015",
+      "data": "2015-06-10",
+      "numero": "8466",
+      "urn": "urn:lex:br:federal:decreto:2015-06-10;8466",
+      "ementa": "ALTERA O DECRETO Nº 8.407, DE 24 DE FEVEREIRO DE 2015, QUE DISPÕE SOBRE A REALIZAÇÃO, NO EXERCÍCIO DE 2015, DE DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS."
+    },
+    {
+      "senadoId": "414123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-08-8464",
+      "titulo": "Decreto nº 8.464 de 08/06/2015",
+      "data": "2015-06-08",
+      "numero": "8464",
+      "urn": "urn:lex:br:federal:decreto:2015-06-08;8464",
+      "ementa": "ALTERA O DECRETO Nº 8.033, DE 27 DE JUNHO DE 2013, QUE REGULAMENTA O DISPOSTO NA LEI Nº 12.815, DE 5 DE JUNHO DE 2013, E AS DEMAIS DISPOSIÇÕES LEGAIS QUE REGULAM A EXPLORAÇÃO DE PORTOS ORGANIZADOS E DE INSTALAÇÕES PORTUÁRIAS."
+    },
+    {
+      "senadoId": "414127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-08-8465",
+      "titulo": "Decreto nº 8.465 de 08/06/2015",
+      "data": "2015-06-08",
+      "numero": "8465",
+      "urn": "urn:lex:br:federal:decreto:2015-06-08;8465",
+      "ementa": "REGULAMENTA O § 1º DO ART. 62 DA LEI Nº 12.815, DE 5 DE JUNHO DE 2013, PARA DISPOR SOBRE OS CRITÉRIOS DE ARBITRAGEM PARA DIRIMIR LITÍGIOS NO ÂMBITO DO SETOR PORTUÁRIO."
+    },
+    {
+      "senadoId": "414119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-05-8463",
+      "titulo": "Decreto nº 8.463 de 05/06/2015",
+      "data": "2015-06-05",
+      "numero": "8463",
+      "urn": "urn:lex:br:federal:decreto:2015-06-05;8463",
+      "ementa": "REGULAMENTA AS MEDIDAS TRIBUTÁRIAS REFERENTES À REALIZAÇÃO, NO BRASIL, DOS JOGOS OLÍMPICOS DE 2016 E DOS JOGOS PARAOLÍMPICOS DE 2016 DE QUE TRATA A LEI Nº 12.780, DE 9 DE JANEIRO DE 2013, E ALTERA O DECRETO Nº 7.578, DE 11 DE OUTUBRO DE 2011, QUE REGULAMENTA AS MEDIDAS TRIBUTÁRIAS REFERENTES À REALIZAÇÃO, NO BRASIL, DA COPA DAS CONFEDERAÇÕES FIFA 2013 E DA COPA DO MUNDO FIFA 2014 DE QUE TRATA A LEI Nº 12.350, DE 20 DE DEZEMBRO DE 2010, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "414115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-03-8462",
+      "titulo": "Decreto nº 8.462 de 03/06/2015",
+      "data": "2015-06-03",
+      "numero": "8462",
+      "urn": "urn:lex:br:federal:decreto:2015-06-03;8462",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA OBRA ESSENCIAL DE INFRAESTRUTURA PORTUÁRIA DE INTERESSE NACIONAL DESTINADA AO SERVIÇO PÚBLICO DE TRANSPORTE MARÍTIMO."
+    },
+    {
+      "senadoId": "414111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-06-02-8461",
+      "titulo": "Decreto nº 8.461 de 02/06/2015",
+      "data": "2015-06-02",
+      "numero": "8461",
+      "urn": "urn:lex:br:federal:decreto:2015-06-02;8461",
+      "ementa": "REGULAMENTA A PRORROGAÇÃO DAS CONCESSÕES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA, DE QUE TRATA O ART. 7º DA LEI Nº 12.783, DE 11 DE JANEIRO DE 2013, E O ART. 4º-B DA LEI Nº 9.074, DE 7 DE JULHO DE 1995."
+    },
+    {
+      "senadoId": "414107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-26-8460",
+      "titulo": "Decreto nº 8.460 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "8460",
+      "urn": "urn:lex:br:federal:decreto:2015-05-26;8460",
+      "ementa": "ALTERA O DECRETO Nº 5.294, DE 1O DE DEZEMBRO DE 2004, PARA CRIAR ADITÂNCIA NO REINO DA SUÉCIA."
+    },
+    {
+      "senadoId": "414094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-26-8457",
+      "titulo": "Decreto nº 8.457 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "8457",
+      "urn": "urn:lex:br:federal:decreto:2015-05-26;8457",
+      "ementa": "DISPÕE SOBRE A EXTINÇÃO DO CONSULADO-GERAL DO BRASIL EM BEIRUTE, REPÚBLICA DO LÍBANO."
+    },
+    {
+      "senadoId": "414103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-26-8459",
+      "titulo": "Decreto nº 8.459 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "8459",
+      "urn": "urn:lex:br:federal:decreto:2015-05-26;8459",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS MEXICANOS DE COOPERAÇÃO ENTRE AS ACADEMIAS DIPLOMÁTICAS DE AMBOS OS PAÍSES, FIRMADO EM BRASÍLIA, EM 27 DE ABRIL DE 1999."
+    },
+    {
+      "senadoId": "414098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-26-8458",
+      "titulo": "Decreto nº 8.458 de 26/05/2015",
+      "data": "2015-05-26",
+      "numero": "8458",
+      "urn": "urn:lex:br:federal:decreto:2015-05-26;8458",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DE BURKINA FASO SOBRE COOPERAÇÃO CULTURAL, FIRMADO EM BRASÍLIA, EM 12 DE NOVEMBRO DE 2009."
+    },
+    {
+      "senadoId": "414090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-22-8456",
+      "titulo": "Decreto nº 8.456 de 22/05/2015",
+      "data": "2015-05-22",
+      "numero": "8456",
+      "urn": "urn:lex:br:federal:decreto:2015-05-22;8456",
+      "ementa": "DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA, ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "414086",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-20-8455",
+      "titulo": "Decreto nº 8.455 de 20/05/2015",
+      "data": "2015-05-20",
+      "numero": "8455",
+      "urn": "urn:lex:br:federal:decreto:2015-05-20;8455",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ORIENTAL DO URUGUAI PARA A CRIAÇÃO DE ESCOLAS E/OU INSTITUTOS BINACIONAIS FRONTEIRIÇOS PROFISSIONAIS E/OU TÉCNICOS E PARA O CREDENCIAMENTO DE CURSOS TÉCNICOS BINACIONAIS FRONTEIRIÇOS, FIRMADO EM BRASÍLIA, EM 1º DE ABRIL DE 2005."
+    },
+    {
+      "senadoId": "414078",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-20-8453",
+      "titulo": "Decreto nº 8.453 de 20/05/2015",
+      "data": "2015-05-20",
+      "numero": "8453",
+      "urn": "urn:lex:br:federal:decreto:2015-05-20;8453",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGÉSIMO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 2 (71PAACE2), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI, EM 11 DE MARÇO DE 2013."
+    },
+    {
+      "senadoId": "414082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-20-8454",
+      "titulo": "Decreto nº 8.454 de 20/05/2015",
+      "data": "2015-05-20",
+      "numero": "8454",
+      "urn": "urn:lex:br:federal:decreto:2015-05-20;8454",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGÉSIMO SÉTIMO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (77PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 11 DE NOVEMBRO DE 2011."
+    },
+    {
+      "senadoId": "414070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-19-8451",
+      "titulo": "Decreto nº 8.451 de 19/05/2015",
+      "data": "2015-05-19",
+      "numero": "8451",
+      "urn": "urn:lex:br:federal:decreto:2015-05-19;8451",
+      "ementa": "REGULAMENTA O § 5º DO ART. 30 DA MEDIDA PROVISÓRIA Nº 2.158-35, DE 24 DE AGOSTO DE 2001, PARA DEFINIR O QUE SE CONSIDERA ELEVADA OSCILAÇÃO DA TAXA DE CÂMBIO, E ALTERA O DECRETO Nº 8.426, DE 1º DE ABRIL DE 2015."
+    },
+    {
+      "senadoId": "414074",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-19-8452",
+      "titulo": "Decreto nº 8.452 de 19/05/2015",
+      "data": "2015-05-19",
+      "numero": "8452",
+      "urn": "urn:lex:br:federal:decreto:2015-05-19;8452",
+      "ementa": "DISPÕE SOBRE O SALDO REMANESCENTE DAS AUTORIZAÇÕES PARA PROVIMENTO DE CARGOS, EMPREGOS E FUNÇÕES, CONSTANTES DO ANEXO V À LEI Nº 12.952, DE 20 DE JANEIRO DE 2014 - LEI ORÇAMENTÁRIA ANUAL DE 2014."
+    },
+    {
+      "senadoId": "414066",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-15-8450",
+      "titulo": "Decreto nº 8.450 de 15/05/2015",
+      "data": "2015-05-15",
+      "numero": "8450",
+      "urn": "urn:lex:br:federal:decreto:2015-05-15;8450",
+      "ementa": "ALTERA O DECRETO Nº 8.425, DE 31 DE MARÇO DE 2015, PARA DISPOR SOBRE SUA VIGÊNCIA."
+    },
+    {
+      "senadoId": "414062",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-13-8449",
+      "titulo": "Decreto nº 8.449 de 13/05/2015",
+      "data": "2015-05-13",
+      "numero": "8449",
+      "urn": "urn:lex:br:federal:decreto:2015-05-13;8449",
+      "ementa": "DISPÕE SOBRE A INCLUSÃO DA CELG DISTRIBUIÇÃO S.A. NO PROGRAMA NACIONAL DE DESESTATIZAÇÃO - PND E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "414054",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-06-8447",
+      "titulo": "Decreto nº 8.447 de 06/05/2015",
+      "data": "2015-05-06",
+      "numero": "8447",
+      "urn": "urn:lex:br:federal:decreto:2015-05-06;8447",
+      "ementa": "DISPÕE SOBRE O PLANO DE DESENVOLVIMENTO AGROPECUÁRIO DO MATOPIBA E A CRIAÇÃO DE SEU COMITÊ GESTOR."
+    },
+    {
+      "senadoId": "414046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-06-8445",
+      "titulo": "Decreto nº 8.445 de 06/05/2015",
+      "data": "2015-05-06",
+      "numero": "8445",
+      "urn": "urn:lex:br:federal:decreto:2015-05-06;8445",
+      "ementa": "ALTERA O ANEXO AO DECRETO Nº 5.741, DE 30 DE MARÇO DE 2006, QUE REGULAMENTA OS ARTS. 27-A, 28-A E 29-A DA LEI Nº 8.171, DE 17 DE JANEIRO DE 1991, E ORGANIZA O SISTEMA UNIFICADO DE ATENÇÃO À SANIDADE AGROPECUÁRIA."
+    },
+    {
+      "senadoId": "414049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-06-8446",
+      "titulo": "Decreto nº 8.446 de 06/05/2015",
+      "data": "2015-05-06",
+      "numero": "8446",
+      "urn": "urn:lex:br:federal:decreto:2015-05-06;8446",
+      "ementa": "ALTERA O DECRETO Nº 6.268, DE 22 DE NOVEMBRO DE 2007, QUE REGULAMENTA A LEI Nº 9.972, DE 25 DE MAIO DE 2000, QUE INSTITUI A CLASSIFICAÇÃO DE PRODUTOS VEGETAIS, SEUS SUBPRODUTOS E RESÍDUOS DE VALOR ECONÔMICO."
+    },
+    {
+      "senadoId": "414042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-06-8444",
+      "titulo": "Decreto nº 8.444 de 06/05/2015",
+      "data": "2015-05-06",
+      "numero": "8444",
+      "urn": "urn:lex:br:federal:decreto:2015-05-06;8444",
+      "ementa": "ALTERA O REGULAMENTO DA INSPEÇÃO INDUSTRIAL E SANITÁRIA DE PRODUTOS DE ORIGEM ANIMAL, APROVADO PELO DECRETO NO 30.691, DE 29 DE MARÇO DE 1952."
+    },
+    {
+      "senadoId": "414058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-05-06-8448",
+      "titulo": "Decreto nº 8.448 de 06/05/2015",
+      "data": "2015-05-06",
+      "numero": "8448",
+      "urn": "urn:lex:br:federal:decreto:2015-05-06;8448",
+      "ementa": "ALTERA O REGULAMENTO DE FISCALIZAÇÃO DE PRODUTOS DE USO VETERINÁRIO E DOS ESTABELECIMENTOS QUE OS FABRIQUEM OU COMERCIEM, APROVADO PELO DECRETO Nº 5.053, DE 22 DE ABRIL DE 2004."
+    },
+    {
+      "senadoId": "414038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-30-8443",
+      "titulo": "Decreto nº 8.443 de 30/04/2015",
+      "data": "2015-04-30",
+      "numero": "8443",
+      "urn": "urn:lex:br:federal:decreto:2015-04-30;8443",
+      "ementa": "INSTITUI O FÓRUM DE DEBATES SOBRE POLÍTICAS DE EMPREGO, TRABALHO E RENDA E DE PREVIDÊNCIA SOCIAL."
+    },
+    {
+      "senadoId": "414022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-29-8439",
+      "titulo": "Decreto nº 8.439 de 29/04/2015",
+      "data": "2015-04-29",
+      "numero": "8439",
+      "urn": "urn:lex:br:federal:decreto:2015-04-29;8439",
+      "ementa": "DELEGA COMPETÊNCIA AO MINISTRO DE ESTADO DO MEIO AMBIENTE PARA A PRÁTICA DOS ATOS QUE ESPECIFICA."
+    },
+    {
+      "senadoId": "414034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-29-8442",
+      "titulo": "Decreto nº 8.442 de 29/04/2015",
+      "data": "2015-04-29",
+      "numero": "8442",
+      "urn": "urn:lex:br:federal:decreto:2015-04-29;8442",
+      "ementa": "REGULAMENTA OS ART. 14 A ART. 36 DA LEI Nº 13.097, DE 19 DE JANEIRO DE 2015, QUE TRATAM DA INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI, DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS, NO MERCADO INTERNO E NA IMPORTAÇÃO, SOBRE PRODUTOS DOS CAPÍTULOS 21 E 22 DA TABELA DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI."
+    },
+    {
+      "senadoId": "414026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-29-8440",
+      "titulo": "Decreto nº 8.440 de 29/04/2015",
+      "data": "2015-04-29",
+      "numero": "8440",
+      "urn": "urn:lex:br:federal:decreto:2015-04-29;8440",
+      "ementa": "ALTERA O DECRETO Nº 4.584, DE 5 DE FEVEREIRO DE 2003, QUE INSTITUI O SERVIÇO SOCIAL AUTÔNOMO AGÊNCIA DE PROMOÇÃO DE EXPORTAÇÕES DO BRASIL - APEX-BRASIL."
+    },
+    {
+      "senadoId": "414030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-29-8441",
+      "titulo": "Decreto nº 8.441 de 29/04/2015",
+      "data": "2015-04-29",
+      "numero": "8441",
+      "urn": "urn:lex:br:federal:decreto:2015-04-29;8441",
+      "ementa": "DISPÕE SOBRE AS RESTRIÇÕES AO EXERCÍCIO DE ATIVIDADES PROFISSIONAIS APLICÁVEIS AOS REPRESENTANTES DOS CONTRIBUINTES NO CONSELHO ADMINISTRATIVO DE RECURSOS FISCAIS E A GRATIFICAÇÃO DE PRESENÇA DE QUE TRATA A LEI Nº 5.708, DE 4 DE OUTUBRO DE 1971."
+    },
+    {
+      "senadoId": "414010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-22-8436",
+      "titulo": "Decreto nº 8.436 de 22/04/2015",
+      "data": "2015-04-22",
+      "numero": "8436",
+      "urn": "urn:lex:br:federal:decreto:2015-04-22;8436",
+      "ementa": "DISPÕE SOBRE O REMANEJAMENTO TEMPORÁRIO DE CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS PARA O INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL."
+    },
+    {
+      "senadoId": "414006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-22-8435",
+      "titulo": "Decreto nº 8.435 de 22/04/2015",
+      "data": "2015-04-22",
+      "numero": "8435",
+      "urn": "urn:lex:br:federal:decreto:2015-04-22;8435",
+      "ementa": "REGULAMENTA A GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE EM POLÍTICAS SOCIAIS - GDAPS E OS CRITÉRIOS DE PROGRESSÃO FUNCIONAL E PROMOÇÃO NA CARREIRA DE DESENVOLVIMENTO DE POLÍTICAS SOCIAIS."
+    },
+    {
+      "senadoId": "414014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-22-8437",
+      "titulo": "Decreto nº 8.437 de 22/04/2015",
+      "data": "2015-04-22",
+      "numero": "8437",
+      "urn": "urn:lex:br:federal:decreto:2015-04-22;8437",
+      "ementa": "REGULAMENTA O DISPOSTO NO ART. 7º, CAPUT, INCISO XIV, ALÍNEA \"H\", E PARÁGRAFO ÚNICO, DA LEI COMPLEMENTAR Nº 140, DE 8 DE DEZEMBRO DE 2011, PARA ESTABELECER AS TIPOLOGIAS DE EMPREENDIMENTOS E ATIVIDADES CUJO LICENCIAMENTO AMBIENTAL SERÁ DE COMPETÊNCIA DA UNIÃO."
+    },
+    {
+      "senadoId": "414002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-22-8434",
+      "titulo": "Decreto nº 8.434 de 22/04/2015",
+      "data": "2015-04-22",
+      "numero": "8434",
+      "urn": "urn:lex:br:federal:decreto:2015-04-22;8434",
+      "ementa": "DISPÕE SOBRE O EMPENHO DE DESPESAS PELOS ÓRGÃOS, FUNDOS E ENTIDADES DO PODER EXECUTIVO FEDERAL ATÉ O ESTABELECIMENTO DO CRONOGRAMA DE QUE TRATA O CAPUT DO ART. 8º DA LEI COMPLEMENTAR Nº 101, DE 4 DE MAIO DE 2000, ALTERA OS ANEXOS I E II AO DECRETO Nº 8.412, DE 26 DE FEVEREIRO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "414018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-22-8438",
+      "titulo": "Decreto nº 8.438 de 22/04/2015",
+      "data": "2015-04-22",
+      "numero": "8438",
+      "urn": "urn:lex:br:federal:decreto:2015-04-22;8438",
+      "ementa": "ALTERA O DECRETO Nº 2.444, DE 30 DE DEZEMBRO DE 1997, QUE DISPÕE SOBRE A INCLUSÃO, NO PROGRAMA NACIONAL DE DESESTATIZAÇÃO - PND, DAS RODOVIAS FEDERAIS QUE MENCIONA."
+    },
+    {
+      "senadoId": "593935",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-16-8433",
+      "titulo": "Decreto nº 8.433 de 16/04/2015",
+      "data": "2015-04-16",
+      "numero": "8433",
+      "urn": "urn:lex:br:federal:decreto:2015-04-16;8433",
+      "ementa": "DISPÕE SOBRE A REGULAMENTAÇÃO DOS ART. 9º A ART. 12, ART. 17 E ART. 22 DA LEI Nº 13.103, DE 2 DE MARÇO DE 2015."
+    },
+    {
+      "senadoId": "593927",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-09-8431",
+      "titulo": "Decreto nº 8.431 de 09/04/2015",
+      "data": "2015-04-09",
+      "numero": "8431",
+      "urn": "urn:lex:br:federal:decreto:2015-04-09;8431",
+      "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA POPULAR DA CHINA, FIRMADO EM BRASÍLIA, EM 12 DE NOVEMBRO DE 2004."
+    },
+    {
+      "senadoId": "593923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-09-8430",
+      "titulo": "Decreto nº 8.430 de 09/04/2015",
+      "data": "2015-04-09",
+      "numero": "8430",
+      "urn": "urn:lex:br:federal:decreto:2015-04-09;8430",
+      "ementa": "PROMULGA O TRATADO SOBRE AUXÍLIO JUDICIAL EM MATÉRIA CIVIL E COMERCIAL ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA POPULAR DA CHINA, FIRMADO EM PEQUIM, EM 19 DE MAIO DE 2009."
+    },
+    {
+      "senadoId": "593931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-09-8432",
+      "titulo": "Decreto nº 8.432 de 09/04/2015",
+      "data": "2015-04-09",
+      "numero": "8432",
+      "urn": "urn:lex:br:federal:decreto:2015-04-09;8432",
+      "ementa": "RESTRINGE O USO DE AERONAVES DO COMANDO DA AERONÁUTICA EM DESLOCAMENTOS PARA O LOCAL DE DOMICÍLIO."
+    },
+    {
+      "senadoId": "593919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-07-8429",
+      "titulo": "Decreto nº 8.429 de 07/04/2015",
+      "data": "2015-04-07",
+      "numero": "8429",
+      "urn": "urn:lex:br:federal:decreto:2015-04-07;8429",
+      "ementa": "ALTERA OS ANEXOS I E II AO DECRETO Nº 8.030, DE 20 DE JUNHO DE 2013, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO SECRETARIA DE POLÍTICAS PARA AS MULHERES DA PRESIDÊNCIA DA REPÚBLICA, E REMANEJA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA."
+    },
+    {
+      "senadoId": "593915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-02-8428",
+      "titulo": "Decreto nº 8.428 de 02/04/2015",
+      "data": "2015-04-02",
+      "numero": "8428",
+      "urn": "urn:lex:br:federal:decreto:2015-04-02;8428",
+      "ementa": "DISPÕE SOBRE O PROCEDIMENTO DE MANIFESTAÇÃO DE INTERESSE A SER OBSERVADO NA APRESENTAÇÃO DE PROJETOS, LEVANTAMENTOS, INVESTIGAÇÕES OU ESTUDOS, POR PESSOA FÍSICA OU JURÍDICA DE DIREITO PRIVADO, A SEREM UTILIZADOS PELA ADMINISTRAÇÃO PÚBLICA."
+    },
+    {
+      "senadoId": "593911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-02-8427",
+      "titulo": "Decreto nº 8.427 de 02/04/2015",
+      "data": "2015-04-02",
+      "numero": "8427",
+      "urn": "urn:lex:br:federal:decreto:2015-04-02;8427",
+      "ementa": "ALTERA O DECRETO Nº 715, DE 29 DE DEZEMBRO DE 1992, PARA TRANSFERIR AO MINISTRO DE ESTADO CHEFE DA SECRETARIA DA MICRO E PEQUENA EMPRESA DA PRESIDÊNCIA DA REPÚBLICA A COMPETÊNCIA PARA APROVAR O ORÇAMENTO PRÓPRIO DO SERVIÇO BRASILEIRO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS - SEBRAE."
+    },
+    {
+      "senadoId": "593907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-04-01-8426",
+      "titulo": "Decreto nº 8.426 de 01/04/2015",
+      "data": "2015-04-01",
+      "numero": "8426",
+      "urn": "urn:lex:br:federal:decreto:2015-04-01;8426",
+      "ementa": "RESTABELECE AS ALÍQUOTAS DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS INCIDENTES SOBRE RECEITAS FINANCEIRAS AUFERIDAS PELAS PESSOAS JURÍDICAS SUJEITAS AO REGIME DE APURAÇÃO NÃO-CUMULATIVA DAS REFERIDAS CONTRIBUIÇÕES."
+    },
+    {
+      "senadoId": "593903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-31-8425",
+      "titulo": "Decreto nº 8.425 de 31/03/2015",
+      "data": "2015-03-31",
+      "numero": "8425",
+      "urn": "urn:lex:br:federal:decreto:2015-03-31;8425",
+      "ementa": "REGULAMENTA O PARÁGRAFO ÚNICO DO ART. 24 E O ART. 25 DA LEI Nº 11.959, DE 29 DE JUNHO DE 2009, PARA DISPOR SOBRE OS CRITÉRIOS PARA INSCRIÇÃO NO REGISTRO GERAL DA ATIVIDADE PESQUEIRA E PARA A CONCESSÃO DE AUTORIZAÇÃO, PERMISSÃO OU LICENÇA PARA O EXERCÍCIO DA ATIVIDADE PESQUEIRA."
+    },
+    {
+      "senadoId": "593899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-31-8424",
+      "titulo": "Decreto nº 8.424 de 31/03/2015",
+      "data": "2015-03-31",
+      "numero": "8424",
+      "urn": "urn:lex:br:federal:decreto:2015-03-31;8424",
+      "ementa": "REGULAMENTA A LEI Nº 10.779, DE 25 DE NOVEMBRO DE 2003, PARA DISPOR SOBRE A CONCESSÃO DO BENEFÍCIO DE SEGURO-DESEMPREGO, DURANTE O PERÍODO DE DEFESO, AO PESCADOR PROFISSIONAL ARTESANAL QUE EXERCE SUA ATIVIDADE EXCLUSIVA E ININTERRUPTAMENTE."
+    },
+    {
+      "senadoId": "593895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-30-8423",
+      "titulo": "Decreto nº 8.423 de 30/03/2015",
+      "data": "2015-03-30",
+      "numero": "8423",
+      "urn": "urn:lex:br:federal:decreto:2015-03-30;8423",
+      "ementa": "REGULAMENTA OS CRITÉRIOS PARA A PROGRESSÃO FUNCIONAL E A PROMOÇÃO NA CARREIRA DE ESPECIALISTA EM MEIO AMBIENTE, DE QUE TRATA A LEI Nº 10.410, DE 11 DE JANEIRO DE 2002, E NO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DO MEIO AMBIENTE E DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA - PECMA, DE QUE TRATA A LEI Nº 11.357, DE 19 DE OUTUBRO DE 2006."
+    },
+    {
+      "senadoId": "593888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-20-8421",
+      "titulo": "Decreto nº 8.421 de 20/03/2015",
+      "data": "2015-03-20",
+      "numero": "8421",
+      "urn": "urn:lex:br:federal:decreto:2015-03-20;8421",
+      "ementa": "REGULAMENTA A CONCESSÃO DA GRATIFICAÇÃO ESPECÍFICA DE PRODUÇÃO DE RADIOISÓTOPOS E RADIOFÁRMACOS - GEPR, INSTITUÍDA PELA LEI Nº 11.907, DE 2 DE FEVEREIRO DE 2009."
+    },
+    {
+      "senadoId": "593891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-20-8422",
+      "titulo": "Decreto nº 8.422 de 20/03/2015",
+      "data": "2015-03-20",
+      "numero": "8422",
+      "urn": "urn:lex:br:federal:decreto:2015-03-20;8422",
+      "ementa": "DISPÕE SOBRE A ORGANIZAÇÃO E O FUNCIONAMENTO DO HOSPITAL DAS FORÇAS ARMADAS."
+    },
+    {
+      "senadoId": "593880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-18-8419",
+      "titulo": "Decreto nº 8.419 de 18/03/2015",
+      "data": "2015-03-18",
+      "numero": "8419",
+      "urn": "urn:lex:br:federal:decreto:2015-03-18;8419",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUINTO PROTOCOLO ADICIONAL AO APÊNDICE II \"SOBRE O COMÉRCIO NO SETOR AUTOMOTIVO ENTRE O BRASIL E O MÉXICO\" DO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 55 (5PA AO AP. II DO ACE55), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E OS ESTADOS UNIDOS MEXICANOS."
+    },
+    {
+      "senadoId": "593884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-18-8420",
+      "titulo": "Decreto nº 8.420 de 18/03/2015",
+      "data": "2015-03-18",
+      "numero": "8420",
+      "urn": "urn:lex:br:federal:decreto:2015-03-18;8420",
+      "ementa": "REGULAMENTA A LEI NO 12.846, DE 1O DE AGOSTO DE 2013, QUE DISPÕE SOBRE A RESPONSABILIZAÇÃO ADMINISTRATIVA DE PESSOAS JURÍDICAS PELA PRÁTICA DE ATOS CONTRA A ADMINISTRAÇÃO PÚBLICA, NACIONAL OU ESTRANGEIRA E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-18-8418",
+      "titulo": "Decreto nº 8.418 de 18/03/2015",
+      "data": "2015-03-18",
+      "numero": "8418",
+      "urn": "urn:lex:br:federal:decreto:2015-03-18;8418",
+      "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO DA SUÉCIA SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO, FIRMADO EM ESTOCOLMO, EM 11 DE SETEMBRO DE 2007."
+    },
+    {
+      "senadoId": "593872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-18-8417",
+      "titulo": "Decreto nº 8.417 de 18/03/2015",
+      "data": "2015-03-18",
+      "numero": "8417",
+      "urn": "urn:lex:br:federal:decreto:2015-03-18;8417",
+      "ementa": "DISPÕE SOBRE A EXCLUSÃO DO PROGRAMA NACIONAL DE DESESTATIZAÇÃO - PND DA COMPANHIA DE ENTREPOSTOS E ARMAZÉNS GERAIS DO ESTADO DE SÃO PAULO - CEAGESP."
+    },
+    {
+      "senadoId": "593868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-03-05-8416",
+      "titulo": "Decreto nº 8.416 de 05/03/2015",
+      "data": "2015-03-05",
+      "numero": "8416",
+      "urn": "urn:lex:br:federal:decreto:2015-03-05;8416",
+      "ementa": "CONVOCA A V CONFERÊNCIA NACIONAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL."
+    },
+    {
+      "senadoId": "593864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-27-8415",
+      "titulo": "Decreto nº 8.415 de 27/02/2015",
+      "data": "2015-02-27",
+      "numero": "8415",
+      "urn": "urn:lex:br:federal:decreto:2015-02-27;8415",
+      "ementa": "REGULAMENTA A APLICAÇÃO DO REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA."
+    },
+    {
+      "senadoId": "593856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-26-8413",
+      "titulo": "Decreto nº 8.413 de 26/02/2015",
+      "data": "2015-02-26",
+      "numero": "8413",
+      "urn": "urn:lex:br:federal:decreto:2015-02-26;8413",
+      "ementa": "ALTERA O DECRETO Nº 8.378, DE 15 DE DEZEMBRO DE 2014, PARA PRORROGAR O PRAZO DE REMANEJAMENTO DE PARTE DOS CARGOS EM COMISSÃO DE QUE TRATA O PARÁGRAFO ÚNICO DO ART. 11 DA LEI NO 12.528, DE 18 DE NOVEMBRO DE 2011."
+    },
+    {
+      "senadoId": "593860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-26-8414",
+      "titulo": "Decreto nº 8.414 de 26/02/2015",
+      "data": "2015-02-26",
+      "numero": "8414",
+      "urn": "urn:lex:br:federal:decreto:2015-02-26;8414",
+      "ementa": "INSTITUI O PROGRAMA BEM MAIS SIMPLES BRASIL E CRIA O CONSELHO DELIBERATIVO E O COMITÊ GESTOR DO PROGRAMA."
+    },
+    {
+      "senadoId": "593853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-26-8412",
+      "titulo": "Decreto nº 8.412 de 26/02/2015",
+      "data": "2015-02-26",
+      "numero": "8412",
+      "urn": "urn:lex:br:federal:decreto:2015-02-26;8412",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO FINANCEIRA DOS ÓRGÃOS, DOS FUNDOS E DAS ENTIDADES DO PODER EXECUTIVO FEDERAL ATÉ O ESTABELECIMENTO DO CRONOGRAMA DE QUE TRATA O CAPUT DO ART. 8º DA LEI COMPLEMENTAR Nº 101, DE 4 DE MAIO DE 2000, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-24-8409",
+      "titulo": "Decreto nº 8.409 de 24/02/2015",
+      "data": "2015-02-24",
+      "numero": "8409",
+      "urn": "urn:lex:br:federal:decreto:2015-02-24;8409",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA DA GUATEMALA PARA A PREVENÇÃO E O COMBATE AO TRÁFICO ILÍCITO DE MIGRANTES, FIRMADO EM BRASÍLIA, EM 20 DE AGOSTO DE 2004."
+    },
+    {
+      "senadoId": "593838",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-24-8408",
+      "titulo": "Decreto nº 8.408 de 24/02/2015",
+      "data": "2015-02-24",
+      "numero": "8408",
+      "urn": "urn:lex:br:federal:decreto:2015-02-24;8408",
+      "ementa": "ALTERA O DECRETO Nº 7.724, DE 16 DE MAIO DE 2012, PARA DISPOR SOBRE A DIVULGAÇÃO DE INFORMAÇÕES RELATIVAS AOS PROGRAMAS FINANCIADOS PELO FUNDO DE AMPARO AO TRABALHADOR - FAT, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-24-8410",
+      "titulo": "Decreto nº 8.410 de 24/02/2015",
+      "data": "2015-02-24",
+      "numero": "8410",
+      "urn": "urn:lex:br:federal:decreto:2015-02-24;8410",
+      "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO SOBRE O COMBATE À PRODUÇÃO, CONSUMO E TRÁFICO ILÍCITO DE DROGAS E SUBSTÂNCIAS PSICOTRÓPICAS ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ISLÂMICA DO PAQUISTÃO, FIRMADO EM BRASÍLIA, EM 29 DE NOVEMBRO DE 2004."
+    },
+    {
+      "senadoId": "593849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-24-8411",
+      "titulo": "Decreto nº 8.411 de 24/02/2015",
+      "data": "2015-02-24",
+      "numero": "8411",
+      "urn": "urn:lex:br:federal:decreto:2015-02-24;8411",
+      "ementa": "DISPÕE SOBRE A EXTINÇÃO DO CONSULADO DO BRASIL EM PUERTO SUAREZ E A CRIAÇÃO DO CONSULADO DO BRASIL EM PUERTO QUIJARRO, NO ESTADO PLURINACIONAL DA BOLÍVIA."
+    },
+    {
+      "senadoId": "593835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-24-8407",
+      "titulo": "Decreto nº 8.407 de 24/02/2015",
+      "data": "2015-02-24",
+      "numero": "8407",
+      "urn": "urn:lex:br:federal:decreto:2015-02-24;8407",
+      "ementa": "DISPÕE SOBRE A REALIZAÇÃO, NO EXERCÍCIO DE 2015, DE DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-20-8406",
+      "titulo": "Decreto nº 8.406 de 20/02/2015",
+      "data": "2015-02-20",
+      "numero": "8406",
+      "urn": "urn:lex:br:federal:decreto:2015-02-20;8406",
+      "ementa": "ALTERA O DECRETO Nº 88.777, DE 30 DE SETEMBRO DE 1983, QUE APROVA O REGULAMENTO PARA AS POLÍCIAS MILITARES E CORPOS DE BOMBEIROS MILITARES (R-200)."
+    },
+    {
+      "senadoId": "593829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-11-8405",
+      "titulo": "Decreto nº 8.405 de 11/02/2015",
+      "data": "2015-02-11",
+      "numero": "8405",
+      "urn": "urn:lex:br:federal:decreto:2015-02-11;8405",
+      "ementa": "PROMULGA O ACORDO SOBRE A PREVIDÊNCIA SOCIAL ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E O REINO DA BÉLGICA, FIRMADO EM BRUXELAS, EM 4 DE OUTUBRO DE 2009."
+    },
+    {
+      "senadoId": "593817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8401",
+      "titulo": "Decreto nº 8.401 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8401",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8401",
+      "ementa": "DISPÕE SOBRE A CRIAÇÃO DA CONTA CENTRALIZADORA DOS RECURSOS DE BANDEIRAS TARIFÁRIAS E ALTERA O DECRETO Nº 4.550, DE 27 DE DEZEMBRO DE 2002, E O DECRETO Nº 5.177, DE 12 DE AGOSTO DE 2004."
+    },
+    {
+      "senadoId": "593804",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8397",
+      "titulo": "Decreto nº 8.397 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8397",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8397",
+      "ementa": "DISTRIBUI O EFETIVO DE OFICIAIS DA MARINHA EM TEMPO DE PAZ PARA 2015."
+    },
+    {
+      "senadoId": "593823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8403",
+      "titulo": "Decreto nº 8.403 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8403",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8403",
+      "ementa": "FIXA, PARA O EXÉRCITO, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATÓRIAS DE OFICIAIS DAS ARMAS, QUADROS E SERVIÇOS QUE MENCIONA, NO ANO-BASE DE 2014."
+    },
+    {
+      "senadoId": "593808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8398",
+      "titulo": "Decreto nº 8.398 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8398",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8398",
+      "ementa": "DISTRIBUI O EFETIVO DE OFICIAIS DA AERONÁUTICA EM TEMPO DE PAZ PARA 2015."
+    },
+    {
+      "senadoId": "593814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8400",
+      "titulo": "Decreto nº 8.400 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8400",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8400",
+      "ementa": "ESTABELECE OS PONTOS APROPRIADOS PARA O TRAÇADO DA LINHA DE BASE DO BRASIL AO LONGO DA COSTA BRASILEIRA CONTINENTAL E INSULAR E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "593826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8404",
+      "titulo": "Decreto nº 8.404 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8404",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8404",
+      "ementa": "FIXA, PARA A MARINHA, O QUANTITATIVO DE VAGAS PARA PROMOÇÕES OBRIGATÓRIAS DE OFICIAIS PARA OS CORPOS E QUADROS QUE MENCIONA, NO ANO-BASE DE 2014."
+    },
+    {
+      "senadoId": "593811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8399",
+      "titulo": "Decreto nº 8.399 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8399",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8399",
+      "ementa": "DISTRIBUI O EFETIVO DE PESSOAL MILITAR DO EXÉRCITO EM TEMPO DE PAZ PARA 2015."
+    },
+    {
+      "senadoId": "593820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-02-04-8402",
+      "titulo": "Decreto nº 8.402 de 04/02/2015",
+      "data": "2015-02-04",
+      "numero": "8402",
+      "urn": "urn:lex:br:federal:decreto:2015-02-04;8402",
+      "ementa": "FIXA, PARA A AERONÁUTICA, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATÓRIAS DE OFICIAIS, PARA OS QUADROS QUE MENCIONA, NO ANO-BASE DE 2014."
+    },
+    {
+      "senadoId": "593801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-30-8396",
+      "titulo": "Decreto nº 8.396 de 30/01/2015",
+      "data": "2015-01-30",
+      "numero": "8396",
+      "urn": "urn:lex:br:federal:decreto:2015-01-30;8396",
+      "ementa": "REMANEJA FUNÇÕES COMISSIONADAS TÉCNICAS - FCT PARA O MINISTÉRIO FAZENDA E PARA O MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO E REVOGA DISPOSITIVOS DO DECRETO Nº 8.391, DE 16 DE JANEIRO DE 2015."
+    },
+    {
+      "senadoId": "593799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-28-8395",
+      "titulo": "Decreto nº 8.395 de 28/01/2015",
+      "data": "2015-01-28",
+      "numero": "8395",
+      "urn": "urn:lex:br:federal:decreto:2015-01-28;8395",
+      "ementa": "ALTERA O DECRETO Nº 5.059, DE 30 DE ABRIL DE 2004, QUE REDUZ AS ALÍQUOTAS DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS INCIDENTES  SOBRE A IMPORTAÇÃO E A COMERCIALIZAÇÃO  DE GASOLINA, ÓLEO DIESEL, GÁS LIQUEFEITO DE PETRÓLEO E QUEROSENE DE AVIAÇÃO, E O DECRETO Nº 5.060, DE 30 DE ABRIL DE 2004, QUE REDUZ AS ALÍQUOTAS DA CONTRIBUIÇÃO DE  INTERVENÇÃO NO DOMINIO ECONÔMICO INCIDENTE  SOBRE A IMPORTAÇÃO E A COMERCIALIZAÇÃO  DE PETROLEO E SEUS DERIVADOS, GÁS NATURAL E SEUS DERIVADOS E ALCOOL ETILICO COMBUSTÍVEL."
+    },
+    {
+      "senadoId": "593796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-28-8394",
+      "titulo": "Decreto nº 8.394 de 28/01/2015",
+      "data": "2015-01-28",
+      "numero": "8394",
+      "urn": "urn:lex:br:federal:decreto:2015-01-28;8394",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE VILA DO CONDE, ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "593792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-28-8393",
+      "titulo": "Decreto nº 8.393 de 28/01/2015",
+      "data": "2015-01-28",
+      "numero": "8393",
+      "urn": "urn:lex:br:federal:decreto:2015-01-28;8393",
+      "ementa": "INCLUI PRODUTOS NO ANEXO III À LEI Nº 7.798, DE 10 DE JULHO DE 1989, QUE ALTERA A LEGISLAÇÃO DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS."
+    },
+    {
+      "senadoId": "593788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-20-8392",
+      "titulo": "Decreto nº 8.392 de 20/01/2015",
+      "data": "2015-01-20",
+      "numero": "8392",
+      "urn": "urn:lex:br:federal:decreto:2015-01-20;8392",
+      "ementa": "ALTERA O DECRETO Nº 6.306, DE 14 DE DEZEMBRO DE 2007, QUE REGULAMENTA O IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO E SEGURO, OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS - IOF."
+    },
+    {
+      "senadoId": "593784",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-16-8391",
+      "titulo": "Decreto nº 8.391 de 16/01/2015",
+      "data": "2015-01-16",
+      "numero": "8391",
+      "urn": "urn:lex:br:federal:decreto:2015-01-16;8391",
+      "ementa": "ALTERA O DECRETO Nº 8.189, DE 21 DE JANEIRO  DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL  E O QUADRO DEMONSTRATIVO DOS CARGOS EM  COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO  MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E  GESTÃO, ALTERA O DECRETO Nº 7.482, DE 16 DE  MAIO DE 2011, QUE APROVA A ESTRUTURA REGIMENTAL  E O QUADRO DEMONSTRATIVO DOS  CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS  DO MINISTÉRIO DA FAZENDA, E REMANEJA  CARGOS EM COMISSÃO, FUNÇÕES DE CONFIANÇA  E FUNÇÕES COMISSIONADAS TÉCNICAS."
+    },
+    {
+      "senadoId": "593780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-13-8390",
+      "titulo": "Decreto nº 8.390 de 13/01/2015",
+      "data": "2015-01-13",
+      "numero": "8390",
+      "urn": "urn:lex:br:federal:decreto:2015-01-13;8390",
+      "ementa": "ALTERA O DECRETO Nº 8.156, DE 18 DE DEZEMBRO DE 2013, PARA PRORROGAR, EM CARÁTER EXCEPCIONAL, O PRAZO DE REMANEJAMENTO DOS CARGOS  EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO  SUPERIORES - DAS QUE MENCIONA."
+    },
+    {
+      "senadoId": "593777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-07-8389",
+      "titulo": "Decreto nº 8.389 de 07/01/2015",
+      "data": "2015-01-07",
+      "numero": "8389",
+      "urn": "urn:lex:br:federal:decreto:2015-01-07;8389",
+      "ementa": "DISPÕE SOBRE A EXECUÇÃO ORÇAMENTÁRIA DOS ORGÃOS, DOS FUNDOS E DAS ENTIDADES DO PODER EXECUTIVO ATÉ A PUBLICAÇÃO DA LEI ORÇAMENTÁRIA  DE 2015."
+    },
+    {
+      "senadoId": "593773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-2015-01-07-8388",
+      "titulo": "Decreto nº 8.388 de 07/01/2015",
+      "data": "2015-01-07",
+      "numero": "8388",
+      "urn": "urn:lex:br:federal:decreto:2015-01-07;8388",
+      "ementa": "ALTERA O DECRETO Nº 6.521, DE 30 DE JULHO DE 2008, PARA PRORROGAR, EM CARATER EXCEPCIONAL, O PRAZO DE REMANEJAMENTO DOS CARGOS  EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO  SUPERIORES - DAS DESTINADOS  A COMISSÃO ESPECIAL INTERMINISTERIAL."
+    }
+  ],
+  "pendencias": [
+    {
+      "id": "587817",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/12/2015",
+      "dataassinatura": "30/12/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, O IMÓVEL QUE MENCIONA, EM FAVOR DA UNIÃO, COM DESTINAÇÃO DE USO PARA A PROCURADORIA DA REPÚBLICA NO ESTADO DO CEARÁ, NO MUNICÍPIO DE FORTALEZA, ESTADO DO CEARÁ."
+    },
+    {
+      "id": "587816",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/12/2015",
+      "dataassinatura": "29/12/2015",
+      "ementa": "RENOVA A CONCESSÃO OUTORGADA À RBS TV BAGÉ LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO DE SONS E IMAGENS, NO MUNICÍPIO DE BAGÉ, ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "id": "592494",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/12/2015 ( seq-sf: 3 )",
+      "dataassinatura": "29/12/2015",
+      "ementa": "RENOVA A CONCESSÃO OUTORGADA À TELEVISÃO CABUGI LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO DE SONS E IMAGENS, NO MUNICÍPIO DE NATAL, ESTADO DO RIO GRANDE DO NORTE."
+    },
+    {
+      "id": "587182",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/12/2015 ( seq-sf: 1 )",
+      "dataassinatura": "29/12/2015",
+      "ementa": "RENOVA A CONCESSÃO OUTORGADA À TELEVISÃO MORENA LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO DE SONS E IMAGENS, NO MUNICÍPIO DE CAMPO GRANDE, ESTADO DO MATO GROSSO DO SUL."
+    },
+    {
+      "id": "590966",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/12/2015 ( seq-sf: 2 )",
+      "dataassinatura": "29/12/2015",
+      "ementa": "OUTORGA CONCESSÃO À UNIVERSIDADE FEDERAL DO MARANHÃO PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO DE SONS E IMAGENS, COM FINS EXCLUSIVAMENTE EDUCATIVOS, NO MUNICÍPIO DE SÃO LUÍS, ESTADO DO MARANHÃO."
+    },
+    {
+      "id": "587815",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/12/2015",
+      "dataassinatura": "28/12/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, O IMÓVEL QUE MENCIONA, EM FAVOR DA UNIÃO, COM DESTINAÇÃO DE USO PARA A PROCURADORIA DA REPÚBLICA NA BAHIA, NO MUNICÍPIO DE SALVADOR, ESTADO DA BAHIA."
+    },
+    {
+      "id": "592493",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/12/2015 ( seq-sf: 3 )",
+      "dataassinatura": "17/12/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA TABOCAL, LOCALIZADA NO MUNICÍPIO DE CAREIRO, ESTADO DO AMAZONAS."
+    },
+    {
+      "id": "587181",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/12/2015 ( seq-sf: 1 )",
+      "dataassinatura": "17/12/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA BANAWÁ, LOCALIZADA NOS MUNICÍPIOS DE CANUTAMA, LÁBREA E TAPAUÁ, ESTADO DO AMAZONAS."
+    },
+    {
+      "id": "587814",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/12/2015",
+      "dataassinatura": "17/12/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA ARARY, LOCALIZADA NO MUNICÍPIO DE BORBA, ESTADO DO AMAZONAS."
+    },
+    {
+      "id": "590965",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/12/2015 ( seq-sf: 2 )",
+      "dataassinatura": "17/12/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA CAJUHIRI-ATRAVESSADO, LOCALIZADA NO MUNICÍPIO DE COARI, ESTADO DO AMAZONAS."
+    },
+    {
+      "id": "587813",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/12/2015",
+      "dataassinatura": "16/12/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DA CÂMARA DOS DEPUTADOS, DE DIVERSOS ÓRGÃOS DO PODER JUDICIÁRIO E DO MINISTÉRIO PÚBLICO DA UNIÃO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 147.902.060,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "583073",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/2015 ( seq-sf: 4 )",
+      "dataassinatura": "19/11/2015",
+      "ementa": "REDUZ O ORÇAMENTO DE INVESTIMENTOS DA EMPRESA BRASILEIRA DE INFRAESTRUTURA AEROPORTUÁRIA - INFRAERO, NO VALOR DE R$ 243.673.295,00."
+    },
+    {
+      "id": "592492",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/2015 ( seq-sf: 3 )",
+      "dataassinatura": "19/11/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA CAMBARÁ, LOCALIZADOS NO MUNICÍPIO DE CACHOEIRA DO SUL, ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "id": "587180",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/2015 ( seq-sf: 1 )",
+      "dataassinatura": "19/11/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA TRÊS IRMÃOS, LOCALIZADOS NOS MUNICÍPIOS DE CROATÁ E IPUEIRAS, ESTADO DO CEARÁ."
+    },
+    {
+      "id": "590964",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/2015 ( seq-sf: 2 )",
+      "dataassinatura": "19/11/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA BRUTOS, LOCALIZADOS NO MUNICÍPIO DE TAMBORIL, ESTADO DO CEARÁ."
+    },
+    {
+      "id": "587812",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/2015",
+      "dataassinatura": "19/11/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA NARCISA, LOCALIZADOS NO MUNICÍPIO DE CAPITÃO POÇO, ESTADO DO PARÁ."
+    },
+    {
+      "id": "587517",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/2015 ( seq-sf: 5 )",
+      "dataassinatura": "19/11/2015",
+      "ementa": "ALTERA O DECRETO DE 24 DE JULHO DE 2014, QUE CONVOCA A 1ª CONFERÊNCIA NACIONAL DE POLÍTICA INDIGENISTA."
+    },
+    {
+      "id": "587811",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/11/2015",
+      "dataassinatura": "18/11/2015",
+      "ementa": "CONVOCA AS CONFERÊNCIAS NACIONAIS DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE, DOS DIREITOS DA PESSOA IDOSA, DE POLÍTICAS PÚBLICAS DE DIREITOS HUMANOS DE LÉSBICAS, GAYS, BISSEXUAIS, TRAVESTIS E TRANSEXUAIS, DOS DIREITOS DA PESSOA COM DEFICIÊNCIA E DE DIREITOS HUMANOS."
+    },
+    {
+      "id": "587810",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/11/2015",
+      "dataassinatura": "17/11/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA FLUMINENSE S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE SILVA JARDIM, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "587179",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/11/2015 ( seq-sf: 1 )",
+      "dataassinatura": "12/11/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE NOBRES, ESTADO DO MATO GROSSO."
+    },
+    {
+      "id": "587809",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/11/2015",
+      "dataassinatura": "12/11/2015",
+      "ementa": "INSTITUI O COMITÊ DE GESTÃO E AVALIAÇÃO DE RESPOSTAS AO DESASTRE OCORRIDO NAS BARRAGENS DO FUNDÃO E DE SANTARÉM NO MUNICÍPIO DE MARIANA, ESTADO DE MINAS GERAIS, E SUAS REPERCUSSÕES NA BACIA DO RIO DOCE, ATINGINDO O ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "id": "587178",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/11/2015 ( seq-sf: 1 )",
+      "dataassinatura": "04/11/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO, DE ENCARGOS FINANCEIROS DA UNIÃO, DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS E DE OPERAÇÕES OFICIAIS DE CRÉDITO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 1.421.838.938,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587808",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/11/2015",
+      "dataassinatura": "04/11/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA ROTA DO OESTE S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE ROSÁRIO OESTE, ESTADO DO MATO GROSSO."
+    },
+    {
+      "id": "587807",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/10/2015",
+      "dataassinatura": "29/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CONGONHAS, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587806",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/10/2015",
+      "dataassinatura": "23/10/2015",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DO FORNO, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "587177",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/10/2015 ( seq-sf: 1 )",
+      "dataassinatura": "23/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA OBRA ESSENCIAL DE INFRAESTRUTURA PORTUÁRIA DE INTERESSE NACIONAL DESTINADA AO SERVIÇO PÚBLICO DE TRANSPORTE MARÍTIMO."
+    },
+    {
+      "id": "587176",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/10/2015 ( seq-sf: 1 )",
+      "dataassinatura": "21/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CRISTALINA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "590963",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/10/2015 ( seq-sf: 2 )",
+      "dataassinatura": "21/10/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER JUDICIÁRIO E DO PODER EXECUTIVO, DO MINISTÉRIO PÚBLICO DA UNIÃO, DE ENCARGOS FINANCEIROS DA UNIÃO E DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 8.762.319.438,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587805",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/10/2015",
+      "dataassinatura": "21/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CATALÃO, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587804",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/10/2015",
+      "dataassinatura": "20/10/2015",
+      "ementa": "TRANSFERE DOTAÇÕES ORÇAMENTÁRIAS CONSTANTES DO ORÇAMENTO DE INVESTIMENTO PARA 2015 DA EMPRESA AMAZONAS DISTRIBUIDORA DE ENERGIA S.A. PARA A EMPRESA AMAZONAS GERAÇÃO E TRANSMISSÃO DE ENERGIA S.A."
+    },
+    {
+      "id": "587803",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/10/2015",
+      "dataassinatura": "15/10/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO, DE ENCARGOS FINANCEIROS DA UNIÃO E DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 25.150.032,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587802",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/10/2015",
+      "dataassinatura": "08/10/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DOS MINISTÉRIOS DA EDUCAÇÃO E DA JUSTIÇA E DE ENCARGOS FINANCEIROS DA UNIÃO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 775.942.295,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587801",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/10/2015",
+      "dataassinatura": "05/10/2015",
+      "ementa": "INSTITUI A COMISSÃO ESPECIAL DE REFORMA DO ESTADO."
+    },
+    {
+      "id": "587175",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/10/2015 ( seq-sf: 1 )",
+      "dataassinatura": "01/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA RODOVIA DO AÇO S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SAPUCAIA, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "590962",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/10/2015 ( seq-sf: 2 )",
+      "dataassinatura": "01/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA FLUMINENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NOS MUNICÍPIOS DE MACAÉ, RIO DAS OSTRAS E CASIMIRO DE ABREU, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "587800",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/10/2015",
+      "dataassinatura": "01/10/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE IPAMERI, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587799",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/09/2015",
+      "dataassinatura": "30/09/2015",
+      "ementa": "ABRE AO ORÇAMENTO DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DOS MINISTÉRIOS DA EDUCAÇÃO, DA PREVIDÊNCIA SOCIAL E DA SAÚDE, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 2.554.769.052,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587174",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/09/2015 ( seq-sf: 1 )",
+      "dataassinatura": "30/09/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 57.731.807,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587798",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/09/2015",
+      "dataassinatura": "02/09/2015",
+      "ementa": "TRANSFERE, PARCIALMENTE, DOTAÇÕES ORÇAMENTÁRIAS CONSTANTES DO ORÇAMENTO FISCAL DA UNIÃO, NO ÂMBITO DO MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO, NO VALOR DE R$ 778.750.830,00."
+    },
+    {
+      "id": "590961",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/09/2015 ( seq-sf: 2 )",
+      "dataassinatura": "02/09/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DO MINISTÉRIO DAS RELAÇÕES EXTERIORES, DA ADVOCACIA-GERAL DA UNIÃO E DA CONTROLADORIA-GERAL DA UNIÃO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 236.754.102,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587173",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/09/2015 ( seq-sf: 1 )",
+      "dataassinatura": "02/09/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DOS MINISTÉRIOS DE MINAS E ENERGIA E DOS TRANSPORTES E DA ADVOCACIA-GERAL DA UNIÃO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 18.017.149,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587797",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/08/2015",
+      "dataassinatura": "27/08/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DO MINISTÉRIO DOS TRANSPORTES, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 78.000.000,00, PARA REFORÇO DE DOTAÇÃO CONSTANTE DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587796",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/08/2015",
+      "dataassinatura": "24/08/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA FLUMINENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CASIMIRO DE ABREU, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "590960",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/08/2015 ( seq-sf: 2 )",
+      "dataassinatura": "20/08/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DOS MINISTÉRIOS DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, DA FAZENDA E DAS CIDADES E DE ENCARGOS FINANCEIROS DA UNIÃO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 55.237.582.569,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587795",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/08/2015",
+      "dataassinatura": "20/08/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DOS PODERES JUDICIÁRIO E EXECUTIVO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 600.268.845,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587172",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/08/2015 ( seq-sf: 1 )",
+      "dataassinatura": "20/08/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DOS MINISTÉRIOS DOS TRANSPORTES, DA INTEGRAÇÃO NACIONAL E DAS CIDADES E DAS SECRETARIAS DE AVIAÇÃO CIVIL E DE PORTOS, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 1.201.641.285,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587794",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/08/2015",
+      "dataassinatura": "18/08/2015",
+      "ementa": "RECONHECE COMO DE INTERESSE DO GOVERNO BRASILEIRO A PARTICIPAÇÃO ESTRANGEIRA NO CAPITAL SOCIAL DE INSTITUIÇÃO FINANCEIRA A SER CONSTITUÍDA PELO COMMERZBANK AKTIENGESELLSCHAFT, INSTITUIÇÃO FINANCEIRA COM SEDE NA ALEMANHA."
+    },
+    {
+      "id": "587793",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/08/2015",
+      "dataassinatura": "12/08/2015",
+      "ementa": "RECONHECE COMO DE INTERESSE DO GOVERNO BRASILEIRO A PARTICIPAÇÃO ESTRANGEIRA NO CAPITAL SOCIAL DE INSTITUIÇÃO FINANCEIRA A SER CONSTITUÍDA PELA KOMATSU LTD., SOCIEDADE COM SEDE NO JAPÃO."
+    },
+    {
+      "id": "587171",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/07/2015 ( seq-sf: 1 )",
+      "dataassinatura": "28/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA PLANALTO SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE MANDIRITUBA, ESTADO DO PARANÁ."
+    },
+    {
+      "id": "590959",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/07/2015 ( seq-sf: 2 )",
+      "dataassinatura": "28/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA RODOVIA DO AÇO S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SAPUCAIA, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "587792",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/07/2015",
+      "dataassinatura": "28/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NOS MUNICÍPIOS DE CATALÃO E CUMARI, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587791",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/07/2015",
+      "dataassinatura": "27/07/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DOS PODERES LEGISLATIVO, JUDICIÁRIO E EXECUTIVO, DA DEFENSORIA PÚBLICA DA UNIÃO, DO MINISTÉRIO PÚBLICO DA UNIÃO E DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 1.629.519.495,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587170",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/07/2015 ( seq-sf: 1 )",
+      "dataassinatura": "27/07/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DOS MINISTÉRIOS DA EDUCAÇÃO, DA PREVIDÊNCIA SOCIAL, DO TRABALHO E EMPREGO E DA CULTURA, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 1.701.389.028,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "590958",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/07/2015 ( seq-sf: 2 )",
+      "dataassinatura": "27/07/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO, DE ENCARGOS FINANCEIROS DA UNIÃO E DE REFINANCIAMENTO DA DÍVIDA PÚBLICA MOBILIÁRIA FEDERAL, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 36.759.382.520,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "592491",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/07/2015 ( seq-sf: 3 )",
+      "dataassinatura": "27/07/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 29.922.832,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587790",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/07/2015",
+      "dataassinatura": "15/07/2015",
+      "ementa": "CRIA A ZONA DE PROCESSAMENTO DE EXPORTAÇÃO DE RONDÔNIA, NO MUNICÍPIO DE PORTO VELHO, ESTADO DE RONDÔNIA."
+    },
+    {
+      "id": "587789",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/07/2015",
+      "dataassinatura": "13/07/2015",
+      "ementa": "AUTORIZA O AUMENTO DO CAPITAL SOCIAL DA COMPANHIA BRASILEIRA DE TRENS URBANOS - CBTU."
+    },
+    {
+      "id": "587169",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/07/2015 ( seq-sf: 1 )",
+      "dataassinatura": "13/07/2015",
+      "ementa": "AUTORIZA O AUMENTO DO CAPITAL SOCIAL DA EMPRESA DE TRENS URBANOS DE PORTO ALEGRE S.A. - TRENSURB."
+    },
+    {
+      "id": "587168",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/07/2015 ( seq-sf: 1 )",
+      "dataassinatura": "10/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCEBRA - CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE LUZ, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587788",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/07/2015",
+      "dataassinatura": "10/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA RODOVIA DO AÇO S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SAPUCAIA, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "587167",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/07/2015 ( seq-sf: 1 )",
+      "dataassinatura": "08/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE DELTA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587787",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/07/2015",
+      "dataassinatura": "08/07/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NOS MUNICÍPIOS DE LUZIÂNIA E CRISTALINA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "590957",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/07/2015 ( seq-sf: 2 )",
+      "dataassinatura": "07/07/2015",
+      "ementa": "ABRE AO ORÇAMENTO DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DO MINISTÉRIO DA SAÚDE, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 1.972.972.155,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587166",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/07/2015 ( seq-sf: 1 )",
+      "dataassinatura": "07/07/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DE OPERAÇÕES OFICIAIS DE CRÉDITO, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 38.252.352,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587786",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/07/2015",
+      "dataassinatura": "07/07/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 934.179.320,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "383405",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 14 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA RODOVIA DO AÇO S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE BARRA DO PIRAÍ, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "575257",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 8 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE IPAMERI, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "580684",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 12 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CRISTALINA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "581223",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 17 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CRISTALINA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587516",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 5 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA RODOVIA DO AÇO S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE BARRA DO PIRAÍ, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "575804",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 10 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CATALÃO, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587785",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "569382",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 7 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MSVIA - CONCESSIONÁRIA DE RODOVIA SUL-MATOGROSSENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SÃO GABRIEL DO OESTE, ESTADO DE MATO GROSSO DO SUL."
+    },
+    {
+      "id": "576491",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 9 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE NOBRES, ESTADO DO MATO GROSSO."
+    },
+    {
+      "id": "592490",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 3 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CRISTALINA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "581513",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 15 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA RODOVIA DO AÇO S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE BARRA DO PIRAÍ, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "576864",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 11 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE ARAGUARI, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "583072",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 4 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NOS MUNICÍPIOS DE SÃO JOSÉ E PALHOÇA, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "383576",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 16 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA PLANALTO SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE MAFRA, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "383339",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 13 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CATALÃO, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587165",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 1 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA FLUMINENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SILVA JARDIM, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "590956",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 2 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO E INSTITUIÇÃO DE SERVIDÃO DE PASSAGEM EM FAVOR DA UNIÃO, OS IMÓVEIS CONSTITUÍDOS DE TERRAS, BENFEITORIAS, E ACESSÕES, INCLUSIVE O DOMÍNIO ÚTIL DOS TERRENOS FOREIROS, NECESSÁRIOS À IMPLANTAÇÃO DO PROJETO DE INTEGRAÇÃO DO RIO SÃO FRANCISCO COM BACIAS HIDROGRÁFICAS DO NORDESTE SETENTRIONAL NOS ESTADOS DE PERNAMBUCO, CEARÁ, PARAÍBA E RIO GRANDE DO NORTE."
+    },
+    {
+      "id": "382112",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/06/2015 ( seq-sf: 6 )",
+      "dataassinatura": "30/06/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "382111",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 6 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA SANTANA III, ÁREAS 1 E 2, LOCALIZADO NOS MUNICÍPIOS DE SALGUEIRO E CABROBÓ, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "id": "575256",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 8 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA VELAME, LOCALIZADO NO MUNICÍPIO DE VITÓRIA DA CONQUISTA, ESTADO DA BAHIA."
+    },
+    {
+      "id": "587164",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 1 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA ALTO ALEGRE E ADJACÊNCIA - BASE, LOCALIZADO NOS MUNICÍPIOS DE HORIZONTE E PACAJUS, ESTADO DO CEARÁ."
+    },
+    {
+      "id": "569381",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 7 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA CABRAL, LOCALIZADO NO MUNICÍPIO DE PARATY, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "576490",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 9 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA BACABAL, LOCALIZADO NO MUNICÍPIO DE SALVATERRA, ESTADO DO PARÁ."
+    },
+    {
+      "id": "590955",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 2 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA CHARCO, LOCALIZADO NO MUNICÍPIO DE SÃO VICENTE FÉRRER, ESTADO DO MARANHÃO."
+    },
+    {
+      "id": "587515",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 5 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA INVERNADA PAIOL DE TELHA, LOCALIZADO NO MUNICÍPIO DE RESERVA DO IGUAÇU, ESTADO DO PARANÁ."
+    },
+    {
+      "id": "583071",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 4 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA TIJUAÇU, LOCALIZADOS NOS MUNICÍPIOS DE SENHOR DO BONFIM, FILADÉLFIA E ANTÔNIO GONÇALVES, ESTADO DA BAHIA."
+    },
+    {
+      "id": "587784",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA SANTA ROSA DOS PRETOS, LOCALIZADO NO MUNICÍPIO DE ITAPECURU MIRIM, ESTADO DO MARANHÃO."
+    },
+    {
+      "id": "592489",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/2015 ( seq-sf: 3 )",
+      "dataassinatura": "22/06/2015",
+      "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS RURAIS ABRANGIDOS PELO TERRITÓRIO QUILOMBOLA FAMÍLIA THOMAZ, LOCALIZADO NO MUNICÍPIO DE TREZE DE MAIO, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "592488",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/2015 ( seq-sf: 3 )",
+      "dataassinatura": "03/06/2015",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE ARATU, LOCALIZADO NO MUNICÍPIO DE CANDEIAS, ESTADO DA BAHIA."
+    },
+    {
+      "id": "583070",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/2015 ( seq-sf: 4 )",
+      "dataassinatura": "03/06/2015",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE SALVADOR, LOCALIZADO NO MUNICÍPIO DE SALVADOR, ESTADO DA BAHIA."
+    },
+    {
+      "id": "590954",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/2015 ( seq-sf: 2 )",
+      "dataassinatura": "03/06/2015",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE PELOTAS, ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "id": "587783",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/2015",
+      "dataassinatura": "03/06/2015",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE BARRA DO RIACHO, ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "id": "587163",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/2015 ( seq-sf: 1 )",
+      "dataassinatura": "03/06/2015",
+      "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE PORTO ALEGRE, ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "id": "587782",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/05/2015",
+      "dataassinatura": "26/05/2015",
+      "ementa": "ABRE AOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO E DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 7.280.424.558,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587781",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/05/2015",
+      "dataassinatura": "13/05/2015",
+      "ementa": "ABRE AO ORÇAMENTO DA SEGURIDADE SOCIAL DA UNIÃO, EM FAVOR DO MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO, CRÉDITO ESPECIAL NO VALOR DE R$ 531.489,00, PARA O FIM QUE ESPECIFICA."
+    },
+    {
+      "id": "583069",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015 ( seq-sf: 4 )",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE PENHA, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "382110",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015 ( seq-sf: 6 )",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA TRANSBRASILIANA CONCESSIONÁRIA DE RODOVIA S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE JOSÉ BONIFÁCIO, ESTADO DE SÃO PAULO."
+    },
+    {
+      "id": "592487",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015 ( seq-sf: 3 )",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA FLUMINENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SILVA JARDIM, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "587162",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015 ( seq-sf: 1 )",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE ITIQUIRA, ESTADO DE MATO GROSSO."
+    },
+    {
+      "id": "587780",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587514",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015 ( seq-sf: 5 )",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCEBRA - CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE CANÁPOLIS, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "590953",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/05/2015 ( seq-sf: 2 )",
+      "dataassinatura": "07/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A. - CONCEBRA, O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE JUATUBA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587779",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/05/2015",
+      "dataassinatura": "06/05/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE TIJUCAS, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "590952",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/04/2015 ( seq-sf: 2 )",
+      "dataassinatura": "28/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE JOINVILLE, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "587161",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/04/2015 ( seq-sf: 1 )",
+      "dataassinatura": "28/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE TIJUCAS DO SUL, ESTADO DO PARANÁ."
+    },
+    {
+      "id": "587778",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/04/2015",
+      "dataassinatura": "28/04/2015",
+      "ementa": "CONVOCA A 3ª CONFERÊNCIA NACIONAL DE JUVENTUDE."
+    },
+    {
+      "id": "587777",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/04/2015",
+      "dataassinatura": "23/04/2015",
+      "ementa": "Reconhece como de interesse do Governo brasileiro a participação estrangeira no capital social da Deutsche Sparkassen Leasing do Brasil S.A. - Sociedade de Arrendamento Mercantil, a ser constituída pela Deutsche Sparkassen Leasing AG & Co., sociedade com sede na Alemanha."
+    },
+    {
+      "id": "590951",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 2 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA ECO101 CONCESSIONÁRIA DE RODOVIAS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE ICONHA, ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "id": "382109",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 6 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MSVIA - CONCESSIONÁRIA DE RODOVIA SUL-MATOGROSSENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SONORA, ESTADO DE MATO GROSSO DO SUL."
+    },
+    {
+      "id": "576489",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 9 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE RONDONÓPOLIS, ESTADO DE MATO GROSSO."
+    },
+    {
+      "id": "587513",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 5 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MS VIA - CONCESSIONÁRIA DE RODOVIA SUL-MATOGROSSENSE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE JUTI, ESTADO DE MATO GROSSO DO SUL."
+    },
+    {
+      "id": "587776",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015",
+      "dataassinatura": "22/04/2015",
+      "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DA SECRETARIA DE AVIAÇÃO CIVIL DA PRESIDÊNCIA DA REPÚBLICA, CRÉDITO SUPLEMENTAR NO VALOR DE R$ 643.673.295,00, PARA REFORÇO DE DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA VIGENTE."
+    },
+    {
+      "id": "587160",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 1 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE SÃO GONÇALO DO ABAETÉ, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "583068",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 4 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE UBERLÂNDIA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "575255",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 8 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "569380",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 7 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CATALÃO, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "575803",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 10 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE LUZIÂNIA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "592486",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 3 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE ITIQUIRA, ESTADO DE MATO GROSSO."
+    },
+    {
+      "id": "576863",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/2015 ( seq-sf: 11 )",
+      "dataassinatura": "22/04/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE BIGUAÇU, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "587775",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/04/2015",
+      "dataassinatura": "17/04/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA MAPARI, LOCALIZADA NOS MUNICÍPIOS DE JAPURÁ, FONTE BOA E TONANTINS, ESTADO DO AMAZONAS."
+    },
+    {
+      "id": "590950",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/04/2015 ( seq-sf: 2 )",
+      "dataassinatura": "17/04/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA ARARA DA VOLTA GRANDE DO XINGU, LOCALIZADA NO MUNICÍPIO DE SENADOR JOSÉ PORFÍRIO, ESTADO DO PARÁ."
+    },
+    {
+      "id": "587159",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/04/2015 ( seq-sf: 1 )",
+      "dataassinatura": "17/04/2015",
+      "ementa": "HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDÍGENA SETEMÃ, LOCALIZADA NOS MUNICÍPIOS DE BORBA E NOVO ARIPUANÃ, ESTADO DO AMAZONAS."
+    },
+    {
+      "id": "587774",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/04/2015",
+      "dataassinatura": "09/04/2015",
+      "ementa": "ALTERA, PARCIALMENTE, NO QUE CONCERNE AO MINISTÉRIO DA INTEGRAÇÃO NACIONAL, NO VALOR DE R$ 77.665.397,00, O GRUPO DE NATUREZA DE DESPESA DE CRÉDITO EXTRAORDINÁRIO ABERTO E REABERTO PELOS ATOS QUE ESPECIFICA."
+    },
+    {
+      "id": "590949",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 2 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA PLANALTO SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE MANDIRITUBA, ESTADO DO PARANÁ."
+    },
+    {
+      "id": "587512",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 5 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE RONDONÓPOLIS, ESTADO DO MATO GROSSO."
+    },
+    {
+      "id": "587773",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA BR-040 S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE ITABIRITO, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "383338",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 13 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA PLANALTO SUL S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE MAFRA, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "575254",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 8 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "583067",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 4 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCEBRA - CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE PERDIZES, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "576862",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 11 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE UBERLÂNDIA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "576488",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 9 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "382108",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 6 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCEBRA - CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE ITUMBIARA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "580683",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 12 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CUMARI, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587158",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 1 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA, EM FAVOR DA LOGUM LOGÍSTICA S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE ARAPOÃ, ESTADO DE MINAS GERAIS, E NO MUNICÍPIO DE ITUMBIARA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "575802",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 10 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "569379",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 7 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE IPAMERI, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "592485",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/2015 ( seq-sf: 3 )",
+      "dataassinatura": "31/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE LUZIÂNIA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587772",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/03/2015",
+      "dataassinatura": "30/03/2015",
+      "ementa": "CONVOCA A 4ª CONFERÊNCIA NACIONAL DE POLÍTICAS PARA AS MULHERES."
+    },
+    {
+      "id": "587511",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 5 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587771",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA ROTA DO OESTE S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE ITIQUIRA, ESTADO DE MATO GROSSO."
+    },
+    {
+      "id": "569378",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 7 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "592484",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 3 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCEBRA - CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE HIDROLÂNDIA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "590948",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 2 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA LITORAL SUL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE SÃO JOSÉ, ESTADO DE SANTA CATARINA."
+    },
+    {
+      "id": "583066",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 4 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCEBRA - CONCESSIONÁRIA DAS RODOVIAS CENTRAIS DO BRASIL S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE FLORESTAL, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "382107",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 6 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587157",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/03/2015 ( seq-sf: 1 )",
+      "dataassinatura": "20/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE LUZIÂNIA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "590947",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/03/2015 ( seq-sf: 2 )",
+      "dataassinatura": "10/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE UBERABA, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587770",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/03/2015",
+      "dataassinatura": "10/03/2015",
+      "ementa": "AUTORIZA O BANCO CENTRAL DO BRASIL A DOAR PARA A FUNDAÇÃO DO MEIO AMBIENTE DO ESTADO DE SANTA CATARINA - FATMA, FRAÇÃO IDEAL PERTENCENTE À UNIÃODE IMÓVEL LOCALIZADO NO ESTADO DE SANTA CATARINA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "id": "592483",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/03/2015 ( seq-sf: 3 )",
+      "dataassinatura": "10/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIA 040 - CONCESSIONÁRIA DA BR-040 S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE LUZIÂNIA, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587156",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/03/2015 ( seq-sf: 1 )",
+      "dataassinatura": "10/03/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587769",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/02/2015",
+      "dataassinatura": "26/02/2015",
+      "ementa": "REABRE, EM FAVOR DE EMPRESAS ESTATAIS, CRÉDITOS EXTRAORDINÁRIOS NO VALOR DE R$ 294.907.723,00, ABERTOS PELA MEDIDA PROVISÓRIA Nº 666, DE 30 DE DEZEMBRO DE 2014."
+    },
+    {
+      "id": "587768",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/2015",
+      "dataassinatura": "24/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "592482",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/2015 ( seq-sf: 3 )",
+      "dataassinatura": "24/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA BR-040 S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE CONSELHEIRO LAFAIETE, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "583065",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/2015 ( seq-sf: 4 )",
+      "dataassinatura": "24/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA RÉGIS BITTENCOURT S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE JUQUITIBA, ESTADO DE SÃO PAULO."
+    },
+    {
+      "id": "587155",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/2015 ( seq-sf: 1 )",
+      "dataassinatura": "24/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA AUTOPISTA FERNÃO DIAS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE BETIM, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "590946",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/2015 ( seq-sf: 2 )",
+      "dataassinatura": "24/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONÁRIA BR-040 S.A., O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE JOÃO PINHEIRO, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "id": "587510",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/2015 ( seq-sf: 5 )",
+      "dataassinatura": "24/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA VIABAHIA CONCESSIONÁRIA DE RODOVIAS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NOS MUNICÍPIOS DE SANTA TERESINHA, ITATIM E MILAGRES, ESTADO DA BAHIA."
+    },
+    {
+      "id": "587767",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/02/2015",
+      "dataassinatura": "12/02/2015",
+      "ementa": "REABRE, EM FAVOR DE DIVERSOS ÓRGÃOS DO PODER EXECUTIVO, DE ENCARGOS FINANCEIROS DA UNIÃO, DE TRANSFERÊNCIAS A ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS E DE OPERAÇÕES OFICIAIS DE CRÉDITO, CRÉDITOS EXTRAORDINÁRIO E ESPECIAIS, NO VALOR DE R$ 1.790.657.691,00, ABERTOS PELA MEDIDA PROVISÓRIA E PELAS LEIS QUE ESPECIFICA."
+    },
+    {
+      "id": "590945",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/02/2015 ( seq-sf: 2 )",
+      "dataassinatura": "04/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587766",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/02/2015",
+      "dataassinatura": "04/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA UNIÃO, PARA USO DA SUBSEÇÃO JUDICIÁRIA DE GUAJARÁ-MIRIM, DA SEÇÃO JUDICIÁRIA DO ESTADO DE RONDÔNIA, DO TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, O IMÓVEL QUE MENCIONA, LOCALIZADO NO MUNICÍPIO DE GUAJARÁ-MIRIM, ESTADO DE RONDÔNIA."
+    },
+    {
+      "id": "587154",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/02/2015 ( seq-sf: 1 )",
+      "dataassinatura": "04/02/2015",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA MGO RODOVIAS - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S.A., OS IMÓVEIS QUE MENCIONA, LOCALIZADOS NO MUNICÍPIO DE CAMPO ALEGRE DE GOIÁS, ESTADO DE GOIÁS."
+    },
+    {
+      "id": "587765",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/01/2015",
+      "dataassinatura": "28/01/2015",
+      "ementa": "INSTITUI GRUPO DE TRABALHO INTERMINISTERIAL PARA ACOMPANHAMENTO DE GASTOS PÚBLICOS  DO GOVERNO FEDERAL."
+    },
+    {
+      "id": "587153",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/01/2015 ( seq-sf: 1 )",
+      "dataassinatura": "28/01/2015",
+      "ementa": "REABRE, EM FAVOR DOS MINISTÉRIOS DA DEFESA E DA INTEGRAÇÃO NACIONAL, CRÉDITO EXTRAORDINÁRIO NO VALOR DE R$ 560.000.000,00, ABERTO PELA MEDIDA PROVISÓRIA Nº 666, DE 30 DE DEZEMBRO DE 2014."
+    }
+  ]
+}

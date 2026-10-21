@@ -1,0 +1,829 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1977",
+  "tipo": "DEL",
+  "ano": 1977,
+  "coletado_em": "2026-10-21T08:36:39.279Z",
+  "normas": [
+    {
+      "senadoId": "525819",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-30-1599",
+      "titulo": "Decreto-Lei nº 1.599 de 30/12/1977",
+      "data": "1977-12-30",
+      "numero": "1599",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-30;1599",
+      "ementa": "Altera a redação do artigo 2º do Decreto-lei nº 61, de 21 de novembro de 1966, que modificou a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos e dá outras providências."
+    },
+    {
+      "senadoId": "525817",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-26-1598",
+      "titulo": "Decreto-Lei nº 1.598 de 26/12/1977",
+      "data": "1977-12-26",
+      "numero": "1598",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-26;1598",
+      "ementa": "Altera a legislação do imposto sobre a renda."
+    },
+    {
+      "senadoId": "525815",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-23-1597",
+      "titulo": "Decreto-Lei nº 1.597 de 23/12/1977",
+      "data": "1977-12-23",
+      "numero": "1597",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-23;1597",
+      "ementa": "Altera a legislação relativa ao Imposto Único sobre Lubrificantes e   Combustíveis Líquidos e Gasosos, e dá outras providências."
+    },
+    {
+      "senadoId": "525813",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-22-1596",
+      "titulo": "Decreto-Lei nº 1.596 de 22/12/1977",
+      "data": "1977-12-22",
+      "numero": "1596",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-22;1596",
+      "ementa": "Altera os limites do benefício fiscal de que tratam os Decretos-leis nºs 1.358, de 12 de novembro de 1974, 1.431, de 5 de dezembro de 1975 e 1.491, de 1º de dezembro de 1976, e dá outras providências."
+    },
+    {
+      "senadoId": "525809",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-22-1594",
+      "titulo": "Decreto-Lei nº 1.594 de 22/12/1977",
+      "data": "1977-12-22",
+      "numero": "1594",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-22;1594",
+      "ementa": "Prorroga os incentivos fiscais previstos no Decreto-lei nº 221, de 28 de   fevereiro de 1967."
+    },
+    {
+      "senadoId": "525811",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-22-1595",
+      "titulo": "Decreto-Lei nº 1.595 de 22/12/1977",
+      "data": "1977-12-22",
+      "numero": "1595",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-22;1595",
+      "ementa": "Dispõe sobre o imposto de renda devido pelos importadores ou   distribuidores de filmes estrangeiros, e dá outras providências."
+    },
+    {
+      "senadoId": "525803",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-21-1591",
+      "titulo": "Decreto-Lei nº 1.591 de 21/12/1977",
+      "data": "1977-12-21",
+      "numero": "1591",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-21;1591",
+      "ementa": "Prorroga o prazo da isenção dos impostos de importação e sobre produtos   industrializados para equipamentos cinematográficos, e dá outras providências."
+    },
+    {
+      "senadoId": "525805",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-21-1592",
+      "titulo": "Decreto-Lei nº 1.592 de 21/12/1977",
+      "data": "1977-12-21",
+      "numero": "1592",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-21;1592",
+      "ementa": "Dispõe sobre a implantação do Grupo-Direção e Assistência Intermediárias,   do Plano de Classificação de Cargos do Serviço Civil do Distrito Federal e dá   outras providências."
+    },
+    {
+      "senadoId": "525807",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-21-1593",
+      "titulo": "Decreto-Lei nº 1.593 de 21/12/1977",
+      "data": "1977-12-21",
+      "numero": "1593",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-21;1593",
+      "ementa": "Altera a legislação do Imposto sobre Produtos Industrializados, em relação aos casos que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "525795",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-19-1587",
+      "titulo": "Decreto-Lei nº 1.587 de 19/12/1977",
+      "data": "1977-12-19",
+      "numero": "1587",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-19;1587",
+      "ementa": "Institui, nas condições que especifica, estímulos fiscais destinados às   empresas nacionais prestadoras de serviços a turistas estrangeiros no País."
+    },
+    {
+      "senadoId": "525797",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-19-1588",
+      "titulo": "Decreto-Lei nº 1.588 de 19/12/1977",
+      "data": "1977-12-19",
+      "numero": "1588",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-19;1588",
+      "ementa": "Fixa alíquotas do imposto de importação nos códigos da Nomenclatura   Brasileira de Mercadorias que enumera, e dá outras providências."
+    },
+    {
+      "senadoId": "525799",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-19-1589",
+      "titulo": "Decreto-Lei nº 1.589 de 19/12/1977",
+      "data": "1977-12-19",
+      "numero": "1589",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-19;1589",
+      "ementa": "Dispõe sobre prazos de vigência de Decretos-leis que estabelecem acrécimos   às alíquotas do imposto de importação, e dá outras providências."
+    },
+    {
+      "senadoId": "525801",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-19-1590",
+      "titulo": "Decreto-Lei nº 1.590 de 19/12/1977",
+      "data": "1977-12-19",
+      "numero": "1590",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-19;1590",
+      "ementa": "Dá nova redação a dispositivo do Decreto-Lei nº 1.310, de 08 de fevereiro   de 1974, que altera a legislação referente ao Fundo do Exército."
+    },
+    {
+      "senadoId": "525793",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-12-06-1586",
+      "titulo": "Decreto-Lei nº 1.586 de 06/12/1977",
+      "data": "1977-12-06",
+      "numero": "1586",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-12-06;1586",
+      "ementa": "Dispõe sobre a utilização de créditos do Imposto sobre Circulação de Mercadorias para dedução do valor do Imposto sobre Produtos Industrializados, ou nas modalidades de aproveitamento indicadas pelo Ministro da Fazenda, e dá outras providências."
+    },
+    {
+      "senadoId": "525791",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-11-30-1585",
+      "titulo": "Decreto-Lei nº 1.585 de 30/11/1977",
+      "data": "1977-11-30",
+      "numero": "1585",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-11-30;1585",
+      "ementa": "Concede isenção dos impostos de importação e sobre produtos   industrializados ao material que indica, importado pela ARSA - Aeroportos do Rio   de Janeiro S.A."
+    },
+    {
+      "senadoId": "525789",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-11-29-1584",
+      "titulo": "Decreto-Lei nº 1.584 de 29/11/1977",
+      "data": "1977-11-29",
+      "numero": "1584",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-11-29;1584",
+      "ementa": "Altera a legislação do Imposto de Renda e dá outras providências."
+    },
+    {
+      "senadoId": "525787",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-11-18-1583",
+      "titulo": "Decreto-Lei nº 1.583 de 18/11/1977",
+      "data": "1977-11-18",
+      "numero": "1583",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-11-18;1583",
+      "ementa": "Dispõe sobre a incidência do Imposto Único Sobre Lubrificantes e   Combustíveis Líquidos e Gasosos no álcool etílicos, para fins carburantes."
+    },
+    {
+      "senadoId": "525785",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-11-17-1582",
+      "titulo": "Decreto-Lei nº 1.582 de 17/11/1977",
+      "data": "1977-11-17",
+      "numero": "1582",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-11-17;1582",
+      "ementa": "Altera o Decreto-lei nº ;1.438, de 26 de dezembro de 1975, que dispõe   sobre o Imposto sobre os Serviços de Transporte Rodoviário Intermunicipal e   Interestadual de Passageiros e Cargas (ISTR)."
+    },
+    {
+      "senadoId": "525783",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-11-03-1581",
+      "titulo": "Decreto-Lei nº 1.581 de 03/11/1977",
+      "data": "1977-11-03",
+      "numero": "1581",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-11-03;1581",
+      "ementa": "Exclui a aplicação do art. 11 do Decreto-lei n° ;37, de 18 de novembro   de 1966, aos casos que especifica, extingue créditos tributários e dá outras   providências."
+    },
+    {
+      "senadoId": "525781",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-10-17-1580",
+      "titulo": "Decreto-Lei nº 1.580 de 17/10/1977",
+      "data": "1977-10-17",
+      "numero": "1580",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-10-17;1580",
+      "ementa": "Altera o inciso XIV do artigo 4º da Lei nº 4.595, de 31 de dezembro de   1964."
+    },
+    {
+      "senadoId": "525777",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-10-11-1578",
+      "titulo": "Decreto-Lei nº 1.578 de 11/10/1977",
+      "data": "1977-10-11",
+      "numero": "1578",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-10-11;1578",
+      "ementa": "Dispõe sobre o imposto de exportação e dá outras providências."
+    },
+    {
+      "senadoId": "525779",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-10-11-1579",
+      "titulo": "Decreto-Lei nº 1.579 de 11/10/1977",
+      "data": "1977-10-11",
+      "numero": "1579",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-10-11;1579",
+      "ementa": "Modifica o Decreto-lei nº 1.510, de 27 de dezembro de 1976, que dispõe   sobre a tributação de resultados obtidos na transferência de participações   societárias e nas operações com imóveis."
+    },
+    {
+      "senadoId": "525775",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-10-10-1577",
+      "titulo": "Decreto-Lei nº 1.577 de 10/10/1977",
+      "data": "1977-10-10",
+      "numero": "1577",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-10-10;1577",
+      "ementa": "Dispõe sobre a concessão de isenção do Imposto de Importação e do Imposto   Sobre Produtos Industrializados, nos casos que especifica."
+    },
+    {
+      "senadoId": "525773",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-10-06-1576",
+      "titulo": "Decreto-Lei nº 1.576 de 06/10/1977",
+      "data": "1977-10-06",
+      "numero": "1576",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-10-06;1576",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos   Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos   Territórios."
+    },
+    {
+      "senadoId": "525771",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-09-23-1575",
+      "titulo": "Decreto-Lei nº 1.575 de 23/09/1977",
+      "data": "1977-09-23",
+      "numero": "1575",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-09-23;1575",
+      "ementa": "Autoriza o Ministro da Fazenda a conceder redução de alíquotas do Imposto   sobre Produtos Industrializados para os produtos que menciona, e dá outras   providências."
+    },
+    {
+      "senadoId": "525769",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-09-19-1574",
+      "titulo": "Decreto-Lei nº 1.574 de 19/09/1977",
+      "data": "1977-09-19",
+      "numero": "1574",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-09-19;1574",
+      "ementa": "Altera o Anexo VII do Decreto-lei nº 1.445, de 13 de fevereiro de 1976,   que alterou o Anexo II do Decreto- lei nº 1.341, de 22 de agosto de 1974."
+    },
+    {
+      "senadoId": "525767",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-09-05-1573",
+      "titulo": "Decreto-Lei nº 1.573 de 05/09/1977",
+      "data": "1977-09-05",
+      "numero": "1573",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-09-05;1573",
+      "ementa": "Dispõe sobre criação de cargos e empregos nas Secretarias do Tribunal   Federal de Recursos e do Conselho da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525765",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-09-01-1572",
+      "titulo": "Decreto-Lei nº 1.572 de 01/09/1977",
+      "data": "1977-09-01",
+      "numero": "1572",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-09-01;1572",
+      "ementa": "Revoga a Lei nº ;3.577, de 4 de julho de 1959, e dá outras   providências."
+    },
+    {
+      "senadoId": "525763",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-08-31-1571",
+      "titulo": "Decreto-Lei nº 1.571 de 31/08/1977",
+      "data": "1977-08-31",
+      "numero": "1571",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-08-31;1571",
+      "ementa": "Faculta, para fins de imposto de renda, adoção de coeficientes de   depreciação acelerada de vagões, terminais, ramais e desvios ferroviários."
+    },
+    {
+      "senadoId": "525761",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-08-09-1570",
+      "titulo": "Decreto-Lei nº 1.570 de 09/08/1977",
+      "data": "1977-08-09",
+      "numero": "1570",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-08-09;1570",
+      "ementa": "Extingue a cobrança dos emolumentos consulares sobre os documentos   referentes ao transporte internacional de pessoas ou mercadorias."
+    },
+    {
+      "senadoId": "525759",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-08-08-1569",
+      "titulo": "Decreto-Lei nº 1.569 de 08/08/1977",
+      "data": "1977-08-08",
+      "numero": "1569",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-08-08;1569",
+      "ementa": "Modifica o artigo 11 do Decreto-lei n.º 352, de 17 de junho de 1968, alterado pelo artigo 1º do Decreto-lei n.º 623, de 11 de junho de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "525757",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-08-02-1568",
+      "titulo": "Decreto-Lei nº 1.568 de 02/08/1977",
+      "data": "1977-08-02",
+      "numero": "1568",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-08-02;1568",
+      "ementa": "Concede isenção do IPI para produtos endoparasiticidas."
+    },
+    {
+      "senadoId": "525755",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-08-01-1567",
+      "titulo": "Decreto-Lei nº 1.567 de 01/08/1977",
+      "data": "1977-08-01",
+      "numero": "1567",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-08-01;1567",
+      "ementa": "Dispõe sobre a aplicação das normas previstas no artigo 3º e seu parágrafo   do Decreto-lei n.º 1.531, de 30 de março de 1977, aos contratos de financiamento   de que trata o artigo 1º do Decreto-lei n.º 1.452, de 30 de março de 1976."
+    },
+    {
+      "senadoId": "525753",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-08-01-1566",
+      "titulo": "Decreto-Lei nº 1.566 de 01/08/1977",
+      "data": "1977-08-01",
+      "numero": "1566",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-08-01;1566",
+      "ementa": "Autoriza a subscrição, pelo Tesouro Nacional, de ações da Siderurgia   Brasileira S.A. - SIDERBRÁS e dá outras providências."
+    },
+    {
+      "senadoId": "525749",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-07-29-1564",
+      "titulo": "Decreto-Lei nº 1.564 de 29/07/1977",
+      "data": "1977-07-29",
+      "numero": "1564",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-07-29;1564",
+      "ementa": "Altera incentivos fiscais do imposto sobre a renda para empreendimentos localizados nas áreas da SUDAM e da SUDENE."
+    },
+    {
+      "senadoId": "525747",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-07-29-1563",
+      "titulo": "Decreto-Lei nº 1.563 de 29/07/1977",
+      "data": "1977-07-29",
+      "numero": "1563",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-07-29;1563",
+      "ementa": "Acrescenta os parágrafos 5º, 6º e 7º, ao artigo 11, do Decreto-lei nº.   1.376, de 12 de dezembro de 1974, que \"Dispõe sobre a criação de fundos de   Investimentos, altera a Legislação do Imposto sobre a Renda relativa a   incentivos fiscais, e dá outras providências\"."
+    },
+    {
+      "senadoId": "525751",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-07-29-1565",
+      "titulo": "Decreto-Lei nº 1.565 de 29/07/1977",
+      "data": "1977-07-29",
+      "numero": "1565",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-07-29;1565",
+      "ementa": "Estabelece condições especiais para importação de bens destinados à   produção de petróleo bruto e gás natural na Bacia de Campos, na Plataforma   Continental Brasileira e dá outras providências."
+    },
+    {
+      "senadoId": "525745",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-07-19-1562",
+      "titulo": "Decreto-Lei nº 1.562 de 19/07/1977",
+      "data": "1977-07-19",
+      "numero": "1562",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-07-19;1562",
+      "ementa": "Aumenta os limites do Decreto-lei nº. 1.312, de 15 de fevereiro de 1974, alterado pelo Decreto-lei nº. 1.460, de 22 de abril de 1976, e dá outras providências."
+    },
+    {
+      "senadoId": "525743",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-07-13-1561",
+      "titulo": "Decreto-Lei nº 1.561 de 13/07/1977",
+      "data": "1977-07-13",
+      "numero": "1561",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-07-13;1561",
+      "ementa": "Dispõe sobre a ocupação de terrenos da União e dá outras providências."
+    },
+    {
+      "senadoId": "525741",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-06-30-1560",
+      "titulo": "Decreto-Lei nº 1.560 de 30/06/1977",
+      "data": "1977-06-30",
+      "numero": "1560",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-06-30;1560",
+      "ementa": "Dispõe sobre a tributação de rendimentos das obrigações ao portador da   Eletrobrás."
+    },
+    {
+      "senadoId": "525739",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-06-29-1559",
+      "titulo": "Decreto-Lei nº 1.559 de 29/06/1977",
+      "data": "1977-06-29",
+      "numero": "1559",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-06-29;1559",
+      "ementa": "Fixa percentuais de depreciação aplicáveis a bens desembaraçados com a   isenção de que tratam os incisos IV e V do artigo 15 do Decreto-lei nº 37, de 18   de novembro de 1966."
+    },
+    {
+      "senadoId": "525737",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-06-17-1558",
+      "titulo": "Decreto-Lei nº 1.558 de 17/06/1977",
+      "data": "1977-06-17",
+      "numero": "1558",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-06-17;1558",
+      "ementa": "Altera a redação do artigo 4º, e seu parágrafo, do Decreto-lei nº 1.312,   de 15 de fevereiro de 1974."
+    },
+    {
+      "senadoId": "525735",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-06-14-1557",
+      "titulo": "Decreto-Lei nº 1.557 de 14/06/1977",
+      "data": "1977-06-14",
+      "numero": "1557",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-06-14;1557",
+      "ementa": "Dispõe sobre a participação acionária da União no capital do Banco da   Amazônia S/A e a concessão de incentivos fiscais às pesoas físicas que   adquirirem ações do mesmo estabelecimento."
+    },
+    {
+      "senadoId": "525733",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-06-07-1556",
+      "titulo": "Decreto-Lei nº 1.556 de 07/06/1977",
+      "data": "1977-06-07",
+      "numero": "1556",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-06-07;1556",
+      "ementa": "Dispõe sobre a não-incidência da cota de previdência sobre os combustíveis   automotivos destinados à exportação e dá outras providências."
+    },
+    {
+      "senadoId": "525731",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-05-27-1555",
+      "titulo": "Decreto-Lei nº 1.555 de 27/05/1977",
+      "data": "1977-05-27",
+      "numero": "1555",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-05-27;1555",
+      "ementa": "Estabelece normas para a distribuição e aplicação dos recursos   provenientes do adicional do Imposto Único sobre Combustíveis Liquídos e   Gasosos."
+    },
+    {
+      "senadoId": "525729",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-05-24-1554",
+      "titulo": "Decreto-Lei nº 1.554 de 24/05/1977",
+      "data": "1977-05-24",
+      "numero": "1554",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-05-24;1554",
+      "ementa": "Concede isenção de impostos aos objetos integrantes de uma coleção   representativa de desenho industrial, importados pela Federação das Indústrias   do Estado de São Paulo."
+    },
+    {
+      "senadoId": "525727",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-05-20-1553",
+      "titulo": "Decreto-Lei nº 1.553 de 20/05/1977",
+      "data": "1977-05-20",
+      "numero": "1553",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-05-20;1553",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria do   Tribunal de Justiça do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525725",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-05-20-1552",
+      "titulo": "Decreto-Lei nº 1.552 de 20/05/1977",
+      "data": "1977-05-20",
+      "numero": "1552",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-05-20;1552",
+      "ementa": "Autoriza o Poder Executivo a antecipar recursos para os Fundos Especiais,   e dá outras providências."
+    },
+    {
+      "senadoId": "525723",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-05-02-1551",
+      "titulo": "Decreto-Lei nº 1.551 de 02/05/1977",
+      "data": "1977-05-02",
+      "numero": "1551",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-05-02;1551",
+      "ementa": "Reajusta os vencimentos e salários dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525721",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-26-1550",
+      "titulo": "Decreto-Lei nº 1.550 de 26/04/1977",
+      "data": "1977-04-26",
+      "numero": "1550",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-26;1550",
+      "ementa": "Reajusta os vencimentos dos servidores das Secretarias das Seções   Judiciárias da Justiça Federal de Primeira Instância e dá outras providências."
+    },
+    {
+      "senadoId": "525719",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-20-1549",
+      "titulo": "Decreto-Lei nº 1.549 de 20/04/1977",
+      "data": "1977-04-20",
+      "numero": "1549",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-20;1549",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores das Secretarias dos   Tribunais Regionais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "525717",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-20-1548",
+      "titulo": "Decreto-Lei nº 1.548 de 20/04/1977",
+      "data": "1977-04-20",
+      "numero": "1548",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-20;1548",
+      "ementa": "Reajusta os vencimentos e proventos dos servidores da Secretaria do   Tribunal Superior Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "525715",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-18-1547",
+      "titulo": "Decreto-Lei nº 1.547 de 18/04/1977",
+      "data": "1977-04-18",
+      "numero": "1547",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-18;1547",
+      "ementa": "Institui incentivo fiscal para o setor siderúrgico e dá outras   providências."
+    },
+    {
+      "senadoId": "525713",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-15-1546",
+      "titulo": "Decreto-Lei nº 1.546 de 15/04/1977",
+      "data": "1977-04-15",
+      "numero": "1546",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-15;1546",
+      "ementa": "Reajusta os vencimentos e gratificações dos membros do Tribunal de Contas do Distrito Federal e respectivo Ministério Público."
+    },
+    {
+      "senadoId": "525711",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-15-1545",
+      "titulo": "Decreto-Lei nº 1.545 de 15/04/1977",
+      "data": "1977-04-15",
+      "numero": "1545",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-15;1545",
+      "ementa": "Fixa o valor do soldo dos postos de Coronel PM da Polícia Militar e de   Coronel BM do Corpo de Bombeiros do Distrito Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "525709",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-15-1544",
+      "titulo": "Decreto-Lei nº 1.544 de 15/04/1977",
+      "data": "1977-04-15",
+      "numero": "1544",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-15;1544",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Distrito Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525703",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-14-1541",
+      "titulo": "Decreto-Lei nº 1.541 de 14/04/1977",
+      "data": "1977-04-14",
+      "numero": "1541",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-14;1541",
+      "ementa": "Institui sublegendas para as eleições de senador e prefeito e dá outras   provudências."
+    },
+    {
+      "senadoId": "525697",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-14-1538",
+      "titulo": "Decreto-Lei nº 1.538 de 14/04/1977",
+      "data": "1977-04-14",
+      "numero": "1538",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-14;1538",
+      "ementa": "Altera a redação do artigo 250 da Lei nº 4.737, de 15 de julho de 1965,   modificada pela Lei nº 6.339, de 1º de julho de 1976, e dá outras providências."
+    },
+    {
+      "senadoId": "525699",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-14-1539",
+      "titulo": "Decreto-Lei nº 1.539 de 14/04/1977",
+      "data": "1977-04-14",
+      "numero": "1539",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-14;1539",
+      "ementa": "Altera a Lei Complementar n.º15, de 13 de agosto de 1973, que regula a   composição e o funcionamento do colégio que elegerá o Presidente da República."
+    },
+    {
+      "senadoId": "525705",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-14-1542",
+      "titulo": "Decreto-Lei nº 1.542 de 14/04/1977",
+      "data": "1977-04-14",
+      "numero": "1542",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-14;1542",
+      "ementa": "Altera a Lei Complementar nº 5, de 29 de abril de 1970, modificada pela   Lei Complementar nº 18, de 10 de maio de 1974."
+    },
+    {
+      "senadoId": "525707",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-14-1543",
+      "titulo": "Decreto-Lei nº 1.543 de 14/04/1977",
+      "data": "1977-04-14",
+      "numero": "1543",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-14;1543",
+      "ementa": "Regula a eleição de senador, prevista no § 2º do artigo 41, \"in fine\", da   Constituição Federal."
+    },
+    {
+      "senadoId": "525701",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-14-1540",
+      "titulo": "Decreto-Lei nº 1.540 de 14/04/1977",
+      "data": "1977-04-14",
+      "numero": "1540",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-14;1540",
+      "ementa": "Regula a composição e o funcionamento do colégio eleitoral que elegerá o   Governador de Estado e dá outras providências."
+    },
+    {
+      "senadoId": "525691",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-13-1535",
+      "titulo": "Decreto-Lei nº 1.535 de 13/04/1977",
+      "data": "1977-04-13",
+      "numero": "1535",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-13;1535",
+      "ementa": "Altera o Capítulo IV do Título II da Consolidação das Leis do Trabalho, relativo a Férias, e dá outras providências."
+    },
+    {
+      "senadoId": "525693",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-13-1536",
+      "titulo": "Decreto-Lei nº 1.536 de 13/04/1977",
+      "data": "1977-04-13",
+      "numero": "1536",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-13;1536",
+      "ementa": "Reajusta os vencimentos dos servidores das Secretarias do Tribunal Federal   de Recursos e do Conselho da Justiça Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525689",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-13-1534",
+      "titulo": "Decreto-Lei nº 1.534 de 13/04/1977",
+      "data": "1977-04-13",
+      "numero": "1534",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-13;1534",
+      "ementa": "Assegura a prorrogação, pelos prazos que especifica, de locações   residenciais."
+    },
+    {
+      "senadoId": "525695",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-13-1537",
+      "titulo": "Decreto-Lei nº 1.537 de 13/04/1977",
+      "data": "1977-04-13",
+      "numero": "1537",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-13;1537",
+      "ementa": "Isenta do pagamento de custas e emolumentos a prática de quaisquer atos,   pelos Ofícios e Cartórios de Registro de Imóveis, de Registro de Títulos e   Documentos e de Notas, relativos às solicitações feitas pela União."
+    },
+    {
+      "senadoId": "525687",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-04-11-1533",
+      "titulo": "Decreto-Lei nº 1.533 de 11/04/1977",
+      "data": "1977-04-11",
+      "numero": "1533",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-04-11;1533",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria   do Supremo Tribunal Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "525685",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-03-30-1532",
+      "titulo": "Decreto-Lei nº 1.532 de 30/03/1977",
+      "data": "1977-03-30",
+      "numero": "1532",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-03-30;1532",
+      "ementa": "Autoriza a concessão dos incentivos fiscais previstos no Decreto-lei nº1.346, de 25 de setembro de 1974, nos casos que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "525683",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-03-30-1531",
+      "titulo": "Decreto-Lei nº 1.531 de 30/03/1977",
+      "data": "1977-03-30",
+      "numero": "1531",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-03-30;1531",
+      "ementa": "Concede incentivo a financiamentos para a execução do programa de apoio à   capitalização da empresa privada nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "525681",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-03-24-1530",
+      "titulo": "Decreto-Lei nº 1.530 de 24/03/1977",
+      "data": "1977-03-24",
+      "numero": "1530",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-03-24;1530",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis dos Quadros Permanentes e Suplementares do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências."
+    },
+    {
+      "senadoId": "525679",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-03-17-1529",
+      "titulo": "Decreto-Lei nº 1.529 de 17/03/1977",
+      "data": "1977-03-17",
+      "numero": "1529",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-03-17;1529",
+      "ementa": "Reajusta os vencimentos e salários dos servidores das Secretarias dos   Tribunais do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "525677",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-03-14-1528",
+      "titulo": "Decreto-Lei nº 1.528 de 14/03/1977",
+      "data": "1977-03-14",
+      "numero": "1528",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-03-14;1528",
+      "ementa": "Revoga disposição do Decreto-lei nº 4.541, de 31 de julho de 1942."
+    },
+    {
+      "senadoId": "525675",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-03-10-1527",
+      "titulo": "Decreto-Lei nº 1.527 de 10/03/1977",
+      "data": "1977-03-10",
+      "numero": "1527",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-03-10;1527",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria Geral do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "525673",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-02-28-1526",
+      "titulo": "Decreto-Lei nº 1.526 de 28/02/1977",
+      "data": "1977-02-28",
+      "numero": "1526",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-02-28;1526",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração dos militares."
+    },
+    {
+      "senadoId": "525671",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-02-28-1525",
+      "titulo": "Decreto-Lei nº 1.525 de 28/02/1977",
+      "data": "1977-02-28",
+      "numero": "1525",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-02-28;1525",
+      "ementa": "Reajusta os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências."
+    },
+    {
+      "senadoId": "525669",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-02-14-1524",
+      "titulo": "Decreto-Lei nº 1.524 de 14/02/1977",
+      "data": "1977-02-14",
+      "numero": "1524",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-02-14;1524",
+      "ementa": "Dispõe sobre as tarifas dos transportes aéreos domésticos."
+    },
+    {
+      "senadoId": "525667",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-02-03-1523",
+      "titulo": "Decreto-Lei nº 1.523 de 03/02/1977",
+      "data": "1977-02-03",
+      "numero": "1523",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-02-03;1523",
+      "ementa": "Autoriza a criação de Coordenadorias Especiais no Instituto Nacional de   Colonização e Reforma Agrária nas condições que especifica, dispõe sobre a   retribuição do respectivo pessoal e dá outras providências."
+    },
+    {
+      "senadoId": "525665",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-02-02-1522",
+      "titulo": "Decreto-Lei nº 1.522 de 02/02/1977",
+      "data": "1977-02-02",
+      "numero": "1522",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-02-02;1522",
+      "ementa": "Concede isenção dos impostos de importação e sobre produtos   industrializados aos bens destinados a projetos prioritários em execução no   setor de energia elétrica, e dá outras providências."
+    },
+    {
+      "senadoId": "525663",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-01-26-1521",
+      "titulo": "Decreto-Lei nº 1.521 de 26/01/1977",
+      "data": "1977-01-26",
+      "numero": "1521",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-01-26;1521",
+      "ementa": "Revoga, a partir do exercício de 1977, as normas legais e regulamentares   autorizativas de destinações especiais dos resultados atribuíveis à União nas   empresas públicas e sociedades de economia mista federais."
+    },
+    {
+      "senadoId": "525661",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-01-17-1520",
+      "titulo": "Decreto-Lei nº 1.520 de 17/01/1977",
+      "data": "1977-01-17",
+      "numero": "1520",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-01-17;1520",
+      "ementa": "Estabelece condição para aquisição dos derivados de petróleo que menciona   e dá outras providências."
+    },
+    {
+      "senadoId": "525659",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-01-05-1519",
+      "titulo": "Decreto-Lei nº 1.519 de 05/01/1977",
+      "data": "1977-01-05",
+      "numero": "1519",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-01-05;1519",
+      "ementa": "Altera a Tarifa Aduaneira do Brasil (TAB), e dá outras providências."
+    },
+    {
+      "senadoId": "525657",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1977-01-04-1518",
+      "titulo": "Decreto-Lei nº 1.518 de 04/01/1977",
+      "data": "1977-01-04",
+      "numero": "1518",
+      "urn": "urn:lex:br:federal:decreto.lei:1977-01-04;1518",
+      "ementa": "Dispõe sobre a criação do Quadro de Pessoal dos Órgãos Auxiliares da   Justiça do Distrito Federal e dos Territórios, retribuído pelos cofres públicos,   e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

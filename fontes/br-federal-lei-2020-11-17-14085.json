@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-11-17-14085",
+  "titulo": "Lei nº 14.085 de 17/11/2020",
+  "data": "2020-11-17",
+  "fonte": "https://normas.leg.br/api/public/binario/246e42b8-8e76-4c32-9872-c8da3159d196/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-11-17;14085",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-11-17%3B14085&tipo_documento=maior-detalhe",
+  "sha256_dados": "f58e6454ac5a13ce21d2053d121b4566c283229e66a5f66214e5b87de77ff299",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:19.049Z",
+  "sha256_fonte": "9defdd3ba8113ff7f0e5cfd121844727e1d67f2339e2f865a462f498fc3dd59c",
+  "sha256_markdown": "39738ba1823658af60c14161975cf96e46b6a9ddfdd3870f61cb6ee072557e2d"
+}

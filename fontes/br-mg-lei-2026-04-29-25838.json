@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-04-29-25838",
+  "titulo": "LEI nº 25838, de 29/04/2026",
+  "data": "2026-04-29",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25838/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25838/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "36a4581212444838afe073328c96fee149058f23f6ed811fbd585a60327da158",
+  "coletado_em": "2026-10-21T08:26:50.763Z",
+  "sha256_fonte": "b2f626422ad8ea5f41748f9166bb43b880e21c0601e6d6fa152dff7f409c41cb",
+  "sha256_markdown": "bd048c47d7903b2650f69206cc1b1d160880cb02504c5230748fe8fd7aa4866a"
+}

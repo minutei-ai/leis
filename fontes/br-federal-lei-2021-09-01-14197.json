@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-09-01-14197",
+  "titulo": "Lei nº 14.197 de 01/09/2021",
+  "data": "2021-09-01",
+  "fonte": "https://normas.leg.br/api/public/binario/73d299f7-6006-4889-9601-00e76a7f3d1e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-09-01;14197",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-09-01%3B14197&tipo_documento=maior-detalhe",
+  "sha256_dados": "88f733217aeede44c959489709c94c900f53d506213b1f18d1c2379447dd7849",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:39:07.241Z",
+  "sha256_fonte": "e4f1bf37ea8db7a1423e81796842855c3fa976c2043a4da12cf65399e785bc51",
+  "sha256_markdown": "b2839bc3c117edd7f54a9cea7dee5b750a9ebc996116bba1bd9e4673de87bef6"
+}

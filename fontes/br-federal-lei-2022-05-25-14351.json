@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-05-25-14351",
+  "titulo": "Lei nº 14.351 de 25/05/2022",
+  "data": "2022-05-25",
+  "fonte": "https://normas.leg.br/api/public/binario/60e57f41-7544-4868-a3bb-7a6ee5caa297/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-05-25;14351",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-05-25%3B14351&tipo_documento=maior-detalhe",
+  "sha256_dados": "b9a6a360737639f034661ab1f1d158cf3ba4a18aea1080b6a35544d7541a192e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:35:52.312Z",
+  "sha256_fonte": "494a0b944d3abd0d29347f1e9567f5f5e5f3e4dcb1966bdb16e73fb9658c9e79",
+  "sha256_markdown": "3c2009bbbd2e0bf0119255fcfae436920b8f77fcba46be97c9a7d8fdfdc4787c"
+}

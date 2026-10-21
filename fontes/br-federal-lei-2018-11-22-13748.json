@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-22-13748",
+  "titulo": "Lei nº 13.748 de 22/11/2018",
+  "data": "2018-11-22",
+  "fonte": "https://normas.leg.br/api/public/binario/44c7405e-61ee-4ae8-bd72-7ee014ed2f58/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-22;13748",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-22%3B13748&tipo_documento=maior-detalhe",
+  "sha256_dados": "b011b8065c73869877c06ce79453a7c6e965259e6a302a8c7f6512e88f638abe",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:00.552Z",
+  "sha256_fonte": "80e945e3a696f929e90767fb49e85cac6ed842ede18cc99cc2791408aeb1bb49",
+  "sha256_markdown": "aa7cfb0b9b707a5c281a40fd3d2b9acbf6722727bb4ca8b3f8164e5d5fd9d01e"
+}

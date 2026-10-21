@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-01-14-25153",
+  "titulo": "LEI nº 25153, de 14/01/2025",
+  "data": "2025-01-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25153/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25153/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ec24f20b5ad98f4a97fc42517f397733d95f667b50ed01c6693d2f211bcbeb51",
+  "coletado_em": "2026-10-21T08:29:51.549Z",
+  "sha256_fonte": "7d6cf63eb79b27023872d4d439eadb48483852fa63e750e2ec9b86b1c9a5f025",
+  "sha256_markdown": "2f4642312843dfbed47e8031e0611662f6d428dbc81940f92962949e14011667"
+}

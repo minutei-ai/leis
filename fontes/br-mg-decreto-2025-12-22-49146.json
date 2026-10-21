@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-12-22-49146",
+  "titulo": "DEC nº 49146, de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49146/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49146/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "126e4cf3a2438c6de25abd33066379b94b0aba2b3da94a023565db6ba8995573",
+  "coletado_em": "2026-10-21T08:36:26.461Z",
+  "sha256_fonte": "19e17d056402b8b343a44df21ad82e7c73afbf25eeeb5a9e92cfa5a5c57b6296",
+  "sha256_markdown": "dad8e76bed7ff3956671585038d837f4d373cc3f89c1d8551a2c772fac0d8f5a"
+}

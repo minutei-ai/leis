@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-07-10-13692",
+  "titulo": "Lei nº 13.692 de 10/07/2018",
+  "data": "2018-07-10",
+  "fonte": "https://normas.leg.br/api/public/binario/7630d414-f2ba-4efc-b511-5fe32e78f0c6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-07-10;13692",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-07-10%3B13692&tipo_documento=maior-detalhe",
+  "sha256_dados": "51a90aadd1101ca086491fbb3eb83312c019d44d017105df975bbbcac05142c9",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:01.369Z",
+  "sha256_fonte": "d2a9f9f9c89fe82672ff499cdf598e5fa06ddf97d4428c42e733808ec1436ad0",
+  "sha256_markdown": "63b053a0c85dd72bc327686632e1b0183f22357fdfb283a3340627d1ffdd6c7a"
+}

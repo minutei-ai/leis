@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-12-16-14108",
+  "titulo": "Lei nº 14.108 de 16/12/2020",
+  "data": "2020-12-16",
+  "fonte": "https://normas.leg.br/api/public/binario/d38b4765-1a0f-4b2a-8258-c27c40b17592/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-12-16;14108",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-12-16%3B14108&tipo_documento=maior-detalhe",
+  "sha256_dados": "84167fd412360ea47573deeecce61165e335f20c31ebcd62f696eda582fef2a8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:02.498Z",
+  "sha256_fonte": "ec380c97c63f43114258f1598747fe11ccfb3c0f87aa12fa260f88eea0a0fbf6",
+  "sha256_markdown": "d43e1aa5f2ca919d9c8c002e90430b11e150f9296bb5cc1fddc8e1dcf1a6e5e8"
+}

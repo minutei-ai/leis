@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-01-21-49164",
+  "titulo": "DEC nº 49164, de 21/01/2026",
+  "data": "2026-01-21",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49164/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49164/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "73e4e7d922b63e2be6215028fe6d517037339d8b23f3be41d6640aa5f7c01998",
+  "coletado_em": "2026-10-21T08:25:27.003Z",
+  "sha256_fonte": "b0246ac7ba7795bd11ad7b33cc2e754d96bf980b6cf9c2d3c73f86234d538d60",
+  "sha256_markdown": "a24195ca9cc85c1cb9f507457b45a4f199f3fe0c56f798a39a44fa5ba09077d6"
+}

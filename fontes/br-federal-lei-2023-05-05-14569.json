@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-05-05-14569",
+  "titulo": "Lei nº 14.569 de 05/05/2023",
+  "data": "2023-05-05",
+  "fonte": "https://normas.leg.br/api/public/binario/26170eb2-41b3-48fa-b929-172ad1d5eb12/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-05-05;14569",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-05-05%3B14569&tipo_documento=maior-detalhe",
+  "sha256_dados": "4e9b0ff3632b56674455b55e4654b9bad4c52a8c44a0e2a3bdb41bd2b5554c76",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:31:04.770Z",
+  "sha256_fonte": "833e4cdc60c60f05edd831d3d4ffe5087f46b6cf6bec317a607c2ea68b10b4db",
+  "sha256_markdown": "711e204a8f955b9328ac5a67aaf41ac7f528ac1b1497e025ccc1749e50cf4d04"
+}

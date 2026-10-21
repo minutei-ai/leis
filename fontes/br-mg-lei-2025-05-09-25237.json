@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-05-09-25237",
+  "titulo": "LEI nº 25237, de 09/05/2025",
+  "data": "2025-05-09",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25237/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25237/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "77c5c3d9865d4ca46e63f8f62461acdef2bd854b1e6b347af7298a61d91016e3",
+  "coletado_em": "2026-10-21T08:31:12.836Z",
+  "sha256_fonte": "fa5db5fd205db8582e8dd0523bd05a871bb2ac93100f9d11fadf079259a0d61b",
+  "sha256_markdown": "58b48172216e15b33b797121bc4a2a96b8d82cb8867ef607427adef64978bdc4"
+}

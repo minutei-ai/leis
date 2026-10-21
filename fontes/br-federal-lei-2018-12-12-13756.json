@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-12-12-13756",
+  "titulo": "Lei nº 13.756 de 12/12/2018",
+  "data": "2018-12-12",
+  "fonte": "https://normas.leg.br/api/public/binario/d078aa08-240c-4b2d-a1e6-73c88d6c9de3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-12-12;13756",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-12-12%3B13756&tipo_documento=maior-detalhe",
+  "sha256_dados": "2970f3b9d9a57afdd939d651d4234f92d2a0c41e625729cd07d236e64f1b3af5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:48:40.745Z",
+  "sha256_fonte": "17a37ccc395ae1cb8cd0598a54b265986e4eede5c748622647170a024e63b768",
+  "sha256_markdown": "1ddd97096d013c4fc7840a863faa6ce7cbd36159983f7e611a87b85cbade4490"
+}

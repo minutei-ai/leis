@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-13-25695",
+  "titulo": "LEI nº 25695, de 13/01/2026",
+  "data": "2026-01-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25695/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25695/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f763069098956fe0abf06848f0038286eba34ba478de99c99847a7921c2f5969",
+  "coletado_em": "2026-10-21T08:24:52.566Z",
+  "sha256_fonte": "d8215dff90fdcd093393f2ca57786860b5a4de91db29520382caca15dc941a89",
+  "sha256_markdown": "07360753eeb4328ee6cf9c79d5786ccd574881fb9e5f74ecec3e68a3f524a1b5"
+}

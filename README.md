@@ -2,7 +2,7 @@
 
 Acervo público do [Minutei](https://minutei.legal), coletado diretamente de fontes oficiais. Um arquivo Markdown por norma, com origem, versão, data de coleta e hashes SHA-256. O objetivo é ampliar o acesso à legislação brasileira em texto simples, com coleta reproduzível e histórico real das atualizações.
 
-As quantidades publicadas, os catálogos consultados e o que falta coletar estão em **[COBERTURA.md](COBERTURA.md)**. O acervo está em formação e ainda não contém todas as leis brasileiras. Não há atualização automática habilitada.
+As quantidades publicadas, os catálogos consultados e o que falta coletar estão em **[COBERTURA.md](COBERTURA.md)**. O acervo está em formação e ainda não contém todas as leis brasileiras. A coleta em lotes está configurada no GitHub Actions a cada seis horas, além da execução manual. A automação só publica material que passa pelos testes e pela auditoria; isso não certifica completude nacional.
 
 ## Consultar
 
@@ -11,6 +11,8 @@ As quantidades publicadas, os catálogos consultados e o que falta coletar estã
 - [Código de Processo Civil — Lei nº 13.105/2015](federal/br-federal-lei-2015-03-16-13105.md)
 - [Demais normas federais](federal/)
 - [Normas de Minas Gerais](estaduais/MG/)
+- [Normas do estado de São Paulo](estaduais/SP/)
+- [Leis do município de São Paulo](municipais/3550308/)
 
 O cabeçalho de cada arquivo informa a versão: texto atualizado da Câmara, compilação atual disponibilizada pelo Senado ou publicação original. O coletor do Senado prefere a compilação atual em HTML; se ela não existir nos metadados, usa a publicação original em HTML. Retificações isoladas não substituem uma norma inteira. O projeto não infere vigência nem eficácia a partir da versão disponível.
 
@@ -24,6 +26,10 @@ A descoberta federal usa a [API de Dados Abertos do Senado](https://legis.senado
 - `estaduais/MG/`: normas mineiras convertidas de fontes da ALMG.
 - `fontes/`: HTML comprimido, metadados JSON e respostas JSON originais do Senado e da ALMG.
 - `catalogos/almg/`: inventários anuais e CSVs oficiais comprimidos de Minas Gerais.
+- `catalogos/alesp/`: páginas do inventário paulista e respostas JSON originais comprimidas.
+- `catalogos/pmsp/`: inventários anuais das leis municipais de São Paulo e páginas HTML originais das pesquisas.
+- `municipais/3550308/`: leis do município de São Paulo, identificado pelo código IBGE.
+- `falhas-catalogos/`: anos/famílias federais cuja descoberta falhou; não são catálogos vazios.
 - `catalogos/senado/<tipo>/<ano>.json`: inventário identificado e pendências de identidade.
 - `catalogos/senado/<tipo>/<ano>.fonte.json.gz`: resposta original do catálogo oficial, inclusive quando vazio.
 - `falhas/`: erros individuais; uma coleta posterior bem-sucedida remove o erro correspondente.
@@ -34,6 +40,10 @@ A descoberta federal usa a [API de Dados Abertos do Senado](https://legis.senado
 A conversão preserva links absolutos, tabelas, notas e tachados, inclusive tachados declarados em estilos inline. Não remove redações históricas. Imagens e anexos vinculados continuam como referências; o coletor não baixa esses recursos nem executa OCR. O HTML original permite conferir a transformação. Tamanho mínimo e presença do artigo inicial detectam algumas falhas; os três documentos iniciais também exigem dispositivos finais específicos. Isso não equivale a uma revisão jurídica integral.
 
 A coleta mineira usa o CSV anual e os documentos da [API de Dados Abertos da ALMG](https://dadosabertos.almg.gov.br/). Prefere o link de texto atualizado quando o catálogo o fornece e, caso contrário, usa a publicação original. O JSON recebido é preservado e a auditoria verifica a identidade do documento e a extração do HTML.
+
+A coleta paulista usa a API pública consumida pelo [portal de legislação da Alesp](https://www.al.sp.gov.br/legislacao/). Preserva cada página com o total informado, confere a identidade nos detalhes da norma e baixa o link de íntegra atualizado ou original fornecido pelo portal. O identificador do arquivo é o ID oficial imutável da Alesp, sob a autoridade `br-sp`.
+
+A coleta municipal de São Paulo usa o [Catálogo de Legislação Municipal](https://legislacao.prefeitura.sp.gov.br/), com consultas por ano de publicação e tipo LEI. Cada página e o total de resultados são preservados; buscas que atinjam o limite de 10.000 resultados são recusadas para evitar publicar um inventário truncado. O Markdown contém a íntegra compilada, sem menus ou controles do portal. Sua identidade usa município, tipo, data e número.
 
 ## Skills jurídicas
 
@@ -70,6 +80,9 @@ bun run collect
 # descobrir leis ordinárias federais por ano
 bun run discover --from 1822 --to 2026 --type LEI
 
+# descobrir todas as famílias federais suportadas
+bun run discover --from 1822 --to 2026 --all
+
 # coletar os textos dos catálogos locais, retomando arquivos íntegros
 bun run collect:senado
 
@@ -79,18 +92,40 @@ bun run collect:almg --from 2026 --to 2026 --discover-only
 # coletar um lote mineiro, retomando arquivos íntegros
 bun run collect:almg --from 2026 --to 2026 --limit 100
 
+# descobrir todas as páginas do catálogo paulista
+bun run collect:alesp --discover-only
+
+# coletar um lote paulista
+bun run collect:alesp --limit 100
+
+# descobrir leis municipais paulistanas por ano de publicação
+bun run collect:pmsp --from 1800 --to 2026 --discover-only
+
+# coletar um lote municipal paulistano
+bun run collect:pmsp --from 2026 --to 2026 --limit 100
+
 # auditar todos os arquivos publicados e regenerar as contagens
 bun run audit
 bun run coverage
 ```
 
-Famílias aceitas: `LEI`, `LCP`, `LDL`, `DEL`, `EMC`. Execute a descoberta para cada família desejada. Intervalos ausentes do relatório ainda não foram consultados. A API do Senado não fornece, nessa operação, paginação ou um total independente para certificar a completude da resposta.
+Famílias aceitas: `LEI`, `LCP`, `LDL`, `DEL`, `EMC`, `DEC`, `MPV`. Execute a descoberta para cada família desejada. Intervalos ausentes do relatório ainda não foram consultados. A API do Senado não fornece, nessa operação, paginação ou um total independente para certificar a completude da resposta.
 
 A descoberta reutiliza catálogos locais. Para atualizar um ano já consultado, use `bun run discover --from 2026 --to 2026 --type LEI --refresh`. A coleta pode ser limitada com `bun run collect:senado --limit 100`; use `--refresh` para consultar novamente textos já íntegros. Respostas idênticas preservam os arquivos e a data anterior. Mudanças devem ser revisadas no diff antes de novo commit.
 
-As requisições são sequenciais, com intervalo e timeout. Uma falha na descoberta interrompe o comando; catálogos já concluídos são preservados para retomada. Na coleta dos textos, uma falha é registrada por norma e as demais continuam; o processo termina com código diferente de zero se houver falhas. Arquivos incompletos ou com hashes divergentes são recolhidos na próxima execução. Uma interrupção pode deixar arquivos parciais: confira a auditoria antes de publicar.
+As requisições são sequenciais, com intervalo e timeout. Na descoberta federal, falhas são registradas por família/ano, os demais anos continuam e o comando termina com código diferente de zero se houver falhas. Os catálogos concluídos são preservados para retomada. Nas fontes estaduais, uma falha de catálogo interrompe o comando e preserva o que foi concluído. Na coleta dos textos, uma falha é registrada por norma e as demais continuam; o processo termina com código diferente de zero se houver falhas. Arquivos incompletos ou com hashes divergentes são recolhidos na próxima execução. Uma interrupção pode deixar arquivos parciais: confira a auditoria antes de publicar.
 
 Os testes usam fontes reais preservadas, sem acesso à rede, e cobrem identidade, versões, rejeição de páginas inválidas e conversão. `bun run audit` verifica os hashes e reproduz a conversão de todas as normas disponíveis no checkout. O CI executa ambos. O relatório mede o material presente, sem equiparar reprodução e hash a completude nacional.
+
+## Coleta contínua e limites de cobertura
+
+O workflow [Ampliar acervo oficial](.github/workflows/coletar.yml) executa a descoberta e lotes de até 1.000 tentativas por fonte a cada seis horas. Também pode ser iniciado pela aba Actions, com limite ajustável. Uma única execução roda por vez. Ela coleta os arquivos ausentes, valida o acervo e publica o lote na `main`; se a auditoria falhar, não publica. O CI verde certifica os checks executados, não que todas as leis estejam presentes.
+
+O modo `--skip-failures`, usado na automação, permite avançar pelos registros ainda não tentados sem que os mesmos documentos indisponíveis ocupem todos os lotes. Para reavaliar as falhas, execute o coletor sem essa opção. Os erros continuam em `falhas/` até uma tentativa bem-sucedida. Pendências do inventário (por exemplo, norma sem link para texto) permanecem no catálogo oficial preservado e no relatório. Duplicações equivalentes da ALMG são contadas uma vez como norma e mantidas como linhas pendentes; identidades conflitantes interrompem a descoberta para revisão.
+
+O objetivo abrange a legislação federal, dos 26 estados, do Distrito Federal e dos municípios, inclusive normas históricas e revogadas. A presença de um catálogo não equivale à presença dos textos. As fontes integradas até aqui são Senado/Câmara, ALMG, Alesp e o catálogo municipal da Prefeitura de São Paulo; os demais entes ainda precisam de coletores e validação. O acesso SRU do LexML retornou uma verificação de segurança na consulta realizada, sem inventário utilizável.
+
+Os coletores atuais convertem HTML. Fontes que oferecem somente PDF, imagens ou documentos sem texto continuam como lacunas; não são convertidas em sucesso nem em transcrição presumida. Os anexos vinculados também precisam de coleta própria para que uma norma possa ser considerada integral com anexos. O relato de cobertura deve manter essas distinções.
 
 ## Contribuir
 

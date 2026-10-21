@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-08-10-26044",
+  "titulo": "LEI nº 26044, de 10/08/2026",
+  "data": "2026-08-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26044/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/26044/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "56a270811bb336d3f1feacbdbd1ac0d1599c68148cc860b36472768ee41f6c54",
+  "coletado_em": "2026-10-21T08:29:15.703Z",
+  "sha256_fonte": "4047dd455b9762a0e19921ef6540cd4c952636d89cead5d6d8daffc720298b71",
+  "sha256_markdown": "a0dbc75200ef62002d28e4acd1ff95b9b5bd7ae6d3a99f45f48a7b1cd4d51136"
+}

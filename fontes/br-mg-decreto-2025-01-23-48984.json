@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-01-23-48984",
+  "titulo": "DEC nº 48984, de 23/01/2025",
+  "data": "2025-01-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48984/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48984/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "25551ed9161a1a92a10ec71711dff116a7da722876708663943398016f89034e",
+  "coletado_em": "2026-10-21T08:30:04.540Z",
+  "sha256_fonte": "bfbce084934e1e8ba31fe5b0a46c70e960157d4223f568be6dc26f2035408498",
+  "sha256_markdown": "17d4fe4666cba989bd1e56071aa0bb30ad23e43b438c6f51b729404a4dbf53fb"
+}

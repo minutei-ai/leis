@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-28-25400",
+  "titulo": "LEI nº 25400, de 28/07/2025",
+  "data": "2025-07-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25400/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25400/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8a11c983694412d94700823bcb848f9f5dc1be07eac3ecba90dc5bd27eeb1b47",
+  "coletado_em": "2026-10-21T08:33:11.898Z",
+  "sha256_fonte": "e600c89c4b62dcb9a69711a9c8d97b13617521e448ddff3dc960734151b7fe90",
+  "sha256_markdown": "9ec7f661bc2541c82b26f060e69d3e6ffac0e5b2b8b2c139fd144a42e734d341"
+}

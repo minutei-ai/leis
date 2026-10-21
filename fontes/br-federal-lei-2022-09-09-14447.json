@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-09-09-14447",
+  "titulo": "Lei nº 14.447 de 09/09/2022",
+  "data": "2022-09-09",
+  "fonte": "https://normas.leg.br/api/public/binario/d6a5ed46-c9a0-4c4e-a7f0-da24ff2a0c4c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-09-09;14447",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-09-09%3B14447&tipo_documento=maior-detalhe",
+  "sha256_dados": "d0b3d2330369ff6e3e21436e1e4e77a74db2d7901839855517b3ccbd31e638ac",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:44.651Z",
+  "sha256_fonte": "c4730aab2be7190b59689e4b26a7ff44bd37ca903fe07b1bb3b024c737591b80",
+  "sha256_markdown": "09db6386a3ce16bdf405cee3d10fe6cdeece08b6e09cd83d2cc198c993e58f31"
+}

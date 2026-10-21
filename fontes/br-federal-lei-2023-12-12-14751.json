@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-12-12-14751",
+  "titulo": "Lei nº 14.751 de 12/12/2023",
+  "data": "2023-12-12",
+  "fonte": "https://normas.leg.br/api/public/binario/2c8f45d7-b397-4b2b-8677-48b9979104cb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-12-12;14751",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-12-12%3B14751&tipo_documento=maior-detalhe",
+  "sha256_dados": "9ae6c4c5f22573f5540238bfa3568e6ca720f2d53ac508bea4581035ab8988f5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:27:11.644Z",
+  "sha256_fonte": "75490760716f819cc08bdabb2b3d0d53ca8a427607ca77d0e14b37f0143bbb08",
+  "sha256_markdown": "b315af415fdf25eeacfc3e4a4bd37233665c9535c437f31fe94eeb2820b2ac85"
+}

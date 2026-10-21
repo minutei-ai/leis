@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-04-25592",
+  "titulo": "LEI nº 25592, de 04/12/2025",
+  "data": "2025-12-04",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25592/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25592/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "04a686b7e5f7d173814689dd32d93a919bbea8e87921bb0824d0df99eda0052c",
+  "coletado_em": "2026-10-21T08:35:38.495Z",
+  "sha256_fonte": "d9771a46614847c069cf9aeab3154395e4ef742f69813c0326ea9fbee58d09e8",
+  "sha256_markdown": "5ae9814b5519c5de7190b29291767b42c5534e09c70033debe43984ec55e5b92"
+}

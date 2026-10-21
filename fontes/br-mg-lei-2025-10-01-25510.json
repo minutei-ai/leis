@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-10-01-25510",
+  "titulo": "LEI nº 25510, de 01/10/2025",
+  "data": "2025-10-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25510/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25510/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "59096c2ca01f48978ae72d3d78e10892639f99a5417843776fd2bd509348fdca",
+  "coletado_em": "2026-10-21T08:34:33.332Z",
+  "sha256_fonte": "12f8f22b33c55715ad9f3062d8789ab1bdff488ab143ddd6f4f08d28daed1eac",
+  "sha256_markdown": "935f14367e23d8347f7164ef08105f8b4a90eed3217a3055211e092c4577486b"
+}

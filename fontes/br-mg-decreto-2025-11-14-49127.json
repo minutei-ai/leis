@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-11-14-49127",
+  "titulo": "DEC nº 49127, de 14/11/2025",
+  "data": "2025-11-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49127/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49127/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "311d97af186defdb7c1b4f9093881bfa253e11c9da180b98ba82cfe9b4c1d7a9",
+  "coletado_em": "2026-10-21T08:35:26.653Z",
+  "sha256_fonte": "caec4c28cc9dc6bbfe67db23782eae8e252e11f5996e971b374ff861cdfb7011",
+  "sha256_markdown": "f9f7945d67949c8ea9930680bce816c6639e123fb12c1422e81e9fa7604d6bad"
+}

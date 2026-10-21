@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-06-02-14158",
+  "titulo": "Lei nº 14.158 de 02/06/2021",
+  "data": "2021-06-02",
+  "fonte": "https://normas.leg.br/api/public/binario/8300cd90-e3ae-46f6-b0f8-4c0d92a402dd/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-06-02;14158",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-06-02%3B14158&tipo_documento=maior-detalhe",
+  "sha256_dados": "8bf4f28cc98643f9ab87d6f33c83ff29854b3eb8bfc9c7091e2bfcec93d0ccc2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:39:57.609Z",
+  "sha256_fonte": "5716fae341dfe2029f83576227d36e73aa72f7d9f099b7bc639922afc9bf41fd",
+  "sha256_markdown": "248f84deea639d4de3350aee8c1cd741b470275440c37faa637f1f8625b073e0"
+}

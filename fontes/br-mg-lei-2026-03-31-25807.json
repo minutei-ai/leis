@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-31-25807",
+  "titulo": "LEI nº 25807, de 31/03/2026",
+  "data": "2026-03-31",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25807/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25807/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "0635019ff90b1075567600d1a4a045dbe2005afba5e96e63e8368ae12f30af33",
+  "coletado_em": "2026-10-21T08:26:21.750Z",
+  "sha256_fonte": "ceb991be39f4c023c5e23c99669e793afdacc32e6462a3491e5dfb390ae1dd2d",
+  "sha256_markdown": "404166bbf0fa67946c45c04feaed99a4379ea09767ac56895be3902b7901b9eb"
+}

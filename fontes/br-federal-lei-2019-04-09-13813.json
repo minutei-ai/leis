@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-04-09-13813",
+  "titulo": "Lei nº 13.813 de 09/04/2019",
+  "data": "2019-04-09",
+  "fonte": "https://normas.leg.br/api/public/binario/286fefda-125c-491a-9ebd-07f25aaa19c0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-04-09;13813",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-04-09%3B13813&tipo_documento=maior-detalhe",
+  "sha256_dados": "fe907b2eeb0b643c1ec76a4a9d32d9c552db5d0d7a447eec8652bf84fe7b0d2d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:47:26.180Z",
+  "sha256_fonte": "e3b115d331d7f3cd65da9d2876c8740c86d80d20e4425c0cfe1d1be9d811f164",
+  "sha256_markdown": "79592c72f92d1129cfc7889bb63f548519132f918066d10bc8a719bd649eedf5"
+}

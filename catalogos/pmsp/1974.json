@@ -1,0 +1,1196 @@
+{
+  "ano_publicacao": 1974,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1974",
+    "ano-final": "31/12/1974",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:48:34.219Z",
+  "total": 195,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "bba633cdad9b737797bd9a3785601d263b4387a9d7cb8649a4329a816e3c0a51"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "4ceeb1e97c847ea805cd9ddcc37d12f469eecb3309722a355d4c22f3689d9a44"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8198-de-30-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.198 de 30 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-30-8198",
+      "data": "1974-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8196-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.196 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8196",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8195-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.195 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8195",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8194-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.194 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8194",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8192-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.192 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8192",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8191-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.191 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8191",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8190-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.190 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8190",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8189-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.189 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8189",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8188-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.188 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8188",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8197-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.197 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8197",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8193-de-27-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.193 de 27 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-27-8193",
+      "data": "1974-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8187-de-26-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.187 de 26 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-26-8187",
+      "data": "1974-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8186-de-26-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.186 de 26 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-26-8186",
+      "data": "1974-12-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8185-de-24-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.185 de 24 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-24-8185",
+      "data": "1974-12-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8184-de-20-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.184 de 20 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-20-8184",
+      "data": "1974-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8182-de-20-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.182 de 20 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-20-8182",
+      "data": "1974-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8183-de-20-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.183 de 20 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-20-8183",
+      "data": "1974-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8181-de-17-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.181 de 17 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-17-8181",
+      "data": "1974-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8179-de-17-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.179 de 17 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-17-8179",
+      "data": "1974-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8180-de-17-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.180 de 17 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-17-8180",
+      "data": "1974-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8178-de-16-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.178 de 16 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-16-8178",
+      "data": "1974-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8177-de-16-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.177 de 16 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-16-8177",
+      "data": "1974-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8175-de-16-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.175 de 16 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-16-8175",
+      "data": "1974-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8174-de-16-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.174 de 16 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-16-8174",
+      "data": "1974-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8173-de-16-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.173 de 16 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-16-8173",
+      "data": "1974-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8176-de-16-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.176 de 16 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-16-8176",
+      "data": "1974-12-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8172-de-13-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.172 de 13 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-13-8172",
+      "data": "1974-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8171-de-13-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.171 de 13 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-13-8171",
+      "data": "1974-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8170-de-13-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.170 de 13 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-13-8170",
+      "data": "1974-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8169-de-11-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.169 de 11 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-11-8169",
+      "data": "1974-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8168-de-3-de-dezembro-de-1974",
+      "titulo": "LEI Nº 8.168 de 3 de Dezembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-12-03-8168",
+      "data": "1974-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8167-de-29-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.167 de 29 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-29-8167",
+      "data": "1974-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8166-de-29-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.166 de 29 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-29-8166",
+      "data": "1974-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8165-de-29-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.165 de 29 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-29-8165",
+      "data": "1974-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8164-de-29-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.164 de 29 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-29-8164",
+      "data": "1974-11-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8163-de-28-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.163 de 28 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-28-8163",
+      "data": "1974-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8162-de-28-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.162 de 28 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-28-8162",
+      "data": "1974-11-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8161-de-27-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.161 de 27 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-27-8161",
+      "data": "1974-11-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8160-de-26-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.160 de 26 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-26-8160",
+      "data": "1974-11-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8159-de-22-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.159 de 22 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-22-8159",
+      "data": "1974-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8158-de-22-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.158 de 22 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-22-8158",
+      "data": "1974-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8157-de-22-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.157 de 22 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-22-8157",
+      "data": "1974-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8156-de-22-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.156 de 22 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-22-8156",
+      "data": "1974-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8154-de-22-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.154 de 22 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-22-8154",
+      "data": "1974-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8155-de-22-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.155 de 22 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-22-8155",
+      "data": "1974-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8153-de-19-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.153 de 19 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-19-8153",
+      "data": "1974-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8152-de-12-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.152 de 12 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-12-8152",
+      "data": "1974-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8151-de-12-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.151 de 12 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-12-8151",
+      "data": "1974-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8150-de-12-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.150 de 12 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-12-8150",
+      "data": "1974-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8149-de-8-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.149 de 8 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-08-8149",
+      "data": "1974-11-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8148-de-7-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.148 de 7 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-07-8148",
+      "data": "1974-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8147-de-7-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.147 de 7 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-07-8147",
+      "data": "1974-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8145-de-7-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.145 de 7 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-07-8145",
+      "data": "1974-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8144-de-7-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.144 de 7 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-07-8144",
+      "data": "1974-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8146-de-7-de-novembro-de-1974",
+      "titulo": "LEI Nº 8.146 de 7 de Novembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-11-07-8146",
+      "data": "1974-11-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8142-de-31-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.142 de 31 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-31-8142",
+      "data": "1974-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8141-de-31-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.141 de 31 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-31-8141",
+      "data": "1974-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8143-de-31-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.143 de 31 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-31-8143",
+      "data": "1974-10-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8140-de-22-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.140 de 22 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-22-8140",
+      "data": "1974-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8139-de-22-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.139 de 22 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-22-8139",
+      "data": "1974-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8138-de-22-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.138 de 22 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-22-8138",
+      "data": "1974-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8137-de-22-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.137 de 22 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-22-8137",
+      "data": "1974-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8136-de-14-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.136 de 14 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-14-8136",
+      "data": "1974-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8135-de-14-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.135 de 14 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-14-8135",
+      "data": "1974-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8134-de-14-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.134 de 14 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-14-8134",
+      "data": "1974-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8133-de-14-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.133 de 14 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-14-8133",
+      "data": "1974-10-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8132-de-4-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.132 de 4 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-04-8132",
+      "data": "1974-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8131-de-4-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.131 de 4 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-04-8131",
+      "data": "1974-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8130-de-4-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.130 de 4 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-04-8130",
+      "data": "1974-10-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8129-de-2-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.129 de 2 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-02-8129",
+      "data": "1974-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8128-de-2-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.128 de 2 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-02-8128",
+      "data": "1974-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8127-de-2-de-outubro-de-1974",
+      "titulo": "LEI Nº 8.127 de 2 de Outubro de 1974",
+      "id": "br-municipal-3550308-lei-1974-10-02-8127",
+      "data": "1974-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8126-de-27-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.126 de 27 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-27-8126",
+      "data": "1974-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8125-de-27-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.125 de 27 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-27-8125",
+      "data": "1974-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8124-de-27-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.124 de 27 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-27-8124",
+      "data": "1974-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8123-de-27-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.123 de 27 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-27-8123",
+      "data": "1974-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8122-de-27-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.122 de 27 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-27-8122",
+      "data": "1974-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8121-de-23-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.121 de 23 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-23-8121",
+      "data": "1974-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8120-de-23-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.120 de 23 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-23-8120",
+      "data": "1974-09-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8119-de-18-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.119 de 18 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-18-8119",
+      "data": "1974-09-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8117-de-11-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.117 de 11 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-11-8117",
+      "data": "1974-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8118-de-11-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.118 de 11 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-11-8118",
+      "data": "1974-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8116-de-10-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.116 de 10 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-10-8116",
+      "data": "1974-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8115-de-10-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.115 de 10 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-10-8115",
+      "data": "1974-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8114-de-10-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.114 de 10 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-10-8114",
+      "data": "1974-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8113-de-5-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.113 de 5 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-05-8113",
+      "data": "1974-09-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8111-de-2-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.111 de 2 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-02-8111",
+      "data": "1974-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8110-de-2-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.110 de 2 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-02-8110",
+      "data": "1974-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8109-de-2-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.109 de 2 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-02-8109",
+      "data": "1974-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8108-de-2-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.108 de 2 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-02-8108",
+      "data": "1974-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8112-de-2-de-setembro-de-1974",
+      "titulo": "LEI Nº 8.112 de 2 de Setembro de 1974",
+      "id": "br-municipal-3550308-lei-1974-09-02-8112",
+      "data": "1974-09-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8106-de-30-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.106 de 30 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-30-8106",
+      "data": "1974-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8107-de-29-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.107 de 29 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-29-8107",
+      "data": "1974-08-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8105-de-15-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.105 de 15 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-15-8105",
+      "data": "1974-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8103-de-15-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.103 de 15 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-15-8103",
+      "data": "1974-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8102-de-15-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.102 de 15 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-15-8102",
+      "data": "1974-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8104-de-15-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.104 de 15 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-15-8104",
+      "data": "1974-08-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8101-de-14-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.101 de 14 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-14-8101",
+      "data": "1974-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8100-de-14-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.100 de 14 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-14-8100",
+      "data": "1974-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8097-de-12-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.097 de 12 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-12-8097",
+      "data": "1974-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8096-de-12-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.096 de 12 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-12-8096",
+      "data": "1974-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8099-de-12-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.099 de 12 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-12-8099",
+      "data": "1974-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8098-de-12-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.098 de 12 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-12-8098",
+      "data": "1974-08-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8095-de-09-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.095 de 9 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-09-8095",
+      "data": "1974-08-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8092-de-8-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.092 de 8 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-08-8092",
+      "data": "1974-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8091-de-8-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.091 de 8 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-08-8091",
+      "data": "1974-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8090-de-8-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.090 de 8 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-08-8090",
+      "data": "1974-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8089-de-8-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.089 de 8 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-08-8089",
+      "data": "1974-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8094-de-8-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.094 de 8 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-08-8094",
+      "data": "1974-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8093-de-8-de-agosto-de-1974",
+      "titulo": "LEI Nº 8.093 de 8 de Agosto de 1974",
+      "id": "br-municipal-3550308-lei-1974-08-08-8093",
+      "data": "1974-08-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8088-de-12-de-julho-de-1974",
+      "titulo": "LEI Nº 8.088 de 12 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-12-8088",
+      "data": "1974-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8087-de-12-de-julho-de-1974",
+      "titulo": "LEI Nº 8.087 de 12 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-12-8087",
+      "data": "1974-07-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8086-de-10-de-julho-de-1974",
+      "titulo": "LEI Nº 8.086 de 10 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-10-8086",
+      "data": "1974-07-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8085-de-1-de-julho-de-1974",
+      "titulo": "LEI Nº 8.085 de 1 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-01-8085",
+      "data": "1974-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8083-de-1-de-julho-de-1974",
+      "titulo": "LEI Nº 8.083 de 1 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-01-8083",
+      "data": "1974-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8082-de-1-de-julho-de-1974",
+      "titulo": "LEI Nº 8.082 de 1 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-01-8082",
+      "data": "1974-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8084-de-1-de-julho-de-1974",
+      "titulo": "LEI Nº 8.084 de 1 de Julho de 1974",
+      "id": "br-municipal-3550308-lei-1974-07-01-8084",
+      "data": "1974-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8081-de-28-de-junho-de-1974",
+      "titulo": "LEI Nº 8.081 de 28 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-28-8081",
+      "data": "1974-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8080-de-28-de-junho-de-1974",
+      "titulo": "LEI Nº 8.080 de 28 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-28-8080",
+      "data": "1974-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8078-de-28-de-junho-de-1974",
+      "titulo": "LEI Nº 8.078 de 28 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-28-8078",
+      "data": "1974-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8079-de-28-de-junho-de-1974",
+      "titulo": "LEI Nº 8.079 de 28 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-28-8079",
+      "data": "1974-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8077-de-26-de-junho-de-1974",
+      "titulo": "LEI Nº 8.077 de 26 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-26-8077",
+      "data": "1974-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8076-de-26-de-junho-de-1974",
+      "titulo": "LEI Nº 8.076 de 26 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-26-8076",
+      "data": "1974-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8075-de-26-de-junho-de-1974",
+      "titulo": "LEI Nº 8.075 de 26 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-26-8075",
+      "data": "1974-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8074-de-24-de-junho-de-1974",
+      "titulo": "LEI Nº 8.074 de 24 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-24-8074",
+      "data": "1974-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8073-de-21-de-junho-de-1974",
+      "titulo": "LEI Nº 8.073 de 21 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-21-8073",
+      "data": "1974-06-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8072-de-12-de-junho-de-1974",
+      "titulo": "LEI Nº 8.072 de 12 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-12-8072",
+      "data": "1974-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8071-de-12-de-junho-de-1974",
+      "titulo": "LEI Nº 8.071 de 12 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-12-8071",
+      "data": "1974-06-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8070-de-3-de-junho-de-1974",
+      "titulo": "LEI Nº 8.070 de 3 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-03-8070",
+      "data": "1974-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8069-de-3-de-junho-de-1974",
+      "titulo": "LEI Nº 8.069 de 3 de Junho de 1974",
+      "id": "br-municipal-3550308-lei-1974-06-03-8069",
+      "data": "1974-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8068-de-30-de-maio-de-1974",
+      "titulo": "LEI Nº 8.068 de 30 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-30-8068",
+      "data": "1974-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8067-de-30-de-maio-de-1974",
+      "titulo": "LEI Nº 8.067 de 30 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-30-8067",
+      "data": "1974-05-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8066-de-28-de-maio-de-1974",
+      "titulo": "LEI Nº 8.066 de 28 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-28-8066",
+      "data": "1974-05-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8065-de-24-de-maio-de-1974",
+      "titulo": "LEI Nº 8.065 de 24 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-24-8065",
+      "data": "1974-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8064-de-24-de-maio-de-1974",
+      "titulo": "LEI Nº 8.064 de 24 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-24-8064",
+      "data": "1974-05-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8062-de-22-de-maio-de-1974",
+      "titulo": "LEI Nº 8.062 de 22 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-22-8062",
+      "data": "1974-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8063-de-22-de-maio-de-1974",
+      "titulo": "LEI Nº 8.063 de 22 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-22-8063",
+      "data": "1974-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8061-de-22-de-maio-de-1974",
+      "titulo": "LEI Nº 8.061 de 22 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-22-8061",
+      "data": "1974-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8060-de-17-de-maio-de-1974",
+      "titulo": "LEI Nº 8.060 de 17 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-17-8060",
+      "data": "1974-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8059-de-17-de-maio-de-1974",
+      "titulo": "LEI Nº 8.059 de 17 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-17-8059",
+      "data": "1974-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8058-de-15-de-maio-de-1974",
+      "titulo": "LEI Nº 8.058 de 15 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-15-8058",
+      "data": "1974-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8057-de-15-de-maio-de-1974",
+      "titulo": "LEI Nº 8.057 de 15 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-15-8057",
+      "data": "1974-05-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8056-de-14-de-maio-de-1974",
+      "titulo": "LEI Nº 8.056 de 14 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-14-8056",
+      "data": "1974-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8055-de-3-de-maio-de-1974",
+      "titulo": "LEI Nº 8.055 de 3 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-03-8055",
+      "data": "1974-05-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8054-de-2-de-maio-de-1974",
+      "titulo": "LEI Nº 8.054 de 2 de Maio de 1974",
+      "id": "br-municipal-3550308-lei-1974-05-02-8054",
+      "data": "1974-05-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8053-de-25-de-abril-de-1974",
+      "titulo": "LEI Nº 8.053 de 25 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-25-8053",
+      "data": "1974-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8052-de-25-de-abril-de-1974",
+      "titulo": "LEI Nº 8.052 de 25 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-25-8052",
+      "data": "1974-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8051-de-25-de-abril-de-1974",
+      "titulo": "LEI Nº 8.051 de 25 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-25-8051",
+      "data": "1974-04-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8049-de-22-de-abril-de-1974",
+      "titulo": "LEI Nº 8.049 de 22 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-22-8049",
+      "data": "1974-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8048-de-22-de-abril-de-1974",
+      "titulo": "LEI Nº 8.048 de 22 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-22-8048",
+      "data": "1974-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8047-de-22-de-abril-de-1974",
+      "titulo": "LEI Nº 8.047 de 22 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-22-8047",
+      "data": "1974-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8050-de-22-de-abril-de-1974",
+      "titulo": "LEI Nº 8.050 de 22 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-22-8050",
+      "data": "1974-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8046-de-16-de-abril-de-1974",
+      "titulo": "LEI Nº 8.046 de 16 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-16-8046",
+      "data": "1974-04-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8045-de-9-de-abril-de-1974",
+      "titulo": "LEI Nº 8.045 de 9 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-09-8045",
+      "data": "1974-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8044-de-9-de-abril-de-1974",
+      "titulo": "LEI Nº 8.044 de 9 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-09-8044",
+      "data": "1974-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8043-de-1-de-abril-de-1974",
+      "titulo": "LEI Nº 8.043 de 1 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-01-8043",
+      "data": "1974-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8042-de-1-de-abril-de-1974",
+      "titulo": "LEI Nº 8.042 de 1 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-01-8042",
+      "data": "1974-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8041-de-1-de-abril-de-1974",
+      "titulo": "LEI Nº 8.041 de 1 de Abril de 1974",
+      "id": "br-municipal-3550308-lei-1974-04-01-8041",
+      "data": "1974-04-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8040-de-29-de-marco-de-1974",
+      "titulo": "LEI Nº 8.040 de 29 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-29-8040",
+      "data": "1974-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8039-de-29-de-marco-de-1974",
+      "titulo": "LEI Nº 8.039 de 29 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-29-8039",
+      "data": "1974-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8038-de-26-de-marco-de-1974",
+      "titulo": "LEI Nº 8.038 de 26 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-26-8038",
+      "data": "1974-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8037-de-26-de-marco-de-1974",
+      "titulo": "LEI Nº 8.037 de 26 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-26-8037",
+      "data": "1974-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8036-de-26-de-marco-de-1974",
+      "titulo": "LEI Nº 8.036 de 26 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-26-8036",
+      "data": "1974-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8035-de-26-de-marco-de-1974",
+      "titulo": "LEI Nº 8.035 de 26 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-26-8035",
+      "data": "1974-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8034-de-21-de-marco-de-1974",
+      "titulo": "LEI Nº 8.034 de 21 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-21-8034",
+      "data": "1974-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8033-de-21-de-marco-de-1974",
+      "titulo": "LEI Nº 8.033 de 21 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-21-8033",
+      "data": "1974-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8032-de-21-de-marco-de-1974",
+      "titulo": "LEI Nº 8.032 de 21 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-21-8032",
+      "data": "1974-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8031-de-21-de-marco-de-1974",
+      "titulo": "LEI Nº 8.031 de 21 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-21-8031",
+      "data": "1974-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8030-de-21-de-marco-de-1974",
+      "titulo": "LEI Nº 8.030 de 21 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-21-8030",
+      "data": "1974-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8029-de-21-de-marco-de-1974",
+      "titulo": "LEI Nº 8.029 de 21 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-21-8029",
+      "data": "1974-03-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8028-de-13-de-marco-de-1974",
+      "titulo": "LEI Nº 8.028 de 13 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-13-8028",
+      "data": "1974-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8027-de-8-de-marco-de-1974",
+      "titulo": "LEI Nº 8.027 de 8 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-08-8027",
+      "data": "1974-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8026-de-8-de-marco-de-1974",
+      "titulo": "LEI Nº 8.026 de 8 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-08-8026",
+      "data": "1974-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8025-de-8-de-marco-de-1974",
+      "titulo": "LEI Nº 8.025 de 8 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-08-8025",
+      "data": "1974-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8024-de-8-de-marco-de-1974",
+      "titulo": "LEI Nº 8.024 de 8 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-08-8024",
+      "data": "1974-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8023-de-7-de-marco-de-1974",
+      "titulo": "LEI Nº 8.023 de 7 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-07-8023",
+      "data": "1974-03-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8022-de-7-de-marco-de-1974",
+      "titulo": "LEI Nº 8.022 de 7 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-07-8022",
+      "data": "1974-03-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8020-de-7-de-marco-de-1974",
+      "titulo": "LEI Nº 8.020 de 7 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-07-8020",
+      "data": "1974-03-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8021-de-7-de-marco-de-1974",
+      "titulo": "LEI Nº 8.021 de 7 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-07-8021",
+      "data": "1974-03-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8019-de-1-de-marco-de-1974",
+      "titulo": "LEI Nº 8.019 de 1 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-01-8019",
+      "data": "1974-03-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8018-de-1-de-marco-de-1974",
+      "titulo": "LEI Nº 8.018 de 1 de Março de 1974",
+      "id": "br-municipal-3550308-lei-1974-03-01-8018",
+      "data": "1974-03-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8017-de-28-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.017 de 28 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-28-8017",
+      "data": "1974-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8016-de-28-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.016 de 28 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-28-8016",
+      "data": "1974-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8015-de-20-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.015 de 20 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-20-8015",
+      "data": "1974-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8014-de-20-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.014 de 20 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-20-8014",
+      "data": "1974-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8013-de-20-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.013 de 20 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-20-8013",
+      "data": "1974-02-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8011-de-14-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.011 de 14 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-14-8011",
+      "data": "1974-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8010-de-14-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.010 de 14 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-14-8010",
+      "data": "1974-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8009-de-14-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.009 de 14 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-14-8009",
+      "data": "1974-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8008-de-14-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.008 de 14 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-14-8008",
+      "data": "1974-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8012-de-14-de-fevereiro-de-1974",
+      "titulo": "LEI Nº 8.012 de 14 de Fevereiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-02-14-8012",
+      "data": "1974-02-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8007-de-8-de-janeiro-de-1974",
+      "titulo": "LEI Nº 8.007 de 8 de Janeiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-01-08-8007",
+      "data": "1974-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8006-de-08-de-janeiro-de-1974",
+      "titulo": "LEI Nº 8.006 de 8 de Janeiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-01-08-8006",
+      "data": "1974-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8005-de-8-de-janeiro-de-1974",
+      "titulo": "LEI Nº 8.005 de 8 de Janeiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-01-08-8005",
+      "data": "1974-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8004-de-3-de-janeiro-de-1974",
+      "titulo": "LEI Nº 8.004 de 3 de Janeiro de 1974",
+      "id": "br-municipal-3550308-lei-1974-01-03-8004",
+      "data": "1974-01-03"
+    }
+  ],
+  "pendencias": []
+}

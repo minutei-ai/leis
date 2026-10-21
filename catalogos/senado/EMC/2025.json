@@ -1,0 +1,39 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2025",
+  "tipo": "EMC",
+  "ano": 2025,
+  "coletado_em": "2026-10-21T08:39:26.139Z",
+  "normas": [
+    {
+      "senadoId": "41853798",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2025-12-19-138",
+      "titulo": "Emenda Constitucional nº 138 de 19/12/2025",
+      "data": "2025-12-19",
+      "numero": "138",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2025-12-19;138",
+      "ementa": "Altera o art. 37 da Constituição Federal para permitir a acumulação remunerada de um cargo de professor com outro de qualquer natureza."
+    },
+    {
+      "senadoId": "41822113",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2025-12-09-137",
+      "titulo": "Emenda Constitucional nº 137 de 09/12/2025",
+      "data": "2025-12-09",
+      "numero": "137",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2025-12-09;137",
+      "ementa": "Altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica."
+    },
+    {
+      "senadoId": "41412162",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-2025-09-09-136",
+      "titulo": "Emenda Constitucional nº 136 de 09/09/2025",
+      "data": "2025-09-09",
+      "numero": "136",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2025-09-09;136",
+      "ementa": "Altera a Constituição Federal, o Ato das Disposições Constitucionais Transitórias e a Emenda Constitucional nº 113, de 8 de dezembro de 2021, a fim de instituir limite para o pagamento de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios e de estipular novo prazo de parcelamento especial de débitos dos Estados, dos Municípios e do Distrito Federal com seus regimes próprios de previdência social e dos Municípios com o Regime Geral de Previdência Social; e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

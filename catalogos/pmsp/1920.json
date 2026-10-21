@@ -1,0 +1,650 @@
+{
+  "ano_publicacao": 1920,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1920",
+    "ano-final": "31/12/1920",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:42.159Z",
+  "total": 104,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "be2652eab877ce144ba60178fa16820640e44ba662f52d7c6090c8cb8b58fa59"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "858499dff0fd3e24ef67ed762e48f95becd2d6f8c4c146e9f3046cbe7e4eb0be"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2354-de-23-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.354 de 23 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-23-2354",
+      "data": "1920-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2353-de-23-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.353 de 23 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-23-2353",
+      "data": "1920-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2352-de-23-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.352 de 23 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-23-2352",
+      "data": "1920-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2351-de-23-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.351 de 23 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-23-2351",
+      "data": "1920-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2350-de-20-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.350 de 20 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-20-2350",
+      "data": "1920-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2349-de-20-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.349 de 20 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-20-2349",
+      "data": "1920-12-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2348-de-6-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.348 de 6 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-06-2348",
+      "data": "1920-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2347-de-6-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.347 de 6 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-06-2347",
+      "data": "1920-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2346-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.346 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2346",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2345-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.345 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2345",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2344-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.344 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2344",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2343-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.343 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2343",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2342-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.342 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2342",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2341-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.341 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2341",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2340-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.340 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2340",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2338-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.338 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2338",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2339-de-4-de-dezembro-de-1920",
+      "titulo": "LEI Nº 2.339 de 4 de Dezembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-12-04-2339",
+      "data": "1920-12-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2337-de-25-de-novembro-de-1920",
+      "titulo": "LEI Nº 2.337 de 25 de Novembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-11-25-2337",
+      "data": "1920-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2336-de-25-de-novembro-de-1920",
+      "titulo": "LEI Nº 2.336 de 25 de Novembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-11-25-2336",
+      "data": "1920-11-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2335-de-23-de-novembro-de-1920",
+      "titulo": "LEI Nº 2.335 de 23 de Novembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-11-23-2335",
+      "data": "1920-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2334-de-22-de-novembro-de-1920",
+      "titulo": "LEI Nº 2.334 de 22 de Novembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-11-22-2334",
+      "data": "1920-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2333-de-16-de-novembro-de-1920",
+      "titulo": "LEI Nº 2.333 de 16 de Novembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-11-16-2333",
+      "data": "1920-11-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2332-de-9-de-novembro-de-1920",
+      "titulo": "LEI Nº 2.332 de 9 de Novembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-11-09-2332",
+      "data": "1920-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2331-de-30-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.331 de 30 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-30-2331",
+      "data": "1920-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2330-de-22-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.330 de 22 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-22-2330",
+      "data": "1920-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2329-de-22-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.329 de 22 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-22-2329",
+      "data": "1920-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2328-de-22-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.328 de 22 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-22-2328",
+      "data": "1920-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2327-de-9-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.327 de 9 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-09-2327",
+      "data": "1920-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2326-de-9-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.326 de 9 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-09-2326",
+      "data": "1920-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2325-de-9-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.325 de 9 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-09-2325",
+      "data": "1920-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2324-de-9-de-outubro-de-1920",
+      "titulo": "LEI Nº 2.324 de 9 de Outubro de 1920",
+      "id": "br-municipal-3550308-lei-1920-10-09-2324",
+      "data": "1920-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2323-de-30-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.323 de 30 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-30-2323",
+      "data": "1920-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2322-de-24-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.322 de 24 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-24-2322",
+      "data": "1920-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2321-de-17-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.321 de 17 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-17-2321",
+      "data": "1920-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2320-de-17-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.320 de 17 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-17-2320",
+      "data": "1920-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2319-de-17-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.319 de 17 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-17-2319",
+      "data": "1920-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2318-de-11-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.318 de 11 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-11-2318",
+      "data": "1920-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2317-de-11-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.317 de 11 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-11-2317",
+      "data": "1920-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2316-de-11-de-setembro-de-1920",
+      "titulo": "LEI Nº 2.316 de 11 de Setembro de 1920",
+      "id": "br-municipal-3550308-lei-1920-09-11-2316",
+      "data": "1920-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2315-de-30-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.315 de 30 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-30-2315",
+      "data": "1920-08-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2314-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.314 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2314",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2313-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.313 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2313",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2312-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.312 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2312",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2311-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.311 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2311",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2310-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.310 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2310",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2309-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.309 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2309",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2308-de-27-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.308 de 27 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-27-2308",
+      "data": "1920-08-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2307-de-21-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.307 de 21 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-21-2307",
+      "data": "1920-08-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2306-de-20-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.306 de 20 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-20-2306",
+      "data": "1920-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2305-de-20-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.305 de 20 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-20-2305",
+      "data": "1920-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2304-de-20-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.304 de 20 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-20-2304",
+      "data": "1920-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2303-de-20-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.303 de 20 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-20-2303",
+      "data": "1920-08-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2302-de-17-de-agosto-de-1920",
+      "titulo": "LEI Nº 2.302 de 17 de Agosto de 1920",
+      "id": "br-municipal-3550308-lei-1920-08-17-2302",
+      "data": "1920-08-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2301-de-30-de-julho-de-1920",
+      "titulo": "LEI Nº 2.301 de 30 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-30-2301",
+      "data": "1920-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2300-de-30-de-julho-de-1920",
+      "titulo": "LEI Nº 2.300 de 30 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-30-2300",
+      "data": "1920-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2299-de-30-de-julho-de-1920",
+      "titulo": "LEI Nº 2.299 de 30 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-30-2299",
+      "data": "1920-07-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2298-de-22-de-julho-de-1920",
+      "titulo": "LEI Nº 2.298 de 22 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-22-2298",
+      "data": "1920-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2297-de-22-de-julho-de-1920",
+      "titulo": "LEI Nº 2.297 de 22 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-22-2297",
+      "data": "1920-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2296-de-19-de-julho-de-1920",
+      "titulo": "LEI Nº 2.296 de 19 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-19-2296",
+      "data": "1920-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2295-de-3-de-julho-de-1920",
+      "titulo": "LEI Nº 2.295 de 3 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-03-2295",
+      "data": "1920-07-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2294-de-2-de-julho-de-1920",
+      "titulo": "LEI Nº 2.294 de 2 de Julho de 1920",
+      "id": "br-municipal-3550308-lei-1920-07-02-2294",
+      "data": "1920-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2293-de-26-de-junho-de-1920",
+      "titulo": "LEI Nº 2.293 de 26 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-26-2293",
+      "data": "1920-06-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2292-de-23-de-junho-de-1920",
+      "titulo": "LEI Nº 2.292 de 23 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-23-2292",
+      "data": "1920-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2291-de-23-de-junho-de-1920",
+      "titulo": "LEI Nº 2.291 de 23 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-23-2291",
+      "data": "1920-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2290-de-23-de-junho-de-1920",
+      "titulo": "LEI Nº 2.290 de 23 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-23-2290",
+      "data": "1920-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2289-de-23-de-junho-de-1920",
+      "titulo": "LEI Nº 2.289 de 23 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-23-2289",
+      "data": "1920-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2288-de-23-de-junho-de-1920",
+      "titulo": "LEI Nº 2.288 de 23 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-23-2288",
+      "data": "1920-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2287-de-23-de-junho-de-1920",
+      "titulo": "LEI Nº 2.287 de 23 de Junho de 1920",
+      "id": "br-municipal-3550308-lei-1920-06-23-2287",
+      "data": "1920-06-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2286-de-17-de-maio-de-1920",
+      "titulo": "LEI Nº 2.286 de 17 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-17-2286",
+      "data": "1920-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2285-de-17-de-maio-de-1920",
+      "titulo": "LEI Nº 2.285 de 17 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-17-2285",
+      "data": "1920-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2284-de-16-de-maio-de-1920",
+      "titulo": "LEI Nº 2.284 de 16 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-16-2284",
+      "data": "1920-05-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2283-de-14-de-maio-de-1920",
+      "titulo": "LEI Nº 2.283 de 14 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-14-2283",
+      "data": "1920-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2282-de-12-de-maio-de-1920",
+      "titulo": "LEI Nº 2.282 de 12 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-12-2282",
+      "data": "1920-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2281-de-12-de-maio-de-1920",
+      "titulo": "LEI Nº 2.281 de 12 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-12-2281",
+      "data": "1920-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2280-de-12-de-maio-de-1920",
+      "titulo": "LEI Nº 2.280 de 12 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-12-2280",
+      "data": "1920-05-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2279-de-4-de-maio-de-1920",
+      "titulo": "LEI Nº 2.279 de 4 de Maio de 1920",
+      "id": "br-municipal-3550308-lei-1920-05-04-2279",
+      "data": "1920-05-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2278-de-29-de-abril-de-1920",
+      "titulo": "LEI Nº 2.278 de 29 de Abril de 1920",
+      "id": "br-municipal-3550308-lei-1920-04-29-2278",
+      "data": "1920-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2277-de-27-de-abril-de-1920",
+      "titulo": "LEI Nº 2.277 de 27 de Abril de 1920",
+      "id": "br-municipal-3550308-lei-1920-04-27-2277",
+      "data": "1920-04-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2276-de-31-de-marco-de-1920",
+      "titulo": "LEI Nº 2.276 de 31 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-31-2276",
+      "data": "1920-03-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2275-de-26-de-marco-de-1920",
+      "titulo": "LEI Nº 2.275 de 26 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-26-2275",
+      "data": "1920-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2274-de-26-de-marco-de-1920",
+      "titulo": "LEI Nº 2.274 de 26 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-26-2274",
+      "data": "1920-03-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2273-de-24-de-marco-de-1920",
+      "titulo": "LEI Nº 2.273 de 24 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-24-2273",
+      "data": "1920-03-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2272-de-18-de-marco-de-1920",
+      "titulo": "LEI Nº 2.272 de 18 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-18-2272",
+      "data": "1920-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2271-de-18-de-marco-de-1920",
+      "titulo": "LEI Nº 2.271 de 18 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-18-2271",
+      "data": "1920-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2270-de-18-de-marco-de-1920",
+      "titulo": "LEI Nº 2.270 de 18 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-18-2270",
+      "data": "1920-03-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2269-de-12-de-marco-de-1920",
+      "titulo": "LEI Nº 2.269 de 12 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-12-2269",
+      "data": "1920-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2268-de-5-de-marco-de-1920",
+      "titulo": "LEI Nº 2.268 de 5 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-05-2268",
+      "data": "1920-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2267-de-5-de-marco-de-1920",
+      "titulo": "LEI Nº 2.267 de 5 de Março de 1920",
+      "id": "br-municipal-3550308-lei-1920-03-05-2267",
+      "data": "1920-03-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2266-de-28-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.266 de 28 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-28-2266",
+      "data": "1920-02-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2265-de-21-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.265 de 21 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-21-2265",
+      "data": "1920-02-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2264-de-13-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.264 de 13 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-13-2264",
+      "data": "1920-02-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2263-de-7-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.263 de 7 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-07-2263",
+      "data": "1920-02-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2262-de-7-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.262 de 7 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-07-2262",
+      "data": "1920-02-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2261-de-7-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.261 de 7 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-07-2261",
+      "data": "1920-02-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2260-de-5-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.260 de 5 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-05-2260",
+      "data": "1920-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2259-de-5-de-fevereiro-de-1920",
+      "titulo": "LEI Nº 2.259 de 5 de Fevereiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-02-05-2259",
+      "data": "1920-02-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2258-de-31-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.258 de 31 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-31-2258",
+      "data": "1920-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2257-de-31-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.257 de 31 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-31-2257",
+      "data": "1920-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2256-de-31-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.256 de 31 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-31-2256",
+      "data": "1920-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2255-de-31-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.255 de 31 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-31-2255",
+      "data": "1920-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2254-de-31-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.254 de 31 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-31-2254",
+      "data": "1920-01-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2253-de-5-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.253 de 5 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-05-2253",
+      "data": "1920-01-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2252-de-2-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.252 de 2 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-02-2252",
+      "data": "1920-01-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-2251-de-2-de-janeiro-de-1920",
+      "titulo": "LEI Nº 2.251 de 2 de Janeiro de 1920",
+      "id": "br-municipal-3550308-lei-1920-01-02-2251",
+      "data": "1920-01-02"
+    }
+  ],
+  "pendencias": []
+}

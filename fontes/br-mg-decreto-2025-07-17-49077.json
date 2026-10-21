@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-07-17-49077",
+  "titulo": "DEC nº 49077, de 17/07/2025",
+  "data": "2025-07-17",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49077/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49077/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "937637c72423dc942097d544b389815f875a7d6694eb276ab525394bb656ff53",
+  "coletado_em": "2026-10-21T08:32:43.737Z",
+  "sha256_fonte": "46f6c592c840241362ad634cacc34d3943f3bb12ba3d084a05283f1f7a52e389",
+  "sha256_markdown": "d244370c1bdb4af30fe63e38e71c602356a29f7a9a6efd51084930a349d2f1bd"
+}

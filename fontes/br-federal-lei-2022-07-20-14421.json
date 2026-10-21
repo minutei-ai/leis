@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-07-20-14421",
+  "titulo": "Lei nº 14.421 de 20/07/2022",
+  "data": "2022-07-20",
+  "fonte": "https://normas.leg.br/api/public/binario/29135f5f-b4c6-4e38-b82f-16c970600401/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-07-20;14421",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-07-20%3B14421&tipo_documento=maior-detalhe",
+  "sha256_dados": "01820c911d4d2f09886d2f9604e36ff55e5373ac68a13d27411da447d8d2d4e7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:34:20.356Z",
+  "sha256_fonte": "7c0543e738e1ddb512ccb3cb9fb7a59ae93c73b507fada752e0e1d55999819d1",
+  "sha256_markdown": "8a2f0fbe8fc18740681047ce64dae9ebd7738daf6748728cc3fc59c014818377"
+}

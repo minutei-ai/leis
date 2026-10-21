@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-10-25342",
+  "titulo": "LEI nº 25342, de 10/07/2025",
+  "data": "2025-07-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25342/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25342/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "91b4583ea9ab643696aed9ea0cf5cc7b8594ad26414e2a547a708e639126748c",
+  "coletado_em": "2026-10-21T08:32:40.364Z",
+  "sha256_fonte": "0270e4c7c62f4b65fa3084b3371a9f532ad3b4c4cc896a5cc1da15ef518a7cc0",
+  "sha256_markdown": "cee0e2832b59026968711f15f87c2cc3450be202bb54fd3a2ccf732e08922ced"
+}

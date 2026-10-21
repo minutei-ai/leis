@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-09-15-49097",
+  "titulo": "DEC nº 49097, de 15/09/2025",
+  "data": "2025-09-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49097/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49097/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "f6c4c1858f18ae018588a7f32cbc71a41ccfddeb0ab34611e6373dc60adf8c75",
+  "coletado_em": "2026-10-21T08:34:08.603Z",
+  "sha256_fonte": "fcbbf83f73f2d0e7fca2d1bf9b6c12ad5aed162713ef062ab424c13736352f43",
+  "sha256_markdown": "910fff0b612a182ff2df53dad857f51e3e0cf6c48b8f2627f2ee12541086827d"
+}

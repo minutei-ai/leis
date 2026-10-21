@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-04-10-25213",
+  "titulo": "LEI nº 25213, de 10/04/2025",
+  "data": "2025-04-10",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25213/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25213/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "92ac45a1e7b531e989129bf78030257e98f067561a5e16382db94a88675ee4e2",
+  "coletado_em": "2026-10-21T08:30:51.351Z",
+  "sha256_fonte": "9efb3bd392d518b15d6ca0cbd93c488ff18ae34cf25efe8ce41d86721f8bf655",
+  "sha256_markdown": "29d7718d3d78a18fbaec038e441aa8447f86d551be396e78b018854664df635d"
+}

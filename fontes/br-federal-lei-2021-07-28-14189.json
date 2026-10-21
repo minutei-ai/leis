@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-07-28-14189",
+  "titulo": "Lei nº 14.189 de 28/07/2021",
+  "data": "2021-07-28",
+  "fonte": "https://normas.leg.br/api/public/binario/61d45358-e297-44fb-b3a9-0fc1bff89acb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-07-28;14189",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-07-28%3B14189&tipo_documento=maior-detalhe",
+  "sha256_dados": "dc4de293bd0e1c9629fdf7540c65b2f30ee0881027248de247799dbeebcd3ada",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:39:18.061Z",
+  "sha256_fonte": "35f4481791f75b58a8684e29eb1fb5d1c7ee6f89abc7016ed17c99604310af1b",
+  "sha256_markdown": "f210eb94cffb41285845927d888ae6f87b1e91b58d75d9b992405b7d7c88a75f"
+}

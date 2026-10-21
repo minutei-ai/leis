@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-11-27-49136",
+  "titulo": "DEC nº 49136, de 27/11/2025",
+  "data": "2025-11-27",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49136/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49136/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e6d6cea65b92539c5ae46a9837d7871ee716b849ef367d8a6cc14ae0c55a420f",
+  "coletado_em": "2026-10-21T08:35:33.431Z",
+  "sha256_fonte": "7a07395bb18c9021b76478053469175bd55384939d87f2ab52787a818ee40c11",
+  "sha256_markdown": "29e5802af6186e63716c6547f9aacaf247b3c093092e034bb6cf49b4c15147bd"
+}

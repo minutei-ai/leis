@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-01-05-14298",
+  "titulo": "Lei nº 14.298 de 05/01/2022",
+  "data": "2022-01-05",
+  "fonte": "https://normas.leg.br/api/public/binario/2f4cf085-72c7-4c61-a023-721211240068/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-01-05;14298",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-01-05%3B14298&tipo_documento=maior-detalhe",
+  "sha256_dados": "54b0141c193942d8f96ec911f52cd4517ea1c47f0081f400e7a451b16450dc27",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:36:59.112Z",
+  "sha256_fonte": "b86c521e2b35124cacbcaba9cefc46934fa90181fd354297adf6dc4f67001302",
+  "sha256_markdown": "354dccc2ebdcb10ad0b6d41a236956545507bc80c198e0efbdd0702c227c4fd9"
+}

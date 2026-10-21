@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-12-22-25648",
+  "titulo": "LEI nº 25648, de 22/12/2025",
+  "data": "2025-12-22",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25648/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25648/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "2b8597462b1bd2534db54ec6ff0200611fd7d363fb6a50d5479ce5627d8fe68b",
+  "coletado_em": "2026-10-21T08:36:15.774Z",
+  "sha256_fonte": "ac4a6cb9215e6251b848fa6562c118f3cc7415f6500c5fff8c2252eb75b4914d",
+  "sha256_markdown": "94824786805337564bf901290a32e745d0b061d3ec968eed1b3b09baccb3f568"
+}

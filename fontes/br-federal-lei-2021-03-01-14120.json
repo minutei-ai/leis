@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-03-01-14120",
+  "titulo": "Lei nº 14.120 de 01/03/2021",
+  "data": "2021-03-01",
+  "fonte": "https://normas.leg.br/api/public/binario/8c973eba-7ea3-4245-a32d-a670f53ab44e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-03-01;14120",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-03-01%3B14120&tipo_documento=maior-detalhe",
+  "sha256_dados": "fc80ff08deef93365568955d3b7bd253d4db99028fade69434b62997dbc5a7bd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:46.224Z",
+  "sha256_fonte": "152c0b9b5dfd5645ec1432a99a2ba3d5c8a5ae0ac2467d4396bf43ab96dd6d1a",
+  "sha256_markdown": "0b5b9f8c0ccfd63d51f46869302b8c65666e3e924d328ce40d9e1723a3e20725"
+}

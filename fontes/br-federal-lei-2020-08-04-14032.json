@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-08-04-14032",
+  "titulo": "Lei nº 14.032 de 04/08/2020",
+  "data": "2020-08-04",
+  "fonte": "https://normas.leg.br/api/public/binario/8f4e003a-7043-4a6a-90b5-8ec95d9ee0a9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-08-04;14032",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-08-04%3B14032&tipo_documento=maior-detalhe",
+  "sha256_dados": "165fe1508600a9c9f768234557d934d68240decb6f78560d76d074fe6257429f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:42:39.243Z",
+  "sha256_fonte": "819cd35ff4b5cac5596bd230d8e2de6b262d74e028d081b5f6afff812ad34f10",
+  "sha256_markdown": "b571b12e2a1974e7e1b45bb60f62647cc43eda8296f4712c914b5818933ae670"
+}

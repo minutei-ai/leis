@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-01-08-14117",
+  "titulo": "Lei nº 14.117 de 08/01/2021",
+  "data": "2021-01-08",
+  "fonte": "https://normas.leg.br/api/public/binario/ee597a9c-1f4b-41cd-8e03-2d77e91337eb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-01-08;14117",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-01-08%3B14117&tipo_documento=maior-detalhe",
+  "sha256_dados": "b4ef4966018ffa69c20bc6973f25ff25abaec5bb13299dc9a0a619caf9a8a50e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:40:50.200Z",
+  "sha256_fonte": "d70455fc362a857ad554b39c69d14108b3b86b5909bddbc57f3703f198572991",
+  "sha256_markdown": "2f7004cae46231bc6366b7fe9861f8048c9177eceb7d8f28160e0c8b00784bbd"
+}

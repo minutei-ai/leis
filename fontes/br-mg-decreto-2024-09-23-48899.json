@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-09-23-48899",
+  "titulo": "DEC nº 48899, de 23/09/2024",
+  "data": "2024-09-23",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48899/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48899/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "07148f02dfb39852bda964c6c30bc0ff7677f82437f89b5e2d82305a21d851ea",
+  "coletado_em": "2026-10-21T08:41:53.174Z",
+  "sha256_fonte": "0e3cc8583faffaf8a2d4af42b8c85992e4f37340ac1bd05ba3c299fe27200b69",
+  "sha256_markdown": "deccd4314acbd0a1c511571ccec262b11e17549f1be6326c6c40caff6dd9888c"
+}

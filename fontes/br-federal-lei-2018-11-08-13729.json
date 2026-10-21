@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-11-08-13729",
+  "titulo": "Lei nº 13.729 de 08/11/2018",
+  "data": "2018-11-08",
+  "fonte": "https://normas.leg.br/api/public/binario/bb2501a2-af1f-4c98-953d-0f01b334cf4a/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-11-08;13729",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-11-08%3B13729&tipo_documento=maior-detalhe",
+  "sha256_dados": "09c0052ecb0de9a9b729d7313542b31c590220418960938d3cb39ae2904adcf4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:49:12.132Z",
+  "sha256_fonte": "829dac8fc58c1f0b6eca6fb80328e7a0af598c69dfba620be0be7f4a79ce38f1",
+  "sha256_markdown": "95b13e7077777ff8e21d8c42a2fd47f6cbe3cb4f2d97350252ec561f81163efb"
+}

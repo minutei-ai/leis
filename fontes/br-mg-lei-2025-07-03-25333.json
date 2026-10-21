@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-03-25333",
+  "titulo": "LEI nº 25333, de 03/07/2025",
+  "data": "2025-07-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25333/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25333/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "8f1875ee872520fb599b0e6a6050709587ae876b1f0b9246351d0e10381d679e",
+  "coletado_em": "2026-10-21T08:32:27.452Z",
+  "sha256_fonte": "caa267dafc5d04bc6d33c7b86d600de655a5434a68c6f6a2733e5c02e76a6631",
+  "sha256_markdown": "ad68020b467278abc08140c320616ebea0b23344064053133f1e4539fb101862"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2024-01-12-14809",
+  "titulo": "Lei nº 14.809 de 12/01/2024",
+  "data": "2024-01-12",
+  "fonte": "https://normas.leg.br/api/public/binario/5f1c03aa-2474-4032-b329-f2f964fd03b4/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2024-01-12;14809",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2024-01-12%3B14809&tipo_documento=maior-detalhe",
+  "sha256_dados": "3485febdd462213e597675d1cd5d51ad68e7fe78734f88b04f19f2a151721868",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:25:55.853Z",
+  "sha256_fonte": "c8356b9646ddac7b46432fd69e798732377dcc785317f53eaade4921ed956eb0",
+  "sha256_markdown": "83a04f5d4c148a5bd29524aa53b83d6528f74b5724c61b21e886347d6f7a4e55"
+}

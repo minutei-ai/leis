@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-07-07-25337",
+  "titulo": "LEI nº 25337, de 07/07/2025",
+  "data": "2025-07-07",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25337/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25337/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "a871ed72b26547c92625dea7ae552bfc9a355f86043122b10d1e5aff6bcc3086",
+  "coletado_em": "2026-10-21T08:32:31.932Z",
+  "sha256_fonte": "4b8778e24eaeb3741dabbefec63e97109a33a58092fd6c90880fa661310f90a4",
+  "sha256_markdown": "04a583bd99fd06eb57e7f4af0cbb8de5ec94de47f86c275baad031148665c8e8"
+}

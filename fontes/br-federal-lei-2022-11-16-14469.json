@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-11-16-14469",
+  "titulo": "Lei nº 14.469 de 16/11/2022",
+  "data": "2022-11-16",
+  "fonte": "https://normas.leg.br/api/public/binario/61adc91a-5e2d-4aa7-a714-af3b5edbaa5b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-11-16;14469",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-11-16%3B14469&tipo_documento=maior-detalhe",
+  "sha256_dados": "2ac1e7ee9abbb7c50a9f5feb14cf0186e5107f13bea7b55b588b87f013353688",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:33:21.643Z",
+  "sha256_fonte": "07aeadcddc387098433a7558c01dc3bd8115f2dac0cb1f1d389748530380bdbd",
+  "sha256_markdown": "95abe2f9c836c76862292ca57b41b7bc44afeb15d2536c3e06d8d9bf39679e51"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-10-01-14067",
+  "titulo": "Lei nº 14.067 de 01/10/2020",
+  "data": "2020-10-01",
+  "fonte": "https://normas.leg.br/api/public/binario/a8974b3a-52cf-4a96-a7d7-41c8a7734a1a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-10-01;14067",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-10-01%3B14067&tipo_documento=maior-detalhe",
+  "sha256_dados": "6e33bf312069773ef99b70d15a2894b7958160936767ce36ea791140234d6aeb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:41:53.002Z",
+  "sha256_fonte": "f9f3a214b52927dad9115ae9d18feec0db41eeeb39d6e6a61362d42b21c924db",
+  "sha256_markdown": "6dcfc87e763f5e94cfd69ac11d5fa029beb2a881622dadb78acc476b33640f79"
+}

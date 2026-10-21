@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2019-10-17-13885",
+  "titulo": "Lei nº 13.885 de 17/10/2019",
+  "data": "2019-10-17",
+  "fonte": "https://normas.leg.br/api/public/binario/5ca34c85-f8a0-4df5-bae1-5753490688b3/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2019-10-17;13885",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-10-17%3B13885&tipo_documento=maior-detalhe",
+  "sha256_dados": "6727f81d200472ab93125b892908b1c841c8692348d71a438f21cda7fbf3bcce",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:45:48.405Z",
+  "sha256_fonte": "efd350337b79434dd7227405b5bc53812be5849391dac8f76bee40757c466da1",
+  "sha256_markdown": "4b196a99eee2e6e72d4266a5c81cf52e9d300ba50db2653a0ac3202cb2d793bd"
+}

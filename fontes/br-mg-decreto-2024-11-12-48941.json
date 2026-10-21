@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-11-12-48941",
+  "titulo": "DEC nº 48941, de 12/11/2024",
+  "data": "2024-11-12",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48941/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48941/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "c433377e74677b52044d18369169cca79de1da2026341d45338b9a5ffde0a907",
+  "coletado_em": "2026-10-21T08:42:38.368Z",
+  "sha256_fonte": "97cfc5b5335e966d41aa4735f0426ae897dd0395f9124c86d0e14521201dbcac",
+  "sha256_markdown": "b247149e2a1f76b04eec6d100b85d09d6fd987acabb19acba0c055eed866e679"
+}

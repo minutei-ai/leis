@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-03-13-49190",
+  "titulo": "DEC nº 49190, de 13/03/2026",
+  "data": "2026-03-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49190/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49190/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "d1dbd037c8dbaf464efb861a2560a0565b44360e74b13637baa02b9749bd163a",
+  "coletado_em": "2026-10-21T08:25:45.806Z",
+  "sha256_fonte": "e3e8ac0f58f143b5b11ffeea22fb799dccfb56d0d952077223fd392a14143fe1",
+  "sha256_markdown": "176052a80c31084b9bd667203115dead1ef73d7f4e0f4b318ad2c822769bf14c"
+}

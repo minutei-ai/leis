@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2024-10-30-48931",
+  "titulo": "DEC nº 48931, de 30/10/2024",
+  "data": "2024-10-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48931/2024/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48931/2024/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "ee93fc5fb18ff969024c2653562d273f6480c6c1aae7111755dbb37f8c836af2",
+  "coletado_em": "2026-10-21T08:42:19.008Z",
+  "sha256_fonte": "c0251a6bf5465842f422714a2696b7602e2a688a507232a093a7f43da8afaf02",
+  "sha256_markdown": "cd5cd50311d8a2b4137080b598c21f11db983148cd2a25a50e24d2d693625e3d"
+}

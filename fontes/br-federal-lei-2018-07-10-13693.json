@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-07-10-13693",
+  "titulo": "Lei nº 13.693 de 10/07/2018",
+  "data": "2018-07-10",
+  "fonte": "https://normas.leg.br/api/public/binario/f18d6322-94b5-4396-aa6d-981d9bc9cb54/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-07-10;13693",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-07-10%3B13693&tipo_documento=maior-detalhe",
+  "sha256_dados": "195539152d411e4f4f6969d1616ab1c2217c1d02981d13e891cab17a9d84d5b5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:00.096Z",
+  "sha256_fonte": "993f3120b8f83f293fdf1b04972406a8a4681fbb027333ed711802cd4f470f10",
+  "sha256_markdown": "06d0faeeef8167e3fc6d7ae88a03b043e04588c537d988498d328a5418c0f241"
+}

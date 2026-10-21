@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-06-20-14604",
+  "titulo": "Lei nº 14.604 de 20/06/2023",
+  "data": "2023-06-20",
+  "fonte": "https://normas.leg.br/api/public/binario/d149aedb-050e-48d6-a94f-9718cbb6bd74/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-06-20;14604",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-06-20%3B14604&tipo_documento=maior-detalhe",
+  "sha256_dados": "7c96210c0adfbe4fc1167a84f6d1744250146aa6716e5e8681ecf41f0ffc84ef",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:30:18.550Z",
+  "sha256_fonte": "d0fab13aacc5febd723077ff35e9ce86995c3b9d5baec0b6a513371a4a9184bb",
+  "sha256_markdown": "8e942b1615e808b85827865d40dcd79da75cdabac22e6b61d672f69c2db74081"
+}

@@ -5,6 +5,7 @@ import { Effect, Schema } from "effect";
 import { Metadata } from "./catalog";
 
 const markdownPath = (id: string) => {
+  if (id.startsWith("br-municipal-3550308-")) return `municipais/3550308/${id}.md`;
   if (id.startsWith("br-federal-")) return `federal/${id}.md`;
   return `estaduais/${id.slice(3, 5).toUpperCase()}/${id}.md`;
 };

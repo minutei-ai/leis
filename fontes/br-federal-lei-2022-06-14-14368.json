@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2022-06-14-14368",
+  "titulo": "Lei nº 14.368 de 14/06/2022",
+  "data": "2022-06-14",
+  "fonte": "https://normas.leg.br/api/public/binario/f3059a41-4237-4903-934d-89f7cbca7bf1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2022-06-14;14368",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2022-06-14%3B14368&tipo_documento=maior-detalhe",
+  "sha256_dados": "6d1328918cfd1e9af3fd2ceefe664f4b5a07f087aea15671d243ccf966558f92",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:35:28.069Z",
+  "sha256_fonte": "c9ee8f9f990708de21b6e42cddeb7a4fe006995e7054322ba29965bff6bc2688",
+  "sha256_markdown": "2e10db924d33a38176a002df0dc848c4e0ad74d4d0e1a5c99b5fdda9d846038e"
+}

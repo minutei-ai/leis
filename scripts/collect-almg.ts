@@ -12,6 +12,7 @@ const args = parseArgs({ options: {
   to: { type: "string", default: String(new Date().getUTCFullYear()) },
   limit: { type: "string", default: "1000000" },
   refresh: { type: "boolean", default: false },
+  "skip-failures": { type: "boolean", default: false },
   "discover-only": { type: "boolean", default: false },
 } });
 const first = Schema.decodeUnknownSync(Schema.NumberFromString.pipe(Schema.int(), Schema.between(1800, 2100)))(args.values.from);
@@ -20,17 +21,31 @@ const limit = Schema.decodeUnknownSync(Schema.NumberFromString.pipe(Schema.int()
 const Failure = Schema.Struct({ id: Schema.String, fonte: Schema.String, coletado_em: Schema.String, erro: Schema.String });
 
 await Effect.runPromise(Effect.gen(function* () {
-  for (const path of ["estaduais/MG", "fontes", "falhas"])
+  for (const path of ["estaduais/MG", "fontes", "falhas", "falhas-catalogos"])
     yield* Effect.tryPromise(() => mkdir(path, { recursive: true }));
   const processed = new Set<string>();
   const failures = new Set<string>();
   for (const offset of Array.from({ length: last - first + 1 }, (_, index) => index)) {
     if (processed.size >= limit) break;
-    const inventory = yield* discoverAlmgYear(last - offset, args.values.refresh);
+    const catalogId = "almg-" + String(last - offset);
+    const catalogPath = `falhas-catalogos/${catalogId}.json`;
+    const discovered = yield* discoverAlmgYear(last - offset, args.values.refresh).pipe(Effect.exit);
+    if (Exit.isFailure(discovered)) {
+      failures.add(catalogId);
+      const now = yield* Clock.currentTimeMillis;
+      const failure = Failure.make({ id: catalogId, fonte: "almg", coletado_em: new Date(now).toISOString(), erro: Cause.pretty(discovered.cause) });
+      const json = yield* Schema.encode(Schema.parseJson(Failure, { space: 2 }))(failure);
+      yield* Effect.tryPromise(() => Bun.write(catalogPath, `${json}\n`));
+      yield* Effect.logError(`Falhou catálogo ${catalogId}: ${failure.erro}`);
+      continue;
+    }
+    yield* Effect.tryPromise(() => rm(catalogPath, { force: true }));
+    const inventory = discovered.value;
     if (args.values["discover-only"]) continue;
     for (const norm of inventory.normas) {
       if (processed.size >= limit) break;
       if (!args.values.refresh && (yield* intact(norm.id))) continue;
+      if (args.values["skip-failures"] && (yield* Effect.tryPromise(() => Bun.file(`falhas/${norm.id}.json`).exists()))) continue;
       processed.add(norm.id);
       const result = yield* Effect.gen(function* () {
         const data = yield* almgRequest(norm.fonte, "application/json");

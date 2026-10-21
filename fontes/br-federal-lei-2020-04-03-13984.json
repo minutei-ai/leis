@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2020-04-03-13984",
+  "titulo": "Lei nº 13.984 de 03/04/2020",
+  "data": "2020-04-03",
+  "fonte": "https://normas.leg.br/api/public/binario/dccb51bb-7fdd-4e6e-9706-d09bed540442/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2020-04-03;13984",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2020-04-03%3B13984&tipo_documento=maior-detalhe",
+  "sha256_dados": "0761cf3ab061a00acc953ee20a09853cd8627a079a76739e0ad4c559498e933a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:43:43.372Z",
+  "sha256_fonte": "119fd4a3ad18459308ded55da850cc24326667f232e8b02c0a44c1326c32d715",
+  "sha256_markdown": "8fdff1883d97bfe31e44ed18b607d7198be406ad515d1ffe0d9dbb8e4a60d689"
+}

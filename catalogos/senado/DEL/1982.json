@@ -1,0 +1,859 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1982",
+  "tipo": "DEL",
+  "ano": 1982,
+  "coletado_em": "2026-10-21T08:36:32.750Z",
+  "normas": [
+    {
+      "senadoId": "526607",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-30-1999",
+      "titulo": "Decreto-Lei nº 1.999 de 30/12/1982",
+      "data": "1982-12-30",
+      "numero": "1999",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-30;1999",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos   servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da   Justiça Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "526603",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-30-1997",
+      "titulo": "Decreto-Lei nº 1.997 de 30/12/1982",
+      "data": "1982-12-30",
+      "numero": "1997",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-30;1997",
+      "ementa": "Reajusta os valores de vencimentos, salários e   proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do   Distrito Federal, bem como os das pensões, e dá outras providências."
+    },
+    {
+      "senadoId": "526601",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-30-1996",
+      "titulo": "Decreto-Lei nº 1.996 de 30/12/1982",
+      "data": "1982-12-30",
+      "numero": "1996",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-30;1996",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos   membros do Tribunal de Contas do Distrito Federal e do respectivo Ministério   Público, e dá outras providências."
+    },
+    {
+      "senadoId": "526605",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-30-1998",
+      "titulo": "Decreto-Lei nº 1.998 de 30/12/1982",
+      "data": "1982-12-30",
+      "numero": "1998",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-30;1998",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos   funcionários da Secretaria do Tribunal Superior Eleitoral, e dá outras   providências."
+    },
+    {
+      "senadoId": "526609",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-30-2000",
+      "titulo": "Decreto-Lei nº 2.000 de 30/12/1982",
+      "data": "1982-12-30",
+      "numero": "2000",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-30;2000",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos   servidores da Secretaria do Supremo Tribunal Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "526595",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-29-1993",
+      "titulo": "Decreto-Lei nº 1.993 de 29/12/1982",
+      "data": "1982-12-29",
+      "numero": "1993",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1993",
+      "ementa": "Reajusta os atuais valores de vencimentos, salários e   proventos dos servidores civis do Distrito Federal, bem como os das pensões e dá   outras providências."
+    },
+    {
+      "senadoId": "526593",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-29-1992",
+      "titulo": "Decreto-Lei nº 1.992 de 29/12/1982",
+      "data": "1982-12-29",
+      "numero": "1992",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1992",
+      "ementa": "Fixa o valor do soldo base do cálculo da remuneração   dos militares."
+    },
+    {
+      "senadoId": "526597",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-29-1994",
+      "titulo": "Decreto-Lei nº 1.994 de 29/12/1982",
+      "data": "1982-12-29",
+      "numero": "1994",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1994",
+      "ementa": "Cria incentivos à capitalização das empresas e dá   outras providências."
+    },
+    {
+      "senadoId": "526589",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-29-1990",
+      "titulo": "Decreto-Lei nº 1.990 de 29/12/1982",
+      "data": "1982-12-29",
+      "numero": "1990",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1990",
+      "ementa": "Acrescenta parágrafo no artigo 2º do Decreto-Lei n.   1400, de 22 de abril de 1975."
+    },
+    {
+      "senadoId": "526599",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-29-1995",
+      "titulo": "Decreto-Lei nº 1.995 de 29/12/1982",
+      "data": "1982-12-29",
+      "numero": "1995",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1995",
+      "ementa": "Altera valores da taxa de fiscalização da instalação   dos serviços de telecomunicações, constantes do Anexo I à Lei n. 5070, de 7 de   julho de 1966."
+    },
+    {
+      "senadoId": "526591",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-29-1991",
+      "titulo": "Decreto-Lei nº 1.991 de 29/12/1982",
+      "data": "1982-12-29",
+      "numero": "1991",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1991",
+      "ementa": "Dispõe sobre a incorporação de gratificação aos   proventos de aposentadoria."
+    },
+    {
+      "senadoId": "526575",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1983",
+      "titulo": "Decreto-Lei nº 1.983 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1983",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1983",
+      "ementa": "Reajusta o valor do soldo base de cálculo da   remuneração dos militares."
+    },
+    {
+      "senadoId": "526579",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1985",
+      "titulo": "Decreto-Lei nº 1.985 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1985",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1985",
+      "ementa": "Reajusta os valores de vencimentos e proventos dos membros da Magistratura Federal, do Distrito Federal e Territórios e do Tribunal de Contas da União, bem assim os das pensões e dá outras providências."
+    },
+    {
+      "senadoId": "526587",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1989",
+      "titulo": "Decreto-Lei nº 1.989 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1989",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1989",
+      "ementa": "Dispõe sobre contribuição devida ao Instituto   Nacional de Colonização e Reforma Agrária - INCRA e cálculo referente à taxa   prevista no Decreto-lei n. 57, de 18 de novembro de 1966, e dá outras   providências."
+    },
+    {
+      "senadoId": "526577",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1984",
+      "titulo": "Decreto-Lei nº 1.984 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1984",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1984",
+      "ementa": "Reajusta os atuais valores de vencimentos, salários e   proventos dos servidores civis do Poder Executivo, bem como os das pensões, e dá   outras providências."
+    },
+    {
+      "senadoId": "526585",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1988",
+      "titulo": "Decreto-Lei nº 1.988 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1988",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1988",
+      "ementa": "Altera a legislação do Imposto sobre Produtos   Industrializados."
+    },
+    {
+      "senadoId": "526583",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1987",
+      "titulo": "Decreto-Lei nº 1.987 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1987",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1987",
+      "ementa": "Altera alíquota do imposto de renda antecipado e na   fonte sobre rendimentos auferidos por domiciliados no país."
+    },
+    {
+      "senadoId": "526581",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1986",
+      "titulo": "Decreto-Lei nº 1.986 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1986",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1986",
+      "ementa": "Dispõe sobre a tributação das sociedades de   investimento de cujo capital social participem pessoas físicas ou jurídicas,   residentes ou domiciliadas no exterior, e dá outras providências."
+    },
+    {
+      "senadoId": "526573",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-28-1982",
+      "titulo": "Decreto-Lei nº 1.982 de 28/12/1982",
+      "data": "1982-12-28",
+      "numero": "1982",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1982",
+      "ementa": "Dispõe sobre o exercício das atividades nucleares   incluídas no monopólio da União, o controle do desenvolvimento de pesquisas no   campo da energia nuclear, e dá outras providências."
+    },
+    {
+      "senadoId": "526571",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-27-1981",
+      "titulo": "Decreto-Lei nº 1.981 de 27/12/1982",
+      "data": "1982-12-27",
+      "numero": "1981",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-27;1981",
+      "ementa": "Estabelece contenção de despesas orçamentárias para o exercício de 1983, e dá outras providências."
+    },
+    {
+      "senadoId": "526567",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-22-1979",
+      "titulo": "Decreto-Lei nº 1.979 de 22/12/1982",
+      "data": "1982-12-22",
+      "numero": "1979",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-22;1979",
+      "ementa": "Altera a legislação do imposto de renda na fonte,   relativa a domiciliados no país."
+    },
+    {
+      "senadoId": "526569",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-22-1980",
+      "titulo": "Decreto-Lei nº 1.980 de 22/12/1982",
+      "data": "1982-12-22",
+      "numero": "1980",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-22;1980",
+      "ementa": "Altera a legislação do imposto de renda relativa aos   fundos em condomínio, e dá outras providências."
+    },
+    {
+      "senadoId": "526565",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-21-1978",
+      "titulo": "Decreto-Lei nº 1.978 de 21/12/1982",
+      "data": "1982-12-21",
+      "numero": "1978",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-21;1978",
+      "ementa": "Estimula a capitalização de empresas, e dá outras   providências."
+    },
+    {
+      "senadoId": "526561",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-20-1976",
+      "titulo": "Decreto-Lei nº 1.976 de 20/12/1982",
+      "data": "1982-12-20",
+      "numero": "1976",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-20;1976",
+      "ementa": "Dispõe sobre a situação, perante a Previdência   Social, da construção residencial unifamiliar que indica, e dá outras   providências."
+    },
+    {
+      "senadoId": "526559",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-20-1975",
+      "titulo": "Decreto-Lei nº 1.975 de 20/12/1982",
+      "data": "1982-12-20",
+      "numero": "1975",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-20;1975",
+      "ementa": "Altera as alíquotas do Imposto sobre a Transmissão de Bens Imóveis - ITBI,   nos Territórios Federais ."
+    },
+    {
+      "senadoId": "526563",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-20-1977",
+      "titulo": "Decreto-Lei nº 1.977 de 20/12/1982",
+      "data": "1982-12-20",
+      "numero": "1977",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-20;1977",
+      "ementa": "Prorroga prazos de vigência de Decretos-leis que   dispõem sobre acrésimos às alíquotas do imposto de importação, e dá outras   providências."
+    },
+    {
+      "senadoId": "526557",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-12-09-1974",
+      "titulo": "Decreto-Lei nº 1.974 de 09/12/1982",
+      "data": "1982-12-09",
+      "numero": "1974",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-12-09;1974",
+      "ementa": "Dispõe sobre a criação de cargos no Grupo-Direção e   Assessoramento Superiores, Código TCU-DAS-100, do Quadro Permanente da   Secreteria-Geral do Tribunal de Contas da União e dá outras providências."
+    },
+    {
+      "senadoId": "526553",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-30-1972",
+      "titulo": "Decreto-Lei nº 1.972 de 30/11/1982",
+      "data": "1982-11-30",
+      "numero": "1972",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-30;1972",
+      "ementa": "Prorroga os prazos estabelecidos no Decreto-lei n.   1966, de 01 de novembro de 1982, e dá outras providências."
+    },
+    {
+      "senadoId": "526551",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-30-1971",
+      "titulo": "Decreto-Lei nº 1.971 de 30/11/1982",
+      "data": "1982-11-30",
+      "numero": "1971",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-30;1971",
+      "ementa": "Estabelece limite de renumeração mensal para os   servidores, empregados e dirigentes da Adiministração Pública Direta e   Autárquica da União e das respectivas entidades estatais, bem como para os do   Distrito Federal e dos Territórios, e dá outras providências."
+    },
+    {
+      "senadoId": "526555",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-30-1973",
+      "titulo": "Decreto-Lei nº 1.973 de 30/11/1982",
+      "data": "1982-11-30",
+      "numero": "1973",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-30;1973",
+      "ementa": "Amplia a isenção do imposto sobre a renda concedida às empresas de pequeno porte e dá outras providências."
+    },
+    {
+      "senadoId": "526549",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-29-1970",
+      "titulo": "Decreto-Lei nº 1.970 de 29/11/1982",
+      "data": "1982-11-29",
+      "numero": "1970",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-29;1970",
+      "ementa": "Elimina as frações de Cruzeiro nas operações de natureza orçamentária, financeira e contábil."
+    },
+    {
+      "senadoId": "526547",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-25-1969",
+      "titulo": "Decreto-Lei nº 1.969 de 25/11/1982",
+      "data": "1982-11-25",
+      "numero": "1969",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-25;1969",
+      "ementa": "Altera e estrutura salarial da classe de Professor   Titular da carreira do magistério superior das instituições federais   autárquicas, dispõe sobre a incorporação da Gratificação de Dedicação Exclusiva   e dá outras providências."
+    },
+    {
+      "senadoId": "526543",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-23-1967",
+      "titulo": "Decreto-Lei nº 1.967 de 23/11/1982",
+      "data": "1982-11-23",
+      "numero": "1967",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-23;1967",
+      "ementa": "Altera a legislação do imposto de renda das pessoas jurídicas e dá outras providências."
+    },
+    {
+      "senadoId": "526545",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-23-1968",
+      "titulo": "Decreto-Lei nº 1.968 de 23/11/1982",
+      "data": "1982-11-23",
+      "numero": "1968",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-23;1968",
+      "ementa": "Altera a legislação do imposto de renda de pessoa física residente ou domiciliada no Brasil, e dá outras providências."
+    },
+    {
+      "senadoId": "526541",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-11-01-1966",
+      "titulo": "Decreto-Lei nº 1.966 de 01/11/1982",
+      "data": "1982-11-01",
+      "numero": "1966",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-11-01;1966",
+      "ementa": "Dispõe sobre medidas de incentivo à arrecadação de contribuições previdênciárias."
+    },
+    {
+      "senadoId": "526539",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-10-25-1965",
+      "titulo": "Decreto-Lei nº 1.965 de 25/10/1982",
+      "data": "1982-10-25",
+      "numero": "1965",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-10-25;1965",
+      "ementa": "Cria cargo em comissão e função de confiança no   Quadro e Tabela Permanentes do Ministério Público Federal, e dá outras   providências."
+    },
+    {
+      "senadoId": "526537",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-10-18-1964",
+      "titulo": "Decreto-Lei nº 1.964 de 18/10/1982",
+      "data": "1982-10-18",
+      "numero": "1964",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-10-18;1964",
+      "ementa": "Concede isenção dos impostos de importação e sobre   produtos industrializados aos materiais e equipamentos importados para a   construção e reparação de embarcações."
+    },
+    {
+      "senadoId": "526535",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-10-14-1963",
+      "titulo": "Decreto-Lei nº 1.963 de 14/10/1982",
+      "data": "1982-10-14",
+      "numero": "1963",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-10-14;1963",
+      "ementa": "Dispõe sobre recursos do Programa Nacional de   Política Fundiária, sobre financiamento de projetos de construção de casa para o   trabalhador rural, e dá outras providências."
+    },
+    {
+      "senadoId": "526533",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-10-01-1962",
+      "titulo": "Decreto-Lei nº 1.962 de 01/10/1982",
+      "data": "1982-10-01",
+      "numero": "1962",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-10-01;1962",
+      "ementa": "Dispõe sobre a retribuição dos professores do   Magistério da Marinha e dá outras providências."
+    },
+    {
+      "senadoId": "526531",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-09-23-1961",
+      "titulo": "Decreto-Lei nº 1.961 de 23/09/1982",
+      "data": "1982-09-23",
+      "numero": "1961",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-09-23;1961",
+      "ementa": "Autoriza a elevação do capital do Banco Nacional de   Desenvolvimento Econômico e Social e dá outras providências."
+    },
+    {
+      "senadoId": "526529",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-09-23-1960",
+      "titulo": "Decreto-Lei nº 1.960 de 23/09/1982",
+      "data": "1982-09-23",
+      "numero": "1960",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-09-23;1960",
+      "ementa": "Autoriza o Poder Executivo a contratar ou garantir, em nome da União, as operações de arrendamento mercantil que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "526527",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-09-14-1959",
+      "titulo": "Decreto-Lei nº 1.959 de 14/09/1982",
+      "data": "1982-09-14",
+      "numero": "1959",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-09-14;1959",
+      "ementa": "Altera o inciso XIV do artigo 4º da Lei n° 4.595, de   31 de dezembro de 1964."
+    },
+    {
+      "senadoId": "526525",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-09-09-1958",
+      "titulo": "Decreto-Lei nº 1.958 de 09/09/1982",
+      "data": "1982-09-09",
+      "numero": "1958",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-09-09;1958",
+      "ementa": "Extingue o Certificado de Regularidade de Situação - CRS e o Certificado de Quitação - CQ, reduz os casos de exigência de prova de quitação para com a Previdência Social e dá outras providências"
+    },
+    {
+      "senadoId": "526523",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-08-31-1957",
+      "titulo": "Decreto-Lei nº 1.957 de 31/08/1982",
+      "data": "1982-08-31",
+      "numero": "1957",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-08-31;1957",
+      "ementa": "Revoga a artigo 5º da Lei n° 6.263, de 18 de novembro   de 1975."
+    },
+    {
+      "senadoId": "526521",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-08-30-1956",
+      "titulo": "Decreto-Lei nº 1.956 de 30/08/1982",
+      "data": "1982-08-30",
+      "numero": "1956",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-08-30;1956",
+      "ementa": "Autoriza o Conselho Interministerial do Programa   Grande Carajás a conceder isenção ou redução do Imposto de Importação e do   Imposto sobre Produtos Industrializados."
+    },
+    {
+      "senadoId": "526519",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-08-23-1955",
+      "titulo": "Decreto-Lei nº 1.955 de 23/08/1982",
+      "data": "1982-08-23",
+      "numero": "1955",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-08-23;1955",
+      "ementa": "Concede à FURNAS e à ELETROSUL, isenção de impostos na   importação de bens destinados aos Sistemas de Transmissão de Itaipu."
+    },
+    {
+      "senadoId": "526517",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-08-16-1954",
+      "titulo": "Decreto-Lei nº 1.954 de 16/08/1982",
+      "data": "1982-08-16",
+      "numero": "1954",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-08-16;1954",
+      "ementa": "Altera dispositivos do Decreto-lei nº 1135, de 3 de   dezembro de 1970, que dispõe sobre a organização, a competência e o   funcionamento do Conselho de Segurança Nacional."
+    },
+    {
+      "senadoId": "526515",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-08-03-1953",
+      "titulo": "Decreto-Lei nº 1.953 de 03/08/1982",
+      "data": "1982-08-03",
+      "numero": "1953",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-08-03;1953",
+      "ementa": "Autoriza a Comissão de Política Aduaneira a conceder   isenção ou redução do Imposto de Importação incidente sobre bens destinados à   prospecção e produção de petróleo."
+    },
+    {
+      "senadoId": "526513",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-07-15-1952",
+      "titulo": "Decreto-Lei nº 1.952 de 15/07/1982",
+      "data": "1982-07-15",
+      "numero": "1952",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-07-15;1952",
+      "ementa": "Institui adicional às contribuições incidentes sobre açucar e álcool e dá outras providências."
+    },
+    {
+      "senadoId": "526509",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-07-14-1950",
+      "titulo": "Decreto-Lei nº 1.950 de 14/07/1982",
+      "data": "1982-07-14",
+      "numero": "1950",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-07-14;1950",
+      "ementa": "Isenta do imposto de renda os ganhos auferidos por pessoas físicas em operações com imóveis, estimula a capitalização das pessoas jurídicas e dá outras providências."
+    },
+    {
+      "senadoId": "526511",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-07-14-1951",
+      "titulo": "Decreto-Lei nº 1.951 de 14/07/1982",
+      "data": "1982-07-14",
+      "numero": "1951",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-07-14;1951",
+      "ementa": "Altera o Decreto-lei nº 1.893, de 16 de dezembro de   1981, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal."
+    },
+    {
+      "senadoId": "526507",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-07-13-1949",
+      "titulo": "Decreto-Lei nº 1.949 de 13/07/1982",
+      "data": "1982-07-13",
+      "numero": "1949",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-07-13;1949",
+      "ementa": "Cancela débitos fiscais decorrentes da exportação de   suco de laranja, no período que menciona."
+    },
+    {
+      "senadoId": "526505",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-06-29-1948",
+      "titulo": "Decreto-Lei nº 1.948 de 29/06/1982",
+      "data": "1982-06-29",
+      "numero": "1948",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-06-29;1948",
+      "ementa": "Autoriza a emissão de Obrigações Reajustáveis do   Tesouro Nacional para cobertura de débito do Tesouro Nacional junto ao Banco   Nacional do Desenvolvimento Econômico e Social ( BNDES )."
+    },
+    {
+      "senadoId": "526503",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-06-29-1947",
+      "titulo": "Decreto-Lei nº 1.947 de 29/06/1982",
+      "data": "1982-06-29",
+      "numero": "1947",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-06-29;1947",
+      "ementa": "Autoriza a elevação do capital do Banco Nacional do   Desenvolvimento Econômico e Social - BNDES e dá outras providências."
+    },
+    {
+      "senadoId": "526499",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-06-22-1945",
+      "titulo": "Decreto-Lei nº 1.945 de 22/06/1982",
+      "data": "1982-06-22",
+      "numero": "1945",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-06-22;1945",
+      "ementa": "Autoriza a conversão dos créditos que especifica em   ações de sociedades de economia mista ou empresas públicas."
+    },
+    {
+      "senadoId": "526501",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-06-22-1946",
+      "titulo": "Decreto-Lei nº 1.946 de 22/06/1982",
+      "data": "1982-06-22",
+      "numero": "1946",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-06-22;1946",
+      "ementa": "Dispõe sobre a isenção de impostos e taxas nas   importações realizadas pelas indústrias de material de emprego militar."
+    },
+    {
+      "senadoId": "526497",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-06-15-1944",
+      "titulo": "Decreto-Lei nº 1.944 de 15/06/1982",
+      "data": "1982-06-15",
+      "numero": "1944",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-06-15;1944",
+      "ementa": "Concede isenção do Imposto sobre Produtos   Industrializados para táxis com motor a álcool."
+    },
+    {
+      "senadoId": "526495",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-06-01-1943",
+      "titulo": "Decreto-Lei nº 1.943 de 01/06/1982",
+      "data": "1982-06-01",
+      "numero": "1943",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-06-01;1943",
+      "ementa": "Dá nova redação ao artigo 4º do Decreto-Lei n° 1.861,   de 25 de fevereiro de 1981, alterado pelo artigo 1º do Decreto-Lei n. 1867, de   25 de março de 1981."
+    },
+    {
+      "senadoId": "526491",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-05-31-1941",
+      "titulo": "Decreto-Lei nº 1.941 de 31/05/1982",
+      "data": "1982-05-31",
+      "numero": "1941",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-05-31;1941",
+      "ementa": "Autoriza o aumento do capital da empresa pública Casa   da Moeda do Brasil - CMB, e dá outras providências."
+    },
+    {
+      "senadoId": "526493",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-05-31-1942",
+      "titulo": "Decreto-Lei nº 1.942 de 31/05/1982",
+      "data": "1982-05-31",
+      "numero": "1942",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-05-31;1942",
+      "ementa": "Dispõe sobre terras situadas em área indispensável à   segurança nacional, no Estado do Paraná, e dá outras providências."
+    },
+    {
+      "senadoId": "526489",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-05-25-1940",
+      "titulo": "Decreto-Lei nº 1.940 de 25/05/1982",
+      "data": "1982-05-25",
+      "numero": "1940",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-05-25;1940",
+      "ementa": "Institui contribuição social, cria o Fundo de Investimento Social (   FINSOCIAL ) e dá outras providências."
+    },
+    {
+      "senadoId": "526487",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-05-20-1939",
+      "titulo": "Decreto-Lei nº 1.939 de 20/05/1982",
+      "data": "1982-05-20",
+      "numero": "1939",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-05-20;1939",
+      "ementa": "Altera a Classificação da Receita e dá outras providências."
+    },
+    {
+      "senadoId": "526485",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-05-10-1938",
+      "titulo": "Decreto-Lei nº 1.938 de 10/05/1982",
+      "data": "1982-05-10",
+      "numero": "1938",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-05-10;1938",
+      "ementa": "Concede isenção do imposto de importação nos casos que   especifica e dá outras providências."
+    },
+    {
+      "senadoId": "526483",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-04-27-1937",
+      "titulo": "Decreto-Lei nº 1.937 de 27/04/1982",
+      "data": "1982-04-27",
+      "numero": "1937",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-04-27;1937",
+      "ementa": "Acrescenta parágrafos ao artigo 1º do Decreto-Lei n.   1866, de 09 de março de 1981, que dispõe sobre a nomeação de prefeito em   Município declarado de interesse da Segurança Nacional."
+    },
+    {
+      "senadoId": "526481",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-04-26-1936",
+      "titulo": "Decreto-Lei nº 1.936 de 26/04/1982",
+      "data": "1982-04-26",
+      "numero": "1936",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-04-26;1936",
+      "ementa": "Dispõe sobre o empréstimo compulsório em favor da   Centrais Elétricas Brasileiras S/A - ELETROBRÁS."
+    },
+    {
+      "senadoId": "526479",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-04-20-1935",
+      "titulo": "Decreto-Lei nº 1.935 de 20/04/1982",
+      "data": "1982-04-20",
+      "numero": "1935",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-04-20;1935",
+      "ementa": "Revigora, até 31 de dezembro de 1982, as disposições   do Decreto-Lei n. 1627, de 02 de julho de 1978."
+    },
+    {
+      "senadoId": "526477",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-04-20-1934",
+      "titulo": "Decreto-Lei nº 1.934 de 20/04/1982",
+      "data": "1982-04-20",
+      "numero": "1934",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-04-20;1934",
+      "ementa": "Dispõe sobre a retribuição dos professores civis do   Magistério da Aeronáutica, e dá outras providências."
+    },
+    {
+      "senadoId": "526475",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-04-19-1933",
+      "titulo": "Decreto-Lei nº 1.933 de 19/04/1982",
+      "data": "1982-04-19",
+      "numero": "1933",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-04-19;1933",
+      "ementa": "Acrescenta parágrafos ao artigo 4º do Decreto-lei n.   1219, de 15 de maio de 1972, que dispõe sobre a concessão de estímulos à   exportação de manufaturados."
+    },
+    {
+      "senadoId": "526473",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-03-30-1932",
+      "titulo": "Decreto-Lei nº 1.932 de 30/03/1982",
+      "data": "1982-03-30",
+      "numero": "1932",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-03-30;1932",
+      "ementa": "Institui incentivo fiscal a projetos de interesse   para o comércio exterior do País, situados em áreas da Amazônia Oriental."
+    },
+    {
+      "senadoId": "526471",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-03-19-1931",
+      "titulo": "Decreto-Lei nº 1.931 de 19/03/1982",
+      "data": "1982-03-19",
+      "numero": "1931",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-03-19;1931",
+      "ementa": "Modifica o Decreto-Lei nº 1893, de 1981, que dispõe sobre a adoção de   medidas de incentivo à arrecadação federal."
+    },
+    {
+      "senadoId": "526469",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-03-18-1930",
+      "titulo": "Decreto-Lei nº 1.930 de 18/03/1982",
+      "data": "1982-03-18",
+      "numero": "1930",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-03-18;1930",
+      "ementa": "Altera os limites do benefício fiscal instituído pelo   Decreto-Lei nº 1358, de 12 de novembro de 1974, e dá outras providências."
+    },
+    {
+      "senadoId": "526467",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-03-08-1929",
+      "titulo": "Decreto-Lei nº 1.929 de 08/03/1982",
+      "data": "1982-03-08",
+      "numero": "1929",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-03-08;1929",
+      "ementa": "Isenta de imposto de renda os ganhos auferidos em operações a termo em bolsa de mercadorias."
+    },
+    {
+      "senadoId": "526465",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-02-18-1928",
+      "titulo": "Decreto-Lei nº 1.928 de 18/02/1982",
+      "data": "1982-02-18",
+      "numero": "1928",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-02-18;1928",
+      "ementa": "Dispõe sobre o pagamento prioritário de débitos decorrentes de compromissos em moeda estrangeira, assumidos pela Administração Pública, e dá outras providências."
+    },
+    {
+      "senadoId": "526461",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-02-17-1926",
+      "titulo": "Decreto-Lei nº 1.926 de 17/02/1982",
+      "data": "1982-02-17",
+      "numero": "1926",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-02-17;1926",
+      "ementa": "Reajusta o valor do soldo base de cálculo da   remuneração dos PM da Polícia Militar e dos BM do Corpo de Bombeiros do Distrito   Federal e dá outras providências."
+    },
+    {
+      "senadoId": "526463",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-02-17-1927",
+      "titulo": "Decreto-Lei nº 1.927 de 17/02/1982",
+      "data": "1982-02-17",
+      "numero": "1927",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-02-17;1927",
+      "ementa": "Altera a redação do § 3º do artigo 1º do Decreto-Lei   n.º 1.798, de 24 de julho de 1980, introduzido pelo Decreto-Lei n.º 1.880, de 27   de agosto de 1981."
+    },
+    {
+      "senadoId": "526459",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-02-16-1925",
+      "titulo": "Decreto-Lei nº 1.925 de 16/02/1982",
+      "data": "1982-02-16",
+      "numero": "1925",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-02-16;1925",
+      "ementa": "Fixa a remuneração do Governador do Estado de   Rondônia e dá outras providências."
+    },
+    {
+      "senadoId": "526457",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-20-1924",
+      "titulo": "Decreto-Lei nº 1.924 de 20/01/1982",
+      "data": "1982-01-20",
+      "numero": "1924",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-20;1924",
+      "ementa": "Destina ao Comitê Olímpico Brasileiro a renda líquida   de um dos concursos de prognósticos esportivos nos anos em que não são   realizados Jogos Olímpicos ou Jogos Pan-Americanos."
+    },
+    {
+      "senadoId": "526455",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-20-1923",
+      "titulo": "Decreto-Lei nº 1.923 de 20/01/1982",
+      "data": "1982-01-20",
+      "numero": "1923",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-20;1923",
+      "ementa": "Modifica a legislação que dispõe sobre o Fundo de Apoio ao Desenvolvimento Social - FAS."
+    },
+    {
+      "senadoId": "526453",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-18-1922",
+      "titulo": "Decreto-Lei nº 1.922 de 18/01/1982",
+      "data": "1982-01-18",
+      "numero": "1922",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-18;1922",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras providências."
+    },
+    {
+      "senadoId": "526445",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-14-1918",
+      "titulo": "Decreto-Lei nº 1.918 de 14/01/1982",
+      "data": "1982-01-14",
+      "numero": "1918",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-14;1918",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências."
+    },
+    {
+      "senadoId": "526447",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-14-1919",
+      "titulo": "Decreto-Lei nº 1.919 de 14/01/1982",
+      "data": "1982-01-14",
+      "numero": "1919",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-14;1919",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências."
+    },
+    {
+      "senadoId": "526451",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-14-1921",
+      "titulo": "Decreto-Lei nº 1.921 de 14/01/1982",
+      "data": "1982-01-14",
+      "numero": "1921",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-14;1921",
+      "ementa": "Reajusta os vencimentos e proventos dos funcionários do Quadro das Secretarias da Justiça Federal de Primeira Instância e dá outras providências."
+    },
+    {
+      "senadoId": "526449",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-14-1920",
+      "titulo": "Decreto-Lei nº 1.920 de 14/01/1982",
+      "data": "1982-01-14",
+      "numero": "1920",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-14;1920",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e da outras providências."
+    },
+    {
+      "senadoId": "526443",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-12-1917",
+      "titulo": "Decreto-Lei nº 1.917 de 12/01/1982",
+      "data": "1982-01-12",
+      "numero": "1917",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-12;1917",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências."
+    },
+    {
+      "senadoId": "526441",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1982-01-08-1916",
+      "titulo": "Decreto-Lei nº 1.916 de 08/01/1982",
+      "data": "1982-01-08",
+      "numero": "1916",
+      "urn": "urn:lex:br:federal:decreto.lei:1982-01-08;1916",
+      "ementa": "Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios."
+    }
+  ],
+  "pendencias": []
+}

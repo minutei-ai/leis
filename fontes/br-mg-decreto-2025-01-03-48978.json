@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-01-03-48978",
+  "titulo": "DEC nº 48978, de 03/01/2025",
+  "data": "2025-01-03",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48978/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/48978/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "e542cffdebbaaeea1eedcec642867ea6d846176d56e60dc1c234befcfdcf70f9",
+  "coletado_em": "2026-10-21T08:29:40.245Z",
+  "sha256_fonte": "46614adaba04c16f6c7ddece7772a27e66acd36cfda90afedd151ccffee00c15",
+  "sha256_markdown": "be0092e38cc80aa2e6e2790638b9724429ed3ed441469c8fe7f18b1778138cda"
+}

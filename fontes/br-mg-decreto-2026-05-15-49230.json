@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-05-15-49230",
+  "titulo": "DEC nº 49230, de 15/05/2026",
+  "data": "2026-05-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49230/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49230/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "574aa90c22c5a35545a9950703a51e07ada4cfe5add248c1f20b8b0f1884a1a0",
+  "coletado_em": "2026-10-21T08:27:14.138Z",
+  "sha256_fonte": "0bf189e4f1f8400fbe27ea53ffd27f027e00d520df8ebaf216b91aa28c86c8d4",
+  "sha256_markdown": "13021bbe84559eec00ffa82ea84af87878972c7dd0c0febf5938426baf35b305"
+}

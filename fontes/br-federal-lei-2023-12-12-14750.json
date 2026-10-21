@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-12-12-14750",
+  "titulo": "Lei nº 14.750 de 12/12/2023",
+  "data": "2023-12-12",
+  "fonte": "https://normas.leg.br/api/public/binario/619862c4-a021-4159-9131-a72a4f405e66/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-12-12;14750",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-12-12%3B14750&tipo_documento=maior-detalhe",
+  "sha256_dados": "66727923976e74a37fbb9e00823c0c0c38d0a92f586e5239e6f4f81dadf713a2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:27:14.280Z",
+  "sha256_fonte": "4f020eeeb9f805e1d46b00156350b0675546d91d7431fbda14ad458d3903bfe8",
+  "sha256_markdown": "9b23ea737d841934f312cd57c7a5cc2f20bc32fa241d95ee1b7a5c0f05cf9d92"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-03-30-25802",
+  "titulo": "LEI nº 25802, de 30/03/2026",
+  "data": "2026-03-30",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25802/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25802/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "7883560eb4ad0b1363900f39bc144a3cae287b78c1e130d04b5d6fdf6972169c",
+  "coletado_em": "2026-10-21T08:26:16.137Z",
+  "sha256_fonte": "e1bf9c24e8043b65edd57e65a4900e1806fa428e6f24095a2494973ae1ba0638",
+  "sha256_markdown": "9e80e5abe37d94db9d588e8e67bc281910326ebb08ed37a2f4bbc01760bcfff4"
+}

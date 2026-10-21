@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-09-01-49090",
+  "titulo": "DEC nº 49090, de 01/09/2025",
+  "data": "2025-09-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49090/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49090/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "8f77a39212a38cf1c7a122c86b4334f578bc49b5c378e057d11320fa92c2861e",
+  "coletado_em": "2026-10-21T08:33:49.979Z",
+  "sha256_fonte": "704d0006083ae4c241b81d1c33e5ac5be1f6fccf4ab6be274d02ca63c2154bad",
+  "sha256_markdown": "9344fc5a0fa7e267b148f76a40f6fa1d2929e487a292b5701236ad18a7aec9f3"
+}

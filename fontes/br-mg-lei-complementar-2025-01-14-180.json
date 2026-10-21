@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-complementar-2025-01-14-180",
+  "titulo": "LCP nº 180, de 14/01/2025",
+  "data": "2025-01-14",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/180/2025/documento?conteudo=true&tipoDoc=572",
+  "versao": "texto atualizado disponibilizado pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/180/2025/documento?conteudo=true&tipoDoc=572",
+  "sha256_dados": "fb4e8cbd6677a9ec018e4b22881036690377fa890608e5c9f562182f168c300c",
+  "coletado_em": "2026-10-21T08:29:57.179Z",
+  "sha256_fonte": "1dcafbee5a72339145b410a882a6df1dcbf411f3f263b340c4e699e894efb308",
+  "sha256_markdown": "8d72d5b311dff92d8a587d61a1700fc142738f9fea18e6954fda422e9559d152"
+}

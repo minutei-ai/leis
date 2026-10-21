@@ -1,0 +1,616 @@
+{
+  "ano_publicacao": 1909,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1909",
+    "ano-final": "31/12/1909",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:49:53.616Z",
+  "total": 99,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "0f5ea164918709a0f999b7136065f78607e5e663af06705bbaaeda314a9427c4"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1277-de-23-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.277 de 23 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-23-1277",
+      "data": "1909-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1276-de-23-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.276 de 23 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-23-1276",
+      "data": "1909-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1275-de-23-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.275 de 23 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-23-1275",
+      "data": "1909-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1274-de-23-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.274 de 23 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-23-1274",
+      "data": "1909-12-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1273-de-13-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.273 de 13 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-13-1273",
+      "data": "1909-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1272-de-13-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.272 de 13 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-13-1272",
+      "data": "1909-12-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1271-de-11-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.271 de 11 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-11-1271",
+      "data": "1909-12-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1270-de-1-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.270 de 1 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-01-1270",
+      "data": "1909-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1269-de-1-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.269 de 1 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-01-1269",
+      "data": "1909-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1268-de-1-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.268 de 1 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-01-1268",
+      "data": "1909-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1267-de-1-de-dezembro-de-1909",
+      "titulo": "LEI Nº 1.267 de 1 de Dezembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-12-01-1267",
+      "data": "1909-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1266-de-30-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.266 de 30 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-30-1266",
+      "data": "1909-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1265-de-22-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.265 de 22 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-22-1265",
+      "data": "1909-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1264-de-22-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.264 de 22 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-22-1264",
+      "data": "1909-11-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1263-de-19-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.263 de 19 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-19-1263",
+      "data": "1909-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1262-de-19-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.262 de 19 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-19-1262",
+      "data": "1909-11-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1261-de-10-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.261 de 10 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-10-1261",
+      "data": "1909-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1260-de-10-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.260 de 10 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-10-1260",
+      "data": "1909-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1259-de-10-de-novembro-de-1909",
+      "titulo": "LEI Nº 1.259 de 10 de Novembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-11-10-1259",
+      "data": "1909-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1257-de-30-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.257 de 30 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-30-1257",
+      "data": "1909-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1256-de-30-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.256 de 30 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-30-1256",
+      "data": "1909-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1255-de-30-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.255 de 30 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-30-1255",
+      "data": "1909-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1258-de-30-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.258 de 30 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-30-1258",
+      "data": "1909-10-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1254-de-23-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.254 de 23 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-23-1254",
+      "data": "1909-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1253-de-22-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.253 de 22 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-22-1253",
+      "data": "1909-10-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1252-de-20-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.252 de 20 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-20-1252",
+      "data": "1909-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1251-de-20-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.251 de 20 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-20-1251",
+      "data": "1909-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1250-de-20-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.250 de 20 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-20-1250",
+      "data": "1909-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1249-de-20-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.249 de 20 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-20-1249",
+      "data": "1909-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1248-de-20-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.248 de 20 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-20-1248",
+      "data": "1909-10-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1247-de-9-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.247 de 9 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-09-1247",
+      "data": "1909-10-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1246-de-2-de-outubro-de-1909",
+      "titulo": "LEI Nº 1.246 de 2 de Outubro de 1909",
+      "id": "br-municipal-3550308-lei-1909-10-02-1246",
+      "data": "1909-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1245-de-25-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.245 de 25 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-25-1245",
+      "data": "1909-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1244-de-25-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.244 de 25 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-25-1244",
+      "data": "1909-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1243-de-25-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.243 de 25 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-25-1243",
+      "data": "1909-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1242-de-25-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.242 de 25 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-25-1242",
+      "data": "1909-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1241-de-25-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.241 de 25 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-25-1241",
+      "data": "1909-09-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1240-de-20-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.240 de 20 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-20-1240",
+      "data": "1909-09-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1239-de-16-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.239 de 16 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-16-1239",
+      "data": "1909-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1238-de-16-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.238 de 16 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-16-1238",
+      "data": "1909-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1237-de-16-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.237 de 16 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-16-1237",
+      "data": "1909-09-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1236-de-11-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.236 de 11 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-11-1236",
+      "data": "1909-09-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1235-de-10-de-setembro-de-1909",
+      "titulo": "LEI Nº 1.235 de 10 de Setembro de 1909",
+      "id": "br-municipal-3550308-lei-1909-09-10-1235",
+      "data": "1909-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1234-de-28-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.234 de 28 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-28-1234",
+      "data": "1909-08-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1233-de-26-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.233 de 26 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-26-1233",
+      "data": "1909-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1232-de-26-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.232 de 26 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-26-1232",
+      "data": "1909-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1231-de-26-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.231 de 26 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-26-1231",
+      "data": "1909-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1230-de-26-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.230 de 26 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-26-1230",
+      "data": "1909-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1229-de-26-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.229 de 26 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-26-1229",
+      "data": "1909-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1228-de-14-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.228 de 14 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-14-1228",
+      "data": "1909-08-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1227-de-11-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.227 de 11 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-11-1227",
+      "data": "1909-08-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1226-de-3-de-agosto-de-1909",
+      "titulo": "LEI Nº 1.226 de 3 de Agosto de 1909",
+      "id": "br-municipal-3550308-lei-1909-08-03-1226",
+      "data": "1909-08-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1225-de-26-de-julho-de-1909",
+      "titulo": "LEI Nº 1.225 de 26 de Julho de 1909",
+      "id": "br-municipal-3550308-lei-1909-07-26-1225",
+      "data": "1909-07-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1224-de-22-de-julho-de-1909",
+      "titulo": "LEI Nº 1.224 de 22 de Julho de 1909",
+      "id": "br-municipal-3550308-lei-1909-07-22-1224",
+      "data": "1909-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1223-de-22-de-julho-de-1909",
+      "titulo": "LEI Nº 1.223 de 22 de Julho de 1909",
+      "id": "br-municipal-3550308-lei-1909-07-22-1223",
+      "data": "1909-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1222-de-19-de-julho-de-1909",
+      "titulo": "LEI Nº 1.222 de 19 de Julho de 1909",
+      "id": "br-municipal-3550308-lei-1909-07-19-1222",
+      "data": "1909-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1221-de-2-de-julho-de-1909",
+      "titulo": "LEI Nº 1.221 de 2 de Julho de 1909",
+      "id": "br-municipal-3550308-lei-1909-07-02-1221",
+      "data": "1909-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1220-de-28-de-junho-de-1909",
+      "titulo": "LEI Nº 1.220 de 28 de Junho de 1909",
+      "id": "br-municipal-3550308-lei-1909-06-28-1220",
+      "data": "1909-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1219-de-28-de-junho-de-1909",
+      "titulo": "LEI Nº 1.219 de 28 de Junho de 1909",
+      "id": "br-municipal-3550308-lei-1909-06-28-1219",
+      "data": "1909-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1218-de-28-de-junho-de-1909",
+      "titulo": "LEI Nº 1.218 de 28 de Junho de 1909",
+      "id": "br-municipal-3550308-lei-1909-06-28-1218",
+      "data": "1909-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1217-de-16-de-junho-de-1909",
+      "titulo": "LEI Nº 1.217 de 16 de Junho de 1909",
+      "id": "br-municipal-3550308-lei-1909-06-16-1217",
+      "data": "1909-06-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1216-de-4-de-junho-de-1909",
+      "titulo": "LEI Nº 1.216 de 4 de Junho de 1909",
+      "id": "br-municipal-3550308-lei-1909-06-04-1216",
+      "data": "1909-06-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1215-de-31-de-maio-de-1909",
+      "titulo": "LEI Nº 1.215 de 31 de Maio de 1909",
+      "id": "br-municipal-3550308-lei-1909-05-31-1215",
+      "data": "1909-05-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1214-de-22-de-maio-de-1909",
+      "titulo": "LEI Nº 1.214 de 22 de Maio de 1909",
+      "id": "br-municipal-3550308-lei-1909-05-22-1214",
+      "data": "1909-05-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1213-de-17-de-maio-de-1909",
+      "titulo": "LEI Nº 1.213 de 17 de Maio de 1909",
+      "id": "br-municipal-3550308-lei-1909-05-17-1213",
+      "data": "1909-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1212-de-17-de-maio-de-1909",
+      "titulo": "LEI Nº 1.212 de 17 de Maio de 1909",
+      "id": "br-municipal-3550308-lei-1909-05-17-1212",
+      "data": "1909-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1211-de-1-de-maio-de-1909",
+      "titulo": "LEI Nº 1.211 de 1 de Maio de 1909",
+      "id": "br-municipal-3550308-lei-1909-05-01-1211",
+      "data": "1909-05-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1210-de-29-de-abril-de-1909",
+      "titulo": "LEI Nº 1.210 de 29 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-29-1210",
+      "data": "1909-04-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1209-de-24-de-abril-de-1909",
+      "titulo": "LEI Nº 1.209 de 24 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-24-1209",
+      "data": "1909-04-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1208-de-17-de-abril-de-1909",
+      "titulo": "LEI Nº 1.208 de 17 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-17-1208",
+      "data": "1909-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1207-de-15-de-abril-de-1909",
+      "titulo": "LEI Nº 1.207 de 15 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-15-1207",
+      "data": "1909-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1206-de-15-de-abril-de-1909",
+      "titulo": "LEI Nº 1.206 de 15 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-15-1206",
+      "data": "1909-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1205-de-15-de-abril-de-1909",
+      "titulo": "LEI Nº 1.205 de 15 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-15-1205",
+      "data": "1909-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1204-de-15-de-abril-de-1909",
+      "titulo": "LEI Nº 1.204 de 15 de Abril de 1909",
+      "id": "br-municipal-3550308-lei-1909-04-15-1204",
+      "data": "1909-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1203-de-29-de-marco-de-1909",
+      "titulo": "LEI Nº 1.203 de 29 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-29-1203",
+      "data": "1909-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1202-de-29-de-marco-de-1909",
+      "titulo": "LEI Nº 1.202 de 29 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-29-1202",
+      "data": "1909-03-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1201-de-20-de-marco-de-1909",
+      "titulo": "LEI Nº 1.201 de 20 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-20-1201",
+      "data": "1909-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1200-de-20-de-marco-de-1909",
+      "titulo": "LEI Nº 1.200 de 20 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-20-1200",
+      "data": "1909-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1199-de-20-de-marco-de-1909",
+      "titulo": "LEI Nº 1.199 de 20 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-20-1199",
+      "data": "1909-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1198-de-13-de-marco-de-1909",
+      "titulo": "LEI Nº 1.198 de 13 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-13-1198",
+      "data": "1909-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1197-de-13-de-marco-de-1909",
+      "titulo": "LEI Nº 1.197 de 13 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-13-1197",
+      "data": "1909-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1196-de-13-de-marco-de-1909",
+      "titulo": "LEI Nº 1.196 de 13 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-13-1196",
+      "data": "1909-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1195-de-13-de-marco-de-1909",
+      "titulo": "LEI Nº 1.195 de 13 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-13-1195",
+      "data": "1909-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1194-de-13-de-marco-de-1909",
+      "titulo": "LEI Nº 1.194 de 13 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-13-1194",
+      "data": "1909-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1193-de-9-de-marco-de-1909",
+      "titulo": "LEI Nº 1.193 de 9 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-09-1193",
+      "data": "1909-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1192-de-8-de-marco-de-1909",
+      "titulo": "LEI Nº 1.192 de 8 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-08-1192",
+      "data": "1909-03-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1191-de-4-de-marco-de-1909",
+      "titulo": "LEI Nº 1.191 de 4 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-04-1191",
+      "data": "1909-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1190-de-4-de-marco-de-1909",
+      "titulo": "LEI Nº 1.190 de 4 de Março de 1909",
+      "id": "br-municipal-3550308-lei-1909-03-04-1190",
+      "data": "1909-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1189-de-18-de-fevereiro-de-1909",
+      "titulo": "LEI Nº 1.189 de 18 de Fevereiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-02-18-1189",
+      "data": "1909-02-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1188-de-18-de-fevereiro-de-1909",
+      "titulo": "LEI Nº 1.188 de 18 de Fevereiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-02-18-1188",
+      "data": "1909-02-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1187-de-18-de-fevereiro-de-1909",
+      "titulo": "LEI Nº 1.187 de 18 de Fevereiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-02-18-1187",
+      "data": "1909-02-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1186-de-1-de-fevereiro-de-1909",
+      "titulo": "LEI Nº 1.186 de 1 de Fevereiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-02-01-1186",
+      "data": "1909-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1185-de-1-de-fevereiro-de-1909",
+      "titulo": "LEI Nº 1.185 de 1 de Fevereiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-02-01-1185",
+      "data": "1909-02-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1184-de-11-de-janeiro-de-1909",
+      "titulo": "LEI Nº 1.184 de 11 de Janeiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-01-11-1184",
+      "data": "1909-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1183-de-11-de-janeiro-de-1909",
+      "titulo": "LEI Nº 1.183 de 11 de Janeiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-01-11-1183",
+      "data": "1909-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1182-de-11-de-janeiro-de-1909",
+      "titulo": "LEI Nº 1.182 de 11 de Janeiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-01-11-1182",
+      "data": "1909-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1181-de-11-de-janeiro-de-1909",
+      "titulo": "LEI Nº 1.181 de 11 de Janeiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-01-11-1181",
+      "data": "1909-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1180-de-11-de-janeiro-de-1909",
+      "titulo": "LEI Nº 1.180 de 11 de Janeiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-01-11-1180",
+      "data": "1909-01-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-1179-de-2-de-janeiro-de-1909",
+      "titulo": "LEI Nº 1.179 de 2 de Janeiro de 1909",
+      "id": "br-municipal-3550308-lei-1909-01-02-1179",
+      "data": "1909-01-02"
+    }
+  ],
+  "pendencias": []
+}

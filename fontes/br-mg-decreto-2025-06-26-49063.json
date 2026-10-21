@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-06-26-49063",
+  "titulo": "DEC nº 49063, de 26/06/2025",
+  "data": "2025-06-26",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49063/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49063/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "144e5afb90c89876a58d4c0d1a4a8af85968c5b46be53c9492ffcb3ea8355fac",
+  "coletado_em": "2026-10-21T08:32:20.714Z",
+  "sha256_fonte": "10e62ef20fac7603aac6194868d0a9b1ebdd2a18d8b3f28ac47c0d1655753876",
+  "sha256_markdown": "0dc03a33d5392b7df04b571ee7035474da6b2e13e66ecb3fffcf5034001dd02a"
+}

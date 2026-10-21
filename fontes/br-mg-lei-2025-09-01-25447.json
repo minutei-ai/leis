@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2025-09-01-25447",
+  "titulo": "LEI nº 25447, de 01/09/2025",
+  "data": "2025-09-01",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25447/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25447/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "30fbd554da7940a1f319a8ff3f8d0daee848eefc36e40f00e347a1e9fb2db11f",
+  "coletado_em": "2026-10-21T08:33:47.722Z",
+  "sha256_fonte": "ce174508f2dbcd2d8725979dc06708781795ceee43f74a692bde3dc99bd94315",
+  "sha256_markdown": "b4798aa44167e8e31def7732c748c7ded59d475498c9eaa7c80afb9bf0131b4c"
+}

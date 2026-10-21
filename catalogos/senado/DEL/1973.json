@@ -1,0 +1,489 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=1973",
+  "tipo": "DEL",
+  "ano": 1973,
+  "coletado_em": "2026-10-21T08:36:44.630Z",
+  "normas": [
+    {
+      "senadoId": "525223",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-31-1301",
+      "titulo": "Decreto-Lei nº 1.301 de 31/12/1973",
+      "data": "1973-12-31",
+      "numero": "1301",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-31;1301",
+      "ementa": "Dispõe sobre a tributação separada dos rendimentos de casal e dá outras   providências."
+    },
+    {
+      "senadoId": "525227",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-31-1303",
+      "titulo": "Decreto-Lei nº 1.303 de 31/12/1973",
+      "data": "1973-12-31",
+      "numero": "1303",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-31;1303",
+      "ementa": "Permite a amortização de despesas e outros encargos por mais de um   exercício financeiro e dá outras providências."
+    },
+    {
+      "senadoId": "525225",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-31-1302",
+      "titulo": "Decreto-Lei nº 1.302 de 31/12/1973",
+      "data": "1973-12-31",
+      "numero": "1302",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-31;1302",
+      "ementa": "Altera a sistemática de Correção Monetária do Ativo Imobilizado e de   cálculo da Manutenção de Capital de Giro Próprio e dá outras   providências."
+    },
+    {
+      "senadoId": "525221",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-28-1300",
+      "titulo": "Decreto-Lei nº 1.300 de 28/12/1973",
+      "data": "1973-12-28",
+      "numero": "1300",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-28;1300",
+      "ementa": "Prorroga, até 31 de dezembro de 1974, o regime especial de que trata o   Decreto-Lei nº 1.182, de 16 de julho de 1971, e dá outras   providências."
+    },
+    {
+      "senadoId": "525219",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-28-1299",
+      "titulo": "Decreto-Lei nº 1.299 de 28/12/1973",
+      "data": "1973-12-28",
+      "numero": "1299",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-28;1299",
+      "ementa": "Dispõe sobre acréscimo às alíquotas do imposto de importação e dá outras   providências."
+    },
+    {
+      "senadoId": "525213",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-26-1296",
+      "titulo": "Decreto-Lei nº 1.296 de 26/12/1973",
+      "data": "1973-12-26",
+      "numero": "1296",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-26;1296",
+      "ementa": "Altera a legislação relativa ao Imposto Único sobre Lubrificantes e   Combustíveis Líquidos e Gasosos e dá outras providências."
+    },
+    {
+      "senadoId": "525215",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-26-1297",
+      "titulo": "Decreto-Lei nº 1.297 de 26/12/1973",
+      "data": "1973-12-26",
+      "numero": "1297",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-26;1297",
+      "ementa": "Acresce uma alínea \"j\" ao artigo 13, item II, da Lei nº 4.452, de 5 de   novembro de 1964."
+    },
+    {
+      "senadoId": "525217",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-26-1298",
+      "titulo": "Decreto-Lei nº 1.298 de 26/12/1973",
+      "data": "1973-12-26",
+      "numero": "1298",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-26;1298",
+      "ementa": "Prorroga a vigência do Decreto-Lei nº 1.115, de 24 de julho de   1970."
+    },
+    {
+      "senadoId": "525211",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-21-1295",
+      "titulo": "Decreto-Lei nº 1.295 de 21/12/1973",
+      "data": "1973-12-21",
+      "numero": "1295",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-21;1295",
+      "ementa": "Fixa alíquotas do Imposto de Importação e dá outras   providências."
+    },
+    {
+      "senadoId": "525209",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-19-1294",
+      "titulo": "Decreto-Lei nº 1.294 de 19/12/1973",
+      "data": "1973-12-19",
+      "numero": "1294",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-19;1294",
+      "ementa": "Cria o cargo de Presidente do Instituto Nacional de Alimentação e Nutrição   (INAM)."
+    },
+    {
+      "senadoId": "525207",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-13-1293",
+      "titulo": "Decreto-Lei nº 1.293 de 13/12/1973",
+      "data": "1973-12-13",
+      "numero": "1293",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-13;1293",
+      "ementa": "Concede insenção do Imposto incidente na importação de bens destinados a   emissoras de rádio e televisão, revoga o Decreto-Lei nº 480, de 28 de fevereiro   de 1969, e dá outras providências."
+    },
+    {
+      "senadoId": "525205",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-11-1292",
+      "titulo": "Decreto-Lei nº 1.292 de 11/12/1973",
+      "data": "1973-12-11",
+      "numero": "1292",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-11;1292",
+      "ementa": "Altera a legislação do Imposto sobre Produtos Industrializados quanto ao   valor tributável das bebidas, e dá outras providências."
+    },
+    {
+      "senadoId": "525203",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-11-1291",
+      "titulo": "Decreto-Lei nº 1.291 de 11/12/1973",
+      "data": "1973-12-11",
+      "numero": "1291",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-11;1291",
+      "ementa": "Prorroga a vigência dos estímulos à exportação de produtos manufaturados."
+    },
+    {
+      "senadoId": "525201",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-12-03-1290",
+      "titulo": "Decreto-Lei nº 1.290 de 03/12/1973",
+      "data": "1973-12-03",
+      "numero": "1290",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-12-03;1290",
+      "ementa": "Dispõe sobre a aplicação financeira de disponibilidades pelas entidades da   Administração Federal Indireta, bem como pelas Fundações supervisionadas pela   União e dá outras providências."
+    },
+    {
+      "senadoId": "525199",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-11-29-1289",
+      "titulo": "Decreto-Lei nº 1.289 de 29/11/1973",
+      "data": "1973-11-29",
+      "numero": "1289",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-11-29;1289",
+      "ementa": "Autoriza a União a abrir, em favor do Ministério da Fazenda, crédito   especial para o fim que especifica."
+    },
+    {
+      "senadoId": "525197",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-11-01-1288",
+      "titulo": "Decreto-Lei nº 1.288 de 01/11/1973",
+      "data": "1973-11-01",
+      "numero": "1288",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-11-01;1288",
+      "ementa": "Altera o par. 4º, do artigo 27, da Lei nº 2.004, de 3 de outubro de 1953,   acrescentado pelo Decreto-Lei nº 523, de 8 de abril de 1969."
+    },
+    {
+      "senadoId": "525195",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-10-18-1287",
+      "titulo": "Decreto-Lei nº 1.287 de 18/10/1973",
+      "data": "1973-10-18",
+      "numero": "1287",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-10-18;1287",
+      "ementa": "Estende às atividades de mineração os incentivos concedidos aos projetos   de desenvolvimento industrial pelo Decreto-Lei nº 1.137, de 7 de dezembro de   1970, e dá outras providênvias."
+    },
+    {
+      "senadoId": "525192",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-09-21-1286",
+      "titulo": "Decreto-Lei nº 1.286 de 21/09/1973",
+      "data": "1973-09-21",
+      "numero": "1286",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-09-21;1286",
+      "ementa": "Modifica a legislação do Imposto de Renda devido pelas pessoas   físicas."
+    },
+    {
+      "senadoId": "525190",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-09-06-1285",
+      "titulo": "Decreto-Lei nº 1.285 de 06/09/1973",
+      "data": "1973-09-06",
+      "numero": "1285",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-09-06;1285",
+      "ementa": "Altera texto do Decreto-Lei n.° 717, de 30 de julho de 1969 e dá outras   providências."
+    },
+    {
+      "senadoId": "525188",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-08-28-1284",
+      "titulo": "Decreto-Lei nº 1.284 de 28/08/1973",
+      "data": "1973-08-28",
+      "numero": "1284",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-08-28;1284",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º,   alínea \"b\", da Constituição, o Município de Anápolis, do Estado de Goiás, e dá   outra providências."
+    },
+    {
+      "senadoId": "525186",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-08-20-1283",
+      "titulo": "Decreto-Lei nº 1.283 de 20/08/1973",
+      "data": "1973-08-20",
+      "numero": "1283",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-08-20;1283",
+      "ementa": "Dispõe sobre Imposto de Renda, estabelecendo incentivos para pagamento de   dividendos aos acionistas de Sociedades Anônimas de Capital Aberto, bem como   para subscrição de ações daquelas empresas e de quotas de Fundos de   Investimento, e dá outras providências. /Concede incentivos à criação de um   mercado de Debêntures/."
+    },
+    {
+      "senadoId": "525184",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-07-26-1282",
+      "titulo": "Decreto-Lei nº 1.282 de 26/07/1973",
+      "data": "1973-07-26",
+      "numero": "1282",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-07-26;1282",
+      "ementa": "Altera os quantitativos das classes de Agente Fiscal dos Tributos   Federais, de que trata o Decreto-Lei nº ;1.024, de 21 de outubro de 1969, e   dá outras providências."
+    },
+    {
+      "senadoId": "525182",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-07-24-1281",
+      "titulo": "Decreto-Lei nº 1.281 de 24/07/1973",
+      "data": "1973-07-24",
+      "numero": "1281",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-07-24;1281",
+      "ementa": "Altera a redação do parágrafo 1º, do artigo 7º, da Lei nº ;4.357, de   16 de julho de 1964, e dá outras providências."
+    },
+    {
+      "senadoId": "525180",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-07-06-1280",
+      "titulo": "Decreto-Lei nº 1.280 de 06/07/1973",
+      "data": "1973-07-06",
+      "numero": "1280",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-07-06;1280",
+      "ementa": "Prorroga até 31 de dezembro de 1973 o regime especial de que trata o   Decreto-Lei n° ;1.115, de 24 de julho de 1970."
+    },
+    {
+      "senadoId": "525178",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-07-05-1279",
+      "titulo": "Decreto-Lei nº 1.279 de 05/07/1973",
+      "data": "1973-07-05",
+      "numero": "1279",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-07-05;1279",
+      "ementa": "Altera o artigo 1º, do Decreto-Lei n° ;343, de 28 de dezembro de 1967,   e dá outras providências."
+    },
+    {
+      "senadoId": "525176",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-06-19-1278",
+      "titulo": "Decreto-Lei nº 1.278 de 19/06/1973",
+      "data": "1973-06-19",
+      "numero": "1278",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-06-19;1278",
+      "ementa": "Altera artigo 3º do Decreto-Lei nº 1.264, de 1º de março de 1973, que   \"Modifica no exercício de 1973, a distribuição da receita proveniente da   arrecadação do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e sobre   Energia Elétrica e dá outras providências."
+    },
+    {
+      "senadoId": "525174",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-06-14-1277",
+      "titulo": "Decreto-Lei nº 1.277 de 14/06/1973",
+      "data": "1973-06-14",
+      "numero": "1277",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-06-14;1277",
+      "ementa": "Autoriza o Poder Executivo a promover a subscrição no aumento de capital   da Companhia Vale do Rio doce - CVRD."
+    },
+    {
+      "senadoId": "525170",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-06-01-1275",
+      "titulo": "Decreto-Lei nº 1.275 de 01/06/1973",
+      "data": "1973-06-01",
+      "numero": "1275",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-06-01;1275",
+      "ementa": "Dispõe sobre a aplicação de recursos orçamentários consignados às   Universidades que menciona e dá outras providências."
+    },
+    {
+      "senadoId": "525172",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-06-01-1276",
+      "titulo": "Decreto-Lei nº 1.276 de 01/06/1973",
+      "data": "1973-06-01",
+      "numero": "1276",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-06-01;1276",
+      "ementa": "Concede isenção do Imopsto sobre Produtos Industrializados e dá outras   providências."
+    },
+    {
+      "senadoId": "525168",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-05-30-1274",
+      "titulo": "Decreto-Lei nº 1.274 de 30/05/1973",
+      "data": "1973-05-30",
+      "numero": "1274",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-05-30;1274",
+      "ementa": "Prorroga, até 1976, inclusive, a vigência do Decreto-Lei nº 1.124, de 8 de   setembro de 1970, que permite deduções do imposto de renda das pessoas jurídicas   para fins de alfabetização."
+    },
+    {
+      "senadoId": "525166",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-05-29-1273",
+      "titulo": "Decreto-Lei nº 1.273 de 29/05/1973",
+      "data": "1973-05-29",
+      "numero": "1273",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-05-29;1273",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º,   alínea\"b\", da Constituição, o Município de Volta Redonda, do Estado do Rio de   Janeiro, e dá outras providências."
+    },
+    {
+      "senadoId": "525164",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-05-29-1272",
+      "titulo": "Decreto-Lei nº 1.272 de 29/05/1973",
+      "data": "1973-05-29",
+      "numero": "1272",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-05-29;1272",
+      "ementa": "Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º,   alínea \"b\", da Constituição, os Municípios de São João dos Patos, do Estado do   Maranhão e Guadalupe, do Estado do Piauí, e dá outras   providências."
+    },
+    {
+      "senadoId": "525162",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-05-04-1271",
+      "titulo": "Decreto-Lei nº 1.271 de 04/05/1973",
+      "data": "1973-05-04",
+      "numero": "1271",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-05-04;1271",
+      "ementa": "Autoriza o Poder Executivo a abrir crédito especial no valor de Cr$   991.800.000,00, para transferência da cota-parte da Taxa Rodoviária Única   pertencente aos Estados, Territórios e Distrito Federal."
+    },
+    {
+      "senadoId": "525160",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-05-02-1270",
+      "titulo": "Decreto-Lei nº 1.270 de 02/05/1973",
+      "data": "1973-05-02",
+      "numero": "1270",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-05-02;1270",
+      "ementa": "Altera percentagem de incidência da cota de previdência que   indica."
+    },
+    {
+      "senadoId": "525158",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-04-18-1269",
+      "titulo": "Decreto-Lei nº 1.269 de 18/04/1973",
+      "data": "1973-04-18",
+      "numero": "1269",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-04-18;1269",
+      "ementa": "Estabelece isenções do Imposto sobre Operações Financeiras, altera o   Decreto-Lei nº 37, de 18 de novembro de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "525156",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-04-13-1268",
+      "titulo": "Decreto-Lei nº 1.268 de 13/04/1973",
+      "data": "1973-04-13",
+      "numero": "1268",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-04-13;1268",
+      "ementa": "Autoriza o Tesouro Nacional a subscrever ações do aumento do capital da   Aços Finos Paratini S.A. e dá outras providências."
+    },
+    {
+      "senadoId": "525155",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-04-12-1267",
+      "titulo": "Decreto-Lei nº 1.267 de 12/04/1973",
+      "data": "1973-04-12",
+      "numero": "1267",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-04-12;1267",
+      "ementa": "Dispõe sobre a \"contribuição para análise e fiscalização\", prevista no   art. 21, da Lei nº 5.508, de 11 de outubro de 1968, e dá outras   providências."
+    },
+    {
+      "senadoId": "525153",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-03-26-1266",
+      "titulo": "Decreto-Lei nº 1.266 de 26/03/1973",
+      "data": "1973-03-26",
+      "numero": "1266",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-03-26;1266",
+      "ementa": "Dispõe sobre o Fundo Especial de Exportação, criado pela Lei   nº ;4.870, de 1º de dezembro de 1965."
+    },
+    {
+      "senadoId": "525151",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-03-14-1265",
+      "titulo": "Decreto-Lei nº 1.265 de 14/03/1973",
+      "data": "1973-03-14",
+      "numero": "1265",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-03-14;1265",
+      "ementa": "Autoriza o Tesouro Nacional a promover o aumento do capital da Companhia   Siderúrgica Nacional e dá outras providências."
+    },
+    {
+      "senadoId": "525149",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-03-01-1264",
+      "titulo": "Decreto-Lei nº 1.264 de 01/03/1973",
+      "data": "1973-03-01",
+      "numero": "1264",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-03-01;1264",
+      "ementa": "Modifica, no exercício de 1973, a distribuição da receita proveniente da   arrecadação do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e   Gasosos e sobre Energia Elétrica e dá outras providências."
+    },
+    {
+      "senadoId": "525147",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-03-01-1263",
+      "titulo": "Decreto-Lei nº 1.263 de 01/03/1973",
+      "data": "1973-03-01",
+      "numero": "1263",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-03-01;1263",
+      "ementa": "Reajusta os vencimentos e salários dos servidores da Secretaria-Geral do   Tribunal de Contas da União, e dá outras providências."
+    },
+    {
+      "senadoId": "525143",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-02-27-1261",
+      "titulo": "Decreto-Lei nº 1.261 de 27/02/1973",
+      "data": "1973-02-27",
+      "numero": "1261",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-02-27;1261",
+      "ementa": "Concede aumento de vencimento aos funcionários dos Serviços Auxiliares do   Tribunal de Contas do Distrito Federal e dá outras providências."
+    },
+    {
+      "senadoId": "525145",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-02-27-1262",
+      "titulo": "Decreto-Lei nº 1.262 de 27/02/1973",
+      "data": "1973-02-27",
+      "numero": "1262",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-02-27;1262",
+      "ementa": "Concede aumento de vencimentos aos funcionários das Secretarias e dos   Serviços Auxiliares do Poder Judiciário da União e do Distrito Federal, e dá   outras providências."
+    },
+    {
+      "senadoId": "525141",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-02-26-1260",
+      "titulo": "Decreto-Lei nº 1.260 de 26/02/1973",
+      "data": "1973-02-26",
+      "numero": "1260",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-02-26;1260",
+      "ementa": "Concede isenção do imposto de renda sobre lucros decorrentes da alienação   de imóveis por pessoas jurídicas."
+    },
+    {
+      "senadoId": "525139",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-02-19-1259",
+      "titulo": "Decreto-Lei nº 1.259 de 19/02/1973",
+      "data": "1973-02-19",
+      "numero": "1259",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-02-19;1259",
+      "ementa": "Revoga o parágrafo único, do art. 2º, do Decreto-Lei n.º 759, de 12 de   agosto de 1969, introduz novas disposições e dá outras   providências."
+    },
+    {
+      "senadoId": "525137",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-02-13-1258",
+      "titulo": "Decreto-Lei nº 1.258 de 13/02/1973",
+      "data": "1973-02-13",
+      "numero": "1258",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-02-13;1258",
+      "ementa": "Reajusta os vencimentos dos servidores civis e militares do Distrito   federal e dá outras providências."
+    },
+    {
+      "senadoId": "525135",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-02-07-1257",
+      "titulo": "Decreto-Lei nº 1.257 de 07/02/1973",
+      "data": "1973-02-07",
+      "numero": "1257",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-02-07;1257",
+      "ementa": "Estende às borrachas naturais beneficiadas, de qualquer procedência, os   favores previstos no Convênio de 29 de março de 1958, entre o Brasil e a   Bolívia, aplicáveis às borrachas em bruto."
+    },
+    {
+      "senadoId": "525133",
+      "tipo": "DEL",
+      "id": "br-federal-decreto-lei-1973-01-26-1256",
+      "titulo": "Decreto-Lei nº 1.256 de 26/01/1973",
+      "data": "1973-01-26",
+      "numero": "1256",
+      "urn": "urn:lex:br:federal:decreto.lei:1973-01-26;1256",
+      "ementa": "Reajusta os vencimentos e salários dos servidores do Poder Executivo e dá   outras providências."
+    }
+  ],
+  "pendencias": []
+}

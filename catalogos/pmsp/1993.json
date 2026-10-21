@@ -1,0 +1,752 @@
+{
+  "ano_publicacao": 1993,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1993",
+    "ano-final": "31/12/1993",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:46:44.464Z",
+  "total": 121,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "b633d29dabb67c6a4be3dbe77525b2fcac4898e742cc5d6956470bba0f57b5d6"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "ffec38a946119d4af8f8f6f0ecf53492109b9bd2184acd2444be42d3d86837c8"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11459-de-29-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.459 de 29 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-29-11459",
+      "data": "1993-12-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11458-de-28-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.458 de 28 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-28-11458",
+      "data": "1993-12-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11457-de-27-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.457 de 27 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-27-11457",
+      "data": "1993-12-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11456-de-22-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.456 de 22 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-22-11456",
+      "data": "1993-12-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11455-de-17-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.455 de 17 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-17-11455",
+      "data": "1993-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11454-de-17-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.454 de 17 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-17-11454",
+      "data": "1993-12-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11453-de-7-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.453 de 7 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-07-11453",
+      "data": "1993-12-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11452-de-6-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.452 de 6 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-06-11452",
+      "data": "1993-12-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11451-de-3-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.451 de 3 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-03-11451",
+      "data": "1993-12-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11450-de-2-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.450 de 2 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-02-11450",
+      "data": "1993-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11449-de-1-de-dezembro-de-1993",
+      "titulo": "LEI Nº 11.449 de 1 de Dezembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-12-01-11449",
+      "data": "1993-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11448-de-30-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.448 de 30 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-30-11448",
+      "data": "1993-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11447-de-30-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.447 de 30 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-30-11447",
+      "data": "1993-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11446-de-30-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.446 de 30 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-30-11446",
+      "data": "1993-11-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11445-de-17-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.445 de 17 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-17-11445",
+      "data": "1993-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11444-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.444 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11444",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11443-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.443 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11443",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11442-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.442 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11442",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11440-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.440 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11440",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11439-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.439 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11439",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11438-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.438 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11438",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11437-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.437 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11437",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11435-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.435 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11435",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11441-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.441 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11441",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11436-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.436 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11436",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11434-de-12-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.434 de 12 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-12-11434",
+      "data": "1993-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11433-de-10-de-novembro-de-1993",
+      "titulo": "LEI Nº 11.433 de 10 de Novembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-11-10-11433",
+      "data": "1993-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11432-de-29-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.432 de 29 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-29-11432",
+      "data": "1993-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11431-de-29-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.431 de 29 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-29-11431",
+      "data": "1993-10-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11430-de-25-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.430 de 25 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-25-11430",
+      "data": "1993-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11429-de-25-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.429 de 25 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-25-11429",
+      "data": "1993-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11428-de-25-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.428 de 25 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-25-11428",
+      "data": "1993-10-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11427-de-21-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.427 de 21 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-21-11427",
+      "data": "1993-10-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11426-de-18-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.426 de 18 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-18-11426",
+      "data": "1993-10-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11425-de-5-de-outubro-de-1993",
+      "titulo": "LEI Nº 11.425 de 5 de Outubro de 1993",
+      "id": "br-municipal-3550308-lei-1993-10-05-11425",
+      "data": "1993-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11424-de-30-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.424 de 30 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-30-11424",
+      "data": "1993-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11423-de-29-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.423 de 29 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-29-11423",
+      "data": "1993-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11422-de-29-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.422 de 29 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-29-11422",
+      "data": "1993-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11420-de-29-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.420 de 29 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-29-11420",
+      "data": "1993-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11419-de-29-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.419 de 29 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-29-11419",
+      "data": "1993-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11421-de-29-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.421 de 29 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-29-11421",
+      "data": "1993-09-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11418-de-27-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.418 de 27 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-27-11418",
+      "data": "1993-09-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11417-de-24-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.417 de 24 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-24-11417",
+      "data": "1993-09-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11416-de-14-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.416 de 14 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-14-11416",
+      "data": "1993-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11415-de-14-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.415 de 14 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-14-11415",
+      "data": "1993-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11414-de-14-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.414 de 14 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-14-11414",
+      "data": "1993-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11413-de-14-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.413 de 14 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-14-11413",
+      "data": "1993-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11412-de-14-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.412 de 14 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-14-11412",
+      "data": "1993-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11411-de-14-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.411 de 14 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-14-11411",
+      "data": "1993-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11410-de-13-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.410 de 13 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-13-11410",
+      "data": "1993-09-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11408-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.408 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11408",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11407-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.407 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11407",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11406-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.406 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11406",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11404-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.404 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11404",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11402-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.402 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11402",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11409-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.409 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11409",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11405-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.405 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11405",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11403-de-9-de-setembro-de-1993",
+      "titulo": "LEI Nº 11.403 de 9 de Setembro de 1993",
+      "id": "br-municipal-3550308-lei-1993-09-09-11403",
+      "data": "1993-09-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11401-de-19-de-agosto-de-1993",
+      "titulo": "LEI Nº 11.401 de 19 de Agosto de 1993",
+      "id": "br-municipal-3550308-lei-1993-08-19-11401",
+      "data": "1993-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11399-de-19-de-agosto-de-1993",
+      "titulo": "LEI Nº 11.399 de 19 de Agosto de 1993",
+      "id": "br-municipal-3550308-lei-1993-08-19-11399",
+      "data": "1993-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11400-de-19-de-agosto-de-1993",
+      "titulo": "LEI Nº 11.400 de 19 de Agosto de 1993",
+      "id": "br-municipal-3550308-lei-1993-08-19-11400",
+      "data": "1993-08-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11398-de-17-de-agosto-de-1993",
+      "titulo": "LEI Nº 11.398 de 17 de Agosto de 1993",
+      "id": "br-municipal-3550308-lei-1993-08-17-11398",
+      "data": "1993-08-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11397-de-16-de-julho-de-1993",
+      "titulo": "LEI Nº 11.397 de 16 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-16-11397",
+      "data": "1993-07-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11395-de-14-de-julho-de-1993",
+      "titulo": "LEI Nº 11.395 de 14 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-14-11395",
+      "data": "1993-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11394-de-14-de-julho-de-1993",
+      "titulo": "LEI Nº 11.394 de 14 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-14-11394",
+      "data": "1993-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11396-de-14-de-julho-de-1993",
+      "titulo": "LEI Nº 11.396 de 14 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-14-11396",
+      "data": "1993-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11393-de-9-de-julho-de-1993",
+      "titulo": "LEI Nº 11.393 de 9 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-09-11393",
+      "data": "1993-07-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11392-de-7-de-julho-de-1993",
+      "titulo": "LEI Nº 11.392 de 7 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-07-11392",
+      "data": "1993-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11391-de-7-de-julho-de-1993",
+      "titulo": "LEI Nº 11.391 de 7 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-07-11391",
+      "data": "1993-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11390-de-7-de-julho-de-1993",
+      "titulo": "LEI Nº 11.390 de 7 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-07-11390",
+      "data": "1993-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11389-de-7-de-julho-de-1993",
+      "titulo": "LEI Nº 11.389 de 7 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-07-11389",
+      "data": "1993-07-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11388-de-5-de-julho-de-1993",
+      "titulo": "LEI Nº 11.388 de 5 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-05-11388",
+      "data": "1993-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11387-de-5-de-julho-de-1993",
+      "titulo": "LEI Nº 11.387 de 5 de Julho de 1993",
+      "id": "br-municipal-3550308-lei-1993-07-05-11387",
+      "data": "1993-07-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11383-de-28-de-junho-de-1993",
+      "titulo": "LEI Nº 11.383 de 28 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-28-11383",
+      "data": "1993-06-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11386-de-24-de-junho-de-1993",
+      "titulo": "LEI Nº 11.386 de 24 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-24-11386",
+      "data": "1993-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11385-de-24-de-junho-de-1993",
+      "titulo": "LEI Nº 11.385 de 24 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-24-11385",
+      "data": "1993-06-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11384-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.384 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11384",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11382-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.382 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11382",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11379-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.379 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11379",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11378-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.378 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11378",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11377-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.377 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11377",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11376-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.376 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11376",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11381-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.381 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11381",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11380-de-17-de-junho-de-1993",
+      "titulo": "LEI Nº 11.380 de 17 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-17-11380",
+      "data": "1993-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11375-de-15-de-junho-de-1993",
+      "titulo": "LEI Nº 11.375 de 15 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-15-11375",
+      "data": "1993-06-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11374-de-3-de-junho-de-1993",
+      "titulo": "LEI Nº 11.374 de 3 de Junho de 1993",
+      "id": "br-municipal-3550308-lei-1993-06-03-11374",
+      "data": "1993-06-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11373-de-27-de-maio-de-1993",
+      "titulo": "LEI Nº 11.373 de 27 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-27-11373",
+      "data": "1993-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11372-de-26-de-maio-de-1993",
+      "titulo": "LEI Nº 11.372 de 26 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-26-11372",
+      "data": "1993-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11371-de-25-de-maio-de-1993",
+      "titulo": "LEI Nº 11.371 de 25 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-25-11371",
+      "data": "1993-05-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11370-de-18-de-maio-de-1993",
+      "titulo": "LEI Nº 11.370 de 18 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-18-11370",
+      "data": "1993-05-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11369-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.369 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11369",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11367-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.367 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11367",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11366-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.366 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11366",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11365-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.365 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11365",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11364-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.364 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11364",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11363-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.363 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11363",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11361-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.361 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11361",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11360-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.360 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11360",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11368-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.368 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11368",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11362-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.362 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11362",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11359-de-17-de-maio-de-1993",
+      "titulo": "LEI Nº 11.359 de 17 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-17-11359",
+      "data": "1993-05-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11358-de-14-de-maio-de-1993",
+      "titulo": "LEI Nº 11.358 de 14 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-14-11358",
+      "data": "1993-05-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11357-de-10-de-maio-de-1993",
+      "titulo": "LEI Nº 11.357 de 10 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-10-11357",
+      "data": "1993-05-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11356-de-5-de-maio-de-1993",
+      "titulo": "LEI Nº 11.356 de 5 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-05-11356",
+      "data": "1993-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11354-de-5-de-maio-de-1993",
+      "titulo": "LEI Nº 11.354 de 5 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-05-11354",
+      "data": "1993-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11355-de-05-de-maio-de-1993",
+      "titulo": "LEI Nº 11.355 de 5 de Maio de 1993",
+      "id": "br-municipal-3550308-lei-1993-05-05-11355",
+      "data": "1993-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11353-de-22-de-abril-de-1993",
+      "titulo": "LEI Nº 11.353 de 22 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-22-11353",
+      "data": "1993-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11351-de-22-de-abril-de-1993",
+      "titulo": "LEI Nº 11.351 de 22 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-22-11351",
+      "data": "1993-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11352-de-22-de-abril-de-1993",
+      "titulo": "LEI Nº 11.352 de 22 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-22-11352",
+      "data": "1993-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11350-de-22-de-abril-de-1993",
+      "titulo": "LEI Nº 11.350 de 22 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-22-11350",
+      "data": "1993-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11349-de-15-de-abril-de-1993",
+      "titulo": "LEI Nº 11.349 de 15 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-15-11349",
+      "data": "1993-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11348-de-14-de-abril-de-1993",
+      "titulo": "LEI Nº 11.348 de 14 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-14-11348",
+      "data": "1993-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11344-de-14-de-abril-de-1993",
+      "titulo": "LEI Nº 11.344 de 14 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-14-11344",
+      "data": "1993-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11347-de-14-de-abril-de-1993",
+      "titulo": "LEI Nº 11.347 de 14 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-14-11347",
+      "data": "1993-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11346-de-14-de-abril-de-1993",
+      "titulo": "LEI Nº 11.346 de 14 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-14-11346",
+      "data": "1993-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11345-de-14-de-abril-de-1993",
+      "titulo": "LEI Nº 11.345 de 14 de Abril de 1993",
+      "id": "br-municipal-3550308-lei-1993-04-14-11345",
+      "data": "1993-04-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11343-de-4-de-marco-de-1993",
+      "titulo": "LEI Nº 11.343 de 4 de Março de 1993",
+      "id": "br-municipal-3550308-lei-1993-03-04-11343",
+      "data": "1993-03-04"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11342-de-2-de-marco-de-1993",
+      "titulo": "LEI Nº 11.342 de 2 de Março de 1993",
+      "id": "br-municipal-3550308-lei-1993-03-02-11342",
+      "data": "1993-03-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11341-de-12-de-fevereiro-de-1993",
+      "titulo": "LEI Nº 11.341 de 12 de Fevereiro de 1993",
+      "id": "br-municipal-3550308-lei-1993-02-12-11341",
+      "data": "1993-02-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11340-de-10-de-fevereiro-de-1993",
+      "titulo": "LEI Nº 11.340 de 10 de Fevereiro de 1993",
+      "id": "br-municipal-3550308-lei-1993-02-10-11340",
+      "data": "1993-02-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-11339-de-10-de-fevereiro-de-1993",
+      "titulo": "LEI Nº 11.339 de 10 de Fevereiro de 1993",
+      "id": "br-municipal-3550308-lei-1993-02-10-11339",
+      "data": "1993-02-10"
+    }
+  ],
+  "pendencias": []
+}

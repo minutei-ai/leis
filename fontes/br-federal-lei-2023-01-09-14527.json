@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2023-01-09-14527",
+  "titulo": "Lei nº 14.527 de 09/01/2023",
+  "data": "2023-01-09",
+  "fonte": "https://normas.leg.br/api/public/binario/f2b1331d-eb0e-4a41-a8db-18b728357722/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2023-01-09;14527",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2023-01-09%3B14527&tipo_documento=maior-detalhe",
+  "sha256_dados": "60a08f68820d1ce16f5be1c0588f6bce4319e2b1289e65ef79ea16ddb3b9c43b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:32:07.630Z",
+  "sha256_fonte": "a0c71048bbd01c6a96030191a8b0dcf2abc70aa509ed4088100323ecfe26dd75",
+  "sha256_markdown": "9ea7367e86a512a8b50fd5245a012e525c6c8d6a3b09cd1821ff8cff0c065633"
+}

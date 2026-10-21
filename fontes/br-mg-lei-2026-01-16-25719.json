@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-16-25719",
+  "titulo": "LEI nº 25719, de 16/01/2026",
+  "data": "2026-01-16",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25719/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25719/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "5cdfbc42617c2da762dd5d44fae4dfdd5947e61e9c9fa140bfd6bfa230473345",
+  "coletado_em": "2026-10-21T08:25:11.794Z",
+  "sha256_fonte": "ba455ff86efe41ef5f26cd80dea7e924292b8f117384f7dbeee579942a4c532a",
+  "sha256_markdown": "cc512e767d458a978fa875be5370a538da75f32e3e718d6fc975e17d5d53a854"
+}

@@ -11,6 +11,7 @@ const args = parseArgs({
   options: {
     limit: { type: "string", default: "1000000" },
     refresh: { type: "boolean", default: false },
+  "skip-failures": { type: "boolean", default: false },
   },
 });
 const limit = Schema.decodeUnknownSync(
@@ -43,6 +44,7 @@ await Effect.runPromise(
         seen.add(norm.id);
         if (!args.values.refresh && (yield* intact(norm.id))) continue;
         if (processed.size >= limit) break;
+        if (args.values["skip-failures"] && (yield* Effect.tryPromise(() => Bun.file(`falhas/${norm.id}.json`).exists()))) continue;
         processed.add(norm.id);
         const result = yield* Effect.gen(function* () {
           const dataUrl = `https://normas.leg.br/api/public/normas?urn=${encodeURIComponent(norm.urn)}&tipo_documento=maior-detalhe`;

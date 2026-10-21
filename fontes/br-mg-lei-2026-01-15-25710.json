@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-15-25710",
+  "titulo": "LEI nº 25710, de 15/01/2026",
+  "data": "2026-01-15",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25710/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25710/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6127b307940d2c680a13b9ee32cd256321d8bb2367520917a09594f0730f68f6",
+  "coletado_em": "2026-10-21T08:25:01.018Z",
+  "sha256_fonte": "3ed5a92fc738803f798c6fd029501d9c16464673876e64fed751e48283aa1f4f",
+  "sha256_markdown": "b4128fb71078a264579b00df2baa99e5c9805f3a9ca3727ed1d238ac08efec59"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2021-10-05-14213",
+  "titulo": "Lei nº 14.213 de 05/10/2021",
+  "data": "2021-10-05",
+  "fonte": "https://normas.leg.br/api/public/binario/a66e5b9d-7462-4f7f-b408-ea07eb883a18/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2021-10-05;14213",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2021-10-05%3B14213&tipo_documento=maior-detalhe",
+  "sha256_dados": "34804745f7e7e1491f34073ed4257ef7fbec73f731822a297092c5cab465e0b4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:38:48.007Z",
+  "sha256_fonte": "1eba2a8a0d4f83b9ec9d61b68874e553fe6f911473d644bc40be3d30204b4999",
+  "sha256_markdown": "f853461ce87a9217f51f312adac87db3fa402b07fd3a652c519ed50a82d35604"
+}

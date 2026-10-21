@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-05-08-49225",
+  "titulo": "DEC nº 49225, de 08/05/2026",
+  "data": "2026-05-08",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49225/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49225/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6b639f52fd9cfaf0cf3d1d7f14fc5f6052ce072ca51192da353a8c856268c040",
+  "coletado_em": "2026-10-21T08:27:02.165Z",
+  "sha256_fonte": "95c63b23be46e63058a319392fe79119907116fbc2b3e209313d167968ff7ab1",
+  "sha256_markdown": "0f92f311fb32bb27244ab55197fb42e0e877d52a8cd400ab17907fe0cc406016"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2026-05-28-49240",
+  "titulo": "DEC nº 49240, de 28/05/2026",
+  "data": "2026-05-28",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49240/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49240/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "856cbc896a0706231bfc741addb0995cb66299d740985c00eb1861c5a640ffe9",
+  "coletado_em": "2026-10-21T08:27:29.980Z",
+  "sha256_fonte": "843bd5c5f0685516d265109013f076c6094b15d2f9711d87a8351f8b10aee84f",
+  "sha256_markdown": "4946b6ef3eafce5fbed02fb3beaa9a517dba85fb230e5574c94dfa270545057d"
+}

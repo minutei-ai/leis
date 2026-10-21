@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-decreto-2025-06-13-49055",
+  "titulo": "DEC nº 49055, de 13/06/2025",
+  "data": "2025-06-13",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49055/2025/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/49055/2025/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "3b24e9fa3d4605fc8442b3e68760f3420f822884a38074e17ca668bc4217dfc0",
+  "coletado_em": "2026-10-21T08:32:09.454Z",
+  "sha256_fonte": "cfaf0a74a9a4b123107418db5619f283e4f5fb2258d5adcb79fbb77eff43a239",
+  "sha256_markdown": "bfebcbe7854338ae5e3c842e4c4202997df348351ef39698ff71d7f7f866772f"
+}

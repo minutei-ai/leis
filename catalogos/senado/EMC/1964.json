@@ -1,0 +1,49 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=1964",
+  "tipo": "EMC",
+  "ano": 1964,
+  "coletado_em": "2026-10-21T08:40:25.349Z",
+  "normas": [
+    {
+      "senadoId": "593603",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1964-11-09-10",
+      "titulo": "Emenda Constitucional nº 10 de 09/11/1964",
+      "data": "1964-11-09",
+      "numero": "10",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1964-11-09;10",
+      "ementa": "Altera os artigos 5º, 15, 29, 141, 147 ;e 156 ;da Constituição Federal."
+    },
+    {
+      "senadoId": "593600",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1964-07-22-9",
+      "titulo": "Emenda Constitucional nº 9 de 22/07/1964",
+      "data": "1964-07-22",
+      "numero": "9",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1964-07-22;9",
+      "ementa": "Altera os artigos 38, 39, 41, 45, 81, 82, 83, 95, 132, 138 e 203 e dá outras providências."
+    },
+    {
+      "senadoId": "593594",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1964-05-22-7",
+      "titulo": "Emenda Constitucional nº 7 de 22/05/1964",
+      "data": "1964-05-22",
+      "numero": "7",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1964-05-22;7",
+      "ementa": "Suspende, provisóriamente e em parte, a vigência do art. 141, § 34 da Constituição."
+    },
+    {
+      "senadoId": "593597",
+      "tipo": "EMC",
+      "id": "br-federal-emenda-constitucional-1964-05-22-8",
+      "titulo": "Emenda Constitucional nº 8 de 22/05/1964",
+      "data": "1964-05-22",
+      "numero": "8",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1964-05-22;8",
+      "ementa": "Altera a data referida no art. 87, nº XVI, da Constituição."
+    }
+  ],
+  "pendencias": []
+}

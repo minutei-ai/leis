@@ -1,0 +1,12 @@
+{
+  "id": "br-mg-lei-2026-01-19-25748",
+  "titulo": "LEI nº 25748, de 19/01/2026",
+  "data": "2026-01-19",
+  "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25748/2026/documento?conteudo=true&tipoDoc=142",
+  "versao": "publicação original disponibilizada pela ALMG",
+  "dados": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/25748/2026/documento?conteudo=true&tipoDoc=142",
+  "sha256_dados": "6121d5ec03fc1f7f8691241fbd1939ce616c008ddac991d8f0bd12ed20e37345",
+  "coletado_em": "2026-10-21T08:25:20.248Z",
+  "sha256_fonte": "4bab4d48938d191f9d7540676a6c05387d3576460836e772523e280eba9a5fa7",
+  "sha256_markdown": "0863b2e79863ce2485e3c7eb47b1a4d0fe66ac8e8fc0d4c408b9e9d90bdcaad1"
+}

@@ -1,0 +1,1476 @@
+{
+  "ano_publicacao": 2015,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/2015",
+    "ano-final": "31/12/2015",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:45:55.067Z",
+  "total": 241,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "af43ec376ad2a4d2a7a4de8acfdd536a18e2c78ac4c35b00720eb89c3e9b76c2"
+    },
+    {
+      "numero": 2,
+      "sha256_fonte": "c7caeafd517b947baa50efc17f8d003c4db004bbfa42939db19de4ac2198011b"
+    },
+    {
+      "numero": 3,
+      "sha256_fonte": "ab33c2cb281e266e2194e560b70b4660648d86045b4ded1dbf758795323ad7bb"
+    }
+  ],
+  "normas": [
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16342-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.342 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16342",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16341-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.341 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16341",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16340-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.340 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16340",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16337-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.337 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16337",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16336-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.336 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16336",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16335-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.335 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16335",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16334-de-30-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.334 de 30 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-30-16334",
+      "data": "2015-12-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16333-de-18-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.333 de 18 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-18-16333",
+      "data": "2015-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16332-de-18-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.332 de 18 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-18-16332",
+      "data": "2015-12-18"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16331-de-15-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.331 de 15 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-15-16331",
+      "data": "2015-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16330-de-15-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.330 de 15 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-15-16330",
+      "data": "2015-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16329-de-15-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.329 de 15 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-15-16329",
+      "data": "2015-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16328-de-15-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.328 de 15 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-15-16328",
+      "data": "2015-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16327-de-15-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.327 de 15 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-15-16327",
+      "data": "2015-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16326-de-15-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.326 de 15 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-15-16326",
+      "data": "2015-12-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16325-de-09-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.325 de 9 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-09-16325",
+      "data": "2015-12-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16324-de-02-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.324 de 2 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-02-16324",
+      "data": "2015-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16323-de-02-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.323 de 2 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-02-16323",
+      "data": "2015-12-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16322-de-01-de-dezembro-de-2015",
+      "titulo": "LEI Nº 16.322 de 1 de Dezembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-12-01-16322",
+      "data": "2015-12-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16321-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.321 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16321",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16320-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.320 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16320",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16319-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.319 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16319",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16318-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.318 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16318",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16317-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.317 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16317",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16316-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.316 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16316",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16315-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.315 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16315",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16314-de-24-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.314 de 24 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-24-16314",
+      "data": "2015-11-24"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16313-de-23-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.313 de 23 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-23-16313",
+      "data": "2015-11-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16312-de-17-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.312 de 17 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-17-16312",
+      "data": "2015-11-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16311-de-12-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.311 de 12 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-12-16311",
+      "data": "2015-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16309-de-12-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.309 de 12 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-12-16309",
+      "data": "2015-11-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16310-de-11-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.310 de 11 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-11-16310",
+      "data": "2015-11-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16308-de-10-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.308 de 10 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-10-16308",
+      "data": "2015-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16307-de-10-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.307 de 10 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-10-16307",
+      "data": "2015-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16306-de-10-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.306 de 10 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-10-16306",
+      "data": "2015-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16305-de-10-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.305 de 10 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-10-16305",
+      "data": "2015-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16304-de-10-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.304 de 10 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-10-16304",
+      "data": "2015-11-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16303-de-09-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.303 de 9 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-09-16303",
+      "data": "2015-11-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16302-de-06-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.302 de 6 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-06-16302",
+      "data": "2015-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16301-de-06-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.301 de 6 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-06-16301",
+      "data": "2015-11-06"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16300-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.300 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16300",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16299-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.299 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16299",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16298-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.298 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16298",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16297-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.297 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16297",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16296-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.296 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16296",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16295-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.295 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16295",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16294-de-05-de-novembro-de-2015",
+      "titulo": "LEI Nº 16.294 de 5 de Novembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-11-05-16294",
+      "data": "2015-11-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16293-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.293 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16293",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16292-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.292 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16292",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16291-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.291 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16291",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16290-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.290 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16290",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16289-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.289 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16289",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16288-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.288 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16288",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16287-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.287 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16287",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16286-de-26-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.286 de 26 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-26-16286",
+      "data": "2015-10-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16285-de-23-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.285 de 23 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-23-16285",
+      "data": "2015-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16284-de-23-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.284 de 23 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-23-16284",
+      "data": "2015-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16283-de-23-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.283 de 23 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-23-16283",
+      "data": "2015-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16282-de-23-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.282 de 23 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-23-16282",
+      "data": "2015-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16281-de-23-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.281 de 23 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-23-16281",
+      "data": "2015-10-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16280-de-21-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.280 de 21 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-21-16280",
+      "data": "2015-10-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16279-de-08-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.279 de 8 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-08-16279",
+      "data": "2015-10-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16278-de-05-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.278 de 5 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-05-16278",
+      "data": "2015-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16277-de-05-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.277 de 5 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-05-16277",
+      "data": "2015-10-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16276-de-02-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.276 de 2 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-02-16276",
+      "data": "2015-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16275-de-02-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.275 de 2 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-02-16275",
+      "data": "2015-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16274-de-02-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.274 de 2 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-02-16274",
+      "data": "2015-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16273-de-02-de-outubro-de-2015",
+      "titulo": "LEI Nº 16.273 de 2 de Outubro de 2015",
+      "id": "br-municipal-3550308-lei-2015-10-02-16273",
+      "data": "2015-10-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16272-de-30-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.272 de 30 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-30-16272",
+      "data": "2015-09-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16271-de-17-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.271 de 17 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-17-16271",
+      "data": "2015-09-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16270-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.270 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16270",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16269-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.269 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16269",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16268-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.268 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16268",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16267-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.267 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16267",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16266-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.266 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16266",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16265-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.265 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16265",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16264-de-15-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.264 de 15 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-15-16264",
+      "data": "2015-09-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16263-de-14-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.263 de 14 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-14-16263",
+      "data": "2015-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16262-de-14-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.262 de 14 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-14-16262",
+      "data": "2015-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16261-de-14-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.261 de 14 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-14-16261",
+      "data": "2015-09-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16260-de-10-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.260 de 10 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-10-16260",
+      "data": "2015-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16259-de-10-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.259 de 10 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-10-16259",
+      "data": "2015-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16258-de-10-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.258 de 10 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-10-16258",
+      "data": "2015-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16257-de-10-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.257 de 10 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-10-16257",
+      "data": "2015-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16256-de-10-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.256 de 10 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-10-16256",
+      "data": "2015-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16255-de-10-de-setembro-de-2015",
+      "titulo": "LEI Nº 16.255 de 10 de Setembro de 2015",
+      "id": "br-municipal-3550308-lei-2015-09-10-16255",
+      "data": "2015-09-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16254-de-31-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.254 de 31 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-31-16254",
+      "data": "2015-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16253-de-31-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.253 de 31 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-31-16253",
+      "data": "2015-08-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16252-de-26-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.252 de 26 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-26-16252",
+      "data": "2015-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16251-de-26-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.251 de 26 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-26-16251",
+      "data": "2015-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16250-de-26-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.250 de 26 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-26-16250",
+      "data": "2015-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16249-de-26-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.249 de 26 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-26-16249",
+      "data": "2015-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16248-de-26-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.248 de 26 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-26-16248",
+      "data": "2015-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16247-de-26-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.247 de 26 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-26-16247",
+      "data": "2015-08-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16246-de-13-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.246 de 13 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-13-16246",
+      "data": "2015-08-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16245-de-10-de-agosto-de-2015",
+      "titulo": "LEI Nº 16.245 de 10 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-10-16245",
+      "data": "2015-08-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16244-de-03-de-agosto-de-2015",
+      "titulo": "Lei Nº 16.244 de 3 de Agosto de 2015",
+      "id": "br-municipal-3550308-lei-2015-08-03-16244",
+      "data": "2015-08-03"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16243-de-31-de-julho-de-2015",
+      "titulo": "LEI Nº 16.243 de 31 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-31-16243",
+      "data": "2015-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16242-de-31-de-julho-de-2015",
+      "titulo": "LEI Nº 16.242 de 31 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-31-16242",
+      "data": "2015-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16241-de-31-de-julho-de-2015",
+      "titulo": "LEI Nº 16.241 de 31 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-31-16241",
+      "data": "2015-07-31"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16222-de-25-de-julho-de-2015",
+      "titulo": "LEI Nº 16.222 de 25 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-25-16222",
+      "data": "2015-07-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16240-de-22-de-julho-de-2015",
+      "titulo": "LEI Nº 16.240 de 22 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-22-16240",
+      "data": "2015-07-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16239-de-19-de-julho-de-2015",
+      "titulo": "LEI Nº 16.239 de 19 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-19-16239",
+      "data": "2015-07-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16238-de-14-de-julho-de-2015",
+      "titulo": "LEI Nº 16.238 de 14 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-14-16238",
+      "data": "2015-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16237-de-14-de-julho-de-2015",
+      "titulo": "LEI Nº 16.237 de 14 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-14-16237",
+      "data": "2015-07-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16236-de-02-de-julho-de-2015",
+      "titulo": "LEI Nº 16.236 de 2 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-02-16236",
+      "data": "2015-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16235-de-02-de-julho-de-2015",
+      "titulo": "LEI Nº 16.235 de 2 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-02-16235",
+      "data": "2015-07-02"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16234-de-01-de-julho-de-2015",
+      "titulo": "LEI Nº 16.234 de 1 de Julho de 2015",
+      "id": "br-municipal-3550308-lei-2015-07-01-16234",
+      "data": "2015-07-01"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16233-de-30-de-junho-de-2015",
+      "titulo": "LEI Nº 16.233 de 30 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-30-16233",
+      "data": "2015-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16232-de-30-de-junho-de-2015",
+      "titulo": "LEI Nº 16.232 de 30 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-30-16232",
+      "data": "2015-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16231-de-30-de-junho-de-2015",
+      "titulo": "LEI Nº 16.231 de 30 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-30-16231",
+      "data": "2015-06-30"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16230-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.230 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16230",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16229-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.229 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16229",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16228-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.228 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16228",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16227-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.227 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16227",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16226-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.226 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16226",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16225-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.225 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16225",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16224-de-29-de-junho-de-2015",
+      "titulo": "LEI Nº 16.224 de 29 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-29-16224",
+      "data": "2015-06-29"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16223-de-25-de-junho-de-2015",
+      "titulo": "LEI Nº 16.223 de 25 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-25-16223",
+      "data": "2015-06-25"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16221-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.221 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16221",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16220-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.220 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16220",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16219-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.219 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16219",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16218-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.218 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16218",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16217-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.217 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16217",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16216-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.216 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16216",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16215-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.215 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16215",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16214-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.214 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16214",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16213-de-17-de-junho-de-2015",
+      "titulo": "LEI Nº 16.213 de 17 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-17-16213",
+      "data": "2015-06-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16212-de-10-de-junho-de-2015",
+      "titulo": "LEI Nº 16.212 de 10 de Junho de 2015",
+      "id": "br-municipal-3550308-lei-2015-06-10-16212",
+      "data": "2015-06-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16211-de-27-de-maio-de-2015",
+      "titulo": "LEI Nº 16.211 de 27 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-27-16211",
+      "data": "2015-05-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16210-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.210 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16210",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16209-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.209 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16209",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16208-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.208 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16208",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16207-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.207 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16207",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16206-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.206 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16206",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16205-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.205 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16205",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16204-de-26-de-maio-de-2015",
+      "titulo": "LEI Nº 16.204 de 26 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-26-16204",
+      "data": "2015-05-26"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16203-de-21-de-maio-de-2015",
+      "titulo": "LEI Nº 16.203 de 21 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-21-16203",
+      "data": "2015-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16202-de-21-de-maio-de-2015",
+      "titulo": "LEI Nº 16.202 de 21 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-21-16202",
+      "data": "2015-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16201-de-21-de-maio-de-2015",
+      "titulo": "LEI Nº 16.201 de 21 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-21-16201",
+      "data": "2015-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16200-de-21-de-maio-de-2015",
+      "titulo": "LEI Nº 16.200 de 21 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-21-16200",
+      "data": "2015-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16199-de-21-de-maio-de-2015",
+      "titulo": "LEI Nº 16.199 de 21 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-21-16199",
+      "data": "2015-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16198-de-21-de-maio-de-2015",
+      "titulo": "LEI Nº 16.198 de 21 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-21-16198",
+      "data": "2015-05-21"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16197-de-07-de-maio-de-2015",
+      "titulo": "LEI Nº 16.197 de 7 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-07-16197",
+      "data": "2015-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16196-de-07-de-maio-de-2015",
+      "titulo": "LEI Nº 16.196 de 7 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-07-16196",
+      "data": "2015-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16195-de-07-de-maio-de-2015",
+      "titulo": "LEI Nº 16.195 de 7 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-07-16195",
+      "data": "2015-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16194-de-07-de-maio-de-2015",
+      "titulo": "LEI Nº 16.194 de 7 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-07-16194",
+      "data": "2015-05-07"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16193-de-05-de-maio-de-2015",
+      "titulo": "LEI Nº 16.193 de 5 de Maio de 2015",
+      "id": "br-municipal-3550308-lei-2015-05-05-16193",
+      "data": "2015-05-05"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16192-de-28-de-abril-de-2015",
+      "titulo": "LEI Nº 16.192 de 28 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-28-16192",
+      "data": "2015-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16191-de-28-de-abril-de-2015",
+      "titulo": "LEI Nº 16.191 de 28 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-28-16191",
+      "data": "2015-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16190-de-28-de-abril-de-2015",
+      "titulo": "LEI Nº 16.190 de 28 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-28-16190",
+      "data": "2015-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16189-de-28-de-abril-de-2015",
+      "titulo": "LEI Nº 16.189 de 28 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-28-16189",
+      "data": "2015-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16188-de-28-de-abril-de-2015",
+      "titulo": "LEI Nº 16.188 de 28 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-28-16188",
+      "data": "2015-04-28"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16187-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.187 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16187",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16186-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.186 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16186",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16185-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.185 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16185",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16184-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.184 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16184",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16183-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.183 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16183",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16182-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.182 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16182",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16181-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.181 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16181",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16180-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.180 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16180",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16179-de-23-de-abril-de-2015",
+      "titulo": "LEI Nº 16.179 de 23 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-23-16179",
+      "data": "2015-04-23"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16178-de-22-de-abril-de-2015",
+      "titulo": "LEI Nº 16.178 de 22 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-22-16178",
+      "data": "2015-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16177-de-22-de-abril-de-2015",
+      "titulo": "LEI Nº 16.177 de 22 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-22-16177",
+      "data": "2015-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16176-de-22-de-abril-de-2015",
+      "titulo": "LEI Nº 16.176 de 22 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-22-16176",
+      "data": "2015-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16175-de-22-de-abril-de-2015",
+      "titulo": "LEI Nº 16.175 de 22 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-22-16175",
+      "data": "2015-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16174-de-22-de-abril-de-2015",
+      "titulo": "LEI Nº 16.174 de 22 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-22-16174",
+      "data": "2015-04-22"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16173-de-17-de-abril-de-2015",
+      "titulo": "LEI Nº 16.173 de 17 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-17-16173",
+      "data": "2015-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16172-de-17-de-abril-de-2015",
+      "titulo": "LEI Nº 16.172 de 17 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-17-16172",
+      "data": "2015-04-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16171-de-16-de-abril-de-2015",
+      "titulo": "LEI Nº 16.171 de 16 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-16-16171",
+      "data": "2015-04-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16170-de-16-de-abril-de-2015",
+      "titulo": "LEI Nº 16.170 de 16 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-16-16170",
+      "data": "2015-04-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16169-de-15-de-abril-de-2015",
+      "titulo": "LEI Nº 16.169 de 15 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-15-16169",
+      "data": "2015-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16168-de-15-de-abril-de-2015",
+      "titulo": "LEI Nº 16.168 de 15 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-15-16168",
+      "data": "2015-04-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16167-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.167 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16167",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16166-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.166 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16166",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16165-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.165 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16165",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16164-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.164 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16164",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16163-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.163 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16163",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16162-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.162 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16162",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16161-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.161 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16161",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16160-de-13-de-abril-de-2015",
+      "titulo": "LEI Nº 16.160 de 13 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-13-16160",
+      "data": "2015-04-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16159-de-10-de-abril-de-2015",
+      "titulo": "LEI Nº 16.159 de 10 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-10-16159",
+      "data": "2015-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16158-de-10-de-abril-de-2015",
+      "titulo": "LEI Nº 16.158 de 10 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-10-16158",
+      "data": "2015-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16157-de-10-de-abril-de-2015",
+      "titulo": "LEI Nº 16.157 de 10 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-10-16157",
+      "data": "2015-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16156-de-10-de-abril-de-2015",
+      "titulo": "LEI Nº 16.156 de 10 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-10-16156",
+      "data": "2015-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16155-de-10-de-abril-de-2015",
+      "titulo": "LEI Nº 16.155 de 10 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-10-16155",
+      "data": "2015-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16154-de-10-de-abril-de-2015",
+      "titulo": "LEI Nº 16.154 de 10 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-10-16154",
+      "data": "2015-04-10"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16153-de-09-de-abril-de-2015",
+      "titulo": "LEI Nº 16.153 de 9 de Abril de 2015",
+      "id": "br-municipal-3550308-lei-2015-04-09-16153",
+      "data": "2015-04-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16152-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.152 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16152",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16151-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.151 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16151",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16150-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.150 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16150",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16149-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.149 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16149",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16148-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.148 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16148",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16147-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.147 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16147",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16146-de-27-de-marco-de-2015",
+      "titulo": "LEI Nº 16.146 de 27 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-27-16146",
+      "data": "2015-03-27"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16143-de-20-de-marco-de-2015",
+      "titulo": "LEI Nº 16.143 de 20 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-20-16143",
+      "data": "2015-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16142-de-20-de-marco-de-2015",
+      "titulo": "LEI Nº 16.142 de 20 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-20-16142",
+      "data": "2015-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16141-de-20-de-marco-de-2015",
+      "titulo": "LEI Nº 16.141 de 20 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-20-16141",
+      "data": "2015-03-20"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16145-de-19-de-marco-de-2015",
+      "titulo": "LEI Nº 16.145 de 19 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-19-16145",
+      "data": "2015-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16144-de-19-de-marco-de-2015",
+      "titulo": "LEI Nº 16.144 de 19 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-19-16144",
+      "data": "2015-03-19"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16140-de-17-de-marco-de-2015",
+      "titulo": "LEI Nº 16.140 de 17 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-17-16140",
+      "data": "2015-03-17"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16139-de-16-de-marco-de-2015",
+      "titulo": "LEI Nº 16.139 de 16 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-16-16139",
+      "data": "2015-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16138-de-16-de-marco-de-2015",
+      "titulo": "LEI Nº 16.138 de 16 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-16-16138",
+      "data": "2015-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16137-de-16-de-marco-de-2015",
+      "titulo": "LEI Nº 16.137 de 16 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-16-16137",
+      "data": "2015-03-16"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16136-de-13-de-marco-de-2015",
+      "titulo": "LEI Nº 16.136 de 13 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-13-16136",
+      "data": "2015-03-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16135-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.135 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16135",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16134-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.134 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16134",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16133-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.133 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16133",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16132-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.132 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16132",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16131-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.131 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16131",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16130-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.130 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16130",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16129-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.129 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16129",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16128-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.128 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16128",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16127-de-12-de-marco-de-2015",
+      "titulo": "LEI Nº 16.127 de 12 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-12-16127",
+      "data": "2015-03-12"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16126-de-11-de-marco-de-2015",
+      "titulo": "LEI Nº 16.126 de 11 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-11-16126",
+      "data": "2015-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16125-de-11-de-marco-de-2015",
+      "titulo": "LEI Nº 16.125 de 11 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-11-16125",
+      "data": "2015-03-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16124-de-09-de-marco-de-2015",
+      "titulo": "LEI Nº 16.124 de 9 de Março de 2015",
+      "id": "br-municipal-3550308-lei-2015-03-09-16124",
+      "data": "2015-03-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16123-de-11-de-fevereiro-de-2015",
+      "titulo": "LEI Nº 16.123 de 11 de Fevereiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-02-11-16123",
+      "data": "2015-02-11"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16122-de-15-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.122 de 15 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-15-16122",
+      "data": "2015-01-15"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16121-de-14-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.121 de 14 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-14-16121",
+      "data": "2015-01-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16120-de-14-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.120 de 14 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-14-16120",
+      "data": "2015-01-14"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16119-de-13-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.119 de 13 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-13-16119",
+      "data": "2015-01-13"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16118-de-09-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.118 de 9 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-09-16118",
+      "data": "2015-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16117-de-09-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.117 de 9 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-09-16117",
+      "data": "2015-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16116-de-09-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.116 de 9 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-09-16116",
+      "data": "2015-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16115-de-09-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.115 de 9 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-09-16115",
+      "data": "2015-01-09"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16114-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.114 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16114",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16113-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.113 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16113",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16112-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.112 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16112",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16111-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.111 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16111",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16110-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.110 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16110",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16109-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.109 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16109",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16108-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.108 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16108",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16107-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.107 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16107",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16106-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.106 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16106",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16105-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.105 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16105",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16104-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.104 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16104",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16103-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.103 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16103",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16102-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.102 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16102",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16101-de-08-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.101 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16101",
+      "data": "2015-01-08"
+    },
+    {
+      "fonte": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16100-de-8-de-janeiro-de-2015",
+      "titulo": "LEI Nº 16.100 de 8 de Janeiro de 2015",
+      "id": "br-municipal-3550308-lei-2015-01-08-16100",
+      "data": "2015-01-08"
+    }
+  ],
+  "pendencias": []
+}
