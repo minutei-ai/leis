@@ -1,0 +1,37 @@
+###DEL-005747-0-000-13-08-1943@@@
+
+DECRETO‑Lei N. 5.747 – DE 13 DE AGÔSTO DE 1943
+
+Cria uma coletoria federal, no município de Leopoldina, no Estado de Alagoas, e dá outras providências
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição, e tendo em vista o disposto no decreto‑lei n.  3.008, de 30 de janeiro de 1941,
+
+decreta:
+
+Art. 1º Fica criada uma coletoria para arrecadação das rendas federais no município de Leopoldina, no Estado de Alagoas.
+
+Art. 2º Ficam criados e incluídos nas respectivas carreiras do Quadro Permanente do Ministério da Fazenda 1 (um) cargo de “Coletor – classe C", e 1 (um) cargo de "Escrivão – classe B".
+
+Art. 3º  Para atender à despesa decorrente dêste decreto-lei, fica aberto o crédito suplementar de sete mil e quinhentos cruzeiros (Cr$ 7.500,00), em refôrço da Verba 1 – Pessoal, do vigente orçamento do referido Ministério (Anexo n. 14 do decreto-lei n. 5.120, de 19 de dezembro de 1942), como segue:
+
+VERBA 1 – PESSOAL
+
+Consignação I – Pessoal  Permanente
+
+                                                                                    Cr$
+
+S/c n. 01 –  Pessoal Permanente  ......................... 2.000,00
+
+S/c n. 02 –  Porcentagens................................ ...... 5.500,00
+
+Total...................................................... 7.500,00
+
+Art. 4º O presente decreto-lei entra em vigor na data de sua publicação.
+
+­Art. 5º  Revogam‑se as disposições em contrário.
+
+Rio de Janeiro, 13 de agôsto de 1943, 122º da Independência e 55º da República.
+
+GETÚLIO VARGAS.
+
+A. de Sousa Costa.
