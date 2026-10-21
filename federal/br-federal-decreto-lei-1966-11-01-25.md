@@ -26,11 +26,11 @@ a) para Juízes Militares, Capitão-de-Mar-e-Guerra ou Capitão-de-Fragata da At
 
 b) para Juízes Civis:
 
-1) dois bacharéis em Direito, de reconhecida idoneidade, com mais de cinco anos de prática forense e idade compreendida entre trinta e cinco e quarenta e oito anos, especializado um dêles em Direito Marítimo e o outro em Direito Internacional Público;
+1\) dois bacharéis em Direito, de reconhecida idoneidade, com mais de cinco anos de prática forense e idade compreendida entre trinta e cinco e quarenta e oito anos, especializado um dêles em Direito Marítimo e o outro em Direito Internacional Público;
 
-2) Um especialista em armação de navios e navegação comercial, de reconhecida idoneidade e competência, com idade compreendida entre trinta e cinco e quarenta e oito anos e com mais de cinco anos de exercício de cargo de direção em emprêsa de navegação marítima;
+2\) Um especialista em armação de navios e navegação comercial, de reconhecida idoneidade e competência, com idade compreendida entre trinta e cinco e quarenta e oito anos e com mais de cinco anos de exercício de cargo de direção em emprêsa de navegação marítima;
 
-3) Um Capitão-de-Longo-Curso da Marinha Mercante, de reconhecida idoneidade e competência, com idade compreendida entre trinta e cinco e quarenta e oito anos e com mais de cinco anos de efetivo comando em navios brasileiros de longo curso, sem punição decorrente de julgamento em tribunal hábil.
+3\) Um Capitão-de-Longo-Curso da Marinha Mercante, de reconhecida idoneidade e competência, com idade compreendida entre trinta e cinco e quarenta e oito anos e com mais de cinco anos de efetivo comando em navios brasileiros de longo curso, sem punição decorrente de julgamento em tribunal hábil.
 
 § 3º A indicação a ser feita pelo Ministro da Marinha para os cargos de Presidente e de Juiz Militar deverá ser acompanhada, se se tratar de oficial da Ativa, da declaração dos indicados de que concordam com a mesma.
 

@@ -3735,9 +3735,9 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos sete dias do mês d
 
 OBS.:
 
-1) Incluída a modificação do Art. 24 pela Lei Municipal nº 1.190/93.
+1\) Incluída a modificação do Art. 24 pela Lei Municipal nº 1.190/93.
 
-2) Incluída a modificação no Código de Postura pela Lei Municipal nº 2.223 de 28/12/2001. L.M. nº 2.232 – Art 6º - Os casos omissos no Código de Posturas, Lei Municipal nº 792, de 7 de dezembro de 1998, serão supridos pelos dispositivos das legislações federal e estadual aplicáveis ao Meio Ambiente, inclusive no tocante às penalidades nelas previstas, escolhidas as que mais se adequarem à espécie fiscalizada pelo Município.
+2\) Incluída a modificação no Código de Postura pela Lei Municipal nº 2.223 de 28/12/2001. L.M. nº 2.232 – Art 6º - Os casos omissos no Código de Posturas, Lei Municipal nº 792, de 7 de dezembro de 1998, serão supridos pelos dispositivos das legislações federal e estadual aplicáveis ao Meio Ambiente, inclusive no tocante às penalidades nelas previstas, escolhidas as que mais se adequarem à espécie fiscalizada pelo Município.
 
 NORBERTO JOSE TEIXEIRA<br>
 Prefeito Municipal

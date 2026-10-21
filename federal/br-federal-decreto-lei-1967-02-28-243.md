@@ -134,9 +134,9 @@ Da Infraestrutura Cartográfica
 
 Art. 12. Os levantamentos cartográficos sistemáticos apoiam-se obrigatòriamente em sistema plano-alimétrico único, de pontos geodésicos de contrôle, materializados no terreno por meio de marcos, pilares e sinais, assim constituído:
 
-1) rede geodésica fundamental interligada ao sistema continental;
+1\) rede geodésica fundamental interligada ao sistema continental;
 
-2) redes secundárias, apoiadas na fundamental, de precisão compatível com as escalas das cartas a serem elaboradas.
+2\) redes secundárias, apoiadas na fundamental, de precisão compatível com as escalas das cartas a serem elaboradas.
 
 § 1º São admitidos sistemas de apoio isolados, em caráter provisório, sòmente em caso de inexistência ou impossibilidade imediata de conexão ao sistema plano-altimétrico previsto, neste artigo.
 

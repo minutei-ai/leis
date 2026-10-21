@@ -598,7 +598,7 @@ DEMONSTRATIVO DE QUE TRATA O ART. 62 DA LEI N°9.995, DE 2000, PARA ATENDIMENTO 
 
 V‑ Ministério da Fazenda:
 
-1) provimento, mediante concurso público, de 115 cargos de Analista do Banco Central do Brasil; e m) provimento, mediante concurso público, de 30 cargos de Procurador do Banco Central do Brasil.
+1\) provimento, mediante concurso público, de 115 cargos de Analista do Banco Central do Brasil; e m) provimento, mediante concurso público, de 30 cargos de Procurador do Banco Central do Brasil.
 
 VII ‑ Ministério da Justiça:
 
@@ -626,7 +626,7 @@ j) provimento, mediante concurso público, de até 5 cargos de Técnico 3 da Car
 
 k) provimento, mediante concurso público, de até 15 cargos de Técnico 2 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
 
-1) provimento, mediante concurso público, de até 108 cargos de Técnico 1 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+1\) provimento, mediante concurso público, de até 108 cargos de Técnico 1 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
 
 m) provimento, mediante concurso público, de. até 6 cargos de Professor de Ensino de 3' Grau para o Instituto Militar de Engenharia do Comando do Exército;
 

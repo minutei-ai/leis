@@ -31,7 +31,7 @@ Art. 3º O Anexo Único do [Decreto nº 9.308](https://legisla.casacivil.go.gov.
 
 ...................................................................................................................................
 
-1) Componente PORTE (P) :
+1\) Componente PORTE (P) :
 
 – Índice relacionado diretamente com as características físicas do empreendimento e com a potencialidade poluidora da atividade a ser desenvolvida. Este item deve ser analisado sob o [Decreto nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, no qual é apresentada a classificação dos portes dos empreendimentos em pequeno, médio ou grande e do potencial poluidor das atividades em baixo, médio ou alto.
 

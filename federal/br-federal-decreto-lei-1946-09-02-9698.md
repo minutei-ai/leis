@@ -756,13 +756,13 @@ a) Oficial: ter, no mínimo, o pôsto de segundo tenente;
 
 b) Praças:
 
-1) ser subtenente ou suboficial;
+1\) ser subtenente ou suboficial;
 
-2) sargentos: ter, no mínimo, 25 anos de idade, completos, e mais de 5 anos de graduação;
+2\) sargentos: ter, no mínimo, 25 anos de idade, completos, e mais de 5 anos de graduação;
 
-3) outras praças da Marinha (cabos e marinheiros de 1ª classe) : ter, no mínimo, 3 anos completos de graduação ou classe e mais de dez de serviço;
+3\) outras praças da Marinha (cabos e marinheiros de 1ª classe) : ter, no mínimo, 3 anos completos de graduação ou classe e mais de dez de serviço;
 
-4) taifeiros da Marinha e Aeronáutica : ter, no mínimo, 25 anos de idade.
+4\) taifeiros da Marinha e Aeronáutica : ter, no mínimo, 25 anos de idade.
 
 Art. 103. Os aspirantes a oficial do Exército, Aeronáutica e do Corpo de Fuzileiros Navais, os guardas-marinha e os alunos das Escolas Preparatórias de formação de oficiais das Fôrças Armadas, não podem contrair matrimônio.
 

@@ -34,9 +34,9 @@ Art. 2º - O Poder Executivo fica autorizado a desapropriar os imóveis caracter
 
 Art. 3º - Os imóveis públicos discriminados nos ítens deste artigo são desafetados do uso comum do povo, mudado a destinação original e transformados em área patrimonial do Município:
 
-1) Área Pública com metragem a ser calculada, destinados a mercado, com frente para Av. das Mangueiras, situada no loteamento Vila Alzira;
+1\) Área Pública com metragem a ser calculada, destinados a mercado, com frente para Av. das Mangueiras, situada no loteamento Vila Alzira;
 
-2) Uma faixa de terras com 5(cinco) metros de largura e 90(noventa) metros de comprimento, a ser destacado da área da Av. Continental, frente aos lotes nºs. 01 a 07, da quadra n.º 23, do loteamento Goiânia Parque Sul.
+2\) Uma faixa de terras com 5(cinco) metros de largura e 90(noventa) metros de comprimento, a ser destacado da área da Av. Continental, frente aos lotes nºs. 01 a 07, da quadra n.º 23, do loteamento Goiânia Parque Sul.
 
 Parágrafo único – Fica afetada a área destinada ao mercado, como APM-Área Pública Municipal, localizada no loteameno Vila Alzira, neste município, com área de 2.384,00 metros quadrados, sendo de frente 52,00 metros com Avenida Mangueira;pelos fundos 60,00 com os lotes 02 e 01 da quadra 50; pela direita 40,00 metros com a Rua Mandioré, pela esquerda 40,00 metros com a Rua Maracaí, e pelos chanfrados 5,66 metros e 5,66 metros.<br>
 (Redação acrescentada pela Lei Ordinária nº 3.156, de 7 de janeiro de 2014).

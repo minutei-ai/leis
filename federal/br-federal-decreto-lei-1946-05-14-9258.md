@@ -142,13 +142,13 @@ DO CANCELAMENTO E DA EXCLUSÃO
 
 Art. 16. São causas de cancelamento:
 
-1) a infração dos arts. 5º a 10;
+1\) a infração dos arts. 5º a 10;
 
-2) a suspensão ou a perda dos direitos políticos;
+2\) a suspensão ou a perda dos direitos políticos;
 
-3) a pluralidade de inscrição;
+3\) a pluralidade de inscrição;
 
-4) o falecimento do eleitor.
+4\) o falecimento do eleitor.
 
 Parágrafo único. A ocorrência de qualquer das causas enumeradas no artigo anterior acarretará a exclusão do eleitor, que poderá ser promovida ex-officio, a requerimento de delegado de partido ou de qualquer eleitor.
 
@@ -160,13 +160,13 @@ Art. 19. Qualquer irregularidade determinante da exclusão será comunicada por 
 
 Art. 20. O Juiz Eleitoral processará a exclusão pela forma seguinte:
 
-1) mandará autuar a petição ou representação com os documentos que a instruírem;
+1\) mandará autuar a petição ou representação com os documentos que a instruírem;
 
-2) fará publicar edital, com prazo de 10 dias, para ciência dos interessados, que poderão contestar, dentro de cinco dias;
+2\) fará publicar edital, com prazo de 10 dias, para ciência dos interessados, que poderão contestar, dentro de cinco dias;
 
-3) concederá dilação probatória de cinco a dez dias, se requerida;
+3\) concederá dilação probatória de cinco a dez dias, se requerida;
 
-4) remeterá, a seguir, o processo devidamente informado no Tribunal Regional, que decidirá dentro de dez dias.
+4\) remeterá, a seguir, o processo devidamente informado no Tribunal Regional, que decidirá dentro de dez dias.
 
 § 1º Na exclusão promovida por não saber o excluendo ler e escrever, além de quaisquer outras providências de direito, caberá ao juiz eleitoral submetê-lo a exame que constará de cópia de pequeno trecho impresso de livro adotado em curso primário. A prova, datada e assinada pelo examinando e autenticada pelo juiz, será anexada ao respectivo processo.
 
@@ -196,11 +196,11 @@ Art. 24. O Tribunal negará registro ao partido que incidir em qualquer dos impe
 
 Art. 25. Compete aos partidos por seus representantes legais, delegados ou fiscais:
 
-1) examinar, sem perturbação do serviço e em presença dos funcionários designados, todos os documentos relativos ao alistamento, podendo tirar dos mesmos cópias ou fotografias;
+1\) examinar, sem perturbação do serviço e em presença dos funcionários designados, todos os documentos relativos ao alistamento, podendo tirar dos mesmos cópias ou fotografias;
 
-2) fazer alegações e protestos, recorrer, produzir provas e apresentar denúncia contra os infratores da lei eleitoral;
+2\) fazer alegações e protestos, recorrer, produzir provas e apresentar denúncia contra os infratores da lei eleitoral;
 
-3) acompanhar os processos de qualificação e inscrição de eleitores e impugnar, por escrito, qualquer inscrição.
+3\) acompanhar os processos de qualificação e inscrição de eleitores e impugnar, por escrito, qualquer inscrição.
 
 Parágrafo único. Considerar-se-ão delegados de partido os que tiverem autorização para representá-lo permanentemente perante a Justiça Eleitoral.
 

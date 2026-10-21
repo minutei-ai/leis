@@ -310,13 +310,13 @@ Dispõe sobre parcelamento de débitos junto à Secretaria da Receita Federal, �
 
 (Publicada no Diário Oficial da União de 30 de junho de 2006, Seção 1)
 
-1) No art. 14,
+1\) No art. 14,
 
 onde se lê: “... pelos parcelamentos de tratam os arts. ...”
 
 leia-se:       “... pelos parcelamentos de que tratam os arts. ...”
 
-2) No art. 18, na parte referente ao inciso III do § 2o do art. 44 da Lei no 9.430, de 27 de dezembro de 1996,
+2\) No art. 18, na parte referente ao inciso III do § 2o do art. 44 da Lei no 9.430, de 27 de dezembro de 1996,
 
 onde se lê:  “III - apresentar a documentação técnica de que trata o art. 38.
 

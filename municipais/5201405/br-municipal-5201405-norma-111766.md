@@ -18,7 +18,7 @@ b) 50,00 UVFA’s por exercício, em se tratando de pessoa jurídica, e 20 UVFA'
 
 IV - . . . . . . . . . . . . . . . . . . . . . .
 
-1) 20,00 UVFA’s: aos que, sujeitos a escrita fiscal, deixarem de lançar no livro próprio, o imposto devido, ou ainda escriturarem com atraso superior ao permitido, inclusive as declarações eletrônicas de serviços prestados e/ou contratados, ainda que por falta de movimento econômico, aplicável a cada mês;
+1\) 20,00 UVFA’s: aos que, sujeitos a escrita fiscal, deixarem de lançar no livro próprio, o imposto devido, ou ainda escriturarem com atraso superior ao permitido, inclusive as declarações eletrônicas de serviços prestados e/ou contratados, ainda que por falta de movimento econômico, aplicável a cada mês;
 
 . . . . . . . . . . . . . . . . . . . . . . . . . .
 

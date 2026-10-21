@@ -18,13 +18,13 @@ ONDE SE LÊ:
 
 3.2.1.3 - Instituições Estaduais.
 
-7) Fundação Octavio Mangabeira, mediante convênio, para prosseguimento das atividades ao Plano Nacional de Educação - 500.000.000;
+7\) Fundação Octavio Mangabeira, mediante convênio, para prosseguimento das atividades ao Plano Nacional de Educação - 500.000.000;
 
 LEIA\-SE:
 
 3.2.1.5 - Instituições privadas.
 
-33) Fundação Octavio Mangabeira, mediante convênio, para prosseguimento das atividades ligadas ao Plano Nacional de Educação Cr$ 50.000.000.
+33\) Fundação Octavio Mangabeira, mediante convênio, para prosseguimento das atividades ligadas ao Plano Nacional de Educação Cr$ 50.000.000.
 
 ONDE SE LÊ:
 
@@ -32,13 +32,13 @@ ONDE SE LÊ:
 
 3.2.1.2 - Instituições Federais.
 
-2) Escola de Educação Física de Goiás (Decreto nº 43.177-58) - Cr$ 5.000.000.
+2\) Escola de Educação Física de Goiás (Decreto nº 43.177-58) - Cr$ 5.000.000.
 
 LEIA\-SE:
 
 3.2.1.3 - Instituições Estaduais.
 
-8) Escola de Educação Física de Goiás (Decreto nº 43.177-58) - Cr$ 5.000.000.
+8\) Escola de Educação Física de Goiás (Decreto nº 43.177-58) - Cr$ 5.000.000.
 
 4.06.21 - Serviço Nacional do Teatro.
 
@@ -48,17 +48,17 @@ ONDE SE LÊ:
 
 3.2.1.5 - Instituições privadas.
 
-12) Teatro Guaira, Curitiba, Paraná - 10.000.000.
+12\) Teatro Guaira, Curitiba, Paraná - 10.000.000.
 
-17) Teatro Alberto Maranhão, Natal, Rio Grande do Norte - 8.000.000;
+17\) Teatro Alberto Maranhão, Natal, Rio Grande do Norte - 8.000.000;
 
 LEIA\-SE:
 
 3.2.1.3 - Instituições Estaduais.
 
-1) Teatro Guaira, Curitiba, Paraná - Cr$ 10.000.000.
+1\) Teatro Guaira, Curitiba, Paraná - Cr$ 10.000.000.
 
-2) Teatro Alberto Maranhão, Natal, Rio Grande do Norte - Cr$ 8.000.000.
+2\) Teatro Alberto Maranhão, Natal, Rio Grande do Norte - Cr$ 8.000.000.
 
 Adendo “B” Subvenções ordinárias
 

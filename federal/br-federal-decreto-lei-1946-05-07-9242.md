@@ -30,7 +30,7 @@ Subconsignação 02 – Prosseguimento e conclusão de obras iniciadas em exerc�
 
 04 – Divisão de Obras
 
-1) Prosseguimento das obras do Sanatório Miguel Pereira em São Paulo...................3.044.135,00 lI – Decreto-lei número 7.213, de 30 de Dezembro de 1944, artigo 2º, nº 5 (Plano Obras e Equipamentos de 1945).
+1\) Prosseguimento das obras do Sanatório Miguel Pereira em São Paulo...................3.044.135,00 lI – Decreto-lei número 7.213, de 30 de Dezembro de 1944, artigo 2º, nº 5 (Plano Obras e Equipamentos de 1945).
 
 Consignação I – Obras
 

@@ -145,7 +145,7 @@ DAS DISPOSIÇÕES GERAIS
 
 **k)** promover articulações com outras redes sociais e culturais sinérgicas à PECV, bem como instituições de educação e associações;
 
-1) adotar princípios de gestão compartilhada, tanto em relação à gestão dos recursos públicos que faça jus, quanto na relação com os demais integrantes da Rede Estadual da Cultura Viva e com o Estado;
+1\) adotar princípios de gestão compartilhada, tanto em relação à gestão dos recursos públicos que faça jus, quanto na relação com os demais integrantes da Rede Estadual da Cultura Viva e com o Estado;
 
 **m)** fomentar as economias solidárias e criativas;
 

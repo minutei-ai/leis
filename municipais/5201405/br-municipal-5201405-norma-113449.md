@@ -280,9 +280,9 @@ TABELA “A” - VENCIMENTOS
 
 LEGENDA:
 
-1) CLASSE: representada pelos algarismos romanos I, II, III e IV, é a divisão básica da carreira integrada por cargos de idêntica denominação, atribuições, grau de complexidade, nível de responsabilidade, requisitos de capacitação e experiência para o desempenho das atribuições, com variação de 3% da Classe I para a II; de 5% da II para a III; e de 10% da III para a IV.
+1\) CLASSE: representada pelos algarismos romanos I, II, III e IV, é a divisão básica da carreira integrada por cargos de idêntica denominação, atribuições, grau de complexidade, nível de responsabilidade, requisitos de capacitação e experiência para o desempenho das atribuições, com variação de 3% da Classe I para a II; de 5% da II para a III; e de 10% da III para a IV.
 
-2) PADRÃO: representado pelos números “1” a “5” dentro da classe, composto por:
+2\) PADRÃO: representado pelos números “1” a “5” dentro da classe, composto por:
 
 a) vencimento previsto nesta Lei, acrescentado do percentual de acréscimo de 2% (dois por cento) pela variação entre cada padrão, mais:
 
@@ -290,7 +290,7 @@ b) percentual de 9% (aprimoramento de qualificação profissional, mínimo de 36
 
 c) outras vantagens e adicionais a que o Procurador do Município tenha direito.
 
-3) 1I: vencimento inicial, no valor de R$ 11.964,76 (onze mil, novecentos e sessenta e quatro reais e setenta e seis centavos).
+3\) 1I: vencimento inicial, no valor de R$ 11.964,76 (onze mil, novecentos e sessenta e quatro reais e setenta e seis centavos).
 
 ANEXO II
 

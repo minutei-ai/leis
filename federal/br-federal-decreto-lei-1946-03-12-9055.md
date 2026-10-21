@@ -218,71 +218,71 @@ Começa na foz do ribeirão da Prata no rio Miranda, segue por êste abaixo até
 
 Começa no rio Miranda, na foz do rio Nioaque, sobe por êste até a foz  do córrego Jacarezinho, pelo qual sobe até sua nascente, daí continua por uma linha reta até a cabeceira do córrego Laranjeira, desce por êste até sua foz no ribeirão Carandá, desce, por êste até a foz do ribeirão Buriti, daí, prossegue por uma linha reta até a confluência do córrego Espenídio no Ribeirão Taquaruçu, pelo qual sobe até a foz do ribeirão Corumbá, e por êste acima até o paredão da Serra do Amambaí.
 
-3) – Com o Município de Maracaju:
+3\) – Com o Município de Maracaju:
 
 Começa no ribeirão Corumbá no paredão da serra do Amambaí ou Maracaju, segue por êste até o rio Feio.
 
-4) – Com o Município de Ponta Porã:
+4\) – Com o Município de Ponta Porã:
 
 Começa no rio Feio, no paredão da serra do Amambaí, segue por êste paredão até encontrar o rio Miranda.
 
-5) – Com o Município de Bela Vista:
+5\) – Com o Município de Bela Vista:
 
 Começa no paredão da serra do Amambaí, no rio Miranda, por êste abaixo até a foz do rio da Prata.
 
 b) Limites interdistritais
 
-1) – Entre os distritos de Nioaque e Guia Lopes da Laguna:
+1\) – Entre os distritos de Nioaque e Guia Lopes da Laguna:
 
 Começa no rio Miranda, na confluência com o rio Ariranha, segue por êste acima até sua principal nascente, daí continua por uma linha reta até a mais próxima cabeceira do ribeirão Canindezinho, prossegue por êste abaixo até sua barra, no ribeirão Canindé, pelo qual sobe até a barra do ribeiro Buriti, por êste acima até a divisa com os Municípios de Nioaque e Maracaju.
 
-6) – Município de Ponta Porã (Nº 6)
+6\) – Município de Ponta Porã (Nº 6)
 
 a) Limites municipais
 
-1) – Com o Município de Bela Vista :
+1\) – Com o Município de Bela Vista :
 
 Começa na fronteira com a República do Paraguai, na nascente do rio da Estrêla, no paredão da serra do Amambaí, segue por êste paredão até encontrar o rio Miranda.
 
-2) – Com o Município de Nioaque :
+2\) – Com o Município de Nioaque :
 
 Começa no rio Miranda, no paredão da serra do Amambaí, segue por êste paredão até encontrar o rio Feio.
 
-3) – Com o Município de Maracaju:
+3\) – Com o Município de Maracaju:
 
 Começa no paredão da serra Amambaí no rio Feio, por êste rio acima até sua nascente, daí prossegue por uma reta até a nascente do ribeirão Passo Cinco, pelo qual desce até sua barra no rio Santa Maria, continua, descendo por êste até a foz do córrego Cabeceira do Encravado.
 
-4) – Com o Município de Dourados ;
+4\) – Com o Município de Dourados ;
 
 Começa no rio Santa Maria, na foz do córrego Cabeceira do Encravado, sobe por êste até sua nascente, daí prossegue por uma reta à nascente do arroio Guariroba, continua por êste até sua barra no rio Dourados, desce por êste até a foz do arroio Taquara, pelo qual sobe até a barra do córrego Parcola, segue por êste acima até sua nascente, daí continua por uma linha reta até a nascente do córrego Bom Geito, descendo por êle até sua barra no arroio Piratini, pelo qual desce até sua foz no rio Amambaí por êste abaixo até sua foz no rio Paraná.
 
-5) – Com o Território do Iguaçu:
+5\) – Com o Território do Iguaçu:
 
 Começa na foz do rio Amambaí no rio Paraná, segue par êste abaixo até o marco internacional, início com a fronteira com o Paraguai, pouco acima da cachoeira das Sete Quedas.
 
-6) – Com a República do Paraguai :
+6\) – Com a República do Paraguai :
 
 Começa no marco internacional, acima da cachoeira das Sete Quedas no rio Paraná, nos pontos mais altos das serras de Maracaju e Amambaí, segue pela linha de limite internacional, até a nascente do rio Estrêla no paredão da serra do Amambaí.
 
 b) Limites interdistritais
 
-1) – Entre os distritos de Ponta Porã e Bocajá ex-Lagunita:
+1\) – Entre os distritos de Ponta Porã e Bocajá ex-Lagunita:
 
 Começa no rio Amambaí, na foz do rio Guembeperi, sobe por êste até barra do arroio da Ponte, segue por êste acima até sua cabeceira mais setentrional, daí, prossegue por uma linha reta até a cabeceira do mais próximo afluente do arroio Glória, desce por êste afluente até sua barra no referido arroio, daí, continua por uma linha reta até a mais próxima nascente do ribeirão Boa Vista, segue por êste abaixo até sua foz no rio São João pelo qual desce até sua foz no rio Dourados.
 
-2) – Entre os distritos de Ponta Porã e Cabeceira do Apa:
+2\) – Entre os distritos de Ponta Porã e Cabeceira do Apa:
 
 Começa na cabeceira do ribeirão Santa Virgínia, pelo qual desce até sua foz no rio Dourados, continua por êste abaixo até a foz do córrego Guariroba.
 
-3) – Entre os disiritos de Ponta Porã e Antônio João:
+3\) – Entre os disiritos de Ponta Porã e Antônio João:
 
 Começa na mais alta cabeceira do rio Corrente, pelo qual desce até sua barra no rio Amambaí.
 
-4) – Entre os distritos de Ponta Porã e Amambaí ex-Patrimônio União :
+4\) – Entre os distritos de Ponta Porã e Amambaí ex-Patrimônio União :
 
 Começa na barra do rio Correntes no rio Amambaí, segue por êste até a foz do rio Guembeperi no rio Amambaí.
 
-5) – Entre os distritos de Bocajá, ex-Lagunita e Amambaí ex-Patrimônio da União:
+5\) – Entre os distritos de Bocajá, ex-Lagunita e Amambaí ex-Patrimônio da União:
 
 Começa na foz do rio Guembeperi, no rio Amambaí, desce por êste até a foz do arroio Piratini.
 

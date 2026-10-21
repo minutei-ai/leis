@@ -16,9 +16,9 @@ LXXV – para a distribuidora de energia elétrica, o equivalente a até 1% (um 
 
 a) a distribuidora deve celebrar Termo de Acordo de Regime Especial – TARE com a Secretaria de Estado da Economia para tal fim, no qual devem ser definidos:
 
-1) anualmente, o percentual de crédito outorgado a ser aproveitado; e
+1\) anualmente, o percentual de crédito outorgado a ser aproveitado; e
 
-2) a forma e o procedimento para apropriação do crédito; e
+2\) a forma e o procedimento para apropriação do crédito; e
 
 b) ao optar pela presente sistemática, a distribuidora renuncia a qualquer outra forma administrativa ou judicial de restituição do indébito, na forma prevista na legislação tributária, devendo esta opção constar expressamente em TARE.
 

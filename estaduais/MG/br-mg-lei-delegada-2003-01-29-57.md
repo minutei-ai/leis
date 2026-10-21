@@ -100,25 +100,25 @@ I – Órgãos e Entidades:
 
 a) Conselhos Estaduais:
 
-1) Conselho de Industrialização – COIND;
+1\) Conselho de Industrialização – COIND;
 
-2) Conselho de Energia;
+2\) Conselho de Energia;
 
-3) Conselho de Geologia e Mineração;
+3\) Conselho de Geologia e Mineração;
 
 b) Autarquia:
 
-1) Junta Comercial do Estado de Minas Gerais – JUCEMG;
+1\) Junta Comercial do Estado de Minas Gerais – JUCEMG;
 
 c) Empresas:
 
-1) Banco de Desenvolvimento de Minas Gerais – BDMG;
+1\) Banco de Desenvolvimento de Minas Gerais – BDMG;
 
-2) Companhia de Distritos Industriais de Minas Gerais – CDI;
+2\) Companhia de Distritos Industriais de Minas Gerais – CDI;
 
-3) Companhia Energética de Minas Gerais – CEMIG;
+3\) Companhia Energética de Minas Gerais – CEMIG;
 
-4) Companhia Mineradora de Minas Gerais – COMIG;
+4\) Companhia Mineradora de Minas Gerais – COMIG;
 
 (Vide art. 1º da Lei nº 14.892, de 17/12/2003.)
 
@@ -132,27 +132,27 @@ II – Fundos:
 
 a) Como órgão gestor:
 
-1) Fundo de Incentivo à Industrialização – FIND;
+1\) Fundo de Incentivo à Industrialização – FIND;
 
-2) Fundo de Desenvolvimento de Indústrias Estratégicas – FUNDIEST;
+2\) Fundo de Desenvolvimento de Indústrias Estratégicas – FUNDIEST;
 
-3) Fundo de Desenvolvimento Minerometalúrgico – FDMN;
+3\) Fundo de Desenvolvimento Minerometalúrgico – FDMN;
 
 b) No grupo coordenador:
 
-1) Fundo de Assistência ao Turismo;
+1\) Fundo de Assistência ao Turismo;
 
 (Vide art. 4º da Lei nº 15.686, de 20/7/2005.)
 
-2) Fundo de Desenvolvimento Minerometalúrgico – FDMN;
+2\) Fundo de Desenvolvimento Minerometalúrgico – FDMN;
 
-3) Fundo de Incentivo à Industrialização – FIND;
+3\) Fundo de Incentivo à Industrialização – FIND;
 
-4) Fundo de Desenvolvimento de Indústrias Estratégicas – FUNDIEST;
+4\) Fundo de Desenvolvimento de Indústrias Estratégicas – FUNDIEST;
 
-5) Fundo Estadual de Apoio à Indústria Cinematográfica – FEAIC;
+5\) Fundo Estadual de Apoio à Indústria Cinematográfica – FEAIC;
 
-6) Fundo de Fomento e Desenvolvimento Sócio-Econômico do Estado de Minas Gerais – FUNDESE.
+6\) Fundo de Fomento e Desenvolvimento Sócio-Econômico do Estado de Minas Gerais – FUNDESE.
 
 (Vide art. 1º da Lei Delegada nº 87, de 29/1/2004.)
 

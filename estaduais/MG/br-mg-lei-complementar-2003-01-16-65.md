@@ -364,37 +364,37 @@ e) Auditoria Interna;
 
 f) Superintendência de Planejamento, Gestão e Finanças:
 
-1) Diretoria de Planejamento, Orçamento e Modernização Administrativa;
+1\) Diretoria de Planejamento, Orçamento e Modernização Administrativa;
 
-2) Diretoria de Finanças, Pagamento e Contabilidade;
+2\) Diretoria de Finanças, Pagamento e Contabilidade;
 
 g) Superintendência de Recursos Logísticos e Infraestrutura:
 
-1) Diretoria de Transportes e Serviços Gerais;
+1\) Diretoria de Transportes e Serviços Gerais;
 
-2) Diretoria de Infraestrutura e Gestão de Imóveis;
+2\) Diretoria de Infraestrutura e Gestão de Imóveis;
 
-3) Diretoria de Compras e Contratos;
+3\) Diretoria de Compras e Contratos;
 
-4) Diretoria de Patrimônio e Almoxarifado;
+4\) Diretoria de Patrimônio e Almoxarifado;
 
 h) Superintendência de Gestão de Pessoas e Saúde Ocupacional:
 
-1) Diretoria de Pagamentos;
+1\) Diretoria de Pagamentos;
 
-2) Diretoria de Desenvolvimento e Saúde Ocupacional;
+2\) Diretoria de Desenvolvimento e Saúde Ocupacional;
 
-3) Diretoria de Direitos, Vantagens e Aposentadoria;
+3\) Diretoria de Direitos, Vantagens e Aposentadoria;
 
-4) Diretoria de Estágio, Residência e Serviço Voluntário;
+4\) Diretoria de Estágio, Residência e Serviço Voluntário;
 
 i) Superintendência de Tecnologia da Informação:
 
-1) Diretoria de Desenvolvimento de Sistemas e Projetos;
+1\) Diretoria de Desenvolvimento de Sistemas e Projetos;
 
-2) Diretoria de Suporte e Administração de Rede;
+2\) Diretoria de Suporte e Administração de Rede;
 
-3) Diretoria de Informação e Dados;
+3\) Diretoria de Informação e Dados;
 
 V – órgãos auxiliares:
 

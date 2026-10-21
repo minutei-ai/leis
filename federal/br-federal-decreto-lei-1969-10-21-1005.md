@@ -490,37 +490,37 @@ Das marcas não registráveis
 
 Art. 76. Não podem ser registrados como marca de indústria, de comércio e de serviço:
 
-1) brasões, armas, medalhas, emblemas, distintivos e monumentos públicos ou correlatos, nacionais, estrangeiros ou internacionais, bem como as respectivas designações, figuras ou imitações;
+1\) brasões, armas, medalhas, emblemas, distintivos e monumentos públicos ou correlatos, nacionais, estrangeiros ou internacionais, bem como as respectivas designações, figuras ou imitações;
 
-2) letras, algarismos e números, isoladamente, bem como nomes, denominações, sinais, figuras ou símbolos, de uso necessário, comum ou vulgar, quando tiverem relação com os produtos, mercadorias ou serviços a distinguir, salvo quando se revestirem de suficiente forma distintiva;
+2\) letras, algarismos e números, isoladamente, bem como nomes, denominações, sinais, figuras ou símbolos, de uso necessário, comum ou vulgar, quando tiverem relação com os produtos, mercadorias ou serviços a distinguir, salvo quando se revestirem de suficiente forma distintiva;
 
-3) expressões, figuras ou desenhos contrários à moral e aos bons costumes e os que envolvam ofensa individual ou atentem contra cultos religiosos ou idéias e sentimentos dignos de respeito e veneração;
+3\) expressões, figuras ou desenhos contrários à moral e aos bons costumes e os que envolvam ofensa individual ou atentem contra cultos religiosos ou idéias e sentimentos dignos de respeito e veneração;
 
-4) designações e siglas de repartições ou estabelecimentos oficiais, nomes comerciais, títulos de estabelecimento e insígnias, já existentes, que legìtimamente não possa usar o registrante;
+4\) designações e siglas de repartições ou estabelecimentos oficiais, nomes comerciais, títulos de estabelecimento e insígnias, já existentes, que legìtimamente não possa usar o registrante;
 
-5) denominações genéricas ou sua representação gráfica, expressões empregadas comumente para designar gênero, espécie, natureza, origem, nacionalidade, procedência, destino, pêso, medida, valor, qualidade, salvo quando figurarem nas marcas como elementos verídicos e com suficiente forma distintiva;
+5\) denominações genéricas ou sua representação gráfica, expressões empregadas comumente para designar gênero, espécie, natureza, origem, nacionalidade, procedência, destino, pêso, medida, valor, qualidade, salvo quando figurarem nas marcas como elementos verídicos e com suficiente forma distintiva;
 
-6) a côr, o formato e o envoltório dos produtos ou mercadorias, bem como as côres em geral, salvo quando combinadas em conjunto original;
+6\) a côr, o formato e o envoltório dos produtos ou mercadorias, bem como as côres em geral, salvo quando combinadas em conjunto original;
 
-7) nome ou indicação de país, região, localidade ou estabelecimento notòriamente conhecidos como centros de extração, produção ou fabricação do produto, bem como as imitações suscetíveis de confusão, esteja ou não junto a tal nome ou indicação um nome suposto ou alheio;
+7\) nome ou indicação de país, região, localidade ou estabelecimento notòriamente conhecidos como centros de extração, produção ou fabricação do produto, bem como as imitações suscetíveis de confusão, esteja ou não junto a tal nome ou indicação um nome suposto ou alheio;
 
-8) as medalhas de fantasia passíveis de confusão com as concedidas em exposições, feiras ou congressos, ou a título de condecoração;
+8\) as medalhas de fantasia passíveis de confusão com as concedidas em exposições, feiras ou congressos, ou a título de condecoração;
 
-9) o nome civil, ou pseudônimo, e a efígie de terceiros, salvo com expresso consentimento do titular ou de seus sucessores diretos;
+9\) o nome civil, ou pseudônimo, e a efígie de terceiros, salvo com expresso consentimento do titular ou de seus sucessores diretos;
 
-10) os têrmos técnicos usados nas indústrias, nas ciências e nas artes, que tenham relação com os produtos, as mercadorias ou serviços a distinguir;
+10\) os têrmos técnicos usados nas indústrias, nas ciências e nas artes, que tenham relação com os produtos, as mercadorias ou serviços a distinguir;
 
-11) a reprodução ou imitação de cunhos oficiais, regularmente adotados para garantia de metais preciosos, de armas de fogo e de padrões oficiais de qualquer gênero ou natureza;
+11\) a reprodução ou imitação de cunhos oficiais, regularmente adotados para garantia de metais preciosos, de armas de fogo e de padrões oficiais de qualquer gênero ou natureza;
 
-12) os nomes de obras literárias, artísticas ou científicas, de peças teatrais, cinematográficas, ou que possam ser divulgadas por quaisquer meios de comunicação, bem como os desenhos artísticos, impressos por qualquer forma, de que legìtimamente não possa usar o registrante;
+12\) os nomes de obras literárias, artísticas ou científicas, de peças teatrais, cinematográficas, ou que possam ser divulgadas por quaisquer meios de comunicação, bem como os desenhos artísticos, impressos por qualquer forma, de que legìtimamente não possa usar o registrante;
 
-13) a reprodução ou imitação de títulos, apólices, moedas e cédulas da União, dos Estados, dos Territórios, dos Municípios, do Distrito Federal ou de países estrangeiros;
+13\) a reprodução ou imitação de títulos, apólices, moedas e cédulas da União, dos Estados, dos Territórios, dos Municípios, do Distrito Federal ou de países estrangeiros;
 
-14) as denominações simplesmente descritivas dos produtos, mercadorias ou serviços a que se apliquem;
+14\) as denominações simplesmente descritivas dos produtos, mercadorias ou serviços a que se apliquem;
 
-15) a reprodução, no todo, em parte ou com acréscimos, de marca alheia, anteriormente registrada para distinguir produtos, mercadorias ou serviços idênticos, semelhantes ou pertencentes a gênero de indústria, de comércio ou relativo a atividades idênticas ou afins, ou a imitação dessas marcas, que possibilite êrro, dúvida ou confusão, considerando-se existente tal possibilidade sempre que as diferenças entre as marcas não se evidenciem sem exame ou confrontação;
+15\) a reprodução, no todo, em parte ou com acréscimos, de marca alheia, anteriormente registrada para distinguir produtos, mercadorias ou serviços idênticos, semelhantes ou pertencentes a gênero de indústria, de comércio ou relativo a atividades idênticas ou afins, ou a imitação dessas marcas, que possibilite êrro, dúvida ou confusão, considerando-se existente tal possibilidade sempre que as diferenças entre as marcas não se evidenciem sem exame ou confrontação;
 
-16) as marcas constituídas de elementos passíveis de proteção como modêlo ou desenho industrial.
+16\) as marcas constituídas de elementos passíveis de proteção como modêlo ou desenho industrial.
 
 Art. 77. Excetuada a expressão que constitua a marca pròpriamente dita, não poderá esta ser registrada quando destinada a produtos e mercadorias ou serviços nacionais, para consumo ou uso no País, se contiver dizeres ou indicações em língua estrangeira.
 
@@ -564,9 +564,9 @@ Parágrafo único. O disposto neste artigo não se aplica aos nomes de lugares q
 
 Art. 85. Não será considerada falsa indicação de proveniência:
 
-1) a utilização de nome geográfico que se houver tornado comum para designar natureza ou gênero de mercadoria ou artigo, exceto tratando-se de produtos vinícolas;
+1\) a utilização de nome geográfico que se houver tornado comum para designar natureza ou gênero de mercadoria ou artigo, exceto tratando-se de produtos vinícolas;
 
-2) a utilização de nome de localidade da sede ou do estabelecimento principal na denominação de filial, sucursal, agência ou representação, desde que autorizado o seu uso e feita a referência correspondente.
+2\) a utilização de nome de localidade da sede ou do estabelecimento principal na denominação de filial, sucursal, agência ou representação, desde que autorizado o seu uso e feita a referência correspondente.
 
 CAPÍTULO II
 
@@ -586,15 +586,15 @@ Dos títulos de estabelecimento registráveis
 
 Art. 88. São registráveis como título de estabelecimento:
 
-1) as denominações de fantasia ou as necessárias, desde que apresentem suficiente cunho distintivo;
+1\) as denominações de fantasia ou as necessárias, desde que apresentem suficiente cunho distintivo;
 
-2) os nomes ou pseudônimos dos industriais, comerciantes ou agricultores, por extenso ou abreviados;
+2\) os nomes ou pseudônimos dos industriais, comerciantes ou agricultores, por extenso ou abreviados;
 
-3) os nomes que, embora não correspondam ao do proprietário do estabelecimento, por êle possam ser legìtimamente usados;
+3\) os nomes que, embora não correspondam ao do proprietário do estabelecimento, por êle possam ser legìtimamente usados;
 
-4) as designações de imóveis destinados a exploração de qualquer atividade lícita;
+4\) as designações de imóveis destinados a exploração de qualquer atividade lícita;
 
-5) os nomes dos antecessores, desde que usados legìtimamente.
+5\) os nomes dos antecessores, desde que usados legìtimamente.
 
 Art. 89. O título de estabelecimento, consistente em nome comercial, só poderá ser registrado mediante juntada, quando da apresentação do pedido, de certidão de arquivamento ou registro dos atos constitutivos da entidade titular no Registro do Comércio competente.
 
@@ -606,19 +606,19 @@ Dos títulos de estabelecimento não registráveis
 
 Art. 91. Não podem ser registrados como título de estabelecimento:
 
-1) as expressões “antigo armazém...“, “antiga fábrica...”, “sucursal”, “filial”, “depósito” e outras equivalentes, a menos que o requerente comprove o direito de usá-las;
+1\) as expressões “antigo armazém...“, “antiga fábrica...”, “sucursal”, “filial”, “depósito” e outras equivalentes, a menos que o requerente comprove o direito de usá-las;
 
-2) as indicações “antigo empregado...“, “antigo chefe...”, “antigo gerente...“ ou outras equivalentes, sem expressa licença da firma ou do estabelecimento a que se referirem;
+2\) as indicações “antigo empregado...“, “antigo chefe...”, “antigo gerente...“ ou outras equivalentes, sem expressa licença da firma ou do estabelecimento a que se referirem;
 
-3) as palavras “sucessor de...“, ou “sucessores de...”, salvo se o interessado comprovar o direito de usá-las;
+3\) as palavras “sucessor de...“, ou “sucessores de...”, salvo se o interessado comprovar o direito de usá-las;
 
-4) a declaração “representante de...“, sem licença expressa da pessoa a que se referir;
+4\) a declaração “representante de...“, sem licença expressa da pessoa a que se referir;
 
-5) a denominação que não se distinga suficientemente de outra já registrada como marca de terceiro, para o mesmo gênero de negócio ou atividade;
+5\) a denominação que não se distinga suficientemente de outra já registrada como marca de terceiro, para o mesmo gênero de negócio ou atividade;
 
-6) a denominação que constitua imitação ou reprodução de outra anteriormente registrada como título de estabelecimento pertencente a emprêsa situada no mesmo município, de propriedade de terceiro e destinada a exploração de gêneros de negócio ou atividades idênticos ou semelhantes;
+6\) a denominação que constitua imitação ou reprodução de outra anteriormente registrada como título de estabelecimento pertencente a emprêsa situada no mesmo município, de propriedade de terceiro e destinada a exploração de gêneros de negócio ou atividades idênticos ou semelhantes;
 
-7) os títulos que incidirem nos mesmos impedimentos de marcas de indústria, de comércio ou de serviço.
+7\) os títulos que incidirem nos mesmos impedimentos de marcas de indústria, de comércio ou de serviço.
 
 CAPÍTULO III
 
@@ -644,17 +644,17 @@ Das expressões ou sinais de propaganda não registráveis
 
 Art. 95. Não podem ser registrados como expressões ou sinais de propaganda:
 
-1) palavras ou combinações de palavras ou frase exclusivamente descritivas das qualidades dos artigos ou atividades;
+1\) palavras ou combinações de palavras ou frase exclusivamente descritivas das qualidades dos artigos ou atividades;
 
-2) cartazes, tabuletas, anúncios ou reclames que não apresentem cunho de originalidade ou que sejam conhecidos e usados pùblicamente em relação a outros artigos ou serviços por terceiros;
+2\) cartazes, tabuletas, anúncios ou reclames que não apresentem cunho de originalidade ou que sejam conhecidos e usados pùblicamente em relação a outros artigos ou serviços por terceiros;
 
-3) anúncios, reclames, frases ou palavras contrárias à moral, ou que contenham ofensas ou alusões individuais, ou atentem contra idéias, religiões ou sentimentos veneráveis;
+3\) anúncios, reclames, frases ou palavras contrárias à moral, ou que contenham ofensas ou alusões individuais, ou atentem contra idéias, religiões ou sentimentos veneráveis;
 
-4) todo cartaz, anúncio ou reclame que inclua marca, título de estabelecimento, insignia, nome de emprêsa ou recompensa, dos quais legìtimamente não possa usar o registrante;
+4\) todo cartaz, anúncio ou reclame que inclua marca, título de estabelecimento, insignia, nome de emprêsa ou recompensa, dos quais legìtimamente não possa usar o registrante;
 
-5) palavras, frases, cartazes, anúncios, reclames ou dísticos que já tenham sido registrados por terceiros ou sejam capazes de originar êrro ou confusão com tais anterioridades;
+5\) palavras, frases, cartazes, anúncios, reclames ou dísticos que já tenham sido registrados por terceiros ou sejam capazes de originar êrro ou confusão com tais anterioridades;
 
-6) o que estiver compreendido em quaisquer das proibições concernentes ao registro de marcas.
+6\) o que estiver compreendido em quaisquer das proibições concernentes ao registro de marcas.
 
 CAPÍTULO IV
 
@@ -706,11 +706,11 @@ Art. 99. Lavrado o têrmo de depósito, o processo será submetido a exame forma
 
 § 6º Por ocasião do exame técnico do pedido de registro observar-se-á o seguinte:
 
-1) a precedência do dia e hora da lavratura do têrmo de depósito estabelece prioridade em favor do requerente;
+1\) a precedência do dia e hora da lavratura do têrmo de depósito estabelece prioridade em favor do requerente;
 
-2) no caso de simultaneidade de apresentação de pedidos referentes a marcas, títulos de estabelecimento e expressões ou sinais de propaganda, idênticos ou semelhantes, a prioridade pertencerá àquele que provar uso mais antigo dentro de noventa dias da data da publicação do clichê;
+2\) no caso de simultaneidade de apresentação de pedidos referentes a marcas, títulos de estabelecimento e expressões ou sinais de propaganda, idênticos ou semelhantes, a prioridade pertencerá àquele que provar uso mais antigo dentro de noventa dias da data da publicação do clichê;
 
-3) no caso do item anterior, se houver dúvida sôbre o uso precedente de marca, título de estabelecimento e expressão ou sinal de propaganda, o Diretor-Geral do Departamento Nacional da Propriedade Industrial sustará o prosseguimento do processo até solução final, em juízo, da questão da prioridade.
+3\) no caso do item anterior, se houver dúvida sôbre o uso precedente de marca, título de estabelecimento e expressão ou sinal de propaganda, o Diretor-Geral do Departamento Nacional da Propriedade Industrial sustará o prosseguimento do processo até solução final, em juízo, da questão da prioridade.
 
 Art. 100. Por ocasião do exame técnico preliminar será verificado, desde logo, se o pedido infringe os artigos 76, 77, 91 e 95 dêste Código, se há anterioridade e se está tècnicamente definido, a fim de se apurar a viabilidade de registro.
 
@@ -824,9 +824,9 @@ DA EXTINÇÃO E DA CADUCIDADE DOS REGISTROS
 
 Art. 119. Os registros de marca de indústria, de comércio ou de serviço, de título de estabelecimento e de expressão ou sinal de propaganda extinguem-se:
 
-1) expirado o prazo de vigência, deixando o titular de requerer a prorrogação, na forma estabelecida nêste Código;
+1\) expirado o prazo de vigência, deixando o titular de requerer a prorrogação, na forma estabelecida nêste Código;
 
-2) se o respectivo titular ou seus sucessores a êle renunciarem expressamente, mediante documento hábil.
+2\) se o respectivo titular ou seus sucessores a êle renunciarem expressamente, mediante documento hábil.
 
 Art. 120. Caducará o registro, de marca, titulo de estabelecimento e expressão ou sinal de propaganda, se qualquer pessoa, com legítimo interêsse, provar perante o Departamento Nacional da Propriedade Industrial que o respectivo titular, ou seu sucessor, salvo motivo de fôrça maior comprovado, deixou de usá-lo durante dois anos consecutivos, tanto no primeiro prazo de proteção legal, como no das sucessivas prorrogações.
 

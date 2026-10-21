@@ -52,11 +52,11 @@ p) importâncias comprovadamente aplicadas, no transcurso do ano-base, em flores
 
 § 2º O Conselho Monetário Nacional regulamentará os limites e as condições a serem observados para utilização do benefício fiscal previsto na alínea "n" deste artigo, respeitadas as seguintes disposições:
 
-1) o beneficiário somente poderá possuir ações que representem até o máximo de 0,5% (meio por cento) do capital social da sociedade emissora;
+1\) o beneficiário somente poderá possuir ações que representem até o máximo de 0,5% (meio por cento) do capital social da sociedade emissora;
 
-2) instituição de valor máximo de aplicação, para efeito de utilização do benefício fiscal;
+2\) instituição de valor máximo de aplicação, para efeito de utilização do benefício fiscal;
 
-3) autorização para movimentação da carteira de títulos incentivados, desde que o produto de qualquer alienação eventual seja mantido em aplicações no mercado de ações, durante o período de indisponibilidade ou de custódia dos investimentos.
+3\) autorização para movimentação da carteira de títulos incentivados, desde que o produto de qualquer alienação eventual seja mantido em aplicações no mercado de ações, durante o período de indisponibilidade ou de custódia dos investimentos.
 
 § 3º As reduções do imposto de que trata este artigo ficam sujeitas a comprovação, que se fará - quando exigida pelos órgãos da Secretaria da Receita Federal - mediante apresentação de documento contendo os elementos indispensáveis à identificação do investimento e do investidor, fornecido ao contribuinte pelas sociedades emissoras dos papéis ou, conforme o caso, pelas instituições financeiras intervenientes.
 

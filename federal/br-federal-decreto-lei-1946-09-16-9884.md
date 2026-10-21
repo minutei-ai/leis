@@ -24,18 +24,18 @@ Edmundo de Macedo Soares e Silva. 
 
 Entre o Govêrno Federal representado neste ato pelo Ministro de Estado da Viação e Obras Públicas nos têrmos do Decreto-lei nº 9.884, de 16 de setembro de 1946, e o Govêrno do Estado do Rio Grande do Sul, ora denominado simplesmente Estado, neste ato representado pelo Chefe da Comissão Estadual de Energia Elétrica, fica ajustado o presente convênio, destinado a regulamentar a execução das obras de regularização de regime e derivação das águas de rios, relacionadas com o plano de eletrificação do Estado, nos têrmos das cláusulas e condições seguintes:
 
-1) – As obras a executar deverão constar do projetos prèviamente aprovados pelo Govêrno Federal, na ordem que mais interessar ao plano de ele trificação do Estado, aprovado pelo Decreto nº 18.318, de 6 de abril de 1945.
+1\) – As obras a executar deverão constar do projetos prèviamente aprovados pelo Govêrno Federal, na ordem que mais interessar ao plano de ele trificação do Estado, aprovado pelo Decreto nº 18.318, de 6 de abril de 1945.
 
-2) – Fica o Estado obrigado a fornecer ao Ministério da Viação e Obras Públicas os projetos de que trata êste convênio.
+2\) – Fica o Estado obrigado a fornecer ao Ministério da Viação e Obras Públicas os projetos de que trata êste convênio.
 
-3) – Qualquer alteração dos projetos, após a sua entrega ao Ministério da Viação e Obras Públicas, só poderá ser feita de comum acôrdo entre o Estado e o referido Ministério
+3\) – Qualquer alteração dos projetos, após a sua entrega ao Ministério da Viação e Obras Públicas, só poderá ser feita de comum acôrdo entre o Estado e o referido Ministério
 
-4) – O Govêrno Federal dispendirá com os trabalhos objetos do presente convênio e com os equipamentos necessários à sua execução, durante os próximos cinco anos, a partir de 1947, a soma de Cr$ 125.000.000,00 (cento e vinte e cinco milhões de cruzeiros), em parcelas anuais de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros), cujos saldos passarão para os exercícios seguintes.
+4\) – O Govêrno Federal dispendirá com os trabalhos objetos do presente convênio e com os equipamentos necessários à sua execução, durante os próximos cinco anos, a partir de 1947, a soma de Cr$ 125.000.000,00 (cento e vinte e cinco milhões de cruzeiros), em parcelas anuais de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros), cujos saldos passarão para os exercícios seguintes.
 
-5) – Fica estabelecido que a execução das obras de que tratam o presente convênio, excluídas as já iniciadas pelo Departamento Nacional de Obras de Saneamento, será atribuída ao Estado, mediante condições definidas em acôrdos especiais, e sob a fiscalização do referido Departamento.
+5\) – Fica estabelecido que a execução das obras de que tratam o presente convênio, excluídas as já iniciadas pelo Departamento Nacional de Obras de Saneamento, será atribuída ao Estado, mediante condições definidas em acôrdos especiais, e sob a fiscalização do referido Departamento.
 
-6) – As obras que o Departamento Nacional de Obras de Saneamento já tiver iniciado, relacionadas com o plano de eletrificação do Estado, poderão ser incluídas nos têrmos do presente convênio, ressalvados os direitos de terceiros.
+6\) – As obras que o Departamento Nacional de Obras de Saneamento já tiver iniciado, relacionadas com o plano de eletrificação do Estado, poderão ser incluídas nos têrmos do presente convênio, ressalvados os direitos de terceiros.
 
-7) – Tôdas as obras acabadas passarão imediatamente ao uso e conservação do Estado, não podendo ser computado, em qualquer hipótese, o valor das mesmas, no estabelecimento de tarifas de serviços de utilidade pública.
+7\) – Tôdas as obras acabadas passarão imediatamente ao uso e conservação do Estado, não podendo ser computado, em qualquer hipótese, o valor das mesmas, no estabelecimento de tarifas de serviços de utilidade pública.
 
 Edmundo de Macedo Soares e Silva.

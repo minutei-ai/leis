@@ -34,9 +34,9 @@ III - certidão negativa de débito em fase de cobrança amigável subsequente �
 
 a) dos tributos devidos, acrescidos de encargos financeiro de valor equivalente:
 
-1) ao do veículo; ou
+1\) ao do veículo; ou
 
-2) ao dos tributos, no caso de bem de capital; 
+2\) ao dos tributos, no caso de bem de capital; 
 
 b) da taxa de armazenagem, quando for o caso. 
 

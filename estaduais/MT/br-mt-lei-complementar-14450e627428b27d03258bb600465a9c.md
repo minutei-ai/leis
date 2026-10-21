@@ -483,17 +483,17 @@ Instada a manifestar-se, a Secretaria de Estado de Fazenda opinou pelo veto parc
 <br>
 \- **Artigos 16 e 17:**
 
-1) Inconstitucionalidade formal por ampliar benefício fiscal que resulta em ônus aos cofres públicos, sem, contudo, apresentar a respectiva estimativa do impacto orçamentário financeiro e demonstrar a compatibilidade da norma com a legislação orçamentária. Violação ao artigo 113 do ADCT/CRFB, ao artigo 167, inciso I, da CRFB/88, ao artigo 165, inciso I, da Constituição Estadual, ao artigo 16 da LC _(federal)_ n° 101/2000 e ao artigo 15 da LC _(estadual)_ n° 614/2019.
+1\) Inconstitucionalidade formal por ampliar benefício fiscal que resulta em ônus aos cofres públicos, sem, contudo, apresentar a respectiva estimativa do impacto orçamentário financeiro e demonstrar a compatibilidade da norma com a legislação orçamentária. Violação ao artigo 113 do ADCT/CRFB, ao artigo 167, inciso I, da CRFB/88, ao artigo 165, inciso I, da Constituição Estadual, ao artigo 16 da LC _(federal)_ n° 101/2000 e ao artigo 15 da LC _(estadual)_ n° 614/2019.
 
-2) Inconstitucionalidade formal por ampliar benefício reinstituído ao amparo da Lei Complementar _(federal)_ n° 160/2017 e do Convênio ICMS 190, sem observância do disposto no artigo 155, § 2°, inciso XII, alínea _g_, da CRFB/88 e da Lei Complementar _(federal)_ n° 24/1975.
+2\) Inconstitucionalidade formal por ampliar benefício reinstituído ao amparo da Lei Complementar _(federal)_ n° 160/2017 e do Convênio ICMS 190, sem observância do disposto no artigo 155, § 2°, inciso XII, alínea _g_, da CRFB/88 e da Lei Complementar _(federal)_ n° 24/1975.
 
-3) Ilegalidade por ampliar benefício reinstituído ao amparo da Lei Complementar _(federal)_ n° 160/2017 e do Convênio ICMS 190/2017, contrariando o disposto no artigo 3°, §§ 4° e 5°, da referida LC n° 160/2017 e na cláusula décima, § 3°, incisos I e II, do mencionado Convênio ICMS 190/2017.<br>
+3\) Ilegalidade por ampliar benefício reinstituído ao amparo da Lei Complementar _(federal)_ n° 160/2017 e do Convênio ICMS 190/2017, contrariando o disposto no artigo 3°, §§ 4° e 5°, da referida LC n° 160/2017 e na cláusula décima, § 3°, incisos I e II, do mencionado Convênio ICMS 190/2017.<br>
 <br>
 \- **Artigo 22, com seu inciso I:**
 
-1) Inconstitucionalidade formal por invadir competência legislativa da União, ao pretender disciplinar base de cálculo de ITCD, contrariando o estatuído no artigo 146, inciso III, alínea _a_, da CRFB/88.
+1\) Inconstitucionalidade formal por invadir competência legislativa da União, ao pretender disciplinar base de cálculo de ITCD, contrariando o estatuído no artigo 146, inciso III, alínea _a_, da CRFB/88.
 
-2) Ilegalidade por definir base de cálculo do ITCD, mediante modificação de conceito do direito privado, infringindo o disposto nos artigos 38 e 110 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), em desacordo com a jurisprudência do Superior Tributal de Justiça.<br>
+2\) Ilegalidade por definir base de cálculo do ITCD, mediante modificação de conceito do direito privado, infringindo o disposto nos artigos 38 e 110 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), em desacordo com a jurisprudência do Superior Tributal de Justiça.<br>
 <br>
 Essas, Senhor Presidente, são as razões que me levaram a **vetar** **parcialmente** o **Projeto Complementar de Lei nº 26**/**2024**, as quais ora submeto à apreciação dos membros dessa Casa de Leis.<br>
 <br>

@@ -34,25 +34,25 @@ Parágrafo único. A execução da política nacional de viação ferroviária a
 
 Art. 2º Ao Departamento Nacional de Estradas de Ferro, autarquia federal vinculada ao Ministério dos Transportes, com autonomia administrativa e financeira, constituída pela Lei nº 4.102, de 20 de julho de 1962, compete:
 
-1) assistir o Ministro dos Transportes na formulação da política de viação ferroviária e na fiscalização de sua execução;
+1\) assistir o Ministro dos Transportes na formulação da política de viação ferroviária e na fiscalização de sua execução;
 
-2) zelar pela exata observância da parte ferroviária do Plano Nacional de Viação, promovendo as revisões periódicas necessárias e acompanhando a sua execução;
+2\) zelar pela exata observância da parte ferroviária do Plano Nacional de Viação, promovendo as revisões periódicas necessárias e acompanhando a sua execução;
 
-3) zelar para que sejam observadas as especificações gerais de ordem técnica, decorrentes do Plano Nacional de Viação, bem como as que se referirem a material fixo e rodante, visando a sua adequação, segurança e padronização;
+3\) zelar para que sejam observadas as especificações gerais de ordem técnica, decorrentes do Plano Nacional de Viação, bem como as que se referirem a material fixo e rodante, visando a sua adequação, segurança e padronização;
 
-4) zelar pelo fiel cumprimento, por parte das emprêsas ferroviárias, dos contratos de concessão ou outros de interêsse federal e de todos os dispositivos legais e regulamentares emanados do Govêrno Federal, especialmente, os que regulam a constituição das emprêsas ferroviárias, a responsabilidade civil das Estradas de Ferro e sua segurança, polícia e tráfego alem do Regulamento Geral dos Transportes e do Código Brasileiro de Sinalização;
+4\) zelar pelo fiel cumprimento, por parte das emprêsas ferroviárias, dos contratos de concessão ou outros de interêsse federal e de todos os dispositivos legais e regulamentares emanados do Govêrno Federal, especialmente, os que regulam a constituição das emprêsas ferroviárias, a responsabilidade civil das Estradas de Ferro e sua segurança, polícia e tráfego alem do Regulamento Geral dos Transportes e do Código Brasileiro de Sinalização;
 
-5) realizar, em coordenação com emprêsas ferroviárias interessadas, diretamente ou por meio de contratos com entidades especializadas, pesquisas, inquéritos, estudos e planejamentos destinados ao aperfeiçoamento das linhas férreas e dos transportes ferroviários;
+5\) realizar, em coordenação com emprêsas ferroviárias interessadas, diretamente ou por meio de contratos com entidades especializadas, pesquisas, inquéritos, estudos e planejamentos destinados ao aperfeiçoamento das linhas férreas e dos transportes ferroviários;
 
-6) organizar a estatística ferroviária do País, atendida a competência do serviço de Estatística da Secretaria Geral do Ministério dos Transportes, a fim de adaptá-la às normas gerais para o sistema nacional de transportes, dentro da melhor técnica e de forma completa, colhendo, para êsse fim, os elementos que julgar conveniente, nas diversas fontes e, especialmente, junto às administrações ferroviárias que, para tanto, ficam obrigadas a fornecer, segundo normas e prazos determinados pelo Departamento, todos os dados pelo mesmo solicitados;
+6\) organizar a estatística ferroviária do País, atendida a competência do serviço de Estatística da Secretaria Geral do Ministério dos Transportes, a fim de adaptá-la às normas gerais para o sistema nacional de transportes, dentro da melhor técnica e de forma completa, colhendo, para êsse fim, os elementos que julgar conveniente, nas diversas fontes e, especialmente, junto às administrações ferroviárias que, para tanto, ficam obrigadas a fornecer, segundo normas e prazos determinados pelo Departamento, todos os dados pelo mesmo solicitados;
 
-7) estudar as propostas de alteração dos tetos tarifários do transporte ferroviário;
+7\) estudar as propostas de alteração dos tetos tarifários do transporte ferroviário;
 
-8) preceder à fiscalização tarifária das emprêsas ferroviárias, respeitados os ajustes necessários ao incremento do convênio de transportes;
+8\) preceder à fiscalização tarifária das emprêsas ferroviárias, respeitados os ajustes necessários ao incremento do convênio de transportes;
 
-9) realizar estudos sôbre a paralisação de tráfego e a erradicação de trechos e ramais ferroviários antieconômicos para final aprovação do Ministro dos Transportes;
+9\) realizar estudos sôbre a paralisação de tráfego e a erradicação de trechos e ramais ferroviários antieconômicos para final aprovação do Ministro dos Transportes;
 
-10) manifestar-se, prèviamente, sôbre os planos e programas de investimentos das emprêsas ferroviárias que devam ser aprovados pelo Govêrno.
+10\) manifestar-se, prèviamente, sôbre os planos e programas de investimentos das emprêsas ferroviárias que devam ser aprovados pelo Govêrno.
 
 Art. 3º A receita do Departamento Nacional de Estradas de Ferro será formada de:
 

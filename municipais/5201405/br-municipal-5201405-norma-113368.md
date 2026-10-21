@@ -22,7 +22,7 @@ C – A alínea 10 do artigo 34, passa a ter a seguinte redação:
 
 D – A alinea 12 do Artigo 34, passa a ter a seguinte redação:
 
-12) sobrepor ao uniforme comenda ou condecoração”.
+12\) sobrepor ao uniforme comenda ou condecoração”.
 
 E – A alinea 12 do inciso III do artigo 35 passa a ter a seguinte redação:
 

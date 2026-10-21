@@ -88,17 +88,17 @@ d) eleger o seu representante no Conselho de Curadores.
 
 Art. 12. Constituem o Conselho de Curadores :
 
-1) o Reitor da Universidade, como presidente ;
+1\) o Reitor da Universidade, como presidente ;
 
-2) dois representantes do Conselho Universitário ;
+2\) dois representantes do Conselho Universitário ;
 
-3) um professor catedrático representante da Assembléia Universitária ;
+3\) um professor catedrático representante da Assembléia Universitária ;
 
-4) um representante da associação de antigos alunos da Universidade;
+4\) um representante da associação de antigos alunos da Universidade;
 
-5) um representante das pessoas físicas ou jurídicas que tenham feito doações à Universidade;
+5\) um representante das pessoas físicas ou jurídicas que tenham feito doações à Universidade;
 
-6) um representante do Ministro da Educação e Saúde.
+6\) um representante do Ministro da Educação e Saúde.
 
 Art. 13. São atribuições do Conselho de Curadores:
 
@@ -122,19 +122,19 @@ i) autorizar a abertura de créditos especiais ou suplementares.
 
 Art. 14. Constituem o Conselho Universitário:
 
-1) o Reitor, como presidente;
+1\) o Reitor, como presidente;
 
-2) os diretores de cada uma das unidades universitárias, de ensino superior;
+2\) os diretores de cada uma das unidades universitárias, de ensino superior;
 
-3) um representante de cada uma das congregações das mesmas unidades;
+3\) um representante de cada uma das congregações das mesmas unidades;
 
-4) um representante dos docentes-livres, eleito pelos seus representantes junto às congregações, em sessão convocada e presidida pelo Reitor;
+4\) um representante dos docentes-livres, eleito pelos seus representantes junto às congregações, em sessão convocada e presidida pelo Reitor;
 
-5) um representante dos corpos docentes de cada uma das escolas anexas de Odontologia e Farmácia;
+5\) um representante dos corpos docentes de cada uma das escolas anexas de Odontologia e Farmácia;
 
-6) um representante do diretório central dos estudantes;
+6\) um representante do diretório central dos estudantes;
 
-7) um representante dos institutos técnico-científicos da Universidade.
+7\) um representante dos institutos técnico-científicos da Universidade.
 
 Art. 15. Ao Conselho Universitário compete:
 

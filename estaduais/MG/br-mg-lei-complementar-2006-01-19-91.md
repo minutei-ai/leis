@@ -228,9 +228,9 @@ d) a promoção da alienação de bens recebidos em pagamento e a transferência
 
 e) o oferecimento em caução dos direitos creditórios do fundo para garantir empréstimos e outras operações a serem contratadas com instituições nacionais e internacionais, observadas as seguintes condições:
 
-1) autorização prévia do grupo coordenador do fundo;
+1\) autorização prévia do grupo coordenador do fundo;
 
-2) destinação de recursos oriundos dos empréstimos à implantação de programa ou projeto voltados para os objetivos do fundo.
+2\) destinação de recursos oriundos dos empréstimos à implantação de programa ou projeto voltados para os objetivos do fundo.
 
 § 1º – Os gastos decorrentes de convênio ou contrato de que trata o inciso I do caput deste artigo poderão ser custeados, total ou parcialmente, com recursos do fundo, sem prejuízo das aplicações programadas para o período.
 

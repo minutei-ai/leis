@@ -70,11 +70,11 @@ IV – (...)
 
 a) respeitados os períodos mínimos previstos nas alíneas “b” e “c” do inciso V:
 
-1) pela cessação da invalidez, no caso de beneficiário inválido;
+1\) pela cessação da invalidez, no caso de beneficiário inválido;
 
-2) pelo afastamento da deficiência, no caso de beneficiário com deficiência;
+2\) pelo afastamento da deficiência, no caso de beneficiário com deficiência;
 
-3) pelo levantamento da interdição, no caso de beneficiário com deficiência intelectual ou mental que o torne absoluta ou relativamente incapaz;
+3\) pelo levantamento da interdição, no caso de beneficiário com deficiência intelectual ou mental que o torne absoluta ou relativamente incapaz;
 
 (...)
 
@@ -88,17 +88,17 @@ b) pelo decurso de quatro meses, se o óbito do servidor ocorrer sem que este te
 
 c) pelo decurso dos seguintes períodos, estabelecidos de acordo com a idade do dependente na data de óbito do servidor, depois de efetuadas dezoito contribuições mensais e pelo menos dois anos após o início do casamento ou da união estável:
 
-1) três anos, se o dependente tiver menos de vinte e um anos de idade;
+1\) três anos, se o dependente tiver menos de vinte e um anos de idade;
 
-2) seis anos, se o dependente tiver entre vinte e um e vinte e seis anos de idade;
+2\) seis anos, se o dependente tiver entre vinte e um e vinte e seis anos de idade;
 
-3) dez anos, se o dependente tiver entre vinte e sete e vinte e nove anos de idade;
+3\) dez anos, se o dependente tiver entre vinte e sete e vinte e nove anos de idade;
 
-4) quinze anos, se o dependente tiver entre trinta e quarenta anos de idade;
+4\) quinze anos, se o dependente tiver entre trinta e quarenta anos de idade;
 
-5) vinte anos, se o dependente tiver entre quarenta e um e quarenta e três anos de idade;
+5\) vinte anos, se o dependente tiver entre quarenta e um e quarenta e três anos de idade;
 
-6) vitalícia, se o dependente tiver quarenta e quatro anos de idade ou mais;
+6\) vitalícia, se o dependente tiver quarenta e quatro anos de idade ou mais;
 
 VI – para o filho de família monoparental que tenha o segurado como única fonte de renda:
 

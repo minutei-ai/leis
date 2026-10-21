@@ -244,9 +244,9 @@ Art. 39. A EMBRATUR poderá solicitar à Diretoria do Patrimônio Histórico e A
 
 Art. 40. É o Poder Executivo autorizado a abrir, no Ministério da Indústria e do Comércio, um crédito especial de Cr$ 12.000.000.000 (doze bilhões de cruzeiros), a ser aplicado da seguinte forma:
 
-1) Cr$ 10.000.000.000 (dez bilhões de cruzeiros) para constituir os recursos de que trata a alínea a do artigo 12 dêste Decreto-lei;
+1\) Cr$ 10.000.000.000 (dez bilhões de cruzeiros) para constituir os recursos de que trata a alínea a do artigo 12 dêste Decreto-lei;
 
-2) Cr$ 2.000.000.000 (dois bilhões de cruzeiros) destinados a cobrir despesas de instalação, de manutenção e de operações da EMBRATUR e do Conselho Nacional de Turismo.
+2\) Cr$ 2.000.000.000 (dois bilhões de cruzeiros) destinados a cobrir despesas de instalação, de manutenção e de operações da EMBRATUR e do Conselho Nacional de Turismo.
 
 Art. 41. O crédito especial de que trata o artigo 40, terá vigência no exercício de 1967, e será automàticamente registrado no Tribunal de Contas e distribuído ao Tesouro Nacional.
 

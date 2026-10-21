@@ -28,19 +28,19 @@ Art. 3º A partir do exercício financeiro de 1974, será facultado às pessoas 
 
 a) do ativo realizável:
 
-1) os valores ou créditos em moeda estrangeira;
+1\) os valores ou créditos em moeda estrangeira;
 
-2) as ações, quotas e quaisquer títulos, correspondentes à participação societária em outras empresas;
+2\) as ações, quotas e quaisquer títulos, correspondentes à participação societária em outras empresas;
 
-3) o saldo não integralizado do capital social;
+3\) o saldo não integralizado do capital social;
 
-4) o saldo das contas que, por quaisquer motivo, forem objeto de correção do Ativo Imobilizado.
+4\) o saldo das contas que, por quaisquer motivo, forem objeto de correção do Ativo Imobilizado.
 
 b) do passivo exigível:
 
-1) o saldo das obrigações em moeda estrangeira, contraídas para aquisição de bens do ativo imobilizado que forem objeto de correção monetária;
+1\) o saldo das obrigações em moeda estrangeira, contraídas para aquisição de bens do ativo imobilizado que forem objeto de correção monetária;
 
-2) o saldo das obrigações em moeda nacional, sujeitas à correção monetária ou indexadas, quando vinculadas à aquisição de bens do ativo imobilizado que forem objeto de correção monetária.
+2\) o saldo das obrigações em moeda nacional, sujeitas à correção monetária ou indexadas, quando vinculadas à aquisição de bens do ativo imobilizado que forem objeto de correção monetária.
 
 § 2º O montante da manutenção do capital de giro próprio será determinado pela aplicação sobre o capital de giro próprio da empresa, no início do exercício, dos coeficientes utilizados para a correção monetária das Obrigações Reajustáveis do Tesouro Nacional.
 

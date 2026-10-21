@@ -22,7 +22,7 @@ Subconsignação 02 – Automóveis de passageiros; auto-caminhões, etc
 
        Passa a dispôr de Cr$ 60.000,00
 
-02) – Auto-caminhões, etc.
+02\) – Auto-caminhões, etc.
 
         25 – Serviço Florestal
 

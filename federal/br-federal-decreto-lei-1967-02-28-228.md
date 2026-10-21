@@ -44,9 +44,9 @@ c) exercer o direito de representação previsto no art. 73 § 2º, da Lei de Di
 
 § 3º No caso da representação, a que se refere o item c, a Congregação decidirá:
 
-1) no prazo de dez (10) dias, em se tratando de não comparecimento do professor, sem justificação, a 25% das aulas e exercícios;
+1\) no prazo de dez (10) dias, em se tratando de não comparecimento do professor, sem justificação, a 25% das aulas e exercícios;
 
-2) antes do início do ano letivo seguinte, no caso do não cumprimento de, pelo menos, três quartos do programa da respectiva cadeira.
+2\) antes do início do ano letivo seguinte, no caso do não cumprimento de, pelo menos, três quartos do programa da respectiva cadeira.
 
 Art. 4º O Diretório Acadêmico será constituído por estudantes do estabelecimento de ensino superior, eleitos pelo corpo discente.
 

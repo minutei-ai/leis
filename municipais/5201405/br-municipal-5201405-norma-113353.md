@@ -528,37 +528,37 @@ Art. 34 – As infrações disciplinares, obedecidas as classificações de inte
 
 I – Sujeitas a repreensão.
 
-1) Deixar de apresentar-se ao chefe imediato, ao comparecer para qualquer serviço ou missão da qual deve participar e ao término de férias ao de qualquer dispensa;
+1\) Deixar de apresentar-se ao chefe imediato, ao comparecer para qualquer serviço ou missão da qual deve participar e ao término de férias ao de qualquer dispensa;
 
-2) chegar atrasado para qualquer missão de serviço sem causa justificada;
+2\) chegar atrasado para qualquer missão de serviço sem causa justificada;
 
-3) Deixar de comunicar ao superior o cumprimento da ordem recebida;
+3\) Deixar de comunicar ao superior o cumprimento da ordem recebida;
 
-4) Permutar serviço sem autorização de quem de direito;
+4\) Permutar serviço sem autorização de quem de direito;
 
-5) Não ter o devido asseio próprio ou coletivo e com o material ou fardamento sob sua responsabilidade;
+5\) Não ter o devido asseio próprio ou coletivo e com o material ou fardamento sob sua responsabilidade;
 
-6) Permanecer em repartições ou outros locas de trabalho diferente do seu ou em horário em que não estiver de serviço sem autorização do respectivo chefe, ou sem outros motivos funcionais;
+6\) Permanecer em repartições ou outros locas de trabalho diferente do seu ou em horário em que não estiver de serviço sem autorização do respectivo chefe, ou sem outros motivos funcionais;
 
-7) Conversar ou promover ruído em ocasiões ou lugares onde seja vedado;
+7\) Conversar ou promover ruído em ocasiões ou lugares onde seja vedado;
 
-8) Conversar, sentar-se e fumar, quando no posto e serviço como sentinela como plantão etc. Quando isto for proibido;
+8\) Conversar, sentar-se e fumar, quando no posto e serviço como sentinela como plantão etc. Quando isto for proibido;
 
-9) Fumar em presença de tropa formada ou de solenidade;
+9\) Fumar em presença de tropa formada ou de solenidade;
 
-10) Sobre ao uniforme, insignas, medalhas, distintivos ou quaisquer outros símbolos de identidades religiosas, políticas e militares.<br>
+10\) Sobre ao uniforme, insignas, medalhas, distintivos ou quaisquer outros símbolos de identidades religiosas, políticas e militares.<br>
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~10) Sobrepor ao uniforme, insígnias medalhas, distintivos ou qualquer outros símbolos de entidades religiosas, políticas e militares sem autorização da autorização da autoridade competente;~~
 
-11) Se indiscreto com assuntos de natureza oficial cuja divulgação resultar em prejuízo a disciplina e a ordem interna.
+11\) Se indiscreto com assuntos de natureza oficial cuja divulgação resultar em prejuízo a disciplina e a ordem interna.
 
-12) sobrepor ao uniforme comenda ou condecoração.<br>
+12\) sobrepor ao uniforme comenda ou condecoração.<br>
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~12) Sobrepor ao uniforme comenda ou condecoração quando não credenciado oficialmente.~~
 
-13) Andar com uniforme alterado, desabotoado ou mal ajustado ao corpo.
+13\) Andar com uniforme alterado, desabotoado ou mal ajustado ao corpo.
 
 Art. 35 – As infrações disciplinares previstas nesta lei classificam-se segundo sua intensidade em
 
@@ -571,43 +571,43 @@ III – Graves (G)
 I – Leves<br>
     
 
-1) comparecer ao serviço ou as solenidades com uniformes diferentes do previsto;
+1\) comparecer ao serviço ou as solenidades com uniformes diferentes do previsto;
 
-2) Usar linguagem vulgar ao tratar com superiores subordinados e autoridades ou em loca onde tal procedimento não seja recomendável;
+2\) Usar linguagem vulgar ao tratar com superiores subordinados e autoridades ou em loca onde tal procedimento não seja recomendável;
 
-3) Deixar de apresentar-se (Inspetor da Guarda Municipal) ao coordenador no inicio do expediente quando dele participar ou assumir serviço interno;
+3\) Deixar de apresentar-se (Inspetor da Guarda Municipal) ao coordenador no inicio do expediente quando dele participar ou assumir serviço interno;
 
-4) Deixar de comunicar falta ou irregularidade que presenciar ou de que tiver conhecimento a quem tenha competência para reprimi-la;
+4\) Deixar de comunicar falta ou irregularidade que presenciar ou de que tiver conhecimento a quem tenha competência para reprimi-la;
 
-5) Apresentar queixa sem fundamenta contra superiores;
+5\) Apresentar queixa sem fundamenta contra superiores;
 
-6) Retardar a execução de qualquer ordem ou recomendação legal
+6\) Retardar a execução de qualquer ordem ou recomendação legal
 
-7) Deixar de comunicar com antecedência prevista a impossibilidade de comparecer ao serviço ou a repartição ou de trabalho, ou não proceder a isto, por qualquer meio logo possível;
+7\) Deixar de comunicar com antecedência prevista a impossibilidade de comparecer ao serviço ou a repartição ou de trabalho, ou não proceder a isto, por qualquer meio logo possível;
 
-8) Faltar ou chegar atrasado ao serviço ou a instrução sem causa justificável;
+8\) Faltar ou chegar atrasado ao serviço ou a instrução sem causa justificável;
 
-9) Portar-se sem compostura em lugar público;
+9\) Portar-se sem compostura em lugar público;
 
-10) freqüentar lugares incompatíveis com o decoro da classe;
+10\) freqüentar lugares incompatíveis com o decoro da classe;
 
-11) Receber visitas suspeitas no posto de serviço ou distrair-se com assuntos ao trabalho.
+11\) Receber visitas suspeitas no posto de serviço ou distrair-se com assuntos ao trabalho.
 
-12) Dormir no posto de serviço, descuidando-se da área vigiada;
+12\) Dormir no posto de serviço, descuidando-se da área vigiada;
 
-13) Exercer atividades estranhas a sua função no posto de serviço;
+13\) Exercer atividades estranhas a sua função no posto de serviço;
 
-14) Comparecer a qualquer ato ou local de serviço ou solenidade, sem farda, quando tenha sido determinado o uso.
+14\) Comparecer a qualquer ato ou local de serviço ou solenidade, sem farda, quando tenha sido determinado o uso.
 
-15) Dar conhecimento de fatos, assuntos ou documentos da corporação a quem deles não deva ter ciência ou não tenha atribuições para neles intervir;
+15\) Dar conhecimento de fatos, assuntos ou documentos da corporação a quem deles não deva ter ciência ou não tenha atribuições para neles intervir;
 
-16) Deixar de cumprir as prescrições regulamentares com respeito a entrada e a permanência de pessoas estranhas a repartição;
+16\) Deixar de cumprir as prescrições regulamentares com respeito a entrada e a permanência de pessoas estranhas a repartição;
 
-17) Adentrar em recinto reservado a superiores onde este se encontra ou trabalha, sem ordem deste;
+17\) Adentrar em recinto reservado a superiores onde este se encontra ou trabalha, sem ordem deste;
 
-18) Adentrar em dependências do serviço quando lhe vedado;
+18\) Adentrar em dependências do serviço quando lhe vedado;
 
-19) Negar-se a receber material destinado ao serviço que deva executar ou qualquer outro artigo que que deva ficar sob sua guarda.
+19\) Negar-se a receber material destinado ao serviço que deva executar ou qualquer outro artigo que que deva ficar sob sua guarda.
 
 20 ) Dirigir petições ou memoriais a qualquer autoridade superior, sobre assunto da alçada do coordenador, salvo em grau de recurso na forma prevista em leis e regulamentos.
 
@@ -641,7 +641,7 @@ III – Graves
 
 11 ) Danificar ou extraviar ou não zelar corretamente de qualquer material público que esteja sob sua responsabilidade
 
-12) Fazer mal uso de arma de fogo, ou disparar-la por negligencia ou imprudência quando em serviço ou se pertencente à guarda Municipal, ficando expressamente proibido o uso de arma de fogo fora de serviço.<br>
+12\) Fazer mal uso de arma de fogo, ou disparar-la por negligencia ou imprudência quando em serviço ou se pertencente à guarda Municipal, ficando expressamente proibido o uso de arma de fogo fora de serviço.<br>
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~12 ) Fazer mal uso de arma de fogo ou dispará-lo por negligencia ou imprudência quando em serviço ou se pertencer a Guarda Municipal.~~

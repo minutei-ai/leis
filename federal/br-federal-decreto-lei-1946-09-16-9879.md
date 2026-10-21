@@ -60,11 +60,11 @@ b) remeter, no início das safras, a relação completa das despesas e dos outro
 
 c) enviar à Comissão de Financiamento da Produção, os da zona Sul, de 30 de setembro a 31 de dezembro de 1946, ou de 31 de março a 31 de julho de 1947, no caso do trigo e, os da zona Norte, de 31 de janeiro a 31 de março de 1947, as seguintes informações:
 
-1)  os totais mensais acumulados por produtos das áreas em hectares, realmente semeadas até a época das referidas informações;
+1\)  os totais mensais acumulados por produtos das áreas em hectares, realmente semeadas até a época das referidas informações;
 
-2)  nas mesmas condições, as estimativas das safras a colhêr;
+2\)  nas mesmas condições, as estimativas das safras a colhêr;
 
-3) Os  totais das duas últimas safras anteriormente colhidas.
+3\) Os  totais das duas últimas safras anteriormente colhidas.
 
 Art. 6º As operações sôbre os gêneros de que trata êste decreto-lei só poderão abranger os Estados e Territórios que tenham preenchido os requisitos  estabelecidos nas letras a e b do art. 5º dêste decreto-lei.
 

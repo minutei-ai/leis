@@ -16,9 +16,9 @@ Art. 2º A alínea “d” do inciso II do art. 18 da Lei nº 9.430, de 27 de de
 
 “d) da margem de lucro de:
 
-1) sessenta por cento calculada sobre o preço de revenda após deduzidas os valores referidos nas alíneas anteriores e do valor agregado no País, na hipótese de bens importados aplicados à produção;
+1\) sessenta por cento calculada sobre o preço de revenda após deduzidas os valores referidos nas alíneas anteriores e do valor agregado no País, na hipótese de bens importados aplicados à produção;
 
-2) vinte por cento, calculada sobre o preço de revenda, nas demais hipóteses.” (NR)
+2\) vinte por cento, calculada sobre o preço de revenda, nas demais hipóteses.” (NR)
 
 Art. 3º O art. 1º da Lei nº 9.532, de 1997, passa a vigorar com a seguinte redação:
 
@@ -48,9 +48,9 @@ II - controladas, domiciliadas no exterior, independente do beneficiário.
 
 a) na hipótese da alínea “c” do § 1º.
 
-1) na data da contratação da operação, relativamente a lucros já apurados pela controlada ou coligada;
+1\) na data da contratação da operação, relativamente a lucros já apurados pela controlada ou coligada;
 
-2) na data da apuração da operação do lucro, na coligada ou controlada, relativamente a operações de mútuo anteriormente contratadas;
+2\) na data da apuração da operação do lucro, na coligada ou controlada, relativamente a operações de mútuo anteriormente contratadas;
 
 b) na hipótese da alínea “d” do § 1º, em 31 de dezembro do ano-calendário em que tenha sido encerrado o ciclo de produção sem que haja ocorrido a liquidação.” (NR)
 

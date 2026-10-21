@@ -244,17 +244,17 @@ I - pessoal da ativa:
 
 a) Oficiais, pertencentes aos seguintes quadros:
 
-1) Quadro de Oficiais Bombeiros Militar - QOBM -;
+1\) Quadro de Oficiais Bombeiros Militar - QOBM -;
 
-2) Quadro de Oficiais de Administração Bombeiros Militar - QOABM -;
+2\) Quadro de Oficiais de Administração Bombeiros Militar - QOABM -;
 
-3) Quadro de Oficiais de Saúde Bombeiros Militar - QOSBM -;
+3\) Quadro de Oficiais de Saúde Bombeiros Militar - QOSBM -;
 
 b) - Praças, pertencentes aos seguintes quadros:
 
-1) Quadro de Praças Bombeiros Militar - QPBM -;
+1\) Quadro de Praças Bombeiros Militar - QPBM -;
 
-2) Quadro de Praças Especialistas Bombeiros Militar - QPEBM -;
+2\) Quadro de Praças Especialistas Bombeiros Militar - QPEBM -;
 
 II - pessoal inativo:
 

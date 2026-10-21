@@ -10,7 +10,7 @@ ASSUNTO: Composição do Comitê de Gestão Estratégica e Governança, conforme
 
 A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das atribuições que lhe conferem as alíneas "a" e "f" do inciso II do artigo 14 do Regimento Interno da Assembleia Legislativa do Estado de São Paulo e com fulcro no artigo 1°-B, §1°, do Capítulo I-A da [Resolução Alesp n. 776/1996](https://www.al.sp.gov.br/norma/10009), considerando a necessidade de organizar e aprimorar o funcionamento integrado dos Comitês da ALESP, DECIDE:
 
-1) Tornar pública a relação de integrantes do Comitê de Gestão Estratégica e Governança:
+1\) Tornar pública a relação de integrantes do Comitê de Gestão Estratégica e Governança:
 
 • Murilo Mohring Macedo (Secretário-Geral de Administração)
 
@@ -32,7 +32,7 @@ A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das at
 
 • Cairo Mendes Sobrinho (Gestor da Coordenadoria de Governança e Conformidade)
 
-2) Tornar pública a relação dos servidores que, em atendimento ao disposto no artigo 4° do [Ato da Mesa n. 9/2025](https://www.al.sp.gov.br/norma/210727), acompanharão as reuniões do Comitê de Gestão Estratégica e Governança em conjunto com os coordenadores dos comitês temáticos designados em decisão específica:
+2\) Tornar pública a relação dos servidores que, em atendimento ao disposto no artigo 4° do [Ato da Mesa n. 9/2025](https://www.al.sp.gov.br/norma/210727), acompanharão as reuniões do Comitê de Gestão Estratégica e Governança em conjunto com os coordenadores dos comitês temáticos designados em decisão específica:
 
 • João Carlos Fernandes (Assessor-Chefe de Gabinete da Presidência)
 
@@ -42,6 +42,6 @@ A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das at
 
 • Antônio Silvio Magalhães Junior (Procurador-Geral da Alesp)
 
-3) Declarar que, na hipótese de ausência temporária dos membros titulares, assumirão de forma automática os suplentes, de acordo com a respectiva lista de substituição do cargo.
+3\) Declarar que, na hipótese de ausência temporária dos membros titulares, assumirão de forma automática os suplentes, de acordo com a respectiva lista de substituição do cargo.
 
-4) Delegar a atribuição de tornar pública as futuras composições, em caso alteração dos membros titulares, à Secretaria-Geral de Administração.
+4\) Delegar a atribuição de tornar pública as futuras composições, em caso alteração dos membros titulares, à Secretaria-Geral de Administração.

@@ -644,17 +644,17 @@ b) ser suboficial, subtenente ou sargento;
 
 c) ser:
 
-1) na Marinha:
+1\) na Marinha:
 
 praça especialista e ter no mínimo, 21 anos de idade.
 
-2) No Exército:
+2\) No Exército:
 
 cabo ou soldado, com permanência assegurada até o limite de idade ou que estejam amparados por lei especial.
 
 Cabo ou soldado destacados em Unidades de Fronteira.
 
-3) Na Aeronáutica:
+3\) Na Aeronáutica:
 
 cabo com permanência assegurada até o limite de idade.
 
@@ -860,11 +860,11 @@ a) sentença condenatória passada em julgado, cuja pena restritiva de liberdade
 
 b) declaração, em tempo de paz, pelo Superior Tribunal Militar, ou em tempo de guerra externa, psicológica adversa ou revolucionária ou subversiva, por tribunal especial, de indignidade para o oficialato ou de incompatibilidade com o mesmo, nos seguintes casos:
 
-1) quando houver perdido o oficial a qualidade de cidadão brasileiro.
+1\) quando houver perdido o oficial a qualidade de cidadão brasileiro.
 
-2) quando fôr reconhecido professar o oficial doutrina nociva à disciplina, à defesa e à garantia dos podêres constitucionais, da lei e da ordem.
+2\) quando fôr reconhecido professar o oficial doutrina nociva à disciplina, à defesa e à garantia dos podêres constitucionais, da lei e da ordem.
 
-3) nos casos previstos na legislação geral ou em legislação especial concernente à segurança do Estado.
+3\) nos casos previstos na legislação geral ou em legislação especial concernente à segurança do Estado.
 
 Art. 101. O oficial demitido por sentença judicial só poderá readquirir a situação de militar por outra sentença e nas condições nela estabelecidas.
 
@@ -894,11 +894,11 @@ Art. 103. Será expulsa a praça que:
 
 a) mesmo com estabilidade assegurada e de qualquer graduação incidir em transgressões, na forma dos regulamentos disciplinares da respectiva Fôrça Armada, e as que forem declaradas, em tempo de paz, pelo Superior Tribunal Militar - ou em tempo de guerra externa, psicológica adversa ou revolucionária ou subversiva - indigna de pertencer às Fôrças Armadas ou de incompatibilidade com o serviço militar nos seguintes casos:
 
-1) quando houver perdido a qualidade de cidadão brasileiro;
+1\) quando houver perdido a qualidade de cidadão brasileiro;
 
-2) quando fôr reconhecido professar o militar doutrina negativa à disciplina à defesa e à garantia dos poderes constitucionais da lei e da ordem; e
+2\) quando fôr reconhecido professar o militar doutrina negativa à disciplina à defesa e à garantia dos poderes constitucionais da lei e da ordem; e
 
-3) nos casos previstos na legislação geral ou em legislação especial concernente à segurança do Estado.
+3\) nos casos previstos na legislação geral ou em legislação especial concernente à segurança do Estado.
 
 b) a que fôr passível dessa pena, em virtude de sentença judiciária de Tribunal Militar ou Civil.
 

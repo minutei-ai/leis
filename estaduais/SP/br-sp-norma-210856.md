@@ -128,7 +128,7 @@ a) para impactos sobre flora e fauna:
 
 1\. estabelecer medidas de proteção da fauna, incluindo a capacitação para funcionários e motoristas, visando a minimizar riscos de acidentes/atropelamentos e à orientação sobre a proibição das atividades de caça e sobre os regramentos relacionados à pesca;
 
-2) recuperar Áreas de Preservação Permanente;
+2\) recuperar Áreas de Preservação Permanente;
 
 b) quando ocorrer o desencadeamento de processos de dinâmica superficial:
 

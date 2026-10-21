@@ -20,9 +20,9 @@ Art. 1º A [Lei nº 6.015, de 31 de dezembro de 1973](https://normas.leg.br/?urn
 
 9º) os nomes e prenomes, a profissão e a residência das duas testemunhas do assento, quando se tratar de parto ocorrido sem assistência médica em residência ou fora de unidade hospitalar ou casa de saúde;
 
-10) número de identificação da Declaração de Nascido Vivo, com controle do dígito verificador, exceto na hipótese de registro tardio previsto no art. 46 desta Lei; e
+10\) número de identificação da Declaração de Nascido Vivo, com controle do dígito verificador, exceto na hipótese de registro tardio previsto no art. 46 desta Lei; e
 
-11) a naturalidade do registrando.
+11\) a naturalidade do registrando.
 
 ..........................................................
 

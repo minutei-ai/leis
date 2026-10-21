@@ -852,11 +852,11 @@ Parágrafo único. A aeronave será liberada se forem satisfeitas as exigências
 
 Art. 160. A aeronave poderá ser interditada:
 
-1) nos casos configurados no artigo 156, item I, alíneas a - b - c - d - e - f - o e p; item II, alínea b e c;
+1\) nos casos configurados no artigo 156, item I, alíneas a - b - c - d - e - f - o e p; item II, alínea b e c;
 
-2) se a multa imposta ao proprietário ou explorador não tiver sido paga no prazo estipulado no respectivo ato;
+2\) se a multa imposta ao proprietário ou explorador não tiver sido paga no prazo estipulado no respectivo ato;
 
-3) se instaurado processo para apurar atividade delituosa do proprietário ou explorador na utilização da aeronave.
+3\) se instaurado processo para apurar atividade delituosa do proprietário ou explorador na utilização da aeronave.
 
 § 1º Em caso de requisição da autoridade aduaneira, de polícia ou de saúde, a autoridade aeronáutica competente poderá interditar por prazo não superior a 15 (quinze) dias, qualquer aeronave quando, a seu juízo, as circunstâncias e os motivos que informarem a requisição justificarem essa medida, para acautelar interêsses, que não possam ser resguardados de imediato por providência prevista em lei ou regulamento, invocada pela autoridade requisitante.
 

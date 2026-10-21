@@ -86,7 +86,7 @@ XII - É suprimido o § 2º do artigo 87, e passa o § 3º a constituir o § 2º
 
 XIII - São acrescentados ao Anexo II os seguintes cargos:
 
-1) Nas Seções Judiciárias do Distrito Federal, da Bahia, da Guanabara, de Minas Gerais, do Paraná, de Pernambuco, do Rio Grande do Sul e de São Paulo:
+1\) Nas Seções Judiciárias do Distrito Federal, da Bahia, da Guanabara, de Minas Gerais, do Paraná, de Pernambuco, do Rio Grande do Sul e de São Paulo:
 
 a) um Cargo de Chefe de Secretaria;
 
@@ -100,7 +100,7 @@ e) um Cargo de Auxiliar Judiciário;
 
 f) um Cargo de Auxiliar de Portaria;
 
-2) Nas Seções Judiciárias do Acre, Alagoas, Amapá, Amazonas, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Rio Grande do Norte, Rio de Janeiro, Rondônia, Roraima, Santa Catarina e Sergipe; um Cargo de Distribuidor-Contador.
+2\) Nas Seções Judiciárias do Acre, Alagoas, Amapá, Amazonas, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Rio Grande do Norte, Rio de Janeiro, Rondônia, Roraima, Santa Catarina e Sergipe; um Cargo de Distribuidor-Contador.
 
 XIV - Ao anexo IV são acrescentados os seguintes cargos com os respectivos símbolos:
 

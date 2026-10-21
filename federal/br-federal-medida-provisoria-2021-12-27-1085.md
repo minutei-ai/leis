@@ -412,45 +412,45 @@ I –...........................................................................
 
 .............................................................................................................................................
 
-18) dos contratos de promessa de venda, cessão ou promessa de cessão de unidades autônomas condominiais e de promessa de permuta, a que se refere a Lei nº 4.591, de 16 de dezembro de 1964, quando a incorporação ou a instituição de condomínio se formalizar na vigência desta Lei;
+18\) dos contratos de promessa de venda, cessão ou promessa de cessão de unidades autônomas condominiais e de promessa de permuta, a que se refere a Lei nº 4.591, de 16 de dezembro de 1964, quando a incorporação ou a instituição de condomínio se formalizar na vigência desta Lei;
 
 .............................................................................................................................................
 
-30) da permuta e da promessa de permuta;
+30\) da permuta e da promessa de permuta;
 
 .............................................................................................................................................
 
-44) da legitimação fundiária;
+44\) da legitimação fundiária;
 
-45) do contrato de pagamento por serviços ambientais, quando este estipular obrigações de natureza propter rem; e
+45\) do contrato de pagamento por serviços ambientais, quando este estipular obrigações de natureza propter rem; e
 
-46) do ato de tombamento definitivo, sem conteúdo financeiro;
+46\) do ato de tombamento definitivo, sem conteúdo financeiro;
 
 II –........................................................................................................................................
 
 .............................................................................................................................................
 
-8) da caução e da cessão fiduciária de direitos reais relativos a imóveis;
+8\) da caução e da cessão fiduciária de direitos reais relativos a imóveis;
 
 .............................................................................................................................................
 
-21) da cessão do crédito com garantia real sobre imóvel, ressalvado o disposto no item 35;
+21\) da cessão do crédito com garantia real sobre imóvel, ressalvado o disposto no item 35;
 
 .............................................................................................................................................
 
-30) da sub-rogação de dívida, da respectiva garantia fiduciária ou hipotecária e da alteração das condições contratuais, em nome do credor que venha a assumir tal condição nos termos do disposto no art. 31 da Lei nº 9.514, de 20 de novembro de 1997, ou do art. 347 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, realizada em ato único, a requerimento do interessado, instruído com documento comprobatório firmado pelo credor original e pelo mutuário, ressalvado o disposto no item 35;
+30\) da sub-rogação de dívida, da respectiva garantia fiduciária ou hipotecária e da alteração das condições contratuais, em nome do credor que venha a assumir tal condição nos termos do disposto no art. 31 da Lei nº 9.514, de 20 de novembro de 1997, ou do art. 347 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, realizada em ato único, a requerimento do interessado, instruído com documento comprobatório firmado pelo credor original e pelo mutuário, ressalvado o disposto no item 35;
 
 .............................................................................................................................................
 
-34) da existência dos penhores previstos no art. 178, de ofício, sem conteúdo financeiro, por ocasião do registro no livro auxiliar em relação a imóveis:
+34\) da existência dos penhores previstos no art. 178, de ofício, sem conteúdo financeiro, por ocasião do registro no livro auxiliar em relação a imóveis:
 
 34.1) de titularidade do devedor pignoratício; ou
 
 34.2) objeto de contratos registrados no Livro nº 2 - Registro Geral;
 
-35) da cessão de crédito ou da sub-rogação de dívida decorrentes de transferência do financiamento com garantia real sobre imóvel, nos termos do disposto no Capítulo II-A da Lei nº 9.514, de 20 de novembro de 1997; e
+35\) da cessão de crédito ou da sub-rogação de dívida decorrentes de transferência do financiamento com garantia real sobre imóvel, nos termos do disposto no Capítulo II-A da Lei nº 9.514, de 20 de novembro de 1997; e
 
-36) do processo de tombamento de bens imóveis e de seu eventual cancelamento, sem conteúdo financeiro.
+36\) do processo de tombamento de bens imóveis e de seu eventual cancelamento, sem conteúdo financeiro.
 
 Parágrafo único. O registro previsto no item 3 do inciso I do caput e a averbação prevista no item 16 do inciso II do caput serão efetuados no registro de imóveis da circunscrição onde o imóvel estiver matriculado, mediante apresentação de uma via do contrato assinado pelas partes, admitida a forma eletrônica e bastando a coincidência entre o nome de um dos proprietários e o do locador.” (NR)
 

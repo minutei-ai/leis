@@ -402,7 +402,7 @@ c) Taxas devidas ao pôrto de Imbituba (por tonelada de carvão) :
 
 d) Taxas devidas ao pôrto de Laguna :
 
-1) Quando o carvão vai direto ao custado do navio (por tonelada de
+1\) Quando o carvão vai direto ao custado do navio (por tonelada de
 
 carvão) :
 
@@ -418,7 +418,7 @@ carvão) :
 
  Estiva à 'bordo......................................................................................................................1,87
 
-2) Quando o carvão é descarregado no chão (por tonelada, de carvão) :
+2\) Quando o carvão é descarregado no chão (por tonelada, de carvão) :
 
  Verificação de pêso .............................................................................................................1,25
 

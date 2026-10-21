@@ -12,7 +12,7 @@ Art. 1º O art. 11 do Decreto-lei nº 300, de 24 de Fevereiro de 1938 será obse
 
 ...................................................................................................................................................................
 
-17) Aos móveis, objetos de uso doméstico e um automóvel, usados, trazidos pelos funcionários do Corpo Diplomático e Consular Brasileiro, que forem transferidos para a Secretaria de Estado das Relações Exteriores; o mesmo benefício gozarão os demais funcionários da União e os militares ao regressarem do estrangeiro, quando dispensados de qualquer comissão oficial exercida por mais de dois anos.
+17\) Aos móveis, objetos de uso doméstico e um automóvel, usados, trazidos pelos funcionários do Corpo Diplomático e Consular Brasileiro, que forem transferidos para a Secretaria de Estado das Relações Exteriores; o mesmo benefício gozarão os demais funcionários da União e os militares ao regressarem do estrangeiro, quando dispensados de qualquer comissão oficial exercida por mais de dois anos.
 
 Art. 2º Independe do processamento estabelecido no Decreto-lei nº 300, de 24 de Fevereiro de 1938, o despacho aduaneiro de quaisquer mercadorias isentas do pagamento dos direitos de importação por disposição especial da Tarifa ou de lei de emergência
 

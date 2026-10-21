@@ -66,11 +66,11 @@ III - Os limites, ao longo da costa marítima ou das margens dos lagos ou dos ri
 
 Art. 8º Ficam acrescidos ao § 2º do art. 4º do Decreto nº 24.447, de 22 de junho de 1934, os seguintes itens:
 
-5) Exercer a fiscalização da utilização dos terminais ou embarcadouros de uso privativo situados em suas zonas de jurisdição ou de administração, por inspeções periódicas ou amostragem.
+5\) Exercer a fiscalização da utilização dos terminais ou embarcadouros de uso privativo situados em suas zonas de jurisdição ou de administração, por inspeções periódicas ou amostragem.
 
-6) Promover a construção de obras portuárias de acesso e segurança da navegação exigidas pela plena utilização dos terminais ou embarcadouros de uso privativo localizados na zona de administração.
+6\) Promover a construção de obras portuárias de acesso e segurança da navegação exigidas pela plena utilização dos terminais ou embarcadouros de uso privativo localizados na zona de administração.
 
-7) Proporcionar assistência técnica, no que couber, aos proprietários de tais embarcadouros, durante a construção dêstes, e, posteriormente, no sentido de garantir sua eficiente operação, quando estiverem êles situados na zona de jurisdição.
+7\) Proporcionar assistência técnica, no que couber, aos proprietários de tais embarcadouros, durante a construção dêstes, e, posteriormente, no sentido de garantir sua eficiente operação, quando estiverem êles situados na zona de jurisdição.
 
 Art. 9º Fica revogado o parágrafo único do artigo 2º do Decreto número 24.511, de 29 de junho de 1934, bem como quaisquer outros dispositivos de lei geral ou especial que isentem de pagamento de taxas portuárias ou assegurem tratamento especial nos portos a emprêsas de direito público ou privado.
 
@@ -164,11 +164,11 @@ III) Os limites, ao longo da costa marítima ou das margens dos lagos ou dos rio
 
 Art. 8º Ficam acrescidos ao parágrafo 2º do art. 4º do Decreto número 24.447, de 22 de junho de 1934, os seguintes itens:
 
-5) Exercer a fiscalização da utilização dos terminais ou embarcadouros de uso privativo situados em suas zonas de jurisdição ou de administração, por inspeções periódicas ou amostragem.
+5\) Exercer a fiscalização da utilização dos terminais ou embarcadouros de uso privativo situados em suas zonas de jurisdição ou de administração, por inspeções periódicas ou amostragem.
 
-6) Promover a construção de obras portuárias de acesso e segurança da navegação exigidas pela plena utilização dos terminais ou embarcadouros de uso privativo localizados na zona de administração.
+6\) Promover a construção de obras portuárias de acesso e segurança da navegação exigidas pela plena utilização dos terminais ou embarcadouros de uso privativo localizados na zona de administração.
 
-7) Proporcionar assistência técnica no que couber, aos proprietários de tais embarcadouros, durante a construção dêstes, e, posteriormente, no sentido de garantir sua eficiente operação, quando estiverem êles situados na zona de jurisdição.
+7\) Proporcionar assistência técnica no que couber, aos proprietários de tais embarcadouros, durante a construção dêstes, e, posteriormente, no sentido de garantir sua eficiente operação, quando estiverem êles situados na zona de jurisdição.
 
 Art. 9º Fica revogado o parágrafo único do artigo 2º do Decreto número 24.511, de 29 de junho de 1934, bem como quaisquer outros dispositivos de lei geral ou especial que isentem de pagamento de taxas portuárias ou assegurem tratamento especial nos portos a emprêsas de direito público ou privado.
 

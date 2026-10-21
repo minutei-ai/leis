@@ -86,7 +86,7 @@ diárias – por cabeça, mais 0,30 – UVFA
 
 \- demais mercadorias –por apreensão 1,00 – UVFA
 
-1) – Do cemitério – por unidade sepultamento 2,00 – UVFA
+1\) – Do cemitério – por unidade sepultamento 2,00 – UVFA
 
 abertura de jazigo 6,00 – UVFA
 

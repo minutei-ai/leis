@@ -44,9 +44,9 @@ Art. 6º As contribuições criadas pela Lei nº 2.613, de 23 de setembro de 195
 
 I - Ao Instituto Brasileiro de Reforma Agrária (IBRA);
 
-1) as contribuições a que se refere a Lei nº 2.613, de 23 de setembro de 1955 no caput de seus artigos 6º e 7º, cuja arrecadação será feita pelo próprio IBRA;
+1\) as contribuições a que se refere a Lei nº 2.613, de 23 de setembro de 1955 no caput de seus artigos 6º e 7º, cuja arrecadação será feita pelo próprio IBRA;
 
-2) 25% (vinte e cinco por cento) da receita resultante da arrecadação, pelo INPS, da contribuição fixada na Lei nº 4.863, de 29 de novembro de 1965, em seu artigo 35, § 2º, item VIII.
+2\) 25% (vinte e cinco por cento) da receita resultante da arrecadação, pelo INPS, da contribuição fixada na Lei nº 4.863, de 29 de novembro de 1965, em seu artigo 35, § 2º, item VIII.
 
 II - Ao Fundo de Assistência ao Trabalhador Rural (FUNRURAL); 50% (cinqüenta por cento) da receita resultante da arrecadação, pelo INPS, da contribuição fixada no artigo 35, § 2º, item VIII da Lei nº 4.863, de 29 de novembro de 1965;
 

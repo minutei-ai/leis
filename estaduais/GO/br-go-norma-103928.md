@@ -178,18 +178,18 @@ Convênio ICMS 28/2012 e CID-10)
 
 Definições:
 
-1) Deficiência(1) : toda perda ou anormalidade de uma estrutura ou função psicológica, fisiológica ou anatômica que gere incapacidade para o desempenho de uma atividade, dentro do padrão considerado normal para o ser humano.
+1\) Deficiência(1) : toda perda ou anormalidade de uma estrutura ou função psicológica, fisiológica ou anatômica que gere incapacidade para o desempenho de uma atividade, dentro do padrão considerado normal para o ser humano.
 
-2) Deficiência permanente: a que ocorreu ou se estabilizou durante um período de tempo suficiente para não permitir recuperação ou ter probabilidade de que se altere, apesar de novos tratamentos.
+2\) Deficiência permanente: a que ocorreu ou se estabilizou durante um período de tempo suficiente para não permitir recuperação ou ter probabilidade de que se altere, apesar de novos tratamentos.
 
-3) Incapacidade: uma redução efetiva e acentuada da capacidade de integração social, com necessidade de equipamentos, adaptações, meios ou recursos especiais para que a pessoa com deficiência possa receber ou transmitir informações necessárias ao seu bem-estar e ao desempenho de função ou atividade a ser exercida
+3\) Incapacidade: uma redução efetiva e acentuada da capacidade de integração social, com necessidade de equipamentos, adaptações, meios ou recursos especiais para que a pessoa com deficiência possa receber ou transmitir informações necessárias ao seu bem-estar e ao desempenho de função ou atividade a ser exercida
 
-4) Deficiência física(2) : aquela que apresenta alteração completa ou parcial de um ou mais segmentos do corpo humano, alcançando, tão somente, as deficiências de grau moderado ou grave, assim entendidas aquelas que causem comprometimento parcial ou total das funções dos segmentos corpóreos que envolvam a segurança da direção veicular, acarretando o comprometimento da função física e a incapacidade total ou parcial para dirigir, apresentando-se sob a forma de paraplegia, paraparesia, monoplegia, monoparesia, nanismo, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, amputação ou ausência de membro, paralisia cerebral, membros com deformidade congênita ou adquirida, exceto as deformidades estéticas e as que não produzam dificuldades para o desempenho de funções.
+4\) Deficiência física(2) : aquela que apresenta alteração completa ou parcial de um ou mais segmentos do corpo humano, alcançando, tão somente, as deficiências de grau moderado ou grave, assim entendidas aquelas que causem comprometimento parcial ou total das funções dos segmentos corpóreos que envolvam a segurança da direção veicular, acarretando o comprometimento da função física e a incapacidade total ou parcial para dirigir, apresentando-se sob a forma de paraplegia, paraparesia, monoplegia, monoparesia, nanismo, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, amputação ou ausência de membro, paralisia cerebral, membros com deformidade congênita ou adquirida, exceto as deformidades estéticas e as que não produzam dificuldades para o desempenho de funções.
 
-5) Deficiência visual(2) : acuidade visual igual ou menor que 20/200 no melhor olho, depois da melhor correção, ou campo visual inferior a 20º (Tabela de Snellen) , ou ocorrência simultânea de ambas as situações (art. 1º, § 2º, da Lei nº 8.989, de 24 de fevereiro de 1995, incluído pela Lei nº 10.690, de 16 de junho de 2003) .
+5\) Deficiência visual(2) : acuidade visual igual ou menor que 20/200 no melhor olho, depois da melhor correção, ou campo visual inferior a 20º (Tabela de Snellen) , ou ocorrência simultânea de ambas as situações (art. 1º, § 2º, da Lei nº 8.989, de 24 de fevereiro de 1995, incluído pela Lei nº 10.690, de 16 de junho de 2003) .
 
 Importante:
 
-1) A deficiência deve ser atestada por equipe (dois médicos) responsável pela área correspondente à deficiência e que prestem serviço para a Unidade Credenciada Emissora do Laudo.
+1\) A deficiência deve ser atestada por equipe (dois médicos) responsável pela área correspondente à deficiência e que prestem serviço para a Unidade Credenciada Emissora do Laudo.
 
-2) O Laudo só poderá ser emitido se a deficiência atender cumulativamente aos critérios de deficiência, deficiência permanente e incapacidade (itens 1 a 3, acima) , manifestando-se sob uma das formas de deficiência física (item 4) ou visual (item 5) .”
+2\) O Laudo só poderá ser emitido se a deficiência atender cumulativamente aos critérios de deficiência, deficiência permanente e incapacidade (itens 1 a 3, acima) , manifestando-se sob uma das formas de deficiência física (item 4) ou visual (item 5) .”

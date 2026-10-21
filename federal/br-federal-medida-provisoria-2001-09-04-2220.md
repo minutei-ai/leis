@@ -110,15 +110,15 @@ Art. 15. O inciso I do art. 167 da Lei nº 6.015, de 31 de dezembro de 1973, pas
 
 “I - ............................................................................................
 
-28) das sentenças declaratórias de usucapião;
+28\) das sentenças declaratórias de usucapião;
 
 ..................................................................................................
 
-37) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial para fins de moradia;
+37\) dos termos administrativos ou das sentenças declaratórias da concessão de uso especial para fins de moradia;
 
  ..................................................................................................
 
-40) do contrato de concessão de direito real de uso de imóvel público.” (NR)
+40\) do contrato de concessão de direito real de uso de imóvel público.” (NR)
 
 Art. 16. Esta Medida Provisória entra em vigor na data de sua publicação.
 

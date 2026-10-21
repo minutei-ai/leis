@@ -24,15 +24,15 @@ Art. 2º Ficam instituídos o Plano Nacional de Estatística e o Plano Nacional 
 
 Art. 3º O Plano Nacional de Estatística e o Plano Nacional de Geografia e Cartografia Terrestre serão coordenados pela Fundação IBGE, que passará a exercer, no âmbito da União, as atribuições das entidades integradas no atual Instituto Brasileiro de Geografia e Estatística, a seguir discriminadas:
 
-1) - a Secretaria-Geral do Conselho Nacional de Estatística;
+1\) - a Secretaria-Geral do Conselho Nacional de Estatística;
 
-2) - a Secretaria-Geral do Conselho Nacional de Geografia;
+2\) - a Secretaria-Geral do Conselho Nacional de Geografia;
 
-3) - o Serviço Nacional de Recenseamento;
+3\) - o Serviço Nacional de Recenseamento;
 
-4) - a Escala Nacional de Ciências Estatísticas;
+4\) - a Escala Nacional de Ciências Estatísticas;
 
-5) - as seguintes Repartições Centrais Federais de Estatística:
+5\) - as seguintes Repartições Centrais Federais de Estatística:
 
 a) o Serviço de Estatística Demográfica, Moral e Política;
 

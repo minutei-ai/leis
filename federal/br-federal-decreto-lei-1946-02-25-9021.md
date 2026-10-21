@@ -12,19 +12,19 @@ Art. 1º O art. 4º do Decreto-lei nº 7.524, de 5 de Maio de 1945, passa a ter 
 
 “Art. 4º Os aumentos de salários obedecerão à seguinte tabela, calculados sobre os salários básicos de Dezembro de 1944:
 
-1) para os empregados que recebem um salário básico até Cr$ 500,00 um aumento
+1\) para os empregados que recebem um salário básico até Cr$ 500,00 um aumento
 
  de ................................... 40%
 
-2) de Cr$ 501,00 a Cr$ 750,00 um aumento
+2\) de Cr$ 501,00 a Cr$ 750,00 um aumento
 
 de..................................... 30 %
 
-3) de Cr$ 751,00 a Cr$ 1.250,00 um aumento
+3\) de Cr$ 751,00 a Cr$ 1.250,00 um aumento
 
 de..................................... 20 %
 
-4) de Cr$ 1.251,00 a Cr$ 3.000,00 um aumento
+4\) de Cr$ 1.251,00 a Cr$ 3.000,00 um aumento
 
 de..................................... 10 %
 

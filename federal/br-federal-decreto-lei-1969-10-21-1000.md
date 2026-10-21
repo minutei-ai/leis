@@ -1360,7 +1360,7 @@ Art. 236. Estão sujeitos a registro no livro nº 2 tôdas as constituições de
 
 9º) o título do ônus, com tôdas as condições e especificações;
 
-10) o valor da coisa ou da dívida, prazo desta e mais indicações, conforme o caso.
+10\) o valor da coisa ou da dívida, prazo desta e mais indicações, conforme o caso.
 
 Parágrafo único. Quando o imóvel já constar transcrito no livro nº 2 serão dispensados os requisitos dos itens 3º, 4º e 5º.
 

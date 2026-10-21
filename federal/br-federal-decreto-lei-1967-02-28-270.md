@@ -78,13 +78,13 @@ a) as aeronaves públicas brasileiras;
 
 b) as aeronaves privadas:
 
-1) por motivos de ordem técnica, pelo prazo máximo de cinco dias;
+1\) por motivos de ordem técnica, pelo prazo máximo de cinco dias;
 
-2) por razões de ordem meteorológica, pelo prazo de impedimento;
+2\) por razões de ordem meteorológica, pelo prazo de impedimento;
 
-3) em caso de acidente, pelo prazo que durar a investigação de acidente, pelas Autoridades Competentes;
+3\) em caso de acidente, pelo prazo que durar a investigação de acidente, pelas Autoridades Competentes;
 
-4) em caso de estacionamento em áreas arrendadas, pelo explorador de aeronave;
+4\) em caso de estacionamento em áreas arrendadas, pelo explorador de aeronave;
 
 c) as aeronaves, estrangeiras, públicas ou privadas, quando em missão oficial ou diplomática, transportando convidados do Govêrno Brasileiro;
 

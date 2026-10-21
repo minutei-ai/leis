@@ -14,17 +14,17 @@ Art. 1º Ficam transferidas para o Ministério do Trabalho, Indústria e Comérc
 
 a) Verba 1 – Pessoal:
 
-1) Consignação III – Vantagens – S/c 17 – Gratificação de representação de Gabinete, Cr$........ 100.000,00 (cem mil cruzeiros).
+1\) Consignação III – Vantagens – S/c 17 – Gratificação de representação de Gabinete, Cr$........ 100.000,00 (cem mil cruzeiros).
 
-2) Consignação IV – Indenizações S/c 23 – Diárias, Cr$ 20.000,00 (vinte mil cruzeiros) .
+2\) Consignação IV – Indenizações S/c 23 – Diárias, Cr$ 20.000,00 (vinte mil cruzeiros) .
 
-3) Consignação V – Outras despesas com pessoal – S/c 27-04 Outras despesas, Cr$ 2.640.000,00 (dois milhões, seiscentos e quarenta mil cruzeiros).
+3\) Consignação V – Outras despesas com pessoal – S/c 27-04 Outras despesas, Cr$ 2.640.000,00 (dois milhões, seiscentos e quarenta mil cruzeiros).
 
 b) Verba 2 – Material.
 
-1) Consignação II – Material de consumo – S/c 17 – Artigos de expediente, desenho, ensino e educação artigos escolares para distribuição; fichas e livros de escrituração; impressos e material de classificação inclusive ficas bibliográficas e de referência, Cr$ 140.000,00 (cento e quarenta mil cruzeiros) .
+1\) Consignação II – Material de consumo – S/c 17 – Artigos de expediente, desenho, ensino e educação artigos escolares para distribuição; fichas e livros de escrituração; impressos e material de classificação inclusive ficas bibliográficas e de referência, Cr$ 140.000,00 (cento e quarenta mil cruzeiros) .
 
-2) Consignação III – Diversas despesas:
+2\) Consignação III – Diversas despesas:
 
 S/c 30 – Água e artigos para limpeza, e desinfeção; serviços de asseio e higiene; lavagem e engomagem de roupas; taxas de água, esgoto e lixo, Cr$ 75.568,00 (setenta e cinco mil, quinhentos e sessenta e oito cruzeiros).
 
@@ -44,21 +44,21 @@ c) Verba 3 Serviços e Encargos – Consignação I – Diversos – S/c 53 Inst
 
 a) Verba 1 – Pessoal:
 
-1) Consignação III – Vantagens – S/c 17 – Gratificação de representação do Gabinete, Cr$ 100.000,00 (cem mil cruzeiros) .
+1\) Consignação III – Vantagens – S/c 17 – Gratificação de representação do Gabinete, Cr$ 100.000,00 (cem mil cruzeiros) .
 
-2) Consignação IV – Indenizações – S/c 23 – Diárias, Cr$ 15.000,00 (quinze mil cruzeiros).
+2\) Consignação IV – Indenizações – S/c 23 – Diárias, Cr$ 15.000,00 (quinze mil cruzeiros).
 
-3) Consignação V – Outras despesas com pessoal – S/c 27-04 – Outras despesas, Cr$ 700.000,00 (setecentos mil cruzeiros).
+3\) Consignação V – Outras despesas com pessoal – S/c 27-04 – Outras despesas, Cr$ 700.000,00 (setecentos mil cruzeiros).
 
 b) Verba 2 – Material:
 
-1) Consignação II – Material do Consumo:
+1\) Consignação II – Material do Consumo:
 
 S/c 17 – Artigos de expediente, desenho, ensino e educação; artigos escolares para distribuição; fichas e livros de escrituração; impressos e material de classificação inclusive fichas bibliográficas e de referência, Cr$ 60.000,00 (sessenta mil cruzeiros).
 
 S/c 19 – Combustíveis; material de lubrificação e limpeza de maquinas; material para conservação de instalações, de máquinas e de aparelhos; sobressalentes de máquina e de viaturas ; artigos de iluminação, Cr$ 15.000,00 (quinze mil cruzeiros).
 
-2) Consignação III – Diversas Despesas:
+2\) Consignação III – Diversas Despesas:
 
 S/c 30 – Água e artigos para limpeza e desinfecção; serviços de asseio e higiene, lavagem e engomagem de roupas taxas de água, esgoto e lixo, Cr$ 10.000,00 (dez mil cruzeiros) .
 
@@ -72,9 +72,9 @@ c) Verba, 3 Serviços e Encargos – Consignação I – Diversos – S/c 53 –
 
 Art. 2º As dotações referentes as duas seguintes subconsignações serão aplicadas, tanto no Ministério do Trabalho, Indústria e Comércio como no Conselho Federal de Comércio Exterior, sob regime de adiantamento:
 
-1) Verba 1 – S/c 27-04 – Outras despesas.
+1\) Verba 1 – S/c 27-04 – Outras despesas.
 
-2) Verba 3 – S/c 53 – Instalação e manutenção de Setores, Serviços e Contrôles.
+2\) Verba 3 – S/c 53 – Instalação e manutenção de Setores, Serviços e Contrôles.
 
 Art. 3º Fica transferido para o Ministério da Fazenda o saldo da, S/c da, Verba 3, na importância de Cr$ 500.000,00 (quinhentos mil cruzeiros) para atender à despesa de que trata o parágrafo único do artigo 5º do Decreto-lei nº 8.400, citado.
 

@@ -26,13 +26,13 @@ Art. 5º Os estatutos da sociedade anônima a que se refere o art. 1º serão pr
 
 Art. 6º Enquanto durar a locação as seguintes disposições especiais serão observadas:
 
-1) Os estatutos da sociedade anônima não poderão ser modificados, serão mediante proposta da Diretoria, ficando a modificação sujeita à aprovação do Govêrno pelo processo indicado no artigo anterior.
+1\) Os estatutos da sociedade anônima não poderão ser modificados, serão mediante proposta da Diretoria, ficando a modificação sujeita à aprovação do Govêrno pelo processo indicado no artigo anterior.
 
-2) Nenhum diretor poderá ser eleito ou destituído de suas funções senão pelo voto de acionistas que representem dois têrços do capital social. subordinando-se à aprovação do Govêrno as deliberações tomadas nesse sentido pela Assembléia Geral.
+2\) Nenhum diretor poderá ser eleito ou destituído de suas funções senão pelo voto de acionistas que representem dois têrços do capital social. subordinando-se à aprovação do Govêrno as deliberações tomadas nesse sentido pela Assembléia Geral.
 
-3) A Diretoria terá o direito de votar as decisões da Assembléia Geral que, a seu critério, forem contrárias ao bem público ou aos interêsses sociais.
+3\) A Diretoria terá o direito de votar as decisões da Assembléia Geral que, a seu critério, forem contrárias ao bem público ou aos interêsses sociais.
 
-4) O Ministério da Fazenda poderá designar fihcal para examinar e verificar, em qualquer tempo, o estado em que se encontram os bens locados.
+4\) O Ministério da Fazenda poderá designar fihcal para examinar e verificar, em qualquer tempo, o estado em que se encontram os bens locados.
 
 Art. 7º Os atos que forem necessários à execução dêste Decreto-lei ficam isentos dos impostos federais, estaduais e municipais.
 

@@ -156,11 +156,11 @@ c) o resultado das alienações de quaisquer outros imóveis, ressalvado o dispo
 
 d) as correções monetárias do preço das alienações de unidades residenciais ou não residenciais, construídas ou em construção, e de terrenos ou lotes de terrenos, com ou sem construção, contratadas a partir da data da equiparação, abrangendo:
 
-1) as incidentes sobre série de prestações e parcelas intermediárias vinculadas ou não à entrega das chaves, representadas ou não por notas promissórias;
+1\) as incidentes sobre série de prestações e parcelas intermediárias vinculadas ou não à entrega das chaves, representadas ou não por notas promissórias;
 
-2) as incidentes sobre dívidas correspondentes a notas promissórias, cédulas hipotecárias ou outros títulos equivalentes, recebidos em pagamento do preço de alienações;
+2\) as incidentes sobre dívidas correspondentes a notas promissórias, cédulas hipotecárias ou outros títulos equivalentes, recebidos em pagamento do preço de alienações;
 
-3) as calculadas a partir do vencimento dos débitos a que se referem as alíneas anteriores, no caso de atraso no respectivo pagamento, até sua efetiva liquidação.
+3\) as calculadas a partir do vencimento dos débitos a que se referem as alíneas anteriores, no caso de atraso no respectivo pagamento, até sua efetiva liquidação.
 
 e) os juros convencionados sobre a parte financiada do preço das alienações contratadas a partir da data da equiparação, bem como as multas e juros de mora recebidos por atrasos de pagamentos.
 
