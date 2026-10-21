@@ -1,0 +1,91 @@
+# Portaria Orçamentária nº 210, de 2026-05-26
+
+Portaria Orçamentária nº 210/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 6 de janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de julho de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR, DIRETORIA-GERAL DE POLICIA PENAL, SECRETARIA DA SEGURANÇA PÚBLICA, créditos suplementares no valor global de R$ 3.437.616,37 (três milhões quatrocentos e trinta e sete mil seiscentos e dezesseis reais e trinta e sete centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 26 dias do mês de maio de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA | 06 183 1051 3179 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 9.900,00 | R$ 2.885,00 | R$ 12.785,00 |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 17000280 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 154.576,00 | R$ 154.576,00 |
+
+| **2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 14 122 4200 4243 | 17990142 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 1.242.969,44 | R$ 446.822,03 | R$ 1.689.791,47 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2906 - DIRETORIA-GERAL DE POLICIA PENAL |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 14 122 4200 4243 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 4.310.130,82 | R$ 2.833.333,34 | R$ 7.143.464,16 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 2.836.218,34 |
+| 17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA | R$ 154.576,00 |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 446.822,03 |
+| **TOTAL A SUPLEMENTAR** | R$ 3.437.616,37 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 912.105,99 | R$ 2.885,00 | R$ 2.885,00 |
+| DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA | 06 181 1051 2351 | 17000280 | 90 | 4 - INVESTIMENTOS | R$ 4.659.671,66 | R$ 154.576,00 | R$ 154.576,00 |
+
+| **2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR | 06 422 1007 3180 | 17990142 | 90 | 4 - INVESTIMENTOS | R$ 2.126.625,88 | R$ 446.822,03 | R$ 446.822,03 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2906 - DIRETORIA-GERAL DE POLICIA PENAL |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| QUALIFICAÇÃO DO SERVIDOR PÚBLICO | 14 128 1007 2587 | 15000100 | 20 | 3 - OUTRAS DESPESAS CORRENTES | R$ 833.333,34 | R$ 833.333,34 | R$ 833.333,34 |
+| QUALIFICAÇÃO DO SERVIDOR PÚBLICO | 14 128 1007 2587 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 2.000.000,00 | R$ 2.000.000,00 | R$ 2.000.000,00 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 2.836.218,34 |
+| 17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA | R$ 154.576,00 |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 446.822,03 |
+| **TOTAL** | R$ 3.437.616,37 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 2.836.218,34 |
+| 17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA | R$ 154.576,00 |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 446.822,03 |
+| **TOTAL** | R$ 3.437.616,37 |

@@ -1,0 +1,54 @@
+# Portaria Orçamentária nº 436, de 2026-08-27
+
+Portaria Orçamentária nº 436/2026 - Economia
+
+O DEFENSOR PÚBLICO-GERAL da DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, § 1º da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de janeiro de 2026.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto ao FUNDO DE MANUTENÇÃO E REAPARELHAMENTO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS - FUNDEPEG , crédito suplementar no valor de R$ 230.000,00 (duzentos e trinta mil reais), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+Goiânia, aos 27 dias do mês de Agosto de 2026.
+
+ 
+
+TIAGO GREGORIO FERNANDES
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **850-FUNDO DE MANUTENÇÃO E REAPARELHAMENTO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS - FUNDEPEG** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO | 03 092 4200 4242 | 17530138 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 2.176.938,33 | R$ 230.000,00 | R$ 2.406.938,33 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 17530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS | R$ 230.000,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 230.000,00 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **850-FUNDO DE MANUTENÇÃO E REAPARELHAMENTO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS - FUNDEPEG** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO | 03 092 1007 2328 | 17530138 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 546.749,68 | R$ 230.000,00 | R$ 230.000,00 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 17530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS | R$ 230.000,00 |
+| **TOTAL** | R$ 230.000,00 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 17530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS | R$ 230.000,00 |
+| **TOTAL** | R$ 230.000,00 |

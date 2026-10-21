@@ -1,0 +1,32 @@
+# Decreto Numerado nº 10.982, de 2026-08-28
+
+DECRETO Nº 10.982, DE 28 DE AGOSTO DE 2026
+
+Altera o Anexo V do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021, que define os municípios que sediarão as unidades regionais dos órgãos que especifica, integrantes da Secretaria de Estado da Segurança Pública, e fixa as respectivas circunscrições.
+
+O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, com fundamento no inciso IV e na alínea “a” do inciso XVIII do art. 37 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152) e em atenção ao Processo nº 202600011020547,
+
+**DECRETA:**
+
+Art. 1º O Anexo V do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021, passa a vigorar com as alterações indicadas no Anexo Único deste Decreto.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+Goiânia, 28 de agosto de 2026; 138º da República.
+
+ 
+
+DANIEL VILELA<br>
+Governador do Estado
+
+ANEXO ÚNICO
+
+(Alteração do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925), de 30 de março de 2021)
+
+“ANEXO V
+
+CORPO DE BOMBEIROS MILITAR
+
+<table><thead></thead><tbody><tr><td style="text-align:center">COMANDOS REGIONAIS – SEDES</td><td style="text-align:center">JURISDIÇÃO/CIRCUNSCRIÇÃO</td></tr><tr><td colspan="2">......................................................................................................................................................</td></tr><tr><td>2º COMANDO REGIONAL BOMBEIRO MILITAR – RIO VERDE</td><td style="text-align:justify">Acreúna, Aparecida do Rio Doce, Cachoeira Alta, Caçu, Castelândia, Gouvelândia, Inaciolândia, Indiara, Itajá, Itarumã, Lagoa Santa, Maurilândia, Montividiu, Paranaiguara, Porteirão, Quirinópolis, Rio Verde, Santa Helena de Goiás, Santo Antônio da Barra, São Simão e Turvelândia. (21)</td></tr><tr><td>3º COMANDO REGIONAL BOMBEIRO MILITAR – ANÁPOLIS</td><td style="text-align:justify">Abadiânia, Alexânia, Anápolis, Campo Limpo de Goiás, Carmo do Rio Verde, Ceres, Cocalzinho de Goiás, Corumbá de Goiás, Gameleira de Goiás, Goianápolis, Guarinos, Ipiranga de Goiás, Itaguaru, Itapaci, Jaraguá, Jesúpolis, Leopoldo de Bulhões, Nova América, Nova Glória, Pilar de Goiás, Pirenópolis, Rialma, Rianápolis, Rubiataba, São Francisco de Goiás, São Patrício, Silvânia, Terezópolis de Goiás, Uruana e Vianópolis. (30)</td></tr><tr><td>4º COMANDO REGIONAL BOMBEIRO MILITAR – LUZIÂNIA</td><td style="text-align:justify">Águas Lindas de Goiás, Cidade Ocidental, Cristalina, Domiciano Ribeiro (Distrito de Ipameri), Edilândia (Distrito de Cocalzinho de Goiás), Girassol (Distrito de Cocalzinho de Goiás), Luziânia, Mimoso de Goiás, Novo Gama, Padre Bernardo, Santo Antônio do Descoberto e Valparaíso de Goiás. (12)</td></tr><tr><td>5º COMANDO REGIONAL BOMBEIRO MILITAR – APARECIDA DE GOIÂNIA</td><td style="text-align:justify">Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Caldazinha, Cristianópolis, Hidrolândia, Piracanjuba, Professor Jamil, São Miguel do Passa Quatro e Senador Canedo. (11)</td></tr><tr><td>6º COMANDO REGIONAL BOMBEIRO MILITAR – GOIÁS</td><td style="text-align:justify">Adelândia, Americano do Brasil, Amorinópolis, Aragarças, Araguapaz, Arenópolis, Aruanã, Aurilândia, Baliza, Bom Jardim de Goiás, Britânia, Buriti de Goiás, Cachoeira de Goiás, Córrego do Ouro, Diorama, Faina, Fazenda Nova, Firminópolis, Goiás, Guaraíta, Heitoraí, Iporá, Israelândia, Itaberaí, Itaguari, Itapirapuã, Itapuranga, Ivolândia, Jaupaci, Jussara, Matrinchã, Moiporá, Montes Claros de Goiás, Morro Agudo de Goiás, Mossâmedes, Mozarlândia, Novo Brasil, Piranhas, Sanclerlândia, Santa Fé de Goiás, São João da Paraúna, São Luís de Montes Belos, Taquaral de Goiás e Turvânia. (44)</td></tr><tr><td>7º COMANDO REGIONAL BOMBEIRO MILITAR – CALDAS NOVAS</td><td style="text-align:justify">Água Limpa, Aloândia, Anhanguera, Bom Jesus de Goiás, Buriti Alegre, Cachoeira Dourada, Caldas Novas, Campo Alegre de Goiás, Catalão, Corumbaíba, Cromínia, Cumari, Davinópolis, Edealina, Edeia, Goiandira, Goiatuba, Ipameri, Itumbiara, Joviânia, Mairipotaba, Marzagão, Morrinhos, Nova Aurora, Orizona, Ouvidor, Palmelo, Panamá, Pires do Rio, Pontalina, Rio Quente, Santa Cruz de Goiás, Três Ranchos, Urutaí e Vicentinópolis. (35)</td></tr><tr><td>8º COMANDO REGIONAL BOMBEIRO MILITAR – URUAÇU</td><td style="text-align:justify">Alto Horizonte, Amaralina, Barro Alto, Bonópolis, Campinaçu, Campinorte, Campos Verdes, Colinas do Sul, Crixás, Estrela do Norte, Formoso, Goianésia, Hidrolina, Mara Rosa, Minaçu, Montividiu do Norte, Mundo Novo, Mutunópolis, Niquelândia, Nova Iguaçu de Goiás, Novo Planalto, Nova Crixás, Porangatu, Santa Isabel, Santa Rita do Novo Destino, Santa Tereza de Goiás, Santa Terezinha de Goiás, São Luiz do Norte, São Miguel do Araguaia, Trombas, Uirapuru, Uruaçu e Vila Propício. (33)</td></tr><tr><td>9º COMANDO REGIONAL BOMBEIRO MILITAR – FORMOSA</td><td style="text-align:justify">Água Fria de Goiás, Alto Paraíso de Goiás, Alvorada do Norte, Buritinópolis, Cabeceiras, Campos Belos, Cavalcante, Damianópolis, Divinópolis de Goiás, Flores de Goiás, Formosa, Guarani de Goiás, Iaciara, Mambaí, Monte Alegre de Goiás, Nova Roma, Planaltina, Posse, São Domingos, São João d´Aliança, Simolândia, Sítio d’Abadia, Teresina de Goiás e Vila Boa. (24)</td></tr><tr><td>10º COMANDO REGIONAL BOMBEIRO MILITAR – TRINDADE</td><td style="text-align:justify">Abadia de Goiás, Anicuns, Araçu, Avelinópolis, Brazabrantes, Campestre de Goiás, Caturaí, Cezarina, Damolândia, Goianira, Guapó, Inhumas, Itauçu, Jandaia, Nazário, Nerópolis, Nova Veneza, Ouro Verde de Goiás, Palmeiras de Goiás, Palminópolis, Paraúna, Petrolina de Goiás, Santa Bárbara de Goiás, Santa Rosa de Goiás, Santo Antônio de Goiás, Trindade e Varjão. (27)</td></tr><tr><td>11º COMANDO REGIONAL BOMBEIRO MILITAR – JATAÍ</td><td style="text-align:justify">Aporé, Caiapônia, Chapadão do Céu, Doverlândia, Jataí, Mineiros, Palestina de Goiás, Perolândia, Portelândia, Santa Rita do Araguaia e Serranópolis. (11)</td></tr></tbody></table>
+
+” (NR)

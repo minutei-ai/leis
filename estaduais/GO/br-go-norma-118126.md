@@ -1,0 +1,101 @@
+# Portaria Orçamentária nº 433, de 2026-08-26
+
+Portaria Orçamentária nº 433/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC, FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP, SECRETARIA DA SEGURANÇA PÚBLICA, créditos suplementares no valor global de R$ 717.161,06 (setecentos e dezessete mil cento e sessenta e um reais e seis centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 26 dias do mês de Agosto de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CONTRIBUIÇÕES AO PASEP | 28 846 0100 7102 | 17990142 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 200.000,00 | R$ 200.000,00 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 1.210,85 | R$ 10.000,00 | R$ 11.210,85 |
+
+| **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 17130000 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 150.000,00 | R$ 406.803,20 | R$ 556.803,20 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3177 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 207.656,68 | R$ 96.851,51 | R$ 304.508,19 |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 368.652,28 | R$ 3.506,35 | R$ 372.158,63 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 110.357,86 |
+| 17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP | R$ 406.803,20 |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 200.000,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 717.161,06 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR | 06 422 1007 3180 | 17990142 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 5.511.224,78 | R$ 200.000,00 | R$ 200.000,00 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3178 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 124.423,79 | R$ 10.000,00 | R$ 10.000,00 |
+
+| **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA | 06 183 1051 3179 | 17130000 | 90 | 4 - INVESTIMENTOS | R$ 606.807,74 | R$ 406.803,20 | R$ 406.803,20 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 06 122 4200 4243 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 598.195,36 | R$ 100.357,86 | R$ 100.357,86 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 110.357,86 |
+| 17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP | R$ 406.803,20 |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 200.000,00 |
+| **TOTAL** | R$ 717.161,06 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 110.357,86 |
+| 17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP | R$ 406.803,20 |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 200.000,00 |
+| **TOTAL** | R$ 717.161,06 |

@@ -1,0 +1,78 @@
+# Portaria Orçamentária nº 409, de 2026-08-18
+
+Portaria Orçamentária nº 409/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026, conforme processo 202600004006506.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto à SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO, crédito suplementar no valor de R$ 20.742.639,17 (vinte milhões setecentos e quarenta e dois mil seiscentos e trinta e nove reais e dezessete centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 18 dias do mês de Agosto de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**<br>
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MANUTENÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS | 19 126 1049 2487 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 24.711.175,24 | R$ 3.929.515,09 | R$ 28.640.690,33 |
+| MODERNIZAÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS | 19 126 1049 3283 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 14.149.791,14 | R$ 15.684.200,20 | R$ 29.833.991,34 |
+| MODERNIZAÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS | 19 126 1049 3283 | 25000100 | 90 | 4 - INVESTIMENTOS | R$ 0,00 | R$ 1.128.923,88 | R$ 1.128.923,88 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 19.613.715,29 |
+| 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES | R$ 1.128.923,88 |
+| **TOTAL A SUPLEMENTAR** | R$ 20.742.639,17 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**<br>
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO | 15 451 1003 2606 | 15000100 | 91 | 3 - OUTRAS DESPESAS CORRENTES | R$ 26.381.417,19 | R$ 3.468.920,05 | R$ 3.468.920,05 |
+| INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO | 15 451 1003 2606 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 9.156.762,96 | R$ 1.640.030,94 | R$ 1.640.030,94 |
+
+| **1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO**<br>
+1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 04 122 4200 4243 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 1.432.935,00 | R$ 726.000,00 | R$ 726.000,00 |
+| PUBLICIDADE DE UTILIDADE PÚBLICA | 04 131 1047 3119 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 51.913.272,70 | R$ 684.000,00 | R$ 684.000,00 |
+| PUBLICIZAÇÃO DAS AÇÕES DO GOVERNO | 04 131 1047 3019 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 53.540.631,29 | R$ 13.094.764,30 | R$ 13.094.764,30 |
+
+| **3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**<br>
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO | 15 451 1003 2606 | 25000100 | 91 | 3 - OUTRAS DESPESAS CORRENTES | R$ 8.234.721,20 | R$ 1.128.923,88 | R$ 1.128.923,88 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 19.613.715,29 |
+| 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES | R$ 1.128.923,88 |
+| **TOTAL** | R$ 20.742.639,17 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 19.613.715,29 |
+| 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES | R$ 1.128.923,88 |
+| **TOTAL** | R$ 20.742.639,17 |

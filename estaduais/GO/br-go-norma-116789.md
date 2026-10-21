@@ -1,0 +1,87 @@
+# Portaria Orçamentária nº 350, de 2026-07-16
+
+Portaria Orçamentária nº 350/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO DE ARTE E CULTURA DO ESTADO DE GOIÁS, DEPARTAMENTO ESTADUAL DE TRÂNSITO, SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO créditos suplementares no valor global de R$ 3.324.660,71 (três milhões trezentos e vinte e quatro mil seiscentos e sessenta reais e setenta e um centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 16 dias do mês de Julho de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**<br>
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| IMPLANTAÇÃO DE SISTEMA DE BARRAGENS, MANUTENÇÃO E SEGURANÇA | 20 607 1011 2530 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 74.660,71 | R$ 74.660,71 |
+
+| **2550-FUNDO DE ARTE E CULTURA DO ESTADO DE GOIÁS - FUNDO CULTURAL** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DOS EQUIPAMENTOS CULTURAIS | 13 391 1026 2339 | 17990164 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 2.100.000,00 | R$ 2.100.000,00 |
+
+| **2961-DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO DA INICIATIVA DE CONDUTOR HABILITADO | 06 125 1036 2453 | 17530161 | 90 | 4 - INVESTIMENTOS | R$ 0,00 | R$ 1.150.000,00 | R$ 1.150.000,00 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 74.660,71 |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 1.150.000,00 |
+| 17990164 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO PRODUZIR | R$ 2.100.000,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 3.324.660,71 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**<br>
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 20 122 4200 4243 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 875.360,27 | R$ 43.279,87 | R$ 43.279,87 |
+| IMPLANTAÇÃO DE SISTEMA DE BARRAGENS, MANUTENÇÃO E SEGURANÇA | 20 607 1011 2530 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 31.380,84 | R$ 31.380,84 | R$ 31.380,84 |
+
+| **2550-FUNDO DE ARTE E CULTURA DO ESTADO DE GOIÁS - FUNDO CULTURAL** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RESTAURAÇÃO DE BEM CULTURAL | 13 391 1026 3173 | 17990164 | 90 | 4 - INVESTIMENTOS | R$ 3.588.545,83 | R$ 2.100.000,00 | R$ 2.100.000,00 |
+
+| **2961-DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO DA INICIATIVA DE CONDUTOR HABILITADO | 06 125 1036 2453 | 17530161 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 11.048.869,32 | R$ 1.150.000,00 | R$ 1.150.000,00 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 74.660,71 |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 1.150.000,00 |
+| 17990164 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO PRODUZIR | R$ 2.100.000,00 |
+| **TOTAL** | R$ 3.324.660,71 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 74.660,71 |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 1.150.000,00 |
+| 17990164 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO PRODUZIR | R$ 2.100.000,00 |
+| **TOTAL** | R$ 3.324.660,71 |

@@ -1,0 +1,62 @@
+# Portaria Orçamentária nº 380, de 2026-07-30
+
+Portaria Orçamentária nº 380/2026 - Economia
+
+O Defensor Público-Geral da DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no uso de suas atribuições legais, com fundamento no art. 9º, §1º e inciso IV da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de janeiro de 2026,
+
+**RESOLVE:**
+
+Art. 1º Fica aberto ao FUNDO DE MANUTENÇÃO E REAPARELHAMENTO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS - FUNDEPEG , crédito suplementar no valor de R$ 1.132.703,57 (um milhão cento e trinta e dois mil setecentos e três reais e cinquenta e sete centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+Goiânia, aos 30 dias do mês de Julho de 2026.
+
+ 
+
+TIAGO GREGORIO FERNANDES
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **850-FUNDO DE MANUTENÇÃO E REAPARELHAMENTO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS - FUNDEPEG** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO | 03 092 4200 4242 | 17530138 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 1.044.234,76 | R$ 1.132.703,57 | R$ 2.176.938,33 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 17530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS | R$ 1.132.703,57 |
+| **TOTAL A SUPLEMENTAR** | R$ 1.132.703,57 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **850-FUNDO DE MANUTENÇÃO E REAPARELHAMENTO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS - FUNDEPEG** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| REALIZAÇÃO DE ATIVIDADE ITINERANTE | 03 092 1007 2329 | 17530138 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 344.300,00 | R$ 264.893,44 | R$ 264.893,44 |
+| INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO | 03 092 1007 3153 | 17530138 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 731.692,25 | R$ 441.692,25 | R$ 441.692,25 |
+| GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO | 03 092 1007 2328 | 17530138 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 883.135,89 | R$ 336.386,21 | R$ 336.386,21 |
+| REALIZAÇÃO DE ATIVIDADE ITINERANTE | 03 092 1007 2329 | 17530138 | 90 | 4 - INVESTIMENTOS | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO | 03 092 1007 3153 | 17530138 | 90 | 5 - INVERSÕES FINANCEIRAS | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO | 03 092 1007 3153 | 17530138 | 90 | 4 - INVESTIMENTOS | R$ 22.870,04 | R$ 22.870,04 | R$ 22.870,04 |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO | 03 092 4200 4242 | 17530138 | 90 | 4 - INVESTIMENTOS | R$ 360.286,36 | R$ 11.976,03 | R$ 11.976,03 |
+| GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO | 03 092 1007 2328 | 17530138 | 90 | 5 - INVERSÕES FINANCEIRAS | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO | 03 092 1007 2328 | 17530138 | 90 | 4 - INVESTIMENTOS | R$ 24.885,60 | R$ 24.885,60 | R$ 24.885,60 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 17530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS | R$ 1.132.703,57 |
+| **TOTAL** | R$ 1.132.703,57 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 17530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS | R$ 1.132.703,57 |
+| **TOTAL** | R$ 1.132.703,57 |

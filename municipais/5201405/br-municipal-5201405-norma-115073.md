@@ -1,0 +1,40 @@
+# Decreto Numerado nº 441, de 2026-06-01
+
+DECRETO Nº 441, DE 1º DE JUNHO DE 2026
+
+Dispõe sobre o desmembramento do Lote 02, situado à Avenida Dona Maria Marques de Abreu, no Loteamento Bairro Independência 2º Complemento, no Município de Aparecida de Goiânia.
+
+O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município; tendo em vista o disposto na Lei federal nº 6.766, de 19 de dezembro de 1979; na Lei Complementar nº 124, de 14 de dezembro de 2016; e no contido no Processo nº 2026.026.436,
+
+**DECRETA:**
+
+Art. 1º Fica desmembrado o imóvel denominado Lote 02, da Quadra 72, situado à Avenida Dona Maria Marques de Abreu, no Loteamento Bairro Independência 2º Complemento, no Município de Aparecida de Goiânia, de propriedade de TOTAL CONSTRUTORA LTDA, inscrita no CNPJ nº 51.879.621/0001-28, conforme descrito no Anexo.
+
+Parágrafo único. O desmembramento de que trata o caput está em conformidade com os documentos acostados ao Processo Administrativo nº 2026.026.436, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
+
+Art. 2º Para os efeitos deste Decreto, o ato constitutivo de desmembramento deverá ser registrado em Cartório, no prazo de 180 (cento e oitenta) dias, contados da data de sua publicação, sob pena de caducidade da aprovação.
+
+Art. 3º Após o registro do desmembramento, o interessado deverá apresentar a certidão atualizada do imóvel perante o órgão municipal de planejamento urbano.
+
+Art. 4º Este Decreto entra em vigor na data de sua publicação.
+
+Aparecida de Goiânia, 1º de junho de 2026.
+
+LEANDRO VILELA
+
+Prefeito de Aparecida de Goiânia
+
+ANEXO
+
+SITUAÇÃO ATUAL
+
+| IMÓVEL | ÁREA (m²) |
+| --- | --- |
+| LOTE 02 | 378,00 |
+
+SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
+
+| IMÓVEL | ÁREA (m²) |
+| --- | --- |
+| LOTE 02 A | 189,00 |
+| LOTE 02 B | 189,00 |

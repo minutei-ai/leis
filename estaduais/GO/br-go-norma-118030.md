@@ -1,0 +1,87 @@
+# Portaria Orçamentária nº 422, de 2026-08-24
+
+Portaria Orçamentária nº 422/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP, SECRETÁRIA DE ESTADO DA SEGURANÇA PÚBLICA, créditos suplementares no valor global de R$ 2.119.230,26 (dois milhões cento e dezenove mil duzentos e trinta reais e vinte e seis centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 24 dias do mês de Agosto de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA | 06 181 1051 2351 | 17530161 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 1.974.442,23 | R$ 1.399.165,26 | R$ 3.373.607,49 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3178 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 15.463,79 | R$ 118.960,00 | R$ 134.423,79 |
+
+| **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 27130000 | 90 | 4 - INVESTIMENTOS | R$ 12.281.621,54 | R$ 482.800,00 | R$ 12.764.421,54 |
+| ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3178 | 27130000 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 540.678,60 | R$ 118.305,00 | R$ 658.983,60 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 118.960,00 |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 1.399.165,26 |
+| 27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES | R$ 601.105,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 2.119.230,26 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 06 122 4200 4243 | 17530161 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 7.769.001,39 | R$ 1.399.165,26 | R$ 1.399.165,26 |
+
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 667.612,28 | R$ 118.960,00 | R$ 118.960,00 |
+
+| **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3177 | 27130000 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 2.804.333,32 | R$ 601.105,00 | R$ 601.105,00 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 118.960,00 |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 1.399.165,26 |
+| 27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES | R$ 601.105,00 |
+| **TOTAL** | R$ 2.119.230,26 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 118.960,00 |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 1.399.165,26 |
+| 27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES | R$ 601.105,00 |
+| **TOTAL** | R$ 2.119.230,26 |

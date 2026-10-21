@@ -1,0 +1,62 @@
+# Portaria Orçamentária nº 407, de 2026-08-14
+
+Portaria Orçamentária nº 407/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043), de 06 de Janeiro de 2026. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto ao FUNDO ESTADUAL DE SAÚDE - FES, crédito suplementar no valor de R$ 5.097.796,94 (cinco milhões noventa e sete mil setecentos e noventa e seis reais e noventa e quatro centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 14 dias do mês de Agosto de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **2850-FUNDO ESTADUAL DE SAÚDE - FES** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES | 10 302 1043 2522 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 507.748,41 | R$ 498.818,36 | R$ 1.006.566,77 |
+| CONTRAPARTIDA DA REDE DE URGÊNCIA E EMERGÊNCIA | 10 302 1043 2597 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 0,00 | R$ 254.978,58 | R$ 254.978,58 |
+| REALIZAÇÃO DE APORTE FINANCEIRO PARA O PROGRAMA DE QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA À SAUDE (QUALIFICA-APS) | 10 301 1043 2496 | 15000100 | 41 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 4.144.000,00 | R$ 4.144.000,00 |
+| REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE | 10 302 1043 2498 | 16000232 | 50 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 200.000,00 | R$ 200.000,00 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 4.897.796,94 |
+| 16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE | R$ 200.000,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 5.097.796,94 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **2850-FUNDO ESTADUAL DE SAÚDE - FES** |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES | 10 302 1043 2516 | 15000100 | 50 | 4 - INVESTIMENTOS | R$ 17.532.591,99 | R$ 753.796,94 | R$ 753.796,94 |
+| CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192 | 10 302 1043 2510 | 15000100 | 41 | 3 - OUTRAS DESPESAS CORRENTES | R$ 9.530.985,57 | R$ 4.144.000,00 | R$ 4.144.000,00 |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 10 122 4200 4243 | 16000232 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 2.068.790,68 | R$ 200.000,00 | R$ 200.000,00 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 4.897.796,94 |
+| 16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE | R$ 200.000,00 |
+| **TOTAL** | R$ 5.097.796,94 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 4.897.796,94 |
+| 16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE | R$ 200.000,00 |
+| **TOTAL** | R$ 5.097.796,94 |

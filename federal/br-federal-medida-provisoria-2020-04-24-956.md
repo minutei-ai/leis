@@ -1,0 +1,17 @@
+# Medida Provisória nº 956 de 24/04/2020
+
+MEDIDA PROVISÓRIA Nº 956, DE 24 DE ABRIL DE 2020
+
+Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 25.720.000.000,00, para o fim que especifica.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62, combinado com o art. 167, § 3º, da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º Fica aberto crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 25.720.000.000,00 (vinte e cinco bilhões setecentos e vinte milhões de reais), para atender à programação constante no Anexo.
+
+Art. 2º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 24 de abril de 2020; 199º da Independência e 132º da República.
+
+JAIR MESSIAS BOLSONARO
+
+Paulo Guedes

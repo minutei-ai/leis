@@ -1,0 +1,37 @@
+# Decreto nº 70.442, de 10/03/2026
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212328)<br>
+
+# DECRETO N° 70.442, DE 10 DE MARÇO DE 2026
+
+### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Faculdade de Medicina de Marília - FAMEMA, visando ao atendimento de Despesas de Capital.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 18.178, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211200), e na [Lei n° 18.387, de 6 de janeiro de 2026](https://www.al.sp.gov.br/norma/212096),
+
+Decreta:
+
+**Artigo 1° -** Fica aberto um crédito de R$ 1.726.568,00 (um milhão, setecentos e vinte e seis mil, quinhentos e sessenta e oito reais), suplementar ao orçamento da Faculdade de Medicina de Marília-FAMEMA, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.
+
+**Artigo 2° -** O crédito aberto pelo artigo anterior será coberto com recursos a que alude o inciso III, do § 1°, do artigo 43, da Lei federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.
+
+**Artigo 3° -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 8°, do [Decreto n° 70.333, de 12 de janeiro de 2026](https://www.al.sp.gov.br/norma/212159), de conformidade com a Tabela 2, anexa.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS<br>
+Roberto Ribeiro Carneiro<br>
+Samuel Yoshiaki Oliveira Kinoshita
+
+![](/repositorio/legislacao/decreto/2026/2026031109513650145.png)
+
+![](/repositorio/legislacao/decreto/2026/2026031109513649252.png)
+
+![](/repositorio/legislacao/decreto/2026/2026031109513648450.png)
+
+#### Retificação - DOE-SP Executivo Seção 1 26/03/2026, p. 4
+
+#### RETIFICAÇÕES DO DOESP DOS DIAS 10 E 12 DE MARÇO DE 2026
+
+Nos Decretos n° 70.432, n° 70.435, n° 70.439, n° 70.440, n° 70.441, n° 70.442, n° 70.443, n° 70.444, n° 70.445 e n° 70.446, todos de 10 de março de 2026 e n° 70.453, n° 70.454 e n° 70.455, todos de 12 de março de 2026, nos referendos leia-se como segue e não como constou:
+
+Rogério de Campos
