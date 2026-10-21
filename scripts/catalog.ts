@@ -1,12 +1,12 @@
 import { Schema } from "effect";
 
 export const Source = Schema.Struct({
-  id: Schema.String.pipe(Schema.pattern(/^br-(?:federal|mg|sp|municipal-3550308)-[a-z0-9-]+$/)),
+  id: Schema.String.pipe(Schema.pattern(/^br-(?:federal|mg|sp|ba|municipal-3550308)-[a-z0-9-]+$/)),
   titulo: Schema.NonEmptyString,
   data: Schema.String.pipe(Schema.pattern(/^\d{4}-\d{2}-\d{2}$/)),
   fonte: Schema.String.pipe(
     Schema.pattern(
-      /^https:\/\/(?:www2\.camara\.leg\.br\/legin\/|normas\.leg\.br\/api\/public\/binario\/|dadosabertos\.almg\.gov\.br\/api\/v2\/legislacao\/mineira\/|www\.al\.sp\.gov\.br\/repositorio\/legislacao\/|legislacao\.prefeitura\.sp\.gov\.br\/leis\/)/,
+      /^https:\/\/(?:www2\.camara\.leg\.br\/legin\/|normas\.leg\.br\/api\/public\/binario\/|dadosabertos\.almg\.gov\.br\/api\/v2\/legislacao\/mineira\/|www\.al\.sp\.gov\.br\/repositorio\/legislacao\/|www\.legislabahia\.ba\.gov\.br\/documentos\/|legislacao\.prefeitura\.sp\.gov\.br\/leis\/)/,
     ),
   ),
   marcadorInicial: Schema.optional(Schema.NonEmptyString),
@@ -49,6 +49,7 @@ export const UpdatedVersion = Schema.Literal(
   "texto atualizado disponibilizado pela ALMG",
   "texto atualizado disponibilizado pela Alesp",
   "texto compilado disponibilizado pela Prefeitura de São Paulo",
+  "texto compilado disponibilizado pela Casa Civil da Bahia",
 );
 
 export const OriginalVersion = Schema.Literal(

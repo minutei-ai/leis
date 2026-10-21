@@ -1,0 +1,6 @@
+{
+  "id": "bahia-url-f91d5b94fb4c6ea91940ba9acafc3215b4a6868cab12dcf369aa600c5b3520d5",
+  "coletado_em": "2026-10-21T10:33:02.286Z",
+  "erro": "BahiaFailure: { \"fonte\": \"https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-011-de-18-de-janeiro-de-1996\", \"motivo\": \"Título do catálogo diverge da íntegra: LEI COMPLEMENTAR Nº 011 DE 18 DE JANEIRO DE 1996. [Download]\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/bahia.ts:103:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/bahia.ts:81:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/collect-bahia.ts:90:33)",
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-011-de-18-de-janeiro-de-1996"
+}

@@ -1,0 +1,96 @@
+{
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B7%5D=7&num=&ementa=&exp=&data%5Bmin%5D=&data%5Bmax%5D=&page=3",
+  "coletado_em": "2026-10-21T10:25:57.207Z",
+  "sha256_fonte": "cd84b3b32b5f11d5d90405b8d5df2e00117fb688355642ef5a05455c6c0f12d4",
+  "pagina": {
+    "categoria": "7",
+    "pagina": 3,
+    "total": 15220,
+    "inicio": 61,
+    "fim": 80,
+    "proxima": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B7%5D=7&num=&ementa=&exp=&data%5Bmin%5D=&data%5Bmax%5D=&page=4",
+    "ultima": 760,
+    "normas": [
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15143-de-04-de-maio-de-2026",
+        "titulo": "LEI Nº 15.143 DE 04 DE MAIO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15142-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.142 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15141-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.141 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15140-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.140 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15139-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.139 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15138-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.138 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15137-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.137 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15136-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.136 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15135-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.135 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15134-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.134 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15133-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.133 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15132-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.132 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15131-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.131 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15130-de-31-de-marco-de-2026",
+        "titulo": "LEI Nº 15.130 DE 31 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15129-de-25-de-marco-de-2026",
+        "titulo": "LEI Nº 15.129 DE 25 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15128-de-18-de-marco-de-2026",
+        "titulo": "LEI Nº 15.128 DE 18 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15127-de-03-de-marco-de-2026",
+        "titulo": "LEI Nº 15.127 DE 03 DE MARÇO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15126-de-28-de-janeiro-de-2026",
+        "titulo": "LEI Nº 15.126 DE 28 DE JANEIRO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15125-de-28-de-janeiro-de-2026",
+        "titulo": "LEI Nº 15.125 DE 28 DE JANEIRO DE 2026"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15124-de-28-de-janeiro-de-2026",
+        "titulo": "LEI Nº 15.124 DE 28 DE JANEIRO DE 2026"
+      }
+    ]
+  }
+}

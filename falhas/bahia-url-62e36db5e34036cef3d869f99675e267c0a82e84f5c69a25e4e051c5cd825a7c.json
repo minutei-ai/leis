@@ -1,0 +1,6 @@
+{
+  "id": "bahia-url-62e36db5e34036cef3d869f99675e267c0a82e84f5c69a25e4e051c5cd825a7c",
+  "coletado_em": "2026-10-21T10:33:07.768Z",
+  "erro": "BahiaFailure: { \"fonte\": \"https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-02-de-julho-de-1891-texto-consolidado\", \"motivo\": \"Título do catálogo diverge da íntegra: undefined\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/bahia.ts:103:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/bahia.ts:81:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/collect-bahia.ts:90:33)",
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-02-de-julho-de-1891-texto-consolidado"
+}

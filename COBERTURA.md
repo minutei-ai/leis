@@ -2,14 +2,15 @@
 
 Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos arquivos com hashes íntegros presentes neste commit. Não mede toda a legislação brasileira nem a completude dos catálogos oficiais.
 
-- Normas publicadas: **4948**.
+- Normas publicadas: **5294**.
 - Normas identificadas nos catálogos consultados do Senado: **186312**.
 - Dessas, ainda sem Markdown íntegro: **183741**.
 - Normas identificadas nos catálogos consultados da ALMG: **61932**.
 - Dessas, ainda sem Markdown íntegro: **59928**.
 - Normas identificadas nas páginas consultadas da Alesp: **181192**; publicadas: **268**.
 - Leis municipais de São Paulo identificadas: **18447**; publicadas: **104**.
-- Falhas de coleta registradas: **47**.
+- Documentos baianos catalogados: **497**; publicados: **346**.
+- Falhas de coleta registradas: **54**.
 - Falhas de descoberta de catálogos registradas: **0**.
 
 ## Versões publicadas
@@ -20,6 +21,7 @@ Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos a
 - publicação original disponibilizada pelo Senado: 2421.
 - texto atualizado disponibilizado pela ALMG: 84.
 - texto atualizado pela Câmara na data de coleta: 3.
+- texto compilado disponibilizado pela Casa Civil da Bahia: 346.
 - texto compilado disponibilizado pela Prefeitura de São Paulo: 104.
 
 ## Catálogos federais do Senado
@@ -1793,6 +1795,22 @@ A descoberta consulta apenas o tipo LEI, particionado por ano de publicação. O
 | 1801 | 0 | 0 | 0 | 0 | 0 |
 | 1800 | 0 | 0 | 0 | 0 | 0 |
 
+## Bahia — Casa Civil
+
+Categorias integradas: leis ordinárias (7), complementares (5), delegadas (6), emendas (4) e constituições de 1989 (11), 1891 (30), 1935 (31), 1947 (32) e 1967 (33). A tabela distingue páginas preservadas do total informado; uma descoberta parcial não significa catálogo esgotado. A identidade publicada usa o node ID oficial do Drupal, conferido no shortlink e no corpo. O texto é a compilação disponibilizada na data da coleta, sem certificação de vigência. Falhas antes de resolver o node ID usam um hash do endereço apenas na fila de retentativas, nunca como identidade de norma.
+
+| Categoria oficial | Páginas preservadas | Páginas declaradas | Documentos nas páginas | Total declarado |
+| --- | ---: | ---: | ---: | ---: |
+| 11 | 1 | 1 | 1 | 1 |
+| 30 | 1 | 1 | 1 | 1 |
+| 31 | 1 | 1 | 1 | 1 |
+| 32 | 1 | 1 | 1 | 1 |
+| 33 | 1 | 1 | 1 | 1 |
+| 4 | 2 | 2 | 33 | 33 |
+| 5 | 3 | 3 | 60 | 60 |
+| 6 | 4 | 4 | 79 | 79 |
+| 7 | 16 | 761 | 320 | 15220 |
+
 ## Lacunas
 
-A descoberta federal está em expansão por anos e famílias. Anos ou tipos ausentes das tabelas não foram consultados; não significam ausência de normas. Os portais podem não ter digitalizado ou catalogado todos os atos. A cobertura estadual começou por Minas Gerais e São Paulo; os demais estados, o Distrito Federal e os demais municípios ainda estão pendentes. Anexos e outros documentos vinculados por links não são baixados por estes coletores; imagens e links presentes no HTML permanecem no Markdown. Hash e reprodução verificam a transformação, sem certificar vigência ou revisão jurídica integral.
+A descoberta federal está em expansão por anos e famílias. Anos ou tipos ausentes das tabelas não foram consultados; não significam ausência de normas. Os portais podem não ter digitalizado ou catalogado todos os atos. A cobertura estadual inclui fontes de Minas Gerais, São Paulo e Bahia; os demais estados, o Distrito Federal e os demais municípios ainda estão pendentes. Anexos e outros documentos vinculados por links não são baixados por estes coletores; imagens e links presentes no HTML permanecem no Markdown. Hash e reprodução verificam a transformação, sem certificar vigência ou revisão jurídica integral.

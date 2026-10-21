@@ -1,0 +1,6 @@
+{
+  "id": "bahia-url-c3c1b0f33097e5e7803ad9fa5b7e7e5da2dd828bb04f14693e8b02d7778f8294",
+  "coletado_em": "2026-10-21T10:33:08.406Z",
+  "erro": "BahiaFailure: { \"fonte\": \"https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-20-de-agosto-de-1935\", \"motivo\": \"Título do catálogo diverge da íntegra: undefined\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/bahia.ts:103:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/bahia.ts:81:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/collect-bahia.ts:90:33)",
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-20-de-agosto-de-1935"
+}

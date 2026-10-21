@@ -1,0 +1,96 @@
+{
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B0%5D=6&page=0",
+  "coletado_em": "2026-10-21T10:23:01.024Z",
+  "sha256_fonte": "38aae73689ab66392e8199e4d52d707353388f28baad004f76014f0dcc28e36e",
+  "pagina": {
+    "categoria": "6",
+    "pagina": 0,
+    "total": 79,
+    "inicio": 1,
+    "fim": 20,
+    "proxima": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B6%5D=6&num=&ementa=&exp=&data%5Bmin%5D=&data%5Bmax%5D=&page=1",
+    "ultima": 3,
+    "normas": [
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-79-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 79 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-78-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 78 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-77-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 77 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-76-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 76 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-75-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 75 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-74-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 74 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-73-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 73 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-72-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 72 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-71-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 71 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-70-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 70 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-69-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 69 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-68-de-03-de-junho-de-1983",
+        "titulo": "LD Nº 68 DE 03 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-67-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 67 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-66-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 66 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-65-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 65 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-64-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 64 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-63-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 63 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-62-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 62 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-61-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 61 DE 01 DE JUNHO DE 1983"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/ld-no-60-de-01-de-junho-de-1983",
+        "titulo": "LD Nº 60 DE 01 DE JUNHO DE 1983"
+      }
+    ]
+  }
+}

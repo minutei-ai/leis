@@ -1,0 +1,20 @@
+{
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B0%5D=30&page=0",
+  "coletado_em": "2026-10-21T10:25:49.292Z",
+  "sha256_fonte": "1847e74be16e3295c2179eba08cceb450cf02a134e666612644a7510709bdcc1",
+  "pagina": {
+    "categoria": "30",
+    "pagina": 0,
+    "total": 1,
+    "inicio": 1,
+    "fim": 1,
+    "proxima": null,
+    "ultima": 0,
+    "normas": [
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-02-de-julho-de-1891-texto-consolidado",
+        "titulo": "Constituição do Estado da Bahia de 02 de julho de 1891 - Texto Consolidado"
+      }
+    ]
+  }
+}

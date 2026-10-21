@@ -11,7 +11,8 @@
     "coverage": "bun scripts/coverage.ts",
     "collect:almg": "bun scripts/collect-almg.ts",
     "collect:alesp": "bun scripts/collect-alesp.ts",
-    "collect:pmsp": "bun scripts/collect-pmsp.ts"
+    "collect:pmsp": "bun scripts/collect-pmsp.ts",
+    "collect:bahia": "bun scripts/collect-bahia.ts"
   },
   "dependencies": {
     "cheerio": "1.1.2",

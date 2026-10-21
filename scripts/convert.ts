@@ -30,6 +30,12 @@ export const convert = Effect.fn("leis.convert")(function* (
       return yield* Effect.fail(new InvalidDocument({ fonte: source.fonte, motivo: "Conteúdo compilado municipal ausente" }));
     $("body").html(content.html() ?? "");
   }
+  if (source.id.startsWith("br-ba-")) {
+    const content = $(".node--type-documento.node--view-mode-full .field--name-body");
+    if (content.length !== 1)
+      return yield* Effect.fail(new InvalidDocument({ fonte: source.fonte, motivo: "Corpo da norma baiana ausente" }));
+    $("body").html(content.html() ?? "");
+  }
   const body = $("body");
   body.find("script, style").remove();
   const text = body.text().replace(/\s+/gu, " ").normalize("NFC");

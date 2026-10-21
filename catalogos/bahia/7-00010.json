@@ -1,0 +1,96 @@
+{
+  "fonte": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B7%5D=7&num=&ementa=&exp=&data%5Bmin%5D=&data%5Bmax%5D=&page=10",
+  "coletado_em": "2026-10-21T10:26:40.036Z",
+  "sha256_fonte": "b1e40b3eb06429ff5534a3285423867679b04cb8dcb8a0e87db8b401d5d7d95f",
+  "pagina": {
+    "categoria": "7",
+    "pagina": 10,
+    "total": 15220,
+    "inicio": 201,
+    "fim": 220,
+    "proxima": "https://www.legislabahia.ba.gov.br/documentos?categoria%5B7%5D=7&num=&ementa=&exp=&data%5Bmin%5D=&data%5Bmax%5D=&page=11",
+    "ultima": 760,
+    "normas": [
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15000-de-20-de-outubro-de-2025",
+        "titulo": "LEI Nº 15.000 DE 20 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14999-de-20-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.999 DE 20 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14998-de-20-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.998 DE 20 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.997 DE 17 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14996-de-08-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.996 DE 08 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14995-de-08-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.995 DE 08 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14994-de-08-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.994 DE 08 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14993-de-02-de-outubro-de-2025",
+        "titulo": "LEI Nº 14.993 DE 02 DE OUTUBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14992-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.992 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14991-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.991 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14990-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.990 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14989-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.989 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14988-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.988 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14987-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.987 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14986-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.986 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14985-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.985 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14984-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.984 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14983-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.983 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14982-de-30-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.982 DE 30 DE SETEMBRO DE 2025"
+      },
+      {
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14981-de-22-de-setembro-de-2025",
+        "titulo": "LEI Nº 14.981 DE 22 DE SETEMBRO DE 2025"
+      }
+    ]
+  }
+}

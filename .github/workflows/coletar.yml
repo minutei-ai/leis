@@ -34,10 +34,29 @@ jobs:
         run: bun run collect:almg --from 1947 --discover-only
       - name: Descobrir todas as páginas paulistas
         continue-on-error: true
-        run: bun run collect:alesp --discover-only
+        run: bun run collect:alesp --discover-only --refresh
       - name: Descobrir leis municipais de São Paulo
         continue-on-error: true
         run: bun run collect:pmsp --discover-only
+      - name: Descobrir leis e constituições baianas
+        continue-on-error: true
+        timeout-minutes: 45
+        run: bun run collect:bahia --discover-only --pages 100
+      - name: Atualizar catálogos federais do ano corrente
+        continue-on-error: true
+        run: |
+          CORPUS_YEAR=$(date -u +%Y)
+          bun run discover --all --from "$CORPUS_YEAR" --to "$CORPUS_YEAR" --refresh
+      - name: Atualizar catálogo mineiro do ano corrente
+        continue-on-error: true
+        run: |
+          CORPUS_YEAR=$(date -u +%Y)
+          bun run collect:almg --from "$CORPUS_YEAR" --to "$CORPUS_YEAR" --discover-only --refresh
+      - name: Atualizar catálogo municipal do ano corrente
+        continue-on-error: true
+        run: |
+          CORPUS_YEAR=$(date -u +%Y)
+          bun run collect:pmsp --from "$CORPUS_YEAR" --to "$CORPUS_YEAR" --discover-only --refresh
       - name: Coletar novo lote federal
         continue-on-error: true
         run: bun run collect:senado --limit "$BATCH_LIMIT" --skip-failures
@@ -50,6 +69,9 @@ jobs:
       - name: Coletar novo lote municipal de São Paulo
         continue-on-error: true
         run: bun run collect:pmsp --limit "$BATCH_LIMIT" --skip-failures
+      - name: Coletar novo lote baiano
+        continue-on-error: true
+        run: bun run collect:bahia --limit "$BATCH_LIMIT" --skip-failures
       - name: Reavaliar até 100 falhas federais mais antigas
         continue-on-error: true
         run: bun run collect:senado --limit 100 --only-failures
@@ -62,6 +84,9 @@ jobs:
       - name: Reavaliar até 100 falhas municipais mais antigas
         continue-on-error: true
         run: bun run collect:pmsp --limit 100 --only-failures
+      - name: Reavaliar até 100 falhas baianas mais antigas
+        continue-on-error: true
+        run: bun run collect:bahia --limit 100 --only-failures
       - run: bun run check
       - run: bun run audit
       - run: bun run coverage

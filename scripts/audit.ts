@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto";
 import { gunzipSync } from "node:zlib";
 import { Effect, Schema } from "effect";
+import { BahiaInventory, BahiaLink, parseBahiaPage, bahiaSource } from "./bahia";
 import { Metadata, Source, catalog } from "./catalog";
 import { convert, decodeHtml, InvalidDocument } from "./convert";
 import { intact } from "./document";
@@ -115,6 +116,29 @@ await Effect.runPromise(
         return yield* Effect.fail(new InvalidDocument({ fonte: path, motivo: "Inventário municipal não reproduz as páginas oficiais" }));
       for (const norm of norms) pmspNorms.set(norm.id, norm);
     }
+    const bahiaPaths = yield* Effect.tryPromise(() => Array.fromAsync(new Bun.Glob("catalogos/bahia/*.json").scan(".")));
+    const bahiaLinks = new Map<string, typeof BahiaLink.Type>();
+    const bahiaPages = new Map<string, typeof BahiaInventory.Type>();
+    for (const path of bahiaPaths.sort()) {
+      const inventory = yield* Effect.tryPromise(() => Bun.file(path).text()).pipe(Effect.flatMap(Schema.decodeUnknown(Schema.parseJson(BahiaInventory))));
+      const raw = gunzipSync(yield* Effect.tryPromise(() => Bun.file(path.replace(/\.json$/u, ".html.gz")).arrayBuffer()));
+      const page = inventory.pagina;
+      const original = yield* parseBahiaPage(raw.toString("utf8"), page.categoria, page.pagina);
+      const encode = Schema.encodeSync(Schema.parseJson(BahiaInventory.fields.pagina));
+      if (createHash("sha256").update(raw).digest("hex") !== inventory.sha256_fonte || encode(original) !== encode(page))
+        return yield* Effect.fail(new InvalidDocument({ fonte: path, motivo: "Página baiana não reproduz fonte, total ou paginação" }));
+      if (page.pagina > 0) {
+        const prior = bahiaPages.get(`${page.categoria}-${page.pagina - 1}`);
+        if (prior === undefined || prior.pagina.total !== page.total || prior.pagina.proxima !== inventory.fonte)
+          return yield* Effect.fail(new InvalidDocument({ fonte: path, motivo: "Página baiana sem predecessor ou total consistente" }));
+      }
+      bahiaPages.set(`${page.categoria}-${page.pagina}`, inventory);
+      for (const link of page.normas) {
+        if (bahiaLinks.has(link.fonte))
+          return yield* Effect.fail(new InvalidDocument({ fonte: path, motivo: "Documento baiano duplicado entre páginas ou categorias" }));
+        bahiaLinks.set(link.fonte, link);
+      }
+    }
     const paths = yield* Effect.tryPromise(() =>
       Array.fromAsync(new Bun.Glob("fontes/*.json").scan(".")),
     );
@@ -141,6 +165,14 @@ await Effect.runPromise(
           fonte: metadata.fonte,
         });
       const html = decodeHtml(source, gunzipSync(bytes));
+      if (metadata.id.startsWith("br-ba-")) {
+        const link = bahiaLinks.get(metadata.fonte);
+        if (link === undefined)
+          return yield* Effect.fail(new InvalidDocument({ fonte: path, motivo: "Texto baiano sem catálogo" }));
+        const selected = yield* bahiaSource(link, html);
+        if (selected.id !== metadata.id || selected.data !== metadata.data || selected.titulo !== metadata.titulo || metadata.versao !== "texto compilado disponibilizado pela Casa Civil da Bahia")
+          return yield* Effect.fail(new InvalidDocument({ fonte: path, motivo: "Identidade baiana diverge do original preservado" }));
+      }
       if (metadata.id.startsWith("br-municipal-3550308-")) {
         const norm = pmspNorms.get(metadata.id);
         if (norm === undefined || norm.fonte !== metadata.fonte || norm.data !== metadata.data || norm.titulo !== metadata.titulo)
@@ -180,7 +212,7 @@ await Effect.runPromise(
         );
     }
     yield* Effect.log(
-      `Auditoria: ${inventoryPaths.length + almgPaths.length + alespPaths.length + pmspPaths.length} catálogos reproduzidos; ${paths.length} normas reproduzidas, com hashes íntegros`,
+      `Auditoria: ${inventoryPaths.length + almgPaths.length + alespPaths.length + pmspPaths.length + bahiaPaths.length} catálogos reproduzidos; ${paths.length} normas reproduzidas, com hashes íntegros`,
     );
   }),
 );

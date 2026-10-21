@@ -1,0 +1,23 @@
+---
+id: "br-ba-norma-108477"
+titulo: "LD Nº 13 DE 18 DE MARÇO DE 1981"
+data: "1981-03-18"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-13-de-18-de-marco-de-1981"
+versao: "texto compilado disponibilizado pela Casa Civil da Bahia"
+coletado_em: "2026-10-21T10:29:17.500Z"
+sha256_fonte: "1338bea41547f57a53e1eb2c11239dbde636a64bab7ffd90038674aac6c16edc"
+sha256_markdown: "4802e3f6e6ef4b2c32b9724689a65ca7d501a265dae9ac11351d27856ab9cdae"
+---
+
+# LD Nº 13 DE 18 DE MARÇO DE 1981
+
+LEI DELEGADA Nº 13 DE 18 DE MARÇO DE 1981
+
+Cria na Secretaria da Educação e Cultura o Centro de Estudos Supletivos de Narandiba e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi delegada pela Resolução nº 1.164, de 24 de setembro de 1980, da Assembléia Legislativa do Estado, promulga a seguinte Lei:
+
+Art. 1º - Fica criado na Secretaria da Educação e Cultura, e incluído na estrutura básica prevista no [artigo 2º da Lei 3.095, de 26 de dezembro de 1972](https://www.legislabahia.ba.gov.br/documentos/lei-no-3095-de-26-de-dezembro-de-1972#LO_3_095_Art__2) , como órgão em regime especial de administração centralizada, o Centro de Estudos Supletivos de Narandiba - CESUN.
+
+CAPÍTULO I -<br>
+FINALIDADE E COMPETÊNCIAS DO CENTRO
