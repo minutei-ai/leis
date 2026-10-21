@@ -1,0 +1,27 @@
+###MPV-001743-0-012-11-02-1999@@@
+
+medida provisória nº 1.743-12, de 11 de fevereiro de 1999.
+
+Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º É restaurada a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que, com as alterações determinadas pelo art. 29 da Lei nº 9.317, de 5 de dezembro de 1996, passa a vigorar até 31 de dezembro de 1999.
+
+Art. 2º O disposto no caput do art. 2º da Lei nº 9.660, de 16 de junho de 1998, não se aplica aos veículos que venham a ser adquiridos com incentivos fiscais nas condições do artigo anterior.
+
+Art. 3º O § 2º do art. 1º da Lei nº 9.660, de 1998, passa a vigorar com a seguinte redação:
+
+‘’§ 2º Excluem-se da obrigatoriedade prevista neste artigo os veículos componentes da frota das Forças Armadas, os de representação dos titulares dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios e, conforme dispuser regulamento, aqueles destinados à prestação de serviços públicos em faixas de fronteira e localidades desprovidas de abastecimento com combustíveis renováveis.’’ (NR)
+
+Art. 4º Ficam convalidados os atos praticados com base na Medida Provisória nº 1.743-11, de 13 de janeiro de 1999.
+
+Art. 5º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 11 de fevereiro de 1999; 178º da Independência e 111º da República.
+
+Fernando henrique cardoso
+
+Pedro Malan
+
+Celso Lafer
