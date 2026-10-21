@@ -1,0 +1,43 @@
+Modificada pela Lei nº [4.055, de 15 de Dezembro de 2022.](https://legis.ac.gov.br/detalhar/5366)
+
+> **LEI Nº 3.892, DE 11 DE JANEIRO DE 2022**
+
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, e revoga a Lei nº 3.377 de 13 de abril de 2018.</span></span></span></p></td></tr></tbody></table>
+
+**O GOVERNADOR DO ESTADO DO ACRE**
+
+**FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
+
+**Da Extinção de Cargos em Comissão**
+
+**Art. 1º** Os cargos em comissão de assessor militar - CC/FG-04, da Lei 3.377, de 13 de abril de 2018 e um cargo de assessor técnico da Presidência - CC/FG-04 que consta no Anexo IV da Lei 1.781, de 3 de julho de 2006 ficam automaticamente extintos.
+
+**Da Criação de Cargos em Comissão**
+
+**Art. 2º** Ficam criados, no Tribunal de Contas do Estado do Acre - TCE/AC, quatro cargos comissionados, sendo dois cargos de assessor de planejamento da presidência, um de assessor de comunicação e um de assessor de segurança institucional, com a nomenclatura - CC/FG-02, que serão acrescidos ao Anexo IV da Lei nº 1.781, de 2006, com os respectivos valores.
+
+**§ 1º** Os cargos comissionados disposto no art. 2º desta lei são destinados às atividades de direção, de chefia e de assessoramento.
+
+**§ 2º** O cargo de assessor de segurança institucional, deverá ser ocupado por oficial superior PM, da ativa ou da reserva do Quadro de Oficiais da Polícia Militar do Estado do Acre - QPMAC. (Vide Lei nº 4.055, de 15/12/2022, que revoga este dispositivo a partir de 1º de janeiro de 2023)
+
+**§ 3º** O cargo de assessor de comunicação deverá ser ocupado por profissional com formação superior em comunicação social-jornalismo.
+
+**§ 4º** A criação dos quatro cargos não implica em aumento de despesa, pois são derivados da extinção daqueles cargos descritos no art. 1º.
+
+**Disposições Finais**
+
+**Art. 3º** O Anexo IV da Lei nº 1.781, de 2006, passa a vigorar conforme o Anexo I desta lei.
+
+**Art. 4º** Fica revogada a Lei 3.377, de 13 de abril de 2018.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação.
+
+Rio Branco - Acre, 11 de janeiro de 2022, 134º da República, 120º do Tratado de Petrópolis e 61º do Estado do Acre.
+
+**Gladson de Lima Cameli**
+
+Governador do Estado do Acre
+
+**ANEXO I** (nova redação do Anexo IV, da Lei nº 1.781/2006)
+
+<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>CARGO</span></span></p></td><td><p><span><span>PROVIMENTO</span></span></p></td><td><p><span><span>Nº DE CARGOS</span></span></p></td><td><p><span><span>VENCIMENTO</span></span></p></td></tr><tr><td><p><span><span>Diretor de Administração e Finanças</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>12.711,88</span></span></p></td></tr><tr><td><p><span><span>Diretor de Auditoria Financeira e Orçamentária</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>12.711,88</span></span></p></td></tr><tr><td><p><span><span>Secretário das Sessões</span></span></p></td><td><p><span><span>CC/FG-05</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>11.122,89</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete da Presidência</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da Presidência</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete de Conselheiro</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>7</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Gabinete</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>14</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Tecnologia da Informação</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete do Procurador Chefe do MPE</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Recursos Humanos</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe do Setor Financeiro</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe dos Serviços Administrativos</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 1ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 2ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 3ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 4ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 5ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Controlador Interno</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Procurador do MPE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>4</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Conselheiro Substituto</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Assessor de Planejamento da Presidência</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>5.164,20</span></span></p></td></tr><tr><td><p><span><span>Assessor de Segurança Institucional</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>5.164,20</span></span></p></td></tr><tr><td><p><span><span>Assessor de Comunicação</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>5.164,20</span></span></p></td></tr><tr><td><p><span><span>Contador</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>1.588,98</span></span></p></td></tr><tr><td><p><span><span>Membro da COMPAQ</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>1.588,98</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>23</span></span></p></td><td><p><span><span>1.588,98</span></span></p></td></tr><tr><td><p><span><span>Assistente Administrativo</span></span></p></td><td><p><span><span>FG-01</span></span></p></td><td><p><span><span>16</span></span></p></td><td><p><span><span>794,49</span></span></p></td></tr></tbody></table>
