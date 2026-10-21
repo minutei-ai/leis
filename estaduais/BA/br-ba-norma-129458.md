@@ -1,0 +1,29 @@
+LEI Nº 13.353 DE 16 DE JUNHO DE 2015
+
+Autoriza o Poder Executivo a transferir para a União os trechos das rodovias estaduais BA-172 e da BA-161 que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica o Poder Executivo autorizado a transferir para a União os trechos das Rodovias Estaduais BA-172 e BA-161, indicados no Anexo Único desta Lei.
+
+§ 1º - A transferência tem por finalidade a incorporação de trechos de rodovia estadual implantada, cujos traçados coincidam com diretrizes de rodovia federal planejada, à Rede Rodoviária sob jurisdição federal.
+
+§ 2º - A transferência não acarretará ônus para a União, tais como ressarcimento de despesas de desapropriação, construção, operação ou manutenção que tiver incorrido o Estado da Bahia até a data da transferência, ou de indenizações decorrentes dessa transferência.
+
+Art. 2º - Esta Lei entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de junho de 2015.
+
+RUI COSTA
+
+Governador
+
+Bruno Dauster
+
+Secretário da Casa Civil
+
+Marcus Benício Foltz Cavalcanti
+
+Secretário de Infraestrutura
+
+<table style="border-collapse: collapse; border: none;" width="551" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 413.2pt; border: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" colspan="6" valign="top" width="551"><p class="Tabela-Texto">ANEXO ÚNICO</p></td></tr><tr><td style="width: 63.6pt; border: solid black 1.0pt; border-top: none; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="85"><p class="Tabela-Texto">CÓDIGO<br>SNV</p></td><td style="width: 39.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="53"><p class="Tabela-Texto">ROD.</p></td><td style="width: 111.75pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="149"><p class="Tabela-Texto">INÍCIO</p></td><td style="width: 4.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="151"><p class="Tabela-Texto">FIM</p></td><td style="width: 35.45pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="47"><p class="Tabela-Texto">EXT.</p><p class="Tabela-Texto">KM</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">ROD.</p><p class="Tabela-Texto">EST.</p></td></tr><tr><td style="width: 63.6pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="85"><p class="Tabela-Texto">430BBA0065</p></td><td style="width: 39.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="53"><p class="Tabela-Texto">BR-430</p></td><td style="width: 111.75pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="149"><p class="Tabela-Texto">ENTR BA-172(A) /464<br>(B) (SANTANA)</p></td><td style="width: 4.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="151"><p class="Tabela-Texto">ENTR BR-172(B) /576 (A)</p></td><td style="width: 35.45pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="47"><p class="Tabela-Texto">6,0</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">BA-172</p></td></tr><tr><td style="width: 63.6pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 35.4pt;" valign="top" width="85"><p class="Tabela-Texto">430BBA0075</p></td><td style="width: 39.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 35.4pt;" valign="top" width="53"><p class="Tabela-Texto">BR-430</p></td><td style="width: 111.75pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 35.4pt;" valign="top" width="149"><p class="Tabela-Texto">ENTR BR-576(B) / BA-161(A)<br>(P/SÍTIO DO MATO)</p></td><td style="width: 4.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 35.4pt;" valign="top" width="151"><p class="Tabela-Texto">ENTR BR-349 (A) /BA-161(B)</p></td><td style="width: 35.45pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 35.4pt;" valign="top" width="47"><p class="Tabela-Texto">22,0</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 35.4pt;" valign="top" width="66"><p class="Tabela-Texto">BA-161</p></td></tr></tbody></table>
