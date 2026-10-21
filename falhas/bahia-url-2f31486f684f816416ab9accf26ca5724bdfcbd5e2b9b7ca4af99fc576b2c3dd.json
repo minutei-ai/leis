@@ -1,6 +1,0 @@
-{
-  "id": "bahia-url-2f31486f684f816416ab9accf26ca5724bdfcbd5e2b9b7ca4af99fc576b2c3dd",
-  "coletado_em": "2026-10-21T10:33:00.086Z",
-  "erro": "BahiaFailure: { \"fonte\": \"https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-19-de-23-de-julho-de-2003\", \"motivo\": \"Título do catálogo diverge da íntegra: LEI COMPLEMENTAR Nº 19 DE 23 DE JULHO DE 2003 [Download]\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/bahia.ts:103:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/bahia.ts:81:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/collect-bahia.ts:90:33)",
-  "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-19-de-23-de-julho-de-2003"
-}
