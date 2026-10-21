@@ -1,0 +1,35 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=201388)
+
+# DECRETO Nº 66.345, DE 15 DE DEZEMBRO DE 2021
+
+### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Companhia Paulista de Trens Metropolitanos - CPTM, visando ao atendimento de Despesas Correntes e de Capital
+
+JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, considerando o disposto na [Lei nº 17.286, de 20 de agosto de 2020](https://www.al.sp.gov.br/norma/195040) e na [Lei nº 17.309, de 29 de dezembro de 2020](https://www.al.sp.gov.br/norma/196640),<br>
+Decreta:<br>
+**Artigo 1º -** Fica aberto um crédito de R$ 236.478.444,00 (Duzentos e trinta e seis milhões, quatrocentos e setenta e oito mil, quatrocentos e quarenta e quatro reais), suplementar ao orçamento da Companhia Paulista de Trens Metropolitanos - CPTM, observando-se as classificações Institucional, Econômica, Funcional e Programática, conforme a Tabela 1, anexa.<br>
+**Artigo 2º -** O crédito aberto pelo artigo anterior será coberto com recursos a que aludem os incisos II e III, do § 1º, do artigo 43, da Lei Federal n° 4.320, de 17 de março de 1964, de conformidade com a legislação discriminada na Tabela 3, anexa.<br>
+**Artigo 3º -** Fica alterada a Programação Orçamentária da Despesa do Estado, estabelecida pelo Anexo, de que trata o artigo 6°, do [Decreto n° 65.488, de 22 de janeiro de 2021](https://www.al.sp.gov.br/norma/196881), de conformidade com a Tabela 2, anexa.<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 15 de dezembro de 2021<br>
+JOÃO DORIA<br>
+Rodrigo Garcia<br>
+Secretário de Governo<br>
+Nelson Baeta Neves Filho<br>
+Secretário Orçamento e Gestão<br>
+Diogo Colombo de Braga
+
+Chefe de Gabinete, Respondendo pelo Expediente da Secretaria da Fazenda e Planejamento
+
+Cauê Macris<br>
+Secretário-Chefe da Casa Civil<br>
+Publicado na Secretaria de Governo, aos 15 de dezembro de 2021.
+
+<br>
+<br>
+
+![](decreto-66345-img1-15.12.2021.jpg?rnd=-64524779)
+
+![](decreto-66345-img2-15.12.2021.jpg?rnd=2024822390)
+
+<br>
+<br>

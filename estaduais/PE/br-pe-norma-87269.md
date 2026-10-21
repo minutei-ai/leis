@@ -1,0 +1,89 @@
+**LEI Nº 19.159, DE 30 DE DEZEMBRO DE 2025.**
+
+Dispõe, em cumprimento ao que preceitua o inciso IV do § 1º do art. 124 da [Constituição do Estado de Pernambuco](https://legis.alepe.pe.gov.br/?ce19891989), com a redação dada pela [Emenda Constitucional nº 31, de 27 de junho de 2008](https://legis.alepe.pe.gov.br/?ec312008), sobre a revisão do [Plano Plurianual do Estado](https://legis.alepe.pe.gov.br/?lo184262023), para o período 2024-2027, exercício de 2026.
+
+A GOVERNADORA DO ESTADO DE PERNAMBUCO:
+
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
+
+Art. 1º A presente Lei dispõe sobre a revisão do [Plano Plurianual - PPA 2024-2027](https://legis.alepe.pe.gov.br/?lo184262023), exercício de 2026, que passa a vigorar com as alterações nos Anexos I e II, de acordo com o elenco das perspectivas e objetivos estratégicos que norteiam a atuação da Administração Pública Estadual, além dos programas, ações e subações, de forma regionalizada.
+
+§ 1º Para o cumprimento das disposições do [Plano Plurianual 2024-2027](https://legis.alepe.pe.gov.br/?lo184262023), revisão para o exercício de 2026, de que trata o caput, consideram-se:
+
+I - Diretrizes: valores que fundamentam e orientam a atuação da Administração Pública Estadual;
+
+II - Objetivo Estratégico: resultado ou estado desejado que a Administração Pública Estadual deseje alcançar nas áreas setoriais de atuação, estando consubstanciados em número de 5 (cinco) objetivos, relacionados nos Anexos que acompanham a presente Lei;
+
+III - Programa: conjunto articulado de ações, órgãos executores e pessoas motivadas para o alcance de um objetivo comum, podendo ser classificado em dois tipos:
+
+a) Programa Finalístico: aquele que resulta em bens e serviços ofertados diretamente à sociedade pela Administração Pública Estadual; e
+
+b) Programa de Gestão, Manutenção e Serviços ao Estado: aquele que orienta as ações destinadas ao apoio, à gestão e à manutenção da atuação governamental, composto por ações não tratadas nos Programas Finalísticos, resultando em bens ou serviços ofertados ao próprio Estado, podendo ser composto, inclusive por despesas de natureza tipicamente administrativa;
+
+IV - Ação: operação da qual resultam produtos representados por bens ou serviços para atender aos objetivos de um programa; e
+
+V - Subação: subtítulo de detalhamento da ação, utilizado especialmente para especificar a localização física ou objetos contidos na ação.
+
+§ 2º A localização espacial das subações é realizada respeitando-se a divisão do Estado de Pernambuco em 12 (doze) Regiões de Desenvolvimento, quais sejam:
+
+I - Região de Desenvolvimento Sertão de Itaparica - RD 01: Belém do São Francisco, Carnaubeira da Penha, Floresta, Itacuruba, Jatobá, Petrolândia, Tacaratu;
+
+II - Região de Desenvolvimento Sertão do São Francisco - RD 02: Afrânio, Cabrobó, Dormentes, Orocó, Petrolina, Santa Maria da Boa Vista, Lagoa Grande;
+
+III - Região de Desenvolvimento Sertão do Araripe - RD 03: Araripina, Bodocó, Exu, Granito, Ipubi, Moreilândia, Ouricuri, Santa Cruz, Santa Filomena, Trindade;
+
+IV - Região de Desenvolvimento Sertão Central - RD 04: Cedro, Mirandiba, Parnamirim, Salgueiro, São José do Belmonte, Serrita, Terra Nova, Verdejante;
+
+V - Região de Desenvolvimento Sertão do Pajeú - RD 05: Afogados da Ingazeira, Brejinho, Calumbi, Carnaíba, Flores, Iguaracy, Ingazeira, Itapetim, Quixabá, Santa Cruz da Baixa Verde, Santa Terezinha, São José do Egito, Serra Talhada, Solidão, Tabira, Triunfo, Tuparetama;
+
+VI - Região de Desenvolvimento Sertão do Moxotó - RD 06: Arcoverde, Betânia, Custódia, Ibimirim, Inajá, Manari, Sertânia;
+
+VII - Região de Desenvolvimento Agreste Meridional - RD 07: Águas Belas, Angelim, Bom Conselho, Brejão, Buíque, Caetés, Calçado, Canhotinho, Capoeiras, Correntes, Garanhuns, Iati, Itaíba, Jucati, Jupi, Jurema, Lagoa do Ouro, Lajedo, Palmeirina, Paranatama, Pedra, Saloá, São João, Terezinha, Tupanatinga, Venturosa;
+
+VIII - Região de Desenvolvimento Agreste Central - RD 08: Agrestina, Alagoinha, Altinho, Barra de Guabiraba, Belo Jardim, Bezerros, Bonito, Brejo da Madre de Deus, Cachoeirinha, Camocim de São Félix, Caruaru, Cupira, Gravatá, Ibirajuba, Jataúba, Lagoa dos Gatos, Panelas, Pesqueira, Poção, Riacho das Almas, Sairé, Sanharó, São Bento do Una, São Caetano, São Joaquim do Monte, Tacaimbó;
+
+IX - Região de Desenvolvimento Agreste Setentrional - RD 09: Bom Jardim, Casinhas, Cumaru, Feira Nova, Frei Miguelinho, João Alfredo, Limoeiro, Machados, Orobó, Passira, Salgadinho, São Vicente Férrer, Santa Cruz do Capibaribe, Santa Maria do Cambucá, Surubim, Taquaritinga do Norte, Toritama, Vertente do Lério, Vertentes;
+
+X - Região de Desenvolvimento Mata Sul - RD 10: Água Preta, Amaraji, Barreiros, Belém de Maria, Catende, Chã Grande, Cortês, Escada, Gameleira, Jaqueira, Joaquim Nabuco, Maraial, Palmares, Pombos, Primavera, Quipapá, Ribeirão, Rio Formoso, São Benedito do Sul, São José da Coroa Grande, Sirinhaém, Tamandaré, Vitória de Santo Antão, Xexéu;
+
+XI - Região de Desenvolvimento Mata Norte - RD 11: Aliança, Buenos Aires, Camutanga, Carpina, Chã de Alegria, Condado, Ferreiros, Glória de Goitá, Goiana, Itaquitinga, Itambé, Lagoa do Carro, Lagoa de Itaenga, Macaparana, Nazaré da Mata, Paudalho, Timbaúba, Tracunhaém, Vicência; e
+
+XII - Região de Desenvolvimento Metropolitana - RD 12: Abreu e Lima, Araçoiaba, Cabo de Santo Agostinho, Camaragibe, Igarassu, Ipojuca, Itamaracá, Itapissuma, Jaboatão dos Guararapes, Moreno, Olinda, Paulista, Recife, São Lourenço da Mata, Fernando de Noronha.
+
+Art. 2º A revisão anual do [Plano Plurianual](https://legis.alepe.pe.gov.br/?lo184262023) decorre dos ajustes necessários, em resposta às mudanças progressivas nos contextos social, econômico, político e financeiro do Estado, para aprimoramento do processo de gestão e das situações não previstas, quando da elaboração do Plano.
+
+Parágrafo único. O [PPA 2024-2027](https://legis.alepe.pe.gov.br/?lo184262023) tem sua programação revista anualmente, com base no processo de monitoramento e avaliação da execução dos programas, ações e nas metas e prioridades estabelecidas na Lei de Diretrizes Orçamentárias de cada exercício.
+
+Art. 3º O presente [Plano Plurianual 2024-2027](https://legis.alepe.pe.gov.br/?lo184262023), exercício 2026, é composto pelos seguintes anexos:
+
+I - Anexo I - Estratégia Governamental: contém o diagnóstico, insumos e aspectos metodológicos da elaboração e execução da estratégia; e
+
+II - Anexo II - Objetivos Estratégicos, Indicadores e Programas: composto por um conjunto de relatórios estratificados segundo os objetivos estratégicos, estruturas programáticas dos órgãos setoriais, dos Poderes Executivo, Legislativo, Judiciário e do Ministério Público, discriminadas de acordo com os programas, ações e subações e seus respectivos produtos, unidades, metas físicas e regionalização, além dos custos globais dos programas para o quadriênio 2024-2027.
+
+Art. 4º Os valores financeiros contidos na presente Lei estão calculados a preços correntes de julho de 2025.
+
+Art. 5º Fica o Poder Executivo autorizado, através da Secretaria de Planejamento, Gestão e Desenvolvimento Regional, a compatibilizar os valores dos Programas, Ações e Subações do [Plano Plurianual - PPA 2024-2027](https://legis.alepe.pe.gov.br/?lo184262023), exercício 2026, aos ajustes que vierem a ser realizados na Lei Orçamentária Anual, para o exercício de 2026.
+
+Art. 6º As subações descritas no Anexo II da presente Lei, constituem meras indicações informativas, podendo ser redistribuídas, alteradas, excluídas e acrescidas de novas, diretamente no sistema corporativo E-Fisco, através da Secretaria de Planejamento, Gestão e Desenvolvimento Regional, respeitadas as finalidades das ações.
+
+Art. 7º O Poder Executivo apresentará à Assembleia Legislativa do Estado de Pernambuco, por ocasião da abertura de cada sessão legislativa, Relatório Anual de Ação de Governo, do exercício anterior, apresentando os resultados obtidos e ações alcançadas, segundo a estratégia de Governo.
+
+Art. 8º Nos termos do que dispõe o inciso IV do § 1º do art. 2º da [Lei nº 18.899, de 16 de setembro de 2025](https://legis.alepe.pe.gov.br/?lo188992025), a redação do Objetivo Estratégico, Desenvolvimento Sustentável, constante do Item 2.2. (“Da Organização e Execução da Estratégia”) integrante do Anexo I do [PPA 2024-2027](https://legis.alepe.pe.gov.br/?lo184262023), passa a vigorar com a seguinte redação:
+
+“IV - DESENVOLVIMENTO SUSTENTÁVEL - Direcionar o vetor do desenvolvimento em Pernambuco para uma economia sustentável e regenerativa, promovendo infraestruturas resilientes e fomentando o crescimento do emprego e da renda - no campo e na cidade - a partir de atividades que priorizam a redução das desigualdades e que equilibram o respeito às pessoas, ao território, à biodiversidade, às comunidades tradicionais e à cultura, fortalecendo cadeias produtivas sustentáveis e de base comunitária, especialmente a agricultura familiar, agroecologia e extrativismo sustentável”.
+
+Art. 9º Esta Lei entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1º de janeiro de 2026.
+
+Palácio do Campo das Princesas, Recife, 30 de dezembro do ano de 2025, 209º da Revolução Republicana Constitucionalista e 204º da Independência do Brasil.
+
+RAQUEL TEIXEIRA LYRA LUCENA
+
+Governadora do Estado
+
+FLAVIO MARTINS SODRÉ DA MOTA
+
+TÚLIO FREDERICO TENÓRIO VILAÇA RODRIGUES
+
+FABRÍCIO MARQUES SANTOS
+
+BIANCA FERREIRA TEIXEIRA
