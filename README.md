@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**67.240 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**67.241 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -26,6 +26,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Minas Gerais](estaduais/MG/) | 25.387 |
 | Estadual | [Paraná](estaduais/PR/) | 11 |
 | Estadual | [Pernambuco](estaduais/PE/) | 19 |
+| Estadual | [Roraima](estaduais/RR/) | 1 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
 | Estadual | [São Paulo](estaduais/SP/) | 6.344 |
 | Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
@@ -40,7 +41,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas do Amazonas, de Minas Gerais, São Paulo, Ceará, Espírito Santo, Pernambuco e Santa Catarina, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná e da Prefeitura e da Câmara Municipal de São Paulo.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas do Amazonas, de Minas Gerais, São Paulo, Ceará, Espírito Santo, Pernambuco e Santa Catarina, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná e da Prefeitura e da Câmara Municipal de São Paulo, além do Diário Oficial de Roraima.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais e atualizados, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
