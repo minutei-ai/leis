@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.450, DE 11 DE MARÇO DE 2026
 
-### Institui e estabelece parâmetros para a 2Âª Edição do Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da Lei n° 17.293, de 15 de outubro de 2020.
+### Institui e estabelece parâmetros para a 2ª Edição do Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da Lei n° 17.293, de 15 de outubro de 2020.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
@@ -11,9 +11,9 @@ Decreta:
 #### Seção I<br>
 Disposições Iniciais
 
-**Artigo 1° -** Fica instituída, no âmbito das Secretarias de Estado, da Procuradoria Geral do Estado, da Controladoria Geral do Estado e das autarquias, inclusive as de regime especial, a 2Âª Edição do Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740).
+**Artigo 1° -** Fica instituída, no âmbito das Secretarias de Estado, da Procuradoria Geral do Estado, da Controladoria Geral do Estado e das autarquias, inclusive as de regime especial, a 2ª Edição do Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740).
 
-**Artigo 2° -** Para fins da 2Âª Edição do Programa de que trata este decreto, são elegíveis para participação os ocupantes de funções-atividades sujeitas ao regime trabalhista ou de empregos públicos permanentes considerados estáveis nos termos da redação original do artigo 41 da Constituição Federal e do artigo 19 do Ato das Disposições Constitucionais Transitórias, que sejam filiados ao Regime Geral de Previdência Social - RGPS.
+**Artigo 2° -** Para fins da 2ª Edição do Programa de que trata este decreto, são elegíveis para participação os ocupantes de funções-atividades sujeitas ao regime trabalhista ou de empregos públicos permanentes considerados estáveis nos termos da redação original do artigo 41 da Constituição Federal e do artigo 19 do Ato das Disposições Constitucionais Transitórias, que sejam filiados ao Regime Geral de Previdência Social - RGPS.
 
 **Parágrafo único -** A adesão ao Programa será formalizada mediante requerimento do interessado, dentro do prazo de 30 (trinta) dias a contar da data de publicação deste decreto.
 

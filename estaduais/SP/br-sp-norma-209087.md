@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, de parte do imóvel que abriga o Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros n° 300, naquele Município, cadastrado no SGI sob o n° 2203, parte essa denominada "Refeitório entre o 1° e o 2° Pavilhões Psiquiátricos Feminino", com 1.291,34mÂ² (um mil duzentos e noventa e um metros quadrados e trinta e quatro decímetros quadrados) de terreno e 206,35mÂ²  (duzentos e seis metros quadrados e trinta e cinco decímetros quadrados) de área construída, descrita e identificada no processo digital 024.00112696/2023-33.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, de parte do imóvel que abriga o Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros n° 300, naquele Município, cadastrado no SGI sob o n° 2203, parte essa denominada "Refeitório entre o 1° e o 2° Pavilhões Psiquiátricos Feminino", com 1.291,34m² (um mil duzentos e noventa e um metros quadrados e trinta e quatro decímetros quadrados) de terreno e 206,35m²  (duzentos e seis metros quadrados e trinta e cinco decímetros quadrados) de área construída, descrita e identificada no processo digital 024.00112696/2023-33.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação do Núcleo Administrativo da Secretaria Municipal de Assistência Social.
 

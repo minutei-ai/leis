@@ -7,13 +7,13 @@
 
 ## (Projeto de lei n° 666/2023, do Deputado Carlos Cezar - PL)
 
-### Denomina "Prof.Âª Édi Salvi Lima" a Faculdade de Tecnologia de Barretos - FATEC Barretos, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
+### Denomina "Prof.ª Édi Salvi Lima" a Faculdade de Tecnologia de Barretos - FATEC Barretos, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-**Artigo 1° -** Passa a denominar-se "Prof.Âª Édi Salvi Lima" a Faculdade de Tecnologia de Barretos - FATEC Barretos, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS.
+**Artigo 1° -** Passa a denominar-se "Prof.ª Édi Salvi Lima" a Faculdade de Tecnologia de Barretos - FATEC Barretos, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS.
 
 **Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
 

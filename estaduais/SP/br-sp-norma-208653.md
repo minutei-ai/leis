@@ -8,11 +8,11 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel objeto das Matrículas n°s 23.091 e 94.074 do Cartório de Registro de Imóveis da Comarca de Araçatuba, localizado na Rua Tenente Alcides Teodoro dos Santos, n° 70, Bairro Aviação, no Município de Araçatuba, cadastrado no SGI sob o n° 48.071, parte essa com 2.967,30mÂ² (dois mil novecentos e sessenta e sete metros quadrados e trinta decímetros quadrados) de terreno e 860,00mÂ² (oitocentos e sessenta metros quadrados) de área construída, identificada e descrita nos autos do Processo Digital 018.00004234/2023-78.
+**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel objeto das Matrículas n°s 23.091 e 94.074 do Cartório de Registro de Imóveis da Comarca de Araçatuba, localizado na Rua Tenente Alcides Teodoro dos Santos, n° 70, Bairro Aviação, no Município de Araçatuba, cadastrado no SGI sob o n° 48.071, parte essa com 2.967,30m² (dois mil novecentos e sessenta e sete metros quadrados e trinta decímetros quadrados) de terreno e 860,00m² (oitocentos e sessenta metros quadrados) de área construída, identificada e descrita nos autos do Processo Digital 018.00004234/2023-78.
 
 **§ 1° -** A parte do imóvel de que trata o "caput" deste artigo destinar-se-á à instalação da sede da Defensoria Pública do Estado de São Paulo, em Araçatuba.
 
-**§ 2° -** A área remanescente de 3.658,30mÂ²  (três mil seiscentos e cinquenta e oito metros quadrados e trinta decímetros quadrados) do imóvel de que trata o "caput" deste artigo permanecerá sob a administração da Secretaria de Gestão e Governo Digital.
+**§ 2° -** A área remanescente de 3.658,30m²  (três mil seiscentos e cinquenta e oito metros quadrados e trinta decímetros quadrados) do imóvel de que trata o "caput" deste artigo permanecerá sob a administração da Secretaria de Gestão e Governo Digital.
 
 **Artigo 2° -** Este decreto entra em vigor na data de sua publicação.
 

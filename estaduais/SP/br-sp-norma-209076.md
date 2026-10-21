@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Fica ratificado o Convênio ICMS 226/23, celebrado na 386Âª Reunião Extraordinária do CONFAZ, realizada no dia 21 de dezembro de 2023, e publicado na página 64 da Seção I da Edição 244 do Diário Oficial da União do dia 26 de dezembro de 2023.
+**Artigo 1° -** Fica ratificado o Convênio ICMS 226/23, celebrado na 386ª Reunião Extraordinária do CONFAZ, realizada no dia 21 de dezembro de 2023, e publicado na página 64 da Seção I da Edição 244 do Diário Oficial da União do dia 26 de dezembro de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, o Convênio ICMS 226/23.
 
@@ -32,7 +32,7 @@ Publicado na Casa Civil, aos 16 de janeiro de 2024.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto (SEI 0016914634) que ratifica o Convênio ICMS 226/23, de 21 de dezembro de 2023, celebrado na 386Âª Reunião Extraordinária do CONFAZ, realizada no dia 21 de dezembro de 2023, e publicado na página 64 da Seção I da Edição 244 do Diário Oficial da União do dia 26 de dezembro de 2023:
+Encaminho a inclusa minuta de decreto (SEI 0016914634) que ratifica o Convênio ICMS 226/23, de 21 de dezembro de 2023, celebrado na 386ª Reunião Extraordinária do CONFAZ, realizada no dia 21 de dezembro de 2023, e publicado na página 64 da Seção I da Edição 244 do Diário Oficial da União do dia 26 de dezembro de 2023:
 
 O Convênio ICMS 226/23 prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais.
 

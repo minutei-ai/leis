@@ -12,7 +12,7 @@ Decreta:    
 
 **Artigo 2° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, do imóvel descrito no artigo 1° deste decreto, em favor da União, por intermédio do Tribunal Regional Eleitoral de São Paulo.  
 
-**Parágrafo único -** O imóvel objeto da permissão de uso destinar-se-á a abrigar o Cartório da 19Âª Zona Eleitoral da Comarca de Bariri.    
+**Parágrafo único -** O imóvel objeto da permissão de uso destinar-se-á a abrigar o Cartório da 19ª Zona Eleitoral da Comarca de Bariri.    
 
 **Artigo 3° -** A permissão de uso de que trata o artigo 2° deste decreto será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas à permissionária.    
 

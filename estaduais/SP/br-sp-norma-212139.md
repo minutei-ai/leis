@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 169/25, 172/25 e 174/25, celebrados na 199Âª Reunião Ordinária do Conselho Nacional de Política Fazendária - CONFAZ, realizada em Vitória, ES, no dia 5 de dezembro de 2025, publicados nas páginas 72 e 73, Seção 1, da Edição 234 do Diário Oficial da União de 9 de dezembro de 2025, e republicados nas páginas 36 e 37, Seção 1, da Edição 236 do Diário Oficial da União de 11 de dezembro de 2025.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 169/25, 172/25 e 174/25, celebrados na 199ª Reunião Ordinária do Conselho Nacional de Política Fazendária - CONFAZ, realizada em Vitória, ES, no dia 5 de dezembro de 2025, publicados nas páginas 72 e 73, Seção 1, da Edição 234 do Diário Oficial da União de 9 de dezembro de 2025, e republicados nas páginas 36 e 37, Seção 1, da Edição 236 do Diário Oficial da União de 11 de dezembro de 2025.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo - ALESP, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, o Convênio ICMS 169/25.
 

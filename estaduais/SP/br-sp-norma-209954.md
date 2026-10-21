@@ -26,7 +26,7 @@ VI - outros documentos afins, cuja emissão seja de competência estadual.  
 
 **Artigo 2° -** A isenção de que trata esta lei poderá ser concedida com a apresentação de qualquer meio de prova admitido em direito.  
 
-**Artigo 3° -** Os órgãos públicos estaduais poderão afixar cartaz em suas dependências com a seguinte informação: "É gratuita a emissão da 2Âª via de documentos pessoais, nos casos de dano ou extravio em decorrência de catástrofe natural, cuja expedição seja de competência dos órgãos estaduais".  
+**Artigo 3° -** Os órgãos públicos estaduais poderão afixar cartaz em suas dependências com a seguinte informação: "É gratuita a emissão da 2ª via de documentos pessoais, nos casos de dano ou extravio em decorrência de catástrofe natural, cuja expedição seja de competência dos órgãos estaduais".  
 
 **Artigo 4° -** O Poder Executivo regulamentará, no que couber, esta lei.  
 

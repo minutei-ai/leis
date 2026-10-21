@@ -22,11 +22,11 @@ IV - 52 contratos de Médicos I;
 
 V - 48 contratos de Oficiais de Saúde.
 
-§ 1° - A prorrogação prevista no â€˜caputâ€™ deste artigo somente será permitida para manutenção de atividades essenciais para o desenvolvimento da assistência aos usuários do Sistema Único de Saúde de São Paulo, observada a necessidade do serviço público.
+§ 1° - A prorrogação prevista no ‘caput’ deste artigo somente será permitida para manutenção de atividades essenciais para o desenvolvimento da assistência aos usuários do Sistema Único de Saúde de São Paulo, observada a necessidade do serviço público.
 
 § 2° - Os contratos prorrogados com base neste artigo deverão ser rescindidos antes do prazo de vigência, em caso de cessação da necessidade temporária que deu causa à prorrogação.
 
-§ 3° - A autorização contida no â€˜caputâ€™ deste artigo não elide a adoção das providências necessárias à nomeação, posse e exercício dos candidatos habilitados, para provimento dos respectivos cargos em caráter efetivo, na forma do que dispõe o artigo 1°, § 2°, item 5 desta lei complementar." (NR)
+§ 3° - A autorização contida no ‘caput’ deste artigo não elide a adoção das providências necessárias à nomeação, posse e exercício dos candidatos habilitados, para provimento dos respectivos cargos em caráter efetivo, na forma do que dispõe o artigo 1°, § 2°, item 5 desta lei complementar." (NR)
 
 **Artigo 2° -** Os órgãos de controle, o Poder Legislativo e a sociedade civil poderão exercer, na forma da lei, a fiscalização dos contratos de que trata esta lei complementar, inclusive mediante solicitação de informações ao contratante e aos contratados.
 

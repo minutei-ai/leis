@@ -82,61 +82,61 @@ IV - Comandante Geral da Polícia Militar do Estado de São Paulo, Grão-Mestre,
 
 **Artigo 10 -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas a Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
 
-**§ 1° â€“** O mesmo procedimento deve ser seguido para outorgas a título póstumo.
+**§ 1° –** O mesmo procedimento deve ser seguido para outorgas a título póstumo.
 
 **§ 2° -** As indicações políticas estratégicas do Grão-Mestre são aceitas sem a necessidade do previsto no "caput", mas devem vir acompanhadas de justificativa.
 
-**Artigo 11 â€“** A Comissão de Outorgas deve analisar todas as indicações para garantir conduta ilibada das personalidades e o adequado enquadramento do perfil e da justificativa ao espírito da honraria.
+**Artigo 11 –** A Comissão de Outorgas deve analisar todas as indicações para garantir conduta ilibada das personalidades e o adequado enquadramento do perfil e da justificativa ao espírito da honraria.
 
 **§ 1° -** O militar do Estado indicado deverá, se Praça, estar, no mínimo, no comportamento "bom" e, se Oficial, não ter sido punido pelo cometimento de falta grave, ou, em qualquer caso, não ter sido punido pelo cometimento de faltas atentatórias às instituições ou ao Estado, atentatórias aos direitos humanos fundamentais, ou de natureza desonrosa.
 
 **§ 2° -** O Presidente da Comissão de Outorgas deverá encaminhar a lista dos indicados aprovados, juntamente com o resumo de seu perfil, ao Conselho Estadual da Ordem do Ipiranga para seu Ad Referendum.
 
-**Artigo 12 â€“** Os assuntos a serem votados são resolvidos por meio de maioria simples de votos, levando em consideração o número de presentes participantes na votação, ou seja, compreende mais da metade dos votantes ou o maior resultado da votação, no caso de haver dispersão de votos.
+**Artigo 12 –** Os assuntos a serem votados são resolvidos por meio de maioria simples de votos, levando em consideração o número de presentes participantes na votação, ou seja, compreende mais da metade dos votantes ou o maior resultado da votação, no caso de haver dispersão de votos.
 
 **§ 1° -** O Presidente da Comissão de Outorgas terá voto de qualidade no caso de empate na votação.
 
 **§ 2° -** O silêncio de manifestação contrária do Conselho Estadual da Ordem do Ipiranga que possui direito de veto total ou parcial da lista de indicados, implicará em aceitação tácita.
 
-**Artigo 13 â€“** A medalha será outorgada pelo Comandante-Geral da Polícia Militar do Estado de São Paulo, mediante proposta da Comissão de Outorgas.
+**Artigo 13 –** A medalha será outorgada pelo Comandante-Geral da Polícia Militar do Estado de São Paulo, mediante proposta da Comissão de Outorgas.
 
-**Artigo 14 â€“** Publicado o ato concessório da honraria, a Comissão de Outorgas providenciará a lavratura do diploma respectivo, que será assinado pelo Comandante-Geral da Polícia Militar do Estado de São Paulo, grão-mestre, e pelo Comandante do Décimo Nono Batalhão de Polícia Militar do Interior (19° BPM/I), Chanceler.
+**Artigo 14 –** Publicado o ato concessório da honraria, a Comissão de Outorgas providenciará a lavratura do diploma respectivo, que será assinado pelo Comandante-Geral da Polícia Militar do Estado de São Paulo, grão-mestre, e pelo Comandante do Décimo Nono Batalhão de Polícia Militar do Interior (19° BPM/I), Chanceler.
 
-**Artigo 15 â€“** É de responsabilidade da Comissão de Outorgas o envio do ofício do Grão-Mestre ao indicado, bem como a confirmação de sua anuência em comparecer ao evento de agraciamento.
+**Artigo 15 –** É de responsabilidade da Comissão de Outorgas o envio do ofício do Grão-Mestre ao indicado, bem como a confirmação de sua anuência em comparecer ao evento de agraciamento.
 
-**Parágrafo único â€“** Caso o indicado, por motivos pessoais, declinar do direito de receber a honraria, este deverá enviar carta para formalizar sua não anuência.
+**Parágrafo único –** Caso o indicado, por motivos pessoais, declinar do direito de receber a honraria, este deverá enviar carta para formalizar sua não anuência.
 
-**Artigo 16 â€“** É de responsabilidade da Comissão de Outorgas o registro de todos os atos, bem como dos resultados de todas as votações e da manifestação do Grão-Mestre, no Livro de Ouro.
+**Artigo 16 –** É de responsabilidade da Comissão de Outorgas o registro de todos os atos, bem como dos resultados de todas as votações e da manifestação do Grão-Mestre, no Livro de Ouro.
 
-**Parágrafo único â€“** A lista contendo os nomes de todos os indicados aprovados, bem como as datas previstas para a outorga, devem ser registrados em controle separado, ficando no Livro de Ouro somente o registro dos atos.
+**Parágrafo único –** A lista contendo os nomes de todos os indicados aprovados, bem como as datas previstas para a outorga, devem ser registrados em controle separado, ficando no Livro de Ouro somente o registro dos atos.
 
-**Artigo 17 â€“** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
+**Artigo 17 –** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-**Artigo 18 â€“** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
+**Artigo 18 –** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
 
-**Parágrafo único â€“** O diploma é documento expedido somente uma vez. Em caso de perda dele, poderá ser expedida uma carta oficial da instituição ratificando a autenticidade do agraciamento e informando os dados de registro.
+**Parágrafo único –** O diploma é documento expedido somente uma vez. Em caso de perda dele, poderá ser expedida uma carta oficial da instituição ratificando a autenticidade do agraciamento e informando os dados de registro.
 
-**Artigo 19 â€“** Conforme previsto no artigo 3°, "V", "b", é de responsabilidade da Comissão de Outorgas realizar controle dos agraciados, indicando o número do Livro e o número da Página/Sequência em que cada personalidade foi registrada.
+**Artigo 19 –** Conforme previsto no artigo 3°, "V", "b", é de responsabilidade da Comissão de Outorgas realizar controle dos agraciados, indicando o número do Livro e o número da Página/Sequência em que cada personalidade foi registrada.
 
 **§ 1° -** As informações citadas no "caput" devem constar no verso de cada diploma.
 
 **§ 2° -** A Comissão de Outorgas deverá manter os controles em dia e disponíveis para fiscalização por parte do Conselho Estadual da Ordem do Ipiranga.
 
-**Artigo 20 â€“** É obrigatório o envio da lista de agraciados, bem como o resumo do perfil da personalidade, ao Conselho Estadual da Ordem do Ipiranga, para a emissão da chancela oficial numerada a ser aplicada no verso do diploma.
+**Artigo 20 –** É obrigatório o envio da lista de agraciados, bem como o resumo do perfil da personalidade, ao Conselho Estadual da Ordem do Ipiranga, para a emissão da chancela oficial numerada a ser aplicada no verso do diploma.
 
-**§ 1° â€“** A recusa do Conselho Estadual da Ordem do Ipiranga em registrar o diploma, por meio da emissão de chancela oficial numerada, implicará no cancelamento da indicação.
+**§ 1° –** A recusa do Conselho Estadual da Ordem do Ipiranga em registrar o diploma, por meio da emissão de chancela oficial numerada, implicará no cancelamento da indicação.
 
 **§ 2°-** A Comissão de Outorgas deverá enviar a lista para emissão das chancelas oficiais numeradas com antecedência de pelo menos 7 (sete) dias úteis.
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-**Artigo 21 â€“** A entrega das medalhas será feita, anualmente, em solenidade pública, de preferência na cerimônia de aniversário da unidade, na presença do Grão-Mestre.
+**Artigo 21 –** A entrega das medalhas será feita, anualmente, em solenidade pública, de preferência na cerimônia de aniversário da unidade, na presença do Grão-Mestre.
 
 **§ 1° -** O Conselho Estadual da Ordem do Ipiranga deverá ser notificado com antecedência sobre o local, data e hora da cerimônia para que possa se fazer representar.
 
 **§ 2° -** A Chancelaria poderá realizar cerimônias em outras datas, além da data magna, devendo seguir todas as orientações e recomendações de cerimonial heráldico do Conselho Estadual da Ordem do Ipiranga.
 
-**Artigo 22 â€“** A imposição física da honraria será realizada preferencialmente pelo Grão-mestre e pelo Chanceler, podendo eles serem representados por membros da Comissão de Outorgas.
+**Artigo 22 –** A imposição física da honraria será realizada preferencialmente pelo Grão-mestre e pelo Chanceler, podendo eles serem representados por membros da Comissão de Outorgas.
 
 **§ 1° -** Devem ser seguidas as orientações do Conselho Estadual da Ordem do Ipiranga sobre o modo correto de imposição das honrarias.
 
@@ -144,13 +144,13 @@ IV - Comandante Geral da Polícia Militar do Estado de São Paulo, Grão-Mestre,
 
 **§ 3° -** A outorga para pessoas jurídicas deve ser feita por meio da imposição física da honraria no estandarte da instituição agraciada ou com entrega do conjunto da honraria ao representante.
 
-**Artigo 23 â€“** O padrão de indumentária mínima a ser adotada para a cerimônia é o passeio completo, e seus equivalentes para uniformes militares.
+**Artigo 23 –** O padrão de indumentária mínima a ser adotada para a cerimônia é o passeio completo, e seus equivalentes para uniformes militares.
 
 **Parágrafo único -** Os agraciados devem ser orientados a comparecer ao evento sem outras condecorações (heraldicamente nus).
 
-**Artigo 24 â€“** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes, serão recolhidos ao Conselho Estadual da Ordem do Ipiranga sem ônus para os cofres públicos.
+**Artigo 24 –** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes, serão recolhidos ao Conselho Estadual da Ordem do Ipiranga sem ônus para os cofres públicos.
 
-**Artigo 25 â€“** O presente regulamento somente poderá ser alterado após anuência do Décimo Nono Batalhão de Polícia Militar do Interior (19° BPM/I) e submissão ao Conselho Estadual da Ordem do Ipiranga.
+**Artigo 25 –** O presente regulamento somente poderá ser alterado após anuência do Décimo Nono Batalhão de Polícia Militar do Interior (19° BPM/I) e submissão ao Conselho Estadual da Ordem do Ipiranga.
 
 **Artigo 26 -** As despesas decorrentes da aplicação deste decreto correrão à conta das dotações orçamentárias próprias consignadas no orçamento-programa vigente.
 

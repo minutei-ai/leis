@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e pelo prazo de 30 (trinta) anos, do Município de Mauá, nos termos da Lei municipal n° 5.509, de 23 de agosto de 2019, um terreno com área de 4.360,267mÂ² (quatro mil trezentos e sessenta metros quadrados e dois mil seiscentos e setenta centímetros quadrados), localizado na Avenida Bevenuto Bagnara, n° 38, Bairro Jardim Zaíra, naquele Município, parte do imóvel objeto da Matrícula n° 1.004 do Oficial de Registro de Imóveis e Anexos da Comarca de Mauá, identificado e descrito nos autos do Processo Digital 018.00000694/2023-27.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e pelo prazo de 30 (trinta) anos, do Município de Mauá, nos termos da Lei municipal n° 5.509, de 23 de agosto de 2019, um terreno com área de 4.360,267m² (quatro mil trezentos e sessenta metros quadrados e dois mil seiscentos e setenta centímetros quadrados), localizado na Avenida Bevenuto Bagnara, n° 38, Bairro Jardim Zaíra, naquele Município, parte do imóvel objeto da Matrícula n° 1.004 do Oficial de Registro de Imóveis e Anexos da Comarca de Mauá, identificado e descrito nos autos do Processo Digital 018.00000694/2023-27.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para uso da Polícia Militar do Estado de São Paulo.
 

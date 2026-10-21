@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria da Saúde para a Secretaria de Desenvolvimento Social, a administração de imóvel localizado na Avenida Tiradentes, n° 628, no Município de Borebi, com área de 924,09 mÂ² (novecentos e vinte e quatro metros quadrados e nove decímetros quadrados), cadastrado no SGI sob o n° 854, identificado e descrito nos autos do Processo Digital 024.00091292/2024-80.
+**Artigo 1° -** Fica transferida, da Secretaria da Saúde para a Secretaria de Desenvolvimento Social, a administração de imóvel localizado na Avenida Tiradentes, n° 628, no Município de Borebi, com área de 924,09 m² (novecentos e vinte e quatro metros quadrados e nove decímetros quadrados), cadastrado no SGI sob o n° 854, identificado e descrito nos autos do Processo Digital 024.00091292/2024-80.
 
 **Artigo 2° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, do imóvel descrito no artigo 1° deste decreto, em favor do Município de Borebi.
 

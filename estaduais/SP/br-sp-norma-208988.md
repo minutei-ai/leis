@@ -92,11 +92,11 @@ Parágrafo único - ............................................." (NR)
 
 **Artigo 8° -** O artigo 13, "caput", e seu § 1°, da [Lei Complementar n° 1.050, de 24 de junho de 2008](https://www.al.sp.gov.br/norma/98234), passam a vigorar com a seguinte redação:
 
-"Artigo 13 - O exercício das funções de gerência e supervisão de unidades que venham a ser caracterizadas como atividades específicas das classes de que tratam os incisos I a III do artigo 1° desta lei complementar, será retribuído por meio de atribuição de gratificação â€˜pro laboreâ€™, calculada pela aplicação de percentuais sobre o valor do padrão inicial do vencimento do cargo de que o servidor é titular, na seguinte conformidade:
+"Artigo 13 - O exercício das funções de gerência e supervisão de unidades que venham a ser caracterizadas como atividades específicas das classes de que tratam os incisos I a III do artigo 1° desta lei complementar, será retribuído por meio de atribuição de gratificação ‘pro labore’, calculada pela aplicação de percentuais sobre o valor do padrão inicial do vencimento do cargo de que o servidor é titular, na seguinte conformidade:
 
  ..................................................................................
 
-§1° - Para o fim de que trata o â€˜caputâ€™ deste artigo, a identificação das funções, as respectivas quantidades, observado o limite máximo de 15% (quinze por cento) do número de cargos das classes mencionadas nos incisos I e II do artigo 1° e de 20% (vinte por cento) da classe mencionada no inciso III do artigo 1°, e as unidades a que se destinam, dentre outras exigências, serão estabelecidas por ato do Defensor Público-Geral do Estado." (NR)
+§1° - Para o fim de que trata o ‘caput’ deste artigo, a identificação das funções, as respectivas quantidades, observado o limite máximo de 15% (quinze por cento) do número de cargos das classes mencionadas nos incisos I e II do artigo 1° e de 20% (vinte por cento) da classe mencionada no inciso III do artigo 1°, e as unidades a que se destinam, dentre outras exigências, serão estabelecidas por ato do Defensor Público-Geral do Estado." (NR)
 
 **Artigo 9° -** O artigo 15 da [Lei Complementar n° 1.050, de 24 de junho de 2008](https://www.al.sp.gov.br/norma/98234), passa a vigorar com a seguinte redação:
 
@@ -116,7 +116,7 @@ I - contar com, no mínimo, 2 (dois) anos de efetivo exercício na Referência 1
 
 IV -............................................................................ 
 
-c) para os integrantes da classe de Analista de Defensoria Pública: a obtenção de diploma de pós-graduação â€˜strictoâ€™ ou â€˜lato sensuâ€™, mestrado ou doutorado relativo à sua área de atuação ou a aquisição de competências adicionais mediante atendimento do programa de capacitação continuada, disciplinado por ato do Defensor Público-Geral do Estado.
+c) para os integrantes da classe de Analista de Defensoria Pública: a obtenção de diploma de pós-graduação ‘stricto’ ou ‘lato sensu’, mestrado ou doutorado relativo à sua área de atuação ou a aquisição de competências adicionais mediante atendimento do programa de capacitação continuada, disciplinado por ato do Defensor Público-Geral do Estado.
 
 Parágrafo único - Os cursos a que se referem as alíneas "a", "b" e "c" do inciso IV deste artigo e os demais critérios relativos ao processo de promoção serão estabelecidos pelo Conselho Superior da Defensoria Pública do Estado." (NR)
 
@@ -126,7 +126,7 @@ Parágrafo único - Os cursos a que se referem as alíneas "a", "b" e "c" do inc
 
  ..........................................................................
 
-§ 2° - O cargo de Ouvidor-Geral da Defensoria Pública fica enquadrado na Referência 8 da Escala de Vencimentos - Comissão, constante do Anexo IV, e seu ocupante fará jus às vantagens pecuniárias de que trata o artigo 12 desta lei complementar, exceto à gratificação â€˜pro laboreâ€™ prevista em seu inciso VIII." (NR)
+§ 2° - O cargo de Ouvidor-Geral da Defensoria Pública fica enquadrado na Referência 8 da Escala de Vencimentos - Comissão, constante do Anexo IV, e seu ocupante fará jus às vantagens pecuniárias de que trata o artigo 12 desta lei complementar, exceto à gratificação ‘pro labore’ prevista em seu inciso VIII." (NR)
 
 **Artigo 13 -** O Anexo I da [Lei Complementar n° 1.050, de 24 de junho de 2008](https://www.al.sp.gov.br/norma/98234), passa a vigorar com a seguinte redação: 
 

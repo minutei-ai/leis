@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, a título gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Franco da Rocha, de parte do imóvel localizado na Avenida dos Coqueiros, s/n°, Centro, naquele Município, cadastrado no SGI sob o n° 2203, parte essa consistente em uma área de 83.957,93mÂ² (oitenta e três mil novecentos e cinquenta e sete metros quadrados e noventa e três decímetros quadrados), denominada "Colônia 3Âª Idade", do Complexo Hospitalar do Juquery, identificada no processo digital 018.00008430/2023-11.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, a título gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Franco da Rocha, de parte do imóvel localizado na Avenida dos Coqueiros, s/n°, Centro, naquele Município, cadastrado no SGI sob o n° 2203, parte essa consistente em uma área de 83.957,93m² (oitenta e três mil novecentos e cinquenta e sete metros quadrados e noventa e três decímetros quadrados), denominada "Colônia 3ª Idade", do Complexo Hospitalar do Juquery, identificada no processo digital 018.00008430/2023-11.
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á a instalação de Unidade Básica de Saúde e outras repartições públicas municipais.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogáveis por iguais períodos, um terreno com 150mÂ² (cento e cinquenta metros quadrados), parte do imóvel denominado "Fazenda Serra", com acesso pela Rodovia Altino Arantes - SP 351 (Altinópolis a Santo Antônio da Alegria), no Município de Altinópolis, objeto da Matrícula n° 15.750 do Registro de Imóveis e Anexos de Altinópolis, identificado e descrito nos autos do Processo Digital n° 057.00011332/2024-21.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogáveis por iguais períodos, um terreno com 150m² (cento e cinquenta metros quadrados), parte do imóvel denominado "Fazenda Serra", com acesso pela Rodovia Altino Arantes - SP 351 (Altinópolis a Santo Antônio da Alegria), no Município de Altinópolis, objeto da Matrícula n° 15.750 do Registro de Imóveis e Anexos de Altinópolis, identificado e descrito nos autos do Processo Digital n° 057.00011332/2024-21.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de antena de transmissão de rádio da Polícia Militar do Estado de São Paulo.
 

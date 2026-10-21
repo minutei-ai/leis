@@ -33,7 +33,7 @@ III - nível de risco III: para os casos de risco alto.
 
 **§ 3° -** Vetado.
 
-**§ 4° -** A classificação das atividades econômicas de que trata este artigo observaraÂ´ a estabelecida na Classificação Nacional de Atividade Econômica (CNAE) da Comissão Nacional de Classificação (Concla).
+**§ 4° -** A classificação das atividades econômicas de que trata este artigo observara´ a estabelecida na Classificação Nacional de Atividade Econômica (CNAE) da Comissão Nacional de Classificação (Concla).
 
 **§ 5° -** O Poder Executivo estabelecerá, mediante decreto, os critérios para que os órgãos e entidades estaduais realizem a classificação dos níveis de risco das atividades econômicas sujeitas à emissão de atos públicos de liberação da atividade econômica.
 

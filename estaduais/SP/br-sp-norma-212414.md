@@ -10,9 +10,9 @@ Decreta:
 
 **Artigo 1° -** Fica concedida , no âmbito do [Decreto n° 69.542, de 22 de maio de 2025](https://www.al.sp.gov.br/norma/210962), a Medalha de "Mérito Fazendário Professor Antonio Delfim Netto", na sua primeira edição, referente ao ano de 2025, às seguintes personalidades:
 
-I â€” Ana Paula Vitali Janes Vescovi;
+I — Ana Paula Vitali Janes Vescovi;
 
-II â€” José Paulo Neves.
+II — José Paulo Neves.
 
 **Artigo 2° -** A honraria reconhece os relevantes serviços prestados pelos agraciados à administração fazendária, com destaque para sua contribuição ao aprimoramento da política fiscal, à gestão das finanças públicas e à eficiência da administração tributária.
 

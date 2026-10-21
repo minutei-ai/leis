@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Jundiaí, nos termos da Lei municipal n° 6.767, de 29 de dezembro de 2006, alterada pela Lei n° 7.625, de 27 de dezembro de 2010, o imóvel objeto da Matrícula n° 153.587 do 1° Oficial de Registro de Imóveis da Comarca de Jundiaí, com 8.045,60mÂ² (oito mil e quarenta e cinco metros quadrados e sessenta decímetros quadrados), localizado na Rua Alceu de Toledo Pontes, s/n°, Sistema de Recreio - Área 1, Parque Cecap, naquele Município, identificado e descrito nos autos do Processo 019.00001179/2024-17.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Jundiaí, nos termos da Lei municipal n° 6.767, de 29 de dezembro de 2006, alterada pela Lei n° 7.625, de 27 de dezembro de 2010, o imóvel objeto da Matrícula n° 153.587 do 1° Oficial de Registro de Imóveis da Comarca de Jundiaí, com 8.045,60m² (oito mil e quarenta e cinco metros quadrados e sessenta decímetros quadrados), localizado na Rua Alceu de Toledo Pontes, s/n°, Sistema de Recreio - Área 1, Parque Cecap, naquele Município, identificado e descrito nos autos do Processo 019.00001179/2024-17.
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á a abrigar o Centro de Integração da Cidadania - CIC, da Secretaria da Justiça e Cidadania.
 

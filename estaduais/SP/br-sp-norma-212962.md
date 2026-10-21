@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Santa Isabel, nos termos da Lei Complementar municipal n° 252, de 24 de outubro de 2025, o terreno localizado na Rua Massao Ogawa (antiga Rua dos Advogados), s/n, Jardim Eldorado III, naquele Município, com área de 5.391,15 mÂ² (cinco mil trezentos e noventa e um metros quadrados e quinze decímetros quadrados), objeto da Matrícula n° 66.125 do Registro de Imóveis da Comarca de Santa Isabel, descrito e identificado nos autos do Processo n° 229.00000071/2026-49.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Santa Isabel, nos termos da Lei Complementar municipal n° 252, de 24 de outubro de 2025, o terreno localizado na Rua Massao Ogawa (antiga Rua dos Advogados), s/n, Jardim Eldorado III, naquele Município, com área de 5.391,15 m² (cinco mil trezentos e noventa e um metros quadrados e quinze decímetros quadrados), objeto da Matrícula n° 66.125 do Registro de Imóveis da Comarca de Santa Isabel, descrito e identificado nos autos do Processo n° 229.00000071/2026-49.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo abriga a E.E. Professora Brasilísia Machado Lobo, ficando destinado à Secretaria da Educação.
 

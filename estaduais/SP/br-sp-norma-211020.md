@@ -87,9 +87,9 @@ XIII- realizar intervenções e obras de drenagem urbana no âmbito da competên
 
 XIV- elaborar estudos para integração dos serviços de drenagem e manejo de águas pluviais aos serviços de abastecimento de água e esgotamento sanitário, nos termos das normas de referência da Agência Nacional de Águas e Saneamento Básico;
 
-XV-desassorear cursos dâ€™água;
+XV-desassorear cursos d’água;
 
-XVI- monitorar ocorrências de extravasamentos em cursos dâ€™água;
+XVI- monitorar ocorrências de extravasamentos em cursos d’água;
 
 XVII- realizar o monitoramento meteorológico, hidrológico e geológico, com envio de alertas à população e aos órgãos do Sistema Estadual de Proteção e Defesa Civil;
 

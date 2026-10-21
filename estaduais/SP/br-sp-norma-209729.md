@@ -8,9 +8,9 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos 
 
 Decreta:    
 
-**Artigo 1° -** Ficam transferidos os cargos providos constantes do Anexo I, bem como os cargos vagos constantes do Anexo II, ambos inteÂ­grantes deste decreto.    
+**Artigo 1° -** Ficam transferidos os cargos providos constantes do Anexo I, bem como os cargos vagos constantes do Anexo II, ambos inte­grantes deste decreto.    
 
-**Artigo 2° -** Ficam os Secretários de Estado autorizados a proceder, mediante aposÂ­tila, à retificação dos elementos informativos constantes dos Anexos I e II deste decreto.    
+**Artigo 2° -** Ficam os Secretários de Estado autorizados a proceder, mediante apos­tila, à retificação dos elementos informativos constantes dos Anexos I e II deste decreto.    
 
 **Artigo 3° -** Torna insubsistente o Anexo II, do [Decreto n° 67.694, de 3 de maio de 2023](https://www.al.sp.gov.br/norma/208058), na parte que transferiu o cargo vago de Assessor Técnico IV, decorrente da exoneração de João Luiz Mota da Cunha Alves, RG 66.592.016-7, do Quadro da Secretaria de Desenvolvimento Econômico para o Quadro da Secretaria de Políticas para a Mulher.    
 

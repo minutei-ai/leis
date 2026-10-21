@@ -91,10 +91,10 @@ a que se refere o artigo 1° da Lei Complementar n° 1.389, de 19 de julho de 20
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023072108042284838.png)
 
-#### Escala de Vencimentos â€“ Superior
+#### Escala de Vencimentos – Superior
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023072108044604346.png)
 
-#### Escala de Vencimentos â€“ Comissão
+#### Escala de Vencimentos – Comissão
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023072108051305139.png)

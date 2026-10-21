@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.330, DE 27 DE JANEIRO DE 2025
 
-### Homologa, por 180 (cento e oiÂ­tenta) dias, o decreto do PreÂ­feito do Município de Cajamar, que declarou Situação de EmerÂ­gência em áreas do Município.
+### Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Cajamar, que declarou Situação de Emer­gência em áreas do Município.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,
 

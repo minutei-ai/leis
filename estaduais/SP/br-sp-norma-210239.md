@@ -18,7 +18,7 @@ Considerando que as Linhas 11-Coral, 12-Safira e 13-Jade da Rede de Trens Metrop
 
 Considerando os benefícios públicos que os investimentos previstos na concessão trarão aos passageiros e a todos os municípios abrangidos pelo projeto "Lote Alto Tietê", incluindo maior acessibilidade e conforto, diminuição dos intervalos entre os trens e expansão dos serviços atualmente prestados;
 
-Considerando a aprovação do modelo de concessão patrocinada pelo Conselho Gestor do Programa de Parcerias Público-Privadas-CGPPP, criado pela [Lei estadual n° 11.688, de 19 de maio de 2004](https://www.al.sp.gov.br/norma/50875), na 13Âª Reunião Ordinária, concernente à 49Âª Reunião Conjunta Ordinária do CDPED e do CGPPP, cuja ata foi publicada no Diário Oficial do Estado de 1 de novembro de 2024,
+Considerando a aprovação do modelo de concessão patrocinada pelo Conselho Gestor do Programa de Parcerias Público-Privadas-CGPPP, criado pela [Lei estadual n° 11.688, de 19 de maio de 2004](https://www.al.sp.gov.br/norma/50875), na 13ª Reunião Ordinária, concernente à 49ª Reunião Conjunta Ordinária do CDPED e do CGPPP, cuja ata foi publicada no Diário Oficial do Estado de 1 de novembro de 2024,
 
 Decreta:
 

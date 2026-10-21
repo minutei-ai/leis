@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria da Cultura, Economia e Indústria Criativas para a Secretaria de Esportes, a administração do imóvel denominado prédio administrativo do "Conjunto Desportivo Baby Barioni", localizado na Rua Dona Germaine Burchard, n° 451, Bairro Água Branca, no Município de São Paulo, cadastrado no SGI sob o n° 67419, com 1.580,00mÂ² (um mil quinhentos e oitenta metros quadrados) de área construída, identificado e descrito nos autos do Processo Digital 010.00005601/2024-57.
+**Artigo 1° -** Fica transferida, da Secretaria da Cultura, Economia e Indústria Criativas para a Secretaria de Esportes, a administração do imóvel denominado prédio administrativo do "Conjunto Desportivo Baby Barioni", localizado na Rua Dona Germaine Burchard, n° 451, Bairro Água Branca, no Município de São Paulo, cadastrado no SGI sob o n° 67419, com 1.580,00m² (um mil quinhentos e oitenta metros quadrados) de área construída, identificado e descrito nos autos do Processo Digital 010.00005601/2024-57.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à instalação de unidade administrativa da Secretaria de Esportes.
 

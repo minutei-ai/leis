@@ -10,7 +10,7 @@ Decreta:
 
 **Artigo 1° -** O "caput" do artigo 1° do [Decreto n° 65.199, de 22 de setembro de 2020](https://www.al.sp.gov.br/norma/195442), passa a vigorar com a seguinte redação:
 
-"Artigo 1° - Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da concessionária Bloco de Onze Aeroportos do Brasil S/A, área aeroportuária com 209,94mÂ² (duzentos e nove metros quadrados e noventa e quatro decímetros quadrados), localizada no saguão central, piso térreo, do Aeroporto de Congonhas, na Avenida Washington Luís, s/n°, Vila Congonhas, no Município de São Paulo, área essa identificada e descrita nos autos do Processo n° 058.00072619/2024-08.". (NR)
+"Artigo 1° - Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da concessionária Bloco de Onze Aeroportos do Brasil S/A, área aeroportuária com 209,94m² (duzentos e nove metros quadrados e noventa e quatro decímetros quadrados), localizada no saguão central, piso térreo, do Aeroporto de Congonhas, na Avenida Washington Luís, s/n°, Vila Congonhas, no Município de São Paulo, área essa identificada e descrita nos autos do Processo n° 058.00072619/2024-08.". (NR)
 
 **Artigo 2° -** Este decreto entra em vigor na data de sua publicação.
 

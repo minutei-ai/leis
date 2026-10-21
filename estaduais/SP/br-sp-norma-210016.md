@@ -2,7 +2,7 @@
 
 # LEI N° 18.041, DE 23 DE SETEMBRO DE 2024
 
-## (Projeto de lei n° 1299/2023, do Deputado Tomé Abduch â€“ REPUBLICANOS)
+## (Projeto de lei n° 1299/2023, do Deputado Tomé Abduch – REPUBLICANOS)
 
 ### Institui o "Dia em Memória dos Policiais Mortos em Serviço ou em Decorrência da Função".
 

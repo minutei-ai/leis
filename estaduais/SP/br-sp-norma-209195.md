@@ -2,7 +2,7 @@
 
 # LEI N° 17.867, DE 18 DE MARÇO DE 2024
 
-## (Projeto de lei n° 586/2023, do Deputado Caio França â€“ PSB)
+## (Projeto de lei n° 586/2023, do Deputado Caio França – PSB)
 
 ### Declara de utilidade pública a Associação de Promoção e Assistência Social Estrela do Mar, com sede em Santos.
 

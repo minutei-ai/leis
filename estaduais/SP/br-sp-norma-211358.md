@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a instituir servidão administrativa, a título gratuito, em favor do Município de Bauru, sobre uma faixa de terra com área de 1.920,81mÂ² (um mil novecentos e vinte metros quadrados e oitenta e um decímetros quadrados), identificada e descrita nos autos do Processo n° 006.00406143/2024-48, no imóvel que abriga o Centro de Progressão Penitenciária "Prof. Noé Azevedo", localizado na Rodovia Comandante João Ribeiro de Barros, km 349, zona rural, naquele Município, matriculado sob o n° 88.091 no 2° Oficial de Registro de Imóveis e Anexos da Comarca de Bauru e cadastrado no SGI sob o n° 21648.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a instituir servidão administrativa, a título gratuito, em favor do Município de Bauru, sobre uma faixa de terra com área de 1.920,81m² (um mil novecentos e vinte metros quadrados e oitenta e um decímetros quadrados), identificada e descrita nos autos do Processo n° 006.00406143/2024-48, no imóvel que abriga o Centro de Progressão Penitenciária "Prof. Noé Azevedo", localizado na Rodovia Comandante João Ribeiro de Barros, km 349, zona rural, naquele Município, matriculado sob o n° 88.091 no 2° Oficial de Registro de Imóveis e Anexos da Comarca de Bauru e cadastrado no SGI sob o n° 21648.
 
 **Artigo 2° -** A faixa de terra objeto da servidão administrativa destinar-se-á à implantação de infraestrutura de drenagem de águas pluviais.
 

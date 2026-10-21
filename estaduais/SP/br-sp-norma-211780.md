@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel objeto da Matrícula n° 280 do Oficial de Registro de Imóveis e Anexos da Comarca de Tupi Paulista, localizado na Rua Princesa Isabel, n° 385, naquele Município, cadastrado no SGI sob o n° 43754, com área de 504mÂ² (quinhentos e quatro metros quadrados), identificado e descrito nos autos do Processo Digital n° 018.00014649/2023-50.
+**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel objeto da Matrícula n° 280 do Oficial de Registro de Imóveis e Anexos da Comarca de Tupi Paulista, localizado na Rua Princesa Isabel, n° 385, naquele Município, cadastrado no SGI sob o n° 43754, com área de 504m² (quinhentos e quatro metros quadrados), identificado e descrito nos autos do Processo Digital n° 018.00014649/2023-50.
 
 **Artigo 2° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Tupi Paulista, do imóvel indicado no artigo 1°.
 

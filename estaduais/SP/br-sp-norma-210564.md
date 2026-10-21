@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel objeto da Matrícula n° 125.522 do 1° Oficial de Registro de Imóveis da Comarca de Sorocaba, localizado na Avenida Chico Xavier, n° 240, Bairro Habiteto - Ana Paula Eleutério, no Município de Sorocaba, cadastrado no SGI sob o n° 36169, parte essa com área de 2.068,00mÂ² (dois mil e sessenta e oito metros quadrados), identificada e descrita nos autos do Processo Digital 057.00466750/2024-52.
+**Artigo 1° -** Fica transferida, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel objeto da Matrícula n° 125.522 do 1° Oficial de Registro de Imóveis da Comarca de Sorocaba, localizado na Avenida Chico Xavier, n° 240, Bairro Habiteto - Ana Paula Eleutério, no Município de Sorocaba, cadastrado no SGI sob o n° 36169, parte essa com área de 2.068,00m² (dois mil e sessenta e oito metros quadrados), identificada e descrita nos autos do Processo Digital 057.00466750/2024-52.
 
 **Parágrafo único -** A parte do imóvel de que trata o "caput" deste artigo destinar-se-á à instalação de uma unidade da Polícia Militar do Estado de São Paulo.
 

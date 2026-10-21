@@ -27,7 +27,7 @@ IV - previsão de criação de controle anual para acompanhar o atendimento das 
 
 V - prestação de serviços de qualidade, visando à melhoria da qualidade da água tratada e à redução de sua perda, e promovendo:
 
-a) busca constante de mecanismos de atendimento em épocas de estiagem e de seca, promovendo a gestão sustentável dos recursos hídricos do Estado e a mitigação dos impactos ambientais gerados por eventos climáticos extremos, visando à segurança hídrica e ao combate à poluição dos corpos dâ€™água;
+a) busca constante de mecanismos de atendimento em épocas de estiagem e de seca, promovendo a gestão sustentável dos recursos hídricos do Estado e a mitigação dos impactos ambientais gerados por eventos climáticos extremos, visando à segurança hídrica e ao combate à poluição dos corpos d’água;
 
 b) modicidade tarifária, nos termos definidos nesta lei;
 
@@ -178,22 +178,22 @@ Publicada na Assessoria Técnico-Legislativa, em 08 de dezembro de 2023.
 #### ANEXO ÚNICO <br>
 (a que se refere o artigo 8°, "caput", da Lei n° 17.853, de 08 de dezembro de 2023) 
 
-#### Anexo Único â€“ Lista de Municípios por unidades regionais
+#### Anexo Único – Lista de Municípios por unidades regionais
 
-#### URAE 1 â€“ Sudeste
+#### URAE 1 – Sudeste
 
 ![](/repositorio/legislacao/lei/2023/2023121108095971939.png)
 
 ![](/repositorio/legislacao/lei/2023/2023121108104324838.png)
 
-#### URAE 2 â€“ Centro 
+#### URAE 2 – Centro 
 
 ![](/repositorio/legislacao/lei/2023/2023121108113119345.png)
 
-#### URAE 3 â€“ Leste
+#### URAE 3 – Leste
 
 ![](/repositorio/legislacao/lei/2023/2023121108120099747.png)
 
-#### URAE 4 â€“ Norte
+#### URAE 4 – Norte
 
 ![](/repositorio/legislacao/lei/2023/2023121108123202344.png)

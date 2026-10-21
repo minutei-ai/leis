@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Guaíra, nos termos da Lei municipal n° 3.357, de 20 de março de 2026, o terreno objeto da Matrícula n° 27.322 do Cartório de Registro de Imóveis da Comarca de Guaíra, com 615,00mÂ² (seiscentos e quinze metros quadrados), localizado na Rua 6, n° 160, Loteamento São José, naquele Município, identificado nos autos do Processo n° 018.00012504/2026-67.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Guaíra, nos termos da Lei municipal n° 3.357, de 20 de março de 2026, o terreno objeto da Matrícula n° 27.322 do Cartório de Registro de Imóveis da Comarca de Guaíra, com 615,00m² (seiscentos e quinze metros quadrados), localizado na Rua 6, n° 160, Loteamento São José, naquele Município, identificado nos autos do Processo n° 018.00012504/2026-67.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á ao Ministério Público do Estado de São Paulo, para instalação da sede da Promotoria de Justiça de Guaíra.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Lucélia, do imóvel localizado na Rua Dorival Rodrigues de Barros, n° 459, lado leste, naquele município, objeto da Matrícula n° 14.174 do Oficial de Registro de Imóveis, Títulos e Documentos e Civil das Pessoas Jurídicas da Comarca de Lucélia, cadastrado no SGI sob o n° 3184, com área de 29.888,00mÂ² (vinte e nove mil oitocentos e oitenta e oito metros quadrados) de terreno, identificado e descrito no Processo Digital 018.00000343/2023-16.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Lucélia, do imóvel localizado na Rua Dorival Rodrigues de Barros, n° 459, lado leste, naquele município, objeto da Matrícula n° 14.174 do Oficial de Registro de Imóveis, Títulos e Documentos e Civil das Pessoas Jurídicas da Comarca de Lucélia, cadastrado no SGI sob o n° 3184, com área de 29.888,00m² (vinte e nove mil oitocentos e oitenta e oito metros quadrados) de terreno, identificado e descrito no Processo Digital 018.00000343/2023-16.
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á à instalação de uma incubadora de empresas.
 

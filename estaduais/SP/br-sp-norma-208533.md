@@ -12,7 +12,7 @@ Decreta:
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á à instalação do Grupo de Vigilância Epidemiológica - GVE, do Grupo de Vigilância Sanitária - GVS e do Núcleo de Apoio às Operações Regionais - NAOR, da Coordenadoria de Controle de Doenças - CCD.
 
-**Artigo 2° -** Fica transferida, da Secretaria da Educação para a Secretaria de Governo e Relações Institucionais, a administração de parte do imóvel localizado na Rua Mario Prandini, n° 962, Centro, no Município de Itapeva, cadastrado no SGI sob o n° 44.321, parte essa com 6.653,57mÂ² (seis mil seiscentos e cinquenta e três metros quadrados e cinquenta e sete decímetros quadrados) de terreno, identificada e descrita nos autos do Processo 002.00001132/2023-05.
+**Artigo 2° -** Fica transferida, da Secretaria da Educação para a Secretaria de Governo e Relações Institucionais, a administração de parte do imóvel localizado na Rua Mario Prandini, n° 962, Centro, no Município de Itapeva, cadastrado no SGI sob o n° 44.321, parte essa com 6.653,57m² (seis mil seiscentos e cinquenta e três metros quadrados e cinquenta e sete decímetros quadrados) de terreno, identificada e descrita nos autos do Processo 002.00001132/2023-05.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à execução do Projeto "Canal Direto SP + Perto".
 

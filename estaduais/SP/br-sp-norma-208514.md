@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e pelo prazo de 12 (doze) meses, prorrogável por até 60 (sessenta) meses, da Companhia de Processamento de Dados do Estado de São Paulo - PRODESP, parte do imóvel localizado na Rua Agueda Gonçalves, n° 240, no Município de Taboão da Serra, parte essa com área de 974,00mÂ² (novecentos e setenta e quatro metros quadrados), identificada e descrita nos autos do Processo Digital 359.00004237/2023-03.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e pelo prazo de 12 (doze) meses, prorrogável por até 60 (sessenta) meses, da Companhia de Processamento de Dados do Estado de São Paulo - PRODESP, parte do imóvel localizado na Rua Agueda Gonçalves, n° 240, no Município de Taboão da Serra, parte essa com área de 974,00m² (novecentos e setenta e quatro metros quadrados), identificada e descrita nos autos do Processo Digital 359.00004237/2023-03.
 
 **Parágrafo único -** A parte do imóvel de que trata o "caput" deste artigo destinar-se-á à Secretaria de Gestão e Governo Digital, para alocação de equipes de trabalho.
 

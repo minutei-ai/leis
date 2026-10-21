@@ -2,7 +2,7 @@
 
 # LEI N° 18.069, DE 23 DE DEZEMBRO DE 2024
 
-## (Projeto de lei n° 339/2024, dos Deputados André Bueno â€“ PL e Gil Diniz â€“ PL)
+## (Projeto de lei n° 339/2024, dos Deputados André Bueno – PL e Gil Diniz – PL)
 
 ### Autoriza o Poder Executivo a criar o Protocolo de Combate à Intimidação Sistemática (bullying) e dá providências correlatas.
 

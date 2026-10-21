@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Bauru, da edificação n° 36208 do SGI n° 1032, com área de 380,29mÂ² (trezentos e oitenta metros quadrados e vinte e nove decímetros quadrados), localizada na Rua Salvador Filardi, Quadra 6-8, Bairro Vila Souto, naquele Município, parte de imóvel maior objeto da Matrícula n° 99.283 do 1° Oficial de Registro de Imóveis e Anexos da Comarca de Bauru, identificado e descrito nos autos do Processo Digital 024.00108483/2024-98.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Bauru, da edificação n° 36208 do SGI n° 1032, com área de 380,29m² (trezentos e oitenta metros quadrados e vinte e nove decímetros quadrados), localizada na Rua Salvador Filardi, Quadra 6-8, Bairro Vila Souto, naquele Município, parte de imóvel maior objeto da Matrícula n° 99.283 do 1° Oficial de Registro de Imóveis e Anexos da Comarca de Bauru, identificado e descrito nos autos do Processo Digital 024.00108483/2024-98.
 
 **Parágrafo único -** A edificação a que alude o "caput" deste artigo destinarse-á à prestação de serviços municipais de saúde.
 

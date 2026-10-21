@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Diadema, nos termos da Lei municipal n° 862, de 5 de novembro de 1986, alterada pela Lei municipal n° 3.685, de 3 de outubro de 2017, o imóvel objeto da Matrícula n° 39.287 do Oficial de Registro de Imóveis da Comarca de Diadema, localizado na Rua Sidney, n° 80, bairro Taboão, naquele Município, com área de 2.000mÂ² (dois mil metros quadrados), identificado e descrito nos autos do Processo n° 229.00001265/2024-08.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Diadema, nos termos da Lei municipal n° 862, de 5 de novembro de 1986, alterada pela Lei municipal n° 3.685, de 3 de outubro de 2017, o imóvel objeto da Matrícula n° 39.287 do Oficial de Registro de Imóveis da Comarca de Diadema, localizado na Rua Sidney, n° 80, bairro Taboão, naquele Município, com área de 2.000m² (dois mil metros quadrados), identificado e descrito nos autos do Processo n° 229.00001265/2024-08.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo abriga a Escola Estadual Professora Ana Consuelo Garcia Peres Murad, da Secretaria da Educação.
 

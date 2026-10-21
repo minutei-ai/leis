@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 20 (vinte) anos, em favor do Município de Luiziânia, de parte do imóvel objeto da Matrícula n° 65.474 do Oficial de Registro de Imóveis da Comarca de Penápolis, localizado na Rua José Fulanete, esquina com a Rua Rio Branco, Centro, naquele Município, cadastrado no SGI sob o n° 12.168, parte essa com área de 630,00mÂ² (seiscentos e trinta metros quadrados), identificada e descrita nos autos do Processo Digital n° 002.00003577/2024-01.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 20 (vinte) anos, em favor do Município de Luiziânia, de parte do imóvel objeto da Matrícula n° 65.474 do Oficial de Registro de Imóveis da Comarca de Penápolis, localizado na Rua José Fulanete, esquina com a Rua Rio Branco, Centro, naquele Município, cadastrado no SGI sob o n° 12.168, parte essa com área de 630,00m² (seiscentos e trinta metros quadrados), identificada e descrita nos autos do Processo Digital n° 002.00003577/2024-01.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação de garagem para veículos da Secretaria Municipal de Saúde.
 

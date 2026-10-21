@@ -44,7 +44,7 @@ Parágrafo único - A utilização da excepcionalidade estabelecida no "caput" d
 
 § 1° - (...)
 
-§ 2° - Fica admitido, única e exclusivamente para os casos de regularização de que trata esta lei, o lote mínimo de 125 mÂ² (cento e vinte e cinco metros quadrados) nas SUC e SUCT.
+§ 2° - Fica admitido, única e exclusivamente para os casos de regularização de que trata esta lei, o lote mínimo de 125 m² (cento e vinte e cinco metros quadrados) nas SUC e SUCT.
 
 § 3° - A regularização deverá atender a data da Lei Federal n° 13.465, de 11 de julho de 2017, que adotou como referencial 22 de dezembro de 2016."
 

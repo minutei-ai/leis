@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 78/25, 79/25, 84/25, 89/25 e 90/25, celebrados em Rio Branco, AC, na 197Âª Reunião Ordinária do Conselho Nacional de Política Fazendária - CONFAZ, realizada no dia 4 de julho de 2025, e publicados na página 50, Seção I, da Edição 126 do Diário Oficial da União - DOU de 8 de julho de 2025.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 78/25, 79/25, 84/25, 89/25 e 90/25, celebrados em Rio Branco, AC, na 197ª Reunião Ordinária do Conselho Nacional de Política Fazendária - CONFAZ, realizada no dia 4 de julho de 2025, e publicados na página 50, Seção I, da Edição 126 do Diário Oficial da União - DOU de 8 de julho de 2025.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo - ALESP, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 78/25, 79/25, 84/25 e 89/25.
 

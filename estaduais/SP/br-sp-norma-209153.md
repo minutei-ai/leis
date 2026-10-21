@@ -12,7 +12,7 @@ Decreta:
 
 **Artigo 2° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, do imóvel descrito no "caput" do artigo 1°, em favor da União, por intermédio do Tribunal Regional Eleitoral de São Paulo.
 
-**Parágrafo único -** O imóvel objeto da permissão de uso destinar-se-á a abrigar o Cartório da 95Âª Zona Eleitoral da Comarca de Pirajuí.
+**Parágrafo único -** O imóvel objeto da permissão de uso destinar-se-á a abrigar o Cartório da 95ª Zona Eleitoral da Comarca de Pirajuí.
 
 **Artigo 3° -** A permissão de uso de que trata este decreto será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas pela permitente.
 

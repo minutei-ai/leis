@@ -493,7 +493,7 @@ IV - preservar o sigilo de informações quando exigido;
 V - declarar conflitos de interesse.
 
 #### CAPÍTULO III<br>
-Da Comissão Intergestores Bipartite â€“ CIB/SP
+Da Comissão Intergestores Bipartite – CIB/SP
 
 **Artigo 49 -** A Comissão Intergestores Bipartite do Estado de São Paulo - CIB/SP é instância de negociação e pactuação entre o Estado e os Municípios, no âmbito do SUAS, quanto aos aspectos operacionais da Política de Assistência Social.
 

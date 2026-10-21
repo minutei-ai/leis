@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 50 (cinquenta) anos, a título gratuito, em favor da Fundação Amaral Carvalho, de parte do imóvel objeto da Matrícula n° 92.732 do Oficial de Registro de Imóveis da Comarca de Itu, localizado na Rodovia Waldomiro Corrêa de Camargo, SP-079, km 63, Tapera Grande, no Município de Itu, cadastrado no SGI sob o n° 1733, parte essa com área de 76.374,63mÂ² (setenta e seis mil trezentos e setenta e quatro metros quadrados e sessenta e três decímetros quadrados), identificada e descrita nos autos do Processo Digital n° 018.00010712/2025-41.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 50 (cinquenta) anos, a título gratuito, em favor da Fundação Amaral Carvalho, de parte do imóvel objeto da Matrícula n° 92.732 do Oficial de Registro de Imóveis da Comarca de Itu, localizado na Rodovia Waldomiro Corrêa de Camargo, SP-079, km 63, Tapera Grande, no Município de Itu, cadastrado no SGI sob o n° 1733, parte essa com área de 76.374,63m² (setenta e seis mil trezentos e setenta e quatro metros quadrados e sessenta e três decímetros quadrados), identificada e descrita nos autos do Processo Digital n° 018.00010712/2025-41.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação do Centro de Assistência de Alta Complexidade em Oncologia (CACON).
 

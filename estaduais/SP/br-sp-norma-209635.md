@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:    
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, pelo prazo de 25 (vinte e cinco) anos, prorrogável por iguais períodos, do Município de Osasco, nos termos do Decreto municipal n° 13.206, de 12 de janeiro de 2022, alterado pelo Decreto municipal n° 13.554, de 11 de outubro de 2022, parte do imóvel objeto da Matrícula n° 45.574 do 2° Oficial de Registro de Imóveis de Osasco, localizada na Rua Niterói, s/n°, Rochdale, naquele Município, com área de 1.211,80mÂ² (um mil duzentos e onze metros quadrados e oitenta decímetros quadrados), identificada e descrita nos autos do Processo Digital 010.00012130/2023-52.  
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, pelo prazo de 25 (vinte e cinco) anos, prorrogável por iguais períodos, do Município de Osasco, nos termos do Decreto municipal n° 13.206, de 12 de janeiro de 2022, alterado pelo Decreto municipal n° 13.554, de 11 de outubro de 2022, parte do imóvel objeto da Matrícula n° 45.574 do 2° Oficial de Registro de Imóveis de Osasco, localizada na Rua Niterói, s/n°, Rochdale, naquele Município, com área de 1.211,80m² (um mil duzentos e onze metros quadrados e oitenta decímetros quadrados), identificada e descrita nos autos do Processo Digital 010.00012130/2023-52.  
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Cultura, Economia e Indústria Criativas.
 

@@ -15,7 +15,7 @@ Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 #### CAPÍTULO I<br>
 Disposições Preliminares
 
-**Artigo 1° -** Esta lei consolida a legislação paulista relativa à proteção e defesa da mulher, criando a â€˜Consolidação das Leis de Proteção e Defesa da Mulherâ€™.**<br>
+**Artigo 1° -** Esta lei consolida a legislação paulista relativa à proteção e defesa da mulher, criando a ‘Consolidação das Leis de Proteção e Defesa da Mulher’.**<br>
 Artigo 2° -** Esta consolidação não afasta a incidência de outros princípios, diretrizes e normas de proteção e defesa da mulher.**<br>
 Artigo 3° -** Encontram-se consolidados neste trabalho os seguintes dispositivos legais:<br>
 I - [Lei n° 10.346, de 27 de dezembro de 1968](https://www.al.sp.gov.br/norma/28698);<br>
@@ -92,33 +92,33 @@ Das Datas Comemorativas<br>
 SEÇÃO I<br>
 Do Dia da Gratidão à Mãe Preta
 
-**Artigo 4° -** É instituído o â€˜Dia da Gratidão à Mãe Pretaâ€™, que se comemorará anualmente, em todo o território do Estado, no dia 28 de setembro.**<br>
+**Artigo 4° -** É instituído o ‘Dia da Gratidão à Mãe Preta’, que se comemorará anualmente, em todo o território do Estado, no dia 28 de setembro.**<br>
 Artigo 5° -** Em todos os estabelecimentos de ensino estadual de grau médio, bem como nos particulares sujeitos à fiscalização do Governo do Estado, serão realizados, na data referida no artigo 4°, atos cívicos em que constarão preleções sobre o papel exercido pela mulher negra como nutriz e cuidadora, e sua influência na formação física e moral das gerações de brasileiros contemporâneos da escravatura.
 
 #### SEÇÃO II<br>
 Da Semana da Mulher
 
-**Artigo 6° -** Fica instituída a â€˜Semana da Mulherâ€™, a ser comemorada, anualmente, no período de 2 a 8 de março.
+**Artigo 6° -** Fica instituída a ‘Semana da Mulher’, a ser comemorada, anualmente, no período de 2 a 8 de março.
 
 **Parágrafo único -** O Poder Executivo fará realizar palestras, conferências, reuniões e outros eventos que invoquem a problemática da mulher em nossa sociedade, em bibliotecas públicas, na rede oficial de ensino, bem como nos órgãos da administração direta e indireta do Estado.
 
 #### SEÇÃO III<br>
 Da Semana de Estudos sobre os Direitos da Mulher
 
-**Artigo 7° -** Fica instituída a â€˜Semana de Estudos sobre os Direitos da Mulherâ€™, a realizar-se anualmente no mês de abril, nos municípios sedes das Regiões Administrativas do Estado.**<br>
+**Artigo 7° -** Fica instituída a ‘Semana de Estudos sobre os Direitos da Mulher’, a realizar-se anualmente no mês de abril, nos municípios sedes das Regiões Administrativas do Estado.**<br>
 Parágrafo único -** O evento de que trata este artigo será promovido pela Secretaria de Desenvolvimento Social, por meio de suas Delegacias Regionais, em conjunto com outros órgãos públicos, associações e sindicatos.
 
 #### SEÇÃO IV<br>
 Da Semana da Saúde da Mulher
 
-**Artigo 8° -** Fica instituída a â€˜Semana da Saúde da Mulherâ€™, a ser realizada anualmente de 8 a 15 de março.
+**Artigo 8° -** Fica instituída a ‘Semana da Saúde da Mulher’, a ser realizada anualmente de 8 a 15 de março.
 
-**Parágrafo único -** O programa das atividades da â€˜Semana da Mulherâ€™ será estabelecido pela Secretaria da Saúde, pelos Conselhos Estadual e Municipal que tratam das questões femininas e pelos movimentos de mulheres, visando ao aperfeiçoamento de todas as atividades voltadas para a defesa da saúde da mulher.
+**Parágrafo único -** O programa das atividades da ‘Semana da Mulher’ será estabelecido pela Secretaria da Saúde, pelos Conselhos Estadual e Municipal que tratam das questões femininas e pelos movimentos de mulheres, visando ao aperfeiçoamento de todas as atividades voltadas para a defesa da saúde da mulher.
 
 #### SEÇÃO V<br>
 Da Semana Estadual de Incentivo ao Aleitamento Materno
 
-**Artigo 9° -** Fica instituída a â€˜Semana Estadual de Incentivo ao Aleitamento Maternoâ€™, a ser comemorada anualmente de 1° a 7 de outubro.**<br>
+**Artigo 9° -** Fica instituída a ‘Semana Estadual de Incentivo ao Aleitamento Materno’, a ser comemorada anualmente de 1° a 7 de outubro.**<br>
 Artigo 10 -** Os objetivos da semana de que trata esta seção são:<br>
 I - estimular atividades de promoção, proteção e apoio à amamentação;<br>
 II - apoiar e conscientizar as mulheres para que exerçam seu papel como mães geradoras e alimentadoras de novos seres sociais;<br>
@@ -127,18 +127,18 @@ III - sensibilizar todos os setores da sociedade para que compreendam e apoiem a
 #### SEÇÃO VI<br>
 Da Semana de Conscientização Sobre a Importância do Ácido Fólico
 
-**Artigo 11 -** Fica instituída a â€˜Semana de Conscientização sobre a Importância do Ácido Fólico para Mulheres na Faixa Etária de 10 a 40 anosâ€™, a se realizar anualmente na primeira semana do mês de outubro.**<br>
+**Artigo 11 -** Fica instituída a ‘Semana de Conscientização sobre a Importância do Ácido Fólico para Mulheres na Faixa Etária de 10 a 40 anos’, a se realizar anualmente na primeira semana do mês de outubro.**<br>
 Parágrafo único -** O evento de que trata esta seção integrará o Calendário Oficial do Estado.
 
 #### SEÇÃO VII<br>
 Do Dia da Mulher Profissional de Direito
 
-**Artigo 12 -** Fica instituído o â€˜Dia da Mulher Profissional de Direitoâ€™ a ser comemorado anualmente no dia 15 de dezembro.
+**Artigo 12 -** Fica instituído o ‘Dia da Mulher Profissional de Direito’ a ser comemorado anualmente no dia 15 de dezembro.
 
 #### SEÇÃO VIII<br>
 Do Dia Estadual de Prevenção ao Câncer de Mama
 
-**Artigo 13 -** Fica instituído, no terceiro domingo do mês de maio, o â€˜Dia Estadual de Prevenção ao Câncer de Mamaâ€™, com o objetivo de conscientizar a mulher sobre diagnósticos preventivos, inclusive a triagem médica.**<br>
+**Artigo 13 -** Fica instituído, no terceiro domingo do mês de maio, o ‘Dia Estadual de Prevenção ao Câncer de Mama’, com o objetivo de conscientizar a mulher sobre diagnósticos preventivos, inclusive a triagem médica.**<br>
 Artigo 14 -** A campanha de prevenção será executada nos postos de saúde com pessoal treinado de acordo com métodos clínicos específicos.**<br>
 Artigo 15 -** Os órgãos públicos das áreas de saúde e ação social, de forma integrada, elaborarão um compêndio sobre a prevenção do câncer de mama contendo, entre outras matérias que se fizerem necessárias, práticas de apalpação e triagem médica sistemática.**<br>
 Parágrafo único -** Fica assegurada a participação do setor privado para a realização da campanha ora instituída, a qual poderá receber incentivo na forma regulamentar.
@@ -146,43 +146,43 @@ Parágrafo único -** Fica assegurada a participação do setor privado para a r
 #### SEÇÃO IX<br>
 Do Dia da Defesa da Mulher
 
-**Artigo 16 -** Fica instituído o â€˜Dia da Defesa da Mulherâ€™, a ser comemorado anualmente em 6 de agosto.
+**Artigo 16 -** Fica instituído o ‘Dia da Defesa da Mulher’, a ser comemorado anualmente em 6 de agosto.
 
 #### <br>
 SEÇÃO X<br>
 Do Dia Estadual de Combate à Violência Contra a Mulher
 
-**Artigo 17 -** Fica instituído o â€˜Dia Estadual de Combate à Violência contra a Mulherâ€™, a ser celebrado anualmente em 25 de novembro.
+**Artigo 17 -** Fica instituído o ‘Dia Estadual de Combate à Violência contra a Mulher’, a ser celebrado anualmente em 25 de novembro.
 
 #### SEÇÃO XI<br>
 Do Dia Estadual de Combate e Prevenção ao Câncer de Colo de Útero
 
-**Artigo 18 -** Fica instituído o â€˜Dia Estadual de Combate e Prevenção ao Câncer de Colo de Úteroâ€™, a ser celebrado anualmente em 11 de março.
+**Artigo 18 -** Fica instituído o ‘Dia Estadual de Combate e Prevenção ao Câncer de Colo de Útero’, a ser celebrado anualmente em 11 de março.
 
 **Artigo 19 -** A data instituída por esta lei passará a integrar o Calendário Oficial do Estado de São Paulo.**<br>
-Artigo 20 -** Os objetivos do â€˜Dia Estadual de Combate e Prevenção ao Câncer de Colo de Úteroâ€™ são:<br>
+Artigo 20 -** Os objetivos do ‘Dia Estadual de Combate e Prevenção ao Câncer de Colo de Útero’ são:<br>
 I - estimular ações informativas visando à conscientização da importância da prevenção do câncer do colo do útero;<br>
 II - conscientizar as várias esferas do Poder Público sobre a importância da aplicação da vacina que previne a contaminação pelo papilomavírus humano (HPV).
 
 #### SEÇÃO XII<br>
 Do Dia Estadual da Mulher Negra Latino-Americana e Caribenha
 
-**Artigo 21 -** Fica instituído o â€˜Dia Estadual da Mulher Negra Latino-Americana e Caribenhaâ€™, a ser comemorado anualmente em 25 de julho, passando essa data a integrar o Calendário Oficial do Estado.
+**Artigo 21 -** Fica instituído o ‘Dia Estadual da Mulher Negra Latino-Americana e Caribenha’, a ser comemorado anualmente em 25 de julho, passando essa data a integrar o Calendário Oficial do Estado.
 
 #### SEÇÃO XIII<br>
 Do Dia da Mulher Empreendedora
 
-**Artigo 22 -** Fica instituído o â€˜Dia da Mulher Empreendedoraâ€™, a ser comemorado anualmente em 19 de novembro.
+**Artigo 22 -** Fica instituído o ‘Dia da Mulher Empreendedora’, a ser comemorado anualmente em 19 de novembro.
 
 #### SEÇÃO XIV<br>
 Do Dia da Mulher Cristã Evangélica
 
-**Artigo 23 -** Fica instituído o â€˜Dia da Mulher Cristã Evangélicaâ€™, a ser comemorado anualmente em 28 de março.
+**Artigo 23 -** Fica instituído o ‘Dia da Mulher Cristã Evangélica’, a ser comemorado anualmente em 28 de março.
 
 #### SEÇÃO XV<br>
 Do Dia Estadual da Mulher Quadrangular
 
-**Artigo 24 -** Fica instituído o â€˜Dia Estadual da Mulher Quadrangularâ€™, a ser celebrado anualmente em 9 de outubro.
+**Artigo 24 -** Fica instituído o ‘Dia Estadual da Mulher Quadrangular’, a ser celebrado anualmente em 9 de outubro.
 
 #### SEÇÃO XVI<br>
 Do Dia de Prevenção ao Feminicídio
@@ -200,13 +200,13 @@ V - divulgação de iniciativas, ações e campanhas de combate ao feminicídio 
 #### SEÇÃO XVII<br>
 Dia Estadual da Conquista do Voto Feminino no Brasil
 
-**Artigo 28 -** Fica instituído o â€˜Dia Estadual da Conquista do Voto Feminino no Brasilâ€™, a ser comemorado anualmente no dia 24 de fevereiro.**<br>
+**Artigo 28 -** Fica instituído o ‘Dia Estadual da Conquista do Voto Feminino no Brasil’, a ser comemorado anualmente no dia 24 de fevereiro.**<br>
 Parágrafo único -** A data instituída nesta seção fica incluída no Calendário Oficial do Estado.
 
 #### SEÇÃO XVIII<br>
 Dia da Gestante
 
-**Artigo 29 -** Fica instituído o â€˜Dia da Gestanteâ€™, a ser comemorado anualmente no dia 15 de agosto.
+**Artigo 29 -** Fica instituído o ‘Dia da Gestante’, a ser comemorado anualmente no dia 15 de agosto.
 
 #### CAPÍTULO III<br>
 Do Combate à Violência contra a Mulher<br>
@@ -285,7 +285,7 @@ III - divulgação das principais punições previstas na legislação para o au
 #### SEÇÃO VIII<br>
 Da Propaganda Contra a Violência à Mulher
 
-**Artigo 54 -** Torna-se obrigatória, no Estado de São Paulo, a veiculação de propaganda contra a violência à mulher, com menção do Disque-Denúncia â€˜180â€™ e â€˜100â€™, nos telões e equipamentos similares dos shows que forem realizados em área aberta, com público superior a 1.500 (mil e quinhentas) pessoas.
+**Artigo 54 -** Torna-se obrigatória, no Estado de São Paulo, a veiculação de propaganda contra a violência à mulher, com menção do Disque-Denúncia ‘180’ e ‘100’, nos telões e equipamentos similares dos shows que forem realizados em área aberta, com público superior a 1.500 (mil e quinhentas) pessoas.
 
 **Artigo 55 -** Entende-se por show todo espetáculo teatral ou cinematográfico em que há música, dança e coreografia, geralmente montado em torno de um cantor ou animador.
 
@@ -305,10 +305,10 @@ por meio de mercados, feiras e shoppings, independentemente do porte.**<br>
 Parágrafo único -** Enquadram-se na presente lei todos os estabelecimentos comerciais situados à margem de rodovias.
 
 **Artigo 58 -** Os estabelecimentos públicos especificados nesta lei deverão afixar placas com as seguintes frases:<br>
-â€˜VIOLÊNCIA, ABUSO E EXPLORAÇÃO SEXUAL CONTRA A MULHER É CRIME.<br>
+‘VIOLÊNCIA, ABUSO E EXPLORAÇÃO SEXUAL CONTRA A MULHER É CRIME.<br>
 DENUNCIE - DISQUE 180.<br>
 VIOLAÇÃO AOS DIREITOS HUMANOS.<br>
-NÃO SE CALE! DISQUE 100.â€™**<br>
+NÃO SE CALE! DISQUE 100.’**<br>
 Parágrafo único -** As placas deverão ser afixadas em local de maior trânsito de clientes ou usuários, devendo ser confeccionadas no formato de 20cm (vinte centímetros) de largura por 15cm (quinze centímetros) de altura, com texto impresso em letras proporcionais às dimensões da placa, de fácil compreensão e contraste visual que possibilite visualização nítida.**<br>
 Artigo 59 -** A inobservância ao disposto nesta lei sujeitará o estabelecimento infrator às seguintes sanções:<br>
 I - advertência por escrito da autoridade competente;<br>
@@ -325,11 +325,11 @@ Artigo 62 -** O programa terá como objetivo principal prevenir e combater a vio
 Artigo 63 -** A periodicidade e a duração do programa serão definidas em conjunto pelos Poderes Executivo e Judiciário e pelo Ministério Público do Estado.
 
 #### SEÇÃO XI<br>
-Do Programa de Reeducação de Agressor de Violência Doméstica e Familiar - â€˜Viva Mulherâ€™
+Do Programa de Reeducação de Agressor de Violência Doméstica e Familiar - ‘Viva Mulher’
 
-**Artigo 64 -** Fica instituído o Programa de Reeducação de Agressor de Violência Doméstica e Familiar - â€˜VIVA MULHERâ€™, com o objetivo de reduzir e prevenir a reincidência do agente de violência, na esfera doméstica e familiar, no crime.**<br>
-Parágrafo único -** O Programa â€˜VIVA MULHERâ€™ será executado pelo Governo do Estado em parceria com os Poderes Judiciário e Legislativo, o Ministério Público e a Defensoria Pública do Estado.**<br>
-Artigo 65 -** Considera-se agressor de violência doméstica e familiar, para efeitos desta lei, em consonância com o que dispõe a Lei Federal n° 11.340, de 7 de agosto de 2006 - â€˜Lei Maria da Penhaâ€™, todo o agente que, por ação ou omissão, cause sofrimento ou violência física, psicológica, sexual, patrimonial ou moral:<br>
+**Artigo 64 -** Fica instituído o Programa de Reeducação de Agressor de Violência Doméstica e Familiar - ‘VIVA MULHER’, com o objetivo de reduzir e prevenir a reincidência do agente de violência, na esfera doméstica e familiar, no crime.**<br>
+Parágrafo único -** O Programa ‘VIVA MULHER’ será executado pelo Governo do Estado em parceria com os Poderes Judiciário e Legislativo, o Ministério Público e a Defensoria Pública do Estado.**<br>
+Artigo 65 -** Considera-se agressor de violência doméstica e familiar, para efeitos desta lei, em consonância com o que dispõe a Lei Federal n° 11.340, de 7 de agosto de 2006 - ‘Lei Maria da Penha’, todo o agente que, por ação ou omissão, cause sofrimento ou violência física, psicológica, sexual, patrimonial ou moral:<br>
 I - no âmbito da unidade doméstica, compreendida como o espaço de convívio permanente de pessoas, com ou sem vínculo familiar, inclusive as esporadicamente agregadas;<br>
 II - no âmbito da família, compreendida como a comunidade formada por indivíduos que são ou se consideram aparentados, unidos por laços naturais, por afinidade ou por vontade expressa;<br>
 III - em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, independentemente de coabitação.**<br>
@@ -340,14 +340,14 @@ III - violência sexual: qualquer conduta que constranja a ofendida a presenciar
 sexuais e reprodutivos;<br>
 IV - violência patrimonial: qualquer conduta que configure retenção, subtração, destruição parcial ou total de objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos da ofendida, incluindo os destinados a satisfazer suas necessidades;<br>
 V - violência moral: qualquer conduta que configure calúnia, difamação ou injúria à ofendida.**<br>
-Artigo 67 -** São princípios norteadores do â€˜VIVA MULHERâ€™:<br>
+Artigo 67 -** São princípios norteadores do ‘VIVA MULHER’:<br>
 I - responsabilização, em seus aspectos legal, cultural e social;<br>
 II - igualdade e respeito à diversidade e às questões de gênero;<br>
 III - observância à garantia dos direitos universais;<br>
 IV - promoção e fortalecimento da cidadania;<br>
 V - respeito aos direitos e deveres individuais e coletivos.**<br>
-Artigo 68 -** São diretrizes para a efetivação do â€˜VIVA MULHERâ€™:<br>
-I - atuação conjunta com o Poder Judiciário, para o acompanhamento das penas restritivas de direitos aplicadas pelo Juízo competente em relação aos autores da prática de violência doméstica, conforme previsto no artigo 152, parágrafo único, da Lei federal n° 7.210, de 11 de julho de 1984 - Lei de Execução Penal, e no artigo 35, V, da Lei federal n° 11.340, de 7 de agosto de 2006 - â€˜Lei Maria da Penhaâ€™;<br>
+Artigo 68 -** São diretrizes para a efetivação do ‘VIVA MULHER’:<br>
+I - atuação conjunta com o Poder Judiciário, para o acompanhamento das penas restritivas de direitos aplicadas pelo Juízo competente em relação aos autores da prática de violência doméstica, conforme previsto no artigo 152, parágrafo único, da Lei federal n° 7.210, de 11 de julho de 1984 - Lei de Execução Penal, e no artigo 35, V, da Lei federal n° 11.340, de 7 de agosto de 2006 - ‘Lei Maria da Penha’;<br>
 II - instituição de serviços de responsabilização e educação do agressor com atuação por meio de grupos reflexivos, coordenados por equipes multidisciplinares;<br>
 III - autonomia técnica das equipes multidisciplinares em relação à escolha da fundamentação teórica, das dinâmicas de grupo utilizadas e da ordenação e seleção dos temas a serem abordados;<br>
 IV - promoção de atividades educativas e pedagógicas, buscando a conscientização dos agressores quanto à violência cometida como violação dos direitos humanos das mulheres, a partir de uma abordagem responsabilizante;<br>
@@ -363,12 +363,12 @@ VIII - formação continuada das equipes multidisciplinares envolvidas no acompa
 #### SEÇÃO XII<br>
 Da Campanha Estadual Maria da Penha
 
-**Artigo 69 -** Fica instituída a â€˜Campanha Estadual Maria da Penhaâ€™, a ser comemorada anualmente no mês de março, nas escolas públicas estaduais e particulares, com os seguintes objetivos:<br>
+**Artigo 69 -** Fica instituída a ‘Campanha Estadual Maria da Penha’, a ser comemorada anualmente no mês de março, nas escolas públicas estaduais e particulares, com os seguintes objetivos:<br>
 I - contribuir para o conhecimento da comunidade escolar acerca da Lei federal n° 11.340, de 7 de agosto de 2006 - Lei Maria da Penha;<br>
 II - impulsionar as reflexões sobre o combate à violência contra a mulher;<br>
 III - conscientizar adolescentes, jovens e adultos, estudantes e professores que compõem a comunidade escolar sobre a importância do respeito aos direitos humanos e sobre a Lei do Feminicídio, prevenindo e evitando as práticas de violência contra a mulher;<br>
 IV - esclarecer sobre a necessidade da efetivação de registros de denúncias dos casos de violência contra a mulher nos órgãos competentes, onde quer que ela ocorra.**<br>
-Artigo 70 -** Esta campanha poderá ser desenvolvida juntamente às comemorações em menção ao â€˜Dia Internacional da Mulherâ€™.
+Artigo 70 -** Esta campanha poderá ser desenvolvida juntamente às comemorações em menção ao ‘Dia Internacional da Mulher’.
 
 #### SEÇÃO XIII<br>
 Da Inclusão no Currículo do Ensino Fundamental e Médio de Crítica da Violência Doméstica
@@ -513,8 +513,8 @@ Da Informação às Vítimas de Crimes Contra a Liberdade Sexual Sobre o Direito
 
 **Artigo 86 -** As Delegacias de Polícia e de Defesa da Mulher ficam obrigadas a informar, no ato do registro de ocorrência delituosa, às mulheres vítimas de estupro previsto no artigo 213 do Código Penal, ou ao parente mais próximo, o direito ao tratamento preventivo contra a contaminação pelo vírus HIV, fornecido gratuitamente pelo Estado.**<br>
 Parágrafo único -** As Delegacias de Polícia e de Defesa da Mulher indicarão e encaminharão as mulheres, vítimas de crimes contra a liberdade sexual, aos órgãos e entidades públicas de saúde que realizam o tratamento previsto neste artigo.**<br>
-Artigo 87 -** O tratamento de que trata o artigo 86 é o definido pela Secretaria da Saúde no â€˜Programa Estadual DST/AIDSâ€™, que engloba o fornecimento do coquetel antiaids e a realização de exames para controlar o tratamento.**<br>
-Parágrafo único -** A Secretaria da Saúde garantirá anonimato às mulheres atendidas, nos termos desta lei, pelo â€˜Programa Estadual DST/AIDSâ€™.
+Artigo 87 -** O tratamento de que trata o artigo 86 é o definido pela Secretaria da Saúde no ‘Programa Estadual DST/AIDS’, que engloba o fornecimento do coquetel antiaids e a realização de exames para controlar o tratamento.**<br>
+Parágrafo único -** A Secretaria da Saúde garantirá anonimato às mulheres atendidas, nos termos desta lei, pelo ‘Programa Estadual DST/AIDS’.
 
 #### SEÇÃO IV<br>
 Da Informação às Vítimas de Estupro Sobre o Direito de Aborto Legal
@@ -580,7 +580,7 @@ Do Centro de Apoio à Gestante que tenha Gravidez Indesejada
 
 **Artigo 99 -** Fica o Poder Executivo autorizado a instituir, na Secretaria de Desenvolvimento Social, o Centro de Apoio à Gestante que tenha gravidez indesejada.
 
-**Artigo 100 -** O â€˜Centro de Apoio à Gestanteâ€™ tem por objetivo acolher, em local apropriado, a futura mãe cuja gravidez seja indesejada, propiciando-lhe toda a assistência material, pedagógica, psicológica e médica, de modo a garantir a proteção e assegurar a qualidade de vida da mãe e do filho.**<br>
+**Artigo 100 -** O ‘Centro de Apoio à Gestante’ tem por objetivo acolher, em local apropriado, a futura mãe cuja gravidez seja indesejada, propiciando-lhe toda a assistência material, pedagógica, psicológica e médica, de modo a garantir a proteção e assegurar a qualidade de vida da mãe e do filho.**<br>
 Artigo 101 -** O período de amparo efetivo à gestante abrangida pela presente lei estender-se-á até completar o sexto mês após o nascimento da criança.**<br>
 Parágrafo único -** Durante o período, a gestante receberá toda a orientação necessária sobre as tarefas e atividades comumente realizadas no lar.**<br>
 Artigo 102 -** O Poder Executivo poderá firmar convênios com órgãos federais, municipais e entidades representativas da sociedade civil de assistência médica e social, para o cumprimento dos objetivos desta lei.
@@ -620,7 +620,7 @@ Do Estudo Sobre as Principais Doenças em Mulheres e Homens
 #### SEÇÃO XIII<br>
 Do Programa Rede de Proteção à Mãe Paulista
 
-**Artigo 111 -** Fica autorizada a instituição do Programa â€˜Rede de Proteção à Mãe Paulistaâ€™.<br>
+**Artigo 111 -** Fica autorizada a instituição do Programa ‘Rede de Proteção à Mãe Paulista’.<br>
 **§ 1° -** O programa objetiva promover a melhoria da qualidade da assistência obstétrica e neonatal, mediante ações que visem à assistência para a saúde da gestante e do recém--nascido.<br>
 **§ 2° -** Poderá o Estado celebrar convênios com os municípios, objetivando a articulação, a integração e o monitoramento dos serviços de saúde ambulatorial e hospitalar para a consecução do programa.**<br>
 Artigo 112 -** Para a execução do programa de que trata o artigo 111 desta lei, o Poder Executivo fica autorizado a desenvolver ações que visem a:
@@ -632,17 +632,17 @@ IV - conceder à gestante, na alta hospitalar, um enxoval para o recém-nascido;
 V - organizar e regular o sistema de assistência obstétrica e neonatal no Estado, facultada a instituição de uma Central de Regulação;<br>
 VI - possibilitar o acesso a informações e meios para o planejamento familiar;
 
-VII - implantar um fluxo regulatório da â€˜Rede de Proteção à Mãe Paulistaâ€™, estabelecendo referências para a assistência ambulatorial e hospitalar da gestante;<br>
+VII - implantar um fluxo regulatório da ‘Rede de Proteção à Mãe Paulista’, estabelecendo referências para a assistência ambulatorial e hospitalar da gestante;<br>
 VIII - apoiar os municípios no credenciamento de serviços de saúde, para atendimento do Sistema Único de Saúde - SUS, com o objetivo de garantir a realização dos exames básicos e especializados, bem como o acesso aos exames de seguimento do pré-natal e às unidades hospitalares para a realização do parto;<br>
 IX - estabelecer termo de cooperação técnica com instituições universitárias e sociedades de especialidades médicas.
 
 #### SEÇÃO XIV<br>
 Do Projeto Mãe Cidadã - Leite Materno
 
-**Artigo 113 -** Fica criado, no âmbito das maternidades e estabelecimentos hospitalares congêneres da rede pública do Estado de São Paulo, o Projeto â€˜Mãe Cidadã - Leite Materno: um direito, um deverâ€™, destinado a proporcionar às gestantes um melhor pré--natal, prevenindo a morbimortalidade materna e infantil.
+**Artigo 113 -** Fica criado, no âmbito das maternidades e estabelecimentos hospitalares congêneres da rede pública do Estado de São Paulo, o Projeto ‘Mãe Cidadã - Leite Materno: um direito, um dever’, destinado a proporcionar às gestantes um melhor pré--natal, prevenindo a morbimortalidade materna e infantil.
 
 **Parágrafo único -** O disposto no nesta seção aplica-se a hospitais e demais órgãos de saúde subvencionados pelo Estado.**<br>
-Artigo 114 -** O Projeto â€˜Mãe Cidadãâ€™ consistirá:<br>
+Artigo 114 -** O Projeto ‘Mãe Cidadã’ consistirá:<br>
 I - na capacitação dos profissionais de nível médio do Programa de Saúde da Família - PSF sobre a evolução e o acompanhamento da gestação e a importância do aleitamento materno;<br>
 II - na ampliação do conhecimento das gestantes sobre a evolução normal da gestação, aumento da autoestima e auxílio na evolução do parto.
 
@@ -700,7 +700,7 @@ Parágrafo único -** O disposto neste artigo será regulamento por decreto do P
 #### SEÇÃO XIX<br>
 Do Direito de Acompanhante à Parturiente
 
-**Artigo 127 -** Ficam os hospitais públicos e os privados conveniados ao Sistema Único de Saúde obrigados a informar ao cidadão sobre o direito à presença de um acompanhante durante todo o período de trabalho de parto, parto e pós-parto imediato, por meio dos seguintes dizeres: â€˜É DIREITO DA PARTURIENTE TER UM ACOMPANHANTE NO MOMENTO DO TRABALHO DE PARTO, PARTO E PÓS-PARTO IMEDIATO, DEVENDO O ACOMPANHANTE OBEDECER AOS PROCEDIMENTOS REGULAMENTARES ADOTADOS PELA UNIDADE HOSPITALARâ€™.
+**Artigo 127 -** Ficam os hospitais públicos e os privados conveniados ao Sistema Único de Saúde obrigados a informar ao cidadão sobre o direito à presença de um acompanhante durante todo o período de trabalho de parto, parto e pós-parto imediato, por meio dos seguintes dizeres: ‘É DIREITO DA PARTURIENTE TER UM ACOMPANHANTE NO MOMENTO DO TRABALHO DE PARTO, PARTO E PÓS-PARTO IMEDIATO, DEVENDO O ACOMPANHANTE OBEDECER AOS PROCEDIMENTOS REGULAMENTARES ADOTADOS PELA UNIDADE HOSPITALAR’.
 
 **Artigo 128 -** Os dizeres previstos no artigo anterior deverão estar em local de fácil visualização.
 
@@ -848,14 +848,14 @@ Da Discriminação no Acesso aos Elevadores
 
 **Artigo 158 -** Fica estabelecido que, para maior conforto, segurança e igualdade entre os usuários, o elevador social é o meio normal de transporte de pessoas que utilizem as dependências dos edifícios, independentemente do estatuto pelo qual o fazem e desde que não estejam deslocando cargas, para as quais podem ser utilizados os elevadores especiais.**<br>
 Artigo 159 -** Para garantir o disposto nesta seção, fica determinada a obrigatoriedade da colocação de avisos no interior dos edifícios, a fim de se assegurar o conhecimento da presente lei.<br>
-**§ 1° -** Os avisos de que trata o â€˜caputâ€™ deste artigo devem configurar-se em forma de cartaz, placa ou plaqueta.<br>
-**§ 2° -** Fica o responsável pelo edifício, administrador ou síndico, conforme for o caso, obrigado a colocar na entrada do edifício e de forma bem visível o aviso de que trata o â€˜caputâ€™ deste artigo.**<br>
+**§ 1° -** Os avisos de que trata o ‘caput’ deste artigo devem configurar-se em forma de cartaz, placa ou plaqueta.<br>
+**§ 2° -** Fica o responsável pelo edifício, administrador ou síndico, conforme for o caso, obrigado a colocar na entrada do edifício e de forma bem visível o aviso de que trata o ‘caput’ deste artigo.**<br>
 Artigo 160 -** Recomenda-se ao Poder Estadual desenvolver ações de cunho educativo e de combate à discriminação da mulher nos serviços públicos e demais atividades exercidas no Estado.
 
 #### SEÇÃO IV<br>
 Da Preferência no Programa Emergencial de Auxílio-Desemprego
 
-**Artigo 161 -** No â€˜Programa Emergencial de Auxílio-Desempregoâ€™ de que tratam a [Lei n° 10.321, de 8 de junho de 1999](https://www.al.sp.gov.br/norma/7982), e legislação posterior, na hipótese do número de alistamento superar o de vagas, por município, a preferência para a participação no programa será definida mediante a aplicação, pela ordem, dos seguintes critérios:
+**Artigo 161 -** No ‘Programa Emergencial de Auxílio-Desemprego’ de que tratam a [Lei n° 10.321, de 8 de junho de 1999](https://www.al.sp.gov.br/norma/7982), e legislação posterior, na hipótese do número de alistamento superar o de vagas, por município, a preferência para a participação no programa será definida mediante a aplicação, pela ordem, dos seguintes critérios:
 
 I - maiores encargos familiares;<br>
 II - mulheres arrimo de família;

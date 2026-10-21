@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, da Companhia do Metropolitano de São Paulo - METRÔ, uma área de 525,16mÂ² (quinhentos e vinte e cinco metros quadrados e dezesseis decímetros quadrados) dentro da Estação do Metrô Marechal Deodoro, localizada na Praça Marechal Deodoro, esquina com a Rua Albuquerque Lins, no Município de São Paulo, parte do imóvel objeto da Matrícula n° 111.205 do 2° Oficial de Registro de Imóveis da Capital, cadastrado no SGI sob o n° 21284 e identificado nos autos do Processo Digital n° 025.00005684/2025-97.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, da Companhia do Metropolitano de São Paulo - METRÔ, uma área de 525,16m² (quinhentos e vinte e cinco metros quadrados e dezesseis decímetros quadrados) dentro da Estação do Metrô Marechal Deodoro, localizada na Praça Marechal Deodoro, esquina com a Rua Albuquerque Lins, no Município de São Paulo, parte do imóvel objeto da Matrícula n° 111.205 do 2° Oficial de Registro de Imóveis da Capital, cadastrado no SGI sob o n° 21284 e identificado nos autos do Processo Digital n° 025.00005684/2025-97.
 
 **Parágrafo único -** A área a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação do Centro de Referência e Proteção às Vítimas Pessoas com Deficiência - PCD (ABRACE PCD).
 

@@ -159,11 +159,11 @@ I - para o Quadro de Oficiais Policiais Militares (QOPM), o estágio será desen
 
 II - para o Quadro de Oficiais de Saúde (QOS) e o Quadro de Oficiais Músicos (QOM), com duração de 1 (um) ano e 3 (três) anos, respectivamente, mediante conclusão, com aproveitamento, do curso de adaptação a que se referem os incisos II e III do artigo 15 da [Lei Complementar n° 1.291, de 22 de julho de 2016](https://www.al.sp.gov.br/norma/178800);
 
-III - para o Quadro de Praças Policiais Militares (QPPM), na graduação de Soldado PM 2Âª Classe, com duração de 3 (três) anos, o estágio probatório abrangerá o curso superior específico e as atividades administrativas e operacionais realizadas na graduação de Sd PM 2Âª Classe.
+III - para o Quadro de Praças Policiais Militares (QPPM), na graduação de Soldado PM 2ª Classe, com duração de 3 (três) anos, o estágio probatório abrangerá o curso superior específico e as atividades administrativas e operacionais realizadas na graduação de Sd PM 2ª Classe.
 
 **§ 1° -** Concluído o Bacharelado em Ciências Policiais de Segurança e Ordem Pública com aproveitamento, o Aluno-Oficial PM será declarado Aspirante-a-Oficial PM e iniciará o estágio administrativo-operacional, até ser promovido ao posto inicial de seu Quadro.
 
-**§ 2° -** O Soldado PM 2Âª Classe e o Aspirante-a-Oficial PM, durante a realização do estágio administrativo-operacional:
+**§ 2° -** O Soldado PM 2ª Classe e o Aspirante-a-Oficial PM, durante a realização do estágio administrativo-operacional:
 
 1\. manterão vínculo didático-pedagógico com a Escola Superior de Soldados "Coronel PM Eduardo Assumpção" - ESSD Cel PM Assumpção e com a Academia de Polícia Militar do Barro Branco - APMBB, respectivamente;
 

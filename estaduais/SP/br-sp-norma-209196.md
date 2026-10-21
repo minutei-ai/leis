@@ -2,7 +2,7 @@
 
 # LEI N° 17.871, DE 18 DE MARÇO DE 2024
 
-## (Projeto de lei n° 999, do Deputado Carlos Cezar â€“ PL)
+## (Projeto de lei n° 999, do Deputado Carlos Cezar – PL)
 
 ### Declara de utilidade pública a Associação Amigos do Jardim Majonel, com sede na Capital.
 

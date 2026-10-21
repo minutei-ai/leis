@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, do Município de Piracicaba, nos termos da Lei municipal n° 3.612, de 9 de julho de 1993, o imóvel objeto da Transcrição n° 65.891 do 1° Oficial de Registro de Imóveis da Comarca de Piracicaba, localizado na Rua Virgílio da Silva Fagundes, n° 1.054, Bairro Santa Terezinha, naquele Município, com 10.027,48mÂ² (dez mil e vinte e sete metros quadrados e quarenta e oito decímetros quadrados), identificado e descrito nos autos do Processo n° 229.00008593/2025-16.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, do Município de Piracicaba, nos termos da Lei municipal n° 3.612, de 9 de julho de 1993, o imóvel objeto da Transcrição n° 65.891 do 1° Oficial de Registro de Imóveis da Comarca de Piracicaba, localizado na Rua Virgílio da Silva Fagundes, n° 1.054, Bairro Santa Terezinha, naquele Município, com 10.027,48m² (dez mil e vinte e sete metros quadrados e quarenta e oito decímetros quadrados), identificado e descrito nos autos do Processo n° 229.00008593/2025-16.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo, que abriga a Escola Estadual Professora Catharina Casale Padovani, destinar-se-á à Secretaria da Educação.
 

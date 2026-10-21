@@ -635,7 +635,7 @@ _\- O Supremo Tribunal Federal, nos embargos de declaração no_ [_RE n° 913.51
 
 **I -** advertência;
 
-**II -** multa de 100 (cem) Unidades Fiscais do Estado de São Paulo - UFESPs por usuário prejudicado, dobrada a cada reincidência até a 4Âª (quarta);
+**II -** multa de 100 (cem) Unidades Fiscais do Estado de São Paulo - UFESPs por usuário prejudicado, dobrada a cada reincidência até a 4ª (quarta);
 
 **III -** suspensão da atividade, nos termos do artigo 59 da Lei federal n° 8.078, de 11 de setembro de 1990, até que o órgão fiscalizador receba, por escrito, dados comprobatórios de que o número de funcionários atendendo nos caixas tenha sido reajustado de modo a sanar a demora no atendimento.
 

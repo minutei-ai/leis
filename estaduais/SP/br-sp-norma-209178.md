@@ -2,13 +2,13 @@
 
 # DECRETO N° 68.376, DE 09 DE MARÇO DE 2024
 
-### Autoriza a Fazenda do Estado a reÂ­ceber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, parte do imóvel que especifica.
+### Autoriza a Fazenda do Estado a re­ceber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, parte do imóvel que especifica.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 
 Decreta:    
 
-**Artigo 1° -** Fica a Fazenda do EsÂ­tado autorizada a receber, meÂ­diante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, nos termos do Decreto municipal n° 19.687, de 20 de junho de 2016, parte do imóvel localizado na Praça Teixeira de Freitas, n° 12, Bairro Ferrazópolis, no referido Município, cadastrado no SGI sob o n° 15186, parte essa com área de 48,76mÂ² (quarenta e oito metros quadrados e setenta e seis decímetros quadrados), identificada e descrita nos autos do Processo Digital 025.00002121/2023-85.  
+**Artigo 1° -** Fica a Fazenda do Es­tado autorizada a receber, me­diante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, nos termos do Decreto municipal n° 19.687, de 20 de junho de 2016, parte do imóvel localizado na Praça Teixeira de Freitas, n° 12, Bairro Ferrazópolis, no referido Município, cadastrado no SGI sob o n° 15186, parte essa com área de 48,76m² (quarenta e oito metros quadrados e setenta e seis decímetros quadrados), identificada e descrita nos autos do Processo Digital 025.00002121/2023-85.  
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para uso da Polícia Militar do Estado de São Paulo.    
 
@@ -16,7 +16,7 @@ Decreta:    
 
 **Parágrafo único -** A Fazenda do Estado poderá ser representada no instrumento a que se refere o "caput" deste artigo pelo Comandante do Comando de Policiamento de Área Metropolitana-6 (CPA/M-6).    
 
-**Artigo 3° -** Este decreto entra em viÂ­gor na data de sua publicação.    
+**Artigo 3° -** Este decreto entra em vi­gor na data de sua publicação.    
 
 TARCÍSIO DE FREITAS    
 

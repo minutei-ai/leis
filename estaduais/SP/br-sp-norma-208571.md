@@ -2,7 +2,7 @@
 
 # LEI N° 17.765, DE 27 DE SETEMBRO DE 2023
 
-## (Projeto de lei n° 80/2022, do Deputado Castello Branco â€“ PSL)
+## (Projeto de lei n° 80/2022, do Deputado Castello Branco – PSL)
 
 ### Institui o "Dia da Igreja de Deus em Cristo (COGIC - 'Church of God in Christ')"
 
@@ -10,7 +10,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-**Artigo 1° -** Fica instituído o "Dia da Igreja de Deus em Cristo (COGIC - â€˜Church of God in Christâ€™)", a ser celebrado, anualmente, em 6 de março.
+**Artigo 1° -** Fica instituído o "Dia da Igreja de Deus em Cristo (COGIC - ‘Church of God in Christ’)", a ser celebrado, anualmente, em 6 de março.
 
 **Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
 

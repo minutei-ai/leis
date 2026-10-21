@@ -53,11 +53,11 @@ II - Significados e referências: escudo português - brasão da SASDE; ouro - a
 
 III - Proporções:
 
-a) Medalha: Escudo português com 30mm (trinta milímetros) de comprimento por 35mm (trinta e cinco milímetros) de altura, filetado de 1mm (um milímetro de espessura), campo de argento em baixo relevo de 1mm (um milímetro); Efígie do General de Divisão Matheus Monte Serrat com 19,5mm (dezenove milímetros e meio) de comprimento por 32mm (trinta e dois milímetros) de altura, em alto relevo de 2mm (dois milímetros);Símbolo da 2Âª Divisão de Exército com 9mm (nove milímetros) de comprimento por 22,5mm (vinte e dois milímetros e meio) de altura, em alto relevo de 2mm (dois milímetros), escudo retangular curvo com 20mm (vinte milímetros) de comprimento por 8mm (oito milímetros) de altura, filetado de 0,5mm (meio milímetro) de espessura, campos em baixo relevo de 1mm (um milímetro) e inscrições em alto relevo de 1mm(um milímetro); ramos de folhas de louro com 7,8mm (sete milímetros e oito décimos) de comprimento por 26,8mm (vinte e seis milímetros e oito décimos) de altura; listel com 40mm (quarenta milímetros) de comprimento por 9,5mm (nove milímetros e meio) de altura, filetado de 0,5mm (meio milímetro), campos de argento em alto relevo de 1mm(um milímetro) e inscrições em baixo relevo de 1mm(um milímetro); fita com largura total de 35mm (trinta e cinco milímetros) e comprimento total de 45mm (quarenta e cinco milímetros), com chanfrado na extremidade inferior a 45°, base de 10mm (dez milímetros) de largura, palas com 17,5mm (dezessete milímetros e meio) de largura.
+a) Medalha: Escudo português com 30mm (trinta milímetros) de comprimento por 35mm (trinta e cinco milímetros) de altura, filetado de 1mm (um milímetro de espessura), campo de argento em baixo relevo de 1mm (um milímetro); Efígie do General de Divisão Matheus Monte Serrat com 19,5mm (dezenove milímetros e meio) de comprimento por 32mm (trinta e dois milímetros) de altura, em alto relevo de 2mm (dois milímetros);Símbolo da 2ª Divisão de Exército com 9mm (nove milímetros) de comprimento por 22,5mm (vinte e dois milímetros e meio) de altura, em alto relevo de 2mm (dois milímetros), escudo retangular curvo com 20mm (vinte milímetros) de comprimento por 8mm (oito milímetros) de altura, filetado de 0,5mm (meio milímetro) de espessura, campos em baixo relevo de 1mm (um milímetro) e inscrições em alto relevo de 1mm(um milímetro); ramos de folhas de louro com 7,8mm (sete milímetros e oito décimos) de comprimento por 26,8mm (vinte e seis milímetros e oito décimos) de altura; listel com 40mm (quarenta milímetros) de comprimento por 9,5mm (nove milímetros e meio) de altura, filetado de 0,5mm (meio milímetro), campos de argento em alto relevo de 1mm(um milímetro) e inscrições em baixo relevo de 1mm(um milímetro); fita com largura total de 35mm (trinta e cinco milímetros) e comprimento total de 45mm (quarenta e cinco milímetros), com chanfrado na extremidade inferior a 45°, base de 10mm (dez milímetros) de largura, palas com 17,5mm (dezessete milímetros e meio) de largura.
 
 b) Miniatura: Insígnia ou venera com 20mm (vinte milímetros) de comprimento e de altura, passador retangular curvo com 3mm (três milímetros) de altura, fita com largura total de 20mm (vinte milímetros) e comprimento total de 40mm (quarenta milímetros), com chanfrado a 45° nas extremidades inferiores, base de 5mm (cinco milímetros) de largura, palas com 10mm (dez milímetros) de largura.
 
-c) Roseta ou botão de lapela: Escudo português com 10mm (dez milímetros) de comprimento e de altura, filetado de 0,5mm (meio milímetro), campos em baixo relevo de 1mm (um milímetro), palas com 4,5mm (quatro milímetros e meio) de comprimento, símbolo da 2Âª Divisão de Exército com 5mm (cinco milímetros) de comprimento por 12mm (doze milímetros) de altura, em alto relevo de 1mm (um milímetro).
+c) Roseta ou botão de lapela: Escudo português com 10mm (dez milímetros) de comprimento e de altura, filetado de 0,5mm (meio milímetro), campos em baixo relevo de 1mm (um milímetro), palas com 4,5mm (quatro milímetros e meio) de comprimento, símbolo da 2ª Divisão de Exército com 5mm (cinco milímetros) de comprimento por 12mm (doze milímetros) de altura, em alto relevo de 1mm (um milímetro).
 
 d) Barreta: Escudo retangular com 35mm (trinta e cinco milímetros) de comprimento por 10mm (dez milímetros) de altura, filetado de 0,5mm (meio milímetro), campos em baixo relevo de 1mm (um milímetro), palas com 16,5mm (dezesseis milímetros e meio) de comprimento, lisonja com numeral "2" com 7mm (sete milímetros) de comprimento por 10mm (dez milímetros) de altura, em alto relevo de 2mm (dois milímetros).
 
@@ -72,11 +72,11 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pela Conselho de Outorgas.
 
-**§ 1° -** Heraldicamente, o Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE será o Grão-Mestre, acumulando a função de Presidente da Comissão de Outorgas; o Comandante Militar da Segunda Divisão de Exército 2Âª DE, do Exército Brasileiro, será o Chanceler.
+**§ 1° -** Heraldicamente, o Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE será o Grão-Mestre, acumulando a função de Presidente da Comissão de Outorgas; o Comandante Militar da Segunda Divisão de Exército 2ª DE, do Exército Brasileiro, será o Chanceler.
 
 **§ 2° -** Uma vez instituída por decreto estadual, o Governador do Estado de São Paulo passa a ser Grão-Mestre honorário e o Presidente do Conselho Estadual de Honrarias e Mérito passa a ser Chanceler Honorário desta honraria.
 
-**Artigo 5° -** A Comissão de Outorgas será composta pelo Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, como seu Grão-Mestre e Presidente do Conselho de Outorgas, pelo Comandante Militar da Segunda Divisão de Exército 2Âª DE, do Exército Brasileiro, e por personalidades por eles escolhidas.
+**Artigo 5° -** A Comissão de Outorgas será composta pelo Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, como seu Grão-Mestre e Presidente do Conselho de Outorgas, pelo Comandante Militar da Segunda Divisão de Exército 2ª DE, do Exército Brasileiro, e por personalidades por eles escolhidas.
 
 **Parágrafo único -** O total de membros da Comissão de Outorgas, incluindo seu presidente, deve ser em número ímpar para evitar empates nas votações.
 
@@ -95,7 +95,7 @@ I - Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão
 
 II - Presidente do Conselho Estadual de Honrarias e Mérito - CEHM para o Grão-Mestre;
 
-III - Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão-Mestre, para o Comandante Militar da Segunda Divisão de Exército 2Âª DE, do Exército Brasileiro, Chanceler;
+III - Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão-Mestre, para o Comandante Militar da Segunda Divisão de Exército 2ª DE, do Exército Brasileiro, Chanceler;
 
 IV - Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão-Mestre, para os demais membros da Comissão de Outorgas.
 
@@ -132,7 +132,7 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 13 -** A medalha será outorgada por ato do Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão-Mestre, mediante proposta da Comissão de Outorgas.
 
-**Artigo 14 -** Publicado o ato concessório da honraria, a Comissão de Outorgas providenciará a lavratura do diploma respectivo, que será assinado pelo Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão-Mestre, e pelo Comandante Militar da Segunda Divisão de Exército 2Âª DE, do Exército Brasileiro, Chanceler.
+**Artigo 14 -** Publicado o ato concessório da honraria, a Comissão de Outorgas providenciará a lavratura do diploma respectivo, que será assinado pelo Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grão-Mestre, e pelo Comandante Militar da Segunda Divisão de Exército 2ª DE, do Exército Brasileiro, Chanceler.
 
 **Artigo 15 -** É de responsabilidade da Comissão de Outorgas o envio do ofício do Grão-Mestre ao indicado, bem como a confirmação de sua anuência em comparecer ao evento de agraciamento.
 

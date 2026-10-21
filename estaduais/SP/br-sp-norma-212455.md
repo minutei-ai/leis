@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogável por iguais períodos, da empresa Himalaia Agropecuária Ltda., um terreno com área de 150,00mÂ² (cento e cinquenta metros quadrados), parte do imóvel rural denominado Fazenda Himalaia, situado na Estrada Morro do Cruzeiro, s/n°, no Município de São Simão, objeto da Matrícula n° 249 do Cartório de Registro de Imóveis da Comarca de São Simão, identificado e descrito no Processo SEI 057.00225959/2023-87.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogável por iguais períodos, da empresa Himalaia Agropecuária Ltda., um terreno com área de 150,00m² (cento e cinquenta metros quadrados), parte do imóvel rural denominado Fazenda Himalaia, situado na Estrada Morro do Cruzeiro, s/n°, no Município de São Simão, objeto da Matrícula n° 249 do Cartório de Registro de Imóveis da Comarca de São Simão, identificado e descrito no Processo SEI 057.00225959/2023-87.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de antena de transmissão de radiocomunicação da Polícia Militar do Estado de São Paulo.
 

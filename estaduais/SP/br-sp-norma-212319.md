@@ -10,13 +10,13 @@ Decreta:
 
 **Artigo 1° -** Fica instituído o Distrito Turístico Alto da Mantiqueira no território dos municípios adiante relacionados:
 
-I - Campos do Jordão, em área de 142772133.73 mÂ²;
+I - Campos do Jordão, em área de 142772133.73 m²;
 
-II - Santo Antônio do Pinhal, em área de 86871788.55 mÂ²;
+II - Santo Antônio do Pinhal, em área de 86871788.55 m²;
 
-III - São Bento do Sapucaí, em área de 55795633.92 mÂ².
+III - São Bento do Sapucaí, em área de 55795633.92 m².
 
-**Parágrafo único -** O Distrito Turístico de que trata este artigo possui área total de 285.434.315.25 mÂ² (duzentos e oitenta e cinco milhões, quatrocentos e trinta e quatro mil, trezentos e quinze vírgula vinte e cinco metros quadrados), consoante circunscrição geográfica constante do Anexo que integra este decreto.
+**Parágrafo único -** O Distrito Turístico de que trata este artigo possui área total de 285.434.315.25 m² (duzentos e oitenta e cinco milhões, quatrocentos e trinta e quatro mil, trezentos e quinze vírgula vinte e cinco metros quadrados), consoante circunscrição geográfica constante do Anexo que integra este decreto.
 
 **Artigo 2° -** O Conselho Gestor do Distrito Turístico Alto da Mantiqueira é composto dos seguintes membros e respectivos suplentes, designados pelo Secretário-Chefe da Casa Civil, observadas as disposições do artigo 5° do [Decreto n° 65.954, de 25 de agosto de 2021](https://www.al.sp.gov.br/norma/199680), alterado pelo Decreto n° 66.080, de 5 de outubro de 2021:
 

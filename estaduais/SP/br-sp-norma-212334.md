@@ -201,7 +201,7 @@ Das Admissões e Promoções
 
 **Artigo 12 -** As admissões extraordinárias na Ordem e as promoções extraordinárias de seus graduados são feitas por decreto do Governador do Estado, na qualidade de Grão-Mestre da Ordem, sem a necessidade de obedecer a qualquer escala gradual ou de proporções.
 
-**Parágrafo único â€“** As admissões ordinárias na Ordem e as promoções ordinárias de seus graduados são feitas por resolução do Secretário-Chefe da Casa Civil, na qualidade de Chanceler da Ordem, e devem obedecer a escala gradual e de proporções.
+**Parágrafo único –** As admissões ordinárias na Ordem e as promoções ordinárias de seus graduados são feitas por resolução do Secretário-Chefe da Casa Civil, na qualidade de Chanceler da Ordem, e devem obedecer a escala gradual e de proporções.
 
 **Artigo 13 -** A admissão ordinária à Ordem e o acesso ordinário em sua escala, além dos requisitos estabelecidos neste Regulamento, dependem do voto do Conselho da Ordem.
 
@@ -223,7 +223,7 @@ Das Admissões e Promoções
 
 **Artigo 19 -** As admissões ordinárias na Ordem, assim como as promoções, serão feitas preferencialmente a 25 de janeiro, 21 de abril, 9 de julho, 7 de setembro e 15 de novembro de cada ano.
 
-**§ 1° â€“** Excepcionalmente, mediante proposta justificada do Conselho da Ordem, as admissões e promoções ordinárias poderão ser editadas em outras datas.
+**§ 1° –** Excepcionalmente, mediante proposta justificada do Conselho da Ordem, as admissões e promoções ordinárias poderão ser editadas em outras datas.
 
 **§ 2° -** As admissões e promoções extraordinárias na Ordem serão feitas em data de escolha do Governador do Estado de São Paulo, Grão-Mestre da Ordem.
 
@@ -231,7 +231,7 @@ Das Admissões e Promoções
 
 **Artigo 21 -** A idade mínima de admissão na Ordem é 30 (trinta) anos.
 
-**Parágrafo único â€“** Excepcionalmente, a juízo do Conselho da Ordem, o limite de idade de que trata o "caput" deste artigo poderá ser reduzido.
+**Parágrafo único –** Excepcionalmente, a juízo do Conselho da Ordem, o limite de idade de que trata o "caput" deste artigo poderá ser reduzido.
 
 **Artigo 22 -** Não poderão ser agraciados aqueles que sejam impedidos de usar as insígnias da Ordem.
 

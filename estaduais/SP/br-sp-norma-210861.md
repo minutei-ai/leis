@@ -208,7 +208,7 @@ XCIII - Complexo Penal de Balbinos;
 
 XCIV - Complexo Penal de Guareí;
 
-XCV - Penitenciária Feminina de Santâ€™Ana;
+XCV - Penitenciária Feminina de Sant’Ana;
 
 XCVI - Centro de Detenção Provisória - "Dr. José Eduardo Mariz de Oliveira" de Caraguatatuba;
 

@@ -8,7 +8,7 @@ TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribui
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Mogi Mirim, nos termos da Lei municipal n° 6.538, de 23 de novembro de 2022, o terreno objeto da Matrícula n° 113.409 do Registro de Imóveis da Comarca de Mogi Mirim, com área de 6.021,47mÂ² (seis mil vinte e um metros quadrados e quarenta e sete decímetros quadrados), localizado na Rua Padre José Joaquim de Oliveira Brazeiros, s/n° Jardim Linda Chaib, naquele Município, identificado e descrito nos autos do Processo Digital SEDUC-PRC-2022/72746.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Mogi Mirim, nos termos da Lei municipal n° 6.538, de 23 de novembro de 2022, o terreno objeto da Matrícula n° 113.409 do Registro de Imóveis da Comarca de Mogi Mirim, com área de 6.021,47m² (seis mil vinte e um metros quadrados e quarenta e sete decímetros quadrados), localizado na Rua Padre José Joaquim de Oliveira Brazeiros, s/n° Jardim Linda Chaib, naquele Município, identificado e descrito nos autos do Processo Digital SEDUC-PRC-2022/72746.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à Secretaria da Educação, para instalação de uma unidade escolar, no âmbito do Plano de Ações Integradas do Estado de São Paulo - PAINSP.
 

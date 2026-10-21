@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria da Justiça e Cidadania para a Secretaria da Administração Penitenciária, a administração de parte do imóvel objeto da Transcrição n° 11.180 do 1° Cartório de Registro de Imóveis da Capital, localizado na Rua Frederico Grotte, n°s 311/327, Bairro Jardim Vergueiro, no Município de São Paulo, cadastrado no SGI sob o n° 48110, parte essa com área de 8.276,86mÂ² (oito mil duzentos e setenta e seis metros quadrados e oitenta e seis decímetros quadrados), identificada e descrita nos autos do Processo n° 161.00034874/2023-77.
+**Artigo 1° -** Fica transferida, da Secretaria da Justiça e Cidadania para a Secretaria da Administração Penitenciária, a administração de parte do imóvel objeto da Transcrição n° 11.180 do 1° Cartório de Registro de Imóveis da Capital, localizado na Rua Frederico Grotte, n°s 311/327, Bairro Jardim Vergueiro, no Município de São Paulo, cadastrado no SGI sob o n° 48110, parte essa com área de 8.276,86m² (oito mil duzentos e setenta e seis metros quadrados e oitenta e seis decímetros quadrados), identificada e descrita nos autos do Processo n° 161.00034874/2023-77.
 
 **Parágrafo único -** A parte do imóvel de que trata o "caput" deste artigo destinar-se-á à instalação de um estabelecimento prisional.
 

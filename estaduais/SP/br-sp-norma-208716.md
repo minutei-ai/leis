@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 133/23, 139/23, 145/23, 146/23, 147/23 e 167/23, celebrados no Rio de Janeiro, RJ, na 190Âª Reunião Ordinária do CONFAZ, realizada no dia 29 de setembro de 2023, e publicados na página 20 da Seção I da Edição 189 do Diário Oficial da União do dia 3 de outubro de 2023.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 133/23, 139/23, 145/23, 146/23, 147/23 e 167/23, celebrados no Rio de Janeiro, RJ, na 190ª Reunião Ordinária do CONFAZ, realizada no dia 29 de setembro de 2023, e publicados na página 20 da Seção I da Edição 189 do Diário Oficial da União do dia 3 de outubro de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 133/23, 139/23, 146/23, 147/23 e 167/23.
 
@@ -32,7 +32,7 @@ Publicado na Casa Civil, aos 26 de outubro de 2023.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto (SEI 10029024) que ratifica os convênios abaixo relacionados, celebrados em Rio de Janeiro, RJ, na 190Âª Reunião Ordinária do CONFAZ, realizada no dia 29 de setembro de 2023, e publicados na página 20 da Seção I da Edição 189 do Diário Oficial da União do dia 3 de outubro de 2023:
+Encaminho a inclusa minuta de decreto (SEI 10029024) que ratifica os convênios abaixo relacionados, celebrados em Rio de Janeiro, RJ, na 190ª Reunião Ordinária do CONFAZ, realizada no dia 29 de setembro de 2023, e publicados na página 20 da Seção I da Edição 189 do Diário Oficial da União do dia 3 de outubro de 2023:
 
 a) o Convênio ICMS 133/23, que prorroga as disposições do Convênio ICMS 85/11, o qual autoriza os Estados que menciona a conceder crédito outorgado de ICMS destinado a aplicação em investimentos em infraestrutura;
 

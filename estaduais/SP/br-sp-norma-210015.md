@@ -2,7 +2,7 @@
 
 # LEI N° 18.040, DE 23 DE SETEMBRO DE 2024
 
-## (Projeto de lei n° 1259/2023, do Deputado Lucas Bove â€“ PL)
+## (Projeto de lei n° 1259/2023, do Deputado Lucas Bove – PL)
 
 ### Institui o "Dia do Bombeiro Militar Veterano".
 

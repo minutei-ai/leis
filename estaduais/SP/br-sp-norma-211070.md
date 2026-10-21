@@ -123,7 +123,7 @@ UNIDADES TERRITORIAIS DE POLÍCIA MILITAR E MUNICÍPIOS SOB CIRCUNSCRIÇÃO
 | 31° BPM/I - Ourinhos | Bernardino de Campos, Canitar, Chavantes, Espírito Santo do Turvo, Ipaussu, Óleo, Ourinhos, Ribeirão do Sul, Salto Grande, Santa Cruz do Rio Pardo, São Pedro do Turvo e Timburi |
 | 44° BPM/I - Lins | Cafelândia, Getulina, Guaiçara, Guaimbê, Guarantã, Lins, Pongaí, Promissão, Sabino e Uru |
 | 13° BAEP - Bauru | Municípios da circunscrição do CPI-4 |
-| CPI-5 São José do Rio Preto | 16° BPM/I - Fernandópolis | Álvares Florence, Américo de Campos, Aparecida D'Oeste, Aspásia, Cardoso, Cosmorama, Dirce Reis, Dolcinópolis, Estrela Dâ€™Oeste, Fernandópolis, Floreal, Guarani D'Oeste, Indiaporã, Jales, Macaubal, Macedônia, Magda, Marinópolis, Meridiano, Mesópolis, Mira Estrela, Monções, Nhandeara, Nova Canaã Paulista, Ouroeste, Palmeira D'Oeste, Paranapuã, Parisi, Pedranópolis, Pontalinda, Pontes Gestal, Populina, Riolândia, Rubinéia, Santa Albertina, Santa Clara Dâ€™Oeste, Santa Fé do Sul, Santa Rita D'Oeste, Santa Salete, Santana da Ponte Pensa, São João das Duas Pontes, São Francisco, Sebastianópolis do Sul, Três Fronteiras, Turmalina, Urânia, Valentim Gentil, Vitória Brasil e Votuporanga |
+| CPI-5 São José do Rio Preto | 16° BPM/I - Fernandópolis | Álvares Florence, Américo de Campos, Aparecida D'Oeste, Aspásia, Cardoso, Cosmorama, Dirce Reis, Dolcinópolis, Estrela D’Oeste, Fernandópolis, Floreal, Guarani D'Oeste, Indiaporã, Jales, Macaubal, Macedônia, Magda, Marinópolis, Meridiano, Mesópolis, Mira Estrela, Monções, Nhandeara, Nova Canaã Paulista, Ouroeste, Palmeira D'Oeste, Paranapuã, Parisi, Pedranópolis, Pontalinda, Pontes Gestal, Populina, Riolândia, Rubinéia, Santa Albertina, Santa Clara D’Oeste, Santa Fé do Sul, Santa Rita D'Oeste, Santa Salete, Santana da Ponte Pensa, São João das Duas Pontes, São Francisco, Sebastianópolis do Sul, Três Fronteiras, Turmalina, Urânia, Valentim Gentil, Vitória Brasil e Votuporanga |
 | 17° BPM/I - São José do Rio Preto | São José do Rio Preto |
 | 30° BPM/I - Catanduva | Ariranha, Catanduva, Catiguá, Elisiário, Irapuã, Itajobi, Marapoama, Novais, Novo Horizonte, Palmares Paulista, Paraíso, Pindorama, Sales, Santa Adélia, Tabapuã e Urupês |
 | 52° BPM/I - Mirassol | Adolfo, Bady Bassitt, Bálsamo, Cedral, Guapiaçu, Ibirá, Icém, Ipiguá, Jaci, José Bonifácio, Mendonça, Mirassol, Mirassolândia, Monte Aprazível, Neves Paulista, Nipoã, Nova Aliança, Nova Granada, Onda Verde, Orindiúva, Palestina, Paulo de Faria, Planalto, Poloni, Potirendaba, Tanabi, Ubarana, Uchoa, União Paulista e Zacarias |
@@ -148,14 +148,14 @@ UNIDADES TERRITORIAIS DE POLÍCIA MILITAR E MUNICÍPIOS SOB CIRCUNSCRIÇÃO
 | 25° BPM/I - Dracena | Adamantina, Dracena, Flora Rica, Flórida Paulista, Inúbia Paulista, Irapuru, Junqueirópolis, Lucélia, Mariápolis, Monte Castelo, Nova Guataporanga, Osvaldo Cruz, Ouro Verde, Pacaembu, Panorama, Paulicéia, Pracinha, Sagres, Salmourão, Santa Mercedes, São João do Pau D'Alho e Tupi Paulista |
 | 32° BPM/I - Assis | Assis, Campos Novos Paulista, Cândido Mota, Cruzália, Florínea, Ibirarema, Lutécia, Maracaí, Palmital, Paraguaçu Paulista, Pedrinhas Paulista, Platina e Tarumã |
 | 42° BPM/I - Presidente Venceslau | Caiuá, Euclides da Cunha Paulista, Marabá Paulista, Mirante do Paranapanema, Piquerobi, Presidente Epitácio, Presidente Venceslau, Ribeirão dos Índios, Rosana, Santo Anastácio e Teodoro Sampaio |
-| 8° BAEP â€“ Presidente Prudente | Municípios da circunscrição do CPI-8 |
-| CPI-9 Piracicaba | 10° BPM/I â€“ Piracicaba | Águas de São Pedro, Capivari, Charqueada, Elias Fausto, Mombuca, Piracicaba, Rafard, Rio das Pedras, Saltinho, Santa Maria da Serra e São Pedro |
-| 19° BPM/I â€“ Americana | Americana, Artur Nogueira, Cosmópolis e Santa Bárbara Dâ€™Oeste |
-| 24° BPM/I â€“ São João da Boa Vista | Aguaí, Águas da Prata, Caconde, Casa Branca, Divinolândia, Espírito Santo do Pinhal, Itobi, Mococa, Santa Cruz das Palmeiras, Santo Antonio do Jardim, São João da Boa Vista, São José do Rio Pardo, São Sebastião da Grama, Tambaú, Tapiratiba e Vargem Grande do Sul |
-| 36° BPM/I â€“ Limeira | Araras, Conchal, Cordeirópolis, Engenheiro Coelho, Iracemápolis, Leme, Limeira, Pirassununga e Santa Cruz da Conceição |
-| 37° BPM/I â€“ Rio Claro | Analândia, Brotas, Corumbataí, Ipeúna, Itirapina, Rio Claro, Santa Gertrudes e Torrinha |
-| 48° BPM/I â€“ Sumaré | Hortolândia, Monte Mor, Nova Odessa e Sumaré |
-| 10° BAEP â€“ Piracicaba | Municípios da circunscrição do CPI-9 |
+| 8° BAEP – Presidente Prudente | Municípios da circunscrição do CPI-8 |
+| CPI-9 Piracicaba | 10° BPM/I – Piracicaba | Águas de São Pedro, Capivari, Charqueada, Elias Fausto, Mombuca, Piracicaba, Rafard, Rio das Pedras, Saltinho, Santa Maria da Serra e São Pedro |
+| 19° BPM/I – Americana | Americana, Artur Nogueira, Cosmópolis e Santa Bárbara D’Oeste |
+| 24° BPM/I – São João da Boa Vista | Aguaí, Águas da Prata, Caconde, Casa Branca, Divinolândia, Espírito Santo do Pinhal, Itobi, Mococa, Santa Cruz das Palmeiras, Santo Antonio do Jardim, São João da Boa Vista, São José do Rio Pardo, São Sebastião da Grama, Tambaú, Tapiratiba e Vargem Grande do Sul |
+| 36° BPM/I – Limeira | Araras, Conchal, Cordeirópolis, Engenheiro Coelho, Iracemápolis, Leme, Limeira, Pirassununga e Santa Cruz da Conceição |
+| 37° BPM/I – Rio Claro | Analândia, Brotas, Corumbataí, Ipeúna, Itirapina, Rio Claro, Santa Gertrudes e Torrinha |
+| 48° BPM/I – Sumaré | Hortolândia, Monte Mor, Nova Odessa e Sumaré |
+| 10° BAEP – Piracicaba | Municípios da circunscrição do CPI-9 |
 | CPI-10 Araçatuba | 2° BPM/I - Araçatuba | Alto Alegre, Araçatuba, Auriflama, Avanhandava, Barbosa, Bento de Abreu, Bilac, Birigui, Braúna, Brejo Alegre, Buritama, Clementina, Coroados, Gabriel Monteiro, Gastão Vidigal, General Salgado, Glicério, Guararapes, Guzolândia, Lourdes, Luiziânia, Nova Castilho, Nova Luzitânia, Penápolis, Piacatu, Rubiácea, Santo Antonio do Aracanguá, Santópolis do Aguapeí, São João de Iracema, Turíbia e Valparaíso |
 | 28° BPM/I - Andradina | Andradina, Castilho, Guaraçai, Ilha Solteira, Itapura, Lavínia, Mirandópolis, Murutinga do Sul, Nova Independência, Pereira Barreto, Sud Menucci e Suzanápolis |
 | 12° BAEP - Araçatuba | Municípios da circunscrição do CPI-10 |

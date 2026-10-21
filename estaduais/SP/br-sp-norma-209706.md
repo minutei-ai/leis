@@ -4,7 +4,7 @@
 
 ### Autoriza a abertura de licitação para a concessão dos serviços públicos de ampliação, operação, conservação, manutenção e realização dos investimentos necessários à exploração dos sistemas rodoviários denominados "Lote Rota Sorocabana" e "Lote Nova Raposo", e aprova o respectivo regulamento.
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão dos serviços públicos de exploração dos novos lotes de concessões rodoviárias do Estado de São Paulo, por ocasião da 37Âª Reunião Conjunta Ordinária, concernente à 237Âª Reunião Ordinária do CDPED e à 120Âª Reunião Ordinária do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 11 de março de 2023,    
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão dos serviços públicos de exploração dos novos lotes de concessões rodoviárias do Estado de São Paulo, por ocasião da 37ª Reunião Conjunta Ordinária, concernente à 237ª Reunião Ordinária do CDPED e à 120ª Reunião Ordinária do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 11 de março de 2023,    
 
 Decreta:    
 

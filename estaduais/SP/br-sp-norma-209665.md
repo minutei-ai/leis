@@ -14,7 +14,7 @@ Decreta:    
 
 **Artigo 2° -** A permissão de uso de que trata este decreto será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas pela permitente.    
 
-**Artigo 3° -** Este decreto entra em viÂ­gor na data de sua publicação.
+**Artigo 3° -** Este decreto entra em vi­gor na data de sua publicação.
 
 FELÍCIO RAMUTH  
 

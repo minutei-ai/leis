@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Departamento de Estradas de Rodagem - DER, parte do imóvel localizado na Rodovia Raposo Tavares, SP-270, km 561+500, no Município de Presidente Prudente, cadastrado no SGI sob o n° 8.283, parte essa com área de 1.082,22mÂ² (um mil e oitenta e dois metros quadrados e vinte e dois decímetros quadrados) de terreno e 488,71mÂ² (quatrocentos e oitenta e oito metros quadrados e setenta e um decímetros quadrados) de área construída, identificada e descrita nos autos do Processo Digital 139.00001719/2023-61
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Departamento de Estradas de Rodagem - DER, parte do imóvel localizado na Rodovia Raposo Tavares, SP-270, km 561+500, no Município de Presidente Prudente, cadastrado no SGI sob o n° 8.283, parte essa com área de 1.082,22m² (um mil e oitenta e dois metros quadrados e vinte e dois decímetros quadrados) de terreno e 488,71m² (quatrocentos e oitenta e oito metros quadrados e setenta e um decímetros quadrados) de área construída, identificada e descrita nos autos do Processo Digital 139.00001719/2023-61
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Saúde.
 

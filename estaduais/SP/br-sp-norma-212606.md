@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 20 (vinte) anos, em favor do Município de Sarapuí, de parte do imóvel localizado na Rua Coronel Ernesto Piedade, n° 383, Centro, naquele Município, registrado sob a Matrícula n° 62.263 do Ofício de Registro de Imóveis e Anexos da Comarca de Itapetininga e cadastrado no SGI sob o n° 15.106, parte essa consistente no prédio da Delegacia de Polícia, com área de 296,13mÂ² (duzentos e noventa e seis metros quadrados e treze decímetros quadrados), identificada nos autos do Processo Digital n° 058.00075792/2025-31.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 20 (vinte) anos, em favor do Município de Sarapuí, de parte do imóvel localizado na Rua Coronel Ernesto Piedade, n° 383, Centro, naquele Município, registrado sob a Matrícula n° 62.263 do Ofício de Registro de Imóveis e Anexos da Comarca de Itapetininga e cadastrado no SGI sob o n° 15.106, parte essa consistente no prédio da Delegacia de Polícia, com área de 296,13m² (duzentos e noventa e seis metros quadrados e treze decímetros quadrados), identificada nos autos do Processo Digital n° 058.00075792/2025-31.
 
 **§ 1° -** O imóvel a que alude o "caput" deste artigo destinar-se-á à implantação de um centro cultural, com o objetivo de resgatar, preservar e valorizar a memória histórica, artística e cultural do Município, bem como promover atividades de educação, capacitação e integração comunitária.
 

@@ -51,7 +51,7 @@ Dos Restos a Pagar
 
 **Artigo 10 -** Os saldos de restos a pagar processados, inscritos em exercícios anteriores a 2024, serão bloqueados no SIAFEM/SP em 14 de dezembro de 2024.
 
-**§ 1° -** As Unidades Gestoras Executoras - UGEÂ´s poderão, após a devida justificativa fundamentada e com a anuência do ordenador de despesa, providenciar o desbloqueio dos restos a pagar processados, previstos no "caput" deste artigo, até 30 de dezembro de 2024, excetuados os saldos prescritos nos termos do § 5° do artigo 206 da Lei federal n° 10.406, de 10 de janeiro de 2002.
+**§ 1° -** As Unidades Gestoras Executoras - UGE´s poderão, após a devida justificativa fundamentada e com a anuência do ordenador de despesa, providenciar o desbloqueio dos restos a pagar processados, previstos no "caput" deste artigo, até 30 de dezembro de 2024, excetuados os saldos prescritos nos termos do § 5° do artigo 206 da Lei federal n° 10.406, de 10 de janeiro de 2002.
 
 **§ 2° -** Os saldos de restos a pagar processados que permanecerem bloqueados em 30 de dezembro de 2024, serão automaticamente cancelados no SIAFEM/SP.
 
@@ -89,7 +89,7 @@ Das Disposições Gerais
 
 **§ 2° -** Para o cumprimento dos artigos 14, 15 e 17 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), as transferências de recursos ao Tesouro Estadual, decorrentes do superávit financeiro de 2024, deverão ocorrer até 10 (dias) após a publicação do Balanço Geral do Estado.
 
-**Artigo 15 -** Os Gestores de Contratos de Parcerias Público--Privadas - PPPÂ´s deverão encaminhar os formulários com informações dos ativos, passivos e riscos em contratos de PPPÂ´s à Contadoria Geral do Estado até 13 de janeiro de 2025, para fins de elaboração do Demonstrativo das Parcerias Público-Privadas, da Lei de Responsabilidade Fiscal, a ser publicado até 30 de janeiro de 2025.
+**Artigo 15 -** Os Gestores de Contratos de Parcerias Público--Privadas - PPP´s deverão encaminhar os formulários com informações dos ativos, passivos e riscos em contratos de PPP´s à Contadoria Geral do Estado até 13 de janeiro de 2025, para fins de elaboração do Demonstrativo das Parcerias Público-Privadas, da Lei de Responsabilidade Fiscal, a ser publicado até 30 de janeiro de 2025.
 
 **Artigo 16 -** As Empresas Estatais, Dependentes e Não Dependentes, deverão encaminhar sua posição acionária, saldo patrimonial, índice de participação societária e respectivo balancete de dezembro de 2024, devidamente assinado, à Contadoria Geral do Estado, em conformidade com a Instrução CGE 001/2021, até 15 de fevereiro de 2025, para fins de consolidação dos registros contábeis da conta de Investimentos do acionista majoritário no SIAFEM/SP.
 

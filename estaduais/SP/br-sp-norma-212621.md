@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Meio Ambiente, Infraestrutura e Logística para a Secretaria da Segurança Pública, a administração de um terreno com área de 17.163,68mÂ² (dezessete mil cento e sessenta e três metros quadrados e sessenta e oito decímetros quadrados), parte do imóvel objeto da Transcrição n° 12.848 do 2° Oficial de Registro de Imóveis da Comarca de Jundiaí, localizado na Rua Bom Jesus de Pirapora, n° 1.721, Bairro Vila Rami, no Município de Jundiaí, cadastrado no SGI sob o n° 52.129, identificado e descrito nos autos do Processo n° 057.00141405/2023-28.
+**Artigo 1° -** Fica transferida, da Secretaria de Meio Ambiente, Infraestrutura e Logística para a Secretaria da Segurança Pública, a administração de um terreno com área de 17.163,68m² (dezessete mil cento e sessenta e três metros quadrados e sessenta e oito decímetros quadrados), parte do imóvel objeto da Transcrição n° 12.848 do 2° Oficial de Registro de Imóveis da Comarca de Jundiaí, localizado na Rua Bom Jesus de Pirapora, n° 1.721, Bairro Vila Rami, no Município de Jundiaí, cadastrado no SGI sob o n° 52.129, identificado e descrito nos autos do Processo n° 057.00141405/2023-28.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à instalação de uma unidade da Polícia Militar do Estado de São Paulo.
 

@@ -8,9 +8,9 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos 
 
 Decreta:    
 
-**Artigo 1° -** Ficam transferidos os cargos providos e as funções-atividades preenchidas constantes do Anexo inteÂ­grante deste decreto.    
+**Artigo 1° -** Ficam transferidos os cargos providos e as funções-atividades preenchidas constantes do Anexo inte­grante deste decreto.    
 
-**Artigo 2° -** Ficam os Secretários de Estado autorizados a proceder, mediante aposÂ­tila, à retificação dos elementos informativos constantes do Anexo deste decreto.    
+**Artigo 2° -** Ficam os Secretários de Estado autorizados a proceder, mediante apos­tila, à retificação dos elementos informativos constantes do Anexo deste decreto.    
 
 **Artigo 3° -** Este decreto entra em vigor na data de sua publicação.    
 

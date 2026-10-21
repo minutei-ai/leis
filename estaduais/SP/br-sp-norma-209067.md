@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:
 
-**Artigo 1° -** Fica ratificado o Convênio ICMS 123/23 celebrado em Brasília, DF, na 377Âª Reunião Extraordinária do CONFAZ, realizada no dia 16 de agosto de 2023, e publicado na página 51 da Seção I da Edição 157 do Diário Oficial da União do dia 17 de agosto de 2023.
+**Artigo 1° -** Fica ratificado o Convênio ICMS 123/23 celebrado em Brasília, DF, na 377ª Reunião Extraordinária do CONFAZ, realizada no dia 16 de agosto de 2023, e publicado na página 51 da Seção I da Edição 157 do Diário Oficial da União do dia 17 de agosto de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, o Convênio ICMS 123/23.
 
@@ -32,7 +32,7 @@ Publicado na Casa Civil, aos 29 de dezembro de 2023.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto (SEI 0015680758) que ratifica o Convênio ICMS 123/23, celebrado em Brasília, DF, na 377Âª Reunião Extraordinária do CONFAZ, realizada no dia 16 de agosto de 2023, e publicado na página 51 da Seção I da Edição 157 do Diário Oficial da União do dia 17 de agosto de 2023.
+Encaminho a inclusa minuta de decreto (SEI 0015680758) que ratifica o Convênio ICMS 123/23, celebrado em Brasília, DF, na 377ª Reunião Extraordinária do CONFAZ, realizada no dia 16 de agosto de 2023, e publicado na página 51 da Seção I da Edição 157 do Diário Oficial da União do dia 17 de agosto de 2023.
 
 Importante destacar que entre as alterações constantes do Convênio ICMS 123/23, houve alteração da cláusula sexta do Convênio ICMS 60/18, que passou a ter a seguinte redação:
 

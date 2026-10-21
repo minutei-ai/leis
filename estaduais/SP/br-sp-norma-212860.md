@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, de parte do imóvel objeto da Transcrição n° 25.321 do 1° Oficial de Registro de Imóveis da Comarca da Capital, localizado na Avenida Morvan Dias de Figueiredo, n° 4.210, Bairro Vila Maria, no Município de São Paulo, cadastrado no SGI sob o n° 19465, parte essa com área de 18.325,15mÂ² (dezoito mil trezentos e vinte e cinco metros quadrados e quinze decímetros quadrados), identificada nos autos do Processo Digital 018.00000543/2023-79.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, de parte do imóvel objeto da Transcrição n° 25.321 do 1° Oficial de Registro de Imóveis da Comarca da Capital, localizado na Avenida Morvan Dias de Figueiredo, n° 4.210, Bairro Vila Maria, no Município de São Paulo, cadastrado no SGI sob o n° 19465, parte essa com área de 18.325,15m² (dezoito mil trezentos e vinte e cinco metros quadrados e quinze decímetros quadrados), identificada nos autos do Processo Digital 018.00000543/2023-79.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo abriga os Centros de Atendimento Socioeducativo ao Adolescente - CASA "João do Pulo" e "Ouro Preto".
 

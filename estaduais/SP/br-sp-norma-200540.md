@@ -281,7 +281,7 @@ d) o § 3° do artigo 176:<br>
 
 e) o § 2° do artigo 183:
 
-"§ 2° - A infração do disposto no â€˜caputâ€™ deste artigo importará perda total do vencimento ou remuneração correspondente ao período de ausência e, se esta exceder 15 (quinze) dias consecutivos, ficará o funcionário sujeito à pena de demissão por inassiduidade." (NR)
+"§ 2° - A infração do disposto no ‘caput’ deste artigo importará perda total do vencimento ou remuneração correspondente ao período de ausência e, se esta exceder 15 (quinze) dias consecutivos, ficará o funcionário sujeito à pena de demissão por inassiduidade." (NR)
 
 f) O artigo 187:
 
@@ -403,7 +403,7 @@ VII - da [Lei Complementar n° 1.080, de 17 de dezembro de 2008](https://www.al.
 
 a) o "caput" do artigo 18:
 
-"Artigo 18 - O exercício da função de Corregedor, da Controladoria Geral do Estado, será retribuído com gratificação â€˜pro laboreâ€™, calculada mediante a aplicação do coeficiente 30 (trinta inteiros) sobre o valor da Unidade Básica de Valor - UBV, de que trata o artigo 33 desta lei complementar." (NR)
+"Artigo 18 - O exercício da função de Corregedor, da Controladoria Geral do Estado, será retribuído com gratificação ‘pro labore’, calculada mediante a aplicação do coeficiente 30 (trinta inteiros) sobre o valor da Unidade Básica de Valor - UBV, de que trata o artigo 33 desta lei complementar." (NR)
 
 b) o artigo 37:
 
@@ -478,9 +478,9 @@ b) demandem acréscimo no número de docentes e profissionais de saúde e essa n
 8 - transformação social, econômica, demográfica ou tecnológica, que não justifique, nos termos do decreto regulamentar, o provimento de cargo efetivo.<br>
 § 3° - Se existirem candidatos aprovados em concurso público vigente, não será admitida a contratação por tempo determinado nas seguintes hipóteses previstas neste artigo:
 
-1 - alínea â€˜eâ€™ do item 5 do § 1°;
+1 - alínea ‘e’ do item 5 do § 1°;
 
-2 - alínea â€˜bâ€™ do item 8 do § 1°;
+2 - alínea ‘b’ do item 8 do § 1°;
 
 3 - item 5 do § 2°.
 
@@ -510,13 +510,13 @@ Parágrafo único - As condições estabelecidas nos incisos I e II deste artig
 
 d) os incisos II, III e VI do artigo 8°:
 
-"II - com o retorno do titular nas hipóteses previstas na alínea â€˜fâ€™ do item 5 do § 1° e no item 6 do § 2°, ambos do artigo 1° desta lei complementar;
+"II - com o retorno do titular nas hipóteses previstas na alínea ‘f’ do item 5 do § 1° e no item 6 do § 2°, ambos do artigo 1° desta lei complementar;
 
-III - pela extinção ou conclusão do objeto, nas hipóteses previstas na alínea â€˜bâ€™ do item 5 e no item 6, ambos do § 1° do artigo 1° desta lei complementar, ou em razão da cessação da situação de emergência ou calamidade pública que deu causa à contratação;
+III - pela extinção ou conclusão do objeto, nas hipóteses previstas na alínea ‘b’ do item 5 e no item 6, ambos do § 1° do artigo 1° desta lei complementar, ou em razão da cessação da situação de emergência ou calamidade pública que deu causa à contratação;
 
 ...................................................................
 
-VI - com a criação ou classificação do cargo, e respectivo provimento, nas hipóteses da alínea â€˜eâ€™ do item 5 do § 1° e do item 7 do § 2°, ambos do artigo 1° desta lei complementar." (NR)
+VI - com a criação ou classificação do cargo, e respectivo provimento, nas hipóteses da alínea ‘e’ do item 5 do § 1° e do item 7 do § 2°, ambos do artigo 1° desta lei complementar." (NR)
 
 e) os artigos 14, 15 e 16:
 
@@ -617,7 +617,7 @@ XIV - o artigo 28 da Lei Complementar n° 1.354, de 6 de março de 2020:
 
 § 4° - O enquadramento a que se refere o § 3° deste artigo poderá ser revisto durante o período referido em tal parágrafo, para ajustar-se aos efeitos das situações previstas no item 7 do § 2° deste artigo.
 
-§ 5° - O abono de permanência a que se refere o â€˜caputâ€™ deste artigo não será incluído na base de cálculo para fixação do valor de qualquer benefício previdenciário.
+§ 5° - O abono de permanência a que se refere o ‘caput’ deste artigo não será incluído na base de cálculo para fixação do valor de qualquer benefício previdenciário.
 
 § 6° - O abono de permanência será:
 
@@ -643,7 +643,7 @@ a) o inciso XVII ao artigo 78:
 
 b) o § 3° ao artigo 110:
 
-"§ 3° - Não se aplica o disposto no â€˜caputâ€™ deste artigo às hipóteses de compensação de horas previstas no parágrafo único do artigo 117 desta Lei." (NR)
+"§ 3° - Não se aplica o disposto no ‘caput’ deste artigo às hipóteses de compensação de horas previstas no parágrafo único do artigo 117 desta Lei." (NR)
 
 c) o parágrafo único ao artigo 117:
 
@@ -661,7 +661,7 @@ f) o artigo 243-A:
 
 "Artigo 243-A - O disposto no artigo 243, inciso IV, desta lei, não se aplica ao funcionário de órgão ou entidade concedente de estágio que atuar como professor orientador.
 
-Parágrafo único - O funcionário de que trata o â€˜caputâ€™ deste artigo deverá evitar qualquer conflito de interesses e estará sujeito, inclusive, aos deveres de:
+Parágrafo único - O funcionário de que trata o ‘caput’ deste artigo deverá evitar qualquer conflito de interesses e estará sujeito, inclusive, aos deveres de:
 
 1 - comunicar, ao superior hierárquico, qualquer circunstância, suspeição ou fato impeditivo de sua participação em decisão a ser tomada no âmbito da unidade administrativa;
 
@@ -749,7 +749,7 @@ IV - não ter sindicância ou processo disciplinar em curso;
 
 V - não ter celebrado Termo de Ajustamento de Conduta nos últimos 3 (três) anos.
 
-Parágrafo único - Exclusivamente para os fins do disposto no â€˜caputâ€™ deste artigo, o Termo de Ajustamento de Conduta será registrado nos assentos funcionais do funcionário." (NR)
+Parágrafo único - Exclusivamente para os fins do disposto no ‘caput’ deste artigo, o Termo de Ajustamento de Conduta será registrado nos assentos funcionais do funcionário." (NR)
 
 q) o artigo 267-G:
 
@@ -878,11 +878,11 @@ a) o artigo 7°-A:
 
 "Artigo 7°-A - Poderá ser instituída avaliação de desempenho dos servidores temporários, que será considerada para eventual prorrogação ou extinção do contrato antes do término da sua vigência.
 
-§ 1° - A avaliação a que se refere o â€˜caputâ€™ deste artigo deverá ser vinculada a métricas de desempenho, de produtividade, competências e habilidades do contratado.
+§ 1° - A avaliação a que se refere o ‘caput’ deste artigo deverá ser vinculada a métricas de desempenho, de produtividade, competências e habilidades do contratado.
 
 § 2° - O Poder Executivo estabelecerá por meio de decreto normas gerais de avaliação de desempenho de servidores.
 
-§ 3° - Os Secretários de Estado, o Procurador Geral do Estado e os Dirigentes das Autarquias e das Instituições Públicas Estaduais de Ensino Superior poderão editar normas complementares para regulamentar a avaliação de desempenho de que trata o â€˜caputâ€™ deste artigo.
+§ 3° - Os Secretários de Estado, o Procurador Geral do Estado e os Dirigentes das Autarquias e das Instituições Públicas Estaduais de Ensino Superior poderão editar normas complementares para regulamentar a avaliação de desempenho de que trata o ‘caput’ deste artigo.
 
 § 4° - A duração total da contratação, computada sua eventual prorrogação, respeitará os prazos máximos previstos no artigo 7° desta lei complementar." (NR)<br>
 b) a alínea "d" ao inciso VII do artigo 8°:
@@ -897,9 +897,9 @@ escolares estaduais, no âmbito do retorno das atividades presenciais." (NR)
 
 VII - o artigo 7° às Disposições Transitórias da [Lei Complementar n° 1.144, de 11 de julho de 2011](https://www.al.sp.gov.br/norma/161700):
 
-"Artigo 7° - Os servidores integrantes da classe de Agente de Organização Escolar que, até 1 (um) ano após o início da vigência desta disposição transitória, apresentarem as titulações mencionadas nas alíneas â€™bâ€™, â€™câ€™, â€˜dâ€™ e â€˜eâ€™ do inciso III do artigo 26 desta lei complementar, serão reenquadrados nas faixas correspondentes, mediante simples requerimento, sem a necessidade de observância dos demais requisitos de promoção constantes do referido artigo.
+"Artigo 7° - Os servidores integrantes da classe de Agente de Organização Escolar que, até 1 (um) ano após o início da vigência desta disposição transitória, apresentarem as titulações mencionadas nas alíneas ’b’, ’c’, ‘d’ e ‘e’ do inciso III do artigo 26 desta lei complementar, serão reenquadrados nas faixas correspondentes, mediante simples requerimento, sem a necessidade de observância dos demais requisitos de promoção constantes do referido artigo.
 
-Parágrafo único - O requerimento de reenquadramento de que trata o â€˜caputâ€™ deste artigo:
+Parágrafo único - O requerimento de reenquadramento de que trata o ‘caput’ deste artigo:
 
 1 - deverá ser instruído com a cópia autenticada do certificado ou do diploma respectivo;
 

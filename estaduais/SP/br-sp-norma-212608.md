@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de uso, a título gratuito e pelo prazo de 30 (trinta) anos, do Município de Cabreúva, nos termos da Lei Complementar municipal n° 493, de 26 de fevereiro de 2024, o terreno objeto da Matrícula n° 8.155 do Oficial de Registro de Imóveis da Comarca de Cabreúva, com área de 1.117,77mÂ² (um mil cento e dezessete metros quadrados e setenta e sete decímetros quadrados), localizado na Alameda 2 (Dois), esquina com a Avenida Benedito Bicudo Galvão, s/n°, Bairro Jacaré, naquele Município, identificado e descrito nos autos do Processo n° 025.00000110/2023-61.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de uso, a título gratuito e pelo prazo de 30 (trinta) anos, do Município de Cabreúva, nos termos da Lei Complementar municipal n° 493, de 26 de fevereiro de 2024, o terreno objeto da Matrícula n° 8.155 do Oficial de Registro de Imóveis da Comarca de Cabreúva, com área de 1.117,77m² (um mil cento e dezessete metros quadrados e setenta e sete decímetros quadrados), localizado na Alameda 2 (Dois), esquina com a Avenida Benedito Bicudo Galvão, s/n°, Bairro Jacaré, naquele Município, identificado e descrito nos autos do Processo n° 025.00000110/2023-61.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de uma Delegacia de Polícia.
 

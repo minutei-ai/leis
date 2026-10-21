@@ -66,7 +66,7 @@ DAS DISPOSIÇÕES INICIAIS
 #### CAPÍTULO I<br>
 DO CONSORCIAMENTO
 
-CLÁUSULA 1Âª - DOS SUBSCRITORES - São subscritores deste PROTOCOLO DE INTENÇÕES, por ordem alfabética, os seguintes entes da República Federativa do Brasil:
+CLÁUSULA 1ª - DOS SUBSCRITORES - São subscritores deste PROTOCOLO DE INTENÇÕES, por ordem alfabética, os seguintes entes da República Federativa do Brasil:
 
 I - O ESTADO DO ESPÍRITO SANTO, pessoa jurídica de direito público interno,inscrito no CNPJ/MF sob o n° 27.080.530/0012- 04, com sede na Praça João Clímaco, 142 - Cidade Alta, Centro, CEP: 29015-110 - Vitória/ES, neste ato representado pelo Governador do Estado JOSÉ RENATO CASAGRANDE;
 
@@ -82,7 +82,7 @@ VI - O ESTADO DE SANTA CATARINA, pessoa jurídica de direito público interno, i
 
 VII - O ESTADO DE SÃO PAULO, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob o n° 46.379.400/0001- 50, com sede na Av. Morumbi, 4500 - Morumbi, CEP 05650-905 - São Paulo/SP, neste ato representado pelo Governador do Estado TARCÍSIO GOMES DE FREITAS;
 
-CLÁUSULA 2Âª - DA RATIFICAÇÃO - O Protocolo de Intenções, após sua ratificação mediante leis aprovadas por, pelo menos, quatro dos Estados que o tenham subscrito, converter-se-á automaticamente em Contrato de Consórcio Público, ato constitutivo do CONSÓRCIO DE INTEGRAÇÃO DOS ESTADOS DO SUL E SUDESTE DO BRASIL - COSUD.
+CLÁUSULA 2ª - DA RATIFICAÇÃO - O Protocolo de Intenções, após sua ratificação mediante leis aprovadas por, pelo menos, quatro dos Estados que o tenham subscrito, converter-se-á automaticamente em Contrato de Consórcio Público, ato constitutivo do CONSÓRCIO DE INTEGRAÇÃO DOS ESTADOS DO SUL E SUDESTE DO BRASIL - COSUD.
 
 **§ 1° -** Somente será considerado consorciado o ente da Federação que, subscritor do Protocolo de Intenções, o ratificar por meio de lei.
 
@@ -97,24 +97,24 @@ CLÁUSULA 2Âª - DA RATIFICAÇÃO - O Protocolo de Intenções, após sua ratif
 #### CAPÍTULO II<br>
 DA DENOMINAÇÃO, PRAZO E SEDE
 
-CLÁUSULA 3Âª - DA DENOMINAÇÃO E NATUREZA JURÍDICA - O Consórcio Público previsto neste Protocolo de Intenções será constituído na forma de associação pública, de natureza autárquica e interfederativa, com personalidade jurídica de direito público, criado conforme o previsto na Lei Federal n° 11.107, de 2005, sob a denominação de CONSÓRCIO DE INTEGRAÇÃO DOS ESTADOS DO SUL E SUDESTE DO BRASIL - COSUD - doravante denominado Consórcio neste instrumento.
+CLÁUSULA 3ª - DA DENOMINAÇÃO E NATUREZA JURÍDICA - O Consórcio Público previsto neste Protocolo de Intenções será constituído na forma de associação pública, de natureza autárquica e interfederativa, com personalidade jurídica de direito público, criado conforme o previsto na Lei Federal n° 11.107, de 2005, sob a denominação de CONSÓRCIO DE INTEGRAÇÃO DOS ESTADOS DO SUL E SUDESTE DO BRASIL - COSUD - doravante denominado Consórcio neste instrumento.
 
-CLÁUSULA 4Âª - DO PRAZO DE VIGÊNCIA - O Consórcio vigerá por prazo indeterminado.
+CLÁUSULA 4ª - DO PRAZO DE VIGÊNCIA - O Consórcio vigerá por prazo indeterminado.
 
-CLÁUSULA 5Âª - DA SEDE - A sede do Consórcio será na Capital do seu Estado Líder.
+CLÁUSULA 5ª - DA SEDE - A sede do Consórcio será na Capital do seu Estado Líder.
 
 **§ 1° -** A Assembleia Geral poderá, na forma do Estatuto, alterar a sede indicada nesta Cláusula, por decisão unânime dos seus membros, e, ainda, aprovar a criação de escritórios em outros Estados e/ou no Distrito Federal.
 
 **§ 2° -** O Estado Líder será sempre aquele cujo Governador for eleito Presidente do Consórcio.
 
-CLÁUSULA 6Âª - A área de abrangência e atuação do Consórcio corresponderá à soma dos territórios dos Estados que o integram.
+CLÁUSULA 6ª - A área de abrangência e atuação do Consórcio corresponderá à soma dos territórios dos Estados que o integram.
 
-CLÁUSULA 7Âª - O Consórcio fica autorizado a representar os entes da Federação consorciados perante outras esferas de Governo em assuntos de interesse comum, nos termos de deliberação da Assembleia Geral.
+CLÁUSULA 7ª - O Consórcio fica autorizado a representar os entes da Federação consorciados perante outras esferas de Governo em assuntos de interesse comum, nos termos de deliberação da Assembleia Geral.
 
 #### CAPÍTULO III<br>
 DAS FINALIDADES, ATRIBUIÇÕES E PRINCÍPIOS
 
-CLÁUSULA 8Âª - DAS FINALIDADES - O COSUD tem por finalidade promover a integração dos entes consorciados e a consecução de interesses comuns, valendo-se, para tal, de todos os meios e instrumentos em direito autorizados.
+CLÁUSULA 8ª - DAS FINALIDADES - O COSUD tem por finalidade promover a integração dos entes consorciados e a consecução de interesses comuns, valendo-se, para tal, de todos os meios e instrumentos em direito autorizados.
 
 **§ 1° -** A atuação do Consórcio se dará nas áreas de interesse em que seja legalmente viável, conveniente e oportuna a atuação do Poder Público, dentre elas:
 
@@ -148,7 +148,7 @@ XII - Transparência, Controladoria e Ouvidoria.
 
 **§ 4° -** As outorgas a que se refere o § 2° desta cláusula deverão atender a condições e metas de desempenho.
 
-CLÁUSULA 9Âª - DAS ATRIBUIÇÕES - Para viabilizar as finalidades mencionadas na Cláusula 8Âª, o Consórcio poderá:
+CLÁUSULA 9ª - DAS ATRIBUIÇÕES - Para viabilizar as finalidades mencionadas na Cláusula 8ª, o Consórcio poderá:
 
 I - realizar estudos técnicos e pesquisas, elaborar e monitorar planos, projetos e programas, inclusive para obtenção de recursos estaduais ou federais;
 
@@ -628,7 +628,7 @@ DAS DISPOSIÇÕES TRANSITÓRIAS
 #### Seção I<br>
 Da Elaboração do Estatuto 
 
-CLÁUSULA 51 - DA ASSEMBLEIA ESTATUINTE - Atendido o disposto no "caput" da Cláusula 2Âª, por meio de edital subscrito por, pelo menos, 4 (quatro) dos Estados consorciados, será convocada a Assembleia Geral para a elaboração dos Estatuto do Consórcio.
+CLÁUSULA 51 - DA ASSEMBLEIA ESTATUINTE - Atendido o disposto no "caput" da Cláusula 2ª, por meio de edital subscrito por, pelo menos, 4 (quatro) dos Estados consorciados, será convocada a Assembleia Geral para a elaboração dos Estatuto do Consórcio.
 
 **§ 1°** A Assembleia Geral, por maioria simples, elegerá o Presidente e o Secretário da Assembleia e, ato contínuo, aprovará resolução que estabeleça:
 

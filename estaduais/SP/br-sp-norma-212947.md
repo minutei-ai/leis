@@ -147,9 +147,9 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria possui caráter personalíssimo e intransferível, sendo o diploma o documento formal e oficial que atesta sua autenticidade.
 
-**Parágrafo único â€“** O diploma será expedido uma única vez. Em caso de extravio, poderá ser emitida carta oficial da instituição ratificando a autenticidade do agraciamento e informando os respectivos dados de registro.
+**Parágrafo único –** O diploma será expedido uma única vez. Em caso de extravio, poderá ser emitida carta oficial da instituição ratificando a autenticidade do agraciamento e informando os respectivos dados de registro.
 
-**Artigo 19 â€“** Conforme previsto na alínea "b" do inciso V do Artigo 3° deste decreto, compete à Comissão de Outorgas manter o controle dos agraciados, indicando o número do Livro e o número da Página ou Sequência em que cada personalidade foi registrada.
+**Artigo 19 –** Conforme previsto na alínea "b" do inciso V do Artigo 3° deste decreto, compete à Comissão de Outorgas manter o controle dos agraciados, indicando o número do Livro e o número da Página ou Sequência em que cada personalidade foi registrada.
 
 **§ 1° -** As informações mencionadas no "caput" deverão constar no verso de cada diploma.
 
@@ -193,7 +193,7 @@ Disposições Finais
 
 **Artigo 25 -** Na hipótese da extinção desta condecoração, no todo ou em parte, seus cunhos, exemplares e complementos remanescentes, serão recolhidos ao Conselho Estadual de Honrarias e Mérito - CEHM, sem ônus para os cofres públicos.
 
-**Artigo 26 â€“** O presente regulamento somente poderá ser alterado após anuência do Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS e submissão ao Conselho Estadual de Honrarias e Mérito - CEHM.
+**Artigo 26 –** O presente regulamento somente poderá ser alterado após anuência do Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS e submissão ao Conselho Estadual de Honrarias e Mérito - CEHM.
 
 **Artigo 27 -** Este decreto entra em vigor na data de sua publicação.
 

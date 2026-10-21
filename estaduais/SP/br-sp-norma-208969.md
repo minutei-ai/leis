@@ -213,7 +213,7 @@ XI - propor a aplicação de penalidades à contratada;
 
 XII - no caso de obras e serviços de engenharia:
 
-a) armazenar os documentos relativos a projetos, alvarás, ARTÂ´s ou RRTÂ´s e demais elementos de instrução referentes a projetos arquitetônico e complementares;
+a) armazenar os documentos relativos a projetos, alvarás, ART´s ou RRT´s e demais elementos de instrução referentes a projetos arquitetônico e complementares;
 
 b) vistar o diário de obras, certificando-se de seu correto preenchimento;
 

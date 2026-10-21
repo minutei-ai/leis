@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, do conjunto de prédios denominado "Vila Médica", com 44.157,83mÂ² (quarenta e quatro mil cento e cinquenta e sete metros quadrado e oitenta e três decímetros quadrado) de terreno e 1.641,75mÂ² (um mil seiscentos e quarenta e um metros quadrados e setenta e cinco decímetros quadrados) de área construída, parte do Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, s/n°, Centro, naquele município, cadastrado no SGI sob o n° 2203, identificado e descrito nos autos do Processo Digital n° 024.00147461/2025-24.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, do conjunto de prédios denominado "Vila Médica", com 44.157,83m² (quarenta e quatro mil cento e cinquenta e sete metros quadrado e oitenta e três decímetros quadrado) de terreno e 1.641,75m² (um mil seiscentos e quarenta e um metros quadrados e setenta e cinco decímetros quadrados) de área construída, parte do Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, s/n°, Centro, naquele município, cadastrado no SGI sob o n° 2203, identificado e descrito nos autos do Processo Digital n° 024.00147461/2025-24.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à prestação de serviços de saúde mental, de urgência e de transporte sanitário no Município.
 

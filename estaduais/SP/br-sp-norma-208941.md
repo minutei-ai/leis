@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do terreno localizado na Rua Nelson Fernandes, s/n°, Bairro Cidade Vargas, no Município de São Paulo, com área de 4.732,98mÂ² (quatro mil setecentos e trinta e dois metros quadrados e noventa e oito decímetros quadrados), cadastrado no SGI sob o n° 53247, identificado e descrito nos autos do Processo Digital 025.00002860/2023-77.
+**Artigo 1° -** Fica transferida, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do terreno localizado na Rua Nelson Fernandes, s/n°, Bairro Cidade Vargas, no Município de São Paulo, com área de 4.732,98m² (quatro mil setecentos e trinta e dois metros quadrados e noventa e oito decímetros quadrados), cadastrado no SGI sob o n° 53247, identificado e descrito nos autos do Processo Digital 025.00002860/2023-77.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à instalação de uma unidade da Polícia Militar do Estado de São Paulo.
 

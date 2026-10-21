@@ -49,7 +49,7 @@ Dos Restos a Pagar
 
 **Artigo 10 -** Os saldos de restos a pagar processados, inscritos em exercícios anteriores a 2025, serão bloqueados no SIAFEM/SP em 13 de dezembro de 2025.
 
-**§ 1° -** As Unidades Gestoras Executoras - UGEÂ´s poderão, após a devida justificativa fundamentada e com a anuência do ordenador de despesa, providenciar o desbloqueio dos restos a pagar processados, previstos no caput deste artigo, até 30 de dezembro de 2025, excetuados os saldos prescritos nos termos do § 5° do artigo 206 da Lei federal n° 10.406, de 10 de janeiro de 2002.
+**§ 1° -** As Unidades Gestoras Executoras - UGE´s poderão, após a devida justificativa fundamentada e com a anuência do ordenador de despesa, providenciar o desbloqueio dos restos a pagar processados, previstos no caput deste artigo, até 30 de dezembro de 2025, excetuados os saldos prescritos nos termos do § 5° do artigo 206 da Lei federal n° 10.406, de 10 de janeiro de 2002.
 
 **§ 2° -** Os saldos de restos a pagar processados que permanecerem bloqueados em 30 de dezembro de 2025, serão automaticamente cancelados no SIAFEM/SP.
 

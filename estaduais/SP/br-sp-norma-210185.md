@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Paulo, uma área com 48,00mÂ² (quarenta e oito metros quadrados), situada na "Praça 14 Bis", em frente ao n° 76, no referido Município, identificada e descrita nos autos do Processo Digital 025.00006947/2024-02.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Paulo, uma área com 48,00m² (quarenta e oito metros quadrados), situada na "Praça 14 Bis", em frente ao n° 76, no referido Município, identificada e descrita nos autos do Processo Digital 025.00006947/2024-02.
 
 **Parágrafo único -** A área a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de um posto policial, da Polícia Militar do Estado de São Paulo.
 

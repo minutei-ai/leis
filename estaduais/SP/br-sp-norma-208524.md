@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** A Divisão de Contrainteligência Policial do Departamento de Inteligência da Polícia Civil - DIPOL, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, passa a ser denominada "Dr. Helênio Dellâ€™Oso Prado".
+**Artigo 1° -** A Divisão de Contrainteligência Policial do Departamento de Inteligência da Polícia Civil - DIPOL, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, passa a ser denominada "Dr. Helênio Dell’Oso Prado".
 
 **Artigo 2° -** Este decreto entra em vigor na data de sua publicação.
 

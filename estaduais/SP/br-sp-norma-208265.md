@@ -10,7 +10,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-**Artigo 1° -** Passa a denominar-se â€˜Juraci Rosa Soaresâ€™ o Dispositivo de Acesso e Retorno (SPD) 115/079, localizado no km 115 + 500m da Rodovia Raimundo Antunes Soares - SP 079, em Piedade.
+**Artigo 1° -** Passa a denominar-se ‘Juraci Rosa Soares’ o Dispositivo de Acesso e Retorno (SPD) 115/079, localizado no km 115 + 500m da Rodovia Raimundo Antunes Soares - SP 079, em Piedade.
 
 **Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
 

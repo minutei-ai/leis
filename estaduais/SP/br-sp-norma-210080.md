@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de direito real de uso, a título gratuito e pelo prazo de 30 (trinta) anos, do Município de São Bernardo do Campo, nos termos da Lei municipal n° 6.329, de 27 de fevereiro de 2014, alterada pela Lei n° 6.834, de 27 de setembro de 2019, o imóvel objeto da Matrícula n° 12.706, do 1° Oficial de Registro de Imóveis de São Bernardo do Campo, com área de 1.172,36mÂ² (um mil cento e setenta e dois metros quadrados e trinta e seis decímetros quadrados), localizado na Rua Dom Paulo Mariano, n° 245, Bairro Nova Petrópolis, Município de São Bernardo do Campo/SP, cadastrado no SGI sob o n° 15.184, descrito e caracterizado nos autos do Processo n° 025.00000685/2023-83.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de direito real de uso, a título gratuito e pelo prazo de 30 (trinta) anos, do Município de São Bernardo do Campo, nos termos da Lei municipal n° 6.329, de 27 de fevereiro de 2014, alterada pela Lei n° 6.834, de 27 de setembro de 2019, o imóvel objeto da Matrícula n° 12.706, do 1° Oficial de Registro de Imóveis de São Bernardo do Campo, com área de 1.172,36m² (um mil cento e setenta e dois metros quadrados e trinta e seis decímetros quadrados), localizado na Rua Dom Paulo Mariano, n° 245, Bairro Nova Petrópolis, Município de São Bernardo do Campo/SP, cadastrado no SGI sob o n° 15.184, descrito e caracterizado nos autos do Processo n° 025.00000685/2023-83.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para uso da Polícia Militar do Estado de São Paulo.
 

@@ -23,16 +23,16 @@ Publicada na Subsecretaria de Gestão Legislativa da Casa Civil, em 30 de março
 ANEXO<br>
 a que se refere o artigo 1° da Lei Complementar n° 1.377, de 30 de março de 2022.
 
-#### Escala de Vencimentos â€“ Intermediária
+#### Escala de Vencimentos – Intermediária
 
 ![](/repositorio/legislacao/lei.complementar/2022/2025061613374494942.png)
 
 ####  <br>
-Escala de Vencimentos â€“ Superior <br>
+Escala de Vencimentos – Superior <br>
  
 
 ![](/repositorio/legislacao/lei.complementar/2022/2025061613375858341.png)
 
-#### Escala de Vencimentos â€“ Comissão 
+#### Escala de Vencimentos – Comissão 
 
 ![](/repositorio/legislacao/lei.complementar/2022/2025061613381025142.png)

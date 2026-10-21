@@ -2,7 +2,7 @@
 
 # LEI N° 17.866, DE 09 DE MARÇO DE 2024
 
-## (Projeto de lei n° 387/2022, da Deputada Leci Brandão â€“ PcdoB)
+## (Projeto de lei n° 387/2022, da Deputada Leci Brandão – PcdoB)
 
 ### Institui o "Dia Estadual do Pescador".
 

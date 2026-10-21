@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Pontal, nos termos da Lei municipal n° 2.558, de 11 de maio de 2010, o terreno objeto da Matrícula n° 70 do Oficial de Registro de Imóveis da Comarca de Pontal, com 10.000,00mÂ² (dez mil metros quadrados), localizado na Rua Luis Strabelli, Bairro Residencial Primavera, naquele Município, identificado nos autos do Processo n° 018.00009347/2026-11.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Pontal, nos termos da Lei municipal n° 2.558, de 11 de maio de 2010, o terreno objeto da Matrícula n° 70 do Oficial de Registro de Imóveis da Comarca de Pontal, com 10.000,00m² (dez mil metros quadrados), localizado na Rua Luis Strabelli, Bairro Residencial Primavera, naquele Município, identificado nos autos do Processo n° 018.00009347/2026-11.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á ao Tribunal de Justiça do Estado de São Paulo, para instalação do Fórum da Comarca de Pontal.
 

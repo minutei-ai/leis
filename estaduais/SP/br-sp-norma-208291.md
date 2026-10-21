@@ -503,7 +503,7 @@ a que se refere o inciso V do artigo 1° da Lei Complementar n° 1.388, de 11 de
 
 #### SUBANEXO 3 
 
-#### JORNADA PARCIAL DE TRABALHO â€“ 20 horas semanais 
+#### JORNADA PARCIAL DE TRABALHO – 20 horas semanais 
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908364521338.png)
 
@@ -584,7 +584,7 @@ a que se refere o inciso XIV do artigo 1° da Lei Complementar n° 1.388, de 11 
 
 #### SUBANEXO 2
 
-#### ESCALA DE VENCIMENTOS â€“ NÍVEL SUPERIOR
+#### ESCALA DE VENCIMENTOS – NÍVEL SUPERIOR
 
 #### ESTRUTURA DE VENCIMENTOS I
 
@@ -598,7 +598,7 @@ a que se refere o inciso XIV do artigo 1° da Lei Complementar n° 1.388, de 11 
 
 #### SUBANEXO 3
 
-#### ESCALA DE VENCIMENTOS â€“ NÍVEL SUPERIOR - EM EXTINÇÃO
+#### ESCALA DE VENCIMENTOS – NÍVEL SUPERIOR - EM EXTINÇÃO
 
 #### JULGADOR TRIBUTÁRIO
 
@@ -621,35 +621,35 @@ a que se refere o inciso XIV do artigo 1° da Lei Complementar n° 1.388, de 11 
 #### ANEXO XV <br>
 a que se refere o inciso XV do artigo 1° da Lei Complementar n° 1.388, de 11 de julho de 2023 
 
-#### ESCALA DE VENCIMENTOS â€“ CLASSES DE APOIO ESCOLAR 
+#### ESCALA DE VENCIMENTOS – CLASSES DE APOIO ESCOLAR 
 
 #### ESTRUTURA I 
 
-#### TABELA I â€“ 40 HORAS SEMANAIS
+#### TABELA I – 40 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908493750245.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS
+#### TABELA II – 30 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908500273738.png)
 
 #### ESTRUTURA II 
 
-#### TABELA I â€“ 40 HORAS SEMANAIS
+#### TABELA I – 40 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908503654240.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS
+#### TABELA II – 30 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908505453443.png)
 
-#### ESTRUTURA III â€“ CARGOS EM EXTINÇÃO 
+#### ESTRUTURA III – CARGOS EM EXTINÇÃO 
 
-#### TABELA I â€“ 40 HORAS SEMANAIS
+#### TABELA I – 40 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908512889844.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS
+#### TABELA II – 30 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908514747845.png)
 
@@ -721,7 +721,7 @@ a que se refere o inciso XIX do artigo 1° da Lei Complementar n° 1.388, de 11 
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908584289945.png)
 
-#### SUBANEXO 2 â€“ Especialista em Planejamento Educacional, Obras e Gestão
+#### SUBANEXO 2 – Especialista em Planejamento Educacional, Obras e Gestão
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908590810438.png)
 
@@ -729,11 +729,11 @@ a que se refere o inciso XIX do artigo 1° da Lei Complementar n° 1.388, de 11 
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071908593233646.png)
 
-#### SUBANEXO 4 â€“ Agente Técnico e Administrativo
+#### SUBANEXO 4 – Agente Técnico e Administrativo
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909000561237.png)
 
-#### SUBANEXO 5 â€“ Operacional de Suporte
+#### SUBANEXO 5 – Operacional de Suporte
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909005150039.png)
 
@@ -772,7 +772,7 @@ a que se refere o inciso XXII do artigo 1° da Lei Complementar n° 1.388, de 11
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909034609439.png)
 
-#### ESCALA DE SALÁRIOS-EMPREGOS PÚBLICOS PERMANENTES â€“ ÁREA SAÚDE
+#### ESCALA DE SALÁRIOS-EMPREGOS PÚBLICOS PERMANENTES – ÁREA SAÚDE
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909041343542.png)
 
@@ -1103,7 +1103,7 @@ a que se refere o inciso XXXIX do artigo 1° da Lei Complementar n° 1.388, de 1
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909374460640.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS
+#### TABELA II – 30 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909380679843.png)
 
@@ -1115,7 +1115,7 @@ a que se refere o inciso XXXIX do artigo 1° da Lei Complementar n° 1.388, de 1
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909383372141.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS 
+#### TABELA II – 30 HORAS SEMANAIS 
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909385088637.png)
 
@@ -1131,7 +1131,7 @@ a que se refere o inciso XXXIX do artigo 1° da Lei Complementar n° 1.388, de 1
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909392619945.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS
+#### TABELA II – 30 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909395270438.png)
 
@@ -1139,7 +1139,7 @@ a que se refere o inciso XXXIX do artigo 1° da Lei Complementar n° 1.388, de 1
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909400971646.png)
 
-#### TABELA IV â€“ 12 HORAS SEMANAIS
+#### TABELA IV – 12 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909403085744.png)
 
@@ -1147,19 +1147,19 @@ a que se refere o inciso XXXIX do artigo 1° da Lei Complementar n° 1.388, de 1
 
 #### PROFESSOR EDUCAÇÃO BÁSICA II 
 
-#### TABELA I â€“ 40 HORAS SEMANAIS
+#### TABELA I – 40 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909405631741.png)
 
-#### TABELA II â€“ 30 HORAS SEMANAIS
+#### TABELA II – 30 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909411466239.png)
 
-#### TABELA III â€“ 24 HORAS SEMANAIS
+#### TABELA III – 24 HORAS SEMANAIS
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909414118437.png)
 
-#### TABELA IV â€“ 12 HORAS SEMANAIS 
+#### TABELA IV – 12 HORAS SEMANAIS 
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909415923045.png)
 
@@ -1173,7 +1173,7 @@ a que se refere o inciso XXXIX do artigo 1° da Lei Complementar n° 1.388, de 1
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909422785338.png)
 
-#### TABELA II â€“ 24 HORAS SEMANAIS 
+#### TABELA II – 24 HORAS SEMANAIS 
 
 ![](/repositorio/legislacao/lei.complementar/2023/2023071909431016842.png)
 

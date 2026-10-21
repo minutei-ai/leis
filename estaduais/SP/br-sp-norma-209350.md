@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 266/2023, do Deputado Itamar Borges - MDB)
 
-### Denomina "Juvenal Benito" a passarela localizada no km 250 da Via Rondon â€“ SP 300, em Botucatu.
+### Denomina "Juvenal Benito" a passarela localizada no km 250 da Via Rondon – SP 300, em Botucatu.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

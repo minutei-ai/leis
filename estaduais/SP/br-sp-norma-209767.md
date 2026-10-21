@@ -14,7 +14,7 @@ Decreta:    
 
 **Artigo 2° -** A concessão de direito real de uso de que trata este decreto será efetivada por meio de escritura pública, da qual deverão constar as condições impostas à concessionária, cabendo a representação da Fazenda do Estado ao comandante do Comando de Policiamento de Área Metropolitana-6 (CPA/M-6), sem prejuízo dos poderes de representação inerentes ou atribuídos a outras autoridades, na forma da lei.    
 
-**Artigo 3° -** Este decreto entra em viÂ­gor na data de sua publicação.          
+**Artigo 3° -** Este decreto entra em vi­gor na data de sua publicação.          
 
 TARCÍSIO DE FREITAS  
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Fica ratificado o Convênio ICMS 143/24, celebrado em Foz do Iguaçu, PR, na 195Âª Reunião Ordinária do CONFAZ, realizada no dia 6 de dezembro de 2024, e publicado na página 57, Seção I, da Edição 237 do Diário Oficial da União do dia 10 de dezembro de 2024.
+**Artigo 1° -** Fica ratificado o Convênio ICMS 143/24, celebrado em Foz do Iguaçu, PR, na 195ª Reunião Ordinária do CONFAZ, realizada no dia 6 de dezembro de 2024, e publicado na página 57, Seção I, da Edição 237 do Diário Oficial da União do dia 10 de dezembro de 2024.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, o Convênio ICMS 143/24.
 

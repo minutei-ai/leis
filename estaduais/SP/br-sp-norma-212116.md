@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, do Município de Itapira, mediante cessão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, prorrogável a critério das partes, nos termos da Lei Complementar municipal n° 6.276, de 17 de julho de 2023, um terreno com área de 1.074,00mÂ² (um mil e setenta e quatro metros quadrados), localizado na Avenida Paulo Lacerda Quartim Barbosa, na confluência com a Rua Antônio Pelizer, Parque Santa Bárbara, naquele Município, parte do imóvel objeto da Matrícula n° 23.815 do Cartório de Registro de Imóveis da Comarca de Itapira, identificado e descrito nos autos do Processo Digital n° 057.00117858/2023-33.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, do Município de Itapira, mediante cessão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, prorrogável a critério das partes, nos termos da Lei Complementar municipal n° 6.276, de 17 de julho de 2023, um terreno com área de 1.074,00m² (um mil e setenta e quatro metros quadrados), localizado na Avenida Paulo Lacerda Quartim Barbosa, na confluência com a Rua Antônio Pelizer, Parque Santa Bárbara, naquele Município, parte do imóvel objeto da Matrícula n° 23.815 do Cartório de Registro de Imóveis da Comarca de Itapira, identificado e descrito nos autos do Processo Digital n° 057.00117858/2023-33.
 
 **Parágrafo único -**O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de uma unidade do 7° Grupamento de Bombeiros da Polícia Militar do Estado de São Paulo.
 

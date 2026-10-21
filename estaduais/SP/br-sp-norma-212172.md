@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de São Carlos, nos termos da Lei Municipal n° 18.318, de 25 de outubro de 2017, alterada pela Lei municipal n° 21.346, de 2 de março de 2023, o imóvel objeto da Matrícula n° 125.718 do Cartório de Registro de Imóveis da Comarca de São Carlos, com área de 2.592,46mÂ² (dois mil quinhentos e noventa e dois metros quadrados e quarenta e seis decímetros quadrados), situado na Rua Anita Stella, n° 525, Bairro Vila Marina, naquele Município, identificado e descrito nos autos do Processo n° 060.00023757/2025-14.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de São Carlos, nos termos da Lei Municipal n° 18.318, de 25 de outubro de 2017, alterada pela Lei municipal n° 21.346, de 2 de março de 2023, o imóvel objeto da Matrícula n° 125.718 do Cartório de Registro de Imóveis da Comarca de São Carlos, com área de 2.592,46m² (dois mil quinhentos e noventa e dois metros quadrados e quarenta e seis decímetros quadrados), situado na Rua Anita Stella, n° 525, Bairro Vila Marina, naquele Município, identificado e descrito nos autos do Processo n° 060.00023757/2025-14.
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de uma unidade da Superintendência da Polícia Técnico-Científica - SPTC.
 

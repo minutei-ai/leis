@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber do Município de Piracicaba, mediante permissão de uso qualificada, a vigorar até o dia 16 de novembro de 2.029, a título gratuito, consoante autorização constante do Decreto municipal n° 20.753, de 17 de setembro de 2025, o imóvel localizado na Rua Riachuelo, esquina com Rua Visconde do Rio Branco, com 3.930,66mÂ² de terreno e 1.834,70mÂ² de área construída, identificado nos autos do Processo Digital n° 024.00067796/2024-89.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber do Município de Piracicaba, mediante permissão de uso qualificada, a vigorar até o dia 16 de novembro de 2.029, a título gratuito, consoante autorização constante do Decreto municipal n° 20.753, de 17 de setembro de 2025, o imóvel localizado na Rua Riachuelo, esquina com Rua Visconde do Rio Branco, com 3.930,66m² de terreno e 1.834,70m² de área construída, identificado nos autos do Processo Digital n° 024.00067796/2024-89.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria de Saúde, para funcionamento do Ambulatório Médico de Especialidade - AME.
 

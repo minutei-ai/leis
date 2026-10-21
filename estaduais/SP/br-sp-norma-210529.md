@@ -12,7 +12,7 @@ Decreta:
 
 I - o "caput" do artigo 1° e seu §1°:
 
-"Artigo 1° - Fica a Fazenda do Estado autorizada a permitir o uso, a título gratuito e pelo prazo de 49 (quarenta e nove) anos, em favor da República Portuguesa, pessoa jurídica de direito público, do imóvel situado na Rua Paulo Vieira, n° 257, Bairro do Sumaré, no Município de São Paulo, com 5.922,00mÂ² (cinco mil novecentos e vinte e dois metros quadrados) de terreno, cadastrado no SGI sob o n° 38.099, identificado e descrito nos autos do Processo Digital SEI 015.00050488/2023-42.
+"Artigo 1° - Fica a Fazenda do Estado autorizada a permitir o uso, a título gratuito e pelo prazo de 49 (quarenta e nove) anos, em favor da República Portuguesa, pessoa jurídica de direito público, do imóvel situado na Rua Paulo Vieira, n° 257, Bairro do Sumaré, no Município de São Paulo, com 5.922,00m² (cinco mil novecentos e vinte e dois metros quadrados) de terreno, cadastrado no SGI sob o n° 38.099, identificado e descrito nos autos do Processo Digital SEI 015.00050488/2023-42.
 
 § 1° - O imóvel de que trata o "caput" deste artigo destinar-se-á exclusivamente à instalação de estabelecimento de ensino infantil, fundamental e médio, sob responsabilidade da entidade sem fins lucrativos mantida pela permissionária, cabendo a esta última a edificação de novo prédio, mediante prévia aprovação da Secretaria da Educação, sem direito a quaisquer indenizações por benfeitorias e acessões ou à retenção.". (NR)
 

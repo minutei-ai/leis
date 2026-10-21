@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber da São Paulo Urbanismo - SP Urbanismo, mediante comodato, por prazo indeterminado, parte do imóvel objeto da Matrícula n° 46.964 do 5° Cartório de Registro de Imóveis da Comarca de São Paulo, localizado na Rua Mauá, n° 66, Bairro Santa Ifigênia, no Município de São Paulo, parte essa com área de 491,52mÂ² (quatrocentos e noventa e um metros quadrados e cinquenta e dois decímetros quadrados), identificada e descrita nos autos do Processo 012.00003025/2024-57.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber da São Paulo Urbanismo - SP Urbanismo, mediante comodato, por prazo indeterminado, parte do imóvel objeto da Matrícula n° 46.964 do 5° Cartório de Registro de Imóveis da Comarca de São Paulo, localizado na Rua Mauá, n° 66, Bairro Santa Ifigênia, no Município de São Paulo, parte essa com área de 491,52m² (quatrocentos e noventa e um metros quadrados e cinquenta e dois decímetros quadrados), identificada e descrita nos autos do Processo 012.00003025/2024-57.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria de Desenvolvimento Social, para execução do Programa Bom Prato.
 

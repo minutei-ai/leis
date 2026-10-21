@@ -2,7 +2,7 @@
 
 # LEI N° 17.803, DE 17 DE OUTUBRO DE 2023
 
-## (Projeto de lei n° 10/2023, dos Deputados Rogério Nogueira â€“ PSDB, Luiz Fernando T. Ferreira â€“ PT, Patrícia Gama â€“ PSDB, Rafa Zimbaldi â€“ CIDADANIA e Thiago Auricchio â€“ PL)
+## (Projeto de lei n° 10/2023, dos Deputados Rogério Nogueira – PSDB, Luiz Fernando T. Ferreira – PT, Patrícia Gama – PSDB, Rafa Zimbaldi – CIDADANIA e Thiago Auricchio – PL)
 
 ### Assegura às mulheres o direito a acompanhante durante as consultas médicas, exames e demais procedimentos clínicos nos estabelecimentos de saúde públicos e privados do Estado de São Paulo
 

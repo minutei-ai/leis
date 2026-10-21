@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria da Saúde, a administração do imóvel localizado na Praça José Rebelo da Cunha, n° 73, bairro do Sumaré, no Município de Caraguatatuba, com 1.734,00mÂ² (mil setecentos e trinta e quatro metros quadrados) de terreno e 2.160,00mÂ² (dois mil cento e sessenta metros quadrados) de área construída, objeto da Transcrição n° 1.080 do Cartório de Registro de Imóveis da Comarca de Caraguatatuba, cadastrado no SGI sob o n° 48905 e identificado nos autos do Processo Digital n° 019.00000291/2026-01.
+**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria da Saúde, a administração do imóvel localizado na Praça José Rebelo da Cunha, n° 73, bairro do Sumaré, no Município de Caraguatatuba, com 1.734,00m² (mil setecentos e trinta e quatro metros quadrados) de terreno e 2.160,00m² (dois mil cento e sessenta metros quadrados) de área construída, objeto da Transcrição n° 1.080 do Cartório de Registro de Imóveis da Comarca de Caraguatatuba, cadastrado no SGI sob o n° 48905 e identificado nos autos do Processo Digital n° 019.00000291/2026-01.
 
 **Artigo 2° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Caraguatatuba, do imóvel indicado no artigo 1° deste decreto.
 

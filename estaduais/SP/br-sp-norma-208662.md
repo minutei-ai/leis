@@ -16,7 +16,7 @@ II - Paulo Eduardo Mangeon Elias, "In Memoriam";
 
 III - Regina Maria Giffoni Marsiglia, "In Memoriam";
 
-IV - Núbia Dâ€™Avilla Limeira de Araujo, "In Memoriam";
+IV - Núbia D’Avilla Limeira de Araujo, "In Memoriam";
 
 V - Ademar Arthur Chioro dos Reis;
 
@@ -24,7 +24,7 @@ VI - Albertina Duarte Takiuti;
 
 VII - Álvaro Escrivão Junior;
 
-VIII - Ana Luiza Dâ€™Ávila Viana;
+VIII - Ana Luiza D’Ávila Viana;
 
 XIX - Ana Maria Malik;
 

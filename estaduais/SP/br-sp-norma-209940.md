@@ -8,13 +8,13 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:  
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante autorização de uso, a título precário e gratuito, em favor da empresa Trapézio Produções Culturais Ltda, de parte do imóvel denominado Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, Centro, no Município de Franco da Rocha, cadastrado no SGI sob o n° 2203, parte essa com área de 9.357,07mÂ² (nove mil trezentos e cinquenta e sete metros quadrados e sete decímetros quadrados), identificada e descrita nos autos do Processo Digital 024.00046917/2024-59.  
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante autorização de uso, a título precário e gratuito, em favor da empresa Trapézio Produções Culturais Ltda, de parte do imóvel denominado Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, Centro, no Município de Franco da Rocha, cadastrado no SGI sob o n° 2203, parte essa com área de 9.357,07m² (nove mil trezentos e cinquenta e sete metros quadrados e sete decímetros quadrados), identificada e descrita nos autos do Processo Digital 024.00046917/2024-59.  
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à realização do 6° festival denominado "Soy Loco Por Ti Juquery", no período de 9 a 27 de setembro de 2024.  
 
 **Artigo 2° -** A autorização de uso de que trata este decreto será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas à autorizatária.  
 
-**Artigo 3° -** Este decreto entra em viÂ­gor na data de sua publicação.  
+**Artigo 3° -** Este decreto entra em vi­gor na data de sua publicação.  
 
 TARCÍSIO DE FREITAS  
 

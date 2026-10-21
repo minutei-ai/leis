@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.900, DE 23 DE SETEMBRO DE 2024
 
-### Autoriza a Fazenda do Estado a reÂ­ceber, mediante doação, sem ônus ou encargo, do Município de Bragança Paulista, o imóvel que especifica.
+### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Bragança Paulista, o imóvel que especifica.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 
@@ -12,7 +12,7 @@ Decreta:  
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á exclusivamente ao uso do Poder Judiciário Estadual.  
 
-**Artigo 2° -** Este decreto entra em viÂ­gor na data de sua publicação.  
+**Artigo 2° -** Este decreto entra em vi­gor na data de sua publicação.  
 
 TARCÍSIO DE FREITAS  
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Bragança Paulista, de parte do imóvel localizado na Avenida Francisco Samuel Lucchesi Filho, n° 42, Bairro Jardim Doutor Júlio de Mesquita Filho, naquele Município, objeto da Matrícula n° 3.331 do Oficial de Registro de Imóveis da Comarca de Bragança Paulista, cadastrado no SGI sob o n° 4013, parte essa com área de 22.113,41mÂ² (vinte e dois mil cento e treze metros quadrados e quarenta e um decímetros quadrados), identificada e descrita nos autos do Processo n° 018.00000789/2024-21.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Bragança Paulista, de parte do imóvel localizado na Avenida Francisco Samuel Lucchesi Filho, n° 42, Bairro Jardim Doutor Júlio de Mesquita Filho, naquele Município, objeto da Matrícula n° 3.331 do Oficial de Registro de Imóveis da Comarca de Bragança Paulista, cadastrado no SGI sob o n° 4013, parte essa com área de 22.113,41m² (vinte e dois mil cento e treze metros quadrados e quarenta e um decímetros quadrados), identificada e descrita nos autos do Processo n° 018.00000789/2024-21.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á ao uso da Secretaria Municipal de Segurança e Defesa Civil.
 

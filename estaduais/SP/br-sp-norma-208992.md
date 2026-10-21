@@ -71,7 +71,7 @@ I - quando a ausência for integral, será consignado como falta-dia e implicar�
 
 II - quando a ausência for parcial, o desconto será proporcional à quantidade das aulas ou horas impactadas.
 
-Parágrafo único - O desconto, de que trata o â€˜caputâ€™ deste artigo, produzirá os efeitos no mês de sua ocorrência, não se admitindo o cômputo de qualquer modalidade de saldo nos meses subsequentes." (NR)
+Parágrafo único - O desconto, de que trata o ‘caput’ deste artigo, produzirá os efeitos no mês de sua ocorrência, não se admitindo o cômputo de qualquer modalidade de saldo nos meses subsequentes." (NR)
 
 II - o inciso IV do artigo 5° da [Lei Complementar n° 836, de 30 de dezembro de 1997](https://www.al.sp.gov.br/norma/6190):
 

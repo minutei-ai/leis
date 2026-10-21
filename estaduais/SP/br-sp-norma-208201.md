@@ -174,9 +174,9 @@ b) o inciso II do artigo 22:
 
 "II - 7 (sete) de Diretor Técnico I, destinadas ao:
 
-a) Núcleo de Projetos Pedagógicos, do Centro de Formação de Recursos Humanos para o Sistema Único de Saúde - SUS/SP "ProfÂª Maria Helena de Oliveira e Silva De Nardi" de Araraquara, do Grupo de Desenvolvimento de Recursos Humanos;
+a) Núcleo de Projetos Pedagógicos, do Centro de Formação de Recursos Humanos para o Sistema Único de Saúde - SUS/SP "Profª Maria Helena de Oliveira e Silva De Nardi" de Araraquara, do Grupo de Desenvolvimento de Recursos Humanos;
 
-b) Núcleo de Comunicação e Multimeios, do Centro de Formação de Recursos Humanos para o Sistema Único de Saúde-SUS/SP "ProfÂª Maria Helena de Oliveira e Silva De Nardi" de Araraquara, do Grupo de Desenvolvimento de Recursos Humanos;
+b) Núcleo de Comunicação e Multimeios, do Centro de Formação de Recursos Humanos para o Sistema Único de Saúde-SUS/SP "Profª Maria Helena de Oliveira e Silva De Nardi" de Araraquara, do Grupo de Desenvolvimento de Recursos Humanos;
 
 c) Núcleo de Recrutamento e Seleção, do Centro de Planejamento dos Processos de Recrutamento e Seleção, do Grupo de Apoio ao Desenvolvimento Institucional;
 

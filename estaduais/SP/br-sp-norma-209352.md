@@ -16,7 +16,7 @@ I - destinar-se-á ao uso do Fundo Social de Solidariedade do Município;  
 
 II - será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas pela permitente.    
 
-**Artigo 3° -** Este decreto entra em viÂ­gor na data de sua publicação.    
+**Artigo 3° -** Este decreto entra em vi­gor na data de sua publicação.    
 
 TARCÍSIO DE FREITAS  
 

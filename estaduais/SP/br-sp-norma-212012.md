@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Itaju, de parte do imóvel localizado na Avenida João Zambôni Asparetto, n° 292, naquele município, cadastrado no SGI sob o n° 3503 e transcrito sob o n° 7.474 no Oficial de Registro de Imóveis da Comarca de Bariri, onde se encontra instalada a "Casa da Agricultura de Itaju", parte essa com área de 139,85 mÂ² (cento e trinta e nove metros quadrados e oitenta e cinco decímetros quadrados), identificada nos autos do Processo Digital n° 007.00028495/2025-19.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Itaju, de parte do imóvel localizado na Avenida João Zambôni Asparetto, n° 292, naquele município, cadastrado no SGI sob o n° 3503 e transcrito sob o n° 7.474 no Oficial de Registro de Imóveis da Comarca de Bariri, onde se encontra instalada a "Casa da Agricultura de Itaju", parte essa com área de 139,85 m² (cento e trinta e nove metros quadrados e oitenta e cinco decímetros quadrados), identificada nos autos do Processo Digital n° 007.00028495/2025-19.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação da Defesa Civil, da Secretaria do Meio Ambiente e da Secretaria de Turismo do Município.
 

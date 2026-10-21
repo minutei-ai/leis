@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 5 (cinco) anos, prorrogável por iguais e sucessivos períodos, da empresa Cantareira Promoções de Vendas Ltda., um terreno com 91,28mÂ² (noventa e um metros quadrados e vinte o oito decímetros quadrados), parte do imóvel localizado na Rua Roberto Baldin, n° 5.005, Jardim Corisco, no Município de São Paulo, objeto da Matrícula n° 23.847 do 15° Cartório de Registro de Imóveis da Comarca de São Paulo, identificado e descrito nos autos do Processo Digital n° 057.00024153/2023-73.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 5 (cinco) anos, prorrogável por iguais e sucessivos períodos, da empresa Cantareira Promoções de Vendas Ltda., um terreno com 91,28m² (noventa e um metros quadrados e vinte o oito decímetros quadrados), parte do imóvel localizado na Rua Roberto Baldin, n° 5.005, Jardim Corisco, no Município de São Paulo, objeto da Matrícula n° 23.847 do 15° Cartório de Registro de Imóveis da Comarca de São Paulo, identificado e descrito nos autos do Processo Digital n° 057.00024153/2023-73.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de antena de transmissão de rádio da Polícia Militar do Estado de São Paulo.
 

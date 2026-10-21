@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargos, do Município de São José dos Campos, nos termos da Lei municipal n° 550, de 18 de agosto de 2014, o terreno objeto da matrícula n° 130.056 do Registro de Imóveis e Anexos da Comarca de São José dos Campos, com área de 1.950,00mÂ² (um mil novecentos e cinquenta metros quadrados), localizado entre a Avenida Cidade Jardim e as Ruas Wladimir Herzog e José Friggi, naquele Município, identificado e descrito nos autos do processo digital 025.00000817/2023-77.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargos, do Município de São José dos Campos, nos termos da Lei municipal n° 550, de 18 de agosto de 2014, o terreno objeto da matrícula n° 130.056 do Registro de Imóveis e Anexos da Comarca de São José dos Campos, com área de 1.950,00m² (um mil novecentos e cinquenta metros quadrados), localizado entre a Avenida Cidade Jardim e as Ruas Wladimir Herzog e José Friggi, naquele Município, identificado e descrito nos autos do processo digital 025.00000817/2023-77.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação do Núcleo de Perícias Criminalísticas e do setor administrativo do Núcleo de Perícias Médico Legais da Superintendência da Polícia Técnico-Científica.
 

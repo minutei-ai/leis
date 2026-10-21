@@ -10,7 +10,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-**Artigo 1° -** Passa a denominar-se "Ruy dâ€™Avila" a passarela localizada no km 224,710 da Rodovia Francisco Alves Negrão - SP 258, em Capão Bonito.
+**Artigo 1° -** Passa a denominar-se "Ruy d’Avila" a passarela localizada no km 224,710 da Rodovia Francisco Alves Negrão - SP 258, em Capão Bonito.
 
 **Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
 

@@ -193,7 +193,7 @@ Da Habilitação
 
 I - para entrega imediata, assim consideradas aquelas com prazo de entrega de até 30 (trinta) dias contados da ordem de fornecimento;
 
-II - em valores inferiores a Â¼ (um quarto) do limite para dispensa de licitação para compras em geral;
+II - em valores inferiores a ¼ (um quarto) do limite para dispensa de licitação para compras em geral;
 
 III - de produto para pesquisa e desenvolvimento de que trata a alínea "c" do inciso IV do "caput" do artigo 75 da Lei federal n° 14.133, de 1° de abril de 2021, observado o limite de valor estabelecido no inciso III do artigo 70 do referido diploma legal.
 

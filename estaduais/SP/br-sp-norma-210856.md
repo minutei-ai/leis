@@ -48,7 +48,7 @@ IV - promover gestão harmônica e integrada entre as atividades produtivas e a 
 
 **Artigo 4° -** O zoneamento da APA Tanquã-Rio Piracicaba, delimitado cartograficamente em escala 1:50.000 conforme Anexos II e III deste decreto, é composto por duas zonas, na seguinte conformidade:
 
-I - Zona de Uso Sustentável - ZUS: abrange aproximadamente 8.693,45 hectares da UC (cerca de 61,84% da área total) e corresponde à maior porção de território. Abarca os trechos central e oeste da UC, que correspondem a uma parte da área do espelho dâ€™água (cota maximimorum) do reservatório formado pela barragem de Barra Bonita;
+I - Zona de Uso Sustentável - ZUS: abrange aproximadamente 8.693,45 hectares da UC (cerca de 61,84% da área total) e corresponde à maior porção de território. Abarca os trechos central e oeste da UC, que correspondem a uma parte da área do espelho d’água (cota maximimorum) do reservatório formado pela barragem de Barra Bonita;
 
 II - Zona de Proteção dos Atributos - ZPA: abrange aproximadamente 5.363,75 hectares da UC (cerca de 38,16% da área total), localizada em sua porção leste. Corresponde à planície original do rio Piracicaba, sendo uma área parcialmente inundada e com lagoas marginais, banco de sedimentos, além de toda área terrestre da UC. Configura habitat temporário de inúmeras espécies de aves migratórias, atributos desta UC.
 
@@ -92,13 +92,13 @@ a) para impactos gerados nos canteiros de obras e frentes de trabalho:
 
 b) para impactos de erosão e assoreamento:
 
-1\. controlar a erosão, inclusive pela instalação de estruturas provisórias e definitivas de ordenamento do fluxo dâ€™água e de dissipação de energia, e pela contenção de sedimentos e estabilização de encostas, como sistemas de drenagem provisórios, diques, bacias de infiltração, leiras, barreiras fixas e flutuantes, etc.;
+1\. controlar a erosão, inclusive pela instalação de estruturas provisórias e definitivas de ordenamento do fluxo d’água e de dissipação de energia, e pela contenção de sedimentos e estabilização de encostas, como sistemas de drenagem provisórios, diques, bacias de infiltração, leiras, barreiras fixas e flutuantes, etc.;
 
 2\. promover a compensação de corte e aterros para minimizar a movimentação de solos;
 
 3\. buscar áreas já degradadas para utilizar como áreas de empréstimo e depósito de material excedente;
 
-c) para impactos das interferências em recursos hídricos: garantir a circulação das águas buscando adotar obras de arte nas travessias de corpos d'água e áreas úmidas, evitando, sempre que possível, drenagem de nascentes, desvios de corpos dâ€™água e eventuais subdimensionamentos de estruturas de drenagem para evitar eventuais interferências sobre as águas superficiais, especialmente com relação a cursos d'água que drenam para Unidades de Conservação, aos rios de classe especial e aqueles que servem para abastecimento de água;
+c) para impactos das interferências em recursos hídricos: garantir a circulação das águas buscando adotar obras de arte nas travessias de corpos d'água e áreas úmidas, evitando, sempre que possível, drenagem de nascentes, desvios de corpos d’água e eventuais subdimensionamentos de estruturas de drenagem para evitar eventuais interferências sobre as águas superficiais, especialmente com relação a cursos d'água que drenam para Unidades de Conservação, aos rios de classe especial e aqueles que servem para abastecimento de água;
 
 d) para impactos da fragmentação e perda de conectividade: adotar, sempre que possível, traçados ou alternativas construtivas que evitem supressão e fragmentação de ambientes naturais;
 
@@ -156,7 +156,7 @@ a) para erosão e assoreamento em faixas de dutovias:
 
 1\. manter solo com cobertura vegetal, usando espécies nativas;
 
-2\. reconformar a faixa com estruturas provisórias e definitivas de ordenamento do fluxo dâ€™água e de dissipação de energia, por exemplo, com o uso de leiras e sistemas provisórios e definitivos de drenagem;
+2\. reconformar a faixa com estruturas provisórias e definitivas de ordenamento do fluxo d’água e de dissipação de energia, por exemplo, com o uso de leiras e sistemas provisórios e definitivos de drenagem;
 
 3\. empregar, sempre que possível, técnicas não destrutivas para a implantação dos dutos em travessias de corpos d'água, rodovias, áreas urbanizadas, etc, como o uso de furo direcional;
 

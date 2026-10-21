@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Campinas, da área de 807,76mÂ² (oitocentos e sete metros quadrados e setenta e seis decímetros quadrados), situada às margens do Rio Capivari, na altura da Avenida Nelson Ferreira de Souza, no referido Município, identificada e descrita nos autos do Processo Digital 023.00007659/2024-13.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Campinas, da área de 807,76m² (oitocentos e sete metros quadrados e setenta e seis decímetros quadrados), situada às margens do Rio Capivari, na altura da Avenida Nelson Ferreira de Souza, no referido Município, identificada e descrita nos autos do Processo Digital 023.00007659/2024-13.
 
 **Parágrafo único -** A área a que alude o "caput" deste artigo destinar-se-á à implantação de rede de drenagem urbana.
 

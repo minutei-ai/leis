@@ -4,7 +4,7 @@
 
 ### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Instituto de Pesquisa Tecnológicas Estadual-IPT, visando ao atendimento de Despesas Correntes e de Capital.
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 17.555, de 20 de julho de 2022](https://www.al.sp.gov.br/norma/204520), e na [Lei n° 17.614, de 26 de dezembro de 2022](https://www.al.sp.gov.br/norma/206480), em conformidade com o [Decreto n° 67.435, de 1° de janeiro de 2023](https://www.al.sp.gov.br/norma/206580) e o [Decreto n° 67.466, de 1Âª de fevereiro de 2023](https://www.al.sp.gov.br/norma/206822)
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 17.555, de 20 de julho de 2022](https://www.al.sp.gov.br/norma/204520), e na [Lei n° 17.614, de 26 de dezembro de 2022](https://www.al.sp.gov.br/norma/206480), em conformidade com o [Decreto n° 67.435, de 1° de janeiro de 2023](https://www.al.sp.gov.br/norma/206580) e o [Decreto n° 67.466, de 1ª de fevereiro de 2023](https://www.al.sp.gov.br/norma/206822)
 
 Decreta:
 

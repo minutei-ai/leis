@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 20 (vinte) anos, a título gratuito, em favor do Município de Franco da Rocha, do imóvel com 5.617,71mÂ² (cinco mil seiscentos e dezessete metros quadrados e setenta e um decímetros quadrados) de terreno e 286,89mÂ² (duzentos e oitenta e seis metros quadrados e oitenta e nove decímetros quadrados) de área construída, parte do Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, Centro, naquele Município, cadastrado no SGI sob o n° 2203, identificado e descrito nos autos do Processo Digital n° 024.00076401/2025-10.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso qualificada, pelo prazo de 20 (vinte) anos, a título gratuito, em favor do Município de Franco da Rocha, do imóvel com 5.617,71m² (cinco mil seiscentos e dezessete metros quadrados e setenta e um decímetros quadrados) de terreno e 286,89m² (duzentos e oitenta e seis metros quadrados e oitenta e nove decímetros quadrados) de área construída, parte do Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, Centro, naquele Município, cadastrado no SGI sob o n° 2203, identificado e descrito nos autos do Processo Digital n° 024.00076401/2025-10.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação de uma Policlínica.
 

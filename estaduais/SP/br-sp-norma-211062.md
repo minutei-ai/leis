@@ -8,15 +8,15 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Ficam reclassificadas como de 1Âª Classe as Delegacias de Polícia de Defesa da Mulher, das Delegacias Seccionais de Polícia, dos Departamentos de Polícia Judiciária, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, adiante especificadas:
+**Artigo 1° -** Ficam reclassificadas como de 1ª Classe as Delegacias de Polícia de Defesa da Mulher, das Delegacias Seccionais de Polícia, dos Departamentos de Polícia Judiciária, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, adiante especificadas:
 
 I - do Departamento de Polícia Judiciária da Capital - DECAP, a:
 
-a) Delegacia de Polícia de Defesa da Mulher da 3Âª Delegacia Seccional de Polícia;
+a) Delegacia de Polícia de Defesa da Mulher da 3ª Delegacia Seccional de Polícia;
 
-b) Delegacia de Polícia de Defesa da Mulher da 5Âª Delegacia Seccional de Polícia; e
+b) Delegacia de Polícia de Defesa da Mulher da 5ª Delegacia Seccional de Polícia; e
 
-c) Delegacia de Polícia de Defesa da Mulher da 9Âª Delegacia Seccional de Polícia;
+c) Delegacia de Polícia de Defesa da Mulher da 9ª Delegacia Seccional de Polícia;
 
 II - do Departamento de Polícia Judiciária da Macro São Paulo - DEMACRO:
 
@@ -80,7 +80,7 @@ c) da Delegacia Seccional de Polícia de Taubaté, a:
 
 IV - do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 2 - Campinas:
 
-a) da 2Âª Delegacia Seccional de Polícia de Campinas: a Delegacia de Polícia de Defesa da Mulher de Indaiatuba;
+a) da 2ª Delegacia Seccional de Polícia de Campinas: a Delegacia de Polícia de Defesa da Mulher de Indaiatuba;
 
 b) da Delegacia Seccional de Polícia de Jundiaí: a Delegacia de Polícia de Defesa da Mulher de Jundiaí;
 
@@ -140,7 +140,7 @@ b) da Delegacia Seccional de Polícia de Americana, a:
 
 2\. Delegacia de Polícia de Defesa da Mulher de Hortolândia;
 
-3\. Delegacia de Polícia de Defesa da Mulher de Santa Bárbara dâ€™Oeste; e
+3\. Delegacia de Polícia de Defesa da Mulher de Santa Bárbara d’Oeste; e
 
 4\. Delegacia de Polícia de Defesa da Mulher de Sumaré;
 
@@ -156,7 +156,7 @@ XII - do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 1
 
 2\. Delegacia de Polícia de Defesa da Mulher de Birigui.
 
-**Artigo 2° -** Ficam reclassificadas como de 2Âª Classe as Delegacias de Polícia de Defesa da Mulher, das Delegacias Seccionais de Polícia, dos Departamentos de Polícia Judiciária, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, adiante especificadas:
+**Artigo 2° -** Ficam reclassificadas como de 2ª Classe as Delegacias de Polícia de Defesa da Mulher, das Delegacias Seccionais de Polícia, dos Departamentos de Polícia Judiciária, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, adiante especificadas:
 
 I - do Departamento de Polícia Judiciária da Macro São Paulo - DEMACRO, da Delegacia Seccional de Polícia Guarulhos: a Delegacia de Polícia de Defesa da Mulher de Arujá;
 
@@ -180,7 +180,7 @@ c) da Delegacia Seccional de Polícia de São Sebastião, a:
 
 III - do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 2 - Campinas:
 
-a) da 1Âª Delegacia Seccional de Polícia de Campinas: a Delegacia de Polícia de Defesa da Mulher de Vinhedo;
+a) da 1ª Delegacia Seccional de Polícia de Campinas: a Delegacia de Polícia de Defesa da Mulher de Vinhedo;
 
 b) da Delegacia Seccional de Polícia de Bragança Paulista, a:
 

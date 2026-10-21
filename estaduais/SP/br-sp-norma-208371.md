@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Fica ratificado o Convênio ICMS 83/23, celebrado em Brasília, DF, na 375Âª Reunião Extraordinária do CONFAZ, realizada no dia 13 de julho de 2023, e publicado na página 18 da Seção 1 da Edição 133 do Diário Oficial da União do dia 14 de julho de 2023.
+**Artigo 1° -** Fica ratificado o Convênio ICMS 83/23, celebrado em Brasília, DF, na 375ª Reunião Extraordinária do CONFAZ, realizada no dia 13 de julho de 2023, e publicado na página 18 da Seção 1 da Edição 133 do Diário Oficial da União do dia 14 de julho de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, o referido Convênio ICMS 83/23.
 
@@ -36,7 +36,7 @@ Publicado na Casa Civil, aos 4 de agosto de 2023.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto que ratifica o Convênio ICMS 83/23, celebrado em Brasília, DF, na 375Âª Reunião Extraordinária do CONFAZ, realizada no dia 13 de julho de 2023, e publicado na página 18 da Seção 1 da Edição 133 do Diário Oficial da União do dia 14 de julho de 2023.
+Encaminho a inclusa minuta de decreto que ratifica o Convênio ICMS 83/23, celebrado em Brasília, DF, na 375ª Reunião Extraordinária do CONFAZ, realizada no dia 13 de julho de 2023, e publicado na página 18 da Seção 1 da Edição 133 do Diário Oficial da União do dia 14 de julho de 2023.
 
 O Convênio ICMS 83/23 prorroga as disposições do Convênio ICMS 224/17, o qual autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações internas com produtos essenciais ao consumo popular que compõem a cesta básica.
 

@@ -38,7 +38,7 @@ IX - Secretaria da Segurança Pública;  
 
 X - Secretaria da Justiça e Cidadania.". (NR)
 
-**Artigo 2° -** Este decreto entra em viÂ­gor na data de sua publicação.  
+**Artigo 2° -** Este decreto entra em vi­gor na data de sua publicação.  
 
 TARCÍSIO DE FREITAS  
 

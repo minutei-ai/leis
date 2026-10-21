@@ -10,7 +10,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:    
 
-**Artigo 1° -** Fica instituída a "Semana Estadual de Educação Midiática", a ser celebrada, anualmente, no último fim de semana de outubro, em consonância com a Semana Global de Alfabetização Midiática e Informacional (Global Media and Information Literacy Week), liderada pela Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), que durante a Conferência Geral, em sua 40Âª sessão, em 25 de novembro de 2019, conclamou a união de todos os Estados-Membros ao enfrentamento ao desafio global da desinformação, ratificada posteriormente pela Assembleia Geral da Organização da Nações Unidas (ONU) em 21 de março de 2021.    
+**Artigo 1° -** Fica instituída a "Semana Estadual de Educação Midiática", a ser celebrada, anualmente, no último fim de semana de outubro, em consonância com a Semana Global de Alfabetização Midiática e Informacional (Global Media and Information Literacy Week), liderada pela Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), que durante a Conferência Geral, em sua 40ª sessão, em 25 de novembro de 2019, conclamou a união de todos os Estados-Membros ao enfrentamento ao desafio global da desinformação, ratificada posteriormente pela Assembleia Geral da Organização da Nações Unidas (ONU) em 21 de março de 2021.    
 
 **Artigo 2° -** As escolas de ensino fundamental II e ensino médio que compõem a rede pública estadual poderão realizar atividades e ações relacionadas à celebração da semana comemorativa, a critério do Poder Executivo e observada a disponibilidade orçamentária.    
 

@@ -10,7 +10,7 @@ Decreta:
 
 **Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 25 anos, em favor do Município de São Paulo, do imóvel objeto da Matrícula n° 231.286 do 6° Registro de Imóveis de São Paulo, situado na Rua Antônio Ribeiro Macedo, n° 115, no referido Município, cadastrado no SGI sob o n° 33918, identificado e descrito nos autos do Processo Digital 015.00407020/2024-15.
 
-**Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á ao funcionamento da unidade escolar "EMEF PROFÂª JULIETA TERLIZZI BINDO".
+**Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á ao funcionamento da unidade escolar "EMEF PROFª JULIETA TERLIZZI BINDO".
 
 **Artigo 2° -** A permissão de uso de que trata este decreto será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas pela permitente.
 

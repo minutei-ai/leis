@@ -22,7 +22,7 @@ III - Anexo III, da Polícia Militar
 
 (...)
 
-§ 2° - Os recursos constituídos pela participação no resultado ou compensação financeira devidos ao Estado, de que trata o â€˜caputâ€™ deste artigo, poderão ser utilizados para o pagamento de proventos da inatividade e das pensões militares vinculados ao Sistema de Proteção Social dos Militares." (NR)
+§ 2° - Os recursos constituídos pela participação no resultado ou compensação financeira devidos ao Estado, de que trata o ‘caput’ deste artigo, poderão ser utilizados para o pagamento de proventos da inatividade e das pensões militares vinculados ao Sistema de Proteção Social dos Militares." (NR)
 
 **Artigo 3° -** As despesas decorrentes do disposto no artigo 1° desta lei complementar correrão à conta das dotações próprias consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir créditos suplementares, se necessário, mediante a utilização de recursos, nos termos do § 1° do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.
 

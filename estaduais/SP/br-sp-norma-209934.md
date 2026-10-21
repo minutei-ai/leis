@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.842, DE 05 DE SETEMBRO DE 2024
 
-### Autoriza a Fazenda do Estado a reÂ­ceber, mediante doação, imóveis inseridos em unidades de conservação de domínio público estadual pendentes de regularização fundiária, como forma de compensação, nos processos de licenciamento ambiental.
+### Autoriza a Fazenda do Estado a re­ceber, mediante doação, imóveis inseridos em unidades de conservação de domínio público estadual pendentes de regularização fundiária, como forma de compensação, nos processos de licenciamento ambiental.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 
@@ -12,7 +12,7 @@ Decreta:  
 
 **Parágrafo único -** Os imóveis de que trata o "caput" deste artigo destinar-se-ão à Secretaria de Meio Ambiente, Infraestrutura e Logística.  
 
-**Artigo 2° -** Este decreto entra em viÂ­gor na data de sua publicação.  
+**Artigo 2° -** Este decreto entra em vi­gor na data de sua publicação.  
 
 TARCÍSIO DE FREITAS  
 

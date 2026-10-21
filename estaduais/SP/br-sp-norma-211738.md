@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, à vi
 
 Decreta:
 
-**Artigo 1° -** Fica outorgada a "Cruz do Mérito Policial", de 1Âª Categoria, em ouro, ao Cabo PM Johannes Kennedy Santana Lino.
+**Artigo 1° -** Fica outorgada a "Cruz do Mérito Policial", de 1ª Categoria, em ouro, ao Cabo PM Johannes Kennedy Santana Lino.
 
 **Artigo 2° -** Este decreto entra em vigor na data de sua publicação.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e pelo prazo prorrogável de 30 (trinta) anos, do Município de São Bernardo do Campo, nos termos da Lei municipal n° 7.276, de 15 de fevereiro de 2024, o imóvel localizado na Avenida General Barreto de Menezes, n° 301, Bairro Jardim Silvina, naquele Município, com área de 181,57mÂ² (cento e oitenta e um metros quadrados e cinquenta e sete decímetros quadrados), inserido em área maior objeto da Matrícula n° 149.059 do 1° Oficial de Registro de Imóveis da Comarca de São Bernardo do Campo, cadastrado no SGI sob o n° 15187 e identificado e descrito nos autos do Processo Digital n° 025.00003592/2023-19.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título gratuito e pelo prazo prorrogável de 30 (trinta) anos, do Município de São Bernardo do Campo, nos termos da Lei municipal n° 7.276, de 15 de fevereiro de 2024, o imóvel localizado na Avenida General Barreto de Menezes, n° 301, Bairro Jardim Silvina, naquele Município, com área de 181,57m² (cento e oitenta e um metros quadrados e cinquenta e sete decímetros quadrados), inserido em área maior objeto da Matrícula n° 149.059 do 1° Oficial de Registro de Imóveis da Comarca de São Bernardo do Campo, cadastrado no SGI sob o n° 15187 e identificado e descrito nos autos do Processo Digital n° 025.00003592/2023-19.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para uso da Polícia Militar do Estado de São Paulo.
 

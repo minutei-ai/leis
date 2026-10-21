@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, da União Federal, mediante cessão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, prorrogável por iguais e sucessivos períodos, com os encargos especificados na Portaria SPU/MGI n° 4.997, de 25 de junho de 2025, o imóvel objeto da Matrícula n° 56.041, do 8° Ofício de Registro de Imóveis de São Paulo, com área total de 35.071,88 mÂ² (trinta e cinco mil e setenta e um metros quadrados e oitenta e oito decímetros quadrados), localizado na Avenida Rio Branco, n° 1.900, Campos Elíseos, São Paulo, identificado e descrito nos autos do Processo SEI n° 013.00004893/2025-15.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, da União Federal, mediante cessão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, prorrogável por iguais e sucessivos períodos, com os encargos especificados na Portaria SPU/MGI n° 4.997, de 25 de junho de 2025, o imóvel objeto da Matrícula n° 56.041, do 8° Ofício de Registro de Imóveis de São Paulo, com área total de 35.071,88 m² (trinta e cinco mil e setenta e um metros quadrados e oitenta e oito decímetros quadrados), localizado na Avenida Rio Branco, n° 1.900, Campos Elíseos, São Paulo, identificado e descrito nos autos do Processo SEI n° 013.00004893/2025-15.
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á à implantação do "Parque do Moinho", de acesso público e gratuito.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO,no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Ficam reclassificadas como de 1Âª Classe as Delegacias de Polícia adiante relacionadas, da Polícia Civil, da Secretaria da Segurança Pública:
+**Artigo 1° -** Ficam reclassificadas como de 1ª Classe as Delegacias de Polícia adiante relacionadas, da Polícia Civil, da Secretaria da Segurança Pública:
 
 I - do Departamento de Polícia Judiciária da Macro São Paulo - DEMACRO:
 
@@ -18,9 +18,9 @@ b) a Delegacia de Polícia de Defesa da Mulher de Franco da Rocha, da Delegacia 
 
 c) a Delegacia de Polícia de Defesa da Mulher de Ribeirão Pires, da Delegacia Seccional de Polícia de Santo André;
 
-II - a Delegacia de Polícia de Defesa da Mulher de Valinhos, da 1Âª Delegacia Seccional de Polícia de Campinas, do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 2 - Campinas.
+II - a Delegacia de Polícia de Defesa da Mulher de Valinhos, da 1ª Delegacia Seccional de Polícia de Campinas, do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 2 - Campinas.
 
-**Artigo 2° -** Ficam reclassificadas como de 2Âª Classe as Delegacias de Polícia adiante relacionadas, da Polícia Civil, da Secretaria da Segurança Pública:
+**Artigo 2° -** Ficam reclassificadas como de 2ª Classe as Delegacias de Polícia adiante relacionadas, da Polícia Civil, da Secretaria da Segurança Pública:
 
 I - a Delegacia de Polícia de Defesa da Mulher de Jaboticabal, da Delegacia Seccional de Polícia de Sertãozinho, do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 3 - Ribeirão Preto;
 

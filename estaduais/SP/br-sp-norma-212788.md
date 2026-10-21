@@ -116,7 +116,7 @@ V - Oficial: 24% (vinte e quatro por cento);
 
 VI - Cavaleiro / Dama: 40% (quarenta por cento).
 
-**Parágrafo único â€“** As admissões extraordinárias realizadas por indicação direta do Grão-Mestre serão consideradas não mobilizáveis e, por esse motivo, não serão computadas nos quantitativos deste artigo.
+**Parágrafo único –** As admissões extraordinárias realizadas por indicação direta do Grão-Mestre serão consideradas não mobilizáveis e, por esse motivo, não serão computadas nos quantitativos deste artigo.
 
 #### SEÇÃO III<br>
 Da Chancelaria e do Conselho de Outorgas

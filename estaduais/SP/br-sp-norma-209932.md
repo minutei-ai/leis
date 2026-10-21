@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.840, DE 05 DE SETEMBRO DE 2024
 
-### Autoriza a Fazenda do Estado a reÂ­ceber, mediante doação, sem ônus ou encargo, do Município de São Paulo, o imóvel que especifica.
+### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de São Paulo, o imóvel que especifica.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 
@@ -12,7 +12,7 @@ Decreta:  
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á à Secretaria da Educação, para fins educacionais.  
 
-**Artigo 3° -** Este decreto entra em viÂ­gor na data de sua publicação.  
+**Artigo 3° -** Este decreto entra em vi­gor na data de sua publicação.  
 
 TARCÍSIO DE FREITAS  
 

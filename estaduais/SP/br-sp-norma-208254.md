@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Fica ratificado o Convênio ICMS 81/23, celebrado em Brasília, DF, na 374Âª Reunião Extraordinária do CONFAZ, realizada nos dias 20 e 22 de junho de 2023, e publicado na página 1 da Seção 1 - Extra B da Edição 117-B do Diário Oficial da União do dia 22 de junho de 2023.
+**Artigo 1° -** Fica ratificado o Convênio ICMS 81/23, celebrado em Brasília, DF, na 374ª Reunião Extraordinária do CONFAZ, realizada nos dias 20 e 22 de junho de 2023, e publicado na página 1 da Seção 1 - Extra B da Edição 117-B do Diário Oficial da União do dia 22 de junho de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, o referido Convênio ICMS 81/23.
 
@@ -36,7 +36,7 @@ Publicado na Casa Civil, aos 11 de julho de 2023.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto que ratifica o Convênio ICMS 81/23, celebrado em Brasília, DF, na 374Âª Reunião Extraordinária do CONFAZ, realizada nos dias 20 e 22 de junho de 2023, e publicado na página 1 da Seção 1 - Extra B da Edição 117-B do Diário Oficial da União do dia 22 de junho de 2023.
+Encaminho a inclusa minuta de decreto que ratifica o Convênio ICMS 81/23, celebrado em Brasília, DF, na 374ª Reunião Extraordinária do CONFAZ, realizada nos dias 20 e 22 de junho de 2023, e publicado na página 1 da Seção 1 - Extra B da Edição 117-B do Diário Oficial da União do dia 22 de junho de 2023.
 
 O Convênio ICMS 81/23 autoriza as unidades federadas a conceder redução da base de cálculo do ICMS nas operações de importação realizadas por remessas postais ou expressas, de forma que a carga tributária seja equivalente a 17% (dezessete por cento), nesta inclusos eventuais adicionais previstos em legislação estadual, independentemente da classificação tributária do produto importado.
 

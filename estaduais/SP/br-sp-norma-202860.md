@@ -556,7 +556,7 @@ _\- Inciso II acrescentado pela [Lei Complementar n° 1.396, de 22/12/2023](http
 
 ~~**Parágrafo único -** O descumprimento de carga horária de que trata o "caput" deste artigo produzirá os efeitos cabíveis no mês de sua ocorrência, não se admitindo o cômputo de qualquer modalidade de saldo nos meses subsequentes.~~
 
-**Parágrafo único -** O desconto, de que trata o â€˜caputâ€™ deste artigo, produzirá os efeitos no mês de sua ocorrência, não se admitindo o cômputo de qualquer modalidade de saldo nos meses subsequentes. (NR)
+**Parágrafo único -** O desconto, de que trata o ‘caput’ deste artigo, produzirá os efeitos no mês de sua ocorrência, não se admitindo o cômputo de qualquer modalidade de saldo nos meses subsequentes. (NR)
 
 _\- Parágrafo único com redação dada pela [Lei Complementar n° 1.396, de 22/12/2023](https://www.al.sp.gov.br/norma/208992), com efeitos a partir de 01/01/2024._
 
@@ -1430,7 +1430,7 @@ a que se refere o artigo 83 da Lei Complementar n° 1.374 , de 30 de março de 2
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909374460640.png)
 
-#### **TABELA II â€“ 30 HORAS SEMANAIS**
+#### **TABELA II – 30 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909380679843.png)
 
@@ -1442,7 +1442,7 @@ a que se refere o artigo 83 da Lei Complementar n° 1.374 , de 30 de março de 2
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909383372141.png)
 
-#### **TABELA II â€“ 30 HORAS SEMANAIS** 
+#### **TABELA II – 30 HORAS SEMANAIS** 
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909385088637.png)
 
@@ -1458,7 +1458,7 @@ a que se refere o artigo 83 da Lei Complementar n° 1.374 , de 30 de março de 2
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909392619945.png)
 
-#### **TABELA II â€“ 30 HORAS SEMANAIS**
+#### **TABELA II – 30 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909395270438.png)
 
@@ -1466,7 +1466,7 @@ a que se refere o artigo 83 da Lei Complementar n° 1.374 , de 30 de março de 2
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909400971646.png)
 
-#### **TABELA IV â€“ 12 HORAS SEMANAIS**
+#### **TABELA IV – 12 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909403085744.png)
 
@@ -1474,19 +1474,19 @@ a que se refere o artigo 83 da Lei Complementar n° 1.374 , de 30 de março de 2
 
 #### **PROFESSOR EDUCAÇÃO BÁSICA II** 
 
-#### **TABELA I â€“ 40 HORAS SEMANAIS**
+#### **TABELA I – 40 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909405631741.png)
 
-#### **TABELA II â€“ 30 HORAS SEMANAIS**
+#### **TABELA II – 30 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909411466239.png)
 
-#### **TABELA III â€“ 24 HORAS SEMANAIS**
+#### **TABELA III – 24 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909414118437.png)
 
-#### **TABELA IV â€“ 12 HORAS SEMANAIS**
+#### **TABELA IV – 12 HORAS SEMANAIS**
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909415923045.png)
 
@@ -1500,7 +1500,7 @@ a que se refere o artigo 83 da Lei Complementar n° 1.374 , de 30 de março de 2
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909422785338.png)
 
-#### **TABELA II â€“ 24 HORAS SEMANAIS** 
+#### **TABELA II – 24 HORAS SEMANAIS** 
 
 ![](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/2023071909431016842.png)
 

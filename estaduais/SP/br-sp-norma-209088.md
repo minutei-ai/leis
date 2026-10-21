@@ -10,7 +10,7 @@ Decreta:
 
 **Artigo 1° -** O "caput" do artigo 1° do [Decreto n° 42.440, de 6 de novembro de 1997](https://www.al.sp.gov.br/norma/5816), passa a vigorar com a seguinte redação:
 
-"Artigo 1° - Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Venceslau, um imóvel com 228.180,00mÂ² (duzentos e vinte oito mil cento e oitenta metros quadrados) de área, localizado no km 623 da Rodovia Raposo Tavares, SP-270, objeto da Matrícula n° 22.680 do Cartório de Registro de Imóveis da Comarca de Presidente Venceslau, descrito e identificado no Processo Digital 006.00212399/2023-13.". (NR)
+"Artigo 1° - Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Venceslau, um imóvel com 228.180,00m² (duzentos e vinte oito mil cento e oitenta metros quadrados) de área, localizado no km 623 da Rodovia Raposo Tavares, SP-270, objeto da Matrícula n° 22.680 do Cartório de Registro de Imóveis da Comarca de Presidente Venceslau, descrito e identificado no Processo Digital 006.00212399/2023-13.". (NR)
 
 **Artigo 2° -** Fica acrescentado ao artigo 1° do [Decreto n° 42.440, de 6 de novembro de 1997](https://www.al.sp.gov.br/norma/5816), o parágrafo único, com a seguinte redação:
 

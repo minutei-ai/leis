@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogáveis automaticamente por iguais períodos, de Agropecuária Gino Bellodi Ltda., um terreno com 1.700mÂ² (mil e setecentos metros quadrados), parte do imóvel denominado "Sítio Santo Antônio", localizado na Rodovia Brigadeiro Faria Lima, km 342, no Município de Jaboticabal, objeto da Matrícula n° 51.151 do Oficial de Registro de Imóveis da Comarca de Jaboticabal, identificado e descrito nos autos do Processo Digital n° 057.00124121/2024-58.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogáveis automaticamente por iguais períodos, de Agropecuária Gino Bellodi Ltda., um terreno com 1.700m² (mil e setecentos metros quadrados), parte do imóvel denominado "Sítio Santo Antônio", localizado na Rodovia Brigadeiro Faria Lima, km 342, no Município de Jaboticabal, objeto da Matrícula n° 51.151 do Oficial de Registro de Imóveis da Comarca de Jaboticabal, identificado e descrito nos autos do Processo Digital n° 057.00124121/2024-58.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de antena de transmissão de rádio da Polícia Militar do Estado de São Paulo.
 

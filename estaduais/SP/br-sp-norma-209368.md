@@ -20,7 +20,7 @@ Decreta:    
 
 4\. em qualquer caso, a liberação da parcela única ou da primeira parcela fica condicionada à expedição de ordem de serviço e, no caso das parcelas subsequentes, à aprovação da prestação de contas atinente às anteriores.". (NR)
 
-**Artigo 2° -** Este decreto entra em viÂ­gor na data de sua publicação.        
+**Artigo 2° -** Este decreto entra em vi­gor na data de sua publicação.        
 
 TARCÍSIO DE FREITAS  
 

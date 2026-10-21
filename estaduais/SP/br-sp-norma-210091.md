@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Administração Penitenciária para a Secretaria de Saúde, a administração da área equivalente a 19.300mÂ² (dezenove mil e trezentos metros quadrados) identificada como parte anexa ao "Hospital de Custódia e Tratamento Psiquiátrico de Taubaté - Dr. Arnaldo Amado Ferreira", localizado na Avenida Amador Bueno de Veiga com Avenida Benedito Elias de Souza, inscrito no SGI sob o n° 21.592, identificado e descrito nos autos do Processo Digital n° 015.00007207/2023-31.
+**Artigo 1° -** Fica transferida, da Secretaria de Administração Penitenciária para a Secretaria de Saúde, a administração da área equivalente a 19.300m² (dezenove mil e trezentos metros quadrados) identificada como parte anexa ao "Hospital de Custódia e Tratamento Psiquiátrico de Taubaté - Dr. Arnaldo Amado Ferreira", localizado na Avenida Amador Bueno de Veiga com Avenida Benedito Elias de Souza, inscrito no SGI sob o n° 21.592, identificado e descrito nos autos do Processo Digital n° 015.00007207/2023-31.
 
 **Parágrafo único -** A área a que alude o caput deste artigo abriga o Ambulatório Médico de Especialidades - AME Taubaté.
 

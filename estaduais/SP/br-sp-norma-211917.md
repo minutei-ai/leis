@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel localizado na Rua Inácio Caetano, n° 564, no Município de Campos do Jordão, cadastrado no SGI sob o n° 26, com área de 500,00mÂ² (quinhentos metros quadrados), identificado e descrito nos autos do Processo Digital n° 018.00021000/2024-76.
+**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel localizado na Rua Inácio Caetano, n° 564, no Município de Campos do Jordão, cadastrado no SGI sob o n° 26, com área de 500,00m² (quinhentos metros quadrados), identificado e descrito nos autos do Processo Digital n° 018.00021000/2024-76.
 
 **Artigo 2° -** Este decreto entra em vigor na data de sua publicação.
 

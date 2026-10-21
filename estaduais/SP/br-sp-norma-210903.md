@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Paulo, uma área com 72,40mÂ² (setenta e dois metros quadrados e quarenta decímetros quadrados), situada na "Praça Califórnia", Bairro Jardim América, no referido Município, identificada e descrita nos autos do Processo Digital n° 025.00006956/2024-95.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Paulo, uma área com 72,40m² (setenta e dois metros quadrados e quarenta decímetros quadrados), situada na "Praça Califórnia", Bairro Jardim América, no referido Município, identificada e descrita nos autos do Processo Digital n° 025.00006956/2024-95.
 
 **Parágrafo único -** A área a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de um posto policial, da Polícia Militar do Estado de São Paulo.
 

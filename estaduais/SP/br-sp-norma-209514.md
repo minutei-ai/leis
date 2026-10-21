@@ -24,7 +24,7 @@ III- incentivar soluções sustentáveis, sob as perspectivas ambiental, social 
 
 **Artigo 3° -** A Secretaria de Parcerias em Investimentos coordenará a execução das atividades pertinentes à estruturação dos projetos objeto do Programa, incluindo:  
 
-I - avaliação do arcaboucÂ¸o juriÂ´dico vigente e de eventuais alterações que possam incentivar a adesão de Municípios;  
+I - avaliação do arcabouc¸o juri´dico vigente e de eventuais alterações que possam incentivar a adesão de Municípios;  
 
 II - prospecção, articulação e divulgação dos Municípios aderentes ao Programa;  
 

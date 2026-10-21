@@ -2,7 +2,7 @@
 
 # LEI N° 17.851, DE 05 DE DEZEMBRO DE 2023
 
-## (Projeto de lei n° 300/2022, da Deputada Marina Helou â€“ REDE)
+## (Projeto de lei n° 300/2022, da Deputada Marina Helou – REDE)
 
 ### Institui o "Dia da Conscientização Sobre o Acolhimento Familiar"
 

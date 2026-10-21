@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.072, DE 14 DE NOVEMBRO DE 2024
 
-### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria dos Transportes Metropolitanos para repasse à Empresa Metropolitana Transportes Urbanos â€“ EMTU, visando ao atendimento de Despesas de Capital.
+### Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria dos Transportes Metropolitanos para repasse à Empresa Metropolitana Transportes Urbanos – EMTU, visando ao atendimento de Despesas de Capital.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o disposto na [Lei n° 17.725, de 19 de julho de 2023](https://www.al.sp.gov.br/norma/208305), e na [Lei n° 17.863, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/209003),
 

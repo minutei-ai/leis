@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e por prazo indeterminado, em favor da Fundação Sistema Estadual de Análise de Dados - SEADE, de parte de imóvel localizado na Avenida Professor Lineu Prestes, n° 913, Bairro do Butantã, no Município de São Paulo, cadastrado no SGI sob n° 19.085, com 16.000,00mÂ² (dezesseis mil metros quadrados) de terreno, onde se encontram quatro edifícios denominados prédios "1", "3", "4" e "5", área de estacionamento de veículos, área de convivência externa, jardins, quadra poliesportiva e guarita, conforme descrito e identificado nos autos do processo 018.00015276/2023-34.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e por prazo indeterminado, em favor da Fundação Sistema Estadual de Análise de Dados - SEADE, de parte de imóvel localizado na Avenida Professor Lineu Prestes, n° 913, Bairro do Butantã, no Município de São Paulo, cadastrado no SGI sob n° 19.085, com 16.000,00m² (dezesseis mil metros quadrados) de terreno, onde se encontram quatro edifícios denominados prédios "1", "3", "4" e "5", área de estacionamento de veículos, área de convivência externa, jardins, quadra poliesportiva e guarita, conforme descrito e identificado nos autos do processo 018.00015276/2023-34.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à Fundação Sistema Estadual de Análise de Dados - SEADE, para cumprimento de suas atribuições.
 

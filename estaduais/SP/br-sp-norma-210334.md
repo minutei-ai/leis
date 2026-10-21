@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogável por iguais períodos, de José dos Santos e Passos e Maria do Carmo de Menezes Mendonça e Passos, um terreno com 150,00mÂ² (cento e cinquenta metros quadrados), parte do imóvel rural denominado "Fazenda José e Maria", situado na proximidade da Rodovia Brigadeiro Faria Lima, km 440, no Município de Barretos, objeto das Matrículas n°s 89.399 e 91.117 do Oficial de Registro de Imóveis e Anexos da Comarca de Barretos, identificado e descrito nos autos do Processo Digital 057.00225909/2023-08.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (vinte) anos, prorrogável por iguais períodos, de José dos Santos e Passos e Maria do Carmo de Menezes Mendonça e Passos, um terreno com 150,00m² (cento e cinquenta metros quadrados), parte do imóvel rural denominado "Fazenda José e Maria", situado na proximidade da Rodovia Brigadeiro Faria Lima, km 440, no Município de Barretos, objeto das Matrículas n°s 89.399 e 91.117 do Oficial de Registro de Imóveis e Anexos da Comarca de Barretos, identificado e descrito nos autos do Processo Digital 057.00225909/2023-08.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de antena de transmissão de rádio da Polícia Militar do Estado de São Paulo.
 

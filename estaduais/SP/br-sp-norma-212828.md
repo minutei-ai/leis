@@ -152,18 +152,18 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 | Coordenadoria de Gestão Educacional | 1 | Coordenador | CCESP 1.13 |
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 |   | 1 | Assistente II | CCESP 2.02 |
-| Divisão Educacional Regional â€“ 1 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 2 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 3 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 4 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 5 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 6 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 7 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 8 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 9 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 10 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 11 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
-| Divisão Educacional Regional â€“ 12 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 1 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 2 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 3 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 4 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 5 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 6 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 7 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 8 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 9 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 10 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 11 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
+| Divisão Educacional Regional – 12 | 1 | Chefe de Divisão | FCESP 1.10 (1) |
 | Coordenadoria Geral de Ensino Médio e Técnico | 1 | Coordenador Geral | CCESP 1.14 |
 |   | 1 | Assessor II | CCESP 2.10 |
 |   | 5 | Assistente Técnico IV | CCESP 2.08 |
@@ -200,18 +200,18 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 | Divisão de Alimentação Escolar | 1 | Chefe de Divisão | FCESP 1.09 (2) |
 | Divisão de Gestão Pedagógica | 1 | Chefe de Divisão | FCESP 1.10 (1) |
 |   | 1 | Assistente Técnico I | CCESP 2.05 |
-| Divisão Pedagógica Regional â€“ 1 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 2 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 3 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 4 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 5 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 6 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 7 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 8 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 9 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 10 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 11 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
-| Divisão Pedagógica Regional â€“ 12 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 1 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 2 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 3 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 4 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 5 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 6 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 7 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 8 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 9 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 10 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 11 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
+| Divisão Pedagógica Regional – 12 | 1 | Chefe de Divisão | FCESP 1.09 (1) |
 | Coordenadoria Geral de Formação Inicial e Educação Continuada | 1 | Coordenador Geral | CCESP 1.14 |
 | Coordenadoria Acadêmico-Administrativa | 1 | Coordenador | CCESP 1.13 |
 |   | 1 | Assistente Técnico IV | CCESP 2.08 |
@@ -767,7 +767,7 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
 | Serviço Acadêmico | 1 | Chefe de Serviço | CCESP 1.08 |
-| ESCOLA TÉCNICA ESTADUAL PROFESSOR JOSÉ SANTÂ´ANA DE CASTRO |   |   |   |
+| ESCOLA TÉCNICA ESTADUAL PROFESSOR JOSÉ SANT´ANA DE CASTRO |   |   |   |
 | Superintendência da ETEC | 1 | Superintendente | FCESP 1.12 (1) |
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
@@ -1878,7 +1878,7 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
 | Serviço Acadêmico | 1 | Chefe de Serviço | CCESP 1.08 |
-| FACULDADE DE TECNOLOGIA PROF.Âª ÉDI SALVI LIMA |   |   |   |
+| FACULDADE DE TECNOLOGIA PROF.ª ÉDI SALVI LIMA |   |   |   |
 | Coordenadoria da FATEC | 1 | Coordenador | FCESP 1.13 (1) |
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
@@ -1973,7 +1973,7 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
 | Serviço Acadêmico | 1 | Chefe de Serviço | CCESP 1.08 |
-| ESCOLA TÉCNICA ESTADUAL VEREADOR VALDIVINO ANTÔNIO MARCUSSO â€“ ETEC DE BOITUVA |   |   |   |
+| ESCOLA TÉCNICA ESTADUAL VEREADOR VALDIVINO ANTÔNIO MARCUSSO – ETEC DE BOITUVA |   |   |   |
 | Superintendência da ETEC | 1 | Superintendente | FCESP 1.12 (1) |
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
@@ -1983,7 +1983,7 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |
 | Serviço Acadêmico | 1 | Chefe de Serviço | CCESP 1.08 |
-| FACULDADE DE TECNOLOGIA BARUERI â€“ INOVASAÚDE |   |   |   |
+| FACULDADE DE TECNOLOGIA BARUERI – INOVASAÚDE |   |   |   |
 | Coordenadoria da FATEC | 1 | Coordenador | FCESP 1.13 (1) |
 |   | 1 | Assistente Técnico II | CCESP 2.06 |
 | Serviço Administrativo e Financeiro | 1 | Chefe de Serviço | CCESP 1.08 |

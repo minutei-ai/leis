@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.766, DE 09 DE AGOSTO DE 2024
 
-### Cria a Faculdade de Tecnologia â€“ FATEC de Itapevi, no Município de Itapevi, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" â€“ CEETEPS, e dá providências correlatas.
+### Cria a Faculdade de Tecnologia – FATEC de Itapevi, no Município de Itapevi, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" – CEETEPS, e dá providências correlatas.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,    
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Tabatinga, de parte do imóvel objeto da Matrícula n° 64.320 do Cartório de Registro de Imóveis da Comarca de Ibitinga, localizado na Rua Quintino do Vale, n° 299, Centro, naquele Município, cadastrado no SGI sob o n° 3282, parte essa com área de 108,55mÂ² (cento e oito metros quadrados e cinquenta e cinco decímetros quadrados), identificada e descrita nos autos do Processo Digital n° 007.00025278/2025-69.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Tabatinga, de parte do imóvel objeto da Matrícula n° 64.320 do Cartório de Registro de Imóveis da Comarca de Ibitinga, localizado na Rua Quintino do Vale, n° 299, Centro, naquele Município, cadastrado no SGI sob o n° 3282, parte essa com área de 108,55m² (cento e oito metros quadrados e cinquenta e cinco decímetros quadrados), identificada e descrita nos autos do Processo Digital n° 007.00025278/2025-69.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação do Projeto Guri.
 

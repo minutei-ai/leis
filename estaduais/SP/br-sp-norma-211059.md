@@ -4,7 +4,7 @@
 
 ### Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de veículos e passageiros denominado "Sistema de Travessias", e aprova o respectivo regulamento.
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando a aprovação, pelo Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, criado pela [Lei n° 11.688, de 19 de maio de 2004](https://www.al.sp.gov.br/norma/50875), do modelo de concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de passageiros e veículos denominado "Sistema de Travessias", por ocasião da 53Âª Reunião Conjunta Ordinária do Programa Estadual de Desestatização - CDPED e do CGPPP, ocorrida em 29 de maio de 2025, cuja ata foi publicada no Diário Oficial de 4 de junho de 2025,
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando a aprovação, pelo Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, criado pela [Lei n° 11.688, de 19 de maio de 2004](https://www.al.sp.gov.br/norma/50875), do modelo de concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de passageiros e veículos denominado "Sistema de Travessias", por ocasião da 53ª Reunião Conjunta Ordinária do Programa Estadual de Desestatização - CDPED e do CGPPP, ocorrida em 29 de maio de 2025, cuja ata foi publicada no Diário Oficial de 4 de junho de 2025,
 
 Decreta:
 
@@ -44,7 +44,7 @@ V - Paraibuna:
 
 a) Travessia Terminal de Varginha, entre Varginha e Comércio Varginha;
 
-b) Travessia Terminal Paraitinga, entre Capim Dâ€™Angola e Ribeirão Branco;
+b) Travessia Terminal Paraitinga, entre Capim D’Angola e Ribeirão Branco;
 
 c) Travessia Terminal Natividade da Serra, entre Natividade da Serra, Pouso Alto e Bairro Alto.
 
@@ -135,7 +135,7 @@ V - Paraibuna:
 
 a) Travessia Terminal de Varginha, entre Varginha e Comércio Varginha;
 
-b) Travessia Terminal Paraitinga, entre Capim Dâ€™Angola e Ribeirão Branco;
+b) Travessia Terminal Paraitinga, entre Capim D’Angola e Ribeirão Branco;
 
 c) Travessia Terminal Natividade da Serra, entre Natividade da Serra - Pouso Alto- Bairro Alto.
 

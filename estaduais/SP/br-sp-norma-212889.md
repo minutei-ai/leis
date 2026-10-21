@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de um terreno com área de 5.492,60mÂ² (cinco mil quatrocentos e noventa e dois metros quadrados e sessenta decímetros quadrados), localizado na Rua Cristóbal Cláudio Elillo, n° 366, Bairro Parque Cecap, no Município de Guarulhos, parte do imóvel objeto da Matrícula n° 13.157 do 1° Oficial de Registro de Imóveis da Comarca da Guarulhos, cadastrado no SGI sob o n° 35033, identificado e descrito nos autos do Processo Digital n° 057.00107474/2024-93.
+**Artigo 1° -** Fica transferida, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de um terreno com área de 5.492,60m² (cinco mil quatrocentos e noventa e dois metros quadrados e sessenta decímetros quadrados), localizado na Rua Cristóbal Cláudio Elillo, n° 366, Bairro Parque Cecap, no Município de Guarulhos, parte do imóvel objeto da Matrícula n° 13.157 do 1° Oficial de Registro de Imóveis da Comarca da Guarulhos, cadastrado no SGI sob o n° 35033, identificado e descrito nos autos do Processo Digital n° 057.00107474/2024-93.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à instalação de uma unidade da Polícia Militar do Estado de São Paulo.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de São José do Rio Preto, nos termos da Lei municipal n° 10.769, de 13 de setembro de 2010, alterada pela Lei n° 11.208, de 1° de junho de 2012, o terreno objeto da Matrícula n° 82.713 do 2° Oficial de Registro de Imóveis da Comarca de São José do Rio Preto, localizado na quadra ladeada pelas Ruas Dante Andreoli, Brasilina Tomás de Aquino, Afonso Parisi e Severino Marques, Bairro Jardim Residencial Tangará, naquele Município, com 6.603,76mÂ² (seis mil seiscentos e três metros quadrados e setenta e seis decímetros quadrados), identificado e descrito nos autos do Processo n° 057.00115085/2024-31.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de São José do Rio Preto, nos termos da Lei municipal n° 10.769, de 13 de setembro de 2010, alterada pela Lei n° 11.208, de 1° de junho de 2012, o terreno objeto da Matrícula n° 82.713 do 2° Oficial de Registro de Imóveis da Comarca de São José do Rio Preto, localizado na quadra ladeada pelas Ruas Dante Andreoli, Brasilina Tomás de Aquino, Afonso Parisi e Severino Marques, Bairro Jardim Residencial Tangará, naquele Município, com 6.603,76m² (seis mil seiscentos e três metros quadrados e setenta e seis decímetros quadrados), identificado e descrito nos autos do Processo n° 057.00115085/2024-31.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de uma unidade da Polícia Militar do Estado de São Paulo.
 

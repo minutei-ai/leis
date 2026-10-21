@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 193/23, 199/23, 203/23 e 210/23, celebrados em Bonito, MS, na 191Âª Reunião Ordinária do CONFAZ, realizada no dia 8 de dezembro de 2023, e publicados na página 116 da Seção I da Edição 235 do Diário Oficial da União do dia 12 de dezembro de 2023 e na página 71 da Seção I da Edição 236 do Diário Oficial da União do dia 13 de dezembro de 2023.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 193/23, 199/23, 203/23 e 210/23, celebrados em Bonito, MS, na 191ª Reunião Ordinária do CONFAZ, realizada no dia 8 de dezembro de 2023, e publicados na página 116 da Seção I da Edição 235 do Diário Oficial da União do dia 12 de dezembro de 2023 e na página 71 da Seção I da Edição 236 do Diário Oficial da União do dia 13 de dezembro de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 193/23, 199/23 e 203/23.
 
@@ -32,7 +32,7 @@ Publicado na Casa Civil, aos 29 de dezembro de 2023.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto (SEI 0015835089) que ratifica os convênios abaixo relacionados, celebrados em Bonito, MS, na 191Âª Reunião Ordinária do CONFAZ, realizada no dia 8 de dezembro de 2023, e publicados na página 116 da Seção I da Edição 235 do Diário Oficial da União do dia 12 de dezembro de 2023 e na página 71 da Seção I da Edição 236 do Diário Oficial da União do dia 13 de dezembro de 2023:
+Encaminho a inclusa minuta de decreto (SEI 0015835089) que ratifica os convênios abaixo relacionados, celebrados em Bonito, MS, na 191ª Reunião Ordinária do CONFAZ, realizada no dia 8 de dezembro de 2023, e publicados na página 116 da Seção I da Edição 235 do Diário Oficial da União do dia 12 de dezembro de 2023 e na página 71 da Seção I da Edição 236 do Diário Oficial da União do dia 13 de dezembro de 2023:
 
 a) o Convênio ICMS 193/23, altera o Convênio ICMS n° 87/02, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal;
 

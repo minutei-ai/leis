@@ -18,9 +18,9 @@ a) os incisos I a IX:
 
 II - FEAP SP - Programa Microbacias - Desenvolvimento Rural Sustentável;
 
-III - FEAP SP - Programa PSA - Pagamentos por Serviços Ambientais - Berços Dâ€™água e Águas Rurais;
+III - FEAP SP - Programa PSA - Pagamentos por Serviços Ambientais - Berços D’água e Águas Rurais;
 
-IV - FEAP SP - Programa Matas Ciliares - Recuperação de Matas Ciliares, Nascentes e Olhos Dâ€™água;
+IV - FEAP SP - Programa Matas Ciliares - Recuperação de Matas Ciliares, Nascentes e Olhos D’água;
 
 V - FEAP SP - Programa Florestas Paulistas - Florestas Multifuncionais;
 
@@ -42,7 +42,7 @@ II - o parágrafo único do artigo 3°:
 
 III - o artigo 5°:
 
-"Artigo 5° - O Programa PSA - Pagamento por Serviços Ambientais - Berços Dâ€™ Água e Águas Rurais tem como objetivo o apoio à recuperação de áreas degradadas, à proteção das nascentes e sua área de preservação permanente, o uso social da água no meio rural, e o tratamento e destinação dos efluentes.
+"Artigo 5° - O Programa PSA - Pagamento por Serviços Ambientais - Berços D’ Água e Águas Rurais tem como objetivo o apoio à recuperação de áreas degradadas, à proteção das nascentes e sua área de preservação permanente, o uso social da água no meio rural, e o tratamento e destinação dos efluentes.
 
 Parágrafo único - O apoio será realizado através da concessão de subvenção econômica, correspondente ao reembolso parcial das despesas efetuadas pelos produtores rurais na adoção das práticas recomendadas, desde que enquadrados como beneficiários e detenham autorização de execução de prática reembolsável emitida pela Secretaria de Agricultura e Abastecimento, através da CATI e obedecendo às leis ambientais."; (NR)
 
@@ -58,11 +58,11 @@ b) a Seção III:
 
 c) a Seção IV:
 
-"Seção IV - Do FEAP SP - Programa PSA - Pagamentos por Serviços Ambientais - Berços Dâ€™Água e Águas Rurais"; (NR)
+"Seção IV - Do FEAP SP - Programa PSA - Pagamentos por Serviços Ambientais - Berços D’Água e Águas Rurais"; (NR)
 
 d) a Seção V:
 
-"Seção V - Do FEAP SP - Programa Matas Ciliares - Recuperação de Matas Ciliares, Nascentes e Olhos Dâ€™água"; (NR)
+"Seção V - Do FEAP SP - Programa Matas Ciliares - Recuperação de Matas Ciliares, Nascentes e Olhos D’água"; (NR)
 
 e) a Seção VI:
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Paulo, uma área com 81,00mÂ² (oitenta e um metros quadrados), situada no Parque Tenente Siqueira Campos, no referido Município, identificada e descrita nos autos do Processo Digital 025.00006952/2024-15.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Paulo, uma área com 81,00m² (oitenta e um metros quadrados), situada no Parque Tenente Siqueira Campos, no referido Município, identificada e descrita nos autos do Processo Digital 025.00006952/2024-15.
 
 **Parágrafo único -** A área a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de um posto policial, da Polícia Militar do Estado de São Paulo.
 

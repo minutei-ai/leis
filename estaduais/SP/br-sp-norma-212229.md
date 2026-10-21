@@ -30,7 +30,7 @@ IV - o "caput" do artigo 26 passa a vigorar com nova redação, e ficam-lhe acre
 
 "Artigo 26 - Assegurar-se-á nas Comissões Permanentes e Temporárias, tanto quanto possível, a representação proporcional dos Partidos, a qual se define com o número de lugares reservados aos Partidos em cada Comissão. Na distribuição das vagas, observar-se-á o seguinte:
 
-I - no caso das Comissões Permanentes, tomar-se-ão em conta as composições das Bancadas 5 dias após o início da 1Âª sessão legislativa e, para o segundo biênio, em 1° de fevereiro;
+I - no caso das Comissões Permanentes, tomar-se-ão em conta as composições das Bancadas 5 dias após o início da 1ª sessão legislativa e, para o segundo biênio, em 1° de fevereiro;
 
 II - no caso das Comissões Temporárias, tomar-se-ão em conta as composições das Bancadas:
 
@@ -42,11 +42,11 @@ V - o § 1° do artigo 27 passa a vigorar com a seguinte redação:
 
 "Artigo 27 - (...)
 
-§ 1° - Os Líderes farão a indicação dentro do prazo de 15 dias, contados do início da 1Âª sessão legislativa e de 1° de fevereiro na 3Âª sessão legislativa, ou da publicação do ato de criação de Comissão Parlamentar de Inquérito. Decorrido esse prazo sem a indicação, o Presidente da Assembleia nomeará os membros das Comissões imediatamente, observando, tanto quanto possível, a representação proporcional dos Partidos." (NR)
+§ 1° - Os Líderes farão a indicação dentro do prazo de 15 dias, contados do início da 1ª sessão legislativa e de 1° de fevereiro na 3ª sessão legislativa, ou da publicação do ato de criação de Comissão Parlamentar de Inquérito. Decorrido esse prazo sem a indicação, o Presidente da Assembleia nomeará os membros das Comissões imediatamente, observando, tanto quanto possível, a representação proporcional dos Partidos." (NR)
 
 VI - o artigo 29 passa a vigorar com a seguinte redação:
 
-"Artigo 29 - Iniciados os trabalhos da 1Âª sessão legislativa e a partir de 1° de fevereiro na 3Âª sessão legislativa, a Mesa providenciará a organização das Comissões Permanentes, dentro do prazo improrrogável de 15 dias." (NR)
+"Artigo 29 - Iniciados os trabalhos da 1ª sessão legislativa e a partir de 1° de fevereiro na 3ª sessão legislativa, a Mesa providenciará a organização das Comissões Permanentes, dentro do prazo improrrogável de 15 dias." (NR)
 
 VII - o § 1° do artigo 78 passa a vigorar com a seguinte redação:
 

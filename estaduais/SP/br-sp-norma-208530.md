@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 92/23, 93/23 e 101/23 celebrados em Aracaju, SE, na 189Âª Reunião Ordinária do CONFAZ, realizada no dia 4 de agosto de 2023, e publicados na página 37 da Seção I da Edição 150 do Diário Oficial da União do dia 8 de agosto de 2023.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 92/23, 93/23 e 101/23 celebrados em Aracaju, SE, na 189ª Reunião Ordinária do CONFAZ, realizada no dia 4 de agosto de 2023, e publicados na página 37 da Seção I da Edição 150 do Diário Oficial da União do dia 8 de agosto de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 92/23, 93/23 e 101/23
 
@@ -36,7 +36,7 @@ Publicado na Casa Civil, aos 18 de setembro de 2023.
 
 Senhor Governador,
 
-Encaminho a minuta de decreto (doc. 5252749) que ratifica os convênios abaixo relacionados, celebrados em Aracaju, SE, na 189Âª Reunião Ordinária do CONFAZ, realizada no dia 04 de agosto de 2023, e publicados na página 37 da Seção I da Edição 150 do Diário Oficial da União do dia 08 de agosto de 2023:
+Encaminho a minuta de decreto (doc. 5252749) que ratifica os convênios abaixo relacionados, celebrados em Aracaju, SE, na 189ª Reunião Ordinária do CONFAZ, realizada no dia 04 de agosto de 2023, e publicados na página 37 da Seção I da Edição 150 do Diário Oficial da União do dia 08 de agosto de 2023:
 
 a) o Convênio ICMS 92/23, que altera o Convênio ICMS 87/02, o qual concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal;
 

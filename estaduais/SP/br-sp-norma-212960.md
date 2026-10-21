@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Campinas, o imóvel objeto da Matrícula n° 301.422 do 3° Oficial de Registro de Imóveis da Comarca de Campinas, localizado no Equipamento Público Comunitário (EPC) da Quadra A2 do Loteamento Conjunto Habitacional Parque Itajaí - Continuação, no referido Município, com área de 4.908,03mÂ² (quatro mil novecentos e oito metros quadrados e três decímetros quadrados), identificado e descrito nos autos do Processo Digital n° 001.00010094/2025-63.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Campinas, o imóvel objeto da Matrícula n° 301.422 do 3° Oficial de Registro de Imóveis da Comarca de Campinas, localizado no Equipamento Público Comunitário (EPC) da Quadra A2 do Loteamento Conjunto Habitacional Parque Itajaí - Continuação, no referido Município, com área de 4.908,03m² (quatro mil novecentos e oito metros quadrados e três decímetros quadrados), identificado e descrito nos autos do Processo Digital n° 001.00010094/2025-63.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à implantação de uma unidade do Programa Praça da Cidadania, no âmbito do qual serão realizados projetos e cursos de capacitação sob a coordenação do Fundo Social de São Paulo - FUSSP, nos termos do [Decreto n° 64.160, de 28 de março de 2019](https://www.al.sp.gov.br/norma/190005).
 

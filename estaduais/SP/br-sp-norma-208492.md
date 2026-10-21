@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Presidente Venceslau, de parte do imóvel denominado Penitenciária "Zwinglio Ferreira" de Presidente Venceslau, objeto das Transcrições n°s 5.191 e 8.026, ambas do Ofício de Registro de Imóveis da Comarca de Presidente Venceslau, cadastrado no SGI sob o n° 21.594, parte essa consistente em uma faixa de terra com 670,337mÂ² (seiscentos e setenta metros quadrados e três mil trezentos e setenta centímetros quadrados), identificada e descrita nos autos do Processo Digital 018.00000459/2023-55.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Presidente Venceslau, de parte do imóvel denominado Penitenciária "Zwinglio Ferreira" de Presidente Venceslau, objeto das Transcrições n°s 5.191 e 8.026, ambas do Ofício de Registro de Imóveis da Comarca de Presidente Venceslau, cadastrado no SGI sob o n° 21.594, parte essa consistente em uma faixa de terra com 670,337m² (seiscentos e setenta metros quadrados e três mil trezentos e setenta centímetros quadrados), identificada e descrita nos autos do Processo Digital 018.00000459/2023-55.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à passagem às expensas do Município de Presidente Venceslau, de emissário de esgoto.
 

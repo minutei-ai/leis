@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Turismo e Viagens para a Secretaria de Parcerias em Investimentos, a administração do imóvel localizado na Avenida Miguel Stefano, n° 3.900, Bairro Água Funda, no Município de São Paulo, com área de 331.751,50 mÂ² (trezentos e trinta e um mil setecentos e cinquenta e um metros quadrados e cinquenta decímetros quadrados), onde se encontra instalado o Recinto de Exposições "Sálvio Pacheco de Almeida Prado", cadastrado no SGI sob o n° 56.271 e identificado nos autos do Processo Digital 027.00000067/2025-49.
+**Artigo 1° -** Fica transferida, da Secretaria de Turismo e Viagens para a Secretaria de Parcerias em Investimentos, a administração do imóvel localizado na Avenida Miguel Stefano, n° 3.900, Bairro Água Funda, no Município de São Paulo, com área de 331.751,50 m² (trezentos e trinta e um mil setecentos e cinquenta e um metros quadrados e cinquenta decímetros quadrados), onde se encontra instalado o Recinto de Exposições "Sálvio Pacheco de Almeida Prado", cadastrado no SGI sob o n° 56.271 e identificado nos autos do Processo Digital 027.00000067/2025-49.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à exploração do empreendimento São Paulo Expo, nos termos do Contrato de Concessão de Direito de Uso e Exploração de Bem Público n° 031/2013- GS.
 

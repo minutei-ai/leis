@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e ten
 
 Decreta:    
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 59/24 e 61/24, celebrados em Brasília, DF, na 392Âª Reunião Extraordinária do CONFAZ, realizada no dia 17 de maio de 2024, e publicados na página 29 da Seção I da Edição 96 do Diário Oficial da União do dia 20 de maio de 2024.  
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 59/24 e 61/24, celebrados em Brasília, DF, na 392ª Reunião Extraordinária do CONFAZ, realizada no dia 17 de maio de 2024, e publicados na página 29 da Seção I da Edição 96 do Diário Oficial da União do dia 20 de maio de 2024.  
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 59/24 e 61/24.    
 

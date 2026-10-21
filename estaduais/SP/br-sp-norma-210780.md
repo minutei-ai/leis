@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, do imóvel localizado na Rua Piratininga, n° 85, Bairro Brás, no Município de São Paulo, com área de 1.884,29mÂ² (um mil oitocentos e oitenta e quatro metros quadrados e vinte e nove decímetros quadrados) de terreno e 6.836,70mÂ² (seis mil oitocentos e trinta e seis metros quadrados e setenta decímetros quadrados) de área construída, identificado e descrito nos autos do Processo Digital n° 161.00035722/2023-91.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, do imóvel localizado na Rua Piratininga, n° 85, Bairro Brás, no Município de São Paulo, com área de 1.884,29m² (um mil oitocentos e oitenta e quatro metros quadrados e vinte e nove decímetros quadrados) de terreno e 6.836,70m² (seis mil oitocentos e trinta e seis metros quadrados e setenta decímetros quadrados) de área construída, identificado e descrito nos autos do Processo Digital n° 161.00035722/2023-91.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á a abrigar Centros de Atendimento da Fundação CASA.
 

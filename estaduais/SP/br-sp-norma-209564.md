@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 
 Decreta:    
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título precário e gratuito, a vigorar até 26 de agosto de 2045, do Município de Martinópolis, o imóvel localizado na Rua José Teodoro n° 9, Centro, naquele município, com área de 465,60mÂ² (quatrocentos e sessenta e cinco metros quadrados e sessenta decímetros quadrados) de terreno e 422,71mÂ² (quatrocentos e vinte e dois metros quadrados e setenta e um decímetro quadrados) de área construída, identificado e descrito nos autos do Processo Digital 057.00190012/2023-48
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título precário e gratuito, a vigorar até 26 de agosto de 2045, do Município de Martinópolis, o imóvel localizado na Rua José Teodoro n° 9, Centro, naquele município, com área de 465,60m² (quatrocentos e sessenta e cinco metros quadrados e sessenta decímetros quadrados) de terreno e 422,71m² (quatrocentos e vinte e dois metros quadrados e setenta e um decímetro quadrados) de área construída, identificado e descrito nos autos do Processo Digital 057.00190012/2023-48
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para uso da Polícia Militar do Estado de São Paulo.    
 

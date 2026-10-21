@@ -8,11 +8,11 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° â€“** O artigo 1° do [Decreto n° 70.273, de 23 de dezembro de 2025](https://www.al.sp.gov.br/norma/212099), passa a vigorar acrescido de parágrafo único, com a seguinte redação:
+**Artigo 1° –** O artigo 1° do [Decreto n° 70.273, de 23 de dezembro de 2025](https://www.al.sp.gov.br/norma/212099), passa a vigorar acrescido de parágrafo único, com a seguinte redação:
 
 "Parágrafo único - O expediente do dia 28 de outubro de 2026 (quarta-feira - Dia do Servidor Público) será normal, sendo considerado ponto facultativo, em substituição, o dia 30 de outubro (sexta-feira).".
 
-**Artigo 2° â€“** Este decreto entra em vigor na data de sua publicação, ficando revogado o inciso VIII do artigo 1° do [Decreto n° 70.273, de 23 de dezembro de 2025](https://www.al.sp.gov.br/norma/212099).
+**Artigo 2° –** Este decreto entra em vigor na data de sua publicação, ficando revogado o inciso VIII do artigo 1° do [Decreto n° 70.273, de 23 de dezembro de 2025](https://www.al.sp.gov.br/norma/212099).
 
 TARCÍSIO DE FREITAS
 

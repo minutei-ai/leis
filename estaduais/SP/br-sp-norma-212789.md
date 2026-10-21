@@ -135,7 +135,7 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria possui caráter personalíssimo e intransferível, sendo o diploma o documento formal e oficial que atesta sua autenticidade.
 
-**Parágrafo único â€“** O diploma será expedido uma única vez. Em caso de extravio, poderá ser emitida carta oficial da instituição ratificando a autenticidade do agraciamento e informando os respectivos dados de registro.
+**Parágrafo único –** O diploma será expedido uma única vez. Em caso de extravio, poderá ser emitida carta oficial da instituição ratificando a autenticidade do agraciamento e informando os respectivos dados de registro.
 
 **Artigo 19 -** Conforme previsto no artigo 3°, inciso IV, alínea "b", deste decreto, compete à Comissão de Outorgas manter o controle dos agraciados, indicando o número do Livro e o número da Página ou Sequência em que cada personalidade foi registrada.
 

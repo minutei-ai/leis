@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.185, DE 11 DE DEZEMBRO DE 2023
 
-### Dispõe sobre a elaboração do Termo de Referência â€“ TR para a aquisição de bens e a contratação de serviços, nos termos da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo
+### Dispõe sobre a elaboração do Termo de Referência – TR para a aquisição de bens e a contratação de serviços, nos termos da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

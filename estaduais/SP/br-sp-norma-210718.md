@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 30 anos, em favor do Município de Ourinhos, de parte do imóvel situado na Rua Eduardo Perez, n° 600, Loteamento Maria Christoni, no referido Município, inscrito no SGI sob o n° 24788, parte essa com área de 56.372,95mÂ² (cinquenta e seis mil trezentos e setenta e dois metros quadrados e noventa e cinco decímetros quadrados), identificada e descrita os autos do Processo Digital n° 016.00003128/2023-23.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 30 anos, em favor do Município de Ourinhos, de parte do imóvel situado na Rua Eduardo Perez, n° 600, Loteamento Maria Christoni, no referido Município, inscrito no SGI sob o n° 24788, parte essa com área de 56.372,95m² (cinquenta e seis mil trezentos e setenta e dois metros quadrados e noventa e cinco decímetros quadrados), identificada e descrita os autos do Processo Digital n° 016.00003128/2023-23.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á ao desenvolvimento de atividades esportivas, de lazer e de integração social.
 

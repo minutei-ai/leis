@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de São Paulo, de um terreno com área de 500mÂ² (quinhentos metros quadrados), localizado no Núcleo de Lazer, Cultura e Esporte Jardim Helena, no Parque Estadual Várzeas do Tietê, objeto da Matrícula n° 29.101 do 12° Ofício de Registro de Imóveis da Capital, cadastrado no SGI sob o n° 65.229, identificado e descrito nos autos do Processo 020.00000973/2024-50.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de São Paulo, de um terreno com área de 500m² (quinhentos metros quadrados), localizado no Núcleo de Lazer, Cultura e Esporte Jardim Helena, no Parque Estadual Várzeas do Tietê, objeto da Matrícula n° 29.101 do 12° Ofício de Registro de Imóveis da Capital, cadastrado no SGI sob o n° 65.229, identificado e descrito nos autos do Processo 020.00000973/2024-50.
 
 **Artigo 2° -** O terreno a que alude o "caput" deste artigo destinar-se-á à ampliação do ecoponto instalado no local.
 

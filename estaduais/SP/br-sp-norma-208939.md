@@ -6,7 +6,7 @@
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
-Considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado de "Lote Litoral Paulista", novo lote de concessão rodoviária do Estado de São Paulo, por ocasião da 41Âª Reunião Conjunta Ordinária do CDPED e do CGPPP, ocorrida em 14 de novembro de 2023, cuja ata foi publicada no Diário Oficial de 23 de novembro de 2023;
+Considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado de "Lote Litoral Paulista", novo lote de concessão rodoviária do Estado de São Paulo, por ocasião da 41ª Reunião Conjunta Ordinária do CDPED e do CGPPP, ocorrida em 14 de novembro de 2023, cuja ata foi publicada no Diário Oficial de 23 de novembro de 2023;
 
 Considerando a implementação de novos mecanismos contratuais e inovações tecnológicas na prestação de serviços, tais como verificação de projetos por meio de empresa certificadora, utilização da metodologia "International Road Assessment Programme", emprego de sistema de gerenciamento de obras por meio de "Building Information Model" e adoção do Sistema Automático Livre no Sistema Rodoviário, entre outros;
 

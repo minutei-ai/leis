@@ -14,7 +14,7 @@ Decreta:    
 
 **Artigo 3° -** A permissão de uso de que trata este decreto será efetivada por meio de termo a ser lavrado pela unidade competente da Procuradoria Geral do Estado, do qual deverão constar as condições impostas pela permitente.    
 
-**Artigo 4° -** Este decreto entra em viÂ­gor na data de sua publicação.          
+**Artigo 4° -** Este decreto entra em vi­gor na data de sua publicação.          
 
 TARCÍSIO DE FREITAS  
 

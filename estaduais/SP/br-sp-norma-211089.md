@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 30 (trinta) anos, em favor do Município de Guará, de parte do imóvel objeto da Transcrição n° 20.163 do Oficial de Registro de Imóveis e Anexos da Comarca de Ituverava, localizado na Avenida Doutor Francisco de Paula Leão, n° 1.922, Centro, naquele Município, cadastrado no SGI sob o n° 67709, parte essa com 8.274,73mÂ² (oito mil duzentos e setenta e quatro metros quadrados e setenta e três decímetros quadrados) de terreno e 3.069,00mÂ² (três mil e sessenta e nove metros quadrados) de área construída, identificada e descrita nos autos do Processo Digital n° 015.00418105/2023-48.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, pelo prazo de 30 (trinta) anos, em favor do Município de Guará, de parte do imóvel objeto da Transcrição n° 20.163 do Oficial de Registro de Imóveis e Anexos da Comarca de Ituverava, localizado na Avenida Doutor Francisco de Paula Leão, n° 1.922, Centro, naquele Município, cadastrado no SGI sob o n° 67709, parte essa com 8.274,73m² (oito mil duzentos e setenta e quatro metros quadrados e setenta e três decímetros quadrados) de terreno e 3.069,00m² (três mil e sessenta e nove metros quadrados) de área construída, identificada e descrita nos autos do Processo Digital n° 015.00418105/2023-48.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á ao uso da EMEB Marica Ogava de Freitas.
 

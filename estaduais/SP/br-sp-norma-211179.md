@@ -40,9 +40,9 @@ a) Serviço Técnico de Monitoramento Legal de Telecomunicações - SETEL;
 
 b) Centro de Comunicações e Operações da Polícia Civil - CEPOL;
 
-c) 1Âª Delegacia de Polícia Eletrônica, com Assistência Policial e 12 (doze) Equipes Básicas de Plantão;
+c) 1ª Delegacia de Polícia Eletrônica, com Assistência Policial e 12 (doze) Equipes Básicas de Plantão;
 
-d) 2Âª Delegacia de Polícia Eletrônica, com Assistência Policial e 12 (doze) Equipes Básicas de Plantão;
+d) 2ª Delegacia de Polícia Eletrônica, com Assistência Policial e 12 (doze) Equipes Básicas de Plantão;
 
 II - Divisão de Inteligência Policial, com:
 

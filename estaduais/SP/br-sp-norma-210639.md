@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, em favor da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, de parte do imóvel objeto da Matrícula n° 38.247 do Cartório de Registro de Imóveis da Comarca de Itapetininga, localizado na Rodovia Gladys Bernardes Minhoto, SP-129, km 63, Bairro Vila Belo Horizonte, no Município de Itapetininga, cadastrado no SGI sob o n° 21567, parte essa com área de 4.500,00mÂ² (quatro mil e quinhentos metros quadrados), identificada e descrita nos autos do Processo Digital 161.00184199/2024-15.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, em favor da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, de parte do imóvel objeto da Matrícula n° 38.247 do Cartório de Registro de Imóveis da Comarca de Itapetininga, localizado na Rodovia Gladys Bernardes Minhoto, SP-129, km 63, Bairro Vila Belo Horizonte, no Município de Itapetininga, cadastrado no SGI sob o n° 21567, parte essa com área de 4.500,00m² (quatro mil e quinhentos metros quadrados), identificada e descrita nos autos do Processo Digital 161.00184199/2024-15.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á ao uso do Centro de Atendimento Socioeducativo ao Adolescente de Itapetininga - CASA Esperança.
 

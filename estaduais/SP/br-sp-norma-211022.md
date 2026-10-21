@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel localizado na Avenida Manoel Adônias, n° 44, no Município de Guarantã, cadastrado no SGI sob o n° 24389, com área de 450,00mÂ² (quatrocentos e cinquenta metros quadrados), identificado e descrito nos autos do Processo Digital n° 018.00027796/2024-71.
+**Artigo 1° -** Fica transferida, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel localizado na Avenida Manoel Adônias, n° 44, no Município de Guarantã, cadastrado no SGI sob o n° 24389, com área de 450,00m² (quatrocentos e cinquenta metros quadrados), identificado e descrito nos autos do Processo Digital n° 018.00027796/2024-71.
 
 **Parágrafo único -** O imóvel de que trata o "caput" deste artigo destinar-se-á ao uso do Conselho Tutelar do Município.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel localizado na Rua Brasília, n° 435, Centro, no Município de Vinhedo, com 915,00 mÂ² (novecentos e quinze metros quadrados) de área total e 298,80 mÂ² (duzentos e noventa e oito metros quadrados e oitenta decímetros quadrados) de área construída, objeto da Transcrição n° 60.187 do 1° Cartório de Registro de Imóveis da Comarca de Jundiaí, cadastrado no SGI sob o n° 3.354 e identificado nos autos do Processo Digital 057.00020620/2023-96.
+**Artigo 1° -** Fica transferida, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel localizado na Rua Brasília, n° 435, Centro, no Município de Vinhedo, com 915,00 m² (novecentos e quinze metros quadrados) de área total e 298,80 m² (duzentos e noventa e oito metros quadrados e oitenta decímetros quadrados) de área construída, objeto da Transcrição n° 60.187 do 1° Cartório de Registro de Imóveis da Comarca de Jundiaí, cadastrado no SGI sob o n° 3.354 e identificado nos autos do Processo Digital 057.00020620/2023-96.
 
 **Parágrafo Único -** O imóvel de que trata o "caput" deste artigo destinar-se-á ao uso da Polícia Militar do Estado de São Paulo.
 

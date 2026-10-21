@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Venceslau, nos termos da Lei municipal n° 843, de 30 de março de 1970, alterada pela Lei n° 1.225, de 2 de maio de 1979, o imóvel que abriga a ETEC Professor Milton Gazzetti, localizado na Estrada Córrego do Veado, s/n°, naquele Município, com área de 44.229,00mÂ² (quarenta e quatro mil duzentos e vinte e nove metros quadrados), identificado e descrito nos autos do Processo n° 008.00000095/2024-21.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Venceslau, nos termos da Lei municipal n° 843, de 30 de março de 1970, alterada pela Lei n° 1.225, de 2 de maio de 1979, o imóvel que abriga a ETEC Professor Milton Gazzetti, localizado na Estrada Córrego do Veado, s/n°, naquele Município, com área de 44.229,00m² (quarenta e quatro mil duzentos e vinte e nove metros quadrados), identificado e descrito nos autos do Processo n° 008.00000095/2024-21.
 
 **Artigo 2°** \- Fica a Fazenda do Estado autorizada a alienar, mediante doação, sem ônus ou encargo, e na mesma escritura pública, o imóvel descrito no artigo 1° deste decreto ao Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS.
 

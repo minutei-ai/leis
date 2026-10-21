@@ -2,7 +2,7 @@
 
 # LEI N° 17.736, DE 28 DE AGOSTO DE 2023
 
-## (Projeto de lei n° 122/2020, do Deputado Coronel Telhada â€“ PP)
+## (Projeto de lei n° 122/2020, do Deputado Coronel Telhada – PP)
 
 ### Institui o "Dia do Policial do Exército - PE"
 

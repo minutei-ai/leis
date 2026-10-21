@@ -8,9 +8,9 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de uso, a título gratuito e pelo prazo de 40 (quarenta) anos, prorrogável por igual período, do Município de São Paulo, nos termos da Lei municipal n° 18.062, de 28 de dezembro de 2023, alterada pela Lei n° 18.176, de 25 de julho de 2024, parte do imóvel objeto da Matrícula n° 32.116 do 14° Oficial de Registro de Imóveis da Comarca de São Paulo, com área de 78,14mÂ² (setenta e oito metros quadrados e catorze decímetros quadrados), localizada na Praça José Augusto Velloso, s/n°, Bairro Vila Gumercindo, naquele Município, cadastrada no SGI sob o n° 26029, identificada e descrita nos autos do Processo n° 057.00141514/2024-26.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de uso, a título gratuito e pelo prazo de 40 (quarenta) anos, prorrogável por igual período, do Município de São Paulo, nos termos da Lei municipal n° 18.062, de 28 de dezembro de 2023, alterada pela Lei n° 18.176, de 25 de julho de 2024, parte do imóvel objeto da Matrícula n° 32.116 do 14° Oficial de Registro de Imóveis da Comarca de São Paulo, com área de 78,14m² (setenta e oito metros quadrados e catorze decímetros quadrados), localizada na Praça José Augusto Velloso, s/n°, Bairro Vila Gumercindo, naquele Município, cadastrada no SGI sob o n° 26029, identificada e descrita nos autos do Processo n° 057.00141514/2024-26.
 
-**Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destina-se a abrigar a Base Comunitária de Segurança "Gumercindo", da 3Âª Companhia do 3° Batalhão da Polícia Militar do Estado de São Paulo, da Secretaria da Segurança Pública.
+**Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destina-se a abrigar a Base Comunitária de Segurança "Gumercindo", da 3ª Companhia do 3° Batalhão da Polícia Militar do Estado de São Paulo, da Secretaria da Segurança Pública.
 
 **Artigo 2° -** A concessão de uso de que trata este decreto será formalizada por meio de escritura pública, da qual deverão constar as condições impostas à concessionária.
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Francisco Morato, parte do imóvel localizado na Avenida Gerônimo Caetano Garcia, s/n°, Belém Capela, no referido Município, parte essa com 393,61mÂ² (trezentos e noventa e três metros quadrados e sessenta e um decímetros quadrados), compreendendo a área térrea, com 222,32mÂ² (duzentos e vinte e dois metros quadrados e trinta e dois decímetros quadrados), e o pavimento superior, com 171,29mÂ²  (cento e setenta e um metros quadrados e vinte e nove decímetros quadrados), identificada e descrita nos autos do Processo Digital 023.00004648/2023-09.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante cessão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Francisco Morato, parte do imóvel localizado na Avenida Gerônimo Caetano Garcia, s/n°, Belém Capela, no referido Município, parte essa com 393,61m² (trezentos e noventa e três metros quadrados e sessenta e um decímetros quadrados), compreendendo a área térrea, com 222,32m² (duzentos e vinte e dois metros quadrados e trinta e dois decímetros quadrados), e o pavimento superior, com 171,29m²  (cento e setenta e um metros quadrados e vinte e nove decímetros quadrados), identificada e descrita nos autos do Processo Digital 023.00004648/2023-09.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à Secretaria da Justiça e Cidadania, para instalação de um Centro de Integração da Cidadania - CIC.
 

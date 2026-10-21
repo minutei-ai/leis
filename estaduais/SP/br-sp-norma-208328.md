@@ -2,7 +2,7 @@
 
 # LEI N° 17.733, DE 24 DE JULHO DE 2023
 
-## (Projeto de lei n° 317, de 2022, da Deputada Marina Helou â€“ REDE)
+## (Projeto de lei n° 317, de 2022, da Deputada Marina Helou – REDE)
 
 ### Institui o "Dia da Gestão Pública do Estado de São Paulo"
 

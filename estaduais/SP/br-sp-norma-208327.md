@@ -2,7 +2,7 @@
 
 # LEI N° 17.732, DE 24 DE JULHO DE 2023
 
-## (Projeto de lei n° 244, de 2022, do Deputado Marcos Damasio â€“ PL)
+## (Projeto de lei n° 244, de 2022, do Deputado Marcos Damasio – PL)
 
 ### Denomina o dispositivo rodoviário que especifica
 

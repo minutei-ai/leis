@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de uso, a título gratuito e pelo prazo de 25 (vinte e cinco) anos, prorrogáveis por iguais períodos, do Município de Sumaré, o imóvel objeto da Matrícula n° 105.373 do Oficial de Registro de Imóveis da Comarca de Sumaré, localizado na Avenida Rebouças, n° 2.796, Vila Yolanda Costa e Silva, naquele Município, com área de 1.598,75mÂ² (um mil quinhentos e noventa e oito mil metros quadrados e setenta e cinco decímetros quadrados) e 785,92 m2  (setecentos e oitenta e cinco metros quadrados e noventa e dois decímetros quadrados) de área construída, identificado e descrito nos autos do Processo Digital 025.00001855/2023-47.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante concessão de uso, a título gratuito e pelo prazo de 25 (vinte e cinco) anos, prorrogáveis por iguais períodos, do Município de Sumaré, o imóvel objeto da Matrícula n° 105.373 do Oficial de Registro de Imóveis da Comarca de Sumaré, localizado na Avenida Rebouças, n° 2.796, Vila Yolanda Costa e Silva, naquele Município, com área de 1.598,75m² (um mil quinhentos e noventa e oito mil metros quadrados e setenta e cinco decímetros quadrados) e 785,92 m2  (setecentos e oitenta e cinco metros quadrados e noventa e dois decímetros quadrados) de área construída, identificado e descrito nos autos do Processo Digital 025.00001855/2023-47.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à Polícia Militar do Estado de São Paulo para a instalação da sede do 48° Batalhão de Polícia Militar do Interior (48° BPM/I).
 

@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (cinco) anos, prorrogáveis por iguais períodos, de Marisa Magno Seixas Costa, Vitor Magno Seixas Costa, Luciano Magno Seixas Costa, Denise Magno Seixas Costa e Bruno Zago Magno Costa, um terreno com 653mÂ² (seiscentos e cinquenta e três metros quadrados), parte do imóvel denominado "Fazenda Santana", localizado na Estrada Vicinal José Landin (Guará a Ribeirão Corrente), km 15, no Município de Ituverava, objeto da Matrícula n° 16.759 do Oficial de Registro de Imóveis da Comarca de Ituverava, identificado e descrito nos autos do Processo Digital n° 057.00225971/2023-91.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, em comodato, pelo prazo de 20 (cinco) anos, prorrogáveis por iguais períodos, de Marisa Magno Seixas Costa, Vitor Magno Seixas Costa, Luciano Magno Seixas Costa, Denise Magno Seixas Costa e Bruno Zago Magno Costa, um terreno com 653m² (seiscentos e cinquenta e três metros quadrados), parte do imóvel denominado "Fazenda Santana", localizado na Estrada Vicinal José Landin (Guará a Ribeirão Corrente), km 15, no Município de Ituverava, objeto da Matrícula n° 16.759 do Oficial de Registro de Imóveis da Comarca de Ituverava, identificado e descrito nos autos do Processo Digital n° 057.00225971/2023-91.
 
 **Parágrafo único -** O terreno a que alude o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de antena de transmissão de rádio da Polícia Militar do Estado de São Paulo.
 

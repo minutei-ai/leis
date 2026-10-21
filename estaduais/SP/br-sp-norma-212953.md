@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica transferida, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel localizado na Rua Tomaz Antônio Gonzaga, esquina com a Travessa Pio XII, Jardim Ariano, no Município de Lins, objeto da Transcrição n° 21.500 do Oficial de Registro de Imóveis da Comarca de Lins, cadastrado no SGI sob o n° 34.817, parte essa com 10.000,00 mÂ² (dez mil metros quadrados), identificada e descrita nos autos do Processo Digital n° 020.00027438/2024-46.
+**Artigo 1° -** Fica transferida, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel localizado na Rua Tomaz Antônio Gonzaga, esquina com a Travessa Pio XII, Jardim Ariano, no Município de Lins, objeto da Transcrição n° 21.500 do Oficial de Registro de Imóveis da Comarca de Lins, cadastrado no SGI sob o n° 34.817, parte essa com 10.000,00 m² (dez mil metros quadrados), identificada e descrita nos autos do Processo Digital n° 020.00027438/2024-46.
 
 **Parágrafo único -** A parte do imóvel de que trata o "caput" deste artigo destinar-se-á à construção da Central de Polícia Judiciária da Delegacia Seccional de Polícia de Lins.
 

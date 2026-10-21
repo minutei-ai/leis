@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor da Sociedade de Abastecimento de Água e Saneamento S/A - SANASA, de áreas que somam 728.361,00mÂ² (setecentos e vinte e oito mil trezentos e sessenta e um metros quadrados), identificadas e descritas nos autos do Processo Digital n° 018.00005492/2023-71, localizadas no interior do imóvel objeto da Transcrição n° 5382 do 1° Oficial de Registro de Imóveis da Comarca de Campinas, na Alameda dos Vidoeiros, n° 1097, Bairro Sítios de Recreio Gramado, no Município de Campinas, cadastrado no SGI sob o n° 3217.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor da Sociedade de Abastecimento de Água e Saneamento S/A - SANASA, de áreas que somam 728.361,00m² (setecentos e vinte e oito mil trezentos e sessenta e um metros quadrados), identificadas e descritas nos autos do Processo Digital n° 018.00005492/2023-71, localizadas no interior do imóvel objeto da Transcrição n° 5382 do 1° Oficial de Registro de Imóveis da Comarca de Campinas, na Alameda dos Vidoeiros, n° 1097, Bairro Sítios de Recreio Gramado, no Município de Campinas, cadastrado no SGI sob o n° 3217.
 
 **Parágrafo único -** As áreas a que alude o "caput" deste artigo destinar-se-ão ao plantio compensatório de mudas de espécies nativas.
 

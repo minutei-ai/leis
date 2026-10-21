@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e oneroso, por prazo determinado, em favor da empresa American Tower do Brasil - Cessão de Infraestruturas Ltda., de parte do imóvel localizado na Avenida Francisco Samuel Lucchesi, n° 42, Bairro Jardim Doutor Júlio de Mesquita Filho, no Município de Bragança Paulista, objeto da Matrícula n° 3.331 do 1° Ofício de Registro de Imóveis da Comarca de Bragança Paulista, cadastrado no SGI sob o n° 4013, parte essa consistente em um terreno com área de 1.086,59mÂ² (um mil e oitenta e seis metros quadrados e cinquenta e nove decímetros quadrados), identificada e descrita no Expediente Digital 018.00000432/2023-62.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e oneroso, por prazo determinado, em favor da empresa American Tower do Brasil - Cessão de Infraestruturas Ltda., de parte do imóvel localizado na Avenida Francisco Samuel Lucchesi, n° 42, Bairro Jardim Doutor Júlio de Mesquita Filho, no Município de Bragança Paulista, objeto da Matrícula n° 3.331 do 1° Ofício de Registro de Imóveis da Comarca de Bragança Paulista, cadastrado no SGI sob o n° 4013, parte essa consistente em um terreno com área de 1.086,59m² (um mil e oitenta e seis metros quadrados e cinquenta e nove decímetros quadrados), identificada e descrita no Expediente Digital 018.00000432/2023-62.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação de torre e equipamentos de telecomunicações.
 

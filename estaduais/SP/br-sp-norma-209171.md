@@ -2,7 +2,7 @@
 
 # LEI N° 17.864, DE 09 DE MARÇO DE 2024
 
-## (Projeto de lei n° 1239/2019, do Deputado Itamar Borges â€“ MDB)
+## (Projeto de lei n° 1239/2019, do Deputado Itamar Borges – MDB)
 
 ### Denomina "Engenheiro Agrônomo João Alfredo de Menezes" a Casa da Agricultura de Fernandópolis.
 

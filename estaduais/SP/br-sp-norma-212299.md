@@ -8,7 +8,7 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Marinópolis, do imóvel objeto da Matrícula n° 8.340 do Cartório de Registro de Imóveis da Comarca de Palmeira dÂ´Oeste, localizado na Rua Alagoas, n° 416, Centro, naquele Município, cadastrado no SGI sob o n° 68466, identificado e descrito nos autos do Processo Digital n° 002.00000540/2024-12.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Marinópolis, do imóvel objeto da Matrícula n° 8.340 do Cartório de Registro de Imóveis da Comarca de Palmeira d´Oeste, localizado na Rua Alagoas, n° 416, Centro, naquele Município, cadastrado no SGI sob o n° 68466, identificado e descrito nos autos do Processo Digital n° 002.00000540/2024-12.
 
 **Parágrafo único -** O imóvel a que alude o "caput" deste artigo destinar-se-á à instalação da Secretaria Municipal de Assistência Social.
 

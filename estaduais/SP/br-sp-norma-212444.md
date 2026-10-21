@@ -26,11 +26,11 @@ Das Classes
 
 **Artigo 2° -** As carreiras policiais civis são estruturadas em 4 (quatro) classes, dispostas hierarquicamente de acordo com o grau de complexidade das atribuições e o nível de responsabilidade, em ordem crescente, na seguinte conformidade:
 
-I - 3Âª Classe;
+I - 3ª Classe;
 
-II - 2Âª Classe;
+II - 2ª Classe;
 
-III - 1Âª Classe;
+III - 1ª Classe;
 
 IV - Classe Especial.
 
@@ -162,7 +162,7 @@ I - contar com tempo de efetivo exercício na classe em que se encontra, igual o
 
 II - possuir a soma dos interstícios previstos para as classes que antecedam aquela para a qual poderá ser promovido.
 
-**§ 1° -** Os Delegados de Polícia de 1Âª Classe que obtiverem o certificado de conclusão do Curso Superior de Polícia até a data de 31 de dezembro de 2026, ministrado na forma da [Lei Complementar n° 1.152, de 25 de outubro de 2011](https://www.al.sp.gov.br/norma/163679), ficam dispensados:
+**§ 1° -** Os Delegados de Polícia de 1ª Classe que obtiverem o certificado de conclusão do Curso Superior de Polícia até a data de 31 de dezembro de 2026, ministrado na forma da [Lei Complementar n° 1.152, de 25 de outubro de 2011](https://www.al.sp.gov.br/norma/163679), ficam dispensados:
 
 1 - da obrigatoriedade de realização do Curso Específico de Aperfeiçoamento (CEA) para fins de promoção à Classe Especial;
 

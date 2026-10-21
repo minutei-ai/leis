@@ -19,7 +19,7 @@ II - Projeto do Estado de São Paulo - Obras Civis da Expansão da Linha 2-Verde
 
 III - Programa de Apoio à Gestão e Integração dos Fiscos no Brasil - PROFISCO III - SP, até o valor de R$ 750.000.000,00 (setecentos e cinquenta milhões de reais);
 
-IV - Implantação e Expansão da PPP Linha 6 - Laranja do Metrô de São Paulo, até o valor de â‚¬ 312.680.392,00 (trezentos e doze milhões, seiscentos e oitenta mil, trezentos e noventa e dois euros), ou, alternativamente, US$ 325.000.000,00 (trezentos e vinte e cinco milhões de dólares norte-americanos);
+IV - Implantação e Expansão da PPP Linha 6 - Laranja do Metrô de São Paulo, até o valor de € 312.680.392,00 (trezentos e doze milhões, seiscentos e oitenta mil, trezentos e noventa e dois euros), ou, alternativamente, US$ 325.000.000,00 (trezentos e vinte e cinco milhões de dólares norte-americanos);
 
 V - Projeto de Desenvolvimento Rural Sustentável - Agro Paulista Mais Verde, até o valor de US$ 160.000.000,00 (cento e sessenta milhões de dólares norte-americanos).
 
@@ -83,7 +83,7 @@ II - o item 8:
 
 **Artigo 11 -** Passa a vigorar com a seguinte redação, o inciso V do artigo 1° da [Lei n° 18.067, de 18 de dezembro de 2024](https://www.al.sp.gov.br/norma/210397):
 
-"V - Implantação e Expansão da PPP Linha 6 - Laranja do Metrô de São Paulo, até o valor de R$ 2.260.000.000,00 (dois bilhões e duzentos e sessenta milhões de reais), ou, alternativamente, até o valor de â‚¬ 351.237.100,00 (trezentos e cinquenta e um milhões, duzentos e trinta e sete mil e cem euros)." (NR)
+"V - Implantação e Expansão da PPP Linha 6 - Laranja do Metrô de São Paulo, até o valor de R$ 2.260.000.000,00 (dois bilhões e duzentos e sessenta milhões de reais), ou, alternativamente, até o valor de € 351.237.100,00 (trezentos e cinquenta e um milhões, duzentos e trinta e sete mil e cem euros)." (NR)
 
 **Artigo 12 -** Esta lei entra em vigor na data de sua publicação.
 

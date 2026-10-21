@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, Governador do Estado de São Paulo, no uso
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 36/25, 37/25, 39/25 e 41/25, celebrados em Palmas, TO, na 196Âª Reunião Ordinária do CONFAZ, realizada no dia 11 de abril de 2025, e publicados na página 158, Seção I, da Edição 72 do Diário Oficial da União do dia 15 de abril de 2025.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 36/25, 37/25, 39/25 e 41/25, celebrados em Palmas, TO, na 196ª Reunião Ordinária do CONFAZ, realizada no dia 11 de abril de 2025, e publicados na página 158, Seção I, da Edição 72 do Diário Oficial da União do dia 15 de abril de 2025.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 36/25, 37/25 e 41/25.
 

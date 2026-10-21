@@ -70,7 +70,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos destinados à implantação do "Parque Radical SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o "Parque Radical SP" será instalado em área de, no mínimo, 375mÂ² (trezentos e setenta e cinco metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes módulos:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o "Parque Radical SP" será instalado em área de, no mínimo, 375m² (trezentos e setenta e cinco metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes módulos:
 
 1\. rampa 45°;
 
@@ -213,7 +213,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Academia Vida Ativa", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a "Academia Vida Ativa" será instalada em área de, no mínimo, 170mÂ² (cento e setenta metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes módulos:
+**§1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a "Academia Vida Ativa" será instalada em área de, no mínimo, 170m² (cento e setenta metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes módulos:
 
 1\. multiexercitador seis funções;
 
@@ -364,7 +364,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos destinados à revitalização de quadras poliesportivas ("Revitaliza SP"), no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a revitalização prevista no "caput" desta cláusula recairá sobre quadra poliesportiva localizada em área de\_\_\_\_\_mÂ²  (\_\_\_\_\_ metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos esportivos:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a revitalização prevista no "caput" desta cláusula recairá sobre quadra poliesportiva localizada em área de\_\_\_\_\_m²  (\_\_\_\_\_ metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos esportivos:
 
 1\. piso vinílico (PVC);
 
@@ -503,7 +503,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de campo de futebol com gramado sintético, no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o campo de futebol gramado sintético a que se refere o "caput" desta cláusula será instalado em área com\_\_\_\_\_mÂ²  (\_\_\_\_\_\_\_\_\_\_\_\_ metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o campo de futebol gramado sintético a que se refere o "caput" desta cláusula será instalado em área com\_\_\_\_\_m²  (\_\_\_\_\_\_\_\_\_\_\_\_ metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos:
 
 1\. gramado sintético esportivo para campo de futebol;
 
@@ -636,7 +636,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Arena Lazer SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a "Arena Lazer SP" será instalada em área de, no mínimo, 1.025mÂ²  (um mil e vinte e cinco metros quadrados), identificada e descrita no Plano de Trabalho, e contará com:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a "Arena Lazer SP" será instalada em área de, no mínimo, 1.025m²  (um mil e vinte e cinco metros quadrados), identificada e descrita no Plano de Trabalho, e contará com:
 
 1\. 1 (uma) quadra de gramado sintético com iluminação e arquibancada;
 
@@ -775,7 +775,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de quadra de futebol de 7 oficial - "ECO (fut7)", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a quadra a que se refere o "caput" desta cláusula será instalada em área de, no mínimo, 1.664mÂ²  (um mil, seiscentos e sessenta e quatro metros quadrados), identificada e descrita no Plano de Trabalho, e contará com 1 (uma) quadra de gramado sintético oficial de futebol de 7 com iluminação fotovoltaica e arquibancada.
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a quadra a que se refere o "caput" desta cláusula será instalada em área de, no mínimo, 1.664m²  (um mil, seiscentos e sessenta e quatro metros quadrados), identificada e descrita no Plano de Trabalho, e contará com 1 (uma) quadra de gramado sintético oficial de futebol de 7 com iluminação fotovoltaica e arquibancada.
 
 **§ 2° -** O Secretário de Esportes, amparado em manifestação fundamentada do setor técnico da Pasta, poderá autorizar modificações incidentes sobre o Plano de Trabalho de que trata o "caput" desta cláusula para sua melhor adequação técnica, vedada a alteração do objeto do ajuste.
 
@@ -910,7 +910,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Arena Praia SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a "Arena Praia SP" será instalada em área de, no mínimo, 1.364mÂ²  (um mil, trezentos e sessenta e quatro metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes módulos:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, a "Arena Praia SP" será instalada em área de, no mínimo, 1.364m²  (um mil, trezentos e sessenta e quatro metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes módulos:
 
 1\. 1 (uma) quadra de gramado sintético com iluminação e arquibancada;
 
@@ -1051,7 +1051,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Palácio de Lutas SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o "Palácio de Lutas SP" será instalado em área que constitua bem público de uso comum do povo ou de uso especial de, no mínimo, 850mÂ²  (oitocentos e cinquenta metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o "Palácio de Lutas SP" será instalado em área que constitua bem público de uso comum do povo ou de uso especial de, no mínimo, 850m²  (oitocentos e cinquenta metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos:
 
 1\. 1 (um) ringue de lutas para boxe e muay thai;
 
@@ -1200,7 +1200,7 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Espaço Nadar SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o "Espaço Nadar SP" será instalado em área que constitua bem público de uso comum do povo ou de uso especial de, no mínimo, 280mÂ² (duzentos e oitenta metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos:
+**§ 1° -** Observado o disposto no artigo 1°, § 1°, item 2, do Decreto n° \_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_ de 2023, o "Espaço Nadar SP" será instalado em área que constitua bem público de uso comum do povo ou de uso especial de, no mínimo, 280m² (duzentos e oitenta metros quadrados), identificada e descrita no Plano de Trabalho, e contará com os seguintes equipamentos:
 
 1\. 4 (quatro) raias semiolímpicas (25m);
 
@@ -1341,9 +1341,9 @@ Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Parque Atlético SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
 
-**§ 1° -** O "Parque Atlético SP" será instalado em área que constitua bem público de uso comum do povo ou de uso especial de, no mínimo, 6.254mÂ²  (seis mil, duzentos e cinquenta e quatro metros quadrados), identificado e descrito no Plano de Trabalho, e contará com os seguintes equipamentos:
+**§ 1° -** O "Parque Atlético SP" será instalado em área que constitua bem público de uso comum do povo ou de uso especial de, no mínimo, 6.254m²  (seis mil, duzentos e cinquenta e quatro metros quadrados), identificado e descrito no Plano de Trabalho, e contará com os seguintes equipamentos:
 
-1\. pista de atletismo com 6 raias de 100mÂ² ;
+1\. pista de atletismo com 6 raias de 100m² ;
 
 2\. pista de atletismo com 4 (quatro) raias completas;
 

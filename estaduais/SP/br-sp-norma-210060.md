@@ -1076,7 +1076,7 @@ II - o artigo 3°:  
 
 "Artigo 3° - A Secretaria da Administração Penitenciária terá sua estrutura definida em decreto.  
 
-**Parágrafo único -** A Fundação â€˜Prof. Dr. Manoel Pedro Pimentelâ€™ vincula-se à Secretaria da Administração Penitenciária." (NR)
+**Parágrafo único -** A Fundação ‘Prof. Dr. Manoel Pedro Pimentel’ vincula-se à Secretaria da Administração Penitenciária." (NR)
 
 **Artigo 78 -** As leis complementares adiante mencionadas passam a vigorar acrescidas dos seguintes dispositivos:  
 

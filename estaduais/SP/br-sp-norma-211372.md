@@ -30,7 +30,7 @@ II - propor rotinas administrativas, com vista ao aprimoramento da investigaçã
 
 a) as Delegacias de Polícia de Defesa da Mulher;
 
-b) a 2Âª Delegacia de Polícia Eletrônica, do Departamento de Inteligência da Polícia Civil - DIPOL;
+b) a 2ª Delegacia de Polícia Eletrônica, do Departamento de Inteligência da Polícia Civil - DIPOL;
 
 III - orientar tecnicamente as atividades, rotinas e planos de trabalho das delegacias a que se refere o inciso II deste artigo, visando à padronização procedimental e à uniformidade institucional;
 
@@ -50,7 +50,7 @@ b) orientar tecnicamente e monitorar a produtividade das delegacias a que se ref
 
 IX - por meio do Serviço Técnico de Apoio Legislativo e Administrativo às Delegacias de Polícia de Defesa da Mulher:
 
-a) elaborar estudos e minutas de atos normativos relacionados às atividades de competência das Delegacias de Polícia de Defesa da Mulher e da 2Âª Delegacia de Polícia Eletrônica do DIPOL;
+a) elaborar estudos e minutas de atos normativos relacionados às atividades de competência das Delegacias de Polícia de Defesa da Mulher e da 2ª Delegacia de Polícia Eletrônica do DIPOL;
 
 b) colaborar, quando demandado pelo dirigente da Assistência Policial Civil de Defesa da Mulher, em proposituras relacionadas com a celebração de convênios, termos de cooperação e instrumentos jurídicos congêneres;
 
@@ -64,7 +64,7 @@ b) elaborar estudos técnicos e relatórios estratégicos voltados à construç�
 
 **Artigo 4° -** Ao Delegado de Polícia dirigente da Assistência Policial Civil de Defesa da Mulher cabe:
 
-I - propor, ao Delegado Geral de Polícia, medidas que visem dinamizar a atuação das Delegacias de Polícia de Defesa da Mulher e da 2Âª Delegacia de Polícia Eletrônica do DIPOL;
+I - propor, ao Delegado Geral de Polícia, medidas que visem dinamizar a atuação das Delegacias de Polícia de Defesa da Mulher e da 2ª Delegacia de Polícia Eletrônica do DIPOL;
 
 II - assistir, nos assuntos de sua área de atuação, o Delegado Geral de Polícia Adjunto;
 

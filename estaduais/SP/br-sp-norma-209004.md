@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.233, DE 22 DE DEZEMBRO DE 2023
 
-### Regulamenta a Lei n° 17.618, de 31 de janeiro de 2023, que institui a Política Estadual de fornecimento gratuito de medicamentos formulados de derivado vegetal à base de canabidiol, em associação com outras substâncias canabinóides, incluindo o tetrahidrocanabinol, em caráter de excepcionalidade pelo Poder Executivo nas unidades de saúde pública estadual e privada conveniada ao Sistema Único de Saúde â€” SUS, no âmbito do Estado de São Paulo.
+### Regulamenta a Lei n° 17.618, de 31 de janeiro de 2023, que institui a Política Estadual de fornecimento gratuito de medicamentos formulados de derivado vegetal à base de canabidiol, em associação com outras substâncias canabinóides, incluindo o tetrahidrocanabinol, em caráter de excepcionalidade pelo Poder Executivo nas unidades de saúde pública estadual e privada conveniada ao Sistema Único de Saúde — SUS, no âmbito do Estado de São Paulo.
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
@@ -185,4 +185,4 @@ Assinatura e Carimbo do Médico
 
 Assinatura do Paciente ou Responsável Legal 
 
-1Âª via do paciente 2Âª via do médico 3Âª via da farmácia
+1ª via do paciente 2ª via do médico 3ª via da farmácia

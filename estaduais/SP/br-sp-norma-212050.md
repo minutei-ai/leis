@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Iporanga, de um imóvel constituído por um terreno com área de 19.142.110mÂ², situado na Gleba 39/32/108, parte de área maior de terras devolutas estaduais discriminada como Gleba "A" do 39° Perímetro de Apiaí, objeto da Matrícula n° 2.375 do Cartório de Registro de Imóveis e Anexos da Comarca de Apiaí, identificado e descrito nos autos do Processo Digital n° 018.00000795/2024-89.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Iporanga, de um imóvel constituído por um terreno com área de 19.142.110m², situado na Gleba 39/32/108, parte de área maior de terras devolutas estaduais discriminada como Gleba "A" do 39° Perímetro de Apiaí, objeto da Matrícula n° 2.375 do Cartório de Registro de Imóveis e Anexos da Comarca de Apiaí, identificado e descrito nos autos do Processo Digital n° 018.00000795/2024-89.
 
 **Parágrafo único -** O imóvel a que se refere o "caput" deste artigo destinar-se-á à instalação de um espaço para práticas esportivas, que atenderá a população rural, especialmente a comunidade quilombola.
 

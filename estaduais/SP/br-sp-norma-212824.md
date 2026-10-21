@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, de uma área de 22.853,68mÂ² (vinte e dois mil oitocentos e cinquenta e três metros quadrados e sessenta e oito decímetros quadrados), denominada "16A", parte do Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, Centro, naquele Município, cadastrado no SGI sob o n° 2203 e identificado nos autos do Processo Digital n° 024.00167568/2025-99.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a outorgar o uso, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, de uma área de 22.853,68m² (vinte e dois mil oitocentos e cinquenta e três metros quadrados e sessenta e oito decímetros quadrados), denominada "16A", parte do Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, Centro, naquele Município, cadastrado no SGI sob o n° 2203 e identificado nos autos do Processo Digital n° 024.00167568/2025-99.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à ampliação do "Parque Municipal Benedito Bueno de Morais".
 

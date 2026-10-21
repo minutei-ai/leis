@@ -34,7 +34,7 @@ VI - o"caput" do artigo 6° e seu § 1°:
 
 "Artigo 6° - Os bens de que trata o artigo 2° deste decreto, que não tenham tido sua destinação deliberada pelo Conselho de Orientação de Recuperação de Ativos, bem como os direitos serão alienados pela Secretaria da Segurança Pública, que recolherá os recursos financeiros decorrentes e os depositará em subcontas específicas, com registro contábil apartado, do Fundo de Incentivo à Segurança Pública - FISP, instituído pela Lei n° 10.328, de 15 de julho de 1999, a fim de que sejam posteriormente destinados na proporção indicada no parágrafo único do artigo 2° deste decreto.
 
-§ 1° - Os recursos financeiros oriundos das alienações de que trata o "caput" deste artigo e que não sejam reservados ao Ministério Público na forma do itemÂ² do parágrafo único do artigo 2° deste decreto serão destinados às Polícias Civil e Militar e à Superintendência da Polícia Técnico-Científica do Estado de São Paulo, para custeio das atividades referidas no artigo 2° da Lei n° 10.328, de 15 de julho de 1999."; (NR)
+§ 1° - Os recursos financeiros oriundos das alienações de que trata o "caput" deste artigo e que não sejam reservados ao Ministério Público na forma do item² do parágrafo único do artigo 2° deste decreto serão destinados às Polícias Civil e Militar e à Superintendência da Polícia Técnico-Científica do Estado de São Paulo, para custeio das atividades referidas no artigo 2° da Lei n° 10.328, de 15 de julho de 1999."; (NR)
 
 VII- o §3° do artigo 6°:
 

@@ -42,7 +42,7 @@ IV - Forças Armadas Brasileiras.
 
 **Artigo 2° -** A Medalha de que trata o artigo 1° deste regulamento tem a seguinte descrição:
 
-I - anverso da venera composto de escudo redondo, com 25 mm (vinte e cinco milímetros) de diâmetro, de sable (CMYK 0;9;16;82 / RGB 45;41;38 / PANTONE BLACKC) tendo ao centro o Brasão dâ€™Armas do Estado de São Paulo, de 15 mm (quinze milímetros), todo de prata (CMYK 2;0;0;17 / RGB 208;211;212 / PANTONE 427C); sobreposto a um resplendor, de 40 mm (quarenta milímetros) de diâmetro. O esplendor é composto por duas estrelas de oito pontas sobrepostas e defasadas entre si, sendo uma de prata (CMYK 2;0;0;17 / RGB 208;211;212 / PANTONE 427C) sobreposta a uma de ouro (CMYK 0;15;100;5/ RGB 242;205;0 / PANTONE 7405C);
+I - anverso da venera composto de escudo redondo, com 25 mm (vinte e cinco milímetros) de diâmetro, de sable (CMYK 0;9;16;82 / RGB 45;41;38 / PANTONE BLACKC) tendo ao centro o Brasão d’Armas do Estado de São Paulo, de 15 mm (quinze milímetros), todo de prata (CMYK 2;0;0;17 / RGB 208;211;212 / PANTONE 427C); sobreposto a um resplendor, de 40 mm (quarenta milímetros) de diâmetro. O esplendor é composto por duas estrelas de oito pontas sobrepostas e defasadas entre si, sendo uma de prata (CMYK 2;0;0;17 / RGB 208;211;212 / PANTONE 427C) sobreposta a uma de ouro (CMYK 0;15;100;5/ RGB 242;205;0 / PANTONE 7405C);
 
 II - verso da venera limpo de prata;
 

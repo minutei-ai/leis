@@ -2,7 +2,7 @@
 
 # LEI N° 17.728, DE 24 DE JULHO DE 2023
 
-## (Projeto de lei n° 889, de 2021, do Deputado Fernando Cury â€“ CIDADANIA)
+## (Projeto de lei n° 889, de 2021, do Deputado Fernando Cury – CIDADANIA)
 
 ### Dá denominação à ponte que especifica
 

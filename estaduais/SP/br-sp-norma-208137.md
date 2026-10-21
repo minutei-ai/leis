@@ -8,7 +8,7 @@ TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribui
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Consórcio Intermunicipal dos Municípios da Bacia do Juqueri - CIMBAJU, de parte do imóvel denominado Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, no Município de Franco da Rocha, cadastrado no SGI sob o n° 2203, parte essa com 732,49mÂ² (setecentos e trinta e dois metros quadrados e quarenta e nove decímetros quadrados) de terreno e 214,56mÂ²  (duzentos e catorze metros quadrados e cinquenta e seis decímetros quadrados) de área construída, identificada e descrita nos autos do Processo Digital 001.00003241/2023-87.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Consórcio Intermunicipal dos Municípios da Bacia do Juqueri - CIMBAJU, de parte do imóvel denominado Complexo Hospitalar do Juquery, localizado na Avenida dos Coqueiros, n° 300, no Município de Franco da Rocha, cadastrado no SGI sob o n° 2203, parte essa com 732,49m² (setecentos e trinta e dois metros quadrados e quarenta e nove decímetros quadrados) de terreno e 214,56m²  (duzentos e catorze metros quadrados e cinquenta e seis decímetros quadrados) de área construída, identificada e descrita nos autos do Processo Digital 001.00003241/2023-87.
 
 **Parágrafo único -** A parte do imóvel a que alude o "caput" deste artigo destinar-se-á à instalação da Sede do Consórcio Intermunicipal dos Municípios da Bacia do Juqueri - CIMBAJU.
 

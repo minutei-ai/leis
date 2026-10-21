@@ -307,7 +307,7 @@ II - nos Quadros da Secretaria da Fazenda e Planejamento e da Secretaria de Gest
 
 "Artigo 14-A - Aos servidores abrangidos por esta lei complementar aplicam-se as disposições legais e regulamentares referentes ao Prêmio de Incentivo à Qualidade (PIQ), instituído pela [Lei Complementar n° 804, de 21 de dezembro de 1995](https://www.al.sp.gov.br/norma/10789), e suas alterações posteriores, na forma do Anexo da referida lei complementar.
 
-**Parágrafo único -** Aos servidores integrantes das carreiras instituídas pela [Lei Complementar n° 1.034, de 4 de janeiro de 2008](https://www.al.sp.gov.br/norma/75009), que se encontrem em exercício na Secretaria de Gestão e Governo Digital, também se aplicam os direitos e deveres previstos no â€˜caputâ€™ deste artigo."
+**Parágrafo único -** Aos servidores integrantes das carreiras instituídas pela [Lei Complementar n° 1.034, de 4 de janeiro de 2008](https://www.al.sp.gov.br/norma/75009), que se encontrem em exercício na Secretaria de Gestão e Governo Digital, também se aplicam os direitos e deveres previstos no ‘caput’ deste artigo."
 
 **Artigo 34 -** Vetado.
 

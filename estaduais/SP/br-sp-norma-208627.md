@@ -28,7 +28,7 @@ XIII - o envio eletrônico de citações, intimações, ofícios e notificaçõe
 
 XIV - as despesas com restauração de autos e cancelamento de processos, cujos custos serão fixados periodicamente pelo Conselho Superior da Magistratura;
 
-XV - todas as demais despesas que não correspondam aos serviços relacionados no â€˜caputâ€™ deste artigo."
+XV - todas as demais despesas que não correspondam aos serviços relacionados no ‘caput’ deste artigo."
 
 **Artigo 3° -** Os incisos I, II e III, e o parágrafo 5° do artigo 4° da Lei n° 11.608/03 passam a ter a seguinte redação:
 

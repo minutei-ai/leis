@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tend
 
 Decreta:
 
-**Artigo 1° -** Ficam ratificados os Convênios ICMS 120/23 e 122/23, celebrados em Brasília, DF, na 376Âª Reunião Extraordinária do CONFAZ, realizada no dia 9 de agosto de 2023, e publicados na página 43 da Seção I da Edição 153 do Diário Oficial da União do dia 11 de agosto de 2023.
+**Artigo 1° -** Ficam ratificados os Convênios ICMS 120/23 e 122/23, celebrados em Brasília, DF, na 376ª Reunião Extraordinária do CONFAZ, realizada no dia 9 de agosto de 2023, e publicados na página 43 da Seção I da Edição 153 do Diário Oficial da União do dia 11 de agosto de 2023.
 
 **Parágrafo único -** Somente após a manifestação favorável da Assembleia Legislativa do Estado de São Paulo, expressa ou tácita, na forma do artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), o Poder Executivo poderá implementar, no âmbito do Estado de São Paulo, os Convênios ICMS 120/23 e 122/23.
 
@@ -36,7 +36,7 @@ Publicado na Casa Civil, aos 18 de setembro de 2023.
 
 Senhor Governador,
 
-Encaminho a inclusa minuta de decreto que ratifica os Convênios ICMS 120/23 e 122/23, celebrados em Brasília, DF, na 376Âª Reunião Extraordinária do CONFAZ, realizada no dia 9 de agosto de 2023, e publicados na página 43 da Seção I da Edição 153 do Diário Oficial da União do dia 11 de agosto de 2023.
+Encaminho a inclusa minuta de decreto que ratifica os Convênios ICMS 120/23 e 122/23, celebrados em Brasília, DF, na 376ª Reunião Extraordinária do CONFAZ, realizada no dia 9 de agosto de 2023, e publicados na página 43 da Seção I da Edição 153 do Diário Oficial da União do dia 11 de agosto de 2023.
 
 O Convênio ICMS 120/23 autoriza as unidades federadas a conceder isenção do ICMS nas operações com bens e mercadorias destinados às concessionárias e às autorizatárias de transporte ferroviário de cargas e passageiros.
 

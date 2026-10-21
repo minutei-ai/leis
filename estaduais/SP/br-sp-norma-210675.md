@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Itararé, nos termos da Lei municipal n° 4.529, de 7 de novembro de 2024, alterada pela Lei n° 4.534, de 28 de novembro de 2024, o terreno localizado na Rua Coronel Frutuoso, s/n°, esquina com a Rua Renê Probst, Bairro Jardim Regina, naquele Município, com 954,94mÂ² (novecentos e cinquenta e quatro metros quadrados e noventa e quatro decímetros quadrados), matriculado sob o n° 23.315 no Oficial de Registro de Imóveis e Anexos da Comarca de Itararé, identificado e descrito nos autos do Processo Digital n° 057.00541634/2024-20.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Itararé, nos termos da Lei municipal n° 4.529, de 7 de novembro de 2024, alterada pela Lei n° 4.534, de 28 de novembro de 2024, o terreno localizado na Rua Coronel Frutuoso, s/n°, esquina com a Rua Renê Probst, Bairro Jardim Regina, naquele Município, com 954,94m² (novecentos e cinquenta e quatro metros quadrados e noventa e quatro decímetros quadrados), matriculado sob o n° 23.315 no Oficial de Registro de Imóveis e Anexos da Comarca de Itararé, identificado e descrito nos autos do Processo Digital n° 057.00541634/2024-20.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-seá à Secretaria da Segurança Pública, para instalação de uma unidade da Polícia Militar do Estado de São Paulo.
 

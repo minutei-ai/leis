@@ -8,7 +8,7 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Campina do Monte Alegre, nos termos da Lei municipal n° 608, de 20 de outubro de 2014, o terreno objeto da Matrícula n° 12.292 do Oficial de Registro de Imóveis e Anexos da Comarca de Angatuba, com área de 2.000,00mÂ² (dois mil metros quadrados), localizado na Rua Ângelo Antunes Rodrigues, s/n°, naquele Município, identificado e descrito nos autos do Processo Digital 025.00001188/2023-01.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Campina do Monte Alegre, nos termos da Lei municipal n° 608, de 20 de outubro de 2014, o terreno objeto da Matrícula n° 12.292 do Oficial de Registro de Imóveis e Anexos da Comarca de Angatuba, com área de 2.000,00m² (dois mil metros quadrados), localizado na Rua Ângelo Antunes Rodrigues, s/n°, naquele Município, identificado e descrito nos autos do Processo Digital 025.00001188/2023-01.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para instalação de uma Delegacia de Polícia.
 

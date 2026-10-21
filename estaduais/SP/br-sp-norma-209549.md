@@ -4,7 +4,7 @@
 
 ### Autoriza a abertura de licitação para a concessão administrativa para a construção, manutenção, conservação, gestão e operação dos serviços não-pedagógicos, organizada nos Lotes Leste e Oeste, e aprova o respectivo regulamento
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a aprovação pelo Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, criado pela Lei n° 11.668, de 19 de maio de 2004, do modelo de concessão patrocinada para a construção, manutenção, conservação, gestão e operação dos serviços não-pedagógicos de 33 (trinta e três) novas unidades de Ensino de Nível Médio e Ensino Fundamental II no Estado de São Paulo, organizada nos Lotes Leste e Oeste, por ocasião da 45Âª Reunião Conjunta Ordinária do CDPED e do CGPPP, ocorrida em 24 de maio de 2024, cuja ata foi publicada no Diário Oficial de 29 de maio de 2024,    
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a aprovação pelo Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, criado pela Lei n° 11.668, de 19 de maio de 2004, do modelo de concessão patrocinada para a construção, manutenção, conservação, gestão e operação dos serviços não-pedagógicos de 33 (trinta e três) novas unidades de Ensino de Nível Médio e Ensino Fundamental II no Estado de São Paulo, organizada nos Lotes Leste e Oeste, por ocasião da 45ª Reunião Conjunta Ordinária do CDPED e do CGPPP, ocorrida em 24 de maio de 2024, cuja ata foi publicada no Diário Oficial de 29 de maio de 2024,    
 
 Decreta:    
 
@@ -85,7 +85,7 @@ III - vigilância e portaria, incluindo monitoramento do sistema de câmeras e c
 
 IV - alimentação, incluindo exclusivamente o preparo e porcionamento de alimentos, além da disponibilização de equipamentos e utensílios;
 
-V - jardinagem e controle de pragas, incluindo poda, roçada, dedetização periódica e limpeza de caixas dâ€™água;
+V - jardinagem e controle de pragas, incluindo poda, roçada, dedetização periódica e limpeza de caixas d’água;
 
 VI - atividades de vida diária, envolvendo exclusivamente o apoio aos alunos que não conseguem acessar com autonomia as instalações escolares.    
 

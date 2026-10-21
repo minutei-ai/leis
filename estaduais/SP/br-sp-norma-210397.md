@@ -23,7 +23,7 @@ IV - aporte de recursos em parceria público-privada, nos termos do § 2° do ar
 
 ~~V - Linha 6 - Laranja do metrô de São Paulo, até o valor de R$ 2.260.000.000,00 (dois bilhões, duzentos e sessenta milhões de reais).~~
 
-V - Implantação e Expansão da PPP Linha 6 - Laranja do Metrô de São Paulo, até o valor de R$ 2.260.000.000,00 (dois bilhões e duzentos e sessenta milhões de reais), ou, alternativamente, até o valor de â‚¬ 351.237.100,00 (trezentos e cinquenta e um milhões, duzentos e trinta e sete mil e cem euros). (NR)
+V - Implantação e Expansão da PPP Linha 6 - Laranja do Metrô de São Paulo, até o valor de R$ 2.260.000.000,00 (dois bilhões e duzentos e sessenta milhões de reais), ou, alternativamente, até o valor de € 351.237.100,00 (trezentos e cinquenta e um milhões, duzentos e trinta e sete mil e cem euros). (NR)
 
 _\- Inciso V com redação dada pela [Lei n° 18.353, de 15/12/2025](https://www.al.sp.gov.br/norma/211987)._
 

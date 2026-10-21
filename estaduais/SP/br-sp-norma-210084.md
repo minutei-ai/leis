@@ -45,7 +45,7 @@ III - promover o disciplinamento do processo de ocupação e contribuir para o d
 
 IV - preservar remanescentes de Mata Atlântica;
 
-V - conservar a cobertura vegetal como forma de proteção do solo, das nascentes e cursos dâ€™água;
+V - conservar a cobertura vegetal como forma de proteção do solo, das nascentes e cursos d’água;
 
 VI - conservar o patrimônio ambiental, arqueológico, estético, paisagístico e cultural;
 
@@ -195,13 +195,13 @@ a) impactos gerados nos canteiros de obras e frentes de trabalho, adotando-se as
 
 b) impactos de erosão e assoreamento, adotando-se as seguintes medidas: 
 
-1\. controlar a erosão, inclusive pela instalação de estruturas provisórias e definitivas de ordenamento do fluxo dâ€™água e de dissipação de energia, e pela contenção de sedimentos e estabilização de encostas, como sistemas de drenagem provisórios, diques, bacias de infiltração, leiras, barreiras fixas, etc.; 
+1\. controlar a erosão, inclusive pela instalação de estruturas provisórias e definitivas de ordenamento do fluxo d’água e de dissipação de energia, e pela contenção de sedimentos e estabilização de encostas, como sistemas de drenagem provisórios, diques, bacias de infiltração, leiras, barreiras fixas, etc.; 
 
 2\. promover a compensação de corte e aterros para minimizar a movimentação de solos; 
 
 3\. buscar áreas já degradadas para utilizar como áreas de empréstimo e depósito de material excedente; 
 
-c) impactos das interferências em recursos hídricos, garantindo-se a circulação das águas, por meio da adoção de obras de arte nas travessias de corpos d'água e áreas úmidas, evitando-se, sempre que possível, drenagem de nascentes, desvios de corpos dâ€™água e eventuais subdimensionamentos de estruturas de drenagem para impedir eventuais interferências sobre as águas superficiais, especialmente com relação a cursos d'água que drenam para as UCs de proteção integral incidentes na APA, aos rios de classe especial e aqueles que servem para abastecimento de água; 
+c) impactos das interferências em recursos hídricos, garantindo-se a circulação das águas, por meio da adoção de obras de arte nas travessias de corpos d'água e áreas úmidas, evitando-se, sempre que possível, drenagem de nascentes, desvios de corpos d’água e eventuais subdimensionamentos de estruturas de drenagem para impedir eventuais interferências sobre as águas superficiais, especialmente com relação a cursos d'água que drenam para as UCs de proteção integral incidentes na APA, aos rios de classe especial e aqueles que servem para abastecimento de água; 
 
 d) impactos da fragmentação e perda de conectividade, adotando-se, sempre que possível, traçados ou alternativas construtivas que evitem supressão e fragmentação de ambientes naturais; 
 
@@ -275,7 +275,7 @@ a) impactos de erosão e assoreamento em faixas de dutovias, adotando-se as segu
 
 1\. manter solo com cobertura vegetal, usando espécies nativas; 
 
-2\. reconformar a faixa com estruturas provisórias e definitivas de ordenamento do fluxo dâ€™água e de dissipação de energia, por exemplo, com o uso de leiras e sistemas provisórios e definitivos de drenagem; 
+2\. reconformar a faixa com estruturas provisórias e definitivas de ordenamento do fluxo d’água e de dissipação de energia, por exemplo, com o uso de leiras e sistemas provisórios e definitivos de drenagem; 
 
 3\. empregar, sempre que possível, técnicas não destrutivas para a implantação dos dutos em travessias de corpos d'água, rodovias, áreas urbanizadas etc., como o uso de furo direcional; 
 

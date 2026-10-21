@@ -8,7 +8,7 @@ O Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo,
 
 Decreta:
 
-**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Santo André, nos termos da Lei municipal n° 10.554, de 1 de setembro de 2022, alterada pela Lei n° 10.644, de 21 de março de 2023, o terreno objeto da Matrícula n° 120.599 do 2° Ofício de Registro de Imóveis da Comarca de Santo André, com área de 3.374,60mÂ² (três mil trezentos e setenta e quatro metros quadrados e sessenta decímetros quadrados), localizado na Avenida Capitão Mário Toledo de Camargo, na altura do n° 100, Bairro Silveiras, naquele Município, identificado e descrito nos autos do Processo 025.00000320/2023-59.
+**Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Santo André, nos termos da Lei municipal n° 10.554, de 1 de setembro de 2022, alterada pela Lei n° 10.644, de 21 de março de 2023, o terreno objeto da Matrícula n° 120.599 do 2° Ofício de Registro de Imóveis da Comarca de Santo André, com área de 3.374,60m² (três mil trezentos e setenta e quatro metros quadrados e sessenta decímetros quadrados), localizado na Avenida Capitão Mário Toledo de Camargo, na altura do n° 100, Bairro Silveiras, naquele Município, identificado e descrito nos autos do Processo 025.00000320/2023-59.
 
 **Parágrafo único -** O terreno de que trata o "caput" deste artigo destinar-se-á à Secretaria da Segurança Pública, para uso da Superintendência da Polícia Técnico-Científica.
 
