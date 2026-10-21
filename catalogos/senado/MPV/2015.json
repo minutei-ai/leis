@@ -1,0 +1,439 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2015",
+  "tipo": "MPV",
+  "ano": 2015,
+  "coletado_em": "2026-10-21T08:53:24.470Z",
+  "normas": [
+    {
+      "senadoId": "579975",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-30-708",
+      "titulo": "Medida Provisória nº 708 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "708",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-30;708",
+      "ementa": "Autoriza a União a reincorporar os trechos de rodovias federais transferidos aos Estados e ao Distrito Federal por força da Medida Provisória nº 82, de 7 de dezembro de 2002."
+    },
+    {
+      "senadoId": "579977",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-30-709",
+      "titulo": "Medida Provisória nº 709 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "709",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-30;709",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Saúde, da Cultura, do Esporte, da Defesa, da Integração Nacional e do Turismo, da Secretaria de Aviação Civil, da Secretaria de Portos e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.318.639.330,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579973",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-30-707",
+      "titulo": "Medida Provisória nº 707 de 30/12/2015",
+      "data": "2015-12-30",
+      "numero": "707",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-30;707",
+      "ementa": "Altera a Lei nº 12.096, de 24 de novembro de 2009, e a Lei nº 12.844, de 19 de julho de 2013, para alterar os prazos que especifica."
+    },
+    {
+      "senadoId": "579971",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-28-706",
+      "titulo": "Medida Provisória nº 706 de 28/12/2015",
+      "data": "2015-12-28",
+      "numero": "706",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-28;706",
+      "ementa": "Altera a Lei nº 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica."
+    },
+    {
+      "senadoId": "579969",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-23-705",
+      "titulo": "Medida Provisória nº 705 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "705",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-23;705",
+      "ementa": "Altera a Lei nº 12.722, de 3 de outubro de 2012, que dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil."
+    },
+    {
+      "senadoId": "579967",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-23-704",
+      "titulo": "Medida Provisória nº 704 de 23/12/2015",
+      "data": "2015-12-23",
+      "numero": "704",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-23;704",
+      "ementa": "Dispõe sobre fontes de recursos para cobertura de despesas primárias obrigatórias e para pagamento da Dívida Pública Federal."
+    },
+    {
+      "senadoId": "579965",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-18-703",
+      "titulo": "Medida Provisória nº 703 de 18/12/2015",
+      "data": "2015-12-18",
+      "numero": "703",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-18;703",
+      "ementa": "Altera a Lei nº 12.846, de 1º de agosto de 2013, para dispor sobre acordos de leniência."
+    },
+    {
+      "senadoId": "579963",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-17-702",
+      "titulo": "Medida Provisória nº 702 de 17/12/2015",
+      "data": "2015-12-17",
+      "numero": "702",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-17;702",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Saúde, do Trabalho e Emprego e das Cidades e de Encargos Financeiros da União, no valor de R$ 37.579.334.525,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579959",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-08-700",
+      "titulo": "Medida Provisória nº 700 de 08/12/2015",
+      "data": "2015-12-08",
+      "numero": "700",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-08;700",
+      "ementa": "Altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, que dispõe sobre desapropriações por utilidade pública, e a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos, e dá outras providências."
+    },
+    {
+      "senadoId": "579961",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-12-08-701",
+      "titulo": "Medida Provisória nº 701 de 08/12/2015",
+      "data": "2015-12-08",
+      "numero": "701",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-12-08;701",
+      "ementa": "Altera a Lei nº 6.704, de 26 de outubro de 1979, para dispor sobre o Seguro de Crédito à Exportação; a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 11.281, de 20 de fevereiro de 2006, para dispor sobre o Fundo de Garantia à Exportação; a Lei nº 12.712, de 30 de agosto de 2012, para dispor sobre a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF; e o Decreto-Lei nº 857, de 11 de setembro de 1969, para dispor sobre a moeda de pagamento de obrigações exequíveis no Brasil."
+    },
+    {
+      "senadoId": "579957",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-11-10-699",
+      "titulo": "Medida Provisória nº 699 de 10/11/2015",
+      "data": "2015-11-10",
+      "numero": "699",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-11-10;699",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro."
+    },
+    {
+      "senadoId": "579955",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-10-23-698",
+      "titulo": "Medida Provisória nº 698 de 23/10/2015",
+      "data": "2015-10-23",
+      "numero": "698",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-10-23;698",
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre operações de financiamento habitacional com desconto ao beneficiário concedido pelo Fundo de Garantia do Tempo de Serviço - FGTS para aquisição de imóveis no âmbito do Programa Minha Casa Minha Vida construídos com recursos do Fundo de Arrendamento Residencial - FAR."
+    },
+    {
+      "senadoId": "579953",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-10-08-697",
+      "titulo": "Medida Provisória nº 697 de 08/10/2015",
+      "data": "2015-10-08",
+      "numero": "697",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-10-08;697",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça, das Relações Exteriores, dos Transportes, da Defesa e da Integração Nacional, no valor de R$ 950.246.149,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579951",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-10-02-696",
+      "titulo": "Medida Provisória nº 696 de 02/10/2015",
+      "data": "2015-10-02",
+      "numero": "696",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-10-02;696",
+      "ementa": "Extingue e transforma cargos públicos e altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios."
+    },
+    {
+      "senadoId": "579949",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-10-02-695",
+      "titulo": "Medida Provisória nº 695 de 02/10/2015",
+      "data": "2015-10-02",
+      "numero": "695",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-10-02;695",
+      "ementa": "Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a adquirirem participação nos termos e condições previstos no art. 2º da Lei nº 11.908, de 3 de março de 2009, e dá outras providências."
+    },
+    {
+      "senadoId": "579945",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-09-30-693",
+      "titulo": "Medida Provisória nº 693 de 30/09/2015",
+      "data": "2015-09-30",
+      "numero": "693",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-09-30;693",
+      "ementa": "Altera a Lei nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e altera a Lei nº 10.593, de 6 de dezembro de 2002, para dispor sobre o porte de arma de fogo institucional pelos servidores integrantes da Carreira de Auditoria da Receita Federal do Brasil."
+    },
+    {
+      "senadoId": "579947",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-09-30-694",
+      "titulo": "Medida Provisória nº 694 de 30/09/2015",
+      "data": "2015-09-30",
+      "numero": "694",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-09-30;694",
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para dispor sobre o imposto sobre a renda incidente sobre juros de capital próprio, a Lei nº 10.865, de 30 de abril de 2004, e a Lei nº 11.196, de 21 de novembro de 2005, para dispor sobre os benefícios fiscais do Regime Especial da Indústria Química e para suspender, no ano-calendário de 2016, os benefícios fiscais de que tratam os arts. 19, 19-A e 26 desta Lei."
+    },
+    {
+      "senadoId": "579943",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-09-22-692",
+      "titulo": "Medida Provisória nº 692 de 22/09/2015",
+      "data": "2015-09-22",
+      "numero": "692",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-09-22;692",
+      "ementa": "Altera a Lei nº 8.981, de 20 de janeiro de 1995, para dispor acerca da incidência de imposto sobre a renda na hipótese de ganho de capital em decorrência da alienação de bens e direitos de qualquer natureza, e a Medida Provisória nº 685, de 21 de julho de 2015, que institui o Programa de Redução de Litígios Tributários - PRORELIT."
+    },
+    {
+      "senadoId": "579941",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-08-31-691",
+      "titulo": "Medida Provisória nº 691 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "691",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-08-31;691",
+      "ementa": "Dispõe sobre a administração, a alienação, a transferência de gestão de imóveis da União e seu uso para a constituição de fundos."
+    },
+    {
+      "senadoId": "579939",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-08-31-690",
+      "titulo": "Medida Provisória nº 690 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "690",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-08-31;690",
+      "ementa": "Dispõe sobre a incidência do Imposto sobre Produtos Industrializados - IPI sobre as bebidas classificadas nas posições 22.04, 22.05, 22.06 e 22.08, exceto o código 2208.90.00 Ex 01, da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, altera a Lei nº 9.430, de 27 de dezembro de 1996, quanto à legislação do Imposto sobre a Renda de Pessoa Jurídica, e revoga os arts. 28 a 30 da Lei nº 11.196, de 21 de novembro de 2005, que dispõem sobre o Programa de Inclusão Digital."
+    },
+    {
+      "senadoId": "579937",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-08-31-689",
+      "titulo": "Medida Provisória nº 689 de 31/08/2015",
+      "data": "2015-08-31",
+      "numero": "689",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-08-31;689",
+      "ementa": "Altera a Lei nº 8.112, de 11 de dezembro de 1990."
+    },
+    {
+      "senadoId": "579935",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-08-18-688",
+      "titulo": "Medida Provisória nº 688 de 18/08/2015",
+      "data": "2015-08-18",
+      "numero": "688",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-08-18;688",
+      "ementa": "Dispõe sobre a repactuação do risco hidrológico de geração de energia elétrica, institui a bonificação pela outorga e altera a Lei nº 10.848, de 15 de março de 2004, que dispõe sobre a comercialização de energia elétrica, a Lei nº 12.783, 11 de janeiro de 2013, que dispõe sobre as concessões de energia elétrica, e a Lei nº 9.478, de 6 de agosto de 1997, que institui o Conselho Nacional de Política Energética."
+    },
+    {
+      "senadoId": "579933",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-08-17-687",
+      "titulo": "Medida Provisória nº 687 de 17/08/2015",
+      "data": "2015-08-17",
+      "numero": "687",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-08-17;687",
+      "ementa": "Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para dispor sobre a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional - Condecine, e a Lei nº 12.529, de 30 de novembro de 2011, para dispor sobre as taxas processuais sobre os processos de competência do Conselho Administrativo de Defesa Econômica - Cade, e autoriza o Poder Executivo federal a atualizar monetariamente o valor das taxas e dos preços estabelecidos pela Lei nº 6.938, de 31 de agosto de 1981."
+    },
+    {
+      "senadoId": "579931",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-30-686",
+      "titulo": "Medida Provisória nº 686 de 30/07/2015",
+      "data": "2015-07-30",
+      "numero": "686",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-30;686",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Educação, de Encargos Financeiros da União e de Operações Oficiais de Crédito, no valor de R$ 9.820.639.868,00, para os fins que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "579929",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-21-685",
+      "titulo": "Medida Provisória nº 685 de 21/07/2015",
+      "data": "2015-07-21",
+      "numero": "685",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-21;685",
+      "ementa": "Institui o Programa de Redução de Litígios Tributários - PRORELIT, cria a obrigação de informar à administração tributária federal as operações e atos ou negócios jurídicos que acarretem supressão, redução ou diferimento de tributo e autoriza o Poder Executivo federal a atualizar monetariamente o valor das taxas que indica."
+    },
+    {
+      "senadoId": "579927",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-21-684",
+      "titulo": "Medida Provisória nº 684 de 21/07/2015",
+      "data": "2015-07-21",
+      "numero": "684",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-21;684",
+      "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, que estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não transferências de recursos financeiros, entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público; define diretrizes para a política de fomento e de colaboração com organizações da sociedade civil; institui o termo de colaboração e o termo de fomento; e altera as Leis nºs 8.429, de 2 de junho de 1992, e 9.790, de 23 de março de 1999."
+    },
+    {
+      "senadoId": "579925",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-13-683",
+      "titulo": "Medida Provisória nº 683 de 13/07/2015",
+      "data": "2015-07-13",
+      "numero": "683",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-13;683",
+      "ementa": "Institui o Fundo de Desenvolvimento Regional e Infraestrutura e o Fundo de Auxílio à Convergência das Alíquotas do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, com a finalidade de facilitar o comércio interestadual e estimular o investimento produtivo e o desenvolvimento regional."
+    },
+    {
+      "senadoId": "579921",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-10-681",
+      "titulo": "Medida Provisória nº 681 de 10/07/2015",
+      "data": "2015-07-10",
+      "numero": "681",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-10;681",
+      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, a Lei nº 8.213, de 24 de julho de 1991, e a Lei nº 8.112, de 11 de dezembro de 1990, para dispor sobre desconto em folha de valores destinados ao pagamento de cartão de crédito."
+    },
+    {
+      "senadoId": "579923",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-10-682",
+      "titulo": "Medida Provisória nº 682 de 10/07/2015",
+      "data": "2015-07-10",
+      "numero": "682",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-10;682",
+      "ementa": "Altera a Lei nº 12.712, de 30 de agosto de 2012, para estabelecer que a Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF ficará encarregada da gestão do Fundo de Estabilidade do Seguro Rural - FESR até a completa liquidação das obrigações deste Fundo."
+    },
+    {
+      "senadoId": "579919",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-07-06-680",
+      "titulo": "Medida Provisória nº 680 de 06/07/2015",
+      "data": "2015-07-06",
+      "numero": "680",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-07-06;680",
+      "ementa": "Institui o Programa de Proteção ao Emprego e dá outras providências."
+    },
+    {
+      "senadoId": "579917",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-06-23-679",
+      "titulo": "Medida Provisória nº 679 de 23/06/2015",
+      "data": "2015-06-23",
+      "numero": "679",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-06-23;679",
+      "ementa": "Dispõe sobre autorização para a realização de obras e serviços necessários ao fornecimento de energia elétrica temporária para os Jogos Olímpicos e Paraolímpicos de 2016, de que trata a Lei nº 12.035, de 1º de outubro de 2009, e altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa Minha Vida e sobre a regularização fundiária de assentamentos localizados em áreas urbanas, a Lei nº 12.035, de 2009, que institui o Ato Olímpico, e a Lei nº 11.473, de 10 de maio de 2007, que dispõe sobre cooperação federativa no âmbito da segurança pública."
+    },
+    {
+      "senadoId": "579915",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-06-23-678",
+      "titulo": "Medida Provisória nº 678 de 23/06/2015",
+      "data": "2015-06-23",
+      "numero": "678",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-06-23;678",
+      "ementa": "Altera a Lei nº 12.462, de 4 de agosto de 2011, que institui o Regime Diferenciado de Contratações Públicas."
+    },
+    {
+      "senadoId": "579913",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-06-22-677",
+      "titulo": "Medida Provisória nº 677 de 22/06/2015",
+      "data": "2015-06-22",
+      "numero": "677",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-06-22;677",
+      "ementa": "Autoriza a Companhia Hidro Elétrica do São Francisco a participar do Fundo de Energia do Nordeste, com o objetivo de prover recursos para a implementação de empreendimentos de energia elétrica, e altera a Lei nº 11.943, de 28 de maio de 2009, e a Lei nº 10.848, de 15 de março de 2004."
+    },
+    {
+      "senadoId": "579911",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-06-17-676",
+      "titulo": "Medida Provisória nº 676 de 17/06/2015",
+      "data": "2015-06-17",
+      "numero": "676",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-06-17;676",
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social."
+    },
+    {
+      "senadoId": "579909",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-05-21-675",
+      "titulo": "Medida Provisória nº 675 de 21/05/2015",
+      "data": "2015-05-21",
+      "numero": "675",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-05-21;675",
+      "ementa": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, para elevar a alíquota da Contribuição Social sobre o Lucro Líquido - CSLL em relação às pessoas jurídicas de seguros privados e de capitalização e às referidas nos incisos I a VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001."
+    },
+    {
+      "senadoId": "579907",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-05-19-674",
+      "titulo": "Medida Provisória nº 674 de 19/05/2015",
+      "data": "2015-05-19",
+      "numero": "674",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-05-19;674",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário, da Defesa e da Integração Nacional, no valor de R$ 904.756.882,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579905",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-03-31-673",
+      "titulo": "Medida Provisória nº 673 de 31/03/2015",
+      "data": "2015-03-31",
+      "numero": "673",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-03-31;673",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e dá outras providências."
+    },
+    {
+      "senadoId": "579903",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-03-24-672",
+      "titulo": "Medida Provisória nº 672 de 24/03/2015",
+      "data": "2015-03-24",
+      "numero": "672",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-03-24;672",
+      "ementa": "Dispõe sobre a política de valorização do salário mínimo para o período de 2016 a 2019."
+    },
+    {
+      "senadoId": "579901",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-03-19-671",
+      "titulo": "Medida Provisória nº 671 de 19/03/2015",
+      "data": "2015-03-19",
+      "numero": "671",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-03-19;671",
+      "ementa": "Institui o Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro, dispõe sobre a gestão temerária no âmbito das entidades desportivas profissionais, e dá outras providências."
+    },
+    {
+      "senadoId": "579899",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-03-10-670",
+      "titulo": "Medida Provisória nº 670 de 10/03/2015",
+      "data": "2015-03-10",
+      "numero": "670",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-03-10;670",
+      "ementa": "Altera a Lei nº 11.482, de 31 de maio de 2007, para dispor sobre os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física; a Lei nº 7.713, de 22 de dezembro de 1988; e a Lei nº 9.250, de 26 de dezembro de 1995."
+    },
+    {
+      "senadoId": "579897",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-02-26-669",
+      "titulo": "Medida Provisória nº 669 de 26/02/2015",
+      "data": "2015-02-26",
+      "numero": "669",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-02-26;669",
+      "ementa": "Altera a Lei nº 12.546, de 14 de dezembro de 2011, quanto à contribuição previdenciária sobre a receita bruta; a Lei nº 12.469, de 26 de agosto de 2011, a Lei nº 12.995, de 18 de junho de 2014, e a Lei nº 11.196, de 21 de novembro de 2005, quanto à tributação de bebidas frias; e a Lei nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016."
+    },
+    {
+      "senadoId": "579895",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-01-30-668",
+      "titulo": "Medida Provisória nº 668 de 30/01/2015",
+      "data": "2015-01-30",
+      "numero": "668",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-01-30;668",
+      "ementa": "Altera a Lei nº 10.865, de 30 de abril de 2004, para elevar alíquotas da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação, e dá outras providências."
+    },
+    {
+      "senadoId": "579893",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2015-01-02-667",
+      "titulo": "Medida Provisória nº 667 de 02/01/2015",
+      "data": "2015-01-02",
+      "numero": "667",
+      "urn": "urn:lex:br:federal:medida.provisoria:2015-01-02;667",
+      "ementa": "Abre crédito extraordinário, em favor dos órgãos e empresas estatais, constantes do Projeto de Lei Orçamentária de 2015, no valor de R$ 74.014.218.398,00, para os fins que especifica."
+    }
+  ],
+  "pendencias": []
+}

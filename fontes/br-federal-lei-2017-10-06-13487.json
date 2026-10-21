@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-10-06-13487",
+  "titulo": "Lei nº 13.487 de 06/10/2017",
+  "data": "2017-10-06",
+  "fonte": "https://normas.leg.br/api/public/binario/db5d0782-41cd-4982-85be-01439b776bac/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-10-06;13487",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-10-06%3B13487&tipo_documento=maior-detalhe",
+  "sha256_dados": "1f5365e233cd7cc0af30a042d946cd16bd2c3d8e213d337c5379407d02c3eb7b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:27.265Z",
+  "sha256_fonte": "4240138ba259b1b8147f0731a05e989c1b2b88ba9e6ed7ad8bee10009e06f29e",
+  "sha256_markdown": "1bc6e288822f2b22efe84db1e53770297dbb6a993db52e2067b705daa947173e"
+}

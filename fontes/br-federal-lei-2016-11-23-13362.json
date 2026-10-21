@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-11-23-13362",
+  "titulo": "Lei nº 13.362 de 23/11/2016",
+  "data": "2016-11-23",
+  "fonte": "https://normas.leg.br/api/public/binario/4c3ec158-7098-44df-9b9f-cb372aad59e4/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-11-23;13362",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-11-23%3B13362&tipo_documento=maior-detalhe",
+  "sha256_dados": "e829bbd3aba406cada1b56c4b63f1378bb6df4e7b61f78673ebd8fa3212e65f3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:12.647Z",
+  "sha256_fonte": "dad4af9908a6648d5900d734d548ced73697757de87942d59e8976f5e0041dfd",
+  "sha256_markdown": "9832ac4a4b2700e0dbbed7cf6c4db9621354784a80c9504f1b686f8331ad54bb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-06-26-13457",
+  "titulo": "Lei nº 13.457 de 26/06/2017",
+  "data": "2017-06-26",
+  "fonte": "https://normas.leg.br/api/public/binario/5f51731c-652d-4137-bcbe-1b88ffcd297a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-06-26;13457",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-06-26%3B13457&tipo_documento=maior-detalhe",
+  "sha256_dados": "18d273de7e5ff3c2ce3979f134b548adfdebd1897578eabcd4feaf433d95f8b6",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:04.101Z",
+  "sha256_fonte": "46fff5fc621bdacd446888f49548341069c9c181de27d4e924a3574a966f2496",
+  "sha256_markdown": "d8faed1a4599d036ea3b792adda6287d43bc7a29eb23a527e64b72a2e4cc8074"
+}

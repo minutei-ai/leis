@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-30-13239",
+  "titulo": "Lei nº 13.239 de 30/12/2015",
+  "data": "2015-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/ca90569f-c5d5-4792-8614-a7a0fae52e72/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-30;13239",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-30%3B13239&tipo_documento=maior-detalhe",
+  "sha256_dados": "f460d74ad14f3d53289e2e6dec66f15d706ddbe8e1659337ceecdce6abe9768a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:59.934Z",
+  "sha256_fonte": "80fb4dbff0dc5cdbabe13b4402a418f1fa7d0de171e6ea29d793b0c4a498bac2",
+  "sha256_markdown": "65c0170aecae896cdc3b907469818f23f1f904972cdc119c5b108bf3fe18724e"
+}

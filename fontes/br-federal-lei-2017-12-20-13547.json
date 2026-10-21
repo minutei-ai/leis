@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-20-13547",
+  "titulo": "Lei nº 13.547 de 20/12/2017",
+  "data": "2017-12-20",
+  "fonte": "https://normas.leg.br/api/public/binario/60885fa7-9e7e-476d-83ce-19266441f8a7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-20;13547",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-20%3B13547&tipo_documento=maior-detalhe",
+  "sha256_dados": "51cd203faa62c7d6a24cd24ef8aaef6d52629ca4fd0db90ddf35f9d22632441d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:03.189Z",
+  "sha256_fonte": "87919b6e4b1c96241861e24ecc73e6124cd9148f428a00794994ded4f37894d2",
+  "sha256_markdown": "289f3361749212cdfde319f3b99ea15300c73de7d320ece2ebe44fc39c39df71"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-21-13560",
+  "titulo": "Lei nº 13.560 de 21/12/2017",
+  "data": "2017-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/3f5bc808-65d1-4dbf-b57e-8cb431675a89/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-21;13560",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-21%3B13560&tipo_documento=maior-detalhe",
+  "sha256_dados": "0718c532b9719d45df8051614d377975b4f42745ca5cde303c33d134c51433d3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:52.979Z",
+  "sha256_fonte": "71decef471fd4ea383323760e03c3bb256c0382aa24dee731e910756df668dec",
+  "sha256_markdown": "8115d2a096fb07d45c7ea649f89a09cc6fb36ddfbb799031a34f2cf10baeca49"
+}

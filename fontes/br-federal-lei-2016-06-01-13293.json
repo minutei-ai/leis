@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-06-01-13293",
+  "titulo": "Lei nº 13.293 de 01/06/2016",
+  "data": "2016-06-01",
+  "fonte": "https://normas.leg.br/api/public/binario/4e181a35-286c-45a1-9eb5-95ad00f27423/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-06-01;13293",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-06-01%3B13293&tipo_documento=maior-detalhe",
+  "sha256_dados": "2d8fd304400bf071f960d929e0c94842da2a279b2cd27549f3d7b3a5fbb3692c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:58:52.021Z",
+  "sha256_fonte": "97e37f18b049418e124d51b37e926b05f01af0da500c4f0b286d667357d99548",
+  "sha256_markdown": "0219a5e3b035c96ecf0195b0d41911e9e06c97b52e079b1af61f3c77018ef460"
+}

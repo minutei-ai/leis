@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-20-13552",
+  "titulo": "Lei nº 13.552 de 20/12/2017",
+  "data": "2017-12-20",
+  "fonte": "https://normas.leg.br/api/public/binario/f8322669-1fdc-4749-b58e-e7a24bfb6704/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-20;13552",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-20%3B13552&tipo_documento=maior-detalhe",
+  "sha256_dados": "eca2ada7fdc18e5e0e6ddf214afa993b4be85ea0f47117b71a0ff405b2833987",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:10.922Z",
+  "sha256_fonte": "17cd598d9e7a0f9f9e570b583f7a5d8be05ab52c44925ae589e5f9d83423803a",
+  "sha256_markdown": "4f699c0f30f7d721fa1b0a867a810ecbb830ea39c8ea012fc6d37f5f5c3b0188"
+}

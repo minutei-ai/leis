@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-01-08-13082",
+  "titulo": "Lei nº 13.082 de 08/01/2015",
+  "data": "2015-01-08",
+  "fonte": "https://normas.leg.br/api/public/binario/66d879b1-3b1c-4c4a-8745-29401979a1f8/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-01-08;13082",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-01-08%3B13082&tipo_documento=maior-detalhe",
+  "sha256_dados": "c32ffaa3121fe7ecbb7962029a06e840ddaab0ef4df503e7319e30c897c366ab",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:26.403Z",
+  "sha256_fonte": "88a0f6f5caf72684102291b0a102ddc1646633a01358653d5615b9239edc693b",
+  "sha256_markdown": "81a94acc2324b2ce00702cf91649a88fa93a37bfb5bf1f869d40ff133d695f24"
+}

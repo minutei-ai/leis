@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-01-08-13083",
+  "titulo": "Lei nº 13.083 de 08/01/2015",
+  "data": "2015-01-08",
+  "fonte": "https://normas.leg.br/api/public/binario/01f094c8-a8d1-4c1e-a6ee-b5f956501df1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-01-08;13083",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-01-08%3B13083&tipo_documento=maior-detalhe",
+  "sha256_dados": "86a35bee3d322c40f715cfd421c69c8d3a365852f565e06821cc9fc97a1c621f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:23.819Z",
+  "sha256_fonte": "948065000e968dde8bdda677785724942907a1495621fb8f42e3c185d155b276",
+  "sha256_markdown": "8a5ebde03b91983045c8b3414fc3db23094ae12b849d8eedd996e46906d2f843"
+}

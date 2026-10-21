@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-09-05-13479",
+  "titulo": "Lei nº 13.479 de 05/09/2017",
+  "data": "2017-09-05",
+  "fonte": "https://normas.leg.br/api/public/binario/0373e327-2ba3-4b0b-b800-1e820c9434cf/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-09-05;13479",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-09-05%3B13479&tipo_documento=maior-detalhe",
+  "sha256_dados": "95f8b98062edfd266acdc74e6a6a62216d7721bd14f4475b75d112b4c092e252",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:38.785Z",
+  "sha256_fonte": "3e1754638a7e8f9996cd11baaca7a998ad96e3149f62b63a85d185eefcc6c9ca",
+  "sha256_markdown": "e875b4755718ea172fa5ffb81c274aab5edbfd0a4332ca52d87ee6dfcaabb3ce"
+}

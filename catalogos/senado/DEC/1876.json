@@ -1,0 +1,3639 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1876",
+  "tipo": "DEC",
+  "ano": 1876,
+  "coletado_em": "2026-10-21T08:52:17.364Z",
+  "normas": [
+    {
+      "senadoId": "410466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6450",
+      "titulo": "Decreto nº 6.450 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6450",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6450",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AO DR. RODRIGO OTÁVIO DE OLIVEIRA MENEZES E OUTROS PARA A EXPLORAÇÃO DE MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6446",
+      "titulo": "Decreto nº 6.446 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6446",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6446",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA INDUSTRIAL DE VALENÇA."
+    },
+    {
+      "senadoId": "410454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6447",
+      "titulo": "Decreto nº 6.447 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6447",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6447",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA COOPERATIVA DE CONSUMO DE PÃO, E AUTORIZA PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "410474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6452",
+      "titulo": "Decreto nº 6.452 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6452",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6452",
+      "ementa": "APROVA A REFORMA FEITA NOS ESTATUTOS DA COMPANHIA MANUFATORA DE MATERIAIS PARA CONSTRUÇÕES, COM ALTERAÇÕES."
+    },
+    {
+      "senadoId": "410446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6445",
+      "titulo": "Decreto nº 6.445 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6445",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6445",
+      "ementa": "ELEVA A 90:000$000 O CRÉDITO EXTRAORDINÁRIO DA IMPORTÂNCIA DE 60:000$000 ABERTO PELO DECRETO NÚMERO 6349 DE 4 DE OUTUBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "410458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6448",
+      "titulo": "Decreto nº 6.448 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6448",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6448",
+      "ementa": "AUTORIZA A COMPANHIA \"THE GUARDIAN FIRE AND LIFE ASSURANCE\" A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "410443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6444",
+      "titulo": "Decreto nº 6.444 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6444",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6444",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO UM CRÉDITO SUPLEMENTAR DE 300:000$000 PARA DESPESAS DA VERBA, SOCORROS PÚBLICOS E MELHORAMENTO DO ESTADO SANITÁRIO, NO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "410439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6443",
+      "titulo": "Decreto nº 6.443 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6443",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6443",
+      "ementa": "APROVA A ALTERAÇÃO DO NOME DO CLUB GINÁSTICO PORTUGUÊS."
+    },
+    {
+      "senadoId": "410478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6453",
+      "titulo": "Decreto nº 6.453 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6453",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6453",
+      "ementa": "CONCEDE PRIVILÉGIO AO DR. FELIPE PEREIRA CALDAS PARA O PROCESSO DE SUA INVENÇÃO DESTINADO A CONSERVAR CARNES."
+    },
+    {
+      "senadoId": "410462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6449",
+      "titulo": "Decreto nº 6.449 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6449",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6449",
+      "ementa": "AUTORIZA A COMPANHIA \"THE PITANGUI GOLD MINING\" A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "410470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-30-6451",
+      "titulo": "Decreto nº 6.451 de 30/12/1876",
+      "data": "1876-12-30",
+      "numero": "6451",
+      "urn": "urn:lex:br:federal:decreto:1876-12-30;6451",
+      "ementa": "CONCEDE PRIVILÉGIO A MIGUEL ALAMIR BAGLIONI PARA USAR DOS MELHORAMENTOS REALIZADOS NA MÁQUINA DENOMINADA \"TURBINA TANGETECLAS\", QUE INVENTOU COM O FIM DE DESCASCAR E LIMPAR CAFÉ."
+    },
+    {
+      "senadoId": "410424",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-28-6439",
+      "titulo": "Decreto nº 6.439 de 28/12/1876",
+      "data": "1876-12-28",
+      "numero": "6439",
+      "urn": "urn:lex:br:federal:decreto:1876-12-28;6439",
+      "ementa": "PRORROGA POR MAIS SEIS MESES AS DISPOSIÇÕES DO DECRETO SUSPENDENDO A COBRANÇA DOS DIREITOS DE CONSUMO DO GADO VACUM E LANIGERO IMPORTADO NO IMPÉRIO."
+    },
+    {
+      "senadoId": "410435",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-28-6442",
+      "titulo": "Decreto nº 6.442 de 28/12/1876",
+      "data": "1876-12-28",
+      "numero": "6442",
+      "urn": "urn:lex:br:federal:decreto:1876-12-28;6442",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BENEFICENTE CAIXA DE SOCORROS MÚTUOS PEDRO II."
+    },
+    {
+      "senadoId": "410428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-28-6440",
+      "titulo": "Decreto nº 6.440 de 28/12/1876",
+      "data": "1876-12-28",
+      "numero": "6440",
+      "urn": "urn:lex:br:federal:decreto:1876-12-28;6440",
+      "ementa": "CRIA O COLEGIO NAVAL, FICANDO SUPRIMIDO O EXTERNATO DE MARINHA."
+    },
+    {
+      "senadoId": "410431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-28-6441",
+      "titulo": "Decreto nº 6.441 de 28/12/1876",
+      "data": "1876-12-28",
+      "numero": "6441",
+      "urn": "urn:lex:br:federal:decreto:1876-12-28;6441",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE AUXILIADORA DOS ARTISTAS ALFAIATES."
+    },
+    {
+      "senadoId": "410376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6427",
+      "titulo": "Decreto nº 6.427 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6427",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6427",
+      "ementa": "RESCINDE O CONTRATO CELEBRADO COM CHARLES WILIAN KITO PARA A INTRODUÇÃO E ESTABELECIMENTO DE IMIGRANTES DA INGLATERRA."
+    },
+    {
+      "senadoId": "410380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6428",
+      "titulo": "Decreto nº 6.428 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6428",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6428",
+      "ementa": "PRORROGA POR CINCO ANOS O PRAZO DO CONTRATO CELEBRADO COM A COMPANHIA BRASILEIRA DE NAVEGAÇÃO A VAPOR."
+    },
+    {
+      "senadoId": "568772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6421",
+      "titulo": "Decreto nº 6.421 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6421",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6421",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO A MANOEL PINTO NOVAIS, PARA ORGANIZAR COMPANHIA, COM O FIM DE ESTABELECER UM ENGENHO CENTRAL NA FREGUEZIA DE IGUAPÉ, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6430",
+      "titulo": "Decreto nº 6.430 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6430",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6430",
+      "ementa": "CONCEDE A KELER & COMPANHIA PRORROGAÇÃO POR MAIS UM ANO DO PRAZO MARCADO NA CLÁUSULA 6ª DO DECRETO NÚMERO 6121 DE 16 DE FEVEREIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "568760",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6418",
+      "titulo": "Decreto nº 6.418 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6418",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6418",
+      "ementa": "SEPARA DO TERMO DE PIRACURUCA O DE PEDRO II, NA PROVÍNCIA DO PIAUÍ, E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "410372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6426",
+      "titulo": "Decreto nº 6.426 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6426",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6426",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A TRANSFERIR DE UMA PARA OUTRAS RUBRICAS DA DESPESA DO MESMO MINISTÉRIO NO EXERCÍCIO DE 1875-1876, A SOMA DE 586:102$957."
+    },
+    {
+      "senadoId": "410404",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6434",
+      "titulo": "Decreto nº 6.434 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6434",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6434",
+      "ementa": "APROVA A REFORMA DO ARTIGO 7º DOS ESTATUTOS DA COMPANHIA CEARENSE DA VIA FÉRREA DE BATURITÉ."
+    },
+    {
+      "senadoId": "568764",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6419",
+      "titulo": "Decreto nº 6.419 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6419",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6419",
+      "ementa": "AMPLIA O PRAZO DO EXAME OU VISTORIA DAS BARCAS A VAPOR DO COMÉRCIO."
+    },
+    {
+      "senadoId": "410364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6424",
+      "titulo": "Decreto nº 6.424 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6424",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6424",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 600:000$000, À COMPANHIA QUE O BACHAREL ANTÔNIO CÉZAR DE BERREDO E O ENGENHEIRO FÁBIO HOSTÍLIO DE MORAIS REGO ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA, À MARGEM DO RIO MEARIM, PROVÍNCIA DO MARANHÃO, NA ZONA COMPREENDIDA ENTRE AS SITUAÇÕES DENOMINADAS \"CANTAGALO\" E \"BELMONT\"."
+    },
+    {
+      "senadoId": "568752",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6416",
+      "titulo": "Decreto nº 6.416 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6416",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6416",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE NOSSA SENHORA DOS CORITIBANOS, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "568756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6417",
+      "titulo": "Decreto nº 6.417 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6417",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6417",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE NOSSA SENHORA DOS CORITIBANOS, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "410384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6429",
+      "titulo": "Decreto nº 6.429 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6429",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6429",
+      "ementa": "AUTORIZA A NOVAÇÃO DO CONTRATO CELEBRADO COM \"CONCEIÇÃO & COMPANHIA\", PARA O SERVIÇO DA NAVEGAÇÃO POR VAPOR NA LINHA DE MONTEVIDÉU À CUIABÁ, NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "410420",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6438",
+      "titulo": "Decreto nº 6.438 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6438",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6438",
+      "ementa": "CRIA NA ESCOLA POLITÉCNICA UMA AULA PREPARATÓRIA."
+    },
+    {
+      "senadoId": "410392",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6431",
+      "titulo": "Decreto nº 6.431 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6431",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6431",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA COMÉRCIO E LAVOURA."
+    },
+    {
+      "senadoId": "410412",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6436",
+      "titulo": "Decreto nº 6.436 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6436",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6436",
+      "ementa": "CONCEDE PERMISSÃO A D. ANA MARIA DE SENE ROSADO PARA EXPLORAR JAZIDAS DE OURO NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6422",
+      "titulo": "Decreto nº 6.422 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6422",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6422",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO AO VISCONDE DE SERGIMERIM E OUTROS, PARA ORGANIZAREM COMPANHIA, COM O FIM DE ESTABELECER UM ENGENHO  CENTRAL NA FREGUESIA DO BOM JARDIM, MUNICÍPIO DE SANTO AMARO, NA BAHIA."
+    },
+    {
+      "senadoId": "568768",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6420",
+      "titulo": "Decreto nº 6.420 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6420",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6420",
+      "ementa": "AUTORIZA A COMPANHIA GARANTIA DOS PROPRIETÁRIOS A FAZER SEGUROS DE VIDA."
+    },
+    {
+      "senadoId": "410360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6423",
+      "titulo": "Decreto nº 6.423 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6423",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6423",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO A JOSÉ PACHECO PEREIRA E OUTROS PARA ORGANIZAREM UMA COMPANHIA, COM O FIM DE ESTABELECER UM ENGENHO CENTRAL NA FREGUEZIA DO RIO FUNDO, MUNICÍPIO DE SANTO AMARO, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6437",
+      "titulo": "Decreto nº 6.437 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6437",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6437",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A CRISTOVÃO BONINI E OUTROS PARA A EXPLORAÇÃO DE MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6425",
+      "titulo": "Decreto nº 6.425 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6425",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6425",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE QUINHENTOS CONTOS DE RÉIS (500:000$000) À COMPANHIA QUE O BACHAREL JOSÉ BALTAZAR DE ABREU CARDOSO SODRÉ ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR, NO MUNICÍPIO DE ITABORAÍ, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "410396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6432",
+      "titulo": "Decreto nº 6.432 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6432",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6432",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DO CLUB DE CORRIDAS \"VALENCIANO\"."
+    },
+    {
+      "senadoId": "410408",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6435",
+      "titulo": "Decreto nº 6.435 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6435",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6435",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA ASSOCIAÇÃO DA PRAÇA DO COMÉRCIO DO PARÁ."
+    },
+    {
+      "senadoId": "410400",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-22-6433",
+      "titulo": "Decreto nº 6.433 de 22/12/1876",
+      "data": "1876-12-22",
+      "numero": "6433",
+      "urn": "urn:lex:br:federal:decreto:1876-12-22;6433",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA PAULISTA."
+    },
+    {
+      "senadoId": "568748",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-14-6415",
+      "titulo": "Decreto nº 6.415 de 14/12/1876",
+      "data": "1876-12-14",
+      "numero": "6415",
+      "urn": "urn:lex:br:federal:decreto:1876-12-14;6415",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 276:370$015, PARA FAZER FACE ÀS DESPESAS COM O SERVIÇO DA EXPOSIÇÃO NACIONAL E INTERNACIONAL DE FILADÉLFIA, DURANTE OS EXERCÍCIOS DE 1874, 1875 E 1875, 1876."
+    },
+    {
+      "senadoId": "568740",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-14-6413",
+      "titulo": "Decreto nº 6.413 de 14/12/1876",
+      "data": "1876-12-14",
+      "numero": "6413",
+      "urn": "urn:lex:br:federal:decreto:1876-12-14;6413",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 1.745:920$598, PARA OCORRER ÀS DESPESAS COM O SERVIÇO DA VERBA \"TERRAS PÚBLICAS E COLONIZAÇÃO\", NO EXERCÍCIO DE 1875, 1876."
+    },
+    {
+      "senadoId": "568744",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-14-6414",
+      "titulo": "Decreto nº 6.414 de 14/12/1876",
+      "data": "1876-12-14",
+      "numero": "6414",
+      "urn": "urn:lex:br:federal:decreto:1876-12-14;6414",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DA QUANTIA DE 1.038:956$652, PARA DESPESAS DAS VERBAS \"ILUMINAÇÃO PÚBLICA\", GARANTIA DE JUROS ÀS ESTRADAS DE FERRO, ESTRADA DE FERRO D. PEDRO II E TELÉGRAFOS, NO EXERCÍCIO DE 1875, 1876."
+    },
+    {
+      "senadoId": "568736",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-14-6412",
+      "titulo": "Decreto nº 6.412 de 14/12/1876",
+      "data": "1876-12-14",
+      "numero": "6412",
+      "urn": "urn:lex:br:federal:decreto:1876-12-14;6412",
+      "ementa": "AUTORIZA O MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS, PARA APLICAR ÀS DESPESAS DAS VERBAS, ESGOTO DA CIDADE E TERRAS PÚBLICAS E COLONIZAÇÃO, DO EXERCÍCIO DE 1875, 1876, A QUANTIA DE 202:267$207, RESULTANTE DAS SOBRAS DOS PARÁGRAFOS  1º, 3º, 8º, 17º E 18º DO ARTIGO 8º DA LEI NÚMERO 2640 DE 22 DE SETEMBRO DE 1875."
+    },
+    {
+      "senadoId": "568712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6406",
+      "titulo": "Decreto nº 6.406 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6406",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6406",
+      "ementa": "MANDA OBSERVAR INSTRUÇÕES RELATIVAS AO SERVIÇO SANITÁRIO."
+    },
+    {
+      "senadoId": "568684",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6399",
+      "titulo": "Decreto nº 6.399 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6399",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6399",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA GUERRA A APLICAR ÀS DESPESAS DE DIVERSAS RUBRICAS A QUANTIA DE 538:270$683, PROVENIENTE DAS SOBRAS VERIFICADAS EM OUTRAS VERBAS DO EXERCÍCIO DE 1875 A 1876."
+    },
+    {
+      "senadoId": "568688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6400",
+      "titulo": "Decreto nº 6.400 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6400",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6400",
+      "ementa": "AUTORIZA A ABERTURA DE UM CRÉDITO EXTRAORDINÁRIO DE 1.121:368$190, PARA OCORRER ÀS DESPESAS DA VERBA \"QUADRO DO EXÉRCITO\" DO MINISTÉRIO DA GUERRA, NO EXERCÍCIO DE 1875, 1876."
+    },
+    {
+      "senadoId": "568704",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6404",
+      "titulo": "Decreto nº 6.404 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6404",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6404",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DE ALGUMAS DISPOSIÇÕES DOS ESTATUTOS DO BANCO COMERCIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "568720",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6408",
+      "titulo": "Decreto nº 6.408 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6408",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6408",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 3.701:293$973, PARA OCORRER ÀS DESPESAS DAS RUBRICAS \"BATALHÃO NAVAL\" CORPO DE IMPERIAIS MARINHEIROS, ARSENAIS, NAVIOS DESARMADOS, HOSPITAIS, E OBRAS DO EXERCÍCIO DE 1875 A 1876."
+    },
+    {
+      "senadoId": "568724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6409",
+      "titulo": "Decreto nº 6.409 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6409",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6409",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 2.846:242$176, PARA AS DESPESAS DO MINISTÉRIO DA MARINHA NAS RUBRICAS, FORÇA NAVAL E DESPESAS EXTRAORDINÁRIAS E EVENTUAIS DO EXERCÍCIO DE 1875 A 1876."
+    },
+    {
+      "senadoId": "568700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6403",
+      "titulo": "Decreto nº 6.403 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6403",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6403",
+      "ementa": "AUTORIZA O TRANSPORTE DE 580:400$000 DAS VERBAS 3ª, 10ª, 17ª, 19ª, 20ª, 21ª E 22ª PARA A 1ª, 7ª, 8ª, 9ª, 11ª, 12ª, 13ª, 16ª E 18ª DO ARTIGO 7º DA LEI 2640 DE 22 DE SETEMBRO DE 1875, EM VIGOR NO EXERCÍCIO DE 1875, 1876, NO MINISTÉRIO DA FAZENDA."
+    },
+    {
+      "senadoId": "568716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6407",
+      "titulo": "Decreto nº 6.407 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6407",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6407",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA A TRANSFERIR DE UMAS PARA OUTRAS RUBRICAS DA DESPESA DO MESMO MINISTÉRIO, NO EXERCÍCIO DE 1875, 1876, A SOMA DE 67:566$378."
+    },
+    {
+      "senadoId": "568696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6402",
+      "titulo": "Decreto nº 6.402 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6402",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6402",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS A APLICAR ÀS DESPESAS DAS VERBAS \"EXTRAORDINÁRIAS NO EXTERIOR\" E EXTRAORDINÁRIAS NO INTERIOR NO EXERCÍCIO DE 1875, 1876, A QUANTIA DE 49:219$268 TIRADA DAS VERBAS \"SECRETARIA DE ESTADO\" AJUDAS DE CUSTO E COMISSÕES DE LIMITES DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "568708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6405",
+      "titulo": "Decreto nº 6.405 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6405",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6405",
+      "ementa": "AUTORIZA O ESTABELECIMENTO, NESTA CÔRTE, DA ASSOCIAÇÃO DENOMINADA \"ECONOMIA POPULAR\" E APROVA, COM MODIFICAÇÕES, OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "568680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6398",
+      "titulo": "Decreto nº 6.398 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6398",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6398",
+      "ementa": "DETERMINA QUE OS CONTÍNUOS DO SUPREMO TRIBUNAL DE JUSTIÇA SEJAM NOMEADOS E DEMITIDOS PELO PRESIDENTE DO MESMO TRIBUNAL."
+    },
+    {
+      "senadoId": "568728",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6410",
+      "titulo": "Decreto nº 6.410 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6410",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6410",
+      "ementa": "APROVA A ALTERAÇÃO PROPOSTA AO ARTIGO 3º DOS ESTATUTOS DO MONTE PIO GERAL."
+    },
+    {
+      "senadoId": "568692",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6401",
+      "titulo": "Decreto nº 6.401 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6401",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6401",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A TRANSFERIR DE UMAS PARA OUTRAS RUBRICAS DA DESPESA DO MESMO MINISTÉRIO, NO EXERCÍCIO DE 1875, 1876, A SOMA DE CENTO E OITENTA CONTOS DE RÉIS."
+    },
+    {
+      "senadoId": "568732",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-12-13-6411",
+      "titulo": "Decreto nº 6.411 de 13/12/1876",
+      "data": "1876-12-13",
+      "numero": "6411",
+      "urn": "urn:lex:br:federal:decreto:1876-12-13;6411",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BENEFICÊNCIA CEARENSE."
+    },
+    {
+      "senadoId": "568652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6391",
+      "titulo": "Decreto nº 6.391 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6391",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6391",
+      "ementa": "CONCEDE PRIVILÉGIO A BENTO JOSÉ DE MOURA MARCONDES PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A BENEFICIAR CAFÉ."
+    },
+    {
+      "senadoId": "568628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6385",
+      "titulo": "Decreto nº 6.385 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6385",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6385",
+      "ementa": "REGULA O EXERCÍCIO DAS ATRIBUIÇÕES ADMINISTRATIVAS CONFERIDAS AOS JUÍZES DE DIREITO PELO ARTIGO 1º DO DECRETO LEGISLATIVO NÚMERO 2662 DE 9 DE OUTUBRO DE 1875."
+    },
+    {
+      "senadoId": "568608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6380",
+      "titulo": "Decreto nº 6.380 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6380",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6380",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DO RIO PRETO E MAR DE ESPANHA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "410351",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6379",
+      "titulo": "Decreto nº 6.379 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6379",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6379",
+      "ementa": "CRIA, NO MUNICÍPIO DA CÔRTE, DUAS ESCOLAS NORMAIS PRIMÁRIAS."
+    },
+    {
+      "senadoId": "568640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6388",
+      "titulo": "Decreto nº 6.388 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6388",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6388",
+      "ementa": "CONCEDE PRIVILÉGIO A AFONSO BOQUIM PARA O NOVO SISTEMA DE PORTAS VENEZIANAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "568632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6386",
+      "titulo": "Decreto nº 6.386 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6386",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6386",
+      "ementa": "REFORMA O REGULAMENTO DO CORPO DE MAQUINISTA DA ARMADA."
+    },
+    {
+      "senadoId": "568624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6384",
+      "titulo": "Decreto nº 6.384 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6384",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6384",
+      "ementa": "ORGANIZA AS JUNTAS E INSPETORIAS COMERCIAIS E REGULA O EXERCÍCIO DAS RESPECTIVAS FUNÇÕES."
+    },
+    {
+      "senadoId": "568656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6392",
+      "titulo": "Decreto nº 6.392 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6392",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6392",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOÃO CARLOS BACKHEUSER, AUGUSTO ALBERTO STUCKY E MIGUEL REDUSINO MESA PARA EXPLORAREM JAZIDAS DE OURO E OUTROS METAIS NO MUNICÍPIO DE SÃO GABRIEL, PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "568664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6394",
+      "titulo": "Decreto nº 6.394 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6394",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6394",
+      "ementa": "APROVA COM MODIFICAÇÕES OS ESTATUTOS DA COMPANHIA SÃO CARLOS DE PARAGUASSÚ E AUTORIZA PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "568644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6389",
+      "titulo": "Decreto nº 6.389 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6389",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6389",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ARTIGOS 2º E 23º DOS ESTATUTOS DA COMPANHIA BRAZIL INDUSTRIAL."
+    },
+    {
+      "senadoId": "568660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6393",
+      "titulo": "Decreto nº 6.393 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6393",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6393",
+      "ementa": "CONCEDE PRIVILÉGIO A ALEXANDRE GAUDINO PARA OS APARELHOS DE UM NOVO SISTEMA DE TRANSPORTE DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "568616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6382",
+      "titulo": "Decreto nº 6.382 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6382",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6382",
+      "ementa": "SEPARA DO TERMO DE VIGIA O DE CINTRA, NA PROVÍNCIA DO PARÁ, E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "568648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6390",
+      "titulo": "Decreto nº 6.390 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6390",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6390",
+      "ementa": "CONCEDE PRIVILÉGIO A COLATINO MARQUES DE SOUZA PARA UM APARELHO, QUE INVENTOU COM O FIM DE CONSERVAR CARNES VERDES, PEIXE E FRUTAS."
+    },
+    {
+      "senadoId": "568668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6395",
+      "titulo": "Decreto nº 6.395 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6395",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6395",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOSÉ JOAQUIM DE CARVALHO BASTOS PARA EXPLORAR JAZIDAS DE CARVÃO DE PEDRA E OUTROS MINERAIS NOS TERRENOS DE SUA PROPRIEDADE, NO MUNICÍPIO DE TAGUARI, PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "568620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6383",
+      "titulo": "Decreto nº 6.383 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6383",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6383",
+      "ementa": "DESIGNA A ORDEM EM QUE DEVEM SER EXTRAIDAS AS LOTERIAS NO ANO DE 1877."
+    },
+    {
+      "senadoId": "568676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6397",
+      "titulo": "Decreto nº 6.397 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6397",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6397",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO FORENSE DE BENEFICÊNCIA."
+    },
+    {
+      "senadoId": "568612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6381",
+      "titulo": "Decreto nº 6.381 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6381",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6381",
+      "ementa": "MARCA O VENCIMENTO ANUAL DOS PROMOTORES PÚBLICOS DAS COMARCAS DO RIO PRETO E DE MAR DE ESPANHA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "568636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6387",
+      "titulo": "Decreto nº 6.387 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6387",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6387",
+      "ementa": "ALTERA AS CLÁUSULAS 2ª E 7ª DAS QUE ACOMPANHARAM O DECRETO NÚMERO 6069 DE 18 DE DEZEMBRO DE 1875."
+    },
+    {
+      "senadoId": "568672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-30-6396",
+      "titulo": "Decreto nº 6.396 de 30/11/1876",
+      "data": "1876-11-30",
+      "numero": "6396",
+      "urn": "urn:lex:br:federal:decreto:1876-11-30;6396",
+      "ementa": "CONCEDE PRIVILÉGIO AO ENGENHEIRO CIVIL E. AUTRAN PARA A MÁQUINA DE SUA INVENÇÃO, DENOMINADA \"PERFILÓGRAFO\"."
+    },
+    {
+      "senadoId": "410339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6376",
+      "titulo": "Decreto nº 6.376 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6376",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6376",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO JOAQUIM DE SOUZA SEBROSA, PARA O APARELHO DENOMINADO \"CONFORMADOR\" DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6373",
+      "titulo": "Decreto nº 6.373 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6373",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6373",
+      "ementa": "APROVA O REGULAMENTO PARA A DISCIPLINA E SERVIÇO INTERNO DOS CORPOS ARREGIMENTADOS DO EXÉRCITO EM QUARTÉIS FIXOS."
+    },
+    {
+      "senadoId": "410331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6374",
+      "titulo": "Decreto nº 6.374 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6374",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6374",
+      "ementa": "MANDA SUBSTITUIR NO ANO DE 1877 A DESIGNAÇÃO FEITA NO DECRETO NÚMERO 6038 DE 27 DE NOVEMBRO DE 1875 QUANTO A ORDEM DA SUBSTITUIÇÃO RECÍPROCA DOS JUÍZES DE DIREITO DA CÔRTE."
+    },
+    {
+      "senadoId": "410323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6372",
+      "titulo": "Decreto nº 6.372 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6372",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6372",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE UNIÃO E BENEFICÊNCIA."
+    },
+    {
+      "senadoId": "410343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6377",
+      "titulo": "Decreto nº 6.377 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6377",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6377",
+      "ementa": "CONCEDE PRIVILÉGIO A FRANCKLIN ANTÔNIO DINIZ E FERNANDO ALEIXO PINTO DE SOUZA, PARA FABRICAREM E VENDEREM CARROÇAS DE SUA INVENÇÃO, DESTINADAS A PREPARAR E MOER CAFÉ."
+    },
+    {
+      "senadoId": "410335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6375",
+      "titulo": "Decreto nº 6.375 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6375",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6375",
+      "ementa": "DESIGNA A ORDEM EM QUE OS JUÍZES SUBSTITUTOS DA CÔRTE DEVERÃO COOPERAR COM OS JUÍZES DE DIREITO E SUBSTITUIR-SE RECIPROCAMENTE AO ANO DE 1877."
+    },
+    {
+      "senadoId": "410347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-15-6378",
+      "titulo": "Decreto nº 6.378 de 15/11/1876",
+      "data": "1876-11-15",
+      "numero": "6378",
+      "urn": "urn:lex:br:federal:decreto:1876-11-15;6378",
+      "ementa": "MANDA EXECUTAR PROVISORIAMENTE MEDIDAS TENDENTES AO MELHORAMENTO DO SERVIÇO SANITÁRIO EM DIVERSOS PORTOS E CIDADES MARÍTIMAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "410291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6364",
+      "titulo": "Decreto nº 6.364 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6364",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6364",
+      "ementa": "ALTERA A CLÁUSULA 4ª A QUE REFERE O DECRETO NÚMERO 6119, DE 9 DE FEVEREIRO ÚLTIMO."
+    },
+    {
+      "senadoId": "410299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6366",
+      "titulo": "Decreto nº 6.366 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6366",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6366",
+      "ementa": "CONCEDE PRIVILÉGIO A REINALDO JOÃO GERTH, PARA FABRICAR E VENDER NA CÔRTE E PROVÍNCIA DO RIO DE JANEIRO MÓVEIS DE VIME, PREPARADOS POR UM PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6370",
+      "titulo": "Decreto nº 6.370 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6370",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6370",
+      "ementa": "CONCEDE A ANTÔNIO JOAQUIM PEREIRA DE CARVALHO PRIVILÉGIO PARA O NOVO SISTEMA DE CONSTRUÇÃO DE NAVIOS DE FUNDO CHATO."
+    },
+    {
+      "senadoId": "410311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6369",
+      "titulo": "Decreto nº 6.369 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6369",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6369",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO JOAQUIM PEREIRA DE CARVALHO, PARA UMA MÁQUINA DE SUA INVENÇÃO, APLICÁVEL AO DESENVOLVIMENTO DE UMA FORÇA MOTRIZ."
+    },
+    {
+      "senadoId": "410303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6367",
+      "titulo": "Decreto nº 6.367 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6367",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6367",
+      "ementa": "PROMULGA A DECLARAÇÃO ENTRE O BRAZIL E A BÉLGICA PARA A PROTEÇÃO DAS MARCAS DE FÁBRICA E COMÉRCIO."
+    },
+    {
+      "senadoId": "410295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6365",
+      "titulo": "Decreto nº 6.365 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6365",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6365",
+      "ementa": "ELEVA A CATEGORIA DA DELEGAÇÃO DO BRASIL NA REPÚBLICA DO CHILE À DE ENVIADO EXTRAORDINÁRIO E MINISTRO PLENIPOTENCIÁRIO."
+    },
+    {
+      "senadoId": "410319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6371",
+      "titulo": "Decreto nº 6.371 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6371",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6371",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÕNIO JOAQUIM PEREIRA DE CARVALHO, PARA O PROPULSOR HIDRÁULICO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-08-6368",
+      "titulo": "Decreto nº 6.368 de 08/11/1876",
+      "data": "1876-11-08",
+      "numero": "6368",
+      "urn": "urn:lex:br:federal:decreto:1876-11-08;6368",
+      "ementa": "DETERMINA QUE A COLÔNIA DO MUCURI PASSE AO REGIME COMUM ÁS OUTRAS POVOAÇÕES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "410287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-11-03-6363",
+      "titulo": "Decreto nº 6.363 de 03/11/1876",
+      "data": "1876-11-03",
+      "numero": "6363",
+      "urn": "urn:lex:br:federal:decreto:1876-11-03;6363",
+      "ementa": "ALTERA O ARTIGO 1º PARÁGRAFO 2º E O ARTIGO 2º DO DECRETO NÚMERO 4045 DE 19 DE DEZEMBRO DE 1867."
+    },
+    {
+      "senadoId": "410279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-25-6361",
+      "titulo": "Decreto nº 6.361 de 25/10/1876",
+      "data": "1876-10-25",
+      "numero": "6361",
+      "urn": "urn:lex:br:federal:decreto:1876-10-25;6361",
+      "ementa": "CONCEDE Á COMPANHIA DE CARRIS DE FERRO DE SÃO CRISTOVÃO AUTORIZAÇÃO PARA PROLONGAR SEUS TRILHOS PELAS RUAS BELA DE SÃO JOÃO E DA ALEGRIA ATÉ AO LARGO DE BEMFICA."
+    },
+    {
+      "senadoId": "410283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-25-6362",
+      "titulo": "Decreto nº 6.362 de 25/10/1876",
+      "data": "1876-10-25",
+      "numero": "6362",
+      "urn": "urn:lex:br:federal:decreto:1876-10-25;6362",
+      "ementa": "CRIA NO MUNICÍPIO DA CÔRTE MAIS DEZ ESCOLAS PÚBLICAS DE INSTRUÇÃO PRIMÁRIA DO 1º GRAU."
+    },
+    {
+      "senadoId": "410263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-18-6357",
+      "titulo": "Decreto nº 6.357 de 18/10/1876",
+      "data": "1876-10-18",
+      "numero": "6357",
+      "urn": "urn:lex:br:federal:decreto:1876-10-18;6357",
+      "ementa": "PRORROGA O PRAZO FIXADO NA 2ª PARTE DA CLÁUSULA 4ª DAS ANEXAS AO DECRETO NÚMERO 4509 DE 20 DE ABRIL DE 1870."
+    },
+    {
+      "senadoId": "410267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-18-6358",
+      "titulo": "Decreto nº 6.358 de 18/10/1876",
+      "data": "1876-10-18",
+      "numero": "6358",
+      "urn": "urn:lex:br:federal:decreto:1876-10-18;6358",
+      "ementa": "CONCEDE PERMISSÃO A FELISBERTO INÁCIO BARCELOS E FELIPE GUILOT PARA EXPLORAR MINERAIS NO MUNICÍPIO DE D. PEDRITO, PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "410275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-18-6360",
+      "titulo": "Decreto nº 6.360 de 18/10/1876",
+      "data": "1876-10-18",
+      "numero": "6360",
+      "urn": "urn:lex:br:federal:decreto:1876-10-18;6360",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA \"ARGOS FLUMINENSE\"."
+    },
+    {
+      "senadoId": "410271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-18-6359",
+      "titulo": "Decreto nº 6.359 de 18/10/1876",
+      "data": "1876-10-18",
+      "numero": "6359",
+      "urn": "urn:lex:br:federal:decreto:1876-10-18;6359",
+      "ementa": "PRORROGA O PRAZO ESTABELECIDO NO DECRETO NÚMERO 5686 DO 1º DE JULHO DE 1874 PARA EXPLORAÇÕES DE MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS, NA ILHA DE SÃO LUIZ DO MARANHÃO."
+    },
+    {
+      "senadoId": "410241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-11-6351",
+      "titulo": "Decreto nº 6.351 de 11/10/1876",
+      "data": "1876-10-11",
+      "numero": "6351",
+      "urn": "urn:lex:br:federal:decreto:1876-10-11;6351",
+      "ementa": "CONCEDE PRIVILÉGIO A CARLOS DA FONSECA SILVA PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A EXTRAIR DIAMANTES E OURO DO CASCALHO."
+    },
+    {
+      "senadoId": "410249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-11-6353",
+      "titulo": "Decreto nº 6.353 de 11/10/1876",
+      "data": "1876-10-11",
+      "numero": "6353",
+      "urn": "urn:lex:br:federal:decreto:1876-10-11;6353",
+      "ementa": "DECLARA QUE O DIA 15 DO CORRENTE MES, QUE JÁ É DE GRANDE GALA, O É TAMBÉM PELO ANIVERSÁRIO NATALÍCIO DE SUA ALTEZA IMPERIAL O PRÍNCIPE DO GRÃO-PARÁ."
+    },
+    {
+      "senadoId": "410259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-11-6356",
+      "titulo": "Decreto nº 6.356 de 11/10/1876",
+      "data": "1876-10-11",
+      "numero": "6356",
+      "urn": "urn:lex:br:federal:decreto:1876-10-11;6356",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% AO ANO SOBRE O CAPITAL ADICIONAL DE 250:000$000, Á COMPANHIA QUE P. H. WAKEN ORGANIZAR  PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE CEARÁ-MIRIM, PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "410252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-11-6354",
+      "titulo": "Decreto nº 6.354 de 11/10/1876",
+      "data": "1876-10-11",
+      "numero": "6354",
+      "urn": "urn:lex:br:federal:decreto:1876-10-11;6354",
+      "ementa": "CONCEDE A ANTÔNIO AUGUSTO NOGUEIRA DA GAMA PERMISSÃO PARA EXPLORAR MINAS DE CARVÃO DE PEDRA, FERRO E OUTROS METAIS NA SESMARIA DA CAPELINHA, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "410245",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-11-6352",
+      "titulo": "Decreto nº 6.352 de 11/10/1876",
+      "data": "1876-10-11",
+      "numero": "6352",
+      "urn": "urn:lex:br:federal:decreto:1876-10-11;6352",
+      "ementa": "CONCEDE Á COMPANHIA AÇUCAREIRA DE PORTO FELIZ AUTORIZAÇÃO PARA FUNCIONAR E APROVA, COM MODIFICAÇÕES, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "410255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-11-6355",
+      "titulo": "Decreto nº 6.355 de 11/10/1876",
+      "data": "1876-10-11",
+      "numero": "6355",
+      "urn": "urn:lex:br:federal:decreto:1876-10-11;6355",
+      "ementa": "CONCEDE Á COMPANHIA DO PORTO FELIZ GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 300:000$000, EFETIVAMENTE APLICADOS AO ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE PORTO FELIZ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-04-6350",
+      "titulo": "Decreto nº 6.350 de 04/10/1876",
+      "data": "1876-10-04",
+      "numero": "6350",
+      "urn": "urn:lex:br:federal:decreto:1876-10-04;6350",
+      "ementa": "PRORROGA O PRAZO MARCADO NA CLÁUSULA 18ª DO DECRETO NÚMERO 6138 DE 4 DE MARÇO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "410225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-04-6347",
+      "titulo": "Decreto nº 6.347 de 04/10/1876",
+      "data": "1876-10-04",
+      "numero": "6347",
+      "urn": "urn:lex:br:federal:decreto:1876-10-04;6347",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DO RIO PARANÁ E UBÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "410233",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-04-6349",
+      "titulo": "Decreto nº 6.349 de 04/10/1876",
+      "data": "1876-10-04",
+      "numero": "6349",
+      "urn": "urn:lex:br:federal:decreto:1876-10-04;6349",
+      "ementa": "ABRE AO MINISTÉRIO DO IMPÉRIO UM CRÉDITO EXTRAORDINÁRIO DE 60:000$, PARA OCORRER, NOS EXERCÍCIOS DE 1875, 1876 E 1877, AS DESPEZAS COM A COMPRA DE LIVROS NECESSÁRIOS PARA OS TRABALHOS DA QUALIFICAÇÃO, PUBLICAÇÃO DE LISTAS E OUTRAS RELATIVAS A ELEIÇÕES."
+    },
+    {
+      "senadoId": "410229",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-10-04-6348",
+      "titulo": "Decreto nº 6.348 de 04/10/1876",
+      "data": "1876-10-04",
+      "numero": "6348",
+      "urn": "urn:lex:br:federal:decreto:1876-10-04;6348",
+      "ementa": "MARCA O VENCIMENTO ANUAL DOS PROMOTORES PÚBLICOS DAS COMARCAS DO RIO PARANÁ E UBÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6335",
+      "titulo": "Decreto nº 6.335 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6335",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6335",
+      "ementa": "CONCEDE PRIVILÉGIO A PEDRO ERNESTO DE ALBUQUERQUE OLIVEIRA PARA FABRICAR E VENDER O ELEVADOR MECÂNICO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "571076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6344",
+      "titulo": "Decreto nº 6.344 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6344",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6344",
+      "ementa": "AUTORIZA A COMPANHIA \"THE AMAZONE TUG AND LIGHTERAGE\" PARA ABRIR UMA AGÊNCIA NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "571068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6342",
+      "titulo": "Decreto nº 6.342 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6342",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6342",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA IMPERIAL COMPANHIA DE NAVEGAÇÃO A VAPOR E ESTRADA DE FERRO DE PETROPÓLIS E MODIFICA ALGUNS ARTIGOS DOS MESMOS ESTATUTOS."
+    },
+    {
+      "senadoId": "570978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6318",
+      "titulo": "Decreto nº 6.318 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6318",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6318",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA \"CANAL DE CACIMBAS\", E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "571018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6328",
+      "titulo": "Decreto nº 6.328 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6328",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6328",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DO TUBARÃO, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "571010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6326",
+      "titulo": "Decreto nº 6.326 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6326",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6326",
+      "ementa": "PRORROGA POR UM ANO O PRAZO MARCADO NO DECRETO NÚMERO 5885 DE 13 DE MARÇO DE 1875 PARA A EXECUÇÃO DAS OBRAS DO TÚNEL DO MORRO DO LIVRAMENTO."
+    },
+    {
+      "senadoId": "570982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6319",
+      "titulo": "Decreto nº 6.319 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6319",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6319",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA \"INDUSTRIAL CAMPISTA\" E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "571048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6337",
+      "titulo": "Decreto nº 6.337 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6337",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6337",
+      "ementa": "CONCEDE PRIVILÉGIO A WILIAN CHARLES PIPER PARA UMA MÁQUINA DE SUA INVENÇÃO, DESTINADA A DESCASCAR CAFÉ."
+    },
+    {
+      "senadoId": "571031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6332",
+      "titulo": "Decreto nº 6.332 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6332",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6332",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE SÃO FRANCISCO, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "570966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6315",
+      "titulo": "Decreto nº 6.315 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6315",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6315",
+      "ementa": "CONCEDE Á COMPANHIA DE NAVEGAÇÃO PAULISTA AS VANTAGENS E REGALIAS DE PAQUETE PARA O VAPOR DE SUA PROPRIEDADE DE NOME AMÉRICA."
+    },
+    {
+      "senadoId": "571028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6331",
+      "titulo": "Decreto nº 6.331 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6331",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6331",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA DA COMARCA DE SÃO FRANCISCO, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "571072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6343",
+      "titulo": "Decreto nº 6.343 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6343",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6343",
+      "ementa": "AUTORIZA A COMPANHIA DA ESTRADA DE FERRO TERESA CRISTINA A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "571037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6334",
+      "titulo": "Decreto nº 6.334 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6334",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6334",
+      "ementa": "CONCEDE PRIVILÉGIO A PEDRO ORSINI GRINALDI PEREIRA DO LAGO PARA FABRICAR E VENDER O APARELHO DE SUA INVENÇÃO, DESTINADO A EVITAR A FRAUDE NA COBRANÇA DAS PASSAGENS NOS CARROS DAS LINHAS URBANAS."
+    },
+    {
+      "senadoId": "570970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6316",
+      "titulo": "Decreto nº 6.316 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6316",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6316",
+      "ementa": "AUTORIZA A COMPANHIA DE SEGUROS CONTRA FOGO E RISCOS MARÍTIMOS FLUVIAIS E TERRESTRES \"CONFIANÇA PORTUENSE\" A FUNCIONAR NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "571021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6329",
+      "titulo": "Decreto nº 6.329 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6329",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6329",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA DA COMARCA DE PÃO DE AÇÚCAR, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "571044",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6336",
+      "titulo": "Decreto nº 6.336 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6336",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6336",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ POLÔNIO & EDUARDO ANTÔNIO MONTEGIA PARA FABRICAREM E VENDEREM UMA MÁQUINA DE SUA INVENÇÃO DESTINADA A FAZER ENTALHES DE MADEIRA PARA MOBILIAS E OUTROS OBJETOS."
+    },
+    {
+      "senadoId": "410221",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6346",
+      "titulo": "Decreto nº 6.346 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6346",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6346",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA TEATRO DE SANTA TEREZA EM NITERÓI E AUTORIZA PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "570998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6323",
+      "titulo": "Decreto nº 6.323 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6323",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6323",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á SOCIEDADE HANSEÁTICA DE SEGUROS CONTRA FOGO PARA ESTENDER SUAS OPERAÇÕES A DIVERSAS PRAÇAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "570974",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6317",
+      "titulo": "Decreto nº 6.317 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6317",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6317",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA AÇUCAREIRA DE CAPIVARI E AUTORIZA-A PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "571024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6330",
+      "titulo": "Decreto nº 6.330 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6330",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6330",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE PÃO DE AÇÚCAR, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "571052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6338",
+      "titulo": "Decreto nº 6.338 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6338",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6338",
+      "ementa": "CONCEDE PRIVILÉGIO A PEDRO OLIVE PARA O APARELHO DE SUA INVENÇÃO, DESTINADO A CONTAR O NÚMERO DE PESSOAS QUE TRANSITAM NOS VEÍCULOS DAS LINHAS URBANAS."
+    },
+    {
+      "senadoId": "570994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6322",
+      "titulo": "Decreto nº 6.322 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6322",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6322",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES \"PERSEVERANÇA\" PARA ESTABELECER UMA AGÊNCIA NA PRAÇA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "571060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6340",
+      "titulo": "Decreto nº 6.340 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6340",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6340",
+      "ementa": "PRORROGA POR TRÊS ANOS O PRAZO MARCADO NO DECRETO NÚMERO 5369 DE 6 DE    AGOSTO DE 1873, E LIMITA ÁS COMARCAS DE MAROIM E JAPARATUBA OS DIREITOS CONFERIDOS AO SENADOR ANTÔNIO DINIZ DE SIQUEIRA E MELO."
+    },
+    {
+      "senadoId": "571056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6339",
+      "titulo": "Decreto nº 6.339 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6339",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6339",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO RIBEIRO DA SILVA, PARA FABRICAR E VENDER PEDRA ARTIFICIAL, SEGUNDO UM PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "571002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6324",
+      "titulo": "Decreto nº 6.324 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6324",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6324",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA \"FIDELIDADE\"."
+    },
+    {
+      "senadoId": "410217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6345",
+      "titulo": "Decreto nº 6.345 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6345",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6345",
+      "ementa": "CONCEDE PERMISSÃO, POR DOIS ANOS, A JOSÉ MARIA GAVIÃO PEIXOTO E A PEDRO DA SILVA PEREIRA PARA EXPLORAR OURO, PRATA E OUTROS METAIS NA COMARCA DA FAXINA, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "570986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6320",
+      "titulo": "Decreto nº 6.320 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6320",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6320",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA \"MUTUAÇÃO FILANTRÓPICA E PROTETORA\" E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "571064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6341",
+      "titulo": "Decreto nº 6.341 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6341",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6341",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO APROVADO PELO DECRETO 5.135, DE 13 DE NOVEMBRO DE 1872."
+    },
+    {
+      "senadoId": "571014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6327",
+      "titulo": "Decreto nº 6.327 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6327",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6327",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA DA COMARCA DO TUBARÃO, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "570990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6321",
+      "titulo": "Decreto nº 6.321 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6321",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6321",
+      "ementa": "AUTORIZA A COMPANHIA DE SEGUROS CONTRA INCÊNDIOS \"BERLIM COLÔNIA\" PARA ESTABELECER AGÊNCIAS NA CORTE E CAPITAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "571034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6333",
+      "titulo": "Decreto nº 6.333 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6333",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6333",
+      "ementa": "CRIA NO TERMO DE SÃO FRANCISCO, NA PROVÍNCIA DO CEARÁ, O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "571006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-20-6325",
+      "titulo": "Decreto nº 6.325 de 20/09/1876",
+      "data": "1876-09-20",
+      "numero": "6325",
+      "urn": "urn:lex:br:federal:decreto:1876-09-20;6325",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA ITUANA."
+    },
+    {
+      "senadoId": "570940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6308",
+      "titulo": "Decreto nº 6.308 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6308",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6308",
+      "ementa": "CRIA NO TERMO DE TRAIRI, DA PROVÍNCIA DO CEARÁ, O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "570950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6310",
+      "titulo": "Decreto nº 6.310 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6310",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6310",
+      "ementa": "CONCEDE PRIVILÉGIO A PIERRE KOCH PARA VENDER CARNES CONSERVADAS POR UM PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "570962",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6314",
+      "titulo": "Decreto nº 6.314 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6314",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6314",
+      "ementa": "SEPARA DO TERMO DE VALENÇA O DE JEQUIRIÇÁ NA PROVÍNCIA DA BAHIA E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "570924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6304",
+      "titulo": "Decreto nº 6.304 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6304",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6304",
+      "ementa": "APROVA O REGULAMENTO PARA AS COMPANHIAS DE APRENDIZES MILITARES DE MINAS GERAIS E DE GOIÁS E PARA AS DEMAIS QUE FOREM CRIADAS NAS PROVÍNCIAS, ONDE NÃO HÁ ARSENAIS DE GUERRA."
+    },
+    {
+      "senadoId": "570946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6309",
+      "titulo": "Decreto nº 6.309 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6309",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6309",
+      "ementa": "CRIA O LUGAR DE AJUDANTE DE CARCEREIRO NA CADEIA DA CAPITAL, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "570958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6313",
+      "titulo": "Decreto nº 6.313 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6313",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6313",
+      "ementa": "MARCA O ORDENADO ANUAL DOS CARCEREIROS DAS CADEIAS DE VÁRIOS MUNICÍPIOS DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "570932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6306",
+      "titulo": "Decreto nº 6.306 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6306",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6306",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE PONTA GROSSA, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "570936",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6307",
+      "titulo": "Decreto nº 6.307 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6307",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6307",
+      "ementa": "SEPARA DO TERMO DE PAULO AFONSO O DE PÃO DE AÇÚCAR, NA PROVÍNCIA DE ALAGOAS E CRIA NESTE, O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "570928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-09-12-6305",
+      "titulo": "Decreto nº 6.305 de 12/09/1876",
+      "data": "1876-09-12",
+      "numero": "6305",
+      "urn": "urn:lex:br:federal:decreto:1876-09-12;6305",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DE PONTA GROSSA, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "570916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6302",
+      "titulo": "Decreto nº 6.302 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6302",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6302",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BENEFICENTE DOS ARTISTAS EM SÃO CRISTOVÃO."
+    },
+    {
+      "senadoId": "570908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6300",
+      "titulo": "Decreto nº 6.300 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6300",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6300",
+      "ementa": "CONCEDE PRIVILÉGIO A IZIDORO BERNARDO SALART, PARA O SISTEMA DE SUA INVENÇÃO, DESTINADO A FACILITAR O ENSINO RÁPIDO DA LEITURA."
+    },
+    {
+      "senadoId": "410211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6299",
+      "titulo": "Decreto nº 6.299 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6299",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6299",
+      "ementa": "CONCEDE PRIVILÉGIO AO ENGENHEIRO AGRÍCOLA LUIZ CAMINHOÁ, PARA A MÁQUINA DE SUA INVENÇÃO, DESTINADA A CAPINAR CAFEZAIS."
+    },
+    {
+      "senadoId": "410207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6298",
+      "titulo": "Decreto nº 6.298 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6298",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6298",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7%, SOBRE O CAPITAL DE 700:000$000, Á COMPANHIA QUE O BARÃO DE ARACAJÚ, FRANCISCO CORREIA DANTAS E FRANCISCO LUCINO DO PRADO, INCORPORAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE DIVINA PASTORA, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "570920",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6303",
+      "titulo": "Decreto nº 6.303 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6303",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6303",
+      "ementa": "RESTABELECE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DO PARÁ, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "410199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6296",
+      "titulo": "Decreto nº 6.296 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6296",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6296",
+      "ementa": "SUPRIME O LUGAR DE INSPETOR DE ALUNOS DO INSTITUTO DOS SURDOS-MUDOS."
+    },
+    {
+      "senadoId": "570912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6301",
+      "titulo": "Decreto nº 6.301 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6301",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6301",
+      "ementa": "CONCEDE PRIVILÉGIO AO ENGENHEIRO AGRÍCOLA LUIZ CAMINHOÁ, PARA UMA MÁQUINA DE SUA INVENÇÃO, DESTINADA A DESCASCAR CAFÉ."
+    },
+    {
+      "senadoId": "410203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-23-6297",
+      "titulo": "Decreto nº 6.297 de 23/08/1876",
+      "data": "1876-08-23",
+      "numero": "6297",
+      "urn": "urn:lex:br:federal:decreto:1876-08-23;6297",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7%, SOBRE O CAPITAL DE 700:000$000, Á COMPANHIA QUE OS PROPRIETÁRIOS DA FÁBRICA DE REFINAÇÃO DOIS DE JULHO, ESTABELECIDA NO CABRITO, FREGUESIA DE PIRAJÁ, NA PROVÍNCIA DA BAHIA,  INCORPORAREM PARA CONVERTER A DITA FÁBRICA EM UM ENGENHO CENTRAL."
+    },
+    {
+      "senadoId": "570955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-12-6312",
+      "titulo": "Decreto nº 6.312 de 12/08/1876",
+      "data": "1876-08-12",
+      "numero": "6312",
+      "urn": "urn:lex:br:federal:decreto:1876-08-12;6312",
+      "ementa": "MANDA OBSERVAR A TABELA PARA O ABONO DE AJUDAS DE CUSTO AOS INSPETORES E MAIS EMPREGADOS DOS ARSENAIS DE MARINHA."
+    },
+    {
+      "senadoId": "410137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6280",
+      "titulo": "Decreto nº 6.280 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6280",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6280",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE HUMILDES, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "410155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6285",
+      "titulo": "Decreto nº 6.285 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6285",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6285",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA CANTAGALO INDUSTRIAL PARA FUNCIONAR, E APROVA COM MODIFICAÇÕES SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "410141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6281",
+      "titulo": "Decreto nº 6.281 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6281",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6281",
+      "ementa": "CONCEDE Á COMPANHIA AGRÍCOLA DE CAMPOS, GARANTIA DO JURO DE 7%, SOBRE  O CAPITAL DE 600:000$000, EFETIVAMENTE APLICADOS AO ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NA FREGUESIA DE SÃO JOÃO BATISTA, MUNICÍPIO DE SÃO JOÃO DA BARRA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "410159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6286",
+      "titulo": "Decreto nº 6.286 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6286",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6286",
+      "ementa": "CONCEDE A JOSÉ CÂNDIDO DA SILVA, PRIVILÉGIO POR OITO ANOS, PARA FABRICAR E VENDER O APARELHO DE SUA INVENÇÃO, DESTINADO À PREVENIR SINISTROS NO TRÁFEGO DAS LINHAS DE CARRIS URBANOS."
+    },
+    {
+      "senadoId": "410145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6282",
+      "titulo": "Decreto nº 6.282 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6282",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6282",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO \"COMUNIDADE EVANGÉLICA ALEMÃ\"."
+    },
+    {
+      "senadoId": "410191",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6294",
+      "titulo": "Decreto nº 6.294 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6294",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6294",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ LÚCIO MONTEIRO PARA UM PROCESSO QUÍMICO DE SUA INVENÇÃO, DESTINADO A TORNAR IMPERMEÁVEIS QUAISQUER TECIDOS."
+    },
+    {
+      "senadoId": "410183",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6292",
+      "titulo": "Decreto nº 6.292 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6292",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6292",
+      "ementa": "CONCEDE PRIVILÉGIO A SAMUEL BEAVEN PARA UMA MÁQUINA DE SUA INVENÇÃO DESTINADA A DESPOLPAR E POLIR CAFÉ, E BEM ASSIM A DESCASCAR ARROZ."
+    },
+    {
+      "senadoId": "410187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6293",
+      "titulo": "Decreto nº 6.293 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6293",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6293",
+      "ementa": "CONCEDE PRIVILÉGIO A HENRIQUE JANOT PARA UM APARELHO DE SUA INVENÇÃO DESTINADO A BRUNIR, POLIR E VENTILAR CAFÉ."
+    },
+    {
+      "senadoId": "410175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6290",
+      "titulo": "Decreto nº 6.290 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6290",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6290",
+      "ementa": "AUTORIZA A ASSOCIAÇÃO DO TEATRO DE SÃO CARLOS, EM CAMPINAS, A FUNCIONAR, E APROVA COM MODIFICAÇÕES, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "410195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6295",
+      "titulo": "Decreto nº 6.295 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6295",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6295",
+      "ementa": "REGULA O EXERCÍCIO DOS EMPREGADOS DO MINISTÉRIO DA JUSTIÇA E EXPEDIÇÃO DOS RESPECTIVOS TÍTULOS."
+    },
+    {
+      "senadoId": "410171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6289",
+      "titulo": "Decreto nº 6.289 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6289",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6289",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ RIBEIRO DA SILVA, PARA UMA MÁQUINA DE SUA INVENÇÃO, DESTINADA A PREPARAR CAFÉ."
+    },
+    {
+      "senadoId": "410179",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6291",
+      "titulo": "Decreto nº 6.291 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6291",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6291",
+      "ementa": "CONCEDE PRIVILÉGIO A D. HENINGER E F. LUMAY, PARA O PROCESSO DE SUA INVENÇÃO, DESTINADO A CONSERVAR MATÉRIAS ANIMAIS E VEGETAIS."
+    },
+    {
+      "senadoId": "410149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6283",
+      "titulo": "Decreto nº 6.283 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6283",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6283",
+      "ementa": "CONCEDE Á COMPANHIA DAS MINAS DE OURO E COBRE AO SUL DO BRASIL, CEM DATAS MINERAIS DE TERRAS E AUTORIZA-A A ESTENDER SUAS OPERAÇÕES AO MUNICÍPIO DE DOM PEDRITO, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "410167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6288",
+      "titulo": "Decreto nº 6.288 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6288",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6288",
+      "ementa": "CONCEDE PRIVILÉGIO A LUCIEN A. TARTIERE, PARA O APARELHO DE SUA INVENÇÃO, DESTINADO A SECAR RAPIDAMENTE O CAFÉ."
+    },
+    {
+      "senadoId": "410163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6287",
+      "titulo": "Decreto nº 6.287 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6287",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6287",
+      "ementa": "PRORROGA O PRAZO MARCADO PARA A INCORPORAÇÃO DA COMPANHIA \"RIO DE JANEIRO E MINAS\"."
+    },
+    {
+      "senadoId": "410133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6279",
+      "titulo": "Decreto nº 6.279 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6279",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6279",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE HUMILDES, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "410153",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-09-6284",
+      "titulo": "Decreto nº 6.284 de 09/08/1876",
+      "data": "1876-08-09",
+      "numero": "6284",
+      "urn": "urn:lex:br:federal:decreto:1876-08-09;6284",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ LUIZ ALVES DE MIRANDELA PARA FABRICAR, USAR E VENDER CARROÇAS DE SUA INVENÇÃO, DESTINADAS AO TRANSPORTE DE TRASTES."
+    },
+    {
+      "senadoId": "410109",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6273",
+      "titulo": "Decreto nº 6.273 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6273",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6273",
+      "ementa": "CONCEDE Á BARONEZA DE VILA MARIA, VIÚVA DO BARÃO DO MESMO TÍTULO, AUTORIZAÇÃO PARA EXPLORAR FERRO E OUTROS METAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "410105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6272",
+      "titulo": "Decreto nº 6.272 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6272",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6272",
+      "ementa": "REORGANIZA AS ALFÂNDEGAS E MESAS DE RENDAS."
+    },
+    {
+      "senadoId": "410125",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6277",
+      "titulo": "Decreto nº 6.277 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6277",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6277",
+      "ementa": "CRIA UMA COMISSÃO PARA ORGANIZAR O VOCABULÁRIO TÉCNICO DE ENGENHARIA."
+    },
+    {
+      "senadoId": "410101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6271",
+      "titulo": "Decreto nº 6.271 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6271",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6271",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 6214, DE 21 DE JUNHO DE 1876, QUE CONCEDEU AO BACHAREL PAULO FERREIRA ALVES, PERMISSÃO PARA EXPLORAR    CARVÃO DE PEDRA NO MUNICÍPIO DE ARARANGUÁ."
+    },
+    {
+      "senadoId": "410117",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6275",
+      "titulo": "Decreto nº 6.275 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6275",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6275",
+      "ementa": "AUTORIZA A SUBDIVISÃO ATÉ VIGÉSIMOS DOS BILHETES DAS LOTERIAS DA CÔRTE."
+    },
+    {
+      "senadoId": "410129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6278",
+      "titulo": "Decreto nº 6.278 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6278",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6278",
+      "ementa": "APROVA PROVISORIAMENTE AS NOVAS TARIFAS E INSTRUÇÕES REGULAMENTARES PARA O SERVIÇO DE TRANSPORTE DA ESTRADA DE FERRO DA BAHIA."
+    },
+    {
+      "senadoId": "410113",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6274",
+      "titulo": "Decreto nº 6.274 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6274",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6274",
+      "ementa": "CONCEDE PRIVILÉGIO A MANOEL DE ALMEIDA CARDOSO PARA INTRODUZIR E VENDER NO IMPÉRIO AS MÁQUINAS DE HIGNETE, DESTINADAS AO PREPARO DO ARROZ."
+    },
+    {
+      "senadoId": "410121",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-08-02-6276",
+      "titulo": "Decreto nº 6.276 de 02/08/1876",
+      "data": "1876-08-02",
+      "numero": "6276",
+      "urn": "urn:lex:br:federal:decreto:1876-08-02;6276",
+      "ementa": "APROVA O REGULAMENTO DA ASSOCIAÇÃO BRASILEIRA DE SEGURO MÚTUO \"AUXILIAR DO TRABALHO NACIONAL E DOS INGÊNUOS\"."
+    },
+    {
+      "senadoId": "570904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6263",
+      "titulo": "Decreto nº 6.263 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6263",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6263",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA SOCIEDADE ANÔNIMA DENOMINADA \"SEGURO MÚTUO DO COMÉRCIO INTERMEDIÁRIO\" E APROVA COM ALTERAÇÕES OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "410089",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6268",
+      "titulo": "Decreto nº 6.268 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6268",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6268",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO BATISTA MACHADO, PARA UM APARELHO DE SUA INVENÇÃO DENOMINADO \"MARCADOR INFALÍVEL\"."
+    },
+    {
+      "senadoId": "410081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6266",
+      "titulo": "Decreto nº 6.266 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6266",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6266",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO FIXADO A JOSÉ XAVIER FERREIRA PARA INCORPORAR UMA COMPANHIA DESTINADA A ARRENDAR PRÉDIOS DE PARTICULARES E SUB-LOCA-L0S."
+    },
+    {
+      "senadoId": "570907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6264",
+      "titulo": "Decreto nº 6.264 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6264",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6264",
+      "ementa": "PRORROGA O PRAZO PARA COMEÇO DAS OBRAS DO ARRASAMENTO DOS MORROS DO CASTELO E DE SANTO ANTÔNIO."
+    },
+    {
+      "senadoId": "410085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6267",
+      "titulo": "Decreto nº 6.267 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6267",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6267",
+      "ementa": "CONCEDE A MIGUEL ALAMIER BAGLIONE PRIVILÉGIO PARA UMA MÁQUINA DE SUA INVENÇÃO, DENOMINADA BRUNIDOR DE PRESSÃO."
+    },
+    {
+      "senadoId": "410097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6270",
+      "titulo": "Decreto nº 6.270 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6270",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6270",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ AUGUSTO KOPKE E JOSÉ RIBEIRO DA SILVA PARA FABRICAREM E VENDEREM NO IMPÉRIO UMA MÁQUINA, DE SUA INVENÇÃO, DESTINADA A DESCASCAR ARROZ."
+    },
+    {
+      "senadoId": "410093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6269",
+      "titulo": "Decreto nº 6.269 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6269",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6269",
+      "ementa": "CONCEDE PRIVILÉGIO A FRANCISCO LEOPOLDO TEIXEIRA LEITE, PARA O SISTEMA DE APARELHOS DE SUA INVENÇÃO, DESTINADOS Á CRIAÇÃO DE PLANTAS DE CAFÉ, CACAU, LARANJEIRAS E OUTRAS ÁRVORES."
+    },
+    {
+      "senadoId": "410077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-26-6265",
+      "titulo": "Decreto nº 6.265 de 26/07/1876",
+      "data": "1876-07-26",
+      "numero": "6265",
+      "urn": "urn:lex:br:federal:decreto:1876-07-26;6265",
+      "ementa": "CONCEDE GARANTIA DE JURO DE 7%, SOBRE O CAPITAL DE 500:000$, Á COMPANHIA QUE O DR. ANTÔNIO FREIRE DE MATOS BARRETO E JOSÉ VIEIRA BARRETO ORGANIZAREM, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA NO MUNICÍPIO DE RIACHUELO, COMARCA DE LARANJEIRAS, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "570885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-19-6258",
+      "titulo": "Decreto nº 6.258 de 19/07/1876",
+      "data": "1876-07-19",
+      "numero": "6258",
+      "urn": "urn:lex:br:federal:decreto:1876-07-19;6258",
+      "ementa": "APROVA O PLANO DA OBRA DETERMINADA PELO DECRETO NÚMERO 6199, DE 17 DE MAIO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "570892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-19-6260",
+      "titulo": "Decreto nº 6.260 de 19/07/1876",
+      "data": "1876-07-19",
+      "numero": "6260",
+      "urn": "urn:lex:br:federal:decreto:1876-07-19;6260",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO FIXADO AO VISCONDE DE BARBACENA, PARA A ORGANIZAÇÃO DA COMPANHIA DESTINADA A LAVRAR MINAS DE CARVÃO DE PEDRA NAS MARGENS DO \"PASSA-DOUS\", PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "570900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-19-6262",
+      "titulo": "Decreto nº 6.262 de 19/07/1876",
+      "data": "1876-07-19",
+      "numero": "6262",
+      "urn": "urn:lex:br:federal:decreto:1876-07-19;6262",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE DE SOCORROS MÚTUOS \"UNIÃO FAMILIAR PERFEITA AMIZADE\"."
+    },
+    {
+      "senadoId": "570896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-19-6261",
+      "titulo": "Decreto nº 6.261 de 19/07/1876",
+      "data": "1876-07-19",
+      "numero": "6261",
+      "urn": "urn:lex:br:federal:decreto:1876-07-19;6261",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO BENEFICENTE COMERCIAL."
+    },
+    {
+      "senadoId": "570888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-19-6259",
+      "titulo": "Decreto nº 6.259 de 19/07/1876",
+      "data": "1876-07-19",
+      "numero": "6259",
+      "urn": "urn:lex:br:federal:decreto:1876-07-19;6259",
+      "ementa": "CONCEDE DURANTE 30 ANOS, A GARANTIA DE JUROS DE 7% AO ANO, SOBRE O MÁXIMO CAPITAL DE 2.474:762$000, DESTINADO Á CONSTRUÇÃO DA ESTRADA DE FERRO DA VILA DE SÃO JOÃO DO MONTE NEGRO, AO PORTO DA BOA-ESPERANÇA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "570848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6249",
+      "titulo": "Decreto nº 6.249 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6249",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6249",
+      "ementa": "CONCEDE PRIVILÉGIO A MIGUEL MANIN BAGLIONI PARA UMA MÁQUINA DE SUA INVENÇÃO, DENOMINADA \"TURBINA TANGETECLAS."
+    },
+    {
+      "senadoId": "570872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6255",
+      "titulo": "Decreto nº 6.255 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6255",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6255",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE XIRIRICA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "570877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6256",
+      "titulo": "Decreto nº 6.256 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6256",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6256",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE XIRIRICA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "570868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6254",
+      "titulo": "Decreto nº 6.254 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6254",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6254",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE ITACOATIARA, NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "570844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6248",
+      "titulo": "Decreto nº 6.248 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6248",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6248",
+      "ementa": "CONCEDE AUTORIZAÇÃO POR DOIS ANOS A JOSÉ FERREIRA DA SILVA PINTO PARA EXPLORAR JAZIDAS MINERAIS NO MUNICÍPIO DE OURO PRETO, CAPITAL DE MINAS."
+    },
+    {
+      "senadoId": "570836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6246",
+      "titulo": "Decreto nº 6.246 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6246",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6246",
+      "ementa": "CONCEDE AUTORIZAÇÃO A MANOEL DE ASSIS DRUMOND E BERNARDO PINTO DE OLIVEIRA PARA EXPLORAREM MINAS DE AZOUGUE NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "570829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6244",
+      "titulo": "Decreto nº 6.244 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6244",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6244",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO LUIZ GUIMARÃES PARA FABRICAR, USAR E VENDER UM COMPASSO DE SUA INVENÇÃO, DESTINADO A TRAÇAR A FIGURA DA ELIPSE."
+    },
+    {
+      "senadoId": "570881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6257",
+      "titulo": "Decreto nº 6.257 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6257",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6257",
+      "ementa": "CRIA O LUGAR DE AJUDANTE DE CARCEREIRO NA CADEIA DA CAPITAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "570864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6253",
+      "titulo": "Decreto nº 6.253 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6253",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6253",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE ITACOATIARA, NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "570860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6252",
+      "titulo": "Decreto nº 6.252 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6252",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6252",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DO PARÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "570823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6242",
+      "titulo": "Decreto nº 6.242 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6242",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6242",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA IMPERIAL SOCIEDADE UNIÃO BENEFICENTE DAS FAMÍLIAS HONESTAS."
+    },
+    {
+      "senadoId": "570856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6251",
+      "titulo": "Decreto nº 6.251 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6251",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6251",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DO PARÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "570832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6245",
+      "titulo": "Decreto nº 6.245 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6245",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6245",
+      "ementa": "AUTORIZA A COMPANHIA INDUSTRIAL JUNDIAIANA A ELEVAR SEU CAPITAL, CONTRAINDO UM EMPRÉSTIMO."
+    },
+    {
+      "senadoId": "570840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6247",
+      "titulo": "Decreto nº 6.247 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6247",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6247",
+      "ementa": "CONCEDE PRIVILÉGIO A CLAUDE FINE E GASPAR PAILE PARA FABRICAREM E VENDEREM FORNOS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "570826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6243",
+      "titulo": "Decreto nº 6.243 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6243",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6243",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DA ESTRADA DE FERRO \"CONDE D'EU\", NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "570852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-12-6250",
+      "titulo": "Decreto nº 6.250 de 12/07/1876",
+      "data": "1876-07-12",
+      "numero": "6250",
+      "urn": "urn:lex:br:federal:decreto:1876-07-12;6250",
+      "ementa": "CONCEDE A GONI STEFÉN PRIVILÉGIO PARA FABRICAR E VENDER UM FILTRADOR D'ÁGUA DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "570820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-05-6241",
+      "titulo": "Decreto nº 6.241 de 05/07/1876",
+      "data": "1876-07-05",
+      "numero": "6241",
+      "urn": "urn:lex:br:federal:decreto:1876-07-05;6241",
+      "ementa": "FIXA O NÚMERO DE ELEITORES DAS PARÓQUIAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "570813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-05-6239",
+      "titulo": "Decreto nº 6.239 de 05/07/1876",
+      "data": "1876-07-05",
+      "numero": "6239",
+      "urn": "urn:lex:br:federal:decreto:1876-07-05;6239",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BENEFICENTE E PROTETORA DOS REFINADORES DE AÇÚCAR."
+    },
+    {
+      "senadoId": "570817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-07-05-6240",
+      "titulo": "Decreto nº 6.240 de 05/07/1876",
+      "data": "1876-07-05",
+      "numero": "6240",
+      "urn": "urn:lex:br:federal:decreto:1876-07-05;6240",
+      "ementa": "SEPARA DO TERMO DE BETHLEM DO DESCALVADO O DE PIRASSINUNGA, NA PROVÍNCIA DE SÃO PAULO, E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "570812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-28-6238-a",
+      "titulo": "Decreto nº 6.238-A de 28/06/1876",
+      "data": "1876-06-28",
+      "numero": "6238-a",
+      "urn": "urn:lex:br:federal:decreto:1876-06-28;6238-a",
+      "ementa": "APROVA O REGULAMENTO PARA A DIREÇÃO E ADMINISTRAÇÃO DA ESTRADA DE FERRO D. PEDRO II."
+    },
+    {
+      "senadoId": "570809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-28-6238",
+      "titulo": "Decreto nº 6.238 de 28/06/1876",
+      "data": "1876-06-28",
+      "numero": "6238",
+      "urn": "urn:lex:br:federal:decreto:1876-06-28;6238",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 1.000:000$000 Á COMPANHIA QUE OS BARÕES DE CAMPO ALEGRE E DE GUARARAPES ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA NO MUNICÍPIO DO CABO, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "570762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6226",
+      "titulo": "Decreto nº 6.226 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6226",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6226",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BENEFICENTE DOS MARCINEIROS, CARPINTEIROS E ARTES CORRELATIVAS NO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "570774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6229",
+      "titulo": "Decreto nº 6.229 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6229",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6229",
+      "ementa": "CONCEDE PRIVILÉGIO, POR 10 ANOS, AO ENGENHEIRO JERÔNIMO LUIZ RIBEIRO E JOSÉ SERAPIÃO DOS SANTOS E SILVA PARA FABRICAREM E VENDEREM, NO IMPÉRIO, PEDRA ARTIFICIAL DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "570778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6230",
+      "titulo": "Decreto nº 6.230 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6230",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6230",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE \"JOCKEY CLUB REZENDENSE\"."
+    },
+    {
+      "senadoId": "570789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6233",
+      "titulo": "Decreto nº 6.233 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6233",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6233",
+      "ementa": "CONCEDE PRIVILÉGIO A JOAQUIM ÁLVARO DE ARMADA E JOÃO ANTÔNIO DE ARAÚJO PARA FABRICAREM E VENDEREM CHAPÉIS DE PAINA DE SEDA DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "570783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6231",
+      "titulo": "Decreto nº 6.231 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6231",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6231",
+      "ementa": "CONCEDE PRIVILÉGIO A GUILHERME DE OLIVEIRA E SILVA PARA FABRICAR E VENDER TELHAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6217",
+      "titulo": "Decreto nº 6.217 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6217",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6217",
+      "ementa": "CONCEDE PRIVILÉGIO A BERNARDINO CORRÊA DE MATOS, PARA O MELHORAMENTO QUE INTRODUZIU NA MÁQUINA DE SUA INVENÇÃO DENOMINADA \"BRASILEIRA\"."
+    },
+    {
+      "senadoId": "410050",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6215",
+      "titulo": "Decreto nº 6.215 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6215",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6215",
+      "ementa": "CONCEDE A JOSÉ CLEMENTINO FERNANDES DE PAULA PERMISSÃO, POR DOIS ANOS, PARA EXPLORAR MINAS DE OURO E OUTROS METAIS NO TERMO DE ARAXÁ, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "570746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6222",
+      "titulo": "Decreto nº 6.222 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6222",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6222",
+      "ementa": "PRORROGA ATÉ 31 DE MAIO DE 1877 O PRAZO MARCADO NA CLÁUSULA 21ª DO DECRETO NÚMERO 5537 DE 14 DE MARÇO DE 1874."
+    },
+    {
+      "senadoId": "570758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6225",
+      "titulo": "Decreto nº 6.225 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6225",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6225",
+      "ementa": "DECLARA DE UTILIDADE MUNICIPAL A DESAPROPRIAÇÃO DO PRÉDIO NÚMERO 1 DO    BECO DO GUARDA-MÓR."
+    },
+    {
+      "senadoId": "570805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6237",
+      "titulo": "Decreto nº 6.237 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6237",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6237",
+      "ementa": "PROMULGA A DECLARAÇÃO ENTRE O BRASIL E A FRANÇA, PARA A PROTEÇÃO DAS MARCAS DE FÁBRICA E COMÉRCIO."
+    },
+    {
+      "senadoId": "570797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6235",
+      "titulo": "Decreto nº 6.235 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6235",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6235",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA \"GARANTIA AOS PROPRIETÁRIOS\"."
+    },
+    {
+      "senadoId": "570742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6221",
+      "titulo": "Decreto nº 6.221 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6221",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6221",
+      "ementa": "PRORROGA ATÉ 31 DE MAIO DE 1877 O PRAZO MARCADO NA CLÁUSULA 31ª DO DECRETO NÚMERO 5126 DE 30 DE OUTUBRO DE 1872."
+    },
+    {
+      "senadoId": "410042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6213",
+      "titulo": "Decreto nº 6.213 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6213",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6213",
+      "ementa": "CONCEDE A ANTÔNIO TAVARES BASTOS JÚNIOR PERMISSÃO, POR DOIS ANOS, PARA EXPLORAR MINAS DE OURO E OUTROS MINERAIS NA FREGUESIA DOS TRÊS CORAÇÕES DO RIO VERDE, MUNICÍPIO DA CAMPANHA, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "410046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6214",
+      "titulo": "Decreto nº 6.214 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6214",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6214",
+      "ementa": "CONCEDE AO BACHAREL PAULO FERREIRA ALVES PERMISSÃO, POR DOIS ANOS, PARA EXPLORAR MINAS DE CARVÃO DE PEDRA NO MUNICÍPIO DE ARARANGUÁ, PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "570801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6236",
+      "titulo": "Decreto nº 6.236 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6236",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6236",
+      "ementa": "PROMULGA A CONVENÇÃO SOBRE ATRIBUIÇÕES CONSULARES, CELEBRADA EM 25 DE FEVEREIRO DE 1876 ENTRE O BRASIL E PORTUGAL."
+    },
+    {
+      "senadoId": "570793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6234",
+      "titulo": "Decreto nº 6.234 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6234",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6234",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA \"SANTA VITÓRIA DO PALMAR\"."
+    },
+    {
+      "senadoId": "410066",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6219",
+      "titulo": "Decreto nº 6.219 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6219",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6219",
+      "ementa": "PRORROGA ATÉ 31 DE MAIO DE 1877 OS PRAZOS MARCADOS NA CLÁUSULA 20ª, DO DECRETO NÚMERO 5566 DE 14 DE MARÇO DE 1874, E NA CLÁUSULA 5ª DO DE NÚMERO 5570 DA MESMA DATA."
+    },
+    {
+      "senadoId": "570770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6228",
+      "titulo": "Decreto nº 6.228 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6228",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6228",
+      "ementa": "APROVA OS  NOVOS ESTATUTOS DA ASSOCIAÇÃO PORTUGUEZA DE BENEFICÊNCIA \"MEMÓRIA DE D. PEDRO V."
+    },
+    {
+      "senadoId": "570754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6224",
+      "titulo": "Decreto nº 6.224 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6224",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6224",
+      "ementa": "APROVA A PLANTA DO PROLONGAMENTO DO RAMAL DE CARRIS DE FERRO DAS LARANGEIRAS, PARA A EXECUÇÃO DO ARTIGO 9º E MAIS DISPOSIÇÕES DA LEI NÚMERO 353 DE 12 DE JULHO DE 1845."
+    },
+    {
+      "senadoId": "410062",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6218",
+      "titulo": "Decreto nº 6.218 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6218",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6218",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NOS ESTATUTOS DA COMPANHIA DE \"SEGUROS MARÍTIMOS COMERCIAL\" DA BAHIA, E MODIFICA ALGUNS DOS SEUS ARTIGOS."
+    },
+    {
+      "senadoId": "570750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6223",
+      "titulo": "Decreto nº 6.223 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6223",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6223",
+      "ementa": "PRORROGA ATÉ 31 DE MAIO DE 1877 O PRAZO MARCADO NA CLÁUSULA 21ª DO DECRETO NÚMERO 5579 DE 14 DE MARÇO DE 1874."
+    },
+    {
+      "senadoId": "410054",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6216",
+      "titulo": "Decreto nº 6.216 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6216",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6216",
+      "ementa": "CONCEDE A EDUARDO PELEW WILSON PERMISSÃO PARA LAVRAR JAZIDAS DE MINERAIS COMBUSTÍVEIS NOS MUNICÍPIOS DE CAIRÚ E TAPEROÁ, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "570786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6232",
+      "titulo": "Decreto nº 6.232 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6232",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6232",
+      "ementa": "CONCEDE AUTORIZAÇÃO A ANTÔNIO JOSÉ DE QUEIROZ PARA EXPLORAR MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "570766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6227",
+      "titulo": "Decreto nº 6.227 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6227",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6227",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE \"AMIGOS REUNIDOS\"."
+    },
+    {
+      "senadoId": "410070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-21-6220",
+      "titulo": "Decreto nº 6.220 de 21/06/1876",
+      "data": "1876-06-21",
+      "numero": "6220",
+      "urn": "urn:lex:br:federal:decreto:1876-06-21;6220",
+      "ementa": "PRORROGA ATÉ 31 DE MAIO DE 1877 O PRAZO MARCADO NA CLÁUSULA 4ª DO DECRETO NÚMERO 5577 DE 21 DE MARÇO DE 1874."
+    },
+    {
+      "senadoId": "410038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-10-6212",
+      "titulo": "Decreto nº 6.212 de 10/06/1876",
+      "data": "1876-06-10",
+      "numero": "6212",
+      "urn": "urn:lex:br:federal:decreto:1876-06-10;6212",
+      "ementa": "PRORROGA POR SEIS MESES AS DISPOSIÇÕES DO DECRETO NÚMERO 6050 DE 11 DE DEZEMBRO DE 1875."
+    },
+    {
+      "senadoId": "410034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-10-6211",
+      "titulo": "Decreto nº 6.211 de 10/06/1876",
+      "data": "1876-06-10",
+      "numero": "6211",
+      "urn": "urn:lex:br:federal:decreto:1876-06-10;6211",
+      "ementa": "AUTORIZA A ABERTUTA DE UM CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 2.636:136$806 PARA AS DESPESAS DO MINISTÉRIO DA GUERRA  NO EXERCÍCIO DE 1875-1876."
+    },
+    {
+      "senadoId": "410013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-03-6206",
+      "titulo": "Decreto nº 6.206 de 03/06/1876",
+      "data": "1876-06-03",
+      "numero": "6206",
+      "urn": "urn:lex:br:federal:decreto:1876-06-03;6206",
+      "ementa": "DESIGNA NUMERICAMENTE AS VARAS CÍVIS DAS COMARCAS DE BELÉM E OUTRAS."
+    },
+    {
+      "senadoId": "410009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-03-6205",
+      "titulo": "Decreto nº 6.205 de 03/06/1876",
+      "data": "1876-06-03",
+      "numero": "6205",
+      "urn": "urn:lex:br:federal:decreto:1876-06-03;6205",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MILITARES NA PROVÍNCIA DE MINAS GERAIS E OUTRA NA DE GOIÁS."
+    },
+    {
+      "senadoId": "410018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-03-6207",
+      "titulo": "Decreto nº 6.207 de 03/06/1876",
+      "data": "1876-06-03",
+      "numero": "6207",
+      "urn": "urn:lex:br:federal:decreto:1876-06-03;6207",
+      "ementa": "MANDA REGISTRAR AS DECISÕES DEFINITIVAS PROFERIDAS PELAS RELAÇÕES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "410022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-03-6208",
+      "titulo": "Decreto nº 6.208 de 03/06/1876",
+      "data": "1876-06-03",
+      "numero": "6208",
+      "urn": "urn:lex:br:federal:decreto:1876-06-03;6208",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA \"UNIÃO DOS LAVRADORES\"."
+    },
+    {
+      "senadoId": "410026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-03-6209",
+      "titulo": "Decreto nº 6.209 de 03/06/1876",
+      "data": "1876-06-03",
+      "numero": "6209",
+      "urn": "urn:lex:br:federal:decreto:1876-06-03;6209",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS AOS ESTATUTOS DA SOCIEDADE \"GARANTIA NACIONAL\"."
+    },
+    {
+      "senadoId": "410030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-06-03-6210",
+      "titulo": "Decreto nº 6.210 de 03/06/1876",
+      "data": "1876-06-03",
+      "numero": "6210",
+      "urn": "urn:lex:br:federal:decreto:1876-06-03;6210",
+      "ementa": "CONCEDE AUTORIZAÇÃO A FELICIANO FREIRE DA SILVA PARA ORGANIZAR UMA COMPANHIA DE PESCA, SALGA E SECA DE PEIXE NAS PROVÍNCIAS DO AMAZONAS, PARÁ E MARANHÃO."
+    },
+    {
+      "senadoId": "410005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-24-6204",
+      "titulo": "Decreto nº 6.204 de 24/05/1876",
+      "data": "1876-05-24",
+      "numero": "6204",
+      "urn": "urn:lex:br:federal:decreto:1876-05-24;6204",
+      "ementa": "AUMENTA O ESTADO MENOR DO BATALHÃO NAVAL COM A PRAÇA DE UM 1º SARGENTO PARA SERVIR DE AJUDANTE."
+    },
+    {
+      "senadoId": "409981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6198",
+      "titulo": "Decreto nº 6.198 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6198",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6198",
+      "ementa": "PRORROGA POR MAIS DOIS MESES O PRAZO DA CLÁUSULA 3ª DAS QUE ACOMPANHAM O DECRETO NÚMERO 5912 DO 1º DE MAIO DE 1875."
+    },
+    {
+      "senadoId": "409989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6200",
+      "titulo": "Decreto nº 6.200 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6200",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6200",
+      "ementa": "CONCEDE AO BACHAREL SIMEÃO ESTELITA DE PAULA E SILVA E AO MAJOR EZEQUIEL ANTÔNIO LOUREIRO, AUTORIZAÇÃO PARA EXPLORAREM OURO E OUTROS METAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "409985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6199",
+      "titulo": "Decreto nº 6.199 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6199",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6199",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DE DIVERSOS TERRENOS BAIXOS E PANTANOSOS NO LUGAR DENOMINADO \"MANGUE DA CIDADE NOVA\"."
+    },
+    {
+      "senadoId": "409977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6197",
+      "titulo": "Decreto nº 6.197 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6197",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6197",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA RESGATE MILITAR."
+    },
+    {
+      "senadoId": "409997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6202",
+      "titulo": "Decreto nº 6.202 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6202",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6202",
+      "ementa": "CONCEDE PERMISSÃO POR DOIS ANOS, A GONÇALO DE ABREU SOUZA ÁLVARES DE BARROS E OUTROS PARA EXPLORAREM OURO, PRATA E OUTROS METAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "409993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6201",
+      "titulo": "Decreto nº 6.201 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6201",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6201",
+      "ementa": "PRORROGA OS PRAZOS MARCADOS NO ARTIGO 42 DOS ESTATUTOS DA COMPANHIA ZOOTÉCNICA."
+    },
+    {
+      "senadoId": "410001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6203",
+      "titulo": "Decreto nº 6.203 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6203",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6203",
+      "ementa": "REGULA A EXECUÇÃO DO DECRETO LEGISLATIVO NÚMERO 2649 DE 22 DE SETEMBRO DE 1875, QUE EXTINGUIU A CLASSE DE OPOSITORES NAS FACULDADES DE MEDICINA."
+    },
+    {
+      "senadoId": "409973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-17-6196",
+      "titulo": "Decreto nº 6.196 de 17/05/1876",
+      "data": "1876-05-17",
+      "numero": "6196",
+      "urn": "urn:lex:br:federal:decreto:1876-05-17;6196",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DE VÁRIOS PRÉDIOS PRÓXIMOS AO EDIFÍCIO DA ALFÂNDEGA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "409969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-10-6195",
+      "titulo": "Decreto nº 6.195 de 10/05/1876",
+      "data": "1876-05-10",
+      "numero": "6195",
+      "urn": "urn:lex:br:federal:decreto:1876-05-10;6195",
+      "ementa": "REVOGA AS DISPOSIÇÕES SOB NÚMERO 1 E 3 DO DECRETO NÚMERO 3833 DE 10 DE ABRIL DE 1867."
+    },
+    {
+      "senadoId": "409961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-10-6193",
+      "titulo": "Decreto nº 6.193 de 10/05/1876",
+      "data": "1876-05-10",
+      "numero": "6193",
+      "urn": "urn:lex:br:federal:decreto:1876-05-10;6193",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA \"EMPRESA DE CARRUAGENS FLUMINENSE\"."
+    },
+    {
+      "senadoId": "409957",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-10-6192",
+      "titulo": "Decreto nº 6.192 de 10/05/1876",
+      "data": "1876-05-10",
+      "numero": "6192",
+      "urn": "urn:lex:br:federal:decreto:1876-05-10;6192",
+      "ementa": "CONCEDE Á COMPANHIA \"ENGENHO CENTRAL URURAÍ\" AUTORIZAÇÃO PARA FUNCIONAR, E APROVA, COM ALTERAÇÕES, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "409965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-10-6194",
+      "titulo": "Decreto nº 6.194 de 10/05/1876",
+      "data": "1876-05-10",
+      "numero": "6194",
+      "urn": "urn:lex:br:federal:decreto:1876-05-10;6194",
+      "ementa": "CONCEDE PRIVILÉGIO, POR DEZ ANOS, A JOÃO ANTÔNIO DA SILVA PERES JÚNIOR PARA USAR E VENDER NO IMPÉRIO \"TRILHOS MOMENTÂNEOS\" DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "409949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-03-6190",
+      "titulo": "Decreto nº 6.190 de 03/05/1876",
+      "data": "1876-05-03",
+      "numero": "6190",
+      "urn": "urn:lex:br:federal:decreto:1876-05-03;6190",
+      "ementa": "MARCA O ORDENADO ANUAL DE 120$000 AO CARCEREIRO DA CADEIA DA VILA DO ASSARÉ NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "409953",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-05-03-6191",
+      "titulo": "Decreto nº 6.191 de 03/05/1876",
+      "data": "1876-05-03",
+      "numero": "6191",
+      "urn": "urn:lex:br:federal:decreto:1876-05-03;6191",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 600:000$000 Á COMPANHIA QUE O DR. JOAQUIM CARLOS TRAVASSOS E O DESEMBARGADOR BERNARDO AVELINO GAVIÃO PEIXOTO ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR, NO MUNICÍPIO DE CAPIVARI, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "570436",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6175",
+      "titulo": "Decreto nº 6.175 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6175",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6175",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DA PARAÍBA DO SUL, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "570456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6180",
+      "titulo": "Decreto nº 6.180 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6180",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6180",
+      "ementa": "APROVA A MODIFICAÇÃO DO ARTIGO 24 DOS ESTATUTOS DO IMPERIAL INSTITUTO FLUMINENSE DE AGRICULTURA."
+    },
+    {
+      "senadoId": "570469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6183",
+      "titulo": "Decreto nº 6.183 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6183",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6183",
+      "ementa": "CONCEDE Á COMPANHIA INGLEZA \"NORTH BRITISH AND MERCANTILE INSURANCE\" AUTORIZAÇÃO PARA ESTENDER SUAS OPERAÇÕES Á PRAÇA DE SANTOS, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "409945",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6189",
+      "titulo": "Decreto nº 6.189 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6189",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6189",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA DE SEGUROS \"LLOYD SUISSO\" DE ZURICH, NA SUIÇA, PARA ESTABELECER AGENCIAS NAS CAPITAIS DO IMPERIO, PROVINCIAS DO RIO DE JANEIRO E BAHIA."
+    },
+    {
+      "senadoId": "570464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6182",
+      "titulo": "Decreto nº 6.182 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6182",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6182",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA \"FERRO-CARRIL DE PERNAMBUCO\"."
+    },
+    {
+      "senadoId": "409933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6186",
+      "titulo": "Decreto nº 6.186 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6186",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6186",
+      "ementa": "CONCEDE Á COMPANHIA \"COOPERATIVA DE CONSUMO\" AUTORIZAÇÃO PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "570452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6179",
+      "titulo": "Decreto nº 6.179 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6179",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6179",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DA GURGUEIA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "570448",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6178",
+      "titulo": "Decreto nº 6.178 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6178",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6178",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DA GURGUEIA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "570477",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6185",
+      "titulo": "Decreto nº 6.185 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6185",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6185",
+      "ementa": "AUTORIZA MANOEL FERNANDES BARCELOS A INCORPORAR UMA COMPANHIA COM A DENOMINAÇÃO DE-EDIFICADORA ECONÔMICA."
+    },
+    {
+      "senadoId": "570432",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6174",
+      "titulo": "Decreto nº 6.174 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6174",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6174",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DA PARAÍBA DO SUL, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "409937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6187",
+      "titulo": "Decreto nº 6.187 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6187",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6187",
+      "ementa": "CONCEDE PRIVILÉGIO POR OITO ANOS A A. PATURAU PARA O APARELHO E PROCESSO DE SUA INVENÇÃO DESTINADOS A FABRICAR AÇÚCAR."
+    },
+    {
+      "senadoId": "409941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6188",
+      "titulo": "Decreto nº 6.188 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6188",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6188",
+      "ementa": "ALTERA OS PARÁGRAFOS 3º E 4º DO DECRETO NÚMERO 5874 DE 13 DE FEVEREIRO DE 1875."
+    },
+    {
+      "senadoId": "570473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6184",
+      "titulo": "Decreto nº 6.184 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6184",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6184",
+      "ementa": "CONCEDE PRIVILÉGIO AO DR. DANIEL PEDRO FERRO CARDOSO, PARA INTRODUZIR NO IMPÉRIO MÁRMORE MAREZO."
+    },
+    {
+      "senadoId": "570440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6176",
+      "titulo": "Decreto nº 6.176 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6176",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6176",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DO APODI, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "570460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6181",
+      "titulo": "Decreto nº 6.181 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6181",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6181",
+      "ementa": "RENOVA O PRAZO DA AUTORIZAÇÃO CONCEDIDA Á COMPANHIA DE SEGUROS \"GARANTIA\" DA CIDADE DO PORTO PARA REALIZAR OPERAÇÕES NO IMPÉRIO."
+    },
+    {
+      "senadoId": "570444",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-26-6177",
+      "titulo": "Decreto nº 6.177 de 26/04/1876",
+      "data": "1876-04-26",
+      "numero": "6177",
+      "urn": "urn:lex:br:federal:decreto:1876-04-26;6177",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DO APODI, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "570408",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6168",
+      "titulo": "Decreto nº 6.168 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6168",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6168",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO \"MIRIM\"."
+    },
+    {
+      "senadoId": "570412",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6169",
+      "titulo": "Decreto nº 6.169 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6169",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6169",
+      "ementa": "CONCEDE Á COMPANHIA CEARENSE DE NAVEGAÇÃO FLUVIAL DO ESPÍRITO SANTO AUTORIZAÇÃO PARA FUNCIONAR, E APROVAÇÃO DE SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "570416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6170",
+      "titulo": "Decreto nº 6.170 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6170",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6170",
+      "ementa": "CONCEDE A LUCAS JOSÉ VIEIRA FERRAZ PERMISSÃO PARA EXPLORAR MINERAIS NO MUNICÍPIO DA BARRA MANSA, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "570420",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6171",
+      "titulo": "Decreto nº 6.171 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6171",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6171",
+      "ementa": "CONCEDE A AURELIANO BATISTA DE OLIVEIRA PERMISSÃO, POR DOIS ANOS, PARA EXPLORAR MINAS DE OURO NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "570400",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6166",
+      "titulo": "Decreto nº 6.166 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6166",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6166",
+      "ementa": "PRORROGA POR MAIS UM ANO OS PRAZO FIXADOS NA CLÁUSULA 3ª DO DECRETO NÚMERO 5593 DE 11 DE ABRIL DE 1874."
+    },
+    {
+      "senadoId": "570404",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6167",
+      "titulo": "Decreto nº 6.167 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6167",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6167",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DA 1ª SEÇÃO DA ESTRADA DE FERRO DE CAMPOS AOS TOMBOS DO CARANGOLA."
+    },
+    {
+      "senadoId": "570428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6173",
+      "titulo": "Decreto nº 6.173 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6173",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6173",
+      "ementa": "CONCEDE PRIVILÉGIO, POR DEZ ANOS, AO BACHAREL INÁCIO DE BARROS BARRETO PARA UM SISTEMA DE MOENDAS DE PRESSÃO DUPLA DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "570424",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-15-6172",
+      "titulo": "Decreto nº 6.172 de 15/04/1876",
+      "data": "1876-04-15",
+      "numero": "6172",
+      "urn": "urn:lex:br:federal:decreto:1876-04-15;6172",
+      "ementa": "CONCEDE A COMPANHIA UNIÃO BRASILEIRA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA, COM ALTERAÇÕES, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "570396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-04-12-6165",
+      "titulo": "Decreto nº 6.165 de 12/04/1876",
+      "data": "1876-04-12",
+      "numero": "6165",
+      "urn": "urn:lex:br:federal:decreto:1876-04-12;6165",
+      "ementa": "SUBSTITUE A CLÁUSULA 4ª DAS ANEXAS AO DECRETO NÚMERO 6015 DE 30 DE OUTUBRO DE 1875."
+    },
+    {
+      "senadoId": "570388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6163",
+      "titulo": "Decreto nº 6.163 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6163",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6163",
+      "ementa": "CONCEDE A SEBASTIÃO JOSÉ FERREIRA RABELO E AO BACHAREL JOSÉ JOAQUIM FERREIRA RABELHO PERMISSÃO PARA LAVRAREM JAZIDAS DE OURO E FERRO NO LUGAR DENOMINADO ZAGAIA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "570364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6157",
+      "titulo": "Decreto nº 6.157 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6157",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6157",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA SOCIEDADE ANÔNIMA DENOMINADA \"UNIÃO AUXILIAR DO COMÉRCIO, INDÚSTRIA E LAVOURA\", E APROVA, COM MODIFICAÇÕES, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "570392",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6164",
+      "titulo": "Decreto nº 6.164 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6164",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6164",
+      "ementa": "REORGANIZA O ARQUIVO PÚBLICO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "570360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6156",
+      "titulo": "Decreto nº 6.156 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6156",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6156",
+      "ementa": "ALTERA A TABELA DOS IMPOSTOS QUE A ILUSTRÍSSIMA CÂMARA MUNICIPAL COBRA A TÍTULO DE LICENÇA, E EXTINGUE A TAXA DE 40 RS. SOBRE O CONSUMO DA AGUARDENTE DE PRODUÇÃO DO PAÍS, NA CIDADE DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "570372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6159",
+      "titulo": "Decreto nº 6.159 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6159",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6159",
+      "ementa": "APROVA COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA ENGENHO CENTRAL DE SÃO GONÇALO, E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "570356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6155",
+      "titulo": "Decreto nº 6.155 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6155",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6155",
+      "ementa": "SUBSTITUE O IMPOSTO DE 20% DO CONSUMO DA AGUARDENTE NO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "570368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6158",
+      "titulo": "Decreto nº 6.158 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6158",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6158",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA SOCIEDADE ANÔNIMA DENOMINADA \"CAIXA MUTUANTE\", E APROVA COM MODIFICAÇÕES SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "570384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6162",
+      "titulo": "Decreto nº 6.162 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6162",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6162",
+      "ementa": "APROVA COM ALTERAÇÕES OS ESTATUTOS DA COMPANHIA UNIÃO ITABIRANA, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "570380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6161",
+      "titulo": "Decreto nº 6.161 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6161",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6161",
+      "ementa": "CONCEDE AO BACHAREL JOSÉ JOAQUIM FERREIRA RABELHO PERMISSÃO PARA LAVRAR JAZIDAS DE OURO, E OUTROS METAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "570376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-24-6160",
+      "titulo": "Decreto nº 6.160 de 24/03/1876",
+      "data": "1876-03-24",
+      "numero": "6160",
+      "urn": "urn:lex:br:federal:decreto:1876-03-24;6160",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO FIXADO PELO DECRETO Nº 5962 DE 7 DE JULHO DE 1875."
+    },
+    {
+      "senadoId": "570352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-20-6154",
+      "titulo": "Decreto nº 6.154 de 20/03/1876",
+      "data": "1876-03-20",
+      "numero": "6154",
+      "urn": "urn:lex:br:federal:decreto:1876-03-20;6154",
+      "ementa": "CRIA NO MUNICÍPIO DA CÔRTE MAIS SETE ESCOLAS PÚBLICAS DE INSTRUÇÃO PRIMÁRIA DO 1º GRAU."
+    },
+    {
+      "senadoId": "570348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-20-6153",
+      "titulo": "Decreto nº 6.153 de 20/03/1876",
+      "data": "1876-03-20",
+      "numero": "6153",
+      "urn": "urn:lex:br:federal:decreto:1876-03-20;6153",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM BERNARDINO DA ROCHA CARVALHO, PARA O SERVIÇO DA NAVEGAÇÃO A VAPOR ENTRE O PORTO DE CANANÉA E A COLÔNIA DO MESMO NOME, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "570344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6152",
+      "titulo": "Decreto nº 6.152 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6152",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6152",
+      "ementa": "SEPARA DO TERMO DE URUBÚ O DE MACAÚBAS NA PROVÍNCIA DA BAHIA E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "409927",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6143",
+      "titulo": "Decreto nº 6.143 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6143",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6143",
+      "ementa": "DETERMINA O VALOR, PESO, TÍTULO E MÓDULO DAS MOEDAS DE OURO E DE PRATA."
+    },
+    {
+      "senadoId": "570320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6146",
+      "titulo": "Decreto nº 6.146 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6146",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6146",
+      "ementa": "CONCEDE FIANÇA DE JURO DE 7% GARANTIDO PELA LEI DA PROVÍNCIA DO RIO GRANDE DO NORTE NÚMERO 713 DE 3 DE SETEMBRO DE 1874 SOBRE 500:000$000 Á  COMPANHIA QUE PEDRO H. WAKEN ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE CEARÁ-MIRIM."
+    },
+    {
+      "senadoId": "570316",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6145",
+      "titulo": "Decreto nº 6.145 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6145",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6145",
+      "ementa": "CONCEDE GARANTIA DE JURO DE 7% SOBRE O CAPITAL DE 700:000$000 Á COMPANHIA QUE O VISCONDE DE SERGIMIRIM, BARÃO DE ARAMARÉ, BARÃO DE OLIVEIRA, FRANCISCO XAVIER CATILINA E MANOEL PINTO DE NOVAIS, ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NA FREGUESIA DO BOM JARDIM, MUNICÍPIO DE SANTO AMARO, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "570332",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6149",
+      "titulo": "Decreto nº 6.149 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6149",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6149",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 700:000$000 Á COMPANHIA QUE JOSÉ PACHECO PEREIRA, FRANCISCO XAVIER CATILINA E FRANCISCO DE SAMPAIO VIANA INCORPORAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NA FREQUESIA DO RIO FUNDO, MUNICÍPIO DE SANTO AMARO, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "570324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6147",
+      "titulo": "Decreto nº 6.147 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6147",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6147",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 600:000$000 Á COMPANHIA QUE MANOEL PINTO NOVAIS ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA NA FREGUESIA DE IGUAPÉ, MUNICÍPIO DO MESMO NOME, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "570328",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6148",
+      "titulo": "Decreto nº 6.148 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6148",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6148",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE 700:000$000 Á COMPANHIA QUE O BARÃO DE CAMAÇARI INCORPORAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DA MATA DE SÃO JOÃO, PROVÍNCIA DA BANHIA."
+    },
+    {
+      "senadoId": "570340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6151",
+      "titulo": "Decreto nº 6.151 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6151",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6151",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DE CORITIBANOS, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "570312",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6144",
+      "titulo": "Decreto nº 6.144 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6144",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6144",
+      "ementa": "CONCEDE GARANTIA DE JURO DE 7% SOBRE O CAPITAL DE 700:000$000 Á COMPANHIA QUE O DR. JÚLIO DE MIRANDA E SILVA ORGANIZOU PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA NA FREGUEZIA DE SÃO GONÇALO, MUNICÍPIO DE CAMPOS, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "570336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6150",
+      "titulo": "Decreto nº 6.150 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6150",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6150",
+      "ementa": "CONCEDE FIANÇA DO JURO DE 7% GARANTIDO PELA LEI DA PROVÍNCIA DA BAHIA Nº 1385 DE 4 DE MAIO DE 1874, SOBRE 500:000$000, Á COMPANHIA QUE MARINHOS & COMP. E JOAQUIM FERNANDES RIBEIRO ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE NAZARETH."
+    },
+    {
+      "senadoId": "409923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-10-6142",
+      "titulo": "Decreto nº 6.142 de 10/03/1876",
+      "data": "1876-03-10",
+      "numero": "6142",
+      "urn": "urn:lex:br:federal:decreto:1876-03-10;6142",
+      "ementa": "REGULA O MODO POR QUE DEVEM SER TOMADOS OS ASSENTOS DO SUPREMO TRIBUNAL DE JUSTIÇA."
+    },
+    {
+      "senadoId": "409907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6138",
+      "titulo": "Decreto nº 6.138 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6138",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6138",
+      "ementa": "CONCEDE A HAMILTON LINDSAI BUCKNAL PRIVILÉGIO POR CINQUENTA ANOS PARA A CONSTRUÇÃO, USO E GOZO DE UM TÚNEL SUBMARINO E ESTRADA DE FERRO QUE COMUNIQUE A CAPITAL DO IMPÉRIO COM  A CIDADE DE NITERÓI."
+    },
+    {
+      "senadoId": "409891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6134",
+      "titulo": "Decreto nº 6.134 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6134",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6134",
+      "ementa": "CONCEDE A ANTÔNIO ALVES PINTO AUTORIZAÇÃO POR DOIS ANOS, PARA EXPLORAR JAZIDAS DE COBRE E OUTROS METAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "409887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6133",
+      "titulo": "Decreto nº 6.133 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6133",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6133",
+      "ementa": "CONCEDE PRIVILÉGIO POR OITO ANOS A PAULO PORTA PARA INTRODUZIR NO IMPÉRIO UMA ESCADA DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "409895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6135",
+      "titulo": "Decreto nº 6.135 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6135",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6135",
+      "ementa": "CONCEDE PRIVILÉGIO POR OITO ANOS A BERNARDINO CORRÊA DE MATOS, PARA UMA MÁQUINA DE SUA INVENÇÃO DESTINADA A DESCASCAR E PREPARAR CAFÉ."
+    },
+    {
+      "senadoId": "409883",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6132",
+      "titulo": "Decreto nº 6.132 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6132",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6132",
+      "ementa": "REGULA A COTAÇÃO OFICIAL DOS FUNDOS PÚBLICOS, AÇÕES DE COMPANHIAS, METAIS PRECIOSOS, E A VERIFICAÇÃO DO CURSO DOS CÂMBIOS E DESCONTOS."
+    },
+    {
+      "senadoId": "409919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6141",
+      "titulo": "Decreto nº 6.141 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6141",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6141",
+      "ementa": "REFORMA A BIBLIOTECA PÚBLICA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "409911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6139",
+      "titulo": "Decreto nº 6.139 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6139",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6139",
+      "ementa": "CONCEDE A JOÃO ULRICH GRAF OU Á COMPANHIA QUE ORGANIZAR PARA A CONSTRUÇÃO DA ESTRADA DE FERRO DE MOSSORÓ, NA PROVÍNCIA DO RIO GRANDE DO NORTE, ALGUNS DOS FAVORES EXPRESSADOS NO ARTIGO 9º DO REGULAMENTO DE 28 DE FEVEREIRO  DE 1874."
+    },
+    {
+      "senadoId": "409903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6137",
+      "titulo": "Decreto nº 6.137 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6137",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6137",
+      "ementa": "CONCEDE PRIVILÉGIO POR 10 ANOS A DOMINGOS GONÇALVES DE AZEVEDO E LUIZ DEGREEFF, PARA UM SISTEMA DE TRILHOS DE FERRO DESTINADOS ÁS LINHAS DE CARRIS URBANOS."
+    },
+    {
+      "senadoId": "409899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6136",
+      "titulo": "Decreto nº 6.136 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6136",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6136",
+      "ementa": "CONCEDE PRIVILÉGIO POR CINCO ANOS, A EGÍDIO GUICHARD PARA UM APARELHO APROPRIADO Á EXTINÇÃO DA FORMIGA SAÚVA."
+    },
+    {
+      "senadoId": "409915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6140",
+      "titulo": "Decreto nº 6.140 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6140",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6140",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA DA ESTRADA DE FERRO DE REZENDE A ÁREAS PARA CONSTRUIR UM RAMAL."
+    },
+    {
+      "senadoId": "409879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-04-6131",
+      "titulo": "Decreto nº 6.131 de 04/03/1876",
+      "data": "1876-03-04",
+      "numero": "6131",
+      "urn": "urn:lex:br:federal:decreto:1876-03-04;6131",
+      "ementa": "APROVA ALGUMAS ALTERAÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE PROTETORA DOS EMPREGADOS PÚBLICOS."
+    },
+    {
+      "senadoId": "409875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-03-01-6130",
+      "titulo": "Decreto nº 6.130 de 01/03/1876",
+      "data": "1876-03-01",
+      "numero": "6130",
+      "urn": "urn:lex:br:federal:decreto:1876-03-01;6130",
+      "ementa": "ALTERA OS REGULAMENTOS DO IMPERIAL COLÉGIO DE PEDRO II."
+    },
+    {
+      "senadoId": "409864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6127",
+      "titulo": "Decreto nº 6.127 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6127",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6127",
+      "ementa": "CONCEDE AO BACHAREL CIRINO ANTÔNIO DE LEMOS PERMISSÃO PARA EXPLORAR MINAS DE OURO E OUTROS METAIS NO MUNICÍPIO DE SÃO JOSÉ DE CAMPOS, COMARCA DE JACAREÍ, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "409868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6128",
+      "titulo": "Decreto nº 6.128 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6128",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6128",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO MARCADO NA CLÁUSULA 3ª DAS QUE ACOMPANHAM O DECRETO NÚMERO 5399 DE 10 DE SETEMBRO DE 1873."
+    },
+    {
+      "senadoId": "409847",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6123",
+      "titulo": "Decreto nº 6.123 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6123",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6123",
+      "ementa": "SEPARA DO TERMO DE SANTA ANA DO LIVRAMENTO O DE D. PEDRITO, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "409872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6129",
+      "titulo": "Decreto nº 6.129 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6129",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6129",
+      "ementa": "ORGANIZA A INSPETORIA GERAL DAS TERRAS E COLONIZAÇÃO."
+    },
+    {
+      "senadoId": "409851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6124",
+      "titulo": "Decreto nº 6.124 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6124",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6124",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DE LENÇOIS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "409856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6125",
+      "titulo": "Decreto nº 6.125 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6125",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6125",
+      "ementa": "CONCEDE PRIVILÉGIO A EDUARDO BATISTA ROQUETE FRANCO PARA O MELHORAMENTO QUE INTRODUZIU NA MÁQUINA DE SUA INVENÇÃO, DESTINADA A PREPARAR CAFÉ."
+    },
+    {
+      "senadoId": "409860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-23-6126",
+      "titulo": "Decreto nº 6.126 de 23/02/1876",
+      "data": "1876-02-23",
+      "numero": "6126",
+      "urn": "urn:lex:br:federal:decreto:1876-02-23;6126",
+      "ementa": "CONCEDE A MANOEL GONÇALVES DA ROSA, ANTÔNIO VIEIRA DE ARAÚJO, VALENTIM ANTÔNIO DE SOUZA E ANTÔNIO DA CUNHA MACIEL AUTORIZAÇÃO PARA EXPLORAREM FERRO E OUTROS METAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "409839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-16-6121",
+      "titulo": "Decreto nº 6.121 de 16/02/1876",
+      "data": "1876-02-16",
+      "numero": "6121",
+      "urn": "urn:lex:br:federal:decreto:1876-02-16;6121",
+      "ementa": "CONCEDE FIANÇA DO JURO DE 7% GARANTIDO PELA LEI DA PROVÍNCIA DE PERNAMBUCO NÚMERO 1141 DE 8 DE JUNHO DE 1874, SOBRE 500:000$000 E GARANTIA DE IGUAL JURO ATÉ OUTRO TANTO DESSE CAPITAL Á COMPANHIA QUE KELER & COM. ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA NO MUNICÍPIO DE ÁGUA PRETA, COMARCA DE PALMARES."
+    },
+    {
+      "senadoId": "409843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-16-6122",
+      "titulo": "Decreto nº 6.122 de 16/02/1876",
+      "data": "1876-02-16",
+      "numero": "6122",
+      "urn": "urn:lex:br:federal:decreto:1876-02-16;6122",
+      "ementa": "TRANSFERE A D. FELIPA DIAS BATISTA A CONCESSÃO FEITA A SEU FINADO MARIDO, JOÃO PAULO DIAS, POR DECRETO NÚMERO 5151 DE 27 DE NOVEMBRO DE    1872, PARA A LAVRA DE MINERAIS NO MUNICÍPIO DE APIAÍ."
+    },
+    {
+      "senadoId": "409819",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-09-6116",
+      "titulo": "Decreto nº 6.116 de 09/02/1876",
+      "data": "1876-02-09",
+      "numero": "6116",
+      "urn": "urn:lex:br:federal:decreto:1876-02-09;6116",
+      "ementa": "REORGANIZA O MUSEU NACIONAL."
+    },
+    {
+      "senadoId": "409835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-09-6120",
+      "titulo": "Decreto nº 6.120 de 09/02/1876",
+      "data": "1876-02-09",
+      "numero": "6120",
+      "urn": "urn:lex:br:federal:decreto:1876-02-09;6120",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA FERRO-CARRIL CARIOCA E RIACHUELO, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "409823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-09-6117",
+      "titulo": "Decreto nº 6.117 de 09/02/1876",
+      "data": "1876-02-09",
+      "numero": "6117",
+      "urn": "urn:lex:br:federal:decreto:1876-02-09;6117",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA ASSOCIAÇÃO AUXILIADORA DOS SORTEADOS, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "409831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-09-6119",
+      "titulo": "Decreto nº 6.119 de 09/02/1876",
+      "data": "1876-02-09",
+      "numero": "6119",
+      "urn": "urn:lex:br:federal:decreto:1876-02-09;6119",
+      "ementa": "PERMITE Á COMPANHIA DA ESTRADA DE FERRO DO CARANGOLA PROLONGAR O RAMAL DO PATROCÍNIO ATÉ A CIDADE DE SÃO PAULO DE MURIAÉ."
+    },
+    {
+      "senadoId": "409827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-09-6118",
+      "titulo": "Decreto nº 6.118 de 09/02/1876",
+      "data": "1876-02-09",
+      "numero": "6118",
+      "urn": "urn:lex:br:federal:decreto:1876-02-09;6118",
+      "ementa": "CONCEDE A GARANTIA DE JUROS DE 7% AO ANO AO CAPITAL ADICIONAL DE MIL CONTOS DE RÉIS DESTINADO Á CONSTRUÇÃO DA ESTRADA DE FERRO DO CARANGOLA E SEUS RAMAIS."
+    },
+    {
+      "senadoId": "409804",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-02-6112",
+      "titulo": "Decreto nº 6.112 de 02/02/1876",
+      "data": "1876-02-02",
+      "numero": "6112",
+      "urn": "urn:lex:br:federal:decreto:1876-02-02;6112",
+      "ementa": "PRORROGA POR UM ANO O PRAZO MARCADO NA CLÁUSULA 4ª DAS ANEXAS AO DECRETO NÚMERO 5538 DE 31 DE JANEIRO DE 1874."
+    },
+    {
+      "senadoId": "409808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-02-6113",
+      "titulo": "Decreto nº 6.113 de 02/02/1876",
+      "data": "1876-02-02",
+      "numero": "6113",
+      "urn": "urn:lex:br:federal:decreto:1876-02-02;6113",
+      "ementa": "CRIA A REPARTIÇÃO HIDROGRAFICA E MANDA EXECUTAR O REGULAMENTO QUE A DEVE REGER."
+    },
+    {
+      "senadoId": "409812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-02-6114",
+      "titulo": "Decreto nº 6.114 de 02/02/1876",
+      "data": "1876-02-02",
+      "numero": "6114",
+      "urn": "urn:lex:br:federal:decreto:1876-02-02;6114",
+      "ementa": "ESPAÇA PARA O DIA 31 DE DEZEMBRO DO CORRENTE ANO A REUNIÃO DA ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "409815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-02-6115",
+      "titulo": "Decreto nº 6.115 de 02/02/1876",
+      "data": "1876-02-02",
+      "numero": "6115",
+      "urn": "urn:lex:br:federal:decreto:1876-02-02;6115",
+      "ementa": "APROVA, COM ALTERAÇÃO, OS ESTATUTOS DA COMPANHIA FLUVIAL E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "409800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-02-02-6111",
+      "titulo": "Decreto nº 6.111 de 02/02/1876",
+      "data": "1876-02-02",
+      "numero": "6111",
+      "urn": "urn:lex:br:federal:decreto:1876-02-02;6111",
+      "ementa": "APROVA ALGUMAS ALTERAÇÕES FEITAS NOS ESTATUTOS DO \"BANCO PREDIAL\"."
+    },
+    {
+      "senadoId": "409796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-26-6110",
+      "titulo": "Decreto nº 6.110 de 26/01/1876",
+      "data": "1876-01-26",
+      "numero": "6110",
+      "urn": "urn:lex:br:federal:decreto:1876-01-26;6110",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO VITOR DE ASSIS SILVEIRA A FIM DE USAR DO MEIO QUE INVENTOU PARA A FISCALIZAÇÃO DA RECEITA DAS EMPRESAS DE TRANSPORTE DE PASSAGEIROS."
+    },
+    {
+      "senadoId": "409792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-26-6109",
+      "titulo": "Decreto nº 6.109 de 26/01/1876",
+      "data": "1876-01-26",
+      "numero": "6109",
+      "urn": "urn:lex:br:federal:decreto:1876-01-26;6109",
+      "ementa": "PRORROGA POR UM ANO O PRAZO PARA A INCORPORAÇÃO DA COMPANHIA DESTINADA Á CONSTRUÇÃO DA ESTRADA DE FERRO DO \"CONDE D'EU \" NA PROVÍNCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "569914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-26-6108",
+      "titulo": "Decreto nº 6.108 de 26/01/1876",
+      "data": "1876-01-26",
+      "numero": "6108",
+      "urn": "urn:lex:br:federal:decreto:1876-01-26;6108",
+      "ementa": "CRIA A REPARTIÇÃO DE FAROIS E MANDA EXECUTAR O REGULAMENTO QUE A DEVE REGER."
+    },
+    {
+      "senadoId": "569906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6106",
+      "titulo": "Decreto nº 6.106 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6106",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6106",
+      "ementa": "CONCEDE Á SOCIEDADE ANÔNIMA \"THERMAS DE D. PEDRO II\" AUTORIZAÇÃO PARA FUNCIONAR E APROVA, COM MODIFICAÇÕES, OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "569882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6100",
+      "titulo": "Decreto nº 6.100 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6100",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6100",
+      "ementa": "PRORROGA OS PRAZOS FIXADOS NAS CLÁUSULAS ANEXAS AOS DECRETOS NÚMERO 5126 DE 30 DE OUTUBRO DE 1872 E NÚMERO 5856 A DE 24 DE JANEIRO DE 1875, PARA A CONCLUSÃO DAS OBRAS DA LINHA DE CARRIS DE FERRO DOS MORROS DE SANTA TEREZA E PAULA MATOS."
+    },
+    {
+      "senadoId": "569874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6098",
+      "titulo": "Decreto nº 6.098 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6098",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6098",
+      "ementa": "AUTORIZA A ASSOCIAÇÃO \"PROTETORA DAS FAMÍLIAS\" PARA FAZER OPERAÇÕES DE BENEFÍCIOS MÚTUOS SEM RISCO DE MORTE."
+    },
+    {
+      "senadoId": "569894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6103",
+      "titulo": "Decreto nº 6.103 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6103",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6103",
+      "ementa": "CONCEDE Á COMPANHIA \"SERVIÇO DOMÉSTICO\" AUTORIZAÇÃO PARA FUNCIONAR E APROVA, COM MODIFICAÇÕES, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "569878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6099",
+      "titulo": "Decreto nº 6.099 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6099",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6099",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA CONSCRIÇÃO, E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "569890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6102",
+      "titulo": "Decreto nº 6.102 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6102",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6102",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DA LEOPOLDINA."
+    },
+    {
+      "senadoId": "569910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6107",
+      "titulo": "Decreto nº 6.107 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6107",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6107",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA \"TRAM ROAD DE NAZARETH\" E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "569886",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6101",
+      "titulo": "Decreto nº 6.101 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6101",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6101",
+      "ementa": "CONCEDE A GUILHERME KOPP, GUILHERME BIER E EMÍLIO WIDEMANN PERMISSÃO POR DOIS ANOS PARA EXPLORAR MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS NOS MUNICÍPIOS DE PORTO ALEGRE E SÃO LEOPOLDO, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "569898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6104",
+      "titulo": "Decreto nº 6.104 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6104",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6104",
+      "ementa": "CONCEDE AO DR. DE WITE CLINTON VAN TUIL PERMISSÃO, POR CINQUENTA ANOS, PARA MINERAR OURO NA PROVIDÊNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "569902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-19-6105",
+      "titulo": "Decreto nº 6.105 de 19/01/1876",
+      "data": "1876-01-19",
+      "numero": "6105",
+      "urn": "urn:lex:br:federal:decreto:1876-01-19;6105",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA INGLESA NORTHERN ASSURANCE COMPANY PARA CONTINUAR A FUNCIONAR EM VÁRIAS PROVÍNCIAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "569870",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-12-6097",
+      "titulo": "Decreto nº 6.097 de 12/01/1876",
+      "data": "1876-01-12",
+      "numero": "6097",
+      "urn": "urn:lex:br:federal:decreto:1876-01-12;6097",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES REGULAMENTARES PARA EXECUÇÃO DO DECRETO NÚMERO 2675 DE 20 DE OUTUBRO DE 1875."
+    },
+    {
+      "senadoId": "569850",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-12-6092",
+      "titulo": "Decreto nº 6.092 de 12/01/1876",
+      "data": "1876-01-12",
+      "numero": "6092",
+      "urn": "urn:lex:br:federal:decreto:1876-01-12;6092",
+      "ementa": "APROVA O PLANO ORGANIZADO PELA INSPETORIA GERAL DAS OBRAS PÚBLICAS DA CÔRTE PARA O ABASTECIMENTO D'ÁGUA Á CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "569866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-12-6096",
+      "titulo": "Decreto nº 6.096 de 12/01/1876",
+      "data": "1876-01-12",
+      "numero": "6096",
+      "urn": "urn:lex:br:federal:decreto:1876-01-12;6096",
+      "ementa": "AUTORIZA A FUNCIONAR AO IMPÉRIO A COMPANHIA \"THE ALAGOAS BRAZILIAN CENTRAL RAILWAY COMPANY LIMITED\"."
+    },
+    {
+      "senadoId": "569862",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-12-6095",
+      "titulo": "Decreto nº 6.095 de 12/01/1876",
+      "data": "1876-01-12",
+      "numero": "6095",
+      "urn": "urn:lex:br:federal:decreto:1876-01-12;6095",
+      "ementa": "CONCEDE A EDUARDO BATISTA ROQUETE FRANCO PRIVILÉGIO PARA UMA MÁQUINA DE BRUNIR E SEPARAR CAFÉ."
+    },
+    {
+      "senadoId": "569858",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-12-6094",
+      "titulo": "Decreto nº 6.094 de 12/01/1876",
+      "data": "1876-01-12",
+      "numero": "6094",
+      "urn": "urn:lex:br:federal:decreto:1876-01-12;6094",
+      "ementa": "AUTORIZA A \"BRAZILIAN IMPERIAL CENTRAL BAHIA RAILWAY COMPANY LIMITED\" A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "569854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-12-6093",
+      "titulo": "Decreto nº 6.093 de 12/01/1876",
+      "data": "1876-01-12",
+      "numero": "6093",
+      "urn": "urn:lex:br:federal:decreto:1876-01-12;6093",
+      "ementa": "CONCEDE A ALEIXO GARI PRIVILÉGIO PARA FÁBRICA E VENDER CARROS MECÂNICOS, SISTEMA \"SOHY\" COM OS MELHORAMENTOS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "569846",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1876-01-08-6091",
+      "titulo": "Decreto nº 6.091 de 08/01/1876",
+      "data": "1876-01-08",
+      "numero": "6091",
+      "urn": "urn:lex:br:federal:decreto:1876-01-08;6091",
+      "ementa": "ALTERA ALGUMAS DAS CLÁUSULAS QUE ACOMPANHAM O DECRETO NÚMERO 5952 DE 23 DE JUNHO DE 1875, QUE CONCEDEU FIANÇA DOS JUROS DE 4% AO ANO E GARANTIA ADICIONAL DE 3% SOBRE O MÁXIMO CAPITAL DE 14.000:000$000, DESTINADOS Á CONSTRUÇÃO DA ESTRADA DE FERRO DO RIO VERDE."
+    }
+  ],
+  "pendencias": []
+}

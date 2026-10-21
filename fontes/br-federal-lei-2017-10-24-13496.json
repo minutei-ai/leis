@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-10-24-13496",
+  "titulo": "Lei nº 13.496 de 24/10/2017",
+  "data": "2017-10-24",
+  "fonte": "https://normas.leg.br/api/public/binario/0d89590b-5c8a-47b0-bf9f-23f7435f07f8/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-10-24;13496",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-10-24%3B13496&tipo_documento=maior-detalhe",
+  "sha256_dados": "054a95d8778158ee2031020aad55bd5d3440b7e8ea8c37cb4d4480ad4aa35dc7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:18.222Z",
+  "sha256_fonte": "933b86cd3dbd22a4f0cefc1abe8b6dd6414c547268bc3bc551ed7eebf268cc9a",
+  "sha256_markdown": "20f9bc84494e1797972ba3d929cf18a7508efdff0e9a0536e32db31e909d016b"
+}

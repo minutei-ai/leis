@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-01-12-13247",
+  "titulo": "Lei nº 13.247 de 12/01/2016",
+  "data": "2016-01-12",
+  "fonte": "https://normas.leg.br/api/public/binario/01d2a2c9-7c30-4b31-a6e5-439eafadb1dc/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-01-12;13247",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-01-12%3B13247&tipo_documento=maior-detalhe",
+  "sha256_dados": "3c53cd7c2956e180bb25c8e81d64fd097909b6b503bda06b0bb7b0c392e97c4f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:53.364Z",
+  "sha256_fonte": "51034ece9f1f5fa0f59cf857f74f3b718294eedf0a25763a8e09083283b6d775",
+  "sha256_markdown": "a71609124e4b1a143f4d9c8ac30bc1f5fbdfc8ac300025957e17e576dfbb7f80"
+}

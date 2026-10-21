@@ -1,0 +1,3319 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1872",
+  "tipo": "DEC",
+  "ano": 1872,
+  "coletado_em": "2026-10-21T08:52:21.968Z",
+  "normas": [
+    {
+      "senadoId": "407773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5185",
+      "titulo": "Decreto nº 5.185 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5185",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5185",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOSÉ FRANCISCO DE MAGALHÃES E A CALVIN MC. KNIGHT PAR LAVRAR MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS QUE TENHAM APLICAÇÃO NA INDÚSTRIA, E SUAS FAZENDAS SITAS NA FREGUESIA DA RIBEIRA, NO MUNICÍPIO DE ANGRA DOS REIS, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5183",
+      "titulo": "Decreto nº 5.183 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5183",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5183",
+      "ementa": "CRIA MAIS UM LUGAR DE PROMOTOR PÚBLICO NA COMARCA DA CAPITAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "407777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5186",
+      "titulo": "Decreto nº 5.186 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5186",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5186",
+      "ementa": "CONCEDE Á COMPANHIA ANIMAÇÃO INDUSTRIAL, ORGANIZADA NA PROVÍNCIA DA BAHIA, ANTORIZAÇÃO PARA FUNCIONAR E APROVAR OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5190",
+      "titulo": "Decreto nº 5.190 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5190",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5190",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DO BANCO COMERCIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5188",
+      "titulo": "Decreto nº 5.188 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5188",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5188",
+      "ementa": "CONCEDE Á COMPANHIA - EDIFICADORA- ORGANIZADA NESTA CAPITAL AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS REPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5184",
+      "titulo": "Decreto nº 5.184 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5184",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5184",
+      "ementa": "CONCEDE A GUILHERME GOUDON PRIVILÉGIO POR 10 ANOS PARA O USO DE CARROS DE UM SISTEMA DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "407789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5189",
+      "titulo": "Decreto nº 5.189 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5189",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5189",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO CONSELHEIRO JOÃO DA SILVA CORRÃO E AO COMENDADOR ANTONIO JOSÉ NOGUEIRA PARA LAVRAR MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS QUE TENHAM APLICAÇÃO NA INDÚSTRIA, EM SUAS FAZENDAS DENOMINDA - SÃO JOSÉ E SÃO VITORINO - SITA NO MUNICÍPIO DE ANGRA DOS REIS, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-20-5187",
+      "titulo": "Decreto nº 5.187 de 20/12/1872",
+      "data": "1872-12-20",
+      "numero": "5187",
+      "urn": "urn:lex:br:federal:decreto:1872-12-20;5187",
+      "ementa": "CONCEDE A AUTORIZAÇÃO AO BACHAREL ANTONIO DE PAULA RAMOS PARA LAVRAR MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS QUE TENHAM APLICAÇÃO NA INDÚSTRIA, EM SUAS FAZENDAS DENOMINADAS - JARDIM E MINEIRO - , SITAS NO MUNICÍPIO DE SÃO JOSÉ DO BARRETO, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5173",
+      "titulo": "Decreto nº 5.173 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5173",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5173",
+      "ementa": "DECLARA DE 3ª ENTRANCIA A COMARCA DE VALENÇA, CRIADA ULTIMAMENTE NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5178",
+      "titulo": "Decreto nº 5.178 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5178",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5178",
+      "ementa": "DECLARA A ENTRANCIA DAS COMARCAS DA ENCRUZINHADA, LIVRAMENTO, PIRANTINI E PELOTAS, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "407749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5179",
+      "titulo": "Decreto nº 5.179 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5179",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5179",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PÚBLICOS DAS COMERCIAS DA CACHOEIRA, ENCRUZILHADA, LIVRAMENTO, PIRATINI, TAQUARI E PELOTAS, NO PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "407757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5181",
+      "titulo": "Decreto nº 5.181 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5181",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5181",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "407753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5180",
+      "titulo": "Decreto nº 5.180 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5180",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5180",
+      "ementa": "DECLARA DE UTILIDADE PUBLICA A DESAPROPRIAÇÃO DO TERRENO QUE FORMA ANGULO NAS RUAS DA RELAÇÃO E DOS INVALIDOS, DO LADO DO NORTE."
+    },
+    {
+      "senadoId": "407761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5182",
+      "titulo": "Decreto nº 5.182 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5182",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5182",
+      "ementa": "CONCEDE Á AUTORIZAÇÃO COMERCIAL DA CIDADE DO PENEDO AUTORIZAÇÃO PARA FUNCIONAR E APROVAR OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5175",
+      "titulo": "Decreto nº 5.175 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5175",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5175",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DE IRITIBA, CRIADA ULTIMAMENTE NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "407729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5174",
+      "titulo": "Decreto nº 5.174 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5174",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5174",
+      "ementa": "MARCA O ORDENADO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE VALENÇA, DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5177",
+      "titulo": "Decreto nº 5.177 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5177",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5177",
+      "ementa": "CRIA NO TERMO DE SOURE, DA PROVÍNCIA DO PARÁ, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "407737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-16-5176",
+      "titulo": "Decreto nº 5.176 de 16/12/1872",
+      "data": "1872-12-16",
+      "numero": "5176",
+      "urn": "urn:lex:br:federal:decreto:1872-12-16;5176",
+      "ementa": "MARCA O ORDENADO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE IRITIBA, CRIADA ULTIMAMENTE NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "407717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5171",
+      "titulo": "Decreto nº 5.171 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5171",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5171",
+      "ementa": "CONCEDE A COMPANHIA DE NAVEGAÇÃO - PAULISTA -  AUTORIZAÇÃO PARA FUNCIONAR E APROVAR OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407704",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5168",
+      "titulo": "Decreto nº 5.168 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5168",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5168",
+      "ementa": "ALTERA ALGUMAS DAS CLÁUSULAS ANEXAS AO DECRETO NÚMERO 5.046 DE 7 DE AGOSTO DO CORRENTE ANO, QUE AUTORIZOU O PROLONGAMENTO ATÉ A PRAÇA DA CONSTITUIÇÃO DA LINHA DE CARRIS DE FERRO DA FAZENDA DO MACACO AO MATADOURO."
+    },
+    {
+      "senadoId": "407692",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5165",
+      "titulo": "Decreto nº 5.165 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5165",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5165",
+      "ementa": "PRORROGA ATÉ O FIM DE DEZEMBRO DE 1872 AS DISPOSIÇÕES DO DECRETO NÚMERO 3.631 DE 27 DE MARÇO DE 1866, QUE PERMITEM AS EMBARCAÇÕES ESTRANGEIRAS O SERVIÇO DE CABOTAGEM."
+    },
+    {
+      "senadoId": "407713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5170",
+      "titulo": "Decreto nº 5.170 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5170",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5170",
+      "ementa": "CONCEDE AUTORIZAÇÃO A CAMPANHIA DA ESTRADA DE FERRO DE REZENDE A ARES PARA FUNCIONAR O APROVAR OS REPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5167",
+      "titulo": "Decreto nº 5.167 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5167",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5167",
+      "ementa": "AUTORIZA O TRANSPORTE DE CRÉDITOS NA IMPORTÂNCIA DE 16:274$338 PARA DESPESAS DA CÂMARA MUNICIPAL DA CORTE NO EXERCÍCIO DE 1872."
+    },
+    {
+      "senadoId": "407696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5166",
+      "titulo": "Decreto nº 5.166 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5166",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5166",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO PARA APLICAR ÁS DESPESAS DOS §§ 18, 19, 26, 30, 39, 40 E 42 DO ARTIGO  2º DA LEI NÚMERO DE 27 DE SETEMBRO DE 1870, EM VIGOR NO EXERCÍCIO DE    1871-1872, A QUANTIA DE 173:181$563, TIRADA DAS SOBRAS DOS §§ 20 E 21 DO ARTIGO E LEI CITADOS."
+    },
+    {
+      "senadoId": "407721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5172",
+      "titulo": "Decreto nº 5.172 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5172",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5172",
+      "ementa": "TORNA EXTENSIVA AO SEGUNDO UNIFORME DOS OFICIAIS DA ARMA DE CAVALARIA A MODIFICAÇÃO ESTABELECIDA PARA OS OFICIAIS DE ARTILHARIA NA ÚLTIMA PARTE DAS EXPLICAÇÕES QUE ACOMPANHARAM O DECRETO NÚMERO 5.077 DE 28 DE AGOSTO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "407688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5164",
+      "titulo": "Decreto nº 5.164 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5164",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5164",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM CONSELHEIRO DE ESTADO JOSÉ THOMAZ NABUCO DE ARAÚJO PARA A REDAÇÃO DOS PROJETOS DO CÓDIGO CIVIL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "407708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-11-5169",
+      "titulo": "Decreto nº 5.169 de 11/12/1872",
+      "data": "1872-12-11",
+      "numero": "5169",
+      "urn": "urn:lex:br:federal:decreto:1872-12-11;5169",
+      "ementa": "APROVA O REGULAMENTO QUE ESTABELE AS CONDIÇÕES QUE DEVEM SATISFAZER OS PESOS E MEDIDAS DO SISTEMA MÉTRICO, MANDADOS ADOTAR NO IMPÉRIO PELA LEI NÚMERO 1.157 DE 26 DE JUNHO DE 1862."
+    },
+    {
+      "senadoId": "407664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-04-5158",
+      "titulo": "Decreto nº 5.158 de 04/12/1872",
+      "data": "1872-12-04",
+      "numero": "5158",
+      "urn": "urn:lex:br:federal:decreto:1872-12-04;5158",
+      "ementa": "CONCEDE A TODOS OS OFICIAIS DOS CORPOS DE VOLUNTÁRIOS DA PÁTRIA, DE GUARDAS NACIONAIS, E VIRAM NO EXÉRCITO EM OPERAÇÕES NA REPÚBLICA DO PARAGUAI."
+    },
+    {
+      "senadoId": "407672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-04-5160",
+      "titulo": "Decreto nº 5.160 de 04/12/1872",
+      "data": "1872-12-04",
+      "numero": "5160",
+      "urn": "urn:lex:br:federal:decreto:1872-12-04;5160",
+      "ementa": "PROMULGA O TRATADO DE ESTRADIÇÃO CELEBRADO ENTRE O IMPERIO E A REPUBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "407668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-04-5159",
+      "titulo": "Decreto nº 5.159 de 04/12/1872",
+      "data": "1872-12-04",
+      "numero": "5159",
+      "urn": "urn:lex:br:federal:decreto:1872-12-04;5159",
+      "ementa": "CONCEDE AO CLUB POLITÉCNICO AUTORIZAÇÃO PARA FUNCIONAR E APROVAR OS RESPECTIVOS ESTATUTOS COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "407684",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-04-5163",
+      "titulo": "Decreto nº 5.163 de 04/12/1872",
+      "data": "1872-12-04",
+      "numero": "5163",
+      "urn": "urn:lex:br:federal:decreto:1872-12-04;5163",
+      "ementa": "AUMENTA OS VENCIMENTOS E FIXA O NÚMERO DAS DIVERSAS CLASSES DE OPERÁRIOS DOS ARSENAIS DE MARINHA DA CORTE, BAHIA, PERNAMBUCO, E PARÁ."
+    },
+    {
+      "senadoId": "407680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-04-5162",
+      "titulo": "Decreto nº 5.162 de 04/12/1872",
+      "data": "1872-12-04",
+      "numero": "5162",
+      "urn": "urn:lex:br:federal:decreto:1872-12-04;5162",
+      "ementa": "CONCEDE PRIVILÉGIO POR 10 ANOS A IGNACIO SATURNINO DE MORAIS E JOAQUIM ANTONIO DE MORAIS, PARA O ESTABELECIMENTO DE UMA FÁBRICA DE VIDROS E CRISTAIS, NA CIDADE DE PORTO ALEGRE, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "407676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-12-04-5161",
+      "titulo": "Decreto nº 5.161 de 04/12/1872",
+      "data": "1872-12-04",
+      "numero": "5161",
+      "urn": "urn:lex:br:federal:decreto:1872-12-04;5161",
+      "ementa": "PRORROGA POR CINCO ANOS O PRAZO DO PRIVILÉGIO CONCEDIDO A GUILERME VAN VIECK LIDGERWOOD E ROBERTO PORTER WALKER, PELO DECRETO NÚMERO 3.006 DE 21 DE NOVEMBRO DE 1862."
+    },
+    {
+      "senadoId": "407656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-28-5156",
+      "titulo": "Decreto nº 5.156 de 28/11/1872",
+      "data": "1872-11-28",
+      "numero": "5156",
+      "urn": "urn:lex:br:federal:decreto:1872-11-28;5156",
+      "ementa": "DESIGNA A ORDEM DA SUBSTITUIÇÃO RECÍPROCA DOS JUÍZES DE DIREITO DA CORTE NO ANO DE 1873."
+    },
+    {
+      "senadoId": "407660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-28-5157",
+      "titulo": "Decreto nº 5.157 de 28/11/1872",
+      "data": "1872-11-28",
+      "numero": "5157",
+      "urn": "urn:lex:br:federal:decreto:1872-11-28;5157",
+      "ementa": "MANDA QUE SUBSITA NO ANO DE 1873 A DESIGNAÇÃO FEITA NO DECRETO NÚMERO   4.860 DE 30 DE DEZEMBRO DE 1871, QUANTO Á ORDEM EM QUE OS JUÍZES      SUBTITOS DA CORTE DEVEM COOPERAR COM OS JUÍZES DE DIRETO E SUBSTITUI-SE RECIPROCAMENTE."
+    },
+    {
+      "senadoId": "407639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5151",
+      "titulo": "Decreto nº 5.151 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5151",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5151",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOÃO PAULO DIAS PARA LAVRAR MINAS DE CHUMBO, OURO, FERRO E OUTROS MINERAIS QUE TENHAM APLICAÇÃO NA INDÚSTRIA, NO MUNICÍPIO DE APIAÍ, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5152",
+      "titulo": "Decreto nº 5.152 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5152",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5152",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO DR. JOAQUIM IGNACIO SILVERIA DO MOTTA PARA LAVRAR MINAS DE FERRO E OUROS MINERAIS QUE TENHA APLICAÇÃO NA INDÚSTRIA, NAS MARGENS DOS RIOS JACUPIRANGUINHA DE TURVO, NA COMARCA DE IGUAPE, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5145",
+      "titulo": "Decreto nº 5.145 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5145",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5145",
+      "ementa": "ISENTA DE PASSAPORTE OS EMIGRANTES QUE TRANSITAM DE UM PARA OUTRO PONTO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "407650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5154",
+      "titulo": "Decreto nº 5.154 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5154",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5154",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO PELA CLÁUSULA 1ª DO CONTRATO CELEBRADO EM 14 DE NOVEMBRO DE 1871, ENTRE O GOVERNO IMPERIAL E O BACHAREL BENTO JOSÉ DA COSTA, PARA IMPORTAÇÃO DE IMIGRANTES DE PROCEDÊNCIA EUROPÉIA."
+    },
+    {
+      "senadoId": "407620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5146",
+      "titulo": "Decreto nº 5.146 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5146",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5146",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNCIPAL E DE ORFÃOS NO TERMO DE SERPA, NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "407624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5147",
+      "titulo": "Decreto nº 5.147 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5147",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5147",
+      "ementa": "AUTORIZANDO O TRANSPORTE DA QUANTIA DE 4.066:958$419, DAS VERBAS DOS PARAGRAFOS  1, 2, 4, 5, 6, 7, 8, 9, 10, 12, 13, E 18 DO ARTIGO 7 DA LEI 1.836 DE 277 DE SETEMBRO DE 1870, NO MINISTERIO DA FAZENDA E EXERCICIO DE 1871 - 1872."
+    },
+    {
+      "senadoId": "407646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5153",
+      "titulo": "Decreto nº 5.153 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5153",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5153",
+      "ementa": "AUTORIZA A NOVAÇÃO DO CONTRATO CELEBRADO ENTRE O GOVERNO IMPERIAL E SAVINO TRIPOTI PARA A INTRODUÇÃO E ESTABELECIMENTO DE EMIGRANTE."
+    },
+    {
+      "senadoId": "407653",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5155",
+      "titulo": "Decreto nº 5.155 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5155",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5155",
+      "ementa": "AUTORIZA O MINISTERIO E SECRETARIA DE ESTADO DOS NEGOCIOS DA GUERRA PARA APLICAR AS DESPESAS COM DIVERSAS RUBRICAS DO EXERCICIO DE 1871-72 A QUANTIA DE 307:342$505, TIRADA DAS SOBRAS VERIFICADAS EM OUTRAS VERBAS DO ARTIGO 6 DA LEI DO ORÇAMENTO DO MESMO EXERCICIO."
+    },
+    {
+      "senadoId": "407632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5149",
+      "titulo": "Decreto nº 5.149 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5149",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5149",
+      "ementa": "AUTORIZA O ARGUMENTO DO CAPITAL DA COMPANHIA - SANTA TEREZA - , ORGANIZA NA CAPITAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "407635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5150",
+      "titulo": "Decreto nº 5.150 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5150",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5150",
+      "ementa": "APROVA A REFORMA SOB ESTATUTOS DA COMPANHIA - TRILHOS URBANOS DE OLINDA E BEBERIDE."
+    },
+    {
+      "senadoId": "407628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-27-5148",
+      "titulo": "Decreto nº 5.148 de 27/11/1872",
+      "data": "1872-11-27",
+      "numero": "5148",
+      "urn": "urn:lex:br:federal:decreto:1872-11-27;5148",
+      "ementa": "AUTORIZA O MINISTERIO DA AGRICULTURA, COMERCIO E OBRAS PUBLICAS PARA APLICAR AS DESPESAS DE VARIAS VERBAS DEFICIENTES DO EXERCICIO DE 1871 - 72 A QUANTIA DE 669:836$016, RESULTANTE DAS SOBRAS DOS PARAGRAFOS 3, 9, 10, 16, 18, 19, E 20, ARTIGO 8 DA RESPETIVA LEI DE ORÇAMENTO."
+    },
+    {
+      "senadoId": "407596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-20-5140",
+      "titulo": "Decreto nº 5.140 de 20/11/1872",
+      "data": "1872-11-20",
+      "numero": "5140",
+      "urn": "urn:lex:br:federal:decreto:1872-11-20;5140",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAODINÁRIO DE 679:235$121 PARA OCORRER AS DESPESAS DA VERBA - ARSENAIS - DO EXERCÍCIO DE 1871-1872."
+    },
+    {
+      "senadoId": "407612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-20-5144",
+      "titulo": "Decreto nº 5.144 de 20/11/1872",
+      "data": "1872-11-20",
+      "numero": "5144",
+      "urn": "urn:lex:br:federal:decreto:1872-11-20;5144",
+      "ementa": "ALTERA ALGUMAS DAS PLANTAS APROVADAS PELO DECRETO NÚMERO 5.085 DE 11 DE SETEMBRO DO CORRENTE ANO, RELATIVAS Á ESTRADA DE FERRO ENTRE A CACHOEIRA DE SANTO ANTONIO E A DE GUAJARA-MIRIM."
+    },
+    {
+      "senadoId": "407604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-20-5142",
+      "titulo": "Decreto nº 5.142 de 20/11/1872",
+      "data": "1872-11-20",
+      "numero": "5142",
+      "urn": "urn:lex:br:federal:decreto:1872-11-20;5142",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO EXTRAORDINÁRIO DE 5.283:544$710 PARA OCORRER ÁS DESPESAS DAS RUBRICAS - ARSENAIS - FORÇA NAVAL - E - DESPESAS EXTRAORDINÁRIAS E EVENTUAIS - DO EXERCÍCIO DE 1872 - 1873."
+    },
+    {
+      "senadoId": "407608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-20-5143",
+      "titulo": "Decreto nº 5.143 de 20/11/1872",
+      "data": "1872-11-20",
+      "numero": "5143",
+      "urn": "urn:lex:br:federal:decreto:1872-11-20;5143",
+      "ementa": "CRIA NO TERMO DE SÃO CARLOS DO PINHAL, NA PROVÍNCIA DE SÃO PAULO, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "407600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-20-5141",
+      "titulo": "Decreto nº 5.141 de 20/11/1872",
+      "data": "1872-11-20",
+      "numero": "5141",
+      "urn": "urn:lex:br:federal:decreto:1872-11-20;5141",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIA DE ESTADO DOS NEGÓCIOS DA MARINHA, A TRANSFERIR DE UMAS PARA OUTRAS RUBRICAS DA DESPESA DO MESMO MINISTÉRIO, NO EXERCÍCIO DE 1871-18772, A SOMA DE 1.382:298$193."
+    },
+    {
+      "senadoId": "407592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-13-5139",
+      "titulo": "Decreto nº 5.139 de 13/11/1872",
+      "data": "1872-11-13",
+      "numero": "5139",
+      "urn": "urn:lex:br:federal:decreto:1872-11-13;5139",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE ALGUMAS DAS COMARCAS DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "407584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-13-5137",
+      "titulo": "Decreto nº 5.137 de 13/11/1872",
+      "data": "1872-11-13",
+      "numero": "5137",
+      "urn": "urn:lex:br:federal:decreto:1872-11-13;5137",
+      "ementa": "CONCEDE A COMPANHIA - MOGYANA DA ESTRADA DE FERRO DE CAMPINAS A MOGI-MIRIM - AUTORIZAÇÃO PARA FUNCIONAR, E A APROVAÇÃO DE SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-13-5138",
+      "titulo": "Decreto nº 5.138 de 13/11/1872",
+      "data": "1872-11-13",
+      "numero": "5138",
+      "urn": "urn:lex:br:federal:decreto:1872-11-13;5138",
+      "ementa": "CONCEDE A BARTHOLOMEU JOSÉ PEREIRA E THOME FERNANDES MADEIRA DE CASTRO, AUTORIZAÇÃO PARA ORGANIZAREM DENTRO DO IMPéRIO, UMA COMPANHIA DESTINADA A CONSTRUIR PRéDIOS DE ALUGUEL BARATO."
+    },
+    {
+      "senadoId": "407580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-13-5136",
+      "titulo": "Decreto nº 5.136 de 13/11/1872",
+      "data": "1872-11-13",
+      "numero": "5136",
+      "urn": "urn:lex:br:federal:decreto:1872-11-13;5136",
+      "ementa": "CONCEDE Á ASSOCIAÇÃO BRASILEIRA DE ACLIMAÇÃO AUTORIZAÇÃO PARA FUNCIONAR, E A APROVAÇÃO DOS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-13-5135",
+      "titulo": "Decreto nº 5.135 de 13/11/1872",
+      "data": "1872-11-13",
+      "numero": "5135",
+      "urn": "urn:lex:br:federal:decreto:1872-11-13;5135",
+      "ementa": "APROVA O REGULAMENTO GERAL PARA A EXECUÇÃO DO LEI 2.040 DE 28 DE SETEMBRO DE 1871."
+    },
+    {
+      "senadoId": "407572",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-09-5134",
+      "titulo": "Decreto nº 5.134 de 09/11/1872",
+      "data": "1872-11-09",
+      "numero": "5134",
+      "urn": "urn:lex:br:federal:decreto:1872-11-09;5134",
+      "ementa": "AUTORIZA MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS PARA APLICAR AS DEPESAS DAS VERBAS - SECRETARIA DE ESTADO- E - LEGAÇÕES E CONSULADOS- DO EXERCÍCIO DE 1871 A 1872, A QUANTIA DE 32:9953$902, TIRADA DAS SOBRAS DAS VERBAS - AJUDAS DE CUSTO - EXTRAORDINÁRIA NO EXTERIOR - E COMISSÕES DE LIMITES, ETC. - DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "407568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-06-5133",
+      "titulo": "Decreto nº 5.133 de 06/11/1872",
+      "data": "1872-11-06",
+      "numero": "5133",
+      "urn": "urn:lex:br:federal:decreto:1872-11-06;5133",
+      "ementa": "CONCEDE Á COMPANHIA - MELHORAMENTOS DA CIDADE DE NITERÓI - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-06-5131",
+      "titulo": "Decreto nº 5.131 de 06/11/1872",
+      "data": "1872-11-06",
+      "numero": "5131",
+      "urn": "urn:lex:br:federal:decreto:1872-11-06;5131",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DE UMA COMPANHIA AGRÍCOLA NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-06-5132",
+      "titulo": "Decreto nº 5.132 de 06/11/1872",
+      "data": "1872-11-06",
+      "numero": "5132",
+      "urn": "urn:lex:br:federal:decreto:1872-11-06;5132",
+      "ementa": "PRORROGA POR MAIS QUATRO MESES O PRAZO MARCADO NA CLAUSULA 3ª DAS ANEXAS AO DECRETO  4.895 DE 22 DE FEVEREIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "407556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-06-5130",
+      "titulo": "Decreto nº 5.130 de 06/11/1872",
+      "data": "1872-11-06",
+      "numero": "5130",
+      "urn": "urn:lex:br:federal:decreto:1872-11-06;5130",
+      "ementa": "CONCEDE Á COMPANHIA BRASILEIRA DE CARRIS DE FERRO DE BRUXELLAS AUTORIZAÇÃO PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-11-06-5129",
+      "titulo": "Decreto nº 5.129 de 06/11/1872",
+      "data": "1872-11-06",
+      "numero": "5129",
+      "urn": "urn:lex:br:federal:decreto:1872-11-06;5129",
+      "ementa": "DÁ INSTRUÇÕES PARA CONSOLIDAÇÃO DAS DISPOSIÇÕES LEGISLATIVAS E REGULAMENTARES CONCERNETES AO PROCESSO CIVIL E CRIMINAL."
+    },
+    {
+      "senadoId": "407536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-30-5125",
+      "titulo": "Decreto nº 5.125 de 30/10/1872",
+      "data": "1872-10-30",
+      "numero": "5125",
+      "urn": "urn:lex:br:federal:decreto:1872-10-30;5125",
+      "ementa": "ALTERA A CLÁUSULA 10ª DO DECRETO NÚMERO 5.058 DE 16 DE AGOSTO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "407544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-30-5127",
+      "titulo": "Decreto nº 5.127 de 30/10/1872",
+      "data": "1872-10-30",
+      "numero": "5127",
+      "urn": "urn:lex:br:federal:decreto:1872-10-30;5127",
+      "ementa": "CONCEDE A FREDERICK CROCKER PRIVILÉGIO, POR 10 ANOS, PARA INTRODUZIR, FABRICAR E VENDER NO IMPÉRIO MÁQUINAS DE FABRICAÇÃO DE GAZ PNEUMÁTICO, DE DENOMINADAS - SOLAR GAZ GENERATOR."
+    },
+    {
+      "senadoId": "407540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-30-5126",
+      "titulo": "Decreto nº 5.126 de 30/10/1872",
+      "data": "1872-10-30",
+      "numero": "5126",
+      "urn": "urn:lex:br:federal:decreto:1872-10-30;5126",
+      "ementa": "CONCEDE AO ENGENHEIRO JANUARIO CANDIDO DE OLIVEIRA E BACHAREL EUGENIO BATISTA DE OLIVEIRA, OU A COMPANHIA QUE ORGANIZAREM, PRIVILÉGIO PARA A CONSTRUÇÃO DE UMA LINHA DE CARRIS DE FERRO EM DIVERSAS RUAS DESTA CIDADE E NOS MORROS DE SANTA THEREZA E DE PAULA MATROS."
+    },
+    {
+      "senadoId": "407548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-30-5128",
+      "titulo": "Decreto nº 5.128 de 30/10/1872",
+      "data": "1872-10-30",
+      "numero": "5128",
+      "urn": "urn:lex:br:federal:decreto:1872-10-30;5128",
+      "ementa": "AUTORIZA A NAVEGAÇÃO DO CONTRATO CELEBRADO ENTRE O GOVERNO IMPERIAL E JOHN BEATON, PARA A INTRODUÇÃO E ESTABELECIMENTO DE EMIGRANTES."
+    },
+    {
+      "senadoId": "407531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-30-5124",
+      "titulo": "Decreto nº 5.124 de 30/10/1872",
+      "data": "1872-10-30",
+      "numero": "5124",
+      "urn": "urn:lex:br:federal:decreto:1872-10-30;5124",
+      "ementa": "AUTORIZA O MINISTERIO E SECRETERARIO DE ESTADO DOS NEGOCIOS DA JUSTIÇA A APLICAR AS DESPESAS DAS VERBAS - SUPREMO TRIBUNAL DE JUSTIÇAS DE  1 INSTANCIA - E - PESSOAL E MATERIA DA POLICIA - NO EXERCICIO DE 1871-1872 A QUANTIA DE 111:549$222, DEDUZIDA DAS SOBRAS DA VERBAS - GUARDA URBANA - DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "407515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-24-5120",
+      "titulo": "Decreto nº 5.120 de 24/10/1872",
+      "data": "1872-10-24",
+      "numero": "5120",
+      "urn": "urn:lex:br:federal:decreto:1872-10-24;5120",
+      "ementa": "AUMENTA OS VENCIMENTOS, E MARCA O NÚMERO DOS EMPREGADOS DO INTERATIVO E EXTERNATO DO IMPERIAL COLÉGIO DE PEDRO II, E FAZ OUTRA ALTERAÇÕES."
+    },
+    {
+      "senadoId": "407523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-24-5122",
+      "titulo": "Decreto nº 5.122 de 24/10/1872",
+      "data": "1872-10-24",
+      "numero": "5122",
+      "urn": "urn:lex:br:federal:decreto:1872-10-24;5122",
+      "ementa": "ALTERA O REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 3.083 DE 28 DE ABRIL DE 1863, NA PARTE RELATIVA Á ESCOLA GERAL DO TIRO DO CAMPO GRANDE."
+    },
+    {
+      "senadoId": "407519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-24-5121",
+      "titulo": "Decreto nº 5.121 de 24/10/1872",
+      "data": "1872-10-24",
+      "numero": "5121",
+      "urn": "urn:lex:br:federal:decreto:1872-10-24;5121",
+      "ementa": "CONCEDE Á COMPANHIA - DILIGENTE - AUTORIZAÇÃO PARA FUNCIONAR E APROVAR SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-24-5123",
+      "titulo": "Decreto nº 5.123 de 24/10/1872",
+      "data": "1872-10-24",
+      "numero": "5123",
+      "urn": "urn:lex:br:federal:decreto:1872-10-24;5123",
+      "ementa": "DESANEXA DOS TERMOS DE ANADIA E CORURIPE O DA PALMEIRA, NA PROVÍNCIA DAS ALAGOAS, E CRIA NESTE UM LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "407511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-24-5119",
+      "titulo": "Decreto nº 5.119 de 24/10/1872",
+      "data": "1872-10-24",
+      "numero": "5119",
+      "urn": "urn:lex:br:federal:decreto:1872-10-24;5119",
+      "ementa": "A REFORMA DOS ESTATUTOS DA COMPANHIA - UTILIDADE PÚBLICA- DA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "407503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-19-5117",
+      "titulo": "Decreto nº 5.117 de 19/10/1872",
+      "data": "1872-10-19",
+      "numero": "5117",
+      "urn": "urn:lex:br:federal:decreto:1872-10-19;5117",
+      "ementa": "AUTORIZA O DESEMBARGADOR POLYCARDO LOPES DE LEÃO E O DR. EGAS MUNIZ BARRETO DE ARAGÃO A IMPORTAR POR SI OU POR MEIO DE UM ACOMPANHIA, DEZ MIL EMIGRANTE NO PRAZO DE SEIS ANOS."
+    },
+    {
+      "senadoId": "407507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-19-5118",
+      "titulo": "Decreto nº 5.118 de 19/10/1872",
+      "data": "1872-10-19",
+      "numero": "5118",
+      "urn": "urn:lex:br:federal:decreto:1872-10-19;5118",
+      "ementa": "APROVA O REGULAMENTO QUE REORGANIZA OS ARSENAIS DE GUERRA DO IMPÉRIO."
+    },
+    {
+      "senadoId": "407499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-17-5116",
+      "titulo": "Decreto nº 5.116 de 17/10/1872",
+      "data": "1872-10-17",
+      "numero": "5116",
+      "urn": "urn:lex:br:federal:decreto:1872-10-17;5116",
+      "ementa": "CONCEDE A ANTONIO GOMES E A ANTONIO JOSÉ GOMES PEREIRA BASTOS PERMISSÃO POR TRÊS ANOS PARA EXPLORAR MINAS DE DIFERENTES METAIS E DE QUALQUER PRODUTO QUÍMICO NATURAL EM TERRENOS DEVOLUTOS COMPREENDIDOS NAS VERTENTES E CABECEIRAS DOS RIO ITAJAÍ-ASSÚ E ITAJAÍ - MIRIM E SEUS AFLUENTES, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "407482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-17-5112",
+      "titulo": "Decreto nº 5.112 de 17/10/1872",
+      "data": "1872-10-17",
+      "numero": "5112",
+      "urn": "urn:lex:br:federal:decreto:1872-10-17;5112",
+      "ementa": "DERROGA O PARÁGRAFO 5º DOS ARTIGOS 29 E 32 DO DECRETO NÚMERO 2.711 DE 19 DE DEZEMBRO DE 1860."
+    },
+    {
+      "senadoId": "407495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-17-5115",
+      "titulo": "Decreto nº 5.115 de 17/10/1872",
+      "data": "1872-10-17",
+      "numero": "5115",
+      "urn": "urn:lex:br:federal:decreto:1872-10-17;5115",
+      "ementa": "CONCEDE A LUIZ ANTONIO DE SOUZA BARROS, PERMISSÃO POR TRES ANOS PARA EXPLORAR MINAS DE XISTO BETUMINOSO E QUEROSENE, DE CARVÃO DE PEDRA E OUTROS MINERAIS, EM SUA FAZENDA DENOMINDADA SÃO LOURENÇO, NO TERMO DA CONSTITUIÇÃO, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-17-5114",
+      "titulo": "Decreto nº 5.114 de 17/10/1872",
+      "data": "1872-10-17",
+      "numero": "5114",
+      "urn": "urn:lex:br:federal:decreto:1872-10-17;5114",
+      "ementa": "DESANEXA DOS TERMOS DE ITAPETININGA E CAPÃO BONITO DO PARANAPANEMA O DE TATUÍ, NA PROVÍNCIA DE SÃO PAULO, E CRIA NESTE UM LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "407487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-17-5113",
+      "titulo": "Decreto nº 5.113 de 17/10/1872",
+      "data": "1872-10-17",
+      "numero": "5113",
+      "urn": "urn:lex:br:federal:decreto:1872-10-17;5113",
+      "ementa": "CRIA O OFÍCIO DE ESCRIVÃO PRIVATIVO DA TERCEIRA DELEGACIA DA POLÍCIA DA CORTE E O LUGAR DE ESCREVENTE."
+    },
+    {
+      "senadoId": "407474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-09-5110",
+      "titulo": "Decreto nº 5.110 de 09/10/1872",
+      "data": "1872-10-09",
+      "numero": "5110",
+      "urn": "urn:lex:br:federal:decreto:1872-10-09;5110",
+      "ementa": "CONCEDE Á COMPANHIA - FERRO-CARRIL DO CEARÁ - AUTORIZAÇÃO PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-09-5111",
+      "titulo": "Decreto nº 5.111 de 09/10/1872",
+      "data": "1872-10-09",
+      "numero": "5111",
+      "urn": "urn:lex:br:federal:decreto:1872-10-09;5111",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA DE SEGUROS - INDENIZADORA - ESTABELECIDA NA CIDADE DO PORTO, NO REINO DE PORTUGAL, PARA ESTENDE SUAS OPERAÇÃO AO IMPÉRIO, CRIANDO UMA AGÊNCIA NA CAPITAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "407470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-09-5109",
+      "titulo": "Decreto nº 5.109 de 09/10/1872",
+      "data": "1872-10-09",
+      "numero": "5109",
+      "urn": "urn:lex:br:federal:decreto:1872-10-09;5109",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM J.M.CARRERE PARA O SERVIÇO DA NAVEGAÇÃO COSTEIRA, NA LINHA DO NORTE."
+    },
+    {
+      "senadoId": "407462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-09-5107",
+      "titulo": "Decreto nº 5.107 de 09/10/1872",
+      "data": "1872-10-09",
+      "numero": "5107",
+      "urn": "urn:lex:br:federal:decreto:1872-10-09;5107",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DO BANCO COMERCIAL E HIPOTECÁRIO DE CAMPOS, E APROVA, COM MODIFICAÇÃO, SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-09-5108",
+      "titulo": "Decreto nº 5.108 de 09/10/1872",
+      "data": "1872-10-09",
+      "numero": "5108",
+      "urn": "urn:lex:br:federal:decreto:1872-10-09;5108",
+      "ementa": "CONCEDE A SUPRESSÃO DA ÚLTIMA PARTE DA CLÁUSULA 15ª DAS QUE SE REFERE O DECRETO NÚMERO 4.575 DE 23 DE AGOSTO DE 1870."
+    },
+    {
+      "senadoId": "407458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-05-5106",
+      "titulo": "Decreto nº 5.106 de 05/10/1872",
+      "data": "1872-10-05",
+      "numero": "5106",
+      "urn": "urn:lex:br:federal:decreto:1872-10-05;5106",
+      "ementa": "APROVA AS CLAUSULAS DO CONTRATO PARA OS ESTUDOS DE PROLONGAMENTO DE ESTRADA DE FERRO DO RECIFE AO RIO S. FRANCISCO."
+    },
+    {
+      "senadoId": "407454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-03-5105",
+      "titulo": "Decreto nº 5.105 de 03/10/1872",
+      "data": "1872-10-03",
+      "numero": "5105",
+      "urn": "urn:lex:br:federal:decreto:1872-10-03;5105",
+      "ementa": "APROVA OS ARTIGOS ORGANICOS DA SOCIEDADE - PRESBYTERIO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5101",
+      "titulo": "Decreto nº 5.101 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5101",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5101",
+      "ementa": "CONCEDE A EDWIN LAWRENCE M. TYRE PRIVILEGIO POR 10 ANOS PARA FABRICAS E USAR DE UM APARELHO DE SUA INVENÇÃO DESTINADO A EXTINGUIR FORMIGAS."
+    },
+    {
+      "senadoId": "407425",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5098",
+      "titulo": "Decreto nº 5.098 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5098",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5098",
+      "ementa": "AUTORIZA O CREDITO EXTRAODINARIO DE 365:975$000 PARA AS DESPEZAS DA VERBA - TELEGRAFICOS - DURANTE O 1 SEMESTRE DO EXERCICIO DE 1872-1873."
+    },
+    {
+      "senadoId": "407434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5100",
+      "titulo": "Decreto nº 5.100 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5100",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5100",
+      "ementa": "ALTERA ALGUMAS DA CLAUSULAS ANEXAS AO DECRETO. Nº 4698 DE 20 DE FEVEREIRO DE 1871 QUE APROVOU A PLANTA DA LINHA DE CARRIS DE FERRO DA COMPANHIA LOCOMOTORA."
+    },
+    {
+      "senadoId": "407430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5099",
+      "titulo": "Decreto nº 5.099 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5099",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5099",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO CONCEDIDO PELA CLAUSULA 19ª DO DECRETO. º 4547 DE 9 DE JULHO DE 1870, A MANOEL JOSE DA COSTA LIMA VIANNA E JOÃO ANTONIA DE MIRANDA E SILVA, OU A COMPANHIA QUE ORGANIZAREM PARA A IMPORTAÇÃO DE TRABALHADORES ASIATICOS."
+    },
+    {
+      "senadoId": "407442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5102",
+      "titulo": "Decreto nº 5.102 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5102",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5102",
+      "ementa": "CONCEDE A CHARLES NOLET PRIVILEGIO POR 10 ANOS PARA INTRODUZIR NO IMPERIO UM MAQUINISMO DESTINADO A REGULAR O GRÃO DE INTRODUÇÃO DO VAPOR NO CILIDRO DAS MAQUINAS DE QUALQUER SISTEMA."
+    },
+    {
+      "senadoId": "407450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5104",
+      "titulo": "Decreto nº 5.104 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5104",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5104",
+      "ementa": "CONCEDE A MARING E MERTZ, PRIVILEGIO POR DEZ ANOS, PARA INTRODUZIR NO IPERIO MACHINAS DESTINADAS AO FABRICO DE GAZ."
+    },
+    {
+      "senadoId": "407446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-10-02-5103",
+      "titulo": "Decreto nº 5.103 de 02/10/1872",
+      "data": "1872-10-02",
+      "numero": "5103",
+      "urn": "urn:lex:br:federal:decreto:1872-10-02;5103",
+      "ementa": "CONCEDE A JOAQUIM CARNEIRO DE MENDONÇA E ALONÇO C. PESTANA DE AGUIAR, PRIVILEGIO POR DEZ ANOS PARA INTRODUZIR NO IMPERIO A INDUSTRIA DE EXTRAIR PRODUZIR NO IMPERIO A INDUSTRIA DE EXTRAIR PRODUTOS, COMO OLEOS , MASSAS E OUTROS, DO COROÇO DO ALGODÃO."
+    },
+    {
+      "senadoId": "407417",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-28-5096",
+      "titulo": "Decreto nº 5.096 de 28/09/1872",
+      "data": "1872-09-28",
+      "numero": "5096",
+      "urn": "urn:lex:br:federal:decreto:1872-09-28;5096",
+      "ementa": "ALTERA OS VENCIMENTOS DE ALGUNS DOS EMPREGADOS DO CAIXA ECONOMICA E MONTE DE SOCORRO DESTA CORTE."
+    },
+    {
+      "senadoId": "407421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-28-5097",
+      "titulo": "Decreto nº 5.097 de 28/09/1872",
+      "data": "1872-09-28",
+      "numero": "5097",
+      "urn": "urn:lex:br:federal:decreto:1872-09-28;5097",
+      "ementa": "APROVA AS CLAUSULAS DO CONTRATO PARA OS ESTUDOS DE PROLONGAMENTO DA ESTRADA DE FERRO DA BAHIA AO JOAZEIRO."
+    },
+    {
+      "senadoId": "407409",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-25-5094",
+      "titulo": "Decreto nº 5.094 de 25/09/1872",
+      "data": "1872-09-25",
+      "numero": "5094",
+      "urn": "urn:lex:br:federal:decreto:1872-09-25;5094",
+      "ementa": "CONCEDE A COMPANHIA PREDIAL EDIFICADORA AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS REPETIVOS ESTATUTOS COM MODIFICAÇÃO."
+    },
+    {
+      "senadoId": "407413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-25-5095",
+      "titulo": "Decreto nº 5.095 de 25/09/1872",
+      "data": "1872-09-25",
+      "numero": "5095",
+      "urn": "urn:lex:br:federal:decreto:1872-09-25;5095",
+      "ementa": "CONCEDE Á COMPANHIA - EMPRESA  DE CARRUAGENS FLUMINENSE - AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVO ESTATUTOS."
+    },
+    {
+      "senadoId": "407405",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-25-5093",
+      "titulo": "Decreto nº 5.093 de 25/09/1872",
+      "data": "1872-09-25",
+      "numero": "5093",
+      "urn": "urn:lex:br:federal:decreto:1872-09-25;5093",
+      "ementa": "CASSA A PERMISSÃO CONCEDIDA AO ENGENHEIRO EDUARDO MUESELER POR DECRETO 4.814 DE 11 DE NOVEMBRO DE 1871."
+    },
+    {
+      "senadoId": "407393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-21-5090",
+      "titulo": "Decreto nº 5.090 de 21/09/1872",
+      "data": "1872-09-21",
+      "numero": "5090",
+      "urn": "urn:lex:br:federal:decreto:1872-09-21;5090",
+      "ementa": "AUTORIZA O CREDITO O CREDITO EXTRAORDINARIO DE 3.735:415$949 PARA AS DESPEZAS DO MINISTERIO DA GUERRA NO EXERCICIO DE 1872 A 1873."
+    },
+    {
+      "senadoId": "407401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-21-5092",
+      "titulo": "Decreto nº 5.092 de 21/09/1872",
+      "data": "1872-09-21",
+      "numero": "5092",
+      "urn": "urn:lex:br:federal:decreto:1872-09-21;5092",
+      "ementa": "MARCA O ORDENADO ANUAL DOS PROMOTORES PUBLICOS DAS NOVAS COMARCAS DA IPERATRIZ E POSSE, NA PROVINCIA DE GOIAIS."
+    },
+    {
+      "senadoId": "407397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-21-5091",
+      "titulo": "Decreto nº 5.091 de 21/09/1872",
+      "data": "1872-09-21",
+      "numero": "5091",
+      "urn": "urn:lex:br:federal:decreto:1872-09-21;5091",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA AS COMARCAS DA IMPERATRIZ E POSSE, CRIADAS ULTIMAMENTE NA PROVINCIA DE GOIAIS."
+    },
+    {
+      "senadoId": "407385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-18-5088",
+      "titulo": "Decreto nº 5.088 de 18/09/1872",
+      "data": "1872-09-18",
+      "numero": "5088",
+      "urn": "urn:lex:br:federal:decreto:1872-09-18;5088",
+      "ementa": "AUTORIZA A COMPANHIA LOCOMATORA A PROLONGAR OS SEUS TRILHOS ATE A RUA DO PRINCIPI DOS CAJUEIROS."
+    },
+    {
+      "senadoId": "407389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-18-5089",
+      "titulo": "Decreto nº 5.089 de 18/09/1872",
+      "data": "1872-09-18",
+      "numero": "5089",
+      "urn": "urn:lex:br:federal:decreto:1872-09-18;5089",
+      "ementa": "APROVA AS INSTRUÇÕES PROVISORIA PARA EXECUÇÃO DA LEI 1.157 DE 26 JUNHO DE 1862, QUE SUBSTITUI EM TODO O IMPERIO O ATUAL SISTEMA DE PESOS E MEDIDAS PELO SISTEMA METRICA FRANCEZ."
+    },
+    {
+      "senadoId": "407381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-18-5087",
+      "titulo": "Decreto nº 5.087 de 18/09/1872",
+      "data": "1872-09-18",
+      "numero": "5087",
+      "urn": "urn:lex:br:federal:decreto:1872-09-18;5087",
+      "ementa": "CONCEDE A COMPANHIA - CARRIS DE FERRO DE LISBOA -, AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS REPETIVOS ESTATUTOS COM MODIFICAÇÕES."
+    },
+    {
+      "senadoId": "407377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-18-5086",
+      "titulo": "Decreto nº 5.086 de 18/09/1872",
+      "data": "1872-09-18",
+      "numero": "5086",
+      "urn": "urn:lex:br:federal:decreto:1872-09-18;5086",
+      "ementa": "MANDA  CONTINUAR NO ANO DE 1873 A COBRANÇA DAS TAXAS FIXADAS PELO ARTIGO 1, PARAGARAFO 3 DA RESOLUÇÃO LEGISLATIVA  2.035 DE 23 DE SETEMBRO DE 1871."
+    },
+    {
+      "senadoId": "407368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-11-5084",
+      "titulo": "Decreto nº 5.084 de 11/09/1872",
+      "data": "1872-09-11",
+      "numero": "5084",
+      "urn": "urn:lex:br:federal:decreto:1872-09-11;5084",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA ASSOCIAÇÃO POPULAR COOPERATIVA PREDIAL DA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "407364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-11-5083",
+      "titulo": "Decreto nº 5.083 de 11/09/1872",
+      "data": "1872-09-11",
+      "numero": "5083",
+      "urn": "urn:lex:br:federal:decreto:1872-09-11;5083",
+      "ementa": "CONCEDE A COMPANY LIMITED - UNION MARINE INSURANCE COMPANY LIMITED - AUTORIZAÇÃO PARA ESTABELECER AGENCIAS NESTA CORTE E NAS PROVINCIAS DA BAHIA E PERNAMBUCO."
+    },
+    {
+      "senadoId": "407360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-11-5082",
+      "titulo": "Decreto nº 5.082 de 11/09/1872",
+      "data": "1872-09-11",
+      "numero": "5082",
+      "urn": "urn:lex:br:federal:decreto:1872-09-11;5082",
+      "ementa": "CONCEDE A COMPANHIA - COMERCIO E LAVOURA - AUTORIZAÇÃO PARA FUNCINAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407373",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-11-5085",
+      "titulo": "Decreto nº 5.085 de 11/09/1872",
+      "data": "1872-09-11",
+      "numero": "5085",
+      "urn": "urn:lex:br:federal:decreto:1872-09-11;5085",
+      "ementa": "ALTERA ALGUMAS DAS CLAUSULAS COM QUE, POR DECRETO N. 4509 DE 20 DE ABRIL 1870, FOI CONCEDIDO AO CORONEL GEORGE E. CHURCH PRIVILEGIO PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO QUE, PARTINDO DE UM PONTO VANTAJOSO NAS PROXIMIDADES DA CACHOEIRA DE SANTO ANTONIO E EVITANDO AS QUEDAS DOS RIO MADEIRA E MAMORÉ, TERMINE NAS PROXIMIDADES DA CACHOEIRA DE GUAJARÁ-MIRIM E APROVA AS RESPECTIVAS PLANTAS E PERFIS."
+    },
+    {
+      "senadoId": "407348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-04-5079",
+      "titulo": "Decreto nº 5.079 de 04/09/1872",
+      "data": "1872-09-04",
+      "numero": "5079",
+      "urn": "urn:lex:br:federal:decreto:1872-09-04;5079",
+      "ementa": "MANTEM A CLASSIFICAÇÃO ATUAL DOS COMARCAS DAS PROVINCIAS DAS ALGOAS E PARAIBA."
+    },
+    {
+      "senadoId": "407352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-04-5080",
+      "titulo": "Decreto nº 5.080 de 04/09/1872",
+      "data": "1872-09-04",
+      "numero": "5080",
+      "urn": "urn:lex:br:federal:decreto:1872-09-04;5080",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE ALGUMAS DA COMARCAS DA PROVINCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "407356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-09-04-5081",
+      "titulo": "Decreto nº 5.081 de 04/09/1872",
+      "data": "1872-09-04",
+      "numero": "5081",
+      "urn": "urn:lex:br:federal:decreto:1872-09-04;5081",
+      "ementa": "APROVA UMA ALTERAÇÃO E UM ADIANTAMENTO AOS ESTATUTOS DO COMPANHIA TELEGRAPHIA PLATINO - BRASILEIRA."
+    },
+    {
+      "senadoId": "407344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-30-5078",
+      "titulo": "Decreto nº 5.078 de 30/08/1872",
+      "data": "1872-08-30",
+      "numero": "5078",
+      "urn": "urn:lex:br:federal:decreto:1872-08-30;5078",
+      "ementa": "CONCEDE AO BARÃO CAMPANY PRIVILEGIO PARA INTRODUZIR NO IMPERIO MACHINAS DE FURAR E CORTAR PEDRAS."
+    },
+    {
+      "senadoId": "407299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5067",
+      "titulo": "Decreto nº 5.067 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5067",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5067",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DA COMARCA DA CAPITAL DA PROVINCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "407327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5074",
+      "titulo": "Decreto nº 5.074 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5074",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5074",
+      "ementa": "CONCEDE A CLAUDIO GUIGON PRIVILEGIO PARA ESTABELECER UM FABRICA DE TUBOS IGUAIS AOS DENOMINADOS - TUBOS DE VEQUE J. & C.ª."
+    },
+    {
+      "senadoId": "407315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5071",
+      "titulo": "Decreto nº 5.071 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5071",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5071",
+      "ementa": "CONCEDE A COMPANHIA INGLEZA - S. PAULO GAS COMPANY - AUTORIZAÇÃO PARA FUNCIONAR NO IMPERIO."
+    },
+    {
+      "senadoId": "407323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5073",
+      "titulo": "Decreto nº 5.073 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5073",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5073",
+      "ementa": "CONCEDE Á COMPANHIA INGLEZA - THE MADEIRA AND MAMORE RAILWAY COMPANY - AUTORIZAÇÃO PARA FUNCIONAR NO IMPERIO."
+    },
+    {
+      "senadoId": "407291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5065",
+      "titulo": "Decreto nº 5.065 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5065",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5065",
+      "ementa": "REUNE DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS, OS TERMOS DE S. BERNARDO E BARREIRINHAS, NA PRONVICIA DO MARANHÃO DO MARANHÃO E DECLARA QUE FOI IMPROPRIAMENTE DESIGNADO O TERMO DO BREJO DA MESMA PROVINCIA PELO NOME DE S. BERNADO."
+    },
+    {
+      "senadoId": "407295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5066",
+      "titulo": "Decreto nº 5.066 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5066",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5066",
+      "ementa": "SEPARA DO TERMO DO CODÓ E REUNE AO DE S. LUIZ GONZAGA O DE COROATÁ, NA PROVINCIA DA MARANHÃO."
+    },
+    {
+      "senadoId": "407283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5063",
+      "titulo": "Decreto nº 5.063 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5063",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5063",
+      "ementa": "CRIA MAIS UMA DELEGACIA DE POLICIA NO MUNICIPIO DA CORTE."
+    },
+    {
+      "senadoId": "407279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5062",
+      "titulo": "Decreto nº 5.062 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5062",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5062",
+      "ementa": "AUTORIZA SOB VARIAS CONDIÇÕES O  - BANQUE BRESILIENSE FRANÇAISE - PARA FAZER OPERAÇÕES NO IMPERIO."
+    },
+    {
+      "senadoId": "407319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5072",
+      "titulo": "Decreto nº 5.072 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5072",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5072",
+      "ementa": "CONCEDE Á COMPANHIA - GINASIO DRAMATÍCO- DE S. PAULO, AUTORIZAÇÃO PARA FUNCONAR E APROVAR SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5076",
+      "titulo": "Decreto nº 5.076 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5076",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5076",
+      "ementa": "CONCEDE Á COMPANHIA - THE S. PEDRO BRASIL GAS COMPANY LIMITED - AUTORIZAÇÃO PARA FUNCIONAR NO IMPERIO."
+    },
+    {
+      "senadoId": "407307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5069",
+      "titulo": "Decreto nº 5.069 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5069",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5069",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DA COMARCA DA CAPITAL DA PROVINCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "407339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5077",
+      "titulo": "Decreto nº 5.077 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5077",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5077",
+      "ementa": "MODIFICA O PLANO DE UNIFORMES ESTABELECIDO PARA A ARMA DE ARTILHARIA PELOS DECRETOS 1.029 DE 7 DE AGOSTO DE 1852, ARTIGO 9 DO DECRETO 3.526 DE 18 DE NOVEMBRO DE 1863, E 3.620 DE 28 DE FEVEREIRO DE 1866."
+    },
+    {
+      "senadoId": "407331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5075",
+      "titulo": "Decreto nº 5.075 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5075",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5075",
+      "ementa": "CONCEDE Á COMPANHIA DO DIQUE DO COMMERCIO AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5070",
+      "titulo": "Decreto nº 5.070 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5070",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5070",
+      "ementa": "ELEVA O NUMERO DOS CORRETORES DE MERCADORIAS E DE FUNDOS PUBLICOS DA PRAÇA DA CAPITAL DA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "407287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5064",
+      "titulo": "Decreto nº 5.064 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5064",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5064",
+      "ementa": "REUNE O TERMO DA ALAGOA GRANDE AO DA INDEPENDENCIA, NA PROVINCIA DA PARAIBA E CRIA NO DE CUITE, NA MESMA PROVINCIA, UM LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "407303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5068",
+      "titulo": "Decreto nº 5.068 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5068",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5068",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DA COMARCA DA CAPITAL DA PROVINCIA DO PIAUI."
+    },
+    {
+      "senadoId": "407275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-28-5061",
+      "titulo": "Decreto nº 5.061 de 28/08/1872",
+      "data": "1872-08-28",
+      "numero": "5061",
+      "urn": "urn:lex:br:federal:decreto:1872-08-28;5061",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DO BANCO MERCANTIL DE SANTOS."
+    },
+    {
+      "senadoId": "407267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-24-5059",
+      "titulo": "Decreto nº 5.059 de 24/08/1872",
+      "data": "1872-08-24",
+      "numero": "5059",
+      "urn": "urn:lex:br:federal:decreto:1872-08-24;5059",
+      "ementa": "REDUZ A 5% O JURO DO DINHEIRO DEPOSITADO NA CAIXA ENCOMOMICA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-24-5060",
+      "titulo": "Decreto nº 5.060 de 24/08/1872",
+      "data": "1872-08-24",
+      "numero": "5060",
+      "urn": "urn:lex:br:federal:decreto:1872-08-24;5060",
+      "ementa": "DETERMINA POR UTILIDADE PUBLICA A CONSTRUÇÃO DE UM EDIFICIO DESTINADO AO ESTABELECIMENTO DE ESCOLAS PUBLICAS DE INSTRUIÇÃO PRIMARIA NA FREGUESIA DE SANTO ANTONIO DESTA CORTE, NO TERRENO QUE FORMA ANGULO NAS RUAS DA RELAÇÃO E DOS INVALIDOS, DO LADO DO NORTE."
+    },
+    {
+      "senadoId": "407263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-16-5058",
+      "titulo": "Decreto nº 5.058 de 16/08/1872",
+      "data": "1872-08-16",
+      "numero": "5058",
+      "urn": "urn:lex:br:federal:decreto:1872-08-16;5058",
+      "ementa": "AUTORIZA O BARÃO DE MAUÁ A ESTABELECER E EXPLORAR UM CABO TELEGRAFICO SUBMARINO ENTRE O IMPERIO DO BRASIL E O REINO DE PROTUGAL E SUAS POSSESSÕES."
+    },
+    {
+      "senadoId": "407239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5052",
+      "titulo": "Decreto nº 5.052 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5052",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5052",
+      "ementa": "CONCEDE A COMPANHIA DA ESTRADA DE FERRO DE MACAE A CAMPOS AUTORIZAÇÃO PARA CONSTRUIR DOCAS E OUTRAS OBRAS DE MELHORAMENTO NA ENSEADA DE IMBETIDA, NO MUNICIPIO DE MACAE, DA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "407231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5050",
+      "titulo": "Decreto nº 5.050 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5050",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5050",
+      "ementa": "CONCEDE AOS DRS. CYRINO ANTONI DE LEMOS E JOÃO BAPTISTA DA SILVA GOMES BARATA, PEMISSÃO POR DOIS ANOS PARA EXPLORAREM MINAS DE CARVÃO DE PEDRA E PETROLEO NA COMARCA DA CAPITAL DA PROVINCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "407247",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5054",
+      "titulo": "Decreto nº 5.054 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5054",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5054",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA AS COMARCAS DE BORBUREMA, INGÁ E INDEPENDDENCIA, ESTA RESTAURADA E AQUELAS CRIADAS ULTIMAMENTE NA PROVINCIAA DA PARAYBA."
+    },
+    {
+      "senadoId": "407225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5049",
+      "titulo": "Decreto nº 5.049 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5049",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5049",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DA COMARCAS DA PROVÍNCIA DE MINAS GERAIS, E DECLARA A ENTRANCIA DAS QUE FORAM ULTIMAMENTE CRIADAS."
+    },
+    {
+      "senadoId": "407235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5051",
+      "titulo": "Decreto nº 5.051 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5051",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5051",
+      "ementa": "CONCEDE A JERONYMO PEREIRA DE LIMA CAMPOS PRIVILEGIO POR 15 ANOS PARA USAR NO IMPERIO DE UM SYSTEMA DE TRANSPORTE DE SUA INVENÇÃO, DESTINADO A EVITAR AS DIFICULDADES QUE OFERECEM Á NAVEGAÇÃO FLUVIAL AS CACHOEIRAS E OS SALTOS."
+    },
+    {
+      "senadoId": "407243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5053",
+      "titulo": "Decreto nº 5.053 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5053",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5053",
+      "ementa": "CONCEDE A PEDRO ALOYS SCHERER, JOSÉ GONÇALVES PECEGO JUNIOR E JOSÉ MARIA DA SILVA LEMOS AUTORIZAÇÃO PARA CONSTRUIREM NA ESEADA DO GATO, NO PORTO DE PARANAGUA, NA PROVINCIA DO PARANÁ, OS OBRAS QUE FORAM NECESSÁRIA PARA O MELHORAMENTO DO MESMO PORTO."
+    },
+    {
+      "senadoId": "407230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5049-a",
+      "titulo": "Decreto nº 5.049-A de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5049-a",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5049-a",
+      "ementa": "MARCA O ORDENADO DOS POMOTORES PUBLICOS DAS NOVAS COMARCAS DE ITAJUBÁ, ITAPERICIRICA, ITAPIRASABA, LEOPOLDINA, QUELUZ E RIO DOURADOS, NA PRIVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "407259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5057",
+      "titulo": "Decreto nº 5.057 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5057",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5057",
+      "ementa": "MARCA O ORDENADO ANUAL DO PROMOTORES PUBLICOS DOS COMARCAS DE BARREIRINHAS E DO CODÓ , NA PROVINCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "407251",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5055",
+      "titulo": "Decreto nº 5.055 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5055",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5055",
+      "ementa": "MARCA O ORDENADO ANUAL DOS PROMOTORES PUBLICOS DAS COMARCAS DE BORBUREMA, INGÁ E INDENPENDENCIA, NA PROVINCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "407255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-14-5056",
+      "titulo": "Decreto nº 5.056 de 14/08/1872",
+      "data": "1872-08-14",
+      "numero": "5056",
+      "urn": "urn:lex:br:federal:decreto:1872-08-14;5056",
+      "ementa": "DECLARA DE PRIMEIRO ENTRANCIA A COMARCA DE BARREIRINHA, E DE SEGUNDA A DO CODÓ, CRIADAS ULTIMAMENTE NA PROVINCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "407213",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5046",
+      "titulo": "Decreto nº 5.046 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5046",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5046",
+      "ementa": "ALTERA ALGUMAS DAS CLAUSULAS DO DECRETO N. 5002 DE 3 DE JULHO DO CORRENTE ANO, QU AUTORIZOU O PROLONGAMENTO ATÉ A PRAÇA DA CONSTITUIÇÃO DA LINHA DE CARRIS DE FERRO DA FAZENDA DO MACACO."
+    },
+    {
+      "senadoId": "407217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5047",
+      "titulo": "Decreto nº 5.047 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5047",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5047",
+      "ementa": "CONCEDE Á COMPANHIA - S. PAULO E RIO DE JANEIRO - AUTORIZAÇÃO PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407221",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5048",
+      "titulo": "Decreto nº 5.048 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5048",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5048",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DO BREJO GRANDE, NA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "407188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5040",
+      "titulo": "Decreto nº 5.040 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5040",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5040",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE CAMPO LARGO, CRIADA NA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "407200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5043",
+      "titulo": "Decreto nº 5.043 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5043",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5043",
+      "ementa": "CONCEDE Á COMPANHIA - ECONOMICA - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS, COM MODIFICAÇÕES."
+    },
+    {
+      "senadoId": "407209",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5045",
+      "titulo": "Decreto nº 5.045 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5045",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5045",
+      "ementa": "CONCEDE A COMPANHIA INGLEZA - THE BRAGANZA GOLD MINING COMAPANY LIMITED - AUTORIZAÇÃO PARA FUNCIONAR NO IMPERIO."
+    },
+    {
+      "senadoId": "407196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5042",
+      "titulo": "Decreto nº 5.042 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5042",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5042",
+      "ementa": "CONCEDE Á COMPANHIA - LUZ-STEARICA - AUTORIZAÇÃO PARA ELEVAR O SEU FUNDO SOCIAL A 600:000$000."
+    },
+    {
+      "senadoId": "407184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5039",
+      "titulo": "Decreto nº 5.039 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5039",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5039",
+      "ementa": "AUTORIZA O ESTABELECIMENTO DE UM BANCO AGRICOLA E COMERCIAL NA CIDADE DE CAMPINAS, PROVINCIA DE S. PAULO , E APROVA COM ALTERAÇÕES OS REPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407205",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5044",
+      "titulo": "Decreto nº 5.044 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5044",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5044",
+      "ementa": "CONCEDE A MANOEL LOPES DA SILVA E AO DR. PHILIPPE PEREIRA CALDAS PERMISSÃO, POR DOIS ANOS, PARA EXPLORAREM MINAS DE CHUMBO E COBRE NO MUNICIPIO DA ENCRUZILHADA, DO TERMO DO RIO PARDO, NA PROVINCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "407192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-07-5041",
+      "titulo": "Decreto nº 5.041 de 07/08/1872",
+      "data": "1872-08-07",
+      "numero": "5041",
+      "urn": "urn:lex:br:federal:decreto:1872-08-07;5041",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PUBLICO DA COMARCA DE CAMPO LARGO, NA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "407180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5038",
+      "titulo": "Decreto nº 5.038 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5038",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5038",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO A COMISSÃO DE MELHORAMENTOS DO MATERIAL DO EXERCITO."
+    },
+    {
+      "senadoId": "407176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5037",
+      "titulo": "Decreto nº 5.037 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5037",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5037",
+      "ementa": "ABRE AO MINISTERIO DA AGRICULTURA , COMERCIO E OBRAS PUBLICAS UM CREDITO EXTRAORDINARIO DE 273:100$000 PARA AS DESPESAS COM A EXPOSIÇÃO NACIONAL, E COM O RESPECTIVO SERVIÇO EM VIENNA D´AUSTRIA, DURANTE O EXERCICIO DE 1872-1873."
+    },
+    {
+      "senadoId": "407168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5035",
+      "titulo": "Decreto nº 5.035 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5035",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5035",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNICIPAL E DE ORPHÃOS NO TERMO DE S.BENTO, NA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "407160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5033",
+      "titulo": "Decreto nº 5.033 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5033",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5033",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNICIPIAL E DE ORPHÃO EM CODA UM DOS TRMOS DE S. JOSÉ DO BARREIRO E BETHELEM DO JUNDIAHY, NA PROVINCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "407172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5036",
+      "titulo": "Decreto nº 5.036 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5036",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5036",
+      "ementa": "APROVA AS INSTRUÇÕES PARA A FISCALISAÇÃO DO SERVIÇO A CARGO DAS EMPREZAS DE NAVEGAÇÃO SUBVENCINADAS PELO ESTADO."
+    },
+    {
+      "senadoId": "407156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5032",
+      "titulo": "Decreto nº 5.032 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5032",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5032",
+      "ementa": "APROVA A REFORMA FEITAS NOS ESTATUTOS DO BANCO NACIONAL, NA PARTE RELATIVA A OPERAÇÕES OU MOVIMENTO DE FUNDOS PARA QUAISQUER PRAÇAS, TANTO NACIONAIS COMO ESTRANGUEIRAS."
+    },
+    {
+      "senadoId": "407164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5034",
+      "titulo": "Decreto nº 5.034 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5034",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5034",
+      "ementa": "ARGUMENTA O ORDENADO DO PROMOTOR PUBLICO DA COMARCA DE CAMPINAS DA PROVINCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "407152",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-08-01-5031",
+      "titulo": "Decreto nº 5.031 de 01/08/1872",
+      "data": "1872-08-01",
+      "numero": "5031",
+      "urn": "urn:lex:br:federal:decreto:1872-08-01;5031",
+      "ementa": "AUTORIZA O NEW LONDON AND BRASILIAN BANK - PARA FUNCIONAR NO IMPERIO, NOS MESMO TERMOS DA CONCESSÃO FEITA AO - LONDON AND BRASILIAN BANK - PELO DECRETO N.º 2.979 DE 2 DE OUTUBRO DE 1862."
+    },
+    {
+      "senadoId": "407144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-31-5029",
+      "titulo": "Decreto nº 5.029 de 31/07/1872",
+      "data": "1872-07-31",
+      "numero": "5029",
+      "urn": "urn:lex:br:federal:decreto:1872-07-31;5029",
+      "ementa": "CONCEDE A THAMAZ DUTTON JUNIOR PERMISSÃO POR DOIS ANOS PARA EXPLORAR FERRO MAGNETICO E OUTROS MINERAIS, COM EXCLUSSÃO DOS DIAMANTE, AS MARGENS DO RIO PIUMA, NA COMARCA DE BENEVENTE, NA PROVINCIA DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "407148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-31-5030",
+      "titulo": "Decreto nº 5.030 de 31/07/1872",
+      "data": "1872-07-31",
+      "numero": "5030",
+      "urn": "urn:lex:br:federal:decreto:1872-07-31;5030",
+      "ementa": "AUTORIZA A SUBTITUIÇÃO DOS ESTATUTOS DA COMPANHIA FLUVIAL PARANAENSE."
+    },
+    {
+      "senadoId": "407131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5026",
+      "titulo": "Decreto nº 5.026 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5026",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5026",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO DENOMINADA - CLUB GYMNASTICO PORTUGUÊS."
+    },
+    {
+      "senadoId": "407123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5024",
+      "titulo": "Decreto nº 5.024 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5024",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5024",
+      "ementa": "CRIA NOS TERMOS REUNIDOS DE PAPACAÇA E ÁGUAS BELLAS, NA PROVÍNCIA DE PERNAMBUCO, UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "407140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5028",
+      "titulo": "Decreto nº 5.028 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5028",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5028",
+      "ementa": "CONCEDE A VINCENT ELIJAH KEEGAN PRIVILEGIO PARA A INTRODUÇÃO E VENDA NO IMPERIO DA PREPARAÇÃO DE UMA POLPA EXTRAIDA DA MADEIRA E DESTINADA AO FABRICO DE PAPEL."
+    },
+    {
+      "senadoId": "407115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5022",
+      "titulo": "Decreto nº 5.022 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5022",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5022",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DE UMA COMPANHIA COM O FIM DE ADQUIRIR  A CONCESSÃO FEITA PELO DECRETO DE 25 DE OUTUBRO DE 1871 À SOCIEDADE LA POPULAR ARGENTINA, INSTITUÍDA EM BUENOS-AÍRES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "407127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5025",
+      "titulo": "Decreto nº 5.025 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5025",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5025",
+      "ementa": "FAZ EXTENSIVA AO ENTERRAMENTO DOS CADÁVERES DE PESSOAS DESCONHECIDAS, ENCONTRADAS NA VIA PÚBLICA, A DISPOSIÇÃO DO ARTIGO 14 DO DECRETO NÚMERO 2.812 DE 3 DE AGOSTO DE 1861."
+    },
+    {
+      "senadoId": "407136",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5027",
+      "titulo": "Decreto nº 5.027 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5027",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5027",
+      "ementa": "CONCEDE À COMPANHIA DE SEGUROS - PREVIDENTE - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-24-5023",
+      "titulo": "Decreto nº 5.023 de 24/07/1872",
+      "data": "1872-07-24",
+      "numero": "5023",
+      "urn": "urn:lex:br:federal:decreto:1872-07-24;5023",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE UMA DAS COMARCAS DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "407111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-20-5021",
+      "titulo": "Decreto nº 5.021 de 20/07/1872",
+      "data": "1872-07-20",
+      "numero": "5021",
+      "urn": "urn:lex:br:federal:decreto:1872-07-20;5021",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 3613:755$000 PARA AS DESPESAS COM A ESTRADA DE FERRO D. PEDRO II NO EXERCÍCIO DE 1871-72,"
+    },
+    {
+      "senadoId": "407107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-18-5020",
+      "titulo": "Decreto nº 5.020 de 18/07/1872",
+      "data": "1872-07-18",
+      "numero": "5020",
+      "urn": "urn:lex:br:federal:decreto:1872-07-18;5020",
+      "ementa": "CONCEDE À COMPANHIA INGLESA - THE AMASON STEAM NAVIGATION COMPANY LIMITED - , AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "407103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-18-5019",
+      "titulo": "Decreto nº 5.019 de 18/07/1872",
+      "data": "1872-07-18",
+      "numero": "5019",
+      "urn": "urn:lex:br:federal:decreto:1872-07-18;5019",
+      "ementa": "CONCEDE À COMPANHIA - FERRO-CARRIL DA VILLA IZABEL- AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5017",
+      "titulo": "Decreto nº 5.017 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5017",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5017",
+      "ementa": "AUTORIZA O ESTABELECIMENTO DO BANCO COMERCIAL DE PERNAMBUCO, E APROVA, COM MODIFICAÇÃO, OS RESPECTIVOS."
+    },
+    {
+      "senadoId": "407075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5012",
+      "titulo": "Decreto nº 5.012 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5012",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5012",
+      "ementa": "CRIA NOS TERMOS REUNIDOS DA IMPERATRIZ E PORTO FRANCO, NA PROVÍNCIA DO MARANHÃO, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRFÃOS."
+    },
+    {
+      "senadoId": "407079",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5013",
+      "titulo": "Decreto nº 5.013 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5013",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5013",
+      "ementa": "CONCEDE À COMPANHIA TELEGRÁFICA PLATINO-BRASILEIRA, AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "407099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5018",
+      "titulo": "Decreto nº 5.018 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5018",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5018",
+      "ementa": "ALTERA ALGUMAS DAS CLÁUSULAS ANEXAS AO DECRETO NÚMERO 4.851 DE 22 DE DEZEMBRO DE 1871 QUE CONCEDEU AUTORIZAÇÃO PARA ESTUDOS DE UMA LINHA DE NAVEGAÇÃO NOS RIOS IVAH, PARANÁ, INHEIMA, BRILHANTE E MONDEGO E DETERMINA QUE SEJA OBSERVADAS AS QUE COM ESTE BAIXARAM."
+    },
+    {
+      "senadoId": "407091",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5016",
+      "titulo": "Decreto nº 5.016 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5016",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5016",
+      "ementa": "AUTORIZA A ABERTURA DE UMA PRAÇA E RUA EM FRENTE AO LABORATÓRIO PIROTÉCNICO DA MARINHA NA ARMAÇÃO EM NITERÓI."
+    },
+    {
+      "senadoId": "407071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5011",
+      "titulo": "Decreto nº 5.011 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5011",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5011",
+      "ementa": "DESANEXA DOS TERMOS DE ITAPICURU E IGUARA O DE ANAJATUBA, E CRIA, REUNIDO AO DO MEARIM, NA PROVÍNCIA DO MARANHÃO, UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "407087",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5015",
+      "titulo": "Decreto nº 5.015 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5015",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5015",
+      "ementa": "CONCEDE A JOÃO ERNESTO VIRIATO DE MEDEIROS E JOÃO PEREIRA DARRIGUES FARO, PERMISSÃO POR DOIS ANOS PARA EXPLORAREM MINAS DE PRATA, OURO E OUTROS MINERAIS, EXCLUÍDOS OS DIAMANTES, NAS COMARCAS DA ESTÂNCIA, LAGARTO E ITABAIANA, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "407083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-17-5014",
+      "titulo": "Decreto nº 5.014 de 17/07/1872",
+      "data": "1872-07-17",
+      "numero": "5014",
+      "urn": "urn:lex:br:federal:decreto:1872-07-17;5014",
+      "ementa": "CONCEDE A LUIZ MATHEUS MAYLASKI PERMISSÃO POR DOIS ANOS PARA EXPLORAR CARVÃO DE PEDRA E PETRÓLEO NAS COMARCAS DE SOROCABA, ITAPETININGA E ITÚ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407067",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5010",
+      "titulo": "Decreto nº 5.010 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5010",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5010",
+      "ementa": "CONCEDE A J.M WRIGHT & COMP. E ANTÔNIO MARTINS LAGE PERMISSÃO POR TRÊS ANOS PARA EXPLORAREM JAZIDAS DE GUANO NAS ILHAS E ROCHEDOS COMPREENDIDOS ENTRE OS PARALELOS 13º E 26º, ATITUDE SUL."
+    },
+    {
+      "senadoId": "407051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5006",
+      "titulo": "Decreto nº 5.006 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5006",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5006",
+      "ementa": "CONCEDE A THOMAZ RAINEY PRIVILEGIO PARA USAR DE UM SISTEMA DE PONTES FLUTUANTES, DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "407063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5009",
+      "titulo": "Decreto nº 5.009 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5009",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5009",
+      "ementa": "CONCEDE AOS BACHAREIS FREDERICO JOSÉ CARDOSO DE ARAÚJO ABRANCHES E JOAQUIM LOPES CHAVES, PERMISSÃO POR ANOS PARA EXPLORAREM MINERAIS NO MUNICÍPIO DE CUNHA, COMARCA DE GUARATINGUETÁ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5004",
+      "titulo": "Decreto nº 5.004 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5004",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5004",
+      "ementa": "DECLARA DE SEGUNDA ENTRÂNCIA AS COMARCAS DE BARREIROS E DE IGUARASSÚ, E DE PRIMEIRA AS DO BOM CONSELHO, CIMBRES, OURICURY E VILLA  BELLA, CRIADA ULTIMAMENTE NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "407047",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5005",
+      "titulo": "Decreto nº 5.005 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5005",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5005",
+      "ementa": "DECLARA ESPECIAIS AS COMARCAS DE OLINDA E IGUARASSÚ, DA PROVÍNCIA DE PERNAMBUCO, E FIXA-LHES O NÚMERO DE JUÍZES DE DIREITO E DE SEUS SUBSTITUTOS."
+    },
+    {
+      "senadoId": "407039",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5003",
+      "titulo": "Decreto nº 5.003 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5003",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5003",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PÚBLICOS DAS NOVAS COMARCAS DE BARREIROS, BOM CONSELHO, CIMBRES, IGUARASSÚ, OURICURY E VILLA BELLA, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "407055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5007",
+      "titulo": "Decreto nº 5.007 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5007",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5007",
+      "ementa": "CONCEDE A FRANCISCO IGNÁCIO FERNANDES LEÃO E JOSÉ TORQUATO FERNANDES LEÃO, AUTORIZAÇÃO PARA ESTABELECEREM, POR SI OU POR MEIO DE UMA COMPANHIA, A NAVEGAÇÃO A VAPOR NO RIO DOCE, DESDE SUA FOZ ATÉ O PORTO DE SOUZA."
+    },
+    {
+      "senadoId": "407059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-10-5008",
+      "titulo": "Decreto nº 5.008 de 10/07/1872",
+      "data": "1872-07-10",
+      "numero": "5008",
+      "urn": "urn:lex:br:federal:decreto:1872-07-10;5008",
+      "ementa": "CONCEDE AO COMENDADOR JOAQUIM ANTÔNIO DE PAULA MACHADO PEMISSÃO POR DOIS ANOS PARA EXPLORAR AS MINAS DE CARVÃO DE PEDRA QUE ENCONTRA NAS COMARCAS DE JACAREHY E PARAHYBUNA, NO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "407009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4996",
+      "titulo": "Decreto nº 4.996 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4996",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4996",
+      "ementa": "CONCEDE A CÂNDIDO DE SOUZA REAGEL PRIVILÉGIO PARA ESTABELECER UMA FÁBRICA DE AZULEJOS, PORCELANA, LOUÇA FINA E CRISTAL."
+    },
+    {
+      "senadoId": "407013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4997",
+      "titulo": "Decreto nº 4.997 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4997",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4997",
+      "ementa": "CONCEDE A GUSTAVO ADOLPHO WURFFBAIN E THEODORO JUST, PRIVILÉGIO PARA INTRODUÇÃO E VENDA NO IMPÉRIO DE APARELHO DESTINADOS A FABRICAÇÃO DE GÁS HIDRO-CARBÔNICO."
+    },
+    {
+      "senadoId": "406997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4993",
+      "titulo": "Decreto nº 4.993 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4993",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4993",
+      "ementa": "CLASSIFICA AS COMARCAS DA PROVINCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "406993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4992",
+      "titulo": "Decreto nº 4.992 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4992",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4992",
+      "ementa": "ALTERA ALGUMAS DIPOSIÇÕES DO DECRETO 4.824 DE 22 DE NOVEMBRO DE 1871, NA PARTE RELATIVA A PRESIDENCIA DO JURI NAS COMARCAS ESPECIAIS."
+    },
+    {
+      "senadoId": "407001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4994",
+      "titulo": "Decreto nº 4.994 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4994",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4994",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PÚBLICOS DAS COMARCAS DO BAIXO-MEARIM E DA IMPERATRIZ, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "407005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4995",
+      "titulo": "Decreto nº 4.995 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4995",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4995",
+      "ementa": "PRORROGA O PRAZO FIXADO PARA A ORGANIZAÇÃO DA COMPANHIA DESTINADA A CONSTRUIR UMA DOCA NO LOCAL EM QUE SE ACHA A CAPITÂNIA DO PORTO DO MARANHÃO E CONCLUI O DIQUE DAS MERCÊS."
+    },
+    {
+      "senadoId": "407022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4999",
+      "titulo": "Decreto nº 4.999 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4999",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4999",
+      "ementa": "CONCEDE A SOUZA & FERREIRA PERMISSÃO PARA EXPLORAREM MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS NAS MARGENS DO RIO NEGRO."
+    },
+    {
+      "senadoId": "407030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-5001",
+      "titulo": "Decreto nº 5.001 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "5001",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;5001",
+      "ementa": "CONCEDE A JOSÉ ANTONIO GUIMARÃES DE LEMOS, FILHOS & C. ª, OU A ASSOCIAÇÃO POR ELES ORGANIZADA, PRIVILÉGIO POR ESPAÇO DE 35 ANOS PARA A CONSTRUÇÃO, O GOZO DE UMA ESTRADA DE CARRIS DE FERRO ENTRE O PEDREGULHO E O ARRAIAL DA PENHA, NA FREGUEZIA DE IRAJÁ."
+    },
+    {
+      "senadoId": "407017",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-4998",
+      "titulo": "Decreto nº 4.998 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "4998",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;4998",
+      "ementa": "CONCEDE A FRANCISCO DE PAULA BELLIDO PRIVILÉGIO PARA INTRODUZIR NO PAÍS O APARELHO DE SUA INVENÇÃO DENOMINADO - REGULADOR AUTOMÁTICO."
+    },
+    {
+      "senadoId": "407034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-5002",
+      "titulo": "Decreto nº 5.002 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "5002",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;5002",
+      "ementa": "AUTORIZA O PROLONGAMENTO ATÉ À PRAÇA DA CONSTITUIÇÃO DE LINHA DE CARRIS DE FERRO DA FAZENDA DO MACACO AO MATADOURO."
+    },
+    {
+      "senadoId": "407026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-07-03-5000",
+      "titulo": "Decreto nº 5.000 de 03/07/1872",
+      "data": "1872-07-03",
+      "numero": "5000",
+      "urn": "urn:lex:br:federal:decreto:1872-07-03;5000",
+      "ementa": "ESTENDE À COMPANHIA - PUBLICK WORKS CONSTRUTION COMPANY, LIMITED - DE LONDRES, A CONCESSÃO FEITA POR DECRETO NÚMERO 4.797 DE 4 DE OUTUBRO DE 1871 AO ENGENHEIRO MANOEL BUARQUE DE MACEDO E BARÃO DO LIVRAMENTO, PARA ESTUDOS DE LINHAS FÉRREAS E NAVEGAÇÃO NAS BACIAS DOS RIOS DE SÃO FRANCISCO E TOCANTINS, E ALTERA AS CLÁUSULAS DO CITADO DECRETO."
+    },
+    {
+      "senadoId": "406989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-26-4991",
+      "titulo": "Decreto nº 4.991 de 26/06/1872",
+      "data": "1872-06-26",
+      "numero": "4991",
+      "urn": "urn:lex:br:federal:decreto:1872-06-26;4991",
+      "ementa": "CONCEDE A COMPANHIA DE SEGUROS - FIDELIDADE - DE LISBOA AUTORIZAÇÃO PARA ESTABELECER NOVAS AGÊNCIAS NO IMPÉRIO."
+    },
+    {
+      "senadoId": "406985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-26-4990",
+      "titulo": "Decreto nº 4.990 de 26/06/1872",
+      "data": "1872-06-26",
+      "numero": "4990",
+      "urn": "urn:lex:br:federal:decreto:1872-06-26;4990",
+      "ementa": "CONCEDE A COMPANHIA - FERRO-CARRIL - DE MONTEVIDEO, AUTORIZAÇAO PARA FUNCIONAR, E APROVAR SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-26-4989",
+      "titulo": "Decreto nº 4.989 de 26/06/1872",
+      "data": "1872-06-26",
+      "numero": "4989",
+      "urn": "urn:lex:br:federal:decreto:1872-06-26;4989",
+      "ementa": "AUTORIZA A SUBSTITUIÇÃO DOS ESTATUTOS DA COMPANHIA - FERRO-CARRIL NICTHEROYENSE."
+    },
+    {
+      "senadoId": "406977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-26-4988",
+      "titulo": "Decreto nº 4.988 de 26/06/1872",
+      "data": "1872-06-26",
+      "numero": "4988",
+      "urn": "urn:lex:br:federal:decreto:1872-06-26;4988",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS DA GUERRA PARA APLICAR AS DESPESAS COM DIVERSAS RUBRICAS DO EXERCICIO DE 1871 A 1872, A FICDAS NO § 6. DA LEI DO ORÇAMENTO DO MESMO EXERCICIO."
+    },
+    {
+      "senadoId": "406973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-19-4987",
+      "titulo": "Decreto nº 4.987 de 19/06/1872",
+      "data": "1872-06-19",
+      "numero": "4987",
+      "urn": "urn:lex:br:federal:decreto:1872-06-19;4987",
+      "ementa": "CONCEDE À COMPANHIA DE SEGUROS MÚTUOS SOBRE A VIDA E CONTRA O FOGO - MUTUALIDADE -, AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406953",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-19-4982",
+      "titulo": "Decreto nº 4.982 de 19/06/1872",
+      "data": "1872-06-19",
+      "numero": "4982",
+      "urn": "urn:lex:br:federal:decreto:1872-06-19;4982",
+      "ementa": "CRIA NO TERMO DE NOSSA SENHORA DA CONCEIÇÃO DA ILHA DO OURO, NA PROVÍNCIA DE SERGIPE, UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "406961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-19-4984",
+      "titulo": "Decreto nº 4.984 de 19/06/1872",
+      "data": "1872-06-19",
+      "numero": "4984",
+      "urn": "urn:lex:br:federal:decreto:1872-06-19;4984",
+      "ementa": "DESANEXA DOS TERMOS DA ASSEMBLÉIA E DA ATALAIA E DO PILAR, NA PROVÍNCIA DAS ALAGOAS, E CRIA NESTA UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "406965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-19-4985",
+      "titulo": "Decreto nº 4.985 de 19/06/1872",
+      "data": "1872-06-19",
+      "numero": "4985",
+      "urn": "urn:lex:br:federal:decreto:1872-06-19;4985",
+      "ementa": "CONCEDE À COMPANHIA - CARRIS DE FERRO PORTO ALEGRENSE -, AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-19-4986",
+      "titulo": "Decreto nº 4.986 de 19/06/1872",
+      "data": "1872-06-19",
+      "numero": "4986",
+      "urn": "urn:lex:br:federal:decreto:1872-06-19;4986",
+      "ementa": "CONCEDE A COMPANHIA - CAMPOS GAS COMPANY - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406957",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-19-4983",
+      "titulo": "Decreto nº 4.983 de 19/06/1872",
+      "data": "1872-06-19",
+      "numero": "4983",
+      "urn": "urn:lex:br:federal:decreto:1872-06-19;4983",
+      "ementa": "DESANEXA DO TERMO DO ROSÁRIO O DO ICATÚ, NA PROVÍNCIA DO MARANHÃO, E CRIA NESTE UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "406933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-12-4977",
+      "titulo": "Decreto nº 4.977 de 12/06/1872",
+      "data": "1872-06-12",
+      "numero": "4977",
+      "urn": "urn:lex:br:federal:decreto:1872-06-12;4977",
+      "ementa": "REÚNE O TERMO DE SÃO CHISTOVÃO AO DE ITAPORANGA, NA PROVÍNCIA DE SERGIPE, E CRIA NELES UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "406945",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-12-4980",
+      "titulo": "Decreto nº 4.980 de 12/06/1872",
+      "data": "1872-06-12",
+      "numero": "4980",
+      "urn": "urn:lex:br:federal:decreto:1872-06-12;4980",
+      "ementa": "APROVA A REFORMA DE VÁRIOS ARTIGOS DOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRE - GARANTIA."
+    },
+    {
+      "senadoId": "406937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-12-4978",
+      "titulo": "Decreto nº 4.978 de 12/06/1872",
+      "data": "1872-06-12",
+      "numero": "4978",
+      "urn": "urn:lex:br:federal:decreto:1872-06-12;4978",
+      "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO ENTRE O IMPÉRIO DO BRASIL E O REINO DE ESPANHA."
+    },
+    {
+      "senadoId": "406949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-12-4981",
+      "titulo": "Decreto nº 4.981 de 12/06/1872",
+      "data": "1872-06-12",
+      "numero": "4981",
+      "urn": "urn:lex:br:federal:decreto:1872-06-12;4981",
+      "ementa": "AUTORIZA A CONVERSÃO DA - CAIXA RESERVA MERCANTIL DA BAHIA - EM UM BANCO SOB A DENOMINAÇÃO DE - BANCO MERCANTIL DA BAHIA - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-12-4979",
+      "titulo": "Decreto nº 4.979 de 12/06/1872",
+      "data": "1872-06-12",
+      "numero": "4979",
+      "urn": "urn:lex:br:federal:decreto:1872-06-12;4979",
+      "ementa": "AUTORIZA A REFORMA DO ARTIGO 26 DOS ESTATUTOS DA COMPANHIA - CORREIO DO BRASIL."
+    },
+    {
+      "senadoId": "406929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-06-05-4976",
+      "titulo": "Decreto nº 4.976 de 05/06/1872",
+      "data": "1872-06-05",
+      "numero": "4976",
+      "urn": "urn:lex:br:federal:decreto:1872-06-05;4976",
+      "ementa": "CONCEDE À COMPANHIA DA ESTRADA DE FERRO DE LEOPOLDINA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4974",
+      "titulo": "Decreto nº 4.974 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4974",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4974",
+      "ementa": "JULGA CASO DE FORÇA MAIOR A INTERRUPÇÃO DA SEGUNDA VIAGEM DO MÊS DE JULHO DO ANO PASSADO, ENCETADA PELO PAQUETE ANNICOTA AOS PORTOS DO NORTE."
+    },
+    {
+      "senadoId": "406901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4969",
+      "titulo": "Decreto nº 4.969 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4969",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4969",
+      "ementa": "ATUALIZA A INCORPORAÇÃO DO BANCO INDÚSTRIA E MERCANTIL DO RIO DE JANEIRO, - E APROVA COM MODIFICAÇÃO OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4975",
+      "titulo": "Decreto nº 4.975 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4975",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4975",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA - TRANSPORTES MARÍTIMOS."
+    },
+    {
+      "senadoId": "406909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4971",
+      "titulo": "Decreto nº 4.971 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4971",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4971",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE ALGUMAS DAS COMARCAS DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "406917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4973",
+      "titulo": "Decreto nº 4.973 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4973",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4973",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DA COMARCA DA CAPITAL DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "406913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4972",
+      "titulo": "Decreto nº 4.972 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4972",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4972",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE ALGUMAS DAS COMARCAS DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "406905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-29-4970",
+      "titulo": "Decreto nº 4.970 de 29/05/1872",
+      "data": "1872-05-29",
+      "numero": "4970",
+      "urn": "urn:lex:br:federal:decreto:1872-05-29;4970",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE ALGUMAS DAS COMARCAS DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "406897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-24-4968",
+      "titulo": "Decreto nº 4.968 de 24/05/1872",
+      "data": "1872-05-24",
+      "numero": "4968",
+      "urn": "urn:lex:br:federal:decreto:1872-05-24;4968",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO CONSULAR DESTA DATA EM SUBSTITUIÇÃO DE 11 DE JUNHO DE 1847."
+    },
+    {
+      "senadoId": "406889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-22-4966",
+      "titulo": "Decreto nº 4.966 de 22/05/1872",
+      "data": "1872-05-22",
+      "numero": "4966",
+      "urn": "urn:lex:br:federal:decreto:1872-05-22;4966",
+      "ementa": "CONVOCA PARA O 1º DE DEZEMBRO DO CORRENTE ANO A NOVA ASSEMBLÉIA GERAL LEGISLATIVA, E DESIGNA O DIA 18 DE AGOSTO PARA SE PROCEDER EM TODO O IMPÉRIO E ELEIÇÃO PRIMÁRIA."
+    },
+    {
+      "senadoId": "406893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-22-4967",
+      "titulo": "Decreto nº 4.967 de 22/05/1872",
+      "data": "1872-05-22",
+      "numero": "4967",
+      "urn": "urn:lex:br:federal:decreto:1872-05-22;4967",
+      "ementa": "CONCEDE A COMPANHIA FERRO-CARRL E CAES DA CIDADE DE PELOTAS AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-22-4965",
+      "titulo": "Decreto nº 4.965 de 22/05/1872",
+      "data": "1872-05-22",
+      "numero": "4965",
+      "urn": "urn:lex:br:federal:decreto:1872-05-22;4965",
+      "ementa": "DISSOLVE A CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "406877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-15-4963",
+      "titulo": "Decreto nº 4.963 de 15/05/1872",
+      "data": "1872-05-15",
+      "numero": "4963",
+      "urn": "urn:lex:br:federal:decreto:1872-05-15;4963",
+      "ementa": "CONCEDE A GUSTAVO ADOLPHO WURFFBAIN PRIVILÉGIO PARA AS FORMAS, DE SUA INVENÇÃO, DE PURGA O AÇÚCAR."
+    },
+    {
+      "senadoId": "406869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-15-4961",
+      "titulo": "Decreto nº 4.961 de 15/05/1872",
+      "data": "1872-05-15",
+      "numero": "4961",
+      "urn": "urn:lex:br:federal:decreto:1872-05-15;4961",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DE ANTONINA E MORRETES, CRIADA NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "406881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-15-4964",
+      "titulo": "Decreto nº 4.964 de 15/05/1872",
+      "data": "1872-05-15",
+      "numero": "4964",
+      "urn": "urn:lex:br:federal:decreto:1872-05-15;4964",
+      "ementa": "PRORROGA POR UM ANO OS PRAZOS FIXADOS NAS CLÁUSULAS 2ª E 7ª DO DECRETO NÚMERO 4.692 DE 14 DE FEVEREIRO DE 1871."
+    },
+    {
+      "senadoId": "406873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-15-4962",
+      "titulo": "Decreto nº 4.962 de 15/05/1872",
+      "data": "1872-05-15",
+      "numero": "4962",
+      "urn": "urn:lex:br:federal:decreto:1872-05-15;4962",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE ANTONINA E MORRETE, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "406865",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-08-4960",
+      "titulo": "Decreto nº 4.960 de 08/05/1872",
+      "data": "1872-05-08",
+      "numero": "4960",
+      "urn": "urn:lex:br:federal:decreto:1872-05-08;4960",
+      "ementa": "ALTERA O REGULAMENTO APROVADO PELO DECRETO NÚMERO 4.835 DE 1º DE DEZEMBRO DE 1871 NA PARTE RELATIVA À MATRÍCULA DOS FILHOS LIVRES DE MULHER ESCRAVA."
+    },
+    {
+      "senadoId": "406861",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-08-4959",
+      "titulo": "Decreto nº 4.959 de 08/05/1872",
+      "data": "1872-05-08",
+      "numero": "4959",
+      "urn": "urn:lex:br:federal:decreto:1872-05-08;4959",
+      "ementa": "CONCEDE A ARNALDO JOSÉ PINT0 SERQUEIRA E ERUESTE DO PRADO SEIXAS AUTORIZAÇÃO PARA INCORPORAREM À COMPANHIA DENOMINADA - RIO GRANDENSE DE NEVEGAÇÃO A VAPOR."
+    },
+    {
+      "senadoId": "406829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4951",
+      "titulo": "Decreto nº 4.951 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4951",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4951",
+      "ementa": "CONCEDE PRIVILÉGIO A LUZ & COMP. PARA O EMPREGO DO SISTEMA DE SETE FILTROS METÁLICOS DE SUA INVENÇÃO NOS POÇOS DENOMINADOS - ABISSÍNIOS."
+    },
+    {
+      "senadoId": "406825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4950",
+      "titulo": "Decreto nº 4.950 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4950",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4950",
+      "ementa": "CONCEDE À COMPANHIA - MELHORAMENTO DA CIDADE PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4956",
+      "titulo": "Decreto nº 4.956 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4956",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4956",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA IMPERIAL SOCIEDADE UNIÃO BENEFICIENTE VINTE E NOVE DE JULHO."
+    },
+    {
+      "senadoId": "406813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4947",
+      "titulo": "Decreto nº 4.947 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4947",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4947",
+      "ementa": "DECLARA DE UTILIDADE MUNICIPAL DA DESAPROPRIAÇÃO DO TERRENO NO BAIRRO DAS LARANJEIRAS, QUE TEM POR LIMITES O RIO E A RUA DO MESMO NOME, A RUA DO LEÃO E A PEQUENA SERVIDÃO DO CHAFARIZ PÚBLICO."
+    },
+    {
+      "senadoId": "406821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4949",
+      "titulo": "Decreto nº 4.949 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4949",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4949",
+      "ementa": "CONCEDE À COMPANHIA - INTEGRIDADE - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4948",
+      "titulo": "Decreto nº 4.948 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4948",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4948",
+      "ementa": "CONCEDE À COMPANHIA - GUANABARA - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4958",
+      "titulo": "Decreto nº 4.958 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4958",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4958",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE ESPANHOLA DE BENEFICENCIA."
+    },
+    {
+      "senadoId": "406845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4955",
+      "titulo": "Decreto nº 4.955 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4955",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4955",
+      "ementa": "DECLARA OS FAVORES DE QUE PODEM GOZAR OS VAPORES DAS LINHAS REGULARES DE NAVEGAÇÃO TRANSATLÂNTICA."
+    },
+    {
+      "senadoId": "406833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4952",
+      "titulo": "Decreto nº 4.952 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4952",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4952",
+      "ementa": "CONCEDE PRIVILÉGIO A EULÂMPIO CÉZAR ROMAGNOLI E AO DR. RAYMUNDO AUGUSTO DE CARVALHO FILGUEIRA PARA O USO DE LATRINAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "406841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4954",
+      "titulo": "Decreto nº 4.954 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4954",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4954",
+      "ementa": "MANDA POR EM EXECUÇÃO UMA NOVA TABELA PARA DISTRIBUIÇÃO DAS RAÇÕES DIÁRIAS AOS OFICIAIS, GUARNIÇÃO DOS NAVIOS DA ARMADA E PRAÇA DE PRET DOS CORPOS DE MARINHA."
+    },
+    {
+      "senadoId": "406837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4953",
+      "titulo": "Decreto nº 4.953 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4953",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4953",
+      "ementa": "FIXA AS GRATIFICAÇÕES DOS OFICAIS DA ESCOLA DE MARINHA CAPITÃO TENENTES EM 1:800$000 SEM DIREITO A OUTRAS VANTAGENS."
+    },
+    {
+      "senadoId": "406853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-05-04-4957",
+      "titulo": "Decreto nº 4.957 de 04/05/1872",
+      "data": "1872-05-04",
+      "numero": "4957",
+      "urn": "urn:lex:br:federal:decreto:1872-05-04;4957",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE BRASILEIRA DE BENEFICENCIA."
+    },
+    {
+      "senadoId": "406805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4945",
+      "titulo": "Decreto nº 4.945 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4945",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4945",
+      "ementa": "APROVA O NOVO CONTRATO CELEBRADO COM A COMPANHIA ESPÍRITO SANTO E CAMPOS PARA O SERVIÇO DA NAVEGAÇÃO O VAPOR NAS LINHAS MENCIONADAS NO MESMO CONTRATO."
+    },
+    {
+      "senadoId": "406789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4941",
+      "titulo": "Decreto nº 4.941 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4941",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4941",
+      "ementa": "DECLARA DE SEGUNDA ENTRANCIA A COMARCA DO PILAR E DE PRIMEIRA A DA PALMERIA DOS INDIOS, CRIADOS ULTIMAMENTE NA PROVÍNCIA DOS ALAGOAS."
+    },
+    {
+      "senadoId": "406801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4944",
+      "titulo": "Decreto nº 4.944 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4944",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4944",
+      "ementa": "APROVA O NOVO CONTRATO CELEBRADO COM A COMPANHIA PERNAMBUCANA PARA O SERVIÇO DA NAVEGAÇÃO COSTEIRA A VAPOR."
+    },
+    {
+      "senadoId": "406797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4943",
+      "titulo": "Decreto nº 4.943 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4943",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4943",
+      "ementa": "CONCEDE Á SOCIEDADE ANONYMA 0- INDUSTRIA MACHADENSE AUTORIZAÇÃO PARA FUNCIONAR, E APROVAR SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4946",
+      "titulo": "Decreto nº 4.946 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4946",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4946",
+      "ementa": "CONCEDE A WILLIAM HOWARD PRIVILÉGIO POR QUATORZE ANOS PARA USAR DE UMA MÁQUINA, NA QUAL SE DECLARA INVENTOR, DESTINADA A CONDENSAR O LEITE DA SERINGA."
+    },
+    {
+      "senadoId": "406785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4940",
+      "titulo": "Decreto nº 4.940 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4940",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4940",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PUBLICOS DAS NOVAS COMARCAS DE CASA BRANCA, FAXINA, UBATUBA E S. JOSE DOS CAMPOS, NA PROVÍNCIA DE (SP)."
+    },
+    {
+      "senadoId": "406781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4939",
+      "titulo": "Decreto nº 4.939 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4939",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4939",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA AS COMARCAS DE CASA BRANCA, UBATUBA, FAXINA E SÃO JOSE DOS CAMPOS CRIADOS ULTIMAMENTE NA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "406793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-30-4942",
+      "titulo": "Decreto nº 4.942 de 30/04/1872",
+      "data": "1872-04-30",
+      "numero": "4942",
+      "urn": "urn:lex:br:federal:decreto:1872-04-30;4942",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PUBLICOS DAS NOVAS COMARCAS DO PILAR E DA PALMEIRA DOS INDIOS, NA PROVÍNCIAS DAS ALAGOAS."
+    },
+    {
+      "senadoId": "406769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-27-4936",
+      "titulo": "Decreto nº 4.936 de 27/04/1872",
+      "data": "1872-04-27",
+      "numero": "4936",
+      "urn": "urn:lex:br:federal:decreto:1872-04-27;4936",
+      "ementa": "APROVA AS MODIFICAÇÕES FEITAS NA PLANTA DO CAES GERAL DAS DOCAS DE D. PEDRO II."
+    },
+    {
+      "senadoId": "406765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-27-4935",
+      "titulo": "Decreto nº 4.935 de 27/04/1872",
+      "data": "1872-04-27",
+      "numero": "4935",
+      "urn": "urn:lex:br:federal:decreto:1872-04-27;4935",
+      "ementa": "CONCEDE A COMPANHIA UNIÃO PAULISTA AUTORIZAÇÃO PARA FUNCIONAR, E APROVAR SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-27-4938",
+      "titulo": "Decreto nº 4.938 de 27/04/1872",
+      "data": "1872-04-27",
+      "numero": "4938",
+      "urn": "urn:lex:br:federal:decreto:1872-04-27;4938",
+      "ementa": "ACEITA A DESITENCIA QUE FAZ O BACHAREL CARLOS FREDERICO TAYLOR DA AUTORIZAÇÃO QUE LHE FOI CONCEDIDA PELO DECRETO 4.895 DE 22 DE FEVEREIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "406761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-27-4934",
+      "titulo": "Decreto nº 4.934 de 27/04/1872",
+      "data": "1872-04-27",
+      "numero": "4934",
+      "urn": "urn:lex:br:federal:decreto:1872-04-27;4934",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPEZA DE TRÊS M.ª CAMARA MUNICIPAL PARA O EXECÍCIO DE 1872."
+    },
+    {
+      "senadoId": "406773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-27-4937",
+      "titulo": "Decreto nº 4.937 de 27/04/1872",
+      "data": "1872-04-27",
+      "numero": "4937",
+      "urn": "urn:lex:br:federal:decreto:1872-04-27;4937",
+      "ementa": "PRORROGA O PRAZO FIXADO AOS BACHAREIS FRANCISCO IGNACIO FERREIRA E MANOEL JESUINO FERREIRA PARA A INCORPORAÇÃO DA COMPANHIA DESTINADA A CONSTRUÇÃO DE DOCAS E OUTROS MELHORAMENTOS NO PORTO DA CAPITAL DA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "406741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-22-4929",
+      "titulo": "Decreto nº 4.929 de 22/04/1872",
+      "data": "1872-04-22",
+      "numero": "4929",
+      "urn": "urn:lex:br:federal:decreto:1872-04-22;4929",
+      "ementa": "AUTORIZA A CONSTRUÇÃO DE UM PORTE ARTIFICIAL NA ENSEADA DE GARGAHÚ AO NORTE DA FOZ DO RIO PARAIBA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "406749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-22-4931",
+      "titulo": "Decreto nº 4.931 de 22/04/1872",
+      "data": "1872-04-22",
+      "numero": "4931",
+      "urn": "urn:lex:br:federal:decreto:1872-04-22;4931",
+      "ementa": "CONCEDE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS O CRÉDITO SUPLEMENTAR DA QUANTIA DE 55:624$125 AO CÂMBIO E 27 DINHEIROS ESTERLINOS POR MIL RÉIS, PARA SER APLICADA ÁS DESPESAS DOS VERBAS - AJUDAS DE CUSTO - E - EXTRAORDINÁRIAS NO EXTERIOR - DO ARTIGO 4º DO LEI DO ORÇAMENTO VIGENTE."
+    },
+    {
+      "senadoId": "406753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-22-4932",
+      "titulo": "Decreto nº 4.932 de 22/04/1872",
+      "data": "1872-04-22",
+      "numero": "4932",
+      "urn": "urn:lex:br:federal:decreto:1872-04-22;4932",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE UNIÃO FUNERARIO PRIMEIRO DE JULHO."
+    },
+    {
+      "senadoId": "406745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-22-4930",
+      "titulo": "Decreto nº 4.930 de 22/04/1872",
+      "data": "1872-04-22",
+      "numero": "4930",
+      "urn": "urn:lex:br:federal:decreto:1872-04-22;4930",
+      "ementa": "PRORROGA PROTO MAIS UM ANO O PRAZO ESTIPULADO NA CONDIÇÃO 6 DO DECRETO 4350 DE 5 DE ABRIL DE 1869."
+    },
+    {
+      "senadoId": "406757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-22-4933",
+      "titulo": "Decreto nº 4.933 de 22/04/1872",
+      "data": "1872-04-22",
+      "numero": "4933",
+      "urn": "urn:lex:br:federal:decreto:1872-04-22;4933",
+      "ementa": "APROVA OS ESTATUTO DA SOCIEDADE ALEMÃO GERMANIA."
+    },
+    {
+      "senadoId": "406717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4923",
+      "titulo": "Decreto nº 4.923 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4923",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4923",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO FIXADO NA CLAUSULA 4 DO DECRETO 4.386 DE 30 DE JUNHO DE 1869."
+    },
+    {
+      "senadoId": "406737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4928",
+      "titulo": "Decreto nº 4.928 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4928",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4928",
+      "ementa": "APROVA AS REFORMAS DOS ESTATUTOS POR QUE SE REGE A COMPANHIA DE SEGUROS - FIDELIDADE - ESTABELECIDO NESTA CORTE."
+    },
+    {
+      "senadoId": "406709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4921",
+      "titulo": "Decreto nº 4.921 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4921",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4921",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA - IMPERIAL BRASILIAN COLLIERIES LIMITED - AUTORIZAÇÃO PARA FUNCIONAR NO IMPERIO E ALTERA ALGUMAS DAS CLAUSULAS DO DECRETO  3.515 DE 6 DE OUTUBRO DE 1866."
+    },
+    {
+      "senadoId": "406729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4926",
+      "titulo": "Decreto nº 4.926 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4926",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4926",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO ESTIPULADO NA CONDIÇÃO 6 DO DECRETO 4491 DE 23 MARÇO DE 1870."
+    },
+    {
+      "senadoId": "406733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4927",
+      "titulo": "Decreto nº 4.927 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4927",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4927",
+      "ementa": "ACEITA A DISISTENCIA QUE A COMPANHIA DA ESTRADA DE FERRO DE S. PAULO FEZ DO DIREITO PREFERENCIA QUE LHE FOI GARANTIDO PARA O PROLONGAMENTO DA MEMSA ESTRADA DE CAMPINAS A S. JOÃO DO RIO CLARO."
+    },
+    {
+      "senadoId": "406713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4922",
+      "titulo": "Decreto nº 4.922 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4922",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4922",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO NO  DECRETO 4.527 DE 21 DE MAIO DE 1870."
+    },
+    {
+      "senadoId": "406725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4925",
+      "titulo": "Decreto nº 4.925 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4925",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4925",
+      "ementa": "DETERMINA QUE A AMORTIZAÇÃO DOS NOTAS DO BANCO DO BRASIL CONTINUE A EFETUAR-SE NA RAZÃO DE 5%."
+    },
+    {
+      "senadoId": "406721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-04-13-4924",
+      "titulo": "Decreto nº 4.924 de 13/04/1872",
+      "data": "1872-04-13",
+      "numero": "4924",
+      "urn": "urn:lex:br:federal:decreto:1872-04-13;4924",
+      "ementa": "CONCEDE Á COMPANHIA - FERRO-CARRIL DE MACAHÉ - AUTORIZAÇÃO PARA FUNCIONAR E APROVAR SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-30-4915",
+      "titulo": "Decreto nº 4.915 de 30/03/1872",
+      "data": "1872-03-30",
+      "numero": "4915",
+      "urn": "urn:lex:br:federal:decreto:1872-03-30;4915",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO AO ENGENHEIRO ANDRÉ REBOUÇAS PARA ORGANIZAR UMA COMPANHIA COM O FIM DE CONSTRUIR O ESTABELECIMENTO DE REPARAÇÃO  DE NAVIOS PELO SISTEMA DE EDWIN CLARCK."
+    },
+    {
+      "senadoId": "406689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-30-4916",
+      "titulo": "Decreto nº 4.916 de 30/03/1872",
+      "data": "1872-03-30",
+      "numero": "4916",
+      "urn": "urn:lex:br:federal:decreto:1872-03-30;4916",
+      "ementa": "CONCEDE AO CORONEL JOÃO DANTAS MARTINS DO REIS AUTORIZAÇÃO PARA ORGANIZAR UMA COMPANHIA QUE SE INCUMBA DE COSTRUIR UMA ESTRADA DE FERRO ECON0MICA ENTRE ALAGOINHA NA PRIVÍNCIA DA BAHIA, E ITABAIANA NA DE SERGIPE."
+    },
+    {
+      "senadoId": "406697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-30-4918",
+      "titulo": "Decreto nº 4.918 de 30/03/1872",
+      "data": "1872-03-30",
+      "numero": "4918",
+      "urn": "urn:lex:br:federal:decreto:1872-03-30;4918",
+      "ementa": "PROROGO POR MAIS UM ANO O PRAZO FIXADO AO DESEMBARGADOR POLICARPO LOPES DE LEÃO PELO DECRETO NÚMERO 4523 DE 13 DE MAIO DE 1870 PARA LAVRA MINERAIS NA COMARCA DA CHAPADA, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "406693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-30-4917",
+      "titulo": "Decreto nº 4.917 de 30/03/1872",
+      "data": "1872-03-30",
+      "numero": "4917",
+      "urn": "urn:lex:br:federal:decreto:1872-03-30;4917",
+      "ementa": "CONCEDE A EMANUEL FRANK AUTORIZAÇÃO PARA INCORPORAR UMA COMPANHIA QUE SE DENOMINARA - ECONOMICA DE CONSUMO - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-30-4920",
+      "titulo": "Decreto nº 4.920 de 30/03/1872",
+      "data": "1872-03-30",
+      "numero": "4920",
+      "urn": "urn:lex:br:federal:decreto:1872-03-30;4920",
+      "ementa": "CONCEDE Á COMPANHIA DE SEGUROS MARITIMOS E TERRESTRES - CONFIANÇA - AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-30-4919",
+      "titulo": "Decreto nº 4.919 de 30/03/1872",
+      "data": "1872-03-30",
+      "numero": "4919",
+      "urn": "urn:lex:br:federal:decreto:1872-03-30;4919",
+      "ementa": "APROVA A TRANSFERÊNCIA FEITA PELO DR. JOAQUIM FLORIANO DE GODOY E JOÃO DA COSTA GOMES LEITÃO A DOMINGOS MOUTINHO, DO PRIVILÉGIO QUE OBTIVERAM PELO DECRETO NÚMERO 4.604 DE 234 DE SETEMBRO DE 1870, PARA A NAVEGAÇÃO A VAPOR DO RIO PARAIBA, NA PROVÍNCIA DE SÃO PAULO, E PRORROGA POR MAIS DOIS ANOS O PRAZO CONCEDIDO PARA O COMEÇO DOS TRABALHOS E POR 18 MESES O ESTABELECIDO PARA O DEPÓSITO."
+    },
+    {
+      "senadoId": "406660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4909",
+      "titulo": "Decreto nº 4.909 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4909",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4909",
+      "ementa": "DECLARA DE UTILIDADE PUBLICA A DESAPROPRIAÇÃO DO TERRENO COMPREENDIDO ENTRE AS MARINHA E O  LABORATORIO PIROTECNICO NO LUGAR DENOMINDO - ARMAÇÃO-, EM NITEROI."
+    },
+    {
+      "senadoId": "406652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4907",
+      "titulo": "Decreto nº 4.907 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4907",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4907",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CREDITO EXTRAORDINÁRIO DE 2.062:250§983, PARA OCORRER ÁS DESPEZAS DAS VERBAS - ARSENAES - E - PHAROES - DO EXERCÍCIO DE 1871 A 18772."
+    },
+    {
+      "senadoId": "406681",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4914",
+      "titulo": "Decreto nº 4.914 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4914",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4914",
+      "ementa": "CONCEDE AO ENGENHEIRO ANTONIO PULO DE MELO BARRETO AUTORIZAÇÃO PARA ORGANIZAR UMA COMPANHIA QUE AUTORIZAÇÃO PRA ORGANIZER UMA COMPANHIA QUE SE INCUMBA DE CONSTRUIR UMA ESTRADA DE FERRO ECONOMICA ENTRE A ESTAÇÃO DO PORTO NOVO DO CUNHA E SANTA RITA DE MEIA PATACA NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "406677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4913",
+      "titulo": "Decreto nº 4.913 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4913",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4913",
+      "ementa": "PROMULGA O TRATADO DE AMIZADE, COMERCIAL E NAVEGAÇÃO ENTRE O IMPÉRIO DO BRASIL E A REPUBLICA DO PARAGUAY."
+    },
+    {
+      "senadoId": "406668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4911",
+      "titulo": "Decreto nº 4.911 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4911",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4911",
+      "ementa": "PROMULGA O TRATADO DE LIMITES ENTRE O IMPÉRIO DO BRASIL E A REPUBLICA DO PARAGUAY."
+    },
+    {
+      "senadoId": "406664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4910",
+      "titulo": "Decreto nº 4.910 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4910",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4910",
+      "ementa": "PROMULGA O TRATADO DEFINITIVO DE PAZ ENTRE O IMPÉRIO DO BRASIL E A REPUBLICA DO PARAGUAY."
+    },
+    {
+      "senadoId": "406656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4908",
+      "titulo": "Decreto nº 4.908 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4908",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4908",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 1.714:961§946, PARA OS DESPESA DO MINISTÉRIO DA MARINHA NAS RUBRICAS - FORÇA NAVAL - E DESPEZAS EXTRAORDINARIAS E EVENTUAIS - DO EXERCÍCIO E 1871-72."
+    },
+    {
+      "senadoId": "406673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-27-4912",
+      "titulo": "Decreto nº 4.912 de 27/03/1872",
+      "data": "1872-03-27",
+      "numero": "4912",
+      "urn": "urn:lex:br:federal:decreto:1872-03-27;4912",
+      "ementa": "PROMULGA O TRATADO PARA A ENTREGA DE CRIMINOSOS E DESERTORES ENTRE O IMPÉRIO DO  BRASIL E REPUBLICA DO PARAGUAI."
+    },
+    {
+      "senadoId": "406648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-20-4906",
+      "titulo": "Decreto nº 4.906 de 20/03/1872",
+      "data": "1872-03-20",
+      "numero": "4906",
+      "urn": "urn:lex:br:federal:decreto:1872-03-20;4906",
+      "ementa": "MARCA OS VENCIMENTOS DOS CHEFES DE POLICIA QUE NÃO FOREM MAGISTRADOS."
+    },
+    {
+      "senadoId": "406637",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-16-4903",
+      "titulo": "Decreto nº 4.903 de 16/03/1872",
+      "data": "1872-03-16",
+      "numero": "4903",
+      "urn": "urn:lex:br:federal:decreto:1872-03-16;4903",
+      "ementa": "CONCEDE PRIVILÉGIO POR DEZ ANOS A WILLIAM PERRY O PARA INTRODUZIR NO IMPÉRIO O MACHINISMO DE US INVENÇÃO DENOMIDADO - STEAM DIGESTE."
+    },
+    {
+      "senadoId": "406630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-16-4901",
+      "titulo": "Decreto nº 4.901 de 16/03/1872",
+      "data": "1872-03-16",
+      "numero": "4901",
+      "urn": "urn:lex:br:federal:decreto:1872-03-16;4901",
+      "ementa": "CONCEDE Á COMPANHIA INGLEZA - THE LONDON AND LACASHIRE FIRE INSURANCE COMPANY - AUTORIZAÇÃO PARA ESTENDER SUAS OPERAÇÕES AO IMPÉRIO,"
+    },
+    {
+      "senadoId": "406634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-16-4902",
+      "titulo": "Decreto nº 4.902 de 16/03/1872",
+      "data": "1872-03-16",
+      "numero": "4902",
+      "urn": "urn:lex:br:federal:decreto:1872-03-16;4902",
+      "ementa": "CONCEDE A COMPANHIA HIDRAULICA RIO-GRANDENSE AUTORIAÇÃO  PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-16-4904",
+      "titulo": "Decreto nº 4.904 de 16/03/1872",
+      "data": "1872-03-16",
+      "numero": "4904",
+      "urn": "urn:lex:br:federal:decreto:1872-03-16;4904",
+      "ementa": "CONCEDE FAVORES AS FARICAS DE TECIDOS DE ALGODÕES QUE FOREM ESTABELECIDAS POR AUGUSTO FREIRE DE ANDRADE TAVARES E CALLOGERAS IRMÃO &C."
+    },
+    {
+      "senadoId": "406644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-16-4905",
+      "titulo": "Decreto nº 4.905 de 16/03/1872",
+      "data": "1872-03-16",
+      "numero": "4905",
+      "urn": "urn:lex:br:federal:decreto:1872-03-16;4905",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO NA CLAUSULA 2º DO DECRETO NÚMERO 4630 DE 28 DE NOVEMBRO DE 1870 AOS BACHAREIS JOSÉ FORTUNATO DA SILVEIRA BULCÃO E GERALDO DA GAMA BENTES."
+    },
+    {
+      "senadoId": "406618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-13-4898",
+      "titulo": "Decreto nº 4.898 de 13/03/1872",
+      "data": "1872-03-13",
+      "numero": "4898",
+      "urn": "urn:lex:br:federal:decreto:1872-03-13;4898",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO A FELIX EMILIO TAUNAY, PARA POR MOEIO DE UM COMPANHIA, QUE ORGANIZAR, CONSTRUIR E CUSTEAR UMA ESTRADA DE FERRO ENTRE O ANDARAHY PEQUENO E ALTO DA BOA VISTA DA TIJUCA."
+    },
+    {
+      "senadoId": "406622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-13-4899",
+      "titulo": "Decreto nº 4.899 de 13/03/1872",
+      "data": "1872-03-13",
+      "numero": "4899",
+      "urn": "urn:lex:br:federal:decreto:1872-03-13;4899",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DO INSTITUTO POLYTECHNICO BRASILEIRO."
+    },
+    {
+      "senadoId": "406626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-03-13-4900",
+      "titulo": "Decreto nº 4.900 de 13/03/1872",
+      "data": "1872-03-13",
+      "numero": "4900",
+      "urn": "urn:lex:br:federal:decreto:1872-03-13;4900",
+      "ementa": "ALTERA O DECRETO NÚMERO 4584 DE 31 DE AGOSTO DE 1870, E APROVA A NOVA  PLANTA PARA A CONSTRUÇÃO DE DOCAS E OUTRAS OBRAS DE MELHORAMENTO DO PORTO DE SANTOS, PROVÍNCIA DE S. PAULO, LEVANTADA PELO ENGENHEIRO R. P. BRERETON."
+    },
+    {
+      "senadoId": "406614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-29-4897",
+      "titulo": "Decreto nº 4.897 de 29/02/1872",
+      "data": "1872-02-29",
+      "numero": "4897",
+      "urn": "urn:lex:br:federal:decreto:1872-02-29;4897",
+      "ementa": "CONCEDE A COMPANHIA DE SEGUROS MARITIMOS E TERESTRES - PERSEVERANÇA - AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPETIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-29-4896",
+      "titulo": "Decreto nº 4.896 de 29/02/1872",
+      "data": "1872-02-29",
+      "numero": "4896",
+      "urn": "urn:lex:br:federal:decreto:1872-02-29;4896",
+      "ementa": "ALTERA AS DISPOSIÇÕES DOS PARAGRAFOS 3, 9 E 10 DO ARTIGO 10 DO REGULAMENTO A QUE SER E REFERE O DECRETO 4.679 DE 17 DE JANEIRO DE 1871."
+    },
+    {
+      "senadoId": "406606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-22-4895",
+      "titulo": "Decreto nº 4.895 de 22/02/1872",
+      "data": "1872-02-22",
+      "numero": "4895",
+      "urn": "urn:lex:br:federal:decreto:1872-02-22;4895",
+      "ementa": "CONCEDE A JOÃO BAPTISTA VIANNA DRUMMOND E OUTROS AUTORIZAÇÃO PARA ESTABELECEREM UM LINHA DE TRILHOS URBANOS ENTRE ESTA CORTE E OS BAIRROS DE ANDARAHY GRANDE, ENGENHO NOVO E S. FRANCISCO XAVIER."
+    },
+    {
+      "senadoId": "406602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-22-4894",
+      "titulo": "Decreto nº 4.894 de 22/02/1872",
+      "data": "1872-02-22",
+      "numero": "4894",
+      "urn": "urn:lex:br:federal:decreto:1872-02-22;4894",
+      "ementa": "CONCEDE PRIVILÉGIO A MANOEL FRANK PRA O ESTABELECIMENTO DE UMA GRANDE FABRICA DE PAPEL NO IMPÉRIO."
+    },
+    {
+      "senadoId": "406590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-21-4891",
+      "titulo": "Decreto nº 4.891 de 21/02/1872",
+      "data": "1872-02-21",
+      "numero": "4891",
+      "urn": "urn:lex:br:federal:decreto:1872-02-21;4891",
+      "ementa": "SEPARA O TERMO DE ANGICOS DOS DA PRICEZA E SANTA ANA, NA PROVÍNCIA DO RIO GRANDE DO NORTE, E CRIA NELE , REUNIDOS AO DE MACÃO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORPHÃO."
+    },
+    {
+      "senadoId": "406598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-21-4893",
+      "titulo": "Decreto nº 4.893 de 21/02/1872",
+      "data": "1872-02-21",
+      "numero": "4893",
+      "urn": "urn:lex:br:federal:decreto:1872-02-21;4893",
+      "ementa": "AUTORIZA A CONSTRUÇÃO DE UM ESTADA DE FERRO ECONOMICA QUE PARTIRÁ DA CIDADE DE REZENDE, NA PROVÍNCIA DO RIO DE JANEIRO, Á DE ARÉAS, NA DE S.PAULO."
+    },
+    {
+      "senadoId": "406594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-21-4892",
+      "titulo": "Decreto nº 4.892 de 21/02/1872",
+      "data": "1872-02-21",
+      "numero": "4892",
+      "urn": "urn:lex:br:federal:decreto:1872-02-21;4892",
+      "ementa": "SEPARA O TERMO DE GOIANINHA DOS DE S. JOSE DE MIPIBÚ E FLÔR, NA PROVÍNCIA DO RIO GRANDE O NORTE, E CRIA NELE, REUNIDO AO DE CANGUARETAMA, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARA AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "406586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-14-4890",
+      "titulo": "Decreto nº 4.890 de 14/02/1872",
+      "data": "1872-02-14",
+      "numero": "4890",
+      "urn": "urn:lex:br:federal:decreto:1872-02-14;4890",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DE ALGUMAS DAS COMARCAS DA PROVÍNCIAS DE S. PAULO."
+    },
+    {
+      "senadoId": "406582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-07-4889",
+      "titulo": "Decreto nº 4.889 de 07/02/1872",
+      "data": "1872-02-07",
+      "numero": "4889",
+      "urn": "urn:lex:br:federal:decreto:1872-02-07;4889",
+      "ementa": "APROVA O REGULMENTO QUE FIXA AS AJUDAS DE CUSTO PARA TRANSPORTE DOS SACERDOTES ELEITOS E CONFIRMADOS BISPO."
+    },
+    {
+      "senadoId": "406578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-05-4888",
+      "titulo": "Decreto nº 4.888 de 05/02/1872",
+      "data": "1872-02-05",
+      "numero": "4888",
+      "urn": "urn:lex:br:federal:decreto:1872-02-05;4888",
+      "ementa": "CONCEDE A COMPANHA INGLESA - THE SOUTH BRASILIAN RAIWAY LIMITED -, NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "406570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-05-4886",
+      "titulo": "Decreto nº 4.886 de 05/02/1872",
+      "data": "1872-02-05",
+      "numero": "4886",
+      "urn": "urn:lex:br:federal:decreto:1872-02-05;4886",
+      "ementa": "CONCEDE A COMPANHIA - LUZ STEARICA - PRIVILEGIO POR CINCO ANOS PARA CONTINUAR A USAR DOS MELHORAMENTOS INTRODUZIDOS NO FABRICO DAS VELAS DE STEARINA E DESCRINTOS NO DECRETO 723 DE 29 DE OUTUBRO DE 1850."
+    },
+    {
+      "senadoId": "406566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-05-4885",
+      "titulo": "Decreto nº 4.885 de 05/02/1872",
+      "data": "1872-02-05",
+      "numero": "4885",
+      "urn": "urn:lex:br:federal:decreto:1872-02-05;4885",
+      "ementa": "MANDA OBSERVAR AS TABELAS DOS VENCIMENTOS DOS OFICIAES DA ARMADA E DAS DIFERENTE CLASSES ANEXAS, DE CONFORMIDADE COM OS PARÁGRAFOS 3.º E 4º DO ARTIGO 4º DA LEI NÚMERO 1997 DE 13 DE AGOSTO DE 1871."
+    },
+    {
+      "senadoId": "406574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-05-4887",
+      "titulo": "Decreto nº 4.887 de 05/02/1872",
+      "data": "1872-02-05",
+      "numero": "4887",
+      "urn": "urn:lex:br:federal:decreto:1872-02-05;4887",
+      "ementa": "CONCEDE Á COMPANHIA FLORESTAL PARANAENSE AUTORIZAÇÃO PARA FUNCIONAR E APROVAÇÃO DE SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "406562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-01-4884",
+      "titulo": "Decreto nº 4.884 de 01/02/1872",
+      "data": "1872-02-01",
+      "numero": "4884",
+      "urn": "urn:lex:br:federal:decreto:1872-02-01;4884",
+      "ementa": "AUTORIZA A SOCIEDADE BENEFICIENTE DEZOITO DE JULHO PARA FUNCIONAR, E APROVAR OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-01-4883",
+      "titulo": "Decreto nº 4.883 de 01/02/1872",
+      "data": "1872-02-01",
+      "numero": "4883",
+      "urn": "urn:lex:br:federal:decreto:1872-02-01;4883",
+      "ementa": "DIVIDE O MUNICÍPIO DE CORTE EM DOIS DISTRITOS ESPECIAL PARA O EXERCÍCIO DAS ATRIBUIÇÕES DOS PROMOTORES PUBLICOS."
+    },
+    {
+      "senadoId": "406554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-02-01-4882",
+      "titulo": "Decreto nº 4.882 de 01/02/1872",
+      "data": "1872-02-01",
+      "numero": "4882",
+      "urn": "urn:lex:br:federal:decreto:1872-02-01;4882",
+      "ementa": "FIXA O MODO POR QUE DEVEM SER OBSERVADAS AS DISPOSIÇÕES DOS ARTIGO 842 E 847 DO CONDIGO COMERCIAL E REVOGA O ARTIGO 1.º DO DECRETO NÚMERO 1368 DE 18 DE ABRIL DE 1854 E O ARTIGO 69 DO DECRETO NÚMERO 1597 DO 1º DE MAIO DE 1855."
+    },
+    {
+      "senadoId": "406542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-31-4879",
+      "titulo": "Decreto nº 4.879 de 31/01/1872",
+      "data": "1872-01-31",
+      "numero": "4879",
+      "urn": "urn:lex:br:federal:decreto:1872-01-31;4879",
+      "ementa": "FAZ VARIAS ALTERAÇÕES NOS ESTATUTOS APROVADOS PARA O BANCO NACIONAL."
+    },
+    {
+      "senadoId": "406546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-31-4880",
+      "titulo": "Decreto nº 4.880 de 31/01/1872",
+      "data": "1872-01-31",
+      "numero": "4880",
+      "urn": "urn:lex:br:federal:decreto:1872-01-31;4880",
+      "ementa": "ALTERA A TABELA DAS PORCENTAGENS DOS EMPREGADOS DA ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "406550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-31-4881",
+      "titulo": "Decreto nº 4.881 de 31/01/1872",
+      "data": "1872-01-31",
+      "numero": "4881",
+      "urn": "urn:lex:br:federal:decreto:1872-01-31;4881",
+      "ementa": "APROVA, COM MODITIFICAÇÕES, OS ESTATUTOS DA SOCIEDADE ANONIMA DENOMINADA - ASSOCIAÇÃO ECONÔMICA AUXILIAR -, QUE SE PRETENDE ESTABELECER NESTA CORTE."
+    },
+    {
+      "senadoId": "406538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-26-4878",
+      "titulo": "Decreto nº 4.878 de 26/01/1872",
+      "data": "1872-01-26",
+      "numero": "4878",
+      "urn": "urn:lex:br:federal:decreto:1872-01-26;4878",
+      "ementa": "CONCEDE AO CORPO CAPITULAR DA DIOCESE DE OLINDA O USO DE DISTINTIVOS DE COR ROXA."
+    },
+    {
+      "senadoId": "406534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-24-4877",
+      "titulo": "Decreto nº 4.877 de 24/01/1872",
+      "data": "1872-01-24",
+      "numero": "4877",
+      "urn": "urn:lex:br:federal:decreto:1872-01-24;4877",
+      "ementa": "DECLARA DE UTILIDADE PUBLICA MUNICIPAL A DESAPROPRIAÇÃO DOS TERRENOS, PREDIOS E BENFEITORIAS QUE FOREM NECESSARIOS PARA ABERTURA DA RUA PROJETADA, EM CONTINUAÇÃO A DA TRAVESSA DE S. FRANCISCO DE PAULA, ENTRE AS DE SETE DE SETEMBRO E DA CARIOCA."
+    },
+    {
+      "senadoId": "406526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-24-4875",
+      "titulo": "Decreto nº 4.875 de 24/01/1872",
+      "data": "1872-01-24",
+      "numero": "4875",
+      "urn": "urn:lex:br:federal:decreto:1872-01-24;4875",
+      "ementa": "APROVA AS ALTERAÇÃO FEITAS NO ESTATUDOS DA COMPANHIA - EMPRESA PREDIAL."
+    },
+    {
+      "senadoId": "406530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-24-4876",
+      "titulo": "Decreto nº 4.876 de 24/01/1872",
+      "data": "1872-01-24",
+      "numero": "4876",
+      "urn": "urn:lex:br:federal:decreto:1872-01-24;4876",
+      "ementa": "REVALIDA A CONCESSÃO FEITA A JOSÉ BERNADO TEIXEIRA POR DECRETO NÚMERO    3779 DE 12 DE JANEIRO DE 1867, QUE LHE DEU PERMISSÃO PARA LAVRA MINAS DE OURO, SODA, CHUMBO E OUTROS MINERAIS NA COMARCA DO IPÚ, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "406510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4871",
+      "titulo": "Decreto nº 4.871 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4871",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4871",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DE CONGUARETAMA E MACÃO, CRIADAS NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "406518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4873",
+      "titulo": "Decreto nº 4.873 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4873",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4873",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PUBLICO DA COMARCA DA VIGIA, CRIADA NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "406502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4869",
+      "titulo": "Decreto nº 4.869 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4869",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4869",
+      "ementa": "ALTERA A CLASSIFACAÇÃO DE ALGUMAS DAS COMARCAS DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "406514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4872",
+      "titulo": "Decreto nº 4.872 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4872",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4872",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PUBLICOS DAS COMARCAS  DE NOVA FRIBURGO, S. FIDELIS, ARARUAMA, IGUASSU E PIRAHY), CRIADAS NA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "406498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4868",
+      "titulo": "Decreto nº 4.868 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4868",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4868",
+      "ementa": "ALTERA A CLASSIFICAÇÃO DAS COMARCAS DA PROVÍNCIA DO RIO DE JANEIRO, E DECLARA, E APROVA OS REPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4870",
+      "titulo": "Decreto nº 4.870 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4870",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4870",
+      "ementa": "DECLARA DE SEGUNDA ENTRANCIA A COMARCA DA VIGIA CREADO NO PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "406522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-19-4874",
+      "titulo": "Decreto nº 4.874 de 19/01/1872",
+      "data": "1872-01-19",
+      "numero": "4874",
+      "urn": "urn:lex:br:federal:decreto:1872-01-19;4874",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PUBLICOS DAS COMARCAS DE CANGUARETAMA E MACÃO, CRIADAS NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "406494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-12-4867",
+      "titulo": "Decreto nº 4.867 de 12/01/1872",
+      "data": "1872-01-12",
+      "numero": "4867",
+      "urn": "urn:lex:br:federal:decreto:1872-01-12;4867",
+      "ementa": "AUTORIZA A ASSOCIAÇÃO PORTUGUEZA - MEMORIA DE D. PEDRO V - PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUDOS."
+    },
+    {
+      "senadoId": "406478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-02-4863",
+      "titulo": "Decreto nº 4.863 de 02/01/1872",
+      "data": "1872-01-02",
+      "numero": "4863",
+      "urn": "urn:lex:br:federal:decreto:1872-01-02;4863",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO PARA COMERÇO DOS TRABALHOS DE EXPLORAÇÃO DA ESTRADA DE FERRO ENTRE O PONTO TEMINAL DA 4 SECÇÃO DA DE D. PEDRO II E O MUNICIPIO DE ITAJUBA NA PROVINCIA DE MINAIS GERAIS."
+    },
+    {
+      "senadoId": "406470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-02-4861",
+      "titulo": "Decreto nº 4.861 de 02/01/1872",
+      "data": "1872-01-02",
+      "numero": "4861",
+      "urn": "urn:lex:br:federal:decreto:1872-01-02;4861",
+      "ementa": "FIXA O NUMERO DAS SESSÕES DO JURY."
+    },
+    {
+      "senadoId": "406482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-02-4864",
+      "titulo": "Decreto nº 4.864 de 02/01/1872",
+      "data": "1872-01-02",
+      "numero": "4864",
+      "urn": "urn:lex:br:federal:decreto:1872-01-02;4864",
+      "ementa": "AUTORIZA A ASSOCIAÇÃO MUNICIPAL PROTETORA DA INSTRUÇÃO DA INFÂNCIA DESVALIDA PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-02-4865",
+      "titulo": "Decreto nº 4.865 de 02/01/1872",
+      "data": "1872-01-02",
+      "numero": "4865",
+      "urn": "urn:lex:br:federal:decreto:1872-01-02;4865",
+      "ementa": "PRORROGA O PRAZO FIXADO AO VISCONDE DE BARBACENA PARA A ORGANIZAÇÃO DA COMPANHIA DESTINADA A LAVRA AS MINAS DE CARVÃO DE PEDRA NAS MARGENS DO PASSA-DOUS, NA PROVÍNCIA DE SANTA CATHARIANA."
+    },
+    {
+      "senadoId": "406490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-02-4866",
+      "titulo": "Decreto nº 4.866 de 02/01/1872",
+      "data": "1872-01-02",
+      "numero": "4866",
+      "urn": "urn:lex:br:federal:decreto:1872-01-02;4866",
+      "ementa": "AUTORIZA A COMPANHIA INGLESA - THE NORTH BRITISH AND MERCANTILE INSURANCE COMPANY - A FUNCIONAR  NA PRAÇA DE SANTOS."
+    },
+    {
+      "senadoId": "406474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1872-01-02-4862",
+      "titulo": "Decreto nº 4.862 de 02/01/1872",
+      "data": "1872-01-02",
+      "numero": "4862",
+      "urn": "urn:lex:br:federal:decreto:1872-01-02;4862",
+      "ementa": "AUTORIZA AGUMENTOS DE CRÉDITO NA IMPORTÂNCIA DE 60:200$, PARA DESPEZAS DA CAMARA MUNICIPAL DA CORTE NO EXERCÍCIO DE 1871, TIRADOS DO EXCESSO VERIFICANDO SOBRE A RENDA ORÇADA PELO DECRETO NÚMERO 4661 A DE 31 DE DEZEMBRO DE 1870."
+    }
+  ],
+  "pendencias": []
+}

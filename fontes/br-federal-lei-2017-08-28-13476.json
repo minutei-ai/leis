@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-08-28-13476",
+  "titulo": "Lei nº 13.476 de 28/08/2017",
+  "data": "2017-08-28",
+  "fonte": "https://normas.leg.br/api/public/binario/8c37aaf5-99b4-45a1-a99d-a8f906863dfa/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-08-28;13476",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-08-28%3B13476&tipo_documento=maior-detalhe",
+  "sha256_dados": "c68c537f85dbf34aba39898a90e064527fbd5d6e3e0c684e9bd71304ba72e8d9",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:44.062Z",
+  "sha256_fonte": "4aab014c3ed8a3436f69455ba1e55778ce60da02b5241acd121acc699633a537",
+  "sha256_markdown": "20f3faf059254dfa15a249bcb03cc77be34fc8eb2852a6603732ecc5645ea0f7"
+}

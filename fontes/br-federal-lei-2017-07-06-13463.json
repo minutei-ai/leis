@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-07-06-13463",
+  "titulo": "Lei nº 13.463 de 06/07/2017",
+  "data": "2017-07-06",
+  "fonte": "https://normas.leg.br/api/public/binario/7278d524-bef6-4743-9ecc-d58c4dedd893/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-07-06;13463",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-07-06%3B13463&tipo_documento=maior-detalhe",
+  "sha256_dados": "4b9ceebf75f40950c6172e060aa4274d0dc3550aa1fa93e0a2ba8c84eb718747",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:00.254Z",
+  "sha256_fonte": "aeb142f1b877f55666504800f78a4ba39d519b6d9586919d74591161319fa816",
+  "sha256_markdown": "62614b486e6ef8415a0ef4f04f7c6e2b680c3e864dabbe6b669c1b801ce7059e"
+}

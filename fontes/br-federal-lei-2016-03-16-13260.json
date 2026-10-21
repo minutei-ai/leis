@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-03-16-13260",
+  "titulo": "Lei nº 13.260 de 16/03/2016",
+  "data": "2016-03-16",
+  "fonte": "https://normas.leg.br/api/public/binario/f7fe9ea4-e959-44c2-89d1-13685e7e4a83/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-03-16;13260",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-03-16%3B13260&tipo_documento=maior-detalhe",
+  "sha256_dados": "7179c870995f683fd34ddfc70909ac8df26c90e1402febeea6f4d2934f60536c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:34.198Z",
+  "sha256_fonte": "04f3fb0cc271057402f0824ba5e37f5cfebec3258ea5e1f60749a93ecb654647",
+  "sha256_markdown": "99a8d5b3b6a64d3361d7e928688a42c3dc12a893714b1e308c0ddc85cd0dff93"
+}

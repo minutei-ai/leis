@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-09-21-13483",
+  "titulo": "Lei nº 13.483 de 21/09/2017",
+  "data": "2017-09-21",
+  "fonte": "https://normas.leg.br/api/public/binario/cb7addaf-07ae-4f97-b135-ffbb67d101f0/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-09-21;13483",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-09-21%3B13483&tipo_documento=maior-detalhe",
+  "sha256_dados": "cfd6d7c85e22d80b28bd00ac20c8abbca3a60009ef99e99ae78834e4e3008fda",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:33.674Z",
+  "sha256_fonte": "41bc9282f18e9858a160fdceeed30807966a243ced5a2130573cc92e917c258c",
+  "sha256_markdown": "35361ad92e4c44583a5ffc5c0165d4468f64bcb6b6fe31144e3c82bdb06dd96d"
+}

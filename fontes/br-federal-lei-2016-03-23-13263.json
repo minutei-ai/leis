@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-03-23-13263",
+  "titulo": "Lei nº 13.263 de 23/03/2016",
+  "data": "2016-03-23",
+  "fonte": "https://normas.leg.br/api/public/binario/964fbd8a-1422-4090-8783-4aa5e02256c7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-03-23;13263",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-03-23%3B13263&tipo_documento=maior-detalhe",
+  "sha256_dados": "37e3b510e282f01818764fcbf320b7bab63474844da2ba9d8dc8e523d4bafce5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:30.322Z",
+  "sha256_fonte": "c6c8b2c3aeae268dd1b36170b36f6625fdeb6ad7f7bf680053746c340c2be4fd",
+  "sha256_markdown": "c2890fa9a01fbe6990147c6cc7e3e8d883f8b707b4fd1606827cb4058d36c258"
+}

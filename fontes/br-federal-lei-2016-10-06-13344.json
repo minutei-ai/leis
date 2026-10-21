@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-10-06-13344",
+  "titulo": "Lei nº 13.344 de 06/10/2016",
+  "data": "2016-10-06",
+  "fonte": "https://normas.leg.br/api/public/binario/e15e4f45-4483-4d51-bed6-56497ac1a318/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-10-06;13344",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-10-06%3B13344&tipo_documento=maior-detalhe",
+  "sha256_dados": "65fc25fc891869090c22284ce298baf6d03100bc674aec5f98d144913a501e0f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:34.625Z",
+  "sha256_fonte": "68ba75c5015d9880fe219582f62f6a7e041280b84813d3532e4c4ee46cb955e5",
+  "sha256_markdown": "3645c8150117068e88651f1dd9072e7b14ef9b8d4d5d71c9abc458e15cf7fc2a"
+}

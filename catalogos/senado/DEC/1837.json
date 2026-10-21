@@ -1,0 +1,380 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1837",
+  "tipo": "DEC",
+  "ano": 1837,
+  "coletado_em": "2026-10-21T08:53:00.866Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "572204",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 20/10/1837",
+      "dataassinatura": "20/10/1837",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVINCIA DO RIO GRANDE DO SUL, A POR EM EXECUÇÃO OS PARAGRAFOS 1 A 3 DO ARTIGO 1 DA LEI 40 DE 11 DE OUTUBRO DE 1836 DE SUSPENSÃO DE GARANTIAS."
+    },
+    {
+      "id": "572203",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 15/10/1837",
+      "dataassinatura": "15/10/1837",
+      "ementa": "DANDO REGULAMENTO PARA OS COMISSARIOS ALISTADORES E DESIGNADORES DOS GUARDAS NACIONAIS QUE DEVEM FORMAR OS CORPOS DESTACADOS, E OUTRAS DISPOSIÇÕES."
+    },
+    {
+      "id": "572202",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 13/10/1837",
+      "dataassinatura": "13/10/1837",
+      "ementa": "MANDANDO ESTABELECER DEPOSITOS DE RECRUTAS EM ALGUMAS PROVINCIAS, E OUTRAS PROVIDENCIAS A RESPEITO."
+    },
+    {
+      "id": "572207",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  B de 13/10/1837",
+      "dataassinatura": "13/10/1837",
+      "ementa": "MANDANDO OBSERVAR O DE 9 DE DEZEMBRO DE 1833 SOBRE O HOSPITAL DA MARINHA E REVOGAR O DE 3 DE AGOSTO DESTE ANO."
+    },
+    {
+      "id": "587906",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 09/09/1837",
+      "dataassinatura": "09/09/1837",
+      "ementa": "ALTERA A DISPOSIÇÃO DO ARTIGO 10, TITULO 1, DO REGIMENTO CONSULAR DE QUATORZE DE ABRIL DE MIL OITOCENTOS TRINTA E QUATRO, E MANDA EXECUTAR A TABELA ABAIXO, DA MESMA DATA."
+    },
+    {
+      "id": "587905",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 03/08/1837",
+      "dataassinatura": "03/08/1837",
+      "ementa": "MANDANDO SUBSTITUIR ALGUNS ARTIGOS DO REGULAMENTO DO HOSPITAL DA MARINHA DA CORTE DE 9 DE DEZEMBRO DE 1833."
+    },
+    {
+      "id": "587904",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 05/06/1837",
+      "dataassinatura": "05/06/1837",
+      "ementa": "SUPRIME OS LUGARES DE INTERPRETE, CONTINUO E MEIRINHO DA COMISSÃO MISTA BRASILEIRA E INGLESA NESTA CORTE."
+    },
+    {
+      "id": "587903",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 29/03/1837",
+      "dataassinatura": "29/03/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCER O CARGO DE VICE-PRESIDENTE DA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "id": "587902",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 18/02/1837",
+      "dataassinatura": "18/02/1837",
+      "ementa": "FAZENDO MERCE A FRANCISCO DE MELLO FRANCO DA SERVENTIA VITALICIA DO OFICIO DE ESCRIVÃO DA PROVEDORIA DAS CAPELAS E RESIDUOS DA CORTE, FICANDO DESLIGADA DO DITO OFICIO A PROVEDORIA DOS DEFUNTOS E AUSENTES, A QUAL PASSARA PARA O JUIZO DOS ORFÃOS CONFORME OS ARTIGOS 1 E 3 DA LEI DE 3 NOVEMBRO DE 1830."
+    },
+    {
+      "id": "587901",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 18/01/1837",
+      "dataassinatura": "18/01/1837",
+      "ementa": "CRIA UMA CADEIRA DE PRIMEIRAS LETRAS PARA MENINAS NA FREGUESIA DA GLORIA E MARCA O ORDENADO DA PROFESSORA."
+    },
+    {
+      "id": "587900",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 01/01/1837",
+      "dataassinatura": "01/01/1837",
+      "ementa": "ELEVA A 500$ RS. ANUAIS O ORDENADO DAS CADEIRAS PUBLICAS DE PRIMEIRAS LETRAS PARA MENINAS DO MUNICIPIO DA CORTE."
+    },
+    {
+      "id": "570654",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/12/1837",
+      "dataassinatura": "30/12/1837",
+      "ementa": "COM O REGULAMENTO PARA A FISCALIZAÇÃO DO CAFE NO TRAPICHE DA ORDEM."
+    },
+    {
+      "id": "570653",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/12/1837",
+      "dataassinatura": "29/12/1837",
+      "ementa": "REGULANDO O MODO DA ADMISSÃO DOS APRENDIZES MENORES NAS OFICINAS DO ARSENAL DE GUERRA, E OUTRAS DISPOSIÇÕES A RESPEITO."
+    },
+    {
+      "id": "570652",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/12/1837",
+      "dataassinatura": "02/12/1837",
+      "ementa": "CONVERTENDO O SEMINARIO DE SÃO JOAQUIM EM COLÉGIO DE INSTRUÇÃO SECUNDARIA, COM A DENOMINAÇÃO DE COLEGIO DE PEDRO II, E OUTRAS DISPOSIÇÕES."
+    },
+    {
+      "id": "570651",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/11/1837",
+      "dataassinatura": "29/11/1837",
+      "ementa": "DECLARANDO O MODO DE APRESENTAR OS EMBARGOS NAS CAUSAS DE PRESAS, SEGUNDO A LEI DE 4 DE DEZEMBRO DE 1830, QUE ORDENOU QUE OS EMBARGOS SEJAM APRESENTADOS  PERANTE AS AUTORIDADES CUJOS AUTOS SE EMBARGAM."
+    },
+    {
+      "id": "570650",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/11/1837",
+      "dataassinatura": "28/11/1837",
+      "ementa": "DANDO REGULAMENTO PARA A EXECUÇÃO DOS ARTIGOS 8, 9, 10 E 11, DA LEI DE 11 DE OUTUBRO DESTE ANO, NUMERO 109."
+    },
+    {
+      "id": "570649",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/11/1837",
+      "dataassinatura": "08/11/1837",
+      "ementa": "PRORROGA POR DOIS ANOS A FACULDADE CONCEDIDA POR DECRETO DE 27 DE JULHO DE 1835 AO CONEGO ANTONIO FERNANDES DA SILVEIRA, PARA ESTABELECER UMA COMPANHIA DE MINERAÇÃO NAS SERRAS DE ITABAIANA GRANDE E CANIDE DA PROVINCIA DE SERGIPE."
+    },
+    {
+      "id": "570648",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/10/1837",
+      "dataassinatura": "25/10/1837",
+      "ementa": "CONCEDE AO BARÃO DE JAGUARARI O PRIVILEGIO EXCLUSIVO POR 10 ANOS PARA A NAVEGAÇÃO POR VAPOR ENTRE A CAPITAL DA PROVINCIA DO PARA E A ILHA DE MARAJO."
+    },
+    {
+      "id": "570647",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/10/1837",
+      "dataassinatura": "21/10/1837",
+      "ementa": "DA NOVO PLANO PARA A EXTRAÇÃO DAS LOTERIAS."
+    },
+    {
+      "id": "570646",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/10/1837",
+      "dataassinatura": "20/10/1837",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA REPUBLICA DA PROVINCIA DO PARA A POR EM EXECUÇÃO OS PARAGRAFOS 1 A 3 DO ARTIGO 1 DA LEI DE 22 DE SETEMBRO  DE 1835, DE SUSPENSÃO DE GARANTIAS PARA A MESMA PROVINCIA."
+    },
+    {
+      "id": "570645",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/10/1837",
+      "dataassinatura": "17/10/1837",
+      "ementa": "ALTERA O PRAZO MARCADO PARA COMEÇO DA NAVEGAÇÃO POR VAPOR ENTRE ESTA CORTE E OS PRINCIPAIS PORTOS DO IMPERIO DO NORTE."
+    },
+    {
+      "id": "570644",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/10/1837",
+      "dataassinatura": "15/10/1837",
+      "ementa": "MANDANDO DESTACAR GUARDAS NACIONAIS EM DIVERSAS PROVINCIAS, SENDO ORGANIZADOS OS CORPOS E COMPANHIAS CONFORME O PLANO ANEXO, E DANDO OUTRAS PROVIDENCIAS A RESPEITO."
+    },
+    {
+      "id": "570643",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/10/1837",
+      "dataassinatura": "13/10/1837",
+      "ementa": "REGULANDO O MODO DE PROVEDER AO RECRUTAMENTO, DE VERIFICAR A SUBSTITUIÇÃO DOS RECRUTADOS E DA ARRECADAÇÃO DA QUANTIA EXIGIDA PARA O CASO DA ISENÇÃO."
+    },
+    {
+      "id": "570642",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/09/1837",
+      "dataassinatura": "27/09/1837",
+      "ementa": "PRORROGANDO ATE 15 DE OUTUBRO A SESSÃO DA ASSEMBLEIA GERAL LEGISLATIVA."
+    },
+    {
+      "id": "570641",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/09/1837",
+      "dataassinatura": "24/09/1837",
+      "ementa": "REVOGANDO O DE 18 DE MARÇO DESTE ANO, SOBRE OS PROCESSOS E SENTENÇAS NOS CRIMES, POR ABUSO DE LIBERDADE DE IMPRENSA."
+    },
+    {
+      "id": "570640",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/09/1837",
+      "dataassinatura": "22/09/1837",
+      "ementa": "INSTAURANDO NO MUNICIPIO DA CORTE A OBSERVANCIA DOS DECRETOS DE 3 DE OUTUBRO DE 1833, DE 23 DE ABRIL DE 1835, E REVOGANDO OS DE 18 DE FEVEREIRO, E 2 DE MAIO DO PRESENTE ANO."
+    },
+    {
+      "id": "570639",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 14/09/1837",
+      "dataassinatura": "14/09/1837",
+      "ementa": "CONCEDE A COMPANHIA DE ONIBUS PRIVILEGIO EXCLUSIVO POR DEZ ANOS PARA O ESTABELECIMENTO NESTA CIDADE DE CARROS DESTINADOS AO TRANSPORTE DE PASSAGEIROS, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "id": "570638",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/09/1837",
+      "dataassinatura": "13/09/1837",
+      "ementa": "PERMITINDO A NOMEAÇÃO DE MAIS UM AJUDANTE DA INSPEÇÃO DO ARSENAL DA BAHIA."
+    },
+    {
+      "id": "570637",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/09/1837",
+      "dataassinatura": "09/09/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCEREM O CARGO DE VICE-PRESIDENTE DA PROVINCIA DE GOIAS."
+    },
+    {
+      "id": "570636",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/09/1837",
+      "dataassinatura": "05/09/1837",
+      "ementa": "CONCEDENDO AOS EMPREGADOS CIVIS DO ARSENAL DE MARINHA DA BAHIA, OS MESMOS VENCIMENTOS DE QUE GOZÃO OS DO ARSENAL DA CORTE."
+    },
+    {
+      "id": "570635",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/09/1837",
+      "dataassinatura": "01/09/1837",
+      "ementa": "PRORROGANDO POR MAIS UM MES A PRESENTE SESSÃO DA ASSEMBLEIA GERAL LEGISLATIVA."
+    },
+    {
+      "id": "570634",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 14/08/1837",
+      "dataassinatura": "14/08/1837",
+      "ementa": "NOMEANDO A COMISSÃO PARA ORGANIZAR A PAUTA DAS ALFANDEGAS."
+    },
+    {
+      "id": "570633",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/08/1837",
+      "dataassinatura": "03/08/1837",
+      "ementa": "ADICIONA E EXPLICA O ARTIGO 9 DO CONTRATO CELEBRADO EM TRINTA E UM DE MARÇO DESTE ANO, PARA A NAVEGAÇÃO A VAPOR ENTRE ESTA CORTE E OS PRINCIPAIS PORTOS DO IMPERIO AO NORTE."
+    },
+    {
+      "id": "570632",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/08/1837",
+      "dataassinatura": "02/08/1837",
+      "ementa": "CONCEDE A SOCIEDADE AUXILIADORA DA INDUSTRIA NACIONAL, POR ESPAÇO DE 10 ANOS PRORROGAVEIS, O USO-FRUTO DOS TERRENOS ADJACENTES AO JARDIM BOTANICO DA LAGOA DE RODRIGO DE FREITAS, PELO LADO DO SUL, E OS EDIFICIOS NELE COMPREENDIDOS, PARA O ESTABELECIMENTO DE UMA ESCOLA NORMAL DE AGRICULTURA."
+    },
+    {
+      "id": "570631",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/07/1837",
+      "dataassinatura": "01/07/1837",
+      "ementa": "MANDANDO OBSERVAR, COM FORÇA DE REGULAMENTO, O PLANO DA NOVA ORGANIZAÇÃO, SERVIÇO, DISCIPLINA E INSTRUÇÃO QUE DEVEM TER AS QUATRO COMPANHIAS FIXAS DE MARINHEIROS."
+    },
+    {
+      "id": "570630",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/06/1837",
+      "dataassinatura": "21/06/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCEREM O CARGO DE VICE-PRESIDENTE DA PROVINCIA DE SERGIPE."
+    },
+    {
+      "id": "570629",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/06/1837",
+      "dataassinatura": "05/06/1837",
+      "ementa": "MANDANDO POR A DISPOSIÇÃO DE D. JOSE DELEVAR Y RINCON, ENCARREGADO DE NEGOCIOS DE ESPANHA A QUANTIA DE TRINTA E DOIS CONTOS DE REIS, IMPORTANCIA DE UMA RECLAMAÇÃO, RELATIVA AO BERGANTIM ANDERS, JULGANDO MA PRESA, E MANDANDO RESTITUIR COM INDENIZAÇÕES, PELO DECRETO DE GRAÇA ESPECIALISSIMA DE 21 DE MAIO DE 1828."
+    },
+    {
+      "id": "570628",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/05/1837",
+      "dataassinatura": "10/05/1837",
+      "ementa": "COM A TABELA PARA ORGANIZAÇÃO DA RECEBEDORIA DO MUNICIPIO DA CORTE."
+    },
+    {
+      "id": "570627",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/05/1837",
+      "dataassinatura": "02/05/1837",
+      "ementa": "DECLARANDO QUE AS NOMEAÇÕES DOS BACHAREIS, NA FORMA DO DECREETO DE 18 DE FEVEREIRO DO CORRENTE ANO, DEVE-SE ENTENDER PELA AUSÊNCIA OU MOLESTIA DOS JUIZES DE DIREITO."
+    },
+    {
+      "id": "570626",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/04/1837",
+      "dataassinatura": "24/04/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCEREM O CARGO DE VICE-PRESIDENTE DA PROVINCIA DE SANTA CATARINA."
+    },
+    {
+      "id": "570625",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/03/1837",
+      "dataassinatura": "31/03/1837",
+      "ementa": "APROVANDO OS ARTIGOS DO CONTRATO ANEXO, CELEBRADO NESTA DATA COM JOÃO TARRAND THOMAS PARA O ESTABELECIMENTO DE PAQUETES DE VAPOR."
+    },
+    {
+      "id": "570624",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/03/1837",
+      "dataassinatura": "29/03/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCER O CARGO DE VICE-PRESIDENTE DA PROVINCIA DA PARAIBA."
+    },
+    {
+      "id": "570623",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/03/1837",
+      "dataassinatura": "18/03/1837",
+      "ementa": "DANDO INSTRUÇÕES SOBRE O PROCESSO E SENTENÇAS NOS CRIME POR ABUSO DE LIBERDADE DE IMPRENSA."
+    },
+    {
+      "id": "570622",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/03/1837",
+      "dataassinatura": "16/03/1837",
+      "ementa": "CRIANDO UM COMANDANTE GERAL, E DE COMPANHIAS PARA AS QUATRO FIXAS DE MARINHEIROS, E DECLARANDO QUAIS AS GRATIFICAÇÕES QUE HÃO DE VENCER."
+    },
+    {
+      "id": "570621",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/03/1837",
+      "dataassinatura": "09/03/1837",
+      "ementa": "DECLARANDO O ARTIGO 4 DA LEI DE 10 DE JULHO DE 1835 E O DECRETO DE 11 DE SETEMBRO DE 1826, SOBRE A EXECUÇÃO DAS SENTENÇAS DE PENA CAPITAL."
+    },
+    {
+      "id": "570620",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/03/1837",
+      "dataassinatura": "08/03/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCER O CARGO DE VICE-PRESIDENTE DA PROVINCIA DAS ALAGOAS."
+    },
+    {
+      "id": "570619",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/02/1837",
+      "dataassinatura": "27/02/1837",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCER O CARGO DE VICE-PRESIDENTE DA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "id": "570618",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/02/1837",
+      "dataassinatura": "25/02/1837",
+      "ementa": "EXPLICA OS ARTIGOS 5, 15 E 19 DO DECRETO DE 9 DE AGOSTO DE 1836, QUE CONCEDEU PRIVILEGIO EXCLUSIVO PARA A NAVEGAÇÃO POR VAPOR NO RIO DOCE, E SEUS CONFLUENTES."
+    },
+    {
+      "id": "570617",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/02/1837",
+      "dataassinatura": "20/02/1837",
+      "ementa": "DESTACANDO DA PROVINCIA DE SÃO PAULO PARA A DO RIO GRANDE DO SUL 311 PRAÇAS DE CAVALARIA DA GUARDA NACIONAL."
+    },
+    {
+      "id": "570616",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/02/1837",
+      "dataassinatura": "18/02/1837",
+      "ementa": "DERROGANDO O DE 3 DE OUTUBRO DE 1833, E 23 DE ABRIL DE 1835, NA PARTE QUE DIZ RESPEITO SOMENTE AO MUNICIPIO DA CORTE, E ORDENANDO QUE, NOS IMPEDIMENTOS DOS JUIZES DE DIREITO DO CIVIL DELA, SIRVAM INTERINAMENTE BACHAREIS NOMEADOS PELO GOVERNO."
+    },
+    {
+      "id": "570615",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/02/1837",
+      "dataassinatura": "08/02/1837",
+      "ementa": "ELEVA A 600$000 ANUAIS O ORDENADO DO PROFESSOR DE RETORICA E POETICA DO CURSO JURIDICO DE SÃO PAULO."
+    },
+    {
+      "id": "570614",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/01/1837",
+      "dataassinatura": "18/01/1837",
+      "ementa": "CRIA UMA CADEIRA DE PRIMEIRAS LETRAS PARA MENINOS NA FREGUESIA DA GLORIA, E MARCA O ORDENADO DO PROFESSOR."
+    },
+    {
+      "id": "570613",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/01/1837",
+      "dataassinatura": "01/01/1837",
+      "ementa": "MARCA O ORDENADO DE 400$00 RS. ANUAIS PARA TODAS AS CADEIRAS DAS PRIMEIRAS LETRAS DO MUNICIPIO DA CORTE QUE TIVEREM MENOR VENCIMENTO."
+    }
+  ]
+}

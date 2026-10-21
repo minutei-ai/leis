@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-04-13589",
+  "titulo": "Lei nº 13.589 de 04/01/2018",
+  "data": "2018-01-04",
+  "fonte": "https://normas.leg.br/api/public/binario/b96579be-2b55-4543-aa6f-339a54901268/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-04;13589",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-04%3B13589&tipo_documento=maior-detalhe",
+  "sha256_dados": "fc4c349bc4a85702977e004e85eb0173805fdbcc8a2a7521441bc94df00ce4ec",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:11.427Z",
+  "sha256_fonte": "7bc8afebc5b24bf01a4dd5e4f69493e74c69b5c0636045d1f24f0b2a9abe36fb",
+  "sha256_markdown": "e5e644b71fa67073192e24662c35b3018d93436ca5f62594361a36d0d7a13442"
+}

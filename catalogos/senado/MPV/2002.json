@@ -1,0 +1,829 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2002",
+  "tipo": "MPV",
+  "ano": 2002,
+  "coletado_em": "2026-10-21T08:53:36.195Z",
+  "normas": [
+    {
+      "senadoId": "553082",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-30-100",
+      "titulo": "Medida Provisória nº 100 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "100",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-30;100",
+      "ementa": "Altera as Leis nºs 8.248, de 23 de outubro de 1991, 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001, dispondo sobre a capacitação e competitividade do setor de tecnologia da informação, e dá outras providências."
+    },
+    {
+      "senadoId": "553084",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-30-101",
+      "titulo": "Medida Provisória nº 101 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "101",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-30;101",
+      "ementa": "Dispõe sobre a contribuição para o Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para Seguridade Social - COFINS devidas pelas sociedades cooperativas em geral."
+    },
+    {
+      "senadoId": "553086",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-30-102",
+      "titulo": "Medida Provisória nº 102 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "102",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-30;102",
+      "ementa": "Abre crédito extraordinário no valor de R$ 36.874.206,00, em favor do Ministério da Previdência e Assistência Social, para os fins que especifica."
+    },
+    {
+      "senadoId": "553080",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-30-99",
+      "titulo": "Medida Provisória nº 99 de 30/12/2002",
+      "data": "2002-12-30",
+      "numero": "99",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-30;99",
+      "ementa": "Abre crédito extraordinário no valor de R$ 38.064.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553076",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-27-97",
+      "titulo": "Medida Provisória nº 97 de 27/12/2002",
+      "data": "2002-12-27",
+      "numero": "97",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-27;97",
+      "ementa": "Altera o art. 26 da Medida Provisória nº 2.192-70, de 24 de agosto de 2001, que estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências."
+    },
+    {
+      "senadoId": "553078",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-27-98",
+      "titulo": "Medida Provisória nº 98 de 27/12/2002",
+      "data": "2002-12-27",
+      "numero": "98",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-27;98",
+      "ementa": "Abre crédito extraordinário no valor de R$ 63.180.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553074",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-27-96",
+      "titulo": "Medida Provisória nº 96 de 27/12/2002",
+      "data": "2002-12-27",
+      "numero": "96",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-27;96",
+      "ementa": "Abre crédito extraordinário no valor de R$ 24.401.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553070",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-26-94",
+      "titulo": "Medida Provisória nº 94 de 26/12/2002",
+      "data": "2002-12-26",
+      "numero": "94",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-26;94",
+      "ementa": "Reabre o prazo para que os Municípios que refinanciaram suas dívidas junto à União possam contratar empréstimos ou financiamentos e dá nova redação ao art. 2º da Lei nº 8.989, de 24 de fevereiro de 1995."
+    },
+    {
+      "senadoId": "553072",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-26-95",
+      "titulo": "Medida Provisória nº 95 de 26/12/2002",
+      "data": "2002-12-26",
+      "numero": "95",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-26;95",
+      "ementa": "Dá nova redação ao art. 4º da Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o seguro de crédito à exportação e dá outras providências."
+    },
+    {
+      "senadoId": "553068",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-24-93",
+      "titulo": "Medida Provisória nº 93 de 24/12/2002",
+      "data": "2002-12-24",
+      "numero": "93",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-24;93",
+      "ementa": "Abre crédito extraordinário no valor de R$ 165.620.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553066",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-23-92",
+      "titulo": "Medida Provisória nº 92 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "92",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-23;92",
+      "ementa": "Abre crédito extraordinário no valor de R$ 428.064.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553064",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-23-91",
+      "titulo": "Medida Provisória nº 91 de 23/12/2002",
+      "data": "2002-12-23",
+      "numero": "91",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-23;91",
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a vigilância sanitária a que ficam sujeitos, as drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos."
+    },
+    {
+      "senadoId": "553062",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-20-90",
+      "titulo": "Medida Provisória nº 90 de 20/12/2002",
+      "data": "2002-12-20",
+      "numero": "90",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-20;90",
+      "ementa": "Abre crédito extraordinário no valor de R$ 258.414.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553060",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-20-89",
+      "titulo": "Medida Provisória nº 89 de 20/12/2002",
+      "data": "2002-12-20",
+      "numero": "89",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-20;89",
+      "ementa": "Abre crédito extraordinário no valor de R$ 38.896.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553058",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-20-88",
+      "titulo": "Medida Provisória nº 88 de 20/12/2002",
+      "data": "2002-12-20",
+      "numero": "88",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-20;88",
+      "ementa": "Abre crédito extraordinário ao Orçamento de Investimento para 2002, em favor de diversas empresas do Grupo PETROBRÁS, no valor total de R$ 2.259.122.810,00, e reduz o Orçamento de Investimento das mesmas empresas no valor global de R$ 1.536.449.550,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553056",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-19-87",
+      "titulo": "Medida Provisória nº 87 de 19/12/2002",
+      "data": "2002-12-19",
+      "numero": "87",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-19;87",
+      "ementa": "Abre crédito extraordinário no valor de R$ 780.039.000,00, em favor do Ministério dos Transportes, para os fins que especifica."
+    },
+    {
+      "senadoId": "553054",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-18-86",
+      "titulo": "Medida Provisória nº 86 de 18/12/2002",
+      "data": "2002-12-18",
+      "numero": "86",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-18;86",
+      "ementa": "Altera dispositivos da Lei nº 8.745, de 9 de dezembro de 1993, e da Lei nº 10.470, de 25 de junho de 2002, cria cargos efetivos, cargos comissionados e gratificações no âmbito da Administração Pública Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "553052",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-17-85",
+      "titulo": "Medida Provisória nº 85 de 17/12/2002",
+      "data": "2002-12-17",
+      "numero": "85",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-17;85",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 45.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553048",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-12-83",
+      "titulo": "Medida Provisória nº 83 de 12/12/2002",
+      "data": "2002-12-12",
+      "numero": "83",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-12;83",
+      "ementa": "Dispõe sobre a concessão da aposentadoria especial ao cooperado de cooperativa de trabalho ou de produção e dá outras providências."
+    },
+    {
+      "senadoId": "553050",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-12-84",
+      "titulo": "Medida Provisória nº 84 de 12/12/2002",
+      "data": "2002-12-12",
+      "numero": "84",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-12;84",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 10.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553046",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-12-07-82",
+      "titulo": "Medida Provisória nº 82 de 07/12/2002",
+      "data": "2002-12-07",
+      "numero": "82",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-12-07;82",
+      "ementa": "Dispõe sobre a transferência da União para os Estados e o Distrito Federal de parte da malha rodoviária sob jurisdição federal, nos casos que especifica, e dá outras providências."
+    },
+    {
+      "senadoId": "553042",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-11-29-80",
+      "titulo": "Medida Provisória nº 80 de 29/11/2002",
+      "data": "2002-11-29",
+      "numero": "80",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-11-29;80",
+      "ementa": "Altera o art. 5º da Lei nº 8.427, de 27 de maio de 1992, que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural."
+    },
+    {
+      "senadoId": "553044",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-11-29-81",
+      "titulo": "Medida Provisória nº 81 de 29/11/2002",
+      "data": "2002-11-29",
+      "numero": "81",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-11-29;81",
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União e Refinanciamento da Dívida Pública Mobiliária Federal, no valor global de R$ 17.084.740.385,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553040",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-11-27-79",
+      "titulo": "Medida Provisória nº 79 de 27/11/2002",
+      "data": "2002-11-27",
+      "numero": "79",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-11-27;79",
+      "ementa": "Dispõe sobre o direito ao ressarcimento dos custos de formação de atleta não profissional e a exploração comercial da imagem do atleta profissional, impõe vedações ao exercício de cargo ou função executiva em entidade de administração de desporto profissional, fixa normas de segurança nos estádios, adapta o tratamento diferenciado do desporto profissional à Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, estabelece diretrizes para o cumprimento da obrigação constante do art. 46-A da Lei nº 9.615, de 24 de março de 1998, altera o art. 8º da Lei nº 10.359, de 27 de dezembro de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "553038",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-11-08-78",
+      "titulo": "Medida Provisória nº 78 de 08/11/2002",
+      "data": "2002-11-08",
+      "numero": "78",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-11-08;78",
+      "ementa": "Autoriza o Poder Executivo a doar à República do Paraguai vacinas e equipamentos indispensáveis ao combate à febre aftosa."
+    },
+    {
+      "senadoId": "553034",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-25-76",
+      "titulo": "Medida Provisória nº 76 de 25/10/2002",
+      "data": "2002-10-25",
+      "numero": "76",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-25;76",
+      "ementa": "Dispõe sobre a instituição de equipe de transição pelo candidato eleito para o cargo de Presidente da República, cria cargos em comissão, e dá outras providências."
+    },
+    {
+      "senadoId": "553036",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-25-77",
+      "titulo": "Medida Provisória nº 77 de 25/10/2002",
+      "data": "2002-10-25",
+      "numero": "77",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-25;77",
+      "ementa": "Altera as Leis nºs. 10.464, de 24 de maio de 2002, 10.177, de 12 de janeiro de 2001, e 10.437, de 25 de abril de 2002; autoriza a concessão de crédito, com recursos dos Fundos Constitucionais de Financiamento do Norte, Nordeste e Centro-Oeste, para aquisição dos títulos do Tesouro Nacional necessários à contratação de operação na forma da Resolução nº 2.471, de 26 de fevereiro de 1998, do Conselho Monetário Nacional, relacionada com dívidas contraídas com recursos de outras fontes; dispõe sobre reconversão de atividades de mutuários com dívidas junto a bancos oficiais federais; e dá outras providências."
+    },
+    {
+      "senadoId": "553032",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-24-75",
+      "titulo": "Medida Provisória nº 75 de 24/10/2002",
+      "data": "2002-10-24",
+      "numero": "75",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-24;75",
+      "ementa": "Altera a Legislação Tributária Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "553030",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-23-74",
+      "titulo": "Medida Provisória nº 74 de 23/10/2002",
+      "data": "2002-10-23",
+      "numero": "74",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-23;74",
+      "ementa": "Altera a Lei nº 7.998, de 11 de janeiro de 1990, para assegurar o pagamento de seguro-desemprego ao trabalhador resgatado da condição análoga à de escravo."
+    },
+    {
+      "senadoId": "553028",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-14-73",
+      "titulo": "Medida Provisória nº 73 de 14/10/2002",
+      "data": "2002-10-14",
+      "numero": "73",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-14;73",
+      "ementa": "Revoga o art. 12 da Medida Provisória nº 66, de 29 de agosto de 2002."
+    },
+    {
+      "senadoId": "553026",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-08-72",
+      "titulo": "Medida Provisória nº 72 de 08/10/2002",
+      "data": "2002-10-08",
+      "numero": "72",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-08;72",
+      "ementa": "Abre crédito extraordinário, no valor de R$ 208.000.000,00, em favor dos Ministérios da Integração Nacional e de Minas e Energia, para os fins que especifica."
+    },
+    {
+      "senadoId": "553024",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-03-71",
+      "titulo": "Medida Provisória nº 71 de 03/10/2002",
+      "data": "2002-10-03",
+      "numero": "71",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-03;71",
+      "ementa": "Altera disposições das Leis nºs 9.028, de 12 de abril de 1995, e 10.480, de 2 de julho de 2002, da Medida Provisória nº 2.229-43, de 6 de setembro de 2001, dispõe sobre a Secretaria da Receita Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "553022",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-10-01-70",
+      "titulo": "Medida Provisória nº 70 de 01/10/2002",
+      "data": "2002-10-01",
+      "numero": "70",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-10-01;70",
+      "ementa": "Dispõe sobre a participação de capital estrangeiro nas empresas jornalísticas e de radiodifusão sonora e de sons e imagens, conforme o § 4º do art. 222 da Constituição, altera os arts. 38 e 64 da Lei nº 4.117, de 27 de agosto de 1962, o § 3º do art. 12 do Decreto-Lei nº 236, de 28 de fevereiro de 1967, e dá outras providências."
+    },
+    {
+      "senadoId": "553020",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-09-26-69",
+      "titulo": "Medida Provisória nº 69 de 26/09/2002",
+      "data": "2002-09-26",
+      "numero": "69",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-09-26;69",
+      "ementa": "Dispõe sobre a proteção de informação não divulgada submetida para aprovação da comercialização de produtos e dá outras providências."
+    },
+    {
+      "senadoId": "553018",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-09-04-68",
+      "titulo": "Medida Provisória nº 68 de 04/09/2002",
+      "data": "2002-09-04",
+      "numero": "68",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-09-04;68",
+      "ementa": "Altera as Leis nºs. 10.209, de 23 de março de 2001, e 10.233, de 5 de junho de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "553016",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-09-04-67",
+      "titulo": "Medida Provisória nº 67 de 04/09/2002",
+      "data": "2002-09-04",
+      "numero": "67",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-09-04;67",
+      "ementa": "Dispõe sobre o tratamento tributário dispensado às empresas de transporte aéreo, e dá outras providências."
+    },
+    {
+      "senadoId": "553014",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-29-66",
+      "titulo": "Medida Provisória nº 66 de 29/08/2002",
+      "data": "2002-08-29",
+      "numero": "66",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-29;66",
+      "ementa": "Dispõe sobre a não cumulatividade na cobrança da contribuição para os Programas de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (Pasep), nos casos que especifica; sobre os procedimentos para desconsideração de atos ou negócios jurídicos, para fins tributários; sobre o pagamento e o parcelamento de débitos tributários federais, a compensação de créditos fiscais, a declaração de inaptidão de inscrição de pessoas jurídicas, a legislação aduaneira, e dá outras providências."
+    },
+    {
+      "senadoId": "553012",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-28-65",
+      "titulo": "Medida Provisória nº 65 de 28/08/2002",
+      "data": "2002-08-28",
+      "numero": "65",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-28;65",
+      "ementa": "Regulamenta o art. 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências."
+    },
+    {
+      "senadoId": "553008",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-26-63",
+      "titulo": "Medida Provisória nº 63 de 26/08/2002",
+      "data": "2002-08-26",
+      "numero": "63",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-26;63",
+      "ementa": "Cria o Programa Diversidade na Universidade, e dá outras providências."
+    },
+    {
+      "senadoId": "553010",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-26-64",
+      "titulo": "Medida Provisória nº 64 de 26/08/2002",
+      "data": "2002-08-26",
+      "numero": "64",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-26;64",
+      "ementa": "Estabelece exceção ao alcance do art. 2º da Lei nº 10.192, de 14 de fevereiro de 2001, que dispõe sobre medidas complementares ao Plano Real, e dá outras providências."
+    },
+    {
+      "senadoId": "553006",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-22-62",
+      "titulo": "Medida Provisória nº 62 de 22/08/2002",
+      "data": "2002-08-22",
+      "numero": "62",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-22;62",
+      "ementa": "Altera o art. 25 da Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente."
+    },
+    {
+      "senadoId": "553004",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-16-61",
+      "titulo": "Medida Provisória nº 61 de 16/08/2002",
+      "data": "2002-08-16",
+      "numero": "61",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-16;61",
+      "ementa": "Dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras."
+    },
+    {
+      "senadoId": "553002",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-15-60",
+      "titulo": "Medida Provisória nº 60 de 15/08/2002",
+      "data": "2002-08-15",
+      "numero": "60",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-15;60",
+      "ementa": "Abre, em favor de Encargos Financeiros da União, crédito extraordinário no valor de R$ 7.000.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553000",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-15-59",
+      "titulo": "Medida Provisória nº 59 de 15/08/2002",
+      "data": "2002-08-15",
+      "numero": "59",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-15;59",
+      "ementa": "Dispõe sobre a utilização das fontes de recursos existentes no Tesouro Nacional no encerramento do exercício financeiro de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "552998",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-13-58",
+      "titulo": "Medida Provisória nº 58 de 13/08/2002",
+      "data": "2002-08-13",
+      "numero": "58",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-13;58",
+      "ementa": "Exclui da vedação prevista no art. 3º da Lei nº 9.491, de 9 de setembro de 1997, as ações detidas pela União no capital do Banco do Brasil S.A., e dá outras providências."
+    },
+    {
+      "senadoId": "552996",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-08-07-57",
+      "titulo": "Medida Provisória nº 57 de 07/08/2002",
+      "data": "2002-08-07",
+      "numero": "57",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-08-07;57",
+      "ementa": "Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e a União a adquirirem ações da Companhia Energética de Goiás - CELG para efeito de inclusão no Programa Nacional de Desestatização - PND, e dá outras providências."
+    },
+    {
+      "senadoId": "552994",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-07-18-56",
+      "titulo": "Medida Provisória nº 56 de 18/07/2002",
+      "data": "2002-07-18",
+      "numero": "56",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-07-18;56",
+      "ementa": "Dispõe sobre a inclusão dos cargos que especifica no Plano de   Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de dezembro de   1970, altera as Leis nº 10.486, de 4 de julho de 2002, e 5.662, de 21 de junho   de 1971, e dá outras providências."
+    },
+    {
+      "senadoId": "552992",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-07-12-55",
+      "titulo": "Medida Provisória nº 55 de 12/07/2002",
+      "data": "2002-07-12",
+      "numero": "55",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-07-12;55",
+      "ementa": "Autoriza condições especiais para o crédito de valores iguais ou   inferiores a R$ 100,00, de que trata a Lei Complementar nº 110, de 29 de junho   de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "552988",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-07-11-53",
+      "titulo": "Medida Provisória nº 53 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-07-11;53",
+      "ementa": "Revoga os arts. 27, 28 e 29 da Medida Provisória nº 51, de 4 de julho de 2002, que dispõe sobre a criação de cargos de Guarda de Polícia Federal e de Analista de Informações Policiais no Quadro de Pessoal do Departamento de Polícia Federal, e de Direção e Assessoramento Superiores no âmbito da Administração Pública Federal."
+    },
+    {
+      "senadoId": "552990",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-07-11-54",
+      "titulo": "Medida Provisória nº 54 de 11/07/2002",
+      "data": "2002-07-11",
+      "numero": "54",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-07-11;54",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração   Nacional, no valor de R$ 36.365.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552984",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-07-04-51",
+      "titulo": "Medida Provisória nº 51 de 04/07/2002",
+      "data": "2002-07-04",
+      "numero": "51",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-07-04;51",
+      "ementa": "Dispõe sobre a criação de cargos de Guarda de Polícia Federal e de Analista de Informações Policiais no Quadro de Pessoal do Departamento de Polícia Federal, e de Direção e Assessoramento Superiores no âmbito da Administração Pública Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "552986",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-07-04-52",
+      "titulo": "Medida Provisória nº 52 de 04/07/2002",
+      "data": "2002-07-04",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-07-04;52",
+      "ementa": "Dispõe sobre a criação da Carreira de Supervisão do Sistema de Saúde, e dá outras providências."
+    },
+    {
+      "senadoId": "552982",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-28-50",
+      "titulo": "Medida Provisória nº 50 de 28/06/2002",
+      "data": "2002-06-28",
+      "numero": "50",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-28;50",
+      "ementa": "Abre, em favor de Operações Oficiais de Crédito, crédito extraordinário no   valor de R$ 380.905.883,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552980",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-28-49",
+      "titulo": "Medida Provisória nº 49 de 28/06/2002",
+      "data": "2002-06-28",
+      "numero": "49",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-28;49",
+      "ementa": "Autoriza o Poder Executivo a contratar em nome da União operação de   crédito interno e a conceder garantia da União a entidades da administração   federal indireta, bem como a Estados, ao Distrito Federal, aos Municípios e às   suas entidades da administração indireta, em operação de crédito interno, e dá   outras providências."
+    },
+    {
+      "senadoId": "552978",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-26-48",
+      "titulo": "Medida Provisória nº 48 de 26/06/2002",
+      "data": "2002-06-26",
+      "numero": "48",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-26;48",
+      "ementa": "Dispõe sobre a criação da Gratificação de Desempenho de Atividade de   Controle e Segurança de Tráfego Aéreo - GDASA e da Gratificação Especial de   Controle do Tráfego Aéreo - GECTA, e dá outras providências."
+    },
+    {
+      "senadoId": "552976",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-26-47",
+      "titulo": "Medida Provisória nº 47 de 26/06/2002",
+      "data": "2002-06-26",
+      "numero": "47",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-26;47",
+      "ementa": "Dispõe sobre a estruturação da Carreira de Perito Federal Agrário, a   criação da Gratificação de Desempenho de Atividade de Perito Federal Agrário -   GDAPA e da Gratificação Especial de Perito Federal Agrário - GEPRA, e dá outras   providências."
+    },
+    {
+      "senadoId": "552966",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-25-42",
+      "titulo": "Medida Provisória nº 42 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "42",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-25;42",
+      "ementa": "Dispõe sobre a estruturação da Carreira de Inteligência, a remuneração dos integrantes do Quadro de Pessoal da Agência Brasileira de Inteligência - ABIN, e dá outras providências."
+    },
+    {
+      "senadoId": "552974",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-25-46",
+      "titulo": "Medida Provisória nº 46 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "46",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-25;46",
+      "ementa": "Dispõe sobre a reestruturação da Carreira Auditoria do Tesouro Nacional,   que passa a denominar-se Carreira Auditoria da Receita Federal - ARF, e sobre a   organização da Carreira Auditoria-Fiscal da Previdência Social e da Carreira   Auditoria-Fiscal do Trabalho, e dá outras providências."
+    },
+    {
+      "senadoId": "552968",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-25-43",
+      "titulo": "Medida Provisória nº 43 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "43",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-25;43",
+      "ementa": "Dispõe sobre a remuneração dos cargos da Carreira de Procurador da Fazenda   Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "552972",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-25-45",
+      "titulo": "Medida Provisória nº 45 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "45",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-25;45",
+      "ementa": "Altera a Lei nº 9.650, de 27 de maio de 1998, que dispõe sobre o Plano de Carreira dos servidores do Banco Central do Brasil, e dá outras providências."
+    },
+    {
+      "senadoId": "552970",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-25-44",
+      "titulo": "Medida Provisória nº 44 de 25/06/2002",
+      "data": "2002-06-25",
+      "numero": "44",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-25;44",
+      "ementa": "Dispõe sobre a inclusão dos cargos da Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC no Plano de Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de dezembro de 1970."
+    },
+    {
+      "senadoId": "552964",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-20-41",
+      "titulo": "Medida Provisória nº 41 de 20/06/2002",
+      "data": "2002-06-20",
+      "numero": "41",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-20;41",
+      "ementa": "Altera a Lei nº 10.147, de 21 de dezembro de 2000, que dispõe sobre a   incidência da contribuição para os Programas de Integração Social e de Formação   do Patrimônio - PIS-Pasep e da Contribuição para o Financiamento da Seguridade   Social - Cofins, nas operações de venda dos produtos que especifica, e dá outras   providências."
+    },
+    {
+      "senadoId": "552962",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-14-40",
+      "titulo": "Medida Provisória nº 40 de 14/06/2002",
+      "data": "2002-06-14",
+      "numero": "40",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-14;40",
+      "ementa": "Abre crédito extraordinário, no valor de R$ 326.075.000,00, em favor do Ministério de Minas e Energia, para os fins que especifica."
+    },
+    {
+      "senadoId": "552960",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-06-14-39",
+      "titulo": "Medida Provisória nº 39 de 14/06/2002",
+      "data": "2002-06-14",
+      "numero": "39",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-06-14;39",
+      "ementa": "Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências."
+    },
+    {
+      "senadoId": "552958",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-05-14-38",
+      "titulo": "Medida Provisória nº 38 de 14/05/2002",
+      "data": "2002-05-14",
+      "numero": "38",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-05-14;38",
+      "ementa": "Dispõe sobre o parcelamento de débitos tributários de Estados, do Distrito Federal, de Municípios e de empresas públicas e privadas em processo de falência ou de liquidação, institui regime especial de parcelamento da contribuição para o Programa de Formação do Patrimônio do Servidor Público - PASEP, restabelece prazos para pagamento de débitos tributários, inclusive do imposto de renda incidente sobre lucro inflacionário, concede benefícios fiscais à instalação, ampliação ou modernização de unidades industriais e tratamento tributário isonômico entre produção nacional e a importação de papel-jornal, altera a legislação aduaneira e a relativa à cobrança de direitos antidumping e compensatórios, e dá outras providências."
+    },
+    {
+      "senadoId": "552956",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-05-08-37",
+      "titulo": "Medida Provisória nº 37 de 08/05/2002",
+      "data": "2002-05-08",
+      "numero": "37",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-05-08;37",
+      "ementa": "Dispõe sobre a estruturação de órgãos, cria cargos em comissão no âmbito do Poder Executivo Federal, e dá outras providências."
+    },
+    {
+      "senadoId": "552954",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-05-08-36",
+      "titulo": "Medida Provisória nº 36 de 08/05/2002",
+      "data": "2002-05-08",
+      "numero": "36",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-05-08;36",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça do Trabalho e do Ministério da Integração Nacional, no valor global de R$ 124.210.542,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "552952",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-03-27-35",
+      "titulo": "Medida Provisória nº 35 de 27/03/2002",
+      "data": "2002-03-27",
+      "numero": "35",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-03-27;35",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de abril de 2002, e dá outras   providências."
+    },
+    {
+      "senadoId": "552950",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-03-06-34",
+      "titulo": "Medida Provisória nº 34 de 06/03/2002",
+      "data": "2002-03-06",
+      "numero": "34",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-03-06;34",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia e   da Integração Nacional, no valor global de R$ 805.000.000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552948",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-02-19-33",
+      "titulo": "Medida Provisória nº 33 de 19/02/2002",
+      "data": "2002-02-19",
+      "numero": "33",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-02-19;33",
+      "ementa": "Dispõe sobre os Sistemas Nacionais de Epidemiologia, de Saúde Ambiental e   de Saúde Indígena, cria a Agência Federal de Prevenção e Controle de Doenças -   APEC, e dá outras providências."
+    },
+    {
+      "senadoId": "552946",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-02-18-32",
+      "titulo": "Medida Provisória nº 32 de 18/02/2002",
+      "data": "2002-02-18",
+      "numero": "32",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-02-18;32",
+      "ementa": "Prorroga a autorização de que trata a Lei nº 10.309, de 22 de novembro de   2001, que dispõe sobre a assunção pela União de responsabilidades civis perante   terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de   empresas aéreas brasileiras."
+    },
+    {
+      "senadoId": "552944",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-02-15-31",
+      "titulo": "Medida Provisória nº 31 de 15/02/2002",
+      "data": "2002-02-15",
+      "numero": "31",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-02-15;31",
+      "ementa": "Abre crédito extraordinário, no valor global de R$ 209.600.000,00, em   favor da Presidência da República e dos Ministérios de Minas e Energia, do   Esporte e Turismo e da Integração Nacional, para os fins que especifica."
+    },
+    {
+      "senadoId": "552942",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-02-13-30",
+      "titulo": "Medida Provisória nº 30 de 13/02/2002",
+      "data": "2002-02-13",
+      "numero": "30",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-02-13;30",
+      "ementa": "Institui o Programa Bolsa-Renda para atendimento a agricultores familiares   atingidos pelos efeitos da estiagem nos Municípios em estado de calamidade   pública ou situação de emergência, e dá outras providências."
+    },
+    {
+      "senadoId": "552940",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-02-07-29",
+      "titulo": "Medida Provisória nº 29 de 07/02/2002",
+      "data": "2002-02-07",
+      "numero": "29",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-02-07;29",
+      "ementa": "Dispõe sobre a autorização para a criação do Mercado Atacadista de Energia   Elétrica - MAE, pessoa jurídica de direito privado, e dá outras providências."
+    },
+    {
+      "senadoId": "552938",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-02-04-28",
+      "titulo": "Medida Provisória nº 28 de 04/02/2002",
+      "data": "2002-02-04",
+      "numero": "28",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-02-04;28",
+      "ementa": "Dispõe sobre normas gerais de direito penitenciário e dá outras providências."
+    },
+    {
+      "senadoId": "552936",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-24-27",
+      "titulo": "Medida Provisória nº 27 de 24/01/2002",
+      "data": "2002-01-24",
+      "numero": "27",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-24;27",
+      "ementa": "Dispõe sobre infrações penais de repercussão interestadual ou   internacional que exigem repressão uniforme, para os fins do disposto no inciso   I do § 1º do art. 144 da Constituição."
+    },
+    {
+      "senadoId": "552934",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-24-26",
+      "titulo": "Medida Provisória nº 26 de 24/01/2002",
+      "data": "2002-01-24",
+      "numero": "26",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-24;26",
+      "ementa": "Dispõe sobre a extinção da gratificação de produção suplementar devida aos   servidores da Imprensa Nacional, e dá outras providências."
+    },
+    {
+      "senadoId": "552930",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-23-24",
+      "titulo": "Medida Provisória nº 24 de 23/01/2002",
+      "data": "2002-01-23",
+      "numero": "24",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-23;24",
+      "ementa": "Dispõe sobre a repactuação e o alongamento de dívidas oriundas de   operações de crédito rural contratadas sob a égide do Programa Especial de   Crédito para a Reforma Agrária - PROCERA e do Programa Nacional de   Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências."
+    },
+    {
+      "senadoId": "552932",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-23-25",
+      "titulo": "Medida Provisória nº 25 de 23/01/2002",
+      "data": "2002-01-23",
+      "numero": "25",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-23;25",
+      "ementa": "Dispõe sobre a tributação dos planos de benefícios de caráter   previdenciário."
+    },
+    {
+      "senadoId": "552928",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-18-23",
+      "titulo": "Medida Provisória nº 23 de 18/01/2002",
+      "data": "2002-01-18",
+      "numero": "23",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-18;23",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da   Integração Nacional, no valor global de R$ 115.000000,00, para os fins que   especifica."
+    },
+    {
+      "senadoId": "552924",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-08-21",
+      "titulo": "Medida Provisória nº 21 de 08/01/2002",
+      "data": "2002-01-08",
+      "numero": "21",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-08;21",
+      "ementa": "Institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos   Trabalhadores de Enfermagem - PROFAE."
+    },
+    {
+      "senadoId": "552926",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2002-01-08-22",
+      "titulo": "Medida Provisória nº 22 de 08/01/2002",
+      "data": "2002-01-08",
+      "numero": "22",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-08;22",
+      "ementa": "Altera a legislação tributária e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

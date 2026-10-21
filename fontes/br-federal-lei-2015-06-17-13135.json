@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-06-17-13135",
+  "titulo": "Lei nº 13.135 de 17/06/2015",
+  "data": "2015-06-17",
+  "fonte": "https://normas.leg.br/api/public/binario/004fa194-da6f-41ef-a283-ec72b31c3c3f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-06-17;13135",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-06-17%3B13135&tipo_documento=maior-detalhe",
+  "sha256_dados": "0b8523f056c0b70283c28a2f7ee03696db180ae30b8767b3472699c21c9a243f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:17.404Z",
+  "sha256_fonte": "e8bd2a93fdd9d8fc64ceb5cb47c4c1a39e11754d3e473ef9a5114a7aac6da295",
+  "sha256_markdown": "4f8c0c2d14c3160f38cd4e64339f0c735aa3263bd0d161d2f74e01cc8e672cc6"
+}

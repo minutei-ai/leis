@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-10-28-13042",
+  "titulo": "Lei nº 13.042 de 28/10/2014",
+  "data": "2014-10-28",
+  "fonte": "https://normas.leg.br/api/public/binario/5ff16047-972b-45fd-ae39-c9d5f2b8a945/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-10-28;13042",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-10-28%3B13042&tipo_documento=maior-detalhe",
+  "sha256_dados": "a438e592d8527c18f7eb106bf890037d69069a96afb83f07843adbff6e3dbff0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:28.089Z",
+  "sha256_fonte": "d4df89b52413a33d2dce1bbd8e7309ccc8f63d13ac792d0e1c1518bc8a46db3d",
+  "sha256_markdown": "4138c891663da1b36ad6ef3b73960fff124f9421cd9c0a2e609733d3c2294c8e"
+}

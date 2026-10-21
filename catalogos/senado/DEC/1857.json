@@ -1,0 +1,2119 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1857",
+  "tipo": "DEC",
+  "ano": 1857,
+  "coletado_em": "2026-10-21T08:52:40.967Z",
+  "normas": [
+    {
+      "senadoId": "395330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-31-2071",
+      "titulo": "Decreto nº 2.071 de 31/12/1857",
+      "data": "1857-12-31",
+      "numero": "2071",
+      "urn": "urn:lex:br:federal:decreto:1857-12-31;2071",
+      "ementa": "ABRE UM CREDITO SUPLEMENTAR DA IMPORTANCIA DE 325.000$000 PARA OCORRER AS DESPESAS DO MINISTERIO DA FAZENDA NO EXERCICIO DE 1856 A 1857."
+    },
+    {
+      "senadoId": "395310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2066",
+      "titulo": "Decreto nº 2.066 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2066",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2066",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "395318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2068",
+      "titulo": "Decreto nº 2.068 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2068",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2068",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2067",
+      "titulo": "Decreto nº 2.067 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2067",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2067",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "395306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2065",
+      "titulo": "Decreto nº 2.065 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2065",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2065",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "395326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2070",
+      "titulo": "Decreto nº 2.070 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2070",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2070",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA ILUSTRÍSSIMA CÂMARA DO MUNICÍPIO DO CORTE, PARA O ANO MUNICIPAL QUE TEM DE CORRER DO 1° DE JANEIRO A 31 DE DEZEMBRO DE 1858."
+    },
+    {
+      "senadoId": "395322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2069",
+      "titulo": "Decreto nº 2.069 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2069",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2069",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DA QUANTIA DE 138$133$434, PARA OCORRER ÁS DESPESAS, NO EXERCÍCIO DE 1856-1857, COM AS VERBAS MENCIONADAS NA TABELA QUE COM ESTE BAIXA."
+    },
+    {
+      "senadoId": "395302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-29-2064",
+      "titulo": "Decreto nº 2.064 de 29/12/1857",
+      "data": "1857-12-29",
+      "numero": "2064",
+      "urn": "urn:lex:br:federal:decreto:1857-12-29;2064",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE CARAVELAS, PRADO E ALCOBAÇA NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "395298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-23-2063",
+      "titulo": "Decreto nº 2.063 de 23/12/1857",
+      "data": "1857-12-23",
+      "numero": "2063",
+      "urn": "urn:lex:br:federal:decreto:1857-12-23;2063",
+      "ementa": "APROVA O CONTRATO PARA NAVEGAÇÃO POR VAPOR ENTRE O PORTO DO RIO DE JANEIRO E DE S. MATEUS NA PROVÍNCIA DO ESPÍRITO SANTO, COM ESCALA PELOS DE ITAPEMIRIM E VITÓRIA."
+    },
+    {
+      "senadoId": "395294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-23-2062",
+      "titulo": "Decreto nº 2.062 de 23/12/1857",
+      "data": "1857-12-23",
+      "numero": "2062",
+      "urn": "urn:lex:br:federal:decreto:1857-12-23;2062",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM IGNÁCIO DE BARROS VIEIRA CAJUEIRO PARA A CONSTRUÇÃO DE UM CAIS, COM RUA, DESDE A PRAÇA DA GLÓRIA ATÉ A TRAVESSA DOS CARMELITAS NO LARGO DA LAPA."
+    },
+    {
+      "senadoId": "395291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-23-2061",
+      "titulo": "Decreto nº 2.061 de 23/12/1857",
+      "data": "1857-12-23",
+      "numero": "2061",
+      "urn": "urn:lex:br:federal:decreto:1857-12-23;2061",
+      "ementa": "AUTORIZA UM CRÉDITO EXTRAORDINÁRIO NA IMPORTANCIA DE 375:000$000 PARA AS DESPESAS QUE SE TEM DE FAZER OCORRER NO EXERCÍCIO DE 1857 A 1858 COM A CONSTRUÇÃO DE UM CAIS E DE UMA RUA DESDE A PRAÇA DE GLÓRIA ATÉ A TRAVESSA DOS CARMELITAS NO LARGO DA LAPA."
+    },
+    {
+      "senadoId": "395288",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-19-2060",
+      "titulo": "Decreto nº 2.060 de 19/12/1857",
+      "data": "1857-12-19",
+      "numero": "2060",
+      "urn": "urn:lex:br:federal:decreto:1857-12-19;2060",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "395273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-19-2056",
+      "titulo": "Decreto nº 2.056 de 19/12/1857",
+      "data": "1857-12-19",
+      "numero": "2056",
+      "urn": "urn:lex:br:federal:decreto:1857-12-19;2056",
+      "ementa": "CONCEDE AO DR. CEZAR LANCIANI PRIVILÉGIO PARA FABRICO E VENDA NO IMPÉRIO DE MÁRMORES ARTIFICIAIS SEGUNDO O PROCESSO DO MARQUEZ CAMPANA."
+    },
+    {
+      "senadoId": "395281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-19-2058",
+      "titulo": "Decreto nº 2.058 de 19/12/1857",
+      "data": "1857-12-19",
+      "numero": "2058",
+      "urn": "urn:lex:br:federal:decreto:1857-12-19;2058",
+      "ementa": "AUTORIZA A FORMAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA CRIADA NA PROVÍNCIA DO PARÁ SOB A DENOMINAÇÃO DE AGRÍCOLA INDUSTRIAL DE NOSSA SENHORA DO O'."
+    },
+    {
+      "senadoId": "395269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-19-2055",
+      "titulo": "Decreto nº 2.055 de 19/12/1857",
+      "data": "1857-12-19",
+      "numero": "2055",
+      "urn": "urn:lex:br:federal:decreto:1857-12-19;2055",
+      "ementa": "ESTABELECE AS CONDIÇÕES COM QUE AOS FARMACEUTICOS NÃO HABILITADOS SE HA DE CONCEDER LICENÇA PARA CONTINUAREM A TER ABERTAS AS BOTICAS EXISTENTES ANTES DA PUBLICAÇÃO DO REGULAMENTO ANEXO AO DECRETO 828 DE 29 DE SETEMBRO DE 1851."
+    },
+    {
+      "senadoId": "395285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-19-2059",
+      "titulo": "Decreto nº 2.059 de 19/12/1857",
+      "data": "1857-12-19",
+      "numero": "2059",
+      "urn": "urn:lex:br:federal:decreto:1857-12-19;2059",
+      "ementa": "FIXA O NÚMERO DOS RECEBEDORES DA RECEBEDORIA DO MUNICÍPIO E DESIGNA OS IMPOSTOS E RENDAS QUE PODEM SER COBRADAS NO DOMICÍLIO DOS CONTRIBUINTES."
+    },
+    {
+      "senadoId": "395277",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-19-2057",
+      "titulo": "Decreto nº 2.057 de 19/12/1857",
+      "data": "1857-12-19",
+      "numero": "2057",
+      "urn": "urn:lex:br:federal:decreto:1857-12-19;2057",
+      "ementa": "APROVA O CONTRATO PARA A NAVEGAÇÃO Á VAPOR ENTRE O PORTO DO RIO DE JANEIRO E O DE CARAVELAS, COM ESCALA PELO DA VITÓRIA."
+    },
+    {
+      "senadoId": "395261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-16-2053",
+      "titulo": "Decreto nº 2.053 de 16/12/1857",
+      "data": "1857-12-16",
+      "numero": "2053",
+      "urn": "urn:lex:br:federal:decreto:1857-12-16;2053",
+      "ementa": "CONCEDE AO DR. GUILHERME SCHUCH DE CAPANEMA PRIVILÉGIO POR DEZ ANOS PARA FABRICAR PAPEL COM FIBRAS DE VEGETAIS INDÍGENAS."
+    },
+    {
+      "senadoId": "395265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-16-2054",
+      "titulo": "Decreto nº 2.054 de 16/12/1857",
+      "data": "1857-12-16",
+      "numero": "2054",
+      "urn": "urn:lex:br:federal:decreto:1857-12-16;2054",
+      "ementa": "IGUALA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE SERGIPE, AOS QUE FORAM MARCADOS PARA OS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "395253",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-12-2051",
+      "titulo": "Decreto nº 2.051 de 12/12/1857",
+      "data": "1857-12-12",
+      "numero": "2051",
+      "urn": "urn:lex:br:federal:decreto:1857-12-12;2051",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE QUELUZ, NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-12-2052",
+      "titulo": "Decreto nº 2.052 de 12/12/1857",
+      "data": "1857-12-12",
+      "numero": "2052",
+      "urn": "urn:lex:br:federal:decreto:1857-12-12;2052",
+      "ementa": "APROVA O REGULAMENTO DESTA DATA, PELO QUAL SE ALTERAM ALGUMAS DISPOSIÇÕES DA JUNTA CENTRAL DE HIGIENE PÚBLICA DE 29 DE SETEMBRO DE 1851."
+    },
+    {
+      "senadoId": "395230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-09-2046",
+      "titulo": "Decreto nº 2.046 de 09/12/1857",
+      "data": "1857-12-09",
+      "numero": "2046",
+      "urn": "urn:lex:br:federal:decreto:1857-12-09;2046",
+      "ementa": "APROVA O REGULAMENTO PARA O CORTE DE GADO NO MATADOURO PÚBLICO DA CÔRTE."
+    },
+    {
+      "senadoId": "395249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-09-2050",
+      "titulo": "Decreto nº 2.050 de 09/12/1857",
+      "data": "1857-12-09",
+      "numero": "2050",
+      "urn": "urn:lex:br:federal:decreto:1857-12-09;2050",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 1.297:573$159 RÉIS, PARA AS DESPESAS DO MINISTÉRIO DA GUERRA NO EXERCÍCIO DE 1856-1857."
+    },
+    {
+      "senadoId": "395226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-09-2045",
+      "titulo": "Decreto nº 2.045 de 09/12/1857",
+      "data": "1857-12-09",
+      "numero": "2045",
+      "urn": "urn:lex:br:federal:decreto:1857-12-09;2045",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM O GERENTE DA COMPANHIA BRASILEIRA DE PAQUETES DE VAPOR, INOVANDO O DE 2 DE JANEIRO DE 1855."
+    },
+    {
+      "senadoId": "395244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-09-2049",
+      "titulo": "Decreto nº 2.049 de 09/12/1857",
+      "data": "1857-12-09",
+      "numero": "2049",
+      "urn": "urn:lex:br:federal:decreto:1857-12-09;2049",
+      "ementa": "CRIA NO TERMO DE SANT'ANA DO LIVRAMENTO, NA PROVÍNCIA DE S. PEDRO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "395237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-09-2047",
+      "titulo": "Decreto nº 2.047 de 09/12/1857",
+      "data": "1857-12-09",
+      "numero": "2047",
+      "urn": "urn:lex:br:federal:decreto:1857-12-09;2047",
+      "ementa": "ELEVA A QUATROCENTOS MIL RÉIS O ORDENADO DO PORTEIRO DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "395241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-09-2048",
+      "titulo": "Decreto nº 2.048 de 09/12/1857",
+      "data": "1857-12-09",
+      "numero": "2048",
+      "urn": "urn:lex:br:federal:decreto:1857-12-09;2048",
+      "ementa": "SEPARA, NA PROVÍNCIA DA PARAÍBA, O TERMO DA INDEPENDÊNCIA DE BANANEIRAS, E OS TERMOS DE POMBAL E CATOLÉ DE PATOS E CRIA NELES OS LUGARES DE JUÍZES MUNICIPAIS, QUE ACUMULARAM AS FUNÇÕES DE JUÍZES DE ORGÃOS."
+    },
+    {
+      "senadoId": "395216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-05-2043",
+      "titulo": "Decreto nº 2.043 de 05/12/1857",
+      "data": "1857-12-05",
+      "numero": "2043",
+      "urn": "urn:lex:br:federal:decreto:1857-12-05;2043",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DO JARDIM CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "395219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-12-05-2044",
+      "titulo": "Decreto nº 2.044 de 05/12/1857",
+      "data": "1857-12-05",
+      "numero": "2044",
+      "urn": "urn:lex:br:federal:decreto:1857-12-05;2044",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DO JARDIM NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "395207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-28-2041",
+      "titulo": "Decreto nº 2.041 de 28/11/1857",
+      "data": "1857-11-28",
+      "numero": "2041",
+      "urn": "urn:lex:br:federal:decreto:1857-11-28;2041",
+      "ementa": "MANDA FAZER EXTENSIVAS AOS EMPREGADOS DE MARINHA AS DISPOSIÇÕES DO DECRETO NÚMERO 1.995, DE 14 DE OUTUBRO DO CORRENTE ANO, QUE REGULAM OS VENCIMENTOS DOS EMPREGADOS DE FAZENDA NOS CASOS DE SUBSTITUIÇÃO E EXERCÍCIO INTERINO."
+    },
+    {
+      "senadoId": "395212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-28-2042",
+      "titulo": "Decreto nº 2.042 de 28/11/1857",
+      "data": "1857-11-28",
+      "numero": "2042",
+      "urn": "urn:lex:br:federal:decreto:1857-11-28;2042",
+      "ementa": "AUTORIZA UM CRÉDITO EXTRAORDINÁRIO DA IMPORTANCIA DE 270.000$000 PARA OCORRER, NO EXERCÍCIO DE 1856-1857, ÁS DESPESAS FEITAS A TÍTULO DE  - SOCORROS PÚBLICOS, -PELO CRÉDITO ESPECIAL DO DECRETO NÚMERO 598 DE 14 DE SETEMBRO DE 1850, COM AS EPIDEMIAS DA CÓLERA-MORBUS E DA FEBRE AMARELA."
+    },
+    {
+      "senadoId": "395203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-28-2040",
+      "titulo": "Decreto nº 2.040 de 28/11/1857",
+      "data": "1857-11-28",
+      "numero": "2040",
+      "urn": "urn:lex:br:federal:decreto:1857-11-28;2040",
+      "ementa": "AUTORIZA UM CRÉDITO SUPLEMENTAR DA IMPORTÂNCIA DE 600.346$000 RÉIS PARA OCORRER ÁS DESPESAS DE DIVERSAS RÚBRICAS DO MINISTÉRIO DO IMPÉRIO, NO EXERCÍCIO DE 1856-1857."
+    },
+    {
+      "senadoId": "395199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-28-2039",
+      "titulo": "Decreto nº 2.039 de 28/11/1857",
+      "data": "1857-11-28",
+      "numero": "2039",
+      "urn": "urn:lex:br:federal:decreto:1857-11-28;2039",
+      "ementa": "AUMENTA O VENCIMENTO DA CARCEREIRO DA CADEIA DA VILA DE ITAPEVA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "395180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-25-2036",
+      "titulo": "Decreto nº 2.036 de 25/11/1857",
+      "data": "1857-11-25",
+      "numero": "2036",
+      "urn": "urn:lex:br:federal:decreto:1857-11-25;2036",
+      "ementa": "CRIA NO TERMO DA VILA DE SÃO JOSÉ DA PARAÍBA DA PROVÍNCIA DE SÃO PAULO O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "395184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-25-2037",
+      "titulo": "Decreto nº 2.037 de 25/11/1857",
+      "data": "1857-11-25",
+      "numero": "2037",
+      "urn": "urn:lex:br:federal:decreto:1857-11-25;2037",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE PARACATÚ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-25-2034",
+      "titulo": "Decreto nº 2.034 de 25/11/1857",
+      "data": "1857-11-25",
+      "numero": "2034",
+      "urn": "urn:lex:br:federal:decreto:1857-11-25;2034",
+      "ementa": "PERMITE A VERIFICAÇÃO DO PESO LÍQUIDO REAL DAS MERCADORIA SUJEITAS Á DIREITOS NA RAZÃO DO PESO COM O ABATIMENTO DAS TARAS MARCADAS NA TARIFA, E DÁ REGRAS PARA ESSA VERIFICAÇÃO."
+    },
+    {
+      "senadoId": "395176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-25-2035",
+      "titulo": "Decreto nº 2.035 de 25/11/1857",
+      "data": "1857-11-25",
+      "numero": "2035",
+      "urn": "urn:lex:br:federal:decreto:1857-11-25;2035",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DO BANCO DO MARANHÃO, COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "395188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-25-2038",
+      "titulo": "Decreto nº 2.038 de 25/11/1857",
+      "data": "1857-11-25",
+      "numero": "2038",
+      "urn": "urn:lex:br:federal:decreto:1857-11-25;2038",
+      "ementa": "CRIA AS REPARTIÇÕES DE AJUDANTE E DE QUARTEL MESTRE-GENERAL NOS CORPOS DE EXÉRCITO DE OBSERVAÇÃO OU DE OPERAÇÕES QUE SE ORGANIZAREM NO IMPÉRIO."
+    },
+    {
+      "senadoId": "395168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-21-2033",
+      "titulo": "Decreto nº 2.033 de 21/11/1857",
+      "data": "1857-11-21",
+      "numero": "2033",
+      "urn": "urn:lex:br:federal:decreto:1857-11-21;2033",
+      "ementa": "ALTERA O DECRETO NÚMERO 1.932 DE 3 DE OUTUBRO DO CORRENTE ANO, PELO QUAL FOI CONCEDIDO A JOSÉ BERNARDO TEIXEIRA PRIVILÉGIO PARA EXPLORAR E LAVRAR NA PROVÍNCIA DO CEARÁ AS MINAS MINERAIS DE DIFERENTES QUALIDADES QUE DESCOBRIU, E AS QUE HOUVER DE DESCOBRIR."
+    },
+    {
+      "senadoId": "395150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-18-2030",
+      "titulo": "Decreto nº 2.030 de 18/11/1857",
+      "data": "1857-11-18",
+      "numero": "2030",
+      "urn": "urn:lex:br:federal:decreto:1857-11-18;2030",
+      "ementa": "DECLARA QUE O JUIZ COMERCIAL E O ÚNICO COMPETENTE PARA O JULGAMENTO DOS PREJUÍZOS E DANOS CAUSADOS POR ABALROAÇÃO DENTRO DOS PORTOS DO IMPÉRIO, E NO ALTO MAR."
+    },
+    {
+      "senadoId": "395138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-18-2028",
+      "titulo": "Decreto nº 2.028 de 18/11/1857",
+      "data": "1857-11-18",
+      "numero": "2028",
+      "urn": "urn:lex:br:federal:decreto:1857-11-18;2028",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - MANUFATURA NACIONAL DE VIDROS."
+    },
+    {
+      "senadoId": "395154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-18-2031",
+      "titulo": "Decreto nº 2.031 de 18/11/1857",
+      "data": "1857-11-18",
+      "numero": "2031",
+      "urn": "urn:lex:br:federal:decreto:1857-11-18;2031",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA LEOPOLDINA DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-18-2029",
+      "titulo": "Decreto nº 2.029 de 18/11/1857",
+      "data": "1857-11-18",
+      "numero": "2029",
+      "urn": "urn:lex:br:federal:decreto:1857-11-18;2029",
+      "ementa": "DÁ ORGANIZAÇÃO Á GUARDA NACIONAL DAS PROVÍNCIAS DO IMPÉRIO, LIMITROFES COM OS ESTADOS VIZINHOS."
+    },
+    {
+      "senadoId": "395164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-18-2032",
+      "titulo": "Decreto nº 2.032 de 18/11/1857",
+      "data": "1857-11-18",
+      "numero": "2032",
+      "urn": "urn:lex:br:federal:decreto:1857-11-18;2032",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE CURITIBA, CAPITAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "395127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-14-2025",
+      "titulo": "Decreto nº 2.025 de 14/11/1857",
+      "data": "1857-11-14",
+      "numero": "2025",
+      "urn": "urn:lex:br:federal:decreto:1857-11-14;2025",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DAS VILAS DO LIVRAMENTO, CANGUSÚ, E PASSO FUNDO, NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "395134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-14-2027",
+      "titulo": "Decreto nº 2.027 de 14/11/1857",
+      "data": "1857-11-14",
+      "numero": "2027",
+      "urn": "urn:lex:br:federal:decreto:1857-11-14;2027",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE SANTA ISABEL DE PARAGUASSÚ, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "395130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-14-2026",
+      "titulo": "Decreto nº 2.026 de 14/11/1857",
+      "data": "1857-11-14",
+      "numero": "2026",
+      "urn": "urn:lex:br:federal:decreto:1857-11-14;2026",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE MARIANA, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-14-2023",
+      "titulo": "Decreto nº 2.023 de 14/11/1857",
+      "data": "1857-11-14",
+      "numero": "2023",
+      "urn": "urn:lex:br:federal:decreto:1857-11-14;2023",
+      "ementa": "DECLARA QUE, EM EMBARGO DA RECISÃO DO CONTRATO CELEBRADO COM E. PRICE PARA CONSTRUÇÃO DO RAMAL DA ESTRADA DE FERRO DE D. PEDRO II., ENTRE A ESTAÇÃO DO CAMPO DA ACLAMAÇÃO E A PRAÇA DA PRAINHA, SUBSISTE, PARA TODOS OS SEUS EFEITOS, A APROVAÇÃO DADA Á PLANTA DO RAMAL POR AVISO DE 28 DE DEZEMBRO DE 1855."
+    },
+    {
+      "senadoId": "395123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-14-2024",
+      "titulo": "Decreto nº 2.024 de 14/11/1857",
+      "data": "1857-11-14",
+      "numero": "2024",
+      "urn": "urn:lex:br:federal:decreto:1857-11-14;2024",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DA CUTIA, NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-11-2020",
+      "titulo": "Decreto nº 2.020 de 11/11/1857",
+      "data": "1857-11-11",
+      "numero": "2020",
+      "urn": "urn:lex:br:federal:decreto:1857-11-11;2020",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO A VAPOR NOS RIOS DO MARANHÃO."
+    },
+    {
+      "senadoId": "395115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-11-2022",
+      "titulo": "Decreto nº 2.022 de 11/11/1857",
+      "data": "1857-11-11",
+      "numero": "2022",
+      "urn": "urn:lex:br:federal:decreto:1857-11-11;2022",
+      "ementa": "REGULA A ISENÇÃO DE DIREITOS DA ALFÂNDEGA DE QUE GOZA O CORPO DIPLOMÁTICO ESTRANGEIRO."
+    },
+    {
+      "senadoId": "395111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-11-2021",
+      "titulo": "Decreto nº 2.021 de 11/11/1857",
+      "data": "1857-11-11",
+      "numero": "2021",
+      "urn": "urn:lex:br:federal:decreto:1857-11-11;2021",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DO NOVO BANCO DE PERNAMBUCO COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "395103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-07-2019",
+      "titulo": "Decreto nº 2.019 de 07/11/1857",
+      "data": "1857-11-07",
+      "numero": "2019",
+      "urn": "urn:lex:br:federal:decreto:1857-11-07;2019",
+      "ementa": "ELEVA Á CATEGORIA DE ESQUADRÃO, A COMPANHIA AVULSA DE CAVALARIA DA GUARDA NACIONAL, ORGANIZADA NO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DE GOIÁS, E CRIA NO MESMO MUNICÍPIO UMA SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO."
+    },
+    {
+      "senadoId": "395094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-07-2017",
+      "titulo": "Decreto nº 2.017 de 07/11/1857",
+      "data": "1857-11-07",
+      "numero": "2017",
+      "urn": "urn:lex:br:federal:decreto:1857-11-07;2017",
+      "ementa": "SUPRIME NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL AS REPARTIÇÕES DE AJUDANTE E QUARTEL MESTRE GENERAL."
+    },
+    {
+      "senadoId": "395085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-07-2015",
+      "titulo": "Decreto nº 2.015 de 07/11/1857",
+      "data": "1857-11-07",
+      "numero": "2015",
+      "urn": "urn:lex:br:federal:decreto:1857-11-07;2015",
+      "ementa": "CONCEDE AO BARÃO DE MAUÁ, CESSIONÁRIO DE JOHN BARNETT HUMPHREYS, PRIVILÉGIO EXCLUSIVO  POR 15 ANOS PARA O EMPREGO DE UM SISTEMA, POR MEIO DO QUAL AS LOCOMOTIVAS A VAPOR PODEM VENCER OS CAMINHOS DE FERRO DECLIVES DE UM EM DEZ, E MESMO DE UM EM OITO."
+    },
+    {
+      "senadoId": "395081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-07-2014",
+      "titulo": "Decreto nº 2.014 de 07/11/1857",
+      "data": "1857-11-07",
+      "numero": "2014",
+      "urn": "urn:lex:br:federal:decreto:1857-11-07;2014",
+      "ementa": "APROVA A TABELA DOS PREÇOS DE TRANSPORTE DE MERCADORIAS, E DE PASSAGEIROS NA PRIMEIRA SEÇÃO DA ESTRADA DE FERRO DE PERNAMBUCO DA CIDADE DO RECIFE Á CONFLUÊNCIA DOS RIOS UNA E PIRANGI."
+    },
+    {
+      "senadoId": "395090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-07-2016",
+      "titulo": "Decreto nº 2.016 de 07/11/1857",
+      "data": "1857-11-07",
+      "numero": "2016",
+      "urn": "urn:lex:br:federal:decreto:1857-11-07;2016",
+      "ementa": "CRIA O LUGAR DE ASSISTENTE DO AJUDANTE E DE QUARTEL MESTRE GENERAL DO EXÉRCITO JUNTO AOS COMANDOS DAS ARMAS DAS PROVÍNCIAS, MARCANDO OS VENCIMENTOS QUE LHES COMPETEM."
+    },
+    {
+      "senadoId": "395098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-07-2018",
+      "titulo": "Decreto nº 2.018 de 07/11/1857",
+      "data": "1857-11-07",
+      "numero": "2018",
+      "urn": "urn:lex:br:federal:decreto:1857-11-07;2018",
+      "ementa": "SEPARA O TERMO DE QUELUZ, DE ÁREAS NA PROVÍNCIA DE S. PAULO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "395069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-04-2011",
+      "titulo": "Decreto nº 2.011 de 04/11/1857",
+      "data": "1857-11-04",
+      "numero": "2011",
+      "urn": "urn:lex:br:federal:decreto:1857-11-04;2011",
+      "ementa": "MARCA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA CÔRTE."
+    },
+    {
+      "senadoId": "395073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-04-2012",
+      "titulo": "Decreto nº 2.012 de 04/11/1857",
+      "data": "1857-11-04",
+      "numero": "2012",
+      "urn": "urn:lex:br:federal:decreto:1857-11-04;2012",
+      "ementa": "ESTABELCE A MANEIRA POR QUE DEVE SER FEITA A NOMEAÇÃO DE SUPLENTES DOS JUÍZES MUNICIPAIS, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "395077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-11-04-2013",
+      "titulo": "Decreto nº 2.013 de 04/11/1857",
+      "data": "1857-11-04",
+      "numero": "2013",
+      "urn": "urn:lex:br:federal:decreto:1857-11-04;2013",
+      "ementa": "SEPARA OS TERMOS DE BENEVENTE E GUARAPARÍ, DO ITAPEMIRIM; E OS DE LINHARES, SANTA CRUZ E NOVA ALMEIDA, DA SERRA NA PROVÍNCIA DO ESPÍRITO SANTO; E CRIA NELES OS LUGARES DE JUÍZES MUNICIPAIS QUE ACUMULARÃO AS FUNÇÕES DE JUÍZES DE ORGÃOS."
+    },
+    {
+      "senadoId": "395062",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-31-2009",
+      "titulo": "Decreto nº 2.009 de 31/10/1857",
+      "data": "1857-10-31",
+      "numero": "2009",
+      "urn": "urn:lex:br:federal:decreto:1857-10-31;2009",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 116.428$500 PARA OCORRER O DEFICIT PRESUMÍVEL NA RÚBRICA 8ª DO ARTIGO 6º DA LEI DO ORÇAMENTO EM VIGOR."
+    },
+    {
+      "senadoId": "395065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-31-2010",
+      "titulo": "Decreto nº 2.010 de 31/10/1857",
+      "data": "1857-10-31",
+      "numero": "2010",
+      "urn": "urn:lex:br:federal:decreto:1857-10-31;2010",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 1.256.867$013 RÉIS, PARA AS DESPESAS DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1856-1857."
+    },
+    {
+      "senadoId": "395030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2001",
+      "titulo": "Decreto nº 2.001 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2001",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2001",
+      "ementa": "CONCEDE Á FREDERICO SAUERBRONN PRIVILÉGIO EXCLUSIVO POR CINCO ANOS PARA UMA MÁQUINA DE SUA INVENÇÃO, DESTINADA A PULVERIZAR E A REFINAR O AÇÚCAR."
+    },
+    {
+      "senadoId": "395058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2008",
+      "titulo": "Decreto nº 2.008 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2008",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2008",
+      "ementa": "CRIA NO TERMO DE SÃO LUIZ DA PROVÍNCIA DE SÃO PAULO O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "395038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2003",
+      "titulo": "Decreto nº 2.003 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2003",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2003",
+      "ementa": "CRIA DUAS COMPANHIAS DE APRENDIZES MARINHEIROS, UMA NA PROVÍNCIA DE SANTA CATARINA, E OUTRA NA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "395054",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2007",
+      "titulo": "Decreto nº 2.007 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2007",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2007",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DAS VILA DE DORES DO INDAIÁ E CHRISTINA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2004",
+      "titulo": "Decreto nº 2.004 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2004",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2004",
+      "ementa": "MANDA RECEBER NA ESTAÇÕES PÚBLICAS DO IMPÉRIO AS MOEDAS INGLESAS DENOMINADAS SOBERANOS."
+    },
+    {
+      "senadoId": "395046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2005",
+      "titulo": "Decreto nº 2.005 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2005",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2005",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DO BANCO DA PROVÍNCIA DO RIO GRANDE DO SUL, COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "395034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2002",
+      "titulo": "Decreto nº 2.002 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2002",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2002",
+      "ementa": "CONCEDE Á JOÃO LUIZ VIEIRA RAMALHO DE CASTRO PRIVILÉGIO EXCLUSIVO POR CINCO ANOS PARA O MELHORAMENTO POR ELE INTRODUZIDO NOS FECHOS DE ARMAS DE FOGO DE DOIS CANOS, DE QUE TEVE PRIVILÉGIO VILLOTE E COMPANHIA."
+    },
+    {
+      "senadoId": "395050",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-24-2006",
+      "titulo": "Decreto nº 2.006 de 24/10/1857",
+      "data": "1857-10-24",
+      "numero": "2006",
+      "urn": "urn:lex:br:federal:decreto:1857-10-24;2006",
+      "ementa": "APROVA O REGULAMENTO PARA OS COLÉGIOS PÚBLICOS DE INSTRUÇÃO SECUNDÁRIA DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "395022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-21-1999",
+      "titulo": "Decreto nº 1.999 de 21/10/1857",
+      "data": "1857-10-21",
+      "numero": "1999",
+      "urn": "urn:lex:br:federal:decreto:1857-10-21;1999",
+      "ementa": "SEPARA O TERMO DE MARIA PEREIRA DE S. JOÃO DO PRÍNCIPE, NA PROVÍNCIA DO CEARÁ, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORFÃOS."
+    },
+    {
+      "senadoId": "395018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-21-1998",
+      "titulo": "Decreto nº 1.998 de 21/10/1857",
+      "data": "1857-10-21",
+      "numero": "1998",
+      "urn": "urn:lex:br:federal:decreto:1857-10-21;1998",
+      "ementa": "MANDA EXECUTAR AS CONDIÇÕES DE NOVAÇÃO DO CONTRATO CELEBRADO EM 7 DE AGOSTO DE 1852 COM MARIANO PROCÓPIO FERREIRA LAGE, INCORPORADOR DA COMPANHIA UNIÃO E INDÚSTRIA."
+    },
+    {
+      "senadoId": "395026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-21-2000",
+      "titulo": "Decreto nº 2.000 de 21/10/1857",
+      "data": "1857-10-21",
+      "numero": "2000",
+      "urn": "urn:lex:br:federal:decreto:1857-10-21;2000",
+      "ementa": "CRIA EM CADA UM DOS TERMOS DE CASCAVEL E ACARACÚ, NA PROVÍNCIA DO CEARÁ, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS, E REUNE O TERMO DE SANTA QUITÉRIA AO DO SOBRAL NA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "395014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-21-1997",
+      "titulo": "Decreto nº 1.997 de 21/10/1857",
+      "data": "1857-10-21",
+      "numero": "1997",
+      "urn": "urn:lex:br:federal:decreto:1857-10-21;1997",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA ORGANIZADA PELO BARÃO DE NOVA FRIBURGO, CANDIDO JOSÉ RODRIGUES TORRES, E JOAQUIM JOSÉ DOS SANTOS JUNIOR, PARA A CONSTRUÇÃO E EXPLORAÇÃO DE UMA ESTRADA DE FERRO DO PORTO DAS CAIXAS Á RAIZ DA SERRA DE FRIBURGO, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-17-1996",
+      "titulo": "Decreto nº 1.996 de 17/10/1857",
+      "data": "1857-10-17",
+      "numero": "1996",
+      "urn": "urn:lex:br:federal:decreto:1857-10-17;1996",
+      "ementa": "CONCEDE A ROBERTO MILLIGAN PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA O SISTEMA DE RODAS D'ÁGUA, PAZ, OU ALCATRUZES DE SUA INVENÇÃO, DESTINADAS A  MOVER CARROS EM TRILHOS DE FERRO."
+    },
+    {
+      "senadoId": "395002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-14-1994",
+      "titulo": "Decreto nº 1.994 de 14/10/1857",
+      "data": "1857-10-14",
+      "numero": "1994",
+      "urn": "urn:lex:br:federal:decreto:1857-10-14;1994",
+      "ementa": "DIVIDE EM DUAS A AULA PREPARATÓRIA DE FRANCÊS E INGLÊS DA FACULDADE DE DIREITO DA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "395006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-14-1995",
+      "titulo": "Decreto nº 1.995 de 14/10/1857",
+      "data": "1857-10-14",
+      "numero": "1995",
+      "urn": "urn:lex:br:federal:decreto:1857-10-14;1995",
+      "ementa": "REGULA OS VENCIMENTOS DOS EMPREGADOS DE FAZENDA NOS CASOS DE SUBSTITUIÇÃO E EXERCÍCIO INTERINO."
+    },
+    {
+      "senadoId": "394998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-12-1993",
+      "titulo": "Decreto nº 1.993 de 12/10/1857",
+      "data": "1857-10-12",
+      "numero": "1993",
+      "urn": "urn:lex:br:federal:decreto:1857-10-12;1993",
+      "ementa": "CONCEDE AO BARÃO DE MAUÁ, AO CONSELHEIRO LUIZ ANTONIO BARBOSA E AO COMENDADOR LUIZ ALVES LEITE DE OLIVEIRA BELLO, PRIVILÉGIO POR 30 ANOS PARA, POR MEIO DE UMA COMPANHIA, LAVRAREM A MINA DE CARVÃO DE PEDRA DO ARROIO DOS RATOS E OUTRAS QUE DESCOBRIREM NO MUNICÍPIO DO TRIUNFO, DA PROVÍNCIA DO RIO GRANDE DO SUL; E BEM ASSIM FACULDADE POR 5 ANOS, PARA EXPLORAREM TERRENOS DE OUTROS MINERAIS NO DITO MUNICÍPIO, E DE CARVÃO FÓSSIL EM TODA A REFERIDA PROVÍNCIA."
+    },
+    {
+      "senadoId": "394990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-10-1991",
+      "titulo": "Decreto nº 1.991 de 10/10/1857",
+      "data": "1857-10-10",
+      "numero": "1991",
+      "urn": "urn:lex:br:federal:decreto:1857-10-10;1991",
+      "ementa": "DESIGNA VENCIMENTOS A EMPREGADOS DO ARSENAL DE MARINHA DA CORTE."
+    },
+    {
+      "senadoId": "394994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-10-1992",
+      "titulo": "Decreto nº 1.992 de 10/10/1857",
+      "data": "1857-10-10",
+      "numero": "1992",
+      "urn": "urn:lex:br:federal:decreto:1857-10-10;1992",
+      "ementa": "SEPARA O TERMO DA DIVINA PASTORA DE LARANJEIRAS, NA PROVINCIA DE SERGIPE, E CRIA NELE UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARA AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "394979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-10-1988",
+      "titulo": "Decreto nº 1.988 de 10/10/1857",
+      "data": "1857-10-10",
+      "numero": "1988",
+      "urn": "urn:lex:br:federal:decreto:1857-10-10;1988",
+      "ementa": "INOVA O CONTRATO CELEBRADO PELO GOVERNO IMPERIAL COM A COMPANHIA DE NAVEGAÇÃO E COMÉRCIO DO AMAZONAS."
+    },
+    {
+      "senadoId": "394986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-10-1990",
+      "titulo": "Decreto nº 1.990 de 10/10/1857",
+      "data": "1857-10-10",
+      "numero": "1990",
+      "urn": "urn:lex:br:federal:decreto:1857-10-10;1990",
+      "ementa": "DESANEXA O TERMO DE SANTA LUZIA DO NORTE DAS ALAGOAS, E O REUNE AO DE MACEIO, NA PROVINCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "394971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-07-1986",
+      "titulo": "Decreto nº 1.986 de 07/10/1857",
+      "data": "1857-10-07",
+      "numero": "1986",
+      "urn": "urn:lex:br:federal:decreto:1857-10-07;1986",
+      "ementa": "APROVA O CONTRATO CELEBRADO ENTRE O GOVERNO IMPERIAL E A ASSOCIAÇÃO DE COLONIZAÇÃO PARA AS PROVÍNCIAS DE PERNAMBUCO, PARAÍBA E ALAGOAS, ESTABELECIDA NA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "394965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-07-1985",
+      "titulo": "Decreto nº 1.985 de 07/10/1857",
+      "data": "1857-10-07",
+      "numero": "1985",
+      "urn": "urn:lex:br:federal:decreto:1857-10-07;1985",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA INTITULADA - ASSOCIAÇÃO NACIONAL MANUFATUREIRA DE MÓVEIS."
+    },
+    {
+      "senadoId": "394975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-07-1987",
+      "titulo": "Decreto nº 1.987 de 07/10/1857",
+      "data": "1857-10-07",
+      "numero": "1987",
+      "urn": "urn:lex:br:federal:decreto:1857-10-07;1987",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "394961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-06-1984",
+      "titulo": "Decreto nº 1.984 de 06/10/1857",
+      "data": "1857-10-06",
+      "numero": "1984",
+      "urn": "urn:lex:br:federal:decreto:1857-10-06;1984",
+      "ementa": "CRIA A REPARTIÇÃO ESPECIAL DAS TERRAS PÚBLICAS NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "394955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-03-1983",
+      "titulo": "Decreto nº 1.983 de 03/10/1857",
+      "data": "1857-10-03",
+      "numero": "1983",
+      "urn": "urn:lex:br:federal:decreto:1857-10-03;1983",
+      "ementa": "CONCEDE A THOMAZ DIXON LOWDEN PRIVILÉGIO POR ESPAÇO DE 50 ANOS, PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO ENTRE A BARRA DO RIO CAMOCI E A CIDADE DE GRANJA, NA PROVÍNCIA DO CEARÁ, E A CIDADE DO IPÚ DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "394951",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-10-03-1982",
+      "titulo": "Decreto nº 1.982 de 03/10/1857",
+      "data": "1857-10-03",
+      "numero": "1982",
+      "urn": "urn:lex:br:federal:decreto:1857-10-03;1982",
+      "ementa": "CONCEDE A JOSÉ BERNARDO TEIXEIRA, PRIVILÉGIO PARA EXPLORAR E LAVRAR NA PROVÍNCIA DO CEARÁ, AS MINAS DE MINERAIS DE DIFERENTES QUALIDADES QUE DESCOBRIU E AS QUE HOUVER DE DESCOBRIR."
+    },
+    {
+      "senadoId": "394947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-30-1981",
+      "titulo": "Decreto nº 1.981 de 30/09/1857",
+      "data": "1857-09-30",
+      "numero": "1981",
+      "urn": "urn:lex:br:federal:decreto:1857-09-30;1981",
+      "ementa": "ALTERA O PLANO, A QUE SE REFERE O DECRETO N° 739 DE 25 DE NOVEMBRO DE 1850, SOBRE A ORGANIZAÇÃO DO CORPO DE SAÚDE D'ARMADA."
+    },
+    {
+      "senadoId": "394942",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-28-1980",
+      "titulo": "Decreto nº 1.980 de 28/09/1857",
+      "data": "1857-09-28",
+      "numero": "1980",
+      "urn": "urn:lex:br:federal:decreto:1857-09-28;1980",
+      "ementa": "CONCEDE Á COMPANHIA QUE INCORPORAM LUIZ DE CARVALHO PAES DE ANDRADE E OUTROS, PRIVILÉGIO EXCLUSIVO POR TEMPO DE 66 ANOS, PARA CONSTRUÇÃO DE UMA ESTRADA DE FERRO, LIGANDO O PORTO DE TAMANDARÉ Á PARTE INFERIOR DO RIO UNA COM A EXTENSÃO NUNCA MAIOR DE SETE MIL BRAÇAS."
+    },
+    {
+      "senadoId": "394938",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-26-1979",
+      "titulo": "Decreto nº 1.979 de 26/09/1857",
+      "data": "1857-09-26",
+      "numero": "1979",
+      "urn": "urn:lex:br:federal:decreto:1857-09-26;1979",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DENOMINADA - ASSOCIAÇÃO DE COLONIZAÇÃO EM PERNAMBUCO PARAÍBA E ALAGOAS."
+    },
+    {
+      "senadoId": "394930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-23-1977",
+      "titulo": "Decreto nº 1.977 de 23/09/1857",
+      "data": "1857-09-23",
+      "numero": "1977",
+      "urn": "urn:lex:br:federal:decreto:1857-09-23;1977",
+      "ementa": "CRIA NO TERMO DE S. BENTO DA PROVÍNCIA DO MARANHÃO O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-23-1978",
+      "titulo": "Decreto nº 1.978 de 23/09/1857",
+      "data": "1857-09-23",
+      "numero": "1978",
+      "urn": "urn:lex:br:federal:decreto:1857-09-23;1978",
+      "ementa": "REUNE O TERMO DE UNIÃO AO DE TERESINA CAPITAL DA PROVÍNCIA DE PIAUÍ."
+    },
+    {
+      "senadoId": "394922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-19-1975",
+      "titulo": "Decreto nº 1.975 de 19/09/1857",
+      "data": "1857-09-19",
+      "numero": "1975",
+      "urn": "urn:lex:br:federal:decreto:1857-09-19;1975",
+      "ementa": "SEPARA O TERMO DE S. JOSÉ DE S. JOÃO D'EL REI NA PROVÍNCIA DE MINAS GERAIS, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-19-1976",
+      "titulo": "Decreto nº 1.976 de 19/09/1857",
+      "data": "1857-09-19",
+      "numero": "1976",
+      "urn": "urn:lex:br:federal:decreto:1857-09-19;1976",
+      "ementa": "CRIA UMA ESCOLA PÚBLICA DO PRIMEIRO GRAU DE INSTRUÇÃO PRIMÁRIA PARA O SEXO MASCULINO, NO BAIRRO DENOMINADO PRAIA DO CAJÚ DA PARÓQUIA DE S. CRISTOVÃO."
+    },
+    {
+      "senadoId": "394913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-09-1973",
+      "titulo": "Decreto nº 1.973 de 09/09/1857",
+      "data": "1857-09-09",
+      "numero": "1973",
+      "urn": "urn:lex:br:federal:decreto:1857-09-09;1973",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE JAGUARÍ DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "394918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-09-1974",
+      "titulo": "Decreto nº 1.974 de 09/09/1857",
+      "data": "1857-09-09",
+      "numero": "1974",
+      "urn": "urn:lex:br:federal:decreto:1857-09-09;1974",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE JACUÍ E PASSOS DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "394909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-09-09-1972",
+      "titulo": "Decreto nº 1.972 de 09/09/1857",
+      "data": "1857-09-09",
+      "numero": "1972",
+      "urn": "urn:lex:br:federal:decreto:1857-09-09;1972",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE S. ROMÃO DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "394905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-31-1971",
+      "titulo": "Decreto nº 1.971 de 31/08/1857",
+      "data": "1857-08-31",
+      "numero": "1971",
+      "urn": "urn:lex:br:federal:decreto:1857-08-31;1971",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DO BANCO COMERCIAL E AGRÍCOLA, COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "394897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-29-1969",
+      "titulo": "Decreto nº 1.969 de 29/08/1857",
+      "data": "1857-08-29",
+      "numero": "1969",
+      "urn": "urn:lex:br:federal:decreto:1857-08-29;1969",
+      "ementa": "SEPARA O TERMO DE APIAÍ DE ITAPETININGA, XIRIRICA E TATUÍ, E CRIA NELE REUNIDO AOS DO CAPÃO BONITO DE PARANAPANEMA E ITAPÉVA DA FAXINA NA PROVÍNCIA DE S. PAULO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-29-1970",
+      "titulo": "Decreto nº 1.970 de 29/08/1857",
+      "data": "1857-08-29",
+      "numero": "1970",
+      "urn": "urn:lex:br:federal:decreto:1857-08-29;1970",
+      "ementa": "REUNE O TERMO DE BOTUCATÚ AOS DE ITAPETININGA, XIRIRICA E TATUÍ NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "394893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-29-1968",
+      "titulo": "Decreto nº 1.968 de 29/08/1857",
+      "data": "1857-08-29",
+      "numero": "1968",
+      "urn": "urn:lex:br:federal:decreto:1857-08-29;1968",
+      "ementa": "PRORROGA ATÉ O DIA 13 DE SETEMBRO PRÓXIMO FUTURO A SESSÃO DA ASSEMBLÉIA GERAL LEGISLATIVA."
+    },
+    {
+      "senadoId": "394889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-26-1967",
+      "titulo": "Decreto nº 1.967 de 26/08/1857",
+      "data": "1857-08-26",
+      "numero": "1967",
+      "urn": "urn:lex:br:federal:decreto:1857-08-26;1967",
+      "ementa": "ALTERA OS DIRCITOS TAXADOS SOBRE DIVERSOS ARTIGOS DA TARIFA DAS ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "394885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-26-1966",
+      "titulo": "Decreto nº 1.966 de 26/08/1857",
+      "data": "1857-08-26",
+      "numero": "1966",
+      "urn": "urn:lex:br:federal:decreto:1857-08-26;1966",
+      "ementa": "DESIGNA NÃO SÓ O PESSOAL DA CASA DE ARREDACAÇÃO MANDADA ESTABELECER NO ARSENAL DE MARINHA DA CÔRTE PELO ARTIGO 85 DO REGULAMENTO ANEXO AO  DECRETO NÚMERO 1.769, DE 16 DE JUNHO DE 1856, MAS TAMBÉM OS RESPECTIVOS VENCIMENTOS E OBRIGAÇÕES."
+    },
+    {
+      "senadoId": "394881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-26-1965",
+      "titulo": "Decreto nº 1.965 de 26/08/1857",
+      "data": "1857-08-26",
+      "numero": "1965",
+      "urn": "urn:lex:br:federal:decreto:1857-08-26;1965",
+      "ementa": "PERMITE AOS VEREADORES DA ILUSTRISSIMA CAMARA MUNICIPAL O USO DE UNIFORME ESPECIAL."
+    },
+    {
+      "senadoId": "394873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-22-1963",
+      "titulo": "Decreto nº 1.963 de 22/08/1857",
+      "data": "1857-08-22",
+      "numero": "1963",
+      "urn": "urn:lex:br:federal:decreto:1857-08-22;1963",
+      "ementa": "SEPARA O TERMO DE AIURUOCA DE BAEPENDI, DA PROVÍNCIA DE MINAS GERAIS, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394865",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-22-1961",
+      "titulo": "Decreto nº 1.961 de 22/08/1857",
+      "data": "1857-08-22",
+      "numero": "1961",
+      "urn": "urn:lex:br:federal:decreto:1857-08-22;1961",
+      "ementa": "SEPARA O TERMO DA CAPIVARÍ DO RIO BONITO NA PROVÍNCIA DO RIO DE JANEIRO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394861",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-22-1960",
+      "titulo": "Decreto nº 1.960 de 22/08/1857",
+      "data": "1857-08-22",
+      "numero": "1960",
+      "urn": "urn:lex:br:federal:decreto:1857-08-22;1960",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA UNIÃO MERCANTIL, QUE TEM POR FIM ESTABELECER NA PROVÍNCIA DAS ALAGOAS UMA FÁBRICA DE FIAR E TECER ALGODÃO E UMA FUNDIÇÃO DELA DEPENDENTE."
+    },
+    {
+      "senadoId": "394857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-22-1959",
+      "titulo": "Decreto nº 1.959 de 22/08/1857",
+      "data": "1857-08-22",
+      "numero": "1959",
+      "urn": "urn:lex:br:federal:decreto:1857-08-22;1959",
+      "ementa": "APROVA A TABELA QUE MARCA AS TAXAS QUE SE DEVEM COBRAR PELAS MATRICULAS DOS MEDICOS, E OUTROS DOCUMENTOS, DE QUE TRATA O REGULAMENTO DA JUNTA CENTRAL DE HIGIENE PUBLICA."
+    },
+    {
+      "senadoId": "394877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-22-1964",
+      "titulo": "Decreto nº 1.964 de 22/08/1857",
+      "data": "1857-08-22",
+      "numero": "1964",
+      "urn": "urn:lex:br:federal:decreto:1857-08-22;1964",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA VILA NOVA E SANTO AMARO, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "394869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-22-1962",
+      "titulo": "Decreto nº 1.962 de 22/08/1857",
+      "data": "1857-08-22",
+      "numero": "1962",
+      "urn": "urn:lex:br:federal:decreto:1857-08-22;1962",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DA CACHOEIRA, MONSARÁS MUANÁ, E CHAVES DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "394853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-14-1958",
+      "titulo": "Decreto nº 1.958 de 14/08/1857",
+      "data": "1857-08-14",
+      "numero": "1958",
+      "urn": "urn:lex:br:federal:decreto:1857-08-14;1958",
+      "ementa": "SEPARA O TERMO DE SILVEIRAS DO DE LORENA, NA PROVÍNCIA DE SÃO PAULO, E CRIA NELE O LUGAR DE JUÍZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-14-1957",
+      "titulo": "Decreto nº 1.957 de 14/08/1857",
+      "data": "1857-08-14",
+      "numero": "1957",
+      "urn": "urn:lex:br:federal:decreto:1857-08-14;1957",
+      "ementa": "SEPARA O TERMO DE SANTA LUZIA DO DE SABARÁ NA PROVÍNCIA DE MINAS GERAIS, E CRIA NELE O LUGAR DO JUÍZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUÍZ DOS ORFÃOS."
+    },
+    {
+      "senadoId": "394845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-12-1956",
+      "titulo": "Decreto nº 1.956 de 12/08/1857",
+      "data": "1857-08-12",
+      "numero": "1956",
+      "urn": "urn:lex:br:federal:decreto:1857-08-12;1956",
+      "ementa": "MANDA APLICAR Á PRAÇA DO COMÉRCIO DA PROVÍNCIA DO PARÁ OS DECRETOS NÚMERO NOVECENTOS CINQUENTA E DOIS DE DOIS DE ABRIL DE MIL OITOCENTOS CINQUENTA E DOIS, MIL E UM E MIL E DOIS DE VINTE SEIS DE JUNHO DO DITO ANO, A RESPEITO DOS CORRETORES, AGENTES DE LEILÕES E INTÉRPRETES."
+    },
+    {
+      "senadoId": "394983",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-10-1989",
+      "titulo": "Decreto nº 1.989 de 10/08/1857",
+      "data": "1857-08-10",
+      "numero": "1989",
+      "urn": "urn:lex:br:federal:decreto:1857-08-10;1989",
+      "ementa": "ELEVA A OITO O NÚMERO DOS CORRETORES GERAIS DA PRAÇA DO COMÉRCIO DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "394841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-08-1955",
+      "titulo": "Decreto nº 1.955 de 08/08/1857",
+      "data": "1857-08-08",
+      "numero": "1955",
+      "urn": "urn:lex:br:federal:decreto:1857-08-08;1955",
+      "ementa": "SEPARA O TERMO DE GURUPÁ DO DE PORTO DE MOZ, NA PROVÍNCIA DO PARÁ, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "394833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-05-1953",
+      "titulo": "Decreto nº 1.953 de 05/08/1857",
+      "data": "1857-08-05",
+      "numero": "1953",
+      "urn": "urn:lex:br:federal:decreto:1857-08-05;1953",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA DE PESCARIAS, ORGANIZADA NA CAPITAL DA PROVÍNCIA DO PARÁ, COM O FIM DE ABASTECER DE PEIXE FRESCO, SECO E SALGADO O MERCADO DA MESMA CAPITAL."
+    },
+    {
+      "senadoId": "394837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-05-1954",
+      "titulo": "Decreto nº 1.954 de 05/08/1857",
+      "data": "1857-08-05",
+      "numero": "1954",
+      "urn": "urn:lex:br:federal:decreto:1857-08-05;1954",
+      "ementa": "APROVA AS ALTERAÇÕES NOS ESTATUTOS DA COMPANHIA INDENIZADORA, ESTABELECIDA NA CIDADE DO RECIFE DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "394829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-01-1952",
+      "titulo": "Decreto nº 1.952 de 01/08/1857",
+      "data": "1857-08-01",
+      "numero": "1952",
+      "urn": "urn:lex:br:federal:decreto:1857-08-01;1952",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA QUE TEM POR FIM CONSTRUIR UMA PONTE DE MADEIRA SOBRE O RIO PARAÍBA, NA VILA DA BARRA MANSA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "394825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-08-01-1951",
+      "titulo": "Decreto nº 1.951 de 01/08/1857",
+      "data": "1857-08-01",
+      "numero": "1951",
+      "urn": "urn:lex:br:federal:decreto:1857-08-01;1951",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - NERCIDA - QUE TEM POR FIM EXERCER A INDÚSTRIA DA PESCA E SALGA DE PEIXE ENTRE O RIO DE JANEIRO E OS ABROLHOS."
+    },
+    {
+      "senadoId": "394821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-29-1950",
+      "titulo": "Decreto nº 1.950 de 29/07/1857",
+      "data": "1857-07-29",
+      "numero": "1950",
+      "urn": "urn:lex:br:federal:decreto:1857-07-29;1950",
+      "ementa": "FIXA A INTELIGÊNCIA E ESTABELECE VÁRIAS DISPOSIÇÕES RELATIVAS Á ORGANIZAÇÃO DE ESCALA DAS PROMOÇÕES E PREENCHIMENTO DAS VAGAS DOS OFICIAIS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "394815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-25-1949",
+      "titulo": "Decreto nº 1.949 de 25/07/1857",
+      "data": "1857-07-25",
+      "numero": "1949",
+      "urn": "urn:lex:br:federal:decreto:1857-07-25;1949",
+      "ementa": "REVOGA A DISPOSIÇÃO DO ARTIGO 94 DO REGULAMENTO DE 10 DE JULHO DE 1850, NA PARTE EM QUE TORNOU PROVISÓRIA A DO § 3° DO ARTIGO 68 DO MESMO REGULAMENTO."
+    },
+    {
+      "senadoId": "394811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-15-1948",
+      "titulo": "Decreto nº 1.948 de 15/07/1857",
+      "data": "1857-07-15",
+      "numero": "1948",
+      "urn": "urn:lex:br:federal:decreto:1857-07-15;1948",
+      "ementa": "DECLARA QUE OS CONEGOS OU DIGNIDADE DAS CATEDRAIS QUE FOREM APRESENTADOS EM FREGUESIAS, CONSERVAM AS RESPECTIVAS HONRAS."
+    },
+    {
+      "senadoId": "394801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-15-1946",
+      "titulo": "Decreto nº 1.946 de 15/07/1857",
+      "data": "1857-07-15",
+      "numero": "1946",
+      "urn": "urn:lex:br:federal:decreto:1857-07-15;1946",
+      "ementa": "ALTERA A TABELA NÚMERO 1 QUE BAIXOU COM O DECRETO NÚMERO 1.557 DE 17 DE FEVEREIRO DE 1855, NA PARTE RELATIVA Á SEPULTURAS PERPÉTUAS."
+    },
+    {
+      "senadoId": "394806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-15-1947",
+      "titulo": "Decreto nº 1.947 de 15/07/1857",
+      "data": "1857-07-15",
+      "numero": "1947",
+      "urn": "urn:lex:br:federal:decreto:1857-07-15;1947",
+      "ementa": "DECLARA OS CASOS EM QUE NOS PROCESSOS DE FALÊNCIA CABE AGRAVO DE PETIÇÃO OU INSTRUMENTOS."
+    },
+    {
+      "senadoId": "394796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-11-1945",
+      "titulo": "Decreto nº 1.945 de 11/07/1857",
+      "data": "1857-07-11",
+      "numero": "1945",
+      "urn": "urn:lex:br:federal:decreto:1857-07-11;1945",
+      "ementa": "CRIA UM CORPO DE MAQUINISTAS PARA O SERVIÇO DOS VAPORES D'ARMADA, E DÁ O RESPECTIVO REGULAMENTO."
+    },
+    {
+      "senadoId": "394791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-11-1944",
+      "titulo": "Decreto nº 1.944 de 11/07/1857",
+      "data": "1857-07-11",
+      "numero": "1944",
+      "urn": "urn:lex:br:federal:decreto:1857-07-11;1944",
+      "ementa": "ESTABELECE CAPITANIAS DE PORTOS NAS PROVINCIAS DA PARAIBA, RIO GRANDE DO NORTE E CEARA."
+    },
+    {
+      "senadoId": "394786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-08-1943",
+      "titulo": "Decreto nº 1.943 de 08/07/1857",
+      "data": "1857-07-08",
+      "numero": "1943",
+      "urn": "urn:lex:br:federal:decreto:1857-07-08;1943",
+      "ementa": "ALTERA AS DISPOSIÇÕES DOS ARTIGOS 280 E 292 DO REGULAMENTO COMPLEMENTAR DOS ESTATUTOS DAS FACULDADES DE MEDICINA DO IMPÉRIO, QUE BAIXOU COM O DECRETO NÚMERO. 1.764 DE 14 DE MAIO DE 1856, RELATIVAS Á HABILITAÇÃO DOS ALUNOS DO 4°, 5° E 6° ANOS DAS MESMAS FACULDADES PARA O CONCURSO AOS LUGARES DE INTERNOS, E ÁS FUNÇÕES QUE LHES INCUMBEM NO SERVIÇO INTERNO DOS HOSPITAIS DA SANTA CASA DE MISERICÓRDIA."
+    },
+    {
+      "senadoId": "394776",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-04-1941",
+      "titulo": "Decreto nº 1.941 de 04/07/1857",
+      "data": "1857-07-04",
+      "numero": "1941",
+      "urn": "urn:lex:br:federal:decreto:1857-07-04;1941",
+      "ementa": "SEPARA O TERMO DA CASA BRANCA DO DE MOGY-MIRIM, NA PROVÍNCIA DE SÃO PAULO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "394781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-07-04-1942",
+      "titulo": "Decreto nº 1.942 de 04/07/1857",
+      "data": "1857-07-04",
+      "numero": "1942",
+      "urn": "urn:lex:br:federal:decreto:1857-07-04;1942",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - PEDRIAL BAHIANA - QUE TEM POR FIM EDIFICAR CASAS COMÔDAS E ELEGANTES PARA SEREM ALUGADAS POR PREÇOS AO ALCANCE DE TODAS AS FORTUNAS."
+    },
+    {
+      "senadoId": "394771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-06-30-1940",
+      "titulo": "Decreto nº 1.940 de 30/06/1857",
+      "data": "1857-06-30",
+      "numero": "1940",
+      "urn": "urn:lex:br:federal:decreto:1857-06-30;1940",
+      "ementa": "ORGANIZA O CORPO DOS OFICIAIS DE FAZENDA DA ARMADA NACIONAL E IMPERIAL, NA CONFORMIDADE DO ARTIGO 4° DA LEI NÚMERO 820 DE 14 DE JULHO DE 1855."
+    },
+    {
+      "senadoId": "394766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-06-23-1939",
+      "titulo": "Decreto nº 1.939 de 23/06/1857",
+      "data": "1857-06-23",
+      "numero": "1939",
+      "urn": "urn:lex:br:federal:decreto:1857-06-23;1939",
+      "ementa": "FAZ DUAS ALTERAÇÕES NAS DISPOSIÇÕES PRELIMINARES DA NOVA TARIFA, E PERMITE QUE O DESPACHO DOS VOLUMES QUE CONTIVEREM LOUÇA E VIDROS DE DIVERSAS QUALIDADES, POSSA SER FEITO PELA TARIFA ATUAL ATÉ O FIM DE SETEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "394761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-06-20-1938",
+      "titulo": "Decreto nº 1.938 de 20/06/1857",
+      "data": "1857-06-20",
+      "numero": "1938",
+      "urn": "urn:lex:br:federal:decreto:1857-06-20;1938",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE SABOEIRO DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "394756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-06-17-1937",
+      "titulo": "Decreto nº 1.937 de 17/06/1857",
+      "data": "1857-06-17",
+      "numero": "1937",
+      "urn": "urn:lex:br:federal:decreto:1857-06-17;1937",
+      "ementa": "CONCEDE A JOÃO FREDERICO BICHSEN PRIVILÉGIO POR DEZ ANOS PARA CONSTRUIR E VENDER OS VENTILADORES DE CAFÉ DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "394751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-06-10-1936",
+      "titulo": "Decreto nº 1.936 de 10/06/1857",
+      "data": "1857-06-10",
+      "numero": "1936",
+      "urn": "urn:lex:br:federal:decreto:1857-06-10;1936",
+      "ementa": "CONCEDE A PEDRO MOURTHÉ PRIVILÉGIO POR CINCO ANOS PARA FABRICAR E VENDER LIMAS DE SUA INVENÇÃO PARA EXTRAIR CALOS SEM USO DE MEDICAMENTOS."
+    },
+    {
+      "senadoId": "394745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-06-06-1935",
+      "titulo": "Decreto nº 1.935 de 06/06/1857",
+      "data": "1857-06-06",
+      "numero": "1935",
+      "urn": "urn:lex:br:federal:decreto:1857-06-06;1935",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA SOCIEDADE NOVA EMPRESA LÍRICA."
+    },
+    {
+      "senadoId": "394740",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-05-30-1934",
+      "titulo": "Decreto nº 1.934 de 30/05/1857",
+      "data": "1857-05-30",
+      "numero": "1934",
+      "urn": "urn:lex:br:federal:decreto:1857-05-30;1934",
+      "ementa": "SEPARA A VARA DE ORGÃOS DA MUNICIPAL DO TERMO DE CAMPOS, NA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "394735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-05-23-1933",
+      "titulo": "Decreto nº 1.933 de 23/05/1857",
+      "data": "1857-05-23",
+      "numero": "1933",
+      "urn": "urn:lex:br:federal:decreto:1857-05-23;1933",
+      "ementa": "MANDA EXECUTAR DIVERSAS EMENDAS E ALTERAÇÕES NOS ESTATUTOS DAS CAIXAS FILIAIS DO BANCO DO BRASIL."
+    },
+    {
+      "senadoId": "394714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-29-1929",
+      "titulo": "Decreto nº 1.929 de 29/04/1857",
+      "data": "1857-04-29",
+      "numero": "1929",
+      "urn": "urn:lex:br:federal:decreto:1857-04-29;1929",
+      "ementa": "APROVA O CONTRATO PARA O SERVIÇO DA LIMPEZA DAS CASAS DA CIDADE DO RIO DE JANEIRO, E DO ESGOSTO DAS ÁGUAS FLUVIAIS, EM VIRTUDE DO QUE DISPÕE O § 3° DO ARTIGO 11 DO DECRETO NÚMERO 719 DE 28 DE SETEMBRO DE 1853."
+    },
+    {
+      "senadoId": "394730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-27-1932",
+      "titulo": "Decreto nº 1.932 de 27/04/1857",
+      "data": "1857-04-27",
+      "numero": "1932",
+      "urn": "urn:lex:br:federal:decreto:1857-04-27;1932",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 1.043.700$000 PARA AS DESPESAS DO EXERCÍCIO DE 1857-1858."
+    },
+    {
+      "senadoId": "394719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-26-1930",
+      "titulo": "Decreto nº 1.930 de 26/04/1857",
+      "data": "1857-04-26",
+      "numero": "1930",
+      "urn": "urn:lex:br:federal:decreto:1857-04-26;1930",
+      "ementa": "APROVA O REGULAMENTO PARA A FISCALIZAÇÃO DA SEGURANÇA, CONSERVAÇÃO E POLÍCIA DAS ESTRADAS DE FERRO, EM VIRTUDE DO § 14 DO ARTIGO 1° DO DECRETO NÚMERO 641 DE 26 DE JUNHO DE 1852."
+    },
+    {
+      "senadoId": "394724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-26-1931",
+      "titulo": "Decreto nº 1.931 de 26/04/1857",
+      "data": "1857-04-26",
+      "numero": "1931",
+      "urn": "urn:lex:br:federal:decreto:1857-04-26;1931",
+      "ementa": "ALTERA AS CONDIÇÕES ANEXAS AO DECRETO 1.742, DE 29 DE MARÇO DE 1856, RELATIVAS A EMPRESA DO SERVIÇO DE TRANSPORTE E CONDUÇÃO DE GENEROS POR CARRIS DE FERRO, DESDE O LARGO DO ROCIO ATE O LUGAR DENOMINADO - BOA VISTA - NA TIJUCA."
+    },
+    {
+      "senadoId": "394711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-25-1928",
+      "titulo": "Decreto nº 1.928 de 25/04/1857",
+      "data": "1857-04-25",
+      "numero": "1928",
+      "urn": "urn:lex:br:federal:decreto:1857-04-25;1928",
+      "ementa": "ALTERA AS CONDIÇÕES ANEXAS AO DECRETO NÚMERO 1.038 DE 30 DE AGOSTO DE    1852, RELATIVAS Á COMPANHIA SANTA CRUZ DE NAVEGAÇÃO A VAPOR ENTRE O  PORTO DA CIDADE DA BAHIA ATÉ O DE MACEIÓ NA LINHA DO NORTE, E O DE CARAVELAS NA DO SUL."
+    },
+    {
+      "senadoId": "394699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-25-1925",
+      "titulo": "Decreto nº 1.925 de 25/04/1857",
+      "data": "1857-04-25",
+      "numero": "1925",
+      "urn": "urn:lex:br:federal:decreto:1857-04-25;1925",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA MINERAÇÃO MARANHENSE."
+    },
+    {
+      "senadoId": "394703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-25-1926",
+      "titulo": "Decreto nº 1.926 de 25/04/1857",
+      "data": "1857-04-25",
+      "numero": "1926",
+      "urn": "urn:lex:br:federal:decreto:1857-04-25;1926",
+      "ementa": "CRIA A REPARTIÇÃO ESPECIAL DAS TERRAS PÚBLICAS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "394695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-25-1924",
+      "titulo": "Decreto nº 1.924 de 25/04/1857",
+      "data": "1857-04-25",
+      "numero": "1924",
+      "urn": "urn:lex:br:federal:decreto:1857-04-25;1924",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DA QUANTIA DE 153.481$347 PARA OCORRER ÁS DESPESAS, NO EXERCÍCIO DE 1856-1857, COM AS VERBAS MENCIONADAS NA TABELA QUE COM ESTE BAIXA."
+    },
+    {
+      "senadoId": "394691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-25-1923",
+      "titulo": "Decreto nº 1.923 de 25/04/1857",
+      "data": "1857-04-25",
+      "numero": "1923",
+      "urn": "urn:lex:br:federal:decreto:1857-04-25;1923",
+      "ementa": "ELEVA OS VENCIMENTOS DOS PAGADORES DAS PAGADORIAS FILIAIS DA TESOURARIA DA PROVÍNCIA DE S. PEDRO, E CRIA O LUGAR DE FIEL NA DA CIDADE DO RIO GRANDE."
+    },
+    {
+      "senadoId": "394707",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-25-1927",
+      "titulo": "Decreto nº 1.927 de 25/04/1857",
+      "data": "1857-04-25",
+      "numero": "1927",
+      "urn": "urn:lex:br:federal:decreto:1857-04-25;1927",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE AUXILIADORA DA INDÚSTRIA NACIONAL NOVAMENTE REFORMADOS."
+    },
+    {
+      "senadoId": "394683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-11-1921",
+      "titulo": "Decreto nº 1.921 de 11/04/1857",
+      "data": "1857-04-11",
+      "numero": "1921",
+      "urn": "urn:lex:br:federal:decreto:1857-04-11;1921",
+      "ementa": "MANDA POR EXECUÇÃO AS TABELAS, QUE REGULAM OS FORNECIMENTOS DE VIVERES, E DE MUNIÇÕES NAVAIS E DE GUERRA AOS NAVIOS D'ARMADA NACIONAL."
+    },
+    {
+      "senadoId": "394687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-11-1922",
+      "titulo": "Decreto nº 1.922 de 11/04/1857",
+      "data": "1857-04-11",
+      "numero": "1922",
+      "urn": "urn:lex:br:federal:decreto:1857-04-11;1922",
+      "ementa": "CONFERE NOVAS ATRIBUIÇÕES Á MESA DAS RENDAS ESTABELECIDAS NO PORTO DE S. FRANCISCO, DA PROVÍNCIA DE SANTA CATARINA, PARA O DESPACHO DE IMPORTAÇÃO E EXPORTAÇÃO DE GÊNEROS NACIONAIS E EXTRANGEIROS."
+    },
+    {
+      "senadoId": "394675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-04-1919",
+      "titulo": "Decreto nº 1.919 de 04/04/1857",
+      "data": "1857-04-04",
+      "numero": "1919",
+      "urn": "urn:lex:br:federal:decreto:1857-04-04;1919",
+      "ementa": "APROVA OS ESTATUTOS DA CAIXA ECONÔMICA DA CIDADE DE SANTOS."
+    },
+    {
+      "senadoId": "394679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-04-1920",
+      "titulo": "Decreto nº 1.920 de 04/04/1857",
+      "data": "1857-04-04",
+      "numero": "1920",
+      "urn": "urn:lex:br:federal:decreto:1857-04-04;1920",
+      "ementa": "APROVA OS ESTATUTOS DA CAIXA ECONÔMICA DA CIDADE DE CAMPOS."
+    },
+    {
+      "senadoId": "394667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-04-1917",
+      "titulo": "Decreto nº 1.917 de 04/04/1857",
+      "data": "1857-04-04",
+      "numero": "1917",
+      "urn": "urn:lex:br:federal:decreto:1857-04-04;1917",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DA IMPORTÂNCIA DE 15.458$191 RÉIS PARA AS DESPESAS DOS ORDENADOS DOS MESTRES DA FAMÍLIA IMPERIAL E DO JARDIM BOTÂNICO DA LAGOA DE RODRIGO DE FREITAS NO EXERCÍCIO DE 1856-1857."
+    },
+    {
+      "senadoId": "394671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-04-04-1918",
+      "titulo": "Decreto nº 1.918 de 04/04/1857",
+      "data": "1857-04-04",
+      "numero": "1918",
+      "urn": "urn:lex:br:federal:decreto:1857-04-04;1918",
+      "ementa": "CRIA LUGARES DE PRATICANTES NAS TESOURARIAS DE FAZENDA DE 4ª E 5ª CLASSE DE 2ª ORDEM."
+    },
+    {
+      "senadoId": "394645",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1911",
+      "titulo": "Decreto nº 1.911 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1911",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1911",
+      "ementa": "REGULA A COMPETÊNCIA, INTERPOSIÇÃO, EFEITOS E FORMA DO JULGAMENTO DOS RECURSOS Á COROA."
+    },
+    {
+      "senadoId": "394637",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1909",
+      "titulo": "Decreto nº 1.909 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1909",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1909",
+      "ementa": "REGULA A SUBSTITUIÇÃO DOS JUÍZES DE DIREITO DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "394630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1907",
+      "titulo": "Decreto nº 1.907 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1907",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1907",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE TACARATÚ, CRIADA NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "394618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1904",
+      "titulo": "Decreto nº 1.904 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1904",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1904",
+      "ementa": "MARCA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS COMARCAS DE SANTO ANTONIO DOS ANJOS E DE NOSSA SENHORA DA GRAÇA, CRIADAS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "394655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1914",
+      "titulo": "Decreto nº 1.914 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1914",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1914",
+      "ementa": "MANDA EXECUTAR A NOVA TARIFA DAS ALFÂNDEGAS E AS SUAS DISPOSIÇÕES PRELIMINARES."
+    },
+    {
+      "senadoId": "394659",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1915",
+      "titulo": "Decreto nº 1.915 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1915",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1915",
+      "ementa": "APROVA O CONTRATO CELEBRADO ENTRE O GOVERNO IMPERIAL E A ASSOCIAÇÃO CENTRAL DE COLONIZAÇÃO."
+    },
+    {
+      "senadoId": "394641",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1910",
+      "titulo": "Decreto nº 1.910 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1910",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1910",
+      "ementa": "ESTABELECE NA CAPITAL DO IMPÉRIO DOIS JUÍZES ESPECIAIS DO COMÉRCIO."
+    },
+    {
+      "senadoId": "394633",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1908",
+      "titulo": "Decreto nº 1.908 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1908",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1908",
+      "ementa": "ENCARREGA ESPECIALMENTE A CADA UMA DAS TRES VARAS MUNICIPAIS DA CÔRTE DIVERSAS JURISDIÇÕES E COMISSÕES ESTABELECIDAS POR LEI."
+    },
+    {
+      "senadoId": "394663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1916",
+      "titulo": "Decreto nº 1.916 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1916",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1916",
+      "ementa": "ABRINDO AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO SUPLEMENTAR DE 56.000$000 AO CÂMBIO DE 27 DINHEIROS ESTERLINOS POR MIL RÉIS PARA AS DESPESAS DE 1856-1857."
+    },
+    {
+      "senadoId": "394649",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1912",
+      "titulo": "Decreto nº 1.912 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1912",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1912",
+      "ementa": "ALTERA AS DISPOSIÇÕES DO DECRETO DE 20 DE AGOSTO DE 1777."
+    },
+    {
+      "senadoId": "394626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1906",
+      "titulo": "Decreto nº 1.906 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1906",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1906",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA AS COMARCAS DE SANTO ANTONIO DOS ANJOS, E DE NOSSA SENHORA DA GRAÇA, CRIADAS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "394652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1913",
+      "titulo": "Decreto nº 1.913 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1913",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1913",
+      "ementa": "EXTINGUE O LUGAR DE VICE-DIRETOR DO ARSENAL DE GUERRA DA CÔRTE, E CRIA EM SUBSTITUIÇÃO O DE AJUDANTE DO DIRETOR."
+    },
+    {
+      "senadoId": "394622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-28-1905",
+      "titulo": "Decreto nº 1.905 de 28/03/1857",
+      "data": "1857-03-28",
+      "numero": "1905",
+      "urn": "urn:lex:br:federal:decreto:1857-03-28;1905",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE TACARATÚ, CRIADA NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "394614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-24-1903",
+      "titulo": "Decreto nº 1.903 de 24/03/1857",
+      "data": "1857-03-24",
+      "numero": "1903",
+      "urn": "urn:lex:br:federal:decreto:1857-03-24;1903",
+      "ementa": "ELEVA O NÚMERO DE LANÇADORES DA RECEBEDORIA DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "394607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-24-1901",
+      "titulo": "Decreto nº 1.901 de 24/03/1857",
+      "data": "1857-03-24",
+      "numero": "1901",
+      "urn": "urn:lex:br:federal:decreto:1857-03-24;1901",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE RS. 899.491$450 PARA AS DESPESAS DO MINISTÉRIO DA GUERRA NO EXERCÍCIO DE 1856-1857."
+    },
+    {
+      "senadoId": "394610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-24-1902",
+      "titulo": "Decreto nº 1.902 de 24/03/1857",
+      "data": "1857-03-24",
+      "numero": "1902",
+      "urn": "urn:lex:br:federal:decreto:1857-03-24;1902",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DA TELHA DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "394604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-03-07-1900",
+      "titulo": "Decreto nº 1.900 de 07/03/1857",
+      "data": "1857-03-07",
+      "numero": "1900",
+      "urn": "urn:lex:br:federal:decreto:1857-03-07;1900",
+      "ementa": "APROVA O NOVO REGULAMENTO DO CORPO DE SAÚDE DO EXÉRCITO."
+    },
+    {
+      "senadoId": "394596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-21-1898",
+      "titulo": "Decreto nº 1.898 de 21/02/1857",
+      "data": "1857-02-21",
+      "numero": "1898",
+      "urn": "urn:lex:br:federal:decreto:1857-02-21;1898",
+      "ementa": "DÁ REGULAMENTO PARA AS SECRETARIAS DE POLÍCIA DAS PROVÍNCIAS DE S. PAULO, ALAGOAS, PARAÍBA, CEARÁ, MARANHÃO, PARÁ, SANTA CATARINA, PARANÁ, ESPÍRITO SANTO, SERGIPE, RIO GRANDE DO NORTE, PIAUÍ, AMAZONAS, MATO GROSSO E GOIÁS."
+    },
+    {
+      "senadoId": "394592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-21-1897",
+      "titulo": "Decreto nº 1.897 de 21/02/1857",
+      "data": "1857-02-21",
+      "numero": "1897",
+      "urn": "urn:lex:br:federal:decreto:1857-02-21;1897",
+      "ementa": "DÁ REGULAMENTO PARA AS SECRETARIAS DE POLÍCIA DAS PROVÍNCIAS DE S. PEDRO DO RIO GRANDE DO SUL, RIO DE JANEIRO, BAHIA, PERNAMBUCO E MINAS GERAIS."
+    },
+    {
+      "senadoId": "394600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-21-1899",
+      "titulo": "Decreto nº 1.899 de 21/02/1857",
+      "data": "1857-02-21",
+      "numero": "1899",
+      "urn": "urn:lex:br:federal:decreto:1857-02-21;1899",
+      "ementa": "AUTORIZA A INCORPORAÇÃO NESTA CORTE DA - COMPANHIA EDIFICADORA 12 DE AGOSTO -, E APROVA OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "394567",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-19-1891",
+      "titulo": "Decreto nº 1.891 de 19/02/1857",
+      "data": "1857-02-19",
+      "numero": "1891",
+      "urn": "urn:lex:br:federal:decreto:1857-02-19;1891",
+      "ementa": "SEPARA O TERMO DO RIO-CLARO DO DE S. JOÃO DO PRÍNCIPE, NA PROVÍNCIA DO RIO DE JANEIRO, E CRIA NELE O LUGAR DE JUÍZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUÍZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "394559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1889",
+      "titulo": "Decreto nº 1.889 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1889",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1889",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE GURUPÁ DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "394580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1894",
+      "titulo": "Decreto nº 1.894 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1894",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1894",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DO RIO PARANÁ DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "394575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1893",
+      "titulo": "Decreto nº 1.893 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1893",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1893",
+      "ementa": "CRIA NO TERMO DE LAGES, DA PROVÍNCIA DE SANTA CATARINA, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "394588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1896",
+      "titulo": "Decreto nº 1.896 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1896",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1896",
+      "ementa": "DA PROVIDENCIAS A RESPEITO DOS ESCRAVOS DEMORADOS NA CASA DE CORREÇÃO DA CORTE."
+    },
+    {
+      "senadoId": "394571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1892",
+      "titulo": "Decreto nº 1.892 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1892",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1892",
+      "ementa": "CRIA O LUGAR DE JUÍZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUÍZ DE ORGÃOS NOS TERMOS REUNIDOS DE SABOEIRO E TELHA, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "394551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1887",
+      "titulo": "Decreto nº 1.887 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1887",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1887",
+      "ementa": "ESTABELECE QUE EM CADA UM DOS DISTRITOS DE PAZ DAS FREGUESIAS DE SANAT RITA, SACRAMENTO E SANT'ANNA, DO MUNICÍPIO DA CÔRTE, HAJA UM SUBDELEGADO DE POLÍCIA."
+    },
+    {
+      "senadoId": "394543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1885",
+      "titulo": "Decreto nº 1.885 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1885",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1885",
+      "ementa": "APROVA A TABELA DOS VENCIMENTOS DO DIRETOR, PROFESSORES E MAIS EMPREGADOS DO INSTITUTO COMERCIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "394563",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1890",
+      "titulo": "Decreto nº 1.890 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1890",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1890",
+      "ementa": "CRIA NO TERMO DE GUARAPUAVA, DA PROVÍNCIA DO PARANÁ, O LUGAR DE JUÍZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "394555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1888",
+      "titulo": "Decreto nº 1.888 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1888",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1888",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DO SABOEIRO DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "394584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1895",
+      "titulo": "Decreto nº 1.895 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1895",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1895",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PUBLICO DA COMARCA DO TERESINA DA PROVINCIA DE PIAUI."
+    },
+    {
+      "senadoId": "394547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-14-1886",
+      "titulo": "Decreto nº 1.886 de 14/02/1857",
+      "data": "1857-02-14",
+      "numero": "1886",
+      "urn": "urn:lex:br:federal:decreto:1857-02-14;1886",
+      "ementa": "AUTORIZA A ABERTURA DE UM CRÉDITO SUPLEMENTAR DA QUANTIA DE CENTO E TRINTA CONTOS DE RÉIS PARA AS DESPESAS DO MINISTÉRIO DO IMPÉRIO, NA VERBA - OBRAS PÚBLICAS DO MUNICÍPIO - NO EXERCÍCIO DE 1856-1857."
+    },
+    {
+      "senadoId": "394532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-07-1882",
+      "titulo": "Decreto nº 1.882 de 07/02/1857",
+      "data": "1857-02-07",
+      "numero": "1882",
+      "urn": "urn:lex:br:federal:decreto:1857-02-07;1882",
+      "ementa": "ALTERA O NÚMERO DAS SESSÕES DO TRIBUNAL DO CONSELHO SUPREMO MILITAR DE JUSTIÇA, E ELEVA OS VENCIMENTOS DOS RESPECTIVOS MAGISTRADOS E EMPREGADOS DO TRIBUNAL E SECRETARIA."
+    },
+    {
+      "senadoId": "394536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-07-1883",
+      "titulo": "Decreto nº 1.883 de 07/02/1857",
+      "data": "1857-02-07",
+      "numero": "1883",
+      "urn": "urn:lex:br:federal:decreto:1857-02-07;1883",
+      "ementa": "AUTORIZA O TRIBUNAL DO COMÉRCIO DA CAPITAL DO IMPÉRIO A NOMEAR DOIS STEREOMETRAS ESPECIAIS E PRIVATIVOS, E MARCA-LHES OS VENCIMENTOS."
+    },
+    {
+      "senadoId": "394540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-02-07-1884",
+      "titulo": "Decreto nº 1.884 de 07/02/1857",
+      "data": "1857-02-07",
+      "numero": "1884",
+      "urn": "urn:lex:br:federal:decreto:1857-02-07;1884",
+      "ementa": "PROVIDENCIA A RESPEITO DOS PROVIMENTOS DADOS EM CORREÇÃO PELOS JUÍZES DE DIREITO EM MATÉRIA ADMINISTRATIVA."
+    },
+    {
+      "senadoId": "394485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1871",
+      "titulo": "Decreto nº 1.871 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1871",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1871",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE GURUPÁ, CRIADA NA PROVÍNCIA DO PARA."
+    },
+    {
+      "senadoId": "394502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1875",
+      "titulo": "Decreto nº 1.875 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1875",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1875",
+      "ementa": "SUPRIME O COMANDO DAS ARMAS DA CÔRTE."
+    },
+    {
+      "senadoId": "394493",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1873",
+      "titulo": "Decreto nº 1.873 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1873",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1873",
+      "ementa": "DECLARA PERANTE QUE JUÍZES DEVERÃO SERVIR O PRIMEIRO E SEGUNDO PORTEIROS DOS AUDITÓRIOS DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "394518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1879",
+      "titulo": "Decreto nº 1.879 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1879",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1879",
+      "ementa": "ESTABELECE AS INSPEÇÕES MILITARES POR ARMAS E O NÚMERO DOS RESPECTIVOS DISTRITOS."
+    },
+    {
+      "senadoId": "394528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1881",
+      "titulo": "Decreto nº 1.881 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1881",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1881",
+      "ementa": "APROVA O REGULAMENTO PARA A REPARTIÇÃO DO AJUDANTE-GENERAL DO EXÉRCITO."
+    },
+    {
+      "senadoId": "394522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1880",
+      "titulo": "Decreto nº 1.880 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1880",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1880",
+      "ementa": "REFORMA A TABELA DE 28 DE MARÇO DE 1825 NA PARTE RELATIVA ÁS GRATIFICAÇÕES DE COMANDO E EXERCÍCIO."
+    },
+    {
+      "senadoId": "394514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1878",
+      "titulo": "Decreto nº 1.878 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1878",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1878",
+      "ementa": "FIXA O VALOR E TEMPO DE DURAÇÃO DAS CAVALGADURAS DE PESSOAS, E BESTAS DE BAGAGEM DOS OFICIAIS DO EXÉRCITO E AS QUANTIAS DESTINADAS PARA REMONTA DELAS."
+    },
+    {
+      "senadoId": "394489",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1872",
+      "titulo": "Decreto nº 1.872 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1872",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1872",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DO RIO PARANÁ, CRIADA NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "394477",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1869",
+      "titulo": "Decreto nº 1.869 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1869",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1869",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE SABOEIRO, CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "394510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1877",
+      "titulo": "Decreto nº 1.877 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1877",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1877",
+      "ementa": "FIXA O VALOR DA ETAPA DIÁRIA DOS OFICIAIS DO EXÉRCITO, E DA RAÇÃO DIÁRIA DA FORRAGEM PARA SUSTENTO DAS CAVALGADURAS DE PESSOAS E BESTAS DE BAGAGEM QUE AOS MESMOS OFICIAIS COMPETEM."
+    },
+    {
+      "senadoId": "394506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1876",
+      "titulo": "Decreto nº 1.876 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1876",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1876",
+      "ementa": "CRIA O LUGAR DE CHEFE NA SEÇÃO DE CONTABILIDADE ANEXA Á SECRETARIA DE ESTADO DOS NEGÓCIOS DA FAZENDA."
+    },
+    {
+      "senadoId": "394497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1874",
+      "titulo": "Decreto nº 1.874 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1874",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1874",
+      "ementa": "ESTABELECE QUE NO MUNICÍPIO DA CÔRTE HAJA TRÊS DELEGADOS DE POLÍCIA, E MARCA-LHES DISTRITOS."
+    },
+    {
+      "senadoId": "394481",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-31-1870",
+      "titulo": "Decreto nº 1.870 de 31/01/1857",
+      "data": "1857-01-31",
+      "numero": "1870",
+      "urn": "urn:lex:br:federal:decreto:1857-01-31;1870",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE TEREZINA, CRIADA NA PROVÍNCIA DE PIAUÍ."
+    },
+    {
+      "senadoId": "394473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-24-1868",
+      "titulo": "Decreto nº 1.868 de 24/01/1857",
+      "data": "1857-01-24",
+      "numero": "1868",
+      "urn": "urn:lex:br:federal:decreto:1857-01-24;1868",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER COM AS COLÔNIAS MILITARES, E POR CONTA DO EXERCÍCIO DE 1856-1857 MAIS A QUANTIA DE 60.000$000."
+    },
+    {
+      "senadoId": "394465",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-17-1866",
+      "titulo": "Decreto nº 1.866 de 17/01/1857",
+      "data": "1857-01-17",
+      "numero": "1866",
+      "urn": "urn:lex:br:federal:decreto:1857-01-17;1866",
+      "ementa": "AUTORIZA A INCORPORAÇÃO NESTA CÔRTE DE UMA COMPANHIA DENOMINADA - EDIFICADORA -, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "394469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-17-1867",
+      "titulo": "Decreto nº 1.867 de 17/01/1857",
+      "data": "1857-01-17",
+      "numero": "1867",
+      "urn": "urn:lex:br:federal:decreto:1857-01-17;1867",
+      "ementa": "AUTORIZA A INCORPORAÇÃO NESTA CÔRTE DE UMA COMPANHIA COM A DENOMINAÇÃO DE - ARQUITETÔNICA -, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "394461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-17-1865",
+      "titulo": "Decreto nº 1.865 de 17/01/1857",
+      "data": "1857-01-17",
+      "numero": "1865",
+      "urn": "urn:lex:br:federal:decreto:1857-01-17;1865",
+      "ementa": "SEPARA O TERMO DE MAGÉ DO DE NITERÓI, NA PROVÍNCIA DO RIO DE JANEIRO, E CRIA NELE O LUGAR DE JUÍZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORGÃOS."
+    },
+    {
+      "senadoId": "394448",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-03-1862",
+      "titulo": "Decreto nº 1.862 de 03/01/1857",
+      "data": "1857-01-03",
+      "numero": "1862",
+      "urn": "urn:lex:br:federal:decreto:1857-01-03;1862",
+      "ementa": "ESTABELECE QUE NO MUNICÍPIO DA CÔRTE HAJAM DOIS PROMOTORES PÚBLICOS."
+    },
+    {
+      "senadoId": "394444",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-03-1861",
+      "titulo": "Decreto nº 1.861 de 03/01/1857",
+      "data": "1857-01-03",
+      "numero": "1861",
+      "urn": "urn:lex:br:federal:decreto:1857-01-03;1861",
+      "ementa": "SEPARA O TERMO DE SERINHAEM DO RIO FORMOSO, NA PROVÍNCIA DE PERNAMBUCO, E CRIA NELE O LUGAR DE JUÍZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUÍZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "394452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-03-1863",
+      "titulo": "Decreto nº 1.863 de 03/01/1857",
+      "data": "1857-01-03",
+      "numero": "1863",
+      "urn": "urn:lex:br:federal:decreto:1857-01-03;1863",
+      "ementa": "CONCEDE A MANOEL RODRIGUES BORGES PRIVILÉGIO POR 10 ANOS PARA O FABRICO DO CHÁ PEKOE, OU PRETO DE PONTA BRANCA, SEGUNDO O PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "394457",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1857-01-03-1864",
+      "titulo": "Decreto nº 1.864 de 03/01/1857",
+      "data": "1857-01-03",
+      "numero": "1864",
+      "urn": "urn:lex:br:federal:decreto:1857-01-03;1864",
+      "ementa": "AUTORIZA A ABERTURA DE UM CRÉDITO SUPLEMENTAR DE 39.880$000 PARA OCORRER ÁS DESPESAS DA RÚBRICA, SECRETARIA D'ESTADO DO MINISTÉRIO DO IMPÉRIO NO EXERCÍCIO DE 186-1857."
+    }
+  ],
+  "pendencias": []
+}

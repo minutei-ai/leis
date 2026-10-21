@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-08-13202",
+  "titulo": "Lei nº 13.202 de 08/12/2015",
+  "data": "2015-12-08",
+  "fonte": "https://normas.leg.br/api/public/binario/63173c8d-a52e-4683-a2a9-8e7f7c1fbf25/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-08;13202",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-08%3B13202&tipo_documento=maior-detalhe",
+  "sha256_dados": "8e87b7bbd4197c3bec9b3b0fae997671e9ca0d3e1e1d02eeb74517b234035f50",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:50.448Z",
+  "sha256_fonte": "4dba18660191fff641ef27e09782cbeadd531217aec448ce5d45024ab30b023a",
+  "sha256_markdown": "ec49c7fb15cb59f3cb10929c4cef03a4480755a493b07032a849fc04875565ad"
+}

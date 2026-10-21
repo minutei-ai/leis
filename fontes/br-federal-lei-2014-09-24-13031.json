@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-09-24-13031",
+  "titulo": "Lei nº 13.031 de 24/09/2014",
+  "data": "2014-09-24",
+  "fonte": "https://normas.leg.br/api/public/binario/52c515f9-7141-42af-af7d-14a8687a62ba/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-09-24;13031",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-09-24%3B13031&tipo_documento=maior-detalhe",
+  "sha256_dados": "aeac9ffcf20900096d07035c4c2ca41afeca40fbf1048ac3d96621ec2a79eb69",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:34.744Z",
+  "sha256_fonte": "f7b89ed581f8dd7f9bc01ae2c568e7854502fdf0d31206e7ffad6cc90e7d9e66",
+  "sha256_markdown": "7f55a4d1b6afb5017c5b01c9ca2ee3c81a031943ee12b8edb4d918b2c743f704"
+}

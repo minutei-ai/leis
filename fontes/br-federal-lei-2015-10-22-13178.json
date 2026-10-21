@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-10-22-13178",
+  "titulo": "Lei nº 13.178 de 22/10/2015",
+  "data": "2015-10-22",
+  "fonte": "https://normas.leg.br/api/public/binario/3583a7f6-0048-48a8-9773-10e50251a3c3/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-10-22;13178",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-10-22%3B13178&tipo_documento=maior-detalhe",
+  "sha256_dados": "b17792994e19377269744323143a113e31e420175a19a7e74edb8af6104a39dd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:20.347Z",
+  "sha256_fonte": "4a63d50519a9c062628d93f11dc3752e71da6d59cbf04c4718a247e58d6f673e",
+  "sha256_markdown": "05b04da8ad06b2ce6ce9e61b08d336ab1b64f839ea7185d5adf6a12fc47adb87"
+}

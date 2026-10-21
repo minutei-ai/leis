@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       limite:
-        description: Máximo de tentativas por fonte neste lote
+        description: Máximo de novas tentativas por fonte neste lote
         type: number
         default: 1000
   schedule:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     env:
-      BATCH_LIMIT: ${{ inputs.limite || 1000 }}
+      BATCH_LIMIT: ${{ github.event_name == 'schedule' && 1000 || inputs.limite }}
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
@@ -50,6 +50,18 @@ jobs:
       - name: Coletar novo lote municipal de São Paulo
         continue-on-error: true
         run: bun run collect:pmsp --limit "$BATCH_LIMIT" --skip-failures
+      - name: Reavaliar até 100 falhas federais mais antigas
+        continue-on-error: true
+        run: bun run collect:senado --limit 100 --only-failures
+      - name: Reavaliar até 100 falhas mineiras mais antigas
+        continue-on-error: true
+        run: bun run collect:almg --from 1947 --limit 100 --only-failures
+      - name: Reavaliar até 100 falhas paulistas mais antigas
+        continue-on-error: true
+        run: bun run collect:alesp --limit 100 --only-failures
+      - name: Reavaliar até 100 falhas municipais mais antigas
+        continue-on-error: true
+        run: bun run collect:pmsp --limit 100 --only-failures
       - run: bun run check
       - run: bun run audit
       - run: bun run coverage

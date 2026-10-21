@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-05-07-13118",
+  "titulo": "Lei nº 13.118 de 07/05/2015",
+  "data": "2015-05-07",
+  "fonte": "https://normas.leg.br/api/public/binario/935071fc-2c50-4384-b56b-6281e88d39fb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-05-07;13118",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-05-07%3B13118&tipo_documento=maior-detalhe",
+  "sha256_dados": "f07c77760d9f08584bf98d45b34d79de39be2e2c8d6dcf10deca98a2cba87a6c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:39.748Z",
+  "sha256_fonte": "7b3353b5096a83c1942b2575062d03c2c2851ee90b9cfa56cd69aeb8c70c7940",
+  "sha256_markdown": "b621970c9d04c7ae957fc5e09f3a76df49edd3103959602c835ebd0b58e517aa"
+}

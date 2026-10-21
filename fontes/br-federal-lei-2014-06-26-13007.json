@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-06-26-13007",
+  "titulo": "Lei nº 13.007 de 26/06/2014",
+  "data": "2014-06-26",
+  "fonte": "https://normas.leg.br/api/public/binario/cd3ee19a-5e6d-4583-9318-ee7c8c967811/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-06-26;13007",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-06-26%3B13007&tipo_documento=maior-detalhe",
+  "sha256_dados": "5c40621a95e0db8971595dde9d349f515a6308c651218ee93d785334ff7db0db",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:03.232Z",
+  "sha256_fonte": "5e1a4622a024263213eb903b77f3a4e071385ef01ae3ee17bc3434aa261b6578",
+  "sha256_markdown": "d8639f0b22e54076cff173d7de7d1c09e64982dda7fae7db482f47d1eac2ab09"
+}

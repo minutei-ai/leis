@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2013-12-27-12946",
+  "titulo": "Lei nº 12.946 de 27/12/2013",
+  "data": "2013-12-27",
+  "fonte": "https://normas.leg.br/api/public/binario/dda11997-3f75-4c04-9ed2-b67fedd4fd7e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2013-12-27;12946",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2013-12-27%3B12946&tipo_documento=maior-detalhe",
+  "sha256_dados": "07e059125192aa837053449e2fa3d182740896f066d80b6278f12a60b3564e2f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:06:19.648Z",
+  "sha256_fonte": "903b0749ee3c6fb753d4f3eef63cbb1948fec87f426aaadff9009ef9be3d2dbf",
+  "sha256_markdown": "1836f397b13b2fe827348ab044a8d494846067ec4d6989564be838ed8e51760f"
+}

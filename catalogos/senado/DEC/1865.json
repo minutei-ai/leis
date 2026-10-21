@@ -1,0 +1,2159 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1865",
+  "tipo": "DEC",
+  "ano": 1865,
+  "coletado_em": "2026-10-21T08:52:29.309Z",
+  "normas": [
+    {
+      "senadoId": "401325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3576",
+      "titulo": "Decreto nº 3.576 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3576",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3576",
+      "ementa": "ELEVA A QUINZE O PRAZO DE CINCO ANOS DE PRIVILÉGIO CONCEDIDO A ALEXANDRE CARLOS LUIZ DEVAUX, POR DECRETO NÚMERO 3531 DE 18 DE NOVEMBRO ÚLTIMO, PARA FABRICAR E VENDER NO IMPÉRIO APARELHOS, QUE DECLAROU TER INVENTADO PARA A CONSERVAÇÃO DOS CEREAIS, SOB A DENOMINAÇÃO DE DEPOSITOS AREJADORES."
+    },
+    {
+      "senadoId": "401333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3578",
+      "titulo": "Decreto nº 3.578 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3578",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3578",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 1.069:779$988, E AUTORIZA OS TRANSPORTES DE 488:326$626 DE UMAS PARA OUTRAS VERBAS DA DESPESA DO MESMO MINISTÉRIO NO EXERCÍCIO DE 1864-1865."
+    },
+    {
+      "senadoId": "401321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3575",
+      "titulo": "Decreto nº 3.575 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3575",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3575",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA ANONIMA, DENOMINADA - PROMOTORA DA COLONIZAÇÃO POLACA NO IMPÉRIO - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3571",
+      "titulo": "Decreto nº 3.571 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3571",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3571",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA CAMARA MUNICIPAL DA CORTE PARA O ANO DE 1866."
+    },
+    {
+      "senadoId": "401313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3573",
+      "titulo": "Decreto nº 3.573 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3573",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3573",
+      "ementa": "AUTORIZA AO MINISTRO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS PARA APLICAR ÀS DESPESAS COM A VERBA - SUBVENÇÃO ÀS COMPANHIAS DE NAVEGAÇÃO À VAPOR - A QUANTIA DE 6:433$407, TIRADA DAS SOBRAS DA DE - TERRAS PÚBLICAS E COLONIZAÇÃO -, PERTENCENTE AO EXERCÍCIO DE 1864-1865."
+    },
+    {
+      "senadoId": "401337",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3578-a",
+      "titulo": "Decreto nº 3.578-A de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3578-a",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3578-a",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO SUPLEMENTAR DE 150:000$000 PARA SER APLICADO AS DESPESAS EXTRAORDINÁRIAS NO EXTERIOR E ÁS DIFERENÇAS DE CAMBIO E COMISSÕES NO EXERCÍCIO DE 1865-1866."
+    },
+    {
+      "senadoId": "401317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3574",
+      "titulo": "Decreto nº 3.574 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3574",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3574",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DE 17:109$309 PARA COBRIR O DEFICIT QUE SE VERIFICA NA VERBA ILUMINAÇÃO PÚBLICA DO EXERCÍCIO DE 1864-1865."
+    },
+    {
+      "senadoId": "401309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3572",
+      "titulo": "Decreto nº 3.572 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3572",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3572",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DA ESTATÍSTICA POLICIAL E JUDICIÁRIA."
+    },
+    {
+      "senadoId": "401329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-30-3577",
+      "titulo": "Decreto nº 3.577 de 30/12/1865",
+      "data": "1865-12-30",
+      "numero": "3577",
+      "urn": "urn:lex:br:federal:decreto:1865-12-30;3577",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA GUERRA PARA APLICAR ÀS DESPESAS COM DIVERSAS RUBRICAS DO EXERCÍCIO DE 1864-1865 A QUANTIA DE 135:585$366, TIRADA DAS SOBRAS DE OUTRAS VERBAS PERTENCENTES AO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "401301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-27-3570",
+      "titulo": "Decreto nº 3.570 de 27/12/1865",
+      "data": "1865-12-27",
+      "numero": "3570",
+      "urn": "urn:lex:br:federal:decreto:1865-12-27;3570",
+      "ementa": "AUTORIZA AO MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A APLICAR ÀS DESPESAS DAS VERBAS - RELAÇÕES E GUARDA NACIONAL, NO EXERCÍCIO DE 1864 A 1865, A QUANTIA DE RÉIS 66:250$601 TIRADA DAS SOBRAS DA VERBA - JUSTIÇAS DE 1ª INSTANCIA - NO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "401297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-23-3569",
+      "titulo": "Decreto nº 3.569 de 23/12/1865",
+      "data": "1865-12-23",
+      "numero": "3569",
+      "urn": "urn:lex:br:federal:decreto:1865-12-23;3569",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE MONTE ALTO, E CARINHANHA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "401289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-20-3567",
+      "titulo": "Decreto nº 3.567 de 20/12/1865",
+      "data": "1865-12-20",
+      "numero": "3567",
+      "urn": "urn:lex:br:federal:decreto:1865-12-20;3567",
+      "ementa": "PERMITE QUE A COMPANHIA DENOMINADA - LONDON, BRASILIAN, AND MAUÁ BANK LIMITED - FUNCIONE NESTE IMPÉRIO SOB AS CONDIÇÕES ABAIXO INDICADAS."
+    },
+    {
+      "senadoId": "401293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-20-3568",
+      "titulo": "Decreto nº 3.568 de 20/12/1865",
+      "data": "1865-12-20",
+      "numero": "3568",
+      "urn": "urn:lex:br:federal:decreto:1865-12-20;3568",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA LOCOMOTORA E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-20-3566",
+      "titulo": "Decreto nº 3.566 de 20/12/1865",
+      "data": "1865-12-20",
+      "numero": "3566",
+      "urn": "urn:lex:br:federal:decreto:1865-12-20;3566",
+      "ementa": "REGULA O MODO POR QUE DEVE SER PRESTADO O DEPOIMENTO DA TESTEMUNHA, QUE NÃO PUDER COMPARECER ANTE ALGUM TRIBUNAL MILITAR PARA SER INQUIRIDA EM QUALQUER PROCESSO, OU QUE TENHA DE AUSENTAR-SE ANTES DE INSTALADO O CONSELHO DE INVESTIGAÇÃO, OU DE GUERRA A QUE DEVA COMPARECER, OU QUE SE RECEIE JÁ NÃO EXISTA NO TEMPO EM QUE TENHA DE SER INQUIRIDA; FAZENDO EXTENSIVAS AS MESMAS DISPOSIÇÕES AO CASO, EM QUE, NA FORMA DA LEGISLAÇÃO EM VIGOR, CABE AOS RÉUS PRODUZIR TESTEMUNHAS."
+    },
+    {
+      "senadoId": "401261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-16-3560",
+      "titulo": "Decreto nº 3.560 de 16/12/1865",
+      "data": "1865-12-16",
+      "numero": "3560",
+      "urn": "urn:lex:br:federal:decreto:1865-12-16;3560",
+      "ementa": "DESIGNA OS DOCUMENTOS QUE DEVEM SUPRIR NOS CONSELHOS DE GUERRA AS FÉS DE OFÍCIO, QUANDO ESTAS SE NÃO PUDEREM EXTRAIR PELA AUSENCIA, OU PERDA DOS ARQUIVOS DOS CORPOS."
+    },
+    {
+      "senadoId": "401277",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-16-3564",
+      "titulo": "Decreto nº 3.564 de 16/12/1865",
+      "data": "1865-12-16",
+      "numero": "3564",
+      "urn": "urn:lex:br:federal:decreto:1865-12-16;3564",
+      "ementa": "ALTERA AS CONDIÇÕES 1, 8 E 10 DO DECRETO 3352 A, DE 30 DE NOVEMBRO DE 1864."
+    },
+    {
+      "senadoId": "401265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-16-3561",
+      "titulo": "Decreto nº 3.561 de 16/12/1865",
+      "data": "1865-12-16",
+      "numero": "3561",
+      "urn": "urn:lex:br:federal:decreto:1865-12-16;3561",
+      "ementa": "MARCA O TEMPO, EM QUE DEVEM SER FEITAS AS NOMEAÇÕES DE SUPLENTES DOS JUIZES MUNICIPAIS."
+    },
+    {
+      "senadoId": "401273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-16-3563",
+      "titulo": "Decreto nº 3.563 de 16/12/1865",
+      "data": "1865-12-16",
+      "numero": "3563",
+      "urn": "urn:lex:br:federal:decreto:1865-12-16;3563",
+      "ementa": "AUTORIZA O AUMENTO DA CAPITAL DA COMPANHIA DE ILUMINAÇÃO A GÁS DO MARANHÃO."
+    },
+    {
+      "senadoId": "401281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-16-3565",
+      "titulo": "Decreto nº 3.565 de 16/12/1865",
+      "data": "1865-12-16",
+      "numero": "3565",
+      "urn": "urn:lex:br:federal:decreto:1865-12-16;3565",
+      "ementa": "CONCEDE A JORGE CHRISTIANO GIEBERT PRIVILÉGIO POR DEZ ANOS PARA ESTABELECER NA PROVÍNCIA DE S.PEDRO FÁBRICAS, ONDE POSSA PREPARAR O EXTRACTUM CARNIS, SEGUNDO O PROCESSO INVENTADO PELO BARÃO DE LIEBIG."
+    },
+    {
+      "senadoId": "401269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-16-3562",
+      "titulo": "Decreto nº 3.562 de 16/12/1865",
+      "data": "1865-12-16",
+      "numero": "3562",
+      "urn": "urn:lex:br:federal:decreto:1865-12-16;3562",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NAS FREGUESIAS DO RIO FUNDO E PARTE DA DO BOM-JARDIM, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "401253",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-13-3558",
+      "titulo": "Decreto nº 3.558 de 13/12/1865",
+      "data": "1865-12-13",
+      "numero": "3558",
+      "urn": "urn:lex:br:federal:decreto:1865-12-13;3558",
+      "ementa": "APROVANDO E MANDANDO EXECUTAR A TARIFA DE PASSAGEIROS E MERCADORIAS DA ESTAÇÃO DO DESENGANO PARA AS DEMAIS ESTAÇÕES E VICE-VERSA."
+    },
+    {
+      "senadoId": "401249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-13-3557",
+      "titulo": "Decreto nº 3.557 de 13/12/1865",
+      "data": "1865-12-13",
+      "numero": "3557",
+      "urn": "urn:lex:br:federal:decreto:1865-12-13;3557",
+      "ementa": "MODIFICA OS ARTIGOS 19 E 149 DO REGULAMENTO DAS ESCOLAS MILITARES QUANTO À IDADE EXIGIDA PARA A MATRÍCULA DOS OFICIAIS E PRAÇAS DE PRET DO EXÉRCITO EM CAMPANHA CONTRA A REPÚBLICA DO PARAGUAI."
+    },
+    {
+      "senadoId": "401245",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-13-3556",
+      "titulo": "Decreto nº 3.556 de 13/12/1865",
+      "data": "1865-12-13",
+      "numero": "3556",
+      "urn": "urn:lex:br:federal:decreto:1865-12-13;3556",
+      "ementa": "MANDA REMETER CÓPIA DAS SENTENÇAS DOS RÉUS MILITARES JULGADOS EM ÚLTIMA INSTANCIA AOS SEUS RESPECTIVOS CORPOS: ARQUIVANDO-SE OS PROCESSOS NA 2ª DIRETORIA GERAL DA SECRETARIA DE ESTADO DOS NEGÓCIOS DA GUERRA."
+    },
+    {
+      "senadoId": "401257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-13-3559",
+      "titulo": "Decreto nº 3.559 de 13/12/1865",
+      "data": "1865-12-13",
+      "numero": "3559",
+      "urn": "urn:lex:br:federal:decreto:1865-12-13;3559",
+      "ementa": "MANDANDO OBSERVAR NA ESTRADA DE FERRO DE D.PEDRO II, AS TARIFAS PARA O TRANSPORTE DE CARVÃO MINERAL E VEGETAL."
+    },
+    {
+      "senadoId": "401241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-09-3555",
+      "titulo": "Decreto nº 3.555 de 09/12/1865",
+      "data": "1865-12-09",
+      "numero": "3555",
+      "urn": "urn:lex:br:federal:decreto:1865-12-09;3555",
+      "ementa": "EXTINGUE OS CORPOS DE GUARNIÇÃO DO EXERCITO, ELEVA O NUMERO DOS CORPOS MOVEIS, DA NOVA FORMA AOS CORPOS E COMPANHIAS DE ARTILHARIA, REDUZ OS DE CAVALARIA, CRIA CORPOS DE CAÇADORES A CAVALO, COMPANHIAS DE OPERARIOS EM SUBSTITUIÇÃO AS DE ARTIFICES, ESTABELECE DEPOSITOS ESPECIAIS DE INSTRUÇÃO E DE DISCIPLINA E COMPANHIAS OU BATERIAS E DEPOSITOS DE APRENDIZES ARTILHEIROS."
+    },
+    {
+      "senadoId": "401236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-12-06-3554",
+      "titulo": "Decreto nº 3.554 de 06/12/1865",
+      "data": "1865-12-06",
+      "numero": "3554",
+      "urn": "urn:lex:br:federal:decreto:1865-12-06;3554",
+      "ementa": "ALTERA OS ESTATUTOS DA COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO COSTEIRA POR VAPOR."
+    },
+    {
+      "senadoId": "401220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-29-3550",
+      "titulo": "Decreto nº 3.550 de 29/11/1865",
+      "data": "1865-11-29",
+      "numero": "3550",
+      "urn": "urn:lex:br:federal:decreto:1865-11-29;3550",
+      "ementa": "MARCA O ORDENADO ANUAL DE CEM MIL RÉIS AO CARCEREIRO DA CADEIA DA VILA DO PILAR, NA PROVINCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "401228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-29-3552",
+      "titulo": "Decreto nº 3.552 de 29/11/1865",
+      "data": "1865-11-29",
+      "numero": "3552",
+      "urn": "urn:lex:br:federal:decreto:1865-11-29;3552",
+      "ementa": "CONCEDE À COMPANHIA DE SEGUROS - FELIZ LEMBRANÇA, - ESTABELECIDA NESTA CORTE, PERMISSÃO PARA REDUZIR O SEU CAPITAL."
+    },
+    {
+      "senadoId": "401232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-29-3553",
+      "titulo": "Decreto nº 3.553 de 29/11/1865",
+      "data": "1865-11-29",
+      "numero": "3553",
+      "urn": "urn:lex:br:federal:decreto:1865-11-29;3553",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO E APROVA OS ESTATUTOS DA SOCIEDADE COMERCIAL E AGRÍCOLA."
+    },
+    {
+      "senadoId": "401224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-29-3551",
+      "titulo": "Decreto nº 3.551 de 29/11/1865",
+      "data": "1865-11-29",
+      "numero": "3551",
+      "urn": "urn:lex:br:federal:decreto:1865-11-29;3551",
+      "ementa": "CONCEDE A LUIZ BOULIECH PERMISSÃO PARA TRANSFERIR A CUNHA, PLANT & COMP. OS DIREITOS E OBRIGAÇÕES QUE LHE FORÃO OUTORGADOS PARA A EXPLORAÇÃO DA MINA DE CARVÃO DE PEDRA SITA ÀS MARGENS DOS RIOS JAGUARÃO E SEUS AFLUENTES, NA PROVÍNCIA DE S.PEDRO."
+    },
+    {
+      "senadoId": "401212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-29-3548",
+      "titulo": "Decreto nº 3.548 de 29/11/1865",
+      "data": "1865-11-29",
+      "numero": "3548",
+      "urn": "urn:lex:br:federal:decreto:1865-11-29;3548",
+      "ementa": "FAZ EXTENSIVAS AOS OFICIAIS E PRAÇAS DE PRET DO EXÉRCITO, QUE TOMARÃO PARTE NO COMBATE NAVAL DE RIACHUELO AS DISPOSIÇÕES DO DECRETO NÚMERO 3529 DE 18 DO CORRENTE MÊS E ANO."
+    },
+    {
+      "senadoId": "401216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-29-3549",
+      "titulo": "Decreto nº 3.549 de 29/11/1865",
+      "data": "1865-11-29",
+      "numero": "3549",
+      "urn": "urn:lex:br:federal:decreto:1865-11-29;3549",
+      "ementa": "AUTORIZA A SOCIEDADE DENOMINADA - INDUSTRIAL DE BENEFICENCIA - A CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3537",
+      "titulo": "Decreto nº 3.537 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3537",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3537",
+      "ementa": "ALTERA O 2º UNIFORME DO 3º BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DE S.PAULO."
+    },
+    {
+      "senadoId": "401161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3535",
+      "titulo": "Decreto nº 3.535 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3535",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3535",
+      "ementa": "CRIA CONSELHOS DE INVESTIGAÇÃO NA GUARDA NACIONAL, PARA VERIFICAREM A AUSENCIA COMETIDA PELOS OFICIAIS DA MESMA GUARDA."
+    },
+    {
+      "senadoId": "401177",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3539",
+      "titulo": "Decreto nº 3.539 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3539",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3539",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO A SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL, ORGANIZADA NO MUNICÍPIO DE PELOTAS, DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "401189",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3542",
+      "titulo": "Decreto nº 3.542 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3542",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3542",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DO BATALHÃO DE INFANTARIA NÚMERO 74 DA GUARDA NACIONAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "401197",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3544",
+      "titulo": "Decreto nº 3.544 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3544",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3544",
+      "ementa": "CRIA UMA COMPANHIA AVULSA DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL NO MUNICÌPIO DE CANGUSSÚ, DA PROVÍNCIA DE S.PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "401165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3536",
+      "titulo": "Decreto nº 3.536 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3536",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3536",
+      "ementa": "CONCEDE O USO DE BONETS À CAVAIGNAC, EM SEGUNDO UNIFORME AO 1º BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVINCIA DO PARÁ."
+    },
+    {
+      "senadoId": "401201",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3545",
+      "titulo": "Decreto nº 3.545 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3545",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3545",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE MONTE SANTO E GEREMOABO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "401173",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3538",
+      "titulo": "Decreto nº 3.538 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3538",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3538",
+      "ementa": "CRIA MAIS DUAS COMPANHIAS NO CORPO DE CAVALARIA NÚMERO 30 DA GUARDA NACIONAL DA PROVÍNCIA DE S.PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "401181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3540",
+      "titulo": "Decreto nº 3.540 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3540",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3540",
+      "ementa": "ALTERA O PRIMEIRO UNIFORME DO 1º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA CORTE."
+    },
+    {
+      "senadoId": "401185",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3541",
+      "titulo": "Decreto nº 3.541 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3541",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3541",
+      "ementa": "DISSOLVE O ESQUADRÃO AVULSO DA GUARDA NACIONAL, ORGANIZADO NA CIDADE DE ARÊAS, DA PROVÍNCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "401193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3543",
+      "titulo": "Decreto nº 3.543 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3543",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3543",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DO BATALHÃO DE INFANTARIA NÚMERO 2 DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DE S.PAULO."
+    },
+    {
+      "senadoId": "401205",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-25-3546",
+      "titulo": "Decreto nº 3.546 de 25/11/1865",
+      "data": "1865-11-25",
+      "numero": "3546",
+      "urn": "urn:lex:br:federal:decreto:1865-11-25;3546",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NA FREGUESIA DOS PRAZERES, MUNICÍPIO DE INHAMBUPE, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "401157",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-22-3534",
+      "titulo": "Decreto nº 3.534 de 22/11/1865",
+      "data": "1865-11-22",
+      "numero": "3534",
+      "urn": "urn:lex:br:federal:decreto:1865-11-22;3534",
+      "ementa": "MARCA O ORDENADO ANUAL DE 120$000 AO CARCEREIRO DA CADEIA DA VILA DE TEIXEIRA, NA PROVÍNCIA DA PARAIBA DO NORTE."
+    },
+    {
+      "senadoId": "401154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-22-3533",
+      "titulo": "Decreto nº 3.533 de 22/11/1865",
+      "data": "1865-11-22",
+      "numero": "3533",
+      "urn": "urn:lex:br:federal:decreto:1865-11-22;3533",
+      "ementa": "FIXA O NÚMERO DE ELEITORES DA NOVA PARÓQUIA DO DIVINO ESPÍRITO SANTO DE MATAPORCOS, E ALTERA O DAS PARÓQUIAS DE SANTA ANNA E ENGENHO VELHO."
+    },
+    {
+      "senadoId": "401149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3532",
+      "titulo": "Decreto nº 3.532 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3532",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3532",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO BARÃO DE MAUÁ E OUTROS, PARA INCORPORAREM UMA SOCIEDADE ANONIMA, DENOMINADA - COMPANHIA DE CORTUMES -, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3531",
+      "titulo": "Decreto nº 3.531 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3531",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3531",
+      "ementa": "CONCEDE PRIVILEGIO POR CINCO ANOS A ALEXANDRE CARLOS LUIZ DEVAUX PARA FABRICAR E VENDER NO IMPÉRIO APARELHOS DE SUA INVENÇÃO, DESTINADOS A CONSERVAÇÃO DE CEREAIS."
+    },
+    {
+      "senadoId": "401133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3528",
+      "titulo": "Decreto nº 3.528 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3528",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3528",
+      "ementa": "ALTERA AS TARIFAS DA ESTRADA DE FERRO DE D.PEDRO II, QUE BAIXARÃO COM OS DECRETOS NÚMEROS 3048 DE 3 DE FEVEREIRO DE 1863 E 3221 DE 23 DE JANEIRO DE 1864, NA PARTE QUE SE REFEREM AOS FRETES DO CARVÃO MINERAL E VEGETAL."
+    },
+    {
+      "senadoId": "401137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3529",
+      "titulo": "Decreto nº 3.529 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3529",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3529",
+      "ementa": "CONCEDE O USO DE UMA MEDALHA AOS OFICIAIS E PRAÇAS DA ARMADA, QUE SE DISTINGUIRÃO NO COMBATE NAVAL DO RIACHUELO."
+    },
+    {
+      "senadoId": "401153",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3532-a",
+      "titulo": "Decreto nº 3.532-A de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3532-a",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3532-a",
+      "ementa": "ALTERA O REGULAMENTO APROVADO PELO DECRETO 3433 DE 12 DE ABRIL DE 1865."
+    },
+    {
+      "senadoId": "401129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3527",
+      "titulo": "Decreto nº 3.527 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3527",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3527",
+      "ementa": "CONCEDE MAIS UM ANO DE PRORROGAÇÃO DO PRAZO PARA COMEÇO DOS TRABALHOS DE PROLONGAMENTO DA RUA DO CORTUME, EM S.CHRISTOVÃO, A PRAIA DO SACCO DO ALFERES."
+    },
+    {
+      "senadoId": "401125",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3526",
+      "titulo": "Decreto nº 3.526 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3526",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3526",
+      "ementa": "CRIA O CORPO DE ESTADO MAIOR DE ARTILHARIA E REDUZ O PESSOAL DOS CORPOS DE ENGENHEIROS E DE ESTADO MAIOR DE PRIMEIRA CLASSE."
+    },
+    {
+      "senadoId": "401141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-18-3530",
+      "titulo": "Decreto nº 3.530 de 18/11/1865",
+      "data": "1865-11-18",
+      "numero": "3530",
+      "urn": "urn:lex:br:federal:decreto:1865-11-18;3530",
+      "ementa": "AUTORIZA O TRANSPORTE DA SOMA DE 321:483$858 DE UMAS PARA OUTRAS RUBRICAS DA DESPESA DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1864 A 1865."
+    },
+    {
+      "senadoId": "401122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-11-11-3525",
+      "titulo": "Decreto nº 3.525 de 11/11/1865",
+      "data": "1865-11-11",
+      "numero": "3525",
+      "urn": "urn:lex:br:federal:decreto:1865-11-11;3525",
+      "ementa": "CRIA UMA CADEIRA DE INSTRUÇÃO PRIMARIA DO PRIMEIRO GRAU PARA O SEXO FEMININO NA FREGUESIA DO DIVINO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "401114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-10-26-3523",
+      "titulo": "Decreto nº 3.523 de 26/10/1865",
+      "data": "1865-10-26",
+      "numero": "3523",
+      "urn": "urn:lex:br:federal:decreto:1865-10-26;3523",
+      "ementa": "APROVA OS DECRETOS NÚMEROS 3507 E 3508 DE 30 DE AGOSTO ÚLTIMO, CONTENDO PROVIDENCIAS PROVISORIAMENTE DADAS PELOS MINISTROS E SECRETÁRIOS DE ESTADO DAS DIFERENTES REPARTIÇÕES."
+    },
+    {
+      "senadoId": "401118",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-10-26-3524",
+      "titulo": "Decreto nº 3.524 de 26/10/1865",
+      "data": "1865-10-26",
+      "numero": "3524",
+      "urn": "urn:lex:br:federal:decreto:1865-10-26;3524",
+      "ementa": "APROVA O DECRETO NÚMERO 3513 DE 12 DE SETEMBRO ÚLTIMO, CONTENDO PROVIDENCIAS PROVISORIAMENTE DADAS PELOS MINISTROS E SECRETÁRIOS DE ESTADO DAS DIFERENTES REPARTIÇÕES."
+    },
+    {
+      "senadoId": "401110",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-10-01-3522",
+      "titulo": "Decreto nº 3.522 de 01/10/1865",
+      "data": "1865-10-01",
+      "numero": "3522",
+      "urn": "urn:lex:br:federal:decreto:1865-10-01;3522",
+      "ementa": "REDUZ O CORPO DE ESTADO MAIOR DE 2ª CLASSE."
+    },
+    {
+      "senadoId": "401104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3521",
+      "titulo": "Decreto nº 3.521 de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3521",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3521",
+      "ementa": "PERMITE QUE A COMPANHIA DO QUEIMADO, ESTABELECIDA NA CAPITAL DA PROVÍNCIA DA BAHIA, CONTINUE A FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3519",
+      "titulo": "Decreto nº 3.519 de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3519",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3519",
+      "ementa": "ALTERA A TABELA DOS DESPACHOS TELEGRÁFICOS QUE BAIXOU COM O DECRETO NÚMERO 3288 DE 20 DE JUNHO DE 1864."
+    },
+    {
+      "senadoId": "401108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3521-a",
+      "titulo": "Decreto nº 3.521-A de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3521-a",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3521-a",
+      "ementa": "CONCEDE AO CHEFE DA ESTAÇÃO FISCAL NO MUNICÍPIO DA CORTE A FACULDADE DE DELEGAR A RUBRICA DOS LIVROS A QUALQUER DOS PRIMEIROS ESCRITURÁRIOS."
+    },
+    {
+      "senadoId": "401084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3516",
+      "titulo": "Decreto nº 3.516 de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3516",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3516",
+      "ementa": "DECLARA SEM EFEITO OS ARTIGOS 5º DO DECRETO NÚMERO 3308, E 16 DO DECRETO NÚMERO 3309 DE 17 DE SETEMBRO DE 1864."
+    },
+    {
+      "senadoId": "401109",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3521-b",
+      "titulo": "Decreto nº 3.521-B de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3521-b",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3521-b",
+      "ementa": "CONFERE NOVAS ATRIBUIÇÕES À MESA DE RENDA ESTABELECIDA NO PORTO DE ITAJAHY DA PROVÍNCIA DE SANTA CATARINA PARA O DESPACHO DOS NAVIOS NACIONAIS OU ESTRANGEIROS QUE CONDUZIREM COLONOS, E SUAS BAGAGENS."
+    },
+    {
+      "senadoId": "401100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3520",
+      "titulo": "Decreto nº 3.520 de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3520",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3520",
+      "ementa": "CONCEDE A POLICARPO LOPES DE LEÃO PRIVILÉGIO POR TRÊS ANOS PARA EXPLORAR AS MINAS DE COBRE E OUTROS MINERAIS NA COMARCA DA CHAPADA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "401088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3517",
+      "titulo": "Decreto nº 3.517 de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3517",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3517",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO A PRIMEIRA COMPANHIA AVULSA DE INFANTARIA DA GUARDA NACIONAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "401092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-30-3518",
+      "titulo": "Decreto nº 3.518 de 30/09/1865",
+      "data": "1865-09-30",
+      "numero": "3518",
+      "urn": "urn:lex:br:federal:decreto:1865-09-30;3518",
+      "ementa": "MARCA O ORDENADO ANUAL DE 80$000 AO CARCEREIRO DA CADEIA DO PASSO DE CAMARAGIBE, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "401080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-20-3515",
+      "titulo": "Decreto nº 3.515 de 20/09/1865",
+      "data": "1865-09-20",
+      "numero": "3515",
+      "urn": "urn:lex:br:federal:decreto:1865-09-20;3515",
+      "ementa": "CRIA UMA MEDALHA COMEMORATIVA DO RENDIMENTO DA DIVISÃO DO EXÉRCITO DA REPÚBLICA DO PARAGUAI, QUE OCUPAVA A VILA DE URUGUAIANA."
+    },
+    {
+      "senadoId": "401076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-20-3514",
+      "titulo": "Decreto nº 3.514 de 20/09/1865",
+      "data": "1865-09-20",
+      "numero": "3514",
+      "urn": "urn:lex:br:federal:decreto:1865-09-20;3514",
+      "ementa": "APROVA OS DECRETOS NÚMEROS 3504, 3505 E 3506 DE 4 DE AGOSTO ÚLTIMO, CONTENDO PROVIDENCIAS PROVISORIAMENTE DADAS PELOS MINISTROS E SECRETARIOS DE ESTADO DAS DIFERENTES REPARTIÇÕES."
+    },
+    {
+      "senadoId": "401072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-12-3513",
+      "titulo": "Decreto nº 3.513 de 12/09/1865",
+      "data": "1865-09-12",
+      "numero": "3513",
+      "urn": "urn:lex:br:federal:decreto:1865-09-12;3513",
+      "ementa": "ISENTA DO RECRUTAMENTO E DO SERVIÇO DA GUARDA NACIONAL AO GUARDA NACIONAL QUE DER POR SI PARA SERVIR NO EXÉRCITO UMA PESSOA IDONEA."
+    },
+    {
+      "senadoId": "401059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-06-3510",
+      "titulo": "Decreto nº 3.510 de 06/09/1865",
+      "data": "1865-09-06",
+      "numero": "3510",
+      "urn": "urn:lex:br:federal:decreto:1865-09-06;3510",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO MARCADO NO ARTIGO 5º DOS ESTATUTOS DA COMPANHIA DE CARRIS DE FERRO DO JARDIM BOTÂNICO PARA A CONCLUSÃO DAS RESPECTIVAS OBRAS."
+    },
+    {
+      "senadoId": "401063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-06-3511",
+      "titulo": "Decreto nº 3.511 de 06/09/1865",
+      "data": "1865-09-06",
+      "numero": "3511",
+      "urn": "urn:lex:br:federal:decreto:1865-09-06;3511",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO DE UM ANO MARCADO NA CONDIÇÃO 4ª DO DECRETO NÚMERO 3299 DE 10 DE AGOSTO DO ANO PASSADO PARA O COMEÇO DA NAVEGAÇÃO POR VAPOR NO RIO PIRAHY."
+    },
+    {
+      "senadoId": "401055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-06-3509",
+      "titulo": "Decreto nº 3.509 de 06/09/1865",
+      "data": "1865-09-06",
+      "numero": "3509",
+      "urn": "urn:lex:br:federal:decreto:1865-09-06;3509",
+      "ementa": "ORDENA QUE A DECLARAÇÃO EXIGIDA PELO ARTIGO 2º DA LEI NÚMERO 1096 DE 10 DE SETEMBRO DE 1860 SEJA FEITA PERANTE A CAMARA MUNICIPAL DO MUNICÍPIO, ONDE TIVER DOMICÍLIO A BRASILEIRA QUE, CASADA COM ESTRANGEIRO, QUISER RECOBRAR SUA CONDIÇÃO DE BRASILEIRA."
+    },
+    {
+      "senadoId": "401067",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-06-3512",
+      "titulo": "Decreto nº 3.512 de 06/09/1865",
+      "data": "1865-09-06",
+      "numero": "3512",
+      "urn": "urn:lex:br:federal:decreto:1865-09-06;3512",
+      "ementa": "TRANSFERE AO DOMÍNIO DO ESTADO A PROPRIEDADE DO RAMAL DOS MACACOS NA ESTRADA DE FERRO DE D.PEDRO II."
+    },
+    {
+      "senadoId": "401071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-09-06-3512-a",
+      "titulo": "Decreto nº 3.512-A de 06/09/1865",
+      "data": "1865-09-06",
+      "numero": "3512-a",
+      "urn": "urn:lex:br:federal:decreto:1865-09-06;3512-a",
+      "ementa": "AUMENTA COM MAIS DUAS, O NUMERO DAS COMPANHIAS DO CORPO NUMERO ONZE DE CAVALARIA DA GUARDA NACIONAL DO COMANDO SUPERIOR DO MUNICIPIO DA CAPITAL DA PROVINCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "401052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-08-30-3508",
+      "titulo": "Decreto nº 3.508 de 30/08/1865",
+      "data": "1865-08-30",
+      "numero": "3508",
+      "urn": "urn:lex:br:federal:decreto:1865-08-30;3508",
+      "ementa": "CONCEDE AOS GUARDAS NACIONAIS DESIGNADOS PARA O SERVIÇO DE GUERRA OS MESMOS FAVORES CONCEDIDOS AOS VOLUNTÁRIOS DA PÁTRIA."
+    },
+    {
+      "senadoId": "401048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-08-30-3507",
+      "titulo": "Decreto nº 3.507 de 30/08/1865",
+      "data": "1865-08-30",
+      "numero": "3507",
+      "urn": "urn:lex:br:federal:decreto:1865-08-30;3507",
+      "ementa": "APLICA AOS MUNICIPIOS LIMITROPES COM A PROVÍNCIA DE MATO GROSSO O DECRETO NÚMERO 2029 DE 18 DE NOVEMBRO DE 1857 RELATIVO À GUARDA NACIONAL DAS FRONTEIRAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "401040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-08-04-3505",
+      "titulo": "Decreto nº 3.505 de 04/08/1865",
+      "data": "1865-08-04",
+      "numero": "3505",
+      "urn": "urn:lex:br:federal:decreto:1865-08-04;3505",
+      "ementa": "EQUIPARA OS CORPOS VOLUNTARIOS DA GUARDA NACIONAL AOS CORPOS DE VOLUNTARIOS DA PATRIA."
+    },
+    {
+      "senadoId": "401036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-08-04-3504",
+      "titulo": "Decreto nº 3.504 de 04/08/1865",
+      "data": "1865-08-04",
+      "numero": "3504",
+      "urn": "urn:lex:br:federal:decreto:1865-08-04;3504",
+      "ementa": "DECLARA EM VIGOR AS DISPOSIÇÕES DO DECRETO NÚMERO 3.371 DE 7 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "401044",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-08-04-3506",
+      "titulo": "Decreto nº 3.506 de 04/08/1865",
+      "data": "1865-08-04",
+      "numero": "3506",
+      "urn": "urn:lex:br:federal:decreto:1865-08-04;3506",
+      "ementa": "DÁ ALGUMAS PROVIDÊNCIAS PARA O SERVIÇO DA GUARDA NACIONAL EM TEMPO DE GUERRA."
+    },
+    {
+      "senadoId": "401034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-27-3503-a",
+      "titulo": "Decreto nº 3.503-A de 27/07/1865",
+      "data": "1865-07-27",
+      "numero": "3503-a",
+      "urn": "urn:lex:br:federal:decreto:1865-07-27;3503-a",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DO DÉCIMO SEGUNDO BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "401035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-27-3503-b",
+      "titulo": "Decreto nº 3.503-B de 27/07/1865",
+      "data": "1865-07-27",
+      "numero": "3503-b",
+      "urn": "urn:lex:br:federal:decreto:1865-07-27;3503-b",
+      "ementa": "ALTERA O UNIFORME DO PRIMEIRO BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "401026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-10-3502",
+      "titulo": "Decreto nº 3.502 de 10/07/1865",
+      "data": "1865-07-10",
+      "numero": "3502",
+      "urn": "urn:lex:br:federal:decreto:1865-07-10;3502",
+      "ementa": "CONCEDE À COMPANHIA MERIM DE NAVEGAÇÃO POR VAPOR ESTABELECIDA NA CIDADE DE JAGUARÃO, DA PROVÍNCIA DE SÃO PEDRO, A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-10-3503",
+      "titulo": "Decreto nº 3.503 de 10/07/1865",
+      "data": "1865-07-10",
+      "numero": "3503",
+      "urn": "urn:lex:br:federal:decreto:1865-07-10;3503",
+      "ementa": "TRANSFERE AO ESTADO O RESTO DAS AÇÕES DA COMPANHIA DA ESTRADA DE FERRO DE D.PEDRO II."
+    },
+    {
+      "senadoId": "401018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-10-3500",
+      "titulo": "Decreto nº 3.500 de 10/07/1865",
+      "data": "1865-07-10",
+      "numero": "3500",
+      "urn": "urn:lex:br:federal:decreto:1865-07-10;3500",
+      "ementa": "CONCEDE A LUIZ DA ROCHA DIAS PRIVILÉGIO POR DOIS ANOS PARA EXPLORAR AS MINAS DE COBRE E OUTROS MINERAIS NA COMARCA DA CACHOEIRA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "401022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-10-3501",
+      "titulo": "Decreto nº 3.501 de 10/07/1865",
+      "data": "1865-07-10",
+      "numero": "3501",
+      "urn": "urn:lex:br:federal:decreto:1865-07-10;3501",
+      "ementa": "CONCEDE A JOÃO FRANCISCO DOS SANTOS PRIVILÉGIO POR DEZ ANOS PARA USAR NO IMPÉRIO DA DESCOBERTA QUE DECLAROU TER FEITO DO VEGETAL, CONHECIDO PELO NOME DE CARRAPICHO, CUJAS FIBRAS SE PRESTÃO AO FABRICO DE TECIDOS E TRABALHOS DE CORDOARIA."
+    },
+    {
+      "senadoId": "400986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3492",
+      "titulo": "Decreto nº 3.492 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3492",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3492",
+      "ementa": "CONCEDE O USO DE UMA MEDALHA À GUARNIÇÃO QUE DEFENDEU O FORTE DE COIMBRA NOS DIAS 26, 27 E 28 DE DEZEMBRO DE 1864."
+    },
+    {
+      "senadoId": "401006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3497",
+      "titulo": "Decreto nº 3.497 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3497",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3497",
+      "ementa": "CRIA MAIS UMA COMPANHIA DE INFANTARIA NO CORPO POLICIAL DA CORTE."
+    },
+    {
+      "senadoId": "400978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3490",
+      "titulo": "Decreto nº 3.490 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3490",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3490",
+      "ementa": "ADIA A ASSEMBLÉIA GERAL LEGISLATIVA PARA O DIA 4 DE MARÇO DE 1866."
+    },
+    {
+      "senadoId": "400994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3494",
+      "titulo": "Decreto nº 3.494 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3494",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3494",
+      "ementa": "MARCA O ORDENADO ANUAL DE 80$000 AO CARCEREIRO DA CADEIA DA VILA DE CACONDE, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3491",
+      "titulo": "Decreto nº 3.491 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3491",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3491",
+      "ementa": "DÁ PROVIDÊNCIAS PARA REGULAREM-SE, E DIRIGIREM-SE OS NEGÓCIOS DO ESTADO DURANTE A AUSÊNCIA DE SUA MAGESTADE O IMPERADOR EM SUA VIAGEM À PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "401010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3498",
+      "titulo": "Decreto nº 3.498 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3498",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3498",
+      "ementa": "APROVA A TARIFA DE PASSAGEIROS E MERCADORIAS PARA A NOVA ESTAÇÃO DE VASSOURAS NA ESTRADA DE FERRO DE D.PEDRO II."
+    },
+    {
+      "senadoId": "400998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3495",
+      "titulo": "Decreto nº 3.495 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3495",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3495",
+      "ementa": "MARCA O ORDENADO ANUAL DE 80$000 AO CARCEREIRO DA CADEIA DA VILA DE BETHLEM, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3499",
+      "titulo": "Decreto nº 3.499 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3499",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3499",
+      "ementa": "CRIA PROVISORIAMENTE DUAS JUNTAS DE JUSTIÇA MILITAR, UMA NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E OUTRA NA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "400990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3493",
+      "titulo": "Decreto nº 3.493 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3493",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3493",
+      "ementa": "MARCA O ORDENADO ANUAL DE 80$000 AO CARCEREIRO DA CADEIA DA VILA DE XIRIRICA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-08-3496",
+      "titulo": "Decreto nº 3.496 de 08/07/1865",
+      "data": "1865-07-08",
+      "numero": "3496",
+      "urn": "urn:lex:br:federal:decreto:1865-07-08;3496",
+      "ementa": "DÁ INSTRUÇÕES PARA AS JUNTAS DE SAÚDE DOS COMANDOS SUPERIORES DA GUARDA NACIONAL."
+    },
+    {
+      "senadoId": "400974",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-07-07-3489",
+      "titulo": "Decreto nº 3.489 de 07/07/1865",
+      "data": "1865-07-07",
+      "numero": "3489",
+      "urn": "urn:lex:br:federal:decreto:1865-07-07;3489",
+      "ementa": "DESIGNA O MEMBRO DO CONSELHO INSPETOR E FISCAL DA CAIXA ECONOMICA E MONTE DE SOCORRO, QUE TEM DE SERVIR DE PRESIDENTE E VICE-PRESIDENTE DO MESMO CONSELHO NO IMPEDIMENTO DESTES."
+    },
+    {
+      "senadoId": "400962",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-28-3486",
+      "titulo": "Decreto nº 3.486 de 28/06/1865",
+      "data": "1865-06-28",
+      "numero": "3486",
+      "urn": "urn:lex:br:federal:decreto:1865-06-28;3486",
+      "ementa": "AMPLIA A DISPOSIÇÃO DO ARTIGO 36 DO DECRETO NÚMERO 858 DE 10 DE NOVEMBRO DE 1851."
+    },
+    {
+      "senadoId": "400966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-28-3487",
+      "titulo": "Decreto nº 3.487 de 28/06/1865",
+      "data": "1865-06-28",
+      "numero": "3487",
+      "urn": "urn:lex:br:federal:decreto:1865-06-28;3487",
+      "ementa": "CRIA OS OFÍCIOS PRIVATIVOS DE OFICIAIS DO REGISTRO GERAL DAS HIPOTECAS NAS CAPITAIS DAS PROVÍNCIAS DO PARÁ E DO MARANHÃO."
+    },
+    {
+      "senadoId": "400970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-28-3488",
+      "titulo": "Decreto nº 3.488 de 28/06/1865",
+      "data": "1865-06-28",
+      "numero": "3488",
+      "urn": "urn:lex:br:federal:decreto:1865-06-28;3488",
+      "ementa": "FAZ EXTENSIVO AOS INDIVIDUOS, QUE COMPUSERÃO AS GUARNIÇÕES DOS NAVIOS DA ESQUADRA, SOB O COMANDO DO VISCONDE DE TAMANDARÉ, O USO DA MEDALHA CRIADA PELO DECRETO NÚMERO 3468, DE 8 DE MAIO ÚLTIMO."
+    },
+    {
+      "senadoId": "400958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-21-3485",
+      "titulo": "Decreto nº 3.485 de 21/06/1865",
+      "data": "1865-06-21",
+      "numero": "3485",
+      "urn": "urn:lex:br:federal:decreto:1865-06-21;3485",
+      "ementa": "CONCEDE A WILLIAM GILBERT GINTY PRIVILÉGIO POR DEZ ANOS PARA USAR, NO MUNICÍPIO NEUTRO E PROVÍNCIA DO RIO DE JANEIRO, DE UM PROCESSO, DE SUA INVENÇÃO, DESTINADO À PREPARAÇÃO DA TURFA."
+    },
+    {
+      "senadoId": "400954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-16-3484",
+      "titulo": "Decreto nº 3.484 de 16/06/1865",
+      "data": "1865-06-16",
+      "numero": "3484",
+      "urn": "urn:lex:br:federal:decreto:1865-06-16;3484",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGURO CONTRA O FOGO - INTERESSE PÚBLICO -, ESTABELECIDA NA CAPITAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-14-3483",
+      "titulo": "Decreto nº 3.483 de 14/06/1865",
+      "data": "1865-06-14",
+      "numero": "3483",
+      "urn": "urn:lex:br:federal:decreto:1865-06-14;3483",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DOS MUNICÍPIOS DA MATA GRANDE E ANEXOS DA PROVÍNCIA DAS ALAGOAS, SUBORDINANDO AO DO PENEDO DA MESMA PROVÍNCIA, O BATALHÃO DE INFANTARIA NÚMERO VINTE E UM  DO SERVIÇO ATIVO."
+    },
+    {
+      "senadoId": "400937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3480",
+      "titulo": "Decreto nº 3.480 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3480",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3480",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DO 1º BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DE S.PAULO."
+    },
+    {
+      "senadoId": "400925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3477",
+      "titulo": "Decreto nº 3.477 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3477",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3477",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL, NA CIDADE DE S.JOÃO D'EL-REI, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400942",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3481",
+      "titulo": "Decreto nº 3.481 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3481",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3481",
+      "ementa": "ALTERA OS UNIFORMES DA PRIMEIRA SEÇÃO DE BATALHÃO DE ARTILHARIA, PRIMEIRO E SEGUNDO BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3476",
+      "titulo": "Decreto nº 3.476 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3476",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3476",
+      "ementa": "EXTINGUE O ESQUADRÃO DE CAVALARIA NÚMERO 8 DA GUARDA NACIONAL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3482",
+      "titulo": "Decreto nº 3.482 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3482",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3482",
+      "ementa": "ALTERA O ARTIGO 13 DO DECRETO NÚMERO 3453 DE 26 DE ABRIL DE 1865."
+    },
+    {
+      "senadoId": "400933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3479",
+      "titulo": "Decreto nº 3.479 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3479",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3479",
+      "ementa": "MARCA O ORDENADO ANUAL DE 120$000 AO CARCEREIRO DA CADEIA DA CIDADE DE CARUARÚ, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-12-3478",
+      "titulo": "Decreto nº 3.478 de 12/06/1865",
+      "data": "1865-06-12",
+      "numero": "3478",
+      "urn": "urn:lex:br:federal:decreto:1865-06-12;3478",
+      "ementa": "MARCA O ORDENADO ANUAL DE 60$000 AO CARCEREIRO DA CADEIA DA VILA DE PONTE NOVA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-07-3475",
+      "titulo": "Decreto nº 3.475 de 07/06/1865",
+      "data": "1865-06-07",
+      "numero": "3475",
+      "urn": "urn:lex:br:federal:decreto:1865-06-07;3475",
+      "ementa": "CRIA O OFÍCIO DE ESCRIVÃO PRIVATIVO DO JUIZO DOS FEITOS DA FAZENDA NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-07-3474",
+      "titulo": "Decreto nº 3.474 de 07/06/1865",
+      "data": "1865-06-07",
+      "numero": "3474",
+      "urn": "urn:lex:br:federal:decreto:1865-06-07;3474",
+      "ementa": "CRIA O OFÍCIO DE ESCRIVÃO PRIVATIVO DO JUIZO DOS FEITOS DA FAZENDA DA PROVINCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "400905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-06-3472",
+      "titulo": "Decreto nº 3.472 de 06/06/1865",
+      "data": "1865-06-06",
+      "numero": "3472",
+      "urn": "urn:lex:br:federal:decreto:1865-06-06;3472",
+      "ementa": "REVOGA OS DECRETOS NÚMEROS 1932 DE 3 DE OUTUBRO E 2033 DE 21 DE NOVEMBRO DE 1857."
+    },
+    {
+      "senadoId": "400909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-06-3473",
+      "titulo": "Decreto nº 3.473 de 06/06/1865",
+      "data": "1865-06-06",
+      "numero": "3473",
+      "urn": "urn:lex:br:federal:decreto:1865-06-06;3473",
+      "ementa": "CONCEDE AO CAPITÃO JOÃO ERNESTO VIRIATO DE MEDEIROS E JOHN WITFIELD PRIVILÉGIO POR TRÊS ANOS PARA PROCEDEREM À EXPLORAÇÃO DAS MINAS DE OURO E OUTROS MINERAIS NAS COMARCAS DE SOBRAL, IPÚ, GRANJA E VIÇOSA, DA PROVÍNCIA DO CEARÁ, E NOS LIMITES DESTA COM A DO PIAUÍ."
+    },
+    {
+      "senadoId": "400904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-03-3471-a",
+      "titulo": "Decreto nº 3.471-A de 03/06/1865",
+      "data": "1865-06-03",
+      "numero": "3471-a",
+      "urn": "urn:lex:br:federal:decreto:1865-06-03;3471-a",
+      "ementa": "CONVOCA A NOVA ASSEMBLÉIA GERAL ORDINÁRIA."
+    },
+    {
+      "senadoId": "400900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-06-03-3471",
+      "titulo": "Decreto nº 3.471 de 03/06/1865",
+      "data": "1865-06-03",
+      "numero": "3471",
+      "urn": "urn:lex:br:federal:decreto:1865-06-03;3471",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DAS SOCIEDADES DE CRÉDITO REAL."
+    },
+    {
+      "senadoId": "400896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-05-22-3470",
+      "titulo": "Decreto nº 3.470 de 22/05/1865",
+      "data": "1865-05-22",
+      "numero": "3470",
+      "urn": "urn:lex:br:federal:decreto:1865-05-22;3470",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À COMISSÃO DE MELHORAMENTOS DO MATERIAL DO EXÉRCITO."
+    },
+    {
+      "senadoId": "400892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-05-10-3469",
+      "titulo": "Decreto nº 3.469 de 10/05/1865",
+      "data": "1865-05-10",
+      "numero": "3469",
+      "urn": "urn:lex:br:federal:decreto:1865-05-10;3469",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA UNIÃO E INDÚSTRIA."
+    },
+    {
+      "senadoId": "400880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-05-08-3466",
+      "titulo": "Decreto nº 3.466 de 08/05/1865",
+      "data": "1865-05-08",
+      "numero": "3466",
+      "urn": "urn:lex:br:federal:decreto:1865-05-08;3466",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DO PRIMEIRA BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "400888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-05-08-3468",
+      "titulo": "Decreto nº 3.468 de 08/05/1865",
+      "data": "1865-05-08",
+      "numero": "3468",
+      "urn": "urn:lex:br:federal:decreto:1865-05-08;3468",
+      "ementa": "CONCEDE O USO DE UMA MEDALHA AO EXERCITO SOB O COMANDO DO MARECHAL DE CAMPO JOÃO PROPÍCIO MENNA BARRETO."
+    },
+    {
+      "senadoId": "400884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-05-08-3467",
+      "titulo": "Decreto nº 3.467 de 08/05/1865",
+      "data": "1865-05-08",
+      "numero": "3467",
+      "urn": "urn:lex:br:federal:decreto:1865-05-08;3467",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DA PARAIBA DO SUL E PETRÓPOLIS, DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-29-3462",
+      "titulo": "Decreto nº 3.462 de 29/04/1865",
+      "data": "1865-04-29",
+      "numero": "3462",
+      "urn": "urn:lex:br:federal:decreto:1865-04-29;3462",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS INDENIZADORA."
+    },
+    {
+      "senadoId": "400860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-29-3461",
+      "titulo": "Decreto nº 3.461 de 29/04/1865",
+      "data": "1865-04-29",
+      "numero": "3461",
+      "urn": "urn:lex:br:federal:decreto:1865-04-29;3461",
+      "ementa": "AUTORIZA O TRANSPORTE DE 1.090:183$143, DE UMAS PARA OUTRAS VERBAS DE DESPESA DO MINISTÉRIO DA FAZENDA NO EXERCÍCIO DE 1864-1865."
+    },
+    {
+      "senadoId": "400876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-29-3465",
+      "titulo": "Decreto nº 3.465 de 29/04/1865",
+      "data": "1865-04-29",
+      "numero": "3465",
+      "urn": "urn:lex:br:federal:decreto:1865-04-29;3465",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA BIBLIOTECA FLUMINENSE."
+    },
+    {
+      "senadoId": "400872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-29-3464",
+      "titulo": "Decreto nº 3.464 de 29/04/1865",
+      "data": "1865-04-29",
+      "numero": "3464",
+      "urn": "urn:lex:br:federal:decreto:1865-04-29;3464",
+      "ementa": "DÁ NOVOS ESTATUTOS ÀS FACULDADES DE MEDICINA DO IMPÉRIO."
+    },
+    {
+      "senadoId": "400868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-29-3463",
+      "titulo": "Decreto nº 3.463 de 29/04/1865",
+      "data": "1865-04-29",
+      "numero": "3463",
+      "urn": "urn:lex:br:federal:decreto:1865-04-29;3463",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO POR VAPOR ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "400856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-28-3460",
+      "titulo": "Decreto nº 3.460 de 28/04/1865",
+      "data": "1865-04-28",
+      "numero": "3460",
+      "urn": "urn:lex:br:federal:decreto:1865-04-28;3460",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DA VILA FORMOSA DE ALFENAS, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-28-3459",
+      "titulo": "Decreto nº 3.459 de 28/04/1865",
+      "data": "1865-04-28",
+      "numero": "3459",
+      "urn": "urn:lex:br:federal:decreto:1865-04-28;3459",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO SUPLEMENTAR DE 60:000$000, PARA SER APLICADO ÀS DESPESAS EXTRAORDINÁRIAS NO EXTERIOR NO EXERCÍCIO FINANCEIRO DE 1864-1865."
+    },
+    {
+      "senadoId": "400848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-28-3458",
+      "titulo": "Decreto nº 3.458 de 28/04/1865",
+      "data": "1865-04-28",
+      "numero": "3458",
+      "urn": "urn:lex:br:federal:decreto:1865-04-28;3458",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA GUERRA PARA APLICAR ÁS DESPESAS COM DIVERSAS RUBRICAS DO EXERCÍCIO DE 1864-1865 A QUANTIA DE 1.531:800$000, TIRADA DAS SOBRAS DE OUTRAS VERBAS PERTENCENTES AO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "400844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-27-3457",
+      "titulo": "Decreto nº 3.457 de 27/04/1865",
+      "data": "1865-04-27",
+      "numero": "3457",
+      "urn": "urn:lex:br:federal:decreto:1865-04-27;3457",
+      "ementa": "ELEVA A SESSENTA O NÚMERO DE DATAS MINERAIS CONCEDIDAS A THOMAZ DENNY SARGENT, NOS TERMOS DA CONDIÇÃO 8ª DO DECRETO 3352 A DE 30 DE NOVEMBRO DE 1864."
+    },
+    {
+      "senadoId": "400840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-27-3456",
+      "titulo": "Decreto nº 3.456 de 27/04/1865",
+      "data": "1865-04-27",
+      "numero": "3456",
+      "urn": "urn:lex:br:federal:decreto:1865-04-27;3456",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA INGLESA - THE RIO DE JANEIRO GAS COMPANY, LIMITED - PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "400836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-26-3455",
+      "titulo": "Decreto nº 3.455 de 26/04/1865",
+      "data": "1865-04-26",
+      "numero": "3455",
+      "urn": "urn:lex:br:federal:decreto:1865-04-26;3455",
+      "ementa": "CONCEDE MAIS SEIS MESES DE PRAZO PARA COMEÇO DOS TRABALHOS PARA O PROLONGAMENTO DA RUA DO CORTUME À PRAIA DO SACCO DO ALFERES."
+    },
+    {
+      "senadoId": "400828",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-26-3453",
+      "titulo": "Decreto nº 3.453 de 26/04/1865",
+      "data": "1865-04-26",
+      "numero": "3453",
+      "urn": "urn:lex:br:federal:decreto:1865-04-26;3453",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO PARA EXECUÇÃO DA LEI NÚMERO 1237 DE 24 DE SETEMBRO DE 1864, QUE REFORMOU A LEGISLAÇÃO HIPOTECÁRIA."
+    },
+    {
+      "senadoId": "400832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-26-3454",
+      "titulo": "Decreto nº 3.454 de 26/04/1865",
+      "data": "1865-04-26",
+      "numero": "3454",
+      "urn": "urn:lex:br:federal:decreto:1865-04-26;3454",
+      "ementa": "DÁ NOVOS ESTATUTOS ÁS FACULDADES DE DIREITO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "400821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-25-3451",
+      "titulo": "Decreto nº 3.451 de 25/04/1865",
+      "data": "1865-04-25",
+      "numero": "3451",
+      "urn": "urn:lex:br:federal:decreto:1865-04-25;3451",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DO TEIXEIRA, CRIADA NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "400824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-25-3452",
+      "titulo": "Decreto nº 3.452 de 25/04/1865",
+      "data": "1865-04-25",
+      "numero": "3452",
+      "urn": "urn:lex:br:federal:decreto:1865-04-25;3452",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DO TEIXEIRA, NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "400817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-25-3450",
+      "titulo": "Decreto nº 3.450 de 25/04/1865",
+      "data": "1865-04-25",
+      "numero": "3450",
+      "urn": "urn:lex:br:federal:decreto:1865-04-25;3450",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE CAMARAGIPE, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "400813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-25-3449",
+      "titulo": "Decreto nº 3.449 de 25/04/1865",
+      "data": "1865-04-25",
+      "numero": "3449",
+      "urn": "urn:lex:br:federal:decreto:1865-04-25;3449",
+      "ementa": "DECLARA DE SEGUNDA ENTRANCIA A COMARCA DE CAMARAGIBE, CRIADA NA PROVINCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "400809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-24-3448",
+      "titulo": "Decreto nº 3.448 de 24/04/1865",
+      "data": "1865-04-24",
+      "numero": "3448",
+      "urn": "urn:lex:br:federal:decreto:1865-04-24;3448",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS PARA APLICAR ÀS DESPESAS COM AS VERBAS - ILUMINAÇÃO PÚBLICA E TELEGRÁFOS - DO EXERCÍCIO DE 1864-1865 A QUANTIA DE 118:926$633, TIRADA DAS SOBRAS DA VERBA - SUBVENÇÃO ÀS COMPANHIAS DE NAVEGAÇÃO A VAPOR -, PERTENCENTE AO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "400801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-18-3446",
+      "titulo": "Decreto nº 3.446 de 18/04/1865",
+      "data": "1865-04-18",
+      "numero": "3446",
+      "urn": "urn:lex:br:federal:decreto:1865-04-18;3446",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO PRIMEIRO BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-18-3447",
+      "titulo": "Decreto nº 3.447 de 18/04/1865",
+      "data": "1865-04-18",
+      "numero": "3447",
+      "urn": "urn:lex:br:federal:decreto:1865-04-18;3447",
+      "ementa": "ELEVA À CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA AVULSA DO SERVIÇO DA RESERVA, ORGANIZADA NO MUNICÍPIO DE SERINHAEM, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-12-3442",
+      "titulo": "Decreto nº 3.442 de 12/04/1865",
+      "data": "1865-04-12",
+      "numero": "3442",
+      "urn": "urn:lex:br:federal:decreto:1865-04-12;3442",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE QUARAHY, DA PROVÍNCIA DE S.PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-12-3444",
+      "titulo": "Decreto nº 3.444 de 12/04/1865",
+      "data": "1865-04-12",
+      "numero": "3444",
+      "urn": "urn:lex:br:federal:decreto:1865-04-12;3444",
+      "ementa": "MANDA FORNECER COTURNOS ÀS PRAÇAS DO BATALHÃO NAVAL, EM VEZ DE SAPATOS E POLAINAS, FICANDO, NESTA PARTE, ALTERADA A TABELA, QUE BAIXOU COM O DECRETO NÚMERO 3064, DE 23 DE MARÇO DE 1863."
+    },
+    {
+      "senadoId": "400789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-12-3443",
+      "titulo": "Decreto nº 3.443 de 12/04/1865",
+      "data": "1865-04-12",
+      "numero": "3443",
+      "urn": "urn:lex:br:federal:decreto:1865-04-12;3443",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DOS CORREIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "400797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-12-3445",
+      "titulo": "Decreto nº 3.445 de 12/04/1865",
+      "data": "1865-04-12",
+      "numero": "3445",
+      "urn": "urn:lex:br:federal:decreto:1865-04-12;3445",
+      "ementa": "APROVA O REGULAMENTO INTERNO DA SECRETARIA DE ESTADO DOS NEGÓCIOS DA JUSTIÇA."
+    },
+    {
+      "senadoId": "400781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-12-3441",
+      "titulo": "Decreto nº 3.441 de 12/04/1865",
+      "data": "1865-04-12",
+      "numero": "3441",
+      "urn": "urn:lex:br:federal:decreto:1865-04-12;3441",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS, NO MUNICÍPIO DE SÃO BORJA, DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-11-3440",
+      "titulo": "Decreto nº 3.440 de 11/04/1865",
+      "data": "1865-04-11",
+      "numero": "3440",
+      "urn": "urn:lex:br:federal:decreto:1865-04-11;3440",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE TOCANTINS, NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "400773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-11-3439",
+      "titulo": "Decreto nº 3.439 de 11/04/1865",
+      "data": "1865-04-11",
+      "numero": "3439",
+      "urn": "urn:lex:br:federal:decreto:1865-04-11;3439",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DE TOCANTINS CRIADA NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "400769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-10-3438",
+      "titulo": "Decreto nº 3.438 de 10/04/1865",
+      "data": "1865-04-10",
+      "numero": "3438",
+      "urn": "urn:lex:br:federal:decreto:1865-04-10;3438",
+      "ementa": "APROVANDO E MANDANDO EXECUTAR A TARIFA DE PASSAGEIROS E MERCADORIAS DA ESTAÇÃO DA CORTE PARA O IPIRANGA E VICE-VERSA."
+    },
+    {
+      "senadoId": "400761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-08-3436",
+      "titulo": "Decreto nº 3.436 de 08/04/1865",
+      "data": "1865-04-08",
+      "numero": "3436",
+      "urn": "urn:lex:br:federal:decreto:1865-04-08;3436",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE SÃO BERNARDO, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-08-3437",
+      "titulo": "Decreto nº 3.437 de 08/04/1865",
+      "data": "1865-04-08",
+      "numero": "3437",
+      "urn": "urn:lex:br:federal:decreto:1865-04-08;3437",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE MORRETES E ANTONINA, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "400757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-08-3435",
+      "titulo": "Decreto nº 3.435 de 08/04/1865",
+      "data": "1865-04-08",
+      "numero": "3435",
+      "urn": "urn:lex:br:federal:decreto:1865-04-08;3435",
+      "ementa": "APROVA AS CONDIÇÕES PARA NOVAÇÃO DO CONTRATO COM A COMPANHIA BAIANA."
+    },
+    {
+      "senadoId": "400753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-08-3434",
+      "titulo": "Decreto nº 3.434 de 08/04/1865",
+      "data": "1865-04-08",
+      "numero": "3434",
+      "urn": "urn:lex:br:federal:decreto:1865-04-08;3434",
+      "ementa": "CONCEDE A ANTÔNIO ALVES DA SILVA PINTO PRIVILÉGIO POR TEMPO DE DEZ ANOS PARA ESTABELECER A NAVEGAÇÃO POR VAPOR NOS RIOS MACABU E IMBÉ, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-05-3431",
+      "titulo": "Decreto nº 3.431 de 05/04/1865",
+      "data": "1865-04-05",
+      "numero": "3431",
+      "urn": "urn:lex:br:federal:decreto:1865-04-05;3431",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DOS REIS MAGOS, RESTABELECIDA NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "400749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-05-3433",
+      "titulo": "Decreto nº 3.433 de 05/04/1865",
+      "data": "1865-04-05",
+      "numero": "3433",
+      "urn": "urn:lex:br:federal:decreto:1865-04-05;3433",
+      "ementa": "MODIFICA AS DISPOSIÇÕES DO REGULAMENTO DAS ALFÂNDEGAS, RELATIVAS AO PROCESSO DO DESPACHO DAS BAGAGENS DOS PASSAGEIROS."
+    },
+    {
+      "senadoId": "400745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-05-3432",
+      "titulo": "Decreto nº 3.432 de 05/04/1865",
+      "data": "1865-04-05",
+      "numero": "3432",
+      "urn": "urn:lex:br:federal:decreto:1865-04-05;3432",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DOS REIS MAGOS, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "400733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-01-3429",
+      "titulo": "Decreto nº 3.429 de 01/04/1865",
+      "data": "1865-04-01",
+      "numero": "3429",
+      "urn": "urn:lex:br:federal:decreto:1865-04-01;3429",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS A APLICAR ÀS DESPESAS DAS VERBAS - EMPREGADOS EM DISPONIBILIDADE -, AJUDAS DE CUSTO -, EXTRAORDINÁRIAS NO EXTERIOR - E - EXTRAORDINÁRIAS NO INTERIOR - NO EXERCÍCIO DE 1864-1865 A QUANTIA DE 59:215$049 TIRADA DAS SOBRAS DA VERBA - LEGAÇÕES E CONSULADOS - DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "400729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-01-3428",
+      "titulo": "Decreto nº 3.428 de 01/04/1865",
+      "data": "1865-04-01",
+      "numero": "3428",
+      "urn": "urn:lex:br:federal:decreto:1865-04-01;3428",
+      "ementa": "PRORROGA POR MAIS UM MÊS OS PRAZOS MARCADOS NO ARTIGO 14 DO DECRETO 3371 DE 7 DE JANEIRO E DECRETO 3409 DE 1º DE MARÇO DO CORRENTE ANO, PARA A APRESENTAÇÃO DOS VOLUNTÁRIOS DA PÁTRIA."
+    },
+    {
+      "senadoId": "400737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-04-01-3430",
+      "titulo": "Decreto nº 3.430 de 01/04/1865",
+      "data": "1865-04-01",
+      "numero": "3430",
+      "urn": "urn:lex:br:federal:decreto:1865-04-01;3430",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO EXTRAORDINÁRIO DE 3.935:525$110, PARA DESPESAS DO EXERCÍCIO DE 1864 A 1865."
+    },
+    {
+      "senadoId": "400709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-23-3423",
+      "titulo": "Decreto nº 3.423 de 23/03/1865",
+      "data": "1865-03-23",
+      "numero": "3423",
+      "urn": "urn:lex:br:federal:decreto:1865-03-23;3423",
+      "ementa": "CRIA MAIS UM BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL NA CAPITAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-23-3424",
+      "titulo": "Decreto nº 3.424 de 23/03/1865",
+      "data": "1865-03-23",
+      "numero": "3424",
+      "urn": "urn:lex:br:federal:decreto:1865-03-23;3424",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NA FREGUESIA DA PENHA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-23-3426",
+      "titulo": "Decreto nº 3.426 de 23/03/1865",
+      "data": "1865-03-23",
+      "numero": "3426",
+      "urn": "urn:lex:br:federal:decreto:1865-03-23;3426",
+      "ementa": "CRIA UM BATALHÃO DA GUARDA NACIONAL DO SERVIÇO DA RESERVA NO MUNICÍPIO DE ITABAIANA, DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "400717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-23-3425",
+      "titulo": "Decreto nº 3.425 de 23/03/1865",
+      "data": "1865-03-23",
+      "numero": "3425",
+      "urn": "urn:lex:br:federal:decreto:1865-03-23;3425",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NAS FREGUESIAS DE COTEGIPE, MARÉ, E MATUIM DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-23-3427",
+      "titulo": "Decreto nº 3.427 de 23/03/1865",
+      "data": "1865-03-23",
+      "numero": "3427",
+      "urn": "urn:lex:br:federal:decreto:1865-03-23;3427",
+      "ementa": "CONCEDE CERTAS VANTAGENS ÀS PRAÇAS DE MARINHA, QUE, TENDO CONCLUÍDO O SEU TEMPO DE SERVIÇO, AINDA NELE CONTINUAM, BEM COMO AS REFORMADAS, OU QUE HOUVEREM TIDO BAIXA, QUE DE NOVO SE ALISTAREM."
+    },
+    {
+      "senadoId": "400705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-22-3422",
+      "titulo": "Decreto nº 3.422 de 22/03/1865",
+      "data": "1865-03-22",
+      "numero": "3422",
+      "urn": "urn:lex:br:federal:decreto:1865-03-22;3422",
+      "ementa": "AUMENTA AS SEÇÕES DO DISTRITO DA CIDADE DO RIO DE JANEIRO PARA O LANÇAMENTO DA DÉCIMA URBANA."
+    },
+    {
+      "senadoId": "400701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-21-3421",
+      "titulo": "Decreto nº 3.421 de 21/03/1865",
+      "data": "1865-03-21",
+      "numero": "3421",
+      "urn": "urn:lex:br:federal:decreto:1865-03-21;3421",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DOS BATALHÕES UM, DOIS E VINTE E SETE DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "400697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-20-3420",
+      "titulo": "Decreto nº 3.420 de 20/03/1865",
+      "data": "1865-03-20",
+      "numero": "3420",
+      "urn": "urn:lex:br:federal:decreto:1865-03-20;3420",
+      "ementa": "ALTERA ORGANIZAÇÃO DO TERCEIRO BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "400693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-17-3419",
+      "titulo": "Decreto nº 3.419 de 17/03/1865",
+      "data": "1865-03-17",
+      "numero": "3419",
+      "urn": "urn:lex:br:federal:decreto:1865-03-17;3419",
+      "ementa": "CRIA MAIS UM CORPO DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "400689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-17-3418",
+      "titulo": "Decreto nº 3.418 de 17/03/1865",
+      "data": "1865-03-17",
+      "numero": "3418",
+      "urn": "urn:lex:br:federal:decreto:1865-03-17;3418",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO PRIMEIRO CORPO DE CAVALARIA DA GUARDA NACIONAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "400685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-16-3417",
+      "titulo": "Decreto nº 3.417 de 16/03/1865",
+      "data": "1865-03-16",
+      "numero": "3417",
+      "urn": "urn:lex:br:federal:decreto:1865-03-16;3417",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE PIUMI E FORMIGA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400681",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-15-3416",
+      "titulo": "Decreto nº 3.416 de 15/03/1865",
+      "data": "1865-03-15",
+      "numero": "3416",
+      "urn": "urn:lex:br:federal:decreto:1865-03-15;3416",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ PORFÍRIO DE LIMA E THEÓFILO DULUC PARA EMPREGAREM NO CALÇAMENTO DAS RUAS E PRAÇAS DO IMPÉRIO UM SISTEMA, QUE DECLARARAM TER INVENTADO."
+    },
+    {
+      "senadoId": "400677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-15-3415",
+      "titulo": "Decreto nº 3.415 de 15/03/1865",
+      "data": "1865-03-15",
+      "numero": "3415",
+      "urn": "urn:lex:br:federal:decreto:1865-03-15;3415",
+      "ementa": "CONCEDE PRIVILÉGIO A EUGÊNIO MULLER PARA FABRICAR ESTOPAS, FIOS TÊXTEIS E PAPEL COM FIBRAS DE BANANEIRA, PREPARADAS SEGUNDO O PROCESSO QUE DECLAROU TER INVENTADO."
+    },
+    {
+      "senadoId": "400673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-15-3414",
+      "titulo": "Decreto nº 3.414 de 15/03/1865",
+      "data": "1865-03-15",
+      "numero": "3414",
+      "urn": "urn:lex:br:federal:decreto:1865-03-15;3414",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ JOAQUIM DE SOUZA AYRAM MARTINS PARA FABRICAR E VENDER CARROS QUE DECLAROU TER INVENTADO PARA VARRER E IRRIGAR AS RUAS DAS CIDADES."
+    },
+    {
+      "senadoId": "400669",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-11-3413",
+      "titulo": "Decreto nº 3.413 de 11/03/1865",
+      "data": "1865-03-11",
+      "numero": "3413",
+      "urn": "urn:lex:br:federal:decreto:1865-03-11;3413",
+      "ementa": "CONCEDE À DIRETORIA DA ESTRADA DE FERRO DE DOM PEDRO II AUTORIZAÇÃO PARA ELEVAR PROVISORIAMENTE AO DUPLO A TARIFA ESPECIAL DO RAMAL DE MACACOS."
+    },
+    {
+      "senadoId": "400657",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-01-3410",
+      "titulo": "Decreto nº 3.410 de 01/03/1865",
+      "data": "1865-03-01",
+      "numero": "3410",
+      "urn": "urn:lex:br:federal:decreto:1865-03-01;3410",
+      "ementa": "MANDA POR EM EXECUÇÃO NA PROVÍNCIA DO PARANÁ O DECRETO 2029 DE 18 DE NOVEMBRO DE 1857."
+    },
+    {
+      "senadoId": "400653",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-01-3409",
+      "titulo": "Decreto nº 3.409 de 01/03/1865",
+      "data": "1865-03-01",
+      "numero": "3409",
+      "urn": "urn:lex:br:federal:decreto:1865-03-01;3409",
+      "ementa": "PRORROGA POR UM MÊS OS PRAZO MARCADOS NO ARTIGO 14 DO DECRETO 3371 DE 7 DE JANEIRO DO CORRENTE ANO PARA APRESENTAÇÃO DOS VOLUNTÁRIOS DA PÁTRIA."
+    },
+    {
+      "senadoId": "400665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-01-3412",
+      "titulo": "Decreto nº 3.412 de 01/03/1865",
+      "data": "1865-03-01",
+      "numero": "3412",
+      "urn": "urn:lex:br:federal:decreto:1865-03-01;3412",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE MONTES CLAROS E GUAICUI DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-03-01-3411",
+      "titulo": "Decreto nº 3.411 de 01/03/1865",
+      "data": "1865-03-01",
+      "numero": "3411",
+      "urn": "urn:lex:br:federal:decreto:1865-03-01;3411",
+      "ementa": "ELEVA A OITO COMPANHIAS O CORPO DE CAVALARIA NÚMERO 43 DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400649",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-16-3408",
+      "titulo": "Decreto nº 3.408 de 16/02/1865",
+      "data": "1865-02-16",
+      "numero": "3408",
+      "urn": "urn:lex:br:federal:decreto:1865-02-16;3408",
+      "ementa": "DESANEXA DO TERMO DE CASTRO O DE PONTA GROSSA, NA PROVÍNCIA DO PARANÁ, E CRIA NESTE UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-13-3406",
+      "titulo": "Decreto nº 3.406 de 13/02/1865",
+      "data": "1865-02-13",
+      "numero": "3406",
+      "urn": "urn:lex:br:federal:decreto:1865-02-13;3406",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DOS MUNICÍPIOS DO SOBRAL E ANEXOS DA PROVÍNCIA DO CEARÁ, A GUARDA NACIONAL PERTENCENTE AO DISTRITO DE SANTA QUITERIA, INCORPORANDO-A AO COMANDO SUPERIOR DO IPU, DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "400634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-13-3404",
+      "titulo": "Decreto nº 3.404 de 13/02/1865",
+      "data": "1865-02-13",
+      "numero": "3404",
+      "urn": "urn:lex:br:federal:decreto:1865-02-13;3404",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DO JARDIM E MILAGRES, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-13-3405",
+      "titulo": "Decreto nº 3.405 de 13/02/1865",
+      "data": "1865-02-13",
+      "numero": "3405",
+      "urn": "urn:lex:br:federal:decreto:1865-02-13;3405",
+      "ementa": "CRIA NO MUNICÍPIO DO JARDIM, DA PROVÍNCIA DO CEARÁ, UM CORPO DE CAVALARIA E UMA SEÇÃO DE BATALHÃO DO SERVIÇO DA RESERVA."
+    },
+    {
+      "senadoId": "400630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-11-3403",
+      "titulo": "Decreto nº 3.403 de 11/02/1865",
+      "data": "1865-02-11",
+      "numero": "3403",
+      "urn": "urn:lex:br:federal:decreto:1865-02-11;3403",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA O PRESÍDIO DE FERNANDO DE NORONHA."
+    },
+    {
+      "senadoId": "400626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-06-3402",
+      "titulo": "Decreto nº 3.402 de 06/02/1865",
+      "data": "1865-02-06",
+      "numero": "3402",
+      "urn": "urn:lex:br:federal:decreto:1865-02-06;3402",
+      "ementa": "CONCEDE A CAMILO DE LELIS E SILVA PRIVILÉGIO POR DEZ ANOS PARA FABRICAR E VENDER CARROS DESTINADOS AO TRANSPORTE DAS CARNES VERDES."
+    },
+    {
+      "senadoId": "400614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3399",
+      "titulo": "Decreto nº 3.399 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3399",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3399",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NÚMERO 19 DA GUARDA NACIONAL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3389",
+      "titulo": "Decreto nº 3.389 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3389",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3389",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE LAVRAS, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3393",
+      "titulo": "Decreto nº 3.393 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3393",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3393",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DOS DISTRITOS DE JACAREÍ E ANEXOS DA PROVÍNCIA DE SÃO PAULO A GUARDA NACIONAL PERTENCENTE AOS MUNICÍPIOS DE MOGI DAS CRUZES, SÃO JOSÉ DE PARAITINGA E SANTA ISABEL, DA MESMA PROVÍNCIA, E ORGANIZA COM ELA UM NOVO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "400578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3390",
+      "titulo": "Decreto nº 3.390 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3390",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3390",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NO MUNICÍPIO DE DORES DE INDAIÁ DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3385",
+      "titulo": "Decreto nº 3.385 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3385",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3385",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DO ACARAÇU, ULTIMAMENTE CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3400",
+      "titulo": "Decreto nº 3.400 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3400",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3400",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DO MUNICÍPIO DE MOGI-MIRIM DA PROVÍNCIA DE SÃO PAULO, E ANEXA AO DE SÃO JOÃO DO RIO CLARO, A GUARDA NACIONAL PERTENCENTE AO DISTRITO DA LIMEIRA, DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "400602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3396",
+      "titulo": "Decreto nº 3.396 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3396",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3396",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NÚMERO 26 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3386",
+      "titulo": "Decreto nº 3.386 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3386",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3386",
+      "ementa": "DEROGA OS DECRETOS 291 DE 6 DE MAIO DE 1843 E 403 DE 12 DE FEVEREIRO DE 1845, QUANTO À SUBSTITUIÇÃO DO JUIZ DE ÓRFÃOS DA CAPITAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3394",
+      "titulo": "Decreto nº 3.394 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3394",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3394",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL NA CIDADE DE SANTOS, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3388",
+      "titulo": "Decreto nº 3.388 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3388",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3388",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE OLIVEIRA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3397",
+      "titulo": "Decreto nº 3.397 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3397",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3397",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO NÚMERO TRÊS DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3391",
+      "titulo": "Decreto nº 3.391 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3391",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3391",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE TRÊS PONTAS, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3398",
+      "titulo": "Decreto nº 3.398 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3398",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3398",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NÚMERO 70 DA GUARDA NACIONAL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3395",
+      "titulo": "Decreto nº 3.395 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3395",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3395",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA SERRA NEGRA, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3392",
+      "titulo": "Decreto nº 3.392 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3392",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3392",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NA CIDADE DE DIAMANTINA DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3401",
+      "titulo": "Decreto nº 3.401 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3401",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3401",
+      "ementa": "AUTORIZA O CRÉDITO EXTRAORDINÁRIO DE 8.492:000$000 PARA AS DESPESAS DO MINISTÉRIO DA GUERRA NO EXERCÍCIO DE 1864-1865."
+    },
+    {
+      "senadoId": "400566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-03-3387",
+      "titulo": "Decreto nº 3.387 de 03/02/1865",
+      "data": "1865-02-03",
+      "numero": "3387",
+      "urn": "urn:lex:br:federal:decreto:1865-02-03;3387",
+      "ementa": "ELEVA À CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA DE ARTILHARIA DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-02-01-3384",
+      "titulo": "Decreto nº 3.384 de 01/02/1865",
+      "data": "1865-02-01",
+      "numero": "3384",
+      "urn": "urn:lex:br:federal:decreto:1865-02-01;3384",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DO ACARAÇU, CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-21-3382",
+      "titulo": "Decreto nº 3.382 de 21/01/1865",
+      "data": "1865-01-21",
+      "numero": "3382",
+      "urn": "urn:lex:br:federal:decreto:1865-01-21;3382",
+      "ementa": "CHAMA AO SERVIÇO DE CORPOS DESTACADOS NA PROVÍNCIA DE MATO GROSSO SEIS MIL GUARDAS NACIONAIS DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-21-3381",
+      "titulo": "Decreto nº 3.381 de 21/01/1865",
+      "data": "1865-01-21",
+      "numero": "3381",
+      "urn": "urn:lex:br:federal:decreto:1865-01-21;3381",
+      "ementa": "CHAMA A SERVIÇO DE CORPOS DESTACADOS NA PROVÍNCIA DE MATO GROSSO TRÊS MIL GUARDAS NACIONAIS DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-21-3383",
+      "titulo": "Decreto nº 3.383 de 21/01/1865",
+      "data": "1865-01-21",
+      "numero": "3383",
+      "urn": "urn:lex:br:federal:decreto:1865-01-21;3383",
+      "ementa": "MANDA DESTACAR 14.796 GUARDAS NACIONAIS DOS DIFERENTES CORPOS, NÃO SÓ PARA DEFESA DOS PRAÇAS, FRONTEIRAS E COSTAS DO IMPÉRIO, COMO PARA O SERVIÇO DE GUERRA DO ESTADO DO PARAGUAI."
+    },
+    {
+      "senadoId": "400538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-17-3380",
+      "titulo": "Decreto nº 3.380 de 17/01/1865",
+      "data": "1865-01-17",
+      "numero": "3380",
+      "urn": "urn:lex:br:federal:decreto:1865-01-17;3380",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE ITAPEVA DA FAXINA, PARANAPANEMA, E APIAÍ, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-17-3379",
+      "titulo": "Decreto nº 3.379 de 17/01/1865",
+      "data": "1865-01-17",
+      "numero": "3379",
+      "urn": "urn:lex:br:federal:decreto:1865-01-17;3379",
+      "ementa": "ALTERA O ARTIGO 275 DO REGULAMENTO DAS ESCOLAS MILITARES."
+    },
+    {
+      "senadoId": "400530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-16-3378",
+      "titulo": "Decreto nº 3.378 de 16/01/1865",
+      "data": "1865-01-16",
+      "numero": "3378",
+      "urn": "urn:lex:br:federal:decreto:1865-01-16;3378",
+      "ementa": "FIXA PROVISORIAMENTE OS LIMITES ENTRE AS PROVÍNCIAS DO PARANÁ E SANTA CATARINA."
+    },
+    {
+      "senadoId": "400526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-16-3377",
+      "titulo": "Decreto nº 3.377 de 16/01/1865",
+      "data": "1865-01-16",
+      "numero": "3377",
+      "urn": "urn:lex:br:federal:decreto:1865-01-16;3377",
+      "ementa": "REVOGA OS DECRETOS 2817 DE 14 DE AGOSTO DE 1861 E 2987 DE 14 DE OUTUBRO DE 1862."
+    },
+    {
+      "senadoId": "400522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-14-3376",
+      "titulo": "Decreto nº 3.376 de 14/01/1865",
+      "data": "1865-01-14",
+      "numero": "3376",
+      "urn": "urn:lex:br:federal:decreto:1865-01-14;3376",
+      "ementa": "SUSPENDE ATÉ ULTERIOR DECRETAÇÃO OS ESTATUTOS DA COMPANHIA DO BEBERIBE, APROVADOS POR DECRETO 3013 DE 28 DE NOVEMBRO DE 1862."
+    },
+    {
+      "senadoId": "400518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-11-3375",
+      "titulo": "Decreto nº 3.375 de 11/01/1865",
+      "data": "1865-01-11",
+      "numero": "3375",
+      "urn": "urn:lex:br:federal:decreto:1865-01-11;3375",
+      "ementa": "DECLARA QUAIS OS EMPREGADOS QUE DEVEM DESEMPENHAR AS ATRIBUIÇÕES QUE EXERCIAM OS CONSELHOS ADMINISTRATIVOS PARA FORNECIMENTO DOS ARSENAIS DE GUERRA, EXTINTOS PELA LEI 1220 DE 20 DE JUNHO DE 1864."
+    },
+    {
+      "senadoId": "400514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-07-3374",
+      "titulo": "Decreto nº 3.374 de 07/01/1865",
+      "data": "1865-01-07",
+      "numero": "3374",
+      "urn": "urn:lex:br:federal:decreto:1865-01-07;3374",
+      "ementa": "ELEVA À CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA AVULSA DA RESERVA DA GUARDA NACIONAL, ORGANIZADA NO MUNICÍPIO DE MEARIM, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-07-3372",
+      "titulo": "Decreto nº 3.372 de 07/01/1865",
+      "data": "1865-01-07",
+      "numero": "3372",
+      "urn": "urn:lex:br:federal:decreto:1865-01-07;3372",
+      "ementa": "APLICA AOS RÉUS DA ARMADA, QUE FOREM CONDENADOS POR CRIMES MILITARES, AS DISPOSIÇÕES DO DECRETO 2592, DE 9 DE MAIO DE 1860."
+    },
+    {
+      "senadoId": "400502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-07-3371",
+      "titulo": "Decreto nº 3.371 de 07/01/1865",
+      "data": "1865-01-07",
+      "numero": "3371",
+      "urn": "urn:lex:br:federal:decreto:1865-01-07;3371",
+      "ementa": "CRIA CORPOS PARA O SERVIÇO DE GUERRA EM CIRCUNSTANCIAS EXTRAORDINÁRIAS, COM A DENOMINAÇÃO DE VOLUNTÁRIOS DA PÁTRIA ESTABELECE AS CONDIÇÕES E FIXA AS VANTAGENS QUE LHES FICAM COMPETINDO."
+    },
+    {
+      "senadoId": "400510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-07-3373",
+      "titulo": "Decreto nº 3.373 de 07/01/1865",
+      "data": "1865-01-07",
+      "numero": "3373",
+      "urn": "urn:lex:br:federal:decreto:1865-01-07;3373",
+      "ementa": "REGULA A EXECUÇÃO DO ARTIGO 17 PARÁGRAFO 7ª DA LEI DE 3 DE DEZEMBRO DE 1841."
+    },
+    {
+      "senadoId": "400498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1865-01-02-3370",
+      "titulo": "Decreto nº 3.370 de 02/01/1865",
+      "data": "1865-01-02",
+      "numero": "3370",
+      "urn": "urn:lex:br:federal:decreto:1865-01-02;3370",
+      "ementa": "ALTERA O REGULAMENTO DE POLÍCIA PARA A ESTRADA UNIÃO E INDÚSTRIA APROVADO PELO DECRETO 2803 DE 19 DE JUNHO DE 1861."
+    }
+  ],
+  "pendencias": []
+}

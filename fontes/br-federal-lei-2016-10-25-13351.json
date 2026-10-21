@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-10-25-13351",
+  "titulo": "Lei nº 13.351 de 25/10/2016",
+  "data": "2016-10-25",
+  "fonte": "https://normas.leg.br/api/public/binario/0f33c7f3-29eb-4298-bd09-5a0aa69b12b3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-10-25;13351",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-10-25%3B13351&tipo_documento=maior-detalhe",
+  "sha256_dados": "27f5c8e6abae4af0f163612e62f546dfa284a8339e2034f457896cacec6738dc",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:25.618Z",
+  "sha256_fonte": "f4cd295bd58290a1c25426425a47f46c373e2d52148f76c689d7b4d569d32fff",
+  "sha256_markdown": "45dbcb9128618d6bb48102701796de7d3fb1592408b60f0952beb31b4c5eba2e"
+}

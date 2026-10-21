@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-07-11-13465",
+  "titulo": "Lei nº 13.465 de 11/07/2017",
+  "data": "2017-07-11",
+  "fonte": "https://normas.leg.br/api/public/binario/21373dfc-727a-4829-af39-d738d4b1503b/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-07-11;13465",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-07-11%3B13465&tipo_documento=maior-detalhe",
+  "sha256_dados": "fbdcae7be92c8f451392b68afa4588ab89c6b2b0c191cd5e37220ee7955e4c9b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:57.495Z",
+  "sha256_fonte": "8f747c01cacc488a1ef248bdd04f651010106694a8f24b287c0f5d0fda6bda21",
+  "sha256_markdown": "23eb6a442365492e0baafb84eb84f16d4123f6b8e34e758ae46e834b9d7ff6d2"
+}

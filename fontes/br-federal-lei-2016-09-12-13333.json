@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-09-12-13333",
+  "titulo": "Lei nº 13.333 de 12/09/2016",
+  "data": "2016-09-12",
+  "fonte": "https://normas.leg.br/api/public/binario/23685354-05f8-4776-bff7-f91b99903650/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-09-12;13333",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-09-12%3B13333&tipo_documento=maior-detalhe",
+  "sha256_dados": "6459ce98dd47b07e9565a9d3fba07a57b007af8950932f3e141c1f7eb6ffc437",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:49.058Z",
+  "sha256_fonte": "eb4a09a6f9800e939bffdcb5fa3b0d3fd3a172c0984111001d74d2fba29bfa4b",
+  "sha256_markdown": "8db8b7a54a06ed6c7a70e2e8fef3c8ecb755a9265fd020ca8e1f011bf67bbc5b"
+}

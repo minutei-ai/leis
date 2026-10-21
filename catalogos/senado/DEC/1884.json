@@ -1,0 +1,2419 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1884",
+  "tipo": "DEC",
+  "ano": 1884,
+  "coletado_em": "2026-10-21T08:52:06.100Z",
+  "normas": [
+    {
+      "senadoId": "416093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-30-9352",
+      "titulo": "Decreto nº 9.352 de 30/12/1884",
+      "data": "1884-12-30",
+      "numero": "9352",
+      "urn": "urn:lex:br:federal:decreto:1884-12-30;9352",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DE ILMA. CÂMARA MUNICIPAL PARA O EXERCÍCIO DE 1885."
+    },
+    {
+      "senadoId": "416087",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-27-9350",
+      "titulo": "Decreto nº 9.350 de 27/12/1884",
+      "data": "1884-12-27",
+      "numero": "9350",
+      "urn": "urn:lex:br:federal:decreto:1884-12-27;9350",
+      "ementa": "APROVA AS MODIFICAÇÕES DAS TARIFAS DA ESTRADA DE FERRO SÃO CARLOS DO PINHAL."
+    },
+    {
+      "senadoId": "416090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-27-9351",
+      "titulo": "Decreto nº 9.351 de 27/12/1884",
+      "data": "1884-12-27",
+      "numero": "9351",
+      "urn": "urn:lex:br:federal:decreto:1884-12-27;9351",
+      "ementa": "MANDA DAR BAIXA DO POSTO ÀS PRAÇAS GRADUADAS DO EXÉRCITO QUE FOREM CONDENADAS A SEIS MESES DE PRISÃO."
+    },
+    {
+      "senadoId": "416078",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-23-9347",
+      "titulo": "Decreto nº 9.347 de 23/12/1884",
+      "data": "1884-12-23",
+      "numero": "9347",
+      "urn": "urn:lex:br:federal:decreto:1884-12-23;9347",
+      "ementa": "CONCEDE AUTORIZAÇÃO À PARÁ CENTRAL SUGAR FACTORY COMPANY, LIMITED PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-23-9346",
+      "titulo": "Decreto nº 9.346 de 23/12/1884",
+      "data": "1884-12-23",
+      "numero": "9346",
+      "urn": "urn:lex:br:federal:decreto:1884-12-23;9346",
+      "ementa": "APROVA DIVERSAS MODIFICAÇÕES REDUZINDO O PESSOAL DA ESTRADA DE FERRO DE PAULO AFONSO, CONSTANTE DA TABELA ANEXA AO DECRETO NÚMERO 8.482 DE 15 DE ABRIL DE 1882."
+    },
+    {
+      "senadoId": "416084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-23-9349",
+      "titulo": "Decreto nº 9.349 de 23/12/1884",
+      "data": "1884-12-23",
+      "numero": "9349",
+      "urn": "urn:lex:br:federal:decreto:1884-12-23;9349",
+      "ementa": "PRORROGA POR MAIS TRÊS MESES O PRAZO MARCADO PARA O COMEÇO DAS OBRAS DO PORTO DE SANTOS."
+    },
+    {
+      "senadoId": "416081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-23-9348",
+      "titulo": "Decreto nº 9.348 de 23/12/1884",
+      "data": "1884-12-23",
+      "numero": "9348",
+      "urn": "urn:lex:br:federal:decreto:1884-12-23;9348",
+      "ementa": "CONCEDE AUTORIZAÇÃO À \"NAZARETH CENTRAL SUGAR FACTORY OF BRASIL, LIMITED\" PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9341",
+      "titulo": "Decreto nº 9.341 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9341",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9341",
+      "ementa": "DECLARA: 1º, QUE OS CONCESSIONÁRIOS DE PATENTES SÃO OBRIGADOS A PROMOVER E PAGAR A PUBLICAÇÃO NO DIÁRIO OFICIAL, DOS RELATÓRIOS DAS RESPECTIVAS PATENTES; 2º, QUE AS PATENTES NÃO PRODUZIRÃO SEUS EFEITOS LEGAIS ENQUANTO NÃO FOREM PUBLICADAS AS CONCESSÕES E OS RELATÓRIOS QUE SERVIRAM PARA AS MESMAS CONCESSÕES."
+    },
+    {
+      "senadoId": "416072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9345",
+      "titulo": "Decreto nº 9.345 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9345",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9345",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A HOLZWEISSIG & COMP. PARA LAVRAREM JAZIDAS DE CARVÃO DE PEDRA NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9344",
+      "titulo": "Decreto nº 9.344 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9344",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9344",
+      "ementa": "REGULA O MODO POR QUE VOLTAM AO EXERCÍCIO OS SERVENTUÁRIOS VITALÍCIOS DOS OFÍCIOS DA JUSTIÇA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "416066",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9343",
+      "titulo": "Decreto nº 9.343 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9343",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9343",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A FELISBINO ALFREDO GUIMARÃES E ANTONIO JOSÉ DE OLIVEIRA MARQUES PARA LAVRAREM OURO E OUTROS MINERAIS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "416052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9338",
+      "titulo": "Decreto nº 9.338 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9338",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9338",
+      "ementa": "PRORROGA POR 60 DIAS O PRAZO MARCADO NA CLÁUSULA 12ª DO DECRETO NÚMERO 9.220 DE 31 DE MAIO DE 1884."
+    },
+    {
+      "senadoId": "416063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9342",
+      "titulo": "Decreto nº 9.342 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9342",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9342",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO PARA A CONSTRUÇÃO DE MAIS 30 KILÔMETROS DO PROLONGAMENTO DA ESTRADA DE FERRO LEOPOLDINA."
+    },
+    {
+      "senadoId": "416057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-16-9340",
+      "titulo": "Decreto nº 9.340 de 16/12/1884",
+      "data": "1884-12-16",
+      "numero": "9340",
+      "urn": "urn:lex:br:federal:decreto:1884-12-16;9340",
+      "ementa": "CONCEDE À COMPANHIA QUE FREDERICO DARRIGUE DE FARO E LUIZ DE CASTILHO ORGANIZAREM PARA O ESTABELECIMENTO DE TRÊS ENGENHOS CENTRAIS, DESTINADOS AO FABRICO DE AÇÚCAR DE CANA, NOS MUNICÍPIOS DE VALENÇA, VASSOURAS E PIRAHY, PROVÍNCIA DO RIO DE JANEIRO, OS FAVORES MENCIONADOS NOS PARÁGRAFOS 2º, 3º E 5º DO ARTIGO 6º DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8.357 DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "416049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-13-9337",
+      "titulo": "Decreto nº 9.337 de 13/12/1884",
+      "data": "1884-12-13",
+      "numero": "9337",
+      "urn": "urn:lex:br:federal:decreto:1884-12-13;9337",
+      "ementa": "DERROGA O ARTIGO 11 DO DECRETO NÚMERO 8.488 DE 22 DE ABRIL DE 1882."
+    },
+    {
+      "senadoId": "416046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-06-9336",
+      "titulo": "Decreto nº 9.336 de 06/12/1884",
+      "data": "1884-12-06",
+      "numero": "9336",
+      "urn": "urn:lex:br:federal:decreto:1884-12-06;9336",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA POR DECRETO 8.556 DE 27 DE MAIO DE 1882."
+    },
+    {
+      "senadoId": "416043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-12-06-9335",
+      "titulo": "Decreto nº 9.335 de 06/12/1884",
+      "data": "1884-12-06",
+      "numero": "9335",
+      "urn": "urn:lex:br:federal:decreto:1884-12-06;9335",
+      "ementa": "PRORROGA POR MAIS 18 MESES O PRAZO CONCEDIDO NA CLAUSULA 1 DO DECRETO 8.290 DE 29 DE OUTUBRO DE 1881 PARA COMEÇO DAS OBRAS DA 3 SEÇÃO DA ESTRADA DE FERRO DE CARANGOLA E FIXA O PRAZO DE SEIS MESES PARA APRESENTAÇÃO DOS RESPECTIVOS ESTUDOS DEFINITIVOS."
+    },
+    {
+      "senadoId": "416040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-29-9334",
+      "titulo": "Decreto nº 9.334 de 29/11/1884",
+      "data": "1884-11-29",
+      "numero": "9334",
+      "urn": "urn:lex:br:federal:decreto:1884-11-29;9334",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO ALVES GUERRA PARA EXPLORAR MINERAIS E EXTRAIR PRODUTOS NATURAIS, ASSIM COMO PARA ESTABELECER SALINAS NA ILHA DA TRINDADE, PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "416023",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9328",
+      "titulo": "Decreto nº 9.328 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9328",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9328",
+      "ementa": "CONCEDE PERMISSÃO A EDUARDO PELLEW WILSON PARA TRANSFERIR A JOHN CAMERON GRANT E LORD WALSINGHAM AS CONCESSÕES A QUE SE REFEREM OS DECRETOS NÚMEROS 4.386 DE 30 DE JUNHO DE 1869 E NÚMERO 4.457 DE 21 DE JANEIRO DE 1870 PARA MINERAR NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "416035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9332",
+      "titulo": "Decreto nº 9.332 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9332",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9332",
+      "ementa": "CONCEDE A FELISBERTO IGNÁCIO BARCELLOS AS MINAS DE OURO, PRATA E OUTROS METAIS OU MINERAIS EXISTENTES NO MUNICÍPIO DE D. PEDRITO, PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9329",
+      "titulo": "Decreto nº 9.329 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9329",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9329",
+      "ementa": "DESIGNA A ORDEM DA SUBSTITUIÇÃO RECÍPROCA DOS JUÍZES DE DIREITO DA CORTE, NO ANO DE 1885."
+    },
+    {
+      "senadoId": "416017",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9326",
+      "titulo": "Decreto nº 9.326 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9326",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9326",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO DE 19 DE OUTUBRO DE 1872, REORGANIZANDO OS ARSENAIS DE GUERRA DO IMPÉRIO."
+    },
+    {
+      "senadoId": "416020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9327",
+      "titulo": "Decreto nº 9.327 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9327",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9327",
+      "ementa": "APROVA PROVISORIAMENTE AS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA O TRANSPORTE DE PASSAGEIROS E MERCADORIAS PELA ESTRADA DE FERRO DO RIO GRANDE A BAGÉ."
+    },
+    {
+      "senadoId": "416032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9331",
+      "titulo": "Decreto nº 9.331 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9331",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9331",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 6.876 DE ABRIL DE 1878, QUE CONCEDEU A FELISBERTO IGNÁCIO BARCELLOS E FELLIPE GUILLOT PERMISSÃO PARA LAVRAREM MINERAIS NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416029",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-25-9330",
+      "titulo": "Decreto nº 9.330 de 25/11/1884",
+      "data": "1884-11-25",
+      "numero": "9330",
+      "urn": "urn:lex:br:federal:decreto:1884-11-25;9330",
+      "ementa": "DESIGNA A ORDEM EM QUE OS JUÍZES SUBSTITUTOS DA CORTE DEVERÃO COOPERAR COM OS JUÍZES DE DIREITO E SUBSTITUIR-SE RECIPROCAMENTE, NO ANO DE 1885."
+    },
+    {
+      "senadoId": "416014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-22-9325",
+      "titulo": "Decreto nº 9.325 de 22/11/1884",
+      "data": "1884-11-22",
+      "numero": "9325",
+      "urn": "urn:lex:br:federal:decreto:1884-11-22;9325",
+      "ementa": "APROVA OS PLANOS APRESENTADOS PELA COMPANHIA \"RIO DE JANEIRO CITY IMPROVEMENTS\" PARA CONSTRUÇÃO DE DIVERSAS OBRAS NAS CASAS DE MAQUINISTAS DOS DISTRITOS DE ESGOTO."
+    },
+    {
+      "senadoId": "416011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-22-9324",
+      "titulo": "Decreto nº 9.324 de 22/11/1884",
+      "data": "1884-11-22",
+      "numero": "9324",
+      "urn": "urn:lex:br:federal:decreto:1884-11-22;9324",
+      "ementa": "REVOGA O ARTIGO 2º DO DECRETO NÚMERO 4.683 DE 27 DE JANEIRO DE 1871."
+    },
+    {
+      "senadoId": "416008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-18-9323",
+      "titulo": "Decreto nº 9.323 de 18/11/1884",
+      "data": "1884-11-18",
+      "numero": "9323",
+      "urn": "urn:lex:br:federal:decreto:1884-11-18;9323",
+      "ementa": "APROVA O TRAÇADO DEFINITIVO DA ESTRADA DE FERRO DE PORTO ALEGRE À URUGUAIANA, ENTRE A MARGEM DIREITA DO RIO TAQUARY E AS PROXIMIDADES DO CACEQUI, NA EXTENSÃO DE 105 QUILÔMETROS."
+    },
+    {
+      "senadoId": "416003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-18-9321",
+      "titulo": "Decreto nº 9.321 de 18/11/1884",
+      "data": "1884-11-18",
+      "numero": "9321",
+      "urn": "urn:lex:br:federal:decreto:1884-11-18;9321",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO DULCETTI PARA EXPLORAR CORAIS E PEROLAS NAS AGUAS DO LITORAL DO IMPERIO."
+    },
+    {
+      "senadoId": "416006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-18-9322",
+      "titulo": "Decreto nº 9.322 de 18/11/1884",
+      "data": "1884-11-18",
+      "numero": "9322",
+      "urn": "urn:lex:br:federal:decreto:1884-11-18;9322",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A JOSÉ FRANCISCO THOMAZ DO NASCIMENTO PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "416000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-15-9320",
+      "titulo": "Decreto nº 9.320 de 15/11/1884",
+      "data": "1884-11-15",
+      "numero": "9320",
+      "urn": "urn:lex:br:federal:decreto:1884-11-15;9320",
+      "ementa": "CONCEDE PERMISSÃO A HOLTZWEISSIG & COMP. PARA EXPLORAR MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-11-9315",
+      "titulo": "Decreto nº 9.315 de 11/11/1884",
+      "data": "1884-11-11",
+      "numero": "9315",
+      "urn": "urn:lex:br:federal:decreto:1884-11-11;9315",
+      "ementa": "PRORROGA POR UM ANO O PRAZO MARCADO NA CLÁUSULA 3ª DO DECRETO NÚMERO 7.046 DE 18 DE OUTUBRO DE 1878."
+    },
+    {
+      "senadoId": "415991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-11-9317",
+      "titulo": "Decreto nº 9.317 de 11/11/1884",
+      "data": "1884-11-11",
+      "numero": "9317",
+      "urn": "urn:lex:br:federal:decreto:1884-11-11;9317",
+      "ementa": "MANDA OBSERVAR OS ESTATUTOS DA ASSOCIAÇÃO PROTETORA DO ASILO DE MENDICIDADE DA CORTE."
+    },
+    {
+      "senadoId": "415994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-11-9318",
+      "titulo": "Decreto nº 9.318 de 11/11/1884",
+      "data": "1884-11-11",
+      "numero": "9318",
+      "urn": "urn:lex:br:federal:decreto:1884-11-11;9318",
+      "ementa": "CONCEDE À COMPANHIA QUE RAPHAEL SANCHES & COMP. ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE SÃO FIDELIS, PROVÍNCIA DO RIO DE JANEIRO, OS FAVORES MENCIONADOS NOS PARÁGRAFOS 2º, 3º E 5º DO ARTIGO 6º DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8.357, DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-11-9316",
+      "titulo": "Decreto nº 9.316 de 11/11/1884",
+      "data": "1884-11-11",
+      "numero": "9316",
+      "urn": "urn:lex:br:federal:decreto:1884-11-11;9316",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E O ORÇAMENTO PARA A CONSTRUÇÃO DE MAIS 30 QUILÔMETROS DO PROLONGAMENTO DA ESTRADA DE FERRO LEOPOLDINA."
+    },
+    {
+      "senadoId": "415997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-11-9319",
+      "titulo": "Decreto nº 9.319 de 11/11/1884",
+      "data": "1884-11-11",
+      "numero": "9319",
+      "urn": "urn:lex:br:federal:decreto:1884-11-11;9319",
+      "ementa": "CONCEDE A JOSEPH ALKAIN PRIVILÉGIO PARA ESTABELECER, POR SI OU POR MEIO DE UMA COMPANHIA, UMA LINHA DE NAVEGAÇÃO A VAPOR NO RIO PARDO, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-11-08-9314",
+      "titulo": "Decreto nº 9.314 de 08/11/1884",
+      "data": "1884-11-08",
+      "numero": "9314",
+      "urn": "urn:lex:br:federal:decreto:1884-11-08;9314",
+      "ementa": "AMPLIA A DISPOSIÇÃO DA CLÁUSULA 5ª DO DECRETO NÚMERO 7.420 DE 12 DE AGOSTO DE 1879, PARA ESTENDER A FISCALIZAÇÃO RESERVADA NA MESMA CLÁUSULA AO SERVIÇO DA 2ª SÉRIE DE OBRIGAÇÕES EMITIDAS PELA \"COMPAGNIE GENÉRALE DE CHEMMINS DE FER BRÉSILIENS\"."
+    },
+    {
+      "senadoId": "415976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-31-9312",
+      "titulo": "Decreto nº 9.312 de 31/10/1884",
+      "data": "1884-10-31",
+      "numero": "9312",
+      "urn": "urn:lex:br:federal:decreto:1884-10-31;9312",
+      "ementa": "FAZ EXTENSIVAS AS PROVINCIAS AS DISPOSIÇÕES DO DECRETO 8.277 DE 15 DE OUTUBRO DE 1881."
+    },
+    {
+      "senadoId": "415979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-31-9313",
+      "titulo": "Decreto nº 9.313 de 31/10/1884",
+      "data": "1884-10-31",
+      "numero": "9313",
+      "urn": "urn:lex:br:federal:decreto:1884-10-31;9313",
+      "ementa": "CONCEDE À COMPANHIA QUE FELICIANO HENRIQUES E JERONYMO CORDEIRO DE ARAÚJO LIMA ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE CANTAGALLO, PROVÍNCIA DO RIO DE JANEIRO, OS FAVORES MENCIONADOS NOS PARÁGRAFOS 2º, 2º E 6º DO ARTIGO 6º DO REGULAMENTO APROVA PELO DECRETO NÚMERO 8.357 DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-25-9311",
+      "titulo": "Decreto nº 9.311 de 25/10/1884",
+      "data": "1884-10-25",
+      "numero": "9311",
+      "urn": "urn:lex:br:federal:decreto:1884-10-25;9311",
+      "ementa": "DA NOVOS ESTATUTOS AS FACULDADES DE MEDICINA."
+    },
+    {
+      "senadoId": "415970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-21-9310",
+      "titulo": "Decreto nº 9.310 de 21/10/1884",
+      "data": "1884-10-21",
+      "numero": "9310",
+      "urn": "urn:lex:br:federal:decreto:1884-10-21;9310",
+      "ementa": "PROÍBE, SOB PENA DE PRISÃO, A VENDA DE BILHETES DE LOTERIAS ESTRANGEIRAS."
+    },
+    {
+      "senadoId": "415964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-18-9308",
+      "titulo": "Decreto nº 9.308 de 18/10/1884",
+      "data": "1884-10-18",
+      "numero": "9308",
+      "urn": "urn:lex:br:federal:decreto:1884-10-18;9308",
+      "ementa": "PRORROGA POR MAIS NOVE MESES O PRAZO MARCADO NA CLAUSULA 11 DAS QUE ACOMPANHARAM O DECRETO 8.628 A, DE 28 DE JULHO DE 1882, PARA CONCLUSÃO DAS OBRAS DOS QUATRO PRIMEIROS ENGENHOS CENTRAIS QUE A COMPANHIA \"BAHIA CENTRAL SUGAR FACTORIES, LIMITED\" SE OBRIGOU A CONSTRUIR NA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-18-9309",
+      "titulo": "Decreto nº 9.309 de 18/10/1884",
+      "data": "1884-10-18",
+      "numero": "9309",
+      "urn": "urn:lex:br:federal:decreto:1884-10-18;9309",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO NO DECRETO NÚMERO 8723 DE 2 DE NOVEMBRO DE 1882 PARA ORGANIZAÇÃO DA COMPANHIA QUE DEVE CONSTRUIR A LINHA DE CARRIS DE FERRO DO MAR DA ESPANHA À ESTAÇÃO DE SANTA FÉ."
+    },
+    {
+      "senadoId": "415961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-14-9307",
+      "titulo": "Decreto nº 9.307 de 14/10/1884",
+      "data": "1884-10-14",
+      "numero": "9307",
+      "urn": "urn:lex:br:federal:decreto:1884-10-14;9307",
+      "ementa": "DISTRIBUE EM TRÊS DISTRITOS AS PROVÍNCIAS DO IMPÉRIO ONDE HAJAM ESTABELECIDO ENGENHOS CENTRAIS, DESTINADOS AO FABRICO DE AÇÚCAR DE CANA, COMPANHIAS QUE GOZEM, NO TODO OU EM PARTE, DOS FAVORES MENCIONADOS NO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8.357 DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-10-04-9306",
+      "titulo": "Decreto nº 9.306 de 04/10/1884",
+      "data": "1884-10-04",
+      "numero": "9306",
+      "urn": "urn:lex:br:federal:decreto:1884-10-04;9306",
+      "ementa": "CONCEDE AUTORIZAÇÃO PARA A COMPANHIA ENGENHO CENTRAL DE S. FIDELIS SE ORGANIZAR."
+    },
+    {
+      "senadoId": "415919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9293",
+      "titulo": "Decreto nº 9.293 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9293",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9293",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE BUQUIM, NA PROVÍNCIA DE SERGIPE E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "415946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9302",
+      "titulo": "Decreto nº 9.302 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9302",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9302",
+      "ementa": "PRORROGA ATÉ 30 DE JUNHO DE 1885 O PRAZO MARCADO PARA A CONCLUSÃO DE TODAS AS OBRAS DA ESTRADA DE FERRO DE PARANAGUÁ A CURITIBA, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "415901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9287",
+      "titulo": "Decreto nº 9.287 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9287",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9287",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS EM CADA UM DOS TERMOS DE S. FRANCISCO E LORETO, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "415904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9288",
+      "titulo": "Decreto nº 9.288 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9288",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9288",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS DO TERMO DO SANTÍSSIMO SACRAMENTO, NA PROVÍNCIA DE MINAS GERAIS, SEPARADO DO DE ARAXÁ."
+    },
+    {
+      "senadoId": "415937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9299",
+      "titulo": "Decreto nº 9.299 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9299",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9299",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DO PILAR, NA PROVÍNCIA DE GOIÁS, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "415910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9290",
+      "titulo": "Decreto nº 9.290 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9290",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9290",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DE CAMPOS, NA PROVÍNCIA DE SERGIPE, SERPARADO DO DE ITABAIANINHA."
+    },
+    {
+      "senadoId": "415913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9291",
+      "titulo": "Decreto nº 9.291 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9291",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9291",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DE BUQUIM, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "415925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9295",
+      "titulo": "Decreto nº 9.295 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9295",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9295",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DO ESPÍRITO SANTO, NA PROVÍNCIA DE SÃO PAULO, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "415943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9301",
+      "titulo": "Decreto nº 9.301 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9301",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9301",
+      "ementa": "DECLARA CADUCA A CONCESSÃO DE QUE TRATA O DECRETO NÚMERO 8093 DE 14 DE MAIO DE 1881."
+    },
+    {
+      "senadoId": "415949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9303",
+      "titulo": "Decreto nº 9.303 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9303",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9303",
+      "ementa": "APROVA O REGULAMENTO DO ESTABELECIMENTO RURAL DE S. PEDRO DE ALCANTARA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "415934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9298",
+      "titulo": "Decreto nº 9.298 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9298",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9298",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DO PARAÍSO, NA PROVÍNCIA DE MINAS GERAIS, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "415955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9305",
+      "titulo": "Decreto nº 9.305 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9305",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9305",
+      "ementa": "AUTORIZA A DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA DO TERRENO DO QUINTAL DO PRÉDIO 34 DA RUA EVARISTO DA VEIGA."
+    },
+    {
+      "senadoId": "415931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9297",
+      "titulo": "Decreto nº 9.297 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9297",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9297",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE ICATU, NA PROVÍNCIA DO MARANHÃO E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "415916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9292",
+      "titulo": "Decreto nº 9.292 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9292",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9292",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DO SENHOR BOM JESUS DO RIO DE CONTAS, NA PROVÍNCIA DA BAHIA, SEPARADO DO DE MINAS DO RIO DE CONTAS."
+    },
+    {
+      "senadoId": "415922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9294",
+      "titulo": "Decreto nº 9.294 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9294",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9294",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE CURURIPE, NA PROVINCIA DAS ALAGOAS, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PUBLICO."
+    },
+    {
+      "senadoId": "415893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9284",
+      "titulo": "Decreto nº 9.284 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9284",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9284",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE S. SEBASTIÃO DO CAHY, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL, SEPARADO DE S. JOÃO DO MONTE NEGRO."
+    },
+    {
+      "senadoId": "415890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9283",
+      "titulo": "Decreto nº 9.283 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9283",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9283",
+      "ementa": "DIVIDE A PROVÍNCIA DO PARÁ EM SEIS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "415899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9286",
+      "titulo": "Decreto nº 9.286 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9286",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9286",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DA PALMEIRA, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "415896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9285",
+      "titulo": "Decreto nº 9.285 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9285",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9285",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE SANTO ANTONIO DA ESTRELLA, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9300",
+      "titulo": "Decreto nº 9.300 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9300",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9300",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DO RIACHUELO, NA PROVÍNCIA DE SERGIPE, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "415907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9289",
+      "titulo": "Decreto nº 9.289 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9289",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9289",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS EM CADA UM DOS TERMOS DO SOCORRO, S. JOÃO BAPTISTA DO RIO VERDE E JABOTICABAL, TODOS NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "415952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9304",
+      "titulo": "Decreto nº 9.304 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9304",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9304",
+      "ementa": "REGULA AS AJUDAS DE CUSTO DOS JUÍZES MUNICIPAIS, DE ÓRFÃOS OU SUBSTITUTOS."
+    },
+    {
+      "senadoId": "415928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-27-9296",
+      "titulo": "Decreto nº 9.296 de 27/09/1884",
+      "data": "1884-09-27",
+      "numero": "9296",
+      "urn": "urn:lex:br:federal:decreto:1884-09-27;9296",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE LORETO, NA PROVINCIA DO MARANHÃO, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PUBLICO."
+    },
+    {
+      "senadoId": "415884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-23-9281",
+      "titulo": "Decreto nº 9.281 de 23/09/1884",
+      "data": "1884-09-23",
+      "numero": "9281",
+      "urn": "urn:lex:br:federal:decreto:1884-09-23;9281",
+      "ementa": "PRORROGA POR CINCO ANOS O PRAZO CONCEDIDO, POR DECRETO NÚMERO 6943 DE 22 DE JUNHO DE 1878, AO MAJOR BENEDITO DE ALMEIDA TORRES PARA LAVRAR OURO E OUTROS MINERAIS NO MUNICÍPIO DA CAMPANHA, PROVÍNCIA DE MINAS       GERAIS."
+    },
+    {
+      "senadoId": "415887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-23-9282",
+      "titulo": "Decreto nº 9.282 de 23/09/1884",
+      "data": "1884-09-23",
+      "numero": "9282",
+      "urn": "urn:lex:br:federal:decreto:1884-09-23;9282",
+      "ementa": "DECLARA A CADUCIDADE DA CONCESSÃO CONSTANTE DO DECRETO NÚMERO 4916 DE 30 DE MARÇO DE 1872."
+    },
+    {
+      "senadoId": "415875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-23-9278",
+      "titulo": "Decreto nº 9.278 de 23/09/1884",
+      "data": "1884-09-23",
+      "numero": "9278",
+      "urn": "urn:lex:br:federal:decreto:1884-09-23;9278",
+      "ementa": "APROVA O PLANO DAS OBRAS DO PROLONGAMENTO DO 4º DISTRITO DE ESGOTO, QUE COMPREENDE OS BAIRROS DE RIACHUELO, DE VILLA IZABEL E DO ANDARAHY GRANDE."
+    },
+    {
+      "senadoId": "415878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-23-9279",
+      "titulo": "Decreto nº 9.279 de 23/09/1884",
+      "data": "1884-09-23",
+      "numero": "9279",
+      "urn": "urn:lex:br:federal:decreto:1884-09-23;9279",
+      "ementa": "APROVA OS PLANOS DAS OBRAS PARA MELHORAMENTO DO PORTO E CONSTRUÇÃO DA ALFÂNDEGA DA CAPITAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-23-9280",
+      "titulo": "Decreto nº 9.280 de 23/09/1884",
+      "data": "1884-09-23",
+      "numero": "9280",
+      "urn": "urn:lex:br:federal:decreto:1884-09-23;9280",
+      "ementa": "TRANSFERE PARA A PROVÍNCIA DE PERNAMBUCO A PARADA DO 3º BATALHÃO DE ARTILHARIA."
+    },
+    {
+      "senadoId": "415872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-16-9277",
+      "titulo": "Decreto nº 9.277 de 16/09/1884",
+      "data": "1884-09-16",
+      "numero": "9277",
+      "urn": "urn:lex:br:federal:decreto:1884-09-16;9277",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS DO TERMO DE SANTARÉM, DA PROVÍNCIA DA BAHIA, SEPARADO DOS DE TAPEROÁ E CAYRÚ."
+    },
+    {
+      "senadoId": "415866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-13-9275",
+      "titulo": "Decreto nº 9.275 de 13/09/1884",
+      "data": "1884-09-13",
+      "numero": "9275",
+      "urn": "urn:lex:br:federal:decreto:1884-09-13;9275",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO NA CLÁUSULA 2ª DAS ANEXAS AO DECRETO NÚMERO 7992 DE 5 DE FEVEREIRO DE 1881."
+    },
+    {
+      "senadoId": "415869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-13-9276",
+      "titulo": "Decreto nº 9.276 de 13/09/1884",
+      "data": "1884-09-13",
+      "numero": "9276",
+      "urn": "urn:lex:br:federal:decreto:1884-09-13;9276",
+      "ementa": "ALTERA A DISPOSIÇÃO DA CLÁUSULA 3ª DAS QUE BAIXARAM COM O DECRETO NÚMERO 8925 DE 7 DE ABRIL DE 1883."
+    },
+    {
+      "senadoId": "415863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-06-9274",
+      "titulo": "Decreto nº 9.274 de 06/09/1884",
+      "data": "1884-09-06",
+      "numero": "9274",
+      "urn": "urn:lex:br:federal:decreto:1884-09-06;9274",
+      "ementa": "DÁ REGULAMENTO PARA ASYLO DE MENDICIDADE DA CORTE."
+    },
+    {
+      "senadoId": "415857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-06-9272",
+      "titulo": "Decreto nº 9.272 de 06/09/1884",
+      "data": "1884-09-06",
+      "numero": "9272",
+      "urn": "urn:lex:br:federal:decreto:1884-09-06;9272",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AO DR. DE WITT CLINTON VAN TUYL PARA LAVRAR MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "415860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-06-9273",
+      "titulo": "Decreto nº 9.273 de 06/09/1884",
+      "data": "1884-09-06",
+      "numero": "9273",
+      "urn": "urn:lex:br:federal:decreto:1884-09-06;9273",
+      "ementa": "AMPLIA O PRAZO DA CONCESSÃO FEITA A JOSÉ LEOPOLDO BOUGARD PELO DECRETO NÚMERO 8459 DE 18 DE MARÇO DE 1882."
+    },
+    {
+      "senadoId": "415851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-03-9270",
+      "titulo": "Decreto nº 9.270 de 03/09/1884",
+      "data": "1884-09-03",
+      "numero": "9270",
+      "urn": "urn:lex:br:federal:decreto:1884-09-03;9270",
+      "ementa": "DISSOLVE A CAMARA DOS DEPUTADOS E CONVOCA OUTRA."
+    },
+    {
+      "senadoId": "415854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-09-03-9271",
+      "titulo": "Decreto nº 9.271 de 03/09/1884",
+      "data": "1884-09-03",
+      "numero": "9271",
+      "urn": "urn:lex:br:federal:decreto:1884-09-03;9271",
+      "ementa": "CONVOCA PARA O DIA 1º DE MARÇO DO ANO PRÓXIMO VINDOURO A NOVA ASSEMBLÉIA GERAL E DESIGNA O DIA 1º DE DEZEMBRO DO CORRENTE ANO PARA SE PROCEDER, EM TODO O IMPÉRIO, À ELEIÇÃO DE DEPUTADOS."
+    },
+    {
+      "senadoId": "415848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-23-9269",
+      "titulo": "Decreto nº 9.269 de 23/08/1884",
+      "data": "1884-08-23",
+      "numero": "9269",
+      "urn": "urn:lex:br:federal:decreto:1884-08-23;9269",
+      "ementa": "DECLARA QUE OS OFICIAIS HONORÁRIOS DO EXÉRCITO ATÉ AO POSTO DE CAPITÃO QUE TIVEREM SOLICITADO AS RESPECTIVAS PATENTES, PODEM PASSAR PROCURAÇÃO POR INSTRUMENTO PARTICULAR POR ELES ESCRITO E ASSINADO."
+    },
+    {
+      "senadoId": "415839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-23-9266",
+      "titulo": "Decreto nº 9.266 de 23/08/1884",
+      "data": "1884-08-23",
+      "numero": "9266",
+      "urn": "urn:lex:br:federal:decreto:1884-08-23;9266",
+      "ementa": "PROMULGA A CONVENÇÃO CELEBRADA ENTRE O BRASIL E A AUSTRIA-HUNGRIA EM 21 DE MAIO DE 1883 PARA A EXTRADIÇÃO DE CRIMINOSOS."
+    },
+    {
+      "senadoId": "415845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-23-9268",
+      "titulo": "Decreto nº 9.268 de 23/08/1884",
+      "data": "1884-08-23",
+      "numero": "9268",
+      "urn": "urn:lex:br:federal:decreto:1884-08-23;9268",
+      "ementa": "APROVA A PLANTA DEFINITIVA DA ESTRADA DE FERRO DO RIO D'OURO."
+    },
+    {
+      "senadoId": "415842",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-23-9267",
+      "titulo": "Decreto nº 9.267 de 23/08/1884",
+      "data": "1884-08-23",
+      "numero": "9267",
+      "urn": "urn:lex:br:federal:decreto:1884-08-23;9267",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELOS DECRETOS NÚMEROS 6355 E 7917, DE 11 DE OUTUBRO DE 1876 E 23 DE NOVEMBRO DE 1880."
+    },
+    {
+      "senadoId": "415827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-16-9262",
+      "titulo": "Decreto nº 9.262 de 16/08/1884",
+      "data": "1884-08-16",
+      "numero": "9262",
+      "urn": "urn:lex:br:federal:decreto:1884-08-16;9262",
+      "ementa": "ALTERA O ARTIGO 90 DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8557 DE 27 DE MAIO DE 1882, RELATIVO À FERROVIA DO SOBRAL, E TORNA EXTENSIVA A ALTERAÇÃO A TODAS AS OUTRAS FERROVIAS CUSTEADAS POR CONTA DO ESTADO."
+    },
+    {
+      "senadoId": "415830",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-16-9263",
+      "titulo": "Decreto nº 9.263 de 16/08/1884",
+      "data": "1884-08-16",
+      "numero": "9263",
+      "urn": "urn:lex:br:federal:decreto:1884-08-16;9263",
+      "ementa": "ALTERA DIVERSAS DISPOSIÇÕES DOS REGULAMENTOS DO MONTEPIO GERAL DE ECONOMIA DOS SERVIDORES DO ESTADO."
+    },
+    {
+      "senadoId": "415836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-16-9265",
+      "titulo": "Decreto nº 9.265 de 16/08/1884",
+      "data": "1884-08-16",
+      "numero": "9265",
+      "urn": "urn:lex:br:federal:decreto:1884-08-16;9265",
+      "ementa": "CONCEDE PERMISSÃO A ANTONIO DA SILVA LISBOA PARA EXPLORAR CHUMBO E OUTROS MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-16-9261",
+      "titulo": "Decreto nº 9.261 de 16/08/1884",
+      "data": "1884-08-16",
+      "numero": "9261",
+      "urn": "urn:lex:br:federal:decreto:1884-08-16;9261",
+      "ementa": "CONCEDE PERMISSÃO A JOSÉ FRANCISCO THOMAZ DO NASCIMENTO PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "415833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-16-9264",
+      "titulo": "Decreto nº 9.264 de 16/08/1884",
+      "data": "1884-08-16",
+      "numero": "9264",
+      "urn": "urn:lex:br:federal:decreto:1884-08-16;9264",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO ANTONIO NUNES DA CUNHA PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "415821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-09-9260",
+      "titulo": "Decreto nº 9.260 de 09/08/1884",
+      "data": "1884-08-09",
+      "numero": "9260",
+      "urn": "urn:lex:br:federal:decreto:1884-08-09;9260",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO, DENTRO DO QUAL A COMPANHIA RIO DE JANEIRO CENTRAL SUGAR FACTORIES, LIMITED, DEVERÁ CONCLUIR AS OBRAS DOS DOIS ENGENHENHOS CENTRAIS EM CONSTRUÇÃO NOS MUNICÍPIOS DE ARARUAMA E MANGARATIBA, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "415815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-09-9258",
+      "titulo": "Decreto nº 9.258 de 09/08/1884",
+      "data": "1884-08-09",
+      "numero": "9258",
+      "urn": "urn:lex:br:federal:decreto:1884-08-09;9258",
+      "ementa": "MODIFICA O TRAÇADO DA ESTRADA DE FERRO DO NORTE COMPREENDIDO ENTRE OS KILÔMETROS 11.150 A 14.988; 18.329 A 21.532; 23.860 A 28.665."
+    },
+    {
+      "senadoId": "415818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-09-9259",
+      "titulo": "Decreto nº 9.259 de 09/08/1884",
+      "data": "1884-08-09",
+      "numero": "9259",
+      "urn": "urn:lex:br:federal:decreto:1884-08-09;9259",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA GERAL DE TIRO DO CAMPO GRANDE."
+    },
+    {
+      "senadoId": "415803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-02-9254",
+      "titulo": "Decreto nº 9.254 de 02/08/1884",
+      "data": "1884-08-02",
+      "numero": "9254",
+      "urn": "urn:lex:br:federal:decreto:1884-08-02;9254",
+      "ementa": "EXTINGUE O LUGAR DE MANDADOR DA OFICINA DE MAQUINISTAS E SERRALHEIROS DO ARSENAL DE GUERRA DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-02-9256",
+      "titulo": "Decreto nº 9.256 de 02/08/1884",
+      "data": "1884-08-02",
+      "numero": "9256",
+      "urn": "urn:lex:br:federal:decreto:1884-08-02;9256",
+      "ementa": "PRORROGA POR UM ANO O PRAZO A QUE SE REFERE A CLÁUSULA 3ª DO DECRETO NÚMERO 9004 DE 1 DE SETEMBRO DE 1883 COM IMPOSIÇÃO DA MULTA DE 1:000$000."
+    },
+    {
+      "senadoId": "415801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-02-9253",
+      "titulo": "Decreto nº 9.253 de 02/08/1884",
+      "data": "1884-08-02",
+      "numero": "9253",
+      "urn": "urn:lex:br:federal:decreto:1884-08-02;9253",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 8809, DE 7 DE MAIO DE 1881."
+    },
+    {
+      "senadoId": "415806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-02-9255",
+      "titulo": "Decreto nº 9.255 de 02/08/1884",
+      "data": "1884-08-02",
+      "numero": "9255",
+      "urn": "urn:lex:br:federal:decreto:1884-08-02;9255",
+      "ementa": "MODIFICA O TRAÇADO DO RAMAL DO TIMBÓ, DA ESTRADA DE FERRO DA BAHIA AO SÃO FRANCISCO, ENTRE OS QUILÔMETROS 18.500 E 25.208."
+    },
+    {
+      "senadoId": "415798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-02-9252",
+      "titulo": "Decreto nº 9.252 de 02/08/1884",
+      "data": "1884-08-02",
+      "numero": "9252",
+      "urn": "urn:lex:br:federal:decreto:1884-08-02;9252",
+      "ementa": "CONCEDE À COMPANHIA ENGENHO CENTRAL DE LORENA FAVOR MENCIONADO NO PARÁGRAFO 2º, DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8357, DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-08-02-9257",
+      "titulo": "Decreto nº 9.257 de 02/08/1884",
+      "data": "1884-08-02",
+      "numero": "9257",
+      "urn": "urn:lex:br:federal:decreto:1884-08-02;9257",
+      "ementa": "DECLARA QUE A PRORROGAÇÃO DO PRAZO, DE QUE TRATA O DECRETO 8983 DE 4 DE AGOSTO DE 1883, DEVE SER CONTADA DO DECRETO 7980 DE 22 DE JANEIRO DE 1881."
+    },
+    {
+      "senadoId": "415792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-26-9250",
+      "titulo": "Decreto nº 9.250 de 26/07/1884",
+      "data": "1884-07-26",
+      "numero": "9250",
+      "urn": "urn:lex:br:federal:decreto:1884-07-26;9250",
+      "ementa": "CONCEDE PERMISSÃO A AUGUSTO CESAR COELHO SEABRA E MANOEL COSME PINTO PARA EXPLORAREM OURO E OUTROS MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "415795",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-26-9251",
+      "titulo": "Decreto nº 9.251 de 26/07/1884",
+      "data": "1884-07-26",
+      "numero": "9251",
+      "urn": "urn:lex:br:federal:decreto:1884-07-26;9251",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA MILITAR DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-19-9248",
+      "titulo": "Decreto nº 9.248 de 19/07/1884",
+      "data": "1884-07-19",
+      "numero": "9248",
+      "urn": "urn:lex:br:federal:decreto:1884-07-19;9248",
+      "ementa": "AUTORIZA O PAGAMENTO DE JUROS DO CAPITAL EFETIVAMENTE EMPREGADO PELA COMPANHIA CENTRAL SUGAR FACTORIES OF BRASIL, LIMITED, A CONTAR DE JULHO DE 1884; ACEITA, EM VEZ DO ENGENHO CENTRAL QUE A MESMA COMPANHIA DEVIA CONSTRUIR NO MUNICÍPIO DA GAMELEIRA, O QUE CONSTRUIU EM BOM GOSTO, NO DE PALMARES, REDUZINDO PORÉM, A 6% A GARANTIA DE JUROS DE 7%, CONCEDIDA ÁQUELE ENGENHO; E MARCA PRAZOS PARA CONCLUSÃO E FUNCIONAMENTO DAS QUATRO FÁBRICAS EM CONSTRUÇÃO E DAS DUAS, CUJAS OBRAS AINDA NÃO TIVERAM COMEÇO."
+    },
+    {
+      "senadoId": "415774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-19-9244",
+      "titulo": "Decreto nº 9.244 de 19/07/1884",
+      "data": "1884-07-19",
+      "numero": "9244",
+      "urn": "urn:lex:br:federal:decreto:1884-07-19;9244",
+      "ementa": "CONCEDE A EDUARDO PELLEW WILSON JÚNIOR PERMISSÃO PARA CONSTRUIR E EXPLORAR LINHAS TELEFÔNICAS NA CAPITAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-19-9246",
+      "titulo": "Decreto nº 9.246 de 19/07/1884",
+      "data": "1884-07-19",
+      "numero": "9246",
+      "urn": "urn:lex:br:federal:decreto:1884-07-19;9246",
+      "ementa": "ALTERA AS INSTRUÇÕES REGULAMENTARES A TARIFAS DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "415777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-19-9245",
+      "titulo": "Decreto nº 9.245 de 19/07/1884",
+      "data": "1884-07-19",
+      "numero": "9245",
+      "urn": "urn:lex:br:federal:decreto:1884-07-19;9245",
+      "ementa": "PRORROGA ATÉ 2 DE DEZEMBRO DO CORRENTE ANO, O PRAZO MARCADO NA CLÁUSULA 3ª, DO DECRETO 7895, DE 12 DE NOVEMBRO DE 1880, PARA CONCLUSÃO DAS OBRAS DA ESTRADA DE FERRO DE MACEIÓ À IMPERATRIZ, COM IMPOSIÇÃO DA MULTA ESTABELECIDA NO DECRETO NÚMERO 6995, DE 10 DE AGOSTO DE 1878."
+    },
+    {
+      "senadoId": "415789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-19-9249",
+      "titulo": "Decreto nº 9.249 de 19/07/1884",
+      "data": "1884-07-19",
+      "numero": "9249",
+      "urn": "urn:lex:br:federal:decreto:1884-07-19;9249",
+      "ementa": "ALTERA O TRAÇADO DO PROLONGAMENTO DA ESTRADA DE FERRO LEOPOLDINA, APROVADO PELO DECRETO NÚMERO 9212 DE 17 DE MAIO ÚLTIMO."
+    },
+    {
+      "senadoId": "415783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-19-9247",
+      "titulo": "Decreto nº 9.247 de 19/07/1884",
+      "data": "1884-07-19",
+      "numero": "9247",
+      "urn": "urn:lex:br:federal:decreto:1884-07-19;9247",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AO TENENTE-CORONEL JOSÉ GONÇALVES TEIXEIRA PARA A MEDIÇÃO E DEMARCAÇÃO DE DATAS MINERAIS NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "415768",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-12-9242",
+      "titulo": "Decreto nº 9.242 de 12/07/1884",
+      "data": "1884-07-12",
+      "numero": "9242",
+      "urn": "urn:lex:br:federal:decreto:1884-07-12;9242",
+      "ementa": "REVALIDA A CONCESSÃO FEITA PELO DECRETO NÚMERO 8124, DE 28 DE MAIO DE 1881,A FRANCISCO TEIXEIRA DE SOUZA ALVES, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA NA FREGUESIA DE CAMPO GRANDE, MUNICÍPIO NEUTRO; MARCA OS PRAZOS DENTRO DOS QUAIS DEVERÃO SER OBSERVADAS AS EXIGÊNCIAS LEGAIS; DECLARA QUE O REGULAMENTO DE 24 DE DEZEMBRO DE 1881, NADA TEM DE APLICÁVEL À MESMA CONCESSÃO, QUANTO AO QUE SE REFERE A GARANTIA DE JUROS E SUBSTITUE A CLÁUSULA 4ª, DAS QUE BAIXARAM COM O REFERIDO DECRETO."
+    },
+    {
+      "senadoId": "415771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-12-9243",
+      "titulo": "Decreto nº 9.243 de 12/07/1884",
+      "data": "1884-07-12",
+      "numero": "9243",
+      "urn": "urn:lex:br:federal:decreto:1884-07-12;9243",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO PINTO DE OLIVEIRA E SOUZA, MANOEL MARTINS DE OLIVEIRA E EDUARDO DIAS DE MORAES PARA EXPLORAREM OURO, PRATA E OUTROS METAIS NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "415765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-07-05-9241",
+      "titulo": "Decreto nº 9.241 de 05/07/1884",
+      "data": "1884-07-05",
+      "numero": "9241",
+      "urn": "urn:lex:br:federal:decreto:1884-07-05;9241",
+      "ementa": "CONCEDE PERMISSÃO A EDUARDO G. BONJEAN E GUILHERME JOSÉ DA COSTA VIANNA PARA EXPLORAREM FERRO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "415744",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9234",
+      "titulo": "Decreto nº 9.234 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9234",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9234",
+      "ementa": "PROMULGA TRATADO DE AMIZADE, COMÉRCIO E NAVEGAÇÃO CONCLUÍDO ENTRE O BRASIL E A REPÚBLICA DO PARAGUAI, EM 7 DE JUNHO DE 1883."
+    },
+    {
+      "senadoId": "415747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9235",
+      "titulo": "Decreto nº 9.235 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9235",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9235",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO PROLONGAMENTO DA ESTRADA DE FERRO DO NORTE, ATÉ ÀS IMEDIAÇÕES DA IGREJA MATRIZ DA FREGUESIA DE SANT´ANNA, DO MUNICÍPIO NEUTRO."
+    },
+    {
+      "senadoId": "415750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9236",
+      "titulo": "Decreto nº 9.236 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9236",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9236",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO PARA ORGANIZAÇÃO DA COMPANHIA A QUE, POR DECRETO NÚMERO 9066, DE 24 DE NOVEMBRO DE 1883, FORAM CONCEDIDOS OS FAVORES MENCIONADOS NO ARTIGO 6º, DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 8357, DE 24 DE DEZEMBRO DE 1881, COM EXCEÇÃO DA GARANTIA OU FIANÇA DE JUROS, PARA O ESTABELECIMENTO DE DOIS ENGENHOS CENTRAIS, DESTINADOS AO FABRICO DE AÇÚCAR DE CANA, NOS MUNICÍPIOS DE IGUAÇU E DE ESTRELA, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "415753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9237",
+      "titulo": "Decreto nº 9.237 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9237",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9237",
+      "ementa": "CONCEDE PERMISSÃO AO BACHAREL JOSÉ JOAQUIM RAMOS FERREIRA, PARA LAVRAR MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "415759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9239",
+      "titulo": "Decreto nº 9.239 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9239",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9239",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO ANTONIO NUNES DA CUNHA PARA LAVRAR MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "415762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9240",
+      "titulo": "Decreto nº 9.240 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9240",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9240",
+      "ementa": "DECLARA CADUCIDADE DA CONCESSÃO CONSTANTE DO DECRETO NÚMERO 8373, DE 7 DE JANEIRO DE 1882."
+    },
+    {
+      "senadoId": "415756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9238",
+      "titulo": "Decreto nº 9.238 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9238",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9238",
+      "ementa": "APROVA AS INSTRUÇÕES PARA A CELEBRAÇÃO DOS CONTRATOS DE NAVEGAÇÃO SUBVENCIONADA PELO ESTADO."
+    },
+    {
+      "senadoId": "415741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-28-9233",
+      "titulo": "Decreto nº 9.233 de 28/06/1884",
+      "data": "1884-06-28",
+      "numero": "9233",
+      "urn": "urn:lex:br:federal:decreto:1884-06-28;9233",
+      "ementa": "PROMULGA A CONVENÇÃO, ASSINADA EM PARIS A 20 DE MARÇO DE 1883, PELA QUAL O BRASIL E OUTROS ESTADOS SE CONSTITUEM EM UNIÃO PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "415735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-21-9231",
+      "titulo": "Decreto nº 9.231 de 21/06/1884",
+      "data": "1884-06-21",
+      "numero": "9231",
+      "urn": "urn:lex:br:federal:decreto:1884-06-21;9231",
+      "ementa": "DECLARA DE UTILIDADE MUNICIPAL A DESAPROPRIAÇÃO DO PRÉDIO 78, DA RUA DO CATETE."
+    },
+    {
+      "senadoId": "415738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-21-9232",
+      "titulo": "Decreto nº 9.232 de 21/06/1884",
+      "data": "1884-06-21",
+      "numero": "9232",
+      "urn": "urn:lex:br:federal:decreto:1884-06-21;9232",
+      "ementa": "PRORROGA POR MAIS CINCO MESES O PRAZO PARA CONCLUSÃO DAS OBRAS DA FÁBRICA E SUAS DEPENDÊNCIAS, QUE ESTÃO SENDO CONSTRUÍDAS PELA COMPANHIA ENGENHO CENTRAL DE BRACUÍ."
+    },
+    {
+      "senadoId": "415729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-14-9229",
+      "titulo": "Decreto nº 9.229 de 14/06/1884",
+      "data": "1884-06-14",
+      "numero": "9229",
+      "urn": "urn:lex:br:federal:decreto:1884-06-14;9229",
+      "ementa": "FIXA O PRAZO DENTRO DO QUAL DEVERÁ A COMPANHIA AÇUACAREIRA DO TIETÉ COMEÇAR E CONCLUIR AS OBRAS DA CONSTRUÇÃO DO ENGENHO CENTRAL DO MUNICÍPIO DAQUELE NOME, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "415732",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-14-9230",
+      "titulo": "Decreto nº 9.230 de 14/06/1884",
+      "data": "1884-06-14",
+      "numero": "9230",
+      "urn": "urn:lex:br:federal:decreto:1884-06-14;9230",
+      "ementa": "PRORROGA POR MAIS OITO MESES O PRAZO MARCADO NO DECRETO 9021, DE 26 DE SETEMBRO DE 1883, PARA COMEÇO DAS OBRAS DO PORTO DE SANTOS."
+    },
+    {
+      "senadoId": "415722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-02-9227",
+      "titulo": "Decreto nº 9.227 de 02/06/1884",
+      "data": "1884-06-02",
+      "numero": "9227",
+      "urn": "urn:lex:br:federal:decreto:1884-06-02;9227",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE IGARAPÉ-MIRIM, DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "415726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-06-02-9228",
+      "titulo": "Decreto nº 9.228 de 02/06/1884",
+      "data": "1884-06-02",
+      "numero": "9228",
+      "urn": "urn:lex:br:federal:decreto:1884-06-02;9228",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO NO MUNICÍPIO DE CORRENTE, COMARCA DE PARANAGUÁ, PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "415703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9221",
+      "titulo": "Decreto nº 9.221 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9221",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9221",
+      "ementa": "CONCEDE PERMISSÃO A AYRES POMPEU CARVALHO DE SOUZA PARA LAVRAR MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "415697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9219",
+      "titulo": "Decreto nº 9.219 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9219",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9219",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A VALERIANO MANSO DA COSTA REIS, PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "415712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9224",
+      "titulo": "Decreto nº 9.224 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9224",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9224",
+      "ementa": "CONCEDE PERMISSÃO A EDUARDO DIAS DE MORAIS PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9223",
+      "titulo": "Decreto nº 9.223 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9223",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9223",
+      "ementa": "CONCEDE PERMISSÃO A PEDRO DA SILVA PEREIRA E MANOEL JOAQUIM BORGES DE LIMA, PARA EXPLORAREM CHUMBO E OUTROS MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "415715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9224-a",
+      "titulo": "Decreto nº 9.224-A de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9224-a",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9224-a",
+      "ementa": "APROVA PROVISORIAMENTE AS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA O TRANSPORTE DE PASSAGEIROS E MERCADORIAS PELA ESTRADA DE FERRO D. THEREZA CHRISTINA, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "415700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9220",
+      "titulo": "Decreto nº 9.220 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9220",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9220",
+      "ementa": "CONCEDE DURANTE 30 ANOS, FIANÇA DO JURO DE 6%, GARANTIDO PELA ASSEMBLÉIA PROVINCIAL DO RIO GRANDE DO NORTE, SOBRE O CAPITAL DE 1.417:500$, FIXADO PARA A CONSTRUÇÃO DO RAMAL DE CEARÁ-MIRIM, DA ESTRADA DE FERRO DE NATAL À NOVA CRUZ."
+    },
+    {
+      "senadoId": "415694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9218",
+      "titulo": "Decreto nº 9.218 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9218",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9218",
+      "ementa": "PERMITE À COMPANHIA INGLESA THE BAHIA CENTRAL SUGAR FACTORIES LIMITED, CONTINUAR A FUNCIONAR NO IMPÉRIO, NÃO OBSTANTE A REFORMA DE SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "415706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9222",
+      "titulo": "Decreto nº 9.222 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9222",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9222",
+      "ementa": "CONCEDE PERMISSÃO A JAMES WALTER GRAHAM EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "415716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9225",
+      "titulo": "Decreto nº 9.225 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9225",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9225",
+      "ementa": "CRIA MAIS DOIS CORPOS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE DOM PEDRITO, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-31-9226",
+      "titulo": "Decreto nº 9.226 de 31/05/1884",
+      "data": "1884-05-31",
+      "numero": "9226",
+      "urn": "urn:lex:br:federal:decreto:1884-05-31;9226",
+      "ementa": "ELEVA À CATEGORIA DE CORPO O SEGUNDO ESQUADRÃO DE CAVALARIA DA GUARDA NACIONAL DA COMARCA DE BAGÉ, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-24-9217",
+      "titulo": "Decreto nº 9.217 de 24/05/1884",
+      "data": "1884-05-24",
+      "numero": "9217",
+      "urn": "urn:lex:br:federal:decreto:1884-05-24;9217",
+      "ementa": "ELEVA A OITO COMPANHIAS, O 28º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DE TRAIPÚ, NA PROVÍNCIA DAS ALAGOAS, E CRIA MAIS DOIS BATALHÕES NA MESMA COMARCA."
+    },
+    {
+      "senadoId": "415682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-24-9214",
+      "titulo": "Decreto nº 9.214 de 24/05/1884",
+      "data": "1884-05-24",
+      "numero": "9214",
+      "urn": "urn:lex:br:federal:decreto:1884-05-24;9214",
+      "ementa": "APROVA E MANDA EXECUTAR O ORÇAMENTO DA RECEITA E DESPESA DA ILMA. CÂMARA MUNICIPAL PARA O EXERCÍCIO DE 1884."
+    },
+    {
+      "senadoId": "415685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-24-9215",
+      "titulo": "Decreto nº 9.215 de 24/05/1884",
+      "data": "1884-05-24",
+      "numero": "9215",
+      "urn": "urn:lex:br:federal:decreto:1884-05-24;9215",
+      "ementa": "CRIA NOVOS CORPOS DE GUARDAS NACIONAIS NO COMANDO SUPERIOR DAS COMARCAS DE PAULO AFONSO E PÃO DE AÇÚCAR, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "415688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-24-9216",
+      "titulo": "Decreto nº 9.216 de 24/05/1884",
+      "data": "1884-05-24",
+      "numero": "9216",
+      "urn": "urn:lex:br:federal:decreto:1884-05-24;9216",
+      "ementa": "CRIA MAIS UM CORPO DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA MARIA DA BOCA DO MONTE, DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9208",
+      "titulo": "Decreto nº 9.208 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9208",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9208",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DA COMARCA DE CAETETÉ, NA PROVÍNCIA DA BAHIA, A FORÇA QUALIFICADA NA DE MONTE ALTO E CRIA COM ELA UM NOVO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "415679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9213",
+      "titulo": "Decreto nº 9.213 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9213",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9213",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA GUARDA NACIONAL DA COMARCA DE CRUZ ALTA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9212",
+      "titulo": "Decreto nº 9.212 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9212",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9212",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO DO PROLONGAMENTO DA ESTRADA DE FERRO LEOPOLDINA, A PARTIR DE COIMBRA PARA ITABIRA DO MATO DENTRO."
+    },
+    {
+      "senadoId": "415667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9209",
+      "titulo": "Decreto nº 9.209 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9209",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9209",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DA VITÓRIA, NA PROVÍNCIA DA BAHIA, A FORÇA QUALIFICADA NA COMARCA DE SANTO ANTÔNIO DA BARRA E CRIA COM ELA UM NOVO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "415670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9210",
+      "titulo": "Decreto nº 9.210 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9210",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9210",
+      "ementa": "CRIA MAIS DOIS BATALHÕES DE GUARDAS NACIONAIS, DO SERVIÇO DA RESERVA, NO COMANDO SUPERIOR DAS COMARCAS DE ITAPEMIRIM, CACHOEIRO DE ITAPEMIRIM E IRITIBA, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "415673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9211",
+      "titulo": "Decreto nº 9.211 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9211",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9211",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA GUARDA NACIONAL DA COMARCA DE ITAPICURÚ-MIRIM, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "415661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9207",
+      "titulo": "Decreto nº 9.207 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9207",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9207",
+      "ementa": "CRIA MAIS UM CORPO DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO GABRIEL, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-17-9206",
+      "titulo": "Decreto nº 9.206 de 17/05/1884",
+      "data": "1884-05-17",
+      "numero": "9206",
+      "urn": "urn:lex:br:federal:decreto:1884-05-17;9206",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DE PASSO FUNDO, NA PROVÍNCIA DO RIO GRANDE DO SUL, A FORÇA QUALIFICADA NA COMARCA DO SOLEDADE, E CRIA COM ELA UM NOVO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "415650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-10-9203",
+      "titulo": "Decreto nº 9.203 de 10/05/1884",
+      "data": "1884-05-10",
+      "numero": "9203",
+      "urn": "urn:lex:br:federal:decreto:1884-05-10;9203",
+      "ementa": "CRIA UM BATALHÃO DE GUARDAS NACIONAIS DO SERVIÇO DA RESERVA NA COMARCA DO PILAR, DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "415644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-10-9201",
+      "titulo": "Decreto nº 9.201 de 10/05/1884",
+      "data": "1884-05-10",
+      "numero": "9201",
+      "urn": "urn:lex:br:federal:decreto:1884-05-10;9201",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415641",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-10-9200",
+      "titulo": "Decreto nº 9.200 de 10/05/1884",
+      "data": "1884-05-10",
+      "numero": "9200",
+      "urn": "urn:lex:br:federal:decreto:1884-05-10;9200",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DO PRÉDIO 28 DA RUA DO PASSEIO, PARA O PROLONGAMENTO DA RUA LUIZ DE VASCONCELOS."
+    },
+    {
+      "senadoId": "415647",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-10-9202",
+      "titulo": "Decreto nº 9.202 de 10/05/1884",
+      "data": "1884-05-10",
+      "numero": "9202",
+      "urn": "urn:lex:br:federal:decreto:1884-05-10;9202",
+      "ementa": "CRIA UM BATALHÃO DE GUARDAS NACIONAIS DA RESERVA NO COMANDO SUPERIOR DAS COMARCAS DE CAMPO MAIOR E HUMILDES, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "415653",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-10-9204",
+      "titulo": "Decreto nº 9.204 de 10/05/1884",
+      "data": "1884-05-10",
+      "numero": "9204",
+      "urn": "urn:lex:br:federal:decreto:1884-05-10;9204",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA IMPERATRIZ, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "415635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-03-9198",
+      "titulo": "Decreto nº 9.198 de 03/05/1884",
+      "data": "1884-05-03",
+      "numero": "9198",
+      "urn": "urn:lex:br:federal:decreto:1884-05-03;9198",
+      "ementa": "DECLARA CADUCA A CONCESSÃO DA LINHA DE CARRIS ENTRE A TRAVESSA DO GENERAL BELLEGARDE E A ESTAÇÃO DAS OFICINAS DA ESTRADA DE FERRO D. PEDRO II, A QUE SE REFERE O DECRETO NÚMERO 8596 DE 17 DE JUNHO DE 1882."
+    },
+    {
+      "senadoId": "415638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-03-9199",
+      "titulo": "Decreto nº 9.199 de 03/05/1884",
+      "data": "1884-05-03",
+      "numero": "9199",
+      "urn": "urn:lex:br:federal:decreto:1884-05-03;9199",
+      "ementa": "REGULA OS SERVIÇOS A CARGO DA REPARTIÇÃO ESPECIAL DE ESTATÍSTICA, CRIADA NO TESOURO NACIONAL PELO ARTIGO 17 DA LEI NÚMERO 2792 DE 20 DE       OUTUBRO DE 1877."
+    },
+    {
+      "senadoId": "415632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-03-9197",
+      "titulo": "Decreto nº 9.197 de 03/05/1884",
+      "data": "1884-05-03",
+      "numero": "9197",
+      "urn": "urn:lex:br:federal:decreto:1884-05-03;9197",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO NA FREGUESIA DE NOSSA SENHORA DA CONCEIÇÃO DA FEIRA NOVA, DA COMARCA DA CACHOEIRA, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-03-9196",
+      "titulo": "Decreto nº 9.196 de 03/05/1884",
+      "data": "1884-05-03",
+      "numero": "9196",
+      "urn": "urn:lex:br:federal:decreto:1884-05-03;9196",
+      "ementa": "CRIA NOVOS CORPOS NO COMANDO SUPERIOR DA GUARDA NACIONAL DA COMARCA DE PENEDO, DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "415625",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-05-03-9195",
+      "titulo": "Decreto nº 9.195 de 03/05/1884",
+      "data": "1884-05-03",
+      "numero": "9195",
+      "urn": "urn:lex:br:federal:decreto:1884-05-03;9195",
+      "ementa": "CRIA MAIS UMA BATALHÃO DE INFANTARIA E UMA SEÇÃO DE BATALHÃO DA RESERVA DE GUARDAS NACIONAIS, NO MUNICÍPIO DE JAICÓZ, COMARCA DO MESMO NOME, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "415616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-26-9192",
+      "titulo": "Decreto nº 9.192 de 26/04/1884",
+      "data": "1884-04-26",
+      "numero": "9192",
+      "urn": "urn:lex:br:federal:decreto:1884-04-26;9192",
+      "ementa": "ELEVA À CATEGORIA DE BATALHÃO CADA UMA DAS SEÇÕES DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO 3 E 4 DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "415613",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-26-9191",
+      "titulo": "Decreto nº 9.191 de 26/04/1884",
+      "data": "1884-04-26",
+      "numero": "9191",
+      "urn": "urn:lex:br:federal:decreto:1884-04-26;9191",
+      "ementa": "ELEVA A OITO COMPANHIAS O 23º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DO RIO DE JANEIRO, E CRIA DUAS SEÇÕES DE BATALHÃO NA MESMA COMARCA."
+    },
+    {
+      "senadoId": "415619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-26-9193",
+      "titulo": "Decreto nº 9.193 de 26/04/1884",
+      "data": "1884-04-26",
+      "numero": "9193",
+      "urn": "urn:lex:br:federal:decreto:1884-04-26;9193",
+      "ementa": "ELEVA À CATEGORIA DE BATALHÃO CADA UMA DAS SEÇÕES DE BATALHÃO DE INFANTARIA 11 E 13 DA GUARDA NACIONAL DAS COMARCAS DE SANTARÉM E MONTE ALEGRE, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "415622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-26-9194",
+      "titulo": "Decreto nº 9.194 de 26/04/1884",
+      "data": "1884-04-26",
+      "numero": "9194",
+      "urn": "urn:lex:br:federal:decreto:1884-04-26;9194",
+      "ementa": "ABRE AO MINISTERIO DOS NEGOCIOS DA JUSTIÇA O CREDITO EXTRAORDINARIO DE 35:288$209, PARA OCORRER AS DESPESAS COM AS OBRAS DA CASA DE DETENÇÃO DA CORTE, NO EXERCICIO DE 1883-1884."
+    },
+    {
+      "senadoId": "415610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-19-9190",
+      "titulo": "Decreto nº 9.190 de 19/04/1884",
+      "data": "1884-04-19",
+      "numero": "9190",
+      "urn": "urn:lex:br:federal:decreto:1884-04-19;9190",
+      "ementa": "ALTERA O PARÁGRAFO 7º DA CLÁUSULA 4ª DO DECRETO NÚMERO 7007 DE 24 DE AGOSTO DE 1878."
+    },
+    {
+      "senadoId": "415604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-19-9188",
+      "titulo": "Decreto nº 9.188 de 19/04/1884",
+      "data": "1884-04-19",
+      "numero": "9188",
+      "urn": "urn:lex:br:federal:decreto:1884-04-19;9188",
+      "ementa": "AUTORIZA A ALTERAÇÃO DO CONTRATO APROVADO PELO DECRETO NÚMERO 7123 DE 4 DE JANEIRO DE 1879."
+    },
+    {
+      "senadoId": "415607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-19-9189",
+      "titulo": "Decreto nº 9.189 de 19/04/1884",
+      "data": "1884-04-19",
+      "numero": "9189",
+      "urn": "urn:lex:br:federal:decreto:1884-04-19;9189",
+      "ementa": "APROVA PROVISORIAMENTE AS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA O SERVIÇO DE TRANSPORTE DE PASSAGEIROS E MERCADORIAS PELA ESTRADA DE FERRO MINAS E RIO."
+    },
+    {
+      "senadoId": "415601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-12-9187",
+      "titulo": "Decreto nº 9.187 de 12/04/1884",
+      "data": "1884-04-12",
+      "numero": "9187",
+      "urn": "urn:lex:br:federal:decreto:1884-04-12;9187",
+      "ementa": "APROVA A MODIFICAÇÃO DO TRAÇADO DA ESTRADA DE FERRO DO RIO GRANDE A BAGÉ, COMPREENDIDO ENTRE O KILÔMETRO 279M,800 E A ESTAÇÃO TERMINAL DA MESMA ESTRADA."
+    },
+    {
+      "senadoId": "415598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-12-9186",
+      "titulo": "Decreto nº 9.186 de 12/04/1884",
+      "data": "1884-04-12",
+      "numero": "9186",
+      "urn": "urn:lex:br:federal:decreto:1884-04-12;9186",
+      "ementa": "PERMITE A LUIZ JOAQUIM DOS SANTOS LOBO ESTENDER OS TRABALHOS DE EXPLORAÇÃO DE DIVERSOS MINERAIS ATÉ À COMARCA DE GURUPÁ, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "415589",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-12-9183",
+      "titulo": "Decreto nº 9.183 de 12/04/1884",
+      "data": "1884-04-12",
+      "numero": "9183",
+      "urn": "urn:lex:br:federal:decreto:1884-04-12;9183",
+      "ementa": "DETERMINA QUE AS COLÔNIAS CONDE D´EU E D. ISABEL, NA PROVÍNCIA DO RIO GRANDE DO SUL, PASSEM AO REGIME COMUM ÀS OUTRAS POVOAÇÕES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "415595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-12-9185",
+      "titulo": "Decreto nº 9.185 de 12/04/1884",
+      "data": "1884-04-12",
+      "numero": "9185",
+      "urn": "urn:lex:br:federal:decreto:1884-04-12;9185",
+      "ementa": "CONCEDE PERMISSÃO A FRANCISCO TELLES COSME DOS REIS PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "415592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-12-9184",
+      "titulo": "Decreto nº 9.184 de 12/04/1884",
+      "data": "1884-04-12",
+      "numero": "9184",
+      "urn": "urn:lex:br:federal:decreto:1884-04-12;9184",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA À WESTERN AND BRASILIAN TELEGRAPH COMPANY, LIMITED, PARA A CONSTRUÇÃO DE UMA LINHA TELEGRÁFICA SUBMARINA DA CIDADE DE BELÉM, CAPITAL DO PARÁ, ATÉ OS LIMITES DA GUIANA FRANCESA."
+    },
+    {
+      "senadoId": "415586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-12-9182",
+      "titulo": "Decreto nº 9.182 de 12/04/1884",
+      "data": "1884-04-12",
+      "numero": "9182",
+      "urn": "urn:lex:br:federal:decreto:1884-04-12;9182",
+      "ementa": "DETERMINA QUE A COLÔNIA CAXIAS, NA PROVÍNCIA DO RIO GRANDE DO SUL, PASSE AO REGIME COMUM ÀS OUTRAS POVOAÇÕES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "415583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-04-05-9181",
+      "titulo": "Decreto nº 9.181 de 05/04/1884",
+      "data": "1884-04-05",
+      "numero": "9181",
+      "urn": "urn:lex:br:federal:decreto:1884-04-05;9181",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A ABRIR UM CRÉDITO SUPLEMENTAR DE 483:292$274 À VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1883-1884."
+    },
+    {
+      "senadoId": "415577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-29-9179",
+      "titulo": "Decreto nº 9.179 de 29/03/1884",
+      "data": "1884-03-29",
+      "numero": "9179",
+      "urn": "urn:lex:br:federal:decreto:1884-03-29;9179",
+      "ementa": "CONCEDE PERMISSÃO A BENTO DE FIGUEIREDO TENREIRO ARANHA PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "415574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-29-9178",
+      "titulo": "Decreto nº 9.178 de 29/03/1884",
+      "data": "1884-03-29",
+      "numero": "9178",
+      "urn": "urn:lex:br:federal:decreto:1884-03-29;9178",
+      "ementa": "CONCEDE PERMISSÃO A AUGUSTO RUFINO FRUCTUOSO GOMES PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "415580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-29-9180",
+      "titulo": "Decreto nº 9.180 de 29/03/1884",
+      "data": "1884-03-29",
+      "numero": "9180",
+      "urn": "urn:lex:br:federal:decreto:1884-03-29;9180",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO DE MAIS 20 KILÔMETROS DO PROLONGAMENTO DA ESTRADA DE FERRO LEOPOLDINA, COMPREENDIDO ENTRE COIMBRA E ITABIRA DE MATO DENTRO."
+    },
+    {
+      "senadoId": "415556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9172",
+      "titulo": "Decreto nº 9.172 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9172",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9172",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE SANT´ANNA, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415541",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9167",
+      "titulo": "Decreto nº 9.167 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9167",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9167",
+      "ementa": "PROMULGA O ACORDO RELATIVO AOS PARÁGRAFOS 9 E 10 DO ACORDO SOBRE A EXTRADIÇÃO DE CRIMINOSOS, CONCLUÍDO ENTRE O IMPÉRIO DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI EM 25 DE NOVEMBRO DE 1878."
+    },
+    {
+      "senadoId": "415551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9170",
+      "titulo": "Decreto nº 9.170 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9170",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9170",
+      "ementa": "CONCEDE PERMISSÃO A JÚLIO AUGUSTO DE CAMPOS MELLO E LUIZ FORTES DE BUSTAMANTE SÁ PARA EXPLORAREM OURO E OUTROS MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "415571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9177",
+      "titulo": "Decreto nº 9.177 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9177",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9177",
+      "ementa": "ELEVA A OITO COMPANHIAS O 20º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DA CACHOEIRA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9176",
+      "titulo": "Decreto nº 9.176 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9176",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9176",
+      "ementa": "ELEVA A OITO COMPANHIAS O 8º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DE SOLIMÕES, DA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "415565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9175",
+      "titulo": "Decreto nº 9.175 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9175",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9175",
+      "ementa": "CRIA UM ESQUADRÃO AVULSO DE GUARDAS NACIONAIS NA COMARCA DE ITAQUI, NA PROVÍNCIA DO RIO GRANDE DO SUL, E ELEVA O NÚMERO DE COMPANHIAS DE DIVERSOS CORPOS DA MESMA GUARDA."
+    },
+    {
+      "senadoId": "415562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9174",
+      "titulo": "Decreto nº 9.174 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9174",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9174",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE VIAMÃO, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9166",
+      "titulo": "Decreto nº 9.166 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9166",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9166",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E O ORÇAMENTO DO RAMAL DO JAÚ, DA ESTRADA DE FERRO DE SÃO JOÃO DO RIO CLARO A SÃO CARLO DO PINHAL, NA EXTENSÃO DE 134k, 398M, 70 E AUTORIZA A RESPECTIVA CONSTRUÇÃO."
+    },
+    {
+      "senadoId": "415559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9173",
+      "titulo": "Decreto nº 9.173 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9173",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9173",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE IMPERATRIZ, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9168",
+      "titulo": "Decreto nº 9.168 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9168",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9168",
+      "ementa": "APROVA AS MODIFICAÇÕES FEITAS NOS ESTUDOS DEFINITIVOS E ORÇAMENTO PARA O PROLONGAMENTO DA LINHA CENTRAL DA ESTRADA DE FERRO D. PEDRO II, DESDE ITABIRA DO CAMPO ATÉ À CIDADE DE SABARÁ."
+    },
+    {
+      "senadoId": "415554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9171",
+      "titulo": "Decreto nº 9.171 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9171",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9171",
+      "ementa": "TRANSFERE À COMPANHIA DAS MINAS DE CARVÃO DE PEDRA DO ARROIO DOS RATOS A CONCESSÃO FEITA A HOLTZWEISSIG & COMP., PARA LAVRAR CARVÃO DE PEDRA NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-22-9169",
+      "titulo": "Decreto nº 9.169 de 22/03/1884",
+      "data": "1884-03-22",
+      "numero": "9169",
+      "urn": "urn:lex:br:federal:decreto:1884-03-22;9169",
+      "ementa": "CONCEDE OS FAVORES MENCIONADOS NO ARTIGO 6º DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8357, DE 24 DE DEZEMBRO DE 1881, COM EXCEÇÃO DO DE GARANTIA OU FIANÇA DE JUROS, À COMPANHIA QUE O BARÃO DE TREMEMBÉ ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE TAUBATÉ, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "415535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-15-9165",
+      "titulo": "Decreto nº 9.165 de 15/03/1884",
+      "data": "1884-03-15",
+      "numero": "9165",
+      "urn": "urn:lex:br:federal:decreto:1884-03-15;9165",
+      "ementa": "AUTORIZA A ALTERAÇÃO DAS CLAUSULAS 1 E 2 E A ELIMINAÇÃO DA 3 DO CONTRATO CELEBRADO EM VIRTUDE DO DECRETO 8539 DE 13 DE MAIO DE 1882."
+    },
+    {
+      "senadoId": "415532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-15-9164",
+      "titulo": "Decreto nº 9.164 de 15/03/1884",
+      "data": "1884-03-15",
+      "numero": "9164",
+      "urn": "urn:lex:br:federal:decreto:1884-03-15;9164",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DO TERRENO CONTÍNUO AO PAÇO MUNICIPAL."
+    },
+    {
+      "senadoId": "415529",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-08-9163",
+      "titulo": "Decreto nº 9.163 de 08/03/1884",
+      "data": "1884-03-08",
+      "numero": "9163",
+      "urn": "urn:lex:br:federal:decreto:1884-03-08;9163",
+      "ementa": "PERMITE QUE O ` ENGLISH BANK OF RIO DE JANEIRO, LIMITED´ CONTINUE A FAZER AS OPERAÇÕES PARA QUE SE ACHA AUTORIZADO, SEM EMBARGO DAS ALTERAÇÕES ULTIMAMENTE FEITAS EM SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "415521",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-01-9160",
+      "titulo": "Decreto nº 9.160 de 01/03/1884",
+      "data": "1884-03-01",
+      "numero": "9160",
+      "urn": "urn:lex:br:federal:decreto:1884-03-01;9160",
+      "ementa": "CONCEDE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO SUPLEMENTAR DE 6:538$763 PARA SER APLICADO AO PAGAMENTO DE DESPESAS DAS VERBAS DO PARÁGRAFO 4º - AJUDAS DE CUSTO - E PARÁGRAFO 5º - EXTRAORDINÁRIAS NO EXTERIOR - DA LEI DE ORÇAMENTO DO EXERCÍCIO FINANCEIRO DE 1882-1883."
+    },
+    {
+      "senadoId": "415524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-01-9161",
+      "titulo": "Decreto nº 9.161 de 01/03/1884",
+      "data": "1884-03-01",
+      "numero": "9161",
+      "urn": "urn:lex:br:federal:decreto:1884-03-01;9161",
+      "ementa": "PRORROGA O PRAZO FIXADO NO DECRETO 8.669 DE 16 DE SETEMBRO DE 1882 PARA COMEÇO DAS OBRAS DA LINHA DE CARRIS DE FERRO ENTRE A CIDADE DO RIO NOVO E A ESTAÇÃO DE SANT´ANNA DA ESTRADA UNIÃO E INDÚSTRIA."
+    },
+    {
+      "senadoId": "415518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-03-01-9159",
+      "titulo": "Decreto nº 9.159 de 01/03/1884",
+      "data": "1884-03-01",
+      "numero": "9159",
+      "urn": "urn:lex:br:federal:decreto:1884-03-01;9159",
+      "ementa": "COMETE À INSPEÇÃO DE SAÚDE DO PORTO A POLÍCIA SANITÁRIA DO LITORAL, E DÁ OUTRAS PROVIDÊNCIAS COM RELAÇÃO A ESTE ASSUNTO."
+    },
+    {
+      "senadoId": "415509",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-23-9156",
+      "titulo": "Decreto nº 9.156 de 23/02/1884",
+      "data": "1884-02-23",
+      "numero": "9156",
+      "urn": "urn:lex:br:federal:decreto:1884-02-23;9156",
+      "ementa": "MANDA ADAPTAR NAS ESTRADAS DE FERRO DE PORTO ALEGRE A URUGUAYANA E PROLONGAMENTO DA DO RECIFE AO SÃO FRANSCISO A TABELA DE VENCIMENTOS E OBSERVAÇÕES ANEXAS EM VIGOR NO PROLONGAMENTO DA ESTRADA DE FERRO DA BAHIA."
+    },
+    {
+      "senadoId": "415500",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-23-9153",
+      "titulo": "Decreto nº 9.153 de 23/02/1884",
+      "data": "1884-02-23",
+      "numero": "9153",
+      "urn": "urn:lex:br:federal:decreto:1884-02-23;9153",
+      "ementa": "CONCEDE À COMPANHIA, QUE, DENTRO DO PRAZO DE UM ANO, ORGANIZAREM JERONYMO CORDEIRO DE ARAUJO LIMA E DOMINGOS LOUREIRO DA CRUZ, OS FAVORES MENCIONADOS NO ARTIGO 6º DO REGULAMENTO QUE BAIXOU COM DECRETO NÚMERO 8357, DE 24 DE DEZEMBRO DE 1881, COM EXCEÇÃO DO DE GARANTIA OU FIANÇA DE JUROS, PARA ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE SANTA MARIA MADALENA, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "415503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-23-9154",
+      "titulo": "Decreto nº 9.154 de 23/02/1884",
+      "data": "1884-02-23",
+      "numero": "9154",
+      "urn": "urn:lex:br:federal:decreto:1884-02-23;9154",
+      "ementa": "APROVA OS DOCUMENTOS APRESENTADOS PELA COMPANHIA THE SAN PAULO CNETRAL SUGAR FACTORY OF BRASIL, LIMITED, DE CONFORMIDADE COM O PARÁGRAFO 1º DO ARTIGO 19 DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 8357 DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-23-9155",
+      "titulo": "Decreto nº 9.155 de 23/02/1884",
+      "data": "1884-02-23",
+      "numero": "9155",
+      "urn": "urn:lex:br:federal:decreto:1884-02-23;9155",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO DO PROLONGAMENTO DA ESTRADA DE FERRO MAGYANA ATÉ À MARGEM ESQUERDA DO RIO GRANDE E RAMAL DE POÇOS DE CALDAS, E FIXA O CAPITAL GARANTIDO PARA A CONSTRUÇÃO DO MESMO PROLONGAMENTO E RAMAL EM 7.000:000$000."
+    },
+    {
+      "senadoId": "415512",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-23-9157",
+      "titulo": "Decreto nº 9.157 de 23/02/1884",
+      "data": "1884-02-23",
+      "numero": "9157",
+      "urn": "urn:lex:br:federal:decreto:1884-02-23;9157",
+      "ementa": "AUTORIZA A DIVISÃO DAS DATAS MINERAIS CONCEDIDAS AO DR. WITT CLINTON VAN TUYL E OUTROS."
+    },
+    {
+      "senadoId": "415515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-23-9158",
+      "titulo": "Decreto nº 9.158 de 23/02/1884",
+      "data": "1884-02-23",
+      "numero": "9158",
+      "urn": "urn:lex:br:federal:decreto:1884-02-23;9158",
+      "ementa": "SUBSTITUE O ARTIGO 20 DO REGULAMENTO DA REPARTIÇÃO GERAL DOS TELÉGRAFOS, APROVADO PELO DECRETO NÚMERO 8354 DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9140",
+      "titulo": "Decreto nº 9.140 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9140",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9140",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE ICÓ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9145",
+      "titulo": "Decreto nº 9.145 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9145",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9145",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE PACATUBA, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415455",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9138",
+      "titulo": "Decreto nº 9.138 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9138",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9138",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE ARACATI, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9143",
+      "titulo": "Decreto nº 9.143 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9143",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9143",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE BATURITÉ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9144",
+      "titulo": "Decreto nº 9.144 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9144",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9144",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE GRANJA, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9137",
+      "titulo": "Decreto nº 9.137 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9137",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9137",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE MARANGUAPE, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9151",
+      "titulo": "Decreto nº 9.151 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9151",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9151",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE IPÚ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9150",
+      "titulo": "Decreto nº 9.150 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9150",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9150",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE SÃO BENEDITO, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9135",
+      "titulo": "Decreto nº 9.135 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9135",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9135",
+      "ementa": "MODIFICA O TRAÇADO DA LINHA FERRO-CARRIL DA COMPANHIA DE SÃO CHRISTOVÃO, A QUE SE REFERE O DECRETO NÚMERO 8991 DE 18 DE AGOSTO DE 1883."
+    },
+    {
+      "senadoId": "415458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9139",
+      "titulo": "Decreto nº 9.139 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9139",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9139",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE S. BERNARDO DAS RUSSAS, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9136",
+      "titulo": "Decreto nº 9.136 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9136",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9136",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA CAPITAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9152",
+      "titulo": "Decreto nº 9.152 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9152",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9152",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA VIÇOSA, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9147",
+      "titulo": "Decreto nº 9.147 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9147",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9147",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DO CRATO, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9148",
+      "titulo": "Decreto nº 9.148 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9148",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9148",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE SÃO JOÃO DO PRÍNCIPE, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9146",
+      "titulo": "Decreto nº 9.146 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9146",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9146",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE TAMBORIL, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415467",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9142",
+      "titulo": "Decreto nº 9.142 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9142",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9142",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE AQUIRAZ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9134",
+      "titulo": "Decreto nº 9.134 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9134",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9134",
+      "ementa": "APROVA A PLANTA DAS OBRAS PROJETADAS PELA COMPANHIA FERRO-CARRIL VILLA IZABEL, COM REFERÊNCIA AO PRÉDIO DA RUA SÃO FRANCISCO DE ASSIS  NÚMERO 2, PARA OS FINS DO DECRETO 9073 DE 3 DE DEZEMBRO DE 1883."
+    },
+    {
+      "senadoId": "415464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9141",
+      "titulo": "Decreto nº 9.141 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9141",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9141",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DO SOBRAL, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415488",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-16-9149",
+      "titulo": "Decreto nº 9.149 de 16/02/1884",
+      "data": "1884-02-16",
+      "numero": "9149",
+      "urn": "urn:lex:br:federal:decreto:1884-02-16;9149",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE QUIXERAMOBIM, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "415440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-09-9133",
+      "titulo": "Decreto nº 9.133 de 09/02/1884",
+      "data": "1884-02-09",
+      "numero": "9133",
+      "urn": "urn:lex:br:federal:decreto:1884-02-09;9133",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE NAZARETH, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "415434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-09-9131",
+      "titulo": "Decreto nº 9.131 de 09/02/1884",
+      "data": "1884-02-09",
+      "numero": "9131",
+      "urn": "urn:lex:br:federal:decreto:1884-02-09;9131",
+      "ementa": "AUTORIZA A MODIFICAÇÃO DO TRAÇADO DO RAMAL DO PATROCÍNIO, DA ESTRADA DE FERRO DO CARANGOLA, PARA CONSTRUIR-SE A ESTAÇÃO TERMINAL DO MESMO RAMAL À MARGEM DO RIO MURIAHÉ."
+    },
+    {
+      "senadoId": "415437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-09-9132",
+      "titulo": "Decreto nº 9.132 de 09/02/1884",
+      "data": "1884-02-09",
+      "numero": "9132",
+      "urn": "urn:lex:br:federal:decreto:1884-02-09;9132",
+      "ementa": "CONCEDE PERMISSÃO A D. MARIA RIBEIRO DE LEÃO E A SEUS FILHOS, PARA TRANSFERIREM A PAULO JOSÉ DE FARIA BRANDÃO A CONCESSÃO FEITA AO FINADO CONSELHEIRO POLYCARPO LOPES DE LEÃO."
+    },
+    {
+      "senadoId": "415431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-01-9130",
+      "titulo": "Decreto nº 9.130 de 01/02/1884",
+      "data": "1884-02-01",
+      "numero": "9130",
+      "urn": "urn:lex:br:federal:decreto:1884-02-01;9130",
+      "ementa": "REVALIDA A CONCESSÃO FEITA POR DECRETO NÚMERO 9020, DE 22 DE SETEMBRO DE 1883, À COMPANHIA QUE ORGANIZASSE JOÃO PINTO FERREIRA LEITE;         DISPENSA O CONCESSIONÁRIO DE PRESTAR NO TESOURO NACIONAL A CAUÇÃO EXIGIDA NO MESMO DECRETO, E FIXA O PRAZO DENTRO DO QUAL DEVERÁ ESTAR ORGANIZADA A, COMPANHIA."
+    },
+    {
+      "senadoId": "415428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-02-01-9129",
+      "titulo": "Decreto nº 9.129 de 01/02/1884",
+      "data": "1884-02-01",
+      "numero": "9129",
+      "urn": "urn:lex:br:federal:decreto:1884-02-01;9129",
+      "ementa": "ALTERA AS CLÁUSULAS 2ª E 6ª DAS QUE BAIXARAM COM O DECRETO 8954 DE 9 DE JUNHO DE 1883."
+    },
+    {
+      "senadoId": "415418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-26-9126",
+      "titulo": "Decreto nº 9.126 de 26/01/1884",
+      "data": "1884-01-26",
+      "numero": "9126",
+      "urn": "urn:lex:br:federal:decreto:1884-01-26;9126",
+      "ementa": "APROVA AS TARIFAS E INSTRUÇÕES REGULAMENTARES PARA O TRANSPORTE DE PASSAGEIROS E MERCADORIAS PELA ESTRADA DE FERRO CONDE D´EU."
+    },
+    {
+      "senadoId": "415421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-26-9127",
+      "titulo": "Decreto nº 9.127 de 26/01/1884",
+      "data": "1884-01-26",
+      "numero": "9127",
+      "urn": "urn:lex:br:federal:decreto:1884-01-26;9127",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO DO PROLONGAMENTO DA ESTRADA DE FERRO DE SÃO JOÃO DO RIO CLARO A SÃO CARLOS  DO PINHAL ATÉ  À VILA DE ARARAQUARA, NA EXTENSÃO DE 49K, 403M, 80, E AUTORIZA A RESPECTIVA CONSTRUÇÃO."
+    },
+    {
+      "senadoId": "415425",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-26-9128",
+      "titulo": "Decreto nº 9.128 de 26/01/1884",
+      "data": "1884-01-26",
+      "numero": "9128",
+      "urn": "urn:lex:br:federal:decreto:1884-01-26;9128",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO DA 1ª SEÇÃO DE 20 KILÔMETROS DO PROLONGAMENTO DA ESTRADA DE FERRO LEOPOLDO E PRORROGA POR UM ANO O PRAZO MARCADO NA CLÁUSULA 4ª DO DECRETO 8860 DE 27 DE JANEIRO DE 1883, PARA APRESENTAÇÃO DOS ESTUDOS E ORÇAMENTO DE TODA A LINHA DO MESMO PROLONGAMENTO."
+    },
+    {
+      "senadoId": "415412",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-19-9124",
+      "titulo": "Decreto nº 9.124 de 19/01/1884",
+      "data": "1884-01-19",
+      "numero": "9124",
+      "urn": "urn:lex:br:federal:decreto:1884-01-19;9124",
+      "ementa": "ELEVA À CATEGORIA DE BATALHÃO A 14ª SEÇÃO DE BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "415415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-19-9125",
+      "titulo": "Decreto nº 9.125 de 19/01/1884",
+      "data": "1884-01-19",
+      "numero": "9125",
+      "urn": "urn:lex:br:federal:decreto:1884-01-19;9125",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMISÃO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-19-9123",
+      "titulo": "Decreto nº 9.123 de 19/01/1884",
+      "data": "1884-01-19",
+      "numero": "9123",
+      "urn": "urn:lex:br:federal:decreto:1884-01-19;9123",
+      "ementa": "MANDA APROVAR NOVO PLANO PARA AS PEQUENAS LOTERIAS DO ESTADO."
+    },
+    {
+      "senadoId": "415406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-12-9121",
+      "titulo": "Decreto nº 9.121 de 12/01/1884",
+      "data": "1884-01-12",
+      "numero": "9121",
+      "urn": "urn:lex:br:federal:decreto:1884-01-12;9121",
+      "ementa": "AUTORIZA A DIVISÃO DAS DATAS MINERAIS CONCEDIDAS AO BRIGADEIRO JOSÉ JOAQUIM DE CARVALHO, REPRESENTADO PELA COBAÇAL COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "415408",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-12-9122",
+      "titulo": "Decreto nº 9.122 de 12/01/1884",
+      "data": "1884-01-12",
+      "numero": "9122",
+      "urn": "urn:lex:br:federal:decreto:1884-01-12;9122",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DE GUARDAS NACIONAIS E UMA SEÇÃO DE BATALHÃO DA MESMA ARMA E SERVIÇO, NA COMARCA DA CACHOEIRA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "415404",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-12-9120",
+      "titulo": "Decreto nº 9.120 de 12/01/1884",
+      "data": "1884-01-12",
+      "numero": "9120",
+      "urn": "urn:lex:br:federal:decreto:1884-01-12;9120",
+      "ementa": "APROVA OS DOCUMENTOS APRESENTADOS PELA COMPANHIA THE RIO DE JANEIRO CNETRAL SUGAR FACTORIES, LIMITED, DE CONFORMIDADE COM O PARAGRAFO 1 DO ARTIGO 19 DO REGULAMENTO QUE BAIXOU COM O DECRETO 8357, DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "415402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-12-9119",
+      "titulo": "Decreto nº 9.119 de 12/01/1884",
+      "data": "1884-01-12",
+      "numero": "9119",
+      "urn": "urn:lex:br:federal:decreto:1884-01-12;9119",
+      "ementa": "PRORROGA OS PRAZOS MARCADOS NAS CLAUSULAS 11 A 15 DO DECRETO 8021 DE 5 DE MARÇO DE 1881 PARA CUMPRIMENTO DAS OBRIGAÇÕES ALI ESTABELECIDAS RELATIVAMENTE AO PROLONGAMENTO DA RUA LUIZ DE VASCONCELOS."
+    },
+    {
+      "senadoId": "415384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9110",
+      "titulo": "Decreto nº 9.110 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9110",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9110",
+      "ementa": "ALTERA A DIVISÃO POLICIAL DE FREGUESIA DE NOSSA SENHORA DA CONCEIÇÃO DO ENGENHO NOVO."
+    },
+    {
+      "senadoId": "415398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9117",
+      "titulo": "Decreto nº 9.117 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9117",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9117",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DE PARTE DO QUINTAL DO GOVERNO DE NOSSA SENHORA DA AJUDA PARA O PROLONGAMENTO DA RUA LUIZ DE VASCONCELLOS."
+    },
+    {
+      "senadoId": "415386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9111",
+      "titulo": "Decreto nº 9.111 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9111",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9111",
+      "ementa": "APROVA O PLANO GERAL DAS OBRAS COMPLEMENTARES DO NOVO ABASTECIMENTO D´AGUA A ESTA CAPITAL."
+    },
+    {
+      "senadoId": "415394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9115",
+      "titulo": "Decreto nº 9.115 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9115",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9115",
+      "ementa": "CONCEDE PERMISSÃO A ANTÔNIO PINTO DA SILVA PARA ESTABELECER LINHAS TELEFÔNICAS NAS CIDADES DE SÃO PAULO E CAMPINAS."
+    },
+    {
+      "senadoId": "415392",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9114",
+      "titulo": "Decreto nº 9.114 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9114",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9114",
+      "ementa": "CONCEDE PERMISSÃO A FERDINAND RODDE & CA. PARA ESTEBELECEREM LINHAS TELEFÔNICAS NAS CIDADES DE SÃO PAULO E CAMPINAS."
+    },
+    {
+      "senadoId": "415400",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9118",
+      "titulo": "Decreto nº 9.118 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9118",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9118",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DA ESTALAGEM SITUADA NOS TERRENOS ADJACENTES AO MORRO DE SANTO ANTÔNIO PARA PROLONGAMENTO DA RUA LUIZ DE VASCONCELLOS."
+    },
+    {
+      "senadoId": "415388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9112",
+      "titulo": "Decreto nº 9.112 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9112",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9112",
+      "ementa": "APROVA A PLANTA DOS TERRENOS E BENFEITORIAS, NA SERRA DO COMÉRCIO, NECESSÁRIOS ÀS OBRAS COMPLEMENTARES DO NOVO ABASTECIMENTO D´AGUA E ESTA CAPITAL."
+    },
+    {
+      "senadoId": "415396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9116",
+      "titulo": "Decreto nº 9.116 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9116",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9116",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO CARLOS EUGENIO DA SILVA RUELLA PARA ESTABELECER LINHAS TELEFÔNICAS NAS CIDADES DE SÃO PAULO E CAMPINAS."
+    },
+    {
+      "senadoId": "415390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9113",
+      "titulo": "Decreto nº 9.113 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9113",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9113",
+      "ementa": "DECLARA CADUCA A CONCESSÃO CONSTANTE DO DECRETO 7615 DE 24 DE JANEIRO DE 1880."
+    },
+    {
+      "senadoId": "415382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1884-01-05-9109",
+      "titulo": "Decreto nº 9.109 de 05/01/1884",
+      "data": "1884-01-05",
+      "numero": "9109",
+      "urn": "urn:lex:br:federal:decreto:1884-01-05;9109",
+      "ementa": "DETERMINA A REMOÇÃO DA 1ª ESCOLA PÚBLICA DE MENINOS DA FREGUESIA DE SÃO JOSÉ PARA A DE SANTO ANTÔNIO."
+    }
+  ],
+  "pendencias": []
+}

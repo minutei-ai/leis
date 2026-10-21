@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-18-13540",
+  "titulo": "Lei nº 13.540 de 18/12/2017",
+  "data": "2017-12-18",
+  "fonte": "https://normas.leg.br/api/public/binario/06e92b5d-b347-4294-b10f-21821b60e01a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-18;13540",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-18%3B13540&tipo_documento=maior-detalhe",
+  "sha256_dados": "64f2385b410e84b5a4dd7c3a53655294ee8b953f04ff1f2c661b39398aa82dcf",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:19.856Z",
+  "sha256_fonte": "1f0772d5d68cab6f59a80411402591ef09308cf00559fccab65976412f5e9aa0",
+  "sha256_markdown": "086ae077ef862abfacb83060baa330f41d3dc258d1265ec0360b76f75d744ddf"
+}

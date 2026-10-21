@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-22-13213",
+  "titulo": "Lei nº 13.213 de 22/12/2015",
+  "data": "2015-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/5cbd6169-bfa5-45ce-8522-6e6d2a86adca/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-22;13213",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-22%3B13213&tipo_documento=maior-detalhe",
+  "sha256_dados": "9c780ac8e3b11c7f76fa47cffdff704a2f48245f66796d6edd20b33a420d41fa",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:32.104Z",
+  "sha256_fonte": "140b448b6ccdda8deba3bd50567406ae7d494a4cff71fb86ab8137966b808c17",
+  "sha256_markdown": "60cd93a3ff97eca4505af8488835b03e5ffe03797b262c8501eb8c09861d1f8c"
+}

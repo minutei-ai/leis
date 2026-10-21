@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-11-29-13525",
+  "titulo": "Lei nº 13.525 de 29/11/2017",
+  "data": "2017-11-29",
+  "fonte": "https://normas.leg.br/api/public/binario/7813134d-fd3f-4521-943a-5e88ffd1a740/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-11-29;13525",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-11-29%3B13525&tipo_documento=maior-detalhe",
+  "sha256_dados": "62e68fb2260fcbbaf6bbfa06140ff40a9950ab2eb991b07b3aed0be2d8810cea",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:36.420Z",
+  "sha256_fonte": "988662870e6a0724b5c5ec5e6c657b58badc90b9a281b2a2bfd4aadbbb8309bc",
+  "sha256_markdown": "82372b8b7e8f6611694842af57285f717e6be06901dee3f5d0185382d34c27b6"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-12-30-13068",
+  "titulo": "Lei nº 13.068 de 30/12/2014",
+  "data": "2014-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/958000d7-8054-4a11-be8c-9033e525dca7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-12-30;13068",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-12-30%3B13068&tipo_documento=maior-detalhe",
+  "sha256_dados": "82496b0b964ab614c288f1c2730d75f467c7e2fb84c407473e8b3f47e1b4bc97",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:31.853Z",
+  "sha256_fonte": "27acf23a6ef8fd3a518bd91a4367a10741837543c6c22e3b186d2eb99106f8a6",
+  "sha256_markdown": "4df144d99e1a0b72f2822dc27832f8d235a80381b149be295657a513f3b01cdf"
+}

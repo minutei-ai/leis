@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-03-31-13429",
+  "titulo": "Lei nº 13.429 de 31/03/2017",
+  "data": "2017-03-31",
+  "fonte": "https://normas.leg.br/api/public/binario/d44a4a50-0556-4155-b63c-d0e8841ba004/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-03-31;13429",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-03-31%3B13429&tipo_documento=maior-detalhe",
+  "sha256_dados": "22f66acb3aa75ba0ec3228e1f8be08bad75232ba7d9d290ae8e70cc188844de3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:44.473Z",
+  "sha256_fonte": "d5603827f76b03cb1be9cd1adb19d55605d6a109a67457c4d9b5bb8630159a3b",
+  "sha256_markdown": "4e90a43a62e7ae0f8a58485f879ea84d24a73f1a3aabaa4bb8a3270c17e00785"
+}

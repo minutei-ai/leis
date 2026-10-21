@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-07-06-13146",
+  "titulo": "Lei nº 13.146 de 06/07/2015",
+  "data": "2015-07-06",
+  "fonte": "https://normas.leg.br/api/public/binario/3ac166cd-0151-4ff7-9c73-f8328089a4a7/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-07-06;13146",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-07-06%3B13146&tipo_documento=maior-detalhe",
+  "sha256_dados": "140f36b77353b2359bb22ca4a2b101f7976878333ee4083a903d15fcbab5781e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:04.505Z",
+  "sha256_fonte": "0fa6dd1ca3cec7065453fb85b787d225168167c02f23efc506647d0183ca59e5",
+  "sha256_markdown": "f9656a99c30660a761178a96541bf7030a0ca4c5b14d36a99f10668da80f294c"
+}

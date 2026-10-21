@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-08-04-13155",
+  "titulo": "Lei nº 13.155 de 04/08/2015",
+  "data": "2015-08-04",
+  "fonte": "https://normas.leg.br/api/public/binario/680ef90e-d88e-488a-8a5b-d6e8b0738db7/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-08-04;13155",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-08-04%3B13155&tipo_documento=maior-detalhe",
+  "sha256_dados": "84682d5272239c50eb58edba369b49f447bb472183a1979ab0e8d78df81314c4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:48.884Z",
+  "sha256_fonte": "df4f81f4b51c4fd17fdd540333ff31ac31b39d01947c26b2f6555d7a50bc4efd",
+  "sha256_markdown": "9818fc103cf01dbd4065fe0a59f8ae7d5316580f4080853f97823ce2a1799ed5"
+}

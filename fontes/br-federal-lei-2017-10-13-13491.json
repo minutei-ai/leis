@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-10-13-13491",
+  "titulo": "Lei nº 13.491 de 13/10/2017",
+  "data": "2017-10-13",
+  "fonte": "https://normas.leg.br/api/public/binario/3621bd05-7e8e-4981-aea8-4e4d22100724/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-10-13;13491",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-10-13%3B13491&tipo_documento=maior-detalhe",
+  "sha256_dados": "53d61c91b1d7376767c537ad40489c18bd3fb61f2390e2c54c800d811be8d00f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:23.450Z",
+  "sha256_fonte": "9566803edc15b69feca842b5fad8bc451a1a53a516aadd3d7f27c9cfbcd062ab",
+  "sha256_markdown": "42b420c329340a2a881fdd45583e0c1cc6743d915b78268c4f18f3fc4da4c4f1"
+}

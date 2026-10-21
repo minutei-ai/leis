@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-06-06-12989",
+  "titulo": "Lei nº 12.989 de 06/06/2014",
+  "data": "2014-06-06",
+  "fonte": "https://normas.leg.br/api/public/binario/099bcb2e-04a0-4f50-b033-e6791a16feb0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-06-06;12989",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-06-06%3B12989&tipo_documento=maior-detalhe",
+  "sha256_dados": "da8db540ee01e170c7470eec5d93f54ffccc668b128915d497d2a0fe53f43f6e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:28.210Z",
+  "sha256_fonte": "42a0df16ba39cfbc91cd7820c450262744bfcdd77c51370c5453355b7fe76ac9",
+  "sha256_markdown": "a97e4958ebd9cb9d8a6438ccca544487e39afe494b16afd9a451b547445aa175"
+}

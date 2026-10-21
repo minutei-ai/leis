@@ -1,0 +1,429 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2005",
+  "tipo": "MPV",
+  "ano": 2005,
+  "coletado_em": "2026-10-21T08:53:33.510Z",
+  "normas": [
+    {
+      "senadoId": "553430",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-29-274",
+      "titulo": "Medida Provisória nº 274 de 29/12/2005",
+      "data": "2005-12-29",
+      "numero": "274",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-29;274",
+      "ementa": "Inclui e altera dispositivos na Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, e dá outras providências."
+    },
+    {
+      "senadoId": "553432",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-29-275",
+      "titulo": "Medida Provisória nº 275 de 29/12/2005",
+      "data": "2005-12-29",
+      "numero": "275",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-29;275",
+      "ementa": "Altera a Lei nº 9.317, de 5 de dezembro de 1996, que institui o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (SIMPLES), em função da alteração promovida pelo art. 33 da Lei nº 11.196, de 21 de novembro de 2005, e dispõe que o prazo a que se refere o art. 2º da Lei nº 8.989, de 24 de fevereiro de 1995, para reutilização do benefício da isenção do Imposto sobre Produtos Industrializados - IPI, na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas portadoras de deficiência física, aplica-se inclusive às aquisições realizadas antes de 22 de novembro de 2005."
+    },
+    {
+      "senadoId": "553428",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-27-273",
+      "titulo": "Medida Provisória nº 273 de 27/12/2005",
+      "data": "2005-12-27",
+      "numero": "273",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-27;273",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério dos Transportes e de Encargos Financeiros da União, no valor global de R$ 516.132.994,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553424",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-26-271",
+      "titulo": "Medida Provisória nº 271 de 26/12/2005",
+      "data": "2005-12-26",
+      "numero": "271",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-26;271",
+      "ementa": "Autoriza a União a prestar auxílio financeiro complementar aos Estados, ao Distrito Federal e aos Municípios, com o objetivo de fomentar as exportações do País."
+    },
+    {
+      "senadoId": "553426",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-26-272",
+      "titulo": "Medida Provisória nº 272 de 26/12/2005",
+      "data": "2005-12-26",
+      "numero": "272",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-26;272",
+      "ementa": "Altera as Leis nºs 10.355, de 26 de dezembro de 2001, que dispõe sobre a estruturação da Carreira Previdenciária no âmbito do Instituto Nacional do Seguro Social - INSS; 10.855, de 1º de abril de 2004, que dispõe sobre a reestruturação da Carreira Previdenciária, de que trata a Lei nº 10.355, de 26 de dezembro de 2001, instituindo a Carreira do Seguro Social; 10.876, de 2 de junho de 2004, que cria a Carreira de Perícia Médica da Previdência Social e dispõe sobre a remuneração da Carreira de Supervisor Médico-Pericial do Quadro de Pessoal do INSS; 10.997, de 15 de dezembro de 2004, que institui a Gratificação Específica do Seguro Social - GESS; e fixa critérios temporários para pagamento da Gratificação de Desempenho de Atividade Médico-Pericial - GDAMP."
+    },
+    {
+      "senadoId": "553420",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-15-269",
+      "titulo": "Medida Provisória nº 269 de 15/12/2005",
+      "data": "2005-12-15",
+      "numero": "269",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-15;269",
+      "ementa": "Altera as Leis nºs 9.986, de 18 de julho de 2000, que dispõe sobre a gestão de recursos humanos das Agências Reguladoras; 10.768, de 19 de novembro de 2003, que dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas - ANA; 10.862, de 20 de abril de 2004, que dispõe sobre a criação do Plano Especial de Cargos da Agência Brasileira de Inteligência - ABIN; 10.871, de 20 de maio de 2004, que dispõe sobre a criação de carreiras e organização de cargos efetivos das autarquias especiais, denominadas Agências Reguladoras; 11.182, de 27 de setembro de 2005, que cria a Agência Nacional de Aviação Civil - ANAC; cria cargos na Carreira de Diplomata, no Plano de Cargos para a Área de Ciência e Tecnologia, do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas - FG; autoriza a prorrogação de contratos temporários firmados com base no art. 81-A da Lei nº 8.884, de 11 de junho de 1994, e no art. 30 da Lei nº 10.871, de 2004; e dá outras providências."
+    },
+    {
+      "senadoId": "553422",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-15-270",
+      "titulo": "Medida Provisória nº 270 de 15/12/2005",
+      "data": "2005-12-15",
+      "numero": "270",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-15;270",
+      "ementa": "Abre crédito extraordinário, em favor da Câmara dos Deputados, do Senado Federal, da Presidência da República, dos Ministérios da Fazenda e da Integração Nacional e de Transferências a Estados, Distrito Federal e Municípios, no valor global de R$ 825.908.968,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553418",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-12-02-268",
+      "titulo": "Medida Provisória nº 268 de 02/12/2005",
+      "data": "2005-12-02",
+      "numero": "268",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-02;268",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Educação, da Saúde e da Defesa e de Operações Oficiais de Crédito, no valor global de R$ 1.498.314.101,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553416",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-11-28-267",
+      "titulo": "Medida Provisória nº 267 de 28/11/2005",
+      "data": "2005-11-28",
+      "numero": "267",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-11-28;267",
+      "ementa": "Altera dispositivos da Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o seguro de crédito à exportação, e autoriza cobranças judiciais e extrajudiciais de créditos da União, no exterior, decorrentes de sub-rogações de garantias de seguro de crédito à exportação honradas com recursos do Fundo de Garantia à Exportação - FGE e de financiamentos não pagos contratados com recursos do Programa de Financiamento às Exportações - PROEX e do extinto Fundo de Financiamento à Exportação - FINEX, e dá outras providências."
+    },
+    {
+      "senadoId": "553414",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-11-09-266",
+      "titulo": "Medida Provisória nº 266 de 09/11/2005",
+      "data": "2005-11-09",
+      "numero": "266",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-11-09;266",
+      "ementa": "Abre crédito extraordinário ao Orçamento Fiscal da União, em favor dos Ministérios dos Transportes, da Integração Nacional e das Cidades, no valor global de R$ 673.621.312,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553412",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-10-27-265",
+      "titulo": "Medida Provisória nº 265 de 27/10/2005",
+      "data": "2005-10-27",
+      "numero": "265",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-10-27;265",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Agricultura, Pecuária e Abastecimento, no valor de R$ 33.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553410",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-10-26-264",
+      "titulo": "Medida Provisória nº 264 de 26/10/2005",
+      "data": "2005-10-26",
+      "numero": "264",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-10-26;264",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Social e Combate à Fome e das Cidades, no valor global de R$ 159.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553408",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-10-20-263",
+      "titulo": "Medida Provisória nº 263 de 20/10/2005",
+      "data": "2005-10-20",
+      "numero": "263",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-10-20;263",
+      "ementa": "Institui abono aos militares das Forças Armadas."
+    },
+    {
+      "senadoId": "553406",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-10-18-262",
+      "titulo": "Medida Provisória nº 262 de 18/10/2005",
+      "data": "2005-10-18",
+      "numero": "262",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-10-18;262",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 30.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "553404",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-09-30-261",
+      "titulo": "Medida Provisória nº 261 de 30/09/2005",
+      "data": "2005-09-30",
+      "numero": "261",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-09-30;261",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Previdência Social e da Saúde e de Encargos Financeiros da União, no valor global de R$ 2.133.400.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553402",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-08-24-260",
+      "titulo": "Medida Provisória nº 260 de 24/08/2005",
+      "data": "2005-08-24",
+      "numero": "260",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-08-24;260",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 350.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553394",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-07-21-256",
+      "titulo": "Medida Provisória nº 256 de 21/07/2005",
+      "data": "2005-07-21",
+      "numero": "256",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-07-21;256",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia e dos Transportes, no valor global de R$ 425.950.734,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553400",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-07-21-259",
+      "titulo": "Medida Provisória nº 259 de 21/07/2005",
+      "data": "2005-07-21",
+      "numero": "259",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-07-21;259",
+      "ementa": "Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, autoriza a prorrogação de contratos temporários firmados com fundamento no art. 23 da Lei nº 10.667, de 14 de maio de 2003, altera o art. 4º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências."
+    },
+    {
+      "senadoId": "553396",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-07-21-257",
+      "titulo": "Medida Provisória nº 257 de 21/07/2005",
+      "data": "2005-07-21",
+      "numero": "257",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-07-21;257",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e da Integração Nacional, e de Encargos Financeiros da União, no valor global de R$ 1.214.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553398",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-07-21-258",
+      "titulo": "Medida Provisória nº 258 de 21/07/2005",
+      "data": "2005-07-21",
+      "numero": "258",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-07-21;258",
+      "ementa": "Dispõe sobre a Administração Tributária Federal e dá outras providências."
+    },
+    {
+      "senadoId": "553392",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-07-01-255",
+      "titulo": "Medida Provisória nº 255 de 01/07/2005",
+      "data": "2005-07-01",
+      "numero": "255",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-07-01;255",
+      "ementa": "Prorroga o prazo para opção pelo regime de Imposto de Renda Retido na Fonte de Pessoa Física dos participantes de planos de benefícios e dá outras providências."
+    },
+    {
+      "senadoId": "553390",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-06-29-254",
+      "titulo": "Medida Provisória nº 254 de 29/06/2005",
+      "data": "2005-06-29",
+      "numero": "254",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-06-29;254",
+      "ementa": "Revoga a Medida Provisória nº 249, de 4 de maio de 2005, que dispõe sobre a instituição de concurso de prognóstico destinado ao desenvolvimento da prática desportiva, a participação de entidades desportivas da modalidade futebol nesse concurso, o parcelamento de débitos tributários e para com o Fundo de Garantia do Tempo de Serviço - FGTS."
+    },
+    {
+      "senadoId": "553388",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-06-22-253",
+      "titulo": "Medida Provisória nº 253 de 22/06/2005",
+      "data": "2005-06-22",
+      "numero": "253",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-06-22;253",
+      "ementa": "Prorroga o prazo previsto no art. 32 da Lei nº 10.826, de 22 de dezembro de 2003."
+    },
+    {
+      "senadoId": "553386",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-06-15-252",
+      "titulo": "Medida Provisória nº 252 de 15/06/2005",
+      "data": "2005-06-15",
+      "numero": "252",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-06-15;252",
+      "ementa": "Institui o Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação - REPES, o Regime Especial de Aquisição de Bens de Capital para Empresas Exportadoras - RECAP e o Programa de Inclusão Digital, dispõe sobre incentivos fiscais para a inovação tecnológica e dá outras providências."
+    },
+    {
+      "senadoId": "553384",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-06-14-251",
+      "titulo": "Medida Provisória nº 251 de 14/06/2005",
+      "data": "2005-06-14",
+      "numero": "251",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-06-14;251",
+      "ementa": "Institui o Projeto Escola de Fábrica, autoriza a concessão de bolsas de permanência a estudantes beneficiários do Programa Universidade para Todos - PROUNI, institui o Programa de Educação Tutorial - PET, altera a Lei nº 5.537, de 21 de novembro de 1968, e a Consolidação das Leis do Trabalho - CLT, e dá outras providências."
+    },
+    {
+      "senadoId": "553382",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-05-19-250",
+      "titulo": "Medida Provisória nº 250 de 19/05/2005",
+      "data": "2005-05-19",
+      "numero": "250",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-05-19;250",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 30.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "553380",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-05-04-249",
+      "titulo": "Medida Provisória nº 249 de 04/05/2005",
+      "data": "2005-05-04",
+      "numero": "249",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-05-04;249",
+      "ementa": "Dispõe sobre a instituição de concurso de prognóstico destinado ao desenvolvimento da prática desportiva, a participação de entidades desportivas da modalidade futebol nesse concurso, o parcelamento de débitos tributários e para com o Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências."
+    },
+    {
+      "senadoId": "553378",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-04-20-248",
+      "titulo": "Medida Provisória nº 248 de 20/04/2005",
+      "data": "2005-04-20",
+      "numero": "248",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-04-20;248",
+      "ementa": "Dispõe sobre o valor do salário mínimo a partir de 1º de maio de 2005, e dá outras providências."
+    },
+    {
+      "senadoId": "553376",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-04-15-247",
+      "titulo": "Medida Provisória nº 247 de 15/04/2005",
+      "data": "2005-04-15",
+      "numero": "247",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-04-15;247",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Ciência e Tecnologia, de Minas e Energia, dos Transportes, da Cultura, do Meio Ambiente e da Defesa, no valor global de R$ 586.011.700,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553372",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-04-06-245",
+      "titulo": "Medida Provisória nº 245 de 06/04/2005",
+      "data": "2005-04-06",
+      "numero": "245",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-04-06;245",
+      "ementa": "Abre, em favor da Presidência da República, dos Ministérios dos Transportes, da Cultura e do Planejamento, Orçamento e Gestão e de Encargos Financeiros da União, crédito extraordinário no valor global de R$ 393.323.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553374",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-04-06-246",
+      "titulo": "Medida Provisória nº 246 de 06/04/2005",
+      "data": "2005-04-06",
+      "numero": "246",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-04-06;246",
+      "ementa": "Dispõe sobre a reestruturação do setor ferroviário e o término do processo de liquidação da Rede Ferroviária Federal S.A., altera dispositivos das Leis nºs 10.233, de 5 de junho de 2001, e 11.046, de 27 de dezembro de 2004, e dá outras providências."
+    },
+    {
+      "senadoId": "553370",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-04-04-244",
+      "titulo": "Medida Provisória nº 244 de 04/04/2005",
+      "data": "2005-04-04",
+      "numero": "244",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-04-04;244",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 20.327.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553368",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-03-31-243",
+      "titulo": "Medida Provisória nº 243 de 31/03/2005",
+      "data": "2005-03-31",
+      "numero": "243",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-03-31;243",
+      "ementa": "Altera a legislação tributária Federal e dá outras providências."
+    },
+    {
+      "senadoId": "553366",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-03-24-242",
+      "titulo": "Medida Provisória nº 242 de 24/03/2005",
+      "data": "2005-03-24",
+      "numero": "242",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-03-24;242",
+      "ementa": "Altera dispositivos da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências."
+    },
+    {
+      "senadoId": "553364",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-03-03-241",
+      "titulo": "Medida Provisória nº 241 de 03/03/2005",
+      "data": "2005-03-03",
+      "numero": "241",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-03-03;241",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa e de Encargos Financeiros da União, no valor global de R$ 299.594.749,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553362",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-03-01-240",
+      "titulo": "Medida Provisória nº 240 de 01/03/2005",
+      "data": "2005-03-01",
+      "numero": "240",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-03-01;240",
+      "ementa": "Dispõe sobre a aplicação dos arts. 5º, 6º, 7º e 8º da Medida Provisória nº 232, de 30 de dezembro de 2004."
+    },
+    {
+      "senadoId": "553360",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-02-18-239",
+      "titulo": "Medida Provisória nº 239 de 18/02/2005",
+      "data": "2005-02-18",
+      "numero": "239",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-02-18;239",
+      "ementa": "Acrescenta artigo à Lei nº 9.985, de 18 de julho de 2000, que regulamenta o art. 225,§ 1º, incisos I, II, III e VII da ConstituiçãoFederal e institui o Sistema Nacional de Unidades de Conservação da Natureza."
+    },
+    {
+      "senadoId": "553358",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-02-01-238",
+      "titulo": "Medida Provisória nº 238 de 01/02/2005",
+      "data": "2005-02-01",
+      "numero": "238",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-02-01;238",
+      "ementa": "Institui, no âmbito da Secretaria-Geral da Presidência da República, o Programa Nacional de Inclusão de Jovens - ProJovem, cria o Conselho Nacional de Juventude - CNJ e cargos em comissão, e dá outras providências."
+    },
+    {
+      "senadoId": "553354",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-01-27-236",
+      "titulo": "Medida Provisória nº 236 de 27/01/2005",
+      "data": "2005-01-27",
+      "numero": "236",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-01-27;236",
+      "ementa": "Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 2.890.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553356",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-01-27-237",
+      "titulo": "Medida Provisória nº 237 de 27/01/2005",
+      "data": "2005-01-27",
+      "numero": "237",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-01-27;237",
+      "ementa": "Autoriza a União a prestar auxílio financeiro aos Estados, ao Distrito Federal e aos Municípios, com o objetivo de fomentar as exportações do País, e dá outras providências."
+    },
+    {
+      "senadoId": "553352",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-01-13-235",
+      "titulo": "Medida Provisória nº 235 de 13/01/2005",
+      "data": "2005-01-13",
+      "numero": "235",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-01-13;235",
+      "ementa": "Dispõe sobre o Programa Universidade para Todos - PROUNI."
+    },
+    {
+      "senadoId": "553350",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2005-01-10-234",
+      "titulo": "Medida Provisória nº 234 de 10/01/2005",
+      "data": "2005-01-10",
+      "numero": "234",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-01-10;234",
+      "ementa": "Dá nova redação ao caput do art. 2.031 da Lei nº 10.406, de 10 de janeiro de 2002, que institui o Código Civil."
+    }
+  ],
+  "pendencias": []
+}

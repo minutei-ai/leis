@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-16-13626",
+  "titulo": "Lei nº 13.626 de 16/01/2018",
+  "data": "2018-01-16",
+  "fonte": "https://normas.leg.br/api/public/binario/66747ee0-32aa-4c4c-8974-28b1df5f5ba6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-16;13626",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-16%3B13626&tipo_documento=maior-detalhe",
+  "sha256_dados": "3f1354953ee9d89656ad4a81b6db4e7ed055b284e51be08209d793289b832a54",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:26.172Z",
+  "sha256_fonte": "4234755543a3bff645dd580bd319979c4397fd0a1c571c2879cd47eb0a196dd6",
+  "sha256_markdown": "1bab2e234bde8ce8757183b65c9a5424304a388f7570ac97118961645499aab2"
+}

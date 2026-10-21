@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-05-28-12982",
+  "titulo": "Lei nº 12.982 de 28/05/2014",
+  "data": "2014-05-28",
+  "fonte": "https://normas.leg.br/api/public/binario/9ab63ab1-3272-4a34-b964-f31cef856590/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-05-28;12982",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-05-28%3B12982&tipo_documento=maior-detalhe",
+  "sha256_dados": "7e7c45e7d9b70792ec91a8437b54aff7b320543dcfc04c0adfd95eb93596384c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:39.650Z",
+  "sha256_fonte": "45d41a973deebc87ec7a9bb3d198a77413eefb5632c014302e69399d05d19263",
+  "sha256_markdown": "beee438a8c7e8487cad817e8ab46a662d2b55187e9732ca1fc73704cdd1a2509"
+}

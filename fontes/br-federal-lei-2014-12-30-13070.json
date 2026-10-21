@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-12-30-13070",
+  "titulo": "Lei nº 13.070 de 30/12/2014",
+  "data": "2014-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/49b6772d-9ee2-46cf-a056-4a30457e4912/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-12-30;13070",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-12-30%3B13070&tipo_documento=maior-detalhe",
+  "sha256_dados": "47f11481234e6ecdb3d9c2b528915fd5b85a1e045019df944e367fdf4a98c4c4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:37.261Z",
+  "sha256_fonte": "0b9604f957fbf1ef79f000fea6b7de16fa7f56929790be15193411b949db8b76",
+  "sha256_markdown": "47cf78b2a36eacdd2537b8e7600b04534e6a4a59a480e234d73029437547a323"
+}

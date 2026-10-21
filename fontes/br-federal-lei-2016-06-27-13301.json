@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-06-27-13301",
+  "titulo": "Lei nº 13.301 de 27/06/2016",
+  "data": "2016-06-27",
+  "fonte": "https://normas.leg.br/api/public/binario/04b393d9-5fee-42db-88ec-8e8f883d7b04/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-06-27;13301",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-06-27%3B13301&tipo_documento=maior-detalhe",
+  "sha256_dados": "40efe5b2278d7785a1fb9453127f8a7f858d39d6007ffff82778b4340fa0eedf",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:58:41.889Z",
+  "sha256_fonte": "632c1fdf708e3edbb17328c7de2ec1ccf45c0a7062367f691b655ca4dbff5a70",
+  "sha256_markdown": "d2d5430fbbe13e22db6bf73076639ad0909ab385c784689f1954efeb0a9d3490"
+}

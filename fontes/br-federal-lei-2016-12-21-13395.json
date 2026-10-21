@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-12-21-13395",
+  "titulo": "Lei nº 13.395 de 21/12/2016",
+  "data": "2016-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/19b6633e-c6e1-4b88-8a13-36119b867d59/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-12-21;13395",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-12-21%3B13395&tipo_documento=maior-detalhe",
+  "sha256_dados": "7e5705205acf34aa597395b6a2283b40d3f8f3eba15e11ce093b8b44dda22326",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:56:25.043Z",
+  "sha256_fonte": "c2c647fcc88a89ab63f08a999917172177ac15651754ef1971cc683ba1a4b958",
+  "sha256_markdown": "d17cedffeb958ceb06539b297c96a0c807fbb122963d6b02631b731f9a4edcd2"
+}

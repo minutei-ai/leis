@@ -1,0 +1,3699 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1877",
+  "tipo": "DEC",
+  "ano": 1877,
+  "coletado_em": "2026-10-21T08:52:16.102Z",
+  "normas": [
+    {
+      "senadoId": "580449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6807",
+      "titulo": "Decreto nº 6.807 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6807",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6807",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA PARNAÍBA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6812",
+      "titulo": "Decreto nº 6.812 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6812",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6812",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE ITAPEMERIM, CACHOEIRA DE ITAPEMERIM E IRIRITIBA, NA PROVINCIA DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "411069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6811",
+      "titulo": "Decreto nº 6.811 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6811",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6811",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE SÃO MATEUS E SANTA CRUZ, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "580445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6806",
+      "titulo": "Decreto nº 6.806 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6806",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6806",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE AMARANTE, E JEROMENHA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6818",
+      "titulo": "Decreto nº 6.818 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6818",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6818",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 195:965$579 PARA OCORRER ÀS DESPESAS COM O SERVIÇO DA 4ª EXPOSIÇÃO NACIONAL E DA INTERNACIONAL DE FILADÉLFIA NO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "580390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6792",
+      "titulo": "Decreto nº 6.792 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6792",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6792",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE CAMETA, NA PROVINCIA DO PARA."
+    },
+    {
+      "senadoId": "580386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6791",
+      "titulo": "Decreto nº 6.791 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6791",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6791",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE CACHOEIRA E MARAJÓ, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "580362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6785",
+      "titulo": "Decreto nº 6.785 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6785",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6785",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A TRANSFERIR UMAS PARA OUTRAS RUBRICAS DO ORÇAMENTO DA DESPESA DO MESMO MINISTÉRIO, NO EXERCÍCIO DE 1876-1877, A IMPORTÂNCIA DE 268:782$942."
+    },
+    {
+      "senadoId": "411104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6820",
+      "titulo": "Decreto nº 6.820 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6820",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6820",
+      "ementa": "DECLARA EM QUE DATA DEVE FINDAR O PRAZO DO PRIVILÉGIO CONCEDIDO À COMPANHIA LUZ STEÁRICA."
+    },
+    {
+      "senadoId": "580402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6795",
+      "titulo": "Decreto nº 6.795 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6795",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6795",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE SANTARÉM E MONTE ALEGRE, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "580418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6799",
+      "titulo": "Decreto nº 6.799 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6799",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6799",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA VALENÇA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "580422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6800",
+      "titulo": "Decreto nº 6.800 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6800",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6800",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA BARRAS, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6824",
+      "titulo": "Decreto nº 6.824 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6824",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6824",
+      "ementa": "AUTORIZA O TRANSPORTE DE SOBRAS E ABRE UM CREDITO SUPLEMENTAR PARA AS DESPESAS DO MINISTERIO DA FAZENDA, NO EXERCICIO DE 1876-1877."
+    },
+    {
+      "senadoId": "580398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6794",
+      "titulo": "Decreto nº 6.794 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6794",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6794",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE GURUPÁ, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "580433",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6803",
+      "titulo": "Decreto nº 6.803 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6803",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6803",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE PARNAGUA, GORGUEIA E SANTA FILOMENA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "580354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6783",
+      "titulo": "Decreto nº 6.783 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6783",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6783",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA DE INFANTARIA E CAVALARIA DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "580366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6786",
+      "titulo": "Decreto nº 6.786 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6786",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6786",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE ITAGUAÍ, NA PROVÍNCIA DO RIO DE JANEIRO, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "580370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6787",
+      "titulo": "Decreto nº 6.787 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6787",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6787",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DE AMARGOSA E VILA NOVA DA RAINHA, NA PROVÍNCIA DA BAHIA, E MARCA O VENCIMENTO DOS RESPECTIVOS PROMOTORES PÚBLICOS."
+    },
+    {
+      "senadoId": "580378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6789",
+      "titulo": "Decreto nº 6.789 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6789",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6789",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA VIGIA, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "411081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6814",
+      "titulo": "Decreto nº 6.814 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6814",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6814",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO RIBEIRO DOS SANTOS CAMARGO PARA USAR DE UMA MÁQUINA, QUE DECLARA TER INVENTADO, A FIM DE BENEFICIAR CAFÉ."
+    },
+    {
+      "senadoId": "580358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6784",
+      "titulo": "Decreto nº 6.784 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6784",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6784",
+      "ementa": "ABRE UM CRÉDITO EXTRAORDINÁRIO DE 393:584$888 PARA DESPESAS DAS VERBAS - CÂMARA DOS SENADORES-E-CÂMARA DOS DEPUTADOS - DO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "411116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6823",
+      "titulo": "Decreto nº 6.823 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6823",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6823",
+      "ementa": "PRORROGA O PRAZO FIXADO NO DECRETO NÚMERO 6.067 DE 18 DE DEZEMBRO DE 1875 AOS BACHARÉIS JOSÉ FORTUNATO DA SILVEIRA BULCÃO E GERALDO DA GAMA BENTES PARA MEDIÇÃO E DEMARCAÇÃO DE TERRENOS MINERAIS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "580382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6790",
+      "titulo": "Decreto nº 6.790 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6790",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6790",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE BRAGANÇA E CINTRA, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "411128",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6826",
+      "titulo": "Decreto nº 6.826 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6826",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6826",
+      "ementa": "ALTERA ALGUMAS DAS CLÁUSULAS ANEXAS AO DECRETO NÚMERO 5.877 DE 20 DE FEVEREIRO DE 1875, RELATIVAS À ESTRADA DE FERRO DA CIDADE DO NATAL À VILA DE NOVA-CRUZ, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "580441",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6805",
+      "titulo": "Decreto nº 6.805 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6805",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6805",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA PRÍNCIPE IMPERIAL, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6809",
+      "titulo": "Decreto nº 6.809 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6809",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6809",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE JAICÓS, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "580406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6796",
+      "titulo": "Decreto nº 6.796 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6796",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6796",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE ÓBIDOS, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "411085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6815",
+      "titulo": "Decreto nº 6.815 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6815",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6815",
+      "ementa": "AUTORIZA O MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS A APLICAR ÀS DESPESAS DAS VERBAS-SECRETARIA DE ESTADO-OBRAS PÚBLICAS-E SUBVENÇÃO ÀS COMPANHIAS DE NAVEGAÇÃO A VAPOR-DO EXERCÍCIO DE 1876-1877, A QUANTIA DE 120:660$274, PROVENIENTE DAS SOBRAS DOS §§ 9º, 13 E 18, DO ARTIGO 7º DA LEI NÚMERO 2.670 DE 20 DE OUTUBRO DE 1875."
+    },
+    {
+      "senadoId": "411112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6822",
+      "titulo": "Decreto nº 6.822 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6822",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6822",
+      "ementa": "CONCEDE PRIVILÉGIO A ROBERTO MACKINTOSH E HENRIQUE EDUARDO HARGREAVES PARA O CONDENSADOR DE CIRCULAÇÃO AUTOMÁTICO, QUE DECLARAM TER INVENTADO."
+    },
+    {
+      "senadoId": "580414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6798",
+      "titulo": "Decreto nº 6.798 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6798",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6798",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA CAPITAL, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "580374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6788",
+      "titulo": "Decreto nº 6.788 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6788",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6788",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "411057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6808",
+      "titulo": "Decreto nº 6.808 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6808",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6808",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE CAMPO MAIOR E HUMILDES, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6825",
+      "titulo": "Decreto nº 6.825 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6825",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6825",
+      "ementa": "APROVA E MANDA EXECUTAR O ORÇAMENTO DA RECEITA E DESPESA DA ILMA. CÂMARA MUNICIPAL PARA O EXERCÍCIO DE 1878."
+    },
+    {
+      "senadoId": "580410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6797",
+      "titulo": "Decreto nº 6.797 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6797",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6797",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE MACAPÁ, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "411065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6810",
+      "titulo": "Decreto nº 6.810 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6810",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6810",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DA VITÓRIA E CONCEIÇÃO DA SERRA, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "580426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6801",
+      "titulo": "Decreto nº 6.801 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6801",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6801",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DA OEIRAS, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6826-a",
+      "titulo": "Decreto nº 6.826-A de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6826-a",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6826-a",
+      "ementa": "APROVA AS CLÁUSULAS DO CONTRATO PARA A NAVEGAÇÃO POR VAPOR NO AMAZONAS."
+    },
+    {
+      "senadoId": "411093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6817",
+      "titulo": "Decreto nº 6.817 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6817",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6817",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 3.702:054$682 PARA OCORRER ÀS DESPESAS COM O SERVIÇO DA VERBA-TERRAS PÚBLICAS E COLONIZAÇÃO-NO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "411077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6813",
+      "titulo": "Decreto nº 6.813 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6813",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6813",
+      "ementa": "CONCEDE PERMISSÃO A ALFREDO AUGUSTO VIDAL PARA EXPLORAR COBRE E OUTROS MINERAIS NOS TERRENOS CONTÍGUOS AOS RIO IVAI, PARANAPANEMA E SEUS AFLUENTES, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "411089",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6816",
+      "titulo": "Decreto nº 6.816 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6816",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6816",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DA QUANTIA DE 674:994$755 PARA DESPESAS DA VERBA-ESTRADA DE FERRO D. PEDRO II - NO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "411108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6821",
+      "titulo": "Decreto nº 6.821 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6821",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6821",
+      "ementa": "CONCEDE PRIVILÉGIO A ROHE IRMÃOS PARA FABRICAREM CARROS DE SUA INVENÇÃO, DESTINADOS AO TRANSPORTE DE CARGAS E BAGAGENS."
+    },
+    {
+      "senadoId": "580437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6804",
+      "titulo": "Decreto nº 6.804 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6804",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6804",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DAS COMARCAS DE SÃO RAIMUNDO NONATO E SÃO JOÃO DO PIAUÍ, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "580394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-29-6793",
+      "titulo": "Decreto nº 6.793 de 29/12/1877",
+      "data": "1877-12-29",
+      "numero": "6793",
+      "urn": "urn:lex:br:federal:decreto:1877-12-29;6793",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA COMARCA DE BREVES, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "580333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-22-6778",
+      "titulo": "Decreto nº 6.778 de 22/12/1877",
+      "data": "1877-12-22",
+      "numero": "6778",
+      "urn": "urn:lex:br:federal:decreto:1877-12-22;6778",
+      "ementa": "PRORROGA POR MAIS UM ANO AS DISPOSIÇÕES DOS DECRETOS SUSPENDENDO A COBRANÇA DOS DIREITOS DE CONSUMO DO GADO VACUM E LANIGERO IMPORTADO NO IMPÉRIO."
+    },
+    {
+      "senadoId": "580346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-22-6781",
+      "titulo": "Decreto nº 6.781 de 22/12/1877",
+      "data": "1877-12-22",
+      "numero": "6781",
+      "urn": "urn:lex:br:federal:decreto:1877-12-22;6781",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO-BRAGANTINA E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "580337",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-22-6779",
+      "titulo": "Decreto nº 6.779 de 22/12/1877",
+      "data": "1877-12-22",
+      "numero": "6779",
+      "urn": "urn:lex:br:federal:decreto:1877-12-22;6779",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA GUERRA A APLICAR ÀS DESPESAS DE DIVERSAS RUBRICAS A QUANTIA DE 404:260$449, PROVENIENTE DAS SOBRAS VERIFICADAS EM OUTRAS VERBAS DO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "580341",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-22-6780",
+      "titulo": "Decreto nº 6.780 de 22/12/1877",
+      "data": "1877-12-22",
+      "numero": "6780",
+      "urn": "urn:lex:br:federal:decreto:1877-12-22;6780",
+      "ementa": "AUTORIZA ABERTURA DE UM CRÉDITO SUPLEMENTAR DE 499:455$177, PARA OCORRER ÀS DESPESAS DAS VERBAS - INTENDÊNCIA E ARSENAIS DE GUERRA-E-CORPO DE SAÚDE E HOSPITAIS - DO MINISTÉRIO DA GUERRA, NO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "580350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-22-6782",
+      "titulo": "Decreto nº 6.782 de 22/12/1877",
+      "data": "1877-12-22",
+      "numero": "6782",
+      "urn": "urn:lex:br:federal:decreto:1877-12-22;6782",
+      "ementa": "CONVERTE A SECRETARIA DO CONSELHO NAVAL EM UMA SEÇÃO DA SECRETARIA DE ESTADO DOS NEGÓCIOS DA MARINHA."
+    },
+    {
+      "senadoId": "580289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6767",
+      "titulo": "Decreto nº 6.767 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6767",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6767",
+      "ementa": "ESTENDE A OUTRAS LOCALIDADES O PERIMETRO FIXADO NO DECRETO NÚMERO 65.052 DO 1º DE MARÇO DE 1877, PARA AS EXPLORAÇÕES DE OURO E OUTROS METAIS NAS TERRAS DA FAZENDA DE SANTA LUZIA EM MINAS GERAIS."
+    },
+    {
+      "senadoId": "580317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6774",
+      "titulo": "Decreto nº 6.774 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6774",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6774",
+      "ementa": "AUTORIZA A TRANSFERÊNCIA DA SOMA DE 45:978$837 DE UMAS PARA OUTRAS RUBRICAS DA DESPESA DO MINISTÉRIO DA MARINHA, NO EXERCÍCIO DE 1876-1877."
+    },
+    {
+      "senadoId": "580321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6775",
+      "titulo": "Decreto nº 6.775 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6775",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6775",
+      "ementa": "ABRE O CRÉDITO SUPLEMENTAR DE 1.771:971$785 PARA AS DESPESAS DO MINISTÉRIO DA MARINHA NAS RUBRICAS - FORÇAS NAVAL - E - DESPESAS EXTRAORDINÁRIAS E EVENTUAIS - DO EXERCÍCIO DE 1876 A 1877."
+    },
+    {
+      "senadoId": "580281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6765",
+      "titulo": "Decreto nº 6.765 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6765",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6765",
+      "ementa": "CONCEDE PRIVILÉGIO A FERNANDO DE ALBUQUERQUE PARA FABRICAR E VENDER O APARELHO DE SUA INVENÇÃO, DESTINADO A RACHAR LENHA."
+    },
+    {
+      "senadoId": "411046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6763",
+      "titulo": "Decreto nº 6.763 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6763",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6763",
+      "ementa": "EXTINGUE UM LUGAR DE SUBSTITUTO DA COMARCA DE OURO PRETO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "580301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6770",
+      "titulo": "Decreto nº 6.770 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6770",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6770",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM A COMPANHIA DE NAVEGAÇÃO BAHIANA."
+    },
+    {
+      "senadoId": "580285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6766",
+      "titulo": "Decreto nº 6.766 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6766",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6766",
+      "ementa": "CONCEDE PRIVILÉGIO A ALFREDO DA FONSECA VIEIRA, PARA FABRICAR, USAR E VENDER CARROS DE SUA INVENÇÃO, DENOMINADOS - CARRUAGEM - BOTEQUIM."
+    },
+    {
+      "senadoId": "580309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6772",
+      "titulo": "Decreto nº 6.772 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6772",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6772",
+      "ementa": "MANDA ADAPTAR NOVA TABELA DE RAÇÕES DIÁRIAS EM SUBSTITUIÇÃO DA QUE SE ACHA ANEXA AO DECRETO NÚMERO 4.954 DE 4 DE MAIO DE 1872."
+    },
+    {
+      "senadoId": "580313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6773",
+      "titulo": "Decreto nº 6.773 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6773",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6773",
+      "ementa": "PERMITE QUE O CAPITAL DO \"BANCO DE CAMPOS\", SEJA ELEVADO A DOIS MIL CONTOS DE RÉIS."
+    },
+    {
+      "senadoId": "411050",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6764",
+      "titulo": "Decreto nº 6.764 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6764",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6764",
+      "ementa": "RETIFICA UM ERRO DE IMPRESSÃO NO DECRETO NÚMERO 2.682 DE 23 DE OUTUBRO DE 1875."
+    },
+    {
+      "senadoId": "580293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6768",
+      "titulo": "Decreto nº 6.768 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6768",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6768",
+      "ementa": "ABRE UM CRÉDITO SUPLEMENTAR DE 2.000:000$000 À VERBA - SOCORROS PÚBLICOS E MELHORAMENTO DO ESTADO SANITÁRIO - DO EXERCÍCIO DE 1877 - 1878, PARA OCORRER ÀS DESPESAS URGENTES QUE SE ESTÃO FAZENDO COM AS PROVÍNCIAS FLAGELADAS PELA SECA, E ÀS DAQUELA VERBA."
+    },
+    {
+      "senadoId": "580329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6777",
+      "titulo": "Decreto nº 6.777 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6777",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6777",
+      "ementa": "AUTORIZA O MINISTÉRIO E SECRETARIA DE ESTADO DOS NEGÓCIOS ESTRANGEIROS APLICAR ÀS DESPESAS DAS VERBAS - SECRETARIA DE ESTADO - EMPREGADOS EM DISPONIBILIDADE - EXTRAORDINÁRIAS NO EXTERIOR - E EXTRAORDINÁRIOS NO INTERIOR - NO EXERCÍCIO FINANCEIRO DE 1876-1877 A QUANTIA DE 55:896$443, TIRADA DAS SOBRAS DAS VERBA-LEGAÇÕES E CONSULADOS-E-AJUDAS DE CUSTO-DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "580305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6771",
+      "titulo": "Decreto nº 6.771 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6771",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6771",
+      "ementa": "AUTORIZA EXPLORAÇÕES E ESTUDOS PARA UMA ESTRADA DE FERRO DA MARGEM DIREITA DO RIO QUARAHIAM ATÉ À VILA DE ITAQUI, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "580297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6769",
+      "titulo": "Decreto nº 6.769 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6769",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6769",
+      "ementa": "ELEVA 120:000$000 OS CRÉDITOS EXTRAORDINÁRIOS DA IMPORTÂNCIA DE 90:000$000 ABERTOS PELOS DECRETOS NÚMEROS 6.349 E 6.445 DE 4 DE OUTUBRO E 30 DE DEZEMBRO DE 1876."
+    },
+    {
+      "senadoId": "580325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-15-6776",
+      "titulo": "Decreto nº 6.776 de 15/12/1877",
+      "data": "1877-12-15",
+      "numero": "6776",
+      "urn": "urn:lex:br:federal:decreto:1877-12-15;6776",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 4.359:898$829, PARA OCORRER ÀS DESPESAS DAS RUBRICAS - CONTADORIA-INTENDÊNCIA-ARSENAIS-REFORMADOS-E-OBRAS-NO EXERCÍCIO DE 1876 A 1877."
+    },
+    {
+      "senadoId": "411042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-07-6762",
+      "titulo": "Decreto nº 6.762 de 07/12/1877",
+      "data": "1877-12-07",
+      "numero": "6762",
+      "urn": "urn:lex:br:federal:decreto:1877-12-07;6762",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM A COMPANHIA \"ESPÍRITO SANTO E CAMPOS\" PARA O SERVIÇO DA NAVEGAÇÃO A VAPOR."
+    },
+    {
+      "senadoId": "411038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-07-6761",
+      "titulo": "Decreto nº 6.761 de 07/12/1877",
+      "data": "1877-12-07",
+      "numero": "6761",
+      "urn": "urn:lex:br:federal:decreto:1877-12-07;6761",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A TRANSFERIR DE UMAS PARA OUTRAS RUBRICAS DO ORÇAMENTO DO MESMO MINISTÉRIO, NO EXERCÍCIO DE 1876-1877, A SOMA DE CENTO CINQÜENTA E DOIS CONTOS CENTO E QUATRO MIL OITOCENTOS E OITENTA RÉIS."
+    },
+    {
+      "senadoId": "411034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-01-6760",
+      "titulo": "Decreto nº 6.760 de 01/12/1877",
+      "data": "1877-12-01",
+      "numero": "6760",
+      "urn": "urn:lex:br:federal:decreto:1877-12-01;6760",
+      "ementa": "CRIA OS CONSELHOS QUE TEM DE ADMINISTRAR O PATRIMÔNIO DO INSTITUTO DOS MENINOS CEGOS E DO INSTITUTO DOS SURDOS-MUDOS."
+    },
+    {
+      "senadoId": "411030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-12-01-6759",
+      "titulo": "Decreto nº 6.759 de 01/12/1877",
+      "data": "1877-12-01",
+      "numero": "6759",
+      "urn": "urn:lex:br:federal:decreto:1877-12-01;6759",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA CORTE."
+    },
+    {
+      "senadoId": "410994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6750",
+      "titulo": "Decreto nº 6.750 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6750",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6750",
+      "ementa": "EXTINGUE DOIS LUGARES DE JUIZ SUBSTITUTO DA CAPITAL DA BAHIA."
+    },
+    {
+      "senadoId": "411022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6757",
+      "titulo": "Decreto nº 6.757 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6757",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6757",
+      "ementa": "PERMITE À COMPANHIA DAS DOCAS DE D. PEDRO II ABRIR UMA RUA COMUNICANDO O CENTRO DO ARMAZÉM NÚMERO 5 DE SUA PROPRIEDADE COM A RUA DA SAÚDE, EM LUGAR DE PROCEDER AO ALARGAMENTO DO BECO DA PEDRA DO SAL, A QUE SE ACHA OBRIGADA."
+    },
+    {
+      "senadoId": "411018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6756",
+      "titulo": "Decreto nº 6.756 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6756",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6756",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA IMPERIAL COMPANHIA DE SEGURO MÚTUO CONTRA FOGO."
+    },
+    {
+      "senadoId": "411026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6758",
+      "titulo": "Decreto nº 6.758 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6758",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6758",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES FÊNIX PERNAMBUCANA."
+    },
+    {
+      "senadoId": "410990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6749",
+      "titulo": "Decreto nº 6.749 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6749",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6749",
+      "ementa": "EXTINGUE A 2 VARA CÍVEL DE CUIABÁ, E PROVIDENCIA SOBRE AS RESPECTIVAS FUNÇÕES."
+    },
+    {
+      "senadoId": "410982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6747",
+      "titulo": "Decreto nº 6.747 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6747",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6747",
+      "ementa": "CONCEDE, DURANTE TRINTA ANOS, GARANTIA DE JUROS PARA O MÁXIMO CAPITAL ADICIONAL DE 3.555:600$000 (£ 400.000) DESTINADO  Á CONSTRUÇÃO DA ESTRADA DE FERRO DENOMINADA - MADEIRA E MAMORÉ."
+    },
+    {
+      "senadoId": "410986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6748",
+      "titulo": "Decreto nº 6.748 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6748",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6748",
+      "ementa": "REGULA A EXECUÇÃO DO DISPOSTO NO ARTIGO 29 PARÁGRAFOS 10 E 11 DA LEI NÚMERO 2.033 DE 20 DE SETEMBRO DE 1871."
+    },
+    {
+      "senadoId": "411006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6753",
+      "titulo": "Decreto nº 6.753 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6753",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6753",
+      "ementa": "PRORROGA OS PRAZOS ESTABELECIDOS NAS CLÁUSULAS 2ª E 7ª DO DECRETO NÚMERO 5.152 DE 27 DE NOVEMBRO DE 1872, QUE AUTORIZOU O DR. JOAQUIM IGNACIO SILVEIRA DA MOTA A MINERAR NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "411014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6755",
+      "titulo": "Decreto nº 6.755 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6755",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6755",
+      "ementa": "ADIA A ELEIÇÃO DE UM SENADOR PELA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "410998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6751",
+      "titulo": "Decreto nº 6.751 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6751",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6751",
+      "ementa": "CONCEDE AUTORIZAÇÃO A PEDRO AUGUSTO CORDEIRO DIAS PARA INCORPORAR UMA COMPANHIA, COM O FIM DE ESTABELECER UM SERVIÇO DE TRANSMISSÃO DE RECADOS E TRANSPORTE DE CARGAS."
+    },
+    {
+      "senadoId": "411010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6754",
+      "titulo": "Decreto nº 6.754 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6754",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6754",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA INDÚSTRIA E COMÉRCIO - E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-24-6752",
+      "titulo": "Decreto nº 6.752 de 24/11/1877",
+      "data": "1877-11-24",
+      "numero": "6752",
+      "urn": "urn:lex:br:federal:decreto:1877-11-24;6752",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOSÉ BORGES GURJÃO PARA EXPLORAR MINAS DE OURO E OUTROS METAIS NAS PROVÍNCIAS DO RIO GRANDE DO NORTE E CEARÁ."
+    },
+    {
+      "senadoId": "410966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6743",
+      "titulo": "Decreto nº 6.743 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6743",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6743",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO PELO DECRETO 6.147 DE 10 DE MARÇO DE 1876 A MANOEL PINTO NOVAES PARA ORGANIZAR UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA O FABRICO DE AÇUCAR, NA FREGUESIA DE IGUAPÉ, MUNICÍPIO DA CACHOEIRA, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6741",
+      "titulo": "Decreto nº 6.741 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6741",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6741",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA - ESTRADA DE FERRO COMÉRCIO E RIO DAS FLORES."
+    },
+    {
+      "senadoId": "410933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6735",
+      "titulo": "Decreto nº 6.735 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6735",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6735",
+      "ementa": "DESIGNA A ORDEM DA SUBSTITUIÇÃO RECÍPROCA DOS JUÍZES DE DIREITO DA CORTE, NO ANO DE 1878."
+    },
+    {
+      "senadoId": "410954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6740",
+      "titulo": "Decreto nº 6.740 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6740",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6740",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO BATISTA BONINA PARA INTRODUZIR NO IMPÉRIO A INDÚSTRIA DE EXTRAIR ÓLEOS, MASSAS E OUTROS PRODUTOS DO CAROÇO DO ALGODÃO."
+    },
+    {
+      "senadoId": "410962",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6742",
+      "titulo": "Decreto nº 6.742 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6742",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6742",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A BENTO JOSÉ ALVES PEREIRA E OUTROS PARA EXPLORAR CARVÃO E OUTROS MINERAIS NO MUNICÍPIO DE TIETÉ, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6738",
+      "titulo": "Decreto nº 6.738 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6738",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6738",
+      "ementa": "APROVA A PLANTA DOS TERRENOS PERTENCENTES AOS HERDEIROS DE JOSÉ JOAQUIM FERREIRA JUNIOR, NECESSÁRIOS AO SERVIÇO DA ESTAÇÃO CENTRAL DA ESTRADA DE FERRO D. PEDRO II."
+    },
+    {
+      "senadoId": "410970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6744",
+      "titulo": "Decreto nº 6.744 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6744",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6744",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO PELO DECRETO NÚMERO 6.424 DE 22 DE FEVEREIRO DO ANO PASSADO AO BACHAREL ANTÔNIO CESAR BERREDO PARA ORGANIZAR UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FABRICO DE AÇUCAR NA MARGEM DO RIO MEARIM, PROVÍNCIA DO MARANHÃO, ENTRE AS SITUAÇÕES DENOMINADAS `CANTAGALO´ E `BELMONTE´."
+    },
+    {
+      "senadoId": "410950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6739",
+      "titulo": "Decreto nº 6.739 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6739",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6739",
+      "ementa": "APROVA A PLANTA DO TERRENO PERTENCENTE AO MAJOR LUIZ ANTÔNIO GONZAGA SUZANO, NA EXTENSÃO DE 1.340 METROS, NECESSÁRIO ÁS OBRAS DA PARTE DO RAMAL DE SAPOPEMBA A SANTA CRUZ."
+    },
+    {
+      "senadoId": "410937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6736",
+      "titulo": "Decreto nº 6.736 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6736",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6736",
+      "ementa": "DESIGNA A ORDEM EM QUE OS JUÍZES SUBSTITUTOS DA CORTE DEVERÃO COOPERAR COM OS JUÍZES DE DIREITO E SUBSTITUIR-SE RECIPROCAMENTE NO ANO DE 1878."
+    },
+    {
+      "senadoId": "410978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6746",
+      "titulo": "Decreto nº 6.746 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6746",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6746",
+      "ementa": "ALTERA ALGUMAS E CONSOLIDA TODAS AS CLÁUSULAS ANEXAS AO DECRETO NÚMERO 5.704 DE 5 DE AGOSTO DE 1874, NÚMEROS 6.014 E 6.015 DE 30 DE OUTUBRO DE 1875 E NÚMERO 6.165 DE 12 DE ABRIL DE 1876, RELATIVA Á CONSTRUÇÃO DA ESTRADA DE FERRO DO RECIFE AO LIMOEIRA."
+    },
+    {
+      "senadoId": "410941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6737",
+      "titulo": "Decreto nº 6.737 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6737",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6737",
+      "ementa": "EXTINGUE UM LUGAR DE JUIZ SUBSTITUTO DA CORTE E PROVIDENCIA SOBRE A EXTINÇÃO DE MAIS TRÊS LUGARES DE JUÍZES SUBSTITUTOS TAMBÉM NA CORTE."
+    },
+    {
+      "senadoId": "410974",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-17-6745",
+      "titulo": "Decreto nº 6.745 de 17/11/1877",
+      "data": "1877-11-17",
+      "numero": "6745",
+      "urn": "urn:lex:br:federal:decreto:1877-11-17;6745",
+      "ementa": "APROVA A ALTERAÇÃO PROPOSTA PARA AS OBRAS DO SERVIÇO DE ESGOTO DA IMPERIAL QUINTA DA BOA-VISTA, EM SÃO CHRISTOVÃO, E FAZ EXTENSIVO O MESMO SERVIÇO AOS PRÉDIOS RECENTEMENTE CONSTRUÍDOS NAQUELA LOCALIDADE."
+    },
+    {
+      "senadoId": "410921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-10-6732",
+      "titulo": "Decreto nº 6.732 de 10/11/1877",
+      "data": "1877-11-10",
+      "numero": "6732",
+      "urn": "urn:lex:br:federal:decreto:1877-11-10;6732",
+      "ementa": "CONCEDE PRIVILÉGIO PONTE & CARVALHO PARA O FABRICO E VENDA DO LÍQUIDO DE SUA INVENÇÃO DESTINADO A EXTINGUIR A PRAGA DOS CAFEZAIS."
+    },
+    {
+      "senadoId": "410917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-10-6731",
+      "titulo": "Decreto nº 6.731 de 10/11/1877",
+      "data": "1877-11-10",
+      "numero": "6731",
+      "urn": "urn:lex:br:federal:decreto:1877-11-10;6731",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO PELO DECRETO NÚMERO 6.145 DE 10 DE MARÇO DE 1876 AO VISCONDE DE SERGIMIRIM E OUTROS PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA O FABRICO DE AÇUCAR NA FREGUESIA DO BOM JARDIM, MUNICÍPIO DE SANTO AMARO, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "579092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-10-6730",
+      "titulo": "Decreto nº 6.730 de 10/11/1877",
+      "data": "1877-11-10",
+      "numero": "6730",
+      "urn": "urn:lex:br:federal:decreto:1877-11-10;6730",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO PELO DECRETO NÚMERO 6.149 DE MARÇO DE 1876 A JOSÉ PACHECO PEREIRA E OUTROS PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FABRICO DE AÇUCAR NA FREGUESIA DO RIO FUNDO, MUNICÍPIO DE SANTO AMARO, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-10-6733",
+      "titulo": "Decreto nº 6.733 de 10/11/1877",
+      "data": "1877-11-10",
+      "numero": "6733",
+      "urn": "urn:lex:br:federal:decreto:1877-11-10;6733",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DO RIBEIRÃO PRETO, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-10-6734",
+      "titulo": "Decreto nº 6.734 de 10/11/1877",
+      "data": "1877-11-10",
+      "numero": "6734",
+      "urn": "urn:lex:br:federal:decreto:1877-11-10;6734",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DO PILAR PRETO, NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "579088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-10-6729",
+      "titulo": "Decreto nº 6.729 de 10/11/1877",
+      "data": "1877-11-10",
+      "numero": "6729",
+      "urn": "urn:lex:br:federal:decreto:1877-11-10;6729",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DE CONTRATO PARA A NAVEGAÇÃO ENTRE O PORTO DO RIO DE JANEIRO E O DE NEW-YORK COM ESCALAS."
+    },
+    {
+      "senadoId": "579084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-03-6728",
+      "titulo": "Decreto nº 6.728 de 03/11/1877",
+      "data": "1877-11-03",
+      "numero": "6728",
+      "urn": "urn:lex:br:federal:decreto:1877-11-03;6728",
+      "ementa": "APROVA AS PLANTAS PARA O RAMAL DA ESTAÇÃO MARÍTIMA DA ESTRADA DE FERRO D. PEDRO II, NA GAMBOA."
+    },
+    {
+      "senadoId": "579076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-03-6726",
+      "titulo": "Decreto nº 6.726 de 03/11/1877",
+      "data": "1877-11-03",
+      "numero": "6726",
+      "urn": "urn:lex:br:federal:decreto:1877-11-03;6726",
+      "ementa": "TRANSFERE PARA O MINISTÉRIO DA JUSTIÇA E PRESÍDIO DE FERNANDO DE NORONHA."
+    },
+    {
+      "senadoId": "579080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-11-03-6727",
+      "titulo": "Decreto nº 6.727 de 03/11/1877",
+      "data": "1877-11-03",
+      "numero": "6727",
+      "urn": "urn:lex:br:federal:decreto:1877-11-03;6727",
+      "ementa": "TRANSFERE PARA O MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS A FABRICA DE FERRO DE SÃO JOÃO DE IPANEMA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "579068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-27-6724",
+      "titulo": "Decreto nº 6.724 de 27/10/1877",
+      "data": "1877-10-27",
+      "numero": "6724",
+      "urn": "urn:lex:br:federal:decreto:1877-10-27;6724",
+      "ementa": "CONCEDE PRIVILÉGIO A SAMUEL BEAVEM PARA FABRICAR E VENDER CHAPAS DE SUA INVENÇÃO, DESTINADAS A BENEFICIAR CAFÉ."
+    },
+    {
+      "senadoId": "579072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-27-6725",
+      "titulo": "Decreto nº 6.725 de 27/10/1877",
+      "data": "1877-10-27",
+      "numero": "6725",
+      "urn": "urn:lex:br:federal:decreto:1877-10-27;6725",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ FRANCISCO SOARES PARA FABRICAR E VENDER A MÁQUINA DE SUA INVENÇÃO DENOMINADA - MÁQUINA SOARES, DESTINADA A LIMPAR E CONSERVAR OS TRILHOS DAS LINHAS FÉRREAS URBANAS."
+    },
+    {
+      "senadoId": "579052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-20-6720",
+      "titulo": "Decreto nº 6.720 de 20/10/1877",
+      "data": "1877-10-20",
+      "numero": "6720",
+      "urn": "urn:lex:br:federal:decreto:1877-10-20;6720",
+      "ementa": "PROMULGA A CONVENÇÃO POSTAL CELEBRADA ENTRE O BRASIL E O CHILE EM 26 DE MAIO DE 1876."
+    },
+    {
+      "senadoId": "579056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-20-6721",
+      "titulo": "Decreto nº 6.721 de 20/10/1877",
+      "data": "1877-10-20",
+      "numero": "6721",
+      "urn": "urn:lex:br:federal:decreto:1877-10-20;6721",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS PARA O PROLONGAMENTO DA LINHA DO CENTRO DA ESTRADA DE FERRO D. PEDRO II."
+    },
+    {
+      "senadoId": "579060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-20-6722",
+      "titulo": "Decreto nº 6.722 de 20/10/1877",
+      "data": "1877-10-20",
+      "numero": "6722",
+      "urn": "urn:lex:br:federal:decreto:1877-10-20;6722",
+      "ementa": "CONCEDE PRIVILÉGIO A NICOLAU HOHLER PARA O PROCESSO DE SUA INVENÇÃO DESTINADO Á CONSERVAÇÃO DE CARNE."
+    },
+    {
+      "senadoId": "579064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-20-6723",
+      "titulo": "Decreto nº 6.723 de 20/10/1877",
+      "data": "1877-10-20",
+      "numero": "6723",
+      "urn": "urn:lex:br:federal:decreto:1877-10-20;6723",
+      "ementa": "CONCEDE PRIVILÉGIO A EVANGELISTA GOMES DE SOUZA PARA FABRICAR E VENDER MÁQUINA DE SUA INVENÇÃO DENOMINADA - PILADOR GOMES."
+    },
+    {
+      "senadoId": "579000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6707",
+      "titulo": "Decreto nº 6.707 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6707",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6707",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE CAMAQUAM, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E MARCA O VENCIMENTO ANUAL DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "579004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6708",
+      "titulo": "Decreto nº 6.708 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6708",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6708",
+      "ementa": "CONCEDE PRIVILÉGIO A JOHN DICKINSON BRUNTON PARA INTRODUÇÃO DA MÁQUINA DE SUA INVENÇÃO DESTINADA A CORTAR, PREPARAR, CHANFRAR, APLAINAR, TORNEAR E MOLDAR PEDRA."
+    },
+    {
+      "senadoId": "579036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6716",
+      "titulo": "Decreto nº 6.716 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6716",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6716",
+      "ementa": "APROVA COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA DE CARRUAGENS - PORTO - ALEGRENSE E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "579016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6711",
+      "titulo": "Decreto nº 6.711 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6711",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6711",
+      "ementa": "CONCEDE PRIVILÉGIO A SAMUEL BEAVEN PARA MÁQUINA DE SUA INVENÇÃO DESTINADA A SECAR CAFÉ, CACAU, CHÁ, MILHO, FEIJÃO, ARROZ, FARINHA E FENO."
+    },
+    {
+      "senadoId": "579028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6714",
+      "titulo": "Decreto nº 6.714 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6714",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6714",
+      "ementa": "CONCEDE PERMISSÃO A JOAQUIM VICTORINO DA CUNHA, PARA EXPLORAR CARVÃO DE PEDRA, FERRO, CHUMBO E OUTROS MINERAIS NO MUNICÍPIO DE UBATUBA, PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "579024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6713",
+      "titulo": "Decreto nº 6.713 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6713",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6713",
+      "ementa": "PRORROGA, POR DOIS ANOS, O PRAZO CONCEDIDO AO BACHAREL MAXIMIANO DE SOUZA BUENO, PRA EXPLORAR OURO NO MUNICÍPIO DE GUARAPARI, PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "579040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6717",
+      "titulo": "Decreto nº 6.717 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6717",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6717",
+      "ementa": "APROVA COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA MARÍTIMA E FLUVIAL-SÃO JOÃO DA BARRA E CAMPOS - E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "578996",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6706",
+      "titulo": "Decreto nº 6.706 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6706",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6706",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE TRAIPÚ, NA PROVÍNCIA DAS ALAGOAS, E MARCA O VENCIMENTO ANUAL DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "578992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6705",
+      "titulo": "Decreto nº 6.705 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6705",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6705",
+      "ementa": "ALTERA O TRAÇADO DA LINHA DE CARRIS, DENOMINADA DE COPACABANA."
+    },
+    {
+      "senadoId": "579044",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6718",
+      "titulo": "Decreto nº 6.718 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6718",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6718",
+      "ementa": "AUTORIZA A - THE CONDE D'EU RAILWAY COMPANY LIMITED - A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "579048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6719",
+      "titulo": "Decreto nº 6.719 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6719",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6719",
+      "ementa": "REDUZ A 10:000$000 A QUANTIA FIXADA NO DECRETO NÚMERO 5.744 DE 16 DE SETEMBRO DE 1874 PARA A POSSE DEFINITIVA DE CADA UMA DAS DATAS MINERAIS CONCEDIDAS A LUIZ MATEUS MAYLASKI, NA PROVÍNCIA DE SÃO PAULO, E PRORROGA POR UM ANO O PRAZO MARCADO NA CLÁUSULA 2ª DO REFERIDO DECRETO."
+    },
+    {
+      "senadoId": "579032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6715",
+      "titulo": "Decreto nº 6.715 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6715",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6715",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA `PHILO-SCENICA´ E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "579020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6712",
+      "titulo": "Decreto nº 6.712 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6712",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6712",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO ANTONIO ALVES PARA O APARELHO DE SUA INVENÇÃO DENOMINADO CATADOR INSTANTÂNEO."
+    },
+    {
+      "senadoId": "579008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6709",
+      "titulo": "Decreto nº 6.709 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6709",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6709",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTONIO NUNES DE OLIVEIRA PARA O APARELHO DE SUA INVENÇÃO DENOMINADO - PESADOR DE GADO EM PÉ."
+    },
+    {
+      "senadoId": "579012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6710",
+      "titulo": "Decreto nº 6.710 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6710",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6710",
+      "ementa": "CONCEDE PRIVILÉGIO A ALFREDO DA FONSECA VIEIRA PARA FABRICAR E VENDER CARROS-HOTÉIS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "578988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-13-6704",
+      "titulo": "Decreto nº 6.704 de 13/10/1877",
+      "data": "1877-10-13",
+      "numero": "6704",
+      "urn": "urn:lex:br:federal:decreto:1877-10-13;6704",
+      "ementa": "APROVA A PLANTA DA NOVA ESTAÇÃO DA COMPANHIA DE CARRIS, BOTANICAL GARDEN RAIL ROAD, NA PRAÇA DUQUE DE CAXIAS, PARA A EXECUÇÃO DA LEI 353 DE 24 DE JULHO DE 1845."
+    },
+    {
+      "senadoId": "578984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-08-6703",
+      "titulo": "Decreto nº 6.703 de 08/10/1877",
+      "data": "1877-10-08",
+      "numero": "6703",
+      "urn": "urn:lex:br:federal:decreto:1877-10-08;6703",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO A VAPOR DA LAGOA DE ARARUAMA E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "578980",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-08-6702",
+      "titulo": "Decreto nº 6.702 de 08/10/1877",
+      "data": "1877-10-08",
+      "numero": "6702",
+      "urn": "urn:lex:br:federal:decreto:1877-10-08;6702",
+      "ementa": "PRORROGA NOVAMENTE A PRESENTE SESSÃO DA ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "578976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-10-01-6701",
+      "titulo": "Decreto nº 6.701 de 01/10/1877",
+      "data": "1877-10-01",
+      "numero": "6701",
+      "urn": "urn:lex:br:federal:decreto:1877-10-01;6701",
+      "ementa": "PROMULGA OS ATOS DIPLOMÁTICOS MOTIVADOS PELA ADESÃO DO BRASIL Á CONVENÇÃO TELEGRÁFICA INTERNACIONAL, CELEBRADA EM SÃO PETERSBURGO A 22 DE JULHO DE 1875."
+    },
+    {
+      "senadoId": "578972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-29-6700",
+      "titulo": "Decreto nº 6.700 de 29/09/1877",
+      "data": "1877-09-29",
+      "numero": "6700",
+      "urn": "urn:lex:br:federal:decreto:1877-09-29;6700",
+      "ementa": "PRORROGA, POR DOIS ANOS, O PRAZO MARCADO A PAULINO LUCIO DE LEMOS E FRANCISCO DE MIRANDA LEONE PARA A MEDIÇÃO E DEMARCAÇÃO DAS DATAS DE TERRAS QUE LHES FORAM CONCEDIDAS PELO DECRETO NÚMERO 5.745 DE 16 DE SETEMBRO DE 1874."
+    },
+    {
+      "senadoId": "578968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-27-6699",
+      "titulo": "Decreto nº 6.699 de 27/09/1877",
+      "data": "1877-09-27",
+      "numero": "6699",
+      "urn": "urn:lex:br:federal:decreto:1877-09-27;6699",
+      "ementa": "PRORROGA A PRESENTE SESSÃO DA ASSEMBLEIA GERAL LEGISLATIVA."
+    },
+    {
+      "senadoId": "578956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6696",
+      "titulo": "Decreto nº 6.696 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6696",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6696",
+      "ementa": "CONCEDE PRIVILÉGIO A BERNARDINO SALOMONE PÁRA O FABRICO, USO E VENDA DO APARELHO DE SUA INVENÇÃO, DENOMINADO - ARIENTAURÍFERO HIDRODINÂMICO."
+    },
+    {
+      "senadoId": "578964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6698",
+      "titulo": "Decreto nº 6.698 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6698",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6698",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ARTIGOS 7º E 29 DOS ESTATUTOS DA COMPANHIA - SERVIÇO DOMÉSTICO."
+    },
+    {
+      "senadoId": "578939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6692",
+      "titulo": "Decreto nº 6.692 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6692",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6692",
+      "ementa": "APROVA A PLANTA DOS TERRENOS PERTENCENTES A JOSÉ JOAQUIM FERREIRA DE LIMA E SILVA, NECESSÁRIOS AO SERVIÇO DA ESTAÇÃO CENTRAL DA ESTRADA DE FERRO D. PEDRO II."
+    },
+    {
+      "senadoId": "578944",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6693",
+      "titulo": "Decreto nº 6.693 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6693",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6693",
+      "ementa": "CONCEDE PRIVILÉGIO A EDUARDO CLÁUDIO DA SILVA PARA O MAQUINISMO DE SUA INVENÇÃO, DESTINADO Á TRAÇÃO A VAPOR DE CARROS SOBRE TRILHOS."
+    },
+    {
+      "senadoId": "578960",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6697",
+      "titulo": "Decreto nº 6.697 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6697",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6697",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO PIRES BARBOSA PARA FABRICAR E VENDER CARROS VELOCÍPEDES DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "578948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6694",
+      "titulo": "Decreto nº 6.694 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6694",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6694",
+      "ementa": "APROVA PROVISORIAMENTE AS INSTRUÇÕES E TARIFAS PARA O SERVIÇO DE TRANSPORTES DA ESTRADA DE FERRO DE REZENDE A ARÊAS."
+    },
+    {
+      "senadoId": "578952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-24-6695",
+      "titulo": "Decreto nº 6.695 de 24/09/1877",
+      "data": "1877-09-24",
+      "numero": "6695",
+      "urn": "urn:lex:br:federal:decreto:1877-09-24;6695",
+      "ementa": "AUTORIZA COMPANHIA `UNIÃO DOS LAVRADORES´ PARA CONSTITUIR-SE COMO SOCIEDADE DE CRÉDITO REAL, E APROVA O COMPETENTE REGULAMENTO COM A MODIFICAÇÃO ABAIXO INDICADA."
+    },
+    {
+      "senadoId": "578928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-19-6689",
+      "titulo": "Decreto nº 6.689 de 19/09/1877",
+      "data": "1877-09-19",
+      "numero": "6689",
+      "urn": "urn:lex:br:federal:decreto:1877-09-19;6689",
+      "ementa": "DECLARA A ENTRANCIA DAS COMARCAS DE LENÇÕES, TATUÍ, PINDAMONHANGABA E JAÚ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "578932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-19-6690",
+      "titulo": "Decreto nº 6.690 de 19/09/1877",
+      "data": "1877-09-19",
+      "numero": "6690",
+      "urn": "urn:lex:br:federal:decreto:1877-09-19;6690",
+      "ementa": "MARCA O VENCIMENTO ANUAL DOS PROMOTORES PÚBLICOS DAS COMARCAS DE LENÇÕES, TATUÍ, PINDAMONHANGABA E JAÚ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-19-6686",
+      "titulo": "Decreto nº 6.686 de 19/09/1877",
+      "data": "1877-09-19",
+      "numero": "6686",
+      "urn": "urn:lex:br:federal:decreto:1877-09-19;6686",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE GARARÚ, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "578924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-19-6688",
+      "titulo": "Decreto nº 6.688 de 19/09/1877",
+      "data": "1877-09-19",
+      "numero": "6688",
+      "urn": "urn:lex:br:federal:decreto:1877-09-19;6688",
+      "ementa": "MARCA O VENCIMENTO ANUAL PROMOTOR PÚBLICO DA COMARCA DE ALAGOINHAS, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-19-6685",
+      "titulo": "Decreto nº 6.685 de 19/09/1877",
+      "data": "1877-09-19",
+      "numero": "6685",
+      "urn": "urn:lex:br:federal:decreto:1877-09-19;6685",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE GARARÚ, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "410911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-19-6687",
+      "titulo": "Decreto nº 6.687 de 19/09/1877",
+      "data": "1877-09-19",
+      "numero": "6687",
+      "urn": "urn:lex:br:federal:decreto:1877-09-19;6687",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE ALAGOINHAS, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-12-6680",
+      "titulo": "Decreto nº 6.680 de 12/09/1877",
+      "data": "1877-09-12",
+      "numero": "6680",
+      "urn": "urn:lex:br:federal:decreto:1877-09-12;6680",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA REAL SOCIEDADE CLUB GINÁSTICO PORTUGUÊS."
+    },
+    {
+      "senadoId": "410880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-12-6679",
+      "titulo": "Decreto nº 6.679 de 12/09/1877",
+      "data": "1877-09-12",
+      "numero": "6679",
+      "urn": "urn:lex:br:federal:decreto:1877-09-12;6679",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO A KELLER & COMP., PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FABRICO DE AÇUCAR NO MUNICÍPIO DE ÁGUA PRETA, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "410888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-12-6681",
+      "titulo": "Decreto nº 6.681 de 12/09/1877",
+      "data": "1877-09-12",
+      "numero": "6681",
+      "urn": "urn:lex:br:federal:decreto:1877-09-12;6681",
+      "ementa": "ALTERA ALGUMAS E CONSOLIDA TODAS AS CLÁUSULAS, ANEXAS AOS DECRETOS NÚMEROS 4.838 DE 15 DE DEZEMBRO DE 1871, NÚMERO 5.608 DE 25 DE ABRIL DE 1874, NÚMERO 5.974 DE 4 DE AGOSTO DE 1875 E NÚMERO 6.243 DE 12 DE JUNHO DE 1876, RELATIVOS Á ESTRADA DE FERRO - CONDE  D'EU."
+    },
+    {
+      "senadoId": "410892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-12-6682",
+      "titulo": "Decreto nº 6.682 de 12/09/1877",
+      "data": "1877-09-12",
+      "numero": "6682",
+      "urn": "urn:lex:br:federal:decreto:1877-09-12;6682",
+      "ementa": "CONCEDE A SEVERINO LOURENÇO DA COSTA LEITE PRIVILÉGIO PARA USAR E APLICAR Á INDÚSTRIA FABRIL AS FIBRAS TEXTIS EXTRAÍDAS DOS CIPÓS LACTECENTES E MALPIGIACEOS."
+    },
+    {
+      "senadoId": "410896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-12-6683",
+      "titulo": "Decreto nº 6.683 de 12/09/1877",
+      "data": "1877-09-12",
+      "numero": "6683",
+      "urn": "urn:lex:br:federal:decreto:1877-09-12;6683",
+      "ementa": "ELEVA A 16.150:000$000 O CAPITAL AFIANÇADO E GARANTIDO DA ESTRADA DE FERRO DO RIO-VERDE."
+    },
+    {
+      "senadoId": "410876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-12-6678",
+      "titulo": "Decreto nº 6.678 de 12/09/1877",
+      "data": "1877-09-12",
+      "numero": "6678",
+      "urn": "urn:lex:br:federal:decreto:1877-09-12;6678",
+      "ementa": "FAZ EXTENSIVA OS INTERPRETES DO COMÉRCIO DA PRAÇA DA PROVÍNCIA DO CEARÁ A DISPOSIÇÃO DO DECRETO NÚMERO 1.000 DE 26 DE JUNHO DE 1852, SEGUNDA REGRA."
+    },
+    {
+      "senadoId": "410872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-09-04-6677",
+      "titulo": "Decreto nº 6.677 de 04/09/1877",
+      "data": "1877-09-04",
+      "numero": "6677",
+      "urn": "urn:lex:br:federal:decreto:1877-09-04;6677",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DO PATROCÍNIO DAS ARARAS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6676",
+      "titulo": "Decreto nº 6.676 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6676",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6676",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOÃO LUIZ CORDEIRO E FRANCISCO LEANDRO GOMES PRA ORGANIZAREM UMA COMPANHIA DESTINADA AO TRANSPORTE DE PASSAGEIROS E CARGAS ENTRE A CORTE, ILHA DO GOVERNADOR E PENHA."
+    },
+    {
+      "senadoId": "410840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6669",
+      "titulo": "Decreto nº 6.669 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6669",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6669",
+      "ementa": "APROVA AS MODIFICAÇÕES PROPOSTAS PELA COMPANHIA CITY IMPROVEMENTS NO TRAÇADO DAS GALERIAS DE ESGOTO DO BOULEVARD DO IMPERADOR E DA TRAVESSA DO BASTOS, NO BAIRRO DE SÃO CHRISTOVÃO, E NA LOCAÇÃO DO CANAL, QUE TEM DE REUNIR AS ÁGUAS DE DIFERENTE RIACHOS NO MESMO BAIRRO."
+    },
+    {
+      "senadoId": "410844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6670",
+      "titulo": "Decreto nº 6.670 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6670",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6670",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS PARA O PROLONGAMENTO DA LINHA DO CENTRO DA ESTRADA DE FERRO D. PEDRO II."
+    },
+    {
+      "senadoId": "410852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6672",
+      "titulo": "Decreto nº 6.672 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6672",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6672",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO MANOEL ESTELITA VIANA PARA FABRICAR E VENDER O APARELHO DE SUA INVENÇÃO, DENOMINADO - VARREDOR ECONÔMICO DE CARRIS DE FERRO."
+    },
+    {
+      "senadoId": "410860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6674",
+      "titulo": "Decreto nº 6.674 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6674",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6674",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO JOAQUIM PEREIRA DE CARVALHO PARA AS MODIFICAÇÕES QUE INTRODUZIU NA MÁQUINA DE SUA INVENÇÃO PRIVILEGIADA PELO DECRETO NÚMERO 6.369 DE 8 DE NOVEMBRO DE 1876."
+    },
+    {
+      "senadoId": "410856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6673",
+      "titulo": "Decreto nº 6.673 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6673",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6673",
+      "ementa": "REDUZ A 10:000$000 A QUANTIA FIXADA NO DECRETO NÚMERO 6.628 DE 4 DE JULHO DE 1877 PARA POSSE DEFINITIVA DE CADA UMA DAS DATAS MINERAIS, CONCEDIDAS A MANOEL GONÇALVES DE ROSA E OUTRO, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "410864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6675",
+      "titulo": "Decreto nº 6.675 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6675",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6675",
+      "ementa": "APROVA A TRANSFERÊNCIA FEITA POR FELICIANO FREIRE DA SILVA A SEU IRMÃO RAIMUNDO BRAULE FREIRE DA SILVA DOS DIREITOS NA CONCESSÃO PRA SALGA, SECA E PESCA DE PEIXE NAS PROVÍNCIAS DO PARÁ, MARANHÃO E AMAZONAS."
+    },
+    {
+      "senadoId": "410848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-28-6671",
+      "titulo": "Decreto nº 6.671 de 28/08/1877",
+      "data": "1877-08-28",
+      "numero": "6671",
+      "urn": "urn:lex:br:federal:decreto:1877-08-28;6671",
+      "ementa": "CONCEDE PRIVILEGIO A HENRIQUE ANTONIO BATISTA PARA FABRICAR E VENDER ESPOLETAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6661",
+      "titulo": "Decreto nº 6.661 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6661",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6661",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA COOPERATIVA DE CONSUMO."
+    },
+    {
+      "senadoId": "410805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6660",
+      "titulo": "Decreto nº 6.660 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6660",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6660",
+      "ementa": "APROVA, COM MODIFICAÇÕES A REFORMA DE ALGUMAS DISPOSIÇÕES DOS ESTATUTOS DA SOCIEDADE - GARANTIA NACIONAL."
+    },
+    {
+      "senadoId": "410813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6662",
+      "titulo": "Decreto nº 6.662 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6662",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6662",
+      "ementa": "CONCEDE PRIVILÉGIO A ARSÊNIO CELESTINO PIMENTEL PARA FABRICAR E VENDER A MÁQUINA DE SUA INVENÇÃO DESTINADA Á IRRIGAÇÃO DE TERRAS AGRÍCOLAS."
+    },
+    {
+      "senadoId": "410801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6659",
+      "titulo": "Decreto nº 6.659 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6659",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6659",
+      "ementa": "PERMITE A TRANSFERÊNCIA PARA SÃO FIDELIS DA SEDE DA COMPANHIA DA ESTRADA DE FERRO DE SANTO ANTÔNIO DE PÁDUA."
+    },
+    {
+      "senadoId": "410797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6658",
+      "titulo": "Decreto nº 6.658 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6658",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6658",
+      "ementa": "DECLARA QUE A SEDE DA COMPANHIA DA ESTRADA DE FERRO DO COMÉRCIO E RIO DAS FLORES É NA FREQUESIA DE SANTA TEREZA DO MUNICÍPIO DE VALENÇA."
+    },
+    {
+      "senadoId": "410836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6668",
+      "titulo": "Decreto nº 6.668 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6668",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6668",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BENEFICENTE MARANHENSE."
+    },
+    {
+      "senadoId": "410817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6663",
+      "titulo": "Decreto nº 6.663 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6663",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6663",
+      "ementa": "PROMULGA A DECLARAÇÃO ENTRE O BRASIL E A ITÁLIA PARA A PROTEÇÃO DAS MARCAS DE FÁBRICA E COMÉRCIO."
+    },
+    {
+      "senadoId": "410825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6665",
+      "titulo": "Decreto nº 6.665 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6665",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6665",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA FERRO-CARRIL MACAÉ E IMBETIDA, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "410833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6667",
+      "titulo": "Decreto nº 6.667 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6667",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6667",
+      "ementa": "MARCA O ORDENADO ANUAL DE 150$000 AO CARCEREIRO DA CADEIA DA VILA DA PALMA, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "410829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6666",
+      "titulo": "Decreto nº 6.666 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6666",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6666",
+      "ementa": "CONCEDE A JOAQUIM OVÍDIO SARAIVA DE CARVALHO, ASSOCIADO DE D.FELIPA DIAS BATISTA, PERMISSÃO PARA LAVRAR OURO, CHUMBO, FERRO E OUTROS METAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-14-6664",
+      "titulo": "Decreto nº 6.664 de 14/08/1877",
+      "data": "1877-08-14",
+      "numero": "6664",
+      "urn": "urn:lex:br:federal:decreto:1877-08-14;6664",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS, COM EXCEÇÃO DOS ORÇAMENTOS DA 1ª SEÇÃO E DO RAMAL DA ESTRADA DE FERRO DA VILA DE SÃO JOÃO DO MONTE-NEGRO AO PORTO DA BOA-ESPERANÇA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "410793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-07-6657",
+      "titulo": "Decreto nº 6.657 de 07/08/1877",
+      "data": "1877-08-07",
+      "numero": "6657",
+      "urn": "urn:lex:br:federal:decreto:1877-08-07;6657",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO MARCADO NA CLÁUSULA 11ª DAS ANEXAS AO DECRETO NÚMEROS 5.792 DE 11 DE NOVEMBRO DE 1874."
+    },
+    {
+      "senadoId": "410789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-07-6656",
+      "titulo": "Decreto nº 6.656 de 07/08/1877",
+      "data": "1877-08-07",
+      "numero": "6656",
+      "urn": "urn:lex:br:federal:decreto:1877-08-07;6656",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO AO DESEMBARGADOR HENRIQUE JORGE RABELLO PARA A INCORPORAÇÃO DA COMPANHIA DESTINADA AO SERVIÇO DA PESCA NA BAHIA."
+    },
+    {
+      "senadoId": "410781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-07-6654",
+      "titulo": "Decreto nº 6.654 de 07/08/1877",
+      "data": "1877-08-07",
+      "numero": "6654",
+      "urn": "urn:lex:br:federal:decreto:1877-08-07;6654",
+      "ementa": "CRIA O OFÍCIO DE ESCRIVÃO PRIVATIVO DO JUÍZO DOS FEITOS DA FAZENDA NAS PROVÍNCIAS DE MINAS GERAIS E PIAUÍ."
+    },
+    {
+      "senadoId": "410785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-08-07-6655",
+      "titulo": "Decreto nº 6.655 de 07/08/1877",
+      "data": "1877-08-07",
+      "numero": "6655",
+      "urn": "urn:lex:br:federal:decreto:1877-08-07;6655",
+      "ementa": "ELEVA O CAPITAL GARANTIDO A PEDRO H. WAKEN PARA ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DO CEARÁ-MIRIM, PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "577441",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6639",
+      "titulo": "Decreto nº 6.639 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6639",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6639",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 7% SOBRE O CAPITAL DE 100:000$000 AO TENENTE-C0RONEL CELESTINO DE OLIVEIRA OU Á COMPANHIA QUE ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇUCAR DE CANA, NO NÚCLEO COLONIAL NOVA-ITÁLIA, NO MUNICÍPIO DE MORRETES, PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "577489",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6651",
+      "titulo": "Decreto nº 6.651 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6651",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6651",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ DE SÁ HOLLANDA CAVALCANTE, PARA FABRICAR E VENDER COLEIRAS, PÊAS CABRESTOS E CORRENTES DE AÇO TEMPERADO."
+    },
+    {
+      "senadoId": "577465",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6645",
+      "titulo": "Decreto nº 6.645 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6645",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6645",
+      "ementa": "CONCEDE PRIVILÉGIO A DANIEL PEDRO FERRO CARDOSO PARA FABRICAR E VENDER O APARELHO DENOMINADO - SECADOR PNEUMÁTICO PELA CONDENSAÇÃO."
+    },
+    {
+      "senadoId": "577473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6647",
+      "titulo": "Decreto nº 6.647 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6647",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6647",
+      "ementa": "CONCEDE PRIVILÉGIO A RODRIGUES & OLIVEIRA, PARA FABRICAREM E VENDEREM CARROÇAS DESTINADAS AO TRANSPORTE D'AGUA."
+    },
+    {
+      "senadoId": "577433",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6637",
+      "titulo": "Decreto nº 6.637 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6637",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6637",
+      "ementa": "ALTERA ALGUMAS E CONSOLIDA TODAS AS CLÁUSULAS ANEXAS AOS DECRETOS NÚMERO 3.590 DE 17 DE JANEIRO DE 1866, NÚMERO 5.777 DE 28 DE OUTUBRO DE 1874 E NÚMERO 6.044 DE 27 DE NOVEMBRO DE 1875."
+    },
+    {
+      "senadoId": "577449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6641",
+      "titulo": "Decreto nº 6.641 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6641",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6641",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA - DESPENSA ECONOMICA - E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "410780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6653-a",
+      "titulo": "Decreto nº 6.653-A de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6653-a",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6653-a",
+      "ementa": "PRORROGA POR UM ANO O PRAZO MARCADO Á COMPANHIA DE NAVEGAÇÃO A VAPOR - CATARINENSE - PARA A APRESENTAÇÃO DE UM NOVO VAPOR."
+    },
+    {
+      "senadoId": "577493",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6652",
+      "titulo": "Decreto nº 6.652 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6652",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6652",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE SANTA ANA DO CATÚ, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "577445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6640",
+      "titulo": "Decreto nº 6.640 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6640",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6640",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO AO BACHAREL JOSÉ BALTHASAR DE ABREU CARDOSO SODRÉ PARA ORGANIZAR UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL NO MUNICÍPIO DE ITABORAI, PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "577453",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6642",
+      "titulo": "Decreto nº 6.642 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6642",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6642",
+      "ementa": "CONCEDE PERMISSÃO Á BOULIECK VIANNA & Cª PRA EXPLORAREM CAULIM NA ILHA DE PAQUETA."
+    },
+    {
+      "senadoId": "577477",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6648",
+      "titulo": "Decreto nº 6.648 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6648",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6648",
+      "ementa": "CONCEDE PRIVILÉGIO A MIGUEL ALAMIR BAGLIONI PARA O APARELHO DE SUA INVENÇÃO, DENOMINADO - CLARIFICADOR HERMÉTICO."
+    },
+    {
+      "senadoId": "577485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6650",
+      "titulo": "Decreto nº 6.650 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6650",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6650",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ FREDERICO DE FREITAS JUNIOR E MARCOS CHRISTINO FLORAVANTE PATRULHANO PARA FÁBRICA E VENDA DO ADUBO VEGETO-ANIMAL PORTÁTIL."
+    },
+    {
+      "senadoId": "577437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6638",
+      "titulo": "Decreto nº 6.638 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6638",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6638",
+      "ementa": "ALTERA ALGUMAS E CONSOLIDA AS CLÁUSULAS ANEXAS AOS DECRETOS NÚMERO 5.672 DE 17 DE JUNHO DE 1874 E NÚMERO 6.043 DE 27 DE NOVEMBRO DE 1875."
+    },
+    {
+      "senadoId": "577469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6646",
+      "titulo": "Decreto nº 6.646 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6646",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6646",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ LEITE DA CUNHA BASTOS PARA O APARELHO DE SUA INVENÇÃO DENOMINADO - TRATOR MECÂNICO."
+    },
+    {
+      "senadoId": "577461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6644",
+      "titulo": "Decreto nº 6.644 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6644",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6644",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE TRANSPORTE URBANOS DA BAHIA E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "577457",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6643",
+      "titulo": "Decreto nº 6.643 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6643",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6643",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA SOCIEDADE - CAMPISTA DE AGRICULTURA - E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "577497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6653",
+      "titulo": "Decreto nº 6.653 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6653",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6653",
+      "ementa": "CONCEDE PRIVILÉGIO A MIGUEL ALAMIR BAGLIONI, PARA O APARELHO DE SUA INVENÇÃO DENOMINADO - GEYSER THERMAL E VAPORIZADOR PNEUMODINÂMICO."
+    },
+    {
+      "senadoId": "577481",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-31-6649",
+      "titulo": "Decreto nº 6.649 de 31/07/1877",
+      "data": "1877-07-31",
+      "numero": "6649",
+      "urn": "urn:lex:br:federal:decreto:1877-07-31;6649",
+      "ementa": "CONCEDE PRIVILÉGIO A MANOEL FRANCISCO DE CASTRO E NASCIMENTO PARA O APARELHO DE SUA INVENÇÃO, DENOMINADO - APANHADOR DE CAFÉ."
+    },
+    {
+      "senadoId": "577429",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-26-6636",
+      "titulo": "Decreto nº 6.636 de 26/07/1877",
+      "data": "1877-07-26",
+      "numero": "6636",
+      "urn": "urn:lex:br:federal:decreto:1877-07-26;6636",
+      "ementa": "FIRMA A INTELIGÊNCIA DO ARTIGO 16 PRINCÍPIO DO DECRETO NÚMERO 6.384 DE 30 DE NOVEMBRO DE 1876."
+    },
+    {
+      "senadoId": "577425",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-26-6635",
+      "titulo": "Decreto nº 6.635 de 26/07/1877",
+      "data": "1877-07-26",
+      "numero": "6635",
+      "urn": "urn:lex:br:federal:decreto:1877-07-26;6635",
+      "ementa": "ALTERA A DISPOSIÇÃO DOS ARTIGOS 1º E 2º, PARÁGRAFOS 1º, 2º E 3º, DO DECRETO NÚMERO 6.132 DE 4 DE MARÇO DE 1876."
+    },
+    {
+      "senadoId": "577417",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-18-6633",
+      "titulo": "Decreto nº 6.633 de 18/07/1877",
+      "data": "1877-07-18",
+      "numero": "6633",
+      "urn": "urn:lex:br:federal:decreto:1877-07-18;6633",
+      "ementa": "AUTORIZA A COMPANHIA - ESTRADA DE FERRO LEOPOLDINA -A A ELEVAR O SEU CAPITAL."
+    },
+    {
+      "senadoId": "577413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-18-6632",
+      "titulo": "Decreto nº 6.632 de 18/07/1877",
+      "data": "1877-07-18",
+      "numero": "6632",
+      "urn": "urn:lex:br:federal:decreto:1877-07-18;6632",
+      "ementa": "CONSIDERA JUSTIFICADO O CASO DE FORÇA MAIOR QUE ORIGINOU O EXCESSO DO PRAZO MARCADO PARA A CONCLUSÃO DA VIAGEM REDONDA, COMEÇADA NO DIA 26 DE JANEIRO DESTE ANO PELO VAPOR PRESIDENTE."
+    },
+    {
+      "senadoId": "577421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-18-6634",
+      "titulo": "Decreto nº 6.634 de 18/07/1877",
+      "data": "1877-07-18",
+      "numero": "6634",
+      "urn": "urn:lex:br:federal:decreto:1877-07-18;6634",
+      "ementa": "APROVA A ALTERAÇÃO PROPOSTA AO ARTIGO 48 DOS ESTATUTOS DA SOCIEDADE UNIÃO FUNERÁRIA PRIMEIRO DE JULHO."
+    },
+    {
+      "senadoId": "577361",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6619",
+      "titulo": "Decreto nº 6.619 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6619",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6619",
+      "ementa": "FIXA A INTELIGÊNCIA DO ARTIGO 44 DOS ESTATUTOS DA COMPANHIA-ARGOS FLUMINENSE."
+    },
+    {
+      "senadoId": "577385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6625",
+      "titulo": "Decreto nº 6.625 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6625",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6625",
+      "ementa": "PRORROGA O PRAZO CONCEDITO AO DR. JORGE SÃO BARNSLEY E OUTROS PARA A MEDIÇÃO DE DATAS MINERAIS  NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "577334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6612",
+      "titulo": "Decreto nº 6.612 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6612",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6612",
+      "ementa": "TRANSFERE AOS FILHOS DO FINADO MANOEL ANTONIO DE ARAUJO GUIMARÃES OS DIREITOS CONSTANTES DO DECRETO NÚMERO 4.692 DE 14 DE FEVEREIRO DE 1871."
+    },
+    {
+      "senadoId": "577409",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6631",
+      "titulo": "Decreto nº 6.631 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6631",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6631",
+      "ementa": "MARCA O ORDENADO ANUAL DE 180$000 AO CARCEREIRO DA CADEIA DA VILA DE PEDRA BRANCA, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "577369",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6621",
+      "titulo": "Decreto nº 6.621 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6621",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6621",
+      "ementa": "PRORROGA NOVAMENTE OS PRAZOS MARCADOS NO ARTIGOS 42 DOS ESTATUTOS DA COMPANHIA ZOOTECNICA."
+    },
+    {
+      "senadoId": "410757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6606",
+      "titulo": "Decreto nº 6.606 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6606",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6606",
+      "ementa": "CONCEDE PRIVILÉGIO A BARTHOLOMEU DUMAS PARA O APARELHO DE SUA INVENÇÃO DENOMINADDO-REGISTRADOR DE RONDS."
+    },
+    {
+      "senadoId": "577373",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6622",
+      "titulo": "Decreto nº 6.622 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6622",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6622",
+      "ementa": "ALTERA A DISPOSIÇÃO DO ARTIGO 4º DO DECRETO NÚMERO 6.130 DO 1º DE MARÇO DE 1876."
+    },
+    {
+      "senadoId": "577393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6627",
+      "titulo": "Decreto nº 6.627 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6627",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6627",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA - THE DACCA TWIST COMPANY LIMITED - DE MANCHESTER, PARA ABRIR UM AGENCIA NA PRAÇA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "410745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6603",
+      "titulo": "Decreto nº 6.603 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6603",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6603",
+      "ementa": "CONCEDE PRIVILÉGIO A DANIEL PEDRO FERRO CARDOSO E JOHN SHERRINGTON PARA O APARELHO DE SUA INVENÇÃO DESTINADO A SECAR O CAFÉ."
+    },
+    {
+      "senadoId": "577365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6620",
+      "titulo": "Decreto nº 6.620 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6620",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6620",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA FERRO-CARRIL DO CEARÁ, E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "410737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6601",
+      "titulo": "Decreto nº 6.601 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6601",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6601",
+      "ementa": "CONCEDE PRIVILÉGIO A JOAQUIM FERREIRA ROMARIZ PARA PREPARAR O LÍQUIDO DE SUA INVENÇÃO, DESTINADO A EXTINGUIR O CUPIM E OUTROS INSETOS."
+    },
+    {
+      "senadoId": "577389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6626",
+      "titulo": "Decreto nº 6.626 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6626",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6626",
+      "ementa": "CONCEDE PERMISSÃO A MANOEL GONÇALVES DA ROSA E VALENTIM ANTONIO DE SOUZA PARA LAVRAR JAZIDAS DE FERRO E OUTROS MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "577338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6613",
+      "titulo": "Decreto nº 6.613 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6613",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6613",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA ASSOCIAÇÃO DE SEGURO MÚTUO - PROGRESSO - E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "410769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6609",
+      "titulo": "Decreto nº 6.609 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6609",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6609",
+      "ementa": "CONCEDE PRIVILÉGIO A MANOEL JOAQUIM MOREIRA & COMP. PARA A MÁQUINA DE DESCASCAR CAFÉ DENOMINADA-AMERICANA."
+    },
+    {
+      "senadoId": "410749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6604",
+      "titulo": "Decreto nº 6.604 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6604",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6604",
+      "ementa": "CONCEDE PRIVILÉGIO A JOAQUIM RIBEIRO PEDROSO JUNIOR, PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A BENEFICIAR O CAFÉ."
+    },
+    {
+      "senadoId": "410765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6608",
+      "titulo": "Decreto nº 6.608 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6608",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6608",
+      "ementa": "CONCEDE PRIVILÉGIO A ROBERTO DINES BRADLEY PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A PRODUZIR UM GAZ MOTOR."
+    },
+    {
+      "senadoId": "410761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6607",
+      "titulo": "Decreto nº 6.607 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6607",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6607",
+      "ementa": "CONCEDE PRIVILÉGIO A ALFREDO COMES NETO PARA OS CARROS DE SUA INVENÇÃO DESTINADOS AO TRANSPORTE DE PASSAGEIROS."
+    },
+    {
+      "senadoId": "577342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6614",
+      "titulo": "Decreto nº 6.614 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6614",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6614",
+      "ementa": "AUTORIZA A COMPANHIA - ESTRADA DE FERRO DO NATAL Á NOVA-CRUZ - PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "577405",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6630",
+      "titulo": "Decreto nº 6.630 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6630",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6630",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE PACATUBA, NA PROVINCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "577397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6628",
+      "titulo": "Decreto nº 6.628 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6628",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6628",
+      "ementa": "APROVA A REFORMA DE ALGUNS ARTIGOS DOS ESTATUTOS DA COMPANHIA UNIÃO MERCANTIL."
+    },
+    {
+      "senadoId": "577346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6615",
+      "titulo": "Decreto nº 6.615 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6615",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6615",
+      "ementa": "CONCEDE PERMISSÃO A ERNESTO GERMACK POSSOLO E ANTONIO JUSTINIANO DE FREITAS PARA EXPLORAREM MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "410773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6610",
+      "titulo": "Decreto nº 6.610 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6610",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6610",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A FRANCISCO RAIMUNDO LUIZ DOS SANTOS E OUTROS PARA A EXPLORAÇÃO DE JAZIDAS MINERAIS NO MUNICÍPIO DE SÃO JOSE D'EL-REI, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "577377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6623",
+      "titulo": "Decreto nº 6.623 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6623",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6623",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DE MAIS 95 METROS LINEARES DE TESTADA E 40 DE FUNDO DO TERRENO QUE EXISTE NA RUA DA RELAÇÃO EM SEGUIMENTO DO TERRENO JÁ DESAPROPRIADO PELO DECRETO NÚMERO 5.180 DE 16 DE DEZEMBRO DE 1872."
+    },
+    {
+      "senadoId": "410753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6605",
+      "titulo": "Decreto nº 6.605 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6605",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6605",
+      "ementa": "CONCEDE PRIVILÉGIO A BERNARDINO CORRÊA DE MATOS PARA A MÁQUINA DE SUA INVENÇÃO DENOMINADA MARAVILHA."
+    },
+    {
+      "senadoId": "577330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6611",
+      "titulo": "Decreto nº 6.611 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6611",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6611",
+      "ementa": "CONCEDE PERMISSÃO A EDUARDO CARLOS RODRIGUES DE VASCONCELOS PARA EXPLORAR MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "577401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6629",
+      "titulo": "Decreto nº 6.629 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6629",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6629",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA PRODUTORA DE CERVEJA NACIONAL E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "577381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6624",
+      "titulo": "Decreto nº 6.624 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6624",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6624",
+      "ementa": "TRANSFERE PARA O MINISTÉRIO DO IMPÉRIO O IMPERIAL OBSERVATÓRIO ASTRONÔMICO."
+    },
+    {
+      "senadoId": "577354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6617",
+      "titulo": "Decreto nº 6.617 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6617",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6617",
+      "ementa": "CONCEDE PERMISSÃO A DOMINGOS VIEGAS LOPES PARA EXPLORAR MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "577350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6616",
+      "titulo": "Decreto nº 6.616 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6616",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6616",
+      "ementa": "PRORROGA POR DOIS O PRAZO DE UM ANO MARCADO NA CLAUSULA 4ª DAS QUE BAIXARAM COM O DECRETO NÚMERO 4.629 DE 28 DE NOVEMBRO DE 1870."
+    },
+    {
+      "senadoId": "410741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6602",
+      "titulo": "Decreto nº 6.602 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6602",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6602",
+      "ementa": "CONCEDE PRIVILÉGIO A VICENTE CYRILLO RODRIGUES DE CASTRO, PARA A MÁQUINA DE SUA INVENÇÃO DENOMINADA - DESCASCADOR POLIDOR."
+    },
+    {
+      "senadoId": "410733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-07-04-6600",
+      "titulo": "Decreto nº 6.600 de 04/07/1877",
+      "data": "1877-07-04",
+      "numero": "6600",
+      "urn": "urn:lex:br:federal:decreto:1877-07-04;6600",
+      "ementa": "CONCEDE PRIVILÉGIO A BERNARDO MORELLY CHAVES PARA A MÁQUINA DE SUA INVENÃO DESTINADA A REFINAR AÇÚCAR."
+    },
+    {
+      "senadoId": "410725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6598",
+      "titulo": "Decreto nº 6.598 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6598",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6598",
+      "ementa": "AUTORIZA A SUBSTITUIÇÃO DA CLÁUSULA NONA DA CONCESSÃO FEITA Á COMPANHIA AÇUCAREIRA DE PORTO FELIZ PELO DECRETO NÚMERO 6355 DE 11 DE       OUTUBRO DE 1875."
+    },
+    {
+      "senadoId": "410721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6597",
+      "titulo": "Decreto nº 6.597 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6597",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6597",
+      "ementa": "ACEITA A DESISTÊNCIA QUE FAZ O DOUTOR DANIEL PEDRO FERRO CARDOSO DA CONCESSÃO CONSTANTE DO DECRETO NÚEMRO 6483 DE 18 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "410705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6593",
+      "titulo": "Decreto nº 6.593 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6593",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6593",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DA ESTRADA DO RIO VERDE, NA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "410729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6599",
+      "titulo": "Decreto nº 6.599 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6599",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6599",
+      "ementa": "APROVA O PLANO DAS OBRAS DE ESGOTO DE ÁGUAS PLUVIAIS DO 1º E 2º DISTRITOS DA CIDADE DO RIO DE JANEIRO, ORGANIZADO PELA COMISSÃO INCUMBIDA DOS RESPECTIVOS ESTUDOS."
+    },
+    {
+      "senadoId": "410713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6595",
+      "titulo": "Decreto nº 6.595 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6595",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6595",
+      "ementa": "ALTERA A CLÁUSULA 3ª, § 1º, DAS ANEXAS AO DECRETO NÚMERO 5952 DE 23 DE JUNHO DE 1875."
+    },
+    {
+      "senadoId": "410701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6592",
+      "titulo": "Decreto nº 6.592 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6592",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6592",
+      "ementa": "PRORROGA POR MAIS SEIS MESES AS DISPOSIÇÕES DOS DECRETOS SUSPENDENDO A COBRANÇA DOS DIREITOS DE CONSUMO DO GADO VACUM E LANIGERO IMPORTADO NO IMPÉRIO."
+    },
+    {
+      "senadoId": "410709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6594",
+      "titulo": "Decreto nº 6.594 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6594",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6594",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "410697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6591",
+      "titulo": "Decreto nº 6.591 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6591",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6591",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE PROTETORA DOS ARTISTAS DRAMÁTICOS."
+    },
+    {
+      "senadoId": "410717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-27-6596",
+      "titulo": "Decreto nº 6.596 de 27/06/1877",
+      "data": "1877-06-27",
+      "numero": "6596",
+      "urn": "urn:lex:br:federal:decreto:1877-06-27;6596",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA INDUSTRIAL FLUMINENSE."
+    },
+    {
+      "senadoId": "410693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-23-6590",
+      "titulo": "Decreto nº 6.590 de 23/06/1877",
+      "data": "1877-06-23",
+      "numero": "6590",
+      "urn": "urn:lex:br:federal:decreto:1877-06-23;6590",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO DE SOCORROS MÚTUOS ` FILANTROPIA E ÓRDEM ´."
+    },
+    {
+      "senadoId": "410689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-23-6589",
+      "titulo": "Decreto nº 6.589 de 23/06/1877",
+      "data": "1877-06-23",
+      "numero": "6589",
+      "urn": "urn:lex:br:federal:decreto:1877-06-23;6589",
+      "ementa": "SEPARA DO TERMO DE ATALÁIA O DE ASSEMBLÉA, NA PROVÍNCIA DOS ALAGOAS, E CRIA NESTE O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "410685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-23-6588",
+      "titulo": "Decreto nº 6.588 de 23/06/1877",
+      "data": "1877-06-23",
+      "numero": "6588",
+      "urn": "urn:lex:br:federal:decreto:1877-06-23;6588",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE NOVA-CRUZ, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "410682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-06-23-6587",
+      "titulo": "Decreto nº 6.587 de 23/06/1877",
+      "data": "1877-06-23",
+      "numero": "6587",
+      "urn": "urn:lex:br:federal:decreto:1877-06-23;6587",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DO - BANCO HIPOTECARIO E COMÉRCIAL DO MARANHÃO -  E APROVA, COM MODIFICAÇÕES, OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "410670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-30-6584",
+      "titulo": "Decreto nº 6.584 de 30/05/1877",
+      "data": "1877-05-30",
+      "numero": "6584",
+      "urn": "urn:lex:br:federal:decreto:1877-05-30;6584",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE CINTRA, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "410666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-30-6583",
+      "titulo": "Decreto nº 6.583 de 30/05/1877",
+      "data": "1877-05-30",
+      "numero": "6583",
+      "urn": "urn:lex:br:federal:decreto:1877-05-30;6583",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE UNIÃO BENEFICENTE COMÉRCIO E ARTES."
+    },
+    {
+      "senadoId": "410674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-30-6585",
+      "titulo": "Decreto nº 6.585 de 30/05/1877",
+      "data": "1877-05-30",
+      "numero": "6585",
+      "urn": "urn:lex:br:federal:decreto:1877-05-30;6585",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE CINTRA, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "410662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-30-6582",
+      "titulo": "Decreto nº 6.582 de 30/05/1877",
+      "data": "1877-05-30",
+      "numero": "6582",
+      "urn": "urn:lex:br:federal:decreto:1877-05-30;6582",
+      "ementa": "PROMULGA A CONVENÇÃO SOBRE ATRIBUIÇÕES CONSULARES, CELEBRADA EM 6 DE AGOSTO DE 1876 ENTRE O BRASIL E A ITÁLIA."
+    },
+    {
+      "senadoId": "410678",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-30-6586",
+      "titulo": "Decreto nº 6.586 de 30/05/1877",
+      "data": "1877-05-30",
+      "numero": "6586",
+      "urn": "urn:lex:br:federal:decreto:1877-05-30;6586",
+      "ementa": "APROVA COM ALTERAÇÕES OS ESTATUTOS DA COMPANHIA ` MONTE-PIO AGRÍCOLA ´ E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "410658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-25-6581",
+      "titulo": "Decreto nº 6.581 de 25/05/1877",
+      "data": "1877-05-25",
+      "numero": "6581",
+      "urn": "urn:lex:br:federal:decreto:1877-05-25;6581",
+      "ementa": "PROMULGA O ATO DIPLOMÁTICO DE ADESÃO DO BRASIL AO TRATADO CELEBRADO EM BERNA A 9 DE OUTUBRO DE 1874 SOBRE A CRIAÇÃO DE UMA UNIÃO GERAL DOS CORREIOS."
+    },
+    {
+      "senadoId": "410654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-21-6580",
+      "titulo": "Decreto nº 6.580 de 21/05/1877",
+      "data": "1877-05-21",
+      "numero": "6580",
+      "urn": "urn:lex:br:federal:decreto:1877-05-21;6580",
+      "ementa": "ALTERA A CLÁUSULA 24ª DO DECRETO NÚMERO 5126 DE 30 DE OUTUBRO DE 1872."
+    },
+    {
+      "senadoId": "574614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6574",
+      "titulo": "Decreto nº 6.574 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6574",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6574",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DO TRAIRI, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "574578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6565",
+      "titulo": "Decreto nº 6.565 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6565",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6565",
+      "ementa": "PERMITE À COMPANHIA ` ESTRADA DE FERRO DE CAMPOE A CARANGOLA ´ QUE PROLONGUE O RAMAL DE ITABAPOANA ATÉ O RIO ITAPEMIRIM, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "574602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6571",
+      "titulo": "Decreto nº 6.571 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6571",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6571",
+      "ementa": "CONCEDE PRIVILÉGIO A ERNESTO MERLIN E EMILIO GAUBERT PARA A MÁQUINA QUE INVENTARAM A FIM DE FURAR PEDRA."
+    },
+    {
+      "senadoId": "574574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6564",
+      "titulo": "Decreto nº 6.564 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6564",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6564",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ` CLUB BENEFICENTE DOS GUARDA-LIVROS ´."
+    },
+    {
+      "senadoId": "410646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6578",
+      "titulo": "Decreto nº 6.578 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6578",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6578",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE PASSA-QUATRO, HOJE CHRISTINA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "574586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6567",
+      "titulo": "Decreto nº 6.567 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6567",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6567",
+      "ementa": "CONCEDE PRIVILÉGIO A GEORGES LEONEL LECLANCHÉ, PARA INTRODUZIR NO IMPÉRIO O NOVO PROCESSO DE FABRICAÇÃO DE PÓLOS DESPOLARISADORES."
+    },
+    {
+      "senadoId": "574606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6572",
+      "titulo": "Decreto nº 6.572 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6572",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6572",
+      "ementa": "CONCEDE PRIVILÉGIO A ERNESTO MELIN E EMILIO GARBERT PARA A MÁQUINA QUE INVENTARAM COM O FIM DE QUEBRAR PEDRA EM PEQUENOS PEDAÇOS."
+    },
+    {
+      "senadoId": "574610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6573",
+      "titulo": "Decreto nº 6.573 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6573",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6573",
+      "ementa": "CONCEDE PRIVILÉGIO A ERNESTO MELIN E EMILIO GARBERT PARA A MÁQUINA DE SUA INVENÇÃO, DESTINADA A CORTAR PEDRA PARA PARALELIPÍPEDOS."
+    },
+    {
+      "senadoId": "574618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6575",
+      "titulo": "Decreto nº 6.575 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6575",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6575",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DO TRAIRI, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "574594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6569",
+      "titulo": "Decreto nº 6.569 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6569",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6569",
+      "ementa": "CONCEDE PRIVILÉGIO A GEORGES LEONEL LECLANCHÉ PARA INTRODUZIR NO IMPÉRIO O NOVO GERADOR DE ELECTRICIDADE DINÂMICA."
+    },
+    {
+      "senadoId": "410650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6579",
+      "titulo": "Decreto nº 6.579 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6579",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6579",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE CHRISTINA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "574598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6570",
+      "titulo": "Decreto nº 6.570 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6570",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6570",
+      "ementa": "CONCEDE PRIVILÉGIO A ERNESTO MERLIN E EMILIO GAUBERT, PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A QUEBRAR PEDRAS EM GRANDES PEDAÇOS."
+    },
+    {
+      "senadoId": "574582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6566",
+      "titulo": "Decreto nº 6.566 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6566",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6566",
+      "ementa": "APROVA OS PLANOS E TRAÇADO DA LINHA DE CARRIS DENOMINADA ` DA COPACABANA `, E PRORROGA POR TRÊS MESES O PRAZO PARA O COMEÇO DAS RESPECTIVAS OBRAS."
+    },
+    {
+      "senadoId": "574590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6568",
+      "titulo": "Decreto nº 6.568 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6568",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6568",
+      "ementa": "CONCEDE PROVILÉGIO A ANTÔNIO PINHEIRO DE AGUIAR PARA FABRICAR E VENDER APARELHOS CULINÁRIOS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "574622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6576",
+      "titulo": "Decreto nº 6.576 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6576",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6576",
+      "ementa": "DECLARA A ENTRANCIA DA COMARCA DE PEDRO II, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "410642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-09-6577",
+      "titulo": "Decreto nº 6.577 de 09/05/1877",
+      "data": "1877-05-09",
+      "numero": "6577",
+      "urn": "urn:lex:br:federal:decreto:1877-05-09;6577",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DE PEDRO II, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "574562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6561",
+      "titulo": "Decreto nº 6.561 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6561",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6561",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA PROGRESSO DE SÃO JOÃO DO PRÍNCIPE, E AUTORIZA-A FUNCIONAR."
+    },
+    {
+      "senadoId": "574558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6560",
+      "titulo": "Decreto nº 6.560 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6560",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6560",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO MARCADO NA CLÁUSULA 5ª DO DECRETO NÚMERO 4916 DE 30 DE MARÇO DE 1872."
+    },
+    {
+      "senadoId": "574566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6562",
+      "titulo": "Decreto nº 6.562 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6562",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6562",
+      "ementa": "TRANSFERE PARA A CIDADE DE PELOTAS A SEDE DA COMPANHIA DE NAVEGAÇÃO A VAPOR SÃO PEDRO."
+    },
+    {
+      "senadoId": "574546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6557",
+      "titulo": "Decreto nº 6.557 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6557",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6557",
+      "ementa": "MANDA VIGORAR NOVAS INSTRUÇÕES PARA A ARMA DE ARTILHARIA."
+    },
+    {
+      "senadoId": "574550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6558",
+      "titulo": "Decreto nº 6.558 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6558",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6558",
+      "ementa": "CRIA MAIS UM LUGAR DE JUIZ DE DIREITO NA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "574570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6563",
+      "titulo": "Decreto nº 6.563 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6563",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6563",
+      "ementa": "TRANSFERE A IGNACIO JOSÉ FERREIRA DE MOURA A CONCESSÃO FEITA AO DOUTOR ROBERTO LANDELL E OUTRO PARA A EXPLORAÇÃO DE MINERAIS NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "574554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-05-02-6559",
+      "titulo": "Decreto nº 6.559 de 02/05/1877",
+      "data": "1877-05-02",
+      "numero": "6559",
+      "urn": "urn:lex:br:federal:decreto:1877-05-02;6559",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO RAMAL DE ITABAPOANA, NA ESTRADA DE FERRO DE CAMPOS A CARANGOLA."
+    },
+    {
+      "senadoId": "574526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-24-6552",
+      "titulo": "Decreto nº 6.552 de 24/04/1877",
+      "data": "1877-04-24",
+      "numero": "6552",
+      "urn": "urn:lex:br:federal:decreto:1877-04-24;6552",
+      "ementa": "CONCEDE PRIVILÉGIO A SAMUEL BEAVEN PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A ARRANCAR TOCOS E RAIZES."
+    },
+    {
+      "senadoId": "574522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-24-6551",
+      "titulo": "Decreto nº 6.551 de 24/04/1877",
+      "data": "1877-04-24",
+      "numero": "6551",
+      "urn": "urn:lex:br:federal:decreto:1877-04-24;6551",
+      "ementa": "CONCEDE PEIVILÉGIO A SAMUEL BEAVEN PARA A MÁQUINA QUE INVENTOU A FIM DE RALAR MANDIOCA."
+    },
+    {
+      "senadoId": "574530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-24-6553",
+      "titulo": "Decreto nº 6.553 de 24/04/1877",
+      "data": "1877-04-24",
+      "numero": "6553",
+      "urn": "urn:lex:br:federal:decreto:1877-04-24;6553",
+      "ementa": "CONCEDE PRIVILÉGIO A SAMUEL BEAVEN PARA A MÁQUINA QUE INVENTOU COM O FIM DE DESPOLPAR E DESCASCAR CAFÉ E ARROZ."
+    },
+    {
+      "senadoId": "574534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-24-6554",
+      "titulo": "Decreto nº 6.554 de 24/04/1877",
+      "data": "1877-04-24",
+      "numero": "6554",
+      "urn": "urn:lex:br:federal:decreto:1877-04-24;6554",
+      "ementa": "CONCEDE A JOSÉ FERRARO PRIVILÉGIO PARA FABRICAR E VENDER LADRILHOS POR UM PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "574538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-24-6555",
+      "titulo": "Decreto nº 6.555 de 24/04/1877",
+      "data": "1877-04-24",
+      "numero": "6555",
+      "urn": "urn:lex:br:federal:decreto:1877-04-24;6555",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA ` EDIFICAÇÃO ECONÔMICA ´ E AUTORIZA A PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "574542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-24-6556",
+      "titulo": "Decreto nº 6.556 de 24/04/1877",
+      "data": "1877-04-24",
+      "numero": "6556",
+      "urn": "urn:lex:br:federal:decreto:1877-04-24;6556",
+      "ementa": "PRORROGA, POR DOIS ANOS, O PRAZO MARCADO AO DOUTOR JOÃO VATISTA LACAILLE PARA LAVRAR MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS NO MUNICÍPIO DE MARICÁ."
+    },
+    {
+      "senadoId": "574518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6550",
+      "titulo": "Decreto nº 6.550 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6550",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6550",
+      "ementa": "RESCINDE O CONTRATO CELEBRADO COM SAVINO TRIPOTI PARA A INTRODUÇÃO E ESTABELECIMENTO DE IMIGRANTES."
+    },
+    {
+      "senadoId": "574482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6541",
+      "titulo": "Decreto nº 6.541 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6541",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6541",
+      "ementa": "CONCEDE AUTORIZAÇÃO A FRANCISCO DE SAUZA CORRÊA ROCHA PARA ORGANIZAR UMA COMPANHIA COM A DENOMINAÇÃO DE COMPANHIA FLUMINENSE DE RAPÉ E TABACO BRASILEIRO DO AUTOR-CORRÊA ROCHA."
+    },
+    {
+      "senadoId": "574514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6549",
+      "titulo": "Decreto nº 6.549 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6549",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6549",
+      "ementa": "RESCINDE O CONTRATO CELEBRADO COM PEREIRA ALVES, BENDASZESKI & COMPANHIA PARA A INTRODUÇÃO E ESTABELECIMENTO DE IMIGRANTES."
+    },
+    {
+      "senadoId": "574478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6540",
+      "titulo": "Decreto nº 6.540 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6540",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6540",
+      "ementa": "CONCEDE PRIVILÉGIO A PAILE & FINE PARA EXTRAIR DIVERSOS PRODUTOS DA BATATA DOCE POR UM PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "574486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6542",
+      "titulo": "Decreto nº 6.542 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6542",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6542",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA LACTIFERA E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "574466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6537",
+      "titulo": "Decreto nº 6.537 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6537",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6537",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO A ILDEFONSO MOREIRA SÉRGIO E OUTROS, PROPRIETÁRIOS DA FÁBRICA DE REFINAÇÃO DE AÇÚCAR ` DOIS DE JULHO ´ PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FÁBRICO DE AÇÚCAR NA FREGUEZIA DE PIRAJÁ, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "574490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6543",
+      "titulo": "Decreto nº 6.543 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6543",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6543",
+      "ementa": "PRORROGA A AUTORIZAÇÃO CONCEDIDA A JOÃO DA COSTA NETO PARA LAVRAR MINAS DE ASFALTO NAS COMARCAS DE CAMAMÚ E ILHÉOS, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "574474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6539",
+      "titulo": "Decreto nº 6.539 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6539",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6539",
+      "ementa": "ALTERA O § 5º DA CLÁUSULA 3ª DO DECRETO NÚMERO 6259 DE 19 DE JULHO DE 1876."
+    },
+    {
+      "senadoId": "574506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6547",
+      "titulo": "Decreto nº 6.547 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6547",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6547",
+      "ementa": "AUTORIZA A COMPANHIA HAMBURGO MAGDEBURGO A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "574494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6544",
+      "titulo": "Decreto nº 6.544 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6544",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6544",
+      "ementa": "CONCEDE PERMISSÃO A JOSÉ PEREIRA DIAS E VENÂNCIO JOSÉ DA SILVA PARA EXPLORAREM ENXOFRE E OUTROS MINERAIS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "574458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6535",
+      "titulo": "Decreto nº 6.535 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6535",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6535",
+      "ementa": "MARCA O ORDENADO ANUAL DE CENTO E VINTE MIA RÉIS AO CARCEREIRO DA CADEIA DA VILA DE POUSO-ALTO, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "574470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6538",
+      "titulo": "Decreto nº 6.538 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6538",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6538",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO Á COMPANHIA ENGENHO CENTRAL DE CAPIVARI PARA SUBMETER Á APROVAÇÃO O PLANO E ORÇAMENTO DAS OBRAS PROJETADAS, DESENHOS DOS APARELHOS E DESCRIÇÃO DOS PROCESSOS EMPREGADOS."
+    },
+    {
+      "senadoId": "574502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6546",
+      "titulo": "Decreto nº 6.546 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6546",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6546",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA INDÚSTRIA E NAVEGAÇÃO DO PÍUNA."
+    },
+    {
+      "senadoId": "574498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6545",
+      "titulo": "Decreto nº 6.545 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6545",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6545",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA EDIFICADORA DA BAHIA, E AUTORIZA-A PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "574462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6536",
+      "titulo": "Decreto nº 6.536 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6536",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6536",
+      "ementa": "CONCEDE PROVILÉGIO A SAMUEL BEABEN PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A EXTINGUIR FORMIGAS."
+    },
+    {
+      "senadoId": "574510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-04-13-6548",
+      "titulo": "Decreto nº 6.548 de 13/04/1877",
+      "data": "1877-04-13",
+      "numero": "6548",
+      "urn": "urn:lex:br:federal:decreto:1877-04-13;6548",
+      "ementa": "CONCEDE PRIVILÉGIO A LUIZ MÉKARSKY PARA USAR DE UM MOTOR DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-30-6533",
+      "titulo": "Decreto nº 6.533 de 30/03/1877",
+      "data": "1877-03-30",
+      "numero": "6533",
+      "urn": "urn:lex:br:federal:decreto:1877-03-30;6533",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE UNIÃO BENEFICENTE D. PEDRO II."
+    },
+    {
+      "senadoId": "410636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-30-6534",
+      "titulo": "Decreto nº 6.534 de 30/03/1877",
+      "data": "1877-03-30",
+      "numero": "6534",
+      "urn": "urn:lex:br:federal:decreto:1877-03-30;6534",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DA COMPANHIA - ` ESTRADA DE FERRO - MACAÉ E CAMPOS.´"
+    },
+    {
+      "senadoId": "410628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-30-6532",
+      "titulo": "Decreto nº 6.532 de 30/03/1877",
+      "data": "1877-03-30",
+      "numero": "6532",
+      "urn": "urn:lex:br:federal:decreto:1877-03-30;6532",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DE UMA SOCIEDADE ANÔNIMA DENOMINADA ` MÚTUA AUXILIAR ´, E APROVA COM MODIFICAÇÕES OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "410600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6525",
+      "titulo": "Decreto nº 6.525 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6525",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6525",
+      "ementa": "CONCEDE PRIVILÉGIO A JOHN WETSON PARA A MÁQUINA DE SUA INVENÇÃO, DESTINADA À EXTRAÇÃO DE OURO E DIAMANTES."
+    },
+    {
+      "senadoId": "410612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6528",
+      "titulo": "Decreto nº 6.528 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6528",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6528",
+      "ementa": "APROVA OS ESTATUTOS E AUTORIZA A FUNCIONAR A COMPANHIA - ATIVIDADE - , ORGANIZADA NA PROVÍNCIA DE SÃO PEDRO PARA O SERVIÇO DE REBOQUES."
+    },
+    {
+      "senadoId": "410592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6523",
+      "titulo": "Decreto nº 6.523 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6523",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6523",
+      "ementa": "RESOLVE DÚVIDAS SOBRE A INTELIGÊNCIA DO DECRETO 5449 DE 10 DE DEZEMBRO DE 1873, QUE MARCOU OS LIMITES DA NOVA PARÓQUIA DE NOSSA SENHORA DA CONCEIÇÃO DO ENGENHO NOVO."
+    },
+    {
+      "senadoId": "410620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6530",
+      "titulo": "Decreto nº 6.530 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6530",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6530",
+      "ementa": "PRORROGA O PRAZO D FURAÇÃO DA COMPANHIA DE DESOBSTRUÇÃO DA FOZ DO RIO SÃO GONÇALO, NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "410608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6527",
+      "titulo": "Decreto nº 6.527 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6527",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6527",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO JOSÉ PEREIRA DE SÃO THIAGO PARA O PROCESSO DE SUA INVENÇÃO DESTINADO A COLORIR LÃ."
+    },
+    {
+      "senadoId": "410596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6524",
+      "titulo": "Decreto nº 6.524 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6524",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6524",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA ASSOCIAÇÃO DRAMÁTICA E BENEFICENTE DOS ARTISTAS PORTUGUESES."
+    },
+    {
+      "senadoId": "410588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6522",
+      "titulo": "Decreto nº 6.522 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6522",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6522",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA- PREVIDÊNCIA E ECONOMIA- E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "410584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6521",
+      "titulo": "Decreto nº 6.521 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6521",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6521",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO AO BARÃO DE ARACAJU, FRANCISCO CORREA DANTAS E FRANCISCO LUCINO DO PRADO PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FÁBRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DA DIVINA PASTORA, PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "410576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6519",
+      "titulo": "Decreto nº 6.519 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6519",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6519",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE PARTICULAR RECREIO DRAMÁTICO RIACHUELENSE."
+    },
+    {
+      "senadoId": "410549",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6512",
+      "titulo": "Decreto nº 6.512 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6512",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6512",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA `A NACIONAL ´ PARA FUNDAR NESTA CORTE UMA SOCIEDADE DE SEGUROS MÚTUOS CONTRA O RISCO DE MORTE, SOB O TÍTULO ` A EQUITATIVA BRASILEIRA ´, E APROVA, COM MODIFICAÇÕES, NÃO SÓ OS RESPECTIVOS ESTATUTOS, COMO A REFORMA DE ALGUMAS DISPOSIÇÕES DOS DA MESMA COMPANHIA."
+    },
+    {
+      "senadoId": "410557",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6514",
+      "titulo": "Decreto nº 6.514 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6514",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6514",
+      "ementa": "PERMITE QUE SEJA TRANSFERIDA PARA LONDRES A SEDE DA COMPANHIA TELEGRÁFICA PLATINO-BRASILEIRA."
+    },
+    {
+      "senadoId": "410564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6516",
+      "titulo": "Decreto nº 6.516 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6516",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6516",
+      "ementa": "AUTORIZA A JOSÉ MÁXIMO NOGUEIRA PENIDO PARA MINERAR OURO NO RIO SANTO ANTÔNIO, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "410624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6531",
+      "titulo": "Decreto nº 6.531 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6531",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6531",
+      "ementa": "PRORROGA O PRAZO DO PRIVILÉGIO CONCEDIDO A ANTÔNIO AURÉLIO ÁLVARES DA SILVA PARA USAR DE UM LÍQUIDO DESTINADO A CLARIFICAR O AÇÚCAR."
+    },
+    {
+      "senadoId": "410572",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6518",
+      "titulo": "Decreto nº 6.518 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6518",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6518",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA-FERRO-CARRIL DE CAMPOS-E AUTORIZA-A PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "410580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6520",
+      "titulo": "Decreto nº 6.520 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6520",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6520",
+      "ementa": "APLICA AO SERVIÇO DO PLANO AUTOMATOR DA EMPRESA DE CARRIS DE FERRO DENOMINADA ` DE SANTA TEREZA ´ O REGULAMENTO DE 26 DE ABRIL DE 1857."
+    },
+    {
+      "senadoId": "410604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6526",
+      "titulo": "Decreto nº 6.526 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6526",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6526",
+      "ementa": "CONCEDE A JOSÉ CARLOS DE ALAMBARY LUZ PRIVILÉGIO PARA O APARELHO DE SUA INVENÇÃO DENOMINADO - CONCHILIADOR MECÂNICO."
+    },
+    {
+      "senadoId": "410568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6517",
+      "titulo": "Decreto nº 6.517 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6517",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6517",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO-SANEAMENTO DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "410553",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6513",
+      "titulo": "Decreto nº 6.513 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6513",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6513",
+      "ementa": "APROVA A REFORMA DE ALGUNS ARTIGOS DOS ESTATUTOS DO ` BANCO MERCANTIL DE SANTOS ´."
+    },
+    {
+      "senadoId": "410616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-13-6529",
+      "titulo": "Decreto nº 6.529 de 13/03/1877",
+      "data": "1877-03-13",
+      "numero": "6529",
+      "urn": "urn:lex:br:federal:decreto:1877-03-13;6529",
+      "ementa": "AUTORIZA JOÃO RODRIGUES LINS E EMILIO XAVIER SOBREIRA DE MELLO PARA ORGANIZAREM UMA COMPANHIA SOBRE A DENOMINAÇÃO DE - CONSTRUTORA MÚTUA E ECONÔMICA -, DESTINADA A CONSTRUIR PRÉDIOS, E APROVA OS RESPECTIVOS ESTATUTOS, COM ALTERAÇÕES."
+    },
+    {
+      "senadoId": "571239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6498",
+      "titulo": "Decreto nº 6.498 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6498",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6498",
+      "ementa": "CONCEDE PRIVILÉGIO A CÂNDIDO FRANCISCO FERREIRA PARA FABRICAR VÁLVULAS DE SUA INVENÇÃO, DESTINADAS A EXTRAIR AMOSTRAS DE CEREAIS E OUTROS GÊNEROS."
+    },
+    {
+      "senadoId": "410533",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6508",
+      "titulo": "Decreto nº 6.508 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6508",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6508",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO CONCEDIDO A MANOEL PINTO NOVAIS PARA ORGANIZAR UMA COMPANHIAS COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PAR O FÁBRICO DE AÇÚCAR, NA FREGUEZIA DE IGUAPE, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "410517",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6504",
+      "titulo": "Decreto nº 6.504 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6504",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6504",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTOINETETE FRAISANT PARA FABRICAR E VENDER CALÇADO ARTICULADO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410501",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6500",
+      "titulo": "Decreto nº 6.500 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6500",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6500",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA PREVIDÊNCIA DAS FAMÍLIAS."
+    },
+    {
+      "senadoId": "571235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6497",
+      "titulo": "Decreto nº 6.497 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6497",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6497",
+      "ementa": "CONCEDE PRIVILÉGIO AO DOUTOR MARCOLINO JOSÉ DE AVENA PARA FABRICAR E VENDER COLA SÓLIDA E LÍQUIDA E GELATINA ALIMENTÍCIA EXTRAÍDA DE OSSOS."
+    },
+    {
+      "senadoId": "410521",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6505",
+      "titulo": "Decreto nº 6.505 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6505",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6505",
+      "ementa": "CONCEDE PERMISSÃO A BENEDITO DE ALMEIDA TORRES PARA EXPLORAR OURO E OUTROS METAIS NAS TERRAS DA FAZENDA DE SANTA LUZIA, SITA NO MUNICÍPIO DA CAMPANHA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6496",
+      "titulo": "Decreto nº 6.496 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6496",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6496",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA - IGUAPENSE DE NAVEGAÇÃO A VAPOR DA RIBEIRA - E AUTORIZA-A PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "410525",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6506",
+      "titulo": "Decreto nº 6.506 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6506",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6506",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO AOS BARÕES DE CAMPO ALEGRE E DE GUARARAPES PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FÁBRICO DE AÇÚCAR, NO MUNICÍPIO DO CABO, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "410513",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6503",
+      "titulo": "Decreto nº 6.503 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6503",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6503",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ FERRARO PARA FABRICAR MÁRMORE E MOSAICO SEGUNDO O PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410509",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6502",
+      "titulo": "Decreto nº 6.502 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6502",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6502",
+      "ementa": "CONCEDE PRIVILÉGIO A RALPH C. DILLON PARA PREPARAR O SANGUE DO GADO, SEGUNDO O PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "410541",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6510",
+      "titulo": "Decreto nº 6.510 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6510",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6510",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO CHRYSÓSTOMO DE ARAÚJO PEREIRA E OUTROS PARA EXPLORAREM SILICATOS DE ALUMINIO NOS MUNICÍPIOS DE ANGRA DOS REIS E PARATI."
+    },
+    {
+      "senadoId": "571219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6493",
+      "titulo": "Decreto nº 6.493 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6493",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6493",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DE UMA SOCIEDADE ANÔNIMA INTITULADA ` BANCO COMERCIAL E HIPOTECÁRIO DO CEARÁ ´."
+    },
+    {
+      "senadoId": "571223",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6494",
+      "titulo": "Decreto nº 6.494 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6494",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6494",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA ASSOCIAÇÃO COMERCIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "571243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6499",
+      "titulo": "Decreto nº 6.499 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6499",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6499",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DA SOCIEDADE JOCKEY CLUB."
+    },
+    {
+      "senadoId": "410545",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6511",
+      "titulo": "Decreto nº 6.511 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6511",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6511",
+      "ementa": "CONCEDE AUTORIZAÇÃO A ANTÔNIO AUGUSTO TEXEIRA E JOSÉ JOAQUIM DE OLIVEIRA REIS PARA EXPLORAREM CARVÃO DE PEDRA E OUTROS MINERAIS NO RIO MAMBUCABA, MUNICÍPIOS DE ANGRA DOS REIS E PARATI, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "410537",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6509",
+      "titulo": "Decreto nº 6.509 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6509",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6509",
+      "ementa": "CONCEDE PRIVILÉGIO A THOMAZ NETTESHIP PARA INTRODUZIR NO IMPÉRIO O SISTEMA DE CALÇADAS DE MADEIRA DENOMINADO ` WRITE ´."
+    },
+    {
+      "senadoId": "571227",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6495",
+      "titulo": "Decreto nº 6.495 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6495",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6495",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA ASSOCIAÇÃO ` RIO DE JANEIRO ´ E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "410505",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6501",
+      "titulo": "Decreto nº 6.501 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6501",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6501",
+      "ementa": "DECLARA QUE ENTRE AS AGÊNCIAS QUE A COMPANHIA - THE GUARDIAN FIRE AND LIFE ASSURANCE LIMITED - TEM DE ESTABELECER, DEVE-SE COMPREENDER UMA NA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "410529",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-03-01-6507",
+      "titulo": "Decreto nº 6.507 de 01/03/1877",
+      "data": "1877-03-01",
+      "numero": "6507",
+      "urn": "urn:lex:br:federal:decreto:1877-03-01;6507",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO AO DOUTOR ANTÔNIO FREIRE DE MATOS BARRETO E JOSÉ VIEIRA BARRETO PARA ORGANIZAREM UMA COMPANHIA COM O FIM DE ESTABELECER UM ENGENHO CENTRAL PARA FÁBRICO DE AÇÚCAR DE CANA, NO MUNICÍPIO DE RIACHUELO PROVÍNCIA, DE SERGIPE."
+    },
+    {
+      "senadoId": "571207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6490",
+      "titulo": "Decreto nº 6.490 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6490",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6490",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DO RIO SANTO ANTÔNIO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6489",
+      "titulo": "Decreto nº 6.489 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6489",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6489",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DO RIO SANTO ANTÔNIO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571191",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6486",
+      "titulo": "Decreto nº 6.486 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6486",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6486",
+      "ementa": "CRIA O LUGAR DE AJUDANTE DE CARCEREIRO NA CADEIA DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "571199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6488",
+      "titulo": "Decreto nº 6.488 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6488",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6488",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PÚBLICO DA COMARCA DO CEARÁ-MIRIM, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "571195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6487",
+      "titulo": "Decreto nº 6.487 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6487",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6487",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DO CEARÁ-MIRIM, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "571211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6491",
+      "titulo": "Decreto nº 6.491 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6491",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6491",
+      "ementa": "REGULA A INSTALAÇÃO DAS COMARCAS."
+    },
+    {
+      "senadoId": "571215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-02-14-6492",
+      "titulo": "Decreto nº 6.492 de 14/02/1877",
+      "data": "1877-02-14",
+      "numero": "6492",
+      "urn": "urn:lex:br:federal:decreto:1877-02-14;6492",
+      "ementa": "ACEITA A DESISTÊNCIA QUE FAZ O ENGENHEIRO FÁBIO HOSTÍLIO DE MORAIS REGO DA CONCESSÃO QUE LHE FOI CONFERIDA PELO DECRETO NÚMERO 6424 DE 22 DE DEZEMBRO DE 1876."
+    },
+    {
+      "senadoId": "571187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-31-6485",
+      "titulo": "Decreto nº 6.485 de 31/01/1877",
+      "data": "1877-01-31",
+      "numero": "6485",
+      "urn": "urn:lex:br:federal:decreto:1877-01-31;6485",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE CERCLE SUISSE."
+    },
+    {
+      "senadoId": "571110",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6466",
+      "titulo": "Decreto nº 6.466 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6466",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6466",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO PINTO MOREIRA PARA FABRICAR E VENDER O APARELHO DE SUA INVENÇÃO, DESTINADO À LAVAGEM DE ROUPA."
+    },
+    {
+      "senadoId": "571086",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6460",
+      "titulo": "Decreto nº 6.460 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6460",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6460",
+      "ementa": "CONCEDE PRIVILÉGIO A FREDERICO LEYBOLD PARA A PREPARAÇÃO DE CARNE CONDENSADA."
+    },
+    {
+      "senadoId": "571138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6473",
+      "titulo": "Decreto nº 6.473 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6473",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6473",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO AURÉLIO ÁLVARES DA SILVA PARA USAR DE UM LÍQUIDO DESTINADO A CLARIFICAÇÃO DO AÇÚCAR."
+    },
+    {
+      "senadoId": "571122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6469",
+      "titulo": "Decreto nº 6.469 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6469",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6469",
+      "ementa": "CONCEDE PRIVILÉGIO A FELIPE LEONARDO PARA A EXTRAÇÃO DE FIBRAS TÊXTEIS."
+    },
+    {
+      "senadoId": "410486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6455",
+      "titulo": "Decreto nº 6.455 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6455",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6455",
+      "ementa": "MARCA O VENCIMENTO ANUAL DOS PROMOTORES PÚBLICOS DAS COMARCAS DE PASSOS E ITAMARANDIBA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6467",
+      "titulo": "Decreto nº 6.467 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6467",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6467",
+      "ementa": "CONCEDE PRIVILÉGIO A FRANCISCO PINTO BRANDÃO, PARA O PROCESSO DE SUA INVENÇÃO, DESTINADO A DESINFECTAR A AGUARDENTE DE CANA DE AÇÚCAR."
+    },
+    {
+      "senadoId": "571126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6470",
+      "titulo": "Decreto nº 6.470 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6470",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6470",
+      "ementa": "CONCEDE PRIVILÉGIO A SEVERINO LOURENÇO DA COSTA LEITE PARA USAR DO PROCESSO DE SUA INVENÇÃO DESTINADO A EXTRAIR FIBRAS TÊXTEIS DOS CIPÓS LACTACENTES E MALPIGHIÁCEOS."
+    },
+    {
+      "senadoId": "571178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6483",
+      "titulo": "Decreto nº 6.483 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6483",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6483",
+      "ementa": "CONCEDE GARANTIA DE JURO DE 7% SOBRE O CAPITAL DE 700:000$000 À COMPANHIA QUE O DOUTOR DANIEL PEDRO FERRO CARDOSO E ADÃO BENAION ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇÚCAR NO MUNICÍPIO DE IGARAPÉ-MIRIM, PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "571158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6478",
+      "titulo": "Decreto nº 6.478 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6478",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6478",
+      "ementa": "CONCEDE PRIVILÉGIO A CHARLES BIHEL PARA FABRICAR E VENDER MARMITAS DE ACAMPAMENTO, DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "571182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6484",
+      "titulo": "Decreto nº 6.484 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6484",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6484",
+      "ementa": "REFORMA A ESCOLA DE MAQUINISTAS DA ARMADA."
+    },
+    {
+      "senadoId": "410490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6456",
+      "titulo": "Decreto nº 6.456 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6456",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6456",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SÃO PEDRO DO CACHOEIRO, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "571142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6474",
+      "titulo": "Decreto nº 6.474 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6474",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6474",
+      "ementa": "CONCEDE PERMISSÃO A ERNESTO CÉSAR CARPINETTI PARA EXPLORAR OURO E OUTROS MINERAIS NO MUNICÍPIO DE AIURUOCA, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571102",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6464",
+      "titulo": "Decreto nº 6.464 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6464",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6464",
+      "ementa": "CONCEDE PRIVILÉGIO A JOAQUIM FERREIRA ROMARIZ PARA FABRICAR MASSA DESTINADA A EXTINÇÃO DA FORMIGA SAÚVA."
+    },
+    {
+      "senadoId": "410482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6454",
+      "titulo": "Decreto nº 6.454 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6454",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6454",
+      "ementa": "DECLARA ENTRÂNCIA DAS COMARCAS DE PASSOS E ITAMARANDIBA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "571166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6480",
+      "titulo": "Decreto nº 6.480 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6480",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6480",
+      "ementa": "DECLARA EMANCIPADA DO REGIME COLONIAL, PASSANDO AO DOMÍNIO DA LEGISLAÇÃO COMUM, A COLÔNIA SANTA MARIA DA SOLEDADE."
+    },
+    {
+      "senadoId": "410494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6457",
+      "titulo": "Decreto nº 6.457 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6457",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6457",
+      "ementa": "MARCA O VENCIMENTO ANUAL DO PROMOTOR PUBLICO DA COMARCA DE SÃO PEDRO DO CACHOEIRO, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "571130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6471",
+      "titulo": "Decreto nº 6.471 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6471",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6471",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA - UNIÃO MINEIRA - E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "571162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6479",
+      "titulo": "Decreto nº 6.479 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6479",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6479",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA AS ESCOLAS PÚBLICAS DE INSTRUÇÃO PRIMÁRIA DO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "571134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6472",
+      "titulo": "Decreto nº 6.472 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6472",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6472",
+      "ementa": "CONCEDE PRIVILÉGIO A MARCOS CHRISTINO FIORAVANTE PATRULHANO PARA UM PROPULSOR MECÂNICO DESTINADO AOS VEÍCULOS DE CONDUÇÃO."
+    },
+    {
+      "senadoId": "571090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6461",
+      "titulo": "Decreto nº 6.461 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6461",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6461",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO AUGUSTO DOS SANTOS LUZES PARA USAR DO APARELHO DESTINADO A LIMPAR OS TRILHOS DAS VIAS FÉRREAS E DESVIAR AS PESSOAS QUE NELES CAÍREM."
+    },
+    {
+      "senadoId": "571154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6477",
+      "titulo": "Decreto nº 6.477 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6477",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6477",
+      "ementa": "CONCEDE PRIVILÉGIO A MAURÍCIO BUSCHGENS E AO DOUTOR ADOLFO BEZERRA DE MENEZES PARA USAREM DE UM PROCESSO DESTINADO À CONSERVAÇÃO DAS CARNES VERDES."
+    },
+    {
+      "senadoId": "571150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6476",
+      "titulo": "Decreto nº 6.476 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6476",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6476",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO AUGUSTO DOS SANTOS LUZES PARA USAR DE UM APARELHO DESTINADO A INDICAR O NÚMERO DE PASSAGEIROS QUE ENTRAREM NOS VEÍCULOS DE CONDUÇÃO."
+    },
+    {
+      "senadoId": "571078",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6458",
+      "titulo": "Decreto nº 6.458 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6458",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6458",
+      "ementa": "PROMULGA A DECLARAÇÃO ENTRE O BRASIL E A ALEMANHA PARA A PROTEÇÃO DAS MARCAS DE FÁBRICA E COMÉRCIO."
+    },
+    {
+      "senadoId": "571174",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6482",
+      "titulo": "Decreto nº 6.482 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6482",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6482",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A DESAPROPRIAÇÃO DE PARTE DO TERRENO DA CHÁCARA SITA AO LARGO DO CATETE, DE QUE É PROPRIETÁRIO JOSÉ CÂNDIDO GOMES."
+    },
+    {
+      "senadoId": "571106",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6465",
+      "titulo": "Decreto nº 6.465 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6465",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6465",
+      "ementa": "CONCEDE PRIVILÉGIO A CARLOS DELAPLACE PARA USAR DO PROCESSO DESTINADO À CONSERVAÇÃO DAS CARNES VERDES."
+    },
+    {
+      "senadoId": "571082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6459",
+      "titulo": "Decreto nº 6.459 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6459",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6459",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ ALVES DE ARAUJO BARROSO PARA O SISTEMA DE FORNALHAS ECONÔMICAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "571170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6481",
+      "titulo": "Decreto nº 6.481 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6481",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6481",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA ASSOCIAÇÃO DOS GUARDA-LIVROS."
+    },
+    {
+      "senadoId": "571118",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6468",
+      "titulo": "Decreto nº 6.468 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6468",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6468",
+      "ementa": "CONCEDE PRIVILÉGIO A JONH COOKE PARA FABRICAR E VENDER A MÁQUINA DE SUA INVENÇÃO DESTINADA À LAVAGEM DO CAFÉ."
+    },
+    {
+      "senadoId": "571146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6475",
+      "titulo": "Decreto nº 6.475 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6475",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6475",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO PINTO MOREIRA PARA O APARELHO DE SUA INVENÇÃO DESTINADO A BRUNIR CAFÉ."
+    },
+    {
+      "senadoId": "571098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6463",
+      "titulo": "Decreto nº 6.463 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6463",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6463",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ MATOSO DUQUE-ESTRADA CÂMARA PARA CONSTRUÇÃO DE BANHEIROS FLUTUANTES."
+    },
+    {
+      "senadoId": "571094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1877-01-18-6462",
+      "titulo": "Decreto nº 6.462 de 18/01/1877",
+      "data": "1877-01-18",
+      "numero": "6462",
+      "urn": "urn:lex:br:federal:decreto:1877-01-18;6462",
+      "ementa": "CONCEDE PRIVILÉGIO A GUSTAVO HUGO ELSTE PARA FABRICAR E VENDER GUANO ARTIFICIAL, SEGUNDO O PROCESSO DE SUA INVENÇÃO."
+    }
+  ],
+  "pendencias": []
+}

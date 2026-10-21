@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-12-12-13369",
+  "titulo": "Lei nº 13.369 de 12/12/2016",
+  "data": "2016-12-12",
+  "fonte": "https://normas.leg.br/api/public/binario/124709aa-0ee0-4326-80d8-61da6026bf5b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-12-12;13369",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-12-12%3B13369&tipo_documento=maior-detalhe",
+  "sha256_dados": "db4d48b1b7c1cdac725b98714be6e8a991cef63d3b563ba314622f5786765df3",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:02.575Z",
+  "sha256_fonte": "503de3661c0689adb4bae3ab85bd77edc70d63b8d482bb7f5dde7931dcad5f57",
+  "sha256_markdown": "6cbfda3213893a7e509290f7bd4fdb2a2973df8694a4851df0870c75fd78218b"
+}

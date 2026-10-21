@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-03-26-13639",
+  "titulo": "Lei nº 13.639 de 26/03/2018",
+  "data": "2018-03-26",
+  "fonte": "https://normas.leg.br/api/public/binario/42df659c-6dec-4066-bd6a-d5a304cbf9e0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-03-26;13639",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-03-26%3B13639&tipo_documento=maior-detalhe",
+  "sha256_dados": "7e620358aa2a972d56013f4ec7b803fc9ca2f71040d49cb95821a414e07f46f7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:10.556Z",
+  "sha256_fonte": "c21681d8f8428ee7bb58f6fbdbf84402819bad227ccf99e747278f9b11b50bb1",
+  "sha256_markdown": "9028d9b9468e134c0f1ca1b3e7bb6dd9aaf1adde38777223b915785c3835e06c"
+}

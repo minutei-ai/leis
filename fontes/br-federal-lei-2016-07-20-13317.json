@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-07-20-13317",
+  "titulo": "Lei nº 13.317 de 20/07/2016",
+  "data": "2016-07-20",
+  "fonte": "https://normas.leg.br/api/public/binario/8455b810-8864-46fc-88ef-8a614febd3da/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-07-20;13317",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-07-20%3B13317&tipo_documento=maior-detalhe",
+  "sha256_dados": "fee983de0f9fa9c8783fb2a4be442051b6a37dd8af78d2b0566644a7467014fe",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:58:21.579Z",
+  "sha256_fonte": "524bb2bd2e73e90610c834c539fc693ce741fd4307f14416176685deda59068b",
+  "sha256_markdown": "058c79b61f07c31a755371dea5d18724f3f8628f4d09f9aacc43eebabd25f50b"
+}

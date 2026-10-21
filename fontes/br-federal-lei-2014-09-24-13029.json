@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-09-24-13029",
+  "titulo": "Lei nº 13.029 de 24/09/2014",
+  "data": "2014-09-24",
+  "fonte": "https://normas.leg.br/api/public/binario/4bbb3265-6ce8-48ee-87df-d6347637af77/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-09-24;13029",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-09-24%3B13029&tipo_documento=maior-detalhe",
+  "sha256_dados": "d43eea6d0e9b677628aae38ad69f46271cf10bb032c4e6c8e0ca00e1b070bdac",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:38.641Z",
+  "sha256_fonte": "11cdbc9ab8787ea93f1927682554ca32d087061937d742c7796cff1eabd95393",
+  "sha256_markdown": "eb9de8f05697a989f4d01d752c76b1a243b56705e961de20830f459c79cd30f6"
+}

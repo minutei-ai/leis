@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-12-22-13055",
+  "titulo": "Lei nº 13.055 de 22/12/2014",
+  "data": "2014-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/10ac3e53-0a46-4682-a458-b3b58eff730d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-12-22;13055",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-12-22%3B13055&tipo_documento=maior-detalhe",
+  "sha256_dados": "cc6adee5f60a486e04fb2fc5a968ba45b14b4eef826cfbe16c4fa82fd2d71bb1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:56.632Z",
+  "sha256_fonte": "ce9c04724bb27bd0c13ec166440e574341293d099c912c54a9850239f601a08d",
+  "sha256_markdown": "1ecc6fc39e0e5b7e758d506ff34b2746a80c3c21922f641a5b3f44608cdc73d5"
+}

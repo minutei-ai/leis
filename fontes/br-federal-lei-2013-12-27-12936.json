@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2013-12-27-12936",
+  "titulo": "Lei nº 12.936 de 27/12/2013",
+  "data": "2013-12-27",
+  "fonte": "https://normas.leg.br/api/public/binario/5a612473-94dc-4df3-b33b-2218e553047b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2013-12-27;12936",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2013-12-27%3B12936&tipo_documento=maior-detalhe",
+  "sha256_dados": "4928e42cc1ae7d1a8b0b6d829a060abb63f06d3eff3152e5820781adb867d870",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:06:17.170Z",
+  "sha256_fonte": "707ee500ca240fd1ae98c9e4143cc08b136496cb6212519e23ea023d578e3c8e",
+  "sha256_markdown": "71317b010421162c2de5b34bd017a5b57cc36d7490ea754ade393acf363d0220"
+}

@@ -1,0 +1,4109 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1901",
+  "tipo": "DEC",
+  "ano": 1901,
+  "coletado_em": "2026-10-21T08:51:31.502Z",
+  "normas": [
+    {
+      "senadoId": "404231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-31-4300",
+      "titulo": "Decreto nº 4.300 de 31/12/1901",
+      "data": "1901-12-31",
+      "numero": "4300",
+      "urn": "urn:lex:br:federal:decreto:1901-12-31;4300",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO EXTRAORDINÁRIO  DE 100:000$, OURO, PARA OCORRER ÀS DESPESAS COM A MISSÃO ESPECIAL QUE DEVE TRATAR DA QUESTÃO DE LIMITES COM A GUIANA INGLESA."
+    },
+    {
+      "senadoId": "404239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-31-4302",
+      "titulo": "Decreto nº 4.302 de 31/12/1901",
+      "data": "1901-12-31",
+      "numero": "4302",
+      "urn": "urn:lex:br:federal:decreto:1901-12-31;4302",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 132:101$461, PARA PAGAMENTO DE COTAS A EMPREGADOS DE ALFANDEGAS."
+    },
+    {
+      "senadoId": "404235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-31-4301",
+      "titulo": "Decreto nº 4.301 de 31/12/1901",
+      "data": "1901-12-31",
+      "numero": "4301",
+      "urn": "urn:lex:br:federal:decreto:1901-12-31;4301",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 2.954:500$332, PAPEL, E 2:676$445, OURO, PARA ATENDER AO PAGAMENTO DE DIVÍDAS DE EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "404227",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-30-4299",
+      "titulo": "Decreto nº 4.299 de 30/12/1901",
+      "data": "1901-12-30",
+      "numero": "4299",
+      "urn": "urn:lex:br:federal:decreto:1901-12-30;4299",
+      "ementa": "APROVA O CONTRATO PARA O ARRENDAMENTO PROVISÓRIO DA ESTRADA DE FERRO CENTRAL DA BAHIA."
+    },
+    {
+      "senadoId": "404223",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-30-4298",
+      "titulo": "Decreto nº 4.298 de 30/12/1901",
+      "data": "1901-12-30",
+      "numero": "4298",
+      "urn": "urn:lex:br:federal:decreto:1901-12-30;4298",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO CONSTANTE, DO DECRETO 1.292, DE 17 DE JANEIRO DE 1891, PARA TRANSMISSÃO DE NOTÍCIAS COMERCIAIS NESTA CAPITAL, REVALIDADA, AMPLIADA E TRANSFERIDA PARA JOHN JONES, POR DECRETO 3.442, DE 16 DE OUTUBRO DE 1899"
+    },
+    {
+      "senadoId": "404211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4295",
+      "titulo": "Decreto nº 4.295 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4295",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4295",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PACATUBA, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4293",
+      "titulo": "Decreto nº 4.293 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4293",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4293",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA E MAIS UMA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE TAQUARI, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4294",
+      "titulo": "Decreto nº 4.294 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4294",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4294",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4292",
+      "titulo": "Decreto nº 4.292 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4292",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4292",
+      "ementa": "ABRE AO MINISTERIO DA JUSTIÇA E NEGOCIOS INTERIORES O CREDITO DE 13:300$, PARA PAGAMENTO DO PREMIO E IMPRESSÃO DE MIL EXEMPLARES DA OBRA ` TEORIA DO PROCESSO CIVIL E COMERCIAL ´, COMPOSTA PELO DOUTOR JOÃO PEREIRA MONTEIRO."
+    },
+    {
+      "senadoId": "404195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4291",
+      "titulo": "Decreto nº 4.291 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4291",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4291",
+      "ementa": "ABRE AO  MINISTÉRIO DA FAZENDA O CRÉDITO DE 477: 121$620, OURO, SUPLEMENTAR À VERBA 35ª, ARTIGO 28 DA LEI NÚMERO 746, DE 29 DE DEZEMBRO DE  1900."
+    },
+    {
+      "senadoId": "404215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4296",
+      "titulo": "Decreto nº 4.296 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4296",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4296",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOÃO DO PIAUÍ, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "404219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-28-4297",
+      "titulo": "Decreto nº 4.297 de 28/12/1901",
+      "data": "1901-12-28",
+      "numero": "4297",
+      "urn": "urn:lex:br:federal:decreto:1901-12-28;4297",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA UNIÃO, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "404191",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-27-4290",
+      "titulo": "Decreto nº 4.290 de 27/12/1901",
+      "data": "1901-12-27",
+      "numero": "4290",
+      "urn": "urn:lex:br:federal:decreto:1901-12-27;4290",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO DE 736:424$000, SUPLEMENTAR À  VERBA 10ª - ETAPAS - DO ARTIGO 15 DA LEI NÚMERO 746, DE 29 DE DEZEMBRO DE   1900."
+    },
+    {
+      "senadoId": "404187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-27-4289",
+      "titulo": "Decreto nº 4.289 de 27/12/1901",
+      "data": "1901-12-27",
+      "numero": "4289",
+      "urn": "urn:lex:br:federal:decreto:1901-12-27;4289",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 4:225$800 PARA OCORRER AO PAGAMENTO DO ORDENADO QUE COMPETE AO ALMOXARIFE DO EXTINTO ARSENAL DE GUERRA DE PERNAMBUCO, JOÃO CLIMACO DOS SANTOS BERNARDES."
+    },
+    {
+      "senadoId": "404183",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-24-4288",
+      "titulo": "Decreto nº 4.288 de 24/12/1901",
+      "data": "1901-12-24",
+      "numero": "4288",
+      "urn": "urn:lex:br:federal:decreto:1901-12-24;4288",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 100:000$ SUPLEMENTAR AO NÚMERO 14 DO ARTIGO 2º DA LEI NÚMERO 746, DE 29 DE DEZEMBRO DE 1900 - DILIGÊNCIAS POLICIAIS."
+    },
+    {
+      "senadoId": "404179",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-23-4287",
+      "titulo": "Decreto nº 4.287 de 23/12/1901",
+      "data": "1901-12-23",
+      "numero": "4287",
+      "urn": "urn:lex:br:federal:decreto:1901-12-23;4287",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA - COOPERATIVA OPERÁRIA CARIOCA - PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "404175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-23-4286",
+      "titulo": "Decreto nº 4.286 de 23/12/1901",
+      "data": "1901-12-23",
+      "numero": "4286",
+      "urn": "urn:lex:br:federal:decreto:1901-12-23;4286",
+      "ementa": "CONCEDE AUTORIZAÇÃO A MANOEL DE MIRANDA ROSA PARA ORGANIZAR UMA SOCIEDADE COOPERATIVA MÚTUA E DE PREVIDÊNCIA SOB A DENOMINAÇÃO DE MONTEPIO POPULAR."
+    },
+    {
+      "senadoId": "404164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-21-4283",
+      "titulo": "Decreto nº 4.283 de 21/12/1901",
+      "data": "1901-12-21",
+      "numero": "4283",
+      "urn": "urn:lex:br:federal:decreto:1901-12-21;4283",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BATURITÉ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "485076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-21-4285",
+      "titulo": "Decreto nº 4.285 de 21/12/1901",
+      "data": "1901-12-21",
+      "numero": "4285",
+      "urn": "urn:lex:br:federal:decreto:1901-12-21;4285",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BAGÉ, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-21-4281",
+      "titulo": "Decreto nº 4.281 de 21/12/1901",
+      "data": "1901-12-21",
+      "numero": "4281",
+      "urn": "urn:lex:br:federal:decreto:1901-12-21;4281",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 113:700$, SENDO : 32:700$ À VERBA - SECRETARIA DO SENADO - E 81:000$ À VERBA- SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404152",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-21-4280",
+      "titulo": "Decreto nº 4.280 de 21/12/1901",
+      "data": "1901-12-21",
+      "numero": "4280",
+      "urn": "urn:lex:br:federal:decreto:1901-12-21;4280",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$  À VERBA - SUBSÍDIO DOS SENADORES - E 477:000$ À VERBA- SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-21-4284",
+      "titulo": "Decreto nº 4.284 de 21/12/1901",
+      "data": "1901-12-21",
+      "numero": "4284",
+      "urn": "urn:lex:br:federal:decreto:1901-12-21;4284",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CANUTAMA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-21-4282",
+      "titulo": "Decreto nº 4.282 de 21/12/1901",
+      "data": "1901-12-21",
+      "numero": "4282",
+      "urn": "urn:lex:br:federal:decreto:1901-12-21;4282",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CONDEÚBA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4275",
+      "titulo": "Decreto nº 4.275 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4275",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4275",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ASSARÉ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4279",
+      "titulo": "Decreto nº 4.279 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4279",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4279",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4273",
+      "titulo": "Decreto nº 4.273 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4273",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4273",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BROTAS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4278",
+      "titulo": "Decreto nº 4.278 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4278",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4278",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE DOM PEDRITO, NO ESTADO DO RIO GRANDE SUL."
+    },
+    {
+      "senadoId": "404128",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4274",
+      "titulo": "Decreto nº 4.274 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4274",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4274",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE IGUATU, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404136",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4276",
+      "titulo": "Decreto nº 4.276 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4276",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4276",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SENADOR POMPEU, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-14-4277",
+      "titulo": "Decreto nº 4.277 de 14/12/1901",
+      "data": "1901-12-14",
+      "numero": "4277",
+      "urn": "urn:lex:br:federal:decreto:1901-12-14;4277",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO SEBASTIÃO DO CAHI, NO ESTADO DO RIO GRANDE SUL."
+    },
+    {
+      "senadoId": "404116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-11-4271",
+      "titulo": "Decreto nº 4.271 de 11/12/1901",
+      "data": "1901-12-11",
+      "numero": "4271",
+      "urn": "urn:lex:br:federal:decreto:1901-12-11;4271",
+      "ementa": "MANDA SUBSTITUIR AS DISPOSIÇÕES DOS ARTIGOS 133, 134, 136, 144 E 146 DO REGULAMENTO DA ESCOLA NAVAL, ANEXO AO DECRETO NÚMERO 3.652, DE 2 DE MAIO DE 1900, PELAS DOS ARTIGOS 31, 32, 33 E 34 DO CÓDIGO DE ENSINO, APROVADO PELO DECRETO NÚMERO 3.800, DE 1 DE JANEIRO DE 1901."
+    },
+    {
+      "senadoId": "404120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-11-4272",
+      "titulo": "Decreto nº 4.272 de 11/12/1901",
+      "data": "1901-12-11",
+      "numero": "4272",
+      "urn": "urn:lex:br:federal:decreto:1901-12-11;4272",
+      "ementa": "DÁ NOVO REGULAMENTO À BRIGADA POLICIAL DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "404112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-10-4270",
+      "titulo": "Decreto nº 4.270 de 10/12/1901",
+      "data": "1901-12-10",
+      "numero": "4270",
+      "urn": "urn:lex:br:federal:decreto:1901-12-10;4270",
+      "ementa": "REGULA O FUNCIONAMENTO DAS COMPANHIAS DE SEGUROS DE VIDA, MARÍTIMOS E TERRESTRES, NACIONAIS E ESTRANGEIRAS."
+    },
+    {
+      "senadoId": "404108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-09-4269",
+      "titulo": "Decreto nº 4.269 de 09/12/1901",
+      "data": "1901-12-09",
+      "numero": "4269",
+      "urn": "urn:lex:br:federal:decreto:1901-12-09;4269",
+      "ementa": "REDUZ A TAXA DA GARANTIA DE JUROS DE 7 PARA 6 AO ANO SOBRE O CAPITAL DE 6.000:000$000, EMPREGADO NA CONSTRUÇÃO DA ESTRADA DE FERRO DO CARANGOLA."
+    },
+    {
+      "senadoId": "404104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-07-4268",
+      "titulo": "Decreto nº 4.268 de 07/12/1901",
+      "data": "1901-12-07",
+      "numero": "4268",
+      "urn": "urn:lex:br:federal:decreto:1901-12-07;4268",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-07-4265",
+      "titulo": "Decreto nº 4.265 de 07/12/1901",
+      "data": "1901-12-07",
+      "numero": "4265",
+      "urn": "urn:lex:br:federal:decreto:1901-12-07;4265",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANT'ANA DO LIVRAMENTO, NO ESTADO DO RIO GRANDE SUL."
+    },
+    {
+      "senadoId": "404096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-07-4266",
+      "titulo": "Decreto nº 4.266 de 07/12/1901",
+      "data": "1901-12-07",
+      "numero": "4266",
+      "urn": "urn:lex:br:federal:decreto:1901-12-07;4266",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAXIAS, NO ESTADO DO RIO GRANDE SUL."
+    },
+    {
+      "senadoId": "404100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-07-4267",
+      "titulo": "Decreto nº 4.267 de 07/12/1901",
+      "data": "1901-12-07",
+      "numero": "4267",
+      "urn": "urn:lex:br:federal:decreto:1901-12-07;4267",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ALVINÓPOLIS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-04-4264",
+      "titulo": "Decreto nº 4.264 de 04/12/1901",
+      "data": "1901-12-04",
+      "numero": "4264",
+      "urn": "urn:lex:br:federal:decreto:1901-12-04;4264",
+      "ementa": "DÁ INSTRUÇÕES PARA A ELEIÇÃO DE INTENDENTES MUNICIPAIS DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "404080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-02-4262",
+      "titulo": "Decreto nº 4.262 de 02/12/1901",
+      "data": "1901-12-02",
+      "numero": "4262",
+      "urn": "urn:lex:br:federal:decreto:1901-12-02;4262",
+      "ementa": "APROVA NOVO PROJETO E ORÇAMENTO PARA A CONSTRUÇÃO DO DESVIO PELO CORTE GUARDA, DA ESTRADA DE FERRO DONA THEREZA CHRISTINA."
+    },
+    {
+      "senadoId": "404084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-12-02-4263",
+      "titulo": "Decreto nº 4.263 de 02/12/1901",
+      "data": "1901-12-02",
+      "numero": "4263",
+      "urn": "urn:lex:br:federal:decreto:1901-12-02;4263",
+      "ementa": "CONCEDE AUTORIZAÇÃO À ` THE GONGO SOCCO GOLD MINING COMPANY ´ PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "404072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-30-4260",
+      "titulo": "Decreto nº 4.260 de 30/11/1901",
+      "data": "1901-11-30",
+      "numero": "4260",
+      "urn": "urn:lex:br:federal:decreto:1901-11-30;4260",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TAMBORIL, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-30-4261",
+      "titulo": "Decreto nº 4.261 de 30/11/1901",
+      "data": "1901-11-30",
+      "numero": "4261",
+      "urn": "urn:lex:br:federal:decreto:1901-11-30;4261",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE FAXINA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-29-4259",
+      "titulo": "Decreto nº 4.259 de 29/11/1901",
+      "data": "1901-11-29",
+      "numero": "4259",
+      "urn": "urn:lex:br:federal:decreto:1901-11-29;4259",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO EXTRAORDINÁRIO DE 8:000$ PARA PAGAMENTO DO ALUGUEL DA CASA EM QUE FUNCIONOU A DELEGACIA FISCAL NO RIO GRANDE DO SUL, DE SETEMBRO A DEZEMBRO DE 1899, E O DE 20:000$ SUPLEMENTAR À VERBA 9ª, ARTIGO 28, LEI NÚMERO 746 DE 29 DE DEZEMBRO ÚLTIMO - ASSINATURA DE NOTAS."
+    },
+    {
+      "senadoId": "404064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-25-4258",
+      "titulo": "Decreto nº 4.258 de 25/11/1901",
+      "data": "1901-11-25",
+      "numero": "4258",
+      "urn": "urn:lex:br:federal:decreto:1901-11-25;4258",
+      "ementa": "FIXA DEFINITIVAMENTE EM 757:987$200 O CAPITAL DESPENDIDO EM TRABALHOS PRELIMINARES DA ESTRADA DE FERRO DE ALCOBAÇA À PRAIA DA RAINHA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "404048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4254",
+      "titulo": "Decreto nº 4.254 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4254",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4254",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE MUNDO NOVO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4247",
+      "titulo": "Decreto nº 4.247 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4247",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4247",
+      "ementa": "APROVA AS INSTRUÇÕES PARA OS EXAMES GERAIS DE PREPARATÓRIOS."
+    },
+    {
+      "senadoId": "404032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4250",
+      "titulo": "Decreto nº 4.250 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4250",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4250",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PALMAS, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "404028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4249",
+      "titulo": "Decreto nº 4.249 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4249",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4249",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NAS COMARCAS DE CURITIBA E SÃO JOSÉ DOS PINHAIS, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "404016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4246",
+      "titulo": "Decreto nº 4.246 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4246",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4246",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ À VERBA - SUBSÍDIO DOS SENADORES - E 477:000$ À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4255",
+      "titulo": "Decreto nº 4.255 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4255",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4255",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE MANICORÉ, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404044",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4253",
+      "titulo": "Decreto nº 4.253 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4253",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4253",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITACOATIARA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4251",
+      "titulo": "Decreto nº 4.251 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4251",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4251",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO BORJA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4257",
+      "titulo": "Decreto nº 4.257 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4257",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4257",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE MACAÉ, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4256",
+      "titulo": "Decreto nº 4.256 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4256",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4256",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTÔNI0 DA PATRULHA, NO ESTADO DO RIO GRANDE SUL."
+    },
+    {
+      "senadoId": "404012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4245",
+      "titulo": "Decreto nº 4.245 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4245",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4245",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 143:700$, SENDO 32:700$ À VERBA - SECRETARIA DO SENADO - E 111:000$ À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4252",
+      "titulo": "Decreto nº 4.252 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4252",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4252",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO NEGRO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "404024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-23-4248",
+      "titulo": "Decreto nº 4.248 de 23/11/1901",
+      "data": "1901-11-23",
+      "numero": "4248",
+      "urn": "urn:lex:br:federal:decreto:1901-11-23;4248",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE LIMEIRA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-22-4244",
+      "titulo": "Decreto nº 4.244 de 22/11/1901",
+      "data": "1901-11-22",
+      "numero": "4244",
+      "urn": "urn:lex:br:federal:decreto:1901-11-22;4244",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 4:806$630 PARA CUMPRIMENTO DA SENTENÇA DO SUPREMO TRIBUNAL FEDERAL QUE MANDOU PAGAR AO MAJOR DEMOCRITO FERREIRA DA SILVA VENCIMENTOS QUE DEIXOU DE RECEBER."
+    },
+    {
+      "senadoId": "404004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-20-4243",
+      "titulo": "Decreto nº 4.243 de 20/11/1901",
+      "data": "1901-11-20",
+      "numero": "4243",
+      "urn": "urn:lex:br:federal:decreto:1901-11-20;4243",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 311:907$771 PARA OCORRER À DESPESA COM AS QUOTAS QUE COMPETEM AOS EMPREGADOS DAS ALFÂNDEGAS, EM VIRTUDE DO DISPOSTO NO ARTIGO 41 DA LEI NÚMERO 428, DE 10 DE DEZEMBRO DE 1896."
+    },
+    {
+      "senadoId": "403996",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-18-4241",
+      "titulo": "Decreto nº 4.241 de 18/11/1901",
+      "data": "1901-11-18",
+      "numero": "4241",
+      "urn": "urn:lex:br:federal:decreto:1901-11-18;4241",
+      "ementa": "ABRE AO MINISTERIO DA INDUSTRIA, VIAÇÃO E OBRAS PUBLICAS, O CREDITO DE 2.000:000$, PARA OCORRER AO PAGAMENTO DEVIDO A COMPANHIA NORTE MINEIRA PELA RESCISÃO DOS RESPECTIVOS CONTRATOS PARA FUNDAÇÃO DE BURGOS AGRICOLAS NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-18-4242",
+      "titulo": "Decreto nº 4.242 de 18/11/1901",
+      "data": "1901-11-18",
+      "numero": "4242",
+      "urn": "urn:lex:br:federal:decreto:1901-11-18;4242",
+      "ementa": "ABRE AO MINISTERIO DA INDUSTRIA, VIAÇÃO E OBRAS PUBLICAS, O CREDITO DE 300:000$, PARA OCORRER AO PAGAMENTO DEVIDO A COMPANHIA TERRAS E VIAÇÃO PELA RESCISÃO DOS RESPECTIVOS CONTRATOS PARA FUNDAÇÃO DE BURGOS AGRICOLAS NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-17-4240",
+      "titulo": "Decreto nº 4.240 de 17/11/1901",
+      "data": "1901-11-17",
+      "numero": "4240",
+      "urn": "urn:lex:br:federal:decreto:1901-11-17;4240",
+      "ementa": "ABRE AO MINISTERIO DA INDUSTRIA, VIAÇÃO E OBRAS PUBLICAS, O CREDITO DE 100:000$, COM O FIM DE SER ENTREGUE AO SENHOR ALBERTO SANTOS DUMONT, COMO PREMIO PELO RESULTADO DE SUA EXPERIENCIA DE UM BALÃO DERIGIVEL."
+    },
+    {
+      "senadoId": "403988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-15-4239",
+      "titulo": "Decreto nº 4.239 de 15/11/1901",
+      "data": "1901-11-15",
+      "numero": "4239",
+      "urn": "urn:lex:br:federal:decreto:1901-11-15;4239",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 630$000 PARA OCORRER AO PAGAMENTO DE DIÁRIA A CANDIDO DA CUNHA VILLELA, POR HAVER  SERVIDO NA COMISSÃO ENCARREGADA DA CONSTRUAÇÃO DA LINHA TELEGRÁFICA  DE CUIABÁ A CORUMBÁ."
+    },
+    {
+      "senadoId": "403984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-15-4238",
+      "titulo": "Decreto nº 4.238 de 15/11/1901",
+      "data": "1901-11-15",
+      "numero": "4238",
+      "urn": "urn:lex:br:federal:decreto:1901-11-15;4238",
+      "ementa": "CRIA UMA MEDALHA MILITAR COMO RECONHECIMENTO DE BONS SERVIÇOS PRESTADOS PELOS OFICIAIS E PRAÇAS DO EXERCITO E ARMADA."
+    },
+    {
+      "senadoId": "403980",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-12-4237",
+      "titulo": "Decreto nº 4.237 de 12/11/1901",
+      "data": "1901-11-12",
+      "numero": "4237",
+      "urn": "urn:lex:br:federal:decreto:1901-11-12;4237",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 1.000:000$, SUPLEMENTAR À VERBA - EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "403972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-11-4235",
+      "titulo": "Decreto nº 4.235 de 11/11/1901",
+      "data": "1901-11-11",
+      "numero": "4235",
+      "urn": "urn:lex:br:federal:decreto:1901-11-11;4235",
+      "ementa": "ALTERA O ARTIGO 2º DO DECRETO NÚMERO 4.088, DE 22 DE JULHO DO CORRENTE ANO, PARA A TRANSFORMAÇÃO DA FORÇA HIDRÁULICA DE RIOS EM LUZ E FORÇA ELÉTRICA MOTORA NAS OFICINAS E SERVIÇOS DA COMPANHIA DOCAS DE SANTOS."
+    },
+    {
+      "senadoId": "403976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-11-4236",
+      "titulo": "Decreto nº 4.236 de 11/11/1901",
+      "data": "1901-11-11",
+      "numero": "4236",
+      "urn": "urn:lex:br:federal:decreto:1901-11-11;4236",
+      "ementa": "ALTERA A 2ª PARTE DO ARTIGO 1º DO DECRETO NÚMERO 2.856, DE 15 DE DEZEMBRO DE 1900, JÁ MODIFICADO PELO DECRETO NÚMERO 3.984, DE 2 DE ABRIL DE 1901."
+    },
+    {
+      "senadoId": "403968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-11-4234",
+      "titulo": "Decreto nº 4.234 de 11/11/1901",
+      "data": "1901-11-11",
+      "numero": "4234",
+      "urn": "urn:lex:br:federal:decreto:1901-11-11;4234",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE ANÔNIMA ` EMPRESA DE SAL E NAVEGAÇÃO ´."
+    },
+    {
+      "senadoId": "403960",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-09-4232",
+      "titulo": "Decreto nº 4.232 de 09/11/1901",
+      "data": "1901-11-09",
+      "numero": "4232",
+      "urn": "urn:lex:br:federal:decreto:1901-11-09;4232",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-09-4233",
+      "titulo": "Decreto nº 4.233 de 09/11/1901",
+      "data": "1901-11-09",
+      "numero": "4233",
+      "urn": "urn:lex:br:federal:decreto:1901-11-09;4233",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE FLORIANO, EX-COLÔNIA, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "403948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-09-4229",
+      "titulo": "Decreto nº 4.229 de 09/11/1901",
+      "data": "1901-11-09",
+      "numero": "4229",
+      "urn": "urn:lex:br:federal:decreto:1901-11-09;4229",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DA CAMPANHA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-09-4230",
+      "titulo": "Decreto nº 4.230 de 09/11/1901",
+      "data": "1901-11-09",
+      "numero": "4230",
+      "urn": "urn:lex:br:federal:decreto:1901-11-09;4230",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA, UMA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DA SETE LAGOAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-09-4231",
+      "titulo": "Decreto nº 4.231 de 09/11/1901",
+      "data": "1901-11-09",
+      "numero": "4231",
+      "urn": "urn:lex:br:federal:decreto:1901-11-09;4231",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA SÃO LUÍS DE CÁCERES, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "403944",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-06-4228",
+      "titulo": "Decreto nº 4.228 de 06/11/1901",
+      "data": "1901-11-06",
+      "numero": "4228",
+      "urn": "urn:lex:br:federal:decreto:1901-11-06;4228",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA DOCAS DO RIO DE JANEIRO PARA EXECUTAR AS OBRAS DAS CONCESSÕES FEITAS PARA MELHORAMENTO DO PORTO DO RIO DE JANEIRO, ARRAZAMENTO DO MORRO DO SENADO E ATERRO DE PÂNTANOS E DO DAS PRAIAS FORMOSA E DOS LÁZAROS."
+    },
+    {
+      "senadoId": "403932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4225",
+      "titulo": "Decreto nº 4.225 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4225",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4225",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO GONÇALO DE SAPUCAÍ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4220",
+      "titulo": "Decreto nº 4.220 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4220",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4220",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MANACAPURU, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403920",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4222",
+      "titulo": "Decreto nº 4.222 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4222",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4222",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403936",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4226",
+      "titulo": "Decreto nº 4.226 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4226",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4226",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRO DE 250:000$, PARA AUXILIAR A PREFEITURA DO DISTRITO FEDERAL NAS DESPESAS RELATIVAS À EPIDEMIA DA PESTE BUBÔNICA."
+    },
+    {
+      "senadoId": "403940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4227",
+      "titulo": "Decreto nº 4.227 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4227",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4227",
+      "ementa": "ANULA O CONCURSO REALIZADO NA FACULDADE DE DIREITO DE SÃO PAULO PARA O PROVIMENTO DO LUGAR DE SUBSTITUTO DA 7ª SEÇÃO DA MESMA FACULDADE."
+    },
+    {
+      "senadoId": "403924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4223",
+      "titulo": "Decreto nº 4.223 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4223",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4223",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTONIO DA PATRULHA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4224",
+      "titulo": "Decreto nº 4.224 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4224",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4224",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO GRANDE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-11-04-4221",
+      "titulo": "Decreto nº 4.221 de 04/11/1901",
+      "data": "1901-11-04",
+      "numero": "4221",
+      "urn": "urn:lex:br:federal:decreto:1901-11-04;4221",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ALEGRETE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-31-4219",
+      "titulo": "Decreto nº 4.219 de 31/10/1901",
+      "data": "1901-10-31",
+      "numero": "4219",
+      "urn": "urn:lex:br:federal:decreto:1901-10-31;4219",
+      "ementa": "CRIA UM CONSULADO EM CHERBURGO."
+    },
+    {
+      "senadoId": "403900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-28-4217",
+      "titulo": "Decreto nº 4.217 de 28/10/1901",
+      "data": "1901-10-28",
+      "numero": "4217",
+      "urn": "urn:lex:br:federal:decreto:1901-10-28;4217",
+      "ementa": "DECLARA CADUCA A PATENTE DE PRIVILÉGIO DE INVENÇÃO NÚMERO 2.642, DE 27 DE SETEMBRO DE 1898."
+    },
+    {
+      "senadoId": "403904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-28-4218",
+      "titulo": "Decreto nº 4.218 de 28/10/1901",
+      "data": "1901-10-28",
+      "numero": "4218",
+      "urn": "urn:lex:br:federal:decreto:1901-10-28;4218",
+      "ementa": "TRANSFERE DA CONSIGNAÇÃO - MATERIAL - 4ª DIVISÃO DA ESTRADA DE FERRO CENTRAL DO BRASIL, DO ORÇAMENTO PARA 1900, A SOMA DE 71:728$232, OURO, PARA A PARTE CORRESPONDENTE EM PAPEL."
+    },
+    {
+      "senadoId": "403896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-28-4216",
+      "titulo": "Decreto nº 4.216 de 28/10/1901",
+      "data": "1901-10-28",
+      "numero": "4216",
+      "urn": "urn:lex:br:federal:decreto:1901-10-28;4216",
+      "ementa": "DECLARA CADUCA A PATENTE DE PRIVILÉGIO DE INVENÇÃO NÚMERO 2.125, DE 25 DE  SETEMBRO DE 1896."
+    },
+    {
+      "senadoId": "403872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4210",
+      "titulo": "Decreto nº 4.210 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4210",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4210",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "403868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4209",
+      "titulo": "Decreto nº 4.209 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4209",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4209",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO SUPLEMENTAR DE 55:641$ À VERBA NÚMERO 14 DO EXERCÍCIO DE 1901, PARA PAGAMENTO DAS DESPESAS DECORRENTES DO AUMENTO DE PRAÇAS NO REGIMENTO DE CAVALARIA DA BRIGADA POLICIAL."
+    },
+    {
+      "senadoId": "403880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4212",
+      "titulo": "Decreto nº 4.212 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4212",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4212",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE TAQUARI, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4213",
+      "titulo": "Decreto nº 4.213 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4213",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4213",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CRUZ ALTA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4211",
+      "titulo": "Decreto nº 4.211 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4211",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4211",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO GRANDE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4214",
+      "titulo": "Decreto nº 4.214 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4214",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4214",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "403892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-26-4215",
+      "titulo": "Decreto nº 4.215 de 26/10/1901",
+      "data": "1901-10-26",
+      "numero": "4215",
+      "urn": "urn:lex:br:federal:decreto:1901-10-26;4215",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PAULO AFONSO, NO ESTADO DAS ALAGOAS."
+    },
+    {
+      "senadoId": "403864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-23-4208",
+      "titulo": "Decreto nº 4.208 de 23/10/1901",
+      "data": "1901-10-23",
+      "numero": "4208",
+      "urn": "urn:lex:br:federal:decreto:1901-10-23;4208",
+      "ementa": "ELEVA A PORCENTAGEM DOS INSPETORES FISCAIS E AGENTES FISCAIS DOS IMPOSTOS, DE CONSUMO DA CIRCUNSCRIÇÃ0 DA CAPITAL FEDERAL E MUNICÍPIOS DE NITERÓI E SÃO GONÇALO."
+    },
+    {
+      "senadoId": "403860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-22-4207",
+      "titulo": "Decreto nº 4.207 de 22/10/1901",
+      "data": "1901-10-22",
+      "numero": "4207",
+      "urn": "urn:lex:br:federal:decreto:1901-10-22;4207",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 700:000$ PARA ORGANIZAÇÃO DO SERVIÇO DE PROPAGANDA DO CAFÉ NOS CONSULADOS."
+    },
+    {
+      "senadoId": "403852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-19-4205",
+      "titulo": "Decreto nº 4.205 de 19/10/1901",
+      "data": "1901-10-19",
+      "numero": "4205",
+      "urn": "urn:lex:br:federal:decreto:1901-10-19;4205",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 98:700$, SENDO 32:700$ À VERBA - SECRETARIA DO SENADO - E 66:000$ À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "403848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-19-4204",
+      "titulo": "Decreto nº 4.204 de 19/10/1901",
+      "data": "1901-10-19",
+      "numero": "4204",
+      "urn": "urn:lex:br:federal:decreto:1901-10-19;4204",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE CURVELO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-19-4206",
+      "titulo": "Decreto nº 4.206 de 19/10/1901",
+      "data": "1901-10-19",
+      "numero": "4206",
+      "urn": "urn:lex:br:federal:decreto:1901-10-19;4206",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ À VERBA - SUBSÍDIO DOS SENADORES - E 477:000 À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "403844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-11-4203",
+      "titulo": "Decreto nº 4.203 de 11/10/1901",
+      "data": "1901-10-11",
+      "numero": "4203",
+      "urn": "urn:lex:br:federal:decreto:1901-10-11;4203",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA, UMA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO GONÇALO DE SAPUCAÍ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-11-4202",
+      "titulo": "Decreto nº 4.202 de 11/10/1901",
+      "data": "1901-10-11",
+      "numero": "4202",
+      "urn": "urn:lex:br:federal:decreto:1901-10-11;4202",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-11-4200",
+      "titulo": "Decreto nº 4.200 de 11/10/1901",
+      "data": "1901-10-11",
+      "numero": "4200",
+      "urn": "urn:lex:br:federal:decreto:1901-10-11;4200",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CRATO, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-11-4201",
+      "titulo": "Decreto nº 4.201 de 11/10/1901",
+      "data": "1901-10-11",
+      "numero": "4201",
+      "urn": "urn:lex:br:federal:decreto:1901-10-11;4201",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NAS COMARCAS DE PARANAGUÁ, GUARATUBA E GUARAQUESSABA, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403828",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-11-4199",
+      "titulo": "Decreto nº 4.199 de 11/10/1901",
+      "data": "1901-10-11",
+      "numero": "4199",
+      "urn": "urn:lex:br:federal:decreto:1901-10-11;4199",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ARACATI, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-07-4197",
+      "titulo": "Decreto nº 4.197 de 07/10/1901",
+      "data": "1901-10-07",
+      "numero": "4197",
+      "urn": "urn:lex:br:federal:decreto:1901-10-07;4197",
+      "ementa": "APROVA OS PLANOS E ORÇAMENTOS DAS OBRAS DE MELHORAMENTOS DO PORTO DE MANAUS."
+    },
+    {
+      "senadoId": "403824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-07-4198",
+      "titulo": "Decreto nº 4.198 de 07/10/1901",
+      "data": "1901-10-07",
+      "numero": "4198",
+      "urn": "urn:lex:br:federal:decreto:1901-10-07;4198",
+      "ementa": "APROVA A VARIANTE QUE MODIFICA O TRAÇADO DA ESTRADA DE FERRO SÃO FRANCISCO XAVIER AO COMÉRCIO, DA ESTAÇÃO DA MANGUEIRA AO LITORAL."
+    },
+    {
+      "senadoId": "403816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-05-4196",
+      "titulo": "Decreto nº 4.196 de 05/10/1901",
+      "data": "1901-10-05",
+      "numero": "4196",
+      "urn": "urn:lex:br:federal:decreto:1901-10-05;4196",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE LÁBREA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-05-4194",
+      "titulo": "Decreto nº 4.194 de 05/10/1901",
+      "data": "1901-10-05",
+      "numero": "4194",
+      "urn": "urn:lex:br:federal:decreto:1901-10-05;4194",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 20:000$ EM PAPEL-MOEDA E 12.000, DÓLARES (OURO), PARA OCORRER À DESPESA COM O REFORÇO DO MATERIAL DA ILUMINAÇÃO ELÉTRICA DA BRIGADA POLICIAL."
+    },
+    {
+      "senadoId": "403812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-05-4195",
+      "titulo": "Decreto nº 4.195 de 05/10/1901",
+      "data": "1901-10-05",
+      "numero": "4195",
+      "urn": "urn:lex:br:federal:decreto:1901-10-05;4195",
+      "ementa": "AUMENTA O NÚMERO DE PRAÇAS DO REGIMENTO DE CAVALARIA DA BRIGADA POLICIAL."
+    },
+    {
+      "senadoId": "403804",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-04-4193",
+      "titulo": "Decreto nº 4.193 de 04/10/1901",
+      "data": "1901-10-04",
+      "numero": "4193",
+      "urn": "urn:lex:br:federal:decreto:1901-10-04;4193",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 837$472 PARA PAGAMENTO DO ORDENADO DO FIEL APOSENTADO DO EXTINTO ARSENAL DE GUERRA DO ESTADO DE PERNAMBUCO, JOÃO LEOPOLDINO DO REGO."
+    },
+    {
+      "senadoId": "403800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-03-4192",
+      "titulo": "Decreto nº 4.192 de 03/10/1901",
+      "data": "1901-10-03",
+      "numero": "4192",
+      "urn": "urn:lex:br:federal:decreto:1901-10-03;4192",
+      "ementa": "PUBLICA A ADESÃO DOS PROTETORADOS BRITÂNICOS DO LESTE AFRICANO E DE UGANDA À CONVENÇÃO TELEGRÁFICA INTERNACIONAL."
+    },
+    {
+      "senadoId": "403796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-10-03-4191",
+      "titulo": "Decreto nº 4.191 de 03/10/1901",
+      "data": "1901-10-03",
+      "numero": "4191",
+      "urn": "urn:lex:br:federal:decreto:1901-10-03;4191",
+      "ementa": "PUBLICA A ADESÃO DA REPUBLICA DOMINICANA A CONVENÇÃO DE WASHINGTON, DE 15 DE JUNHO DE 1897, RELATIVA A TROCA DE ENCOMENDAS POSTAIS E AO ACORDO DA MESMA DATA SOBRE O SERVIÇO DE VALES POSTAIS."
+    },
+    {
+      "senadoId": "403776",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4186",
+      "titulo": "Decreto nº 4.186 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4186",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4186",
+      "ementa": "APROVA A NOVA TABELA DE PREÇOS PARA A CONSTRUÇÃO DA ESTRADA DE FERRO DE SANTO EDUARDO AO CACHOEIRO DO ITAPEMIRIM, EM SUBSTITUIÇÃO DA QUE SE ACHA EM VIGOR."
+    },
+    {
+      "senadoId": "403784",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4188",
+      "titulo": "Decreto nº 4.188 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4188",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4188",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA \"COMPAGNIE D'ECLAIRAGE DE BAHIA\" PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4185",
+      "titulo": "Decreto nº 4.185 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4185",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4185",
+      "ementa": "REDUZ A DEZ DIAS O PRAZO QUARENTENÁRIO PARA A PESTE."
+    },
+    {
+      "senadoId": "403768",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4184",
+      "titulo": "Decreto nº 4.184 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4184",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4184",
+      "ementa": "MANDA OBSERVAR PROVIDÊNCIAS DE PROFILAXIA MARÍTIMA MODIFICATIVAS DO REGULAMENTO SANITÁRIO FEDERAL."
+    },
+    {
+      "senadoId": "403756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4181",
+      "titulo": "Decreto nº 4.181 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4181",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4181",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE LEOPOLDINA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403748",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4179",
+      "titulo": "Decreto nº 4.179 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4179",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4179",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMPOS NOVOS, NO ESTADO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4187",
+      "titulo": "Decreto nº 4.187 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4187",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4187",
+      "ementa": "CONCEDE AUTORIZAÇÃO À \"THE FARIA GOLD MINING COMPANY OF BRASIL, LIMITED\", PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4189",
+      "titulo": "Decreto nº 4.189 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4189",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4189",
+      "ementa": "DISPENSA A THE LEOPOLDINA RAILWAY COMPANY DA OBRIGAÇÃO DE CONSTRUIR O TRECHO ENTRE GLICERIO E SERRA DO FRADE, NA ESTRADA DE FERRO CENTRAL DE MACAÉ."
+    },
+    {
+      "senadoId": "403764",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4183",
+      "titulo": "Decreto nº 4.183 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4183",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4183",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PORTO ALEGRE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403760",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4182",
+      "titulo": "Decreto nº 4.182 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4182",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4182",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAQUI, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4190",
+      "titulo": "Decreto nº 4.190 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4190",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4190",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 200:000$, EM SUPLEMENTO AO DE QUE TRATA O DECRETO NÚMERO NÚMERO 4.002, DE 22 DE ABRIL ÚLTIMO, AFIM DE OCORRER ÀS DESPESAS DE TRANSPORTE DOS RETIRANTES CEARENSES, SUA INTERNAÇÃO E OUTRAS."
+    },
+    {
+      "senadoId": "403744",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4178",
+      "titulo": "Decreto nº 4.178 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4178",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4178",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE AMARANTE, NO ESTADO DE PIAUÍ."
+    },
+    {
+      "senadoId": "403752",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-30-4180",
+      "titulo": "Decreto nº 4.180 de 30/09/1901",
+      "data": "1901-09-30",
+      "numero": "4180",
+      "urn": "urn:lex:br:federal:decreto:1901-09-30;4180",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE LAGES, NO ESTADO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403740",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-28-4177",
+      "titulo": "Decreto nº 4.177 de 28/09/1901",
+      "data": "1901-09-28",
+      "numero": "4177",
+      "urn": "urn:lex:br:federal:decreto:1901-09-28;4177",
+      "ementa": "DA INSTRUÇÕES PARA A ELEIÇÃO DE PRESIDENTE E DE VICE-PRESIDENTE DA REPÚBLICA."
+    },
+    {
+      "senadoId": "403733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-25-4175",
+      "titulo": "Decreto nº 4.175 de 25/09/1901",
+      "data": "1901-09-25",
+      "numero": "4175",
+      "urn": "urn:lex:br:federal:decreto:1901-09-25;4175",
+      "ementa": "ALTERA A 4 REGRA DAS QUE BAIXARAM COM O DECRETO 3.238, DE 28 DE MARÇO DE 1899."
+    },
+    {
+      "senadoId": "403725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4173",
+      "titulo": "Decreto nº 4.173 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4173",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4173",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4171",
+      "titulo": "Decreto nº 4.171 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4171",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4171",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE IPU, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4174",
+      "titulo": "Decreto nº 4.174 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4174",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4174",
+      "ementa": "CRIA DUAS BRIGADAS DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITU, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403704",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4168",
+      "titulo": "Decreto nº 4.168 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4168",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4168",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO: 141:750$ À VERBA - SUBSÍDIO DOS SENADORES - E 477:000$ À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "403712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4170",
+      "titulo": "Decreto nº 4.170 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4170",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4170",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA LEOPOLDINA, NO ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "403721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4172",
+      "titulo": "Decreto nº 4.172 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4172",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4172",
+      "ementa": "CRIA TRÊS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO AMARO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-21-4169",
+      "titulo": "Decreto nº 4.169 de 21/09/1901",
+      "data": "1901-09-21",
+      "numero": "4169",
+      "urn": "urn:lex:br:federal:decreto:1901-09-21;4169",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1901, O CRÉDITO SUPLEMENTAR DE 78:700$, SENDO: 32:700$ À VERBA - SECRETARIA DO SENADO - E 46:000$ À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "403695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-16-4166",
+      "titulo": "Decreto nº 4.166 de 16/09/1901",
+      "data": "1901-09-16",
+      "numero": "4166",
+      "urn": "urn:lex:br:federal:decreto:1901-09-16;4166",
+      "ementa": "DECLARA CADUCA A PATENTE DE INVENÇÃO NÚMERO 942, DE 17 DE SETEMBRO DE 1890."
+    },
+    {
+      "senadoId": "403699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-16-4167",
+      "titulo": "Decreto nº 4.167 de 16/09/1901",
+      "data": "1901-09-16",
+      "numero": "4167",
+      "urn": "urn:lex:br:federal:decreto:1901-09-16;4167",
+      "ementa": "APROVA A RETIFICAÇÃO DO TRAÇADO ENTRE A ESTAÇÃO DE REBOUÇAS, DA ESTRADA DE FERRO SÃO PAULO - RIO GRANDE E A VILA DA UNIÃO DA VITÓRIA."
+    },
+    {
+      "senadoId": "403683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-14-4163",
+      "titulo": "Decreto nº 4.163 de 14/09/1901",
+      "data": "1901-09-14",
+      "numero": "4163",
+      "urn": "urn:lex:br:federal:decreto:1901-09-14;4163",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTANA DO PARANAÍBA, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "403671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-14-4160",
+      "titulo": "Decreto nº 4.160 de 14/09/1901",
+      "data": "1901-09-14",
+      "numero": "4160",
+      "urn": "urn:lex:br:federal:decreto:1901-09-14;4160",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOSÉ DA BOA VISTA, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-14-4161",
+      "titulo": "Decreto nº 4.161 de 14/09/1901",
+      "data": "1901-09-14",
+      "numero": "4161",
+      "urn": "urn:lex:br:federal:decreto:1901-09-14;4161",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CORUMBÁ, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "403679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-14-4162",
+      "titulo": "Decreto nº 4.162 de 14/09/1901",
+      "data": "1901-09-14",
+      "numero": "4162",
+      "urn": "urn:lex:br:federal:decreto:1901-09-14;4162",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MARANGUAPE, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-14-4165",
+      "titulo": "Decreto nº 4.165 de 14/09/1901",
+      "data": "1901-09-14",
+      "numero": "4165",
+      "urn": "urn:lex:br:federal:decreto:1901-09-14;4165",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA RIBEIRA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-14-4164",
+      "titulo": "Decreto nº 4.164 de 14/09/1901",
+      "data": "1901-09-14",
+      "numero": "4164",
+      "urn": "urn:lex:br:federal:decreto:1901-09-14;4164",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-12-4159",
+      "titulo": "Decreto nº 4.159 de 12/09/1901",
+      "data": "1901-09-12",
+      "numero": "4159",
+      "urn": "urn:lex:br:federal:decreto:1901-09-12;4159",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO DA QUANTIA DE 150:000$, EM OURO, PARA OCORRER ÀS DESPESAS COM A REPRESENTAÇÃO BRASILEIRA NA SEGUNDA CONFERÊNCIA INTERNACIONAL AMERICANA, QUE SE REUNIRÁ NO MÉXICO."
+    },
+    {
+      "senadoId": "403663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-12-4158",
+      "titulo": "Decreto nº 4.158 de 12/09/1901",
+      "data": "1901-09-12",
+      "numero": "4158",
+      "urn": "urn:lex:br:federal:decreto:1901-09-12;4158",
+      "ementa": "RETIFICA O ARTIGO 3º DO REGULAMENTO DA ESCOLA DE MINAS, APROVADO PELO DECRETO NÚMERO 4.017, DE 11 DE MAIO ÚLTIMO."
+    },
+    {
+      "senadoId": "403635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4151",
+      "titulo": "Decreto nº 4.151 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4151",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4151",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE VACARIA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403651",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4155",
+      "titulo": "Decreto nº 4.155 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4155",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4155",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTONIO DA PATRULHA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403647",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4154",
+      "titulo": "Decreto nº 4.154 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4154",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4154",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PASSO FUNDO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4150",
+      "titulo": "Decreto nº 4.150 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4150",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4150",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE RIO PARDO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4153",
+      "titulo": "Decreto nº 4.153 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4153",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4153",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOSÉ DO PARAÍSO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4149",
+      "titulo": "Decreto nº 4.149 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4149",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4149",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE VARGINHA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403659",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4157",
+      "titulo": "Decreto nº 4.157 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4157",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4157",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PINDAMONHANGABA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4152",
+      "titulo": "Decreto nº 4.152 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4152",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4152",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E MAIS UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CRUZ ALTA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-10-4156",
+      "titulo": "Decreto nº 4.156 de 10/09/1901",
+      "data": "1901-09-10",
+      "numero": "4156",
+      "urn": "urn:lex:br:federal:decreto:1901-09-10;4156",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO PARANAÍBA, NO ESTADO DE GOIÁS."
+    },
+    {
+      "senadoId": "403623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-09-4148",
+      "titulo": "Decreto nº 4.148 de 09/09/1901",
+      "data": "1901-09-09",
+      "numero": "4148",
+      "urn": "urn:lex:br:federal:decreto:1901-09-09;4148",
+      "ementa": "AUTORIZA OS CONCESSIONÁRIOS DAS OBRAS DO PORTO DE MANAUS A CONSTRUÍREM UM ARMAZÉM E UM DIQUE FLUTUANTES, NECESSÁRIOS AO MESMO PORTO, E APROVA AS RESPECTIVAS PLANTAS E ORÇAMENTOS."
+    },
+    {
+      "senadoId": "403619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-09-05-4147",
+      "titulo": "Decreto nº 4.147 de 05/09/1901",
+      "data": "1901-09-05",
+      "numero": "4147",
+      "urn": "urn:lex:br:federal:decreto:1901-09-05;4147",
+      "ementa": "CRIA UM CONSULADO EM ANTOFAGASTA (CHILE)."
+    },
+    {
+      "senadoId": "403608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-31-4144",
+      "titulo": "Decreto nº 4.144 de 31/08/1901",
+      "data": "1901-08-31",
+      "numero": "4144",
+      "urn": "urn:lex:br:federal:decreto:1901-08-31;4144",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE IGUATÚ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-31-4145",
+      "titulo": "Decreto nº 4.145 de 31/08/1901",
+      "data": "1901-08-31",
+      "numero": "4145",
+      "urn": "urn:lex:br:federal:decreto:1901-08-31;4145",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO ITACOATIARA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-31-4143",
+      "titulo": "Decreto nº 4.143 de 31/08/1901",
+      "data": "1901-08-31",
+      "numero": "4143",
+      "urn": "urn:lex:br:federal:decreto:1901-08-31;4143",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO JARDIM, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-31-4140",
+      "titulo": "Decreto nº 4.140 de 31/08/1901",
+      "data": "1901-08-31",
+      "numero": "4140",
+      "urn": "urn:lex:br:federal:decreto:1901-08-31;4140",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO SUPLEMENTAR DE 6:727$754 À VERBA - PESSOAL DA SECRETARIA DA CÂMARA DOS DEPUTADOS - NO ATUAL EXERCÍCIO."
+    },
+    {
+      "senadoId": "403600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-31-4142",
+      "titulo": "Decreto nº 4.142 de 31/08/1901",
+      "data": "1901-08-31",
+      "numero": "4142",
+      "urn": "urn:lex:br:federal:decreto:1901-08-31;4142",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE PETROLINA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-31-4141",
+      "titulo": "Decreto nº 4.141 de 31/08/1901",
+      "data": "1901-08-31",
+      "numero": "4141",
+      "urn": "urn:lex:br:federal:decreto:1901-08-31;4141",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTARÉM, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "403588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-27-4139",
+      "titulo": "Decreto nº 4.139 de 27/08/1901",
+      "data": "1901-08-27",
+      "numero": "4139",
+      "urn": "urn:lex:br:federal:decreto:1901-08-27;4139",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOÃO BENIGNO DA SILVA PARA FUNDAR EM MANAUS, CAPITAL DO ESTADO DO AMAZONAS, UM ESTABELECIMENTO DE CRÉDITO REAL DENOMINADO ` BANCO HIPOTECÁRIO PRESTAMISTA DA AMAZÔNIA ´."
+    },
+    {
+      "senadoId": "403584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-26-4138",
+      "titulo": "Decreto nº 4.138 de 26/08/1901",
+      "data": "1901-08-26",
+      "numero": "4138",
+      "urn": "urn:lex:br:federal:decreto:1901-08-26;4138",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 20:750$ PARA INDENIZAR O ESTADO DO CEARÁ DA SOMA QUE RECOLHEU AOS COFRES DA UNIÃO PARA A CONSERVAÇÃO DAS LINHAS TELEGRÁFICAS."
+    },
+    {
+      "senadoId": "403578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4136",
+      "titulo": "Decreto nº 4.136 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4136",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4136",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS DUAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA BATURITÉ, NO ESTADO DE CEARÁ."
+    },
+    {
+      "senadoId": "403571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4134",
+      "titulo": "Decreto nº 4.134 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4134",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4134",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ÂNGELO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4131",
+      "titulo": "Decreto nº 4.131 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4131",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4131",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 2:455$000 PARA PAGAR A CARLOS GALDINO LEAL E OUTROS,  AUXILIARES E SERVENTES NOS TRABALHOS DE EXAMES PREPARATÓRIOS DO EXTERNATO DO GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "403568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4133",
+      "titulo": "Decreto nº 4.133 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4133",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4133",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA, UMA DE ARTILHARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CRUZ ALTA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4135",
+      "titulo": "Decreto nº 4.135 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4135",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4135",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA BOA VISTA DO TREMEDAL, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4132",
+      "titulo": "Decreto nº 4.132 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4132",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4132",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E TRÊS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE URUGUAIANA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-24-4137",
+      "titulo": "Decreto nº 4.137 de 24/08/1901",
+      "data": "1901-08-24",
+      "numero": "4137",
+      "urn": "urn:lex:br:federal:decreto:1901-08-24;4137",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-19-4130",
+      "titulo": "Decreto nº 4.130 de 19/08/1901",
+      "data": "1901-08-19",
+      "numero": "4130",
+      "urn": "urn:lex:br:federal:decreto:1901-08-19;4130",
+      "ementa": "APROVA A SUBSTITUIÇÃO DA FIRMA SOCIAL ARGOLO ARAGÃO & COMP., ARRENDATARIA DA ESTRADA DE FERRO S. FRANCISCO, PELA FIRMA ARGOLLO CARDOSO & COMP."
+    },
+    {
+      "senadoId": "403552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-17-4129",
+      "titulo": "Decreto nº 4.129 de 17/08/1901",
+      "data": "1901-08-17",
+      "numero": "4129",
+      "urn": "urn:lex:br:federal:decreto:1901-08-17;4129",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE VILA BELA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-17-4128",
+      "titulo": "Decreto nº 4.128 de 17/08/1901",
+      "data": "1901-08-17",
+      "numero": "4128",
+      "urn": "urn:lex:br:federal:decreto:1901-08-17;4128",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE GUARAPUAVA, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-17-4127",
+      "titulo": "Decreto nº 4.127 de 17/08/1901",
+      "data": "1901-08-17",
+      "numero": "4127",
+      "urn": "urn:lex:br:federal:decreto:1901-08-17;4127",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMPO LARGO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-17-4126",
+      "titulo": "Decreto nº 4.126 de 17/08/1901",
+      "data": "1901-08-17",
+      "numero": "4126",
+      "urn": "urn:lex:br:federal:decreto:1901-08-17;4126",
+      "ementa": "CRIA MAIS UMA BRIGADA DE GUARDAS NACIONAIS NAS COMARCAS DE ANTONINA E MORRETES, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-17-4125",
+      "titulo": "Decreto nº 4.125 de 17/08/1901",
+      "data": "1901-08-17",
+      "numero": "4125",
+      "urn": "urn:lex:br:federal:decreto:1901-08-17;4125",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 250:000$, SUPLEMENTAR À VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1901."
+    },
+    {
+      "senadoId": "403532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-12-4124",
+      "titulo": "Decreto nº 4.124 de 12/08/1901",
+      "data": "1901-08-12",
+      "numero": "4124",
+      "urn": "urn:lex:br:federal:decreto:1901-08-12;4124",
+      "ementa": "ABRE UM CRÉDITO ESPECIAL PARA CONSTRUÇÃO DO TRECHO DE CACEQUI A INHANDUI, NA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAIANA."
+    },
+    {
+      "senadoId": "403528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-12-4123",
+      "titulo": "Decreto nº 4.123 de 12/08/1901",
+      "data": "1901-08-12",
+      "numero": "4123",
+      "urn": "urn:lex:br:federal:decreto:1901-08-12;4123",
+      "ementa": "TORNA APLICÁVEIS AO RAMAL DE MULUNGU A ALAGOA GRANDE AS TARIFAS ATUALMENTE EM VIGOR NA ESTRADA DE FERRO CONDE D'EU."
+    },
+    {
+      "senadoId": "403524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-10-4122",
+      "titulo": "Decreto nº 4.122 de 10/08/1901",
+      "data": "1901-08-10",
+      "numero": "4122",
+      "urn": "urn:lex:br:federal:decreto:1901-08-10;4122",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CATAGUAZES, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403520",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-09-4121",
+      "titulo": "Decreto nº 4.121 de 09/08/1901",
+      "data": "1901-08-09",
+      "numero": "4121",
+      "urn": "urn:lex:br:federal:decreto:1901-08-09;4121",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO ESPECIAL DA QUANTIA DE 41:296$898, PARA OCORRER AO PAGAMENTO A DOCENTES EM DISPONIBILIDADE DOS INSTITUTOS MILITARES DE ENSINO, DE GRATIFICAÇÕES VENCIDAS E A VENCER DE 19 DE ABRIL DE 1898 A 31 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "403516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-08-4120",
+      "titulo": "Decreto nº 4.120 de 08/08/1901",
+      "data": "1901-08-08",
+      "numero": "4120",
+      "urn": "urn:lex:br:federal:decreto:1901-08-08;4120",
+      "ementa": "CRIA UM CONSULADO EM BRAGA ( PORTUGAL )."
+    },
+    {
+      "senadoId": "403512",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-06-4119",
+      "titulo": "Decreto nº 4.119 de 06/08/1901",
+      "data": "1901-08-06",
+      "numero": "4119",
+      "urn": "urn:lex:br:federal:decreto:1901-08-06;4119",
+      "ementa": "CONCEDE À ` THE BRITISH BANK OF SOUTH AMERICA, LIMITED ´ AUTORIZAÇÃO PARA ESTABELECER UMA CAIXA FILIAL NA CIDADE DE MANAUS, ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-06-4117",
+      "titulo": "Decreto nº 4.117 de 06/08/1901",
+      "data": "1901-08-06",
+      "numero": "4117",
+      "urn": "urn:lex:br:federal:decreto:1901-08-06;4117",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO EXTRAORDINÁRIO DE 15:884$355, PARA OCORRER AO PAGAMENTO DEVIDO A GUSTACO SABOYA & COMP., EM VIRTUDE DE SENTENÇA DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "403508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-06-4118",
+      "titulo": "Decreto nº 4.118 de 06/08/1901",
+      "data": "1901-08-06",
+      "numero": "4118",
+      "urn": "urn:lex:br:federal:decreto:1901-08-06;4118",
+      "ementa": "CONCEDE AUTORIZAÇÃO A ALFREDO LUIZ DEL PORTO PARA ORGANIZAR UMA SOCIEDADE ANÔNIMA COM A DENOMINAÇÃO DE ` A ECONOMIZADORA ´."
+    },
+    {
+      "senadoId": "403496",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-03-4115",
+      "titulo": "Decreto nº 4.115 de 03/08/1901",
+      "data": "1901-08-03",
+      "numero": "4115",
+      "urn": "urn:lex:br:federal:decreto:1901-08-03;4115",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BRAGANÇA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403500",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-03-4116",
+      "titulo": "Decreto nº 4.116 de 03/08/1901",
+      "data": "1901-08-03",
+      "numero": "4116",
+      "urn": "urn:lex:br:federal:decreto:1901-08-03;4116",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA CRUZ DAS PALMEIRAS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-03-4114",
+      "titulo": "Decreto nº 4.114 de 03/08/1901",
+      "data": "1901-08-03",
+      "numero": "4114",
+      "urn": "urn:lex:br:federal:decreto:1901-08-03;4114",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE PETROLINA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403488",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-03-4113",
+      "titulo": "Decreto nº 4.113 de 03/08/1901",
+      "data": "1901-08-03",
+      "numero": "4113",
+      "urn": "urn:lex:br:federal:decreto:1901-08-03;4113",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CABO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403484",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-08-03-4112",
+      "titulo": "Decreto nº 4.112 de 03/08/1901",
+      "data": "1901-08-03",
+      "numero": "4112",
+      "urn": "urn:lex:br:federal:decreto:1901-08-03;4112",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE OLINDA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-31-4110",
+      "titulo": "Decreto nº 4.110 de 31/07/1901",
+      "data": "1901-07-31",
+      "numero": "4110",
+      "urn": "urn:lex:br:federal:decreto:1901-07-31;4110",
+      "ementa": "DÁ NOVA REDAÇÃO ÀS CLÁUSULAS VII, VIII E X DO DECRETO 3.725, DE 1 DE AGOSTO DE 1900, QUE CONCEDE AUTORIZAÇÃO A B. RYMKIEWIEZ & COMP. PARA EXECUTAREM AS OBRAS DE MELHORAMENTO DO PORTO DE MANAUS."
+    },
+    {
+      "senadoId": "403480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-31-4111",
+      "titulo": "Decreto nº 4.111 de 31/07/1901",
+      "data": "1901-07-31",
+      "numero": "4111",
+      "urn": "urn:lex:br:federal:decreto:1901-07-31;4111",
+      "ementa": "APROVA O CONTRATO PARA O RESGATE DA GARANTIA DE JUROS À ESTRADA DE FERRO DO RECIFE AO LIMOEIRO E ARRENDAMENTO DAS ESTRADAS RECIFE AO SÃO FRANCISCO, SUL DE PERNAMBUCO E TAMBÉM DAS ESTRADAS CONDE D'EU, NATAL A NOVA CRUZ, CENTRAL DAS ALAGOAS E PAULO AFONSO."
+    },
+    {
+      "senadoId": "403472",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-29-4109",
+      "titulo": "Decreto nº 4.109 de 29/07/1901",
+      "data": "1901-07-29",
+      "numero": "4109",
+      "urn": "urn:lex:br:federal:decreto:1901-07-29;4109",
+      "ementa": "FIXA EM DOIS MIL NOVECENTOS E NOVENTA CONTOS DE RÉIS ( 2.990:000$ ) O CAPITAL RELATIVO À CONSTRUÇÃO DO TRECHO DE ESTRADA DE FERRO EM TRÁFEGO DE SÃO SEBASTIÃO A SÃO GABRIEL."
+    },
+    {
+      "senadoId": "403460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-29-4106",
+      "titulo": "Decreto nº 4.106 de 29/07/1901",
+      "data": "1901-07-29",
+      "numero": "4106",
+      "urn": "urn:lex:br:federal:decreto:1901-07-29;4106",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA DENOMINADA `NORDDENTSCHE FEUERVERSICHERUNGS - GESELLSCHAFT´ PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403468",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-29-4108",
+      "titulo": "Decreto nº 4.108 de 29/07/1901",
+      "data": "1901-07-29",
+      "numero": "4108",
+      "urn": "urn:lex:br:federal:decreto:1901-07-29;4108",
+      "ementa": "ELIMINA A PARTÍCULA ` THE ´ QUE PRECEDEU A DENOMINAÇÃO DA SOCIEDADE ANÔNIMA ` MACHINE COTTONS, LIMITED ´."
+    },
+    {
+      "senadoId": "403464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-29-4107",
+      "titulo": "Decreto nº 4.107 de 29/07/1901",
+      "data": "1901-07-29",
+      "numero": "4107",
+      "urn": "urn:lex:br:federal:decreto:1901-07-29;4107",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA OMNIBUS MINIER LOPEZ-TALHOUARNE PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-29-4105",
+      "titulo": "Decreto nº 4.105 de 29/07/1901",
+      "data": "1901-07-29",
+      "numero": "4105",
+      "urn": "urn:lex:br:federal:decreto:1901-07-29;4105",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA ` SOCIÉTÉ DES MINES D'OR DU CERRITO ´ PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403448",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-27-4103",
+      "titulo": "Decreto nº 4.103 de 27/07/1901",
+      "data": "1901-07-27",
+      "numero": "4103",
+      "urn": "urn:lex:br:federal:decreto:1901-07-27;4103",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CURVELO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403436",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-27-4100",
+      "titulo": "Decreto nº 4.100 de 27/07/1901",
+      "data": "1901-07-27",
+      "numero": "4100",
+      "urn": "urn:lex:br:federal:decreto:1901-07-27;4100",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MARACÁS, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-27-4104",
+      "titulo": "Decreto nº 4.104 de 27/07/1901",
+      "data": "1901-07-27",
+      "numero": "4104",
+      "urn": "urn:lex:br:federal:decreto:1901-07-27;4104",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 95:000$, PARA DESPESAS COM A DESAPROPRIAÇÃO DO TERRENO E PRÉDIO À RUA HUMAITÁ 44 E DO TERRENO ANEXO 46."
+    },
+    {
+      "senadoId": "403440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-27-4101",
+      "titulo": "Decreto nº 4.101 de 27/07/1901",
+      "data": "1901-07-27",
+      "numero": "4101",
+      "urn": "urn:lex:br:federal:decreto:1901-07-27;4101",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JERÔNIMO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403444",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-27-4102",
+      "titulo": "Decreto nº 4.102 de 27/07/1901",
+      "data": "1901-07-27",
+      "numero": "4102",
+      "urn": "urn:lex:br:federal:decreto:1901-07-27;4102",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PITANGUI, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403432",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-23-4099",
+      "titulo": "Decreto nº 4.099 de 23/07/1901",
+      "data": "1901-07-23",
+      "numero": "4099",
+      "urn": "urn:lex:br:federal:decreto:1901-07-23;4099",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA DE SEGUROS DE PREVIDÊNCIA `CRUZEIRO DO SUL ´ E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "403424",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4097",
+      "titulo": "Decreto nº 4.097 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4097",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4097",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAPITAL DO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4089",
+      "titulo": "Decreto nº 4.089 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4089",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4089",
+      "ementa": "APROVA O AUMENTO DE DESPESA DE 2:184$450 SOBRE A ORÇADA PARA A CASA DO AGENTE DA ESTAÇÃO CHRISTINO CRUZ, DA ESTRADA DE FERRO DE CAXIAS A CAJAZEIRAS."
+    },
+    {
+      "senadoId": "403387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4088",
+      "titulo": "Decreto nº 4.088 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4088",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4088",
+      "ementa": "AUTORIZA A CONSTRUÇÃO DE OBRAS COMPLEMENTARES NO CAIS DE SANTOS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "403412",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4094",
+      "titulo": "Decreto nº 4.094 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4094",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4094",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA ` SOCIÉTÉ ANONYME MINIÈRE BELGE BRÉSILIENNE DE TRÊS CRUZES ET EXTENSIONS ´ PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4095",
+      "titulo": "Decreto nº 4.095 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4095",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4095",
+      "ementa": "CRIA UMA BRIGADA DE GUARDAS NACIONAIS NA COMARCA DE MONTE CARMELO, EX-CARMO DA BAGAGEM, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403395",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4090",
+      "titulo": "Decreto nº 4.090 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4090",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4090",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA ` SUCRERIE DE PORTO FELIZ ´ PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403383",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4087",
+      "titulo": "Decreto nº 4.087 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4087",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4087",
+      "ementa": "ALTERA O ARTIGO 67 DAS CONDIÇÕES REGULAMENTARES E AS TARIFAS DA ESTRADA DE FERRO CAXIAS A CAJAZEIRAS, APROVADOS PELOS DECRETOS 1.881 DE 7 DE NOVEMBRO DE 1894 E 2.645 DE 18 DE OUTUBRO DE 1897."
+    },
+    {
+      "senadoId": "403420",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4096",
+      "titulo": "Decreto nº 4.096 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4096",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4096",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SALINAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4098",
+      "titulo": "Decreto nº 4.098 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4098",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4098",
+      "ementa": "DECLARA O VERDADEIRO TEOR DO REGULAMENTO QUE BAIXOU COM O DECRETO 720, DE 5 DE SETEMBRO DE 1890."
+    },
+    {
+      "senadoId": "403403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4092",
+      "titulo": "Decreto nº 4.092 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4092",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4092",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA ` SUCRERIE DE LORENA ´ PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403399",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-22-4091",
+      "titulo": "Decreto nº 4.091 de 22/07/1901",
+      "data": "1901-07-22",
+      "numero": "4091",
+      "urn": "urn:lex:br:federal:decreto:1901-07-22;4091",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA DENOMINADA ` SOCIÉTÉ D'EXPLOITATION AGRICOLE D'ITAPEVA ´ PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-15-4086",
+      "titulo": "Decreto nº 4.086 de 15/07/1901",
+      "data": "1901-07-15",
+      "numero": "4086",
+      "urn": "urn:lex:br:federal:decreto:1901-07-15;4086",
+      "ementa": "ALTERA O ARTIGO 106 DO REGULAMENTO E TARIFAS DA ESTRADA DE FERRO DO RIO GRANDE A BAGÉ, APROVADOS POR DECRETO 3.087, DE 7 DE NOVEMBRO DE 1898."
+    },
+    {
+      "senadoId": "403371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-13-4084",
+      "titulo": "Decreto nº 4.084 de 13/07/1901",
+      "data": "1901-07-13",
+      "numero": "4084",
+      "urn": "urn:lex:br:federal:decreto:1901-07-13;4084",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE JACOBINA, ESTADO DE BAHIA."
+    },
+    {
+      "senadoId": "403375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-13-4085",
+      "titulo": "Decreto nº 4.085 de 13/07/1901",
+      "data": "1901-07-13",
+      "numero": "4085",
+      "urn": "urn:lex:br:federal:decreto:1901-07-13;4085",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JACOBINA, ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403363",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-13-4082",
+      "titulo": "Decreto nº 4.082 de 13/07/1901",
+      "data": "1901-07-13",
+      "numero": "4082",
+      "urn": "urn:lex:br:federal:decreto:1901-07-13;4082",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA LAPA, ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403359",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-13-4081",
+      "titulo": "Decreto nº 4.081 de 13/07/1901",
+      "data": "1901-07-13",
+      "numero": "4081",
+      "urn": "urn:lex:br:federal:decreto:1901-07-13;4081",
+      "ementa": "CONCEDE AO LYCEO DE HUMANIDADES DE CAMPOS AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "403367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-13-4083",
+      "titulo": "Decreto nº 4.083 de 13/07/1901",
+      "data": "1901-07-13",
+      "numero": "4083",
+      "urn": "urn:lex:br:federal:decreto:1901-07-13;4083",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403351",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-09-4079",
+      "titulo": "Decreto nº 4.079 de 09/07/1901",
+      "data": "1901-07-09",
+      "numero": "4079",
+      "urn": "urn:lex:br:federal:decreto:1901-07-09;4079",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 150:000$, OURO, SUPLEMENTAR À VERBA - CAIXA DE AMORTIZAÇÃO - DO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "403355",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-09-4080",
+      "titulo": "Decreto nº 4.080 de 09/07/1901",
+      "data": "1901-07-09",
+      "numero": "4080",
+      "urn": "urn:lex:br:federal:decreto:1901-07-09;4080",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 45:997$038, OURO, SUPLEMENTAR À VERBA - CASA DA MOEDA - DO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "403347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-08-4078",
+      "titulo": "Decreto nº 4.078 de 08/07/1901",
+      "data": "1901-07-08",
+      "numero": "4078",
+      "urn": "urn:lex:br:federal:decreto:1901-07-08;4078",
+      "ementa": "CONCEDE AUTORIZAÇÃO À ` LA BRÉSILIENNE ´, SOCIEDADE ANÔNIMA, COM SEDE EM BRUXELAS, PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "403331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-06-4074",
+      "titulo": "Decreto nº 4.074 de 06/07/1901",
+      "data": "1901-07-06",
+      "numero": "4074",
+      "urn": "urn:lex:br:federal:decreto:1901-07-06;4074",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-06-4077",
+      "titulo": "Decreto nº 4.077 de 06/07/1901",
+      "data": "1901-07-06",
+      "numero": "4077",
+      "urn": "urn:lex:br:federal:decreto:1901-07-06;4077",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO BANANAL, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-06-4076",
+      "titulo": "Decreto nº 4.076 de 06/07/1901",
+      "data": "1901-07-06",
+      "numero": "4076",
+      "urn": "urn:lex:br:federal:decreto:1901-07-06;4076",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-06-4075",
+      "titulo": "Decreto nº 4.075 de 06/07/1901",
+      "data": "1901-07-06",
+      "numero": "4075",
+      "urn": "urn:lex:br:federal:decreto:1901-07-06;4075",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PONTA GROSSA, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-07-03-4073",
+      "titulo": "Decreto nº 4.073 de 03/07/1901",
+      "data": "1901-07-03",
+      "numero": "4073",
+      "urn": "urn:lex:br:federal:decreto:1901-07-03;4073",
+      "ementa": "DECLARA SEM EFEITO A PRIMEIRA PARTE DO ARTIGO 65 DO DECRETO 3.234, DE 17 DE MARÇO DE 1899, AFIM DE CONTINUAREM EM PLENO VIGOR AS DISPOSIÇÕES DO PARÁGRAFO 8º DO ARTIGO 5º DA LEI 40, DE 2 DE FEVEREIRO DE 1892 E DO ARTIGO ÚNICO DA LEI 477, DE 9 DE DEZEMBRO DE 1897, RELATIVAMENTE À CONTRIBUIÇÃO DAS CLASSES QUE COMPÕEM O CORPO DE OFICIAIS INFERIORES DA ARMADA PARA O ASILO DE INVÁLIDOS DA PÁTRIA."
+    },
+    {
+      "senadoId": "403322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4072",
+      "titulo": "Decreto nº 4.072 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4072",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4072",
+      "ementa": "RETIFICA OS ARTIGOS 84, PARAGRÁFO 1º E 312 DO CÓDIGO DOS INSTITUTOS OFICIAIS   DE ENSINO SUPERIOR E SECUNDARIO, DEPENDENTES DO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, APROVADOS POR DECRETO NÚMERO 3890, DE 1 DE JANEIRO DE 1901."
+    },
+    {
+      "senadoId": "403306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4068",
+      "titulo": "Decreto nº 4.068 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4068",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4068",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE QUIXADÁ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4062",
+      "titulo": "Decreto nº 4.062 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4062",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4062",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINARIO DE 304$166, PARA PAGAMENTO DOS VENCIMENTOS DO FINADO ESCRIVÃO DO JUIZO SECCIONAL NO ESTADO DO PARANÁ, CAPITÃO DAMASO CORREA DE BITTENCOURT."
+    },
+    {
+      "senadoId": "403294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4065",
+      "titulo": "Decreto nº 4.065 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4065",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4065",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. BERNADO DAS RUSSAS, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4064",
+      "titulo": "Decreto nº 4.064 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4064",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4064",
+      "ementa": "CRIA UMA BRIGADA DE GAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO CRATO, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4063",
+      "titulo": "Decreto nº 4.063 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4063",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4063",
+      "ementa": "CRIA OS LUGARES DE SUPLENTE OU SUBSTITUTO DO JUIZ SECCIONAL NAS CIRCUNSCRIÇÕES DO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "403310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4069",
+      "titulo": "Decreto nº 4.069 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4069",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4069",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4066",
+      "titulo": "Decreto nº 4.066 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4066",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4066",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPIPOCA, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4067",
+      "titulo": "Decreto nº 4.067 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4067",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4067",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MORADA NOVA, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4071",
+      "titulo": "Decreto nº 4.071 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4071",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4071",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BOCAINA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "403314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-29-4070",
+      "titulo": "Decreto nº 4.070 de 29/06/1901",
+      "data": "1901-06-29",
+      "numero": "4070",
+      "urn": "urn:lex:br:federal:decreto:1901-06-29;4070",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA FAXINA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "403263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-25-4058",
+      "titulo": "Decreto nº 4.058 de 25/06/1901",
+      "data": "1901-06-25",
+      "numero": "4058",
+      "urn": "urn:lex:br:federal:decreto:1901-06-25;4058",
+      "ementa": "APROVA O CONTRATO PARA O ARRENDAMENTO PROVISÓRIO DA ESTRADA DE FERRO DA BAHIA AO SÃO FRANCISCO E RAMAL DO TIMBÓ."
+    },
+    {
+      "senadoId": "403271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-25-4060",
+      "titulo": "Decreto nº 4.060 de 25/06/1901",
+      "data": "1901-06-25",
+      "numero": "4060",
+      "urn": "urn:lex:br:federal:decreto:1901-06-25;4060",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 8:400$000, PARA PAGAMENTO DO PREMIO DEVIDO A JOSÉ RODRIGUES BASTOS COELHO."
+    },
+    {
+      "senadoId": "403275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-25-4061",
+      "titulo": "Decreto nº 4.061 de 25/06/1901",
+      "data": "1901-06-25",
+      "numero": "4061",
+      "urn": "urn:lex:br:federal:decreto:1901-06-25;4061",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 72:751$947, SUPLEMENTAR À VERBA NÚMERO 10, DO ARTIGO 43 DA LEI NÚMERO 652, DE 23 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "403267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-25-4059",
+      "titulo": "Decreto nº 4.059 de 25/06/1901",
+      "data": "1901-06-25",
+      "numero": "4059",
+      "urn": "urn:lex:br:federal:decreto:1901-06-25;4059",
+      "ementa": "RESTABELECE AS COLETORIAS FEDERAIS."
+    },
+    {
+      "senadoId": "403243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-24-4053",
+      "titulo": "Decreto nº 4.053 de 24/06/1901",
+      "data": "1901-06-24",
+      "numero": "4053",
+      "urn": "urn:lex:br:federal:decreto:1901-06-24;4053",
+      "ementa": "APROVA O REGULAMENTO DA REPARTIÇÃO GERAL DOS TELEGRAFOS."
+    },
+    {
+      "senadoId": "403255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-24-4056",
+      "titulo": "Decreto nº 4.056 de 24/06/1901",
+      "data": "1901-06-24",
+      "numero": "4056",
+      "urn": "urn:lex:br:federal:decreto:1901-06-24;4056",
+      "ementa": "APROVA A PLANTA PARA CONSTRUÇÃO DAS OBRAS DO PROLONGAMENTO DA LINHA FÉRREA DE SERVIÇO DO CÁES DE SANTOS, DE OUTEIRINHO AO FORTE AUGUSTO."
+    },
+    {
+      "senadoId": "403259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-24-4057",
+      "titulo": "Decreto nº 4.057 de 24/06/1901",
+      "data": "1901-06-24",
+      "numero": "4057",
+      "urn": "urn:lex:br:federal:decreto:1901-06-24;4057",
+      "ementa": "FIXA O CAPITAL E DÁ OUTRAS PROVIDÊNCIAS EM RELAÇÃO Á ESTRADA DE FERRO DO RIO CLARO."
+    },
+    {
+      "senadoId": "403247",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-24-4054",
+      "titulo": "Decreto nº 4.054 de 24/06/1901",
+      "data": "1901-06-24",
+      "numero": "4054",
+      "urn": "urn:lex:br:federal:decreto:1901-06-24;4054",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANONIMA \"NORD BAHIA\" PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "403251",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-24-4055",
+      "titulo": "Decreto nº 4.055 de 24/06/1901",
+      "data": "1901-06-24",
+      "numero": "4055",
+      "urn": "urn:lex:br:federal:decreto:1901-06-24;4055",
+      "ementa": "CONCEDE AUTORIZAÇÃO À THE GOLD COMPANY, LIMITED, PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "403235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4051",
+      "titulo": "Decreto nº 4.051 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4051",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4051",
+      "ementa": "CRIA OS LUGARES DE SUPLENTES DO SUBSTITUTO DO JUIZ SECCIONAL NAS CIRCUNSCRIÇÕES FEDERAIS DO ESTADO DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "403215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4046",
+      "titulo": "Decreto nº 4.046 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4046",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4046",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PELOTAS, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4050",
+      "titulo": "Decreto nº 4.050 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4050",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4050",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTONIO DO RIO ABAIXO, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "403227",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4049",
+      "titulo": "Decreto nº 4.049 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4049",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4049",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CORUMBÁ, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "403211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4045",
+      "titulo": "Decreto nº 4.045 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4045",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4045",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ATIBAIA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "403219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4047",
+      "titulo": "Decreto nº 4.047 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4047",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4047",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE PELOTAS, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403223",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4048",
+      "titulo": "Decreto nº 4.048 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4048",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4048",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MIRANDA E NIOAC, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "403239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-22-4052",
+      "titulo": "Decreto nº 4.052 de 22/06/1901",
+      "data": "1901-06-22",
+      "numero": "4052",
+      "urn": "urn:lex:br:federal:decreto:1901-06-22;4052",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NAS COMARCAS DE PALMEIRA E TRIUMFO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-15-4044",
+      "titulo": "Decreto nº 4.044 de 15/06/1901",
+      "data": "1901-06-15",
+      "numero": "4044",
+      "urn": "urn:lex:br:federal:decreto:1901-06-15;4044",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NAS COMARCAS DE PALMEIRA E TRIUMPHO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "403203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-15-4043",
+      "titulo": "Decreto nº 4.043 de 15/06/1901",
+      "data": "1901-06-15",
+      "numero": "4043",
+      "urn": "urn:lex:br:federal:decreto:1901-06-15;4043",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA FAXINA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "403199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-12-4042",
+      "titulo": "Decreto nº 4.042 de 12/06/1901",
+      "data": "1901-06-12",
+      "numero": "4042",
+      "urn": "urn:lex:br:federal:decreto:1901-06-12;4042",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1:000$, PARA PAGAMENTO DA AJUDA DE CUSTO DEVIDA AO INSPETOR, EM COMISSÃO DA ALFANDEGA DE SANTA CATARINA, AUGUSTO RANGEL ALVIM."
+    },
+    {
+      "senadoId": "403191",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-10-4040",
+      "titulo": "Decreto nº 4.040 de 10/06/1901",
+      "data": "1901-06-10",
+      "numero": "4040",
+      "urn": "urn:lex:br:federal:decreto:1901-06-10;4040",
+      "ementa": "CONCEDE À EMPRESA DE NAVEGAÇÃO RIO DE JANEIRO AS VANTAGENS E REGALIAS DE PAQUETES PARA OS VAPORES DE SUA PROPRIEDADE, EM VIAGEM PARA QUALQUER PORTO DE REPUBLICA."
+    },
+    {
+      "senadoId": "403195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-10-4041",
+      "titulo": "Decreto nº 4.041 de 10/06/1901",
+      "data": "1901-06-10",
+      "numero": "4041",
+      "urn": "urn:lex:br:federal:decreto:1901-06-10;4041",
+      "ementa": "APROVA A SITUAÇÃO DA ESTAÇÃO TERMINAL DO TRECHO DA ESTRADA DE FERRO DE MULUNGÚ A ALAGOA GRANDE, NO ESTADO DA PARAIBA."
+    },
+    {
+      "senadoId": "403180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-08-4037",
+      "titulo": "Decreto nº 4.037 de 08/06/1901",
+      "data": "1901-06-08",
+      "numero": "4037",
+      "urn": "urn:lex:br:federal:decreto:1901-06-08;4037",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JABOTICABAL, NO ESTADO DO S. PAULO."
+    },
+    {
+      "senadoId": "403187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-08-4039",
+      "titulo": "Decreto nº 4.039 de 08/06/1901",
+      "data": "1901-06-08",
+      "numero": "4039",
+      "urn": "urn:lex:br:federal:decreto:1901-06-08;4039",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 4:100$, PARA PAGAMENTO DO PRÊMIO DEVIDO AO DR. TIBURCIO VALERIANO PECEGUEIRO DO AMARAL, PELA OBRA QUE  PUBLICOU E DA RESPECTIVA IMPRESSÃO."
+    },
+    {
+      "senadoId": "403172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-08-4035",
+      "titulo": "Decreto nº 4.035 de 08/06/1901",
+      "data": "1901-06-08",
+      "numero": "4035",
+      "urn": "urn:lex:br:federal:decreto:1901-06-08;4035",
+      "ementa": "ELEVA OS EMOLUMENTOS QUE PERCEBE O SECRETARIO DA JUNTA COMERCIAL DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "403184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-08-4038",
+      "titulo": "Decreto nº 4.038 de 08/06/1901",
+      "data": "1901-06-08",
+      "numero": "4038",
+      "urn": "urn:lex:br:federal:decreto:1901-06-08;4038",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BORBA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-08-4036",
+      "titulo": "Decreto nº 4.036 de 08/06/1901",
+      "data": "1901-06-08",
+      "numero": "4036",
+      "urn": "urn:lex:br:federal:decreto:1901-06-08;4036",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE RIBEIRÃO PRETO, NO ESTADO DO S. PAULO."
+    },
+    {
+      "senadoId": "403168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-03-4034",
+      "titulo": "Decreto nº 4.034 de 03/06/1901",
+      "data": "1901-06-03",
+      "numero": "4034",
+      "urn": "urn:lex:br:federal:decreto:1901-06-03;4034",
+      "ementa": "AUTORIZA A \"S. PAULO RAILWAY COMPANY, LIMITED\" A INCORPARAR AO RESPCTIVO CAPITAL A QUANTIA DE £ 952.520-3-0, EXCESSO DE DESPESA COM DUPLICAÇÃO DA LINHA DE SANTOS A JUNDIAI."
+    },
+    {
+      "senadoId": "403156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-01-4031",
+      "titulo": "Decreto nº 4.031 de 01/06/1901",
+      "data": "1901-06-01",
+      "numero": "4031",
+      "urn": "urn:lex:br:federal:decreto:1901-06-01;4031",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA FAXINA, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "403160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-01-4032",
+      "titulo": "Decreto nº 4.032 de 01/06/1901",
+      "data": "1901-06-01",
+      "numero": "4032",
+      "urn": "urn:lex:br:federal:decreto:1901-06-01;4032",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPELLA, NO ESTADO DE SERGIPE."
+    },
+    {
+      "senadoId": "403164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-06-01-4033",
+      "titulo": "Decreto nº 4.033 de 01/06/1901",
+      "data": "1901-06-01",
+      "numero": "4033",
+      "urn": "urn:lex:br:federal:decreto:1901-06-01;4033",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA CRUZ DAS PALMEIRAS, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "403149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-28-4029",
+      "titulo": "Decreto nº 4.029 de 28/05/1901",
+      "data": "1901-05-28",
+      "numero": "4029",
+      "urn": "urn:lex:br:federal:decreto:1901-05-28;4029",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE S. CARLOS DO PINHAL, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "399141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-28-4030",
+      "titulo": "Decreto nº 4.030 de 28/05/1901",
+      "data": "1901-05-28",
+      "numero": "4030",
+      "urn": "urn:lex:br:federal:decreto:1901-05-28;4030",
+      "ementa": "AUTORIZA A SOCIEDADE DE SEGUROS SOBRE A VIDA - GARANTIA MUTUA DO BRASIL - A EMITIR APOLICES OU TITULOS DE ACUMULAÇÃO."
+    },
+    {
+      "senadoId": "403141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-27-4027",
+      "titulo": "Decreto nº 4.027 de 27/05/1901",
+      "data": "1901-05-27",
+      "numero": "4027",
+      "urn": "urn:lex:br:federal:decreto:1901-05-27;4027",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 1.500:000$ PARA OCORRER AO PAGAMENTO DEVIDO À COMPANHIA COLONIZAÇÃO E INDUSTRIA DE SANTA CATARINA PELA RESCISÃO DOS RESPECTIVOS CONTRATOS PARA FUNDAÇÃO DE BURGOS AGRICOLAS NESSE ESTADO."
+    },
+    {
+      "senadoId": "403145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-27-4028",
+      "titulo": "Decreto nº 4.028 de 27/05/1901",
+      "data": "1901-05-27",
+      "numero": "4028",
+      "urn": "urn:lex:br:federal:decreto:1901-05-27;4028",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 250:000$, EM SUPLEMENTO DO QUE TRATA O DECRETO NÚMERO 3.818, DE 24 DE OUTUBRO DE 1900, AFIM DE  SER APLICADO ÀS OBRAS COMPLEMENTARES DO AÇUDE DE QUIXADÁ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-25-4026",
+      "titulo": "Decreto nº 4.026 de 25/05/1901",
+      "data": "1901-05-25",
+      "numero": "4026",
+      "urn": "urn:lex:br:federal:decreto:1901-05-25;4026",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINARIO DE 14:237$216, PARA PAGAMENTO DE VENCIMENTOS AO DR. ARLINDO DE AGUIAR E SOUZA."
+    },
+    {
+      "senadoId": "403129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-25-4024",
+      "titulo": "Decreto nº 4.024 de 25/05/1901",
+      "data": "1901-05-25",
+      "numero": "4024",
+      "urn": "urn:lex:br:federal:decreto:1901-05-25;4024",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE QUIXERAMOBIM, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-25-4025",
+      "titulo": "Decreto nº 4.025 de 25/05/1901",
+      "data": "1901-05-25",
+      "numero": "4025",
+      "urn": "urn:lex:br:federal:decreto:1901-05-25;4025",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE MARAGOGIPE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "403120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-25-4022",
+      "titulo": "Decreto nº 4.022 de 25/05/1901",
+      "data": "1901-05-25",
+      "numero": "4022",
+      "urn": "urn:lex:br:federal:decreto:1901-05-25;4022",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINARIO DE 2:650$, PARA PAGAMENTO DE GRATIFICAÇÃO DEVIDA AO PREPARADOR DA CADEIRA DE QUIMICA INDUSTRIAL DA ESCOLA POLYQUINICA JAYME CARLOS DA SILVA TELLES."
+    },
+    {
+      "senadoId": "403124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-25-4023",
+      "titulo": "Decreto nº 4.023 de 25/05/1901",
+      "data": "1901-05-25",
+      "numero": "4023",
+      "urn": "urn:lex:br:federal:decreto:1901-05-25;4023",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE QUIXERAMOBIM, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "403116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-20-4021",
+      "titulo": "Decreto nº 4.021 de 20/05/1901",
+      "data": "1901-05-20",
+      "numero": "4021",
+      "urn": "urn:lex:br:federal:decreto:1901-05-20;4021",
+      "ementa": "RETIFICA OS DECRETOS ABAIXOS MENCIONADOS NO SENTIDO DE SEREM CONSIDERADOS ESPECIAIS OS CRÉDITOS POR ELES ABERTOS AO MINISTÉRIO DOS NEGÓCIOS DA INDUSTRIA, VIAÇÃO O OBRAS PÚBLICAS PARA SOCORRER A POPULAÇÃO DO NORTE FLAGELADA PELA SECA"
+    },
+    {
+      "senadoId": "403112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-18-4020",
+      "titulo": "Decreto nº 4.020 de 18/05/1901",
+      "data": "1901-05-18",
+      "numero": "4020",
+      "urn": "urn:lex:br:federal:decreto:1901-05-18;4020",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMPINAS, NO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "403108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-16-4019",
+      "titulo": "Decreto nº 4.019 de 16/05/1901",
+      "data": "1901-05-16",
+      "numero": "4019",
+      "urn": "urn:lex:br:federal:decreto:1901-05-16;4019",
+      "ementa": "PUBLICA A ADESÃO DO GOVERNO DE MALTA AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO À TROCA DE CARTAS E DE ENCOMENDAS (BOITES) COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "403104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-15-4018",
+      "titulo": "Decreto nº 4.018 de 15/05/1901",
+      "data": "1901-05-15",
+      "numero": "4018",
+      "urn": "urn:lex:br:federal:decreto:1901-05-15;4018",
+      "ementa": "MANDA OBSERVAR AS REGRAS PROPOSTAS PELO GOVERNO DE SUA MAGESTADE BRITANICA, AFIM DE PREENCHER LACUNAS EXISTENTES NO REGULAMENTO PARA EVITAR ABALROAMENTO NO MAR, A QUE SE REFERE O DECRETO NÚMERO 1.988, DE 14 DE MARÇO DE 1895."
+    },
+    {
+      "senadoId": "403096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-11-4016",
+      "titulo": "Decreto nº 4.016 de 11/05/1901",
+      "data": "1901-05-11",
+      "numero": "4016",
+      "urn": "urn:lex:br:federal:decreto:1901-05-11;4016",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-11-4014",
+      "titulo": "Decreto nº 4.014 de 11/05/1901",
+      "data": "1901-05-11",
+      "numero": "4014",
+      "urn": "urn:lex:br:federal:decreto:1901-05-11;4014",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE VILLA BELLA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-11-4015",
+      "titulo": "Decreto nº 4.015 de 11/05/1901",
+      "data": "1901-05-11",
+      "numero": "4015",
+      "urn": "urn:lex:br:federal:decreto:1901-05-11;4015",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE FLORIANO PEIXOTO, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-11-4017",
+      "titulo": "Decreto nº 4.017 de 11/05/1901",
+      "data": "1901-05-11",
+      "numero": "4017",
+      "urn": "urn:lex:br:federal:decreto:1901-05-11;4017",
+      "ementa": "APROVA O REGULAMENTO DA ESCOLA DE MINAS."
+    },
+    {
+      "senadoId": "403076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-06-4011",
+      "titulo": "Decreto nº 4.011 de 06/05/1901",
+      "data": "1901-05-06",
+      "numero": "4011",
+      "urn": "urn:lex:br:federal:decreto:1901-05-06;4011",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BELÉM DO DESCALVADO, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-06-4012",
+      "titulo": "Decreto nº 4.012 de 06/05/1901",
+      "data": "1901-05-06",
+      "numero": "4012",
+      "urn": "urn:lex:br:federal:decreto:1901-05-06;4012",
+      "ementa": "CONCEDE AO CIDADÃO FRANCISCO JOSÉ GONÇALVES AGRA FILHO AUTORIZAÇÃO PARA ORGANIZAR UMA COMPANHIA DE SEGUROS MÚTUOS CONTRA FOGO DENOMINADA ` LUZITANIA ´ E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "403084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-06-4013",
+      "titulo": "Decreto nº 4.013 de 06/05/1901",
+      "data": "1901-05-06",
+      "numero": "4013",
+      "urn": "urn:lex:br:federal:decreto:1901-05-06;4013",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA BELGO-BRESILIENNE AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "403072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-05-02-4010",
+      "titulo": "Decreto nº 4.010 de 02/05/1901",
+      "data": "1901-05-02",
+      "numero": "4010",
+      "urn": "urn:lex:br:federal:decreto:1901-05-02;4010",
+      "ementa": "REGULA O CERIMONIAL DIPLOMÁTICO NO BRASIL."
+    },
+    {
+      "senadoId": "403068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-30-4009",
+      "titulo": "Decreto nº 4.009 de 30/04/1901",
+      "data": "1901-04-30",
+      "numero": "4009",
+      "urn": "urn:lex:br:federal:decreto:1901-04-30;4009",
+      "ementa": "CONCEDE AO \"LONDON AND BRASILIAN BANK, LIMITED\" AUTORIZAÇÃO PARA ESTABELECER UMA AGÊNCIA NA CIDADE DE MANAUS, ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "403064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-29-4008",
+      "titulo": "Decreto nº 4.008 de 29/04/1901",
+      "data": "1901-04-29",
+      "numero": "4008",
+      "urn": "urn:lex:br:federal:decreto:1901-04-29;4008",
+      "ementa": "PRORROGA POR MAIS TRÊS MESES O PRAZO CONCEDIDO À COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE PELO DECRETO NÚMERO 3.868, DE 22 DE DEZEMBRO DE 1900, PARA INTERRUPÇÃO DOS RESPECTIVOS TRABALHOS DE CONSTRUÇÃO."
+    },
+    {
+      "senadoId": "403060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-29-4007",
+      "titulo": "Decreto nº 4.007 de 29/04/1901",
+      "data": "1901-04-29",
+      "numero": "4007",
+      "urn": "urn:lex:br:federal:decreto:1901-04-29;4007",
+      "ementa": "TORNA EXTENSIVAS ÀS ESTRADAS DE FERRO DO CARANGOLA E DE SANTO EDUARDO AO COCHOEIRO DO ITAPEMIRIM AS TARIFAS E INSTRUÇÕES REGULAMENTARES APROVADAS PELO DECRETO NÚMERO 3.785 DE 1 DE OUTUBRO DE 1900."
+    },
+    {
+      "senadoId": "403056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-29-4006",
+      "titulo": "Decreto nº 4.006 de 29/04/1901",
+      "data": "1901-04-29",
+      "numero": "4006",
+      "urn": "urn:lex:br:federal:decreto:1901-04-29;4006",
+      "ementa": "FAZ CESSAR A REDUÇÃO DOS FRETES DOS GÊNEROS DE PRIMEIRA NECESSIDADE, FEITA NA ESTRADA DE FERRO DE BATURITÉ PELO DECRETO NÚMERO 3.684, DE 19 DE JUNHO DE 1900."
+    },
+    {
+      "senadoId": "403052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-23-4005",
+      "titulo": "Decreto nº 4.005 de 23/04/1901",
+      "data": "1901-04-23",
+      "numero": "4005",
+      "urn": "urn:lex:br:federal:decreto:1901-04-23;4005",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA SOCIEDADE MÚTUA DE SEGUROS SOBRE A VIDA \"A NACIONAL\" E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "403048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-23-4004",
+      "titulo": "Decreto nº 4.004 de 23/04/1901",
+      "data": "1901-04-23",
+      "numero": "4004",
+      "urn": "urn:lex:br:federal:decreto:1901-04-23;4004",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 1.630:884$400, PARA PAGAMENTO DAS DESPESAS DE REPRESENTAÇÃO DO PRESIDENTE DA REPÚBLICA COM SUA VIAGEM A REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "403036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-4001",
+      "titulo": "Decreto nº 4.001 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "4001",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;4001",
+      "ementa": "APROVA A ALTERAÇÃO DO ARTIGO 4º DOS ESTATUTOS DA COMPANHIA ANTÁRTICA PAULISTA."
+    },
+    {
+      "senadoId": "403024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-3998",
+      "titulo": "Decreto nº 3.998 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "3998",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;3998",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA THE SÃO BENTO GOLD ESTATES, LIMITED."
+    },
+    {
+      "senadoId": "403032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-4000",
+      "titulo": "Decreto nº 4.000 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "4000",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;4000",
+      "ementa": "APROVA AS CONDIÇÕES REGULAMENTARES E BASES DAS TARIFAS DA ESTRADA DE FERRO DE SOBRAL."
+    },
+    {
+      "senadoId": "403044",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-4003",
+      "titulo": "Decreto nº 4.003 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "4003",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;4003",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 250:000$ PARA SER APLICADO À INDENIZAÇÃO DEVIDA À COMPANHIA GERAL DE MELHORAMENTOS NO MARANHÃO PELA RESCISÃO DO RESPECTIVO CONTRATO PARA O ESTABELECIMENTO DE IMIGRANTES E NUCLEOS COLÔNIAIS NAQUELE ESTADO."
+    },
+    {
+      "senadoId": "403040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-4002",
+      "titulo": "Decreto nº 4.002 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "4002",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;4002",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 100:000$, EM SUPLEMENTO AO DE QUE TRATA O DECRETO NÚMERO 3.956, DE 12 DE MARÇO DE 1901, AFIM DE OCORRER ÀS DESPESAS DE TRANSPORTE CEARENSES, SUA INTERNAÇÃO E OUTROS."
+    },
+    {
+      "senadoId": "403028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-3999",
+      "titulo": "Decreto nº 3.999 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "3999",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;3999",
+      "ementa": "CONSIDERA EXTENSIVAS AOS DESVIOS, EM GERAL, NA ESTRADA DE FERRO CENTRAL DAS ALAGOAS, AS DISPOSIÇÕES CONSTANTES DO DECRETO NÚMERO 3.711, DE 23 DE JUNHO DE 1900."
+    },
+    {
+      "senadoId": "403020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-22-3997",
+      "titulo": "Decreto nº 3.997 de 22/04/1901",
+      "data": "1901-04-22",
+      "numero": "3997",
+      "urn": "urn:lex:br:federal:decreto:1901-04-22;3997",
+      "ementa": "DECLARA CADUCA A CONCESSÃO DE ENGENHOS CENTRAIS FEITAS AO CIDADÃO JOAQUIM IGNACIO PEREIRA, NO ESTADO DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "403012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-20-3995",
+      "titulo": "Decreto nº 3.995 de 20/04/1901",
+      "data": "1901-04-20",
+      "numero": "3995",
+      "urn": "urn:lex:br:federal:decreto:1901-04-20;3995",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA CAVALARIA DE GUARDAS NACIONAIS NO COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-20-3994",
+      "titulo": "Decreto nº 3.994 de 20/04/1901",
+      "data": "1901-04-20",
+      "numero": "3994",
+      "urn": "urn:lex:br:federal:decreto:1901-04-20;3994",
+      "ementa": "CONCEDE ÀS ESCOLAS DOM BOSCO, EM CACHOEIRAS DO CAMPO, ESTADO DE MINAS GERAIS, AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "403016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-20-3996",
+      "titulo": "Decreto nº 3.996 de 20/04/1901",
+      "data": "1901-04-20",
+      "numero": "3996",
+      "urn": "urn:lex:br:federal:decreto:1901-04-20;3996",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO COMARCA DO BANANAL, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-19-3993",
+      "titulo": "Decreto nº 3.993 de 19/04/1901",
+      "data": "1901-04-19",
+      "numero": "3993",
+      "urn": "urn:lex:br:federal:decreto:1901-04-19;3993",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 23:108$322 PARA OCORRER AO PAGAMENTO A DOCENTES, EM DISPONIBILIDADE, DOS INSTITUTOS MILITARES DE ENSINO, E GRATIFICAÇÕES VENCIDAS E A VENCER DE 19 DE ABRIL DE 1898 A 31 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "402996",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-18-3991",
+      "titulo": "Decreto nº 3.991 de 18/04/1901",
+      "data": "1901-04-18",
+      "numero": "3991",
+      "urn": "urn:lex:br:federal:decreto:1901-04-18;3991",
+      "ementa": "PUBLICA A ADESÃO DA COLÔNIA BRITÂNICA DA RHODESIA DO SUL E DO PROTETORADO BRITÂNICO DE BECHUANALAND À CONVENÇÃO PRINCIPAL DE WASHINGTON DE 15 DE JUNHO DE 1897."
+    },
+    {
+      "senadoId": "403000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-18-3992",
+      "titulo": "Decreto nº 3.992 de 18/04/1901",
+      "data": "1901-04-18",
+      "numero": "3992",
+      "urn": "urn:lex:br:federal:decreto:1901-04-18;3992",
+      "ementa": "MANDA MATRICULAR NAS ESCOLAS DO EXÉRCITO, DE ACORDO COM A LEI NÚMERO 687, DE 14 DE SETEMBRO DE 1900, 800 ALUNOS."
+    },
+    {
+      "senadoId": "402984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-13-3988",
+      "titulo": "Decreto nº 3.988 de 13/04/1901",
+      "data": "1901-04-13",
+      "numero": "3988",
+      "urn": "urn:lex:br:federal:decreto:1901-04-13;3988",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPORANGA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-13-3990",
+      "titulo": "Decreto nº 3.990 de 13/04/1901",
+      "data": "1901-04-13",
+      "numero": "3990",
+      "urn": "urn:lex:br:federal:decreto:1901-04-13;3990",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO NEGRO, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "402988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-13-3989",
+      "titulo": "Decreto nº 3.989 de 13/04/1901",
+      "data": "1901-04-13",
+      "numero": "3989",
+      "urn": "urn:lex:br:federal:decreto:1901-04-13;3989",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE COARI, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "402980",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-13-3987",
+      "titulo": "Decreto nº 3.987 de 13/04/1901",
+      "data": "1901-04-13",
+      "numero": "3987",
+      "urn": "urn:lex:br:federal:decreto:1901-04-13;3987",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA NACIONAL DE BELLAS ARTES."
+    },
+    {
+      "senadoId": "402975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-09-3986",
+      "titulo": "Decreto nº 3.986 de 09/04/1901",
+      "data": "1901-04-09",
+      "numero": "3986",
+      "urn": "urn:lex:br:federal:decreto:1901-04-09;3986",
+      "ementa": "APROVA OS PLANOS E ORÇAMENTOS PARA O AUMENTO DAS ESTAÇÕES DE VIÇOSA, GAMELLEIRA E CACHOEIRA, DA ESTRADA DE FERRO CENTRAL DE ALAGOAS."
+    },
+    {
+      "senadoId": "402978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-09-3986-a",
+      "titulo": "Decreto nº 3.986-A de 09/04/1901",
+      "data": "1901-04-09",
+      "numero": "3986-a",
+      "urn": "urn:lex:br:federal:decreto:1901-04-09;3986-a",
+      "ementa": "APROVA A MODIFICAÇÃO FEITA NO ARTIGO 6º E NAS TRÊS PRIMEIRAS ALÍNEAS DO ARTIGO 8º DOS ESTATUTOS DA SOCIEDADE ANÔNIMA SUCRERIE DE CUPIM."
+    },
+    {
+      "senadoId": "402971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-09-3985",
+      "titulo": "Decreto nº 3.985 de 09/04/1901",
+      "data": "1901-04-09",
+      "numero": "3985",
+      "urn": "urn:lex:br:federal:decreto:1901-04-09;3985",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO A COMPANHIA BRASILEIRA TORRENS PARA INÍCIO DAS OBRAS DO PORTO DA VITÓRIA, NO ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "402967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-04-02-3984",
+      "titulo": "Decreto nº 3.984 de 02/04/1901",
+      "data": "1901-04-02",
+      "numero": "3984",
+      "urn": "urn:lex:br:federal:decreto:1901-04-02;3984",
+      "ementa": "RETIFICA O ALGARISMO DO ORÇAMENTO A QUE ALUDE O ARTIGO 1º DO DECRETO NÚMERO 3856, DE DEZEMBRO DE 1900, E ALTERA A DISPOSIÇÃO DO ARTIGO 2º DO MESMO DECRETO."
+    },
+    {
+      "senadoId": "402963",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-30-3983",
+      "titulo": "Decreto nº 3.983 de 30/03/1901",
+      "data": "1901-03-30",
+      "numero": "3983",
+      "urn": "urn:lex:br:federal:decreto:1901-03-30;3983",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PIRAJÚ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402959",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-30-3982",
+      "titulo": "Decreto nº 3.982 de 30/03/1901",
+      "data": "1901-03-30",
+      "numero": "3982",
+      "urn": "urn:lex:br:federal:decreto:1901-03-30;3982",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 3:723$200, PARA LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA AO DR. HENRIQUE AUGUSTO DE ALBUQUERQUE MILET E SUA MULHER, EM VIRTUDE DE ACORDÃO DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "402955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-30-3981",
+      "titulo": "Decreto nº 3.981 de 30/03/1901",
+      "data": "1901-03-30",
+      "numero": "3981",
+      "urn": "urn:lex:br:federal:decreto:1901-03-30;3981",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 22:842$380, PARA LIQUIDAÇÃO DO DIREITO DE CREDITÓRIO RECONHECIDO A D. MARIA CONSTANÇA DE GOUVÊA SOARES E OUTROS, EM VIRTUDE DE SENTENÇA DO PODER JUDICIÁRIO, PASSADAS EM JULGADO."
+    },
+    {
+      "senadoId": "402951",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-30-3980",
+      "titulo": "Decreto nº 3.980 de 30/03/1901",
+      "data": "1901-03-30",
+      "numero": "3980",
+      "urn": "urn:lex:br:federal:decreto:1901-03-30;3980",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1.923:553$314, PARA LIQUIDAÇÃO DO DIREITO CREDITÓRIO RECONHECIDO A THEODORO WILLE & COMP., EM VIRTUDE DE SENTENÇA DO JUIZ FEDERAL NESTA SEÇÃO, CONFIRMADA POR ACORDÃO DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "402943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-28-3978",
+      "titulo": "Decreto nº 3.978 de 28/03/1901",
+      "data": "1901-03-28",
+      "numero": "3978",
+      "urn": "urn:lex:br:federal:decreto:1901-03-28;3978",
+      "ementa": "AUTORIZA A \"AMAZON STEAM NAVIAGATION COMPANY, LIMITED\" A SUBSTITUIR A ESCALA DO PORTO DE MACAPÁ DA LINHA ARAGUARI PELA DO PORTO DE CHAVES."
+    },
+    {
+      "senadoId": "402947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-28-3979",
+      "titulo": "Decreto nº 3.979 de 28/03/1901",
+      "data": "1901-03-28",
+      "numero": "3979",
+      "urn": "urn:lex:br:federal:decreto:1901-03-28;3979",
+      "ementa": "AUTORIZA A NOVAÇÃO DO CONTRATO CELEBRADO EM VIRTUDE DOS DECRETOS NÚMEROS 1.835, DE 10 DE OUTUBRO DE 1894 E 2.015, DE 25 DE ABRIL DE 1895, COM A COMPANHIA DE NAVEGAÇÃO A VAPOR DO MARANHÃO."
+    },
+    {
+      "senadoId": "402939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3977",
+      "titulo": "Decreto nº 3.977 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3977",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3977",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1.797:502$320, PARA LIQUIDAÇÃO DO DIREITO CREDITÓRIO RECONHECIMENTO A SOUZA FILHO & COMP. E OUTROS POR SENTENÇA DO JUIZ FEDERAL NESTA SEÇÃO, CONFIRMADA POR ACORDÃO DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "402919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3972",
+      "titulo": "Decreto nº 3.972 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3972",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3972",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 280:000$, SUPLEMENTAR À VERBA - MESAS DE RENDAS - DO EXERCÍCIO DE 1901."
+    },
+    {
+      "senadoId": "402935",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3976",
+      "titulo": "Decreto nº 3.976 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3976",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3976",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 429:919$460, PARA LIQUIDAÇÃO DO DIREITO CREDITÓRIO RECONHECIDO A SILVA GUIMARÃES & COMP. E OUTROS POR ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 10 DE OUTUBRO DO ANO PASSADO."
+    },
+    {
+      "senadoId": "402931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3975",
+      "titulo": "Decreto nº 3.975 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3975",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3975",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 485:179$824, PARA LIQUIDAÇÃO DO DIREITO CREDITÓRIO RECONHECIDO A PIRES COELHO & IRMÃO E OUTROS POR ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 21 DE NOVEMBRO DO ANO PASSADO."
+    },
+    {
+      "senadoId": "402927",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3974",
+      "titulo": "Decreto nº 3.974 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3974",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3974",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 179:717$480, PARA OCORRER AO PAGAMENTO DEVIDO A JOÃO DE AQUINO FONSECA IRNÃOS & COMP., EM VIRTUDE DE SENTENÇA DO JUIZ FEDERAL EM PERNAMBUCO, CONFIRMADA POR ACORDÃO DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "402923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3973",
+      "titulo": "Decreto nº 3.973 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3973",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3973",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 401:206$890, PARA LIQUIDAÇÃO DO DIREITO CREDITÓRIO RECONHECIDO A PIRES COELHO & IRMÃO, POR ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 30 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "402915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-27-3971",
+      "titulo": "Decreto nº 3.971 de 27/03/1901",
+      "data": "1901-03-27",
+      "numero": "3971",
+      "urn": "urn:lex:br:federal:decreto:1901-03-27;3971",
+      "ementa": "APROVA, COM ACRÉSCIMO DE TRÊS CLÁUSULAS, ESTATUTOS DA COMPANHIA DE SEGUROS TERRESTRE, MARÍTIMO, SOBRE VIDA E COMERCIAL- AMÉRICA."
+    },
+    {
+      "senadoId": "402911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-26-3970",
+      "titulo": "Decreto nº 3.970 de 26/03/1901",
+      "data": "1901-03-26",
+      "numero": "3970",
+      "urn": "urn:lex:br:federal:decreto:1901-03-26;3970",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DA QUANTIA DE 154:030$119, SUPLEMENTAR À VERBA 16ª - MATERIAL - CONSIGNAÇÃO NÚMERO 34 - TRANSPORTE DE TROPAS., DO ARTIGO 17 DA LEI NÚMERO 652, DE 23 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "402907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-23-3969",
+      "titulo": "Decreto nº 3.969 de 23/03/1901",
+      "data": "1901-03-23",
+      "numero": "3969",
+      "urn": "urn:lex:br:federal:decreto:1901-03-23;3969",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JABOTICABAL, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-23-3965",
+      "titulo": "Decreto nº 3.965 de 23/03/1901",
+      "data": "1901-03-23",
+      "numero": "3965",
+      "urn": "urn:lex:br:federal:decreto:1901-03-23;3965",
+      "ementa": "DÁ INSTRUÇÕES PARA O SERVIÇO DA CLÍNICA PSIQUIÁTRICA E DE MOLÉSTIAS NERVOSAS DA FACULDADE DE MEDICINA RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-23-3967",
+      "titulo": "Decreto nº 3.967 de 23/03/1901",
+      "data": "1901-03-23",
+      "numero": "3967",
+      "urn": "urn:lex:br:federal:decreto:1901-03-23;3967",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE XIRIRICA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-23-3968",
+      "titulo": "Decreto nº 3.968 de 23/03/1901",
+      "data": "1901-03-23",
+      "numero": "3968",
+      "urn": "urn:lex:br:federal:decreto:1901-03-23;3968",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BARRETOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-23-3964",
+      "titulo": "Decreto nº 3.964 de 23/03/1901",
+      "data": "1901-03-23",
+      "numero": "3964",
+      "urn": "urn:lex:br:federal:decreto:1901-03-23;3964",
+      "ementa": "APROVA REGULAMENTO PARA INSTITUTO NACIONAL DOS SURDOS MUDOS."
+    },
+    {
+      "senadoId": "402895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-23-3966",
+      "titulo": "Decreto nº 3.966 de 23/03/1901",
+      "data": "1901-03-23",
+      "numero": "3966",
+      "urn": "urn:lex:br:federal:decreto:1901-03-23;3966",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES NOVO CRÉDITO SUPLEMENTAR DE 216:361$315 À VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "402876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-21-3962",
+      "titulo": "Decreto nº 3.962 de 21/03/1901",
+      "data": "1901-03-21",
+      "numero": "3962",
+      "urn": "urn:lex:br:federal:decreto:1901-03-21;3962",
+      "ementa": "APROVA A TRANSFERÊNCIA DO CONTRATO DE ARRENDAMENTO DA ESTRADA DE FERRO CENTRAL DE PERNAMBUCO A FIRMA SOCIAL A. DE SÃO PIRES FERREIRA & COMP."
+    },
+    {
+      "senadoId": "402872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-18-3961",
+      "titulo": "Decreto nº 3.961 de 18/03/1901",
+      "data": "1901-03-18",
+      "numero": "3961",
+      "urn": "urn:lex:br:federal:decreto:1901-03-18;3961",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 33:155$773, PARA A LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA A EDUARDO MARTINS & COMP., EM VIRTUDE ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 23 DE AGOSTO DE 1899."
+    },
+    {
+      "senadoId": "402868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-18-3960",
+      "titulo": "Decreto nº 3.960 de 18/03/1901",
+      "data": "1901-03-18",
+      "numero": "3960",
+      "urn": "urn:lex:br:federal:decreto:1901-03-18;3960",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 9:000$ PARA OCORRER AO PAGAMENTO DE ALUGUEL DE ARMAZENS AO SERVIÇO DA ALFANDEGA DE MACEIO, ESTADO DAS ALAGOAS."
+    },
+    {
+      "senadoId": "402864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-15-3959",
+      "titulo": "Decreto nº 3.959 de 15/03/1901",
+      "data": "1901-03-15",
+      "numero": "3959",
+      "urn": "urn:lex:br:federal:decreto:1901-03-15;3959",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 4:800$ PARA OCORRER AO PAGAMENTO DE GRATIFICAÇÕES QUE DEIXOU DE RECEBER EM 1898 E 1899 A MESTRANÇA DA OFICINA DE ALFAIATES DO ARSENAL DE GUERRA DESTA CAPITAL."
+    },
+    {
+      "senadoId": "402860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-14-3958",
+      "titulo": "Decreto nº 3.958 de 14/03/1901",
+      "data": "1901-03-14",
+      "numero": "3958",
+      "urn": "urn:lex:br:federal:decreto:1901-03-14;3958",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE TRINTA CONTOS DE RÉIS (30:000$) PARA OCORRER AO PAGAMENTO DEVIDO A VIUVA E  AO FILHO DO DR. ANNIBAL FALCÃO."
+    },
+    {
+      "senadoId": "402856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-13-3957",
+      "titulo": "Decreto nº 3.957 de 13/03/1901",
+      "data": "1901-03-13",
+      "numero": "3957",
+      "urn": "urn:lex:br:federal:decreto:1901-03-13;3957",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE 92:511 $ PARA PAGAMENTO DE DIFERENÇA DE SALARIOS, NO EXERCÍCIO DE 1898, A OPERARIOS EXTRAORDINARIOS DISPENSADOS DO ARSENAL DE MARINHA DESTA CAPITAL."
+    },
+    {
+      "senadoId": "402844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-12-3954",
+      "titulo": "Decreto nº 3.954 de 12/03/1901",
+      "data": "1901-03-12",
+      "numero": "3954",
+      "urn": "urn:lex:br:federal:decreto:1901-03-12;3954",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE TRINTA CONTOS SEISCENTOS E SESSENTA MIL REIS (30:660$), PARA OCORRER AO PAGAMENTO DAS DIARIAS DE TRANSPORTE DOS ENGENHEIROS E CoNDUTORES TECNICOS DA INSPEÇÃO GERAL DAS OBRAS PÚBLICAS DA CAPITAL FEDERAl, RELATIVAS AOS MESES DE JANEIRO A DEZEMBRO DO EXERCÍCIO FINDO DE 1898."
+    },
+    {
+      "senadoId": "402848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-12-3955",
+      "titulo": "Decreto nº 3.955 de 12/03/1901",
+      "data": "1901-03-12",
+      "numero": "3955",
+      "urn": "urn:lex:br:federal:decreto:1901-03-12;3955",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 1:643$740, EM OURO, PARA OCORRER AO PAGAMENTO DA GRATIFICAÇÃO DEVIDA AO ESCRITURARIO DA DELEGACIA DO TESOURO EM LONDRES, DARIO CAETENO DA SILVA."
+    },
+    {
+      "senadoId": "402840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-12-3953",
+      "titulo": "Decreto nº 3.953 de 12/03/1901",
+      "data": "1901-03-12",
+      "numero": "3953",
+      "urn": "urn:lex:br:federal:decreto:1901-03-12;3953",
+      "ementa": "CRIA UM CONSULADO EM CANNES (FRANÇA)."
+    },
+    {
+      "senadoId": "402852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-12-3956",
+      "titulo": "Decreto nº 3.956 de 12/03/1901",
+      "data": "1901-03-12",
+      "numero": "3956",
+      "urn": "urn:lex:br:federal:decreto:1901-03-12;3956",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE DUZENTOS CONTOS DE RÉIS (200:000$) PARA OCORRER ÀS DESPESAS DE TRANSPORTES DOS RETIRANTES CEARENSES E A OUTRAS RELATIVAS."
+    },
+    {
+      "senadoId": "402836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-09-3952",
+      "titulo": "Decreto nº 3.952 de 09/03/1901",
+      "data": "1901-03-09",
+      "numero": "3952",
+      "urn": "urn:lex:br:federal:decreto:1901-03-09;3952",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BAMBUHY, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-07-3947",
+      "titulo": "Decreto nº 3.947 de 07/03/1901",
+      "data": "1901-03-07",
+      "numero": "3947",
+      "urn": "urn:lex:br:federal:decreto:1901-03-07;3947",
+      "ementa": "ALTERA ALGUMAS E CONSOLIDA TODAS AS CLAUSULAS DOS DECRETOS RELATIVOS A CONCESSÃO DA ESTRADA DE FERRO S. PAULO RIO GRANDE."
+    },
+    {
+      "senadoId": "402828",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-07-3950",
+      "titulo": "Decreto nº 3.950 de 07/03/1901",
+      "data": "1901-03-07",
+      "numero": "3950",
+      "urn": "urn:lex:br:federal:decreto:1901-03-07;3950",
+      "ementa": "AUTORIZA A INCLUSÃO DA QUANTIA DESPENDIDA COM DIVERSAS OBRAS COMPLEMENTARES DO CAES DE SANTOS NA CAPITAL DA COMPANHIA DOCAS DE SANTOS."
+    },
+    {
+      "senadoId": "402824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-07-3949",
+      "titulo": "Decreto nº 3.949 de 07/03/1901",
+      "data": "1901-03-07",
+      "numero": "3949",
+      "urn": "urn:lex:br:federal:decreto:1901-03-07;3949",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 46:800$ PARA PAGAR A ESTEVÃO CUNHA A IMPORTÂNCIA DAS TERRAS DE SUA PROPRIEDADE, EM QUE FORAM LOCALIZADOS IMIGRANTES NA EX-COLÔNIA BRUSQUE, NO ESTADO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "402832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-07-3951",
+      "titulo": "Decreto nº 3.951 de 07/03/1901",
+      "data": "1901-03-07",
+      "numero": "3951",
+      "urn": "urn:lex:br:federal:decreto:1901-03-07;3951",
+      "ementa": "AUTORIZA A INCLUSÃO DA QUANTIA DESPENDIDA COM DIVERSAS OBRAS COMPLEMENTARES DO CAIS DE SANTOS NA CAPITAL DA COMPANHIA DOCAS DE SANTOS."
+    },
+    {
+      "senadoId": "402820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-07-3948",
+      "titulo": "Decreto nº 3.948 de 07/03/1901",
+      "data": "1901-03-07",
+      "numero": "3948",
+      "urn": "urn:lex:br:federal:decreto:1901-03-07;3948",
+      "ementa": "APROVA O PORJETO O ORÇAMENTO DE MODIFICAÇÃO DA PONTE SOBRE O RIO ARACOYABA E DO TRAÇADO DA VARIANTE ENTRE AS ESTACAS 0 E 61 + 18 DO RAMAL DE CANÔA, DA ESTRADA DE FERRO DE BATURITÉ."
+    },
+    {
+      "senadoId": "402812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-07-3946",
+      "titulo": "Decreto nº 3.946 de 07/03/1901",
+      "data": "1901-03-07",
+      "numero": "3946",
+      "urn": "urn:lex:br:federal:decreto:1901-03-07;3946",
+      "ementa": "CONCEDE A EMPRESA INDUSTRIAL DE MELHORAMENTO NO BRASIL AUTORIZAÇÃO PARA PROLONGAR A ESTRADA DE FERRO DE S. FRANCISCO XAVIER AO COMERCIO, DA ESTAÇÃO DA MANGUEIRA AO LITORAL, MEDIANTE CONDIÇÕES."
+    },
+    {
+      "senadoId": "402809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-04-3945",
+      "titulo": "Decreto nº 3.945 de 04/03/1901",
+      "data": "1901-03-04",
+      "numero": "3945",
+      "urn": "urn:lex:br:federal:decreto:1901-03-04;3945",
+      "ementa": "DA REGULAMENTO AO ARTIGO 29, NÚMEROS 23 E 24 DA LEI NÚMERO 746, DE 29 DE DEZEMBRO DE 1900, DE ACORDO COM O PARÁGRAFO 6º DO ARTIGO 3º NÚMERO IX DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898, E ARTIGO 1º PARÁGRAFO 3º, 4º E 5º DO DECRETO NÚMERO 2.502, DE 24 DE ABRIL DE 1897."
+    },
+    {
+      "senadoId": "402805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-02-3944",
+      "titulo": "Decreto nº 3.944 de 02/03/1901",
+      "data": "1901-03-02",
+      "numero": "3944",
+      "urn": "urn:lex:br:federal:decreto:1901-03-02;3944",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ITAMBÉ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "402801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-03-01-3943",
+      "titulo": "Decreto nº 3.943 de 01/03/1901",
+      "data": "1901-03-01",
+      "numero": "3943",
+      "urn": "urn:lex:br:federal:decreto:1901-03-01;3943",
+      "ementa": "CRIA O DEPÓSITO DO MATERIAL SANITÁRIO DO EXÉRCITO AO QUAL DE DÁ O REGULAMENTO."
+    },
+    {
+      "senadoId": "402793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-28-3941",
+      "titulo": "Decreto nº 3.941 de 28/02/1901",
+      "data": "1901-02-28",
+      "numero": "3941",
+      "urn": "urn:lex:br:federal:decreto:1901-02-28;3941",
+      "ementa": "PROROGA POR UM ANO O PRAZO FIXADO NA CLASULA 2ª DO DECRETO NÚMERO 3.569, DE 23 DE JANEIRO DE 1900, PARA O INICIO DAS OBRAS DE MELHORAMENTO DO PORTO DA CAPITAL DO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "402789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-28-3940",
+      "titulo": "Decreto nº 3.940 de 28/02/1901",
+      "data": "1901-02-28",
+      "numero": "3940",
+      "urn": "urn:lex:br:federal:decreto:1901-02-28;3940",
+      "ementa": "PROROGA ATE 31 DE DEZEMBRO DE 1902 O PRAZO PARA CONCLUSÃO DOS CEM PRIMEIROS QUILOMETROS DA ESTRADA DE FERRO UBERABA AO COXIM."
+    },
+    {
+      "senadoId": "402797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-28-3942",
+      "titulo": "Decreto nº 3.942 de 28/02/1901",
+      "data": "1901-02-28",
+      "numero": "3942",
+      "urn": "urn:lex:br:federal:decreto:1901-02-28;3942",
+      "ementa": "ELEVA A 5:590$960 O ORÇAMENTO DAS OBRAS DE CONSTRUÇÃO DA CASA PARA MORADA DO AGENTE DA ESTAÇÃO DE CAXIAS, DA ESTRADA DE FERRO DE CAXIAS A CAJAZEIRAS."
+    },
+    {
+      "senadoId": "402773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-25-3936",
+      "titulo": "Decreto nº 3.936 de 25/02/1901",
+      "data": "1901-02-25",
+      "numero": "3936",
+      "urn": "urn:lex:br:federal:decreto:1901-02-25;3936",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 125:299$391, OURO, SUPLEMENTAR A VERBA - CAIXA DE AMORTIZAÇÃO - DO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "402785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-25-3939",
+      "titulo": "Decreto nº 3.939 de 25/02/1901",
+      "data": "1901-02-25",
+      "numero": "3939",
+      "urn": "urn:lex:br:federal:decreto:1901-02-25;3939",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 216:085$299, SUPLEMENTAR A VERBA - ALFANDEGAS- DO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "402781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-25-3938",
+      "titulo": "Decreto nº 3.938 de 25/02/1901",
+      "data": "1901-02-25",
+      "numero": "3938",
+      "urn": "urn:lex:br:federal:decreto:1901-02-25;3938",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 12:500$, PARA PAGAMENTO DE ORDENADOS DEVIDOS AO EX-CONFERENTE DA ALFÂNDEGA DO CEARÁ, FRANCISCO DE PULA ALBUQUERQUE MARANHÃO."
+    },
+    {
+      "senadoId": "402777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-25-3937",
+      "titulo": "Decreto nº 3.937 de 25/02/1901",
+      "data": "1901-02-25",
+      "numero": "3937",
+      "urn": "urn:lex:br:federal:decreto:1901-02-25;3937",
+      "ementa": "MANDA OBSERVAR PELO CONSULADO BRASILEIRO DO SALTO, NA REPUBLICA ORIENTAL DO URUGUAI, O MODELO DE FATURA CONSULTAR ANEXO AO REGULAMENTO APROVADO PELO DECRETO NÚMERO 3.732, DE 7 DE AGOSTO DE 1900, COM AS MODIFICAÇÕES NESTE INDICADAS."
+    },
+    {
+      "senadoId": "402761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-23-3933",
+      "titulo": "Decreto nº 3.933 de 23/02/1901",
+      "data": "1901-02-23",
+      "numero": "3933",
+      "urn": "urn:lex:br:federal:decreto:1901-02-23;3933",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAOCÁRA, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-23-3930",
+      "titulo": "Decreto nº 3.930 de 23/02/1901",
+      "data": "1901-02-23",
+      "numero": "3930",
+      "urn": "urn:lex:br:federal:decreto:1901-02-23;3930",
+      "ementa": "ALTERA O ARTIGO 1º DO DECRETO 3.841, DE 3 DE DEZEMBRO DE 1900, E MODIFICA A TARIFA PARA OS SACOS VASIOS DESTINADOS A PRODUTOS AGRICOLAS, TRANSPORTADOS PELA ESTRADA DE FERRO DO RECIFE AO LIMOEIRO."
+    },
+    {
+      "senadoId": "402769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-23-3935",
+      "titulo": "Decreto nº 3.935 de 23/02/1901",
+      "data": "1901-02-23",
+      "numero": "3935",
+      "urn": "urn:lex:br:federal:decreto:1901-02-23;3935",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA FAXINA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "402765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-23-3934",
+      "titulo": "Decreto nº 3.934 de 23/02/1901",
+      "data": "1901-02-23",
+      "numero": "3934",
+      "urn": "urn:lex:br:federal:decreto:1901-02-23;3934",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDA NACIONAIS NA COMARCA DE PIRAJÚ, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "402754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-23-3931",
+      "titulo": "Decreto nº 3.931 de 23/02/1901",
+      "data": "1901-02-23",
+      "numero": "3931",
+      "urn": "urn:lex:br:federal:decreto:1901-02-23;3931",
+      "ementa": "APROVA A PLANTA E ORÇAMENTO PARA AS OBRAS DE COBERTURA E PROLONGAMENTO DA PLATAFORMA DA ESTAÇÃO MARITIMA DA ESTRADA DE FERRO RIO GRANDE A BAGÉ."
+    },
+    {
+      "senadoId": "402758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-23-3932",
+      "titulo": "Decreto nº 3.932 de 23/02/1901",
+      "data": "1901-02-23",
+      "numero": "3932",
+      "urn": "urn:lex:br:federal:decreto:1901-02-23;3932",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MANBUCY, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-20-3929",
+      "titulo": "Decreto nº 3.929 de 20/02/1901",
+      "data": "1901-02-20",
+      "numero": "3929",
+      "urn": "urn:lex:br:federal:decreto:1901-02-20;3929",
+      "ementa": "APROVA O REGULAMENTO PARA AS CAPITANIAS DE PORTOS."
+    },
+    {
+      "senadoId": "402726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-16-3924",
+      "titulo": "Decreto nº 3.924 de 16/02/1901",
+      "data": "1901-02-16",
+      "numero": "3924",
+      "urn": "urn:lex:br:federal:decreto:1901-02-16;3924",
+      "ementa": "MIDIFICA O ARTIGO 110 DOS ESTATUTOS DA \" THE WESTERN TELEGRAPH COMPANY, LIMITED\"."
+    },
+    {
+      "senadoId": "402730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-16-3925",
+      "titulo": "Decreto nº 3.925 de 16/02/1901",
+      "data": "1901-02-16",
+      "numero": "3925",
+      "urn": "urn:lex:br:federal:decreto:1901-02-16;3925",
+      "ementa": "APROVA OS ORÇAMENTOS E PROJETOS DE OBRAS COMPLEMENTARES DO CAES DE SANTOS E DA OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "402734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-16-3926",
+      "titulo": "Decreto nº 3.926 de 16/02/1901",
+      "data": "1901-02-16",
+      "numero": "3926",
+      "urn": "urn:lex:br:federal:decreto:1901-02-16;3926",
+      "ementa": "APROVA O REGULAMENTO DA ESCOLA POLITÉCNICA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-16-3923",
+      "titulo": "Decreto nº 3.923 de 16/02/1901",
+      "data": "1901-02-16",
+      "numero": "3923",
+      "urn": "urn:lex:br:federal:decreto:1901-02-16;3923",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 100:000$ PARA OCORRER AS DESPESAS COM A CONSTRUÇÃO DA LINHA TELEGRAFICA DE CUIABÁ A CORUMBÁ."
+    },
+    {
+      "senadoId": "402738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-16-3927",
+      "titulo": "Decreto nº 3.927 de 16/02/1901",
+      "data": "1901-02-16",
+      "numero": "3927",
+      "urn": "urn:lex:br:federal:decreto:1901-02-16;3927",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE FLORIANO PEIXOTO, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "402742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-16-3928",
+      "titulo": "Decreto nº 3.928 de 16/02/1901",
+      "data": "1901-02-16",
+      "numero": "3928",
+      "urn": "urn:lex:br:federal:decreto:1901-02-16;3928",
+      "ementa": "CONCEDE AO GINÁSIO DE CAMPINAS AS VANTAGENS DE QUE GOSA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-13-3922",
+      "titulo": "Decreto nº 3.922 de 13/02/1901",
+      "data": "1901-02-13",
+      "numero": "3922",
+      "urn": "urn:lex:br:federal:decreto:1901-02-13;3922",
+      "ementa": "DEFINE A RESERVA DOS NAVIOS DA ARMADA."
+    },
+    {
+      "senadoId": "402714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-11-3921",
+      "titulo": "Decreto nº 3.921 de 11/02/1901",
+      "data": "1901-02-11",
+      "numero": "3921",
+      "urn": "urn:lex:br:federal:decreto:1901-02-11;3921",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 10:300$ PARA PAGAMENTO DO PRÊMIO DEVIDO A SILVIA MOREIRA & C."
+    },
+    {
+      "senadoId": "402706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-06-3919",
+      "titulo": "Decreto nº 3.919 de 06/02/1901",
+      "data": "1901-02-06",
+      "numero": "3919",
+      "urn": "urn:lex:br:federal:decreto:1901-02-06;3919",
+      "ementa": "ESTABELECE OS UNIFORMES PARA OS PATRÕES-MORES DA MARINHA."
+    },
+    {
+      "senadoId": "402710",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-06-3920",
+      "titulo": "Decreto nº 3.920 de 06/02/1901",
+      "data": "1901-02-06",
+      "numero": "3920",
+      "urn": "urn:lex:br:federal:decreto:1901-02-06;3920",
+      "ementa": "ALTERA O PLANO DE UNIFORMES MANDADO OBSERVAR PELO DECRETO NÚMERO 2.036, DE 4 DE JULHO DE 1895, NA PARTE REFERENTE AOS ASPIRANTES A GUARDAS MARINHA."
+    },
+    {
+      "senadoId": "402702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-02-05-3918",
+      "titulo": "Decreto nº 3.918 de 05/02/1901",
+      "data": "1901-02-05",
+      "numero": "3918",
+      "urn": "urn:lex:br:federal:decreto:1901-02-05;3918",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE MARIANA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402690",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3915",
+      "titulo": "Decreto nº 3.915 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3915",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3915",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE QUIXADÁ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "402686",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3914",
+      "titulo": "Decreto nº 3.914 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3914",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3914",
+      "ementa": "APROVA O REGULAMENTO PARA O GINASIO NACIONAL."
+    },
+    {
+      "senadoId": "402682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3913",
+      "titulo": "Decreto nº 3.913 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3913",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3913",
+      "ementa": "CRIA O CONSELHO ADMINISTRATIVO DO PATRIMONIO DO HOSPÍCIO NACIONAL DE ALIENADOS, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "402698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3917",
+      "titulo": "Decreto nº 3.917 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3917",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3917",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BARRAS, NO ESTADO DO PIAUI."
+    },
+    {
+      "senadoId": "402678",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3912",
+      "titulo": "Decreto nº 3.912 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3912",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3912",
+      "ementa": "PERMITE QUE A COMPANHIA VIAÇÃO FERREA E FLUVIAL DO TOCANTINS E ARAGUIA COBRE UM PEDÁGIO PARA NAVEGAÇÃO DO ALTO TOCANTINS, DO ARAGUAIA E DE SEUS AFLUENTES, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "402694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3916",
+      "titulo": "Decreto nº 3.916 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3916",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3916",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PIRACURUCA, NO ESTADO DO PIAUI."
+    },
+    {
+      "senadoId": "402674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-26-3911",
+      "titulo": "Decreto nº 3.911 de 26/01/1901",
+      "data": "1901-01-26",
+      "numero": "3911",
+      "urn": "urn:lex:br:federal:decreto:1901-01-26;3911",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 9:138$, PARA OCORRER AO PAGAMENTO DE RESTITUIÇÕES DEVIDAS A SEVERINO POSSAS NUNEZ, PROVINIENTE DO PEDAGIO SOBRE A PONTE VACCA-CAHY, NA ESTRADA DE FERRO PORTO ALEGRE A URUGUAIANA."
+    },
+    {
+      "senadoId": "402670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-23-3910",
+      "titulo": "Decreto nº 3.910 de 23/01/1901",
+      "data": "1901-01-23",
+      "numero": "3910",
+      "urn": "urn:lex:br:federal:decreto:1901-01-23;3910",
+      "ementa": "ALTERA O ARTIGO 23 DO REGULAMENTO ANEXO AO DECRETO NÚMERO 3.843 DE 5 DE DEZEMBRO DE 1900."
+    },
+    {
+      "senadoId": "402666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-21-3909",
+      "titulo": "Decreto nº 3.909 de 21/01/1901",
+      "data": "1901-01-21",
+      "numero": "3909",
+      "urn": "urn:lex:br:federal:decreto:1901-01-21;3909",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 53:950$, SUPLEMENTAR À VERBA \" RECEBEDORIA DA CAPITAL FEDERAL\" NO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "402662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-21-3908",
+      "titulo": "Decreto nº 3.908 de 21/01/1901",
+      "data": "1901-01-21",
+      "numero": "3908",
+      "urn": "urn:lex:br:federal:decreto:1901-01-21;3908",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 181$427, PARA LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA AO DR. JOÃO DE CARVALHO SOARES BRANDÃO SOBRINHO FEDERAL, DE 18 DE DEZEMBRO DE 1899."
+    },
+    {
+      "senadoId": "402654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-19-3906",
+      "titulo": "Decreto nº 3.906 de 19/01/1901",
+      "data": "1901-01-19",
+      "numero": "3906",
+      "urn": "urn:lex:br:federal:decreto:1901-01-19;3906",
+      "ementa": "ALTERA O PREÇO DE UNIDADES DA VERBA Nº 9 DO ORÇAMENTO APROVADO PELO DECRETO Nº 3.755, DE 27 DE AGOSTO DE 1900, PARA CONSTRUÇÃO DO DESVIO PELO CORTE GRANDE DA ESTRADA DE FERRO D. TEREZA CRISTINA."
+    },
+    {
+      "senadoId": "402658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-19-3907",
+      "titulo": "Decreto nº 3.907 de 19/01/1901",
+      "data": "1901-01-19",
+      "numero": "3907",
+      "urn": "urn:lex:br:federal:decreto:1901-01-19;3907",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 287:894$920, SUPLEMENTAR AO AUTORIZADO PELO DECRETO LEGISLATIVO Nº 622 DE 1899."
+    },
+    {
+      "senadoId": "402650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-14-3905",
+      "titulo": "Decreto nº 3.905 de 14/01/1901",
+      "data": "1901-01-14",
+      "numero": "3905",
+      "urn": "urn:lex:br:federal:decreto:1901-01-14;3905",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 603:618$798 PARA LIQUIDAÇÃO DO DIREITO CREDITORIO RECONHECIDO A KARL VALAIS & C., AUGUSTO LEUBA & C. E ARETZ & C., POR OCORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 20 DE OUTUBRO DE 1900."
+    },
+    {
+      "senadoId": "402646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-14-3904",
+      "titulo": "Decreto nº 3.904 de 14/01/1901",
+      "data": "1901-01-14",
+      "numero": "3904",
+      "urn": "urn:lex:br:federal:decreto:1901-01-14;3904",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE SEGUROS MUTUOS SOBRE A VIDA UNIVERSAL."
+    },
+    {
+      "senadoId": "402626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3899",
+      "titulo": "Decreto nº 3.899 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3899",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3899",
+      "ementa": "APROVA A TRANSFERENCIA DO CONTRATO DE ARRENDAMENTO DA ESTRADA DE FERRO DO S. FRANCISCO A SOCIEDADE CONSTITUIDA SOB A RAZÃO SOCIAL - ARGOLLO, ARAGAÕ & C."
+    },
+    {
+      "senadoId": "402638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3902",
+      "titulo": "Decreto nº 3.902 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3902",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3902",
+      "ementa": "APROVA O REGULAMENTO DAS FACULDADES DE MEDICINA."
+    },
+    {
+      "senadoId": "402614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3896",
+      "titulo": "Decreto nº 3.896 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3896",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3896",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PUBLICAS OS CRÉDITOS ESPECIAIS DE 220.555 E 11.792 FRANCOS, PARA PAGAMENTO DO SALDO DE CONTAS ATRASADOS E INDENIZAÇÃO DEVIDOS A ADMINISTRAÇÃO DO TELEGRAFICO ORIENTAL."
+    },
+    {
+      "senadoId": "402630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3900",
+      "titulo": "Decreto nº 3.900 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3900",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3900",
+      "ementa": "CONCEDE À \"THE MACHINE COTTONS, LIMITEDE\", SOCIEDADE ANONIMA COM SEDE EM GLASSGOW, NA ESCOCIA, AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "402618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3897",
+      "titulo": "Decreto nº 3.897 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3897",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3897",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PUBLICAS O CRÉDITO EXTRAORDINARIO DE 100:000$ PARA OCORRER ÀS DESPESAS DE AGASALHO E SOCORROS COM OS RETIRANTES CEARENSES NOS ESTADOS DA UNIÃO."
+    },
+    {
+      "senadoId": "402622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3898",
+      "titulo": "Decreto nº 3.898 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3898",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3898",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PUBLICAS O CRÉDITO SUPLEMENTAR DE 2.912:675$525 À VERBA 17ª DO ARTIGO 21 DA LEI NÚMERO 652, DE 23 DE NOVEMBRO DE 1899, PARA OCORRER AO PAGAMENTO DAS TAXAS DE ESGOTO DA CAPITAL FEDERAL NO EXERCICIO DE 1900, E DÁ OUTRAS PROVIDÊCIAS."
+    },
+    {
+      "senadoId": "402634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3901",
+      "titulo": "Decreto nº 3.901 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3901",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3901",
+      "ementa": "APROVA O REGULAMENTO DO INSTITUTO BENJAMIN CONSTANT."
+    },
+    {
+      "senadoId": "402642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-12-3903",
+      "titulo": "Decreto nº 3.903 de 12/01/1901",
+      "data": "1901-01-12",
+      "numero": "3903",
+      "urn": "urn:lex:br:federal:decreto:1901-01-12;3903",
+      "ementa": "APROVA O REGULAMENTO DAS FACULDADES DE DIREITO."
+    },
+    {
+      "senadoId": "402610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-11-3895",
+      "titulo": "Decreto nº 3.895 de 11/01/1901",
+      "data": "1901-01-11",
+      "numero": "3895",
+      "urn": "urn:lex:br:federal:decreto:1901-01-11;3895",
+      "ementa": "MODIFICA O ARTIGO 18 DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 2.881, DE 18 DE ABRIL DE 1898, PARA OS INSTITUTOS MILITARES DE ENSINO."
+    },
+    {
+      "senadoId": "402606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-09-3894",
+      "titulo": "Decreto nº 3.894 de 09/01/1901",
+      "data": "1901-01-09",
+      "numero": "3894",
+      "urn": "urn:lex:br:federal:decreto:1901-01-09;3894",
+      "ementa": "CRIA UM CURSO DE TORPEDOS NO COMANDO GERAL DAS TORPEDEIRAS."
+    },
+    {
+      "senadoId": "402602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-05-3893",
+      "titulo": "Decreto nº 3.893 de 05/01/1901",
+      "data": "1901-01-05",
+      "numero": "3893",
+      "urn": "urn:lex:br:federal:decreto:1901-01-05;3893",
+      "ementa": "EXTINGUE A CONTADORIA GERAL DA GUERRA. CRIA A DIREÇÃO GERAL DE CONTABILIDADE DA GUERRA."
+    },
+    {
+      "senadoId": "402598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-02-3892",
+      "titulo": "Decreto nº 3.892 de 02/01/1901",
+      "data": "1901-01-02",
+      "numero": "3892",
+      "urn": "urn:lex:br:federal:decreto:1901-01-02;3892",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1.699:730$376, PAPEL, E 28:547$434, OURO, PARA PAGAMENTO DE DIVIDA DE EXERCÍCIO FINDOS."
+    },
+    {
+      "senadoId": "402594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-01-3891",
+      "titulo": "Decreto nº 3.891 de 01/01/1901",
+      "data": "1901-01-01",
+      "numero": "3891",
+      "urn": "urn:lex:br:federal:decreto:1901-01-01;3891",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINARIO DE 2:417$338, PARA PAGAMENTO AO ESCRIVÃO DO JUIZ SECCIONAL NO ESTADO DO PIAU, JESUINO JOSÉ RODRIGUES DE CARVALHO, E AO LUIZ DE DIREITO, EM DISPONIBILIDADE, BACHAREL FRANCISCO JOSÉ DA SILVA PORTO."
+    },
+    {
+      "senadoId": "402590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1901-01-01-3890",
+      "titulo": "Decreto nº 3.890 de 01/01/1901",
+      "data": "1901-01-01",
+      "numero": "3890",
+      "urn": "urn:lex:br:federal:decreto:1901-01-01;3890",
+      "ementa": "APROVA O CODIGO DOS INSTITUTOS DE ENSINO SUPERIOR E SECUNDARIO, DEPENDENTES DO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES."
+    }
+  ],
+  "pendencias": []
+}

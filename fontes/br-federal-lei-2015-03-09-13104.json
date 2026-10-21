@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-03-09-13104",
+  "titulo": "Lei nº 13.104 de 09/03/2015",
+  "data": "2015-03-09",
+  "fonte": "https://normas.leg.br/api/public/binario/095611fd-d952-42e0-9e01-b58082be6f85/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-03-09;13104",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-03-09%3B13104&tipo_documento=maior-detalhe",
+  "sha256_dados": "f22d83e56cd18a95ddb38d731f52757b242c1ba7bae86eba41596d300af1facb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:57.079Z",
+  "sha256_fonte": "fcced36253bdc45672e53eb988c42afa484e4d5409cd5040c2a7c9445325101c",
+  "sha256_markdown": "d55c1938a4d91d0587d09ef4fe3c751d1b82a2113783bfdcbbf471b28c96341a"
+}

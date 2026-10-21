@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-29-13238",
+  "titulo": "Lei nº 13.238 de 29/12/2015",
+  "data": "2015-12-29",
+  "fonte": "https://normas.leg.br/api/public/binario/7895a2ee-5797-4927-9b3f-4053250bbb81/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-29;13238",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-29%3B13238&tipo_documento=maior-detalhe",
+  "sha256_dados": "5549730e102841b39eb0e7ba23398369d2a592858bdb357d750518e04350a3ac",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:08.181Z",
+  "sha256_fonte": "d8637a4953a47d7d5dd51140df7c4ed59f759e3e01130e552373a80238c3c70a",
+  "sha256_markdown": "e3e642cc1f5d30893fb2d4df8e6800577c5a798d9abbf951cce71dab8724cde5"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-07-20-13315",
+  "titulo": "Lei nº 13.315 de 20/07/2016",
+  "data": "2016-07-20",
+  "fonte": "https://normas.leg.br/api/public/binario/52da1f41-cd67-41eb-a5bd-20646850fe00/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-07-20;13315",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-07-20%3B13315&tipo_documento=maior-detalhe",
+  "sha256_dados": "71bbf492bdbed0bf09387949cf85a99ecb12ef50a4450fc3197d953f1fa402bc",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:58:24.098Z",
+  "sha256_fonte": "21ddc35dd051ace0715e823b3b835ae5e4562f64abd1ec55da7d0c4811c946fc",
+  "sha256_markdown": "05d70e5e2f74b488e63e9db61cf83588c445b35169db0fee7ad05d73a8367c8d"
+}

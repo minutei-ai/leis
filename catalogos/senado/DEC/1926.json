@@ -1,0 +1,4239 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1926",
+  "tipo": "DEC",
+  "ano": 1926,
+  "coletado_em": "2026-10-21T08:50:52.359Z",
+  "normas": [
+    {
+      "senadoId": "433417",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-31-17616",
+      "titulo": "Decreto nº 17.616 de 31/12/1926",
+      "data": "1926-12-31",
+      "numero": "17616",
+      "urn": "urn:lex:br:federal:decreto:1926-12-31;17616",
+      "ementa": "DECLARA EM ESTADO DE SÍTO, ATÉ 31 DE JANEIRO DE 1927, O TERRITÓRIO DOS ESTADOS DO RIO GRANDE DO SUL, SANTA CATARINA, MATO GROSSO E GOIÁS."
+    },
+    {
+      "senadoId": "433419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-31-17616-a",
+      "titulo": "Decreto nº 17.616-A de 31/12/1926",
+      "data": "1926-12-31",
+      "numero": "17616-a",
+      "urn": "urn:lex:br:federal:decreto:1926-12-31;17616-a",
+      "ementa": "DÁ NOVO REGULAMENTO AO SERVIÇO DA PRATICAGEM OS PORTOS ,COSTAS E RIOS NAVEGÁVEIS DO BRASIL."
+    },
+    {
+      "senadoId": "407533",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-30-5124",
+      "titulo": "Decreto nº 5.124 de 30/12/1926",
+      "data": "1926-12-30",
+      "numero": "5124",
+      "urn": "urn:lex:br:federal:decreto:1926-12-30;5124",
+      "ementa": "AUTORIZA A ABRIR, PELO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE 200:000$, OURO, PARA OCORRER AS DESPESAS DE REPRESENTAÇÃO DO BRASIL NO SESQUICENTENÁRIO DA INDEPENDÊNCIA DOS ESTADOS UNIDOS."
+    },
+    {
+      "senadoId": "433415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-30-17615",
+      "titulo": "Decreto nº 17.615 de 30/12/1926",
+      "data": "1926-12-30",
+      "numero": "17615",
+      "urn": "urn:lex:br:federal:decreto:1926-12-30;17615",
+      "ementa": "FIXA NOVA DISTRIBUIÇÃO DO PESSOAL SUBALTERNO DA MARINHA DE GUERRA, DE ACORDO COM AS NECESSIDADES DO SERVIÇO, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "433413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-30-17614",
+      "titulo": "Decreto nº 17.614 de 30/12/1926",
+      "data": "1926-12-30",
+      "numero": "17614",
+      "urn": "urn:lex:br:federal:decreto:1926-12-30;17614",
+      "ementa": "REGULA A SITUAÇÃO DOS OFICIAIS FUNSIONADOS DO CORPO ÚNICO, NA MARINHA DE GUERRA, E DÁ OUTRAS PROVICÊNCIAS."
+    },
+    {
+      "senadoId": "433407",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-29-17611",
+      "titulo": "Decreto nº 17.611 de 29/12/1926",
+      "data": "1926-12-29",
+      "numero": "17611",
+      "urn": "urn:lex:br:federal:decreto:1926-12-29;17611",
+      "ementa": "CONCEDE AO BANCO GERMÂNICO DA AMÉRICA DO SUL (DEUTSH-SUDAMERICANISCH BANK ACKTIENGELLSCHAFT) LICENÇA PARA FUNCIONAR NOVAMENTE NA REPÚBLICA."
+    },
+    {
+      "senadoId": "433411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-29-17613",
+      "titulo": "Decreto nº 17.613 de 29/12/1926",
+      "data": "1926-12-29",
+      "numero": "17613",
+      "urn": "urn:lex:br:federal:decreto:1926-12-29;17613",
+      "ementa": "MANDA ABONAR AJUDAS DE CUSTO DE PREPAROS DE VIAGEM E DE PRIMEIRO ESTABELECIMENTO AO TERCEIRO ESCRITURÁRIO DO TESOURO NACIONAL, NERO DE MACEDO CARVALHO, NA FORMA DO ARTIGO NÚMERO 248 DA LEI NÚMERO 4.793, DE 07 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "433409",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-29-17612",
+      "titulo": "Decreto nº 17.612 de 29/12/1926",
+      "data": "1926-12-29",
+      "numero": "17612",
+      "urn": "urn:lex:br:federal:decreto:1926-12-29;17612",
+      "ementa": "CONCEDE AUTORIZAÇÃO À PHOENIX ASSURANCE COMPANY, LIMITED, COM SEDE EM LONDRES, INGLATERRA, PARA FUNCIONAR NA REPÚBLICA, EM SEGUROS E RESEGUROS TERRESTRES E MARÍTIMOS, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "433405",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-28-17610",
+      "titulo": "Decreto nº 17.610 de 28/12/1926",
+      "data": "1926-12-28",
+      "numero": "17610",
+      "urn": "urn:lex:br:federal:decreto:1926-12-28;17610",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE ANÔNIMA A BELLA PESCADORA."
+    },
+    {
+      "senadoId": "433403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-28-17609",
+      "titulo": "Decreto nº 17.609 de 28/12/1926",
+      "data": "1926-12-28",
+      "numero": "17609",
+      "urn": "urn:lex:br:federal:decreto:1926-12-28;17609",
+      "ementa": "CONCEDE À INGERSOLL-RAND CAMPANY OF BRASIL AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "433401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-25-17608",
+      "titulo": "Decreto nº 17.608 de 25/12/1926",
+      "data": "1926-12-25",
+      "numero": "17608",
+      "urn": "urn:lex:br:federal:decreto:1926-12-25;17608",
+      "ementa": "MANDA PRESTAR A SUA MAJESTADE YOSHIHITO, IMPERADOR DO JAPÃO, HOJE FALECIDO, AS HONRAS DE CHEFE DE ESTADO."
+    },
+    {
+      "senadoId": "433399",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-24-17607",
+      "titulo": "Decreto nº 17.607 de 24/12/1926",
+      "data": "1926-12-24",
+      "numero": "17607",
+      "urn": "urn:lex:br:federal:decreto:1926-12-24;17607",
+      "ementa": "RESCINDE O CONTRATO CELEBRADO COM ALBERTO ENGELHARD, EM VIRTUDE DO DECRETO NÚMERO 16741, DE 31 DE DEZEMBRO DE 1924, PARA O SERVIÇO DE NAVEGAÇÃO ENTRE BELÉM A SOURE E A CACHOEIRA, NO RIO AMAZONAS."
+    },
+    {
+      "senadoId": "433397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-23-17606",
+      "titulo": "Decreto nº 17.606 de 23/12/1926",
+      "data": "1926-12-23",
+      "numero": "17606",
+      "urn": "urn:lex:br:federal:decreto:1926-12-23;17606",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 3.775:657$840, PARA PAGAMENTO Á VIAÇÃO FÉRREA DO RIO GRANDE DO SUL, EM CONSEQUÊNCIA DE TRANSPORTES REALIZADOS EM 1920, 1921, 1923 E 1924."
+    },
+    {
+      "senadoId": "407484",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-22-5112",
+      "titulo": "Decreto nº 5.112 de 22/12/1926",
+      "data": "1926-12-22",
+      "numero": "5112",
+      "urn": "urn:lex:br:federal:decreto:1926-12-22;5112",
+      "ementa": "PRORROGA ATÉ 31 DE DEZEMBRO DO CORRENTE ANO O PRAZO FIXADO ATÉ 30 DE NOVEMBRO NO ARTIGO 1º DO DECRETO NÚMERO 5.050, DE 4 DE NOVEMBRO DE 1926."
+    },
+    {
+      "senadoId": "433395",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-21-17605",
+      "titulo": "Decreto nº 17.605 de 21/12/1926",
+      "data": "1926-12-21",
+      "numero": "17605",
+      "urn": "urn:lex:br:federal:decreto:1926-12-21;17605",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO DIA 26 CORRENTE NO MUNICÍPIO DE SÃO MIGUEL ARCANJO, NO ESTADO DE SÃO PAULO, PARA QUE SE REALIZEM ELEIÇÕES MINICIPAIS."
+    },
+    {
+      "senadoId": "433393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-20-17604",
+      "titulo": "Decreto nº 17.604 de 20/12/1926",
+      "data": "1926-12-20",
+      "numero": "17604",
+      "urn": "urn:lex:br:federal:decreto:1926-12-20;17604",
+      "ementa": "APROVA ALTERAÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE ANÔNIMA GRANDES MOINHOS DO SUL."
+    },
+    {
+      "senadoId": "433391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-16-17603",
+      "titulo": "Decreto nº 17.603 de 16/12/1926",
+      "data": "1926-12-16",
+      "numero": "17603",
+      "urn": "urn:lex:br:federal:decreto:1926-12-16;17603",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO ESPECIAL DE CENTO E CINQUENTA CONTOS, PARA PAGAMENTO DE OBRAS EXECUTADAS NA ENSEADA BAPTISTA DAS NEVES."
+    },
+    {
+      "senadoId": "433389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-15-17602",
+      "titulo": "Decreto nº 17.602 de 15/12/1926",
+      "data": "1926-12-15",
+      "numero": "17602",
+      "urn": "urn:lex:br:federal:decreto:1926-12-15;17602",
+      "ementa": "CONCEDE AUTORIZAÇÃO A EMPRESA PORTALEGRENSE DOS ARMAZÉNS GERAIS, LIMITADA, PARA EMITIR OS TÍTULOS DE QUE TRATA O ARTIGO NÚMERO 15 CAPÍTULO II, DO DECRETO NÚMERO 1.102, DE 21 DE NOVEMBRO DE 1903."
+    },
+    {
+      "senadoId": "433387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-14-17601",
+      "titulo": "Decreto nº 17.601 de 14/12/1926",
+      "data": "1926-12-14",
+      "numero": "17601",
+      "urn": "urn:lex:br:federal:decreto:1926-12-14;17601",
+      "ementa": "PUBLICA A ADESÃO DO LUXEMBURGO AO ACORDO PARA O ESTABELECIMENTO DE UMA REPARTIÇÃO INTERNACIONAL DE HIGIENE PÚBLICA."
+    },
+    {
+      "senadoId": "433383",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-13-17599",
+      "titulo": "Decreto nº 17.599 de 13/12/1926",
+      "data": "1926-12-13",
+      "numero": "17599",
+      "urn": "urn:lex:br:federal:decreto:1926-12-13;17599",
+      "ementa": "EXTINGUE A SUPERINTENDÊNCIA DO ABASTECIMENTO E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "433385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-13-17600",
+      "titulo": "Decreto nº 17.600 de 13/12/1926",
+      "data": "1926-12-13",
+      "numero": "17600",
+      "urn": "urn:lex:br:federal:decreto:1926-12-13;17600",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO ESPECIAL DE 12:500$, OURO, PARA OCORRER AO PAGAMENTO DE VENCIMENTOS A CINCO ADIDOS COMERCIAIS."
+    },
+    {
+      "senadoId": "433381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-13-17598",
+      "titulo": "Decreto nº 17.598 de 13/12/1926",
+      "data": "1926-12-13",
+      "numero": "17598",
+      "urn": "urn:lex:br:federal:decreto:1926-12-13;17598",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 300:000$, PAPEL, DESTINADO A CUSTEAR AS DESPESAS COM A REPRESENTAÇÃO DO BRASIL NA 7º EXPOSIÇÃO INTERNACIONAL DE BORRACHA E PRODUTOS TROPICAIS E RAZLIZAR-SE EM PARIS, NO MÊS DE JANEIRO DE 1927."
+    },
+    {
+      "senadoId": "433379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-11-17597",
+      "titulo": "Decreto nº 17.597 de 11/12/1926",
+      "data": "1926-12-11",
+      "numero": "17597",
+      "urn": "urn:lex:br:federal:decreto:1926-12-11;17597",
+      "ementa": "SUSPENDE O ESTADO DE SITIO DURANTE O DIA 26 CORRENTE NO MUNICIPIO DE PATROCINIO DO SAPUCAI, NO ESTADO DE SÃO PAULO, PARA ELEIÇÕES MUNICIPAIS."
+    },
+    {
+      "senadoId": "433375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-10-17595",
+      "titulo": "Decreto nº 17.595 de 10/12/1926",
+      "data": "1926-12-10",
+      "numero": "17595",
+      "urn": "urn:lex:br:federal:decreto:1926-12-10;17595",
+      "ementa": "APROVA PROJETOS E OS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 616:925$184, PARA A CONSTRUÇÃO DE DUAS ESTAÇÕES DE SEGUNDA CLASSE E CINCO DE TERCEIRA, NO RAMAL DE TRÊS CORAÇÕES A LAVRAS, E DÁ NOVA ESTAÇÃO DE ITAJUBÁ, DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "433377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-10-17596",
+      "titulo": "Decreto nº 17.596 de 10/12/1926",
+      "data": "1926-12-10",
+      "numero": "17596",
+      "urn": "urn:lex:br:federal:decreto:1926-12-10;17596",
+      "ementa": "APROVA PROJETOS E OS ORÇAMENTOS, DAS DESPESAS COM A CONSTRUÇÃO DO DEPÓSITO PARA MATERIAL DOS GUINDASTES ELÉTRICOS E CARREGADORES AUTOMÁTICOS DE CAFÉ, NO PORTO DE SANTOS."
+    },
+    {
+      "senadoId": "433371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-09-17593",
+      "titulo": "Decreto nº 17.593 de 09/12/1926",
+      "data": "1926-12-09",
+      "numero": "17593",
+      "urn": "urn:lex:br:federal:decreto:1926-12-09;17593",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O CORPO DE OFICIAIS DA RESERVA NAVAL AÉREA."
+    },
+    {
+      "senadoId": "433373",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-09-17594",
+      "titulo": "Decreto nº 17.594 de 09/12/1926",
+      "data": "1926-12-09",
+      "numero": "17594",
+      "urn": "urn:lex:br:federal:decreto:1926-12-09;17594",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O CORPO DE OFICIAIS DA RESERVA NAVAL AÉREA."
+    },
+    {
+      "senadoId": "433362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17588",
+      "titulo": "Decreto nº 17.588 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17588",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17588",
+      "ementa": "PUBLICA AS ADESÕES DA REPÚBLICA DOMINICANA E DA TURQUIA À CONVENÇÃO RADIOTELEGRÁPICA INTERNACIONAL, DE 1912."
+    },
+    {
+      "senadoId": "433358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17586",
+      "titulo": "Decreto nº 17.586 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17586",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17586",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL ATÉ A QUANTIA DE  1.164:807$275, PARA PAGAMENTO DA GRATIFICAÇÃO A QUE SE REFERE A LEI NÚMERO 3.990, DE 02 DE JANEIRO DE 1920, DE ACORDO COM O ARTIGO 1º DO DECRETO NÚMERO 5.035, DE 20 DE OUTUBRO ÚLTIMO, AOS FUNCIONÁRIOS DA GUARDA CIVIL DESTA CAPITAL."
+    },
+    {
+      "senadoId": "433369",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17592",
+      "titulo": "Decreto nº 17.592 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17592",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17592",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 431:608$145, PARA OCORRER AO PAGAMENTO DE VENCIMENTOS AOS FUNCIONÁRIOS DA SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "433365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17590",
+      "titulo": "Decreto nº 17.590 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17590",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17590",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÕES, PELO HAITI, DE VÁRIOS ATOS DA 5º CONFERÊNCIA INTERNACIONAL AMERICANA."
+    },
+    {
+      "senadoId": "433367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17591",
+      "titulo": "Decreto nº 17.591 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17591",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17591",
+      "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO, ENTRE O BRASIL E A BOLÍVIA, FIRMADO A 3 DE JUNHO DE 1918."
+    },
+    {
+      "senadoId": "433354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17584",
+      "titulo": "Decreto nº 17.584 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17584",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17584",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 100:000$, SUPLEMENTAR AO DA CONSIGNAÇÃO MATERIAL, DA VERBA 8º, DO ARTIGO 2º DA LEI NÚMERO 4.911, DE 12 DE JANEIRO DE 1925."
+    },
+    {
+      "senadoId": "433363",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17589",
+      "titulo": "Decreto nº 17.589 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17589",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17589",
+      "ementa": "PUBLICA A ADESÃO DA TCHECOESLOVÁQUIA À CONVENÇÃO SANITÁRIA INTERNACIONAL, 1912."
+    },
+    {
+      "senadoId": "433356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17585",
+      "titulo": "Decreto nº 17.585 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17585",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17585",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 262:085$625, PARA OCORRER AO PAGAMENTO DE VENCIMENTOS AOS FUNCIONÁRIOS DA SECRETARIA DO SENADO FEDERAL."
+    },
+    {
+      "senadoId": "433360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-07-17587",
+      "titulo": "Decreto nº 17.587 de 07/12/1926",
+      "data": "1926-12-07",
+      "numero": "17587",
+      "urn": "urn:lex:br:federal:decreto:1926-12-07;17587",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÕES, PELO CHILE, DE DUAS CONVENÇÕES DA 5º CONFERÊNCIA INTERNACIONAL AMERICANA."
+    },
+    {
+      "senadoId": "433346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-03-17580",
+      "titulo": "Decreto nº 17.580 de 03/12/1926",
+      "data": "1926-12-03",
+      "numero": "17580",
+      "urn": "urn:lex:br:federal:decreto:1926-12-03;17580",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 39:400$963, PARA A CONSTRUÇÃO DE UMA INSTALAÇÃO HIDRÁULICA NA ESTAÇÃO DE SÃO SEBASTIÃO, NO KILÔMETRO NÚMERO 282.270, DA LINHA CACEQUÍ, RIO GRANDE , NA VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "433348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-03-17581",
+      "titulo": "Decreto nº 17.581 de 03/12/1926",
+      "data": "1926-12-03",
+      "numero": "17581",
+      "urn": "urn:lex:br:federal:decreto:1926-12-03;17581",
+      "ementa": "MODIFICA O ARTIGO 52 DO REGULAMENTO DOS SERVIÇOS CIVIS DE RADIO-TELEGRAFIA E RADIO-TELEPONIA, PARA DETERMINAR OS COMPRIMENTOS DE ONDA DAS ESTAÇÕES EMISSORAS."
+    },
+    {
+      "senadoId": "433352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-03-17583",
+      "titulo": "Decreto nº 17.583 de 03/12/1926",
+      "data": "1926-12-03",
+      "numero": "17583",
+      "urn": "urn:lex:br:federal:decreto:1926-12-03;17583",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 22.051$4400, PARA CONSTRUÇÃO DE UMA CASA PARA ALOJAMENTO DA GUARDA DO PORTO DO RIO GRANDE."
+    },
+    {
+      "senadoId": "433350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-03-17582",
+      "titulo": "Decreto nº 17.582 de 03/12/1926",
+      "data": "1926-12-03",
+      "numero": "17582",
+      "urn": "urn:lex:br:federal:decreto:1926-12-03;17582",
+      "ementa": "APROVA OS ESTUDOS DA VARIANTE DE JACAREZINHO, ENTRE OS KILÔMETROS 184 + 367 M, E 192 + 510 M, DO RAMAL DO PARANAPANEMA, E BEM ASSIM O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 1.467:913$714 (MIL QUATROCENTOS E SESSENTA E SETE CONTOS E NOVECENTOS E TREZE MIL SETECENTOS E QUARENTA E UM RÉIS)."
+    },
+    {
+      "senadoId": "433335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-17575",
+      "titulo": "Decreto nº 17.575 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "17575",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;17575",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 80:000$, PARA OCORRER AO PAGAMENTO DE DESPESAS ELEITORAIS."
+    },
+    {
+      "senadoId": "433337",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-17576",
+      "titulo": "Decreto nº 17.576 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "17576",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;17576",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A ESCOLA DE AUXILIARES, ESPECIALISTAS DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "433342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-17578",
+      "titulo": "Decreto nº 17.578 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "17578",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;17578",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DA BIBLIOTECA E ARQUIVO DA MARINHA."
+    },
+    {
+      "senadoId": "433333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-17574",
+      "titulo": "Decreto nº 17.574 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "17574",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;17574",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 200:000$, PARA OCORRER ÀS DESPESAS DA DIRETORIA GERAL DE ESTATÍSTICA, COM O PESSOAL E MATERIAL NECESSÁRIOS AOS TRABALHOS FINAIS DA PUBLICAÇÃO DFOS RESULTADOS DO RECENSEAMENTO DE 1920, NO CORRENTE ANO."
+    },
+    {
+      "senadoId": "433344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-17579",
+      "titulo": "Decreto nº 17.579 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "17579",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;17579",
+      "ementa": "ALTERA OS EFETIVOS DE Q.M. DO CORPO DE OFICIAIS DA ARMADA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "433339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-17577",
+      "titulo": "Decreto nº 17.577 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "17577",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;17577",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O CORPO DE MARINHEIROS NACIONAIS."
+    },
+    {
+      "senadoId": "407370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-12-02-5084",
+      "titulo": "Decreto nº 5.084 de 02/12/1926",
+      "data": "1926-12-02",
+      "numero": "5084",
+      "urn": "urn:lex:br:federal:decreto:1926-12-02;5084",
+      "ementa": "AUTORIZA O PRESIDENTE DA REPÚBLICA A ABRIR, PELO MINISTÉRIO DA GUERRA, O CRÉDITO ESPECIAL DE 16.171 DOLARES E 73 CENTAVOS, PARA PAGAMENTO AO COMPTOIR TECHNIQUE BRÉSILIEN, PELO FORNECIMENTO DE MAQUINISMOS E ACESSÓRIOS À FÁBRICA DE CARTUCHOS E ARTEFATOS DE GUERRA."
+    },
+    {
+      "senadoId": "433329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-30-17572",
+      "titulo": "Decreto nº 17.572 de 30/11/1926",
+      "data": "1926-11-30",
+      "numero": "17572",
+      "urn": "urn:lex:br:federal:decreto:1926-11-30;17572",
+      "ementa": "PROMULGA O PROTOCOLO ADICIONAL AO TRATADO DE EXTRADIÇÃO ENTRE O BRASIL E O URUGUAI."
+    },
+    {
+      "senadoId": "433331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-30-17573",
+      "titulo": "Decreto nº 17.573 de 30/11/1926",
+      "data": "1926-11-30",
+      "numero": "17573",
+      "urn": "urn:lex:br:federal:decreto:1926-11-30;17573",
+      "ementa": "PUBLICA A ADESÃO DA ROMÊNIA À CONVENÇÃO DE BERNA, REVISTA, PARA A PROTEÇÃO DAS OBRAS LITERÁRIAS E ARTÍSTICAS, BEM COMO AO PROTOCOLO ADICIONAL DE 1914."
+    },
+    {
+      "senadoId": "433327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-26-17571",
+      "titulo": "Decreto nº 17.571 de 26/11/1926",
+      "data": "1926-11-26",
+      "numero": "17571",
+      "urn": "urn:lex:br:federal:decreto:1926-11-26;17571",
+      "ementa": "APROVA OS MODIFICAÇÕES FEITAS PELA CONFERÊNCIA TELEGRÁFICA INTERNACIONAL DE PARIS, EM 1925, NO REGULAMENTO DO SERVIÇO TELEGRÁFICO INTERNACIONAL."
+    },
+    {
+      "senadoId": "433325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-25-17570",
+      "titulo": "Decreto nº 17.570 de 25/11/1926",
+      "data": "1926-11-25",
+      "numero": "17570",
+      "urn": "urn:lex:br:federal:decreto:1926-11-25;17570",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO TERRITÓRIO DO ESTADO DE MATO GROSSO NOS DIAS 1 E 2 DE DEZEMBRO PRÓXIMO FUTURO."
+    },
+    {
+      "senadoId": "433323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-25-17569",
+      "titulo": "Decreto nº 17.569 de 25/11/1926",
+      "data": "1926-11-25",
+      "numero": "17569",
+      "urn": "urn:lex:br:federal:decreto:1926-11-25;17569",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DURANTE O DIA 28 DO CORRENTE MÊS NOS MUNICÍPIOS DE CAMPOS NOVOS, SALESÓPOLIS E SÃO JOSÉ DO RIO PARDO PARA ELEIÇÕES MUNICIPAIS."
+    },
+    {
+      "senadoId": "433321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-23-17568",
+      "titulo": "Decreto nº 17.568 de 23/11/1926",
+      "data": "1926-11-23",
+      "numero": "17568",
+      "urn": "urn:lex:br:federal:decreto:1926-11-23;17568",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 16:131$, PARA ATENDER AO PAGAMENTO DA GRATIFICAÇÃO CRIADA PELA LEI 3.990, DE 1920, AOS FUNCIONÁRIOS DA PORTARIA DO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "407341",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-20-5077",
+      "titulo": "Decreto nº 5.077 de 20/11/1926",
+      "data": "1926-11-20",
+      "numero": "5077",
+      "urn": "urn:lex:br:federal:decreto:1926-11-20;5077",
+      "ementa": "CONSIDERA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO DOS EMPREGADOS NO COMÉRCIO DE SÃO JOÃO DEL REI."
+    },
+    {
+      "senadoId": "433319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-14-17567",
+      "titulo": "Decreto nº 17.567 de 14/11/1926",
+      "data": "1926-11-14",
+      "numero": "17567",
+      "urn": "urn:lex:br:federal:decreto:1926-11-14;17567",
+      "ementa": "DISTRIBUI PELOS ESTADOS OS 60 LUGARES DE AGENTES FISCAIS DO IMPOSTO DE CONSUMO, CRIADOS PELO DECRETO 5.075, DE 11 DO CORRENTE, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "433309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-13-17562",
+      "titulo": "Decreto nº 17.562 de 13/11/1926",
+      "data": "1926-11-13",
+      "numero": "17562",
+      "urn": "urn:lex:br:federal:decreto:1926-11-13;17562",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 388:320$, PARA PAGAMENTO DA GRATIFICAÇÃO ESTABELECIDA PELA LEI 4.555, DE 10 DE AGOSTO DE 1922, AOS COMISSIÁRIOS DE POLÍCIA DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "433315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17565",
+      "titulo": "Decreto nº 17.565 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17565",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17565",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE FRANCOS BELGAS 90.059,00 E 48:552$158, PAPEL, PARA A CONTRUÇÃO DA PONTE SOBRE O RIO ITAPICURÚ-MIRIM, PARA ACESSO DOS PASSAGEIROS E MERCADORIAS DA CIDADE DE JACOBINA À ESTAÇÃO DA LINHA FÉRREA ARRENDADA À COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "433293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17554",
+      "titulo": "Decreto nº 17.554 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17554",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17554",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 396:840$, PARA PAGAMENTO AO ESTADO DA PARAÍBA, COMO INDENIZAÇÃO DEVIDA PELOS GASTOS NA EXECUÇÃO DOS SEVIÇOS DE DEFESA DO ALGODÃO E COMBATE À LAGARTA ROSADA, EM 1923."
+    },
+    {
+      "senadoId": "433291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17553",
+      "titulo": "Decreto nº 17.553 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17553",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17553",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DE 100:000$, PARA PAGAR AO GOVERNO DA PARAÍBA PELA CONCLUSÃO DAS OBRAS DO QUARTEL DO 22º BATALHÃO DE CAÇADORES."
+    },
+    {
+      "senadoId": "433305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17560",
+      "titulo": "Decreto nº 17.560 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17560",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17560",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM DUNKERQUE."
+    },
+    {
+      "senadoId": "433301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17558",
+      "titulo": "Decreto nº 17.558 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17558",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17558",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM STRASBURGO."
+    },
+    {
+      "senadoId": "433299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17557",
+      "titulo": "Decreto nº 17.557 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17557",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17557",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM CONCEPCION, TERRITÓRIO DE MISSIONES, NA REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "433297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17556",
+      "titulo": "Decreto nº 17.556 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17556",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17556",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 156:651$338, PARA PAGAMENTO AOS FUNCIONÁRIOS DA SECRETÁRIA DO SUPREMO TRIBUNAL FEDERAL, DO ACORDO COM A TABELA ESTABELECIDA PELA LEI NÚMERO 4.793, DE 7 DE JANEIRO DE 1924, DESDE 26 DE ABRIL DE 1922 DE 31 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "433307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17561",
+      "titulo": "Decreto nº 17.561 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17561",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17561",
+      "ementa": "APROVA O NOVO REGULAMENTO DA INSPETORIA GERAL DE ILUMINAÇÃO."
+    },
+    {
+      "senadoId": "433295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17555",
+      "titulo": "Decreto nº 17.555 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17555",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17555",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO RÁDIO DO EXÉRCITO."
+    },
+    {
+      "senadoId": "433289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17552",
+      "titulo": "Decreto nº 17.552 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17552",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17552",
+      "ementa": "AUTORIZA A REVISÃO DO CONTRATO CELEBRADO EM VIRTUDE DO DECRETO NÚMERO 15.406, DE 22 DE MARÇO DE 1922, PARA O ARRENDAMENTO DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "433313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17564",
+      "titulo": "Decreto nº 17.564 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17564",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17564",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 1.000:000$, PARA ATENDER ÀS DESPESAS DECORRENTES DA REFORMA DO REGULAMENTO DA ESTRADA DE FERRO OSTE DE MINAS E DA REORGANIZAÇÃO DO QUADRO DO SEU PESSOAL."
+    },
+    {
+      "senadoId": "433311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17563",
+      "titulo": "Decreto nº 17.563 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17563",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17563",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, NO DIA 14 DO CORRENTE, NOS MUNICÍPIOS DE SALLESÓPOLIS E COMPOS NOVOS, NO ESTADO DE SÃO PAULO, PARA ELEIÇÕES MUNICIPAIS."
+    },
+    {
+      "senadoId": "433317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17566",
+      "titulo": "Decreto nº 17.566 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17566",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17566",
+      "ementa": "SUBSTITUI ALGUMAS CLÁUSULAS DO CONTRATO CELEBRADO COM O ESTADO DE SANTA CATARINA, PARA A CONSTRUÇÃO DAS OBRAS DE MELHORAMENTO DA BARRA E PORTO DE SÃO FRANCISCO DO SUL."
+    },
+    {
+      "senadoId": "433303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17559",
+      "titulo": "Decreto nº 17.559 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17559",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17559",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM BIARRITZ, NA FRANÇA."
+    },
+    {
+      "senadoId": "433287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-12-17551",
+      "titulo": "Decreto nº 17.551 de 12/11/1926",
+      "data": "1926-11-12",
+      "numero": "17551",
+      "urn": "urn:lex:br:federal:decreto:1926-11-12;17551",
+      "ementa": "AUTORIZA A REVISÃO DO CONTRATO CELEBRADO COM A COMPANHIA GERAL DE MELHORAMENTOS NO MARANHÃO, EX-VI DO DECRETO NÚMERO 14.823, DE 24 DE MAIO DE 1921, TRANSFERIDO AO GOVERNO DO ESTADO DO PIAUÍ, NOS TERMOS DO DECRETO NÚMERO 17.048, DE 30 DE SETEMBRO DE 1925."
+    },
+    {
+      "senadoId": "433282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-11-17548",
+      "titulo": "Decreto nº 17.548 de 11/11/1926",
+      "data": "1926-11-11",
+      "numero": "17548",
+      "urn": "urn:lex:br:federal:decreto:1926-11-11;17548",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 3:491$993, PARA PAGAMENTO AO GERAL DE BRIGADA HONORÁRIO MIGUEL CALMON DU PIN LISBÔA."
+    },
+    {
+      "senadoId": "433284",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-11-17549",
+      "titulo": "Decreto nº 17.549 de 11/11/1926",
+      "data": "1926-11-11",
+      "numero": "17549",
+      "urn": "urn:lex:br:federal:decreto:1926-11-11;17549",
+      "ementa": "MODIFICA A DISTRIBUIÇÃO DAS ZONAS DO REGISTRO DE IMOVÉIS E CRIA TRÊS OFÍCIOS DE REGISTRO CIVIL, DE IMOVÉIS E DE PROTESTO DE LETRAS E TÍTULOS."
+    },
+    {
+      "senadoId": "433278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-11-17546",
+      "titulo": "Decreto nº 17.546 de 11/11/1926",
+      "data": "1926-11-11",
+      "numero": "17546",
+      "urn": "urn:lex:br:federal:decreto:1926-11-11;17546",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS OS CRÉDITOS DE 50:000$, OURO E 50:000$, PAPEL, PARA ATENDER A DESPEAS COM SERVIÇOS DE ILUMINAÇÃO PÚBLICA DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "433280",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-11-17547",
+      "titulo": "Decreto nº 17.547 de 11/11/1926",
+      "data": "1926-11-11",
+      "numero": "17547",
+      "urn": "urn:lex:br:federal:decreto:1926-11-11;17547",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DE ASSISTÊNCIA HOSPITALAR NO BRASIL."
+    },
+    {
+      "senadoId": "433262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17538",
+      "titulo": "Decreto nº 17.538 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17538",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17538",
+      "ementa": "APROVA O REGULAMENTO PARA A COBRANÇA E FISCALIZAÇÃO DO IMPOSTO DE SELO."
+    },
+    {
+      "senadoId": "433250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17532",
+      "titulo": "Decreto nº 17.532 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17532",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17532",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 69:645$416, PARA OCORRER PAGAMENTO DO ARGUMENTO PROVISÓRIO RELATIVO AO EXERCÍCIO DE 1923, QUE COMPETE AOS FUNCIONÁRIOS, DIARISTAS, E OPERÁRIOS DA INSPECTORIA FEDERAL DE PORTOS, RIO E CANAIS, COM EXERCÍCIO NA COMISSÃO DA BAIXADA FLUMINENSE."
+    },
+    {
+      "senadoId": "433264",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17539",
+      "titulo": "Decreto nº 17.539 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17539",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17539",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 126:874$385, PARA PAGAR AO DR. GRACILIANO MARQUES PEDREIRA DE FREITAS, EM VERTUDE DE SENTENÇA JUDICIÁRIA. '"
+    },
+    {
+      "senadoId": "433270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17542",
+      "titulo": "Decreto nº 17.542 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17542",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17542",
+      "ementa": "CONCEDE Á MUNICIPALIDADE DE REZENDE, OU EMPRESA QUE ORGANIZA, AS VANTAGENS DO DECRETO NÚMERO 5.646, DDE 22 DE AGOSTO DE 1905, E DEMAIS FAVORES, PARA O APROVEITAMENTO DA FORÇA HIDRAULICA DA CACHOEIRA DA FUMAÇA, NO RIO PRETO, ENTRE OS ESTADOS DO RIO DE JANEIRO E MINAS GERAIS."
+    },
+    {
+      "senadoId": "433238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17526",
+      "titulo": "Decreto nº 17.526 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17526",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17526",
+      "ementa": "DÁ NOVAS INSTRUÇÕES PARA AS ELEIÇÕES FEDERAIS, CONSOLIDANDO AS DISPOSIÇÕES EM VIGOR."
+    },
+    {
+      "senadoId": "433242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17528",
+      "titulo": "Decreto nº 17.528 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17528",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17528",
+      "ementa": "APROVA O REGULAMENTO PARA A CONCESSÃO DE SUBVENÇÕES E FISCALIZAÇÃO DE SEU EMPREGO."
+    },
+    {
+      "senadoId": "433246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17530",
+      "titulo": "Decreto nº 17.530 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17530",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17530",
+      "ementa": "PRORROGA, ATÉ 18 DE OUTUBRO DE 1928, O PRAZO FIXADO PARA CONCLUSÃO DAS OBRAS E INSTALAÇÕES FERROVIÁRIAS DESTINADAS A ESTABELECER LIGAÇÃO, EM TEREZINA, DAS ESTRADAS DE FERRO SÃO LUIZ E TEREZINA, PETROLINA A TEREZINA E CRATEÚS A TEREZINA."
+    },
+    {
+      "senadoId": "433268",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17541",
+      "titulo": "Decreto nº 17.541 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17541",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17541",
+      "ementa": "PRORROGA ATE 15 DE MAIO DE 1927 O PRAZO DENTRO DO QUAL A COMPANHIA BRASILEIRA DE USINAS METALURGICAS DEVERIA TERMINAR AS CONSTRUÇÕES E INSTALAÇÕES DAS SUAS USINAS NO MUNICIPIO DE SÃO GONÇALO, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "433254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17534",
+      "titulo": "Decreto nº 17.534 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17534",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17534",
+      "ementa": "APROVA O REGULAMENTO PARA A COBRANÇA E FISCALIZAÇÃO DA TAXA DE VIAÇÃO."
+    },
+    {
+      "senadoId": "433244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17529",
+      "titulo": "Decreto nº 17.529 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17529",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17529",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 64:957$097 (SESSENTA E QUATRO CONTOS NOVECENTOS E CINQUENTA E SETE MIL E NOVENTA E SETE RÉIS), PARA AQUISIÇÃO E INSTALAÇÃO, PELA \"COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE\", DE UMA BALANÇA DE 100 TONELADAS NA ESTAÇÃO DE CURITIBA, DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "433276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17545",
+      "titulo": "Decreto nº 17.545 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17545",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17545",
+      "ementa": "APROVA O REGULAMENTO PARA O CURSO DE QUIMICA INDUSTRIAL DA ESCOLA DE MINAS DE OURO PRETO."
+    },
+    {
+      "senadoId": "433240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17527",
+      "titulo": "Decreto nº 17.527 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17527",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17527",
+      "ementa": "DÁ NOVO REGULAMENTO PARA O ALISTAMENTO ELEITORAL CONSOLIDANDO AS DISPOSIÇÕES EM VIGOR."
+    },
+    {
+      "senadoId": "407280",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-5062",
+      "titulo": "Decreto nº 5.062 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "5062",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;5062",
+      "ementa": "AUTORIZA A ABERTURA DO CRÉDITO ESPECIAL DE 62:616$124, PARA PAGAR A MANOEL JOAQUIM RODRIGUES E RANULPHO VIANNA, EM VIRTUDE DE SENTENÇA JUDICIÁRIA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "433266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17540",
+      "titulo": "Decreto nº 17.540 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17540",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17540",
+      "ementa": "AUTORIZA O MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDR Á COMPANHIA NACIONAL DE COMBUSTIVÉIS OS FAVORES CONSTANTES DO DECRETO NÚMERO 12.943, DE 30 DE MARÇO DE 1918."
+    },
+    {
+      "senadoId": "433274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17544",
+      "titulo": "Decreto nº 17.544 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17544",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17544",
+      "ementa": "APROVA A NOVA REFORMA DOS ESTATUTOS DA SOCIEDADE ANONIMA INDÚSTRIAS REUNIDAS FABRICAS MATARAZZO."
+    },
+    {
+      "senadoId": "433258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17536",
+      "titulo": "Decreto nº 17.536 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17536",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17536",
+      "ementa": "APROVA O REGULAMENTO PARA ARRECADAÇÃO E FISCALIZAÇÃO DO IMPOSTO DE TRANSPORTE."
+    },
+    {
+      "senadoId": "433256",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17535",
+      "titulo": "Decreto nº 17.535 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17535",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17535",
+      "ementa": "APROVA O REGULAMENTO PARA FISCALIZAÇÃO E COBRANÇA DO IMPOSTO DO SELO PROPORSIONAL SOBRE AS VENDAS MERCANTIS."
+    },
+    {
+      "senadoId": "433252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17533",
+      "titulo": "Decreto nº 17.533 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17533",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17533",
+      "ementa": "DA NOVO REGULAMENTO Á CAIXA DE AMORTIZAÇÃO."
+    },
+    {
+      "senadoId": "433260",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17537",
+      "titulo": "Decreto nº 17.537 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17537",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17537",
+      "ementa": "APROVA O REGULAMENTO PARA ARRECADAÇÃO E FISCALIZAÇÃO DO IMPOSTO SOBRE OPERAÇÕES A TERMO."
+    },
+    {
+      "senadoId": "433248",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17531",
+      "titulo": "Decreto nº 17.531 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17531",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17531",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE MIL E QUINHENTOS CONTOS DE RÉIS (1.500:000$), PARA PAGAMENTO DA CONSTRUÇÃO DA ESTRADA DE RODAGEM ENTRE RIO BRANCO E A VILLA DE BOA VISTA."
+    },
+    {
+      "senadoId": "433272",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-10-17543",
+      "titulo": "Decreto nº 17.543 de 10/11/1926",
+      "data": "1926-11-10",
+      "numero": "17543",
+      "urn": "urn:lex:br:federal:decreto:1926-11-10;17543",
+      "ementa": "APROVA ALTERAÇÕES FEITAS NOS ERSTATUTOS DA COMPANHIA NACIONAL FARINHAS DE LEGUMINOSAS."
+    },
+    {
+      "senadoId": "433230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-09-17522",
+      "titulo": "Decreto nº 17.522 de 09/11/1926",
+      "data": "1926-11-09",
+      "numero": "17522",
+      "urn": "urn:lex:br:federal:decreto:1926-11-09;17522",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 27:388$295 (VINTE E SETE CONTOS E TREZENTOS E OITENTA E OITO MIL E DUZENTOS E NOVENTA E CINCO RÉIS), PARA A EXECUÇÃO DE DIVERSAS OBRAS NO RAMAL DE TRÊS CORAÇÕES E LAVRAS, DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "433236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-09-17525",
+      "titulo": "Decreto nº 17.525 de 09/11/1926",
+      "data": "1926-11-09",
+      "numero": "17525",
+      "urn": "urn:lex:br:federal:decreto:1926-11-09;17525",
+      "ementa": "PRORROGA POR 60 DIAS O PRAZO FIXADO NA CLÁUSULA 16ª DO TERMO DE REVISÃO DOS CONTRATOS, FIRMADO DE ACORDO COM O DECRETO NÚMERO 16.259, DE 12 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "433228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-09-17521",
+      "titulo": "Decreto nº 17.521 de 09/11/1926",
+      "data": "1926-11-09",
+      "numero": "17521",
+      "urn": "urn:lex:br:federal:decreto:1926-11-09;17521",
+      "ementa": "MANDA GLOSAR NO ORÇAMENTO GERAL DAS OBRAS COMPLEMENTARES DO PORTO DE RECIFE, A IMPORTÂNCIA DE 112:896$ CORRESPONDENTE Á CONSTRUÇÃO, COM SUPERTRUTURA METÁLICA, DA COBERTURA ENTRE OS ARMAZÉNS A E B DO CÁES DO PORTO DE RECIFE, E APROVA PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 207:212$936, PARA A CONSTRUÇÃO, EM CIMENTO ARMADO, DA MESMA COBERTURA."
+    },
+    {
+      "senadoId": "433232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-09-17523",
+      "titulo": "Decreto nº 17.523 de 09/11/1926",
+      "data": "1926-11-09",
+      "numero": "17523",
+      "urn": "urn:lex:br:federal:decreto:1926-11-09;17523",
+      "ementa": "CONCEDE A \"COMPAGNIE DESCABELS SUD AMERICAINS\" PROROGAÇÃO DE PRAZO, ATE 23 DE SETEMBRO DE 1927, PARA COMEÇAR A FUNCIONAR O CABO SUBMARINO DAKAR-RIO DE JANEIRO, NA SEÇÃO ENTRE A ILHA DE FERNANDO DE NORONHA E RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "433234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-09-17524",
+      "titulo": "Decreto nº 17.524 de 09/11/1926",
+      "data": "1926-11-09",
+      "numero": "17524",
+      "urn": "urn:lex:br:federal:decreto:1926-11-09;17524",
+      "ementa": "APROVA O REGULAMENTO DA ESTRADA DE FERRO OESTE DE MINAS."
+    },
+    {
+      "senadoId": "433226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-08-17520",
+      "titulo": "Decreto nº 17.520 de 08/11/1926",
+      "data": "1926-11-08",
+      "numero": "17520",
+      "urn": "urn:lex:br:federal:decreto:1926-11-08;17520",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DURANTE O DIA 14 DO CORRENTE MÊS, EM TODO O TERRITÓRIO DO MUNICÍPIO DE CONCEIÇÃO DE ITANHAEN, ESTADO DE SÃO PAULO, PARA ELEIÇÕES MUNICIPAIS."
+    },
+    {
+      "senadoId": "433220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-07-17517",
+      "titulo": "Decreto nº 17.517 de 07/11/1926",
+      "data": "1926-11-07",
+      "numero": "17517",
+      "urn": "urn:lex:br:federal:decreto:1926-11-07;17517",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE TRÊS MIL DEZESEIS CONTOS E NOVECENTOS MIL RÉIS (3.016:900$), PARA ATENDER AO PAGAMENTO AOS PROPRIETÁRIOS DE TERRAS E ÁGUAS NOS MUNICÍPIOS DE ÂNGRA DOS REIS E PARATI, DESAPROPRIADAS EM VIRTUDE DO DECRETO NÚMERO 16.561, DE 12 DE JULHO DE 1922."
+    },
+    {
+      "senadoId": "433222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-07-17518",
+      "titulo": "Decreto nº 17.518 de 07/11/1926",
+      "data": "1926-11-07",
+      "numero": "17518",
+      "urn": "urn:lex:br:federal:decreto:1926-11-07;17518",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 20.000:000$, PARA ATENDER ÀS DESPEZAS COM OS SERVIÇOS DE ELETRIFICAÇÃO DA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "433224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-07-17519",
+      "titulo": "Decreto nº 17.519 de 07/11/1926",
+      "data": "1926-11-07",
+      "numero": "17519",
+      "urn": "urn:lex:br:federal:decreto:1926-11-07;17519",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 993:420$, PARA PAGAMENTOS A ESTAFETAS E MENSAGEIROS DA REPARTIÇÃO GERAL DOS TELÉGRAFOS."
+    },
+    {
+      "senadoId": "433208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-05-17510",
+      "titulo": "Decreto nº 17.510 de 05/11/1926",
+      "data": "1926-11-05",
+      "numero": "17510",
+      "urn": "urn:lex:br:federal:decreto:1926-11-05;17510",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á SOCIEDADE ANÔNIMA COMPANHIA NACIONAL DE SEGUROS SUD AMERICA, COM SÉDE NA CIDADE DE BUENOS AIRES, PARA FUNCIONAR NA REPÚBLICA SOMENTE EM SEGUROS DE VIDA, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "433214",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-05-17513",
+      "titulo": "Decreto nº 17.513 de 05/11/1926",
+      "data": "1926-11-05",
+      "numero": "17513",
+      "urn": "urn:lex:br:federal:decreto:1926-11-05;17513",
+      "ementa": "MANDA OBSERVAR O FORMULÁRIO DO PROCESSO CRIMINAL MILITAR."
+    },
+    {
+      "senadoId": "433210",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-05-17511",
+      "titulo": "Decreto nº 17.511 de 05/11/1926",
+      "data": "1926-11-05",
+      "numero": "17511",
+      "urn": "urn:lex:br:federal:decreto:1926-11-05;17511",
+      "ementa": "APROVA, COM MODIFICAÇÕES, AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS \"ANGLO-SUL AMERICANA\" PELA ASSEMBLÉA GERAL EXTRAORDINARIA REALIZADA EM 23 DE SETEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "433212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-05-17512",
+      "titulo": "Decreto nº 17.512 de 05/11/1926",
+      "data": "1926-11-05",
+      "numero": "17512",
+      "urn": "urn:lex:br:federal:decreto:1926-11-05;17512",
+      "ementa": "DÁ NOVO REGULAMENTO AO INSTITUTO OSWALDO CRUZ."
+    },
+    {
+      "senadoId": "433216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-05-17514",
+      "titulo": "Decreto nº 17.514 de 05/11/1926",
+      "data": "1926-11-05",
+      "numero": "17514",
+      "urn": "urn:lex:br:federal:decreto:1926-11-05;17514",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA UM CRÉDITO DE 105:799$449, ESPECIAL Á VERBA 5ª, DO ORÇAMENTO PARA O EXÉRCICIO DE 1924 \"INSTRUÇÃO MILITAR - 8ª- MISSÃO FRANCEZA DE AVIAÇÃO."
+    },
+    {
+      "senadoId": "433204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-04-17508",
+      "titulo": "Decreto nº 17.508 de 04/11/1926",
+      "data": "1926-11-04",
+      "numero": "17508",
+      "urn": "urn:lex:br:federal:decreto:1926-11-04;17508",
+      "ementa": "APROVA O REGULAMENTO DA ESCOLA JOÃO LUIZ ALVES."
+    },
+    {
+      "senadoId": "433206",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-04-17509",
+      "titulo": "Decreto nº 17.509 de 04/11/1926",
+      "data": "1926-11-04",
+      "numero": "17509",
+      "urn": "urn:lex:br:federal:decreto:1926-11-04;17509",
+      "ementa": "ADOTA, COMO CÓDIGO FARMACEÚTICO BRASILEIRO, A FARMACOPEIA BRASILEIRA, ELABORADA PELO FARMACEÚTICO RODOLFO ALBINO DIAS DA SILVA."
+    },
+    {
+      "senadoId": "407227",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-04-5049",
+      "titulo": "Decreto nº 5.049 de 04/11/1926",
+      "data": "1926-11-04",
+      "numero": "5049",
+      "urn": "urn:lex:br:federal:decreto:1926-11-04;5049",
+      "ementa": "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITOS ESPECIAIS, NO EXERCÍCIO DE 1925, PARA REFORÇO DE DIVERSAS VERBAS DOS MINISTÉRIOS DA JUSTIÇA, VIAÇÃO E AGRICULTURA."
+    },
+    {
+      "senadoId": "433190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17501",
+      "titulo": "Decreto nº 17.501 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17501",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17501",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA AO BANCO GERMÂNICO DA AMÉRICA DO SUL (DEUTSCH SUD-AMERIKANISCHE BANK, AKTIENGELLSCHAFT), SOCIEDADE ANÔNIMA COM SÉDE EM BERLIM, PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "433192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17502",
+      "titulo": "Decreto nº 17.502 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17502",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17502",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 23:048$992, PARA PAGAMENTO A MANOEL DIAS DE TOLEDO, EM VIRTUDE DE SENTENÇA JUDICIARIA."
+    },
+    {
+      "senadoId": "433200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17506",
+      "titulo": "Decreto nº 17.506 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17506",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17506",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA EXECUÇÃO DO SERVIÇO GERAL DE MAQUINAS DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "433194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17503",
+      "titulo": "Decreto nº 17.503 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17503",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17503",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O CORPO DE SUB-OFICIAIS DA ARMADA."
+    },
+    {
+      "senadoId": "433198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17505",
+      "titulo": "Decreto nº 17.505 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17505",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17505",
+      "ementa": "ALTERA OS ARTIGOS 1º, 9º 10, 16 E TABELAS RESPECTIVAS DO REGULAMENTO PARA OS OFICIAIS DO SERVIÇO GERAL DE MAQUINAS DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "433196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17504",
+      "titulo": "Decreto nº 17.504 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17504",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17504",
+      "ementa": "REVIGORA SALDO DE CRÉDITOS."
+    },
+    {
+      "senadoId": "433202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-03-17507",
+      "titulo": "Decreto nº 17.507 de 03/11/1926",
+      "data": "1926-11-03",
+      "numero": "17507",
+      "urn": "urn:lex:br:federal:decreto:1926-11-03;17507",
+      "ementa": "ALTERA DISPOSIÇÕES DO DECRETO NÚMERO 17.105, DE 4 NOVEMBRO DE 1925, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "433188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-11-01-17500",
+      "titulo": "Decreto nº 17.500 de 01/11/1926",
+      "data": "1926-11-01",
+      "numero": "17500",
+      "urn": "urn:lex:br:federal:decreto:1926-11-01;17500",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DURANTE O DIA 14 DO CORRENTE MÊS, NO MUNICÍPIO DE ARAÇATUBA, NO ESTADO DE SÃO PAULO, PARA ELEIÇÕES MUNICIPAIS"
+    },
+    {
+      "senadoId": "433182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-30-17497",
+      "titulo": "Decreto nº 17.497 de 30/10/1926",
+      "data": "1926-10-30",
+      "numero": "17497",
+      "urn": "urn:lex:br:federal:decreto:1926-10-30;17497",
+      "ementa": "AUTORIZA O GOVERNO DO ESTADO DO ESPÍRITO SANTO A DAR, TEMPORARIAMENTE, AS RENDAS DO PORTO DE VITORIA EM GARANTIA DE OPERAÇÃO DE CRÉDITO, PARA AS OBRAS DO MESMO PORTO"
+    },
+    {
+      "senadoId": "433184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-30-17498",
+      "titulo": "Decreto nº 17.498 de 30/10/1926",
+      "data": "1926-10-30",
+      "numero": "17498",
+      "urn": "urn:lex:br:federal:decreto:1926-10-30;17498",
+      "ementa": "TORNA EXTENSIVO AO ESTADO DE MATO GRSSO O ESTADO DE SITIO, DE QUE TRATA O DECRETO NÚMERO 17.174, DE 31 DE DEZEMBRO DE 1925, E SUSPENDE O QUE VIGORA NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "433186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-30-17499",
+      "titulo": "Decreto nº 17.499 de 30/10/1926",
+      "data": "1926-10-30",
+      "numero": "17499",
+      "urn": "urn:lex:br:federal:decreto:1926-10-30;17499",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A EMITIR 64.562 APOLICES DA DÍVIDA PÚBLICA PARA PAGAMENTO DE COMPROMISSOS CONTRAIDOS PELO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, NO EXERCÍCIO DE 1925."
+    },
+    {
+      "senadoId": "433180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-30-17496",
+      "titulo": "Decreto nº 17.496 de 30/10/1926",
+      "data": "1926-10-30",
+      "numero": "17496",
+      "urn": "urn:lex:br:federal:decreto:1926-10-30;17496",
+      "ementa": "APROVA O REGULAMENTO PARA A CONCESSÃO DE FÉRIAS AOS EMPREGADOS E OPERÁRIOS DE ESTABELECIMENTOS COMERCIAIS, INDÚSTRIAIS, BANCÁRIOS E OUTROS."
+    },
+    {
+      "senadoId": "407202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-28-5043",
+      "titulo": "Decreto nº 5.043 de 28/10/1926",
+      "data": "1926-10-28",
+      "numero": "5043",
+      "urn": "urn:lex:br:federal:decreto:1926-10-28;5043",
+      "ementa": "ASSEGURA AOS COMISSÁRIOS DE POLÍCIA DO DISTRITO FEDERAL, A PARTIR DE 1 DE JULHO DE 1926, O DIREITO À PERCEPÇÃO DA GRATIFICAÇÃO ESTABELECIDA PELA LEI NÚMERO 4.555, DE 10 DE AGOSTO DE 1922, FICANDO ESSA GRATIFICAÇÃO, DESDE LOGO, INCORPORADA AOS SEUS VENCIMENTOS E ABERTO O CRÉDITO DE 328:320$ ANUAL, PARA O RESPECTIVO PAGAMENTO."
+    },
+    {
+      "senadoId": "433178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17495",
+      "titulo": "Decreto nº 17.495 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17495",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17495",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 150:000$, PARA COMBATER OS SURTOS EPIDEMICOS DE VARIOLA, VERIFICADOS, PRESENTEMENTE, NO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "433167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17489",
+      "titulo": "Decreto nº 17.489 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17489",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17489",
+      "ementa": "DECLARA QUE O DISPOSTO NO DECRETO NÚMERO 6.192, DE 23 DE OUTUBRO DE 1906, QUE CONCEDEU A THE SÃO PAULO TRAMWAY, LIGHT AND POWER COMPANY, LIMITED, OS FAVORES CONSTANTES DO DECRETO NÚMERO 5.646, DE 22 DE AGOSTO DE 1905, SE APLICA AOS RIOS PARAIBUNA E PARAITINGA, AFLUENTES DO RIO PARAIBA E AO RIO DO PEIXE, AFLUENTE DO RIO PARAIBUNA."
+    },
+    {
+      "senadoId": "433173",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17492",
+      "titulo": "Decreto nº 17.492 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17492",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17492",
+      "ementa": "CONCEDE A FRANCISCO CHAMIÉ O PRÉMIO DE 200:000$, PELA FUNDAÇÃO, NA CIDADE DE BELÉM, ESTADO DO PARÁ, DE UMA USINA DE BENEFICIAMENTO DE BORRACHA."
+    },
+    {
+      "senadoId": "433175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17493",
+      "titulo": "Decreto nº 17.493 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17493",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17493",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DURANTE O DIA 31 DO CORRENTE MÊS, NOS MUNICÍPIOS DE CONCEIÇÃO DE MONTE ALEGRE E AVANHANDAVA, PARA ELEIÇÃO DE JUIZES DE PAZ E VEREADORES MUNICIPAIS."
+    },
+    {
+      "senadoId": "433171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17491",
+      "titulo": "Decreto nº 17.491 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17491",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17491",
+      "ementa": "CONCEDE Á METRO GOLDWYN-MAYER (DO BRASIL), AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "433163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17487",
+      "titulo": "Decreto nº 17.487 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17487",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17487",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO PARA A CONSTRUÇÃO E APARELHAMENTO DE UM DEPOSITO DE LOCOMOTIVAS DA RÊDE FERREA ARRENDADA Á COMPANHIA FERROVIARIA ÉSTE BRASILEIRO."
+    },
+    {
+      "senadoId": "433169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17490",
+      "titulo": "Decreto nº 17.490 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17490",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17490",
+      "ementa": "PRORROGA ATÉ 9 DE JULHO DE 1928,O PRAZO PARA INICIO DA CONSTRUÇÃO DAS OBRAS DE MELHORAMENTOS DO PORTO DE CORUMBÁ, DE QUE É CONCESSIONÁRIO O ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "433165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-27-17488",
+      "titulo": "Decreto nº 17.488 de 27/10/1926",
+      "data": "1926-10-27",
+      "numero": "17488",
+      "urn": "urn:lex:br:federal:decreto:1926-10-27;17488",
+      "ementa": "APROVA OS ORÇAMENTOS, NAS IMPORTÂNCIAS TOTAIS, DE 90.001 DOLARES, 1.320.000 FRANCOS BELGAS, 19:464$140, OURO, E 54:561$640, PAPEL, PARA A IMPORTAÇÃO DO MATERIAL RODANTE DESTINADO AO TRECHO EM CONSTRUÇÃO ALÉM DE SINCORÁ, COM 54 KILOMETROS DE EXTENSÃO, A PARTIR DE TRIUNFO, NO PROLONGAMENTO DA ESTRADA DE FERRO CENTRAL DA BAHIA, DA RÊDE FEDERAL ARRENDADA Á COMPANHIA FERROVIARIA ÉSTE BRASILEIRO."
+    },
+    {
+      "senadoId": "433161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-26-17486",
+      "titulo": "Decreto nº 17.486 de 26/10/1926",
+      "data": "1926-10-26",
+      "numero": "17486",
+      "urn": "urn:lex:br:federal:decreto:1926-10-26;17486",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 1:050$, PARA OCORRER AO PAGAMENTO DA DIFERENÇA DE VENCIMENTOS DO AUDITOR DA POLÍCIA MILITAR, NO PERIODO DE 1 DE JUNHO DE 1922 A 31 DE DEZEMBRO DE 1925."
+    },
+    {
+      "senadoId": "433158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-25-17484",
+      "titulo": "Decreto nº 17.484 de 25/10/1926",
+      "data": "1926-10-25",
+      "numero": "17484",
+      "urn": "urn:lex:br:federal:decreto:1926-10-25;17484",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DURANTE O DIA 15 DE NOVEMBRO, EM TODO O TERRITÓRIO DO ESTADO DO CEARÁ, PARA ELEIÇÕES MUNICIPAIS"
+    },
+    {
+      "senadoId": "433156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-25-17483",
+      "titulo": "Decreto nº 17.483 de 25/10/1926",
+      "data": "1926-10-25",
+      "numero": "17483",
+      "urn": "urn:lex:br:federal:decreto:1926-10-25;17483",
+      "ementa": "SUSPENDE O ESTADO DE SITIO DURANTE O DIA 31 DO CORRENTE MÊS NO MUNICÍPIO DE S. JOSÉ DOS BARREIROS, NO ESTADO DE SÃO PAULO, PARA ELEIÇÕES."
+    },
+    {
+      "senadoId": "433152",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-20-17481",
+      "titulo": "Decreto nº 17.481 de 20/10/1926",
+      "data": "1926-10-20",
+      "numero": "17481",
+      "urn": "urn:lex:br:federal:decreto:1926-10-20;17481",
+      "ementa": "ABRE, PELO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 395:850$489, PARA SALDAR AS DIVIDAS CONTRAIDAS PELA INSPECTORIA FEDERAL DAS ESTRADAS EM 1923."
+    },
+    {
+      "senadoId": "433148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-20-17479",
+      "titulo": "Decreto nº 17.479 de 20/10/1926",
+      "data": "1926-10-20",
+      "numero": "17479",
+      "urn": "urn:lex:br:federal:decreto:1926-10-20;17479",
+      "ementa": "APROVA A NOVA TABELA DOS VENCIMENTOS ANUAES DOS EMPREGADOS DA CAIXA ECONOMICA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "433150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-20-17480",
+      "titulo": "Decreto nº 17.480 de 20/10/1926",
+      "data": "1926-10-20",
+      "numero": "17480",
+      "urn": "urn:lex:br:federal:decreto:1926-10-20;17480",
+      "ementa": "APROVA A NOVA TABELA DOS VENCIMENTOS ANUAIS DOS EMPREGADOS DA CAIXA ECONÔMICA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "433144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-20-17477",
+      "titulo": "Decreto nº 17.477 de 20/10/1926",
+      "data": "1926-10-20",
+      "numero": "17477",
+      "urn": "urn:lex:br:federal:decreto:1926-10-20;17477",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE CENTO E SETENTO E CONTOS, NOVECENTOS E QUARENTA E OITO MIL OITOCENTOS E CINQUENTA E TRÊS RÉIS (178:948$853), PARA PAGAMENTO DA INDENIZAÇÃO DEVIDA Á COMPANHIA DE NAVEGAÇÃO FLUVIAL A VAPOR ITAJAHY A BLUMENAU, EM VIRTUDE DE REQUISIÇÃO DE SEU MATERIAL NO ANO DE 1919."
+    },
+    {
+      "senadoId": "433146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-20-17478",
+      "titulo": "Decreto nº 17.478 de 20/10/1926",
+      "data": "1926-10-20",
+      "numero": "17478",
+      "urn": "urn:lex:br:federal:decreto:1926-10-20;17478",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 7:661$, PARA OCORRER AO PAGAMENTO DEVIDO A D. JULIA DIAS DA SILVA ROSA, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "433154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-20-17482",
+      "titulo": "Decreto nº 17.482 de 20/10/1926",
+      "data": "1926-10-20",
+      "numero": "17482",
+      "urn": "urn:lex:br:federal:decreto:1926-10-20;17482",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO AUTÓMOVEL."
+    },
+    {
+      "senadoId": "433142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-19-17476",
+      "titulo": "Decreto nº 17.476 de 19/10/1926",
+      "data": "1926-10-19",
+      "numero": "17476",
+      "urn": "urn:lex:br:federal:decreto:1926-10-19;17476",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE VINTE E SEIS CONTOS, TREZENTOS E TRINTA E SEIS MIL CENTO E CINQUENTA E SEIS RÉIS (26:336$156), PARA PAGAMENTO A EX-FUNCIONARIOS EM VIRTUDE DE REDUÇÕES DETERMINADAS POR LEI, E AO EX-DIRETOR DA REPARTIÇÃ0 DE ÁGUAS E OBRAS PÚBLICAS, ENGENHEIRO LUIZ VAN ERVEN, ATÉ Á VESPERA DE SUA APOSENTADORIA."
+    },
+    {
+      "senadoId": "433138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-19-17474",
+      "titulo": "Decreto nº 17.474 de 19/10/1926",
+      "data": "1926-10-19",
+      "numero": "17474",
+      "urn": "urn:lex:br:federal:decreto:1926-10-19;17474",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 1.247:672$700 PARA PAGAMENTO Á ESTRADA DE FERRO SÃO PAULO-RIO GRANDE, POR SERVIÇOS PRESTADOS EM 1920, 1923 E 1924"
+    },
+    {
+      "senadoId": "433140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-19-17475",
+      "titulo": "Decreto nº 17.475 de 19/10/1926",
+      "data": "1926-10-19",
+      "numero": "17475",
+      "urn": "urn:lex:br:federal:decreto:1926-10-19;17475",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 2:041$700 PARA PAGAMENTO A LUIZ MACEDO & COMP., DE FORNECIMENTOS FEITOS EM 1921 Á 1ª CIRCUMSCRIÇÃO DE RECRUTAMENTO."
+    },
+    {
+      "senadoId": "433136",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-19-17473",
+      "titulo": "Decreto nº 17.473 de 19/10/1926",
+      "data": "1926-10-19",
+      "numero": "17473",
+      "urn": "urn:lex:br:federal:decreto:1926-10-19;17473",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 393:040$600 PARA PAGAMENTO DA PERCENTAGEM DE QUE TRATA O DECRETO LEGISLATIVO NÚMERO 3.990, DE 2 DE JANEIRO DE 1920, A DIVERSOS FUNCIONÁRIOS."
+    },
+    {
+      "senadoId": "433134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-14-17472",
+      "titulo": "Decreto nº 17.472 de 14/10/1926",
+      "data": "1926-10-14",
+      "numero": "17472",
+      "urn": "urn:lex:br:federal:decreto:1926-10-14;17472",
+      "ementa": "SUSPENDE O ESTADO DE SITIO EM TODO O TERRITÓRIO DO ESTADO DE SERGIPE, DURANTE O DIA 17 DO CORRENTE MÊS, PARA ELEIÇÕES DE DEPUTADOS Á ASSEMBLÉA LEGISLATIVA."
+    },
+    {
+      "senadoId": "433132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-07-17471",
+      "titulo": "Decreto nº 17.471 de 07/10/1926",
+      "data": "1926-10-07",
+      "numero": "17471",
+      "urn": "urn:lex:br:federal:decreto:1926-10-07;17471",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 3.762:863$254, PARA A LIQUIDAÇÃO, NO CORRENTE EXÉRCICIO, DAS DESPESAS COM AS OBRAS DE ADAPTAÇÃO DO PALACIO MONROE, DESTINADO AO FUNCIONAMENTO DO SENADO FEDERAL."
+    },
+    {
+      "senadoId": "433130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17470",
+      "titulo": "Decreto nº 17.470 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17470",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17470",
+      "ementa": "AUTORIZA A MODIFICAÇÃO DO CONTRATO DE 11 DE OUTUBRO DE 1923 PELO QUAL FOI REGULADA A CONCESSÃO DE FAVORES Á COMPANHIA HIDRO-ELÉTRICA DE ADUBOS QUÍMICOS E ALKALIS, PARA A EXPLORAÇÃO DA INDÚSTRIA DO AZOTO, EXTRAIDO DO AR ATMOSFÉRICO, E SUA APLICAÇÃO Á FABRICAÇÃO DE ADUBOS QUÍMICOS."
+    },
+    {
+      "senadoId": "433126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17468",
+      "titulo": "Decreto nº 17.468 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17468",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17468",
+      "ementa": "CONCEDE A THEODORO PUTZ & COMP., LIMITADA, FAVORES PARA A SUA FABRICA DE ARTEFATOS DE BORRACHA EXTRAIDA NO PAÍS E DE BENEFICIAMENTO DE BORRACHA NACIONAL."
+    },
+    {
+      "senadoId": "433119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17464",
+      "titulo": "Decreto nº 17.464 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17464",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17464",
+      "ementa": "APROVA O REGULAMENTO PARA A ARRECADAÇÃO E FISCALIZAÇÃO DO IMPOSTO DE CONSUMO"
+    },
+    {
+      "senadoId": "433122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17466",
+      "titulo": "Decreto nº 17.466 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17466",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17466",
+      "ementa": "APROVA NOVAS ALTERAÇÕES DOS ESTATUTOS DA COMPANHIA VIEIRAS MATTOS."
+    },
+    {
+      "senadoId": "433107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17458",
+      "titulo": "Decreto nº 17.458 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17458",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17458",
+      "ementa": "APROVA OS PROJETOS APRESENTADOS POR THE RIO DE JANEIRO TRAMWAY, LIGHT AND POWER COMPANY LIMITED, PARA A CONSTRUÇÃO DE UM NOVO DEPÓSITO PARA CARROS, TRÊS BAGAGEIROS, UM CARRO PARA SUB-ESTAÇÃO PORTÁTIL, UM CARRO DE SOCORRO E NOVAS EXTENSÕES E RAMAIS DE LINHAS, E CONCEDE ISENÇÃO DE IMPOSTO DE IMPORTAÇÃO E DE EXPEDIENTE PARA O MATERIAL NECESSÁRIO."
+    },
+    {
+      "senadoId": "433128",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17469",
+      "titulo": "Decreto nº 17.469 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17469",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17469",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER A J. S. BRANDÃO & COMPANHIA OS FAVORES CONSTANTES DO DECRETO NÚMERO 17.091, DE 21 DE OUTUBRO DE 1925"
+    },
+    {
+      "senadoId": "433117",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17463",
+      "titulo": "Decreto nº 17.463 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17463",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17463",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO, POR PARTE DE DOMINICANA, DE ATOS ASSINADOS NA 5º CONFERÊNCIA  PAN-AMERICANA DE SANTIAGO DO CHILE, EM 1923."
+    },
+    {
+      "senadoId": "433101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17455",
+      "titulo": "Decreto nº 17.455 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17455",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17455",
+      "ementa": "PÚBLICA A ADESÃO DA ISLÂNDIA Á CONVENÇÃO DE 6 DE JULHO DE 1906, PARA O MELHORAMENTO DA SORTE DOS FERIDOS E ENFERMOS DOS EXÉRCITOS EM CAMPANHA."
+    },
+    {
+      "senadoId": "433109",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17459",
+      "titulo": "Decreto nº 17.459 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17459",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17459",
+      "ementa": "ADESÃO DE SARAWAK AO ACORDO RELATIVO ÁS CARTAS E CAIXAS COM VALOR DECLARADO, ASSINADO EM STOCKOLMO A 28 DE AGOSTO DE 1924."
+    },
+    {
+      "senadoId": "433103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17456",
+      "titulo": "Decreto nº 17.456 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17456",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17456",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO PROLONGAMENTO DA ESTRADA DE FERRO DE MARICÁ, ENTRE IGUABA GRANDE E CABO FRIO, COM A EXTENSÃO DE 24.760 METROS, E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 3.339:687$708 (TRES MIL TREZENTOS E TRINTA E NOVE CONTOS SEISCENTOS E OITENTA E SETE MIL SETECENTOS E OITO RÉIS)."
+    },
+    {
+      "senadoId": "433115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17462",
+      "titulo": "Decreto nº 17.462 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17462",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17462",
+      "ementa": "FAZ PÚBLICO O DEPOSITO DE RATIFICAÇÃO, POR PARTE DO HAITI, DO CONVÊNIO POSTAL HISPANO-AMERICANO, DE 1920."
+    },
+    {
+      "senadoId": "433096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17453",
+      "titulo": "Decreto nº 17.453 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17453",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17453",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DURANTE DIAS 12 E 13 DO CORRENTE MÊS, EM TODO O TERRITÓRIO DO ESTADO DE GOIÁS, AFIM DE SE REALIZAREM AS ELEIÇÕES PARA PRIMEIRO VICE-PRESIDENTE DO ESTADO, SENADOR E DEPUTADO AO CONGRESSO DO ESTADO, E SENADOR FEDERAL."
+    },
+    {
+      "senadoId": "433092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17451",
+      "titulo": "Decreto nº 17.451 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17451",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17451",
+      "ementa": "REGULA A CONSESSÃO DE AJUDAS DE CUSTO AOS CORPOS DIPLOMATICOS E CONSULAR BRASILEIROS."
+    },
+    {
+      "senadoId": "433099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17454",
+      "titulo": "Decreto nº 17.454 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17454",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17454",
+      "ementa": "PUBLICA A ADESÃO DO HAITI AO CONVÊNIO SOBRE ENCOMENDAS POSTAIS ASSINADO EM BUENOS AIRES A 15 DE SETEMBRO DE 1921."
+    },
+    {
+      "senadoId": "433105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17457",
+      "titulo": "Decreto nº 17.457 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17457",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17457",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTO DE DIVERSAS OBRAS DE AMPLIAÇÃO DOS INSTALAÇÕES DO PORTO DE SANTOS."
+    },
+    {
+      "senadoId": "433111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17460",
+      "titulo": "Decreto nº 17.460 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17460",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17460",
+      "ementa": "PÚBLICA AS ADESÕES DE NICARÁGUA, SÃO PEDRO E MEQUÉLON, SÍRIA E LÍBANO Á CONVENÇÃO INTERNACIONAL RADIO-TELEGRÁFICA DE LONDRES"
+    },
+    {
+      "senadoId": "433124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17467",
+      "titulo": "Decreto nº 17.467 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17467",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17467",
+      "ementa": "CONCEDE Á SOCIEDADE ANÔNIMA ATELIERES DE CONSTRUCTIONS ELECTRIQUES DE CHARLEROI FAVORES PARA A FUNDAÇÃO DE UMA FABRICA DE ARTEFATOS DE BORRACHA EXTRAIDA NO PAÍS E DE UMA USINA DE BENEFICIAMENTO DE BORRACHA NACIONAL."
+    },
+    {
+      "senadoId": "433094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17452",
+      "titulo": "Decreto nº 17.452 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17452",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17452",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE FRANCOS BELGAS 90.059,00 E 48:552$158, PAPEL, PARA A CONSTRUÇÃO DA PONTE SOBRE O RIO ITAPICURÚ-MIRIM, PARA ACESSO DOS PASSAGEIROS E MERCADORIAS DA CIDADE DE JACOBINA A ESTAÇÃO DA LINHA FERREA ARRENDADA A COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "433113",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-10-06-17461",
+      "titulo": "Decreto nº 17.461 de 06/10/1926",
+      "data": "1926-10-06",
+      "numero": "17461",
+      "urn": "urn:lex:br:federal:decreto:1926-10-06;17461",
+      "ementa": "PÚBLICA A ADESÃO DA REPÚBLICA DOMINICANA Á CONVENÇÃO DE 6 DE JULHO DE 1906, PARA O MELHORAMENTO DA SORTE DOS FERIDOS E ENFERMOS NOS EXERCÍCIOS EM CAMPANHA."
+    },
+    {
+      "senadoId": "433089",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-30-17449",
+      "titulo": "Decreto nº 17.449 de 30/09/1926",
+      "data": "1926-09-30",
+      "numero": "17449",
+      "urn": "urn:lex:br:federal:decreto:1926-09-30;17449",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES OS CRÉDITOS ESPECIAIS DE 200:000$, 54:761$750 E 211:979$317, O PRIMEIRO PARA PROMOVER A CODIFICAÇÃO DA NOSSA LEGISLAÇÃO PENAL E ELABORAÇÃO DO RESPECTIVO PROJETO, E OS DEMAIS PARA OCORREREM A DESPEZA DE PESSOAL E MATERIAL DA SECRETARIA DO SENADO FEDERAL."
+    },
+    {
+      "senadoId": "433087",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-30-17448",
+      "titulo": "Decreto nº 17.448 de 30/09/1926",
+      "data": "1926-09-30",
+      "numero": "17448",
+      "urn": "urn:lex:br:federal:decreto:1926-09-30;17448",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 11:276$400, PARA OCORRER AO PAGAMENTO DOS VENCIMENTOS A QUE, EM 1925, FIZERAM JÚS VÁRIOS FUNCIONÁRIOS DA DIRETORIA DE DEFESA SANITÁRIA MARÍTIMA E FLUVIAL, A CARGO DO DEPARTAMENTO NACIONAL DE SAÚDE PÚBLICA."
+    },
+    {
+      "senadoId": "433085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-27-17447",
+      "titulo": "Decreto nº 17.447 de 27/09/1926",
+      "data": "1926-09-27",
+      "numero": "17447",
+      "urn": "urn:lex:br:federal:decreto:1926-09-27;17447",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO O TERRITÓRIO DO MUNICÍPIO DE SÃO CARLOS DO PINHAL, NO ESTADO DE SÃO PAULO, DURANTE O DIA TRÊS DE OUTUBRO PRÓXIMO VINDOURO, PARA ELEIÇÕES DE VEREADORES."
+    },
+    {
+      "senadoId": "433083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-26-17446",
+      "titulo": "Decreto nº 17.446 de 26/09/1926",
+      "data": "1926-09-26",
+      "numero": "17446",
+      "urn": "urn:lex:br:federal:decreto:1926-09-26;17446",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO TERRITÓRIO DO ESTADO DE SÃO PAULO, DURANTE O DIA 10 DE OUTUBRO PRÓXIMO VINDOURO, AFIM DE SE REALIZAR A ELEIÇÃO PARA UM SENADOR ESTADUAL."
+    },
+    {
+      "senadoId": "433074",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-22-17441",
+      "titulo": "Decreto nº 17.441 de 22/09/1926",
+      "data": "1926-09-22",
+      "numero": "17441",
+      "urn": "urn:lex:br:federal:decreto:1926-09-22;17441",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 4.727:409$ (QUATRO MIL SETECENTOS E VINTE E SETE CONTOS QUATROCENTOS E NOVE MIL RÉIS), PARA AQUISIÇÃO E ASSENTAMENTO, PELA REDE DE VIAÇÃO SUL-MINEIRA, DE 320 QUILOMÊTROS DE TRILHOS DE 34 KG,720 POR METRO CORRENTE, SEUS ACESSÓRIOS E 20 CRUZAMENTOS COMPLETOS."
+    },
+    {
+      "senadoId": "433078",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-22-17443",
+      "titulo": "Decreto nº 17.443 de 22/09/1926",
+      "data": "1926-09-22",
+      "numero": "17443",
+      "urn": "urn:lex:br:federal:decreto:1926-09-22;17443",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 563:827$664, DAS OBRAS PARA A INSTALAÇÃO HIDRÁULICA NECESSÁRIA AOS SERVIÇOS DA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL, NA CIDADE DO RIO GRANDE, E DESAPROPRIA, PARA ESSE FIM, UMA ÁREA DE 567.514 METROS QUADRADOS."
+    },
+    {
+      "senadoId": "433080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-22-17444",
+      "titulo": "Decreto nº 17.444 de 22/09/1926",
+      "data": "1926-09-22",
+      "numero": "17444",
+      "urn": "urn:lex:br:federal:decreto:1926-09-22;17444",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE VINTE SEIS MIL QUATROCENTOS E CINQUENTA E UM CONTOS, TREZENTOS E QUARENTA E TRES MIL DUZENTOS E TRINTA E TRÊS RÉIS (26.451:343$233), PARA ATENDER Á LIQUIDAÇÃO DE COMPROMISSOS LEGALMENTE ASSUMIDOS ATÉ 31 DE DEZEMBRO DE 1925, COM A CONSTRUÇÃO DE OBRAS NOVAS, PROLONGAMENTOS, RAMAIS E MELHORAMENTOS NAS ESTRADAS DE FERRO CENTRAL DO BRASIL E OESTE DE MINAS."
+    },
+    {
+      "senadoId": "433076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-22-17442",
+      "titulo": "Decreto nº 17.442 de 22/09/1926",
+      "data": "1926-09-22",
+      "numero": "17442",
+      "urn": "urn:lex:br:federal:decreto:1926-09-22;17442",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 83:141$560, PARA A CONSTRUÇÃO DE NOVOS DESVIOS E MODIFICAÇÃO DOS EXISTENTES NA ESTAÇÃO DE \"DILERMANO AGUIAR\", NA LINHA DE SANTA MARIA-URUGUAYANA, DA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "433072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-18-17440",
+      "titulo": "Decreto nº 17.440 de 18/09/1926",
+      "data": "1926-09-18",
+      "numero": "17440",
+      "urn": "urn:lex:br:federal:decreto:1926-09-18;17440",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO O TERRITÓRIO DO ESTADO DE SERGIPE, DURANTE O DIA 19 DO CORRENTE, PARA ELEIÇÃO DE UM DEPUTADO Á ASSEMBLÉIA LEGISLATIVA."
+    },
+    {
+      "senadoId": "433070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-16-17439",
+      "titulo": "Decreto nº 17.439 de 16/09/1926",
+      "data": "1926-09-16",
+      "numero": "17439",
+      "urn": "urn:lex:br:federal:decreto:1926-09-16;17439",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, DURANTE O DIA 19 DO CORRENTE MÊS, NO 2º DISTRITO DO ESTADO DO RIO DE JANEIRO, PARA AS ELEIÇÕES DE UM DEPUTADO FEDERAL."
+    },
+    {
+      "senadoId": "433068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-14-17438",
+      "titulo": "Decreto nº 17.438 de 14/09/1926",
+      "data": "1926-09-14",
+      "numero": "17438",
+      "urn": "urn:lex:br:federal:decreto:1926-09-14;17438",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, DURANTE O DIA 16 DO CORRENTE MÊS, NOS MUNICÍPIOS DE SÃO JOSÉ DOS BARREIROS, IGARAPAVA E MONTE APRAZÍVEL, E NO DIA 26, TAMBÉM, DO MÊS CORRENTE, NO MUNICÍPIO DE RIBEIRÃO PRETO, DO DE SÃO PAULO, PARA ELEIÇÃO DE VEREADORES."
+    },
+    {
+      "senadoId": "433064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17436",
+      "titulo": "Decreto nº 17.436 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17436",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17436",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER À COMPANHIA NACIONAL DE ALTOS FORNOS OS FAVORES CONSTANTES DO DECRETO 17.091, DE 21 DE OUTUBRO DE 1925."
+    },
+    {
+      "senadoId": "433052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17430",
+      "titulo": "Decreto nº 17.430 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17430",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17430",
+      "ementa": "MANDA ESCRITURAR EM \"DEPÓSITOS\" TODAS AS DÍVIDAS EMPENHADAS NO EXERCÍCIO DE 1923 DE AINDA NÃO REGISTRADAS PELO TRIBUNAL DE CONTAS."
+    },
+    {
+      "senadoId": "433054",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17431",
+      "titulo": "Decreto nº 17.431 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17431",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17431",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 60:853$273, PARA PAGAR A  DOMINGOS PEDROSA VIEIRA, COLETOR FEDERAL DE MAR DE ESPANHA, O QUE LHE É DEVIDO EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "433066",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17437",
+      "titulo": "Decreto nº 17.437 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17437",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17437",
+      "ementa": "MODIFICA O REGULAMENTO DE DEFESA SANITÁRIA VEGETAL, APROVADO PELO DECRETO NÚMERO 15.189, DE 21 DE DEZEMBRO DE 1921."
+    },
+    {
+      "senadoId": "433060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17434",
+      "titulo": "Decreto nº 17.434 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17434",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17434",
+      "ementa": "APROVA NOVAS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA ANTARCTICA PAULISTA."
+    },
+    {
+      "senadoId": "433058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17433",
+      "titulo": "Decreto nº 17.433 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17433",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17433",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA COMISSÁRIA SUL DE MINAS AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "433056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17432",
+      "titulo": "Decreto nº 17.432 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17432",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17432",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA ULEN MANAGEMENT COMPANY AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "433062",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17435",
+      "titulo": "Decreto nº 17.435 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17435",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17435",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNINA FÁBRICA DE PRODUTOS ALIMENTÍCIOS \"VIGOR\", S/A AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "433050",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-09-10-17429",
+      "titulo": "Decreto nº 17.429 de 10/09/1926",
+      "data": "1926-09-10",
+      "numero": "17429",
+      "urn": "urn:lex:br:federal:decreto:1926-09-10;17429",
+      "ementa": "MANDA LIQUIDAR TODAS AS DÍVIDAS DE EXERCÍCIOS FINDOS, ATÉ 31 DE DEZEMBRO DE 1925."
+    },
+    {
+      "senadoId": "433034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17420",
+      "titulo": "Decreto nº 17.420 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17420",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17420",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE RÉIS 4:631$110,     PARA PAGAMENTO A DD. MERCEDES WERNECK LEONE E CARMEM WERNECK HEINTZ BARRELIER, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "433030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17418",
+      "titulo": "Decreto nº 17.418 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17418",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17418",
+      "ementa": "APROVA O REGULAMENTO DAS ATRIBUIÇÕES, DEVERES E REGALIAS DOS ADIDOS COMERCIAIS."
+    },
+    {
+      "senadoId": "433042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17424",
+      "titulo": "Decreto nº 17.424 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17424",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17424",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO RAMAL DE SALGADO A ESTÂNCIA, DA LINHA FÉRREA DE ALAGOINHAS A PROPRIÁ, DA REDE DE VIAÇÃO FÉRREA DA BAHIA, E BEM ASSIM O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 5.208:221$629 (CINCO MIL DUZENTOS E OITO CONTOS DUZENTOS E VINTE UM MIL SEISCENTOS E VINTE E NOVE RÉIS)."
+    },
+    {
+      "senadoId": "433038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17422",
+      "titulo": "Decreto nº 17.422 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17422",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17422",
+      "ementa": "PRORROGA POR DEZ ANOS, A PARTIR DE PRIMEIRO DE JULHO DE 1923, A AUTORIZAÇÃO CONCEDIDA A \"THE ROYAL BANK OF CANADÁ\" (BANCO REAL DO CANADÁ), COM SEDE EM MONTREAL, DOMÍNIO DO CANADÁ, PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "433040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17423",
+      "titulo": "Decreto nº 17.423 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17423",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17423",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE RÉIS 12:654$486, PARA PAGAR A D. OLÍVIA PINHEIRO, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "433046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17426",
+      "titulo": "Decreto nº 17.426 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17426",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17426",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 1.137:630$953 E £ 12.320, PARA A CONCLUSÃO DA PONTE SOBRE O RIO POTY."
+    },
+    {
+      "senadoId": "433032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17419",
+      "titulo": "Decreto nº 17.419 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17419",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17419",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO MUNICÍPIO DE LENÇÓIS, NO ESTADO DE SÃO PAULO, DURANTE O DIA 5 DE SETEMBRO VINDOURO, PARA AS ELEIÇÕES DE VEREADORES."
+    },
+    {
+      "senadoId": "433036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-25-17421",
+      "titulo": "Decreto nº 17.421 de 25/08/1926",
+      "data": "1926-08-25",
+      "numero": "17421",
+      "urn": "urn:lex:br:federal:decreto:1926-08-25;17421",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA COMPANHIA DE SEGUROS \"FRECTHERAS\" PARA FUNCIONAR NA REPÚBLICA E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "433028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-20-17417",
+      "titulo": "Decreto nº 17.417 de 20/08/1926",
+      "data": "1926-08-20",
+      "numero": "17417",
+      "urn": "urn:lex:br:federal:decreto:1926-08-20;17417",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 105:675$882, PARA PAGAMENTO DE VENCIMENTOS, NO CORRENTE ANO, NO PESSOAL DOCENTE E ADMINISTRATIVO DO COLÉGIO PEDRO II."
+    },
+    {
+      "senadoId": "433026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-20-17416",
+      "titulo": "Decreto nº 17.416 de 20/08/1926",
+      "data": "1926-08-20",
+      "numero": "17416",
+      "urn": "urn:lex:br:federal:decreto:1926-08-20;17416",
+      "ementa": "DESAPROPRIA, POR UTILIDADE PÚBLICA, OS PRÉDIOS E TERRENOS NÚMEROS 404 E 406 DA RUA SÃO CRISTOVÃO, COMPREENDIDOS NAS PLANTAS DE AMPLIAÇÃO DA SEÇÃO FEMININA DO ABRIGO DE MENORES."
+    },
+    {
+      "senadoId": "433024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-20-17415",
+      "titulo": "Decreto nº 17.415 de 20/08/1926",
+      "data": "1926-08-20",
+      "numero": "17415",
+      "urn": "urn:lex:br:federal:decreto:1926-08-20;17415",
+      "ementa": "APROVA AS PLANTAS REFERENTES À AMPLIAÇÃO DA SEÇÃO FEMININA DO ABRIGO DE MENORES."
+    },
+    {
+      "senadoId": "433020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-18-17413",
+      "titulo": "Decreto nº 17.413 de 18/08/1926",
+      "data": "1926-08-18",
+      "numero": "17413",
+      "urn": "urn:lex:br:federal:decreto:1926-08-18;17413",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 61:005$399, DE UMA VARIANTE, ENTRE AS ESTACAS 157-12,5 E 188-15 DO TRECHO, EM CONSTRUÇÃO, DO RAMAL DE LAVRAS, DA RÊDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "433018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-18-17412",
+      "titulo": "Decreto nº 17.412 de 18/08/1926",
+      "data": "1926-08-18",
+      "numero": "17412",
+      "urn": "urn:lex:br:federal:decreto:1926-08-18;17412",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 26.451:343$233, PARA ATENDER À LIQUIDAÇÃO DE COMPROMISSOS ASSUMIDOS ATÉ 31 DE DEZEMBRO DE 1925, COM A CONSTRUÇÃO DE OBRAS NOVAS, PROLONGAMENTOS, RAMAIS E MELHORAMENTOS NAS ESTRADAS DE FERRO CENTRAL DO BRASIL E OESTE DE MINAS."
+    },
+    {
+      "senadoId": "433022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-18-17414",
+      "titulo": "Decreto nº 17.414 de 18/08/1926",
+      "data": "1926-08-18",
+      "numero": "17414",
+      "urn": "urn:lex:br:federal:decreto:1926-08-18;17414",
+      "ementa": "REGULA A COBRANÇA DE TAXA DE 1 A 5 RÉIS POR QUILOGRAMA DE MERCADORIAS CARREGADAS OU DESCARREGADAS DE ACORDO COM O ARTIGO 2º DA LEI NÚMERO 4.984, DE 31 DE DEZEMBRO DE 1925."
+    },
+    {
+      "senadoId": "433007",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-11-17406",
+      "titulo": "Decreto nº 17.406 de 11/08/1926",
+      "data": "1926-08-11",
+      "numero": "17406",
+      "urn": "urn:lex:br:federal:decreto:1926-08-11;17406",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 350:000$000, PARA ATENDER ÀS DESPESAS DECORRENTES DO COMBATE À EPIDEMIA DE VARÍOLA E IMPEDIR A ENTRADA DE FEBRE AMARELA NO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "433009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-11-17407",
+      "titulo": "Decreto nº 17.407 de 11/08/1926",
+      "data": "1926-08-11",
+      "numero": "17407",
+      "urn": "urn:lex:br:federal:decreto:1926-08-11;17407",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, DURANTE O DIA 15 DO CORRENTE, NOS MUNICÍPIOS DE GUARIBA, IBITINGA, LARANJAL, LEME E JAMBEIRO, E NOS DISTRITOS DE SACY, BARRA DOURADA, BÁLSAMO E RUY BARBOSA, NO MUNICÍPIO DE MIRASOL, NO ESTADO DE SÃO PAULO, PARA RESPECTIVAMENTE SE REALIZAREM AS ELEIÇÕES DE VEREADORES E JUÍZES DE PAZ."
+    },
+    {
+      "senadoId": "433016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-11-17411",
+      "titulo": "Decreto nº 17.411 de 11/08/1926",
+      "data": "1926-08-11",
+      "numero": "17411",
+      "urn": "urn:lex:br:federal:decreto:1926-08-11;17411",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 49:960$, PARA OCORRER AO PAGAMENTO DE UMA COTA DE MIDDLETOWN CAR COMPANY, CORRESPONDENTE AO FORNECIMENTO DE QUATRO GONDOLAS À ESTRADA DE FERRO PETROLINA A TERESINA."
+    },
+    {
+      "senadoId": "433013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-11-17409",
+      "titulo": "Decreto nº 17.409 de 11/08/1926",
+      "data": "1926-08-11",
+      "numero": "17409",
+      "urn": "urn:lex:br:federal:decreto:1926-08-11;17409",
+      "ementa": "APROVA NOVOS TIPOS DE ESTAÇÃO E RESPECTIVOS ORÇAMENTOS, PARA O TRECHO DO PROLONGAMENTO DA ESTRADA DE FERRO DE SANTA CATARINA ATÉ A BARRA DO TROMBUDO."
+    },
+    {
+      "senadoId": "433011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-11-17408",
+      "titulo": "Decreto nº 17.408 de 11/08/1926",
+      "data": "1926-08-11",
+      "numero": "17408",
+      "urn": "urn:lex:br:federal:decreto:1926-08-11;17408",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA \"ASSICURAZZIONI GENERALI\", COM SEDE EM VENEZA E TRIESTE, PELA ASSEMBLÉIA GERAL ORDINÁRIA E EXTRAORDINÁRIA DE 9 DE MAIO DE 1925."
+    },
+    {
+      "senadoId": "433005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-04-17405",
+      "titulo": "Decreto nº 17.405 de 04/08/1926",
+      "data": "1926-08-04",
+      "numero": "17405",
+      "urn": "urn:lex:br:federal:decreto:1926-08-04;17405",
+      "ementa": "CONCEDE À OTIS ELEVATOR COMPANY AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-04-17401",
+      "titulo": "Decreto nº 17.401 de 04/08/1926",
+      "data": "1926-08-04",
+      "numero": "17401",
+      "urn": "urn:lex:br:federal:decreto:1926-08-04;17401",
+      "ementa": "AUTORIZA A REVISÃO DO CONTRATO RELATIVO ÀS OBRAS DE MELHORAMENTO DO PORTO DE ILHÉUS, DO QUAL É CESSIONÁRIA A COMPANHIA INDUSTRIAL DE ILHÉUS."
+    },
+    {
+      "senadoId": "433003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-04-17404",
+      "titulo": "Decreto nº 17.404 de 04/08/1926",
+      "data": "1926-08-04",
+      "numero": "17404",
+      "urn": "urn:lex:br:federal:decreto:1926-08-04;17404",
+      "ementa": "CONCEDE À ADLER & C. SOCIETÁ ANÔNIMA (A.C.S.A.), AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-04-17402",
+      "titulo": "Decreto nº 17.402 de 04/08/1926",
+      "data": "1926-08-04",
+      "numero": "17402",
+      "urn": "urn:lex:br:federal:decreto:1926-08-04;17402",
+      "ementa": "APROVA OS ORÇAMENTOS, NAS IMPORTÂNCIAS DE FRS. BELGAS 239.271,00 - 2:392$710, OURO E 7:566$933, PAPEL. - PARA A IMPORTAÇÃO DE 11 SUPERESTRUTURAS METÁLICAS DESTINADAS AS PONTES DO TRECHO EM CONSTRUÇÃO DE SINCORÁ AO BARRANCO DO RIO DE CONTAS, NA LINHA DE MACHADO PORTELLA A CARINHANHA, DA REDE FEDERAL ARRENDADA À \"COMPANHIA FERROVIÁRIA E ESTE BRASILEIRO\"."
+    },
+    {
+      "senadoId": "433001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-08-04-17403",
+      "titulo": "Decreto nº 17.403 de 04/08/1926",
+      "data": "1926-08-04",
+      "numero": "17403",
+      "urn": "urn:lex:br:federal:decreto:1926-08-04;17403",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 13:677$754, PARA ELEVAÇÃO, À CATEGORIA DE ESTAÇÃO DO ATUAL POSTO TELEGRÁFICO \"PEIXOTO GOMIDE\", SITUADO NO QUILOMÊTRO 215,252 DO RAMAL FEDERAL DE ITARARÉ, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17397",
+      "titulo": "Decreto nº 17.397 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17397",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17397",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 17:302$486 (DEZESETE CONTOS TREZENTOS E DOIS MIL QUATROCENTOS E OITENTA E SEIS RÉIS), RELATIVOS À CONSTRUÇÃO DE UMA CASA DESTINADA À MORADIA DO CHEFE DO DEPÓSITO DA ESTAÇÃO DE FRANCA, DA LINHA DO RIO GRANDE, DE CONCESSÃO DA \"COMPANHIA MOGYANA DE ESTRADAS DE FERRO\"."
+    },
+    {
+      "senadoId": "432995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17400",
+      "titulo": "Decreto nº 17.400 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17400",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17400",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O LABORATORIO E DEPOSITO DE MATERIAL SANITARIO NAVAL."
+    },
+    {
+      "senadoId": "432993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17399",
+      "titulo": "Decreto nº 17.399 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17399",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17399",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO EXTRAORDINÁRIO DE MIL CONTOS DE RÉIS (1.000:000$), AFIM DE ATENDER AS DESPESAS EXTRAORDINÁRIAS COM A RECONSTRUÇÃO DAS LINHAS TELEGRÁFICAS NACIONAIS NO ESTADO DO RIO GRANDE DO SUL, DEVASTADAS PELOS MOVIMENTOS REVOLUCIONÁRIOS OCORRIDOS DESDE 1923."
+    },
+    {
+      "senadoId": "432987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17396",
+      "titulo": "Decreto nº 17.396 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17396",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17396",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 120:000$000, DE UMA NOVA PONTE SOBRE O CANAL DE MANGUE, PARA PASSAGEM DAS LINHAS DE \"THE LEOPOLDINA RAIWAY COMPANY, LIMITED\", ENTRE A SUA ESTAÇÃO INICIAL E A ZONA DO CAIS DO PORTO."
+    },
+    {
+      "senadoId": "432983",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17394",
+      "titulo": "Decreto nº 17.394 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17394",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17394",
+      "ementa": "APROVA AS ALTERAÇÕES DE ESTATUTOS DA \"SÃO PAULO\", COMPANHIA NACIONAL DE SEGUROS DE VIDA, FEITAS PELAS ASSEMBLÉIAS EXTRAORDINÁRIAS DE 13 DE JUNHO E 16 DE NOVEMBRO DE 1925."
+    },
+    {
+      "senadoId": "432991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17398",
+      "titulo": "Decreto nº 17.398 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17398",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17398",
+      "ementa": "APROVA OS PROJETOS E OS ORÇAMENTOS DE TIPOS DE CASA PARA AGENTES E PARA TURMAS, A SEREM ADOTADOS NOS RAMAIS DE ITAJUBÁ À SOLEDADE DE ITAJUBÁ E DE TRÊS CORAÇÕES À LAVRAS, DA REDE DE VIAÇÃO SUL MINEIRA, EM SUBSTTTUIÇÃO AOS APROVADOS PELO DECRETO NÚMERO 16.454, DE 16 DE ABRIL E 1924."
+    },
+    {
+      "senadoId": "432985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-29-17395",
+      "titulo": "Decreto nº 17.395 de 29/07/1926",
+      "data": "1926-07-29",
+      "numero": "17395",
+      "urn": "urn:lex:br:federal:decreto:1926-07-29;17395",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 29:082$438, RELATIVOS ÀS OBRAS DE AMPLIAÇÃO DO ARMAZÉM DE MERCADORIAS DA ESTAÇÃO DE JARAGUÁ, DA LINHA DE SÃO FRANCISCO, DE CONCESSÃO DA \"COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE\"."
+    },
+    {
+      "senadoId": "432981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-26-17393",
+      "titulo": "Decreto nº 17.393 de 26/07/1926",
+      "data": "1926-07-26",
+      "numero": "17393",
+      "urn": "urn:lex:br:federal:decreto:1926-07-26;17393",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM SAN SEBASTIAN, EM ESPANHA."
+    },
+    {
+      "senadoId": "432979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-26-17392",
+      "titulo": "Decreto nº 17.392 de 26/07/1926",
+      "data": "1926-07-26",
+      "numero": "17392",
+      "urn": "urn:lex:br:federal:decreto:1926-07-26;17392",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE RÉIS 40:240$877, PARA PAGAR AO DR.HENRIQUE DE BRITTO BELFORD ROXO O QUE LHE É DEVIDO,EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "432977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-26-17391",
+      "titulo": "Decreto nº 17.391 de 26/07/1926",
+      "data": "1926-07-26",
+      "numero": "17391",
+      "urn": "urn:lex:br:federal:decreto:1926-07-26;17391",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 194:324$118, DESTINADO A CUSTEAR, NO CORRENTE ANO, AS DESPESAS DO PESSOAL E MATERIAL DO DEPARTAMENTO NACIONAL DO ENSINO."
+    },
+    {
+      "senadoId": "432975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-26-17390",
+      "titulo": "Decreto nº 17.390 de 26/07/1926",
+      "data": "1926-07-26",
+      "numero": "17390",
+      "urn": "urn:lex:br:federal:decreto:1926-07-26;17390",
+      "ementa": "APROVA O REGULAMENTO DO IMPOSTO SOBRE A RENDA."
+    },
+    {
+      "senadoId": "432973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-23-17389",
+      "titulo": "Decreto nº 17.389 de 23/07/1926",
+      "data": "1926-07-23",
+      "numero": "17389",
+      "urn": "urn:lex:br:federal:decreto:1926-07-23;17389",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO TERRITÓRIO DO ESTADO DE SERGIPE, NO DIA 26 DE JULHO CORRENTE, DATA EM QUE SE REALIZARÁ A ELEIÇÃO PARA O CARGO DE PRESIDENTE DO ESTADO."
+    },
+    {
+      "senadoId": "432967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-21-17386",
+      "titulo": "Decreto nº 17.386 de 21/07/1926",
+      "data": "1926-07-21",
+      "numero": "17386",
+      "urn": "urn:lex:br:federal:decreto:1926-07-21;17386",
+      "ementa": "CONCEDE A THE SÃO PAULO TRAMWAY, LIGHT AND POWER COMPANY, LIMITED AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-21-17388",
+      "titulo": "Decreto nº 17.388 de 21/07/1926",
+      "data": "1926-07-21",
+      "numero": "17388",
+      "urn": "urn:lex:br:federal:decreto:1926-07-21;17388",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A ESCOLA DE AVIAÇÃO NAVAL."
+    },
+    {
+      "senadoId": "432969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-21-17387",
+      "titulo": "Decreto nº 17.387 de 21/07/1926",
+      "data": "1926-07-21",
+      "numero": "17387",
+      "urn": "urn:lex:br:federal:decreto:1926-07-21;17387",
+      "ementa": "MODIFICA A DISPOSIÇÃO DO ARTIGO 1, LETRA E, DO REGULAMENTO APROVADO PELO DECRETO 12.914, DE 13 DE MARÇO DE 1918, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-20-17385",
+      "titulo": "Decreto nº 17.385 de 20/07/1926",
+      "data": "1926-07-20",
+      "numero": "17385",
+      "urn": "urn:lex:br:federal:decreto:1926-07-20;17385",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO ESPECIAL DE 400:000, PAPEL, PARA OCORRER AO PAGAMENTO DOS FUNCIONÁRIOS DO CORPO DIPLOMÁTICO E DO CONSULAR EM DISPONIBILIDADE."
+    },
+    {
+      "senadoId": "432963",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-20-17384",
+      "titulo": "Decreto nº 17.384 de 20/07/1926",
+      "data": "1926-07-20",
+      "numero": "17384",
+      "urn": "urn:lex:br:federal:decreto:1926-07-20;17384",
+      "ementa": "AUTORIZA A SUBSTITUIÇÃO DOS ATUAIS, TRILHOS DA PRIMEIRA SEÇÃO DA ESTRADA DE FERRO D. THEREZA CHRISTINA, E APROVA O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 1.714:931$400 (MIL SETECENTOS E QUATORZE CONTOS NOVECENTOS E TRINTA E UM MIL QUATROCENTOS RÉIS)."
+    },
+    {
+      "senadoId": "432961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-19-17383",
+      "titulo": "Decreto nº 17.383 de 19/07/1926",
+      "data": "1926-07-19",
+      "numero": "17383",
+      "urn": "urn:lex:br:federal:decreto:1926-07-19;17383",
+      "ementa": "ELEVA A TAXA PARA RECEPÇÃO DE DIREITOS DE IMPORTAÇÃO DE PRODUTO ENUMERADO NO ARTIGO 437 DA TARIFA DAS ALFÂNDEGAS, EM VIGOR."
+    },
+    {
+      "senadoId": "432952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17379",
+      "titulo": "Decreto nº 17.379 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17379",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17379",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 14.133:754$053 PARA ATENDER AO PAGAMENTO DAS OBRAS E FORNECIMENTOS FEITOS PELA COMPANHIA FERROVIÁRIA ÊSTE BRASILEIRO, NA CONSTRUÇÃO DAS ESTRADAS DA BAHIA, SERGIPE E NORTE DE MINAS GERAIS, DURANTE OS ANOS DE 1924 E 1925."
+    },
+    {
+      "senadoId": "432946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17376",
+      "titulo": "Decreto nº 17.376 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17376",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17376",
+      "ementa": "CONCEDE À LA COMERCIALE SUD AMÉRICAINE G.M.& A. PETITJEAN AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17382",
+      "titulo": "Decreto nº 17.382 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17382",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17382",
+      "ementa": "APROVA A PLANTA DOS TERRENOS NECESSÁRIOS À EDIFICAÇÃO DA NOVA ESTAÇÃO DA REDE FERROVIÁRIA ESTE BRASILEIRO E DECLARA A URGÊNCIA DA DESAPROPRIAÇÃO DOS TERRENOS E BENFEITORIAS NELA COMPREENDIDOS."
+    },
+    {
+      "senadoId": "432950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17378",
+      "titulo": "Decreto nº 17.378 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17378",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17378",
+      "ementa": "AUTORIZA O BANK OF LONDON AND SOUTH AMERICA LIMITED, COM SEDE EM LONDRES, A ABRIR SUCURSAIS NAS CIDADES DE BELO HORIZONTE E JUÍZ DE FORA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17380",
+      "titulo": "Decreto nº 17.380 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17380",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17380",
+      "ementa": "PRORROGA ATÉ O DIA 3 DE JANEIRO DE 1927 O PRAZO FIXADO PARA A COMPANHIA MOGYANA DE ESTRADAS DE FERRO CONCLUIR AS OBRAS DE CONSTRUÇÃO DE UMA ESTAÇÃO, ARMAZÉM E DEPENDÊNCIAS, NO QUIILÔMETRO 774,022, DA LINHA DE CATALÃO, E AUTORIZA A INSTALAÇÃO PROVISÓRIA DE UM \"POSTO\" EM UMA DAS CASAS DE PORTADORES."
+    },
+    {
+      "senadoId": "432956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17381",
+      "titulo": "Decreto nº 17.381 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17381",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17381",
+      "ementa": "PRORROGA ATÉ 7 DE JULHO DE 1928 O PRAZO PARA A COMPANHIA ESTRADA DE FERRO DE VITÓRIA A MINAS CONCLUIR A CONSTRUÇÃO DA LINHA DE VITÓRIA A ITABIRA DO MATO DENTRO."
+    },
+    {
+      "senadoId": "432960",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17382-a",
+      "titulo": "Decreto nº 17.382-A de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17382-a",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17382-a",
+      "ementa": "EXTINGUE A DELEGAÇÃO PERMANENTE JUNTO À LIGA DAS NAÇÕES."
+    },
+    {
+      "senadoId": "432944",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17375",
+      "titulo": "Decreto nº 17.375 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17375",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17375",
+      "ementa": "MODIFICA AS DISPOSIÇÕES CONSTANTES DAS LETRAS A E B, DA CONDIÇÃO 1, INSTITUIDA PELO DECRETO 16.775, DE 13 DE JANEIRO DE 1925, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-15-17377",
+      "titulo": "Decreto nº 17.377 de 15/07/1926",
+      "data": "1926-07-15",
+      "numero": "17377",
+      "urn": "urn:lex:br:federal:decreto:1926-07-15;17377",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO O TERRITÓRIO DOS MUNICÍPIOS DE JAMBEIRO, XIRIRICA, NOVO HORIZONTE, SALTO GRANDE DO PARANAPANEMA, AGUDOS E IACANCA, NO ESTADO DE SÃO PAULO, NO DIA 21 DO CORRENTE MÊS."
+    },
+    {
+      "senadoId": "432942",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-07-17374",
+      "titulo": "Decreto nº 17.374 de 07/07/1926",
+      "data": "1926-07-07",
+      "numero": "17374",
+      "urn": "urn:lex:br:federal:decreto:1926-07-07;17374",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 44:640$000, PARA OS CONCERTOS DE QUE CARECEM OS APARELHOS \"CLAYTON\", DA INSPETORIA DOS SERVIÇOS DE PROFILAXIA, A CARGO DO DEPARTAMENTO NACIONAL DE SAÚDE PÚBLICA."
+    },
+    {
+      "senadoId": "432940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-07-07-17373",
+      "titulo": "Decreto nº 17.373 de 07/07/1926",
+      "data": "1926-07-07",
+      "numero": "17373",
+      "urn": "urn:lex:br:federal:decreto:1926-07-07;17373",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 7:790$420, PARA PAGAMENTO AO DR. ORVILLE A. DERBY, DE DESPESAS EFETUADAS EM PROVEITO DO SERVIÇO GEOLÓGICO E MINERALÓGICO DO MINISTÉRIO DA AGRICULTURA."
+    },
+    {
+      "senadoId": "432936",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17371",
+      "titulo": "Decreto nº 17.371 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17371",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17371",
+      "ementa": "CONCEDE À THE ASIATIC TRADING CORPORATION, LIMITED, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432938",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17372",
+      "titulo": "Decreto nº 17.372 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17372",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17372",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM RIGA."
+    },
+    {
+      "senadoId": "432932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17369",
+      "titulo": "Decreto nº 17.369 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17369",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17369",
+      "ementa": "CONCEDE À COMPANHIA AMERICANA DE CONSTRUÇÃO E PAVIMENTOS AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17367",
+      "titulo": "Decreto nº 17.367 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17367",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17367",
+      "ementa": "CRIA O DISTINTIVO DE COMANDANTE EM CHEFE DA ESQUADRA."
+    },
+    {
+      "senadoId": "432934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17370",
+      "titulo": "Decreto nº 17.370 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17370",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17370",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO PARA A CONCLUSÃO DOS TRABALHOS DE INSTALAÇÃO DAS USINAS, A QUE SE REFERE A CLÁUSULA DÉCIMA QUINTA DO CONTRATO CELEBRADO EM 11 DE OUTUBRO DE 1923 ENTRE O GOVERNO FEDERAL E A COMPANHIA HIDROELÉTRICA DE ADUBOS QUÍMICOS A ALKALIS."
+    },
+    {
+      "senadoId": "432924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17365",
+      "titulo": "Decreto nº 17.365 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17365",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17365",
+      "ementa": "DETERMINA A APRESENTAÇÃO DENTRO DO PRAZO DE DOIS ANOS, DOS ESTUDOS DE UM NOVO TRAÇADO FERROVIÁRIO, LIGANDO GANDARELLA À ESTRADA DE FERRO CENTRAL DO BRASIL E PRORROGA POR TRÊS ANOS, À PARTIR DA DATA DA APROVAÇÃO DOS NOVOS ESTUDOS, O PRAZO FIXADO PARA A CONCLUSÃO DA CONSTRUÇÃO DA ESTRADA DE FERRO DE QUE É CONCESSIONÁRIA A COMPANHIA DO GANDARELLA."
+    },
+    {
+      "senadoId": "432922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17364",
+      "titulo": "Decreto nº 17.364 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17364",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17364",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 283:737$504, PARA A CONSTRUÇÃO, EM SAPUCAÍ, DE EDIFÍCIOS DESTINADOS À ESTAÇÃO, ARMAZÉM DE BALDEAÇÃO E CASAS DE AGENTE E DE GUARDA-CHAVES DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "432926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17366",
+      "titulo": "Decreto nº 17.366 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17366",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17366",
+      "ementa": "APROVA O PLANO DAS OBRAS QUE A \"COMPANHIA ITUANA FORÇA E LUZ\" PRETENDE EXECUTAR NOS MUNICÍPIOS DE ITÚ, SALTO E CABREUVA, NO ESTADO DE SÃO PAULO, PARA APROVEITAMENTO DA FORÇA HIDRÁULICA DO RIO TIETÊ, E DECLARA A URGÊNCIA DA DESAPROPRIAÇÃO DOS TERRENOS E BENFEITORIAS COMPREENDIDOS NAS RESPECTIVAS PLANTAS."
+    },
+    {
+      "senadoId": "432930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-30-17368",
+      "titulo": "Decreto nº 17.368 de 30/06/1926",
+      "data": "1926-06-30",
+      "numero": "17368",
+      "urn": "urn:lex:br:federal:decreto:1926-06-30;17368",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO ESPECIAL DE 21:072$420, PARA PAGAMENTO A MINISTROS DO SUPREMO TRIBUNAL MILITAR."
+    },
+    {
+      "senadoId": "432920",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-23-17363",
+      "titulo": "Decreto nº 17.363 de 23/06/1926",
+      "data": "1926-06-23",
+      "numero": "17363",
+      "urn": "urn:lex:br:federal:decreto:1926-06-23;17363",
+      "ementa": "CONCEDE PRORROGAÇÃO DO PRAZO DE DURAÇÃO DA COMPANHIA DE SEGUROS TERRESTRES E MARÍTIMOS \"INDENISADORA\", COM SEDE EM RECIFE, E APROVA SEUS NOVOS ESTUTOS ADAPTADOS PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA DE 26 DE NOVEMBRO DE 1925."
+    },
+    {
+      "senadoId": "432918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-23-17362",
+      "titulo": "Decreto nº 17.362 de 23/06/1926",
+      "data": "1926-06-23",
+      "numero": "17362",
+      "urn": "urn:lex:br:federal:decreto:1926-06-23;17362",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 6:369$921, PARA PAGAMENTO À D. MARIA DO CARMO VALLE E ACCIOLI DE VASCONCELLOS E OUTROS, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "407019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-23-4998",
+      "titulo": "Decreto nº 4.998 de 23/06/1926",
+      "data": "1926-06-23",
+      "numero": "4998",
+      "urn": "urn:lex:br:federal:decreto:1926-06-23;4998",
+      "ementa": "AUTORIZA A FUNDAÇÃO OSWALDO CRUZ A VENDER O TERRENO QUE LHE FOI DOADO PELO CONGRESSO NACIONAL, ESTABELECE CONDIÇÕES PARA APLICAÇÃO DO PRODUTO DESTA VENDA."
+    },
+    {
+      "senadoId": "432916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-23-17361",
+      "titulo": "Decreto nº 17.361 de 23/06/1926",
+      "data": "1926-06-23",
+      "numero": "17361",
+      "urn": "urn:lex:br:federal:decreto:1926-06-23;17361",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO FIXADO NA CLÁUSULA V DO CONTRATO CELEBRADO COM A SOCIEDADE ANÔNIMA AGÊNCIA AMERICANA PARA INSTALAR E TRAFEGAR ESTAÇÕES RADIOTELEGRÁFICAS ULTRAPOTENTES E PARA ESTABELECER SERVIÇO RADIOTELEFÔNICO NO TERRITÓRIO NACIONAL."
+    },
+    {
+      "senadoId": "432914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-19-17360",
+      "titulo": "Decreto nº 17.360 de 19/06/1926",
+      "data": "1926-06-19",
+      "numero": "17360",
+      "urn": "urn:lex:br:federal:decreto:1926-06-19;17360",
+      "ementa": "SUSPENDE O ESTADO D3E SÍTIO, NO MUNICÍPIO DE PEDERNEIRAS E NOS DISTRITOS DE BORBOREMA E LENÇÓIS, MUNICÍPIO DE LENÇÓIS E COMARCA DE AGUDOS, NO ESTADO DE SÃO PAULO, DURANTE O DIA 5 DE JULHO PRÓXIMO, A FIM DE SE REALIZAREM AS ELEIÇÕES DE VEREADORES E JUÍZES DE PAZ."
+    },
+    {
+      "senadoId": "432912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-18-17359",
+      "titulo": "Decreto nº 17.359 de 18/06/1926",
+      "data": "1926-06-18",
+      "numero": "17359",
+      "urn": "urn:lex:br:federal:decreto:1926-06-18;17359",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, DURANTE O DIA 27 DO CORRENTE, EM TODO O TERRITÓRIO DO ESTADO DO PARÁ, DATA EM QUE SE DEVEM REALIZAR AS ELEIÇÕES DE SENADOR FEDERAL."
+    },
+    {
+      "senadoId": "432910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-16-17358",
+      "titulo": "Decreto nº 17.358 de 16/06/1926",
+      "data": "1926-06-16",
+      "numero": "17358",
+      "urn": "urn:lex:br:federal:decreto:1926-06-16;17358",
+      "ementa": "PRORROGA PARA 31 DE DEZEMBRO DE 1926 O PRAZO ESTABELECIDO PELO DECRETO NÚMERO 16.054, DE 20 DE MAIO DE 1923, PARA USO OBRIGATÓRIO DE     AUTO-CLAVES NA FABRICAÇÃO DA BANHA DE PORCO."
+    },
+    {
+      "senadoId": "432906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-16-17356",
+      "titulo": "Decreto nº 17.356 de 16/06/1926",
+      "data": "1926-06-16",
+      "numero": "17356",
+      "urn": "urn:lex:br:federal:decreto:1926-06-16;17356",
+      "ementa": "DERROGA A DISPOSIÇÃO DO ARTIGO 29 DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 12.914, DE 13 DE MARÇO DE 1918."
+    },
+    {
+      "senadoId": "432902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-16-17354",
+      "titulo": "Decreto nº 17.354 de 16/06/1926",
+      "data": "1926-06-16",
+      "numero": "17354",
+      "urn": "urn:lex:br:federal:decreto:1926-06-16;17354",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O PESSOAL SUBALTERNO DO SERVIÇO GERAL DE TELEGRAFIA, DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "432904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-16-17355",
+      "titulo": "Decreto nº 17.355 de 16/06/1926",
+      "data": "1926-06-16",
+      "numero": "17355",
+      "urn": "urn:lex:br:federal:decreto:1926-06-16;17355",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 173:506$000, PARA ATENDER ÀS DESPESAS COM O APARELHAMENTO DOS HOSPITAIS PAULA CANDIDO E D.PEDRO II, DE MODO A FICAREM EM CONDIÇÕES DE RECEBER E TRATAR OS VARÍOLOSOS QUE LHE FOREM ENCAMINHADOS."
+    },
+    {
+      "senadoId": "432900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-16-17353",
+      "titulo": "Decreto nº 17.353 de 16/06/1926",
+      "data": "1926-06-16",
+      "numero": "17353",
+      "urn": "urn:lex:br:federal:decreto:1926-06-16;17353",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O PESSOAL SUBALTERNO DO SERVIÇO GERAL DE SINAIS E TIMONEIRA DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "432908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-16-17357",
+      "titulo": "Decreto nº 17.357 de 16/06/1926",
+      "data": "1926-06-16",
+      "numero": "17357",
+      "urn": "urn:lex:br:federal:decreto:1926-06-16;17357",
+      "ementa": "CONCEDE Á LA HISPANO ARGENTINA CURTIEMBRE Y CHAROLERIA AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-14-17352",
+      "titulo": "Decreto nº 17.352 de 14/06/1926",
+      "data": "1926-06-14",
+      "numero": "17352",
+      "urn": "urn:lex:br:federal:decreto:1926-06-14;17352",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, EM TODO O TERRITÓRIO DO MUNICÍPIO DE COTIA, NO ESTADO DE S.PAULO, DURANTE O DIA 20 DO CORRENTE MÊS, A FIM DE SE REALIZAREM ALI AS ELEIÇÕES PARA VEREADORES E JUÍZES DE PAZ."
+    },
+    {
+      "senadoId": "432896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-10-17351",
+      "titulo": "Decreto nº 17.351 de 10/06/1926",
+      "data": "1926-06-10",
+      "numero": "17351",
+      "urn": "urn:lex:br:federal:decreto:1926-06-10;17351",
+      "ementa": "APROVA OS ESTATUTOS DEFINITIVOS E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 17.613$139:736, DO TRECHO COMPREENDIDO ENTRE OS QUILÔMETROS 36 E 100 DA LINHA DE SUCANGA A FIGUEIRA, DA COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "432889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17347",
+      "titulo": "Decreto nº 17.347 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17347",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17347",
+      "ementa": "PUBLICA AS ADESÕES DA PAPUÁSIA E DA NOVA GUINÉ À CONVENÇÃO ASSINADA EM WASHINGTON PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "432881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17343",
+      "titulo": "Decreto nº 17.343 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17343",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17343",
+      "ementa": "PRORROGA ATÉ 31 DE DEZEMBRO DE 1927 O PRAZO FIXADO NO CONTRATO CELEBRADO COM DR.JOSÉ AGOSTINHO DOS REIS, PARA A APRESENTAÇÃO DOS ESTUDOS DEFINITIVOS DOS PRIMEIROS 100 QUILÔMETROS DA ESTRADA DE FERRO CUIABÁ A SANTARÉM."
+    },
+    {
+      "senadoId": "432891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17348",
+      "titulo": "Decreto nº 17.348 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17348",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17348",
+      "ementa": "PUBLICA A ADESÃO DE DANTZIG Á CONVENÇÃO PARA A PROTEÇÃO DOS CABOS SUBMARINOS."
+    },
+    {
+      "senadoId": "432893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17349",
+      "titulo": "Decreto nº 17.349 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17349",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17349",
+      "ementa": "CONCEDE A SOUTHERN CROSS PRODUCTS, LIMITED AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17346",
+      "titulo": "Decreto nº 17.346 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17346",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17346",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM COLOMBO."
+    },
+    {
+      "senadoId": "432883",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17344",
+      "titulo": "Decreto nº 17.344 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17344",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17344",
+      "ementa": "APROVA O PROJETO E ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 5.203:654$550, DAS OBRAS DE MELHORAMENTOS DA BARRA E DO PORTO DE ITAJAÍ, NO ESTADO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "432885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-09-17345",
+      "titulo": "Decreto nº 17.345 de 09/06/1926",
+      "data": "1926-06-09",
+      "numero": "17345",
+      "urn": "urn:lex:br:federal:decreto:1926-06-09;17345",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO FIXADO, NA CLÁUSULA XVI, DO TERMO DE REVISÃO DOS CONTRATOS, FIRMADO DE ACORDO COM O DECRETO NÚMERO 16.259, DE 12 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "432879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-07-17342",
+      "titulo": "Decreto nº 17.342 de 07/06/1926",
+      "data": "1926-06-07",
+      "numero": "17342",
+      "urn": "urn:lex:br:federal:decreto:1926-06-07;17342",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO MUNICÍPIO DE \"BERNARDINO DE CAMPOS\", NO  ESTADO DE S.PAULO, DURANTE O DIA 20 DO CORRENTE MÊS, A FIM DE SE REALIZAREM AS ELEIÇÕES DE VEREADORES E JUÍZES DE PAZ."
+    },
+    {
+      "senadoId": "432866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17335",
+      "titulo": "Decreto nº 17.335 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17335",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17335",
+      "ementa": "APROVA A PLANTA PARA A EXECUÇÃO DAS OBRAS DE PROTEÇÃO DE UMA USINA GERADORA DE ENERGIA ELÉTRICA NO RIO FAGUNDES, DA \"COMPANHIA BRASILEIRA DE ENEGRIA ELÉTRICA\" E DESAPROPRIA OS TERRENOS E BENFEITORIAS ALI COMPREENDIDOS."
+    },
+    {
+      "senadoId": "432874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17339",
+      "titulo": "Decreto nº 17.339 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17339",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17339",
+      "ementa": "APROVA O REGULAMENTO DESTINADO A REGER A FISCALIZAÇÃO GRATUITA DA ORGANIZAÇÃO E FUNCIONAMENTO DAS CAIXAS RAIFFEISEN E BANCOS LUZZATTI."
+    },
+    {
+      "senadoId": "432860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17332",
+      "titulo": "Decreto nº 17.332 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17332",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17332",
+      "ementa": "PRORROGA POR DOIS MESES O PRAZO FIXADO PELO ARTIGO 3° DO DECRETO NÚMERO 17.100, DE 28 DE OUTUBRO DE 1925."
+    },
+    {
+      "senadoId": "432868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17336",
+      "titulo": "Decreto nº 17.336 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17336",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17336",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO DISTRITO DE COSMÓPOLIS, MUNICÍPIO DE CAMPINAS, NO ESTADO DE S.PAULO, DURANTE O DIA 6 DO CORRENTE MÊS."
+    },
+    {
+      "senadoId": "432876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17340",
+      "titulo": "Decreto nº 17.340 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17340",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17340",
+      "ementa": "CONCEDE À INDUSTRIAL ACCEPTANCE CORPORATION OF SOUTH AMÉRICA AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432862",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17333",
+      "titulo": "Decreto nº 17.333 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17333",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17333",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 27:884$908, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO SERVIDO DE POSTO TELEGRÁFICO, NO QUILÔMETRO 65,766 NORTE, DA LINHA DE ITARARÉ-URUGUAY, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17334",
+      "titulo": "Decreto nº 17.334 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17334",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17334",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 71:708$675, PARA A CONSTRUÇÃO DE UMA NOVA ESTAÇÃO EM BRASÓPOLIS, NO RAMAL DE PARAIZÓPOLIS, DA REDE DE VIAÇÃO SUL MINEIRA."
+    },
+    {
+      "senadoId": "432858",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17331",
+      "titulo": "Decreto nº 17.331 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17331",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17331",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DE OITOCENTOS E CINQUENTA CONTOS DE RÉIS (850:000$), A FIM DE ATENDER A DESPESAS EXTRAORDINÁRIAS COM A SEGURANÇA, REPARO DAS LINHAS E ESTAÇÕES E AMPARO AO PESSOAL DA REPARTIÇÃO GERAL DOS TELÉGRAFOS."
+    },
+    {
+      "senadoId": "432870",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17337",
+      "titulo": "Decreto nº 17.337 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17337",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17337",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 8:400$, DESTINADO AO PAGAMENTO NESTE ANO, DOS VENCIMENTOS QUE COMPETEM AO 2° PROCURADOR DA REPÚBLICA, NA SEÇÃO DO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-06-02-17338",
+      "titulo": "Decreto nº 17.338 de 02/06/1926",
+      "data": "1926-06-02",
+      "numero": "17338",
+      "urn": "urn:lex:br:federal:decreto:1926-06-02;17338",
+      "ementa": "CONCEDE À COMPANHIA BRASILEIRA DE ARTEFATOS DE BORRACHA O PRÊMIO DE 200:000$, A QUE SE REFERE O NÚMERO III, DO ARTIGO 1°, DO DECRETO NÚMERO 16.763, DE 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "432856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-29-17330",
+      "titulo": "Decreto nº 17.330 de 29/05/1926",
+      "data": "1926-05-29",
+      "numero": "17330",
+      "urn": "urn:lex:br:federal:decreto:1926-05-29;17330",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO O TERRITÓRIO DO ESTADO DO CEARÁ, DURANTE O DIA 6 DE JUNHO PRÓXIMO VINDOURO."
+    },
+    {
+      "senadoId": "432854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-28-17329",
+      "titulo": "Decreto nº 17.329 de 28/05/1926",
+      "data": "1926-05-28",
+      "numero": "17329",
+      "urn": "urn:lex:br:federal:decreto:1926-05-28;17329",
+      "ementa": "APROVA O REGULAMENTO PARA OS ESTABELECIMENTOS DE ENSINO TÉCNICO COMERCIAL RECONHECIDOS OFICIALMENTE PELO GOVERNO FEDERAL."
+    },
+    {
+      "senadoId": "432852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-28-17328",
+      "titulo": "Decreto nº 17.328 de 28/05/1926",
+      "data": "1926-05-28",
+      "numero": "17328",
+      "urn": "urn:lex:br:federal:decreto:1926-05-28;17328",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM REVAL (ESTÔNIA)."
+    },
+    {
+      "senadoId": "432850",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-26-17327",
+      "titulo": "Decreto nº 17.327 de 26/05/1926",
+      "data": "1926-05-26",
+      "numero": "17327",
+      "urn": "urn:lex:br:federal:decreto:1926-05-26;17327",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 1.000:000$000, PARA ATENDER ÀS DESPESAS COM A ASSISTÊNCIA ÀS POPULAÇÕES FLAGELADAS PELAS INUNDAÇÕES, EM VÁRIOS PONTOS DO TERRITÓRIO NACIONAL."
+    },
+    {
+      "senadoId": "432839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17321",
+      "titulo": "Decreto nº 17.321 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17321",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17321",
+      "ementa": "APROVA A NOVA ALTERAÇÃO FEITA NOS ESTATUTOS DA SOCIEDADE ANÔNIMA \"GRANDES MOINHOS DO BRASIL\"."
+    },
+    {
+      "senadoId": "432833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17318",
+      "titulo": "Decreto nº 17.318 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17318",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17318",
+      "ementa": "APROVA AS NOVAS ALTERAÇÕES FEITAS NO ESTATUTOS DA SOCIEDADE ANÔNIMA MOINHO FLUMINENSE."
+    },
+    {
+      "senadoId": "432835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17319",
+      "titulo": "Decreto nº 17.319 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17319",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17319",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 600$000, DESTINADO AOS CONCERTOS DE QUE CARECE O MATERIAL FLUTUANTE DA DIRETORIA DE DEFESA SANITÁRIA MARÍTIMA E FLUVIAL, A FIM DE QUE O DEPARTAMENTO NACIONAL DE SAÚDE PUBLICA FIQUE APARELHADO PARA COMBATER OS SURTOS EPIDÊMICOS DE VARÍOLA, VERIFICADOS, PRESENTEMENTE, NESTA CAPITAL, E DEFENDER O TERRITÓRIO NACIONAL CONTRA A INVASÃO DE OUTRAS EPIDEMIAS."
+    },
+    {
+      "senadoId": "432847",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17325",
+      "titulo": "Decreto nº 17.325 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17325",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17325",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO POR PARTE DO PARAGUAI, DOS ATOS ASSINADOS NA V CONFERÊNCIA PAN-AMERICANA DO SANTIAGO DO CHILE, EM 1923."
+    },
+    {
+      "senadoId": "432841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17322",
+      "titulo": "Decreto nº 17.322 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17322",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17322",
+      "ementa": "CONCEDE Á COMPANHIA COMERCIAL BRASILEIRA AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "432845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17324",
+      "titulo": "Decreto nº 17.324 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17324",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17324",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 42:000$000, OURO, PARA O RESGATE DE QUARENTA E DUAS APÓLICES, OURO, PERTENCENTES AO INTÉRDITO LUCIANO TEIXEIRA LEITE."
+    },
+    {
+      "senadoId": "432843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17323",
+      "titulo": "Decreto nº 17.323 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17323",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17323",
+      "ementa": "CRIA UM HORTO FLORESTAL NO EXTINTO CENTRO AGRÍCOLA \"CENTENÁRIO\", NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "432837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-19-17320",
+      "titulo": "Decreto nº 17.320 de 19/05/1926",
+      "data": "1926-05-19",
+      "numero": "17320",
+      "urn": "urn:lex:br:federal:decreto:1926-05-19;17320",
+      "ementa": "APROVA ALTERAÇÃO FEITA NOS ESTATUTOS DA SOCIEDADE ANÔNIMA FÁBRICA COLOMBO."
+    },
+    {
+      "senadoId": "432831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-17-17317",
+      "titulo": "Decreto nº 17.317 de 17/05/1926",
+      "data": "1926-05-17",
+      "numero": "17317",
+      "urn": "urn:lex:br:federal:decreto:1926-05-17;17317",
+      "ementa": "RESOLVE SUSPENDER O ESTADO DE SÍTIO NO TERRITÓRIO DO MUNICÍPIO DE IGUAPE, ESTADO DE S.PAULO, NO DIA 20 DE MAIO CORRENTE, MARCADO PARA ALI SE REALIZAR A ELEIÇÃO PARA O CARGO DE VEREADOR."
+    },
+    {
+      "senadoId": "432820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-12-17311",
+      "titulo": "Decreto nº 17.311 de 12/05/1926",
+      "data": "1926-05-12",
+      "numero": "17311",
+      "urn": "urn:lex:br:federal:decreto:1926-05-12;17311",
+      "ementa": "APROVA PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 19:853$075 DAS OBRAS DE ABASTECIMENTO DE ÁGUA, NO QUILÔMETRO 228,139, SUL, DA LINHA DE ITARARÉ-URUGUAY, DE CONCESSÃO DA COMPANHIA ESTRADA DE FERRO S.PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-12-17313",
+      "titulo": "Decreto nº 17.313 de 12/05/1926",
+      "data": "1926-05-12",
+      "numero": "17313",
+      "urn": "urn:lex:br:federal:decreto:1926-05-12;17313",
+      "ementa": "APROVA NOVO REGULAMENTO PARA EXECUÇÃO DA LEI 3.508, DE 10 DE JULHO DE 1918, QUE DEFINE E PUNE A FALSIFICAÇÃO DOS ADUBOS QUÍMICOS E REGULA O SEU COMÉRCIO."
+    },
+    {
+      "senadoId": "432827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-12-17315",
+      "titulo": "Decreto nº 17.315 de 12/05/1926",
+      "data": "1926-05-12",
+      "numero": "17315",
+      "urn": "urn:lex:br:federal:decreto:1926-05-12;17315",
+      "ementa": "CONCEDE A THE LEOPOLDINA RAIWAY COMPANY LIMITED AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-12-17314",
+      "titulo": "Decreto nº 17.314 de 12/05/1926",
+      "data": "1926-05-12",
+      "numero": "17314",
+      "urn": "urn:lex:br:federal:decreto:1926-05-12;17314",
+      "ementa": "CRIA UM CAMPO DE SEMENTES NO MUNICÍPIO DE MARIA DA FÉ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-12-17316",
+      "titulo": "Decreto nº 17.316 de 12/05/1926",
+      "data": "1926-05-12",
+      "numero": "17316",
+      "urn": "urn:lex:br:federal:decreto:1926-05-12;17316",
+      "ementa": "CONCEDE A FORD MOTOR COMPANY OF BRAZIL AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA, SOB A DENOMINAÇÃO DE FORD MOTOR COMPANY, EXPORT, INC."
+    },
+    {
+      "senadoId": "432818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-12-17310",
+      "titulo": "Decreto nº 17.310 de 12/05/1926",
+      "data": "1926-05-12",
+      "numero": "17310",
+      "urn": "urn:lex:br:federal:decreto:1926-05-12;17310",
+      "ementa": "APROVA O PROJETO E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 98:538$783, PARA A CONSTRUÇÃO DE UMA VARIANTE ENTRE OS QUILÔMETROS 140,965 E 142,512 SUL DAS LINHA ITARARÉ-URUGUAY, DA COMPANHIA ESTRADA DE FERRO S.PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-07-17309",
+      "titulo": "Decreto nº 17.309 de 07/05/1926",
+      "data": "1926-05-07",
+      "numero": "17309",
+      "urn": "urn:lex:br:federal:decreto:1926-05-07;17309",
+      "ementa": "CONCEDE AO BANCO FRANCÊS E ITALIANO PARA A AMÉRICA DO SUL(\"BANQUE FRANÇAISE ET ITALIENNE POUR L'AMÉRIQUE DU SUD\") AUTORIZAÇÃO PARA ABRIR UMA SUCURSAL NA CIDADE DE S.SALVADOR, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "432802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17302",
+      "titulo": "Decreto nº 17.302 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17302",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17302",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 52:211$880, PARA A INSTALAÇÃO DE UMA BALANÇA DE 100 TONELADAS E CONSTRUÇÃO DE UMA CASA PARA O PESADOR, NA ESTAÇÃO DE JOINVILLE, QUILÔMETRO 40,317 DA LINHA DE S.FRANCISCO, DA COMPANHIA ESTRADA DE FERRO S.PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17300",
+      "titulo": "Decreto nº 17.300 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17300",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17300",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA DE 215:834$557, PARA AS MODIFICAÇÕES A INTRODUZIR NAS INSTALAÇÕES DESTINADAS AOS SERVIÇOS DOS ARMAZÉNS 7 E 8 DO PORTO DE MANAUS."
+    },
+    {
+      "senadoId": "432808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17305",
+      "titulo": "Decreto nº 17.305 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17305",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17305",
+      "ementa": "CONCEDE À NAAMLOOZE VENNOOTSCHAP ALBETAM  BAGGER-EN BOUW-MAATSCHAPPIJ AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17299",
+      "titulo": "Decreto nº 17.299 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17299",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17299",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 43:098$447, PARA AUMENTO DE LINHAS NA ESTAÇÃO DE ALEGRETE, NA LINHA DE SANTA MARIA A URUGUAIANA, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17304",
+      "titulo": "Decreto nº 17.304 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17304",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17304",
+      "ementa": "CONCEDE À INTERNACIONAL HARVESTER EXPORT COMPANY AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17307",
+      "titulo": "Decreto nº 17.307 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17307",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17307",
+      "ementa": "CRIA UM HORTO FLORESTAL NO MUNICÍPIO DE REZENDE, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17301",
+      "titulo": "Decreto nº 17.301 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17301",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17301",
+      "ementa": "APROVA ORÇAMENTOS, NAS IMPORTÂNCIAS DE £ 48.874-18-0, RÉIS 10:482$728, OURO, E RÉIS 139:820$705, PAPEL, PARA A AQUISIÇÃO E IMPORTAÇÃO DO MATERIAL NECESSÁRIO PARA A SUBSTITUIÇÃO DOS TRILHOS NO TRECHO DE ALAGOINHAS A TIMBÓ, DA REDE ARRENDADA À COMPANHIA FERRO-VIÁRIA ESTE BRASILEIRO, BEM COMO O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 626:221$813, PAPEL, PARA EXECUÇÃO DESSE SERVIÇO."
+    },
+    {
+      "senadoId": "432814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17308",
+      "titulo": "Decreto nº 17.308 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17308",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17308",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 79:200$000, PARA PAGAMENTO, NESTE ANO, DE DIFERENÇA DE VENCIMENTOS DOS JUÍZES DE DIREITO DAS VARAS CIVIS CRIMINAIS, DO ALISTAMENTO ELEITORAL E DOS FEITOS DA FAZENDA MUNICIPAL DO DISTRITO FEDERAL, DE ACORDO COM O QUE DISPÕE O ARTIGO 4° DO DECRETO LEGISLATIVO  NÚMERO 4.988, DE 8 DE JANEIRO DE 1926."
+    },
+    {
+      "senadoId": "432810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17306",
+      "titulo": "Decreto nº 17.306 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17306",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17306",
+      "ementa": "TRANSFERE O CAMPO DE SEMENTES DE REZENDE, NO ESTADO DO RIO DE JANEIRO, PARA O MUNICÍPIO DE CATÚ, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "432804",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-05-17303",
+      "titulo": "Decreto nº 17.303 de 05/05/1926",
+      "data": "1926-05-05",
+      "numero": "17303",
+      "urn": "urn:lex:br:federal:decreto:1926-05-05;17303",
+      "ementa": "APROVA O ORÇAMENTO NA IMPORTÂNCIA DE 1.311:871$309 PARA A RECONSTRUÇÃO DA ESTRADA DE FERRO DO TOCANTINS, ARRENDADA AO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "432794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-01-17298",
+      "titulo": "Decreto nº 17.298 de 01/05/1926",
+      "data": "1926-05-01",
+      "numero": "17298",
+      "urn": "urn:lex:br:federal:decreto:1926-05-01;17298",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM COLÔNIA."
+    },
+    {
+      "senadoId": "432792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-05-01-17297",
+      "titulo": "Decreto nº 17.297 de 01/05/1926",
+      "data": "1926-05-01",
+      "numero": "17297",
+      "urn": "urn:lex:br:federal:decreto:1926-05-01;17297",
+      "ementa": "PUBLICA A ADESÃO DO SURINAME À CONVENÇÃO INTERNACIONAL RADIOTELEGRÁFICA DE LONDRES, DE 5 DE JULHO DE 1912."
+    },
+    {
+      "senadoId": "432790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-30-17296",
+      "titulo": "Decreto nº 17.296 de 30/04/1926",
+      "data": "1926-04-30",
+      "numero": "17296",
+      "urn": "urn:lex:br:federal:decreto:1926-04-30;17296",
+      "ementa": "DESIGNA AS SEDES DAS CIRCUNSCRIÇÕES JUDICIÁRIAS EM TEMPO DE PAZ E ESTABELECE A JURISDIÇÃO DOS RESPECTIVOS AUDITORES."
+    },
+    {
+      "senadoId": "432786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-29-17294",
+      "titulo": "Decreto nº 17.294 de 29/04/1926",
+      "data": "1926-04-29",
+      "numero": "17294",
+      "urn": "urn:lex:br:federal:decreto:1926-04-29;17294",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO TERRITÓRIO DO ESTADO DE S.PAULO NO DIA 2 DE MAIO PRÓXIMO, DATA EM QUE SE REALIZAM AS ELEIÇÕES PARA PREENCHIMENTO DE VAGAS NO CONGRESSO ESTADUAL."
+    },
+    {
+      "senadoId": "432788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-29-17295",
+      "titulo": "Decreto nº 17.295 de 29/04/1926",
+      "data": "1926-04-29",
+      "numero": "17295",
+      "urn": "urn:lex:br:federal:decreto:1926-04-29;17295",
+      "ementa": "APROVA AS PLANTAS PARA CONSTRUÇÃO DOS HOSPITAIS DE CLÍNICAS A CARGO DA FACULDADE DE MEDICINA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432784",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-28-17293",
+      "titulo": "Decreto nº 17.293 de 28/04/1926",
+      "data": "1926-04-28",
+      "numero": "17293",
+      "urn": "urn:lex:br:federal:decreto:1926-04-28;17293",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE RÉIS 76:185$791, OURO, PARA PAGAMENTO DE DIFERENÇA DE CAMBIO À AMERICAN BANK NOTE COMPANY."
+    },
+    {
+      "senadoId": "432782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-28-17292",
+      "titulo": "Decreto nº 17.292 de 28/04/1926",
+      "data": "1926-04-28",
+      "numero": "17292",
+      "urn": "urn:lex:br:federal:decreto:1926-04-28;17292",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS TERRESTRES E MARÍTIMOS \"SUL BRASIL\", PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA REALIZADA EM 30 DE NOVEMBRO DE 1925."
+    },
+    {
+      "senadoId": "432780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-23-17291",
+      "titulo": "Decreto nº 17.291 de 23/04/1926",
+      "data": "1926-04-23",
+      "numero": "17291",
+      "urn": "urn:lex:br:federal:decreto:1926-04-23;17291",
+      "ementa": "PRORROGA O ESTADO DE SÍTIO ATÉ O DIA 31 DE DEZEMBRO DO CORRENTE ANO, NO DISTRITO FEDERAL, E NOS ESTADOS DO AMAZONAS, PARÁ, SERGIPE, RIO DE JANEIRO, SÃO PAULO, RIO GRANDE DO SUL E CEARÁ."
+    },
+    {
+      "senadoId": "432776",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-22-17289",
+      "titulo": "Decreto nº 17.289 de 22/04/1926",
+      "data": "1926-04-22",
+      "numero": "17289",
+      "urn": "urn:lex:br:federal:decreto:1926-04-22;17289",
+      "ementa": "APROVA PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 5.595:652$123, PARA CONSTRUÇÃO DA PONTE DE LIGAÇÃO DO CAIS DO PORTO DE VITÓRIA COM O CONTINENTE."
+    },
+    {
+      "senadoId": "432772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-22-17287",
+      "titulo": "Decreto nº 17.287 de 22/04/1926",
+      "data": "1926-04-22",
+      "numero": "17287",
+      "urn": "urn:lex:br:federal:decreto:1926-04-22;17287",
+      "ementa": "APROVA O PROJETO E RESPECIVO ORÇAMENTO, NA IMPORTÂNCIA DE 38:749$192, PARA MODIFICAÇÃO E AUMENTO DE LINHAS NA ESTAÇÃO DE \"LIGAÇÃO\", NO TRECHO DE PORTO ALEGRE A SANTA MARIA, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-22-17290",
+      "titulo": "Decreto nº 17.290 de 22/04/1926",
+      "data": "1926-04-22",
+      "numero": "17290",
+      "urn": "urn:lex:br:federal:decreto:1926-04-22;17290",
+      "ementa": "CONCEDE À INTERNACIONAL STANDARD ELETRIC CORPORATION AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-22-17288",
+      "titulo": "Decreto nº 17.288 de 22/04/1926",
+      "data": "1926-04-22",
+      "numero": "17288",
+      "urn": "urn:lex:br:federal:decreto:1926-04-22;17288",
+      "ementa": "PRORROGA ATE 29 DE DEZEMBRO DE 1926 O PRAZO FIXADO PARA A \"COMPAGNIE DES CABLES SUD AMÉRICAINS\" LANÇAR E ATERRAR UM CABO SUBMARINO ENTRE O RIO DE JANEIRO E MONTEVIDÉO."
+    },
+    {
+      "senadoId": "432770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-18-17286",
+      "titulo": "Decreto nº 17.286 de 18/04/1926",
+      "data": "1926-04-18",
+      "numero": "17286",
+      "urn": "urn:lex:br:federal:decreto:1926-04-18;17286",
+      "ementa": "DISPÔE SOBRE AS HOMENAGENS DO GOVERNO AO ALMIRANTE ALEXANDRINO DE ALENCAR, FALECIDO NESTA DATA."
+    },
+    {
+      "senadoId": "432764",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17283",
+      "titulo": "Decreto nº 17.283 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17283",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17283",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM PALM BEACH, NA REPÚBLICA DOS ESTADOS UNIDOS DA AMÉRICA."
+    },
+    {
+      "senadoId": "432749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17276",
+      "titulo": "Decreto nº 17.276 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17276",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17276",
+      "ementa": "PRORROGA POR TRÊS MESES O PRAZO FIXADO NO ARTIGO 3° DO DECRETO NÚMERO 16.957, DE 14 DE JUNHO DE 1925, PARA A CONCLUSÃO DAS OBRAS DE ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 352,370 DA LINHA DE S. FRANCISCO, DA COMPANHIA ESTRADA DE FERRO S. PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17282",
+      "titulo": "Decreto nº 17.282 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17282",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17282",
+      "ementa": "PUBLICA A ADESÃO DA SUÍÇA À CONVENÇÃO PARA REPRESSÃO DO TRÁFICO DE BRANCAS."
+    },
+    {
+      "senadoId": "432758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17280",
+      "titulo": "Decreto nº 17.280 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17280",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17280",
+      "ementa": "PUBLICA A DENÚNCIA, PELA GRÃ BRETANHA, DE UMA DAS CONVENÇÕES ASSINADAS EM HAYA, EM 1907."
+    },
+    {
+      "senadoId": "432768",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17285",
+      "titulo": "Decreto nº 17.285 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17285",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17285",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 3:815$, PARA OCORRER ÀS DESPESAS, NO CORRENTE ANO, COM A EDUCAÇÃO E INSTRUÇÃO DA MENOR CORDÉLIA, FILHA DO EX-PRESIDENTE DA CÂMARA DOS DEPUTADOS, DR. ASTOLPHO DUTRA NICÁCIO."
+    },
+    {
+      "senadoId": "432753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17278",
+      "titulo": "Decreto nº 17.278 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17278",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17278",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 150:000$, PARA ATENDER ÀS DESPESAS DE INSTALAÇÃO E CUSTEIO, NO CORRENTE ANO, DE SERVIÇO FLORESTAL DO BRASIL."
+    },
+    {
+      "senadoId": "432766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17284",
+      "titulo": "Decreto nº 17.284 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17284",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17284",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA \"AMERICANA DE SEGUROS\", PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA REALIZADA EM 23 DE NOVEMBRO DE 1925."
+    },
+    {
+      "senadoId": "432760",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17281",
+      "titulo": "Decreto nº 17.281 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17281",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17281",
+      "ementa": "PUBLICA A ADESÃO DA CHINA ÀS CONVENÇÕES DE BRUXELAS PARA A PERMUTA DE DOCUMENTOS OFICIAIS E OUTRAS PUBLICAÇÕES."
+    },
+    {
+      "senadoId": "432756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17279",
+      "titulo": "Decreto nº 17.279 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17279",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17279",
+      "ementa": "PROMULGA O ATO DE RETIFICAÇÃO DO PROTOCOLO FINAL, ANEXO À CONVENÇÃO POSTAL UNIVERSAL, ASSINADO EM ESTOCOLMO A 28 DE OUTUBRO DE 1924."
+    },
+    {
+      "senadoId": "432751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-14-17277",
+      "titulo": "Decreto nº 17.277 de 14/04/1926",
+      "data": "1926-04-14",
+      "numero": "17277",
+      "urn": "urn:lex:br:federal:decreto:1926-04-14;17277",
+      "ementa": "CRIA UM NÚCLEO COLONIAL NO VALLE DO RIO RIBEIRA DE IGUAPE, NO ESTADO DO PARANÁ, COM A DENOMINAÇÃO DE \"MARQUEZ DE ABRANTES\"."
+    },
+    {
+      "senadoId": "432747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17275",
+      "titulo": "Decreto nº 17.275 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17275",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17275",
+      "ementa": "PUBLICA A DENÚNCIA, PELA LETÔNIA, DE DOIS ACORDOS DE MADRID DE 1891, REVISTOS EM BRUXELLAS EM 1900 E EM WASHINGTON EM 1911."
+    },
+    {
+      "senadoId": "432739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17271",
+      "titulo": "Decreto nº 17.271 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17271",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17271",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 1:963:135$255, PARA A CONSTRUÇÃO DA VARIANTE DO FUNIL, ENTRE OS QUILÔMETROS 539 E 552, DA LINHA DE VITÓRIA A ITABIRA, DA COMPANHIA ESTRADA DE FERRO DE VITÓRIA A MINAS."
+    },
+    {
+      "senadoId": "432741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17272",
+      "titulo": "Decreto nº 17.272 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17272",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17272",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE CEM CONTOS DE RÉIS, PARA A CONCLUSÃO DOS EDIFÍCIOS DESTINADOS AOS CORREIOS E TELÉGRAFOS EM PETROPÓLIS E NOS TELÉGRAFOS EM BELO HORIZONTE."
+    },
+    {
+      "senadoId": "432735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17269",
+      "titulo": "Decreto nº 17.269 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17269",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17269",
+      "ementa": "APROVA OS PROJETOS PARA CONSTRUÇÃO DE 50 CARROS ELÉTRICOS DA COMPANHIA FERRO CARRIL DO JARDIM BOTÂNICO E CONCEDE ISENÇÃO DE DIREITOS ADUANEIROS PARA O MATERIAL IMPORTADO PARA ESSE FIM."
+    },
+    {
+      "senadoId": "432743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17273",
+      "titulo": "Decreto nº 17.273 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17273",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17273",
+      "ementa": "CONCEDE Á BRAZILIAN WARRANT COMPANY, LIMITED AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA, SOB A DENOMINAÇÃO DE BRAZILIAN WARRANT AGENCY AND FIANANCE COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "432737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17270",
+      "titulo": "Decreto nº 17.270 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17270",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17270",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NAS IMPORTÂNCIAS DE 23:932$575, PARA CONSTRUÇÃO DE UMA \"PARADA\" NO KILÔMETRO 154.600, E DE 50:064$077, PARA CONSTRUÇÃO DE UMA INSTALAÇÃO HIDRÁULICA NA ESTAÇÃO \"BASÍLIO\", NA LINHA CACEQUY-RIO GRANDE, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-04-07-17274",
+      "titulo": "Decreto nº 17.274 de 07/04/1926",
+      "data": "1926-04-07",
+      "numero": "17274",
+      "urn": "urn:lex:br:federal:decreto:1926-04-07;17274",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 16:079$604 PARA INDENIZAR O CONSELHO ADMINISTRATIVO DO COLÉGIO MILITAR DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432732",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-31-17267",
+      "titulo": "Decreto nº 17.267 de 31/03/1926",
+      "data": "1926-03-31",
+      "numero": "17267",
+      "urn": "urn:lex:br:federal:decreto:1926-03-31;17267",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 800:000$, PARA OS PAGAMENTOS DO NOVO PESSOAL ADMINISTRATIVO, AUMENTO DE VENCIMENTOS E VANTAGENS DO ATUAL, CONSTRUÇÃO, ORGANIZAÇÃO, INSTALAÇÃO DOS INSTITUTOS CONSTANTES DO ARTIGO 5º DO DECRETO NÚMERO 4.983 A, DE 30 DE DEZEMBRO, DE 1925, E DEMAIS DESPESAS RESULTANTES DESSE DECRETO, INCLUSIVE AS DE MANUTENÇÃO E CUSTEIO."
+    },
+    {
+      "senadoId": "432730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-31-17266",
+      "titulo": "Decreto nº 17.266 de 31/03/1926",
+      "data": "1926-03-31",
+      "numero": "17266",
+      "urn": "urn:lex:br:federal:decreto:1926-03-31;17266",
+      "ementa": "AUTORIZA O BANCO DE CREDITO REAL DE MINAS GERAIS, COM SEDE EM JUIZ DE FORA, NO ESTADO DE MINAS GERAIS, A ABRIR AGENCIAS NAS LOCALIDADES DE MONTES CLAROS, ARAXA, MONTE SANTO, BARBACENA, RAUL SOARES, MANHUASSU E CARANGOLA, NAQUELE ESTADO."
+    },
+    {
+      "senadoId": "432728",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-31-17265",
+      "titulo": "Decreto nº 17.265 de 31/03/1926",
+      "data": "1926-03-31",
+      "numero": "17265",
+      "urn": "urn:lex:br:federal:decreto:1926-03-31;17265",
+      "ementa": "APROVA A ALTERAÇÃO DOS ESTATUTOS DA COMPANHIA \"PAULISTA DE SEGUROS\", FEITA PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA, REALIZADA, EM 20 DE JANEIRO DO ANO CORRENTE."
+    },
+    {
+      "senadoId": "432724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-29-17263",
+      "titulo": "Decreto nº 17.263 de 29/03/1926",
+      "data": "1926-03-29",
+      "numero": "17263",
+      "urn": "urn:lex:br:federal:decreto:1926-03-29;17263",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO SUPLEMENTAR DE 4.090$625, ÀS VERBAS 5ª E 7ª DO ARTIGO 2° DA LEI NÚMERO 4.911, DE 12 DE JANEIRO DE 1925."
+    },
+    {
+      "senadoId": "432722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-29-17262",
+      "titulo": "Decreto nº 17.262 de 29/03/1926",
+      "data": "1926-03-29",
+      "numero": "17262",
+      "urn": "urn:lex:br:federal:decreto:1926-03-29;17262",
+      "ementa": "ABRE, AO MINISTERIO DA JUSTIÇA E NEGOCIOS INTERIORES, O CREDITO SUPLEMENTAR DE 328:000$000, SENDO 144:000$ A SUB-CONSIGNAÇÃO 12 DA VERBA 6 DO ARTIGO 2 DA LEI ORÇAMENTARIA DE 1925, E 194:000$ A SUB-CONSIGNAÇÃO 13 DA VERBA DO REFERIDO ARTIGO 2, DA MESMA LEI."
+    },
+    {
+      "senadoId": "432726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-29-17264",
+      "titulo": "Decreto nº 17.264 de 29/03/1926",
+      "data": "1926-03-29",
+      "numero": "17264",
+      "urn": "urn:lex:br:federal:decreto:1926-03-29;17264",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE RÉIS 75.000:000$,     PARA OCORRER O PAGAMENTO DO AUMENTO PROVISÓRIO DE QUE TRATA O ARTIGO   151 DA LEI NÚMERO 4.871, DE 7 DE NOVEMBRO DE 1924, DURANTE O EXERCÍCIO DE 1925."
+    },
+    {
+      "senadoId": "432720",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-25-17261",
+      "titulo": "Decreto nº 17.261 de 25/03/1926",
+      "data": "1926-03-25",
+      "numero": "17261",
+      "urn": "urn:lex:br:federal:decreto:1926-03-25;17261",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A ESCOLA DE SUBMERSÍVEIS E ARMAS SUBMARINAS."
+    },
+    {
+      "senadoId": "432698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17250",
+      "titulo": "Decreto nº 17.250 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17250",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17250",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 16:700$, PARA CONSTRUÇÃO DA LINHA DE TRANSMISSÃO DE ENERGIA ELÉTRICA PARA A USINA ELEVATÓRIA DE ÁGUA DOCE, NA 2ª SEÇÃO DO PORTO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17249",
+      "titulo": "Decreto nº 17.249 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17249",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17249",
+      "ementa": "DESAPROPRIA O TRECHO DA RUA FIGUEIRA DE MELLO, COMPREENDIDO ENTRE O VIADUTO DA ESTRADA DE FERRO CENTRAL DO BRASIL E A RUA FRANCISCO EUGÊNIO PARA EXECUÇÃO DO DECRETO NÚMERO 16.513, DE 25 DE JUNHO DE 1924."
+    },
+    {
+      "senadoId": "432710",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17256",
+      "titulo": "Decreto nº 17.256 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17256",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17256",
+      "ementa": "ABRE O CRÉDITO ESPECIAL DE 1:752$846, PARA SALDAR CONTAS COM  3° ESCRITURÁRIO DA RECEBEDORIA DO DISTRITO FEDERAL, FRANCISCO JERÔNYMO DE ALBUQUERQUE MARANHÃO."
+    },
+    {
+      "senadoId": "432704",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17253",
+      "titulo": "Decreto nº 17.253 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17253",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17253",
+      "ementa": "MANDA ABONAR AS AJUDAS DE CUSTO DE PREPAROS DE VIAGEM E DE PRIMEIRO ESTABELECIMENTO AO CONFERENTE DA ALFÂNDEGA DO RIO DE JANEIRO, FRANCISCO CASTELLO BRANCO NUNES, NA FORMA DO ARTIGO 137, DA LEI NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "432702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17252",
+      "titulo": "Decreto nº 17.252 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17252",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17252",
+      "ementa": "CONCEDE LICENÇA SEM VENCIMENTOS, AO AGENTE FISCAL DO IMPOSTO DE CONSUMO NO INTERIOR DO MARANHÃO, MANOEL HORÁCIO CORREIA DE QUEIROZ."
+    },
+    {
+      "senadoId": "432718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17260",
+      "titulo": "Decreto nº 17.260 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17260",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17260",
+      "ementa": "CONCEDE À ST. JOHN D'EL-REY MINING COMPANY, LIMITED, AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17255",
+      "titulo": "Decreto nº 17.255 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17255",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17255",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES \"GARANTIA\" PELA ASSEMBLÉIA GERAL, ESTRAORDINÁRIA, REALIZADA EM 5 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "432700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17251",
+      "titulo": "Decreto nº 17.251 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17251",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17251",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 877:740$592, PARA CONCLUSÃO DAS OBRAS DE CONSTRUÇÃO DA VARIANTE DE CONTORNO DA ENSEADA DO CABRITO, NO QUILÔMETRO 5, DA LINHA DA BAHIA A ALAGOINHAS, DA REDE FEDERAL, ARRENDADA Á COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "432712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17257",
+      "titulo": "Decreto nº 17.257 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17257",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17257",
+      "ementa": "APROVA OS REGULAMENTOS DO SERVIÇO DE REMONTA E DAS COUDELARIAS NACIONAIS."
+    },
+    {
+      "senadoId": "432706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17254",
+      "titulo": "Decreto nº 17.254 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17254",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17254",
+      "ementa": "APROVA A ALTERAÇÃO DE ESTATUTOS DA COMPANHIA NACIONAL DE SEGUROS DE VIDA \"SUL AMÉRICA\", FEITA PELA ASSEMBLÉIA GERAL, EXTRAORDINÁRIA, REALIZADA EM 30 DE JANEIRO DO ANO CORRENTE, AUMENTANDO O SEU CAPITAL PARA 2.000:000$000."
+    },
+    {
+      "senadoId": "432714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17258",
+      "titulo": "Decreto nº 17.258 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17258",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17258",
+      "ementa": "CONCEDE À CARATINGA GOLD MIING & ESTATES COMPANY LIMITED AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-24-17259",
+      "titulo": "Decreto nº 17.259 de 24/03/1926",
+      "data": "1926-03-24",
+      "numero": "17259",
+      "urn": "urn:lex:br:federal:decreto:1926-03-24;17259",
+      "ementa": "CONCEDE À AUTO STROP SAFETY RAZOR COMPANY OF BRAZIL AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-17-17246",
+      "titulo": "Decreto nº 17.246 de 17/03/1926",
+      "data": "1926-03-17",
+      "numero": "17246",
+      "urn": "urn:lex:br:federal:decreto:1926-03-17;17246",
+      "ementa": "DECLARA A CADUCIDADE DA CONCESSÃO FEITA A ALBERTO ALVARES DE AZEVEDO DE CASTRO, PELO CONTRATO ASSINADO EM VIRTUDE DO DECRETO NÚMERO 12.185, DE 30 DE AGOSTO DE 1916, PARA A CONSTRUÇÃO, SEM ÔNUS PARA O TESOURO NACIONAL, DE UMA ESTRADA DE FERRO QUE, PARTINDO DE CUIABÁ, ENTRONCASSE COM A ESTRADA DE FERRO ARARAQUARA, NO LUGAR DENOMINADO JANGADA OU EM SÃO JOSÉ DO RIO PRETO."
+    },
+    {
+      "senadoId": "432685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-17-17243",
+      "titulo": "Decreto nº 17.243 de 17/03/1926",
+      "data": "1926-03-17",
+      "numero": "17243",
+      "urn": "urn:lex:br:federal:decreto:1926-03-17;17243",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE RÉIS 21.484$975, PARA PAGAR  14:809$676 A SILVINO CAVALCANTI PAES BARRETO E 6:675$299 A CARLOS SEVERINO DA FONSECA, COMO COLETORES, RESPECTIVAMENTE, DE LIMOEIRO E PALMARES, EM PERNAMBUCO."
+    },
+    {
+      "senadoId": "432689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-17-17245",
+      "titulo": "Decreto nº 17.245 de 17/03/1926",
+      "data": "1926-03-17",
+      "numero": "17245",
+      "urn": "urn:lex:br:federal:decreto:1926-03-17;17245",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NAS IMPORTÂNCIAS DE 52:929$676, E 6:385$534, RELATIVOS À CONSTRUÇÃO DE UM EDIFÍCIO PARA A ESTAÇÃO DE ANGAHY, ENTRE AS ESTAÇÕES DE BUENO BRANDÃO E FAZENDINHA, DA REDE DE VIAÇÃO FÉRREA SUL-MINEIRA, E ÀS INSTALAÇÕES SANITÁRIAS DO MESMO EDIFÍCIO."
+    },
+    {
+      "senadoId": "432693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-17-17247",
+      "titulo": "Decreto nº 17.247 de 17/03/1926",
+      "data": "1926-03-17",
+      "numero": "17247",
+      "urn": "urn:lex:br:federal:decreto:1926-03-17;17247",
+      "ementa": "APROVA O REGULAMENTO PARA EXECUÇÃO DO DISPOSTO NO ARTIGO 48 DA LEI 4.984, DE 31 DE DEZEMBRO DE 1925."
+    },
+    {
+      "senadoId": "432695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-17-17248",
+      "titulo": "Decreto nº 17.248 de 17/03/1926",
+      "data": "1926-03-17",
+      "numero": "17248",
+      "urn": "urn:lex:br:federal:decreto:1926-03-17;17248",
+      "ementa": "CONCEDE A TIDE WATER OIL EXPORT CORPORATION AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-17-17244",
+      "titulo": "Decreto nº 17.244 de 17/03/1926",
+      "data": "1926-03-17",
+      "numero": "17244",
+      "urn": "urn:lex:br:federal:decreto:1926-03-17;17244",
+      "ementa": "APROVA OS ESTUDOS E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 768:421$423, DE UMA VARIANTE CORRIDA ENTRE OS QUILÔMETROS 184,080, E 187,080 DA LINHA DE MACHADO PORTELLA A CARINHANHA, PROLONGAMENTO DA ESTRADA DE FERRO CENTRAL DA BAHIA."
+    },
+    {
+      "senadoId": "432677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-10-17239",
+      "titulo": "Decreto nº 17.239 de 10/03/1926",
+      "data": "1926-03-10",
+      "numero": "17239",
+      "urn": "urn:lex:br:federal:decreto:1926-03-10;17239",
+      "ementa": "APROVA A PLANTA DOS TERRENOS NECESSÁRIOS PARA O PROLONGAMENTO DA ESTRADA DE FERRO TERESÓPOLIS ATÉ A NOVA ESTAÇÃO DA VÁRZEA E DECLARA A URGÊNCIA DA DESAPROPRIAÇÃO, POR UTILIDADE PÚBLICA, DOS TERRENOS E DAS BEFEITORIAS COMPREENDIDOS NESSA PLANTA."
+    },
+    {
+      "senadoId": "432683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-10-17242",
+      "titulo": "Decreto nº 17.242 de 10/03/1926",
+      "data": "1926-03-10",
+      "numero": "17242",
+      "urn": "urn:lex:br:federal:decreto:1926-03-10;17242",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NO ARTIGO 26 DOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES 'CONFIANÇA\", COM SEDE NESTA CAPITAL, PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA REALIZADA EM 19 DE OUTUBRO DE 1925."
+    },
+    {
+      "senadoId": "432679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-10-17240",
+      "titulo": "Decreto nº 17.240 de 10/03/1926",
+      "data": "1926-03-10",
+      "numero": "17240",
+      "urn": "urn:lex:br:federal:decreto:1926-03-10;17240",
+      "ementa": "CONCEDE PERMISSÃO À COMPANHIA TELEFÔNICA RIO GRANDENSE PARA LIGAR AS SUAS LINHAS TELEFÔNICAS E TELEGRÁFICAS COM AS ESTRANGEIRAS, NAS FRONTEIRAS COM A REPÚBLICA ARGENTINA E COM A REPÚBLICA ORIENTAL DO URUGUAI."
+    },
+    {
+      "senadoId": "432681",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-10-17241",
+      "titulo": "Decreto nº 17.241 de 10/03/1926",
+      "data": "1926-03-10",
+      "numero": "17241",
+      "urn": "urn:lex:br:federal:decreto:1926-03-10;17241",
+      "ementa": "APROVA O AUMENTO DO CAPITAL DESTINADO POR THE MOTOR UNION INSURANCE COMPANY, LIMITED, COM SEDE EM LONDRES, INGLATERRA, PARA OPERAÇÕES NO BRASIL."
+    },
+    {
+      "senadoId": "432675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-07-17238",
+      "titulo": "Decreto nº 17.238 de 07/03/1926",
+      "data": "1926-03-07",
+      "numero": "17238",
+      "urn": "urn:lex:br:federal:decreto:1926-03-07;17238",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "432673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-05-17237",
+      "titulo": "Decreto nº 17.237 de 05/03/1926",
+      "data": "1926-03-05",
+      "numero": "17237",
+      "urn": "urn:lex:br:federal:decreto:1926-03-05;17237",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO ESTADO DO RIO DE JANEIRO NO DIA 7 DE MARÇO."
+    },
+    {
+      "senadoId": "432669",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-03-17235",
+      "titulo": "Decreto nº 17.235 de 03/03/1926",
+      "data": "1926-03-03",
+      "numero": "17235",
+      "urn": "urn:lex:br:federal:decreto:1926-03-03;17235",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DE CONTRATO COM A \"METROPOLITAN VICKERS ELECTRICAL EXPORT CO., LTD\". PARA A ELETRIFICAÇÃO DE UM TRECHO DA ESTRADA DE FERRO OESTE DE MINAS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-03-17234",
+      "titulo": "Decreto nº 17.234 de 03/03/1926",
+      "data": "1926-03-03",
+      "numero": "17234",
+      "urn": "urn:lex:br:federal:decreto:1926-03-03;17234",
+      "ementa": "APROVA NOVO PROJETO PARA A CONSTRUÇÃO DA NOVA ESTAÇÃO DO NORTE, DA ESTRADA DE FERRO CENTRAL DO BRASIL, NA CIDADE DE S. PAULO, E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 2.813:558$669."
+    },
+    {
+      "senadoId": "432671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-03-03-17236",
+      "titulo": "Decreto nº 17.236 de 03/03/1926",
+      "data": "1926-03-03",
+      "numero": "17236",
+      "urn": "urn:lex:br:federal:decreto:1926-03-03;17236",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 296:065$ PARA PAGAMENTO DE ETAPAS DOS INFERIORES, PRAÇAS, MULHERES E MENORES DO ASILO DE INVÁLIDOS DA PÁTRIA."
+    },
+    {
+      "senadoId": "432663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-27-17232",
+      "titulo": "Decreto nº 17.232 de 27/02/1926",
+      "data": "1926-02-27",
+      "numero": "17232",
+      "urn": "urn:lex:br:federal:decreto:1926-02-27;17232",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO O TERRITÓRIO NACIONAL DURANTE O DIA 1 DE MARÇO PRÓXIMO VINDOURO, PARA O FIM DE SE REALIZAREM AS ELEIÇÕES PARA PRESIDENTE E VICE-PRESIDENTE DA REPÚBLICA."
+    },
+    {
+      "senadoId": "432665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-27-17233",
+      "titulo": "Decreto nº 17.233 de 27/02/1926",
+      "data": "1926-02-27",
+      "numero": "17233",
+      "urn": "urn:lex:br:federal:decreto:1926-02-27;17233",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO DO ESTADO DO PARÁ, NO DIA 2 DO PRÓXIMO MÊS DE MARÇO,  PARA O FIM DE SE REALIZAREM AS ELEIÇÕES DE DEPUTADOS ESTADUAIS."
+    },
+    {
+      "senadoId": "432662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-26-17231-a",
+      "titulo": "Decreto nº 17.231-A de 26/02/1926",
+      "data": "1926-02-26",
+      "numero": "17231-a",
+      "urn": "urn:lex:br:federal:decreto:1926-02-26;17231-a",
+      "ementa": "MANDA OBSERVAR O CÓDIGO DA JUSTIÇA MILITAR."
+    },
+    {
+      "senadoId": "432660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-25-17231",
+      "titulo": "Decreto nº 17.231 de 25/02/1926",
+      "data": "1926-02-25",
+      "numero": "17231",
+      "urn": "urn:lex:br:federal:decreto:1926-02-25;17231",
+      "ementa": "APROVA AS ALTERAÇÕES INTRODUZIDAS NOS ESTATUTOS DO BANCO DE CRÉDITO REAL DE MINAS GERAIS, NA ASSEMBLÉIA GERAL EXTRAORDINÁRIA REALIZADA A 4 DE DEZEMBRO DE 1925."
+    },
+    {
+      "senadoId": "432656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-25-17229",
+      "titulo": "Decreto nº 17.229 de 25/02/1926",
+      "data": "1926-02-25",
+      "numero": "17229",
+      "urn": "urn:lex:br:federal:decreto:1926-02-25;17229",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO, EM TODO O TERRITÓRIO DO ESTADO DE SÃO PAULO, NO DIA 28 DO CORRENTE, DATA EM QUE ALI SE REALIZAM AS ELEIÇÕES PARA SENADORES E DEPUTADOS ESTADUAIS."
+    },
+    {
+      "senadoId": "432658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-25-17230",
+      "titulo": "Decreto nº 17.230 de 25/02/1926",
+      "data": "1926-02-25",
+      "numero": "17230",
+      "urn": "urn:lex:br:federal:decreto:1926-02-25;17230",
+      "ementa": "APROVA O ORÇAMENTO PARA AQUISIÇÃO E IMPORTAÇÃO DE 496 TONELADAS DE TRILHOS E ACESSÓRIOS DESTINADOS AO RAMAL DE PARANAPANEMA, DA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE, NA IMPORTÂNCIA DE 144:184$984, Á QUAL SERÃO ACRESCIDAS AS DESPESAS COMPLEMENTARES DE IMPORTAÇÃO, TRANSPORTE E ASSENTAMENTO, AVALIADAS EM 173$022, OURO, E RÉIS 52:720$580, PAPEL."
+    },
+    {
+      "senadoId": "432648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-18-17225",
+      "titulo": "Decreto nº 17.225 de 18/02/1926",
+      "data": "1926-02-18",
+      "numero": "17225",
+      "urn": "urn:lex:br:federal:decreto:1926-02-18;17225",
+      "ementa": "ABRE AO MINSITÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 16:968$680, DESTINADO AO PAGAMENTO DE DIFERENÇA DE PENSÕES A DD. ERNESTINA DA ROCHA DIAS E ISABEL MARIA DA ROCHA DIAS, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "432650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-18-17226",
+      "titulo": "Decreto nº 17.226 de 18/02/1926",
+      "data": "1926-02-18",
+      "numero": "17226",
+      "urn": "urn:lex:br:federal:decreto:1926-02-18;17226",
+      "ementa": "CONCEDE À INTERNATIONAL MACHINERY COMPANY AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-18-17227",
+      "titulo": "Decreto nº 17.227 de 18/02/1926",
+      "data": "1926-02-18",
+      "numero": "17227",
+      "urn": "urn:lex:br:federal:decreto:1926-02-18;17227",
+      "ementa": "CONCEDE A \"BUXTON, GUILAYN COMPANHIA LIMITADA, SOCIEDADE ANÔNIMA COMERCIAL IMPORTADORA\" AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-18-17228",
+      "titulo": "Decreto nº 17.228 de 18/02/1926",
+      "data": "1926-02-18",
+      "numero": "17228",
+      "urn": "urn:lex:br:federal:decreto:1926-02-18;17228",
+      "ementa": "PRORROGA ATÉ 30 DE JUNHO DE 1926 O PRAZO FIXADO NO ARTIGO 3° DO DECRETO NÚMERO 16.604, DE 17 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "432646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-18-17224",
+      "titulo": "Decreto nº 17.224 de 18/02/1926",
+      "data": "1926-02-18",
+      "numero": "17224",
+      "urn": "urn:lex:br:federal:decreto:1926-02-18;17224",
+      "ementa": "ABRE AO MINSITÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE MIL CONTOS DE RÉIS(1.000:000$),PARA AS DESPESAS COM A ORGANIZAÇÃO DO SERVIÇO DO IMPOSTO SOBRE A RENDA."
+    },
+    {
+      "senadoId": "432628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17214",
+      "titulo": "Decreto nº 17.214 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17214",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17214",
+      "ementa": "APROVA NOVAS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA ANTÁRTICA PAULISTA."
+    },
+    {
+      "senadoId": "432636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17218",
+      "titulo": "Decreto nº 17.218 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17218",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17218",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM SANTARÉM, REPÚBLICA PORTUGUESA."
+    },
+    {
+      "senadoId": "432630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17215",
+      "titulo": "Decreto nº 17.215 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17215",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17215",
+      "ementa": "PUBLICA A ADESÃO DO JAPÃO À CONVENÇÃO INTERNACIONAL PARA A REPRESÃO DO TRÁFICO DE BRANCAS."
+    },
+    {
+      "senadoId": "432638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17219",
+      "titulo": "Decreto nº 17.219 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17219",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17219",
+      "ementa": "PROMULGA OS ATOS FIRMADOS NO VIII CONGRESSO DA UNIÃO POSTAL UNIVERSAL, EM ESTOCOLMO, EM 1924."
+    },
+    {
+      "senadoId": "432644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17223",
+      "titulo": "Decreto nº 17.223 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17223",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17223",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM HULL, NA GRÃ-BRETANHA."
+    },
+    {
+      "senadoId": "432634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17217",
+      "titulo": "Decreto nº 17.217 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17217",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17217",
+      "ementa": "PUBLICA A ADESÃO DA IRLANDA À CONVENÇÃO INTERNACIONAL PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "432641",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17221",
+      "titulo": "Decreto nº 17.221 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17221",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17221",
+      "ementa": "PUBLICA AS ADESÕES DE SOMÁLIA E DE HONDURAS À CONVENÇÃO INTERNACIONAL DE RADIOTELEGRAFIA, ASSINADA EM LONDRES."
+    },
+    {
+      "senadoId": "432624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17212",
+      "titulo": "Decreto nº 17.212 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17212",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17212",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO RIO GRANDE DO SUL NO DIA 15 DE FEVEREIRO."
+    },
+    {
+      "senadoId": "432632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17216",
+      "titulo": "Decreto nº 17.216 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17216",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17216",
+      "ementa": "PUBLICA A ADESÃO DA CHINA À CONVENÇÃO INTERNACIONAL PARA A REPRESÃO DO TRÁFICO DE BRANCAS."
+    },
+    {
+      "senadoId": "432622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17211",
+      "titulo": "Decreto nº 17.211 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17211",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17211",
+      "ementa": "DESAPROPRIA POR UTILIDADE PÚBLICA OS IMÓVEIS COMPREENDIDOS ENTRE A RUA OITO DE DEZEMBRO, LEITO DA ESTRADA DE FERRO CENTRAL DO BRASIL, AVENIDA DO RIO JOANA, RUA TURF-CLUB, FUNDOS DOS TERRENOS DA RUA SÃO FRANCISCO XAVIER E ESSA RUA."
+    },
+    {
+      "senadoId": "432626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-10-17213",
+      "titulo": "Decreto nº 17.213 de 10/02/1926",
+      "data": "1926-02-10",
+      "numero": "17213",
+      "urn": "urn:lex:br:federal:decreto:1926-02-10;17213",
+      "ementa": "CONCEDE À COMPANHIA LATICÍNIOS VASSOURENSE AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "432617",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-03-17208",
+      "titulo": "Decreto nº 17.208 de 03/02/1926",
+      "data": "1926-02-03",
+      "numero": "17208",
+      "urn": "urn:lex:br:federal:decreto:1926-02-03;17208",
+      "ementa": "APROVA A PLANTA RELATIVA AO PLANO DE APROVEITAMENTO DA FORÇA HIDRÁULICA DOS RIO SÃO LOURENÇO, PEDRAS, LARANJEIRAS, RIBEIRÃO GRANDE E PEREQUÊ."
+    },
+    {
+      "senadoId": "432619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-02-03-17209",
+      "titulo": "Decreto nº 17.209 de 03/02/1926",
+      "data": "1926-02-03",
+      "numero": "17209",
+      "urn": "urn:lex:br:federal:decreto:1926-02-03;17209",
+      "ementa": "SUBSTITUE OS ARTIGOS. 10,11 E 59 DO REGULAMENTO DA BIBLIOTECA NACIONAL, APROVADO PELO DECRETO NÚMERO 15.670, DE 6 SETEMBRO DE 1922."
+    },
+    {
+      "senadoId": "432615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-29-17207",
+      "titulo": "Decreto nº 17.207 de 29/01/1926",
+      "data": "1926-01-29",
+      "numero": "17207",
+      "urn": "urn:lex:br:federal:decreto:1926-01-29;17207",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDUSTRIA E COMERCIO, A CONCEDER A J.G. ARAUJO, FIRMA ESTABELECIDA EM MANAUS, ESTADO DO AMAZONAS, OS FAVORES CONSTANTES DAS LETRAS A E B DO ARTIGO 47 DA LEI 4.242, DE 5 JANEIRO DE 1921, REVIGORADO PELO ARTIGO 478 DA LEI 4.793, DE 7 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "432613",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-29-17206",
+      "titulo": "Decreto nº 17.206 de 29/01/1926",
+      "data": "1926-01-29",
+      "numero": "17206",
+      "urn": "urn:lex:br:federal:decreto:1926-01-29;17206",
+      "ementa": "CONCEDE À SÃO PAULO ELETRIC COMPANY LIMITED AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17198",
+      "titulo": "Decreto nº 17.198 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17198",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17198",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A EMITIR APÓLICES DA DIVÍDA PÚBLICA DA UNIÃO, NA IMPORTÂNCIA DE 334:305$000, PARA PAGAMENTO DE FORNECIMENTOS FEITOS PELA AMERICAN LOCOMOTIVE SALES CORPORATION, EM 1922."
+    },
+    {
+      "senadoId": "432586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17190",
+      "titulo": "Decreto nº 17.190 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17190",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17190",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A EMITIR APÓLICES DA DÍVIDA PÚBLICA DA UNIÃO, NA IMPORTÂNCIA DE 334:305$000, PARA PAGAMENTO DE FORNECIMENTOS FEITOS PELA \"AMERICAN LOCOMOTIVE SALES CORPORATION', EM 1922."
+    },
+    {
+      "senadoId": "432607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17203",
+      "titulo": "Decreto nº 17.203 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17203",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17203",
+      "ementa": "APROVA O PROJETO DAS LINHAS DE TRANSMISSÃO DE ENERGIA ELÉTRICA DA NOVA USINA GERADORA QUE ESTÁ SENDO CONSTRUÍDA PELA THE SÃO PAULO TRAMWAY LIGHT AND POWER COMPANY, LIMITED, NO SOPÉ DA SERRA DO CUBATÃO."
+    },
+    {
+      "senadoId": "432609",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17204",
+      "titulo": "Decreto nº 17.204 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17204",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17204",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 26:801$573, RELATIVOS AO AUMENTO DE DESVIOS NA ESTAÇÃO DE \"LAGOA\", DA LINHA DE SÃO FRANCISCO, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17200",
+      "titulo": "Decreto nº 17.200 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17200",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17200",
+      "ementa": "MANDA PAGAR PELO REGIME DA CONSTRUÇÃO DO PROLONGAMENTO DA ESTRADA DE FERRO BAHIA E MINAS AS DESPESAS RELATIVAS ÀS OBRAS COMPLEMENTARES DAS NOVAS OFICINAS DE LADAINHA, NO MENCIONADO PROLONGAMENTO, AS REFERENTES À AQUISIÇÃO DAS MÁQUINAS MOTRIZES E OPERATRIZES NECESSÁRIAS Á INSTALAÇÃO DESSAS OFICINAS, E AS DESPESAS COMPLEMENTARES DE AQUISIÇÃO E MONTAGEM DOS MAQUINISMOS."
+    },
+    {
+      "senadoId": "432600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17199",
+      "titulo": "Decreto nº 17.199 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17199",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17199",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA HANDA ALLGEMEINE VERSICHERIMGS-AKTIEN-GESELLSCHAFT, COM SEDE EM HAMBURGO, ALEMANHA, PELAS ASSEMBLÉIAS EXTRAORDINÁRIAS REALIZADAS EM 12 DE MAIO DE 1917 E 16 DE MARÇO DE 1921."
+    },
+    {
+      "senadoId": "432604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17201",
+      "titulo": "Decreto nº 17.201 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17201",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17201",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 479:475$966, PARA A CONCLUSÃO DAS OBRAS DO EDIFÍCIO DESTINADO ÀS REPARTIÇÕES DE CORREIOS E TELÉGRAFOS DA CAPITAL DO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "432611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17205",
+      "titulo": "Decreto nº 17.205 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17205",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17205",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 4:200$, OURO, PARA PAGAMENTO DE PRÊMIO DE VIAGEM AO BACHAREL HENRIQUE DE SIQUEIRA FIGUEIREDO."
+    },
+    {
+      "senadoId": "432572",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-27-17183",
+      "titulo": "Decreto nº 17.183 de 27/01/1926",
+      "data": "1926-01-27",
+      "numero": "17183",
+      "urn": "urn:lex:br:federal:decreto:1926-01-27;17183",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 479:475$966, PARA CONCLUSÃO DAS OBRAS DO EDIFÍCIO DESTINADO ÀS REPARTIÇÕES DE CORREIOS E TELÉGRAFOS DA CAPITAL DO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "432591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-15-17192",
+      "titulo": "Decreto nº 17.192 de 15/01/1926",
+      "data": "1926-01-15",
+      "numero": "17192",
+      "urn": "urn:lex:br:federal:decreto:1926-01-15;17192",
+      "ementa": "DÁ INSTRUÇÕES PARA A ELEIÇÃO DE INTENDENTES MUNICIPAIS NO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "432590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17191-a",
+      "titulo": "Decreto nº 17.191-A de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17191-a",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17191-a",
+      "ementa": "APROVA OS PLANOS E PROJETOS PARA ELETRIFICAÇÃO DAS LINHAS FÉRREAS DA \"COMPANHIA PAULISTA DE ESTRADAS DE FERRO\", ENTRE AS ESTAÇÕES DE TATU E RIO CLARO, E CONCEDE ISENÇÃO DE DIREITOS ADUANEIROS PARA O MATERIAL IMPORTADO PARA ESSE FIM."
+    },
+    {
+      "senadoId": "432582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17188",
+      "titulo": "Decreto nº 17.188 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17188",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17188",
+      "ementa": "APROVA O PROJETO E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 33:171$592, PARA CONSTRUÇÃO DE UM TRIÂNGULO DE REVERSÃO E PROLONGAMENTO DE UM DESVIO NA PARADA EXISTENTE NO QUILÔMETRO 41 DO RAMAL DE CRUZ ALTA A SANTO ANGELO, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17187",
+      "titulo": "Decreto nº 17.187 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17187",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17187",
+      "ementa": "APROVA O PROJETO E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 28;013$602, DE UM EDIFÍCIO PARA A OFICINA DE FUNDIÇÃO NA ESTAÇÃO DE CURITIBA, DA ESTRADA DE FERRO DO PARANÁ, ARRENDADA À COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17189",
+      "titulo": "Decreto nº 17.189 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17189",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17189",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NAS IMPORTÂNCIAS DE 24:787$168 E 11:981$203, PARA A CONSTRUÇÃO, RESPECTIVAMENTE, DE UM DESVIO DE CRUZAMENTO E DE UMA CASA PARA O EMPREGADO, NO QUILÔMETRO 213,962 DA LINHA SANTA MARIA-PORTO ALEGRE, DA REDE DE VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17185",
+      "titulo": "Decreto nº 17.185 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17185",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17185",
+      "ementa": "APROVA ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA PROGRESSO NACIONAL."
+    },
+    {
+      "senadoId": "432588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17191",
+      "titulo": "Decreto nº 17.191 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17191",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17191",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 38:540$000, RELATIVO À AQUISIÇÃO E MONTAGEM, NAS OFICINAS DA ESTAÇÃO DE PONTA GROSSA, DA LINHA ITARARÉ-URUGUAI, DE DOIS TORNOS MECÂNICOS PARALELOS."
+    },
+    {
+      "senadoId": "432578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17186",
+      "titulo": "Decreto nº 17.186 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17186",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17186",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 24:964$027, DE ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 447,692, DA LINHA DE RIO GRANDE, DE CONCESSÃO DA COMPANHIA MOGYANA DE ESTRADAS DE FERRO, E DESAPROPRIA, POR UTILIDADE PÚBLICA, UMA NASCENTE COM A ÁREA DE 100 METROS QUADRADOS, NECESSÁRIA Á REALIZAÇÃO DAS OBRAS."
+    },
+    {
+      "senadoId": "432574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-13-17184",
+      "titulo": "Decreto nº 17.184 de 13/01/1926",
+      "data": "1926-01-13",
+      "numero": "17184",
+      "urn": "urn:lex:br:federal:decreto:1926-01-13;17184",
+      "ementa": "CONCEDE À COMPANHIA DE PESCA DE SÃO SEBASTIÃO AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "432570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-09-17182",
+      "titulo": "Decreto nº 17.182 de 09/01/1926",
+      "data": "1926-01-09",
+      "numero": "17182",
+      "urn": "urn:lex:br:federal:decreto:1926-01-09;17182",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO ESPECIAL DE 107:060$055, PARA PAGAMENTO DE DIFERENÇA DE VENCIMENTOS E OFICIAIS E SUB-OFICIAIS REFORMADOS."
+    },
+    {
+      "senadoId": "432568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-08-17181",
+      "titulo": "Decreto nº 17.181 de 08/01/1926",
+      "data": "1926-01-08",
+      "numero": "17181",
+      "urn": "urn:lex:br:federal:decreto:1926-01-08;17181",
+      "ementa": "RESOLVE DAR À CASA DE PREVENÇÃO E REFORMA, A DENOMINAÇÃO DE ESCOLA ALFREDO PINTO."
+    },
+    {
+      "senadoId": "432566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1926-01-02-17180",
+      "titulo": "Decreto nº 17.180 de 02/01/1926",
+      "data": "1926-01-02",
+      "numero": "17180",
+      "urn": "urn:lex:br:federal:decreto:1926-01-02;17180",
+      "ementa": "DECLARA EM VIGOR, NOS TERMOS DA RESOLUÇÃO LEGISLATIVA NÚMERO 4.974, DE 1 DE DEZEMBRO FINDO, A LEI 4.911, DE 12 DE JANEIRO DO ANO PASSADO, QUE FIXOU A DESPESA GERAL DA REPÚBLICA PARA O EXERCÍCIO DE 1925 - REPRODUZ-SE ESTE DECRETO DE 1926, POR TER SAÍDO COM O NÚMERO TROCADO."
+    }
+  ],
+  "pendencias": []
+}

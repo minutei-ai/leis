@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-05-26-13127",
+  "titulo": "Lei nº 13.127 de 26/05/2015",
+  "data": "2015-05-26",
+  "fonte": "https://normas.leg.br/api/public/binario/3b66a983-a27b-410c-ae74-f24e0e52bc6a/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-05-26;13127",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-05-26%3B13127&tipo_documento=maior-detalhe",
+  "sha256_dados": "4438e4745c0497b6d60b9c232c34174a4862dcadb3b14d4a6593e874756f4131",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:25.203Z",
+  "sha256_fonte": "2f9d7ab1dfd97b247cef54847a1700bdf4a89255ad92a976b3efa27d05243cd3",
+  "sha256_markdown": "c0c51029f1377906dfdc8da92609a39c5c61a55d0dd93fd1437a805b82bd3805"
+}

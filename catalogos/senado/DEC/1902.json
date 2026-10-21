@@ -1,0 +1,4289 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1902",
+  "tipo": "DEC",
+  "ano": 1902,
+  "coletado_em": "2026-10-21T08:51:29.739Z",
+  "normas": [
+    {
+      "senadoId": "405941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-31-4726",
+      "titulo": "Decreto nº 4.726 de 31/12/1902",
+      "data": "1902-12-31",
+      "numero": "4726",
+      "urn": "urn:lex:br:federal:decreto:1902-12-31;4726",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 128:868$000, SUPLEMENTAR À VERBA 16 DO ARTIGO 23 DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "405945",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-31-4727",
+      "titulo": "Decreto nº 4.727 de 31/12/1902",
+      "data": "1902-12-31",
+      "numero": "4727",
+      "urn": "urn:lex:br:federal:decreto:1902-12-31;4727",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO EXTRAORDINÁRIO DE 40$538, OURO, E 2.225:694$241, PAPEL, PARA PAGAMENTO DE DÍVIDAS DE EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "405937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-31-4725",
+      "titulo": "Decreto nº 4.725 de 31/12/1902",
+      "data": "1902-12-31",
+      "numero": "4725",
+      "urn": "urn:lex:br:federal:decreto:1902-12-31;4725",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 27:963$133, PARA OCORRER AO PAGAMENTO A \"SOCIÉTÉ ANONYME DES ANCIENS E'TABLISSEMENTS CAIL\", DE PARIS, PELO FORNECIMENTO DE MUNIÇÕES PARA UM CANHÃO KRUPP E DAS DESPESAS FEITAS COM A REMESSA DE UM CANHÃO PARA O CONCURSO EFETUADO EM 1893."
+    },
+    {
+      "senadoId": "405933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-31-4724",
+      "titulo": "Decreto nº 4.724 de 31/12/1902",
+      "data": "1902-12-31",
+      "numero": "4724",
+      "urn": "urn:lex:br:federal:decreto:1902-12-31;4724",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 8:098$921 PARA OCORRER AO PAGAMENTO AO PROFESSOR DO COLÉGIO MILITAR HEMETERIO JOSÉ DOS SANTOS DOS ORDENADOS QUE DEIXOU DE RECEBER."
+    },
+    {
+      "senadoId": "405929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-30-4723",
+      "titulo": "Decreto nº 4.723 de 30/12/1902",
+      "data": "1902-12-30",
+      "numero": "4723",
+      "urn": "urn:lex:br:federal:decreto:1902-12-30;4723",
+      "ementa": "CONCEDE AUTORIZAÇÃO A EDUARDO AUGUSTO PEREIRA NUNES PARA ORGANIZAR UMA SOCIEDADE ANÔNIMA SOB A DENOMINAÇÃO DE CAIXA COOPERATIVA DAS CLASSES LABORIOSAS."
+    },
+    {
+      "senadoId": "405917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4720",
+      "titulo": "Decreto nº 4.720 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4720",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4720",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO DE 7:500$000, PARA PAGAR AO CIDADÃO ANTONIO DE CASTRO GANDRA A FEITURA DO TRAPICHE DA CAPITANIA DO PORTO DE SANTA CATARINA, DE ACORDO COM O CONTRATO LAVRADO COM A MESMA REPARTIÇÃO, EM 24 DE NOVEMBRO DE 1892."
+    },
+    {
+      "senadoId": "405921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4721",
+      "titulo": "Decreto nº 4.721 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4721",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4721",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 120:939$207, SUPLEMENTAR À VERBA 32ª DO ARTIGO 23 DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "405885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4712",
+      "titulo": "Decreto nº 4.712 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4712",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4712",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CAÇAPAVA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4711",
+      "titulo": "Decreto nº 4.711 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4711",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4711",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 990:000$000 PARA DESPESAS COM O SERVIÇO DE HIGIENE DE DEFESA NA CAPITAL DA REPÚBLICA, AVOCADO PARA A ADMINISTRAÇÃO FEDERAL."
+    },
+    {
+      "senadoId": "405909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4718",
+      "titulo": "Decreto nº 4.718 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4718",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4718",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 130:000$000 PARA REALIZAR MELHORAMENTOS NA ESCOLA NAVAL."
+    },
+    {
+      "senadoId": "405905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4717",
+      "titulo": "Decreto nº 4.717 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4717",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4717",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO DE CENTO E CINQUENTA E DOIS CONTOS QUINHENTOS TRINTA E SEIS MIL QUATROCENTOS OITENTA E DOIS RÉIS (152:536$482), SUPLEMENTAR ÀS VERBAS NÚMERO 8 - CORPO DA ARMADA, -  NÚMERO 9 - CORPO DE MARINHEIROS NACIONAIS, - NÚMERO 14 - FORÇA NAVAL, - NÚMERO 18 - REFORMADOS, - NÚMERO 19 - COMPANHIAS DE INVÁLIDOS - DO ORÇAMENTO EM  VIGOR."
+    },
+    {
+      "senadoId": "405876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4710",
+      "titulo": "Decreto nº 4.710 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4710",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4710",
+      "ementa": "ALTERA, NA PARTE RELATIVA AO DISTRITO FEDERAL, AS INSTRUÇÕES ANEXAS AO DECRETO NÚMERO 4.695, DE 11 DE DEZEMBRO DE 1902, PARA A ELEIÇÃO DO VICE-PRESIDENTE DA REPÚBLICA NO PERÍODO PRESIDENCIAL DE 1902 A 1906 E PARA AS ELEIÇÕES FEDERAIS QUE SE REALIZARÃO NO DIA 18 DE FEVEREIRO PRÓXIMO VINDOURO."
+    },
+    {
+      "senadoId": "405925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4722",
+      "titulo": "Decreto nº 4.722 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4722",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4722",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 426:618$352, SUPLEMENTAR À VERBA 11ª DO ARTIGO 23 DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "405897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4715",
+      "titulo": "Decreto nº 4.715 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4715",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4715",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 3:992$603, PARA PAGAMENTO DE VENCIMENTOS E CUSTAS DE PROCESSO DEVIDOS AO LENTE SUBSTITUTO DA FACULDADE DE MEDICINA DO RIO DE JANERIO DR. AUGUSTO DE SOUZA BRANDÃO."
+    },
+    {
+      "senadoId": "405893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4714",
+      "titulo": "Decreto nº 4.714 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4714",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4714",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 30:300$000, SUPLEMENTAR À VERBA 9ª DO ARTIGO 2º DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901, PARA PAGAMENTO DE AJUDAS DE CUSTO DOS DEPUTADOS E SENADORES."
+    },
+    {
+      "senadoId": "405901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4716",
+      "titulo": "Decreto nº 4.716 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4716",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4716",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 260:000$000 PARA INDENIZAR O BANCO DA REPÚBLICA DO BRASIL DE IGUAL SOMA DESPENDIDA COM A RECEPÇÃO DA ESQUADRA DO CHILE, COM AS EXEQUIAS EM HOMENAGEM AOS DIPLOMATAS CHILENOS AQUI FALECIDOS E COM OS PREPARATIVOS PARA O TRANSPORTE DE SEUS CORPOS."
+    },
+    {
+      "senadoId": "405889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4713",
+      "titulo": "Decreto nº 4.713 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4713",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4713",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 14:868$599, SUPLEMENTAR ÀS SEGUINTES VERBAS DO ARTIGO 2ª DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901, NÚMERO 11 - JUSTIÇA FEDERAL, - NÚMERO 26 - DA ESCOLA DE MINAS, - NÚMERO 27 - GINÁSIO NACIONAL, EXTERNATO, E NÚMERO 31 - INSTITUTO DOS SURDOS-MUDOS."
+    },
+    {
+      "senadoId": "405913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-29-4719",
+      "titulo": "Decreto nº 4.719 de 29/12/1902",
+      "data": "1902-12-29",
+      "numero": "4719",
+      "urn": "urn:lex:br:federal:decreto:1902-12-29;4719",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 11:465$000, PARA PAGAMENTO A FELISMINO SOARES & COMP. DA SEGUNDA METADE DO VALOR TOTAL DAS OBRAS DE REPARAÇÃO DAS CADEIRAS DO \"TORPEDEIRO SILVADO\", DE ACORDO COM O CONTRATO PARA ESSE FIM CELEBRADO."
+    },
+    {
+      "senadoId": "405872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-27-4709",
+      "titulo": "Decreto nº 4.709 de 27/12/1902",
+      "data": "1902-12-27",
+      "numero": "4709",
+      "urn": "urn:lex:br:federal:decreto:1902-12-27;4709",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO EXTRAORDINÁRIO DE 705$600, PARA PAGAMENTO DA INDENIZAÇÃO DEVIDA A JOAQUIM GOMES DE SOUZA BRAGA, EM VIRTUDE DE SENTENÇA DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "405868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-27-4708",
+      "titulo": "Decreto nº 4.708 de 27/12/1902",
+      "data": "1902-12-27",
+      "numero": "4708",
+      "urn": "urn:lex:br:federal:decreto:1902-12-27;4708",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO EXTRAORDINÁRIO DE 3:000$000, PARA RESTITUIÇÃO DO DEPÓSITO DE IGUAL QUANTIA FEITO POR ADOLPHO GOMES NETO."
+    },
+    {
+      "senadoId": "405864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-26-4707",
+      "titulo": "Decreto nº 4.707 de 26/12/1902",
+      "data": "1902-12-26",
+      "numero": "4707",
+      "urn": "urn:lex:br:federal:decreto:1902-12-26;4707",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 50:000$000, PARA SATISFAZER AS DESPESAS DE REPRESENTAÇÃO E CORTEZIA NAVAL PARA COM AS MARINHAS ESTRANGEIRAS QUE SE FIZERAM REPRESENTAR POR OCASIÃO DE SER COMEMORADO O 13º ANIVERSÁRIO DA REPÚBLICA E EMPOSSADO O NOVO PRESIDENTE."
+    },
+    {
+      "senadoId": "405860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-24-4706",
+      "titulo": "Decreto nº 4.706 de 24/12/1902",
+      "data": "1902-12-24",
+      "numero": "4706",
+      "urn": "urn:lex:br:federal:decreto:1902-12-24;4706",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CREDITO EXTRAORDINÁRIO DE 2:860$207 PARA OCORRER AO PAGAMENTO DO ORDENADO QUE COMPETE AO ESCRIVÃO DO ALMOXARIFADO DO EXTINTO ARSENAL DE GUERRA DO ESTADO DE PERNAMBUCO, FRANCISCO MAURÍCIO DE ABREU."
+    },
+    {
+      "senadoId": "405844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-22-4702",
+      "titulo": "Decreto nº 4.702 de 22/12/1902",
+      "data": "1902-12-22",
+      "numero": "4702",
+      "urn": "urn:lex:br:federal:decreto:1902-12-22;4702",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 4:200$000 PARA PAGAMETNO DO PRÊMIO DE VIAGEM CONFERIDO AO ALUNO DA ESCOLA DE MINAS, PEDRO DEMONSTHENES RACHE."
+    },
+    {
+      "senadoId": "405856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-22-4705",
+      "titulo": "Decreto nº 4.705 de 22/12/1902",
+      "data": "1902-12-22",
+      "numero": "4705",
+      "urn": "urn:lex:br:federal:decreto:1902-12-22;4705",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO DE 1.463:823$816, SUPLEMENTAR A VERBA NÚMERO 21 DO ARTIGO 9º DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "405848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-22-4703",
+      "titulo": "Decreto nº 4.703 de 22/12/1902",
+      "data": "1902-12-22",
+      "numero": "4703",
+      "urn": "urn:lex:br:federal:decreto:1902-12-22;4703",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDA NACIONAIS NA COMARCA DE APARECIDA, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "405852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-22-4704",
+      "titulo": "Decreto nº 4.704 de 22/12/1902",
+      "data": "1902-12-22",
+      "numero": "4704",
+      "urn": "urn:lex:br:federal:decreto:1902-12-22;4704",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ASSARÉ, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "405840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-18-4701",
+      "titulo": "Decreto nº 4.701 de 18/12/1902",
+      "data": "1902-12-18",
+      "numero": "4701",
+      "urn": "urn:lex:br:federal:decreto:1902-12-18;4701",
+      "ementa": "PUBLICA A ADESÃO DA REPÚBLICA DE CUBA E CONVENÇÃO POSTAL UNIVERSAL DE 15 DE JUNHO DE 1897."
+    },
+    {
+      "senadoId": "405832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-15-4699",
+      "titulo": "Decreto nº 4.699 de 15/12/1902",
+      "data": "1902-12-15",
+      "numero": "4699",
+      "urn": "urn:lex:br:federal:decreto:1902-12-15;4699",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 618:750$000, SENDO 141:750$000 À VERBA - SUBSÍDIO DOS SENADORES - E 477:000$000 À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405828",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-15-4698",
+      "titulo": "Decreto nº 4.698 de 15/12/1902",
+      "data": "1902-12-15",
+      "numero": "4698",
+      "urn": "urn:lex:br:federal:decreto:1902-12-15;4698",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOSÉ DA BOA VISTA, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "405836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-15-4700",
+      "titulo": "Decreto nº 4.700 de 15/12/1902",
+      "data": "1902-12-15",
+      "numero": "4700",
+      "urn": "urn:lex:br:federal:decreto:1902-12-15;4700",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 89:200$000, SENDO 33:200$000, À VERBA - SECRETARIA DO SENADO - E 56:000$000 À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-12-4696",
+      "titulo": "Decreto nº 4.696 de 12/12/1902",
+      "data": "1902-12-12",
+      "numero": "4696",
+      "urn": "urn:lex:br:federal:decreto:1902-12-12;4696",
+      "ementa": "MODIFICA O DECRETO NÚMERO 3.810, DE 16 DE OUTUBRO DE 1900."
+    },
+    {
+      "senadoId": "405824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-12-4697",
+      "titulo": "Decreto nº 4.697 de 12/12/1902",
+      "data": "1902-12-12",
+      "numero": "4697",
+      "urn": "urn:lex:br:federal:decreto:1902-12-12;4697",
+      "ementa": "PROVIDENCIA SOBRE A EXECUÇÃO DO ARTIGO 55 DO REGULAMENTO ANEXO AO DECRETO NÚMERO 3.622, DE 26 DE MARÇO DE 1900."
+    },
+    {
+      "senadoId": "405816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-11-4695",
+      "titulo": "Decreto nº 4.695 de 11/12/1902",
+      "data": "1902-12-11",
+      "numero": "4695",
+      "urn": "urn:lex:br:federal:decreto:1902-12-11;4695",
+      "ementa": "DÁ INSTRUÇÕES PARA A ELEIÇÃO DO VICE PRESIDENTE DA REPÚBLICA NO PERÍODO PRESIDENCIAL DE 1902 A 1906 E PARA AS ELEIÇÕES FEDERAIS QUE SE REALIZARÃO NO DIA 18 DE FEVEREIRO PRÓXIMO VINDOURO."
+    },
+    {
+      "senadoId": "405812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-08-4694",
+      "titulo": "Decreto nº 4.694 de 08/12/1902",
+      "data": "1902-12-08",
+      "numero": "4694",
+      "urn": "urn:lex:br:federal:decreto:1902-12-08;4694",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 5:000$000 PARA PRÊMIO E PUBLICAÇÃO DO TRABALHO \"CIÊNCIA DAS FINANÇAS\", DO LENTE DA FACULDADE DE DIREITO DE SÃO PAULO, DR. JOÃO PEDRO DA VEIGA FILHO."
+    },
+    {
+      "senadoId": "405808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-06-4693",
+      "titulo": "Decreto nº 4.693 de 06/12/1902",
+      "data": "1902-12-06",
+      "numero": "4693",
+      "urn": "urn:lex:br:federal:decreto:1902-12-06;4693",
+      "ementa": "APROVA, COM ALTERAÇÕES OS NOVOS ESTATUTOS DA COMPANHIA NACIONAL DE SEGURO MÚTUO CONTRA FOGO."
+    },
+    {
+      "senadoId": "405804",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-05-4692",
+      "titulo": "Decreto nº 4.692 de 05/12/1902",
+      "data": "1902-12-05",
+      "numero": "4692",
+      "urn": "urn:lex:br:federal:decreto:1902-12-05;4692",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO DE 65:000$000, SUPLEMENTAR A VERBA - OBRAS - NÚMERO 24, DO ARTIGO 9º DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901, PARA OCORRER ÀS DESPESAS NECESSÁRIAS E URGENTES NA SECRETARIA DE ESTADO, NO QUARTEL DO CORPO DE INFANTARIA DE MARINHA E NA PONTE DO ARCENAL DESTA CAPITAL."
+    },
+    {
+      "senadoId": "405797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-01-4690",
+      "titulo": "Decreto nº 4.690 de 01/12/1902",
+      "data": "1902-12-01",
+      "numero": "4690",
+      "urn": "urn:lex:br:federal:decreto:1902-12-01;4690",
+      "ementa": "CRIA UM BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA VICTORIA DO PALMAR, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-01-4689",
+      "titulo": "Decreto nº 4.689 de 01/12/1902",
+      "data": "1902-12-01",
+      "numero": "4689",
+      "urn": "urn:lex:br:federal:decreto:1902-12-01;4689",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE JAGUARÃO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-01-4691",
+      "titulo": "Decreto nº 4.691 de 01/12/1902",
+      "data": "1902-12-01",
+      "numero": "4691",
+      "urn": "urn:lex:br:federal:decreto:1902-12-01;4691",
+      "ementa": "CRIA UM BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO GRANDE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-12-01-4688",
+      "titulo": "Decreto nº 4.688 de 01/12/1902",
+      "data": "1902-12-01",
+      "numero": "4688",
+      "urn": "urn:lex:br:federal:decreto:1902-12-01;4688",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA MARIA DA BOCA DO MONTE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-26-4687",
+      "titulo": "Decreto nº 4.687 de 26/11/1902",
+      "data": "1902-11-26",
+      "numero": "4687",
+      "urn": "urn:lex:br:federal:decreto:1902-11-26;4687",
+      "ementa": "REPRODUZ, NO VIGENTE REGULAMENTO DO INSTITUTO BENJAMIN CONSTANT, O DISPOSITIVO DO ARTIGO 210 DE NÚMERO 408, DE 17 DE  MAIO DE 1890."
+    },
+    {
+      "senadoId": "405781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-26-4686",
+      "titulo": "Decreto nº 4.686 de 26/11/1902",
+      "data": "1902-11-26",
+      "numero": "4686",
+      "urn": "urn:lex:br:federal:decreto:1902-11-26;4686",
+      "ementa": "DESIGNA O DIA 18 DE FEVEREIRO PRÓXIMO VINDOURO PARA A ELEIÇÃO DO VICE-PRESIDENTE DA REPÚBLICA, NO PERÍODO PRESIDENCIAL DE 1902 A 1906."
+    },
+    {
+      "senadoId": "405773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-25-4684",
+      "titulo": "Decreto nº 4.684 de 25/11/1902",
+      "data": "1902-11-25",
+      "numero": "4684",
+      "urn": "urn:lex:br:federal:decreto:1902-11-25;4684",
+      "ementa": "CONCEDE AUTORIZAÇÃO À \"THE CARSERVENE AND DEVELOPMENTS ANGLO-FRENCH GOLD MINING COMPANY, LIMITED\" PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "405777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-25-4685",
+      "titulo": "Decreto nº 4.685 de 25/11/1902",
+      "data": "1902-11-25",
+      "numero": "4685",
+      "urn": "urn:lex:br:federal:decreto:1902-11-25;4685",
+      "ementa": "CONCEDE AUTORIZAÇÃO A HENRIQUE DE VILLENEUVE PARA ORGANIZAR UMA SOCIEDADE ANÔNIMA, SOB A DENOMINAÇÃO - COOPERATIVA FLUMINENSE."
+    },
+    {
+      "senadoId": "405769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-24-4683",
+      "titulo": "Decreto nº 4.683 de 24/11/1902",
+      "data": "1902-11-24",
+      "numero": "4683",
+      "urn": "urn:lex:br:federal:decreto:1902-11-24;4683",
+      "ementa": "CRIA UM CONSULADO EM MUNICH."
+    },
+    {
+      "senadoId": "405765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-22-4682",
+      "titulo": "Decreto nº 4.682 de 22/11/1902",
+      "data": "1902-11-22",
+      "numero": "4682",
+      "urn": "urn:lex:br:federal:decreto:1902-11-22;4682",
+      "ementa": "APROVA COM ACRÉSCIMO DE DUAS CLÁUSULAS, OS ESTATUTOS DA SOCIEDADE ANÔNIMA \"A AUXILIADORA\" E AUTORIZA A MESMA A FUNCIONAR."
+    },
+    {
+      "senadoId": "405761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-21-4681",
+      "titulo": "Decreto nº 4.681 de 21/11/1902",
+      "data": "1902-11-21",
+      "numero": "4681",
+      "urn": "urn:lex:br:federal:decreto:1902-11-21;4681",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE CEM CONTOS DE RÉIS PARA PAGAMENTO DAS DESPESAS ACRESCIDAS ÀS PREVISTAS NO ARTIGO 8º, NÚMERO 24 RUBRICA - OBRAS - DA LEI NÚMERO 746, DE 20 A 29 DE DEZEMBRO DE 1900."
+    },
+    {
+      "senadoId": "405757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-14-4680",
+      "titulo": "Decreto nº 4.680 de 14/11/1902",
+      "data": "1902-11-14",
+      "numero": "4680",
+      "urn": "urn:lex:br:federal:decreto:1902-11-14;4680",
+      "ementa": "DÁ NOVO REGULAMENTO À IMPRENSA NACIONAL. (*)."
+    },
+    {
+      "senadoId": "405717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4670",
+      "titulo": "Decreto nº 4.670 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4670",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4670",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE QUELUZ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4665",
+      "titulo": "Decreto nº 4.665 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4665",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4665",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE TAQUARETINGA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4674",
+      "titulo": "Decreto nº 4.674 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4674",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4674",
+      "ementa": "PRORROGA POR VINTE E CINCO ANOS O PRAZO DA CONCESSÃO PARA EXPLORAÇÃO DAS LINHAS TELEFÔNICAS NO ESTADO DA BAHIA, DE QUE É CESSIONÁRIO O CORONEL JOÃO PEDRO CAMINHA."
+    },
+    {
+      "senadoId": "405729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4673",
+      "titulo": "Decreto nº 4.673 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4673",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4673",
+      "ementa": "CRIA UM CONSULADO NA REPÚBLICA DE COSTA RICA."
+    },
+    {
+      "senadoId": "405737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4675",
+      "titulo": "Decreto nº 4.675 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4675",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4675",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 30:000$000 PARA SER APLICADO COMO AUXÍLIO À SOCIEDADE COOPERATIVA UNIÃO DOS LAVRADORES DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4678",
+      "titulo": "Decreto nº 4.678 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4678",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4678",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 317:980$583, SUPLEMENTAR À VERBA - EXERCÍCIO FINDOS."
+    },
+    {
+      "senadoId": "405741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4676",
+      "titulo": "Decreto nº 4.676 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4676",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4676",
+      "ementa": "CONCEDE PERMISSÃO A \"NEW YORK LIFE INSURANCE COMPANY\" PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "405701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4666",
+      "titulo": "Decreto nº 4.666 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4666",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4666",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CORRENTES, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4668",
+      "titulo": "Decreto nº 4.668 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4668",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4668",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICIPIO DE BARREIROS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4677",
+      "titulo": "Decreto nº 4.677 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4677",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4677",
+      "ementa": "TORNA EXTENSIVAS A TODAS AS ALFÂNDEGAS AS DISPOSIÇÕES DO ARTIGO 254, § 2º, DA NOVA CONSOLIDAÇÃO DAS LEIS DAS ALFÂNDEGAS E MESAS DE RENDAS."
+    },
+    {
+      "senadoId": "405721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4671",
+      "titulo": "Decreto nº 4.671 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4671",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4671",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 83:200$000, SENDO 33:200$000 À VERBA - SECRETARIA DO SENADO - E 50:000$000 À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4679",
+      "titulo": "Decreto nº 4.679 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4679",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4679",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 28:000$000 PARA A IMPRESSÃO DE TRÊS MIL EXEMPLARES DA CARTA DESCRITIVA, ORGANIZADA POR JÚLIO CÉSAR PINTO COELHO E ALBINO ALVES FILHO."
+    },
+    {
+      "senadoId": "405713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4669",
+      "titulo": "Decreto nº 4.669 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4669",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4669",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MACAÉ, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "405705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4667",
+      "titulo": "Decreto nº 4.667 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4667",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4667",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE AGUA PRETA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-13-4672",
+      "titulo": "Decreto nº 4.672 de 13/11/1902",
+      "data": "1902-11-13",
+      "numero": "4672",
+      "urn": "urn:lex:br:federal:decreto:1902-11-13;4672",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 618:750$000, SENDO 141:750$ À VERBA - SUBSÍDIO DOS SENADORES - E 477:000$000 À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-12-4660",
+      "titulo": "Decreto nº 4.660 de 12/11/1902",
+      "data": "1902-11-12",
+      "numero": "4660",
+      "urn": "urn:lex:br:federal:decreto:1902-11-12;4660",
+      "ementa": "DÁ NOVO REGULAMENTO AO CORPO DE INFANTARIA DE MARINHA."
+    },
+    {
+      "senadoId": "405693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-12-4664",
+      "titulo": "Decreto nº 4.664 de 12/11/1902",
+      "data": "1902-11-12",
+      "numero": "4664",
+      "urn": "urn:lex:br:federal:decreto:1902-11-12;4664",
+      "ementa": "REDUZ A 3:600$000 A QUOTA DE FISCALIZAÇÃO DA ESTRADA DE FERRO DA TIJUCA, DE QUE TRATA O ARTIGO 2º DO DECRETO NÚMERO 4.414, DE 21 DE MAIO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "405689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-12-4663",
+      "titulo": "Decreto nº 4.663 de 12/11/1902",
+      "data": "1902-11-12",
+      "numero": "4663",
+      "urn": "urn:lex:br:federal:decreto:1902-11-12;4663",
+      "ementa": "APROVA O REGULAMENTO PARA O SANATÓRIO MILITAR EM CAMPOS DO JORDÃ0."
+    },
+    {
+      "senadoId": "405680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-12-4661",
+      "titulo": "Decreto nº 4.661 de 12/11/1902",
+      "data": "1902-11-12",
+      "numero": "4661",
+      "urn": "urn:lex:br:federal:decreto:1902-11-12;4661",
+      "ementa": "APROVA E MANDA EXECUTAR A ORDENANÇA GERAL PARA O SERVIÇO DA ARMADA."
+    },
+    {
+      "senadoId": "405685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-12-4662",
+      "titulo": "Decreto nº 4.662 de 12/11/1902",
+      "data": "1902-11-12",
+      "numero": "4662",
+      "urn": "urn:lex:br:federal:decreto:1902-11-12;4662",
+      "ementa": "APROVA O REGULAMENTO PARA AS COLÔNIAS MILITARES."
+    },
+    {
+      "senadoId": "405664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4657",
+      "titulo": "Decreto nº 4.657 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4657",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4657",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GOYANA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4658",
+      "titulo": "Decreto nº 4.658 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4658",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4658",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE GRANJA, NO ESTADO DE CEARÁ."
+    },
+    {
+      "senadoId": "405656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4655",
+      "titulo": "Decreto nº 4.655 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4655",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4655",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE PALMARES, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4650",
+      "titulo": "Decreto nº 4.650 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4650",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4650",
+      "ementa": "CONCEDE AO LYCEO SALESIANO DE ARTES E OFÍCIOS SÃO GONÇALO, EM CUIABÁ, AS VANTAGENS DE QUE GOSA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "405660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4656",
+      "titulo": "Decreto nº 4.656 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4656",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4656",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA RECIFE, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4654",
+      "titulo": "Decreto nº 4.654 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4654",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4654",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GARANHUNS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4651",
+      "titulo": "Decreto nº 4.651 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4651",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4651",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 8:000$000, PARA AJUDA DE CUSTO AO LENTE DA ESCOLA POLITÉCNICA EUGENIO DE BARROS RAJA GABAGLIA."
+    },
+    {
+      "senadoId": "405644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4652",
+      "titulo": "Decreto nº 4.652 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4652",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4652",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO CABO, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4659",
+      "titulo": "Decreto nº 4.659 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4659",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4659",
+      "ementa": "CRIA QUATRO BRIGADAS DE INFANTARIA, TRES DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE PYRANGA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-11-4653",
+      "titulo": "Decreto nº 4.653 de 11/11/1902",
+      "data": "1902-11-11",
+      "numero": "4653",
+      "urn": "urn:lex:br:federal:decreto:1902-11-11;4653",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE SÃO BENTO, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-07-4646",
+      "titulo": "Decreto nº 4.646 de 07/11/1902",
+      "data": "1902-11-07",
+      "numero": "4646",
+      "urn": "urn:lex:br:federal:decreto:1902-11-07;4646",
+      "ementa": "CONCEDE AO ENGENHEIRO CIVIL THOMAZ DE AQUINO E CASTRO PERMISSÃO PARA CONSTRUIR E EXPLORAR LINHAS TELEFÔNICAS LIGANDO A CAPITAL FEDERAL A CIDADE DE SANTOS."
+    },
+    {
+      "senadoId": "405631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-07-4649",
+      "titulo": "Decreto nº 4.649 de 07/11/1902",
+      "data": "1902-11-07",
+      "numero": "4649",
+      "urn": "urn:lex:br:federal:decreto:1902-11-07;4649",
+      "ementa": "APROVA E MANDA EXECUTAR AS TABELAS PARA DISTRIBUIÇÃO DE FARDAMENTO AOS SENTENCIADOS DE MARINHA EXCLUÍDOS OU NÃO EXCLUÍDOS DOS RESPECTIVOS CORPOS."
+    },
+    {
+      "senadoId": "405623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-07-4647",
+      "titulo": "Decreto nº 4.647 de 07/11/1902",
+      "data": "1902-11-07",
+      "numero": "4647",
+      "urn": "urn:lex:br:federal:decreto:1902-11-07;4647",
+      "ementa": "EXPLICA EM QUE DATA COMEÇA A SER EFETIVA A DISPOSIÇÃO DA ULTIMA PARTE DA PARAGRAFO UNICO DO ARTIGO 1 DO DECRETO 4.352, DE 26 DE FEVEREIRO DE 1902."
+    },
+    {
+      "senadoId": "405627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-07-4648",
+      "titulo": "Decreto nº 4.648 de 07/11/1902",
+      "data": "1902-11-07",
+      "numero": "4648",
+      "urn": "urn:lex:br:federal:decreto:1902-11-07;4648",
+      "ementa": "MODIFICA AS DISPOSIÇÕES DO ARTIGO 4, 126, PARAGRAFO 1, LETRA C E 237 DO REGULAMETO DA ESCOLA NAVAL."
+    },
+    {
+      "senadoId": "405615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-06-4645",
+      "titulo": "Decreto nº 4.645 de 06/11/1902",
+      "data": "1902-11-06",
+      "numero": "4645",
+      "urn": "urn:lex:br:federal:decreto:1902-11-06;4645",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 10:000$000, PARA PAGAR AO DR. VICENTE CÂNDIDO FIGUEIRA DE SABOIA O PRÊMIO E A IMPRESSÃO DA OBRA QUE PUBLICOU SOB O TÍTULO \"TRATADO DE CIRURGIA CONTEMPORÂNEA\"."
+    },
+    {
+      "senadoId": "405603",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-05-4642",
+      "titulo": "Decreto nº 4.642 de 05/11/1902",
+      "data": "1902-11-05",
+      "numero": "4642",
+      "urn": "urn:lex:br:federal:decreto:1902-11-05;4642",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DE 5:000$000 PARA PAGAMENTO DE UM TERRENO ADQUIRIDO PARA USO DA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "405600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-05-4641",
+      "titulo": "Decreto nº 4.641 de 05/11/1902",
+      "data": "1902-11-05",
+      "numero": "4641",
+      "urn": "urn:lex:br:federal:decreto:1902-11-05;4641",
+      "ementa": "ALTERA O SISTEMA DE TAXAÇÃO DOS TELEGRAMAS TROCADOS ENTRE SÃO PAULO E SANTOS E ENTRE SÃO PAULO, JUNDIAÍ E CAMPINAS."
+    },
+    {
+      "senadoId": "405607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-05-4643",
+      "titulo": "Decreto nº 4.643 de 05/11/1902",
+      "data": "1902-11-05",
+      "numero": "4643",
+      "urn": "urn:lex:br:federal:decreto:1902-11-05;4643",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO EXTRAORDINÁRIO DE 77:521$899 PARA PAGAMENTO DE VENCIMENTOS  AO PESSOAL DE CORPO DE PATRÕES MÓRES, DE FRAGATA PROMOVIDOS, E TRÊS MÉDICOS DE 5ª CLASSE."
+    },
+    {
+      "senadoId": "405596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-05-4640",
+      "titulo": "Decreto nº 4.640 de 05/11/1902",
+      "data": "1902-11-05",
+      "numero": "4640",
+      "urn": "urn:lex:br:federal:decreto:1902-11-05;4640",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 15:000$000 PARA OCORRER À DESPESAS COM AQUISIÇÃO DE SEMENTES E PLANTAS."
+    },
+    {
+      "senadoId": "405611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-05-4644",
+      "titulo": "Decreto nº 4.644 de 05/11/1902",
+      "data": "1902-11-05",
+      "numero": "4644",
+      "urn": "urn:lex:br:federal:decreto:1902-11-05;4644",
+      "ementa": "DA NOVA ORGANIZAÇÃO AO SERVIÇO HOSPITALAR DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "405592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-05-4639",
+      "titulo": "Decreto nº 4.639 de 05/11/1902",
+      "data": "1902-11-05",
+      "numero": "4639",
+      "urn": "urn:lex:br:federal:decreto:1902-11-05;4639",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE ANÔNIMA \"EMPRESA DE SAL E NAVEGAÇÃO\"."
+    },
+    {
+      "senadoId": "405588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-04-4638",
+      "titulo": "Decreto nº 4.638 de 04/11/1902",
+      "data": "1902-11-04",
+      "numero": "4638",
+      "urn": "urn:lex:br:federal:decreto:1902-11-04;4638",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 377:300$000, SUPLEMENTAR Á VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1902."
+    },
+    {
+      "senadoId": "405584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-04-4637",
+      "titulo": "Decreto nº 4.637 de 04/11/1902",
+      "data": "1902-11-04",
+      "numero": "4637",
+      "urn": "urn:lex:br:federal:decreto:1902-11-04;4637",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CARUARÚ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-11-04-4636",
+      "titulo": "Decreto nº 4.636 de 04/11/1902",
+      "data": "1902-11-04",
+      "numero": "4636",
+      "urn": "urn:lex:br:federal:decreto:1902-11-04;4636",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE AGUA PRETA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-31-4635",
+      "titulo": "Decreto nº 4.635 de 31/10/1902",
+      "data": "1902-10-31",
+      "numero": "4635",
+      "urn": "urn:lex:br:federal:decreto:1902-10-31;4635",
+      "ementa": "APROVA A REVISÃO DOS ESTUDOS DA ESTRADA DE FERRO SANTO EDUARDO AO CACHOEIRO DE ITAPEMIRIM, CORRESPONDENTE AO TRECHO COMPREENDIDO ENTRE A ESTAÇÃO DE SÃO JOÃO DO MUQUY E O PONTO TERMINAL DA MESMA ESTRADA."
+    },
+    {
+      "senadoId": "405572",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-31-4634",
+      "titulo": "Decreto nº 4.634 de 31/10/1902",
+      "data": "1902-10-31",
+      "numero": "4634",
+      "urn": "urn:lex:br:federal:decreto:1902-10-31;4634",
+      "ementa": "APROVA AS DESPESAS FEITAS PELA COMPANHIA PAULISTA DE VIAS FÉRREAS E FLUVIAIS DURANTE ANO DE 1901, POR CONTA DO CAPITAL DA ESTRADA DE FERRO DO RIO CLARO, QUE FICA ELEVADO A 1.516.236."
+    },
+    {
+      "senadoId": "405568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-29-4633",
+      "titulo": "Decreto nº 4.633 de 29/10/1902",
+      "data": "1902-10-29",
+      "numero": "4633",
+      "urn": "urn:lex:br:federal:decreto:1902-10-29;4633",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A INSPETORIA GERAL DE ENGENHARIA NAVAL."
+    },
+    {
+      "senadoId": "405507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4618",
+      "titulo": "Decreto nº 4.618 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4618",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4618",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO LEOPOLDO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4623",
+      "titulo": "Decreto nº 4.623 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4623",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4623",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CASTRO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "405511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4619",
+      "titulo": "Decreto nº 4.619 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4619",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4619",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GARANHUNS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4630",
+      "titulo": "Decreto nº 4.630 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4630",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4630",
+      "ementa": "SUSPENDE A AUTORIZAÇÃO CONCEDIDA Á COMPANHIA \"MANNHEIMER VERSICHERUNGS  GESELLSCHAFT\" PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "405564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4632",
+      "titulo": "Decreto nº 4.632 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4632",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4632",
+      "ementa": "SUSPENDE A AUTORIZAÇÃO CONCEDIDA Á SOCIEDADE HANSEÁTICA DE SEGUROS CONTRA FOGO, ESTABELECIDA EM HAMBURGO, PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "405539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4626",
+      "titulo": "Decreto nº 4.626 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4626",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4626",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO FRANCISCO, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4617",
+      "titulo": "Decreto nº 4.617 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4617",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4617",
+      "ementa": "CRIA UMA BRIGADA INFANTARIA E DUAS DE CAVALARIA DE GUARDA NACIONAIS NA COMARCA DE QUARATY, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4621",
+      "titulo": "Decreto nº 4.621 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4621",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4621",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ÁGUAS BELLAS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4622",
+      "titulo": "Decreto nº 4.622 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4622",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4622",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BREJO DA MADRE DE DEUS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4625",
+      "titulo": "Decreto nº 4.625 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4625",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4625",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO CRATO, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4616",
+      "titulo": "Decreto nº 4.616 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4616",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4616",
+      "ementa": "DÁ INSTRUÇÕES PARA AS ELEIÇÕES FEDERAIS A QUE SE TERÁ DE PROCEDER EM 28 DE DEZEMBRO PRÓXIMO VINDOURO."
+    },
+    {
+      "senadoId": "405544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4627",
+      "titulo": "Decreto nº 4.627 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4627",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4627",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E TRÊS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PELOTAS, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4631",
+      "titulo": "Decreto nº 4.631 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4631",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4631",
+      "ementa": "PRORROGA POR 20 ANOS AO PRAZO DA CONCESSÃO FEITA A SOCIEDADE ANONIMA \" BANQUE BELGE DE PRETS FONCIERS\" PELO DECRETO 3.776, DE 25 DE SETEMBRO DE 1990."
+    },
+    {
+      "senadoId": "405548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4628",
+      "titulo": "Decreto nº 4.628 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4628",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4628",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO BAHIA."
+    },
+    {
+      "senadoId": "405531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4624",
+      "titulo": "Decreto nº 4.624 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4624",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4624",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JAGUARIBE-MERIM, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4629",
+      "titulo": "Decreto nº 4.629 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4629",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4629",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE DE SEGUROS MÚTUOS SOBRE A VIDA \"GARANTIA DA AMAZÔNIA."
+    },
+    {
+      "senadoId": "405515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-28-4620",
+      "titulo": "Decreto nº 4.620 de 28/10/1902",
+      "data": "1902-10-28",
+      "numero": "4620",
+      "urn": "urn:lex:br:federal:decreto:1902-10-28;4620",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE PEDRA DE BUIQUE, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-27-4615",
+      "titulo": "Decreto nº 4.615 de 27/10/1902",
+      "data": "1902-10-27",
+      "numero": "4615",
+      "urn": "urn:lex:br:federal:decreto:1902-10-27;4615",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á \"THE RIO DE JANEIRO LIGHTERAGE COMPANY, LIMITED, \"FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "405487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-24-4613",
+      "titulo": "Decreto nº 4.613 de 24/10/1902",
+      "data": "1902-10-24",
+      "numero": "4613",
+      "urn": "urn:lex:br:federal:decreto:1902-10-24;4613",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA CRÉDITO ESPECIAL DE 139:644$269 PARA A CONSTRUÇÃO DE UM EDIFÍCIO DESTINADO A ALFANDEGA DE PARANAGUÁ, NO PORTO DE ÁGUA, ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "405491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-24-4614",
+      "titulo": "Decreto nº 4.614 de 24/10/1902",
+      "data": "1902-10-24",
+      "numero": "4614",
+      "urn": "urn:lex:br:federal:decreto:1902-10-24;4614",
+      "ementa": "ALTERA O DECRETO NÚMERO 2.220, DE 23 DE JANEIRO DE 1996, QUE CRIOU OS LUGARES DE SUPLENTES DO SUBSTITUTO DO JUIZ SECIONAL NAS CIRCUNSCRIÇÕES FEDERAIS DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-23-4612",
+      "titulo": "Decreto nº 4.612 de 23/10/1902",
+      "data": "1902-10-23",
+      "numero": "4612",
+      "urn": "urn:lex:br:federal:decreto:1902-10-23;4612",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 15:000$000, PARA OCORRER ÁS DESPESAS COM A PROPAGANDA DO GÁS NATURAL EXISTENTE NO MUNICÍPIO DO RECIFE, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405459",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4606",
+      "titulo": "Decreto nº 4.606 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4606",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4606",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TRÊS PONTAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4604",
+      "titulo": "Decreto nº 4.604 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4604",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4604",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 8:000$000 PARA AJUDA DE CUSTO AO LENTE DA FACULDADE DE MEDICINA DA BAHIA, DR. CARLOS DE FREITAS."
+    },
+    {
+      "senadoId": "405455",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4605",
+      "titulo": "Decreto nº 4.605 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4605",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4605",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE OURICURY, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405471",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4609",
+      "titulo": "Decreto nº 4.609 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4609",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4609",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO CABO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4611",
+      "titulo": "Decreto nº 4.611 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4611",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4611",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BONITO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405475",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4610",
+      "titulo": "Decreto nº 4.610 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4610",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4610",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ESCADA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4607",
+      "titulo": "Decreto nº 4.607 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4607",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4607",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CIMBRES, NO ESTADOS DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405467",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-22-4608",
+      "titulo": "Decreto nº 4.608 de 22/10/1902",
+      "data": "1902-10-22",
+      "numero": "4608",
+      "urn": "urn:lex:br:federal:decreto:1902-10-22;4608",
+      "ementa": "CRIA DUAS BRIGADAS DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE SÃO LOURENÇO DA MATA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405447",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-20-4603",
+      "titulo": "Decreto nº 4.603 de 20/10/1902",
+      "data": "1902-10-20",
+      "numero": "4603",
+      "urn": "urn:lex:br:federal:decreto:1902-10-20;4603",
+      "ementa": "APROVA OS ORÇAMENTOS DE OBRAS NOVAS E DE RECONSTRUÇÃO E CONSOLIDAÇÃO, CUJA IMPORTÂNCIA DEVERÁ SER INCLUÍDA NO CAPITAL DA COMPANHIA DOCAS DOS SANTOS."
+    },
+    {
+      "senadoId": "405427",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4598",
+      "titulo": "Decreto nº 4.598 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4598",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4598",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BENEVENTE, NO ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "405431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4599",
+      "titulo": "Decreto nº 4.599 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4599",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4599",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BREVES, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "405443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4602",
+      "titulo": "Decreto nº 4.602 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4602",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4602",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES , POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR  DE 83:700$000, SENDO 33:700$000 Á VERBA  - SECRETARIA DO SENADO - E 50:000$000 A VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405423",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4597",
+      "titulo": "Decreto nº 4.597 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4597",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4597",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E UMA DE ARTILHARIA NA GUARDA NACIONAL DA COMARCA DE TRÊS CORAÇÕES DO RIO VERDE, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405435",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4600",
+      "titulo": "Decreto nº 4.600 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4600",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4600",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL, DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4596",
+      "titulo": "Decreto nº 4.596 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4596",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4596",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E MAIS UMA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GAMELLEIRA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4595",
+      "titulo": "Decreto nº 4.595 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4595",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4595",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO LIMOEIRO, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-15-4601",
+      "titulo": "Decreto nº 4.601 de 15/10/1902",
+      "data": "1902-10-15",
+      "numero": "4601",
+      "urn": "urn:lex:br:federal:decreto:1902-10-15;4601",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 618:750$000, SENDO 141:750$000 Á VERBA - SUBSÍDIO DOS SENADORES - E 447:600$000 Á VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-13-4592",
+      "titulo": "Decreto nº 4.592 de 13/10/1902",
+      "data": "1902-10-13",
+      "numero": "4592",
+      "urn": "urn:lex:br:federal:decreto:1902-10-13;4592",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 30:000$000 PARA SER APLICADO COMO AUXÍLIO À SOCIEDADE BRASILEIRA EXPORTADORA DE CAFÉ."
+    },
+    {
+      "senadoId": "405407",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-13-4593",
+      "titulo": "Decreto nº 4.593 de 13/10/1902",
+      "data": "1902-10-13",
+      "numero": "4593",
+      "urn": "urn:lex:br:federal:decreto:1902-10-13;4593",
+      "ementa": "AUTORIZA A INOVAÇÃO DO CONTRATO COM A \"AMAZON STEAM NAVIGATION COMPANY, LIMITED\" PARA A NAVEGAÇÃO A VAPOR NOS RIOS AMAZONAS E OUTROS NOS ESTADOS DO AMAZONAS E PARÁ."
+    },
+    {
+      "senadoId": "405395",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-13-4590",
+      "titulo": "Decreto nº 4.590 de 13/10/1902",
+      "data": "1902-10-13",
+      "numero": "4590",
+      "urn": "urn:lex:br:federal:decreto:1902-10-13;4590",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO PARA O INICIO DAS OBRAS DE MELHORAMENTOS DO PORTO DA BAHIA."
+    },
+    {
+      "senadoId": "405399",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-13-4591",
+      "titulo": "Decreto nº 4.591 de 13/10/1902",
+      "data": "1902-10-13",
+      "numero": "4591",
+      "urn": "urn:lex:br:federal:decreto:1902-10-13;4591",
+      "ementa": "PROROGA POR QUATRO MESES O PRAZO MARCADO PARA O INÍCIO DAS OBRAS DO PORTO DE MANAUS, ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "405411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-13-4594",
+      "titulo": "Decreto nº 4.594 de 13/10/1902",
+      "data": "1902-10-13",
+      "numero": "4594",
+      "urn": "urn:lex:br:federal:decreto:1902-10-13;4594",
+      "ementa": "AUTORIZA A RENOVAÇÃO DA CONTRATO CELEBRADO EM VIRTUDE DOS DECRETOS NÚMERO 10.208, DE 16 DE MARÇO DE 1889 E 1.790, DE 3 DE SETEMBRO DE 1894, COM A COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO."
+    },
+    {
+      "senadoId": "405391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-09-4589",
+      "titulo": "Decreto nº 4.589 de 09/10/1902",
+      "data": "1902-10-09",
+      "numero": "4589",
+      "urn": "urn:lex:br:federal:decreto:1902-10-09;4589",
+      "ementa": "PUBLICA A ADESÃO DA REPÚBLICA ORIENTAL DO URUGUAI A CONVENÇÃO TELEGRAFICA INTERNACIONAL DE SÃO PETERSBURGO."
+    },
+    {
+      "senadoId": "405387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-09-4588",
+      "titulo": "Decreto nº 4.588 de 09/10/1902",
+      "data": "1902-10-09",
+      "numero": "4588",
+      "urn": "urn:lex:br:federal:decreto:1902-10-09;4588",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 12:000$000 PARA OCORRER A DESPESAS COM A PROPAGANDA DE PRODUTOS AGRÍCOLAS NO ESTADOS UNIDOS DA AMERICA DO NORTE."
+    },
+    {
+      "senadoId": "405383",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-08-4587",
+      "titulo": "Decreto nº 4.587 de 08/10/1902",
+      "data": "1902-10-08",
+      "numero": "4587",
+      "urn": "urn:lex:br:federal:decreto:1902-10-08;4587",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA PRÁTICA DE ARTILHARIA."
+    },
+    {
+      "senadoId": "405371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4584",
+      "titulo": "Decreto nº 4.584 de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4584",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4584",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BOM CONSELHO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4583",
+      "titulo": "Decreto nº 4.583 de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4583",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4583",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA MUNICÍPIO DE OURICURY, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4585",
+      "titulo": "Decreto nº 4.585 de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4585",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4585",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE IGUARASSÚ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4582",
+      "titulo": "Decreto nº 4.582 de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4582",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4582",
+      "ementa": "CRIA MAIS UMA BRIGADA DE ARTILHARIA DE GUARDA NACIONAIS NO MUNICIPIO DE SÃO LOURENÇO DA MATTA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4586",
+      "titulo": "Decreto nº 4.586 de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4586",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4586",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DE 64:703$414 PARA SER APLICADO À LIQUIDAÇÃO E REGULARIZAÇÃO DE DESPESAS QUE SE DERAM EM DIVERSAS SUB-CONSIGNAÇÕES DO ORÇAMENTO DA REPARTIÇÃO GERAL DOS TELÉGRAFOS."
+    },
+    {
+      "senadoId": "405365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4582-a",
+      "titulo": "Decreto nº 4.582-A de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4582-a",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4582-a",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE SÃO LOURENÇO DA MATTA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-07-4581",
+      "titulo": "Decreto nº 4.581 de 07/10/1902",
+      "data": "1902-10-07",
+      "numero": "4581",
+      "urn": "urn:lex:br:federal:decreto:1902-10-07;4581",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO RECIFE, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-06-4580",
+      "titulo": "Decreto nº 4.580 de 06/10/1902",
+      "data": "1902-10-06",
+      "numero": "4580",
+      "urn": "urn:lex:br:federal:decreto:1902-10-06;4580",
+      "ementa": "APROVA AS CLÁUSULAS PARA O CONTRATO DE NAVEGAÇÃO A VAPOR DO RIO PARNAÍBA."
+    },
+    {
+      "senadoId": "405350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-06-4579",
+      "titulo": "Decreto nº 4.579 de 06/10/1902",
+      "data": "1902-10-06",
+      "numero": "4579",
+      "urn": "urn:lex:br:federal:decreto:1902-10-06;4579",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 20:000$000 PARA OCORRER AS DESPESAS DA REPRESENTAÇÃO DOS PRODUTOS BRASILEIROS NA EXPOSIÇÃO PAN-AMERICANA, EM BUFFALO."
+    },
+    {
+      "senadoId": "405346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-03-4578",
+      "titulo": "Decreto nº 4.578 de 03/10/1902",
+      "data": "1902-10-03",
+      "numero": "4578",
+      "urn": "urn:lex:br:federal:decreto:1902-10-03;4578",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 4:86$317 PARA OCORRER AO PAGAMENTO AO TENENTE-CORONEL ALCIBIADES MARTINS RANGEL E AO MAJOR MARCOS FRANCO RABELLO, GRATIFICAÇÕES POR ELES VENCIDAS COMO DOCENTES EM DISPONIBILIDADE DOS INSTITUTOS MILITARES DE ENSINO."
+    },
+    {
+      "senadoId": "405302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4567",
+      "titulo": "Decreto nº 4.567 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4567",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4567",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE NOVA FRIBURGO, NO ESTADO DE RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "405310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4569",
+      "titulo": "Decreto nº 4.569 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4569",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4569",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ALAGOA DE BAIXO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4573",
+      "titulo": "Decreto nº 4.573 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4573",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4573",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE JABOTÃO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4572",
+      "titulo": "Decreto nº 4.572 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4572",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4572",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE TAQUARETINGA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4575",
+      "titulo": "Decreto nº 4.575 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4575",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4575",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE PÃO D´ALHO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4570",
+      "titulo": "Decreto nº 4.570 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4570",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4570",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ITAMBÉ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4565",
+      "titulo": "Decreto nº 4.565 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4565",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4565",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO PAULO DE MURIAHÉ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4574",
+      "titulo": "Decreto nº 4.574 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4574",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4574",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BREJO DA MADRE DE DEUS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4576",
+      "titulo": "Decreto nº 4.576 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4576",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4576",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS TRÊS DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GOYANA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4571",
+      "titulo": "Decreto nº 4.571 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4571",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4571",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA, UMA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE SERINHAEM NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4566",
+      "titulo": "Decreto nº 4.566 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4566",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4566",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE DORES DE INDAYÁ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4568",
+      "titulo": "Decreto nº 4.568 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4568",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4568",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GRAVATÁ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-10-01-4577",
+      "titulo": "Decreto nº 4.577 de 01/10/1902",
+      "data": "1902-10-01",
+      "numero": "4577",
+      "urn": "urn:lex:br:federal:decreto:1902-10-01;4577",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE QUIPAPÁ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-25-4564",
+      "titulo": "Decreto nº 4.564 de 25/09/1902",
+      "data": "1902-09-25",
+      "numero": "4564",
+      "urn": "urn:lex:br:federal:decreto:1902-09-25;4564",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 50:000$000 PARA CUMPRIMENTO DO DIPOSTO NO DECRETO LEGISLATIVO NÚMERO 864, DE 26 DE AGOSTO ÚLTIMO."
+    },
+    {
+      "senadoId": "405278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-23-4561",
+      "titulo": "Decreto nº 4.561 de 23/09/1902",
+      "data": "1902-09-23",
+      "numero": "4561",
+      "urn": "urn:lex:br:federal:decreto:1902-09-23;4561",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE OLINDA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-23-4560",
+      "titulo": "Decreto nº 4.560 de 23/09/1902",
+      "data": "1902-09-23",
+      "numero": "4560",
+      "urn": "urn:lex:br:federal:decreto:1902-09-23;4560",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BOA VISTA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-23-4562",
+      "titulo": "Decreto nº 4.562 de 23/09/1902",
+      "data": "1902-09-23",
+      "numero": "4562",
+      "urn": "urn:lex:br:federal:decreto:1902-09-23;4562",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMETAR DE 618:750$000, SENDO 141:750$000 Á VERBA - SUBSÍDIO DOS SENADORES - 477:000$000 A VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-23-4563",
+      "titulo": "Decreto nº 4.563 de 23/09/1902",
+      "data": "1902-09-23",
+      "numero": "4563",
+      "urn": "urn:lex:br:federal:decreto:1902-09-23;4563",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMETAR DE 82:700$000 SENDO 32:700$000 Á  VERBA - SECRETARIA DO SENADO - 50:000$000 Á VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "405270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-23-4559",
+      "titulo": "Decreto nº 4.559 de 23/09/1902",
+      "data": "1902-09-23",
+      "numero": "4559",
+      "urn": "urn:lex:br:federal:decreto:1902-09-23;4559",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 10:000$000 PARA OCORRER ÁS DESPESAS COM A PROPAGANDA DE PRODUTOS AGRÍCOLAS NOS ESTADO UNIDOS DA AMÉRICA DO NORTE."
+    },
+    {
+      "senadoId": "405262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-22-4557",
+      "titulo": "Decreto nº 4.557 de 22/09/1902",
+      "data": "1902-09-22",
+      "numero": "4557",
+      "urn": "urn:lex:br:federal:decreto:1902-09-22;4557",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO A QUE SE REFEREM OS DECRETOS NÚMEROS 434 E 4406, DE 15 DE FEVEREIRO DE 12 DE MAIO DO CORRETE ANO, PARA OBRAS DE MELHORAMENTO DO PORTO DE BELÉM, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "405258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-22-4556",
+      "titulo": "Decreto nº 4.556 de 22/09/1902",
+      "data": "1902-09-22",
+      "numero": "4556",
+      "urn": "urn:lex:br:federal:decreto:1902-09-22;4556",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DE 24:685$800 PARA PAGAR A WILSON, SONS & COMPANY, LIMITED, O FORNECIMENTO DE CARVÃO DE PEDRA FEITO Á ESTRADA DE FERRO SUL DE PERNAMBUCO NO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "405266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-22-4558",
+      "titulo": "Decreto nº 4.558 de 22/09/1902",
+      "data": "1902-09-22",
+      "numero": "4558",
+      "urn": "urn:lex:br:federal:decreto:1902-09-22;4558",
+      "ementa": "CONCEDE A EMPRESA DE NAVEGAÇÃO GRAM-PARÁ AS VONTANGENS E REGALIAS DE PAQUETES PARA OS SEUS VAPORES GRAM-PARÁ, SALINAS, MARAJOS, AMAZONAS, GUAJARÁ E BRAGANÇA, QUE FAZEM VIAGENS REGULARES OS PORTOS DA REPÚBLICA."
+    },
+    {
+      "senadoId": "405230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4549",
+      "titulo": "Decreto nº 4.549 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4549",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4549",
+      "ementa": "CRIA MAIS TRÊS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE NAZARETH, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4550",
+      "titulo": "Decreto nº 4.550 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4550",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4550",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CABROBÓ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4548",
+      "titulo": "Decreto nº 4.548 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4548",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4548",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ARAGUARY, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "405222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4547",
+      "titulo": "Decreto nº 4.547 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4547",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4547",
+      "ementa": "ALTERA O DECRETO NÚMERO 4.479, DE 26 DE JULHO DE 1902, QUE CRIOU OS LUGARES DE SUPLENTES DO SUBSTITUTO DO JUIZ FEDERAL NAS CIRCUNSCRIÇÕES FEDERAIS DO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4555",
+      "titulo": "Decreto nº 4.555 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4555",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4555",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CANGUARETAMA, NO ESTADO DO RIO GRANDE NO NORTE."
+    },
+    {
+      "senadoId": "405238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4551",
+      "titulo": "Decreto nº 4.551 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4551",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4551",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL, NO ESTADO DE SERGIPE."
+    },
+    {
+      "senadoId": "405218",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4546",
+      "titulo": "Decreto nº 4.546 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4546",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4546",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 7:600$000 PARA PAGAR A IMPRESSÃO DE 1.000 EXEMPLARES DO \"MÉTODO PRÁTICO PARA O ENSINO DA LÍNGÜA FRANCESA\"."
+    },
+    {
+      "senadoId": "405242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4552",
+      "titulo": "Decreto nº 4.552 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4552",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4552",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO CEARÁ-MIRIM, NO ESTADO DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "405246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4553",
+      "titulo": "Decreto nº 4.553 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4553",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4553",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL, NO ESTADO DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "405250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-16-4554",
+      "titulo": "Decreto nº 4.554 de 16/09/1902",
+      "data": "1902-09-16",
+      "numero": "4554",
+      "urn": "urn:lex:br:federal:decreto:1902-09-16;4554",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SERIDÓ, NO ESTADO DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "405210",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-15-4544",
+      "titulo": "Decreto nº 4.544 de 15/09/1902",
+      "data": "1902-09-15",
+      "numero": "4544",
+      "urn": "urn:lex:br:federal:decreto:1902-09-15;4544",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO DR. JOSÉ JOAQUIM DA COSTA PEREIRA BRAGA E OUTROS PARA ORGANIZAREM UMA SOCIEDADE ANÔNIMA DE PREVIDÊNCIA, SOB A DENOMINAÇÃO DE MONTEPIO P0PULAR."
+    },
+    {
+      "senadoId": "405214",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-15-4545",
+      "titulo": "Decreto nº 4.545 de 15/09/1902",
+      "data": "1902-09-15",
+      "numero": "4545",
+      "urn": "urn:lex:br:federal:decreto:1902-09-15;4545",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 15:000$000 AFIM DE SER APLICADO A CONSTRUÇÃO DA LINHA TELEGRÁFICA PARA A VILA DE SÃO BENEDITO, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405206",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-12-4543",
+      "titulo": "Decreto nº 4.543 de 12/09/1902",
+      "data": "1902-09-12",
+      "numero": "4543",
+      "urn": "urn:lex:br:federal:decreto:1902-09-12;4543",
+      "ementa": "PUBLICA A ADESÃO DO JAPÃO AO ACORDO RELATIVO Á PERMUTAÇÃO DE CARTAS E ENCOMENDAS (BOITES) COM VALOR DECLARADO E A CONVENÇÃO SOBRE A PERMUTA DE ECOMENDAS POSTAIS."
+    },
+    {
+      "senadoId": "405193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-11-4540",
+      "titulo": "Decreto nº 4.540 de 11/09/1902",
+      "data": "1902-09-11",
+      "numero": "4540",
+      "urn": "urn:lex:br:federal:decreto:1902-09-11;4540",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 50:000$000 PARA SER APLICADO Á CONSTRUÇÃO DA LINHA TELEGRÁFICA DE SALINAS A MARAPANIM, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "405197",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-11-4541",
+      "titulo": "Decreto nº 4.541 de 11/09/1902",
+      "data": "1902-09-11",
+      "numero": "4541",
+      "urn": "urn:lex:br:federal:decreto:1902-09-11;4541",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DE 204:495$000 PARA PAGAMENTO DO PESSOAL DA REPARTIÇÃO   GERAL DOS CORREIROS, CRIADO POR DELIBERAÇÃO DO CONGRESSO NACIONAL EM 1901, CORRESPONDENTE A ESSE EXERCÍCIO."
+    },
+    {
+      "senadoId": "405201",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-11-4542",
+      "titulo": "Decreto nº 4.542 de 11/09/1902",
+      "data": "1902-09-11",
+      "numero": "4542",
+      "urn": "urn:lex:br:federal:decreto:1902-09-11;4542",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO SUPLEMENTAR DE 408:450$000 Á VERBA NÚMERO 2 - CORREIOS - DA LEI DE ORÇAMENTO EM VIGOR, PARA O PAGAMENTO DO PESSOAL DE QUE TRATA O DECRETO NÚMERO 845, DE 8 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "405185",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4538",
+      "titulo": "Decreto nº 4.538 de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4538",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4538",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO CARMO, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "405171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4534-a",
+      "titulo": "Decreto nº 4.534-A de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4534-a",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4534-a",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPORANGA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4537",
+      "titulo": "Decreto nº 4.537 de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4537",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4537",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE VALENÇA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "405173",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4535",
+      "titulo": "Decreto nº 4.535 de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4535",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4535",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ARARAS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405189",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4539",
+      "titulo": "Decreto nº 4.539 de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4539",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4539",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SOBRAL, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405177",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4536",
+      "titulo": "Decreto nº 4.536 de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4536",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4536",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE PETROPÓLIS, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "405168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-09-4534",
+      "titulo": "Decreto nº 4.534 de 09/09/1902",
+      "data": "1902-09-09",
+      "numero": "4534",
+      "urn": "urn:lex:br:federal:decreto:1902-09-09;4534",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PINDAMONHANGABA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-08-4532",
+      "titulo": "Decreto nº 4.532 de 08/09/1902",
+      "data": "1902-09-08",
+      "numero": "4532",
+      "urn": "urn:lex:br:federal:decreto:1902-09-08;4532",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á \" THE BRASILIAN DIAMOND AND EXPLORATION COMPANY, LIMITED \" PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "405164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-08-4533",
+      "titulo": "Decreto nº 4.533 de 08/09/1902",
+      "data": "1902-09-08",
+      "numero": "4533",
+      "urn": "urn:lex:br:federal:decreto:1902-09-08;4533",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA \"MANAUS HARBOUR, LIMITED\" PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "405156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-06-4531",
+      "titulo": "Decreto nº 4.531 de 06/09/1902",
+      "data": "1902-09-06",
+      "numero": "4531",
+      "urn": "urn:lex:br:federal:decreto:1902-09-06;4531",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO DE 80:000$000, AO  CÂMBIO DE 27, SUPLEMENTAR A VERBA NÚMERO 6 DO ARTIGO 8º DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "405152",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-09-04-4530",
+      "titulo": "Decreto nº 4.530 de 04/09/1902",
+      "data": "1902-09-04",
+      "numero": "4530",
+      "urn": "urn:lex:br:federal:decreto:1902-09-04;4530",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 237:215$545 PARA OCORRER ÁS DESPESAS RESULTANTES DE OBRAS A PRÁTICAS NO CANAL DO MANGUE."
+    },
+    {
+      "senadoId": "405144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4528",
+      "titulo": "Decreto nº 4.528 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4528",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4528",
+      "ementa": "RELEVA O TESOUREIRO DO PAPEL-MOEDA DA CAIXA DE AMORTIZAÇÃO, ANTONIO BARBOSA DOS SANTOS, DA REPONSABILIDADE E PAGAMENTO DO DESFALQUE DADO PELO EX-FIEL ARNALDO VIEIRA DA CAMARA."
+    },
+    {
+      "senadoId": "405136",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4526",
+      "titulo": "Decreto nº 4.526 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4526",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4526",
+      "ementa": "CRIA MAIS UMA BRIGADA E INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA CAPITAL DO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4527",
+      "titulo": "Decreto nº 4.527 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4527",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4527",
+      "ementa": "CRIA MAIS UMA BRIGADA E INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA CAPITAL DO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405128",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4524",
+      "titulo": "Decreto nº 4.524 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4524",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4524",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ÁGUAS BELLAS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4522",
+      "titulo": "Decreto nº 4.522 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4522",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4522",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICIPIO DE SÃO LOURENÇO DA MATTA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4525",
+      "titulo": "Decreto nº 4.525 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4525",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4525",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BEZERROS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4523",
+      "titulo": "Decreto nº 4.523 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4523",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4523",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GARANHUNS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-30-4529",
+      "titulo": "Decreto nº 4.529 de 30/08/1902",
+      "data": "1902-08-30",
+      "numero": "4529",
+      "urn": "urn:lex:br:federal:decreto:1902-08-30;4529",
+      "ementa": "APROVA A NOVA TABELA DE NÚMERO, CLASSE E VENCIMENTOS DOS EMPREGADOS DA CAIXA ECONÔMICA E MONTE DE SOCORRO DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "405112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-28-4520",
+      "titulo": "Decreto nº 4.520 de 28/08/1902",
+      "data": "1902-08-28",
+      "numero": "4520",
+      "urn": "urn:lex:br:federal:decreto:1902-08-28;4520",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 5:000$000 PARA OCORRER A DESPESAS COM A PROPAGANDA E PRODUTOS AGRÍCOLAS EM OSAKA, JAPÃO."
+    },
+    {
+      "senadoId": "405116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-28-4521",
+      "titulo": "Decreto nº 4.521 de 28/08/1902",
+      "data": "1902-08-28",
+      "numero": "4521",
+      "urn": "urn:lex:br:federal:decreto:1902-08-28;4521",
+      "ementa": "APROVA AS CLÁUSULAS PARA O ARRENDAMENTO PROVISÓRIO DA ESTRADA DE FERRO MINAS E RIO."
+    },
+    {
+      "senadoId": "405108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-28-4519",
+      "titulo": "Decreto nº 4.519 de 28/08/1902",
+      "data": "1902-08-28",
+      "numero": "4519",
+      "urn": "urn:lex:br:federal:decreto:1902-08-28;4519",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA DE MINERAÇÃO - ROTULO LIMITED - PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "405104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-27-4518",
+      "titulo": "Decreto nº 4.518 de 27/08/1902",
+      "data": "1902-08-27",
+      "numero": "4518",
+      "urn": "urn:lex:br:federal:decreto:1902-08-27;4518",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO EXTRAORDINÁRIO DE 370-15-5, PARA PAGAMENTO DE CONCERTOS REALIZADOS NO CRUZADOS BENJAMIN CONSTANT NAS DOCAS DEVONPORT (PLYMOUTH)."
+    },
+    {
+      "senadoId": "405100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-26-4517",
+      "titulo": "Decreto nº 4.517 de 26/08/1902",
+      "data": "1902-08-26",
+      "numero": "4517",
+      "urn": "urn:lex:br:federal:decreto:1902-08-26;4517",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO EXTRAORDINÁRIO DE 1:132$000 PARA PAGAMENTO A DIVERSOS OPERÁRIOS DA CASA DA MOEDA, POR SERVIÇOS PRESTADOS EM JANEIRO E MARÇO DE 1900."
+    },
+    {
+      "senadoId": "405096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-26-4516",
+      "titulo": "Decreto nº 4.516 de 26/08/1902",
+      "data": "1902-08-26",
+      "numero": "4516",
+      "urn": "urn:lex:br:federal:decreto:1902-08-26;4516",
+      "ementa": "SUSPENDE A AUTORIZAÇÃO CONCEDIDA PELO DECRETO NÚMERO 3.869, DE 22 DE DEZEMBRO DE 1900, Á COMPANHIA DE SEGUROS \"NORD DEUTSCHE VERSICHERUNGS GESELLSCHAFT\", COM SÉDE EM HAMBURGO."
+    },
+    {
+      "senadoId": "405088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4514",
+      "titulo": "Decreto nº 4.514 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4514",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4514",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO ALTINHO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4509",
+      "titulo": "Decreto nº 4.509 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4509",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4509",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 1:163$978, PARA PAGAMENTO AO DR. JOÃO JOSÉ PINTO JUNIOR."
+    },
+    {
+      "senadoId": "405064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4508",
+      "titulo": "Decreto nº 4.508 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4508",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4508",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 142:736$000 PARA ÀS DESPESAS COM A INSTALAÇÃO DA ILUMINAÇÃO ELÉTRICA NA CASA DE DETENÇÃO E NA DE CORREÇÃO."
+    },
+    {
+      "senadoId": "405076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4511",
+      "titulo": "Decreto nº 4.511 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4511",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4511",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PIRAJÚ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4512",
+      "titulo": "Decreto nº 4.512 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4512",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4512",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA GLÓRIA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4515",
+      "titulo": "Decreto nº 4.515 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4515",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4515",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONIAS NO MUNICIPIO DE JABOATÃO, NO ESTADO DE PENAMBUCO."
+    },
+    {
+      "senadoId": "405072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4510",
+      "titulo": "Decreto nº 4.510 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4510",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4510",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CASCAVEL, NO ESTADO DO CEÁRA."
+    },
+    {
+      "senadoId": "405084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-21-4513",
+      "titulo": "Decreto nº 4.513 de 21/08/1902",
+      "data": "1902-08-21",
+      "numero": "4513",
+      "urn": "urn:lex:br:federal:decreto:1902-08-21;4513",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CANHOTINHO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-19-4506",
+      "titulo": "Decreto nº 4.506 de 19/08/1902",
+      "data": "1902-08-19",
+      "numero": "4506",
+      "urn": "urn:lex:br:federal:decreto:1902-08-19;4506",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 86:3328$000, OURO, DESTINADO À AQUISIÇÃO DE 600:000 EXEMPLARES DE APÓLICES PARA EXECUÇÃO DO DECRETO NÚMERO 4.430, DE 28 DE JANEIRO ÚLTIMO."
+    },
+    {
+      "senadoId": "405060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-19-4507",
+      "titulo": "Decreto nº 4.507 de 19/08/1902",
+      "data": "1902-08-19",
+      "numero": "4507",
+      "urn": "urn:lex:br:federal:decreto:1902-08-19;4507",
+      "ementa": "ELEVA CATEGORIA DE PRIMEIRA ORDEM A MESA DE RENDAS DE CAMOCIM, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-14-4505",
+      "titulo": "Decreto nº 4.505 de 14/08/1902",
+      "data": "1902-08-14",
+      "numero": "4505",
+      "urn": "urn:lex:br:federal:decreto:1902-08-14;4505",
+      "ementa": "PUBLICA A ADESÃO DA ILHA DE CRETA Á CONVENÇÃO TELEGRAFICA INTERNACIONAL DE SÃO PERTERSBURGO."
+    },
+    {
+      "senadoId": "405032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-09-4500",
+      "titulo": "Decreto nº 4.500 de 09/08/1902",
+      "data": "1902-08-09",
+      "numero": "4500",
+      "urn": "urn:lex:br:federal:decreto:1902-08-09;4500",
+      "ementa": "CRIA MAIS TRES BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "405044",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-09-4503",
+      "titulo": "Decreto nº 4.503 de 09/08/1902",
+      "data": "1902-08-09",
+      "numero": "4503",
+      "urn": "urn:lex:br:federal:decreto:1902-08-09;4503",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JEROMENHA, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "405040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-09-4502",
+      "titulo": "Decreto nº 4.502 de 09/08/1902",
+      "data": "1902-08-09",
+      "numero": "4502",
+      "urn": "urn:lex:br:federal:decreto:1902-08-09;4502",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMPOS SALLES, NO ESTADO DO PIAUI."
+    },
+    {
+      "senadoId": "405048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-09-4504",
+      "titulo": "Decreto nº 4.504 de 09/08/1902",
+      "data": "1902-08-09",
+      "numero": "4504",
+      "urn": "urn:lex:br:federal:decreto:1902-08-09;4504",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO LUIZ GONZAGA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-09-4501",
+      "titulo": "Decreto nº 4.501 de 09/08/1902",
+      "data": "1902-08-09",
+      "numero": "4501",
+      "urn": "urn:lex:br:federal:decreto:1902-08-09;4501",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE GURUPÁ, NO ESTADO DE PARÁ."
+    },
+    {
+      "senadoId": "405016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-02-4496",
+      "titulo": "Decreto nº 4.496 de 02/08/1902",
+      "data": "1902-08-02",
+      "numero": "4496",
+      "urn": "urn:lex:br:federal:decreto:1902-08-02;4496",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PORTO CALVO, NO ESTADO DE ALAGOAS."
+    },
+    {
+      "senadoId": "405012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-02-4495",
+      "titulo": "Decreto nº 4.495 de 02/08/1902",
+      "data": "1902-08-02",
+      "numero": "4495",
+      "urn": "urn:lex:br:federal:decreto:1902-08-02;4495",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAES NA COMARCA DE SÃO LUIZ, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "405020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-02-4497",
+      "titulo": "Decreto nº 4.497 de 02/08/1902",
+      "data": "1902-08-02",
+      "numero": "4497",
+      "urn": "urn:lex:br:federal:decreto:1902-08-02;4497",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO PAULO DOS AGUDOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-02-4499",
+      "titulo": "Decreto nº 4.499 de 02/08/1902",
+      "data": "1902-08-02",
+      "numero": "4499",
+      "urn": "urn:lex:br:federal:decreto:1902-08-02;4499",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO RIO FORMOSO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "405024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-08-02-4498",
+      "titulo": "Decreto nº 4.498 de 02/08/1902",
+      "data": "1902-08-02",
+      "numero": "4498",
+      "urn": "urn:lex:br:federal:decreto:1902-08-02;4498",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ARARAQUARA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "405000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-29-4492",
+      "titulo": "Decreto nº 4.492 de 29/07/1902",
+      "data": "1902-07-29",
+      "numero": "4492",
+      "urn": "urn:lex:br:federal:decreto:1902-07-29;4492",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE IPÚ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "405008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-29-4494",
+      "titulo": "Decreto nº 4.494 de 29/07/1902",
+      "data": "1902-07-29",
+      "numero": "4494",
+      "urn": "urn:lex:br:federal:decreto:1902-07-29;4494",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CREDITO DE 79:419$356, PARA PAGAMENTO DE QUOTAS DEVIDAS A EMPREGADOS DAS ALFÂNDEGAS DO RIO DE JANEIRO, SANTOS E RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "404988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-29-4489",
+      "titulo": "Decreto nº 4.489 de 29/07/1902",
+      "data": "1902-07-29",
+      "numero": "4489",
+      "urn": "urn:lex:br:federal:decreto:1902-07-29;4489",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOSÉ DO BARREIRO, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404996",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-29-4491",
+      "titulo": "Decreto nº 4.491 de 29/07/1902",
+      "data": "1902-07-29",
+      "numero": "4491",
+      "urn": "urn:lex:br:federal:decreto:1902-07-29;4491",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SOBRAL, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-29-4490",
+      "titulo": "Decreto nº 4.490 de 29/07/1902",
+      "data": "1902-07-29",
+      "numero": "4490",
+      "urn": "urn:lex:br:federal:decreto:1902-07-29;4490",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE NITEROI, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "405004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-29-4493",
+      "titulo": "Decreto nº 4.493 de 29/07/1902",
+      "data": "1902-07-29",
+      "numero": "4493",
+      "urn": "urn:lex:br:federal:decreto:1902-07-29;4493",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 300:00$000 PARA O EMPRÉSTIMO DE QUE TRATA O ARTIGO 31, PARÁGRAFO 18, DA LEI NÚMERO 834, DE 30 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "404980",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-28-4487",
+      "titulo": "Decreto nº 4.487 de 28/07/1902",
+      "data": "1902-07-28",
+      "numero": "4487",
+      "urn": "urn:lex:br:federal:decreto:1902-07-28;4487",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO DR. FRANSCISCO PORTELLA PARA ORGANIZAR UMA SOCIEDADE ANÔNIMA SOB A DENOMINAÇÃO DE - SOCIEDADE BRASILEIRA EXPORTADORA DE CAFÉ"
+    },
+    {
+      "senadoId": "404984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-28-4488",
+      "titulo": "Decreto nº 4.488 de 28/07/1902",
+      "data": "1902-07-28",
+      "numero": "4488",
+      "urn": "urn:lex:br:federal:decreto:1902-07-28;4488",
+      "ementa": "CONCEDE A EMPRESA DE SAL E NAVEGAÇÃO AS VANTAGENS E REGALIAS DE PAQUETES PARA SEUS VAPORES \"ASSÚ\", \"AMAZONAS\", \"NITERÓI\", \"TUPY\" E \"UNIÃO\", QUE FAZEM VIAGENS REGULARES ENTRE OS PORTOS DA REPUBLICA."
+    },
+    {
+      "senadoId": "404956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4481",
+      "titulo": "Decreto nº 4.481 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4481",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4481",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE IGUASSÚ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4486",
+      "titulo": "Decreto nº 4.486 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4486",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4486",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE LIMOEIRO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4479",
+      "titulo": "Decreto nº 4.479 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4479",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4479",
+      "ementa": "ALTERA O DECRETO NÚMERO 2.029, DE 29 DE MAIO DE 1895, QUE CRIOU OS LUGARES DE SUPLENTES DO SUBSTITUTO DO JUIZ FEDERAL NAS CIRCUNSCRIÇÕES FEDERAL, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4483",
+      "titulo": "Decreto nº 4.483 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4483",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4483",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE TIMBAÚBA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404960",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4482",
+      "titulo": "Decreto nº 4.482 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4482",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4482",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE AMARAGY, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4485",
+      "titulo": "Decreto nº 4.485 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4485",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4485",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA CAPITAL DO ESTADO DE PENAMBUCO."
+    },
+    {
+      "senadoId": "404952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4480",
+      "titulo": "Decreto nº 4.480 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4480",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4480",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GAMELLEIRA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-26-4484",
+      "titulo": "Decreto nº 4.484 de 26/07/1902",
+      "data": "1902-07-26",
+      "numero": "4484",
+      "urn": "urn:lex:br:federal:decreto:1902-07-26;4484",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE VITORIA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-24-4477",
+      "titulo": "Decreto nº 4.477 de 24/07/1902",
+      "data": "1902-07-24",
+      "numero": "4477",
+      "urn": "urn:lex:br:federal:decreto:1902-07-24;4477",
+      "ementa": "PUBLICA A ADESÃO DE CRETA À CONVENÇÃO POSTAL UNIVERSAL DE WASHINGTON, DE 15 DE JULHO DE 1897, E AOS ACORDOS DA MESMA DATA, COMO ABAIXO SE DECLARA."
+    },
+    {
+      "senadoId": "404944",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-24-4478",
+      "titulo": "Decreto nº 4.478 de 24/07/1902",
+      "data": "1902-07-24",
+      "numero": "4478",
+      "urn": "urn:lex:br:federal:decreto:1902-07-24;4478",
+      "ementa": "REVOGA O DECRETO NÚMERO 3.495, DE 13 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "404936",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-23-4476",
+      "titulo": "Decreto nº 4.476 de 23/07/1902",
+      "data": "1902-07-23",
+      "numero": "4476",
+      "urn": "urn:lex:br:federal:decreto:1902-07-23;4476",
+      "ementa": "APROVA E MANDA EXECUTAR NOVA TABELA PARA DISTRIBUIÇÃO DE FARDAMENTO AOS APRENDIZES MARINHEIROS E REVOGA A QUE SE ACHA ANEXA AO DECRETO NÚMERO 1.714, DE 16 DE MAIO DE 1894, E AS RESPECTIVAS OBSERVAÇÕES."
+    },
+    {
+      "senadoId": "404932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-22-4475",
+      "titulo": "Decreto nº 4.475 de 22/07/1902",
+      "data": "1902-07-22",
+      "numero": "4475",
+      "urn": "urn:lex:br:federal:decreto:1902-07-22;4475",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CREDITO ESPECIAL DE 31:379$347 PARA INDENIZAÇÃO DAS DESPESAS FEITAS COM O CONGRESSO NACIONAL DE AGRICULTURA."
+    },
+    {
+      "senadoId": "404928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-21-4474",
+      "titulo": "Decreto nº 4.474 de 21/07/1902",
+      "data": "1902-07-21",
+      "numero": "4474",
+      "urn": "urn:lex:br:federal:decreto:1902-07-21;4474",
+      "ementa": "APROVA A PLANTA E ORÇAMENTO PARA A CONSTRUÇÃO DE UM MURO DE ARRIMO NO KILOMETRO 32 MAIS 100m DO PROLONGAMENTO DA ESTRADA DE FERRO BARÃO DE ARARUAMA."
+    },
+    {
+      "senadoId": "404908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4469",
+      "titulo": "Decreto nº 4.469 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4469",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4469",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PIRACICABA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4471",
+      "titulo": "Decreto nº 4.471 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4471",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4471",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MUNDO NOVO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4470",
+      "titulo": "Decreto nº 4.470 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4470",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4470",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JANUARIA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4468",
+      "titulo": "Decreto nº 4.468 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4468",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4468",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BAEPENDY, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4473",
+      "titulo": "Decreto nº 4.473 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4473",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4473",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE JAGUARÃO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4467",
+      "titulo": "Decreto nº 4.467 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4467",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4467",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PARANANGUÁ, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "404920",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-19-4472",
+      "titulo": "Decreto nº 4.472 de 19/07/1902",
+      "data": "1902-07-19",
+      "numero": "4472",
+      "urn": "urn:lex:br:federal:decreto:1902-07-19;4472",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JAICÓS, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "404896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-15-4466",
+      "titulo": "Decreto nº 4.466 de 15/07/1902",
+      "data": "1902-07-15",
+      "numero": "4466",
+      "urn": "urn:lex:br:federal:decreto:1902-07-15;4466",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 6:530$107, PARA PAGAMENTO DE VENCIMENTOS AO EX-INSPETOR DA ALFÂNDEGA DO ESTADO DO ESPÍRITO SANTO, APALCHRO MOTTA."
+    },
+    {
+      "senadoId": "404892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4465",
+      "titulo": "Decreto nº 4.465 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4465",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4465",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO DR. EUGENIO DE BARROS FALCÃO DE LACERDA E OUTROS PARA ORGANIZAREM UMA SOCIEDADE ANÔNIMA SOB A DENOMINAÇÃO DE - COOPERATIVA CIVIL DOS FUNCIONÁRIOS PÚBLICOS FEDERAIS."
+    },
+    {
+      "senadoId": "404868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4459",
+      "titulo": "Decreto nº 4.459 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4459",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4459",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TAMBORIL, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4458",
+      "titulo": "Decreto nº 4.458 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4458",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4458",
+      "ementa": "RESTABELECE O DECRETO NÚMERO 2.831, DE 14 DE MARÇO DE 1898."
+    },
+    {
+      "senadoId": "404872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4460",
+      "titulo": "Decreto nº 4.460 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4460",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4460",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE DOIS CORREGOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4463",
+      "titulo": "Decreto nº 4.463 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4463",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4463",
+      "ementa": "AVOCA PARA A ADMINISTRAÇÃO FEDERAL O SERVIÇO DE HIGIENE DEFENSIVA NA CAPITAL DA REPÚBLICA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "404876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4461",
+      "titulo": "Decreto nº 4.461 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4461",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4461",
+      "ementa": "CRIA TRÊS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPETININGA, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4464",
+      "titulo": "Decreto nº 4.464 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4464",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4464",
+      "ementa": "ESTABELECE AS BASES PARA A REGULAMENTAÇÃO DOS SERVIÇOS DE HIGIENE DE DEFESA DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "404880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-12-4462",
+      "titulo": "Decreto nº 4.462 de 12/07/1902",
+      "data": "1902-07-12",
+      "numero": "4462",
+      "urn": "urn:lex:br:federal:decreto:1902-07-12;4462",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO LEOPOLDO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-08-4457",
+      "titulo": "Decreto nº 4.457 de 08/07/1902",
+      "data": "1902-07-08",
+      "numero": "4457",
+      "urn": "urn:lex:br:federal:decreto:1902-07-08;4457",
+      "ementa": "RELEVA A MESA ADMINISTRATIVA DA SANTA CASA DE MISERICÓRDIA E HOSPITAL DE LAZAROS DE SABARÁ, NO ESTADO DE MINAS GERAIS, DA OBRIGAÇÃO DO PAGAMENTO DE 1:736:250."
+    },
+    {
+      "senadoId": "404852",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-05-4455",
+      "titulo": "Decreto nº 4.455 de 05/07/1902",
+      "data": "1902-07-05",
+      "numero": "4455",
+      "urn": "urn:lex:br:federal:decreto:1902-07-05;4455",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TEFFÉ, NO ESTADO DEO AMAZONAS."
+    },
+    {
+      "senadoId": "404848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-05-4454",
+      "titulo": "Decreto nº 4.454 de 05/07/1902",
+      "data": "1902-07-05",
+      "numero": "4454",
+      "urn": "urn:lex:br:federal:decreto:1902-07-05;4454",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE HUMAYTÁ, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-05-4453",
+      "titulo": "Decreto nº 4.453 de 05/07/1902",
+      "data": "1902-07-05",
+      "numero": "4453",
+      "urn": "urn:lex:br:federal:decreto:1902-07-05;4453",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO PAULO DE OLIVENÇA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-05-4456",
+      "titulo": "Decreto nº 4.456 de 05/07/1902",
+      "data": "1902-07-05",
+      "numero": "4456",
+      "urn": "urn:lex:br:federal:decreto:1902-07-05;4456",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE DORES DA BOA ESPERANÇA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-04-4452",
+      "titulo": "Decreto nº 4.452 de 04/07/1902",
+      "data": "1902-07-04",
+      "numero": "4452",
+      "urn": "urn:lex:br:federal:decreto:1902-07-04;4452",
+      "ementa": "ISENTA OS CONCESSINÁRIOS DAS OBRAS DO PORTO DE MANAUS DOS DIREITOS ADUANEIROS PARA TODO O MATERIAL DESTINADO AS REFERIDAS OBRAS, DE CONFORMIDADE COM LEI NÚMERO 813, DE 23 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "404822",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-03-4448",
+      "titulo": "Decreto nº 4.448 de 03/07/1902",
+      "data": "1902-07-03",
+      "numero": "4448",
+      "urn": "urn:lex:br:federal:decreto:1902-07-03;4448",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE MAGÉ, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404838",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-03-4451-a",
+      "titulo": "Decreto nº 4.451-A de 03/07/1902",
+      "data": "1902-07-03",
+      "numero": "4451-a",
+      "urn": "urn:lex:br:federal:decreto:1902-07-03;4451-a",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 119:533$333, SENDO 56:800$000 À VERBA - SECRETARIA DO SENADO - E 62:733$333 À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-03-4450",
+      "titulo": "Decreto nº 4.450 de 03/07/1902",
+      "data": "1902-07-03",
+      "numero": "4450",
+      "urn": "urn:lex:br:federal:decreto:1902-07-03;4450",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGOCIOS INTERIORES, POR CONTA DO EXERCICIO DE 1902, O CRÉDITO SUPLEMENTAR DE 1.381:875$000, SENDO : 316:575$000 Á VERBA SUBSÍDIO DOS SENADORES E 1.065:300$ A VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-03-4451",
+      "titulo": "Decreto nº 4.451 de 03/07/1902",
+      "data": "1902-07-03",
+      "numero": "4451",
+      "urn": "urn:lex:br:federal:decreto:1902-07-03;4451",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1902, O CRÉDITO SUPLEMENTAR DE 119:533$333, SENDO 56:800$000 Á VERBA - SECRETARIA DO SENADO - E 62:733$333 Á VERBA - SECRETERIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "404818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-03-4447",
+      "titulo": "Decreto nº 4.447 de 03/07/1902",
+      "data": "1902-07-03",
+      "numero": "4447",
+      "urn": "urn:lex:br:federal:decreto:1902-07-03;4447",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO GRANDE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-03-4449",
+      "titulo": "Decreto nº 4.449 de 03/07/1902",
+      "data": "1902-07-03",
+      "numero": "4449",
+      "urn": "urn:lex:br:federal:decreto:1902-07-03;4449",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ALÉM PARAIBA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-02-4446",
+      "titulo": "Decreto nº 4.446 de 02/07/1902",
+      "data": "1902-07-02",
+      "numero": "4446",
+      "urn": "urn:lex:br:federal:decreto:1902-07-02;4446",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 50:000$000 PARA OCORRER ÀS DESPESAS DE PROPAGANDA DE PRODUTOS MINERAIS."
+    },
+    {
+      "senadoId": "404810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-07-01-4445",
+      "titulo": "Decreto nº 4.445 de 01/07/1902",
+      "data": "1902-07-01",
+      "numero": "4445",
+      "urn": "urn:lex:br:federal:decreto:1902-07-01;4445",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA SOCIEDADE ANONIMA - A ACUMULADORA - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-27-4444",
+      "titulo": "Decreto nº 4.444 de 27/06/1902",
+      "data": "1902-06-27",
+      "numero": "4444",
+      "urn": "urn:lex:br:federal:decreto:1902-06-27;4444",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 1:190$215 PARA OCORRER AO PAGAMENTO AO MAJOR VICTOR GUILLOBEL E AO CAPITÃO ALFREDO VIDAL, DE GRATIFICAÇÕES, QUE ESTIVERAM EM DISPONIBILIDADE, COMO PROFESSORES DOS INSTITUTOS MILITARES DE ENSINO."
+    },
+    {
+      "senadoId": "404802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-24-4443",
+      "titulo": "Decreto nº 4.443 de 24/06/1902",
+      "data": "1902-06-24",
+      "numero": "4443",
+      "urn": "urn:lex:br:federal:decreto:1902-06-24;4443",
+      "ementa": "SUSPENDE A AUTORIZAÇÃO CONCEDIDA PELO DECRETO NÚMERO 3224, DE 23 DE FEVEREIRO DE 1864, \" REAL COMPANHIA INGLESA\" DE SEGUROS CONTRA OS RISCOS DE FOGO E DE VIDA, ESTABLECIDA EM LIVERPOOL."
+    },
+    {
+      "senadoId": "404798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-23-4442",
+      "titulo": "Decreto nº 4.442 de 23/06/1902",
+      "data": "1902-06-23",
+      "numero": "4442",
+      "urn": "urn:lex:br:federal:decreto:1902-06-23;4442",
+      "ementa": "SUBSTITUI AS CLÁUSULAS 9 E 33 ANEXAS AO DECRETO NÚMERO 4311, DE 6 DE JANEIRO DO CORRENTE ANO, QUE AUTORIZOU A REORGANIZAÇÃO DOS SERVIÇOS DE NAVEGAÇÃO A CARGO DO LLOYD BRAZILEIRO."
+    },
+    {
+      "senadoId": "404794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-23-4441",
+      "titulo": "Decreto nº 4.441 de 23/06/1902",
+      "data": "1902-06-23",
+      "numero": "4441",
+      "urn": "urn:lex:br:federal:decreto:1902-06-23;4441",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 80:000$ PARA SER APLICADO A CONSTRUÇÃO DE LINHAS TELEGRAFICAS NOS ESTADOS DE SERGIPE, CEARÁ, PARAÍBA."
+    },
+    {
+      "senadoId": "404791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-21-4440",
+      "titulo": "Decreto nº 4.440 de 21/06/1902",
+      "data": "1902-06-21",
+      "numero": "4440",
+      "urn": "urn:lex:br:federal:decreto:1902-06-21;4440",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFATARIA DE GUARDAS NACIONAIS NA COMARCA DE CANINDE, NO ESTADO DO CEARA."
+    },
+    {
+      "senadoId": "404779",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-21-4437",
+      "titulo": "Decreto nº 4.437 de 21/06/1902",
+      "data": "1902-06-21",
+      "numero": "4437",
+      "urn": "urn:lex:br:federal:decreto:1902-06-21;4437",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACINAIS NA COMARCA DE TATUHY, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-21-4439",
+      "titulo": "Decreto nº 4.439 de 21/06/1902",
+      "data": "1902-06-21",
+      "numero": "4439",
+      "urn": "urn:lex:br:federal:decreto:1902-06-21;4439",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JAGUARIBE-MIRIM, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-21-4438",
+      "titulo": "Decreto nº 4.438 de 21/06/1902",
+      "data": "1902-06-21",
+      "numero": "4438",
+      "urn": "urn:lex:br:federal:decreto:1902-06-21;4438",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE TAQUARY, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-17-4436",
+      "titulo": "Decreto nº 4.436 de 17/06/1902",
+      "data": "1902-06-17",
+      "numero": "4436",
+      "urn": "urn:lex:br:federal:decreto:1902-06-17;4436",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ANONIMA \"A ECONOMISADORA\"."
+    },
+    {
+      "senadoId": "404759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-14-4432",
+      "titulo": "Decreto nº 4.432 de 14/06/1902",
+      "data": "1902-06-14",
+      "numero": "4432",
+      "urn": "urn:lex:br:federal:decreto:1902-06-14;4432",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE CRATEHUS, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-14-4430",
+      "titulo": "Decreto nº 4.430 de 14/06/1902",
+      "data": "1902-06-14",
+      "numero": "4430",
+      "urn": "urn:lex:br:federal:decreto:1902-06-14;4430",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PIUMHY, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-14-4433",
+      "titulo": "Decreto nº 4.433 de 14/06/1902",
+      "data": "1902-06-14",
+      "numero": "4433",
+      "urn": "urn:lex:br:federal:decreto:1902-06-14;4433",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE BOCAYURU, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404755",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-14-4431",
+      "titulo": "Decreto nº 4.431 de 14/06/1902",
+      "data": "1902-06-14",
+      "numero": "4431",
+      "urn": "urn:lex:br:federal:decreto:1902-06-14;4431",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE PACATUBA, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-14-4434",
+      "titulo": "Decreto nº 4.434 de 14/06/1902",
+      "data": "1902-06-14",
+      "numero": "4434",
+      "urn": "urn:lex:br:federal:decreto:1902-06-14;4434",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE SANT'ANNA DO PARANAIBA, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "404771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-14-4435",
+      "titulo": "Decreto nº 4.435 de 14/06/1902",
+      "data": "1902-06-14",
+      "numero": "4435",
+      "urn": "urn:lex:br:federal:decreto:1902-06-14;4435",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ALEGRETE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-13-4429",
+      "titulo": "Decreto nº 4.429 de 13/06/1902",
+      "data": "1902-06-13",
+      "numero": "4429",
+      "urn": "urn:lex:br:federal:decreto:1902-06-13;4429",
+      "ementa": "SUBSTITUI AS CLÁUSULAS II E XVII DAS QUE BAIXARAM COM O DECRETO NÚMERO 4362, DE 17 DE MARÇO DE 1902."
+    },
+    {
+      "senadoId": "404743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-12-4428",
+      "titulo": "Decreto nº 4.428 de 12/06/1902",
+      "data": "1902-06-12",
+      "numero": "4428",
+      "urn": "urn:lex:br:federal:decreto:1902-06-12;4428",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 200:000$ PARA PAGAMENTO DA DESPESA COM A IMPRESSÃO DA OBRA - SERTUM PALMARUM."
+    },
+    {
+      "senadoId": "404735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-09-4426",
+      "titulo": "Decreto nº 4.426 de 09/06/1902",
+      "data": "1902-06-09",
+      "numero": "4426",
+      "urn": "urn:lex:br:federal:decreto:1902-06-09;4426",
+      "ementa": "APROVA A PLANTA DO NOVO PERFIL PROJETADO PELA COMPANHIA DÓCAS DE SANTOS PARA A MURALHA DO CAES DE PAQUETÁ A OUTEIRINHOS."
+    },
+    {
+      "senadoId": "404739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-09-4427",
+      "titulo": "Decreto nº 4.427 de 09/06/1902",
+      "data": "1902-06-09",
+      "numero": "4427",
+      "urn": "urn:lex:br:federal:decreto:1902-06-09;4427",
+      "ementa": "ELIMINA A CLÁUSULA 4ª DO CONTRATO CELEBRADO EM 30 DE JULHO DE 1893 COM A \"THE WESTERN TEGRAFO COMPANY\"."
+    },
+    {
+      "senadoId": "404727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-07-4424",
+      "titulo": "Decreto nº 4.424 de 07/06/1902",
+      "data": "1902-06-07",
+      "numero": "4424",
+      "urn": "urn:lex:br:federal:decreto:1902-06-07;4424",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE S. VICENTE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-07-4421",
+      "titulo": "Decreto nº 4.421 de 07/06/1902",
+      "data": "1902-06-07",
+      "numero": "4421",
+      "urn": "urn:lex:br:federal:decreto:1902-06-07;4421",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE RIBEIRÃO PRETO, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-07-4425",
+      "titulo": "Decreto nº 4.425 de 07/06/1902",
+      "data": "1902-06-07",
+      "numero": "4425",
+      "urn": "urn:lex:br:federal:decreto:1902-06-07;4425",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TRÊS PONTAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-07-4420",
+      "titulo": "Decreto nº 4.420 de 07/06/1902",
+      "data": "1902-06-07",
+      "numero": "4420",
+      "urn": "urn:lex:br:federal:decreto:1902-06-07;4420",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PALMAS, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "404719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-07-4422",
+      "titulo": "Decreto nº 4.422 de 07/06/1902",
+      "data": "1902-06-07",
+      "numero": "4422",
+      "urn": "urn:lex:br:federal:decreto:1902-06-07;4422",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA NA COMARCA DE S. JERONYMO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404723",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-07-4423",
+      "titulo": "Decreto nº 4.423 de 07/06/1902",
+      "data": "1902-06-07",
+      "numero": "4423",
+      "urn": "urn:lex:br:federal:decreto:1902-06-07;4423",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE VACARIA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404707",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-03-4419",
+      "titulo": "Decreto nº 4.419 de 03/06/1902",
+      "data": "1902-06-03",
+      "numero": "4419",
+      "urn": "urn:lex:br:federal:decreto:1902-06-03;4419",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA A SOCIEDADE DE SEGUROS MUTUO SOBRE A VIDA \" A EQUITATIVA DIS ESTADOS UNIDOS DO BRAZIL\" PELO DECRETO NÚMERO 3304, DE 30 DE MAIO DE 1899."
+    },
+    {
+      "senadoId": "404703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-06-02-4418",
+      "titulo": "Decreto nº 4.418 de 02/06/1902",
+      "data": "1902-06-02",
+      "numero": "4418",
+      "urn": "urn:lex:br:federal:decreto:1902-06-02;4418",
+      "ementa": "SUPRIME DA CONCESSÃO DA COMPANHIA ESTRADA DE FERRO SÃO PAULO - RIO GRANDE O RAMAL DE PRUNDENTOPOLIS A OUTIVEIROS E TRANSFERE A RESPECTIVA GARANTIA DE JUROS PARA O RAMAL DA CIDADE DE S.FRANCISCO."
+    },
+    {
+      "senadoId": "404695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-29-4416",
+      "titulo": "Decreto nº 4.416 de 29/05/1902",
+      "data": "1902-05-29",
+      "numero": "4416",
+      "urn": "urn:lex:br:federal:decreto:1902-05-29;4416",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA MARIA MADALENA, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-29-4417",
+      "titulo": "Decreto nº 4.417 de 29/05/1902",
+      "data": "1902-05-29",
+      "numero": "4417",
+      "urn": "urn:lex:br:federal:decreto:1902-05-29;4417",
+      "ementa": "APROVA O REGULAMENTO PARA O CORPO DE MAQUINISTAS NAVAES."
+    },
+    {
+      "senadoId": "404691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-27-4415",
+      "titulo": "Decreto nº 4.415 de 27/05/1902",
+      "data": "1902-05-27",
+      "numero": "4415",
+      "urn": "urn:lex:br:federal:decreto:1902-05-27;4415",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 225:939$794, PARA PAGAMENTO DE PORCENTAGENS DOS EMPREGADOS DA ALFÂNDEGA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-21-4414",
+      "titulo": "Decreto nº 4.414 de 21/05/1902",
+      "data": "1902-05-21",
+      "numero": "4414",
+      "urn": "urn:lex:br:federal:decreto:1902-05-21;4414",
+      "ementa": "TRANSFERE AO BANCO DA REPÚBLICA DO BRASIL A CONCESSÃO DA ESTRADA DE FERRO DA TIJUCA."
+    },
+    {
+      "senadoId": "404675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-17-4411",
+      "titulo": "Decreto nº 4.411 de 17/05/1902",
+      "data": "1902-05-17",
+      "numero": "4411",
+      "urn": "urn:lex:br:federal:decreto:1902-05-17;4411",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA CRUZ DAS PALMEIRAS, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-17-4410",
+      "titulo": "Decreto nº 4.410 de 17/05/1902",
+      "data": "1902-05-17",
+      "numero": "4410",
+      "urn": "urn:lex:br:federal:decreto:1902-05-17;4410",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. PEDRO DE PIRACICABA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "404679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-17-4412",
+      "titulo": "Decreto nº 4.412 de 17/05/1902",
+      "data": "1902-05-17",
+      "numero": "4412",
+      "urn": "urn:lex:br:federal:decreto:1902-05-17;4412",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. JOSÉ DA BOA-VISTA, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "404683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-17-4413",
+      "titulo": "Decreto nº 4.413 de 17/05/1902",
+      "data": "1902-05-17",
+      "numero": "4413",
+      "urn": "urn:lex:br:federal:decreto:1902-05-17;4413",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 13:350$ SUPLEMENTAR A VERBA 9 DO ARTIGO NÚMERO 2 DA LEI NÚMERO 746, DE 29 DE DEZEMBRI DE 1900, PARA PAGAMENTO DE AJUDAS DE CUSTO DE DEPUTADOS E SENADORES."
+    },
+    {
+      "senadoId": "404667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-16-4409",
+      "titulo": "Decreto nº 4.409 de 16/05/1902",
+      "data": "1902-05-16",
+      "numero": "4409",
+      "urn": "urn:lex:br:federal:decreto:1902-05-16;4409",
+      "ementa": "ALTERA OS ARTIGOS 4 E 9 DO DECRETO 4238, DE 15 DE NOVEMBRO DE 1901,  QUE CRIOU UMA MEDALHA MILITAR PARA O EXERCITO E ARMADA."
+    },
+    {
+      "senadoId": "404663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-13-4408",
+      "titulo": "Decreto nº 4.408 de 13/05/1902",
+      "data": "1902-05-13",
+      "numero": "4408",
+      "urn": "urn:lex:br:federal:decreto:1902-05-13;4408",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA SOCIEDADE ANÔNIMA DE ECONOMIAS E SEGUROS \" A ECONÔMICA\" E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404659",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-12-4407",
+      "titulo": "Decreto nº 4.407 de 12/05/1902",
+      "data": "1902-05-12",
+      "numero": "4407",
+      "urn": "urn:lex:br:federal:decreto:1902-05-12;4407",
+      "ementa": "CONCEDE AO DR. PEDRO SOUTO NAYOR PRIVILÉGIO POR 25 ANOS PARA A NAVEGAÇÃO A VAPOR E MELHORAMENTOS ENTRE SANTO ANTÔNIO, NO RIO MADEIRA, E O LUGAR QUE FICA DA FOZ DO RIO BENI."
+    },
+    {
+      "senadoId": "404655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-12-4406",
+      "titulo": "Decreto nº 4.406 de 12/05/1902",
+      "data": "1902-05-12",
+      "numero": "4406",
+      "urn": "urn:lex:br:federal:decreto:1902-05-12;4406",
+      "ementa": "ALTERA A CLÁUSULA XII DO DECRETO NÚMERO 4344, DE 15 DE FEVEREIRO DO CORRENTE ANO, QUE AUTORIZOU AS OBRAS DE MELHORAMENTO DO PORTO DE BELÉM, ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "404647",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-10-4404",
+      "titulo": "Decreto nº 4.404 de 10/05/1902",
+      "data": "1902-05-10",
+      "numero": "4404",
+      "urn": "urn:lex:br:federal:decreto:1902-05-10;4404",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA COMPANHIA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-10-4403",
+      "titulo": "Decreto nº 4.403 de 10/05/1902",
+      "data": "1902-05-10",
+      "numero": "4403",
+      "urn": "urn:lex:br:federal:decreto:1902-05-10;4403",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGOCIOS INTERIORES O CRÉDITO DE 200:000$, SUPLEMENTAR A VERBA SOCORROS PUBLICOS DO EXERCICIO DE 1902."
+    },
+    {
+      "senadoId": "404651",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-10-4405",
+      "titulo": "Decreto nº 4.405 de 10/05/1902",
+      "data": "1902-05-10",
+      "numero": "4405",
+      "urn": "urn:lex:br:federal:decreto:1902-05-10;4405",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS, NA COMARCA DE RIBEIRÃO PRETO, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-08-4402",
+      "titulo": "Decreto nº 4.402 de 08/05/1902",
+      "data": "1902-05-08",
+      "numero": "4402",
+      "urn": "urn:lex:br:federal:decreto:1902-05-08;4402",
+      "ementa": "DÁ PROVIDÊNCIAS SOBRE A PUBLICAÇÃO DAS INFORMAÇÕES DOS AGENTES DIPLOMÁTICOS E CONSULARES BRASILEIROS."
+    },
+    {
+      "senadoId": "404635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-07-4401",
+      "titulo": "Decreto nº 4.401 de 07/05/1902",
+      "data": "1902-05-07",
+      "numero": "4401",
+      "urn": "urn:lex:br:federal:decreto:1902-05-07;4401",
+      "ementa": "APROVA O REGULAMENTO PARA A CANTODORIA DA MARINHA EM SUBSTITUIÇÃO AO DE QUE TRATA O DECRETO NÚMERO 277C, DE 22 DE MARÇO DE 189O."
+    },
+    {
+      "senadoId": "404631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-06-4400",
+      "titulo": "Decreto nº 4.400 de 06/05/1902",
+      "data": "1902-05-06",
+      "numero": "4400",
+      "urn": "urn:lex:br:federal:decreto:1902-05-06;4400",
+      "ementa": "APROVA O CONVÊNIO CELEBRADO ENTRE O MINISTRO DA FAZENDA E O PRESIDENTE DO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "404627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-05-4399",
+      "titulo": "Decreto nº 4.399 de 05/05/1902",
+      "data": "1902-05-05",
+      "numero": "4399",
+      "urn": "urn:lex:br:federal:decreto:1902-05-05;4399",
+      "ementa": "TRANSFERE A EMPRESA INDUSTRIAL BRASILEIRA A CONCESSÃO A QUE SE REFEREM OS DECRETOS NÚMEROS 4386, DE 30 DE JUNHO DE 1869, 4457, DE 21 DE JANEIRO DE 1870, E 9328 DE 25 DE NOVEMBRO DE 1884."
+    },
+    {
+      "senadoId": "404623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-05-05-4398",
+      "titulo": "Decreto nº 4.398 de 05/05/1902",
+      "data": "1902-05-05",
+      "numero": "4398",
+      "urn": "urn:lex:br:federal:decreto:1902-05-05;4398",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 10:000$ PARA DESPESAS COM A AQUISIÇÃO DE SEMENTES E PLANTAS E TRANSPORTE DE ANIMAIS DE RAÇA."
+    },
+    {
+      "senadoId": "404619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-30-4397",
+      "titulo": "Decreto nº 4.397 de 30/04/1902",
+      "data": "1902-04-30",
+      "numero": "4397",
+      "urn": "urn:lex:br:federal:decreto:1902-04-30;4397",
+      "ementa": "APROVA E MANDA EXECUTAR O CÓDIGO INTERNACIONAL DE SIGNAES."
+    },
+    {
+      "senadoId": "404615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-29-4396",
+      "titulo": "Decreto nº 4.396 de 29/04/1902",
+      "data": "1902-04-29",
+      "numero": "4396",
+      "urn": "urn:lex:br:federal:decreto:1902-04-29;4396",
+      "ementa": "CONCEDE AO BANCO DOS FUNCIONÁRIOS PÚBLICOS AUTORIZAÇÃO PARA TRANSFERIR AO BACHAREL JOÃO ALVARES PEREIRA DE LIRA, OU A COMPANHIA QUE ORGANIZAR, EM PERNAMBUCO, OS DIREITOS E OBRIGAÇÕES CONSTANTES DO DECRETO NÚMERO 771, DE 20 DE SETEMBRO DE 1890."
+    },
+    {
+      "senadoId": "404607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-28-4394",
+      "titulo": "Decreto nº 4.394 de 28/04/1902",
+      "data": "1902-04-28",
+      "numero": "4394",
+      "urn": "urn:lex:br:federal:decreto:1902-04-28;4394",
+      "ementa": "CONCEDE AUTORIZAÇÃO A SOCIEDADE ANÔNIMA DENOMINADA COOPERATIVA CRUZEIRO - PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "404611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-28-4395",
+      "titulo": "Decreto nº 4.395 de 28/04/1902",
+      "data": "1902-04-28",
+      "numero": "4395",
+      "urn": "urn:lex:br:federal:decreto:1902-04-28;4395",
+      "ementa": "DECLARA SEM EFEITO O DECRETO 4334, DE 1 DE FEVEREIRO DE 1902."
+    },
+    {
+      "senadoId": "404603",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-23-4393",
+      "titulo": "Decreto nº 4.393 de 23/04/1902",
+      "data": "1902-04-23",
+      "numero": "4393",
+      "urn": "urn:lex:br:federal:decreto:1902-04-23;4393",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO MARCADO PARA TERMINAÇÃO DAS OBRAS DE CONSTRUÇÃO DA ESTRADA DE FERRO DA PRAÇA DA REPUBLICA A BARRA DE GUARATIBA."
+    },
+    {
+      "senadoId": "404591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-19-4390",
+      "titulo": "Decreto nº 4.390 de 19/04/1902",
+      "data": "1902-04-19",
+      "numero": "4390",
+      "urn": "urn:lex:br:federal:decreto:1902-04-19;4390",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE IRARA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-19-4391",
+      "titulo": "Decreto nº 4.391 de 19/04/1902",
+      "data": "1902-04-19",
+      "numero": "4391",
+      "urn": "urn:lex:br:federal:decreto:1902-04-19;4391",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE NAZARETH, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-19-4388",
+      "titulo": "Decreto nº 4.388 de 19/04/1902",
+      "data": "1902-04-19",
+      "numero": "4388",
+      "urn": "urn:lex:br:federal:decreto:1902-04-19;4388",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE CORRENTINA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404599",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-19-4392",
+      "titulo": "Decreto nº 4.392 de 19/04/1902",
+      "data": "1902-04-19",
+      "numero": "4392",
+      "urn": "urn:lex:br:federal:decreto:1902-04-19;4392",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE AVARÉ, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "404587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-19-4389",
+      "titulo": "Decreto nº 4.389 de 19/04/1902",
+      "data": "1902-04-19",
+      "numero": "4389",
+      "urn": "urn:lex:br:federal:decreto:1902-04-19;4389",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ALCOBAÇA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404579",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-16-4387",
+      "titulo": "Decreto nº 4.387 de 16/04/1902",
+      "data": "1902-04-16",
+      "numero": "4387",
+      "urn": "urn:lex:br:federal:decreto:1902-04-16;4387",
+      "ementa": "MANDA ADOTAR UNIFORMES PARA OS ALUNOS DO CURSO DE MACHINAS DA ESCOLA NAVAL."
+    },
+    {
+      "senadoId": "404575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-14-4386",
+      "titulo": "Decreto nº 4.386 de 14/04/1902",
+      "data": "1902-04-14",
+      "numero": "4386",
+      "urn": "urn:lex:br:federal:decreto:1902-04-14;4386",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 200:000$ PARA SER APLICADO A CONSTRUÇÃO DE LINHAS TELEGRÁFICAS NOS ESTADOS DE MINAS GERAIS, CEARÁ, PIAUÍ, ESPÍRITO SANTO  E SANTA CATARINA."
+    },
+    {
+      "senadoId": "404567",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-12-4384",
+      "titulo": "Decreto nº 4.384 de 12/04/1902",
+      "data": "1902-04-12",
+      "numero": "4384",
+      "urn": "urn:lex:br:federal:decreto:1902-04-12;4384",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE AMARANTE, NO ESTADO DO PIAUI."
+    },
+    {
+      "senadoId": "404571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-12-4385",
+      "titulo": "Decreto nº 4.385 de 12/04/1902",
+      "data": "1902-04-12",
+      "numero": "4385",
+      "urn": "urn:lex:br:federal:decreto:1902-04-12;4385",
+      "ementa": "REVOGA O DECRETO NÚMERO 3478, DE 7 DE NOVEMBRO DE 1899, SOBRE A COMISSÃO DOS AGENTES DE LEILÃO."
+    },
+    {
+      "senadoId": "404563",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-11-4383",
+      "titulo": "Decreto nº 4.383 de 11/04/1902",
+      "data": "1902-04-11",
+      "numero": "4383",
+      "urn": "urn:lex:br:federal:decreto:1902-04-11;4383",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 2:414$476 PARA OCORRER AO PAGAMENTO DE DIFERENÇAS DE ORDENADO QUE DEIXOU DE RECEBER O MAJOR DO QUADRO ESPECIAL DO EXÉRCITO JONATHAS DE MELLO BARRETO, PROFESSOR DO COLEGIO MILITAR."
+    },
+    {
+      "senadoId": "404559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-08-4382",
+      "titulo": "Decreto nº 4.382 de 08/04/1902",
+      "data": "1902-04-08",
+      "numero": "4382",
+      "urn": "urn:lex:br:federal:decreto:1902-04-08;4382",
+      "ementa": "CRIA A FUNDO DE AMORTIZAÇÃO DOS EMPRÉSTIMOS INTERNOS, PAPEL."
+    },
+    {
+      "senadoId": "404555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-07-4381",
+      "titulo": "Decreto nº 4.381 de 07/04/1902",
+      "data": "1902-04-07",
+      "numero": "4381",
+      "urn": "urn:lex:br:federal:decreto:1902-04-07;4381",
+      "ementa": "ABRE AO MINISTÉRIO DA INDUSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 570:000$ PARA A CONCLUSÃO DA INFRAESTRUTURA DO TRECHO INHANDUHY-URUGUAYANA, NA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAYANA."
+    },
+    {
+      "senadoId": "404551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-07-4380",
+      "titulo": "Decreto nº 4.380 de 07/04/1902",
+      "data": "1902-04-07",
+      "numero": "4380",
+      "urn": "urn:lex:br:federal:decreto:1902-04-07;4380",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE ANONIMA \"MOINHO FLUMINENSE\"."
+    },
+    {
+      "senadoId": "404543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-05-4378",
+      "titulo": "Decreto nº 4.378 de 05/04/1902",
+      "data": "1902-04-05",
+      "numero": "4378",
+      "urn": "urn:lex:br:federal:decreto:1902-04-05;4378",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE COARY, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-05-4375",
+      "titulo": "Decreto nº 4.375 de 05/04/1902",
+      "data": "1902-04-05",
+      "numero": "4375",
+      "urn": "urn:lex:br:federal:decreto:1902-04-05;4375",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFATARIA DE GUARDAS NACIONAIS NA COMARCA DE TRÊS PONTAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-05-4377",
+      "titulo": "Decreto nº 4.377 de 05/04/1902",
+      "data": "1902-04-05",
+      "numero": "4377",
+      "urn": "urn:lex:br:federal:decreto:1902-04-05;4377",
+      "ementa": "CRIA MAIS UMA BRIAGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. JOÃO DO RIO CLARO, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "404535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-05-4376",
+      "titulo": "Decreto nº 4.376 de 05/04/1902",
+      "data": "1902-04-05",
+      "numero": "4376",
+      "urn": "urn:lex:br:federal:decreto:1902-04-05;4376",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TEFE, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-05-4374",
+      "titulo": "Decreto nº 4.374 de 05/04/1902",
+      "data": "1902-04-05",
+      "numero": "4374",
+      "urn": "urn:lex:br:federal:decreto:1902-04-05;4374",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PARITINS, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-05-4379",
+      "titulo": "Decreto nº 4.379 de 05/04/1902",
+      "data": "1902-04-05",
+      "numero": "4379",
+      "urn": "urn:lex:br:federal:decreto:1902-04-05;4379",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITACOATIARA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-04-01-4373",
+      "titulo": "Decreto nº 4.373 de 01/04/1902",
+      "data": "1902-04-01",
+      "numero": "4373",
+      "urn": "urn:lex:br:federal:decreto:1902-04-01;4373",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DO BANCO DOS FUNCIONÁRIOS PÚBLICOS."
+    },
+    {
+      "senadoId": "404519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-29-4372",
+      "titulo": "Decreto nº 4.372 de 29/03/1902",
+      "data": "1902-03-29",
+      "numero": "4372",
+      "urn": "urn:lex:br:federal:decreto:1902-03-29;4372",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 480$ PARA PAGAMENTO AO TENENTE-CORONEL DO QUADRO ESPECIAL DO EXÉRCITO JOSÉ FAUSTINO DA SILVA, DA GRATIFICAÇÃO QUE DEIXOU DE RECEBER DE 1 DE JANEIRO A 18 DE ABRIL DE 1898, COMO PROFESSOR DA EXTINTA ESCOLA MILITAR DO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-26-4371",
+      "titulo": "Decreto nº 4.371 de 26/03/1902",
+      "data": "1902-03-26",
+      "numero": "4371",
+      "urn": "urn:lex:br:federal:decreto:1902-03-26;4371",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE 12:000$ PARA SATISFAZER A DESPESAS COM A IMPRENSÃO DE 3.000 EXEMPLARES DA OBRA \"LIÇÕES DE BALISTICA\" DO LENTE SUBSTITUTO DA ESCOLA NAVAL, CAPITÃO-TENENTE NARCISO DO PRADO CARVALHO."
+    },
+    {
+      "senadoId": "404499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-22-4367",
+      "titulo": "Decreto nº 4.367 de 22/03/1902",
+      "data": "1902-03-22",
+      "numero": "4367",
+      "urn": "urn:lex:br:federal:decreto:1902-03-22;4367",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES NOVO CRÉDITO DE 155:438$725, SUPLEMENTAR A VERBA SOCORROS PÚBLICOS DO EXERCÍCIO DE 1901."
+    },
+    {
+      "senadoId": "404507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-22-4369",
+      "titulo": "Decreto nº 4.369 de 22/03/1902",
+      "data": "1902-03-22",
+      "numero": "4369",
+      "urn": "urn:lex:br:federal:decreto:1902-03-22;4369",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CRUZ ALTA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-22-4368",
+      "titulo": "Decreto nº 4.368 de 22/03/1902",
+      "data": "1902-03-22",
+      "numero": "4368",
+      "urn": "urn:lex:br:federal:decreto:1902-03-22;4368",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-22-4370",
+      "titulo": "Decreto nº 4.370 de 22/03/1902",
+      "data": "1902-03-22",
+      "numero": "4370",
+      "urn": "urn:lex:br:federal:decreto:1902-03-22;4370",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA MARIA DA BOCA DO MONTE, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-18-4366",
+      "titulo": "Decreto nº 4.366 de 18/03/1902",
+      "data": "1902-03-18",
+      "numero": "4366",
+      "urn": "urn:lex:br:federal:decreto:1902-03-18;4366",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DA QUANTIA DE 127:099$329, SUPLEMENTAR AOS 11 CLASSES INATIVOS DO ARTIGO 15 DA LEI 746, DE 29 DE DEZEMBRO DE 1900."
+    },
+    {
+      "senadoId": "404479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-17-4362",
+      "titulo": "Decreto nº 4.362 de 17/03/1902",
+      "data": "1902-03-17",
+      "numero": "4362",
+      "urn": "urn:lex:br:federal:decreto:1902-03-17;4362",
+      "ementa": "AUTORIZA A RENOVAÇÃO DO CONTRATO CELEBRADO EM VIRTUDE DO DECRETO 3979, DE 28 DE MARÇO ANO PASSADO, COM A COMPANHIA NAVEGAÇÃO A VAPOR DO MARANHÃO."
+    },
+    {
+      "senadoId": "404471",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-17-4360",
+      "titulo": "Decreto nº 4.360 de 17/03/1902",
+      "data": "1902-03-17",
+      "numero": "4360",
+      "urn": "urn:lex:br:federal:decreto:1902-03-17;4360",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE OEIRAS, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "404483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-17-4363",
+      "titulo": "Decreto nº 4.363 de 17/03/1902",
+      "data": "1902-03-17",
+      "numero": "4363",
+      "urn": "urn:lex:br:federal:decreto:1902-03-17;4363",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO A COMPANHIA BRASILEIRA TORRES PARA INÍCIO DAS OBRAS DO PORTO DA VITÓRIA, ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "404475",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-17-4361",
+      "titulo": "Decreto nº 4.361 de 17/03/1902",
+      "data": "1902-03-17",
+      "numero": "4361",
+      "urn": "urn:lex:br:federal:decreto:1902-03-17;4361",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 553:618$151, PARA OCORRER AS DESPESAS COM TRABALHOS NECESSÁRIOS A CONCLUSÃO DA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAYANA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-17-4365",
+      "titulo": "Decreto nº 4.365 de 17/03/1902",
+      "data": "1902-03-17",
+      "numero": "4365",
+      "urn": "urn:lex:br:federal:decreto:1902-03-17;4365",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 400:000$ PARA PAGAMENTO DOS JUÍZES DE DIREITO NOMEADOS PELO GOVERNO FEDERAL ANTES DA ORGANIZAÇÃO JUDICIÁRIA DOS ESTADOS."
+    },
+    {
+      "senadoId": "404487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-17-4364",
+      "titulo": "Decreto nº 4.364 de 17/03/1902",
+      "data": "1902-03-17",
+      "numero": "4364",
+      "urn": "urn:lex:br:federal:decreto:1902-03-17;4364",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 100:000$ PARA SERVIÇO DE PROPAGANDA DE PRODUTOS AGRÍCOLAS EM VÁRIOS CENTROS COMERCIAIS."
+    },
+    {
+      "senadoId": "404455",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-08-4356",
+      "titulo": "Decreto nº 4.356 de 08/03/1902",
+      "data": "1902-03-08",
+      "numero": "4356",
+      "urn": "urn:lex:br:federal:decreto:1902-03-08;4356",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE CAVALARIAS DE GUARDAS NACIONAIS NA COMARCA DE BAGÉ, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404467",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-08-4359",
+      "titulo": "Decreto nº 4.359 de 08/03/1902",
+      "data": "1902-03-08",
+      "numero": "4359",
+      "urn": "urn:lex:br:federal:decreto:1902-03-08;4359",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ANÁPOLIS, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "404459",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-08-4357",
+      "titulo": "Decreto nº 4.357 de 08/03/1902",
+      "data": "1902-03-08",
+      "numero": "4357",
+      "urn": "urn:lex:br:federal:decreto:1902-03-08;4357",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CRUZ ALTA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-08-4358",
+      "titulo": "Decreto nº 4.358 de 08/03/1902",
+      "data": "1902-03-08",
+      "numero": "4358",
+      "urn": "urn:lex:br:federal:decreto:1902-03-08;4358",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPIPOCA, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-05-4355",
+      "titulo": "Decreto nº 4.355 de 05/03/1902",
+      "data": "1902-03-05",
+      "numero": "4355",
+      "urn": "urn:lex:br:federal:decreto:1902-03-05;4355",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE SEIS CONTOS DE RÉIS (6:000$)PARA PAGAMENTO DE VENCIMENTOS AO EX-SECRETÁRIO DO EXTINTO ARSENAL DE MARINHA DE PERNAMBUCO, JOÃO SABINO PREIRA GIRALDES."
+    },
+    {
+      "senadoId": "404447",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-04-4354",
+      "titulo": "Decreto nº 4.354 de 04/03/1902",
+      "data": "1902-03-04",
+      "numero": "4354",
+      "urn": "urn:lex:br:federal:decreto:1902-03-04;4354",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA OS CRÉDITOS DE 40:000$, 813:116$568 E 53:896$520, SUPLEMANTARES AS VERBAS ALFÂNDEGAS, MESAS DE RENDAS E COMISSÃO DE 2% NA VENDA DE ESTAMPILHAS DO EXERCÍCIO DE 1901."
+    },
+    {
+      "senadoId": "404443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-03-03-4353",
+      "titulo": "Decreto nº 4.353 de 03/03/1902",
+      "data": "1902-03-03",
+      "numero": "4353",
+      "urn": "urn:lex:br:federal:decreto:1902-03-03;4353",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 40:000$, AFIM DE SER APLICADO A LIQUIDAÇÃO DAS DESPESAS DO EXERCÍCIO DE 1900, REALIZADAS COM AS OBRAS COMPLEMENTARES DO AÇUDE DE QUIXADÁ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "404439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-26-4352",
+      "titulo": "Decreto nº 4.352 de 26/02/1902",
+      "data": "1902-02-26",
+      "numero": "4352",
+      "urn": "urn:lex:br:federal:decreto:1902-02-26;4352",
+      "ementa": "MODIFICA AS DISPOSIÇÕES DOS ARTIGO 30, 44, 68, 69, 80, 81 E 100 DO REGULAMENTO DA ESCOLA NAVAL, ANEXO AO DECRETO 3652, DE 2 DE MAIO DE 1900, E DO DECRETO 4313, DE 8 DE JANEIRO DE 1902."
+    },
+    {
+      "senadoId": "404431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-22-4350",
+      "titulo": "Decreto nº 4.350 de 22/02/1902",
+      "data": "1902-02-22",
+      "numero": "4350",
+      "urn": "urn:lex:br:federal:decreto:1902-02-22;4350",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BOTUCATU, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404435",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-22-4351",
+      "titulo": "Decreto nº 4.351 de 22/02/1902",
+      "data": "1902-02-22",
+      "numero": "4351",
+      "urn": "urn:lex:br:federal:decreto:1902-02-22;4351",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 100:000$ PARA A CONSTRUÇÃO DAS LINHAS TELEGRÁFICAS DE CUIABÁ A CORUMBÁ."
+    },
+    {
+      "senadoId": "404427",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-22-4349",
+      "titulo": "Decreto nº 4.349 de 22/02/1902",
+      "data": "1902-02-22",
+      "numero": "4349",
+      "urn": "urn:lex:br:federal:decreto:1902-02-22;4349",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA CAMARCA DE ARARAQUARA, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404423",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-22-4348",
+      "titulo": "Decreto nº 4.348 de 22/02/1902",
+      "data": "1902-02-22",
+      "numero": "4348",
+      "urn": "urn:lex:br:federal:decreto:1902-02-22;4348",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-21-4347",
+      "titulo": "Decreto nº 4.347 de 21/02/1902",
+      "data": "1902-02-21",
+      "numero": "4347",
+      "urn": "urn:lex:br:federal:decreto:1902-02-21;4347",
+      "ementa": "APROVA O NOVO PLANO DE ARREIAMENTO PARA A MONTADA DOS OFICIAS E PRAÇAS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "404415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-18-4346",
+      "titulo": "Decreto nº 4.346 de 18/02/1902",
+      "data": "1902-02-18",
+      "numero": "4346",
+      "urn": "urn:lex:br:federal:decreto:1902-02-18;4346",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE DE SEGUROS DE VIDA \"CAIXA GERAL DAS FAMÍLIAS\"."
+    },
+    {
+      "senadoId": "404411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-18-4345",
+      "titulo": "Decreto nº 4.345 de 18/02/1902",
+      "data": "1902-02-18",
+      "numero": "4345",
+      "urn": "urn:lex:br:federal:decreto:1902-02-18;4345",
+      "ementa": "ALTERA AS DIPOSIÇÕES DOS ARTIGOS 2º, PARÁGRAFO ÚNICO, E 11, DO REGULAMENTO ANEXO AO DECRETO 3.622, DE 26 DE MARÇO DE 1900."
+    },
+    {
+      "senadoId": "404399",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-15-4342",
+      "titulo": "Decreto nº 4.342 de 15/02/1902",
+      "data": "1902-02-15",
+      "numero": "4342",
+      "urn": "urn:lex:br:federal:decreto:1902-02-15;4342",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MOCOCA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "404403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-15-4343",
+      "titulo": "Decreto nº 4.343 de 15/02/1902",
+      "data": "1902-02-15",
+      "numero": "4343",
+      "urn": "urn:lex:br:federal:decreto:1902-02-15;4343",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA E MAIS UMA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTÔNIO DO MACHADO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404407",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-15-4344",
+      "titulo": "Decreto nº 4.344 de 15/02/1902",
+      "data": "1902-02-15",
+      "numero": "4344",
+      "urn": "urn:lex:br:federal:decreto:1902-02-15;4344",
+      "ementa": "CONCEDE AUTORIZAÇÃO PARA EXECUÇÃO DAS OBRAS E MELHORAMENTO DO PORTO DE BELÉM, ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "404395",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-12-4341",
+      "titulo": "Decreto nº 4.341 de 12/02/1902",
+      "data": "1902-02-12",
+      "numero": "4341",
+      "urn": "urn:lex:br:federal:decreto:1902-02-12;4341",
+      "ementa": "APROVA E MANDA EXECUTAR O PLANO DE UNIFORMES PARA OS OFICIAIS DA ARMADA E DAS CLASSES ANEXAS."
+    },
+    {
+      "senadoId": "404391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-08-4340",
+      "titulo": "Decreto nº 4.340 de 08/02/1902",
+      "data": "1902-02-08",
+      "numero": "4340",
+      "urn": "urn:lex:br:federal:decreto:1902-02-08;4340",
+      "ementa": "CONCEDE AUTORIZAÇÃO, SEM ONUS ALGUM PARA O TESOURO FEDERAL, PARA CONSTRUÇÃO USO E GOZO DE UMA ESTRADA DE FERRO A PARTIR DO PONTO ONDE ACABA A FRANCA NAVEGAÇÃO DO RIO BRANCO AO PONTO MAIS CONVENIENTE DA FRONTEIRA COM A GUYANA INGLEZA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-07-4339",
+      "titulo": "Decreto nº 4.339 de 07/02/1902",
+      "data": "1902-02-07",
+      "numero": "4339",
+      "urn": "urn:lex:br:federal:decreto:1902-02-07;4339",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DA QUANTIA DE 14:188$170 PARA PAGAMENTO DA EQUIPARAÇÃO DOS VENCIMENTOS DOS AUDITORES DE GUERRA DO 4º E 6º DISTRITO MILITARES AO DO AUDITOR DE GUERRA DA CAPITAL FEDERAL, NO PERÍODO DECORRIDO DE 27 DE DEZEMBRO DE 1901 A 31 DE DEZEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "404383",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-05-4338",
+      "titulo": "Decreto nº 4.338 de 05/02/1902",
+      "data": "1902-02-05",
+      "numero": "4338",
+      "urn": "urn:lex:br:federal:decreto:1902-02-05;4338",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO DE 5:763$004 PARA OCORRER AO PAGAMENTO DOS VENCIMENTOS QUE COMPETEM, DURANTE O PRESENTE ANO, AO AUXILIAR DO AUDITOR DA MARINHA."
+    },
+    {
+      "senadoId": "404367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4334",
+      "titulo": "Decreto nº 4.334 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4334",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4334",
+      "ementa": "APROVA AS ALTERAÇÕES DOS ESTATUTOS DA COMPANHIA ANTARCTICA PAULISTA."
+    },
+    {
+      "senadoId": "404359",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4332",
+      "titulo": "Decreto nº 4.332 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4332",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4332",
+      "ementa": "CRIA DUAS BRIGADAS DE INFATARIA DE GUARDAS NACIONAIS NA COMARCA DE PICOS, NO ESTADO PIAUÍ."
+    },
+    {
+      "senadoId": "404379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4337",
+      "titulo": "Decreto nº 4.337 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4337",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4337",
+      "ementa": "CONFIRMA A COMPANHIA ESTRADA DE FERRO VITÓRIA A MINAS A CONCESSÃO DA ESTRADA DE FERRO A QUE SE REFERE O DECRETO 1082, DE 28 DE NOVEMBRO DE 1890, E DA OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "404355",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4331",
+      "titulo": "Decreto nº 4.331 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4331",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4331",
+      "ementa": "CONCEDE AO CURSO ANEXO A ACADEMIA DO COMÉRCIO DE JUIZ DE FORA AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "404375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4336",
+      "titulo": "Decreto nº 4.336 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4336",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4336",
+      "ementa": "CONCEDE AUTORIZAÇÃO A BERNARDINO FERREIRA PACHECO SOUTELLO PARA INCORPORAR NA CIDADE DE NITEROI, ESTADO DO RIO DE JANEIRO, UMA SOCIEDADE ANÔNIMA, SOB A DENOMINAÇÃO - COMPANHIA BRASILEIRA DE ALIMENTAÇÃO."
+    },
+    {
+      "senadoId": "404363",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4333",
+      "titulo": "Decreto nº 4.333 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4333",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4333",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NA COMARCA DE S. JOÃO DO MONTE-NEGRO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-02-01-4335",
+      "titulo": "Decreto nº 4.335 de 01/02/1902",
+      "data": "1902-02-01",
+      "numero": "4335",
+      "urn": "urn:lex:br:federal:decreto:1902-02-01;4335",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO FIXADO DA CLÁUSULA III DO DECRETO 3725, DE 1 DE AGOSTO DE 1900, PARA INÍCIO DAS OBRAS DE MELHORAMENTO DO PORTO DE MANAUS."
+    },
+    {
+      "senadoId": "404351",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-28-4330",
+      "titulo": "Decreto nº 4.330 de 28/01/1902",
+      "data": "1902-01-28",
+      "numero": "4330",
+      "urn": "urn:lex:br:federal:decreto:1902-01-28;4330",
+      "ementa": "UNIFORMIZA O TIPO DAS APÓLICES DA DÍVIDA PÚBLICA INTERNA, PAPEL, DO JURO DE 5%."
+    },
+    {
+      "senadoId": "404347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-28-4329",
+      "titulo": "Decreto nº 4.329 de 28/01/1902",
+      "data": "1902-01-28",
+      "numero": "4329",
+      "urn": "urn:lex:br:federal:decreto:1902-01-28;4329",
+      "ementa": "MANDA EXECUTAR O TRATADO CONCLUÍDO ENTRE BRASIL E A GRÃ-BRETANIA EM 6 DE NOVEMBRO DE 1901."
+    },
+    {
+      "senadoId": "404339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-25-4327",
+      "titulo": "Decreto nº 4.327 de 25/01/1902",
+      "data": "1902-01-25",
+      "numero": "4327",
+      "urn": "urn:lex:br:federal:decreto:1902-01-25;4327",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE LAGOA VERMELHA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-25-4328",
+      "titulo": "Decreto nº 4.328 de 25/01/1902",
+      "data": "1902-01-25",
+      "numero": "4328",
+      "urn": "urn:lex:br:federal:decreto:1902-01-25;4328",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 8:100$, PARA PAGAMENTO AO DR. CLOVIS BEVILAQUA DO PRÊMIO E INDENIZAÇÃO DA DESPESAS DA IMPRENSSÃO DE SUA \"OBRA DIREITO DAS SUCESSÕES\"."
+    },
+    {
+      "senadoId": "404335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-22-4326",
+      "titulo": "Decreto nº 4.326 de 22/01/1902",
+      "data": "1902-01-22",
+      "numero": "4326",
+      "urn": "urn:lex:br:federal:decreto:1902-01-22;4326",
+      "ementa": "APROVA O REGULAMENTO DA INSPETORIA DE SAÚDE NAVAL."
+    },
+    {
+      "senadoId": "404331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-21-4325",
+      "titulo": "Decreto nº 4.325 de 21/01/1902",
+      "data": "1902-01-21",
+      "numero": "4325",
+      "urn": "urn:lex:br:federal:decreto:1902-01-21;4325",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 10:000$ PARA OCORRER AS DESPESAS DE REPRESENTAÇÃO DOS PRODUTOS BRASILEIROS NA EXPOSIÇÃO PAN-AMERICANA, EM BUFFALO."
+    },
+    {
+      "senadoId": "404327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-18-4324",
+      "titulo": "Decreto nº 4.324 de 18/01/1902",
+      "data": "1902-01-18",
+      "numero": "4324",
+      "urn": "urn:lex:br:federal:decreto:1902-01-18;4324",
+      "ementa": "CONVOCA EXTRAORDINARIAMENTE O CONGRESSO NACIONAL PARA O DIA 25 DE FEVEREIRO FUTURO."
+    },
+    {
+      "senadoId": "404323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-15-4323",
+      "titulo": "Decreto nº 4.323 de 15/01/1902",
+      "data": "1902-01-15",
+      "numero": "4323",
+      "urn": "urn:lex:br:federal:decreto:1902-01-15;4323",
+      "ementa": "APROVA O REGULAMENTO PARA O CORPO DE SAÚDE DA ARMADA."
+    },
+    {
+      "senadoId": "404315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-13-4321",
+      "titulo": "Decreto nº 4.321 de 13/01/1902",
+      "data": "1902-01-13",
+      "numero": "4321",
+      "urn": "urn:lex:br:federal:decreto:1902-01-13;4321",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 600:000$ PARA OCORRER AS DESPESAS COM A REVISÃO DA REDE DE ENCANAMENTO DO ABASTECIMENTO DE ÁGUA DA CAPITAL FEDERAL AQUISIÇÃO DE NOVOS MONARCAS E OUTROS MELHORAMENTOS PARA O SERVIÇO."
+    },
+    {
+      "senadoId": "404319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-13-4322",
+      "titulo": "Decreto nº 4.322 de 13/01/1902",
+      "data": "1902-01-13",
+      "numero": "4322",
+      "urn": "urn:lex:br:federal:decreto:1902-01-13;4322",
+      "ementa": "APROVA A PLANTA E ORÇAMENTO PARA CONSTRUÇÃO DE UM GALPÃO E A AQUISIÇÃO DE UMA MÁQUINA DE ENTALHAR PARA ESTRADA DE FERRO SANTA MARIA AO URUGUAI."
+    },
+    {
+      "senadoId": "404311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-11-4320",
+      "titulo": "Decreto nº 4.320 de 11/01/1902",
+      "data": "1902-01-11",
+      "numero": "4320",
+      "urn": "urn:lex:br:federal:decreto:1902-01-11;4320",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS DA COMARCA DA CAPOTAL DO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-11-4318",
+      "titulo": "Decreto nº 4.318 de 11/01/1902",
+      "data": "1902-01-11",
+      "numero": "4318",
+      "urn": "urn:lex:br:federal:decreto:1902-01-11;4318",
+      "ementa": "CRIA A MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BORBA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-11-4319",
+      "titulo": "Decreto nº 4.319 de 11/01/1902",
+      "data": "1902-01-11",
+      "numero": "4319",
+      "urn": "urn:lex:br:federal:decreto:1902-01-11;4319",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCAS DE S. FELIPE, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "404287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-10-4314",
+      "titulo": "Decreto nº 4.314 de 10/01/1902",
+      "data": "1902-01-10",
+      "numero": "4314",
+      "urn": "urn:lex:br:federal:decreto:1902-01-10;4314",
+      "ementa": "EXTINGUE O LABORATÓRIO PIROTÉCNICO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "404295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-10-4316",
+      "titulo": "Decreto nº 4.316 de 10/01/1902",
+      "data": "1902-01-10",
+      "numero": "4316",
+      "urn": "urn:lex:br:federal:decreto:1902-01-10;4316",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO  DE 68:195$189 PARA EXECUÇÃO DA SENTENÇA QUE CONDENOU A FAZENDA NACIONAL A PAGAR AO TENENTE-CORONEL PROCOPIO JOSÉ DOS REIS, POR PREJUÍZOS CAUSADOS DURANTE A REVOLTA DE 6 DE SETEMBRO DE 1893."
+    },
+    {
+      "senadoId": "404291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-10-4315",
+      "titulo": "Decreto nº 4.315 de 10/01/1902",
+      "data": "1902-01-10",
+      "numero": "4315",
+      "urn": "urn:lex:br:federal:decreto:1902-01-10;4315",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 10:772$200 PARA OCORRER AO PAGAMENTO A DOCENTES EM DISPONIBILIDADE DOS INSTITUTOS MILITARES DE ENSINO DE GRATIFICAÇÕES VENCIDAS DE 1898 A 1901."
+    },
+    {
+      "senadoId": "404299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-10-4317",
+      "titulo": "Decreto nº 4.317 de 10/01/1902",
+      "data": "1902-01-10",
+      "numero": "4317",
+      "urn": "urn:lex:br:federal:decreto:1902-01-10;4317",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 120:234$721 PARA PAGAMENTO DOS VENCIMENTOS AOS DOCENTES POSTOS EM DISPONIBILIDADE POR EFEITO REORGANISAÇÃO DOS INSTITUTOSW MILITARES DE ENSINO."
+    },
+    {
+      "senadoId": "404283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-08-4313",
+      "titulo": "Decreto nº 4.313 de 08/01/1902",
+      "data": "1902-01-08",
+      "numero": "4313",
+      "urn": "urn:lex:br:federal:decreto:1902-01-08;4313",
+      "ementa": "MODIFICA AS DIPOSIÇÕES DOS ARTIGOS 36 E 39 DO REGULAMENTO DA ESCOLA NAVAL, DE ACORDO COM O ARTIGO 151 PARÁGRAFO 4º DO CÓDIGO DE ENSINO."
+    },
+    {
+      "senadoId": "404279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-06-4312",
+      "titulo": "Decreto nº 4.312 de 06/01/1902",
+      "data": "1902-01-06",
+      "numero": "4312",
+      "urn": "urn:lex:br:federal:decreto:1902-01-06;4312",
+      "ementa": "MARCA A ÉPOCA DE QUE DEVE SER CONTADO O PRAZO PARA A CONCLUSÃO DO PRIMEIRO TRECHO DA ESTRADA DE FERRO DE CATALÃO A PALMAS."
+    },
+    {
+      "senadoId": "404267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-06-4309",
+      "titulo": "Decreto nº 4.309 de 06/01/1902",
+      "data": "1902-01-06",
+      "numero": "4309",
+      "urn": "urn:lex:br:federal:decreto:1902-01-06;4309",
+      "ementa": "TRANSFERE AO CORONEL JOÃO PEDRO CAMINHA A CONCESSÃO PARA EXPLORAÇÃO DE LINHAS TELEFÔNICAS NO ESTADO DA BAHIA, DE QUE É CONCESSIONÁRIOS FELISBERTO IGANÁCIO DA CUNHA."
+    },
+    {
+      "senadoId": "404275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-06-4311",
+      "titulo": "Decreto nº 4.311 de 06/01/1902",
+      "data": "1902-01-06",
+      "numero": "4311",
+      "urn": "urn:lex:br:federal:decreto:1902-01-06;4311",
+      "ementa": "AUTORIZA A REORGANIZAÇÃO DOS SERVIÇOS DE NAVEGAÇÃO QUE ESTIVERAM A CARGO DA EXTINTA COMPANHIA LLOYD BRAZILEIRO."
+    },
+    {
+      "senadoId": "404263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-06-4308",
+      "titulo": "Decreto nº 4.308 de 06/01/1902",
+      "data": "1902-01-06",
+      "numero": "4308",
+      "urn": "urn:lex:br:federal:decreto:1902-01-06;4308",
+      "ementa": "PRORROGA POR MAIS OITO MESES O PRAZO PARA INÍCIO DAS OBRAS DE MELHORAMENTOS DO PORTO DA CAPITAL DO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "404271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-06-4310",
+      "titulo": "Decreto nº 4.310 de 06/01/1902",
+      "data": "1902-01-06",
+      "numero": "4310",
+      "urn": "urn:lex:br:federal:decreto:1902-01-06;4310",
+      "ementa": "DÁ REGULAMENTO PARA OS TELEGRAMAS PRETERIDOS CONFORME A LEI 813, DE 23 DE DEZEMBRO DE 1901."
+    },
+    {
+      "senadoId": "404255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-04-4306",
+      "titulo": "Decreto nº 4.306 de 04/01/1902",
+      "data": "1902-01-04",
+      "numero": "4306",
+      "urn": "urn:lex:br:federal:decreto:1902-01-04;4306",
+      "ementa": "ABRE, POR CONTA DO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES,  O CRÉDITO DE 53:580$940, PARA PAGAMENTO DE DIVERSAS OBRAS E MELHORAMENTOS NO EDIFÍCIO DO  LYCEO DE ARTES E OFÍCIOS."
+    },
+    {
+      "senadoId": "404259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-04-4307",
+      "titulo": "Decreto nº 4.307 de 04/01/1902",
+      "data": "1902-01-04",
+      "numero": "4307",
+      "urn": "urn:lex:br:federal:decreto:1902-01-04;4307",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 16:060$, PARA PAGAR AO BACHAREL UMBELINO DE ZOUZA MARINHO OS SEUS ORDENADOS, COMO JUIZ DE DIREITO EM DISPONIBILIDADE."
+    },
+    {
+      "senadoId": "404251",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-04-4305",
+      "titulo": "Decreto nº 4.305 de 04/01/1902",
+      "data": "1902-01-04",
+      "numero": "4305",
+      "urn": "urn:lex:br:federal:decreto:1902-01-04;4305",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE IGUAPE, NO ESTADO DE S.PAULO."
+    },
+    {
+      "senadoId": "404243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-03-4303",
+      "titulo": "Decreto nº 4.303 de 03/01/1902",
+      "data": "1902-01-03",
+      "numero": "4303",
+      "urn": "urn:lex:br:federal:decreto:1902-01-03;4303",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 13:939$336 PARA PAGAMENTO AO MARECHAL JOSÉ DE ALMEIDA BARRETO, EM VIRTUDE DA SENTENÇA DO SUPREMO TRIBUNAL FEDERAL."
+    },
+    {
+      "senadoId": "404247",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1902-01-03-4304",
+      "titulo": "Decreto nº 4.304 de 03/01/1902",
+      "data": "1902-01-03",
+      "numero": "4304",
+      "urn": "urn:lex:br:federal:decreto:1902-01-03;4304",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DE 8:000$000, PARA OCORRER AO PAGEMENTO A CAMILO JOSÉ MONTEIRO DOS SANTOS E JOAQUIM GONÇALVES DA COSTA, CONTRA-MESTRE E MANDADOR DA EXTINTA OFICINA DE CORREIOS DO ARSENAL DE GUERRA DESTA CAPITAL, DE GRATIFICAÇÃO DE EXERCÍCIO A QUE TEM DIREITO."
+    }
+  ],
+  "pendencias": []
+}

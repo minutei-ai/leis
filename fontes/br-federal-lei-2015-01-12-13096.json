@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-01-12-13096",
+  "titulo": "Lei nº 13.096 de 12/01/2015",
+  "data": "2015-01-12",
+  "fonte": "https://normas.leg.br/api/public/binario/ee3408bc-370d-4195-8d03-0198337bfdb5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-01-12;13096",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-01-12%3B13096&tipo_documento=maior-detalhe",
+  "sha256_dados": "d167bdf2142765a5bbabd3195a175ea1a8c6400837349cab67581b5723939797",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:19.992Z",
+  "sha256_fonte": "a7a1cb007fd950c391e8497be36c183e5376bad237abe21db82a17bb0f847dd3",
+  "sha256_markdown": "e487c7c2261608cbe1ccfb6fbb0d3a2f8b62714fd5748b58c47836602ae0579d"
+}

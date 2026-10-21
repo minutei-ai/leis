@@ -1,0 +1,489 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2019",
+  "tipo": "MPV",
+  "ano": 2019,
+  "coletado_em": "2026-10-21T08:53:20.914Z",
+  "normas": [
+    {
+      "senadoId": "31899601",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-31-917",
+      "titulo": "Medida Provisória nº 917 de 31/12/2019",
+      "data": "2019-12-31",
+      "numero": "917",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-31;917",
+      "ementa": "Altera a Lei 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência."
+    },
+    {
+      "senadoId": "31899527",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-31-916",
+      "titulo": "Medida Provisória nº 916 de 31/12/2019",
+      "data": "2019-12-31",
+      "numero": "916",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-31;916",
+      "ementa": "Dispõe sobre o valor do salário mínimo a vigorar a partir de 1º de janeiro de 2020."
+    },
+    {
+      "senadoId": "31886334",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-27-915",
+      "titulo": "Medida Provisória nº 915 de 27/12/2019",
+      "data": "2019-12-27",
+      "numero": "915",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-27;915",
+      "ementa": "Aprimora os procedimentos de gestão e alienação dos imóveis da União."
+    },
+    {
+      "senadoId": "31865785",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-24-914",
+      "titulo": "Medida Provisória nº 914 de 24/12/2019",
+      "data": "2019-12-24",
+      "numero": "914",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-24;914",
+      "ementa": "Dispõe sobre o processo de escolha dos dirigentes das universidades federais, dos institutos federais e do Colégio Pedro II."
+    },
+    {
+      "senadoId": "31863846",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-20-913",
+      "titulo": "Medida Provisória nº 913 de 20/12/2019",
+      "data": "2019-12-20",
+      "numero": "913",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-20;913",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Agricultura, Pecuária e Abastecimento."
+    },
+    {
+      "senadoId": "31862667",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-19-912",
+      "titulo": "Medida Provisória nº 912 de 19/12/2019",
+      "data": "2019-12-19",
+      "numero": "912",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-19;912",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 31.793.585,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "31799714",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-10-910",
+      "titulo": "Medida Provisória nº 910 de 10/12/2019",
+      "data": "2019-12-10",
+      "numero": "910",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-10;910",
+      "ementa": "Altera a Lei nº 11.952, de 25 de junho de 2009, que dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, a Lei nº 8.666, de 21 de junho de 1993, que institui normas para licitações e contratos da administração pública, e a Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos."
+    },
+    {
+      "senadoId": "31799779",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-10-911",
+      "titulo": "Medida Provisória nº 911 de 10/12/2019",
+      "data": "2019-12-10",
+      "numero": "911",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-10;911",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 131.702.068,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "31797115",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-12-09-909",
+      "titulo": "Medida Provisória nº 909 de 09/12/2019",
+      "data": "2019-12-09",
+      "numero": "909",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-12-09;909",
+      "ementa": "Extingue o fundo formado pelas reservas monetárias de que trata o art. 12 da Lei nº 5.143, de 20 de outubro de 1966, e dá outras providências."
+    },
+    {
+      "senadoId": "31778243",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-28-908",
+      "titulo": "Medida Provisória nº 908 de 28/11/2019",
+      "data": "2019-11-28",
+      "numero": "908",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-28;908",
+      "ementa": "Institui o Auxílio Emergencial Pecuniário para os pescadores profissionais artesanais inscritos e ativos no Registro Geral da Atividade Pesqueira, domiciliados nos Municípios afetados pelas manchas de óleo."
+    },
+    {
+      "senadoId": "31766622",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-26-907",
+      "titulo": "Medida Provisória nº 907 de 26/11/2019",
+      "data": "2019-11-26",
+      "numero": "907",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-26;907",
+      "ementa": "Altera a Lei nº 9.610, de 19 de fevereiro de 1998, para dispor sobre direitos autorais, e a Lei nº 11.371, de 28 de novembro de 2006, e a Lei nº 12.249, de 11 de junho de 2010, para dispor sobre alíquotas do imposto sobre a renda incidentes sobre operações, autoriza o Poder Executivo federal a instituir a Embratur – Agência Brasileira de Promoção Internacional do Turismo e extingue a Embratur - Instituto Brasileiro de Turismo."
+    },
+    {
+      "senadoId": "31750555",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-19-906",
+      "titulo": "Medida Provisória nº 906 de 19/11/2019",
+      "data": "2019-11-19",
+      "numero": "906",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-19;906",
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana."
+    },
+    {
+      "senadoId": "31667327",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-11-905",
+      "titulo": "Medida Provisória nº 905 de 11/11/2019",
+      "data": "2019-11-11",
+      "numero": "905",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-11;905",
+      "ementa": "Institui o Contrato de Trabalho Verde e Amarelo, altera a legislação trabalhista, e dá outras providências."
+    },
+    {
+      "senadoId": "31667253",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-11-904",
+      "titulo": "Medida Provisória nº 904 de 11/11/2019",
+      "data": "2019-11-11",
+      "numero": "904",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-11;904",
+      "ementa": "Dispõe sobre a extinção do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores de Vias Terrestres - DPVAT e do Seguro Obrigatório de Danos Pessoais Causados por Embarcações ou por suas Cargas - DPEM, de que trata a alínea \"l\" do caput do art. 20 do Decreto-Lei nº 73, de 21 de novembro de 1966."
+    },
+    {
+      "senadoId": "31659894",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-06-903",
+      "titulo": "Medida Provisória nº 903 de 06/11/2019",
+      "data": "2019-11-06",
+      "numero": "903",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-06;903",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado do Ministério da Agricultura, Pecuária e Abastecimento."
+    },
+    {
+      "senadoId": "31640993",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-11-05-902",
+      "titulo": "Medida Provisória nº 902 de 05/11/2019",
+      "data": "2019-11-05",
+      "numero": "902",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-11-05;902",
+      "ementa": "Altera a Lei nº 5.895, de 19 de junho de 1973, que autoriza o Poder Executivo a transformar a autarquia Casa da Moeda em empresa pública, a Lei nº 4.502, de 30 de novembro de 1964, que dispõe sobre o Imposto de Consumo e reorganiza a Diretoria de Rendas Internas, a Lei nº 11.488, de 15 de junho de 2007, que cria o Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura - REIDI, reduz para vinte e quatro meses o prazo mínimo para utilização dos créditos da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - COFINS decorrentes da aquisição de edificações e amplia o prazo para pagamento de impostos e contribuições, e a Lei nº 12.995, de 18 de junho de 2014, que prorroga o prazo para a destinação de recursos aos Fundos Fiscais de Investimentos e altera a legislação tributária federal."
+    },
+    {
+      "senadoId": "31599162",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-10-18-901",
+      "titulo": "Medida Provisória nº 901 de 18/10/2019",
+      "data": "2019-10-18",
+      "numero": "901",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-10-18;901",
+      "ementa": "Altera a Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio dos Estados de Roraima e do Amapá terras pertencentes à União."
+    },
+    {
+      "senadoId": "31592159",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-10-17-900",
+      "titulo": "Medida Provisória nº 900 de 17/10/2019",
+      "data": "2019-10-17",
+      "numero": "900",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-10-17;900",
+      "ementa": "Autoriza a União, por intermédio do Ministério do Meio Ambiente, a contratar instituição financeira para criar e gerir fundo privado constituído por recursos decorrentes da conversão de multa de que trata o art. 72, § 4º, da Lei nº 9.605, de 12 de fevereiro de 1998, e dá outras providências."
+    },
+    {
+      "senadoId": "31585274",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-10-16-899",
+      "titulo": "Medida Provisória nº 899 de 16/10/2019",
+      "data": "2019-10-16",
+      "numero": "899",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-10-16;899",
+      "ementa": "Dispõe sobre a transação nas hipóteses que especifica."
+    },
+    {
+      "senadoId": "31582218",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-10-15-898",
+      "titulo": "Medida Provisória nº 898 de 15/10/2019",
+      "data": "2019-10-15",
+      "numero": "898",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-10-15;898",
+      "ementa": "Altera a Lei nº 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família, para dispor sobre o pagamento do benefício financeiro relativo ao mês de dezembro de 2019 como abono natalino."
+    },
+    {
+      "senadoId": "31513635",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-10-01-897",
+      "titulo": "Medida Provisória nº 897 de 01/10/2019",
+      "data": "2019-10-01",
+      "numero": "897",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-10-01;897",
+      "ementa": "Institui o Fundo de Aval Fraterno, dispõe sobre o patrimônio de afetação de propriedades rurais, a Cédula Imobiliária Rural, a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas, e dá outras providências."
+    },
+    {
+      "senadoId": "31306776",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-09-06-895",
+      "titulo": "Medida Provisória nº 895 de 06/09/2019",
+      "data": "2019-09-06",
+      "numero": "895",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-09-06;895",
+      "ementa": "Altera a Lei nº 12.933, de 26 de dezembro de 2013, que dispõe sobre o benefício do pagamento de meia-entrada para estudantes, idosos, pessoas com deficiência e jovens de quinze a vinte e nove anos comprovadamente carentes em espetáculos artístico-culturais e esportivos, e dá outras providências."
+    },
+    {
+      "senadoId": "31306850",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-09-06-896",
+      "titulo": "Medida Provisória nº 896 de 06/09/2019",
+      "data": "2019-09-06",
+      "numero": "896",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-09-06;896",
+      "ementa": "Altera a Lei nº 8.666, de 21 de junho de 1993, a Lei nº 10.520, de 17 de julho de 2002, a Lei nº 11.079, de 30 de dezembro de 2004, e a Lei nº 12.462, de 4 de agosto de 2011, para dispor sobre a forma de publicação dos atos da administração pública."
+    },
+    {
+      "senadoId": "31297724",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-09-04-894",
+      "titulo": "Medida Provisória nº 894 de 04/09/2019",
+      "data": "2019-09-04",
+      "numero": "894",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-09-04;894",
+      "ementa": "Institui pensão especial destinada a crianças com microcefalia decorrente do Zika Vírus, nascidas entre 1º de janeiro de 2015 e 31 de dezembro de 2018, beneficiárias do Benefício de Prestação Continuada."
+    },
+    {
+      "senadoId": "31252993",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-08-19-893",
+      "titulo": "Medida Provisória nº 893 de 19/08/2019",
+      "data": "2019-08-19",
+      "numero": "893",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-08-19;893",
+      "ementa": "Transforma o Conselho de Controle de Atividades Financeiras na Unidade de Inteligência Financeira."
+    },
+    {
+      "senadoId": "31226593",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-08-05-892",
+      "titulo": "Medida Provisória nº 892 de 05/08/2019",
+      "data": "2019-08-05",
+      "numero": "892",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-08-05;892",
+      "ementa": "Altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei nº 13.043, de 13 de novembro de 2014, para dispor sobre publicações empresariais obrigatórias."
+    },
+    {
+      "senadoId": "31226519",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-08-05-891",
+      "titulo": "Medida Provisória nº 891 de 05/08/2019",
+      "data": "2019-08-05",
+      "numero": "891",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-08-05;891",
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os planos de benefícios da Previdência Social, e a Lei nº 13.846, de 18 de junho de 2019, que institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade."
+    },
+    {
+      "senadoId": "31223897",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-08-01-890",
+      "titulo": "Medida Provisória nº 890 de 01/08/2019",
+      "data": "2019-08-01",
+      "numero": "890",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-08-01;890",
+      "ementa": "Institui o Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e autoriza o Poder Executivo federal a instituir serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde."
+    },
+    {
+      "senadoId": "31217015",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-07-24-889",
+      "titulo": "Medida Provisória nº 889 de 24/07/2019",
+      "data": "2019-07-24",
+      "numero": "889",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-07-24;889",
+      "ementa": "Altera a Lei Complementar nº 26, de 11 de setembro de 1975, para dispor sobre a possibilidade de movimentação das contas do Programa de Integração Social - PIS e do Programa de Formação do Patrimônio do Servidor Público - Pasep, e a Lei nº 8.036, de 11 de maio de 1990, para instituir a modalidade de saque-aniversário no Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências."
+    },
+    {
+      "senadoId": "31209516",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-07-18-888",
+      "titulo": "Medida Provisória nº 888 de 18/07/2019",
+      "data": "2019-07-18",
+      "numero": "888",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-07-18;888",
+      "ementa": "Altera a Lei nº 13.328, de 29 de julho de 2016, para dispor sobre as requisições de pessoal para a Defensoria Pública da União."
+    },
+    {
+      "senadoId": "31132464",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-06-25-887",
+      "titulo": "Medida Provisória nº 887 de 25/06/2019",
+      "data": "2019-06-25",
+      "numero": "887",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-06-25;887",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Comando da Aeronáutica do Ministério da Defesa, do Instituto de Fomento e Coordenação Industrial."
+    },
+    {
+      "senadoId": "31052645",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-06-18-886",
+      "titulo": "Medida Provisória nº 886 de 18/06/2019",
+      "data": "2019-06-18",
+      "numero": "886",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-06-18;886",
+      "ementa": "Altera a Lei nº 13.844, de 18 junho de 2019, a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 12.897, de 18 de dezembro de 2013, a Lei nº 9.613, de 3 de março de 1998, e a Lei nº 13.334, de 13 de setembro de 2016, para dispor sobre a organização básica dos órgãos da Presidência da República e dos Ministérios."
+    },
+    {
+      "senadoId": "31034373",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-06-17-885",
+      "titulo": "Medida Provisória nº 885 de 17/06/2019",
+      "data": "2019-06-17",
+      "numero": "885",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-06-17;885",
+      "ementa": "Altera a Lei nº 7.560, de 19 de dezembro de 1986, para alterar disposições acerca do Fundo Nacional Antidrogas, a Lei nº 11.343, de 23 de agosto de 2006, que estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas, e a Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público."
+    },
+    {
+      "senadoId": "31033419",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-06-14-884",
+      "titulo": "Medida Provisória nº 884 de 14/06/2019",
+      "data": "2019-06-14",
+      "numero": "884",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-06-14;884",
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa e dá outras providências."
+    },
+    {
+      "senadoId": "30961747",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-05-22-883",
+      "titulo": "Medida Provisória nº 883 de 22/05/2019",
+      "data": "2019-05-22",
+      "numero": "883",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-05-22;883",
+      "ementa": "Revoga a Medida Provisória nº 866, de 20 de dezembro de 2018, que autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A."
+    },
+    {
+      "senadoId": "30925491",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-05-03-882",
+      "titulo": "Medida Provisória nº 882 de 03/05/2019",
+      "data": "2019-05-03",
+      "numero": "882",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-05-03;882",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997- Código de Trânsito Brasileiro; a Lei nº 10.233, de 5 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre e cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes, a Lei nº 12.815, de 5 de junho de 2013, que dispõe sobre a exploração direta e indireta pela União de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e a Lei nº 13.334, de 13 de setembro de 2016, que cria o Programa de Parcerias de Investimentos - PPI, e dá outras providências."
+    },
+    {
+      "senadoId": "30921791",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-04-30-880",
+      "titulo": "Medida Provisória nº 880 de 30/04/2019",
+      "data": "2019-04-30",
+      "numero": "880",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-04-30;880",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 223.853.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30922439",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-04-30-881",
+      "titulo": "Medida Provisória nº 881 de 30/04/2019",
+      "data": "2019-04-30",
+      "numero": "881",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-04-30;881",
+      "ementa": "Institui a Declaração de Direitos de Liberdade Econômica, estabelece garantias de livre mercado, análise de impacto regulatório, e dá outras providências."
+    },
+    {
+      "senadoId": "30917379",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-04-24-879",
+      "titulo": "Medida Provisória nº 879 de 24/04/2019",
+      "data": "2019-04-24",
+      "numero": "879",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-04-24;879",
+      "ementa": "Altera a Lei nº 10.438, de 26 de abril de 2002, e a Lei nº 12.111, de 9 de dezembro de 2009."
+    },
+    {
+      "senadoId": "30873795",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-03-27-878",
+      "titulo": "Medida Provisória nº 878 de 27/03/2019",
+      "data": "2019-03-27",
+      "numero": "878",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-03-27;878",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Instituto do Patrimônio Histórico e Artístico Nacional."
+    },
+    {
+      "senadoId": "30867072",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-03-25-877",
+      "titulo": "Medida Provisória nº 877 de 25/03/2019",
+      "data": "2019-03-25",
+      "numero": "877",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-03-25;877",
+      "ementa": "Altera a Lei nº 9.430, de 27 de dezembro de 1996, para dispor sobre a dispensa de retenção de tributos federais na aquisição de passagens aéreas pelos órgãos ou pelas entidades da administração pública federal."
+    },
+    {
+      "senadoId": "30848383",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-03-13-876",
+      "titulo": "Medida Provisória nº 876 de 13/03/2019",
+      "data": "2019-03-13",
+      "numero": "876",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-03-13;876",
+      "ementa": "Altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins."
+    },
+    {
+      "senadoId": "30843102",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-03-12-875",
+      "titulo": "Medida Provisória nº 875 de 12/03/2019",
+      "data": "2019-03-12",
+      "numero": "875",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-03-12;875",
+      "ementa": "Institui o Auxílio Emergencial Pecuniário para Famílias Beneficiárias do Programa Bolsa Família e para Beneficiários do Benefício de Prestação Continuada da Assistência Social e da Renda Mensal Vitalícia, residentes no Município de Brumadinho, Estado de Minas Gerais, em decorrência do estado de calamidade pública reconhecido pela Secretaria Nacional de Proteção e Defesa Civil do Ministério do Desenvolvimento Regional."
+    },
+    {
+      "senadoId": "30843065",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-03-12-874",
+      "titulo": "Medida Provisória nº 874 de 12/03/2019",
+      "data": "2019-03-12",
+      "numero": "874",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-03-12;874",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Cidadania, no valor de R$ 1.368.600,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "30835396",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-03-01-873",
+      "titulo": "Medida Provisória nº 873 de 01/03/2019",
+      "data": "2019-03-01",
+      "numero": "873",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-03-01;873",
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a contribuição sindical, e revoga dispositivo da Lei nº 8.112, de 11 de dezembro de 1990."
+    },
+    {
+      "senadoId": "30785446",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-01-31-872",
+      "titulo": "Medida Provisória nº 872 de 31/01/2019",
+      "data": "2019-01-31",
+      "numero": "872",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-01-31;872",
+      "ementa": "Altera a Lei nº 10.480, de 2 de julho de 2002, para prorrogar o prazo de recebimento de gratificações pelos servidores ou empregados requisitados pela Advocacia-Geral da União, e a Lei nº 11.473, de 10 de maio de 2007, que dispõe sobre cooperação federativa no âmbito da segurança pública."
+    },
+    {
+      "senadoId": "30778420",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-01-18-871",
+      "titulo": "Medida Provisória nº 871 de 18/01/2019",
+      "data": "2019-01-18",
+      "numero": "871",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-01-18;871",
+      "ementa": "Institui o Programa Especial para Análise de Benefícios com Indícios de Irregularidade, o Programa de Revisão de Benefícios por Incapacidade, o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios e o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade, e dá outras providências."
+    },
+    {
+      "senadoId": "30766572",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2019-01-01-870",
+      "titulo": "Medida Provisória nº 870 de 01/01/2019",
+      "data": "2019-01-01",
+      "numero": "870",
+      "urn": "urn:lex:br:federal:medida.provisoria:2019-01-01;870",
+      "ementa": "Estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios."
+    }
+  ],
+  "pendencias": []
+}

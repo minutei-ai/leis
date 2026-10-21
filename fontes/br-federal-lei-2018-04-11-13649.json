@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-04-11-13649",
+  "titulo": "Lei nº 13.649 de 11/04/2018",
+  "data": "2018-04-11",
+  "fonte": "https://normas.leg.br/api/public/binario/b96fe852-dd84-4531-9a98-c859ba89ba9f/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-04-11;13649",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-04-11%3B13649&tipo_documento=maior-detalhe",
+  "sha256_dados": "68781424a70bd1eae13190c85ba9223f635f1fdb88fc74f95287116a3a8c4729",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:58.855Z",
+  "sha256_fonte": "663d3d27b6a587fc3e2279b90a6c76723ede8744a44469edfa1aa777dfa0a55c",
+  "sha256_markdown": "72edf2f1ca1b1fb1775d78feb633c50dc0cf3e0e19a1d4614d6a56bd9e799777"
+}

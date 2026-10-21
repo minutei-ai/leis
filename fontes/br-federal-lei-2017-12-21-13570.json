@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-21-13570",
+  "titulo": "Lei nº 13.570 de 21/12/2017",
+  "data": "2017-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/bd4651f2-7db3-4cda-ac50-e28caa0c6d23/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-21;13570",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-21%3B13570&tipo_documento=maior-detalhe",
+  "sha256_dados": "bc0b940d90192f04f72e496001fe9ec530a43facc191e0f85a525a7eed9cea35",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:45.317Z",
+  "sha256_fonte": "0542c83355f2bdfc3e65d593e661ceb36a912cf1015e402633bbe3e09600288b",
+  "sha256_markdown": "dc91287bb6d3f44fcc9e145f9213d25dc150181c12dece45c9e21d41157f59e6"
+}

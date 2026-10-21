@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-04-03-13642",
+  "titulo": "Lei nº 13.642 de 03/04/2018",
+  "data": "2018-04-03",
+  "fonte": "https://normas.leg.br/api/public/binario/e0198071-78a6-4f6d-a7b9-4afdea9bb60f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-04-03;13642",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-04-03%3B13642&tipo_documento=maior-detalhe",
+  "sha256_dados": "38130c5d398ee4b52faf8fd3cc07fed5b4ef4c28ab11f8ba48c086d66af226d0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:09.254Z",
+  "sha256_fonte": "c2880f18bd86cba56c7e00f2adb68209c03b47e8fdff20dbbb4e2f9191f67e76",
+  "sha256_markdown": "b72e2144becfadb79f1618225270c99590ec0c8f8be84350533daf74cfaf0c80"
+}

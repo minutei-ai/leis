@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-11-04-13183",
+  "titulo": "Lei nº 13.183 de 04/11/2015",
+  "data": "2015-11-04",
+  "fonte": "https://normas.leg.br/api/public/binario/7e94a5c4-ef99-41bd-8d6e-d5cdb2c9b1a6/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-11-04;13183",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-11-04%3B13183&tipo_documento=maior-detalhe",
+  "sha256_dados": "b6485a9b4dbaaad0e0f6273bceab58a4095947e350b706448f5a412a464b9c29",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:15.376Z",
+  "sha256_fonte": "9454e8761f5eb5541355af0bed95726d8f0fc2b1046e171f928eb5a88b51ee6e",
+  "sha256_markdown": "e00ff141fb1ddf346260b8c425c2e651760d6c7111c53a47be656e83baa6db1e"
+}

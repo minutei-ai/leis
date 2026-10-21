@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-30-13240",
+  "titulo": "Lei nº 13.240 de 30/12/2015",
+  "data": "2015-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/0ce7751a-52bc-4978-aa1e-c5ac0eb4f310/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-30;13240",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-30%3B13240&tipo_documento=maior-detalhe",
+  "sha256_dados": "156d38bd05d4a5ca0209a37030f98fa0edeb6364a20b6bcd1098c79872e58d03",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:57.352Z",
+  "sha256_fonte": "a25b4f54c9ba7e917506da0585c9dc335fbd83e74582faba96458616e9db3d47",
+  "sha256_markdown": "e7acbf94dbc14e299152d92c437e6585be6d1162a06004eea79dab2ab8117e82"
+}

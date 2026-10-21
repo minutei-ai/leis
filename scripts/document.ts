@@ -2,7 +2,8 @@ import { createHash } from "node:crypto";
 import { rename } from "node:fs/promises";
 import { gunzipSync, gzipSync } from "node:zlib";
 import { Effect, Schema } from "effect";
-import { Metadata } from "./catalog";
+import { Metadata, OriginalVersion, UpdatedVersion } from "./catalog";
+import { InvalidDocument } from "./convert";
 
 const markdownPath = (id: string) => {
   if (id.startsWith("br-municipal-3550308-")) return `municipais/3550308/${id}.md`;
@@ -73,6 +74,12 @@ export const saveDocument = Effect.fn("leis.saveDocument")(function* (
   markdown: string,
   data: Uint8Array | undefined,
 ) {
+  const priorFile = Bun.file(`fontes/${metadata.id}.json`);
+  if (yield* Effect.tryPromise(() => priorFile.exists())) {
+    const prior = Schema.decodeUnknownOption(Schema.parseJson(Metadata))(yield* Effect.tryPromise(() => priorFile.text()));
+    if (prior._tag === "Some" && Schema.is(OriginalVersion)(metadata.versao) && Schema.is(UpdatedVersion)(prior.value.versao))
+      return yield* Effect.fail(new InvalidDocument({ fonte: metadata.fonte, motivo: "Publicação original não pode substituir texto atualizado sob a mesma identidade" }));
+  }
   const json = yield* Schema.encode(Schema.parseJson(Metadata, { space: 2 }))(
     metadata,
   );

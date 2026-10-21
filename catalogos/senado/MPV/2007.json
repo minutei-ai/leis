@@ -1,0 +1,709 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2007",
+  "tipo": "MPV",
+  "ano": 2007,
+  "coletado_em": "2026-10-21T08:53:31.472Z",
+  "normas": [
+    {
+      "senadoId": "568885",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-31-412",
+      "titulo": "Medida Provisória nº 412 de 31/12/2007",
+      "data": "2007-12-31",
+      "numero": "412",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-31;412",
+      "ementa": "Dispõe sobre a prorrogação do Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - REPORTO, instituído pela Lei nº 11.033, de 21 de dezembro de 2004."
+    },
+    {
+      "senadoId": "568881",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-28-410",
+      "titulo": "Medida Provisória nº 410 de 28/12/2007",
+      "data": "2007-12-28",
+      "numero": "410",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-28;410",
+      "ementa": "Acrescenta artigo à Lei nº 5.889, de 8 de junho de 1973, criando o contrato de trabalhador rural por pequeno prazo, estabelece normas transitórias sobre a aposentadoria do trabalhador rural e prorroga o prazo de contratação de financiamentos rurais de que trata o § 6º do art. 1º da Lei nº 11.524, de 24 de setembro de 2007"
+    },
+    {
+      "senadoId": "568879",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-28-409",
+      "titulo": "Medida Provisória nº 409 de 28/12/2007",
+      "data": "2007-12-28",
+      "numero": "409",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-28;409",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 750.465.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568883",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-28-411",
+      "titulo": "Medida Provisória nº 411 de 28/12/2007",
+      "data": "2007-12-28",
+      "numero": "411",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-28;411",
+      "ementa": "Dispõe sobre o Programa Nacional de Inclusão de Jovens - ProJovem, instituído pela Lei nº 11.129, de 30 de junho de 2005, altera a Lei nº 10.836, de 9 de janeiro de 2004, e dá outras providências."
+    },
+    {
+      "senadoId": "568877",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-26-408",
+      "titulo": "Medida Provisória nº 408 de 26/12/2007",
+      "data": "2007-12-26",
+      "numero": "408",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-26;408",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 3.015.446.182,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568875",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-26-407",
+      "titulo": "Medida Provisória nº 407 de 26/12/2007",
+      "data": "2007-12-26",
+      "numero": "407",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-26;407",
+      "ementa": "Autoriza, em caráter excepcional, a prorrogação de contratos temporários no âmbito de projetos de cooperação com prazo determinado, implementados mediante acordos com organismos internacionais, altera as Leis nºs 10.480, de 2 de julho de 2002, prorrogando o prazo de recebimento de gratificações pelos servidores ou empregados requisitados pela Advocacia-Geral da União, 11.171, de 2 de setembro de 2005, e 11.233, de 22 de dezembro de 2005, prorrogando o prazo de manutenção de Funções Comissionadas Técnicas no DNIT e no Ministério da Cultura, respectivamente, e 11.539, de 8 de novembro de 2007, no tocante à Carreira de Analista de Infra-Estrutura."
+    },
+    {
+      "senadoId": "568873",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-21-406",
+      "titulo": "Medida Provisória nº 406 de 21/12/2007",
+      "data": "2007-12-21",
+      "numero": "406",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-21;406",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.250.733.499,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568871",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-18-405",
+      "titulo": "Medida Provisória nº 405 de 18/12/2007",
+      "data": "2007-12-18",
+      "numero": "405",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-18;405",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça Eleitoral e de diversos órgãos do Poder Executivo, no valor global de R$ 5.455.677.660,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568869",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-12-11-404",
+      "titulo": "Medida Provisória nº 404 de 11/12/2007",
+      "data": "2007-12-11",
+      "numero": "404",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-11;404",
+      "ementa": "Altera o art. 41-A da Lei nº 8.213, de 24 de julho de 1991, modificando a data de pagamento dos benefícios da previdência social."
+    },
+    {
+      "senadoId": "568867",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-11-26-403",
+      "titulo": "Medida Provisória nº 403 de 26/11/2007",
+      "data": "2007-11-26",
+      "numero": "403",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-11-26;403",
+      "ementa": "Dispõe sobre o exercício da atividade de franquia postal e dá outras providências."
+    },
+    {
+      "senadoId": "568865",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-11-23-402",
+      "titulo": "Medida Provisória nº 402 de 23/11/2007",
+      "data": "2007-11-23",
+      "numero": "402",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-11-23;402",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.646.339.765,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568863",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-11-13-401",
+      "titulo": "Medida Provisória nº 401 de 13/11/2007",
+      "data": "2007-11-13",
+      "numero": "401",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-11-13;401",
+      "ementa": "Altera as Leis nºs 11.134, de 15 de julho de 2005, e 11.361, de 19 de outubro de 2006, dispõe sobre a remuneração devida aos militares da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal e sobre os subsídios das carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal."
+    },
+    {
+      "senadoId": "568861",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-10-26-400",
+      "titulo": "Medida Provisória nº 400 de 26/10/2007",
+      "data": "2007-10-26",
+      "numero": "400",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-10-26;400",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência República e do Ministério da Saúde, no valor global de R$ 50.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568859",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-10-16-399",
+      "titulo": "Medida Provisória nº 399 de 16/10/2007",
+      "data": "2007-10-16",
+      "numero": "399",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-10-16;399",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República e dos Ministérios das Relações Exteriores, dos Transportes, do Meio Ambiente e da Integração Nacional, no valor global de R$ 456.625.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568857",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-10-10-398",
+      "titulo": "Medida Provisória nº 398 de 10/10/2007",
+      "data": "2007-10-10",
+      "numero": "398",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-10-10;398",
+      "ementa": "Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e dá outras providências."
+    },
+    {
+      "senadoId": "568855",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-10-09-397",
+      "titulo": "Medida Provisória nº 397 de 09/10/2007",
+      "data": "2007-10-09",
+      "numero": "397",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-10-09;397",
+      "ementa": "Revoga a Medida Provisória nº 385, de 22 de agosto de 2007, que acrescenta parágrafo único ao art. 1° ;da Lei n° ;11.368, de 9 de novembro de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei n° 8.213, de 24 de julho de 1991"
+    },
+    {
+      "senadoId": "568853",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-10-04-396",
+      "titulo": "Medida Provisória nº 396 de 04/10/2007",
+      "data": "2007-10-04",
+      "numero": "396",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-10-04;396",
+      "ementa": "Dá nova redação aos arts. 1º e 2º da Lei nº 10.841, de 18 de fevereiro de 2004, que autoriza a União a permutar Certificados Financeiros do Tesouro."
+    },
+    {
+      "senadoId": "568851",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-27-395",
+      "titulo": "Medida Provisória nº 395 de 27/09/2007",
+      "data": "2007-09-27",
+      "numero": "395",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-27;395",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 3.256.764.118,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568849",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-20-394",
+      "titulo": "Medida Provisória nº 394 de 20/09/2007",
+      "data": "2007-09-20",
+      "numero": "394",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-20;394",
+      "ementa": "Dá nova redação ao § 3º do art. 5º da Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm."
+    },
+    {
+      "senadoId": "568847",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-19-393",
+      "titulo": "Medida Provisória nº 393 de 19/09/2007",
+      "data": "2007-09-19",
+      "numero": "393",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-19;393",
+      "ementa": "Institui o Programa Nacional de Dragagem Portuária e Hidroviária, e dá outras providências."
+    },
+    {
+      "senadoId": "568841",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-18-390",
+      "titulo": "Medida Provisória nº 390 de 18/09/2007",
+      "data": "2007-09-18",
+      "numero": "390",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-18;390",
+      "ementa": "Revoga a Medida Provisória nº 379, de 28 de junho de 2007, que altera dispositivos da Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes."
+    },
+    {
+      "senadoId": "568843",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-18-391",
+      "titulo": "Medida Provisória nº 391 de 18/09/2007",
+      "data": "2007-09-18",
+      "numero": "391",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-18;391",
+      "ementa": "Revoga a Medida Provisória nº 380, de 28 de junho de 2007, que institui o Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai."
+    },
+    {
+      "senadoId": "568845",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-18-392",
+      "titulo": "Medida Provisória nº 392 de 18/09/2007",
+      "data": "2007-09-18",
+      "numero": "392",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-18;392",
+      "ementa": "Revoga a Medida Provisória no 382, de 24 de julho de 2007, dispõe sobre o desconto de créditos da Contribuição para o PIS/PASEP e da COFINS, na aquisição no mercado interno ou importação de bens de capita destinados à produção dos bens relacionados nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, e dos produtos classificados na Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006; autoriza a concessão de subvenção econômica nas operações de empréstimo e financiamento destinadas às empresas dos setores de calçados e artefatos de couro, têxtil, de confecção e de móveis de madeira."
+    },
+    {
+      "senadoId": "568839",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-05-389",
+      "titulo": "Medida Provisória nº 389 de 05/09/2007",
+      "data": "2007-09-05",
+      "numero": "389",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-05;389",
+      "ementa": "Dispõe sobre a Carreira de Analista de Infra- Estrutura e sobre o cargo isolado de provimento efetivo de Especialista em Infra- Estrutura Sênior."
+    },
+    {
+      "senadoId": "568837",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-09-05-388",
+      "titulo": "Medida Provisória nº 388 de 05/09/2007",
+      "data": "2007-09-05",
+      "numero": "388",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-09-05;388",
+      "ementa": "Altera e acresce dispositivos à Lei nº 10.101, de 19 de dezembro de 2000."
+    },
+    {
+      "senadoId": "568835",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-08-31-387",
+      "titulo": "Medida Provisória nº 387 de 31/08/2007",
+      "data": "2007-08-31",
+      "numero": "387",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-08-31;387",
+      "ementa": "Dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e sobre a forma de operacionalização do Programa de Subsídio à Habitação de Interesse Social - PSH nos exercícios de 2007 e 2008."
+    },
+    {
+      "senadoId": "568833",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-08-30-386",
+      "titulo": "Medida Provisória nº 386 de 30/08/2007",
+      "data": "2007-08-30",
+      "numero": "386",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-08-30;386",
+      "ementa": "Reabre o prazo de opção para integrar a Carreira da Previdência, da Saúde e do Trabalho e altera o Anexo II da Lei nº 11.358, de 19 de outubro de 2006, de modo a aumentar o subsídio da Carreira Policial Federal."
+    },
+    {
+      "senadoId": "568831",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-08-22-385",
+      "titulo": "Medida Provisória nº 385 de 22/08/2007",
+      "data": "2007-08-22",
+      "numero": "385",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-08-22;385",
+      "ementa": "Acrescenta parágrafo único ao art. 1º da Lei nº 11.368, de 9 de novembro de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei nº 8.213, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "568829",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-08-20-384",
+      "titulo": "Medida Provisória nº 384 de 20/08/2007",
+      "data": "2007-08-20",
+      "numero": "384",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-08-20;384",
+      "ementa": "Institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI, e dá outras providências."
+    },
+    {
+      "senadoId": "568827",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-08-16-383",
+      "titulo": "Medida Provisória nº 383 de 16/08/2007",
+      "data": "2007-08-16",
+      "numero": "383",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-08-16;383",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República, dos Ministérios dos Transportes, do Meio Ambiente, da Defesa, da Integração Nacional, das Cidades e de Operações Oficiais de Crédito, no valor global de R$ 1.253.983.299,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568825",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-07-24-382",
+      "titulo": "Medida Provisória nº 382 de 24/07/2007",
+      "data": "2007-07-24",
+      "numero": "382",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-07-24;382",
+      "ementa": "Dispõe sobre o desconto de créditos da Contribuição para o PIS/PASEP e da COFINS, na aquisição no mercado interno ou importação de bens de capital destinados à produção dos bens relacionados nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, e dos produtos classificados na Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006; autoriza a concessão de subvenção econômica nas operações de empréstimo e financiamento destinadas às empresas dos setores de calçados e artefatos de couro, têxtil, de confecção e de móveis de madeira; e dá outras providências."
+    },
+    {
+      "senadoId": "568823",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-07-05-381",
+      "titulo": "Medida Provisória nº 381 de 05/07/2007",
+      "data": "2007-07-05",
+      "numero": "381",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-07-05;381",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 6.334.721.758,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568821",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-06-28-380",
+      "titulo": "Medida Provisória nº 380 de 28/06/2007",
+      "data": "2007-06-28",
+      "numero": "380",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-06-28;380",
+      "ementa": "Institui o Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai."
+    },
+    {
+      "senadoId": "568819",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-06-28-379",
+      "titulo": "Medida Provisória nº 379 de 28/06/2007",
+      "data": "2007-06-28",
+      "numero": "379",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-06-28;379",
+      "ementa": "Altera dispositivos da Lei n° 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes."
+    },
+    {
+      "senadoId": "568817",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-06-20-378",
+      "titulo": "Medida Provisória nº 378 de 20/06/2007",
+      "data": "2007-06-20",
+      "numero": "378",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-06-20;378",
+      "ementa": "Dá nova redação ao caput do art. 5° da Lei n° 10.195, de 14 de fevereiro de 2001, que institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados."
+    },
+    {
+      "senadoId": "568815",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-06-18-377",
+      "titulo": "Medida Provisória nº 377 de 18/06/2007",
+      "data": "2007-06-18",
+      "numero": "377",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-06-18;377",
+      "ementa": "Acresce e altera dispositivos da Lei nº 10.683, de 28 de maio de 2003, acresce dispositivos à Lei nº 11.356, de 19 de outubro de 2006, cria a Secretaria de Planejamento de Longo Prazo da Presidência da República, cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas, e dá outras providências."
+    },
+    {
+      "senadoId": "568813",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-06-18-376",
+      "titulo": "Medida Provisória nº 376 de 18/06/2007",
+      "data": "2007-06-18",
+      "numero": "376",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-06-18;376",
+      "ementa": "Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 15.704.401.380,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568811",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-06-15-375",
+      "titulo": "Medida Provisória nº 375 de 15/06/2007",
+      "data": "2007-06-15",
+      "numero": "375",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-06-15;375",
+      "ementa": "Fixa a remuneração dos cargos e funções comissionadas da administração pública federal direta, autárquica e fundacional, e dá outras providências."
+    },
+    {
+      "senadoId": "568809",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-31-374",
+      "titulo": "Medida Provisória nº 374 de 31/05/2007",
+      "data": "2007-05-31",
+      "numero": "374",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-31;374",
+      "ementa": "Altera o art. 12 da Lei nº 10.666, de 8 de maio de 2003, que dispõe sobre o prazo para apresentação de dados para fins de compensação financeira entre o regime geral de previdência social e os regimes próprios de previdência social."
+    },
+    {
+      "senadoId": "568807",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-24-373",
+      "titulo": "Medida Provisória nº 373 de 24/05/2007",
+      "data": "2007-05-24",
+      "numero": "373",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-24;373",
+      "ementa": "Dispõe sobre a concessão de pensão especial às pessoas atingidas pela hanseníase que foram submetidas a isolamento e internação compulsórios."
+    },
+    {
+      "senadoId": "568805",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-22-372",
+      "titulo": "Medida Provisória nº 372 de 22/05/2007",
+      "data": "2007-05-22",
+      "numero": "372",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-22;372",
+      "ementa": "Dispõe sobre a utilização de recursos das exigibilidades de aplicação em crédito rural oriundos da poupança rural e dos depósitos à vista para financiamentos destinados à liquidação de dívidas de produtores rurais e suas cooperativas junto a fornecedores de insumos, relativas às safras 2004/2005 e 2005/2006, e dá outras providências."
+    },
+    {
+      "senadoId": "568803",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-10-371",
+      "titulo": "Medida Provisória nº 371 de 10/05/2007",
+      "data": "2007-05-10",
+      "numero": "371",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-10;371",
+      "ementa": "Acresce parágrafo ao art. 6° da Lei n° 569, de 21 de dezembro de 1948, que estabelece medidas de defesa sanitária animal."
+    },
+    {
+      "senadoId": "568801",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-10-370",
+      "titulo": "Medida Provisória nº 370 de 10/05/2007",
+      "data": "2007-05-10",
+      "numero": "370",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-10;370",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Agricultura, Pecuária e Abastecimento, no valor de R$ 25.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "568799",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-07-369",
+      "titulo": "Medida Provisória nº 369 de 07/05/2007",
+      "data": "2007-05-07",
+      "numero": "369",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-07;369",
+      "ementa": "Acresce e altera dispositivos da Lei n° 10.683, de 28 de maio de 2003, para criar a Secretaria Especial de Portos, e dá outras providências."
+    },
+    {
+      "senadoId": "568797",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-05-04-368",
+      "titulo": "Medida Provisória nº 368 de 04/05/2007",
+      "data": "2007-05-04",
+      "numero": "368",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-05-04;368",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados e aos Municípios, no exercício de 2007, com o objetivo de fomentar as exportações do País."
+    },
+    {
+      "senadoId": "568795",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-04-30-367",
+      "titulo": "Medida Provisória nº 367 de 30/04/2007",
+      "data": "2007-04-30",
+      "numero": "367",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-04-30;367",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da Defesa, no valor global de R$ 420.575.010,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568793",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-04-26-366",
+      "titulo": "Medida Provisória nº 366 de 26/04/2007",
+      "data": "2007-04-26",
+      "numero": "366",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-04-26;366",
+      "ementa": "Dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, e dá outras providências."
+    },
+    {
+      "senadoId": "568791",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-04-23-365",
+      "titulo": "Medida Provisória nº 365 de 23/04/2007",
+      "data": "2007-04-23",
+      "numero": "365",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-04-23;365",
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 5.200.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "568787",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-04-18-363",
+      "titulo": "Medida Provisória nº 363 de 18/04/2007",
+      "data": "2007-04-18",
+      "numero": "363",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-04-18;363",
+      "ementa": "Acrescenta o art. 2°-A e altera o art. 3° da Lei n° 10.184, de 12 de fevereiro de 2001, que dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais."
+    },
+    {
+      "senadoId": "568789",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-04-18-364",
+      "titulo": "Medida Provisória nº 364 de 18/04/2007",
+      "data": "2007-04-18",
+      "numero": "364",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-04-18;364",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Educação, da Justiça, dos Transportes, do Esporte, da Integração Nacional e das Cidades, no valor global de R$ 1.717.041.026,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568785",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-29-362",
+      "titulo": "Medida Provisória nº 362 de 29/03/2007",
+      "data": "2007-03-29",
+      "numero": "362",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-29;362",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de abril de 2007."
+    },
+    {
+      "senadoId": "568783",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-28-361",
+      "titulo": "Medida Provisória nº 361 de 28/03/2007",
+      "data": "2007-03-28",
+      "numero": "361",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-28;361",
+      "ementa": "Institui o Auxílio de Avaliação Educacional - AAE para os servidores que participarem de processos de avaliação realizados pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP ou pela Fundação CAPES; altera as Leis nºs 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.357, de 19 de outubro de 2006, e 11.458, de 19 de março de 2007; cria cargos em comissão do Grupo- Direção e Assessoramento Superiores - DAS; cria, em caráter temporário, funções de confiança denominadas Funções Comissionadas dos Jogos Pan-Americanos - FCPAN; e dá outras providências."
+    },
+    {
+      "senadoId": "568781",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-28-360",
+      "titulo": "Medida Provisória nº 360 de 28/03/2007",
+      "data": "2007-03-28",
+      "numero": "360",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-28;360",
+      "ementa": "Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências."
+    },
+    {
+      "senadoId": "568779",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-16-359",
+      "titulo": "Medida Provisória nº 359 de 16/03/2007",
+      "data": "2007-03-16",
+      "numero": "359",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-16;359",
+      "ementa": "Altera as Leis nºs 10.355, de 26 de dezembro de 2001, 10.855, de 1º de abril de 2004, 8.112, de 11 de dezembro de 1990, 11.457, de 16 de março de 2007, 10.910, de 15 de julho de 2004, 11.171, de 2 de setembro de 2005, e 11.233, de 22 de dezembro de 2005, e dá outras providências."
+    },
+    {
+      "senadoId": "568777",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-16-358",
+      "titulo": "Medida Provisória nº 358 de 16/03/2007",
+      "data": "2007-03-16",
+      "numero": "358",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-16;358",
+      "ementa": "Altera dispositivos das Leis nºs 11.345, de 14 de setembro de 2006, 8.212, de 24 de julho de 1991, e 8.685, de 20 de julho de 1993, e dá outras providências."
+    },
+    {
+      "senadoId": "553596",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-12-357",
+      "titulo": "Medida Provisória nº 357 de 12/03/2007",
+      "data": "2007-03-12",
+      "numero": "357",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-12;357",
+      "ementa": "Autoriza a renegociação dos créditos da União e da Centrais Elétricas Brasileiras S. A. - ELETROBRÁS junto à Itaipu Binacional, e dá outras providências."
+    },
+    {
+      "senadoId": "553594",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-03-07-356",
+      "titulo": "Medida Provisória nº 356 de 07/03/2007",
+      "data": "2007-03-07",
+      "numero": "356",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-03-07;356",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Esporte, no valor de R$ 100.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553592",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-02-23-355",
+      "titulo": "Medida Provisória nº 355 de 23/02/2007",
+      "data": "2007-02-23",
+      "numero": "355",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-02-23;355",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2007, com o objetivo de fomentar as exportações do País."
+    },
+    {
+      "senadoId": "553588",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-353",
+      "titulo": "Medida Provisória nº 353 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "353",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;353",
+      "ementa": "Dispõe sobre o término do processo de liquidação e a extinção da Rede Ferroviária Federal S.A. - RFFSA, altera dispositivos da Lei nº 10.233, de 5 de junho de 2001, e dá outras providências."
+    },
+    {
+      "senadoId": "553580",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-349",
+      "titulo": "Medida Provisória nº 349 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "349",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;349",
+      "ementa": "Institui o Fundo de Investimento do FGTS - FI-FGTS, altera a Lei nº 8.036, de 11 de maio de 1990, e dá outras providências."
+    },
+    {
+      "senadoId": "553584",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-351",
+      "titulo": "Medida Provisória nº 351 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "351",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;351",
+      "ementa": "Cria o Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura - REIDI, reduz para vinte e quatro meses o prazo mínimo para utilização dos créditos da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS decorrentes da aquisição de edificações, amplia o prazo para pagamento de impostos e contribuições e dá outras providências."
+    },
+    {
+      "senadoId": "553586",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-352",
+      "titulo": "Medida Provisória nº 352 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "352",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;352",
+      "ementa": "Dispõe sobre os incentivos às indústrias de equipamentos para TV Digital e de componentes eletrônicos semicondutores e sobre a proteção à propriedade intelectual das topografias de circuitos integrados."
+    },
+    {
+      "senadoId": "553576",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-347",
+      "titulo": "Medida Provisória nº 347 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "347",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;347",
+      "ementa": "Constitui fonte de recursos adicional para ampliação de limites operacionais da Caixa Econômica Federal - CEF."
+    },
+    {
+      "senadoId": "553582",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-350",
+      "titulo": "Medida Provisória nº 350 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "350",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;350",
+      "ementa": "Altera a Lei nº 10.188, de 12 de fevereiro de 2001, que cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra, e dá outras providências."
+    },
+    {
+      "senadoId": "553574",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-346",
+      "titulo": "Medida Provisória nº 346 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "346",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;346",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República, dos Ministérios dos Transportes, da Cultura e do Planejamento, Orçamento e Gestão e de Encargos Financeiros da União, no valor global de R$ 452.183.639,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553578",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-348",
+      "titulo": "Medida Provisória nº 348 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "348",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;348",
+      "ementa": "Institui o Fundo de Investimento em Participações em Infra-Estrutura - FIP-IE, e dá outras providências."
+    },
+    {
+      "senadoId": "553590",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-22-354",
+      "titulo": "Medida Provisória nº 354 de 22/01/2007",
+      "data": "2007-01-22",
+      "numero": "354",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-22;354",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério das Relações Exteriores, no valor de R$ 20.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553572",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-14-345",
+      "titulo": "Medida Provisória nº 345 de 14/01/2007",
+      "data": "2007-01-14",
+      "numero": "345",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-14;345",
+      "ementa": "Dispõe sobre cooperação federativa no âmbito da segurança pública."
+    },
+    {
+      "senadoId": "553568",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-05-343",
+      "titulo": "Medida Provisória nº 343 de 05/01/2007",
+      "data": "2007-01-05",
+      "numero": "343",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-05;343",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Ciência e Tecnologia, da Fazenda, da Justiça, dos Transportes, das Comunicações, do Planejamento, Orçamento e Gestão, do Esporte e da Defesa, no valor global de R$ 956.646.492,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553570",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2007-01-05-344",
+      "titulo": "Medida Provisória nº 344 de 05/01/2007",
+      "data": "2007-01-05",
+      "numero": "344",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-01-05;344",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Educação, dos Transportes e da Integração Nacional, no valor global de R$ 181.200.000,00, para os fins que especifica."
+    }
+  ],
+  "pendencias": []
+}

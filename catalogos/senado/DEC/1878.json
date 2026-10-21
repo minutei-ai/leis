@@ -1,0 +1,2987 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1878",
+  "tipo": "DEC",
+  "ano": 1878,
+  "coletado_em": "2026-10-21T08:52:14.795Z",
+  "normas": [
+    {
+      "senadoId": "411640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-28-7122",
+      "titulo": "Decreto nº 7.122 de 28/12/1878",
+      "data": "1878-12-28",
+      "numero": "7122",
+      "urn": "urn:lex:br:federal:decreto:1878-12-28;7122",
+      "ementa": "APROVA OS ESTATUTOS DO CLUBE DE REGATAS GUANABARENSE."
+    },
+    {
+      "senadoId": "411628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-28-7119",
+      "titulo": "Decreto nº 7.119 de 28/12/1878",
+      "data": "1878-12-28",
+      "numero": "7119",
+      "urn": "urn:lex:br:federal:decreto:1878-12-28;7119",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIUO DE ESTADO DOS NEGÓCIOS DA MARINHA A TRANSFERIR NO EXERCÍCIO DE 1877 A 1878, DE DIVERSAS VERBAS DO ORÇAMENTO DO MINISTÉRIO A SEU CARGO PARA AS RÚBRICAS - FORÇA NAVAL -, REFORMADOS - E EVENTUAIS -, A QUANTIA DE 271:690$000."
+    },
+    {
+      "senadoId": "411632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-28-7120",
+      "titulo": "Decreto nº 7.120 de 28/12/1878",
+      "data": "1878-12-28",
+      "numero": "7120",
+      "urn": "urn:lex:br:federal:decreto:1878-12-28;7120",
+      "ementa": "APROVA AS INSTRUÇÕES PELAS QUAIS SE DEVE REGULAR O SERVIÇO DO LAZARETO FLUTUANTE, ESTABELECIDO NA ENSEADA DA JURUJUBA."
+    },
+    {
+      "senadoId": "411636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-28-7121",
+      "titulo": "Decreto nº 7.121 de 28/12/1878",
+      "data": "1878-12-28",
+      "numero": "7121",
+      "urn": "urn:lex:br:federal:decreto:1878-12-28;7121",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS EM CADA UM DOS TERMOS DE GLÓRIA EO GOITÁ E TAQUARETINGA, NA PROVÍNICA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "411624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-21-7118",
+      "titulo": "Decreto nº 7.118 de 21/12/1878",
+      "data": "1878-12-21",
+      "numero": "7118",
+      "urn": "urn:lex:br:federal:decreto:1878-12-21;7118",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NOS ESTATUTOS DA COMPANHIA HIDRÁULICA RIO-GRANDENSE."
+    },
+    {
+      "senadoId": "411620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-21-7117",
+      "titulo": "Decreto nº 7.117 de 21/12/1878",
+      "data": "1878-12-21",
+      "numero": "7117",
+      "urn": "urn:lex:br:federal:decreto:1878-12-21;7117",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA DE CARRIS URBANOS E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "579724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-14-7113",
+      "titulo": "Decreto nº 7.113 de 14/12/1878",
+      "data": "1878-12-14",
+      "numero": "7113",
+      "urn": "urn:lex:br:federal:decreto:1878-12-14;7113",
+      "ementa": "CONCEDE PRIVILÉGIO A DAVID HENRIQUE DE PINNA PARA O HIDRÔMETRO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "579732",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-14-7115",
+      "titulo": "Decreto nº 7.115 de 14/12/1878",
+      "data": "1878-12-14",
+      "numero": "7115",
+      "urn": "urn:lex:br:federal:decreto:1878-12-14;7115",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA RIO-GRANDENSE DE ILUMINAÇÃO A GÁS, E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "579720",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-14-7112",
+      "titulo": "Decreto nº 7.112 de 14/12/1878",
+      "data": "1878-12-14",
+      "numero": "7112",
+      "urn": "urn:lex:br:federal:decreto:1878-12-14;7112",
+      "ementa": "CONCEDE AUTORIZAÇÃO PARA PROLONGAR A ESTRADA DE FERRO DA LEOPOLDINA, DE CATAGUAZES Á RAIZ DA SERRA DO PRESÍDIO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "579728",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-14-7114",
+      "titulo": "Decreto nº 7.114 de 14/12/1878",
+      "data": "1878-12-14",
+      "numero": "7114",
+      "urn": "urn:lex:br:federal:decreto:1878-12-14;7114",
+      "ementa": "CONCEDE PRIVILÉGIO A JAMES CLEMINSON PARA INTRODUZIR NO IMPÉRIO O MELHORAMENTO APLICÁVEL AOS CARROS DA ESTRADA DE FERRO."
+    },
+    {
+      "senadoId": "411616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-14-7116",
+      "titulo": "Decreto nº 7.116 de 14/12/1878",
+      "data": "1878-12-14",
+      "numero": "7116",
+      "urn": "urn:lex:br:federal:decreto:1878-12-14;7116",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DE ALGUMAS DISPOSIÇÕES DOS ESTATUTOS DO BANCO COMERCIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "579708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7109",
+      "titulo": "Decreto nº 7.109 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7109",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7109",
+      "ementa": "CONCEDE PRIVILÉGIO A JOAQUIM RODRIGUES DE AQUINO LEITE PARA FABRICAR E VENDER A MÁQUINA DE SUA INVENÇÃO, DENOMINADA PROGRESSO MINEIRO."
+    },
+    {
+      "senadoId": "579716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7111",
+      "titulo": "Decreto nº 7.111 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7111",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7111",
+      "ementa": "AUTORIZA TRANSPORTES DE SOBRAS NA IMPORTÂNCIA DE 11:709$039 PARA DESPESAS DA ILMA. CÂMARA MUNICIPAL DA CÔRTE NO EXERCÍCIO DE 1878."
+    },
+    {
+      "senadoId": "579696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7106",
+      "titulo": "Decreto nº 7.106 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7106",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7106",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA INDUSTRIAL DOIS DE JULHO E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "579704",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7108",
+      "titulo": "Decreto nº 7.108 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7108",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7108",
+      "ementa": "AUTORIZA A COMPANHIA THE MARINE INSURANCE, A ESTABELECER UMA AGÊNCIA NA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "579692",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7105",
+      "titulo": "Decreto nº 7.105 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7105",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7105",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO MARCADO NA CLÁUSULA 6ª DO DECRETO N. 5270 DE 26 DE ABRIL DE 1873, PARA CONCLUSÃO DA LINHA TELEGRÁFICA SUBMARINA DO NORTE DO IMPÉRIO."
+    },
+    {
+      "senadoId": "579700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7107",
+      "titulo": "Decreto nº 7.107 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7107",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7107",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A JOÃO CARLOS BACKHEUSER E OUTROS PARA EXPLORAREM OURO E OUTROS METAIS NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "579712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-12-03-7110",
+      "titulo": "Decreto nº 7.110 de 03/12/1878",
+      "data": "1878-12-03",
+      "numero": "7110",
+      "urn": "urn:lex:br:federal:decreto:1878-12-03;7110",
+      "ementa": "PROMULGA A DECLARAÇÃO ENTRE O BRASIL E A FRANÇA APLICANDO AOS RESPECTIVOS CONSULES A CONVENÇÃO CONSULAR ENTRE O BRASIL E A ITÁLIA."
+    },
+    {
+      "senadoId": "579656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7096",
+      "titulo": "Decreto nº 7.096 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7096",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7096",
+      "ementa": "CONCEDE PERMISSÃO AO DR. JORGE SCARBOROUGH BARNSLEY PARA EXPLORAR OURO E OUTROS METAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "579652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7095",
+      "titulo": "Decreto nº 7.095 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7095",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7095",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A D. ANA MARIA DE SENA ROSADO PARA EXPLORAR JAZIDAS DE OURO NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "579668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7099",
+      "titulo": "Decreto nº 7.099 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7099",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7099",
+      "ementa": "AUTORIZA A ABERTURA DE UM CRÉDITO SUPLEMENTAR DE 305:436$368, PARA OCORRER ÁS DESPESAS DA VERBA - QUADRO DO EXÉRCITO - DO MINISTÉRIO DA GUERRA, NO EXERCÍCIO DE 1877-1878."
+    },
+    {
+      "senadoId": "579680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7102",
+      "titulo": "Decreto nº 7.102 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7102",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7102",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS A TRANSPORTAR DE UMAS PARA OUTRAS RÚBRICAS DO ORÇAMENTO, QUE VIGOROU NO EXERCÍCIO DE 1877-1878, SOBRAS NO VALOR DE 162:094$700."
+    },
+    {
+      "senadoId": "579676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7101",
+      "titulo": "Decreto nº 7.101 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7101",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7101",
+      "ementa": "SUJEITA A TAXAS ESPECIAIS DIVERSAS MERCADORIAS DESPACHADAS PARA CONSUMO NAS ALFÂNDEGAS DO RIO GRANDE, PORTO ALEGRE, URUGUAIANA, NA PROVÍNCIA DE SÃO PEDRO DO ERIO GRANDE DO SUL, E DE CORUMBÁ DE MATO GROSSO."
+    },
+    {
+      "senadoId": "579688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7104",
+      "titulo": "Decreto nº 7.104 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7104",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7104",
+      "ementa": "ABRE AO MINISTERIO DOS NEGOCIOS DA AGRICULTURA, COMERCIO E OBRAS PUBLICAS UM CREDITO EXTRAORDINARIO DE 3.819:373$000 PARA OCORRER A DESPESAS DA RUBRICA - TERRAS PUBLICAS E COLONIZAÇÃO - NO EXERCICIO DE 1877-1878."
+    },
+    {
+      "senadoId": "579672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7100",
+      "titulo": "Decreto nº 7.100 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7100",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7100",
+      "ementa": "ABRE UM CRÉDITO SUPLEMENTAR DE 2.426:770$096 E AUTORIZA O TRANSPORTE DAS SOBRAS DE 235:296$000 DE UMAS PARA OUTRAS RÚBRICAS DO MINISTÉRIO DA FAZENDA NO EXERCÍCIO DE 1877-1878."
+    },
+    {
+      "senadoId": "579644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7093",
+      "titulo": "Decreto nº 7.093 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7093",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7093",
+      "ementa": "CONCEDE A LUCÍDIO JOSÉ CANDIDO PEREIRA DO LAGO AUTORIZAÇÃO PARA, POR SI OU POR UMA EMPRESA CONSTRUIR, USAR E GOZAR PELO PRAZO DE VINTE ANOS, UMA LINHA DE CARRIS DE FERRO, DO ENGENHO NOVO AO ENGENHO DE DENTRO."
+    },
+    {
+      "senadoId": "579648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7094",
+      "titulo": "Decreto nº 7.094 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7094",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7094",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A ANTÔNIO AUGUSTO NOGUEIRA DA GAMA PARA EXPLORAR CARVÃO DE PEDRA, FERRO, E OUTRAS METAIS NA SESMARIA DA CAPELINHA."
+    },
+    {
+      "senadoId": "579664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7098",
+      "titulo": "Decreto nº 7.098 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7098",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7098",
+      "ementa": "DESIGNA A ORDEM EM QUE OS JUÍZES SUBSTITUTOS DA CÔRTE DEVERÃO COOPERAR COM OS JUÍZES DE DIREITO, E SUBSTITUIR-SE RECIPROCAMENTE NO ANO DE 1879."
+    },
+    {
+      "senadoId": "579684",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7103",
+      "titulo": "Decreto nº 7.103 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7103",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7103",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DA QUANTIA DE 100:268$337 PARA OCORRER A DESPESAS DA VERBA - ESTRADA DE FERRO D. PEDRO II - NO EXERCÍCIO DE 1877-1878."
+    },
+    {
+      "senadoId": "579660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-30-7097",
+      "titulo": "Decreto nº 7.097 de 30/11/1878",
+      "data": "1878-11-30",
+      "numero": "7097",
+      "urn": "urn:lex:br:federal:decreto:1878-11-30;7097",
+      "ementa": "DESIGNA A ORDEM DA SUBSTITUIÇÃO RECÍPROCA DOS JUÍZES DE DIREITO DA CÔRTE NO ANO DE 1879."
+    },
+    {
+      "senadoId": "579636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7091",
+      "titulo": "Decreto nº 7.091 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7091",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7091",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A TRANSFERIR DE UMAS PARA OUTRAS RÚBRICAS DA DESPESA DO MESMO MINISTÉRIO NO EXERCÍCIO DE 1877-1878 A SOMA DE 219:922$147."
+    },
+    {
+      "senadoId": "579617",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7086",
+      "titulo": "Decreto nº 7.086 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7086",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7086",
+      "ementa": "DECLARA OS VENCIMENTOS QUE COMPETEM AOS EMPREGADOS DO MINISTÉRIO DA JUSTIÇA, QUANDO SE ACHAREM FORA DO EXERCÍCIO COM PARTE DE DOENTE."
+    },
+    {
+      "senadoId": "579609",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7084",
+      "titulo": "Decreto nº 7.084 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7084",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7084",
+      "ementa": "CONCEDE A CÍCERO DE PONTES E OUTROS A NECESSÁRIA PERMISSÃO PARA TRANSFERIREM Á ` IMPERIAL BRAZILIAN NATAL AND NOVA-CRUZ RAILWAY COMPANY LIMITED ´ O PRIVILÉGIO E FAVORES QUE LHES FORAM OUTORGADOS PELO DECRETO N. 7048 DE 18 DE OUTUBRO PRÓXIMO PASSADO."
+    },
+    {
+      "senadoId": "579605",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7083",
+      "titulo": "Decreto nº 7.083 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7083",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7083",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS PARA APLICAR ÁS DESPESAS DA VERBA - COMISSÕES DE LIMITES E DE LIQUIDAÇÃO DE RECLAMAÇÕES - DO EXERCÍCIO DE 1877-1878 A QUANTIA DE 29:200$076, TIRADA DAS SOBRAS DA VERBA - AJUDAS DE CUSTO - DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "579632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7090",
+      "titulo": "Decreto nº 7.090 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7090",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7090",
+      "ementa": "ALTERA O ARTIGO 25 DO REGULAMENTO QUE BAIXOU COM O DECRETO 4.835 DO 1 DE DEZEMBRO DE 1871."
+    },
+    {
+      "senadoId": "579613",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7085",
+      "titulo": "Decreto nº 7.085 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7085",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7085",
+      "ementa": "REGULA A EXECUÇÃO DO PARAGRAFO 7 DO ARTIGO 1 DO DECRETO 2.342 DE 6 DE AGOSTO DE 1873."
+    },
+    {
+      "senadoId": "579628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7089",
+      "titulo": "Decreto nº 7.089 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7089",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7089",
+      "ementa": "ALTERA OS ARTS 29 E 32 DO REGULAMENTO QUE BAIXOU COM O DECRETO N. 4835 DO 1.º DE DEZEMBRO DE 1871."
+    },
+    {
+      "senadoId": "579640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7092",
+      "titulo": "Decreto nº 7.092 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7092",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7092",
+      "ementa": "ABRE UM CRÉDITO SUPLEMENTAR DE 200:000$000 Á VERBA ` SOCORROS PÚBLICOS ´ E MELHORAMENTO DO ESTADO SANITÁRIO DO EXERCÍCO DE 1878-1879."
+    },
+    {
+      "senadoId": "579621",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-16-7087",
+      "titulo": "Decreto nº 7.087 de 16/11/1878",
+      "data": "1878-11-16",
+      "numero": "7087",
+      "urn": "urn:lex:br:federal:decreto:1878-11-16;7087",
+      "ementa": "REGULARIZA O SERVIÇO DAS LOTERIAS DA CÔRTE."
+    },
+    {
+      "senadoId": "579573",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7075",
+      "titulo": "Decreto nº 7.075 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7075",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7075",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ FRANCISCO DE OLIVEIRA PARA FABRICAR VINHO DE CANA-DE-AÇÚCAR."
+    },
+    {
+      "senadoId": "411586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7066",
+      "titulo": "Decreto nº 7.066 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7066",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7066",
+      "ementa": "CONCEDE PERMISSÃO AO BACHAREL JOAQUIM ANTÔNIO DO AMARAL GURGEL PARA EXPLORAR MINAS DE CARVÃO DE PEDRA E OUTROS MINERAIS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "579585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7078",
+      "titulo": "Decreto nº 7.078 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7078",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7078",
+      "ementa": "DECLARA REINSCINDIDO O CONTRATO CELEBRADO COM O ENGENHEIRO AUGUSTO TEIXEIRA COIMBRA PARA A CONSTRUÇÃO DE UM MATADOURO NA FAZENDA DE SANTA CRUZ."
+    },
+    {
+      "senadoId": "411594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7068",
+      "titulo": "Decreto nº 7.068 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7068",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7068",
+      "ementa": "CONCEDE PRIVILÉGIO A MANOEL FRANCISCO DE CASTRO NASCIMENTO PARA O NOVO SISTEMA DE ENXADAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "411602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7070",
+      "titulo": "Decreto nº 7.070 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7070",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7070",
+      "ementa": "AMPLIA A CONCESSÃO FEITA AO DR. DE WIT CLINTON VAN TUIL PARA MINERAR CHUMBO NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "411606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7071",
+      "titulo": "Decreto nº 7.071 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7071",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7071",
+      "ementa": "CONCEDE PERMISSÃO AO DR. DE WIT CLINTON VAN TUIL PARA MINERAR OURO NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "579597",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7081",
+      "titulo": "Decreto nº 7.081 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7081",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7081",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DE CATAGUASES, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "411598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7069",
+      "titulo": "Decreto nº 7.069 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7069",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7069",
+      "ementa": "REDUZ A 10:000$000 A QUANTIA FIXADA NO DECRETO N. 6516 DE 13 DE MARÇO DE 1877 PARA A POSSE DEFINITIVA DE CADA UMA DAS DATAS MINERAIS, CONCEDIDAS AO BACHAREL JOSÉ MÁXIMO NOGUEIRA PENIDO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "411610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7072",
+      "titulo": "Decreto nº 7.072 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7072",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7072",
+      "ementa": "CONCEDE PRIVILÉGIO A THOMAZ A. EDISON PARA INTRODUZIR NO IMPÉRIO O FONÓGRAFO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "411582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7065",
+      "titulo": "Decreto nº 7.065 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7065",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7065",
+      "ementa": "CONCEDE PRIVILÉGIO A FRANCISCO OTÁVIO PERERIRA BASTOS PARA FABRICAR MASSA E PAPEL COM O BAGAÇO DA CANA-DE-AÇÚCAR."
+    },
+    {
+      "senadoId": "579565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7073",
+      "titulo": "Decreto nº 7.073 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7073",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7073",
+      "ementa": "CONCEDE PRIVILÉGIO A FERNADES & IRMÃO PARA O MELHORAMENTO QUE INTRODUZIRAM NOS CARROS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "579581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7077",
+      "titulo": "Decreto nº 7.077 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7077",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7077",
+      "ementa": "PRORROGA POR MAIS UM ANO AS DISPOSIÇÕES DOS DECRETOS SUSPENDENDO A COBRANÇA DOS DIREITOS DE CONSUMO DE GADO VACUM E LANIGERO IMPORTADO NO IMPÉRIO."
+    },
+    {
+      "senadoId": "579569",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7074",
+      "titulo": "Decreto nº 7.074 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7074",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7074",
+      "ementa": "PRORROGA O PRAZO MAARCADO AO DR. PEDRO ERNESTO ALBUQUERQUE DE OLIVEIRA PARA FABRICAR E VENDER O ELEVADOR MECÂNICO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "411590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7067",
+      "titulo": "Decreto nº 7.067 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7067",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7067",
+      "ementa": "CONCEDE PRIVILÉGIO A JOÃO CORNADO ENGELBERG PARA O MAQUINISMO DE BENEFICIAR CAFÉ, DE SUA INVENÇÃO, DENOMINADO FÊNIX."
+    },
+    {
+      "senadoId": "579589",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7079",
+      "titulo": "Decreto nº 7.079 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7079",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7079",
+      "ementa": "APROVA AS MODIFICAÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE FRANCESA DE SOCORRROS MÚTUOS."
+    },
+    {
+      "senadoId": "579593",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7080",
+      "titulo": "Decreto nº 7.080 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7080",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7080",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DE INGAZEIRA, FLORESTA E TAQUARETINGA, NA PROVÍNCIA DE PERNAMBUCO, E MARCA OS ORDENADOS DOS RESPECTIVOS PROMOTORES PÚBLICOS."
+    },
+    {
+      "senadoId": "579577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7076",
+      "titulo": "Decreto nº 7.076 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7076",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7076",
+      "ementa": "EXTINGUE A COLÔNIA MILITAR DE SÃO PEDRO DE ALCÂNTARA."
+    },
+    {
+      "senadoId": "579601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-11-09-7082",
+      "titulo": "Decreto nº 7.082 de 09/11/1878",
+      "data": "1878-11-09",
+      "numero": "7082",
+      "urn": "urn:lex:br:federal:decreto:1878-11-09;7082",
+      "ementa": "DELCARA QUE O TERMO DE SÃO JOSÉ, NA PROVÍNCIA DO PARANÁ, SE DEVE CONSIDERAR SEPARADO DA CAPITAL E NÃO DO CAMPO LARGO."
+    },
+    {
+      "senadoId": "411570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-31-7062",
+      "titulo": "Decreto nº 7.062 de 31/10/1878",
+      "data": "1878-10-31",
+      "numero": "7062",
+      "urn": "urn:lex:br:federal:decreto:1878-10-31;7062",
+      "ementa": "CONCEDE GARANTIA DO JURO DE 7% SOBRE O CAPITAL DE MIL CONTOS DE RÉIS Á SOCIEDADE ` ENGENHO CENTRAL DE QUISSAMÃ ´ ESTABELECIDO NO MUNICÍPIO DE MACAÉ, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "411574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-31-7063",
+      "titulo": "Decreto nº 7.063 de 31/10/1878",
+      "data": "1878-10-31",
+      "numero": "7063",
+      "urn": "urn:lex:br:federal:decreto:1878-10-31;7063",
+      "ementa": "SUJEITA À JURISDIÇÃO DAS ALFÂNDEGAS DO RIO GRANDE, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E DE PARANAGUÁ, NA DO PARANÁ, AS MESAS DE RENDAS DE PELOTAS E ANTONINA, E MARCA-LHES AS RESPECTIVAS ATRIBUIÇÕES."
+    },
+    {
+      "senadoId": "411566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-31-7061",
+      "titulo": "Decreto nº 7.061 de 31/10/1878",
+      "data": "1878-10-31",
+      "numero": "7061",
+      "urn": "urn:lex:br:federal:decreto:1878-10-31;7061",
+      "ementa": "DECLARA SER ESTRADA GERAL PARA O SERVIÇO DO ESTADO A VIA FÉRREA DO PORTO NOVO DO CUNHA A JEQUITINHONHA, NO MUNICÍPIO DE ARASSUAÍ, PROVÍNCIA DE MINAS GERAIS: E PROVIDENCIA SOBRE A CONSTRUÇÃO DO PROLONGAMENTO DE CATUGUASES A JEQUITINHONHA."
+    },
+    {
+      "senadoId": "411578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-31-7064",
+      "titulo": "Decreto nº 7.064 de 31/10/1878",
+      "data": "1878-10-31",
+      "numero": "7064",
+      "urn": "urn:lex:br:federal:decreto:1878-10-31;7064",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SÃO SIMÃO, NA PROVÍNCIA DE SÃO PAULO, E MARCA O ORDENADO DO RESPECTIVO PROMOTOR."
+    },
+    {
+      "senadoId": "411538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7054",
+      "titulo": "Decreto nº 7.054 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7054",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7054",
+      "ementa": "AUTORIZA A DISTRIBUIÇÃO DE TÍTULOS REPRESENTATIVOS DO VALOR DAS AÇÕES DA COMPANHIA DA ESTRADA DE FERRO DE SÃO PAULO E RIO DE JANEIRO, DEPOSITADAS EM CAUÇÃO NA PRAÇA DE LONDRES."
+    },
+    {
+      "senadoId": "411530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7052",
+      "titulo": "Decreto nº 7.052 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7052",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7052",
+      "ementa": "CONCEDE PERMISSÃO Á COMPANHIA ENGENHO CENTRAL DE QUISSAMÃ PARA ELEVAR O SEU CAPITAL."
+    },
+    {
+      "senadoId": "411554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7058",
+      "titulo": "Decreto nº 7.058 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7058",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7058",
+      "ementa": "PRORROGA O PRAZO DA DURAÇÃO DA COMPANHIA UNIÃO MERCANTIL, ESTABELECIDA NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "411534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7053",
+      "titulo": "Decreto nº 7.053 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7053",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7053",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO TENENTE-CORONEL JOSÉ GONÇALVES TEIXEIRA PARA EXPLORAR MINAS DE OURO NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "411550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7057",
+      "titulo": "Decreto nº 7.057 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7057",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7057",
+      "ementa": "PRORROGA O PRAZO MARCADO AO BACHAREL SIMEÃO ESTELITA DE PAULA E SOUZA E AO MAJOR EZEQUIEL ANTÔNIO LOUREIRO, PARA EXPLORAREM OURO E OUTROS METAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "411542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7055",
+      "titulo": "Decreto nº 7.055 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7055",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7055",
+      "ementa": "DECLARA SER ESTRADA GERAL PARA O SERVIÇO DO ESTADO A VIA FÉRREA DO RECIFE Á CIDADE DE CARUARÚ, NA PROVÍNCIA DE PERNAMBUCO, E AUTORIZA OS ESTUDOS DAS RESPECTIVAS OBRAS."
+    },
+    {
+      "senadoId": "411562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7060",
+      "titulo": "Decreto nº 7.060 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7060",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7060",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGÓCIOS DA GUERRA PARA APLICAR ÁS DESPESAS COM DIVERSAS RÚBRICAS DO EXERCÍCIO DE 1877-1878 A QUANTIA DE 769:057$037, TIRADA DAS SOBRAS VERIFICADAS EM OUTRAS VERBAS DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "411546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7056",
+      "titulo": "Decreto nº 7.056 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7056",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7056",
+      "ementa": "CONCEDE, DURANTE TRINTA ANOS, A GARANTIA DE JUROS DE SETE POR CENTO SOBRE O CAPITAL DE DOZE MIL CENTO TRINTA E SETE CONTOS SETECENTOS TRINTA MIL E DUZENTOS REIS, DESTINADO A CONSTRUÇÃO DA ESTRADA DE FERRO DA CIDADE DO RIO GRANDE A DE BAGE, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "411558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-26-7059",
+      "titulo": "Decreto nº 7.059 de 26/10/1878",
+      "data": "1878-10-26",
+      "numero": "7059",
+      "urn": "urn:lex:br:federal:decreto:1878-10-26;7059",
+      "ementa": "PROMULGA A CONVENÇÃO SOBRE ATRIBUIÇÕES CONSULARES, CELEBRADA EM 15 DE JUNHO DE 1878 ENTRE O BRASIL E A ESPANHA."
+    },
+    {
+      "senadoId": "411518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7049",
+      "titulo": "Decreto nº 7.049 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7049",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7049",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS PARA A ESTRADA DE FERRO DE D. THEREZA CRISTINA, NA PROVÍNCIA DE SANTA CATARINA, E ELEVA O CAPITAL GARANTIDO A 2.151:008$900."
+    },
+    {
+      "senadoId": "411526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7051",
+      "titulo": "Decreto nº 7.051 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7051",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7051",
+      "ementa": "DÁ REGULAMENTO PARA ARRECADAÇÃO DO IMPOSTO PREDIAL."
+    },
+    {
+      "senadoId": "411514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7048",
+      "titulo": "Decreto nº 7.048 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7048",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7048",
+      "ementa": "FIXA O CAPITAL CUJOS JUROS O ESTADO AFIANÇA, NECESSÁRIO ÁS OBRAS DA ESTRADA DE FERRO DO NATAL Á NOVA-CRUZ, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "411502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7045",
+      "titulo": "Decreto nº 7.045 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7045",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7045",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO MAIS UM CRÉDITO EXTRAORDINÁRIO DE 4.000:000$000, DESTINADO ESPECIALMENTE PARA OCORRER AO PAGAMENTO DAS DESPESAS URGENTES QUE SE CONTINUAM A FAZER COM SOCORROS ÁS PROVÍNCIAS FLAGELADAS COM A SECA."
+    },
+    {
+      "senadoId": "411522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7050",
+      "titulo": "Decreto nº 7.050 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7050",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7050",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A TRANSPORTAR PARA A VERBA - CONDUÇÃO, SUSTENTO, CURATIVO E VESTUÁRIO DE PRESOS -, 5:000$000 DAS SOBRAS VERIFICADAS NA VERBA - CORPO MILITAR DE POLÍCIA - NO EXERCÍCIO DE 1877-1878."
+    },
+    {
+      "senadoId": "411510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7047",
+      "titulo": "Decreto nº 7.047 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7047",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7047",
+      "ementa": "CONCEDE PERMISSÃO A JAMES GRACIE TAYLOR E MIGUEL GONÇALVES DA CUNHA PARA MINERAR CARVÃO DE PEDRA NO TERRITÓRIO COMPREENDIDO ENTRE OS RIOS CANDIOTINHA, CANDIOTA E JAGUARÃO CHICO, DA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "411506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-18-7046",
+      "titulo": "Decreto nº 7.046 de 18/10/1878",
+      "data": "1878-10-18",
+      "numero": "7046",
+      "urn": "urn:lex:br:federal:decreto:1878-10-18;7046",
+      "ementa": "CONCEDE A LUIZ JACOME DE ABREU E SOUZA AUTORIZAÇÃO PARA POR SI OU POR UMA EMPRESA CONSTRUIR, USAR E GOZAR, PELO PRAZO DE 30 ANOS, UMA LINHA DE CARRIS DE FERRO, DESDE A ESTAÇÃO DA ESTRADA DE FERRO D. PEDRO II NO PORTO NOVO DO CUNHA ATÉ A FREGUESIA DE NOSSA SENHORA DA CONCEIÇÃO DE PAQUEQUER."
+    },
+    {
+      "senadoId": "411490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-12-7042",
+      "titulo": "Decreto nº 7.042 de 12/10/1878",
+      "data": "1878-10-12",
+      "numero": "7042",
+      "urn": "urn:lex:br:federal:decreto:1878-10-12;7042",
+      "ementa": "CONCEDE PRIVILÉGIO À COMPANHIA ` NEW YORK & NEW JERSEY READY MOTOR ´ PARA INTRODUZIR NO IMPÉRIO A MÁQUINA DENOMINADA ` HIDRO-CARBONO ´."
+    },
+    {
+      "senadoId": "411486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-12-7041",
+      "titulo": "Decreto nº 7.041 de 12/10/1878",
+      "data": "1878-10-12",
+      "numero": "7041",
+      "urn": "urn:lex:br:federal:decreto:1878-10-12;7041",
+      "ementa": "CONCEDE PRIVILÉGIO A SEVERINO LOURENÇO DA COSTA LEITE PARA FABRICAR PAPEL COM O EMPREGO DA FIGUEIRA BRAVA."
+    },
+    {
+      "senadoId": "411482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-12-7040",
+      "titulo": "Decreto nº 7.040 de 12/10/1878",
+      "data": "1878-10-12",
+      "numero": "7040",
+      "urn": "urn:lex:br:federal:decreto:1878-10-12;7040",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO MARCADO A ANTÔNIO AUGUSTO NOGUEIRA DA GAMA PARA EXPLORAR CARVÃO DE PEDRA, FERRO E OUTROS METAIS, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "411498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-12-7044",
+      "titulo": "Decreto nº 7.044 de 12/10/1878",
+      "data": "1878-10-12",
+      "numero": "7044",
+      "urn": "urn:lex:br:federal:decreto:1878-10-12;7044",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DA ` ASSOCIAÇÃO BRASILEIRA MUTUALIDADE ´."
+    },
+    {
+      "senadoId": "411494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-12-7043",
+      "titulo": "Decreto nº 7.043 de 12/10/1878",
+      "data": "1878-10-12",
+      "numero": "7043",
+      "urn": "urn:lex:br:federal:decreto:1878-10-12;7043",
+      "ementa": "SUPRIME TODAS AS OFICINAS DAS OBRAS CIVIS E MILITARES DO ARSENAL DE MARINHA DA CÔRTE, COM EXCEPÇÃO DA SECÇÃO HIDRÁULICA, PARA A QUAL MARCA PESSOAL E ESTABELECE O MODO POR QUE DEVEM SER FEITAS AS OBRAS DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "583993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-05-7036",
+      "titulo": "Decreto nº 7.036 de 05/10/1878",
+      "data": "1878-10-05",
+      "numero": "7036",
+      "urn": "urn:lex:br:federal:decreto:1878-10-05;7036",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA APICULTURA E FLORA BRASILEIRA E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "583997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-05-7037",
+      "titulo": "Decreto nº 7.037 de 05/10/1878",
+      "data": "1878-10-05",
+      "numero": "7037",
+      "urn": "urn:lex:br:federal:decreto:1878-10-05;7037",
+      "ementa": "CONCEDE AUTORIZAÇÃO A LUCÍDIO JOSÉ CÂNDIDO PEREIRA DO LAGO PARA ORGANIZAR UMA COMPANHIA COM O FIM DE MELHORAR O SUPRIMENTO DO LEITE DESTINADO AO USO ALIMENTÍCIO E TERAPÊUTICO."
+    },
+    {
+      "senadoId": "583989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-05-7035",
+      "titulo": "Decreto nº 7.035 de 05/10/1878",
+      "data": "1878-10-05",
+      "numero": "7035",
+      "urn": "urn:lex:br:federal:decreto:1878-10-05;7035",
+      "ementa": "ELEVA O CAPITAL AFIANÇADO E GARANTIDO DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "584001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-05-7038",
+      "titulo": "Decreto nº 7.038 de 05/10/1878",
+      "data": "1878-10-05",
+      "numero": "7038",
+      "urn": "urn:lex:br:federal:decreto:1878-10-05;7038",
+      "ementa": "SEPARA DO TERMO DE CAMPO LARGO O DE SÃO JOSÉ, NA PROVÍNCIA DO PARANÁ, E CRIA NESTE O LUGAR DE JUIZ MINICÍPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "411478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-10-05-7039",
+      "titulo": "Decreto nº 7.039 de 05/10/1878",
+      "data": "1878-10-05",
+      "numero": "7039",
+      "urn": "urn:lex:br:federal:decreto:1878-10-05;7039",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A TRANSFERIR PARA O CRÉDITO DESTINADO ÁS DESPESAS DO PRESÍDIO DE FERNANDO DE NORONHA, NO EXERCÍCIO DE 1877 - 1878, A SOMA DE 236:972$946 TIRADA DAS SOBRAS VERIFICADAS NAS DIVERSAS RÚBRICAS DO ORÇAMENTO DO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "583985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-13-7034",
+      "titulo": "Decreto nº 7.034 de 13/09/1878",
+      "data": "1878-09-13",
+      "numero": "7034",
+      "urn": "urn:lex:br:federal:decreto:1878-09-13;7034",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA ESTRADA DE FERRO DE PIRAPETINGA E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "583977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-13-7032",
+      "titulo": "Decreto nº 7.032 de 13/09/1878",
+      "data": "1878-09-13",
+      "numero": "7032",
+      "urn": "urn:lex:br:federal:decreto:1878-09-13;7032",
+      "ementa": "DECLARA DE NENHUM EFEITO O DECRETO N. 6281 DE 9 DE AGOSTO DE 1876, RELATIVO À GARANTIA DO JURO DE 7% SOBRE O CAPITAL DESTINADO AO ESTABELECIMENTO DE UM ENGENHO CENTRAL NA FREGUESIA DE SÃO JOÃO BATISTA, MUNICÍPIO DE SÃO JOÃO DA BARRA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "583981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-13-7033",
+      "titulo": "Decreto nº 7.033 de 13/09/1878",
+      "data": "1878-09-13",
+      "numero": "7033",
+      "urn": "urn:lex:br:federal:decreto:1878-09-13;7033",
+      "ementa": "CONCEDE PERMISSÃO A ANTÔNIO PLÁCIDO PEIXOTO DE AMARANTE PARA EXPLORAR OURO E OUTROS METAIS NA CIDADE DE CUIÁBA."
+    },
+    {
+      "senadoId": "583936",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7022",
+      "titulo": "Decreto nº 7.022 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7022",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7022",
+      "ementa": "CONCEDE PRIVILÉGIO A GUSTAVO HUGO ELSTE PARA O PROCESSO DE SUA INVENÇÃO DESTINADO Á CONSERVAÇÃO DE LÍNGUAS DE GADO."
+    },
+    {
+      "senadoId": "583968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7030",
+      "titulo": "Decreto nº 7.030 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7030",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7030",
+      "ementa": "PROVIDENCIA SOBRE O JURAMENTO NOS CASOS EM QUE É ELEGIDO POR ATOS DO PODER EXECUTIVO."
+    },
+    {
+      "senadoId": "583956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7027",
+      "titulo": "Decreto nº 7.027 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7027",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7027",
+      "ementa": "PROVIDENCIA SOBRE A DESINFECÇÃO DAS CASAS E ESTABELECIMENTOS PÚBLICOS OU PARTICULARES."
+    },
+    {
+      "senadoId": "583964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7029",
+      "titulo": "Decreto nº 7.029 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7029",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7029",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO ESPECIAL PARA OS CONCURSOS ÁS VAGA DE SUBSTITUTOS E DE PROFESSORES DA ESCOLA POLITÉCNICA."
+    },
+    {
+      "senadoId": "583976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7031-a",
+      "titulo": "Decreto nº 7.031-A de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7031-a",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7031-a",
+      "ementa": "CRIA CURSOS NOTURNOS PARA ADULTOS NAS ESCOLAS PÚBLICAS DE INSTRUÇÃO PRIMÁRIA DO 1º GRAU DO SEXO MASCULINO DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "583948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7025",
+      "titulo": "Decreto nº 7.025 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7025",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7025",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DE NOSSA SENHORA DE OLIVEIRA, SANTA MARIA DA BOCA DO MONTE E TRIUNFO, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "583952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7026",
+      "titulo": "Decreto nº 7.026 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7026",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7026",
+      "ementa": "DECLARAR RESCINDIDO O CONTRATO DE ARRENDAMENTO DA PRAÇA DO MERCADO DA FREGUESIA DA CANDELARIA."
+    },
+    {
+      "senadoId": "583944",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7024",
+      "titulo": "Decreto nº 7.024 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7024",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7024",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNICIPAL E DE ÓRGÃOS NO TERMO DE VACARIA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "583972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7031",
+      "titulo": "Decreto nº 7.031 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7031",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7031",
+      "ementa": "DECLARA RESCINDIDO O CONTRATO CELEBRADO COM O DR. DANIEL PEDRO FERRO CARDOSO, PARA A CONSTRUÇÃO DE UM MERCADO NO CANAL DO MANGUE DA CIDADE NOVA."
+    },
+    {
+      "senadoId": "583960",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7028",
+      "titulo": "Decreto nº 7.028 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7028",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7028",
+      "ementa": "ALTERA O MODELO DOS DIPLOMAS DE ENGENHEIROS DE MINAS."
+    },
+    {
+      "senadoId": "583940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-09-06-7023",
+      "titulo": "Decreto nº 7.023 de 06/09/1878",
+      "data": "1878-09-06",
+      "numero": "7023",
+      "urn": "urn:lex:br:federal:decreto:1878-09-06;7023",
+      "ementa": "CONCEDE PRIVILÉGIO A GUSTAVO HUGO ELSTE PARA FABRICAR FARINHA DE OSSOS DESTINADA A ESTRUMAR A TERRA."
+    },
+    {
+      "senadoId": "583913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7016",
+      "titulo": "Decreto nº 7.016 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7016",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7016",
+      "ementa": "CONCEDE PRIVILÉGIO A SCHNEIDER & ALLGAEYER PARA O PROCESSO EMPREGADO NO FABRICO DE BARRETINAS DE COURO E LOMBILHOS."
+    },
+    {
+      "senadoId": "583921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7018",
+      "titulo": "Decreto nº 7.018 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7018",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7018",
+      "ementa": "ESTABELECE REGRAS SOBRE O JULGAMENTO DE RECURSOS, INTERPOSTOS PARA AS RELAÇÕES, DOS DESPACHOS DE PRONÚNCIA OU NÃO PRONÚNCIA."
+    },
+    {
+      "senadoId": "583909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7015",
+      "titulo": "Decreto nº 7.015 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7015",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7015",
+      "ementa": "CONCEDE PERMISSÃO A LUIZ VICENTE DE SOUZA QUEIROZ PARA EXPLORAR MINERAIS NO MUNICÍPIO DE PIRACICABA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "583924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7019",
+      "titulo": "Decreto nº 7.019 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7019",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7019",
+      "ementa": "PROVIDENCIA SOBRE OS IMPEDIMENTOS NO EXERCÍCIO DAS FUNÇÕES DE AUDITOR DE GUERRA."
+    },
+    {
+      "senadoId": "583917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7017",
+      "titulo": "Decreto nº 7.017 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7017",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7017",
+      "ementa": "CONCEDE PERMISSÃO A DE WITT CLINTON VAN TUYL PARA LAVRAR MINAS DE CHUMBO NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "583928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7020",
+      "titulo": "Decreto nº 7.020 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7020",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7020",
+      "ementa": "APROVA A ALTERAÇÃO DO NOME DA ASSOCIAÇÃO BENEFICENTE DOS ARTISTAS PORTUGUESES."
+    },
+    {
+      "senadoId": "583897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7012",
+      "titulo": "Decreto nº 7.012 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7012",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7012",
+      "ementa": "APROVA O REGULAMENTO PARA O ARQUIVO MILITAR."
+    },
+    {
+      "senadoId": "583901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7013",
+      "titulo": "Decreto nº 7.013 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7013",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7013",
+      "ementa": "CONCEDE PRIVILÉGIO A MOREIRA CUNHA & COMP. PARA USAREM DOS MELHORAMENTOS QUE PRETENDEM APLICAR Á MÁQUINA DENOMINADA - FERONIA."
+    },
+    {
+      "senadoId": "583932",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7021",
+      "titulo": "Decreto nº 7.021 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7021",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7021",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE BENEFICENTE PERFEITA AMIZADE."
+    },
+    {
+      "senadoId": "583905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-31-7014",
+      "titulo": "Decreto nº 7.014 de 31/08/1878",
+      "data": "1878-08-31",
+      "numero": "7014",
+      "urn": "urn:lex:br:federal:decreto:1878-08-31;7014",
+      "ementa": "ANULA A CONCESSÃO FEITA A GONÇALO DE ABREU SOUZA ALVES DE BARROS E OUTROS PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "583869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7005",
+      "titulo": "Decreto nº 7.005 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7005",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7005",
+      "ementa": "CONCEDE PERMISSÃO A LEANDRO DUPRÉ JUNIOR E OUTROS PARA LAVRAREM A MINA DA TAPERA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "583861",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7003",
+      "titulo": "Decreto nº 7.003 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7003",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7003",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO Á BARONESA DE VILA MARIA, PARA EXPLORAR JAZIDAS DE FERRO E OUTROS METAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "583881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7008",
+      "titulo": "Decreto nº 7.008 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7008",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7008",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SANTA VITÓRIA DO PALMAR, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E MARCA O ORDENADO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "583865",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7004",
+      "titulo": "Decreto nº 7.004 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7004",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7004",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO Á ANTÔNIO ALVES PINTO, PARA EXPLORAR COBRE E OUTROS METAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "583873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7006",
+      "titulo": "Decreto nº 7.006 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7006",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7006",
+      "ementa": "MODIFICA A CLÁUSULA 15ª DO CONTRATO CELEBRADO EM 30 DE DEZEMBRO DE 1871 COM A SOCIEDADE COLONISADORA DE 1849, EM HAMBURGO."
+    },
+    {
+      "senadoId": "583877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7007",
+      "titulo": "Decreto nº 7.007 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7007",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7007",
+      "ementa": "AUTORIZA A FUSÃO DE ALGUMAS EMPRESAS DE CARRIS DE FERRO URBANAS."
+    },
+    {
+      "senadoId": "583889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7010",
+      "titulo": "Decreto nº 7.010 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7010",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7010",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA ASSOCIAÇÃO INDUSTRIAL DE BENEFICÊNCIA."
+    },
+    {
+      "senadoId": "583857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7002",
+      "titulo": "Decreto nº 7.002 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7002",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7002",
+      "ementa": "CONCEDE PRIVILÉGIO A FRANKLIN ANTÔNIO DINIZ PARA FABRICAR CARROÇAS DESTINADAS A MOAGEM DE CANA DE AÇÚCAR."
+    },
+    {
+      "senadoId": "583885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7009",
+      "titulo": "Decreto nº 7.009 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7009",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7009",
+      "ementa": "RESTABELECE O LUGAR DE JUIZ MUNICIPAL E DE ÓRGÃOS NO TERMO DE MIRANDA, DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "583893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-24-7011",
+      "titulo": "Decreto nº 7.011 de 24/08/1878",
+      "data": "1878-08-24",
+      "numero": "7011",
+      "urn": "urn:lex:br:federal:decreto:1878-08-24;7011",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE CONGRESSO BRASILEIRO."
+    },
+    {
+      "senadoId": "583837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-17-6997",
+      "titulo": "Decreto nº 6.997 de 17/08/1878",
+      "data": "1878-08-17",
+      "numero": "6997",
+      "urn": "urn:lex:br:federal:decreto:1878-08-17;6997",
+      "ementa": "AUTORIZA A COMPANHIA - LONDON PLATINO BRAZILIAN TELEGRAPH LIMITED - A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "583841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-17-6998",
+      "titulo": "Decreto nº 6.998 de 17/08/1878",
+      "data": "1878-08-17",
+      "numero": "6998",
+      "urn": "urn:lex:br:federal:decreto:1878-08-17;6998",
+      "ementa": "AUTORIZA A COMPANHIA - PORTO ALEGRE NEW HAMBURG RAILWAY, LIMITED - A FUNCIONAR NO IMPÉRIO COM AS ALTERAÇÕES QUE FEZ NOS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "583849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-17-7000",
+      "titulo": "Decreto nº 7.000 de 17/08/1878",
+      "data": "1878-08-17",
+      "numero": "7000",
+      "urn": "urn:lex:br:federal:decreto:1878-08-17;7000",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO MAIS UM CRÉDITO EXTRAORDINÁRIO DE 8.000:000$000 DESTINADO ESPECIALMENTE PARA OCORRER AO PAGAMENTO DAS DESPESAS URGENTES QUE SE CONTINUAM A FAZER COM SOCORROS ÁS PROVÍNCIAS FLAGELADAS PELA SECA."
+    },
+    {
+      "senadoId": "583853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-17-7001",
+      "titulo": "Decreto nº 7.001 de 17/08/1878",
+      "data": "1878-08-17",
+      "numero": "7001",
+      "urn": "urn:lex:br:federal:decreto:1878-08-17;7001",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DA ESTATÍSTICA POLICIAL E JUDICIÁRIA."
+    },
+    {
+      "senadoId": "583845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-17-6999",
+      "titulo": "Decreto nº 6.999 de 17/08/1878",
+      "data": "1878-08-17",
+      "numero": "6999",
+      "urn": "urn:lex:br:federal:decreto:1878-08-17;6999",
+      "ementa": "AUTORIZA O - THE S. CIRIACO GOLD MINING COMPANY - A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "583833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-17-6996",
+      "titulo": "Decreto nº 6.996 de 17/08/1878",
+      "data": "1878-08-17",
+      "numero": "6996",
+      "urn": "urn:lex:br:federal:decreto:1878-08-17;6996",
+      "ementa": "CONCEDE PERMISSÃO A FRANCISCO RAIMUNDO LUIZ DOS SANTOS E AFONSO AUGUSTO RODRIGUES DE VASCONCELOS PARA LAVRAREM OURO E OUTROS MINERAIS NO MUNICÍPIO DE SÃO JOSÉ D'EL REI, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "411459",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6992",
+      "titulo": "Decreto nº 6.992 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6992",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6992",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE IGARAPÉ-MIRI, NA PROVÍNCIA DO PARÁ, E MARCA O ORDENADO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "411455",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6991",
+      "titulo": "Decreto nº 6.991 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6991",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6991",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES PERSEVERANÇA."
+    },
+    {
+      "senadoId": "411463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6993",
+      "titulo": "Decreto nº 6.993 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6993",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6993",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE MIRANDA, NA PROVÍNCIA DE MATO GROSSO, E MARCA O ORDENADO DO RESPECTIVO PROMOTOR."
+    },
+    {
+      "senadoId": "411443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6988",
+      "titulo": "Decreto nº 6.988 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6988",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6988",
+      "ementa": "APROVA AS ALTERAÇÕES PROPOSTAS PELA COMPANHIA CITY IMPROVEMENTS SOBRE A TRANSFERÊNCIA DO TANQUE DE LAVAGEM E A MUDANÇA DA GALERIA PROJETADA ENTRE O MESMO TANQUE E A RUA DE SÃO FRANCISCO XAVIER."
+    },
+    {
+      "senadoId": "411471",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6995",
+      "titulo": "Decreto nº 6.995 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6995",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6995",
+      "ementa": "ESTABELECE BASES GERAIS PARA A CONCESSÃO DAS ESTRADAS DE FERRO COM FIANÇA OU GARANTIA DE JUROS DO ESTADO."
+    },
+    {
+      "senadoId": "411467",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6994",
+      "titulo": "Decreto nº 6.994 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6994",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6994",
+      "ementa": "CRIA DOIS LUGARES DE SOLICITADOR DOS FEITOS DA FAZENDA DO CÔRTE."
+    },
+    {
+      "senadoId": "411447",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6989",
+      "titulo": "Decreto nº 6.989 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6989",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6989",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA - ITAJAÍ BLUMENAU E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "411451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-10-6990",
+      "titulo": "Decreto nº 6.990 de 10/08/1878",
+      "data": "1878-08-10",
+      "numero": "6990",
+      "urn": "urn:lex:br:federal:decreto:1878-08-10;6990",
+      "ementa": "CONCEDE PRIVILÉGIO A RAUL PIERRE PICTEL PARA INTRODUZIR NO IMPÉRIO OS MELHORAMENTOS, DE SUA INVENÇÃO, APLICÁVEIS AOS PROCESSOS FRIGORÍFICOS."
+    },
+    {
+      "senadoId": "411438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-03-6987",
+      "titulo": "Decreto nº 6.987 de 03/08/1878",
+      "data": "1878-08-03",
+      "numero": "6987",
+      "urn": "urn:lex:br:federal:decreto:1878-08-03;6987",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE CAÇAPAVA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E MARCA O ORDENADO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "411442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-08-03-6987-a",
+      "titulo": "Decreto nº 6.987-A de 03/08/1878",
+      "data": "1878-08-03",
+      "numero": "6987-a",
+      "urn": "urn:lex:br:federal:decreto:1878-08-03;6987-a",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SÃO BORJA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E MARCA O ORDENADO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "411418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-27-6982",
+      "titulo": "Decreto nº 6.982 de 27/07/1878",
+      "data": "1878-07-27",
+      "numero": "6982",
+      "urn": "urn:lex:br:federal:decreto:1878-07-27;6982",
+      "ementa": "REGULA A EXECUÇÃO DAS SENTENÇAS, CÍVEIS OU COMERCIAIS, DOS TRIBUNAIS ESTRANGEIROS."
+    },
+    {
+      "senadoId": "411434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-27-6986",
+      "titulo": "Decreto nº 6.986 de 27/07/1878",
+      "data": "1878-07-27",
+      "numero": "6986",
+      "urn": "urn:lex:br:federal:decreto:1878-07-27;6986",
+      "ementa": "ELEVA A 220:000$000 OS CRÉDITOS EXTRAORDINÁRIOS DA IMPORTÂNCIA DE 120:000$000, ABERTOS PELOS DECRETOS NS. 6349, 6445 E 6769 DE 4 DE OUTUBRO E 30 DE DEZEMBRO DE 1876 E 15 DE DEZEMBRO DE 1877."
+    },
+    {
+      "senadoId": "411422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-27-6983",
+      "titulo": "Decreto nº 6.983 de 27/07/1878",
+      "data": "1878-07-27",
+      "numero": "6983",
+      "urn": "urn:lex:br:federal:decreto:1878-07-27;6983",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SÃO JOSÉ DOS PINHAIS, NA PROVÍNCIA DO PARANÁ, E MARCA O VENCIMENTO ANUAL DO RESPECTIVO PROMOTOR."
+    },
+    {
+      "senadoId": "411414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-27-6981",
+      "titulo": "Decreto nº 6.981 de 27/07/1878",
+      "data": "1878-07-27",
+      "numero": "6981",
+      "urn": "urn:lex:br:federal:decreto:1878-07-27;6981",
+      "ementa": "PRORROGA NOVAMENTE O PRAZO CONCEDIDO AO DESEMBARGADOR HENRIQUE JORGE REBELO PARA A INCORPORAÇÃO DE UMA COMPANHIA DESTINADA AO SERVIÇO DA PESCA."
+    },
+    {
+      "senadoId": "411430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-27-6985",
+      "titulo": "Decreto nº 6.985 de 27/07/1878",
+      "data": "1878-07-27",
+      "numero": "6985",
+      "urn": "urn:lex:br:federal:decreto:1878-07-27;6985",
+      "ementa": "PROMULGA O ACORDO ENTRE O BRASIL E OS PAÍSES - BAIXOS PARA A PROTEÇÃO DAS MARCAS DE FÁBRICA E COMÉRCIO."
+    },
+    {
+      "senadoId": "411426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-27-6984",
+      "titulo": "Decreto nº 6.984 de 27/07/1878",
+      "data": "1878-07-27",
+      "numero": "6984",
+      "urn": "urn:lex:br:federal:decreto:1878-07-27;6984",
+      "ementa": "APROVA O REGULAMENTO PARA O LABORATÓRIO PIROTÉCNICO DO CAMPINHO."
+    },
+    {
+      "senadoId": "411378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6972",
+      "titulo": "Decreto nº 6.972 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6972",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6972",
+      "ementa": "MANDA CASSAR O DECRETO QUE PERMITIU A INCORPORAÇÃO DE UMA COMPANHIA DESTINADA A SEGURAR OS BILHETES DAS LOTERIAS DO ESTADO, E REVOGAR O QUE AUTORIZOU A MESMA COMPANHIA A FUNCIONAR, APROVANDO SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "411410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6980",
+      "titulo": "Decreto nº 6.980 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6980",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6980",
+      "ementa": "DÁ NOVAS TABELAS PARA ARRECADAÇÃO DO IMPOSTO DE INDÚSTRIAS E PROFISSÕES."
+    },
+    {
+      "senadoId": "411402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6978",
+      "titulo": "Decreto nº 6.978 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6978",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6978",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO  DE ESTADO DOS NEGÓCIOS DA MARINHA A TRANSFERIR NO EXERCÍCIO DE 1877 - 1878, DAS VERBAS - CONSELHO NAVAL - QUARTEL-GENERAL E CONTADORIA - SOBRAS, NA IMPORTÂNCIA DE 12:741$699, PARA A VERBA - NAVIOS DESARMADOS."
+    },
+    {
+      "senadoId": "411386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6974",
+      "titulo": "Decreto nº 6.974 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6974",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6974",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A JOSÉ FERREIRA DA SILVA PINTO PARA EXPLORAR JAZIDAS MINERAIS NO MUNICÍPIO DE OURO PRETO, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "411398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6977",
+      "titulo": "Decreto nº 6.977 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6977",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6977",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DO OESTE E AUTORIZA PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "411382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6973",
+      "titulo": "Decreto nº 6.973 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6973",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6973",
+      "ementa": "REVOGA O DECRETO QUE AUTORIZOU A SUBDIVISÃO ATÉ VIGÉSIMOS DOS BILHETES DAS LOTERIAS DA CÔRTE."
+    },
+    {
+      "senadoId": "411406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6979",
+      "titulo": "Decreto nº 6.979 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6979",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6979",
+      "ementa": "APROVA OS ESTATUTOS DO GRÊMIO DRAMÁTICO FAMILIAR SÃO JOÃO BATISTA."
+    },
+    {
+      "senadoId": "411394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6976",
+      "titulo": "Decreto nº 6.976 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6976",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6976",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A MANOEL DE ASSIS DRUMMOND E OUTRO PARA A EXPLORAÇÃO DE AÇOUGUE NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "411390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-20-6975",
+      "titulo": "Decreto nº 6.975 de 20/07/1878",
+      "data": "1878-07-20",
+      "numero": "6975",
+      "urn": "urn:lex:br:federal:decreto:1878-07-20;6975",
+      "ementa": "PRORROGA POR UM ANO O PRAZO FIXADO Á COMPANHIA CATARINENSE DE NAVEGAÇÃO A VAPOR PARA A APRESENTAÇÃO DE UM NOVO VAPOR."
+    },
+    {
+      "senadoId": "411370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-13-6970",
+      "titulo": "Decreto nº 6.970 de 13/07/1878",
+      "data": "1878-07-13",
+      "numero": "6970",
+      "urn": "urn:lex:br:federal:decreto:1878-07-13;6970",
+      "ementa": "MARCA O VENCIMENTO ANUAL DOS PROMOTORES PÚBLICOS DAS COMARCAS DE MAQUINÉ E RIO DOS SINOS, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "411366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-13-6969",
+      "titulo": "Decreto nº 6.969 de 13/07/1878",
+      "data": "1878-07-13",
+      "numero": "6969",
+      "urn": "urn:lex:br:federal:decreto:1878-07-13;6969",
+      "ementa": "CONCEDE PRIVILEGIO A MORRIS N. KOHN, PARA O MELHORAMENTO DOS CARROS DESTINADOS AO SERVIÇO DAS LINHAS FERREAS URBANAS."
+    },
+    {
+      "senadoId": "411374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-13-6971",
+      "titulo": "Decreto nº 6.971 de 13/07/1878",
+      "data": "1878-07-13",
+      "numero": "6971",
+      "urn": "urn:lex:br:federal:decreto:1878-07-13;6971",
+      "ementa": "DECLARA A ENTRÂNCIA DAS COMARCAS DE MAQUINÉ E RIO DOS SINOS, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "411362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-13-6968",
+      "titulo": "Decreto nº 6.968 de 13/07/1878",
+      "data": "1878-07-13",
+      "numero": "6968",
+      "urn": "urn:lex:br:federal:decreto:1878-07-13;6968",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA Á COMPANHIA - GARANTIA DOS PROPRIETÁRIOS - PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "411354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-08-6966",
+      "titulo": "Decreto nº 6.966 de 08/07/1878",
+      "data": "1878-07-08",
+      "numero": "6966",
+      "urn": "urn:lex:br:federal:decreto:1878-07-08;6966",
+      "ementa": "ALTERA O REGULAMENTO APROVADO PELO DECRETO 4.835, DO 1 DE DEZEMBRO DE 1871, QUANTO AO PRAZO ESTABELECIDO PARA AS DECLARAÇÕES QUE SÃO OBRIGADAS A FAZER, PERANTE OS ENCARREGADOS DA MATRICULA ESPECIAL DOS ESCRAVOS, AS PESSOAS DESIGNADAS NO ARTIGO 3 DO MESMO REGULAMENTO."
+    },
+    {
+      "senadoId": "411358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-08-6967",
+      "titulo": "Decreto nº 6.967 de 08/07/1878",
+      "data": "1878-07-08",
+      "numero": "6967",
+      "urn": "urn:lex:br:federal:decreto:1878-07-08;6967",
+      "ementa": "ALTERA OS REGULAMENTOS APROVADOS PELOS DECRETOS 4835 DO 1º DE DEZEMBRO DE 1874 E 5135 DE 13 DE NOVEMBRO DE 1872 E ASSIM O DECRETO 4960 DE 8 DE MAIO DE 1872, QUANTO AO PRAZO PARA A MATRÍCULA DOS FILHOS LIVRES DE MULHER ESCRAVA E RESPECTIVA AVERBAÇÕES."
+    },
+    {
+      "senadoId": "411342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6963",
+      "titulo": "Decreto nº 6.963 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6963",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6963",
+      "ementa": "ANULA AS CONCESSÕES FEITAS A JAMES JOHNSON E INÁCIO JOSÉ FERREIRA DE MOURA PARA A LAVRA DE CARVÃO DE PEDRA NOS MUNICÍPIOS DE SÃO JERÔNIMO E DO TRIUNFO, DA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "411338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6962",
+      "titulo": "Decreto nº 6.962 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6962",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6962",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO BATISTA RODOCANAQUI E GUILHERME FRANCISCO JONES, PARA EXPLORAREM JAZIDAS DE COBRE E OUTROS MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "579418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6958",
+      "titulo": "Decreto nº 6.958 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6958",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6958",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ RIBEIRO DA SILVA PARA USAR DO MELHORAMENTO INTRODUZIDO NA MÁQUINA DE DESCASCAR CAFÉ,ORA DENOMINADA - CONCASSOR APERFEIÇOADO."
+    },
+    {
+      "senadoId": "579410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6956",
+      "titulo": "Decreto nº 6.956 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6956",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6956",
+      "ementa": "EXTINGUE A SEGUNDA VARA CÍVEL DE OURO PRETO E PROVIDENCIA SOBRE AS RESPECTIVAS FUNÇÕES."
+    },
+    {
+      "senadoId": "411346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6964",
+      "titulo": "Decreto nº 6.964 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6964",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6964",
+      "ementa": "CONCEDE PERMISSÃO A HOLTZWEISSIG & COMP. PARA A LAVRA DE CARVÃO DE PEDRA NOS MUNICÍPIOS DE SÃO JERÔNIMO E DO TRIUNFO, DA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "579430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6961",
+      "titulo": "Decreto nº 6.961 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6961",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6961",
+      "ementa": "CONCEDE PRIVILÉGIO A LUCIEN A. TARTIÉRE PARA OS MELHORAMENTOS INTRODUZIDOS NO APARELHO DE SECAR CAFÉ."
+    },
+    {
+      "senadoId": "579422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6959",
+      "titulo": "Decreto nº 6.959 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6959",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6959",
+      "ementa": "CONCEDE PRIVILÉGIO A DOMINGOS CARLOS DE SABÓIA PARA FABRICAR CARROS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "411350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6965",
+      "titulo": "Decreto nº 6.965 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6965",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6965",
+      "ementa": "APROVA A REFORMA DE VÁRIOS ARTIGOS DOS REGULAMENTOS DO MONTE-PIO GERAL DE ECONOMIA DOS SERVIDORES DO ESTADO."
+    },
+    {
+      "senadoId": "579414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6957",
+      "titulo": "Decreto nº 6.957 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6957",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6957",
+      "ementa": "CONCEDE PRIVILÉGIO A EDUARDO BATISTA ROQUETE FRANCO PARA FABRICAR A MÁQUINA DE SUA INVENÇÃO DESTINADA A BRUNIR CAFÉ."
+    },
+    {
+      "senadoId": "579426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-07-06-6960",
+      "titulo": "Decreto nº 6.960 de 06/07/1878",
+      "data": "1878-07-06",
+      "numero": "6960",
+      "urn": "urn:lex:br:federal:decreto:1878-07-06;6960",
+      "ementa": "CONCEDE PRIVILÉGIO A ROHE & IRMÃOS PARA O FABRICO DE CARROS DESTINADOS AO SERVIÇO DAS ESTRADAS DE FERRO URBANAS."
+    },
+    {
+      "senadoId": "579394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6952",
+      "titulo": "Decreto nº 6.952 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6952",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6952",
+      "ementa": "ABRE, AO MINISTÉRIO DOS NEGÓCIOS DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 1.250:000$000 PARA DESPESAS DAS VERBAS - ILUMINAÇÃO PÚBLICA - ESTRADA DE FERRO DOM PEDRO II E TELÉGRAFOS NO EXERCÍCIO DE 1877 - 1878."
+    },
+    {
+      "senadoId": "579406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6955",
+      "titulo": "Decreto nº 6.955 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6955",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6955",
+      "ementa": "DETERMINA QUE PARA O EXERCÍCIO DE 1878 - 1879 CONTINUEM EM VIGOR AS DISPOSIÇÕES DA LEI N. 2718 DE 27 DE JUNHO DE 1877."
+    },
+    {
+      "senadoId": "579402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6954",
+      "titulo": "Decreto nº 6.954 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6954",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6954",
+      "ementa": "CONCEDE PRIVILÉGIO A ELIAS JOSÉ NUNES DA SILVA E OUTROS PARA EXPLORAREM E EXTRAIREM PRODUTOS NATURAIS EM TODA A REGIÃO COMPREENDIDA ENTRE AS PRIMEIRAS CACHOEIRAS INFERIORES DO RIO XINGÚ, NA PROVÍNCIA DO PARÁ, ATÉ AS SUAS NASCENTES NO MATO GROSSO."
+    },
+    {
+      "senadoId": "579382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6949",
+      "titulo": "Decreto nº 6.949 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6949",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6949",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA GUARDA NACIONAL DAS COMARCAS DA CAPITAL E DA SERRA, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "579398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6953",
+      "titulo": "Decreto nº 6.953 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6953",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6953",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 4.100:000$000 PARA OCORRER Á DESPESAS COM O SERVIÇO DA VERBA - TERRAS PÚBLICAS E COLONIZAÇÃO NO EXERCÍCIO DE 1877 - 1878."
+    },
+    {
+      "senadoId": "579390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6951",
+      "titulo": "Decreto nº 6.951 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6951",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6951",
+      "ementa": "DETERMINA QUE PARA O EXERCÍCIO DE 1878 A 1879 CONTINUEM EM VIGOR AS DISPOSIÇÕES DA LEI 2706 DE 31 DE MAIO DO ANO PRÓXIMO PASSADO."
+    },
+    {
+      "senadoId": "579386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-28-6950",
+      "titulo": "Decreto nº 6.950 de 28/06/1878",
+      "data": "1878-06-28",
+      "numero": "6950",
+      "urn": "urn:lex:br:federal:decreto:1878-06-28;6950",
+      "ementa": "ABRE, AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO, MAIS UM CRÉDITO EXTRAORDINÁRIO NA IMPORTÂNCIA DE 10.000:000$000, DESTINADO ESPECIALMENTE PARA OCORRER AO PAGAMENTO DAS DESPESAS URGENTES JÁ FEITAS E QUE SE CONTINUAM A FAZER COM SOCORROS ÀS PROVÍNCIAS FLAGELADAS PELA SECA."
+    },
+    {
+      "senadoId": "579366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-25-6945",
+      "titulo": "Decreto nº 6.945 de 25/06/1878",
+      "data": "1878-06-25",
+      "numero": "6945",
+      "urn": "urn:lex:br:federal:decreto:1878-06-25;6945",
+      "ementa": "REVOGA O DECRETO 6755 DE 24 DE NOVEMBRO DE 1877, QUE ADIOU A ELEIÇÃO DE UM SENADOR PELA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "579370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-25-6946",
+      "titulo": "Decreto nº 6.946 de 25/06/1878",
+      "data": "1878-06-25",
+      "numero": "6946",
+      "urn": "urn:lex:br:federal:decreto:1878-06-25;6946",
+      "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO DE CRIMINOSOS CELEBRADO ENTRE O BRASIL E A ALEMANHA EM 17 DE SETEMBRO DE 1877."
+    },
+    {
+      "senadoId": "579374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-25-6947",
+      "titulo": "Decreto nº 6.947 de 25/06/1878",
+      "data": "1878-06-25",
+      "numero": "6947",
+      "urn": "urn:lex:br:federal:decreto:1878-06-25;6947",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS A APLICAR ÀS DESPESAS DA VERBA - EXTRAORDINÁRIAS NO EXTERIOR - NO EXERCÍCIO DE 1877 - 1878 A QUANTIA DE 8:114$434, TIRADA DA VERBA - AJUDAS DE CUSTO - DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "579378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-25-6948",
+      "titulo": "Decreto nº 6.948 de 25/06/1878",
+      "data": "1878-06-25",
+      "numero": "6948",
+      "urn": "urn:lex:br:federal:decreto:1878-06-25;6948",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A TRANSFERIR DA VERBA - GUARDA URBANA - PARA A VERBA - CONDUÇÃO, SUSTENTO E CURATIVO DE PRESOS - NO EXERCÍCIO DE 1877-1878 A QUANTIA DE 20:000$000."
+    },
+    {
+      "senadoId": "579362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-25-6944",
+      "titulo": "Decreto nº 6.944 de 25/06/1878",
+      "data": "1878-06-25",
+      "numero": "6944",
+      "urn": "urn:lex:br:federal:decreto:1878-06-25;6944",
+      "ementa": "ABRE CRÉDITOS SUPLEMENTARES NA IMPORTÂNCIA DE 2.007:497$824 PARA AS DESPESAS DO MINISTÉRIO DA MARINHA, SENDO 867:128$783 PARA A VERBA - ARSENAIS - 1.062:981$725 PARA A VERBA - FORÇA NAVAL - E 77:387$316 PARA A VERBA - EVENTUAIS - DO EXERCÍCIO DE 1877 A 1878."
+    },
+    {
+      "senadoId": "579358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-22-6943",
+      "titulo": "Decreto nº 6.943 de 22/06/1878",
+      "data": "1878-06-22",
+      "numero": "6943",
+      "urn": "urn:lex:br:federal:decreto:1878-06-22;6943",
+      "ementa": "CONCEDE PERMISSÃO A BENEDITO DE ALMEIDA TORRES PARA LAVRAR JAZIDAS DE URO E OUTROS MINERAIS NO MUNICÍPIO DA CAMPANHA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "579354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-22-6942",
+      "titulo": "Decreto nº 6.942 de 22/06/1878",
+      "data": "1878-06-22",
+      "numero": "6942",
+      "urn": "urn:lex:br:federal:decreto:1878-06-22;6942",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA MANUFATORA DO PÃO, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "579350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-19-6941",
+      "titulo": "Decreto nº 6.941 de 19/06/1878",
+      "data": "1878-06-19",
+      "numero": "6941",
+      "urn": "urn:lex:br:federal:decreto:1878-06-19;6941",
+      "ementa": "AUTORIZA OS ESTUDOS DEFINITIVOS E CONSTRUÇÃO DA ESTRADA DE FERRO DE PAULO AFONSO, NAS PROVÍNCIAS DE ALAGOAS E PERNAMBUCO."
+    },
+    {
+      "senadoId": "579346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-19-6940",
+      "titulo": "Decreto nº 6.940 de 19/06/1878",
+      "data": "1878-06-19",
+      "numero": "6940",
+      "urn": "urn:lex:br:federal:decreto:1878-06-19;6940",
+      "ementa": "DECLARA SER ESTRADA GERAL PARA O SERVIÇO DO ESTADO A VIA FÉRREA DE CAMOSSIM A SOBRAL E AUTORIZA OS ESTUDOS E CONSTRUÇÃO DAS RESPECTIVAS OBRAS."
+    },
+    {
+      "senadoId": "579326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-15-6935",
+      "titulo": "Decreto nº 6.935 de 15/06/1878",
+      "data": "1878-06-15",
+      "numero": "6935",
+      "urn": "urn:lex:br:federal:decreto:1878-06-15;6935",
+      "ementa": "CONCEDE PRIVILÉGIO A FERNANDES & IRMÃOS PARA O FABRICO DE CARROS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "579330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-15-6936",
+      "titulo": "Decreto nº 6.936 de 15/06/1878",
+      "data": "1878-06-15",
+      "numero": "6936",
+      "urn": "urn:lex:br:federal:decreto:1878-06-15;6936",
+      "ementa": "CONCEDE A SUAS ALTEZAS IMPERIAL E REAL A PRINCESA DONA ISABEL E O CONDE D'EU PERMISSÃO EXPLORAREM E LAVRAREM MINERAIS NAS TERRAS QUE CONSTITUEM SEU PATRIMÔNIO."
+    },
+    {
+      "senadoId": "579334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-15-6937",
+      "titulo": "Decreto nº 6.937 de 15/06/1878",
+      "data": "1878-06-15",
+      "numero": "6937",
+      "urn": "urn:lex:br:federal:decreto:1878-06-15;6937",
+      "ementa": "ELEVA A 20 ANOS O PRAZO DE 10 MARCADO NO DECRETO 6682 DE 12 DE SETEMBRO DE 1877 PARA SEVERINO LOURENÇO DA COSTA LEITE USAR E APLICAR A INDÚSTRIA FABRIL AS FIBRAS TEXTIS EXTRAÍDAS DOS CIPÓS LACTECENTES E MALPIGNÁCEOS."
+    },
+    {
+      "senadoId": "579342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-15-6939",
+      "titulo": "Decreto nº 6.939 de 15/06/1878",
+      "data": "1878-06-15",
+      "numero": "6939",
+      "urn": "urn:lex:br:federal:decreto:1878-06-15;6939",
+      "ementa": "DETERMINA QUE O CORREAME BRANCO, DE QUE USAM OS CORPOS E COMPANHIAS ISOLADAS DO EXÉRCITO, SEJA SUBSTITUÍDO PELO DE COURO PRETO."
+    },
+    {
+      "senadoId": "579338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-15-6938",
+      "titulo": "Decreto nº 6.938 de 15/06/1878",
+      "data": "1878-06-15",
+      "numero": "6938",
+      "urn": "urn:lex:br:federal:decreto:1878-06-15;6938",
+      "ementa": "CONCEDE PRIVILÉGIO A DOMENICO TESOURIERE, MARQUES TUPPUTI, PARA INTRODUZIR NO IMPÉRIO COMBUSTORES DE GÁS APERFEIÇOADOS."
+    },
+    {
+      "senadoId": "579298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6928",
+      "titulo": "Decreto nº 6.928 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6928",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6928",
+      "ementa": "CONCEDE PRIVILÉGIO A H. F. GUILHERME ROHE PARA FABRICAR ESTANTES GIRATÓRIAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "579302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6929",
+      "titulo": "Decreto nº 6.929 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6929",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6929",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AO TENENTE-CORONEL BENTO JOSÉ ALVES PEREIRA E OUTRO PARA A APRESENTAÇÃO DAS PLANTAS GEOLÓGICA E TOPOGRÁFICA DE QUE TRATA A CLÁUSULA 1ª DO DECRETO 5753 DE 23 DE SETEMBRO DE 1874."
+    },
+    {
+      "senadoId": "579322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6934",
+      "titulo": "Decreto nº 6.934 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6934",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6934",
+      "ementa": "REGULA A COMPETÊNCIA DOS TRIBUNAIS E A FORMA DO PROCESSO NOS CRIMES COMETIDOS EM PAÍS ESTRANGEIRO CONTRA O BRASIL E OS BRASILEIROS."
+    },
+    {
+      "senadoId": "579318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6933",
+      "titulo": "Decreto nº 6.933 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6933",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6933",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DAS DOCAS DE DOM PEDRO II."
+    },
+    {
+      "senadoId": "579310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6931",
+      "titulo": "Decreto nº 6.931 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6931",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6931",
+      "ementa": "CONCEDE PRIVILÉGIO A EUGÊNIO VOISIRE PARA INTRODUZIR NO IMPÉRIO FORNOS DESTINADOS A DERRETER FERRO."
+    },
+    {
+      "senadoId": "579294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6927",
+      "titulo": "Decreto nº 6.927 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6927",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6927",
+      "ementa": "CONCEDE PERMISSÃO A GOMES FREIRE DE ANDRADE TAVARES PARA EXPLORAR MINAS AURÍFERAS EM DIVERSAS PARÓQUIAS DO MUNICÍPIO DE SÃO PAULO DE MURIAÉ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "579306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6930",
+      "titulo": "Decreto nº 6.930 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6930",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6930",
+      "ementa": "CONCEDE PERMISSÃO A PEDRO PINHEIRO PAES LEME E SEU IRMÃO BERNARDO PINHEIRO PAES LEME PARA EXPLORAREM OURO NO MUNICIPÍO DE SANTA LUZIA, NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "579290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6926",
+      "titulo": "Decreto nº 6.926 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6926",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6926",
+      "ementa": "PRORROGA POR UM ANO, A CONTAR DA DATA EM QUE EXPIRAR, O PRAZO MARCADO NA CLÁUSULA 7ª DAS ANEXAS AO DECRETO 6746 DE 17 DENOVEMBRO DE 1877."
+    },
+    {
+      "senadoId": "579314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-08-6932",
+      "titulo": "Decreto nº 6.932 de 08/06/1878",
+      "data": "1878-06-08",
+      "numero": "6932",
+      "urn": "urn:lex:br:federal:decreto:1878-06-08;6932",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA MANUFATORA DE CIGARROS E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "579278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6923",
+      "titulo": "Decreto nº 6.923 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6923",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6923",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO BACHAREL LUIZ GONZAGA DE SOUZA BASTOS E FREDERICO AUGUSTO DUVEL PARA EXPLORAREM CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "579262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6919",
+      "titulo": "Decreto nº 6.919 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6919",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6919",
+      "ementa": "AUTORIZA O RESGATE DA ESTRADA DE FERRO DE BATURITÉ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "579282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6924",
+      "titulo": "Decreto nº 6.924 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6924",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6924",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOAQUIM RODRIGUES DE MORAES GOIANO PARA EXPLORAR MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "579270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6921",
+      "titulo": "Decreto nº 6.921 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6921",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6921",
+      "ementa": "CONCEDE AUTORIZAÇÃO A JOÃO FERREIRA DE SOUZA LEAL PARA EXPLORAR OURO E OUTROS METAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "411331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6918",
+      "titulo": "Decreto nº 6.918 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6918",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6918",
+      "ementa": "ABRE, AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DE 9.000:000$000, PARA O PAGAMENTO DO RESGATE DA ESTRADA DE FERRO DE BATURITÉ E DAS DESPESAS NÃO SÓ DO SEU PROLONGAMENTO ATÉ CANOA, MAS TAMBÉM DA CONSTRUÇÃO DAS ESTRADAS DE FERRO DO SOBRAL, E DE PAULO AFONSO."
+    },
+    {
+      "senadoId": "579274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6922",
+      "titulo": "Decreto nº 6.922 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6922",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6922",
+      "ementa": "DETERMINA QUE OS EXAMES DE AGRIMENSORES DE TERRAS PÚBLICAS SEJAM PRESTADOS NA ESCOLA POLITÉCNICA E NO CURSO DE INFANTARIA E CAVALARIA DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL E QUE POR AQUELA SE EXPEÇAM OS RESPECTIVOS TÍTULOS."
+    },
+    {
+      "senadoId": "579266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6920",
+      "titulo": "Decreto nº 6.920 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6920",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6920",
+      "ementa": "AUTORIZA A CONSTRUÇÃO DAS OBRAS DA ESTRADA DE FERRO DE BATURITÉ, DESDE A PACATUBA ATÉ CANOA, NA PROVÍNCIA DO CEARÁ; E A MANUTENÇÃO DA PARTE EM TRÁFEGO DA MESMA ESTRADA."
+    },
+    {
+      "senadoId": "579286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-06-01-6925",
+      "titulo": "Decreto nº 6.925 de 01/06/1878",
+      "data": "1878-06-01",
+      "numero": "6925",
+      "urn": "urn:lex:br:federal:decreto:1878-06-01;6925",
+      "ementa": "PRORROGA O PRAZO MARCADO NO DECRETO 6170 DE 15 DE ABRIL DE 1876, AUTORIZANDO LUCAS JOSÉ VIEIRA FERRAZ PARA EXPLORAR MINERAIS NO MUNICÍPIO DE BARRA MANSA, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "411311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-25-6913",
+      "titulo": "Decreto nº 6.913 de 25/05/1878",
+      "data": "1878-05-25",
+      "numero": "6913",
+      "urn": "urn:lex:br:federal:decreto:1878-05-25;6913",
+      "ementa": "PRORROGA O PRAZO DENTRO DO QUAL COLATINO MARQUES DE SOUZA DEVE POR EM PRÁTICA O PRIVILÉGIO CONCEDIDO POR DECRETO 6390 DE 30 DE NOVEMBRO DE 1876."
+    },
+    {
+      "senadoId": "411319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-25-6915",
+      "titulo": "Decreto nº 6.915 de 25/05/1878",
+      "data": "1878-05-25",
+      "numero": "6915",
+      "urn": "urn:lex:br:federal:decreto:1878-05-25;6915",
+      "ementa": "CONCEDE AUTORIZAÇÃO A FRANCISCO COUTO DA SILVA PARA LAVRAR JAZIDAS DE CRISTAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "411323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-25-6916",
+      "titulo": "Decreto nº 6.916 de 25/05/1878",
+      "data": "1878-05-25",
+      "numero": "6916",
+      "urn": "urn:lex:br:federal:decreto:1878-05-25;6916",
+      "ementa": "EXTINGUE A PRIMEIRA VARA CÍVEL DO RECIFE E PROVIDENCIA SOBRE AS RESPECTIVAS FUNÇÕES."
+    },
+    {
+      "senadoId": "411327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-25-6917",
+      "titulo": "Decreto nº 6.917 de 25/05/1878",
+      "data": "1878-05-25",
+      "numero": "6917",
+      "urn": "urn:lex:br:federal:decreto:1878-05-25;6917",
+      "ementa": "REÚNE AO TERMO DA SERRA O DE NOVA-ALMEIDA, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "411315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-25-6914",
+      "titulo": "Decreto nº 6.914 de 25/05/1878",
+      "data": "1878-05-25",
+      "numero": "6914",
+      "urn": "urn:lex:br:federal:decreto:1878-05-25;6914",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO PINHEIRO DE AGUIAR PARA UM SISTEMA DE RODAS DE CARRO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "411291",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6908",
+      "titulo": "Decreto nº 6.908 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6908",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6908",
+      "ementa": "CONCEDE PRIVILÉGIO A WALFRID SWVENSON E JOÃO RAMOS DE QUEIROZ PARA O SISTEMA DE CARRIS DE FERRO DE SUA INVENÇÃO DENOMINADO - TRANSPORTADOR DE TERRAS E APONTADOR DO SERVIÇO."
+    },
+    {
+      "senadoId": "411295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6909",
+      "titulo": "Decreto nº 6.909 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6909",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6909",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA - INDUSTRIAL FLUMINENSE."
+    },
+    {
+      "senadoId": "411279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6905",
+      "titulo": "Decreto nº 6.905 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6905",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6905",
+      "ementa": "CONCEDE PRIVILÉGIO A SILVA & SILVA PARA OS MELHORAMENTOS INTRODUZIDOS NO APARELHO DE FABRICAR GÁS, DENOMINADO - GLOBE."
+    },
+    {
+      "senadoId": "411263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6901",
+      "titulo": "Decreto nº 6.901 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6901",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6901",
+      "ementa": "APROVA AS MODIFICAÇÕES PROPOSTAS PELA COMPANHIA CITY IMPROVEMENTS PARA AS OBRAS DE ESGOTO DE DIFERENTES PRÉDIOS ÀS RUAS DE FONSECA TELES E SÃO LUIZ GONZAGA, NO BAIRRO DE SÃO CRISTÓVÃO, E PARA OS RAMAIS QUE PASSAM NA DE SÃO JANUÁRIO E ENTRE AS RUAS NOVAS DO ALCÂNTARA E VISCONDE DE ITAÚNA."
+    },
+    {
+      "senadoId": "411307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6912",
+      "titulo": "Decreto nº 6.912 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6912",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6912",
+      "ementa": "PRORROGA O PRAZO FIXADO NA CLÁUSULA 1ª DO DECRETO 6134 DE 4 DE MARÇO DE 1876, AUTORIZANDO ANTÔNIO ALVES PINTO PARA EXPLORAR COBRE E OUTROS METAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "411283",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6906",
+      "titulo": "Decreto nº 6.906 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6906",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6906",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ DE SÁ HOLANDA CAVALCANTE PARA O APARELHO DENOMINADO - GASOMÉTRICA."
+    },
+    {
+      "senadoId": "411275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6904",
+      "titulo": "Decreto nº 6.904 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6904",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6904",
+      "ementa": "CONCEDE PRIVILÉGIO A AUGUSTIN HENRY HAMON PARA INTRODUZIR NO IMPÉRIO TUBOS DE CHUMBO FORRADOS DE ESTANHO."
+    },
+    {
+      "senadoId": "411287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6907",
+      "titulo": "Decreto nº 6.907 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6907",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6907",
+      "ementa": "CONCEDE PRIVILÉGIO A CARLOS AUGUSTO RODRIGUES MARTINS E MANOEL JOSÉ DIAS DA SILVA PARA O FABRICO E VENDA DE CERA E OUTROS PRODUTOS."
+    },
+    {
+      "senadoId": "411271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6903",
+      "titulo": "Decreto nº 6.903 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6903",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6903",
+      "ementa": "DIVIDE EM DOIS O COMANDO SUPERIOR DE GUARDAS NACIONAIS DA COMARCA DE ITAQUI, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "411303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6911",
+      "titulo": "Decreto nº 6.911 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6911",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6911",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA - UNIÃO VALENCIANA - E FAZ ALTERAÇÕES NELES."
+    },
+    {
+      "senadoId": "411267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6902",
+      "titulo": "Decreto nº 6.902 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6902",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6902",
+      "ementa": "REÚNE AO TERMO DE PIRACURUCA O DA BATALHA, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "411299",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-18-6910",
+      "titulo": "Decreto nº 6.910 de 18/05/1878",
+      "data": "1878-05-18",
+      "numero": "6910",
+      "urn": "urn:lex:br:federal:decreto:1878-05-18;6910",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA ` COMÉRCIO MISTO ´."
+    },
+    {
+      "senadoId": "411239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-11-6895",
+      "titulo": "Decreto nº 6.895 de 11/05/1878",
+      "data": "1878-05-11",
+      "numero": "6895",
+      "urn": "urn:lex:br:federal:decreto:1878-05-11;6895",
+      "ementa": "AUTORIZA A COMPANHIA WILSON SONS AND COMPANY LIMITED PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "411259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-11-6900",
+      "titulo": "Decreto nº 6.900 de 11/05/1878",
+      "data": "1878-05-11",
+      "numero": "6900",
+      "urn": "urn:lex:br:federal:decreto:1878-05-11;6900",
+      "ementa": "REÚNE À VARA MUNICIPAL DO TERMO DO RIO GRANDE, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, À VARA ESPECIAL DE ÓRFÃOS DO MESMO TERMO."
+    },
+    {
+      "senadoId": "411251",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-11-6898",
+      "titulo": "Decreto nº 6.898 de 11/05/1878",
+      "data": "1878-05-11",
+      "numero": "6898",
+      "urn": "urn:lex:br:federal:decreto:1878-05-11;6898",
+      "ementa": "EXTINGUE A COMISSÃO DE PROMOÇÕES NO EXÉRCITO."
+    },
+    {
+      "senadoId": "411243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-11-6896",
+      "titulo": "Decreto nº 6.896 de 11/05/1878",
+      "data": "1878-05-11",
+      "numero": "6896",
+      "urn": "urn:lex:br:federal:decreto:1878-05-11;6896",
+      "ementa": "CONCEDE PRIVILÉGIO A JOAQUIM ALVES DE SOUZA PARA O APARELHO DESTINADO À PURIFICAÇÃO DO ÓLEO DA TURFA."
+    },
+    {
+      "senadoId": "411255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-11-6899",
+      "titulo": "Decreto nº 6.899 de 11/05/1878",
+      "data": "1878-05-11",
+      "numero": "6899",
+      "urn": "urn:lex:br:federal:decreto:1878-05-11;6899",
+      "ementa": "EXTINGUE A COMISSÃO DE MELHORAMENTOS DO MATERIAL DO EXÉRCITO."
+    },
+    {
+      "senadoId": "411247",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-11-6897",
+      "titulo": "Decreto nº 6.897 de 11/05/1878",
+      "data": "1878-05-11",
+      "numero": "6897",
+      "urn": "urn:lex:br:federal:decreto:1878-05-11;6897",
+      "ementa": "APROVA, COM ALTERAÇÕES, A REFORMA DOS ESTATUTOS DA COMPANHIA SOROCABANA DA ESTRADA DE FERRO DE SÃO PAULO A IPANEMA."
+    },
+    {
+      "senadoId": "411235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6894",
+      "titulo": "Decreto nº 6.894 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6894",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6894",
+      "ementa": "SUPRIME AS OFICINAS DE TANOEIROS, PEDREIROS E CANTEIROS DO ARSENAL DE MARINHA DA PROVÍNCIA DA BAHIA E CONSTITUI EM UMA SÓ AS DE APARELHO E VELAME, SUJEITAS À DIRETORIA DAS DE CONSTRUÇÃO NAVAL DO MESMO ARSENAL."
+    },
+    {
+      "senadoId": "411231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6893",
+      "titulo": "Decreto nº 6.893 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6893",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6893",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA ESTRADA DE FERRO DO RIO DOCE E CONCEDE-LHE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "411219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6890",
+      "titulo": "Decreto nº 6.890 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6890",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6890",
+      "ementa": "AUTORIZA A COMPANHIA DE SEGUROS CONTRA INCÊNDIOS ` BERLIM COLÔNIA ´ PARA ESTABELECER AGÊNCIAS EM VÁRIAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "411215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6889",
+      "titulo": "Decreto nº 6.889 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6889",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6889",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DA COMPANHIA FERRY."
+    },
+    {
+      "senadoId": "411227",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6892",
+      "titulo": "Decreto nº 6.892 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6892",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6892",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO A VAPOR UNIÃO DE VILA MARIA E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6888",
+      "titulo": "Decreto nº 6.888 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6888",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6888",
+      "ementa": "RESCINDE O CONTRATO CELEBRADO COM A COMPANHIA BRASILEIRA DE NAVEGAÇÃO TRANSATLÂNTICA."
+    },
+    {
+      "senadoId": "411207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6887",
+      "titulo": "Decreto nº 6.887 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6887",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6887",
+      "ementa": "ALTERA A CLÁUSULA 5ª DAS ANEXAS AO DECRETO N. 6683 DE 12 DE SETEMBRO DE 1877, RELATIVA PA ESTRADA DE FERRO DO RIO VERDE, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "411223",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-05-04-6891",
+      "titulo": "Decreto nº 6.891 de 04/05/1878",
+      "data": "1878-05-04",
+      "numero": "6891",
+      "urn": "urn:lex:br:federal:decreto:1878-05-04;6891",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA ASSOCIAÇÃO PREDIAL DA CIDADE DE MORRETES E CONCEDE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "411203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-27-6886",
+      "titulo": "Decreto nº 6.886 de 27/04/1878",
+      "data": "1878-04-27",
+      "numero": "6886",
+      "urn": "urn:lex:br:federal:decreto:1878-04-27;6886",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO NA CLÁUSULA 5ª DAS ANEXAS AO DECRETO N. 4916 DE 30 DE MARÇO DE 1872."
+    },
+    {
+      "senadoId": "411199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-27-6885",
+      "titulo": "Decreto nº 6.885 de 27/04/1878",
+      "data": "1878-04-27",
+      "numero": "6885",
+      "urn": "urn:lex:br:federal:decreto:1878-04-27;6885",
+      "ementa": "CONCEDE PRIVILÉGIO A CHARLES BIHEL PARA FABRICAR E VENDER CANTIS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "575656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-20-6884",
+      "titulo": "Decreto nº 6.884 de 20/04/1878",
+      "data": "1878-04-20",
+      "numero": "6884",
+      "urn": "urn:lex:br:federal:decreto:1878-04-20;6884",
+      "ementa": "ALTERA OS REGULAMENTOS DO IMPERIAL COLÉGIO DE PEDRO II."
+    },
+    {
+      "senadoId": "575652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-16-6883",
+      "titulo": "Decreto nº 6.883 de 16/04/1878",
+      "data": "1878-04-16",
+      "numero": "6883",
+      "urn": "urn:lex:br:federal:decreto:1878-04-16;6883",
+      "ementa": "APROVA O PLANO DE UNIFORME PARA OS OFICIAIS HONORÁRIOS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "575648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-15-6882",
+      "titulo": "Decreto nº 6.882 de 15/04/1878",
+      "data": "1878-04-15",
+      "numero": "6882",
+      "urn": "urn:lex:br:federal:decreto:1878-04-15;6882",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA EMITIR, NOS EXERCÍCIOS DE 1877 -   1878 - 1879, ATÉ A IMPORTÂNCIA DE SESSENTA MIL CONTOS DE RÉIS DE PAPEL-MOEDA."
+    },
+    {
+      "senadoId": "575644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-13-6881",
+      "titulo": "Decreto nº 6.881 de 13/04/1878",
+      "data": "1878-04-13",
+      "numero": "6881",
+      "urn": "urn:lex:br:federal:decreto:1878-04-13;6881",
+      "ementa": "CONVOCA PARA O DIA 15 DE DEZEMBRO DO CORRENTE ANO A NOVA ASSEMBLÉIA GERAL LEGISLATIVA E DESIGNA O DIA 5 DE AGOSTO PRÓXIMO FUTURO PARA SE PROCEDER EM TODO O IMPÉRIO Á ELEIÇÃO PRIMÁRIA."
+    },
+    {
+      "senadoId": "575640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-11-6880",
+      "titulo": "Decreto nº 6.880 de 11/04/1878",
+      "data": "1878-04-11",
+      "numero": "6880",
+      "urn": "urn:lex:br:federal:decreto:1878-04-11;6880",
+      "ementa": "DISSOLVE A CÂMARA DOS DEPUTADOS E CONVOCA OUTRA."
+    },
+    {
+      "senadoId": "575636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6879",
+      "titulo": "Decreto nº 6.879 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6879",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6879",
+      "ementa": "PROMULGA O TRATADO ADICIONAL AO DE EXTRADIÇÃO CELEBRADO ENTRE O BRASIL E A BÉLGICA EM 21 DE JUNHO DE 1873."
+    },
+    {
+      "senadoId": "575616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6874",
+      "titulo": "Decreto nº 6.874 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6874",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6874",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO MARCADO PARA CONCLUSÃO DA LINHA TELEGRÁFICA SUBMARINHA DO NORTE DO IMPÉRIO."
+    },
+    {
+      "senadoId": "575632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6878",
+      "titulo": "Decreto nº 6.878 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6878",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6878",
+      "ementa": "DECLARA SEM EFEITO AS DISPOSIÇÕES CONTIDAS NO ARTIGO 37 DO REGULAMENTO APROVADO PELO DECRETO 6.783 DE 29 DE DEZEMBRO DE 1877."
+    },
+    {
+      "senadoId": "575620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6875",
+      "titulo": "Decreto nº 6.875 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6875",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6875",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DA ESTRADA DE FERRO DA CIDADE DO NATAL Á VILA DE NOVA-CRUZ, NA PRIVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "575624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6876",
+      "titulo": "Decreto nº 6.876 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6876",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6876",
+      "ementa": "CONCEDE PERMISSÃO A FELISBERTO IGNACIO BARCELLOS E FELIPPE GUILLOT PARA A LAVRA DE OURO, PRATA E OUTROS MINERAES NA PROVINCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "575628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6877",
+      "titulo": "Decreto nº 6.877 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6877",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6877",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DO BANANAL E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "575612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-04-06-6873",
+      "titulo": "Decreto nº 6.873 de 06/04/1878",
+      "data": "1878-04-06",
+      "numero": "6873",
+      "urn": "urn:lex:br:federal:decreto:1878-04-06;6873",
+      "ementa": "SUPRIME AS OFICINAS DE CORDOARIA, PINTORES, TANOEIROS, BANDEIREIROS E CORREIROS DO ARSENAL DE MARINHA DA CORTE E COSNTITUE EM UMA SÓ AS DE APARELHO E VELAME, FICANDO SUJEITAS À DIRETORIA DAS OFICINAS DE CONSTRUÇÃO NAVAL."
+    },
+    {
+      "senadoId": "575608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-30-6872",
+      "titulo": "Decreto nº 6.872 de 30/03/1878",
+      "data": "1878-03-30",
+      "numero": "6872",
+      "urn": "urn:lex:br:federal:decreto:1878-03-30;6872",
+      "ementa": "DETERMINA QUE A COLÔNIA DE CANANÉA PASSE AO REGIMENTO COMUM ÁS OUTRAS POVOAÇÕES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "575604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-30-6871",
+      "titulo": "Decreto nº 6.871 de 30/03/1878",
+      "data": "1878-03-30",
+      "numero": "6871",
+      "urn": "urn:lex:br:federal:decreto:1878-03-30;6871",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO UM CRÉDITO EXTRAORDINÁRIO NA IMPORTÂNCIA DE 4.000:000$000, DESTINADO ESPECIALMENTE PARA OCORRER   AO PAGAMENTO DAS DESPESAS URGENTES QUE SE ESTÃO FAZENDO COM SOCORROS ÁS PROVÍNCIAS FLAGELADAS PELA SECA."
+    },
+    {
+      "senadoId": "575588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6867",
+      "titulo": "Decreto nº 6.867 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6867",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6867",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE PORTUGUESA DE BENEFICENCIA."
+    },
+    {
+      "senadoId": "575596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6869",
+      "titulo": "Decreto nº 6.869 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6869",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6869",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA IMPERIAL SOCIEDADE AUXILIADORA DAS ARTES MECANCIAS E LIBERAIS E BENEFICENTE."
+    },
+    {
+      "senadoId": "575576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6864",
+      "titulo": "Decreto nº 6.864 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6864",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6864",
+      "ementa": "CONCEDE PRIVILÉGIO A TEODORO AUGUSTO PAMPLONA PARA OS APRARELHOS DESTINADOS A EXPELIR DO LEITO DAS ESTRADAS DE FERRO OS CORPOS NELE ENCONTRADOS, E EVITAR OS DESENCARILHAMENTOS NAS PONTES, TÚNEIS E CURVAS."
+    },
+    {
+      "senadoId": "575580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6865",
+      "titulo": "Decreto nº 6.865 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6865",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6865",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA ESTRADA DE FERRO BARÃO DE ARARUAMA."
+    },
+    {
+      "senadoId": "575572",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6863",
+      "titulo": "Decreto nº 6.863 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6863",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6863",
+      "ementa": "CONCEDE PRIVILÉGIO A WILLIAM HANS HORNUM PARA O APARELHO DESTINADO A INDICAR O NÚMERO DOS PASSAGEIROS QUE TRANSITAREM NOS CARROS DAS ESTRADAS DE FERRO E TRILHOS URBANOS."
+    },
+    {
+      "senadoId": "575584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6866",
+      "titulo": "Decreto nº 6.866 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6866",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6866",
+      "ementa": "EXTINGUE UM LUGAR DE SUBSTITUTO NA COMARCA DO RECIFE, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "575568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6862",
+      "titulo": "Decreto nº 6.862 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6862",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6862",
+      "ementa": "CONCEDE PRIVILÉGIO A GRATIENT MILLIET PARA A MÁQUINA DE SUA INVENÇÃO DESTINADA A UTILIZAR A MANDIOCA."
+    },
+    {
+      "senadoId": "575592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6868",
+      "titulo": "Decreto nº 6.868 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6868",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6868",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE PROTETORA DOS BARBEIROS E CABELEIREIROS."
+    },
+    {
+      "senadoId": "575600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-23-6870",
+      "titulo": "Decreto nº 6.870 de 23/03/1878",
+      "data": "1878-03-23",
+      "numero": "6870",
+      "urn": "urn:lex:br:federal:decreto:1878-03-23;6870",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE DE SOCORROS MÚTUOS PROTETORA DOS ARTISTAS SAPATEIROS E PROFISSÕES CORRELATIVAS."
+    },
+    {
+      "senadoId": "575560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-16-6860",
+      "titulo": "Decreto nº 6.860 de 16/03/1878",
+      "data": "1878-03-16",
+      "numero": "6860",
+      "urn": "urn:lex:br:federal:decreto:1878-03-16;6860",
+      "ementa": "CONCEDE PERMISSÃO A ANTONIO JOAQUIM RODRIGUES PINTO PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS AO NORTE DA ILHA DE ITAPARICA, NA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "575564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-16-6861",
+      "titulo": "Decreto nº 6.861 de 16/03/1878",
+      "data": "1878-03-16",
+      "numero": "6861",
+      "urn": "urn:lex:br:federal:decreto:1878-03-16;6861",
+      "ementa": "CONCEDE PERMISSÃO A BENTO JOSÉ FERNANDES DE ALMEIDA PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS AO SUL DA ILHA DE ITAPARICA, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "575556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6859",
+      "titulo": "Decreto nº 6.859 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6859",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6859",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA TRANSPORTES A VAPOR DA CIDADE DO RIO GRANDE."
+    },
+    {
+      "senadoId": "575524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6851",
+      "titulo": "Decreto nº 6.851 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6851",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6851",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ BENTO GIL CARMINES PARA O APARELHO DE SUA INVENÇÃO DESTINADO A DESTRUIR FORMIGAS."
+    },
+    {
+      "senadoId": "575552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6858",
+      "titulo": "Decreto nº 6.858 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6858",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6858",
+      "ementa": "EXTINGUE ALGUMAS OFICINAS DOS ARSENAIS DE GUERRA DO IMPERIO, MODIFICA OUTRAS E APROVA O PLANO DE REORGANIZAÇÃO DAS CONSERVADAS."
+    },
+    {
+      "senadoId": "575540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6855",
+      "titulo": "Decreto nº 6.855 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6855",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6855",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ TORQUATO FERNANDES LEÃO PARA FABRICAR A MASSA DENOMINADA - CAFELATE -, SEGUNDO O PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "575516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6849",
+      "titulo": "Decreto nº 6.849 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6849",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6849",
+      "ementa": "ELEVA A 90 ANOS O PRIVILEGIO PARA A CONSTRUÇÃO DA ESTRADA DE FERRO DE SÃO CRISTOVÃO A AGUAS CLARAS, E PRORROGA POR MAIS UM ANO O PRAZO PARA INCORPORAÇÃO DA RESPECTIVA COMPANHIA."
+    },
+    {
+      "senadoId": "575520",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6850",
+      "titulo": "Decreto nº 6.850 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6850",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6850",
+      "ementa": "CONCEDE PRIVILÉGIO A JAMES WILLIAN BUTLER PARA INTRODUZIR NO IMPÉRIO APARELHOS DESTINADOS A MOLDAR TUBOS CONCRETOS."
+    },
+    {
+      "senadoId": "575544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6856",
+      "titulo": "Decreto nº 6.856 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6856",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6856",
+      "ementa": "CONCEDE PRIVILÉGIO AOS FILHOS DO FINADO FRANCISCO DE PAULA BELIDO PARA USAREM DO APARELHO DENOMINADO - REGULADOR AUTOMÁTICO."
+    },
+    {
+      "senadoId": "575532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6853",
+      "titulo": "Decreto nº 6.853 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6853",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6853",
+      "ementa": "CONCEDE PRIVILÉGIO A ANTÔNIO PEDRO COLARES PARA USAR DE APARELHOS DESTINADOS AO FÁBRICO DE PÃO E OUTROS PRODUTOS FARINÁCEOS."
+    },
+    {
+      "senadoId": "575548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6857",
+      "titulo": "Decreto nº 6.857 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6857",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6857",
+      "ementa": "REGULA A CONCESSÃO DE LICENÇAS AOS FUNCIONÁRIOS DEPENDENTES DO MINISTÉRIO DA JUSTIÇA."
+    },
+    {
+      "senadoId": "575536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6854",
+      "titulo": "Decreto nº 6.854 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6854",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6854",
+      "ementa": "CONCEDE PRIVILÉGIO A AUGUSTO DAUTEL PARA FABRICAR CAFETEIRAS DE SUA INVENÇÃO DENOMINADAS - ECONÔMICAS."
+    },
+    {
+      "senadoId": "575528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-09-6852",
+      "titulo": "Decreto nº 6.852 de 09/03/1878",
+      "data": "1878-03-09",
+      "numero": "6852",
+      "urn": "urn:lex:br:federal:decreto:1878-03-09;6852",
+      "ementa": "CONCEDE PRIVILÉGIO A JOHN WETSON PARA OS MELHORAMENTOS INTRODUZIDOS NA MÁQUINA DE SUA INVENÇÃO, DESTINADA A EXTRAIR OURO E DIAMANTES."
+    },
+    {
+      "senadoId": "575508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-02-6847",
+      "titulo": "Decreto nº 6.847 de 02/03/1878",
+      "data": "1878-03-02",
+      "numero": "6847",
+      "urn": "urn:lex:br:federal:decreto:1878-03-02;6847",
+      "ementa": "ESTABELECE AS CONDIÇÕES EM QUE NAVIOS ARMADOS PASSAM A NÃO PODER NAVEGAR PARA A CONTAGEM DO TEMPO DE EMBARQUE QUE A LEI DE PROMOÇÕES EXIGE DOS OFICIAIS DA ARMADA, BEM ASSIM REVOGA O DECRETO N. 6363 DE 3 DE NOVEMBRO DE 1876."
+    },
+    {
+      "senadoId": "575512",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-03-02-6848",
+      "titulo": "Decreto nº 6.848 de 02/03/1878",
+      "data": "1878-03-02",
+      "numero": "6848",
+      "urn": "urn:lex:br:federal:decreto:1878-03-02;6848",
+      "ementa": "EXTINGUE UM LUGAR DE SUBSTITUTO NA COMARCA DE SÃO LUIZ NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "575496",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-23-6844",
+      "titulo": "Decreto nº 6.844 de 23/02/1878",
+      "data": "1878-02-23",
+      "numero": "6844",
+      "urn": "urn:lex:br:federal:decreto:1878-02-23;6844",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO BARÃO DO ENGENHO-NOVO, PARA EXPLORAR JAZIDAS DE OURO NO MUNICÍPIO NEUTRO."
+    },
+    {
+      "senadoId": "575504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-23-6846",
+      "titulo": "Decreto nº 6.846 de 23/02/1878",
+      "data": "1878-02-23",
+      "numero": "6846",
+      "urn": "urn:lex:br:federal:decreto:1878-02-23;6846",
+      "ementa": "MANDA EXECUTAR NOVA TABELA REGULANDO O SUPRIMENTO DE MEDICAMENTOS E OUTROS OBJETOS ÁS BOTICAS DOS NAVIOS DA ARMADA."
+    },
+    {
+      "senadoId": "575492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-23-6843",
+      "titulo": "Decreto nº 6.843 de 23/02/1878",
+      "data": "1878-02-23",
+      "numero": "6843",
+      "urn": "urn:lex:br:federal:decreto:1878-02-23;6843",
+      "ementa": "DECLARA QUAIS OS SERVIÇOS, QUE DEVEM SER CONTEMPLADOS NA APOSENTADORIA DOS FUNCIONÁRIOS PÚBLICOS SUJEITOS OU DEPENDENTES DO MINISTÉRIO DA JUSTIÇA."
+    },
+    {
+      "senadoId": "411193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-23-6842",
+      "titulo": "Decreto nº 6.842 de 23/02/1878",
+      "data": "1878-02-23",
+      "numero": "6842",
+      "urn": "urn:lex:br:federal:decreto:1878-02-23;6842",
+      "ementa": "APROVA, COM ALTERAÇÃO, O ADITAMENTO FEITO AOS ESTATUTOS DA COMPANHIA BRASILEIRA DE NAVEGAÇÃO A VAPOR."
+    },
+    {
+      "senadoId": "575500",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-23-6845",
+      "titulo": "Decreto nº 6.845 de 23/02/1878",
+      "data": "1878-02-23",
+      "numero": "6845",
+      "urn": "urn:lex:br:federal:decreto:1878-02-23;6845",
+      "ementa": "EXTINGUE UM LUGAR DE SUBSTITUTO NAS COMARCAS DA FORTALEZA E DE SÃO LUIZ, NAS PROVÍNCIAS DO CEARÁ E MARANHÃO."
+    },
+    {
+      "senadoId": "411177",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-16-6838",
+      "titulo": "Decreto nº 6.838 de 16/02/1878",
+      "data": "1878-02-16",
+      "numero": "6838",
+      "urn": "urn:lex:br:federal:decreto:1878-02-16;6838",
+      "ementa": "APROVA OS ESTATUTOS DA NOVA COMPANHIA - TRAM-ROAD - DE NAZARETH, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-16-6839",
+      "titulo": "Decreto nº 6.839 de 16/02/1878",
+      "data": "1878-02-16",
+      "numero": "6839",
+      "urn": "urn:lex:br:federal:decreto:1878-02-16;6839",
+      "ementa": "DECLARA SUBSISTENTE, COM MODIFICAÇÕES, O ARTIGO 15 DOS ESTATUTOS DA COMPANHIA - FERRO-CARRIL MACAHE E IMBETIBA."
+    },
+    {
+      "senadoId": "411189",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-16-6841",
+      "titulo": "Decreto nº 6.841 de 16/02/1878",
+      "data": "1878-02-16",
+      "numero": "6841",
+      "urn": "urn:lex:br:federal:decreto:1878-02-16;6841",
+      "ementa": "FIRMA A INTELIGÊNCIA DA ORDENAÇÃO LIV. 1., TIT. 79, § 45, SOBRE INCOMPATIBILIDADES POR PARENTESCO."
+    },
+    {
+      "senadoId": "411185",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-16-6840",
+      "titulo": "Decreto nº 6.840 de 16/02/1878",
+      "data": "1878-02-16",
+      "numero": "6840",
+      "urn": "urn:lex:br:federal:decreto:1878-02-16;6840",
+      "ementa": "DECLARA QUE O PAI NÃO PODE ADVOGAR NOS FEITOS EM QUE É ESCRIVÃO O FILHO."
+    },
+    {
+      "senadoId": "411173",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-16-6837",
+      "titulo": "Decreto nº 6.837 de 16/02/1878",
+      "data": "1878-02-16",
+      "numero": "6837",
+      "urn": "urn:lex:br:federal:decreto:1878-02-16;6837",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA DE SEGUROS - PARAENSE - E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-02-09-6836",
+      "titulo": "Decreto nº 6.836 de 09/02/1878",
+      "data": "1878-02-09",
+      "numero": "6836",
+      "urn": "urn:lex:br:federal:decreto:1878-02-09;6836",
+      "ementa": "FIRMA A INTELIGÊNCIA DAS DISPOSIÇÕES EM VIGOR SOBRE ALGUMAS INCOMPATIBILIDADES."
+    },
+    {
+      "senadoId": "411165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-30-6835",
+      "titulo": "Decreto nº 6.835 de 30/01/1878",
+      "data": "1878-01-30",
+      "numero": "6835",
+      "urn": "urn:lex:br:federal:decreto:1878-01-30;6835",
+      "ementa": "DESIGNA A ORDEM EM QUE DEVEM SER EXTRAÍDAS AS LOTERIAS NO ANO DE 1878."
+    },
+    {
+      "senadoId": "411145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-30-6830",
+      "titulo": "Decreto nº 6.830 de 30/01/1878",
+      "data": "1878-01-30",
+      "numero": "6830",
+      "urn": "urn:lex:br:federal:decreto:1878-01-30;6830",
+      "ementa": "APROVA O PROJETO DE REFORMA E CONSOLIDAÇÃO DOS ESTATUTOS DO - BANCO PREDIAL."
+    },
+    {
+      "senadoId": "411157",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-30-6833",
+      "titulo": "Decreto nº 6.833 de 30/01/1878",
+      "data": "1878-01-30",
+      "numero": "6833",
+      "urn": "urn:lex:br:federal:decreto:1878-01-30;6833",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA - CANTAREIRA E ESGOTOS - DA PROVÍNCIA DE SÃO PAULO E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411153",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-30-6832",
+      "titulo": "Decreto nº 6.832 de 30/01/1878",
+      "data": "1878-01-30",
+      "numero": "6832",
+      "urn": "urn:lex:br:federal:decreto:1878-01-30;6832",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA DE CONSUMO DE PÃO DA PROVÍNCIA DE SÃO PAULO E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-30-6831",
+      "titulo": "Decreto nº 6.831 de 30/01/1878",
+      "data": "1878-01-30",
+      "numero": "6831",
+      "urn": "urn:lex:br:federal:decreto:1878-01-30;6831",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS ESTATUTOS DA COMPANHIA FLORA, E AUTORIZA A FUNCIONAR."
+    },
+    {
+      "senadoId": "411161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-30-6834",
+      "titulo": "Decreto nº 6.834 de 30/01/1878",
+      "data": "1878-01-30",
+      "numero": "6834",
+      "urn": "urn:lex:br:federal:decreto:1878-01-30;6834",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA DE SEGUROS - GARANTIA - DA CIDADE DO PORTO, PARA ESTABELECER UMA AGÊNCIA NA CAPITAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "411141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-26-6829",
+      "titulo": "Decreto nº 6.829 de 26/01/1878",
+      "data": "1878-01-26",
+      "numero": "6829",
+      "urn": "urn:lex:br:federal:decreto:1878-01-26;6829",
+      "ementa": "MANDA COBRAR NA RAZÃO DE 50% A TAXA ADICIONAL, DE QUE TRATA O ARTIGO 2 DAS DISPOSIÇÕES PRELIMINARES DA TARIFA DAS ALFANDEGAS E O ARTIGO 5 DO DECRETO 6.053 DE 13 DE DEZEMBRO DE 1875."
+    },
+    {
+      "senadoId": "411137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-19-6828",
+      "titulo": "Decreto nº 6.828 de 19/01/1878",
+      "data": "1878-01-19",
+      "numero": "6828",
+      "urn": "urn:lex:br:federal:decreto:1878-01-19;6828",
+      "ementa": "PERMITE QUE O CAPITAL DA SOCIEDADE - GARANTIA NACIONAL - SEJA REDUZIDO A QUINHENTOS CONTOS DE RÉIS."
+    },
+    {
+      "senadoId": "411133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1878-01-12-6827",
+      "titulo": "Decreto nº 6.827 de 12/01/1878",
+      "data": "1878-01-12",
+      "numero": "6827",
+      "urn": "urn:lex:br:federal:decreto:1878-01-12;6827",
+      "ementa": "MARCA O ORDENADO ANUAL DO CARCEREIRO DA CADEIA DA VILA DO PARÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    }
+  ],
+  "pendencias": [
+    {
+      "id": "570655",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/04/1878",
+      "dataassinatura": "06/04/1878",
+      "ementa": "CONCEDE PERMISSÃO A FELISBERTO INÁCIO BARCELOS E FELIPE GUILLOT PARA A LAVRA DE OURO, PRATA E OUTROS MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-10-13611",
+  "titulo": "Lei nº 13.611 de 10/01/2018",
+  "data": "2018-01-10",
+  "fonte": "https://normas.leg.br/api/public/binario/006db099-293c-4f16-88a8-c93d213e43d0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-10;13611",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-10%3B13611&tipo_documento=maior-detalhe",
+  "sha256_dados": "fdb989fbb9bbe5803c4e6f9240631e7ca373478f283d4a86eaad38bffc6d9d59",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:45.446Z",
+  "sha256_fonte": "893c9ba7ef26739e9e37c29ab9a3495cbfa530c94fef62e18cf8d18bd15405fe",
+  "sha256_markdown": "cbc0d49fe667bca8963d1bd8b5eb41af285fa136f8ee15f69b7ab40aab888a50"
+}

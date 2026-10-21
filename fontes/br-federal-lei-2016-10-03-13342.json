@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-10-03-13342",
+  "titulo": "Lei nº 13.342 de 03/10/2016",
+  "data": "2016-10-03",
+  "fonte": "https://normas.leg.br/api/public/binario/556e9b72-e520-4675-ad5c-6b4ff5a68764/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-10-03;13342",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-10-03%3B13342&tipo_documento=maior-detalhe",
+  "sha256_dados": "8bb933ceba13c164545259d3421c00c4e4e75adecb0f0cbf641017b7895f4d36",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:37.234Z",
+  "sha256_fonte": "05297e802454955ca13f5f2b507bf07dc969de48662b6eb3a3680fc7734b419e",
+  "sha256_markdown": "af6dd18b2fd4c3a9c01536505af723f65bbc448e436e60929d3061a002c6e9be"
+}

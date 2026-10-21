@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-12-22-13057",
+  "titulo": "Lei nº 13.057 de 22/12/2014",
+  "data": "2014-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/ef123bcd-ab9a-48c4-85bd-e3d81ca1e9f2/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-12-22;13057",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-12-22%3B13057&tipo_documento=maior-detalhe",
+  "sha256_dados": "c0fda5229d930d246fa421d05f118f643afdc7cd8f5026835fbbdf7afe373894",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:01.729Z",
+  "sha256_fonte": "11c840f7e696337d1047d461c6aeb934ed3c7c0c740f5325f6cd224d546082c2",
+  "sha256_markdown": "c336831e9e5219646f63f6d98f03bc78ef181eef5b242be1bd124290b64617e8"
+}

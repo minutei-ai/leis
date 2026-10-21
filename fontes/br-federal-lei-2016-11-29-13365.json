@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-11-29-13365",
+  "titulo": "Lei nº 13.365 de 29/11/2016",
+  "data": "2016-11-29",
+  "fonte": "https://normas.leg.br/api/public/binario/df1de648-c803-4ae4-8c7f-32d03a2fc02b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-11-29;13365",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-11-29%3B13365&tipo_documento=maior-detalhe",
+  "sha256_dados": "43ee5ee2883bfbd64281afc3117d4e3829e3a02e97f284c4a34d1d06220a7a6c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:07.611Z",
+  "sha256_fonte": "31c0088c2ed9623e3eb742f4d09697368d8eaa52b212affad4e08a29e24a5262",
+  "sha256_markdown": "97e9b8f962580e85dfeabb4085a70f48a6ef1d98947d5b74a10ebb3f5e60f6d2"
+}

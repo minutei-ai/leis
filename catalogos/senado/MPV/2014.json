@@ -1,0 +1,299 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2014",
+  "tipo": "MPV",
+  "ano": 2014,
+  "coletado_em": "2026-10-21T08:53:25.191Z",
+  "normas": [
+    {
+      "senadoId": "579889",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-12-30-665",
+      "titulo": "Medida Provisória nº 665 de 30/12/2014",
+      "data": "2014-12-30",
+      "numero": "665",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-12-30;665",
+      "ementa": "Altera a Lei nº 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial e institui o Fundo de Amparo ao Trabalhador - FAT, altera a Lei nº 10.779, de 25 de novembro de 2003, que dispõe sobre o seguro desemprego para o pescador artesanal, e dá outras providências."
+    },
+    {
+      "senadoId": "579887",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-12-30-664",
+      "titulo": "Medida Provisória nº 664 de 30/12/2014",
+      "data": "2014-12-30",
+      "numero": "664",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-12-30;664",
+      "ementa": "Altera as Leis nº 8.213, de 24 de julho de 1991, nº 10.876, de 2 junho de 2004, nº 8.112, de 11 de dezembro de 1990, e a Lei nº 10.666, de 8 de maio de 2003."
+    },
+    {
+      "senadoId": "579891",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-12-30-666",
+      "titulo": "Medida Provisória nº 666 de 30/12/2014",
+      "data": "2014-12-30",
+      "numero": "666",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-12-30;666",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União, de Transferências a Estados, Distrito Federal e Municípios, de Operações Oficiais de Crédito e de empresas estatais vinculadas a diversos órgãos, no valor de R$ 20.139.294.891,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579885",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-12-19-663",
+      "titulo": "Medida Provisória nº 663 de 19/12/2014",
+      "data": "2014-12-19",
+      "numero": "663",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-12-19;663",
+      "ementa": "Altera a Lei nº 12.096, de 24 de novembro de 2009."
+    },
+    {
+      "senadoId": "579883",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-12-08-662",
+      "titulo": "Medida Provisória nº 662 de 08/12/2014",
+      "data": "2014-12-08",
+      "numero": "662",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-12-08;662",
+      "ementa": "Abre crédito extraordinário, em favor da empresa estatal Telecomunicações Brasileiras S.A. - TELEBRÁS, no valor de R$ 404.755.786,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579881",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-12-02-661",
+      "titulo": "Medida Provisória nº 661 de 02/12/2014",
+      "data": "2014-12-02",
+      "numero": "661",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-12-02;661",
+      "ementa": "Autoriza a União a conceder crédito ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES e a destinar superávit financeiro das fontes de recursos existentes no Tesouro Nacional à cobertura de despesas primárias obrigatórias."
+    },
+    {
+      "senadoId": "579879",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-11-24-660",
+      "titulo": "Medida Provisória nº 660 de 24/11/2014",
+      "data": "2014-11-24",
+      "numero": "660",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-11-24;660",
+      "ementa": "Altera a Lei nº 12.800, de 23 de abril de 2013, que dispõe sobre as tabelas de salários, vencimentos, soldos e demais vantagens aplicáveis aos servidores civis, aos militares e aos empregados oriundos do ex-Território Federal de Rondônia integrantes do quadro em extinção de que trata o art. 85 da Lei nº 12.249, de 11 de junho de 2010, e dá outras providências."
+    },
+    {
+      "senadoId": "579877",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-11-10-659",
+      "titulo": "Medida Provisória nº 659 de 10/11/2014",
+      "data": "2014-11-10",
+      "numero": "659",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-11-10;659",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios das Relações Exteriores e da Defesa e de Encargos Financeiros da União, no valor de R$ 1.773.069.612,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579875",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-10-29-658",
+      "titulo": "Medida Provisória nº 658 de 29/10/2014",
+      "data": "2014-10-29",
+      "numero": "658",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-10-29;658",
+      "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, que estabelece o regime jurídico das parcerias voluntárias, envolvendo ou não transferências de recursos financeiros, entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação, para a consecução de finalidades de interesse público; define diretrizes para a política de fomento e de colaboração com organizações da sociedade civil; institui o termo de colaboração e o termo de fomento; e altera as Leis nºs 8.429, de 2 de junho de 1992, e 9.790, de 23 de março de 1999."
+    },
+    {
+      "senadoId": "579873",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-10-13-657",
+      "titulo": "Medida Provisória nº 657 de 13/10/2014",
+      "data": "2014-10-13",
+      "numero": "657",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-10-13;657",
+      "ementa": "Altera a Lei nº 9.266, de 15 de março de 1996, que reorganiza as classes da Carreira Policial Federal, fixa a remuneração dos cargos que as integram e dá outras providências."
+    },
+    {
+      "senadoId": "579871",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-10-07-656",
+      "titulo": "Medida Provisória nº 656 de 07/10/2014",
+      "data": "2014-10-07",
+      "numero": "656",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-10-07;656",
+      "ementa": "Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre a receita de vendas e na importação de partes utilizadas em aerogeradores, prorroga benefícios, altera o art. 46 da Lei nº 12.715, de 17 de setembro de 2012, que dispõe sobre a devolução ao exterior ou a destruição de mercadoria estrangeira cuja importação não seja autorizada, e dá outras providências."
+    },
+    {
+      "senadoId": "579869",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-08-25-655",
+      "titulo": "Medida Provisória nº 655 de 25/08/2014",
+      "data": "2014-08-25",
+      "numero": "655",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-08-25;655",
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 5.400.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "579867",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-08-12-654",
+      "titulo": "Medida Provisória nº 654 de 12/08/2014",
+      "data": "2014-08-12",
+      "numero": "654",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-08-12;654",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor de R$ 1.304.652.399,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579865",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-08-08-653",
+      "titulo": "Medida Provisória nº 653 de 08/08/2014",
+      "data": "2014-08-08",
+      "numero": "653",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-08-08;653",
+      "ementa": "Altera a Lei nº 13.021, de 8 de agosto de 2014, que dispõe sobre o exercício e a fiscalização das atividades farmacêuticas."
+    },
+    {
+      "senadoId": "579863",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-07-25-652",
+      "titulo": "Medida Provisória nº 652 de 25/07/2014",
+      "data": "2014-07-25",
+      "numero": "652",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-07-25;652",
+      "ementa": "Cria o Programa de Desenvolvimento da Aviação Regional."
+    },
+    {
+      "senadoId": "579861",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-07-09-651",
+      "titulo": "Medida Provisória nº 651 de 09/07/2014",
+      "data": "2014-07-09",
+      "numero": "651",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-07-09;651",
+      "ementa": "Dispõe sobre os fundos de índice de renda fixa, sob a responsabilidade tributária na integralização de cotas de fundos ou clubes de investimento por meio da entrega de ativos financeiros; sobre a tributação das operações de empréstimos de ativos financeiros; sobre a isenção de imposto sobre a renda na alienação de ações de empresas pequenas e médias; prorroga o prazo de que trata a Lei nº 12.431, de 24 de junho de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "579859",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-06-30-650",
+      "titulo": "Medida Provisória nº 650 de 30/06/2014",
+      "data": "2014-06-30",
+      "numero": "650",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-06-30;650",
+      "ementa": "Dispõe sobre a reestruturação da Carreira Policial Federal de que trata a Lei nº 9.266, de 15 de março de 1996, sobre a remuneração da Carreira de Perito Federal Agrário de que trata a Lei nº 10.550, de 13 de novembro de 2002, e dá outras providências."
+    },
+    {
+      "senadoId": "579857",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-06-05-649",
+      "titulo": "Medida Provisória nº 649 de 05/06/2014",
+      "data": "2014-06-05",
+      "numero": "649",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-06-05;649",
+      "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, que dispõe sobre as medidas de esclarecimento ao consumidor quanto à carga tributária incidente sobre mercadorias e serviços."
+    },
+    {
+      "senadoId": "579855",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-06-03-648",
+      "titulo": "Medida Provisória nº 648 de 03/06/2014",
+      "data": "2014-06-03",
+      "numero": "648",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-06-03;648",
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, e dispõe sobre a flexibilização do horário de transmissão do programa oficial de informações dos Poderes da República, durante a Copa do Mundo FIFA 2014."
+    },
+    {
+      "senadoId": "579853",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-05-28-647",
+      "titulo": "Medida Provisória nº 647 de 28/05/2014",
+      "data": "2014-05-28",
+      "numero": "647",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-05-28;647",
+      "ementa": "Dispõe sobre a adição obrigatória de biodiesel ao óleo diesel comercializado ao consumidor final, e dá outras providências."
+    },
+    {
+      "senadoId": "579851",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-05-26-646",
+      "titulo": "Medida Provisória nº 646 de 26/05/2014",
+      "data": "2014-05-26",
+      "numero": "646",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-05-26;646",
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro."
+    },
+    {
+      "senadoId": "579849",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-05-05-645",
+      "titulo": "Medida Provisória nº 645 de 05/05/2014",
+      "data": "2014-05-05",
+      "numero": "645",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-05-05;645",
+      "ementa": "Dispõe sobre a ampliação do Auxílio Emergencial Financeiro relativo aos desastres ocorridos em 2012."
+    },
+    {
+      "senadoId": "579847",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-04-30-644",
+      "titulo": "Medida Provisória nº 644 de 30/04/2014",
+      "data": "2014-04-30",
+      "numero": "644",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-04-30;644",
+      "ementa": "Altera os valores da tabela do imposto sobre a renda da pessoa física; altera a Lei nº 7.713, de 22 de dezembro de 1988, a Lei nº 9.250, de 26 de dezembro de 1995, e a Lei nº 11.482, de 31 de maio de 2007."
+    },
+    {
+      "senadoId": "579845",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-04-24-643",
+      "titulo": "Medida Provisória nº 643 de 24/04/2014",
+      "data": "2014-04-24",
+      "numero": "643",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-04-24;643",
+      "ementa": "Altera a Lei nº 9.648, de 27 de maio de 1998, para dispor sobre o mandato de Diretor-Geral do Operador Nacional do Sistema Elétrico - ONS."
+    },
+    {
+      "senadoId": "579843",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-04-17-642",
+      "titulo": "Medida Provisória nº 642 de 17/04/2014",
+      "data": "2014-04-17",
+      "numero": "642",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-04-17;642",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa e de Operações Oficiais de Crédito, no valor de R$ 5.100.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "579837",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-03-21-639",
+      "titulo": "Medida Provisória nº 639 de 21/03/2014",
+      "data": "2014-03-21",
+      "numero": "639",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-03-21;639",
+      "ementa": "Autoriza o Banco Central do Brasil a alienar à Companhia de Desenvolvimento Urbano da Região do Porto do Rio de Janeiro S.A. - CDURP os imóveis que especifica. ;"
+    },
+    {
+      "senadoId": "579839",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-03-21-640",
+      "titulo": "Medida Provisória nº 640 de 21/03/2014",
+      "data": "2014-03-21",
+      "numero": "640",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-03-21;640",
+      "ementa": "Cria, em caráter temporário, as Funções Comissionadas de Grandes Eventos - FCGE e extingue Funções Comissionadas Técnicas - FCT."
+    },
+    {
+      "senadoId": "579841",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-03-21-641",
+      "titulo": "Medida Provisória nº 641 de 21/03/2014",
+      "data": "2014-03-21",
+      "numero": "641",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-03-21;641",
+      "ementa": "Altera a Lei nº 10.848, de 15 de março de 2004, que dispõe sobre a comercialização de energia elétrica."
+    },
+    {
+      "senadoId": "579835",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2014-01-17-638",
+      "titulo": "Medida Provisória nº 638 de 17/01/2014",
+      "data": "2014-01-17",
+      "numero": "638",
+      "urn": "urn:lex:br:federal:medida.provisoria:2014-01-17;638",
+      "ementa": "Altera a Lei nº 12.715, de 17 de setembro de 2012, que institui o Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores - Inovar-Auto."
+    }
+  ],
+  "pendencias": []
+}

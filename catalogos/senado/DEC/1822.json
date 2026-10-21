@@ -1,0 +1,877 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1822",
+  "tipo": "DEC",
+  "ano": 1822,
+  "coletado_em": "2026-10-21T08:53:14.069Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "385290",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/12/1822 ( seq-sf: 124 )",
+      "dataassinatura": "30/12/1822",
+      "ementa": "MANDA SUJEITAR OS GÊNEROS DA INDÚSTRIA E MANUFATURA PORTUGUESA AO PAGAMENTO DE DIREITOS DE 24% DE IMPORTAÇÃO; ADMITE A DESPACHO O RAPÉ ESTRANGEIRO; E ESTABELECE TAXAS FIXAS PARA OS GÊNEROS DENOMINADOS MOLHADOS."
+    },
+    {
+      "id": "385288",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/12/1822 ( seq-sf: 123 )",
+      "dataassinatura": "26/12/1822",
+      "ementa": "ENCARREGA O BANCO DO BRASIL DE FORMAR O PLANO DE UMA LOTERIA, PARA COM O BENEFÍCIO DELA AUXILIAR AS DESPESAS DO TEATRO DE SÃO JOÃO."
+    },
+    {
+      "id": "385284",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/12/1822 ( seq-sf: 121 )",
+      "dataassinatura": "23/12/1822",
+      "ementa": "CRIA UMA COMPANHIA DE MILÍCIAS DE HOMENS PARDOS, NA CIDADE DE PORTO ALEGRE, PROVÍNCIA DE SÃO PEDRO, E APROVA O PLANO DE SUA ORGANIZAÇÃO."
+    },
+    {
+      "id": "385286",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/12/1822 ( seq-sf: 122 )",
+      "dataassinatura": "23/12/1822",
+      "ementa": "APROVA O UNIFORME PARA O REGIMENTO DE CAVALARIA DE MILÍCIAS DE MISSÕES, NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "id": "385282",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/12/1822 ( seq-sf: 120 )",
+      "dataassinatura": "21/12/1822",
+      "ementa": "DECLARA OS DIAS DE GALA NO IMPÉRIO."
+    },
+    {
+      "id": "385278",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/12/1822 ( seq-sf: 117 )",
+      "dataassinatura": "17/12/1822",
+      "ementa": "CRIA NA PROVINCIA DE SÃO PEDRO DO SUL UM BATALHÃO DE INFANTARIA DE MILICIAS."
+    },
+    {
+      "id": "385276",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/12/1822 ( seq-sf: 116 )",
+      "dataassinatura": "16/12/1822",
+      "ementa": "MANDA CRIAR NO REGIMENTO DE ARTILHARIA DA CÔRTE MAIS UM SEGUNDO SARGENTO POR COMPANHIA."
+    },
+    {
+      "id": "385274",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 14/12/1822 ( seq-sf: 115 )",
+      "dataassinatura": "14/12/1822",
+      "ementa": "CONCEDE O SOLDO DE 18$000 POR MÊS AO CAPELÃO DA FRAGATA UNIÃO, FREI BERNARDO BORGES, AINDA MESMO DESEMBARCADO."
+    },
+    {
+      "id": "385271",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/12/1822 ( seq-sf: 114 )",
+      "dataassinatura": "11/12/1822",
+      "ementa": "MANDA SEQUESTRAR AS MERCADORIAS, PRÉDIOS E BENS PERTENCENTES A VASSALOS DE PORTUGAL."
+    },
+    {
+      "id": "385259",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/12/1822 ( seq-sf: 111 )",
+      "dataassinatura": "10/12/1822",
+      "ementa": "CRIA UM LUGAR DE COMISSÁRIO GERAL DO EXÉRCITO."
+    },
+    {
+      "id": "385263",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/12/1822 ( seq-sf: 112 )",
+      "dataassinatura": "10/12/1822",
+      "ementa": "CRIA UM LUGAR DE CIRURGIÃO-MÓR DO EXÉRCITO."
+    },
+    {
+      "id": "385268",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/12/1822 ( seq-sf: 113 )",
+      "dataassinatura": "10/12/1822",
+      "ementa": "MANDA QUE, NOS DIPLOMAS ASSINADOS PELO IMPERADOR, DEPOIS DA DATA, SE ACRESCENTE O NÚMERO DE ANOS DECORRIDOS DESDE A SUA ACLAMAÇÃO."
+    },
+    {
+      "id": "385254",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/12/1822 ( seq-sf: 110 )",
+      "dataassinatura": "06/12/1822",
+      "ementa": "MANDA QUE OS EMPREGADOS DIPLOMÁTICOS DO IMPÉRIO USEM DE FARDA VERDE."
+    },
+    {
+      "id": "385250",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/12/1822 ( seq-sf: 109 )",
+      "dataassinatura": "05/12/1822",
+      "ementa": "CRIA UMA COMISSÃO PARA TRATAR DE TODOS OS OBJETOS CONCERNENTES À REPARTIÇÃO DE MARINHA."
+    },
+    {
+      "id": "385246",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/12/1822 ( seq-sf: 108 )",
+      "dataassinatura": "04/12/1822",
+      "ementa": "DETERMINA QUE AS PROMOÇÕES DO EXÉRCITO, ATÉ CORONEL, INCLUSIVE, SEJAM GERAIS EM CADA PROVÍNCIA E ARMA."
+    },
+    {
+      "id": "375364",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/12/1822",
+      "dataassinatura": "04/12/1822",
+      "ementa": "DETERMINA QUE AS PROMOÇÕES NO EXERCITO ATE CORONEL INCLUSIVE, SEJAM GERAIS EM CADA PROVINCIA E ARMA."
+    },
+    {
+      "id": "385230",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1822 ( seq-sf: 105 )",
+      "dataassinatura": "01/12/1822",
+      "ementa": "CONCEDE O PERDÃO DO CRIME DE DESERÇÃO A DETERMINADOS SOLDADOS DO BATALHÃO DE ARTILHARIA DA MARINHA DO RIO DE JANEIRO, QUE SE ACHAM PRESOS."
+    },
+    {
+      "id": "385225",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1822 ( seq-sf: 104 )",
+      "dataassinatura": "01/12/1822",
+      "ementa": "CRIA A IMPERIAL ORDEM DO CRUZEIRO."
+    },
+    {
+      "id": "385234",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1822 ( seq-sf: 106 )",
+      "dataassinatura": "01/12/1822",
+      "ementa": "MANDA SUBSTITUIR PELA COROA IMPERIAL A COROA REAL QUE SE ACHA SOBREPOSTA, NO ESCUDO DAS ARMAS."
+    },
+    {
+      "id": "385240",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1822 ( seq-sf: 107 )",
+      "dataassinatura": "01/12/1822",
+      "ementa": "ORGANIZA A GUARDA DE HONRA DA PESSOA DO IMPERADOR."
+    },
+    {
+      "id": "375363",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1822",
+      "dataassinatura": "01/12/1822",
+      "ementa": "ORGANIZA A GUARDA DE HONRA DA PESSOA DO IMPERADOR."
+    },
+    {
+      "id": "385214",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/11/1822 ( seq-sf: 102 )",
+      "dataassinatura": "29/11/1822",
+      "ementa": "MANDA QUE DURANTE A OCUPAÇÃO DA BAHIA PELAS TROPAS DE PORTUGAL, SEJAM OS RECURSOS JUDICIAIS INTERPOSTOS PARA A CASA DA SUPLICAÇÃO DESTA CÔRTE."
+    },
+    {
+      "id": "385219",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/11/1822 ( seq-sf: 103 )",
+      "dataassinatura": "29/11/1822",
+      "ementa": "CRIA UM BATALHÃO DE ARTILHARIA DE LINHA NA VILA DE SANTOS, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "id": "375362",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/11/1822",
+      "dataassinatura": "29/11/1822",
+      "ementa": "CRIA UM BATALHÃO DE ARTILHARIA DE LINHA NA VILA DE SANTOS DA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "id": "385207",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/11/1822 ( seq-sf: 101 )",
+      "dataassinatura": "26/11/1822",
+      "ementa": "COMUTA A PENA DE DEGREDO PARA A INDIA E COSTA DA AFRICA NA DE TRABALHOS NAS OBRAS PUBLICAS AOS REUS DETIDOS NAS CADEIAS."
+    },
+    {
+      "id": "385202",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/11/1822 ( seq-sf: 100 )",
+      "dataassinatura": "26/11/1822",
+      "ementa": "COMUTA A PENA DE MORTE NA IMEDIATA AOS RÉUS QUE CONTAREM MAIS DE TRÊS ANOS DE PRISÃO."
+    },
+    {
+      "id": "385196",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/11/1822 ( seq-sf: 99 )",
+      "dataassinatura": "22/11/1822",
+      "ementa": "CRIA UM AJUDANTE DO AUDITOR DAS TROPAS NA CÔRTE E PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "id": "385190",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/11/1822 ( seq-sf: 98 )",
+      "dataassinatura": "20/11/1822",
+      "ementa": "EXTINGUE O REGIMENTO DE INFANTARIA DA PROVÍNCIA DE SANTA CATARINA E CRIA UM BATALHÃO DE CAÇADORES."
+    },
+    {
+      "id": "375361",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/11/1822",
+      "dataassinatura": "20/11/1822",
+      "ementa": "EXTINGUE O REGIMENTO DE INFANTARIA DA PROVINCIA DE SANTA CATARINA E CRIA UM BATALHÃO DE CAÇADORES."
+    },
+    {
+      "id": "385183",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/1822 ( seq-sf: 97 )",
+      "dataassinatura": "19/11/1822",
+      "ementa": "AUTORIZA AS DESPESAS COM A COROAÇÃO E SAGRAÇÃO DE SUA MAJESTADE O IMPERADOR."
+    },
+    {
+      "id": "375360",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/1822",
+      "dataassinatura": "19/11/1822",
+      "ementa": "EXTINGUE O CORPO DE TROPA DE LINHA DA PROVINCIA DA PARAIBA DO NORTE E CRIA UM SO BATALHÃO DE CAÇADORES E UMA COMPANHIA DE ARTILHARIA."
+    },
+    {
+      "id": "385175",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/1822 ( seq-sf: 96 )",
+      "dataassinatura": "19/11/1822",
+      "ementa": "EXTINGUE O CORPO DE TROPA DE LINHA DA PROVÍNCIA DA PARAÍBA DO NORTE E CRIA UM SÓ BATALHÃO DE CAÇADORES E UMA COMPANHIA DE ARTILHARIA."
+    },
+    {
+      "id": "375359",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/11/1822",
+      "dataassinatura": "18/11/1822",
+      "ementa": "DÁ ORGANIZAÇÃO A CADA UM DOS BATALHÕES DE CAÇADORES DESTA CORTE."
+    },
+    {
+      "id": "385165",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/11/1822 ( seq-sf: 94 )",
+      "dataassinatura": "18/11/1822",
+      "ementa": "DÁ ORGANIZAÇÃO A CADA UM DOS BATALHÕES DE CAÇADORES DESTA CÔRTE."
+    },
+    {
+      "id": "385149",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/11/1822 ( seq-sf: 92 )",
+      "dataassinatura": "12/11/1822",
+      "ementa": "CRIA UM BATALHÃO DE ARTILHARIA DE POSIÇÃO, COMPOSTO DE PRETOS LIBERTOS."
+    },
+    {
+      "id": "385141",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/11/1822 ( seq-sf: 91 )",
+      "dataassinatura": "12/11/1822",
+      "ementa": "MANDA COBRAR DIREITOS DAS MERCADORIAS ESTRANGEIRAS REEMBARCADAS DA BAHIA, DURANTE A OCUPAÇÃO DAS TROPAS PORTUGUESAS, E DETERMINA QUE A DÍVIDA CONTRAÍDA PELO BRIGADEIRO IGNÁCIO LUIZ MADEIRA DE MELLO NÃO SEJA PAGA PELAS RENDAS DA PROVÍNCIA."
+    },
+    {
+      "id": "385131",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/11/1822 ( seq-sf: 90 )",
+      "dataassinatura": "12/11/1822",
+      "ementa": "DECLARA DE NENHUM EFEITO AS GRAÇAS E OFÍCIOS PERTENCENTES A PESSOAS RESIDENTES EM PORTUGAL."
+    },
+    {
+      "id": "385123",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/11/1822 ( seq-sf: 89 )",
+      "dataassinatura": "11/11/1822",
+      "ementa": "ESTENDE AOS MILITARES DAS DIVERSAS PROVÍNCIAS DO IMPÉRIO OS SOLDOS E GRATIFICAÇÕES QUE VENCEM OS DA CÔRTE."
+    },
+    {
+      "id": "385114",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/11/1822 ( seq-sf: 88 )",
+      "dataassinatura": "11/11/1822",
+      "ementa": "REGULA A EXPEDIÇÃO DAS PATENTES DOS OFICIAIS DE MILÍCIAS E ORDENANÇAS."
+    },
+    {
+      "id": "385104",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/11/1822 ( seq-sf: 87 )",
+      "dataassinatura": "07/11/1822",
+      "ementa": "CONCEDE AUMENTO DE SOLDO AOS CAPELÃES DAS FORTALEZAS DESTA CIDADE."
+    },
+    {
+      "id": "385095",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/10/1822 ( seq-sf: 86 )",
+      "dataassinatura": "30/10/1822",
+      "ementa": "REINTEGRA OS MINISTROS E SECRETÁRIOS DE ESTADO, QUE HAVIAM SIDOS DEMITIDOS A SEU PEDIDO POR DECRETO 28 DO CORRENTE MÊS, EM CONSEQUÊNCIA DO QUE REPRESENTARAM A SUA MAJESTADE IMPERIAL O POVO E TROPA DESTA CIDADE."
+    },
+    {
+      "id": "385086",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/10/1822 ( seq-sf: 85 )",
+      "dataassinatura": "28/10/1822",
+      "ementa": "CONCEDE A JOSÉ BONIFÁCIO DE ANDRADE E SILVA E OUTROS AS SUAS DEMISSÕES DE MINISTROS E SECRETÁRIOS DE ESTADO."
+    },
+    {
+      "id": "385069",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/10/1822 ( seq-sf: 83 )",
+      "dataassinatura": "24/10/1822",
+      "ementa": "MANDA QUE O BATALHÃO DA BRIGADA DA MARINHA SE DENOMINE - BATALHÃO DE ARTILHARIA DA MARINHA DO RIO DE JANEIRO."
+    },
+    {
+      "id": "385076",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/10/1822 ( seq-sf: 84 )",
+      "dataassinatura": "24/10/1822",
+      "ementa": "CRIA O LUGAR DE CIRURGIÃO- MÓR DA ARMADA DO IMPÉRIO DO BRASIL."
+    },
+    {
+      "id": "385295",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/10/1822 ( seq-sf: 127 )",
+      "dataassinatura": "23/10/1822",
+      "ementa": "CRIA O LUGAR DE BIBLIOTECÁRIO DA BIBLIOTECA PÚBLICA DESTA CÔRTE."
+    },
+    {
+      "id": "385297",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/10/1822 ( seq-sf: 128 )",
+      "dataassinatura": "23/10/1822",
+      "ementa": "DETERMINA QUE O AJUDANTE DA BIBLIOTECA PÚBLICA DESTA CÔRTE SUBSTITUA O BIBLIOTECÁRIO NOS SEUS IMPEDIMENTOS."
+    },
+    {
+      "id": "385061",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/10/1822 ( seq-sf: 82 )",
+      "dataassinatura": "22/10/1822",
+      "ementa": "CONCEDE PERDÃO AOS PRESOS POR CAUSA DE CRIMES, EXCETO AOS QUE ESTIVEREM PELOS DELITOS QUE SÃO ESPECIFICADOS."
+    },
+    {
+      "id": "385053",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/10/1822 ( seq-sf: 81 )",
+      "dataassinatura": "21/10/1822",
+      "ementa": "MANDA RECEBER AS QUANTIAS OFERECIDAS, DEPOIS DE COMPLETA A IMPORTÂNCIA DO EMPRÉSTIMO MANDADO CONTRAIR."
+    },
+    {
+      "id": "375358",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/10/1822",
+      "dataassinatura": "13/10/1822",
+      "ementa": "DETERMINA QUE DOS TRES BATALHÕES DE FUZILEIROS DA GUARNIÇÃO DESTA CORTE, SE FORMEM TRES BATALHÕES DE CAÇADORES."
+    },
+    {
+      "id": "385034",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/10/1822 ( seq-sf: 79 )",
+      "dataassinatura": "13/10/1822",
+      "ementa": "MANDA QUE SE USE NOS TRIBUNAIS E MAIS REPARTIÇÕES PÚBLICAS DO TÍTULO DE MAJESTADE IMPERIAL."
+    },
+    {
+      "id": "385045",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/10/1822 ( seq-sf: 80 )",
+      "dataassinatura": "13/10/1822",
+      "ementa": "DETERMINA QUE DOS TRÊS BATALHÕES DE FUZILEIROS DA GUARNIÇÃO DESTA CÔRTE, SE FORMEM TRÊS BATALHÕES DE CAÇADORES."
+    },
+    {
+      "id": "385025",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/10/1822 ( seq-sf: 78 )",
+      "dataassinatura": "12/10/1822",
+      "ementa": "CONCEDE O PERDÃO DE CRIME DE DESERÇÃO COMETIDOS PELOS SOLDADOS DO CORPO DE BRIGADA DA MARINHA QUE SE ACHAM PRESOS."
+    },
+    {
+      "id": "385015",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/10/1822 ( seq-sf: 77 )",
+      "dataassinatura": "12/10/1822",
+      "ementa": "PERDOA O CRIME DE 1ª, 2ª E 3ª DESERÇÃO AOS SOLDADOS DOS CORPOS DE 1ª LINHA."
+    },
+    {
+      "id": "384994",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/10/1822 ( seq-sf: 75 )",
+      "dataassinatura": "05/10/1822",
+      "ementa": "NOMEIA AJUDANTE DE CAMPO JUNTO À PESSOA DO PRÍNCIPE REGENTE."
+    },
+    {
+      "id": "385006",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/10/1822 ( seq-sf: 76 )",
+      "dataassinatura": "05/10/1822",
+      "ementa": "CONFIRMA A CRIAÇÃO DA GUARDA CÍVICA DA CIDADE DE SÃO PAULO COM A DENOMINAÇÃO DE - SUSTENTÁCULO DA INDEPENDÊNCIA BRASÍLICA."
+    },
+    {
+      "id": "384972",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/10/1822 ( seq-sf: 73 )",
+      "dataassinatura": "04/10/1822",
+      "ementa": "PERMITE QUE POSSAM SER PROPOSTOS OS SARGENTOS DOS CORPOS DE LINHA PARA AJUDANTES E QUARTÉIS-MESTRES DOS MESMOS CORPOS COM A PATENTE DE ALFERES."
+    },
+    {
+      "id": "384960",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822 ( seq-sf: 72 )",
+      "dataassinatura": "02/10/1822",
+      "ementa": "EXTINGUE EM GERAL O LUGAR DE INSPETOR NAS TRÊS ARMAS DO EXÉRCITO."
+    },
+    {
+      "id": "384971",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822 ( seq-sf: 73 )",
+      "dataassinatura": "02/10/1822",
+      "ementa": "CRIA NOS DISTRITOS DA ILHA GRANDE E PARATÍ UMA COMPANHIA DE ARTILHARIA DE 1ª LINHA, ADIDA AO REGIMENTO DE ARTILHARIA DA CÔRTE."
+    },
+    {
+      "id": "384937",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822 ( seq-sf: 70 )",
+      "dataassinatura": "02/10/1822",
+      "ementa": "MANDA FORMAR DO 1º BATALHÃO DE CAÇADORES - HENRIQUES DESTA CÔRTE - UM BATALHÃO DE ARTILHARIA DE MILÍCIAS."
+    },
+    {
+      "id": "572214",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822 ( seq-sf: 1 )",
+      "dataassinatura": "02/10/1822",
+      "ementa": "MANDA CRIAR NO DISTRITO DOS CAMPOS DE GOYTACAZES UMA COMPANHIA PERMANENTE DE ARTILHARIA A CAVALO."
+    },
+    {
+      "id": "384924",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822 ( seq-sf: 69 )",
+      "dataassinatura": "02/10/1822",
+      "ementa": "MANDA CRIAR NOS TRÊS BATALHÕES DE FUZILEIROS DA GUARNIÇÃO DESTA CÔRTE MAIS UM ALFERES POR COMPANHIA."
+    },
+    {
+      "id": "384948",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822 ( seq-sf: 71 )",
+      "dataassinatura": "02/10/1822",
+      "ementa": "MANDA CRIAR NO DISTRITO DOS CAMPOS DE GOITACAZES UMA COMPANHIA PERMANENTE DE ARTILHARIA A CAVALO."
+    },
+    {
+      "id": "375357",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/10/1822",
+      "dataassinatura": "02/10/1822",
+      "ementa": "CRIA NOS DISTRITOS DA ILHA GRANDE E PARATY UMA COMPANHIA DE ARTILHARIA DE PRIMEIRA LINHA, ADIDA AO REGIMENTO DE ARTILHARIA DA CORTE."
+    },
+    {
+      "id": "384912",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/09/1822 ( seq-sf: 68 )",
+      "dataassinatura": "29/09/1822",
+      "ementa": "PROÍBE QUE OS PARTICULARES USEM DA COR VERDE NAS LIBRÉS DE SEUS CRIADOS."
+    },
+    {
+      "id": "384899",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/09/1822 ( seq-sf: 67 )",
+      "dataassinatura": "25/09/1822",
+      "ementa": "MANDA CRIAR NESTA CAPITAL UM CORPO DE GUARDA CÍVICA, E APROVA O PLANO DE SUA ORGANIZAÇÃO."
+    },
+    {
+      "id": "384885",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/09/1822 ( seq-sf: 66 )",
+      "dataassinatura": "25/09/1822",
+      "ementa": "PERMITE QUE AS MEDALHAS CONCEDIDAS AO EXÉRCITO PACIFICADOR DO SUL, SE POSSAM TRAZER PENDENTES AO PEITO."
+    },
+    {
+      "id": "384871",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/09/1822 ( seq-sf: 65 )",
+      "dataassinatura": "25/09/1822",
+      "ementa": "APROVA O UNIFORME DO ESQUADRÃO DE CAVALARIA DE LINHA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "id": "384859",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/09/1822 ( seq-sf: 64 )",
+      "dataassinatura": "23/09/1822",
+      "ementa": "FAZ CESSAR A DEVASSA A QUE SE MANDOU PROCEDER NA PROVÍNCIA DE SÃO PAULO, PONDO EM LIBERDADE OS QUE TIVEREM PRESOS."
+    },
+    {
+      "id": "384845",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/09/1822 ( seq-sf: 63 )",
+      "dataassinatura": "20/09/1822",
+      "ementa": "REGULA OS UNIFORMES DOS CRIADOS DA CASA DO PRÍNCIPE REAL."
+    },
+    {
+      "id": "384833",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/09/1822 ( seq-sf: 62 )",
+      "dataassinatura": "18/09/1822",
+      "ementa": "DÁ AO BRASIL UM ESCUDO DE ARMAS."
+    },
+    {
+      "id": "384806",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/09/1822 ( seq-sf: 60 )",
+      "dataassinatura": "18/09/1822",
+      "ementa": "CONCEDE ANISTIA GERAL PARA AS PASSADAS OPINIÕES POLÍTICAS; ORDENA O DISTINTIVO - INDEPENDÊNCIA OU MORTE - E A SAÍDA DOS DISSIDENTES."
+    },
+    {
+      "id": "384819",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/09/1822 ( seq-sf: 61 )",
+      "dataassinatura": "18/09/1822",
+      "ementa": "DETERMINA O TOPE NACIONAL BRASILIENSE, E A LEGENDA DOS PATRIOTAS DO BRASIL."
+    },
+    {
+      "id": "384795",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/09/1822 ( seq-sf: 59 )",
+      "dataassinatura": "09/09/1822",
+      "ementa": "MANDA QUE AS AUTORIDADES QUE SUCEDIAM, NA FALTA DOS CAPITÃES-GENERAIS, FIQUEM ENCARREGADOS DO GOVERNO DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "id": "384783",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/09/1822 ( seq-sf: 58 )",
+      "dataassinatura": "08/09/1822",
+      "ementa": "DECLARA QUE TODO O INDIVÍDUO QUE VOLUNTARIAMENTE ASSENTAR PRAÇA NO CORPO DE ARTILHARIA DE 1ª LINHA DA PRAÇA DE SANTOS, SIRVA SOMENTE POR TRÊS ANOS."
+    },
+    {
+      "id": "384745",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/08/1822 ( seq-sf: 55 )",
+      "dataassinatura": "13/08/1822",
+      "ementa": "DETERMINA QUE, NA AUSÊNCIA DO PRÍNCIPE REGENTE, PRESIDA A PRINCESA REAL AO DESPACHO DO EXPEDIENTE E ÀS SESSÕES DO CONSELHO DE ESTADO."
+    },
+    {
+      "id": "384759",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/08/1822 ( seq-sf: 56 )",
+      "dataassinatura": "13/08/1822",
+      "ementa": "NOMEIA UM MINISTRO E SECRETÁRIO DE ESTADO ESPECIAL, PARA ACOMPANHAR A S. A. O PRÍNCIPE REGENTE À PROVÍNCIA DE SÃO PAULO, E ASSISTIR AO DESPACHO E EXPEDIR AS RESPECTIVAS ORDENS."
+    },
+    {
+      "id": "384716",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/08/1822 ( seq-sf: 53 )",
+      "dataassinatura": "09/08/1822",
+      "ementa": "MANDA QUE O TENENTE GENERAL BARÃO DA LAGUNA CONTINUE A COMANDAR EM CHEFE AS TROPAS DA PROVÍNCIA DE MONTEVIDÉU."
+    },
+    {
+      "id": "384731",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/08/1822 ( seq-sf: 54 )",
+      "dataassinatura": "09/08/1822",
+      "ementa": "DECLARA O SOLDO DOS ANSPEÇADAS DO BATALHÃO DA BRIGADA NACIONAL E REAL DA MARINHA DESTACADO NESTA CÔRTE."
+    },
+    {
+      "id": "384685",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/08/1822 ( seq-sf: 51 )",
+      "dataassinatura": "07/08/1822",
+      "ementa": "MANDA EXTINGUIR O TERCEIRO BATALHÃO DE CAÇADORES DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "id": "384701",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/08/1822 ( seq-sf: 52 )",
+      "dataassinatura": "07/08/1822",
+      "ementa": "MANDA ABONAR AOS OFICIAIS DOS CORPOS DE LINHA DE PERNAMBUCO MEIO SOLDO DE SUAS PATENTES QUANDO DOENTES NO HOSPITAL."
+    },
+    {
+      "id": "384670",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/08/1822 ( seq-sf: 50 )",
+      "dataassinatura": "03/08/1822",
+      "ementa": "DECLARA AS INSTRUÇÕES DE 19 DE JUNHO DESTE ANO, SOBRE A ELEIÇÃO DE DEPUTADOS À ASSEMBLÉIA GERAL CONSTITUINTE E LEGISLATIVA DO REINO DO BRASIL."
+    },
+    {
+      "id": "385293",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/08/1822 ( seq-sf: 126 )",
+      "dataassinatura": "03/08/1822",
+      "ementa": "CRIA O LUGAR DE AJUDANTE DA BIBLIOTECA PÚBLICA DESTA CÔRTE."
+    },
+    {
+      "id": "384655",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/08/1822 ( seq-sf: 49 )",
+      "dataassinatura": "01/08/1822",
+      "ementa": "MANDA ABONAR AOS OFICIAIS DA GUARNIÇÃO DA CÔRTE MEIO SOLDO DAS SUAS PATENTES, QUANDO DOENTES NO HOSPITAL MILITAR."
+    },
+    {
+      "id": "384637",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/08/1822 ( seq-sf: 48 )",
+      "dataassinatura": "01/08/1822",
+      "ementa": "DECLARA INIMIGAS AS TROPAS MANDADAS DE PORTUGAL."
+    },
+    {
+      "id": "384619",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/07/1822 ( seq-sf: 47 )",
+      "dataassinatura": "30/07/1822",
+      "ementa": "MANDA CONTRAIR UM EMPRÉSTIMO PARA FAZER FACE ÀS MAIS URGENTES DESPESAS DO ESTADO."
+    },
+    {
+      "id": "384602",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/07/1822 ( seq-sf: 46 )",
+      "dataassinatura": "26/07/1822",
+      "ementa": "SUSPENDE O ALVARÁ DE 22 DE OUTUBRO DE 1821, NA PARTE EM QUE CONCEDE À IRMANDADE DA SANTA CRUZ DESTA CIDADE O LEVANTAR PRÉDIOS NO TERRENO DE QUE ESTÁ DE POSSE, DESDE A IGREJA DA MESMA IRMANDADE ATÉ O MAR."
+    },
+    {
+      "id": "384583",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/07/1822 ( seq-sf: 45 )",
+      "dataassinatura": "22/07/1822",
+      "ementa": "MARCA O SOLDO DOS CABOS E ANSPEÇADA DOS BATALHÕES DE LINHA DA GUARNIÇÃO DESTA CORTE."
+    },
+    {
+      "id": "384563",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/07/1822 ( seq-sf: 44 )",
+      "dataassinatura": "20/07/1822",
+      "ementa": "MANDA REGRESSAR PARA PORTUGAL A DIVISÃO DOS VOLUNTÁRIOS REAIS D'EL REI ESTACIONADA EM MONTEVIDÉO."
+    },
+    {
+      "id": "384542",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/07/1822 ( seq-sf: 43 )",
+      "dataassinatura": "20/07/1822",
+      "ementa": "SOBRE OS SERVIÇOS PRESTADOS A CAUSA DO ESTADO CISPLATINO E DO BRASIL EM GERAL."
+    },
+    {
+      "id": "384522",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/07/1822 ( seq-sf: 42 )",
+      "dataassinatura": "19/07/1822",
+      "ementa": "PERDOA A JOÃO MANOEL SOARES A PENA DE DEGREDO PARA A ÍNDIA, DEVENDO ASSENTAR PRAÇA DE SOLDADO NO BATALHÃO DA BRIGADA NACIONAL E REAL DA MARINHA."
+    },
+    {
+      "id": "384498",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/07/1822 ( seq-sf: 41 )",
+      "dataassinatura": "19/07/1822",
+      "ementa": "ORDENA QUE O BATALHÃO DA BRIGADA NACIONAL E REAL DA MARINHA PERCEBA DE AGORA EM DIANTE OS MESMOS SOLDOS QUE VENCE O REGIMENTO DE ARTILHARIA DA CÔRTE."
+    },
+    {
+      "id": "384476",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/07/1822 ( seq-sf: 40 )",
+      "dataassinatura": "18/07/1822",
+      "ementa": "DECLARA O PLANO DE ORGANIZAÇÃO DA BANDA DE MÚSICA, DOS PORTA-BANDEIRAS E PÍFAROS DO BATALHÃO DE GRANADEIROS DA CÔRTE."
+    },
+    {
+      "id": "384453",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/07/1822 ( seq-sf: 39 )",
+      "dataassinatura": "15/07/1822",
+      "ementa": "ELEVA A 200$000 O ORDENADO DE DOIS EMPREGADOS DA BIBLIOTECA NACIONAL."
+    },
+    {
+      "id": "384430",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/07/1822 ( seq-sf: 38 )",
+      "dataassinatura": "11/07/1822",
+      "ementa": "SUPRIME AS OFICINAS DE ESPINGARDEIROS CRIADAS NOS CORPOS DE GUARNIÇÃO DESTA CÔRTE."
+    },
+    {
+      "id": "384400",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/07/1822 ( seq-sf: 37 )",
+      "dataassinatura": "10/07/1822",
+      "ementa": "SEPARA AS CADEIRAS DE FISIOLOGIA E ANATOMIA DA ACADEMIA MEDICO-CIRURGICA DA CIDADE DO RIO DE JANEIRO E NOMEIA LENTE PARA AQUELA."
+    },
+    {
+      "id": "384369",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/07/1822 ( seq-sf: 36 )",
+      "dataassinatura": "04/07/1822",
+      "ementa": "RESTABELECE O LUGAR DE QUARTEL MESTRE GENERAL DO ESTADO MAIOR DO GOVERNO DAS ARMAS DESTA CÔRTE."
+    },
+    {
+      "id": "384338",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/07/1822 ( seq-sf: 35 )",
+      "dataassinatura": "03/07/1822",
+      "ementa": "CRIA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA JUSTIÇA."
+    },
+    {
+      "id": "384307",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/06/1822 ( seq-sf: 34 )",
+      "dataassinatura": "27/06/1822",
+      "ementa": "CONCEDE AOS SARGENTOS DA BRIGADA NACIONAL E REAL DA MARINHA O USO DE BANDAS DE LÃ SOBRE AS FARDAS, COMO TRAZEM OS SARGENTOS DA TROPA DA 1ª E 2ª LINHA."
+    },
+    {
+      "id": "384277",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/06/1822 ( seq-sf: 33 )",
+      "dataassinatura": "25/06/1822",
+      "ementa": "CRIA UM GOVERNO PROVISÓRIO DE ELEIÇÃO POPULAR NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "id": "384245",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/06/1822 ( seq-sf: 32 )",
+      "dataassinatura": "21/06/1822",
+      "ementa": "PERMITE AOS SARGENTOS DE 1ª  E 2ª LINHA O USO DE BANDAS DE LÃ SOBRE AS FARDAS."
+    },
+    {
+      "id": "384178",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/06/1822 ( seq-sf: 30 )",
+      "dataassinatura": "18/06/1822",
+      "ementa": "PROÍBE A ACUMULAÇÃO EM UMA SÓ PESSOA DE MAIS DE UM EMPREGO, E EXIGE DOS FUNCIONÁRIOS PÚBLICOS PROVA DE ASSÍDUO EXERCÍCIO PARA PAGAMENTO DOS RESPECTIVOS VENCIMENTOS."
+    },
+    {
+      "id": "384213",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/06/1822 ( seq-sf: 31 )",
+      "dataassinatura": "18/06/1822",
+      "ementa": "CRIA JUÍZES DE FATO PARA JULGAMENTO DOS CRIMES DE ABUSOS DE LIBERDADE DE IMPRENSA."
+    },
+    {
+      "id": "384051",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/06/1822 ( seq-sf: 27 )",
+      "dataassinatura": "05/06/1822",
+      "ementa": "MANDA DISPENSAR NO REGIMENTO DE ARTILHARIA DA CÔRTE O USO DA ESPINGARDA E SUBSTITUIR O DO TERÇADO EM BOLDRIÉ DE COURO PRETO."
+    },
+    {
+      "id": "383995",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/1822 ( seq-sf: 26 )",
+      "dataassinatura": "03/06/1822",
+      "ementa": "MANDA CONVOCAR UMA ASSEMBLÉIA GERAL CONSTITUINTE E LEGISLATIVA COMPOSTA DE DEPUTADOS DAS PROVÍNCIAS DO BRASIL, OS QUAIS SERÃO ELEITOS PELAS INSTRUÇÕES QUE FOREM EXPEDIDAS."
+    },
+    {
+      "id": "383936",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/06/1822 ( seq-sf: 25 )",
+      "dataassinatura": "01/06/1822",
+      "ementa": "CONVOCA PARA O DIA 2  DE JUNHO O CONSELHO DE PROCURADORES DAS PROVÍNCIAS."
+    },
+    {
+      "id": "591047",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/05/1822 ( seq-sf: 24 )",
+      "dataassinatura": "28/05/1822",
+      "ementa": "ANEXA A VARA DO JUIZ DO CRIME DO BAIRRO DA SÉ À DE SÃO JOSÉ, E A DO BAIRRO DA CANDELÁRIA À DE SANTA RITA."
+    },
+    {
+      "id": "383931",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/05/1822 ( seq-sf: 23 )",
+      "dataassinatura": "17/05/1822",
+      "ementa": "MANDA CONTINUAR A DIVISÃO DOS EMOLUMENTOS EM BENEFÍCIO COMUM DOS EMPREGADOS DAS DUAS SECRETARIAS DA GUERRA E DOS ESTRANGEIROS INDEPENDENTE DE SE ACHAREM DESLIGADAS."
+    },
+    {
+      "id": "383849",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/05/1822 ( seq-sf: 22 )",
+      "dataassinatura": "13/05/1822",
+      "ementa": "ENCARREGA O AJUDANTE GENERAL DO GOVERNO DAS ARMAS DA CÔRTE E PROVÍNCIA DE TODO EXPEDIENTE E INCUMBÊNCIAS DA REPARTIÇÃO DO QUARTEL MESTRE GENERAL."
+    },
+    {
+      "id": "591410",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/05/1822 ( seq-sf: 20 )",
+      "dataassinatura": "08/05/1822",
+      "ementa": "ELEVA O NÚMERO DE PRAÇAS DE CADA UMA DAS COMPANHIAS DOS BATALHÕES DE 1ª LINHA DESTA CÔRTE."
+    },
+    {
+      "id": "591500",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/05/1822 ( seq-sf: 21 )",
+      "dataassinatura": "08/05/1822",
+      "ementa": "MARCA O TEMPO DE SERVIÇO DOS INDIVÍDUOS QUE ASSENTAREM PRAÇA NO BATALHÃO DA BRIGADA DE MARINHA."
+    },
+    {
+      "id": "383702",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/05/1822 ( seq-sf: 19 )",
+      "dataassinatura": "02/05/1822",
+      "ementa": "DIVIDE EM DUAS A SECRETARIA DE ESTADO DOS NEGÓCIOS ESTRANGEIROS E DA GUERRA, FICANDO A REPARTIÇÃO DOS NEGÓCIOS ESTRANGEIROS DEBAIXO DA DIREÇÃO DO MINISTRO E SECRETÁRIO DOS NEGÓCIOS DO REINO."
+    },
+    {
+      "id": "375356",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/05/1822",
+      "dataassinatura": "02/05/1822",
+      "ementa": "DIVIDE EM DUAS A SECRETARIA DE ESTADO DOS NEGOCIOS ESTRANGEIROS E DA GUERRA, FICANDO A REPARTIÇÃO DOS NEGOCIOS ESTRANGEIROS DEBAIXO DA DIREÇÃO DO MINISTRO E SECRETARIO DOS NEGOCIOS DO REINO."
+    },
+    {
+      "id": "581229",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/04/1822 ( seq-sf: 18 )",
+      "dataassinatura": "29/04/1822",
+      "ementa": "MANDA QUE AS FUNÇÕES DO OFÍCIO DE SELADOR, SEJAM EXERCIDAS PELO ADMINISTRADOR DA ALFÂNDEGA DA REPARTIÇÃO DO MAR."
+    },
+    {
+      "id": "383584",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/04/1822 ( seq-sf: 17 )",
+      "dataassinatura": "06/04/1822",
+      "ementa": "NOMEIA UM SECRETÁRIO DE ESTADO ESPECIAL PARA, DURANTE A ESTADA DE S. A. REAL O PRÍNCIPE REGENTE NA PROVÍNCIA DE MINAS GERAIS, REFERENDAR OS SEUS REAIS DECRETOS, E ASSINAR O EXPEDIENTE QUE FOR NECESSÁRIO."
+    },
+    {
+      "id": "581519",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/03/1822 ( seq-sf: 16 )",
+      "dataassinatura": "23/03/1822",
+      "ementa": "ENCARREGA O CONSELHO DE MINISTROS DO DESPACHO DO EXPEDIENTE DURANTE A AUSÊNCIA DO PRÍNCIPE REGENTE NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "id": "383411",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/03/1822 ( seq-sf: 15 )",
+      "dataassinatura": "23/03/1822",
+      "ementa": "ESTENDE AO REINO DO BRASIL O PERDÃO CONCEDIDO AOS RÉUS NO REINO DE PORTUGAL POR OCASIÃO DO JURAMENTO DAS BASES DA CONSTITUIÇÃO."
+    },
+    {
+      "id": "575054",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/03/1822 ( seq-sf: 14 )",
+      "dataassinatura": "12/03/1822",
+      "ementa": "SOBRE O CONTINGENTE DE TROPA REMETIDO PELO GOVERNO PROVISORIO DA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "id": "580691",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/03/1822 ( seq-sf: 13 )",
+      "dataassinatura": "12/03/1822",
+      "ementa": "CRIA UMA COMISSÃO ENCARREGADA DO EXAME DA REPARTIÇÃO DO ARSENAL DO EXÉRCITO."
+    },
+    {
+      "id": "576875",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/02/1822 ( seq-sf: 12 )",
+      "dataassinatura": "22/02/1822",
+      "ementa": "MANDA QUE O JARDIM BOTÂNICO FIQUE DEBAIXO DA IMEDIATA SUJEIÇÃO E EXPEDIENTE DA SECRETARIA DE ESTADO DOS NEGÓCIOS DO REINO."
+    },
+    {
+      "id": "575811",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/02/1822 ( seq-sf: 11 )",
+      "dataassinatura": "21/02/1822",
+      "ementa": "CRIA UMA COMISSÃO PARA EXAMINAR O ESTADO ATUAL DO TESOURO PÚBLICO."
+    },
+    {
+      "id": "576499",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/02/1822 ( seq-sf: 10 )",
+      "dataassinatura": "16/02/1822",
+      "ementa": "CRIA O CONSELHO DE PROCURADORES GERAIS DAS PROVÍNCIAS DO BRASIL."
+    },
+    {
+      "id": "575264",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/02/1822 ( seq-sf: 9 )",
+      "dataassinatura": "13/02/1822",
+      "ementa": "MARCA OS VENCIMENTOS DOS SECRETÁRIOS DE ESTADO DO BRASIL."
+    },
+    {
+      "id": "382119",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/01/1822 ( seq-sf: 7 )",
+      "dataassinatura": "30/01/1822",
+      "ementa": "DECLARA O TEMPO DE SERVIÇO DOS VOLUNTÁRIOS."
+    },
+    {
+      "id": "571376",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/01/1822 ( seq-sf: 3 )",
+      "dataassinatura": "12/01/1822",
+      "ementa": "EXTINGUE A COMISSÃO MILITAR QUE EXERCIA O GOVERNO DAS ARMAS DA CÔRTE E PROVÍNCIA."
+    }
+  ]
+}

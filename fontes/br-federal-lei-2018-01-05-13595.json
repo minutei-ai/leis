@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-05-13595",
+  "titulo": "Lei nº 13.595 de 05/01/2018",
+  "data": "2018-01-05",
+  "fonte": "https://normas.leg.br/api/public/binario/b33d8b6f-787f-4432-8e3b-22ca7a127951/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-05;13595",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-05%3B13595&tipo_documento=maior-detalhe",
+  "sha256_dados": "10acbe83f6b9dbe3cb62117f369bd79fac1f3b9621bf8cbe8149ccb7caea1058",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:10.111Z",
+  "sha256_fonte": "83e1cce7099e0811d3926a77a6b26e3fb433bb10e7d6fccad80e6f8e3c605ddf",
+  "sha256_markdown": "f9ec6a77e34452be004619152774c9dfcaf6363b223e1bea3ca827b50724ac36"
+}

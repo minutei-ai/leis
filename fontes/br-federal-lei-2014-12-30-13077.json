@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-12-30-13077",
+  "titulo": "Lei nº 13.077 de 30/12/2014",
+  "data": "2014-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/a035c93a-1bf1-46a8-a995-e681dfbcf914/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-12-30;13077",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-12-30%3B13077&tipo_documento=maior-detalhe",
+  "sha256_dados": "9095ffe8640ac78b5e4b9081c0a75fee47195a78d8de4780cab1108e00d752c0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:41.140Z",
+  "sha256_fonte": "1d7ad03042010a2550d392de38988ad884970044b0655c1f15a797007aecab8f",
+  "sha256_markdown": "0cf6ac92238d4ae65f015102b94f449933c35644b82e5c4af2f5969773e82b1d"
+}

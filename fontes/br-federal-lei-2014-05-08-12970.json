@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-05-08-12970",
+  "titulo": "Lei nº 12.970 de 08/05/2014",
+  "data": "2014-05-08",
+  "fonte": "https://normas.leg.br/api/public/binario/22659b99-391e-4e88-afd0-a78cd2f91a4d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-05-08;12970",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-05-08%3B12970&tipo_documento=maior-detalhe",
+  "sha256_dados": "4a40e534efcf5f64d18f602008dab2a65a742e3519714184469cec4b646ae96c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:52.893Z",
+  "sha256_fonte": "07315ed93b48f3429432b4a7e2e47deddd7e6305eb73144aff0f43515bfcb51d",
+  "sha256_markdown": "2fb0c1acd4c01093f6e32f83ca0de486d16e7007d11aec7b15437d581df70a69"
+}

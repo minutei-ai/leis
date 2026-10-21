@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-21-13565",
+  "titulo": "Lei nº 13.565 de 21/12/2017",
+  "data": "2017-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/38dd7310-3193-4bda-9d03-54cabf1fc271/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-21;13565",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-21%3B13565&tipo_documento=maior-detalhe",
+  "sha256_dados": "f3b0b10095ccef854e50b08218ea8e5b2639ff3962ced98bff11c12b1afeec91",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:58.004Z",
+  "sha256_fonte": "8fc123d4dd72f60fd44a502c51a541e4a4fe4cb29fbec0ef8095175acbd72d90",
+  "sha256_markdown": "113d6a8ba77a895801e88653d51423cdfb222f4bd0b27f4e78f931b62e33358b"
+}

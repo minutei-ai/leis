@@ -1,0 +1,4019 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1925",
+  "tipo": "DEC",
+  "ano": 1925,
+  "coletado_em": "2026-10-21T08:50:53.582Z",
+  "normas": [
+    {
+      "senadoId": "432559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-31-17176",
+      "titulo": "Decreto nº 17.176 de 31/12/1925",
+      "data": "1925-12-31",
+      "numero": "17176",
+      "urn": "urn:lex:br:federal:decreto:1925-12-31;17176",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 500:000$, PARA OCORRER, NESTE ANO, ÀS DESPESAS FEITAS E POR FAZER COM PROVIDÊNCIAS EM PROL DA ORDEM E SEGURANÇA PÚBLICAS, E COM MEDIDAS DECORRENTES DO ESTADO DE SÍTIO AUTORIZADO PELO DECRETO NÚMERO 4.836, DE 5 DE JULHO DE 1924, E DECRETADO PELO DE NÚMERO 16.765, DE 1 DE JANEIRO FINDO."
+    },
+    {
+      "senadoId": "432563",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-31-17178",
+      "titulo": "Decreto nº 17.178 de 31/12/1925",
+      "data": "1925-12-31",
+      "numero": "17178",
+      "urn": "urn:lex:br:federal:decreto:1925-12-31;17178",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA AKTIENGESELLSCHAFT DER MASCHINENFABRIKEN ESCHEN WYSS & CIE. AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-31-17177",
+      "titulo": "Decreto nº 17.177 de 31/12/1925",
+      "data": "1925-12-31",
+      "numero": "17177",
+      "urn": "urn:lex:br:federal:decreto:1925-12-31;17177",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 85:447$556, OURO, PARA OCORRER AO PAGAMENTO DA INDENIZAÇÃO DEVIDA À THE WESTERN TELEGRAPH COMPANY, LIMITED, POR DESPESAS FEITAS COM A MUNDANÇA DO PONTO DE ATERRAMENTO DOS SEUS CABOS SUBMARINOS E DA RESPECTIVAS ESTAÇÃO TELEGRÁFICA, POR EXIGÊNCIA DAS OBRAS DO PORTO DO RECIFE."
+    },
+    {
+      "senadoId": "432557",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-31-17175",
+      "titulo": "Decreto nº 17.175 de 31/12/1925",
+      "data": "1925-12-31",
+      "numero": "17175",
+      "urn": "urn:lex:br:federal:decreto:1925-12-31;17175",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 1:569$770, PARA PAGAMENTO DA GRATIFICAÇÃO MENSAL DE 3O0$ A QUE TEM DIREITO O TENENTE-CORONEL DO EXÉRCITO DE 2ª LINHA, HEITOR TELLES."
+    },
+    {
+      "senadoId": "432555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-31-17174",
+      "titulo": "Decreto nº 17.174 de 31/12/1925",
+      "data": "1925-12-31",
+      "numero": "17174",
+      "urn": "urn:lex:br:federal:decreto:1925-12-31;17174",
+      "ementa": "PRORROGA O ESTADO DE SÍTIO NO DISTRITO FEDERAL E NOS ESTADOS DO AMAZONAS, PARÁ, SERGIPE, RIO DE JANEIRO, SÃO PAULO, RIO GRANDE DO SUL, GOIÁS E MATO GROSSO."
+    },
+    {
+      "senadoId": "432553",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-30-17173",
+      "titulo": "Decreto nº 17.173 de 30/12/1925",
+      "data": "1925-12-30",
+      "numero": "17173",
+      "urn": "urn:lex:br:federal:decreto:1925-12-30;17173",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 4.500:00$, PARA ATENDER À LIQUIDAÇÃO DE DESPESAS RELATIVAS AOS SERVIÇOS DOS RAMAIS DA ESTRADA DE FERRO OESTE DE MINAS, CONCERNENTES A TRABALHOS EXECUTADOS NO ANO DE 1924."
+    },
+    {
+      "senadoId": "432548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-30-17170",
+      "titulo": "Decreto nº 17.170 de 30/12/1925",
+      "data": "1925-12-30",
+      "numero": "17170",
+      "urn": "urn:lex:br:federal:decreto:1925-12-30;17170",
+      "ementa": "ABRE PELO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE 4:428$340, DESTINADO A INDENIZAR O BANCO DO BRASIL DE DESPESAS COM AQUISIÇÃO DE TRÊS LAMPADAS \"ALDIS\", EM 1922, PARA O SERVIÇO DE AVIAÇÃO NAVAL."
+    },
+    {
+      "senadoId": "432551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-30-17172",
+      "titulo": "Decreto nº 17.172 de 30/12/1925",
+      "data": "1925-12-30",
+      "numero": "17172",
+      "urn": "urn:lex:br:federal:decreto:1925-12-30;17172",
+      "ementa": "RESOLVE QUE A SEÇÃO DE REFORMA DA ESCOLA 15 DE NOVEMBRO PASSE A DENOMINAR-SE \"ESCOLA JOÃO LUIZ ALVES\"."
+    },
+    {
+      "senadoId": "432546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-30-17169",
+      "titulo": "Decreto nº 17.169 de 30/12/1925",
+      "data": "1925-12-30",
+      "numero": "17169",
+      "urn": "urn:lex:br:federal:decreto:1925-12-30;17169",
+      "ementa": "ABRE PELO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE TRÊS CONTOS CENTO E QUARENTA E NOVE MIL NOVECENTOS E OITENTA E SETE RÉIS (3:149$987), PARA PAGAMENTO AO 1º TENENTE COMISSÁRIO OCTÁVIO PINTO DA LUZ."
+    },
+    {
+      "senadoId": "432544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17168",
+      "titulo": "Decreto nº 17.168 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17168",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17168",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 58:374$918, PARA PAGAMENTO A ALBERTO CHAGAS, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "432516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17154",
+      "titulo": "Decreto nº 17.154 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17154",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17154",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O DEPÓSITO NAVAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17165",
+      "titulo": "Decreto nº 17.165 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17165",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17165",
+      "ementa": "ABRE AO  MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 7:715$000, PARA OCORRER  AO PAGAMENTO DAS PENSÕES ÁS MENORES MARIA DA CONCEIÇÃO E ABIGAIL, FILHAS DO GUARDA CIVIL ANTÔNIO SALLES NOGUEIRA."
+    },
+    {
+      "senadoId": "432530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17161",
+      "titulo": "Decreto nº 17.161 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17161",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17161",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 100:251$534, DESIGNADO A OCORRER AOS PAGAMENTOS DEVIDOS AOS OFICIAIS DA BRIGADA POLICIAL, REFORMADOS COMPULSORIAMENTE, A PARTIR DE 1918."
+    },
+    {
+      "senadoId": "432542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17167",
+      "titulo": "Decreto nº 17.167 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17167",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17167",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A ALTERAÇÃO DOS ESTATUTOS DA COMPANHIA DE SEGUROS \"SAGRES\", COM SEDE NESTA CAPITAL, E AUTORIZADA A FUNCIONAR PELO DECRETO 16.576, DE 27 DE AGOSTO DE 1924."
+    },
+    {
+      "senadoId": "432524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17158",
+      "titulo": "Decreto nº 17.158 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17158",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17158",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICASS O CRÉDITO ESPECIAL DE 118:609$856, AFIM DE CORRER AOS PAGAMENTOS DEVIDOS Á COMPANHIA CARBONÍFERA DE URUSSANGA, POR TRABALHOS DE CONSTRUÇÃO E DESAPROPRIAÇÃO EFETUADAS NO RAMAL DE URUSSANGA, NO MÊS DE DEZEMBRO DE 1921."
+    },
+    {
+      "senadoId": "432534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17163",
+      "titulo": "Decreto nº 17.163 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17163",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17163",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES OS SEGUINTES CRÉDITOS ESPECIAIS: 5:255$956, PARA PAGAMENTO DE DIFERENÇA DE GRATIFICAÇÕES ADICIONAIS AOS JUÍZES SUBSTITUTOS, SECCIONAIS, BACHARÉIS OCTÁVIO MARTINS RODRIGUES, CELESTINO CARLOS WANDERLEY, FRANCISCO DE GOUVÊA NOBREGA E SEZINHO BARBOSA DO VALE, DE 1:250$, PARA PAGAMENTO AO REDATOR DE DEBATES DA CÂMARA DOS DEPUTADOS, SERTORIO MAXIMIANO DE CASTRO; DE 1:426$209, PARA PAGAMENTO DAS GRATIFICAÇÕES QUE COMPETEM AO JUIZ FEDERAL DA 2ª VARA, DA SEÇÃO DO DISTRITO FEDERAL, DR. OCTÁVIO KELLY, NO PERÍODO DE 11 DE DEZEMBRO DE 1921 A 31 DE DEZEMBRO DE 1922; DE 12:000$, PARA PAGAMENTO DE DIFERENÇA DE VENCIMENTOS, DE 1916 A 1920, AO SUPLENTE DE TAQUÍGRAFO DA CÂMARA DOS DEPUTADOS, JOÃO RIBEIRO MENDES."
+    },
+    {
+      "senadoId": "432520",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17156",
+      "titulo": "Decreto nº 17.156 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17156",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17156",
+      "ementa": "AUTORIZA A REVISÃO DO CONTRATO CELEBRADO COM ENRICO SCHOCH, EM VIRTUDE DO DECRETO NÚMERO 15.435, DE 7 DE ABRIL DE 1922, E TRANSFERIDO Á COMPANHIA ITALIANA  DEI CAVI TELEGRÁFICA, SOTTOMARINI EM VIRTUDE DO DECRETO NÚMERO 16.873, DE 8 DE ABRIL DE 1925."
+    },
+    {
+      "senadoId": "432532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17162",
+      "titulo": "Decreto nº 17.162 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17162",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17162",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 200:000$000, PARA QUE INSPECTORIA DOS SERVIÇOS DE PROFILAXIA, A CARGO DO DEPARTAMENTO NACIONAL DE SAÚDE PÚBLICA, POSSA COM EFICIÊNCIA, COMBATER O SURTO EPIDÊMICO DE VARÍOLA, VERIFICADO, PRESENTEMENTE, NESTA CAPITAL."
+    },
+    {
+      "senadoId": "432536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17164",
+      "titulo": "Decreto nº 17.164 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17164",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17164",
+      "ementa": "ABRE AO  MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 80:000$, PARA OCORRER À DESPESAS COM REVISÃO DO ALISTAMENTO ELEITORAL DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "432526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17159",
+      "titulo": "Decreto nº 17.159 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17159",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17159",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE OITENTA E SETE MIL DUZENTOS E CINQÜENTA DOLLARS ($87,250.00), OURO AMERICANO, DESTINADO A ATENDER AO PAGAMENTO Á \"THE BALDWIN LOCOMOTIVE WORKS\", DE QUATRO LOCOMOTIVAS FORNECIDAS, NO ANO DE 1922 Á ESTRADA DE FERRO CENTRAL DO PIAUÍ."
+    },
+    {
+      "senadoId": "432522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17157",
+      "titulo": "Decreto nº 17.157 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17157",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17157",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 825:369$600, PARA AQUISIÇÃO DE TRILHOS E ACESSÓRIOS, DE 12 APARELHOS DE MUDANÇA DE VIA E 10 VAGÕES-PLATAFORMAS, DESTINADOS Á CONSTRUÇÃO DO TRECHO DE ITAJAÍ A BLUMENAU, DA ESTRADA DE FERRO SANTA CATARINA."
+    },
+    {
+      "senadoId": "432518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17155",
+      "titulo": "Decreto nº 17.155 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17155",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17155",
+      "ementa": "REGULA A SITUAÇÃO DOS ATUAIS SEGUNDOS TENENTES DO Q. M. DO CORPO DE OFICIAIS DA ARMADA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17160",
+      "titulo": "Decreto nº 17.160 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17160",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17160",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 2.239:995$535, PARA PAGAMENTO DE DESPESAS FEITAS, NO EXERCÍCIOS DE 1924, POR CONTA DAS VERBAS 10ª, 13ª, 14ª, 15ª, 16ª, 20ª, 21ª, 23ª, 27ª, 31ª 36ª E 43ª, DO ORÇAMENTO DA DESPESA DO MESMO MINISTÉRIO, NOS TERMOS DO DECRETO NÚMERO 4.964, DE 14 DE OUTUBRO DESTE ANO."
+    },
+    {
+      "senadoId": "432540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17166",
+      "titulo": "Decreto nº 17.166 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17166",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17166",
+      "ementa": "ABRE AO  MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 16:906$127, DESTINADO A PAGAMENTO AO PORTEIRO DA ALFÂNDEGA DO CEARÁ, FRANCISCO AURÉLIO BRIGIDO, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "432514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-23-17153",
+      "titulo": "Decreto nº 17.153 de 23/12/1925",
+      "data": "1925-12-23",
+      "numero": "17153",
+      "urn": "urn:lex:br:federal:decreto:1925-12-23;17153",
+      "ementa": "REVOGA O DECRETO NÚMERO 16.683, DE 26 DE NOVEMBRO DE 1924, RESTABELECENDO A DIRETORIA DE AERONÁUTICA."
+    },
+    {
+      "senadoId": "432486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17139",
+      "titulo": "Decreto nº 17.139 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17139",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17139",
+      "ementa": "CRIA UM PATRONATO AGRÍCOLA NO MUNICÍPIO DE VIÇOSA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17131",
+      "titulo": "Decreto nº 17.131 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17131",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17131",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 9:263$742 E FRANCOS BELGAS 14.036,60 PARA CONSTRUÇÃO DE UMA PONTE DE 10M,00 DE VÃO NO QUILÔMETRO 374,600 M DA LINHA DE SÃO FRANCISCO, DA REDE FEDERAL ARRENDADA Á COMPANHIA FERROVIÁRIA E'STE BRASILEIRO."
+    },
+    {
+      "senadoId": "432472",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17132",
+      "titulo": "Decreto nº 17.132 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17132",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17132",
+      "ementa": "SUPRIME O LUGAR DE AJUDANTE DA VIA-PERMANENTE, ESTRADA DE FERRO TERESÓPOLIS."
+    },
+    {
+      "senadoId": "432482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17137",
+      "titulo": "Decreto nº 17.137 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17137",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17137",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS NA IMPORTÂNCIA TOTAL DE 28:391$932, PARA DUAS INSTALAÇÕES HIDRÁULICAS NA LINHA DE CACEQUI A RIO GRANDE, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432496",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17144",
+      "titulo": "Decreto nº 17.144 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17144",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17144",
+      "ementa": "CONCEDE Á COMPANHIA INDÚSTRIA DE PESCA AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "432510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17151",
+      "titulo": "Decreto nº 17.151 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17151",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17151",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A AFORAR AO CLUB SPORTIVO DE EQUITAÇÃO A ÁREA OCUPADA POR SUAS DEPENDÊNCIAS, A AVENIDA BARTOLOMEU DE GUSMÃO."
+    },
+    {
+      "senadoId": "432490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17141",
+      "titulo": "Decreto nº 17.141 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17141",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17141",
+      "ementa": "PRORROGA PARA 30 DE JUNHO DE 1926 O PRAZO ESTABELECIDO PELO DECRETO NÚMERO 16.054, DE 20 DE MAIO DE 1923, PARA USO OBRIGATÓRIO DE AUTOCLAVES NO FABRICO DA BANHA DE PORCO."
+    },
+    {
+      "senadoId": "432478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17135",
+      "titulo": "Decreto nº 17.135 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17135",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17135",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 258:807$730, PARA CONSTRUÇÃO DE UMA PONTE DUPLA, DE CONCRETO ARMADO, SOBRE O CANAL DO MANGUE, DESTINADA Á PASSAGEM DAS LINHAS FÉRREAS DO PORTO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432484",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17138",
+      "titulo": "Decreto nº 17.138 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17138",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17138",
+      "ementa": "PRORROGA POR OITO MESES O PRAZO FIXADO NA CLAÚSULA XVI DO TERMO DE REVISÃO DOS CONTRATOS, FIRMADO DE ACORDO COM O DECRETO NÚMERO 16.259, DE 12 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "432494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17143",
+      "titulo": "Decreto nº 17.143 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17143",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17143",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA GARANTIA INDÚSTRIAL PAULISTA."
+    },
+    {
+      "senadoId": "432498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17145",
+      "titulo": "Decreto nº 17.145 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17145",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17145",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA GRACE & CO. AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432468",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17130",
+      "titulo": "Decreto nº 17.130 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17130",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17130",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 209:642$431, A FIM DE ATENDER Á LIQUIDAÇÃO DE DESPESAS COM MATERIAL E PESSOAL DA ESTRADA DE FERRO SÃO LUIZ A TEREZINA, RELATIVO AO EXERCÍCIO DE 1921."
+    },
+    {
+      "senadoId": "432502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17147",
+      "titulo": "Decreto nº 17.147 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17147",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17147",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA D´ASSURANCES GENERALES CONTRE I´INCENDIE, COM SEDE EM PARIS, FRANÇA, PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA DE 27 DE ABRIL DE 1921."
+    },
+    {
+      "senadoId": "432476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17134",
+      "titulo": "Decreto nº 17.134 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17134",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17134",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 58:078$161, PARA AUMENTO DE DESVIOS E CONSTRUÇÃO DE CALÇAMENTO NO PÁTIO DA ESTAÇÃO DE LAPA, DO RAMAL DO RIO NEGRO, DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "432506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17149",
+      "titulo": "Decreto nº 17.149 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17149",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17149",
+      "ementa": "AUTORIZA, O MINISTRO DA FAZENDA A EMITIR APÓLICES DA DÍVIDA PUBLICA DA UNIÃO, NA IMPORTÂNCIA DE 200:000$, PARA ATENDER ÁS DESPESAS DE CONSTRUÇÃO DO RAMAL DE URUSANGA."
+    },
+    {
+      "senadoId": "432504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17148",
+      "titulo": "Decreto nº 17.148 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17148",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17148",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, CRÉDITO ESPECIAL DE 6:737$876, PARA PAGAR AS PORCENTAGENS A QUE TEM DIREITO O COLETOR FEDERAL NO MUNICÍPIO DO CABO, EM PERNAMBUCO, ANTÔNIO OVÍDIO DE SOUZA RAMOS."
+    },
+    {
+      "senadoId": "432512",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17152",
+      "titulo": "Decreto nº 17.152 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17152",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17152",
+      "ementa": "CASSA A AUTORIZAÇÃO PARA FUNCIONAR A COMPANHIA DE SEGUROS \"LLOYD PARAENSE\", COM SEDE NA CAPITAL DO ESTADO DO PARÁ, CONSTITUÍDA EM 9 DE JANEIRO DE 1899."
+    },
+    {
+      "senadoId": "432508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17150",
+      "titulo": "Decreto nº 17.150 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17150",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17150",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA Á SOCIEDADE DE SEGUROS \"TRANQUILIDADE\", COM SEDE NA CAPITAL DO ESTADO DE SÃO PAULO, PELOS DECRETOS NÚMERO 7.548, DE 16 DE SETEMBRO DE 1909, E 7.898, DE 10 DE MARÇO DE 1910."
+    },
+    {
+      "senadoId": "432480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17136",
+      "titulo": "Decreto nº 17.136 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17136",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17136",
+      "ementa": "CONCEDE Á \"COMPAGNIE GÉNÉRALE DES CHEMINS DE FER DES ÉTATS UNIS DU BRÉSIL\", PRORROGAÇÃO DE PRAZO, POR TRÊS ANOS, PARA CERCAR O PROLONGAMENTO DA ESTRADA DE FERRO DE MARICÁ, ENTRE NILO PEÇANHA E IGUABA GRANDE, DO QUAL É ARRENDATARIA."
+    },
+    {
+      "senadoId": "432474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17133",
+      "titulo": "Decreto nº 17.133 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17133",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17133",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 243:938$389 (DUZENTOS E QUARENTA E TRÊS CONTOS NOVECENTOS E TRINTA E OITO MIL TRESENTOS E OITENTA E NOVE RÉIS), OURO, DO ARMAZÉM NÚMERO 8, JÁ CONSTRUÍDO NO CÁIS DO PORTO DA BAHIA, E DAS OBRAS DE PREPARO E MELHORAMENTO DA ZONA DO CÁIS, CORRESPONDENTE AO MESMO ARMAZÉM."
+    },
+    {
+      "senadoId": "432488",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17140",
+      "titulo": "Decreto nº 17.140 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17140",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17140",
+      "ementa": "CRIA UM PATRONATO AGRÍCOLA NO MUNICÍPIO DE BARRAÇÃO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "432500",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17146",
+      "titulo": "Decreto nº 17.146 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17146",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17146",
+      "ementa": "APROVA O REGULAMENTO DAS CONSIGNAÇÕES EM FOLHA DE PAGAMENTO."
+    },
+    {
+      "senadoId": "432492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-16-17142",
+      "titulo": "Decreto nº 17.142 de 16/12/1925",
+      "data": "1925-12-16",
+      "numero": "17142",
+      "urn": "urn:lex:br:federal:decreto:1925-12-16;17142",
+      "ementa": "DESAPROPRIA TERRENOS COMPREENDIDOS NA FAZENDA DE SANTA MARIA, DE PROPRIEDADE DE  D. QUEEN KEEN ROCHA."
+    },
+    {
+      "senadoId": "432466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-10-17129",
+      "titulo": "Decreto nº 17.129 de 10/12/1925",
+      "data": "1925-12-10",
+      "numero": "17129",
+      "urn": "urn:lex:br:federal:decreto:1925-12-10;17129",
+      "ementa": "AUTORIZA O MINISTERIO DA JUSTIÇA E NEGOCIOS INTERIORES A PROVIDENCIAR NO SENTIDO DE SEREM EXECUTADOS PELA FIRMA VICENTE DOS SANTOS CANECO & COMPAHIA, INDEPENDENTEMENTE DE CONCORRENCIA, OS CONCERTOS DE QUE CARECE A BARCA DE DESINFECÇÃO \"PASTEUR\", DA DIRETORIA DE DEFESA SANITARIA MARITIMA E FLUVIAL, A CARGO DO DEPARTAMENTO NACIONAL DE SAUDE PUBLICA."
+    },
+    {
+      "senadoId": "432464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-10-17128",
+      "titulo": "Decreto nº 17.128 de 10/12/1925",
+      "data": "1925-12-10",
+      "numero": "17128",
+      "urn": "urn:lex:br:federal:decreto:1925-12-10;17128",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 2:451$612, PARA OCORRER AO PAGAMENTO DOS VENCIMENTOS QUE COMPETEM AO JUIZ FEDERAL BACHAREL FRANCISCO TAVARES DA CUNHA MELLO, NO PERÍODO DE 15 DE DEZEMBRO DE 1922 A 21 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "432460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-12-01-17125",
+      "titulo": "Decreto nº 17.125 de 01/12/1925",
+      "data": "1925-12-01",
+      "numero": "17125",
+      "urn": "urn:lex:br:federal:decreto:1925-12-01;17125",
+      "ementa": "DECLARA FERIADO, EM TODO TERRITÓRIO NACIONAL, O DIA 2 DO CORERNTE MÊS EM QUE SE COMEMORA O CENTENÁRIO DO NASCIMENTO DE D. PEDRO II."
+    },
+    {
+      "senadoId": "432458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-27-17124",
+      "titulo": "Decreto nº 17.124 de 27/11/1925",
+      "data": "1925-11-27",
+      "numero": "17124",
+      "urn": "urn:lex:br:federal:decreto:1925-11-27;17124",
+      "ementa": "SUSPENDE NO DIA 29 DE NOVEMBRO, NO ESTADO DE DE SÃO PAULO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.890, DE 22 DE ABRIL DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "432456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-25-17123",
+      "titulo": "Decreto nº 17.123 de 25/11/1925",
+      "data": "1925-11-25",
+      "numero": "17123",
+      "urn": "urn:lex:br:federal:decreto:1925-11-25;17123",
+      "ementa": "SUSPENDE NO DIA 29 DE NOVEMBRO, NO ESTADO DE SERGIPE, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.890, DE 22 DE ABRIL DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "432455",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-24-17122-a",
+      "titulo": "Decreto nº 17.122-A de 24/11/1925",
+      "data": "1925-11-24",
+      "numero": "17122-a",
+      "urn": "urn:lex:br:federal:decreto:1925-11-24;17122-a",
+      "ementa": "FIXA A DATA A PARTIR DA QUAL DEVERÃO SER ATENDIDAS AS REQUISIÇÕES MILITARES NOS ESTADOS DO PARÁ, MARANHÃO E PIAUÍ."
+    },
+    {
+      "senadoId": "432449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-18-17120",
+      "titulo": "Decreto nº 17.120 de 18/11/1925",
+      "data": "1925-11-18",
+      "numero": "17120",
+      "urn": "urn:lex:br:federal:decreto:1925-11-18;17120",
+      "ementa": "CRIA O CONSULADO HONORÁRIO EM SEVILHA."
+    },
+    {
+      "senadoId": "432451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-18-17121",
+      "titulo": "Decreto nº 17.121 de 18/11/1925",
+      "data": "1925-11-18",
+      "numero": "17121",
+      "urn": "urn:lex:br:federal:decreto:1925-11-18;17121",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DA RATIFICAÇÃO POR PARTE DOS ESTADOS UNIDOS DA AMÉRICA, DE ATOS ASSINADOS NA V CONFERÊNCIA PAN-AMERICANA DE SANTIAGO DO CHILE, EM 1925."
+    },
+    {
+      "senadoId": "432447",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-18-17119",
+      "titulo": "Decreto nº 17.119 de 18/11/1925",
+      "data": "1925-11-18",
+      "numero": "17119",
+      "urn": "urn:lex:br:federal:decreto:1925-11-18;17119",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, OS CRÉDITOS ESPECIAIS DE 465 PESOS, OURO, URUGUAIO, PARA PAGAMENTO Á COMPANHIA DE MINAS E VIAÇÃO DE MATO GROSSO E RÉIS 688:755$267, PARA PAGAMENTO DEFINITIVO DE VENCIMENTOS."
+    },
+    {
+      "senadoId": "432453",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-18-17122",
+      "titulo": "Decreto nº 17.122 de 18/11/1925",
+      "data": "1925-11-18",
+      "numero": "17122",
+      "urn": "urn:lex:br:federal:decreto:1925-11-18;17122",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DA RATIFICAÇÃO POR PARTE DO CHILE DO TRATADO PARA EVITAR OU PREVENIR CONFLITOS ENTRE OS ESTADOS AMERICANOS ASSINADOS EM SANTIAGO, 03 DE MAIO DE 1923."
+    },
+    {
+      "senadoId": "432431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17111",
+      "titulo": "Decreto nº 17.111 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17111",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17111",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 36:026$456, DE UM NOVO POSTO TELEGRÁFICO NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17114",
+      "titulo": "Decreto nº 17.114 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17114",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17114",
+      "ementa": "AUTORIZA O ESTADO DE SANTA CATARINA A CONSTRUIR O TRECHO DE ITAJAÍ A BLUMENAU, DA ESTRADA DE FERRO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "432445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17118",
+      "titulo": "Decreto nº 17.118 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17118",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17118",
+      "ementa": "CASSA O DECRETO NÚMERO 6.837, DE 16 DE FEVEREIRO DE 1878, QUE CONCEDEU Á COMPANHIA  DE SEGUROS \"PARAENSE\", COM SEDE EM BELÉM, ESTADO DO PARÁ, AUTORIZAÇÃO PARA FUNCIONAR E APROVOU OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "432435",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17113",
+      "titulo": "Decreto nº 17.113 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17113",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17113",
+      "ementa": "APROVA OS ESTUDOS E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 288:159$800, DE UMA VARIANTE NA LINHA DE MACHADO PORTELLA A CARINHANHA, DA REDE DE VIAÇÃO FÉRREA DA BAHIA."
+    },
+    {
+      "senadoId": "432426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17108",
+      "titulo": "Decreto nº 17.108 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17108",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17108",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 26:051$593, PARA OBRAS DE ABASTECIMENTO DE ÁGUA NO QUILÔMENTRO 39,362 NORTE, DA LINHA ITARARÉ-URUGUAI, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432441",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17116",
+      "titulo": "Decreto nº 17.116 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17116",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17116",
+      "ementa": "CONCEDE Á BRASILIAN TELEPHONE COMPANY AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17115",
+      "titulo": "Decreto nº 17.115 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17115",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17115",
+      "ementa": "DESAPROPRIA OS TERRENOS SITUADOS NAS BACIAS DAS CACHOEIRAS QUININHA, BATALHA E CABOCLAS E DECLARA A URGÊNCIA DESSA MEDIDA."
+    },
+    {
+      "senadoId": "432443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17117",
+      "titulo": "Decreto nº 17.117 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17117",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17117",
+      "ementa": "SUSPENDE, NO DIA 15 DE NOVEMBRO CORRENTE, NO ESTADO DO RIO DE JANEIRO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.890, DE 22 DE ABRIL DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "432433",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17112",
+      "titulo": "Decreto nº 17.112 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17112",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17112",
+      "ementa": "APROVA O PROJETO DE UM DESVIO A CONSTRUIR NA ESTAÇÃO DE SANTOS, DA LINHA DE SANTOS A JUNDIAÍ, DA \"SÃO PAULO RAILWAY COMPANY, LIMITED\"."
+    },
+    {
+      "senadoId": "432428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-11-17109",
+      "titulo": "Decreto nº 17.109 de 11/11/1925",
+      "data": "1925-11-11",
+      "numero": "17109",
+      "urn": "urn:lex:br:federal:decreto:1925-11-11;17109",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 31:014$761, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO COM POSTO TELEGRÁFICO E MELHORAMENTO DO ABASTECIMENTO DE ÁGUA, NO QUILÔMENTRO 24 DA LINHA FÉRREA PARANAGUÁ-CURITIBA."
+    },
+    {
+      "senadoId": "432420",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-04-17105",
+      "titulo": "Decreto nº 17.105 de 04/11/1925",
+      "data": "1925-11-04",
+      "numero": "17105",
+      "urn": "urn:lex:br:federal:decreto:1925-11-04;17105",
+      "ementa": "ALTERA OS EFETIVOS DO PESSOAL SUBALTERNO DOS SERVIÇOS DE CONVÉS E MÁQUINAS DA MARINHA DE GUERRA, FIXADOS NOS DECRETO NÚMERO 16.828, DE 27 DE FEVEREIRO, E NÚMERO 16.792, DE 13 DE FEVEREIRO DO CORRENTE ANO, APROVANDO OS CONSTANTES DO QUADRO ANEXO AO PRESENTE DECRETO, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432424",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-04-17107",
+      "titulo": "Decreto nº 17.107 de 04/11/1925",
+      "data": "1925-11-04",
+      "numero": "17107",
+      "urn": "urn:lex:br:federal:decreto:1925-11-04;17107",
+      "ementa": "RESOLVE APROVAR A RESOLUÇÃO DA ASSEMBLÉIA GERAL EXTRAORDINARIA DA COMPANHIA DE SEGUROS TERRESTRES E MARÍTIMOS \"AMAZÔNIA\", COM SEDE EM BELÉM, ESTADO DO PARÁ, REALIZADA A 17 DE ABRIL DE 1922."
+    },
+    {
+      "senadoId": "432422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-04-17106",
+      "titulo": "Decreto nº 17.106 de 04/11/1925",
+      "data": "1925-11-04",
+      "numero": "17106",
+      "urn": "urn:lex:br:federal:decreto:1925-11-04;17106",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA A \"A EQUITATIVA DE PORTUGAL E ULTRAMAR\", PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "432418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-04-17104",
+      "titulo": "Decreto nº 17.104 de 04/11/1925",
+      "data": "1925-11-04",
+      "numero": "17104",
+      "urn": "urn:lex:br:federal:decreto:1925-11-04;17104",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O PESSOAL SUBALTERNO DO SERVIÇO GERAL DE ARTILHARIA DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "432416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-11-03-17103",
+      "titulo": "Decreto nº 17.103 de 03/11/1925",
+      "data": "1925-11-03",
+      "numero": "17103",
+      "urn": "urn:lex:br:federal:decreto:1925-11-03;17103",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO TERRITÓRIO DO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "432410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17100",
+      "titulo": "Decreto nº 17.100 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17100",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17100",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 54:907$258, PARA CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTOS, SERVIDO DE POSTO TELEGRÁFICO E TRIÂNGULO DE REVERSÃO, NO QUILÔMENTRO 29 DA LINHA DE CURITIBA A PONTA GROSSA, DA ESTRADA DE FERRO DO PARANÁ, ARRENDADA Á COMPANHIA ESTRADA DE FERRO SÃO PAULO RIO GRANDE."
+    },
+    {
+      "senadoId": "432402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17096",
+      "titulo": "Decreto nº 17.096 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17096",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17096",
+      "ementa": "DÁ NOVO REGULAMENTO ÁS CAPITANIAS DOS PORTOS."
+    },
+    {
+      "senadoId": "432408",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17099",
+      "titulo": "Decreto nº 17.099 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17099",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17099",
+      "ementa": "DESAPROPRIA UM TERRENO SITUADO NO QUILÔMETRO 28 DA LINHA AUXILIAR DA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "432406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17098",
+      "titulo": "Decreto nº 17.098 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17098",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17098",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE DOIS MIL SEISCENTOS E SETENTA E UM CONTOS CENTO E TRINTA MIL DUZENTOS E SETENTA E SEIS RÉIS (2.671:130$276), PARA ATENDER Á LIQUIDAÇÃO DE COMPROMISSOS NOS ANOS DE 1922 E 1923, COM OS TAREFEIROS DA CONSTRUÇÃO DA ESTRADA DE FERRO DE PETROLINA A TEREZINA."
+    },
+    {
+      "senadoId": "432412",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17101",
+      "titulo": "Decreto nº 17.101 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17101",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17101",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 61:174$530, DE UM NOVO POSTO TELEGRÁFICO NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17102",
+      "titulo": "Decreto nº 17.102 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17102",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17102",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA NACIONAL DE SEGUROS \"ALLIANÇA DE MINAS GERAIS\" PARA FUNCIONAR NA REPUBLICA E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "432404",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-28-17097",
+      "titulo": "Decreto nº 17.097 de 28/10/1925",
+      "data": "1925-10-28",
+      "numero": "17097",
+      "urn": "urn:lex:br:federal:decreto:1925-10-28;17097",
+      "ementa": "DESAPROPRIA, POR UTILIDADDE PÚBLICA, OS TERRRENOS NECESSÁRIOS Á CONSTRUÇÃO DE UM TRIÂNGULO DE REVERSÃO EM CORTEZ, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "432400",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17095",
+      "titulo": "Decreto nº 17.095 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17095",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17095",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES  O CRÉDITO EXTRAORDINARIO DE 200:000$, PARA ATENDER ÀS DESPESAS DECORRENTES DOS SERVIÇOS DE COMBATE AOS SURTOS EPIDEMICOS DE PESTE BULBONICA NO ESTADO DO CEARÁ E MAIS UNIDADES FEDERADAS NO NORTE DO PAIS."
+    },
+    {
+      "senadoId": "432380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17085",
+      "titulo": "Decreto nº 17.085 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17085",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17085",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 13:263$160, PARA CONSTRUÇÃO DE UM DESVIO NO PATIO DA ESTAÇÃO DE SAPESAL, DO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17090",
+      "titulo": "Decreto nº 17.090 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17090",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17090",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 3.660:709$298 (TRÊS MIL SEISCENTOS E SESSENTA C0NTOS E NOVE MIL DUZENTOS E NOVENTA E OITO RÉIS), DE UMA VARIANTE NA LINHA DO RIO DO PEIXE."
+    },
+    {
+      "senadoId": "432392",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17091",
+      "titulo": "Decreto nº 17.091 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17091",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17091",
+      "ementa": "REGULA A CONCESSÃO DOS FAVORES CONSTANTES DO DECRETO 12.944, DE 30 DE MARÇO DE 1918, E DOS DECRETOS 4.246, DE 6 DE JANEIRO DE 1921, 06 DE JANEIRO DE 1921, E 4.265, DE 15 DE JANEIRO DE 1921."
+    },
+    {
+      "senadoId": "432388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17089",
+      "titulo": "Decreto nº 17.089 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17089",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17089",
+      "ementa": "APROVA PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 43:022$343 DE UM NOVO POSTO TELEGRAFICO NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17086",
+      "titulo": "Decreto nº 17.086 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17086",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17086",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 38:758$378, DE UM NOVO POSTO TELEGRAFICO NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17081",
+      "titulo": "Decreto nº 17.081 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17081",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17081",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO, POR PARTE DA VENEZUELA, DO TRATADO PARA EVITAR OU PREVENIR CONFLITOS ENTRE OS ESTADOS AMERICANOS, ASSINADO EM SANTIAGO DO CHILE, EM 1923."
+    },
+    {
+      "senadoId": "432362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17076",
+      "titulo": "Decreto nº 17.076 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17076",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17076",
+      "ementa": "MODIFICA, NO ORÇAMENTO APROVADO PELO DECRETO NÚMERO 16.544, DE 13 DE AGOSTO DE 1924, OS PREÇOS RELATIVOS À DRAGAGEM DA BARRA DE ILHÉUS E DO CANAL DE ACESSO A ESSE PORTO."
+    },
+    {
+      "senadoId": "432384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17087",
+      "titulo": "Decreto nº 17.087 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17087",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17087",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 10:957$086, PARA CONSTRUÇÃO DE UM DESVIO NO PATIO DA ESTAÇÃO DE CERVINHO, DO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17072",
+      "titulo": "Decreto nº 17.072 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17072",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17072",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 45:621$339, DE UM NOVO POSTO TELEGRÁFICO NO RAMAL DE ITARARÉ, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17093",
+      "titulo": "Decreto nº 17.093 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17093",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17093",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES  O CRÉDITO ESPECIAL DE 3:815$, PARA OCORRER ÀS DESPESAS, 1925, COM O ENSINO E EDUCAÇÃO DA MENOR CORDELIA, FILHA DO FALECIDO DR. ASTOLPHO DUTRA NICACIO, DE ACORDO COM DECRETO LEGISLATIVO NÚMERO 4.121, DE 3 DE SETEMBRO DE 1920."
+    },
+    {
+      "senadoId": "432358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17074",
+      "titulo": "Decreto nº 17.074 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17074",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17074",
+      "ementa": "AUTORIZA O GOVERNO DO ESTADO DA BAHIA A ARRECADAR O SERVIÇO DE NAVEGAÇÃO DO RIO SÃO FRANCISCO DE QUE E CONTRATANTE."
+    },
+    {
+      "senadoId": "432374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17082",
+      "titulo": "Decreto nº 17.082 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17082",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17082",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO, PELOS ESTADOS UNIDOS DA AMÉRICA, DA CONVENÇÃO PARA A PROTEÇÃO DAS MARCAS DE FÁBRICA, COMÉRCIO, AGRICULTURA E NOMES COMERCIANTES, ASSINADA EM SANTIAGO DO CHILE A 3 DE MAIO DE 1923."
+    },
+    {
+      "senadoId": "432364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17077",
+      "titulo": "Decreto nº 17.077 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17077",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17077",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO  ESPECIAL DE 393:218$200, DESTINADO A OCORRER AO PAGAMENTO DE CONTAS DE TRANSPORTES EFETUADOS EM 1922, PARA A CONSTRUÇÃO DA ESTRADA DE FERRO DE GOIÁS."
+    },
+    {
+      "senadoId": "432394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17092",
+      "titulo": "Decreto nº 17.092 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17092",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17092",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES  O CRÉDITO ESPECIAL DE 22:838$709, PARA OCORRER, NO ANO DE 1925, AO PAGAMENTO DOS VENCIMENTOS DEVIDOS AO CURADOR ESPECIAL DE ACIDENTES DO TRABALHO DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "432356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17073",
+      "titulo": "Decreto nº 17.073 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17073",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17073",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 4.999:200$ (QUATRO MIL NOVECENTOS E NOVENTA E NOVE CONTOS E DUZENTOS MIL RÉIS), PARA AS OBRAS DE MELHORAMENTO DO PORTO DE ARACAJÚ."
+    },
+    {
+      "senadoId": "432376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17083",
+      "titulo": "Decreto nº 17.083 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17083",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17083",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO, PELA REPÚBLICA DO SALVADOR, DE CONVENÇÕES ASSINADAS NA V, CONFERÊNCIA PAN-AMERICANA, EM SANTIAGO DO CHILE."
+    },
+    {
+      "senadoId": "432360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17075",
+      "titulo": "Decreto nº 17.075 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17075",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17075",
+      "ementa": "CONCEDE À COMPANHIA ITUANA FÔRCA E LUZ OS FAVORES CONSTANTES DO DECRETO NÚMERO 5.646, DE 22 DE AGOSTO DE 1905, DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17084",
+      "titulo": "Decreto nº 17.084 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17084",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17084",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 59:765$228, DE UM NOVO POSTO TELEGRAFICO NO RAMAL DE ITARARÉ, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17094",
+      "titulo": "Decreto nº 17.094 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17094",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17094",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES  O CRÉDITO ESPECIAL DE 22:151$, PARA PAGAMENTO DE DESPESAS, EM 1925, COM AS INSTALAÇÕES DA TERCEIRA VARA FEDERAL DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "432386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17088",
+      "titulo": "Decreto nº 17.088 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17088",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17088",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 414:080$340 (QUATROCENTOS E QUATORZE CONTOS OITENTA MIL TREZENTOS E QUARENTA RÉIS), DE SEIS NOVOS POSTOS TELEGRAFICOS NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17078",
+      "titulo": "Decreto nº 17.078 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17078",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17078",
+      "ementa": "PUBLICA A ADESÃO DO GOVERNO DA FEDERAÇÃO AUSTRALIANA À CONVENÇÃO INTERNACIONAL PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL, ASSINADA EM WASHINGTON A 2 DE JUNHO DE 1911."
+    },
+    {
+      "senadoId": "432368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17079",
+      "titulo": "Decreto nº 17.079 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17079",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17079",
+      "ementa": "PUBLICA A ANULAÇÃO DE ADESÃO DOS ALAUITAS À CONVENÇÃO POSTAL UNIVERSAL DE MADRI, DE 1920."
+    },
+    {
+      "senadoId": "432370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-21-17080",
+      "titulo": "Decreto nº 17.080 de 21/10/1925",
+      "data": "1925-10-21",
+      "numero": "17080",
+      "urn": "urn:lex:br:federal:decreto:1925-10-21;17080",
+      "ementa": "PUBLICA A ADESÃO DA LETÔNIA A ATOS DA UNIÃO PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "432352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-19-17071",
+      "titulo": "Decreto nº 17.071 de 19/10/1925",
+      "data": "1925-10-19",
+      "numero": "17071",
+      "urn": "urn:lex:br:federal:decreto:1925-10-19;17071",
+      "ementa": "SUSPENDE NO DIA 1 DE NOVEMBRO PROXIMO, NO ESTADO DO AMAZONAS, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.890, DE 22 DE ABRIL DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "432350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17070",
+      "titulo": "Decreto nº 17.070 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17070",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17070",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO ESPECIAL DE 2.800:000$, PAPEL PARA OCORRER ÀS DESPESAS COM OS PREPARATIVOS PARA A RECEPÇÃO DO PRÍNCIPE HERDEIRO DA ITÁLIA, EM 1924, INCLUSIVE AS OBRAS QUE FORAM FEITAS NOS PALÁCIOS GUANABARA, CATTETE E RIO NEGRO, PARA ESSE EFEITO."
+    },
+    {
+      "senadoId": "432344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17067",
+      "titulo": "Decreto nº 17.067 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17067",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17067",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA DE SEGUROS GUANABARA PARA OPERAR EM SEGUROS CONTRA ACIDENTES DO TRABALHO."
+    },
+    {
+      "senadoId": "432342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17066",
+      "titulo": "Decreto nº 17.066 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17066",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17066",
+      "ementa": "CONCEDE À SOCIÉTÉ ANÔNYME A. ANDRÉ FILS AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17069",
+      "titulo": "Decreto nº 17.069 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17069",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17069",
+      "ementa": "CONCEDE À FORD MOTOR COMPANY OF BRAZIL AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17068",
+      "titulo": "Decreto nº 17.068 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17068",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17068",
+      "ementa": "CONCEDE À SOCIÉTÉ ANONYME DES MINES DIAMANTIFERES DE CÓRREGO SALU (BRÉSIL) AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17064",
+      "titulo": "Decreto nº 17.064 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17064",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17064",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 50:050$600, PARA PAGAMENTO AO ENGENHEIRO MIGUEL DE OLIVEIRA VALLE, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "432340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-15-17065",
+      "titulo": "Decreto nº 17.065 de 15/10/1925",
+      "data": "1925-10-15",
+      "numero": "17065",
+      "urn": "urn:lex:br:federal:decreto:1925-10-15;17065",
+      "ementa": "REVOGA O DECRETO PELO QUAL FOI CONCEDIDA À ULEN & COMPANY, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA E CASSA A RESPECTIVA CARTA."
+    },
+    {
+      "senadoId": "432333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-14-17061",
+      "titulo": "Decreto nº 17.061 de 14/10/1925",
+      "data": "1925-10-14",
+      "numero": "17061",
+      "urn": "urn:lex:br:federal:decreto:1925-10-14;17061",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO NO TERRITÓRIO DOS ESTADOS DO PARANÁ E SANTA CATARINA."
+    },
+    {
+      "senadoId": "432336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-14-17063",
+      "titulo": "Decreto nº 17.063 de 14/10/1925",
+      "data": "1925-10-14",
+      "numero": "17063",
+      "urn": "urn:lex:br:federal:decreto:1925-10-14;17063",
+      "ementa": "APROVA O REGULAMENTO PARA A ORGANIZAÇÃO DO TERRENO (1ª PARTE), 2ª EDIÇÃO."
+    },
+    {
+      "senadoId": "432331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-07-17060",
+      "titulo": "Decreto nº 17.060 de 07/10/1925",
+      "data": "1925-10-07",
+      "numero": "17060",
+      "urn": "urn:lex:br:federal:decreto:1925-10-07;17060",
+      "ementa": "SUSPENDE, NOS DIAS 11, 12, E 13 DO CORRENTE MÊS NO ESTADO DO MATO GROSSO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.890, DE 22 DE ABRIL DO CORENTE ANO."
+    },
+    {
+      "senadoId": "432329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-06-17059",
+      "titulo": "Decreto nº 17.059 de 06/10/1925",
+      "data": "1925-10-06",
+      "numero": "17059",
+      "urn": "urn:lex:br:federal:decreto:1925-10-06;17059",
+      "ementa": "CONCEDE À COMPANIA ITALIANA DEI CAVI TELEGRÁFICI SOTTOMARINI PERMISSÃO PARA CONSTRUIR, MANTER E TRAFEGAR, SEM PRIVILÉGIO NEM MONOPÓLIO, LINHAS TELEGRÁFICAS ENTRE AS CIDADES DE SÃO PAULO E SANTOS E ENTRE AS DE SÃO PAULO E RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17051",
+      "titulo": "Decreto nº 17.051 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17051",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17051",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 61:802$873, DE UM ARMAZEM PARA CARGAS NO PATEO DA ESTAÇÃO DE S. BARTOLOMEU, NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17053",
+      "titulo": "Decreto nº 17.053 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17053",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17053",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO NA IMPORTÂNCIA DE RÉIS 111:674$891, PARA REFORÇAMENTO DA PONTE DE 95M,17 DE VÃO SOBRE O RIO IGUASSÚ, SITUADA NO KILOMENTRO 0,550 RAMAL DO RIO NEGRO DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "432323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17056",
+      "titulo": "Decreto nº 17.056 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17056",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17056",
+      "ementa": "PRORROGA POR DEZOITO MESES O PRAZO CONCEDIDO À THE GREAT WESTERN OF BRAZIL RAILWAY COMPANY, LIMITED, PARA CONCLUSÃO DAS OBRAS A SEREM EXECUTADAS NA PONTE DO KILOMENTRO 45,400, DA ESTRADA DE FERRO CONDE D`EU."
+    },
+    {
+      "senadoId": "432327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17058",
+      "titulo": "Decreto nº 17.058 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17058",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17058",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, CRÉDITO DE 8:742$770, PARA PAGAMENTO AOS DRS. ÁLVARO CARLOS DE ANDRADE, ADALBERTO BENTIM, WALDEMAR AUGUSTO BENTIM, JOSÉ ADALBERTO GORDULA E AFFONSO BENTIM DE LACERDA, EM VIRTUDE DE SENTEÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "432315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17052",
+      "titulo": "Decreto nº 17.052 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17052",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17052",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 48:034$320, DE UM NOVO POSTO TELEGRAFICO NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "432319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17054",
+      "titulo": "Decreto nº 17.054 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17054",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17054",
+      "ementa": "APROVA NOVO PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 305:295$717 (TREZENTOS E CINCO CONTOS DUZENTOS E N0VENTA E CINCO MIL SETECENTOS E DEZESSETE RÉIS), PARA A CONSTRUÇÃO DA ESTAÇÃO INICIAL DA ESTRADA DE FERRO S. LUIZ A TEREZINA, EM S. LUIZ DO MARANHÃO."
+    },
+    {
+      "senadoId": "432325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17057",
+      "titulo": "Decreto nº 17.057 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17057",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17057",
+      "ementa": "PRORROGA POR TRÊS ANOS O PRAZO FIXADO PARA CONCLUSÃO DAS OBRAS COMPLEMENTARES A APARELHAMENTO, DO PORTO DE RECIFE, PELA CLAUSULA IX DO TERMO DE TRANSFERENCIA CELEBRADO EM VIRTUDE DO DECRETO NÚMERO 14.531, DE 10 DE DEZEMBRO DE 1920."
+    },
+    {
+      "senadoId": "432321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-10-01-17055",
+      "titulo": "Decreto nº 17.055 de 01/10/1925",
+      "data": "1925-10-01",
+      "numero": "17055",
+      "urn": "urn:lex:br:federal:decreto:1925-10-01;17055",
+      "ementa": "AUTORIZA A COMPANHIA BRASILEIRA DE EMPRENDIMENTOS AERONAUTICOS A EXPLORAR O TRAFEGO AEREO NO TERRITORIO NACIONAL."
+    },
+    {
+      "senadoId": "432309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-30-17048",
+      "titulo": "Decreto nº 17.048 de 30/09/1925",
+      "data": "1925-09-30",
+      "numero": "17048",
+      "urn": "urn:lex:br:federal:decreto:1925-09-30;17048",
+      "ementa": "AUTORIZA A TRANSFERENCIA AO GOVERNO DO ESTADO DO PIAUI DO CONTRATO CELEBRADO EM VIRTUDE DO DECRETO NÚMERO 14.823, DE 24 DE MAIO DE 1921,    COM A COMPANHIA GERAL DE MELHORAMENTOS NO MARANHÃO."
+    },
+    {
+      "senadoId": "432307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-18-17047",
+      "titulo": "Decreto nº 17.047 de 18/09/1925",
+      "data": "1925-09-18",
+      "numero": "17047",
+      "urn": "urn:lex:br:federal:decreto:1925-09-18;17047",
+      "ementa": "PUBLICA AS ADESÕES DA BULGARIA E DO IRAK À CONVENÇÃO INTERNACIONAL PARA REPRESSÃO DO TRAFICO DAS BRANCAS."
+    },
+    {
+      "senadoId": "432305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-18-17046",
+      "titulo": "Decreto nº 17.046 de 18/09/1925",
+      "data": "1925-09-18",
+      "numero": "17046",
+      "urn": "urn:lex:br:federal:decreto:1925-09-18;17046",
+      "ementa": "PUBLICA A RATIFICAÇÃO, POR PARTE DA SUECIA, DA CONVENÇÃO INTERNACIONAL PARA A REPRESSÃO DO TRAFICO DAS BRANCAS."
+    },
+    {
+      "senadoId": "432300",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-16-17043",
+      "titulo": "Decreto nº 17.043 de 16/09/1925",
+      "data": "1925-09-16",
+      "numero": "17043",
+      "urn": "urn:lex:br:federal:decreto:1925-09-16;17043",
+      "ementa": "CONCEDE A THE AYER CO. OF BRAZIL AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-16-17042",
+      "titulo": "Decreto nº 17.042 de 16/09/1925",
+      "data": "1925-09-16",
+      "numero": "17042",
+      "urn": "urn:lex:br:federal:decreto:1925-09-16;17042",
+      "ementa": "DÁ REGULAMENTO AO SERVIÇO FLORESTAL DO BRASIL."
+    },
+    {
+      "senadoId": "432302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-16-17044",
+      "titulo": "Decreto nº 17.044 de 16/09/1925",
+      "data": "1925-09-16",
+      "numero": "17044",
+      "urn": "urn:lex:br:federal:decreto:1925-09-16;17044",
+      "ementa": "AUTORIZA O \"BANCO ITALO-BELGA\", COM SEDE EM ANTUERPIA (BÉLGICA) E SUCCURSAES NESTA CAPITAL, SÃO PAULO, SANTOS E CAMPINAS, A ABRIR UMA AGENCIA NO BAIRRO DO BRAZ, ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "432290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-10-17038",
+      "titulo": "Decreto nº 17.038 de 10/09/1925",
+      "data": "1925-09-10",
+      "numero": "17038",
+      "urn": "urn:lex:br:federal:decreto:1925-09-10;17038",
+      "ementa": "APROVA ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA MINEIRA DE LATICINIOS."
+    },
+    {
+      "senadoId": "432296",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-10-17041",
+      "titulo": "Decreto nº 17.041 de 10/09/1925",
+      "data": "1925-09-10",
+      "numero": "17041",
+      "urn": "urn:lex:br:federal:decreto:1925-09-10;17041",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 76:435$200 PARA PAGAMENTO A FUNCIONARIOS DO COLEGIO MILITAR DO RIO DE JANEIRO DA PERCENTAGEM CONCEDIDA PELA LEI NÚMERO 3.990, DE 2 DE JANEIRO DE 1920."
+    },
+    {
+      "senadoId": "432292",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-10-17039",
+      "titulo": "Decreto nº 17.039 de 10/09/1925",
+      "data": "1925-09-10",
+      "numero": "17039",
+      "urn": "urn:lex:br:federal:decreto:1925-09-10;17039",
+      "ementa": "APROVA ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA BRASILEIRA DE LATICINIOS."
+    },
+    {
+      "senadoId": "432294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-10-17040",
+      "titulo": "Decreto nº 17.040 de 10/09/1925",
+      "data": "1925-09-10",
+      "numero": "17040",
+      "urn": "urn:lex:br:federal:decreto:1925-09-10;17040",
+      "ementa": "CONCEDE À SOCIÉTÉ GÉNÉRALE POUR LE COMMERCE DE PRODUITS INDUSTRIELS AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "432284",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-09-17035",
+      "titulo": "Decreto nº 17.035 de 09/09/1925",
+      "data": "1925-09-09",
+      "numero": "17035",
+      "urn": "urn:lex:br:federal:decreto:1925-09-09;17035",
+      "ementa": "AUTORIZA A EMISSÃO DE APOLICE DA DIVIDA DA UNIÃO, PARA PERFAZER A IMPORTANCIA DE 1.500:000$, PARA EMPRESTIMO À USINA QUEIROZ JUNIOR LIMITADA, NOS TERMOS DO DECRETO Nº 12.944, DE 30 DE MARÇO DE 1918."
+    },
+    {
+      "senadoId": "432286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-09-17036",
+      "titulo": "Decreto nº 17.036 de 09/09/1925",
+      "data": "1925-09-09",
+      "numero": "17036",
+      "urn": "urn:lex:br:federal:decreto:1925-09-09;17036",
+      "ementa": "APROVA O REGULAMENTO PARA OS EXERCÍCIOS E O COMBATE DA CAVALARIA, QUARTA PARTE."
+    },
+    {
+      "senadoId": "432278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-09-17032",
+      "titulo": "Decreto nº 17.032 de 09/09/1925",
+      "data": "1925-09-09",
+      "numero": "17032",
+      "urn": "urn:lex:br:federal:decreto:1925-09-09;17032",
+      "ementa": "DÁ INSTRUÇÕES PARA ELEIÇÃO DE DEPUTADOS À ASSEMBLÉIA LEGISLATIVA E DE GOVERNADOR DO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "432288",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-09-17037",
+      "titulo": "Decreto nº 17.037 de 09/09/1925",
+      "data": "1925-09-09",
+      "numero": "17037",
+      "urn": "urn:lex:br:federal:decreto:1925-09-09;17037",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 62:400$, PARA PAGAMENTO A ENFERMEIROS DO HOSPITAL CENTRAL DO EXÉRCITO DE DIFERENÇA DE VENCIMENTOS."
+    },
+    {
+      "senadoId": "432280",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-09-17033",
+      "titulo": "Decreto nº 17.033 de 09/09/1925",
+      "data": "1925-09-09",
+      "numero": "17033",
+      "urn": "urn:lex:br:federal:decreto:1925-09-09;17033",
+      "ementa": "APROVA OS ORÇAMENTOS, NAS IMPORTÂNCIAS DE $ 100.000 RÉIS 5:537$600, OURO, E 25:944$800 PAPEL, PARA A IMPORTAÇÃO DE QUATRO LOCOMOTIVAS, DESTINADAS ÀS LINHAS EM CONSTRUÇÃO, DA REDE FEDERAL ARRENDADA À COMPANHIA FERROVIÁRIA ÉSTE BRASILEIRO."
+    },
+    {
+      "senadoId": "432282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-09-17034",
+      "titulo": "Decreto nº 17.034 de 09/09/1925",
+      "data": "1925-09-09",
+      "numero": "17034",
+      "urn": "urn:lex:br:federal:decreto:1925-09-09;17034",
+      "ementa": "APROVA AS ALTERAÇÕES DOS ESTATUTOS DA COMPANHIA DE SEGUROS MINERVA, DESTA CAPITAL, E A SUA NOVA DENOMINAÇÃO PARA COMPANHIA DE SEGUROS GUANABARA."
+    },
+    {
+      "senadoId": "432258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17022",
+      "titulo": "Decreto nº 17.022 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17022",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17022",
+      "ementa": "APROVA OS PROJETOS E OS ORÇAMENTOS, NA IMPORTÂNCIA DE 23:123$313 (VINTE E TRÊS CONTOS, CENTO E VINTE E TRÊS MIL TREZENTOS E TREZE RÉIS), PARA A CONSTRUÇÃO DE DOIS BUEIROS NO RAMAL FLUMINENSE DAS LINHAS DE LIGAÇÃO, EM TEREZINA, A CARGO DA COMPANHIA GERAL DE MELHORAMENTOS, NO MARANHÃO."
+    },
+    {
+      "senadoId": "432264",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17025",
+      "titulo": "Decreto nº 17.025 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17025",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17025",
+      "ementa": "DECLARA QUE O DISPOSTO NO DECRETO NÚMERO 6.192, DE 23 DE OUTUBRO DE 1906, QUE CONCEDEU A \"THE SÃOPAULO TRAMWY LIGHT AND POWER COMPANY LIMITED\", OS FAVORES CONSTANTES DO DECRETO NÚMERO 5.646, DE 22 DE AGOSTO DE 1905, SE APLICA AOS RIOS SÃO LOURENÇO, PEDRAS, LARANJEIRAS, RIBEIRÃO GRANDE E PEREQUÊ."
+    },
+    {
+      "senadoId": "432268",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17027",
+      "titulo": "Decreto nº 17.027 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17027",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17027",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE 13:103$733, DE UM EDIFICIO DESTINADO À PARADA AMARAL RIBEIRO DA LINHA DO RIO DOS SINOS A TAQUARA, DA REDE DE VIAÇÃO FERREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432272",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17029",
+      "titulo": "Decreto nº 17.029 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17029",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17029",
+      "ementa": "APROVA MODIFICAÇÕES NO PLANO DAS OBRAS QUE \"THE SÃO PAULO TRAMWAY LIGHT AND POWER COMPANY LIMITED\" PRETENDE EXECUTAR NO ESTADO DE SÃO PAULO PARA APROVEITAMENTO DE FORÇA HIDRAULICA DO RIO TIETÉ E ALGUNS DE SEUS AFLUENTES E DECLARA A URGENCIA DA DESAPROPRIAÇÃO DOS TERRENOS E BENFEITORIAS COMPREENDIDOS NAS RESPECTIVAS PLANTAS."
+    },
+    {
+      "senadoId": "432266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17026",
+      "titulo": "Decreto nº 17.026 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17026",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17026",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 312:598$, DAS DIVISÕES INTERNAS NO DEPOSITO DE CARVÃO DO PORTO DO RIO GRANDE."
+    },
+    {
+      "senadoId": "432274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17030",
+      "titulo": "Decreto nº 17.030 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17030",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17030",
+      "ementa": "SUBSTITUI A LINHA FÉRREA DE ARASSUAHY A TREMEDAL, CUJA CONSTRUÇÃO ESTÁ CONTRATADA COM A COMPANGNIEDES CHEMINS DE FER FÉDERAUX DE I´EST BRÉSSILIEN, PELA DE TEÓFILO OTONI A FIGUEIRAS, E APROVA OS ESTUDOS DEFINITIVOS DA 1ª SECÇÃO DESTA LINHA, ASSIM COMO OS RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 6.270:459$513."
+    },
+    {
+      "senadoId": "432260",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17023",
+      "titulo": "Decreto nº 17.023 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17023",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17023",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE 23:025$310, DAS OBRAS DO ABASTECIMENTO DE ÁGUA ÀS LOCOMOTIVAS, NO KILOMETRO 13,449 DA LINHA DE S. FRANCISCO, DA COMPANHIA ESTRADA S. PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17028",
+      "titulo": "Decreto nº 17.028 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17028",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17028",
+      "ementa": "SUPRIME OS PROJETOS DE CONSTRUÇÃO DE QUATRO ARMAZÉNS NO CÁIS DO PORTO DE RECIFE, INCLUIDOS NO ORÇAMENTO A QUE SE REFERE O DECRETO NÚMERO 14.806, DE 16 DE MAIO DE 1921, E APROVA, EM SUBSTITUIÇÃO, OS PROJETOS E ORÇAMENTOS PARA CONSTRUÇÃO DE DOIS ARMAZENS DIFERENTES E DE UM EDIFICIO DESTINADO À ADMINISTRAÇÃO DAS DOCAS DAQUELE PORTO."
+    },
+    {
+      "senadoId": "432262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17024",
+      "titulo": "Decreto nº 17.024 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17024",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17024",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE RÉIS 116:619$, PARA MELHORAMENTO DAS INSTALAÇÕES NO PORTO DE ILHÉOS, REPAROS E APARELHAMENTO DA PONTE DO MESMO PORTO."
+    },
+    {
+      "senadoId": "432276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-09-02-17031",
+      "titulo": "Decreto nº 17.031 de 02/09/1925",
+      "data": "1925-09-02",
+      "numero": "17031",
+      "urn": "urn:lex:br:federal:decreto:1925-09-02;17031",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM CONCEPCION, TERRITORIO DE MISIONES, NA REPUBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "432252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-26-17019",
+      "titulo": "Decreto nº 17.019 de 26/08/1925",
+      "data": "1925-08-26",
+      "numero": "17019",
+      "urn": "urn:lex:br:federal:decreto:1925-08-26;17019",
+      "ementa": "APROVA O REGULAMENTO PARA O CURSO DE QUÍMICA INDUSTRIAL AGRÍCOLA, ANEXO À ESCOLA SUPERIOR DE AGRICULTURA E MEDICINA VETERINÁRIA."
+    },
+    {
+      "senadoId": "432248",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-26-17017",
+      "titulo": "Decreto nº 17.017 de 26/08/1925",
+      "data": "1925-08-26",
+      "numero": "17017",
+      "urn": "urn:lex:br:federal:decreto:1925-08-26;17017",
+      "ementa": "PÚBLICA A ADESÃO DA TECHECOSLOVAQUIA À CONVENÇÃO PARA A PROTEÇÃO DE CABOS SUBMARINOS."
+    },
+    {
+      "senadoId": "432250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-26-17018",
+      "titulo": "Decreto nº 17.018 de 26/08/1925",
+      "data": "1925-08-26",
+      "numero": "17018",
+      "urn": "urn:lex:br:federal:decreto:1925-08-26;17018",
+      "ementa": "APROVA NOVAS MODIFICAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA PUGLISI."
+    },
+    {
+      "senadoId": "432256",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-26-17021",
+      "titulo": "Decreto nº 17.021 de 26/08/1925",
+      "data": "1925-08-26",
+      "numero": "17021",
+      "urn": "urn:lex:br:federal:decreto:1925-08-26;17021",
+      "ementa": "PUBLICA UMA NOTIFICAÇÃO DA GRÃ-BRETANHA SOBRE A ADESÃO DO DOMÍNIO DO CANADÁ À CONVENÇÃO INTERNACIONAL DE PARIS PARA PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "432254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-26-17020",
+      "titulo": "Decreto nº 17.020 de 26/08/1925",
+      "data": "1925-08-26",
+      "numero": "17020",
+      "urn": "urn:lex:br:federal:decreto:1925-08-26;17020",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM REVAL (ESTONIA)."
+    },
+    {
+      "senadoId": "432246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-24-17016",
+      "titulo": "Decreto nº 17.016 de 24/08/1925",
+      "data": "1925-08-24",
+      "numero": "17016",
+      "urn": "urn:lex:br:federal:decreto:1925-08-24;17016",
+      "ementa": "RESOLVE MANTER, PARA OS ATUAIS ALUNOS DOS INSTITUTOS ENSINO SUPERIOR, O REGIME ESCOLAR DO DECRETO NÚMERO 11.530, DE 18 DE MARÇO DE 1915."
+    },
+    {
+      "senadoId": "432244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-22-17015",
+      "titulo": "Decreto nº 17.015 de 22/08/1925",
+      "data": "1925-08-22",
+      "numero": "17015",
+      "urn": "urn:lex:br:federal:decreto:1925-08-22;17015",
+      "ementa": "DECLARA FERIADO NACIONAL O DIA 25 DE AGOSTO DO CORRENTE ANO, EM HOMENAGEM À REPUBLICA ORIENTAL DO URUGUAY."
+    },
+    {
+      "senadoId": "432242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-22-17014",
+      "titulo": "Decreto nº 17.014 de 22/08/1925",
+      "data": "1925-08-22",
+      "numero": "17014",
+      "urn": "urn:lex:br:federal:decreto:1925-08-22;17014",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A EMITIR APOLICE DE 1:000$ CADA UMA, JUROS DE 5% AO ANO, ATÉ PERFAZER A IMPORTÂNCIA DE 15.000:000$, PARA A EXECUÇÃO DE MELHORAMENTO E APARELHAMENTO DAS ESTRADAS DE FERRO E APARELHAMENTO DAS ESTRADAS DE FERRO DA UNIÃO, ETC."
+    },
+    {
+      "senadoId": "432228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17007",
+      "titulo": "Decreto nº 17.007 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17007",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17007",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 50:000$, PARA A CONCLUSÃO DAS OBRAS DO EDIFICIO DESTINADO À REPARTIÇÃO DE CORREIOS E TELÉGRAFOS DA CIDADE DE PETROPOLIS, ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17013",
+      "titulo": "Decreto nº 17.013 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17013",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17013",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA A EMITIR APOLICES DA  DIVIDA PÚBLICA DA UNIÃO, TANTAS QUANTAS FOREM NECESSARIAS PARA COBRIR A IMPORTÂNCIA DE 200:000$, PARA ATENDER ÀSDESPESAS DE CONSTRUÇÃO DO RAMAL DE URSSANGA."
+    },
+    {
+      "senadoId": "432234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17010",
+      "titulo": "Decreto nº 17.010 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17010",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17010",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA  E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINARIO DE 100:000$, PARA ATENDER ÀS DESPESAS DECORRENTES DOS SERVIÇOS DE COMBATE AOS SURTOS EPIDEMICOS DE IMPALUDISMO E DE GRIPE, NO TERRITORIO DO ACRE."
+    },
+    {
+      "senadoId": "432232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17009",
+      "titulo": "Decreto nº 17.009 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17009",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17009",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 39:171$506, DE MODIFICAÇÃO DE LINHAS NA ESTAÇÃO \"NASCENTE\", SITA NO QUILÔMETRO 420,804, DA LINHA DO RIO GRANDE A CACEQUY, DA REDE DE VIAÇÃO FERREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17011",
+      "titulo": "Decreto nº 17.011 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17011",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17011",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA  E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 2:700$, PARA PAGAMENTO DE GRATIFICAÇÃO ADICIONAL DE 15% A QUE FEZ JÚS, NOS ANOS DE 1921, 1922 E 1923, O REVISOR DA CAMARA DOS DEPUTADOS, IDIBALDO COLOMBO MARTINS DE SOUZA."
+    },
+    {
+      "senadoId": "432230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17008",
+      "titulo": "Decreto nº 17.008 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17008",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17008",
+      "ementa": "APROVA AS PLANTAS E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 4.113:936$400, PARA A CONSTRUÇÃO, PELA THE LEOPOLDINA RAILWAY COMPANY, LIMIMITED., DE MAIS DUAS LINHAS FERREAS ENTRE PRAIA FORMOSA E TRIAGEM NA ESTRADA DE FERRO DO NORTE."
+    },
+    {
+      "senadoId": "432238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-19-17012",
+      "titulo": "Decreto nº 17.012 de 19/08/1925",
+      "data": "1925-08-19",
+      "numero": "17012",
+      "urn": "urn:lex:br:federal:decreto:1925-08-19;17012",
+      "ementa": "MANDA ADOTAR A TABELA DE COEFICIENTE DE LUCRO LIQUIDO E NOMENCLATURA DAS PROFISSÕES ISENTAS DO IMPOSTO SOBRE VENDAS MERCANTIS, ORGANIZADA PELA COMISSÃO TÉCNICA NOMEADA PELO GOVERNO."
+    },
+    {
+      "senadoId": "432226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-18-17006",
+      "titulo": "Decreto nº 17.006 de 18/08/1925",
+      "data": "1925-08-18",
+      "numero": "17006",
+      "urn": "urn:lex:br:federal:decreto:1925-08-18;17006",
+      "ementa": "SUSPENDE O ESTADO DE SITIO EM TODO O TERRITORIO DO ESTADO DE S. PAULO NO DIA 27 DO CORRENTE MES, DATA EM QUE SE REALIZARÃO ALI AS ELEIÇÕES PARA DEPUTADOS FEDERAIS."
+    },
+    {
+      "senadoId": "432224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-14-17005",
+      "titulo": "Decreto nº 17.005 de 14/08/1925",
+      "data": "1925-08-14",
+      "numero": "17005",
+      "urn": "urn:lex:br:federal:decreto:1925-08-14;17005",
+      "ementa": "SUSPENDE O ESTADO DE SITIO EM TODO O TERRITORIO DO ESTADO DE S. PAULO, NO DIA 17 DO CORENTE MES, DATA EM QUE ALI SE REALIZARÃO AS ELEIÇÕES PARA SENADOR FEDERAL."
+    },
+    {
+      "senadoId": "432214",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-17000",
+      "titulo": "Decreto nº 17.000 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "17000",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;17000",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA DE SEGUROS \"PHENIX PERNAMBUCANA\", ADOTADOS PELA ASSEMBLÉIA GERAL EXTRAORDINARIA REALIZADA EM 20 DE ABRIL DE 1925."
+    },
+    {
+      "senadoId": "432220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-17003",
+      "titulo": "Decreto nº 17.003 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "17003",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;17003",
+      "ementa": "PÚBLICA A ADESÃO DA POLONIA A TRÊS CONVENÇÕES DA HAYA, ASSINADOS EM 18 DE OUTUBRO DE 1907."
+    },
+    {
+      "senadoId": "432216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-17001",
+      "titulo": "Decreto nº 17.001 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "17001",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;17001",
+      "ementa": "FAZ PÚBLICO O DEPOSITO DE RATIFICAÇÃO POR PARTE DE COSTA RICA, DE CONVENÇÕES ASSINADAS NA QUINTA CONFERENCIA PAN-AMERICANA, DE SANTIAGO."
+    },
+    {
+      "senadoId": "432218",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-17002",
+      "titulo": "Decreto nº 17.002 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "17002",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;17002",
+      "ementa": "ADESÃO DA ALEMANHA AO AJUSTE RELATIVO À REPRESSÃO DAS FALSAS INDICAÇÕES DE PROCEDENCIA DE MERCADORIAS, ASSINADO EM MADRI EM 1891 E REVISTO EM WASHINGTON EM 1911."
+    },
+    {
+      "senadoId": "432210",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-16998",
+      "titulo": "Decreto nº 16.998 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "16998",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;16998",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O PESSOAL SUBALTERNO DO SERVIÇO GERAL DE AVIAÇÃO NAVAL."
+    },
+    {
+      "senadoId": "432208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-16997",
+      "titulo": "Decreto nº 16.997 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "16997",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;16997",
+      "ementa": "ABRE, PELO MINSTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE 159:141$, PARA OCORRER ÀS DESPESAS DAS VERBAS \"2\" E \"5\" DO ORÇAMENTO DO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "432212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-16999",
+      "titulo": "Decreto nº 16.999 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "16999",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;16999",
+      "ementa": "DECLAREA SUPRIMIDA A MESA DE RENDAS DE CANANEA E CRIADA EM SEU LUGAR UMA COLETORIA PARA A ARRECADAÇÃO DAS RENDAS FEDERAIS."
+    },
+    {
+      "senadoId": "432222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-12-17004",
+      "titulo": "Decreto nº 17.004 de 12/08/1925",
+      "data": "1925-08-12",
+      "numero": "17004",
+      "urn": "urn:lex:br:federal:decreto:1925-08-12;17004",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINADIO DE 700:000$, PARA OCORRER NESTE ANO, ÀS DESPESAS FEITAS E POR FAZER COM PROVIDENCIAS EM PROL DA GARANTIA DA ORDEM E SEGURANÇA PÚBLICAS E COM AS MEDIDAS DECORRENTES DO ESTADO DE SITIO AUTORIZADO PELO DECRETO NÚMERO 4.836, DE 5 DE JULHO DE 1924, E DECRETADO PELO DE NÚMERO 16.765, DE 1 DE JANEIRO FINDO."
+    },
+    {
+      "senadoId": "432206",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-08-03-16996",
+      "titulo": "Decreto nº 16.996 de 03/08/1925",
+      "data": "1925-08-03",
+      "numero": "16996",
+      "urn": "urn:lex:br:federal:decreto:1925-08-03;16996",
+      "ementa": "DECLARA FERIADO NACIONAL O DIA 6 DE AGOSTO DO CORRENTE ANO, CENTENARIO INDEPENDENCIA DA REPUBLICA DA BOLIVIA."
+    },
+    {
+      "senadoId": "432198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16992",
+      "titulo": "Decreto nº 16.992 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16992",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16992",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA \"ALBINGIA VERSICHERUNGS - AKTIENGESELLSCHAFT\"."
+    },
+    {
+      "senadoId": "432196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16991",
+      "titulo": "Decreto nº 16.991 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16991",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16991",
+      "ementa": "AUTORIZA O MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER A SEBASTIÃO DE SOUZA AREAS OS FAVORES CONSTANTES DA LEI NÚMERO 4.540, DE 6 DE FEVEREIRO DE 1922, E DECRETO NÚMERO 16.131. DE 25 DE AGOSTO DE 1923."
+    },
+    {
+      "senadoId": "432190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16988",
+      "titulo": "Decreto nº 16.988 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16988",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16988",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 5.276:000$, EM APOLICES, AFIM DE ATENDER AO PAGAMENTO DOS TRABALHOS DE CONSTRUÇÃO REALIZADOS E MEDIDOS NO RAMAL DE PARANAPANEMA E NA LINHA DO RIO DO PEIXE."
+    },
+    {
+      "senadoId": "432188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16987",
+      "titulo": "Decreto nº 16.987 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16987",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16987",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGOCIOS INTERIORES O CRÉDITO ESPECIAL DE 300:000$, DESTINADO À INSTALAÇÃO DO DEPARTAMENTO NACIONAL DO ENSINO."
+    },
+    {
+      "senadoId": "432192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16989",
+      "titulo": "Decreto nº 16.989 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16989",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16989",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA F. STEVENSON & CO., LIMITED. AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16995",
+      "titulo": "Decreto nº 16.995 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16995",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16995",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM LUXEMBURGO."
+    },
+    {
+      "senadoId": "432202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16994",
+      "titulo": "Decreto nº 16.994 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16994",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16994",
+      "ementa": "SUPRIME O CONSELHO HONORARIO EM MANILHA."
+    },
+    {
+      "senadoId": "432200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16993",
+      "titulo": "Decreto nº 16.993 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16993",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16993",
+      "ementa": "APROVA OS NOVOS ESTATUTOS E A NOVA DENOMINAÇÃO DA COMPANHIA NATIONAL ALGEMEINE VERSICHERUNGS - AKTIEN GESSELLSECHAFT, COM SEDE EM STETTIN, ALEMANHA."
+    },
+    {
+      "senadoId": "432194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-29-16990",
+      "titulo": "Decreto nº 16.990 de 29/07/1925",
+      "data": "1925-07-29",
+      "numero": "16990",
+      "urn": "urn:lex:br:federal:decreto:1925-07-29;16990",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER À SOCIEDADE CARBONÍFERA PROSPERA OS FAVORES CONSTANTES DA LEI NÚMERO 4.265, DE 15 DE JANEIRO DE 1921, E DOS DECRETOS NÚMEROS 12.493, DE 30 DE MARÇO DE 1918, E 16.552, DE 13 DE AGOSTO DE 1924."
+    },
+    {
+      "senadoId": "432186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-22-16986",
+      "titulo": "Decreto nº 16.986 de 22/07/1925",
+      "data": "1925-07-22",
+      "numero": "16986",
+      "urn": "urn:lex:br:federal:decreto:1925-07-22;16986",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 2:400$, PARA PAGAMENTO A OSCAR AUGUSTO DE CARVALHO BASTOS, DE DIFERENÇA DE VENCIMENTOS ENTRE 450$ E 500$ MENSAIS, NO PERIODO DE 1 DE JANEIRO DE 1921 A 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "432178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-22-16982",
+      "titulo": "Decreto nº 16.982 de 22/07/1925",
+      "data": "1925-07-22",
+      "numero": "16982",
+      "urn": "urn:lex:br:federal:decreto:1925-07-22;16982",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO NA IMPORTANCIA DE 11:128$406, PARA A CONSTRUÇÃO DE UMA CASA PARA MESTRE DE LINHA, NO QUILÔMETRO 30,030 DA LINHA DA SERRINHA, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-22-16984",
+      "titulo": "Decreto nº 16.984 de 22/07/1925",
+      "data": "1925-07-22",
+      "numero": "16984",
+      "urn": "urn:lex:br:federal:decreto:1925-07-22;16984",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 4:690$, PARA PAGAMENTO AOS PRATICANTES ADIDOS DA INSPETORIA FEDERAL DE PORTOS, RIOS E CANAES, VIRGILIO BRANDÃO E EUTHALIO CYRO CASTRO."
+    },
+    {
+      "senadoId": "432180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-22-16983",
+      "titulo": "Decreto nº 16.983 de 22/07/1925",
+      "data": "1925-07-22",
+      "numero": "16983",
+      "urn": "urn:lex:br:federal:decreto:1925-07-22;16983",
+      "ementa": "APROVA O REGULAMENTO PARA OS SERVIÇOS CIVIS DE NAVEGAÇÃO AÉREA."
+    },
+    {
+      "senadoId": "432184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-22-16985",
+      "titulo": "Decreto nº 16.985 de 22/07/1925",
+      "data": "1925-07-22",
+      "numero": "16985",
+      "urn": "urn:lex:br:federal:decreto:1925-07-22;16985",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 52:605$989, PARA PAGAMENTO A D. DELMIRA DE SOUZA ALMEIDA, VIUVA DE FRANCISCO XAVIER DE ALMEIDA, EX-COLETOR FEDERAL DE TATUHY, ESTADO DE S. PAULO, EM VIRTUDE DE SENTEÇA JUDICIAL."
+    },
+    {
+      "senadoId": "432169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-15-16977",
+      "titulo": "Decreto nº 16.977 de 15/07/1925",
+      "data": "1925-07-15",
+      "numero": "16977",
+      "urn": "urn:lex:br:federal:decreto:1925-07-15;16977",
+      "ementa": "APROVA OS PROJETOS E OS RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 36:590$139, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO E DE UMA CASA PARA O ENCARREGADO DA PARADA NESSE DESVIO, SITUADO NO QUILÔMETRO 215,450 DA LINHA CACEQUY-RIO GRANDE, DA REDE DE VIAÇÃO FERREA FEDERAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-15-16978",
+      "titulo": "Decreto nº 16.978 de 15/07/1925",
+      "data": "1925-07-15",
+      "numero": "16978",
+      "urn": "urn:lex:br:federal:decreto:1925-07-15;16978",
+      "ementa": "APROVA NOVO ORÇAMENTO NA IMPORTÂNCIA DE 968:600$, PARA A CONSTRUÇÃO DE VIAS-FERREAS, APARELHAMENTO MECANICO, ILUMINAÇÃO E DISTRIBUIÇÃO DE ENERGIA ELETRICA E ABASTECIMENTO DE ÁGUA DO TRECHO DE 200 METROS DE CÁIS DO PORTO DO RIO GRANDE, EM FRENTE AO FRIGORIFICO DA COMPANHIA SWIFT."
+    },
+    {
+      "senadoId": "432167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-15-16976",
+      "titulo": "Decreto nº 16.976 de 15/07/1925",
+      "data": "1925-07-15",
+      "numero": "16976",
+      "urn": "urn:lex:br:federal:decreto:1925-07-15;16976",
+      "ementa": "SUPRIME O LUGAR DE ENGENHEIRO-AJUDANTE DA ESTRADA DE FERRO TERESOPOLIS."
+    },
+    {
+      "senadoId": "432173",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-15-16979",
+      "titulo": "Decreto nº 16.979 de 15/07/1925",
+      "data": "1925-07-15",
+      "numero": "16979",
+      "urn": "urn:lex:br:federal:decreto:1925-07-15;16979",
+      "ementa": "CONCEDE À SOCIEDADE ANONIMA \"ANSALDO SAN GIORGIO\" AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "432176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-15-16981",
+      "titulo": "Decreto nº 16.981 de 15/07/1925",
+      "data": "1925-07-15",
+      "numero": "16981",
+      "urn": "urn:lex:br:federal:decreto:1925-07-15;16981",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 115:783$200, PARA PAGAMENTO, EM 1920, DAS VANTAGENS A QUE TEM DIREITO, PELA LEI NÚMERO 3.990, DE 2 DE JANEIRO DE 1920, OS FUNCIONARIOS DAS SECRETARIAS E PORTARIAS DO SENADO, DA CAMARA DOS DEPUTADOS DO SUPREMO TRIBUNAL FEDERAL, DA CORTE DE APELAÇÃO E DA PROCURADORIA GERAL DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "432161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-08-16973",
+      "titulo": "Decreto nº 16.973 de 08/07/1925",
+      "data": "1925-07-08",
+      "numero": "16973",
+      "urn": "urn:lex:br:federal:decreto:1925-07-08;16973",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER À SOCIEDADE ANÔNIMA FÁBRICAS ORION, COM SEDE EM SÃO PAULO, OS FAVORES CONSTANTES DAS LETRAS A E B DO ARTIGO 7 DA LEI 4.242, DE 5 DE JANEIRO DE 1921, REVIGORADO PELO ARTIGO 178 DA LEI NÚMERO 4.793, DE 7 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "432165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-08-16975",
+      "titulo": "Decreto nº 16.975 de 08/07/1925",
+      "data": "1925-07-08",
+      "numero": "16975",
+      "urn": "urn:lex:br:federal:decreto:1925-07-08;16975",
+      "ementa": "APROVA NOVAS ALTERAÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE ANÔNIMA GRANDES MOINHOS DO BRASIL."
+    },
+    {
+      "senadoId": "432157",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-08-16971",
+      "titulo": "Decreto nº 16.971 de 08/07/1925",
+      "data": "1925-07-08",
+      "numero": "16971",
+      "urn": "urn:lex:br:federal:decreto:1925-07-08;16971",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 415:460$273, PARA PAGAMENTO DO SOLDO VITALÍCIO QUE COMPETE A DIVERSOS VOLUNTÁRIOS DA PÁTRIA."
+    },
+    {
+      "senadoId": "432163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-08-16974",
+      "titulo": "Decreto nº 16.974 de 08/07/1925",
+      "data": "1925-07-08",
+      "numero": "16974",
+      "urn": "urn:lex:br:federal:decreto:1925-07-08;16974",
+      "ementa": "REVOGA OS DECRETOS PELOS QUAIS FOI CONCEDIDA A THE AULT AND WIBORG BRAZIL COMPANY AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA E CASSA AS RESPECTIVAS CARTAS."
+    },
+    {
+      "senadoId": "432159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-08-16972",
+      "titulo": "Decreto nº 16.972 de 08/07/1925",
+      "data": "1925-07-08",
+      "numero": "16972",
+      "urn": "urn:lex:br:federal:decreto:1925-07-08;16972",
+      "ementa": "EMANCIPA O NÚCLEO COLONIAL \"ESTEVES JUNIOR\", NO ESTADO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "432148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-01-16966",
+      "titulo": "Decreto nº 16.966 de 01/07/1925",
+      "data": "1925-07-01",
+      "numero": "16966",
+      "urn": "urn:lex:br:federal:decreto:1925-07-01;16966",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINARIO DE DUZENTOS E VINTE CONTOS DE RÉIS (220:000$), AFIM DE ATENDER ÀS DESPESAS COM A REPARAÇÃO DO MATERIAL RODANTE DA ESTRADA DE FERRO NOROESTE DO BRASIL, DANIFICADA PELOS REVOLTOSOS DURANTE A OCUPAÇÃO DA REFERIDA ESTRADA, NO PERIODO DE 18 A 31 DE JULHO ULTIMO."
+    },
+    {
+      "senadoId": "432146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-01-16965",
+      "titulo": "Decreto nº 16.965 de 01/07/1925",
+      "data": "1925-07-01",
+      "numero": "16965",
+      "urn": "urn:lex:br:federal:decreto:1925-07-01;16965",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 37:723$976, DAS OBRAS DE AMPLIAÇÃO DO ARMAZEM DE MERCADORIAS DA ESTAÇÃO DE PELOTAS, DA REDE DE VIAÇÃO FERREA FEDERAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-01-16967",
+      "titulo": "Decreto nº 16.967 de 01/07/1925",
+      "data": "1925-07-01",
+      "numero": "16967",
+      "urn": "urn:lex:br:federal:decreto:1925-07-01;16967",
+      "ementa": "CONCEDE À SOCIEDADE PROPAGADORA DAS BELAS ARTES O DIREITO DE EMITIR DEBENTURES, PARA RESGATE DE EMPRéSTIMO EMITIDO PARA A CONSTRUÇÃO DE EDIFICIO DO LYCEU DE ARTES E OFICIOS."
+    },
+    {
+      "senadoId": "432152",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-01-16968",
+      "titulo": "Decreto nº 16.968 de 01/07/1925",
+      "data": "1925-07-01",
+      "numero": "16968",
+      "urn": "urn:lex:br:federal:decreto:1925-07-01;16968",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES  CRÉDITO ESPECIAL DE 5:996$666, DESTINADO AO PAGAMENTO, NESTE EXERCÍCIO, DOS VENCIMENTOS QUE COMPETEM AO 2º PROCURADOR DA REPUBLICA, NA SEÇÃO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-01-16969",
+      "titulo": "Decreto nº 16.969 de 01/07/1925",
+      "data": "1925-07-01",
+      "numero": "16969",
+      "urn": "urn:lex:br:federal:decreto:1925-07-01;16969",
+      "ementa": "RETIFICA A DESIGNAÇÃO DO INSTITUTO A QUE SE REFEREM OS ARTIGOS 264, NÚMERO II E 267, DO CÓDIGO DE PROCESSO CIVIL E COMERCIAL PARA O DISTRITO FEDERAL, MANDADO EXECUTAR PELO DECRETO NÚMERO 16.752, DE 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "432144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-07-01-16964",
+      "titulo": "Decreto nº 16.964 de 01/07/1925",
+      "data": "1925-07-01",
+      "numero": "16964",
+      "urn": "urn:lex:br:federal:decreto:1925-07-01;16964",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 18:908$971, PARA AS OBRAS DO ABASTECIMENTO D'ÁGUA NO QUILÔMENTRO 14,337-SUL, DA LINHA ITARARÉ-URUGUAI, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16952",
+      "titulo": "Decreto nº 16.952 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16952",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16952",
+      "ementa": "CONCEDE À COMISSIONARIA ITALIANA PER IL BRASILE AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432118",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16951",
+      "titulo": "Decreto nº 16.951 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16951",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16951",
+      "ementa": "APROVA ALTERÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE ANÔNIMA MOINHO DA BAHIA."
+    },
+    {
+      "senadoId": "432128",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16956",
+      "titulo": "Decreto nº 16.956 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16956",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16956",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 37:143$843, PARA CONSTRUÇÃO DE UMA PARADA E DE UM DESVIO DE CRUZAMENTO NO QUILÔMETRO 135,64 DA LINHA DE PORTO ALEGRE A URUGUAYANA, DA REDE DE VIAÇÃO FERREA FEDERAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16954",
+      "titulo": "Decreto nº 16.954 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16954",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16954",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE $ 41.700.00. OURO AMERICANO, PARA PAGAMENTO DE UMA CONTA DA AMERICAN LOCOMOTIVE SALES CORPORATION, PROVENIENTE DE FORNECIMENTO DE DUAS LOCOMOTIVAS À ESTRADA DE FERRO CENTRAL DO PIAUI."
+    },
+    {
+      "senadoId": "432142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16963",
+      "titulo": "Decreto nº 16.963 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16963",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16963",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 165:137$700 (CENTO E SESSENTA E CINCO CONTOS CENTO E TRINTA E SETE MIL E SETECENTOS RÉIS), PARA CONCLUSÃO DAS OBRAS DO EDIFÍCIO DESTINADO À REPARTIÇÃO DOS TELEGRAFOS, NA CAPITAL DO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16958",
+      "titulo": "Decreto nº 16.958 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16958",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16958",
+      "ementa": "APROVA O PROJETO E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 57:371$187, PARA AUMENTO DE LINHAS NA ESTAÇÃO DE IBARÉ, SITUADA NO QUILÔMENTRO 247,788 DA LINHA DE CACEQUY-RIO GRANDE DA REDE DE VIAÇÃO FERREA FEDERAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16959",
+      "titulo": "Decreto nº 16.959 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16959",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16959",
+      "ementa": "PRORROGA ATÉ 27 DE SETEMBRO DESTE ANO O PRAZO FIXADO PARA A COMPANHIA ESTRADA DE FERRO DE VITORIA A MINAS CONCLUIR A CONSTRUÇÃO DA NOVA ESTAÇÃO INICIAL DA LINHA, DE VITORIA A ITABIRA DO MATO DENTRO."
+    },
+    {
+      "senadoId": "432136",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16960",
+      "titulo": "Decreto nº 16.960 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16960",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16960",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTANCIA DE RÉIS 30.000:000$, DAS OBRAS DE CONSTRUÇÃO DO PORTO DE NITEROI, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "432122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16953",
+      "titulo": "Decreto nº 16.953 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16953",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16953",
+      "ementa": "APROVA OS PROJETOS DE MELHORAMENTOS A SEREM EXECUTADOS NA ESTAÇÃO DE CRUZEIRO E SUAS DEPÊNDENCIAS, DA REDE DE VIAÇÃO SUL-MINEIRA, E BEM ASSIM OS RESPECTIVOS ORÇAMENTOS, NA IMPORTANCIA TOTAL DE 335:039$864."
+    },
+    {
+      "senadoId": "432126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16955",
+      "titulo": "Decreto nº 16.955 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16955",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16955",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTANCIA TOTAL DE 82:449$560, DE REFORMAS, AUMENTOS E FECHAMENTO DA ESTAÇÃO DE PASSA QUATRO, DA LINHA-TRONCO DE CRUZEIRO A TUYUTY, DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "432130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16957",
+      "titulo": "Decreto nº 16.957 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16957",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16957",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 42:357$591, PARA AS OBRAS DO ABASTECIMENTO DE ÁGUA NO KILOMETRO 352.370, DA LINHA DE SÃO FRANCISCO, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16962",
+      "titulo": "Decreto nº 16.962 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16962",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16962",
+      "ementa": "APROVA AS CLÁUSULAS PARA A CONCESSÃO AO ESTADO DO RIO DE JANEIRO DAS OBRAS DE CONTRUÇÃO DO PORTO DE NITERÓI, DO MESMO ESTADO, E A RESPECTIVA EXPLORAÇÃO."
+    },
+    {
+      "senadoId": "432138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-24-16961",
+      "titulo": "Decreto nº 16.961 de 24/06/1925",
+      "data": "1925-06-24",
+      "numero": "16961",
+      "urn": "urn:lex:br:federal:decreto:1925-06-24;16961",
+      "ementa": "APROVA AS CLÁUSULAS PARA A CONCESSÃO AO ESTADO DO RIO DE JANEIRO DAS OBRAS DE CONSTRUÇÃO DO PORTO ANGRA DOS REIS, DO MESMO ESTADO, E A RESPECTIVA EXPLORAÇÃO."
+    },
+    {
+      "senadoId": "432110",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-22-16947",
+      "titulo": "Decreto nº 16.947 de 22/06/1925",
+      "data": "1925-06-22",
+      "numero": "16947",
+      "urn": "urn:lex:br:federal:decreto:1925-06-22;16947",
+      "ementa": "PUBLICA A ADESÃO DA SIRIA E DO LÍBANO AO PROTOCOLO ADICIONAL À CONVENÇÃO DE BERNA PARA A PROTEÇÃO DAS OBRAS LITERARIAS E ARTISTICAS."
+    },
+    {
+      "senadoId": "432112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-22-16948",
+      "titulo": "Decreto nº 16.948 de 22/06/1925",
+      "data": "1925-06-22",
+      "numero": "16948",
+      "urn": "urn:lex:br:federal:decreto:1925-06-22;16948",
+      "ementa": "PÚBLICA A ADESÃO DAS ILHAS NEERLANDEZAS AO INSTUTUTO INTERNACIONAL DE HIGIENE PÚBLICA DE PARÍS."
+    },
+    {
+      "senadoId": "432114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-22-16949",
+      "titulo": "Decreto nº 16.949 de 22/06/1925",
+      "data": "1925-06-22",
+      "numero": "16949",
+      "urn": "urn:lex:br:federal:decreto:1925-06-22;16949",
+      "ementa": "PUBLICA A ADESÃO DA FRANÇA, EM NOME DOS ALAUITAS, À CONVENÇÃO POSTAL UNIVERSAL, REUNIDA EM MADRID EM 1920."
+    },
+    {
+      "senadoId": "432108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-22-16946",
+      "titulo": "Decreto nº 16.946 de 22/06/1925",
+      "data": "1925-06-22",
+      "numero": "16946",
+      "urn": "urn:lex:br:federal:decreto:1925-06-22;16946",
+      "ementa": "RATIFICAÇÃO DE CUBA DAS CONVENÇÕES E DE UM TRATADO ASSINADOS EM SANTIAGO DO CHILE, EM 1923."
+    },
+    {
+      "senadoId": "432116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-22-16950",
+      "titulo": "Decreto nº 16.950 de 22/06/1925",
+      "data": "1925-06-22",
+      "numero": "16950",
+      "urn": "urn:lex:br:federal:decreto:1925-06-22;16950",
+      "ementa": "PUBLICA A ADESÃO DA GRÃ-BRETANHA, EM NOME DO PROTETORADO DE NYASSALAND, À CONVENÇÃO POSTAL UNIVERSAL, ASSINADA EM MADRID A 30 DE NOVEMBRO DE 1920."
+    },
+    {
+      "senadoId": "432105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-16-16944",
+      "titulo": "Decreto nº 16.944 de 16/06/1925",
+      "data": "1925-06-16",
+      "numero": "16944",
+      "urn": "urn:lex:br:federal:decreto:1925-06-16;16944",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER À COMPANHIA BRASILEIRA DE CIMENTO PORTLAND S/A, OS FAVORES CONSTANTES DO DECRETO NÚMERO 16.755, DE 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "432103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-16-16943",
+      "titulo": "Decreto nº 16.943 de 16/06/1925",
+      "data": "1925-06-16",
+      "numero": "16943",
+      "urn": "urn:lex:br:federal:decreto:1925-06-16;16943",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO A CONCEDER À SOCIEDADE INDÚSTRIA CIMENTO MONTE LIBANO, LIMITADA, OS FAVORES CONSTANTES DO DECRETO NÚMERO 16.755, DE 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "432101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-16-16942",
+      "titulo": "Decreto nº 16.942 de 16/06/1925",
+      "data": "1925-06-16",
+      "numero": "16942",
+      "urn": "urn:lex:br:federal:decreto:1925-06-16;16942",
+      "ementa": "RETIFICA O DECRETO NÚMERO 16.762, DE DEZEMBRO DE 1924, QUE EXTINGUIU OS NUCLEOS COLONIAIS \"SANTOS NEVES\" E \"RUY BARBOSA\" E DEU OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "432097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16940",
+      "titulo": "Decreto nº 16.940 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16940",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16940",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE RÉIS 915:200$302,     PARA PAGAMENTO DAS GRATIFICAÇÕES E PERCENTAGENS CONCEDIDAS AOS MENSALISTAS E DIARISTAS DAS REPARTIÇÕES SUBORDINADAS AO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "432092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16937",
+      "titulo": "Decreto nº 16.937 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16937",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16937",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 9.414:850$448, PARA ATENDER AOS PAGAMENTOS DEVIDOS AOS SERVENTUÁRIOS DA UNIÃO, COM EXERCÍCIO NO MESMO MINISTÉRIO, NOS TERMOS DO ARTIGO 150, PARAGRAFFO 1º, DO DECRETO NÚMERO 4.555, DE 10 DE AGOSTO DE 1922."
+    },
+    {
+      "senadoId": "432099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16941",
+      "titulo": "Decreto nº 16.941 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16941",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16941",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS UNIÃO DOS PROPRIETARIOS, PELA ASSEMBLÉA GERAL EXTRAORDINARIA, REALIZADA EM 5 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "432086",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16934",
+      "titulo": "Decreto nº 16.934 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16934",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16934",
+      "ementa": "REGULAMENTA O USO DA MEDALHA DE \"MERITO NAVAL\", DO PRÊMIO ALMIRANTE JACEGUAY\"."
+    },
+    {
+      "senadoId": "432095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16939",
+      "titulo": "Decreto nº 16.939 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16939",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16939",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 1.500:000$, PARA OCORRER ÀS DESPESAS COM A REPARAÇÃO DA VIA PERMANENTE DA ESTRADA DE FERRO CENTRAL DO BRASIL, DANIFICADA PELAS ENCHENTES DE 1923."
+    },
+    {
+      "senadoId": "432090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16936",
+      "titulo": "Decreto nº 16.936 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16936",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16936",
+      "ementa": "APROVA AS PLANTAS DOS PONTOS DE ATERRAMENTO E RESPECTIVAS LINHAS DE LIGAÇÃO, DOS CABOS SUBMARINOS DE QUE É CESSIONARIA A COMPANHIA ITALIANA DEI CAVI TELEGRAPHICI SOTTOMARINI."
+    },
+    {
+      "senadoId": "432088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-10-16935",
+      "titulo": "Decreto nº 16.935 de 10/06/1925",
+      "data": "1925-06-10",
+      "numero": "16935",
+      "urn": "urn:lex:br:federal:decreto:1925-06-10;16935",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 56:461$436, DE MODIFICAÇÃO DO DESVIO, NA ESTAÇÃO DE CANDIOTA, SITUADA NO QUILÔMETRO 264,826 DA LINHA DE RIO GRANDE A BAGÉ, DA REDE VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "432084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-09-16933",
+      "titulo": "Decreto nº 16.933 de 09/06/1925",
+      "data": "1925-06-09",
+      "numero": "16933",
+      "urn": "urn:lex:br:federal:decreto:1925-06-09;16933",
+      "ementa": "SUSPENDE, NO DIA 14 DO CORRENTE MES, NO MUNICÍPIO DE BARIRY, NO ESTADO DE S. PAULO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.890, DE 22 DE ABRIL ULTIMO."
+    },
+    {
+      "senadoId": "432082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-04-16932",
+      "titulo": "Decreto nº 16.932 de 04/06/1925",
+      "data": "1925-06-04",
+      "numero": "16932",
+      "urn": "urn:lex:br:federal:decreto:1925-06-04;16932",
+      "ementa": "APROVA A NOVA ALTERAÇÃO FEITA NOS ESTATUTOS DA SOCIEDADE ANÔNIMA \"MOINHO SANTISTA\"."
+    },
+    {
+      "senadoId": "432080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-04-16931",
+      "titulo": "Decreto nº 16.931 de 04/06/1925",
+      "data": "1925-06-04",
+      "numero": "16931",
+      "urn": "urn:lex:br:federal:decreto:1925-06-04;16931",
+      "ementa": "REVOGA O DECRETO PELO QUAL FOI CONCEDIDA A THE CASCALHO SYNDICATE LIMITED AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA E CASSA A RESPCTIVA CARTA."
+    },
+    {
+      "senadoId": "432076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-03-16929",
+      "titulo": "Decreto nº 16.929 de 03/06/1925",
+      "data": "1925-06-03",
+      "numero": "16929",
+      "urn": "urn:lex:br:federal:decreto:1925-06-03;16929",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DE 2:628$ PARA PAGAMENTO AO OPERÁRIO FRANCISCO ALFREDO PIRES, EM VIRTUDE DE SETENÇA JUDICIARIA."
+    },
+    {
+      "senadoId": "432074",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-03-16928",
+      "titulo": "Decreto nº 16.928 de 03/06/1925",
+      "data": "1925-06-03",
+      "numero": "16928",
+      "urn": "urn:lex:br:federal:decreto:1925-06-03;16928",
+      "ementa": "APROVA A DELIBERAÇÃO DA ASSEMBlÉIA DO CONSELHO DE ADMINISTRAÃO DO BANCO FRANCES E ITALIANO PARA A AMERICA DO SUL, DE AUMENTAR, DE 7.500 PARA 15.000 CONTOS DE RÉIS, O CAPITAL DESTNADOS ÀS SUAS OPERAÇÕES."
+    },
+    {
+      "senadoId": "432078",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-03-16930",
+      "titulo": "Decreto nº 16.930 de 03/06/1925",
+      "data": "1925-06-03",
+      "numero": "16930",
+      "urn": "urn:lex:br:federal:decreto:1925-06-03;16930",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 7:598$ PARA AS DESPESAS EFETUADAS PELO LABORATORIO MILITAR DE BACTERIOLOGIA EM 1924."
+    },
+    {
+      "senadoId": "432070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-03-16926",
+      "titulo": "Decreto nº 16.926 de 03/06/1925",
+      "data": "1925-06-03",
+      "numero": "16926",
+      "urn": "urn:lex:br:federal:decreto:1925-06-03;16926",
+      "ementa": "SUSPENDE, NO DIA 7 DO CORRENTE MÊS, NO ESTADO DO RIO DE JANEIRO, O ESTADO DE SÍTIO PROROGADO PELO DECRETO 16.890, DE 22 DE ABRIL ULTIMO."
+    },
+    {
+      "senadoId": "432072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-06-03-16927",
+      "titulo": "Decreto nº 16.927 de 03/06/1925",
+      "data": "1925-06-03",
+      "numero": "16927",
+      "urn": "urn:lex:br:federal:decreto:1925-06-03;16927",
+      "ementa": "ABRE AO MINISTERIO DA VIAÇÃO E OBRAS PUBLICAS O CREDITO ESPECIAL DE 3.345:663$137 PARA ATENDER AOS PAGAMENTOS DEVIDOS A FIRMA JANOT PACHECO & COMP., PELOS TRABALHOS EXECUTADOS NA CONSTRUÇÃO DA ESTRADA DE FERRO DE PETROLINA A TERESINA, EM 1922 E 1923."
+    },
+    {
+      "senadoId": "432058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-27-16920",
+      "titulo": "Decreto nº 16.920 de 27/05/1925",
+      "data": "1925-05-27",
+      "numero": "16920",
+      "urn": "urn:lex:br:federal:decreto:1925-05-27;16920",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 16:769$794, PARA AS OBRAS DE AMPLIAÇÃO DO ABASTECIMENTO D'ÁGUA NO QUILÔMETRO 40,336 SUL, DA LINHA ITARARÉ-URUGUAI, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432066",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-27-16924",
+      "titulo": "Decreto nº 16.924 de 27/05/1925",
+      "data": "1925-05-27",
+      "numero": "16924",
+      "urn": "urn:lex:br:federal:decreto:1925-05-27;16924",
+      "ementa": "TRANSFERE À COMPANHIA BRASILEIRA DE USINAS METALURGICAS A CONCESSÃO DADA PELOS DECRETOS NÚMEROS. 16.776, DE 13 DE JANEIRO E 16.915, DE 20 DE MAIO DO CORRENTE ANO, A FRANCIS WALTER HIME, LUIZ RIBEIRO PINTO E LIBANIO DA ROCHA VAZ."
+    },
+    {
+      "senadoId": "432068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-27-16925",
+      "titulo": "Decreto nº 16.925 de 27/05/1925",
+      "data": "1925-05-27",
+      "numero": "16925",
+      "urn": "urn:lex:br:federal:decreto:1925-05-27;16925",
+      "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO DE CRIMINOSOS ENTRE O BRASIL E O PARAGUAI, ASSINADO EM 24 DE FEVEREIRO DE 1922."
+    },
+    {
+      "senadoId": "432064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-27-16923",
+      "titulo": "Decreto nº 16.923 de 27/05/1925",
+      "data": "1925-05-27",
+      "numero": "16923",
+      "urn": "urn:lex:br:federal:decreto:1925-05-27;16923",
+      "ementa": "REVOGA O DECRETO PELO QUAL FOI CONCEDIDA À SOCIEDADE ANÔNIMA LAGERHAUS A. G. AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA E CASSA A RESPECTIVA CARTA."
+    },
+    {
+      "senadoId": "432060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-27-16921",
+      "titulo": "Decreto nº 16.921 de 27/05/1925",
+      "data": "1925-05-27",
+      "numero": "16921",
+      "urn": "urn:lex:br:federal:decreto:1925-05-27;16921",
+      "ementa": "EMANCIPA O NUCLEO COLÔNIAL \"CRUZ MACHADO\", NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "432056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-27-16919",
+      "titulo": "Decreto nº 16.919 de 27/05/1925",
+      "data": "1925-05-27",
+      "numero": "16919",
+      "urn": "urn:lex:br:federal:decreto:1925-05-27;16919",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS O CRÉDITO ESPECIAL DE F. B. 1.842.198,33, PARA O PAGAMENTO DE FORNECIMENTO DE TRILHOS E ACESSORIOS E APARELHOS DE MUDANÇA DE VIA À ESTRADA DE FERRO CENTRAL DO PIAUI, EM 1922."
+    },
+    {
+      "senadoId": "432040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16910",
+      "titulo": "Decreto nº 16.910 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16910",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16910",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA DE SEGUROS \"PORTO ALEGRENSE\", ADOTADOS PELA ASSEMBLÉIA GERAL EXTRAORDINARIA, REALIZADA EM 2 DE ABRIL DE 1925."
+    },
+    {
+      "senadoId": "432047",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16914",
+      "titulo": "Decreto nº 16.914 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16914",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16914",
+      "ementa": "APROVA A NOVA REFORMA DOS ESTATUTOS DA SOCIEDADE ANONIMA LEVY."
+    },
+    {
+      "senadoId": "432043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16912",
+      "titulo": "Decreto nº 16.912 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16912",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16912",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA INTERNACIONAL DE SEGUROS PARA OPERAR EM SEGUROS CONTRA ACIDENTE DO TRABALHO."
+    },
+    {
+      "senadoId": "432049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16915",
+      "titulo": "Decreto nº 16.915 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16915",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16915",
+      "ementa": "MODIFICA AS DISPOSIÇÕES CONSTANTES DAS LETRAS A E B DA 1 CONDIÇÃO ESTATUIDA PELO DECRETO 16.776, DE 16 DE JANEIRO DE 1925."
+    },
+    {
+      "senadoId": "432045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16913",
+      "titulo": "Decreto nº 16.913 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16913",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16913",
+      "ementa": "CONCEDE À AMERICAN OPTICAL COMPANY DO BRASIL AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "432053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16917",
+      "titulo": "Decreto nº 16.917 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16917",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16917",
+      "ementa": "APROVA A NOVA ALTERAÇÃO FEITA NOS ESTATUTOS DA COMPANHIA ARMOUR DO BRASIL."
+    },
+    {
+      "senadoId": "432034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16907",
+      "titulo": "Decreto nº 16.907 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16907",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16907",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 6.500:000$, EM APOLICES DA DIVIDA  PÚBLICA, PARA PAGAMENTO DO PREÇO DA ENCAMPAÇÃO DAS OBRAS DO PORTO DA VITÓRIA."
+    },
+    {
+      "senadoId": "432038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16909",
+      "titulo": "Decreto nº 16.909 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16909",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16909",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 19:628$515, PARA LIQUIDAR RECLAMAÇÕES DE PERDAS E AVARIAS DE MERCADORIAS NA ESTRADA DE FERRO CENTRAL DO BRASIL EM 1923."
+    },
+    {
+      "senadoId": "432051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16916",
+      "titulo": "Decreto nº 16.916 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16916",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16916",
+      "ementa": "CONCEDE À SOCIEDADE ANONIMA DEARBORN (SOUTH AMERICA) LTD. AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "432036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-20-16908",
+      "titulo": "Decreto nº 16.908 de 20/05/1925",
+      "data": "1925-05-20",
+      "numero": "16908",
+      "urn": "urn:lex:br:federal:decreto:1925-05-20;16908",
+      "ementa": "APROVA O ORÇAMENTO PARA AQUISIÇÃO E IMPORTAÇÃO DE TRILHOS E DESVIOS, COM OS RESPECTIVOS ACESSÓRIOS, DESTINADOS AO RAMAL DO PARANAPANEMA DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE, NA IMPORTANCIA DE 1.894:302$067, À QUAL SERÃO ACRESCIDAS AS DESPESAS ALFANDEGARIAS E DE TRANSPORTES, AVALIADAS EM 70:468$036, OURO, E 181:445$519, PAPEL."
+    },
+    {
+      "senadoId": "432030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-14-16905",
+      "titulo": "Decreto nº 16.905 de 14/05/1925",
+      "data": "1925-05-14",
+      "numero": "16905",
+      "urn": "urn:lex:br:federal:decreto:1925-05-14;16905",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 100:755$756, PARA A CONSTRUÇÃO DE UMA ESTAÇÃO, ARMAZEM E DEPENDÊNCIAS, NO QUILÔMENTRO 774, 022 DA LINHA DE CATALÃO, DA COMPANHIA MOGIANA DE ESTRADAS DE FERRO."
+    },
+    {
+      "senadoId": "432032",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-14-16906",
+      "titulo": "Decreto nº 16.906 de 14/05/1925",
+      "data": "1925-05-14",
+      "numero": "16906",
+      "urn": "urn:lex:br:federal:decreto:1925-05-14;16906",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE RÉIS 41:891$559, PARA CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO COM POSTO TELEGRAFICO NO QUILÔMENTRO 218,880 DA LINHA ITARARÉ-URUGUAI DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-14-16904",
+      "titulo": "Decreto nº 16.904 de 14/05/1925",
+      "data": "1925-05-14",
+      "numero": "16904",
+      "urn": "urn:lex:br:federal:decreto:1925-05-14;16904",
+      "ementa": "ABRE,  AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO SUPLEMENTAR DE 5:520$, PARA OCORRER AO PAGAMENTO DOS INSPETORES DA REDE TELEGRAFICA ADQUIRIDA AO ESTADO DO RIO GRANDE DO SUL, ARTHUR GABRIEL GODINHO E MANOEL CAETANO PEREIRA, NOS MESES DE JULHO A DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "432026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-06-16903",
+      "titulo": "Decreto nº 16.903 de 06/05/1925",
+      "data": "1925-05-06",
+      "numero": "16903",
+      "urn": "urn:lex:br:federal:decreto:1925-05-06;16903",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE RÉIS 188:753$200, DESTINADO AO PAGAMENTO DAS VANTAGENS QUE COMPETEM AOS SARGENTOS RESERVISTAS DO EXÉRCITO, AUXILIARES DE ESCRITA DAS JUNTAS PERMANENTES DE ALISTAMENTO MILITAR NESTA CAPITAL E NOS ESTADOS."
+    },
+    {
+      "senadoId": "432016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16898",
+      "titulo": "Decreto nº 16.898 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16898",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16898",
+      "ementa": "PRORROGA POR DOIS MESES O PRAZO FIXADO PELO DECRETO NÚMERO 16.546, DE 13 DE AGOSTO DE 1924, PARA A CONCLUSÃO DAS OBRAS NECESSARIAS PARA TRANSFORMAR EM ESTAÇÃO O POSTO TELEGRAFICO DE POÇO PRETO, NO KM 424 DA LINHA DE S. FRANCISCO, DA ESTRADA DE FERRO S. PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "432008",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16894",
+      "titulo": "Decreto nº 16.894 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16894",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16894",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 22:650$973 (VINTE E DOIS CONTOS SEISCENTOS E CINQÜENTA MIL NOVECENTOS E SETENTA E TRÊS RÉIS), PARA AS OBRAS DE ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 6,250 NORTE DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "432012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16896",
+      "titulo": "Decreto nº 16.896 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16896",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16896",
+      "ementa": "SUBSTITUI ALGUMAS CLÁUSULAS DO CONTRATO CELEBRADO COM O ESTADO DE SANTA CATARINA, PARA A CONTRUÇÃO DAS OBRAS DE MELHORAMENTO DA BARRA E PORTO DE S. FRANCISCO DO SUL."
+    },
+    {
+      "senadoId": "432018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16899",
+      "titulo": "Decreto nº 16.899 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16899",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16899",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTANCIA DE 582:751$168, PARA AQUISIÇÃO E ASSENTAMENTO DAS PRANCHAS DE FERRO, TIPO \"LARSSEN\", COM 11 METROS DE COMPRIMENTO, PARA A MONTAGEM DA PONTE SOBRE O RIO PARNAIBA, E MANDA GLOSAR, NO ORÇAMENTO APROVADO PELO DECRETO NÚMERO 15.937, DE 24 DE JANEIRO DE 1923, A IMPORTANCIA CORRESPONDENTE ÀS PRANCHAS DO MESMO TIPO, COM NOVE METROS DE COMPRIMENTO, JULGADAS INSUFICIENTES."
+    },
+    {
+      "senadoId": "432022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16901",
+      "titulo": "Decreto nº 16.901 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16901",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16901",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 16.120:490$400, PARA ATENDER A DESPESAS DECORRENTES DA CONSTRUÇÃO DE LINHAS FERREAS NOS ESTADOS DA BAHIA, SERGIPE E NORTE DE MINAS GERAIS, DE ACORDO COM O CONTRATO A QUE SE REFERE O DECRETO NÚMERO 14.068, DE 19 DE FEVEREIRO DE 1920, MEDIANTE EMISSÃO DE APOLICES."
+    },
+    {
+      "senadoId": "432010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16895",
+      "titulo": "Decreto nº 16.895 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16895",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16895",
+      "ementa": "APROVA O TRAÇADO URBANO DO TERRAPLENO OESTE DA CIDADE DO RIO GRANDE, NO ESTADO DO RIO GRANDE DO SUL, PARA O ARRENDAMENTO, AFORAMENTO OU VENDA DOS TERRENOS DESNECESSARIOS ÀS INSTALAÇÕES DO PORTO DA MESMA CIDADE."
+    },
+    {
+      "senadoId": "432006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16893",
+      "titulo": "Decreto nº 16.893 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16893",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16893",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 31:872$862 (TRINTA E UM CONTOS OITOCENTOS E SETENTA E DOIS MIL OITOCENTOS E SESSENTA E DOIS RÉIS) PARA AS OBRAS DE ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 60,619 NORTE DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "432020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16900",
+      "titulo": "Decreto nº 16.900 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16900",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16900",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 91:997$356, PARA A CONSTRUÇÃO DE UMA ESTAÇÃO, ARMAZÉM E DEPENDÊNCIAS, NO QUILÔMENTRO 568 DA LINHA DE CATALÃO, DA COMPANHIA MOGYANA DE ESTRADAS DE FERRO."
+    },
+    {
+      "senadoId": "432024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16902",
+      "titulo": "Decreto nº 16.902 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16902",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16902",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 176$666, PARA PAGAMENTO DE ACRESCIMOS DE VENCIMENTOS AO BACHAREL ANTONIO RODRIGUES COELHO JUNIOR, JUIZ FEDERAL NA SEÇÃO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "432014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-05-05-16897",
+      "titulo": "Decreto nº 16.897 de 05/05/1925",
+      "data": "1925-05-05",
+      "numero": "16897",
+      "urn": "urn:lex:br:federal:decreto:1925-05-05;16897",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 2.400:000$ (DOIS MIL E QUATROCENTOS CONTOS DE RÉIS) PARA DRAGAGEM DO CANAL DE ACESSO NORTE AO PORTO DE FLORIANOPOLIS."
+    },
+    {
+      "senadoId": "432004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-30-16892",
+      "titulo": "Decreto nº 16.892 de 30/04/1925",
+      "data": "1925-04-30",
+      "numero": "16892",
+      "urn": "urn:lex:br:federal:decreto:1925-04-30;16892",
+      "ementa": "APROVA AS MODIFICAÇÕES, FEITAS NOS ESTATUTOS DA COMPANHIA INETERNACIONAL DE SEGUROS, COM SEDE NESTA CAPITAL."
+    },
+    {
+      "senadoId": "432002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-29-16891",
+      "titulo": "Decreto nº 16.891 de 29/04/1925",
+      "data": "1925-04-29",
+      "numero": "16891",
+      "urn": "urn:lex:br:federal:decreto:1925-04-29;16891",
+      "ementa": "SUSPENDE O ESTADO DE SITIO EM TODO O TERRITÓRIO DO PARÁ NOS DIAS 1 E 2 DE MAIO PRÓXIMO."
+    },
+    {
+      "senadoId": "432000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-22-16890",
+      "titulo": "Decreto nº 16.890 de 22/04/1925",
+      "data": "1925-04-22",
+      "numero": "16890",
+      "urn": "urn:lex:br:federal:decreto:1925-04-22;16890",
+      "ementa": "PRORROGA O ESTADO DE SITIO NO DISTRITO FEDERAL E NOS ESTADOS DO AMAZONAS, PARÁ, SERGIPE, BAHIA, RIO DE JANEIRO, SÃO PAULO, MATO GROSSO, PARANÁ, SANTA CATARINA E RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-20-16889",
+      "titulo": "Decreto nº 16.889 de 20/04/1925",
+      "data": "1925-04-20",
+      "numero": "16889",
+      "urn": "urn:lex:br:federal:decreto:1925-04-20;16889",
+      "ementa": "SUSPENDE O ESTADO DE SITIO EM TODO O TERRITÓRIO DO ESTADO DE SÃO PAULO, NO DIA 25 DO CORRENTE MÊS."
+    },
+    {
+      "senadoId": "431982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16881",
+      "titulo": "Decreto nº 16.881 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16881",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16881",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 6:000$, PARA PAGAMENTO, DURANTE O SEGUNDO SEMESTRE DE 1924, DO ORDENADO QUE COMPETE AO DR. MATHIAS OLYMPIO DE MELLO, JUIZ FEDERAL EM DISPONIBILIDADE, NA SEÇÃO DE PIAUI."
+    },
+    {
+      "senadoId": "431986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16883",
+      "titulo": "Decreto nº 16.883 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16883",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16883",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 1:596$774, PARA OCORRER A O PAGAMENTO DA PENSÃO QUE COMPETE AO GUARDA CIVIL CORNELIO SOARES DE AZEREDO, NO PERIODO DE 12 DE MARÇO A 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16887",
+      "titulo": "Decreto nº 16.887 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16887",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16887",
+      "ementa": "PROMULGA O TRATADO PARA A SOLUÇÃO JUDICIAL DE CONTROVERSIAS ENTRE O BRASIL E A SUIÇA, DE 23 DE JUNHO DE 1924."
+    },
+    {
+      "senadoId": "431996",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16888",
+      "titulo": "Decreto nº 16.888 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16888",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16888",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM KATOWICE."
+    },
+    {
+      "senadoId": "431980",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16880",
+      "titulo": "Decreto nº 16.880 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16880",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16880",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 17:430$, PARA PAGAMENTO, NO EXERCÍCIO DE 1924, DE VENCIMENTO DE SETE CENSORES TEATRAIS."
+    },
+    {
+      "senadoId": "431992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16886",
+      "titulo": "Decreto nº 16.886 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16886",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16886",
+      "ementa": "PUBLICA A ADESÃO DO URUGUAI À CONVENÇÃO INTERNACIONAL DE ARMAS E MUNIÇÕES."
+    },
+    {
+      "senadoId": "431988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16884",
+      "titulo": "Decreto nº 16.884 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16884",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16884",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 1:440$, PARA PAGAMENTO DA PENSÃO DEVIDA AO GUARDA CIVIL DE 2º CLASSE ANTONIO JOSÉ FERNANDES FILHO, E RELATIVA AO ANO DE 1923."
+    },
+    {
+      "senadoId": "431984",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16882",
+      "titulo": "Decreto nº 16.882 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16882",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16882",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 3:815$, PARA ATENDER, EM 1924, ÀS DESPESAS COM A EDUCAÇÃO E INSTRUÇÃO DOS FILHOS MENORES DO DR. ASTOLPHO DUTRA, DE ACORDO COM O DECRETO LEGISLATIVO NÚMERO 3 DE SETEMBRO DE 1920."
+    },
+    {
+      "senadoId": "431990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16885",
+      "titulo": "Decreto nº 16.885 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16885",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16885",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 553$548, PARA PAGAMENTO DE PENSÃO A LAURA GOMES NOGUEIRA, VIUVA DO GUARDA CIVIL MANOEL JOAQUIM NOGUEIRA."
+    },
+    {
+      "senadoId": "431978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-17-16879",
+      "titulo": "Decreto nº 16.879 de 17/04/1925",
+      "data": "1925-04-17",
+      "numero": "16879",
+      "urn": "urn:lex:br:federal:decreto:1925-04-17;16879",
+      "ementa": "ESTABELECE EQUIVALENCIA DE FUNÇÕES PARA O PESSOAL SUBALTERNO DOS SERVIÇOS DE CONVES DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "431976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-16-16878",
+      "titulo": "Decreto nº 16.878 de 16/04/1925",
+      "data": "1925-04-16",
+      "numero": "16878",
+      "urn": "urn:lex:br:federal:decreto:1925-04-16;16878",
+      "ementa": "CASSA O EXEQUATUR AO CONSUL DO HAITI EM PERNAMBUCO."
+    },
+    {
+      "senadoId": "431974",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-14-16877",
+      "titulo": "Decreto nº 16.877 de 14/04/1925",
+      "data": "1925-04-14",
+      "numero": "16877",
+      "urn": "urn:lex:br:federal:decreto:1925-04-14;16877",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 15:831$274 (QUINZE CONTOS OITOCENTOS E TRINTA E UM MIL DUZENTOS E SETENTA E QUATRO RÉIS), PARA AS OBRAS DE AMPLIAÇÃO DO ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 63,748, SUL DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-14-16876",
+      "titulo": "Decreto nº 16.876 de 14/04/1925",
+      "data": "1925-04-14",
+      "numero": "16876",
+      "urn": "urn:lex:br:federal:decreto:1925-04-14;16876",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE 14:344$648 (QUATORZE CONTOS TREZENTOS E QUARENTA E QUATRO MIL SEISCENTOS E QUARENTA E OITO RÉIS), PARA AS OBRAS DE ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 132,627, SUL, DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-14-16875",
+      "titulo": "Decreto nº 16.875 de 14/04/1925",
+      "data": "1925-04-14",
+      "numero": "16875",
+      "urn": "urn:lex:br:federal:decreto:1925-04-14;16875",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 10:848$387, PARA PAGAMENTO DO QUE É DEVIDO A DD. ADELAIDE AUGUSTA DE PAULA BRANDÃO E ESTHER CANDIDA SILVIANO BRANDÃO, IRMÃS DO FALECIDO VICE-ALMIRANTE FRANCISCO AUGUSTO DE PAIVA BRANDÃO."
+    },
+    {
+      "senadoId": "431968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-08-16874",
+      "titulo": "Decreto nº 16.874 de 08/04/1925",
+      "data": "1925-04-08",
+      "numero": "16874",
+      "urn": "urn:lex:br:federal:decreto:1925-04-08;16874",
+      "ementa": "MANDA QUE AS PUBLICAÇÕES A QUE SE REFEREM OS ARTIGOS 333 E 692, PARAGRAFO 2,  DO DECRETO 16.751, DE 31 DE DEZEMBRO DE 1924, SEJAM FEITAS NO \"DIÁRIO DA JUSTIÇA."
+    },
+    {
+      "senadoId": "431966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-08-16873",
+      "titulo": "Decreto nº 16.873 de 08/04/1925",
+      "data": "1925-04-08",
+      "numero": "16873",
+      "urn": "urn:lex:br:federal:decreto:1925-04-08;16873",
+      "ementa": "PERMITE A TRANSFERÊNCIA À COMPANHIA ITALIANA DEI CAVI TELEGRAFICI SOTTOMARINI, DA CONCESSÃO FEITA A ENRICO SCHOCH, PELO DECRETO NÚMERO 15.435, DE 7 DE ABRIL DE 1922, PARA LANÇAR E ATERRAR CABOS SUBMARINOS ENTRE A CIDADE DO RIO DE JANEIRO E AS DE ROMA E MONTEVIDÉU E CONTÉM OUTRAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "431964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-07-16872",
+      "titulo": "Decreto nº 16.872 de 07/04/1925",
+      "data": "1925-04-07",
+      "numero": "16872",
+      "urn": "urn:lex:br:federal:decreto:1925-04-07;16872",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 28:664$251 (VINTE E OITO CONTOS SEISCENTOS E SESSENTA E QUATRO MIL DUZENTOS E CINQUENTA E UM RÉIS), PARA CONSTRUÇÃO DE UM ARMAZEM DE MERCADORIAS E DE UM DESVIO NA ESTAÇÃO DE AFFONSO CARMARGO, DO RAMAL DE PARANAPANEMA."
+    },
+    {
+      "senadoId": "431962",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-07-16871",
+      "titulo": "Decreto nº 16.871 de 07/04/1925",
+      "data": "1925-04-07",
+      "numero": "16871",
+      "urn": "urn:lex:br:federal:decreto:1925-04-07;16871",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 500:000$, PARA CUSTEAR A ORGANIZAÇÃO DOS SERVIÇOS DE ARRECADAÇÃO DO IMPOSTO SOBRE A RENDA."
+    },
+    {
+      "senadoId": "431958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-03-16869",
+      "titulo": "Decreto nº 16.869 de 03/04/1925",
+      "data": "1925-04-03",
+      "numero": "16869",
+      "urn": "urn:lex:br:federal:decreto:1925-04-03;16869",
+      "ementa": "ESTABELECE AS BASES DA REOGANIZAÇÃO DO PESSOAL SUBALTERNO DO SERVIÇO GERAL DE AVIAÇÃO NAVAL, E DÁ OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "431960",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-04-03-16870",
+      "titulo": "Decreto nº 16.870 de 03/04/1925",
+      "data": "1925-04-03",
+      "numero": "16870",
+      "urn": "urn:lex:br:federal:decreto:1925-04-03;16870",
+      "ementa": "ALTERA O REGULAMENTO DA ESCOLA DE SARGENTOS DE INFANTARIA."
+    },
+    {
+      "senadoId": "431952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16866",
+      "titulo": "Decreto nº 16.866 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16866",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16866",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE 41:570$792 (QUARENTA E UM CONTOS QUINHENTOS E SETENTA MIL SETECENTOS E NOVENTA E DOIS RÉIS), PARA CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTOS COM POSTE TELEGRAFICO NO QUILÔMETRO 354.370 SUL DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431948",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16864",
+      "titulo": "Decreto nº 16.864 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16864",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16864",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 160:037$860, PARA A CONSTRUÇÃO, EM CRUZEIRO, DE UM EDIFICIO DESTINADO À INSTALAÇÃO DOS ESCRITORIOS DAS 2º, 3º E 4º DIVISÕES DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "431944",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16862",
+      "titulo": "Decreto nº 16.862 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16862",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16862",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTANCIA DE 2.994:400$, PARA CONSTRUÇÃO DE CINCO ARMAZENS E COMPLETO APARELHAMENTO DO TRECHO DE CÁES DO ANTIGO PORTO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16865",
+      "titulo": "Decreto nº 16.865 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16865",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16865",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 111:800$, PARA CONSTRUÇÃO, NO PORTO NOVO DO RIO GRANDE DO SUL, DE INSTALAÇÕES SANITARIAS E DE BEBEDOUROS HIGIÊNICOS."
+    },
+    {
+      "senadoId": "431946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16863",
+      "titulo": "Decreto nº 16.863 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16863",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16863",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 34:391$048, OURO, DE UM DEPOSITO PARA INFLAMAVEIS EM MIRAMAR, NO PORTO DO PARÁ."
+    },
+    {
+      "senadoId": "431956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16868",
+      "titulo": "Decreto nº 16.868 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16868",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16868",
+      "ementa": "DETERMINA A PRESTAÇÃO DE EXAMES DOS OFICIAIS MERCANTES, DE NAUTICA E MAQUINAS, PERANTE A ESCOLA DE PILOTOS E MAQUINISTAS DA MARINHA MERCANTE."
+    },
+    {
+      "senadoId": "431954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-31-16867",
+      "titulo": "Decreto nº 16.867 de 31/03/1925",
+      "data": "1925-03-31",
+      "numero": "16867",
+      "urn": "urn:lex:br:federal:decreto:1925-03-31;16867",
+      "ementa": "CONFIA AO GOVERNO DO ESTADO DO ESPIRITO SANTO A EXECUÇÃO, NO SEU TERRITORIO, DE MEDIDAS DE DEFESA SANITARIA VEGETAL, CONSTANTES DE LEIS E REGULAMENTOS FEDERAIS."
+    },
+    {
+      "senadoId": "431917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16848",
+      "titulo": "Decreto nº 16.848 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16848",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16848",
+      "ementa": "APROVA OS PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 22:403$714, PARA AMPLIAÇÃO DE LINHAS NA XARQUEADA DO PASSO DO PINTO, QUILÔMETRO 94,760 DA LINHA DE CACEQUI AO RIO GRANDE DA REDE DE VIAÇÃO FERREA FEDERAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16845",
+      "titulo": "Decreto nº 16.845 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16845",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16845",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 45:061$761 (QUARENTA E CINCO CONTOS SESSENTA E UM MIL SETECENTOS E SESSENTA E UM RÉIS), PARA CONSTRUÇÃO DE MAIS UMA LINHA TELEGRÁFICA ENTRE AS ESTAÇÕES DE PONTA-GROSSA E JAGUARIAHYVA, DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431942",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16861",
+      "titulo": "Decreto nº 16.861 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16861",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16861",
+      "ementa": "MODIFICA A DENOMINAÇÃO DO ORGÃO DE PUBLICIDADE A QUE SE REFERE O ARTIGO 1.200, DO DECRETO NÚMERO 16.752, DE 31 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16843",
+      "titulo": "Decreto nº 16.843 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16843",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16843",
+      "ementa": "SUBSTITUI ALGUMAS CLAUSULAS DO CONTRATO CELEBRADO COM ESTADO DO PARANÁ PARA CONSTRUÇÃO DAS OBRAS DE MELHORAMENTOS DO PORTO DE PARANAGUÁ."
+    },
+    {
+      "senadoId": "431935",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16857",
+      "titulo": "Decreto nº 16.857 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16857",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16857",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 4:677$837, PARA PAGAMENTO DE VENCIMENTO A QUE TEM DIREITO OS DRS. FRANCISCO CARNEIRO NOBRE DE LACERDA, JOÃO BAPTISTA DA COSTA CARVALHO FILHO E FRANCICO VIEIRA, DE MELLO, RESPECTIVAMENTE JUIZES SECCIONAIS EM SERGIPE, PARANÁ E SUBSTITUTO, TAMBÉM EM SERGIPE."
+    },
+    {
+      "senadoId": "431921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16850",
+      "titulo": "Decreto nº 16.850 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16850",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16850",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS OS CRÉDITOS ESPECIAIS, NAS IMPORTÂNCIAS DE 2.136:532$817, 4.559:083$479 E 906:790$271, DESTINADOS A OCORRER ÀS DESPESAS COM A CONCLUSÃO DO RAMAL DE ITAJUBÁ A SOLEDADE DE ITAJUBÁ, DO DE LAVRAS, ENTRE CARMO DA CACHOEIRA E A CIDADE DE LAVRAS E DO TRECHO DE TRÊS CORAÇÕES A CARMO DA CACHOEIRA, DO MESMO RAMAL DE LAVRAS."
+    },
+    {
+      "senadoId": "431919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16849",
+      "titulo": "Decreto nº 16.849 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16849",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16849",
+      "ementa": "AUTORIZA A TRANSFERÊNCIA DO CONTRATO CELEBRADO COM A EMPRESA DE NAVEGAÇÃO HOEPCKE, DE PROPRIDADE DE CARLOS HOEPCKE JUNIOR, PARA A FIRMA HOEPCKE & COMPANHIA."
+    },
+    {
+      "senadoId": "431941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16860",
+      "titulo": "Decreto nº 16.860 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16860",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16860",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO, PELA REPÚBLICA DE NICARÁGUA, DOS ATOS POSTAIS ASSINADOS EM BUENOS AIRES EM 1921."
+    },
+    {
+      "senadoId": "431937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16858",
+      "titulo": "Decreto nº 16.858 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16858",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16858",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM VIBORG (FINLANDIA)."
+    },
+    {
+      "senadoId": "431929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16854",
+      "titulo": "Decreto nº 16.854 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16854",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16854",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGOCIOS INTERIORES O CREDITO EXTRAORDINÁRIO DE 500:000$, PARA OCORRER, NESTE ANO, AS DESPESAS FEITAS E POR FAZER COM PROVIDÊNCIAS EM PROL DA GARANTIA DA ORDEM E SEGURANÇA PÚBLICAS E COM AS MEDIDAS DECORRENTES DO ESTADO DE SITIO, AUTORIZADO PELO DECRETO NÚMERO 4.836, DE 5 DE JULHO DE 1924, E DECRETADO PELO DE NÚMERO 16.765, DE 1 DE JANEIRO FINDO."
+    },
+    {
+      "senadoId": "431931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16855",
+      "titulo": "Decreto nº 16.855 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16855",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16855",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGOCIOS INTERIORES OS CRÉDITOS ESPECIAIS DE 5:255$956 E 1:250$, PARA PAGAMENTO DE DIFERENÇAS DE GRATIFICAÇÕES ADICIONAIS, RESPECTIVAMENTE, A QUATRO SUBSTITUTOS DE JUIZES FEDERAIS E A UM REDATOR DE DEBATES."
+    },
+    {
+      "senadoId": "431923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16851",
+      "titulo": "Decreto nº 16.851 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16851",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16851",
+      "ementa": "SUPRIME O COLEGIO MILITAR DE BARBACENA."
+    },
+    {
+      "senadoId": "431913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16846",
+      "titulo": "Decreto nº 16.846 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16846",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16846",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTANCIA TOTAL DE 146:148$613, DAS OBRAS DE MELHORAMENTO DE QUE NECESSITA A ESTAÇÃO DE TUNEL, SITUADA NA LINHA TRONCO DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "431915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16847",
+      "titulo": "Decreto nº 16.847 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16847",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16847",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NAS IMPORTÂNCIAS DE 25:831$361 E 11.281$203, PARA A CONSTRUÇÃO, RESPECTIVAMENTE, DE UM DESVIO DE CRUZAMENTO NO QUILÔMETRO 78,510 DA LINHA DE SANTA MARIA A URUGUAYANA, DA REDE DE VIAÇÃO FERREA DO RIO GRANDE DO SUL E DE UMA CASA PARA O ENCARREGADO DO MESMO DESVIO."
+    },
+    {
+      "senadoId": "431909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16844",
+      "titulo": "Decreto nº 16.844 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16844",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16844",
+      "ementa": "APROVA O PLANO DAS OBRAS QUE \"THE SÃO PAULO TRAMWAY, LIGHT & POWER COMPANY, LIMITED, PRETENDE EXECUTAR NOS MUNICIPIOS DE SALLESOPOLIS, SANTOS MOGY DAS CRUZES, SÃO BERNARDO, SANTO AMARO E ITAPECERICA, NO ESTADO DE SÃO PAULO, PARA APROVEITAMENTO DA FORÇA HIDRAULICA DO RIO TIETÉ E DE ALGUNS DE SEUS AFLUENTES, E DECLARA A URGÊNCIA DA DESAPROPRIAÇÃO DOS TERRENOS E BENFEITORIAS COMPREENDIDOS NAS RESPECTIVAS PLANTAS."
+    },
+    {
+      "senadoId": "431927",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16853",
+      "titulo": "Decreto nº 16.853 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16853",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16853",
+      "ementa": "TORNA EXTENSIVOS, COM RESTRIÇÕES, AOS OFICIAIS DO EXTINTO CORPO DA ARMADA, COM O CURSO DA ESCOLA DE SUBMERSIVEIS OU COM O CURSO DA ESCOLA NAVAL PELO REGULAMENTO DE 1914, OS SERVIÇOS DE QUE TRATA O ARTIGO 3, PARAGRAFO 2, DO DECRETO 16.714, DE 24 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16852",
+      "titulo": "Decreto nº 16.852 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16852",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16852",
+      "ementa": "ALTERA OS ARTIGOS 28, 29 E 30 DO REGULAMENTO DA ESCOLA NAVAL, APROVADO PELO DECRETO 16.406, DE 12 DE MARÇO DE 1924."
+    },
+    {
+      "senadoId": "431933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16856",
+      "titulo": "Decreto nº 16.856 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16856",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16856",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGOCIOS INTERIORES O CRÉDITO ESPECIAL DE 492:554$172, PARA INDENIZAÇÃO À IMPRENSA NACIONAL DE DESPESAS REALIZADAS, EM 1923, COM A IMPRESSÃO E PUBLICAÇÃO DOS TRABALHOS DO CONGRESSO NACIONAL, EXCEDENTE AOS CRÉDITOS ABERTOS PARA AQUELE FIM."
+    },
+    {
+      "senadoId": "431939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-27-16859",
+      "titulo": "Decreto nº 16.859 de 27/03/1925",
+      "data": "1925-03-27",
+      "numero": "16859",
+      "urn": "urn:lex:br:federal:decreto:1925-03-27;16859",
+      "ementa": "FAZ PÚBLICO O DEPÓSITO DE RATIFICAÇÃO, PELA VENEZUELA, DO CONVÊNIO SOBRE ENCOMENDAS POSTAIS ASSINADO EM BUENOS AIRES EM 1921."
+    },
+    {
+      "senadoId": "431899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-24-16839",
+      "titulo": "Decreto nº 16.839 de 24/03/1925",
+      "data": "1925-03-24",
+      "numero": "16839",
+      "urn": "urn:lex:br:federal:decreto:1925-03-24;16839",
+      "ementa": "AUTORIZA O BANCO FRANCÊS E ITALIANO PARA A AMERICA DO SUL, COM SÉDE EM PARIS, FRANÇA, A ABRIR UMA AGENCIA NA CIDADE DO RIO PRETO, ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "431905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-24-16842",
+      "titulo": "Decreto nº 16.842 de 24/03/1925",
+      "data": "1925-03-24",
+      "numero": "16842",
+      "urn": "urn:lex:br:federal:decreto:1925-03-24;16842",
+      "ementa": "AUTORIZA A EMISSÃO DE TITULOS (OBRIGAÇÕES FERROVIÁRIAS) PARA A EXECUÇÃO DE MELHORAMENTOS E APARELHAMENTO DAS ESTRADAS DE FERRO DA UNIÃO, CONSTRUÇÃO DE PROLONGAMENTO E RAMAIS E CONCLUSÃO DE OBRAS DAS MESMAS ESTRADAS."
+    },
+    {
+      "senadoId": "431903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-24-16841",
+      "titulo": "Decreto nº 16.841 de 24/03/1925",
+      "data": "1925-03-24",
+      "numero": "16841",
+      "urn": "urn:lex:br:federal:decreto:1925-03-24;16841",
+      "ementa": "CONCEDE À SINGER SEWING MACHINE COMPANY AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "431901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-24-16840",
+      "titulo": "Decreto nº 16.840 de 24/03/1925",
+      "data": "1925-03-24",
+      "numero": "16840",
+      "urn": "urn:lex:br:federal:decreto:1925-03-24;16840",
+      "ementa": "TRANSFERE O APRENDIZADO AGRICOLA DE SÃO LUIZ DE MISSÕES E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-24-16838",
+      "titulo": "Decreto nº 16.838 de 24/03/1925",
+      "data": "1925-03-24",
+      "numero": "16838",
+      "urn": "urn:lex:br:federal:decreto:1925-03-24;16838",
+      "ementa": "APROVA AS MODIFICAÇÕES DO REGULAMENTO EXPEDIDO COM O DECRETO NÚMERO 16.581, DE 4 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-10-16837",
+      "titulo": "Decreto nº 16.837 de 10/03/1925",
+      "data": "1925-03-10",
+      "numero": "16837",
+      "urn": "urn:lex:br:federal:decreto:1925-03-10;16837",
+      "ementa": "SUSPENDE O ESTADO DE SÍTIO EM TODO O TERRITÓRIO DO ESTADO DO RIO GRANDE DO SUL, NO DIA 15 DE MARÇO DE 1925."
+    },
+    {
+      "senadoId": "431893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-03-16836",
+      "titulo": "Decreto nº 16.836 de 03/03/1925",
+      "data": "1925-03-03",
+      "numero": "16836",
+      "urn": "urn:lex:br:federal:decreto:1925-03-03;16836",
+      "ementa": "AUTORIZA A TRANSFERENCIA À \"THE SÃO PAULO TRAMWAY, LIGHT AND POWER COMPANY LIMITED\" DOS FAVORES DE QUE GOZA A \"COMPANHIA BRASILEIRA DE ENERGIA ELÉTRICA\" PARA O APROVEITAMENTO DA FORÇA HIDRAULICA DO RIO ITAPANHAÚ, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "431891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-03-16835",
+      "titulo": "Decreto nº 16.835 de 03/03/1925",
+      "data": "1925-03-03",
+      "numero": "16835",
+      "urn": "urn:lex:br:federal:decreto:1925-03-03;16835",
+      "ementa": "AUTORIZA A TRANSFERÊNCIA, DA FIRMA OLIVEIRA PEARCE & COMPANHIA PARA A FIRMA VIUVA PEDRO THOMAZ & FILHO, DO CONTRATO DE NAVEGAÇÃO DO ALTO PARNAIBA E RIO BALSAS."
+    },
+    {
+      "senadoId": "431887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-03-16833",
+      "titulo": "Decreto nº 16.833 de 03/03/1925",
+      "data": "1925-03-03",
+      "numero": "16833",
+      "urn": "urn:lex:br:federal:decreto:1925-03-03;16833",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NAS IMPORTÂNICA DE £ 360 E 43:224$360, PARA RECONSTRUÇÃO DA PONTE DO QUILÔMETRO 45,400, DA ESTRADA DE FERRO CONDE D´EU, DA COMPANHIA GREAT WESTERN."
+    },
+    {
+      "senadoId": "431889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-03-16834",
+      "titulo": "Decreto nº 16.834 de 03/03/1925",
+      "data": "1925-03-03",
+      "numero": "16834",
+      "urn": "urn:lex:br:federal:decreto:1925-03-03;16834",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 43:952$675 (QUARENTA E TRÊS CONTOS NOVECENTOS E CINQÜENTA E DOIS MIL SEIS CENTOS E SETENTA E CINCO RÉIS), PARA CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTOS SERVIDO DE POSTO TELEGRÁFICO, NO KM 283,945, SUL DA LINHA ITARARÉ - URUGUAY."
+    },
+    {
+      "senadoId": "431885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-03-02-16832",
+      "titulo": "Decreto nº 16.832 de 02/03/1925",
+      "data": "1925-03-02",
+      "numero": "16832",
+      "urn": "urn:lex:br:federal:decreto:1925-03-02;16832",
+      "ementa": "AUTORIZA AO DEUTSCH SUDAMERIKANISCHE BANK A. G., A ABRIR UMA FILIAL EM SÃO PAULO E OUTRA EM SANTOS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-27-16828",
+      "titulo": "Decreto nº 16.828 de 27/02/1925",
+      "data": "1925-02-27",
+      "numero": "16828",
+      "urn": "urn:lex:br:federal:decreto:1925-02-27;16828",
+      "ementa": "FIXA O EFETIVO DO PESSOAL SUBALTERNO DOS SERVIÇOS DE CONVÉZ, DA MARINHA DE GUERRA, DURANTE O ANO DE 1925, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431883",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-27-16831",
+      "titulo": "Decreto nº 16.831 de 27/02/1925",
+      "data": "1925-02-27",
+      "numero": "16831",
+      "urn": "urn:lex:br:federal:decreto:1925-02-27;16831",
+      "ementa": "TORNA EXTENSIVA AOS OFICIAIS COMANDANTES DE TORRES DOS ENCOURAÇADOS MINAS GERAIS E SÃO PAULO A GRATIFICAÇÃO A QUE SE REFERE O ARTIGO 11 DO REGULAMENTO ANEXO AO DECRETO NÚMERO 16.715, DE 24 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-27-16830",
+      "titulo": "Decreto nº 16.830 de 27/02/1925",
+      "data": "1925-02-27",
+      "numero": "16830",
+      "urn": "urn:lex:br:federal:decreto:1925-02-27;16830",
+      "ementa": "REGULA A EQUIVALÊNCIA DE FUNÇÕES DO PESSOAL DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "431879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-27-16829",
+      "titulo": "Decreto nº 16.829 de 27/02/1925",
+      "data": "1925-02-27",
+      "numero": "16829",
+      "urn": "urn:lex:br:federal:decreto:1925-02-27;16829",
+      "ementa": "ESTABELECE AS BASES DA REORGANIZAÇÃO DO PESSOAL SUBALTERNO DOS SERVIÇOS DE CONVEZ DA MARINHA DE GUERRA E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16826",
+      "titulo": "Decreto nº 16.826 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16826",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16826",
+      "ementa": "FAZ PÚBLICA A RATIFICAÇÃO, PELA VENEZUELA, DE ATOS POSTAIS ASSINADOS EM MADRID A 30 DE NOVEMBRO DE 1920."
+    },
+    {
+      "senadoId": "431865",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16822",
+      "titulo": "Decreto nº 16.822 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16822",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16822",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM MEDELLIN, NA REPÚBLICA DA COLÔMBIA."
+    },
+    {
+      "senadoId": "431857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16818",
+      "titulo": "Decreto nº 16.818 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16818",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16818",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM KRISTIANSTAD, NA SUECIA."
+    },
+    {
+      "senadoId": "431867",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16823",
+      "titulo": "Decreto nº 16.823 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16823",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16823",
+      "ementa": "PUBLICA A ADESÃO DO IRAQUE À CONVENÇÃO POSTAL DE MADRID."
+    },
+    {
+      "senadoId": "431875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16827",
+      "titulo": "Decreto nº 16.827 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16827",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16827",
+      "ementa": "FIXA O NÚMERO DE FISCAIS DA INSPETORIA GERAL DOS BANCOS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431855",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16817",
+      "titulo": "Decreto nº 16.817 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16817",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16817",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO SUPLEMENTAR DE 1.002:413$922 À VERBA 12 - CLASSES INATIVAS, NÚMEROS 1 E 2, DO ORÇAMENTO DE 1924."
+    },
+    {
+      "senadoId": "431861",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16820",
+      "titulo": "Decreto nº 16.820 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16820",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16820",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM CORUÑA, NA ESPANHA."
+    },
+    {
+      "senadoId": "431853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16816",
+      "titulo": "Decreto nº 16.816 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16816",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16816",
+      "ementa": "ESTENDE AO ESTADO DA BAHIA O ESTADO DE SITIO DECRETADO PELO DECRETO NÚMERO 16.765, DE 1 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "431869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16824",
+      "titulo": "Decreto nº 16.824 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16824",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16824",
+      "ementa": "PUBLICA  A ADESÃO DA NOVA ZELÂNDIA À CONVENÇÃO INTERNACIONAL, DE ROMA, PARA A CRIAÇÃO DE UMA REPARTIÇÃO INTERNACIONAL DE HIGIENE PÚBLICA."
+    },
+    {
+      "senadoId": "431871",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16825",
+      "titulo": "Decreto nº 16.825 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16825",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16825",
+      "ementa": "PUBLICA  A ADESÃO DO EGITO À CONVENÇÃO PARA O MELHORAMENTO DA SORTE DOS FERIDOS E EFERMOS NOS EXÉRCITOS EM CAMPANHA."
+    },
+    {
+      "senadoId": "431863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16821",
+      "titulo": "Decreto nº 16.821 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16821",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16821",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM SAINT GALL, NA SUIÇA."
+    },
+    {
+      "senadoId": "431859",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-21-16819",
+      "titulo": "Decreto nº 16.819 de 21/02/1925",
+      "data": "1925-02-21",
+      "numero": "16819",
+      "urn": "urn:lex:br:federal:decreto:1925-02-21;16819",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM LAUSANNE, NA SUIÇA."
+    },
+    {
+      "senadoId": "431839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16809",
+      "titulo": "Decreto nº 16.809 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16809",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16809",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 118:913$512, PARA MODIFICAÇÃO E AUMENTO DAS LINHAS EXISTENTES NA XARQUEADA S. DOMINGOS, NO KM. 310-600 DA LINHA DE CACEQUI-RIO GRANDE, NA VIAÇÃO FERREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16811",
+      "titulo": "Decreto nº 16.811 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16811",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16811",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 12:212$055 (DOZE CONTOS DUZENTOS E DOZE MIL E CINQÜENTA E CINCO RÉIS), PARA O SERVIÇO DE ABASTECIMENTO DE ÁGUA NO QUILÔMETRO 88 NORTE DA LINHA ITARARÉ-URUGUAI, DA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "431833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16806",
+      "titulo": "Decreto nº 16.806 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16806",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16806",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTANCIA DO 1.046:941$940 (MIL E QUARENTA E SEIS CONTOS NOVECENTOS E QUARENTA E UM MIL NOVECENTOS E QUARENTA RÉIS), RELATIVO À MÃO DE OBRA PARA SUBSTITUIÇÃO DE TRILHOS EM 191 QUILÔMENTROS DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16802",
+      "titulo": "Decreto nº 16.802 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16802",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16802",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTANCIA DE 14.290:000$, DAS OBRAS DE REVESTIMENTO DA MARGEM OESTE DO CANAL DO NORTE DA BARRA DO RIO GRANDE, QUE O ESTADO DO RIO GRANDE DO SUL SE OBRIGOU A EXECUTAR."
+    },
+    {
+      "senadoId": "431845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16812",
+      "titulo": "Decreto nº 16.812 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16812",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16812",
+      "ementa": "PRORROGA POR MAIS CINCO ANOS O PRAZO CONCEDIDO PELO DECRETO NÚMERO 11.503, DE 23 DE FEVEREIRO DE 1915, A THE NATIONAL CITY BANK OF NEW-YORK, PARA FUNCIONAR NO BRASIL."
+    },
+    {
+      "senadoId": "431851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16815",
+      "titulo": "Decreto nº 16.815 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16815",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16815",
+      "ementa": "REVOGA OS DECRETOS PELOS QUAIS FOI CONCEDIDA A THE AMERICAN ROLLING MILL COMPANY AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA E CASSA AS RESPECTIVAS CARTAS."
+    },
+    {
+      "senadoId": "431841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16810",
+      "titulo": "Decreto nº 16.810 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16810",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16810",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTANCIA DE RÉIS 46:340$348 (QUARENTA E SEIS CONTOS TREZENTOS E QUARENTA MIL TREZENTOS E QUARENTA E OITO RÉIS), PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO COM POSTO TELEGRAFICO NO QUILÔMETRO 594,890 SUL DA LINHA ITARARÉ-URUGUAI, DA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "431835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16807",
+      "titulo": "Decreto nº 16.807 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16807",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16807",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 52:279$199 (CINQÜENTA E DOIS CONTOS DUZENTOS E SETENTA E NOVE MIL CENTO E NOVENTA E NOVE RÉIS) PARA AMPLIAÇÃO DO ABASTECIMENTO DE ÁGUA NA ESTAÇÃO DE HANSA, DA LINHA DE S. FRANCISCO."
+    },
+    {
+      "senadoId": "431837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16808",
+      "titulo": "Decreto nº 16.808 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16808",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16808",
+      "ementa": "APROVA NOVO PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 96:998$698, PARA CONSTRUÇÃO DA ESTAÇÃO DE BURANHEM E SUAS DEPENDENCIAS, NA LINHA CENTRO-OESTE DA BAHIA, A CARGO DA COMPANHIA FERRO-VIARIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "431847",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16813",
+      "titulo": "Decreto nº 16.813 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16813",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16813",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA A EMITIR APOLICES DA DIVIDA PÚBLICA DA UNIÃO NA IMPORTANCIA DE 25:000$, AFIM DE SER PAGO O PREMIO DEVIDO AO CAPITÃO DE MAR E GUERRA ALVARO NUNES DE CARVALHO."
+    },
+    {
+      "senadoId": "431829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16804",
+      "titulo": "Decreto nº 16.804 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16804",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16804",
+      "ementa": "APROVA PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTANCIA DE 41:978$975, PARA CONSTRUÇÃO DE UM DESVIO NA ESTAÇÃO DE SERTÃO, NA LINHA DE SANTA MARIA-MARCELINO RAMOS, NA VIAÇÃO FERREA FEDERAL DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16805",
+      "titulo": "Decreto nº 16.805 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16805",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16805",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 29:046$634, PARA CONSTRUÇÃO DE UM DESVIO NO QUILÔMETRO 130 DA LINHA DE SANTA MARIA-PORTO ALEGRE, NA VIAÇÃO FERREA FEDERAL DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16803",
+      "titulo": "Decreto nº 16.803 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16803",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16803",
+      "ementa": "PRORROGA POR TRÊS MESES O PRAZO FIXADO PARA A APRESENTAÇÃO PELA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE, DOS PROJETOS E ORÇAMENTOS DOS MELHORAMENTOS INDICADOS NA LETRA B DA CLAUSULA VI DO TERMO DE REVISÃO DO CONTRATO CELEBRADO NOS TERMOS DO DECRETO NÚMERO 16.259, DE 12 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "431849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-17-16814",
+      "titulo": "Decreto nº 16.814 de 17/02/1925",
+      "data": "1925-02-17",
+      "numero": "16814",
+      "urn": "urn:lex:br:federal:decreto:1925-02-17;16814",
+      "ementa": "CONCEDE UM ANO DE LICENÇA AO DR. PEDRO DA CUNHA PEDROSA, MINISTRO DO TRIBUNAL DE CONTAS."
+    },
+    {
+      "senadoId": "431821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-14-16800",
+      "titulo": "Decreto nº 16.800 de 14/02/1925",
+      "data": "1925-02-14",
+      "numero": "16800",
+      "urn": "urn:lex:br:federal:decreto:1925-02-14;16800",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM CONCORDIA, REPUBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "431823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-14-16801",
+      "titulo": "Decreto nº 16.801 de 14/02/1925",
+      "data": "1925-02-14",
+      "numero": "16801",
+      "urn": "urn:lex:br:federal:decreto:1925-02-14;16801",
+      "ementa": "CRIA UM CONSULADO HONORARIO EM CORRIENTES, REPUBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "431807",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-13-16792",
+      "titulo": "Decreto nº 16.792 de 13/02/1925",
+      "data": "1925-02-13",
+      "numero": "16792",
+      "urn": "urn:lex:br:federal:decreto:1925-02-13;16792",
+      "ementa": "FIXA O EFETIVO ORÇAMENTARIO DAS DIVERSAS CLASSES E ESPECIALIDADES DO PESSOAL SUBALTERNO DO SERVIÇO GERAL DE MAQUINAS DA MARINHA DE GUERRA, DE ACORDO COM A LEI DE DESPESA GERAL DA REPÚBLICA PARA O ANO DE 1925, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-13-16798",
+      "titulo": "Decreto nº 16.798 de 13/02/1925",
+      "data": "1925-02-13",
+      "numero": "16798",
+      "urn": "urn:lex:br:federal:decreto:1925-02-13;16798",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1924, CRÉDITO SUPLEMENTARES ÀS VERBAS NÚMEROS 5, 7, 6, E   8, DO ARTIGO 2º DA LEI NÚMERO 4.793, DE 7 DE JANEIRO DE 1924, NA IMPORTANCIA TOTAL DE 2.149:550$, PARA OCORRER AO PAGAMENTO DE SUBSIDIO A SENADORES E DEPUTADOS E DESPESAS DE IMPRESSÕES E PUBLICAÇÕES DE DEBATES DO SENADO FEDERAL E DA CAMARA DOS DEPUTADOS, DURANTE A PRORROGAÇÃO, ATÉ 31 DE DEZEMBRO ULTIMO DA SESSÃO LEGISLATIVA DO CONGRESSO NACIONAL, CORRESPONDENTE AO ANO DE 1924."
+    },
+    {
+      "senadoId": "431809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-13-16793",
+      "titulo": "Decreto nº 16.793 de 13/02/1925",
+      "data": "1925-02-13",
+      "numero": "16793",
+      "urn": "urn:lex:br:federal:decreto:1925-02-13;16793",
+      "ementa": "ALTERA O REGULAMENTO PARA A ESCOLA DE ESTADO MAIOR."
+    },
+    {
+      "senadoId": "431814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-13-16796",
+      "titulo": "Decreto nº 16.796 de 13/02/1925",
+      "data": "1925-02-13",
+      "numero": "16796",
+      "urn": "urn:lex:br:federal:decreto:1925-02-13;16796",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 767$741, PARA PAGAMENTO DA DIFERENÇA DE VENCIMENTOS A QUE TEM DIREITO O SUBSTITUTO DO JUIZ FEDERAL NA SEÇÃO DO DISTRITO FEDERAL, DR. HENRIQUE VAZ PINTO COELHO."
+    },
+    {
+      "senadoId": "431812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-13-16795",
+      "titulo": "Decreto nº 16.795 de 13/02/1925",
+      "data": "1925-02-13",
+      "numero": "16795",
+      "urn": "urn:lex:br:federal:decreto:1925-02-13;16795",
+      "ementa": "SUSPENDE, EM TODO E ESTADO DE SÃO PAULO, O ESTADO DE SITIO NO DIA 15 DO CORRENTE."
+    },
+    {
+      "senadoId": "431816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-13-16797",
+      "titulo": "Decreto nº 16.797 de 13/02/1925",
+      "data": "1925-02-13",
+      "numero": "16797",
+      "urn": "urn:lex:br:federal:decreto:1925-02-13;16797",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 200:000$, PARA FAZER FACE ÀS DESPESAS COM A INTERVENÇÃO DO GOVERNO FEDERAL NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "431801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-10-16789",
+      "titulo": "Decreto nº 16.789 de 10/02/1925",
+      "data": "1925-02-10",
+      "numero": "16789",
+      "urn": "urn:lex:br:federal:decreto:1925-02-10;16789",
+      "ementa": "CONCEDE À COMPANHIA NACIONAL FARINHAS DE LEGUMINOSAS AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-10-16791",
+      "titulo": "Decreto nº 16.791 de 10/02/1925",
+      "data": "1925-02-10",
+      "numero": "16791",
+      "urn": "urn:lex:br:federal:decreto:1925-02-10;16791",
+      "ementa": "DÁ A DENOMINAÇÃO DE NUCLEO COLONIAL AO CENTRO AGRICOLA \"CLEVELAND\", NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "431797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-10-16787",
+      "titulo": "Decreto nº 16.787 de 10/02/1925",
+      "data": "1925-02-10",
+      "numero": "16787",
+      "urn": "urn:lex:br:federal:decreto:1925-02-10;16787",
+      "ementa": "APROVA A DELIBERAÇÃO DA COMPANHIA DE SEGUROS \"EL FENIX SUDAMERICANO\", ARGUMENTANDO O SEU CAPITAL DECLARADO PARA AS OPERAÇÕES NO BRASIL DE 1.034:000$ PARA 1.250:000$000."
+    },
+    {
+      "senadoId": "431799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-10-16788",
+      "titulo": "Decreto nº 16.788 de 10/02/1925",
+      "data": "1925-02-10",
+      "numero": "16788",
+      "urn": "urn:lex:br:federal:decreto:1925-02-10;16788",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 3:880$100, PARA ATENDER AO PAGAMENTO DAS PENSÕES DE MEIO SOLDO QUE COMPETEM A D. VERONICA RODRIGUES DE OLIVEIRA."
+    },
+    {
+      "senadoId": "431803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-10-16790",
+      "titulo": "Decreto nº 16.790 de 10/02/1925",
+      "data": "1925-02-10",
+      "numero": "16790",
+      "urn": "urn:lex:br:federal:decreto:1925-02-10;16790",
+      "ementa": "CONCEDE À SOCIEDADE ANONIMA FABRICA COLOMBO AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-06-16785",
+      "titulo": "Decreto nº 16.785 de 06/02/1925",
+      "data": "1925-02-06",
+      "numero": "16785",
+      "urn": "urn:lex:br:federal:decreto:1925-02-06;16785",
+      "ementa": "REGULA O SERVIÇO DE ESTADO E DE QUARTO NO DEPARTAMENTO DE MAQUINAS DOS NAVIOS DE GUERRA E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431795",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-02-06-16786",
+      "titulo": "Decreto nº 16.786 de 06/02/1925",
+      "data": "1925-02-06",
+      "numero": "16786",
+      "urn": "urn:lex:br:federal:decreto:1925-02-06;16786",
+      "ementa": "ALTERA O DECRETO NÚMERO 16.070, DE 21 DE JUNHO DE 1923, NA PARTE EM QUE FIXA O NÚMERO DOS GENERAIS DE DIVISÃO."
+    },
+    {
+      "senadoId": "431792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-24-16784-a",
+      "titulo": "Decreto nº 16.784-A de 24/01/1925",
+      "data": "1925-01-24",
+      "numero": "16784-a",
+      "urn": "urn:lex:br:federal:decreto:1925-01-24;16784-a",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 126:874$385, PARA PAGAMENTO AO DR. GRACILIANO MARQUES PEDREIRA DE FREITAS, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "431790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-15-16784",
+      "titulo": "Decreto nº 16.784 de 15/01/1925",
+      "data": "1925-01-15",
+      "numero": "16784",
+      "urn": "urn:lex:br:federal:decreto:1925-01-15;16784",
+      "ementa": "DESIGNA O LAZARETO DA ILHA GRANDE COMO PRISÃO MILITAR PRIVATIVA."
+    },
+    {
+      "senadoId": "431783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16781",
+      "titulo": "Decreto nº 16.781 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16781",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16781",
+      "ementa": "APROVA A PRORROGAÇÃO DO PRAZO DE DURAÇÃO DA COMPANHIA DE SEGUROS TERRESTRES E MARÍTIMOS \"AMPHITRITE\", COM SEDE NA CIDADE DE RECIFE, ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "431765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16772",
+      "titulo": "Decreto nº 16.772 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16772",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16772",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 6:909$677, PARA PAGAMENTO DE VENCIMENTOS AO DR. RODOLPHO CHAPOT PRÉVOST, CIRURGIÃO-DENTISTA DO HOSPÍCIO NACIONAL DE ALIENADOS, NO PERÍODO DE 17 DE AGOSTO DE 1921 A 17 DE AGOSTO DO ANO FINDO."
+    },
+    {
+      "senadoId": "431775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16777",
+      "titulo": "Decreto nº 16.777 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16777",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16777",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANONIMA TRANSOCEANIC TRADING COMPANY PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "431769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16774",
+      "titulo": "Decreto nº 16.774 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16774",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16774",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1924, CRÉDITOS SUPLEMENTARES, NA IMPORTANCIA TOTAL DE 2.295:250$, ÀS VERBAS NÚMEROS 5, 7, 6 E 8 DO ARTIGO 2º DA LEI NÚMERO 4.793, DE 7 DE JANEIRO DE 1924, PARA OCORRER AO PAGAMENTO DE SUBSIDIO A SENADORES E DEPUTADOS E DESPESAS DE IMPRESSÕES E PUBLICAÇÕES DE DEBATES DO SENADO FEDERAL E DA CAMARA DOS DEPUTADOS, DURANTE A PROROGAÇÃO, ATÉ 3 DE NOVEMBRO ULTIMO, DA SESSÃO LEGISLATIVA DO CONGRESSO NACIONAL, CORRESPONDENTE AO ANO DE 1924."
+    },
+    {
+      "senadoId": "431788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16783",
+      "titulo": "Decreto nº 16.783 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16783",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16783",
+      "ementa": "CONCEDE AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA À COMPANHIA \"ASSICURAZIONI GENERALI\", COM SÉDE EM TRIESTE, REINO DA ITÁLIA, E APROVA OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "431785",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16782",
+      "titulo": "Decreto nº 16.782 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16782",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16782",
+      "ementa": "APROVA AS RESOLUÇÕES DA QUARTA ASSEMBLÉIA GERAL ORDINÁRIA DA COMPANHIA DE SEGUROS EL FENIX SUD AMERICANO, COM SEDE EM BUENOS AIRES, REPÚBLICA ARGENTINA, NA PARTE RELATIVA À REFORMA DOS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "431787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16782-a",
+      "titulo": "Decreto nº 16.782-A de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16782-a",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16782-a",
+      "ementa": "ESTABELECE O CONCURSO DA UNIÃO PARA DIFUSÃO DO ENSINO PRIMÁRIO, ORGANIZA O DEPARTAMENTO NACIONAL DO ENSINO, REFORMA O ENSINO SECUNDÁRIO E O SUPERIOR DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431779",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16779",
+      "titulo": "Decreto nº 16.779 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16779",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16779",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANONIMA CABANAS E ESTANCIAS \"LA VICTORIA LIMITADA\" PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "431781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16780",
+      "titulo": "Decreto nº 16.780 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16780",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16780",
+      "ementa": "CONCEDE À SOCIEDADE ANONIMA LEON ISRAEL COMPANY, AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16776",
+      "titulo": "Decreto nº 16.776 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16776",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16776",
+      "ementa": "CONCEDE A FRANCIS WALTER HIME, LUIZ RIBEIRO PINTO E LIBANIO DA ROCHA VAZ OU EMPRESA QUE ORGANIZAREM OS FAVORES CONSTANTES DOS ARTIGOS 6º, 7º E 8º DO DECRETO NÚMERO 12.944, DE 30 DE MARÇO DE 1918, E DO DECRETO LEGISLATIVO NÚMERO 4.246, DE 6 DE JANEIRO, DE 1921, PARA O DESENVOLVIMENTO DA INDUSTRIA SIDERURGICA E METARLUGICA."
+    },
+    {
+      "senadoId": "431767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16773",
+      "titulo": "Decreto nº 16.773 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16773",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16773",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 116:940$393, PARA PAGAMENTO, EM 1924, DOS VENCIMENTOS E VANTAGENS QUE COMPETEM AOS NOVOS MEMBROS DA JUSTIÇA FEDERAL, NA CONFORMIDADE DOS DECRETOS NÚMERO 4.848, DE 13 DE AGOSTO DE 1924, E 4.861, DE 29 DE SETEMBRO DO MESMO ANO."
+    },
+    {
+      "senadoId": "431771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16775",
+      "titulo": "Decreto nº 16.775 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16775",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16775",
+      "ementa": "CONCEDE A FORTUNATO BULCÃO OU EMPRESA QUE ORGANIZAR OS FAVORES CONSTANTES DO DECRETO NÚMERO 12.944, DE 30 DE MARÇO DE 1918, E DO DECRETO LEGISLATIVO NÚMERO 4.246, DE 6 DE JANEIRO, DE 1921, PARA O DESENVOLVIMENTO DA INDUSTRIA SIDERURGICA E METARLUGICA."
+    },
+    {
+      "senadoId": "431763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16771",
+      "titulo": "Decreto nº 16.771 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16771",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16771",
+      "ementa": "AUTORIZA THE BRITISH BANK OF SOUTH AMERICA, LTD., COM SÉDE EM LONDRES, A ABRIR UMA FILIAL NA CIDADE DE PELOTAS, ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-13-16778",
+      "titulo": "Decreto nº 16.778 de 13/01/1925",
+      "data": "1925-01-13",
+      "numero": "16778",
+      "urn": "urn:lex:br:federal:decreto:1925-01-13;16778",
+      "ementa": "CONCEDE À \"SOCIEDADE ANONIMA GRANDES MOINHOS DO SUL\" AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "406670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-12-4911",
+      "titulo": "Decreto nº 4.911 de 12/01/1925",
+      "data": "1925-01-12",
+      "numero": "4911",
+      "urn": "urn:lex:br:federal:decreto:1925-01-12;4911",
+      "ementa": "FIXA A DESPESA GERAL DA REPUBLICA DOS ESTADOS UNIDOS DO BRASIL PARA O EXERCICIO DE 1925."
+    },
+    {
+      "senadoId": "431761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-10-16770",
+      "titulo": "Decreto nº 16.770 de 10/01/1925",
+      "data": "1925-01-10",
+      "numero": "16770",
+      "urn": "urn:lex:br:federal:decreto:1925-01-10;16770",
+      "ementa": "TORNA SEM EFEITO DOS DECRETOS NÚMEROS 16.591, DE 10 DE DEZEMBRO DE 1924, E 16.673, DE 19 DE NOVEMBRO DO MESMO ANO."
+    },
+    {
+      "senadoId": "431760",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-08-16769-a",
+      "titulo": "Decreto nº 16.769-A de 08/01/1925",
+      "data": "1925-01-08",
+      "numero": "16769-a",
+      "urn": "urn:lex:br:federal:decreto:1925-01-08;16769-a",
+      "ementa": "SUSPENDE, NO DIA 10 DO CORRENTE MES EM TODO O ESTADO DE SÃO PAULO, O ESTADO DE SÍTIO ESTABELECENDO PELO DECRETO NÚMERO 16.765, DE 1 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "431758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-07-16769",
+      "titulo": "Decreto nº 16.769 de 07/01/1925",
+      "data": "1925-01-07",
+      "numero": "16769",
+      "urn": "urn:lex:br:federal:decreto:1925-01-07;16769",
+      "ementa": "SUSPENDE, DURANTE O EXERCÍCIO DE 1925, TODAS AS OBRAS PÚBLICAS QUE ESTÃO SENDO EXECUTADAS, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-03-16768",
+      "titulo": "Decreto nº 16.768 de 03/01/1925",
+      "data": "1925-01-03",
+      "numero": "16768",
+      "urn": "urn:lex:br:federal:decreto:1925-01-03;16768",
+      "ementa": "PROVIDENCIA SOBRE A CRIAÇÃO DO LUGAR DE GOVERNADOR MILITAR DA PRISÃO POLÍTICA E SOBRE SEU PROVIMENTO."
+    },
+    {
+      "senadoId": "431752",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-02-16766",
+      "titulo": "Decreto nº 16.766 de 02/01/1925",
+      "data": "1925-01-02",
+      "numero": "16766",
+      "urn": "urn:lex:br:federal:decreto:1925-01-02;16766",
+      "ementa": "DECLARA EM VIGOR O ORÇAMENTO DA RECEITA GERAL DA REPÚBLICA PARA O EXERCÍCIO DE 1924, ATÉ QUE O CONGRESSO NACIONAL ULTIME A VOTAÇÃO DO DE 1925."
+    },
+    {
+      "senadoId": "431754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1925-01-02-16767",
+      "titulo": "Decreto nº 16.767 de 02/01/1925",
+      "data": "1925-01-02",
+      "numero": "16767",
+      "urn": "urn:lex:br:federal:decreto:1925-01-02;16767",
+      "ementa": "ESTENDE AOS ESTADOS DE SERGIPE, PARÁ E AMAZONAS O ESTADO DE SÍTIO, DECRETADO PELO DECRETO NÚMERO 16.765, DE 1 DE JANEIRO DE 1925."
+    }
+  ],
+  "pendencias": []
+}

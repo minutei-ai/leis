@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-11-25-13045",
+  "titulo": "Lei nº 13.045 de 25/11/2014",
+  "data": "2014-11-25",
+  "fonte": "https://normas.leg.br/api/public/binario/cd9edcad-7f6e-4f4f-a60e-43e2da7e4eda/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-11-25;13045",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-11-25%3B13045&tipo_documento=maior-detalhe",
+  "sha256_dados": "69a84a9b4ba730b7851e6810fe1cf62b8133671438dff637d162ad8629814dfb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:14.470Z",
+  "sha256_fonte": "4e9ce9696d0c0aa29ae271d63dfa1f4cccc5c619b3ae0ddf4bbe46ce1749e770",
+  "sha256_markdown": "49482abfcd13c65bacc196802d8e99efc444678bde27526835f8e98f6184c5a5"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-05-10-13284",
+  "titulo": "Lei nº 13.284 de 10/05/2016",
+  "data": "2016-05-10",
+  "fonte": "https://normas.leg.br/api/public/binario/2c0c7992-c5d4-483e-9486-b49c7a4054b5/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-05-10;13284",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-05-10%3B13284&tipo_documento=maior-detalhe",
+  "sha256_dados": "dbe6d3e3f1d1ca8c6880ed4fe39e00fe95ae7986972d2f2e7a127337bb4a5a78",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:00.964Z",
+  "sha256_fonte": "46088e89b561ba79f4807fe331d305a5b777e3bfba609feb51ed20ffa3156d3b",
+  "sha256_markdown": "22da0beec5a2de70b37fc5f36909d665afe98da645927850911d4a5a405158ab"
+}

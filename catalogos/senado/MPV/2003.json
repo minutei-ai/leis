@@ -1,0 +1,589 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2003",
+  "tipo": "MPV",
+  "ano": 2003,
+  "coletado_em": "2026-10-21T08:53:35.164Z",
+  "normas": [
+    {
+      "senadoId": "553202",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-29-160",
+      "titulo": "Medida Provisória nº 160 de 29/12/2003",
+      "data": "2003-12-29",
+      "numero": "160",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-29;160",
+      "ementa": "Dispõe sobre a instituição de Gratificação Temporária para os servidores Técnico-Administrativos e Técnico-Marítimos das Instituições Federais de Ensino, e dá outras providências."
+    },
+    {
+      "senadoId": "553186",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-152",
+      "titulo": "Medida Provisória nº 152 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "152",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;152",
+      "ementa": "Altera o art. 47 da Lei nº 9.636, de 15 de maio de 1998."
+    },
+    {
+      "senadoId": "553196",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-157",
+      "titulo": "Medida Provisória nº 157 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "157",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;157",
+      "ementa": "Altera o inciso IV do art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes."
+    },
+    {
+      "senadoId": "553192",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-155",
+      "titulo": "Medida Provisória nº 155 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "155",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;155",
+      "ementa": "Dispõe sobre a criação de carreiras e organização de cargos efetivos das autarquias especiais denominadas Agências Reguladoras, e dá outras providências."
+    },
+    {
+      "senadoId": "553188",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-153",
+      "titulo": "Medida Provisória nº 153 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "153",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;153",
+      "ementa": "Institui a Taxa de Avaliação in loco das instituições de educação superior e das condições de ensino dos cursos de graduação e dá outras providências."
+    },
+    {
+      "senadoId": "553198",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-158",
+      "titulo": "Medida Provisória nº 158 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "158",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;158",
+      "ementa": "Dispõe sobre a criação do Plano Especial de Cargos da Agência Brasileira de Inteligência - ABIN, e dá outras providências."
+    },
+    {
+      "senadoId": "553200",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-159",
+      "titulo": "Medida Provisória nº 159 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "159",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;159",
+      "ementa": "Autoriza o Poder Executivo a conceder subvenção econômica à Companhia de Navegação do São Francisco - FRANAVE."
+    },
+    {
+      "senadoId": "553190",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-154",
+      "titulo": "Medida Provisória nº 154 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "154",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;154",
+      "ementa": "Autoriza a Fundação Oswaldo Cruz - FIOCRUZ a disponibilizar medicamentos, mediante ressarcimento, e dá outras providências."
+    },
+    {
+      "senadoId": "553194",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-23-156",
+      "titulo": "Medida Provisória nº 156 de 23/12/2003",
+      "data": "2003-12-23",
+      "numero": "156",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;156",
+      "ementa": "Altera o caput do art. 1º da Lei nº 10.429, de 24 de abril de 2002, que institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos Trabalhadores de Enfermagem - PROFAE."
+    },
+    {
+      "senadoId": "553184",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-18-151",
+      "titulo": "Medida Provisória nº 151 de 18/12/2003",
+      "data": "2003-12-18",
+      "numero": "151",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-18;151",
+      "ementa": "Dispõe sobre a criação do Instituto Nacional do Semi-Árido - INSA, unidade de pesquisa integrante da estrutura básica do Ministério da Ciência e Tecnologia, e dá outras providências."
+    },
+    {
+      "senadoId": "553182",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-16-150",
+      "titulo": "Medida Provisória nº 150 de 16/12/2003",
+      "data": "2003-12-16",
+      "numero": "150",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-16;150",
+      "ementa": "Altera a Lei nº 10.188, de 12 de fevereiro de 2001, que institui o Programa de Arrendamento Residencial e dá outras providências."
+    },
+    {
+      "senadoId": "553180",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-16-149",
+      "titulo": "Medida Provisória nº 149 de 16/12/2003",
+      "data": "2003-12-16",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-16;149",
+      "ementa": "Autoriza o Poder Executivo a doar à República da Bolívia vacinas contra a febre aftosa."
+    },
+    {
+      "senadoId": "553178",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-15-148",
+      "titulo": "Medida Provisória nº 148 de 15/12/2003",
+      "data": "2003-12-15",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-15;148",
+      "ementa": "Atribui competências à Agência Nacional de Saúde Suplementar - ANS e fixa as diretrizes a serem observadas na definição de normas para implantação de programas especiais de incentivo à adaptação de contratos anteriores à Lei nº 9.656, de 3 de junho de 1998."
+    },
+    {
+      "senadoId": "553176",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-15-147",
+      "titulo": "Medida Provisória nº 147 de 15/12/2003",
+      "data": "2003-12-15",
+      "numero": "147",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-15;147",
+      "ementa": "Institui o Sistema Nacional de Avaliação e Progresso do Ensino Superior e dispõe sobre a avaliação do ensino superior."
+    },
+    {
+      "senadoId": "553170",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-11-144",
+      "titulo": "Medida Provisória nº 144 de 11/12/2003",
+      "data": "2003-12-11",
+      "numero": "144",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;144",
+      "ementa": "Dispõe sobre a comercialização de energia elétrica, altera as Leis nºs 5.655, de 20 de maio de 1971, 8.631, de 4 de março de 1993, 9.074, de 7 de julho de 1995, 9.427, de 26 de dezembro de 1996, 9.478, de 6 de agosto de 1997, 9.648, de 27 de maio de 1998, 9.991, de 24 de julho de 2000, 10.438, de 26 de abril de 2002, e dá outras providências."
+    },
+    {
+      "senadoId": "553172",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-11-145",
+      "titulo": "Medida Provisória nº 145 de 11/12/2003",
+      "data": "2003-12-11",
+      "numero": "145",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;145",
+      "ementa": "Autoriza a criação da Empresa de Pesquisa Energética - EPE e dá outras providências."
+    },
+    {
+      "senadoId": "553168",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-11-143",
+      "titulo": "Medida Provisória nº 143 de 11/12/2003",
+      "data": "2003-12-11",
+      "numero": "143",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;143",
+      "ementa": "Extingue o Conselho Diretor do Fundo de Garantia à Exportação - CFGE, altera dispositivos da Lei nº 9.818, de 23 de agosto de 1999, e dá outras providências."
+    },
+    {
+      "senadoId": "553174",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-11-146",
+      "titulo": "Medida Provisória nº 146 de 11/12/2003",
+      "data": "2003-12-11",
+      "numero": "146",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;146",
+      "ementa": "Dispõe sobre a reestruturação da Carreira Previdenciária, de que trata a Lei nº 10.355, de 26 de dezembro de 2001, instituindo a Carreira do Seguro Social, e dá outras providências."
+    },
+    {
+      "senadoId": "553166",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-02-142",
+      "titulo": "Medida Provisória nº 142 de 02/12/2003",
+      "data": "2003-12-02",
+      "numero": "142",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-02;142",
+      "ementa": "Dispõe sobre os créditos do Banco Central do Brasil contra instituição financeira credenciada a operar no Convênio de Pagamentos e Créditos Recíprocos - CCR, e dá outras providências."
+    },
+    {
+      "senadoId": "553164",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-12-01-141",
+      "titulo": "Medida Provisória nº 141 de 01/12/2003",
+      "data": "2003-12-01",
+      "numero": "141",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-01;141",
+      "ementa": "Dá nova redação ao art. 2º da Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior."
+    },
+    {
+      "senadoId": "553162",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-11-25-140",
+      "titulo": "Medida Provisória nº 140 de 25/11/2003",
+      "data": "2003-11-25",
+      "numero": "140",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-11-25;140",
+      "ementa": "Cria o Programa Nacional de Financiamento da Ampliação e Modernização da Frota Pesqueira Nacional - Profrota Pesqueira, e dá outras providências."
+    },
+    {
+      "senadoId": "553160",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-11-21-139",
+      "titulo": "Medida Provisória nº 139 de 21/11/2003",
+      "data": "2003-11-21",
+      "numero": "139",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-11-21;139",
+      "ementa": "Institui o Programa de Complementação ao Atendimento Educacional Especializado aos Portadores de Deficiência, e dá outras providências."
+    },
+    {
+      "senadoId": "553158",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-11-19-138",
+      "titulo": "Medida Provisória nº 138 de 19/11/2003",
+      "data": "2003-11-19",
+      "numero": "138",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-11-19;138",
+      "ementa": "Altera e acresce dispositivo à Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social."
+    },
+    {
+      "senadoId": "553156",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-11-17-137",
+      "titulo": "Medida Provisória nº 137 de 17/11/2003",
+      "data": "2003-11-17",
+      "numero": "137",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-11-17;137",
+      "ementa": "Autoriza a União a permutar Certificados Financeiros do Tesouro e dá outras providências."
+    },
+    {
+      "senadoId": "553154",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-11-17-136",
+      "titulo": "Medida Provisória nº 136 de 17/11/2003",
+      "data": "2003-11-17",
+      "numero": "136",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-11-17;136",
+      "ementa": "Acrescenta artigo à Lei nº 8.884, de 11 de junho de 1994, que transforma o Conselho Administrativo de Defesa Econômica - CADE em Autarquia e dispõe sobre a prevenção e a repressão às infrações contra a ordem econômica."
+    },
+    {
+      "senadoId": "553152",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-10-30-135",
+      "titulo": "Medida Provisória nº 135 de 30/10/2003",
+      "data": "2003-10-30",
+      "numero": "135",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-10-30;135",
+      "ementa": "Altera a Legislação Tributária Federal e dá outras providências."
+    },
+    {
+      "senadoId": "553150",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-10-24-134",
+      "titulo": "Medida Provisória nº 134 de 24/10/2003",
+      "data": "2003-10-24",
+      "numero": "134",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-10-24;134",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério das Cidades, no valor de R$ 80.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553148",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-10-23-133",
+      "titulo": "Medida Provisória nº 133 de 23/10/2003",
+      "data": "2003-10-23",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-10-23;133",
+      "ementa": "Cria o Programa Especial de Habitação Popular - PEHP e dá outras providências."
+    },
+    {
+      "senadoId": "553146",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-10-20-132",
+      "titulo": "Medida Provisória nº 132 de 20/10/2003",
+      "data": "2003-10-20",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-10-20;132",
+      "ementa": "Cria o Programa Bolsa Família e dá outras providências."
+    },
+    {
+      "senadoId": "553144",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-09-25-131",
+      "titulo": "Medida Provisória nº 131 de 25/09/2003",
+      "data": "2003-09-25",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-09-25;131",
+      "ementa": "Estabelece normas para o plantio e comercialização da produção de soja da safra de 2004, e dá outras providências."
+    },
+    {
+      "senadoId": "553142",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-09-17-130",
+      "titulo": "Medida Provisória nº 130 de 17/09/2003",
+      "data": "2003-09-17",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-09-17;130",
+      "ementa": "Dispõe sobre a autorização para desconto de prestações em folha de pagamento, e dá outras providências."
+    },
+    {
+      "senadoId": "553140",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-09-17-129",
+      "titulo": "Medida Provisória nº 129 de 17/09/2003",
+      "data": "2003-09-17",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-09-17;129",
+      "ementa": "Abre, em favor de Encargos Financeiros da União, crédito extraordinário no valor de R$ 2.300.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553138",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-09-01-128",
+      "titulo": "Medida Provisória nº 128 de 01/09/2003",
+      "data": "2003-09-01",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-09-01;128",
+      "ementa": "Revoga a Medida Provisória nº 124, de 11 de julho de 2003, que dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas, e dá outras providências"
+    },
+    {
+      "senadoId": "553136",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-08-04-127",
+      "titulo": "Medida Provisória nº 127 de 04/08/2003",
+      "data": "2003-08-04",
+      "numero": "127",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-08-04;127",
+      "ementa": "Dispõe sobre a criação do Programa Emergencial e Excepcional de Apoio às Concessionárias de Serviços Públicos de Distribuição de Energia Elétrica e dá outras providências."
+    },
+    {
+      "senadoId": "553134",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-07-31-126",
+      "titulo": "Medida Provisória nº 126 de 31/07/2003",
+      "data": "2003-07-31",
+      "numero": "126",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-07-31;126",
+      "ementa": "Dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas, atos de guerra ou eventos correlatos, contra aeronaves de matrícula brasileira operadas por empresas brasileiras de transporte aéreo público, excluídas as empresas de táxi aéreo."
+    },
+    {
+      "senadoId": "553132",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-07-30-125",
+      "titulo": "Medida Provisória nº 125 de 30/07/2003",
+      "data": "2003-07-30",
+      "numero": "125",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-07-30;125",
+      "ementa": "Institui no Brasil o Sistema de Certificação do Processo de Kimberley - SCPK, relativo à exportação e à importação de diamantes brutos, e dá outras providências."
+    },
+    {
+      "senadoId": "553130",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-07-11-124",
+      "titulo": "Medida Provisória nº 124 de 11/07/2003",
+      "data": "2003-07-11",
+      "numero": "124",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-07-11;124",
+      "ementa": "Dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas - ANA, e dá outras providências."
+    },
+    {
+      "senadoId": "553128",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-06-26-123",
+      "titulo": "Medida Provisória nº 123 de 26/06/2003",
+      "data": "2003-06-26",
+      "numero": "123",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-06-26;123",
+      "ementa": "Define normas de regulação para o setor farmacêutico, cria a Câmara de Regulação do Mercado de Medicamentos - CMED, altera a Lei nº 6.360, de 23 de setembro de 1976, e dá outras providências."
+    },
+    {
+      "senadoId": "553124",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-06-25-121",
+      "titulo": "Medida Provisória nº 121 de 25/06/2003",
+      "data": "2003-06-25",
+      "numero": "121",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-06-25;121",
+      "ementa": "Dispõe sobre a criação de subsidiárias integrais do Banco do Brasil S.A., para atuação no segmento de microfinanças e consórcios."
+    },
+    {
+      "senadoId": "553126",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-06-25-122",
+      "titulo": "Medida Provisória nº 122 de 25/06/2003",
+      "data": "2003-06-25",
+      "numero": "122",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-06-25;122",
+      "ementa": "Dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, autoriza o Poder Executivo a instituir o Programa de Incentivo à Implementação de Projetos de Interesse Social - PIPS, e dá outras providências."
+    },
+    {
+      "senadoId": "553122",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-06-11-120",
+      "titulo": "Medida Provisória nº 120 de 11/06/2003",
+      "data": "2003-06-11",
+      "numero": "120",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-06-11;120",
+      "ementa": "Altera o art. 16 da Medida Provisória nº 2.181-45, de 24 de agosto de 2001, que dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "553120",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-05-15-119",
+      "titulo": "Medida Provisória nº 119 de 15/05/2003",
+      "data": "2003-05-15",
+      "numero": "119",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-05-15;119",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério dos Transportes, no valor de R$ 89.128.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553116",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-04-03-117",
+      "titulo": "Medida Provisória nº 117 de 03/04/2003",
+      "data": "2003-04-03",
+      "numero": "117",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-04-03;117",
+      "ementa": "Altera dispositivos da Lei nº 10.420, de 10 de abril de 2002, que cria o Fundo Seguro-Safra e institui o benefício Seguro-Safra."
+    },
+    {
+      "senadoId": "553118",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-04-03-118",
+      "titulo": "Medida Provisória nº 118 de 03/04/2003",
+      "data": "2003-04-03",
+      "numero": "118",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-04-03;118",
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4º do art. 220 da Constituição Federal."
+    },
+    {
+      "senadoId": "553114",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-04-02-116",
+      "titulo": "Medida Provisória nº 116 de 02/04/2003",
+      "data": "2003-04-02",
+      "numero": "116",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-04-02;116",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de abril de 2003, e dá outras providências."
+    },
+    {
+      "senadoId": "553112",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-04-02-115",
+      "titulo": "Medida Provisória nº 115 de 02/04/2003",
+      "data": "2003-04-02",
+      "numero": "115",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-04-02;115",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Meio Ambiente, da Defesa e da Integração Nacional, no valor de R$ 12.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553110",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-03-31-114",
+      "titulo": "Medida Provisória nº 114 de 31/03/2003",
+      "data": "2003-03-31",
+      "numero": "114",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-03-31;114",
+      "ementa": "Dispõe sobre a repactuação e o alongamento de dívidas oriundas de operações de crédito rural contratadas sob a égide do Programa Especial de Crédito para a Reforma Agrária - PROCERA, do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, ou de outras fontes de recursos, por agricultores familiares, mini e pequenos agricultores, suas associações e cooperativas, e dá outras providências."
+    },
+    {
+      "senadoId": "553108",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-03-26-113",
+      "titulo": "Medida Provisória nº 113 de 26/03/2003",
+      "data": "2003-03-26",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-03-26;113",
+      "ementa": "Estabelece normas para a comercialização da produção de soja da safra de 2003 e dá outras providências."
+    },
+    {
+      "senadoId": "553104",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-03-21-111",
+      "titulo": "Medida Provisória nº 111 de 21/03/2003",
+      "data": "2003-03-21",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-03-21;111",
+      "ementa": "Cria a Secretaria Especial de Políticas de Promoção da Igualdade Racial, da Presidência da República, e dá outras providências."
+    },
+    {
+      "senadoId": "553106",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-03-21-112",
+      "titulo": "Medida Provisória nº 112 de 21/03/2003",
+      "data": "2003-03-21",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-03-21;112",
+      "ementa": "Cria cargos na Carreira Policial Federal e o Plano Especial de Cargos do Departamento de Polícia Federal e dá outras providências."
+    },
+    {
+      "senadoId": "553102",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-03-14-110",
+      "titulo": "Medida Provisória nº 110 de 14/03/2003",
+      "data": "2003-03-14",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-03-14;110",
+      "ementa": "Cria a Carreira de Agente Penitenciário Federal no Quadro de Pessoal do Departamento de Polícia Federal e dá outras providências."
+    },
+    {
+      "senadoId": "553100",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-03-11-109",
+      "titulo": "Medida Provisória nº 109 de 11/03/2003",
+      "data": "2003-03-11",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-03-11;109",
+      "ementa": "Autoriza o Poder Executivo a conceder subvenção econômica à Companhia de Navegação do São Francisco - FRANAVE."
+    },
+    {
+      "senadoId": "553098",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-02-27-108",
+      "titulo": "Medida Provisória nº 108 de 27/02/2003",
+      "data": "2003-02-27",
+      "numero": "108",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-02-27;108",
+      "ementa": "Cria o Programa Nacional de Acesso à Alimentação - \"Cartão Alimentação\"."
+    },
+    {
+      "senadoId": "553096",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-02-10-107",
+      "titulo": "Medida Provisória nº 107 de 10/02/2003",
+      "data": "2003-02-10",
+      "numero": "107",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-02-10;107",
+      "ementa": "Altera dispositivos das Leis nºs 10.637, de 30 de dezembro de 2002, e 9.317, de 5 de dezembro de 1996, e dá outras providências."
+    },
+    {
+      "senadoId": "553094",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-01-22-106",
+      "titulo": "Medida Provisória nº 106 de 22/01/2003",
+      "data": "2003-01-22",
+      "numero": "106",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-01-22;106",
+      "ementa": "Autoriza o Poder Executivo a instituir o Serviço Social Autônomo Agência de Promoção de Exportações do Brasil - APEX-Brasil, altera os arts. 8º e 11 da Lei nº 8.029, de 12 de abril de 1990, e dá outras providências."
+    },
+    {
+      "senadoId": "553092",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-01-20-105",
+      "titulo": "Medida Provisória nº 105 de 20/01/2003",
+      "data": "2003-01-20",
+      "numero": "105",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-01-20;105",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 128.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553090",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-01-09-104",
+      "titulo": "Medida Provisória nº 104 de 09/01/2003",
+      "data": "2003-01-09",
+      "numero": "104",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-01-09;104",
+      "ementa": "Revoga o art. 374 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil."
+    },
+    {
+      "senadoId": "553088",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2003-01-01-103",
+      "titulo": "Medida Provisória nº 103 de 01/01/2003",
+      "data": "2003-01-01",
+      "numero": "103",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-01-01;103",
+      "ementa": "Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências"
+    }
+  ],
+  "pendencias": []
+}

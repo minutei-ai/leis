@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-06-23-13454",
+  "titulo": "Lei nº 13.454 de 23/06/2017",
+  "data": "2017-06-23",
+  "fonte": "https://normas.leg.br/api/public/binario/9598bcd3-51e8-4c92-9fa1-75d4d8c9f2a3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-06-23;13454",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-06-23%3B13454&tipo_documento=maior-detalhe",
+  "sha256_dados": "fad7067e3c93ca98f3f66b457e2df3c37a9796224578a425af4676ec9b449ddd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:11.865Z",
+  "sha256_fonte": "bf510775ae58a6a88e2485fc69ef78e09bd067b0171a766bf230a69a257f51a4",
+  "sha256_markdown": "e236af8f77f3f1cfd81e5a2a272b8235205040c1a7d46fc257eef3b7e14609cd"
+}

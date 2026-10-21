@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-07-21-13149",
+  "titulo": "Lei nº 13.149 de 21/07/2015",
+  "data": "2015-07-21",
+  "fonte": "https://normas.leg.br/api/public/binario/f4ead777-340f-467a-a75a-aa247e79f15b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-07-21;13149",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-07-21%3B13149&tipo_documento=maior-detalhe",
+  "sha256_dados": "229d7f6f28b70a958e0c9bcd4c025a116e3eb3daad18cf8c9d3b54311f54268c",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:59.180Z",
+  "sha256_fonte": "5d4f2cc948e25aa1bc84ae611629d2cc09d5c25f183cd60ded5789772191b8bc",
+  "sha256_markdown": "3ba45cf030a6a397e1df992d6f7c3c09500353afb91f478c554a41b2a671e657"
+}

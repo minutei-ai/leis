@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-05-07-13658",
+  "titulo": "Lei nº 13.658 de 07/05/2018",
+  "data": "2018-05-07",
+  "fonte": "https://normas.leg.br/api/public/binario/7b9514b2-d249-42a8-a4f4-c21116e6e058/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-05-07;13658",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-05-07%3B13658&tipo_documento=maior-detalhe",
+  "sha256_dados": "03faf2fdfcf798d79c129afac03ce25ae5f1f9ba7aefb6a3ea84301c0203bf82",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:48.556Z",
+  "sha256_fonte": "cf68be7950f5ea094e95dbf8391d1f3728f6a39349e8a331a94f3c94e4749d9c",
+  "sha256_markdown": "3ac0cff9cef30ba67d2b2d45537b627c65de3f3320ea754a68bb622ed7545131"
+}

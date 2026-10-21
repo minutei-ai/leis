@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-05-26-13128",
+  "titulo": "Lei nº 13.128 de 26/05/2015",
+  "data": "2015-05-26",
+  "fonte": "https://normas.leg.br/api/public/binario/0bc38430-ad7b-4b23-a6b1-a5517efb9de9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-05-26;13128",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-05-26%3B13128&tipo_documento=maior-detalhe",
+  "sha256_dados": "ee93d808298631003fec8953e4cf1d5067a3c8fecfb2e576572ff7cb6f633439",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:26.441Z",
+  "sha256_fonte": "fd8c293e316acc6d5d41b3d869c88b43bfb0e6040698ea4d0a25f6a9ee071936",
+  "sha256_markdown": "0e87c7b466b5eb3bb9ad664c78a2ab98a3f919798a581449f65c457a6e9b8287"
+}

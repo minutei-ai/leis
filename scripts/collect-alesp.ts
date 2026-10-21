@@ -6,20 +6,30 @@ import { AlespDetail, AlespFailure, alespRequest, alespSource, discoverAlespPage
 import { Metadata, Source } from "./catalog";
 import { convert, decodeHtml } from "./convert";
 import { intact, saveDocument } from "./document";
+import { CollectionFailure, pendingFailures } from "./failures";
 
 const args = parseArgs({ options: {
   limit: { type: "string", default: "1000000" },
   refresh: { type: "boolean", default: false },
   "skip-failures": { type: "boolean", default: false },
+  "only-failures": { type: "boolean", default: false },
   "discover-only": { type: "boolean", default: false },
 } });
 const limit = Schema.decodeUnknownSync(Schema.NumberFromString.pipe(Schema.int(), Schema.positive()))(args.values.limit);
-const Failure = Schema.Struct({ id: Schema.String, fonte: Schema.String, coletado_em: Schema.String, erro: Schema.String });
+Schema.decodeUnknownSync(Schema.Literal(false))(args.values["only-failures"] && args.values["skip-failures"]);
+Schema.decodeUnknownSync(Schema.Literal(false))(args.values["only-failures"] && args.values["discover-only"]);
+const Failure = Schema.Struct({ ...CollectionFailure.fields, fonte: Schema.String });
 
 await Effect.runPromise(Effect.gen(function* () {
   for (const path of ["estaduais/SP", "fontes", "falhas"])
     yield* Effect.tryPromise(() => mkdir(path, { recursive: true }));
   const seen = new Set<string>();
+  const retries = new Set<string>();
+  if (args.values["only-failures"]) {
+    const pending = yield* pendingFailures("br-sp-", limit);
+    for (const id of pending) retries.add(id);
+  }
+  if (args.values["only-failures"] && retries.size === 0) return yield* Effect.log("Nenhuma falha pendente");
   const processed = new Set<string>();
   const failures = new Set<string>();
   const first = yield* discoverAlespPage(0, args.values.refresh);
@@ -34,7 +44,8 @@ await Effect.runPromise(Effect.gen(function* () {
       const id = `br-sp-norma-${record.idNorma}`;
       if (seen.has(id)) continue;
       seen.add(id);
-      if (!args.values.refresh && (yield* intact(id))) continue;
+      if (!args.values.refresh && !args.values["only-failures"] && (yield* intact(id))) continue;
+      if (args.values["only-failures"] && !retries.has(id)) continue;
       if (args.values["skip-failures"] && (yield* Effect.tryPromise(() => Bun.file(`falhas/${id}.json`).exists()))) continue;
       processed.add(id);
       const result = yield* Effect.gen(function* () {

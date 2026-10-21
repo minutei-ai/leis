@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-07-06-13143",
+  "titulo": "Lei nº 13.143 de 06/07/2015",
+  "data": "2015-07-06",
+  "fonte": "https://normas.leg.br/api/public/binario/ae1f6624-1926-46dd-b1c7-c9bde0d31f63/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-07-06;13143",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-07-06%3B13143&tipo_documento=maior-detalhe",
+  "sha256_dados": "d0975320d5558d4ff09c9911c060a5573c60ee42d4d0a54c09abeeeebf59ea47",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:07.115Z",
+  "sha256_fonte": "57ae62949d5df992c2f294173b9f8cf4868cd47300592fdf7fb49695f501efcd",
+  "sha256_markdown": "d205001aaa6f1f4dc78d8808d39a1a5f11ac94596cc1ba5abe20a2393b76173f"
+}

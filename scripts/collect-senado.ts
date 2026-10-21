@@ -5,6 +5,7 @@ import { Clock, Cause, Effect, Exit, Schema } from "effect";
 import { Metadata, Source, catalog } from "./catalog";
 import { convert } from "./convert";
 import { intact, saveDocument } from "./document";
+import { CollectionFailure, pendingFailures } from "./failures";
 import { Inventory, NormResponse, request, selectEncoding } from "./senado";
 
 const args = parseArgs({
@@ -12,16 +13,16 @@ const args = parseArgs({
     limit: { type: "string", default: "1000000" },
     refresh: { type: "boolean", default: false },
   "skip-failures": { type: "boolean", default: false },
+  "only-failures": { type: "boolean", default: false },
   },
 });
 const limit = Schema.decodeUnknownSync(
   Schema.NumberFromString.pipe(Schema.int(), Schema.positive()),
 )(args.values.limit);
+Schema.decodeUnknownSync(Schema.Literal(false))(args.values["only-failures"] && args.values["skip-failures"]);
 const Failure = Schema.Struct({
-  id: Schema.String,
+  ...CollectionFailure.fields,
   urn: Schema.String,
-  coletado_em: Schema.String,
-  erro: Schema.String,
 });
 
 await Effect.runPromise(
@@ -31,6 +32,12 @@ await Effect.runPromise(
     const paths = yield* Effect.tryPromise(() =>
       Array.fromAsync(new Bun.Glob("catalogos/senado/*/*.json").scan(".")),
     );
+    const retries = new Set<string>();
+    if (args.values["only-failures"]) {
+      const pending = yield* pendingFailures("br-federal-", limit);
+      for (const id of pending) retries.add(id);
+    }
+    if (args.values["only-failures"] && retries.size === 0) return yield* Effect.log("Nenhuma falha pendente");
     const seen = new Set(catalog.map((source) => source.id));
     const processed = new Set<string>();
     const failures: Array<string> = [];
@@ -42,9 +49,10 @@ await Effect.runPromise(
       for (const norm of inventory.normas) {
         if (seen.has(norm.id)) continue;
         seen.add(norm.id);
-        if (!args.values.refresh && (yield* intact(norm.id))) continue;
+        if (!args.values.refresh && !args.values["only-failures"] && (yield* intact(norm.id))) continue;
         if (processed.size >= limit) break;
-        if (args.values["skip-failures"] && (yield* Effect.tryPromise(() => Bun.file(`falhas/${norm.id}.json`).exists()))) continue;
+        if (args.values["only-failures"] && !retries.has(norm.id)) continue;
+      if (args.values["skip-failures"] && (yield* Effect.tryPromise(() => Bun.file(`falhas/${norm.id}.json`).exists()))) continue;
         processed.add(norm.id);
         const result = yield* Effect.gen(function* () {
           const dataUrl = `https://normas.leg.br/api/public/normas?urn=${encodeURIComponent(norm.urn)}&tipo_documento=maior-detalhe`;

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-28-13229",
+  "titulo": "Lei nº 13.229 de 28/12/2015",
+  "data": "2015-12-28",
+  "fonte": "https://normas.leg.br/api/public/binario/a30fd1a0-368f-4630-a3be-85ee9cca4818/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-28;13229",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-28%3B13229&tipo_documento=maior-detalhe",
+  "sha256_dados": "0f5ae6a190eb4658b5a4ef3c3df654f59db6e4b818b8307ccc5993c77af614ad",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:16.088Z",
+  "sha256_fonte": "f47e07a93ee7f134693eff7bcdcc4351277dc00dd280157f5309cd64e21d84b5",
+  "sha256_markdown": "0c0ced5c9c72dcdd8d06de65c685e4d1a61d42de4f5aa67d68159987df91ed71"
+}

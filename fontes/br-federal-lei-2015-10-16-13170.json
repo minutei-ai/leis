@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-10-16-13170",
+  "titulo": "Lei nº 13.170 de 16/10/2015",
+  "data": "2015-10-16",
+  "fonte": "https://normas.leg.br/api/public/binario/3f2942a2-7492-4880-ade4-ebe03dc44ea7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-10-16;13170",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-10-16%3B13170&tipo_documento=maior-detalhe",
+  "sha256_dados": "b7ed3e1f5ec77af90eeea1e57684c0783490e3c7333fd34d47ee74c18e56c386",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:31.800Z",
+  "sha256_fonte": "6ff7df2e1b0ba891d72830beac72e247e0bc861a119ad17a5ebd79d8c7ca5afc",
+  "sha256_markdown": "9135128fbdebdad55736b44e3678c67adb75696bf4d7aa65caf9fc96140a3c96"
+}

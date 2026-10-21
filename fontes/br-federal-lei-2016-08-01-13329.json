@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-08-01-13329",
+  "titulo": "Lei nº 13.329 de 01/08/2016",
+  "data": "2016-08-01",
+  "fonte": "https://normas.leg.br/api/public/binario/5f6a76d6-e2cc-4e2f-b1d9-88a2f8e5eec7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-08-01;13329",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-08-01%3B13329&tipo_documento=maior-detalhe",
+  "sha256_dados": "1401c9fe88a48882974a7d05c962fed0be1552e5e4faca312bd1ec82fd3664e7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:54.094Z",
+  "sha256_fonte": "cf1034331cd1eb912ab4743461680c64bb3f312fc2deadc5d942f4678d835f0a",
+  "sha256_markdown": "2c6caec3564cbd198d96a60bfc97951f60d8ee68cfd3a2b5c48df0c2a3c46002"
+}

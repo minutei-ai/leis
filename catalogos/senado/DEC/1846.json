@@ -1,0 +1,499 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1846",
+  "tipo": "DEC",
+  "ano": 1846,
+  "coletado_em": "2026-10-21T08:52:52.669Z",
+  "normas": [
+    {
+      "senadoId": "387909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-12-30-491",
+      "titulo": "Decreto nº 491 de 30/12/1846",
+      "data": "1846-12-30",
+      "numero": "491",
+      "urn": "urn:lex:br:federal:decreto:1846-12-30;491",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE SILVEIRAS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "387904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-12-30-490",
+      "titulo": "Decreto nº 490 de 30/12/1846",
+      "data": "1846-12-30",
+      "numero": "490",
+      "urn": "urn:lex:br:federal:decreto:1846-12-30;490",
+      "ementa": "REGULA A MANEIRA DE SE PASSAREM AS CARTAS DE HABILITAÇÃO AOS ALUNOS DA AULA DO COMÉRCIO DA CIDADE DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "387893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-12-19-488",
+      "titulo": "Decreto nº 488 de 19/12/1846",
+      "data": "1846-12-19",
+      "numero": "488",
+      "urn": "urn:lex:br:federal:decreto:1846-12-19;488",
+      "ementa": "ELEVA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS COMARCAS DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "387899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-12-19-489",
+      "titulo": "Decreto nº 489 de 19/12/1846",
+      "data": "1846-12-19",
+      "numero": "489",
+      "urn": "urn:lex:br:federal:decreto:1846-12-19;489",
+      "ementa": "FAZ EXTENSIVO AOS EMPREGADOS DA CONTADORIA GERAL DA MARINHA O DECRETO DE DOIS DE DEZEMBRO DE MIL OITOCENTOS QUARENTA E DOIS, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "387888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-11-28-487",
+      "titulo": "Decreto nº 487 de 28/11/1846",
+      "data": "1846-11-28",
+      "numero": "487",
+      "urn": "urn:lex:br:federal:decreto:1846-11-28;487",
+      "ementa": "PARA EXECUÇÃO DA LEI 401 DE 11 DE SETEMBRO DESTE ANO, QUANTO AO SEU PRIMEIRO ARTIGO."
+    },
+    {
+      "senadoId": "387883",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-11-26-486",
+      "titulo": "Decreto nº 486 de 26/11/1846",
+      "data": "1846-11-26",
+      "numero": "486",
+      "urn": "urn:lex:br:federal:decreto:1846-11-26;486",
+      "ementa": "DANDO NOVA ORGANIZAÇÃO ÀS COMPANHIAS DE ARTÍFICES DA CORTE."
+    },
+    {
+      "senadoId": "387878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-11-26-485",
+      "titulo": "Decreto nº 485 de 26/11/1846",
+      "data": "1846-11-26",
+      "numero": "485",
+      "urn": "urn:lex:br:federal:decreto:1846-11-26;485",
+      "ementa": "REORGANIZANDO O DEPÓSITO DE RECRUTAS DA CORTE."
+    },
+    {
+      "senadoId": "387873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-11-25-484",
+      "titulo": "Decreto nº 484 de 25/11/1846",
+      "data": "1846-11-25",
+      "numero": "484",
+      "urn": "urn:lex:br:federal:decreto:1846-11-25;484",
+      "ementa": "DECLARA COMO DEVE AVALIAR-SE A RENDA LIQUIDA EM PRATA, QUE, NA CONFORMIDADE DA LEI REGULAMENTAR DAS ELEIÇÕES, DEVE TER O CIDADÃO PARA VOTAR, E SER VOTADO."
+    },
+    {
+      "senadoId": "387868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-11-15-483",
+      "titulo": "Decreto nº 483 de 15/11/1846",
+      "data": "1846-11-15",
+      "numero": "483",
+      "urn": "urn:lex:br:federal:decreto:1846-11-15;483",
+      "ementa": "PERDOA AOS RÉUS DE PRIMEIRA DESERÇÃO, E AOS DE SEGUNDA SIMPLES D'ARMADA, E DOS CORPOS DE IMPERIAIS MARINHEIROS E DE ARTILHARIA DA MARINHA."
+    },
+    {
+      "senadoId": "387864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-11-14-482",
+      "titulo": "Decreto nº 482 de 14/11/1846",
+      "data": "1846-11-14",
+      "numero": "482",
+      "urn": "urn:lex:br:federal:decreto:1846-11-14;482",
+      "ementa": "ESTABELECE O REGULAMENTO PARA O REGISTRO GERAL DAS HIPOTECAS."
+    },
+    {
+      "senadoId": "387859",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-10-24-481",
+      "titulo": "Decreto nº 481 de 24/10/1846",
+      "data": "1846-10-24",
+      "numero": "481",
+      "urn": "urn:lex:br:federal:decreto:1846-10-24;481",
+      "ementa": "PROVIDENCIANDO SOBRE OS INCONVENIENTES, QUE RESULTAM DA FACILIDADE COM QUE SE COMPRAM E VENDEM NOS PORTOS DO BRASIL EMBARCAÇÕES ESTRANGEIRAS."
+    },
+    {
+      "senadoId": "387854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-10-24-480",
+      "titulo": "Decreto nº 480 de 24/10/1846",
+      "data": "1846-10-24",
+      "numero": "480",
+      "urn": "urn:lex:br:federal:decreto:1846-10-24;480",
+      "ementa": "RESOLVE DIVERSAS DUVIDAS SOBRE A LEI REGULAMENTAR DAS ELEIÇÕES, A FIM DE QUE A MESMA LEI SEJA UNIFORMEMENTE EXECUTADA EM TODO O IMPERIO."
+    },
+    {
+      "senadoId": "387849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-10-17-479",
+      "titulo": "Decreto nº 479 de 17/10/1846",
+      "data": "1846-10-17",
+      "numero": "479",
+      "urn": "urn:lex:br:federal:decreto:1846-10-17;479",
+      "ementa": "ESTABELECE UMA BIBLIOTECA DE MARINHA NO ARSENAL DA MARINHA DA CORTE."
+    },
+    {
+      "senadoId": "387844",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-10-12-478",
+      "titulo": "Decreto nº 478 de 12/10/1846",
+      "data": "1846-10-12",
+      "numero": "478",
+      "urn": "urn:lex:br:federal:decreto:1846-10-12;478",
+      "ementa": "PARA A ARRECADAÇÃO DO IMPOSTO DO OURO."
+    },
+    {
+      "senadoId": "387839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-10-08-477",
+      "titulo": "Decreto nº 477 de 08/10/1846",
+      "data": "1846-10-08",
+      "numero": "477",
+      "urn": "urn:lex:br:federal:decreto:1846-10-08;477",
+      "ementa": "ESTABELECE A REGRA QUE SE DEVE OBSERVAR NA ISENÇÃO DIREITOS CONCEDIDA AOS CHEFES DAS MISSÕES DIPLOMÁTICAS ACREDITADOS NESTA CORTE, PARA MELHOR EXECUÇÃO DO ARTIGO 91, PARÁGRAFO 3º DO REGULAMENTO DAS ALFÂNDEGAS DO IMPÉRIO DE 22 DE JUNHO DE 1836."
+    },
+    {
+      "senadoId": "387834",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-09-29-476",
+      "titulo": "Decreto nº 476 de 29/09/1846",
+      "data": "1846-09-29",
+      "numero": "476",
+      "urn": "urn:lex:br:federal:decreto:1846-09-29;476",
+      "ementa": "APROVA O REGULAMENTO PARA A EXECUÇÃO DO ARTIGO 17 DO ESTATUTO DA ESCOLA MILITAR."
+    },
+    {
+      "senadoId": "387829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-09-23-475",
+      "titulo": "Decreto nº 475 de 23/09/1846",
+      "data": "1846-09-23",
+      "numero": "475",
+      "urn": "urn:lex:br:federal:decreto:1846-09-23;475",
+      "ementa": "MODIFICA O DECRETO 326 DE 2 DE OUTUBRO DE 1843, QUE ESTABELECE AS ESTAÇÕES NAVAIS EM TODA A EXTENSÃO DA COSTA DO IMPÉRIO."
+    },
+    {
+      "senadoId": "387821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-09-19-474",
+      "titulo": "Decreto nº 474 de 19/09/1846",
+      "data": "1846-09-19",
+      "numero": "474",
+      "urn": "urn:lex:br:federal:decreto:1846-09-19;474",
+      "ementa": "DESIGNA OS TERMOS, AOS QUAIS SE REÚNEM OS DAS VILAS DO RIO BONITO, DA ESTRELA E DA BARRA DE SÃO JOÃO, CRIADAS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "387816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-09-12-473",
+      "titulo": "Decreto nº 473 de 12/09/1846",
+      "data": "1846-09-12",
+      "numero": "473",
+      "urn": "urn:lex:br:federal:decreto:1846-09-12;473",
+      "ementa": "MANDANDO ORGANIZAR NA PROVÍNCIA DE SÃO PEDRO DO SUL UMA PAGADORIA MILITAR."
+    },
+    {
+      "senadoId": "387811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-29-472",
+      "titulo": "Decreto nº 472 de 29/08/1846",
+      "data": "1846-08-29",
+      "numero": "472",
+      "urn": "urn:lex:br:federal:decreto:1846-08-29;472",
+      "ementa": "SEPARA O TERMO DA VILA DA IMPERATRIZ DO DA VILA DE BATURITÉ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "387796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-26-469",
+      "titulo": "Decreto nº 469 de 26/08/1846",
+      "data": "1846-08-26",
+      "numero": "469",
+      "urn": "urn:lex:br:federal:decreto:1846-08-26;469",
+      "ementa": "REVOGA O DE NÚMERO 395 DE 23 DE NOVEMBRO DE 1844."
+    },
+    {
+      "senadoId": "387806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-26-471",
+      "titulo": "Decreto nº 471 de 26/08/1846",
+      "data": "1846-08-26",
+      "numero": "471",
+      "urn": "urn:lex:br:federal:decreto:1846-08-26;471",
+      "ementa": "APROVA A TABELA QUE MARCA AS AJUDAS DE CUSTO DE IDA E VOLTA, PARA OS COMANDANTES D'ARMAS DE PROVÍNCIAS."
+    },
+    {
+      "senadoId": "387801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-26-470",
+      "titulo": "Decreto nº 470 de 26/08/1846",
+      "data": "1846-08-26",
+      "numero": "470",
+      "urn": "urn:lex:br:federal:decreto:1846-08-26;470",
+      "ementa": "MANDA ESTABELECER NO ARSENAL DE MARINHA DA CORTE UMA AULA DE GEOMETRIA APLICADA ÀS ARTES."
+    },
+    {
+      "senadoId": "387791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-23-468",
+      "titulo": "Decreto nº 468 de 23/08/1846",
+      "data": "1846-08-23",
+      "numero": "468",
+      "urn": "urn:lex:br:federal:decreto:1846-08-23;468",
+      "ementa": "MODIFICA OS ARTIGOS 18 E 19 DO REGULAMENTO DA BOTICA DO HOSPITAL DA MARINHA DA CORTE."
+    },
+    {
+      "senadoId": "387787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-23-467",
+      "titulo": "Decreto nº 467 de 23/08/1846",
+      "data": "1846-08-23",
+      "numero": "467",
+      "urn": "urn:lex:br:federal:decreto:1846-08-23;467",
+      "ementa": "DECLARA A LEGISLAÇÃO A RESPEITO DO PAGAMENTO DO LAUDÊMIO, PELA VENDA DOS PRÉDIOS RUSTIVOS E URBANOS, EM TERRENOS AFORADOS."
+    },
+    {
+      "senadoId": "387782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-22-466",
+      "titulo": "Decreto nº 466 de 22/08/1846",
+      "data": "1846-08-22",
+      "numero": "466",
+      "urn": "urn:lex:br:federal:decreto:1846-08-22;466",
+      "ementa": "APROVA O PLANO DA NOVA ORGANIZAÇÃO DOS CORPOS FIXOS DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "387777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-17-465",
+      "titulo": "Decreto nº 465 de 17/08/1846",
+      "data": "1846-08-17",
+      "numero": "465",
+      "urn": "urn:lex:br:federal:decreto:1846-08-17;465",
+      "ementa": "MANDANDO EXECUTAR O REGULAMENTO PARA A ADMINISTRAÇÃO DOS TERRENOS DIAMANTINOS."
+    },
+    {
+      "senadoId": "387772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-17-464",
+      "titulo": "Decreto nº 464 de 17/08/1846",
+      "data": "1846-08-17",
+      "numero": "464",
+      "urn": "urn:lex:br:federal:decreto:1846-08-17;464",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DO INSTITUTO VACÍNICO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "387767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-08-463",
+      "titulo": "Decreto nº 463 de 08/08/1846",
+      "data": "1846-08-08",
+      "numero": "463",
+      "urn": "urn:lex:br:federal:decreto:1846-08-08;463",
+      "ementa": "REÚNE O TERMO DA VILA DE SÃO MIGUEL AOS DA CIDADE DAS ALAGOAS E VILA DE SANTA LUZIA DO NORTE, DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "387762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-08-01-462",
+      "titulo": "Decreto nº 462 de 01/08/1846",
+      "data": "1846-08-01",
+      "numero": "462",
+      "urn": "urn:lex:br:federal:decreto:1846-08-01;462",
+      "ementa": "ESTABELECE OS LUGARES DE PROFESSOR SUBSTITUTO, E PROFESSORA SUBSTITUTA DAS ESCOLAS PÚBLICAS DE INSTRUÇÃO PRIMÁRIA NO MUNICÍPIO DA CORTE, E LHES DESIGNA O VENCIMENTO."
+    },
+    {
+      "senadoId": "387757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-31-461",
+      "titulo": "Decreto nº 461 de 31/07/1846",
+      "data": "1846-07-31",
+      "numero": "461",
+      "urn": "urn:lex:br:federal:decreto:1846-07-31;461",
+      "ementa": "DETERMINA QUE NA REPARTIÇÃO DA MARINHA HAJA UM ENGENHEIRO MILITAR PARA DIRIGIR AS OBRAS MILITARES, E CIVIS DO RESPECTIVO MINISTÉRIO."
+    },
+    {
+      "senadoId": "387752",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-28-460",
+      "titulo": "Decreto nº 460 de 28/07/1846",
+      "data": "1846-07-28",
+      "numero": "460",
+      "urn": "urn:lex:br:federal:decreto:1846-07-28;460",
+      "ementa": "ESTABELECE UMA CAPITANIA DO PORTO NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "387747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-27-459",
+      "titulo": "Decreto nº 459 de 27/07/1846",
+      "data": "1846-07-27",
+      "numero": "459",
+      "urn": "urn:lex:br:federal:decreto:1846-07-27;459",
+      "ementa": "REGULANDO OS VENCIMENTOS DOS EMPREGADOS DE FAZENDA, NOS CASOS EM QUE SUBSTITUEM OS IMPEDIDOS, OU EXERCEM INTERINAMENTE EMPREGOS VAGOS."
+    },
+    {
+      "senadoId": "387742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-25-458",
+      "titulo": "Decreto nº 458 de 25/07/1846",
+      "data": "1846-07-25",
+      "numero": "458",
+      "urn": "urn:lex:br:federal:decreto:1846-07-25;458",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "387737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-22-457",
+      "titulo": "Decreto nº 457 de 22/07/1846",
+      "data": "1846-07-22",
+      "numero": "457",
+      "urn": "urn:lex:br:federal:decreto:1846-07-22;457",
+      "ementa": "APROVANDO O REGULAMENTO PARA O IMPERIAL OBSERVATÓRIO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "387732",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-06-456",
+      "titulo": "Decreto nº 456 de 06/07/1846",
+      "data": "1846-07-06",
+      "numero": "456",
+      "urn": "urn:lex:br:federal:decreto:1846-07-06;456",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DA AULA DO COMÉRCIO DA CIDADE DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "387727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-04-455",
+      "titulo": "Decreto nº 455 de 04/07/1846",
+      "data": "1846-07-04",
+      "numero": "455",
+      "urn": "urn:lex:br:federal:decreto:1846-07-04;455",
+      "ementa": "CRIANDO MAIS UM REGIMENTO DE CAVALARIA LIGEIRA SOB O NÚMERO 4º."
+    },
+    {
+      "senadoId": "387722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-07-03-454",
+      "titulo": "Decreto nº 454 de 03/07/1846",
+      "data": "1846-07-03",
+      "numero": "454",
+      "urn": "urn:lex:br:federal:decreto:1846-07-03;454",
+      "ementa": "APROVA AS INSTRUÇÕES ACERCA DO MODO POR QUE DEVE SER EFETUADO O PAGAMENTO DAS DESPESAS DO ARSENAL DE GUERRA DA CORTE."
+    },
+    {
+      "senadoId": "387717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-06-25-453",
+      "titulo": "Decreto nº 453 de 25/06/1846",
+      "data": "1846-06-25",
+      "numero": "453",
+      "urn": "urn:lex:br:federal:decreto:1846-06-25;453",
+      "ementa": "REUNE A VARA D'ÓRFÃOS À MUNICIPAL DO TERMO DE SÃO FRANCISCO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "387712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-06-20-452",
+      "titulo": "Decreto nº 452 de 20/06/1846",
+      "data": "1846-06-20",
+      "numero": "452",
+      "urn": "urn:lex:br:federal:decreto:1846-06-20;452",
+      "ementa": "ADITA O REGULAMENTO 411 DE 4 DE JUNHO DE 1845, SOBRE A TAXA DOS ESCRAVOS."
+    },
+    {
+      "senadoId": "387705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-06-15-451",
+      "titulo": "Decreto nº 451 de 15/06/1846",
+      "data": "1846-06-15",
+      "numero": "451",
+      "urn": "urn:lex:br:federal:decreto:1846-06-15;451",
+      "ementa": "REORGANIZANDO AS RECEBEDORIAS DAS RENDAS INTERNAS."
+    },
+    {
+      "senadoId": "387700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-06-02-450",
+      "titulo": "Decreto nº 450 de 02/06/1846",
+      "data": "1846-06-02",
+      "numero": "450",
+      "urn": "urn:lex:br:federal:decreto:1846-06-02;450",
+      "ementa": "SEPARA O TERMO DA VILA DE SANTA BÁRBARA DO DA CIDADE DE MARIANA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "387695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-05-23-449",
+      "titulo": "Decreto nº 449 de 23/05/1846",
+      "data": "1846-05-23",
+      "numero": "449",
+      "urn": "urn:lex:br:federal:decreto:1846-05-23;449",
+      "ementa": "MANDA NOMEAR UMA COMISSÃO PARA LIQUIDAR A CONTA DO PAGAMENTO DE PRESAS FEITAS, TANTO NA GUERRA DA INDEPENDÊNCIA, COMO NA DO RIO DA PRATA."
+    },
+    {
+      "senadoId": "387690",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-05-19-448",
+      "titulo": "Decreto nº 448 de 19/05/1846",
+      "data": "1846-05-19",
+      "numero": "448",
+      "urn": "urn:lex:br:federal:decreto:1846-05-19;448",
+      "ementa": "MANDA PÔR EM EXECUÇÃO O REGULAMENTO DA CONTADORIA GERAL DA MARINHA, E CONTADORIAS DE MARINHA DAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "387685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-05-19-447",
+      "titulo": "Decreto nº 447 de 19/05/1846",
+      "data": "1846-05-19",
+      "numero": "447",
+      "urn": "urn:lex:br:federal:decreto:1846-05-19;447",
+      "ementa": "MANDA PÔR EM EXECUÇÃO O REGULAMENTO PARA AS CAPITANIAS DOS PORTOS."
+    },
+    {
+      "senadoId": "387680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-04-07-446",
+      "titulo": "Decreto nº 446 de 07/04/1846",
+      "data": "1846-04-07",
+      "numero": "446",
+      "urn": "urn:lex:br:federal:decreto:1846-04-07;446",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NA VILA DE JUNDIAÍ DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "387675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-03-05-445",
+      "titulo": "Decreto nº 445 de 05/03/1846",
+      "data": "1846-03-05",
+      "numero": "445",
+      "urn": "urn:lex:br:federal:decreto:1846-03-05;445",
+      "ementa": "IGUALANDO OS VENCIMENTOS DAS PRAÇAS DA COMPANHIA DE PEDESTRES DA PROVÍNCIA DE MATO GROSSO AOS DAS DOS CORPOS DE CAÇADORES DO EXÉRCITO."
+    },
+    {
+      "senadoId": "387670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-01-24-444",
+      "titulo": "Decreto nº 444 de 24/01/1846",
+      "data": "1846-01-24",
+      "numero": "444",
+      "urn": "urn:lex:br:federal:decreto:1846-01-24;444",
+      "ementa": "ALTERA AS DISPOSIÇÕES DO DECRETO 319 DE 25 DE AGOSTO DE 1843."
+    },
+    {
+      "senadoId": "387665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1846-01-24-443",
+      "titulo": "Decreto nº 443 de 24/01/1846",
+      "data": "1846-01-24",
+      "numero": "443",
+      "urn": "urn:lex:br:federal:decreto:1846-01-24;443",
+      "ementa": "SEPARA O TERMO DE TAMANDUÁ DOS DE VILA NOVA DA FORMIGA E PIUMI, NA PROVÍNCIA DE MINAS GERAIS."
+    }
+  ],
+  "pendencias": []
+}

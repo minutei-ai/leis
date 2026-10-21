@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-16-13627",
+  "titulo": "Lei nº 13.627 de 16/01/2018",
+  "data": "2018-01-16",
+  "fonte": "https://normas.leg.br/api/public/binario/7981ff46-a7d1-41e3-974d-74368c7f666c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-16;13627",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-16%3B13627&tipo_documento=maior-detalhe",
+  "sha256_dados": "30b84d9a69f3cd497468ea0a21425110c0779d52af325fd3e7e6b76a09fa19eb",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:27.468Z",
+  "sha256_fonte": "a6d306e3e5f21932a7e394ae21c7dd2905c7f72af4b7f88caeebb14f4c0a3f45",
+  "sha256_markdown": "e159e130a2d5acfcb05051aae473e5d72f78cdeee48d410c472be657e6b8fb1d"
+}

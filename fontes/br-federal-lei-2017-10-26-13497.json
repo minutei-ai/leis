@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-10-26-13497",
+  "titulo": "Lei nº 13.497 de 26/10/2017",
+  "data": "2017-10-26",
+  "fonte": "https://normas.leg.br/api/public/binario/eab18bf4-f27b-49b0-b2e0-769421df3047/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-10-26;13497",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-10-26%3B13497&tipo_documento=maior-detalhe",
+  "sha256_dados": "58ece5b691a2624c3231be5751a7ba073800df5a847b825d0eb93d7ce9b0a487",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:14.350Z",
+  "sha256_fonte": "416de2847718abc553a9e45c9fa1ebab68e4525d62766814b0abc68d8b52a5b6",
+  "sha256_markdown": "b1a2586aabd630844a84e0ae4790a9533f9c5d2c740e0ab89893cd94949355f7"
+}

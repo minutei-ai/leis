@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-14-13204",
+  "titulo": "Lei nº 13.204 de 14/12/2015",
+  "data": "2015-12-14",
+  "fonte": "https://normas.leg.br/api/public/binario/d0180638-6828-4d4a-8581-ca427f104a16/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-14;13204",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-14%3B13204&tipo_documento=maior-detalhe",
+  "sha256_dados": "e1be83d41a0a9c92fcece2d4ecb1ccc96a3034bd63912e5dc624159542ec88d6",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:47.756Z",
+  "sha256_fonte": "843ec56613bbc8aa069ad4f65279920b7fbc1245cc882ab1ac7308ed0105e5a7",
+  "sha256_markdown": "264e36bb82dc43b8bfddb0a7541b9c9461ef61a8525ad9f0b0bf4374472627b3"
+}

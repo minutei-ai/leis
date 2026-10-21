@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-10-26-13499",
+  "titulo": "Lei nº 13.499 de 26/10/2017",
+  "data": "2017-10-26",
+  "fonte": "https://normas.leg.br/api/public/binario/4a4c2eff-b5f0-4d88-945b-3e80d40d4fdb/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-10-26;13499",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-10-26%3B13499&tipo_documento=maior-detalhe",
+  "sha256_dados": "7d9795634bbee92720ef1e860fb8039eb675da06aa78e85f26ab9da985d45a15",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:11.664Z",
+  "sha256_fonte": "8ffedc9a95ce50ec91b920de4e7a14c858ec5f3343ee73713368e5410bccce19",
+  "sha256_markdown": "57a3e3fb513569cdff05233a7ee50f43f80cb5721d852374b7b79027c623b39a"
+}

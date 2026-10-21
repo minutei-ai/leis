@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-06-30-13303",
+  "titulo": "Lei nº 13.303 de 30/06/2016",
+  "data": "2016-06-30",
+  "fonte": "https://normas.leg.br/api/public/binario/86acb033-4555-46ff-b573-79f5380e9d1c/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-06-30;13303",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-06-30%3B13303&tipo_documento=maior-detalhe",
+  "sha256_dados": "0a5365b45a23507d5873ed37c35a279470baa5f0ce5631b0cf0d20882f7b133b",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:58:39.370Z",
+  "sha256_fonte": "e632e301413ef144278c9a6e761c6c7910ad41cf3f4f87137223747f626bc387",
+  "sha256_markdown": "705f9336e872aa6ce68aca2048f6ba1a39e40105416b084381ebe6431f8ccf6e"
+}

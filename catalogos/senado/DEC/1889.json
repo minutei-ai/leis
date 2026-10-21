@@ -1,0 +1,3299 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1889",
+  "tipo": "DEC",
+  "ano": 1889,
+  "coletado_em": "2026-10-21T08:51:58.862Z",
+  "normas": [
+    {
+      "senadoId": "385879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-31-113",
+      "titulo": "Decreto nº 113 de 31/12/1889",
+      "data": "1889-12-31",
+      "numero": "113",
+      "urn": "urn:lex:br:federal:decreto:1889-12-31;113",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SANTO ANTONIO DE PÁDUA, MARCA O ORDENADO  DO RESPECTIVO PROMOTOR PUBLICO E CRIA  O LOGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS NO TERMO DO MESMO NOME, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "385868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-31-111",
+      "titulo": "Decreto nº 111 de 31/12/1889",
+      "data": "1889-12-31",
+      "numero": "111",
+      "urn": "urn:lex:br:federal:decreto:1889-12-31;111",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE MARICÁ, NO ESTADO DO RIO DE JANEIRO, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "385862",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-31-110",
+      "titulo": "Decreto nº 110 de 31/12/1889",
+      "data": "1889-12-31",
+      "numero": "110",
+      "urn": "urn:lex:br:federal:decreto:1889-12-31;110",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA EQUITABLE LIFE ASSURANCE PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "385874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-31-112",
+      "titulo": "Decreto nº 112 de 31/12/1889",
+      "data": "1889-12-31",
+      "numero": "112",
+      "urn": "urn:lex:br:federal:decreto:1889-12-31;112",
+      "ementa": "DECLARA A ENTRÂNCIA DA COMARCA DE SAPUCAIA, NO ESTADO DO RIO DE JANEIRO, E MARCA O VENCIMENTO DO RESPECTIVO PROMOTOR PÚBLICO."
+    },
+    {
+      "senadoId": "385856",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-31-109",
+      "titulo": "Decreto nº 109 de 31/12/1889",
+      "data": "1889-12-31",
+      "numero": "109",
+      "urn": "urn:lex:br:federal:decreto:1889-12-31;109",
+      "ementa": "APROVA AS REFORMAS DO ESTATUTOS DA COMPANHIA HIDRÁULICA PORTO ALEGRENSE."
+    },
+    {
+      "senadoId": "385816",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-30-101",
+      "titulo": "Decreto nº 101 de 30/12/1889",
+      "data": "1889-12-30",
+      "numero": "101",
+      "urn": "urn:lex:br:federal:decreto:1889-12-30;101",
+      "ementa": "PRORROGA POR 30 DIAS O PRAZO CONCEDIDO À COMPANHI PELOTAS AND COLONIES RAILWAY, LIMITED, PARA APRESENTAÇÃO DOS RESPECTIVOS ESTUDOS."
+    },
+    {
+      "senadoId": "385854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-30-108-a",
+      "titulo": "Decreto nº 108-A de 30/12/1889",
+      "data": "1889-12-30",
+      "numero": "108-a",
+      "urn": "urn:lex:br:federal:decreto:1889-12-30;108-a",
+      "ementa": "ALTERA O QUADRO DOS OFICIAIS DA ARMADA, ESTABELECENDO REGRAS PELAS QUAIS DEVEM OS MESMOS SEREM REFORMADOS VOLUNTARIA OU COMPULSORIAMENTE."
+    },
+    {
+      "senadoId": "385814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-28-100-b",
+      "titulo": "Decreto nº 100-B de 28/12/1889",
+      "data": "1889-12-28",
+      "numero": "100-b",
+      "urn": "urn:lex:br:federal:decreto:1889-12-28;100-b",
+      "ementa": "DEFINE A RELAÇÃO DAS LOTERIAS QUE DEVERÃO SER EXTRAIDAS EM 1890."
+    },
+    {
+      "senadoId": "385810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-28-100",
+      "titulo": "Decreto nº 100 de 28/12/1889",
+      "data": "1889-12-28",
+      "numero": "100",
+      "urn": "urn:lex:br:federal:decreto:1889-12-28;100",
+      "ementa": "CONCEDE À COMPANHIA \"MANUFATURA DE CONSERVAS ALIMENTÍCIAS\" AUTORIZAÇÃO PARA ORGANIZAR-SE."
+    },
+    {
+      "senadoId": "385801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-27-98",
+      "titulo": "Decreto nº 98 de 27/12/1889",
+      "data": "1889-12-27",
+      "numero": "98",
+      "urn": "urn:lex:br:federal:decreto:1889-12-27;98",
+      "ementa": "AUTORIZA O CIDADÃO JOAQUIM IGNACIO PEREIRA A EMPREGAR EM UM SÓ ENGENHO CENTRAL, DESTINADO A FABRICAÇÃO DE AÇÚCAR E ÁLCOOL DE CANA, PELO SISTEMA DA DIFUSÃO, O CAPITAL DE 1.150:000$, SOBRE O QUAL LHE CONCEDEU GARANTIA DE JUROS DE 6% O DECRETO NÚMERO 10235, DE 22 DE ABRIL DE 1889, MARCA PRAZOS PARA A APRESENTAÇÃO DOS DOCUMENTOS EXIGIDOS PELO PARÁGRAFO 1º DO ARTIGO 20 DO REGULAMENTO DE 9 DE OUTUBRO DO MESMO ANO, E CONCLUSÃO DAS RESPECTIVAS OBRAS."
+    },
+    {
+      "senadoId": "385709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-23-79",
+      "titulo": "Decreto nº 79 de 23/12/1889",
+      "data": "1889-12-23",
+      "numero": "79",
+      "urn": "urn:lex:br:federal:decreto:1889-12-23;79",
+      "ementa": "PROVIDENCIA SOBRE A PRATICAGEM DOS PORTOS, COSTA E RIOS NAVEGAVEIS DOS ESTADOS UNIDOS DO BRAZIL."
+    },
+    {
+      "senadoId": "385597",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-12-14-56",
+      "titulo": "Decreto nº 56 de 14/12/1889",
+      "data": "1889-12-14",
+      "numero": "56",
+      "urn": "urn:lex:br:federal:decreto:1889-12-14;56",
+      "ementa": "ELEVA O NUMERO DOS CORPOS DE ARTILHARIA, CAVALARIA E INFANTARIA DO EXERCITO."
+    },
+    {
+      "senadoId": "385403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-27-15",
+      "titulo": "Decreto nº 15 de 27/11/1889",
+      "data": "1889-11-27",
+      "numero": "15",
+      "urn": "urn:lex:br:federal:decreto:1889-11-27;15",
+      "ementa": "REFORMA A RECEBEDORIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "385393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-26-13",
+      "titulo": "Decreto nº 13 de 26/11/1889",
+      "data": "1889-11-26",
+      "numero": "13",
+      "urn": "urn:lex:br:federal:decreto:1889-11-26;13",
+      "ementa": "CONCEDE AO BANCO MERCANTIL DE SANTOS A FACULDADE DE EMISSÃO E APROVA A REFORMA FEITA NOS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "385402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-25-14",
+      "titulo": "Decreto nº 14 de 25/11/1889",
+      "data": "1889-11-25",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:decreto:1889-11-25;14",
+      "ementa": "DECRETA A NOMEAÇÃO DOS CHEFES DE REPARTIÇÃO."
+    },
+    {
+      "senadoId": "385379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-23-10",
+      "titulo": "Decreto nº 10 de 23/11/1889",
+      "data": "1889-11-23",
+      "numero": "10",
+      "urn": "urn:lex:br:federal:decreto:1889-11-23;10",
+      "ementa": "COMPETE AO GOVERNO FEDERAL AS NOMEAÇÕES DOS CHEFES DE ESTADO."
+    },
+    {
+      "senadoId": "385384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-23-11",
+      "titulo": "Decreto nº 11 de 23/11/1889",
+      "data": "1889-11-23",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:decreto:1889-11-23;11",
+      "ementa": "DECRETA QUE OS DECRETOS EXPEDIDOS PELOS DIVERSOS MINISTÉRIOS DEVEM SER REMETIDOS AO MINISTÉRIO DO INTERIOR."
+    },
+    {
+      "senadoId": "385371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-21-8",
+      "titulo": "Decreto nº 8 de 21/11/1889",
+      "data": "1889-11-21",
+      "numero": "8",
+      "urn": "urn:lex:br:federal:decreto:1889-11-21;8",
+      "ementa": "CRIA NO EXÉRCITO UM QUADRO EXTRAORDINÁRIO."
+    },
+    {
+      "senadoId": "385389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-21-12",
+      "titulo": "Decreto nº 12 de 21/11/1889",
+      "data": "1889-11-21",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:decreto:1889-11-21;12",
+      "ementa": "DESIGNA A MUDANÇA DE DENOMINAÇÃO - ARQUIVO PÚBLICO DO IMPÉRIO - PARA ARQUIVO PÚBLICO NACIONAL."
+    },
+    {
+      "senadoId": "385366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-20-7",
+      "titulo": "Decreto nº 7 de 20/11/1889",
+      "data": "1889-11-20",
+      "numero": "7",
+      "urn": "urn:lex:br:federal:decreto:1889-11-20;7",
+      "ementa": "EXTINGUE AS ASSEMBLÉIAS PROVINCIAIS CRIADAS PELAS LEIS DE 12 DE OUTUBRO DE 1832 E 12 DE AGOSTO DE 1834."
+    },
+    {
+      "senadoId": "385360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-19-6",
+      "titulo": "Decreto nº 6 de 19/11/1889",
+      "data": "1889-11-19",
+      "numero": "6",
+      "urn": "urn:lex:br:federal:decreto:1889-11-19;6",
+      "ementa": "DECLARA QUE TODOS OS CIDADÃOS BRASILEIROS SERÃO ELEITORES PARA AS CÂMARAS GERAIS, PROVÍNCIAS E MUNICIPAIS."
+    },
+    {
+      "senadoId": "385355",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-19-5",
+      "titulo": "Decreto nº 5 de 19/11/1889",
+      "data": "1889-11-19",
+      "numero": "5",
+      "urn": "urn:lex:br:federal:decreto:1889-11-19;5",
+      "ementa": "DECRETA QUE OS NECESSITADOS, ENFERMOS, VIÚVAS E ÓRFÃOS PENSIONADOS PELO IMPERADOR DEPOSTO CONTINUEM A PERCEBER O MESMO SUBSÍDIO, ENQUANTO DURAR A RESPEITO DE CADA UM A INDIGÊNCIA, A MOLÉSTIA, A VIUVEZ OU A MENORIDADE EM QUE SE ACHAREM."
+    },
+    {
+      "senadoId": "385350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-19-4",
+      "titulo": "Decreto nº 4 de 19/11/1889",
+      "data": "1889-11-19",
+      "numero": "4",
+      "urn": "urn:lex:br:federal:decreto:1889-11-19;4",
+      "ementa": "DECRETA QUE A BANDEIRA ADOTADA PELA REPUBLICA MANTENHA A TRADIÇÃO DAS ANTIGAS CORES NACIONAIS ."
+    },
+    {
+      "senadoId": "385340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-16-3",
+      "titulo": "Decreto nº 3 de 16/11/1889",
+      "data": "1889-11-16",
+      "numero": "3",
+      "urn": "urn:lex:br:federal:decreto:1889-11-16;3",
+      "ementa": "REDUZ A NOVE ANOS O TEMPO DA DURAÇÃO DE SERVIÇO NA ARMADA PARA OS RECRUTADOS E PARA O PROCEDENTES DAS ESCOLAS DE APRENDIZES MARINHEIROS."
+    },
+    {
+      "senadoId": "385336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-16-2",
+      "titulo": "Decreto nº 2 de 16/11/1889",
+      "data": "1889-11-16",
+      "numero": "2",
+      "urn": "urn:lex:br:federal:decreto:1889-11-16;2",
+      "ementa": "CONCEDE A FAMÍLIA IMPERIAL A QUANTIA DE CINCO MIL CONTOS DE RÉIS."
+    },
+    {
+      "senadoId": "385329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-15-1",
+      "titulo": "Decreto nº 1 de 15/11/1889",
+      "data": "1889-11-15",
+      "numero": "1",
+      "urn": "urn:lex:br:federal:decreto:1889-11-15;1",
+      "ementa": "PROCLAMA PROVISORIAMENTE E DECRETA COMO FORMA DE GOVERNO DA NAÇÃO BRASILEIRA A REPUBLICA FEDERATIVA, E ESTABELECE AS NORMAS PELAS QUAIS SE DEVEM REGER OS ESTADOS FEDERAIS."
+    },
+    {
+      "senadoId": "419359",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10444",
+      "titulo": "Decreto nº 10.444 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10444",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10444",
+      "ementa": "RENOVA A CONCESSÃO FEITA POR DECRETO 6.860 DE 16 DE MARÇO DE 1878 AO CAPITÃO ANTONIO JOAQUIM RODRIGUES PINTO."
+    },
+    {
+      "senadoId": "419333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10435",
+      "titulo": "Decreto nº 10.435 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10435",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10435",
+      "ementa": "CONCEDE Á COMPANHIA QUE FOR ORGANIZADO POR HONORIO LIMA GARANTIA DE JUROS DE 6% AO ANO, SOBRE O CAPITAL DE 750:000$, PARA ESTABELECER NO MUNICÍPIO DE PARATI, PROVÍNCIA DO RIO DE JANEIRO, DE UM ENGENHO CENTRAL DESTINADO AO FABRICO DE AÇUCAR E ALCOOL DE CANA, MEDIANTE APLICAÇÃO DO SISTEMA DE DIFUSÃO."
+    },
+    {
+      "senadoId": "419348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10440",
+      "titulo": "Decreto nº 10.440 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10440",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10440",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO RAMAL DE ITAPEMIRIM DESDE SANTO EDUARDO, PONTO TERMINAL DO RAMAL DE ITABAPOANA DA ESTRADA DE FERRO DO  CARANGOLA, ATE A VILLA DO CACHOEIRO DE ITAPEMEMIRIM A QUE SE REFERE O DECRETO 10.119 DE 1 DE DEZEMBRO DE 1888."
+    },
+    {
+      "senadoId": "419368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10447",
+      "titulo": "Decreto nº 10.447 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10447",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10447",
+      "ementa": "AUTORIZA A COMPANHIA VILLA ISABEL A TRANSFERIR AS LINHAS DE CARRIS URBANOS E SUBURBANOS QUE LHE FORAM CONCEDIDAS."
+    },
+    {
+      "senadoId": "419365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10446",
+      "titulo": "Decreto nº 10.446 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10446",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10446",
+      "ementa": "CONCEDE AO BANCO AUXILIAR, NA QUALIDADE DE CESSIONARIO DO ARRASAMENTO DO MORRO DO SENADO E ATERRO DOS PANTANOS DA CIDADE DO RIO DE JANEIRO, OS FAVORES AUTORIZADOS PELO DECRETO LEGISLATIVO 3.916 DE 27 DE OUTUBRO DE 1880."
+    },
+    {
+      "senadoId": "419310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10427",
+      "titulo": "Decreto nº 10.427 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10427",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10427",
+      "ementa": "CONCEDE AO BANCO DO COMÉRCIO A FACULDADE DE EMITIR BILHETES AO PORTADOR, CONVERTÍVEIS EM OURO E Á VISTA, E APROVA A REFORMA DOS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "419321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10431",
+      "titulo": "Decreto nº 10.431 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10431",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10431",
+      "ementa": "CONCEDE PERMISSÃO A ADAM BENAION PARA EXPLORAR PETRÓLEO, CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVINCIA DO PARÁ."
+    },
+    {
+      "senadoId": "419356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10443",
+      "titulo": "Decreto nº 10.443 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10443",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10443",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO PROLONGAMENTO DA ESTRADA DE FERRO DA CORTE A MAGÉ, DESDE ESTE ÚLTIMO PONTO, ATÉ PORTO DE CAXIAS, AO QUAL SE REFERE O DECRETO NÚMERO 9.986, DE 18 DE JULHO DE 1888."
+    },
+    {
+      "senadoId": "419353",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10442",
+      "titulo": "Decreto nº 10.442 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10442",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10442",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6 POR CENTO SOBRE O CAPITAL DE 400:000$ A COMPANHIA QUE FOR ORGANIZADA POR FRANCISCO RABELLO DE CARVALHO PARA ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇUCAR E DE ALCCOL DE CANA, NO MUNICIPIO DE MAGE, PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "419318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10430",
+      "titulo": "Decreto nº 10.430 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10430",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10430",
+      "ementa": "RENOVA A CONCESSÃO FEITA POR DECRETO NÚMERO 8003 DE 19 DE FEVEREIRO DE 1881 A FRANCISCO DE PAULA OLIVEIRA E CHRISPINIANO TAVARES."
+    },
+    {
+      "senadoId": "419345",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10439",
+      "titulo": "Decreto nº 10.439 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10439",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10439",
+      "ementa": "CONCEDE Á COMPANHIA ENGENHOS CENTRAIS NA PROVÍNCIAS DA PARAIBA DO NORTE E SERGIPE GARANTIA DE JUROS DE 6% AO ANO, SOBRE O CAPITAL DE 2.600:000$, PARA ESTABELECIMENTO DE QUATRO ENGENHOS CENTRAIS, DESTINADOS AO FABRICO DE AÇUCAR E ALCOOL DE CANA, NAQUELAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "419312",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10428",
+      "titulo": "Decreto nº 10.428 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10428",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10428",
+      "ementa": "APROVA A DISPOSIÇÃO INTERPRETATIVA DO ARTIGO 4º DO DECRETO NÚMERO 9263 DE 16 DE AGOSTO DE 1884."
+    },
+    {
+      "senadoId": "419324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10432",
+      "titulo": "Decreto nº 10.432 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10432",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10432",
+      "ementa": "CONCEDE PRIVILÉGIO, GARANTIA DE JUROS E TERRAS DEVOLUTAS, MEDIANTE AUTORIZAÇÃO LEGISLATIVA, PARA A CONSTRUÇÃO, USO E GOZO DE UMA ESTRADA DE FERRO, QUE PARTINDO DAS MARGENS DO ITARARÉ, NA PROVÍNCIA DE SÃO PAULO, VÁ TERMINAR EM SANTA MARIA DA BOCA DO MONTE, NA PROVÍNCIA DO RIO GRANDE DO SUL, COM DIVERSOS RAMAIS."
+    },
+    {
+      "senadoId": "419315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10429",
+      "titulo": "Decreto nº 10.429 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10429",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10429",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 10.204, DE 9 DE MARÇO DE 1889, PARA ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DE IGUARASSÚ, PROVíNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "419339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10437",
+      "titulo": "Decreto nº 10.437 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10437",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10437",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA LONDON ASSURANCE PARA ESTABELECER AGÊNCIAS EM DIVERSAS PRAÇAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "419342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10438",
+      "titulo": "Decreto nº 10.438 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10438",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10438",
+      "ementa": "APROVA A PLANTA E O ORÇAMENTO PARA A CONSTRUÇÃO DO PROLONGAMENTO DO CAES DA CIDADE DE SANTOS, NA PROVÍNCIA DE SÃO PAULO, DE QUE TRATA O DECRETO NÚMERO 10.277 DE 30 DE JULHO DE 1889."
+    },
+    {
+      "senadoId": "419374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10449",
+      "titulo": "Decreto nº 10.449 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10449",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10449",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO RAMAL QUE, PARTINDO DO QUILOMETRO 106 DA ESTRADA DE FERRO MINAS E RIO, TERMINA NA CIDADE DA CAMBUQUIRA, EM SUBSTITUIÇÃO DAS LINHAS A QUE SE REFEREM OS DECRETOS NÚMEROS 10.101 DE 1 DE DEZEMBRO DE 1838, 10.307 E 10.310 DE 10 DE AGOSTO DE 1889, E FIXA EM 2.500:500$ O CAPITAL GARANTIDO PARA A CONSTRUÇÃO DO REFERIDO RAMAL."
+    },
+    {
+      "senadoId": "419327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10433",
+      "titulo": "Decreto nº 10.433 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10433",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10433",
+      "ementa": "CONCEDE A COMPANHIA QUE FOR ORGANIZADA POR HAUPT & COMP. GARANTIA DE JUROS DE 6 POR CENTO AO ANO SOBRE O CAPITAL DE 9.750:000$ PARA ESTABELECIMENTO DE ENGENHOS CENTRAIS, E DIVERSOS FATORES, SALVO O DE GARANTIA DE JUROS, PARA FUNDAÇÃO DE QUATRO FABRICAS DE RETINAÇÃO."
+    },
+    {
+      "senadoId": "419362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10445",
+      "titulo": "Decreto nº 10.445 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10445",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10445",
+      "ementa": "CONCEDE A TITO LIVIO MARTINS  PRORROGAÇÃO POR UM ANO DO PRAZO MARCADO NO DECRETO NÚMERO 10.073 DE 8 DE NOVEMBRO DE 1889."
+    },
+    {
+      "senadoId": "419371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10448",
+      "titulo": "Decreto nº 10.448 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10448",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10448",
+      "ementa": "CONCEDE PERMISSÃO A RAYMUNDO NEWTON PARA LAVRAR OURO NA FREGUEZIA DO MORRO VERMELHO, MUNICIPIO DE CAETE, DA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "419336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10436",
+      "titulo": "Decreto nº 10.436 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10436",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10436",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6 POR CENTO SOBRE O CAPITAL DE 750:000$ A COMPANHIA QUE FOR ORGANIZADA PELO CORONEL JOSE THOMAZ PIRES MACHADO PORTELLA, PARA ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇUCAR E DE ALCOOL DE CANA, NO MUNICIPIO DE MURIBECA, NA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "419330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-09-10434",
+      "titulo": "Decreto nº 10.434 de 09/11/1889",
+      "data": "1889-11-09",
+      "numero": "10434",
+      "urn": "urn:lex:br:federal:decreto:1889-11-09;10434",
+      "ementa": "ELEVA A 18.000:000$ O CRÉDITO EXTRAORDINÁRIO, ABERTO PELO DECRETO NÚMERO 10.181 DE 9 DE FEVEREIRO E AUMENTANDO PELO DE NÚMERO 10.315 DE 20 DE AGOSTO DO CORRENTE ANOS."
+    },
+    {
+      "senadoId": "419301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-06-10424",
+      "titulo": "Decreto nº 10.424 de 06/11/1889",
+      "data": "1889-11-06",
+      "numero": "10424",
+      "urn": "urn:lex:br:federal:decreto:1889-11-06;10424",
+      "ementa": "SUPRIME A JUNTA DE CORRETORES CRIADA NA PRAÇA COMERCIAL DE SANTOS PELO DECRETO NÚMERO 9778 DE 16 DE SETEMBRO DE 1887."
+    },
+    {
+      "senadoId": "419304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-06-10425",
+      "titulo": "Decreto nº 10.425 de 06/11/1889",
+      "data": "1889-11-06",
+      "numero": "10425",
+      "urn": "urn:lex:br:federal:decreto:1889-11-06;10425",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS APRESENTADOS PELA COMPAGNIE GENÉRALE DE CHEMINS DE FER BRÉSLIENS, RELATIVOS AO TRECHO FINAL DO PROLONGAMENTO DA RESPECTIVA VIA FÉRREA, DESTE A BIFURCAÇÃO ATÉ AO PORTO DO AMAZONAS, NO RIO IGUASSÚ, E AO RAMAL DO RIO NEGRO, AOS QUAIS SE REFERE O DECRETO NÚMERO 10.152 DE 5 DE JANEIRO DE 1889, E MOFIFICA, OUTROSSIM, A CLÁUSULA 28ª DO ALUDIDO DECRETO, ESTABELECENDO QUE O PRAZO, DEPOIS DO QUAL PODERÁ O GOVERNO, NOS CASOS ORDINÁRIOS, RESGATAR AS ESTRADAS CONCEDIDAS PELO DITO DECRETO, EXTINGUIR-SE-HA NA MESMA ÉPOCA QUE O FIXADO PARA IGUAL FACULDADE, QUANDO Á LINHA PRINCIPAL."
+    },
+    {
+      "senadoId": "419307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-06-10426",
+      "titulo": "Decreto nº 10.426 de 06/11/1889",
+      "data": "1889-11-06",
+      "numero": "10426",
+      "urn": "urn:lex:br:federal:decreto:1889-11-06;10426",
+      "ementa": "CONCEDE A EDUARDO DIAS DE MORAES PRORROGAÇÃO POR DOIS ANOS DO PRAZO MARCADO NO DECRETO NÚMERO 9705 DE 29 DE JANEIRO DE 1887."
+    },
+    {
+      "senadoId": "419298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-05-10423",
+      "titulo": "Decreto nº 10.423 de 05/11/1889",
+      "data": "1889-11-05",
+      "numero": "10423",
+      "urn": "urn:lex:br:federal:decreto:1889-11-05;10423",
+      "ementa": "PROMULGA O TRATADO PARA A PRONTA SOLUÇÃO DA QUESTÃO DE LIMITES PENDENTE ENTRE O BRASIL E A REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "419292",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-02-10421",
+      "titulo": "Decreto nº 10.421 de 02/11/1889",
+      "data": "1889-11-02",
+      "numero": "10421",
+      "urn": "urn:lex:br:federal:decreto:1889-11-02;10421",
+      "ementa": "CONCEDE Á \"COMPANHIA PREUSSISCHE NATIONAL VERSICHERUNGS GESELLSCHAFT\" AUTORIZAÇÃO PARA ESTABELECER UMA AGÊNCIA NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "419286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-02-10419",
+      "titulo": "Decreto nº 10.419 de 02/11/1889",
+      "data": "1889-11-02",
+      "numero": "10419",
+      "urn": "urn:lex:br:federal:decreto:1889-11-02;10419",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A ISAIAS JOSÉ CAVALCANTI PARA LAVRAR MINERAIS NA PROVÍNCIAS DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "419295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-02-10422",
+      "titulo": "Decreto nº 10.422 de 02/11/1889",
+      "data": "1889-11-02",
+      "numero": "10422",
+      "urn": "urn:lex:br:federal:decreto:1889-11-02;10422",
+      "ementa": "CONCEDE  PERMISSÃO AO ENGENHEIRO HENRI LUIS XAVIER BERNARD PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "419289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-11-02-10420",
+      "titulo": "Decreto nº 10.420 de 02/11/1889",
+      "data": "1889-11-02",
+      "numero": "10420",
+      "urn": "urn:lex:br:federal:decreto:1889-11-02;10420",
+      "ementa": "ALTERA OS ARTIGOS 123, 234, 236 E 253 DO REGULAMENTO QUE BAIXOU COM DECRETO NÚMERO 10.203 DE 9 DE MARÇO DESTE ANO."
+    },
+    {
+      "senadoId": "419282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-30-10418",
+      "titulo": "Decreto nº 10.418 de 30/10/1889",
+      "data": "1889-10-30",
+      "numero": "10418",
+      "urn": "urn:lex:br:federal:decreto:1889-10-30;10418",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DA VACINAÇÃO ANTI-CARBUNCULOSA."
+    },
+    {
+      "senadoId": "419279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-30-10417",
+      "titulo": "Decreto nº 10.417 de 30/10/1889",
+      "data": "1889-10-30",
+      "numero": "10417",
+      "urn": "urn:lex:br:federal:decreto:1889-10-30;10417",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA, PELO DECRETO NÚMERO 10.164A, DE 5 DE  JANEIRO DE 1889, AO CORONEL ANTONIO LUIZ DE ARAÚJO MACIEL, PARA O    ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DE JAPARATUBA, PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "419285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-30-10418-a",
+      "titulo": "Decreto nº 10.418-A de 30/10/1889",
+      "data": "1889-10-30",
+      "numero": "10418-a",
+      "urn": "urn:lex:br:federal:decreto:1889-10-30;10418-a",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO CRÉDITOS SUPLEMENTARES, NA IMPORTÂNCIA DE 645:000$, SENDO 45:000$ PARA A VERBA - AJUDAS DE CUSTO AOS PRESIDENTES DE PROVÍNCIAS, E 600:000$ PARA A DE - SOCORROS PUBLICOS - DO EXERCÍCIO DE 1889."
+    },
+    {
+      "senadoId": "419267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10413",
+      "titulo": "Decreto nº 10.413 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10413",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10413",
+      "ementa": "CONCEDE PERMISSÃO A ANTONIO COELHO RIBEIRO ROMA PARA ESTABELECER SALINAS E FABRICAS DESTINADAS Á PURIFICAÇÃO DO SAL EM TERRENOS DEVOLUTOS DO ESTADO."
+    },
+    {
+      "senadoId": "419258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10410",
+      "titulo": "Decreto nº 10.410 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10410",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10410",
+      "ementa": "DA NOVA ORGANIZAÇÃO AO CONSELHO DE COMPRAS DA MARINHA, REVOGANDO O DECRETO NÚMERO 10.066 DE 20 DE OUTUBRO DE 1888."
+    },
+    {
+      "senadoId": "419261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10411",
+      "titulo": "Decreto nº 10.411 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10411",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10411",
+      "ementa": "APROVA O REGULAMENTO PARA VISTORIA DE EMBARCAÇÕES A VAPOR MERCANTES E EXAMES DE MAQUINISTAS QUE POSSAM NELAS SERVIR."
+    },
+    {
+      "senadoId": "419264",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10412",
+      "titulo": "Decreto nº 10.412 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10412",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10412",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO A 4º SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DAS COMARCAS DE MAROIM, JAPARATUBA E CAPELA, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "419273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10415",
+      "titulo": "Decreto nº 10.415 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10415",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10415",
+      "ementa": "CONCEDE PRIVILÉGIO PARA CONSTRUÇÃO DE UMA ESTRADA DE FERRO ENTRE A BAHIA DE BOTAFOGO E ANGRA DOS REIS."
+    },
+    {
+      "senadoId": "419276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10416",
+      "titulo": "Decreto nº 10.416 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10416",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10416",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 10.247, DE 31 DE MAIO DE 1889, PARA O ESTABELECIMENTO DE UM ENGENHO DE SERGIPE."
+    },
+    {
+      "senadoId": "419270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-26-10414",
+      "titulo": "Decreto nº 10.414 de 26/10/1889",
+      "data": "1889-10-26",
+      "numero": "10414",
+      "urn": "urn:lex:br:federal:decreto:1889-10-26;10414",
+      "ementa": "ELEVA Á CATEGORIA DE CONSULADO GERAL O VICE-CONSULADO DO IMPÉRIO NO SALTO, DEPARTAMENTO DA REPÚBLICA ORIENTAL DO URUGUAI, COM JURISDIÇÃO NOS DEPARTAMENTOS DO RIO NEGRO, DE PAYSANDÚ, ARTIGA E RIVERA."
+    },
+    {
+      "senadoId": "419249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-19-10407",
+      "titulo": "Decreto nº 10.407 de 19/10/1889",
+      "data": "1889-10-19",
+      "numero": "10407",
+      "urn": "urn:lex:br:federal:decreto:1889-10-19;10407",
+      "ementa": "CONCEDE AOS ENGENHEIROS JOÃO PEDREIRA DO COUTO FERRAZ JÚNIOR E LIBÂNIO LIMA AUTORIZAÇÃO PARA ARRASAR O MORRO DE SANTO ANTÔNIO."
+    },
+    {
+      "senadoId": "419246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-19-10406",
+      "titulo": "Decreto nº 10.406 de 19/10/1889",
+      "data": "1889-10-19",
+      "numero": "10406",
+      "urn": "urn:lex:br:federal:decreto:1889-10-19;10406",
+      "ementa": "APROVA O PLANO DE UNIFORME DO EXÉRCITO."
+    },
+    {
+      "senadoId": "419252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-19-10408",
+      "titulo": "Decreto nº 10.408 de 19/10/1889",
+      "data": "1889-10-19",
+      "numero": "10408",
+      "urn": "urn:lex:br:federal:decreto:1889-10-19;10408",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE SEGUROS MUTUO CONTRA FOGO, DENOMINADA - ESPERANÇA - E AUTORIZA-A A FUNCIONAR."
+    },
+    {
+      "senadoId": "419243",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-19-10405",
+      "titulo": "Decreto nº 10.405 de 19/10/1889",
+      "data": "1889-10-19",
+      "numero": "10405",
+      "urn": "urn:lex:br:federal:decreto:1889-10-19;10405",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA GUERRA O CRÉDITO SUPLEMENTAR DA QUANTIA DE 428:847$195, PARA A VERBA 27 - DIVERSAS DESPESAS E EVENTUAIS - TRANSPORTES DE TROPAS E COMEDORIAS DE EMBARQUE DO EXERCÍCIO DE 1889."
+    },
+    {
+      "senadoId": "419255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-19-10409",
+      "titulo": "Decreto nº 10.409 de 19/10/1889",
+      "data": "1889-10-19",
+      "numero": "10409",
+      "urn": "urn:lex:br:federal:decreto:1889-10-19;10409",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JUROS PARA CONSTRUÇÃO DA ESTRADA DE FERRO DO RIO BONITO A CABO FRIO, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "419225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10399",
+      "titulo": "Decreto nº 10.399 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10399",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10399",
+      "ementa": "ELEVA À CATEGORIA DE CONSULADO GERAL O VICE-CONSULADO DO BRASIL EM NÁPOLES, COM JURISDIÇÃO NAS PROVÍNCIAS ABAIXO DECLARADAS."
+    },
+    {
+      "senadoId": "419240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10404",
+      "titulo": "Decreto nº 10.404 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10404",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10404",
+      "ementa": "ELEVA A OITO COMPANHIAS O 5º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DO PILAR NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "419228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10400",
+      "titulo": "Decreto nº 10.400 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10400",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10400",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO PROLONGAMENTO DA ESTRADA DE FERRO DA COMPANHIA TRAM ROOD DE NAZARETH, DESDE A VILA DE SANTO ANTÔNIO DE JESUS ATÉ A DA AMARGOSA, AOS QUAIS SE REFERE A CLÁUSULA 2ª DO DECRETO NÚMERO 10.125 DE 15 DE DEZEMBRO DE 1888."
+    },
+    {
+      "senadoId": "419220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10397",
+      "titulo": "Decreto nº 10.397 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10397",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10397",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA MARINHA UM CRÉDITO SUPLEMENTAR NA IMPORTÂNCIA DE 66:344$794 À VERBA - EVENTUAIS - DO EXERCÍCIO DE 1889."
+    },
+    {
+      "senadoId": "419234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10402",
+      "titulo": "Decreto nº 10.402 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10402",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10402",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO MARCADO NO DECRETO NÚMERO 10.050 DE 28 DE SETEMBRO DE 1888."
+    },
+    {
+      "senadoId": "419237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10403",
+      "titulo": "Decreto nº 10.403 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10403",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10403",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO MARCADO NO DECRETO NÚMERO 10.051 DE 28 DE SETEMBRO DE 1888."
+    },
+    {
+      "senadoId": "419231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10401",
+      "titulo": "Decreto nº 10.401 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10401",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10401",
+      "ementa": "CONCEDE PERMISSÃO A ANTÔNIO FRANCISCO DE AZEREDO E GUILHERME JOSÉ DA COSTA VIANA PARA LAVRAREM OURO E OUTROS MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "419222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-12-10398",
+      "titulo": "Decreto nº 10.398 de 12/10/1889",
+      "data": "1889-10-12",
+      "numero": "10398",
+      "urn": "urn:lex:br:federal:decreto:1889-10-12;10398",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS O CRÉDITO SUPLEMENTAR DE 124:531$484, PARA SER APLICADO ÀS DESPESAS DAS RUBRICAS 4ª E 5ª - AJUDAS DE CUSTO - E - EXTRAORDINÁRIAS NO EXTERIOR - DO CORRENTE EXERCÍCIO DE 1889."
+    },
+    {
+      "senadoId": "419214",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10395",
+      "titulo": "Decreto nº 10.395 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10395",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10395",
+      "ementa": "CRIA UMA GUARDA CÍVICA PARA AUXILIAR O POLICIAMENTO DA CAPITAL DO IMPÉRIO E DÁ-LHE REGULAMENTO."
+    },
+    {
+      "senadoId": "419199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10390",
+      "titulo": "Decreto nº 10.390 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10390",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10390",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A THOMAZ LARANGEIRA, PARA COLHER ERVA-MATE NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "419217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10396",
+      "titulo": "Decreto nº 10.396 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10396",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10396",
+      "ementa": "PRORROGA ATÉ 2 DE FEVEREIRO DE 1890 O PRAZO MARCADO NA CLÁUSULA 3ª DO DECRETO NÚMERO 10.120 DE 15 DE DEZEMBRO DE 1888, PARA A APRESENTAÇÃO DOS ESTUDOS DEFINITIVOS DA ESTRADA DE FERRO QUE, PARTINDO DE SANTA LUZIA DO CARANGOLA, DEVE ENCONTRAR-SE NA ESTRADA DE FERRO DA VITÓRIA A SANTA CRUZ DO RIO PARDO."
+    },
+    {
+      "senadoId": "419208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10393",
+      "titulo": "Decreto nº 10.393 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10393",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10393",
+      "ementa": "DA REGULAMENTO PARA EXECUÇÃO DO DECRETO LEGISLATIVO 2.687, DE 6 DE NOVEMBRO DE 1875, NA PARTE REFERENTE A FUNÇÃO DE ENGENHOS CENTRAIS PARA FABRICO DE AÇUCAR E DE ALCOOL DE CANA."
+    },
+    {
+      "senadoId": "419202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10391",
+      "titulo": "Decreto nº 10.391 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10391",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10391",
+      "ementa": "CONCEDE AO ENGENHEIRO EDUARDO MENDES LIMOEIRO AUTORIZAÇÃO PARA CONSTRUÇÃO, USO E GOZO DE UM ELEVADOR MECÂNICO QUE, SITUADO NA RUA DA GLÓRIA, ATINJA AO MORRO DE SANTA TEREZA, NAS IMEDIAÇÕES DA RUA DO CARVELLO."
+    },
+    {
+      "senadoId": "419205",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10392",
+      "titulo": "Decreto nº 10.392 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10392",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10392",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO POR DECRETO NÚMERO 9852 DE 27 DE JANEIRO DE 1885 A RODOLPHO MARQUES PERDIGÃO PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "419211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-09-10394",
+      "titulo": "Decreto nº 10.394 de 09/10/1889",
+      "data": "1889-10-09",
+      "numero": "10394",
+      "urn": "urn:lex:br:federal:decreto:1889-10-09;10394",
+      "ementa": "REVOGA O DECRETO NÚMERO 10.339 DE 6 DE SETEMBRO ÚLTIMO E MANDA SUBSISTIR O DECRETO NÚMERO 10.083 DE 24 DE NOVEMBRO DO ANO FINDO, NA PARTE EM QUE DECLAROU ESPECIAL A COMARCA DA CONSTITUIÇÃO (HOJE PIRACICABA), NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "419181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-05-10384",
+      "titulo": "Decreto nº 10.384 de 05/10/1889",
+      "data": "1889-10-05",
+      "numero": "10384",
+      "urn": "urn:lex:br:federal:decreto:1889-10-05;10384",
+      "ementa": "ESTABELECE AS GRATIFICAÇÕES QUE DEVEM PERCEBER OS AMANUENSES E O ESCREVENTE DAS DELEGACIAS DAS CAPITANIAS DOS PORTOS."
+    },
+    {
+      "senadoId": "419193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-05-10388",
+      "titulo": "Decreto nº 10.388 de 05/10/1889",
+      "data": "1889-10-05",
+      "numero": "10388",
+      "urn": "urn:lex:br:federal:decreto:1889-10-05;10388",
+      "ementa": "CRIA UM CORPO DE CAVALARIA DE GUARDAS NACIONAIS NA CAPITAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "419196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-05-10389",
+      "titulo": "Decreto nº 10.389 de 05/10/1889",
+      "data": "1889-10-05",
+      "numero": "10389",
+      "urn": "urn:lex:br:federal:decreto:1889-10-05;10389",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DE UM CONTRATO COM ANTONIO ULYSSES DE CARVALHO, PARA CONTINUAÇÃO DO SERVIÇO DE NAVEGAÇÃO A VAPOR NO RIO SÃO FRANCISCO, DESDE A CIDADE DE PENEDO ATÉ À VILA DE PIRANHAS, NA PROVÍNCIA DAS ALAGOAS, E PARA O ESTABELECIMENTO DO SERVIÇO DE REBOCAGEM NA BARRA DAQUELE RIO."
+    },
+    {
+      "senadoId": "419184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-05-10385",
+      "titulo": "Decreto nº 10.385 de 05/10/1889",
+      "data": "1889-10-05",
+      "numero": "10385",
+      "urn": "urn:lex:br:federal:decreto:1889-10-05;10385",
+      "ementa": "MANDA REVOGAR O DECRETO NÚMERO 2709 DE 19 DE DEZEMBRO DE 1860, RELATIVO ÀS NOMEAÇÕES DOS COMANDOS E DOS LUGARES DE ADMINISTRAÇÃO MILITAR DA ARMADA."
+    },
+    {
+      "senadoId": "419187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-05-10386",
+      "titulo": "Decreto nº 10.386 de 05/10/1889",
+      "data": "1889-10-05",
+      "numero": "10386",
+      "urn": "urn:lex:br:federal:decreto:1889-10-05;10386",
+      "ementa": "CONCEDE A AMÉRICO DE CASTRO, OU À COMPANHIA QUE FOR POR ELE ORGANIZADA, DIVERSOS FAVORES RELATIVOS AOS EDIFÍCIOS QUE CONSTRUIR PARA HABITAÇÃO DE OPERÁRIOS E CLASSES POBRES."
+    },
+    {
+      "senadoId": "419190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-05-10387",
+      "titulo": "Decreto nº 10.387 de 05/10/1889",
+      "data": "1889-10-05",
+      "numero": "10387",
+      "urn": "urn:lex:br:federal:decreto:1889-10-05;10387",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO BANCO DE SÃO PAULO PARA FUNCIONAR E APROVA, COM ALTERAÇÕES, OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "419178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-02-10383",
+      "titulo": "Decreto nº 10.383 de 02/10/1889",
+      "data": "1889-10-02",
+      "numero": "10383",
+      "urn": "urn:lex:br:federal:decreto:1889-10-02;10383",
+      "ementa": "CONCEDE A AUGUSTO JOSÉ FERREIRA PRORROGAÇÃO POR UM ANO DO PRAZO MARCADO NO DECRETO NÚMERO 10.025 DE 21 DE AGOSTO DE 1888."
+    },
+    {
+      "senadoId": "419175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-02-10382",
+      "titulo": "Decreto nº 10.382 de 02/10/1889",
+      "data": "1889-10-02",
+      "numero": "10382",
+      "urn": "urn:lex:br:federal:decreto:1889-10-02;10382",
+      "ementa": "ELEVA A OITO COMPANHIAS O 33º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DO PENEDO, E CRIA NOVOS CORPOS NA MESMA COMARCA."
+    },
+    {
+      "senadoId": "419172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-10-02-10381",
+      "titulo": "Decreto nº 10.381 de 02/10/1889",
+      "data": "1889-10-02",
+      "numero": "10381",
+      "urn": "urn:lex:br:federal:decreto:1889-10-02;10381",
+      "ementa": "ABRE O CRÉDITO SUPLEMENTAR DE 50:000$ À VERBA -AJUDAS DE CUSTO- DO MINISTÉRIO DA JUSTIÇA, NO EXERCÍCIO DE 1889."
+    },
+    {
+      "senadoId": "419163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10378",
+      "titulo": "Decreto nº 10.378 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10378",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10378",
+      "ementa": "CONCEDE PERMISSÃO A ABE DAWSON E ARTHUR MONTEIRO DE QUEIROZ PARA LAVRAREM OURO NO MUNICÍPIO DE TRÊS CORAÇÕES DO RIO VERDE, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "419150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10372",
+      "titulo": "Decreto nº 10.372 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10372",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10372",
+      "ementa": "CONCEDE AO VISCONDE DE FIGUEIREDO, OU À COMPANHIA QUE ORGANIZAR, AUTORIZAÇÃO PARA CONSTRUIR VÁRIAS OBRAS DE MELHORAMENTO NA CIDADE E NO PORTO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "419166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10379",
+      "titulo": "Decreto nº 10.379 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10379",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10379",
+      "ementa": "APLICA AS SUCESSÕES DOS FRANCESES FALECIDOS NO BRASIL AS DISPOSIÇÕES DO DECRETO NÚMERO 855 DE 8 DE NOVEMBRO DE 1851 A QUE SE REFERE O SEU ARTIGO 24."
+    },
+    {
+      "senadoId": "419147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10371",
+      "titulo": "Decreto nº 10.371 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10371",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10371",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO PROLONGAMENTO DA ESTRADA DE FERRO BARÃO DE ARARUAMA, DESDE A ESTAÇÃO DO TRIUNFO ATÉ AO PONTO DO ENTRONCAMENTO NA ESTRADA DE FERRO DA LEOPOLDINA."
+    },
+    {
+      "senadoId": "419138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10368",
+      "titulo": "Decreto nº 10.368 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10368",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10368",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DO BANCO DE CRÉDITO REAL DO BRASIL, E PERMITE A CRIAÇÃO DE UMA CARTEIRA COMERCIAL NO MESMO BANCO."
+    },
+    {
+      "senadoId": "419141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10369",
+      "titulo": "Decreto nº 10.369 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10369",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10369",
+      "ementa": "CONCEDE AO BANCO NACIONAL DO BRASIL AUTORIZAÇÃO PARA FUNCIONAR, E APROVA COM ALTERAÇÕES OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "419169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10380",
+      "titulo": "Decreto nº 10.380 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10380",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10380",
+      "ementa": "ELEVA À CATEGORIA DE CONSULADO GERAL O CONSULADO PRIVATIVO DO BRASIL EM MARSELHA."
+    },
+    {
+      "senadoId": "419144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-28-10370",
+      "titulo": "Decreto nº 10.370 de 28/09/1889",
+      "data": "1889-09-28",
+      "numero": "10370",
+      "urn": "urn:lex:br:federal:decreto:1889-09-28;10370",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO DO NATAL PARA O VALE DO CEARÁ-MIRIM."
+    },
+    {
+      "senadoId": "419135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-21-10367",
+      "titulo": "Decreto nº 10.367 de 21/09/1889",
+      "data": "1889-09-21",
+      "numero": "10367",
+      "urn": "urn:lex:br:federal:decreto:1889-09-21;10367",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO PROLONGAMENTO DA ESTRADA DE FERRO PRÍNCIPE DO GRAN-PARÁ, DESDE O AREAL ATÉ ENTRE-RIOS, A QUE SE REFEREM OS DECRETOS NÚMEROS 9932 DE 11 DE ABRIL DE 1888 E 10.164B DE 5 DE JANEIRO DE 1889."
+    },
+    {
+      "senadoId": "419132",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-21-10366",
+      "titulo": "Decreto nº 10.366 de 21/09/1889",
+      "data": "1889-09-21",
+      "numero": "10366",
+      "urn": "urn:lex:br:federal:decreto:1889-09-21;10366",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS APRESENTADOS PELA COMPAGNIE GENERALE DE CHEMINS DE FER BRESILIENS, RELATIVOS AO TRECHO DO PROLONGAMENTO DA ESTRADA DE FERRO DO PARANÁ, COMPREENDIDO ENTRE CURITIBA E O PONTO ONDE DEVE COMEÇAR O RAMAL QUE, PASSANDO POR LAPA, TERÁ DE DIRIGIR-SE PARA O RIO NEGRO, E AO RAMAL DE MORRETES A ANTONINA, AOS QUAIS SE REFERE O DECRETO NÚMERO 10.152 DE 5 DE JANEIRO DE 1889."
+    },
+    {
+      "senadoId": "419129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-21-10365",
+      "titulo": "Decreto nº 10.365 de 21/09/1889",
+      "data": "1889-09-21",
+      "numero": "10365",
+      "urn": "urn:lex:br:federal:decreto:1889-09-21;10365",
+      "ementa": "AUTORIZA A COMPANHIA DA ESTRADA DE FERRO DE SÃO JOÃO DO RIO CLARO A SÃO CARLOS DO PINHAL A TRANSFERIR A MESMA ESTRADA À RIO CLARO SÃO PAULO RAILWAY COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "419126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-21-10364",
+      "titulo": "Decreto nº 10.364 de 21/09/1889",
+      "data": "1889-09-21",
+      "numero": "10364",
+      "urn": "urn:lex:br:federal:decreto:1889-09-21;10364",
+      "ementa": "DETERMINA QUE A DIREÇÃO DAS OBRAS DA ESTRADA DE FERRO DE BAGÉ A URUGUAIANA FIQUE A CARGO DA ADMINISTRAÇÃO DA ESTRADA DE FERRO DE PORTO ALEGRE A CACEQUI."
+    },
+    {
+      "senadoId": "419123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-21-10363",
+      "titulo": "Decreto nº 10.363 de 21/09/1889",
+      "data": "1889-09-21",
+      "numero": "10363",
+      "urn": "urn:lex:br:federal:decreto:1889-09-21;10363",
+      "ementa": "CRIA MAIS DUAS DELEGACIAS DE POLÍCIA NO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "419103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10356",
+      "titulo": "Decreto nº 10.356 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10356",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10356",
+      "ementa": "CONCEDE PERMISSÃO A ALBERTO BIRABEN PARA LAVRAR OURO E OUTROS MINERAIS DE POCONÉ, DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "419085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10350",
+      "titulo": "Decreto nº 10.350 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10350",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10350",
+      "ementa": "DECLARA CADUCA A CONCESSÃO CONSTANTE DO DECRETO NÚMERO 5053 DE 14 DE AGOSTO DE 1872, RELATIVOS AO MELHORAMENTO DO PORTO DE PARANAGUÁ."
+    },
+    {
+      "senadoId": "419094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10353",
+      "titulo": "Decreto nº 10.353 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10353",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10353",
+      "ementa": "MANDA EXECUTAR O AJUSTE ENTRE O BRASIL E PORTUGAL SOBRE A PROPRIEDADE DAS OBRAS LITERÁRIAS E ARTISTAS."
+    },
+    {
+      "senadoId": "419082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10349",
+      "titulo": "Decreto nº 10.349 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10349",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10349",
+      "ementa": "REGULA DE NOVO OS CONCURSOS PARA EMPREGOS DE FAZENDA."
+    },
+    {
+      "senadoId": "419091",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10352",
+      "titulo": "Decreto nº 10.352 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10352",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10352",
+      "ementa": "ALTERA O PARÁGRAFO ÚNICO DO ARTIGO 110 DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 10.203 DE 9 DE MARÇO DESTE ANO."
+    },
+    {
+      "senadoId": "419088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10351",
+      "titulo": "Decreto nº 10.351 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10351",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10351",
+      "ementa": "PRORROGA OS PRAZOS DE QUE TRATA O NUMERO V DO DECRETO 9.707 DE 29 DE JANEIRO DE 1887, E CONCEDE OUTROS FAVORES A GIUSEPPE FOGLIANI E AO DR. JOSE FERREIRA DE SOUZA ARAUJO, OU A EMPRESA QUE ORGANISAREM PARA O FIM DE RETIFICAR, ALARGAR E PROLONGAR A RUA DO SENHOR DOS PASSOS."
+    },
+    {
+      "senadoId": "419105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10357",
+      "titulo": "Decreto nº 10.357 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10357",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10357",
+      "ementa": "CONCEDE AUTORIZAÇÃO A RIO CLARO SÃO PAULO RAILWAY COMPANY, LIMITED PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "419117",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10361",
+      "titulo": "Decreto nº 10.361 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10361",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10361",
+      "ementa": "CONCEDE PERMISSÃO A RAULINO JÚLIO ADOLPHO HORN PARA EXPLORAR PETRÓLEO E OUTROS ÓLEOS MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "419100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10355",
+      "titulo": "Decreto nº 10.355 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10355",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10355",
+      "ementa": "TRANSFERE A ALBERTO BIRABEM A CONCESSÃO FEITA POR DECRETO NÚMERO 8824 DE 30 DE DEZEMBRO DE 1882."
+    },
+    {
+      "senadoId": "419114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10360",
+      "titulo": "Decreto nº 10.360 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10360",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10360",
+      "ementa": "ELEVA A OITO COMPANHIAS 0 8º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA CORTE."
+    },
+    {
+      "senadoId": "419097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10354",
+      "titulo": "Decreto nº 10.354 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10354",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10354",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO DO REGISTRO CIVIL."
+    },
+    {
+      "senadoId": "419108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10358",
+      "titulo": "Decreto nº 10.358 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10358",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10358",
+      "ementa": "ELEVA À CATEGORIA DE CONSULADO DO BRASIL EM SYDNEY, AUSTRÁLIA, COM JURISDIÇÃO EM TODA A COLÔNIA DE NEW SOUTH WALES."
+    },
+    {
+      "senadoId": "419111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10359",
+      "titulo": "Decreto nº 10.359 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10359",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10359",
+      "ementa": "PRORROGA ATÉ 31 DE DEZEMBRO DE 1890 O PRAZO MARCADO A CEARÁ HARBOUR CORPORATION PARA TERMINAÇÃO DAS RESPECTIVAS OBRAS."
+    },
+    {
+      "senadoId": "419120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-14-10362",
+      "titulo": "Decreto nº 10.362 de 14/09/1889",
+      "data": "1889-09-14",
+      "numero": "10362",
+      "urn": "urn:lex:br:federal:decreto:1889-09-14;10362",
+      "ementa": "CONCEDE PERMISSÃO AO DR. CORNÉLIO EMÍLIO DAS NEVES MILWARD E OUTROS PARA EXPLORAREM MINERAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "419073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10346",
+      "titulo": "Decreto nº 10.346 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10346",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10346",
+      "ementa": "APROVA OS DOCUMENTOS APRESENTADOS PELA COMPANHIA AGRÍCOLA DE CAMPOS, NA CONFORMIDADE DO PARÁGRAFO 1º DO ARTIGO 19 DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 10.100 DE 1 DE DEZEMBRO DE 1888."
+    },
+    {
+      "senadoId": "419049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10338",
+      "titulo": "Decreto nº 10.338 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10338",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10338",
+      "ementa": "DIVIDE EM DUAS A 1ª AULA DE PIANO E A DE VIOLONCELLO E CONTRABAIXO DO CONSERVATÓRIO DE MÚSICA."
+    },
+    {
+      "senadoId": "419061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10342",
+      "titulo": "Decreto nº 10.342 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10342",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10342",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A JOSÉ FRANCISCO THOMAZ DO NASCIMENTO, PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "419058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10341",
+      "titulo": "Decreto nº 10.341 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10341",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10341",
+      "ementa": "MANDA EXECUTAR O AJUSTE FEITO COM A REPÚBLICA ARGENTINA PARA A MÚTUA CONCESSÃO DAS MEDALHAS COMEMORATIVAS DA GUERRA CONTRA O DITADOR DO PARAGUAI."
+    },
+    {
+      "senadoId": "419070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10345",
+      "titulo": "Decreto nº 10.345 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10345",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10345",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AOS ENGENHEIROS FRANCISCO LOPES DA SILVA LIMA E ANTONIO LOPES DA SILVA LIMA, PARA EXPLORAREM MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "419067",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10344",
+      "titulo": "Decreto nº 10.344 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10344",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10344",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE OSCAR PHILLIPI AND COMPANY, LIMITED, PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "419043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10336",
+      "titulo": "Decreto nº 10.336 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10336",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10336",
+      "ementa": "PROVIDENCIA SOBRE O RESGATE DO PAPEL-MOEDA."
+    },
+    {
+      "senadoId": "419046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10337",
+      "titulo": "Decreto nº 10.337 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10337",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10337",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIÉTÉ ANÔNIMA DU CHEMIN DE FER BENEVENTE-MINAS PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "419079",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10348",
+      "titulo": "Decreto nº 10.348 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10348",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10348",
+      "ementa": "ELEVA À CATEGORIA DE CONSULADO PRIVATIVO O VICE-CONSULADO DO BRASIL EM MARSELHA."
+    },
+    {
+      "senadoId": "419055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10340",
+      "titulo": "Decreto nº 10.340 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10340",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10340",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA AO DR. JOÃO ALVES CARRILHO, PELO DECRETO NÚMERO 10.114 DE 15 DE DEZEMBRO DE 1888, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DE SANTO AMARO PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "419052",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10339",
+      "titulo": "Decreto nº 10.339 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10339",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10339",
+      "ementa": "DERROGA O DECRETO NÚMERO 10.083 DE 24 DE NOVEMBRO DE 1888 NA PARTE REFERENTE À COMARCA DA CONSTITUIÇÃO, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "419064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10343",
+      "titulo": "Decreto nº 10.343 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10343",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10343",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A JOSÉ VAZ DE OLIVEIRA, PARA LAVRAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "419076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-06-10347",
+      "titulo": "Decreto nº 10.347 de 06/09/1889",
+      "data": "1889-09-06",
+      "numero": "10347",
+      "urn": "urn:lex:br:federal:decreto:1889-09-06;10347",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO MOREIRA DA SILVA PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS, PETRÓLEO E OUTRAS SUBSTÂNCIAS BETUMINOSAS, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "419040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-09-05-10335",
+      "titulo": "Decreto nº 10.335 de 05/09/1889",
+      "data": "1889-09-05",
+      "numero": "10335",
+      "urn": "urn:lex:br:federal:decreto:1889-09-05;10335",
+      "ementa": "PRORROGA POR TRÊS MESES O PRAZO MARCADO NOS NÚMEROS 2º E 3º DA CLÁUSULA 2º DO DECRETO NÚMERO 10.090 DE 24 DE NOVEMBRO DE 1888, PARA A COMPANHIA DA ESTRADA DE FERRO SOROCABANA APRESENTAR OS ESTUDOS DEFINITIVOS DOS TRECHOS DA RESPECTIVA VIA FERRÉA COMPREENDIDOS ENTRE ITAPETININGA E A DIVISA DA PROVÍNCIA DO PARANÁ, ENTRE SANTA CRUZ DO RIO PARDO E AS MARGENS DO RIO PARANAPANEMA."
+    },
+    {
+      "senadoId": "419019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10328",
+      "titulo": "Decreto nº 10.328 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10328",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10328",
+      "ementa": "ALTERA OS ESTATUTOS DO CONSERVATÓRIO DE MÚSICA."
+    },
+    {
+      "senadoId": "419016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10327",
+      "titulo": "Decreto nº 10.327 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10327",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10327",
+      "ementa": "REGULA A ORDEM DA COLOCAÇÃO DOS MINISTROS E DA SUBSTITUIÇÃO DO PRESIDENTE DO SUPREMO DE JUSTIÇA."
+    },
+    {
+      "senadoId": "419031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10332",
+      "titulo": "Decreto nº 10.332 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10332",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10332",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA \"ST. JOHN D´EL-REY MINING COMPANY, LIMITED\"."
+    },
+    {
+      "senadoId": "419034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10333",
+      "titulo": "Decreto nº 10.333 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10333",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10333",
+      "ementa": "TRANSFERE À COMPANHIA DAS MINAS DE SÃO JERÔNIMO A CONCESSÃO FEITA, POR DECRETO NÚMERO 9171 DE 22 DE MARÇO DE 1884, À COMPANHIA DAS MINAS DE CARVÃO DE PEDRA DO ARROIO DOS RATOS, PARA LAVRAR CARVÃO DE PEDRA NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "419037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10334",
+      "titulo": "Decreto nº 10.334 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10334",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10334",
+      "ementa": "CONCEDE AO BACHAREL VICENTE DE TOLEDO AUTORIZAÇÃO PARA ESTABELECER OFICINAS DE AR COMPRIMIDO NESTA CIDADE."
+    },
+    {
+      "senadoId": "419022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10329",
+      "titulo": "Decreto nº 10.329 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10329",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10329",
+      "ementa": "PRORROGA O PRAZO DA CONCESSÃO FEITA A MARCOS ROSENWALD PARA LAVRAR OURO NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "419025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10330",
+      "titulo": "Decreto nº 10.330 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10330",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10330",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO ANTONIO PINHEIRO PARA EXPLORAR COBRE E OUTROS MINERAIS NO MUNICÍPIO DE CAÇAPAVA, PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "419028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-31-10331",
+      "titulo": "Decreto nº 10.331 de 31/08/1889",
+      "data": "1889-08-31",
+      "numero": "10331",
+      "urn": "urn:lex:br:federal:decreto:1889-08-31;10331",
+      "ementa": "CONCEDE PERMISSÃO A RICARDO SAENGER PARA EXPLORAR COBRE E OUTROS MINERAIS NO MUNICÍPIO DE CAÇAPAVA, PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "419013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-30-10326",
+      "titulo": "Decreto nº 10.326 de 30/08/1889",
+      "data": "1889-08-30",
+      "numero": "10326",
+      "urn": "urn:lex:br:federal:decreto:1889-08-30;10326",
+      "ementa": "SUBSTITUI PELA MULTA DE 10 A 50% DOS DIREITOS DE CONSUMO A OBRIGAÇÃO DO PAGAMENTO INTEGRAL DETERMINADO NO PARÁGRAFO ÚNICO ARTIGO 2 DAS INSTRUÇÕES EXPEDIDAS EM VIRTUDE DOS DECRETOS 1.750 DE 20 DE OUTUBRO DE 1869 E 4510 DE 20 DE ABRIL DE 1870."
+    },
+    {
+      "senadoId": "419010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-30-10325",
+      "titulo": "Decreto nº 10.325 de 30/08/1889",
+      "data": "1889-08-30",
+      "numero": "10325",
+      "urn": "urn:lex:br:federal:decreto:1889-08-30;10325",
+      "ementa": "RENOVA O CONTRATO CELEBRADO COM A COMPANHIA DE NAVEGAÇÃO A VAPOR DO MARANHÃO."
+    },
+    {
+      "senadoId": "419006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-27-10323",
+      "titulo": "Decreto nº 10.323 de 27/08/1889",
+      "data": "1889-08-27",
+      "numero": "10323",
+      "urn": "urn:lex:br:federal:decreto:1889-08-27;10323",
+      "ementa": "APLICA ÀS SUCESSÕES DE SUDITOS ESPANHOES FALECIDOS NO BRASIL AS DISPOSIÇÕES DO DECRETO NÚMERO 855 DE 8 DE NOVEMBRO DE 1851 A QUE SE REFERE A SEU ARTIGO 24."
+    },
+    {
+      "senadoId": "419003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-27-10322",
+      "titulo": "Decreto nº 10.322 de 27/08/1889",
+      "data": "1889-08-27",
+      "numero": "10322",
+      "urn": "urn:lex:br:federal:decreto:1889-08-27;10322",
+      "ementa": "AUTORIZA O MINISTÉRIO DA FAZENDA A CONTRAIR UM EMPRÉSTIMO QUE PRODUZA A SOMA DE CEM MIL CONTOS DE RÉIS, DE JURO E AMORTIZAÇÃO PAGÁVEIS EM OURO, OU EM MOEDA CORRENTE, AO CÂMBIO DE 27 DINHEIRO ESTERLINOS POR MIL RÉIS."
+    },
+    {
+      "senadoId": "418991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-22-10318",
+      "titulo": "Decreto nº 10.318 de 22/08/1889",
+      "data": "1889-08-22",
+      "numero": "10318",
+      "urn": "urn:lex:br:federal:decreto:1889-08-22;10318",
+      "ementa": "PROMULGA A CONVENÇÃO SANITÁRIA CELEBRADA ENTRE O IMPÉRIO DO BRASIL, A REPÚBLICA ARGENTINA E A REPÚBLICA ORIENTAL DO URUGUAI."
+    },
+    {
+      "senadoId": "418994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-22-10319",
+      "titulo": "Decreto nº 10.319 de 22/08/1889",
+      "data": "1889-08-22",
+      "numero": "10319",
+      "urn": "urn:lex:br:federal:decreto:1889-08-22;10319",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO SANITÁRIO INTERNACIONAL PARA A EXECUÇÃO DA CONVENÇÃO SANITÁRIA CELEBRADA ENTRE O BRASIL, A REPÚBLICA ARGENTINA E A REPÚBLICA ORIENTAL DO URUGUAI."
+    },
+    {
+      "senadoId": "419000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-22-10321",
+      "titulo": "Decreto nº 10.321 de 22/08/1889",
+      "data": "1889-08-22",
+      "numero": "10321",
+      "urn": "urn:lex:br:federal:decreto:1889-08-22;10321",
+      "ementa": "APROVA AS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA O SERVIÇO DO TRÁFEGO DA ESTRADA DE FERRO DO RECIFE AO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "418997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-22-10320",
+      "titulo": "Decreto nº 10.320 de 22/08/1889",
+      "data": "1889-08-22",
+      "numero": "10320",
+      "urn": "urn:lex:br:federal:decreto:1889-08-22;10320",
+      "ementa": "CONCEDE PRORROGAÇÃO POR MAIS DOIS ANOS DO PRAZO MARCADO NO DECRETO NÚMERO 9.247 DE 19 DE JULHO DE 1884, A EUGENIO DE FARIA GONÇALVES TEIXEIRA PARA LAVRAR MINERAIS NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "418988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-22-10317",
+      "titulo": "Decreto nº 10.317 de 22/08/1889",
+      "data": "1889-08-22",
+      "numero": "10317",
+      "urn": "urn:lex:br:federal:decreto:1889-08-22;10317",
+      "ementa": "CONCEDE AO BANCO DE CRÉDITO REAL DE MINAS GERAIS AUTORIZAÇÃO PARA FUNCIONAR E APROVA COM ALTERAÇÕES OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "418985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-20-10316",
+      "titulo": "Decreto nº 10.316 de 20/08/1889",
+      "data": "1889-08-20",
+      "numero": "10316",
+      "urn": "urn:lex:br:federal:decreto:1889-08-20;10316",
+      "ementa": "CRIA MAIS UMA SUBDELEGACIA DE POLICIA NA FREGUESIA DE SALVADOR DO MUNDO DE GUARATIBA."
+    },
+    {
+      "senadoId": "418982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-20-10315",
+      "titulo": "Decreto nº 10.315 de 20/08/1889",
+      "data": "1889-08-20",
+      "numero": "10315",
+      "urn": "urn:lex:br:federal:decreto:1889-08-20;10315",
+      "ementa": "ELEVA A 12.000:000$ O CRÉDITO EXTRAORDINÁRIO DE 5.000:000$ ABERTO PELO DECRETO NÚMERO 10.181 DE 9 DE FEVEREIRO DE 1889."
+    },
+    {
+      "senadoId": "418926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10296",
+      "titulo": "Decreto nº 10.296 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10296",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10296",
+      "ementa": "PERMITE QUE O SELO ADESIVO DE VÁRIOS DOCUMENTOS SEJA INUTILIZADO POR MEIO DE CARIMBO, QUE IMPRIMA, ALÉM DA DATA, O NOME OU FIRMA SOCIAL DO SIGNATÁRIO."
+    },
+    {
+      "senadoId": "418979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10314",
+      "titulo": "Decreto nº 10.314 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10314",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10314",
+      "ementa": "PRORROGA POR UM ANO O PRAZO MARCADO NO DECRETO NÚMERO 8.725 DE 4 DE NEVEMBRO DE 1882, PARA A CONCLUSÃO DAS OBRAS DA ESTRADA DE FERRO DO NORTE, DA QUAL E CESSIONÁRIA A RIO DE JANEIRO AND. NORTHERN RAILWAY COMPANY LIMITED."
+    },
+    {
+      "senadoId": "418955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10306",
+      "titulo": "Decreto nº 10.306 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10306",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10306",
+      "ementa": "APROVA A PLANTA DA ESTAÇÃO QUE A COMPANHIA DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ FOI AUTORIZADA A CONSTRUIR NA COLINA DO IPIRANGA."
+    },
+    {
+      "senadoId": "418976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10313",
+      "titulo": "Decreto nº 10.313 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10313",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10313",
+      "ementa": "ALTERA AS CLAUSULAS 2, 5 E 34 DO DECRETO 10.250 DE 31 DE MAIO DE 1889 QUE CONCEDEU PRIVILEGIO E GARANTIA DE JURO PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO DE CAXIAS PARA CAJAZEIRAS, NA PROVINCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "418940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10301",
+      "titulo": "Decreto nº 10.301 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10301",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10301",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA AOS HERDEIROS DO FINADO TENENTE-CORONEL HENRIQUE ISIDORO XAVIER BRITO."
+    },
+    {
+      "senadoId": "418937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10300",
+      "titulo": "Decreto nº 10.300 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10300",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10300",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A GUIÇHERME FRANCISCO JONES PARA LAVRAR MINERAIS NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "418949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10304",
+      "titulo": "Decreto nº 10.304 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10304",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10304",
+      "ementa": "MANDA OBSERVAR NA PRAÇA COMERCIAL DE BELEM O DECRETO 2.923 DE 14 DE \"MAIO DE 1862, QUE ELEVOU OS EMOLUMENTOS DOS INTERPRETES DA PRAÇA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10305",
+      "titulo": "Decreto nº 10.305 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10305",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10305",
+      "ementa": "ELEVA O NÚMERO DE CORRETORES DE FUNDOS PÚBLICOS DA PRAÇA DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "418923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10295",
+      "titulo": "Decreto nº 10.295 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10295",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10295",
+      "ementa": "APROVA A RESOLUÇÃO DA ILUSTRÍSSIMA CAMARA MUNICIPAL SOBRE A PROPOSTA PARA O EMPRESTIMO MUNICIPAL."
+    },
+    {
+      "senadoId": "418967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10310",
+      "titulo": "Decreto nº 10.310 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10310",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10310",
+      "ementa": "SUBSTITUI POR OUTRAS AS CLÁUSULAS 31ª E 32ª DO DECRETO NÚMERO 10.101 DE 1 DE DEZEMBRO DE 1889 QUE CONCEDE À COMPANHIA DA ESTRADA DE FERRO MINAS E RIO PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DE UM RAMAL DA RESPECTIVA ESTRADA PARA A CIDADE DA COMPANHIA, COM UM SUB-RAMAL PARA AS ÁGUAS VIRTUOSAS DE LAMBARY."
+    },
+    {
+      "senadoId": "418958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10307",
+      "titulo": "Decreto nº 10.307 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10307",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10307",
+      "ementa": "PRORROGA POR 60 DIAS O PRAZO MARCADO NA CLÁUSULA 2ª DO DECRETO NÚMERO 10.101 DE 1 DE DEZEMBRO DE 1888 PARA A APRESENTAÇÃO DOS ESTUDOS DEFINITIVOS DO RAMAL DA ESTRADA DE FERRO MINAS E RIO QUE TERMINA NA CIDADE DE DA COMPANHIA, COM UM SUB-RAMAL PARA AS ÁGUAS VIRTUOSAS DE LAMBARI."
+    },
+    {
+      "senadoId": "418961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10308",
+      "titulo": "Decreto nº 10.308 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10308",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10308",
+      "ementa": "CONCEDE À MINAS AND RIO RAILWAY COMPANY, LIMITED A NAVEGAÇÃO DOS RIOS VERDES E SAPUCAÍY, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "418970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10311",
+      "titulo": "Decreto nº 10.311 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10311",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10311",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A COMPANHIA - ENGENHO GERAL DE ARACATY - PELO DECRETO NÚMERO 7.508 DE 27 DE SETEMBRO DE 1879."
+    },
+    {
+      "senadoId": "418973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10312",
+      "titulo": "Decreto nº 10.312 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10312",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10312",
+      "ementa": "TRANSFERE A EMPRESA BRASIL METALÚRGICO A CONCESSÃO FEIRA POR DECRETO NÚMERO 9.787 DE 6 DE OUTUBRO DE 1887 PARA LAVRAR FERRO MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10309",
+      "titulo": "Decreto nº 10.309 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10309",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10309",
+      "ementa": "SUBSTITUI POR OUTRAS AS CLÁUSULAS 4ª E 5ª DO DECRETO NÚMERO 10.122 DE 15 DE DEZEMBRO DE 1888 QUE CONCEDEU À COMPANHIA DA ESTRADA DE FERRO MINAS E RIO PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DO PROLONGAMENTO DA MESMA ESTRADA ATÉ AO PONTO NAVEGÁVEL DO RIO VERDE."
+    },
+    {
+      "senadoId": "418934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10299",
+      "titulo": "Decreto nº 10.299 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10299",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10299",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A CANDIDO LUCIO DE BITTENCOURT E ANTONIO DE SOUZA RIBEIRO JUNIOR, PARA EXPLORAREM OURO E OUTROS MINERAIS NA PROVÍNCIA DE  MINAS GERAIS."
+    },
+    {
+      "senadoId": "418929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10297",
+      "titulo": "Decreto nº 10.297 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10297",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10297",
+      "ementa": "DECLARA ESPECIAL A COMARCA DO RIO PIRANGA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "418946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10303",
+      "titulo": "Decreto nº 10.303 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10303",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10303",
+      "ementa": "CONCEDE A MANOEL GONÇALVES DA ROSA PRORROGAÇÃO DE PRAZO PARA LAVRAR MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "418931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10298",
+      "titulo": "Decreto nº 10.298 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10298",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10298",
+      "ementa": "ALTERA O PLANO PARA OS UNIFORMES DOS OFICIAIS DE TODAS AS CLASSES E DENOMINAÇÃO DA ARMADA."
+    },
+    {
+      "senadoId": "418943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-10-10302",
+      "titulo": "Decreto nº 10.302 de 10/08/1889",
+      "data": "1889-08-10",
+      "numero": "10302",
+      "urn": "urn:lex:br:federal:decreto:1889-08-10;10302",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA À COMPANHIA DE MINAS DE OURO E COBRE AO SUL DO BRASIL."
+    },
+    {
+      "senadoId": "418917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10293",
+      "titulo": "Decreto nº 10.293 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10293",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10293",
+      "ementa": "DETERMINA QUE AS AULAS DA ESCOLA DE MINAS SEJAM ABERTAS NO DIA PRIMEIRO DE SETEMBRO."
+    },
+    {
+      "senadoId": "418902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10288",
+      "titulo": "Decreto nº 10.288 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10288",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10288",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A JOAQUIM CANDIDO GUIMARÃES JUNIOR E EDUARDO DE SÁ BITTENCOURT CAMARA PARA EXPLORAREM CARVÃO DE PEDRA NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418920",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10294",
+      "titulo": "Decreto nº 10.294 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10294",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10294",
+      "ementa": "APROVA A PLANTA DOS TERRENOS NECESSARIOS PARA O ESTABELECIMENTO DE UMA NOVA ESTAÇÃO DA ESTRADA DE FERRO DE SANTOS A JUNDIAY, ENTRE OS BAIRROS DO BRAZ E DA LUZ, NA CIDADE DE SÃO PAULO, E DECLARA SEM EFEITO O DECRETO  10.187 DE 9 DE FEVEREIRO DE 1839, QUE APROVOU A PLANTA DE TERRENOS NO BRAZ."
+    },
+    {
+      "senadoId": "418914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10292",
+      "titulo": "Decreto nº 10.292 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10292",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10292",
+      "ementa": "APROVA AS PLANTAS DOS TERRENOS PARA O AUMENTO DA ÁREA DA ESTAÇÃO DA BARRA DO PIRAÍ, DA ESTRADA DE FERRO D. PEDRO II."
+    },
+    {
+      "senadoId": "418896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10286",
+      "titulo": "Decreto nº 10.286 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10286",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10286",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO MARCADO NA CLÁUSULA 2ª DO DECRETO NÚMERO 10.150 DE 5 DE JANEIRO DE 1889 PARA A INCORPORAÇÃO DA COMPANHIA QUE DEVE CONSTRUIR A ESTRADA DE FERRO DE TAUBATÉ A UBATUBA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10290",
+      "titulo": "Decreto nº 10.290 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10290",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10290",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 8.054 DE 24 DE MARÇO DE 1881, A COMPANHIA - ENGENHO CENTRAL DE BRACUHY - PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FABRICO DE AÇUCAR DE CANA, NO MUNÍCIPIO DE ANGRA DOS REIS, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10285",
+      "titulo": "Decreto nº 10.285 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10285",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10285",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE MACAÚBAS, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10287",
+      "titulo": "Decreto nº 10.287 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10287",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10287",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA POR DECRETO NÚMERO 9961 DE 6 DE JUNHO DE 1888."
+    },
+    {
+      "senadoId": "418911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10291",
+      "titulo": "Decreto nº 10.291 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10291",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10291",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JURO PARA CONSTRUÇÃO DE UM RAMAL DA ESTRADA DE FERRO CENTRAL DAS ALAGOAS, QUE VÁ TERMINAR NA EXTINTA COLÔNIA MILITAR LEOPOLDINA, ATRAVESSANDO OS VALES MIRIM, JETITUBA, SANTO ANTÔNIO GRANDE, CAMARAGIBE, MANGUABA E JACUÍPE."
+    },
+    {
+      "senadoId": "418905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-08-03-10289",
+      "titulo": "Decreto nº 10.289 de 03/08/1889",
+      "data": "1889-08-03",
+      "numero": "10289",
+      "urn": "urn:lex:br:federal:decreto:1889-08-03;10289",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 10.229 DE 5 DE ABRIL DE 1889, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DO BANANAL, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10283",
+      "titulo": "Decreto nº 10.283 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10283",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10283",
+      "ementa": "CONCEDE  AO ENGENHEIRO GUILHERME DE CAPANEMA PRORROGAÇÃO DO PRAZO PARA COMPLETAR A EXPLORAÇÃO DE MINERAIS ENTRE PIRIÁ E TURR-ASSU."
+    },
+    {
+      "senadoId": "418884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10282",
+      "titulo": "Decreto nº 10.282 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10282",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10282",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A JOHN WETSON PARA LAVRAR MINERAIS NA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "418872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10278",
+      "titulo": "Decreto nº 10.278 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10278",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10278",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 9169 DE 22 DE MARÇO DE 1884, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DE TAUBATÉ, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10281",
+      "titulo": "Decreto nº 10.281 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10281",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10281",
+      "ementa": "CONCEDE PERMISSÃO A CHARLES H. WARD PARA EXPLORAR OURO MINERAIS NOS MUNICÍPIOS DE POCONÉ, NOSSA SENHORA DO LIVRAMENTO E NO DA CAPITAL DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "418890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10284",
+      "titulo": "Decreto nº 10.284 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10284",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10284",
+      "ementa": "CONCEDE PERMISSÃO AO ENGENHEIRO GUILHERME DE CAPANEMA PARA LAVRAR MINERAIS NA PARTE JÁ EXPLORADA ENTRE OS AFLUENTES DOS RIOS PIRIÁ, NO PARÁ, E TURY-ASSU, NO MARANHÃO."
+    },
+    {
+      "senadoId": "418869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10277",
+      "titulo": "Decreto nº 10.277 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10277",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10277",
+      "ementa": "AUTORIZA O PROLONGAMENTO DO CAIS EM CONSTRUÇÃO NO PORTO DE SANTOS ATE AO ENTRONCAMENTO QUE PRECEDE A PONTE NOVA DA ESTRADA DE FERRO, BEM COMO O ESTABELECIMENTO NA ENCEADA DO VALONGO DE UM DIQUE DESTINADO A REPARAÇÕES DE NAVIOS E OUTRAS EMBARCAÇÕES."
+    },
+    {
+      "senadoId": "418875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10279",
+      "titulo": "Decreto nº 10.279 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10279",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10279",
+      "ementa": "RETIFICA O ERRO TIPOGRÁFICO QUE SE NOTA NO ARTIGO 117, PARÁGRAFO 6, DO DECRETO 573 DE 2 DE SETEMBRO DE 1874."
+    },
+    {
+      "senadoId": "418878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-30-10280",
+      "titulo": "Decreto nº 10.280 de 30/07/1889",
+      "data": "1889-07-30",
+      "numero": "10280",
+      "urn": "urn:lex:br:federal:decreto:1889-07-30;10280",
+      "ementa": "AUTORIZA A COMPANHIA DA ESTRADA DE FERRO SÃO PAULO E RIO DE JANEIRO A PROLONGAR OS TRILHOS DA MESMA ESTRADA ATÉ AO CENTRO DA CIDADE DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10276",
+      "titulo": "Decreto nº 10.276 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10276",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10276",
+      "ementa": "PRORROGA POR SEIS MESES PRAZO MARCADO PARA APRESENTAÇÃO DOS ESTUDOS DIFINITIVOS PRINCIPE D. AFONSO, ENTRE AS PROVÍNCIAS DE SANTA CATARINA E SAO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "418854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10272",
+      "titulo": "Decreto nº 10.272 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10272",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10272",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA EQUITABLE LIFE ASSURANCE, PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "418848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10270",
+      "titulo": "Decreto nº 10.270 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10270",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10270",
+      "ementa": "AUTORIZA QUE SE DIVIDA, ENTRE O LENTE E O SEU SUBSTITUTO, O ENSINO DAS MATÉRIAS PROFESSADAS NA ESCOLA POLITÉCNICA."
+    },
+    {
+      "senadoId": "418863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10275",
+      "titulo": "Decreto nº 10.275 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10275",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10275",
+      "ementa": "APROVA OS CONTRATOS PARA FORNECIMENTO DE CANAS AOS ENGENHOS CENTRAIS DO CEARA-MIRIM, PROVINCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "418860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10274",
+      "titulo": "Decreto nº 10.274 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10274",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10274",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 9.634 DE 28 DE AGOSTO DE 1886, PARA ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DE SANTO AMARO, PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418842",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10268",
+      "titulo": "Decreto nº 10.268 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10268",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10268",
+      "ementa": "SUBSTITUI O JURAMENTO PARA A COLAÇÃO DOS GRAUS DE BACHAREL E DOUTOR PELAS FACULDADE DE DIREITO E ESCOLA POLITÉCNICA E DE BACHAREL EM LETRAS."
+    },
+    {
+      "senadoId": "418839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10267",
+      "titulo": "Decreto nº 10.267 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10267",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10267",
+      "ementa": "RESTABELECE A TAXA DE UM CENTO EXIGIDA PELO DECRETO NÚMERO 5536 DE 31 DE JANEIRO DE 1874, SOBRE A CONTAGEM DO PARTICULARES."
+    },
+    {
+      "senadoId": "418851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10271",
+      "titulo": "Decreto nº 10.271 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10271",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10271",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DO RIO SÃO FRANCISCO, PARA ESSE FIM DESLIGADA DE CAMPO LARGO, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10269",
+      "titulo": "Decreto nº 10.269 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10269",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10269",
+      "ementa": "ALTERA O REGULAMENTO DA IMPRENSA NACIONAL E DIÁRIO OFICIAL."
+    },
+    {
+      "senadoId": "418857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-20-10273",
+      "titulo": "Decreto nº 10.273 de 20/07/1889",
+      "data": "1889-07-20",
+      "numero": "10273",
+      "urn": "urn:lex:br:federal:decreto:1889-07-20;10273",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA THE LONDON LANCASHIRE FIRE INSURANCE COMPANY."
+    },
+    {
+      "senadoId": "418836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-13-10266",
+      "titulo": "Decreto nº 10.266 de 13/07/1889",
+      "data": "1889-07-13",
+      "numero": "10266",
+      "urn": "urn:lex:br:federal:decreto:1889-07-13;10266",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DA ESTRADA DE FERRO DE MACAE A SERRA DO FRADE QUE PASSA A DENOMINAR-SE CENTRAL DE MACAÉ."
+    },
+    {
+      "senadoId": "418830",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-13-10264",
+      "titulo": "Decreto nº 10.264 de 13/07/1889",
+      "data": "1889-07-13",
+      "numero": "10264",
+      "urn": "urn:lex:br:federal:decreto:1889-07-13;10264",
+      "ementa": "ESTABELECE REGRAS PARA A EXECUÇÃO DOS ARTIGOS 65, 68 E 69 DA LEI NÚMERO 602 DE 19 DE SETEMBRO DE 1850, E DA OUTRAS PROVIDÊNCIAS RELATIVAS A GUARDA NACIONAL."
+    },
+    {
+      "senadoId": "418833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-13-10265",
+      "titulo": "Decreto nº 10.265 de 13/07/1889",
+      "data": "1889-07-13",
+      "numero": "10265",
+      "urn": "urn:lex:br:federal:decreto:1889-07-13;10265",
+      "ementa": "MANDA INCLUIR NA TABELA QUE ACOMPANHOU O DECRETO NÚMERO 10.170, DE 26 DE JANEIRO DO CORRENTE ANO ALGUMAS MERCADORIAS DA TARIFA GERAL DAS  ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "418824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-06-10262",
+      "titulo": "Decreto nº 10.262 de 06/07/1889",
+      "data": "1889-07-06",
+      "numero": "10262",
+      "urn": "urn:lex:br:federal:decreto:1889-07-06;10262",
+      "ementa": "REGULA A EXECUÇÃO DO DECRETO NÚMERO 3.403 DE 24 DE NOVEMBRO DE 1888, NA PARTE RELATIVA AOS BANCOS DE EMISSÃO COM CAPITAL METÁLICO."
+    },
+    {
+      "senadoId": "418827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-07-06-10263",
+      "titulo": "Decreto nº 10.263 de 06/07/1889",
+      "data": "1889-07-06",
+      "numero": "10263",
+      "urn": "urn:lex:br:federal:decreto:1889-07-06;10263",
+      "ementa": "ALTERA A TABELA DO REGULAMENTO DAS CAIXAS ECONOMICA E MONTES DE SOCORRO DE 2 DE ABRIL DE 1887."
+    },
+    {
+      "senadoId": "418818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-28-10260",
+      "titulo": "Decreto nº 10.260 de 28/06/1889",
+      "data": "1889-06-28",
+      "numero": "10260",
+      "urn": "urn:lex:br:federal:decreto:1889-06-28;10260",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO 10.159 DE 5 DE JANEIRO DE 1889."
+    },
+    {
+      "senadoId": "418815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-28-10259",
+      "titulo": "Decreto nº 10.259 de 28/06/1889",
+      "data": "1889-06-28",
+      "numero": "10259",
+      "urn": "urn:lex:br:federal:decreto:1889-06-28;10259",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO 10.158 DE 5 DE JANEIRO DE 1889."
+    },
+    {
+      "senadoId": "418809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-28-10257",
+      "titulo": "Decreto nº 10.257 de 28/06/1889",
+      "data": "1889-06-28",
+      "numero": "10257",
+      "urn": "urn:lex:br:federal:decreto:1889-06-28;10257",
+      "ementa": "CONCEDE PERMISSÃO A ALFREDO THEULOT PARA LAVRAR OURO E OUTROS MINERAIS NO LUGAR DENOMINADO LAVRINHAS, MUNICÍPIO DO LIVRAMENTO, PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "418812",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-28-10258",
+      "titulo": "Decreto nº 10.258 de 28/06/1889",
+      "data": "1889-06-28",
+      "numero": "10258",
+      "urn": "urn:lex:br:federal:decreto:1889-06-28;10258",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO 9929 DE 11 DE ABRIL DE 1888."
+    },
+    {
+      "senadoId": "418821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-28-10261",
+      "titulo": "Decreto nº 10.261 de 28/06/1889",
+      "data": "1889-06-28",
+      "numero": "10261",
+      "urn": "urn:lex:br:federal:decreto:1889-06-28;10261",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DENOMINADA MANHEIMER VERSICHERUNGSGESELLSCHAFT."
+    },
+    {
+      "senadoId": "418800",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-22-10254",
+      "titulo": "Decreto nº 10.254 de 22/06/1889",
+      "data": "1889-06-22",
+      "numero": "10254",
+      "urn": "urn:lex:br:federal:decreto:1889-06-22;10254",
+      "ementa": "ELEVA DE SEIS A OITO COMPANHIAS O 4º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO MUNICÍPIO DO ACARÁ, DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "418806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-22-10256",
+      "titulo": "Decreto nº 10.256 de 22/06/1889",
+      "data": "1889-06-22",
+      "numero": "10256",
+      "urn": "urn:lex:br:federal:decreto:1889-06-22;10256",
+      "ementa": "CONCEDE À COMPANHIA ALAGOAS RAILWAY PRIVILÉGIO E GARANTIA DE JUROS PARA O ESTABELECIMENTO DE UM RAMAL DA SUA ESTRADA DE FERRO, QUE TERMINE NA VILA DA ASSEMBLÉIA."
+    },
+    {
+      "senadoId": "418803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-22-10255",
+      "titulo": "Decreto nº 10.255 de 22/06/1889",
+      "data": "1889-06-22",
+      "numero": "10255",
+      "urn": "urn:lex:br:federal:decreto:1889-06-22;10255",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AO DR. JOÃO RAIMUNDO PEREIRA DA SILVA PARA DAR COMEÇO AOS TRABALHOS DE EXTRAÇÃO DE CARBONATO DE CAL NOS MARES TERRITORIAIS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "418797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-19-10253",
+      "titulo": "Decreto nº 10.253 de 19/06/1889",
+      "data": "1889-06-19",
+      "numero": "10253",
+      "urn": "urn:lex:br:federal:decreto:1889-06-19;10253",
+      "ementa": "DERROGA TODOS OS DECRETOS QUE DECLARARAM ESPECIAIS COMARCAS COMPOSTAS DE MAIS DE UM TERMO, FORA DA SEDE DA RELAÇÃO."
+    },
+    {
+      "senadoId": "418794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-15-10252",
+      "titulo": "Decreto nº 10.252 de 15/06/1889",
+      "data": "1889-06-15",
+      "numero": "10252",
+      "urn": "urn:lex:br:federal:decreto:1889-06-15;10252",
+      "ementa": "CONVOCA PARA O DIA 20 DE NOVEMBRO DO CORRENTE ANO A NOVA ASSEMBLÉIA GERAL E DESIGNA O DIA 31 DE AGOSTO DO MESMO ANO PARA SE PROCEDER EM TODO O IMPÉRIO À ELEIÇÃO DE DEPUTADOS."
+    },
+    {
+      "senadoId": "418791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-06-15-10251",
+      "titulo": "Decreto nº 10.251 de 15/06/1889",
+      "data": "1889-06-15",
+      "numero": "10251",
+      "urn": "urn:lex:br:federal:decreto:1889-06-15;10251",
+      "ementa": "DISSOLVE A CÂMARA DOS DEPUTADOS E CONVOCA OUTRA."
+    },
+    {
+      "senadoId": "418780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10248",
+      "titulo": "Decreto nº 10.248 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10248",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10248",
+      "ementa": "APROVA OS CONTRATOS PARA FORNECIMENTO DE CANAS AO ENGENHO CENTRAL DE PORTO-FELIZ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10250-b",
+      "titulo": "Decreto nº 10.250-B de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10250-b",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10250-b",
+      "ementa": "CONCEDE PERMISSÃO A G. GEHLEN & COMPANHIA PARA EXPLORAREM MINERAIS NO MUNICÍPIO DE SÃO JOÃO DO PRÍNCIPE, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10249",
+      "titulo": "Decreto nº 10.249 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10249",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10249",
+      "ementa": "PRORROGA POR DOIS MESES O PRAZO FIXADO NA CLÁUSULA 2ª DO DECRETO 10.090 DE 24 DE NOVEMBRO DE 1888, PARA A APRESENTAÇÃO DOS ESTUDOS DO PROLONGAMENTO DA ESTRADA DE FERRO SOROCABANA, ENTRE BOTUCATÚ E A VILA DE SANTA CRUZ DO RIO PARDO."
+    },
+    {
+      "senadoId": "418786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10250",
+      "titulo": "Decreto nº 10.250 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10250",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10250",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO DE CAXIAS PARA CAJAZEIRAS, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "418771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10245",
+      "titulo": "Decreto nº 10.245 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10245",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10245",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% AO ANO SOBRE O CAPITAL QUE FOR EMPREGADO NO PROLONGAMENTO DA ESTRADA DE FERRO BARÃO DE ARARUAMA PELO VALE DO RIO MACABÚ ATÉ ENCONTRAR NA ESTRADA DE FERRO LEOPOLDINA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418768",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10244",
+      "titulo": "Decreto nº 10.244 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10244",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10244",
+      "ementa": "CRIA UM CONSELHO DE ASSISTÊNCIA PARA A \"CASA DE SÃO JOSÉ\", \"COLÔNIA DE SÃO BENTO\", E \"ASILO DO CONDE DE MESQUITA\"."
+    },
+    {
+      "senadoId": "418777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10247",
+      "titulo": "Decreto nº 10.247 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10247",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10247",
+      "ementa": "CONCEDE A ANTÔNIO JOSÉ GOMES DA CUNHA E JOSÉ FRANCISCO RIBEIRO MACIEL GARANTIA DE JUROS PARA UM ENGENHO CENTRAL DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, E ESTABELECIDO NO MUNICÍPIO DO ROSÁRIO DO CATETE EM SERGIPE."
+    },
+    {
+      "senadoId": "418774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10246",
+      "titulo": "Decreto nº 10.246 de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10246",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10246",
+      "ementa": "AUTORIZA O ENGENHEIRO CIVIL JOAQUIM LEITE RIBEIRO DE ALMEIDA JÚNIOR, CONCESSIONÁRIO DA ESTRADA DE FERRO DO CORCOVADO, A TRANSFERIR A DITA ESTRADA AO CIDADÃO INGLES BRADY OU Á EMPRESA QUE ESTE ORGANIZAR."
+    },
+    {
+      "senadoId": "418789",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-31-10250-a",
+      "titulo": "Decreto nº 10.250-A de 31/05/1889",
+      "data": "1889-05-31",
+      "numero": "10250-a",
+      "urn": "urn:lex:br:federal:decreto:1889-05-31;10250-a",
+      "ementa": "CONCEDE PERMISSÃO AO BACHAREL MANOEL JOSÉ FERREIRA PENA E JOSÉ PINHEIRO DE ULHÔA PARA EXPLORAREM CARVÃO DE PEDRA E OUTROS MINERAIS NOS MUNICÍPIOS DE PASSOS, JACUÍ E SÃO SEBASTIÃO DO PARAÍSO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "418765",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-18-10243",
+      "titulo": "Decreto nº 10.243 de 18/05/1889",
+      "data": "1889-05-18",
+      "numero": "10243",
+      "urn": "urn:lex:br:federal:decreto:1889-05-18;10243",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS DO SERVIÇO ATIVO E UMA SEÇÃO DE BATALHÃO DA RESERVA NA COMARCA DE CARUARÚ, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-02-10238",
+      "titulo": "Decreto nº 10.238 de 02/05/1889",
+      "data": "1889-05-02",
+      "numero": "10238",
+      "urn": "urn:lex:br:federal:decreto:1889-05-02;10238",
+      "ementa": "CRIA ESCOLAS DE APRENDIZES MARINHEIROS NAS PROVÍNCIAS DAS ALAGOAS, SERGIPE, RIO GRANDE DO NORTE E SÃO PAULO."
+    },
+    {
+      "senadoId": "418754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-02-10239",
+      "titulo": "Decreto nº 10.239 de 02/05/1889",
+      "data": "1889-05-02",
+      "numero": "10239",
+      "urn": "urn:lex:br:federal:decreto:1889-05-02;10239",
+      "ementa": "CONCEDE PERMISSÃO A JOÃO MARIA DO VALE, ENGENHEIRO ABDON FELINTO MILANEZ E EMÍLIO DE MENEZES PARA EXPLORAREM CARVÃO DE PEDRA, PETRÓLEO E OUTROS MINERAIS NOS VALES DOS RIBEIRÕES CANAVIEIRAS E CUBATÃO, NO MUNICÍPIO DE GUARATUBA, PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "418757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-02-10240",
+      "titulo": "Decreto nº 10.240 de 02/05/1889",
+      "data": "1889-05-02",
+      "numero": "10240",
+      "urn": "urn:lex:br:federal:decreto:1889-05-02;10240",
+      "ementa": "CONCEDE PERMISSÃO A AFONSE NORAT PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "418759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-02-10241",
+      "titulo": "Decreto nº 10.241 de 02/05/1889",
+      "data": "1889-05-02",
+      "numero": "10241",
+      "urn": "urn:lex:br:federal:decreto:1889-05-02;10241",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO AO BARÃO DE IBIAPABA PARA EXPLORAR COBRE NO MUNICIPIO DE SÃO BENEDITO, DA PROVINCIA DO CEARA."
+    },
+    {
+      "senadoId": "418762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-02-10242",
+      "titulo": "Decreto nº 10.242 de 02/05/1889",
+      "data": "1889-05-02",
+      "numero": "10242",
+      "urn": "urn:lex:br:federal:decreto:1889-05-02;10242",
+      "ementa": "PRORROGA POR 15 DIAS O PRAZO MARCADO NA CLÁUSULA 2ª DO DECRETO 10.121 DE 15 DE DEZEMBRO DE 1888 PARA A APRESENTAÇÃO DOS ESTUDOS DEFINITIVOS DA ESTRADA DE FERRO DE MACAÉ A SERRA DO FRADE."
+    },
+    {
+      "senadoId": "418748",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-05-02-10237",
+      "titulo": "Decreto nº 10.237 de 02/05/1889",
+      "data": "1889-05-02",
+      "numero": "10237",
+      "urn": "urn:lex:br:federal:decreto:1889-05-02;10237",
+      "ementa": "ESTABELECE BASES GERAIS PARA O TRANSPORTE  DAS BAGAGENS, ENCOMENDAS, ANIMAIS E MERCADORIAS, TRANSPORTADAS PELAS ESTRADAS DE FERRO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "418745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-27-10236-a",
+      "titulo": "Decreto nº 10.236-A de 27/04/1889",
+      "data": "1889-04-27",
+      "numero": "10236-a",
+      "urn": "urn:lex:br:federal:decreto:1889-04-27;10236-a",
+      "ementa": "RESTABELECE OS LUGARES DE SECRETÁRIOS DAS CAPITÂNIAS DOS PORTOS NAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "418742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-27-10236",
+      "titulo": "Decreto nº 10.236 de 27/04/1889",
+      "data": "1889-04-27",
+      "numero": "10236",
+      "urn": "urn:lex:br:federal:decreto:1889-04-27;10236",
+      "ementa": "GARANTE AMORTIZAÇÃO E JURO AO EMPRÉSTIMO QUE CONTRAIR A ASSOCIAÇÃO COMERCIAL DO RIO DE JANEIRO PARA CONSOLIDAÇÃO DA DÍVIDA PROVENIENTE DA CONSTRUÇÃO DO EDIFÍCIO DA NOVA PRAÇA DO COMÉRCIO."
+    },
+    {
+      "senadoId": "418747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-27-10236-b",
+      "titulo": "Decreto nº 10.236-B de 27/04/1889",
+      "data": "1889-04-27",
+      "numero": "10236-b",
+      "urn": "urn:lex:br:federal:decreto:1889-04-27;10236-b",
+      "ementa": "ESTABELECE OS VENCIMENTOS QUE DEVEM PERCEBER OS SECRETÁRIOS DAS CAPITÂNIAS DOS PORTOS."
+    },
+    {
+      "senadoId": "418739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-22-10235",
+      "titulo": "Decreto nº 10.235 de 22/04/1889",
+      "data": "1889-04-22",
+      "numero": "10235",
+      "urn": "urn:lex:br:federal:decreto:1889-04-22;10235",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% SOBRE O CAPITAL DE 1.150:000$ Á COMPANHIA QUE JOAQUIM INÁCIO PEREIRA ORGANIZAR PARA O ESTABELECIMENTO DE DOIS ENGENHOS CENTRAIS PARA O FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA NO MUNICÍPIO DO CEARÁ-MIRIM, PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "418730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-13-10232",
+      "titulo": "Decreto nº 10.232 de 13/04/1889",
+      "data": "1889-04-13",
+      "numero": "10232",
+      "urn": "urn:lex:br:federal:decreto:1889-04-13;10232",
+      "ementa": "REGULA O PROVIMENTO DOS LUGARES DE MEMBROS DA INSPETORIA GERAL DE HIGIÊNE, DELEGADOS DE HIGIÊNE NAS PARÓQUIAS URBANAS, MÉDICO DEMOGRAFISTA E DE QUÍMICOS DO LABORATÓRIO DO ESTADO."
+    },
+    {
+      "senadoId": "418733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-13-10233",
+      "titulo": "Decreto nº 10.233 de 13/04/1889",
+      "data": "1889-04-13",
+      "numero": "10233",
+      "urn": "urn:lex:br:federal:decreto:1889-04-13;10233",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO 8992 DE 18 DE AGOSTO DE 1883, PARA O ESTABELECIMENTO DE COMUNICAÇÕES TELEGRAFICAS ENTRE A CIDADE DA FORTALEZA, NA PROVINCIA DO CEARA, E OS ESTADOS UNIDOS."
+    },
+    {
+      "senadoId": "418724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-13-10230",
+      "titulo": "Decreto nº 10.230 de 13/04/1889",
+      "data": "1889-04-13",
+      "numero": "10230",
+      "urn": "urn:lex:br:federal:decreto:1889-04-13;10230",
+      "ementa": "SEPARA DO LABORATÓRIO DE HIGIÊNE DA FACULDADE DE MEDICINA DO RIO DE JANEIRO O SERVIÇO DAS ANÁLISES E EXAMES DE QUE TRATA O ARTIGO 1º DO REGULAMENTO APROVADO PELO DECRETO 9093 DE 22 DE DEZEMBRO DE 1883, E DÁ REGULAMENTO PARA O INSTITUTO DE HIGIÊNE DA MESMA FACULDADE."
+    },
+    {
+      "senadoId": "418727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-13-10231",
+      "titulo": "Decreto nº 10.231 de 13/04/1889",
+      "data": "1889-04-13",
+      "numero": "10231",
+      "urn": "urn:lex:br:federal:decreto:1889-04-13;10231",
+      "ementa": "DÁ REGULAMENTO AO LABORATÓRIO DO ESTADO."
+    },
+    {
+      "senadoId": "418736",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-13-10234",
+      "titulo": "Decreto nº 10.234 de 13/04/1889",
+      "data": "1889-04-13",
+      "numero": "10234",
+      "urn": "urn:lex:br:federal:decreto:1889-04-13;10234",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A CHARLES ROBILARD LEPEUTRE DE MARIGNI PARA EXPLORAR CHUMBO E OUTROS MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10224",
+      "titulo": "Decreto nº 10.224 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10224",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10224",
+      "ementa": "ELEVA A QUATRO ESQUADRÕES O 1º CORPO DE CAVALARIA E CRIA NOVOS BATALHÕES DE GUARDAS NACIONAIS NA CAPITAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10226",
+      "titulo": "Decreto nº 10.226 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10226",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10226",
+      "ementa": "APROVA O REGULAMENTO QUE ALTERA AS DISPOSIÇÕES DO DECRETO 5881 DE 27 DE FEVEREIRO DE 1875, RELATIVAS AO PROCESSO DO ALISTAMENTO DOS CIDADÃOS PARA O SERVIÇO DO EXÉRCITO E ARMADA."
+    },
+    {
+      "senadoId": "418700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10222",
+      "titulo": "Decreto nº 10.222 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10222",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10222",
+      "ementa": "DÁ NOVO REGULAMENTO PARA O CORPO MILITAR DE POLÍCIA DA CÔRTE."
+    },
+    {
+      "senadoId": "418718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10228",
+      "titulo": "Decreto nº 10.228 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10228",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10228",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% SOBRE O CAPITAL DE 400:000$ EMPREGADO PELA COMPANHIA \"ENGENHO CENTRAL DE PORTO-FELIZ\" NA CONSTRUÇÃO DE UM ENGENHO CENTRAL PARA O FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO MUNICÍPIO DO MESMO NOME, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10227",
+      "titulo": "Decreto nº 10.227 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10227",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10227",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DAS OBRAS MILITARES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "418703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10223",
+      "titulo": "Decreto nº 10.223 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10223",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10223",
+      "ementa": "DÁ NOVO REGULAMENTO Á CASA DE DETENÇÃO DA CÔRTE."
+    },
+    {
+      "senadoId": "418721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10229",
+      "titulo": "Decreto nº 10.229 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10229",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10229",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% AO ANO SOBRE O CAPITAL DE 400:000$ Á COMPANHIA QUE O BARÃO DE RIBEIRO BARBOSA ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO MUNICÍPIO DO BANANAL, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-04-05-10225",
+      "titulo": "Decreto nº 10.225 de 05/04/1889",
+      "data": "1889-04-05",
+      "numero": "10225",
+      "urn": "urn:lex:br:federal:decreto:1889-04-05;10225",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE CANINDÉ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "418685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-30-10217",
+      "titulo": "Decreto nº 10.217 de 30/03/1889",
+      "data": "1889-03-30",
+      "numero": "10217",
+      "urn": "urn:lex:br:federal:decreto:1889-03-30;10217",
+      "ementa": "APLICA AS SUCESSÕES DE SÚBITOS ITALIANOS FALECIDOS NO BRASIL AS DISPOSIÇÕES DO DECRETO 855 DE 8 DE NOVEMBRO DE 1851, A QUE SE REFERE O SEU ARTIGO 24."
+    },
+    {
+      "senadoId": "418688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-30-10218",
+      "titulo": "Decreto nº 10.218 de 30/03/1889",
+      "data": "1889-03-30",
+      "numero": "10218",
+      "urn": "urn:lex:br:federal:decreto:1889-03-30;10218",
+      "ementa": "APROVA OS CONTRATOS CELEBRADOS COM AGRICULTORES PARA O FORNECIMENTO DE CANA AO ENGENHO CENTRAL DE QUE SÃO CONCESSIONÁRIOS JUSTINO EPAMINONDAS DA ASSUNÇÃO NEVES E MANOEL DO NASCIMENTO VIEIRA DA CUNHA SOBRINHO, NO MUNICÍPIO DE PÁO D'ALHO, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-30-10219",
+      "titulo": "Decreto nº 10.219 de 30/03/1889",
+      "data": "1889-03-30",
+      "numero": "10219",
+      "urn": "urn:lex:br:federal:decreto:1889-03-30;10219",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO E UMA SEÇÃO DE BATALHÃO DO SERVIÇO DA RESERVA DE GUARDAS NACIONAIS, NA COMARCA DO BREJO DA MADRE DE DEUS, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-30-10220",
+      "titulo": "Decreto nº 10.220 de 30/03/1889",
+      "data": "1889-03-30",
+      "numero": "10220",
+      "urn": "urn:lex:br:federal:decreto:1889-03-30;10220",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE JAGUARIBE-MIRIM, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "418697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-30-10221",
+      "titulo": "Decreto nº 10.221 de 30/03/1889",
+      "data": "1889-03-30",
+      "numero": "10221",
+      "urn": "urn:lex:br:federal:decreto:1889-03-30;10221",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A DESAPROPRIAÇÃO DOS TERRENOS E BENFEITORIAS NECESSÁRIOS PARA O PROLONGAMENTO DA RUA VISCONDE DE OURO PRETO ATÉ AOS BAIRROS DE SÃO CRISTOVÃO E VILA ISABEL, E CONCEDE A VIVIANO DA SILVA CALDAS AUTORIZAÇÃO PARA EFETUA-LÁ NOS TERMOS DA LEI."
+    },
+    {
+      "senadoId": "418682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-26-10216",
+      "titulo": "Decreto nº 10.216 de 26/03/1889",
+      "data": "1889-03-26",
+      "numero": "10216",
+      "urn": "urn:lex:br:federal:decreto:1889-03-26;10216",
+      "ementa": "APROVA OS CONTRATOS CELEBRADOS COM AGRICULTORES PARA FORNECIMENTO DE CANAS AO ENGENHO CENTRAL DE QUE SÃO CONCESSIONÁRIOS O BARÃO DE ITAPISSUMA, O COMENDADOR JOÃO FRANCISCO DO AMARAL E O CAPITÃO NAPOLEÃO CÉSAR DUARTE, NO MUNICÍPIO DE IGUARASSÚ, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-23-10211",
+      "titulo": "Decreto nº 10.211 de 23/03/1889",
+      "data": "1889-03-23",
+      "numero": "10211",
+      "urn": "urn:lex:br:federal:decreto:1889-03-23;10211",
+      "ementa": "SUJEITA Á JURISDIÇÃO DA ALFÂNDEGA DO DESTERRO, NA PROVÍNCIA DE SANTA CATARINA, A MESA DE RENDAS DE SÃO FRANCISCO, NA MESMA PROVÍNCIA, E MARCA-LHE AS RESPECTIVAS ATRIBUIÇÕES."
+    },
+    {
+      "senadoId": "418664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-23-10210",
+      "titulo": "Decreto nº 10.210 de 23/03/1889",
+      "data": "1889-03-23",
+      "numero": "10210",
+      "urn": "urn:lex:br:federal:decreto:1889-03-23;10210",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DO LIMOEIRO, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-23-10214",
+      "titulo": "Decreto nº 10.214 de 23/03/1889",
+      "data": "1889-03-23",
+      "numero": "10214",
+      "urn": "urn:lex:br:federal:decreto:1889-03-23;10214",
+      "ementa": "PERMITE QUE A COMPANHIA ENGENHO CENTRAL DE MACAÉ, CONCESSIONÁRIA DA ESTRADA DE FERRO DE MACAÉ A SERRA DO FRADE, PASSE A DENOMINAR-SE: COMPANHIA INDÚSTRIA, LAVOURA E VIAÇÃO DE MACAÉ."
+    },
+    {
+      "senadoId": "418673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-23-10213",
+      "titulo": "Decreto nº 10.213 de 23/03/1889",
+      "data": "1889-03-23",
+      "numero": "10213",
+      "urn": "urn:lex:br:federal:decreto:1889-03-23;10213",
+      "ementa": "AUTORIZA A CONSTRUÇÃO DO RAMAL QUE, PARTINDO DA ESTRADA DE FERRO DO ESPÍRITO SANTO A MINAS GERAIS, A QUE REFERE-SE O DECRETO 10.120 DE 15 DE DEZEMBRO DE 1888, SE DIRIJA AO PORTO DE BENEVENTE."
+    },
+    {
+      "senadoId": "418679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-23-10215",
+      "titulo": "Decreto nº 10.215 de 23/03/1889",
+      "data": "1889-03-23",
+      "numero": "10215",
+      "urn": "urn:lex:br:federal:decreto:1889-03-23;10215",
+      "ementa": "APROVA OS CONTRATOS APRESENTADOS PELA COMPANHIA \"ENGENHO CENTRAL DE CAPIVARI\" PARA FORNECIMENTO DE CANA Á SUA FÁBRICA."
+    },
+    {
+      "senadoId": "418670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-23-10212",
+      "titulo": "Decreto nº 10.212 de 23/03/1889",
+      "data": "1889-03-23",
+      "numero": "10212",
+      "urn": "urn:lex:br:federal:decreto:1889-03-23;10212",
+      "ementa": "FIXA OS VENCIMENTOS DO PESSOAL DO IMPERIAL INSTITUTO DOS MENINOS CEGOS, E REGULA AS ACUMULAÇÕES E SUBSTITUIÇÕES DOS EMPREGOS DO MESMO INSTITUTO."
+    },
+    {
+      "senadoId": "418648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-16-10205",
+      "titulo": "Decreto nº 10.205 de 16/03/1889",
+      "data": "1889-03-16",
+      "numero": "10205",
+      "urn": "urn:lex:br:federal:decreto:1889-03-16;10205",
+      "ementa": "APROVA PROVISORIAMENTE AS NOVAS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA O TRANSPORTE DE PASSAGEIROS E MERCADORIAS PELA ESTRADA DE FERRO D. TEREZA CRISTINA, NA PROVÍNCIA DE SANTA CATARINA, EM SUBSTITUIÇÃO DAS QUE BAIXARAM COM O DECRETO 9224 A, DE 31 DE MAIO DE 1884."
+    },
+    {
+      "senadoId": "418660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-16-10209",
+      "titulo": "Decreto nº 10.209 de 16/03/1889",
+      "data": "1889-03-16",
+      "numero": "10209",
+      "urn": "urn:lex:br:federal:decreto:1889-03-16;10209",
+      "ementa": "APROVA OS CONTRATOS CELEBRADOS PARA FORNECIMENTO AO ENGENHO CENTRAL DE QUE É CONCESSIONÁRIO O CORONEL ANTÔNIO LUIZ DE ARAÚJO MACIEL, NO MUNICÍPIO DE JAPARATUBA, PROVÍNCIA DE SERGIPE, E ACEITA O DOCUMENTO APRESENTADO PARA DEMONSTRAR A EXISTÊNCIA DE ÁGUA E LENHA NO MESMO MUNICÍPIO, NA CONFORMIDADE DA CLÁUSULA 2ª DAS QUE ACOMPANHARAM  O DECRETO DE CONCESSÃO."
+    },
+    {
+      "senadoId": "418654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-16-10207",
+      "titulo": "Decreto nº 10.207 de 16/03/1889",
+      "data": "1889-03-16",
+      "numero": "10207",
+      "urn": "urn:lex:br:federal:decreto:1889-03-16;10207",
+      "ementa": "DECLARA DE UTILIDADE MUNICIPAL A DESAPROPRIAÇÃO DO TERRENO OCUPADO PELO BARRACÃO EXISTENTE NO LARGO DO MOURA."
+    },
+    {
+      "senadoId": "418651",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-16-10206",
+      "titulo": "Decreto nº 10.206 de 16/03/1889",
+      "data": "1889-03-16",
+      "numero": "10206",
+      "urn": "urn:lex:br:federal:decreto:1889-03-16;10206",
+      "ementa": "APROVA OS CONTRATOS APRESENTADOS PELA COMPANHIA AGRÍCOLA DE CAMPOS PARA FORNECIMENTO DE CANA AOS SEUS ENGENHOS CENTRAIS."
+    },
+    {
+      "senadoId": "418657",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-16-10208",
+      "titulo": "Decreto nº 10.208 de 16/03/1889",
+      "data": "1889-03-16",
+      "numero": "10208",
+      "urn": "urn:lex:br:federal:decreto:1889-03-16;10208",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DE NOVO CONTRATO COM A COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO A VAPOR PARA A CONTINUAÇÃO DO SERVIÇO A SEU CARGO."
+    },
+    {
+      "senadoId": "418633",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-09-10200",
+      "titulo": "Decreto nº 10.200 de 09/03/1889",
+      "data": "1889-03-09",
+      "numero": "10200",
+      "urn": "urn:lex:br:federal:decreto:1889-03-09;10200",
+      "ementa": "CONCEDE PERMISSÃO A PEDRO RODRIGUES FRÓES PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "418630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-09-10199",
+      "titulo": "Decreto nº 10.199 de 09/03/1889",
+      "data": "1889-03-09",
+      "numero": "10199",
+      "urn": "urn:lex:br:federal:decreto:1889-03-09;10199",
+      "ementa": "MANDA EXECUTAR A TARIFA ESPECIAL, INTEGRAL, DAS ALFÂNDEGAS DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "418645",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-09-10204",
+      "titulo": "Decreto nº 10.204 de 09/03/1889",
+      "data": "1889-03-09",
+      "numero": "10204",
+      "urn": "urn:lex:br:federal:decreto:1889-03-09;10204",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% SOBRE O CAPITAL DE 750:000$ Á COMPANHIA QUE O BARÃO DE ITAPISSUMA, O COMENDADOR JOÃO FRANCISCO DO AMARAL E O CAPITÃO NAPOLEÃO CÉSAR DUARTE ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL NO MUNICÍPIO DE IGUARASSÚ, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-09-10202",
+      "titulo": "Decreto nº 10.202 de 09/03/1889",
+      "data": "1889-03-09",
+      "numero": "10202",
+      "urn": "urn:lex:br:federal:decreto:1889-03-09;10202",
+      "ementa": "APROVA O REGULAMENTO PARA O IMPERIAL COLÉGIO MILITAR."
+    },
+    {
+      "senadoId": "418636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-09-10201",
+      "titulo": "Decreto nº 10.201 de 09/03/1889",
+      "data": "1889-03-09",
+      "numero": "10201",
+      "urn": "urn:lex:br:federal:decreto:1889-03-09;10201",
+      "ementa": "APROVA O REGULAMENTO PARA A EXECUÇÃO DA LEI NÚMERO 3394 DE 24 DE NOVEMBRO DE 1888."
+    },
+    {
+      "senadoId": "418642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-09-10203",
+      "titulo": "Decreto nº 10.203 de 09/03/1889",
+      "data": "1889-03-09",
+      "numero": "10203",
+      "urn": "urn:lex:br:federal:decreto:1889-03-09;10203",
+      "ementa": "APROVA O REGULAMENTO PARA AS ESCOLAS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "418624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-02-10197",
+      "titulo": "Decreto nº 10.197 de 02/03/1889",
+      "data": "1889-03-02",
+      "numero": "10197",
+      "urn": "urn:lex:br:federal:decreto:1889-03-02;10197",
+      "ementa": "DETERMINA QUE NÃO SE COBRE A TAXA SOBRE A CUNHAGEM DO OURO."
+    },
+    {
+      "senadoId": "418627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-03-02-10198",
+      "titulo": "Decreto nº 10.198 de 02/03/1889",
+      "data": "1889-03-02",
+      "numero": "10198",
+      "urn": "urn:lex:br:federal:decreto:1889-03-02;10198",
+      "ementa": "ALTERA O ARTIGO 22 DO REGULAMENTO APROVADO PELO DECRETO 7.685, DE 6 DE MARÇO DE 1880."
+    },
+    {
+      "senadoId": "418621",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-23-10196",
+      "titulo": "Decreto nº 10.196 de 23/02/1889",
+      "data": "1889-02-23",
+      "numero": "10196",
+      "urn": "urn:lex:br:federal:decreto:1889-02-23;10196",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% AO ANO SOBRE O CAPITAL DE 750:000$ Á COMPANHIA QUE JOAQUIM XAVIER CARNEIRO DE LACERDA ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO MUNICÍPIO DE JABOATÃO, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-23-10194",
+      "titulo": "Decreto nº 10.194 de 23/02/1889",
+      "data": "1889-02-23",
+      "numero": "10194",
+      "urn": "urn:lex:br:federal:decreto:1889-02-23;10194",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA \"MELHORAMENTOS URBANOS DE NITERÓI."
+    },
+    {
+      "senadoId": "418607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-23-10191",
+      "titulo": "Decreto nº 10.191 de 23/02/1889",
+      "data": "1889-02-23",
+      "numero": "10191",
+      "urn": "urn:lex:br:federal:decreto:1889-02-23;10191",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA MARINHA UM CRÉDITO SUPLEMENTAR NA IMPORTÂNCIA DE 119:500$192 Á VERBA \"MUNIÇÕES DE BOCA\" DO EXERCÍCIO DE 1888."
+    },
+    {
+      "senadoId": "418618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-23-10195",
+      "titulo": "Decreto nº 10.195 de 23/02/1889",
+      "data": "1889-02-23",
+      "numero": "10195",
+      "urn": "urn:lex:br:federal:decreto:1889-02-23;10195",
+      "ementa": "AUTORIZA A COMPANHIA NORDDEUTSCHER LLYD, DE BREMEN, PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "418612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-23-10193",
+      "titulo": "Decreto nº 10.193 de 23/02/1889",
+      "data": "1889-02-23",
+      "numero": "10193",
+      "urn": "urn:lex:br:federal:decreto:1889-02-23;10193",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE CANAVIEIRAS, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-17-10188",
+      "titulo": "Decreto nº 10.188 de 17/02/1889",
+      "data": "1889-02-17",
+      "numero": "10188",
+      "urn": "urn:lex:br:federal:decreto:1889-02-17;10188",
+      "ementa": "PROMULGA A CONVENÇÃO FIRMADA EM BRUXELAS EM 15 DE MARÇO DE 1886 ENTRE O BRASIL E OUTROS ESTADOS PARA A TROCA DE DOCUMENTOS OFICIAIS E PUBLICAÇÕES CIENTÍFICAS E LITERÁRIAS."
+    },
+    {
+      "senadoId": "418601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-17-10189",
+      "titulo": "Decreto nº 10.189 de 17/02/1889",
+      "data": "1889-02-17",
+      "numero": "10189",
+      "urn": "urn:lex:br:federal:decreto:1889-02-17;10189",
+      "ementa": "PROMULGA A CONVENÇÃO FIRMADA EM BRUXELAS EM 15 DE MARÇO DE 1886 ENTRE O BRASIL E OUTROS ESTADOS PARA A TROCA IMEDIATA DO JORNAL OFICIAL E DOS ANAIS E DOCUMENTOS PARLAMENTARES."
+    },
+    {
+      "senadoId": "418604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-17-10190",
+      "titulo": "Decreto nº 10.190 de 17/02/1889",
+      "data": "1889-02-17",
+      "numero": "10190",
+      "urn": "urn:lex:br:federal:decreto:1889-02-17;10190",
+      "ementa": "AUMENTA O NÚMERO DE COMPANHIAS DO 32º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA COMARCA DE BARRA MANSA, DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-10-10184",
+      "titulo": "Decreto nº 10.184 de 10/02/1889",
+      "data": "1889-02-10",
+      "numero": "10184",
+      "urn": "urn:lex:br:federal:decreto:1889-02-10;10184",
+      "ementa": "ABRE AO MINISTERIO DOS NEGOCIOS ESTRANGEIROS O CREDITO SUPLEMENTAR DE 22:093$755 PARA AS DESPESAS DA RUBRICA \"AJUDAS DE CUSTO\" DO EXERCICIO DE 1888."
+    },
+    {
+      "senadoId": "418595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-09-10187",
+      "titulo": "Decreto nº 10.187 de 09/02/1889",
+      "data": "1889-02-09",
+      "numero": "10187",
+      "urn": "urn:lex:br:federal:decreto:1889-02-09;10187",
+      "ementa": "APROVA A PLANTA DOS TERRENOS NECESSÁRIOS PARA A CONSTRUÇÃO DE NOVOS EDIFÍCIOS E MAIS DEPENDÊNCIAS DA ESTAÇÃO DE BRAZ, DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "418583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-09-10183",
+      "titulo": "Decreto nº 10.183 de 09/02/1889",
+      "data": "1889-02-09",
+      "numero": "10183",
+      "urn": "urn:lex:br:federal:decreto:1889-02-09;10183",
+      "ementa": "CONCEDE A LUIZ RIBEIRO DE SOUZA REZENDE E OUTROS OS FAVORES DO ARTIGO 20 DA LEI NÚMERO 3396 DE 24 DE NOVEMBRO DE 1888 PARA O ESTABELECIMENTO DA INDÚSTRIA DA SEDA."
+    },
+    {
+      "senadoId": "418589",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-09-10185",
+      "titulo": "Decreto nº 10.185 de 09/02/1889",
+      "data": "1889-02-09",
+      "numero": "10185",
+      "urn": "urn:lex:br:federal:decreto:1889-02-09;10185",
+      "ementa": "NEGA PROVIMENTO AO RECURSO INTERPOSTO PELA COMPANHIA DA ESTRADA DE FERRO D. PEDRO I DA DECISÃO QUE INDEFERIU SUA RECLAMAÇÃO CONTRA O DECRETO NÚMERO 9689 DE 24 DE DEZEMBRO DE 1886, REFERENTE A CADUCIDADE DA CONCESSÃO FEITA PELO DECRETO NÚMERO 8542 DE 13 DE JANEIRO DE 1883."
+    },
+    {
+      "senadoId": "418580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-09-10182",
+      "titulo": "Decreto nº 10.182 de 09/02/1889",
+      "data": "1889-02-09",
+      "numero": "10182",
+      "urn": "urn:lex:br:federal:decreto:1889-02-09;10182",
+      "ementa": "CONCEDE A GUILHERME JOSÉ DE MIRANDA E SILVA E VICENTE PEREIRA RIBEIRO O DIREITO DE DESAPROPRIAR, NA FORMA DA LEI, OS TERRENOS DE DOMÍNIO PARTICULAR, BEM COMO PRÉDIOS E BENFEITORIAS, QUE FOREM NECESSÁRIOS ÀS OBRAS DO ENGENHO CENTRAL QUE ESTÃO CONSTRUINDO NA FREGUESIA DE SÃO GONÇALO, MUNICÍPIO DE CAMPOS, PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-09-10181",
+      "titulo": "Decreto nº 10.181 de 09/02/1889",
+      "data": "1889-02-09",
+      "numero": "10181",
+      "urn": "urn:lex:br:federal:decreto:1889-02-09;10181",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO UM CRÉDITO EXTRAORDINÁRIO DE 5.000:000$000."
+    },
+    {
+      "senadoId": "418592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-09-10186",
+      "titulo": "Decreto nº 10.186 de 09/02/1889",
+      "data": "1889-02-09",
+      "numero": "10186",
+      "urn": "urn:lex:br:federal:decreto:1889-02-09;10186",
+      "ementa": "APROVA A PLANTA DOS TERRENOS NECESSÁRIOS PARA A CONSTRUÇÃO DE DESVIOS E OUTRAS DEPENDÊNCIAS DA ESTAÇÃO DE SANTOS, DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "418565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-01-10177",
+      "titulo": "Decreto nº 10.177 de 01/02/1889",
+      "data": "1889-02-01",
+      "numero": "10177",
+      "urn": "urn:lex:br:federal:decreto:1889-02-01;10177",
+      "ementa": "CRIA UMA ESCOLA MILITAR NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "418571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-01-10179",
+      "titulo": "Decreto nº 10.179 de 01/02/1889",
+      "data": "1889-02-01",
+      "numero": "10179",
+      "urn": "urn:lex:br:federal:decreto:1889-02-01;10179",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA FÁBRICA DE BISCOITOS INTERNACIONAL PARA SE ORGANIZAR."
+    },
+    {
+      "senadoId": "418562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-01-10176",
+      "titulo": "Decreto nº 10.176 de 01/02/1889",
+      "data": "1889-02-01",
+      "numero": "10176",
+      "urn": "urn:lex:br:federal:decreto:1889-02-01;10176",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DO IMPÉRIO MAIS UM CRÉDITO SUPLEMENTAR NA IMPORTÂNCIA DE 23:149$620 Á VERBA \"SOCORROS PÚBLICOS\" DO EXERCÍCIO DE 1888."
+    },
+    {
+      "senadoId": "418574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-01-10180",
+      "titulo": "Decreto nº 10.180 de 01/02/1889",
+      "data": "1889-02-01",
+      "numero": "10180",
+      "urn": "urn:lex:br:federal:decreto:1889-02-01;10180",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A JOAQUIM VITORINO DA CUNHA PARA EXPLORAR MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-02-01-10178",
+      "titulo": "Decreto nº 10.178 de 01/02/1889",
+      "data": "1889-02-01",
+      "numero": "10178",
+      "urn": "urn:lex:br:federal:decreto:1889-02-01;10178",
+      "ementa": "ABRE UM CREDITO EXTRAORDINARIO DE 130:000$ PARA AS DESPESAS COM A COMISSÃO EXPLORADORA DAS MISSÕES."
+    },
+    {
+      "senadoId": "418550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10172",
+      "titulo": "Decreto nº 10.172 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10172",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10172",
+      "ementa": "APROVA O CONTRATO CELEBRADO PARA FORNECIMENTO DE CANA AO ENGENHO CENTRAL DE SÃO PEDRO, CONSTRUÍDO PELA COMPANHIA \"PROGRESSO AGRÍCOLA\" NO MUNICÍPIO DE MONÇÃO, PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "418556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10174",
+      "titulo": "Decreto nº 10.174 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10174",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10174",
+      "ementa": "DERROGA O DECRETO NÚMERO 10.141 DE 29 DE DEZEMBRO DE 1888, NA PARTE REFERENTE Á COMARCA DE GUARATINGUETÁ, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10170",
+      "titulo": "Decreto nº 10.170 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10170",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10170",
+      "ementa": "ESTABELECE TARIFA MÓVEL NAS ALFÂNDEGAS PARA CERTOS GÊNEROS FABRICADOS NO PAIS, A QUAL TERÁ EXECUÇÃO DO DIA 1 DE MARÇO PRÓXIMO FUTURO EM DIANTE, DE CONFORMIDADE COM O ARTIGO 2, 4, DA LEI 3.396 DE 24 DE NOVEMBRO DE 1888."
+    },
+    {
+      "senadoId": "418553",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10173",
+      "titulo": "Decreto nº 10.173 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10173",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10173",
+      "ementa": "CRIA NOVOS CORPOS DE GUARDAS NACIONAIS NA COMARCA DO CONDE, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10175",
+      "titulo": "Decreto nº 10.175 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10175",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10175",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DAS ÁGUAS DOS TRÊS-RIOS, PARA ABASTECIMENTO DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "418547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10171",
+      "titulo": "Decreto nº 10.171 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10171",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10171",
+      "ementa": "AUTORIZA A SUBSTITUIÇÃO DO ARTIGO 3º DOS ESTATUTOS DA COMPANHIA DE SEGUROS TERRESTRES \"UNIÃO DOS VAREGISTAS\"."
+    },
+    {
+      "senadoId": "418541",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-26-10169",
+      "titulo": "Decreto nº 10.169 de 26/01/1889",
+      "data": "1889-01-26",
+      "numero": "10169",
+      "urn": "urn:lex:br:federal:decreto:1889-01-26;10169",
+      "ementa": "MANDA EXECUTAR A TABELA DOS VENCIMENTOS DOS EMPREGADOS DA RECEBEDORIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "418535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-12-10167",
+      "titulo": "Decreto nº 10.167 de 12/01/1889",
+      "data": "1889-01-12",
+      "numero": "10167",
+      "urn": "urn:lex:br:federal:decreto:1889-01-12;10167",
+      "ementa": "APROVA O PLANO E A PLANTA DE OBRAS COMPLEMENTARES DAS DO ABASTECIMENTO DE ÁGUA Á CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "418529",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-12-10165",
+      "titulo": "Decreto nº 10.165 de 12/01/1889",
+      "data": "1889-01-12",
+      "numero": "10165",
+      "urn": "urn:lex:br:federal:decreto:1889-01-12;10165",
+      "ementa": "DECLARA QUE AS COMPANHIAS ANÔNIMAS QUE SE PROPOEM A FINS INDUSTRIAIS E AGRÍCOLAS, COMO AS DE ENGENHOS CENTRAIS, NÃO CARECEM DE AUTORIZAÇÃO DO GOVERNO PARA SE ORGANIZAREM."
+    },
+    {
+      "senadoId": "418532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-12-10166",
+      "titulo": "Decreto nº 10.166 de 12/01/1889",
+      "data": "1889-01-12",
+      "numero": "10166",
+      "urn": "urn:lex:br:federal:decreto:1889-01-12;10166",
+      "ementa": "APROVA A MODIFICAÇÃO PROPOSTA NA PARTE CONCERNENTE A SEÇÃO DO CAIS DO PORTO DA CIDADE DE SANTOS."
+    },
+    {
+      "senadoId": "418538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-12-10168",
+      "titulo": "Decreto nº 10.168 de 12/01/1889",
+      "data": "1889-01-12",
+      "numero": "10168",
+      "urn": "urn:lex:br:federal:decreto:1889-01-12;10168",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DAS ÁGUAS DO RIO SÃO PEDRO E DE SEUS AFLUENTES."
+    },
+    {
+      "senadoId": "418486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10151",
+      "titulo": "Decreto nº 10.151 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10151",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10151",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO QUE UNA A CIDADE DE PELOTAS AS COLÔNIAS DE SÃO LOURENÇO E LIMITRÓFES A ELA, NA PROVIDÊNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "418475",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10147",
+      "titulo": "Decreto nº 10.147 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10147",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10147",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO DE TRÊS, MARCADO NO DECRETO NÚMERO 10.111 DE 15 DE DEZEMBRO DE 1888, PARA A APRESENTAÇÃO DOS ESTUDOS DEFINITIVOS DA NOVA LINHA DA COMPANHIA PLANO INCLINADO DE SANTA TEREZA PELO SISTEMA \"MONORAIL\" E POR IGUAL TEMPO O PRAZO FIXADO NO MESMO DECRETO PARA A CONCLUSÃO DE TODAS AS OBRAS DA REFERIDA LINHA."
+    },
+    {
+      "senadoId": "418521",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10163",
+      "titulo": "Decreto nº 10.163 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10163",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10163",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA RAILWAY CONSTRUCTION COMPANY, LIMITED PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "418472",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10146",
+      "titulo": "Decreto nº 10.146 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10146",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10146",
+      "ementa": "CONCEDE PERMISSÃO A FRANCISCO DE PAULA VILELA PARA EXPLORAR OURO E OUTROS MINERAIS NO MUNICÍPIO DE BARBACENA, EM MINAS GERAIS."
+    },
+    {
+      "senadoId": "418501",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10156",
+      "titulo": "Decreto nº 10.156 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10156",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10156",
+      "ementa": "PRORROGA O PRAZO PARA APRESENTAÇÃO DOS ESTATUTOS DA COMPANHIA ORGANIZADA POR JOSÉ DA SILVA LOYO JÚNIOR, CONCESSIONÁRIO DA GARANTIA DE JUROS PARA O ESTABELECIMENTO DE TRÊS ENGENHOS CENTRAIS NA PROVÍNCIA DE PERNAMBUCO, E SUJEITA A MESMA COMPANHIA AS DISPOSIÇÕES DO REGULAMENTO APROVADO PELO DECRETO 10.100, DE 1 DE DEZEMBRO DE 1888."
+    },
+    {
+      "senadoId": "418480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10149",
+      "titulo": "Decreto nº 10.149 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10149",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10149",
+      "ementa": "MANDA VIGORAR NO EXERCICIO DE 1889 O ORÇAMENTO MUNICIPAL DO DE 1888."
+    },
+    {
+      "senadoId": "418489",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10152",
+      "titulo": "Decreto nº 10.152 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10152",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10152",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DO PROLONGAMENTO DA ESTRADA DE FERRO DO PARANÁ ATÉ AO PORTO DO AMAZONAS (NO RIO IGUASSÚ), COM UM RAMAL PARA O RIO NEGRO, E PARA A DO RAMAL DE MORRETES A ANTONINA."
+    },
+    {
+      "senadoId": "418495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10154",
+      "titulo": "Decreto nº 10.154 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10154",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10154",
+      "ementa": "CONCEDE Á COMPANHIA DA ESTRADA DE FERRO BAHIA E MINAS AUTORIZAÇÃO PARA FAZER O ESTUDO PRELIMINAR DO PROLONGAMENTO DA MESMA ESTRADA DE SÃO JOÃO BATISTA DE MINAS NOVAS AO PONTO MAIS CONVENIENTE DO RIO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "418527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10164-a",
+      "titulo": "Decreto nº 10.164-A de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10164-a",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10164-a",
+      "ementa": "CONCEDE GARANTIA DE JUROS AO CORONEL ANTÔNIO LUIZ DE ARAÚJO MACIEL OU Á COMPANHIA QUE ORGANIZAR, SOBRE O CAPITAL DE 750:000$, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO VALE DO RIO JAPARATUBA, MUNICÍPIO DO MESMO NOME, DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "418528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10164-b",
+      "titulo": "Decreto nº 10.164-B de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10164-b",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10164-b",
+      "ementa": "ALTERA AS CLAUSULAS 2 E 8 DO DECRETO 9.932, DE 11 DE ABRIL DE 1888, RELATIVO AO PROLONGAMENTO DE AREAL A ENTRE-RIOS, DA ESTRADA DE FERRO PRINCIPE DO GRAN-PARA."
+    },
+    {
+      "senadoId": "418483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10150",
+      "titulo": "Decreto nº 10.150 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10150",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10150",
+      "ementa": "CONCEDE PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DA ESTRADA DE FERRO DE TAUBATÉ A UBATUBA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "418466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10144",
+      "titulo": "Decreto nº 10.144 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10144",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10144",
+      "ementa": "REGULA A EXECUÇÃO DO DECRETO NÚMERO 3403 DE 24 DE NOVEMBRO DE 1888, SOBRE OS BANCOS DE EMISSÃO."
+    },
+    {
+      "senadoId": "418510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10159",
+      "titulo": "Decreto nº 10.159 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10159",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10159",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% AO ANO SOBRE O CAPITAL DE 550:000$ À COMPANHIA QUE O COMENDADOR FRUTUOSO DIAS ALVES DA SILVA ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO MUNICÍPIO DE GAMELEIRA, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10158",
+      "titulo": "Decreto nº 10.158 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10158",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10158",
+      "ementa": "CONCEDE GARANTIA DE JUROS DE 6% AO ANO SOBRE O CAPITAL DE 1.000:000$ Á COMPANHIA QUE O CORONEL JOAQUIM VERÍSSIMO DO REGO BARROS ORGANIZAR PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO MUNICÍPIO DE ÁGUA PRETA, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10157",
+      "titulo": "Decreto nº 10.157 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10157",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10157",
+      "ementa": "CONCEDE A JOSÉ DA SILVA LOYO JÚNIOR E A ANTÔNIO JOÃO DE AMORIM AUTORIZAÇÃO PARA CONSTRUIR AS OBRAS DE MELHORAMENTO DO PORTO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10155",
+      "titulo": "Decreto nº 10.155 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10155",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10155",
+      "ementa": "CONCEDE PERMISSÃO AO ENGENHEIRO JOÃO CORDEIRO DA GRAÇA PARA EXPLORAR FERRO E OUTROS MINERAIS NO MUNICÍPIO DE ANTONINA, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "418469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10145",
+      "titulo": "Decreto nº 10.145 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10145",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10145",
+      "ementa": "REGULA O MODO DE CONTAR O EXERCÍCIO E DÁ PROVIDÊNCIAS SOBRE A LIQUIDAÇÃO E PAGAMENTO DAS DÍVIDAS DE EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "418492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10153",
+      "titulo": "Decreto nº 10.153 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10153",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10153",
+      "ementa": "CONCEDE À COMPANHIA DA ESTRADA DE FERRO BAHIA E MINAS PRIVILÉGIO E GARANTIA DE JUROS PARA A CONSTRUÇÃO DO PROLONGAMENTO DA MESMA ESTRADA, DE FILADELFIA A SÃO JOÃO BATISTA DE MINAS NOVAS."
+    },
+    {
+      "senadoId": "418516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10161",
+      "titulo": "Decreto nº 10.161 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10161",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10161",
+      "ementa": "CONCEDE GARANTIA DE JUROS AO BARÃO DE MUNIZ DE ARAGÃO SOBRE O CAPITAL DE 400:000$, PARA UM ENGENHO CENTRAL DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA COM A DENOMINAÇÃO DE ENGENHO CENTRAL MARACANGALHA, ESTABELECIDO NO MUNICÍPIO DE SANTO AMARO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "418513",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10160",
+      "titulo": "Decreto nº 10.160 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10160",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10160",
+      "ementa": "CONCEDE GARANTIA DE JUROS A JUSTINO EPAMINONDAS DE ASSUNÇÃO NEVES E MANOEL DO NASCIMENTO VIEIRA DA CUNHA SOBRINHO, OU A COMPANHIA QUE ORGANIZAREM, SOBRE O CAPITAL DE 750:000$, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, NO VALE DO RIO CURSAÍ, MUNICÍPIO DE PÁO D'ALHO, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "418524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1889-01-05-10164",
+      "titulo": "Decreto nº 10.164 de 05/01/1889",
+      "data": "1889-01-05",
+      "numero": "10164",
+      "urn": "urn:lex:br:federal:decreto:1889-01-05;10164",
+      "ementa": "CONCEDE GARANTIA DE JUROS Á COMPANHIA ENGENHO CENTRAL DE CAPIVARI, SOBRE O CAPITAL DE 550:000$ EMPREGADO EM UM ENGENHO CENTRAL DESTINADO AO FÁBRICO DE AÇÚCAR E ÁLCOOL DE CANA, ESTABELECIDO COM AQUELA DENOMINAÇÃO NO MUNICÍPIO DE CAPIVARI, DA PROVÍNCIA DE SÃO PAULO."
+    }
+  ],
+  "pendencias": []
+}

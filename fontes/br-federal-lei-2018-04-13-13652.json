@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-04-13-13652",
+  "titulo": "Lei nº 13.652 de 13/04/2018",
+  "data": "2018-04-13",
+  "fonte": "https://normas.leg.br/api/public/binario/cf9c5603-8260-4e05-8348-2f7c9d70cadb/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-04-13;13652",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-04-13%3B13652&tipo_documento=maior-detalhe",
+  "sha256_dados": "4bd57942e31d439cab3a9c06947b90c73f55ee6b9fd6bb6646ac684a5932b0f6",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:50:55.035Z",
+  "sha256_fonte": "46e270c33bfca4d8845e8fde6b157037ff7630d725b7f3841c879d986edd640e",
+  "sha256_markdown": "cd58311cf0f3ae678e3f911923d9f3bf1567a4e3960f3716cc125ad863070d81"
+}

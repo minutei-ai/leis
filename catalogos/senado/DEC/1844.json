@@ -1,0 +1,639 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1844",
+  "tipo": "DEC",
+  "ano": 1844,
+  "coletado_em": "2026-10-21T08:52:54.355Z",
+  "normas": [
+    {
+      "senadoId": "387434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-12-21-399",
+      "titulo": "Decreto nº 399 de 21/12/1844",
+      "data": "1844-12-21",
+      "numero": "399",
+      "urn": "urn:lex:br:federal:decreto:1844-12-21;399",
+      "ementa": "DÁ NOVO REGULAMENTO PARA O SERVIÇO DOS CORREIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "387430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-12-21-398",
+      "titulo": "Decreto nº 398 de 21/12/1844",
+      "data": "1844-12-21",
+      "numero": "398",
+      "urn": "urn:lex:br:federal:decreto:1844-12-21;398",
+      "ementa": "ORDENA QUE OS SOLICITADORES DO NÚMERO, CONTÍNUOS E OFICIAIS DE JUSTIÇA DAS RELAÇÕES SEJÃO PROVIDOS PELOS PRESIDENTES DAS MESMAS RELAÇÕES."
+    },
+    {
+      "senadoId": "387426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-25-397",
+      "titulo": "Decreto nº 397 de 25/11/1844",
+      "data": "1844-11-25",
+      "numero": "397",
+      "urn": "urn:lex:br:federal:decreto:1844-11-25;397",
+      "ementa": "MANDA REUNIR OS HOSPITAIS REGIMENTAIS DOS CORPOS DA CORTE EM UM SO COM A DENOMINAÇÃO DE HOSPITAL MILITAR DA GUARNIÇÃO DA CORTE."
+    },
+    {
+      "senadoId": "387421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-25-396",
+      "titulo": "Decreto nº 396 de 25/11/1844",
+      "data": "1844-11-25",
+      "numero": "396",
+      "urn": "urn:lex:br:federal:decreto:1844-11-25;396",
+      "ementa": "PRORROGA POR MAIS TRÊS MESES A AUTORIZAÇÃO DADA AO BARÃO DE CAXIAS, DE ANISTIAR OS REBELDES DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "387411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-23-394",
+      "titulo": "Decreto nº 394 de 23/11/1844",
+      "data": "1844-11-23",
+      "numero": "394",
+      "urn": "urn:lex:br:federal:decreto:1844-11-23;394",
+      "ementa": "ESTABELE AS REGRAS, QUE SE DEVEM OBSERVAR NAS PETIÇÕES DE SUSPEIÇÕES AOS DESEMBARGADORES DAS RELAÇÕES."
+    },
+    {
+      "senadoId": "387406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-23-393",
+      "titulo": "Decreto nº 393 de 23/11/1844",
+      "data": "1844-11-23",
+      "numero": "393",
+      "urn": "urn:lex:br:federal:decreto:1844-11-23;393",
+      "ementa": "CONCEDE AOS MEMBROS DO INSTITUTO DOS ADVOGADOS BRASILEIROS, NESTA CORTE, O USO DE VESTE TALAR, E A FACULDADE DE TEREM ASSENTO, NO EXERCÍCIO DO SEU OFÍCIO, DENTRO DOS CANCELOS DOS TRIBUNAIS."
+    },
+    {
+      "senadoId": "387416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-22-395",
+      "titulo": "Decreto nº 395 de 22/11/1844",
+      "data": "1844-11-22",
+      "numero": "395",
+      "urn": "urn:lex:br:federal:decreto:1844-11-22;395",
+      "ementa": "MANDA QUE O JUIZ MUNICIPAL DO TERMO DA CIDADE DE CAMPOS, NA PROVÍNCIA DO RIO DE JANEIRO, ACUMULE AS FUNÇÕES DE JUIZ DOS ÓRGÃOS DO MESMO TERMO."
+    },
+    {
+      "senadoId": "387401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-20-392",
+      "titulo": "Decreto nº 392 de 20/11/1844",
+      "data": "1844-11-20",
+      "numero": "392",
+      "urn": "urn:lex:br:federal:decreto:1844-11-20;392",
+      "ementa": "AUTORIZA O PRESIDENTE DA PROVÍNCIA DO MARANHÃO PARA CONCEDER ANISTIA A TODOS OS REBELDES, QUE SE APRESENTARÃO NA COMARCA DO BREJO, DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "387394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-17-391",
+      "titulo": "Decreto nº 391 de 17/11/1844",
+      "data": "1844-11-17",
+      "numero": "391",
+      "urn": "urn:lex:br:federal:decreto:1844-11-17;391",
+      "ementa": "MARCA A MANEIRA DE DECIDIREM AS DÚVIDAS ENTRE AS PARTES E OS EMPREGADOS DAS ALFANDEGAS."
+    },
+    {
+      "senadoId": "387385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-15-389",
+      "titulo": "Decreto nº 389 de 15/11/1844",
+      "data": "1844-11-15",
+      "numero": "389",
+      "urn": "urn:lex:br:federal:decreto:1844-11-15;389",
+      "ementa": "ALTERA O REGULAMENTO DE 20 DE JULHO DO MESMO ANO, RELATIVO AO IMPOSTO DA ANCORAGEM."
+    },
+    {
+      "senadoId": "387380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-09-388",
+      "titulo": "Decreto nº 388 de 09/11/1844",
+      "data": "1844-11-09",
+      "numero": "388",
+      "urn": "urn:lex:br:federal:decreto:1844-11-09;388",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVÍNCIA DO RIO DE JANEIRO PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS ATÉ O NÚMERO DE SEISCENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA, A FIM DE COADJUVAR A FORÇA DE PRIMEIRA LINHA NA CORTE."
+    },
+    {
+      "senadoId": "387375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-11-09-387",
+      "titulo": "Decreto nº 387 de 09/11/1844",
+      "data": "1844-11-09",
+      "numero": "387",
+      "urn": "urn:lex:br:federal:decreto:1844-11-09;387",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVÍNCIA DE MINAS GERAIS PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS O NÚMERO DE SEISCENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVIDÊNCIA."
+    },
+    {
+      "senadoId": "387370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-10-25-386",
+      "titulo": "Decreto nº 386 de 25/10/1844",
+      "data": "1844-10-25",
+      "numero": "386",
+      "urn": "urn:lex:br:federal:decreto:1844-10-25;386",
+      "ementa": "ALTERA A TABELA DE PETRECHOS DE GUERRA DE SOBRESALENTES."
+    },
+    {
+      "senadoId": "387365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-10-20-385",
+      "titulo": "Decreto nº 385 de 20/10/1844",
+      "data": "1844-10-20",
+      "numero": "385",
+      "urn": "urn:lex:br:federal:decreto:1844-10-20;385",
+      "ementa": "APROVA O REGULAMENTO PARA A ENFERMARIA MILITAR DA CIDADE DO DESTERRO NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "387360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-10-16-384",
+      "titulo": "Decreto nº 384 de 16/10/1844",
+      "data": "1844-10-16",
+      "numero": "384",
+      "urn": "urn:lex:br:federal:decreto:1844-10-16;384",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO SOBRE AS TIPOGRAFIAS."
+    },
+    {
+      "senadoId": "387355",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-10-16-383",
+      "titulo": "Decreto nº 383 de 16/10/1844",
+      "data": "1844-10-16",
+      "numero": "383",
+      "urn": "urn:lex:br:federal:decreto:1844-10-16;383",
+      "ementa": "AUTORIZA AO PRESIDENTE DA PROVÍNCIA DAS ALAGOAS PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS O NÚMERO DE QUATROCENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "387350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-10-09-382",
+      "titulo": "Decreto nº 382 de 09/10/1844",
+      "data": "1844-10-09",
+      "numero": "382",
+      "urn": "urn:lex:br:federal:decreto:1844-10-09;382",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA O DESPACHO DOS SOBRESALENTES DAS EMBARCAÇÕES."
+    },
+    {
+      "senadoId": "387345",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-10-07-381",
+      "titulo": "Decreto nº 381 de 07/10/1844",
+      "data": "1844-10-07",
+      "numero": "381",
+      "urn": "urn:lex:br:federal:decreto:1844-10-07;381",
+      "ementa": "MODIFICANDO AS DISPOSIÇÕES DO REGULAMENTO DE 26 DE ABRIL DESTE ANO NÚMERO 355."
+    },
+    {
+      "senadoId": "387340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-09-28-380",
+      "titulo": "Decreto nº 380 de 28/09/1844",
+      "data": "1844-09-28",
+      "numero": "380",
+      "urn": "urn:lex:br:federal:decreto:1844-09-28;380",
+      "ementa": "AUMENTA A GRATIFICAÇÃO DO AMANUENSE DO CHEFE DE POLÍCIA DE SANTA CATARINA, MARCADA PELO DECRETO NÚMERO 193 DE 11 DE JULHO DE 1842."
+    },
+    {
+      "senadoId": "387335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-08-20-379",
+      "titulo": "Decreto nº 379 de 20/08/1844",
+      "data": "1844-08-20",
+      "numero": "379",
+      "urn": "urn:lex:br:federal:decreto:1844-08-20;379",
+      "ementa": "PERMITE QUE POSSÃO EMBARCAR EM NAVIOS DE GUERRA ESTRANGEIROS, OFICIAIS E GUARDAS MARINHAS D'ARMADA IMPERIAL."
+    },
+    {
+      "senadoId": "387330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-08-14-378",
+      "titulo": "Decreto nº 378 de 14/08/1844",
+      "data": "1844-08-14",
+      "numero": "378",
+      "urn": "urn:lex:br:federal:decreto:1844-08-14;378",
+      "ementa": "MANDANDO POR EM EXECUÇÃO AS INSTRUÇÕES PARA AS PAGADORIAS MILITARES NAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "387324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-08-12-377",
+      "titulo": "Decreto nº 377 de 12/08/1844",
+      "data": "1844-08-12",
+      "numero": "377",
+      "urn": "urn:lex:br:federal:decreto:1844-08-12;377",
+      "ementa": "MANDA QUE OS EMOLUMENTOS DA SECRETARIA DO ESTADO DOS NEGÓCIOS DA MARINHA SEJAM COBRADOS PELAS TABELAS ANTERIORES AO DECRETO NÚMERO 351, DE 20 DE ABRIL DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "387319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-08-12-376",
+      "titulo": "Decreto nº 376 de 12/08/1844",
+      "data": "1844-08-12",
+      "numero": "376",
+      "urn": "urn:lex:br:federal:decreto:1844-08-12;376",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO E TARIFA PARA AS ALFANDEGAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "387314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-08-03-375",
+      "titulo": "Decreto nº 375 de 03/08/1844",
+      "data": "1844-08-03",
+      "numero": "375",
+      "urn": "urn:lex:br:federal:decreto:1844-08-03;375",
+      "ementa": "APROVANDO AS INSTRUÇÕES PARA A VENDA DA POLVORA NACIONAL NAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "387304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-07-30-373",
+      "titulo": "Decreto nº 373 de 30/07/1844",
+      "data": "1844-07-30",
+      "numero": "373",
+      "urn": "urn:lex:br:federal:decreto:1844-07-30;373",
+      "ementa": "FIXANDO AS REGRAS QUE SE DEVEM OBSERVAR NA DISTRIBUIÇÃO PELAS PROVÍNCIAS DOS MISSIONÁRIOS CAPUCHINHOS."
+    },
+    {
+      "senadoId": "387309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-07-30-374",
+      "titulo": "Decreto nº 374 de 30/07/1844",
+      "data": "1844-07-30",
+      "numero": "374",
+      "urn": "urn:lex:br:federal:decreto:1844-07-30;374",
+      "ementa": "REUNE O TERMO DA VILA DO CAMPO LARGO AO DA VILA DE SANTA RITA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "387297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-07-20-372",
+      "titulo": "Decreto nº 372 de 20/07/1844",
+      "data": "1844-07-20",
+      "numero": "372",
+      "urn": "urn:lex:br:federal:decreto:1844-07-20;372",
+      "ementa": "REDUZINDO O IMPOSTO D'ANCORAGEM, LOGO QUE SE FINALIZE O TRATADO COM A GRÃ-BRETANHA."
+    },
+    {
+      "senadoId": "387292",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-07-17-371",
+      "titulo": "Decreto nº 371 de 17/07/1844",
+      "data": "1844-07-17",
+      "numero": "371",
+      "urn": "urn:lex:br:federal:decreto:1844-07-17;371",
+      "ementa": "MANDA ESTABELECER UM BOTICA NO HOSPITAL DA MARINHA DA CORTE, E DÁ O RESPECTIVO REGULAMENTO."
+    },
+    {
+      "senadoId": "387287",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-07-03-370",
+      "titulo": "Decreto nº 370 de 03/07/1844",
+      "data": "1844-07-03",
+      "numero": "370",
+      "urn": "urn:lex:br:federal:decreto:1844-07-03;370",
+      "ementa": "DECLARA O VENCIMENTO QUE COMPETE AOS OFICIAIS D'ARMADA EMBARCADOS, QUANDO POR DOENTES SE VÃO TRATAR AOS HOSPITAIS, E MESMO A SUAS CASAS; E BEM ASSIM AOS OFICIAIS DA REFERIDA ARMADA, QUE SÃO EMPREGADOS EM TERRA EM COMANDOS MILITARES."
+    },
+    {
+      "senadoId": "387282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-07-02-369",
+      "titulo": "Decreto nº 369 de 02/07/1844",
+      "data": "1844-07-02",
+      "numero": "369",
+      "urn": "urn:lex:br:federal:decreto:1844-07-02;369",
+      "ementa": "CONCEDE ANISTIA AOS VEREADORES DAS CAMARAS MUNICIPAIS DA CIDADE DE BARBACENA, DA VILA DE SÃO JOÃO BATISTA DO PRESÍDIO, E DA CIDADE DE SÃO JOÃO DEL REY, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "387276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-30-368",
+      "titulo": "Decreto nº 368 de 30/06/1844",
+      "data": "1844-06-30",
+      "numero": "368",
+      "urn": "urn:lex:br:federal:decreto:1844-06-30;368",
+      "ementa": "DESANEXA O TERMO DA BARRA MANSA DO  DE RESENDE, DA PROVÍNCIA DO RIO DE JANEIRO, E CRIA NELE UM JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "387254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-30-364",
+      "titulo": "Decreto nº 364 de 30/06/1844",
+      "data": "1844-06-30",
+      "numero": "364",
+      "urn": "urn:lex:br:federal:decreto:1844-06-30;364",
+      "ementa": "ALTERANDO AS DISPOSIÇÕES DO ARTIGO 141 DO REGULAMENTO DE 22 DE JUNHO DE 1836."
+    },
+    {
+      "senadoId": "387265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-30-366",
+      "titulo": "Decreto nº 366 de 30/06/1844",
+      "data": "1844-06-30",
+      "numero": "366",
+      "urn": "urn:lex:br:federal:decreto:1844-06-30;366",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA CIDADE DE CAMPOS, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "387270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-30-367",
+      "titulo": "Decreto nº 367 de 30/06/1844",
+      "data": "1844-06-30",
+      "numero": "367",
+      "urn": "urn:lex:br:federal:decreto:1844-06-30;367",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA COMARCA DO PAU D'ALHO, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "387259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-30-365",
+      "titulo": "Decreto nº 365 de 30/06/1844",
+      "data": "1844-06-30",
+      "numero": "365",
+      "urn": "urn:lex:br:federal:decreto:1844-06-30;365",
+      "ementa": "MARCA, EM ADITAMENTO AO DECRETO NÚMERO 179 DE 30 DE MAIO DE 1842, O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE SANTA LUZIA DO NORTE, DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "387249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-20-363",
+      "titulo": "Decreto nº 363 de 20/06/1844",
+      "data": "1844-06-20",
+      "numero": "363",
+      "urn": "urn:lex:br:federal:decreto:1844-06-20;363",
+      "ementa": "MANDO EXECUTAR O REGULAMENTO SOBRE O CONTRABANDO DE PAU-BRASIL."
+    },
+    {
+      "senadoId": "387244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-16-362",
+      "titulo": "Decreto nº 362 de 16/06/1844",
+      "data": "1844-06-16",
+      "numero": "362",
+      "urn": "urn:lex:br:federal:decreto:1844-06-16;362",
+      "ementa": "DANDO REGULAMENTO PARA ARRECADAÇÃO DO IMPOSTO DE PATENTE DOS DESPACHANTES DAS ALFANDEGAS."
+    },
+    {
+      "senadoId": "387239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-15-361",
+      "titulo": "Decreto nº 361 de 15/06/1844",
+      "data": "1844-06-15",
+      "numero": "361",
+      "urn": "urn:lex:br:federal:decreto:1844-06-15;361",
+      "ementa": "MANDANDO EXECUTAR O REGULAMENTO PARA O LANÇAMENTO, ARRECADAÇÃO E FISCALIZAÇÃO DOS IMPOSTOS A QUE SÃO SUJEITAS AS LOJAS E CASAS DE COMÉRCIO, E OUTRAS DE DIVERSAS CLASSES E DENOMINAÇÕES, AS DE LEILÃO E MODAS, AS SEGES, E BARCOS DE NAVEGAÇÃO INTERIOR."
+    },
+    {
+      "senadoId": "387229",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-08-359",
+      "titulo": "Decreto nº 359 de 08/06/1844",
+      "data": "1844-06-08",
+      "numero": "359",
+      "urn": "urn:lex:br:federal:decreto:1844-06-08;359",
+      "ementa": "REVOGA O DE NÚMERO 299 DE 21 DE MAIO DE 1843, QUE SUPRIMIU OS LUGARES DE JUÍZES DE ÓRFÃOS DA SEGUNDA VARA DA CAPITAL, E DOS TERMOS DE SANTO AMARO, E SÃO FRANCISCO DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "387234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-06-08-360",
+      "titulo": "Decreto nº 360 de 08/06/1844",
+      "data": "1844-06-08",
+      "numero": "360",
+      "urn": "urn:lex:br:federal:decreto:1844-06-08;360",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA COMARCA DO BREJO DE AREIA, DA PROVÍNCIA DA PARAÍBA DO NORTE."
+    },
+    {
+      "senadoId": "387224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-05-20-358",
+      "titulo": "Decreto nº 358 de 20/05/1844",
+      "data": "1844-05-20",
+      "numero": "358",
+      "urn": "urn:lex:br:federal:decreto:1844-05-20;358",
+      "ementa": "REVOGA O DE 2 DE JULHO DE 1843, NÚMERO 313, QUE REUNIU O TERMO DA VILA DE IGUARASSÚ AO DA CIDADE DE OLINDA NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "387220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-27-357",
+      "titulo": "Decreto nº 357 de 27/04/1844",
+      "data": "1844-04-27",
+      "numero": "357",
+      "urn": "urn:lex:br:federal:decreto:1844-04-27;357",
+      "ementa": "REGULANDO A EXTRAÇÃO DAS LOTERIAS EM TODO O IMPÉRIO."
+    },
+    {
+      "senadoId": "387209",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-26-355",
+      "titulo": "Decreto nº 355 de 26/04/1844",
+      "data": "1844-04-26",
+      "numero": "355",
+      "urn": "urn:lex:br:federal:decreto:1844-04-26;355",
+      "ementa": "MANDA EXECUTAR PROVISORIAMENTE O REGULAMENTO PARA A ARRECADAÇÃO DO SELO."
+    },
+    {
+      "senadoId": "387215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-26-356",
+      "titulo": "Decreto nº 356 de 26/04/1844",
+      "data": "1844-04-26",
+      "numero": "356",
+      "urn": "urn:lex:br:federal:decreto:1844-04-26;356",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A DEDUÇÃO DO IMPOSTO DA ANCORAGEM."
+    },
+    {
+      "senadoId": "387204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-25-354",
+      "titulo": "Decreto nº 354 de 25/04/1844",
+      "data": "1844-04-25",
+      "numero": "354",
+      "urn": "urn:lex:br:federal:decreto:1844-04-25;354",
+      "ementa": "DECLARA SEM EFEITO O DE Nº 332 DE 20 DE DEZEMBRO DE 1843, E DÁ NOVAS PROVIDÊNCIAS SOBRE A FORMA DE CONFERIR O GRAU, E PASSAR CARTA AOS BACHARÉIS EM LETRAS DO COLÉGIO DE PEDRO SEGUNDO."
+    },
+    {
+      "senadoId": "387190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-20-351",
+      "titulo": "Decreto nº 351 de 20/04/1844",
+      "data": "1844-04-20",
+      "numero": "351",
+      "urn": "urn:lex:br:federal:decreto:1844-04-20;351",
+      "ementa": "MANDA POR EM EXECUÇÃO O PLANO PARA A REFORMA DA SECRETARIA DO ESTADO DOS NEGÓCIOS DA MARINHA."
+    },
+    {
+      "senadoId": "387200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-20-353",
+      "titulo": "Decreto nº 353 de 20/04/1844",
+      "data": "1844-04-20",
+      "numero": "353",
+      "urn": "urn:lex:br:federal:decreto:1844-04-20;353",
+      "ementa": "ORDENANDO QUE CONTINUE EM VIGOR, COM ALGUMAS ALTERAÇÕES E ADITAMENTOS, O REGULAMENTO ANEXO AO DECRETO NÚMERO 135 DE 26 DE FEVERERIO DE 1842, QUE REFORMOU A SECRETARIA DO ESTADO DOS NEGÓCIOS ESTRANGEIROS."
+    },
+    {
+      "senadoId": "387195",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-20-352",
+      "titulo": "Decreto nº 352 de 20/04/1844",
+      "data": "1844-04-20",
+      "numero": "352",
+      "urn": "urn:lex:br:federal:decreto:1844-04-20;352",
+      "ementa": "APROVA O PLANO PARA A ORGANIZAÇÃO DAS PAGADORIAS MILITARES NAS PROVÍNCIAS DO IMPÉRIO, AUTORIZADA PELO ARTIGO 6º § 3º DA LEI NÚMERO 317 DE 21 DE OUTUBRO DE 1843."
+    },
+    {
+      "senadoId": "387185",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-20-350",
+      "titulo": "Decreto nº 350 de 20/04/1844",
+      "data": "1844-04-20",
+      "numero": "350",
+      "urn": "urn:lex:br:federal:decreto:1844-04-20;350",
+      "ementa": "APROVANDO O PLANO PARA A REFORMA DA SECRETARIA DE ESTADO DOS NEGÓCIOS DA GUERRA, NA CONFORMIDADE DOS ARTIGOS 39, DA LEI NÚMERO 243, DE 30 DE NOVEMBRO DE 1841 E 44 DA LEI NÚMERO 317, DE 21 DE OUTUBRO DE 1843."
+    },
+    {
+      "senadoId": "387180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-20-349",
+      "titulo": "Decreto nº 349 de 20/04/1844",
+      "data": "1844-04-20",
+      "numero": "349",
+      "urn": "urn:lex:br:federal:decreto:1844-04-20;349",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A COBRANÇA DO IMPOSTO SOBRE OS ORDENADOS."
+    },
+    {
+      "senadoId": "387175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-19-348",
+      "titulo": "Decreto nº 348 de 19/04/1844",
+      "data": "1844-04-19",
+      "numero": "348",
+      "urn": "urn:lex:br:federal:decreto:1844-04-19;348",
+      "ementa": "REFORMANDO A SECRETARIA DO ESTADO DOS NEGÓCIOS DA FAZENDA, EM VIRTUDE DO ARTIGO 44 DA LEI DE 21 DE OUTUBRO DE 1843."
+    },
+    {
+      "senadoId": "387170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-19-347",
+      "titulo": "Decreto nº 347 de 19/04/1844",
+      "data": "1844-04-19",
+      "numero": "347",
+      "urn": "urn:lex:br:federal:decreto:1844-04-19;347",
+      "ementa": "REFORMANDO A SECRETARIA DO ESTADOS DOS NEGÓCIOS DA JUSTIÇA, EM VIRTUDE DO ARTIGO 44 DA LEI DE 21 DE OUTUBRO DE 1843."
+    },
+    {
+      "senadoId": "387169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-04-13-346-a",
+      "titulo": "Decreto nº 346-A de 13/04/1844",
+      "data": "1844-04-13",
+      "numero": "346-a",
+      "urn": "urn:lex:br:federal:decreto:1844-04-13;346-a",
+      "ementa": "REVOGA O NÚMERO 279 DE 2 DE ABRIL DO ANO ANTECEDENTE."
+    },
+    {
+      "senadoId": "387160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-03-30-345",
+      "titulo": "Decreto nº 345 de 30/03/1844",
+      "data": "1844-03-30",
+      "numero": "345",
+      "urn": "urn:lex:br:federal:decreto:1844-03-30;345",
+      "ementa": "DESIGNA OS DIAS, QUE, ALÉM DOS DE FESTIVIDADE NACIONAL, FICÃO D'ORA EM DIANTE SENDO DE GRANDE GALA NA CORTE."
+    },
+    {
+      "senadoId": "387164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-03-30-346",
+      "titulo": "Decreto nº 346 de 30/03/1844",
+      "data": "1844-03-30",
+      "numero": "346",
+      "urn": "urn:lex:br:federal:decreto:1844-03-30;346",
+      "ementa": "MANDA POR EM EXECUÇÃO O REGULAMENTO SOBRE A REFORMA DA SECRETARIA D'ESTADO DOS NEGÓCIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "387155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-03-15-344",
+      "titulo": "Decreto nº 344 de 15/03/1844",
+      "data": "1844-03-15",
+      "numero": "344",
+      "urn": "urn:lex:br:federal:decreto:1844-03-15;344",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DO ALJUBE DA CORTE."
+    },
+    {
+      "senadoId": "387145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-03-14-342",
+      "titulo": "Decreto nº 342 de 14/03/1844",
+      "data": "1844-03-14",
+      "numero": "342",
+      "urn": "urn:lex:br:federal:decreto:1844-03-14;342",
+      "ementa": "CONCEDE ANISTIA ÁS PESSOAS, QUE SE ACHAREM ENVOLVIDAS NOS CRIMES POLÍTICOS COMETIDOS EM 1842 NAS PROVÍNCIAS DE SÃO PAULO E MINAS GERAIS."
+    },
+    {
+      "senadoId": "387150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-03-14-343",
+      "titulo": "Decreto nº 343 de 14/03/1844",
+      "data": "1844-03-14",
+      "numero": "343",
+      "urn": "urn:lex:br:federal:decreto:1844-03-14;343",
+      "ementa": "REVOGA O DE NÚMERO 292 DE 7 DE MAIO DE 1843, E MANDA OBSERVAR, POR ESPAÇO DE TRÊS MESES, O DE NÚMERO 69 DE 29 DE MARÇO DE 1841, QUE AUTORIZOU O PRESIDENTE DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL PARA CONCEDER ANÍSTIA AOS INDIVÍDUOS COMPREENDIDOS NA REBELIÃO DA DITA PROVÍNCIA, QUE DEPUSESSEM AS ARMAS."
+    },
+    {
+      "senadoId": "387140",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-02-10-341",
+      "titulo": "Decreto nº 341 de 10/02/1844",
+      "data": "1844-02-10",
+      "numero": "341",
+      "urn": "urn:lex:br:federal:decreto:1844-02-10;341",
+      "ementa": "DECLARA QUE O ARTIGO 1º DO DECRETO DE 12 DE JULHO DE 1843 COMPREENDE NÃO SÓ OS PROCESSO DE RÉUS NOTORIAMENTE POBRES, MAS TAMBÉM QUAISQUER OUTROS EX-OFÍCIOS, EM QUE AS PARTES SE NÃO PRESTEM AO PAGAMENTO ADIANTADO DOS PORTES."
+    },
+    {
+      "senadoId": "387135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-01-25-340",
+      "titulo": "Decreto nº 340 de 25/01/1844",
+      "data": "1844-01-25",
+      "numero": "340",
+      "urn": "urn:lex:br:federal:decreto:1844-01-25;340",
+      "ementa": "MANDA QUE O LENTE DE ARTILHARIA DA ACADEMIA DA MARINHA ENSINE PRINCÍPIOS DE FÍSICA E QUÍMICA APLICADOS Á FABRICAÇÃO DA PÓLVORA E ARTÍFICIOS DE ARTILHARIA, E ÁS MÁQUINAS DE VAPOR; E BEM ASSIM A TEORIA DESTAS MÁQUINAS."
+    },
+    {
+      "senadoId": "387130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-01-17-339",
+      "titulo": "Decreto nº 339 de 17/01/1844",
+      "data": "1844-01-17",
+      "numero": "339",
+      "urn": "urn:lex:br:federal:decreto:1844-01-17;339",
+      "ementa": "SUPRIME O LUGAR DE JUIZ MUNICIPAL DA 3ª VARA DA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "387125",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-01-17-338",
+      "titulo": "Decreto nº 338 de 17/01/1844",
+      "data": "1844-01-17",
+      "numero": "338",
+      "urn": "urn:lex:br:federal:decreto:1844-01-17;338",
+      "ementa": "REVOGA O NÚMERO 325 DE 2 DE OUTUBRO DO ANO ANTECEDENTE."
+    },
+    {
+      "senadoId": "387120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1844-01-03-337",
+      "titulo": "Decreto nº 337 de 03/01/1844",
+      "data": "1844-01-03",
+      "numero": "337",
+      "urn": "urn:lex:br:federal:decreto:1844-01-03;337",
+      "ementa": "ESTABELECE UM INSPETOR DAS FÁBRICAS PROTEGIDAS NO MUNICÍPIO DA CORTE."
+    }
+  ],
+  "pendencias": []
+}

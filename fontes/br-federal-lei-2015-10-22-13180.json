@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-10-22-13180",
+  "titulo": "Lei nº 13.180 de 22/10/2015",
+  "data": "2015-10-22",
+  "fonte": "https://normas.leg.br/api/public/binario/547b218f-ce34-4eb8-9b36-9e81137cccfb/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-10-22;13180",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-10-22%3B13180&tipo_documento=maior-detalhe",
+  "sha256_dados": "6fc675d2f9710b8b46c45e37d5d92fc8a8c090f27ee993e227796fff7a63a2a8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:19.059Z",
+  "sha256_fonte": "5f0f684db9aec69ac521f513e26d35eb64fd027bee0f86b967bf63a3c2e5d4c8",
+  "sha256_markdown": "0d39235ff7825e9e674f255d17137ba939de761ca7838d9747daf63419b06f4c"
+}

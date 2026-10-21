@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-03-02-13103",
+  "titulo": "Lei nº 13.103 de 02/03/2015",
+  "data": "2015-03-02",
+  "fonte": "https://normas.leg.br/api/public/binario/ff3f61e5-9c27-4c64-9660-982188f70402/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-03-02;13103",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-03-02%3B13103&tipo_documento=maior-detalhe",
+  "sha256_dados": "18cd8dd2d818f72af4eef2e41bda146cad7947f4ea15e40287d0617c06f4eb1d",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:58.517Z",
+  "sha256_fonte": "d317053dc29dc96d0d657731abc3f0e814cf66dece7a0a2c715afa3353e068f7",
+  "sha256_markdown": "7216faf8513204d2b506e882de69a80bb9514dd5c8777b45e5211af70b4db604"
+}

@@ -1,0 +1,279 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2009",
+  "tipo": "MPV",
+  "ano": 2009,
+  "coletado_em": "2026-10-21T08:53:29.633Z",
+  "normas": [
+    {
+      "senadoId": "569019",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-30-479",
+      "titulo": "Medida Provisória nº 479 de 30/12/2009",
+      "data": "2009-12-30",
+      "numero": "479",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-30;479",
+      "ementa": "Dispõe sobre o prazo para formalizar a opção para integrar o Plano de Carreiras e Cargos de Ciência, Tecnologia, Produção e Inovação em Saúde Pública, de que trata o art. 28-A da Lei nº 11.355, de 19 de outubro de 2006; a Gratificação de Qualificação - GQ, de que tratam as Leis nºs 11.355, de 2006, e 11.907, de 2 de fevereiro de 2009; as tabelas da Gratificação de Desempenho de Atividade de Ciência, Tecnologia, Produção e Inovação em Saúde Pública - GDACTSP, de que trata a Lei nº 11.355, de 2006; o Plano de Carreiras e Cargos do IPEA, de que trata a Lei nº 11.890, de 24 de dezembro de 2008; a Carreira de Perito Médico Previdenciário e a Carreira de Supervisor Médico-Pericial, de que trata a Lei nº 11.907, de 2009; as Carreiras da Área Penitenciária Federal, de que trata a Lei nº 11.907, de 2009; a integração ao Plano Especial de Cargos do Ministério da Fazenda - PECFAZ, de que trata a Lei nº 11.907, de 2009, de cargos vagos redistribuídos para o Quadro de Pessoal do Ministério da Fazenda; os Cargos em Exercício das Atividades de Combate e Controle de Endemias; a Gratificação Específica de Produção de Radioisótopos e Radiofármacos - GEPR, de que trata a Lei nº 11.907, de 2009; a transposição de cargos do PGPE, de que trata a Lei nº 11.357, de 19 de outubro de 2006, para o Plano de Carreiras e Cargos do Hospital das Forças Armadas - PCCHFA; o enquadramento dos servidores titulares dos cargos de provimento efetivo de Professor do Ensino Básico Federal e de Professor do Ensino Básico Federal dos ex- Territórios na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a Lei nº 11.784, de 22 de setembro de 2008; a tabela de valores da Gratificação de Apoio à Execução da Política Indigenista - GAPIN, de que trata a Lei nº 11.907, de 2009; a tabela de valor do ponto da Gratificação de Desempenho de Atividades Administrativas do DNPM - GDADNPM, e da Gratificação de Desempenho de Atividades Administrativas do Plano Especial de Cargos do DNPM - GDAPDNPM, de que trata a Lei nº 11.046, de 27 de dezembro de 2004; a Carreira do Seguro Social, de que trata a Lei nº 10.855, de 1o de abril de 2004; a possibilidade da aplicação do instituto da redistribuição de servidores para a Suframa e para a Embratur; a Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal - GSISTE, de que trata a Lei nº 11.356, de 19 de outubro de 2006; os servidores da extinta Fundação Roquette Pinto cedidos nos termos do inciso I do art. 22 e do art. 23 da Lei nº 9.637, de 15 de maio de 1998; as Carreiras de Oficial de Chancelaria e de Assistente de Chancelaria, de que trata a Lei nº 8.829, de 22 de dezembro de 1993; o exercício no âmbito do Subsistema Integrado de Atenção à Saúde do Servidor Público Federal - SIASS; a licença por motivo de doença em pessoa da família e o afastamento para participação em programa de pós-graduação stricto sensu no País, de que tratam, respectivamente, os arts. 83 e 96-A da Lei nº 8.112, de 11 de dezembro de 1990; a transposição de cargos do PGPE, de que trata a Lei nº 11.357, de 19 de outubro de 2006, para o Plano Especial de Cargos da Cultura, de que trata a Lei nº 11.233, de 22 de dezembro de 2005; reabre prazo para opção pela Carreira da Previdência, da Saúde e do Trabalho, de que trata a Lei nº 11.355, de 2006; e dá outras providências."
+    },
+    {
+      "senadoId": "569015",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-29-477",
+      "titulo": "Medida Provisória nº 477 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "477",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-29;477",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos e entidades do Poder Executivo, no valor global de R$ 18.191.723.573,00, e reduz o Orçamento de Investimento de diversas empresas no valor global de R$ 5.736.743.280,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "569017",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-29-478",
+      "titulo": "Medida Provisória nº 478 de 29/12/2009",
+      "data": "2009-12-29",
+      "numero": "478",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-29;478",
+      "ementa": "Dispõe sobre a extinção da Apólice do Seguro Habitacional do Sistema Financeiro da Habitação - SH/SFH, altera a legislação tributária relativamente às regras de preços de transferência, e dá outras providências."
+    },
+    {
+      "senadoId": "569011",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-23-475",
+      "titulo": "Medida Provisória nº 475 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "475",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-23;475",
+      "ementa": "Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social em 2010 e 2011."
+    },
+    {
+      "senadoId": "569009",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-23-474",
+      "titulo": "Medida Provisória nº 474 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "474",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-23;474",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de janeiro de 2010 e estabelece diretrizes para a política de valorização do salário mínimo entre 2011 e 2023."
+    },
+    {
+      "senadoId": "569013",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-23-476",
+      "titulo": "Medida Provisória nº 476 de 23/12/2009",
+      "data": "2009-12-23",
+      "numero": "476",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-23;476",
+      "ementa": "Dispõe sobre a concessão de crédito presumido do Imposto sobre Produtos Industrializados - IPI na aquisição de resíduos sólidos por estabelecimento industrial para utilização como matérias-primas ou produtos intermediários na fabricação de seus produtos, e dá outras providências."
+    },
+    {
+      "senadoId": "569005",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-15-472",
+      "titulo": "Medida Provisória nº 472 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "472",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-15;472",
+      "ementa": "Institui o Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura da Indústria Petrolífera nas Regiões Norte, Nordeste e Centro-Oeste - REPENEC; cria o Programa Um Computador por Aluno - PROUCA e institui o Regime Especial de Aquisição de Computadores para uso Educacional - RECOMPE; prorroga benefícios fiscais; constitui fonte de recursos adicional aos agentes financeiros do Fundo da Marinha Mercante - FMM para financiamentos de projetos aprovados pelo Conselho Diretor do Fundo da Marinha Mercante - CDFMM; dispõe sobre a Letra Financeira e o Certificado de Operações Estruturadas; altera a redação da Lei nº 11.948, de 16 de junho de 2009; ajusta o Programa Minha Casa Minha Vida - PMCMV; e dá outras providências."
+    },
+    {
+      "senadoId": "569007",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-12-15-473",
+      "titulo": "Medida Provisória nº 473 de 15/12/2009",
+      "data": "2009-12-15",
+      "numero": "473",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-12-15;473",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Educação, da Saúde, dos Transportes e da Integração Nacional, no valor global de R$ 742.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "569003",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-11-20-471",
+      "titulo": "Medida Provisória nº 471 de 20/11/2009",
+      "data": "2009-11-20",
+      "numero": "471",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-11-20;471",
+      "ementa": "Altera as Leis nºs 9.440, de 14 de março de 1997, e 9.826, de 23 de agosto de 1999, que estabelecem incentivos fiscais para o desenvolvimento regional."
+    },
+    {
+      "senadoId": "569001",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-10-13-470",
+      "titulo": "Medida Provisória nº 470 de 13/10/2009",
+      "data": "2009-10-13",
+      "numero": "470",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-10-13;470",
+      "ementa": "Constitui fonte adicional de recursos para ampliação de limites operacionais da Caixa Econômica Federal e dá outras providências."
+    },
+    {
+      "senadoId": "568999",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-10-05-469",
+      "titulo": "Medida Provisória nº 469 de 05/10/2009",
+      "data": "2009-10-05",
+      "numero": "469",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-10-05;469",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Saúde e dos Transportes, no valor global de R$ 2.168.172.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568997",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-08-31-468",
+      "titulo": "Medida Provisória nº 468 de 31/08/2009",
+      "data": "2009-08-31",
+      "numero": "468",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-08-31;468",
+      "ementa": "Dispõe sobre a transferência de depósitos judiciais e extrajudiciais de tributos e contribuições federais para a Caixa Econômica Federal."
+    },
+    {
+      "senadoId": "568995",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-07-30-467",
+      "titulo": "Medida Provisória nº 467 de 30/07/2009",
+      "data": "2009-07-30",
+      "numero": "467",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-07-30;467",
+      "ementa": "Autoriza, em caráter excepcional, a prorrogação de contratos por tempo determinado firmados com fundamento nas alíneas \"d\" e \"h\" do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências."
+    },
+    {
+      "senadoId": "568993",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-07-29-466",
+      "titulo": "Medida Provisória nº 466 de 29/07/2009",
+      "data": "2009-07-29",
+      "numero": "466",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-07-29;466",
+      "ementa": "Dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências."
+    },
+    {
+      "senadoId": "568991",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-06-29-465",
+      "titulo": "Medida Provisória nº 465 de 29/06/2009",
+      "data": "2009-06-29",
+      "numero": "465",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-06-29;465",
+      "ementa": "Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica, altera as Leis nºs 10.925, de 23 de julho de 2004, e 11.948, de 16 de junho de 2009, e dá outras providências."
+    },
+    {
+      "senadoId": "568989",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-06-09-464",
+      "titulo": "Medida Provisória nº 464 de 09/06/2009",
+      "data": "2009-06-09",
+      "numero": "464",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-06-09;464",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2009, com o objetivo de fomentar as exportações do País, e sobre a participação da União em fundos garantidores de risco de crédito para micro, pequenas e médias empresas."
+    },
+    {
+      "senadoId": "568987",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-05-20-463",
+      "titulo": "Medida Provisória nº 463 de 20/05/2009",
+      "data": "2009-05-20",
+      "numero": "463",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-05-20;463",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.217.677.730,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568985",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-05-14-462",
+      "titulo": "Medida Provisória nº 462 de 14/05/2009",
+      "data": "2009-05-14",
+      "numero": "462",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-05-14;462",
+      "ementa": "Dispõe sobre a prestação de apoio financeiro pela União aos entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras emergenciais, e dá outras providências."
+    },
+    {
+      "senadoId": "568983",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-04-15-461",
+      "titulo": "Medida Provisória nº 461 de 15/04/2009",
+      "data": "2009-04-15",
+      "numero": "461",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-04-15;461",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 300.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "568981",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-03-30-460",
+      "titulo": "Medida Provisória nº 460 de 30/03/2009",
+      "data": "2009-03-30",
+      "numero": "460",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-03-30;460",
+      "ementa": "Dá nova redação aos arts. 4º e 8º da Lei nº 10.931, de 2 de agosto de 2004, que tratam de patrimônio de afetação de incorporações imobiliárias, dispõe sobre o tratamento tributário a ser dado às receitas mensais auferidas pelas empresas construtoras nos contratos de construção de moradias firmados dentro do Programa Minha Casa, Minha Vida - PMCMV, atribui à Agência Nacional de Telecomunicações - ANATEL as atribuições de apurar, constituir, fiscalizar e arrecadar a Contribuição para o Fomento da Radiodifusão Pública, e dá outras providências."
+    },
+    {
+      "senadoId": "568979",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-03-25-459",
+      "titulo": "Medida Provisória nº 459 de 25/03/2009",
+      "data": "2009-03-25",
+      "numero": "459",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-03-25;459",
+      "ementa": "Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV, a regularização fundiária de assentamentos localizados em áreas urbanas, e dá outras providências."
+    },
+    {
+      "senadoId": "568975",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-02-10-457",
+      "titulo": "Medida Provisória nº 457 de 10/02/2009",
+      "data": "2009-02-10",
+      "numero": "457",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-02-10;457",
+      "ementa": "Altera os arts. 96 e 102 da Lei nº 11.196, de 21 de novembro de 2005, que dispõem sobre parcelamento de débitos de responsabilidade dos Municípios, decorrentes de contribuições sociais de que tratam as alíneas \"a\" e \"c\" do parágrafo único do art. 11 da Lei nº 8.212, de 24 de julho de 1991."
+    },
+    {
+      "senadoId": "568977",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-02-10-458",
+      "titulo": "Medida Provisória nº 458 de 10/02/2009",
+      "data": "2009-02-10",
+      "numero": "458",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-02-10;458",
+      "ementa": "Dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal, altera as Leis nºs 8.666, de 21 de junho de 1993, 6.015, de 31 de dezembro de 1973, 6.383, de 7 de dezembro 1976, e 6.925, de 29 de junho de 1981, e dá outras providências."
+    },
+    {
+      "senadoId": "568973",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-01-30-456",
+      "titulo": "Medida Provisória nº 456 de 30/01/2009",
+      "data": "2009-01-30",
+      "numero": "456",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-01-30;456",
+      "ementa": "Dispõe sobre o salário mínimo a partir de 1º de fevereiro de 2009."
+    },
+    {
+      "senadoId": "568971",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-01-28-455",
+      "titulo": "Medida Provisória nº 455 de 28/01/2009",
+      "data": "2009-01-28",
+      "numero": "455",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-01-28;455",
+      "ementa": "Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica, altera a Lei nº 10.880, de 9 de junho de 2004, e dá outras providências."
+    },
+    {
+      "senadoId": "568969",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-01-28-454",
+      "titulo": "Medida Provisória nº 454 de 28/01/2009",
+      "data": "2009-01-28",
+      "numero": "454",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-01-28;454",
+      "ementa": "Dá nova redação aos arts. 2º, 3º e 4º da Lei nº 10.304, de 5 de novembro de 2001, que transfere ao domínio do Estado de Roraima terras pertencentes à União."
+    },
+    {
+      "senadoId": "568967",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2009-01-22-453",
+      "titulo": "Medida Provisória nº 453 de 22/01/2009",
+      "data": "2009-01-22",
+      "numero": "453",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-01-22;453",
+      "ementa": "Constitui fonte adicional de recursos para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

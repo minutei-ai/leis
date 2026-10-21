@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-21-13556",
+  "titulo": "Lei nº 13.556 de 21/12/2017",
+  "data": "2017-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/4176e489-f07b-4771-b22c-f28236c6428c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-21;13556",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-21%3B13556&tipo_documento=maior-detalhe",
+  "sha256_dados": "29405faa31b10d9ba1f78a222edda723ed37b4a0615931d85fb1ec2c7b28cdc4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:59.326Z",
+  "sha256_fonte": "e21724908de4334e8d699f633a1f2cee4ec306d0f60a28854261dcbc4245d02a",
+  "sha256_markdown": "dc5c61aac89bb8c1fa294576130320f5106ce08737885e175a54a36e287da8af"
+}

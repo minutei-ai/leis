@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-04-15-13271",
+  "titulo": "Lei nº 13.271 de 15/04/2016",
+  "data": "2016-04-15",
+  "fonte": "https://normas.leg.br/api/public/binario/42ae62fb-fd76-463b-891a-12f2183e9169/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-04-15;13271",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-04-15%3B13271&tipo_documento=maior-detalhe",
+  "sha256_dados": "afaee7e5ee44fc100f4577cf347df32535539433aec4a4af4420e8daf70a8f29",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:20.083Z",
+  "sha256_fonte": "f1fe2c08e10778508ea89efa0dfd6101fa74cbb67379cadd7248407d85b25732",
+  "sha256_markdown": "36b56c87d373307db5e7053ccf3668d73fae2b3a2e8d49ce321c9e3ab6ec98e7"
+}

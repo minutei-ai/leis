@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-05-13-12973",
+  "titulo": "Lei nº 12.973 de 13/05/2014",
+  "data": "2014-05-13",
+  "fonte": "https://normas.leg.br/api/public/binario/5cb8f89d-9842-4e8b-b61b-7e6991234581/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-05-13;12973",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-05-13%3B12973&tipo_documento=maior-detalhe",
+  "sha256_dados": "2139bd728fac49b1c531f50315f522ffa22e5673a5afe4117bf2f1a9f2df47d2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:49.016Z",
+  "sha256_fonte": "4d85dbad202bc5bd17a082f6cf7aec11c066d85de9c24d0683fc139130360539",
+  "sha256_markdown": "fdfb9eab135cd539f5253820eb80307be28831e81f74e0cdc2e59b09a82b0289"
+}

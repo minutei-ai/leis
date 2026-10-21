@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-20-13548",
+  "titulo": "Lei nº 13.548 de 20/12/2017",
+  "data": "2017-12-20",
+  "fonte": "https://normas.leg.br/api/public/binario/369703e2-d644-465a-8efe-1ee0cef1fd82/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-20;13548",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-20%3B13548&tipo_documento=maior-detalhe",
+  "sha256_dados": "9f32a2b986a47d278bdd86032f5d3d48c9f16d2f35af56df7d2cfd832112c9a8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:07.068Z",
+  "sha256_fonte": "e087fdf6e53b5d43ffd9b6d591ab0aa25f025ba82c7c9f590ace6ff4d4d789d0",
+  "sha256_markdown": "2248ca9180267a255424fa8c00a322760501759c3e5667620f8ffdc6cee0cd70"
+}

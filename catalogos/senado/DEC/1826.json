@@ -1,0 +1,275 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1826",
+  "tipo": "DEC",
+  "ano": 1826,
+  "coletado_em": "2026-10-21T08:53:10.500Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "384719",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/12/1826 ( seq-sf: 53 )",
+      "dataassinatura": "15/12/1826",
+      "ementa": "PRORROGA O PRAZO PARA CONCESSÃO DO PERDÃO DO CRIME DE DESERÇÃO DE QUE TRATA O DECRETO DE 14 DE NOVEMBRO ÚLTIMO."
+    },
+    {
+      "id": "384688",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 14/11/1826 ( seq-sf: 51 )",
+      "dataassinatura": "14/11/1826",
+      "ementa": "PERDÔA O CRIME DE DESERÇÃO AOS INDIVÍDUOS DO EXÉRCITO DO SUL."
+    },
+    {
+      "id": "384673",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/11/1826 ( seq-sf: 50 )",
+      "dataassinatura": "09/11/1826",
+      "ementa": "CONCEDE TRÊS LOTERIAS CONFORME O PLANO ANEXO, EM BENEFÍCIO DA SANTA CASA DA MISERICÓRDIA DA CIDADE DE SÃO CRISTOVÃO, CAPITAL DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "id": "384657",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/11/1826 ( seq-sf: 49 )",
+      "dataassinatura": "07/11/1826",
+      "ementa": "MARCA O ORDENADO DO PROVEDOR-MOR DE SAÚDE."
+    },
+    {
+      "id": "384640",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/10/1826 ( seq-sf: 48 )",
+      "dataassinatura": "30/10/1826",
+      "ementa": "NOMEIA A SIMPLÍCIO RODRIGUES DE SÁ MESTRE DE PINTURA DA RAINHA DE PORTUGAL, E ALGUMAS PRINCESAS, E ARBITRA-LHE ORDENADO."
+    },
+    {
+      "id": "384622",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/10/1826 ( seq-sf: 47 )",
+      "dataassinatura": "26/10/1826",
+      "ementa": "DIVIDE EM DUAS A 6.ª COMPANHIA DO DISTRITO DA FREGUESIA DE N. S. DOS CAMPOS DO RIO REAL DE CIMA SERRAS A DENTRO, DO CORPO DE ORDENANÇAS DA VILLA DO LAGARTO NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "id": "384604",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/10/1826 ( seq-sf: 46 )",
+      "dataassinatura": "25/10/1826",
+      "ementa": "CONCEDE DEZ LOTERIAS PARA EDIFICAÇÃO DA CADEIA E CASA DA CÂMARA DA VILLA DE QUELUZ."
+    },
+    {
+      "id": "384546",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/08/1826 ( seq-sf: 43 )",
+      "dataassinatura": "28/08/1826",
+      "ementa": "MARCA A DIARIA DE 400 REIS AOS MISSIONARIOS BARBADINHOS CONVIDADOS PARA SERVIREM NO IMPERIO."
+    },
+    {
+      "id": "384545",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/08/1826 ( seq-sf: 43 )",
+      "dataassinatura": "18/08/1826",
+      "ementa": "CRIA UM AUDITOR DE MARINHA NA PROVÍNCIA DE MONTEVIDÉU."
+    },
+    {
+      "id": "384525",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/08/1826 ( seq-sf: 42 )",
+      "dataassinatura": "17/08/1826",
+      "ementa": "APROVA O FIGURINO PARA O NOVO UNIFORME DOS BATALHÕES DA IMPERIAL BRIGADA DE ARTILHARIA DA MARINHA."
+    },
+    {
+      "id": "384501",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/07/1826 ( seq-sf: 41 )",
+      "dataassinatura": "06/07/1826",
+      "ementa": "CONCEDE SEIS LOTERIAS, EM BENEFÍCIO DA CRIAÇÃO DOS EXPOSTOS DA CIDADE DE PORTE ALEGRE, E DIVERSAS VILAS DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "id": "384479",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/06/1826 ( seq-sf: 40 )",
+      "dataassinatura": "28/06/1826",
+      "ementa": "CONCEDE DEZ LOTERIAS, CONFORME O PLANO ANEXO, EM BENEFÍCIO DE SANTA CASA DA MISERICÓRDIA DA CIDADE DE PORTO ALEGRE."
+    },
+    {
+      "id": "384455",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/06/1826 ( seq-sf: 39 )",
+      "dataassinatura": "26/06/1826",
+      "ementa": "CONCEDE DEZ LOTERIAS, CONFORME O PLANO ANEXO, EM BENEFÍCIO DAS FÁBRICAS DE ESTAMPARIA E PAPEL, DO SÍTIO DO ANDARAÍ DESTA CAPITAL."
+    },
+    {
+      "id": "384373",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/05/1826 ( seq-sf: 36 )",
+      "dataassinatura": "31/05/1826",
+      "ementa": "CONCEDE QUATRO LOTERIAS, CONFORME O PLANO ANEXO, PARA EDIFICAÇÃO DA IGREJA MATRIZ DE SÃO JOSÉ, DESTA CÔRTE."
+    },
+    {
+      "id": "384372",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/05/1826 ( seq-sf: 36 )",
+      "dataassinatura": "29/05/1826",
+      "ementa": "CONCEDE O TRATAMENTO DE EXCELÊNCIA NO RECINTO DAS CÂMARAS LEGISTIVAS AOS PRESIDENTES DAS MESMAS CÂMARAS, E SECRETÁRIOS DELAS NA CORRESPONDÊNCIA OFICIAL."
+    },
+    {
+      "id": "384311",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/05/1826 ( seq-sf: 34 )",
+      "dataassinatura": "24/05/1826",
+      "ementa": "CONCEDE O TÍTULO DE DUQUESA DE GOIÁS A D. IZABEL MARIA DE ALCÂNTARA BRASILEIRA."
+    },
+    {
+      "id": "384280",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/05/1826 ( seq-sf: 33 )",
+      "dataassinatura": "17/05/1826",
+      "ementa": "CRIA O LUGAR DE AJUDANTE DO AUDITOR GERAL DE MARINHA."
+    },
+    {
+      "id": "384310",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 14/05/1826 ( seq-sf: 34 )",
+      "dataassinatura": "14/05/1826",
+      "ementa": "DÁ ORGANIZAÇÃO E NUMERAÇÃO A DIVERSOS CORPOS DE PRIMEIRA E SEGUNDA LINHA DO EXÉRCITO."
+    },
+    {
+      "id": "384248",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/05/1826 ( seq-sf: 32 )",
+      "dataassinatura": "05/05/1826",
+      "ementa": "APROVA A DELIBERAÇÃO TOMADA PELO SENADO SOBRE O ARTIGO 7.º DO FORMULÁRIO PARA A RECEPÇÃO DE SUA MAJESTADE O IMPERADOR, NO ATO DA INSTALAÇÃO DA ASSEMBLÉIA GERAL LEGISLATIVA."
+    },
+    {
+      "id": "384216",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/04/1826 ( seq-sf: 31 )",
+      "dataassinatura": "26/04/1826",
+      "ementa": "DECLARA SEM EFEITO O DECRETO DE 11 DE DEZEMBRO DE 1822, QUE MANDOU SEQUESTRAR AS PROPRIEDADES PORTUGUESAS."
+    },
+    {
+      "id": "384180",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/04/1826 ( seq-sf: 30 )",
+      "dataassinatura": "25/04/1826",
+      "ementa": "DESIGNA O DIA 29 DO CORRENTE PARA A 1.ª REUNIÃO DAS CÂMARAS LEGISLATIVAS, AFIM DE QUE POSSA TER LUGAR A ABERTURA DA ASSEMBLÉIA GERAL NO DIA MARCADO NA CONSTITUIÇÃO."
+    },
+    {
+      "id": "384105",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/1826 ( seq-sf: 28 )",
+      "dataassinatura": "22/04/1826",
+      "ementa": "DIVIDE A 2.ª COMPANHIA DO CORPO DAS ORDENANÇAS DA VILLA DE PROPIÁ NA PROVÍNCIA DE SERGIPE EM TRÊS COMPANHIAS."
+    },
+    {
+      "id": "384104",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/04/1826 ( seq-sf: 28 )",
+      "dataassinatura": "21/04/1826",
+      "ementa": "CONCEDE AO BATALHÃO DE 2.ª LINHA DE MINAS GERAIS, EXPEDICIONÁRIO À PROVÍNCIA DA BAHIA O USO DA MEDALHA CONCEDIDA AO EXÉRCITO PACIFICADOR DA REFERIDA PROVÍNCIA."
+    },
+    {
+      "id": "384054",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/04/1826 ( seq-sf: 27 )",
+      "dataassinatura": "16/04/1826",
+      "ementa": "CRIA A ORDEM DE PEDRO PRIMEIRO, FUNDADOR DO IMPÉRIO."
+    },
+    {
+      "id": "383998",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/04/1826 ( seq-sf: 26 )",
+      "dataassinatura": "10/04/1826",
+      "ementa": "MANDA OBSERVAR O TRATADO DE RECONHECIMENTO DA INDEPENDÊNCIA, ENTRE O BRASIL E PORTUGAL."
+    },
+    {
+      "id": "383934",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/01/1826 ( seq-sf: 23 )",
+      "dataassinatura": "31/01/1826",
+      "ementa": "ORGANIZA A IMPERIAL BRIGADA DE ARTILHARIA DE MARINHA."
+    },
+    {
+      "id": "591049",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/01/1826 ( seq-sf: 24 )",
+      "dataassinatura": "31/01/1826",
+      "ementa": "CRIA UM TESOUREIRO GERAL DA MARINHA E DOIS PAGADORES."
+    },
+    {
+      "id": "591503",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/01/1826 ( seq-sf: 21 )",
+      "dataassinatura": "30/01/1826",
+      "ementa": "CONCEDE PERDÃO AOS DESERTORES DAS TROPAS DA GUARNIÇÃO DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "383852",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/01/1826 ( seq-sf: 22 )",
+      "dataassinatura": "30/01/1826",
+      "ementa": "PROMOVE A OFICIAIS DO EXÉRCITO NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "591413",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/01/1826 ( seq-sf: 20 )",
+      "dataassinatura": "28/01/1826",
+      "ementa": "CONCEDE PERDÃO A SENTENCIADOS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "375427",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/01/1826",
+      "dataassinatura": "28/01/1826",
+      "ementa": "DA NOVA ORGANIZAÇÃO AO CORPO DE ARTILHARIA DE POSIÇÃO."
+    },
+    {
+      "id": "383705",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/01/1826 ( seq-sf: 19 )",
+      "dataassinatura": "28/01/1826",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO AO CORPO DE ARTILHARIA DE POSIÇÃO."
+    },
+    {
+      "id": "581232",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/01/1826 ( seq-sf: 18 )",
+      "dataassinatura": "25/01/1826",
+      "ementa": "NOMEIA O PLENIPOTENCIÁRIO BRASILEIRO PARA O CONGRESSO QUE SE DEVE REUNIR EM PANAMÁ."
+    },
+    {
+      "id": "383589",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/01/1826 ( seq-sf: 17 )",
+      "dataassinatura": "22/01/1826",
+      "ementa": "NOMEIA OS SENADORES DO IMPÉRIO, SEGUNDO AS LISTAS ENVIADAS DAS PROVÍNCIAS."
+    },
+    {
+      "id": "375426",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/01/1826",
+      "dataassinatura": "21/01/1826",
+      "ementa": "HEI POR BEM DETERMINAR, QUE DO REFERIDO CORPO SE FORME UMA BRIGADA, A QUAL SE DENOMINARA, IMPERIAL BRIGADA D'ARTILHARIA DA MARINHA."
+    },
+    {
+      "id": "375425",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/01/1826",
+      "dataassinatura": "17/01/1826",
+      "ementa": "ABOLE A COMPANHIA DE CAVALARIA DE PRIMEIRA LINHA DA PROVINCIA DE GOYAZ E ORGANIZA UM BATALHÃO DE CAÇADORES."
+    },
+    {
+      "id": "383588",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/01/1826 ( seq-sf: 17 )",
+      "dataassinatura": "17/01/1826",
+      "ementa": "ABOLE A COMPANHIA DE CAVALARIA DE 1.ª LINHA DA PROVÍNCIA DE GOIÁS, E ORGANIZA UM BATALHÃO DE CAÇADORES."
+    },
+    {
+      "id": "383413",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/01/1826 ( seq-sf: 15 )",
+      "dataassinatura": "12/01/1826",
+      "ementa": "PERMITE A EXPORTAÇÃO DA MOEDA METÁLICA DESTA CORTE PARA DIVERSAS PROVÍNCIAS DO IMPÉRIO."
+    }
+  ]
+}

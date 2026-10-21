@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-01-12-13245",
+  "titulo": "Lei nº 13.245 de 12/01/2016",
+  "data": "2016-01-12",
+  "fonte": "https://normas.leg.br/api/public/binario/88ab36e0-4d59-4cd5-afe9-29cbb3b6ada1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-01-12;13245",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-01-12%3B13245&tipo_documento=maior-detalhe",
+  "sha256_dados": "384ac83a394c98099d16d6e710a778935807e94534a6ae9e4723a702c659cb98",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:52.110Z",
+  "sha256_fonte": "6fe31e09ecca1dce2456862da34d80792254f836936e260e6cd2b35c7418373d",
+  "sha256_markdown": "63747eeefbc7e5034a4c42fb20667d994682f32445804db22b0a727a12537d58"
+}

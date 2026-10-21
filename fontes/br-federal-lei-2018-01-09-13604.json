@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-09-13604",
+  "titulo": "Lei nº 13.604 de 09/01/2018",
+  "data": "2018-01-09",
+  "fonte": "https://normas.leg.br/api/public/binario/249e7f1b-7be9-4ec4-bc9e-7e507e57e92b/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-09;13604",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-09%3B13604&tipo_documento=maior-detalhe",
+  "sha256_dados": "f5dade60068badc7614feb21524d41a4f8bae530b5c78b34af7288a14935299f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:53.157Z",
+  "sha256_fonte": "c32ef9cee953fa1085546890be2a40a652517fa17c0a57edf7ede273dac016e6",
+  "sha256_markdown": "1d7b272c8f389401ac156cc8dedca7025c6eee56acc22d7ec3b589438cbda102"
+}

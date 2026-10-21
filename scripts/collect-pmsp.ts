@@ -5,6 +5,7 @@ import { Cause, Clock, Effect, Exit, Schema } from "effect";
 import { Metadata, Source } from "./catalog";
 import { convert } from "./convert";
 import { intact, saveDocument } from "./document";
+import { CollectionFailure, pendingFailures } from "./failures";
 import { discoverPmspYear, PmspFailure, pmspRequest } from "./pmsp";
 
 const args = parseArgs({ options: {
@@ -13,17 +14,26 @@ const args = parseArgs({ options: {
   limit: { type: "string", default: "1000000" },
   refresh: { type: "boolean", default: false },
   "skip-failures": { type: "boolean", default: false },
+  "only-failures": { type: "boolean", default: false },
   "discover-only": { type: "boolean", default: false },
 } });
 const first = Schema.decodeUnknownSync(Schema.NumberFromString.pipe(Schema.int(), Schema.between(1800, 2100)))(args.values.from);
 const last = Schema.decodeUnknownSync(Schema.NumberFromString.pipe(Schema.int(), Schema.between(first, 2100)))(args.values.to);
 const limit = Schema.decodeUnknownSync(Schema.NumberFromString.pipe(Schema.int(), Schema.positive()))(args.values.limit);
-const Failure = Schema.Struct({ id: Schema.String, fonte: Schema.String, coletado_em: Schema.String, erro: Schema.String });
+Schema.decodeUnknownSync(Schema.Literal(false))(args.values["only-failures"] && args.values["skip-failures"]);
+Schema.decodeUnknownSync(Schema.Literal(false))(args.values["only-failures"] && args.values["discover-only"]);
+const Failure = Schema.Struct({ ...CollectionFailure.fields, fonte: Schema.String });
 
 await Effect.runPromise(Effect.gen(function* () {
   for (const path of ["municipais/3550308", "fontes", "falhas", "falhas-catalogos"])
     yield* Effect.tryPromise(() => mkdir(path, { recursive: true }));
   const seen = new Set<string>();
+  const retries = new Set<string>();
+  if (args.values["only-failures"]) {
+    const pending = yield* pendingFailures("br-municipal-3550308-", limit);
+    for (const id of pending) retries.add(id);
+  }
+  if (args.values["only-failures"] && retries.size === 0) return yield* Effect.log("Nenhuma falha pendente");
   const processed = new Set<string>();
   const failures = new Set<string>();
   for (const offset of Array.from({ length: last - first + 1 }, (_, index) => index)) {
@@ -47,7 +57,8 @@ await Effect.runPromise(Effect.gen(function* () {
       if (processed.size >= limit) break;
       if (seen.has(norm.id)) continue;
       seen.add(norm.id);
-      if (!args.values.refresh && (yield* intact(norm.id))) continue;
+      if (!args.values.refresh && !args.values["only-failures"] && (yield* intact(norm.id))) continue;
+      if (args.values["only-failures"] && !retries.has(norm.id)) continue;
       if (args.values["skip-failures"] && (yield* Effect.tryPromise(() => Bun.file(`falhas/${norm.id}.json`).exists()))) continue;
       processed.add(norm.id);
       const result = yield* Effect.gen(function* () {

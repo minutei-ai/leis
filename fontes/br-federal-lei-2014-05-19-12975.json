@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-05-19-12975",
+  "titulo": "Lei nº 12.975 de 19/05/2014",
+  "data": "2014-05-19",
+  "fonte": "https://normas.leg.br/api/public/binario/374ba5d2-d939-453e-bb27-ed2b624e38d7/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-05-19;12975",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-05-19%3B12975&tipo_documento=maior-detalhe",
+  "sha256_dados": "62209bd9cb610741e2fde3ce5d8cb26cae6929d1443c9d6fe87349954071b5ab",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:46.090Z",
+  "sha256_fonte": "8a687a41615ddc1cad120d66a6db086bb3c81e08de33b5e50ce43911ceb09334",
+  "sha256_markdown": "e1371c1be9bfe1d77c2ee04782eba97ee75df105710093e716a360ef50ef938d"
+}

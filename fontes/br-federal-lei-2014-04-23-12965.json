@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-04-23-12965",
+  "titulo": "Lei nº 12.965 de 23/04/2014",
+  "data": "2014-04-23",
+  "fonte": "https://normas.leg.br/api/public/binario/d9cf59fb-030b-4de9-a994-1e006a70d6da/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-04-23;12965",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-04-23%3B12965&tipo_documento=maior-detalhe",
+  "sha256_dados": "5cdd432b77c228c28a4a8861676d0de4219d0a34434a8e75321ca902a540d7c1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:59.221Z",
+  "sha256_fonte": "ba4cc283789742293f4b8c690f0b6f21bd35cebfd5e647cfa0e548b76483929f",
+  "sha256_markdown": "48f731f1ea944c2a32bbd708bc9c137cb2ebe93f830a87e3a42018255f128df2"
+}

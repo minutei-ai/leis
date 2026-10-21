@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-19-13543",
+  "titulo": "Lei nº 13.543 de 19/12/2017",
+  "data": "2017-12-19",
+  "fonte": "https://normas.leg.br/api/public/binario/46197681-2a2f-4196-84c5-cb20968d7d8e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-19;13543",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-19%3B13543&tipo_documento=maior-detalhe",
+  "sha256_dados": "1b6ea31e6b4c2f02f2fbeb338d4d3fcb1939b6ad3197d12b84e61deef2ffd793",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:16.052Z",
+  "sha256_fonte": "ae53b453a16278a6ae9e6210ce9448e5486f81dbcfbc75ef58ec4a91cf9be383",
+  "sha256_markdown": "c3e5275f8d24c797cfb8c01824d94dd0cf2d0ff30ee08dc16f2d8c8ee87e062c"
+}

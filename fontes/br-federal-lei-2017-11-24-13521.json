@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-11-24-13521",
+  "titulo": "Lei nº 13.521 de 24/11/2017",
+  "data": "2017-11-24",
+  "fonte": "https://normas.leg.br/api/public/binario/88111fcf-2a8d-4ca5-8cfa-2077c70cd0b8/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-11-24;13521",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-11-24%3B13521&tipo_documento=maior-detalhe",
+  "sha256_dados": "9b50726277b45ad106911d4ac63d20d4aa37d8fb4c42519d7286f3fa4f890e7e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:53:47.887Z",
+  "sha256_fonte": "fbc6e2b3d53b7c4a3dfac665cf684be4c919b83a4ad41d32089bf577abf6c684",
+  "sha256_markdown": "2a88a2a177d45a07dd19bff7b3212c554cf8572a15f1da800e784e2a2b0043fe"
+}

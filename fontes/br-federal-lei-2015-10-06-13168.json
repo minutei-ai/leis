@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-10-06-13168",
+  "titulo": "Lei nº 13.168 de 06/10/2015",
+  "data": "2015-10-06",
+  "fonte": "https://normas.leg.br/api/public/binario/ee0c5ca8-5d9c-4453-958c-0dba29f24df0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-10-06;13168",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-10-06%3B13168&tipo_documento=maior-detalhe",
+  "sha256_dados": "90d135f8ce24d9f92913f6c00204d78167d7d3dda98a6a10f1f299e7f10a97b5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:33.085Z",
+  "sha256_fonte": "e0d5e73420dad673843d409d3a172811806764e80f2dbd7f29c9d18c6f68001d",
+  "sha256_markdown": "f67098648e2f3c9d2e912c96049c41fadf7887d36c9e4029431b916b7222e287"
+}

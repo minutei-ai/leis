@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-11-11-13186",
+  "titulo": "Lei nº 13.186 de 11/11/2015",
+  "data": "2015-11-11",
+  "fonte": "https://normas.leg.br/api/public/binario/55be7e77-00d1-4959-b67a-0320163764b2/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-11-11;13186",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-11-11%3B13186&tipo_documento=maior-detalhe",
+  "sha256_dados": "3b95d5bfbdb96e49fb4b17c3348e4743f46ff0305f1274d4eaa0a447504fd48a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:10.054Z",
+  "sha256_fonte": "259a67e58e5ff29869ad0ed3aeba73fdf0cafae0710bf9ee69ef19bf552f6961",
+  "sha256_markdown": "431c7bff480b6407d4df088dc1bbfc050855ebb1ea428df232cd0b0751d69c5f"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-10-17-13493",
+  "titulo": "Lei nº 13.493 de 17/10/2017",
+  "data": "2017-10-17",
+  "fonte": "https://normas.leg.br/api/public/binario/90b92820-f73b-4d00-806a-cb74acfb785d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-10-17;13493",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-10-17%3B13493&tipo_documento=maior-detalhe",
+  "sha256_dados": "5c037b387d496843f943c20428f572fc72cd713fc264faaf9f155a25d0e51c81",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:54:20.858Z",
+  "sha256_fonte": "a3a0dbc24c1ae29987047838a2170fdd2a789de5d13e3058168060426ff64812",
+  "sha256_markdown": "ce08cb1a1b113dd97de34b24f1ecd8b37f57b441dabbb2575c64412a24aa08d5"
+}

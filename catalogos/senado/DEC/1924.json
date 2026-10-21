@@ -1,0 +1,4249 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1924",
+  "tipo": "DEC",
+  "ano": 1924,
+  "coletado_em": "2026-10-21T08:50:54.959Z",
+  "normas": [
+    {
+      "senadoId": "431706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16742",
+      "titulo": "Decreto nº 16.742 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16742",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16742",
+      "ementa": "AUTORIZA O CONTRATO COM ANTÔNIO MENDES PEIXOTO PARA O SERVIÇO DE NAVEGAÇÃO DA LINHA DOS AUTAZES, NO RIO AMAZONAS."
+    },
+    {
+      "senadoId": "431725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16751",
+      "titulo": "Decreto nº 16.751 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16751",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16751",
+      "ementa": "PÕE EM  EXECUÇÃO O CÓDIGO DO PROCESSO PENAL NO DISTRITO FEDERAL. (POR DE DECRETO NÚMERO 16.874 DE 8 DE ABRIL DE 1925 MANDA QUE  AS PUBLICAÇÕES A QUE SE REFEREM OS ARTIGOS 333 E 692, SEJAM FEITOS NO DIÁRIO DA JUSTIÇA)."
+    },
+    {
+      "senadoId": "431719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16748",
+      "titulo": "Decreto nº 16.748 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16748",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16748",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE REIS 11.128$406 (ONZE CONTOS CENTO E VINTE E OITO MIL QUATROCENTOS E SEIS RÉIS), PARA CONSTRUÇÃO DE UMA CASA PARA O AGENTE NA ESTAÇÃO DE NOVA GALÍCIA, SITUADA NO QUILÔMETRO 292,160, SUL DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16763",
+      "titulo": "Decreto nº 16.763 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16763",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16763",
+      "ementa": "REGULA OS FAVORES A CONCEDER ÀS FÁBRICAS DE ARTEFATOS DE BORRACHA, QUE SE FUNDAREM DENTRO DO PRAZO DE TRÊS ANOS OU QUE, JÁ ESTANDO FUNDADAS, AMPLIAREM SUA INSTALAÇÕES DENTRO DO MESMO PRAZO."
+    },
+    {
+      "senadoId": "431711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16744",
+      "titulo": "Decreto nº 16.744 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16744",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16744",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 465:109$232 (QUATROCENTOS E SESSENTA E CINCO CONTOS CENTO E NOVE MIL DUZENTOS E TRINTA  E DOIS RÉIS), PARA DESPESAS DO EDIFÍCIO DE CORREIOS E TELÉGRAFOS DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16738",
+      "titulo": "Decreto nº 16.738 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16738",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16738",
+      "ementa": "REORGANIZA A INSPETORIA DE SEGUROS E APROVA O NOVO REGULAMENTO PARA O SERVIÇO DE FISCALIZAÇÃO DAS COMPANHIAS NACIONAIS E ESTRANGEIRAS."
+    },
+    {
+      "senadoId": "431727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16752",
+      "titulo": "Decreto nº 16.752 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16752",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16752",
+      "ementa": "PÕE EM EXECUÇÃO O CODIGO DO PROCESSO CIVIL E COMERCIAL NO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "431708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16742-a",
+      "titulo": "Decreto nº 16.742-A de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16742-a",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16742-a",
+      "ementa": "FAZ PÚBLICA A RATIFICAÇÃO DA HUNGRIA À CONVENÇÃO SANITÁRIA INTERNACIONAL, DE PARIS DE 1912."
+    },
+    {
+      "senadoId": "431699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16739-a",
+      "titulo": "Decreto nº 16.739-A de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16739-a",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16739-a",
+      "ementa": "SUBSTITUI O ARTIGO 3 DO DECRETO 12.982, DE 24 DE ABRIL DE 1918."
+    },
+    {
+      "senadoId": "431696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16738-a",
+      "titulo": "Decreto nº 16.738-A de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16738-a",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16738-a",
+      "ementa": "ABRE, AO MINISTÉRIO DA  MARINHA, O CRÉDITO ESPECIAL DE CENTO E SESSENTA E CINCO CONTOS DUZENTOS E SETENTA E OITO MIL NOVECENTOS E NOVENTA E SEIS RÉIS (165:278$996), PARA PAGAMENTO DE OFICIAIS REFORMADOS, CUJAS REFORMAS FORAM MELHORADAS EM VIRTUDE DO DECRETO NÚMERO 4.463, DE 12 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "431713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16745",
+      "titulo": "Decreto nº 16.745 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16745",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16745",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O  CRÉDITO ESPECIAL DE 2.750:000$, (DOIS MIL SETECENTOS E CINQUENTA E  CONTOS DE RÉIS), EM APÓLICES DA  DÍVIDA PÚBLICA, AFIM DE ATENDER AO PAGAMENTO DA CONSTRUÇÃO DOS ÚLTIMOS TRECHOS DE ALEGRETE A QUARAHY E DE BASÍLIO A JAGUARÃO."
+    },
+    {
+      "senadoId": "431721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16749",
+      "titulo": "Decreto nº 16.749 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16749",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16749",
+      "ementa": "APROVA ORÇAMENTO, NA IMPORTÂNCIA DE 112.000, REIS 45.880$, OURO, E 55.440$, PAPEL, PARA A IMPORTAÇÃO DE QUATRO LOCOMOTIVAS, DE TIPO \"CONSOLIDATION\" DESTINADAS AO TRECHO EM CONSTRUÇÃO ENTRE QUEIXADAS E ARASSUAÍ, NO PROLONGAMENTO DA ESTRADA DE FERRO BAHIA E MINAS, A CARGO DA COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "431700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16740",
+      "titulo": "Decreto nº 16.740 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16740",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16740",
+      "ementa": "AUTORIZA O CONTRATO COM JOSÉ FERNANDES ANTUNES PARA O SERVIÇO DE NAVEGAÇÃO DA LINHA DO ALTO TAPAJÓS, NO RIO AMAZONAS."
+    },
+    {
+      "senadoId": "431743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16760",
+      "titulo": "Decreto nº 16.760 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16760",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16760",
+      "ementa": "APROVA AS ESPECIFICAÇÕES E O ORÇAMENTO, NA IMPORTÂNCIA DE 40:000$ (QUARENTA CONTOS DE RÉIS), PARA AQUISIÇÃO E INSTALAÇÃO DE DOIS TORNOS MECÂNICOS E UM MARTELO RÁPIDO PARA AS OFICINAS DE CURITIBA, DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "431702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16740-a",
+      "titulo": "Decreto nº 16.740-A de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16740-a",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16740-a",
+      "ementa": "RESTRINGE A MATANÇA DE NOVILHAS E VACAS."
+    },
+    {
+      "senadoId": "431749",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16764",
+      "titulo": "Decreto nº 16.764 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16764",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16764",
+      "ementa": "SUPRIME O POSTO DE 2º TENENTE MÉDICO DO EXÉRCITO."
+    },
+    {
+      "senadoId": "431737",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16757",
+      "titulo": "Decreto nº 16.757 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16757",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16757",
+      "ementa": "CONCEDE À \"INTERNACIONAL BUSINESS MACHINES CO. OF. DELEWARE\" AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16759",
+      "titulo": "Decreto nº 16.759 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16759",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16759",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 10.631:425$142, PARA CONSTRUÇÃO DAS VARIANTES ENTRE PINHAL E CRUZ ALTA, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL, CUJOS ESTUDOS FORAM APROVADOS PELO DECRETO NÚMERO 15.787 DE 8 DE NOVEMBRO DE 1922."
+    },
+    {
+      "senadoId": "431697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16739",
+      "titulo": "Decreto nº 16.739 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16739",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16739",
+      "ementa": "AUTORIZA A RESCISÃO DOS CONTRATOS DE CONCESSÃO E GARANTIA DE JUROS E A ENCAMPAÇÃO DAS OBRAS DO PORTO DA VITORIA, NO ESTADO DO ESPIRITO SANTO, A CELEBRAÇÃO DE CONTRATO COM O MESMO ESTADO PARA CONSTRUÇÃO E EXPLORAÇÃO DO REFERIDO PORTO, BEM COMO A ABERTURA DO CREDITO DE 6.500:000$, (SEIS MIL, E QUINHENTOS CONTOS DE RÉIS), EM APOLICES DA DIVIDA PUBLICA E RESPECTIVA EMISSÃO."
+    },
+    {
+      "senadoId": "431715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16746",
+      "titulo": "Decreto nº 16.746 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16746",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16746",
+      "ementa": "APROVA A PLANTA DOS TERRENOS NECESSÁRIOS À AMPLIAÇÃO DA ESTAÇÃO DE SANTA MARIA, DA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL, E OS DESAPROPRIA."
+    },
+    {
+      "senadoId": "431733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16755",
+      "titulo": "Decreto nº 16.755 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16755",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16755",
+      "ementa": "REGULA OS FAVORES A CONCEDER ÀS EMPRESAS OU COMPANHIA LEGALMENTE CONSTITUÍDAS NO PAÍS PARA A FABRICAÇÃO DE CIMENTO COM O EMPREGO DE MATÉRIAS PRIMAS E COMBUSTÍVEIS NACIONAIS."
+    },
+    {
+      "senadoId": "431717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16747",
+      "titulo": "Decreto nº 16.747 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16747",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16747",
+      "ementa": "APROVA AS ESPECIFICAÇÕES E O ORÇAMENTO NA IMPORTÂNCIA DE 2.664 (DOIS MIL SEISCENTOS E SESSENTA E QUATRO), DÓLARES AMERICANOS, PARA AQUISIÇÃO DE UM AUTOMÓVEL COMPRESSOR DESTINADO AO SERVIÇO DE PINTURA E REBITAMENTO DAS PONTES DA REDE VIAÇÃO PARANÁ-SANTA CATARINA."
+    },
+    {
+      "senadoId": "431735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16756",
+      "titulo": "Decreto nº 16.756 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16756",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16756",
+      "ementa": "CONCEDE A \"PARKE DAVIS & COMPANY\" AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16758",
+      "titulo": "Decreto nº 16.758 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16758",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16758",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 4:200$, PARA OCORRER AO PAGAMENTO DA DIFERENÇA DE VENCIMENTOS A QUE TEM DIREITO, NO CORRENTE ANO, O 2º TENENTE DENTISTA DO CORPO DE BOMBEIROS, PEDRO FREIRE BRUNO."
+    },
+    {
+      "senadoId": "431729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16753",
+      "titulo": "Decreto nº 16.753 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16753",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16753",
+      "ementa": "APROVA O  REGULAMENTO DO INSTITUTO NACIONAL DE MÚSICA."
+    },
+    {
+      "senadoId": "431731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16754",
+      "titulo": "Decreto nº 16.754 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16754",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16754",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA \"ARMOUR OF BRASIL CORPORATION\" AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16741",
+      "titulo": "Decreto nº 16.741 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16741",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16741",
+      "ementa": "AUTORIZA O CONTRATO COM ALBERTO ENGELHARD PARA O SERVIÇO DE NAVEGAÇÃO DA LINHA DO SOURE-CACHOEIRA, NO RIO AMAZONAS."
+    },
+    {
+      "senadoId": "431723",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16750",
+      "titulo": "Decreto nº 16.750 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16750",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16750",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE DOIS CONTOS QUINHENTOS E TRINTA E CINCO MIL E OITENTA E CINCO RÉIS (2:535$085), DESTINADO AO PAGAMENTO DA  DIFERENÇA DE VENCIMENTOS A QUE TEM DIREITO O PRIMEIRO TENENTE, ENGENHEIRO MAQUINISTA REFORMADO, ANTÔNIO CARLOS DE SIQUEIRA."
+    },
+    {
+      "senadoId": "431709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16743",
+      "titulo": "Decreto nº 16.743 de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16743",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16743",
+      "ementa": "AUTORIZA O CONTRATO COM O ESTADO DA BAHIA PARA O SERVIÇO DE NAVEGAÇÃO DO RIO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "431705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-31-16741-a",
+      "titulo": "Decreto nº 16.741-A de 31/12/1924",
+      "data": "1924-12-31",
+      "numero": "16741-a",
+      "urn": "urn:lex:br:federal:decreto:1924-12-31;16741-a",
+      "ementa": "SUPRIME CARGOS NO INSTITUTO BIOLÓGICO DE DEFESA  AGRÍCOLA."
+    },
+    {
+      "senadoId": "431692",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-30-16737",
+      "titulo": "Decreto nº 16.737 de 30/12/1924",
+      "data": "1924-12-30",
+      "numero": "16737",
+      "urn": "urn:lex:br:federal:decreto:1924-12-30;16737",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO SUPLEMENTAR DE 1.743:628$035, DESTINADO AO PAGAMENTO DE RAÇÕES EM DINHEIRO ÀS FORÇAS NAVAIS."
+    },
+    {
+      "senadoId": "431686",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-29-16734",
+      "titulo": "Decreto nº 16.734 de 29/12/1924",
+      "data": "1924-12-29",
+      "numero": "16734",
+      "urn": "urn:lex:br:federal:decreto:1924-12-29;16734",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 500:000$, PARA AUXILIAR A CONSTRUÇÃO DO NOVO HOSPITAL DA POLÍCIA MILITAR."
+    },
+    {
+      "senadoId": "431688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-29-16735",
+      "titulo": "Decreto nº 16.735 de 29/12/1924",
+      "data": "1924-12-29",
+      "numero": "16735",
+      "urn": "urn:lex:br:federal:decreto:1924-12-29;16735",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 969:121$962, PARA ATENDER, NO ANO DE 1923, AO PAGAMENTO DO ACRÉSCIMO DEFINITIVO DE VENCIMENTOS QUE COMPETEM AOS EMPREGADOS DAS REPARTIÇÕES DEPENDENTES DO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "431690",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-29-16736",
+      "titulo": "Decreto nº 16.736 de 29/12/1924",
+      "data": "1924-12-29",
+      "numero": "16736",
+      "urn": "urn:lex:br:federal:decreto:1924-12-29;16736",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 200:000$,  DESTINADO AO SERVIÇO DE SANEAMENTO E PROFILAXIA RURAL NO ESTADO DE SERGIPE, DURANTE O SEGUNDO SEMESTRE DE 1924."
+    },
+    {
+      "senadoId": "431682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16732",
+      "titulo": "Decreto nº 16.732 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16732",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16732",
+      "ementa": "APROVA AS DESPESAS, NA IMPORTÂNCIA DE 466:286$264, FEITAS PELA COMPANHIA DOCAS DE SANTOS, COM AS MODIFICAÇÕES E APARELHAMENTO DOS ARMAZÉNS INTERNOS NÚMEROS 26 E 27, DO CAIS DO PORTO DE SANTOS, E AUTORIZA A ESCRITURAÇÃO DESSA DESPESA NA CONTA DE CAPITAL."
+    },
+    {
+      "senadoId": "431664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16723",
+      "titulo": "Decreto nº 16.723 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16723",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16723",
+      "ementa": "APROVA PROJETOS E RESPECTIVOS ORÇAMENTOS, NAS IMPORTÂNCIAS DE 21:354$422, E 11.031$156, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO NO QUILÔMETRO 33.102, DA LINHA DE SANTA MARIA A CACEQUI, ENTRE AS ESTAÇÕES DE \"CANABARRO\" E \"DILERMANDO AGUIAR\" E DE UM DESVIO NO QUILÔMETRO 154.500 DA LINHA DE SANTANA, PARA OS SERVIÇOS DA FAZENDA NACIONAL DE SAICAN, NA VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16714",
+      "titulo": "Decreto nº 16.714 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16714",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16714",
+      "ementa": "ESTABELECE AS BASES DA REORGANIZAÇÃO DO SERVIÇO NAVAL, NA PARTE REFERENTE ÀS ATRIBUIÇÕES DOS OFICIAIS DOS ATUAIS CORPOS DA ARMADA E DE ENGENHEIROS MAQUINISTAS, QUE PASSAM A CONSTITUIR UM CORPO ÚNICO, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16721",
+      "titulo": "Decreto nº 16.721 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16721",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16721",
+      "ementa": "APROVA AS ESPECIFICAÇÕES E O ORÇAMENTO, NA IMPORTÂNCIA DE 88:000$ (OITENTA E OITO CONTOS DE RÉIS), PARA AQUISIÇÃO E INSTALAÇÃO DE UM COMPRESSOR DE AR, TRÊS TORNOS MECÂNICOS E UM MARTELO A VAPOR PARA AS OFICINAS DE PONTA GROSSA, DA LINHA ITARARÉ-URUGUAI."
+    },
+    {
+      "senadoId": "431666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16724",
+      "titulo": "Decreto nº 16.724 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16724",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16724",
+      "ementa": "APROVA PROJETO E RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 36:345$415, PARA O AUMENTO DO DESVIO DA ESTAÇÃO DE \"TIGRE\", NA LINHA DE SANTA MARIA A URUGUAIANA, NA VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16715",
+      "titulo": "Decreto nº 16.715 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16715",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16715",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA OS OFICIAIS DO SERVIÇO GERAL DE MÁQUINAS DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "431678",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16730",
+      "titulo": "Decreto nº 16.730 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16730",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16730",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 18.319$861, PARA CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO NO QUILÔMETRO DE 306,500 NA LINHA DE BAGÉ-RIO GRANDE, NA VIAÇÃO FÉRREA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16726",
+      "titulo": "Decreto nº 16.726 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16726",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16726",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DO 583:564$707,PARA CONSTRUÇÃO DE UMA PONTE SOBRE O RIO MIRANDA, EM SALOBRA, NA ESTRADA DE FERRO NOROESTE DO BRASIL."
+    },
+    {
+      "senadoId": "431658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16720",
+      "titulo": "Decreto nº 16.720 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16720",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16720",
+      "ementa": "DECLARA, EM RELAÇÃO ÁS LINHAS NÃO CONSTRUIDAS, A CADUCIDADE DO CONTRATO CELEBRADO A 29 DE JULHO DE 1910, ENTRE A COMPANHIA ESTRADA DE FERRO DO DOURADO E O GOVERNO FEDERAL, PARA A CONSTRUÇÃO DE 53 KILOMENTOS DE LINHA FERREA ENTRE IBITINGA E O RIO TIETÉ E 36 KILOMETROS NO PONTO MAIS CONVENIENTE DO RAMAL DE BOCAINA A BARERI, SERVINDO Á CIDADE JAÚ."
+    },
+    {
+      "senadoId": "431652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16717",
+      "titulo": "Decreto nº 16.717 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16717",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16717",
+      "ementa": "ORGANIZA O REGIMENTO NAVAL."
+    },
+    {
+      "senadoId": "431676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16729",
+      "titulo": "Decreto nº 16.729 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16729",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16729",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS PARA A CONSTRUÇÃO DAS PONTES SOBRE OS RIOS PIRACURUCA E BURITI COMPRIMIDO, NA ESTRADA DE FERRO CENTRAL DO PIAUÍ."
+    },
+    {
+      "senadoId": "431674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16728",
+      "titulo": "Decreto nº 16.728 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16728",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16728",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 198.078.498 (CENTO E NOVENTA E OITO CONTOS SETENTA E OITO MIL QUATROCENTOS E NOVENTA E OITO RÉIS), PARA CONSTRUÇÃO DE UM NOVO ARMAZÉM NO PÁTIO DA ESTAÇAO DE CURITIBA, DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "437577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-19720",
+      "titulo": "Decreto nº 19.720 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "19720",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;19720",
+      "ementa": "DECLARA, EM RELAÇÃO ÁS LINHAS NÃO CONSTRUÍDAS, A CADUCIDADE DO CONTRATO CELEBRADO A 29 DE JULHO DE 1910, ENTRE A CAMPANHA ESTRADA DE FERRO DO DOURADO E O GOVERNO FEDERAL, PARA A CONSTRUÇÃO DE 53 QUILÔMETROS DE LINHA FÉRREA ENTRE IBITINGA E O RIO TIETÊ E 36 QUILÔMETROS NO PONTO MAIS CONVENIENTE DO RAMAL DE BOCAÍNA E BARERI, SERVINDO Á CIDADE DE JAHÚ."
+    },
+    {
+      "senadoId": "431684",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16733",
+      "titulo": "Decreto nº 16.733 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16733",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16733",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NAS IMPORTÂNCIAS DE 14:083$224, E 20:413$553, PARA A CONSTRUÇÃO, NA VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL, DE UM DEPÓSITO PARA CARROS DE PASSAGEIROS, EM MARCELINO RAMOS E DE UM DORMITÓRIO, EM SANTA MARIA, DESTINADO AO PESSOAL DOS TRENS."
+    },
+    {
+      "senadoId": "431654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16718",
+      "titulo": "Decreto nº 16.718 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16718",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16718",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO ESPECIAL, DE NOVENTA E SETE CONTOS TRINTA E CINCO MIL DUZENTOS E DEZESSETE RÉIS (97.035$217), DESTINADO À DESPESA DA VERBA 13ª DO ORÇAMENTO DE 1923."
+    },
+    {
+      "senadoId": "431680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16731",
+      "titulo": "Decreto nº 16.731 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16731",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16731",
+      "ementa": "APROVA O ORÇAMENTO NA IMPORTÂNCIA DE 165.670 FRANCOS BELGAS, 11:596$900, OURO, E 20:556$178, PAPEL, PARA A IMPORTAÇÃO DE DUAS SUPERESTRUTURAS METÁLICAS PARA PONTES, DESTINADAS AO TRECHO EM CONSTRUÇÃO ENTRE QUEIXADAS E ARASSUÍ, NO PROLONGAMENTO DA ESTRADA DE FERRO BAHIA E MINAS, A CARGO DA COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "431668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16725",
+      "titulo": "Decreto nº 16.725 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16725",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16725",
+      "ementa": "APROVA O PROJETO DE MODIFICAÇÃO DE LINHAS FÉRREAS NO TRECHO COMPREENDIDO ENTRE OS ARMAZÉNS 5 E 7 DO CAIS DO PORTO DO RECIFE."
+    },
+    {
+      "senadoId": "431656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16719",
+      "titulo": "Decreto nº 16.719 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16719",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16719",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE TREZENTOS CONTOS DE RÉIS (300.000), AFIM DE ATENDER Á CONSTRUÇÃO DOS NOVE PRIMEIROS QUILÔMETROS DO RAMAL DE PORTO ALEGRE A VIAMÃO."
+    },
+    {
+      "senadoId": "431650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16716",
+      "titulo": "Decreto nº 16.716 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16716",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16716",
+      "ementa": "ALTERA O REGULAMENTO PARA O CONSELHO DO ALMIRANTADO ANEXO AO DECRETO M. 16099, DE 13 DE JULHO DE 1932."
+    },
+    {
+      "senadoId": "431672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16727",
+      "titulo": "Decreto nº 16.727 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16727",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16727",
+      "ementa": "APROVA OS ORÇAMENTOS, NAS IMPORTÂNCIAS DE FRS. BELGAS 232.131, 16:249$170, OURO, E 14;888$005, PAPEL, PARA A IMPORTAÇÃO DE 7 SUPERESTRUTURAS METÁLICAS DESTINADAS ÀS PONTES DO TRECHO EM CONSTRUÇÃO ENTRE FRANÇA E COVÃO, NA LINHA DE BOMFIM A PARAGUAÇU, DE LIGAÇÃO DA E.F. BAHIA A JUAZEIRO À E.F. CENTRAL DA BAHIA, DA REDE FEDERAL ARRECADADA À COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "431662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-24-16722",
+      "titulo": "Decreto nº 16.722 de 24/12/1924",
+      "data": "1924-12-24",
+      "numero": "16722",
+      "urn": "urn:lex:br:federal:decreto:1924-12-24;16722",
+      "ementa": "APROVA O ORÇAMENTO, NA IMPORTÂNCIA DE 1.862.315$423, DAS DESPESAS A EFETUAR COM A SUBSTITUIÇÃO DE TRILHOS NOS TRECHOS DE LINHA COMPREENDIDOS ENTRE PORTO ALEGRE E GRAVATAÍ, E ENTRE SANTA MARIA E FERREIRA, NA VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-23-16708",
+      "titulo": "Decreto nº 16.708 de 23/12/1924",
+      "data": "1924-12-23",
+      "numero": "16708",
+      "urn": "urn:lex:br:federal:decreto:1924-12-23;16708",
+      "ementa": "AUTORIZA A  ALTERAÇÃO DA CLÁUSULA III DO CONTRATO CELEBRADO COM A COMPANHIA RADIOTELEGRÁFICA BRASILEIRA, AFIM DE QUE ESTA INSTALE NO ESTADO DE PERNAMBUCO A ESTAÇÃO QUE SE OBRIGA A  ESTABELECER  EM BELÉM DO PARÁ."
+    },
+    {
+      "senadoId": "431639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-23-16710",
+      "titulo": "Decreto nº 16.710 de 23/12/1924",
+      "data": "1924-12-23",
+      "numero": "16710",
+      "urn": "urn:lex:br:federal:decreto:1924-12-23;16710",
+      "ementa": "APROVA AS CLÁUSULAS PARA O ARRENDAMENTO AO ESTADO DO PARÁ DA ESTRADA DE FERRO TOCANTINS."
+    },
+    {
+      "senadoId": "431643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-23-16712",
+      "titulo": "Decreto nº 16.712 de 23/12/1924",
+      "data": "1924-12-23",
+      "numero": "16712",
+      "urn": "urn:lex:br:federal:decreto:1924-12-23;16712",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DE ENCOMENDAS POSTAIS INTERNACIONAIS (COLIS-POSTAUX)."
+    },
+    {
+      "senadoId": "431633",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-23-16707",
+      "titulo": "Decreto nº 16.707 de 23/12/1924",
+      "data": "1924-12-23",
+      "numero": "16707",
+      "urn": "urn:lex:br:federal:decreto:1924-12-23;16707",
+      "ementa": "AUTORIZA A MODIFICAÇÃO DA CLÁUSULA XXIV DO CONTRATO CELEBRADO NOS TERMOS DO DECRETO 13.691, DE 9 DE JULHO DE 1919, PARA TRANSFERÊNCIA AO ESTADO DO RIO GRANDE DO SUL DOS CONTRATOS RELATIVOS À BARRA E PORTO DO RIO GRANDE."
+    },
+    {
+      "senadoId": "431637",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-23-16709",
+      "titulo": "Decreto nº 16.709 de 23/12/1924",
+      "data": "1924-12-23",
+      "numero": "16709",
+      "urn": "urn:lex:br:federal:decreto:1924-12-23;16709",
+      "ementa": "APROVA AS PLANTAS DAS OBRAS QUE \"THE SÃO PAULO TRAMWAY, LIGHT & POWER COMPANY, LIMITED\", PRETENDE EXECUTAR PARA APROVEITAMENTO DA FORÇA HIDRÁULICA DO RIO TIETÊ, NO LUGAR DENOMINADO \"RASGÃO\", NOS MUNICÍPIOS DE PARNAÍBA, CABREUVA E ARAÇARIGUAMA, NO ESTADO DE SÃO PAULO, E DA LINHA DE TRANSMISSÃO QUE LIGARÁ A RESPECTIVA USINA Á ATUALMENTE EXISTENTE EM PARNAÍBA, BEM COMO DESAPROPRIA OS TERRENOS E BENFEITORIAS COMPREENDIDOS NAS MESMAS PLANTAS."
+    },
+    {
+      "senadoId": "431641",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-23-16711",
+      "titulo": "Decreto nº 16.711 de 23/12/1924",
+      "data": "1924-12-23",
+      "numero": "16711",
+      "urn": "urn:lex:br:federal:decreto:1924-12-23;16711",
+      "ementa": "APROVA O REGULAMENTO DA INSPETORIA DE ÁGUAS E ESGOTOS."
+    },
+    {
+      "senadoId": "431631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-13-16706",
+      "titulo": "Decreto nº 16.706 de 13/12/1924",
+      "data": "1924-12-13",
+      "numero": "16706",
+      "urn": "urn:lex:br:federal:decreto:1924-12-13;16706",
+      "ementa": "SUSPENDE, NO DIA 14 DO CORRENTE, EM TODO O ESTADO DE SÃO PAULO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.579, DE 3 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-10-16704",
+      "titulo": "Decreto nº 16.704 de 10/12/1924",
+      "data": "1924-12-10",
+      "numero": "16704",
+      "urn": "urn:lex:br:federal:decreto:1924-12-10;16704",
+      "ementa": "PUBLICA A ADESÃO DA ROMÊNIA AO AJUSTE DE BERNA, DE 1920, RELATIVO À CONSERVAÇÃO OU AO RESTABELECIMENTO DOS DIREITOS DE PROPRIEDADE INDUSTRIAL ATINGIDOS PELA GUERRA MUNDIAL."
+    },
+    {
+      "senadoId": "431625",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-08-16703",
+      "titulo": "Decreto nº 16.703 de 08/12/1924",
+      "data": "1924-12-08",
+      "numero": "16703",
+      "urn": "urn:lex:br:federal:decreto:1924-12-08;16703",
+      "ementa": "DECLARA FERIADO NACIONAL O DIA 9 DE DEZEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-05-16702",
+      "titulo": "Decreto nº 16.702 de 05/12/1924",
+      "data": "1924-12-05",
+      "numero": "16702",
+      "urn": "urn:lex:br:federal:decreto:1924-12-05;16702",
+      "ementa": "REVOGA O DECRETO 16.655 DE 5 DE NOVEMBRO PROXIMO FINDO, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "431618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-03-16699",
+      "titulo": "Decreto nº 16.699 de 03/12/1924",
+      "data": "1924-12-03",
+      "numero": "16699",
+      "urn": "urn:lex:br:federal:decreto:1924-12-03;16699",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO SUPLEMENTAR DE OITO MIL E OITENTA E  CINCO CONTOS  DUZENTOS E NOVENTA E TRÊS MIL SEISCENTOS E SETENTA E SEIS RÉIS (8.085.293$676), DESTINADO À COMPRA DE GÊNEROS ALIMENTÍCIOS, VERDURAS, FRUTAS E À DIETA DO PESSOAL DOS NAVIOS, CORPOS E ESTABELECIMENTOS DE  MARINHA."
+    },
+    {
+      "senadoId": "431614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-03-16697",
+      "titulo": "Decreto nº 16.697 de 03/12/1924",
+      "data": "1924-12-03",
+      "numero": "16697",
+      "urn": "urn:lex:br:federal:decreto:1924-12-03;16697",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDUSTRIA E COMERCIO A DAR MELHOR APLICAÇÃO AOS SALDOS VERIFICADOS, NA PRESENTE DATA, NA CONSIGNAÇÃO III - ESTAÇÃES  ETC., SUB-CONSIGNAÇÃO \"PARA PAGAMENTO\" ETC. DO TITULO \"PESSOAL\" E I, II E III DO TITULO \"MATERIAL\", DA VERBA 16, ENSINO AGRONOMICO - DO ORÇAMENTO EM VIGOR, SEM AUMENTO DE DESPESAS."
+    },
+    {
+      "senadoId": "431616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-03-16698",
+      "titulo": "Decreto nº 16.698 de 03/12/1924",
+      "data": "1924-12-03",
+      "numero": "16698",
+      "urn": "urn:lex:br:federal:decreto:1924-12-03;16698",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO DE 165:278$996, SUPLEMENTAR À VERBA 12ª - CLASSES  INATIVAS , DO ORÇAMENTO DE 1922, DO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "431621",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-03-16701",
+      "titulo": "Decreto nº 16.701 de 03/12/1924",
+      "data": "1924-12-03",
+      "numero": "16701",
+      "urn": "urn:lex:br:federal:decreto:1924-12-03;16701",
+      "ementa": "ELEVA AO EFETIVO NORMAL DA ORGANIZAÇÃO DO TEMPO DE PAZ OS CORPOS DA 4 REGIÃO MILITAR."
+    },
+    {
+      "senadoId": "431599",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16689",
+      "titulo": "Decreto nº 16.689 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16689",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16689",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA DE SEGUROS ANGLO SUL AMERICANA PARA OPERAR EM SEGUROS CONTRA ACIDENTES DO TRABALHO."
+    },
+    {
+      "senadoId": "431601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16690",
+      "titulo": "Decreto nº 16.690 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16690",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16690",
+      "ementa": "CONCEDE AUTORIZAÇÃO A THE RIO GRANDE MEAT COMPANY PARA SUBSTITUIR ESSA DENOMINAÇÃO PELA DE FRIGORÍFICO ANGLO DE PELOTAS."
+    },
+    {
+      "senadoId": "431604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16692",
+      "titulo": "Decreto nº 16.692 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16692",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16692",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NOS ESTATUTOS DA SOCIEDADE ANÔNIMA \"INDUSTRIAIS MATARAZZO DE MATTO GROSSO\"."
+    },
+    {
+      "senadoId": "431606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16693",
+      "titulo": "Decreto nº 16.693 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16693",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16693",
+      "ementa": "APROVA AS NOVAS ALTERAÇÕES FEITAS NOS ESTATUTOS DA SOCIEDADE ANÔNIMA MOINHO FLUMINENSE."
+    },
+    {
+      "senadoId": "431597",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16688",
+      "titulo": "Decreto nº 16.688 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16688",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16688",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA INDUSTRIAL PAULISTA PARA FUNCIONAR NA REPÚBLICA E APROVA OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "431612",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16696",
+      "titulo": "Decreto nº 16.696 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16696",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16696",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 196.260$, PARA OCORRER, NO EXERCÍCIO DE 1923, AO PAGAMENTO DAS  VANTAGENS PERMANENTES DE QUE TRATA O PARÁGRAFO 1º DO ARTIGO 150  DA LEI NÚMERO 4.555, DE 10 AGOSTO DE 1922, AOS FUNCIONÁRIOS PÚBLICOS QUE PERCEBEM VENCIMENTOS INFERIORES A 180$ MENSAIS."
+    },
+    {
+      "senadoId": "431610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16695",
+      "titulo": "Decreto nº 16.695 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16695",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16695",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 500:000$000, PARA AUXILIAR A CONSTRUÇÃO DA ESTRADA DE RODAGEM RIO-PETRÓPOLIS, QUE ESTÁ SENDO FEITA PELO AUTOMÓVEL CLUB BRASIL E A QUE SE REFERE O ARTIGO 175, NÚMERO 4 , DA LEI NÚMERO 4.793, DE 7 DE  JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "431608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-12-02-16694",
+      "titulo": "Decreto nº 16.694 de 02/12/1924",
+      "data": "1924-12-02",
+      "numero": "16694",
+      "urn": "urn:lex:br:federal:decreto:1924-12-02;16694",
+      "ementa": "EMANCIPA O CENTRO AGRÍCULA \"SABINO VIEIRA\", NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "431595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-28-16687",
+      "titulo": "Decreto nº 16.687 de 28/11/1924",
+      "data": "1924-11-28",
+      "numero": "16687",
+      "urn": "urn:lex:br:federal:decreto:1924-11-28;16687",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 350:000$, PARA OCORRER ÁS DESPESAS COM AS OBRAS A EXECUTAR NOS PALÁCIOS DA PRESIDÊNCIA DA REPÚBLICA."
+    },
+    {
+      "senadoId": "431593",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16686",
+      "titulo": "Decreto nº 16.686 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16686",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16686",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO ESPECIAL DE 9.508:651$974, PARA A 13ª E 14ª DO ORÇAMENTO, REFERENTE AO EXERCÍCIO DE 1922."
+    },
+    {
+      "senadoId": "431587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16683",
+      "titulo": "Decreto nº 16.683 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16683",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16683",
+      "ementa": "SUSPENDE A EXECUÇÃO DO DECRETO 16.237, DE 5 DE NOVEMBRO DE 1923, NA PARTE A QUE SE REFERE O REGULAMENTO APROVADO PELO DECRETO 16.600, DE 17 DE SETEMBRO DE 1924, PROVISORIAMENTE."
+    },
+    {
+      "senadoId": "431585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16682",
+      "titulo": "Decreto nº 16.682 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16682",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16682",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE SETE MIL CENTO E OITENTA CONTOS DE RÉIS &7.180:000$), PARA DESPESAS DE CONSTRUÇÃO E MELHORAMENTOS NA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "431591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16685",
+      "titulo": "Decreto nº 16.685 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16685",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16685",
+      "ementa": "PROMULGA OS ATOS FIRMADOS NA QUINTA CONFERÊNCIA I AMERICANA, DE SANTIAGO DO CHILE, EM 1923."
+    },
+    {
+      "senadoId": "431581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16680",
+      "titulo": "Decreto nº 16.680 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16680",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16680",
+      "ementa": "APROVA PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 254:331$505, DE UMA VARIANTE NA LINHA EM CONSTRUÇÃO DE PARAGUASSÚ A ITABERABA, NA REDE DE VIAÇÃO FÉRREA DO ESTADO DA BAHIA, ARRENDADA A COMPANHIA FERROVIÁRIA ESTE BRASILEIRO."
+    },
+    {
+      "senadoId": "431589",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16684",
+      "titulo": "Decreto nº 16.684 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16684",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16684",
+      "ementa": "AUTORIZA A PROMOÇÃO DE MARINHEIROS, INFERIORES E SUB-OFICIAIS POR SERVIÇOS RELEVANTES."
+    },
+    {
+      "senadoId": "431579",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16679",
+      "titulo": "Decreto nº 16.679 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16679",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16679",
+      "ementa": "APROVA PROJETO E ORÇAMENTO NA IMPORTÂNCIA DE 64:601$078, PARA REPAROS E AUMENTO DE UM VÃO NA PONTE DO QUILÔMETRO 510, NA LINHA CATALÃO, DA COMPANHIA MOGIANA DE ESTRADAS DE FERRO."
+    },
+    {
+      "senadoId": "431576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16677",
+      "titulo": "Decreto nº 16.677 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16677",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16677",
+      "ementa": "SUSPENDE, NO DIA 3 DE DEZEMBRO VINDOURO, EM TODO O ESTADO DO PARÁ, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.579, DE 3 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-26-16681",
+      "titulo": "Decreto nº 16.681 de 26/11/1924",
+      "data": "1924-11-26",
+      "numero": "16681",
+      "urn": "urn:lex:br:federal:decreto:1924-11-26;16681",
+      "ementa": "CONCEDE AO DR. MIGUEL COUTO FILHO, OU Á EMPRESA QUE ORGANIZAR, AUTORIZAÇÃO PARA CONSTRUIR, SEM ÔNUS PARA O TESOURO, UM PORTO NA \"PRAIA DO FORNO\" E SUAS IMEDIAÇÕES, NO ESTADO DO RIO DE JANEIRO E UMA   VIA FÉRREA, LIGANDO ESSE PORTO ÁS \"SALINAS PERINAS\" E A REDE FERROVIÁRIA DO MESMO ESTADO, COM UM RAMAL PARA CABO FRIO."
+    },
+    {
+      "senadoId": "431572",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-25-16675",
+      "titulo": "Decreto nº 16.675 de 25/11/1924",
+      "data": "1924-11-25",
+      "numero": "16675",
+      "urn": "urn:lex:br:federal:decreto:1924-11-25;16675",
+      "ementa": "APROVA AS MODIFICAÇÕES NOS ESTATUTOS DA COMPANHIA DE SEGUROS DE VIDA \"SUL AMÉRICA\", COM SEDE NESTA CAPITAL."
+    },
+    {
+      "senadoId": "431574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-25-16676",
+      "titulo": "Decreto nº 16.676 de 25/11/1924",
+      "data": "1924-11-25",
+      "numero": "16676",
+      "urn": "urn:lex:br:federal:decreto:1924-11-25;16676",
+      "ementa": "APROVA AS ALTERAÇÕES DE ESTATUTOS DA COMPANHIA DE SEGUROS TERRESTRES E MARÍTIMOS INDENIZADORA, LEVADA A EFEITO PELA ASSEMBLÉIA GERAL EXTRAORDINÁRIA, REALIZADA EM 19 DE AGOSTO DE 1924."
+    },
+    {
+      "senadoId": "431570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-20-16674",
+      "titulo": "Decreto nº 16.674 de 20/11/1924",
+      "data": "1924-11-20",
+      "numero": "16674",
+      "urn": "urn:lex:br:federal:decreto:1924-11-20;16674",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA A EMITIR APÓLICES DA DÍVIDA PÚBLICA DA UNIÃO, TANTAS QUANTAS FOREM NECESSÁRIAS PARA COBRIR A IMPORTÂNCIA DE 2.965:000$, PARA O FIM DE CUSTEAR A AQUSIÇÃO DA CASA E DA PROPRIEDADE INTELECTUAL DAS OBRAS DO CONSELHEIRO RUY BARBOSA."
+    },
+    {
+      "senadoId": "431568",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-19-16673",
+      "titulo": "Decreto nº 16.673 de 19/11/1924",
+      "data": "1924-11-19",
+      "numero": "16673",
+      "urn": "urn:lex:br:federal:decreto:1924-11-19;16673",
+      "ementa": "SUBSTITUE A CLÁUSULA XV DO DECRETO NÚMERO 16.591, DE 10 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-17-16672",
+      "titulo": "Decreto nº 16.672 de 17/11/1924",
+      "data": "1924-11-17",
+      "numero": "16672",
+      "urn": "urn:lex:br:federal:decreto:1924-11-17;16672",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á COMPANHIA \"CONTINENTAL S.A DE SEGUROS\", COM SEDE NESTA CAPITAL, PARA FUNCIONAR NA REPÚBLICA E APROVA COM MODIFICAÇÕES OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "431564",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-17-16671",
+      "titulo": "Decreto nº 16.671 de 17/11/1924",
+      "data": "1924-11-17",
+      "numero": "16671",
+      "urn": "urn:lex:br:federal:decreto:1924-11-17;16671",
+      "ementa": "ESTENDE AO ESTADO DO RIO GRANDE DO SUL O ESTADO DE SITIO ATÉ 31 DE DEZEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "431562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-17-16670",
+      "titulo": "Decreto nº 16.670 de 17/11/1924",
+      "data": "1924-11-17",
+      "numero": "16670",
+      "urn": "urn:lex:br:federal:decreto:1924-11-17;16670",
+      "ementa": "APROVA O REGULAMENTO DO INSTITUTO MÉDICO LEGAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "431556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-12-16667",
+      "titulo": "Decreto nº 16.667 de 12/11/1924",
+      "data": "1924-11-12",
+      "numero": "16667",
+      "urn": "urn:lex:br:federal:decreto:1924-11-12;16667",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 946:939$701 (NOVECENTOS E QUARENTA E SEIS CONTOS NOVECENTOS E TRINTA E NOVE MIL SETECENTOS E UM RÉIS), PARA OBRAS DE MODIFICAÇÃO DO RAMAL DO RIO NEGRO, DA ESTRADA DE FERRO DO PARANÁ."
+    },
+    {
+      "senadoId": "431558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-12-16668",
+      "titulo": "Decreto nº 16.668 de 12/11/1924",
+      "data": "1924-11-12",
+      "numero": "16668",
+      "urn": "urn:lex:br:federal:decreto:1924-11-12;16668",
+      "ementa": "RESTABELECE O 1º DISTRITO DE ARTILHARIA DE COSTA."
+    },
+    {
+      "senadoId": "431560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-12-16669",
+      "titulo": "Decreto nº 16.669 de 12/11/1924",
+      "data": "1924-11-12",
+      "numero": "16669",
+      "urn": "urn:lex:br:federal:decreto:1924-11-12;16669",
+      "ementa": "APROVA O REGULAMENTO PARA OS EXERCÍCIOS E O COMBATE DA CAVALARIA (3ª EDIÇÃO)."
+    },
+    {
+      "senadoId": "431629",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-10-16705",
+      "titulo": "Decreto nº 16.705 de 10/11/1924",
+      "data": "1924-11-10",
+      "numero": "16705",
+      "urn": "urn:lex:br:federal:decreto:1924-11-10;16705",
+      "ementa": "PUBLICA A ADESÃO DA COLÔNIA DA COSTA DO OURO À CONVENÇÃO INTERNACIONAL PARA A REPRESSÃO DO TRÁFICO DE BRANCOS."
+    },
+    {
+      "senadoId": "431554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-07-16666",
+      "titulo": "Decreto nº 16.666 de 07/11/1924",
+      "data": "1924-11-07",
+      "numero": "16666",
+      "urn": "urn:lex:br:federal:decreto:1924-11-07;16666",
+      "ementa": "CONCEDE Á COMPANHIA NACIONAL DE SEGUROS YPIRANGA, AUTORIZAÇÃO PARA OPERAR EM SEGUROS TERRESTRES E MARÍTIMOS, E APROVA OS SEUS ESTATUTOS APROVADOS PELAS ASSEMBLÉIAS GERAIS EXTRAORDINÁRIAS REALIZADAS EM 19 DE MARÇO E 5 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431552",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-06-16665",
+      "titulo": "Decreto nº 16.665 de 06/11/1924",
+      "data": "1924-11-06",
+      "numero": "16665",
+      "urn": "urn:lex:br:federal:decreto:1924-11-06;16665",
+      "ementa": "REGULA O LIVRAMENTO CONDICIONAL."
+    },
+    {
+      "senadoId": "431534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16656",
+      "titulo": "Decreto nº 16.656 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16656",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16656",
+      "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 515:210$705, DE DIVERSAS OBRAS E FORNECIMENTOS PARA A LINHA EM TRÁFEGO DA ESTRADA DE FERRO SANTA CATARINA, ENTRE BLUMENAL E HANSA."
+    },
+    {
+      "senadoId": "431542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16660",
+      "titulo": "Decreto nº 16.660 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16660",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16660",
+      "ementa": "PUBLICA A ADESÃO DO PANAMÁ AO INSTITUTO INTERNACIONAL DE AGRICULTURA, DE ROMA."
+    },
+    {
+      "senadoId": "431532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16655",
+      "titulo": "Decreto nº 16.655 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16655",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16655",
+      "ementa": "ESTENDE AO SAL OS FAVORES CONSTANTES DO DECRETO 16.633, DE 11 DE OUTUBRO DE 1924."
+    },
+    {
+      "senadoId": "431538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16658",
+      "titulo": "Decreto nº 16.658 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16658",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16658",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 25:418$289 (VINTE E CINCO CONTOS QUATROCENTOS E DEZOITO MIL DUZENTOS E OITENTA E NOVE RÉIS), PARA A CONSTRUÇÃO DE UMA ESTAÇÃO DE 3ª CLASSE EM JARARACA, NO QUILÔMETRO 387, 434 DA LINHA DE SÃO FRANCISCO, NA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "431540",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16659",
+      "titulo": "Decreto nº 16.659 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16659",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16659",
+      "ementa": "PUBLICA A ADESÃO DA GRÉCIA E ATOS INTERNACIONAIS RELATIVOS Á PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "431544",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16661",
+      "titulo": "Decreto nº 16.661 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16661",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16661",
+      "ementa": "PUBLICA A ADESÃO DE LUXEMBURGO AO ACORDO DE MADRID, DE 14 DE ABRIL DE 1891, REVISTO EM BRUXELLAS EM 1900 E EM WASHINGTON EM 1911, RELATIVO AO REGISTRO INTERNACIONAL DAS MARCAS DE FABRICA E DE COMERCIO."
+    },
+    {
+      "senadoId": "431546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16662",
+      "titulo": "Decreto nº 16.662 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16662",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16662",
+      "ementa": "PUBLICA A ADESÃO DA NOVA ZELANDIA A CONVENÇÃO SANITARIA INTERNACIONAL DE PARIS, DE 1912."
+    },
+    {
+      "senadoId": "431536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16657",
+      "titulo": "Decreto nº 16.657 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16657",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16657",
+      "ementa": "APROVA O REGULAMENTO DOS SERVIÇOS CIVIS DE RÁDIO-TELEGRAFIA E RÁDIO-TELEFONIA."
+    },
+    {
+      "senadoId": "431550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16664",
+      "titulo": "Decreto nº 16.664 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16664",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16664",
+      "ementa": "DESIGNA GALERIAS DA CASA DE CORREÇÃO COMO PRISÃO PRIVATIVA PARA DETENÇÃO POR EFEITO DO ESTADO DE SÍTIO."
+    },
+    {
+      "senadoId": "431548",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-11-05-16663",
+      "titulo": "Decreto nº 16.663 de 05/11/1924",
+      "data": "1924-11-05",
+      "numero": "16663",
+      "urn": "urn:lex:br:federal:decreto:1924-11-05;16663",
+      "ementa": "SUBORDINA AO SERVIÇO DE INSPEÇÃO E FOMENTO AGRÍCOLAS A ESTAÇÃO DE POMICULTURA DE DEODORO."
+    },
+    {
+      "senadoId": "431526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-29-16652",
+      "titulo": "Decreto nº 16.652 de 29/10/1924",
+      "data": "1924-10-29",
+      "numero": "16652",
+      "urn": "urn:lex:br:federal:decreto:1924-10-29;16652",
+      "ementa": "REDUZ O NUMERO DE CAPITÃES-TENENTES DO CORPO DA ARMADA."
+    },
+    {
+      "senadoId": "431528",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-29-16653",
+      "titulo": "Decreto nº 16.653 de 29/10/1924",
+      "data": "1924-10-29",
+      "numero": "16653",
+      "urn": "urn:lex:br:federal:decreto:1924-10-29;16653",
+      "ementa": "PRORROGA POR DOIS ANOS, O PRAZO FIXADO PARA O LANÇAMENTO E ATERRAMENTO DOS CABOS SUBMARINOS, ENTRE A CIDADE DO RIO DE JANEIRO E AS DE ROMA E MONTEVIDÉO, DOS QUAIS É CONCESSIONÁRIO ENRICO SCHOCK."
+    },
+    {
+      "senadoId": "431530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-29-16654",
+      "titulo": "Decreto nº 16.654 de 29/10/1924",
+      "data": "1924-10-29",
+      "numero": "16654",
+      "urn": "urn:lex:br:federal:decreto:1924-10-29;16654",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 709:135$092, PARA OCORRER ÁS DESPESAS DECORRENTES DA CRIAÇÃO DE UM BATALHÃO NA POLÍCIA MILITAR DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "431524",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-23-16651",
+      "titulo": "Decreto nº 16.651 de 23/10/1924",
+      "data": "1924-10-23",
+      "numero": "16651",
+      "urn": "urn:lex:br:federal:decreto:1924-10-23;16651",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 2.965:000$, PARA PAGAMENTO EM APÓLICES DA DÍVIDA PÚBLICA INTERNA, DAS DESPESAS COM AQUISIÇÃO DA PROPRIEDADE INTELECTUAL DAS OBRAS DO SENADOR RUY BARBOSA E DA CASA EM QUE O MESMO RESIDIU, NESTA CIDADE, COM A BIBLIOTECA, OS MANUSCRITOS E ARQUIVO."
+    },
+    {
+      "senadoId": "431514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16646",
+      "titulo": "Decreto nº 16.646 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16646",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16646",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DE ACORDO COM THE GREAT WESTERN OF BRAZIL RAILWAY COMPANY, LIMITED, PARA AQUISIÇÃO DE MATERIAIS E EXECUÇÃO DE MELHORAMENTOS EM DIVERSAS LINHAS FERREAS FEDERAIS QUE LHE ESTÃO ARRENDADAS."
+    },
+    {
+      "senadoId": "431518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16648",
+      "titulo": "Decreto nº 16.648 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16648",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16648",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE 25:000$, EM APÓLICES DA DÍVIDA PÚBLICA, QUE DEVERÃO SER ENTREGUES AO CAPITÃO DE MAR E GUERRA ALVARO NUNES DE CARVALHO."
+    },
+    {
+      "senadoId": "431508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16643",
+      "titulo": "Decreto nº 16.643 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16643",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16643",
+      "ementa": "TRANSFERE AO GOVERNO DO ESTADO DA BAHIA, AS OBRIGAÇÕES E DIREITOS DA UNIÃO, RELATIVAMENTE Á EXPLORAÇÃO DO SERVIÇO TELEFÔNICO NAQUELE ESTADO."
+    },
+    {
+      "senadoId": "431520",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16649",
+      "titulo": "Decreto nº 16.649 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16649",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16649",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA,O CRÉDITO ESPECIAL DE RÉIS 75.000:000$, PARA OCORRER AO PAGAMENTO DO AUMENTO DE VENCIMENTOS, SALÁRIOS, JORNAIS, DIÁRIAS OU MENSALIDADES, DE QUE TRATA O ARTIGO 258 DA LEI NÚMERO 4.793, DE 7 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "431504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16641",
+      "titulo": "Decreto nº 16.641 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16641",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16641",
+      "ementa": "PUBLICA A ADESÃO DA PALESTINA Á CONVENÇÃO DE BERNA DE 1908, PARA A PROTEÇÃO DE OBRAS LITERÁRIAS E ARTÍSTICAS E AO PROTOCOLO DE 1924, ADICIONAL A DITA CONVENÇÃO."
+    },
+    {
+      "senadoId": "431510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16644",
+      "titulo": "Decreto nº 16.644 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16644",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16644",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO FIXADO PARA A COMPANHIA GERAL DE MELHORAMENTOS NO MARANHÃO, CONCLUIR A EXECUÇÃO DOS SERVIÇOS DE QUE É CONTRATANTE."
+    },
+    {
+      "senadoId": "431502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16640",
+      "titulo": "Decreto nº 16.640 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16640",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16640",
+      "ementa": "PUBLICA A ADESÃO DE LUXEMBURGO Á CONVENÇÃO DE BRUXELLAS, RELATIVA Á PUBLICAÇÃO DE TARIFAS ADUANEIRAS."
+    },
+    {
+      "senadoId": "431512",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16645",
+      "titulo": "Decreto nº 16.645 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16645",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16645",
+      "ementa": "MODIFICA O PROJETO DOS NOVOS ARRUAMENTOS NA ZONA DO CAIS DO PORTO DE RECIFE, APROVADO PELO DECRETO NÚMERO 14.632, DE 10 DE DEZEMBRO DE 1920, NO SENTIDO DE EVITAR A DEMOLIÇÃO DA TORRE DE \"MALAKOFF\" E CONSERVAR OS TERRENOS DO EX-ARSENAL DE MARINHA."
+    },
+    {
+      "senadoId": "431506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16642",
+      "titulo": "Decreto nº 16.642 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16642",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16642",
+      "ementa": "PUBLICA A ADESÃO DA SÍRIA E DO LÍBANO Á CONVENÇÃO PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL E AO AJUSTE SOBRE REPRESSÃO DAS FALSAS INDICAÇÕES DE PROCEDÊNCIA DE MERCADORIAS."
+    },
+    {
+      "senadoId": "431516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16647",
+      "titulo": "Decreto nº 16.647 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16647",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16647",
+      "ementa": "DESTACA DO ARSENAL DE MARINHA DO RIO DE JANEIRO A DIRETORIA DE ARMAMENTO E O SERVIÇO DE RADIOTELEGRAFIA."
+    },
+    {
+      "senadoId": "431522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-22-16650",
+      "titulo": "Decreto nº 16.650 de 22/10/1924",
+      "data": "1924-10-22",
+      "numero": "16650",
+      "urn": "urn:lex:br:federal:decreto:1924-10-22;16650",
+      "ementa": "ORGANIZA DEFINITIVAMENTE A CONTADORIA CENTRAL DA REPÚBLICA E APROVA O SEU REGULAMENTO."
+    },
+    {
+      "senadoId": "431500",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-15-16639",
+      "titulo": "Decreto nº 16.639 de 15/10/1924",
+      "data": "1924-10-15",
+      "numero": "16639",
+      "urn": "urn:lex:br:federal:decreto:1924-10-15;16639",
+      "ementa": "ABRE, AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 1.537:258$030, PARA ATENDER AO PAGAMENTO DE DESPESAS REALIZADAS NOS EXERCÍCIOS DE 1920, 1921 E 1922."
+    },
+    {
+      "senadoId": "431492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-15-16635",
+      "titulo": "Decreto nº 16.635 de 15/10/1924",
+      "data": "1924-10-15",
+      "numero": "16635",
+      "urn": "urn:lex:br:federal:decreto:1924-10-15;16635",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS PARA A CONSTRUÇÃO DAS OFICINAS, ROTUNDA, ESCRITÓRIO DA LOCOMOÇÃO ETC., DA ESTRADA DE FERRO CENTRAL DO PIAUÍ, NAS PROXIMIDADES DA CIDADE DE PARNAÍBA."
+    },
+    {
+      "senadoId": "431498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-15-16638",
+      "titulo": "Decreto nº 16.638 de 15/10/1924",
+      "data": "1924-10-15",
+      "numero": "16638",
+      "urn": "urn:lex:br:federal:decreto:1924-10-15;16638",
+      "ementa": "REVOGA O DECRETO NÚMERO 15.686, DE 15 DE SETEMBRO DE 1922."
+    },
+    {
+      "senadoId": "431496",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-15-16637",
+      "titulo": "Decreto nº 16.637 de 15/10/1924",
+      "data": "1924-10-15",
+      "numero": "16637",
+      "urn": "urn:lex:br:federal:decreto:1924-10-15;16637",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 12:725$555, PARA A CONSTRUÇÃO DE UM DESVIO E EMBARCADOURO DE GADO NA ESTAÇÃO DE ARAGUARI, DA COMPANHIA MOGIANA."
+    },
+    {
+      "senadoId": "431490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-15-16634",
+      "titulo": "Decreto nº 16.634 de 15/10/1924",
+      "data": "1924-10-15",
+      "numero": "16634",
+      "urn": "urn:lex:br:federal:decreto:1924-10-15;16634",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 60:868$193, PARA A CONSTRUÇÃO DE UM POSTO TELEGRÁFICO NO QUILÔMETRO 448 DO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "431494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-15-16636",
+      "titulo": "Decreto nº 16.636 de 15/10/1924",
+      "data": "1924-10-15",
+      "numero": "16636",
+      "urn": "urn:lex:br:federal:decreto:1924-10-15;16636",
+      "ementa": "AUTORIZA A TRANSFERÊNCIA, Á COMPANHIA PERNAMBUCANA DE INDÚSTRIAS E ESTRADAS DE FERRO, NO CONTRATO CELEBRADO COM ANTONIO MENDES FERNANDES RIBEIRO, PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO DO MUNICÍPIO DE BARREIROS, ÁS PROXIMIDADES DA VILA DE SERTÃOZINHO, NO ESTADO DE PERNAMBUCO, E PRORROGA OS PRAZOS PARA A CONCLUSÃO DA MESMA LINHA FÉRREA."
+    },
+    {
+      "senadoId": "431488",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-11-16633",
+      "titulo": "Decreto nº 16.633 de 11/10/1924",
+      "data": "1924-10-11",
+      "numero": "16633",
+      "urn": "urn:lex:br:federal:decreto:1924-10-11;16633",
+      "ementa": "CONCEDE A PARTIR DESTA DATA E ATÉ 31 DE DEZEMBRO PRÓXIMO FUTURO, ISENÇÃO, EM TODAS AS ALFÂNDEGAS DO PAÍS, DE DIREITOS E TAXAS DE EXPEDIENTES PARA ARROZ, BANHA, CARNE SECA OU CHARQUE, BATATAS, FEIJÃO LEITE CONDENSADO, MANTEIGA E MILHO."
+    },
+    {
+      "senadoId": "431484",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-08-16631",
+      "titulo": "Decreto nº 16.631 de 08/10/1924",
+      "data": "1924-10-08",
+      "numero": "16631",
+      "urn": "urn:lex:br:federal:decreto:1924-10-08;16631",
+      "ementa": "APROVA O REGULAMENTO PARA SERVIÇO DE ENGENHARIA."
+    },
+    {
+      "senadoId": "431480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-08-16629",
+      "titulo": "Decreto nº 16.629 de 08/10/1924",
+      "data": "1924-10-08",
+      "numero": "16629",
+      "urn": "urn:lex:br:federal:decreto:1924-10-08;16629",
+      "ementa": "AUTORIZA A AQUISIÇÃO E ADAPTAÇÃO DE DOIS AUTOMÓVEIS PARA SERVIÇO DE INSPEÇÃO DA LINHA DA ESTRADA DE FERRO BAHIA E MINAS, DE ACORDO COM O ORÇAMENTO ELABORADO PELA \"COMPANHIA FERRO VIÁRIO ESTE BRASILEIRO\", NA IMPORTÂNCIA DE 16:800:000$."
+    },
+    {
+      "senadoId": "431482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-08-16630",
+      "titulo": "Decreto nº 16.630 de 08/10/1924",
+      "data": "1924-10-08",
+      "numero": "16630",
+      "urn": "urn:lex:br:federal:decreto:1924-10-08;16630",
+      "ementa": "AUTORIZA A EXCLUSÃO DO INVENTÁRIO DAS OBRAS DA BARRA DO RIO GRANDE, DE UM TRECHO DA LINHA FÉRREA DA PEDREIRA DO CAPÃO DO LEÃO, E DETERMINA A INCORPORAÇÃO DESTA A REDE DE VIAÇÃO FÉRREA FEDERAL, ARRENDADA AO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-08-16632",
+      "titulo": "Decreto nº 16.632 de 08/10/1924",
+      "data": "1924-10-08",
+      "numero": "16632",
+      "urn": "urn:lex:br:federal:decreto:1924-10-08;16632",
+      "ementa": "CONCEDE Á SOCIEDADE ANÔNIMA BRAZIL PLANTATIONS SYNDICATE LIMITED, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431468",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16623",
+      "titulo": "Decreto nº 16.623 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16623",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16623",
+      "ementa": "CRIA O COMANDO EM CHEFE DA ESQUADRA BRASILEIRA, SOB A FISCALIZAÇÃO GERAL E ORIENTAÇÃO SUPERIOR DO ESTADO-MAIOR DA ARMADA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16626",
+      "titulo": "Decreto nº 16.626 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16626",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16626",
+      "ementa": "CONCEDE Á SOCIEDADE ANÔNIMA COMPANHIA ITALIANA DEI CAVI TELEGRAFICI SOTTOMARINI, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16627",
+      "titulo": "Decreto nº 16.627 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16627",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16627",
+      "ementa": "PUBLICA A RATIFICAÇÃO DA SÉRVIA, CROÁCIA E ESLOVÊNIA DOS ATOS DO VII CONGRESSO DA UNIÃO POSTAL UNIVERSAL DE MADRID, EM 1920."
+    },
+    {
+      "senadoId": "431464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16621",
+      "titulo": "Decreto nº 16.621 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16621",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16621",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO DE DUZENTOS CONTOS DE RÉIS (200:000$), EM APÓLICES, PARA ATENDER ÁS DESPESAS DO RAMAL DE URUSSANGA."
+    },
+    {
+      "senadoId": "431472",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16625",
+      "titulo": "Decreto nº 16.625 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16625",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16625",
+      "ementa": "SUPRIME OS CARGOS DE CHEFE E ASSISTENTE DE LABORATORIO DE MICROBIOLOGIA DO SOLO, DO INSTITUTO BIOLOGICO DE DEFESA AGRICOLA."
+    },
+    {
+      "senadoId": "431478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16628",
+      "titulo": "Decreto nº 16.628 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16628",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16628",
+      "ementa": "PUBLICA A ADESÃO DA SÍRIA E DO LÍBANO, Á CONVENÇÃO INTERNACIONAL DE BERNA, REVISTA EM BERLIM, PARA A PROTEÇÃO DE OBRAS LITERÁRIAS E ARTÍSTICAS."
+    },
+    {
+      "senadoId": "431466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16622",
+      "titulo": "Decreto nº 16.622 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16622",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16622",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á SOCIEDADE ANÔNIMA COMPANHIA DE SEGUROS SCARPA, PARA FUNCIONAR NA REPÚBLICA E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-10-01-16624",
+      "titulo": "Decreto nº 16.624 de 01/10/1924",
+      "data": "1924-10-01",
+      "numero": "16624",
+      "urn": "urn:lex:br:federal:decreto:1924-10-01;16624",
+      "ementa": "EXPEDE INSTRUÇÕES AO INTERVENTOR NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "431458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-30-16618",
+      "titulo": "Decreto nº 16.618 de 30/09/1924",
+      "data": "1924-09-30",
+      "numero": "16618",
+      "urn": "urn:lex:br:federal:decreto:1924-09-30;16618",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM HAIFA."
+    },
+    {
+      "senadoId": "431452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-30-16615",
+      "titulo": "Decreto nº 16.615 de 30/09/1924",
+      "data": "1924-09-30",
+      "numero": "16615",
+      "urn": "urn:lex:br:federal:decreto:1924-09-30;16615",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM DUSSELDORF."
+    },
+    {
+      "senadoId": "431460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-30-16619",
+      "titulo": "Decreto nº 16.619 de 30/09/1924",
+      "data": "1924-09-30",
+      "numero": "16619",
+      "urn": "urn:lex:br:federal:decreto:1924-09-30;16619",
+      "ementa": "REDUZ A CATEGORIA DA REPRESENTAÇÃO CONSULAR EM CARACAS."
+    },
+    {
+      "senadoId": "431456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-30-16617",
+      "titulo": "Decreto nº 16.617 de 30/09/1924",
+      "data": "1924-09-30",
+      "numero": "16617",
+      "urn": "urn:lex:br:federal:decreto:1924-09-30;16617",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM DAMASCO."
+    },
+    {
+      "senadoId": "431462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-30-16620",
+      "titulo": "Decreto nº 16.620 de 30/09/1924",
+      "data": "1924-09-30",
+      "numero": "16620",
+      "urn": "urn:lex:br:federal:decreto:1924-09-30;16620",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM BOMBAIM."
+    },
+    {
+      "senadoId": "431454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-30-16616",
+      "titulo": "Decreto nº 16.616 de 30/09/1924",
+      "data": "1924-09-30",
+      "numero": "16616",
+      "urn": "urn:lex:br:federal:decreto:1924-09-30;16616",
+      "ementa": "SUPRIME O CONSULADO HONORÁRIO EM ADDIS ABBEBA."
+    },
+    {
+      "senadoId": "431450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-26-16614",
+      "titulo": "Decreto nº 16.614 de 26/09/1924",
+      "data": "1924-09-26",
+      "numero": "16614",
+      "urn": "urn:lex:br:federal:decreto:1924-09-26;16614",
+      "ementa": "SUSPENDE NO DIA 28 DO CORRENTE, EM TODO O ESTADO DE SERGIPE, O ESTADO DE SITIO PRORROGADO PELO DECRETO N.16.579, DE 3 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-24-16610",
+      "titulo": "Decreto nº 16.610 de 24/09/1924",
+      "data": "1924-09-24",
+      "numero": "16610",
+      "urn": "urn:lex:br:federal:decreto:1924-09-24;16610",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE SETE MIL E QUINHENTOS CONTOS DE RÉIS (7.500:000$), PARA DESPESAS DE CONSTRUÇÃO DOS PROLONGAMENTOS E RAMAIS DA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "431446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-24-16612",
+      "titulo": "Decreto nº 16.612 de 24/09/1924",
+      "data": "1924-09-24",
+      "numero": "16612",
+      "urn": "urn:lex:br:federal:decreto:1924-09-24;16612",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO NA IMPORTÂNCIA DE 15:156$908, RELATIVOS Á CONSTRUÇÃO DE UM BOEIRO EM ARCO, NO RAMAL DE PASSOS DA REDE DE VIAÇÃO SUL-MINEIRA, A CARGO DA COMPANHIA \"MOGYANA DE ESTRADAS DE FERRO\"."
+    },
+    {
+      "senadoId": "431448",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-24-16613",
+      "titulo": "Decreto nº 16.613 de 24/09/1924",
+      "data": "1924-09-24",
+      "numero": "16613",
+      "urn": "urn:lex:br:federal:decreto:1924-09-24;16613",
+      "ementa": "PROMULGA OS PROTOCOLOS CONTENDO EMENDAS AOS ARTIGOS 6, 16 E 26 DO PACTO DA LIGA DAS NAÇÕES."
+    },
+    {
+      "senadoId": "431444",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-24-16611",
+      "titulo": "Decreto nº 16.611 de 24/09/1924",
+      "data": "1924-09-24",
+      "numero": "16611",
+      "urn": "urn:lex:br:federal:decreto:1924-09-24;16611",
+      "ementa": "ABRE, AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 3.000:000$, APÓLICES, PARA ATENDER ÁS DESPESAS COM AS OBRAS DE CONSTRUÇÃO DO RAMAL DE BARRA MANSA A ANGRA DOS REIS, DA ESTRADA DE FERRO OESTE DE MINAS, E AUTORIZA A RESPECTIVA EMISSÃO DE APÓLICES."
+    },
+    {
+      "senadoId": "431440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-20-16609",
+      "titulo": "Decreto nº 16.609 de 20/09/1924",
+      "data": "1924-09-20",
+      "numero": "16609",
+      "urn": "urn:lex:br:federal:decreto:1924-09-20;16609",
+      "ementa": "SUSPENDE, NO DIA 21 DO CORRENTE, EM TODO ESTADO DA BAHIA, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.579, DE 3 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-20-16608",
+      "titulo": "Decreto nº 16.608 de 20/09/1924",
+      "data": "1924-09-20",
+      "numero": "16608",
+      "urn": "urn:lex:br:federal:decreto:1924-09-20;16608",
+      "ementa": "SUSPENDE, NO DIA 28 DO CORRENTE, EM TODO O ESTADO DE SÃO PAULO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO NÚMERO 16.579, DE 3 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16597",
+      "titulo": "Decreto nº 16.597 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16597",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16597",
+      "ementa": "SUSPENDE NO DIA 21 DO CORRENTE, EM TODO O ESTADO DE SÂO PAULO, O ESTADO DE SÍTIO PRORROGADO PELO DECRETO N. 16.579, DE 3 DE SETEMBRO DE 1924."
+    },
+    {
+      "senadoId": "431432",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16605",
+      "titulo": "Decreto nº 16.605 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16605",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16605",
+      "ementa": "ALTERA A ALINEA A DO ARTIGO 30, DO REGULAMENTO DA ESCOLA DE ESTADO-MAIOR."
+    },
+    {
+      "senadoId": "431426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16602",
+      "titulo": "Decreto nº 16.602 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16602",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16602",
+      "ementa": "ESTENDE AO ESTADO DO PARANÁ O ESTADO DE SÍTIO DECRETADO ATÉ 31 DE DEZEMBRO DO CORRENTE ANO, PARA OS ESTADOS DO RIO DE JANEIRO, SÃO PAULO, MATO GROSSO, SERGIPE, PARÁ, AMAZONAS E BAHIA."
+    },
+    {
+      "senadoId": "431424",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16601",
+      "titulo": "Decreto nº 16.601 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16601",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16601",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DE ENGENHARIA NAVAL."
+    },
+    {
+      "senadoId": "431422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16600",
+      "titulo": "Decreto nº 16.600 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16600",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16600",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DE AERONÁUTICA DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "431436",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16607",
+      "titulo": "Decreto nº 16.607 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16607",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16607",
+      "ementa": "REVOGA OS DECRETOS PELOS QUAIS FOI CONCEDIDA AUTORIZAÇÃO A UNIVERSAL PICTURES CORPORATION PARA FUNCIONAR NA REPÚBLICA E CASSA AS RESPECTIVAS CARTAS."
+    },
+    {
+      "senadoId": "431434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16606",
+      "titulo": "Decreto nº 16.606 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16606",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16606",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DE INTENDÊNCIA DA GUERRA."
+    },
+    {
+      "senadoId": "431418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16598",
+      "titulo": "Decreto nº 16.598 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16598",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16598",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 46:737$419, PARA PAGAMENTO A D. ANNA BORGES BARATA RIBEIRO, DOS VENCIMENTOS QUE SEU MARIDO DEIXOU DE RECEBER, NA QUALIDADE DE LENTE CATEDRÁTICO DA FACULDADE DE MEDICINA DO RIO DE JANEIRO, ENQUANTO EXERCEU O MANDATO DE SENADOR."
+    },
+    {
+      "senadoId": "431420",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16599",
+      "titulo": "Decreto nº 16.599 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16599",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16599",
+      "ementa": "ALTERA OS ARTIGOS 1º, 3º, 4º E 14º, DO REGULAMENTO PARA A DIRETORIA DE PESSOAL DA MARINHA."
+    },
+    {
+      "senadoId": "431430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-17-16604",
+      "titulo": "Decreto nº 16.604 de 17/09/1924",
+      "data": "1924-09-17",
+      "numero": "16604",
+      "urn": "urn:lex:br:federal:decreto:1924-09-17;16604",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO NA IMPORTÂNCIA DE 181:058$825 (CENTO E OITENTA E UM CONTOS CINQUENTA E OITO MIL OITOCENTOS E VINTE E CINCO RÉIS), PARA CONSTRUÇÃO DE UMA VARIANTE ENTRE OS QUILÔMETROS 247,698 E 248,782 NORTE DA LINHA ITARARÁ-URUGUAI."
+    },
+    {
+      "senadoId": "431410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16594",
+      "titulo": "Decreto nº 16.594 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16594",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16594",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 75:157$500, PARA LIQUIDAÇÃO DOS COMPROMISSOS ASSUMIDOS PELO GOVERNO, COM A REALIZAÇÃO DOS FUNERAIS E DAS EXEQUIAS DO SENADOR RUY BARBOSA."
+    },
+    {
+      "senadoId": "431402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16590",
+      "titulo": "Decreto nº 16.590 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16590",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16590",
+      "ementa": "APROVA O REGULAMENTO DE CASAS DE DIVERSÕES PÚBLICAS."
+    },
+    {
+      "senadoId": "431404",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16591",
+      "titulo": "Decreto nº 16.591 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16591",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16591",
+      "ementa": "CONCEDE A FORTUNATO BULCÃO OU A EMPRESA QUE ORGANIZAR OS FAVORES CONSTANTES DO DECRETO NÚMERO 12.944, DE 30 DE MARÇO DE 1918, E DO DECRETO LEGISLATIVO NÚMERO 4.246, DE 6 DE JANEIRO DE 1921, PARA O DESENVOLVIMENTO DA INDÚSTRIA SIDERÚRGICA E METALÚRGICA."
+    },
+    {
+      "senadoId": "431412",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16595",
+      "titulo": "Decreto nº 16.595 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16595",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16595",
+      "ementa": "APROVA OS TRABALHOS DE DEMARCAÇÃO DE LIMITES ENTRE OS ESTADOS DO PARANÁ E SANTA CATARINA."
+    },
+    {
+      "senadoId": "431414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16596",
+      "titulo": "Decreto nº 16.596 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16596",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16596",
+      "ementa": "HABILITA A COMPANHIA NACIONAL DE SEGUROS DE VIDA \"SUL AMÉRICA\" A RECEBER, EM TRANSFERÊNCIA AS APÓLICES DE SEGUROS DE VIDA, DOTAIS E DE RENDAS VITALÍCIAS, EMITIDAS NO BRASIL PELA, \"NEW YORK LIFE INSURANCE COMPANY\"."
+    },
+    {
+      "senadoId": "431408",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16593",
+      "titulo": "Decreto nº 16.593 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16593",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16593",
+      "ementa": "CONCEDE A SOCIEDADE ANÔNIMA THE ARMCO INTERNATIONAL CORPORATION, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-10-16592",
+      "titulo": "Decreto nº 16.592 de 10/09/1924",
+      "data": "1924-09-10",
+      "numero": "16592",
+      "urn": "urn:lex:br:federal:decreto:1924-09-10;16592",
+      "ementa": "APROVA O REGULAMENTO PARA REGISTRO DE CASAS COMERCIAIS QUE NEGOCIEM EM SEMENTES."
+    },
+    {
+      "senadoId": "431399",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-06-16588",
+      "titulo": "Decreto nº 16.588 de 06/09/1924",
+      "data": "1924-09-06",
+      "numero": "16588",
+      "urn": "urn:lex:br:federal:decreto:1924-09-06;16588",
+      "ementa": "ESTABELECE A CONDENAÇÃO CONDICIONAL EM MATÉRIA PENAL."
+    },
+    {
+      "senadoId": "431395",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-05-16586",
+      "titulo": "Decreto nº 16.586 de 05/09/1924",
+      "data": "1924-09-05",
+      "numero": "16586",
+      "urn": "urn:lex:br:federal:decreto:1924-09-05;16586",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA Á ASSOCIAÇÃO MUTUALIDADE CATÓLICA BRASILEIRA PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-05-16587",
+      "titulo": "Decreto nº 16.587 de 05/09/1924",
+      "data": "1924-09-05",
+      "numero": "16587",
+      "urn": "urn:lex:br:federal:decreto:1924-09-05;16587",
+      "ementa": "CRIA EM PONTA PORÃ, NO ESTADO DE MATO GROSSO, UMA MESA DE RENDAS ALFANDEGADAS, COM O PESSOAL, VENCIMENTOS E MATERIAL DA BELA VISTA, NO MESMO ESTADO."
+    },
+    {
+      "senadoId": "431393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-05-16585",
+      "titulo": "Decreto nº 16.585 de 05/09/1924",
+      "data": "1924-09-05",
+      "numero": "16585",
+      "urn": "urn:lex:br:federal:decreto:1924-09-05;16585",
+      "ementa": "APROVA A DELIBERAÇÃO DA COMPANHIA DE SEGUROS \"GREAT AMERICAN INSURANCE COMPANY\", AUMENTANDO O SEU CAPITAL DE $10.000.00.00, PARA $12.500.000.00."
+    },
+    {
+      "senadoId": "431391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-05-16584",
+      "titulo": "Decreto nº 16.584 de 05/09/1924",
+      "data": "1924-09-05",
+      "numero": "16584",
+      "urn": "urn:lex:br:federal:decreto:1924-09-05;16584",
+      "ementa": "REVOGA O DECRETO QUE CONCEDEU Á COMPANHIA DE SEGUROS TERRESTRES E MARÍTIMOS \"IRIS\", COM SEDE NA CAPITAL DE PERNAMBUCO, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA E CASSA A RESPECTIVA CARTA PATENTE."
+    },
+    {
+      "senadoId": "431387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-04-16582",
+      "titulo": "Decreto nº 16.582 de 04/09/1924",
+      "data": "1924-09-04",
+      "numero": "16582",
+      "urn": "urn:lex:br:federal:decreto:1924-09-04;16582",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE  71:510$, PARA PAGAMENTO DAS GRATIFICAÇÕES A QUE FIZERAM JUS, NO ANO DE 1922 E NO PERÍODO DE 1 DE JANEIRO A 30 DE SETEMBRO DE 1923, O CHEFE E OS ENGENHEIROS DA COMISSÃO DE LIMITES PARANÁ-SANTA CATARINA."
+    },
+    {
+      "senadoId": "431385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-04-16581",
+      "titulo": "Decreto nº 16.581 de 04/09/1924",
+      "data": "1924-09-04",
+      "numero": "16581",
+      "urn": "urn:lex:br:federal:decreto:1924-09-04;16581",
+      "ementa": "APROVA O REGULAMENTO DE IMPOSTO SOBRE A RENDA."
+    },
+    {
+      "senadoId": "431383",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-04-16580",
+      "titulo": "Decreto nº 16.580 de 04/09/1924",
+      "data": "1924-09-04",
+      "numero": "16580",
+      "urn": "urn:lex:br:federal:decreto:1924-09-04;16580",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DE ARRECADAÇÃO DO IMPOSTO SOBRE A RENDA."
+    },
+    {
+      "senadoId": "431389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-04-16583",
+      "titulo": "Decreto nº 16.583 de 04/09/1924",
+      "data": "1924-09-04",
+      "numero": "16583",
+      "urn": "urn:lex:br:federal:decreto:1924-09-04;16583",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 69:726$880, PARA LIQUIDAÇÃO DA DÍVIDA DA UNIÃO COM LEON HIRSCH."
+    },
+    {
+      "senadoId": "431381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-03-16579",
+      "titulo": "Decreto nº 16.579 de 03/09/1924",
+      "data": "1924-09-03",
+      "numero": "16579",
+      "urn": "urn:lex:br:federal:decreto:1924-09-03;16579",
+      "ementa": "PRORROGA ATÉ 31 DE DEZEMBRO DE 1924, O ESTADO DE SÍTIO DECRETADO PARA OS TERRITÓRIOS DO DISTRITO FEDERAL E DOS ESTADOS DO RIO DE JANEIRO, SÃO PAULO, MATO GROSSO, SERGIPE, PARÁ, AMAZONAS E BAHIA."
+    },
+    {
+      "senadoId": "431380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-09-01-16578-a",
+      "titulo": "Decreto nº 16.578-A de 01/09/1924",
+      "data": "1924-09-01",
+      "numero": "16578-a",
+      "urn": "urn:lex:br:federal:decreto:1924-09-01;16578-a",
+      "ementa": "AUTORIZA O BANCO DO BRASIL A EMITIR ATÉ 100.000:000$, COMO MEDIDA DE EMERGÊNCIA, NOS TERMOS DO DECRETO NÚMERO 4.635 A, DE 8 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "431361",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16569",
+      "titulo": "Decreto nº 16.569 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16569",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16569",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 354:324$838, PARA A CONSTRUÇÃO DA NOVA ESTAÇÃO INICIAL DA LINHA DE VITÓRIA A ITABIRA DO MATO DENTRO, NA POVOAÇÃO DE SÃO CARLOS, EM FRENTE A CIDADE DE VITÓRIA."
+    },
+    {
+      "senadoId": "431367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16572",
+      "titulo": "Decreto nº 16.572 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16572",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16572",
+      "ementa": "PROMULGA A CONVENÇÃO INTERNACIONAL PARA A REPRESSÃO DO TRÁFICO DE MULHERES BRANCAS E O RESPECTIVO PROTOCOLO DE ENCERRAMENTO ASSINADOS EM PARIS, A 4 DE MAIO DE 1910."
+    },
+    {
+      "senadoId": "431365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16571",
+      "titulo": "Decreto nº 16.571 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16571",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16571",
+      "ementa": "PROMULGA O AJUSTE RELATIVO Á REPRESSÃO DA CIRCULAÇÃO DAS PUBLICAÇÕES OBCENAS, ASSINADO EM PARIS A 4 DE MAIO DE 1910."
+    },
+    {
+      "senadoId": "431363",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16570",
+      "titulo": "Decreto nº 16.570 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16570",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16570",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS PARA A RECONSTRUÇÃO DAS OBRAS DE ARTE NO TRECHO DE IPÚ A IBIAPABA, QUILÔMETRO 217 A 374, DA ESTRADA DE FERRO DE SOBRAL, DA REDE DE VIAÇÃO CEARENSE."
+    },
+    {
+      "senadoId": "431359",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16568",
+      "titulo": "Decreto nº 16.568 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16568",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16568",
+      "ementa": "PRORROGA POR TRÊS MESES, O PRAZO MARCADO PELO ARTIGO 3º, DO DECRETO NÚMERO 16.316, DE 9 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "431357",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16567",
+      "titulo": "Decreto nº 16.567 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16567",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16567",
+      "ementa": "PRORROGA POR NOVE (9) MESES, A CONTAR DE 14 DE ABRIL DO CORRENTE ANO, O PRAZO FIXADO NO ARTIGO 3º, DO DECRETO NÚMERO 15.871, DE 6 DE DEZEMBRO DE 1922, PARA A CONCLUSÃO DE POSTOS DE PARADA NA ESTRADA DE FERRO BAHIA E MINAS."
+    },
+    {
+      "senadoId": "431376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16577",
+      "titulo": "Decreto nº 16.577 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16577",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16577",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, A CONCEDER Á COMPANHIA ENERGIA ELÉTRICA RIO GRANDENSE OS FAVORES CONSTANTES DO DECRETO 16.552, DE 13 DE AGOSTO DE 1924."
+    },
+    {
+      "senadoId": "431378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16578",
+      "titulo": "Decreto nº 16.578 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16578",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16578",
+      "ementa": "ABRE, AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 174:000$, PARA LIQUIDAR COM O ESTADO DO MARANHÃO, AS SUBVENÇÕES RELATIVAS AOS ANOS DE 1920 E 1922, DESTINADAS AO SERVIÇO DO ALGODÃO."
+    },
+    {
+      "senadoId": "431355",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16566",
+      "titulo": "Decreto nº 16.566 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16566",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16566",
+      "ementa": "AUTORIZA A TRANSFERÊNCIA Á COMPANHIA ESTRADA DE FERRO MOSSORÓ, DO CONTRATO CELEBRADO COM ALBUQUERQUE & COMP., EM 23 DE JULHO DE 1919, PARA O ARRENDAMENTO E EXPLORAÇÃO DOS TRECHOS DE LINHA FÉRREA, QUE O GOVERNO FEDERAL CONSTRUIR EM PROLONGAMENTO Á ESTRADA DE FERRO DE MOSSORÓ."
+    },
+    {
+      "senadoId": "431352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16564",
+      "titulo": "Decreto nº 16.564 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16564",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16564",
+      "ementa": "APROVA A MODIFICAÇÃO DOS PLANOS DAS OBRAS HIDRELÉTRICAS PROJETADAS NO RIO PARAÍBA, NO LUGAR DENOMINADO \"ILHA DOS POMBOS\", A SEREM EXECUTADAS PELA \" BRAZILIAN HYDRO ELETRIC COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "431370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16574",
+      "titulo": "Decreto nº 16.574 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16574",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16574",
+      "ementa": "DESAPROPRIA, POR UTILIDAE PÚBLICA, UM TERRENO EM CAMPO LIMPO, MUNICÍPIO E COMARCA DE JUNDIAÍ, ESTADO DE SÃO PAULO, PERTENCENTE A JOÃO BAPTISTA DE CAMARGO MENDES E SUA MULHER."
+    },
+    {
+      "senadoId": "431372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16575",
+      "titulo": "Decreto nº 16.575 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16575",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16575",
+      "ementa": "APROVA AS MODIFICAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS ANGLO SUL AMERICANA."
+    },
+    {
+      "senadoId": "431374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-27-16576",
+      "titulo": "Decreto nº 16.576 de 27/08/1924",
+      "data": "1924-08-27",
+      "numero": "16576",
+      "urn": "urn:lex:br:federal:decreto:1924-08-27;16576",
+      "ementa": "CONCEDE AUTORIZAÇÃO A SOCIEDADE ANÔNIMA COMPANHIA DE SEGUROS \"SAGRES\", COM SEDE NESTA CAPITAL, PARA FUNCIONAR NA REPÚBLICA E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-26-16563",
+      "titulo": "Decreto nº 16.563 de 26/08/1924",
+      "data": "1924-08-26",
+      "numero": "16563",
+      "urn": "urn:lex:br:federal:decreto:1924-08-26;16563",
+      "ementa": "ESTENDE AO ESTADO DE MATO GROSSO O ESTADO DE SÍTIO POR 90 DIAS."
+    },
+    {
+      "senadoId": "431348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-23-16562",
+      "titulo": "Decreto nº 16.562 de 23/08/1924",
+      "data": "1924-08-23",
+      "numero": "16562",
+      "urn": "urn:lex:br:federal:decreto:1924-08-23;16562",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DE CONTRATO COM O GOVERNO DO ESTADO DE MINAS GERAIS, PARA O SERVIÇO DE NAVEGAÇÃO DO RIO SÃO FRANCISCO, COM O APROVEITAMENTO DO MATERIAL DE PROPRIEDADE DA UNIÃO, QUE É TRANSFERIDO ÀQUELE GOVERNO."
+    },
+    {
+      "senadoId": "431346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-20-16561",
+      "titulo": "Decreto nº 16.561 de 20/08/1924",
+      "data": "1924-08-20",
+      "numero": "16561",
+      "urn": "urn:lex:br:federal:decreto:1924-08-20;16561",
+      "ementa": "REGULAMENTA O DECRETO 4.848, DE 13 DE AGOSTO DE 1924, NA PARTE EM QUE DISPÕE SOBRE O PROCESSO DE JULGAMENTO DOS CRIMES CONTRA A CONSTITUIÇÃO DA REPUBLICA E FORMA DE SEU GOVERNO, CONTRA O LIVRE EXERCICIO DOS PODERES POLITICOS DE CONSPIRAÇÃO E DE SEDIÇÃO."
+    },
+    {
+      "senadoId": "431342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-16-16559",
+      "titulo": "Decreto nº 16.559 de 16/08/1924",
+      "data": "1924-08-16",
+      "numero": "16559",
+      "urn": "urn:lex:br:federal:decreto:1924-08-16;16559",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, OS CRÉDITOS ESPECIAIS DE 1:059$677 E 580$645, PARA PAGAMENTO NO ANO DE 1923, DAS PENSÕES QUE COMPETEM RESPECTIVAMENTE, AOS GUARDAS CIVIS BARTHOLOMEU ARAPONGA E AMARO JACOME DE ARAÚJO."
+    },
+    {
+      "senadoId": "431344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-16-16560",
+      "titulo": "Decreto nº 16.560 de 16/08/1924",
+      "data": "1924-08-16",
+      "numero": "16560",
+      "urn": "urn:lex:br:federal:decreto:1924-08-16;16560",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 20:000$, SUPLEMENTAR AO DA CONSIGNAÇÃO \"MATERIAL - CUSTEIO E CONSERVAÇÃO DE DOIS AUTOMÓVEIS\" DA VERBA NÚMERO 12, DO ARTIGO 2º, DA LEI NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "431338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-16-16557",
+      "titulo": "Decreto nº 16.557 de 16/08/1924",
+      "data": "1924-08-16",
+      "numero": "16557",
+      "urn": "urn:lex:br:federal:decreto:1924-08-16;16557",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 96:705$230, PARA LIQUIDAR A DÍVIDA DE FORNECIMENTO DE GÁS, LUZ, ENERGIA ELÉTRICA, TELEFONES, TELEGRAMAS E TRANSPORTES PARA OS PALÁCIOS DA PRESIDÊNCIA DA REPÚBLICA, DE 1920 A 1923."
+    },
+    {
+      "senadoId": "431336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-16-16556",
+      "titulo": "Decreto nº 16.556 de 16/08/1924",
+      "data": "1924-08-16",
+      "numero": "16556",
+      "urn": "urn:lex:br:federal:decreto:1924-08-16;16556",
+      "ementa": "SUPRIME A CADEIRA DE CANTO DO INSTITUTO DE BENJAMIM CONSTANT, VAGA EM VIRTUDE DO FALECIMENTO DO RESPECTIVO PROFESSOR."
+    },
+    {
+      "senadoId": "431340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-16-16558",
+      "titulo": "Decreto nº 16.558 de 16/08/1924",
+      "data": "1924-08-16",
+      "numero": "16558",
+      "urn": "urn:lex:br:federal:decreto:1924-08-16;16558",
+      "ementa": "DECRETA FERIADO NACIONAL ATÉ O DIA 31 DO CORRENTE MÊS, INCLUSIVE NO ESTADO DE SERGIPE."
+    },
+    {
+      "senadoId": "431328",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16552",
+      "titulo": "Decreto nº 16.552 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16552",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16552",
+      "ementa": "REGULA A CONCESSÃO DE FAVORES ÁS EMPRESAS OU COMPANHIAS QUE SE ORGANIZAREM, ESPECIALMENTE PARA FUNDAÇÃO DA INDÚSTRIA DOS SUBPRODUTOS DO CARVÃO NACIONAL, BENZÓES, ALCATRÕES, ETC.."
+    },
+    {
+      "senadoId": "431332",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16554",
+      "titulo": "Decreto nº 16.554 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16554",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16554",
+      "ementa": "PUBLICA A ADESÃO DO JAPÃO A CONVENÇÃO INTERNACIONAL, ASSINADA EM ROMA A 9 DE DEZEMBRO DE 1907, PARA A CRIAÇÃO DE UMA REPARTIÇÃO INTERNACIONAL DE HIGIENE PÚBLICA."
+    },
+    {
+      "senadoId": "431330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16553",
+      "titulo": "Decreto nº 16.553 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16553",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16553",
+      "ementa": "CASSA O \"EXEQUATUR\" AO CONSUL DA GUATEMALA EM SÃO PAULO."
+    },
+    {
+      "senadoId": "431334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16555",
+      "titulo": "Decreto nº 16.555 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16555",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16555",
+      "ementa": "APROVA AS ALTERAÇÕES NO PLANO DE UNIFORME DO EXÉRCITO, NA PARTE RELATIVA AOS ALUNOS DOS COLÉGIOS MILITARES."
+    },
+    {
+      "senadoId": "431320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16548",
+      "titulo": "Decreto nº 16.548 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16548",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16548",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 47:843$695, PARA A CONSTRUÇÃO DE UM NOVO POSTO TELEGRÁFICO NO QUILÔMETRO 355.450, DO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "431324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16550",
+      "titulo": "Decreto nº 16.550 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16550",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16550",
+      "ementa": "ABRE, AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 1.000:000$, PARA ATENDER NO CORRENTE ANO, ÁS DESPESAS COM A INTRODUÇÃO DE IMIGRANTES NO PAÍS."
+    },
+    {
+      "senadoId": "431314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16545",
+      "titulo": "Decreto nº 16.545 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16545",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16545",
+      "ementa": "PRORROGA ATÉ 7 DE JUNHO DE 1926, O PRAZO PARA A \"COMPANHIA ESTRADA DE FERRO DE VITÓRIA A MINAS\", CONCLUIR A CONSTRUÇÃO DA LINHA DE VITÓRIA A ITABIRA DO MATO DENTRO."
+    },
+    {
+      "senadoId": "431312",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16544",
+      "titulo": "Decreto nº 16.544 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16544",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16544",
+      "ementa": "AUTORIZA A TRANSFERÊNCIA Á COMPANHIA INDUSTRIAL DE ILHÉUS DO CONTRATO CELEBRADO COM BENTO BERILLO DE OLIVEIRA, PARA A CONSTRUÇÃO, USO E GOZO DAS OBRAS DE MELHORAMENTOS DO PORTO DE ILHÉUS, E APROVA NOVOS PLANOS DAS OBRAS A EXECUTAR, PRORROGANDO O PRAZO PARA ÍNICIO DESTAS."
+    },
+    {
+      "senadoId": "431316",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16546",
+      "titulo": "Decreto nº 16.546 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16546",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16546",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO PARA A CONSTRUÇÃO DAS OBRAS NECESSÁRIAS PARA TRANSFORMAR EM ESTAÇÃO, O POSTO TELEGRÁFICO DE POÇO PRETO, NO QUILÔMETRO 424, DA LINHA DE SÃO FRANCISCO, DA COMPANHIA ESTRADA DE FERRO SÃO PAULO-RIO GRANDE."
+    },
+    {
+      "senadoId": "431326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16551",
+      "titulo": "Decreto nº 16.551 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16551",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16551",
+      "ementa": "CONCEDE Á COMPANHIA USINA VASSUNUNGA, AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16549",
+      "titulo": "Decreto nº 16.549 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16549",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16549",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 2.186:998$683, PARA A CONSTRUÇÃO, NA FAIXA INTERNA DO CAIS DO PORTO DESTA CAPITAL, DE UMA ESTAÇÃO PARA PASSAGEIROS E DE UM ARMAZÉM DE BAGAGEM, A SER EXECUTADA PELA COMPANHIA BRASILEIRA DE EXPORTAÇÃO DE PORTOS."
+    },
+    {
+      "senadoId": "431318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-13-16547",
+      "titulo": "Decreto nº 16.547 de 13/08/1924",
+      "data": "1924-08-13",
+      "numero": "16547",
+      "urn": "urn:lex:br:federal:decreto:1924-08-13;16547",
+      "ementa": "ELEVA A 396:038$144, O ORÇAMENTO APROVADO PELO DECRETO NÚMERO 16.483, DE 21 DE MAIO DO CORRENTE ANO, PARA AQUISIÇÃO DE MATERIAL RODANTE, DESTINADO AO TRECHO EM TRÁFEGO DA ESTRADA DE FERRO SANTA CATARINA, ENTRE BLUMENAL E HANSA."
+    },
+    {
+      "senadoId": "431306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-07-16541",
+      "titulo": "Decreto nº 16.541 de 07/08/1924",
+      "data": "1924-08-07",
+      "numero": "16541",
+      "urn": "urn:lex:br:federal:decreto:1924-08-07;16541",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 15:000$, PARA PAGAMENTO DE VENCIMENTOS AO PROMOTOR PÚBLICO DO DISTRITO FEDERAL, EM DISPONIBILIDADE, BACHAREL JOSÉ MAXIMIANO GOMES DE PAIVA, NO PERÍODO DE 1 DE MARÇO A 31 DE DEZEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "431308",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-07-16542",
+      "titulo": "Decreto nº 16.542 de 07/08/1924",
+      "data": "1924-08-07",
+      "numero": "16542",
+      "urn": "urn:lex:br:federal:decreto:1924-08-07;16542",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO E 200:000$, PARA ATENDER ÁS DESPESAS DECORRENTES DO SERVIÇO DE COMBATE AOS SURTOS EPIDÊMICOS DE IMPALUDISMO QUE IRROMPERAM EM VÁRIOS PONTOS DO ESTADO DO AMAZONAS"
+    },
+    {
+      "senadoId": "431310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-07-16543",
+      "titulo": "Decreto nº 16.543 de 07/08/1924",
+      "data": "1924-08-07",
+      "numero": "16543",
+      "urn": "urn:lex:br:federal:decreto:1924-08-07;16543",
+      "ementa": "MANDA FECHAR POR SEIS MESES, A LIGA NACIONALISTA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431300",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-05-16538",
+      "titulo": "Decreto nº 16.538 de 05/08/1924",
+      "data": "1924-08-05",
+      "numero": "16538",
+      "urn": "urn:lex:br:federal:decreto:1924-08-05;16538",
+      "ementa": "MANDA QUE A BANDEIRRA NACIONAL SEJA HASTEADA, EM FUNERAL, EM TODAS AS REPARTIÇÕES PÚBLICAS, DURANTE TRÊS DIAS, QUE SERÃO CONSIDERADOS DE LUTO NACIONAL, E DETERMINA QUE NÃO HAJA EXPEDIENTE HOJE NAS REFERIDAS REPARTIÇÕES, PELO FALECIMENTO DO EMINENTE BRASILEIRO, DR. RAUL SOARES, PRESIDENTE DO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "431302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-05-16539",
+      "titulo": "Decreto nº 16.539 de 05/08/1924",
+      "data": "1924-08-05",
+      "numero": "16539",
+      "urn": "urn:lex:br:federal:decreto:1924-08-05;16539",
+      "ementa": "RETIFICA OS ARTIGOS 27 E 28 DO DECRETO NÚMERO 14.663, DE 1 DE FEVEREIRO DE 1921, QUE REGULA A CONCESSÃO DE LICENÇA AOS FUNCIONÁRIOS PÚBLICOS CIVIS E MILITARES DA UNIÃO."
+    },
+    {
+      "senadoId": "431304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-08-05-16540",
+      "titulo": "Decreto nº 16.540 de 05/08/1924",
+      "data": "1924-08-05",
+      "numero": "16540",
+      "urn": "urn:lex:br:federal:decreto:1924-08-05;16540",
+      "ementa": "CRIA NA POLÍCIA MILITAR DO DISTRITO FEDERAL, MAIS UM BATALHÃO DE INFANTARIA, UM CAPITÃO PARA COMANDAR A COMPANHIA DE METRALHADORAS E UM QUADRO DE SARGENTOS ASPIRANTES, AUMENTA O PESSOAL DO SERVIÇO DE SAÚDE E MODIFICA OS EFETIVOS DAS UNIDADES ATUAIS, ASSIM COMO O ATUAL REGULAMENTO NAS PARTES REFERENTES Á ESCOLA PROFISSIONAL E ÁS PROMOÇÕES DE OFICIAIS E DE SARGENTOS."
+    },
+    {
+      "senadoId": "431296",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-27-16535",
+      "titulo": "Decreto nº 16.535 de 27/07/1924",
+      "data": "1924-07-27",
+      "numero": "16535",
+      "urn": "urn:lex:br:federal:decreto:1924-07-27;16535",
+      "ementa": "ESTENDE AOS ESTADOS DO AMAZONAS E DO PARÁ O ESTADO DE SÍTIO POR SESSENTA DIAS."
+    },
+    {
+      "senadoId": "431292",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-26-16533",
+      "titulo": "Decreto nº 16.533 de 26/07/1924",
+      "data": "1924-07-26",
+      "numero": "16533",
+      "urn": "urn:lex:br:federal:decreto:1924-07-26;16533",
+      "ementa": "PRORROGA ATÉ 6 DE AGOSTO DO CORENTE ANO, INCLUSIVE, O FERIADO NACIONAL EM TODO O ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-26-16534",
+      "titulo": "Decreto nº 16.534 de 26/07/1924",
+      "data": "1924-07-26",
+      "numero": "16534",
+      "urn": "urn:lex:br:federal:decreto:1924-07-26;16534",
+      "ementa": "AUTORIZA O MINISTRO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, A DAR MELHOR APLICAÇÃO AOS SALDOS VERIFICADOS NESTA DATA, NAS CONSIGNAÇÕES II, III E IV DO TÍTULO \" PESSOAL \", E I, II E III DO TÍTULO \" MATERIAL \", DA VERBA 25ª, \" SERVIÇO DO ALGODÃO \" DO ORÇAMENTO EM VIGOR, SEM AUMENTO DE DESPESA."
+    },
+    {
+      "senadoId": "431286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-22-16529",
+      "titulo": "Decreto nº 16.529 de 22/07/1924",
+      "data": "1924-07-22",
+      "numero": "16529",
+      "urn": "urn:lex:br:federal:decreto:1924-07-22;16529",
+      "ementa": "FIXA A DATA A PARTIR DA QUAL DEVERÃO SER ATENDIDAS AS REQUISIÇÕES MILITARES NO DISTRITO FEDERAL E NOS ESTADOS DO RIO DE JANEIRO, SÃO PAULO, PARANÁ E MATO GROSSO."
+    },
+    {
+      "senadoId": "431288",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-22-16530",
+      "titulo": "Decreto nº 16.530 de 22/07/1924",
+      "data": "1924-07-22",
+      "numero": "16530",
+      "urn": "urn:lex:br:federal:decreto:1924-07-22;16530",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, O CRÉDITO EXTRAORDINÁRIO DE 2.000:000$, PARA ATENDER ÁS DESPESAS DECORRENTES DO ATUAL MOVIMENTO SEDICIOSO, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431284",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-18-16528",
+      "titulo": "Decreto nº 16.528 de 18/07/1924",
+      "data": "1924-07-18",
+      "numero": "16528",
+      "urn": "urn:lex:br:federal:decreto:1924-07-18;16528",
+      "ementa": "PRORROGA ATÉ 27 DO CORRENTE, INCLUSIVE O FERIADO NACIONAL EM TODO O ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-17-16527",
+      "titulo": "Decreto nº 16.527 de 17/07/1924",
+      "data": "1924-07-17",
+      "numero": "16527",
+      "urn": "urn:lex:br:federal:decreto:1924-07-17;16527",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DE 5.000:000$, PARA ATENDER ÁS DESPESAS DECORRENTES DO ATUAL MOVIMENTO SEDICIOSO NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-14-16526-a",
+      "titulo": "Decreto nº 16.526-A de 14/07/1924",
+      "data": "1924-07-14",
+      "numero": "16526-a",
+      "urn": "urn:lex:br:federal:decreto:1924-07-14;16526-a",
+      "ementa": "ESTENDE AOS ESTADOS DE SERGIPE E BAHIA, O ESTADO DE SÍTIO DECRETADO POR 60 DIAS PELO CONGRESSO NACIONAL, PARA A CAPITAL FEDERAL E PARA OS ESTADOS DO RIO DE JANEIRO E DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-12-16526",
+      "titulo": "Decreto nº 16.526 de 12/07/1924",
+      "data": "1924-07-12",
+      "numero": "16526",
+      "urn": "urn:lex:br:federal:decreto:1924-07-12;16526",
+      "ementa": "PRORROGA ATÉ O 19 DO CORRENTE, INCLUSIVE,O FERIADO NACIONAL EM TODO O ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431277",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-07-16525",
+      "titulo": "Decreto nº 16.525 de 07/07/1924",
+      "data": "1924-07-07",
+      "numero": "16525",
+      "urn": "urn:lex:br:federal:decreto:1924-07-07;16525",
+      "ementa": "DECRETA FERIADO NACIONAL ATÉ O DIA 12 DO CORRENTE MÊS, INCLUSIVE NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-07-01-16524",
+      "titulo": "Decreto nº 16.524 de 01/07/1924",
+      "data": "1924-07-01",
+      "numero": "16524",
+      "urn": "urn:lex:br:federal:decreto:1924-07-01;16524",
+      "ementa": "CONCEDE, PELO PRAZO DE 60 DIAS, ISENÇÃO, EM TODAS AS ALFÂNDEGAS DO PAÍS, DE DIREITOS E DE TAXAS DE EXPEDIENTE, PARA GÊNEROS DE PRIMEIRA NECESSIDADE E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16522",
+      "titulo": "Decreto nº 16.522 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16522",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16522",
+      "ementa": "CONCEDE Á COMPANHIA PANIFICADORA MIXED AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "431257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16515",
+      "titulo": "Decreto nº 16.515 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16515",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16515",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 13:824$208 (TREZE CONTOS OITOCENTOS E VINTE E QUATRO MIL DUZENTOS E OITO RÉIS), PARA O AUMENTO E REFORMA DA ESTAÇÃO DE CAMBARÁ, DA LINHA DE CATALÃO, DA COMPANHIA MOGIANA DE ESTRADAS DE FERRO."
+    },
+    {
+      "senadoId": "431267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16520",
+      "titulo": "Decreto nº 16.520 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16520",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16520",
+      "ementa": "ABRE, AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 1:800$, PARA OCORRER AO PAGAMENTO DA DIFERENÇA DE VENCIMENTOS QUE DEIXOU DE RECEBER, NOS EXERCÍCIOS DE 1915, 1916 E 1917, O LINOTIPISTA TIPOGRÁFICO DA DIRETORIA GERAL DE ESTATÍSTICA AMISYLES COELHO."
+    },
+    {
+      "senadoId": "431263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16518",
+      "titulo": "Decreto nº 16.518 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16518",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16518",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA O PESSOAL SUBALTERNO DO SERVIÇO GERAL DE MÁQUINAS DA MARINHA DE GUERRA."
+    },
+    {
+      "senadoId": "431269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16521",
+      "titulo": "Decreto nº 16.521 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16521",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16521",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA LEME FERREIRA."
+    },
+    {
+      "senadoId": "431253",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16513",
+      "titulo": "Decreto nº 16.513 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16513",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16513",
+      "ementa": "APROVA A PLANTA DA ESPLANADA PARA A ESTAÇÃO DEFINITIVA DA LEOPOLDINA RAILWAY COMPANY, LIMITED, NA CAPITAL FEDERAL, E O PROJETO DA ESTAÇÃO A SER CONSTRUÍDA PELA MESMA COMPANHIA."
+    },
+    {
+      "senadoId": "431259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16516",
+      "titulo": "Decreto nº 16.516 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16516",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16516",
+      "ementa": "PUBLICA AS ADESÕES DO ESTADO LIVRE DA IRLANDA E DO TERRITÓRIO DE TANGANICA Á CONVENÇÃO INTERNACIONAL RÁDIO-TELEGRÁFICA, DE LONDRES."
+    },
+    {
+      "senadoId": "431255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16514",
+      "titulo": "Decreto nº 16.514 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16514",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16514",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 15.765, DE 30 DE OUTUBRO DE 1922, QUE APROVOU OS ESTUDOS E ORÇAMENTOS E AUTORIZOU A CONSTRUÇÃO DE UMA VARIANTE NA ESTRADA DE FERRO CENTRO OESTE DA BAHIA."
+    },
+    {
+      "senadoId": "431265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16519",
+      "titulo": "Decreto nº 16.519 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16519",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16519",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, O CRÉDITO ESPECIAL DE 1.723:321$062, SUPLEMENTAR ÁS VERBAS 1ª, 8ª E 13ª DO ARTIGO 30 DA LEI NÚMERO 4.555, DE 30 DE AGOSTO DE 1922."
+    },
+    {
+      "senadoId": "431261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16517",
+      "titulo": "Decreto nº 16.517 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16517",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16517",
+      "ementa": "PUBLICA A ADESÃO DA CIDADE LIVRE DE DANTZIG ÁS CONVENÇÕES DE BRUXELLAS, PARA A PERMUTA DE DOCUMENTOS OFICIAES E OUTRAS PUBLICAÇÕES."
+    },
+    {
+      "senadoId": "431273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16523",
+      "titulo": "Decreto nº 16.523 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16523",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16523",
+      "ementa": "CONCEDE Á \"LONGOVICA\", COMPAGNIE INDUSTRIELLE ET COMMERCIALLE D´EXPORTATION, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16511",
+      "titulo": "Decreto nº 16.511 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16511",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16511",
+      "ementa": "CRIA A CONTADORIA CENTRAL FERROVIÁRIA E APROVA O RESPECTIVO REGULAMENTO."
+    },
+    {
+      "senadoId": "431251",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-25-16512",
+      "titulo": "Decreto nº 16.512 de 25/06/1924",
+      "data": "1924-06-25",
+      "numero": "16512",
+      "urn": "urn:lex:br:federal:decreto:1924-06-25;16512",
+      "ementa": "APROVA OS ESTATUTOS DEFINITIVOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 2.619:534$481, DE DOIS TRECHOS DA LINHA FÉRREA DE PIRACURUCA A PERIPERI, DA ESTRADA DE FERRO CENTRAL DE PIAUÍ, COM EXTENSÃO TOTAL DE 33,200 KM."
+    },
+    {
+      "senadoId": "431246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-21-16509",
+      "titulo": "Decreto nº 16.509 de 21/06/1924",
+      "data": "1924-06-21",
+      "numero": "16509",
+      "urn": "urn:lex:br:federal:decreto:1924-06-21;16509",
+      "ementa": "CONFIA AO GOVERNO DO ESTADO DE SÃO PAULO A EXECUÇÃO, NO SEU TERRITÓRIO, DE MEDIDAS DE DEFESA SANITÁRIA VEGETAL, CONSTANTES DE LEIS E REGULAMENTOS FEDERAIS."
+    },
+    {
+      "senadoId": "431236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16504",
+      "titulo": "Decreto nº 16.504 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16504",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16504",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 4:947$108, PARA PAGAMENTO, EM VIRTUDE DE SENTENÇA JUDICIÁRIA, A ALEXANDRE CASSANI, FORNECEDOR DE DIVERSOS ARTIGOS PARA AS OBRAS DO INSTITUTO ELETROTÉCNICO."
+    },
+    {
+      "senadoId": "431234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16503",
+      "titulo": "Decreto nº 16.503 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16503",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16503",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 1:017$, PARA PAGAR AS PENSÕES DEVIDAS A DEOLINDA CLAUDIANA SOARES GUIMARÃES."
+    },
+    {
+      "senadoId": "431230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16501",
+      "titulo": "Decreto nº 16.501 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16501",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16501",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 500:000$, PARA EXECUÇÃO DOS SERVIÇOS DE ARRECADAÇÃO DO IMPOSTO SOBRE A RENDA."
+    },
+    {
+      "senadoId": "431242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16507",
+      "titulo": "Decreto nº 16.507 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16507",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16507",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 52:398$787, PARA PAGAMENTO DEVIDO A JOÃO BAPTISTA MANGINI, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "431238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16505",
+      "titulo": "Decreto nº 16.505 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16505",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16505",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES PELOTENSE, DELIBERADA PELA ASSEMBLÉIA GERAL DE 24 DE JANEIRO DE 1922."
+    },
+    {
+      "senadoId": "431244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16508",
+      "titulo": "Decreto nº 16.508 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16508",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16508",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 16.295, DE 29 DE DEZEMBRO DE 1923, QUE ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 9:059$291, PARA PAGAMENTO AO DR. AUGUSTO HADDOCK LOBO E OUTROS, EM VIRTUDE DE SENTENÇA JUDICIÁRIA."
+    },
+    {
+      "senadoId": "431228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16500",
+      "titulo": "Decreto nº 16.500 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16500",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16500",
+      "ementa": "ABRE, PELO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 1.296:690$864, PAPEL E 9:000$, OURO, PARA PAGAMENTO DE DÍVIDAS DE EXERCÍCIO FINDOS."
+    },
+    {
+      "senadoId": "431240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16506",
+      "titulo": "Decreto nº 16.506 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16506",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16506",
+      "ementa": "APROVA A DELIBERAÇÃO DA COMPANHIA DE SEGUROS \"EL FENIX SUDAMERICANO\" AUMENTANDO O SEU CAPITAL DECLARADO PARA AS OPERAÇÕES NO BRASIL DE 650;000$, PARA 1.034:000$000."
+    },
+    {
+      "senadoId": "431232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-06-10-16502",
+      "titulo": "Decreto nº 16.502 de 10/06/1924",
+      "data": "1924-06-10",
+      "numero": "16502",
+      "urn": "urn:lex:br:federal:decreto:1924-06-10;16502",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 7:048$, PARA PAGAMENTO DE DIFERENÇAS DE MONTEPIO DEVIDAS A D. LUIZA MENESCAL."
+    },
+    {
+      "senadoId": "431220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-28-16496",
+      "titulo": "Decreto nº 16.496 de 28/05/1924",
+      "data": "1924-05-28",
+      "numero": "16496",
+      "urn": "urn:lex:br:federal:decreto:1924-05-28;16496",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES QUE REGERÃO OS TRABALHOS DA DELEGAÇÃO PERMANENTE DO BRASIL À LIGA DAS NAÇÕES."
+    },
+    {
+      "senadoId": "431216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-28-16494",
+      "titulo": "Decreto nº 16.494 de 28/05/1924",
+      "data": "1924-05-28",
+      "numero": "16494",
+      "urn": "urn:lex:br:federal:decreto:1924-05-28;16494",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DE 11:200$ PARA PAGAMENTO DA DIFERENÇA DE VENCIMENTOS A QUE TEM DIREITO OS MINISTROS TOGADOS DO SUPREMO TRIBUNAL MILITAR, NO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "431218",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-28-16495",
+      "titulo": "Decreto nº 16.495 de 28/05/1924",
+      "data": "1924-05-28",
+      "numero": "16495",
+      "urn": "urn:lex:br:federal:decreto:1924-05-28;16495",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 85:910$121 PARA PAGAMENTO DO SOLDO DEVIDO AOS OFICIAIS DO EXÉRCITO QUE EXERCERAM CARGOS DE ELEIÇÕES FEDERAIS E ESTADUAIS."
+    },
+    {
+      "senadoId": "431222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-28-16497",
+      "titulo": "Decreto nº 16.497 de 28/05/1924",
+      "data": "1924-05-28",
+      "numero": "16497",
+      "urn": "urn:lex:br:federal:decreto:1924-05-28;16497",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM BOSTON."
+    },
+    {
+      "senadoId": "431226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-28-16499",
+      "titulo": "Decreto nº 16.499 de 28/05/1924",
+      "data": "1924-05-28",
+      "numero": "16499",
+      "urn": "urn:lex:br:federal:decreto:1924-05-28;16499",
+      "ementa": "PUBLICA A ADESÃO DA LETÔNIA ÀS CONVENÇÕES DE BRUXELAS DE 15 DE MARÇO DE 1886, RELATIVAS À PERMUTA DE DOCUMENTOS OFICIAIS E OUTRAS PUBLICAÇÕES."
+    },
+    {
+      "senadoId": "431224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-28-16498",
+      "titulo": "Decreto nº 16.498 de 28/05/1924",
+      "data": "1924-05-28",
+      "numero": "16498",
+      "urn": "urn:lex:br:federal:decreto:1924-05-28;16498",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 100:000$, PARA ATENDER AO PAGAMENTO DA SUBVENÇÃO DEVIDA AO ESTADO DO MARANHÃO, EM 1923, PELA MANUTENÇÃO DO SERVIÇO DE ALGODÃO NAQUELE ESTADO."
+    },
+    {
+      "senadoId": "431206",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16489",
+      "titulo": "Decreto nº 16.489 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16489",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16489",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DE FAZENDA DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "431204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16488",
+      "titulo": "Decreto nº 16.488 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16488",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16488",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DE NAVEGAÇÃO DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "431214",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16493",
+      "titulo": "Decreto nº 16.493 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16493",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16493",
+      "ementa": "CONCEDE À DUNGAN, HOOD & CO., INC. AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16490",
+      "titulo": "Decreto nº 16.490 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16490",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16490",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SCHWEIZERISCHE HANDELSUND INDUSTRIE - GESELLSCHAFT FUR BRASILIAN PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16484",
+      "titulo": "Decreto nº 16.484 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16484",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16484",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 3:209$037, OURO, PARA PAGAMENTO A THE RIO DE JANEIRO CITY IMPROVEMENTS COMPANY, LIMITED, DOS JUROS DE 9% AO ANO  SOBRE O CAPITAL EMPREGADO NOS TRABALHOS DE ESGOTO DE COPACABANA, LEME E IPANEMA, RELATIVOS AOS SETE ÚLTIMOS DIAS DO MÊS DE DEZEMBRO DE 1922."
+    },
+    {
+      "senadoId": "431194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16483",
+      "titulo": "Decreto nº 16.483 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16483",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16483",
+      "ementa": "APROVA OS ORÇAMENTOS, NAS IMPORTÂNCIAS DE 37:920$ E 359,529$ PARA AQUISIÇÃO DE 12 APARELHOS DE MUDANÇA DE VIA, 2 CARROS PARA PASSAGEIROS E 10 VAGÕES, DESTINADOS AO TRECHO EM TRÁFEGO DA ESTRADA DE FERRO SANTA CATARINA ENTRE BLUMENAU E HANSA."
+    },
+    {
+      "senadoId": "431212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16492",
+      "titulo": "Decreto nº 16.492 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16492",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16492",
+      "ementa": "TRANSFERE A SEDE DA ESTAÇÃO GERAL DE EXPERIMENTAÇÃO DE ESCADA, EM PERNAMBUCO, PARA BARREIROS, NO MESMO ESTADO."
+    },
+    {
+      "senadoId": "431200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16486",
+      "titulo": "Decreto nº 16.486 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16486",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16486",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DE PORTOS E COSTAS DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "431202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16487",
+      "titulo": "Decreto nº 16.487 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16487",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16487",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DE SAÚDE DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "431210",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16491",
+      "titulo": "Decreto nº 16.491 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16491",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16491",
+      "ementa": "EMANCIPA O NÚCLEO COLONIAL \"SENADOR CORREA\", NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "431198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-21-16485",
+      "titulo": "Decreto nº 16.485 de 21/05/1924",
+      "data": "1924-05-21",
+      "numero": "16485",
+      "urn": "urn:lex:br:federal:decreto:1924-05-21;16485",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE ESPECIAL DE 2:593$458, PARA PAGAMENTO DA PENSÃO QUE COMPETE A D. IRENE PAS DOS SANTOS, NO PERÍODO DE 23 DE JUNHO DE 1922 A 31 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "431184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16478",
+      "titulo": "Decreto nº 16.478 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16478",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16478",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 1.400:000$, DESTINADA AO CUSTEIO DAS DESPESAS COM AS OBRAS DE CONSTRUÇÃO, ADAPTAÇÃO E INSTALAÇÕES NO PALÁCIO MONROE, PARA FUNCIONAMENTO DO SENADO DA REPÚBLICA."
+    },
+    {
+      "senadoId": "431188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16480",
+      "titulo": "Decreto nº 16.480 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16480",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16480",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 976$, PARA PAGAMENTO DE PENSÃO À MARIA PEREIRA TOJA, NO PERÍODO DE 27 DE ABRIL A 31 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "431180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16476",
+      "titulo": "Decreto nº 16.476 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16476",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16476",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 3:277$185, PARA PAGAMENTO DOS ACRÉSCIMOS DE VENCIMENTOS QUE COMPETEM AO DR. JOÃO DE MORAES MATOS, JUIZ FEDERAL DA SEÇÃO DO TERRITÓRIO DO ACRE, NO PERÍODO DE 11 DE DEZEMBRO DE 1921, A 31 DE DEZEMBRO DE 1922."
+    },
+    {
+      "senadoId": "431190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16481",
+      "titulo": "Decreto nº 16.481 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16481",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16481",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 114:348$722 (CENTO E CATORZE CONTOS TREZENTOS E QUARENTA E OITO MIL SETECENTOS E VINTE E DOIS RÉIS), DAS OBRAS COMPLEMENTARES DAS NOVAS OFICINAS DE LADAINHA, NO PROLONGAMENTO DA ESTRADA DE FERRO BAHIA E MINAS, E BEM ASSIM O ORÇAMENTO, NA IMPORTÂNCIA DE $163.571,00 (CENTO E SESSENTA E TRÊS MIL QUINHENTOS E SETENTA E UM DÓLARES), PARA A AQUISIÇÃO DAS MÁQUINAS MATRIZES E OPERATRIZES NECESSÁRIAS A INSTALAÇÃO DESSAS OFICINAS."
+    },
+    {
+      "senadoId": "431186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16479",
+      "titulo": "Decreto nº 16.479 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16479",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16479",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 4:200$, OURO, PARA PAGAMENTO DO PRÊMIO DE VIAGEM A QUE TEM DIREITO O BACHAREL MÁRIO SEVERO DE ALBUQUERQUE MARANHÃO."
+    },
+    {
+      "senadoId": "431182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16477",
+      "titulo": "Decreto nº 16.477 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16477",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16477",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 596$129, PARA PAGAMENTO NO PERÍODO DE 2 DE AGOSTO A 31 DE DEZEMBRO DE 1922, DA PENSÃO A QUE TEM DIREITO O GUARDA CIVIL DE 2ª CLASSE ANTÔNIO JOSÉ FERNANDES FILHO."
+    },
+    {
+      "senadoId": "431192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-14-16482",
+      "titulo": "Decreto nº 16.482 de 14/05/1924",
+      "data": "1924-05-14",
+      "numero": "16482",
+      "urn": "urn:lex:br:federal:decreto:1924-05-14;16482",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 300.000$, PARA ATENDER AO PAGAMENTO DA SUBVENÇÃO AO ESTADO DE MINAS GERAIS, PELO SERVIÇO DE NAVEGAÇÃO DO RIO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "431176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-12-16474",
+      "titulo": "Decreto nº 16.474 de 12/05/1924",
+      "data": "1924-05-12",
+      "numero": "16474",
+      "urn": "urn:lex:br:federal:decreto:1924-05-12;16474",
+      "ementa": "APROVA A 2ª PARTE DO REGULAMENTO PROVISÓRIO DE TIRO DAS ARMAS PORTÁTEIS."
+    },
+    {
+      "senadoId": "431178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-12-16475",
+      "titulo": "Decreto nº 16.475 de 12/05/1924",
+      "data": "1924-05-12",
+      "numero": "16475",
+      "urn": "urn:lex:br:federal:decreto:1924-05-12;16475",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA DE INTENDÊNCIA."
+    },
+    {
+      "senadoId": "431169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16470",
+      "titulo": "Decreto nº 16.470 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16470",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16470",
+      "ementa": "APROVA AS NOVAS ALTERAÇÔES DOS ESTATUTOS DA COMPANHIA AÇUCAREIRA FLUMINENSE."
+    },
+    {
+      "senadoId": "431161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16466",
+      "titulo": "Decreto nº 16.466 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16466",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16466",
+      "ementa": "APROVA, COM MODIFICAÇÕES, A REFORMA DOS ESTATUTOS DA SOCIEDADE ANÔNIMA INDÚSTRIAS REUNIDAS FÁBRICAS MATARAZZO."
+    },
+    {
+      "senadoId": "431149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16460",
+      "titulo": "Decreto nº 16.460 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16460",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16460",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO DO SORTEIO PARA A ARMADA."
+    },
+    {
+      "senadoId": "431157",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16464",
+      "titulo": "Decreto nº 16.464 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16464",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16464",
+      "ementa": "DECLARA A CADUCIDADE DA CONCESSÃO FEITA ÀS COMPANHIAS FRANCESAS \"SOCIEDADE GÉNÉRALE DES TÉLÉPHONES\", E \"SOCIETÉ FRANÇAISE DES TÉLÉGRAPHES SOUS MARINS\" E POR ESTAS TRANSFERIDA À \"COMPAGNIE FRANÇAISE DES CABLES TÉLÉGRAPHIQUES\", PARA O ESTABELECIMENTO DE COMUNICAÇÕES TELEGRÁFICAS, POR MEIO DE UM OU MAIS CABOS SUBMARINOS, ENTRE O ESTADO DO PARÁ E O LITORAL DOS ESTADOS UNIDOS DA AMÉRICA DO NORTE NA FORMA DO DECRETO NÚMERO 216 A , DE 22 DE FEVEREIRO DE 1890."
+    },
+    {
+      "senadoId": "431155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16463",
+      "titulo": "Decreto nº 16.463 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16463",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16463",
+      "ementa": "APROVA O ORÇAMENTO, NAS IMPORTÂNCIAS DE FRS. B. 926.864 (NOVECENTOS E VINTE E SEIS MIL OITOCENTOS E SESSENTA E QUATRO FRANCOS BELGAS), 4.307$750 (QUATRO CONTOS TREZENTOS E SETE MIL SETECENTOS E CINCOENTA RÉIS), PAPEL, E 14:440$000 (QUATORZE CONTOS QUATROCENTOS E QUARENTA MIL RÉIS), OURO, PARA A AQUISIÇÃO PELA \"COMPANHIA GERAL DE MELHORAMENTOS DO MARANHÃO\", DO MATERIAL METÁLICO DESTINADO AO SERVIÇOS CONCERNENTES AO CONJUNTO DE OBRAS DE QUE É CONTRATANTE."
+    },
+    {
+      "senadoId": "431174",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16473",
+      "titulo": "Decreto nº 16.473 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16473",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16473",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA ATLANTIS (BRASIL), LIMITED, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16469",
+      "titulo": "Decreto nº 16.469 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16469",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16469",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NOS ESTATUTOS DO BRAZILIAN MEAT COMPANY."
+    },
+    {
+      "senadoId": "431163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16467",
+      "titulo": "Decreto nº 16.467 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16467",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16467",
+      "ementa": "CONCEDE AUTORIZAÇÃO PARA FUNCIONAR À SOCIEDADE ANÔNIMA REFINADORA PAULISTA, RESULTANTE DA FUSÃO DA SOCIEDADE DO MESMO NOME E DAS COMPANHIAS UNIÃO AGRÍCOLA E ENGENHO CENTRAL DE PORTO REAL, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16465",
+      "titulo": "Decreto nº 16.465 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16465",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16465",
+      "ementa": "PRORROGA, POR MAIS DOIS ANOS, OS PRAZOS ESTIPULADOS NOS DECRETOS NÚMEROS 12.735, DE 5 DE DEZEMBRO DE 1917, E 15.471, DE 10 DE MAIO DE 1922."
+    },
+    {
+      "senadoId": "431165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16468",
+      "titulo": "Decreto nº 16.468 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16468",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16468",
+      "ementa": "CONCEDE À COMPANHIA INDUSTRIAL DE CRUZEIRO AUTORIZAÇÃO, PARA FUNCIONAR E APROVA COM ALTERAÇÕES, OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431153",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16462",
+      "titulo": "Decreto nº 16.462 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16462",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16462",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE MIL CONTOS DE RÉIS (1.000$), PARA CONCLUSÃO DO PROLONGAMENTO DA ESTRADA DE FERRO TERESÓPOLIS, ATÉ SEBASTIANA."
+    },
+    {
+      "senadoId": "431172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16472",
+      "titulo": "Decreto nº 16.472 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16472",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16472",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO O CRÉDITO ESPECIAL DE 466:551$377, PARA OS SERVIÇOS DECORRENTES DAS VERBAS 14, 18 E 27, DO ARTIGO 46 DA LEI 4.242, DE 5 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "431151",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-05-07-16461",
+      "titulo": "Decreto nº 16.461 de 07/05/1924",
+      "data": "1924-05-07",
+      "numero": "16461",
+      "urn": "urn:lex:br:federal:decreto:1924-05-07;16461",
+      "ementa": "APROVA E MANDA EXECUTAR O REGULAMENTO PARA A DIRETORIA DO PESSOAL DO MINISTÉRIO DA MARINHA."
+    },
+    {
+      "senadoId": "431143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-30-16457",
+      "titulo": "Decreto nº 16.457 de 30/04/1924",
+      "data": "1924-04-30",
+      "numero": "16457",
+      "urn": "urn:lex:br:federal:decreto:1924-04-30;16457",
+      "ementa": "PERMITE QUE OS PRESIDENTES DE MESAS ELEITORAIS NO ESTADO DO RIO GRANDE DO SUL, NOMEIEM UM ELEITOR DA SEÇÃO RESPECTIVA PARA SUBSTITUIR O MESÁRIO FALTOSO."
+    },
+    {
+      "senadoId": "431145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-30-16458",
+      "titulo": "Decreto nº 16.458 de 30/04/1924",
+      "data": "1924-04-30",
+      "numero": "16458",
+      "urn": "urn:lex:br:federal:decreto:1924-04-30;16458",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 2.892:000$, PARA OCORRER ÀS DESPESAS REALIZADAS EM 1923, COM A CONTINUAÇÃO  DOS PROLONGAMENTOS E RAMAIS EM CONSTRUÇÃO NA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "431147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-30-16459",
+      "titulo": "Decreto nº 16.459 de 30/04/1924",
+      "data": "1924-04-30",
+      "numero": "16459",
+      "urn": "urn:lex:br:federal:decreto:1924-04-30;16459",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 1.491:557$402, DESTINADO A SALDAR COMPROMISSOS DE PAGAMENTO DE PESSOAL, MATERIAL E DESAPROPRIAÇÕES RELATIVOS ÀS OBRAS DA DUPLICAÇÃO DO RAMAL DE S. PAULO, ETC., REALIZADAS EM 1923, NA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "431141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-28-16456",
+      "titulo": "Decreto nº 16.456 de 28/04/1924",
+      "data": "1924-04-28",
+      "numero": "16456",
+      "urn": "urn:lex:br:federal:decreto:1924-04-28;16456",
+      "ementa": "SUSPENDE O FECHAMENTO DA UNIÃO DOS OPERÁRIOS ESTIVADORES."
+    },
+    {
+      "senadoId": "431139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-16-16455",
+      "titulo": "Decreto nº 16.455 de 16/04/1924",
+      "data": "1924-04-16",
+      "numero": "16455",
+      "urn": "urn:lex:br:federal:decreto:1924-04-16;16455",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 4:200$, OURO, PARA PAGAMENTO DE PRÊMIO DE VIAGEM AO ESTRANGEIRO AO ENGENHEIRO CIVIL E DE MINAS, JOSÉ BATISTA DE OLIVEIRA."
+    },
+    {
+      "senadoId": "431137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-16-16454",
+      "titulo": "Decreto nº 16.454 de 16/04/1924",
+      "data": "1924-04-16",
+      "numero": "16454",
+      "urn": "urn:lex:br:federal:decreto:1924-04-16;16454",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 7.602:406$567 (SETE MIL SEISCENTOS E DOIS CONTOS QUATROCENTOS E SEIS MIL QUINHENTOS E SESSENTA E SETE RÉIS), DAS OBRAS NECESSÁRIAS À CONCLUSÃO DOS RAMAIS DE ITAJUBÁ A SOLEDADE DE ITAJUBÁ, E DE LAVRAS, ENTRE CARMO DA CACHOEIRA E A CIDADE DE LAVRAS, E ENTRE TRÊS CORAÇÕES E CARMO DA CACHOEIRA, DA REDE DE VIAÇÃO SUL-MINEIRA."
+    },
+    {
+      "senadoId": "431127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-09-16449",
+      "titulo": "Decreto nº 16.449 de 09/04/1924",
+      "data": "1924-04-09",
+      "numero": "16449",
+      "urn": "urn:lex:br:federal:decreto:1924-04-09;16449",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 12:464$558 (DOZE CONTOS E QUATROCENTOS E SESSENTA E QUATRO MIL QUINHENTOS E CINCOENTA E OITO RÉIS), PARA ATENDER AO PAGAMENTO DE DIFERENÇA DE VENCIMENTOS AO ENGENHEIRO JOSÉ ANTONIO MARTINS ROMEU."
+    },
+    {
+      "senadoId": "431135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-09-16453",
+      "titulo": "Decreto nº 16.453 de 09/04/1924",
+      "data": "1924-04-09",
+      "numero": "16453",
+      "urn": "urn:lex:br:federal:decreto:1924-04-09;16453",
+      "ementa": "ALTERA O ARTIGO 114., 4º, DO REGULAMENTO PARA OS COLÉGIOS MILITARES."
+    },
+    {
+      "senadoId": "431133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-09-16452",
+      "titulo": "Decreto nº 16.452 de 09/04/1924",
+      "data": "1924-04-09",
+      "numero": "16452",
+      "urn": "urn:lex:br:federal:decreto:1924-04-09;16452",
+      "ementa": "PROMULGA A CONVENÇÃO ESPECIAL SOBRE PROPRIEDADE LITERÁRIA E ARTÍSTICA, DE 1922, COM PORTUGAL."
+    },
+    {
+      "senadoId": "431129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-09-16450",
+      "titulo": "Decreto nº 16.450 de 09/04/1924",
+      "data": "1924-04-09",
+      "numero": "16450",
+      "urn": "urn:lex:br:federal:decreto:1924-04-09;16450",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 1:785$375, PARA PAGAMENTO DE ACRÉSCIMOS DE VENCIMENTOS AO JUIZ FEDERAL NA SEÇÃO DO ESTADO DE PERNAMBUCO, DR. FRANCISCO TAVARES DA CUNHA MELO, NO PERÍODO DE 24 DE FEVEREIRO DE 1922 A 31 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "431131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-09-16451",
+      "titulo": "Decreto nº 16.451 de 09/04/1924",
+      "data": "1924-04-09",
+      "numero": "16451",
+      "urn": "urn:lex:br:federal:decreto:1924-04-09;16451",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 5:400$, PARA ATENDER AO PAGAMENTO DE VENCIMENTOS QUE COMPETEM A UM ESCRIVÃO DA AUDITORIA DA 6ª CIRCUNSCRIÇÃO JUDICIÁRIA MILITAR."
+    },
+    {
+      "senadoId": "431125",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-05-16448",
+      "titulo": "Decreto nº 16.448 de 05/04/1924",
+      "data": "1924-04-05",
+      "numero": "16448",
+      "urn": "urn:lex:br:federal:decreto:1924-04-05;16448",
+      "ementa": "CONCEDE ISENÇÃO DE DIREITOS DE IMPORTAÇÃO PARA CONSUMO E EXPEDIENTE AS FRUTAS FRESCAS DE PROCEDÊNCIA DA REPÚBLICA DOS ESTADOS UNIDOS DA AMÉRICA."
+    },
+    {
+      "senadoId": "431121",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-05-16446",
+      "titulo": "Decreto nº 16.446 de 05/04/1924",
+      "data": "1924-04-05",
+      "numero": "16446",
+      "urn": "urn:lex:br:federal:decreto:1924-04-05;16446",
+      "ementa": "SUSPENDE  O ESTADO DE SÍTIO, DECRETADO PARA O ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "431123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-05-16447",
+      "titulo": "Decreto nº 16.447 de 05/04/1924",
+      "data": "1924-04-05",
+      "numero": "16447",
+      "urn": "urn:lex:br:federal:decreto:1924-04-05;16447",
+      "ementa": "CONCEDE ISENÇÃO DE DIREITOS DE IMPORTAÇÃO PARA O CONSUMO E EXPEDIENTE ÀS FRUTAS FRESCAS DE PROCEDÊNCIA DA REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "431111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16441",
+      "titulo": "Decreto nº 16.441 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16441",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16441",
+      "ementa": "CRIA UMA ESTAÇÃO GERAL DE EXPERIMENTAÇÃO NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431109",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16440",
+      "titulo": "Decreto nº 16.440 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16440",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16440",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA INDUSTRIAL MATARAZZO, DE MATO GROSSO, AUTORIZAÇÃO PARA FUNCIONAR E APROVAR, COM ALTERAÇÃO OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "431115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16443",
+      "titulo": "Decreto nº 16.443 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16443",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16443",
+      "ementa": "CRIA NO MUNICÍPIO DE PONTA GROSSA, NO ESTADO DO PARANÁ, UMA ESTAÇÃO EXPERIMENTAL DE TRIGO, CENTEIO, AVEIA, CEVADA E LINHO."
+    },
+    {
+      "senadoId": "431119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16445",
+      "titulo": "Decreto nº 16.445 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16445",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16445",
+      "ementa": "PUBLICA A ADESÃO DA ESPANHA ÁS CONVENÇÕES DE BRUXELAS PARA A UNIFICAÇÃO DE CERTAS REGRAS EM MATÉRIA DE ABALROAMENTO, DE ASSISTÊNCIA E DE SALVAMENTO MARÍTIMOS."
+    },
+    {
+      "senadoId": "431107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16439",
+      "titulo": "Decreto nº 16.439 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16439",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16439",
+      "ementa": "AUTORIZA A CELEBRAÇÃO COM A \"SOCIETÉ DE CONSTRUCTION DU PORT DE BAHIA\" E COM A COMPANHIA NACIONAL DE CONSTRUÇÕES CIVIS E HIDRÁULICAS, O CONTRATO PARA A CONSTRUÇÃO DO PROLONGAMENTO DO CAIS DO PORTO, DESTA CAPITAL, EM SUBSTITUIÇÃO AOS CELEBRADOS EM VIRTUDE DOS DECRETOS NÚMEROS 15.151, DE 1 DE DEZEMBRO DE 1921, E 15.450, DE 25 DE ABRIL DE 1922."
+    },
+    {
+      "senadoId": "431113",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16442",
+      "titulo": "Decreto nº 16.442 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16442",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16442",
+      "ementa": "APROVA E MANDA EXECUTAR AS TABELAS DE DISTRIBUIÇÃO DE RAÇÕES."
+    },
+    {
+      "senadoId": "431117",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-04-02-16444",
+      "titulo": "Decreto nº 16.444 de 02/04/1924",
+      "data": "1924-04-02",
+      "numero": "16444",
+      "urn": "urn:lex:br:federal:decreto:1924-04-02;16444",
+      "ementa": "APROVA O REGULAMENTO DO ABRIGO DE MENORES DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "431097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16434",
+      "titulo": "Decreto nº 16.434 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16434",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16434",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS, COM A EXTENSÃO DE 10.152 METROS, DE UMA VARIANTE ENTRE OS QUILÔMETROS 196 E 207, DA ESTRADA DE FERRO E PETROLINA A TEREZINA, E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 1.002:496$295 (MIL E DOIS CONTOS QUATROCENTOS E NOVENTA E SEIS MIL DUZENTOS E NOVENTA E CINCO RÉIS)."
+    },
+    {
+      "senadoId": "431099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16435",
+      "titulo": "Decreto nº 16.435 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16435",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16435",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 2:106$, PARA PAGAMENTO DOS VENCIMENTOS A QUE FEZ JÚS EM 1923, HERMENEGILDO MELHADO BUSTOS."
+    },
+    {
+      "senadoId": "431093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16432",
+      "titulo": "Decreto nº 16.432 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16432",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16432",
+      "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NAS IMPORTÂNCIAS DE 2.535:905$095, E FRS. 184.241,68, PARA EXECUÇÃO DE PARTE DAS OBRAS NECESSÁRIAS À MANUTENÇÃO DA REGULARIDADE DO TRÁFEGO NA LINHA DE TIMBÓ A PROPRIÁ, DA REDE DE VIAÇÃO FÉRREA FEDERAL ARRENDADA À COMPANHIA FERROVIÁRIA E´STE BRASILEIRO."
+    },
+    {
+      "senadoId": "431101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16436",
+      "titulo": "Decreto nº 16.436 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16436",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16436",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO SUPLEMENTAR DE 420:018$165, PARA SUPRIR DEFICIÊNCIAS DOS CRÉDITOS CONSIGNADOS NAS VERBAS 20, 28, 17, 18 E 41 DO ARTIGO 2º DA LEI NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "431103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16437",
+      "titulo": "Decreto nº 16.437 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16437",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16437",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES OS CRÉDITOS ESPECIAIS DE 70:186$, 270$, 105$ E 58$500 PARA PAGAMENTO RESPECTIVAMENTE, DA REIMPRESSÃO DOS ANAIS DA CONSTITUINTE REPUBLICANA E DE ADICIONAIS A FUNCIONÁRIOS DA SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "431095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16433",
+      "titulo": "Decreto nº 16.433 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16433",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16433",
+      "ementa": "CONCEDE À COMPANHIA GUARUJÁ ISENÇÃO DE DIREITOS ADUANEIROS PARA O MATERIAL IMPORTADO E DESTINADO À ELETRIFICAÇÃO DA LINHA FÉRREA DE SUA PROPRIEDADE DE ITAPEMA AO GUARUJÁ, NO MUNICÍPIO DE SANTOS, ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-29-16438",
+      "titulo": "Decreto nº 16.438 de 29/03/1924",
+      "data": "1924-03-29",
+      "numero": "16438",
+      "urn": "urn:lex:br:federal:decreto:1924-03-29;16438",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO SUPLEMENTAR DE 113:668$193, A DIVERSAS CONSIGNAÇÕES DA VERBA 15ª DO ARTIGO 2º DA LEI NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "431085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-27-16427",
+      "titulo": "Decreto nº 16.427 de 27/03/1924",
+      "data": "1924-03-27",
+      "numero": "16427",
+      "urn": "urn:lex:br:federal:decreto:1924-03-27;16427",
+      "ementa": "APROVA A UNIÃO DOS BANCOS \"THE LONDON AND RIVER PLATE BANK, LIMITED\" E \"LONDON AND BRASILIAN BANK, LIMITED\" E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431087",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-27-16428",
+      "titulo": "Decreto nº 16.428 de 27/03/1924",
+      "data": "1924-03-27",
+      "numero": "16428",
+      "urn": "urn:lex:br:federal:decreto:1924-03-27;16428",
+      "ementa": "TRANSFERE OS SALDOS DAS QUOTAS LOTERICAS DO INSTITUTO SALESIANO DO DISTRITO FEDERAL E DO COLEGIO SALESIANO DE TERESINA PARA A ESCOLA AGRICOLA SALESIANA E SANTA CASA E SÃO GABRIEL, NO RIO NEGRO, AMAZONAS."
+    },
+    {
+      "senadoId": "431083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-27-16426",
+      "titulo": "Decreto nº 16.426 de 27/03/1924",
+      "data": "1924-03-27",
+      "numero": "16426",
+      "urn": "urn:lex:br:federal:decreto:1924-03-27;16426",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 33:915$, DESTINADO AO PAGAMENTO, NO EXERCÍCIO DE 1923, DO PESSOAL DA OFICINA DE ELETRICIDADE DA CASA DA MOEDA."
+    },
+    {
+      "senadoId": "431081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-27-16425",
+      "titulo": "Decreto nº 16.425 de 27/03/1924",
+      "data": "1924-03-27",
+      "numero": "16425",
+      "urn": "urn:lex:br:federal:decreto:1924-03-27;16425",
+      "ementa": "CASSA A AUTORIZAÇÃO CONCEDIDA À COMPANHIA \"CRUZEIRO DO SUL\", COM SEDE NESTA CAPITAL, PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-27-16430",
+      "titulo": "Decreto nº 16.430 de 27/03/1924",
+      "data": "1924-03-27",
+      "numero": "16430",
+      "urn": "urn:lex:br:federal:decreto:1924-03-27;16430",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DE SEGUROS \"PREVIDENTE\", DELIBERADA, PELAS ASSEMBLÉIAS GERAIS DE 28 DE JUNHO E 20 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "431079",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-26-16424",
+      "titulo": "Decreto nº 16.424 de 26/03/1924",
+      "data": "1924-03-26",
+      "numero": "16424",
+      "urn": "urn:lex:br:federal:decreto:1924-03-26;16424",
+      "ementa": "PUBLICA A ADESÃO DA ESTÔNIA AO AJUSTE, ABAIXO MENCIONADO, DO CONGRESSO POSTAL UNIVERSAL DE MADRID."
+    },
+    {
+      "senadoId": "431077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-21-16423",
+      "titulo": "Decreto nº 16.423 de 21/03/1924",
+      "data": "1924-03-21",
+      "numero": "16423",
+      "urn": "urn:lex:br:federal:decreto:1924-03-21;16423",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 174:231$203, PARA PAGAMENTO À D. MARIANNA CUNHA DE VASCONCELLOS E FILHOS."
+    },
+    {
+      "senadoId": "431073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-19-16421",
+      "titulo": "Decreto nº 16.421 de 19/03/1924",
+      "data": "1924-03-19",
+      "numero": "16421",
+      "urn": "urn:lex:br:federal:decreto:1924-03-19;16421",
+      "ementa": "REVOGA OS DECRETOS PELOS QUAIS FOI CONCEDIDA AUTORIZAÇÃO À COMPANHIA CALÇADO CLARK, LIMITED, PARA FUNCIONAR NA REPÚBLICA E CASSA AS RESPECTIVAS CARTAS."
+    },
+    {
+      "senadoId": "431067",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-19-16418",
+      "titulo": "Decreto nº 16.418 de 19/03/1924",
+      "data": "1924-03-19",
+      "numero": "16418",
+      "urn": "urn:lex:br:federal:decreto:1924-03-19;16418",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA O CRÉDITO ESPECIAL DE RÉIS 15:546$, PARA OCORRER AO PAGAMENTO DA SOCIEDADE PORTUGUESA BENEFICIENTE DO AMAZONAS."
+    },
+    {
+      "senadoId": "431075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-19-16422",
+      "titulo": "Decreto nº 16.422 de 19/03/1924",
+      "data": "1924-03-19",
+      "numero": "16422",
+      "urn": "urn:lex:br:federal:decreto:1924-03-19;16422",
+      "ementa": "DECLARA O ESTADO DE SÍTIO POR TRINTA DIAS, NO ESTADO DA BAHIA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-19-16419",
+      "titulo": "Decreto nº 16.419 de 19/03/1924",
+      "data": "1924-03-19",
+      "numero": "16419",
+      "urn": "urn:lex:br:federal:decreto:1924-03-19;16419",
+      "ementa": "ESTABELECE PROVIDÊNCIAS SOBRE A CARESTIA DE GÊNEROS DESTINADOS À ALIMENTAÇÃO."
+    },
+    {
+      "senadoId": "431071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-19-16420",
+      "titulo": "Decreto nº 16.420 de 19/03/1924",
+      "data": "1924-03-19",
+      "numero": "16420",
+      "urn": "urn:lex:br:federal:decreto:1924-03-19;16420",
+      "ementa": "REVOGA O DECRETO PELO QUAL FOI CONCEDIDA A ITÁLIA-AMÉRICA, SOCIEDADE ANÔNIMA DE EMPRESAS MARÍTIMAS, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA E CASSA A RESPECTIVA CARTA."
+    },
+    {
+      "senadoId": "431065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-15-16417",
+      "titulo": "Decreto nº 16.417 de 15/03/1924",
+      "data": "1924-03-15",
+      "numero": "16417",
+      "urn": "urn:lex:br:federal:decreto:1924-03-15;16417",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE RÉIS 265:850$869, PARA OCORRER AO PAGAMENTO, NO CORRENTE ANO, DOS VENCIMENTOS DOS MEMBROS DE MAGISTRATURA E DO MINISTÉRIO PÚBLICO DA JUSTIÇA DO DISTRITO FEDERAL, POSTOS EM DISPONIBILIDADE, EM VIRTUDE DO ARTIGO 338, DO DECRETO NÚMERO 16.273, DE 20 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "431059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-13-16414",
+      "titulo": "Decreto nº 16.414 de 13/03/1924",
+      "data": "1924-03-13",
+      "numero": "16414",
+      "urn": "urn:lex:br:federal:decreto:1924-03-13;16414",
+      "ementa": "PUBLICA A ADESÃO DA ILHA REUNIÃO À CONVENÇÃO RADIOTELEGRÁFICA INTERNACIONAL ASSINADA EM LONDRES A 5 DE JULHO DE 1912."
+    },
+    {
+      "senadoId": "431063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-13-16416",
+      "titulo": "Decreto nº 16.416 de 13/03/1924",
+      "data": "1924-03-13",
+      "numero": "16416",
+      "urn": "urn:lex:br:federal:decreto:1924-03-13;16416",
+      "ementa": "PUBLICA A ADESÃO DO DOMÍNIO DE CANADÁ A CONVENÇÃO DE BERNA, PARA A PROTEÇÃO DE OBRAS LITERÁRIAS E ARTÍSTICAS, REVISTA EM BERLIM A 13 DE NOVEMBRO DE 1908."
+    },
+    {
+      "senadoId": "431061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-13-16415",
+      "titulo": "Decreto nº 16.415 de 13/03/1924",
+      "data": "1924-03-13",
+      "numero": "16415",
+      "urn": "urn:lex:br:federal:decreto:1924-03-13;16415",
+      "ementa": "PROMULGA A ADESÃO DO BRASIL AO AJUSTE RELATIVO Á CONSERVAÇÃO OU AO RESTABELECIMENTO DOS DIREITOS DE PROPRIEDADE INDUSTRIAL ATINGIDOS PELA GUERRA MUNDIAL, ASSINADO EM BERNA A 30 DE JUNHO DE 1920."
+    },
+    {
+      "senadoId": "431057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-13-16413",
+      "titulo": "Decreto nº 16.413 de 13/03/1924",
+      "data": "1924-03-13",
+      "numero": "16413",
+      "urn": "urn:lex:br:federal:decreto:1924-03-13;16413",
+      "ementa": "FAZ PÚBLICA A DECLARAÇÃO DE HUNGRIA SOBRE A CONVENÇÃO SANITÁRIA INTERNACIONAL DE 1903."
+    },
+    {
+      "senadoId": "431055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-13-16412",
+      "titulo": "Decreto nº 16.412 de 13/03/1924",
+      "data": "1924-03-13",
+      "numero": "16412",
+      "urn": "urn:lex:br:federal:decreto:1924-03-13;16412",
+      "ementa": "CRIA UMA REPRESENTAÇÃO PERMANENTE NO BRASIL JUNTO À LIGA DAS NAÇÕES."
+    },
+    {
+      "senadoId": "431041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16405",
+      "titulo": "Decreto nº 16.405 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16405",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16405",
+      "ementa": "APROVA OS PLANOS E PROJETOS PARA ELETRIFICAÇÃO DA LINHA FÉRREA DE ITAPEMA DO GUARUJÁ, COM NOVE KILÔMETROS DE EXTENSÃO, NO MUNICÍPIO DE SANTOS, ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "431051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16410",
+      "titulo": "Decreto nº 16.410 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16410",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16410",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 45:260$, PARA PAGAMENTO, EM 1923, DE DIÁRIAS AOS OFICIAIS DE JUSTIÇA DAS VARAS CRIMINAIS E PRETORIAS DESTA CAPITAL."
+    },
+    {
+      "senadoId": "431033",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16401",
+      "titulo": "Decreto nº 16.401 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16401",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16401",
+      "ementa": "SUPRIME UM LUGAR DE 2º ESCRITURÁRIO DO QUADRO SUPLEMENTAR DA INSPETORIA FEDERAL DAS ESTRADAS."
+    },
+    {
+      "senadoId": "431039",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16404",
+      "titulo": "Decreto nº 16.404 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16404",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16404",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 49:829$048, RELATIVOS À CONSTRUÇÃO DE UM POSTO TELEGRÁFICO NO RAMAL DE TIBAGI, DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "431049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16409",
+      "titulo": "Decreto nº 16.409 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16409",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16409",
+      "ementa": "MANDA ALTERAR OS CUNHOS DAS MOEDAS DIVISIONÁRIAS DE PRATA DO VALOR DE 2$ E DE COBRE E ALUMÍNIO DOS VALOES DE 1$ E 500 RÉIS."
+    },
+    {
+      "senadoId": "431053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16411",
+      "titulo": "Decreto nº 16.411 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16411",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16411",
+      "ementa": "CONCEDE À MELBA MANUFACTURING COMPANY AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "431047",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16408",
+      "titulo": "Decreto nº 16.408 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16408",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16408",
+      "ementa": "REGULA A SITUAÇÃO DOS ALUNOS DA EXTINTA ESCOLA DE MAQUINISTAS AUXILIARES, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16402",
+      "titulo": "Decreto nº 16.402 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16402",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16402",
+      "ementa": "AUTORIZA A CELEBRAÇÃO DO CONTRATO COM A EMPRESA LLOYD MARANHENSE, PARA O SERVIÇO DE NAVEGAÇÃO DOS RIOS ITAPICURÚ, MEARIM, PINDARÉ E MUNIM, NO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "431043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16406",
+      "titulo": "Decreto nº 16.406 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16406",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16406",
+      "ementa": "DA NOVA ORGANIZAÇÃO A ESCOLA NAVAL."
+    },
+    {
+      "senadoId": "431045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16407",
+      "titulo": "Decreto nº 16.407 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16407",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16407",
+      "ementa": "ESTABELECE A SITUAÇÃO DOS SARGENTOS DA ARMADA, EM FACE DO ARTIGO 6º DO DECRETO NÚMERO 16.213, DE 28 DE NOVEMBRO DE 1923 E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "431037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-12-16403",
+      "titulo": "Decreto nº 16.403 de 12/03/1924",
+      "data": "1924-03-12",
+      "numero": "16403",
+      "urn": "urn:lex:br:federal:decreto:1924-03-12;16403",
+      "ementa": "EXTINGUE A CAIXA ESPECIAL DAS OBRAS DE IRRIGAÇÃO DE TERRAS CULTIVÁVEIS NO NORDESTE BRASILEIRO, E DÁ OUTRAS PROVIDÊNCIAS DECORRENTES DESTA EXTINÇÃO."
+    },
+    {
+      "senadoId": "431031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-11-16400",
+      "titulo": "Decreto nº 16.400 de 11/03/1924",
+      "data": "1924-03-11",
+      "numero": "16400",
+      "urn": "urn:lex:br:federal:decreto:1924-03-11;16400",
+      "ementa": "MANDA FECHAR, POR TRÊS MESES, A UNIÃO DOS OPERÁRIOS ESTIVADORES."
+    },
+    {
+      "senadoId": "431029",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-03-08-16399",
+      "titulo": "Decreto nº 16.399 de 08/03/1924",
+      "data": "1924-03-08",
+      "numero": "16399",
+      "urn": "urn:lex:br:federal:decreto:1924-03-08;16399",
+      "ementa": "MARCA DATA PARA ORGANIZAÇÃO DAS MESAS PARA AS ELEIÇÕES DE 3 DE MAIO PRÓXIMO, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "431001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16385",
+      "titulo": "Decreto nº 16.385 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16385",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16385",
+      "ementa": "APROVA PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 112:768$634, DE MELHORAMENTOS E INSTALAÇÕES A SEREM EXECUTADOS NAS OFICINAS DE AMAURI E PERIPERI, DA REDE DE VIAÇÃO FÉRREA FEDERAL A CARGO DA \"COMPANHIA FERROVIÁRIA E'STE BRASILEIRO\"."
+    },
+    {
+      "senadoId": "431021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16395",
+      "titulo": "Decreto nº 16.395 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16395",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16395",
+      "ementa": "APROVA A REFORMA DE ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES \"GARANTIA\", DELIBERADA PELAS ASSEMBLÉIAS GERAIS DE 29 DE SETEMBRO DE 1923 E 5 DE JANEIRO DE 1924."
+    },
+    {
+      "senadoId": "431017",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16393",
+      "titulo": "Decreto nº 16.393 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16393",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16393",
+      "ementa": "ALTERA O REGULAMENTO DA ESCOLA DE ESTADO MAIOR."
+    },
+    {
+      "senadoId": "431007",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16388",
+      "titulo": "Decreto nº 16.388 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16388",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16388",
+      "ementa": "APROVA O REGULAMENTO DO CONSELHO DE ASSISTÊNCIA E PROTEÇÃO DOS MENORES."
+    },
+    {
+      "senadoId": "431011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16390",
+      "titulo": "Decreto nº 16.390 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16390",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16390",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 930$, PARA OCORRER AO PAGAMENTO DE PENSÃO AO GUARDA CIVIL DE PRIMEIRA CLASSE AUGUSTO MOREIRA DA FONSECA."
+    },
+    {
+      "senadoId": "431015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16392",
+      "titulo": "Decreto nº 16.392 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16392",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16392",
+      "ementa": "ESTABELECE A ADMINISTRAÇÃO DA FUNDAÇÃO OZÓRIO."
+    },
+    {
+      "senadoId": "431003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16386",
+      "titulo": "Decreto nº 16.386 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16386",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16386",
+      "ementa": "RESCINDE, POR ACORDO, O CONTRATO CELEBRADO COM A COMPANHIA DE NAVEGAÇÃO BAHIANA EM VIRTUDE DO DECRETO NÚMERO 15.881, DE 15 DE DEZEMBRO DE 1922."
+    },
+    {
+      "senadoId": "431013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16391",
+      "titulo": "Decreto nº 16.391 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16391",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16391",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 19:200$, PARA PAGAMENTO A DOIS MÉDICOS ASSISTENTES DA INSPETORIA DE FISCALIZAÇÃO DO EXERCÍCIO DA MEDICINA, FARMÁCIA, ARTE DENTÁRIA E OBSTETRÍCIA, DOS VENCIMENTOS RELATIVOS AO EXERCÍCIO DE 1923."
+    },
+    {
+      "senadoId": "431009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16389",
+      "titulo": "Decreto nº 16.389 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16389",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16389",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 9:793$760, PARA INDENIZAR O BANCO DO BRASIL DO PAGAMENTO QUE FEZ A BROMBER & COMP., DE HAMBURGO, PELO FORNECIMENTO DE UMA PRENSA AUTOMÁTICA PARA A INSPETORIA DE DEMOGRAFIA SANITÁRIA."
+    },
+    {
+      "senadoId": "431023",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16396",
+      "titulo": "Decreto nº 16.396 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16396",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16396",
+      "ementa": "REGULA A CONCESSÃO DE FAVORES ÁS EMPRESAS OU COMPANHIAS LEGALMENTE CONSTITUÍDAS NO PAÍS PARA EXPLORAR O DESENVOLVIMENTO DA CULTURA E BENEFICIAMENTO DO ALGODÃO E FABRICAÇÃO DOS SEUS SUB-PRODUTOS."
+    },
+    {
+      "senadoId": "431025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16397",
+      "titulo": "Decreto nº 16.397 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16397",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16397",
+      "ementa": "CRIA A LEGAÇÃO DO BRASIL NO EGITO."
+    },
+    {
+      "senadoId": "431027",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16398",
+      "titulo": "Decreto nº 16.398 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16398",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16398",
+      "ementa": "SUPRIME A LEGAÇÃO DO BRASIL NA GRÉCIA."
+    },
+    {
+      "senadoId": "431005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16387",
+      "titulo": "Decreto nº 16.387 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16387",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16387",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 27:130$, PARA PAGAMENTO DE DIÁRIAS A OFICIAIS QUE SERVIRAM NAS COMPANHIAS REGIONAIS DO ACRE."
+    },
+    {
+      "senadoId": "431019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-27-16394",
+      "titulo": "Decreto nº 16.394 de 27/02/1924",
+      "data": "1924-02-27",
+      "numero": "16394",
+      "urn": "urn:lex:br:federal:decreto:1924-02-27;16394",
+      "ementa": "APROVA O REGULAMENTO PARA A ESCOLA MILITAR."
+    },
+    {
+      "senadoId": "430999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-22-16384",
+      "titulo": "Decreto nº 16.384 de 22/02/1924",
+      "data": "1924-02-22",
+      "numero": "16384",
+      "urn": "urn:lex:br:federal:decreto:1924-02-22;16384",
+      "ementa": "APROVA AS INSTRUÇÕES PARA AS ELEIÇÕES FEDERAIS NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "430995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16382",
+      "titulo": "Decreto nº 16.382 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16382",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16382",
+      "ementa": "REVOGA O DECRETO QUE CONCEDEU AUTORIZAÇÃO À SOCIEDADE ANÔNIMA THE FOUNDATION COMPANY, PARA FUNCIONAR NA REPÚBLICA E CASSA A RESPECTIVA CARTA."
+    },
+    {
+      "senadoId": "430983",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16376",
+      "titulo": "Decreto nº 16.376 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16376",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16376",
+      "ementa": "APROVA OS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 167:514$710, PARA A REPARAÇÃO URGENTE DOS ARMAZÉNS NÚMERO 1, INTERNO, E \"C\" EXTERNO, DO CAIS DO PORTO DO RIO DE JANEIRO, A SER EXECUTADA PELA COMPANHIA BRASILEIRA DE EXPLORAÇÃO DE PORTOS, ARRENDATARIA DA EXPLORAÇÃO DO MESMO CAIS."
+    },
+    {
+      "senadoId": "430985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16377",
+      "titulo": "Decreto nº 16.377 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16377",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16377",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 1.000:000$ (MIL CONTOS DE RÉIS), PARA AQUISIÇÃO DE MATERIAL RODANTE PARA A ESTRADA DE FERRO NOROESTE DO BRASIL, DE MODO A ATENDER-SE ÀS NECESSIDADES DO TRANSPORTE DE GADO EM PÉ, DE MATO GROSSO PARA SÃO PAULO."
+    },
+    {
+      "senadoId": "430981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16375",
+      "titulo": "Decreto nº 16.375 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16375",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16375",
+      "ementa": "APROVA OS PROJETOS DA ESTAÇÃO DE \"RESTINGA SECA\" E DE ONZE VARIANTES A SEREM CONSTRUÍDAS ENTRE AS ESTAÇÕES DE FERREIRA E SANTA MARIA, NA LINHA PORTO ALEGRE A SANTA MARIA, DA REDE DE VIAÇÃO FERREA DO RIO GRANDE DO SUL, E BEM ASSIM O RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 5.757:034$300 (CINCO MIL SETECENTOS E CINCOENTA E SETE CONTOS TRINTA E QUATRO MIL E TREZENTOS RÉIS)."
+    },
+    {
+      "senadoId": "430993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16381",
+      "titulo": "Decreto nº 16.381 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16381",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16381",
+      "ementa": "CRIA NO MUNICÍPIO DE S. MATEUS, ESTADO DO ESPÍRITO SANTO, UM NÚCLEO COLONIAL COM A DENOMINAÇÃO DE \"SANTOS NEVES\"."
+    },
+    {
+      "senadoId": "430987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16378",
+      "titulo": "Decreto nº 16.378 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16378",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16378",
+      "ementa": "PUBLICA A ADESÃO DA ESTÔNIA À ATOS INTERNACIONAIS RELATIVOS À PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "430997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16383",
+      "titulo": "Decreto nº 16.383 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16383",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16383",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA MINEIRA DE LATICÍNIOS."
+    },
+    {
+      "senadoId": "430991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16380",
+      "titulo": "Decreto nº 16.380 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16380",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16380",
+      "ementa": "MODIFICA O ARTIGO 34 DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 14.421, DE 31 DE MARÇO DE 1920."
+    },
+    {
+      "senadoId": "430989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16379",
+      "titulo": "Decreto nº 16.379 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16379",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16379",
+      "ementa": "PROMULGA OS ATOS FIRMADOS PELOS DELEGADOS DO BRASIL NO VII CONGRESSO DA UNIÃO POSTAL UNIVERSAL, REUNIDO EM MADRID EM OUTUBRO DE 1920."
+    },
+    {
+      "senadoId": "430979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-20-16374",
+      "titulo": "Decreto nº 16.374 de 20/02/1924",
+      "data": "1924-02-20",
+      "numero": "16374",
+      "urn": "urn:lex:br:federal:decreto:1924-02-20;16374",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE 3.359:908$160, PARA CONSTRUÇÃO DO PROLONGAMENTO DA ESTRADA DE FERRO MOSSORÓ, NA EXTENSÃO DE 43.1000 METROS, ENTRE SÃO SEBASTIÃO E CARAÚBAS."
+    },
+    {
+      "senadoId": "430967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-13-16368",
+      "titulo": "Decreto nº 16.368 de 13/02/1924",
+      "data": "1924-02-13",
+      "numero": "16368",
+      "urn": "urn:lex:br:federal:decreto:1924-02-13;16368",
+      "ementa": "MODIFICA A ORGANIZAÇÃO DO CORPO CONSULAR E DISPÕE SOBRE AJUDAS DE CUSTO AOS MEMBROS DO CORPO DIPLOMÁTICO E CONSULAR."
+    },
+    {
+      "senadoId": "430977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-13-16373",
+      "titulo": "Decreto nº 16.373 de 13/02/1924",
+      "data": "1924-02-13",
+      "numero": "16373",
+      "urn": "urn:lex:br:federal:decreto:1924-02-13;16373",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO DE 527:283$869, OURO, SUPLEMENTAR, ÀS VERBAS 6ª, 7ª, 8ª, 11ª E 13ª DO ARTIGO 25 DA LEI ORÇAMENTÁRIA NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "430975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-13-16372",
+      "titulo": "Decreto nº 16.372 de 13/02/1924",
+      "data": "1924-02-13",
+      "numero": "16372",
+      "urn": "urn:lex:br:federal:decreto:1924-02-13;16372",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 20:101$227 (VINTE CONTOS CENTO E UM MIL DUZENTOS E VINTE E SETE RÉIS), PARA AUMENTOS DE LINHAS DESTINADAS À REPARAÇÃO DE CARROS E VAGÕES NA ESTAÇÃO DE CURITIBA."
+    },
+    {
+      "senadoId": "430973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-13-16371",
+      "titulo": "Decreto nº 16.371 de 13/02/1924",
+      "data": "1924-02-13",
+      "numero": "16371",
+      "urn": "urn:lex:br:federal:decreto:1924-02-13;16371",
+      "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 52:852$292 (CINCOENTA E DOIS CONTOS OITOCENTOS E CINQUENTA E DOIS MIL DUZENTOS E NOVENTA E DOIS RÉIS), PARA A CONSTRUÇÃO DE UM NOVO POSTO TELEGRÁFICO NO RAMAL DE TIBAGE, ESTRADA DE FERRO SOROCABA."
+    },
+    {
+      "senadoId": "430969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-13-16369",
+      "titulo": "Decreto nº 16.369 de 13/02/1924",
+      "data": "1924-02-13",
+      "numero": "16369",
+      "urn": "urn:lex:br:federal:decreto:1924-02-13;16369",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA ABDULLA & COMPANY LIMITED AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "430971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-13-16370",
+      "titulo": "Decreto nº 16.370 de 13/02/1924",
+      "data": "1924-02-13",
+      "numero": "16370",
+      "urn": "urn:lex:br:federal:decreto:1924-02-13;16370",
+      "ementa": "AUTORIZA A CONSTRUÇÃO, NO PORTO DE RECIFE, DE 200 METROS DE CAIS COM 10 METROS DE PROFUNDIDADE, EM PROLONGAMENTO AO JÁ EXISTENTE, DESTINADOS À INSTALAÇÃO PARA CARGA E DESCARGA DE CARVÃO."
+    },
+    {
+      "senadoId": "430941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-06-16345",
+      "titulo": "Decreto nº 16.345 de 06/02/1924",
+      "data": "1924-02-06",
+      "numero": "16345",
+      "urn": "urn:lex:br:federal:decreto:1924-02-06;16345",
+      "ementa": "DECLARA CADUCA A CARTA PATENTE N. 6.758, DE 11 DE OUTUBRO DE 1911, CONCEDIDA À EUCLIDES COTIA, PARA A INVENÇÃO DE \"UM NOVO SISTEMA DE CALÇAMENTO, DENOMINADO - MOSAICO, PARA PASSEIOS, PRAÇAS, JARDINS, PÁTIOS, ÁREAS  E ARMAZÉNS ADAPTADO A APRESENTAR DESENHOS OU INSCRIÇÕES."
+    },
+    {
+      "senadoId": "430943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-06-16346",
+      "titulo": "Decreto nº 16.346 de 06/02/1924",
+      "data": "1924-02-06",
+      "numero": "16346",
+      "urn": "urn:lex:br:federal:decreto:1924-02-06;16346",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA THE PARIS MEDICINE CO. AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "430937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-06-16343",
+      "titulo": "Decreto nº 16.343 de 06/02/1924",
+      "data": "1924-02-06",
+      "numero": "16343",
+      "urn": "urn:lex:br:federal:decreto:1924-02-06;16343",
+      "ementa": "CONCEDE À COMPANHIA INDUSTRIAL DE LATICÍNIOS AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "430935",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-06-16342",
+      "titulo": "Decreto nº 16.342 de 06/02/1924",
+      "data": "1924-02-06",
+      "numero": "16342",
+      "urn": "urn:lex:br:federal:decreto:1924-02-06;16342",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA DE SEGUROS UNIÃO COMERCIAL DOS VAREJISTAS, DELIBERADA PELA ASSEMBLÉIA GERAL DE 31 DE OUTUBRO DE 1923."
+    },
+    {
+      "senadoId": "430939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-06-16344",
+      "titulo": "Decreto nº 16.344 de 06/02/1924",
+      "data": "1924-02-06",
+      "numero": "16344",
+      "urn": "urn:lex:br:federal:decreto:1924-02-06;16344",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NOS ESTATUTOS DA SOCIEDADE ANÔNIMA \" A BELLA PESCADORA\"."
+    },
+    {
+      "senadoId": "430965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-02-06-16367",
+      "titulo": "Decreto nº 16.367 de 06/02/1924",
+      "data": "1924-02-06",
+      "numero": "16367",
+      "urn": "urn:lex:br:federal:decreto:1924-02-06;16367",
+      "ementa": "PRORROGA POR 20 DIAS O PRAZO PARA A COMPLETA EXECUÇÃO DO DECRETO NÚMERO 16.273, DE 20 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "430927",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16338",
+      "titulo": "Decreto nº 16.338 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16338",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16338",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 7:750$, PARA OCORRER ÀS DESPESAS EFETUADAS, EM 1923, COM A EDUCAÇÃO E INSTRUÇÃO DOS FILHOS MENORES DO DR. ASTOLPHO DUTRA, DE ACORDO COM O DECRETO LEGISLATIVO NÚMERO 4.121, DE 3 DE SETEMBRO DE 1920."
+    },
+    {
+      "senadoId": "430921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16335",
+      "titulo": "Decreto nº 16.335 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16335",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16335",
+      "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 54:535$800 (CINCOENTA E QUATRO CONTOS QUINHENTOS E TRINTA E CINCO MIL E OITOCENTOS RÉIS) PARA CONSTRUÇÃO DE UMA NOVA PLATAFORMA COBERTA E MODIFICAÇÕES NAS INSTALAÇÕES EXISTENTES NA ESTAÇÃO DE PENHA-CIRCULAR, NO KILÔMETRO 13.605, DA LINHA DO NORTE, DA THE LEOPOLDINA RAILWAY COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "430925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16337",
+      "titulo": "Decreto nº 16.337 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16337",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16337",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, INDÚSTRIA E COMÉRCIO, O CRÉDITO ESPECIAL DE 279:000$, PARA ATENDER AS DESPESAS COM A REPRESENTAÇÃO DO BRASIL NA PRÓXIMA EXPOSIÇÃO DE BORRACHA E OUTROS PRODUTOS TROPICAIS, A REALIZAR-SE NA CIDADE DE BRUXELLAS EM MAIO DESTE ANO."
+    },
+    {
+      "senadoId": "430923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16336",
+      "titulo": "Decreto nº 16.336 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16336",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16336",
+      "ementa": "APROVA O PROJETO E O RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 5.164:951$325 (CINCO MIL CENTO E SESSENTA E QUATRO CONTOS NOVECENTOS E CINCOENTA E UM MIL TRESENTOS E VINTE E CINCO RÉIS), PARA A REALIZAÇÃO DE OBRAS URGENTES, DESTINADAS A MELHORAR O ABASTECIMENTO DE ÁGUA DA CIDADE DO RIO DE JANEIRO E DESAPROPRIA OS PRÉDIOS, TERRENOS E BENFEITORIAS, COMPREENDIDOS NO PLANO DAS OBRAS."
+    },
+    {
+      "senadoId": "430929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16339",
+      "titulo": "Decreto nº 16.339 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16339",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16339",
+      "ementa": "FIXA OS EFETIVOS DOS QUADROS DO PESSOAL SUBALTERNO DO SERVIÇO GERAL DE MÁQUINAS DA MARINHA DE GUERRA, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "430931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16340",
+      "titulo": "Decreto nº 16.340 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16340",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16340",
+      "ementa": "ABRE, PELO MINISTÉRIO DA MARINHA, OS CRÉDITOS SUPLEMENTARES, DE 399:943$350, À VERBA 2ª, \"OFICIAIS E SUB OFICIAIS\", CONSIGNAÇÃO \"DIVERSAS QUOTAS\" E SUB-C0NSIGNAÇÃO III - PARA PAGAMENTO DAS DIÁRIAS AO PESSOAL DA AVIAÇÃO, ETC, E DE 50:000$, E A VERBA 13ª, \"DESPESAS EXTRAORDINÁRIAS - II CONSIGNAÇÃO - PARA TOMADA DE CONTAS DOS RESPONSÁVEIS DA MARINHA ETC.\", DO ORÇAMENTO DE 1923."
+    },
+    {
+      "senadoId": "430919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16334",
+      "titulo": "Decreto nº 16.334 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16334",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16334",
+      "ementa": "PRORROGA ATÉ 16 DE OUTUBRO DO CORRENTE ANO, SOB CONDIÇÕES, O PRAZO FIXADO PARA A CONCLUSÃO DA CONSTRUÇÃO DO RAMAL FÉRREO DE URUSSANGA."
+    },
+    {
+      "senadoId": "430933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-30-16341",
+      "titulo": "Decreto nº 16.341 de 30/01/1924",
+      "data": "1924-01-30",
+      "numero": "16341",
+      "urn": "urn:lex:br:federal:decreto:1924-01-30;16341",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 45:220$365, PARA PAGAMENTO DAS DESPESAS DE INSTALAÇÃO DOS CARTÓRIOS DE ESCRIVÃES CRIMINAIS DE JUÍZOS FEDERAIS, CRIADOS PELO DECRETO LEGISLATIVO N. 4.642, DE 17 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "430913",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-28-16331",
+      "titulo": "Decreto nº 16.331 de 28/01/1924",
+      "data": "1924-01-28",
+      "numero": "16331",
+      "urn": "urn:lex:br:federal:decreto:1924-01-28;16331",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 100:000$, SUPLEMENTAR À VERBA 31ª, \"SUBSTITUIÇÕES\", DO ORÇAMENTO DO MESMO MINISTÉRIO DO EXERCÍCIO PASSADO."
+    },
+    {
+      "senadoId": "430915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-28-16332",
+      "titulo": "Decreto nº 16.332 de 28/01/1924",
+      "data": "1924-01-28",
+      "numero": "16332",
+      "urn": "urn:lex:br:federal:decreto:1924-01-28;16332",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 30:800$, PARA PAGAMENTO DE DIFERENÇA DE VENCIMENTOS, DURANTE O CORRENTE ANO, AOS MINISTRO DO TRIBUNAL DE CONTAS E REPRESENTANTES DO MINISTÉRIO PÚBLICO JUNTO AO MESMO TRIBUNAL."
+    },
+    {
+      "senadoId": "430917",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-28-16333",
+      "titulo": "Decreto nº 16.333 de 28/01/1924",
+      "data": "1924-01-28",
+      "numero": "16333",
+      "urn": "urn:lex:br:federal:decreto:1924-01-28;16333",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA BANQUE FRANÇAISE & ITALIENNE POUR L`AMÉRIQUE DU SUD PARA ESTABELECER UMA AGÊNCIA NESTA CAPITAL."
+    },
+    {
+      "senadoId": "430911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-28-16330",
+      "titulo": "Decreto nº 16.330 de 28/01/1924",
+      "data": "1924-01-28",
+      "numero": "16330",
+      "urn": "urn:lex:br:federal:decreto:1924-01-28;16330",
+      "ementa": "MANDA COBRAR A TAXA ADICIONAL DE 0,2% SOBRE O TOTAL DOS DIREITOS DE IMPORTAÇÃO PARA CONSUMO, DESTINADA A CUSTEAR OS SERVIÇOS DE REVISÃO E ESTATÍSTICA DOS DESPACHOS ADUANEIROS PELO PROCESSO HOLLERITCH."
+    },
+    {
+      "senadoId": "430909",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-26-16329",
+      "titulo": "Decreto nº 16.329 de 26/01/1924",
+      "data": "1924-01-26",
+      "numero": "16329",
+      "urn": "urn:lex:br:federal:decreto:1924-01-26;16329",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO DE 12.586:553$394 (DOZE MIL QUINHENTOS E OITENTA E SEIS CONTOS QUINHENTOS E CINCOENTA E TRÊS MIL TREZENTOS E NOVENTA E QUATRO RÉIS, SUPLEMENTAR À VERBA 6ª, ARTIGO 92, I \"COMBUSTÍVEL\", DA LEI NÚMERO 4.632, DE 6 JANEIRO DE 1923 PARA PAGAMENTO DAS DESPESAS DE COMBUSTÍVEL DA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "430907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-23-16328",
+      "titulo": "Decreto nº 16.328 de 23/01/1924",
+      "data": "1924-01-23",
+      "numero": "16328",
+      "urn": "urn:lex:br:federal:decreto:1924-01-23;16328",
+      "ementa": "APROVA A NOVA TABELA DE PREÇOS, ESPECIFICAÇÕES E CONDIÇÕES GERAIS A QUE SE REFERE A CLÁUSULA 46 DO CONTRATO DE ARRENDAMENTO E CONSTRUÇÃO DAS ESTRADAS DE FERRO FEDERAIS DOS ESTADOS DA BAHIA, SERGIPE E NORTE DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "430905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-23-16327",
+      "titulo": "Decreto nº 16.327 de 23/01/1924",
+      "data": "1924-01-23",
+      "numero": "16327",
+      "urn": "urn:lex:br:federal:decreto:1924-01-23;16327",
+      "ementa": "ABRE AO MINISTÉRIO DA VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL 1.000:000$ (DEZ MIL CONTOS DE RÉIS), PARA EVITAR A SUSPENSÃO DOS TRABALHOS DE CONSTRUÇÃO DE ESTRADAS DE FERRO E OUTROS SERVIÇOS."
+    },
+    {
+      "senadoId": "430903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-19-16326",
+      "titulo": "Decreto nº 16.326 de 19/01/1924",
+      "data": "1924-01-19",
+      "numero": "16326",
+      "urn": "urn:lex:br:federal:decreto:1924-01-19;16326",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE RÉIS 2.000:000$, OURO, E 22.000:000$, PAPEL, PARA PAGAMENTO DAS DÍVIDAS DE EXERCÍCIOS FINDOS JÁ APURADAS E DAS QUE O FOREM ATÉ 31 DE DEZEMBRO DE 1923."
+    },
+    {
+      "senadoId": "430901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-16-16325",
+      "titulo": "Decreto nº 16.325 de 16/01/1924",
+      "data": "1924-01-16",
+      "numero": "16325",
+      "urn": "urn:lex:br:federal:decreto:1924-01-16;16325",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 7:000$, PARA PAGAMENTO A SEIS SARGENTOS E UM CABO DE ESQUADRA DO PRÊMIO DE 1:000$, DE QUE TRATA O ARTIGO 10 DA LEI NÚMERO 2556, DE 26 DE SETEMBRO DE 1874."
+    },
+    {
+      "senadoId": "430899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-16-16324",
+      "titulo": "Decreto nº 16.324 de 16/01/1924",
+      "data": "1924-01-16",
+      "numero": "16324",
+      "urn": "urn:lex:br:federal:decreto:1924-01-16;16324",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 1:020$, PARA RESTITUIR AO ENGENHEIRO CIVIL AMARO BATISTA  A IMPORTÂNCIA QUE PAGOU A MAIS PELA MATRÍCULA DE DOIS FILHOS NO COLÉGIO MILITAR DE PORTO ALEGRE EM 1919."
+    },
+    {
+      "senadoId": "430895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-16-16322",
+      "titulo": "Decreto nº 16.322 de 16/01/1924",
+      "data": "1924-01-16",
+      "numero": "16322",
+      "urn": "urn:lex:br:federal:decreto:1924-01-16;16322",
+      "ementa": "APROVA O REGULAMENTO PARA A EQUIPAGEM DE PONTE, MODELO BRASILEIRO."
+    },
+    {
+      "senadoId": "430897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-16-16323",
+      "titulo": "Decreto nº 16.323 de 16/01/1924",
+      "data": "1924-01-16",
+      "numero": "16323",
+      "urn": "urn:lex:br:federal:decreto:1924-01-16;16323",
+      "ementa": "APROVA A 1ª PARTE DO REGULAMENTO PROVISÓRIO DE TIRO DAS ARMAS PORTÁTEIS E ANEXOS."
+    },
+    {
+      "senadoId": "430891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-12-16320",
+      "titulo": "Decreto nº 16.320 de 12/01/1924",
+      "data": "1924-01-12",
+      "numero": "16320",
+      "urn": "urn:lex:br:federal:decreto:1924-01-12;16320",
+      "ementa": "CRIA O CONSULADO HONORÁRIO EM SAVONA, NA ITÁLIA."
+    },
+    {
+      "senadoId": "430893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-12-16321",
+      "titulo": "Decreto nº 16.321 de 12/01/1924",
+      "data": "1924-01-12",
+      "numero": "16321",
+      "urn": "urn:lex:br:federal:decreto:1924-01-12;16321",
+      "ementa": "CRIA UM CONSULADO HONORÁRIO EM GRAZ, NA ÁUSTRIA."
+    },
+    {
+      "senadoId": "430889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-12-16319",
+      "titulo": "Decreto nº 16.319 de 12/01/1924",
+      "data": "1924-01-12",
+      "numero": "16319",
+      "urn": "urn:lex:br:federal:decreto:1924-01-12;16319",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO DE RÉIS 527:283$869, OURO, SUPLEMENTAR ÀS VERBAS 6ª, 7ª, 8ª, 11ª, 13ª, DO ARTIGO 25 DA LEI ORÇAMENTÁRIA NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "430876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-09-16312",
+      "titulo": "Decreto nº 16.312 de 09/01/1924",
+      "data": "1924-01-09",
+      "numero": "16312",
+      "urn": "urn:lex:br:federal:decreto:1924-01-09;16312",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES OS CRÉDITOS DE 74:000$ E 71:000$, SUPLEMENTARES, RESPECTIVAMENTE, ÁS VERBAS 16ª E 31ª DO ARTIGO 2º DA LEI NÚMERO 4.632, DE 6 DE JANEIRO DE 1923."
+    },
+    {
+      "senadoId": "430878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-09-16313",
+      "titulo": "Decreto nº 16.313 de 09/01/1924",
+      "data": "1924-01-09",
+      "numero": "16313",
+      "urn": "urn:lex:br:federal:decreto:1924-01-09;16313",
+      "ementa": "DECLARA INALIENAVEIS 265 APOLICES DA DIVIDA PUBLICA E 30 DA DIVIDA MUNICIPAL, PERTENCENTES AO ORFANATO OSORIO."
+    },
+    {
+      "senadoId": "430884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-09-16316",
+      "titulo": "Decreto nº 16.316 de 09/01/1924",
+      "data": "1924-01-09",
+      "numero": "16316",
+      "urn": "urn:lex:br:federal:decreto:1924-01-09;16316",
+      "ementa": "APROVA O PROJETO E O ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 26:545$116 (VINTE E SEIS CONTOS QUINHENTOS E QUARENTA E CINCO MIL CENTO E DEZESSEIS RÉIS), PARA CONSTRUÇÃO DE UMA ESTAÇÃO DE TERCEIRA CLASSE NA LOCALIDADE DE LAGOA, DA LINHA DE SÃO FRANCISCO, DA ESTRADA DE FERRO, SÃO PAULO - RIO GRANDE."
+    },
+    {
+      "senadoId": "430886",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-09-16317",
+      "titulo": "Decreto nº 16.317 de 09/01/1924",
+      "data": "1924-01-09",
+      "numero": "16317",
+      "urn": "urn:lex:br:federal:decreto:1924-01-09;16317",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA BRASIL TRADING COMPANY AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "430880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-09-16314",
+      "titulo": "Decreto nº 16.314 de 09/01/1924",
+      "data": "1924-01-09",
+      "numero": "16314",
+      "urn": "urn:lex:br:federal:decreto:1924-01-09;16314",
+      "ementa": "APROVA OS PLANOS E PROJETOS PARA ELETRIFICAÇÃO DAS LINHAS FÉRREAS DA COMPANHIA PAULISTA DE ESTRADAS DE FERRO ENTRE AS ESTAÇÕES DE CAMPINAS E A TATÚ E NAS ESPLANADAS DE MANOBRAS DAS ESTAÇÕES DE JUNDIAÍ E CAMPINAS."
+    },
+    {
+      "senadoId": "430882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-09-16315",
+      "titulo": "Decreto nº 16.315 de 09/01/1924",
+      "data": "1924-01-09",
+      "numero": "16315",
+      "urn": "urn:lex:br:federal:decreto:1924-01-09;16315",
+      "ementa": "CONCEDE À COMPANHIA PAULISTA DE ESTRADA DE FERRO ISENÇÃO DE DIREITOS ADUANEIROS PARA O MATERIAL IMPORTADO E DESTINADO À ELETRIFICAÇÃO DO TRECHO DE SUAS LINHAS ENTRE AS ESTAÇÕES DE CAMPINAS E A TATU E ESPLANADAS DE MONOBRAS."
+    },
+    {
+      "senadoId": "430872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-08-16310",
+      "titulo": "Decreto nº 16.310 de 08/01/1924",
+      "data": "1924-01-08",
+      "numero": "16310",
+      "urn": "urn:lex:br:federal:decreto:1924-01-08;16310",
+      "ementa": "DÁ NOVAS INSTRUÇÕES PARA AS ELEIÇÕES FEDERAIS."
+    },
+    {
+      "senadoId": "430874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1924-01-08-16311",
+      "titulo": "Decreto nº 16.311 de 08/01/1924",
+      "data": "1924-01-08",
+      "numero": "16311",
+      "urn": "urn:lex:br:federal:decreto:1924-01-08;16311",
+      "ementa": "DÁ INSTRUÇÕES PARA AS ELEIÇÕES FEDERAIS NO ESTADO DO RIO GRANDE DO SUL."
+    }
+  ],
+  "pendencias": []
+}

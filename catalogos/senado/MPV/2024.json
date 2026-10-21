@@ -1,0 +1,819 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2024",
+  "tipo": "MPV",
+  "ano": 2024,
+  "coletado_em": "2026-10-21T08:53:15.621Z",
+  "normas": [
+    {
+      "senadoId": "40036017",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-31-1286",
+      "titulo": "Medida Provisória nº 1.286 de 31/12/2024",
+      "data": "2024-12-31",
+      "numero": "1286",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-31;1286",
+      "ementa": "Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, altera as regras do Sistema de Desenvolvimento na Carreira, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências."
+    },
+    {
+      "senadoId": "40020020",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-28-1285",
+      "titulo": "Medida Provisória nº 1.285 de 28/12/2024",
+      "data": "2024-12-28",
+      "numero": "1285",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-28;1285",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Pesca e Aquicultura, no valor de R$ 553.261.047,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "40019760",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-28-1283",
+      "titulo": "Medida Provisória nº 1.283 de 28/12/2024",
+      "data": "2024-12-28",
+      "numero": "1283",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-28;1283",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 168.268.040,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "40019857",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-28-1284",
+      "titulo": "Medida Provisória nº 1.284 de 28/12/2024",
+      "data": "2024-12-28",
+      "numero": "1284",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-28;1284",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento, Indústria, Comércio e Serviços; do Desenvolvimento Agrário e Agricultura Familiar; da Integração e do Desenvolvimento Regional; do Desenvolvimento e Assistência Social, Família e Combate à Fome; e das Cidades; e de Operações Oficiais de Crédito, no valor de R$ 357.443.320,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39993432",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-23-1281",
+      "titulo": "Medida Provisória nº 1.281 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "1281",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-23;1281",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia, do Meio Ambiente e Mudança do Clima, e de Portos e Aeroportos, no valor de R$ 233.200.194,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39993531",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-23-1282",
+      "titulo": "Medida Provisória nº 1.282 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "1282",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-23;1282",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério das Cidades, no valor de R$ 6.500.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39993369",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-23-1280",
+      "titulo": "Medida Provisória nº 1.280 de 23/12/2024",
+      "data": "2024-12-23",
+      "numero": "1280",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-23;1280",
+      "ementa": "Prorroga o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica - Recine, constante da Lei nº 13.594, de 5 de janeiro de 2018, e os benefícios fiscais previstos no art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e nos art. 1º e art. 1º-A da Lei nº 8.685, de 20 de julho de 1993."
+    },
+    {
+      "senadoId": "39950068",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-16-1279",
+      "titulo": "Medida Provisória nº 1.279 de 16/12/2024",
+      "data": "2024-12-16",
+      "numero": "1279",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-16;1279",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 120.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39923537",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-12-11-1278",
+      "titulo": "Medida Provisória nº 1.278 de 11/12/2024",
+      "data": "2024-12-11",
+      "numero": "1278",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-12-11;1278",
+      "ementa": "Autoriza a União a participar de fundo que tenha por finalidade apoiar a requalificação e a recuperação de infraestruturas nas áreas afetadas por eventos climáticos extremos e apoiar empreendimentos de infraestrutura relacionados à mitigação e à adaptação às mudanças climáticas."
+    },
+    {
+      "senadoId": "39868682",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-11-28-1277",
+      "titulo": "Medida Provisória nº 1.277 de 28/11/2024",
+      "data": "2024-11-28",
+      "numero": "1277",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-11-28;1277",
+      "ementa": "Institui o Auxílio Extraordinário destinado a pescadoras e pescadores profissionais artesanais beneficiários do Seguro-Desemprego do Pescador Artesanal – Seguro-Defeso cadastrados em Municípios da Região Norte."
+    },
+    {
+      "senadoId": "39853907",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-11-22-1275",
+      "titulo": "Medida Provisória nº 1.275 de 22/11/2024",
+      "data": "2024-11-22",
+      "numero": "1275",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-11-22;1275",
+      "ementa": "Abre crédito extraordinário, em favor da Defensoria Pública da União e dos Ministérios do Planejamento e Orçamento, e da Integração e do Desenvolvimento Regional, no valor de R$ 118.206.027,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39853967",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-11-22-1276",
+      "titulo": "Medida Provisória nº 1.276 de 22/11/2024",
+      "data": "2024-11-22",
+      "numero": "1276",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-11-22;1276",
+      "ementa": "Altera a Lei nº 7.797, de 10 de julho de 1989, e a Lei nº 14.944, de 31 de julho de 2024, para dispor sobre medidas para prevenção e combate a incêndios florestais."
+    },
+    {
+      "senadoId": "39853835",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-11-22-1274",
+      "titulo": "Medida Provisória nº 1.274 de 22/11/2024",
+      "data": "2024-11-22",
+      "numero": "1274",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-11-22;1274",
+      "ementa": "Altera a Lei nº 14.399, de 8 de julho de 2022, que institui a Política Nacional Aldir Blanc de Fomento à Cultura."
+    },
+    {
+      "senadoId": "39826933",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-11-13-1273",
+      "titulo": "Medida Provisória nº 1.273 de 13/11/2024",
+      "data": "2024-11-13",
+      "numero": "1273",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-11-13;1273",
+      "ementa": "Altera a Lei nº 14.724, de 14 de novembro de 2023, para dispor sobre novo prazo de vigência do Programa de Enfrentamento à Fila da Previdência Social - PEFPS."
+    },
+    {
+      "senadoId": "39795345",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-25-1272",
+      "titulo": "Medida Provisória nº 1.272 de 25/10/2024",
+      "data": "2024-10-25",
+      "numero": "1272",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-25;1272",
+      "ementa": "Autoriza o Poder Executivo federal a conceder subvenção econômica, sob a forma de desconto, em operações de crédito rural contratadas no período de 6 a 22 de setembro de 2024, dispõe sobre a comissão de que trata o art. 3º da Medida Provisória nº 1.247, de 31 de julho de 2024, e altera a Lei nº 8.427, de 27 de maio de 1992, e a Lei nº 14.981, de 20 de setembro de 2024."
+    },
+    {
+      "senadoId": "39795309",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-25-1271",
+      "titulo": "Medida Provisória nº 1.271 de 25/10/2024",
+      "data": "2024-10-25",
+      "numero": "1271",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-25;1271",
+      "ementa": "Dispõe sobre as remessas internacionais realizadas por intermédio de empresas de comércio eletrônico e reduz a alíquota do Imposto de Importação incidente sobre medicamentos."
+    },
+    {
+      "senadoId": "39791670",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-23-1270",
+      "titulo": "Medida Provisória nº 1.270 de 23/10/2024",
+      "data": "2024-10-23",
+      "numero": "1270",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-23;1270",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 87.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39789199",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-22-1269",
+      "titulo": "Medida Provisória nº 1.269 de 22/10/2024",
+      "data": "2024-10-22",
+      "numero": "1269",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-22;1269",
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 5.000.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39789207",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-22-1268",
+      "titulo": "Medida Provisória nº 1.268 de 22/10/2024",
+      "data": "2024-10-22",
+      "numero": "1268",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-22;1268",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública, da Saúde, do Meio Ambiente e Mudança do Clima, do Desenvolvimento Agrário e Agricultura Familiar, da Integração e do Desenvolvimento Regional, do Desenvolvimento e Assistência Social, Família e Combate à Fome, e da Pesca e Aquicultura, no valor de R$ 938.458.061,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39784977",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-19-1267",
+      "titulo": "Medida Provisória nº 1.267 de 19/10/2024",
+      "data": "2024-10-19",
+      "numero": "1267",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-19;1267",
+      "ementa": "Dispõe sobre operações do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte - Pronampe com beneficiários que tiveram prejuízos causados pela interrupção do fornecimento de energia elétrica na Região Metropolitana de São Paulo, Estado de São Paulo, no mês de outubro de 2024."
+    },
+    {
+      "senadoId": "39767174",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-14-1266",
+      "titulo": "Medida Provisória nº 1.266 de 14/10/2024",
+      "data": "2024-10-14",
+      "numero": "1266",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-14;1266",
+      "ementa": "Dispõe sobre a prorrogação excepcional dos prazos de isenção, de redução a zero de alíquotas ou de suspensão de tributos previstos nos regimes aduaneiros especiais de drawback, nas modalidades de suspensão e isenção, de que tratam o art. 12 da Lei nº 11.945, de 4 de junho de 2009, e o art. 31 da Lei nº 12.350, de 20 de dezembro de 2010, para pessoas jurídicas beneficiárias de atos concessórios com domicílio no Estado do Rio Grande do Sul e, exclusivamente na modalidade de suspensão, para empresas denominadas fabricantes-intermediários não domiciliadas no Estado do Rio Grande do Sul, com vistas à industrialização de produto intermediário a ser ou que já tenha sido diretamente fornecido a empresas industriais-exportadoras domiciliadas na referida unidade da federação, para emprego ou consumo na industrialização de produto final destinado à exportação."
+    },
+    {
+      "senadoId": "39765451",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-11-1265",
+      "titulo": "Medida Provisória nº 1.265 de 11/10/2024",
+      "data": "2024-10-11",
+      "numero": "1265",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-11;1265",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 383.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39754932",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-10-1264",
+      "titulo": "Medida Provisória nº 1.264 de 10/10/2024",
+      "data": "2024-10-10",
+      "numero": "1264",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-10;1264",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 80.401.340,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "39736728",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-07-1263",
+      "titulo": "Medida Provisória nº 1.263 de 07/10/2024",
+      "data": "2024-10-07",
+      "numero": "1263",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-07;1263",
+      "ementa": "Institui o Auxílio Extraordinário destinado a pescadoras e pescadores profissionais artesanais beneficiários do Seguro-Desemprego do Pescador Artesanal - Seguro-Defeso cadastrados em Municípios da Região Norte."
+    },
+    {
+      "senadoId": "39725846",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-03-1262",
+      "titulo": "Medida Provisória nº 1.262 de 03/10/2024",
+      "data": "2024-10-03",
+      "numero": "1262",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-03;1262",
+      "ementa": "Institui o Adicional da Contribuição Social sobre o Lucro Líquido, no processo de adaptação da legislação brasileira às Regras Globais Contra a Erosão da Base Tributária - Regras GloBE, e dá outras providências."
+    },
+    {
+      "senadoId": "39724126",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-10-02-1261",
+      "titulo": "Medida Provisória nº 1.261 de 02/10/2024",
+      "data": "2024-10-02",
+      "numero": "1261",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-10-02;1261",
+      "ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil."
+    },
+    {
+      "senadoId": "39716148",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-09-27-1260",
+      "titulo": "Medida Provisória nº 1.260 de 27/09/2024",
+      "data": "2024-09-27",
+      "numero": "1260",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-09-27;1260",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Agricultura e Pecuária, da Ciência, Tecnologia e Inovação, do Desenvolvimento Agrário e Agricultura Familiar, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, no valor de R$ 1.659.821.159,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39686079",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-09-20-1259",
+      "titulo": "Medida Provisória nº 1.259 de 20/09/2024",
+      "data": "2024-09-20",
+      "numero": "1259",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-09-20;1259",
+      "ementa": "Dispõe sobre medidas excepcionais para concessão de colaboração financeira reembolsável e não reembolsável à União, aos Estados e ao Distrito Federal, para apoio a ações de prevenção e combate à ocorrência de queimadas irregulares e de incêndios florestais."
+    },
+    {
+      "senadoId": "39644699",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-09-18-1258",
+      "titulo": "Medida Provisória nº 1.258 de 18/09/2024",
+      "data": "2024-09-18",
+      "numero": "1258",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-09-18;1258",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública; do Meio Ambiente e Mudança do Clima; do Desenvolvimento Agrário e Agricultura Familiar; da Defesa; da Integração e do Desenvolvimento Regional; do Desenvolvimento e Assistência Social, Família e Combate à Fome; e dos Povos Indígenas, no valor de R$ 514.474.666,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39625682",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-09-16-1257",
+      "titulo": "Medida Provisória nº 1.257 de 16/09/2024",
+      "data": "2024-09-16",
+      "numero": "1257",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-09-16;1257",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Previdência Social, da Saúde e do Desenvolvimento e Assistência Social, Família e Combate à Fome e de Encargos Financeiros da União e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 5.131.822.721,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39581166",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-09-09-1256",
+      "titulo": "Medida Provisória nº 1.256 de 09/09/2024",
+      "data": "2024-09-09",
+      "numero": "1256",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-09-09;1256",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, e de Encargos Financeiros da União, no valor de R$ 510.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39507694",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-26-1255",
+      "titulo": "Medida Provisória nº 1.255 de 26/08/2024",
+      "data": "2024-08-26",
+      "numero": "1255",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-26;1255",
+      "ementa": "Altera a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 14.871, de 28 de maio de 2024, para autorizar a concessão de quotas diferenciadas de depreciação acelerada para navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados exclusivamente em atividade de cabotagem de petróleo e seus derivados."
+    },
+    {
+      "senadoId": "39483239",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-21-1254",
+      "titulo": "Medida Provisória nº 1.254 de 21/08/2024",
+      "data": "2024-08-21",
+      "numero": "1254",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-21;1254",
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 1.976.872.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39461341",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-15-1253",
+      "titulo": "Medida Provisória nº 1.253 de 15/08/2024",
+      "data": "2024-08-15",
+      "numero": "1253",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-15;1253",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 308.250.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39453617",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-12-1252",
+      "titulo": "Medida Provisória nº 1.252 de 12/08/2024",
+      "data": "2024-08-12",
+      "numero": "1252",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-12;1252",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça Eleitoral e dos Ministérios da Integração e do Desenvolvimento Regional, das Cidades e de Portos e Aeroportos, no valor de R$ 1.625.802.558,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39446514",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-07-1251",
+      "titulo": "Medida Provisória nº 1.251 de 07/08/2024",
+      "data": "2024-08-07",
+      "numero": "1251",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-07;1251",
+      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para incluir entre os rendimentos isentos do imposto de renda os prêmios pagos a atletas ou paratletas olímpicos, nas hipóteses que especifica."
+    },
+    {
+      "senadoId": "39443470",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-06-1250",
+      "titulo": "Medida Provisória nº 1.250 de 06/08/2024",
+      "data": "2024-08-06",
+      "numero": "1250",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-06;1250",
+      "ementa": "Institui Apoio Financeiro destinado às famílias desalojadas ou desabrigadas nos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecida pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "39410291",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-02-1249",
+      "titulo": "Medida Provisória nº 1.249 de 02/08/2024",
+      "data": "2024-08-02",
+      "numero": "1249",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-02;1249",
+      "ementa": "Altera a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação - Programa Mover."
+    },
+    {
+      "senadoId": "39408894",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-08-01-1248",
+      "titulo": "Medida Provisória nº 1.248 de 01/08/2024",
+      "data": "2024-08-01",
+      "numero": "1248",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-08-01;1248",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de R$ 1.454.799.092,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "39388469",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-31-1247",
+      "titulo": "Medida Provisória nº 1.247 de 31/07/2024",
+      "data": "2024-07-31",
+      "numero": "1247",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-31;1247",
+      "ementa": "Autoriza o Poder Executivo federal a conceder subvenção econômica, sob a forma de desconto para liquidação ou renegociação de parcelas de operações de crédito rural de custeio, de investimento e de industrialização contratadas por mutuários que tiveram perdas materiais decorrentes dos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do Decreto Legislativo nº 36, de 7 de maio de 2024, em Municípios do Estado do Rio Grande do Sul que tiveram estado de calamidade pública ou situação de emergência reconhecido pelo Poder Executivo federal, e altera a Lei nº 14.042, de 19 de agosto de 2020, que institui o Programa Emergencial de Acesso a Crédito."
+    },
+    {
+      "senadoId": "38746230",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-18-1246",
+      "titulo": "Medida Provisória nº 1.246 de 18/07/2024",
+      "data": "2024-07-18",
+      "numero": "1246",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-18;1246",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 230.891.005,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38745199",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-18-1245",
+      "titulo": "Medida Provisória nº 1.245 de 18/07/2024",
+      "data": "2024-07-18",
+      "numero": "1245",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-18;1245",
+      "ementa": "Aumenta o limite da subvenção econômica de que trata o art. 2º, caput, da Medida Provisória nº 1.216, de 9 de maio de 2024."
+    },
+    {
+      "senadoId": "38742233",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-17-1244",
+      "titulo": "Medida Provisória nº 1.244 de 17/07/2024",
+      "data": "2024-07-17",
+      "numero": "1244",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-17;1244",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Gestão e da Inovação em Serviços Públicos, do Desenvolvimento Agrário e Agricultura Familiar, e da Integração e do Desenvolvimento Regional; do Banco Central do Brasil; e de Encargos Financeiros da União, no valor de R$ 1.253.601.800,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38742179",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-17-1243",
+      "titulo": "Medida Provisória nº 1.243 de 17/07/2024",
+      "data": "2024-07-17",
+      "numero": "1243",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-17;1243",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça do Trabalho e do Ministério Público da União, no valor de R$ 27.163.242,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38730577",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-11-1241",
+      "titulo": "Medida Provisória nº 1.241 de 11/07/2024",
+      "data": "2024-07-11",
+      "numero": "1241",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-11;1241",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública, do Meio Ambiente e Mudança do Clima, e da Defesa, no valor de R$ 137.638.217,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38730302",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-11-1242",
+      "titulo": "Medida Provisória nº 1.242 de 11/07/2024",
+      "data": "2024-07-11",
+      "numero": "1242",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-11;1242",
+      "ementa": "Autoriza o Poder Executivo federal a transferir recursos financeiros destinados a reformas em escolas públicas da educação básica com comprometimento estrutural decorrente de eventos climáticos no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38719474",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-09-1240",
+      "titulo": "Medida Provisória nº 1.240 de 09/07/2024",
+      "data": "2024-07-09",
+      "numero": "1240",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-09;1240",
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica."
+    },
+    {
+      "senadoId": "38709538",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-08-1239",
+      "titulo": "Medida Provisória nº 1.239 de 08/07/2024",
+      "data": "2024-07-08",
+      "numero": "1239",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-08;1239",
+      "ementa": "Altera a Lei nº 7.957, de 20 de dezembro de 1989, para dispor sobre o prazo de recontratação de pessoal por tempo determinado para atender aos casos de prevenção, controle e combate de incêndios florestais."
+    },
+    {
+      "senadoId": "38682193",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-03-1238",
+      "titulo": "Medida Provisória nº 1.238 de 03/07/2024",
+      "data": "2024-07-03",
+      "numero": "1238",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-03;1238",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Judiciário, no valor de R$ 1.348.356.276,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38682265",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-07-03-1237",
+      "titulo": "Medida Provisória nº 1.237 de 03/07/2024",
+      "data": "2024-07-03",
+      "numero": "1237",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-07-03;1237",
+      "ementa": "Abre crédito extraordinário, em favor da Justiça Federal, da Defensoria Pública da União, do Ministério do Trabalho e Emprego, e de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38670581",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-28-1236",
+      "titulo": "Medida Provisória nº 1.236 de 28/06/2024",
+      "data": "2024-06-28",
+      "numero": "1236",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-28;1236",
+      "ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que dispõe sobre tributação simplificada das remessas postais internacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover)."
+    },
+    {
+      "senadoId": "38638203",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-19-1235",
+      "titulo": "Medida Provisória nº 1.235 de 19/06/2024",
+      "data": "2024-06-19",
+      "numero": "1235",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-19;1235",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 689.689.688,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "38634846",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-18-1234",
+      "titulo": "Medida Provisória nº 1.234 de 18/06/2024",
+      "data": "2024-06-18",
+      "numero": "1234",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-18;1234",
+      "ementa": "Altera a Medida Provisória nº 1.230, de 7 de junho de 2024, para dispor sobre a elegibilidade para recebimento do Apoio Financeiro destinado às trabalhadoras e aos trabalhadores domésticos e às pescadoras e aos pescadores profissionais artesanais em Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecidos pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "38629244",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-17-1233",
+      "titulo": "Medida Provisória nº 1.233 de 17/06/2024",
+      "data": "2024-06-17",
+      "numero": "1233",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-17;1233",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Fazenda, das Cidades, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, no valor de R$ 17.587.897.059,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38611086",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-12-1231",
+      "titulo": "Medida Provisória nº 1.231 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "1231",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-12;1231",
+      "ementa": "Abre crédito extraordinário, em favor de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 124.060.365,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "38611919",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-12-1232",
+      "titulo": "Medida Provisória nº 1.232 de 12/06/2024",
+      "data": "2024-06-12",
+      "numero": "1232",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-12;1232",
+      "ementa": "Altera a Lei nº 12.111, de 9 de dezembro de 2009, que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados, e a Lei nº 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária."
+    },
+    {
+      "senadoId": "38601251",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-07-1230",
+      "titulo": "Medida Provisória nº 1.230 de 07/06/2024",
+      "data": "2024-06-07",
+      "numero": "1230",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-07;1230",
+      "ementa": "Institui Apoio Financeiro com o objetivo de enfrentar a calamidade pública e as suas consequências sociais e econômicas decorrentes de eventos climáticos no Estado do Rio Grande do Sul, destinado aos trabalhadores com vínculo formal de emprego."
+    },
+    {
+      "senadoId": "38598649",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-06-1228",
+      "titulo": "Medida Provisória nº 1.228 de 06/06/2024",
+      "data": "2024-06-06",
+      "numero": "1228",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-06;1228",
+      "ementa": "Institui Apoio Financeiro destinado às famílias desalojadas ou desabrigadas nos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecida pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "38598690",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-06-1229",
+      "titulo": "Medida Provisória nº 1.229 de 06/06/2024",
+      "data": "2024-06-06",
+      "numero": "1229",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-06;1229",
+      "ementa": "Dispõe sobre a prestação de apoio financeiro pela União aos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública reconhecido pelo Poder Executivo federal que não tenham sido contemplados pela Medida Provisória nº 1.222, de 21 de maio de 2024."
+    },
+    {
+      "senadoId": "38587986",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-06-04-1227",
+      "titulo": "Medida Provisória nº 1.227 de 04/06/2024",
+      "data": "2024-06-04",
+      "numero": "1227",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-06-04;1227",
+      "ementa": "Prevê condições para fruição de benefícios fiscais, delega competência para julgamento de processo administrativo fiscal relativo ao Imposto sobre a Propriedade Territorial Rural - ITR, limita a compensação de créditos relativos a tributos administrados pela Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda e revoga hipóteses de ressarcimento e de compensação de créditos presumidos da Contribuição para o PIS/Pasep e da Cofins."
+    },
+    {
+      "senadoId": "38567401",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-29-1226",
+      "titulo": "Medida Provisória nº 1.226 de 29/05/2024",
+      "data": "2024-05-29",
+      "numero": "1226",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-29;1226",
+      "ementa": "Altera a Lei nº 12.351, de 22 de dezembro de 2010, para autorizar a utilização do superávit financeiro do Fundo Social como fonte de recursos para a disponibilização de linhas de financiamento a pessoas jurídicas e físicas localizadas em ente federativo em estado de calamidade pública, nos termos do art. 65 da Lei Complementar nº 101, de 4 de maio de 2000, autoriza a União a aumentar a sua participação no Fundo Garantidor de Operações para a cobertura das operações contratadas no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar e do Programa Nacional de Apoio ao Médio Produtor Rural com beneficiários que tiveram perdas materiais nas áreas afetadas pelos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, e dispõe sobre a subvenção de que trata o art. 2º da Medida Provisória nº 1.216, de 9 de maio de 2024."
+    },
+    {
+      "senadoId": "38543999",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-24-1224",
+      "titulo": "Medida Provisória nº 1.224 de 24/05/2024",
+      "data": "2024-05-24",
+      "numero": "1224",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-24;1224",
+      "ementa": "Autoriza modalidade de venda de arroz beneficiado importado pela Companhia Nacional de Abastecimento para enfrentamento das consequências sociais e econômicas decorrentes de eventos climáticos extremos no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38544035",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-24-1225",
+      "titulo": "Medida Provisória nº 1.225 de 24/05/2024",
+      "data": "2024-05-24",
+      "numero": "1225",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-24;1225",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Agricultura e Pecuária e do Desenvolvimento Agrário e Agricultura Familiar, no valor de R$ 6.698.923.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38542298",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-23-1223",
+      "titulo": "Medida Provisória nº 1.223 de 23/05/2024",
+      "data": "2024-05-23",
+      "numero": "1223",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-23;1223",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo federal, da Defensoria Pública da União, e de Transferências a Estados, Distrito Federal e Municípios, no valor de R$ 1.828.262.094,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38525918",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-21-1222",
+      "titulo": "Medida Provisória nº 1.222 de 21/05/2024",
+      "data": "2024-05-21",
+      "numero": "1222",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-21;1222",
+      "ementa": "Dispõe sobre a prestação de apoio financeiro pela União aos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública reconhecido pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "38518333",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-17-1221",
+      "titulo": "Medida Provisória nº 1.221 de 17/05/2024",
+      "data": "2024-05-17",
+      "numero": "1221",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-17;1221",
+      "ementa": "Dispõe sobre medidas excepcionais para a aquisição de bens e a contratação de obras e de serviços, inclusive de engenharia, destinados ao enfrentamento de impactos decorrentes de estado de calamidade pública."
+    },
+    {
+      "senadoId": "38501932",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-15-1220",
+      "titulo": "Medida Provisória nº 1.220 de 15/05/2024",
+      "data": "2024-05-15",
+      "numero": "1220",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-15;1220",
+      "ementa": "Cria a Secretaria Extraordinária da Presidência da República para Apoio à Reconstrução do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38501860",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-15-1219",
+      "titulo": "Medida Provisória nº 1.219 de 15/05/2024",
+      "data": "2024-05-15",
+      "numero": "1219",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-15;1219",
+      "ementa": "Institui Apoio Financeiro destinado às famílias desalojadas ou desabrigadas nos Municípios do Estado do Rio Grande do Sul com estado de calamidade pública ou situação de emergência reconhecida pelo Poder Executivo federal."
+    },
+    {
+      "senadoId": "38486396",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-11-1218",
+      "titulo": "Medida Provisória nº 1.218 de 11/05/2024",
+      "data": "2024-05-11",
+      "numero": "1218",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-11;1218",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, de Encargos Financeiros da União, e de Operações Oficiais de Crédito, no valor de R$ 12.179.438.240,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38471670",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-09-1217",
+      "titulo": "Medida Provisória nº 1.217 de 09/05/2024",
+      "data": "2024-05-09",
+      "numero": "1217",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-09;1217",
+      "ementa": "Autoriza a Companhia Nacional de Abastecimento a importar arroz beneficiado ou em casca para o enfrentamento das consequências sociais e econômicas decorrentes de eventos climáticos extremos no Estado do Rio Grande do Sul."
+    },
+    {
+      "senadoId": "38471785",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-09-1216",
+      "titulo": "Medida Provisória nº 1.216 de 09/05/2024",
+      "data": "2024-05-09",
+      "numero": "1216",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-09;1216",
+      "ementa": "Autoriza o Poder Executivo federal a conceder subvenção econômica a mutuários que tiveram perdas materiais nas áreas afetadas pelos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do disposto no Decreto Legislativo nº 36, de 7 de maio de 2024; altera a Lei nº 13.999, de 18 de maio de 2020, e a Lei nº 14.042, de 19 de agosto de 2020; autoriza o Poder Executivo federal a conceder subvenção econômica para constituição de escritórios de projetos; estabelece normas para facilitação de acesso a crédito, tendo em vista os efeitos negativos decorrentes de desastres naturais; e dá outras providências."
+    },
+    {
+      "senadoId": "38451847",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-05-06-1215",
+      "titulo": "Medida Provisória nº 1.215 de 06/05/2024",
+      "data": "2024-05-06",
+      "numero": "1215",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-05-06;1215",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Saúde."
+    },
+    {
+      "senadoId": "38400381",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-04-29-1214",
+      "titulo": "Medida Provisória nº 1.214 de 29/04/2024",
+      "data": "2024-04-29",
+      "numero": "1214",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-04-29;1214",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 369.000.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "38343456",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-04-22-1213",
+      "titulo": "Medida Provisória nº 1.213 de 22/04/2024",
+      "data": "2024-04-22",
+      "numero": "1213",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-04-22;1213",
+      "ementa": "Institui o Programa Acredita no Primeiro Passo, o Programa de Mobilização de Capital Privado Externo e Proteção Cambial - Programa Eco Invest Brasil, altera a Lei nº 13.999, de 18 de maio de 2020, para instituir o Programa de Crédito e Financiamento de Dívidas de Microempreendedores Individuais e Microempresas - Procred 360, institui o Programa de Renegociação de Dívidas de Microempreendedores Individuais - MEIs, Microempresas e Empresas de Pequeno Porte - Desenrola Pequenos Negócios, altera a Medida Provisória nº 2.196-3, de 24 de agosto de 2001, a Lei nº 10.735, de 11 de setembro de 2003, a Lei nº 12.087, de 11 de novembro de 2009, e a Lei nº 14.042, de 19 de agosto de 2020, e dá outras providências."
+    },
+    {
+      "senadoId": "38315558",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-04-09-1212",
+      "titulo": "Medida Provisória nº 1.212 de 09/04/2024",
+      "data": "2024-04-09",
+      "numero": "1212",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-04-09;1212",
+      "ementa": "Altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.991, de 24 de julho de 2000, e a Lei nº 14.182, de 12 de julho de 2021, e dá outras providências."
+    },
+    {
+      "senadoId": "38286895",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-03-27-1211",
+      "titulo": "Medida Provisória nº 1.211 de 27/03/2024",
+      "data": "2024-03-27",
+      "numero": "1211",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-03-27;1211",
+      "ementa": "Altera a Lei nº 14.690, de 3 de outubro de 2023, para prorrogar a duração do Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil - Faixa 1."
+    },
+    {
+      "senadoId": "38265613",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-03-19-1210",
+      "titulo": "Medida Provisória nº 1.210 de 19/03/2024",
+      "data": "2024-03-19",
+      "numero": "1210",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-03-19;1210",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Justiça e Segurança Pública, no valor de R$ 30.157.034,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "38247022",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-03-12-1209",
+      "titulo": "Medida Provisória nº 1.209 de 12/03/2024",
+      "data": "2024-03-12",
+      "numero": "1209",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-03-12;1209",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça e Segurança Pública; do Meio Ambiente e Mudança do Clima; do Desenvolvimento Agrário e Agricultura Familiar; da Defesa; do Desenvolvimento e Assistência Social, Família e Combate à Fome; da Pesca e Aquicultura; dos Direitos Humanos e da Cidadania; e dos Povos Indígenas, no valor de R$ 1.062.231.956,00, para os fins que especifica"
+    },
+    {
+      "senadoId": "38226342",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-02-27-1208",
+      "titulo": "Medida Provisória nº 1.208 de 27/02/2024",
+      "data": "2024-02-27",
+      "numero": "1208",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-02-27;1208",
+      "ementa": "Revoga dispositivos da Medida Provisória nº 1.202, de 28 de dezembro de 2023."
+    },
+    {
+      "senadoId": "38221607",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-02-27-1207",
+      "titulo": "Medida Provisória nº 1.207 de 27/02/2024",
+      "data": "2024-02-27",
+      "numero": "1207",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-02-27;1207",
+      "ementa": "Altera a Lei nº 14.002, de 22 de maio de 2020, e a Lei nº 11.771, de 17 de setembro de 2008, para atualizar e aprimorar o regime jurídico a que se submete a Agência Brasileira de Promoção Internacional do Turismo - Embratur."
+    },
+    {
+      "senadoId": "38192230",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2024-02-06-1206",
+      "titulo": "Medida Provisória nº 1.206 de 06/02/2024",
+      "data": "2024-02-06",
+      "numero": "1206",
+      "urn": "urn:lex:br:federal:medida.provisoria:2024-02-06;1206",
+      "ementa": "Altera os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física de que trata o art. 1º da Lei nº 11.482, de 31 de maio de 2007."
+    }
+  ],
+  "pendencias": []
+}

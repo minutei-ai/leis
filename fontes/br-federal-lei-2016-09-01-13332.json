@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-09-01-13332",
+  "titulo": "Lei nº 13.332 de 01/09/2016",
+  "data": "2016-09-01",
+  "fonte": "https://normas.leg.br/api/public/binario/ebfedc3f-6de9-420d-80bc-3674bf6502d1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-09-01;13332",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-09-01%3B13332&tipo_documento=maior-detalhe",
+  "sha256_dados": "592c4f4dd2059acf9caaa2ac26eef6753b1472ac0a540f261a583f2d9f991f44",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:51.595Z",
+  "sha256_fonte": "22e08256f5e6ff76d394ace2678622525deca1be397595386f7c0258d4716765",
+  "sha256_markdown": "431411302ecc53c83b0f685dc2415345040e9ead032005f70bf4a60dbebd030b"
+}

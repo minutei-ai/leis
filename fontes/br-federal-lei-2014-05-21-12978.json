@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-05-21-12978",
+  "titulo": "Lei nº 12.978 de 21/05/2014",
+  "data": "2014-05-21",
+  "fonte": "https://normas.leg.br/api/public/binario/947b4ee8-b5bd-46a0-ba88-e40a8a1a2883/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-05-21;12978",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-05-21%3B12978&tipo_documento=maior-detalhe",
+  "sha256_dados": "bd0bc2dcce667aefd889b3671d54e8c5209ab23a9576dcd509fb16949f2efb50",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:42.214Z",
+  "sha256_fonte": "bc87d634b5e8702a2e549ee1dd926783916cc9a1b9d55f0c6e34c22a392804a8",
+  "sha256_markdown": "df48a90f8bbd749c31c93f8b7fc47ba903461624c48c91d2ffd1d54a3351392f"
+}

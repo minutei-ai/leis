@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-04-15-13273",
+  "titulo": "Lei nº 13.273 de 15/04/2016",
+  "data": "2016-04-15",
+  "fonte": "https://normas.leg.br/api/public/binario/f0380a6d-fa33-4975-8fd4-1322e32694f0/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-04-15;13273",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-04-15%3B13273&tipo_documento=maior-detalhe",
+  "sha256_dados": "31db38696fa2e1358b64fdf78a886ba56ffeab390866c3c1be9133cb33c55999",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:17.596Z",
+  "sha256_fonte": "60bc8c06a637adc5c7e05a237230b481d8b7e063d789e35a41dc1693d1abd21a",
+  "sha256_markdown": "9a58a9c761f44de4d6e38c9141543371c7be5c526af4feab35530f6c4cfb2025"
+}

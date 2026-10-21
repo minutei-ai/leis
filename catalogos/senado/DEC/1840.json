@@ -1,0 +1,189 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1840",
+  "tipo": "DEC",
+  "ano": 1840,
+  "coletado_em": "2026-10-21T08:52:57.843Z",
+  "normas": [
+    {
+      "senadoId": "385607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-12-04-58",
+      "titulo": "Decreto nº 58 de 04/12/1840",
+      "data": "1840-12-04",
+      "numero": "58",
+      "urn": "urn:lex:br:federal:decreto:1840-12-04;58",
+      "ementa": "MANDANDO CRIAR, ANEXA AO HOSPITAL DA MARINHA, UMA BOTICA PARA O SERVIÇO DO MESMO HOSPITAL E NAVIOS DA ARMADA; E DANDO NOVAS PROVIDÊNCIAS ACERCA DO MESMO ESTABELECIMENTO."
+    },
+    {
+      "senadoId": "385602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-11-28-57",
+      "titulo": "Decreto nº 57 de 28/11/1840",
+      "data": "1840-11-28",
+      "numero": "57",
+      "urn": "urn:lex:br:federal:decreto:1840-11-28;57",
+      "ementa": "ESTABELECENDO UMA TESOURARIA DENOMINADA DAS LOTERIAS."
+    },
+    {
+      "senadoId": "385596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-11-24-56",
+      "titulo": "Decreto nº 56 de 24/11/1840",
+      "data": "1840-11-24",
+      "numero": "56",
+      "urn": "urn:lex:br:federal:decreto:1840-11-24;56",
+      "ementa": "CONCEDENDO O USO DE FARDAS AOS EMPREGADOS DA SECRETARIA DA FAZENDA."
+    },
+    {
+      "senadoId": "385591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-11-13-55",
+      "titulo": "Decreto nº 55 de 13/11/1840",
+      "data": "1840-11-13",
+      "numero": "55",
+      "urn": "urn:lex:br:federal:decreto:1840-11-13;55",
+      "ementa": "ANEXANDO A SECRETARIA DE ESTADO DOS NEGÓCIOS DA MARINHA UMA ESTAÇÃO DE FAZENDA, COM O TÍTULO DE CONTADORIA GERAL DA MARINHA."
+    },
+    {
+      "senadoId": "385586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-10-26-54",
+      "titulo": "Decreto nº 54 de 26/10/1840",
+      "data": "1840-10-26",
+      "numero": "54",
+      "urn": "urn:lex:br:federal:decreto:1840-10-26;54",
+      "ementa": "DETERMINANDO QUE AS DUAS COMPANHIAS, QUE RESTAM PARA O COMPLETO DO CORPO DE IMPERIAIS MARINHEIROS, SEJAM COMPOSTAS DE OPERÁRIOS DAS OFICINAS DO ARSENAL DA MARINHA, E CONSIDERADAS NELE DESTACADAS."
+    },
+    {
+      "senadoId": "385581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-10-09-53",
+      "titulo": "Decreto nº 53 de 09/10/1840",
+      "data": "1840-10-09",
+      "numero": "53",
+      "urn": "urn:lex:br:federal:decreto:1840-10-09;53",
+      "ementa": "DESTINANDO UMA DAS CASAS DOS PRÓPRIOS NACIONAIS PARA NELA SE ESTABELECER O OBSERVATÓRIO DA MARINHA, FICANDO, ADICIONADA À ACADEMIA DOS GUARDAS MARINHAS."
+    },
+    {
+      "senadoId": "385576",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-10-08-52",
+      "titulo": "Decreto nº 52 de 08/10/1840",
+      "data": "1840-10-08",
+      "numero": "52",
+      "urn": "urn:lex:br:federal:decreto:1840-10-08;52",
+      "ementa": "CHAMANDO A GUARDA NACIONAL A FAZER O SERVIÇO DE CORPOS DESTACADOS PARA AUXILIAR O EXÉRCITO DE 1ª LINHA NA DEFESA DAS PRAÇAS, COSTAS, E FRONTEIRAS DAS PROVÍNCIAS, E FIXANDO O NÚMERO MÁXIMO DE GUARDAS NACIONAIS QUE PODERÃO CONSERVAR-SE DESTACADAS EM TODO O IMPÉRIO, E O TEMPO DE SERVIÇO."
+    },
+    {
+      "senadoId": "385571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-09-18-51",
+      "titulo": "Decreto nº 51 de 18/09/1840",
+      "data": "1840-09-18",
+      "numero": "51",
+      "urn": "urn:lex:br:federal:decreto:1840-09-18;51",
+      "ementa": "REDUZ A PORCENTAGEM DOS EMPREGADOS DAS ALFÂNDEGAS DA CORTE, E PERNAMBUCO."
+    },
+    {
+      "senadoId": "385566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-09-17-50",
+      "titulo": "Decreto nº 50 de 17/09/1840",
+      "data": "1840-09-17",
+      "numero": "50",
+      "urn": "urn:lex:br:federal:decreto:1840-09-17;50",
+      "ementa": "ALTERANDO O UNIFORME DO CORPO DE ARTILHARIA DA MARINHA."
+    },
+    {
+      "senadoId": "385561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-06-27-49",
+      "titulo": "Decreto nº 49 de 27/06/1840",
+      "data": "1840-06-27",
+      "numero": "49",
+      "urn": "urn:lex:br:federal:decreto:1840-06-27;49",
+      "ementa": "ORDENANDO QUE AS HABILITAÇÕES DAS VIUVAS, FILHAS, FILHOS E MÃES DOS OFICIAIS MILITARES, PARA A PERCEPÇÃO DO MEIO SOLDO, SEJAM FEITAS PERANTE O TRIBUNAL DO TESOURO PUBLICO NACIONAL."
+    },
+    {
+      "senadoId": "385556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-04-25-48",
+      "titulo": "Decreto nº 48 de 25/04/1840",
+      "data": "1840-04-25",
+      "numero": "48",
+      "urn": "urn:lex:br:federal:decreto:1840-04-25;48",
+      "ementa": "ALTERANDO O REGULAMENTO DA CASA DA MOEDA DE 13 DE MARÇO DE 1834."
+    },
+    {
+      "senadoId": "385551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-04-25-47",
+      "titulo": "Decreto nº 47 de 25/04/1840",
+      "data": "1840-04-25",
+      "numero": "47",
+      "urn": "urn:lex:br:federal:decreto:1840-04-25;47",
+      "ementa": "REVOGA ALGUMAS DISPOSIÇÕES DO REGULAMENTO 2 DE JANEIRO DE 1838."
+    },
+    {
+      "senadoId": "385542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-03-26-45",
+      "titulo": "Decreto nº 45 de 26/03/1840",
+      "data": "1840-03-26",
+      "numero": "45",
+      "urn": "urn:lex:br:federal:decreto:1840-03-26;45",
+      "ementa": "DANDO AS COMPANHIAS FIXAS A DENOMINAÇÃO DE CORPO DE IMPERIAIS MARINHEIROS, E AO RESPECTIVO COMANDANTE A DE COMANDANTE SUPERIOR."
+    },
+    {
+      "senadoId": "385532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-03-11-43",
+      "titulo": "Decreto nº 43 de 11/03/1840",
+      "data": "1840-03-11",
+      "numero": "43",
+      "urn": "urn:lex:br:federal:decreto:1840-03-11;43",
+      "ementa": "CRIANDO NA CORTE, E NAS PROVÍNCIAS FRONTEIRAS DO PARÁ, RIO GRANDE DE SÃO PEDRO, E MATO GROSSO, ASILOS DE INVÁLIDOS PARA AS PRAÇAS DE PRET, QUE ESTIVEREM NAS CIRCUNSTÂNCIAS DE SEREM REFORMADOS."
+    },
+    {
+      "senadoId": "385527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-03-11-42",
+      "titulo": "Decreto nº 42 de 11/03/1840",
+      "data": "1840-03-11",
+      "numero": "42",
+      "urn": "urn:lex:br:federal:decreto:1840-03-11;42",
+      "ementa": "ESTABELECENDO NO ARSENAL DE GUERRA DA CORTE, UM COLÉGIO PARA OS FILHOS NECESSITADOS DOS CAPITÃES E OFICIAIS SUBALTERNOS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "385522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-02-20-41",
+      "titulo": "Decreto nº 41 de 20/02/1840",
+      "data": "1840-02-20",
+      "numero": "41",
+      "urn": "urn:lex:br:federal:decreto:1840-02-20;41",
+      "ementa": "ORDENANDO QUE DO PRINCÍPIO DO ANO FINANCEIRO SEGUINTE EM DIANTE A CONTABILIDADE DO TESOURO, TESOURARIAS, E MAIS REPARTIÇÕES DE RECEBIMENTO E DESPESA, SEJA ESTABELECIDA POR EXERCÍCIO, E NÃO POR ANO, COMO ATÉ AGORA."
+    },
+    {
+      "senadoId": "385517",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-02-06-40",
+      "titulo": "Decreto nº 40 de 06/02/1840",
+      "data": "1840-02-06",
+      "numero": "40",
+      "urn": "urn:lex:br:federal:decreto:1840-02-06;40",
+      "ementa": "DESIGNANDO AS CONFERENCIAS SEMANARIAS, QUE DEVEM HAVER NAS RELAÇÕES DO IMPERIO."
+    },
+    {
+      "senadoId": "385508",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1840-01-07-38",
+      "titulo": "Decreto nº 38 de 07/01/1840",
+      "data": "1840-01-07",
+      "numero": "38",
+      "urn": "urn:lex:br:federal:decreto:1840-01-07;38",
+      "ementa": "REVOGANDO O ARTIGO 2º DO DECRETO DE 6 DE MAIO DE 1839; E ORDENANDO QUE A PAUTA PARA A PERCEPÇÃO DOS DIREITOS SOBRE OS LIQUIDOS EM GERAL, E A FARINHA DE TRIGO DE PRODUÇÃO ESTRANGEIRA, SEJA ORGANIZADA NA FORMA DO REGULAMENTO DAS ALFÂNDEGAS DO IMPÉRIO."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-06-05-13448",
+  "titulo": "Lei nº 13.448 de 05/06/2017",
+  "data": "2017-06-05",
+  "fonte": "https://normas.leg.br/api/public/binario/f13aa744-564a-4b4c-accf-01c256aa0bbc/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-06-05;13448",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-06-05%3B13448&tipo_documento=maior-detalhe",
+  "sha256_dados": "b290347963df29c58710f4da127fac9191a589969bbcb671dfdf1d4db947cc4a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:19.452Z",
+  "sha256_fonte": "0e09654575b20df2a8b0fb26571835fe7c076763ecf3a34a7f9d276878db04fe",
+  "sha256_markdown": "bcefe3a28fdf50fdca12cd9b8d86370893238253522d0e04a895eb3ee37ae62a"
+}

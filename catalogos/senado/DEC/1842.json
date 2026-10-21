@@ -1,0 +1,1399 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1842",
+  "tipo": "DEC",
+  "ano": 1842,
+  "coletado_em": "2026-10-21T08:52:56.279Z",
+  "normas": [
+    {
+      "senadoId": "386728",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-12-17-260",
+      "titulo": "Decreto nº 260 de 17/12/1842",
+      "data": "1842-12-17",
+      "numero": "260",
+      "urn": "urn:lex:br:federal:decreto:1842-12-17;260",
+      "ementa": "DETERMINA QUE O BATALHÃO 5 DE ARTILHARIA A PÉ FIQUE PERTENCENDO À ARMADA DE INFANTARIA, TOMANDO A NUMERAÇÃO DE BATALHÃO DE FUZILEIROS 2."
+    },
+    {
+      "senadoId": "386723",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-12-13-259",
+      "titulo": "Decreto nº 259 de 13/12/1842",
+      "data": "1842-12-13",
+      "numero": "259",
+      "urn": "urn:lex:br:federal:decreto:1842-12-13;259",
+      "ementa": "APROVA O PLANO PARA OS UNIFORMES DOS OFICIAIS DO CORPO DA ARMADA."
+    },
+    {
+      "senadoId": "386713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-12-02-257",
+      "titulo": "Decreto nº 257 de 02/12/1842",
+      "data": "1842-12-02",
+      "numero": "257",
+      "urn": "urn:lex:br:federal:decreto:1842-12-02;257",
+      "ementa": "REESTABELECE AS DISPOSIÇÕES DO DECRETO DE VINTE E SETE DE SETEMBRO DE MIL OITOCENTOS E VINTE E OITO, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "386718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-12-02-258",
+      "titulo": "Decreto nº 258 de 02/12/1842",
+      "data": "1842-12-02",
+      "numero": "258",
+      "urn": "urn:lex:br:federal:decreto:1842-12-02;258",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA SEGUNDA VARA DESTA CIDADE."
+    },
+    {
+      "senadoId": "386708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-30-256",
+      "titulo": "Decreto nº 256 de 30/11/1842",
+      "data": "1842-11-30",
+      "numero": "256",
+      "urn": "urn:lex:br:federal:decreto:1842-11-30;256",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À SECRETARIA DE ESTADO DOS NEGÓCIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "386698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-29-254",
+      "titulo": "Decreto nº 254 de 29/11/1842",
+      "data": "1842-11-29",
+      "numero": "254",
+      "urn": "urn:lex:br:federal:decreto:1842-11-29;254",
+      "ementa": "REGULA O PORTE QUE DEVEM PAGAR NOS CORREIOS DO IMPÉRIO AS CARTAS E MAIS PAPÉIS, E A MANEIRA POR QUE SE HÁ DE FAZER O PAGAMENTO DELE."
+    },
+    {
+      "senadoId": "386703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-29-255",
+      "titulo": "Decreto nº 255 de 29/11/1842",
+      "data": "1842-11-29",
+      "numero": "255",
+      "urn": "urn:lex:br:federal:decreto:1842-11-29;255",
+      "ementa": "ESTABELECE O MODO POR QUE SE DEVE EFETUAR NOS CORREIOS DO IMPÉRIO O ADIANTAMENTO DOS PORTES DAS CARTAS E MAIS PAPÉIS, E A MANEIRA POR QUE ESTES SE DEVEM DISTRIBUIR NAS CASAS COM A MAIOR CELERIDADE."
+    },
+    {
+      "senadoId": "386682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-28-251",
+      "titulo": "Decreto nº 251 de 28/11/1842",
+      "data": "1842-11-28",
+      "numero": "251",
+      "urn": "urn:lex:br:federal:decreto:1842-11-28;251",
+      "ementa": "APROVA A QUALIFICAÇÃO DOS OFICIAIS EFETIVOS QUE FICAM CONSTITUINDO O QUADRO DO EXÉRCITO NA CONFORMIDADE DO DECRETO 260 DE 1º DE DEZEMBRO DE 1841."
+    },
+    {
+      "senadoId": "386688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-28-252",
+      "titulo": "Decreto nº 252 de 28/11/1842",
+      "data": "1842-11-28",
+      "numero": "252",
+      "urn": "urn:lex:br:federal:decreto:1842-11-28;252",
+      "ementa": "MANDA QUE OS ATOS IMPRESSOS DO PODER LEGISLATIVO GERAL, E OS DO GOVERNO GERAL EXPEDIDOS PARA SUA EXECUÇÃO, SEJAM REMETIDOS DIRETAMENTE, NA CORTE ÀS DIVERSAS AUTORIDADES, E NAS PROVÍNCIAS AOS RESPECTIVOS PRESIDENTES, PELO OFICIAL MAIOR DA SECRETARIA DE ESTADO DOS NEGÓCIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "386693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-28-253",
+      "titulo": "Decreto nº 253 de 28/11/1842",
+      "data": "1842-11-28",
+      "numero": "253",
+      "urn": "urn:lex:br:federal:decreto:1842-11-28;253",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DO RIO DE JANEIRO, QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE JUÍZES MUNICIPAIS, QUE ACUMULARAM AS FUNÇÕES DE JUÍZES DOS ORFÃOS, E QUAIS NÃO."
+    },
+    {
+      "senadoId": "386670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-22-249",
+      "titulo": "Decreto nº 249 de 22/11/1842",
+      "data": "1842-11-22",
+      "numero": "249",
+      "urn": "urn:lex:br:federal:decreto:1842-11-22;249",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA CIDADE DO RIO GRANDE, DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "386665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-22-248",
+      "titulo": "Decreto nº 248 de 22/11/1842",
+      "data": "1842-11-22",
+      "numero": "248",
+      "urn": "urn:lex:br:federal:decreto:1842-11-22;248",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DA PRIMEIRA VARA CIVIL DA CIDADE DO RECIFE, DA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "386675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-22-250",
+      "titulo": "Decreto nº 250 de 22/11/1842",
+      "data": "1842-11-22",
+      "numero": "250",
+      "urn": "urn:lex:br:federal:decreto:1842-11-22;250",
+      "ementa": "MARCA ORDENADOS AOS PROMOTORES PÚBLICOS DAS COMARCAS E URUBÚ, CARAVELAS, E PORTO SEGURO, DA PROVÍNCIA DA BAHÍA."
+    },
+    {
+      "senadoId": "386660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-15-247",
+      "titulo": "Decreto nº 247 de 15/11/1842",
+      "data": "1842-11-15",
+      "numero": "247",
+      "urn": "urn:lex:br:federal:decreto:1842-11-15;247",
+      "ementa": "REGULA A MANEIRA, PELA QUAL OS PRESIDENTES DAS PROVÍNCIAS DEVEM EXECUTAR O PARÁGRAFO DÉCIMO QUARTO DO ARTIGO QUINTO DA LEI DE TRÊS DE OUTUBRO DE MIL OITOCENTOS E TRINTA E QUATRO."
+    },
+    {
+      "senadoId": "386654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-12-246",
+      "titulo": "Decreto nº 246 de 12/11/1842",
+      "data": "1842-11-12",
+      "numero": "246",
+      "urn": "urn:lex:br:federal:decreto:1842-11-12;246",
+      "ementa": "DETERMINA QUE FIQUE PERTECENDO A PROVÍNCIA DA BAHÍA, UMA DAS CINCO COMPANHIAS DE CAVALARIA LIGEIRA, CRIADAS PELO DECRETO DUZENTOS E CARTOZE DE VINTE DE AGOSTO DO CORRENTE ANO, E OUTRA À DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "386648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-07-245",
+      "titulo": "Decreto nº 245 de 07/11/1842",
+      "data": "1842-11-07",
+      "numero": "245",
+      "urn": "urn:lex:br:federal:decreto:1842-11-07;245",
+      "ementa": "REVOGA O ARTIGO CENTO E TRINTA E CINCO DOS ESTATUTOS DO COLÉGIO DE PEDRO II."
+    },
+    {
+      "senadoId": "386637",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-06-243",
+      "titulo": "Decreto nº 243 de 06/11/1842",
+      "data": "1842-11-06",
+      "numero": "243",
+      "urn": "urn:lex:br:federal:decreto:1842-11-06;243",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DE MINAS GERAIS, QUE DEVEM SER REUNIDOS À OUTROS, DEBAIXO DA JURISDIÇÃO DE JUÍZES MUNICIPAIS, QUE ACUMULARAM AS FUNÇÕES DE JUÍZES DOS ORFÃOS, E QUAIS NÃO."
+    },
+    {
+      "senadoId": "386643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-06-244",
+      "titulo": "Decreto nº 244 de 06/11/1842",
+      "data": "1842-11-06",
+      "numero": "244",
+      "urn": "urn:lex:br:federal:decreto:1842-11-06;244",
+      "ementa": "CRIA UM LUGAR DE JUIZ DOS ORFÃOS NOS TERMOS DA CIDADE DE SÃO PAULO E DA VILA DE SANTO AMARO, SEPARADO DO DE MUNICIPAL."
+    },
+    {
+      "senadoId": "386632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-06-242",
+      "titulo": "Decreto nº 242 de 06/11/1842",
+      "data": "1842-11-06",
+      "numero": "242",
+      "urn": "urn:lex:br:federal:decreto:1842-11-06;242",
+      "ementa": "MARCA ORDENADOS AOS JUÍZES MUNICIPAIS DE ORFÃOS DA PROVÍNCIA DE MINAS GERAIS, CRIA UM PROMOTOR PÚBLICO EM CADA UMA DAS COMARCAS DA MESMA PROVÍNCIA, E ESTABELECE-LHES ORDENADOS, BEM COMO MARCA A GRATIFICAÇÃO DO CHEFE DE POLÍCIA, E OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS."
+    },
+    {
+      "senadoId": "386621",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-05-240",
+      "titulo": "Decreto nº 240 de 05/11/1842",
+      "data": "1842-11-05",
+      "numero": "240",
+      "urn": "urn:lex:br:federal:decreto:1842-11-05;240",
+      "ementa": "DESIGNA QUANTOS JUÍZES MUNICIPAIS E PROMOTORES PÚBLICOS DEVEM HAVER NA PROVÍNCIA DE MATO GROSSO; MARCA-LHES ORDENADOS, BEM COMO OS VENCIMENTOS DO CHEFE DE POLÍCIA, SEU AMANUENSE, E CARCEREIROS DAS CADEIAS DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "386606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-05-237",
+      "titulo": "Decreto nº 237 de 05/11/1842",
+      "data": "1842-11-05",
+      "numero": "237",
+      "urn": "urn:lex:br:federal:decreto:1842-11-05;237",
+      "ementa": "CRIA DOIS AMANUENSES PARA O EXPEDIENTE DA REPARTIÇÃO DA POLÍCIA DA PROVÍNCIA DE SÃO PAULO, E MARCA-LHES OS VENCIMENTOS."
+    },
+    {
+      "senadoId": "386616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-05-239",
+      "titulo": "Decreto nº 239 de 05/11/1842",
+      "data": "1842-11-05",
+      "numero": "239",
+      "urn": "urn:lex:br:federal:decreto:1842-11-05;239",
+      "ementa": "CRIA PROMOTORES PÚBLICOS NAS COMARCAS DA PROVÍNCIA DO ESPÍRITO SANTO, E UM AMANUENSE PARA O EXPEDIENTE DA REPARTIÇÃO DA POLÍCIA, E MARCA ORDENADOS AQUELES EMPREGADOS, E GRATIFICAÇÃO A ESTE."
+    },
+    {
+      "senadoId": "386627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-05-241",
+      "titulo": "Decreto nº 241 de 05/11/1842",
+      "data": "1842-11-05",
+      "numero": "241",
+      "urn": "urn:lex:br:federal:decreto:1842-11-05;241",
+      "ementa": "MARCA A GRATIFICAÇÃO QUE DEVE PERCEBER O CHEFE DE POLÍCIA DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "386611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-11-05-238",
+      "titulo": "Decreto nº 238 de 05/11/1842",
+      "data": "1842-11-05",
+      "numero": "238",
+      "urn": "urn:lex:br:federal:decreto:1842-11-05;238",
+      "ementa": "MARCA ORDENADOS AOS PROMOTORES PÚBLICOS DAS COMARCAS DO ASSÚ E DA MAIORIDADE, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "386601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-24-236",
+      "titulo": "Decreto nº 236 de 24/10/1842",
+      "data": "1842-10-24",
+      "numero": "236",
+      "urn": "urn:lex:br:federal:decreto:1842-10-24;236",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DA PARAÍBA DO NORTE QUE DEVEM SER REUNIDOS À OUTROS, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS, E QUAIS NÃO; BEM COMO OS TERMOS QUE FICAM DEBAIXO DA JURISDIÇÃO DOS JUÍZES SUBSTITUTOS; CRIA UM PROMOTOR PÚBLICO EM CADA UMA DAS COMARCAS DA DITA PROVÍNCIA, E MARCA ORDENADOS A TODOS ESSES EMPREGADOS E O VENCIMENTO QUE DEVE PERCEBER O AMANUENSE DO RESPECTIVO CHEFE DE POLÍCIA."
+    },
+    {
+      "senadoId": "386580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-23-232",
+      "titulo": "Decreto nº 232 de 23/10/1842",
+      "data": "1842-10-23",
+      "numero": "232",
+      "urn": "urn:lex:br:federal:decreto:1842-10-23;232",
+      "ementa": "CRIA UM PROMOTOR PÚBLICO NA COMARCA DA CIDADE, CAPITAL DA PROVÍNCIA DE GOIÁS, E MARCA-LHE ORDENADO."
+    },
+    {
+      "senadoId": "386591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-23-234",
+      "titulo": "Decreto nº 234 de 23/10/1842",
+      "data": "1842-10-23",
+      "numero": "234",
+      "urn": "urn:lex:br:federal:decreto:1842-10-23;234",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "386575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-23-231",
+      "titulo": "Decreto nº 231 de 23/10/1842",
+      "data": "1842-10-23",
+      "numero": "231",
+      "urn": "urn:lex:br:federal:decreto:1842-10-23;231",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE OEIRAS, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "386596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-23-235",
+      "titulo": "Decreto nº 235 de 23/10/1842",
+      "data": "1842-10-23",
+      "numero": "235",
+      "urn": "urn:lex:br:federal:decreto:1842-10-23;235",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA CIDADE DE SÃO CRISTÓVÃO, E DA VILA DE ESTÂNCIA, DA PROVÍNCIA DE SERGIPE DE DELREI."
+    },
+    {
+      "senadoId": "386585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-23-233",
+      "titulo": "Decreto nº 233 de 23/10/1842",
+      "data": "1842-10-23",
+      "numero": "233",
+      "urn": "urn:lex:br:federal:decreto:1842-10-23;233",
+      "ementa": "MARCA O ORDENADO QUE DEVE VENCER O JUIZ MUNICIPAL E DE ORFÃOS DO TERMO DO BANANAL, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "386571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-22-230",
+      "titulo": "Decreto nº 230 de 22/10/1842",
+      "data": "1842-10-22",
+      "numero": "230",
+      "urn": "urn:lex:br:federal:decreto:1842-10-22;230",
+      "ementa": "ADITANDO O REGULAMENTO 150 DE 9 DE ABRIL ÚLTIMO SOBRE A ARRECADAÇÃO DA DÍZIMA DA CANCELARIA."
+    },
+    {
+      "senadoId": "386566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-22-229",
+      "titulo": "Decreto nº 229 de 22/10/1842",
+      "data": "1842-10-22",
+      "numero": "229",
+      "urn": "urn:lex:br:federal:decreto:1842-10-22;229",
+      "ementa": "APROVA O REGULAMENTO PARA EXECUÇÃO DO DECRETO 258 DE 30 DE NOVEMBRO DE 1841."
+    },
+    {
+      "senadoId": "386561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-19-228",
+      "titulo": "Decreto nº 228 de 19/10/1842",
+      "data": "1842-10-19",
+      "numero": "228",
+      "urn": "urn:lex:br:federal:decreto:1842-10-19;228",
+      "ementa": "MANDA OBSERVAR OS ESTATUTOS DA ORDEM DE PEDRO PRIMEIRO."
+    },
+    {
+      "senadoId": "386556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-10-01-227",
+      "titulo": "Decreto nº 227 de 01/10/1842",
+      "data": "1842-10-01",
+      "numero": "227",
+      "urn": "urn:lex:br:federal:decreto:1842-10-01;227",
+      "ementa": "CRIA PROMOTORES PÚBLICOS NAS COMARCAS DO RIO DE SÃO FRANCISCO E DE SANTA SÉ, DA PROVÍNCIA DA BAHÍA, E MARCA-LHES ORDENADOS."
+    },
+    {
+      "senadoId": "386551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-30-226",
+      "titulo": "Decreto nº 226 de 30/09/1842",
+      "data": "1842-09-30",
+      "numero": "226",
+      "urn": "urn:lex:br:federal:decreto:1842-09-30;226",
+      "ementa": "MANDA QUE CESSEM OS EFEITOS DO DECRETO 184 DE 20 DE JUNHO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "386546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-25-225",
+      "titulo": "Decreto nº 225 de 25/09/1842",
+      "data": "1842-09-25",
+      "numero": "225",
+      "urn": "urn:lex:br:federal:decreto:1842-09-25;225",
+      "ementa": "MANDA FICAR SEM VIGOR O DECRETO 168 DE 17 DE MAIO DO CORRENTE ANO, QUE SUSPENDEU POR ESPAÇO DE UM ANO, NA PROVÍNCIA DE SÃO PAULO OS $$ 6º, 7º, 8º, 9º E 10º DO ARTIGO 179 DA CONSTITUIÇÃO."
+    },
+    {
+      "senadoId": "386541",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-24-224",
+      "titulo": "Decreto nº 224 de 24/09/1842",
+      "data": "1842-09-24",
+      "numero": "224",
+      "urn": "urn:lex:br:federal:decreto:1842-09-24;224",
+      "ementa": "MANDA COMEMORAR O DIA VINTE E QUATRO DE SETEMBRO DE MIL OITOCENTOS E TRINTA E QUATRO, DO OBITO DE SUA MAJESTADE IMPERIAL O SENHOR DOM PEDRO I DE SAUDOSA MEMORIA, COM HONRAS FUNEBRES MILITARES."
+    },
+    {
+      "senadoId": "386536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-22-223",
+      "titulo": "Decreto nº 223 de 22/09/1842",
+      "data": "1842-09-22",
+      "numero": "223",
+      "urn": "urn:lex:br:federal:decreto:1842-09-22;223",
+      "ementa": "REVOGA O ARTIGO 3º DO DECRETO 58 DE 4 DE DEZEMBRO DE 1840, RELATIVO AO ESCRIVÃO, E AO FIEL DO HOSPITAL DA MARINHA E ORDENA QUE FIQUEM EM SEU PLENO VIGOR OS DECRETOS DE 18 DE JANEIRO DE 1834 À CERCA DESTES EMPREGOS."
+    },
+    {
+      "senadoId": "386531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-09-222",
+      "titulo": "Decreto nº 222 de 09/09/1842",
+      "data": "1842-09-09",
+      "numero": "222",
+      "urn": "urn:lex:br:federal:decreto:1842-09-09;222",
+      "ementa": "MANDA QUE O REGULAMENTO PROVISÓRIO DO CONSELHO DE ESTADO CONTINUE A SER OBSERVADO, FICANDO A SECÇÃO A QUE PERTENCEM OS NEGÓCIOS DO IMPÉRIO, INCUMBIDA DE PROPÔR AS ALTERAÇÕES, QUE A EXPERIÊNCIA MOSTRAR NECESSÁRIAS."
+    },
+    {
+      "senadoId": "386526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-06-221",
+      "titulo": "Decreto nº 221 de 06/09/1842",
+      "data": "1842-09-06",
+      "numero": "221",
+      "urn": "urn:lex:br:federal:decreto:1842-09-06;221",
+      "ementa": "MARCA A MANEIRA POR QUE DEVEM FICAR REUNIDOS OS TERMOS DA PROVÍNCIA DO RIO GRANDE DO NORTE, DEBAIXO DA JURISDIÇÃO DE JUÍZES MUNICIPAIS, QUE ACUMULARAM AS FUNÇÕES DE JUÍZES DOS ORFÃOS; E OS ORDENADOS DOS RESPECTIVOS JUÍZES; CRIA UM PROMOTOR PÚBLICO EM CADA UMA DAS COMARCAS DA MESMA PROVÍNCIA, E MARCA ORDENADO AO DA CAPITAL; E DECLARA A GRATIFICAÇÃO QUE DEVE PERCEBER O CARCEREIRO DA CADEIA DA CIDADE DO NATAL."
+    },
+    {
+      "senadoId": "386520",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-06-220",
+      "titulo": "Decreto nº 220 de 06/09/1842",
+      "data": "1842-09-06",
+      "numero": "220",
+      "urn": "urn:lex:br:federal:decreto:1842-09-06;220",
+      "ementa": "MARCA GRATIFICAÇÃO AO CHEFE DE POLÍCIA, E ORDENADOS AOS JUÍZES MUNICIPAIS DOS TERMOS DAS CIDADES DE PORTO ALEGRE, E RIO GRANDE, DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL; CRIA PROMOTORES EM ALGUMAS DE SUAS COMARCAS, E ESTABELECE-LHES ORDENADOS, E DESIGNA A GRATIFICAÇÃO QUE DEVE PERCEBER O AMANUENSE DO DITO CHEFE DE POLÍCIA."
+    },
+    {
+      "senadoId": "386515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-09-02-219",
+      "titulo": "Decreto nº 219 de 02/09/1842",
+      "data": "1842-09-02",
+      "numero": "219",
+      "urn": "urn:lex:br:federal:decreto:1842-09-02;219",
+      "ementa": "CRIA PROMOTORES PÚBLICOS EM ALGUMAS COMARCAS DA PROVÍNCIA DA BAHÍA, E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-29-216",
+      "titulo": "Decreto nº 216 de 29/08/1842",
+      "data": "1842-08-29",
+      "numero": "216",
+      "urn": "urn:lex:br:federal:decreto:1842-08-29;216",
+      "ementa": "REVOGA O DECRETO CENTO E OITENTA DE DEZOITO DE JUNHO DO CORRENTE ANO, E ORDENA QUE OS MUNICÍPIOS DAS VILAS CUNHA, BANANAL, AREAS, QUELUZ, SILVEIRAS, LORENA E GUARATINGUETÁ FIQUEM OUTRA VEZ PERTENCENDO A PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "386490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-27-215",
+      "titulo": "Decreto nº 215 de 27/08/1842",
+      "data": "1842-08-27",
+      "numero": "215",
+      "urn": "urn:lex:br:federal:decreto:1842-08-27;215",
+      "ementa": "MANDA CRIAR UMA COMISSÃO DE PRÁTICA PARA INSTRUÇÃO DOS OFICIAIS ENGENHEIROS QUE NÃO TIVEREM AINDA APRESENTADO BOM DESEMPENHO DE COMISSÕES IMPORTANTES."
+    },
+    {
+      "senadoId": "386505",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-21-217",
+      "titulo": "Decreto nº 217 de 21/08/1842",
+      "data": "1842-08-21",
+      "numero": "217",
+      "urn": "urn:lex:br:federal:decreto:1842-08-21;217",
+      "ementa": "REUNE O TERMO DE VALENÇA AO DA CIDADE DE OEIRAS DA PROVÍNCIA DO PIAUÍ, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS; CRIA UM PROMOTOR PÚBLICO NA COMARCA DA MESMA CIDADE; E MARCA ORDENADO A ESSES EMPREGADOS E A GRATIFICAÇÃO QUE DEVEM VENCER O CHEFE DE POLÍCIA DA DITA PROVÍNCIA, E O SEU AMANUENSE."
+    },
+    {
+      "senadoId": "386510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-21-218",
+      "titulo": "Decreto nº 218 de 21/08/1842",
+      "data": "1842-08-21",
+      "numero": "218",
+      "urn": "urn:lex:br:federal:decreto:1842-08-21;218",
+      "ementa": "DECLARA, EM ADITAMENTO AO DECRETO CENTO E SETENTA DE QUINZE DE MAIO PRÓXIMO FINDO, QUE CADA UM DOS TERMOS DE ABRANTES, E DE MINAS DO RIO DE CONTAS, DA PROVÍNCIA DA BAHÍA, TERÁ UM JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "386485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-20-214",
+      "titulo": "Decreto nº 214 de 20/08/1842",
+      "data": "1842-08-20",
+      "numero": "214",
+      "urn": "urn:lex:br:federal:decreto:1842-08-20;214",
+      "ementa": "APROVA O PLANO DA ORGANIZAÇÃO DA FORÇA FORA DA LINHA, FIXADA NO ARTIGO 1 PARAGRAFO 3 DA LEI 190 DE 24 DE AGOSTO DE 1841, NA CONFORMIDADE DO ARTIGO 2 DA MESMA LEI."
+    },
+    {
+      "senadoId": "386479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-07-213",
+      "titulo": "Decreto nº 213 de 07/08/1842",
+      "data": "1842-08-07",
+      "numero": "213",
+      "urn": "urn:lex:br:federal:decreto:1842-08-07;213",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA COMARCA DA PARAÍBA DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "386468",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-06-211",
+      "titulo": "Decreto nº 211 de 06/08/1842",
+      "data": "1842-08-06",
+      "numero": "211",
+      "urn": "urn:lex:br:federal:decreto:1842-08-06;211",
+      "ementa": "APROVA AS INSTRUÇÕES DA MESMA DATA PARA O RECRUTAMENTO NAS PROVÍNCIAS DE SÃO PAULO E MINAS."
+    },
+    {
+      "senadoId": "386463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-03-210",
+      "titulo": "Decreto nº 210 de 03/08/1842",
+      "data": "1842-08-03",
+      "numero": "210",
+      "urn": "urn:lex:br:federal:decreto:1842-08-03;210",
+      "ementa": "APROVA O REGIMENTO INTERNO DA CONTADORIA GERAL DA GUERRA."
+    },
+    {
+      "senadoId": "386474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-03-212",
+      "titulo": "Decreto nº 212 de 03/08/1842",
+      "data": "1842-08-03",
+      "numero": "212",
+      "urn": "urn:lex:br:federal:decreto:1842-08-03;212",
+      "ementa": "MARCA O ORDENADO QUE DEVEM VENCER OS PROMOTORES PÚBLICOS DAS COMARCAS NAZARÉ E VALENÇA, DA PROVÍNCIA DA BAHÍA."
+    },
+    {
+      "senadoId": "386458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-02-209",
+      "titulo": "Decreto nº 209 de 02/08/1842",
+      "data": "1842-08-02",
+      "numero": "209",
+      "urn": "urn:lex:br:federal:decreto:1842-08-02;209",
+      "ementa": "CONCEDE O TRATAMENTO DE SENHORIA AOS COMANDANTES DAS ARMAS DAS PROVÍNCIAS, SE POR OUTRO TÍTULO OU NÃO TIVEREM MAIOR."
+    },
+    {
+      "senadoId": "386453",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-01-208",
+      "titulo": "Decreto nº 208 de 01/08/1842",
+      "data": "1842-08-01",
+      "numero": "208",
+      "urn": "urn:lex:br:federal:decreto:1842-08-01;208",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "386447",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-01-207",
+      "titulo": "Decreto nº 207 de 01/08/1842",
+      "data": "1842-08-01",
+      "numero": "207",
+      "urn": "urn:lex:br:federal:decreto:1842-08-01;207",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DO PARÁ, QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS, E QUAIS NÃO; CRIA PROMOTORES EM ALGUMAS DE SUAS COMARCAS, E MARCA ORDENADOS A ESSES EMPREGADOS, BEM COMO AO CHEFE DE POLÍCIA DA MESMA PROVÍNCIA, E A CADA UM DOS AMANUENSES DA SUA SECRETARIA A GRATIFICAÇÃO QUE DEVEM PERCEBER."
+    },
+    {
+      "senadoId": "386440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-08-01-206",
+      "titulo": "Decreto nº 206 de 01/08/1842",
+      "data": "1842-08-01",
+      "numero": "206",
+      "urn": "urn:lex:br:federal:decreto:1842-08-01;206",
+      "ementa": "AUTORIZA O PRESIDENTE DA PROVÍNCIA DE SÃO PAULO PARA ELEVAR AO DE QUINHENTAS E VINTE E DUAS O NÚMERO DE PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA, CHAMADAS AO SERVIÇO DE CORPOS DESTACADOS PELO DECRETO NÚMERO 146 DE 18 DE MARÇO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "386434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-28-205",
+      "titulo": "Decreto nº 205 de 28/07/1842",
+      "data": "1842-07-28",
+      "numero": "205",
+      "urn": "urn:lex:br:federal:decreto:1842-07-28;205",
+      "ementa": "MANDA NOMEAR UMA COMISSÃO, TENDO POR FIM ORGANIZAR A NOVA TARIFA PARA AS ALFÂNDEGAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "386422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-22-203",
+      "titulo": "Decreto nº 203 de 22/07/1842",
+      "data": "1842-07-22",
+      "numero": "203",
+      "urn": "urn:lex:br:federal:decreto:1842-07-22;203",
+      "ementa": "ALTERANDO AS DISPOSIÇÕES DO PARÁGRAFO SEXTO DO ARTIGO CENTO E QUARENTA E CINCO DO REGULAMENTO DE VINTE E DOIS DE JUNHO DE MIL OITOCENTOS E TRINTA E SEIS."
+    },
+    {
+      "senadoId": "386428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-22-204",
+      "titulo": "Decreto nº 204 de 22/07/1842",
+      "data": "1842-07-22",
+      "numero": "204",
+      "urn": "urn:lex:br:federal:decreto:1842-07-22;204",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVEL DA CIDADE DE SÃO PAULO."
+    },
+    {
+      "senadoId": "386410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-18-201",
+      "titulo": "Decreto nº 201 de 18/07/1842",
+      "data": "1842-07-18",
+      "numero": "201",
+      "urn": "urn:lex:br:federal:decreto:1842-07-18;201",
+      "ementa": "MARCA A GRATIFICAÇÃO QUE DEVE VENCER O CHEFE DE POLÍCIA DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "386403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-18-200",
+      "titulo": "Decreto nº 200 de 18/07/1842",
+      "data": "1842-07-18",
+      "numero": "200",
+      "urn": "urn:lex:br:federal:decreto:1842-07-18;200",
+      "ementa": "DESIGNA QUANTOS PROMOTORES PÚBLICOS DEVEM HAVER NA PROVÍNCIA DE SANTA CATARINA, E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-18-202",
+      "titulo": "Decreto nº 202 de 18/07/1842",
+      "data": "1842-07-18",
+      "numero": "202",
+      "urn": "urn:lex:br:federal:decreto:1842-07-18;202",
+      "ementa": "REUNINDO O TERMO DE CANAVIEIRAS AO BELMONTE, DA PROVÍNCIA DA BAHIA, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "386397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-17-199",
+      "titulo": "Decreto nº 199 de 17/07/1842",
+      "data": "1842-07-17",
+      "numero": "199",
+      "urn": "urn:lex:br:federal:decreto:1842-07-17;199",
+      "ementa": "ELEVA O DESTACAMENTO DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO ATÉ O NÚMERO DE 800 PRAÇAS."
+    },
+    {
+      "senadoId": "386391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-17-198",
+      "titulo": "Decreto nº 198 de 17/07/1842",
+      "data": "1842-07-17",
+      "numero": "198",
+      "urn": "urn:lex:br:federal:decreto:1842-07-17;198",
+      "ementa": "PRORROGANDO POR ESPAÇO DE UM MÊS A DISPOSIÇÃO DO DECRETO NÚMERO 183 DE 18 DE JUNHO DO ANO PASSADO."
+    },
+    {
+      "senadoId": "386385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-14-197",
+      "titulo": "Decreto nº 197 de 14/07/1842",
+      "data": "1842-07-14",
+      "numero": "197",
+      "urn": "urn:lex:br:federal:decreto:1842-07-14;197",
+      "ementa": "CRIA NA PROVÍNCIA DE SERGIPE PROMOTORES PÚBLICOS PARA DIVERSAS COMARCAS E TERMOS; E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-13-196",
+      "titulo": "Decreto nº 196 de 13/07/1842",
+      "data": "1842-07-13",
+      "numero": "196",
+      "urn": "urn:lex:br:federal:decreto:1842-07-13;196",
+      "ementa": "MARCA ORDENADOS AOS JUÍZES MUNICIPAIS E DE ORFÃOS DA PROVÍNCIA DA BAHIA, E AO PROMOTOR PÚBLICO DOS TERMOS DA CAPITAL, E DE ABRANTES DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "386373",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-12-195",
+      "titulo": "Decreto nº 195 de 12/07/1842",
+      "data": "1842-07-12",
+      "numero": "195",
+      "urn": "urn:lex:br:federal:decreto:1842-07-12;195",
+      "ementa": "MARCA ORDENADOS AOS JUÍZES MUNICIPAIS E DE ORFÃOS DA PROVÍNCIA DO RIO DE JANEIRO; CRIA UM PROMOTOR EM UMA DAS COMARCAS DA MESMA PROVÍNCIA, E MARCA-LHES ORDENADOS; E DECLARA QUE O JUIZ DO CIVEL DA CIDADE DE CAMPOS, ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ORFÃOS NO TERMO DA MESMA CIDADE."
+    },
+    {
+      "senadoId": "386357",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-11-193",
+      "titulo": "Decreto nº 193 de 11/07/1842",
+      "data": "1842-07-11",
+      "numero": "193",
+      "urn": "urn:lex:br:federal:decreto:1842-07-11;193",
+      "ementa": "MARCA AS GRATIFICAÇÕES QUE DEVEM VENCER OS AMANUENSES DOS CHEFES DE POLÍCIA DAS PROVÍNCIAS DO CEARÁ E SANTA CATARINA."
+    },
+    {
+      "senadoId": "386367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-11-194",
+      "titulo": "Decreto nº 194 de 11/07/1842",
+      "data": "1842-07-11",
+      "numero": "194",
+      "urn": "urn:lex:br:federal:decreto:1842-07-11;194",
+      "ementa": "MARCA AS GRATIFICAÇÕES QUE DEVEM VENCER OS CHEFES DE POLÍCIA DAS PROVÍNCIAS DA BAHIA E DA PARAÍBA."
+    },
+    {
+      "senadoId": "386351",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-10-192",
+      "titulo": "Decreto nº 192 de 10/07/1842",
+      "data": "1842-07-10",
+      "numero": "192",
+      "urn": "urn:lex:br:federal:decreto:1842-07-10;192",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA COMARCA DO POMBAL, DA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "386340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-07-01-190",
+      "titulo": "Decreto nº 190 de 01/07/1842",
+      "data": "1842-07-01",
+      "numero": "190",
+      "urn": "urn:lex:br:federal:decreto:1842-07-01;190",
+      "ementa": "CONCEDE PERDÃO AOS REUS DE 1 DESERÇÃO SIMPLES DA ARMADA, E DOS CORPOS DE IMPERIAIS MARINHEIROS, E DE ARTILHARIA DA MARINHA, QUE JA SE ACHAM SENTENCIADOS."
+    },
+    {
+      "senadoId": "386334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-25-189",
+      "titulo": "Decreto nº 189 de 25/06/1842",
+      "data": "1842-06-25",
+      "numero": "189",
+      "urn": "urn:lex:br:federal:decreto:1842-06-25;189",
+      "ementa": "REUNE A OUTROS OS TERMOS DA PROVÍNCIA DE SANTA CATARINA, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL DE ORFÃOS, E MARCA O ORDENADO A ESTES JUÍZES."
+    },
+    {
+      "senadoId": "386328",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-25-188",
+      "titulo": "Decreto nº 188 de 25/06/1842",
+      "data": "1842-06-25",
+      "numero": "188",
+      "urn": "urn:lex:br:federal:decreto:1842-06-25;188",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVINCIA DA BAHIA PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS ATE O NUMERO DE QUATROCENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVINCIA."
+    },
+    {
+      "senadoId": "386322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-23-187",
+      "titulo": "Decreto nº 187 de 23/06/1842",
+      "data": "1842-06-23",
+      "numero": "187",
+      "urn": "urn:lex:br:federal:decreto:1842-06-23;187",
+      "ementa": "APROVA OS ESTATUTOS DO BANCO COMERCIAL DO RIO DE JANEIRO, E AS ALTERAÇÕES NELES FEITAS PELA ASSEMBLÉIA GERAL DOS SEUS ACIONISTAS; NAS SESSÕES QUE TIVERAM LUGAR EM VINTE E DOIS DE OUTUBRO DE MIL OITOCENTOS E TRINTA E OITO, E EM VINTE CINCO DE JANEIRO DE MIL OITOCENTOS E QUARENTA, COM AS MODIFICAÇÕES NO MESMO DECRETO DECLARADAS."
+    },
+    {
+      "senadoId": "386316",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-20-186",
+      "titulo": "Decreto nº 186 de 20/06/1842",
+      "data": "1842-06-20",
+      "numero": "186",
+      "urn": "urn:lex:br:federal:decreto:1842-06-20;186",
+      "ementa": "APROVANDO AS INSTRUÇÕES PARA EXECUÇÃO DO CONTRATO CELEBRADO ENTRE O GOVERNO E A COMPANHIA DE PAQUETES DE VAPOR."
+    },
+    {
+      "senadoId": "386304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-20-184",
+      "titulo": "Decreto nº 184 de 20/06/1842",
+      "data": "1842-06-20",
+      "numero": "184",
+      "urn": "urn:lex:br:federal:decreto:1842-06-20;184",
+      "ementa": "MANDA QUE SE OBSERVEM NAS PROVINCIAS DE SÃO PAULO, E MINAS AS LEIS MILITARES."
+    },
+    {
+      "senadoId": "386310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-20-185",
+      "titulo": "Decreto nº 185 de 20/06/1842",
+      "data": "1842-06-20",
+      "numero": "185",
+      "urn": "urn:lex:br:federal:decreto:1842-06-20;185",
+      "ementa": "ORGANIZANDO O QUADRO QUE MARCA O NÚMERO DOS OFICIAIS DA ARMADA QUE DEVE HAVER EM CADA POSTO, NA CONFORMIDADE DO ARTIGO 1º DO DECRETO 260 DE 1º DE DEZEMBRO DE 1841."
+    },
+    {
+      "senadoId": "386293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-18-182",
+      "titulo": "Decreto nº 182 de 18/06/1842",
+      "data": "1842-06-18",
+      "numero": "182",
+      "urn": "urn:lex:br:federal:decreto:1842-06-18;182",
+      "ementa": "MARCA A GRATIFICAÇÃO QUE DEVE VENCER O CHEFE DE POLÍCIA DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "386285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-18-181",
+      "titulo": "Decreto nº 181 de 18/06/1842",
+      "data": "1842-06-18",
+      "numero": "181",
+      "urn": "urn:lex:br:federal:decreto:1842-06-18;181",
+      "ementa": "MARCA A GRATIFICAÇÃO QUE DEVE VENCER O AMANUENSE DO CHEFE DE POLÍCIA DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "386279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-18-180",
+      "titulo": "Decreto nº 180 de 18/06/1842",
+      "data": "1842-06-18",
+      "numero": "180",
+      "urn": "urn:lex:br:federal:decreto:1842-06-18;180",
+      "ementa": "ORDENA QUE OS MUNICÍPIOS DE CUNHA, BANANAL, AREAS, QUELUZ, SILVEIRAS, LORENA E GUARATINGUETÁ, FIQUEM DESANEXADOS DA PROVÍNCIA DE SÃO PAULO, E INCORPORADOS À DO RIO DE JANEIRO, ENQUANTO DURAREM AS CIRCUNSTÂNCIAS EXTRAORDINÁRIAS, QUE TORNAM INDISPENSÁVEL ESTA PROVIDÊNCIA."
+    },
+    {
+      "senadoId": "386298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-06-18-183",
+      "titulo": "Decreto nº 183 de 18/06/1842",
+      "data": "1842-06-18",
+      "numero": "183",
+      "urn": "urn:lex:br:federal:decreto:1842-06-18;183",
+      "ementa": "SUSPEDENDO POR ESPAÇO DE UM MÊS NESTE MUNICÍPIO, E NA PROVÍNCIA DO RIO DE JANEIRO, OS $$ 6º, 7º, 8º, 9º E 10º DO ARTIGO 179 DA CONSTITUIÇÃO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "386266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-30-178",
+      "titulo": "Decreto nº 178 de 30/05/1842",
+      "data": "1842-05-30",
+      "numero": "178",
+      "urn": "urn:lex:br:federal:decreto:1842-05-30;178",
+      "ementa": "DANDO REGULAMENTO PARA A EXPEDIÇÃO DAS ORDENS DO TESOURO PÚBLICO, FIXANDO AS DESPESAS GERAIS EM CADA PROVÍNCIA E O MODO POR QUE DEVAM SER SUPRIDAS ALGUMAS TESOURARIAS."
+    },
+    {
+      "senadoId": "386272",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-30-178-b",
+      "titulo": "Decreto nº 178-B de 30/05/1842",
+      "data": "1842-05-30",
+      "numero": "178-b",
+      "urn": "urn:lex:br:federal:decreto:1842-05-30;178-b",
+      "ementa": "DANDO NOVA ORGANIZAÇÃO À SECRETARIA DE ESTADO DOS NEGÓCIOS DA JUSTIÇA."
+    },
+    {
+      "senadoId": "386273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-30-179",
+      "titulo": "Decreto nº 179 de 30/05/1842",
+      "data": "1842-05-30",
+      "numero": "179",
+      "urn": "urn:lex:br:federal:decreto:1842-05-30;179",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "386254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-176",
+      "titulo": "Decreto nº 176 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "176",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;176",
+      "ementa": "MARCA AS GRATIFICAÇÕES QUE DEVEM VENCER OS AMANUENSES DOS CHEFES DE POLÍCIA DAS PROVÍNCIAS DO RIO DE JANEIRO, MARANHÃO, MINAS GERAIS E ALAGOAS."
+    },
+    {
+      "senadoId": "386247",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-175",
+      "titulo": "Decreto nº 175 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "175",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;175",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA 1ª VARA DA CIDADE DE SÃO LUIZ DO MARANHÃO."
+    },
+    {
+      "senadoId": "386241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-174",
+      "titulo": "Decreto nº 174 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "174",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;174",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DAS ALAGOAS, QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE UM JUÍZ MUNICIPAL E DE ORFÃOS, E QUAIS NÃO; CRIA UM PROMOTOR EM CADA COMARCA DA MESMA PROVÍNCIA, E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-170",
+      "titulo": "Decreto nº 170 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "170",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;170",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DA BAHIA, QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS, QUAIS NÃO, E QUAIS AQUELES, EM QUE AQUELES CARGOS DEVEM ANDAR SEPARADOS."
+    },
+    {
+      "senadoId": "386228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-172",
+      "titulo": "Decreto nº 172 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "172",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;172",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DO CEARÁ QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS; CRIA UM PROMOTOR EM CADA UMA DAS COMARCAS DA MESMA PROVÍNCIA, E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386260",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-177",
+      "titulo": "Decreto nº 177 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "177",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;177",
+      "ementa": "MARCA AS GRATIFICAÇÕES QUE DEVEM VENCER OS CHEFES DE POLÍCIA DAS PROVÍNCIAS DO MARANHÃO, CEARÁ, ALAGOAS E PERNAMBUCO."
+    },
+    {
+      "senadoId": "386235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-173",
+      "titulo": "Decreto nº 173 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "173",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;173",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DO MARANHÃO, QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS, E QUAIS NÃO; CRIA DOIS LUGARES DE JUÍZES MUNICIPAIS E UM DE ORFÃOS NA CAPITAL E UM PROMOTOR EM CADA COMARCA, E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-15-171",
+      "titulo": "Decreto nº 171 de 15/05/1842",
+      "data": "1842-05-15",
+      "numero": "171",
+      "urn": "urn:lex:br:federal:decreto:1842-05-15;171",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DE PERNAMBUCO, QUE DEVEM SER REUNIDOS A OUTROS DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS E QUAIS NÃO; CRIA TRÊS LUGARES DE JUIZ MUNICIPAL E UM DE ORFÃOS NA CAPITAL, E UM PROMOTOR EM CADA COMARCA E MARCA ORDENADOS A ESSES EMPREGADOS."
+    },
+    {
+      "senadoId": "386209",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-14-169",
+      "titulo": "Decreto nº 169 de 14/05/1842",
+      "data": "1842-05-14",
+      "numero": "169",
+      "urn": "urn:lex:br:federal:decreto:1842-05-14;169",
+      "ementa": "PRORROGANDO POR MAIS UM ANO AS DISPOSIÇÕES DO DECRETO NÚMERO 68 DE 29 DE MARÇO DE 1841."
+    },
+    {
+      "senadoId": "386203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-14-168",
+      "titulo": "Decreto nº 168 de 14/05/1842",
+      "data": "1842-05-14",
+      "numero": "168",
+      "urn": "urn:lex:br:federal:decreto:1842-05-14;168",
+      "ementa": "DECLARA COMO SE DEVEM ENTENDER AS GRADUAÇÕES CONCEDIDAS AOS OFICIAIS HONORÁRIOS DO EXÉRCITO."
+    },
+    {
+      "senadoId": "386197",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-14-167",
+      "titulo": "Decreto nº 167 de 14/05/1842",
+      "data": "1842-05-14",
+      "numero": "167",
+      "urn": "urn:lex:br:federal:decreto:1842-05-14;167",
+      "ementa": "APROVA O PLANO DE ORGANIZAÇÃO DOS CORPOS DO EXERCITO DO IMPERIO DO BRASIL, EM CIRCUNSTANCIAS EXTRAORDINARIAS, NA CONFORMIDADE DO ARTIGO 2 DO DECRETO 159 DE 25 DE ABRIL DE 1842."
+    },
+    {
+      "senadoId": "386184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-11-165",
+      "titulo": "Decreto nº 165 de 11/05/1842",
+      "data": "1842-05-11",
+      "numero": "165",
+      "urn": "urn:lex:br:federal:decreto:1842-05-11;165",
+      "ementa": "MARCA A GRATIFICAÇÃO QUE DEVEM VENCER O CHEFE DE POLÍCIA DA CORTE E OS DAS PROVÍNCIAS DO RIO DE JANEIRO, SÃO PAULO E ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "386191",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-11-166",
+      "titulo": "Decreto nº 166 de 11/05/1842",
+      "data": "1842-05-11",
+      "numero": "166",
+      "urn": "urn:lex:br:federal:decreto:1842-05-11;166",
+      "ementa": "MARCA A MANEIRA POR QUE DEVEM FICAR REUNIDOS OS TERMOS DA PROVÍNCIA DO ESPÍRITO SANTO, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL DE ORFÃOS, E OS ORDENADOS DOS RESPECTIVOS JUÍZES."
+    },
+    {
+      "senadoId": "386159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-10-161",
+      "titulo": "Decreto nº 161 de 10/05/1842",
+      "data": "1842-05-10",
+      "numero": "161",
+      "urn": "urn:lex:br:federal:decreto:1842-05-10;161",
+      "ementa": "CRIANDO UM PROMOTOR EM CADA UMA DAS COMARCAS DA PROVÍNCIA DE SÃO PAULO, E MARCANDO-LHES ORDENADOS."
+    },
+    {
+      "senadoId": "386178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-10-164",
+      "titulo": "Decreto nº 164 de 10/05/1842",
+      "data": "1842-05-10",
+      "numero": "164",
+      "urn": "urn:lex:br:federal:decreto:1842-05-10;164",
+      "ementa": "CRIANDO NA CIDADE DA BAHIA E SEU MUNICÍPIO DOIS JUÍZES DOS ORFÃOS."
+    },
+    {
+      "senadoId": "386166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-10-162",
+      "titulo": "Decreto nº 162 de 10/05/1842",
+      "data": "1842-05-10",
+      "numero": "162",
+      "urn": "urn:lex:br:federal:decreto:1842-05-10;162",
+      "ementa": "DECLARA QUAIS OS TERMOS DA PROVÍNCIA DE SÃO PAULO QUE DEVEM SER REUNIDOS À OUTROS, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ORFÃOS, E QUAIS NÃO, E MARCA ORDENADO AOS RESPECTIVOS JUÍZES."
+    },
+    {
+      "senadoId": "386172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-10-163",
+      "titulo": "Decreto nº 163 de 10/05/1842",
+      "data": "1842-05-10",
+      "numero": "163",
+      "urn": "urn:lex:br:federal:decreto:1842-05-10;163",
+      "ementa": "CRIANDO NA CIDADE DA BAHIA E SEU MUNICÍPIO TRÊS JUÍZES MUNICIPAIS."
+    },
+    {
+      "senadoId": "386154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-09-160",
+      "titulo": "Decreto nº 160 de 09/05/1842",
+      "data": "1842-05-09",
+      "numero": "160",
+      "urn": "urn:lex:br:federal:decreto:1842-05-09;160",
+      "ementa": "DANDO REGULAMENTO PARA A ARRECADAÇÃO DOS BENS DOS DEFUNTOS E AUSENTES, VAGOS E DO EVENTO."
+    },
+    {
+      "senadoId": "386143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-07-158",
+      "titulo": "Decreto nº 158 de 07/05/1842",
+      "data": "1842-05-07",
+      "numero": "158",
+      "urn": "urn:lex:br:federal:decreto:1842-05-07;158",
+      "ementa": "REGULANDO A EXECUÇÃO DO ARTIGO 48 DA LEI DE 4 DE OUTUBRO DE 1831."
+    },
+    {
+      "senadoId": "386137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-05-04-157",
+      "titulo": "Decreto nº 157 de 04/05/1842",
+      "data": "1842-05-04",
+      "numero": "157",
+      "urn": "urn:lex:br:federal:decreto:1842-05-04;157",
+      "ementa": "DÁ INSTRUÇÕES SOBRE A MANEIRA DE SE PROCEDER ÀS ELEIÇÕES GERAIS, E PROVINCIAIS."
+    },
+    {
+      "senadoId": "386131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-28-156",
+      "titulo": "Decreto nº 156 de 28/04/1842",
+      "data": "1842-04-28",
+      "numero": "156",
+      "urn": "urn:lex:br:federal:decreto:1842-04-28;156",
+      "ementa": "DANDO REGULAMENTO PARA A ARRECADAÇÃO DA TAXA DE HERANÇAS E LEGADOS."
+    },
+    {
+      "senadoId": "386148",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-25-159",
+      "titulo": "Decreto nº 159 de 25/04/1842",
+      "data": "1842-04-25",
+      "numero": "159",
+      "urn": "urn:lex:br:federal:decreto:1842-04-25;159",
+      "ementa": "ORGANIZA O QUADRO DOS OFICIAIS DO EXERCITO MARCANDO O NUMERO QUE DEVE HAVER EM CADA POSTO, EM CONFORMIDADE NO ARTIGO 1 DO DECRETO 260 DE 1 DE DEZEMBRO DE 1841."
+    },
+    {
+      "senadoId": "386117",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-19-154",
+      "titulo": "Decreto nº 154 de 19/04/1842",
+      "data": "1842-04-19",
+      "numero": "154",
+      "urn": "urn:lex:br:federal:decreto:1842-04-19;154",
+      "ementa": "MANDA PARA QUE AS PROPOSTAS PARA O PROVIMENTO DOS BENEFÍCIOS VAGOS, E DIGNIDADES, SEDE VACANTE, SEJAM FEITAS PELOS VIGÁRIOS CAPITULARES."
+    },
+    {
+      "senadoId": "386111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-18-153",
+      "titulo": "Decreto nº 153 de 18/04/1842",
+      "data": "1842-04-18",
+      "numero": "153",
+      "urn": "urn:lex:br:federal:decreto:1842-04-18;153",
+      "ementa": "EXTINGUE AS SECÇÕES DO 1º E 2º ESQUADRÃO DO 1º CORPO DE CAVALARIA DA GUARDA NACIONAL DESTE MUNICÍPIO E MANDA ORGANIZAR EM COMPANHIAS OS RESPECTIVOS GUARDAS."
+    },
+    {
+      "senadoId": "386105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-16-152",
+      "titulo": "Decreto nº 152 de 16/04/1842",
+      "data": "1842-04-16",
+      "numero": "152",
+      "urn": "urn:lex:br:federal:decreto:1842-04-16;152",
+      "ementa": "DANDO REGULAMENTO PARA A ARRECADAÇÃO DA DÉCIMA URBANA."
+    },
+    {
+      "senadoId": "386100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-11-151",
+      "titulo": "Decreto nº 151 de 11/04/1842",
+      "data": "1842-04-11",
+      "numero": "151",
+      "urn": "urn:lex:br:federal:decreto:1842-04-11;151",
+      "ementa": "DANDO REGULAMENTO PARA A ARRECADAÇÃO DA TAXA, E MEIA SIZA DOS ESCRAVOS."
+    },
+    {
+      "senadoId": "386095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-09-150",
+      "titulo": "Decreto nº 150 de 09/04/1842",
+      "data": "1842-04-09",
+      "numero": "150",
+      "urn": "urn:lex:br:federal:decreto:1842-04-09;150",
+      "ementa": "DANDO REGULAMENTO PARA A ARRECADAÇÃO DA DÍZIMA DA CANCELARIA."
+    },
+    {
+      "senadoId": "386123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-09-155",
+      "titulo": "Decreto nº 155 de 09/04/1842",
+      "data": "1842-04-09",
+      "numero": "155",
+      "urn": "urn:lex:br:federal:decreto:1842-04-09;155",
+      "ementa": "DECLARA QUE OS MILITARES ANISTIADOS NÃO TEM DIREITO AO PAGAMENTO DE SOLDO PELO TEMPO EM QUE ESTIVEREM AUSENTES DO SERVIÇO POR CRIMES POLÍTICOS, COMPETINDO-LHES SOMENTE DESDE O DIA EM QUE SE LHE FOI DECLARADO PELAS RESOLUÇÕES DE CONSULTA DE 6 DE OUTUBRO DE 1835 E 7 DE AGOSTO DE 1841, ESTANDO NO MESMO CASO OS DESERTORES QUE FOREM PERDOADOS."
+    },
+    {
+      "senadoId": "386088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-08-149",
+      "titulo": "Decreto nº 149 de 08/04/1842",
+      "data": "1842-04-08",
+      "numero": "149",
+      "urn": "urn:lex:br:federal:decreto:1842-04-08;149",
+      "ementa": "DANDO REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO DE PATENTE DA AGUARDENTE DE CONSUMO NO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "386082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-04-05-148",
+      "titulo": "Decreto nº 148 de 05/04/1842",
+      "data": "1842-04-05",
+      "numero": "148",
+      "urn": "urn:lex:br:federal:decreto:1842-04-05;148",
+      "ementa": "AUTORIZA O PRESIDENTE DA PROVÍNCIA DO CEARÁ PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS DUZENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "386076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-30-147",
+      "titulo": "Decreto nº 147 de 30/03/1842",
+      "data": "1842-03-30",
+      "numero": "147",
+      "urn": "urn:lex:br:federal:decreto:1842-03-30;147",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVÍNCIA DO PARÁ PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS SEISCENTOS HOMENS DA GUARDA NACIONAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "386064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-18-145",
+      "titulo": "Decreto nº 145 de 18/03/1842",
+      "data": "1842-03-18",
+      "numero": "145",
+      "urn": "urn:lex:br:federal:decreto:1842-03-18;145",
+      "ementa": "ABOLINDO O EMPREGO DE AJUDANTE DO CUNHADOR DA CASA DA MOEDA."
+    },
+    {
+      "senadoId": "386070",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-18-146",
+      "titulo": "Decreto nº 146 de 18/03/1842",
+      "data": "1842-03-18",
+      "numero": "146",
+      "urn": "urn:lex:br:federal:decreto:1842-03-18;146",
+      "ementa": "AUTORIZA O PRESIDENTE DA PROVÍNCIA DE SÃO PAULO PARA CHAMAR AO SERVIÇO DE CORPOS DESTACADOS TREZENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "386058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-16-144",
+      "titulo": "Decreto nº 144 de 16/03/1842",
+      "data": "1842-03-16",
+      "numero": "144",
+      "urn": "urn:lex:br:federal:decreto:1842-03-16;144",
+      "ementa": "MANDANDO FORMAR UM BATALHÃO DE GUARDAS NACIONAIS NAS ILHAS DO GOVERNADOR, PAQUETÁ E ADJACENTES."
+    },
+    {
+      "senadoId": "386046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-12-142",
+      "titulo": "Decreto nº 142 de 12/03/1842",
+      "data": "1842-03-12",
+      "numero": "142",
+      "urn": "urn:lex:br:federal:decreto:1842-03-12;142",
+      "ementa": "DECLARA QUAIS FICAM SENDO DE AGORA EM DIANTE OS DIAS FERIADOS NAS SECRETARIAS DE ESTADO, E NAS REPARTIÇÕES ADMINISTRATIVAS."
+    },
+    {
+      "senadoId": "386040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-10-141",
+      "titulo": "Decreto nº 141 de 10/03/1842",
+      "data": "1842-03-10",
+      "numero": "141",
+      "urn": "urn:lex:br:federal:decreto:1842-03-10;141",
+      "ementa": "RESTABELECENDO O LUGAR DE DIRETOR GERAL DOS CORREIOS."
+    },
+    {
+      "senadoId": "386034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-09-140",
+      "titulo": "Decreto nº 140 de 09/03/1842",
+      "data": "1842-03-09",
+      "numero": "140",
+      "urn": "urn:lex:br:federal:decreto:1842-03-09;140",
+      "ementa": "APROVA OS ESTATUTOS DA ESCOLA MILITAR, EM VIRTUDE DO ARTIGO 15 PARAGRAFO 2 DA LEI DE 15 DE NOVEMBRO DE 1831."
+    },
+    {
+      "senadoId": "386028",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-03-139",
+      "titulo": "Decreto nº 139 de 03/03/1842",
+      "data": "1842-03-03",
+      "numero": "139",
+      "urn": "urn:lex:br:federal:decreto:1842-03-03;139",
+      "ementa": "REGULA A MANEIRA POR QUE SE DEVERÁ PROCEDER NO JULGAMENTO DA SUSPEIÇÃO, NO CASO DA ORDEM LIVRO 3º, TÍTULO 21 PARÁGRAFO 8º VERSO - E SENDO, QUANDO NAS CAUSAS DE SUSPEIÇÃO FOREM PARTES AS CÂMARAS MUNICIPAIS."
+    },
+    {
+      "senadoId": "386022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-02-138",
+      "titulo": "Decreto nº 138 de 02/03/1842",
+      "data": "1842-03-02",
+      "numero": "138",
+      "urn": "urn:lex:br:federal:decreto:1842-03-02;138",
+      "ementa": "ABOLINDO O LUGAR DE JUIZ DE DIREITO DO CIVIL DA CIDADE DE GOIÂNIA DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "386016",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-03-01-137",
+      "titulo": "Decreto nº 137 de 01/03/1842",
+      "data": "1842-03-01",
+      "numero": "137",
+      "urn": "urn:lex:br:federal:decreto:1842-03-01;137",
+      "ementa": "MANDA ORGANIZAR NA PROVÍNCIA DE MINAS O TERCEIRO ESQUADRÃO DE CAVALARIA LIGEIRA."
+    },
+    {
+      "senadoId": "386011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-28-136",
+      "titulo": "Decreto nº 136 de 28/02/1842",
+      "data": "1842-02-28",
+      "numero": "136",
+      "urn": "urn:lex:br:federal:decreto:1842-02-28;136",
+      "ementa": "CRIANDO DOIS DELEGADOS DO CHEFE DE POLÍCIA NO MUNICÍPIO DA CORTE E MARCANDO-LHES DISTRITOS."
+    },
+    {
+      "senadoId": "385999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-26-134",
+      "titulo": "Decreto nº 134 de 26/02/1842",
+      "data": "1842-02-26",
+      "numero": "134",
+      "urn": "urn:lex:br:federal:decreto:1842-02-26;134",
+      "ementa": "REGULA A MANEIRA POR QUE SE DEVE CONTAR A ANTIGUIDADE DOS TÍTULOS DE CONSELHO."
+    },
+    {
+      "senadoId": "386005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-26-135",
+      "titulo": "Decreto nº 135 de 26/02/1842",
+      "data": "1842-02-26",
+      "numero": "135",
+      "urn": "urn:lex:br:federal:decreto:1842-02-26;135",
+      "ementa": "REFORMANDO A SECRETARIA DE ESTADO DOS NEGOCIOS ESTRANGEIROS, EM VIRTUDE DO ARTIGO 39 DA LEI 243 DE 30 DE NOVEMBRO DE 1841."
+    },
+    {
+      "senadoId": "385993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-26-133",
+      "titulo": "Decreto nº 133 de 26/02/1842",
+      "data": "1842-02-26",
+      "numero": "133",
+      "urn": "urn:lex:br:federal:decreto:1842-02-26;133",
+      "ementa": "ESTABELECE A ORDEM, QUE SE DEVE OBSERVAR, QUANDO OS TRÊS JUÍZES MUNICIPAIS DESTA CORTE, CRIADOS POR DECRETO DE VINTE E TRÊS DO CORRENTE MÊS, TIVEREM DE SUBSTITUIR OS DOIS JUÍZES DE DIREITO DO CRIME, OS TRÊS DO CIVIL, E O ATUAL DOS ORFÃOS."
+    },
+    {
+      "senadoId": "385981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-23-131",
+      "titulo": "Decreto nº 131 de 23/02/1842",
+      "data": "1842-02-23",
+      "numero": "131",
+      "urn": "urn:lex:br:federal:decreto:1842-02-23;131",
+      "ementa": "CRIANDO NO MUNICÍPIO DA CORTE TRÊS JUÍZES MUNICIPAIS."
+    },
+    {
+      "senadoId": "385987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-23-132",
+      "titulo": "Decreto nº 132 de 23/02/1842",
+      "data": "1842-02-23",
+      "numero": "132",
+      "urn": "urn:lex:br:federal:decreto:1842-02-23;132",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVÍNCIA DE SERGIPE DEL REI, A CHAMAR A SERVIÇO DE CORPOS DESTACADOS, CEM PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "385975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-21-130",
+      "titulo": "Decreto nº 130 de 21/02/1842",
+      "data": "1842-02-21",
+      "numero": "130",
+      "urn": "urn:lex:br:federal:decreto:1842-02-21;130",
+      "ementa": "ABOLINDO UM DOS EMPREGOS DE FUNDIDOR DA CASA DA MOEDA."
+    },
+    {
+      "senadoId": "385969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-19-129",
+      "titulo": "Decreto nº 129 de 19/02/1842",
+      "data": "1842-02-19",
+      "numero": "129",
+      "urn": "urn:lex:br:federal:decreto:1842-02-19;129",
+      "ementa": "AUTORIZA O PRESIDENTE DA PROVÍNCIA DE MINAS GERAIS A CHAMAR AO SERVIÇO DE CORPOS DESTACADOS, DUZENTAS PRAÇAS DA GUARDA NACIONAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "385958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-12-127",
+      "titulo": "Decreto nº 127 de 12/02/1842",
+      "data": "1842-02-12",
+      "numero": "127",
+      "urn": "urn:lex:br:federal:decreto:1842-02-12;127",
+      "ementa": "ABOLINDO O LUGAR DE JUIZ DE DIREITO DO CIVIL DA COMARCA DO NATAL, DA PROVINCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "385964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-12-128",
+      "titulo": "Decreto nº 128 de 12/02/1842",
+      "data": "1842-02-12",
+      "numero": "128",
+      "urn": "urn:lex:br:federal:decreto:1842-02-12;128",
+      "ementa": "QUE REDUZ À TRÊS AS QUATROS VARAS DO CIVIL NESTA CORTE; E DÁ OUTRAS PROVIDÊNCIAS À CERCA DOS RESPECTIVOS ESCRIVÃES."
+    },
+    {
+      "senadoId": "385946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-02-09-125",
+      "titulo": "Decreto nº 125 de 09/02/1842",
+      "data": "1842-02-09",
+      "numero": "125",
+      "urn": "urn:lex:br:federal:decreto:1842-02-09;125",
+      "ementa": "APROVANDO O PLANO DA NOVA ORGANIZAÇÃO DOS BATALHÕES DE CAÇADORES DA PRIMEIRA LINHA DO EXERCITO."
+    },
+    {
+      "senadoId": "385926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-01-31-121",
+      "titulo": "Decreto nº 121 de 31/01/1842",
+      "data": "1842-01-31",
+      "numero": "121",
+      "urn": "urn:lex:br:federal:decreto:1842-01-31;121",
+      "ementa": "REGULA O PROVIMENTO DAS CADEIRAS DA AULA DO COMERCIO."
+    },
+    {
+      "senadoId": "385952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-01-28-126",
+      "titulo": "Decreto nº 126 de 28/01/1842",
+      "data": "1842-01-28",
+      "numero": "126",
+      "urn": "urn:lex:br:federal:decreto:1842-01-28;126",
+      "ementa": "DECLARA A PRESIDENCIA DOS CONSELHEIROS DE GUERRA EM CONCORRENCIA COM OS VOGAIS DO CONSELHO SUPREMO MILITAR, AINDA QUE ESTES TENHAM CARTA DE CONSELHO DE DATA MAIS ANTIGA."
+    },
+    {
+      "senadoId": "385908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-01-21-118",
+      "titulo": "Decreto nº 118 de 21/01/1842",
+      "data": "1842-01-21",
+      "numero": "118",
+      "urn": "urn:lex:br:federal:decreto:1842-01-21;118",
+      "ementa": "ALTERA OS ESTATUTOS DO COLÉGIO DE DOM PEDRO II, DISPENSANDO DO ENXOVAL DE ENTRADA AQUELES ALUNOS INTERNOS, CUJOS PAIS QUISEREM TER A SEU CARGO TUDO QUANTO DISSER RESPEITO AO VESTUÁRIO DOS MESMOS ALUNOS."
+    },
+    {
+      "senadoId": "385902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-01-18-117",
+      "titulo": "Decreto nº 117 de 18/01/1842",
+      "data": "1842-01-18",
+      "numero": "117",
+      "urn": "urn:lex:br:federal:decreto:1842-01-18;117",
+      "ementa": "DECLARANDO E ADIANDO O ARTIGO 287 DO REGULAMENTO DE 22 DE JUNHO DE 1836, A RESPEITO DOS RECURSOS, NOS CASOS DE APREENSÕES."
+    },
+    {
+      "senadoId": "385887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1842-01-04-114",
+      "titulo": "Decreto nº 114 de 04/01/1842",
+      "data": "1842-01-04",
+      "numero": "114",
+      "urn": "urn:lex:br:federal:decreto:1842-01-04;114",
+      "ementa": "REFORMA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA MARINHA, EM VIRTUDE DO ARTIGO 39 DA LEI NÚMERO 243 DE 30 DE NOVEMBRO DO ANO PASSADO."
+    }
+  ],
+  "pendencias": []
+}

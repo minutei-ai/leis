@@ -1,0 +1,2019 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1860",
+  "tipo": "DEC",
+  "ano": 1860,
+  "coletado_em": "2026-10-21T08:52:36.564Z",
+  "normas": [
+    {
+      "senadoId": "397910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-31-2719",
+      "titulo": "Decreto nº 2.719 de 31/12/1860",
+      "data": "1860-12-31",
+      "numero": "2719",
+      "urn": "urn:lex:br:federal:decreto:1860-12-31;2719",
+      "ementa": "ALTERA AS INSTRUÇÕES SOBRE A COBRANÇA DA DÍVIDA ATIVA."
+    },
+    {
+      "senadoId": "397906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-31-2718",
+      "titulo": "Decreto nº 2.718 de 31/12/1860",
+      "data": "1860-12-31",
+      "numero": "2718",
+      "urn": "urn:lex:br:federal:decreto:1860-12-31;2718",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA ILMA, CAMARA MUNICIPAL DA CORTE, PARA O ANO DE 1861."
+    },
+    {
+      "senadoId": "397894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-26-2715",
+      "titulo": "Decreto nº 2.715 de 26/12/1860",
+      "data": "1860-12-26",
+      "numero": "2715",
+      "urn": "urn:lex:br:federal:decreto:1860-12-26;2715",
+      "ementa": "ALTERA O REGULAMENTO APROVADO PELO DECRETO NÚMERO 1.900 DE 7 DE MARÇO DE 1857."
+    },
+    {
+      "senadoId": "397898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-26-2716",
+      "titulo": "Decreto nº 2.716 de 26/12/1860",
+      "data": "1860-12-26",
+      "numero": "2716",
+      "urn": "urn:lex:br:federal:decreto:1860-12-26;2716",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE RÉIS 4.141:;267$087 PARA AS DESPESAS DE DIVERSAS RUBRICAS NO EXERCÍCIO DE 1859 A 1860."
+    },
+    {
+      "senadoId": "397890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-26-2714",
+      "titulo": "Decreto nº 2.714 de 26/12/1860",
+      "data": "1860-12-26",
+      "numero": "2714",
+      "urn": "urn:lex:br:federal:decreto:1860-12-26;2714",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 245:000$000 PARA O EXERCÍCIO DE 1859 A 1860."
+    },
+    {
+      "senadoId": "397886",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-26-2713",
+      "titulo": "Decreto nº 2.713 de 26/12/1860",
+      "data": "1860-12-26",
+      "numero": "2713",
+      "urn": "urn:lex:br:federal:decreto:1860-12-26;2713",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DO IMPOSTO DO SELO, E DE SUA ARRECADAÇÃO."
+    },
+    {
+      "senadoId": "397902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-26-2717",
+      "titulo": "Decreto nº 2.717 de 26/12/1860",
+      "data": "1860-12-26",
+      "numero": "2717",
+      "urn": "urn:lex:br:federal:decreto:1860-12-26;2717",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGOCIOS DA JUSTIÇA A DESPENDER NO EXERCÍCIO DE 1859 A 1860, ALÉM DO CRÉDITO VOTADO, MAIS A QUANTIA DE 35:000$000 RÉIS, COM A VERBA-GUARDA NACIONAL."
+    },
+    {
+      "senadoId": "397882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-22-2712",
+      "titulo": "Decreto nº 2.712 de 22/12/1860",
+      "data": "1860-12-22",
+      "numero": "2712",
+      "urn": "urn:lex:br:federal:decreto:1860-12-22;2712",
+      "ementa": "FIXA O PRAZO, DENTRO DO QUAL SE DEVE CONTAR O TEMPO PARA DURAÇÃO DOS PRIVILEGIOS."
+    },
+    {
+      "senadoId": "397870",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-19-2709",
+      "titulo": "Decreto nº 2.709 de 19/12/1860",
+      "data": "1860-12-19",
+      "numero": "2709",
+      "urn": "urn:lex:br:federal:decreto:1860-12-19;2709",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO, ESTABELECENDO REGRAS, SEGUNDO AS QUAIS DEVEM SER FEITAS AS NOMEAÇÕES PARA OS COMANDOS DOS NAVIOS DA ARMADA."
+    },
+    {
+      "senadoId": "397878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-19-2711",
+      "titulo": "Decreto nº 2.711 de 19/12/1860",
+      "data": "1860-12-19",
+      "numero": "2711",
+      "urn": "urn:lex:br:federal:decreto:1860-12-19;2711",
+      "ementa": "CONTÉM DIVERSAS DISPOSIÇÕES SOBRE A CRIAÇÃO E ORGANIZAÇÃO DOS BANCOS, COMPANHIAS, SOCIEDADES ANÔNIMAS E OUTRAS, E PRORROGA POR MAIS QUATRO MESES O PRAZO MARCADO PELO ARTIGO 1 DO DECRETO 2.686 DE 10 DE NOVEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "397874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-19-2710",
+      "titulo": "Decreto nº 2.710 de 19/12/1860",
+      "data": "1860-12-19",
+      "numero": "2710",
+      "urn": "urn:lex:br:federal:decreto:1860-12-19;2710",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE RÉIS 1.636:077$519 PARA AS DESPESAS DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1859 A 1860."
+    },
+    {
+      "senadoId": "397862",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-15-2707",
+      "titulo": "Decreto nº 2.707 de 15/12/1860",
+      "data": "1860-12-15",
+      "numero": "2707",
+      "urn": "urn:lex:br:federal:decreto:1860-12-15;2707",
+      "ementa": "SEPARA O TERMO DE BOTUCATÚ DOS ITAPETININGA E TATUÍ NA PROVÍNCIA DE SÃO PAULO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "397866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-15-2708",
+      "titulo": "Decreto nº 2.708 de 15/12/1860",
+      "data": "1860-12-15",
+      "numero": "2708",
+      "urn": "urn:lex:br:federal:decreto:1860-12-15;2708",
+      "ementa": "MANDA EXECUTAR NO MUNICIPÍO DA CORTE O REGULAMENTO DESTA DATA PARA A ARRECADAÇÃO DA TAXA DE HERANÇAS E LEGADOS."
+    },
+    {
+      "senadoId": "397858",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-07-2706",
+      "titulo": "Decreto nº 2.706 de 07/12/1860",
+      "data": "1860-12-07",
+      "numero": "2706",
+      "urn": "urn:lex:br:federal:decreto:1860-12-07;2706",
+      "ementa": "MARCA O ORDENADO DO CARCEREIRO DA CADEIA DA VILA DA ENCRUZILHADA NA PROVÍNCIA DE SÃO PAULO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-12-05-2705",
+      "titulo": "Decreto nº 2.705 de 05/12/1860",
+      "data": "1860-12-05",
+      "numero": "2705",
+      "urn": "urn:lex:br:federal:decreto:1860-12-05;2705",
+      "ementa": "DESIGNA A ORDEM SEGUNDO A QUAL DEVEM SER EXTRAÍDAS AS LOTERIAS NO ANO DE 1861."
+    },
+    {
+      "senadoId": "397838",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-30-2701",
+      "titulo": "Decreto nº 2.701 de 30/11/1860",
+      "data": "1860-11-30",
+      "numero": "2701",
+      "urn": "urn:lex:br:federal:decreto:1860-11-30;2701",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NÚMERO VINTE QUATRO DA    GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397842",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-30-2702",
+      "titulo": "Decreto nº 2.702 de 30/11/1860",
+      "data": "1860-11-30",
+      "numero": "2702",
+      "urn": "urn:lex:br:federal:decreto:1860-11-30;2702",
+      "ementa": "SUPRIME A COMPANHIA AVULSA DE ARTILHARIA DA GUARDA NACIONAL DO MUNICÍPIO DE CAMPOS DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397846",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-30-2703",
+      "titulo": "Decreto nº 2.703 de 30/11/1860",
+      "data": "1860-11-30",
+      "numero": "2703",
+      "urn": "urn:lex:br:federal:decreto:1860-11-30;2703",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DOS MUNICÍPIOS DE CAMPOS SÃO JOÃO DA BARRA, E SÃO FIDELIS DA PROVÍNCIA DO RIO DE JANEIRO, A FORÇA QUALIFICADA NO ÚLTIMO MUNICÍPIO, E CRIA COM ELA UM COMAND0 SUPERIOR."
+    },
+    {
+      "senadoId": "397850",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-30-2704",
+      "titulo": "Decreto nº 2.704 de 30/11/1860",
+      "data": "1860-11-30",
+      "numero": "2704",
+      "urn": "urn:lex:br:federal:decreto:1860-11-30;2704",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO COMANDO SUPERIOR DA GUARDA NACIONAL DO MUNICÍPIO DA CRUZ ALTA DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397830",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-28-2699",
+      "titulo": "Decreto nº 2.699 de 28/11/1860",
+      "data": "1860-11-28",
+      "numero": "2699",
+      "urn": "urn:lex:br:federal:decreto:1860-11-28;2699",
+      "ementa": "REGULA A ARRECADAÇÃO DO IMPOSTO DA MEIA SIZA."
+    },
+    {
+      "senadoId": "397834",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-28-2700",
+      "titulo": "Decreto nº 2.700 de 28/11/1860",
+      "data": "1860-11-28",
+      "numero": "2700",
+      "urn": "urn:lex:br:federal:decreto:1860-11-28;2700",
+      "ementa": "APROVA O CONTRATO CELEBRADO EM LONDRES PARA EFETUAR-SE A ENTREGA DO EMPRÉSTIMO Á COMPANHIA DA ESTRADA DE FERRO DA PROVÍNCIA DE PERNAMBUCO DECRETADO PELA LEI NÚMERO 2.183 DE 5 DE JUNHO DE 1858."
+    },
+    {
+      "senadoId": "397826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-24-2698",
+      "titulo": "Decreto nº 2.698 de 24/11/1860",
+      "data": "1860-11-24",
+      "numero": "2698",
+      "urn": "urn:lex:br:federal:decreto:1860-11-24;2698",
+      "ementa": "REFORMA A TABELA DAS MAIORIAS DE EMBARQUE DOS OFICIAIS DA ARMADA NACIONAL E IMPERIAL."
+    },
+    {
+      "senadoId": "397818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-23-2696",
+      "titulo": "Decreto nº 2.696 de 23/11/1860",
+      "data": "1860-11-23",
+      "numero": "2696",
+      "urn": "urn:lex:br:federal:decreto:1860-11-23;2696",
+      "ementa": "MANDANDO QUE NOS DESPACHOS DAS MERCADORIAS, QUE DEPOIS DE SATISFAZEREM OS DIREITOS DE CONSUMO FOREM TRANSPORTADAS DOS PORTOS HABILITADOS DE UMA PARA OS DE OUTRAS PROVÍNCIA, SE OBSERVEM AS DISPOSIÇÕES DO ARTIGO NÚMERO 570 DO REGULAMENTO DE 19 DE SETEMBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "397822",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-23-2697",
+      "titulo": "Decreto nº 2.697 de 23/11/1860",
+      "data": "1860-11-23",
+      "numero": "2697",
+      "urn": "urn:lex:br:federal:decreto:1860-11-23;2697",
+      "ementa": "CLASSIFICA OS VENCIMENTOS QUE O DECRETO NÚMERO 2.555 DE 17 DE MARÇO DE 1860 ARBITRA AOS EMPREGADOS DA FABRICA DA PÓLVORA DA ESTRELA."
+    },
+    {
+      "senadoId": "397814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-17-2695",
+      "titulo": "Decreto nº 2.695 de 17/11/1860",
+      "data": "1860-11-17",
+      "numero": "2695",
+      "urn": "urn:lex:br:federal:decreto:1860-11-17;2695",
+      "ementa": "EXTINGUE O LUGAR DE TESOUREIRO DO IMPERIAL COLÉGIO DE PEDRO SEGUNDO."
+    },
+    {
+      "senadoId": "397810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-17-2694",
+      "titulo": "Decreto nº 2.694 de 17/11/1860",
+      "data": "1860-11-17",
+      "numero": "2694",
+      "urn": "urn:lex:br:federal:decreto:1860-11-17;2694",
+      "ementa": "REGULA A EMISSÃO DE BILHETES E OUTROS ESCRITOS AO PORTADOR."
+    },
+    {
+      "senadoId": "397782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2687",
+      "titulo": "Decreto nº 2.687 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2687",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2687",
+      "ementa": "DESANEXA O TERMO DE TRAIPU DO DE PENEDO, NA PROVINCIA DAS ALAGOAS, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "397798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2691",
+      "titulo": "Decreto nº 2.691 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2691",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2691",
+      "ementa": "MARCA OS CASOS DE FALÊNCIA DOS BANCOS E OUTRAS COMPANHIAS E SOCIEDADES ANÔNIMAS, E O PROCESSO QUE TEM EM TAIS CASOS SE DEVE SEGUIR."
+    },
+    {
+      "senadoId": "397806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2693",
+      "titulo": "Decreto nº 2.693 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2693",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2693",
+      "ementa": "REVOGA O PARAGRÁFO 4º DO ARTIGO 14 DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 2.006 DE 24 DE OUTUBRO DE 1857."
+    },
+    {
+      "senadoId": "397790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2689",
+      "titulo": "Decreto nº 2.689 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2689",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2689",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO COMANDO SUPERIOR DA GUARDA NACIONAL DO MUNICÍPIO DE PASSO FUNDO PROVÍNCIA DE SÃO PEDRO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2688",
+      "titulo": "Decreto nº 2.688 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2688",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2688",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DO DISTRITO DE VILA BELLA DA PROVÍNCIA DE PERNAMBUCO A FORÇA QUALIFICADA NO MUNICIPIO DE TACARATU DA MESMA PROVINCIA, E COM ELA CRIA UM NOVO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "397802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2692",
+      "titulo": "Decreto nº 2.692 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2692",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2692",
+      "ementa": "REGULA O ESTABELECIMENTO DE ESCRITÓRIO OU CASAS DE EMPRÉSTIMOS SOBRE PENHORES."
+    },
+    {
+      "senadoId": "397794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-14-2690",
+      "titulo": "Decreto nº 2.690 de 14/11/1860",
+      "data": "1860-11-14",
+      "numero": "2690",
+      "urn": "urn:lex:br:federal:decreto:1860-11-14;2690",
+      "ementa": "CRIA UMA COMPANHIA AVULSA DE INFANTARIA DO SERVIÇO ATIVO NA FREGUESIA DE PASSO FUNDO DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-10-2685",
+      "titulo": "Decreto nº 2.685 de 10/11/1860",
+      "data": "1860-11-10",
+      "numero": "2685",
+      "urn": "urn:lex:br:federal:decreto:1860-11-10;2685",
+      "ementa": "ESTABELECE REGRAS PARA A BOA EXECUÇÃO DO ARTIGO 1, PARAGRÁFOS 1, 3, 4 E 8, E ARTIGO 2 PARAGRAFOS 10, 11, 12, E 13 DA LEI 1.083 DE 22 DE AGOSTO DE 1860, NA PARTE RELATIVA AOS BANCOS DE CIRCULAÇÃO, QUE ATUALMENTE FUNCIONAM NO IMPERIO."
+    },
+    {
+      "senadoId": "397778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-10-2686",
+      "titulo": "Decreto nº 2.686 de 10/11/1860",
+      "data": "1860-11-10",
+      "numero": "2686",
+      "urn": "urn:lex:br:federal:decreto:1860-11-10;2686",
+      "ementa": "MARCA O PRAZO DENTRO DO QUAL OS BANCOS E OUTRAS COMPANHIAS E SOCIEDADES ANONIMAS, SUAS CAIXAS FILIAIS E AGÊNCIAS, QUE ATUALMENTE FUNCIONAM, SEM AUTORIZAÇÃO E APROVAÇÃO DE SEUS ESTATUTOS, DEVEM IMPETRA-LAS."
+    },
+    {
+      "senadoId": "397766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-03-2683",
+      "titulo": "Decreto nº 2.683 de 03/11/1860",
+      "data": "1860-11-03",
+      "numero": "2683",
+      "urn": "urn:lex:br:federal:decreto:1860-11-03;2683",
+      "ementa": "AMPLIA ÁS PRAÇAS DA ARMADA A ISENÇÃO CONCEDIDA PELO ARTIGO 7 DO DECRETO 2.029 DE 18 DE NOVEMBRO DE 1857."
+    },
+    {
+      "senadoId": "397754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-03-2680",
+      "titulo": "Decreto nº 2.680 de 03/11/1860",
+      "data": "1860-11-03",
+      "numero": "2680",
+      "urn": "urn:lex:br:federal:decreto:1860-11-03;2680",
+      "ementa": "MARCA OS DEVERES E ATRIBUIÇÕES DOS FISCAIS DOS BANCOS DE CIRCULAÇÃO."
+    },
+    {
+      "senadoId": "397770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-03-2684",
+      "titulo": "Decreto nº 2.684 de 03/11/1860",
+      "data": "1860-11-03",
+      "numero": "2684",
+      "urn": "urn:lex:br:federal:decreto:1860-11-03;2684",
+      "ementa": "MANDA EXECUTAR A NOVA TARIFA DAS ALFANDEGAS."
+    },
+    {
+      "senadoId": "397758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-03-2681",
+      "titulo": "Decreto nº 2.681 de 03/11/1860",
+      "data": "1860-11-03",
+      "numero": "2681",
+      "urn": "urn:lex:br:federal:decreto:1860-11-03;2681",
+      "ementa": "APROVA OS ESTATUTOS DO IMPERIAL INSTITUTO FULUMINENSE DE AGRICULTURA."
+    },
+    {
+      "senadoId": "397762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-03-2682",
+      "titulo": "Decreto nº 2.682 de 03/11/1860",
+      "data": "1860-11-03",
+      "numero": "2682",
+      "urn": "urn:lex:br:federal:decreto:1860-11-03;2682",
+      "ementa": "CONCEDE AO DR. JOAQUIM MOUTINHO DOS SANTOS PRIVILÉGIO EXCLUSIVO POR QUATORZE ANOS PARA FABRICAR, OU MANDAR FABRICAR UMA MÁQUINA DE SUA INVENÇÃO DESTINADA A MATAR FORMIGAS."
+    },
+    {
+      "senadoId": "397750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-11-03-2679",
+      "titulo": "Decreto nº 2.679 de 03/11/1860",
+      "data": "1860-11-03",
+      "numero": "2679",
+      "urn": "urn:lex:br:federal:decreto:1860-11-03;2679",
+      "ementa": "IMPÕE AOS BANCOS E OUTRAS COMPANHIAS E SOCIEDADE ANÔNIMA A OBRIGAÇÃO DE REMETER EM CERTAS ÉPOCAS AS COMPETENTES SECRETARIAS DE ESTADO SEUS BALANÇOS E OUTROS DOCUMENTOS."
+    },
+    {
+      "senadoId": "397738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-27-2676",
+      "titulo": "Decreto nº 2.676 de 27/10/1860",
+      "data": "1860-10-27",
+      "numero": "2676",
+      "urn": "urn:lex:br:federal:decreto:1860-10-27;2676",
+      "ementa": "APROVA ALGUMAS ALTERAÇÕES PROPOSTAS PELA COMPANHIA-REFINAÇÃO E DISTILAÇÃO-, ORGANIZADA NESTA CORTE, AOS ESTATUTOS QUE A REGEM."
+    },
+    {
+      "senadoId": "397742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-27-2677",
+      "titulo": "Decreto nº 2.677 de 27/10/1860",
+      "data": "1860-10-27",
+      "numero": "2677",
+      "urn": "urn:lex:br:federal:decreto:1860-10-27;2677",
+      "ementa": "APROVA O REGULAMENTO PARA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA GUERRA, REPARTIÇÕES DO AJUDANTE GENERAL DO EXÉRCITO E QUARTEL MESTRE GENERAL, E CONTADORIA GERAL DA GUERRA."
+    },
+    {
+      "senadoId": "397746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-27-2678",
+      "titulo": "Decreto nº 2.678 de 27/10/1860",
+      "data": "1860-10-27",
+      "numero": "2678",
+      "urn": "urn:lex:br:federal:decreto:1860-10-27;2678",
+      "ementa": "AUTORIZA UM CRÉDITO SUPLEMENTAR DE 95:000$ PARA COBRIR AS DESPESAS FEITAS COM DIVERSAS VERBAS DO MINISTÉRIO DO IMPÉRIO, NO EXERCÍCIO DE 1859-1860."
+    },
+    {
+      "senadoId": "397734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-24-2675",
+      "titulo": "Decreto nº 2.675 de 24/10/1860",
+      "data": "1860-10-24",
+      "numero": "2675",
+      "urn": "urn:lex:br:federal:decreto:1860-10-24;2675",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A NONA SECÃO DE BATALHÃO DE RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-24-2674",
+      "titulo": "Decreto nº 2.674 de 24/10/1860",
+      "data": "1860-10-24",
+      "numero": "2674",
+      "urn": "urn:lex:br:federal:decreto:1860-10-24;2674",
+      "ementa": "ELEVA A OITO COMPANHIAS O BATALHÃO DE INFANTARIA NÚMERO VINTE TRÊS DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-20-2673",
+      "titulo": "Decreto nº 2.673 de 20/10/1860",
+      "data": "1860-10-20",
+      "numero": "2673",
+      "urn": "urn:lex:br:federal:decreto:1860-10-20;2673",
+      "ementa": "APROVA AS EMENDAS PROPOSTAS PELA COMPANHIA DE SEGUROS DENOMINADA - FELIZ LEMBRANÇA - AOS ESTATUTOS QUE A REGEM."
+    },
+    {
+      "senadoId": "397723",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-17-2672",
+      "titulo": "Decreto nº 2.672 de 17/10/1860",
+      "data": "1860-10-17",
+      "numero": "2672",
+      "urn": "urn:lex:br:federal:decreto:1860-10-17;2672",
+      "ementa": "PRORROGA O PRAZO DA CONDIÇÃO 4º DO CONTRATO APROVADO PELO DECRETO NÚMERO 2.063 DE 23 DE DEZEMBRO DE 1857 PARA A NAVEGAÇÃO POR VAPOR ENTRE O PORTO DO RIO DE JANEIRO E O DE SÃO MATEUS NA PROVÍNCIA DO ESPÍRITO SANTO; E ALTERA A CONDIÇÃO 5ª DO MESMO CONTRATO."
+    },
+    {
+      "senadoId": "397695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2665",
+      "titulo": "Decreto nº 2.665 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2665",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2665",
+      "ementa": "ESTABELECE NOVO PLANO PARA A EXTRAÇÃO DAS LOTERIAS."
+    },
+    {
+      "senadoId": "397707",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2668",
+      "titulo": "Decreto nº 2.668 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2668",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2668",
+      "ementa": "DECLARA QUE A JURISDIÇÃO ORFANOLÓGICA FICA ANEXA A PRIMEIRA VARA MUNICIPAL, E A DE PROVEDORIA DE CAPELAS E RESÍDUOS A SEGUNDA NO TERMO DA CIDADE DO RIO GRANDE NA PROVÍNCIA DE SÃO PEDRO DO SUL."
+    },
+    {
+      "senadoId": "397711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2669",
+      "titulo": "Decreto nº 2.669 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2669",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2669",
+      "ementa": "MARCA O ORDENADO DO CARCEREIRO DA CADEIA DA VILA DE NOSSA SENHORA DA CONCEIÇÃO DO ARROIO NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2667",
+      "titulo": "Decreto nº 2.667 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2667",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2667",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA GUARDA NACIONAL DE CRUZ ALTA, DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, A FORÇA QUALIFICADA NO MUNICÍPIO DE PASSO FUNDO DA MESMA PROVÍNCIA, E CRIA COM ELA COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "397719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2671",
+      "titulo": "Decreto nº 2.671 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2671",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2671",
+      "ementa": "MARCA O ORDENADO DO CARCEREIRO DA CADEIA DA VILA DA CASA BRANCA NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "397715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2670",
+      "titulo": "Decreto nº 2.670 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2670",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2670",
+      "ementa": "MARCA O ORDENADO DO CARCEREIRO DA CADEIA DA VILA DE NOSSA SENHORA DA CONCEIÇÃO DAS DORES DE CAMAQUAM, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-13-2666",
+      "titulo": "Decreto nº 2.666 de 13/10/1860",
+      "data": "1860-10-13",
+      "numero": "2666",
+      "urn": "urn:lex:br:federal:decreto:1860-10-13;2666",
+      "ementa": "DECLARA QUAL O MODO POR QUE SE DEVE EXECUTAR OS ARTIGOS 20 DO DECRETO NÚMERO 2.549 DE 14 DE 17 DO MESMO MÊS O ANO."
+    },
+    {
+      "senadoId": "397691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-10-2664",
+      "titulo": "Decreto nº 2.664 de 10/10/1860",
+      "data": "1860-10-10",
+      "numero": "2664",
+      "urn": "urn:lex:br:federal:decreto:1860-10-10;2664",
+      "ementa": "MARCA O PRAZO E REGULA O PROCESSO DA SUBSTITUIÇÃO OU RESGATE DAS NOTAS DOS BANCOS, MENORES DE 50$000,NA CORTE E PROVÍNCIA DO RIO DE JANEIRO, E DE 25$000 NAS DEMAIS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "397671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2659",
+      "titulo": "Decreto nº 2.659 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2659",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2659",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PAROQUIA DE NOSSA SENHORA DA NATIVIDADE DE GARANGOLA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2658",
+      "titulo": "Decreto nº 2.658 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2658",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2658",
+      "ementa": "FIXA O NÚMERO DE ELEITORES DAS PAROQUIAS DO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "397679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2661",
+      "titulo": "Decreto nº 2.661 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2661",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2661",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DA GUARDA NACIONAL DO SERVIÇO DA RESERVA NO MUNICÍPIO DE SÃO JOÃO DA BARRA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2660",
+      "titulo": "Decreto nº 2.660 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2660",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2660",
+      "ementa": "CRIA DOIS BATALHÕES DE INFANTARIA DA GUARDA NACIONAL NO MUNICÍPIO DA PALMEIRA DOS ÍNDIOS DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "397663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2657",
+      "titulo": "Decreto nº 2.657 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2657",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2657",
+      "ementa": "DESLIGA O COMANDO SUPERIOR DA GUARDA NACIONAL DOS MUNICÍPIOS DE OEIRAS E PICOS DA PROVÍNCIA DO PIAUÍ A FORÇA QUALIFICADA NOS DISTRITOS DE JAICOZ, SÃO RAIMUNDO NONATO, E FREQUESIA DO PIAUÍ DA MESMA PROVÍNCIA, E CRIA COM ELA UM COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "397687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2663",
+      "titulo": "Decreto nº 2.663 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2663",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2663",
+      "ementa": "CONCEDE AO MINISTÉRIO DO IMPÉRIO CONTOS UM CRÉDITO EXTRAORDINÁRIO DE DUZENTOS CONTOS DE RÉIS, PARA OCORRER DURANTE O EXERCÍCIO DE 1860 A 1861, AS DESPESAS FEITAS E POR FAZER A TÍTULO DE SOCORROS PÚBLICOS."
+    },
+    {
+      "senadoId": "397683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-10-06-2662",
+      "titulo": "Decreto nº 2.662 de 06/10/1860",
+      "data": "1860-10-06",
+      "numero": "2662",
+      "urn": "urn:lex:br:federal:decreto:1860-10-06;2662",
+      "ementa": "APROVA O PLANO DE ORGANIZAÇÃO DOS CORPOS DE GUARNIÇÃO DO EXERCITO."
+    },
+    {
+      "senadoId": "397659",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-29-2656",
+      "titulo": "Decreto nº 2.656 de 29/09/1860",
+      "data": "1860-09-29",
+      "numero": "2656",
+      "urn": "urn:lex:br:federal:decreto:1860-09-29;2656",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O NOVO PRAZO CONCEDIDO POR DECRETO NÚMERO 2.559, DE 24 DE MARÇO DO CORRENTE ANO, PARA A INCORPORAÇÃO DO BANCO INDUSTRIAL E HIPOTECÁRIO."
+    },
+    {
+      "senadoId": "397655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-29-2655",
+      "titulo": "Decreto nº 2.655 de 29/09/1860",
+      "data": "1860-09-29",
+      "numero": "2655",
+      "urn": "urn:lex:br:federal:decreto:1860-09-29;2655",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O NOVO PRAZO CONCEDIDO POR DECRETO NÚMERO 2.558, DE 21 DE MARÇO DO CORRENTE ANO, PARA A INCORPORAÇÃO DO BANCO - SOCORRO E AUXÍLIO."
+    },
+    {
+      "senadoId": "397651",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-29-2654",
+      "titulo": "Decreto nº 2.654 de 29/09/1860",
+      "data": "1860-09-29",
+      "numero": "2654",
+      "urn": "urn:lex:br:federal:decreto:1860-09-29;2654",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O NOVO PRAZO CONCEDIDO POR DECRETO NÚMERO 2.546, DE 7 DE MARÇO DO CORRENTE ANO, PARA A INCORPORAÇÃO DO BANCO INDUSTRIAL, COMERCIAL E TERRITORIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397647",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-29-2653",
+      "titulo": "Decreto nº 2.653 de 29/09/1860",
+      "data": "1860-09-29",
+      "numero": "2653",
+      "urn": "urn:lex:br:federal:decreto:1860-09-29;2653",
+      "ementa": "SUSPENDE A EXECUÇÃO DO TRATADO DE COMÉRCIO E NAVEGAÇÃO CELEBRADO ENTRE O BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI, EM 4 DE SETEMBRO DE 1857, E DECLARA SÓ SUBSISTENTE ENTRE OS DOIS PAÍSES O DE 12 DE OUTUBRO DE 1851."
+    },
+    {
+      "senadoId": "397639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-27-2651",
+      "titulo": "Decreto nº 2.651 de 27/09/1860",
+      "data": "1860-09-27",
+      "numero": "2651",
+      "urn": "urn:lex:br:federal:decreto:1860-09-27;2651",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA COMARCA DE PORTO-ALEGRE, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "397643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-27-2652",
+      "titulo": "Decreto nº 2.652 de 27/09/1860",
+      "data": "1860-09-27",
+      "numero": "2652",
+      "urn": "urn:lex:br:federal:decreto:1860-09-27;2652",
+      "ementa": "CRIA UM BATALHÃO DA RESERVA DA GUARDA NACIONAL NAS FREQUESIAS DE PIRAJÁ, PARIPE, COTIGIPE, MATUIM, MARÉ E PASSÉ DE PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "397635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-24-2650",
+      "titulo": "Decreto nº 2.650 de 24/09/1860",
+      "data": "1860-09-24",
+      "numero": "2650",
+      "urn": "urn:lex:br:federal:decreto:1860-09-24;2650",
+      "ementa": "PROMULGA A CONVENÇÃO E O RESPECTIVO ARTIGO ADICIONAL CELEBRADOS EM 7 E 21 DE JULHO DE 1860, ENTRE O BRASIL E A FRANÇA, PARA REGULAR A TROCA DA CORRESPONDÊNCIA DOS DOIS PAÍSES."
+    },
+    {
+      "senadoId": "397631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-21-2649",
+      "titulo": "Decreto nº 2.649 de 21/09/1860",
+      "data": "1860-09-21",
+      "numero": "2649",
+      "urn": "urn:lex:br:federal:decreto:1860-09-21;2649",
+      "ementa": "ESTABELECE AS CONDIÇÕES EXIGÍVEIS DOS PRETENDENTES AOS LUGARES DO CORPO DE FAZENDA DA ARMADA, E REGULA O MODO PELO QUAL SE DEVEM ELAS VERIFICAR."
+    },
+    {
+      "senadoId": "397627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-21-2648",
+      "titulo": "Decreto nº 2.648 de 21/09/1860",
+      "data": "1860-09-21",
+      "numero": "2648",
+      "urn": "urn:lex:br:federal:decreto:1860-09-21;2648",
+      "ementa": "CONCEDE PRIVILÉGIO POR DEZ ANOS A CARLOS DELACOSTA PARA UM MELHORAMENTO QUE INVENTOU NA CONSTRUÇÃO DO ALAMBIQUE DESTILADOR E RETIFICADOR."
+    },
+    {
+      "senadoId": "397623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-19-2647",
+      "titulo": "Decreto nº 2.647 de 19/09/1860",
+      "data": "1860-09-19",
+      "numero": "2647",
+      "urn": "urn:lex:br:federal:decreto:1860-09-19;2647",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DAS ALFANDEGAS E MESAS DE RENDAS."
+    },
+    {
+      "senadoId": "397619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-19-2646",
+      "titulo": "Decreto nº 2.646 de 19/09/1860",
+      "data": "1860-09-19",
+      "numero": "2646",
+      "urn": "urn:lex:br:federal:decreto:1860-09-19;2646",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO POR VAPOR E ESTRADA DE FERRO DE PETROPOLIS, AMPLIANDO A 30 ANOS O PRIVILÉGIO DE 10 ANOS QUE LHE FOI CONCEDIDO PELO DECRETO NÚMERO 987 DE 12 DE JUNHO DE 1852 PARA A NAVEGAÇÃO POR VAPOR ENTRE ESTA CIDADE E O PORTO DE MAUÁ."
+    },
+    {
+      "senadoId": "397615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-18-2645",
+      "titulo": "Decreto nº 2.645 de 18/09/1860",
+      "data": "1860-09-18",
+      "numero": "2645",
+      "urn": "urn:lex:br:federal:decreto:1860-09-18;2645",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DE UMA COMPANHIA DE SEGUROS MARÍTIMOS DENOMINADA - NOVA REGENERAÇÃO -, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "397595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2640",
+      "titulo": "Decreto nº 2.640 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2640",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2640",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DE VILA VIÇOSA, CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "397583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2637",
+      "titulo": "Decreto nº 2.637 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2637",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2637",
+      "ementa": "DIVIDE A PROVÍNCIA DA BAHIA EM CINCO DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397599",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2641",
+      "titulo": "Decreto nº 2.641 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2641",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2641",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE VILA VIÇOSA CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "397611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2644",
+      "titulo": "Decreto nº 2.644 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2644",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2644",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NO MUNICÍPIO DE OEIRAS DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "397587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2638",
+      "titulo": "Decreto nº 2.638 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2638",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2638",
+      "ementa": "DIVIDE A PROVÍNCIA DO RIO DE JANEIRO EM QUATRO DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2636-a",
+      "titulo": "Decreto nº 2.636-A de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2636-a",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2636-a",
+      "ementa": "INOVA O CONTRATO COM A ASSOCIAÇÃO SERGIPENSE PARA O SERVIÇO DE REBOQUE NAS BARRAS DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "397603",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2642",
+      "titulo": "Decreto nº 2.642 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2642",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2642",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE MAGÉ CRIADA NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2639",
+      "titulo": "Decreto nº 2.639 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2639",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2639",
+      "ementa": "DIVIDE A PROVÍNCIA DE SÃO PAULO EM TRÊS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2635",
+      "titulo": "Decreto nº 2.635 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2635",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2635",
+      "ementa": "DIVIDE A PROVÍNCIA DO CEARÁ EM TRÊS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2643",
+      "titulo": "Decreto nº 2.643 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2643",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2643",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DAS COMARCAS DE MONTE ALTO E MARACÁS CRIADA NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "397578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-05-2636",
+      "titulo": "Decreto nº 2.636 de 05/09/1860",
+      "data": "1860-09-05",
+      "numero": "2636",
+      "urn": "urn:lex:br:federal:decreto:1860-09-05;2636",
+      "ementa": "DIVIDE A PROVÍNCIA DE MINAS GERAIS EM SETE DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-01-2633",
+      "titulo": "Decreto nº 2.633 de 01/09/1860",
+      "data": "1860-09-01",
+      "numero": "2633",
+      "urn": "urn:lex:br:federal:decreto:1860-09-01;2633",
+      "ementa": "DIVIDE A PROVÍNCIA DE PERNAMBUCO EM CINCO DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-01-2632",
+      "titulo": "Decreto nº 2.632 de 01/09/1860",
+      "data": "1860-09-01",
+      "numero": "2632",
+      "urn": "urn:lex:br:federal:decreto:1860-09-01;2632",
+      "ementa": "DETERMINA O MODO POR QUE DEVEM SER PROVIDOS OS EMPREGOS CIENTÍFICOS E ARTÍSTICOS DA CASA DA MOEDA."
+    },
+    {
+      "senadoId": "397570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-01-2634",
+      "titulo": "Decreto nº 2.634 de 01/09/1860",
+      "data": "1860-09-01",
+      "numero": "2634",
+      "urn": "urn:lex:br:federal:decreto:1860-09-01;2634",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS, COM DIVERSAS ALTERAÇÕES, DA SOCIEDADE BANCÁRIA DENOMINADA -COMÉRCIO-, ESTABELECIDA NA CIDADE DA BAHIA."
+    },
+    {
+      "senadoId": "397558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-09-01-2631",
+      "titulo": "Decreto nº 2.631 de 01/09/1860",
+      "data": "1860-09-01",
+      "numero": "2631",
+      "urn": "urn:lex:br:federal:decreto:1860-09-01;2631",
+      "ementa": "DIVIDE A PROVÍNCIA DE SÃO PEDRO EM DOIS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-29-2629",
+      "titulo": "Decreto nº 2.629 de 29/08/1860",
+      "data": "1860-08-29",
+      "numero": "2629",
+      "urn": "urn:lex:br:federal:decreto:1860-08-29;2629",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO POR FAVOR NO RIO JACUÍ."
+    },
+    {
+      "senadoId": "397554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-29-2630",
+      "titulo": "Decreto nº 2.630 de 29/08/1860",
+      "data": "1860-08-29",
+      "numero": "2630",
+      "urn": "urn:lex:br:federal:decreto:1860-08-29;2630",
+      "ementa": "DECLARA QUAL A INTELIGÊNCIA QUE SE DEVE DAR A ALGUNS ARTIGOS DOS ESTATUTOS DO BANCO COMERCIAL E AGRÍCOLA, RELATIVOS ÁS CAIXAS FILIAIS E AGÊNCIAS."
+    },
+    {
+      "senadoId": "397546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-25-2628",
+      "titulo": "Decreto nº 2.628 de 25/08/1860",
+      "data": "1860-08-25",
+      "numero": "2628",
+      "urn": "urn:lex:br:federal:decreto:1860-08-25;2628",
+      "ementa": "DIVIDE A PROVÍNCIA DAS ALAGOAS EM DOIS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-25-2627",
+      "titulo": "Decreto nº 2.627 de 25/08/1860",
+      "data": "1860-08-25",
+      "numero": "2627",
+      "urn": "urn:lex:br:federal:decreto:1860-08-25;2627",
+      "ementa": "DIVIDE A PROVÍNCIA DO MARANHÃO EM DOIS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-22-2621",
+      "titulo": "Decreto nº 2.621 de 22/08/1860",
+      "data": "1860-08-22",
+      "numero": "2621",
+      "urn": "urn:lex:br:federal:decreto:1860-08-22;2621",
+      "ementa": "DÁ INSTRUÇÕES PARA EXECUÇÃO DO DECRETO NÚMERO 1.082 DE 18 DO CORRENTE    MÊS, SOBRE ELEIÇÕES."
+    },
+    {
+      "senadoId": "397530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-22-2624",
+      "titulo": "Decreto nº 2.624 de 22/08/1860",
+      "data": "1860-08-22",
+      "numero": "2624",
+      "urn": "urn:lex:br:federal:decreto:1860-08-22;2624",
+      "ementa": "DIVIDE A PROVÍNCIA DA SERGIPE EM DOIS DISTRITOS ELEITORAIS."
+    },
+    {
+      "senadoId": "397522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-22-2622",
+      "titulo": "Decreto nº 2.622 de 22/08/1860",
+      "data": "1860-08-22",
+      "numero": "2622",
+      "urn": "urn:lex:br:federal:decreto:1860-08-22;2622",
+      "ementa": "REGULA O MODO DE PROCEDER-SE Á ELEIÇÃO DE DEPUTADOS E MEMBROS DAS ASSEMBLÉIAS LEGISLATIVOS PROVINCIAIS NAS PROVÍNCIAS QUE CONSTITUEM UM SÓ DISTRITO ELEITORAL."
+    },
+    {
+      "senadoId": "397538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-22-2626",
+      "titulo": "Decreto nº 2.626 de 22/08/1860",
+      "data": "1860-08-22",
+      "numero": "2626",
+      "urn": "urn:lex:br:federal:decreto:1860-08-22;2626",
+      "ementa": "SEPARA O TERMO DE SANTA MARIA DA BOCA DO MONTE DA CACHOEIRA, NA PROVÍNCIA DO RIO GRANDE DO SUL, E CRIA NELE UM LUGAR DE JUIZ MUNICIPAL DE ORFÃOS."
+    },
+    {
+      "senadoId": "397526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-22-2623",
+      "titulo": "Decreto nº 2.623 de 22/08/1860",
+      "data": "1860-08-22",
+      "numero": "2623",
+      "urn": "urn:lex:br:federal:decreto:1860-08-22;2623",
+      "ementa": "DIVIDE A PROVÍNCIA DA PARAÍBA EM DOIS DISTRITOS ELEITORES."
+    },
+    {
+      "senadoId": "397534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-22-2625",
+      "titulo": "Decreto nº 2.625 de 22/08/1860",
+      "data": "1860-08-22",
+      "numero": "2625",
+      "urn": "urn:lex:br:federal:decreto:1860-08-22;2625",
+      "ementa": "DECLARA DE 2 ENTRANCIA A COMARCA DE MAGE, CRIADA ULTIMAMENTE NA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-11-2618",
+      "titulo": "Decreto nº 2.618 de 11/08/1860",
+      "data": "1860-08-11",
+      "numero": "2618",
+      "urn": "urn:lex:br:federal:decreto:1860-08-11;2618",
+      "ementa": "ESTABELECE OS EMOLUMENTOS QUE DEVEM PAGAR NO TESOURO NACIONAL OS EMPREGADOS DAS SECRETARIAS DE POLÍCIA NOMEADOS POR PORTARIA DE SEUS RESPECTIVOS CHEFES."
+    },
+    {
+      "senadoId": "397514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-11-2620",
+      "titulo": "Decreto nº 2.620 de 11/08/1860",
+      "data": "1860-08-11",
+      "numero": "2620",
+      "urn": "urn:lex:br:federal:decreto:1860-08-11;2620",
+      "ementa": "PERMITE QUE A COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES-FIDELIDADE-POSSA REDUZIR O SEU FUNDO REALIZADO DE VINTE A DEZ POR CENTO."
+    },
+    {
+      "senadoId": "397510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-11-2619",
+      "titulo": "Decreto nº 2.619 de 11/08/1860",
+      "data": "1860-08-11",
+      "numero": "2619",
+      "urn": "urn:lex:br:federal:decreto:1860-08-11;2619",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA DENOMINADA TRANSPORTES MARÍTIMOS."
+    },
+    {
+      "senadoId": "397502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-08-01-2617",
+      "titulo": "Decreto nº 2.617 de 01/08/1860",
+      "data": "1860-08-01",
+      "numero": "2617",
+      "urn": "urn:lex:br:federal:decreto:1860-08-01;2617",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO NO MUNICÍPIO DA BATALHA DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "397498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-28-2616",
+      "titulo": "Decreto nº 2.616 de 28/07/1860",
+      "data": "1860-07-28",
+      "numero": "2616",
+      "urn": "urn:lex:br:federal:decreto:1860-07-28;2616",
+      "ementa": "FAZ ALGUMAS ALTERAÇÕES NO PONTO DE PARTIDA NESTA CIDADE DA ESTRADA DE FERRO PARA O MORRO DA BOA-VISTA, E NA DIREÇÃO QUE DEVE SEGUIR A MESMA ESTRADA ATÉ O CAIS DA GLORIA, E CONCEDE MAIS MESES PARA A ORGANIZAÇÃO DA COMPANHIA QUE TEM DE TOMAR A SI ESTA EMPRESA."
+    },
+    {
+      "senadoId": "397494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-21-2615",
+      "titulo": "Decreto nº 2.615 de 21/07/1860",
+      "data": "1860-07-21",
+      "numero": "2615",
+      "urn": "urn:lex:br:federal:decreto:1860-07-21;2615",
+      "ementa": "MANDA OBSERVAR O NOVO REGULAMENTO PARA AS COMPANHIAS DE APRENDIZES ARTÍFICES DO ARSENAL DE MARINHA DA CORTE, E PROVÍNCIA DA BAHIA E PERNAMBUCO."
+    },
+    {
+      "senadoId": "397490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-21-2614",
+      "titulo": "Decreto nº 2.614 de 21/07/1860",
+      "data": "1860-07-21",
+      "numero": "2614",
+      "urn": "urn:lex:br:federal:decreto:1860-07-21;2614",
+      "ementa": "DANDO REGULAMENTO PARA A ORGANIZAÇÃO E SERVIÇO DOS TELÉGRAFOS ELÉTRICOS."
+    },
+    {
+      "senadoId": "397486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-14-2613",
+      "titulo": "Decreto nº 2.613 de 14/07/1860",
+      "data": "1860-07-14",
+      "numero": "2613",
+      "urn": "urn:lex:br:federal:decreto:1860-07-14;2613",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DE MARACÁS, CRIADA ULTIMAMENTE NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "397482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-14-2612",
+      "titulo": "Decreto nº 2.612 de 14/07/1860",
+      "data": "1860-07-14",
+      "numero": "2612",
+      "urn": "urn:lex:br:federal:decreto:1860-07-14;2612",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DE MONTE ALTO, CRIADA ULTIMAMENTE NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "397478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-11-2611",
+      "titulo": "Decreto nº 2.611 de 11/07/1860",
+      "data": "1860-07-11",
+      "numero": "2611",
+      "urn": "urn:lex:br:federal:decreto:1860-07-11;2611",
+      "ementa": "ESTABELECE AS CONDIÇÕES PARA A CONCESSÃO DOS FAVORES VOTADOS PELA ASSEMBLÉIA GERAL LEGISLATIVA PARA MANUTENÇÃO DE UMA ÓPERA LIRICA NACIONAL."
+    },
+    {
+      "senadoId": "397474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-07-04-2610",
+      "titulo": "Decreto nº 2.610 de 04/07/1860",
+      "data": "1860-07-04",
+      "numero": "2610",
+      "urn": "urn:lex:br:federal:decreto:1860-07-04;2610",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO SERVIÇO ATIVO, E UMA COMPANHIA AVULSA DA RESERVA NO MUNICÍPIO DA VILA DE MILAGRES DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "397470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-30-2609",
+      "titulo": "Decreto nº 2.609 de 30/06/1860",
+      "data": "1860-06-30",
+      "numero": "2609",
+      "urn": "urn:lex:br:federal:decreto:1860-06-30;2609",
+      "ementa": "PROVIDENCIA A RESPEITO DOS CASOS EM QUE UM LENTE, A QUEM COMPETE PREENCHER O LUGAR DE DIRETOR INTERINO DE UMA DAS FACULDADES, RECUSE FAZE-LO POR QUALQUER MOTIVO, CONTINUANDO COM TUDO NO EXERCÍCIO DE LENTE; E EM QUE NÃO QUEIRA TOMAR O SEU ASSENTO DE ORDEM."
+    },
+    {
+      "senadoId": "397462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-30-2607",
+      "titulo": "Decreto nº 2.607 de 30/06/1860",
+      "data": "1860-06-30",
+      "numero": "2607",
+      "urn": "urn:lex:br:federal:decreto:1860-06-30;2607",
+      "ementa": "CRIA O IMPERIAL INSTITUTO FLUMINENSE DE AGRICULTURA."
+    },
+    {
+      "senadoId": "397466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-30-2608",
+      "titulo": "Decreto nº 2.608 de 30/06/1860",
+      "data": "1860-06-30",
+      "numero": "2608",
+      "urn": "urn:lex:br:federal:decreto:1860-06-30;2608",
+      "ementa": "ALTERA A REPARTIÇÃO ESPECIAL DAS TERRAS PÚBLICAS DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "397454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-23-2605",
+      "titulo": "Decreto nº 2.605 de 23/06/1860",
+      "data": "1860-06-23",
+      "numero": "2605",
+      "urn": "urn:lex:br:federal:decreto:1860-06-23;2605",
+      "ementa": "CONCEDE A RAIMUNDO DE MACEDO PIMENTEL PRIVILÉGIO POR DEZ ANOS PARA UM APARELHO DE SUA INVENÇÃO DESTINADO SECAR CAFÉ."
+    },
+    {
+      "senadoId": "397458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-23-2606",
+      "titulo": "Decreto nº 2.606 de 23/06/1860",
+      "data": "1860-06-23",
+      "numero": "2606",
+      "urn": "urn:lex:br:federal:decreto:1860-06-23;2606",
+      "ementa": "APROVA AS TABELAS DAS PEÇAS DE FARDAMENTO QUE SE DEVEM DISTRIBUIR ÁS PRAÇAS DOS DIFERENTES CORPOS DO EXÉRCITO, E DOS PREÇOS E TEMPO DE DURAÇÃO DELAS, REVOGANDO PARA ESSE FIM NA PARTE RELATIVA, A QUE ACOMPANHO O DECRETO NÚMERO 547 DE 8 DE JANEIRO DE 1848."
+    },
+    {
+      "senadoId": "397450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-23-2604",
+      "titulo": "Decreto nº 2.604 de 23/06/1860",
+      "data": "1860-06-23",
+      "numero": "2604",
+      "urn": "urn:lex:br:federal:decreto:1860-06-23;2604",
+      "ementa": "APROVA OS ESTATUTOS PARA A CRIAÇÃO DE UMA CAIXA FILIAL DO BANCO DO BRASIL NA CIDADE DA FORTALEZA, CAPITAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "397446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-13-2603",
+      "titulo": "Decreto nº 2.603 de 13/06/1860",
+      "data": "1860-06-13",
+      "numero": "2603",
+      "urn": "urn:lex:br:federal:decreto:1860-06-13;2603",
+      "ementa": "DESANEXA O TERMO DA FLORES DE INGAZEIRA NA PROVÍNCIA DE PERNAMBUCO, E CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "397442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-09-2602",
+      "titulo": "Decreto nº 2.602 de 09/06/1860",
+      "data": "1860-06-09",
+      "numero": "2602",
+      "urn": "urn:lex:br:federal:decreto:1860-06-09;2602",
+      "ementa": "APROVA OS ESTATUTOS DO IMPERIAL INSTITUTO SERGIPANO DE AGRICULTURA."
+    },
+    {
+      "senadoId": "397438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-06-2601",
+      "titulo": "Decreto nº 2.601 de 06/06/1860",
+      "data": "1860-06-06",
+      "numero": "2601",
+      "urn": "urn:lex:br:federal:decreto:1860-06-06;2601",
+      "ementa": "APROVA OS ARTIGOS DE ASSOCIAÇÃO DA COMPANHIA DA ESTRADA DE FERRO DE SANTOS A JUNDIAI."
+    },
+    {
+      "senadoId": "397434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-06-02-2600",
+      "titulo": "Decreto nº 2.600 de 02/06/1860",
+      "data": "1860-06-02",
+      "numero": "2600",
+      "urn": "urn:lex:br:federal:decreto:1860-06-02;2600",
+      "ementa": "DÁ INSTRUÇÕES SEGUNDO AS QUAIS DEVE SER FEITO NAS PROVÍNCIAS O EXAME DOS MAQUINISTAS DAS BARCAS DE VAPOR MERCANTES NACIONAIS."
+    },
+    {
+      "senadoId": "397426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-26-2598",
+      "titulo": "Decreto nº 2.598 de 26/05/1860",
+      "data": "1860-05-26",
+      "numero": "2598",
+      "urn": "urn:lex:br:federal:decreto:1860-05-26;2598",
+      "ementa": "APROVA A MODIFICAÇÃO FEITA NO CONTRATO CELEBRADO COM IGNACIO DE BARROS VIEIRA CAJUEIRO PARA A CONSTRUÇÃO DO CAIS DA GLÓRIA, ANEXO AO DECRETO NÚMERO 2.062 DE 23 DE DEZEMBRO DE 1857."
+    },
+    {
+      "senadoId": "397422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-26-2597",
+      "titulo": "Decreto nº 2.597 de 26/05/1860",
+      "data": "1860-05-26",
+      "numero": "2597",
+      "urn": "urn:lex:br:federal:decreto:1860-05-26;2597",
+      "ementa": "CRIA NO MUNICÍPIO DA CORTE MAIS UM OFÍCIO DE ESCRIVÃO DE AUSENTES."
+    },
+    {
+      "senadoId": "397430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-26-2599",
+      "titulo": "Decreto nº 2.599 de 26/05/1860",
+      "data": "1860-05-26",
+      "numero": "2599",
+      "urn": "urn:lex:br:federal:decreto:1860-05-26;2599",
+      "ementa": "ALTERA A CONDIÇÃO 18ª DO CONTRATO ASSINADO PELO GOVERNO IMPERIAL COM A COMPANHIA BRASILEIRO DE PAQUETES DE VAPOR, EM 3 DE JANEIRO DE 1855."
+    },
+    {
+      "senadoId": "397410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-19-2594",
+      "titulo": "Decreto nº 2.594 de 19/05/1860",
+      "data": "1860-05-19",
+      "numero": "2594",
+      "urn": "urn:lex:br:federal:decreto:1860-05-19;2594",
+      "ementa": "APROVA A NOVAÇÃO DO CONTRATO CELEBRADO COM O PRESIDENTE DA COMPANHIA DE ILUMINAÇÃO A GAZ PARA SE ESTABELECER NO JARDIM BOTANICO DO PASSEIO PÚBLICO SISTEMA DE QUEIMAR POR CONTADOR."
+    },
+    {
+      "senadoId": "397414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-19-2595",
+      "titulo": "Decreto nº 2.595 de 19/05/1860",
+      "data": "1860-05-19",
+      "numero": "2595",
+      "urn": "urn:lex:br:federal:decreto:1860-05-19;2595",
+      "ementa": "ALTERA A REPARTIÇÃO ESPECIAL DAS TERRAS PÚBLICAS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "397418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-19-2596",
+      "titulo": "Decreto nº 2.596 de 19/05/1860",
+      "data": "1860-05-19",
+      "numero": "2596",
+      "urn": "urn:lex:br:federal:decreto:1860-05-19;2596",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE BUIQUE DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "397406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-12-2593",
+      "titulo": "Decreto nº 2.593 de 12/05/1860",
+      "data": "1860-05-12",
+      "numero": "2593",
+      "urn": "urn:lex:br:federal:decreto:1860-05-12;2593",
+      "ementa": "EXTINGUE A IMPERIAL ACADEMIA DE MÚSICA E ÓPERA LÍRICA NACIONAL, E REVOGA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "397402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-09-2592",
+      "titulo": "Decreto nº 2.592 de 09/05/1860",
+      "data": "1860-05-09",
+      "numero": "2592",
+      "urn": "urn:lex:br:federal:decreto:1860-05-09;2592",
+      "ementa": "DECLARA QUE A CONCESSÃO DE PERDÃO AOS RÉUS QUE FOREM CONDENADOS POR CRIMES MILITARES DEVERÁ SER REQUERIDA POR INTERMÉDIO DA REPARTIÇÃO DA GUERRA."
+    },
+    {
+      "senadoId": "397394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-09-2590",
+      "titulo": "Decreto nº 2.590 de 09/05/1860",
+      "data": "1860-05-09",
+      "numero": "2590",
+      "urn": "urn:lex:br:federal:decreto:1860-05-09;2590",
+      "ementa": "ELEVA A DOIS ANOS O PRAZO DE UM ANO ESTABELECIDO NO ARTIGO 13 DO DECRETO NÚMERO 1.601 DE 10 DE MAIO DE 1855 PARA A VALIDADE DOS EXAMES    DAS MATÉRIAS PREPARATÓRIAS."
+    },
+    {
+      "senadoId": "397398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-05-09-2591",
+      "titulo": "Decreto nº 2.591 de 09/05/1860",
+      "data": "1860-05-09",
+      "numero": "2591",
+      "urn": "urn:lex:br:federal:decreto:1860-05-09;2591",
+      "ementa": "ALTERA AS CONDIÇÕES DO CONTRATO CELEBRADO COM A COMPANHIA DE NAVEGAÇÃO E COMÉRCIO DO AMAZONAS, ANEXO AO DECRETO NÚMERO 1.988 DE 10 DE OUTUBRO DE 1857."
+    },
+    {
+      "senadoId": "397386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-30-2588",
+      "titulo": "Decreto nº 2.588 de 30/04/1860",
+      "data": "1860-04-30",
+      "numero": "2588",
+      "urn": "urn:lex:br:federal:decreto:1860-04-30;2588",
+      "ementa": "AUTORIZA UM CRÉDITO SUPLEMENTAR DE QUINHENTOS OITENTA E DOIS CONTOS SETECENTOS SETENTA E OITO MIL QUINHENTOS SESSENTA E NOVE RÉIS PARA OCORRER ÁS DESPESAS DA VERBA - MATERIAL - DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1859 A 1860."
+    },
+    {
+      "senadoId": "397366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-30-2583",
+      "titulo": "Decreto nº 2.583 de 30/04/1860",
+      "data": "1860-04-30",
+      "numero": "2583",
+      "urn": "urn:lex:br:federal:decreto:1860-04-30;2583",
+      "ementa": "REORGANIZA OS ARSENAIS DE MARINHA DO IMPÉRIO."
+    },
+    {
+      "senadoId": "397374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-30-2585",
+      "titulo": "Decreto nº 2.585 de 30/04/1860",
+      "data": "1860-04-30",
+      "numero": "2585",
+      "urn": "urn:lex:br:federal:decreto:1860-04-30;2585",
+      "ementa": "AUTORIZA O MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO CORRENTE EXERCÍCIO FINANCEIRO, ALÉM DOS CRÉDITOS VOTADOS NAS VERBAS DOS PARÁGRAFOS 3º E 4º DO ARTIGO 4º DA LEI NÚMERO 1.040 DE 14 DE SETEMBRO DE 1859, MAIS A QUANTIA DE CINQÜENTA E UM CONTO NOVECENTOS OITENTA E CINCO MIL CENTO OITENTA E QUATRO RÉIS NA FORMA DA TABELA QUE COM ESTE BAIXA."
+    },
+    {
+      "senadoId": "397378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-30-2586",
+      "titulo": "Decreto nº 2.586 de 30/04/1860",
+      "data": "1860-04-30",
+      "numero": "2586",
+      "urn": "urn:lex:br:federal:decreto:1860-04-30;2586",
+      "ementa": "CONCEDE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO EXTRAORDINÁRIO DE OITENTA CONTOS DE RÉIS PARA SATISFAZER AS DIFERENÇAS DE CÂMBIO E COMISSÕES PROVENIENTES DA DESPESA FEITA NO EXTERIOR NO EXERCÍCIO DE 1859 1860."
+    },
+    {
+      "senadoId": "397382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-30-2587",
+      "titulo": "Decreto nº 2.587 de 30/04/1860",
+      "data": "1860-04-30",
+      "numero": "2587",
+      "urn": "urn:lex:br:federal:decreto:1860-04-30;2587",
+      "ementa": "ESTABELECE O REGULAMENTO PARA O CORPO DE BOMBEIROS."
+    },
+    {
+      "senadoId": "397370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-30-2584",
+      "titulo": "Decreto nº 2.584 de 30/04/1860",
+      "data": "1860-04-30",
+      "numero": "2584",
+      "urn": "urn:lex:br:federal:decreto:1860-04-30;2584",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO POR VAPOR - MACAÉ E CAMPOS."
+    },
+    {
+      "senadoId": "397358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2581",
+      "titulo": "Decreto nº 2.581 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2581",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2581",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE SEISCENTOS SESSENTA E OITO CONTOS DE RÉIS PARA AS DESPESAS DO EXERCÍCIO DE 1859 A 1860."
+    },
+    {
+      "senadoId": "397354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2580",
+      "titulo": "Decreto nº 2.580 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2580",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2580",
+      "ementa": "AUTORIZA UM CRÉDITO SUPLEMENTAR DA IMPORTÂNCIA DE QUINHENTOS E CINQÜENTA E OITO CONTOS NOVECENTOS E OITENTA MIL OITOCENTOS E CINQÜENTA E TRÊS RÉIS PARA OCORRER, DENTRO DO EXERCÍCIO DE 1859 A 1860 Á DIVERSAS RUBRICAS DO MINISTÉRIO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "397342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2577",
+      "titulo": "Decreto nº 2.577 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2577",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2577",
+      "ementa": "DECLARA QUE OS COMISSÁRIOS DE TERCEIRA CLASSE DO CORPO DE OFICIAIS DE FAZENDA DA ARMADA PODEM SER COADJUVADOS NO SERVIÇO A SEU CARGO, SEMPRE QUE FOR CONVENIENTE, POR UM FIEL DE SEGUNDA CLASSE."
+    },
+    {
+      "senadoId": "397338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2576",
+      "titulo": "Decreto nº 2.576 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2576",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2576",
+      "ementa": "REVOGA AOS ARTIGOS 1º, 5º, 6º E 10 DO DECRETO NÚMERO 2.012 DE 4 DE NOVEMBRO DE 1857."
+    },
+    {
+      "senadoId": "397350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2579",
+      "titulo": "Decreto nº 2.579 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2579",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2579",
+      "ementa": "APROVA O MODELO PARA AS VESTIMENTAS QUE OS DIRETORES, LENTES CATEDRÁTICOS E SUBSTITUTOS, OPOSITORES, DOUTORES E SECRETÁRIO DAS FACULDADE DE MEDICINA DO IMPÉRIO DEVEM USAR."
+    },
+    {
+      "senadoId": "397362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2582",
+      "titulo": "Decreto nº 2.582 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2582",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2582",
+      "ementa": "APROVA O REGULAMENTO ORGÂNICO DAS ESCOLAS MILITARES DO IMPÉRIO, MODIFICANDO O DO 1º DE MARÇO DE 1858."
+    },
+    {
+      "senadoId": "397346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-21-2578",
+      "titulo": "Decreto nº 2.578 de 21/04/1860",
+      "data": "1860-04-21",
+      "numero": "2578",
+      "urn": "urn:lex:br:federal:decreto:1860-04-21;2578",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE TREZENTOS E CINQÜENTA E TRÊS CONTOS  SEISCENTOS E TRINTA E SETE MIL NOVECENTOS E VINTE SETE RÉIS PARA AS    DESPESAS DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1859 A 1860."
+    },
+    {
+      "senadoId": "397329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-14-2574",
+      "titulo": "Decreto nº 2.574 de 14/04/1860",
+      "data": "1860-04-14",
+      "numero": "2574",
+      "urn": "urn:lex:br:federal:decreto:1860-04-14;2574",
+      "ementa": "AUTORIZA A COMPANHIA DE SEGUROS DE VIDAS DE ESCRAVOS - PREVIDÊNCIA - PARA ORGANIZAR OUTRA NOVA COMPANHIA COM A DENOMINAÇÃO - UTIL PREVIDÊNCIA."
+    },
+    {
+      "senadoId": "397321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-14-2572",
+      "titulo": "Decreto nº 2.572 de 14/04/1860",
+      "data": "1860-04-14",
+      "numero": "2572",
+      "urn": "urn:lex:br:federal:decreto:1860-04-14;2572",
+      "ementa": "APROVA AS ALTERAÇÕES PROPOSTAS PELA COMPANHIA DE SEGUROS MARITIMOS E TERRESTRES A VARIOS ARTIGOS DOS ESTATUTOS QUE ATUALMENTE REGEM A MESMA COMPANHIA EM CONSEQUENCIA DO DECRETO Nº 2.182 DE 2 DE JUNHO DE 1858."
+    },
+    {
+      "senadoId": "397333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-14-2575",
+      "titulo": "Decreto nº 2.575 de 14/04/1860",
+      "data": "1860-04-14",
+      "numero": "2575",
+      "urn": "urn:lex:br:federal:decreto:1860-04-14;2575",
+      "ementa": "ELEVA A DOZE O NÚMERO DE CORRETORES DA PRAÇA DO COMÉRCIO DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "397325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-14-2573",
+      "titulo": "Decreto nº 2.573 de 14/04/1860",
+      "data": "1860-04-14",
+      "numero": "2573",
+      "urn": "urn:lex:br:federal:decreto:1860-04-14;2573",
+      "ementa": "ESTABELECE, EM EXECUÇÃO DO PARÁGRAFO 14 DO ARTIGO 29 DA LEI NÚMERO 233 DE 26 DE SETEMBRO DE 1857, O PROCESSO SEGUNDO O QUAL SERÁ CONFERIDO UM PRÊMIO AOS LAVRADORES QUE APRESENTAREM CERTA QUANTIDADE DE TRIGO DE SUAS COLHEITAS."
+    },
+    {
+      "senadoId": "397337",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-14-2575-a",
+      "titulo": "Decreto nº 2.575-A de 14/04/1860",
+      "data": "1860-04-14",
+      "numero": "2575-a",
+      "urn": "urn:lex:br:federal:decreto:1860-04-14;2575-a",
+      "ementa": "EXTINGUE AS REPARTIÇÕES ESPECIAIS DAS TERRAS PÚBLICAS NAS PROVÍNCIAS DO AMAZONAS, PIAUÍ, CEARÁ, PARAÍBA, RIO GRANDE DO NORTE, SERGIPE, MARANHÃO, RIO DE JANEIRO, MINAS GERAIS E GOIÁS."
+    },
+    {
+      "senadoId": "397317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-14-2571",
+      "titulo": "Decreto nº 2.571 de 14/04/1860",
+      "data": "1860-04-14",
+      "numero": "2571",
+      "urn": "urn:lex:br:federal:decreto:1860-04-14;2571",
+      "ementa": "DESLIGA DOS COMANDOS SUPERIORES DA GUARDA NACIONAL DA CACHOEIRA E CAÇAPAVA, CRUZ ALTA E PASSO FUNDO DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, A FORÇA QUALIFICADA NO MUNICÍPIO DE SANTA MARIA DA BOCA DO MONTE, E DISTRITO DE SÃO MARTINHO, E CRIA COM ELA UM COMANDO SUPERIOR; E EXTINGUE O BATALHÃO DA RESERVA NÚMERO 6 DA MESMA GUARDA."
+    },
+    {
+      "senadoId": "397313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-07-2570",
+      "titulo": "Decreto nº 2.570 de 07/04/1860",
+      "data": "1860-04-07",
+      "numero": "2570",
+      "urn": "urn:lex:br:federal:decreto:1860-04-07;2570",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO MARCADO PARA O COMEÇO DAS OPERAÇÕES DO BANCO CENTRAL DO COMÉRCIO, E ADITA AOS RESPECTIVOS ESTATUTOS DIVERSAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "397309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-04-07-2569",
+      "titulo": "Decreto nº 2.569 de 07/04/1860",
+      "data": "1860-04-07",
+      "numero": "2569",
+      "urn": "urn:lex:br:federal:decreto:1860-04-07;2569",
+      "ementa": "FAZ ALGUMAS ALTERAÇÕES NAS CONDIÇÕES ANEXAS AO DECRETO NÚMERO 1.759 DE 26 DE ABRIL DE 1856 SOBRE A ESTRADA DE FERRO DE SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "397305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-31-2568",
+      "titulo": "Decreto nº 2.568 de 31/03/1860",
+      "data": "1860-03-31",
+      "numero": "2568",
+      "urn": "urn:lex:br:federal:decreto:1860-03-31;2568",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS QUE BAIXARÃO COM O DECRETO NÚMERO 2.184 DE 5 DE JULHO DE 1858 DA COMPANHIA DE NAVEGAÇÃO POR VAPOR DA BAHIA DO RIO DE JANEIRO E NITEROI, DE QUE E EMPRESÁRIO THOMAZ RAINY CESSIONÁRIO DE CLINTON VAN TOYL."
+    },
+    {
+      "senadoId": "397301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-31-2567",
+      "titulo": "Decreto nº 2.567 de 31/03/1860",
+      "data": "1860-03-31",
+      "numero": "2567",
+      "urn": "urn:lex:br:federal:decreto:1860-03-31;2567",
+      "ementa": "AS GRATIFICAÇÕES E PORCENTAGENS DOS EMPREGADOS DAS REPARTIÇÕES DA FAZENDA SÃO DEVIDAS PELO EFETIVO EXERCÍCIO."
+    },
+    {
+      "senadoId": "397294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-28-2565",
+      "titulo": "Decreto nº 2.565 de 28/03/1860",
+      "data": "1860-03-28",
+      "numero": "2565",
+      "urn": "urn:lex:br:federal:decreto:1860-03-28;2565",
+      "ementa": "SEPARA O TERMO DA VILA VIÇOSA DA GRANJA, NA PROVÍNCIA DO CEARÁ, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "397297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-28-2566",
+      "titulo": "Decreto nº 2.566 de 28/03/1860",
+      "data": "1860-03-28",
+      "numero": "2566",
+      "urn": "urn:lex:br:federal:decreto:1860-03-28;2566",
+      "ementa": "ESTABELECE O MODO POR QUE DEVEM SER PRESENTES AO PODER MODERADOR AS PETIÇÕES DE GRAÇA, NOS CASOS EM QUE A PENA IMPOSTA NÃO FOR A CAPITAL."
+    },
+    {
+      "senadoId": "397282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-24-2562",
+      "titulo": "Decreto nº 2.562 de 24/03/1860",
+      "data": "1860-03-24",
+      "numero": "2562",
+      "urn": "urn:lex:br:federal:decreto:1860-03-24;2562",
+      "ementa": "DETERMINA QUE O ARGUMENTO DE VENCIMENTO CONCEDIDO AOS EMPREGADOS DO MINISTÉRIO DA JUSTIÇA, QUE ESTANDO NO CASO DE SEREM APOSENTADOS NA FORMA DA LEGISLAÇÃO EM VIGOR, CONTINUA A SERVIR, UNICAMENTE E DEVIDO PELO EXERCÍCIO EFETIVO DO EMPREGO."
+    },
+    {
+      "senadoId": "397286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-24-2563",
+      "titulo": "Decreto nº 2.563 de 24/03/1860",
+      "data": "1860-03-24",
+      "numero": "2563",
+      "urn": "urn:lex:br:federal:decreto:1860-03-24;2563",
+      "ementa": "AUTORIZA UM CRÉDITO EXTRAORDINÁRIO DE SETE CONTOS E QUINHENTOS MIL RÉIS, PARA OCORRER, NO EXERCÍCIO DE 1859-60, ÁS DESPESAS FEITAS, E POR FAZER COM OS CAMELOS ENVIADOS PARA A PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "397290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-24-2564",
+      "titulo": "Decreto nº 2.564 de 24/03/1860",
+      "data": "1860-03-24",
+      "numero": "2564",
+      "urn": "urn:lex:br:federal:decreto:1860-03-24;2564",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO ESPANHOLA DE BENEFICÊNCIA, QUE SE FORMOU NESTA CAPITAL COM O FIM DE SOCORRER AOS ESPANHÕES NECESSITADOS E ENFERMOS QUE Á ELA RECORREREM."
+    },
+    {
+      "senadoId": "397278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-24-2561",
+      "titulo": "Decreto nº 2.561 de 24/03/1860",
+      "data": "1860-03-24",
+      "numero": "2561",
+      "urn": "urn:lex:br:federal:decreto:1860-03-24;2561",
+      "ementa": "FAZ DIVERSAS ALTERAÇÕES NOS ESTATUTOS DA `CAIXA DE RESERVA MERCANTIL´  DA BAHIA."
+    },
+    {
+      "senadoId": "397271",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-24-2559",
+      "titulo": "Decreto nº 2.559 de 24/03/1860",
+      "data": "1860-03-24",
+      "numero": "2559",
+      "urn": "urn:lex:br:federal:decreto:1860-03-24;2559",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO MARCADO PARA O COMEÇO DAS OPERAÇÕES DO BANCO INDUSTRIAL E HIPOTECÁRIO, E ADITA AOS RESPECTIVOS ESTATUTOS DIVERSAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "397275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-24-2560",
+      "titulo": "Decreto nº 2.560 de 24/03/1860",
+      "data": "1860-03-24",
+      "numero": "2560",
+      "urn": "urn:lex:br:federal:decreto:1860-03-24;2560",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO DE UM ANO MARCADO PARA O COMEÇO DAS OPERAÇÕES DA CAIXA HIPOTECÁRIA E DE DESCONTOS, E ADITA AOS RESPECTIVOS ESTATUTOS DIVERSAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "397263",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-21-2557",
+      "titulo": "Decreto nº 2.557 de 21/03/1860",
+      "data": "1860-03-21",
+      "numero": "2557",
+      "urn": "urn:lex:br:federal:decreto:1860-03-21;2557",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA CAIXA ECONÔMICA DA CIDADE DE VALENÇA, PROVÍNCIA DA BAHIA, COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "397267",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-21-2558",
+      "titulo": "Decreto nº 2.558 de 21/03/1860",
+      "data": "1860-03-21",
+      "numero": "2558",
+      "urn": "urn:lex:br:federal:decreto:1860-03-21;2558",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO DE UM ANO MARCADO PARA O COMÉRCIO DAS OPERAÇÕES DO BANCO `SOCORRO E AUXÍLIO´, E ADITA AOS RESPECTIVOS ESTATUTOS DIVERSAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "397244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-17-2552",
+      "titulo": "Decreto nº 2.552 de 17/03/1860",
+      "data": "1860-03-17",
+      "numero": "2552",
+      "urn": "urn:lex:br:federal:decreto:1860-03-17;2552",
+      "ementa": "AUTORIZA A INCORPORAÇÃO, E APROVA OS ESTATUTOS DA CAIXA ECONÔMICA DA CIDADE DA BAHIA COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "397248",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-17-2553",
+      "titulo": "Decreto nº 2.553 de 17/03/1860",
+      "data": "1860-03-17",
+      "numero": "2553",
+      "urn": "urn:lex:br:federal:decreto:1860-03-17;2553",
+      "ementa": "ABRE AO MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA UM CRÉDITO EXTRAORDINÁRIO DE ONZE CONTOS TREZENTOS E VINTE DOIS MIL E TREZENTOS RÉIS PARA OCORRER ÁS DESPESAS COM OS REPAROS NA IGREJA PAROCHIAL DE NOSSA SENHORA DO LORETO DE JACAREPAGUÁ AFIM DE QUE NÃO FIQUE INTEIRAMENTE INUTILIZADA."
+    },
+    {
+      "senadoId": "397256",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-17-2555",
+      "titulo": "Decreto nº 2.555 de 17/03/1860",
+      "data": "1860-03-17",
+      "numero": "2555",
+      "urn": "urn:lex:br:federal:decreto:1860-03-17;2555",
+      "ementa": "APROVA O REGULAMENTO PARA A ADMINISTRAÇÃO GERAL DA FÁBRICA DA PÓLVORA DA ESTRELA."
+    },
+    {
+      "senadoId": "397259",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-17-2556",
+      "titulo": "Decreto nº 2.556 de 17/03/1860",
+      "data": "1860-03-17",
+      "numero": "2556",
+      "urn": "urn:lex:br:federal:decreto:1860-03-17;2556",
+      "ementa": "APROVA PROVISORIAMENTE A TABELA DA DISTRIBUIÇÃO, POR DIAS E HORAS, DAS MATÉRIAS DOS ESTUDOS DO IMPERIAL COLÉGIO DE PEDRO II."
+    },
+    {
+      "senadoId": "397240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-17-2551",
+      "titulo": "Decreto nº 2.551 de 17/03/1860",
+      "data": "1860-03-17",
+      "numero": "2551",
+      "urn": "urn:lex:br:federal:decreto:1860-03-17;2551",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO DAS RECEBEDORIAS."
+    },
+    {
+      "senadoId": "397252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-17-2554",
+      "titulo": "Decreto nº 2.554 de 17/03/1860",
+      "data": "1860-03-17",
+      "numero": "2554",
+      "urn": "urn:lex:br:federal:decreto:1860-03-17;2554",
+      "ementa": "ABRE AO MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA UM CRÉDITO SUPLEMENTAR DA QUANTIA DE DUZENTOS OITENTA E SETE CONTOS CENTO E OITO MIL DUZENTOS TRINTA E DOIS RÉIS PRA OCORRER ÁS DESPESAS NO EXERCÍCIO DE 1859 - 1860 COM AS VERBAS MENCIONADAS NA TABELA QUE COM ESTE BAIXA."
+    },
+    {
+      "senadoId": "397236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-14-2550",
+      "titulo": "Decreto nº 2.550 de 14/03/1860",
+      "data": "1860-03-14",
+      "numero": "2550",
+      "urn": "urn:lex:br:federal:decreto:1860-03-14;2550",
+      "ementa": "CONCEDE Á PEDRO AIMÉ ROUSSEAU PRIVILÉGIO EXCLUSIVO POR CINCO ANOS PARA A CONSTRUÇÃO DE UM ALAMBIQUE DE SUA INVENÇÃO, DESTINADO AO FABRICO DE AGUARDENTE."
+    },
+    {
+      "senadoId": "397232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-14-2549",
+      "titulo": "Decreto nº 2.549 de 14/03/1860",
+      "data": "1860-03-14",
+      "numero": "2549",
+      "urn": "urn:lex:br:federal:decreto:1860-03-14;2549",
+      "ementa": "REGULA O CONCURSO E PROVIMENTO DOS EMPREGOS DO TESOURO NACIONAL E TESOURARIAS DE FAZENDA DAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "397228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-10-2548",
+      "titulo": "Decreto nº 2.548 de 10/03/1860",
+      "data": "1860-03-10",
+      "numero": "2548",
+      "urn": "urn:lex:br:federal:decreto:1860-03-10;2548",
+      "ementa": "DÁ REGULAMENTO AO TRIBUNAL DO TESOURO PARA A TOMADA DE CONTAS DOS RESPONSÁVEIS PARA COM A FAZENDA NACIONAL."
+    },
+    {
+      "senadoId": "397390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-09-2589",
+      "titulo": "Decreto nº 2.589 de 09/03/1860",
+      "data": "1860-03-09",
+      "numero": "2589",
+      "urn": "urn:lex:br:federal:decreto:1860-03-09;2589",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DA GUARDA NACIONAL DO SERVIÇO DA RESERVA NO MUNICIPIO DA CAPITAL DA PROVINCIA DO PIAUI."
+    },
+    {
+      "senadoId": "397220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-07-2546",
+      "titulo": "Decreto nº 2.546 de 07/03/1860",
+      "data": "1860-03-07",
+      "numero": "2546",
+      "urn": "urn:lex:br:federal:decreto:1860-03-07;2546",
+      "ementa": "PRORROGA POR SEIS MESES O PRAZO CONCEDIDO PELO DECRETO NÚMERO 2.400 DE 2 DE ABRIL DE 1859 PARA INCORPORAÇÃO DO BANCO INDUSTRIAL, COMERCIAL E TERRITORIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-07-2547",
+      "titulo": "Decreto nº 2.547 de 07/03/1860",
+      "data": "1860-03-07",
+      "numero": "2547",
+      "urn": "urn:lex:br:federal:decreto:1860-03-07;2547",
+      "ementa": "ELEVA O NÚMERO DE INTERPRETES DO COMÉRCIO DA PRAÇA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "397208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-03-2543",
+      "titulo": "Decreto nº 2.543 de 03/03/1860",
+      "data": "1860-03-03",
+      "numero": "2543",
+      "urn": "urn:lex:br:federal:decreto:1860-03-03;2543",
+      "ementa": "CRIANDO CADEIRAS DE ENSINO NO SEMINÁRIO EPISCOPAL DA DIOCESE DE GOIÁS."
+    },
+    {
+      "senadoId": "397196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-03-2540",
+      "titulo": "Decreto nº 2.540 de 03/03/1860",
+      "data": "1860-03-03",
+      "numero": "2540",
+      "urn": "urn:lex:br:federal:decreto:1860-03-03;2540",
+      "ementa": "AUTORIZA O INCORPORAÇÃO E APROVA OS ESTATUTOS DA CAIXA DE ECONOMIAS DA CIDADE DA BAHIA, COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "397212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-03-2544",
+      "titulo": "Decreto nº 2.544 de 03/03/1860",
+      "data": "1860-03-03",
+      "numero": "2544",
+      "urn": "urn:lex:br:federal:decreto:1860-03-03;2544",
+      "ementa": "ALTERA OS LIMITES DOS DISTRITOS DAS SUBDELEGACIAS DE POLICIA DA FREGUESIA DE SANTA ANA DO MUNICIPIO DA CORTE."
+    },
+    {
+      "senadoId": "397204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-03-2542",
+      "titulo": "Decreto nº 2.542 de 03/03/1860",
+      "data": "1860-03-03",
+      "numero": "2542",
+      "urn": "urn:lex:br:federal:decreto:1860-03-03;2542",
+      "ementa": "ESTABELECE UMA ESCOLA DE MAQUINISTAS NO ARSENAL DE MARINHA DA CORTE."
+    },
+    {
+      "senadoId": "397200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-03-2541",
+      "titulo": "Decreto nº 2.541 de 03/03/1860",
+      "data": "1860-03-03",
+      "numero": "2541",
+      "urn": "urn:lex:br:federal:decreto:1860-03-03;2541",
+      "ementa": "REORGANIZA O ARQUIVO PÚBLICO."
+    },
+    {
+      "senadoId": "397216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-03-2545",
+      "titulo": "Decreto nº 2.545 de 03/03/1860",
+      "data": "1860-03-03",
+      "numero": "2545",
+      "urn": "urn:lex:br:federal:decreto:1860-03-03;2545",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO AO CONSELHO DE QUE TRATA O CAPITULO 2º DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 2.108 DE 20 DE FEVEREIRO DE 1858, E ALTERA AS DISPOSIÇÕES DO MESMO REGULAMENTO, RELATIVAS AO PROCESSO PARA COMPRAS DO MATERIAL NECESSÁRIO AO SERVIÇO E CONSUMO DA ARMADA, ARSENAIS E MAIS ESTABELECIMENTOS DE MARINHA."
+    },
+    {
+      "senadoId": "397184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-02-2537",
+      "titulo": "Decreto nº 2.537 de 02/03/1860",
+      "data": "1860-03-02",
+      "numero": "2537",
+      "urn": "urn:lex:br:federal:decreto:1860-03-02;2537",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO DA CASA DA MOEDA."
+    },
+    {
+      "senadoId": "397192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-02-2539",
+      "titulo": "Decreto nº 2.539 de 02/03/1860",
+      "data": "1860-03-02",
+      "numero": "2539",
+      "urn": "urn:lex:br:federal:decreto:1860-03-02;2539",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE SÃO RAIMUNDO NONATO, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "397188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-03-02-2538",
+      "titulo": "Decreto nº 2.538 de 02/03/1860",
+      "data": "1860-03-02",
+      "numero": "2538",
+      "urn": "urn:lex:br:federal:decreto:1860-03-02;2538",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DE SÃO RAIMUNDO NONATO, CRIADA NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "397176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-25-2535",
+      "titulo": "Decreto nº 2.535 de 25/02/1860",
+      "data": "1860-02-25",
+      "numero": "2535",
+      "urn": "urn:lex:br:federal:decreto:1860-02-25;2535",
+      "ementa": "DETERMINA QUE O AUMENTO DE VENCIMENTOS CONCEDIDO AOS EMPREGADOS DO MINISTÉRIO DA MARINHA, QUE, ESTANDO NO CASO DE SEREM APOSENTADOS NA FORMA DA LEGISLAÇÃO EM VIGOR, CONTINUA SERVIR, UNICAMENTE E DEVIDO PELO EXERCÍCIO EFETIVO DO EMPREGO."
+    },
+    {
+      "senadoId": "397172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-25-2534",
+      "titulo": "Decreto nº 2.534 de 25/02/1860",
+      "data": "1860-02-25",
+      "numero": "2534",
+      "urn": "urn:lex:br:federal:decreto:1860-02-25;2534",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE MIL E QUATROCENTOS CONTOS DE RÉIS PARA AS DESPESAS DE DIVERSAS RUBRICAS NO EXERCÍCIO CORRENTE."
+    },
+    {
+      "senadoId": "397164",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-25-2532",
+      "titulo": "Decreto nº 2.532 de 25/02/1860",
+      "data": "1860-02-25",
+      "numero": "2532",
+      "urn": "urn:lex:br:federal:decreto:1860-02-25;2532",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A ADMINISTRAÇÃO DA OFICINA DE ESTAMPARIA E IMPRESSÃO DO TESOURO NACIONAL."
+    },
+    {
+      "senadoId": "397180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-25-2536",
+      "titulo": "Decreto nº 2.536 de 25/02/1860",
+      "data": "1860-02-25",
+      "numero": "2536",
+      "urn": "urn:lex:br:federal:decreto:1860-02-25;2536",
+      "ementa": "ORGANIZA O QUARTEL GENERAL DA MARINHA."
+    },
+    {
+      "senadoId": "397168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-20-2533",
+      "titulo": "Decreto nº 2.533 de 20/02/1860",
+      "data": "1860-02-20",
+      "numero": "2533",
+      "urn": "urn:lex:br:federal:decreto:1860-02-20;2533",
+      "ementa": "MARCA O ORDENADO DE DUZENTOS E CINQÜENTA MIL REIS AO AJUDANTE DO CARCEREIRO DA CADEIA DA CAPITAL DA PROVÍNCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "397157",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-18-2530",
+      "titulo": "Decreto nº 2.530 de 18/02/1860",
+      "data": "1860-02-18",
+      "numero": "2530",
+      "urn": "urn:lex:br:federal:decreto:1860-02-18;2530",
+      "ementa": "ORDENA COMO SE A DE FAZER A SUBSTITUIÇÃO DO PORTEIRO DOS AUDITÓRIOS NOS JUÍZOS EM QUE ESTE OFÍCIO NÃO ESTEJA VITALICIAMENTE PROVIDO."
+    },
+    {
+      "senadoId": "397160",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-18-2531",
+      "titulo": "Decreto nº 2.531 de 18/02/1860",
+      "data": "1860-02-18",
+      "numero": "2531",
+      "urn": "urn:lex:br:federal:decreto:1860-02-18;2531",
+      "ementa": "AMPLIA AOS EMPREGADOS DO MINISTÉRIO DA JUSTIÇA A DISPOSIÇÃO DO DECRETO NÚMERO 1.995 DE 14 DE OUTUBRO DE 1857 SOBRE VENCIMENTOS NOS CASOS DE SUBSTITUIÇÃO E EXERCÍCIO INTERINO."
+    },
+    {
+      "senadoId": "397153",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-02-13-2529",
+      "titulo": "Decreto nº 2.529 de 13/02/1860",
+      "data": "1860-02-13",
+      "numero": "2529",
+      "urn": "urn:lex:br:federal:decreto:1860-02-13;2529",
+      "ementa": "FAZENDO EXTENSIVAS ÁS TESOURARIAS DA FAZENDA A DISPOSIÇÃO DO ARTIGO 48 DO DECRETO NÚMERO 2.343 DE 29 DE JANEIRO DE 1859, NA PARTE RELATIVA AO EXAME E LIQUIDAÇÃO DE CONTAS."
+    },
+    {
+      "senadoId": "397149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-26-2528",
+      "titulo": "Decreto nº 2.528 de 26/01/1860",
+      "data": "1860-01-26",
+      "numero": "2528",
+      "urn": "urn:lex:br:federal:decreto:1860-01-26;2528",
+      "ementa": "CRIA O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DA BAGAGEM, PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "397141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-26-2526",
+      "titulo": "Decreto nº 2.526 de 26/01/1860",
+      "data": "1860-01-26",
+      "numero": "2526",
+      "urn": "urn:lex:br:federal:decreto:1860-01-26;2526",
+      "ementa": "DECLARA QUE AOS OPOSITORES DA ESCOLA DE MARINHA, QUE FOREM OFICIAIS DO CORPO DA ARMADA NACIONAL E APLICÁVEL A DISPOSIÇÃO DO ARTIGO 106 DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 2.163 DO 1º DE MAIO DE    1858."
+    },
+    {
+      "senadoId": "397145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-26-2527",
+      "titulo": "Decreto nº 2.527 de 26/01/1860",
+      "data": "1860-01-26",
+      "numero": "2527",
+      "urn": "urn:lex:br:federal:decreto:1860-01-26;2527",
+      "ementa": "FAZ EXTENSIVAS AO MINISTÉRIO DA GUERRA AS DISPOSIÇÕES DO DECRETO NÚMERO 1.995 DE 14 DE OUTUBRO DE 1857, REGULANDO OS VENCIMENTOS DOS EMPREGADOS DA FAZENDA NOS CASOS DE SUBSTITUIÇÃO E EXERCÍCIO INTERINO."
+    },
+    {
+      "senadoId": "397137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-26-2525",
+      "titulo": "Decreto nº 2.525 de 26/01/1860",
+      "data": "1860-01-26",
+      "numero": "2525",
+      "urn": "urn:lex:br:federal:decreto:1860-01-26;2525",
+      "ementa": "DECLARA O MODO POR QUE SE DEVEM CONTAR OS 25 ANOS DE SERVIÇOS, EXIGIDOS PELOS ARTIGOS 25 E 28 DOS ESTATUTOS VIGENTES DAS FACULDADE DE DIREITO, PARA A JUBILAÇÃO DOS LENTES, OU PERMISSÃO PARA CONTINUAREM NO MAGISTÉRIO."
+    },
+    {
+      "senadoId": "397125",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-20-2522",
+      "titulo": "Decreto nº 2.522 de 20/01/1860",
+      "data": "1860-01-20",
+      "numero": "2522",
+      "urn": "urn:lex:br:federal:decreto:1860-01-20;2522",
+      "ementa": "DETERMINA QUE AS GRATIFICAÇÕES CONCEDIDAS AOS EMPREGADOS DO MINISTÉRIO DO IMPÉRIO QUE, ESTANDO NOS CASOS DE SEREM APOSENTADOS NA FORMA DA LEGISLAÇÃO EM VIGOR, CONTINUAM NO EXERCÍCIO DE SEUS EMPREGOS, UNICAMENTE SÃO DEVIDAS PELO TEMPO DE EFETIVO SERVIÇO."
+    },
+    {
+      "senadoId": "397129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-20-2523",
+      "titulo": "Decreto nº 2.523 de 20/01/1860",
+      "data": "1860-01-20",
+      "numero": "2523",
+      "urn": "urn:lex:br:federal:decreto:1860-01-20;2523",
+      "ementa": "TORNA EXTENSIVA AOS EMPREGADOS DO MINISTÉRIO DO IMPÉRIO A DISPOSIÇÃO DO DECRETO NÚMERO 1.995 DE 14 OUTUBRO DE 1857, QUE MARCA OS VENCIMENTOS DOS EMPREGADOS DE FAZENDA NOS CASOS DE SUBSTITUIÇÃO E EXERCÍCIO INTERINO, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "397121",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-20-2521",
+      "titulo": "Decreto nº 2.521 de 20/01/1860",
+      "data": "1860-01-20",
+      "numero": "2521",
+      "urn": "urn:lex:br:federal:decreto:1860-01-20;2521",
+      "ementa": "CRIA O IMPERIAL INSTITUTO DE AGRICULTURA SERGIPANO, SOB AS MESMAS BASES DO IMPERIAL INSTITUTO BAIANO."
+    },
+    {
+      "senadoId": "397133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1860-01-20-2524",
+      "titulo": "Decreto nº 2.524 de 20/01/1860",
+      "data": "1860-01-20",
+      "numero": "2524",
+      "urn": "urn:lex:br:federal:decreto:1860-01-20;2524",
+      "ementa": "DECLARA QUE A GRATIFICAÇÃO CONCEDIDA EM VIRTUDE DO ARTIGO 42 DO DECRETO NÚMERO 2.343 DE 29 DE JANEIRO DE 1859, UNICAMENTE E DEVIDA PELO TEMPO DE EFETIVO EXERCÍCIO."
+    }
+  ],
+  "pendencias": []
+}

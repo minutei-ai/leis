@@ -1,0 +1,695 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1825",
+  "tipo": "DEC",
+  "ano": 1825,
+  "coletado_em": "2026-10-21T08:53:11.585Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "385220",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/12/1825 ( seq-sf: 103 )",
+      "dataassinatura": "10/12/1825",
+      "ementa": "DECLARA GUERRA ÁS PROVÍNCIAS UNIDAS DO RIO DA PRATA."
+    },
+    {
+      "id": "385208",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/12/1825 ( seq-sf: 101 )",
+      "dataassinatura": "02/12/1825",
+      "ementa": "CRIA UMA COMISSÃO ENCARREGADA DE PROPOR UM PLANO GERAL DE COLONIZAÇÃO, QUE SIRVA PARA TODAS AS PROVÍNCIAS."
+    },
+    {
+      "id": "385203",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/11/1825 ( seq-sf: 100 )",
+      "dataassinatura": "28/11/1825",
+      "ementa": "CRIA QUATRO CORREIOS A CAVAL0 PARA CADA UMA DAS SECRETARIAS DE ESTADO E TRÊS PARA O GABINETE IMPERIAL, E  MARCA-LHES VENCIMENTOS."
+    },
+    {
+      "id": "385198",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/11/1825 ( seq-sf: 99 )",
+      "dataassinatura": "25/11/1825",
+      "ementa": "ELEVA O ORDENADO DO MESTRE DE DANÇA DAS AUGUSTAS PRINCESAS."
+    },
+    {
+      "id": "385192",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/11/1825 ( seq-sf: 98 )",
+      "dataassinatura": "17/11/1825",
+      "ementa": "NOMEIA UM DEPUTADO EXTRAORDINÁRIO PARA A JUNTA DA FAZENDA DE PERNAMBUCO PARA TOMAR CONHECIMENTO DO ESTADO DA FAZENDA NACIONAL, NA MESMA PROVÍNCIA."
+    },
+    {
+      "id": "385185",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/11/1825 ( seq-sf: 97 )",
+      "dataassinatura": "16/11/1825",
+      "ementa": "MANDA APLICAR AO HOSPITAL DA MISERICÓRDIA DA  IMPERIAL CIDADE DE OURO PRETO AS DUAS TERÇAS PARTES DOS LEGADOS PIOS NÃO CUMPRIDOS DA RESPECTIVA COMARCA."
+    },
+    {
+      "id": "385177",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/11/1825 ( seq-sf: 96 )",
+      "dataassinatura": "16/11/1825",
+      "ementa": "MANDA ABONAR AO EXERCITO EM CAMPANHA NA PROVINCIA CISPLATINA UMA GRATIFICAÇÃO DA TERÇA PARTE DOS SEUS RESPECTIVOS SOLDOS."
+    },
+    {
+      "id": "385171",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/11/1825 ( seq-sf: 95 )",
+      "dataassinatura": "11/11/1825",
+      "ementa": "CRIA TRÊS CADEIRAS DE PRIMEIRAS LETRAS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "385160",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/11/1825 ( seq-sf: 93 )",
+      "dataassinatura": "10/11/1825",
+      "ementa": "ELEVA A 600$000, ANUAIS O ORDENADO DO  INSPETOR DA COLÔNIA DE S. LEOPOLDO."
+    },
+    {
+      "id": "385159",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/10/1825 ( seq-sf: 93 )",
+      "dataassinatura": "20/10/1825",
+      "ementa": "CONCEDE AO CABIDO DA CATEDRAL DO PARA O DISTINTIVO DE BORLAS ENCARNADAS NO CINTO PRETO DE QUE USAM."
+    },
+    {
+      "id": "385151",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/10/1825 ( seq-sf: 92 )",
+      "dataassinatura": "19/10/1825",
+      "ementa": "MARCA OS VENCIMENTOS DAS DAMAS DA IMPERATRIZ."
+    },
+    {
+      "id": "385143",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/09/1825 ( seq-sf: 91 )",
+      "dataassinatura": "28/09/1825",
+      "ementa": "ORDENA A MANEIRA DE FORMAR CADA UM DOS CONSELHOS DE JUÍZES DE FATO."
+    },
+    {
+      "id": "385133",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/09/1825 ( seq-sf: 90 )",
+      "dataassinatura": "22/09/1825",
+      "ementa": "MANDA DESAPROPRIAR A FAZENDA DENOMINADA - CORDOÁRIA - PARA SER NELA EDIFICADA A NOVA FÁBRICA DE PÓLVORA."
+    },
+    {
+      "id": "385125",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/09/1825 ( seq-sf: 89 )",
+      "dataassinatura": "20/09/1825",
+      "ementa": "NOMEIA UMA COMISSÃO PARA EXAMINAR O ESTADO DA FAZENDA PÚBLICA DO IMPÉRIO, FIRMAR E CONSOLIDAR O SEU CRÉDITO E FUNDAR A DÍVIDA NACIONAL."
+    },
+    {
+      "id": "385116",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/09/1825 ( seq-sf: 88 )",
+      "dataassinatura": "15/09/1825",
+      "ementa": "SUPRIME UM ALFERES EM CADA COMPANHIA DOS BATALHÕES DE CAÇADORES E GRANADEIROS E REGIMENTOS DE CAVALARIA."
+    },
+    {
+      "id": "385106",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/09/1825 ( seq-sf: 87 )",
+      "dataassinatura": "10/09/1825",
+      "ementa": "CRIA O POSTO DE CAPITÃO-MOR PARA AS ORDENANÇAS DA VILA DE ATALAIA E SEU TERMO, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "id": "385088",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/09/1825 ( seq-sf: 85 )",
+      "dataassinatura": "02/09/1825",
+      "ementa": "CRIA CADEIRAS DE PRIMEIRAS LETRAS NAS FREGUESIAS DE PIRAJÁ E PIRAJUIA, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "385097",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/09/1825 ( seq-sf: 86 )",
+      "dataassinatura": "02/09/1825",
+      "ementa": "PERMITE QUE AS PESSOAS, QUE TÊM O TRATAMENTO DE EXCELÊNCIA, ANDEM NESTA CÔRTE EM CARRUAGEM PUXADA POR QUATRO BESTAS."
+    },
+    {
+      "id": "385078",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/08/1825 ( seq-sf: 84 )",
+      "dataassinatura": "29/08/1825",
+      "ementa": "CRIA PROVISORIAMENTE OS LUGARES DE INTÉRPRETE E GUARDA-LIVROS, NA ALFÂNDEGA DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "385071",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/08/1825 ( seq-sf: 83 )",
+      "dataassinatura": "17/08/1825",
+      "ementa": "CONFERE A MEDALHA CONCEDIDA PELO DECRETO DE 2 DE JULHO  AOS INDIVÍDUOS DA ESQUADRA QUE BLOQUEOU O PORTO DA BAHIA."
+    },
+    {
+      "id": "385063",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/08/1825 ( seq-sf: 82 )",
+      "dataassinatura": "17/08/1825",
+      "ementa": "MANDA PROSSEGUIR EM UMA APELAÇÃO PELO TRATADO DOS AUTOS DA EXECUÇÃO."
+    },
+    {
+      "id": "385055",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/08/1825 ( seq-sf: 81 )",
+      "dataassinatura": "16/08/1825",
+      "ementa": "CRIA QUATRO MEIRINHOS PARA AS DIVERSAS VARAS DESTA CÔRTE, COM O VENCIMENTO DE 320 RÉIS DIÁRIOS."
+    },
+    {
+      "id": "385047",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/08/1825 ( seq-sf: 80 )",
+      "dataassinatura": "12/08/1825",
+      "ementa": "CRIA O LUGAR DE ESCRIVÃO DAS ENTRADAS NA MESA DA ESTIVA NA ALFÂNDEGA DA CÔRTE."
+    },
+    {
+      "id": "385036",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/08/1825 ( seq-sf: 79 )",
+      "dataassinatura": "12/08/1825",
+      "ementa": "ACAUTELA OS ABUSOS QUE SE POSSAM INTRODUZIR NA FORMAÇÃO DE SOCIEDADES DE MINERAÇÃO QUE SE PERMITIU FORMAREM-SE EM LONDRES."
+    },
+    {
+      "id": "385027",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/08/1825 ( seq-sf: 78 )",
+      "dataassinatura": "09/08/1825",
+      "ementa": "CRIA PROVISORIAMENTE NA CIDADE DA  BAHIA, PARA  SERVIREM DE PRINCÍPIO AO SEMINÁRIO ARQUIEPISCOPAL, UMA CADEIRA DE FRANCÊS E OUTRA DE INGLÊS E MARCA O ORDENADO AO PROFESSOR NOMEADO PARA ELAS."
+    },
+    {
+      "id": "385017",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/08/1825 ( seq-sf: 77 )",
+      "dataassinatura": "08/08/1825",
+      "ementa": "ELEVA OS ORDENADOS DOS CONSELHEIROS DE ESTADO."
+    },
+    {
+      "id": "385008",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/08/1825 ( seq-sf: 76 )",
+      "dataassinatura": "08/08/1825",
+      "ementa": "APROVA O PLANO  PARA A EXTRAÇÃO DE UMA LOTERIA CONCEDIDA EM BENEFÍCIO DA SANTA CASA DE MISERICÓRDIA DA IMPERIAL CIDADE DE OURO PRETO."
+    },
+    {
+      "id": "384996",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/08/1825 ( seq-sf: 75 )",
+      "dataassinatura": "06/08/1825",
+      "ementa": "AUMENTA OS ORDENADOS DOS EMPREGADOS NOS ARMAZÉNS DE DEPÓSITO DE MUNIÇÕES DE GUERRA NA POVOAÇÃO DE S. GABRIEL, NA PROVÍNCIA DO RIO GRANDE DE S. PEDRO DO SUL."
+    },
+    {
+      "id": "384983",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/08/1825 ( seq-sf: 74 )",
+      "dataassinatura": "03/08/1825",
+      "ementa": "SOBRE OS OFICIAIS DA GUARNIÇÃO DA BAHIA QUE VÃO ESTUDAR NA EUROPA."
+    },
+    {
+      "id": "384973",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/07/1825 ( seq-sf: 73 )",
+      "dataassinatura": "30/07/1825",
+      "ementa": "MANDA QUE O CORPO DE 1 LINHA MANDADO CRIAR NA PROVÍNCIA DE SERGIPE TOME A DENOMINAÇÃO DE 26 BATALHÃO DE CAÇADORES DO EXÉRCITO E DÁ-LHE ORGANIZAÇÃO."
+    },
+    {
+      "id": "375424",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/07/1825",
+      "dataassinatura": "30/07/1825",
+      "ementa": "MANDA QUE O CORPO DE PRIMEIRA LINHA MANDADO CRIAR NA PROVINCIA DE SERGIPE TOME A DENOMINAÇÃO DE 26 BATALHÃO DE CAÇADORES DO EXERCITO E DA-LHE ORGANIZAÇÃO."
+    },
+    {
+      "id": "384962",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/07/1825 ( seq-sf: 72 )",
+      "dataassinatura": "29/07/1825",
+      "ementa": "ALTERA O DECRETO DE 16 DE SETEMBRO DO ANO PASSADO NA PARTE EM QUE OBRIGA A SOCIEDADE DE MINERAÇÃO DE EDUARDO OXENFORD A COMPRAR AS LAVRAS EM QUE TEM DE TRABALHAR, PERMITINDO O ARRENDAMENTO DE ALGUMAS LAVRAS."
+    },
+    {
+      "id": "384950",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/07/1825 ( seq-sf: 71 )",
+      "dataassinatura": "25/07/1825",
+      "ementa": "MANDA QUE OS CORPOS DE POLÍCIA DA BAHIA E PERNAMBUCO TENHAM O MESMO UNIFORME, QUE O DA CÔRTE."
+    },
+    {
+      "id": "384938",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/07/1825 ( seq-sf: 70 )",
+      "dataassinatura": "23/07/1825",
+      "ementa": "MANDA PAGAR PROVISORIAMENTE PELO TESOURO OS VENCIMENTOS DOS PORTEIROS DA CÂMARA DE CAVALO DO NÚMERO."
+    },
+    {
+      "id": "384926",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/07/1825 ( seq-sf: 69 )",
+      "dataassinatura": "21/07/1825",
+      "ementa": "MANDA ABONAR GRATIFICAÇÕES A EMPREGADOS DA ALFÂNDEGA DA CÔRTE."
+    },
+    {
+      "id": "384913",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/07/1825 ( seq-sf: 68 )",
+      "dataassinatura": "20/07/1825",
+      "ementa": "AUMENTA O ORDENADO DE PORTEIRO DA MASSA DA CATEDRAL DE SÃO PAULO."
+    },
+    {
+      "id": "384901",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/07/1825 ( seq-sf: 67 )",
+      "dataassinatura": "07/07/1825",
+      "ementa": "REGULA AS FUNÇÕES E ATRIBUIÇÕES DO CAPELÃO-MOR DO EXÉRCITO."
+    },
+    {
+      "id": "384887",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/07/1825 ( seq-sf: 66 )",
+      "dataassinatura": "05/07/1825",
+      "ementa": "EXTINGUE A GUARDA CÍVICA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "id": "384873",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/07/1825 ( seq-sf: 65 )",
+      "dataassinatura": "04/07/1825",
+      "ementa": "CONCEDE MAIS SEIS LOTERIAS PARA CONCLUSÃO DA RECONSTRUÇÃO DO TEATRO SÃO PEDRO DE ALCÂNTARA DESTA CIDADE E SUSTENTAÇÃO DAS DUAS COMPANHIAS QUE ELE DEVE TER."
+    },
+    {
+      "id": "384861",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/07/1825 ( seq-sf: 64 )",
+      "dataassinatura": "02/07/1825",
+      "ementa": "CONCEDE UMA MEDALHA DE DISTINÇÃO AOS INDIVÍDUOS DO EXÉRCITO, QUE EXPELIRAM DA PROVÍNCIA DA BAHIA AS TROPAS LUZITANAS."
+    },
+    {
+      "id": "384847",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/07/1825 ( seq-sf: 63 )",
+      "dataassinatura": "01/07/1825",
+      "ementa": "MARCA ORDENADO AO DIRETO DO MUSEU IMPERIAL E NACIONAL."
+    },
+    {
+      "id": "384835",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/06/1825 ( seq-sf: 62 )",
+      "dataassinatura": "11/06/1825",
+      "ementa": "MANDA ORGANIZAR PROVISORIAMENTE UM CORPO DE POLÍCIA, NA CIDADE DE RECIFE, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "id": "384821",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/06/1825 ( seq-sf: 61 )",
+      "dataassinatura": "10/06/1825",
+      "ementa": "RESTRINGE AOS LEGADOS PIOS NÃO CUMPRIDOS DA RESPECTIVA COMARCA AS DUAS TERÇAS PARTES DOS QUE PELO DECRETO DE 27 DE MAIO DESTE ANO SE MANDAM APLICAR PROVISORIAMENTE AO HOSPITAL DA MISERICÓRDIA DA VILA DE S. JOÃO D'REI."
+    },
+    {
+      "id": "384797",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/06/1825 ( seq-sf: 59 )",
+      "dataassinatura": "07/06/1825",
+      "ementa": "DETERMINA QUE AS ORDENANÇAS DA VILLA DE SANTA MARIA DE MARICÁ NA PROVÍNCIA DO RIO DE JANEIRO, SEJAM COMPOSTAS DE SEIS COMPANHIAS."
+    },
+    {
+      "id": "384808",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/06/1825 ( seq-sf: 60 )",
+      "dataassinatura": "07/06/1825",
+      "ementa": "CRIA OS POSTOS DE SARGENTO-MOR E AJUDANTE PARA O COMPLETO DA CAPITANIA-MOR DAS ORDENANÇAS DA VILA DE SANTA MARIA DE MARICÁ."
+    },
+    {
+      "id": "384785",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/05/1825 ( seq-sf: 58 )",
+      "dataassinatura": "31/05/1825",
+      "ementa": "REGULA A COBRANÇA DO DÍZIMO DOS GÊNEROS DE EXPORTAÇÃO."
+    },
+    {
+      "id": "384772",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/05/1825 ( seq-sf: 57 )",
+      "dataassinatura": "27/05/1825",
+      "ementa": "MANDA APLICAR PROVISORIAMENTE AO HOSPITAL DA MISERICÓRDIA DA VILA DE S. PAULO D'EL-REI AS DUAS TERÇAS PARTES DOS LEGADOS PIOS NÃO CUMPRIDOS NESTE IMPÉRIO."
+    },
+    {
+      "id": "384749",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/05/1825 ( seq-sf: 55 )",
+      "dataassinatura": "24/05/1825",
+      "ementa": "CONCEDE O MEIO SOLDO AS VIUVAS DOS OFICIAIS E MAIS PRAÇAS DO BATALHÃO DE ARTILHARIA DE MARINHA QUE FALECEREM NA PROVINCIA CISPLATINA."
+    },
+    {
+      "id": "384748",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/05/1825 ( seq-sf: 55 )",
+      "dataassinatura": "20/05/1825",
+      "ementa": "CONCEDE MEIO SOLDO AS VIUVAS DOS OFICIAIS E MAIS INDIVIDUOS DA ARMADA QUE FALECEREM NA LUTA CONTRA OS REBELDES DA PROVINCIA CISPLATINA."
+    },
+    {
+      "id": "384718",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/05/1825 ( seq-sf: 53 )",
+      "dataassinatura": "20/05/1825",
+      "ementa": "CONCEDE PERDÃO AOS SOLDADOS E MARINHEIROS DA ESQUADRA DO RIO DA PRATA QUE TIVEREM DESERTADO DE BORDO DOS NAVIOS DA MESMA ESQUADRA."
+    },
+    {
+      "id": "384734",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/05/1825 ( seq-sf: 54 )",
+      "dataassinatura": "20/05/1825",
+      "ementa": "FAZ EXTENSIVA AOS PAISANOS REBELDES DA PROVÍNCIA CISPLATINA O JULGAMENTO PELAS COMISSÕES MILITARES, DE TERRA E MAR."
+    },
+    {
+      "id": "384703",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/05/1825 ( seq-sf: 52 )",
+      "dataassinatura": "20/05/1825",
+      "ementa": "CRIA UMA COMISSÃO PARA JULGAR OS INDIVÍDUOS DA ARMADA QUE DESERTAREM DA ESQUADRA DO RIO DA PRATA."
+    },
+    {
+      "id": "384656",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/05/1825 ( seq-sf: 49 )",
+      "dataassinatura": "19/05/1825",
+      "ementa": "CRIA UMA COMISSÃO MILITAR, NA PROVÍNCIA DO RIO GRANDE DE SÃO PEDRO DO SUL."
+    },
+    {
+      "id": "384687",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/05/1825 ( seq-sf: 51 )",
+      "dataassinatura": "19/05/1825",
+      "ementa": "CONCEDE O MEIO SOLDO AS VIUVAS DOS OFICIAIS E O SOLDO AS DOS OFICIAIS INFERIORES E SOLDADOS , QUE FALECEREM PUGANDO CONTRA OS REBELDES DA PROVINCIA CISPLATINA."
+    },
+    {
+      "id": "384639",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/05/1825 ( seq-sf: 48 )",
+      "dataassinatura": "19/05/1825",
+      "ementa": "CRIA NA PROVÍNCIA CISPLATINA UMA COMISSÃO MILITAR."
+    },
+    {
+      "id": "384672",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/05/1825 ( seq-sf: 50 )",
+      "dataassinatura": "19/05/1825",
+      "ementa": "PERDOA O CRIME DE DESERÇÃO AS PRAÇAS DAS GUARNIÇÕES DAS PROVÍNCIAS DO RIO GRANDE DE SÃO PEDRO DO SUL E CISPLATINA, QUE SE APRESENTAREM."
+    },
+    {
+      "id": "384621",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/05/1825 ( seq-sf: 47 )",
+      "dataassinatura": "18/05/1825",
+      "ementa": "SUSPENDE PROVISORIAMENTE PARA A PROVINCIA CISPLATINA AS FORMALIDADES, QUE GARANTEM A LIBERDADE INDIVIDUAL."
+    },
+    {
+      "id": "384585",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/05/1825 ( seq-sf: 45 )",
+      "dataassinatura": "18/05/1825",
+      "ementa": "DETERMINA QUE OS ORDENADOS DOS 2 E 3 ESCRITURÁRIOS DA CONTADORIA DA MARINHA, SEJAM IGUALADOS AOS DE IGUAL CATEGORIA DO TESOURO NACIONAL."
+    },
+    {
+      "id": "384544",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/05/1825 ( seq-sf: 43 )",
+      "dataassinatura": "17/05/1825",
+      "ementa": "CRIA UMA COMPANHIA DE ORDENANÇAS NO DISTRITO DO RIO CLARO, NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "id": "384524",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/05/1825 ( seq-sf: 42 )",
+      "dataassinatura": "06/05/1825",
+      "ementa": "DÁ NOVOS ESTATUTOS A SOCIEDADE DE AGRICULTURA, COMÉRCIO, MINERAÇÃO E NAVEGAÇÃO DO RIO DOCE."
+    },
+    {
+      "id": "384478",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/04/1825 ( seq-sf: 40 )",
+      "dataassinatura": "30/04/1825",
+      "ementa": "CRIA O POSTO DE SECRETÁRIO NO 1 CORPO DE ARTILHARIA MONTADA DA 1ª LINHA DO EXÉRCITO."
+    },
+    {
+      "id": "384500",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/04/1825 ( seq-sf: 41 )",
+      "dataassinatura": "30/04/1825",
+      "ementa": "CRIA UM BATALHÃO DE CAÇADORES DE 2 LINHAS NA VILLA DE INHAMBUQUE, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "384454",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/04/1825 ( seq-sf: 39 )",
+      "dataassinatura": "25/04/1825",
+      "ementa": "MANDA QUE AOS ANSPEÇADAS DO BATALHÃO DE ARTILHARIA DA MARINHA SE ABONE 110 RÉIS DE SOLDO POR DIA."
+    },
+    {
+      "id": "384402",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/04/1825 ( seq-sf: 37 )",
+      "dataassinatura": "08/04/1825",
+      "ementa": "FAZ EXTENSIVAS AOS INDIVÍDUOS QUE VOLUNTARIAMENTE ASSENTAREM PRAÇA NO BATALHÃO DE ARTILHARIA DA MARINHA DO RIO DE JANEIRO, AS MESMAS VANTAGENS E DISTINTIVOS CONCEDIDOS AOS VOLUNTÁRIOS DO EXÉRCITO."
+    },
+    {
+      "id": "384371",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/04/1825 ( seq-sf: 36 )",
+      "dataassinatura": "08/04/1825",
+      "ementa": "ESTABELECE UMA CONSIGNAÇÃO MENSAL PARA SUPRIR AS DESPESAS DO SEMINÁRIO DE SANT'ANA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "id": "384340",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/04/1825 ( seq-sf: 35 )",
+      "dataassinatura": "02/04/1825",
+      "ementa": "AMPLIA A MARINHA A NOVA TABELA DE 28 DE MARÇO ÚLTIMO."
+    },
+    {
+      "id": "384309",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/04/1825 ( seq-sf: 34 )",
+      "dataassinatura": "02/04/1825",
+      "ementa": "MANDA ABONAR AOS EMPREGADOS DO ARSENAL DE MARINHA DA BAHIA OS MESMOS VENCIMENTOS QUE PERCEBEM OS DO ARSENAL DE GUERRA DA CÔRTE DE CLASSES SEMELHANTES."
+    },
+    {
+      "id": "384279",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/03/1825 ( seq-sf: 33 )",
+      "dataassinatura": "30/03/1825",
+      "ementa": "CONCEDE A DIÁRIA DE 480 RÉIS AOS MISSIONÁRIOS BARBADINHOS ITALIANOS RESIDENTES NESTA CÔRTE."
+    },
+    {
+      "id": "384247",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/03/1825 ( seq-sf: 32 )",
+      "dataassinatura": "28/03/1825",
+      "ementa": "DECLARA DE NENHUM EFEITO A TABELA DE 25 DESTE MÊS DE AUMENTO DE VENCIMENTOS MILITARES E MANDA-A SUBSTITUIR POR OUTRA."
+    },
+    {
+      "id": "384215",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/03/1825 ( seq-sf: 31 )",
+      "dataassinatura": "25/03/1825",
+      "ementa": "CONCEDE AUMENTO DE SOLDO AOS OFICIAIS DA ARMADA E ARTILHARIA DE MARINHA."
+    },
+    {
+      "id": "384179",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/03/1825 ( seq-sf: 30 )",
+      "dataassinatura": "25/03/1825",
+      "ementa": "APROVA A CRIAÇÃO DE UM BATALHÃO DE CAÇADORES, DE 2 LINHA, NO DISTRITO DE NOSSA SENHORA DE NAZARETH DE ITAPICURÚ DE CIMA, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "384145",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/03/1825 ( seq-sf: 29 )",
+      "dataassinatura": "25/03/1825",
+      "ementa": "AUMENTA OS SOLDOS E MAIS VENCIMENTOS MILITARES."
+    },
+    {
+      "id": "384103",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/03/1825 ( seq-sf: 28 )",
+      "dataassinatura": "18/03/1825",
+      "ementa": "MANDA PAGAR OS EXEMPLARES DE OBRAS REMETIDAS A SUA MAJESTADE O IMPERADOR E AOS CONSELHEIROS DE ESTADO, PELOS PROPRIETÁRIOS DAS DIVERSAS TIPOGRAFIAS DESTA CÔRTE."
+    },
+    {
+      "id": "384053",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/03/1825 ( seq-sf: 27 )",
+      "dataassinatura": "11/03/1825",
+      "ementa": "ELEVA A 400$000 ANUAIS A GRATIFICAÇÃO CONCEDIDA AO PASTOR DA COLÔNIA ALEMÃ DE NOVA FRIBURGO."
+    },
+    {
+      "id": "383997",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/03/1825 ( seq-sf: 26 )",
+      "dataassinatura": "08/03/1825",
+      "ementa": "MANDA LAVRAR NO CONSELHO SUPREMO MILITAR AS PATENTES DOS PRIMEIROS CIRURGIÕES DO NÚMERO, E CAPELÃES DA ARMADA NACIONAL E IMPERIAL."
+    },
+    {
+      "id": "383938",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/03/1825 ( seq-sf: 25 )",
+      "dataassinatura": "05/03/1825",
+      "ementa": "EXTINGUE A COMISSÃO MILITAR DE PERNAMBUCO E ANISTIA OS NÃO PRONUNCIADOS."
+    },
+    {
+      "id": "383933",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/03/1825 ( seq-sf: 23 )",
+      "dataassinatura": "03/03/1825",
+      "ementa": "CONCEDE A R. M.  RAICKS E OUTROS NEGOCIANTES DE LONDRES, AUTORIZAÇÃO PARA POR MEIO DE UMA SOCIEDADE EMPREENDEREM NA PROVÍNCIA DO ESPÍRITO SANTO A MINERAÇÃO DE OURO, PRATA E OUTROS METAIS."
+    },
+    {
+      "id": "383851",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/03/1825 ( seq-sf: 22 )",
+      "dataassinatura": "03/03/1825",
+      "ementa": "CONCEDE AUTORIZAÇÃO A REID E OUTROS CAPITALISTAS DE LONDRES PARA FORMAREM UMA SOCIEDADE PARA MINERAÇÃO DE OURO, PRATA E OUTROS METAIS NA PROVÍNCIA DE GOÍAS."
+    },
+    {
+      "id": "591502",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/03/1825 ( seq-sf: 21 )",
+      "dataassinatura": "03/03/1825",
+      "ementa": "CONCEDE A JOSÉ ALEXANDRE CARNEIRO LEÃO AUTORIZAÇÃO PARA FORMAR UMA SOCIEDADE EM LONDRES, PARA A MINERAÇÃO DE OURO, PRATA E OUTROS METAIS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "id": "383587",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/02/1825 ( seq-sf: 17 )",
+      "dataassinatura": "26/02/1825",
+      "ementa": "MARCA O ORDENADO DO CHANCELLER DA ORDEM IMPERIAL DE CRUZEIRO."
+    },
+    {
+      "id": "591412",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/02/1825 ( seq-sf: 20 )",
+      "dataassinatura": "25/02/1825",
+      "ementa": "MARCA ORDENADO AO MESTRE DE DANÇA DAS AUGUSTA PRINCEZAS."
+    },
+    {
+      "id": "383704",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/02/1825 ( seq-sf: 19 )",
+      "dataassinatura": "25/02/1825",
+      "ementa": "MANDA UM OFICIAL DA ARMADA A FRANÇA E INGLATERRA PARA AHI INSTRUIR-SE NO QUE DIZ RESPEITO A MARINHA."
+    },
+    {
+      "id": "581231",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/02/1825 ( seq-sf: 18 )",
+      "dataassinatura": "25/02/1825",
+      "ementa": "MANDA JULGAR CYPRIANO JOSÉ BARATA DE ALMEIDA E OUTROS IMPLICADOS NA REBELIÃO DE PERNAMBUCO."
+    },
+    {
+      "id": "581521",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/02/1825 ( seq-sf: 16 )",
+      "dataassinatura": "19/02/1825",
+      "ementa": "FAZ EXTENSIVAS AS VIÚVAS DE TODOS OS INDIVÍDUOS DA TROPA DE 1 E 2 LINHA E DOS CORPOS DE ORDENANÇAS QUE ENTRARAM EM AÇÃO CONTRA OS REBELDES DE PERNAMBUCO A GRAÇA DO MEIO SOLDO CONCEDIDA POR DECRETO DE 26 DE JULHO DE 1824."
+    },
+    {
+      "id": "575056",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/02/1825 ( seq-sf: 14 )",
+      "dataassinatura": "17/02/1825",
+      "ementa": "REGULA AS GRATIFICAÇÕES DOS GOVERNADORES E COMANDANTES DAS ARMAS DAS PROVÍNCIAS."
+    },
+    {
+      "id": "580693",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/02/1825 ( seq-sf: 13 )",
+      "dataassinatura": "17/02/1825",
+      "ementa": "AUMENTA OS ORDENADOS DOS MAGISTRADOS."
+    },
+    {
+      "id": "576877",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/02/1825 ( seq-sf: 12 )",
+      "dataassinatura": "17/02/1825",
+      "ementa": "DECLARA EFETIVA A RESPONSABILIDADE DOS EMPREGADOS PÚBLICOS."
+    },
+    {
+      "id": "383412",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/02/1825 ( seq-sf: 15 )",
+      "dataassinatura": "17/02/1825",
+      "ementa": "MANDA ORGANIZAR NA CIDADE DA BAHIA UM CORPO DE POLÍCIA."
+    },
+    {
+      "id": "575813",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/02/1825 ( seq-sf: 11 )",
+      "dataassinatura": "07/02/1825",
+      "ementa": "CONCEDE AO COMANDANTE E GUARNIÇÃO DA CORVETA MARIA DA GLÓRIA O USO DA MEDALHA DE DISTINÇÃO DESIGNADA PARA O EXÉRCITO COOPERADOR DA BOA ORDEM EM PERNAMBUCO."
+    },
+    {
+      "id": "576501",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/01/1825 ( seq-sf: 10 )",
+      "dataassinatura": "31/01/1825",
+      "ementa": "PERDOA O CRIME DE DESERÇÃO AOS MARINHEIROS DA ESQUADRA DO RIO DA PRATA."
+    },
+    {
+      "id": "575267",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/01/1825 ( seq-sf: 9 )",
+      "dataassinatura": "29/01/1825",
+      "ementa": "MANDA OFICIAIS DO EXÉRCITO ESTUDAR NAS ESCOLAS DA EUROPA."
+    },
+    {
+      "id": "382294",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/01/1825 ( seq-sf: 8 )",
+      "dataassinatura": "27/01/1825",
+      "ementa": "DETERMINA QUE OS VOLUNTÁRIOS CONTINUEM A SERVIR NO EXÉRCITO ATÉ O RECONHECIMENTO DA INDEPENDÊNCIA DO IMPÉRIO."
+    },
+    {
+      "id": "587527",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/01/1825 ( seq-sf: 6 )",
+      "dataassinatura": "22/01/1825",
+      "ementa": "CONCEDE AOS  OFICIAIS E MAIS PRAÇAS DA ARMADA QUE COMBATERAM NA CIDADE DO RECIFE A MEDALHA DE DISTINÇÃO CONCEDIDA AO EXÉRCITO."
+    },
+    {
+      "id": "583084",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/01/1825 ( seq-sf: 5 )",
+      "dataassinatura": "10/01/1825",
+      "ementa": "CONCEDE A PEDRO JOSÉ PINARD PRIVILÉGIO PARA CONSTRUÇÃO DA MÁQUINA DE SUA INVENÇÃO DENOMINADA - BALANÇA HIDRÁULICA, APLICADA A PILÕES E SERRA."
+    },
+    {
+      "id": "572225",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/01/1825 ( seq-sf: 1 )",
+      "dataassinatura": "09/01/1825",
+      "ementa": "REGULA OS SOLDOS E MAIS VENCIMENTOS DOS BATALHÕES DE GRANADEIROS E CAÇADORES ESTRANGEIROS."
+    },
+    {
+      "id": "571379",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/01/1825 ( seq-sf: 3 )",
+      "dataassinatura": "09/01/1825",
+      "ementa": "CONCEDE AS PRAÇAS DE PRET DOS BATALHÕES DE CAÇADORES DE SÃO PAULO OS MESMOS VENCIMENTOS QUE TEM AS DE IGUAIS CORPOS DA CORTE."
+    },
+    {
+      "id": "587225",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/01/1825 ( seq-sf: 2 )",
+      "dataassinatura": "09/01/1825",
+      "ementa": "MANDA ABONAR AOS OFICIAIS DO CORPO DA GUARDA DA POLÍCIA UMA GRATIFICAÇÃO MENSAL."
+    },
+    {
+      "id": "579446",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/01/1825 ( seq-sf: 4 )",
+      "dataassinatura": "09/01/1825",
+      "ementa": "CRIA PROVISORIAMENTE UM CURSO JURÍDICO NESTA CÔRTE."
+    }
+  ]
+}

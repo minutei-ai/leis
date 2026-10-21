@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-12-20-13379",
+  "titulo": "Lei nº 13.379 de 20/12/2016",
+  "data": "2016-12-20",
+  "fonte": "https://normas.leg.br/api/public/binario/0a727c81-dd5f-41eb-9e60-7f75c611809e/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-12-20;13379",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-12-20%3B13379&tipo_documento=maior-detalhe",
+  "sha256_dados": "1c4540cab944e14a4de1fc60d9b347895d6a6478e247e4c3088d11efbf6c2049",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:56:43.763Z",
+  "sha256_fonte": "dda307d777298727f16fb1abbc773b91e8f3faf1c8d55086f5100f4f0b34421c",
+  "sha256_markdown": "1cab8a167fe4ada57cce7b2160783c40d7a648c8087e30ad018a16fb25ff170d"
+}

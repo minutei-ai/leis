@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-04-05-13266",
+  "titulo": "Lei nº 13.266 de 05/04/2016",
+  "data": "2016-04-05",
+  "fonte": "https://normas.leg.br/api/public/binario/d2bc79b1-cdbf-441f-b023-a26909e5d1d1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-04-05;13266",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-04-05%3B13266&tipo_documento=maior-detalhe",
+  "sha256_dados": "289956aa3e9a2f6dfe4888f1b59cd6cc16e6c57d2f58c59222197688b7bf6819",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:26.469Z",
+  "sha256_fonte": "72f2ee4e86595372d16dd6b9c1b1991bd169d7b04ea2a8b3dd7d5bebd1dc1868",
+  "sha256_markdown": "ba69537345105e1139234f1f3d50e31d1ad2b59929cdf8ebea9847bf3b74f29b"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-01-02-13080",
+  "titulo": "Lei nº 13.080 de 02/01/2015",
+  "data": "2015-01-02",
+  "fonte": "https://normas.leg.br/api/public/binario/8de37b4f-5ac5-4c2e-9e15-a7d119dbb1d2/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-01-02;13080",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-01-02%3B13080&tipo_documento=maior-detalhe",
+  "sha256_dados": "5e07f30689051237b897525b934eb51c701419fa8c4597d0808e12ea9306c661",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:03:28.014Z",
+  "sha256_fonte": "5fc2f84e21977162d7f0fa7e41a8f1ff767c1c0014e33d68eaae25b9070229c1",
+  "sha256_markdown": "e6c651fbc604cddf2985ac80ee002ad210b3dd1983de75935a3995b5ad166ec6"
+}

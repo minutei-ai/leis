@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-12-20-13389",
+  "titulo": "Lei nº 13.389 de 20/12/2016",
+  "data": "2016-12-20",
+  "fonte": "https://normas.leg.br/api/public/binario/7df91a36-f2d4-4b3b-a4bc-0e3e3a8ecd65/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-12-20;13389",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-12-20%3B13389&tipo_documento=maior-detalhe",
+  "sha256_dados": "402debc4bdd2bf6de507d555e80d701826cc4e7d249a129369de4babe8b54144",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:56:38.685Z",
+  "sha256_fonte": "6e44aafe53249f7a4b02c9085ded710f439942147e794d5f7d88e78d374cdd8f",
+  "sha256_markdown": "507691ebb42ff3fd1c6e67c040214075201480291a8ae4d170e41f239a8f0942"
+}

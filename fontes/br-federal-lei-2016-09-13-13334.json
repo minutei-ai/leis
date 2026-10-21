@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-09-13-13334",
+  "titulo": "Lei nº 13.334 de 13/09/2016",
+  "data": "2016-09-13",
+  "fonte": "https://normas.leg.br/api/public/binario/8c3bd029-52a4-4f00-b1ec-731a8e1c29bd/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-09-13;13334",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-09-13%3B13334&tipo_documento=maior-detalhe",
+  "sha256_dados": "eaa3733e1a7a6d35d245ae727a926bf221e2e1cc2b6e00b130b7cb9041966d70",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:47.756Z",
+  "sha256_fonte": "9ed6613e2832937b1766d53ddaa7596f191a4c7cd10ea643f101c103fab91ab6",
+  "sha256_markdown": "f3713ce72d9a96ffe951704466dccbbd01e16397200d3478c300a1b2e94125b9"
+}

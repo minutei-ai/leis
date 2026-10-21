@@ -1,0 +1,1359 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1869",
+  "tipo": "DEC",
+  "ano": 1869,
+  "coletado_em": "2026-10-21T08:52:24.907Z",
+  "normas": [
+    {
+      "senadoId": "404825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-31-4448-a",
+      "titulo": "Decreto nº 4.448-A de 31/12/1869",
+      "data": "1869-12-31",
+      "numero": "4448-a",
+      "urn": "urn:lex:br:federal:decreto:1869-12-31;4448-a",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS DA GUERRA PARA APLICAR AS DESPESAS COM DIVERSAS RUBRICAS DO EXERCICIO DE 1868-1869, A QUANTIA DE 1.103:349$767, TIRADA DAS SOBRAS VERIFICADAS NO PARAGRAFO SEXTO, DA LEI DO ORÇAMENTO DO MESMO EXERCICIO."
+    },
+    {
+      "senadoId": "404813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-29-4446",
+      "titulo": "Decreto nº 4.446 de 29/12/1869",
+      "data": "1869-12-29",
+      "numero": "4446",
+      "urn": "urn:lex:br:federal:decreto:1869-12-29;4446",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 3.330:015$466, E AUTORIZA O TRANSPORTE DE UMAS PARA OUTRAS VERBAS DA DESPEZA DO MESMO MINISTÉRIO DE 692:907$813 NO EXERCÍCIO DE 1868-1869."
+    },
+    {
+      "senadoId": "404817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-29-4447",
+      "titulo": "Decreto nº 4.447 de 29/12/1869",
+      "data": "1869-12-29",
+      "numero": "4447",
+      "urn": "urn:lex:br:federal:decreto:1869-12-29;4447",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA E INTERINO DOS NEGÓCIOS ESTRANGEIROS A APLICAR AS DESPEZAS DA VERBA SECRETÁRIA DE ESTADO, DO ARTIGO 4º DO ORÇAMENTO DE 1868-1869, A QUANTIA DE 11:800$000, TIRADA DAS SOBRAS DA VERBA LEGAÇÕES E CONSULADOS E AS DA VERBA EXTRAORDINÁRIA NO EXTERIOR A QUANTIA DE 37:876$739, TIRADA TAMBÉM DAS SOBRAS DA MESMA VERBA LEGAÇÕES E CONSULADOS E DA DE AJUDAS DE CUSTO E COMISSÕES DE LIMITES E DE LIQUIDAÇÃO DE RECLALMAÇÕES DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "404805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-29-4444",
+      "titulo": "Decreto nº 4.444 de 29/12/1869",
+      "data": "1869-12-29",
+      "numero": "4444",
+      "urn": "urn:lex:br:federal:decreto:1869-12-29;4444",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA CAMARA MUNICIPAL DA CORTE PARA O ANO DE 1870."
+    },
+    {
+      "senadoId": "404809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-29-4445",
+      "titulo": "Decreto nº 4.445 de 29/12/1869",
+      "data": "1869-12-29",
+      "numero": "4445",
+      "urn": "urn:lex:br:federal:decreto:1869-12-29;4445",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA A TRANSFERIR DE UMAS PARA OUTRAS RUBRICAS DA DESPEZAS DO MESMO MINISTÉRIO A SOMA DE 22:680$321."
+    },
+    {
+      "senadoId": "404821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-29-4448",
+      "titulo": "Decreto nº 4.448 de 29/12/1869",
+      "data": "1869-12-29",
+      "numero": "4448",
+      "urn": "urn:lex:br:federal:decreto:1869-12-29;4448",
+      "ementa": "ALTERA A TABELA 2, ANEXA AO DECRETO 678 DE 06 DE JULHO DE 1850."
+    },
+    {
+      "senadoId": "404801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-24-4443",
+      "titulo": "Decreto nº 4.443 de 24/12/1869",
+      "data": "1869-12-24",
+      "numero": "4443",
+      "urn": "urn:lex:br:federal:decreto:1869-12-24;4443",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMERCIO E OBRAS PÚBLICAS NOVO CRÉDITO SUPLEMENTAR, NA IMPORTANCIA DE 63:272$430, PARA COBRIR AS DESPEZAS FEITAS PELA VERBA ILIMINAÇÃO PÚBLICA NO EXERCICIO DE 1868-1869."
+    },
+    {
+      "senadoId": "404797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-24-4442",
+      "titulo": "Decreto nº 4.442 de 24/12/1869",
+      "data": "1869-12-24",
+      "numero": "4442",
+      "urn": "urn:lex:br:federal:decreto:1869-12-24;4442",
+      "ementa": "AUTORIZA O MINMISTÉRIO DA AGRICULTURA, COMERCIO E OBRAS PÚBLICAS PARA APLICAR AS DESPEZAS DE VERIAS VERBAS DEFICIENTES DO EXERCÍCIO DE 1868 A 1869, A QUANTIA DE 1.040:667$950, RESULTANTE DAS SOBRAS DOS PARÁGRAFOS 4, 8, 10, 12, 13, 14, 17, 18 E 19 DO ARTIGO 8 DA RESPECTIVA LEI DO ORÇAMENTO."
+    },
+    {
+      "senadoId": "404790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-22-4440",
+      "titulo": "Decreto nº 4.440 de 22/12/1869",
+      "data": "1869-12-22",
+      "numero": "4440",
+      "urn": "urn:lex:br:federal:decreto:1869-12-22;4440",
+      "ementa": "PRORROGA ATE O FIM DE DEZEMBRO DE 1870 AS DISPOSIÇÕES DO DECRETO 3631 DE 27 DE MARÇO DE 1866, QUE PERMITEM AS EMBARCAÇÕES ESTRANGEIRAS O SERVIÇO DE CABOTAGEM."
+    },
+    {
+      "senadoId": "404786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-06-4439",
+      "titulo": "Decreto nº 4.439 de 06/12/1869",
+      "data": "1869-12-06",
+      "numero": "4439",
+      "urn": "urn:lex:br:federal:decreto:1869-12-06;4439",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DA DOCA DA ALFÂNDEGA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-12-04-4438",
+      "titulo": "Decreto nº 4.438 de 04/12/1869",
+      "data": "1869-12-04",
+      "numero": "4438",
+      "urn": "urn:lex:br:federal:decreto:1869-12-04;4438",
+      "ementa": "AURORIZA O MINISTRO DA FAZENDA PARA CONTRATAR O SERVIÇO DAS CAPATAZIAS, DA ARMAZENAGEM E DA DOCA DA ALFANDEGA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-11-27-4437",
+      "titulo": "Decreto nº 4.437 de 27/11/1869",
+      "data": "1869-11-27",
+      "numero": "4437",
+      "urn": "urn:lex:br:federal:decreto:1869-11-27;4437",
+      "ementa": "FAZ ALTERAÇÕES AO DECRETO NÚMERO 4308 DE 30 DE DEZEMBRO DE 1868 QUE ORÇA A RECEITA E FIXA A DESPEZA DA CAMARA MUNICIPAL DA CORTE PARA O ANO DE 1869, ALÉM DAS QUE JÁ FORÃO FEITAS PELOS DECRETOS NÚMEROS 4381 DE 16 DE JUNHO, 4408, DO 1º E NÚMERO 4415 DE 23 DE SETEMBRO DE 1869."
+    },
+    {
+      "senadoId": "404774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-11-22-4436",
+      "titulo": "Decreto nº 4.436 de 22/11/1869",
+      "data": "1869-11-22",
+      "numero": "4436",
+      "urn": "urn:lex:br:federal:decreto:1869-11-22;4436",
+      "ementa": "CRIA UMA CADEIRA PÚBLICA DE INSTRUÇÃO PRIMARIA PARA O SEXO FEMINIMO NA FREGUEZA DA GUARATIBA."
+    },
+    {
+      "senadoId": "404770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-11-10-4435",
+      "titulo": "Decreto nº 4.435 de 10/11/1869",
+      "data": "1869-11-10",
+      "numero": "4435",
+      "urn": "urn:lex:br:federal:decreto:1869-11-10;4435",
+      "ementa": "ALTERA A DECLARAÇÃO DAS VARAS, EM QUE DEVERAÃO SERVIR O 1º E 2º PORTEIROS DOS AUDITORIOS DO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "404766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-11-04-4434",
+      "titulo": "Decreto nº 4.434 de 04/11/1869",
+      "data": "1869-11-04",
+      "numero": "4434",
+      "urn": "urn:lex:br:federal:decreto:1869-11-04;4434",
+      "ementa": "CONCEDE PRIVILÉGIO A WILLIAM C. MORISON PARA USAR NO IMPÉRIO DE UMA PRENÇA QUE DIZ TER INVENTADO PARA ENFARDAR ALGODÃO."
+    },
+    {
+      "senadoId": "404754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-30-4431",
+      "titulo": "Decreto nº 4.431 de 30/10/1869",
+      "data": "1869-10-30",
+      "numero": "4431",
+      "urn": "urn:lex:br:federal:decreto:1869-10-30;4431",
+      "ementa": "TORNA EXTENSIVAS, COM ALGUMAS MODIFICAÇÕES, AOS EXAMES DE PREPARATÓRIOS QUE SE FAZEM NAS FACULDADES DE DIREITO DE SÃO PAULO E DO RECIFE, E DE MEDICINA DA BAHIA, AS INSTRUÇÕES, QUE BAIXARÃO COM O DECRETO NÚMERO 4430 DESTA DATA."
+    },
+    {
+      "senadoId": "404750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-30-4430",
+      "titulo": "Decreto nº 4.430 de 30/10/1869",
+      "data": "1869-10-30",
+      "numero": "4430",
+      "urn": "urn:lex:br:federal:decreto:1869-10-30;4430",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES, PELAS QUAES SE DEVEM REGULAR OS EXAMES DE QUE TRATA O ARTIGO 112 DO REGULAMENTO ANEXO AO DECRETO NÚMERO 1331 A DE 17 DE FEVEREIRO DE 1834."
+    },
+    {
+      "senadoId": "404758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-30-4432",
+      "titulo": "Decreto nº 4.432 de 30/10/1869",
+      "data": "1869-10-30",
+      "numero": "4432",
+      "urn": "urn:lex:br:federal:decreto:1869-10-30;4432",
+      "ementa": "CONCEDE A COMPANHIA PHENIX PERNAMBUCANA A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-30-4433",
+      "titulo": "Decreto nº 4.433 de 30/10/1869",
+      "data": "1869-10-30",
+      "numero": "4433",
+      "urn": "urn:lex:br:federal:decreto:1869-10-30;4433",
+      "ementa": "CRIA MAIS UM BATALHÃO DE GUARDAS NACIONAES DO SERVIÇO DA RESERVA, NA CAPITAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-27-4428",
+      "titulo": "Decreto nº 4.428 de 27/10/1869",
+      "data": "1869-10-27",
+      "numero": "4428",
+      "urn": "urn:lex:br:federal:decreto:1869-10-27;4428",
+      "ementa": "CONCEDE FAVORES A COMPANHIA PAULISTA DA ESTRADA DE FERRO DE JUNDIAI A CAMPINAS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-27-4429",
+      "titulo": "Decreto nº 4.429 de 27/10/1869",
+      "data": "1869-10-27",
+      "numero": "4429",
+      "urn": "urn:lex:br:federal:decreto:1869-10-27;4429",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS EM VARIOS ARTIGOS DOS ESTATUTOS DA COMPANHIA UNIÃO VALENCIANA."
+    },
+    {
+      "senadoId": "404738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-23-4427",
+      "titulo": "Decreto nº 4.427 de 23/10/1869",
+      "data": "1869-10-23",
+      "numero": "4427",
+      "urn": "urn:lex:br:federal:decreto:1869-10-23;4427",
+      "ementa": "CRIA CINCO LUGARES DE CORRETORES GERAES PARA A PRAÇA DO COMÉRCIO DA CAPITAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "404726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-20-4424",
+      "titulo": "Decreto nº 4.424 de 20/10/1869",
+      "data": "1869-10-20",
+      "numero": "4424",
+      "urn": "urn:lex:br:federal:decreto:1869-10-20;4424",
+      "ementa": "MARCA O SEGUNDO UNIFORME PARA O ESQUADRÃO DE CAVALARIA NÚMERO 12 DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-20-4426",
+      "titulo": "Decreto nº 4.426 de 20/10/1869",
+      "data": "1869-10-20",
+      "numero": "4426",
+      "urn": "urn:lex:br:federal:decreto:1869-10-20;4426",
+      "ementa": "MARCA OS UNIFORMES PARA OS BATALHÕES DE INFANTARIA NUMEROS 24 E 41 DA GUARDA NACIONAL DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-20-4425",
+      "titulo": "Decreto nº 4.425 de 20/10/1869",
+      "data": "1869-10-20",
+      "numero": "4425",
+      "urn": "urn:lex:br:federal:decreto:1869-10-20;4425",
+      "ementa": "ELEVA A CATETORIA DE BATALHÃO A 2ª SEÇÃO DE BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "404722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-20-4423",
+      "titulo": "Decreto nº 4.423 de 20/10/1869",
+      "data": "1869-10-20",
+      "numero": "4423",
+      "urn": "urn:lex:br:federal:decreto:1869-10-20;4423",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO COMANDO SUPERIOR DA GUARDA NACIONAL DOS MUNICÍPIOS DO LAGARTO E ANEXOS DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "404718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-18-4422",
+      "titulo": "Decreto nº 4.422 de 18/10/1869",
+      "data": "1869-10-18",
+      "numero": "4422",
+      "urn": "urn:lex:br:federal:decreto:1869-10-18;4422",
+      "ementa": "CRIA O OFICIO DE ESCRIVÃO PRIVATIVO DO JUIZO DOS FEITOS DA FAZENDA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404710",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-13-4420",
+      "titulo": "Decreto nº 4.420 de 13/10/1869",
+      "data": "1869-10-13",
+      "numero": "4420",
+      "urn": "urn:lex:br:federal:decreto:1869-10-13;4420",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ANONIMA CONCILIAÇÃO ESTABELECIDA NA CIDADE DO RECIFE, PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-13-4421",
+      "titulo": "Decreto nº 4.421 de 13/10/1869",
+      "data": "1869-10-13",
+      "numero": "4421",
+      "urn": "urn:lex:br:federal:decreto:1869-10-13;4421",
+      "ementa": "APROVA OS ESTATUTOS DA ASSOCIAÇÃO BENEFICENTE DOS COMPOSITORES DO JORNAL DO COMÉRCIO, INSTITUIDA NESTA CAPITAL."
+    },
+    {
+      "senadoId": "404706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-13-4419",
+      "titulo": "Decreto nº 4.419 de 13/10/1869",
+      "data": "1869-10-13",
+      "numero": "4419",
+      "urn": "urn:lex:br:federal:decreto:1869-10-13;4419",
+      "ementa": "ELEVA A CATETORIA DA LEGAÇÃO DO BRASIL NA REPÚBLICA DO PERÚ A DE ENVIADO EXTRAORDINÁRIO E MINISTRO PLENIPOTENCIARIO."
+    },
+    {
+      "senadoId": "404702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-09-4418",
+      "titulo": "Decreto nº 4.418 de 09/10/1869",
+      "data": "1869-10-09",
+      "numero": "4418",
+      "urn": "urn:lex:br:federal:decreto:1869-10-09;4418",
+      "ementa": "PRORROGA NOVAMENTE A PRESENTE SESSÃO DA ASSEMBLÉA GERAL LEGISLATIVBA."
+    },
+    {
+      "senadoId": "404698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-10-05-4417",
+      "titulo": "Decreto nº 4.417 de 05/10/1869",
+      "data": "1869-10-05",
+      "numero": "4417",
+      "urn": "urn:lex:br:federal:decreto:1869-10-05;4417",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO, A PRIMEIRA SEÇÃO DE BATALHÃO DE INMFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "404694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-28-4416",
+      "titulo": "Decreto nº 4.416 de 28/09/1869",
+      "data": "1869-09-28",
+      "numero": "4416",
+      "urn": "urn:lex:br:federal:decreto:1869-09-28;4416",
+      "ementa": "PRORROGA NOVAMENTE A PRESENTE SESSÃO DA ASSEMBLÉA GERAL."
+    },
+    {
+      "senadoId": "404690",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-25-4415",
+      "titulo": "Decreto nº 4.415 de 25/09/1869",
+      "data": "1869-09-25",
+      "numero": "4415",
+      "urn": "urn:lex:br:federal:decreto:1869-09-25;4415",
+      "ementa": "FAZ ALTERAÇÕES AO DECRETO 4.308 DE 30 DE DEZEMBRO DE 1868 QUE ORÇA A RECEITA E FIXA A DESPEZA DA CAMARA MUNICIPAL DA CORTE PARA O ANO DE 1869, ALEM DAS QUE JA FORÃO FEITAS PELOS DECRETOS 4.381 DE 16 DE JUNHO E 4.408 DO 1 DE SETEMBRO DE 1869."
+    },
+    {
+      "senadoId": "404686",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-21-4414",
+      "titulo": "Decreto nº 4.414 de 21/09/1869",
+      "data": "1869-09-21",
+      "numero": "4414",
+      "urn": "urn:lex:br:federal:decreto:1869-09-21;4414",
+      "ementa": "PRORROGA NOVAMENTE A PRESENTE SESSÃO DA ASSEMBLÉIA GERAL LEGISLATIVA."
+    },
+    {
+      "senadoId": "404682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-15-4413",
+      "titulo": "Decreto nº 4.413 de 15/09/1869",
+      "data": "1869-09-15",
+      "numero": "4413",
+      "urn": "urn:lex:br:federal:decreto:1869-09-15;4413",
+      "ementa": "CONCEDE PRIVILEGIO A FREITAS GUIMARÃES & Cª PARA UAREM NO IMPERIO DA MACHINA DE EXCAVAÇÃO INVENTADA POR ANTONIO ROUX."
+    },
+    {
+      "senadoId": "404670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-09-4410",
+      "titulo": "Decreto nº 4.410 de 09/09/1869",
+      "data": "1869-09-09",
+      "numero": "4410",
+      "urn": "urn:lex:br:federal:decreto:1869-09-09;4410",
+      "ementa": "REGULA PROVISCRIAMENTE A QUATO DAS PORCENTAGENS DOS EMPRETADOS DAS ALFÂNDEGAS DO PARÁ, SANTOS E ARACAJÚ."
+    },
+    {
+      "senadoId": "404674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-09-4411",
+      "titulo": "Decreto nº 4.411 de 09/09/1869",
+      "data": "1869-09-09",
+      "numero": "4411",
+      "urn": "urn:lex:br:federal:decreto:1869-09-09;4411",
+      "ementa": "CONCEDE PRIVILÉGIO A JOSÉ MARIA DOS REIS PARA USAR NO IMPÉRIO DO INSTRUMENTO DENOMINADO AZIMUTHAL E INVENTADO POR EMANUEL LIAIS."
+    },
+    {
+      "senadoId": "404666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-09-4409",
+      "titulo": "Decreto nº 4.409 de 09/09/1869",
+      "data": "1869-09-09",
+      "numero": "4409",
+      "urn": "urn:lex:br:federal:decreto:1869-09-09;4409",
+      "ementa": "PRORROGA A PRESENTE SESSÃO DA ASSEMBLEIA GERAL LEGISLATIVA."
+    },
+    {
+      "senadoId": "404678",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-09-4412",
+      "titulo": "Decreto nº 4.412 de 09/09/1869",
+      "data": "1869-09-09",
+      "numero": "4412",
+      "urn": "urn:lex:br:federal:decreto:1869-09-09;4412",
+      "ementa": "ITARMONISA AS DISPOSIÇÕES QUE MARÇÃO O PRAZO DENTRO DO QUAL DEVEM OS AGRACIADOS COM QUAESQUER MERCES HORARIFICAS SOLICITAR OS RESPECTIVOS TITULOS, COM AS QUE ESTABELECEM A MANEIRA DE SE FAZER EFETIVA A COBRANÇA DOS EMOLUMENTOS E DIREITOS DEVIDOS POR SEMELHANTES MERCES."
+    },
+    {
+      "senadoId": "404654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-01-4406",
+      "titulo": "Decreto nº 4.406 de 01/09/1869",
+      "data": "1869-09-01",
+      "numero": "4406",
+      "urn": "urn:lex:br:federal:decreto:1869-09-01;4406",
+      "ementa": "CONCEDER A COMPANHIA INGLEZA THE ALIANÇA BRINECESSÁRIOA AUTORISAÇÃO PARA ESTENDER SUAS OPERAÇÕES AO IMPÉRIO."
+    },
+    {
+      "senadoId": "404662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-01-4408",
+      "titulo": "Decreto nº 4.408 de 01/09/1869",
+      "data": "1869-09-01",
+      "numero": "4408",
+      "urn": "urn:lex:br:federal:decreto:1869-09-01;4408",
+      "ementa": "FAZ ALTERAÇÕES AO DECRETO NÚMERO 4308 DE 20 DE DEZEMBRO DE 1868 QUE ORÇA A RECEITA E FIXA A DESPEZA DA CAMARA MUNICIPAL DA CORTE PARA O ANO DE 1869, ALÉM DAS QUE JÁ FORÃO FEITAS PELO DECRETO NÚMERO 4381 DE 16 DE JUNHO DE 1869."
+    },
+    {
+      "senadoId": "404658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-09-01-4407",
+      "titulo": "Decreto nº 4.407 de 01/09/1869",
+      "data": "1869-09-01",
+      "numero": "4407",
+      "urn": "urn:lex:br:federal:decreto:1869-09-01;4407",
+      "ementa": "CONCEDE A COMPANHIA UNIÃO CEARENSE A NECESSÁRIOA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "404650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-08-24-4405",
+      "titulo": "Decreto nº 4.405 de 24/08/1869",
+      "data": "1869-08-24",
+      "numero": "4405",
+      "urn": "urn:lex:br:federal:decreto:1869-08-24;4405",
+      "ementa": "EXTINGUE O COMANDA SUPERIOR DA GUARDA NACIONAL DO MUNICÍPIO DE PASSOS DA PROVÍNCIA DE MINAS GERAES."
+    },
+    {
+      "senadoId": "404642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-08-16-4403",
+      "titulo": "Decreto nº 4.403 de 16/08/1869",
+      "data": "1869-08-16",
+      "numero": "4403",
+      "urn": "urn:lex:br:federal:decreto:1869-08-16;4403",
+      "ementa": "MARCA O DISTRITO DO 5º CORPO DE CAVALARIA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-08-16-4404",
+      "titulo": "Decreto nº 4.404 de 16/08/1869",
+      "data": "1869-08-16",
+      "numero": "4404",
+      "urn": "urn:lex:br:federal:decreto:1869-08-16;4404",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A 5ª SEÇÃO DO BATALHÃO DA RESERVA DA GUARADA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-08-04-4401",
+      "titulo": "Decreto nº 4.401 de 04/08/1869",
+      "data": "1869-08-04",
+      "numero": "4401",
+      "urn": "urn:lex:br:federal:decreto:1869-08-04;4401",
+      "ementa": "ALTERA AS CONMDIÇÕES DO DECRETO NÚMERO 3132 DE 16 DE NOVEMBRO DE 1863, QUE APROVOU O CONTRATO PARA A CONSTRUÇÃO DE UMA RUA SOBRE O MAR, EM PROLONGAMENTO DA RUA DO CORTUME."
+    },
+    {
+      "senadoId": "404638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-08-04-4402",
+      "titulo": "Decreto nº 4.402 de 04/08/1869",
+      "data": "1869-08-04",
+      "numero": "4402",
+      "urn": "urn:lex:br:federal:decreto:1869-08-04;4402",
+      "ementa": "DETERMINA QUE PASSEM A SER JUGADOS EM SEGUNDA INTÂNCIA PELO CONSELHO SUPREMO MILITAR DE JUSTIÇA OS PROCESSOS DE CONSELHOS DE GUERRA ORGANISADOS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-08-04-4400",
+      "titulo": "Decreto nº 4.400 de 04/08/1869",
+      "data": "1869-08-04",
+      "numero": "4400",
+      "urn": "urn:lex:br:federal:decreto:1869-08-04;4400",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DO BANCO DA BAHÍA COM A ALTERAÇÃO  ABAIXO MENCIONADA."
+    },
+    {
+      "senadoId": "404622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-28-4398",
+      "titulo": "Decreto nº 4.398 de 28/07/1869",
+      "data": "1869-07-28",
+      "numero": "4398",
+      "urn": "urn:lex:br:federal:decreto:1869-07-28;4398",
+      "ementa": "DECLARA O DECRETO NÚMERO 4376 DE 11 DE JUNHO DE 1869."
+    },
+    {
+      "senadoId": "404626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-28-4399",
+      "titulo": "Decreto nº 4.399 de 28/07/1869",
+      "data": "1869-07-28",
+      "numero": "4399",
+      "urn": "urn:lex:br:federal:decreto:1869-07-28;4399",
+      "ementa": "APROVA AS ALTERAÇÕES FEIRAS NOS ARTIGOS 43,46,48 E 52 DOS ESTATUTOS DA COMPANHIA BRASILEIRA DE PAQUETES A VAPOR."
+    },
+    {
+      "senadoId": "404614",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-19-4396",
+      "titulo": "Decreto nº 4.396 de 19/07/1869",
+      "data": "1869-07-19",
+      "numero": "4396",
+      "urn": "urn:lex:br:federal:decreto:1869-07-19;4396",
+      "ementa": "EXTINGUE OS COMANDOS SUPERIORES DA GUARDA NACIONAL  DOS MUNICÍPIOS DE ALFENAS, S.PAULO DE MUNIAÉ E MAJUBÁ, DA PROVÍNCIA DE MINAS GERAES"
+    },
+    {
+      "senadoId": "404618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-19-4397",
+      "titulo": "Decreto nº 4.397 de 19/07/1869",
+      "data": "1869-07-19",
+      "numero": "4397",
+      "urn": "urn:lex:br:federal:decreto:1869-07-19;4397",
+      "ementa": "SUBORDINA AO COMANDO SUPERIOR DE ANGICOS E MAÇÃO, DA PROVINCIA DO RIO GRANDE DO NORTE, O BATALHÃO DE INFANTARIA Nº 14 DA GUARDA NACIONAL DA MESMA PROVINCIA"
+    },
+    {
+      "senadoId": "404602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-19-4393",
+      "titulo": "Decreto nº 4.393 de 19/07/1869",
+      "data": "1869-07-19",
+      "numero": "4393",
+      "urn": "urn:lex:br:federal:decreto:1869-07-19;4393",
+      "ementa": "APFOVA DEFINITIVAMENTE A PLANTA E PLANOS DA LINHA FERREA, QUE PARTINDO DA CIDADE DE VALENÇA TEM DE ENTROCAR-SE NA ESTRADA DE FERRO DE D.PEDRO II."
+    },
+    {
+      "senadoId": "404610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-19-4395",
+      "titulo": "Decreto nº 4.395 de 19/07/1869",
+      "data": "1869-07-19",
+      "numero": "4395",
+      "urn": "urn:lex:br:federal:decreto:1869-07-19;4395",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DEGUARDAS NACIONAES NA VILA DA BARRA DO RIO DAS CONTAS, DA PROVÍNCIA DA BAHÍA."
+    },
+    {
+      "senadoId": "404606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-19-4394",
+      "titulo": "Decreto nº 4.394 de 19/07/1869",
+      "data": "1869-07-19",
+      "numero": "4394",
+      "urn": "urn:lex:br:federal:decreto:1869-07-19;4394",
+      "ementa": "ALTERA O ARTIGO 61 DO DECRETO NÚMERO 738 DE 25 DE NOVEMBRO DE 1850."
+    },
+    {
+      "senadoId": "404582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-15-4388",
+      "titulo": "Decreto nº 4.388 de 15/07/1869",
+      "data": "1869-07-15",
+      "numero": "4388",
+      "urn": "urn:lex:br:federal:decreto:1869-07-15;4388",
+      "ementa": "CONCEDE, POR ESPAÇO DE DOIS ANOS, ISENÇÃO DOS DIREITOS DE CONSUMO AS MERCADORIAS QUE FOREM IMPORTADAS NA PROVINCIA DE MATO GROSSO, E OS DE EXPOTAÇÃO AOS GENEROS DE PRODUÇÃO NACIONAL."
+    },
+    {
+      "senadoId": "404598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-15-4392",
+      "titulo": "Decreto nº 4.392 de 15/07/1869",
+      "data": "1869-07-15",
+      "numero": "4392",
+      "urn": "urn:lex:br:federal:decreto:1869-07-15;4392",
+      "ementa": "ELEVA A CATEGORIA DE BARALHÃO A 5 SEÇÃO DE BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVINCIA DO CEARA."
+    },
+    {
+      "senadoId": "404586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-15-4389",
+      "titulo": "Decreto nº 4.389 de 15/07/1869",
+      "data": "1869-07-15",
+      "numero": "4389",
+      "urn": "urn:lex:br:federal:decreto:1869-07-15;4389",
+      "ementa": "APROVA A REFORMA FEITA NOS ESTATUTOS DA CAIXA HIPOTECARIA DA CIDADE DA BAHÍA, NA PARTE RELATIVA AO NÚMERO E GRAFICAÇÃO DOS RESPETIVOS DIRETORES."
+    },
+    {
+      "senadoId": "404594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-15-4391",
+      "titulo": "Decreto nº 4.391 de 15/07/1869",
+      "data": "1869-07-15",
+      "numero": "4391",
+      "urn": "urn:lex:br:federal:decreto:1869-07-15;4391",
+      "ementa": "AUTORIZA A INCORPORAÇÃO NA PROVÍNCIA DO RIO  GRANDE DO SUL DE UMA SOCIEDADE ANONIMA BANCARIA, SOB A DENOMINAÇÃO  DE BANCO CONFIANÇA E APROVA COM ALTERAÇÃO OS REPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-15-4390",
+      "titulo": "Decreto nº 4.390 de 15/07/1869",
+      "data": "1869-07-15",
+      "numero": "4390",
+      "urn": "urn:lex:br:federal:decreto:1869-07-15;4390",
+      "ementa": "AUTORIZA A INCORPORAÇÃO NA CAPITAL DO MARANHÃO DE UMA SOCIEDADE ANONIMA BANCARIA, SOB O TITULO DE BANCO COMERCIAL."
+    },
+    {
+      "senadoId": "404578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-07-10-4387",
+      "titulo": "Decreto nº 4.387 de 10/07/1869",
+      "data": "1869-07-10",
+      "numero": "4387",
+      "urn": "urn:lex:br:federal:decreto:1869-07-10;4387",
+      "ementa": "APROVA AS BASES PARA O CONTRATO COM A SOCIEDADE MONTRAVEL, SILVEIRA & COMP. QUE TEM POR FIM TRANSFERIR AO GOVERNO OS DIREITOS PERTENCENTES A SOCIEDADE SOBRE OS COLONOS DA COLÔNIA SANTA MARIA DA SOLEDADE."
+    },
+    {
+      "senadoId": "404570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-30-4385",
+      "titulo": "Decreto nº 4.385 de 30/06/1869",
+      "data": "1869-06-30",
+      "numero": "4385",
+      "urn": "urn:lex:br:federal:decreto:1869-06-30;4385",
+      "ementa": "CONCEDE AUTORISAÇÃO A COMPANHIA NORTED AMERICANA RIO DE JANEIRO STREET RAILWAY COMPANY PARA FUNCIONAR NO IMPERIO."
+    },
+    {
+      "senadoId": "404574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-30-4386",
+      "titulo": "Decreto nº 4.386 de 30/06/1869",
+      "data": "1869-06-30",
+      "numero": "4386",
+      "urn": "urn:lex:br:federal:decreto:1869-06-30;4386",
+      "ementa": "CONVEDE PERMISSÃO A EDUARDO PELLEW WILSON PARA LAVRAR CARVÃO DE PEDRA, TURFA E OUTROS MINERAES NAS MARGENS DO RIO MARAÚ, NA PROVÍNCIA DA BAHÍA."
+    },
+    {
+      "senadoId": "404566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-30-4384",
+      "titulo": "Decreto nº 4.384 de 30/06/1869",
+      "data": "1869-06-30",
+      "numero": "4384",
+      "urn": "urn:lex:br:federal:decreto:1869-06-30;4384",
+      "ementa": "REUNE OTERMO DE S.JOSÉ D'EL-REI AO DE S.JOÃO D'EL-REI E O DE CAETÉ AO DE SABARÁ, TODOS NA PROVÍNCIA DE MINAS GERAES."
+    },
+    {
+      "senadoId": "404562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-23-4383",
+      "titulo": "Decreto nº 4.383 de 23/06/1869",
+      "data": "1869-06-23",
+      "numero": "4383",
+      "urn": "urn:lex:br:federal:decreto:1869-06-23;4383",
+      "ementa": "CONCEDE A SILVESTER S.BATIN E ALBERTO II HAGER A NECESSÁRIA PERMISSÃO PARA QUE LHES SEJÃO TRANSFERIDOS PELOS CONCESSIONÁRIOS CARLOS ALBERTO MORSING E B.CAIMARI OS PROVILÉGIOS E FAVORES QUE LHES FORÃO OUTORGADOS POR DECRETO NÚMERO 4082 DE 22 DE JANEIRO DE 1868, E NÚMERO 4322 DO 19 DE JANEIRO DO CORRENTE ANO PARA ESTABELECIMENTO DE TRILHOS DE FERRO ENTRE ESTÁ CIDADA E SUBURBIOS."
+    },
+    {
+      "senadoId": "404558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-23-4382",
+      "titulo": "Decreto nº 4.382 de 23/06/1869",
+      "data": "1869-06-23",
+      "numero": "4382",
+      "urn": "urn:lex:br:federal:decreto:1869-06-23;4382",
+      "ementa": "CONCEDE A SOCIEDADE PROGRESSO SOROCABANO AUTORIZAÇÃO PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "404546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-16-4379",
+      "titulo": "Decreto nº 4.379 de 16/06/1869",
+      "data": "1869-06-16",
+      "numero": "4379",
+      "urn": "urn:lex:br:federal:decreto:1869-06-16;4379",
+      "ementa": "CONCEDE AOS VAPORES, DE PROPRIEDADE DE ALFREDO BOOTH & Cª, EMPREGADOS NA LINHA DE NAVEGAÇÃO ENTRE LIVERPOOL E AS PROVINCIAS DO CEARÁ, MARANHÃO E PARÁ, AS VANTAGENS DE PAQUETES."
+    },
+    {
+      "senadoId": "404550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-16-4380",
+      "titulo": "Decreto nº 4.380 de 16/06/1869",
+      "data": "1869-06-16",
+      "numero": "4380",
+      "urn": "urn:lex:br:federal:decreto:1869-06-16;4380",
+      "ementa": "CONCEDE A COMPANHIA DA DESOBSTRUÇÃO DA FOZ DO RIO SÃO GONAÇALO, NA PROVINCIA DE SÃO PEDRO, A NECESSÁRIOA AUTORIZAÇÃO PARA FUNCIONAR E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "404554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-16-4381",
+      "titulo": "Decreto nº 4.381 de 16/06/1869",
+      "data": "1869-06-16",
+      "numero": "4381",
+      "urn": "urn:lex:br:federal:decreto:1869-06-16;4381",
+      "ementa": "FAZ ALTERAÇÕES AO DECRETO 4.308 DE 30 DE DEZEMBRO DE 1868 QUE ORÇA A RECEITA E FICA A DESPESA DA CAMARA MUNICIPAL DA CORTE PARA O ANO DE 1869."
+    },
+    {
+      "senadoId": "404542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-14-4378",
+      "titulo": "Decreto nº 4.378 de 14/06/1869",
+      "data": "1869-06-14",
+      "numero": "4378",
+      "urn": "urn:lex:br:federal:decreto:1869-06-14;4378",
+      "ementa": "DEROGA O ARTIGO 35 DO DECRETO NUMERO 4154 DE 13 DE ABRIL DE 1868."
+    },
+    {
+      "senadoId": "404534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-11-4376",
+      "titulo": "Decreto nº 4.376 de 11/06/1869",
+      "data": "1869-06-11",
+      "numero": "4376",
+      "urn": "urn:lex:br:federal:decreto:1869-06-11;4376",
+      "ementa": "AUMENTA O CAPITAL DA COMANHIA DO GAZ DO PARÁ."
+    },
+    {
+      "senadoId": "404538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-11-4377",
+      "titulo": "Decreto nº 4.377 de 11/06/1869",
+      "data": "1869-06-11",
+      "numero": "4377",
+      "urn": "urn:lex:br:federal:decreto:1869-06-11;4377",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA COMERCIAL DE SEGUROS MARITIMOS, ESTABELECIDA NA CAPITAL DA PROVINCIA DA BAHÍA, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "404530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-06-01-4375",
+      "titulo": "Decreto nº 4.375 de 01/06/1869",
+      "data": "1869-06-01",
+      "numero": "4375",
+      "urn": "urn:lex:br:federal:decreto:1869-06-01;4375",
+      "ementa": "DA NOVA TABELA DE DIETAS, PARA USO DOS HOSPITAES E ENFERMARIAS MILITARES."
+    },
+    {
+      "senadoId": "404526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-25-4374",
+      "titulo": "Decreto nº 4.374 de 25/05/1869",
+      "data": "1869-05-25",
+      "numero": "4374",
+      "urn": "urn:lex:br:federal:decreto:1869-05-25;4374",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA FLUVIAL DO ALTO AMAZONAS E APROVA OS RESPECTIVOSD ESTUTOS."
+    },
+    {
+      "senadoId": "404522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-20-4373",
+      "titulo": "Decreto nº 4.373 de 20/05/1869",
+      "data": "1869-05-20",
+      "numero": "4373",
+      "urn": "urn:lex:br:federal:decreto:1869-05-20;4373",
+      "ementa": "FIXA O PESSOAL TECNICO E ADMINSTRATIVO DA ESTRADA DE FERRO DE D. PEDRO II."
+    },
+    {
+      "senadoId": "404518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-20-4372",
+      "titulo": "Decreto nº 4.372 de 20/05/1869",
+      "data": "1869-05-20",
+      "numero": "4372",
+      "urn": "urn:lex:br:federal:decreto:1869-05-20;4372",
+      "ementa": "APROVA O REGULAMENTO PARA A DIREÇÃO E ADMINISTRAÇÃO DA ESTRADA DE FERRO DE D.PEDRO II."
+    },
+    {
+      "senadoId": "404502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-16-4368",
+      "titulo": "Decreto nº 4.368 de 16/05/1869",
+      "data": "1869-05-16",
+      "numero": "4368",
+      "urn": "urn:lex:br:federal:decreto:1869-05-16;4368",
+      "ementa": "CONCEDE PRIVILÉGIO A CLAUDIO GUIGON, PARA INTRODUZIR E VENDER NO IMPERIO, TUBOS DE CANALIZAÇÃO D'AGUA."
+    },
+    {
+      "senadoId": "404494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-16-4366",
+      "titulo": "Decreto nº 4.366 de 16/05/1869",
+      "data": "1869-05-16",
+      "numero": "4366",
+      "urn": "urn:lex:br:federal:decreto:1869-05-16;4366",
+      "ementa": "PERMITE QUE  FUNCIONE NO IMPERIO A COMPANHIA INGLEZA TAQUARIL GOLD MINING COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "404498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-16-4367",
+      "titulo": "Decreto nº 4.367 de 16/05/1869",
+      "data": "1869-05-16",
+      "numero": "4367",
+      "urn": "urn:lex:br:federal:decreto:1869-05-16;4367",
+      "ementa": "PERMITE QUE FUNCIONE NO IMPERIO DA COMPANHIA INGLESA GERAL GRASILIAN MINIMG COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "404506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-16-4369",
+      "titulo": "Decreto nº 4.369 de 16/05/1869",
+      "data": "1869-05-16",
+      "numero": "4369",
+      "urn": "urn:lex:br:federal:decreto:1869-05-16;4369",
+      "ementa": "CONCEDE PROVILEGIO A JOÃO BATISTA RODOCAUACHI & Cª PARA INTRODUZIREM NO IMPERIO UM NOVO SISTEMA DESTINADO A CONSERVAÇÃO DA CARNE VERDE."
+    },
+    {
+      "senadoId": "404510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-16-4370",
+      "titulo": "Decreto nº 4.370 de 16/05/1869",
+      "data": "1869-05-16",
+      "numero": "4370",
+      "urn": "urn:lex:br:federal:decreto:1869-05-16;4370",
+      "ementa": "PERMITE QUE FUNCIONE NO IMPERIO A COMPANHIA INGLEZA RECIFE DRAINAGE COMANY, LIMITED."
+    },
+    {
+      "senadoId": "404514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-16-4371",
+      "titulo": "Decreto nº 4.371 de 16/05/1869",
+      "data": "1869-05-16",
+      "numero": "4371",
+      "urn": "urn:lex:br:federal:decreto:1869-05-16;4371",
+      "ementa": "PERMITE QUE FUNCIONE NO IMPERIO A COMPANHIA INGLESA BASILIAN STRET RAILWAY COMPANY LIMITED."
+    },
+    {
+      "senadoId": "404490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-15-4365",
+      "titulo": "Decreto nº 4.365 de 15/05/1869",
+      "data": "1869-05-15",
+      "numero": "4365",
+      "urn": "urn:lex:br:federal:decreto:1869-05-15;4365",
+      "ementa": "CONCEDE AUTORIZAÇÃO PARA QUE O LICEU LITERARIO PORTUQUES POSSA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUOS COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "404486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-15-4364",
+      "titulo": "Decreto nº 4.364 de 15/05/1869",
+      "data": "1869-05-15",
+      "numero": "4364",
+      "urn": "urn:lex:br:federal:decreto:1869-05-15;4364",
+      "ementa": "REORGANIZA A INTENDÊNCIA DA MARINHA."
+    },
+    {
+      "senadoId": "404482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-11-4363",
+      "titulo": "Decreto nº 4.363 de 11/05/1869",
+      "data": "1869-05-11",
+      "numero": "4363",
+      "urn": "urn:lex:br:federal:decreto:1869-05-11;4363",
+      "ementa": "CONCEDE A VICENTE LAGARDE PRIVILÉGIO POR 10 ANOS PARA USAR DE UM SISTEMA DE FECHAR E ARROLHAR FRASCOS, GARRAFAS E OUTRAS VASILHAS PROPRIAS PARA CONTER LIQUIDOS."
+    },
+    {
+      "senadoId": "404478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-11-4362",
+      "titulo": "Decreto nº 4.362 de 11/05/1869",
+      "data": "1869-05-11",
+      "numero": "4362",
+      "urn": "urn:lex:br:federal:decreto:1869-05-11;4362",
+      "ementa": "PRORROGA POR UM ANO O PRAZO CONCEDIDO PELA CONDIÇÃO 13 DO DECRETO 3924 DE 03 DE AGOSTO 18677 A CUNHA. PLANT & Cª PARA A INCORPORAÇÃO DA COMPANHIA EMPRESARIA DA VIA FERREA, OU TRAMROAD DA CIDADE DO RIO GRANDE, AOS TERRENOS CARBONIFEROS DO CANDIOTA, NA PROVINCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-08-4360",
+      "titulo": "Decreto nº 4.360 de 08/05/1869",
+      "data": "1869-05-08",
+      "numero": "4360",
+      "urn": "urn:lex:br:federal:decreto:1869-05-08;4360",
+      "ementa": "DEROGA O ARTIGO 52 DO DECRETO NUMERO 4159 DE 22 DE ABRIL DE 1868."
+    },
+    {
+      "senadoId": "404474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-05-08-4361",
+      "titulo": "Decreto nº 4.361 de 08/05/1869",
+      "data": "1869-05-08",
+      "numero": "4361",
+      "urn": "urn:lex:br:federal:decreto:1869-05-08;4361",
+      "ementa": "DERROGA O DECRETO 3598 DE 27 DE JANEIRO DE 1866, NA PARTE QUE CRIOU MEDICOS ENCARREGADOS DE VERIFICAR OS OBITOS DO DISTRITO."
+    },
+    {
+      "senadoId": "404466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-25-4359",
+      "titulo": "Decreto nº 4.359 de 25/04/1869",
+      "data": "1869-04-25",
+      "numero": "4359",
+      "urn": "urn:lex:br:federal:decreto:1869-04-25;4359",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA E INTERINO DOS ESTRANGEIROS A APLICAR ÁS DESPEZAS DA VERBA AJUDAS DE CUSTODO ARTIGO 4º DO ORÇAMENTO VIGENTE A QUANTIA DE 23:900$000, TIRADA DAS SOBRAS DAVERBA COMISSÕES DE LIMITES E DE LIQUIDAÇÃO DE RECLAMAÇÕES DO MESMO ARTIGO."
+    },
+    {
+      "senadoId": "404462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-25-4358",
+      "titulo": "Decreto nº 4.358 de 25/04/1869",
+      "data": "1869-04-25",
+      "numero": "4358",
+      "urn": "urn:lex:br:federal:decreto:1869-04-25;4358",
+      "ementa": "ABRINDO AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 15.860:090$445, PARA DIVERSAS RUBRICAS DO MESMO MINISTÉRIO NO EXERCICIO DE 1868-1869."
+    },
+    {
+      "senadoId": "404458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-24-4357",
+      "titulo": "Decreto nº 4.357 de 24/04/1869",
+      "data": "1869-04-24",
+      "numero": "4357",
+      "urn": "urn:lex:br:federal:decreto:1869-04-24;4357",
+      "ementa": "ABRE AO NMINISTÉRIO DA AGRICULTURA, COMERCICIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DE 148:816$7720 PARA FAZER FACE AS DESPEZAS COM A VERBA ILUMINÇÃO PÚBLICA PERTENCENTE AO EXERCICIO DE 1868-1869."
+    },
+    {
+      "senadoId": "404454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-24-4356",
+      "titulo": "Decreto nº 4.356 de 24/04/1869",
+      "data": "1869-04-24",
+      "numero": "4356",
+      "urn": "urn:lex:br:federal:decreto:1869-04-24;4356",
+      "ementa": "DA REGULAMENTO PARA A COBRANÇA DOS EMOLUMENTOS DAS REPARTIÇÕES PÚBLICA."
+    },
+    {
+      "senadoId": "404442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-17-4353",
+      "titulo": "Decreto nº 4.353 de 17/04/1869",
+      "data": "1869-04-17",
+      "numero": "4353",
+      "urn": "urn:lex:br:federal:decreto:1869-04-17;4353",
+      "ementa": "AUTORIZA A FREFORMA DE ALGUMAS DISPOSIÇÕES DOS ESTATUTOS DA CAIXA ECONOMICA DA CIDADE DA BAHÍA."
+    },
+    {
+      "senadoId": "404434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-17-4351",
+      "titulo": "Decreto nº 4.351 de 17/04/1869",
+      "data": "1869-04-17",
+      "numero": "4351",
+      "urn": "urn:lex:br:federal:decreto:1869-04-17;4351",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO EXTRAORDINÁRIO DE 150:000$000 PARA OCORRER ÁS DESPEZAS DA RUBRICA OBRAS."
+    },
+    {
+      "senadoId": "404450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-17-4355",
+      "titulo": "Decreto nº 4.355 de 17/04/1869",
+      "data": "1869-04-17",
+      "numero": "4355",
+      "urn": "urn:lex:br:federal:decreto:1869-04-17;4355",
+      "ementa": "DA REGULAMENTO PARA A ARECADAÇÃO DO IMPOSTO DE TRANSMISSÃO DE PROPRIEDADE."
+    },
+    {
+      "senadoId": "404446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-17-4354",
+      "titulo": "Decreto nº 4.354 de 17/04/1869",
+      "data": "1869-04-17",
+      "numero": "4354",
+      "urn": "urn:lex:br:federal:decreto:1869-04-17;4354",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO DO SELO."
+    },
+    {
+      "senadoId": "404438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-17-4352",
+      "titulo": "Decreto nº 4.352 de 17/04/1869",
+      "data": "1869-04-17",
+      "numero": "4352",
+      "urn": "urn:lex:br:federal:decreto:1869-04-17;4352",
+      "ementa": "FIXA A TAXA DE 5% PARA A AMORTIZAÇÃO DAS NOTAS DO BANCO DO BRASIL NO ANO BANCÁRIO DE 1868-1869."
+    },
+    {
+      "senadoId": "404426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-05-4349",
+      "titulo": "Decreto nº 4.349 de 05/04/1869",
+      "data": "1869-04-05",
+      "numero": "4349",
+      "urn": "urn:lex:br:federal:decreto:1869-04-05;4349",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO SUPLEMENTAR DE 6.311:860$809 PARA AS DESPEZAS DAS RUBRICAS BATALHÃO NAVAL, ARSENAES, FORÇA NAVAL, NAVIOS DESARMADOS, HOSPITAES, REFORMADOS, E DESPEZAS ESTRAORDINARIAS E EVENTUAES."
+    },
+    {
+      "senadoId": "404430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-05-4350",
+      "titulo": "Decreto nº 4.350 de 05/04/1869",
+      "data": "1869-04-05",
+      "numero": "4350",
+      "urn": "urn:lex:br:federal:decreto:1869-04-05;4350",
+      "ementa": "CONCEDE A F. A. KIEFFER PRIVILÉGIO E OUTROS FAVORES PARA A CONSTRUÇÃO E CUSTEAMENTO DE UMA LINHA TELEGRAFICA ENTRE ESTA E A CIDADE DE OURO PRETO, COM RAMIFICAÇÕES."
+    },
+    {
+      "senadoId": "404422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-04-03-4348",
+      "titulo": "Decreto nº 4.348 de 03/04/1869",
+      "data": "1869-04-03",
+      "numero": "4348",
+      "urn": "urn:lex:br:federal:decreto:1869-04-03;4348",
+      "ementa": "EXTINGUE A COLONIA MILITAR DE PIMENTEIRAS."
+    },
+    {
+      "senadoId": "404418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-23-4347",
+      "titulo": "Decreto nº 4.347 de 23/03/1869",
+      "data": "1869-03-23",
+      "numero": "4347",
+      "urn": "urn:lex:br:federal:decreto:1869-03-23;4347",
+      "ementa": "ABRE AO MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS DA JUSTIÇA, UM CREDITO SUPLEMENTAR DA QUANTIA DE 15:000$000 PARA OCORRER AS DESPEZAS NO CORRENTE EXERCICIO DE 1868-1869, COM A VERBA AJUDAS DE CUSTO A JUIZES DE DIREITO E MUNICIPAIS."
+    },
+    {
+      "senadoId": "404414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-23-4346",
+      "titulo": "Decreto nº 4.346 de 23/03/1869",
+      "data": "1869-03-23",
+      "numero": "4346",
+      "urn": "urn:lex:br:federal:decreto:1869-03-23;4346",
+      "ementa": "DA REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO SOBRE INDUSTRIAS E PROFISSÕES."
+    },
+    {
+      "senadoId": "404406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-23-4344",
+      "titulo": "Decreto nº 4.344 de 23/03/1869",
+      "data": "1869-03-23",
+      "numero": "4344",
+      "urn": "urn:lex:br:federal:decreto:1869-03-23;4344",
+      "ementa": "AUTORIZA O CREDITO EXTRAORDINARIO DE 21.947:076$437 PARA AS DESPESAS DO MINISTERIO DA GUERRA NO EXERCICIO DE 1868-1869."
+    },
+    {
+      "senadoId": "404410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-23-4345",
+      "titulo": "Decreto nº 4.345 de 23/03/1869",
+      "data": "1869-03-23",
+      "numero": "4345",
+      "urn": "urn:lex:br:federal:decreto:1869-03-23;4345",
+      "ementa": "CONCEDE A FELISBERTO FERREIRA BRANT E SEUS SOCIOS AUTORISAÇÃO PARA INCORPORPREM UMA COMPANHIA ESTRANGEIRA, QUE OS AUXILIE NA EXPLORAÇÃO DE UNS TERRENOS DIAMENTINOS, DE QUE SÃO CONCESSIONARIOS."
+    },
+    {
+      "senadoId": "404402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-22-4343",
+      "titulo": "Decreto nº 4.343 de 22/03/1869",
+      "data": "1869-03-22",
+      "numero": "4343",
+      "urn": "urn:lex:br:federal:decreto:1869-03-22;4343",
+      "ementa": "MANDA EXECUTAR A NOVA TARIFA DAS ALFANDEGAS E SUAS DISPOSIÇÕES PRELIMINARES."
+    },
+    {
+      "senadoId": "404390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-20-4340",
+      "titulo": "Decreto nº 4.340 de 20/03/1869",
+      "data": "1869-03-20",
+      "numero": "4340",
+      "urn": "urn:lex:br:federal:decreto:1869-03-20;4340",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DO BANCO COMERCIAL DO PARÁ, E APROVA COM ALTERAÇÃO OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-20-4341",
+      "titulo": "Decreto nº 4.341 de 20/03/1869",
+      "data": "1869-03-20",
+      "numero": "4341",
+      "urn": "urn:lex:br:federal:decreto:1869-03-20;4341",
+      "ementa": "CONCEDE PRORROGAÇÃO DO PRAZO MARCDADO NO DECRETO NUMERO 4133 PARA O CONCESSIONÁRIO DA VIA FERREA DA TIJUCA RESTABELECER O RESPECTIVO SERVIÇO."
+    },
+    {
+      "senadoId": "404398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-20-4342",
+      "titulo": "Decreto nº 4.342 de 20/03/1869",
+      "data": "1869-03-20",
+      "numero": "4342",
+      "urn": "urn:lex:br:federal:decreto:1869-03-20;4342",
+      "ementa": "DESIGNA OS MEMBROS DA JUNTA DA CAIXA DA AMORTIZALÇÃO."
+    },
+    {
+      "senadoId": "404386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-20-4339",
+      "titulo": "Decreto nº 4.339 de 20/03/1869",
+      "data": "1869-03-20",
+      "numero": "4339",
+      "urn": "urn:lex:br:federal:decreto:1869-03-20;4339",
+      "ementa": "DA REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO SUBSTITUTIVO DA DIZIMA DA CHANCELARIA."
+    },
+    {
+      "senadoId": "404382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-13-4338",
+      "titulo": "Decreto nº 4.338 de 13/03/1869",
+      "data": "1869-03-13",
+      "numero": "4338",
+      "urn": "urn:lex:br:federal:decreto:1869-03-13;4338",
+      "ementa": "MARCA OS DISTRITOS DO OITAVO BATALHÃO DE INFANTARIA  DA GUARDA NACIONAL DA CORTE."
+    },
+    {
+      "senadoId": "404378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-03-06-4337",
+      "titulo": "Decreto nº 4.337 de 06/03/1869",
+      "data": "1869-03-06",
+      "numero": "4337",
+      "urn": "urn:lex:br:federal:decreto:1869-03-06;4337",
+      "ementa": "CONCEDE A COMPANHIA DE TRILHOS URBANOS DO RECIFE A OLINDA, NA PROVINCIA DE PERNANBUCO, A NECESSARIA AUTORIZAÇÃO PARA FUNCIONAR, E A APROVAÇÃO DOS SEUS ESTATUTO."
+    },
+    {
+      "senadoId": "404374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-02-27-4336",
+      "titulo": "Decreto nº 4.336 de 27/02/1869",
+      "data": "1869-02-27",
+      "numero": "4336",
+      "urn": "urn:lex:br:federal:decreto:1869-02-27;4336",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO EXTRAORDINÁRIO DE 304:760$701 PARA OCORRER AS DESPEZAS DA RIBRICAS OBRAS."
+    },
+    {
+      "senadoId": "404370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-02-24-4335",
+      "titulo": "Decreto nº 4.335 de 24/02/1869",
+      "data": "1869-02-24",
+      "numero": "4335",
+      "urn": "urn:lex:br:federal:decreto:1869-02-24;4335",
+      "ementa": "AURTORIZA O AUMENTO DO CAPITAL DA COMPANHIA UNIÃO VALENCIANA."
+    },
+    {
+      "senadoId": "404366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-02-13-4334",
+      "titulo": "Decreto nº 4.334 de 13/02/1869",
+      "data": "1869-02-13",
+      "numero": "4334",
+      "urn": "urn:lex:br:federal:decreto:1869-02-13;4334",
+      "ementa": "ALTERA OS DECRETOS NUMEROS 3048, 3221 E 3925 DE 03 DE FEVEREIRO DE 1863, DE 23 DE JANEIRO, E 14 DE JUNHO DE 1864 E 07 DE AGOSTO DE 1867, E APROVA AS TARIFAS QUE DEVEM REGULAR NO TRANSPORTE DE VERIOS GENEROS DE EXPORTAÇÃO E IMPORTAÇÃO NA ESTRADA DE FERRO DE D. PEDRO II."
+    },
+    {
+      "senadoId": "404362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-02-12-4333",
+      "titulo": "Decreto nº 4.333 de 12/02/1869",
+      "data": "1869-02-12",
+      "numero": "4333",
+      "urn": "urn:lex:br:federal:decreto:1869-02-12;4333",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE AUXILIADORA DA INDUSTRIA NACIONAL."
+    },
+    {
+      "senadoId": "404354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-30-4331",
+      "titulo": "Decreto nº 4.331 de 30/01/1869",
+      "data": "1869-01-30",
+      "numero": "4331",
+      "urn": "urn:lex:br:federal:decreto:1869-01-30;4331",
+      "ementa": "MARCA OS UNIFORMES PARA O SEGUNDO CORPO DE CAVALARIA DA GUARDA NACIONAL DA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-30-4328",
+      "titulo": "Decreto nº 4.328 de 30/01/1869",
+      "data": "1869-01-30",
+      "numero": "4328",
+      "urn": "urn:lex:br:federal:decreto:1869-01-30;4328",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAES NOS MUNICIPIOS DO SABOEIRO, SÃO MATEUS E ASSARÉ DA PROVINCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-30-4330",
+      "titulo": "Decreto nº 4.330 de 30/01/1869",
+      "data": "1869-01-30",
+      "numero": "4330",
+      "urn": "urn:lex:br:federal:decreto:1869-01-30;4330",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAES NO MUNICIPIO DO ASSARÉ DA PROVINCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-30-4329",
+      "titulo": "Decreto nº 4.329 de 30/01/1869",
+      "data": "1869-01-30",
+      "numero": "4329",
+      "urn": "urn:lex:br:federal:decreto:1869-01-30;4329",
+      "ementa": "CRIA UMA BATALHÃO DE INFANTARIA DE GUARDAS NACIONAES NO MUNICIPIO DE S. MATEUS, DA PROVINCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-30-4332",
+      "titulo": "Decreto nº 4.332 de 30/01/1869",
+      "data": "1869-01-30",
+      "numero": "4332",
+      "urn": "urn:lex:br:federal:decreto:1869-01-30;4332",
+      "ementa": "CONCEDE A COMPANHIA THE S. VICENTE MINIMG COMPANY, LIMITED AUTORIZAÇÃO PARA FUNCIONAR NO IMPERIO."
+    },
+    {
+      "senadoId": "404338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-30-4327",
+      "titulo": "Decreto nº 4.327 de 30/01/1869",
+      "data": "1869-01-30",
+      "numero": "4327",
+      "urn": "urn:lex:br:federal:decreto:1869-01-30;4327",
+      "ementa": "REVOGA O ARTIGO 14 DO DECRETO 1.597 DO 1 DE MAIO DE 1855."
+    },
+    {
+      "senadoId": "404334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-28-4326",
+      "titulo": "Decreto nº 4.326 de 28/01/1869",
+      "data": "1869-01-28",
+      "numero": "4326",
+      "urn": "urn:lex:br:federal:decreto:1869-01-28;4326",
+      "ementa": "ALTERA O DECRETO NUMERO 3627 DE 16 DE MARÇO DE 1866 QUE FIXOU O PESSOAL TECNICO DA ESTRADA DE FERRO DE D.PEDRO II E DISIGNOU OS VENCIMENTOS."
+    },
+    {
+      "senadoId": "404330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-27-4325",
+      "titulo": "Decreto nº 4.325 de 27/01/1869",
+      "data": "1869-01-27",
+      "numero": "4325",
+      "urn": "urn:lex:br:federal:decreto:1869-01-27;4325",
+      "ementa": "DETERMINA QUE A PROVINCIA DO RIO GRNDE DO NORTE FAÇA PARTE DO 2º DISTRITO ANVAL."
+    },
+    {
+      "senadoId": "404322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-19-4323",
+      "titulo": "Decreto nº 4.323 de 19/01/1869",
+      "data": "1869-01-19",
+      "numero": "4323",
+      "urn": "urn:lex:br:federal:decreto:1869-01-19;4323",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA SOCIDEDADE JOCKEY CLUB E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-19-4324",
+      "titulo": "Decreto nº 4.324 de 19/01/1869",
+      "data": "1869-01-19",
+      "numero": "4324",
+      "urn": "urn:lex:br:federal:decreto:1869-01-19;4324",
+      "ementa": "ALTERA O UNIFORME DO BATALHÃO NAVAL."
+    },
+    {
+      "senadoId": "404318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-19-4322",
+      "titulo": "Decreto nº 4.322 de 19/01/1869",
+      "data": "1869-01-19",
+      "numero": "4322",
+      "urn": "urn:lex:br:federal:decreto:1869-01-19;4322",
+      "ementa": "CONCEDENDO A B.CAIMARI A NECESSÁRIA PERMISSÃO PARA QUE LHE SEJÃO TRANSFERIDOS PELOS CONCESSIONARIOS BARÃO DO RIO NEGRO E QUINTINO DE SOUZA BAIUVA OS PRIVILEGIOS E FAVORES QUE LHES FORAM OUTORGADOS POR DECRETO 4133 DE 28 DE MARÇO DE 1868."
+    },
+    {
+      "senadoId": "404306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-13-4319",
+      "titulo": "Decreto nº 4.319 de 13/01/1869",
+      "data": "1869-01-13",
+      "numero": "4319",
+      "urn": "urn:lex:br:federal:decreto:1869-01-13;4319",
+      "ementa": "CONCEDE A GUILHERME VAN VLECK KIDGERWOOD, PRIVILEGIO POR 15 ANOS PARA AS MAQUINAS POR ELE APERFEIÇOADAS."
+    },
+    {
+      "senadoId": "404314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-13-4321",
+      "titulo": "Decreto nº 4.321 de 13/01/1869",
+      "data": "1869-01-13",
+      "numero": "4321",
+      "urn": "urn:lex:br:federal:decreto:1869-01-13;4321",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ITALIANA DE SOCORRO MUTUE."
+    },
+    {
+      "senadoId": "404310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-13-4320",
+      "titulo": "Decreto nº 4.320 de 13/01/1869",
+      "data": "1869-01-13",
+      "numero": "4320",
+      "urn": "urn:lex:br:federal:decreto:1869-01-13;4320",
+      "ementa": "APROVA AS CLAUSULAS PARA O CONTRATO DA TRANSFERÊNCIA DO TRAFEGO DA ESTRADA UNIÃO E INDUSTRIA PARA A ESTRADA DE FERRO DE D.PEDRO II."
+    },
+    {
+      "senadoId": "404302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-13-4318",
+      "titulo": "Decreto nº 4.318 de 13/01/1869",
+      "data": "1869-01-13",
+      "numero": "4318",
+      "urn": "urn:lex:br:federal:decreto:1869-01-13;4318",
+      "ementa": "CONCEDE A COMPANHIA SÃO SALVADOR DE CAMPOS A AUTORISAÇÃO PARA FUNCIONAR E APROVAÇÃO DOS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-12-4316",
+      "titulo": "Decreto nº 4.316 de 12/01/1869",
+      "data": "1869-01-12",
+      "numero": "4316",
+      "urn": "urn:lex:br:federal:decreto:1869-01-12;4316",
+      "ementa": "EXTINGUE A SECÇÃO DE BATALHÃO DE ARTILHARIA NUMERO 03  DA GUARDA NACIONAL DA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-12-4317",
+      "titulo": "Decreto nº 4.317 de 12/01/1869",
+      "data": "1869-01-12",
+      "numero": "4317",
+      "urn": "urn:lex:br:federal:decreto:1869-01-12;4317",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DO MUNICIPIO DO PRINCIPE E SUBORDINA AO DO DE CASTRO DA PROVICIA DO PARANÁ A GUARDA NACIONAL PERTENCENTE Á FREGUEZIA DA PALMEIRA DA MESMA PROVINCIA."
+    },
+    {
+      "senadoId": "404286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-12-4314",
+      "titulo": "Decreto nº 4.314 de 12/01/1869",
+      "data": "1869-01-12",
+      "numero": "4314",
+      "urn": "urn:lex:br:federal:decreto:1869-01-12;4314",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO, A SETIMA SECÇÃO DE BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1869-01-12-4315",
+      "titulo": "Decreto nº 4.315 de 12/01/1869",
+      "data": "1869-01-12",
+      "numero": "4315",
+      "urn": "urn:lex:br:federal:decreto:1869-01-12;4315",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NUMERO 03 DA GUARDA NACIONAL DA PROVINCIA DE SÃO PAULO."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-05-04-13283",
+  "titulo": "Lei nº 13.283 de 04/05/2016",
+  "data": "2016-05-04",
+  "fonte": "https://normas.leg.br/api/public/binario/d26fc215-bf8d-4ce9-8b27-2d1721890416/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-05-04;13283",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-05-04%3B13283&tipo_documento=maior-detalhe",
+  "sha256_dados": "aa23c0d9776697f26dac8b31d361f80a712d35a9f1c9ecb33a546bc3fd972127",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:04.841Z",
+  "sha256_fonte": "14692fb203de2a643d39dacde645c39cc3018530aa31c559e1449dafa2f0bb63",
+  "sha256_markdown": "dc52025a0dc118869de74393859afdb759365d7043e32c92709e0e3ca87344a3"
+}

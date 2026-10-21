@@ -1,0 +1,3579 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1899",
+  "tipo": "DEC",
+  "ano": 1899,
+  "coletado_em": "2026-10-21T08:51:35.297Z",
+  "normas": [
+    {
+      "senadoId": "401186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-30-3541",
+      "titulo": "Decreto nº 3.541 de 30/12/1899",
+      "data": "1899-12-30",
+      "numero": "3541",
+      "urn": "urn:lex:br:federal:decreto:1899-12-30;3541",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO ESPECIAL DE 23000$000."
+    },
+    {
+      "senadoId": "401190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-30-3542",
+      "titulo": "Decreto nº 3.542 de 30/12/1899",
+      "data": "1899-12-30",
+      "numero": "3542",
+      "urn": "urn:lex:br:federal:decreto:1899-12-30;3542",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 3.000:000$, PARA A LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA Á NOVA COMPANHIA ESTRADA DE FERRO ESTREITO E S. FRANCISCO AO CHOPIM, EM VIRTUDE DO ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 21 DE JULHO DE 1897."
+    },
+    {
+      "senadoId": "401198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-30-3544",
+      "titulo": "Decreto nº 3.544 de 30/12/1899",
+      "data": "1899-12-30",
+      "numero": "3544",
+      "urn": "urn:lex:br:federal:decreto:1899-12-30;3544",
+      "ementa": "CONCEDE Á \"SOCIETÁ ITALIANA DI ESPORTAZIONE ENRICO DELL'ACQUA\" AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-30-3543",
+      "titulo": "Decreto nº 3.543 de 30/12/1899",
+      "data": "1899-12-30",
+      "numero": "3543",
+      "urn": "urn:lex:br:federal:decreto:1899-12-30;3543",
+      "ementa": "CONCEDE AO COLÉGIO PIO AMERICANO AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-29-3539",
+      "titulo": "Decreto nº 3.539 de 29/12/1899",
+      "data": "1899-12-29",
+      "numero": "3539",
+      "urn": "urn:lex:br:federal:decreto:1899-12-29;3539",
+      "ementa": "REGULA A INTRODUÇÃO DE IMIGRANTES A QUE SE REFERE O CONTRATO EM VIGOR CELEBRADO ENTRE O GOVERNO FEDERAL E A COMPANHIA NORTE MINEIRA, PARA FUNDAÇÃO DOS NÚCLEOS AGRÍCOLAS."
+    },
+    {
+      "senadoId": "401182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-29-3540",
+      "titulo": "Decreto nº 3.540 de 29/12/1899",
+      "data": "1899-12-29",
+      "numero": "3540",
+      "urn": "urn:lex:br:federal:decreto:1899-12-29;3540",
+      "ementa": "AUTORIZA A REVISÃO DO CONTRATO CELEBRADO COM THE RIO DE JANEIRO CITY IMPROVEMENTS COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "401170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-27-3537",
+      "titulo": "Decreto nº 3.537 de 27/12/1899",
+      "data": "1899-12-27",
+      "numero": "3537",
+      "urn": "urn:lex:br:federal:decreto:1899-12-27;3537",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA O CRÉDITO DE 3:216$935 PARA INDENIZAR O CAPITÃO-TENENTE RODOLPHO LOPES DA CRUZ DAS VANTAGENS PECUNIARIAS DE QUE FOI PRIVADO POR FORÇA DO PROCESSO QUE RESPONDEU."
+    },
+    {
+      "senadoId": "401174",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-27-3538",
+      "titulo": "Decreto nº 3.538 de 27/12/1899",
+      "data": "1899-12-27",
+      "numero": "3538",
+      "urn": "urn:lex:br:federal:decreto:1899-12-27;3538",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DE 1.193:951$200, SUPLEMENTAR AO ARTIGO 19, PARÁGRAFO 11 `ETAPAS´  DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "401166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-22-3536",
+      "titulo": "Decreto nº 3.536 de 22/12/1899",
+      "data": "1899-12-22",
+      "numero": "3536",
+      "urn": "urn:lex:br:federal:decreto:1899-12-22;3536",
+      "ementa": "CRIA UM CONSULADO EM LA PLATA."
+    },
+    {
+      "senadoId": "401162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-21-3535",
+      "titulo": "Decreto nº 3.535 de 21/12/1899",
+      "data": "1899-12-21",
+      "numero": "3535",
+      "urn": "urn:lex:br:federal:decreto:1899-12-21;3535",
+      "ementa": "DA REGULAMENTO PARA A EXECUÇÃO DA LEI 641, DE 14 DE NOVEMBRO ULTIMO, QUE ESTABELECE O PROCESSO DE ARRECADAÇÃO DOS IMPOSTOS DE CONSUMO."
+    },
+    {
+      "senadoId": "401150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-20-3532",
+      "titulo": "Decreto nº 3.532 de 20/12/1899",
+      "data": "1899-12-20",
+      "numero": "3532",
+      "urn": "urn:lex:br:federal:decreto:1899-12-20;3532",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 25:609$21 PARA LIQUIDAÇÃO DIREITO CREDITÓRIO RECONHECIDO A D. EMÍLIA GONÇALVES DA SILVA, EM VIRTUDE DO ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 17 DE NOVEMBRO DE 1897."
+    },
+    {
+      "senadoId": "401158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-20-3534",
+      "titulo": "Decreto nº 3.534 de 20/12/1899",
+      "data": "1899-12-20",
+      "numero": "3534",
+      "urn": "urn:lex:br:federal:decreto:1899-12-20;3534",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1.341:897$700, PARA PAGAMENTO DAS DESPESAS FEITAS COM A RECEPÇÃO DO SR. PRESIDENTE DA REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "401155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-20-3533",
+      "titulo": "Decreto nº 3.533 de 20/12/1899",
+      "data": "1899-12-20",
+      "numero": "3533",
+      "urn": "urn:lex:br:federal:decreto:1899-12-20;3533",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 26:515$162, PARA LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA Á COMPANHIA GERAL DE SERVIÇOS MARÍTIMOS, EM VIRTUDE DO ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 7 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "401146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-18-3531",
+      "titulo": "Decreto nº 3.531 de 18/12/1899",
+      "data": "1899-12-18",
+      "numero": "3531",
+      "urn": "urn:lex:br:federal:decreto:1899-12-18;3531",
+      "ementa": "AUTORIZA O CONTRATO COM A CONDE D'EU RAIWAY COMPANY, LIMITED, PARA CONCLUIR O TRECHO DE ESTRADA DE FERRO DE MULUNGÚ A ALAGOA GRANDE, NO ESTADO DA PARAÍBA, E A TRAFEGAR ESSE TRECHO."
+    },
+    {
+      "senadoId": "401142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-18-3530",
+      "titulo": "Decreto nº 3.530 de 18/12/1899",
+      "data": "1899-12-18",
+      "numero": "3530",
+      "urn": "urn:lex:br:federal:decreto:1899-12-18;3530",
+      "ementa": "CONCEDE AUTORIZAÇÃO A \"SOCIETÉ ANONYME DES DISTILLERIES BRÉSILLIENNES\" PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-15-3529",
+      "titulo": "Decreto nº 3.529 de 15/12/1899",
+      "data": "1899-12-15",
+      "numero": "3529",
+      "urn": "urn:lex:br:federal:decreto:1899-12-15;3529",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES EXPEDIDAS PARA EXECUÇÃO DO DISPOSTO NOS NÚMEROS 3, 4, 5 E 6 DO ARTIGO 5º DA LEI NÚMERO 640, DE 14, E ARTIGO 1º DA LEI NÚMERO 651, DE 22 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "401134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-14-3528",
+      "titulo": "Decreto nº 3.528 de 14/12/1899",
+      "data": "1899-12-14",
+      "numero": "3528",
+      "urn": "urn:lex:br:federal:decreto:1899-12-14;3528",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO ESPECIAL DE 200:000$, DESTINADO ÁS DESPESAS COMA DEMARCAÇÃO DE LIMITES COM A REPÚBLICA ARGENTINA E AS SUBSTITUIÇÕES DOS MARCOS ARRUÍNADOS NA FRONTEIRA DO BRASIL COM A REPÚBLICA DO PERÚ."
+    },
+    {
+      "senadoId": "401130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-11-3527",
+      "titulo": "Decreto nº 3.527 de 11/12/1899",
+      "data": "1899-12-11",
+      "numero": "3527",
+      "urn": "urn:lex:br:federal:decreto:1899-12-11;3527",
+      "ementa": "APROVA A PLANTA DE UMA FAIXA DE TERRENO PRÓXIMO Á ESTAÇÃO DE PIRATINY, A DESAPROPRIAR PELA ESTRADA DE FERRO RIO GRANDE A BAGÉ, PARA EMBARCADOURO DE GADO."
+    },
+    {
+      "senadoId": "401123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-11-3525",
+      "titulo": "Decreto nº 3.525 de 11/12/1899",
+      "data": "1899-12-11",
+      "numero": "3525",
+      "urn": "urn:lex:br:federal:decreto:1899-12-11;3525",
+      "ementa": "TRANSFORMA OS POSTOS TELEGRÁFICOS DOS QUILÔMETROS DOIS E QUATORZE DA LINHA DO RIBEIRÃO PRETO A JAGUARÁ, DA ESTRADA DE FERRO MOGYANA, EM ESTAÇÕES SOB AS DENOMINAÇÕES- BARRACÃO - E - ENTRONCAMENTO."
+    },
+    {
+      "senadoId": "401126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-11-3526",
+      "titulo": "Decreto nº 3.526 de 11/12/1899",
+      "data": "1899-12-11",
+      "numero": "3526",
+      "urn": "urn:lex:br:federal:decreto:1899-12-11;3526",
+      "ementa": "CONCEDE A SOCIEDADE ANÔNIMA EMPRESA DE SAL E NAVEGAÇÃO AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-09-3524",
+      "titulo": "Decreto nº 3.524 de 09/12/1899",
+      "data": "1899-12-09",
+      "numero": "3524",
+      "urn": "urn:lex:br:federal:decreto:1899-12-09;3524",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NA COMARCA DE ARÊAS, NO ESTAO DE S. PAULO."
+    },
+    {
+      "senadoId": "401115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-09-3523",
+      "titulo": "Decreto nº 3.523 de 09/12/1899",
+      "data": "1899-12-09",
+      "numero": "3523",
+      "urn": "urn:lex:br:federal:decreto:1899-12-09;3523",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO PAULO DE MURIAHÉ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-08-3522",
+      "titulo": "Decreto nº 3.522 de 08/12/1899",
+      "data": "1899-12-08",
+      "numero": "3522",
+      "urn": "urn:lex:br:federal:decreto:1899-12-08;3522",
+      "ementa": "MODIFICA O ARTIGO 58, NÚMERO 1, DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 2213, DE 9 DE JANEIRO DE 1896."
+    },
+    {
+      "senadoId": "401105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-05-3521",
+      "titulo": "Decreto nº 3.521 de 05/12/1899",
+      "data": "1899-12-05",
+      "numero": "3521",
+      "urn": "urn:lex:br:federal:decreto:1899-12-05;3521",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE  100:800$788, SUPLEMENTAR Á VERBA \"ALFÂNDEGAS\"."
+    },
+    {
+      "senadoId": "401101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-02-3520",
+      "titulo": "Decreto nº 3.520 de 02/12/1899",
+      "data": "1899-12-02",
+      "numero": "3520",
+      "urn": "urn:lex:br:federal:decreto:1899-12-02;3520",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 231:881$180, PARA LIQUIDAÇÃO DA INDENIZAÇÃO A JOÃO CARLOS NEPOMUCENO DA SILVA, EM VIRTUDE DO ACORDÃO DO SUPREMO TRIBUNAL FEDERAL DE 27 DE JULHO DE 1898."
+    },
+    {
+      "senadoId": "401097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-02-3519",
+      "titulo": "Decreto nº 3.519 de 02/12/1899",
+      "data": "1899-12-02",
+      "numero": "3519",
+      "urn": "urn:lex:br:federal:decreto:1899-12-02;3519",
+      "ementa": "ALTERA AS TAXAS DOS CAIXÕES, VEÍCULOS E SEPULTURAS PERCEBIDOS PELA EMPRESA FUNERÁRIA A CARGO DA SANTA CASA DE MISERICÓRDIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "401093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-12-02-3518",
+      "titulo": "Decreto nº 3.518 de 02/12/1899",
+      "data": "1899-12-02",
+      "numero": "3518",
+      "urn": "urn:lex:br:federal:decreto:1899-12-02;3518",
+      "ementa": "CONCEDE AO GINÁSIO NOGUEIRA DA GAMA AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-30-3514",
+      "titulo": "Decreto nº 3.514 de 30/11/1899",
+      "data": "1899-11-30",
+      "numero": "3514",
+      "urn": "urn:lex:br:federal:decreto:1899-11-30;3514",
+      "ementa": "PUBLICA A ADESÃO DA COLÔNIA BRITÂNICA DA JAMAICA AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO A PERMUTA DE CARTAS E ENCOMENDAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "401089",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-30-3517",
+      "titulo": "Decreto nº 3.517 de 30/11/1899",
+      "data": "1899-11-30",
+      "numero": "3517",
+      "urn": "urn:lex:br:federal:decreto:1899-11-30;3517",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE S. LUIZ DE CACERES, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "401085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-30-3516",
+      "titulo": "Decreto nº 3.516 de 30/11/1899",
+      "data": "1899-11-30",
+      "numero": "3516",
+      "urn": "urn:lex:br:federal:decreto:1899-11-30;3516",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMPINAS, NO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "401068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-30-3512",
+      "titulo": "Decreto nº 3.512 de 30/11/1899",
+      "data": "1899-11-30",
+      "numero": "3512",
+      "urn": "urn:lex:br:federal:decreto:1899-11-30;3512",
+      "ementa": "PUBLICA A ADESÃO DA COLONIA BRITANICA DA TERRA NOVA  AO ACORDO DE WASHINGTON, DE 15 DE JUNHO DE 1897, RELATIVO A PERMUTA DE CARTAS E ENCOMENDAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "401073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-30-3513",
+      "titulo": "Decreto nº 3.513 de 30/11/1899",
+      "data": "1899-11-30",
+      "numero": "3513",
+      "urn": "urn:lex:br:federal:decreto:1899-11-30;3513",
+      "ementa": "PUBLICA A ADESÃO DA REPÚBLICA DO SALVADOR Á CONVENÇÃO POSTAL UNIVERSAL DE WASHINGTON (CONVENÇÃO PRINCIPAL), AO ACORDO RELATIVO AO SERVIÇO DE VALES POSTAIS E CONVENÇÃO SOBRE A PERMUTA DE ENCOMENDAS POSTAIS, DE 15 DE JUNHO DE 1897."
+    },
+    {
+      "senadoId": "401081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-30-3515",
+      "titulo": "Decreto nº 3.515 de 30/11/1899",
+      "data": "1899-11-30",
+      "numero": "3515",
+      "urn": "urn:lex:br:federal:decreto:1899-11-30;3515",
+      "ementa": "TRANSFERE PARA O HAVRE A SEDE DO CONSULADO GERAL EM FRANÇA."
+    },
+    {
+      "senadoId": "401064",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-29-3511",
+      "titulo": "Decreto nº 3.511 de 29/11/1899",
+      "data": "1899-11-29",
+      "numero": "3511",
+      "urn": "urn:lex:br:federal:decreto:1899-11-29;3511",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA,  VIAÇÃO E OBRAS PÚBLICAS  O CRÉDITO NA IMPORTÂNCIA DE 1.206:750$ DESTINADO A SUPLEMENTAR VERBA \"ESTRADA DE FERRO CENTRAL DO BRASIL\", NO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "401060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-27-3510",
+      "titulo": "Decreto nº 3.510 de 27/11/1899",
+      "data": "1899-11-27",
+      "numero": "3510",
+      "urn": "urn:lex:br:federal:decreto:1899-11-27;3510",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-27-3509",
+      "titulo": "Decreto nº 3.509 de 27/11/1899",
+      "data": "1899-11-27",
+      "numero": "3509",
+      "urn": "urn:lex:br:federal:decreto:1899-11-27;3509",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAMARATY, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-27-3508",
+      "titulo": "Decreto nº 3.508 de 27/11/1899",
+      "data": "1899-11-27",
+      "numero": "3508",
+      "urn": "urn:lex:br:federal:decreto:1899-11-27;3508",
+      "ementa": "CRIA UMA BRIGADA DE INAFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BARRAS, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-25-3504",
+      "titulo": "Decreto nº 3.504 de 25/11/1899",
+      "data": "1899-11-25",
+      "numero": "3504",
+      "urn": "urn:lex:br:federal:decreto:1899-11-25;3504",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 117:920$509, SUPLEMENTAR ÁS VERBAS NÚMEROS. 14, 19 E 31 DA LEI NÚMERO 560 DE 31 DE DEZEMBRO DE 1898, ARTIGO 2º."
+    },
+    {
+      "senadoId": "401041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-25-3505",
+      "titulo": "Decreto nº 3.505 de 25/11/1899",
+      "data": "1899-11-25",
+      "numero": "3505",
+      "urn": "urn:lex:br:federal:decreto:1899-11-25;3505",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 4:200$, AO CÂMBIO DE 27, PARA PRÊMIO AO ALUNO DA FACULADADE DE DIREITO DO RECIFE, JOSÉ AUGUSTO BARRETO MELL0 ROCHA."
+    },
+    {
+      "senadoId": "401049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-25-3507",
+      "titulo": "Decreto nº 3.507 de 25/11/1899",
+      "data": "1899-11-25",
+      "numero": "3507",
+      "urn": "urn:lex:br:federal:decreto:1899-11-25;3507",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE JUNDIAÍ, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "401045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-25-3506",
+      "titulo": "Decreto nº 3.506 de 25/11/1899",
+      "data": "1899-11-25",
+      "numero": "3506",
+      "urn": "urn:lex:br:federal:decreto:1899-11-25;3506",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "401027",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-21-3502",
+      "titulo": "Decreto nº 3.502 de 21/11/1899",
+      "data": "1899-11-21",
+      "numero": "3502",
+      "urn": "urn:lex:br:federal:decreto:1899-11-21;3502",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 2.979:768$045 PARA PAGAMENTO DE DÍVIDAS DE EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "401031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-21-3503",
+      "titulo": "Decreto nº 3.503 de 21/11/1899",
+      "data": "1899-11-21",
+      "numero": "3503",
+      "urn": "urn:lex:br:federal:decreto:1899-11-21;3503",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 502:874$816 PARA PAGAMENTO DA INDENIZAÇÃO DEVIDA A ALMEIDA NAZARETH & C., EM VIRTUDE DO ACORDÃO DO SUPREMO TRIBUNAL FEDERAL, DE 25 DE JUNHO DE 1898."
+    },
+    {
+      "senadoId": "401023",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-18-3501",
+      "titulo": "Decreto nº 3.501 de 18/11/1899",
+      "data": "1899-11-18",
+      "numero": "3501",
+      "urn": "urn:lex:br:federal:decreto:1899-11-18;3501",
+      "ementa": "ABRE AO MINITÉRIO DA JUSTIÇA E NEGÓCIIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1899, O CRÉDITO SUPLEMENTAR DE 54:299$999, SENDO 25:966$666 Á VERBA \"SECRETARIA DO SENADO\" E 28:333$333 Á VERBA \"SECRETARIA DA CÂMARA DOS DEPUTADOS\"."
+    },
+    {
+      "senadoId": "401007",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-18-3497",
+      "titulo": "Decreto nº 3.497 de 18/11/1899",
+      "data": "1899-11-18",
+      "numero": "3497",
+      "urn": "urn:lex:br:federal:decreto:1899-11-18;3497",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CATOLÉ DA ROCHA, NO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "401011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-18-3498",
+      "titulo": "Decreto nº 3.498 de 18/11/1899",
+      "data": "1899-11-18",
+      "numero": "3498",
+      "urn": "urn:lex:br:federal:decreto:1899-11-18;3498",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO POMBA, NO ESTADO DE MINAS GERAS."
+    },
+    {
+      "senadoId": "401015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-18-3499",
+      "titulo": "Decreto nº 3.499 de 18/11/1899",
+      "data": "1899-11-18",
+      "numero": "3499",
+      "urn": "urn:lex:br:federal:decreto:1899-11-18;3499",
+      "ementa": "CONCEDE AO COLÉGIO ABILIO AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-18-3500",
+      "titulo": "Decreto nº 3.500 de 18/11/1899",
+      "data": "1899-11-18",
+      "numero": "3500",
+      "urn": "urn:lex:br:federal:decreto:1899-11-18;3500",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1899, O CRÉDITO SUPLEMENTAR DE 411:000$, SENDO 93:000$ Á VERBA \"SUBSIDIO DOS SENADORES\" E 318:000$ Á VERBA \"SUBSIDIO DOS DEPUTADOS\"."
+    },
+    {
+      "senadoId": "401003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-17-3496",
+      "titulo": "Decreto nº 3.496 de 17/11/1899",
+      "data": "1899-11-17",
+      "numero": "3496",
+      "urn": "urn:lex:br:federal:decreto:1899-11-17;3496",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 7:750$ PARA OCORRER AO PAGAMENTO DEVIDO AO TENENTE CORONEL DO CORPO DE ENGENHEIROS FRANCISCO ALBERTO GUILLON POR VENCIMENTOS QUE DEIXOU DE RECEBER NA QUALIDADE DE LENTE EXTINTA ESCOLA MILITAR DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-13-3492",
+      "titulo": "Decreto nº 3.492 de 13/11/1899",
+      "data": "1899-11-13",
+      "numero": "3492",
+      "urn": "urn:lex:br:federal:decreto:1899-11-13;3492",
+      "ementa": "TORNA DEFINITIVA A APLICAÇÃO PROVISÓRIA AS SUCESSÕES PORTUGUESAS DAS DISPOSIÇÕES A QUE SE REFERE O ARTIGO 24 DO REGULAMENTO MANDADO EXECUTAR PELO DECRETO NÚMERO 855, DE 8 DE NOVEMBRO DE 1851."
+    },
+    {
+      "senadoId": "400995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-13-3494",
+      "titulo": "Decreto nº 3.494 de 13/11/1899",
+      "data": "1899-11-13",
+      "numero": "3494",
+      "urn": "urn:lex:br:federal:decreto:1899-11-13;3494",
+      "ementa": "REDUZ PROVISÓRIAMENTE A TARIFA PARA TRANSPORTE POR VAGÃO COMPLETO DA ESTRADA DE FERRO DE SANTA MARIA AO URUGUAI, DE MADEIRAS BRUTAS OU SERRADAS, TÁBUAS , RIPAS, ETC.."
+    },
+    {
+      "senadoId": "400999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-13-3495",
+      "titulo": "Decreto nº 3.495 de 13/11/1899",
+      "data": "1899-11-13",
+      "numero": "3495",
+      "urn": "urn:lex:br:federal:decreto:1899-11-13;3495",
+      "ementa": "CRIA UM CONSULADO EM PORTO ALONSO."
+    },
+    {
+      "senadoId": "400991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-13-3493",
+      "titulo": "Decreto nº 3.493 de 13/11/1899",
+      "data": "1899-11-13",
+      "numero": "3493",
+      "urn": "urn:lex:br:federal:decreto:1899-11-13;3493",
+      "ementa": "DECLARA INTERROMPIDOS POR TRÊS ANOS OS PRAZOS DO CONTRATO PARA A CONSTRUÇÃO DA ESTRADA DE FERRO DE ALCOBAÇA Á PRAIA DA RAINHA."
+    },
+    {
+      "senadoId": "400979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3490",
+      "titulo": "Decreto nº 3.490 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3490",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3490",
+      "ementa": "RETIFICA O DECRETO N. 3368 DE 16 DE AGOSTO ÚLTIMO NA PARTE CONCERNETE A SOMA DOS CRÉDITOS SUPLEMENTARES, QUE NELE FIGURAM, ABERTOS AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES."
+    },
+    {
+      "senadoId": "400934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3479",
+      "titulo": "Decreto nº 3.479 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3479",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3479",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE DIAMANTINA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3481",
+      "titulo": "Decreto nº 3.481 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3481",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3481",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CONCEIÇÃO DO SERRO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400959",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3485",
+      "titulo": "Decreto nº 3.485 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3485",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3485",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JATAHY, NO ESTADO DE GOIÁS."
+    },
+    {
+      "senadoId": "400951",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3483",
+      "titulo": "Decreto nº 3.483 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3483",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3483",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANT´ANNA DE FERROS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3488",
+      "titulo": "Decreto nº 3.488 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3488",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3488",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 5:950, SUPLEMENTAR Á VERBA NÚMERO 9, DO ARTIGO 2º DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3487",
+      "titulo": "Decreto nº 3.487 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3487",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3487",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA MATTA DE S. JOÃO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400963",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3486",
+      "titulo": "Decreto nº 3.486 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3486",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3486",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAVALCANTI, NO ESTADO DE GOIÁS."
+    },
+    {
+      "senadoId": "400983",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3491",
+      "titulo": "Decreto nº 3.491 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3491",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3491",
+      "ementa": "ALTERA AS INSTRUÇÕES DADAS PELO DECRETO N. 3285, DE 20 DE MAIO ÚLTIMO, PARA O RECONHECIMENTO DOS INSTITUTOS DE ENSINO SECUNDÁRIO FUNDADOS PELOS ESTADOS, ASSOCIAÇÕES OU PARTICULARES."
+    },
+    {
+      "senadoId": "400947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3482",
+      "titulo": "Decreto nº 3.482 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3482",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3482",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITABIRA, NO ESTADO DE MINAS GERAIS"
+    },
+    {
+      "senadoId": "400955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3484",
+      "titulo": "Decreto nº 3.484 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3484",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3484",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. MIGUEL DE GUANHÃES, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3489",
+      "titulo": "Decreto nº 3.489 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3489",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3489",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 1:616$935, SUPLEMENTAR Á VERBA N. 11 \"JUSTIÇA FEDERAL\" DO ATUAL EXERCÍCIO, PARA O PAGAMENTO DOS VENCIMENTOS DO ESCRIVÃO SECIONAL DO ESTADO DE S. PAULO, ANTERO GOMES BARBOSA."
+    },
+    {
+      "senadoId": "400938",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-11-3480",
+      "titulo": "Decreto nº 3.480 de 11/11/1899",
+      "data": "1899-11-11",
+      "numero": "3480",
+      "urn": "urn:lex:br:federal:decreto:1899-11-11;3480",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO SERRO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-07-3478",
+      "titulo": "Decreto nº 3.478 de 07/11/1899",
+      "data": "1899-11-07",
+      "numero": "3478",
+      "urn": "urn:lex:br:federal:decreto:1899-11-07;3478",
+      "ementa": "ALTERA O ARTIGO 24 DO DECRETO 858, DE 10 DE NOVEMBRO DE 1851, E O  DECRETO 1.325, DE 10 DE FEVEREIRO DE 1854, QUANTO A COMISSÃO DOS AGENTES DE LEILÕES NAS VENDAS JUDICIAIS."
+    },
+    {
+      "senadoId": "400922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-06-3476",
+      "titulo": "Decreto nº 3.476 de 06/11/1899",
+      "data": "1899-11-06",
+      "numero": "3476",
+      "urn": "urn:lex:br:federal:decreto:1899-11-06;3476",
+      "ementa": "REVALIDA A PATENTE DE INVENÇÃO 1040, DE 6 DE JANEIRO DE 1901."
+    },
+    {
+      "senadoId": "400926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-06-3477",
+      "titulo": "Decreto nº 3.477 de 06/11/1899",
+      "data": "1899-11-06",
+      "numero": "3477",
+      "urn": "urn:lex:br:federal:decreto:1899-11-06;3477",
+      "ementa": "CONCEDE AO ENGENHEIRO AYRES VIEIRA AUTORIZAÇÃO PARA CONSTRUIREM UM RAMAL FERRO DE SAPOPEMBA Á ILHA DO GOVERNADOR E ESTABELECEREM NESTE PONTO UM CAIS PARA O SERVIÇO DE CARGA E DESCARGA DE MERCADORIAS."
+    },
+    {
+      "senadoId": "400893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3469",
+      "titulo": "Decreto nº 3.469 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3469",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3469",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CARATINGA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3474",
+      "titulo": "Decreto nº 3.474 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3474",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3474",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CONDE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3471",
+      "titulo": "Decreto nº 3.471 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3471",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3471",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. SEBASTIÃO DO PARAÍSO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3472",
+      "titulo": "Decreto nº 3.472 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3472",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3472",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CHRISTINA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3475",
+      "titulo": "Decreto nº 3.475 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3475",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3475",
+      "ementa": "REGULAMENTA O ARTIGO 5º DA LEI NUMERO 628, DE 28 DE OUTUBRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "400897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3470",
+      "titulo": "Decreto nº 3.470 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3470",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3470",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INAFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE RIO NOVO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-11-04-3473",
+      "titulo": "Decreto nº 3.473 de 04/11/1899",
+      "data": "1899-11-04",
+      "numero": "3473",
+      "urn": "urn:lex:br:federal:decreto:1899-11-04;3473",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE POUSO ALTO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-31-3468",
+      "titulo": "Decreto nº 3.468 de 31/10/1899",
+      "data": "1899-10-31",
+      "numero": "3468",
+      "urn": "urn:lex:br:federal:decreto:1899-10-31;3468",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 78:453$637, SUPLEMENTAR Á VERBA \"EXERCÍCIOS FINDOS\"."
+    },
+    {
+      "senadoId": "400885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-30-3467",
+      "titulo": "Decreto nº 3.467 de 30/10/1899",
+      "data": "1899-10-30",
+      "numero": "3467",
+      "urn": "urn:lex:br:federal:decreto:1899-10-30;3467",
+      "ementa": "AUTORIZA O CONTRATO COM A  GREAT WESTERN OF BRASIL RAILWAY COMPANY, LIMITED, PARA CONCLUIR O TRECHO DE ESTRADA DE FERRO DE TIMBAÚBA AO PILAR E A TRAFEGAR ESSE TRECHO."
+    },
+    {
+      "senadoId": "400861",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3461",
+      "titulo": "Decreto nº 3.461 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3461",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3461",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. PAULO DE MURIAHÉ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3460",
+      "titulo": "Decreto nº 3.460 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3460",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3460",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS  INTERIORES O CRÉDITO DE 300:000$, SUPLEMENTAR Á VERBA \"SOCORROS PÚBLICOS\" DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "400873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3464",
+      "titulo": "Decreto nº 3.464 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3464",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3464",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE GARANHUNS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3466",
+      "titulo": "Decreto nº 3.466 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3466",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3466",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE S. SIMÃO, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "400877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3465",
+      "titulo": "Decreto nº 3.465 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3465",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3465",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE INGAZEIRA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400865",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3462",
+      "titulo": "Decreto nº 3.462 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3462",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3462",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E OUTRA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PASSOS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3459",
+      "titulo": "Decreto nº 3.459 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3459",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3459",
+      "ementa": "DÁ INSTRUÇÕES PARA AS ELEIÇÕES FEDERAIS A QUE SE TERÁ DE PROCEDER EM 31 DE DEZEMBRO PRÓXIMO VINDOURO."
+    },
+    {
+      "senadoId": "400869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-28-3463",
+      "titulo": "Decreto nº 3.463 de 28/10/1899",
+      "data": "1899-10-28",
+      "numero": "3463",
+      "urn": "urn:lex:br:federal:decreto:1899-10-28;3463",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA BAGAGEM, O ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-23-3457",
+      "titulo": "Decreto nº 3.457 de 23/10/1899",
+      "data": "1899-10-23",
+      "numero": "3457",
+      "urn": "urn:lex:br:federal:decreto:1899-10-23;3457",
+      "ementa": "CONCEDE Á SOCIETÉ ANONYME DES MINES DE MANGANESE D´OURO PRETO AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-23-3458",
+      "titulo": "Decreto nº 3.458 de 23/10/1899",
+      "data": "1899-10-23",
+      "numero": "3458",
+      "urn": "urn:lex:br:federal:decreto:1899-10-23;3458",
+      "ementa": "PERMITE AS ADMINISTRAÇÕES DE COMPANHIAS OU EMPRESAS DE ESTRADAS DE FERRO, QUE CELEBRAREM A CORDO DE TRÁFEGO MÚTUO COM A REPARTIÇÃO GERAL DOS TELÉGRAFOS, EQUIPARAR, PARA OS EFEITOS DOS MESMO ACORDO, SUAS TAXAS TELEGRÁFICAS ÁS ESTABELECIDA PARA O SERVIÇO A CARGO DAQUELA REPARTIÇÃO E UNIFORMIZAR O PROCESSO DO TRÁFEGO TELEGRÁFICO."
+    },
+    {
+      "senadoId": "400841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-23-3456",
+      "titulo": "Decreto nº 3.456 de 23/10/1899",
+      "data": "1899-10-23",
+      "numero": "3456",
+      "urn": "urn:lex:br:federal:decreto:1899-10-23;3456",
+      "ementa": "REVALIDA A PATENTE  DE INVENÇÃO NÚMERO 1701, DE 23 DE MAIO DE 1894."
+    },
+    {
+      "senadoId": "400822",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3451",
+      "titulo": "Decreto nº 3.451 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3451",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3451",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GARDAS NACIONAIS NA COMARCA DE GEREMOABO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3446",
+      "titulo": "Decreto nº 3.446 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3446",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3446",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. JOSÉ DO RIO PARDO, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "400810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3448",
+      "titulo": "Decreto nº 3.448 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3448",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3448",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE AMARGOSA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3447",
+      "titulo": "Decreto nº 3.447 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3447",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3447",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE JABOTICABAL, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "400814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3449",
+      "titulo": "Decreto nº 3.449 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3449",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3449",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACONAIS NA COMARCA DE POMBAL, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3455",
+      "titulo": "Decreto nº 3.455 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3455",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3455",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 100:000$, SUPLEMNTAR Á VERBA NÚMERO 14 \"DILIGENCIAS POLICIAIS\"."
+    },
+    {
+      "senadoId": "400825",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3452",
+      "titulo": "Decreto nº 3.452 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3452",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3452",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE JUIZ DE FORA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3450",
+      "titulo": "Decreto nº 3.450 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3450",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3450",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE CURRALINHO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3453",
+      "titulo": "Decreto nº 3.453 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3453",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3453",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTÔNIO DO MACHADO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-21-3454",
+      "titulo": "Decreto nº 3.454 de 21/10/1899",
+      "data": "1899-10-21",
+      "numero": "3454",
+      "urn": "urn:lex:br:federal:decreto:1899-10-21;3454",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE RIO PRETO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-19-3445",
+      "titulo": "Decreto nº 3.445 de 19/10/1899",
+      "data": "1899-10-19",
+      "numero": "3445",
+      "urn": "urn:lex:br:federal:decreto:1899-10-19;3445",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS CRÉDITOS ESPECIAIS NAS IMPORTÂNCIAS TOTAIS DE  13.162:961$027, DE $ 6.442,66 E DE £ 5.507-12-0, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "400794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-17-3444",
+      "titulo": "Decreto nº 3.444 de 17/10/1899",
+      "data": "1899-10-17",
+      "numero": "3444",
+      "urn": "urn:lex:br:federal:decreto:1899-10-17;3444",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DA SOCIEDADE MÚTUA DE SEGUROS DE VIDA CAIXA GERAL DAS FAMÍLIAS."
+    },
+    {
+      "senadoId": "400786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-16-3442",
+      "titulo": "Decreto nº 3.442 de 16/10/1899",
+      "data": "1899-10-16",
+      "numero": "3442",
+      "urn": "urn:lex:br:federal:decreto:1899-10-16;3442",
+      "ementa": "REVALIDA, AMPLIA E TRANSFERE PARA JOHN JONES A CONCESSÃO FEITA PELO DECRETO NÚMERO 1292, DE 17 DE JANEIRO DE 1891, PARA TRANSMISSÃO DE NOTÍCIAS COMERCIAIS NESTA CAPITAL."
+    },
+    {
+      "senadoId": "400790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-16-3443",
+      "titulo": "Decreto nº 3.443 de 16/10/1899",
+      "data": "1899-10-16",
+      "numero": "3443",
+      "urn": "urn:lex:br:federal:decreto:1899-10-16;3443",
+      "ementa": "DECLARA DE NENHUM EFEITO O DECRETO NÚMERO 1661, DE 27 DE JANEIRO DE 1894."
+    },
+    {
+      "senadoId": "400782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-16-3441",
+      "titulo": "Decreto nº 3.441 de 16/10/1899",
+      "data": "1899-10-16",
+      "numero": "3441",
+      "urn": "urn:lex:br:federal:decreto:1899-10-16;3441",
+      "ementa": "ALTERA OS ARTIGO 110 E 112 DAS INSTRUÇÕES REGULAMENTARES E TARIFAS DA ESTRADA DE FERRO DE SANTA MARIA AO URUGUAI, APROVADAS POR DECRETO NÚMERO 2088, DE 12 SETEMBRO DE 1885."
+    },
+    {
+      "senadoId": "400754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3434",
+      "titulo": "Decreto nº 3.434 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3434",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3434",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPICURÚ, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3435",
+      "titulo": "Decreto nº 3.435 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3435",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3435",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE AMARGOSA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3440",
+      "titulo": "Decreto nº 3.440 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3440",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3440",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1899, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ Á VERBA \"SUBSIDIO DOS SENADORES\" E 477:000$ Á VERBA \"SUBSIDIO DOS DEPUTADOS\"."
+    },
+    {
+      "senadoId": "400766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3437",
+      "titulo": "Decreto nº 3.437 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3437",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3437",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SACRAMENTO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3436",
+      "titulo": "Decreto nº 3.436 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3436",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3436",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO PRATA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3439",
+      "titulo": "Decreto nº 3.439 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3439",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3439",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTRERIORES, POR CONTA DO EXERCÍCIO E DE 1899, O CRÉDITO SUPLEMENTAR DE 75:200$, SENDO 32:700$ \"SECRETARIA DO SENADO\" 42:500$ Á VERBA \"SECRETARIA DA CÂMARA DOS DEPUTADOS\"."
+    },
+    {
+      "senadoId": "400770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-14-3438",
+      "titulo": "Decreto nº 3.438 de 14/10/1899",
+      "data": "1899-10-14",
+      "numero": "3438",
+      "urn": "urn:lex:br:federal:decreto:1899-10-14;3438",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE TURY-ASSÚ, NO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "400750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-09-3433",
+      "titulo": "Decreto nº 3.433 de 09/10/1899",
+      "data": "1899-10-09",
+      "numero": "3433",
+      "urn": "urn:lex:br:federal:decreto:1899-10-09;3433",
+      "ementa": "ELIMINA DA RALAÇÃO ANEXA AO DECRETO NÚMERO 3174 DE 7 DE DEZEMBRO DE 1898 A PATENTE DE PRIVILÉGIO DE INVENÇÃO NÚMERO 2060."
+    },
+    {
+      "senadoId": "400746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-09-3432",
+      "titulo": "Decreto nº 3.432 de 09/10/1899",
+      "data": "1899-10-09",
+      "numero": "3432",
+      "urn": "urn:lex:br:federal:decreto:1899-10-09;3432",
+      "ementa": "DECLARA CADUCAS TODAS AS CONCESSÕES PARA MINERAÇÃO CUJOS TRABALHOS DE LAVRA NÃO TENHAM TIDO COMEÇO NOS PRAZOS A QUE SE REFERE O DECRETO NÚMERO 3350 A, DE 29 DE NOVEMBRO DE 1864, E BEM ASSIM AQUELAS QUE, DEPOIS DE COMEÇADOS ESTES TRABALHOS, TENHAM INCORRIDO NAS COMINAÇÕES DO MESMO DECRETO, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "400742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-07-3431",
+      "titulo": "Decreto nº 3.431 de 07/10/1899",
+      "data": "1899-10-07",
+      "numero": "3431",
+      "urn": "urn:lex:br:federal:decreto:1899-10-07;3431",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE QUIPAPÁ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-06-3430",
+      "titulo": "Decreto nº 3.430 de 06/10/1899",
+      "data": "1899-10-06",
+      "numero": "3430",
+      "urn": "urn:lex:br:federal:decreto:1899-10-06;3430",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 400:750$030 PARA OCORRER AO PAGAMENTO RECLAMADO POR D. DOMINGAS LANDABOURO DELABARY, COMO INDENIZAÇÃO POR PREJUÍZOS E DANOS  CAUSADOS PELAS FORÇAS LEGAIS QUE OPERARAM NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-10-05-3429",
+      "titulo": "Decreto nº 3.429 de 05/10/1899",
+      "data": "1899-10-05",
+      "numero": "3429",
+      "urn": "urn:lex:br:federal:decreto:1899-10-05;3429",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO DE 96:946$911 PARA LIQUIDAR AS RECLAMAÇÕES DE DIVERSAS LEGAÇÕES ESTRANGEIRAS PELO IMPOSTO SOBRE NAVIOS DA RESPECTIVAS NACIONALIDADES INDEVIDAMENTE COBRADO PELOS ESTADOS DE  PERNAMBUCO, ALAGOAS E RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "400726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3427",
+      "titulo": "Decreto nº 3.427 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3427",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3427",
+      "ementa": "CRIA TRÊS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA FEIRA DE SANT´ANNA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3428",
+      "titulo": "Decreto nº 3.428 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3428",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3428",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE LENÇÓIS, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "400706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3422",
+      "titulo": "Decreto nº 3.422 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3422",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3422",
+      "ementa": "APROVA OS REGIMENTOS DAS CUSTAS JUDICIÁRIAS DA JUSTIÇA FEDERAL."
+    },
+    {
+      "senadoId": "400710",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3423",
+      "titulo": "Decreto nº 3.423 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3423",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3423",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CANHOTINHO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400722",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3426",
+      "titulo": "Decreto nº 3.426 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3426",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3426",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E OUTRA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE INHAMBUPE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400714",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3424",
+      "titulo": "Decreto nº 3.424 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3424",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3424",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CASA BRANCA, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "400718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-30-3425",
+      "titulo": "Decreto nº 3.425 de 30/09/1899",
+      "data": "1899-09-30",
+      "numero": "3425",
+      "urn": "urn:lex:br:federal:decreto:1899-09-30;3425",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PITANGUY, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-29-3421",
+      "titulo": "Decreto nº 3.421 de 29/09/1899",
+      "data": "1899-09-29",
+      "numero": "3421",
+      "urn": "urn:lex:br:federal:decreto:1899-09-29;3421",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA A QUANTIA DE 39:352$500, SUPLEMENTAR ÁS VERBAS 1 E 4 DO ARTIGO 19 DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400690",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-28-3418",
+      "titulo": "Decreto nº 3.418 de 28/09/1899",
+      "data": "1899-09-28",
+      "numero": "3418",
+      "urn": "urn:lex:br:federal:decreto:1899-09-28;3418",
+      "ementa": "PUBLICA A ADESÃO DA REPÚBLICA DE HONDURAS Á CONVENÇÃO POSTAL UNIVERSAL DE WASHINGTON (CONVENÇÃO PRINCIPAL) DE 15 DE JUNHO DE 1897, E AOS ACORDOS DA MESMA DATA, COMO ABAIXO SE DECLARA."
+    },
+    {
+      "senadoId": "400698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-28-3420",
+      "titulo": "Decreto nº 3.420 de 28/09/1899",
+      "data": "1899-09-28",
+      "numero": "3420",
+      "urn": "urn:lex:br:federal:decreto:1899-09-28;3420",
+      "ementa": "ABRE AO MINISTPERIO DA RELAÇÕES EXTERIORES O CRÉDITO DE  50:000$, AO CÂMBIO DE 27, SUPLEMENTAR A RÚBRICA 4ª DO ARTIGO 12 DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-28-3419",
+      "titulo": "Decreto nº 3.419 de 28/09/1899",
+      "data": "1899-09-28",
+      "numero": "3419",
+      "urn": "urn:lex:br:federal:decreto:1899-09-28;3419",
+      "ementa": "PUBLICA A ADESÃO, A PARTIR DE 1 DE OUTUBRO PRÓXIMO, DAS SEGUINTES COLÔNIAS BRITÂNICAS: ILHAS FALKLAND, GAMBIA, HONG-KONG, LAYOS, SANTA HELENA, TRINDADE E GUIANA INGLESA Á CONVENÇÃO DE WASHINGTON, DE 15 DE JUNHO DE 1897, CONCERNENTE Á TROCA DE CARTAS E DE CAIXAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "400686",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-27-3417",
+      "titulo": "Decreto nº 3.417 de 27/09/1899",
+      "data": "1899-09-27",
+      "numero": "3417",
+      "urn": "urn:lex:br:federal:decreto:1899-09-27;3417",
+      "ementa": "EXLICA COMO DEVE SER EXECUTADO O DECRETO NÚMERO 108 A, DE 30 DE DEZEMBRO DE 1899, NA PARTE QUE SE REFERE Á TRANSFERÊNCIA DOS OFICIAIS DA ARMADA PARA O QUADRO DA RESERVA."
+    },
+    {
+      "senadoId": "400682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-26-3416",
+      "titulo": "Decreto nº 3.416 de 26/09/1899",
+      "data": "1899-09-26",
+      "numero": "3416",
+      "urn": "urn:lex:br:federal:decreto:1899-09-26;3416",
+      "ementa": "CONCEDE AO BACHAREL VIRGÍLIO BRIGIDO AUTORIZAÇÃO PARA INCORPORAR UMA SOCIEDADE ANÔNIMA SOB A DENOMINAÇÃO DE BANCO DE CRÉDITO REAL DE SERGIPE."
+    },
+    {
+      "senadoId": "400678",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-25-3415",
+      "titulo": "Decreto nº 3.415 de 25/09/1899",
+      "data": "1899-09-25",
+      "numero": "3415",
+      "urn": "urn:lex:br:federal:decreto:1899-09-25;3415",
+      "ementa": "ALTERA A CLÁUSULA XIII DAS QUE BAIXARAM COM O DECRETO NÚMERO 3307, DE 6 DE JUNHO DE 1899."
+    },
+    {
+      "senadoId": "400658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3410",
+      "titulo": "Decreto nº 3.410 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3410",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3410",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE UBERABA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3409",
+      "titulo": "Decreto nº 3.409 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3409",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3409",
+      "ementa": "CORRIGE OS DECRETOS NÚMEROS 3290 E 3291, DE 20 DE MAIO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "400666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3412",
+      "titulo": "Decreto nº 3.412 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3412",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3412",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO BRANCO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3411",
+      "titulo": "Decreto nº 3.411 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3411",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3411",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PASSOS, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3408",
+      "titulo": "Decreto nº 3.408 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3408",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3408",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE  950:000$, PARA PAGAMENTOS DE ORDENAD0S DOS MAGISTRADOS REVERTIDOS A DISPONIBILIDADE."
+    },
+    {
+      "senadoId": "400670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3413",
+      "titulo": "Decreto nº 3.413 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3413",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3413",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPECERICA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-23-3414",
+      "titulo": "Decreto nº 3.414 de 23/09/1899",
+      "data": "1899-09-23",
+      "numero": "3414",
+      "urn": "urn:lex:br:federal:decreto:1899-09-23;3414",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE NOVA ALMEIDA, NO ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "400646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-22-3407",
+      "titulo": "Decreto nº 3.407 de 22/09/1899",
+      "data": "1899-09-22",
+      "numero": "3407",
+      "urn": "urn:lex:br:federal:decreto:1899-09-22;3407",
+      "ementa": "ABRE AO MINISTÉRO DA GUERRA O CRÉDITO DE 1.266:588$, SUPLEMENTAR Á VERBA 16ª, NÚMERO 28, DO ARTIGO 19 DA LEI NÚMERO 260, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-18-3405",
+      "titulo": "Decreto nº 3.405 de 18/09/1899",
+      "data": "1899-09-18",
+      "numero": "3405",
+      "urn": "urn:lex:br:federal:decreto:1899-09-18;3405",
+      "ementa": "DECLARA A CONCESSÃO FEITA POR DECRETO DO GOVERNO PROVISÓRIO NÚMERO 719, DE 5 DE SETEMBRO DE 1890, A CHARLES H. WARD PARA LAVRAR OURO E OUTROS MINEIRAIS NO MUNICÍPIO DE CUIABÁ, ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "400635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-18-3404",
+      "titulo": "Decreto nº 3.404 de 18/09/1899",
+      "data": "1899-09-18",
+      "numero": "3404",
+      "urn": "urn:lex:br:federal:decreto:1899-09-18;3404",
+      "ementa": "APROVA A REDUÇÃO DE TAXA DE ABASTECIMENTO DE FRETES PARA OS GÊNEROS DE PRODUÇÃO NACIONAL TRANSPORTADOS PELO PROLONGAMENTO DA ESTRADA DE FERRO BARÃO DE ARARUAMA."
+    },
+    {
+      "senadoId": "400643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-18-3406",
+      "titulo": "Decreto nº 3.406 de 18/09/1899",
+      "data": "1899-09-18",
+      "numero": "3406",
+      "urn": "urn:lex:br:federal:decreto:1899-09-18;3406",
+      "ementa": "CONCEDE AUTORIZAÇÃO POR TRINTA ANOS AO ALMIRANTE GRADUADO E REFORMADO PEDRO BENJEMIN DE CERQUEIRA LIMA PARA EXPLORAR A INDÚSTRIA DA PESCA NA PEQUENA ILHA DO ATOLL DENOMINADA \"ROCCAS\"."
+    },
+    {
+      "senadoId": "400631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3403",
+      "titulo": "Decreto nº 3.403 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3403",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3403",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO SUPLEMENTAR DE 400:000$ Á VERBA \"SOCORROS PÚBLICOS\" DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "400603",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3396",
+      "titulo": "Decreto nº 3.396 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3396",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3396",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE TARACATÚ, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3400",
+      "titulo": "Decreto nº 3.400 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3400",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3400",
+      "ementa": "ABRE AO MINISTPERIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1899, O CRÉDITO SUPLEMENTAR DE 75:200$, SENDO 32:700$ Á VERBA \"SECRETARIA DO SENADO\" E 42:500$ Á VERBA  \"SECRETARIA DA CÂMARA DOS DEPUTADOS\"."
+    },
+    {
+      "senadoId": "400607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3397",
+      "titulo": "Decreto nº 3.397 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3397",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3397",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO REMANSO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3398",
+      "titulo": "Decreto nº 3.398 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3398",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3398",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BOM JARDIM, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3402",
+      "titulo": "Decreto nº 3.402 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3402",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3402",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO DE 2:400$, SUPLEMENTAR Á VERBA \"MAGISTRADOS EM DISPONIBILIDADES\" DO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "400615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3399",
+      "titulo": "Decreto nº 3.399 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3399",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3399",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO CONDE, ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-16-3401",
+      "titulo": "Decreto nº 3.401 de 16/09/1899",
+      "data": "1899-09-16",
+      "numero": "3401",
+      "urn": "urn:lex:br:federal:decreto:1899-09-16;3401",
+      "ementa": "ABRE AO MINISTÉRO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1899, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ Á VERBA \"SUBSÍDIO DOS DEPUTADOS\"."
+    },
+    {
+      "senadoId": "400599",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-14-3395",
+      "titulo": "Decreto nº 3.395 de 14/09/1899",
+      "data": "1899-09-14",
+      "numero": "3395",
+      "urn": "urn:lex:br:federal:decreto:1899-09-14;3395",
+      "ementa": "CRIA UM CONSULADO EM LA PALLICE, FRANÇA."
+    },
+    {
+      "senadoId": "400595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-12-3394",
+      "titulo": "Decreto nº 3.394 de 12/09/1899",
+      "data": "1899-09-12",
+      "numero": "3394",
+      "urn": "urn:lex:br:federal:decreto:1899-09-12;3394",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE DE SEGUROS SOBRE A VIDA \"GARANTIA MÚTUA DO BRASIL\", COM SEDE NA CAPITAL DO ESTADO DA BAHIA, E AUTORIZA A MESMA A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-09-3393",
+      "titulo": "Decreto nº 3.393 de 09/09/1899",
+      "data": "1899-09-09",
+      "numero": "3393",
+      "urn": "urn:lex:br:federal:decreto:1899-09-09;3393",
+      "ementa": "CONSIDERA COMO EFETIVAMENTE PROMOVIDO AO POSTO DE ALFERES DE INFANTARIA EM 14 DE AGOSTO DE 1894 O ENTÃO 1º CADETE DO 8º BATALHÃO DA MESMA ARMA ANTÔNIO RODRIGUES ARAÚJO."
+    },
+    {
+      "senadoId": "400587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-06-3392",
+      "titulo": "Decreto nº 3.392 de 06/09/1899",
+      "data": "1899-09-06",
+      "numero": "3392",
+      "urn": "urn:lex:br:federal:decreto:1899-09-06;3392",
+      "ementa": "CRIA UM CONSULADO EM  NEW CASTLE, GRAN-BRETANHA."
+    },
+    {
+      "senadoId": "400583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-04-3391",
+      "titulo": "Decreto nº 3.391 de 04/09/1899",
+      "data": "1899-09-04",
+      "numero": "3391",
+      "urn": "urn:lex:br:federal:decreto:1899-09-04;3391",
+      "ementa": "CONCEDE A SOCIEDADE ANÔNIMA COMPLOIR COLONIAL FRANÇAIS AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-02-3389",
+      "titulo": "Decreto nº 3.389 de 02/09/1899",
+      "data": "1899-09-02",
+      "numero": "3389",
+      "urn": "urn:lex:br:federal:decreto:1899-09-02;3389",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400579",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-02-3390",
+      "titulo": "Decreto nº 3.390 de 02/09/1899",
+      "data": "1899-09-02",
+      "numero": "3390",
+      "urn": "urn:lex:br:federal:decreto:1899-09-02;3390",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE S. MIGUEL DE GUAMÁ, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-09-02-3388",
+      "titulo": "Decreto nº 3.388 de 02/09/1899",
+      "data": "1899-09-02",
+      "numero": "3388",
+      "urn": "urn:lex:br:federal:decreto:1899-09-02;3388",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GAURDAS NACIONAIS NA COMARCA DE IGARAPÉ-MIRY, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400567",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-30-3387",
+      "titulo": "Decreto nº 3.387 de 30/08/1899",
+      "data": "1899-08-30",
+      "numero": "3387",
+      "urn": "urn:lex:br:federal:decreto:1899-08-30;3387",
+      "ementa": "ADAPTA A PRÁTICA SEGUIDA POR VÁRIAS POTENCIAS MARÍTIMAS, COM REFERÊNCIA AS SALVAS NOS PORTOS POR O CASIÃO DA ENTRADA DE NAVIOS DE GUERRA E DE VISISTAS DE AUTORIDADES."
+    },
+    {
+      "senadoId": "400563",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-28-3386",
+      "titulo": "Decreto nº 3.386 de 28/08/1899",
+      "data": "1899-08-28",
+      "numero": "3386",
+      "urn": "urn:lex:br:federal:decreto:1899-08-28;3386",
+      "ementa": "DECLARA CADUCA A PATENTE DE INVENÇÃO DE NÚMERO 2307, DE 26 DE MAIO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "400559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-26-3385",
+      "titulo": "Decreto nº 3.385 de 26/08/1899",
+      "data": "1899-08-26",
+      "numero": "3385",
+      "urn": "urn:lex:br:federal:decreto:1899-08-26;3385",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CINTRA, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-26-3381",
+      "titulo": "Decreto nº 3.381 de 26/08/1899",
+      "data": "1899-08-26",
+      "numero": "3381",
+      "urn": "urn:lex:br:federal:decreto:1899-08-26;3381",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE GARARÚ, NO ESTADO DE SERGIPE."
+    },
+    {
+      "senadoId": "400555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-26-3384",
+      "titulo": "Decreto nº 3.384 de 26/08/1899",
+      "data": "1899-08-26",
+      "numero": "3384",
+      "urn": "urn:lex:br:federal:decreto:1899-08-26;3384",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-26-3382",
+      "titulo": "Decreto nº 3.382 de 26/08/1899",
+      "data": "1899-08-26",
+      "numero": "3382",
+      "urn": "urn:lex:br:federal:decreto:1899-08-26;3382",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA RIBEIRA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-26-3383",
+      "titulo": "Decreto nº 3.383 de 26/08/1899",
+      "data": "1899-08-26",
+      "numero": "3383",
+      "urn": "urn:lex:br:federal:decreto:1899-08-26;3383",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO GRANDE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-25-3379",
+      "titulo": "Decreto nº 3.379 de 25/08/1899",
+      "data": "1899-08-25",
+      "numero": "3379",
+      "urn": "urn:lex:br:federal:decreto:1899-08-25;3379",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DE 25:810$ PARA INDENIZAR A FELIPPE MAXWELL DO GADO LEVANTADO E ARREBANHADO DE SUA PROPRIEDADE PELAS FORÇAS LEGAIS QUE OPERARAM NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-25-3380",
+      "titulo": "Decreto nº 3.380 de 25/08/1899",
+      "data": "1899-08-25",
+      "numero": "3380",
+      "urn": "urn:lex:br:federal:decreto:1899-08-25;3380",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 15:917$080 PARA OCORRER AO PAGAMENTO DEVIDO A DIVERSOS OFICIAIS POR VENCIMENTOS QUE DEIXARAM DE RECEBER NA QUALIDADE DE LENTES E SUBSTITUTOS DA EXTINTA ESCOLA SUPERIOR DE GUERRA."
+    },
+    {
+      "senadoId": "400527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-22-3377",
+      "titulo": "Decreto nº 3.377 de 22/08/1899",
+      "data": "1899-08-22",
+      "numero": "3377",
+      "urn": "urn:lex:br:federal:decreto:1899-08-22;3377",
+      "ementa": "APROVA UMA DAS ALTERAÇÕES FEITAS NOS ESTATUTOS DO BANCO DE CRÉDITO RURAL E INTERNACIONAL E NÃO CONSIGNADA NO DECRETO NÚMERO 2.814, DE 7 DE FEVEREIRO DE 1897."
+    },
+    {
+      "senadoId": "400531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-22-3378",
+      "titulo": "Decreto nº 3.378 de 22/08/1899",
+      "data": "1899-08-22",
+      "numero": "3378",
+      "urn": "urn:lex:br:federal:decreto:1899-08-22;3378",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 2.000:000$, SUPLEMENTAR Á VERBA - EXERCÍCIOS FINDOS - DO ORÇAMENTO VIGENTE."
+    },
+    {
+      "senadoId": "400523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-21-3376",
+      "titulo": "Decreto nº 3.376 de 21/08/1899",
+      "data": "1899-08-21",
+      "numero": "3376",
+      "urn": "urn:lex:br:federal:decreto:1899-08-21;3376",
+      "ementa": "OBRRIGA A COMPANHIA COLONIZAÇÃO E INDÚSTRIA DE SANTA CATARINA A INTRODUZIR, MEDIANTE CLÁUSULAS, OS IMIGRANTES NECESSÁRIOS AO POVOAMENTO DOS NÚCLEOS QUE TEM CONTRATADO FUNDAR NO ESTADO DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "400519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-21-3375",
+      "titulo": "Decreto nº 3.375 de 21/08/1899",
+      "data": "1899-08-21",
+      "numero": "3375",
+      "urn": "urn:lex:br:federal:decreto:1899-08-21;3375",
+      "ementa": "APROVA PROVISORIAMENTE AS ALTERAÇÕES DAS TARIFAS EM VIGOR NA ESTRADA DE FERRO DO RECIFE AO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "400515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-21-3374",
+      "titulo": "Decreto nº 3.374 de 21/08/1899",
+      "data": "1899-08-21",
+      "numero": "3374",
+      "urn": "urn:lex:br:federal:decreto:1899-08-21;3374",
+      "ementa": "APROVA A PLANTA E ORÇAMENTO PARA A CONSTRUÇÃO DE UM PONTO DE PARADA EM CATUNIS, EM SUBSTITUIÇÃO DO AUMENTO DA ESTAÇÃO DE TAMBARI, DA ESTRADA DE FERRO DA BAHIA, AUTORIZADO PELO DECRETO NÚMERO 2.798, DE 18 DE JANEIRO DE 1893."
+    },
+    {
+      "senadoId": "400507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-21-3372",
+      "titulo": "Decreto nº 3.372 de 21/08/1899",
+      "data": "1899-08-21",
+      "numero": "3372",
+      "urn": "urn:lex:br:federal:decreto:1899-08-21;3372",
+      "ementa": "SUBSTITUI PROVISORIAMENTE O ARTIGO II DO DECRETO NÚMERO 3.332, DE 4 DE JUNHO DO CORRENTE ANO, REFERENTE A ESTRADA DE FERRO BANANAL."
+    },
+    {
+      "senadoId": "400511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-21-3373",
+      "titulo": "Decreto nº 3.373 de 21/08/1899",
+      "data": "1899-08-21",
+      "numero": "3373",
+      "urn": "urn:lex:br:federal:decreto:1899-08-21;3373",
+      "ementa": "SUBSTITUI O ARTIGO 192 DAS INSTRUÇÕES REGULAMENTARES E TARIFAS DA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAIANA, QUE BAIXARAM COM O DECRETO NÚMERO 8.814, DE 23 DE DEZEMBRO DE 1882."
+    },
+    {
+      "senadoId": "400499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-19-3370",
+      "titulo": "Decreto nº 3.370 de 19/08/1899",
+      "data": "1899-08-19",
+      "numero": "3370",
+      "urn": "urn:lex:br:federal:decreto:1899-08-19;3370",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA, UMA DE CAVALARIA E UMA DE ARTILHARIA DA GUARDA NACIONAL NA COMARCA DE LAVRAS DIAMANTINAS, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-19-3369",
+      "titulo": "Decreto nº 3.369 de 19/08/1899",
+      "data": "1899-08-19",
+      "numero": "3369",
+      "urn": "urn:lex:br:federal:decreto:1899-08-19;3369",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DA GUARDA NACIONAL NO MUNICIPIO DE SÃO JOSE DO EGITO, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-19-3371",
+      "titulo": "Decreto nº 3.371 de 19/08/1899",
+      "data": "1899-08-19",
+      "numero": "3371",
+      "urn": "urn:lex:br:federal:decreto:1899-08-19;3371",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DA GUARDA NACIONAL NA COMARCA DE PARAGUASSÚ, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400489",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-16-3368",
+      "titulo": "Decreto nº 3.368 de 16/08/1899",
+      "data": "1899-08-16",
+      "numero": "3368",
+      "urn": "urn:lex:br:federal:decreto:1899-08-16;3368",
+      "ementa": "ABRE AO MINISTERIO DA JUSTIÇA E NEGOCIOS INTERIORES O CREDITO DE 21:250$, SUPLEMENTAR AS VERBAS NUMEROS 20, 21 E 22 DO ARTIGO 2 DA LEI 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-14-3367",
+      "titulo": "Decreto nº 3.367 de 14/08/1899",
+      "data": "1899-08-14",
+      "numero": "3367",
+      "urn": "urn:lex:br:federal:decreto:1899-08-14;3367",
+      "ementa": "AUTORIZA O GOVERNO A ABRIR AO MINISTÉRIO DA GUERRA  O CRÉDITO DA QUANTIA DE 848:175$055, SUPLEMENTAR Á VERBA 1ª - PESSOAL, DESPESAS ESPECIAIS - DO ARTIGO 19 DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400481",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-14-3366",
+      "titulo": "Decreto nº 3.366 de 14/08/1899",
+      "data": "1899-08-14",
+      "numero": "3366",
+      "urn": "urn:lex:br:federal:decreto:1899-08-14;3366",
+      "ementa": "ABRE AO MINISTÉRRIO DA GUERRA O CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 7:500$, PARA OCORRER AO PAGAMENTO A VIÚVA DE  MATHEW LOWRIE DE SERVIÇOS PRESTADOS PELA LANCHA DE SUA PROPRIEDADE PROMPTUS ÁS FORÇAS LEGAIS QUE OPERARAM EM NITERÓI."
+    },
+    {
+      "senadoId": "400477",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-07-3365",
+      "titulo": "Decreto nº 3.365 de 07/08/1899",
+      "data": "1899-08-07",
+      "numero": "3365",
+      "urn": "urn:lex:br:federal:decreto:1899-08-07;3365",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á THE AMAZONAS RUBBER E TATES, LIMITED, PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-05-3364",
+      "titulo": "Decreto nº 3.364 de 05/08/1899",
+      "data": "1899-08-05",
+      "numero": "3364",
+      "urn": "urn:lex:br:federal:decreto:1899-08-05;3364",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CAXIAS, NO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "400469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-05-3363",
+      "titulo": "Decreto nº 3.363 de 05/08/1899",
+      "data": "1899-08-05",
+      "numero": "3363",
+      "urn": "urn:lex:br:federal:decreto:1899-08-05;3363",
+      "ementa": "APROVA O REGIMENTO DE CUSTAS JUDICIÁRIAS DA JUSTIÇA LOCAL DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "400465",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-02-3362",
+      "titulo": "Decreto nº 3.362 de 02/08/1899",
+      "data": "1899-08-02",
+      "numero": "3362",
+      "urn": "urn:lex:br:federal:decreto:1899-08-02;3362",
+      "ementa": "TORNA EXTENSIVO Á ARMADA O DECRET0 NÚMERO 3.320, DE 19 DE JUNHO DE 1899."
+    },
+    {
+      "senadoId": "400461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-08-01-3361",
+      "titulo": "Decreto nº 3.361 de 01/08/1899",
+      "data": "1899-08-01",
+      "numero": "3361",
+      "urn": "urn:lex:br:federal:decreto:1899-08-01;3361",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE  45:000$, PARA PAGAMENTO DE ALUGUEL DE ARMAZÉNS NO SERVIÇO DA ALFÂNDEGA DE MACEIÓ, ESTADO DE ALAGOAS."
+    },
+    {
+      "senadoId": "400453",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-31-3359",
+      "titulo": "Decreto nº 3.359 de 31/07/1899",
+      "data": "1899-07-31",
+      "numero": "3359",
+      "urn": "urn:lex:br:federal:decreto:1899-07-31;3359",
+      "ementa": "APROVA PROVISORIAMENTE AS NOVAS TARIFAS PARA PASSAGEIROS, BAGAGENS, ENCOMENDAS E MERCADORIAS DA ESTRADA DE FERRO DO BANANAL."
+    },
+    {
+      "senadoId": "400457",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-31-3360",
+      "titulo": "Decreto nº 3.360 de 31/07/1899",
+      "data": "1899-07-31",
+      "numero": "3360",
+      "urn": "urn:lex:br:federal:decreto:1899-07-31;3360",
+      "ementa": "APROVA O NOVO PROJETO E RESPECTIVO ORÇAMENTO PARA AS OBRAS DE MELHORAMENTO DO PORTO DE JARAGUÁ, CONTRATADAS COM A COMPANHIA INDUSTRIAL E DE CONSTRUÇÕES HIDRÁULICAS."
+    },
+    {
+      "senadoId": "400449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-29-3358",
+      "titulo": "Decreto nº 3.358 de 29/07/1899",
+      "data": "1899-07-29",
+      "numero": "3358",
+      "urn": "urn:lex:br:federal:decreto:1899-07-29;3358",
+      "ementa": "APLICA AS SUCESSÕES DOS SUBDITOS ALEMÃIS AS DISPOSIÇÕES DO DECRETO NÚMERO 855, DE 8 DE NOVEMBRO DE 1.851, A QUE SE REFERE O SEU ARTIGO 24."
+    },
+    {
+      "senadoId": "400445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-25-3357",
+      "titulo": "Decreto nº 3.357 de 25/07/1899",
+      "data": "1899-07-25",
+      "numero": "3357",
+      "urn": "urn:lex:br:federal:decreto:1899-07-25;3357",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1:061$812, SUPLEMENTAR Á VERBA - EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "400429",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-24-3353",
+      "titulo": "Decreto nº 3.353 de 24/07/1899",
+      "data": "1899-07-24",
+      "numero": "3353",
+      "urn": "urn:lex:br:federal:decreto:1899-07-24;3353",
+      "ementa": "APROVA A PLANTA, PERFIL LONGETUDINAL, PERFIS TRANSVERSAIS, PROJETOS E OBRAS DE ARTE, TABELAS DE PREÇOS E ORÇAMENTO PARA A CONSTRUÇÃO DO TRECHO DE SÃO SEBASTIÃO A SÃO GABRIEL, NA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAIANA."
+    },
+    {
+      "senadoId": "400433",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-24-3354",
+      "titulo": "Decreto nº 3.354 de 24/07/1899",
+      "data": "1899-07-24",
+      "numero": "3354",
+      "urn": "urn:lex:br:federal:decreto:1899-07-24;3354",
+      "ementa": "CONCEDE AUTORIZAÇÃO A GERALDO BARBOSA LIMA E OUTROS PARA ORGANIZAREM UMA COMPANHIA DE SEGUROS MÚTUOS SOBRE A VIDA DOS ANIMAIS DE TRABALHO, COM A DENOMINAÇÃO - SANTA CRUZ."
+    },
+    {
+      "senadoId": "400437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-24-3355",
+      "titulo": "Decreto nº 3.355 de 24/07/1899",
+      "data": "1899-07-24",
+      "numero": "3355",
+      "urn": "urn:lex:br:federal:decreto:1899-07-24;3355",
+      "ementa": "APROVA O ABATIMENTO DA TARIFA DE TRANSPORTE DE LENHA PELA ESTRADA DE FERRO CONDE D´EU."
+    },
+    {
+      "senadoId": "400441",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-24-3356",
+      "titulo": "Decreto nº 3.356 de 24/07/1899",
+      "data": "1899-07-24",
+      "numero": "3356",
+      "urn": "urn:lex:br:federal:decreto:1899-07-24;3356",
+      "ementa": "APROVA ESTUDOS E ORÇAMENTO PARA A CAPTAÇÃO DAS VERTENTES E OBRAS DE ABASTECIMENTO DE ÁGUA DE NOVOS PLANOS INCLINADOS DA S, PAULO RAILWAY COMPANY LIMITED."
+    },
+    {
+      "senadoId": "400414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-22-3350",
+      "titulo": "Decreto nº 3.350 de 22/07/1899",
+      "data": "1899-07-22",
+      "numero": "3350",
+      "urn": "urn:lex:br:federal:decreto:1899-07-22;3350",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DA GUARDA NACIONAL NO MUNICÍPIO DE CORRENTES, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400424",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-22-3352",
+      "titulo": "Decreto nº 3.352 de 22/07/1899",
+      "data": "1899-07-22",
+      "numero": "3352",
+      "urn": "urn:lex:br:federal:decreto:1899-07-22;3352",
+      "ementa": "LIMITA O MÁXIMO DA PORCENTAGEM DO CURADOR DAS MASSAS FALIDAS NOS PROCESSOS DE FALÊNCIA E DETERMINA O MODO POR QUE DEVE ELA SER CALCULADA."
+    },
+    {
+      "senadoId": "400419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-22-3351",
+      "titulo": "Decreto nº 3.351 de 22/07/1899",
+      "data": "1899-07-22",
+      "numero": "3351",
+      "urn": "urn:lex:br:federal:decreto:1899-07-22;3351",
+      "ementa": "DERROGA O DECRETO NÚMERO 3.311, DE 10 DE JUNHO ÚLTIMO, SOBRE A GUARDA NACIONAL NO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "400410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-17-3349",
+      "titulo": "Decreto nº 3.349 de 17/07/1899",
+      "data": "1899-07-17",
+      "numero": "3349",
+      "urn": "urn:lex:br:federal:decreto:1899-07-17;3349",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á THE SÃO PAULO RAILWAY LIGHT AND POWER COMPANY, LIMITED PARA FUNCIONAR NA REPÚBLICA NOS ESTADOS UNIDOS DO BRASIL."
+    },
+    {
+      "senadoId": "400406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-17-3348",
+      "titulo": "Decreto nº 3.348 de 17/07/1899",
+      "data": "1899-07-17",
+      "numero": "3348",
+      "urn": "urn:lex:br:federal:decreto:1899-07-17;3348",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA ANTÁRTICA PAULISTA."
+    },
+    {
+      "senadoId": "400402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-15-3347",
+      "titulo": "Decreto nº 3.347 de 15/07/1899",
+      "data": "1899-07-15",
+      "numero": "3347",
+      "urn": "urn:lex:br:federal:decreto:1899-07-15;3347",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDA NACIONAL NO MUNICÍPIO DO BREJO DA MADRE DE DEUS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-13-3346",
+      "titulo": "Decreto nº 3.346 de 13/07/1899",
+      "data": "1899-07-13",
+      "numero": "3346",
+      "urn": "urn:lex:br:federal:decreto:1899-07-13;3346",
+      "ementa": "ALTERA O DECRETO NÚMERO 1.729 A, DE 11 DE JUNHO DE 1894, NA PARTE RELATIVA AOS UNIFORMES DOS OFICIAIS GENERAIS REFORMADOS."
+    },
+    {
+      "senadoId": "400393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-11-3345",
+      "titulo": "Decreto nº 3.345 de 11/07/1899",
+      "data": "1899-07-11",
+      "numero": "3345",
+      "urn": "urn:lex:br:federal:decreto:1899-07-11;3345",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA A QUANTIA DE 51:820$150, SUPLEMENTAR ÁS VERBAS 10ª E 11ª DO ARTIGO 19 DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-11-3344",
+      "titulo": "Decreto nº 3.344 de 11/07/1899",
+      "data": "1899-07-11",
+      "numero": "3344",
+      "urn": "urn:lex:br:federal:decreto:1899-07-11;3344",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 505$554, PARA OCORRER AO PAGAMENTO AO MAJOR FELISBERTO JOSÉ DE MENEZES, PROFESSOR DO COLÉGIO MILITAR DA CAPITAL, DE GRATIFICAÇÃO QUE VENCEU E NÃO RECEBEU EM TEMPO OPORTUNO."
+    },
+    {
+      "senadoId": "400385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-10-3343",
+      "titulo": "Decreto nº 3.343 de 10/07/1899",
+      "data": "1899-07-10",
+      "numero": "3343",
+      "urn": "urn:lex:br:federal:decreto:1899-07-10;3343",
+      "ementa": "APROVA AS MODIFICAÇÕES FEITAS NOS SEUS ESTATUTOS POR THE PARÁ GAS COMPAANY, LIMITED, E COM AS MODIFICAÇÕES APROVADAS AUTORIZA A MESMA COMPANHIA A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-10-3342",
+      "titulo": "Decreto nº 3.342 de 10/07/1899",
+      "data": "1899-07-10",
+      "numero": "3342",
+      "urn": "urn:lex:br:federal:decreto:1899-07-10;3342",
+      "ementa": "APROVA O NOVO PROJETO E ORÇAMENTO DAS OFICINAS DE REPARAÇÃO DA ESTRADA DE FERRO SÃO PAULO - RIO GRANDE."
+    },
+    {
+      "senadoId": "400365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-08-3338",
+      "titulo": "Decreto nº 3.338 de 08/07/1899",
+      "data": "1899-07-08",
+      "numero": "3338",
+      "urn": "urn:lex:br:federal:decreto:1899-07-08;3338",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BROTAS, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400369",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-08-3339",
+      "titulo": "Decreto nº 3.339 de 08/07/1899",
+      "data": "1899-07-08",
+      "numero": "3339",
+      "urn": "urn:lex:br:federal:decreto:1899-07-08;3339",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MAR DE ESPANHA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-08-3337",
+      "titulo": "Decreto nº 3.337 de 08/07/1899",
+      "data": "1899-07-08",
+      "numero": "3337",
+      "urn": "urn:lex:br:federal:decreto:1899-07-08;3337",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITUASSÚ, EX-BREJO GRANDE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-08-3341",
+      "titulo": "Decreto nº 3.341 de 08/07/1899",
+      "data": "1899-07-08",
+      "numero": "3341",
+      "urn": "urn:lex:br:federal:decreto:1899-07-08;3341",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE GUARAPARI, ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "400373",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-08-3340",
+      "titulo": "Decreto nº 3.340 de 08/07/1899",
+      "data": "1899-07-08",
+      "numero": "3340",
+      "urn": "urn:lex:br:federal:decreto:1899-07-08;3340",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS DA COMARCA DE CARATINGA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-05-3334",
+      "titulo": "Decreto nº 3.334 de 05/07/1899",
+      "data": "1899-07-05",
+      "numero": "3334",
+      "urn": "urn:lex:br:federal:decreto:1899-07-05;3334",
+      "ementa": "APROVA O REGULAMENTO PARA AS CAPITANIAS DOS PORTOS."
+    },
+    {
+      "senadoId": "400358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-05-3336",
+      "titulo": "Decreto nº 3.336 de 05/07/1899",
+      "data": "1899-07-05",
+      "numero": "3336",
+      "urn": "urn:lex:br:federal:decreto:1899-07-05;3336",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES O CRÉDITO DE  260:000$, SUPLEMENTAR AS VERBAS 6ª E 7ª DO ARTIGO 12 DA LEI NÚMERO 560 DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-05-3335",
+      "titulo": "Decreto nº 3.335 de 05/07/1899",
+      "data": "1899-07-05",
+      "numero": "3335",
+      "urn": "urn:lex:br:federal:decreto:1899-07-05;3335",
+      "ementa": "CRIA UM CONSULADO EM BERLIM."
+    },
+    {
+      "senadoId": "400334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-04-3330",
+      "titulo": "Decreto nº 3.330 de 04/07/1899",
+      "data": "1899-07-04",
+      "numero": "3330",
+      "urn": "urn:lex:br:federal:decreto:1899-07-04;3330",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA DENOMINADA SUCRERIE DE PIRACICABA PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-04-3332",
+      "titulo": "Decreto nº 3.332 de 04/07/1899",
+      "data": "1899-07-04",
+      "numero": "3332",
+      "urn": "urn:lex:br:federal:decreto:1899-07-04;3332",
+      "ementa": "TRANSFERE A FERNANDO MOITINHO, LUIZ MOITINHO, DOMINGOS MOITINHO E BERNADO GUIMARÃES A CONCESSÃO DA ESTRADA DE FERRO DO BANANAL, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "400338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-04-3331",
+      "titulo": "Decreto nº 3.331 de 04/07/1899",
+      "data": "1899-07-04",
+      "numero": "3331",
+      "urn": "urn:lex:br:federal:decreto:1899-07-04;3331",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á F. S. HAMPSHIRE & C., LIMITED PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-04-3333",
+      "titulo": "Decreto nº 3.333 de 04/07/1899",
+      "data": "1899-07-04",
+      "numero": "3333",
+      "urn": "urn:lex:br:federal:decreto:1899-07-04;3333",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á SOCIETÉ ANONIMO DE LA SUCRERIE VILLA-RAFFARD PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-01-3326",
+      "titulo": "Decreto nº 3.326 de 01/07/1899",
+      "data": "1899-07-01",
+      "numero": "3326",
+      "urn": "urn:lex:br:federal:decreto:1899-07-01;3326",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MARAGOGI, NO ESTADO DE ALAGOAS."
+    },
+    {
+      "senadoId": "400330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-01-3329",
+      "titulo": "Decreto nº 3.329 de 01/07/1899",
+      "data": "1899-07-01",
+      "numero": "3329",
+      "urn": "urn:lex:br:federal:decreto:1899-07-01;3329",
+      "ementa": "INOVA O CONTRATO CELEBRADO A SOCIEDADE ANÔNIMA DE GÁS DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-01-3328",
+      "titulo": "Decreto nº 3.328 de 01/07/1899",
+      "data": "1899-07-01",
+      "numero": "3328",
+      "urn": "urn:lex:br:federal:decreto:1899-07-01;3328",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE PITANGUI, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-07-01-3327",
+      "titulo": "Decreto nº 3.327 de 01/07/1899",
+      "data": "1899-07-01",
+      "numero": "3327",
+      "urn": "urn:lex:br:federal:decreto:1899-07-01;3327",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO PAULO DE MURIAÉ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-30-3325",
+      "titulo": "Decreto nº 3.325 de 30/06/1899",
+      "data": "1899-06-30",
+      "numero": "3325",
+      "urn": "urn:lex:br:federal:decreto:1899-06-30;3325",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 300:000$ PARA OCORRER AO PAGAMENTO DO PESSOAL DA OFICINA DE ALFAIATES DO ARSENAL DE GUERRA DESTA CAPITAL E DO PESSOAL EMPREGADO NA MANUFATURA DE FARDAMENTO FORA DO MESMO ARSENAL."
+    },
+    {
+      "senadoId": "400309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-28-3324",
+      "titulo": "Decreto nº 3.324 de 28/06/1899",
+      "data": "1899-06-28",
+      "numero": "3324",
+      "urn": "urn:lex:br:federal:decreto:1899-06-28;3324",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO EXTRAORDINÁRIO DE 4:200$, PARA PRÊMIO AO ALUNO DA FACULDADE DE MEDICINA DO RIO DE JANEIRO, JOSÉ ANTÔNIO FIGUEIREDO RODRIGUES."
+    },
+    {
+      "senadoId": "400305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-27-3323",
+      "titulo": "Decreto nº 3.323 de 27/06/1899",
+      "data": "1899-06-27",
+      "numero": "3323",
+      "urn": "urn:lex:br:federal:decreto:1899-06-27;3323",
+      "ementa": "APROVA COM ALTERAÇÕES, AS MODIFICAÇÕES PROPOSTAS PELA EMPRESA INDUSTRIAL DE MELHORAMENTOS DO BRASIL, NO PLANO GERAL DE OBRAS DO CAIS ENTRE O ARSENAL DE MARINHA E A PONTA DO CAJÚ."
+    },
+    {
+      "senadoId": "400301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-26-3322",
+      "titulo": "Decreto nº 3.322 de 26/06/1899",
+      "data": "1899-06-26",
+      "numero": "3322",
+      "urn": "urn:lex:br:federal:decreto:1899-06-26;3322",
+      "ementa": "DÁ REGULAMENTO PARA ARRECADAÇÃO DO IMPOSTO DE CONSUMO DE CARTAS DE JOGAR."
+    },
+    {
+      "senadoId": "400297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-24-3321",
+      "titulo": "Decreto nº 3.321 de 24/06/1899",
+      "data": "1899-06-24",
+      "numero": "3321",
+      "urn": "urn:lex:br:federal:decreto:1899-06-24;3321",
+      "ementa": "CRIA OS LUGARES DE SUPLENTES DE SUBSTITUTO DO JUIZ FEDERAL NA CIRCUNSCRIÇÃO DE PEDRAS DE FOGO, ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "400293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-19-3320",
+      "titulo": "Decreto nº 3.320 de 19/06/1899",
+      "data": "1899-06-19",
+      "numero": "3320",
+      "urn": "urn:lex:br:federal:decreto:1899-06-19;3320",
+      "ementa": "REGULA A COLOCAÇÃO, NA ESCALA DE ANTIGUIDADE, DOS OFICIAIS DO EXÉRCITO COMPREENDIDOS NA LEI NÚMERO 533, DE 7 DE DEZEMBRO DE 1898 E AS CONDIÇÕES DOS GRADUADOS EM POSTOS SUPERIORES COMO CHEFES DE CLASSE, QUE, PELA DITA LEI, FICARAM MAIS MODERNOS QUE AQUELES."
+    },
+    {
+      "senadoId": "400285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3318",
+      "titulo": "Decreto nº 3.318 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3318",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3318",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO JOAZEIRO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3313",
+      "titulo": "Decreto nº 3.313 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3313",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3313",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE CIMBRES, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3317",
+      "titulo": "Decreto nº 3.317 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3317",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3317",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO RIACHÃO, NO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "400289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3319",
+      "titulo": "Decreto nº 3.319 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3319",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3319",
+      "ementa": "DÁ NUMERAÇÃO AOS CORPOS DE ARTILHARIA DA GUARDA NACIONAL DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "400269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3314",
+      "titulo": "Decreto nº 3.314 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3314",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3314",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BOM SUCESSO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3312",
+      "titulo": "Decreto nº 3.312 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3312",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3312",
+      "ementa": "DÁ REGULMAENTO PARA A COBRANÇA DA TAXA JUDICIÁRIA NOS EFEITOS JULGADOS PELA JUSTIÇA FEDERAL."
+    },
+    {
+      "senadoId": "400277",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3316",
+      "titulo": "Decreto nº 3.316 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3316",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3316",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO BREJO, ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "400273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-17-3315",
+      "titulo": "Decreto nº 3.315 de 17/06/1899",
+      "data": "1899-06-17",
+      "numero": "3315",
+      "urn": "urn:lex:br:federal:decreto:1899-06-17;3315",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BOM SUCESSO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400253",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-10-3310",
+      "titulo": "Decreto nº 3.310 de 10/06/1899",
+      "data": "1899-06-10",
+      "numero": "3310",
+      "urn": "urn:lex:br:federal:decreto:1899-06-10;3310",
+      "ementa": "REVOGA O DECRETO NÚMERO 2.056, DE 25 DE JUNHO DE 1895, RELATIVO A APOSENTADORIAS DE MAGISTRADOS."
+    },
+    {
+      "senadoId": "400257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-10-3311",
+      "titulo": "Decreto nº 3.311 de 10/06/1899",
+      "data": "1899-06-10",
+      "numero": "3311",
+      "urn": "urn:lex:br:federal:decreto:1899-06-10;3311",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO A GUARDA NACIONAL DO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "400249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-09-3309",
+      "titulo": "Decreto nº 3.309 de 09/06/1899",
+      "data": "1899-06-09",
+      "numero": "3309",
+      "urn": "urn:lex:br:federal:decreto:1899-06-09;3309",
+      "ementa": "PUBLICA A ADESÃO DA COLÔNIA BRITÂNICA DO CEYLÃO AO ACORDO DE WASHINGTON, DE 15 DE JUNHO DE 1897, RELATIVO A TROCA DE CARTAS E DE CAIXAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "400245",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-09-3308",
+      "titulo": "Decreto nº 3.308 de 09/06/1899",
+      "data": "1899-06-09",
+      "numero": "3308",
+      "urn": "urn:lex:br:federal:decreto:1899-06-09;3308",
+      "ementa": "PUBLICA A ADESÃO DO GOVERNO JAPONÊS Á UNIÃO PARA A PROTEÇÃO DA PROPRIEDADE INDUSTRIAL."
+    },
+    {
+      "senadoId": "400241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-06-3307",
+      "titulo": "Decreto nº 3.307 de 06/06/1899",
+      "data": "1899-06-06",
+      "numero": "3307",
+      "urn": "urn:lex:br:federal:decreto:1899-06-06;3307",
+      "ementa": "AUTORIZA AS COMPANHIAS BRASILIAN SUBMARINE TELEGRAF E WESTERN AND BRASILIAN TELEGRAF, A FUNCIONAREM NO BRASIL COMO UMA SÓ COMPANHIA, SOB A DENOMINAÇÃO DO THE WESTERN TELEGRAF COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "400237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-03-3306",
+      "titulo": "Decreto nº 3.306 de 03/06/1899",
+      "data": "1899-06-03",
+      "numero": "3306",
+      "urn": "urn:lex:br:federal:decreto:1899-06-03;3306",
+      "ementa": "ABRE AO MINISTÉIRO DA JUSTIÇA E NEGÓCIOSS INTERIORES O CRÉDITO ESPECIAL DE  28:387$215, PARA PAGAMENTO DE VÁRIAS DESPESAS, DA SECRETARIA DO SENADO, INCLUSIVE OS VENCIMENTOS DO BIBLIOTECÁRIO DA MESMA CÂMARA, RELATIVOS AO EXERCÍCIO DE 1.808."
+    },
+    {
+      "senadoId": "400233",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-06-02-3305",
+      "titulo": "Decreto nº 3.305 de 02/06/1899",
+      "data": "1899-06-02",
+      "numero": "3305",
+      "urn": "urn:lex:br:federal:decreto:1899-06-02;3305",
+      "ementa": "APROVA O CONVÊNIO CELEBRADO ENTRE O MINISTÉRIO DA FAZENDA E O PRESIDENTE DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "400229",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-30-3304",
+      "titulo": "Decreto nº 3.304 de 30/05/1899",
+      "data": "1899-05-30",
+      "numero": "3304",
+      "urn": "urn:lex:br:federal:decreto:1899-05-30;3304",
+      "ementa": "AUTORIZA A SOCIEDADE DE SEGURO MÚTUO SOBRE A VIDA - A EQUITATIVA - A OPERAR EM SEGUROS TERRESTRES E MARÍTIMOS."
+    },
+    {
+      "senadoId": "400225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-30-3303",
+      "titulo": "Decreto nº 3.303 de 30/05/1899",
+      "data": "1899-05-30",
+      "numero": "3303",
+      "urn": "urn:lex:br:federal:decreto:1899-05-30;3303",
+      "ementa": "ALTERA O ARTIGO 118 DO REGULAMENTO E TARIFAS DA ESTRADA DE FERRO CONDE D'EU, APROVADOS PELO DECRETO NÚMERO 1908, DE 12 DE DEZEMBRO DE 1894."
+    },
+    {
+      "senadoId": "400204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-27-3298",
+      "titulo": "Decreto nº 3.298 de 27/05/1899",
+      "data": "1899-05-27",
+      "numero": "3298",
+      "urn": "urn:lex:br:federal:decreto:1899-05-27;3298",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TAUBATÉ, NO ESTADO DE S. PAULO."
+    },
+    {
+      "senadoId": "400208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-27-3299",
+      "titulo": "Decreto nº 3.299 de 27/05/1899",
+      "data": "1899-05-27",
+      "numero": "3299",
+      "urn": "urn:lex:br:federal:decreto:1899-05-27;3299",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CASTRO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "400216",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-27-3301",
+      "titulo": "Decreto nº 3.301 de 27/05/1899",
+      "data": "1899-05-27",
+      "numero": "3301",
+      "urn": "urn:lex:br:federal:decreto:1899-05-27;3301",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CURRALINHO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400212",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-27-3300",
+      "titulo": "Decreto nº 3.300 de 27/05/1899",
+      "data": "1899-05-27",
+      "numero": "3300",
+      "urn": "urn:lex:br:federal:decreto:1899-05-27;3300",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE MARAGOGIPE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400220",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-27-3302",
+      "titulo": "Decreto nº 3.302 de 27/05/1899",
+      "data": "1899-05-27",
+      "numero": "3302",
+      "urn": "urn:lex:br:federal:decreto:1899-05-27;3302",
+      "ementa": "CRIA UMA BRIGADA DE GUARDAS NACIONAIS NO MUNICIPIO DE BEZERROS, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "400199",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-24-3297",
+      "titulo": "Decreto nº 3.297 de 24/05/1899",
+      "data": "1899-05-24",
+      "numero": "3297",
+      "urn": "urn:lex:br:federal:decreto:1899-05-24;3297",
+      "ementa": "APROVA O REGULAMENTO PARA O CONSELHO NAVAL."
+    },
+    {
+      "senadoId": "400194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-23-3296",
+      "titulo": "Decreto nº 3.296 de 23/05/1899",
+      "data": "1899-05-23",
+      "numero": "3296",
+      "urn": "urn:lex:br:federal:decreto:1899-05-23;3296",
+      "ementa": "TRANSFERE AO CIDADÃO JOSÉ MARCELINO PEREIRA DE MORAIS A CONCESSÃO A QUE SE REFEREM OS DECRETOS NS. 10.407, DE 19 DE OUTUBRO DE 1889 E 476, DE 11 DE JULHO DE 1890, PARA O ARRASAMENTO DO MORRO DE SANTO ANTONIO."
+    },
+    {
+      "senadoId": "400189",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-23-3295",
+      "titulo": "Decreto nº 3.295 de 23/05/1899",
+      "data": "1899-05-23",
+      "numero": "3295",
+      "urn": "urn:lex:br:federal:decreto:1899-05-23;3295",
+      "ementa": "TRANSFERE A THE RIO DE JANEIRO HARBOUR AND DECK COMPANY, LIMITED A CONCESSÃO DE QUE TRATA O DECRETO NÚMERO 10.372, DE 28 DE SETEMBRO DE 1889, PARA AS OBRAS DE MELHORAMENTOS NO PORTO DO RIO DE JANEIRO, NOS TERMOS DO ARTIGO 46 DA LEI NÚMERO 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "400185",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-22-3294",
+      "titulo": "Decreto nº 3.294 de 22/05/1899",
+      "data": "1899-05-22",
+      "numero": "3294",
+      "urn": "urn:lex:br:federal:decreto:1899-05-22;3294",
+      "ementa": "ALTERA O ARTIGO 568 DA NOVA CONSOLIDAÇÃO DAS LEIS DA ALFANDEGAS NA PARTE QUE SE REFERE AO DESPACHO DE EXPORTAÇÕES DAS MERCADORIAS QUE TIVEREM DE TRANSITAR POR PAISES ESTRANGEIROS."
+    },
+    {
+      "senadoId": "400181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-22-3293",
+      "titulo": "Decreto nº 3.293 de 22/05/1899",
+      "data": "1899-05-22",
+      "numero": "3293",
+      "urn": "urn:lex:br:federal:decreto:1899-05-22;3293",
+      "ementa": "APROVA, COM MODIFICAÇÕES, OS ESTATUTOS DA COMPANHIA BRASILEIRA DE SEGUROS PARA A VIDA E AUTORIZA A MESMA A FUNCIONAR."
+    },
+    {
+      "senadoId": "400158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3287",
+      "titulo": "Decreto nº 3.287 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3287",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3287",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE FRUTAL, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3286",
+      "titulo": "Decreto nº 3.286 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3286",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3286",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAMBUÍ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3289",
+      "titulo": "Decreto nº 3.289 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3289",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3289",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE OURO PRETO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3285",
+      "titulo": "Decreto nº 3.285 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3285",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3285",
+      "ementa": "DÁ INSTRUÇÕES PARA O RECONHECIMENTO DOS INSTITUTOS DE ENSINO SECUNDÁRIO, FUNDADOS PELOS ESTADOS, ASSOCIAÇÕES OU PARTICULARES."
+    },
+    {
+      "senadoId": "400170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3290",
+      "titulo": "Decreto nº 3.290 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3290",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3290",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E OUTRA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE CONQUISTA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3284",
+      "titulo": "Decreto nº 3.284 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3284",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3284",
+      "ementa": "DÁ INSTRUÇÕES PARA OS CONCURSOS AOS LUGARES DE ASSISTENTES DE CLÍNICAS DAS FACULDADES DE MEDICINA DA UNIÃO."
+    },
+    {
+      "senadoId": "400162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3288",
+      "titulo": "Decreto nº 3.288 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3288",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3288",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MUZAMBINHO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400177",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3292",
+      "titulo": "Decreto nº 3.292 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3292",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3292",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO DE S. FRANCISCO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400173",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-20-3291",
+      "titulo": "Decreto nº 3.291 de 20/05/1899",
+      "data": "1899-05-20",
+      "numero": "3291",
+      "urn": "urn:lex:br:federal:decreto:1899-05-20;3291",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CAETETÉ, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-17-3283",
+      "titulo": "Decreto nº 3.283 de 17/05/1899",
+      "data": "1899-05-17",
+      "numero": "3283",
+      "urn": "urn:lex:br:federal:decreto:1899-05-17;3283",
+      "ementa": "MANDA SUBSTITUIR A COR BRANCA DAS BANDEIRAS NÚMEROS 2 E 3 DA QUINTA ESTAMPA DO CÓDIGO DE SINAIS COMUM A TODOS OS PORTOS E BARRAS DA REPÚBLICA, PELA ENCARNADA; E ACRESCENTAR NOVOS SINAIS AOS DA TABELA NÚMERO 1 DO MESMO CÓDIGO."
+    },
+    {
+      "senadoId": "400134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-16-3281",
+      "titulo": "Decreto nº 3.281 de 16/05/1899",
+      "data": "1899-05-16",
+      "numero": "3281",
+      "urn": "urn:lex:br:federal:decreto:1899-05-16;3281",
+      "ementa": "SUPRIME UM LUGAR DE ENGENHEIRO CHEFE DE DISTRITO DA REPARTIÇÃO GERAL DOS TELÉGRAFOS."
+    },
+    {
+      "senadoId": "400138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-16-3282",
+      "titulo": "Decreto nº 3.282 de 16/05/1899",
+      "data": "1899-05-16",
+      "numero": "3282",
+      "urn": "urn:lex:br:federal:decreto:1899-05-16;3282",
+      "ementa": "CONCEDE AUTORIZAÇÃO À THE RIO DE JANEIRO HARBOUR AND DOCK COMPANY LIMITED PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "400130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3280",
+      "titulo": "Decreto nº 3.280 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3280",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3280",
+      "ementa": "DÁ REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO DE CONSUMO DE CONSERVAS."
+    },
+    {
+      "senadoId": "400126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3279",
+      "titulo": "Decreto nº 3.279 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3279",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3279",
+      "ementa": "DÁ REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO DE CONSUMO DE VINAGRE."
+    },
+    {
+      "senadoId": "400122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3278",
+      "titulo": "Decreto nº 3.278 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3278",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3278",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MAZAGÃO, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400105",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3274",
+      "titulo": "Decreto nº 3.274 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3274",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3274",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À BRIGADA POLICIAL DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "400118",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3277",
+      "titulo": "Decreto nº 3.277 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3277",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3277",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO MIGUEL DE GUAMÁ, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3276",
+      "titulo": "Decreto nº 3.276 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3276",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3276",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAITUBA, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400109",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-15-3275",
+      "titulo": "Decreto nº 3.275 de 15/05/1899",
+      "data": "1899-05-15",
+      "numero": "3275",
+      "urn": "urn:lex:br:federal:decreto:1899-05-15;3275",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTARÉM, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "400101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-12-3273",
+      "titulo": "Decreto nº 3.273 de 12/05/1899",
+      "data": "1899-05-12",
+      "numero": "3273",
+      "urn": "urn:lex:br:federal:decreto:1899-05-12;3273",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 50:333$342, PARA OCORRER AO PAGAMENTO DEVIDO A DIVERSOS OFICIAIS POR VENCIMENTOS QUE DEIXARAM DE RECEBER, NA QUALIDADE DE LENTES E PROFESSORES DOS INSTITUTOS MILITARES DE ENSINO."
+    },
+    {
+      "senadoId": "400097",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-08-3272",
+      "titulo": "Decreto nº 3.272 de 08/05/1899",
+      "data": "1899-05-08",
+      "numero": "3272",
+      "urn": "urn:lex:br:federal:decreto:1899-05-08;3272",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DA SOCIEDADE DE SEGURO MÚTUO SOBRE A VIDA - A EQUITATIVA DOS ESTADOS UNIDOS DO BRASIL."
+    },
+    {
+      "senadoId": "400093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-02-3271",
+      "titulo": "Decreto nº 3.271 de 02/05/1899",
+      "data": "1899-05-02",
+      "numero": "3271",
+      "urn": "urn:lex:br:federal:decreto:1899-05-02;3271",
+      "ementa": "COMPLETA O REGULAMENTO DE 15 DE JUNHO DE 1859 E ALTERA ALGUMAS DE SUAS DISPOSIÇÕES."
+    },
+    {
+      "senadoId": "400089",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-05-02-3270",
+      "titulo": "Decreto nº 3.270 de 02/05/1899",
+      "data": "1899-05-02",
+      "numero": "3270",
+      "urn": "urn:lex:br:federal:decreto:1899-05-02;3270",
+      "ementa": "SUBSTITUE A CLÁUSULA 32ª (COM REFERÊNCIA SOMENTE À COMPANHIA ESTRADA DE FERRO PETROLINA E PARNAÍBA) DO DECRETO NÚMERO 862, DE 16 DE OUTUBRO DE 1890."
+    },
+    {
+      "senadoId": "400085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-29-3269",
+      "titulo": "Decreto nº 3.269 de 29/04/1899",
+      "data": "1899-04-29",
+      "numero": "3269",
+      "urn": "urn:lex:br:federal:decreto:1899-04-29;3269",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO PRETO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-28-3268",
+      "titulo": "Decreto nº 3.268 de 28/04/1899",
+      "data": "1899-04-28",
+      "numero": "3268",
+      "urn": "urn:lex:br:federal:decreto:1899-04-28;3268",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 3.240, DE 28 DE MARÇO ÚLTIMO, QUE APROVOU OS TIPOS DE SEÇÕES TRANSVERSAIS PARA RECONSTRUÇÃO DOS TÚNEIS NÚMEROS 10 E 15 DA ESTRADA DE FERRO SANTOS A JUNDIAÍ E AUMENTOU O RESPECTIVO CAPITAL DE 1.297:302$487."
+    },
+    {
+      "senadoId": "400077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-24-3267",
+      "titulo": "Decreto nº 3.267 de 24/04/1899",
+      "data": "1899-04-24",
+      "numero": "3267",
+      "urn": "urn:lex:br:federal:decreto:1899-04-24;3267",
+      "ementa": "DÁ REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO DE CONSUMO DE ESPECIALIDADES FARMACÊUTICAS."
+    },
+    {
+      "senadoId": "400073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-22-3266",
+      "titulo": "Decreto nº 3.266 de 22/04/1899",
+      "data": "1899-04-22",
+      "numero": "3266",
+      "urn": "urn:lex:br:federal:decreto:1899-04-22;3266",
+      "ementa": "EQUIPARA O NÚMERO DE PREPARADORES DA CADEIRA DE HISTOLOGIA DA FACULDADE DE MEDICINA DO RIO DE JANEIRO AO DOS PREPARADORES DA CADEIRA DE ANATOMIA DESCRITIVA DA MESMA FACULDADE."
+    },
+    {
+      "senadoId": "400062",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-20-3263",
+      "titulo": "Decreto nº 3.263 de 20/04/1899",
+      "data": "1899-04-20",
+      "numero": "3263",
+      "urn": "urn:lex:br:federal:decreto:1899-04-20;3263",
+      "ementa": "APROVA A CONSOLIDAÇÃO DAS LEIS, DECRETOS E DECISÕES REFERENTES AO CORPO DIPLOMÁTICO BRASILEIRO."
+    },
+    {
+      "senadoId": "400066",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-20-3264",
+      "titulo": "Decreto nº 3.264 de 20/04/1899",
+      "data": "1899-04-20",
+      "numero": "3264",
+      "urn": "urn:lex:br:federal:decreto:1899-04-20;3264",
+      "ementa": "AUTORIZA O BANCO CONSTRUTOR DO BRASIL A ORGANIZAR COMPANHIA OU EMPRESA PARA EXPLORAR A CONCESSÃO DA ESTRADA DE FERRO DE VITÓRIA A PEÇANHA."
+    },
+    {
+      "senadoId": "400054",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-15-3261",
+      "titulo": "Decreto nº 3.261 de 15/04/1899",
+      "data": "1899-04-15",
+      "numero": "3261",
+      "urn": "urn:lex:br:federal:decreto:1899-04-15;3261",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE POUSO ALEGRE, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400050",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-15-3260",
+      "titulo": "Decreto nº 3.260 de 15/04/1899",
+      "data": "1899-04-15",
+      "numero": "3260",
+      "urn": "urn:lex:br:federal:decreto:1899-04-15;3260",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO FELIX, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "400058",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-15-3262",
+      "titulo": "Decreto nº 3.262 de 15/04/1899",
+      "data": "1899-04-15",
+      "numero": "3262",
+      "urn": "urn:lex:br:federal:decreto:1899-04-15;3262",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA LUZIA DO NORTE, NO ESTADO DE ALAGOAS."
+    },
+    {
+      "senadoId": "400046",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-11-3259",
+      "titulo": "Decreto nº 3.259 de 11/04/1899",
+      "data": "1899-04-11",
+      "numero": "3259",
+      "urn": "urn:lex:br:federal:decreto:1899-04-11;3259",
+      "ementa": "APROVA A CONSOLIDAÇÃO DAS LEIS, DECRETOS E DECISÕES REFERENTES AO CORPO CONSULAR BRASILEIRO."
+    },
+    {
+      "senadoId": "400042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-11-3258",
+      "titulo": "Decreto nº 3.258 de 11/04/1899",
+      "data": "1899-04-11",
+      "numero": "3258",
+      "urn": "urn:lex:br:federal:decreto:1899-04-11;3258",
+      "ementa": "DÁ NOVA REGULAMENTAÇÃO AOS CONSELHOS DE COMPRAS DA MARINHA."
+    },
+    {
+      "senadoId": "400034",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-10-3256",
+      "titulo": "Decreto nº 3.256 de 10/04/1899",
+      "data": "1899-04-10",
+      "numero": "3256",
+      "urn": "urn:lex:br:federal:decreto:1899-04-10;3256",
+      "ementa": "DÁ REGULAMENTO PARA A COBRANÇA DO IMPOSTO DE CONSUMO DE CALÇADO."
+    },
+    {
+      "senadoId": "400030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-10-3255",
+      "titulo": "Decreto nº 3.255 de 10/04/1899",
+      "data": "1899-04-10",
+      "numero": "3255",
+      "urn": "urn:lex:br:federal:decreto:1899-04-10;3255",
+      "ementa": "DÁ REGULAMENTO PARA A COBRANÇA DO IMPOSTO DE CONSUMO DE VELAS."
+    },
+    {
+      "senadoId": "400038",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-10-3257",
+      "titulo": "Decreto nº 3.257 de 10/04/1899",
+      "data": "1899-04-10",
+      "numero": "3257",
+      "urn": "urn:lex:br:federal:decreto:1899-04-10;3257",
+      "ementa": "DECLARA AS FALTAS COM QUE FOI IMPRESSO O CÓDIGO COMERCIAL."
+    },
+    {
+      "senadoId": "400026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-10-3254",
+      "titulo": "Decreto nº 3.254 de 10/04/1899",
+      "data": "1899-04-10",
+      "numero": "3254",
+      "urn": "urn:lex:br:federal:decreto:1899-04-10;3254",
+      "ementa": "DÁ REGULAMENTO PARA A COBRANÇA DO IMPOSTO DE CONSUMO DE PERFUMARIAS."
+    },
+    {
+      "senadoId": "400014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-08-3251",
+      "titulo": "Decreto nº 3.251 de 08/04/1899",
+      "data": "1899-04-08",
+      "numero": "3251",
+      "urn": "urn:lex:br:federal:decreto:1899-04-08;3251",
+      "ementa": "APROVA O REGULAMENTO PARA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "400022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-08-3253",
+      "titulo": "Decreto nº 3.253 de 08/04/1899",
+      "data": "1899-04-08",
+      "numero": "3253",
+      "urn": "urn:lex:br:federal:decreto:1899-04-08;3253",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA PIEDADE, ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-08-3252",
+      "titulo": "Decreto nº 3.252 de 08/04/1899",
+      "data": "1899-04-08",
+      "numero": "3252",
+      "urn": "urn:lex:br:federal:decreto:1899-04-08;3252",
+      "ementa": "CRIA OS LUGARES DE SUPLENTES DO SUBSTITUTO DO JUIZ FEDERAL NAS CIRCUNSCRIÇÕES DA SEÇÃO DO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "400002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-07-3248",
+      "titulo": "Decreto nº 3.248 de 07/04/1899",
+      "data": "1899-04-07",
+      "numero": "3248",
+      "urn": "urn:lex:br:federal:decreto:1899-04-07;3248",
+      "ementa": "DÁ REGIMENTO DEFINITIVO PARA O SERVIÇO DAS LEGAÇÕES."
+    },
+    {
+      "senadoId": "400006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-07-3249",
+      "titulo": "Decreto nº 3.249 de 07/04/1899",
+      "data": "1899-04-07",
+      "numero": "3249",
+      "urn": "urn:lex:br:federal:decreto:1899-04-07;3249",
+      "ementa": "APROVA O REGULAMENTO E TARIFAS DA ESTRADA DE FERRO DO RECIFE AO LIMOEIRO E TIMBAÚBA."
+    },
+    {
+      "senadoId": "400010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-07-3250",
+      "titulo": "Decreto nº 3.250 de 07/04/1899",
+      "data": "1899-04-07",
+      "numero": "3250",
+      "urn": "urn:lex:br:federal:decreto:1899-04-07;3250",
+      "ementa": "CONCEDE AUTORIZAÇÃO À \"BRASILIANISCHE ELEKTRICITATS GESELLSCHAFT\" PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "399998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-04-3247",
+      "titulo": "Decreto nº 3.247 de 04/04/1899",
+      "data": "1899-04-04",
+      "numero": "3247",
+      "urn": "urn:lex:br:federal:decreto:1899-04-04;3247",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 400:750$030 PARA OCORRER AO PAGAMENTO RECLAMADO POR D. DOMINGAS LAUDABOURO DELABARY COMO INDENIZAÇÃO POR PREJUÍZOS E DANOS A ELA CAUSADOS."
+    },
+    {
+      "senadoId": "399994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-04-01-3246",
+      "titulo": "Decreto nº 3.246 de 01/04/1899",
+      "data": "1899-04-01",
+      "numero": "3246",
+      "urn": "urn:lex:br:federal:decreto:1899-04-01;3246",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA  DE POUSO ALEGRE, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "399992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-31-3245-a",
+      "titulo": "Decreto nº 3.245-A de 31/03/1899",
+      "data": "1899-03-31",
+      "numero": "3245-a",
+      "urn": "urn:lex:br:federal:decreto:1899-03-31;3245-a",
+      "ementa": "ABRE AO MINISTERIO DA FAZENDA O CREDITO DE 575:000$, SUPLEMENTAR A VERBA - JUROS DIVERSOS - DO EXERCICIO DE 1898."
+    },
+    {
+      "senadoId": "399989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-30-3245",
+      "titulo": "Decreto nº 3.245 de 30/03/1899",
+      "data": "1899-03-30",
+      "numero": "3245",
+      "urn": "urn:lex:br:federal:decreto:1899-03-30;3245",
+      "ementa": "ABRE AO MINISTERIO DA FAZENDA O CREDITO DE 59:964$566, SUPLEMENTAR A VERBA - JUROS DOS DEPOSITOS DAS CAIXAS ECONOMICAS E MONTES DE SOCORRO - DO EXERCICIO DE 1898."
+    },
+    {
+      "senadoId": "399985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-29-3244",
+      "titulo": "Decreto nº 3.244 de 29/03/1899",
+      "data": "1899-03-29",
+      "numero": "3244",
+      "urn": "urn:lex:br:federal:decreto:1899-03-29;3244",
+      "ementa": "REORGANIZA A ASSISTÊNCIA A ALIENADOS."
+    },
+    {
+      "senadoId": "399982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-28-3243",
+      "titulo": "Decreto nº 3.243 de 28/03/1899",
+      "data": "1899-03-28",
+      "numero": "3243",
+      "urn": "urn:lex:br:federal:decreto:1899-03-28;3243",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 30:000$, SUPLEMENTAR À VERBA - COMISSÕES E CORRETAGENS - DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399974",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-28-3241",
+      "titulo": "Decreto nº 3.241 de 28/03/1899",
+      "data": "1899-03-28",
+      "numero": "3241",
+      "urn": "urn:lex:br:federal:decreto:1899-03-28;3241",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO ESPECIAL DE 3.600:000$, PARA PAGAMENTO DO JUROS DO EMPRÉSTIMO INTERNO DE 1897."
+    },
+    {
+      "senadoId": "399978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-28-3242",
+      "titulo": "Decreto nº 3.242 de 28/03/1899",
+      "data": "1899-03-28",
+      "numero": "3242",
+      "urn": "urn:lex:br:federal:decreto:1899-03-28;3242",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 7:200$, SUPLEMENTAR À VERBA - CAIXA DE AMORTIZAÇÃO - DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399962",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-28-3238",
+      "titulo": "Decreto nº 3.238 de 28/03/1899",
+      "data": "1899-03-28",
+      "numero": "3238",
+      "urn": "urn:lex:br:federal:decreto:1899-03-28;3238",
+      "ementa": "ESTABELECE REGRAS PARA AS NOMEAÇÕES DE COMANDOS, ADMINISTRAÇÃO MILITAR E TEMPO DE DURAÇÃO DESSAS COMISSÕES."
+    },
+    {
+      "senadoId": "399970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-28-3240",
+      "titulo": "Decreto nº 3.240 de 28/03/1899",
+      "data": "1899-03-28",
+      "numero": "3240",
+      "urn": "urn:lex:br:federal:decreto:1899-03-28;3240",
+      "ementa": "APROVA OS TIPOS DE SEÇÕES TRANSVERSAIS E RESPECTIVO ORÇAMENTO NA IMPORTÂNCIA DE 1.297:302$487, PARA RECONSTRUÇÃO DOS TÚNEIS NÚMEROS 10 E 15, DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "399966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-28-3239",
+      "titulo": "Decreto nº 3.239 de 28/03/1899",
+      "data": "1899-03-28",
+      "numero": "3239",
+      "urn": "urn:lex:br:federal:decreto:1899-03-28;3239",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO SUPLEMENTAR DA QUANTIA DE 61:037$111 AO § 11 - ETAPAS - DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-18-3237",
+      "titulo": "Decreto nº 3.237 de 18/03/1899",
+      "data": "1899-03-18",
+      "numero": "3237",
+      "urn": "urn:lex:br:federal:decreto:1899-03-18;3237",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO SUPLEMENTAR DE 20:592$, PARA PAGAMENTO DOS JUROS GARANTIDOS AO PROLONGAMENTO DA ESTRADA DE FERRO BARÃO DE ARARUAMA EM RELAÇÃO AO SEGUNDO SEMESTRE DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399942",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-17-3233",
+      "titulo": "Decreto nº 3.233 de 17/03/1899",
+      "data": "1899-03-17",
+      "numero": "3233",
+      "urn": "urn:lex:br:federal:decreto:1899-03-17;3233",
+      "ementa": "REFORMA O REGULAMENTO DA ESCOLA NAVAL, MANDADO EXECUTAR PELO DECRETO NÚMERO 2799, DE 19 DE JANEIRO DE 1898."
+    },
+    {
+      "senadoId": "399954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-17-3236",
+      "titulo": "Decreto nº 3.236 de 17/03/1899",
+      "data": "1899-03-17",
+      "numero": "3236",
+      "urn": "urn:lex:br:federal:decreto:1899-03-17;3236",
+      "ementa": "MODIFICA O ARTIGO 5º DO REGULAMENTO DA SECRETARIA DE ESTADO DA GUERRA."
+    },
+    {
+      "senadoId": "399946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-17-3234",
+      "titulo": "Decreto nº 3.234 de 17/03/1899",
+      "data": "1899-03-17",
+      "numero": "3234",
+      "urn": "urn:lex:br:federal:decreto:1899-03-17;3234",
+      "ementa": "APROVA O REGULAMENTO GERAL PARA O CORPO DE OFICIAIS INFERIORES DA ARMADA."
+    },
+    {
+      "senadoId": "399950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-17-3235",
+      "titulo": "Decreto nº 3.235 de 17/03/1899",
+      "data": "1899-03-17",
+      "numero": "3235",
+      "urn": "urn:lex:br:federal:decreto:1899-03-17;3235",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO ESPECIAL DA QUANTIA DE 62:344$171 PARA OCORRER AO PAGAMENTO AO MAJOR MÉDICO DE 3ª CLASSE DO EXÉRCITO DR. AFFONSO LOPES MACHADO DE VENCIMENTOS DE PROFESSOR DA EXTINTA ESCOLA MILITAR DESTA CAPITAL, QUE DEIXOU DE RECEBER DESDE JANEIRO DE 1895, E BEM ASSIM A VÁRIOS LENTES E PROFESSORES VITALÍCIOS EM IDÊNTICAS CONDIÇÕES."
+    },
+    {
+      "senadoId": "399938",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-16-3232",
+      "titulo": "Decreto nº 3.232 de 16/03/1899",
+      "data": "1899-03-16",
+      "numero": "3232",
+      "urn": "urn:lex:br:federal:decreto:1899-03-16;3232",
+      "ementa": "SUPRIME OS BILHETES ESPECIAIS DE PASSAGENS DE IDA E VOLTA PARA A ESTAÇÃO DE CALDAS, DA ESTRADA DE FERRO MOGIANA."
+    },
+    {
+      "senadoId": "399934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-16-3231",
+      "titulo": "Decreto nº 3.231 de 16/03/1899",
+      "data": "1899-03-16",
+      "numero": "3231",
+      "urn": "urn:lex:br:federal:decreto:1899-03-16;3231",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA DE SEGUROS \"MAUNHEIMER VERSICHERUNGS GESELLSCHAFT\" PARA ESTABELECER UMA AGÊNCIA NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "399926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-14-3229",
+      "titulo": "Decreto nº 3.229 de 14/03/1899",
+      "data": "1899-03-14",
+      "numero": "3229",
+      "urn": "urn:lex:br:federal:decreto:1899-03-14;3229",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA ASSOCIAÇÃO DE AUXÍLIOS MÚTUOS ENTRE OS FUNCIONÁRIOS DO ESTADO DO RIO DE JANEIRO - MUTUALIDADE."
+    },
+    {
+      "senadoId": "399922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-14-3228",
+      "titulo": "Decreto nº 3.228 de 14/03/1899",
+      "data": "1899-03-14",
+      "numero": "3228",
+      "urn": "urn:lex:br:federal:decreto:1899-03-14;3228",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 48:125$780, SUPLEMENTAR À VERBA - AJUDAS DE CUSTO, DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-14-3230",
+      "titulo": "Decreto nº 3.230 de 14/03/1899",
+      "data": "1899-03-14",
+      "numero": "3230",
+      "urn": "urn:lex:br:federal:decreto:1899-03-14;3230",
+      "ementa": "MODIFICA O PESSOAL DA COMISSÃO DAS OBRAS DA BARRA E DO PORTO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "399915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-13-3226",
+      "titulo": "Decreto nº 3.226 de 13/03/1899",
+      "data": "1899-03-13",
+      "numero": "3226",
+      "urn": "urn:lex:br:federal:decreto:1899-03-13;3226",
+      "ementa": "DÁ REGULAMENTO PARA A COBRANÇA DO IMPOSTO DE CONSUMO DE BEBIDAS."
+    },
+    {
+      "senadoId": "399911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-11-3225",
+      "titulo": "Decreto nº 3.225 de 11/03/1899",
+      "data": "1899-03-11",
+      "numero": "3225",
+      "urn": "urn:lex:br:federal:decreto:1899-03-11;3225",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES O CRÉDITO ESPECIAL DE 4:927$620, PARA PAGAMENTO DOS ORDENADOS E CUSTAS A JUÍZES DE DIREITO QUE REVERTEREM À DISPONIBILIDADE."
+    },
+    {
+      "senadoId": "399899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-10-3222",
+      "titulo": "Decreto nº 3.222 de 10/03/1899",
+      "data": "1899-03-10",
+      "numero": "3222",
+      "urn": "urn:lex:br:federal:decreto:1899-03-10;3222",
+      "ementa": "PUBLICA A ADESÃO, A PARTIR DE 1 DE JANEIRO DO CORRENTE ANO, DO REINO UNIDO DA GRÃ-BRETANHA E IRLANDA AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO À PERMUTAÇÃO DE CARTAS E ENCOMENDAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "399903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-10-3223",
+      "titulo": "Decreto nº 3.223 de 10/03/1899",
+      "data": "1899-03-10",
+      "numero": "3223",
+      "urn": "urn:lex:br:federal:decreto:1899-03-10;3223",
+      "ementa": "PUBLICA A ADESÃO, A PARTIR DE 1 DE ABRIL PRÓXIMO, DA ÍNDIA BRITÂNICA AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO À PERMUTAÇÃO DE CARTAS E ENCOMENDAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "399907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-10-3224",
+      "titulo": "Decreto nº 3.224 de 10/03/1899",
+      "data": "1899-03-10",
+      "numero": "3224",
+      "urn": "urn:lex:br:federal:decreto:1899-03-10;3224",
+      "ementa": "APROVA O REGULAMENTO DO TIRO NACIONAL."
+    },
+    {
+      "senadoId": "399891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-07-3220",
+      "titulo": "Decreto nº 3.220 de 07/03/1899",
+      "data": "1899-03-07",
+      "numero": "3220",
+      "urn": "urn:lex:br:federal:decreto:1899-03-07;3220",
+      "ementa": "APROVA O REGULAMENTO DA DIREÇÃO GERAL DE SAÚDE."
+    },
+    {
+      "senadoId": "399895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-07-3221",
+      "titulo": "Decreto nº 3.221 de 07/03/1899",
+      "data": "1899-03-07",
+      "numero": "3221",
+      "urn": "urn:lex:br:federal:decreto:1899-03-07;3221",
+      "ementa": "ABRE AO MINISTÉRIO DA GUERRA O CRÉDITO DA QUANTIA DE 574:906$492, SUPLEMENTAR À VERBA 16ª - MATERIAL - CONSIGNAÇÃO NÚMERO 36 - TRANSPORTE DE TROPAS, ETC., DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-03-04-3219",
+      "titulo": "Decreto nº 3.219 de 04/03/1899",
+      "data": "1899-03-04",
+      "numero": "3219",
+      "urn": "urn:lex:br:federal:decreto:1899-03-04;3219",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES NOVO CRÉDITO SUPLEMENTAR DE 87:800$919 À VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-28-3217",
+      "titulo": "Decreto nº 3.217 de 28/02/1899",
+      "data": "1899-02-28",
+      "numero": "3217",
+      "urn": "urn:lex:br:federal:decreto:1899-02-28;3217",
+      "ementa": "CONCEDE AUTORIZAÇÃO A L. PAULINO & COMP. PARA ORGANIZAREM UMA SOCIEDADE ANÔNIMA SOB A DENOMINAÇÃO DE - FÁBRICA NACIONAL DE CONSERVAS ALIMENTARES."
+    },
+    {
+      "senadoId": "399883",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-28-3218",
+      "titulo": "Decreto nº 3.218 de 28/02/1899",
+      "data": "1899-02-28",
+      "numero": "3218",
+      "urn": "urn:lex:br:federal:decreto:1899-02-28;3218",
+      "ementa": "ANULA A CRIAÇÃO DO CONSULADO EM DRESDE."
+    },
+    {
+      "senadoId": "399875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-21-3216",
+      "titulo": "Decreto nº 3.216 de 21/02/1899",
+      "data": "1899-02-21",
+      "numero": "3216",
+      "urn": "urn:lex:br:federal:decreto:1899-02-21;3216",
+      "ementa": "APROVA A PLANTA E ORÇAMENTO PARA A CONSTRUÇÃO DE UM ARMAZÉM EM TUPACERETAN, DA ESTRADA DE FERRO DE SANTA MARIA AO URUGUAI."
+    },
+    {
+      "senadoId": "399867",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-21-3214",
+      "titulo": "Decreto nº 3.214 de 21/02/1899",
+      "data": "1899-02-21",
+      "numero": "3214",
+      "urn": "urn:lex:br:federal:decreto:1899-02-21;3214",
+      "ementa": "DÁ REGULAMENTO PARA A COBRANÇA DO IMPOSTO DE CONSUMO DO FUMO."
+    },
+    {
+      "senadoId": "399871",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-21-3215",
+      "titulo": "Decreto nº 3.215 de 21/02/1899",
+      "data": "1899-02-21",
+      "numero": "3215",
+      "urn": "urn:lex:br:federal:decreto:1899-02-21;3215",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NAS TARIFAS EM VIGOR NA ESTRADA DE FERRO DE SANTA MARIA AO URUGUAI."
+    },
+    {
+      "senadoId": "399863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-20-3213",
+      "titulo": "Decreto nº 3.213 de 20/02/1899",
+      "data": "1899-02-20",
+      "numero": "3213",
+      "urn": "urn:lex:br:federal:decreto:1899-02-20;3213",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO SUPLEMENTAR DE 280:000$ PARA PAGAMENTO DE PORCENTAGENS DEVIDOS AOS EMPREGADOS DE DIVERSAS REPARTIÇÕES ARRECADADORAS NO EXERCÍCIO DE 1898."
+    },
+    {
+      "senadoId": "399859",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-11-3212",
+      "titulo": "Decreto nº 3.212 de 11/02/1899",
+      "data": "1899-02-11",
+      "numero": "3212",
+      "urn": "urn:lex:br:federal:decreto:1899-02-11;3212",
+      "ementa": "EQUIPARA OS VENCIMENTOS DOS EMPREGADOS DAS FACULDADES DE DIREITO DE SÃO PAULO E DO RECIFE AOS DOS EMPREGADOS DA FACULDADE DE MEDICINA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "399855",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-11-3211",
+      "titulo": "Decreto nº 3.211 de 11/02/1899",
+      "data": "1899-02-11",
+      "numero": "3211",
+      "urn": "urn:lex:br:federal:decreto:1899-02-11;3211",
+      "ementa": "APROVA O REGULAMENTO PARA O MUSEU NACIONAL."
+    },
+    {
+      "senadoId": "399851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-02-09-3210",
+      "titulo": "Decreto nº 3.210 de 09/02/1899",
+      "data": "1899-02-09",
+      "numero": "3210",
+      "urn": "urn:lex:br:federal:decreto:1899-02-09;3210",
+      "ementa": "DÁ PROVIDÊNCIAS SOBRE A GUARDA E ENTREGA DOS ARQUIVOS DAS LEGAÇÕES E DOS CONSULADOS E OUTRAS."
+    },
+    {
+      "senadoId": "399843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-31-3208",
+      "titulo": "Decreto nº 3.208 de 31/01/1899",
+      "data": "1899-01-31",
+      "numero": "3208",
+      "urn": "urn:lex:br:federal:decreto:1899-01-31;3208",
+      "ementa": "AUTORIZA O CONTRATO COM CARLOS ALEGRE PARA CONCLUIR O TRECHO DO EXTINTO PROLONGAMENTO DA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAIANA, ENTRE CARVORACY E ALEGRETE, E TRAFEGÁ-LO CONJUNTAMENTE COM O DE CARVORACY A URUGUAIANA."
+    },
+    {
+      "senadoId": "399847",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-31-3209",
+      "titulo": "Decreto nº 3.209 de 31/01/1899",
+      "data": "1899-01-31",
+      "numero": "3209",
+      "urn": "urn:lex:br:federal:decreto:1899-01-31;3209",
+      "ementa": "DECLARA CADUCA A PATENTE DE INVENÇÃO DE NÚMERO 1985, DE 8 DE JANEIRO DE 1896."
+    },
+    {
+      "senadoId": "399839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-30-3207",
+      "titulo": "Decreto nº 3.207 de 30/01/1899",
+      "data": "1899-01-30",
+      "numero": "3207",
+      "urn": "urn:lex:br:federal:decreto:1899-01-30;3207",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 1.402:609$760, SUPLEMENTAR À VERBA - JUROS E AMORTIZAÇÃO DA DÍVIDA INTERNA."
+    },
+    {
+      "senadoId": "399835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-28-3206",
+      "titulo": "Decreto nº 3.206 de 28/01/1899",
+      "data": "1899-01-28",
+      "numero": "3206",
+      "urn": "urn:lex:br:federal:decreto:1899-01-28;3206",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "399823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-26-3203",
+      "titulo": "Decreto nº 3.203 de 26/01/1899",
+      "data": "1899-01-26",
+      "numero": "3203",
+      "urn": "urn:lex:br:federal:decreto:1899-01-26;3203",
+      "ementa": "PRORROGA POR MAIS CINCO ANOS O PRAZO FIXADO NO DECRETO NÚMERO 1079, DE 28 DE NOVEMBRO DE 1890, PARA A COMPANHIA MELHORAMENTOS DA LAGOA E BOTAFOGO TERMINAR AS OBRAS DE SANEAMENTO DA LAGOA RODRIGO DE FREITAS."
+    },
+    {
+      "senadoId": "399827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-26-3204",
+      "titulo": "Decreto nº 3.204 de 26/01/1899",
+      "data": "1899-01-26",
+      "numero": "3204",
+      "urn": "urn:lex:br:federal:decreto:1899-01-26;3204",
+      "ementa": "APROVA A PLANTA DO TERRENO NECESSÁRIO A CONSTRUÇÃO DE UM HOTEL-RESTAURANTE JUNTO A ESTAÇÃO DO SILVESTRE, DA ESTRADA DE FERRO DO CORCOVADO."
+    },
+    {
+      "senadoId": "399831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-26-3205",
+      "titulo": "Decreto nº 3.205 de 26/01/1899",
+      "data": "1899-01-26",
+      "numero": "3205",
+      "urn": "urn:lex:br:federal:decreto:1899-01-26;3205",
+      "ementa": "APROVA O REGULAMENTO DA DIREÇÃO GERAL DE ARTILHARIA."
+    },
+    {
+      "senadoId": "399819",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-26-3202",
+      "titulo": "Decreto nº 3.202 de 26/01/1899",
+      "data": "1899-01-26",
+      "numero": "3202",
+      "urn": "urn:lex:br:federal:decreto:1899-01-26;3202",
+      "ementa": "ESTABELECE REGRAS PARA EXECUÇÃO DO ARTIGO 12 DA LEI 560, DE 31 DE DEZEMBRO DE 1898, NA PARTE RELATIVA AOS VICE-CONSULADOS REMUNERADOS PELO TESOURO FEDERAL."
+    },
+    {
+      "senadoId": "399815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-23-3201",
+      "titulo": "Decreto nº 3.201 de 23/01/1899",
+      "data": "1899-01-23",
+      "numero": "3201",
+      "urn": "urn:lex:br:federal:decreto:1899-01-23;3201",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 764:736$262, SUPLEMENTAR À VERBA - EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "399811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-21-3200",
+      "titulo": "Decreto nº 3.200 de 21/01/1899",
+      "data": "1899-01-21",
+      "numero": "3200",
+      "urn": "urn:lex:br:federal:decreto:1899-01-21;3200",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAPARICA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "399795",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-19-3196",
+      "titulo": "Decreto nº 3.196 de 19/01/1899",
+      "data": "1899-01-19",
+      "numero": "3196",
+      "urn": "urn:lex:br:federal:decreto:1899-01-19;3196",
+      "ementa": "ABRE AO MINISTÉRIO DAS RELAÇÕES EXTERIORES UM CRÉDITO EXTRAORDINÁRIO DE 30:000$, MOEDA DO PAÍS, PARA O PAGAMENTO DE UMA INDENIZAÇÃO AO SÚDITO ALEMÃO CARLOS ROTH."
+    },
+    {
+      "senadoId": "399803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-19-3198",
+      "titulo": "Decreto nº 3.198 de 19/01/1899",
+      "data": "1899-01-19",
+      "numero": "3198",
+      "urn": "urn:lex:br:federal:decreto:1899-01-19;3198",
+      "ementa": "APROVA O REGULAMENTO DA DIREÇÃO GERAL DE ENGENHARIA."
+    },
+    {
+      "senadoId": "399807",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-19-3199",
+      "titulo": "Decreto nº 3.199 de 19/01/1899",
+      "data": "1899-01-19",
+      "numero": "3199",
+      "urn": "urn:lex:br:federal:decreto:1899-01-19;3199",
+      "ementa": "APROVA O REGULAMENTO DOS COMANDOS DOS DISTRITOS MILITARES."
+    },
+    {
+      "senadoId": "399799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-19-3197",
+      "titulo": "Decreto nº 3.197 de 19/01/1899",
+      "data": "1899-01-19",
+      "numero": "3197",
+      "urn": "urn:lex:br:federal:decreto:1899-01-19;3197",
+      "ementa": "REORGANIZA O CORPO DE ENGENHEIROS NAVAIS."
+    },
+    {
+      "senadoId": "399791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-13-3195",
+      "titulo": "Decreto nº 3.195 de 13/01/1899",
+      "data": "1899-01-13",
+      "numero": "3195",
+      "urn": "urn:lex:br:federal:decreto:1899-01-13;3195",
+      "ementa": "SUPRIME OS ARSENAIS DE GUERRA DO PARA, PERNAMBUCO E BAHIA, EXTINGUE AS COMPANHIAS DE OPERARIOS MILITARES E DE APRENDIZES ARTIFICES. CRIA DEPOSITOS DE ARTIGOS BELICOS E DISPÕE SOBRE OS RESPECTIVOS PREDIOS E TERRENOS."
+    },
+    {
+      "senadoId": "399779",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-12-3192",
+      "titulo": "Decreto nº 3.192 de 12/01/1899",
+      "data": "1899-01-12",
+      "numero": "3192",
+      "urn": "urn:lex:br:federal:decreto:1899-01-12;3192",
+      "ementa": "SUPRIME O CONSULADO NO ROSARIO."
+    },
+    {
+      "senadoId": "399783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-12-3193",
+      "titulo": "Decreto nº 3.193 de 12/01/1899",
+      "data": "1899-01-12",
+      "numero": "3193",
+      "urn": "urn:lex:br:federal:decreto:1899-01-12;3193",
+      "ementa": "APROVA O REGULAMENTO DA INTENDÊNCIA GERAL DA GUERRA."
+    },
+    {
+      "senadoId": "399787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-12-3194",
+      "titulo": "Decreto nº 3.194 de 12/01/1899",
+      "data": "1899-01-12",
+      "numero": "3194",
+      "urn": "urn:lex:br:federal:decreto:1899-01-12;3194",
+      "ementa": "MANDA COMPLETAR A TABELA N. 4 DO CÓDIGO DE SINAIS COMUM A TODOS OS PORTOS E BARRAS DA REPÚBLICA."
+    },
+    {
+      "senadoId": "399775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-07-3191",
+      "titulo": "Decreto nº 3.191 de 07/01/1899",
+      "data": "1899-01-07",
+      "numero": "3191",
+      "urn": "urn:lex:br:federal:decreto:1899-01-07;3191",
+      "ementa": "REORGANIZA A SECRETARIA DE ESTADO DA JUSTIÇA E NEGÓCIOS INTERIORES."
+    },
+    {
+      "senadoId": "399771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-07-3190",
+      "titulo": "Decreto nº 3.190 de 07/01/1899",
+      "data": "1899-01-07",
+      "numero": "3190",
+      "urn": "urn:lex:br:federal:decreto:1899-01-07;3190",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ALAGOINHAS, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "399767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-06-3189",
+      "titulo": "Decreto nº 3.189 de 06/01/1899",
+      "data": "1899-01-06",
+      "numero": "3189",
+      "urn": "urn:lex:br:federal:decreto:1899-01-06;3189",
+      "ementa": "APROVA O REGULAMENTO PARA O ESTADO-MAIOR DO EXÉRCITO."
+    },
+    {
+      "senadoId": "399763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-05-3188",
+      "titulo": "Decreto nº 3.188 de 05/01/1899",
+      "data": "1899-01-05",
+      "numero": "3188",
+      "urn": "urn:lex:br:federal:decreto:1899-01-05;3188",
+      "ementa": "SUPRIME OS ARSENAIS DE MARINHA ESTABELECIDOS NOS ESTADOS DE PERNAMBUCO E DA BAHIA E MANDA ALIENAR OS RESPECTIVOS TERRENOS E PRÉDIOS."
+    },
+    {
+      "senadoId": "399759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1899-01-03-3187",
+      "titulo": "Decreto nº 3.187 de 03/01/1899",
+      "data": "1899-01-03",
+      "numero": "3187",
+      "urn": "urn:lex:br:federal:decreto:1899-01-03;3187",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NAS TARIFAS EM VIGOR NA ESTRADA DE FERRO CENTRAL DA BAHIA."
+    }
+  ],
+  "pendencias": []
+}

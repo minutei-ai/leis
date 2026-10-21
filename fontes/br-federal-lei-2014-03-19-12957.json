@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-03-19-12957",
+  "titulo": "Lei nº 12.957 de 19/03/2014",
+  "data": "2014-03-19",
+  "fonte": "https://normas.leg.br/api/public/binario/a67edff8-2c62-4eff-9241-dd6da5f9c54f/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-03-19;12957",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-03-19%3B12957&tipo_documento=maior-detalhe",
+  "sha256_dados": "d582341b631018fa51c43a8b131bf52125202de78107f769d9240d7113bd5227",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:06:06.926Z",
+  "sha256_fonte": "90811aa82e3479ac32f65d077d9b0b89d0c6c6f2f14c670ce3a2cbb280736ed1",
+  "sha256_markdown": "de7323dc45c82ac5578dddb4c82e593c7951114911f92cf5f638f0f090ed5c67"
+}

@@ -1,0 +1,2059 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1852",
+  "tipo": "DEC",
+  "ano": 1852,
+  "coletado_em": "2026-10-21T08:52:47.255Z",
+  "normas": [
+    {
+      "senadoId": "391020",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-29-1100",
+      "titulo": "Decreto nº 1.100 de 29/12/1852",
+      "data": "1852-12-29",
+      "numero": "1100",
+      "urn": "urn:lex:br:federal:decreto:1852-12-29;1100",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE RÉIS 17.073$761 PARA O EXERCÍCIO DE 1851-52, NA FORMA DA TABELA QUE COM ELE BAIXA."
+    },
+    {
+      "senadoId": "391015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-29-1099",
+      "titulo": "Decreto nº 1.099 de 29/12/1852",
+      "data": "1852-12-29",
+      "numero": "1099",
+      "urn": "urn:lex:br:federal:decreto:1852-12-29;1099",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA NOVA CAPITAL DA PROVINCIA DO PIAUI."
+    },
+    {
+      "senadoId": "391030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-29-1102",
+      "titulo": "Decreto nº 1.102 de 29/12/1852",
+      "data": "1852-12-29",
+      "numero": "1102",
+      "urn": "urn:lex:br:federal:decreto:1852-12-29;1102",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE DIQUES FLUTUANTES."
+    },
+    {
+      "senadoId": "391025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-29-1101",
+      "titulo": "Decreto nº 1.101 de 29/12/1852",
+      "data": "1852-12-29",
+      "numero": "1101",
+      "urn": "urn:lex:br:federal:decreto:1852-12-29;1101",
+      "ementa": "APROVA OS ESTATUTOS DA IMPERIAL COMPANHIA DE NAVEGAÇÃO A VAPOR E ESTRADA DE FERRO DE PETRÓPOLIS, COM AS MODIFICAÇÕES ABAIXO MENCIONADAS."
+    },
+    {
+      "senadoId": "391005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-22-1097",
+      "titulo": "Decreto nº 1.097 de 22/12/1852",
+      "data": "1852-12-22",
+      "numero": "1097",
+      "urn": "urn:lex:br:federal:decreto:1852-12-22;1097",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, UM CRÉDITO SUPLEMENTAR DE DUZENTOS CONTOS DE RÉIS PARA OCORRER AO DÉFICIT PRESUMÍVEL DA RUBRICA \"OBRAS\" NO EXERCÍCIO DE 1852-53."
+    },
+    {
+      "senadoId": "391010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-22-1098",
+      "titulo": "Decreto nº 1.098 de 22/12/1852",
+      "data": "1852-12-22",
+      "numero": "1098",
+      "urn": "urn:lex:br:federal:decreto:1852-12-22;1098",
+      "ementa": "ESPAÇA ATÉ O FIM DE MARÇO DE 1853 O PRAZO DE SEIS MESES CONCEDIDOS À COMPANHIA DE NAVEGAÇÃO DE NITERÓI PARA FAZER O SERVIÇO DA CARREIRA DE MEIA EM MEIA HORA."
+    },
+    {
+      "senadoId": "391000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-19-1096",
+      "titulo": "Decreto nº 1.096 de 19/12/1852",
+      "data": "1852-12-19",
+      "numero": "1096",
+      "urn": "urn:lex:br:federal:decreto:1852-12-19;1096",
+      "ementa": "CONCEDE A TEODORO KLETT, PRIVILÉGIO EXCLUSIVO POR TEMPO DE CINCO ANOS, PARA O FABRICO DE CARROS PARA TRANSPORTE DE PASSAGEIROS DENOMINADOS \"DILIGÊNCIAS\"."
+    },
+    {
+      "senadoId": "390990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-15-1094",
+      "titulo": "Decreto nº 1.094 de 15/12/1852",
+      "data": "1852-12-15",
+      "numero": "1094",
+      "urn": "urn:lex:br:federal:decreto:1852-12-15;1094",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE QUEXERAMOBIM, RIACHO DE SANGUE, E VILA DE SÃO JOÃO DO PRÍNCIPE DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390980",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-15-1092",
+      "titulo": "Decreto nº 1.092 de 15/12/1852",
+      "data": "1852-12-15",
+      "numero": "1092",
+      "urn": "urn:lex:br:federal:decreto:1852-12-15;1092",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DO ICÓ DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-15-1091",
+      "titulo": "Decreto nº 1.091 de 15/12/1852",
+      "data": "1852-12-15",
+      "numero": "1091",
+      "urn": "urn:lex:br:federal:decreto:1852-12-15;1091",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DO ARACATI DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-15-1095",
+      "titulo": "Decreto nº 1.095 de 15/12/1852",
+      "data": "1852-12-15",
+      "numero": "1095",
+      "urn": "urn:lex:br:federal:decreto:1852-12-15;1095",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE BATURITÉ, E VILA DE CANINDÉ DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-15-1093",
+      "titulo": "Decreto nº 1.093 de 15/12/1852",
+      "data": "1852-12-15",
+      "numero": "1093",
+      "urn": "urn:lex:br:federal:decreto:1852-12-15;1093",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA VILA DO AQUIRAZ DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-14-1090",
+      "titulo": "Decreto nº 1.090 de 14/12/1852",
+      "data": "1852-12-14",
+      "numero": "1090",
+      "urn": "urn:lex:br:federal:decreto:1852-12-14;1090",
+      "ementa": "APROVA O REGULAMENTO PARA EXECUÇÃO DO PARÁGRAFO 3º DO ARTIGO 10 DA LEI 648 DE 18 DE AGOSTO DE 1852."
+    },
+    {
+      "senadoId": "390966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-14-1089",
+      "titulo": "Decreto nº 1.089 de 14/12/1852",
+      "data": "1852-12-14",
+      "numero": "1089",
+      "urn": "urn:lex:br:federal:decreto:1852-12-14;1089",
+      "ementa": "APROVA O REGULAMENTO QUE DETERMINA O MODO PRÁTICO DE DISTRIBUIR-SE O NÚMERO DE RECRUTAS ANUALMENTE PRECISOS PARA O SERVIÇO DO EXÉRCITO."
+    },
+    {
+      "senadoId": "390951",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-13-1086",
+      "titulo": "Decreto nº 1.086 de 13/12/1852",
+      "data": "1852-12-13",
+      "numero": "1086",
+      "urn": "urn:lex:br:federal:decreto:1852-12-13;1086",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA ILUSTRÍSSIMA CÂMARA DO MUNICÍPIO DA CORTE, PARA O ANO MUNICIPAL DO 1º DE JANEIRO A 31 DE DEZEMBRO DE 1853."
+    },
+    {
+      "senadoId": "390956",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-13-1087",
+      "titulo": "Decreto nº 1.087 de 13/12/1852",
+      "data": "1852-12-13",
+      "numero": "1087",
+      "urn": "urn:lex:br:federal:decreto:1852-12-13;1087",
+      "ementa": "ESTABELECE NOVAS CONDIÇÕES MODIFICATIVAS DAS QUE ACOMPANHARÃO O DECRETO DE 9 DE MAIO DE 1840, QUE CONCEDEU A JOAQUIM JOSÉ PEREIRA DE FARO, E OUTROS PRIVILÉGIO PARA A FORMAÇÃO DE UMA COMPANHIA COM O FIM DE CONSTRUIR UM CAMINHO SOBRE O MAR, QUE COMUNIQUE A RUA DA UNIÃO, NO SACO DO ALFERES, COM A DO IMPERADOR NO SÍTIO DE SÃO CRISTOVÃO."
+    },
+    {
+      "senadoId": "390961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-13-1088",
+      "titulo": "Decreto nº 1.088 de 13/12/1852",
+      "data": "1852-12-13",
+      "numero": "1088",
+      "urn": "urn:lex:br:federal:decreto:1852-12-13;1088",
+      "ementa": "CONCEDE A IRENEU EVANGELISTA DE SOUSA PRIVILÉGIO EXCLUSIVO POR 80 ANOS PARA A FATURA DE UMA ESTRADA DE FERRO DE PETRÓPOLIS ATÉ O RIO PARAÍBA, NAS IMEDIAÇÕES DO PONTO DENOMINADO \"TRÊS BARRAS\", E DALI ATÉ O PORTO NOVO DO CUNHA."
+    },
+    {
+      "senadoId": "390941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-11-1084",
+      "titulo": "Decreto nº 1.084 de 11/12/1852",
+      "data": "1852-12-11",
+      "numero": "1084",
+      "urn": "urn:lex:br:federal:decreto:1852-12-11;1084",
+      "ementa": "CRIA O LUGAR DE PROMOTOR PÚBLICO NA NOVA COMARCA DE PORTO CALVO DA PROVÍNCIA DAS ALAGOAS, E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390936",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-11-1083",
+      "titulo": "Decreto nº 1.083 de 11/12/1852",
+      "data": "1852-12-11",
+      "numero": "1083",
+      "urn": "urn:lex:br:federal:decreto:1852-12-11;1083",
+      "ementa": "CRIA O LUGAR DE PROMOTOR PÚBLICO NAS NOVAS COMARCAS DE JACAREÍ, DE ITAPETININGA, DE GUARATINGUETÁ, E DA FRANCA DA PROVÍNCIA DE SÃO PAULO; E MARCA A CADA UM DELES O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-11-1082",
+      "titulo": "Decreto nº 1.082 de 11/12/1852",
+      "data": "1852-12-11",
+      "numero": "1082",
+      "urn": "urn:lex:br:federal:decreto:1852-12-11;1082",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA AS COMARCAS DA FRANCA, E DE GUARATINGUETÁ, E DE 2ª AS DE JACAREÍ, E DE ITAPETININGA, CRIADAS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "390926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-11-1081",
+      "titulo": "Decreto nº 1.081 de 11/12/1852",
+      "data": "1852-12-11",
+      "numero": "1081",
+      "urn": "urn:lex:br:federal:decreto:1852-12-11;1081",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA O ARRENDAMENTO DE TERRENOS DIAMANTINOS."
+    },
+    {
+      "senadoId": "390921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-11-1080",
+      "titulo": "Decreto nº 1.080 de 11/12/1852",
+      "data": "1852-12-11",
+      "numero": "1080",
+      "urn": "urn:lex:br:federal:decreto:1852-12-11;1080",
+      "ementa": "APROVA OS ESTATUTOS DA CAIXA ECONÔMICA DA CIDADE DE VALENÇA, NA PROVÍNCIA DA BAHIA, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "390946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-11-1085",
+      "titulo": "Decreto nº 1.085 de 11/12/1852",
+      "data": "1852-12-11",
+      "numero": "1085",
+      "urn": "urn:lex:br:federal:decreto:1852-12-11;1085",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DA PARNAÍBA DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-04-1078",
+      "titulo": "Decreto nº 1.078 de 04/12/1852",
+      "data": "1852-12-04",
+      "numero": "1078",
+      "urn": "urn:lex:br:federal:decreto:1852-12-04;1078",
+      "ementa": "CONCEDE AO VISCONDE DE BARBACENA, E A ANTÔNIO DE SOUSA RIBEIRO FACULDADE POR DOIS ANOS PARA PROCEDEREM JUNTOS OU SEPARADOS, À EXPLORAÇÃO DO CARVÃO DE PEDRA NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-04-1076",
+      "titulo": "Decreto nº 1.076 de 04/12/1852",
+      "data": "1852-12-04",
+      "numero": "1076",
+      "urn": "urn:lex:br:federal:decreto:1852-12-04;1076",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS ESTRANGEIROS A DESPENDER NO CORRENTE ANO FINANCEIRO DE 1852-53 A QUANTIA DE 74.551$000, ALEM DAS QUE FORAM VOTADAS NOS PARAGRAFOS 2 E 3 DO ARTIGO 4 DA LEI DO ORÇAMENTO EM VIGOR PARA AS DESPESAS COM LEGAÇÕES E CONSULADOS, E EXTRAORDINARIAS NO EXTERIOR."
+    },
+    {
+      "senadoId": "390916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-04-1079",
+      "titulo": "Decreto nº 1.079 de 04/12/1852",
+      "data": "1852-12-04",
+      "numero": "1079",
+      "urn": "urn:lex:br:federal:decreto:1852-12-04;1079",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DE PORTO CALVO, CRIADA NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-12-04-1077",
+      "titulo": "Decreto nº 1.077 de 04/12/1852",
+      "data": "1852-12-04",
+      "numero": "1077",
+      "urn": "urn:lex:br:federal:decreto:1852-12-04;1077",
+      "ementa": "APROVA E MANDA EXECUTAR OS ESTATUTOS DO HOSPÍCIO DE PEDRO SEGUNDO."
+    },
+    {
+      "senadoId": "390894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-30-1074",
+      "titulo": "Decreto nº 1.074 de 30/11/1852",
+      "data": "1852-11-30",
+      "numero": "1074",
+      "urn": "urn:lex:br:federal:decreto:1852-11-30;1074",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO EXÉRCITO, SUPRIMINDO O 7º BATALHÃO DE INFANTARIA, QUE LHE É SUBSTITUÍDO POR UM REGIMENTO DE CAVALARIA, E AUMENTANDO A FORÇA DO PRIMEIRO BATALHÃO DE INFANTARIA."
+    },
+    {
+      "senadoId": "390889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-30-1073",
+      "titulo": "Decreto nº 1.073 de 30/11/1852",
+      "data": "1852-11-30",
+      "numero": "1073",
+      "urn": "urn:lex:br:federal:decreto:1852-11-30;1073",
+      "ementa": "MARCA OS PRAZOS PARA A POSSE E JURAMENTO DOS EMPREGADOS DE FAZENDA, E O MODO DE CONTAR-LHES A ANTIGUIDADE."
+    },
+    {
+      "senadoId": "390897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-30-1075",
+      "titulo": "Decreto nº 1.075 de 30/11/1852",
+      "data": "1852-11-30",
+      "numero": "1075",
+      "urn": "urn:lex:br:federal:decreto:1852-11-30;1075",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DESPENDER NO EXERCÍCIO DE 1851-1852 MAIS A QUANTIA DE 21.987$660, COM A REPRESSÃO DO TRÁFICO DE AFRICANOS."
+    },
+    {
+      "senadoId": "390869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-26-1069",
+      "titulo": "Decreto nº 1.069 de 26/11/1852",
+      "data": "1852-11-26",
+      "numero": "1069",
+      "urn": "urn:lex:br:federal:decreto:1852-11-26;1069",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE SANTO ANTÔNIO DE SÁ, E RIO BONITO DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-26-1072",
+      "titulo": "Decreto nº 1.072 de 26/11/1852",
+      "data": "1852-11-26",
+      "numero": "1072",
+      "urn": "urn:lex:br:federal:decreto:1852-11-26;1072",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DA IMPERATRIZ, CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-26-1070",
+      "titulo": "Decreto nº 1.070 de 26/11/1852",
+      "data": "1852-11-26",
+      "numero": "1070",
+      "urn": "urn:lex:br:federal:decreto:1852-11-26;1070",
+      "ementa": "CRIA NO TERMO DE SÃO JOSÉ DA PROVÍNCIA DE SANTA CATARINA O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS, E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-26-1071",
+      "titulo": "Decreto nº 1.071 de 26/11/1852",
+      "data": "1852-11-26",
+      "numero": "1071",
+      "urn": "urn:lex:br:federal:decreto:1852-11-26;1071",
+      "ementa": "CRIA O LUGAR DE PROMOTOR PÚBLICO NA NOVA COMARCA DA IMPERATRIZ DA PROVÍNCIA DO CEARÁ, E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-25-1068",
+      "titulo": "Decreto nº 1.068 de 25/11/1852",
+      "data": "1852-11-25",
+      "numero": "1068",
+      "urn": "urn:lex:br:federal:decreto:1852-11-25;1068",
+      "ementa": "CONCEDE A ALEXANDRE CAMPEL FORBES PRIVILÉGIO EXCLUSIVO POR SEIS ANOS PARA CURAR A GAGUEIRA POR UM MÉTODO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "390863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-24-1067-a",
+      "titulo": "Decreto nº 1.067-A de 24/11/1852",
+      "data": "1852-11-24",
+      "numero": "1067-a",
+      "urn": "urn:lex:br:federal:decreto:1852-11-24;1067-a",
+      "ementa": "DETERMINA QUE O CORPO DE FUSILEIROS NAVAIS PASSE A DENOMINAR-SE BATALHÃO NAVAL, E MANDA OBSERVAR O RESPECTIVO REGULAMENTO."
+    },
+    {
+      "senadoId": "390858",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-15-1067",
+      "titulo": "Decreto nº 1.067 de 15/11/1852",
+      "data": "1852-11-15",
+      "numero": "1067",
+      "urn": "urn:lex:br:federal:decreto:1852-11-15;1067",
+      "ementa": "APROVA O REGULAMENTO PARA AS CAIXAS FILIAIS DO BANCO DO BRASIL NAS PROVÍNCIAS DE SÃO PEDRO DO RIO GRANDE DO SUL, E SÃO PAULO, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "390836",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-13-1063",
+      "titulo": "Decreto nº 1.063 de 13/11/1852",
+      "data": "1852-11-13",
+      "numero": "1063",
+      "urn": "urn:lex:br:federal:decreto:1852-11-13;1063",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DO ESPÍRITO SANTO, VITÓRIA, E SERRA DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "390853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-13-1066",
+      "titulo": "Decreto nº 1.066 de 13/11/1852",
+      "data": "1852-11-13",
+      "numero": "1066",
+      "urn": "urn:lex:br:federal:decreto:1852-11-13;1066",
+      "ementa": "CONTRATA COM JOSÉ RODRIGUES FERREIRA, NEGOCIANTE DESTA PRAÇA, A NAVEGAÇÃO POR VAPOR ENTRE O PORTO DO RIO DE JANEIRO E O DA CIDADE DO DESTERRO NA PROVÍNCIA DE SANTA CATARINA, COM ESCALA PELOS PORTOS DE PARANAGUÁ E SÃO FRANCISCO, POR ESPAÇO DE 15 ANOS, COM O EXCLUSIVO DE 10; E POR ESTE PRAZO A CONDUÇÃO DAS MALAS ENTRE O DITO PORTO DO RIO DE JANEIRO E O DE SANTOS."
+    },
+    {
+      "senadoId": "390843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-13-1064",
+      "titulo": "Decreto nº 1.064 de 13/11/1852",
+      "data": "1852-11-13",
+      "numero": "1064",
+      "urn": "urn:lex:br:federal:decreto:1852-11-13;1064",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE SÃO MATEUS, BARRA, LINHARES, SANTA CRUZ, E NOVA ALMEIDA DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "390848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-13-1065",
+      "titulo": "Decreto nº 1.065 de 13/11/1852",
+      "data": "1852-11-13",
+      "numero": "1065",
+      "urn": "urn:lex:br:federal:decreto:1852-11-13;1065",
+      "ementa": "CONTRATA COM JOSÉ RODRIGUES FERREIRA A NAVEGAÇÃO POR VAPOR ENTRE O PORTO DO RIO DE JANEIRO E O DE CARAVELAS, NA PROVÍNCIA DA BAHIA, TOCANDO NOS PORTOS DE SÃO MATEUS, SANTA CRUZ, VITÓRIA, GUARAPARIM, BENEVENTE E ITAPEMIRIM."
+    },
+    {
+      "senadoId": "390831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-06-1062",
+      "titulo": "Decreto nº 1.062 de 06/11/1852",
+      "data": "1852-11-06",
+      "numero": "1062",
+      "urn": "urn:lex:br:federal:decreto:1852-11-06;1062",
+      "ementa": "MANDA EXECUTAR A RESPEITO DOS AGENTES CONSULARES E CIDADÃOS DA CONFEDERAÇÃO SUIÇA AS DISPOSIÇÕES MENCIONADAS NO ARTIGO 24 DO REGULAMENTO A QUE SE REFERE O DECRETO 855 DE 8 DE NOVEMBRO DO ANO PROXIMO PASSADO."
+    },
+    {
+      "senadoId": "390826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-03-1061",
+      "titulo": "Decreto nº 1.061 de 03/11/1852",
+      "data": "1852-11-03",
+      "numero": "1061",
+      "urn": "urn:lex:br:federal:decreto:1852-11-03;1061",
+      "ementa": "ALTERA O NÚMERO DAS ESTAÇÕES NAVAIS, E ALGUMAS DISPOSIÇÕES QUE LHE SÃO RELATIVAS."
+    },
+    {
+      "senadoId": "390821",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-03-1060",
+      "titulo": "Decreto nº 1.060 de 03/11/1852",
+      "data": "1852-11-03",
+      "numero": "1060",
+      "urn": "urn:lex:br:federal:decreto:1852-11-03;1060",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA DE SEGUROS MARÍTIMOS \"FIDELIDADE\", E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "390818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-11-03-1059",
+      "titulo": "Decreto nº 1.059 de 03/11/1852",
+      "data": "1852-11-03",
+      "numero": "1059",
+      "urn": "urn:lex:br:federal:decreto:1852-11-03;1059",
+      "ementa": "MARCA A MANEIRA DE SE PROCEDER AS HABILITAÇÕES PARA A PERCEPÇÃO DO MONTEPIO DE MARINHA."
+    },
+    {
+      "senadoId": "390813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-30-1058",
+      "titulo": "Decreto nº 1.058 de 30/10/1852",
+      "data": "1852-10-30",
+      "numero": "1058",
+      "urn": "urn:lex:br:federal:decreto:1852-10-30;1058",
+      "ementa": "ELEVA A 400$000 OS ORDENADOS DOS JUÍZES MUNICIPAIS E DE ÓRFÃOS QUE OS TEM MENORES."
+    },
+    {
+      "senadoId": "390808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-30-1057",
+      "titulo": "Decreto nº 1.057 de 30/10/1852",
+      "data": "1852-10-30",
+      "numero": "1057",
+      "urn": "urn:lex:br:federal:decreto:1852-10-30;1057",
+      "ementa": "ELEVA OS ORDENADOS DE ALGUNS JUÍZES MUNICIPAIS E DE ÓRFÃOS DE DIFERENTES PROVÍNCIAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "390803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-23-1056",
+      "titulo": "Decreto nº 1.056 de 23/10/1852",
+      "data": "1852-10-23",
+      "numero": "1056",
+      "urn": "urn:lex:br:federal:decreto:1852-10-23;1056",
+      "ementa": "REVOGA OS ARTIGOS 533 E 534 DO REGULAMENTO 737 DE 25 DE NOVEMBRO DE 1850, NA PARTE RELATIVA À NOMEAÇÃO DOS AVALIADORES COMERCIAIS."
+    },
+    {
+      "senadoId": "390793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-20-1054",
+      "titulo": "Decreto nº 1.054 de 20/10/1852",
+      "data": "1852-10-20",
+      "numero": "1054",
+      "urn": "urn:lex:br:federal:decreto:1852-10-20;1054",
+      "ementa": "AMPLIA E EXPLICA DIVERSOS REGULAMENTOS MILITARES."
+    },
+    {
+      "senadoId": "390798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-20-1055",
+      "titulo": "Decreto nº 1.055 de 20/10/1852",
+      "data": "1852-10-20",
+      "numero": "1055",
+      "urn": "urn:lex:br:federal:decreto:1852-10-20;1055",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO E COMÉRCIO DO AMAZONAS, COM AS MODIFICAÇÕES ABAIXO MENCIONADAS."
+    },
+    {
+      "senadoId": "390773",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-13-1050",
+      "titulo": "Decreto nº 1.050 de 13/10/1852",
+      "data": "1852-10-13",
+      "numero": "1050",
+      "urn": "urn:lex:br:federal:decreto:1852-10-13;1050",
+      "ementa": "MANDA FICAR SEM EFEITO O DECRETO 463 DE 31 DE JULHO DE 1846, E INSTRUÇÕES A QUE SE REFERE; E QUE NA REPARTIÇÃO DA MARINHA HAJA UM ENGENHEIRO MILITAR, SUBORDINADO AO INSPETOR DO ARSENAL."
+    },
+    {
+      "senadoId": "390778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-13-1051",
+      "titulo": "Decreto nº 1.051 de 13/10/1852",
+      "data": "1852-10-13",
+      "numero": "1051",
+      "urn": "urn:lex:br:federal:decreto:1852-10-13;1051",
+      "ementa": "AUTORIZA O MINISTRO, O SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA A DESPENDER, ALÉM DAS SOMAS VOTADAS PARA O EXERCÍCIO DE 1851-1852, A DE 591.894$824 RÉIS."
+    },
+    {
+      "senadoId": "390788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-13-1053",
+      "titulo": "Decreto nº 1.053 de 13/10/1852",
+      "data": "1852-10-13",
+      "numero": "1053",
+      "urn": "urn:lex:br:federal:decreto:1852-10-13;1053",
+      "ementa": "CONCEDE A EDUARDO DE MORNAI E ALFREDO DE MORNAI PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA A FATURA E VENDA DOS APARELHOS, QUE INVENTARAM PARA O FABRICO DO AÇÚCAR DE CANA."
+    },
+    {
+      "senadoId": "390783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-13-1052",
+      "titulo": "Decreto nº 1.052 de 13/10/1852",
+      "data": "1852-10-13",
+      "numero": "1052",
+      "urn": "urn:lex:br:federal:decreto:1852-10-13;1052",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE RÉIS 52.378$548, PARA AS DESPESAS DA REPARTIÇÃO DA MARINHA NO CORRENTE EXERCÍCIO, EM AS RUBRICAS, CAPITANIAS DE PORTOS E HOSPITAIS."
+    },
+    {
+      "senadoId": "390768",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-05-1049",
+      "titulo": "Decreto nº 1.049 de 05/10/1852",
+      "data": "1852-10-05",
+      "numero": "1049",
+      "urn": "urn:lex:br:federal:decreto:1852-10-05;1049",
+      "ementa": "MUDA A COR DO CINTO, DE QUE USAM OS MEMBROS DO CABIDO DA SÉ DO BISPADO DO PARÁ PARA A ENCARNADA."
+    },
+    {
+      "senadoId": "390758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-05-1047",
+      "titulo": "Decreto nº 1.047 de 05/10/1852",
+      "data": "1852-10-05",
+      "numero": "1047",
+      "urn": "urn:lex:br:federal:decreto:1852-10-05;1047",
+      "ementa": "ABRE, AO MINISTÉRIO DO IMPÉRIO, UM CRÉDITO EXTRAORDINÁRIO DE 100.000$000 PARA OCORRER ÀS DESPESAS COM O TEATRO PROVISÓRIO."
+    },
+    {
+      "senadoId": "390763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-10-05-1048",
+      "titulo": "Decreto nº 1.048 de 05/10/1852",
+      "data": "1852-10-05",
+      "numero": "1048",
+      "urn": "urn:lex:br:federal:decreto:1852-10-05;1048",
+      "ementa": "DESANEXA O TERMO DE CIMBRES DO BREJO DA PROVÍNCIA DE PERNAMBUCO, CRIA NELE UM JUIZ MUNICIPAL E DE ÓRFÃOS, E MARCA O ORDENADO QUE DEVEM VENCER."
+    },
+    {
+      "senadoId": "390746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-29-1045",
+      "titulo": "Decreto nº 1.045 de 29/09/1852",
+      "data": "1852-09-29",
+      "numero": "1045",
+      "urn": "urn:lex:br:federal:decreto:1852-09-29;1045",
+      "ementa": "EXTINGUE AS RECEBEDORIAS DE RENDAS INTERNAS DAS PROVINCIAS DO MARANHÃO, PARA E RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "390753",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-29-1046",
+      "titulo": "Decreto nº 1.046 de 29/09/1852",
+      "data": "1852-09-29",
+      "numero": "1046",
+      "urn": "urn:lex:br:federal:decreto:1852-09-29;1046",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO CORRENTE ANO FINANCEIRO A QUANTIA DE CENTO E VINTE MIL PATACÕES PARA SATISFAZER AS PRESTAÇÕES DOS MESES DE JULHO E AGOSTO DO CORRENTE ANO, QUE AINDA TEM DE SER PAGAS À REPÚBLICA ORIENTAL DO URUGUAI, EM VIRTUDE DO QUE SE ACHA DISPOSTO NA CONVENÇÃO DE 12 DE OUTUBRO DO ANO PRÓXIMO PASSADO."
+    },
+    {
+      "senadoId": "390741",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-22-1044",
+      "titulo": "Decreto nº 1.044 de 22/09/1852",
+      "data": "1852-09-22",
+      "numero": "1044",
+      "urn": "urn:lex:br:federal:decreto:1852-09-22;1044",
+      "ementa": "CONCEDE A CÂNDIDO MENDES DE ALMEIDA, E A CONSTANTINO CONDE DE ZABIELO, A AUTORIZAÇÃO QUE PEDEM PARA INCORPORAR UMA COMPANHIA COM ACIONISTAS NACIONAIS E ESTRANGEIROS, COM O FIM DE EXPLORAR MINAS DE COMBUSTÍVEIS FÓSSEIS, DE COBRE, E DE QUAISQUER OUTROS MINERAIS NAS PROVÍNCIAS DO MARANHÃO E PIAUÍ."
+    },
+    {
+      "senadoId": "390731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-09-1042",
+      "titulo": "Decreto nº 1.042 de 09/09/1852",
+      "data": "1852-09-09",
+      "numero": "1042",
+      "urn": "urn:lex:br:federal:decreto:1852-09-09;1042",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DE ITAPEMIRIM, NOVAMENTE CRIADA NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "390736",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-09-1043",
+      "titulo": "Decreto nº 1.043 de 09/09/1852",
+      "data": "1852-09-09",
+      "numero": "1043",
+      "urn": "urn:lex:br:federal:decreto:1852-09-09;1043",
+      "ementa": "CRIA PROMOTOR NA COMARCA DE ITAPEMIRIM DA PROVÍNCIA DO ESPÍRITO SANTO, E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390726",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-09-1041",
+      "titulo": "Decreto nº 1.041 de 09/09/1852",
+      "data": "1852-09-09",
+      "numero": "1041",
+      "urn": "urn:lex:br:federal:decreto:1852-09-09;1041",
+      "ementa": "ABRE, AO MINISTÉRIO DO IMPÉRIO, UM CRÉDITO EXTRAORDINÁRIO DE RS. 96.900$000 PARA AJUDAS DE CUSTO DE VOLTA DOS DEPUTADOS A 8ª LEGISLATURA."
+    },
+    {
+      "senadoId": "390721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-06-1040",
+      "titulo": "Decreto nº 1.040 de 06/09/1852",
+      "data": "1852-09-06",
+      "numero": "1040",
+      "urn": "urn:lex:br:federal:decreto:1852-09-06;1040",
+      "ementa": "APROVA AS ALTERAÇÕES PROPOSTAS EM ASSEMBLÉIA GERAL DO BANCO DO BRASIL AOS ESTATUTOS DO MESMO BANCO."
+    },
+    {
+      "senadoId": "390716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-09-03-1039",
+      "titulo": "Decreto nº 1.039 de 03/09/1852",
+      "data": "1852-09-03",
+      "numero": "1039",
+      "urn": "urn:lex:br:federal:decreto:1852-09-03;1039",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE CAMPOS, E SÃO JOÃO DA BARRA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-30-1037",
+      "titulo": "Decreto nº 1.037 de 30/08/1852",
+      "data": "1852-08-30",
+      "numero": "1037",
+      "urn": "urn:lex:br:federal:decreto:1852-08-30;1037",
+      "ementa": "CONCEDE A IRENEU EVANGELISTA DE SOUSA PRIVILÉGIO EXCLUSIVO POR TRINTA ANOS PARA A NAVEGAÇÃO A VAPOR NO RIO AMAZONAS."
+    },
+    {
+      "senadoId": "390711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-30-1038",
+      "titulo": "Decreto nº 1.038 de 30/08/1852",
+      "data": "1852-08-30",
+      "numero": "1038",
+      "urn": "urn:lex:br:federal:decreto:1852-08-30;1038",
+      "ementa": "CONCEDE A ANTONIO PEDROSO DE ALBUQUERQUE PRIVILEGIO EXCLUSIVO POR VINTE ANOS PARA A NAVEGAÇÃO POR VAPOR ENTRE O PORTO DA CIDADE DA BAHIA ATE MACEIO NA LINHA DO NORTE, E NA DO SUL ATE CARAVELAS."
+    },
+    {
+      "senadoId": "390699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-28-1036",
+      "titulo": "Decreto nº 1.036 de 28/08/1852",
+      "data": "1852-08-28",
+      "numero": "1036",
+      "urn": "urn:lex:br:federal:decreto:1852-08-28;1036",
+      "ementa": "APROVA AS ALTERAÇÕES PROPOSTAS EM ALGUNS ARTIGOS DOS ESTATUTOS DO BANCO COMERCIAL DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-18-1035",
+      "titulo": "Decreto nº 1.035 de 18/08/1852",
+      "data": "1852-08-18",
+      "numero": "1035",
+      "urn": "urn:lex:br:federal:decreto:1852-08-18;1035",
+      "ementa": "REGULA A EXECUÇÃO DO ARTIGO 2º DA LEI 647 DE 7 DE AGOSTO DE 1852."
+    },
+    {
+      "senadoId": "390687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-14-1034",
+      "titulo": "Decreto nº 1.034 de 14/08/1852",
+      "data": "1852-08-14",
+      "numero": "1034",
+      "urn": "urn:lex:br:federal:decreto:1852-08-14;1034",
+      "ementa": "MARCA O UNIFORME PARA OS BATALHÕES DA RESERVA DA GUARDA NACIONAL DAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "390676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-14-1032",
+      "titulo": "Decreto nº 1.032 de 14/08/1852",
+      "data": "1852-08-14",
+      "numero": "1032",
+      "urn": "urn:lex:br:federal:decreto:1852-08-14;1032",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE SANTARÉM, ALENQUER, OBIDOS, E FARO DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "390682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-14-1033",
+      "titulo": "Decreto nº 1.033 de 14/08/1852",
+      "data": "1852-08-14",
+      "numero": "1033",
+      "urn": "urn:lex:br:federal:decreto:1852-08-14;1033",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE VASSOURAS, E IGUAÇU DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-07-1030",
+      "titulo": "Decreto nº 1.030 de 07/08/1852",
+      "data": "1852-08-07",
+      "numero": "1030",
+      "urn": "urn:lex:br:federal:decreto:1852-08-07;1030",
+      "ementa": "CONCEDE A EDUARDO DE MORNAI E ALFREDO DE MORNAI PRIVILÉGIO EXCLUSIVO PELO TEMPO DE 90 ANOS PARA A CONSTRUÇÃO DE UM CAMINHO DE FERRO NA PROVÍNCIA DE PERNAMBUCO, ENTRE A CIDADE DO RECIFE E A POVOAÇÃO DENOMINADA ÁGUA PRETA."
+    },
+    {
+      "senadoId": "390671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-07-1031",
+      "titulo": "Decreto nº 1.031 de 07/08/1852",
+      "data": "1852-08-07",
+      "numero": "1031",
+      "urn": "urn:lex:br:federal:decreto:1852-08-07;1031",
+      "ementa": "CONCEDE A MARIANO PROCÓPIO FERREIRA LAGE PRIVILÉGIO EXCLUSIVO PELO TEMPO DE CINQUENTA ANOS, AFIM DE INCORPORAR UMA  COMPANHIA PARA CONSTRUIR, MELHORAR E CONSERVAR DUAS LINHAS DE ESTRADAS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-07-1029",
+      "titulo": "Decreto nº 1.029 de 07/08/1852",
+      "data": "1852-08-07",
+      "numero": "1029",
+      "urn": "urn:lex:br:federal:decreto:1852-08-07;1029",
+      "ementa": "APROVA O PLANO DOS UNIFORMES DO EXÉRCITO."
+    },
+    {
+      "senadoId": "390650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-02-1027",
+      "titulo": "Decreto nº 1.027 de 02/08/1852",
+      "data": "1852-08-02",
+      "numero": "1027",
+      "urn": "urn:lex:br:federal:decreto:1852-08-02;1027",
+      "ementa": "CONCEDE A THOMAZ BUTLER DODGSON PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA A CONSTRUÇÃO DE PONTES DE FERRO NESTA CORTE E NA PROVÍNCIA DO RIO DE JANEIRO, SEGUNDO O SISTEMA QUE INVENTOU."
+    },
+    {
+      "senadoId": "390655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-08-02-1028",
+      "titulo": "Decreto nº 1.028 de 02/08/1852",
+      "data": "1852-08-02",
+      "numero": "1028",
+      "urn": "urn:lex:br:federal:decreto:1852-08-02;1028",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM A COMPANHIA DE MUCURI PARA A CONDUÇÃO DAS MALAS DO CORREIO E PASSAGEIROS, EM BARCOS DE VAPOR, ENTRE ESTA CORTE E A CIDADE DA VITÓRIA NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "390630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-31-1023",
+      "titulo": "Decreto nº 1.023 de 31/07/1852",
+      "data": "1852-07-31",
+      "numero": "1023",
+      "urn": "urn:lex:br:federal:decreto:1852-07-31;1023",
+      "ementa": "ORGANIZA A GUARDA NACIONAL DO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "390645",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-31-1026",
+      "titulo": "Decreto nº 1.026 de 31/07/1852",
+      "data": "1852-07-31",
+      "numero": "1026",
+      "urn": "urn:lex:br:federal:decreto:1852-07-31;1026",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DO RECIFE DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "390635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-31-1024",
+      "titulo": "Decreto nº 1.024 de 31/07/1852",
+      "data": "1852-07-31",
+      "numero": "1024",
+      "urn": "urn:lex:br:federal:decreto:1852-07-31;1024",
+      "ementa": "DA NOVA ORGANIZAÇÃO A GUARDA NACIONAL DOS MUNICIPIOS DE OLINDA E IGUARAÇU DA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "390640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-31-1025",
+      "titulo": "Decreto nº 1.025 de 31/07/1852",
+      "data": "1852-07-31",
+      "numero": "1025",
+      "urn": "urn:lex:br:federal:decreto:1852-07-31;1025",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DO ROSÁRIO E ICATU DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "390625",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-28-1022",
+      "titulo": "Decreto nº 1.022 de 28/07/1852",
+      "data": "1852-07-28",
+      "numero": "1022",
+      "urn": "urn:lex:br:federal:decreto:1852-07-28;1022",
+      "ementa": "MANDA OBSERVAR A ALTERAÇÃO FEITA NA TABELA DAS RAÇÕES DOS SENTENCIADOS DA CASA DE CORREÇÃO DA CORTE."
+    },
+    {
+      "senadoId": "390616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-26-1020",
+      "titulo": "Decreto nº 1.020 de 26/07/1852",
+      "data": "1852-07-26",
+      "numero": "1020",
+      "urn": "urn:lex:br:federal:decreto:1852-07-26;1020",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE MARIANA DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-26-1019",
+      "titulo": "Decreto nº 1.019 de 26/07/1852",
+      "data": "1852-07-26",
+      "numero": "1019",
+      "urn": "urn:lex:br:federal:decreto:1852-07-26;1019",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DO SERRO DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-26-1021",
+      "titulo": "Decreto nº 1.021 de 26/07/1852",
+      "data": "1852-07-26",
+      "numero": "1021",
+      "urn": "urn:lex:br:federal:decreto:1852-07-26;1021",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE CAMPO MAIOR DA PROVÍNCIA DE PIAUÍ."
+    },
+    {
+      "senadoId": "390600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-21-1017",
+      "titulo": "Decreto nº 1.017 de 21/07/1852",
+      "data": "1852-07-21",
+      "numero": "1017",
+      "urn": "urn:lex:br:federal:decreto:1852-07-21;1017",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DA BARRA MANSA E RIO CLARO DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-21-1018",
+      "titulo": "Decreto nº 1.018 de 21/07/1852",
+      "data": "1852-07-21",
+      "numero": "1018",
+      "urn": "urn:lex:br:federal:decreto:1852-07-21;1018",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE PIRAÍ E SÃO JOÃO DO PRÍNCIPE DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-21-1016",
+      "titulo": "Decreto nº 1.016 de 21/07/1852",
+      "data": "1852-07-21",
+      "numero": "1016",
+      "urn": "urn:lex:br:federal:decreto:1852-07-21;1016",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE RESENDE DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-17-1015",
+      "titulo": "Decreto nº 1.015 de 17/07/1852",
+      "data": "1852-07-17",
+      "numero": "1015",
+      "urn": "urn:lex:br:federal:decreto:1852-07-17;1015",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA FLUMINENSE DE TRANSPORTES, E APROVA OS RESPECTIVOS ESTATUTOS OU BASES."
+    },
+    {
+      "senadoId": "390585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-13-1014",
+      "titulo": "Decreto nº 1.014 de 13/07/1852",
+      "data": "1852-07-13",
+      "numero": "1014",
+      "urn": "urn:lex:br:federal:decreto:1852-07-13;1014",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA TAPERA DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-13-1013",
+      "titulo": "Decreto nº 1.013 de 13/07/1852",
+      "data": "1852-07-13",
+      "numero": "1013",
+      "urn": "urn:lex:br:federal:decreto:1852-07-13;1013",
+      "ementa": "EXTINGUE O COMANDO SUPERIOR DA GUARDA NACIONAL DOS MUNICÍPIOS DE BRAGANÇA E TURIAÇU DA PROVÍNCIA DO PARÁ, E ANEXA A SUA FORÇA AO DA CAPITAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "390575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-12-1012",
+      "titulo": "Decreto nº 1.012 de 12/07/1852",
+      "data": "1852-07-12",
+      "numero": "1012",
+      "urn": "urn:lex:br:federal:decreto:1852-07-12;1012",
+      "ementa": "RENOVA POR NOVE ANOS O PRIVILÉGIO CONCEDIDO À COMPANHIA DO RIO INHOMERIM PARA A NAVEGAÇÃO POR VAPOR ENTRE ESTA CORTE E A PRAIA DE BOTAFOGO."
+    },
+    {
+      "senadoId": "390556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-07-1008",
+      "titulo": "Decreto nº 1.008 de 07/07/1852",
+      "data": "1852-07-07",
+      "numero": "1008",
+      "urn": "urn:lex:br:federal:decreto:1852-07-07;1008",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE VALENÇA E PARAÍBA DO SUL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-07-1009",
+      "titulo": "Decreto nº 1.009 de 07/07/1852",
+      "data": "1852-07-07",
+      "numero": "1009",
+      "urn": "urn:lex:br:federal:decreto:1852-07-07;1009",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE ITABORAÍ E MANGARATIBA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-06-1006",
+      "titulo": "Decreto nº 1.006 de 06/07/1852",
+      "data": "1852-07-06",
+      "numero": "1006",
+      "urn": "urn:lex:br:federal:decreto:1852-07-06;1006",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE SÃO FRANCISCO DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390537",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-06-1004",
+      "titulo": "Decreto nº 1.004 de 06/07/1852",
+      "data": "1852-07-06",
+      "numero": "1004",
+      "urn": "urn:lex:br:federal:decreto:1852-07-06;1004",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA FEIRA DE SANTANA DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-06-1005",
+      "titulo": "Decreto nº 1.005 de 06/07/1852",
+      "data": "1852-07-06",
+      "numero": "1005",
+      "urn": "urn:lex:br:federal:decreto:1852-07-06;1005",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA PURIFICAÇÃO DOS CAMPOS DO IRARÁ DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390532",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-07-05-1003",
+      "titulo": "Decreto nº 1.003 de 05/07/1852",
+      "data": "1852-07-05",
+      "numero": "1003",
+      "urn": "urn:lex:br:federal:decreto:1852-07-05;1003",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE ABRANTES DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-26-1002",
+      "titulo": "Decreto nº 1.002 de 26/06/1852",
+      "data": "1852-06-26",
+      "numero": "1002",
+      "urn": "urn:lex:br:federal:decreto:1852-06-26;1002",
+      "ementa": "MANDA OBSERVAR NA PRAÇA DO COMÉRCIO DA PROVÍNCIA DE PERNAMBUCO O DECRETO, QUE ESTABELECE REGULAMENTO PARA OS INTÉRPRETES DO COMÉRCIO DA PRAÇA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390516",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-26-1000",
+      "titulo": "Decreto nº 1.000 de 26/06/1852",
+      "data": "1852-06-26",
+      "numero": "1000",
+      "urn": "urn:lex:br:federal:decreto:1852-06-26;1000",
+      "ementa": "MANDA OBSERVAR, NA PRAÇA DO COMÉRCIO DA PROVÍNCIA DO MARANHÃO, O DECRETO 863 DE 17 DE NOVEMBRO DE 1851, QUE ESTABELECE REGULAMENTO PARA OS INTÉRPRETES DO COMÉRCIO DA PRAÇA DO RIO DE JANEIRO, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "390521",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-26-1001",
+      "titulo": "Decreto nº 1.001 de 26/06/1852",
+      "data": "1852-06-26",
+      "numero": "1001",
+      "urn": "urn:lex:br:federal:decreto:1852-06-26;1001",
+      "ementa": "MANDA OBSERVAR, NA PRAÇA DO COMÉRCIO DA PROVÍNCIA DO MARANHÃO, O DECRETO 858 DE 10 DE NOVEMBRO DE 1851, QUE ESTABELECE REGULAMENTO PARA OS AGENTES DE LEILÕES DO RIO DE JANEIRO, COM UMA ALTERAÇÃO."
+    },
+    {
+      "senadoId": "390471",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-992",
+      "titulo": "Decreto nº 992 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "992",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;992",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DA IMPERATRIZ E ASSEMBLÉIA DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-997",
+      "titulo": "Decreto nº 997 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "997",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;997",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE SÃO GONÇALO DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-988",
+      "titulo": "Decreto nº 988 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "988",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;988",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE ALAGOAS, SÃO MIGUEL E ATALAIA DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-995",
+      "titulo": "Decreto nº 995 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "995",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;995",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DO PUTI DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-991",
+      "titulo": "Decreto nº 991 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "991",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;991",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE PORTO CALVO, E PORTO DE PEDRAS DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-990",
+      "titulo": "Decreto nº 990 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "990",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;990",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE MACEIÓ E SANTA LUZIA DO NORTE DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-993",
+      "titulo": "Decreto nº 993 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "993",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;993",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE PORTO DA FOLHA DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390481",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-994",
+      "titulo": "Decreto nº 994 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "994",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;994",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE ANADIA E POXIM DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-996",
+      "titulo": "Decreto nº 996 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "996",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;996",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE MACAPÁ, MAZAGÃO, CHAVES, PORTO DE MOZ E GURUPÁ DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "390456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-14-989",
+      "titulo": "Decreto nº 989 de 14/06/1852",
+      "data": "1852-06-14",
+      "numero": "989",
+      "urn": "urn:lex:br:federal:decreto:1852-06-14;989",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DO PENEDO DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "390511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-12-999",
+      "titulo": "Decreto nº 999 de 12/06/1852",
+      "data": "1852-06-12",
+      "numero": "999",
+      "urn": "urn:lex:br:federal:decreto:1852-06-12;999",
+      "ementa": "DETERMINA QUE CESSEM OS EFEITOS DO DECRETO 831 DE 1 DE OUTUBRO DE 1851, E QUE SEJA DISSOLVIDA A JUNTA DE JUSTIÇA MILITAR CRIADA PROVISORIAMENTE NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "390446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-12-987",
+      "titulo": "Decreto nº 987 de 12/06/1852",
+      "data": "1852-06-12",
+      "numero": "987",
+      "urn": "urn:lex:br:federal:decreto:1852-06-12;987",
+      "ementa": "CONCEDE A IRENEU EVANGELISTA DE SOUSA PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA A NAVEGAÇÃO POR VAPOR ENTRE ESTA CIDADE E O PONTO DA PRAIA DO MAR DO MUNICÍPIO DA ESTRELA, EM QUE COMEÇAR O CAMINHO DE FERRO, QUE ELE SE PROPÕE CONSTRUIR NO MESMO MUNICÍPIO ATÉ A RAIZ DA SERRA."
+    },
+    {
+      "senadoId": "390504",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-12-998",
+      "titulo": "Decreto nº 998 de 12/06/1852",
+      "data": "1852-06-12",
+      "numero": "998",
+      "urn": "urn:lex:br:federal:decreto:1852-06-12;998",
+      "ementa": "APROVA O REGULAMENTO PARA OS INSPETORES DOS CORPOS DE INFANTARIA, CAVALARIA, E ARTILHARIA DO EXÉRCITO."
+    },
+    {
+      "senadoId": "390442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-06-07-986",
+      "titulo": "Decreto nº 986 de 07/06/1852",
+      "data": "1852-06-07",
+      "numero": "986",
+      "urn": "urn:lex:br:federal:decreto:1852-06-07;986",
+      "ementa": "ORDENA QUE SE COMECEM A CONTAR DA DATA DESTE EM DIANTE OS 10 ANOS, DURANTE OS QUAIS SE CONCEDEU A ROBERTO JOÃO RIPER DE CASTRO PRIVILÉGIO EXCLUSIVO PARA O FABRICO E VENDA DA MÁQUINA, QUE INVENTOU PARA DESCASCAR, ABANAR E BRUNIR CAFÉ."
+    },
+    {
+      "senadoId": "390427",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-08-983",
+      "titulo": "Decreto nº 983 de 08/05/1852",
+      "data": "1852-05-08",
+      "numero": "983",
+      "urn": "urn:lex:br:federal:decreto:1852-05-08;983",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE PITANGUI DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-08-982",
+      "titulo": "Decreto nº 982 de 08/05/1852",
+      "data": "1852-05-08",
+      "numero": "982",
+      "urn": "urn:lex:br:federal:decreto:1852-05-08;982",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE BRAGANÇA E TURIASSÚ DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "390416",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-08-981",
+      "titulo": "Decreto nº 981 de 08/05/1852",
+      "data": "1852-05-08",
+      "numero": "981",
+      "urn": "urn:lex:br:federal:decreto:1852-05-08;981",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE CAMETÁ, BAIÃO, MELGAÇO, PORTEL E OEIRAS DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "390432",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-08-984",
+      "titulo": "Decreto nº 984 de 08/05/1852",
+      "data": "1852-05-08",
+      "numero": "984",
+      "urn": "urn:lex:br:federal:decreto:1852-05-08;984",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DA CACHOEIRA DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-06-980",
+      "titulo": "Decreto nº 980 de 06/05/1852",
+      "data": "1852-05-06",
+      "numero": "980",
+      "urn": "urn:lex:br:federal:decreto:1852-05-06;980",
+      "ementa": "DA NOVA ORGANIZAÇÃO A GUARDA NACIONAL DOS MUNICIPIOS DE PARATI E ANGRA DOS REIS DA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-01-978",
+      "titulo": "Decreto nº 978 de 01/05/1852",
+      "data": "1852-05-01",
+      "numero": "978",
+      "urn": "urn:lex:br:federal:decreto:1852-05-01;978",
+      "ementa": "CONCEDE A LUIZ BERTRAUD & COMPANHIA PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA SÓ ELES FABRICAREM BARRIS INODOROS, CARROÇAS E BARCAS, DESTINADAS AO RÁPIDO E SEGURO TRANSPORTE DE MATERIAS FECAIS, POR UM NOVO SISTEMA QUE OS SUPLICANTES INVENTARAM."
+    },
+    {
+      "senadoId": "390406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-05-01-979",
+      "titulo": "Decreto nº 979 de 01/05/1852",
+      "data": "1852-05-01",
+      "numero": "979",
+      "urn": "urn:lex:br:federal:decreto:1852-05-01;979",
+      "ementa": "CONCEDE A THOMAZ BUTLER DODGSON PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA O CALÇAMENTO DAS RUAS, CONFORME O SISTEMA QUE INVENTARA."
+    },
+    {
+      "senadoId": "390396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-28-977",
+      "titulo": "Decreto nº 977 de 28/04/1852",
+      "data": "1852-04-28",
+      "numero": "977",
+      "urn": "urn:lex:br:federal:decreto:1852-04-28;977",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA REFORMADORA, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "390391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-26-976",
+      "titulo": "Decreto nº 976 de 26/04/1852",
+      "data": "1852-04-26",
+      "numero": "976",
+      "urn": "urn:lex:br:federal:decreto:1852-04-26;976",
+      "ementa": "AUTORIZA O MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO CORRENTE EXERCÍCIO DE 1851 A 1852, NA VERBA \"LEGAÇÕES E CONSULADOS\", MAIS 19.368$515 AO CÂMBIO DE 27, ALÉM DO QUE FOI VOTADO PARA A MESMA VERBA NA RESPECTIVA LEI DO ORÇAMENTO."
+    },
+    {
+      "senadoId": "390381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-26-974",
+      "titulo": "Decreto nº 974 de 26/04/1852",
+      "data": "1852-04-26",
+      "numero": "974",
+      "urn": "urn:lex:br:federal:decreto:1852-04-26;974",
+      "ementa": "ABRE, AO MINISTÉRIO DO IMPÉRIO, UM CRÉDITO EXTRAORDINÁRIO DE 30.000$ PARA OCORRER ÀS DESPESAS COM A ORGANIZAÇÃO DO CENSO GERAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "390386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-26-975",
+      "titulo": "Decreto nº 975 de 26/04/1852",
+      "data": "1852-04-26",
+      "numero": "975",
+      "urn": "urn:lex:br:federal:decreto:1852-04-26;975",
+      "ementa": "ABRE, AO MINISTÉRIO DO IMPÉRIO, UM CRÉDITO EXTRAORDINÁRIO DE 35.000$000 PARA OCORRER ÀS DESPESAS COM O ESTABELECIMENTO DOS REGISTROS REGULARES DOS NASCIMENTOS E ÓBITOS ANUAIS."
+    },
+    {
+      "senadoId": "390362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-24-970",
+      "titulo": "Decreto nº 970 de 24/04/1852",
+      "data": "1852-04-24",
+      "numero": "970",
+      "urn": "urn:lex:br:federal:decreto:1852-04-24;970",
+      "ementa": "ABRE AO MINISTÉRIO DO IMPÉRIO, UM CRÉDITO EXTRAORDINÁRIO DE 40.000$, PARA OCORRER NO ATUAL EXERCÍCIO AO SUBSÍDIO DO TEATRO PÚBLICO DESTA CAPITAL."
+    },
+    {
+      "senadoId": "390367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-24-971",
+      "titulo": "Decreto nº 971 de 24/04/1852",
+      "data": "1852-04-24",
+      "numero": "971",
+      "urn": "urn:lex:br:federal:decreto:1852-04-24;971",
+      "ementa": "CONCEDE A THOMAZ BUTLER DODGSON PRIVILÉGIO EXCLUSIVO POR 15 ANOS PARA A CONSTRUÇÃO DE DIQUES FLUTUANTES DE SUSPENSÃO, SEGUNDO O SISTEMA QUE INVENTOU."
+    },
+    {
+      "senadoId": "390376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-24-973",
+      "titulo": "Decreto nº 973 de 24/04/1852",
+      "data": "1852-04-24",
+      "numero": "973",
+      "urn": "urn:lex:br:federal:decreto:1852-04-24;973",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO CORRENTE ANO FINANCEIRO A QUANTIA DE DOZE CONTOS TREZENTOS SESSENTA MIL QUINHENTOS E VINTE RÉIS DA NOSSA MOEDA, ALÉM DA QUE FOI VOTADA NO PARÁGRAFO 3º DO ARTIGO 4º DA RESPECTIVA LEI DE ORÇAMENTO, POR NÃO SER SUFICIENTE O CRÉDITO ABERTO POR DECRETO 880 DE 5 DE DEZEMBRO DO ANO PRÓXIMO PASSADO."
+    },
+    {
+      "senadoId": "390372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-24-972",
+      "titulo": "Decreto nº 972 de 24/04/1852",
+      "data": "1852-04-24",
+      "numero": "972",
+      "urn": "urn:lex:br:federal:decreto:1852-04-24;972",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DESPENDER NO CORRENTE EXERCÍCIO A QUANTIA DE 20.000$ COM A POLÍCIA E SEGURANÇA PÚBLICA."
+    },
+    {
+      "senadoId": "390357",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-22-969",
+      "titulo": "Decreto nº 969 de 22/04/1852",
+      "data": "1852-04-22",
+      "numero": "969",
+      "urn": "urn:lex:br:federal:decreto:1852-04-22;969",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE SÃO RAIMUNDO NONATO, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-22-968",
+      "titulo": "Decreto nº 968 de 22/04/1852",
+      "data": "1852-04-22",
+      "numero": "968",
+      "urn": "urn:lex:br:federal:decreto:1852-04-22;968",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DA IMPERATRIZ, APODI E PORTO ALEGRE, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-21-965",
+      "titulo": "Decreto nº 965 de 21/04/1852",
+      "data": "1852-04-21",
+      "numero": "965",
+      "urn": "urn:lex:br:federal:decreto:1852-04-21;965",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DO AÇÚ, MOSSORÓ E SANTANA, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-21-967",
+      "titulo": "Decreto nº 967 de 21/04/1852",
+      "data": "1852-04-21",
+      "numero": "967",
+      "urn": "urn:lex:br:federal:decreto:1852-04-21;967",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE ANGICOS E MACAU, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390341",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-21-966",
+      "titulo": "Decreto nº 966 de 21/04/1852",
+      "data": "1852-04-21",
+      "numero": "966",
+      "urn": "urn:lex:br:federal:decreto:1852-04-21;966",
+      "ementa": "DA NOVA ORGANIZAÇÃO A GUARDA NACIONAL DOS MUNICIPIOS DA CAPITAL E SÃO GONÇALO, DA PROVINCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-20-961",
+      "titulo": "Decreto nº 961 de 20/04/1852",
+      "data": "1852-04-20",
+      "numero": "961",
+      "urn": "urn:lex:br:federal:decreto:1852-04-20;961",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DIAMANTINA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-20-963",
+      "titulo": "Decreto nº 963 de 20/04/1852",
+      "data": "1852-04-20",
+      "numero": "963",
+      "urn": "urn:lex:br:federal:decreto:1852-04-20;963",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE GOIANINHA, VILA FLOR, PAPARI, SÃO JOSÉ E SÃO BENTO, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-20-964",
+      "titulo": "Decreto nº 964 de 20/04/1852",
+      "data": "1852-04-20",
+      "numero": "964",
+      "urn": "urn:lex:br:federal:decreto:1852-04-20;964",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DO PRÍNCIPE E ACARÍ, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-20-962",
+      "titulo": "Decreto nº 962 de 20/04/1852",
+      "data": "1852-04-20",
+      "numero": "962",
+      "urn": "urn:lex:br:federal:decreto:1852-04-20;962",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DO SABARÁ, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-18-959",
+      "titulo": "Decreto nº 959 de 18/04/1852",
+      "data": "1852-04-18",
+      "numero": "959",
+      "urn": "urn:lex:br:federal:decreto:1852-04-18;959",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DO ARAXÁ E DESEMBOQUE DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390300",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-18-958",
+      "titulo": "Decreto nº 958 de 18/04/1852",
+      "data": "1852-04-18",
+      "numero": "958",
+      "urn": "urn:lex:br:federal:decreto:1852-04-18;958",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE QUELUZ E BONFIM DA PROVÍNCIA DE MINAS GERAIS, E DESANEXA DO COMANDO SUPERIOR DA CAPITAL DA MESMA PROVÍNCIA, O 4º E 5º BATALHÃO DO SERVIÇO ATIVO E O 2º DA RESERVA."
+    },
+    {
+      "senadoId": "390310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-18-960",
+      "titulo": "Decreto nº 960 de 18/04/1852",
+      "data": "1852-04-18",
+      "numero": "960",
+      "urn": "urn:lex:br:federal:decreto:1852-04-18;960",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE EXTREMOS E TOUROS DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "390295",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-18-957",
+      "titulo": "Decreto nº 957 de 18/04/1852",
+      "data": "1852-04-18",
+      "numero": "957",
+      "urn": "urn:lex:br:federal:decreto:1852-04-18;957",
+      "ementa": "MARCA O UNIFORME PARA OS CORPOS DA GUARDA NACIONAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "390284",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-10-955",
+      "titulo": "Decreto nº 955 de 10/04/1852",
+      "data": "1852-04-10",
+      "numero": "955",
+      "urn": "urn:lex:br:federal:decreto:1852-04-10;955",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE JERUMENHA DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-10-956",
+      "titulo": "Decreto nº 956 de 10/04/1852",
+      "data": "1852-04-10",
+      "numero": "956",
+      "urn": "urn:lex:br:federal:decreto:1852-04-10;956",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DA CAPITAL, DIAMANTINO, POCONÉ E MATO GROSSO, DA PROVÍNCIA DO MESMO NOME."
+    },
+    {
+      "senadoId": "390279",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-06-954",
+      "titulo": "Decreto nº 954 de 06/04/1852",
+      "data": "1852-04-06",
+      "numero": "954",
+      "urn": "urn:lex:br:federal:decreto:1852-04-06;954",
+      "ementa": "FIXA O VENCIMENTO DOS EMPREGADOS DIPLOMÁTICOS, DE QUE TRATA O QUADRO ORGANIZADO PELO DECRETO 941, DE 20 DE MARÇO DO CORRENTE ANO E AS CONSIGNAÇÕES QUE DEVEM PERCEBER AS LIGAÇÕES, PARA DESPESAS DO EXPEDIENTE."
+    },
+    {
+      "senadoId": "390275",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-05-953",
+      "titulo": "Decreto nº 953 de 05/04/1852",
+      "data": "1852-04-05",
+      "numero": "953",
+      "urn": "urn:lex:br:federal:decreto:1852-04-05;953",
+      "ementa": "APROVA O REGULAMENTO PARA O CURSO DE INFANTARIA E CAVALARIA CRIADO NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "390250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-02-948",
+      "titulo": "Decreto nº 948 de 02/04/1852",
+      "data": "1852-04-02",
+      "numero": "948",
+      "urn": "urn:lex:br:federal:decreto:1852-04-02;948",
+      "ementa": "PERMITE QUE SE APRESENTEM TÃO SOMENTE APURADOS OS METAIS, DE QUE TRATA O ARTIGO 8º, DO DECRETO 890, DE 27 DE DEZEMBRO DE 1851."
+    },
+    {
+      "senadoId": "390265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-02-951",
+      "titulo": "Decreto nº 951 de 02/04/1852",
+      "data": "1852-04-02",
+      "numero": "951",
+      "urn": "urn:lex:br:federal:decreto:1852-04-02;951",
+      "ementa": "DA NOVA ORGANIZAÇÃO A GUARDA NACIONAL DOS MUNICIPIOS DE MACAE E CAPIVARI DA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-02-952",
+      "titulo": "Decreto nº 952 de 02/04/1852",
+      "data": "1852-04-02",
+      "numero": "952",
+      "urn": "urn:lex:br:federal:decreto:1852-04-02;952",
+      "ementa": "MANDA OBSERVAR NA PRAÇA DO COMERCIO DA PROVINCIA DO MARANHÃO O REGIMENTO PARA OS CORRETORES DO RIO DE JANEIRO, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "390260",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-02-950",
+      "titulo": "Decreto nº 950 de 02/04/1852",
+      "data": "1852-04-02",
+      "numero": "950",
+      "urn": "urn:lex:br:federal:decreto:1852-04-02;950",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DE SANTO AMARO DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "390255",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-02-949",
+      "titulo": "Decreto nº 949 de 02/04/1852",
+      "data": "1852-04-02",
+      "numero": "949",
+      "urn": "urn:lex:br:federal:decreto:1852-04-02;949",
+      "ementa": "CRIA UM BATALHÃO DE GUARDAS NACIONAIS NO MUNICÍPIO DE JAICOZ, NA PROVÍNCIA DO PIAUÍ, SUBORDINADO AO COMANDO SUPERIOR DA CAPITAL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "390245",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-04-01-947",
+      "titulo": "Decreto nº 947 de 01/04/1852",
+      "data": "1852-04-01",
+      "numero": "947",
+      "urn": "urn:lex:br:federal:decreto:1852-04-01;947",
+      "ementa": "FAZ EXTENSIVO AO COMANDANTE EM CHEFE, OFICIAIS E MAIS PRAÇAS DA ESQUADRA EM OPERAÇÕES NO RIO DA PRATA O USO DA MEDALHA, QUE, PELO DECRETO 932, DE 14 DE MARÇO ÚLTIMO, FORA CONCEDIDA AO EXÉRCITO SOB O COMANDO DO TENENTE GENERAL CONDE DE CAXIAS."
+    },
+    {
+      "senadoId": "390239",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-29-946",
+      "titulo": "Decreto nº 946 de 29/03/1852",
+      "data": "1852-03-29",
+      "numero": "946",
+      "urn": "urn:lex:br:federal:decreto:1852-03-29;946",
+      "ementa": "ABRE AO MINISTÉRIO DO IMPÉRIO, UM CRÉDITO EXTRAORDINÁRIO DE 22:000$000, PARA OCORRER AO PAGAMENTO DE DESPESAS DE CONTA DO EXERCÍCIO DE 1850-1851, COM PROVIDÊNCIAS SANITÁRIAS, TENDENTES A ATALHAR O PROGRESSO DA FEBRE AMARELA E PREVENIR O SEU REAPARECIMENTO E A SOCORRER OS ENFERMOS NECESSITADOS."
+    },
+    {
+      "senadoId": "390235",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-27-945",
+      "titulo": "Decreto nº 945 de 27/03/1852",
+      "data": "1852-03-27",
+      "numero": "945",
+      "urn": "urn:lex:br:federal:decreto:1852-03-27;945",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER NO CORRENTE EXERCÍCIO A QUANTIA DE 116.000$000, COM JUSTIÇAS DE 1ª INSTÂNCIA."
+    },
+    {
+      "senadoId": "390230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-27-944",
+      "titulo": "Decreto nº 944 de 27/03/1852",
+      "data": "1852-03-27",
+      "numero": "944",
+      "urn": "urn:lex:br:federal:decreto:1852-03-27;944",
+      "ementa": "MARCA OS VENCIMENTOS DOS OFICIAIS DO EXÉRCITO EMPREGADOS NA GUARDA NACIONAL COMO CHEFES DE ESTADO MAIOR, MAJORES OU AJUDANTES DOS CORPOS."
+    },
+    {
+      "senadoId": "390225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-26-943",
+      "titulo": "Decreto nº 943 de 26/03/1852",
+      "data": "1852-03-26",
+      "numero": "943",
+      "urn": "urn:lex:br:federal:decreto:1852-03-26;943",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA, UM CRÉDITO SUPLEMENTAR DE 860.000$, PARA OCORRER AO DÉFICIT PRESUMÍVEL NO EXERCÍCIO DE 1851 A 1852."
+    },
+    {
+      "senadoId": "390213",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-24-942",
+      "titulo": "Decreto nº 942 de 24/03/1852",
+      "data": "1852-03-24",
+      "numero": "942",
+      "urn": "urn:lex:br:federal:decreto:1852-03-24;942",
+      "ementa": "CONCEDE A JOSÉ GORI, PRIVILÉGIO EXCLUSIVO POR CINCO ANOS PARA O FABRICO DE FIGURAS, VASOS E ORNAMENTOS PARA JARDINS, DA QUALIDADE DE BARRO E VIDRADO, DE SUA INVENÇÃO OU DESCOBERTA."
+    },
+    {
+      "senadoId": "390208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-20-941",
+      "titulo": "Decreto nº 941 de 20/03/1852",
+      "data": "1852-03-20",
+      "numero": "941",
+      "urn": "urn:lex:br:federal:decreto:1852-03-20;941",
+      "ementa": "DETERMINA O NÚMERO E CATEGORIAS DAS MISSÕES DIPLOMÁTICAS QUE CONVÊM MANTER NOS PAÍSES ESTRANGEIROS."
+    },
+    {
+      "senadoId": "390198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-20-939",
+      "titulo": "Decreto nº 939 de 20/03/1852",
+      "data": "1852-03-20",
+      "numero": "939",
+      "urn": "urn:lex:br:federal:decreto:1852-03-20;939",
+      "ementa": "ORDENA QUE, NO DISTRITO DO TRIBUNAL DO COMÉRCIO DE PERNAMBUCO, SE OBSERVE O REGIMENTO DOS AGENTES DE LEILÕES, ESTABELECIDO PARA O DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-20-940",
+      "titulo": "Decreto nº 940 de 20/03/1852",
+      "data": "1852-03-20",
+      "numero": "940",
+      "urn": "urn:lex:br:federal:decreto:1852-03-20;940",
+      "ementa": "DANDO REGULAMENTO AO CORPO DIPLOMÁTICO BRASILEIRO."
+    },
+    {
+      "senadoId": "390193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-20-938",
+      "titulo": "Decreto nº 938 de 20/03/1852",
+      "data": "1852-03-20",
+      "numero": "938",
+      "urn": "urn:lex:br:federal:decreto:1852-03-20;938",
+      "ementa": "CRIA NA PROVÍNCIA DE SÃO PAULO, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS, DOS TERMOS REUNIDOS DE PORTO FELIZ, CAPIVARI E PIRAPORA; E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390181",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-19-936",
+      "titulo": "Decreto nº 936 de 19/03/1852",
+      "data": "1852-03-19",
+      "numero": "936",
+      "urn": "urn:lex:br:federal:decreto:1852-03-19;936",
+      "ementa": "SEPARA O TERMO DE SÃO MIGUEL DE ALAGOAS E SANTA LUZIA DO NORTE; E O DE IMPERATRIZ DE ATALAIA E ASSEMBLÉIA, NA PROVÍNCIA DAS ALAGOAS; CRIA NELES JUÍZES MUNICIPAIS QUE ACUMULARÃO AS FUNÇÕES DE JUÍZES DE ÓRFÃOS; E MARCA OS RESPECTIVOS ORDENADOS."
+    },
+    {
+      "senadoId": "390188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-19-937",
+      "titulo": "Decreto nº 937 de 19/03/1852",
+      "data": "1852-03-19",
+      "numero": "937",
+      "urn": "urn:lex:br:federal:decreto:1852-03-19;937",
+      "ementa": "CRIA NA PROVÍNCIA DO ESPÍRITO SANTO, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS, NOS TERMOS REUNIDOS DE LINHARES, SANTA CRUZ, NOVA ALMEIDA E SERRA; E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-15-934",
+      "titulo": "Decreto nº 934 de 15/03/1852",
+      "data": "1852-03-15",
+      "numero": "934",
+      "urn": "urn:lex:br:federal:decreto:1852-03-15;934",
+      "ementa": "REÚNE O TERMO DO DESEMBOQUE AO DO ARAXÁ E O DA VILA DE PASSOS AO DE JACUÍ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "390176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-15-935",
+      "titulo": "Decreto nº 935 de 15/03/1852",
+      "data": "1852-03-15",
+      "numero": "935",
+      "urn": "urn:lex:br:federal:decreto:1852-03-15;935",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS, UM NOVO CRÉDITO DE QUATROCENTOS CONTOS DE RÉIS, PARA CONTINUAR O PAGAMENTO DE LETRAS SACADAS, EM CONFORMIDADE DE AJUSTES E CONVENÇÕES, PELO CONSELHEIRO DE ESTADO HONORÁRIO HERMETO CARNEIRO LEÃO, EM MISSÃO ESPECIAL NO RIO DA PRATA."
+    },
+    {
+      "senadoId": "390166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-15-933",
+      "titulo": "Decreto nº 933 de 15/03/1852",
+      "data": "1852-03-15",
+      "numero": "933",
+      "urn": "urn:lex:br:federal:decreto:1852-03-15;933",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DA QUANTIA DE RÉIS 1.641.705$000, PARA OCORRER AO DÉFICIT PRESUMÍVEL NO CORRENTE EXERCÍCIO, EM DIVERSAS RUBRICAS, NA FORMA DA TABELA QUE COM ESTE BAIXA."
+    },
+    {
+      "senadoId": "390156",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-14-931",
+      "titulo": "Decreto nº 931 de 14/03/1852",
+      "data": "1852-03-14",
+      "numero": "931",
+      "urn": "urn:lex:br:federal:decreto:1852-03-14;931",
+      "ementa": "FUNDA O RECOLHIMENTO DE SANTA TERESA PARA ASILO DE MENINAS INDIGENTES, QUE NÃO POSSAM TER ENTRADA NO ATUAL RECOLHIMENTO DAS ORFÃS."
+    },
+    {
+      "senadoId": "390161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-14-932",
+      "titulo": "Decreto nº 932 de 14/03/1852",
+      "data": "1852-03-14",
+      "numero": "932",
+      "urn": "urn:lex:br:federal:decreto:1852-03-14;932",
+      "ementa": "CONCEDE O USO DE UMA MEDALHA AO EXÉRCITO SOB O COMANDO DO TENENTE GENERAL CONDE DE CAXIAS."
+    },
+    {
+      "senadoId": "390150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-10-930",
+      "titulo": "Decreto nº 930 de 10/03/1852",
+      "data": "1852-03-10",
+      "numero": "930",
+      "urn": "urn:lex:br:federal:decreto:1852-03-10;930",
+      "ementa": "INCUMBE ÀS JUNTAS DO COMÉRCIO DA RUBRICA DOS LIVROS E DO REGISTRO DOS DOCUMENTOS NO MESMO DECRETO DECLARADOS."
+    },
+    {
+      "senadoId": "390145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-09-929",
+      "titulo": "Decreto nº 929 de 09/03/1852",
+      "data": "1852-03-09",
+      "numero": "929",
+      "urn": "urn:lex:br:federal:decreto:1852-03-09;929",
+      "ementa": "SEPARA O TERMO DE VASSOURAS DO DE VALENÇA, NA PROVÍNCIA DO RIO DE JANEIRO; CRIA NELE UM JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS; E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "390144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-08-928-a",
+      "titulo": "Decreto nº 928-A de 08/03/1852",
+      "data": "1852-03-08",
+      "numero": "928-a",
+      "urn": "urn:lex:br:federal:decreto:1852-03-08;928-a",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DA COMARCA DA CAPITAL DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "390119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-05-924",
+      "titulo": "Decreto nº 924 de 05/03/1852",
+      "data": "1852-03-05",
+      "numero": "924",
+      "urn": "urn:lex:br:federal:decreto:1852-03-05;924",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE ITAPEMIRIM, BENEVENTE E GUARAPARI, E DÁ-LHE ORGANIZAÇÃO."
+    },
+    {
+      "senadoId": "390129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-05-926",
+      "titulo": "Decreto nº 926 de 05/03/1852",
+      "data": "1852-03-05",
+      "numero": "926",
+      "urn": "urn:lex:br:federal:decreto:1852-03-05;926",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER NO CORRENTE EXERCÍCIO, A QUANTIA DE 13.703$740, COM A REPRESSÃO DO TRÁFICO DE AFRICANOS."
+    },
+    {
+      "senadoId": "390124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-05-925",
+      "titulo": "Decreto nº 925 de 05/03/1852",
+      "data": "1852-03-05",
+      "numero": "925",
+      "urn": "urn:lex:br:federal:decreto:1852-03-05;925",
+      "ementa": "CRIA PROMOTORES PÚBLICOS NAS COMARCAS DE MARANHÃO, PARANAÍBA E CAROLINA, NA PROVÍNCIA DE GOIÁS E MARCA ORDENADOS TANTO A ESTES, COMO AOS DAS OUTRAS COMARCAS."
+    },
+    {
+      "senadoId": "390139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-05-928",
+      "titulo": "Decreto nº 928 de 05/03/1852",
+      "data": "1852-03-05",
+      "numero": "928",
+      "urn": "urn:lex:br:federal:decreto:1852-03-05;928",
+      "ementa": "REDUZ O IMPOSTO DE ANCORAGEM."
+    },
+    {
+      "senadoId": "390134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-05-927",
+      "titulo": "Decreto nº 927 de 05/03/1852",
+      "data": "1852-03-05",
+      "numero": "927",
+      "urn": "urn:lex:br:federal:decreto:1852-03-05;927",
+      "ementa": "ALTERA O ARTIGO 60, DOS ESTATUTOS DO BANCO COMERCIAL."
+    },
+    {
+      "senadoId": "390114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-04-923",
+      "titulo": "Decreto nº 923 de 04/03/1852",
+      "data": "1852-03-04",
+      "numero": "923",
+      "urn": "urn:lex:br:federal:decreto:1852-03-04;923",
+      "ementa": "APROVA E MANDA EXECUTAR AS INSTRUÇÕES PARA O REGIME ECONÔMICO E ADMINISTRATIVO DO COLÉGIO DE PEDRO 2º, E FISCALIZAÇÃO DA SUA RECEITA E DESPESA."
+    },
+    {
+      "senadoId": "390113",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-03-01-922-a",
+      "titulo": "Decreto nº 922-A de 01/03/1852",
+      "data": "1852-03-01",
+      "numero": "922-a",
+      "urn": "urn:lex:br:federal:decreto:1852-03-01;922-a",
+      "ementa": "ABRE UM NOVO CRÉDITO DE QUINHENTOS E CINQUENTA CONTOS DE RÉIS, PARA CONTINUAÇÃO DO PAGAMENTO DAS PRESTAÇÕES MENSAIS, DE QUE TRATA O ARTIGO 1º, DA CONVENÇÃO DE 12 DE OUTUBRO DE 1851, CELEBRADA COM O ESTADO ORIENTAL."
+    },
+    {
+      "senadoId": "390108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-28-922",
+      "titulo": "Decreto nº 922 de 28/02/1852",
+      "data": "1852-02-28",
+      "numero": "922",
+      "urn": "urn:lex:br:federal:decreto:1852-02-28;922",
+      "ementa": "CONCEDE A CÂNDIDO JOSÉ DE CARVALHO, PRIVILÉGIO EXCLUSIVO POR TEMPO DE 15 ANOS PARA ESTABELECER NO PORTO DESTA CAPITAL, BARCAS FLUTUANTES    PARA USO DE BANHOS DE MAR."
+    },
+    {
+      "senadoId": "390098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-28-920",
+      "titulo": "Decreto nº 920 de 28/02/1852",
+      "data": "1852-02-28",
+      "numero": "920",
+      "urn": "urn:lex:br:federal:decreto:1852-02-28;920",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-28-921",
+      "titulo": "Decreto nº 921 de 28/02/1852",
+      "data": "1852-02-28",
+      "numero": "921",
+      "urn": "urn:lex:br:federal:decreto:1852-02-28;921",
+      "ementa": "CONCEDE A MANOEL RODRIGUES BORGES A QUANTIA DE DEZ CONTOS DE RÉIS, COMO PRÊMIO PELA VULGARIZAÇÃO DO PROCESSO, QUE DESCOBRIU PARA FABRICAR CHÁ PEKOE OU PRETO DA PONTA BRANCA."
+    },
+    {
+      "senadoId": "390093",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-27-919",
+      "titulo": "Decreto nº 919 de 27/02/1852",
+      "data": "1852-02-27",
+      "numero": "919",
+      "urn": "urn:lex:br:federal:decreto:1852-02-27;919",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE MAGÉ E ESTRELA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-26-918",
+      "titulo": "Decreto nº 918 de 26/02/1852",
+      "data": "1852-02-26",
+      "numero": "918",
+      "urn": "urn:lex:br:federal:decreto:1852-02-26;918",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE MARICÁ E ITABORAÍ DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-25-917",
+      "titulo": "Decreto nº 917 de 25/02/1852",
+      "data": "1852-02-25",
+      "numero": "917",
+      "urn": "urn:lex:br:federal:decreto:1852-02-25;917",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DE PARANAGUÁ, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "390076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-24-916",
+      "titulo": "Decreto nº 916 de 24/02/1852",
+      "data": "1852-02-24",
+      "numero": "916",
+      "urn": "urn:lex:br:federal:decreto:1852-02-24;916",
+      "ementa": "MARCA O MODO POR QUE DEVE SER INTERPOSTO, PROCESSADO E DECIDIDO O RECURSO DE QUE TRATA O ARTIGO 512, DO CÓDIGO DO COMÉRCIO."
+    },
+    {
+      "senadoId": "390071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-24-915",
+      "titulo": "Decreto nº 915 de 24/02/1852",
+      "data": "1852-02-24",
+      "numero": "915",
+      "urn": "urn:lex:br:federal:decreto:1852-02-24;915",
+      "ementa": "MANDA OBSERVAR NA PRAÇA DO COMÉRCIO DA PROVÍNCIA DA BAHIA, O DECRETO 858, DE 10 DE NOVEMBRO DE 1851, QUE ESTABELECE REGIMENTO PARA OS AGENTES DE LEILÕES DO RIO DE JANEIRO, E O DECRETO 863, DE 17 DO MESMO MÊS E ANO, QUE ESTABELECE REGULAMENTO PARA OS INTÉRPRETES DE COMÉRCIO DA MENCIONADA PRAÇA COM UMA ALTERAÇÃO."
+    },
+    {
+      "senadoId": "390065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-11-914",
+      "titulo": "Decreto nº 914 de 11/02/1852",
+      "data": "1852-02-11",
+      "numero": "914",
+      "urn": "urn:lex:br:federal:decreto:1852-02-11;914",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES SOBRE A ADMISSÃO E ENSINO DE RECRUTAS, PARA OS CORPOS DE IMPERIAIS MARINHEIROS E FUZILEIROS NAVAIS."
+    },
+    {
+      "senadoId": "390060",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-10-913",
+      "titulo": "Decreto nº 913 de 10/02/1852",
+      "data": "1852-02-10",
+      "numero": "913",
+      "urn": "urn:lex:br:federal:decreto:1852-02-10;913",
+      "ementa": "MANDA OBSERVAR A TABELA DAS COMEDORIAS DIÁRIAS, QUE SE DEVEM ABONAR AOS OFICIAIS DA ARMADA NACIONAL E IMPERIAL, EMBARCADOS EM NAVIOS ARMADOS."
+    },
+    {
+      "senadoId": "390055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-09-912",
+      "titulo": "Decreto nº 912 de 09/02/1852",
+      "data": "1852-02-09",
+      "numero": "912",
+      "urn": "urn:lex:br:federal:decreto:1852-02-09;912",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA A DISPENDER, ALÉM DA SOMA VOTADA PARA O CORRENTE EXERCÍCIO, MAIS A DE 1.199.836$622."
+    },
+    {
+      "senadoId": "390050",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-07-911",
+      "titulo": "Decreto nº 911 de 07/02/1852",
+      "data": "1852-02-07",
+      "numero": "911",
+      "urn": "urn:lex:br:federal:decreto:1852-02-07;911",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE CABO FRIO E SAQUAREMA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-02-04-910",
+      "titulo": "Decreto nº 910 de 04/02/1852",
+      "data": "1852-02-04",
+      "numero": "910",
+      "urn": "urn:lex:br:federal:decreto:1852-02-04;910",
+      "ementa": "FIXA O NÚMERO DOS EMPREGADOS DO TESOURO NACIONAL."
+    },
+    {
+      "senadoId": "390040",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-31-909",
+      "titulo": "Decreto nº 909 de 31/01/1852",
+      "data": "1852-01-31",
+      "numero": "909",
+      "urn": "urn:lex:br:federal:decreto:1852-01-31;909",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DO MUNICÍPIO DA CIDADE DE NITERÓI, DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "390035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-30-908",
+      "titulo": "Decreto nº 908 de 30/01/1852",
+      "data": "1852-01-30",
+      "numero": "908",
+      "urn": "urn:lex:br:federal:decreto:1852-01-30;908",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO A GUARDA NACIONAL DAS COMARCAS DA CAPITAL E SOBRAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "390029",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-29-907",
+      "titulo": "Decreto nº 907 de 29/01/1852",
+      "data": "1852-01-29",
+      "numero": "907",
+      "urn": "urn:lex:br:federal:decreto:1852-01-29;907",
+      "ementa": "SUSPENDE A EXECUÇÃO DOS REGULAMENTOS PARA A ORGANIZAÇÃO DO CENSO GERAL DO IMPÉRIO E PARA O REGISTRO DOS NASCIMENTOS E ÓBITOS."
+    },
+    {
+      "senadoId": "390019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-26-905",
+      "titulo": "Decreto nº 905 de 26/01/1852",
+      "data": "1852-01-26",
+      "numero": "905",
+      "urn": "urn:lex:br:federal:decreto:1852-01-26;905",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "390024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-26-906",
+      "titulo": "Decreto nº 906 de 26/01/1852",
+      "data": "1852-01-26",
+      "numero": "906",
+      "urn": "urn:lex:br:federal:decreto:1852-01-26;906",
+      "ementa": "CRIA O COMANDO SUPERIOR DAS GUARDAS NACIONAIS DA COMARCA DA CAPITAL DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "390014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-23-904",
+      "titulo": "Decreto nº 904 de 23/01/1852",
+      "data": "1852-01-23",
+      "numero": "904",
+      "urn": "urn:lex:br:federal:decreto:1852-01-23;904",
+      "ementa": "FAZ ALGUMAS ALTERAÇÕES NA TABELA DAS RAÇÕES DOS SENTENCIADOS DA CASA DE CORREÇÃO, E MARCA UMA QUANTIA PARA COMEDORIA DOS EMPREGADOS DO DITO ESTABELECIMENTO."
+    },
+    {
+      "senadoId": "390009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-22-903",
+      "titulo": "Decreto nº 903 de 22/01/1852",
+      "data": "1852-01-22",
+      "numero": "903",
+      "urn": "urn:lex:br:federal:decreto:1852-01-22;903",
+      "ementa": "EXTINGUE A PAGADORIA DA MARINHA DA BAHIA."
+    },
+    {
+      "senadoId": "390004",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-18-902",
+      "titulo": "Decreto nº 902 de 18/01/1852",
+      "data": "1852-01-18",
+      "numero": "902",
+      "urn": "urn:lex:br:federal:decreto:1852-01-18;902",
+      "ementa": "ALTERA O ARTIGO 72 DO REGULAMENTO APROVADO PELO DECRETO 778 DE 15 DE ABRIL DE 1851."
+    },
+    {
+      "senadoId": "389998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-16-901",
+      "titulo": "Decreto nº 901 de 16/01/1852",
+      "data": "1852-01-16",
+      "numero": "901",
+      "urn": "urn:lex:br:federal:decreto:1852-01-16;901",
+      "ementa": "REGULA A TAXA DOS CAIXÕES DOS CADÁVERES DAS PESSOAS DE CRENÇAS DIVERSAS DA RELIGIÃO DO ESTADO."
+    },
+    {
+      "senadoId": "389992",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-08-900",
+      "titulo": "Decreto nº 900 de 08/01/1852",
+      "data": "1852-01-08",
+      "numero": "900",
+      "urn": "urn:lex:br:federal:decreto:1852-01-08;900",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE LARANJEIRAS, SANTO AMARO, MAROIM, ROSÁRIO, E DIVINA PASTORA DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "389987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-04-899",
+      "titulo": "Decreto nº 899 de 04/01/1852",
+      "data": "1852-01-04",
+      "numero": "899",
+      "urn": "urn:lex:br:federal:decreto:1852-01-04;899",
+      "ementa": "DETERMINA QUE A VENDA DAS GUIAS, LISTAS, FATURAS E NOTAS DO CORREIO, DE QUE TRATA O ARTIGO 267 DO REGULAMENTO DE 27 DE SETEMBRO DE 1849, SÓ POSSA TER LUGAR UM ANO DEPOIS DE DECORRIDO O ESPAÇO DE TEMPO MARCADO NOS ARTIGOS 137 E 138 DO REGULAMENTO DE 21 DE DEZEMBRO DE 1844; E QUE A VENDA DAS ATAS SÓ SE POSSA VERIFICAR PASSADOS TRÊS ANOS."
+    },
+    {
+      "senadoId": "389982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-04-898",
+      "titulo": "Decreto nº 898 de 04/01/1852",
+      "data": "1852-01-04",
+      "numero": "898",
+      "urn": "urn:lex:br:federal:decreto:1852-01-04;898",
+      "ementa": "ALTERA OS PRAZOS FIXADOS PARA A ENTREGA E RECEBIMENTO DAS LISTAS NO REGULAMENTO 797 DE 18 DE JUNHO DE 1851 SOBRE A ORGANIZAÇÃO DO CENSO GERAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "389977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1852-01-02-897",
+      "titulo": "Decreto nº 897 de 02/01/1852",
+      "data": "1852-01-02",
+      "numero": "897",
+      "urn": "urn:lex:br:federal:decreto:1852-01-02;897",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DA ESTÂNCIA, SANTA LUZIA, ESPÍRITO SANTO, LAGARTO, ITABAIANINHA, CAMPOS, E SIMÃO DIAS."
+    }
+  ],
+  "pendencias": []
+}

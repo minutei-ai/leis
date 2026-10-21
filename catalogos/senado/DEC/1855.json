@@ -1,0 +1,1949 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1855",
+  "tipo": "DEC",
+  "ano": 1855,
+  "coletado_em": "2026-10-21T08:52:43.732Z",
+  "normas": [
+    {
+      "senadoId": "393849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-31-1711",
+      "titulo": "Decreto nº 1.711 de 31/12/1855",
+      "data": "1855-12-31",
+      "numero": "1711",
+      "urn": "urn:lex:br:federal:decreto:1855-12-31;1711",
+      "ementa": "ABRINDO AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 279.901$177, PARA AS DESPESAS DO EXERCÍCIO DE 1854 - 1855."
+    },
+    {
+      "senadoId": "393845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-31-1710",
+      "titulo": "Decreto nº 1.710 de 31/12/1855",
+      "data": "1855-12-31",
+      "numero": "1710",
+      "urn": "urn:lex:br:federal:decreto:1855-12-31;1710",
+      "ementa": "DECLARA QUE NAS PROVÍNCIAS DA BAHIA E PERNAMBUCO, SEJAM DOIS OS ESCRIVÃES ESPECIAIS DO JUÍZO DE 1ª INSTÂNCIA DO COMÉRCIO."
+    },
+    {
+      "senadoId": "393857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-31-1713",
+      "titulo": "Decreto nº 1.713 de 31/12/1855",
+      "data": "1855-12-31",
+      "numero": "1713",
+      "urn": "urn:lex:br:federal:decreto:1855-12-31;1713",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 2.096.331$237, PARA AS DESPESAS DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1854 - 1855."
+    },
+    {
+      "senadoId": "393853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-31-1712",
+      "titulo": "Decreto nº 1.712 de 31/12/1855",
+      "data": "1855-12-31",
+      "numero": "1712",
+      "urn": "urn:lex:br:federal:decreto:1855-12-31;1712",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DA QUANTIA DE RÉIS 3.498.782$412, PARA O EXERCÍCIO DE 1854 - 1855, NA FORMA DA TABELA QUE COM ELE BAIXA."
+    },
+    {
+      "senadoId": "393829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-29-1706",
+      "titulo": "Decreto nº 1.706 de 29/12/1855",
+      "data": "1855-12-29",
+      "numero": "1706",
+      "urn": "urn:lex:br:federal:decreto:1855-12-29;1706",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA ILMª. CÂMARA DO MUNICÍPIO DA CÔRTE, PARA O ANO MUNICIPAL DE 1º DE JANEIRO A 31 DE DEZEMBRO DE 1856."
+    },
+    {
+      "senadoId": "393833",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-29-1707",
+      "titulo": "Decreto nº 1.707 de 29/12/1855",
+      "data": "1855-12-29",
+      "numero": "1707",
+      "urn": "urn:lex:br:federal:decreto:1855-12-29;1707",
+      "ementa": "PROMULGA A CONVENÇÃO CELEBRADA ENTRE O BRASIL E PORTUGAL PARA PUNIR E REPRIMIR O CRIME DE MOEDA FALSA."
+    },
+    {
+      "senadoId": "393841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-29-1709",
+      "titulo": "Decreto nº 1.709 de 29/12/1855",
+      "data": "1855-12-29",
+      "numero": "1709",
+      "urn": "urn:lex:br:federal:decreto:1855-12-29;1709",
+      "ementa": "APROVA O REGULAMENTO PARA A ADMINISTRAÇÃO GERAL DA FABRICA DE POLVORA DA ESTRELA."
+    },
+    {
+      "senadoId": "393837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-29-1708",
+      "titulo": "Decreto nº 1.708 de 29/12/1855",
+      "data": "1855-12-29",
+      "numero": "1708",
+      "urn": "urn:lex:br:federal:decreto:1855-12-29;1708",
+      "ementa": "PRESCREVE A FORMA DO PROCESSO, QUE SE DEVE SEGUIR NA PARTILHA DA SOMA CONCEDIDA PELA LEI NÚMERO 834, DE 16 DE AGOSTO DO CORRENTE ANO, COMO INDENIZAÇÃO DAS PRESAS DAS GUERRAS DA INDEPENDÊNCIA E RIO DA PRATA AOS OFICIAIS DO CORPO DA ARMADA OU SEUS HERDEIROS, QUE Á MESMA INDENIZAÇÃO TIVEREM DIREITO."
+    },
+    {
+      "senadoId": "393797",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1698",
+      "titulo": "Decreto nº 1.698 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1698",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1698",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DO ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER, COM A SECRETARIA DO ESTADO E POR CONTA DO EXERCÍCIO DE 1854 - 1855, MAIS A QUANTIA DE RÉIS 19.950$594."
+    },
+    {
+      "senadoId": "393792",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1697",
+      "titulo": "Decreto nº 1.697 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1697",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1697",
+      "ementa": "DECLARA OS LUGARES EM QUE DEVEM SER CRIADAS AS CONSERVATÓRIAS DO COMÉRCIO, NAS PROVÍNCIAS DE SÃO PEDRO DO RIO GRANDE DO SUL, DO PARANÁ, SÃO PAULO E PIAUÍ."
+    },
+    {
+      "senadoId": "393809",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1701",
+      "titulo": "Decreto nº 1.701 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1701",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1701",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER COM A CAPELA IMPERIAL E CATEDRAL DO RIO DE JANEIRO, E POR CONTA DO EXERCÍCIO DE 1854 - 1855, MAIS A QUANTIA DE R$ 3.773$872."
+    },
+    {
+      "senadoId": "393824",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1705",
+      "titulo": "Decreto nº 1.705 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1705",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1705",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA ABRIR UM CRÉDITO SUPLEMENTAR DE 25.000$000, PARA OCORRER ÁS DESPESAS NO EXERCÍCIO DE 1855 - 1856, COM A REPRESSÃO DO TRÁFICO DE AFRICANOS."
+    },
+    {
+      "senadoId": "393817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1703",
+      "titulo": "Decreto nº 1.703 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1703",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1703",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER COM A CASA DE CORREÇÃO E REPARO DE CADEIAS, E POR CONTA DO EXERCÍCIO DE 1854 - 1855, MAIS A QUANTIA DE R$ 71.460$342."
+    },
+    {
+      "senadoId": "393813",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1702",
+      "titulo": "Decreto nº 1.702 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1702",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1702",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER COM A CONDUÇÃO E SUSTENTO DE PRESOS, E POR CONTA DO EXERCÍCIO DE 1854 - 1855, MAIS A QUANTIA DE R$. 3.977$460."
+    },
+    {
+      "senadoId": "393860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1714",
+      "titulo": "Decreto nº 1.714 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1714",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1714",
+      "ementa": "AUTORIZA A ABERTURA DE UM CREDITO SUPLEMENTAR DE QUATROCENTOS QUARENTA E CINCO CONTOS DUZENTOS E QUARENTA MIL SETENCOS E CINCO RÉIS, PARA DESPESAS DE DIVERSAS RUBRICAS DO MINISTERIO DO IMPERIO NO EXERCICIO DE 1854 - 1855."
+    },
+    {
+      "senadoId": "393805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1700",
+      "titulo": "Decreto nº 1.700 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1700",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1700",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA, A DISPENDER COM A GUARDA NACIONAL, E POR CONTA DO EXERCÍCIO DE 1854- 1855, MAIS A QUANTIA DE R$ 17.506$580."
+    },
+    {
+      "senadoId": "393801",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-26-1699",
+      "titulo": "Decreto nº 1.699 de 26/12/1855",
+      "data": "1855-12-26",
+      "numero": "1699",
+      "urn": "urn:lex:br:federal:decreto:1855-12-26;1699",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA, A DISPENDER COM OS TELÉGRAFOS, E POR CONTA DO EXERCÍCIO DE 1854 A 1855, MAIS A QUANTIA DE 11.724$164."
+    },
+    {
+      "senadoId": "393780",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-24-1694",
+      "titulo": "Decreto nº 1.694 de 24/12/1855",
+      "data": "1855-12-24",
+      "numero": "1694",
+      "urn": "urn:lex:br:federal:decreto:1855-12-24;1694",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO INTERNO DO CORREIO DA CÔRTE, QUE BAIXOU COM O DECRETO NÚMERO 639, DE 27 DE SETEMBRO DE 1849."
+    },
+    {
+      "senadoId": "393784",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-24-1695",
+      "titulo": "Decreto nº 1.695 de 24/12/1855",
+      "data": "1855-12-24",
+      "numero": "1695",
+      "urn": "urn:lex:br:federal:decreto:1855-12-24;1695",
+      "ementa": "ESTABELECE NO PÉ DE IGUAL FORÇA, TODOS OS SETE BATALHÕES DE FUZILEIROS DO EXÉRCITO, APLICANDO PARA ESSE FIM, O AUMENTO QUE TEVE A DO 1º DOS DITOS BATALHÕES, PELO DECRETO NÚMERO 1.074, DE 30 DE NOVEMBRO DE 1852."
+    },
+    {
+      "senadoId": "393788",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-24-1696",
+      "titulo": "Decreto nº 1.696 de 24/12/1855",
+      "data": "1855-12-24",
+      "numero": "1696",
+      "urn": "urn:lex:br:federal:decreto:1855-12-24;1696",
+      "ementa": "AUTORIZA A INCORPORAÇÃO, E APROVA OS ESTATUTOS DA SOCIEDADE DRAMÁTICA FRANCESA."
+    },
+    {
+      "senadoId": "393771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-22-1692",
+      "titulo": "Decreto nº 1.692 de 22/12/1855",
+      "data": "1855-12-22",
+      "numero": "1692",
+      "urn": "urn:lex:br:federal:decreto:1855-12-22;1692",
+      "ementa": "ALTERA O PARÁGRAFO 1º, DO ARTIGO 3º, DOS ESTATUTOS DA CAIXA FILIAL DO BANCO DO BRASIL, NA CIDADE DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "393776",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-22-1693",
+      "titulo": "Decreto nº 1.693 de 22/12/1855",
+      "data": "1855-12-22",
+      "numero": "1693",
+      "urn": "urn:lex:br:federal:decreto:1855-12-22;1693",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA INDUSTRIAL MARANHENSE, PARA O FABRICO DE SABÃO E VELAS STEARINAS E PURIFICAÇÃO DE ÓLEOS E OUTROS PRODUTOS."
+    },
+    {
+      "senadoId": "393767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-19-1691",
+      "titulo": "Decreto nº 1.691 de 19/12/1855",
+      "data": "1855-12-19",
+      "numero": "1691",
+      "urn": "urn:lex:br:federal:decreto:1855-12-19;1691",
+      "ementa": "CRIA NA PROVÍNCIA DE GOIÁS, DIVERSOS LUGARES DE JUÍZES MUNICIPAIS, QUE ACUMULARÃO AS FUNÇÕES DE JUÍZES DOS ÓRFÃOS."
+    },
+    {
+      "senadoId": "393759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-15-1689",
+      "titulo": "Decreto nº 1.689 de 15/12/1855",
+      "data": "1855-12-15",
+      "numero": "1689",
+      "urn": "urn:lex:br:federal:decreto:1855-12-15;1689",
+      "ementa": "CRIA NA PROVÍNCIA DE PERNAMBUCO UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS DO TERMO DA ESCADA."
+    },
+    {
+      "senadoId": "393763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-15-1690",
+      "titulo": "Decreto nº 1.690 de 15/12/1855",
+      "data": "1855-12-15",
+      "numero": "1690",
+      "urn": "urn:lex:br:federal:decreto:1855-12-15;1690",
+      "ementa": "REVOGA O ARTIGO 7º, DOS ESTATUTOS DA ACADEMIA DA MARINHA, DE 19 DE FEVEREIRO DE 1849, NA PARTE EM QUE MANDA QUE PASSE A TER QUARTEL FORA DA ACADEMIA, O ASPIRANTE QUE NÃO OBTIVER APROVAÇÃO PLENA."
+    },
+    {
+      "senadoId": "393755",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-12-1688",
+      "titulo": "Decreto nº 1.688 de 12/12/1855",
+      "data": "1855-12-12",
+      "numero": "1688",
+      "urn": "urn:lex:br:federal:decreto:1855-12-12;1688",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA DE SEGUROS E RISCOS MARÍTIMOS, E DE SEGUROS CONTRA O FOGO, ESTABELECIDA NA CIDADE DA BAHIA, SOB A DENOMINAÇÃO DE PROVIDÊNCIA."
+    },
+    {
+      "senadoId": "393742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-05-1685",
+      "titulo": "Decreto nº 1.685 de 05/12/1855",
+      "data": "1855-12-05",
+      "numero": "1685",
+      "urn": "urn:lex:br:federal:decreto:1855-12-05;1685",
+      "ementa": "FIXA DEFINITIVAMENTE AS GRATIFICAÇÕES QUE, Á TÍTULO DE ORDENADOS, PERCEBEM OS EMPREGADOS DA SECRETARIA DO TRIBUNAL DO COMÉRCIO DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "393751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-05-1687",
+      "titulo": "Decreto nº 1.687 de 05/12/1855",
+      "data": "1855-12-05",
+      "numero": "1687",
+      "urn": "urn:lex:br:federal:decreto:1855-12-05;1687",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE RÉIS 204.116$320, PARA OCORRER AO DÉFICIT PRESUMÍVEL NO CORRENTE EXERCÍCIO EM DIVERSAS RUBRICAS, NA FORMA DA TABELA QUE COM ESTE BAIXA."
+    },
+    {
+      "senadoId": "393747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-12-05-1686",
+      "titulo": "Decreto nº 1.686 de 05/12/1855",
+      "data": "1855-12-05",
+      "numero": "1686",
+      "urn": "urn:lex:br:federal:decreto:1855-12-05;1686",
+      "ementa": "FIXA AS GRATIFICAÇÕES QUE DEVEM PERCEBER OS EMPREGADOS DA SECRETARIA DO TRIBUNAL DO COMÉRCIO DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "393738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-30-1684",
+      "titulo": "Decreto nº 1.684 de 30/11/1855",
+      "data": "1855-11-30",
+      "numero": "1684",
+      "urn": "urn:lex:br:federal:decreto:1855-11-30;1684",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE SÃO JOSÉ DE MIPIBÚ, CRIADA NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "393729",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-28-1682",
+      "titulo": "Decreto nº 1.682 de 28/11/1855",
+      "data": "1855-11-28",
+      "numero": "1682",
+      "urn": "urn:lex:br:federal:decreto:1855-11-28;1682",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO DOS CORREIOS, QUE BAIXOU COM O DECRETO NÚMERO 399, DE 21 DE DEZEMBRO DE 1844."
+    },
+    {
+      "senadoId": "393734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-28-1683",
+      "titulo": "Decreto nº 1.683 de 28/11/1855",
+      "data": "1855-11-28",
+      "numero": "1683",
+      "urn": "urn:lex:br:federal:decreto:1855-11-28;1683",
+      "ementa": "ABRE AO MINISTÉRIO DO IMPÉRIO UM CRÉDITO EXTRAORDINÁRIO DE 15.000$000, PARA OCORRER ÁS DESPESAS COM O IMPERIAL INSTITUTO DOS MENINOS CEGOS, NO EXERCÍCIO DE 1855 - 1856."
+    },
+    {
+      "senadoId": "393725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-28-1681",
+      "titulo": "Decreto nº 1.681 de 28/11/1855",
+      "data": "1855-11-28",
+      "numero": "1681",
+      "urn": "urn:lex:br:federal:decreto:1855-11-28;1681",
+      "ementa": "ESTABELECE O NÚMERO DE PROFESSORES ADJUNTOS QUE DEVEM TER AS ESCOLAS PÚBLICAS DE INSTRUÇÃO PRIMÁRIA DO MUNICÍPIO DA CÔRTE, EM RELAÇÃO Á SUA FREQUÊNCIA."
+    },
+    {
+      "senadoId": "393713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-24-1678",
+      "titulo": "Decreto nº 1.678 de 24/11/1855",
+      "data": "1855-11-24",
+      "numero": "1678",
+      "urn": "urn:lex:br:federal:decreto:1855-11-24;1678",
+      "ementa": "DESANEXA OS TERMOS DE MAMANGUAPE DO PILAR; DE CAMPINA GRANDE, DO BREJO DE AREIA, DO PIANCÓ E DE SOUSA, NA PROVÍNCIA DA PARAÍBA DO NORTE; E CRIA EM CADA UM DELES, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRFÃOS."
+    },
+    {
+      "senadoId": "393717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-24-1679",
+      "titulo": "Decreto nº 1.679 de 24/11/1855",
+      "data": "1855-11-24",
+      "numero": "1679",
+      "urn": "urn:lex:br:federal:decreto:1855-11-24;1679",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DE SÃO JOSÉ DE MIPIBÚ, CRIADA NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "393721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-24-1680",
+      "titulo": "Decreto nº 1.680 de 24/11/1855",
+      "data": "1855-11-24",
+      "numero": "1680",
+      "urn": "urn:lex:br:federal:decreto:1855-11-24;1680",
+      "ementa": "APROVA OS FORMULÁRIOS PARA DIVERSOS PROCESSOS ESTABELECIDOS PELA LEGISLAÇÃO MILITAR."
+    },
+    {
+      "senadoId": "393709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-14-1677",
+      "titulo": "Decreto nº 1.677 de 14/11/1855",
+      "data": "1855-11-14",
+      "numero": "1677",
+      "urn": "urn:lex:br:federal:decreto:1855-11-14;1677",
+      "ementa": "CONCEDE A PERRETIER E GOUY PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA O FABRICO E VENDA DE MÁQUINAS POR ELES INVENTADAS E APERFEIÇOADAS, DESTINADAS A SECAR E DESCASCAR CAFÉ."
+    },
+    {
+      "senadoId": "393701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-14-1675",
+      "titulo": "Decreto nº 1.675 de 14/11/1855",
+      "data": "1855-11-14",
+      "numero": "1675",
+      "urn": "urn:lex:br:federal:decreto:1855-11-14;1675",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - ESPERANÇA MARANHENSE DO TABACO MANUFATURADO - PARA O ESTABELECIMENTO DE UMA FÁBRICA DE TABACO NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "393705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-14-1676",
+      "titulo": "Decreto nº 1.676 de 14/11/1855",
+      "data": "1855-11-14",
+      "numero": "1676",
+      "urn": "urn:lex:br:federal:decreto:1855-11-14;1676",
+      "ementa": "DECLARA QUAIS OS JUÍZES QUE DEVEM SERVIR DE ADJUNTOS NOS CASOS DE SUSPEIÇÃO POSTA AO JUIZ DOS ÓRFÃOS DA CÔRTE."
+    },
+    {
+      "senadoId": "393689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-10-1672",
+      "titulo": "Decreto nº 1.672 de 10/11/1855",
+      "data": "1855-11-10",
+      "numero": "1672",
+      "urn": "urn:lex:br:federal:decreto:1855-11-10;1672",
+      "ementa": "DESANEXA O TERMO DO DESEMBOQUE DE ARAXÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "393697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-10-1674",
+      "titulo": "Decreto nº 1.674 de 10/11/1855",
+      "data": "1855-11-10",
+      "numero": "1674",
+      "urn": "urn:lex:br:federal:decreto:1855-11-10;1674",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DE UMA COMPANHIA QUE SE PRETENDE ORGANIZAR NESTA CÔRTE, COM A DENOMINAÇÃO DE FAROL AGRÍCOLA E INDUSTRIAL."
+    },
+    {
+      "senadoId": "393693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-10-1673",
+      "titulo": "Decreto nº 1.673 de 10/11/1855",
+      "data": "1855-11-10",
+      "numero": "1673",
+      "urn": "urn:lex:br:federal:decreto:1855-11-10;1673",
+      "ementa": "CRIA NO TERMO DE CANINDÉ, DA PROVÍNCIA DO CEARÁ, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRFÃOS."
+    },
+    {
+      "senadoId": "393681",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-07-1670",
+      "titulo": "Decreto nº 1.670 de 07/11/1855",
+      "data": "1855-11-07",
+      "numero": "1670",
+      "urn": "urn:lex:br:federal:decreto:1855-11-07;1670",
+      "ementa": "SEPARA O TERMO DE BOMFIM DO DE QUELUZ; E O DE CAETÉ, DO DE SANTA BÁRBARA; E CRIA EM CADA UM DELES, E NO DE LEOPOLDINA, NA PROVÍNCIA DE MINAS GERAIS, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "393685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-07-1671",
+      "titulo": "Decreto nº 1.671 de 07/11/1855",
+      "data": "1855-11-07",
+      "numero": "1671",
+      "urn": "urn:lex:br:federal:decreto:1855-11-07;1671",
+      "ementa": "DEFINE QUAIS SÃO AS ARMAS, CUJO LEVAMENTO CONSTITUE AGRAVAÇÃO DE DESERÇÃO DAS PRAÇAS DE PRET DO EXÉRCITO, E DETERMINA QUE OS RÉUS DE DESERÇÃO E DE AUSÊNCIA, INDENIZEM AS PEÇAS DE EQUIPAMENTO E FARDAMENTO NÃO VENCIDO, QUE HOUVEREM DESENCAMINHADO POR OCASIÃO DA PERPETRAÇÃO DAQUELES CRIMES."
+    },
+    {
+      "senadoId": "393677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-07-1669",
+      "titulo": "Decreto nº 1.669 de 07/11/1855",
+      "data": "1855-11-07",
+      "numero": "1669",
+      "urn": "urn:lex:br:federal:decreto:1855-11-07;1669",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA DE SEGUROS DE VIDA, ESTABELECIDA NESTA CÔRTE, SOB A DENOMINAÇÃO DE TRANQUILIDADE."
+    },
+    {
+      "senadoId": "393673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-06-1668",
+      "titulo": "Decreto nº 1.668 de 06/11/1855",
+      "data": "1855-11-06",
+      "numero": "1668",
+      "urn": "urn:lex:br:federal:decreto:1855-11-06;1668",
+      "ementa": "CRIA UMA CADEIRA DE PRIMEIRAS LETRAS PARA MENINAS NO 1º DISTRITO DA FREGUESIA DO ENGENHO VELHO."
+    },
+    {
+      "senadoId": "393669",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-06-1667",
+      "titulo": "Decreto nº 1.667 de 06/11/1855",
+      "data": "1855-11-06",
+      "numero": "1667",
+      "urn": "urn:lex:br:federal:decreto:1855-11-06;1667",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA SOCIEDADE QUE SE DIRIGE A ESTABELECER E MANTER UMA COMPANHIA DRAMÁTICA NO TEATRO DE SÃO FRANCISCO, OU EM OUTRO QUALQUER DESTA CÔRTE."
+    },
+    {
+      "senadoId": "393661",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-03-1665",
+      "titulo": "Decreto nº 1.665 de 03/11/1855",
+      "data": "1855-11-03",
+      "numero": "1665",
+      "urn": "urn:lex:br:federal:decreto:1855-11-03;1665",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO CÍVEL DA CIDADE DO RECIFE, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "393665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-11-03-1666",
+      "titulo": "Decreto nº 1.666 de 03/11/1855",
+      "data": "1855-11-03",
+      "numero": "1666",
+      "urn": "urn:lex:br:federal:decreto:1855-11-03;1666",
+      "ementa": "AUTORIZA A COMPANHIA DE ILUMINAÇÃO A GÁS A AUMENTAR NOVAMENTE O SEU FUNDO SOCIAL."
+    },
+    {
+      "senadoId": "393658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-27-1664",
+      "titulo": "Decreto nº 1.664 de 27/10/1855",
+      "data": "1855-10-27",
+      "numero": "1664",
+      "urn": "urn:lex:br:federal:decreto:1855-10-27;1664",
+      "ementa": "DÁ REGULAMENTO PARA EXECUÇÃO DO DECRETO NÚMERO 816, DE 10 DE JULHO DO CORRENTE ANO, SOBRE DESAPROPRIAÇÕES PARA CONSTRUÇÃO DE OBRAS E SERVIÇOS DAS ESTRADAS DE FERRO DO BRASIL."
+    },
+    {
+      "senadoId": "393654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-24-1663",
+      "titulo": "Decreto nº 1.663 de 24/10/1855",
+      "data": "1855-10-24",
+      "numero": "1663",
+      "urn": "urn:lex:br:federal:decreto:1855-10-24;1663",
+      "ementa": "DECLARA COMO DEVE SER ENTENDIDO O ARTIGO 3º, DO DECRETO NÚMERO 641, DE 10 DE OUTUBRO DE 1849."
+    },
+    {
+      "senadoId": "393650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-20-1662",
+      "titulo": "Decreto nº 1.662 de 20/10/1855",
+      "data": "1855-10-20",
+      "numero": "1662",
+      "urn": "urn:lex:br:federal:decreto:1855-10-20;1662",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA, AS COMARCAS DE FEIRA DE SANTANA E DE CAETETÉ, CRIADAS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "393646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-20-1661",
+      "titulo": "Decreto nº 1.661 de 20/10/1855",
+      "data": "1855-10-20",
+      "numero": "1661",
+      "urn": "urn:lex:br:federal:decreto:1855-10-20;1661",
+      "ementa": "CRIA NO TERMO DE SANTANA DO CAMISÃO NA PROVÍNCIA DA BAHIA, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "393640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-20-1659",
+      "titulo": "Decreto nº 1.659 de 20/10/1855",
+      "data": "1855-10-20",
+      "numero": "1659",
+      "urn": "urn:lex:br:federal:decreto:1855-10-20;1659",
+      "ementa": "CRIA NA PROVÍNCIA DO RIO GRANDE DO SUL, DUAS PAGADORIAS FILIAIS DA RESPECTIVA TESOURARIA DA FAZENDA."
+    },
+    {
+      "senadoId": "393642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-20-1660",
+      "titulo": "Decreto nº 1.660 de 20/10/1855",
+      "data": "1855-10-20",
+      "numero": "1660",
+      "urn": "urn:lex:br:federal:decreto:1855-10-20;1660",
+      "ementa": "MARCA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS NOVAS COMARCAS DE FEIRA DE SANTANA E DE CAETETÉ, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "393636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-17-1658",
+      "titulo": "Decreto nº 1.658 de 17/10/1855",
+      "data": "1855-10-17",
+      "numero": "1658",
+      "urn": "urn:lex:br:federal:decreto:1855-10-17;1658",
+      "ementa": "FAZ EXTENSIVA A GRATIFICAÇÃO DE SOLDO DOBRADO, NOS TERMOS DO ARTIGO 4º, DA LEI NÚMERO 648, DE 18 DE AGOSTO DE 1852, ÁS PRAÇAS DO EXÉRCITO, QUE TENDO ACABADO O SEU TEMPO DE SERVIÇO, NELE CONTINUAM SEM ENGAJAMENTO."
+    },
+    {
+      "senadoId": "393628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-13-1656",
+      "titulo": "Decreto nº 1.656 de 13/10/1855",
+      "data": "1855-10-13",
+      "numero": "1656",
+      "urn": "urn:lex:br:federal:decreto:1855-10-13;1656",
+      "ementa": "ALTERA O LUGAR DESIGNADO PELO DECRETO NÚMERO 1.331, DE 13 DE FEVEREIRO DE 1854, PARA SEDE DE UMA COLÔNIA MILITAR."
+    },
+    {
+      "senadoId": "393632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-13-1657",
+      "titulo": "Decreto nº 1.657 de 13/10/1855",
+      "data": "1855-10-13",
+      "numero": "1657",
+      "urn": "urn:lex:br:federal:decreto:1855-10-13;1657",
+      "ementa": "EQUIPARA O EMPREGO DE AJUDANTE DO PROCURADOR FISCAL DO TESOURO NACIONAL AOS DE SUB-DIRETOR DAS RENDAS PÚBLICAS E CONTADORES DO MESMO TESOURO."
+    },
+    {
+      "senadoId": "393613",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-10-1652",
+      "titulo": "Decreto nº 1.652 de 10/10/1855",
+      "data": "1855-10-10",
+      "numero": "1652",
+      "urn": "urn:lex:br:federal:decreto:1855-10-10;1652",
+      "ementa": "MARCA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS NOVAS COMARCAS DO PARNAÍBA, DE JAGUARI, DE BAEPENDI E DO INDAIÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "393624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-10-1655",
+      "titulo": "Decreto nº 1.655 de 10/10/1855",
+      "data": "1855-10-10",
+      "numero": "1655",
+      "urn": "urn:lex:br:federal:decreto:1855-10-10;1655",
+      "ementa": "REÚNE AOS TERMOS DE ITAPICURÚ E IGUARÁ O DE ANAJATUBA, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "393610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-10-1651",
+      "titulo": "Decreto nº 1.651 de 10/10/1855",
+      "data": "1855-10-10",
+      "numero": "1651",
+      "urn": "urn:lex:br:federal:decreto:1855-10-10;1651",
+      "ementa": "MARCA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS 2ª, 4ª E 6ª COMARCAS DA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "393606",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-10-1650",
+      "titulo": "Decreto nº 1.650 de 10/10/1855",
+      "data": "1855-10-10",
+      "numero": "1650",
+      "urn": "urn:lex:br:federal:decreto:1855-10-10;1650",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PÚBLICOS DAS NOVAS COMARCAS DE TURI-ASSÚ, E CAROLINA DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "393616",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-10-1653",
+      "titulo": "Decreto nº 1.653 de 10/10/1855",
+      "data": "1855-10-10",
+      "numero": "1653",
+      "urn": "urn:lex:br:federal:decreto:1855-10-10;1653",
+      "ementa": "SEPARA O TERMO DO JARDIM DO CRATO, NA PROVÍNCIA DO CEARÁ; E CRIA NELE, REUNIDO AO DE MILAGRES, UM JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "393619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-10-1654",
+      "titulo": "Decreto nº 1.654 de 10/10/1855",
+      "data": "1855-10-10",
+      "numero": "1654",
+      "urn": "urn:lex:br:federal:decreto:1855-10-10;1654",
+      "ementa": "SEPARA OS TERMOS DE SANTO AMARO E MAROIM DO ROSÁRIO DO CATETE, NA PROVÍNCIA DE SERGIPE, E CRIA NELES UM JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "393602",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-10-06-1649",
+      "titulo": "Decreto nº 1.649 de 06/10/1855",
+      "data": "1855-10-06",
+      "numero": "1649",
+      "urn": "urn:lex:br:federal:decreto:1855-10-06;1649",
+      "ementa": "CRIA CONSELHOS ECONÔMICOS NOS CORPOS ARREGIMENTADOS DO EXÉRCITO, E APROVA O REGULAMENTO PARA A SUA GERÊNCIA."
+    },
+    {
+      "senadoId": "393583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-29-1645",
+      "titulo": "Decreto nº 1.645 de 29/09/1855",
+      "data": "1855-09-29",
+      "numero": "1645",
+      "urn": "urn:lex:br:federal:decreto:1855-09-29;1645",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA AS 2ª, 4ª E 6ª COMARCAS CRIADAS NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "393590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-29-1646",
+      "titulo": "Decreto nº 1.646 de 29/09/1855",
+      "data": "1855-09-29",
+      "numero": "1646",
+      "urn": "urn:lex:br:federal:decreto:1855-09-29;1646",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE SÃO FIDELIS, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "393594",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-29-1647",
+      "titulo": "Decreto nº 1.647 de 29/09/1855",
+      "data": "1855-09-29",
+      "numero": "1647",
+      "urn": "urn:lex:br:federal:decreto:1855-09-29;1647",
+      "ementa": "CRIA NA FREGUESIA DE SANTO ANTÔNIO DESTA CÔRTE UMA ESCOLA DO 1º GRAU PARA CADA UM DOS SEXOS."
+    },
+    {
+      "senadoId": "393598",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-29-1648",
+      "titulo": "Decreto nº 1.648 de 29/09/1855",
+      "data": "1855-09-29",
+      "numero": "1648",
+      "urn": "urn:lex:br:federal:decreto:1855-09-29;1648",
+      "ementa": "CRIA A REPARTIÇÃO ESPECIAL DAS TERRAS PÚBLICAS, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "393575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-22-1643",
+      "titulo": "Decreto nº 1.643 de 22/09/1855",
+      "data": "1855-09-22",
+      "numero": "1643",
+      "urn": "urn:lex:br:federal:decreto:1855-09-22;1643",
+      "ementa": "ELEVA A GRATIFICAÇÃO ANUAL DO CHEFE DE POLÍCIA DA CÔRTE."
+    },
+    {
+      "senadoId": "393571",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-22-1642",
+      "titulo": "Decreto nº 1.642 de 22/09/1855",
+      "data": "1855-09-22",
+      "numero": "1642",
+      "urn": "urn:lex:br:federal:decreto:1855-09-22;1642",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA AS COMARCAS DE PARNAÍBA, DO JAGUARI, DE BAEPENDI E DO INDAIÁ, CRIADAS NA PROVÍNCIA DE MINAS GERAIS; DENOMINA DE MURIAÉ, A COMARCA DE POMBA E EXTINGUE A DE TRÊS PONTAS."
+    },
+    {
+      "senadoId": "393563",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-22-1640",
+      "titulo": "Decreto nº 1.640 de 22/09/1855",
+      "data": "1855-09-22",
+      "numero": "1640",
+      "urn": "urn:lex:br:federal:decreto:1855-09-22;1640",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA, AS COMARCAS DE TURI-ASSÚ E CAROLINA, CRIADAS NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "393567",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-22-1641",
+      "titulo": "Decreto nº 1.641 de 22/09/1855",
+      "data": "1855-09-22",
+      "numero": "1641",
+      "urn": "urn:lex:br:federal:decreto:1855-09-22;1641",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DA 1ª VARA CÍVEL DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "393579",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-22-1644",
+      "titulo": "Decreto nº 1.644 de 22/09/1855",
+      "data": "1855-09-22",
+      "numero": "1644",
+      "urn": "urn:lex:br:federal:decreto:1855-09-22;1644",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA COMARCA DA ESTÂNCIA DA PROVÍNCIA DE SERGIPE, A GUARDA NACIONAL DOS MUNICÍPIOS DE SANTA LUZIA, E ESPÍRITO SANTO DA MESMA PROVÍNCIA, E COM ELA CRIA UM OUTRO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "393559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-22-1639",
+      "titulo": "Decreto nº 1.639 de 22/09/1855",
+      "data": "1855-09-22",
+      "numero": "1639",
+      "urn": "urn:lex:br:federal:decreto:1855-09-22;1639",
+      "ementa": "DECLARA QUE DE AGORA EM DIANTE SEJAM TABELIÃES PRIVATIVOS DO PROTESTO DAS LETRAS DE CÂMBIO, TERRA E DE TODOS OS TÍTULOS QUE O EXIGEM, OS ESCRIVÃES DE APELAÇÕES E AGRAVOS DOS TRIBUNAIS DO COMÉRCIO."
+    },
+    {
+      "senadoId": "393555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-19-1638",
+      "titulo": "Decreto nº 1.638 de 19/09/1855",
+      "data": "1855-09-19",
+      "numero": "1638",
+      "urn": "urn:lex:br:federal:decreto:1855-09-19;1638",
+      "ementa": "FIXA OS EFEITOS DAS LICENÇAS SOBRE AS ANTIGUIDADES DOS OFICIAIS E PRAÇAS DE PRET DO EXÉRCITO."
+    },
+    {
+      "senadoId": "393551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-15-1637",
+      "titulo": "Decreto nº 1.637 de 15/09/1855",
+      "data": "1855-09-15",
+      "numero": "1637",
+      "urn": "urn:lex:br:federal:decreto:1855-09-15;1637",
+      "ementa": "REORGANIZA A ADMINISTRAÇÃO DO COLÉGIO DE SANTA TERESA, FUNDADO NA CIDADE DE PORTO ALEGRE, EXTINGUINDO A COMISSÃO CRIADA POR DECRETO DE 2 DE FEVEREIRO DE 1846, PARA SERVIR DE CONSELHO ADMINISTRATIVO DO MESMO COLÉGIO, E CRIANDO OUTRA COMISSÃO."
+    },
+    {
+      "senadoId": "393543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-12-1635",
+      "titulo": "Decreto nº 1.635 de 12/09/1855",
+      "data": "1855-09-12",
+      "numero": "1635",
+      "urn": "urn:lex:br:federal:decreto:1855-09-12;1635",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE ITAPETININGA, TATUÍ, APIAÍ, ITAPEVA E XIRIRICA, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "393547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-12-1636",
+      "titulo": "Decreto nº 1.636 de 12/09/1855",
+      "data": "1855-09-12",
+      "numero": "1636",
+      "urn": "urn:lex:br:federal:decreto:1855-09-12;1636",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA COMARCA DE SÃO FRANCISCO, DA PROVÍNCIA DA BAHIA, A GUARDA NACIONAL DOS MUNICÍPIOS DE VILA DA BARRA, SANTA RITA, XIQUE-XIQUEE CAMPO LARGO E CRIA NELES, TRÊS COMANDOS SUPERIORES."
+    },
+    {
+      "senadoId": "393539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-05-1634",
+      "titulo": "Decreto nº 1.634 de 05/09/1855",
+      "data": "1855-09-05",
+      "numero": "1634",
+      "urn": "urn:lex:br:federal:decreto:1855-09-05;1634",
+      "ementa": "ESTABELECE QUE AS PROMOÇÕES QUE SE FIZEREM PARA PREENCHIMENTO DAS VAGAS, QUE SE DEREM DENTRO DE UM ANO NOS CORPOS E ARMAS DO EXÉRCITO, QUE SEJAM COM UMA MESMA DATA."
+    },
+    {
+      "senadoId": "393535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-09-01-1633",
+      "titulo": "Decreto nº 1.633 de 01/09/1855",
+      "data": "1855-09-01",
+      "numero": "1633",
+      "urn": "urn:lex:br:federal:decreto:1855-09-01;1633",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA SOCIEDADE ANÔNIMA, QUE TEM POR FIM FABRICAR PRODUTOS QUÍMICOS, E REFINAR AÇÚCAR, ESTABELECIDA NESTA CÔRTE."
+    },
+    {
+      "senadoId": "393531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-29-1632",
+      "titulo": "Decreto nº 1.632 de 29/08/1855",
+      "data": "1855-08-29",
+      "numero": "1632",
+      "urn": "urn:lex:br:federal:decreto:1855-08-29;1632",
+      "ementa": "ELEVA A TRÊS COMPANHIAS, A SEÇÃO DE BATALHÃO DE ARTILHARIA NÚMERO 1, DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "393527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-18-1631",
+      "titulo": "Decreto nº 1.631 de 18/08/1855",
+      "data": "1855-08-18",
+      "numero": "1631",
+      "urn": "urn:lex:br:federal:decreto:1855-08-18;1631",
+      "ementa": "APROVA O REGULAMENTO PARA OS CONSELHOS DE INQUIRIÇÃO CRIADOS PELA LEI NÚMERO 260, DE 1º DE DEZEMBRO DE 1841."
+    },
+    {
+      "senadoId": "393523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-16-1630",
+      "titulo": "Decreto nº 1.630 de 16/08/1855",
+      "data": "1855-08-16",
+      "numero": "1630",
+      "urn": "urn:lex:br:federal:decreto:1855-08-16;1630",
+      "ementa": "MODIFICA OS ARTIGOS 59 E 60 DO REGULAMENTO, MANDADO OBSERVAR POR DECRETO NÚMERO 447, DE 19 DE MAIO DE 1846, A RESPEITO DAS MATRÍCULAS DAS EMBARCAÇÕES DE CABOTAGEM."
+    },
+    {
+      "senadoId": "393519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-11-1629",
+      "titulo": "Decreto nº 1.629 de 11/08/1855",
+      "data": "1855-08-11",
+      "numero": "1629",
+      "urn": "urn:lex:br:federal:decreto:1855-08-11;1629",
+      "ementa": "ALTERA OS DECRETOS NÚMERO 1030 E 1245, DE 7 DE AGOSTO DE 1852 E 13 DE   OUTUBRO DE 1853."
+    },
+    {
+      "senadoId": "393511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-08-1627",
+      "titulo": "Decreto nº 1.627 de 08/08/1855",
+      "data": "1855-08-08",
+      "numero": "1627",
+      "urn": "urn:lex:br:federal:decreto:1855-08-08;1627",
+      "ementa": "ORGANIZA EFETIVAMENTE OS CORPOS PROVISÓRIOS DE GUARNIÇÃO DAS PROVÍNICAS DO PARANÁ E PARAÍBA."
+    },
+    {
+      "senadoId": "393515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-08-1628",
+      "titulo": "Decreto nº 1.628 de 08/08/1855",
+      "data": "1855-08-08",
+      "numero": "1628",
+      "urn": "urn:lex:br:federal:decreto:1855-08-08;1628",
+      "ementa": "ALTERA OS DECRETOS NÚMERO 1.299 E 1.615, DE 19 DE DEZEMBRO DE 1853 E 9 DE JUNHO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "393507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-08-02-1626",
+      "titulo": "Decreto nº 1.626 de 02/08/1855",
+      "data": "1855-08-02",
+      "numero": "1626",
+      "urn": "urn:lex:br:federal:decreto:1855-08-02;1626",
+      "ementa": "MARCA OS DIAS EM QUE DEVEM TER LUGAR AS SESSÕES ORDINÁRIAS DOS TRIBUNAIS DO COMÉRCIO."
+    },
+    {
+      "senadoId": "393503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-07-31-1625",
+      "titulo": "Decreto nº 1.625 de 31/07/1855",
+      "data": "1855-07-31",
+      "numero": "1625",
+      "urn": "urn:lex:br:federal:decreto:1855-07-31;1625",
+      "ementa": "MARCA AS GRATIFICAÇÕES QUE DEVEM VENCER O REITOR E VICE-REITOR DO COLÉGIO DE PEDRO II."
+    },
+    {
+      "senadoId": "393499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-07-21-1624",
+      "titulo": "Decreto nº 1.624 de 21/07/1855",
+      "data": "1855-07-21",
+      "numero": "1624",
+      "urn": "urn:lex:br:federal:decreto:1855-07-21;1624",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - UNIÃO CAMPISTA E FIDELISTA - QUE TEM POR FIM NAVEGAR COM BARCOS DE VAPOR ENTRE O PORTO DO RIO DE JANEIRO E O DA CIDADE DE CAMPOS."
+    },
+    {
+      "senadoId": "393495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-30-1623",
+      "titulo": "Decreto nº 1.623 de 30/06/1855",
+      "data": "1855-06-30",
+      "numero": "1623",
+      "urn": "urn:lex:br:federal:decreto:1855-06-30;1623",
+      "ementa": "CONCEDE AOS LENTES DAS FACULDADES DE MEDICINA AS HONRAS DE DESEMBARGADOR."
+    },
+    {
+      "senadoId": "393483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-20-1620",
+      "titulo": "Decreto nº 1.620 de 20/06/1855",
+      "data": "1855-06-20",
+      "numero": "1620",
+      "urn": "urn:lex:br:federal:decreto:1855-06-20;1620",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA REFORMADORA, ORGANIZADORA NESTA CÔRTE, PARA O ALARGAMENTO DA RUA DO CANO, SUA ABERTURA ATÉ O LARGO DO PAÇO, E EDIFICAÇÃO DE PRÉDIOS NA MESMA RUA."
+    },
+    {
+      "senadoId": "393491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-20-1622",
+      "titulo": "Decreto nº 1.622 de 20/06/1855",
+      "data": "1855-06-20",
+      "numero": "1622",
+      "urn": "urn:lex:br:federal:decreto:1855-06-20;1622",
+      "ementa": "DECLARA DE 3ª ENTRÂNCIA O LUGAR DE JUIZ DE DIREITO ESPECIAL DO COMÉRCIO DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "393487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-20-1621",
+      "titulo": "Decreto nº 1.621 de 20/06/1855",
+      "data": "1855-06-20",
+      "numero": "1621",
+      "urn": "urn:lex:br:federal:decreto:1855-06-20;1621",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DA CIDADE DE MEIA-PONTE, VILAS DE CORUMBÁ, TRAÍRAS E SÃO JOSÉ DE TOCANTINS, DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-16-1619",
+      "titulo": "Decreto nº 1.619 de 16/06/1855",
+      "data": "1855-06-16",
+      "numero": "1619",
+      "urn": "urn:lex:br:federal:decreto:1855-06-16;1619",
+      "ementa": "ALTERA A DIVISÃO DOS DISTRITOS CRIADOS PARA A INSPEÇÃO DO ENSINO PRIMÁRIO E SECUNDÁRIO."
+    },
+    {
+      "senadoId": "393472",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-13-1617",
+      "titulo": "Decreto nº 1.617 de 13/06/1855",
+      "data": "1855-06-13",
+      "numero": "1617",
+      "urn": "urn:lex:br:federal:decreto:1855-06-13;1617",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA ORGANIZADA NESTA CÔRTE, PARA TOMAR A SI A EMPRESA DO DIÁRIO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "393456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-09-1613",
+      "titulo": "Decreto nº 1.613 de 09/06/1855",
+      "data": "1855-06-09",
+      "numero": "1613",
+      "urn": "urn:lex:br:federal:decreto:1855-06-09;1613",
+      "ementa": "AUTORIZA A INCORPORAÇÃO, E APROVA OS ESTATUTOS PROVISÓRIOS DA COMPANHIA DA ESTRADA DE MANGARATIBA."
+    },
+    {
+      "senadoId": "393460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-09-1614",
+      "titulo": "Decreto nº 1.614 de 09/06/1855",
+      "data": "1855-06-09",
+      "numero": "1614",
+      "urn": "urn:lex:br:federal:decreto:1855-06-09;1614",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DA BAHIA, DESDE A CAPITAL DA MESMA PROVÍNCIA, ATÉ O RIO DE SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "393464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-09-1615",
+      "titulo": "Decreto nº 1.615 de 09/06/1855",
+      "data": "1855-06-09",
+      "numero": "1615",
+      "urn": "urn:lex:br:federal:decreto:1855-06-09;1615",
+      "ementa": "APROVA A CONVENÇÃO FEITA COM JOAQUIM FRANCISCO ALVES BRANCO MUNIZ BARRETO, CONCESSIONÁRIO DA ESTRADA DE FERRO, QUE PARTINDO DE QUALQUER PONTO PRÓXIMO Á CAPITAL DA PROVÍNCIA DA BAHIA, VÁ TERMINAR NA VILA DO JUAZEIRO, OU EM OUTRO LUGAR MAIS CONVENIENTE DO RIO DE SÃO FRANCISCO, SOB ALGUMAS DAS CONDIÇÕES DO DECRETO NÚMERO 1.299, DE 19 DE DEZEMBRO DE 1853."
+    },
+    {
+      "senadoId": "393449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-06-03-1611",
+      "titulo": "Decreto nº 1.611 de 03/06/1855",
+      "data": "1855-06-03",
+      "numero": "1611",
+      "urn": "urn:lex:br:federal:decreto:1855-06-03;1611",
+      "ementa": "CONVOCA A NOVA ASSEMBLÉIA GERAL ORDINÁRIA."
+    },
+    {
+      "senadoId": "393445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-23-1610",
+      "titulo": "Decreto nº 1.610 de 23/05/1855",
+      "data": "1855-05-23",
+      "numero": "1610",
+      "urn": "urn:lex:br:federal:decreto:1855-05-23;1610",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA ORGANIZADA NESTA CÔRTE, COM O TÍTULO DE EMPRESA LITERÁRIA DOIS DE DEZEMBRO."
+    },
+    {
+      "senadoId": "393440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-19-1609",
+      "titulo": "Decreto nº 1.609 de 19/05/1855",
+      "data": "1855-05-19",
+      "numero": "1609",
+      "urn": "urn:lex:br:federal:decreto:1855-05-19;1609",
+      "ementa": "DECLARA DE 3ª ENTRÂNCIA, OS LUGARES DE JUÍZES DE DIREITO DO COMÉRCIO DA CAPITAL DO IMPÉRIO, E DAS PROVÍNCIAS DA BAHIA E PERNAMBUCO."
+    },
+    {
+      "senadoId": "393436",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-19-1608",
+      "titulo": "Decreto nº 1.608 de 19/05/1855",
+      "data": "1855-05-19",
+      "numero": "1608",
+      "urn": "urn:lex:br:federal:decreto:1855-05-19;1608",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DA 3ª VARA CÍVEL DO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "393432",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-19-1607",
+      "titulo": "Decreto nº 1.607 de 19/05/1855",
+      "data": "1855-05-19",
+      "numero": "1607",
+      "urn": "urn:lex:br:federal:decreto:1855-05-19;1607",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE BOA VISTA, CABROBÓ E OURICURI, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "393425",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-19-1605",
+      "titulo": "Decreto nº 1.605 de 19/05/1855",
+      "data": "1855-05-19",
+      "numero": "1605",
+      "urn": "urn:lex:br:federal:decreto:1855-05-19;1605",
+      "ementa": "ALTERA AS DISPOSIÇÕES DO DECRETO NÚMERO TREZENTOS E CINCO, DE DOIS DE JUNHO DE MIL OITOCENTOS E QUARENTA E TRÊS, RELATIVAS ÁS DIMENSÕES DAS BANDEIRAS DE SINAIS DOS NAVIOS DA ARMADA."
+    },
+    {
+      "senadoId": "393417",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-14-1603",
+      "titulo": "Decreto nº 1.603 de 14/05/1855",
+      "data": "1855-05-14",
+      "numero": "1603",
+      "urn": "urn:lex:br:federal:decreto:1855-05-14;1603",
+      "ementa": "DÁ NOVOS ESTATUTOS Á ACADEMIA DAS BELAS ARTES."
+    },
+    {
+      "senadoId": "393413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-14-1602",
+      "titulo": "Decreto nº 1.602 de 14/05/1855",
+      "data": "1855-05-14",
+      "numero": "1602",
+      "urn": "urn:lex:br:federal:decreto:1855-05-14;1602",
+      "ementa": "FIXA PROVISORIAMENTE O MÁXIMO DO CAPITAL DA EMPRESA DA ESTRADA DE FERRO DA BAHIA, CONTRATADA POR JOAQUIM FRANCISCO ALVES BRANCO MUNIZ BARRETO."
+    },
+    {
+      "senadoId": "393421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-14-1604",
+      "titulo": "Decreto nº 1.604 de 14/05/1855",
+      "data": "1855-05-14",
+      "numero": "1604",
+      "urn": "urn:lex:br:federal:decreto:1855-05-14;1604",
+      "ementa": "SEPARA O TERMO DE MANGARATIBA, DO DE ANGRA DOS REIS, NA PROVÍNCIA DO RIO DE JANEIRO; E CRIA NELE UM JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRFÃOS."
+    },
+    {
+      "senadoId": "393404",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-10-1600",
+      "titulo": "Decreto nº 1.600 de 10/05/1855",
+      "data": "1855-05-10",
+      "numero": "1600",
+      "urn": "urn:lex:br:federal:decreto:1855-05-10;1600",
+      "ementa": "MANDA EXECUTAR A TABELA QUE REGULA AS TAXAS QUE SE DEVEM COBRAR NA CONFORMIDADE DO ARTIGO 132, DO REGULAMENTO DA INSTRUÇÃO PRIMÁRIA E SECUNDÁRIA, ANEXO AO DECRETO NÚMERO 1.331 A, DE 17 DE FEVEREIRO DE 1854."
+    },
+    {
+      "senadoId": "393408",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-10-1601",
+      "titulo": "Decreto nº 1.601 de 10/05/1855",
+      "data": "1855-05-10",
+      "numero": "1601",
+      "urn": "urn:lex:br:federal:decreto:1855-05-10;1601",
+      "ementa": "MANDA EXECUTAR AS INSTRUÇÕES PARA OS EXAMES DE QUE TRATA O ARTIGO 112, DO REGULAMENTO DA INSTRUÇÃO PRIMÁRIA E SECUNDÁRIA, ANEXO AO DECRETO NÚMERO 1.331 A, DE 17 DE FEVEREIRO DE 1854."
+    },
+    {
+      "senadoId": "393396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-09-1598",
+      "titulo": "Decreto nº 1.598 de 09/05/1855",
+      "data": "1855-05-09",
+      "numero": "1598",
+      "urn": "urn:lex:br:federal:decreto:1855-05-09;1598",
+      "ementa": "ORDENA QUE A EXECUÇÃO DO CONTRATO CELEBRADO PELO MINISTRO BRASILEIRO EM LONDRES, PARA A FATURA DE UMA PARTE DO CAMINHO DE FERRO AUTORIZADO PELO DECRETO N.641 DE 26 DE JUNHO DE 1852, SEJA COMETIDA A UMA COMPANHIA ORGANIZADA NESTA CÔRTE."
+    },
+    {
+      "senadoId": "393400",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-09-1599",
+      "titulo": "Decreto nº 1.599 de 09/05/1855",
+      "data": "1855-05-09",
+      "numero": "1599",
+      "urn": "urn:lex:br:federal:decreto:1855-05-09;1599",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DE D. PEDRO II."
+    },
+    {
+      "senadoId": "393392",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-05-01-1597",
+      "titulo": "Decreto nº 1.597 de 01/05/1855",
+      "data": "1855-05-01",
+      "numero": "1597",
+      "urn": "urn:lex:br:federal:decreto:1855-05-01;1597",
+      "ementa": "DÁ REGULAMENTO PARA OS TRIBUNAIS DO COMÉRCIO."
+    },
+    {
+      "senadoId": "393388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-30-1596",
+      "titulo": "Decreto nº 1.596 de 30/04/1855",
+      "data": "1855-04-30",
+      "numero": "1596",
+      "urn": "urn:lex:br:federal:decreto:1855-04-30;1596",
+      "ementa": "ABRINDO AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 521.200$000, PARA AS DESPESAS DO EXERCÍCIO DE 1854 - 1855."
+    },
+    {
+      "senadoId": "393384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-28-1595",
+      "titulo": "Decreto nº 1.595 de 28/04/1855",
+      "data": "1855-04-28",
+      "numero": "1595",
+      "urn": "urn:lex:br:federal:decreto:1855-04-28;1595",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA QUE SE PRETENDE FUNDAR NA PROVÍNCIA DE SÃO PAULO, SOB A DENOMINAÇÃO DE COMPANHIA AUXILIADORA DO COMÉRCIO E AGRICULTURA."
+    },
+    {
+      "senadoId": "393377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-21-1594",
+      "titulo": "Decreto nº 1.594 de 21/04/1855",
+      "data": "1855-04-21",
+      "numero": "1594",
+      "urn": "urn:lex:br:federal:decreto:1855-04-21;1594",
+      "ementa": "DISSOLVE O 6º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO MUNICÍPIO DA CÔRTE, E ORGANIZA UM BATALHÃO DE INFANTARIA DOS GUARDAS QUALIFICADOS NAS FREGUESIAS DE SANTO ANTÔNIO, ENGENHO VELHO, E INHAUMA DO MESMO MUNICÍPIO."
+    },
+    {
+      "senadoId": "393372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-18-1593",
+      "titulo": "Decreto nº 1.593 de 18/04/1855",
+      "data": "1855-04-18",
+      "numero": "1593",
+      "urn": "urn:lex:br:federal:decreto:1855-04-18;1593",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS PARA A COMPANHIA PROJETADA SOB A DENOMINAÇÃO DE COMPANHIA DE ÓLEOS VEGETAIS."
+    },
+    {
+      "senadoId": "393368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-17-1592",
+      "titulo": "Decreto nº 1.592 de 17/04/1855",
+      "data": "1855-04-17",
+      "numero": "1592",
+      "urn": "urn:lex:br:federal:decreto:1855-04-17;1592",
+      "ementa": "REVOGANDO O DECRETO NÚMERO 1239, DE 30 DE SETEMBRO DE 1853, QUE REDUZIU A 11.800$000, A QUANTIA DE 14.300$000, FIXADA PELO DECRETO NÚMERO 954, DE 6 DE ABRIL DE 1852, PARA DESPESAS DE REPRESENTAÇÃO DO ENVIADO EXTRAORDINÁRIO E MINISTRO PLENIPOTENCIÁRIO EM PORTUGAL."
+    },
+    {
+      "senadoId": "393352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-14-1588",
+      "titulo": "Decreto nº 1.588 de 14/04/1855",
+      "data": "1855-04-14",
+      "numero": "1588",
+      "urn": "urn:lex:br:federal:decreto:1855-04-14;1588",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE CANAVIEIRAS, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "393348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-14-1587",
+      "titulo": "Decreto nº 1.587 de 14/04/1855",
+      "data": "1855-04-14",
+      "numero": "1587",
+      "urn": "urn:lex:br:federal:decreto:1855-04-14;1587",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE BELMONTE, SANTA CRUZ, PORTO SEGURO, TRANCOSO, E VILA VERDE DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "393360",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-14-1590",
+      "titulo": "Decreto nº 1.590 de 14/04/1855",
+      "data": "1855-04-14",
+      "numero": "1590",
+      "urn": "urn:lex:br:federal:decreto:1855-04-14;1590",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE PILÃO ARCADO, SENTO SÉ E JUAZEIRO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "393364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-14-1591",
+      "titulo": "Decreto nº 1.591 de 14/04/1855",
+      "data": "1855-04-14",
+      "numero": "1591",
+      "urn": "urn:lex:br:federal:decreto:1855-04-14;1591",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES POR QUE DEVE SER FEITO O ALISTAMENTO DE VOLUNTÁRIOS E DE RECRUTAS PARA O SERVIÇO DA ARMADA."
+    },
+    {
+      "senadoId": "393343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-11-1586",
+      "titulo": "Decreto nº 1.586 de 11/04/1855",
+      "data": "1855-04-11",
+      "numero": "1586",
+      "urn": "urn:lex:br:federal:decreto:1855-04-11;1586",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE CARAVELAS, VIÇOSA, PORTO ALEGRE, ALCOBAÇA, E PRADO DA PROVÍNICA DA BAHIA."
+    },
+    {
+      "senadoId": "393339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-04-1585",
+      "titulo": "Decreto nº 1.585 de 04/04/1855",
+      "data": "1855-04-04",
+      "numero": "1585",
+      "urn": "urn:lex:br:federal:decreto:1855-04-04;1585",
+      "ementa": "APROVA O PLANO DOS UNIFORMES DO BATALHÃO DE ENGENHEIROS."
+    },
+    {
+      "senadoId": "393323",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-02-1581",
+      "titulo": "Decreto nº 1.581 de 02/04/1855",
+      "data": "1855-04-02",
+      "numero": "1581",
+      "urn": "urn:lex:br:federal:decreto:1855-04-02;1581",
+      "ementa": "AUTORIZA O BANCO DO BRASIL A ELEVAR A SUA EMISSÃO ATÉ AO TRIPLO DO FUNDO DISPONÍVEL."
+    },
+    {
+      "senadoId": "393331",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-02-1583",
+      "titulo": "Decreto nº 1.583 de 02/04/1855",
+      "data": "1855-04-02",
+      "numero": "1583",
+      "urn": "urn:lex:br:federal:decreto:1855-04-02;1583",
+      "ementa": "CRIA UMA MESA DE RENDAS NA VILA DE ANTONINA, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "393335",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-02-1584",
+      "titulo": "Decreto nº 1.584 de 02/04/1855",
+      "data": "1855-04-02",
+      "numero": "1584",
+      "urn": "urn:lex:br:federal:decreto:1855-04-02;1584",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - ASSOCIAÇÃO CENTRAL DE COLONIZAÇÃO."
+    },
+    {
+      "senadoId": "393327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-04-02-1582",
+      "titulo": "Decreto nº 1.582 de 02/04/1855",
+      "data": "1855-04-02",
+      "numero": "1582",
+      "urn": "urn:lex:br:federal:decreto:1855-04-02;1582",
+      "ementa": "MANDA QUE SEJAM MATRICULADOS NAS CAPITANIAS DOS PORTOS TODOS OS CALAFATES E CARPINTEIROS DE EMBARCAÇÕES, QUE EFETIVAMENTE EXERCEREM ESSAS PROFISSÕES."
+    },
+    {
+      "senadoId": "393319",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-21-1580",
+      "titulo": "Decreto nº 1.580 de 21/03/1855",
+      "data": "1855-03-21",
+      "numero": "1580",
+      "urn": "urn:lex:br:federal:decreto:1855-03-21;1580",
+      "ementa": "APROVA QUATRO PROJETOS DE ESTATUTOS PARA A CRIAÇÃO DE CAIXAS FILIAIS DO BANCO DO BRASIL, NAS CIDADES DA BAHIA, RECIFE, SÃO LUIZ DO MARANHÃO, E BELÉM DO PARÁ; E BEM ASSIM, DOIS OUTROS MODIFICANDO A ORGANIZAÇÃO DAS CAIXAS FILIAIS DO EXTINTO BANCO DO BRASIL, ESTABELECIDAS NAS CIDADES DO RIO GRANDE DO SUL E DE SÃO PAULO, E CONVERTIDAS EM FILIAIS DO ATUAL BANCO."
+    },
+    {
+      "senadoId": "393315",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-14-1579",
+      "titulo": "Decreto nº 1.579 de 14/03/1855",
+      "data": "1855-03-14",
+      "numero": "1579",
+      "urn": "urn:lex:br:federal:decreto:1855-03-14;1579",
+      "ementa": "CRIA UM DISTINTIVO PARA AS PESSOAS QUE SE TORNAREM NOTÁVEIS POR SERVIÇOS EXTRAORDINÁRIOS PRESTADOS Á HUMANIDADE, E MANDA CUNHAR, PARA O REFERIDO FIM, DUAS CLASSES DE MEDALHAS."
+    },
+    {
+      "senadoId": "393307",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-10-1577",
+      "titulo": "Decreto nº 1.577 de 10/03/1855",
+      "data": "1855-03-10",
+      "numero": "1577",
+      "urn": "urn:lex:br:federal:decreto:1855-03-10;1577",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA ANÔNIMA DENOMINADA - EMPRESA MUNICIPAL - ESTABELECIDA NESTA CÔRTE PARA LEVAR A EFEITO DA HARMONIA, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "393298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-10-1575",
+      "titulo": "Decreto nº 1.575 de 10/03/1855",
+      "data": "1855-03-10",
+      "numero": "1575",
+      "urn": "urn:lex:br:federal:decreto:1855-03-10;1575",
+      "ementa": "CONFIRMA A DELIBERAÇÃO DE MESA E JUNTA DA SANTA CASA DE MISERICÓRDIA DA CÔRTE, ELEVANDO A OITENTA, O NÚMERO DAS ÓRFÃS DO RECOLHIMENTO DA MESMA SANTA CASA."
+    },
+    {
+      "senadoId": "393303",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-10-1576",
+      "titulo": "Decreto nº 1.576 de 10/03/1855",
+      "data": "1855-03-10",
+      "numero": "1576",
+      "urn": "urn:lex:br:federal:decreto:1855-03-10;1576",
+      "ementa": "RELEVA A SANTA CASA DE MISERICÓRDIA DESTA CÔRTE, DA OBRIGAÇÃO DE MANTER EM TEMPOS ORDINÁRIOS, DUAS DAS TRÊS ENFERMARIAS, DE QUE TRATA O PARÁGRAFO 3º, DO ARTIGO 1º, DO DECRETO NÚMERO 583, DE 5 DE SETEMBRO DE 1850."
+    },
+    {
+      "senadoId": "393311",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-10-1578",
+      "titulo": "Decreto nº 1.578 de 10/03/1855",
+      "data": "1855-03-10",
+      "numero": "1578",
+      "urn": "urn:lex:br:federal:decreto:1855-03-10;1578",
+      "ementa": "CRIA DUAS COLÔNIAS MILITARES NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "393294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-07-1574",
+      "titulo": "Decreto nº 1.574 de 07/03/1855",
+      "data": "1855-03-07",
+      "numero": "1574",
+      "urn": "urn:lex:br:federal:decreto:1855-03-07;1574",
+      "ementa": "DECLARA QUE DAS DECISÕES SOBRE MATÉRIA DE COMPETÊNCIA DADAS EM QUALQUER JUÍZO, AINDA QUE AS CAUSAS CAIBAM NA ALÇADA, A AGRAVO DE PETIÇÃO OU INSTRUMENTO, E MARCA A FORMA DO PROCESSO E SUPERIORES, QUE ELES DEVEM CONHECER."
+    },
+    {
+      "senadoId": "393290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-07-1573",
+      "titulo": "Decreto nº 1.573 de 07/03/1855",
+      "data": "1855-03-07",
+      "numero": "1573",
+      "urn": "urn:lex:br:federal:decreto:1855-03-07;1573",
+      "ementa": "ELEVA O NÚMERO DOS CORRETORES DE FUNDOS PÚBLICOS, E DE MERCADORIAS DA PRAÇA DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "393285",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-07-1572",
+      "titulo": "Decreto nº 1.572 de 07/03/1855",
+      "data": "1855-03-07",
+      "numero": "1572",
+      "urn": "urn:lex:br:federal:decreto:1855-03-07;1572",
+      "ementa": "DECLARA COMO SE DEVEM REGULAR OS PRESIDENTES DOS TRIBUNAIS E JUÍZES, PARA A SUSPENSÃO CORRECIONAL DOS ESCRIVÃES OU TABELIÃES, QUE PERANTE ELES SERVEM."
+    },
+    {
+      "senadoId": "393277",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-03-1570",
+      "titulo": "Decreto nº 1.570 de 03/03/1855",
+      "data": "1855-03-03",
+      "numero": "1570",
+      "urn": "urn:lex:br:federal:decreto:1855-03-03;1570",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE SERINHAEM, RIO FORMOSO E BARREIROS, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "393273",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-03-1569",
+      "titulo": "Decreto nº 1.569 de 03/03/1855",
+      "data": "1855-03-03",
+      "numero": "1569",
+      "urn": "urn:lex:br:federal:decreto:1855-03-03;1569",
+      "ementa": "APROVA O REGIMENTO DE CUSTAS JUDICIÁRIAS MANDADO ORGANIZAR PELA LEI NÚMERO 604, DE 3 DE JULHO DE 1851."
+    },
+    {
+      "senadoId": "393281",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-03-03-1571",
+      "titulo": "Decreto nº 1.571 de 03/03/1855",
+      "data": "1855-03-03",
+      "numero": "1571",
+      "urn": "urn:lex:br:federal:decreto:1855-03-03;1571",
+      "ementa": "CONCEDE UM CRÉDITO SUPLEMENTAR DE 2:650$000, Á VERBA ` EMPREGADOS EM DISPONIBILIDADE ´ DO PARÁGRAFO 3º, DO ARTIGO 4º, DA LEI NÚMERO 719, DE 28 DE SETEMBRO DE 1853, NO CORRENTE ANO FINANCEIRO DE 1854 - 1855."
+    },
+    {
+      "senadoId": "393269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-24-1568",
+      "titulo": "Decreto nº 1.568 de 24/02/1855",
+      "data": "1855-02-24",
+      "numero": "1568",
+      "urn": "urn:lex:br:federal:decreto:1855-02-24;1568",
+      "ementa": "APROVA O REGULAMENTO COMPLEMENTAR DOS ESTATUTOS DAS FACULDADES DE DIREITO DO IMPÉRIO, PARA EXECUÇÃO DO PARÁGRAFO 3º, DO ARTIGO 21, DO DECRETO NÚMERO 1.386, DE 28 DE ABRIL DE 1854."
+    },
+    {
+      "senadoId": "393265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-24-1567",
+      "titulo": "Decreto nº 1.567 de 24/02/1855",
+      "data": "1855-02-24",
+      "numero": "1567",
+      "urn": "urn:lex:br:federal:decreto:1855-02-24;1567",
+      "ementa": "AUTORIZA A ADMINISTRAÇÃO DA SANTA CASA DA MISERICÓRDIA DESTA CÔRTE PARA FUNDAR, MEDIANTE UM NOVO EMPRÉSTIMO, A DÍVIDA QUE CONTRAIU, PARA OCORRER ÁS DESPESAS EXTRAORDINÁRIAS QUE TEVE DE FAZER COM A FUNDAÇÃO E ADMINISTRAÇÃO DOS CEMITÉRIOS, SERVIÇO DOS ENTERROS, E CRIAÇÃO DE ENFERMARIAS PARA TRATAMENTO E SOCORRO DA POBREZA."
+    },
+    {
+      "senadoId": "393252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-24-1564",
+      "titulo": "Decreto nº 1.564 de 24/02/1855",
+      "data": "1855-02-24",
+      "numero": "1564",
+      "urn": "urn:lex:br:federal:decreto:1855-02-24;1564",
+      "ementa": "APROVA OS ESTATUTOS ORGANIZADOS PARA A COMPANHIA NITERÓI E INHOMERIM."
+    },
+    {
+      "senadoId": "393257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-24-1565",
+      "titulo": "Decreto nº 1.565 de 24/02/1855",
+      "data": "1855-02-24",
+      "numero": "1565",
+      "urn": "urn:lex:br:federal:decreto:1855-02-24;1565",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ESTATÍSTICA DO BRASIL ESTABELECIDA NESTA CÔRTE."
+    },
+    {
+      "senadoId": "393261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-24-1566",
+      "titulo": "Decreto nº 1.566 de 24/02/1855",
+      "data": "1855-02-24",
+      "numero": "1566",
+      "urn": "urn:lex:br:federal:decreto:1855-02-24;1566",
+      "ementa": "AUTORIZA A INCORPORAÇÃO, E APROVA OS ESTATUTOS DA COMPANHIA DENOMINADA - ASSOCIAÇÃO COLONIAL DO RIO NOVO."
+    },
+    {
+      "senadoId": "393248",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-24-1563",
+      "titulo": "Decreto nº 1.563 de 24/02/1855",
+      "data": "1855-02-24",
+      "numero": "1563",
+      "urn": "urn:lex:br:federal:decreto:1855-02-24;1563",
+      "ementa": "APROVA O REGULAMENTO PARA A EXECUÇÃO DOS ARTIGOS 4º E 8º, DO DECRETO NÚMERO 806, DE 23 DE SETEMBRO DE 1854, RELATIVO Á ABERTURA DA RUA DO CANO."
+    },
+    {
+      "senadoId": "393244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-21-1562",
+      "titulo": "Decreto nº 1.562 de 21/02/1855",
+      "data": "1855-02-21",
+      "numero": "1562",
+      "urn": "urn:lex:br:federal:decreto:1855-02-21;1562",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE PARANAGUÁ, GUARATUBA, MORRETES E ANTONINA, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "393240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-21-1561",
+      "titulo": "Decreto nº 1.561 de 21/02/1855",
+      "data": "1855-02-21",
+      "numero": "1561",
+      "urn": "urn:lex:br:federal:decreto:1855-02-21;1561",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE CASTRO E GUARAPUAVA, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "393227",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-21-1558",
+      "titulo": "Decreto nº 1.558 de 21/02/1855",
+      "data": "1855-02-21",
+      "numero": "1558",
+      "urn": "urn:lex:br:federal:decreto:1855-02-21;1558",
+      "ementa": "DECLARA QUE NA DISPOSIÇÃO DO PARÁGRAFO 7º, DO ARTIGO 1º, DO DECRETO NÚMERO 870, DE 22 DE NOVEMBRO DE 1851, ESTÁ COMPREENDIDA A ATRIBUIÇÃO DAS TESOURARIAS IMPOREM AS MULTAS DE QUE TRATA O ARTIGO 36, DA LEI NÚMERO 628, DE 17 DE SETEMBRO DO MESMO ANO."
+    },
+    {
+      "senadoId": "393231",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-21-1559",
+      "titulo": "Decreto nº 1.559 de 21/02/1855",
+      "data": "1855-02-21",
+      "numero": "1559",
+      "urn": "urn:lex:br:federal:decreto:1855-02-21;1559",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE SANTA CRUZ, E MARCA O DO CARCEREIRO DA CADEIA DA VILA DE CANINDÉ, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "393236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-21-1560",
+      "titulo": "Decreto nº 1.560 de 21/02/1855",
+      "data": "1855-02-21",
+      "numero": "1560",
+      "urn": "urn:lex:br:federal:decreto:1855-02-21;1560",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE CURITIBA, SÃO JOSÉ DOS PINHAIS E PRÍNCIPE, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "393223",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-17-1557",
+      "titulo": "Decreto nº 1.557 de 17/02/1855",
+      "data": "1855-02-17",
+      "numero": "1557",
+      "urn": "urn:lex:br:federal:decreto:1855-02-17;1557",
+      "ementa": "APROVA O NOVO REGULAMENTO PARA OS CEMITÉRIOS PÚBLICOS E PARTICULARES DA CIDADE DO RIO DE JANEIRO, SERVIÇO DOS ENTERROS E TAXAS FUNERÁRIAS."
+    },
+    {
+      "senadoId": "393215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-17-1555",
+      "titulo": "Decreto nº 1.555 de 17/02/1855",
+      "data": "1855-02-17",
+      "numero": "1555",
+      "urn": "urn:lex:br:federal:decreto:1855-02-17;1555",
+      "ementa": "ABRINDO AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 69.500$000 PARA AS DESPESAS DA CASA DA MOEDA NO EXERCÍCIO DE 1854 - 1855."
+    },
+    {
+      "senadoId": "393219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-17-1556",
+      "titulo": "Decreto nº 1.556 de 17/02/1855",
+      "data": "1855-02-17",
+      "numero": "1556",
+      "urn": "urn:lex:br:federal:decreto:1855-02-17;1556",
+      "ementa": "APROVA O REGULAMENTO DO COLÉGIO DE PEDRO SEGUNDO."
+    },
+    {
+      "senadoId": "393211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-14-1554",
+      "titulo": "Decreto nº 1.554 de 14/02/1855",
+      "data": "1855-02-14",
+      "numero": "1554",
+      "urn": "urn:lex:br:federal:decreto:1855-02-14;1554",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO À GUARDA NACIONAL DOS MUNICÍPIOS DE FRANCA, BATATAIS E CASA BRANCA, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "393190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-10-1550",
+      "titulo": "Decreto nº 1.550 de 10/02/1855",
+      "data": "1855-02-10",
+      "numero": "1550",
+      "urn": "urn:lex:br:federal:decreto:1855-02-10;1550",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS - INDENIZADORA - DA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "393194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-10-1551",
+      "titulo": "Decreto nº 1.551 de 10/02/1855",
+      "data": "1855-02-10",
+      "numero": "1551",
+      "urn": "urn:lex:br:federal:decreto:1855-02-10;1551",
+      "ementa": "MANDA OBSERVAR NAS PROVÍNCIAS, O REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 1.324, DE 5 DE FEVEREIRO DO ANO PASSADO, RELATIVO AOS MAQUINISTAS E ÁS BARCAS DE VAPOR NACIONAIS."
+    },
+    {
+      "senadoId": "393198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-10-1552",
+      "titulo": "Decreto nº 1.552 de 10/02/1855",
+      "data": "1855-02-10",
+      "numero": "1552",
+      "urn": "urn:lex:br:federal:decreto:1855-02-10;1552",
+      "ementa": "ESTABELECE UMA CAPITANIA DO PORTO NA CIDADE DA PARNAÍBA, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "393202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-10-1553",
+      "titulo": "Decreto nº 1.553 de 10/02/1855",
+      "data": "1855-02-10",
+      "numero": "1553",
+      "urn": "urn:lex:br:federal:decreto:1855-02-10;1553",
+      "ementa": "ESTABELECE AS GRATIFICAÇÕES DOS PROFESSORES DO CONSERVATÓRIO DE MÚSICA."
+    },
+    {
+      "senadoId": "393186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-07-1549",
+      "titulo": "Decreto nº 1.549 de 07/02/1855",
+      "data": "1855-02-07",
+      "numero": "1549",
+      "urn": "urn:lex:br:federal:decreto:1855-02-07;1549",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE BARCELOS, DA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "393182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-07-1548",
+      "titulo": "Decreto nº 1.548 de 07/02/1855",
+      "data": "1855-02-07",
+      "numero": "1548",
+      "urn": "urn:lex:br:federal:decreto:1855-02-07;1548",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NA COMARCA DE SANTOS, PROVÍNCIA DE SÃO PAULO, DESLIGANDO DO COMANDO SUPERIOR DA COMARCA DA CAPITAL, A FORÇA QUALIFICADA NOS MUNICÍPIOS DE SANTOS, SÃO VICENTE E ITANHAEM, DA REFERIDA PROVÍNCIA."
+    },
+    {
+      "senadoId": "393177",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-03-1547",
+      "titulo": "Decreto nº 1.547 de 03/02/1855",
+      "data": "1855-02-03",
+      "numero": "1547",
+      "urn": "urn:lex:br:federal:decreto:1855-02-03;1547",
+      "ementa": "CONCEDE AO BACHAREL FRANCISCO ANTÔNIO PEREIRA ROCHA PRIVILÉGIO EXCLUSIVO POR DEZ ANOS, PARA ESTABELECER NO PORTO DA CAPITAL DA PROVÍNCIA DA BAHIA UMA CALE A HALER OU PATENT SLIP."
+    },
+    {
+      "senadoId": "393172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-02-03-1546",
+      "titulo": "Decreto nº 1.546 de 03/02/1855",
+      "data": "1855-02-03",
+      "numero": "1546",
+      "urn": "urn:lex:br:federal:decreto:1855-02-03;1546",
+      "ementa": "FAZ EXTENSIVO AOS PROCESSOS JULGADOS EM GRAU DE REVISTA NAS RELAÇÕES DO IMPÉRIO A DISPOSIÇÃO DOS ARTIGOS 204 E SEGUINTES DO REGULAMENTO NÚMERO 399, DE 21 DE DEZEMBRO DE 1844."
+    },
+    {
+      "senadoId": "393162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-31-1544",
+      "titulo": "Decreto nº 1.544 de 31/01/1855",
+      "data": "1855-01-31",
+      "numero": "1544",
+      "urn": "urn:lex:br:federal:decreto:1855-01-31;1544",
+      "ementa": "AUMENTA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS COMARCAS DE OURO PRETO E DO RIO DAS MORTES, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "393168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-31-1545",
+      "titulo": "Decreto nº 1.545 de 31/01/1855",
+      "data": "1855-01-31",
+      "numero": "1545",
+      "urn": "urn:lex:br:federal:decreto:1855-01-31;1545",
+      "ementa": "CRIA MAIS UM ESQUADRÃO DE CAVALARIA DA GUARDA NACIONAL NAS FREGUESIAS DA MURIBECA, SANTO AMARO DO JABOATÃO, E SÃO LOURENÇO DA MATA, DO MUNICÍPIO DO RECIFE."
+    },
+    {
+      "senadoId": "393158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-27-1543",
+      "titulo": "Decreto nº 1.543 de 27/01/1855",
+      "data": "1855-01-27",
+      "numero": "1543",
+      "urn": "urn:lex:br:federal:decreto:1855-01-27;1543",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "393154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1542",
+      "titulo": "Decreto nº 1.542 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1542",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1542",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO AO CONSERVATÓRIO DE MÚSICA."
+    },
+    {
+      "senadoId": "393124",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1535",
+      "titulo": "Decreto nº 1.535 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1535",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1535",
+      "ementa": "CRIA UM BATALHÃO DE ENGENHEIROS."
+    },
+    {
+      "senadoId": "393147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1541",
+      "titulo": "Decreto nº 1.541 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1541",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1541",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DAS VILAS DE CATALÃO E SANTA CRUZ, DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1539",
+      "titulo": "Decreto nº 1.539 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1539",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1539",
+      "ementa": "ELEVA Á CATEGORIA DE SEÇÃO DE BATALHÃO, A COMPANHIA AVULSA DE RESERVA DA GUARDA NACIONAL DAS FREGUESIAS DA SÉ, E PEDRO 2º, DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "393143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1540",
+      "titulo": "Decreto nº 1.540 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1540",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1540",
+      "ementa": "REÚNE AO COMANDO SUPERIOR DA GUARDA NACIONAL, DO MUNICÍPIO DE MARAGOGIPE, DA PROVÍNCIA DA BAHIA, O BATALHÃO DE INFANTARIA AVULSO DO MUNICÍPIO DA TAPERA, DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "393135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1538",
+      "titulo": "Decreto nº 1.538 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1538",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1538",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE PORTO IMPERIAL E NATIVIDADE, DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393120",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1534",
+      "titulo": "Decreto nº 1.534 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1534",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1534",
+      "ementa": "ALTERA O CURSO DE ESTUDOS DA ESCOLA MILITAR."
+    },
+    {
+      "senadoId": "393127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1536",
+      "titulo": "Decreto nº 1.536 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1536",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1536",
+      "ementa": "CRIA UMA ESCOLA DE APLICAÇÃO DO EXERCITO NA CONFORMIDADE DO REGULAMENTO, QUE COM ELE BAIXA."
+    },
+    {
+      "senadoId": "393131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-23-1537",
+      "titulo": "Decreto nº 1.537 de 23/01/1855",
+      "data": "1855-01-23",
+      "numero": "1537",
+      "urn": "urn:lex:br:federal:decreto:1855-01-23;1537",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE SÃO JOÃO DA PALMA, CONCEIÇÃO DO NORTE E SÃO DOMINGOS, DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393116",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-22-1533",
+      "titulo": "Decreto nº 1.533 de 22/01/1855",
+      "data": "1855-01-22",
+      "numero": "1533",
+      "urn": "urn:lex:br:federal:decreto:1855-01-22;1533",
+      "ementa": "CONCEDE A ARCHANGELO FIORITO, PRIVILÉGIO EXCLUSIVO POR CINCO ANOS, PARA O FABRICO DE MASSAS ALIMENTARES."
+    },
+    {
+      "senadoId": "393112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-22-1532",
+      "titulo": "Decreto nº 1.532 de 22/01/1855",
+      "data": "1855-01-22",
+      "numero": "1532",
+      "urn": "urn:lex:br:federal:decreto:1855-01-22;1532",
+      "ementa": "RESTABELECE O VENCIMENTO ANUAL DE OITOCENTOS MIL RÉIS, AOS TRÊS DIRETORES DAS SEÇÕES DO MUSEU NACIONAL DESTA CÔRTE, QUE POR DECRETO DE 5 DE NOVEMBRO DE 1843, SE HAVIA REDUZIDO A DUZENTOS MIL RÉIS."
+    },
+    {
+      "senadoId": "393108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-10-1531",
+      "titulo": "Decreto nº 1.531 de 10/01/1855",
+      "data": "1855-01-10",
+      "numero": "1531",
+      "urn": "urn:lex:br:federal:decreto:1855-01-10;1531",
+      "ementa": "ISENTA OS ESTRANGEIROS DO TÍTULO DE RESIDÊNCIA, E PERMITE QUE ELES VIAGEM DENTRO DO IMPÉRIO COM O PASSAPORTE QUE TROUXERAM E NA FALTA DELE, COM O DOS MINISTROS, CONSULES OU VICE-CONSULES RESPECTIVOS, TENDO O VISTO DA AUTORIDADE BRASILEIRA."
+    },
+    {
+      "senadoId": "393104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-10-1530",
+      "titulo": "Decreto nº 1.530 de 10/01/1855",
+      "data": "1855-01-10",
+      "numero": "1530",
+      "urn": "urn:lex:br:federal:decreto:1855-01-10;1530",
+      "ementa": "DA PROVIDENCIAS PARA CESSAR O ABUSO DE SEREM TRANSPORTADOS ESCRAVOS, DE UMAS PROVINCIAS PARA OUTRAS, SEM PASSAPORTE."
+    },
+    {
+      "senadoId": "393100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-09-1529",
+      "titulo": "Decreto nº 1.529 de 09/01/1855",
+      "data": "1855-01-09",
+      "numero": "1529",
+      "urn": "urn:lex:br:federal:decreto:1855-01-09;1529",
+      "ementa": "CRIA NO TERMO DE CABROBÓ, DA PROVÍNCIA DE PERNAMBUCO, O LUGAR DE JUIZ  MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "393096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-09-1528",
+      "titulo": "Decreto nº 1.528 de 09/01/1855",
+      "data": "1855-01-09",
+      "numero": "1528",
+      "urn": "urn:lex:br:federal:decreto:1855-01-09;1528",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE MARAJÓ, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "393088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-08-1526",
+      "titulo": "Decreto nº 1.526 de 08/01/1855",
+      "data": "1855-01-08",
+      "numero": "1526",
+      "urn": "urn:lex:br:federal:decreto:1855-01-08;1526",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DE ALGUMAS VILAS DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-08-1524",
+      "titulo": "Decreto nº 1.524 de 08/01/1855",
+      "data": "1855-01-08",
+      "numero": "1524",
+      "urn": "urn:lex:br:federal:decreto:1855-01-08;1524",
+      "ementa": "CONCEDE A VILOTE E COMPANHIA, PRIVILÉGIO EXCLUSIVO POR CINCO ANOS PARA O FABRICO, IMPORTAÇÃO E INTRODUÇÃO NO IMPÉRIO DE FECHOS DE ARMAS DE FOGOS, OCULTOS POR MEIO DE UM NOVO MAQUINISMO."
+    },
+    {
+      "senadoId": "393076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-08-1523",
+      "titulo": "Decreto nº 1.523 de 08/01/1855",
+      "data": "1855-01-08",
+      "numero": "1523",
+      "urn": "urn:lex:br:federal:decreto:1855-01-08;1523",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA ANÔNIMA - EMPRESA PROVINCIAL DE TRANSPORTES."
+    },
+    {
+      "senadoId": "393084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-08-1525",
+      "titulo": "Decreto nº 1.525 de 08/01/1855",
+      "data": "1855-01-08",
+      "numero": "1525",
+      "urn": "urn:lex:br:federal:decreto:1855-01-08;1525",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DISPENDER, COM A ILUMINAÇÃO PÚBLICA, E POR CONTA DO EXERCÍCIO DE 1854 - 1855, MAIS A QUANTIA DE RS 159.318$654."
+    },
+    {
+      "senadoId": "393092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-08-1527",
+      "titulo": "Decreto nº 1.527 de 08/01/1855",
+      "data": "1855-01-08",
+      "numero": "1527",
+      "urn": "urn:lex:br:federal:decreto:1855-01-08;1527",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DA PALMA, NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-05-1520",
+      "titulo": "Decreto nº 1.520 de 05/01/1855",
+      "data": "1855-01-05",
+      "numero": "1520",
+      "urn": "urn:lex:br:federal:decreto:1855-01-05;1520",
+      "ementa": "SEPARA O TERMO DE VILA NOVA DA RAINHA, DO DE JACOBINA, NA PROVÍNCIA DA BAHIA; E CRIA NELE O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "393069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-05-1522",
+      "titulo": "Decreto nº 1.522 de 05/01/1855",
+      "data": "1855-01-05",
+      "numero": "1522",
+      "urn": "urn:lex:br:federal:decreto:1855-01-05;1522",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DA PALMA, CRIADA NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-05-1521",
+      "titulo": "Decreto nº 1.521 de 05/01/1855",
+      "data": "1855-01-05",
+      "numero": "1521",
+      "urn": "urn:lex:br:federal:decreto:1855-01-05;1521",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DE MARAJÓ, NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "393053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-04-1518",
+      "titulo": "Decreto nº 1.518 de 04/01/1855",
+      "data": "1855-01-04",
+      "numero": "1518",
+      "urn": "urn:lex:br:federal:decreto:1855-01-04;1518",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DA CAPITAL, PILAR E JARAGUÁ, DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-04-1519",
+      "titulo": "Decreto nº 1.519 de 04/01/1855",
+      "data": "1855-01-04",
+      "numero": "1519",
+      "urn": "urn:lex:br:federal:decreto:1855-01-04;1519",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DAS VILAS DE BOMFIM, SANTA LUZIA E FORMOSA DA IMPERATRIZ, DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "393049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-04-1517",
+      "titulo": "Decreto nº 1.517 de 04/01/1855",
+      "data": "1855-01-04",
+      "numero": "1517",
+      "urn": "urn:lex:br:federal:decreto:1855-01-04;1517",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS NA PROVÍNICA DO PARÁ, E MANDA OBSERVAR O REGULAMENTO RESPECTIVO."
+    },
+    {
+      "senadoId": "393041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-03-1515",
+      "titulo": "Decreto nº 1.515 de 03/01/1855",
+      "data": "1855-01-03",
+      "numero": "1515",
+      "urn": "urn:lex:br:federal:decreto:1855-01-03;1515",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM O GERENTE DA COMPANHIA BRASILEIRA DE PAQUETES DE VAPOR, PARA A INOVAÇÃO DO QUE REGULA O SERVIÇO DOS MESMOS PAQUETES."
+    },
+    {
+      "senadoId": "393045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1855-01-03-1516",
+      "titulo": "Decreto nº 1.516 de 03/01/1855",
+      "data": "1855-01-03",
+      "numero": "1516",
+      "urn": "urn:lex:br:federal:decreto:1855-01-03;1516",
+      "ementa": "CRIA NOS TEMOS REUNIDOS DO RIO BONITO E CAPIVARI, E NO DE SAQUAREMA, DA PROVÍNCIA DO RIO DE JANEIRO, OS LUGARES DE JUÍZES MUNICIPAIS E DE ÓRFÃOS, E REGULA A JURISDIÇÃO DOS DEMAIS JUÍZES MUNICIPAIS E DE ÓRFÃOS EM TODOS OS TERMOS DA MESMA PROVÍNICA, EM CONSEQUÊNCIA DA LEI PROVINCIAL Nº 720 DE 25 DE OUTUBRO DE 1854."
+    }
+  ],
+  "pendencias": []
+}

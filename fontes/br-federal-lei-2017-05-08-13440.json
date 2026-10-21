@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-05-08-13440",
+  "titulo": "Lei nº 13.440 de 08/05/2017",
+  "data": "2017-05-08",
+  "fonte": "https://normas.leg.br/api/public/binario/c5050a97-d0f8-4747-a79d-4f82e43d207d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-05-08;13440",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-05-08%3B13440&tipo_documento=maior-detalhe",
+  "sha256_dados": "6bc2d57620befeb3a57012310bdbc4495408ffa41a0018ecd5572560ea3cc9c1",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:27.567Z",
+  "sha256_fonte": "09d602828c4a37f979de28ff44fda477744c3e94529c0a410c0d3c386b361678",
+  "sha256_markdown": "633701dae068f86ffc2d2d650423196853654991f1fc43479ba4e775cea3f2a8"
+}

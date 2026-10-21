@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-15-13620",
+  "titulo": "Lei nº 13.620 de 15/01/2018",
+  "data": "2018-01-15",
+  "fonte": "https://normas.leg.br/api/public/binario/0b838f19-2635-4ea8-915f-63ba9f6e7513/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-15;13620",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-15%3B13620&tipo_documento=maior-detalhe",
+  "sha256_dados": "1d727746fabffda7e8d2dac6a972272533c20ea05a33f35e6cfa9c96fec738ce",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:35.208Z",
+  "sha256_fonte": "c6bb803ed6ea239b510a87dfa09a58385f0e5c8fba9f02f81e3732ee995c7ff2",
+  "sha256_markdown": "c0ea67f779c70f1a7d15b8ae7abd8afc85016f3bc8493bdbd7aa8db09ec127c3"
+}

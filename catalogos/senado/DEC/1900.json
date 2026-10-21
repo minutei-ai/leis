@@ -1,0 +1,3419 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1900",
+  "tipo": "DEC",
+  "ano": 1900,
+  "coletado_em": "2026-10-21T08:51:33.558Z",
+  "normas": [
+    {
+      "senadoId": "402586",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-31-3889",
+      "titulo": "Decreto nº 3.889 de 31/12/1900",
+      "data": "1900-12-31",
+      "numero": "3889",
+      "urn": "urn:lex:br:federal:decreto:1900-12-31;3889",
+      "ementa": "DETERMINA OS LIMITES DAS CIRCUNSCRIÇÕES POLICIAIS DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "402582",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-31-3888",
+      "titulo": "Decreto nº 3.888 de 31/12/1900",
+      "data": "1900-12-31",
+      "numero": "3888",
+      "urn": "urn:lex:br:federal:decreto:1900-12-31;3888",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO ESPECIAL DE 300:000$ PARA SEREM PAGOS AO BENEMÉRITO BRASILEIRO DOUTOR JOSÉ MARIA DA SILVA PARANHOS DO RIO BRANCO, COMO RECOMPENSA NACIONAL, PELOS RELEVANTES SERVIÇOS PRESTADOS NAS MISSÕES ESPECIAIS DE ARBITRAMENTO DE WASHINGTON E BERNA."
+    },
+    {
+      "senadoId": "402562",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3883",
+      "titulo": "Decreto nº 3.883 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3883",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3883",
+      "ementa": "CRIA MAIS DUAS BRIGADAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "402566",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3884",
+      "titulo": "Decreto nº 3.884 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3884",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3884",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAQUI, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "402578",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3887",
+      "titulo": "Decreto nº 3.887 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3887",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3887",
+      "ementa": "ABRE, NO CORRENTE EXERCÍCIO, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 14:000$, PARA PAGAMENTO DE DESPESAS COM O MATERIAL DA SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3885",
+      "titulo": "Decreto nº 3.885 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3885",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3885",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E DUAS DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA ENCRUZILHADA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "402554",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3881",
+      "titulo": "Decreto nº 3.881 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3881",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3881",
+      "ementa": "APROVA AS PLANTAS E ORÇAMENTO PARA AS OBRAS DE SEGURANÇA E CONSOLIDAÇÃO DO LEITO DA ESTRADA DE FERRO DE SANTA MARIA AO URUGUAI."
+    },
+    {
+      "senadoId": "402558",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3882",
+      "titulo": "Decreto nº 3.882 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3882",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3882",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA GUARDAS NACIONAIS NA COMARCA DO RIO NOVO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402574",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-29-3886",
+      "titulo": "Decreto nº 3.886 de 29/12/1900",
+      "data": "1900-12-29",
+      "numero": "3886",
+      "urn": "urn:lex:br:federal:decreto:1900-12-29;3886",
+      "ementa": "ABRE, AO MISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 97:351$, PARA AS OBRAS DE CONSERVAÇÃO E SEGURANÇA DO PRÉDIO ONDE FUNCIONA A CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402550",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-27-3880",
+      "titulo": "Decreto nº 3.880 de 27/12/1900",
+      "data": "1900-12-27",
+      "numero": "3880",
+      "urn": "urn:lex:br:federal:decreto:1900-12-27;3880",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, O CRÉDITO ESPECIAL DE 497:778$, OURO,  E 350:000$, PAPEL, PARA OCORRER AO PAGAMENTO DA ÚLTIMA PRESTAÇÃO DO ENCOURAÇADO FLORIANO, AO DE OUTRAS ENCOMENDAS, E AO DAS OBRAS FEITAS NO CRUZADOR TRAJANO."
+    },
+    {
+      "senadoId": "402518",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3872",
+      "titulo": "Decreto nº 3.872 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3872",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3872",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 77:247$080, PARA PAGAMENTO DO MATERIAL FORNECIDO À CASA DA MOEDA."
+    },
+    {
+      "senadoId": "402526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3874",
+      "titulo": "Decreto nº 3.874 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3874",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3874",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 600:000$, SUPLEMENTAR AO  ARTIGO 43, PARÁGRAFO 20, DA LEI 652, DE 23 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "402522",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3873",
+      "titulo": "Decreto nº 3.873 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3873",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3873",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL, DE 4:222$220, PARA PAGAMENTO DE VENCIMENTOS DO EX-INSPETOR DA CAIXA DE AMORTIZAÇÃO MANOEL ANTÔNIO FERNANDES TRIGO DE LOUREIRO."
+    },
+    {
+      "senadoId": "402510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3870",
+      "titulo": "Decreto nº 3.870 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3870",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3870",
+      "ementa": "FIXA E CLASSIFICA AS IMPORTÂNCIAS EFETIVAMENTE DESPEDIDAS COM AS OBRAS DE RECONSTRUÇÃO DO TRECHO DE SÃO PEDRO A UMBÚ, NA ESTRADA DE FERRO DE PORTO ALEGRE A URUGUAIANA."
+    },
+    {
+      "senadoId": "402502",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3868",
+      "titulo": "Decreto nº 3.868 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3868",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3868",
+      "ementa": "AUTORIZA A INTERRUPÇÃO, PELO PRAZO DE SEIS MESES, DOS TRABALHOS DE CONSTRUÇÃO DA ESTRADA DE FERRO DE ITARARÉ A SANTA MARIA DA BOCA DO MONTE."
+    },
+    {
+      "senadoId": "402546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3879",
+      "titulo": "Decreto nº 3.879 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3879",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3879",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMNA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MANHUASSÚ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402538",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3877",
+      "titulo": "Decreto nº 3.877 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3877",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3877",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE GRÃO-MOGOL, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402542",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3878",
+      "titulo": "Decreto nº 3.878 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3878",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3878",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOSÉ DO PARAÍSO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402514",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3871",
+      "titulo": "Decreto nº 3.871 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3871",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3871",
+      "ementa": "REDUZ 150 RÉIS POR TONELADA-QUILÔMETRO O FRETE DE MANTEIGA NACIONAL QUANDO DESPACHADA COMO ENCOMENDA NOS TRENS MISTOS DA ESTRADA DE FERRO MINAS E RIO."
+    },
+    {
+      "senadoId": "402498",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3867",
+      "titulo": "Decreto nº 3.867 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3867",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3867",
+      "ementa": "APROVA, MEDIANTE CONDIÇÕES, A PLANTA DOS TERRENOS ACRESCIDOS AO CAIS DA SAGRAÇÃO, A CARGO DA COMPANHIA GERAL DE MELHORAMENTOS NO MARANHÃO."
+    },
+    {
+      "senadoId": "402534",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3876",
+      "titulo": "Decreto nº 3.876 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3876",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3876",
+      "ementa": "ABRE, AO MINSTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 3:117$194, SUPLEMENTAR À VERBA 26 DO ARTIGO 2º DA LEI 652, DE 23 DE NOVEMBRO DE 1899, PARA DESPESAS COM EXAMES DE PREPARATÓRIOS."
+    },
+    {
+      "senadoId": "402530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3875",
+      "titulo": "Decreto nº 3.875 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3875",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3875",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 3:550$, SUPLEMENTAR À VERBA 9ª - AJUDAS DE CUSTO AOS MENBROS DO CONGRESSO NACIONAL - DO ARTIGO 2º DA LEI 652, DE 23 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "402506",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-22-3869",
+      "titulo": "Decreto nº 3.869 de 22/12/1900",
+      "data": "1900-12-22",
+      "numero": "3869",
+      "urn": "urn:lex:br:federal:decreto:1900-12-22;3869",
+      "ementa": "CONCEDE À (NORD DEUTSCHE VERSICHERUNGS GESELLSCHAFT), COMPANHIA DE SEGUROS COM SEDE EM HAMBURGO, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "402494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-21-3866",
+      "titulo": "Decreto nº 3.866 de 21/12/1900",
+      "data": "1900-12-21",
+      "numero": "3866",
+      "urn": "urn:lex:br:federal:decreto:1900-12-21;3866",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE  5:410$720, PARA OCORRER AO PAGAMENTO DO 1º TENENTE DA ARMADA NELSON DE VASCONCELOS E ALMEIDA, DE VENCIMENTOS QUE DEIXOU DE RECEBER COMO PROFESSOR DO COLÉGIO MILITAR DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "402490",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-20-3865",
+      "titulo": "Decreto nº 3.865 de 20/12/1900",
+      "data": "1900-12-20",
+      "numero": "3865",
+      "urn": "urn:lex:br:federal:decreto:1900-12-20;3865",
+      "ementa": "ADOTA NO REGULAMENTO APROVADO PELO DECRETO 9928, DE 11 DE ABRIL DE 1888, PARA O SERVIÇO TELEGRÁFICO DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ, TODO O CAPÍTULO 22 DO TÍTULO 3º DO REGULAMENTO QUE BAIXOU COM O DECRETO 1663, DE 30 DE JANEIRO DE 1894."
+    },
+    {
+      "senadoId": "402486",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3864",
+      "titulo": "Decreto nº 3.864 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3864",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3864",
+      "ementa": "APROVA AS INSTRUÇÕES PARA OS EXAMES GERAIS DE PROPRIETÁRIOS NA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "402462",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3858",
+      "titulo": "Decreto nº 3.858 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3858",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3858",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BURITI DOS LOPES, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "402474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3861",
+      "titulo": "Decreto nº 3.861 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3861",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3861",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 78:700$, SENDO 32:700$ À VERBA - SECRETARIA DO SENADO - E 46:000$ À VERBA - SECRETARIA DA COMARCA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3856",
+      "titulo": "Decreto nº 3.856 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3856",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3856",
+      "ementa": "APROVA O ORÇAMENTO PARA CONSTRUÇÃO DO TRECHO DA ESTRADA DE MULUNGÚ A ALAGOA GRANDE, NO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "402470",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3860",
+      "titulo": "Decreto nº 3.860 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3860",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3860",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE DOIS CÓRREGOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402466",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3859",
+      "titulo": "Decreto nº 3.859 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3859",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3859",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE PIRAJÚ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402482",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3863",
+      "titulo": "Decreto nº 3.863 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3863",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3863",
+      "ementa": "APROVA AS INSTRUÇÕES PARA OS EXAMES GERAIS DE PREPARATÓRIOS NOS ESTADOS."
+    },
+    {
+      "senadoId": "402458",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3857",
+      "titulo": "Decreto nº 3.857 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3857",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3857",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO DE DUZENTOS E QUARENTA CONTOS DE RÉIS (240:000$) AFIM DE SALDAR A INDENIZAÇÃO ARBITRADA AOS HERDEIROS DE JOSEPH HANCOX."
+    },
+    {
+      "senadoId": "402478",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-15-3862",
+      "titulo": "Decreto nº 3.862 de 15/12/1900",
+      "data": "1900-12-15",
+      "numero": "3862",
+      "urn": "urn:lex:br:federal:decreto:1900-12-15;3862",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 598:125$, SENDO 137:025$ À VERBA - SUBSÍDIO DOS SENADORES - E 461:100$ À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-13-3855",
+      "titulo": "Decreto nº 3.855 de 13/12/1900",
+      "data": "1900-12-13",
+      "numero": "3855",
+      "urn": "urn:lex:br:federal:decreto:1900-12-13;3855",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO DE 1.778:353$, SUPLEMENTAR À  VERBA 11ª - ETAPAS - DO ARTIGO 17 DA LEI 652, DE 23 DE NOVEMBRO DE  1899."
+    },
+    {
+      "senadoId": "402446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-12-3854",
+      "titulo": "Decreto nº 3.854 de 12/12/1900",
+      "data": "1900-12-12",
+      "numero": "3854",
+      "urn": "urn:lex:br:federal:decreto:1900-12-12;3854",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BARIRI, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-12-3853",
+      "titulo": "Decreto nº 3.853 de 12/12/1900",
+      "data": "1900-12-12",
+      "numero": "3853",
+      "urn": "urn:lex:br:federal:decreto:1900-12-12;3853",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, O CRÉDITO DE 67:063$138 PARA PAGAMENTO AO ALMIRANTE JERÔNYMO FRANCISCO GONÇALVES DA DIFERENÇA DE VENCIMENTOS DESDE A DATA DE SUA REFORMA ATÉ A DE SUA REVERSÃO AO SERVIÇO ATIVO DA ARMADA."
+    },
+    {
+      "senadoId": "402434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-11-3851",
+      "titulo": "Decreto nº 3.851 de 11/12/1900",
+      "data": "1900-12-11",
+      "numero": "3851",
+      "urn": "urn:lex:br:federal:decreto:1900-12-11;3851",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 308:825$121, APLICADO À LIQUIDAÇÃO DE CONTAS DA RECEITA DE 1899."
+    },
+    {
+      "senadoId": "402438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-11-3852",
+      "titulo": "Decreto nº 3.852 de 11/12/1900",
+      "data": "1900-12-11",
+      "numero": "3852",
+      "urn": "urn:lex:br:federal:decreto:1900-12-11;3852",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 12:345$840, PARA PAGAMENTO DE DESPESAS FEITAS COM A RECEPÇÃO DO SENHOR PRESIDENTE DA REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "402430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-08-3850",
+      "titulo": "Decreto nº 3.850 de 08/12/1900",
+      "data": "1900-12-08",
+      "numero": "3850",
+      "urn": "urn:lex:br:federal:decreto:1900-12-08;3850",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 834$676, PARA PAGAMENTO DOS VENCIMENTOS QUE COMPETEM AO ESCREVENTE JURAMENTADO DO JUÍZO FEDERAL, ANTÔNIO RODRIGUES GONÇALVES."
+    },
+    {
+      "senadoId": "402426",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-07-3849",
+      "titulo": "Decreto nº 3.849 de 07/12/1900",
+      "data": "1900-12-07",
+      "numero": "3849",
+      "urn": "urn:lex:br:federal:decreto:1900-12-07;3849",
+      "ementa": "ABRE, AO MINISTERIO DA GUERRA, O CRÉDITO ESPECIAL DE 41:557$600 PARA OCORRER AO PAGAMENTO DE VENCIMENTOS ATRASADOS DO PESSOAL ENCARREGADO DE CONSERVAÇÃO DA FÁBRICA DE FERRO DO IPANEMA."
+    },
+    {
+      "senadoId": "402422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-07-3848",
+      "titulo": "Decreto nº 3.848 de 07/12/1900",
+      "data": "1900-12-07",
+      "numero": "3848",
+      "urn": "urn:lex:br:federal:decreto:1900-12-07;3848",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DE 1:400$ PARA OCORRER AO PAGAMENTO AO BACHAREL MAXIMINO DE ARAÚJO MACIEL DE GRATIFICAÇÃO QUE DEIXOU DE RECEBER COMO PROFESSOR DO COLÉGIO MILITAR DESTA CAPITAL."
+    },
+    {
+      "senadoId": "402410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-06-3845",
+      "titulo": "Decreto nº 3.845 de 06/12/1900",
+      "data": "1900-12-06",
+      "numero": "3845",
+      "urn": "urn:lex:br:federal:decreto:1900-12-06;3845",
+      "ementa": "CRIA UM CONSULADO EM MANCHESTER, GRÃ-BRETANHA."
+    },
+    {
+      "senadoId": "402418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-06-3847",
+      "titulo": "Decreto nº 3.847 de 06/12/1900",
+      "data": "1900-12-06",
+      "numero": "3847",
+      "urn": "urn:lex:br:federal:decreto:1900-12-06;3847",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO DE 24:379$954,  EM PAPEL, PARA LIQUIDAR DEFINITIVAMENTE AS RECLAMAÇÕES DE DIVERSÕES DE DIVERSAS LEGAÇÕES ESTRANGEIRAS, PELO IMPOSTO SOBRE NAVIOS DAS RESPECTIVAS NACIONALIDADES, INDEVIDA, ENTRE COBRADOS PELOS ESTADOS DE PERNAMBUCO E ALAGOAS."
+    },
+    {
+      "senadoId": "402414",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-06-3846",
+      "titulo": "Decreto nº 3.846 de 06/12/1900",
+      "data": "1900-12-06",
+      "numero": "3846",
+      "urn": "urn:lex:br:federal:decreto:1900-12-06;3846",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO ESPECIAL DE 300:000$, MOEDA CORRENTE, PARA REFORÇAR O QUE FOI ABERTO PELO DECRETO 3528, DE 1899, EM EXECUÇÃO DO LEGISLATIVO 653, DE 23 DE NOVEMBRO DO MESMO ANO."
+    },
+    {
+      "senadoId": "402406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-05-3844",
+      "titulo": "Decreto nº 3.844 de 05/12/1900",
+      "data": "1900-12-05",
+      "numero": "3844",
+      "urn": "urn:lex:br:federal:decreto:1900-12-05;3844",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, O CRÉDITO ESPECIAL DE 2:400$ PARA PAGAMENTO DO ORDENADO DEVIDO, NO ATUAL EXERCÍCIO, AO EX-SECRETÁRIO DO ARSENAL DA BAHIA, ODORICO CARNEIRO RIBEIRO."
+    },
+    {
+      "senadoId": "402402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-05-3843",
+      "titulo": "Decreto nº 3.843 de 05/12/1900",
+      "data": "1900-12-05",
+      "numero": "3843",
+      "urn": "urn:lex:br:federal:decreto:1900-12-05;3843",
+      "ementa": "CRIA O CORPO DE PATRÕES-MÓRES DA MARINHA E DÁ-LHE O RESPECTIVO REGULAMENTO."
+    },
+    {
+      "senadoId": "402398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-04-3842",
+      "titulo": "Decreto nº 3.842 de 04/12/1900",
+      "data": "1900-12-04",
+      "numero": "3842",
+      "urn": "urn:lex:br:federal:decreto:1900-12-04;3842",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 4:978$064, PARA  PAGAMENTO DO ENCARREGADO DA GUARDA E CONSERVAÇÃO DA FAZENDA DOS (DOIS RIOS), JOSÉ JOAQUIM RAYMUNDO SOBRINHO."
+    },
+    {
+      "senadoId": "402394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-03-3841",
+      "titulo": "Decreto nº 3.841 de 03/12/1900",
+      "data": "1900-12-03",
+      "numero": "3841",
+      "urn": "urn:lex:br:federal:decreto:1900-12-03;3841",
+      "ementa": "MODIFICA A TARIFA PARA O QUEROSENE E COURINHOS TRANSPORTADOS PELA ESTRADA DE FERRO DO RECIFE AO LIMOEIRO E DETERMINA OS ARTIGOS A QUE SE REFERE O DECRETO 3.613, DE MARÇO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "402390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-12-03-3840",
+      "titulo": "Decreto nº 3.840 de 03/12/1900",
+      "data": "1900-12-03",
+      "numero": "3840",
+      "urn": "urn:lex:br:federal:decreto:1900-12-03;3840",
+      "ementa": "REVOGA O DECRETO 1985, DE 11 DE MARÇO DE 1895."
+    },
+    {
+      "senadoId": "402382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-26-3838",
+      "titulo": "Decreto nº 3.838 de 26/11/1900",
+      "data": "1900-11-26",
+      "numero": "3838",
+      "urn": "urn:lex:br:federal:decreto:1900-11-26;3838",
+      "ementa": "TRANSPORTA AS SOBRAS DA CONSIGNAÇÃO - PERNOITE AOS CORREIOS AMBULANTES - ATÉ A QUANTIA DE 90:000$ PARA CONSIGNAÇÃO - GRATIFICAÇÃO AO PESSOAL DOS CORREIOS AMBULANTES, DE MAR E OUTROS - DO REGULAMENTO RESPECTIVO EM VIGOR."
+    },
+    {
+      "senadoId": "402386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-26-3839",
+      "titulo": "Decreto nº 3.839 de 26/11/1900",
+      "data": "1900-11-26",
+      "numero": "3839",
+      "urn": "urn:lex:br:federal:decreto:1900-11-26;3839",
+      "ementa": "ABRE O CANAL DO BAIXIO DO TABOLEIRO, NO ESTADO DE SANTA CATARINA, À NAVEGAÇÃO DOS NAVIOS MERCANTES DE TODAS AS NAÇÕES."
+    },
+    {
+      "senadoId": "402378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-24-3837",
+      "titulo": "Decreto nº 3.837 de 24/11/1900",
+      "data": "1900-11-24",
+      "numero": "3837",
+      "urn": "urn:lex:br:federal:decreto:1900-11-24;3837",
+      "ementa": "PROVIDÊNCIA SOBRE A PRESENÇA DE MÉDICO A BORDO DOS NAVIOS QUE CONDUZEM PASSAGEIROS."
+    },
+    {
+      "senadoId": "402374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-24-3836",
+      "titulo": "Decreto nº 3.836 de 24/11/1900",
+      "data": "1900-11-24",
+      "numero": "3836",
+      "urn": "urn:lex:br:federal:decreto:1900-11-24;3836",
+      "ementa": "RETIFICA O ARTIGO 26 DA LEI 496, DE 1 DE AGOSTO DE 1898, QUE DEFINE E GARANTE OS DIREITOS AUTORAIS."
+    },
+    {
+      "senadoId": "402370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-24-3835",
+      "titulo": "Decreto nº 3.835 de 24/11/1900",
+      "data": "1900-11-24",
+      "numero": "3835",
+      "urn": "urn:lex:br:federal:decreto:1900-11-24;3835",
+      "ementa": "APROVA O NOVO PLANO PARA OS UNIFORMES DA BRIGADA POLICIAL DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "402358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-19-3832",
+      "titulo": "Decreto nº 3.832 de 19/11/1900",
+      "data": "1900-11-19",
+      "numero": "3832",
+      "urn": "urn:lex:br:federal:decreto:1900-11-19;3832",
+      "ementa": "MODIFICA AS CLÁUSULAS VI E VII QUE ACOMPANHAM O DECRETO 3544, DE 30 DE DEZEMBRO DE 1899, QUE AUTORIZOU A (SOCIETÁ ITALIANA DE ESPORTAZIONE ENRICO DELL'ACQUA) A FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "402354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-19-3831",
+      "titulo": "Decreto nº 3.831 de 19/11/1900",
+      "data": "1900-11-19",
+      "numero": "3831",
+      "urn": "urn:lex:br:federal:decreto:1900-11-19;3831",
+      "ementa": "CONCEDE À (COMTELBURO, LIMITED), SOCIEDADE ANÔNIMA ORGANIZADA E COM SEDE EM LONDRES, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "402362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-19-3833",
+      "titulo": "Decreto nº 3.833 de 19/11/1900",
+      "data": "1900-11-19",
+      "numero": "3833",
+      "urn": "urn:lex:br:federal:decreto:1900-11-19;3833",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, UM CRÉDITO  EXTRAORDINÁRIO DE 500:000$, PARA SER APLICADO NA CONSTRUÇÃO DE OBRAS DE UTILIDADE PÚBLICA, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "402366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-19-3834",
+      "titulo": "Decreto nº 3.834 de 19/11/1900",
+      "data": "1900-11-19",
+      "numero": "3834",
+      "urn": "urn:lex:br:federal:decreto:1900-11-19;3834",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO EXTRAORDINÁRIO DE 50:000$, PARA OCORRER ÀS DESPESAS DE AGASALHO E OUTRAS RELATIVAS AOS RETIRANTES CEARENSES."
+    },
+    {
+      "senadoId": "402338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-17-3827",
+      "titulo": "Decreto nº 3.827 de 17/11/1900",
+      "data": "1900-11-17",
+      "numero": "3827",
+      "urn": "urn:lex:br:federal:decreto:1900-11-17;3827",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 78:700$, SENDO 32:700$ À VERBA - SECRETARIA DO SENADO - E 46:000$ À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-17-3828",
+      "titulo": "Decreto nº 3.828 de 17/11/1900",
+      "data": "1900-11-17",
+      "numero": "3828",
+      "urn": "urn:lex:br:federal:decreto:1900-11-17;3828",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ À VERBA - SUBSÍDIO DOS SENADORES - E 477:750$ À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-17-3826",
+      "titulo": "Decreto nº 3.826 de 17/11/1900",
+      "data": "1900-11-17",
+      "numero": "3826",
+      "urn": "urn:lex:br:federal:decreto:1900-11-17;3826",
+      "ementa": "CRIA MAIS UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-17-3829",
+      "titulo": "Decreto nº 3.829 de 17/11/1900",
+      "data": "1900-11-17",
+      "numero": "3829",
+      "urn": "urn:lex:br:federal:decreto:1900-11-17;3829",
+      "ementa": "CONCEDE AO COLÉGIO SÃO LUÍS DE ITU AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-13-3825",
+      "titulo": "Decreto nº 3.825 de 13/11/1900",
+      "data": "1900-11-13",
+      "numero": "3825",
+      "urn": "urn:lex:br:federal:decreto:1900-11-13;3825",
+      "ementa": "APROVA, COM EMENDAS, AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA BRASILEIRA DE SEGUROS PARA A VIDA."
+    },
+    {
+      "senadoId": "402326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-12-3824",
+      "titulo": "Decreto nº 3.824 de 12/11/1900",
+      "data": "1900-11-12",
+      "numero": "3824",
+      "urn": "urn:lex:br:federal:decreto:1900-11-12;3824",
+      "ementa": "APROVA OS ORÇAMENTOS E PLANOS DE DEPÓSITO DE CARVÃO, PONTE DE DESEMBARQUE E ABRIGO PARA LOCOMOTIVAS, DAS OBRAS DE MELHORAMENTOS DO PORTO DE SANTOS, E AUTORIZA A INCLUSÃO DA RESPECTIVA DESPESA NA CONTA DO CAPITAL."
+    },
+    {
+      "senadoId": "402322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-10-3823",
+      "titulo": "Decreto nº 3.823 de 10/11/1900",
+      "data": "1900-11-10",
+      "numero": "3823",
+      "urn": "urn:lex:br:federal:decreto:1900-11-10;3823",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, NOVO CRÉDITO SUPLEMENTAR DE 550:000$ À VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "402318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-10-3822",
+      "titulo": "Decreto nº 3.822 de 10/11/1900",
+      "data": "1900-11-10",
+      "numero": "3822",
+      "urn": "urn:lex:br:federal:decreto:1900-11-10;3822",
+      "ementa": "CONCEDE AO COLÉGIO ANCHIETA AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-09-3821",
+      "titulo": "Decreto nº 3.821 de 09/11/1900",
+      "data": "1900-11-09",
+      "numero": "3821",
+      "urn": "urn:lex:br:federal:decreto:1900-11-09;3821",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO ESPECIAL DE 508$600, PARA PAGAMENTO DE CONTAS DE FORNECIMENTOS FEITOS À DIRETORIA DO JARDIM BOTÂNICO."
+    },
+    {
+      "senadoId": "402310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-11-05-3820",
+      "titulo": "Decreto nº 3.820 de 05/11/1900",
+      "data": "1900-11-05",
+      "numero": "3820",
+      "urn": "urn:lex:br:federal:decreto:1900-11-05;3820",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE  17:164$517, PARA OCORRER AO PAGAMENTO AO CAPITÃO DE FRAGATA ALFREDO AUGUSTO DE LIMA BARROS, E OUTROS PROFESSORES DO COLÉGIO MILITAR DESTA CAPITAL, DE ORDENADOS QUE DEIXARAM DE RECEBER."
+    },
+    {
+      "senadoId": "402306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-31-3819",
+      "titulo": "Decreto nº 3.819 de 31/10/1900",
+      "data": "1900-10-31",
+      "numero": "3819",
+      "urn": "urn:lex:br:federal:decreto:1900-10-31;3819",
+      "ementa": "APROVA A PLANTA E ORÇAMENTO DAS OBRAS COMPLEMENTARES DO AÇUDE DO QUIXADÁ, NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "402298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-24-3817",
+      "titulo": "Decreto nº 3.817 de 24/10/1900",
+      "data": "1900-10-24",
+      "numero": "3817",
+      "urn": "urn:lex:br:federal:decreto:1900-10-24;3817",
+      "ementa": "ABRE AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS O CRÉDITO EXTRAORDINÁRIO DO 100:000$, PARA OCORRER ÁS DESPESAS DE TRANSPORTES CEARENSES."
+    },
+    {
+      "senadoId": "402302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-24-3818",
+      "titulo": "Decreto nº 3.818 de 24/10/1900",
+      "data": "1900-10-24",
+      "numero": "3818",
+      "urn": "urn:lex:br:federal:decreto:1900-10-24;3818",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO EXTRAORDINÁRIO DE 400:000$, AFIM DE SER APLICADO ÀS OBRAS COMPLEMENTARES DO AÇUDE DO QUIXADÁ E À CONSTRUÇÃO DE OUTROS NO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "402294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-19-3816",
+      "titulo": "Decreto nº 3.816 de 19/10/1900",
+      "data": "1900-10-19",
+      "numero": "3816",
+      "urn": "urn:lex:br:federal:decreto:1900-10-19;3816",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORES, O CRÉDITO DE 80:000$, SUPLEMENTAR AO ARTIGO 7º, NÚMERO 7, DA LEI 652, DE 23 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "402282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-18-3813",
+      "titulo": "Decreto nº 3.813 de 18/10/1900",
+      "data": "1900-10-18",
+      "numero": "3813",
+      "urn": "urn:lex:br:federal:decreto:1900-10-18;3813",
+      "ementa": "ABRE AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ Á VERBA - SUBSÍDIO DOS SENADORES - E 477:000$ Á VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-18-3815",
+      "titulo": "Decreto nº 3.815 de 18/10/1900",
+      "data": "1900-10-18",
+      "numero": "3815",
+      "urn": "urn:lex:br:federal:decreto:1900-10-18;3815",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "402286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-18-3814",
+      "titulo": "Decreto nº 3.814 de 18/10/1900",
+      "data": "1900-10-18",
+      "numero": "3814",
+      "urn": "urn:lex:br:federal:decreto:1900-10-18;3814",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 78:700$, SENDO 32:700$ À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-17-3811",
+      "titulo": "Decreto nº 3.811 de 17/10/1900",
+      "data": "1900-10-17",
+      "numero": "3811",
+      "urn": "urn:lex:br:federal:decreto:1900-10-17;3811",
+      "ementa": "PRORROGA POR MAIS TRÊS ANOS O PRAZO FIXADO NA CLÁUSULA TERCEIRA DO DECRETO 977, DE 5 DE AGOSTO DE 1892, PARA CONCLUSÃO DAS OBRAS DO PROLONGAMENTO A SANTOS, DA ESTRADA DE FERRO MOGIANA."
+    },
+    {
+      "senadoId": "402278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-17-3812",
+      "titulo": "Decreto nº 3.812 de 17/10/1900",
+      "data": "1900-10-17",
+      "numero": "3812",
+      "urn": "urn:lex:br:federal:decreto:1900-10-17;3812",
+      "ementa": "ALTERA ALGUMAS E CONSOLIDA TODAS AS CLÁUSULAS ANEXAS AOS DECRETOS 862 E 3413, DE 16 DE OUTUBRO DE 1890 E 13 DE NOVEMBRO DE 1899, CONCERNENTES ÀS LINHAS FÉRREAS E FLUVIAL DE QUE É CESSIONÁRIA A COMPANHIA VIAÇÃO FÉRREA E FLUVIAL DO TOCANTINS E ARAGUAIA."
+    },
+    {
+      "senadoId": "402270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-16-3810",
+      "titulo": "Decreto nº 3.810 de 16/10/1900",
+      "data": "1900-10-16",
+      "numero": "3810",
+      "urn": "urn:lex:br:federal:decreto:1900-10-16;3810",
+      "ementa": "PROVIDÊNCIA SOBRE A ORGANIZAÇÃO DO BANCO DA REPÚBLICA DO BRASIL, NOS TERMOS DA LEI 689, DE 20 DE SETEMBRO DE 1900."
+    },
+    {
+      "senadoId": "402262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-15-3808",
+      "titulo": "Decreto nº 3.808 de 15/10/1900",
+      "data": "1900-10-15",
+      "numero": "3808",
+      "urn": "urn:lex:br:federal:decreto:1900-10-15;3808",
+      "ementa": "APROVA A NOVA TABELA DE PREÇOS DE UNIDADES PARA VIGORAR NA PARTE EM CONSTRUÇÃO DA ESTRADA DE FERRO DE ITARARÉ AO RIO URUGUAI E RAMAIS."
+    },
+    {
+      "senadoId": "402266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-15-3809",
+      "titulo": "Decreto nº 3.809 de 15/10/1900",
+      "data": "1900-10-15",
+      "numero": "3809",
+      "urn": "urn:lex:br:federal:decreto:1900-10-15;3809",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 1.020:000$, PARA LIQUIDAÇÃO DEFINITIVA DOS COMPROMISSOS CONTRAÍDOS PARA COM AS COMPANHIAS DE NAVEGAÇÃO QUE TRANSPORTARAM EMIGRANTES DA EUROPA PARA O PAÍS."
+    },
+    {
+      "senadoId": "402258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-15-3807",
+      "titulo": "Decreto nº 3.807 de 15/10/1900",
+      "data": "1900-10-15",
+      "numero": "3807",
+      "urn": "urn:lex:br:federal:decreto:1900-10-15;3807",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS OS PRAZOS PARA CONCLUSÃO DAS OBRAS DE QUE É CONCESSIONÁRIA A COMPANHIA DOCAS DE SANTOS."
+    },
+    {
+      "senadoId": "402242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3803",
+      "titulo": "Decreto nº 3.803 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3803",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3803",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE ITACOATIARA, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "402225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3799",
+      "titulo": "Decreto nº 3.799 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3799",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3799",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE VIÇOSA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3800",
+      "titulo": "Decreto nº 3.800 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3800",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3800",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ILHÉUS, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "402234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3801",
+      "titulo": "Decreto nº 3.801 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3801",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3801",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE NAZARETH, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "402238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3802",
+      "titulo": "Decreto nº 3.802 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3802",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3802",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E OUTRA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE MANICORÉ, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "402254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3806",
+      "titulo": "Decreto nº 3.806 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3806",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3806",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "402250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3805",
+      "titulo": "Decreto nº 3.805 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3805",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3805",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAQUI, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "402221",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3798",
+      "titulo": "Decreto nº 3.798 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3798",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3798",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SABARÁ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-13-3804",
+      "titulo": "Decreto nº 3.804 de 13/10/1900",
+      "data": "1900-10-13",
+      "numero": "3804",
+      "urn": "urn:lex:br:federal:decreto:1900-10-13;3804",
+      "ementa": "CRIA DUAS BRIGADAS DE CAVALARIA E UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CANTAGALO, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-11-3797",
+      "titulo": "Decreto nº 3.797 de 11/10/1900",
+      "data": "1900-10-11",
+      "numero": "3797",
+      "urn": "urn:lex:br:federal:decreto:1900-10-11;3797",
+      "ementa": "APROVA OS ESTATUTOS DO BANCO DA REPÚBLICA DO BRASIL, COM AS EMENDAS FEITAS PELA ASSEMBLÉIA GERAL DOS ACIONISTAS DE 22 DE SETEMBRO ÚLTIMO."
+    },
+    {
+      "senadoId": "402213",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-11-3796",
+      "titulo": "Decreto nº 3.796 de 11/10/1900",
+      "data": "1900-10-11",
+      "numero": "3796",
+      "urn": "urn:lex:br:federal:decreto:1900-10-11;3796",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO DA QUANTIA DE 194$875, PARA OCORRER AO PAGAMENTO DA GRATIFICAÇÃO DE ENGAJADO AO EX-1º SARGENTO DO CORPO DE OPERÁRIOS MILITARES DO ARSENAL DE GUERRA DESTA CAPITAL, AUGUSTO CÂNDIDO PEREIRA BAPTISTA DE OLIVEIRA."
+    },
+    {
+      "senadoId": "402208",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-10-3795",
+      "titulo": "Decreto nº 3.795 de 10/10/1900",
+      "data": "1900-10-10",
+      "numero": "3795",
+      "urn": "urn:lex:br:federal:decreto:1900-10-10;3795",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 80:000$, SUPLEMENTAR À VERBA 14, DO ARTIGO 2º DA LEI 652, DE 23 DE NOVEMBRO DE 1899, PARA - DILIGÊNCIAS POLICIAIS."
+    },
+    {
+      "senadoId": "402204",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-08-3794",
+      "titulo": "Decreto nº 3.794 de 08/10/1900",
+      "data": "1900-10-08",
+      "numero": "3794",
+      "urn": "urn:lex:br:federal:decreto:1900-10-08;3794",
+      "ementa": "CONCEDE AUTORIZAÇÃO À (THE ELECTRO-MOTION CORPORATION, LIMITED), PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "402196",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-08-3792",
+      "titulo": "Decreto nº 3.792 de 08/10/1900",
+      "data": "1900-10-08",
+      "numero": "3792",
+      "urn": "urn:lex:br:federal:decreto:1900-10-08;3792",
+      "ementa": "APROVA AS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA A ESTRADA DE FERRO DE ITARARÉ AO RIO URUGUAI."
+    },
+    {
+      "senadoId": "402200",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-08-3793",
+      "titulo": "Decreto nº 3.793 de 08/10/1900",
+      "data": "1900-10-08",
+      "numero": "3793",
+      "urn": "urn:lex:br:federal:decreto:1900-10-08;3793",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO EXTRAORDINÁRIO DE 35:556$418, AFIM DE SER APLICADO AO PAGAMENTO DAS DESPESAS DA COMISSÃO DE ESTUDOS DA ESTRADA DE FERRO DE CATALÃO A CUIABÁ."
+    },
+    {
+      "senadoId": "402183",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-06-3789",
+      "titulo": "Decreto nº 3.789 de 06/10/1900",
+      "data": "1900-10-06",
+      "numero": "3789",
+      "urn": "urn:lex:br:federal:decreto:1900-10-06;3789",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO POMBA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402192",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-06-3791",
+      "titulo": "Decreto nº 3.791 de 06/10/1900",
+      "data": "1900-10-06",
+      "numero": "3791",
+      "urn": "urn:lex:br:federal:decreto:1900-10-06;3791",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 832$252, PARA INDENIZAÇÃO A JOAQUIM DA SILVA GARCEZ, EX-PORTEIRO DO PEDAGOGIUM DESTA CAPITAL."
+    },
+    {
+      "senadoId": "402187",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-06-3790",
+      "titulo": "Decreto nº 3.790 de 06/10/1900",
+      "data": "1900-10-06",
+      "numero": "3790",
+      "urn": "urn:lex:br:federal:decreto:1900-10-06;3790",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO JOSÉ DOS CAMPOS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402179",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-05-3788",
+      "titulo": "Decreto nº 3.788 de 05/10/1900",
+      "data": "1900-10-05",
+      "numero": "3788",
+      "urn": "urn:lex:br:federal:decreto:1900-10-05;3788",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO EXTRAORDINÁRIO DE 17:703$894, PARA PAGAMENTO DE VENCIMENTOS DE TRÊS FIÉIS DE ARMAZÉM DA ALFÂNDEGA DO PARÁ."
+    },
+    {
+      "senadoId": "402174",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-05-3787",
+      "titulo": "Decreto nº 3.787 de 05/10/1900",
+      "data": "1900-10-05",
+      "numero": "3787",
+      "urn": "urn:lex:br:federal:decreto:1900-10-05;3787",
+      "ementa": "TRANSFERE DA VERBA 8ª - LABORATÓRIOS - PARA A VERBA 7ª - FÁBRICAS - DO ARTIGO 17 DA LEI 652, DE 23 DE NOVEMBRO DE 1899, A QUANTIA DE 107:155$178 E DA CONSIGNAÇÃO 23 PARA A DE 21 DA VERBA 16ª - MATERIAL - DO MESMO ARTIGO, A DE 31:181$700."
+    },
+    {
+      "senadoId": "402158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-01-3783",
+      "titulo": "Decreto nº 3.783 de 01/10/1900",
+      "data": "1900-10-01",
+      "numero": "3783",
+      "urn": "urn:lex:br:federal:decreto:1900-10-01;3783",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA MINAS DE COBRE DE CAMAQUAM PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "402162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-01-3784",
+      "titulo": "Decreto nº 3.784 de 01/10/1900",
+      "data": "1900-10-01",
+      "numero": "3784",
+      "urn": "urn:lex:br:federal:decreto:1900-10-01;3784",
+      "ementa": "CONCEDE AUTORIZAÇÃO À (THE RUBBER OF PARÁ, LIMITED) PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "402166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-01-3785",
+      "titulo": "Decreto nº 3.785 de 01/10/1900",
+      "data": "1900-10-01",
+      "numero": "3785",
+      "urn": "urn:lex:br:federal:decreto:1900-10-01;3785",
+      "ementa": "APROVA AS INSTRUÇÕES REGULAMENTARES E TARIFAS DA REDE FLUMINENSE DA (THE LEOPOLDINA RAILWAY COMPANY, LIMITED)."
+    },
+    {
+      "senadoId": "402170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-10-01-3786",
+      "titulo": "Decreto nº 3.786 de 01/10/1900",
+      "data": "1900-10-01",
+      "numero": "3786",
+      "urn": "urn:lex:br:federal:decreto:1900-10-01;3786",
+      "ementa": "PRORROGA ATÉ 31 DE DEZEMBRO DO CORRENTE ANO O PRAZO PARA A CONCLUSÃO DE TODAS AS OBRAS DO TRECHO DOS NOVOS PLANOS INCLINADOS DA SERRA E DA NOVA ESTAÇÃO DA LUZ, DA ESTRADA DE FERRO SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "402134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-29-3777",
+      "titulo": "Decreto nº 3.777 de 29/09/1900",
+      "data": "1900-09-29",
+      "numero": "3777",
+      "urn": "urn:lex:br:federal:decreto:1900-09-29;3777",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE MAR DE ESPANHA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-29-3781",
+      "titulo": "Decreto nº 3.781 de 29/09/1900",
+      "data": "1900-09-29",
+      "numero": "3781",
+      "urn": "urn:lex:br:federal:decreto:1900-09-29;3781",
+      "ementa": "DECLARA EXTINTO O LUGAR DE VICE DIRETOR DO EXTERNATO DO GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-29-3779",
+      "titulo": "Decreto nº 3.779 de 29/09/1900",
+      "data": "1900-09-29",
+      "numero": "3779",
+      "urn": "urn:lex:br:federal:decreto:1900-09-29;3779",
+      "ementa": "DECLARA DE UTILIDADE PÚBLICA A DESAPROPRIAÇÃO DO TERRENO E PRÉDIO À RUA HUMAITÁ 44 E DO TERRENO ANEXO 46, ORA OCUPADOS PELA ESTAÇÃO SUDOESTE, DO CORPO DE BOMBEIROS."
+    },
+    {
+      "senadoId": "402154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-29-3782",
+      "titulo": "Decreto nº 3.782 de 29/09/1900",
+      "data": "1900-09-29",
+      "numero": "3782",
+      "urn": "urn:lex:br:federal:decreto:1900-09-29;3782",
+      "ementa": "CONCEDE AO GINÁSIO NACIONAL DE OURO PRETO AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-29-3778",
+      "titulo": "Decreto nº 3.778 de 29/09/1900",
+      "data": "1900-09-29",
+      "numero": "3778",
+      "urn": "urn:lex:br:federal:decreto:1900-09-29;3778",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CRUZ ALTA, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "402146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-29-3780",
+      "titulo": "Decreto nº 3.780 de 29/09/1900",
+      "data": "1900-09-29",
+      "numero": "3780",
+      "urn": "urn:lex:br:federal:decreto:1900-09-29;3780",
+      "ementa": "AUTORIZA A INSTALAÇÃO DEFINITIVA DA ESTAÇÃO SUDOESTE, DO CORPO DE BOMBEIROS, NO PRÉDIO À RUA HUMAITÁ 44."
+    },
+    {
+      "senadoId": "402130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-25-3776",
+      "titulo": "Decreto nº 3.776 de 25/09/1900",
+      "data": "1900-09-25",
+      "numero": "3776",
+      "urn": "urn:lex:br:federal:decreto:1900-09-25;3776",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA (BANQUE BELGE DE PRÊTS FONCIERS), COM SEDE EM ANTUERPIA, AUTORIZAÇÃO PARA ESTABELECER UMA SUCURSAL NESTA CAPITAL E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "402126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-24-3775",
+      "titulo": "Decreto nº 3.775 de 24/09/1900",
+      "data": "1900-09-24",
+      "numero": "3775",
+      "urn": "urn:lex:br:federal:decreto:1900-09-24;3775",
+      "ementa": "SUBSTITUE O PARAGRAFO 1 DA CLAUSULA II DO DECRETO 462, DE 7 DE JUNHO DE 1890, QUE MODIFICOU AS CLAUSULAS DA CONCESSÃO DA ESTRADA DE FERRO DE ITARERE A SANTA MARIA DA BOCA DO MONTE."
+    },
+    {
+      "senadoId": "402118",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-24-3773",
+      "titulo": "Decreto nº 3.773 de 24/09/1900",
+      "data": "1900-09-24",
+      "numero": "3773",
+      "urn": "urn:lex:br:federal:decreto:1900-09-24;3773",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO DE 18:973$280 PARA OCORRER AO PAGAMENTO DEVIDO A ALCESTE PETTERIE PELA EMPREITADA DA ESTRADA DE RODAGEM DO PORTO DE CIMA À FIGUEIRA DE BRAÇO, NO ESTADO DO PARANÁ."
+    },
+    {
+      "senadoId": "402114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-24-3772",
+      "titulo": "Decreto nº 3.772 de 24/09/1900",
+      "data": "1900-09-24",
+      "numero": "3772",
+      "urn": "urn:lex:br:federal:decreto:1900-09-24;3772",
+      "ementa": "ALTERA AS BASES DAS TARIFAS MÓVEIS EM VIGOR NA ESTRADA DE FERRO CENTRAL DAS ALAGOAS, APROVADAS PELO DECRETO 2168, DE 18 DE NOVEMBRO DE 1895."
+    },
+    {
+      "senadoId": "402122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-24-3774",
+      "titulo": "Decreto nº 3.774 de 24/09/1900",
+      "data": "1900-09-24",
+      "numero": "3774",
+      "urn": "urn:lex:br:federal:decreto:1900-09-24;3774",
+      "ementa": "DECLARA SEM EFEITO A PATENTE DE INVENÇÃO 2.621, DE 20 DE AGOSTO DE 1898."
+    },
+    {
+      "senadoId": "456371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-24-33775",
+      "titulo": "Decreto nº 33.775 de 24/09/1900",
+      "data": "1900-09-24",
+      "numero": "33775",
+      "urn": "urn:lex:br:federal:decreto:1900-09-24;33775",
+      "ementa": "SUBSTITUE O PARAGRAFO 1 DA CLAUSULA II DO DECRETO 462, DE 7 DE JUNHO DE 1890, QUE MODIFICOU AS CLAUSULAS DA CONCESSÃO DA ESTRADA DE FERRO DE ITARARE A SANTA MARIA DA BOCCA DO MONTE."
+    },
+    {
+      "senadoId": "402098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3768",
+      "titulo": "Decreto nº 3.768 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3768",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3768",
+      "ementa": "REORGANIZA A GUARDA NACIONAL DO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "402085",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3765",
+      "titulo": "Decreto nº 3.765 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3765",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3765",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 17:173$333, PARA OCORRER AO PAGAMENTO DO ORDENADO QUE COMPETE AO JUIZ DE DIREITO DINAMÉRICO AUGUSTO DO RÊGO RANGEL."
+    },
+    {
+      "senadoId": "402094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3767",
+      "titulo": "Decreto nº 3.767 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3767",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3767",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 78:700$, SENDO 32:700$ À VERBA - SECRETARIA DO SENADO - E 46:000$ À VERBA - SECRETARIA DA CÂMARA DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3766",
+      "titulo": "Decreto nº 3.766 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3766",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3766",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, POR CONTA DO EXERCÍCIO DE 1900, O CRÉDITO SUPLEMENTAR DE 618:750$, SENDO 141:750$ À VERBA - SUBSÍDIO DOS SENADORES - E 477:000$ À VERBA - SUBSÍDIO DOS DEPUTADOS."
+    },
+    {
+      "senadoId": "402110",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3771",
+      "titulo": "Decreto nº 3.771 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3771",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3771",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BARRA MANSA, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402106",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3770",
+      "titulo": "Decreto nº 3.770 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3770",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3770",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA BARRA DO PIRAÍ, NO ESTADO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "402102",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-22-3769",
+      "titulo": "Decreto nº 3.769 de 22/09/1900",
+      "data": "1900-09-22",
+      "numero": "3769",
+      "urn": "urn:lex:br:federal:decreto:1900-09-22;3769",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BOTUCATÚ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402081",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-14-3764",
+      "titulo": "Decreto nº 3.764 de 14/09/1900",
+      "data": "1900-09-14",
+      "numero": "3764",
+      "urn": "urn:lex:br:federal:decreto:1900-09-14;3764",
+      "ementa": "ALTERA A TABELA DE DISTRIBUIÇÃO DE FARDAMENTO AOS PATRÕES, PATRÕES ARVORADOS, REMADORES, MAQUINISTAS E FOGUISTAS DAS EMBARCAÇÕES DOS ARSENAIS DE GUERRA E DA INTENDÊNCIA GERAL DA GUERRA."
+    },
+    {
+      "senadoId": "402077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-11-3763",
+      "titulo": "Decreto nº 3.763 de 11/09/1900",
+      "data": "1900-09-11",
+      "numero": "3763",
+      "urn": "urn:lex:br:federal:decreto:1900-09-11;3763",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-10-3762",
+      "titulo": "Decreto nº 3.762 de 10/09/1900",
+      "data": "1900-09-10",
+      "numero": "3762",
+      "urn": "urn:lex:br:federal:decreto:1900-09-10;3762",
+      "ementa": "CONCEDE AUTORIZAÇÃO À COMPANHIA DE LATICÍNIOS PARA REFORMAR O ARTIGO 1º DE SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "402069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-10-3761",
+      "titulo": "Decreto nº 3.761 de 10/09/1900",
+      "data": "1900-09-10",
+      "numero": "3761",
+      "urn": "urn:lex:br:federal:decreto:1900-09-10;3761",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE EM COMANDITA POR AÇÕES - CERVEJARIA BRAHMA - GEORG MASCHKE & COMP. PARA REFORMAR OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "402065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-03-3760",
+      "titulo": "Decreto nº 3.760 de 03/09/1900",
+      "data": "1900-09-03",
+      "numero": "3760",
+      "urn": "urn:lex:br:federal:decreto:1900-09-03;3760",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO DE 12:000$, SUPLEMENTAR À VERBA 13ª, ARTIGO 21 DA LEI 652, DE 23 DE NOVEMBRO DE 1899 - PESSOAL - ESCRITÓRIO - 4ª DIVISÃO."
+    },
+    {
+      "senadoId": "402061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-03-3759",
+      "titulo": "Decreto nº 3.759 de 03/09/1900",
+      "data": "1900-09-03",
+      "numero": "3759",
+      "urn": "urn:lex:br:federal:decreto:1900-09-03;3759",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO EXTRAORDINÁRIO DE 86:260$832, PARA PAGAMENTO DOS JUROS GARANTIDOS À (COMPAGNIE AUXILIAIRE DE CHEMINS DE FER AU BRÉSIL), CORRESPONDENTE AO EXERCÍCIO FINDO DE 1899."
+    },
+    {
+      "senadoId": "402053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-01-3757",
+      "titulo": "Decreto nº 3.757 de 01/09/1900",
+      "data": "1900-09-01",
+      "numero": "3757",
+      "urn": "urn:lex:br:federal:decreto:1900-09-01;3757",
+      "ementa": "CONCEDE AO COLÉGIO SÃO SALVADOR, NO ESTADO DA BAHIA, AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-01-3756",
+      "titulo": "Decreto nº 3.756 de 01/09/1900",
+      "data": "1900-09-01",
+      "numero": "3756",
+      "urn": "urn:lex:br:federal:decreto:1900-09-01;3756",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAMPANHA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-09-01-3758",
+      "titulo": "Decreto nº 3.758 de 01/09/1900",
+      "data": "1900-09-01",
+      "numero": "3758",
+      "urn": "urn:lex:br:federal:decreto:1900-09-01;3758",
+      "ementa": "CONCEDE À FACULDADE DE MEDICINA E DE FARMÁCIA DE PORTO ALEGRE OS PRIVILÉGIOS E GARANTIAS DE QUE GOZAM AS FACULDADES FEDERAIS CONGÊNERES."
+    },
+    {
+      "senadoId": "402045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-27-3755",
+      "titulo": "Decreto nº 3.755 de 27/08/1900",
+      "data": "1900-08-27",
+      "numero": "3755",
+      "urn": "urn:lex:br:federal:decreto:1900-08-27;3755",
+      "ementa": "APROVA COM MODIFICAÇÕES OS ESTUDOS E ORÇAMENTO PARA CONSTRUÇÃO DO DESVIO PELO CORTE GRANDE DA ESTRADA DE FERRO DONA THEREZA CHRISTINA."
+    },
+    {
+      "senadoId": "402033",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-25-3752",
+      "titulo": "Decreto nº 3.752 de 25/08/1900",
+      "data": "1900-08-25",
+      "numero": "3752",
+      "urn": "urn:lex:br:federal:decreto:1900-08-25;3752",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE JAGUARI, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-25-3753",
+      "titulo": "Decreto nº 3.753 de 25/08/1900",
+      "data": "1900-08-25",
+      "numero": "3753",
+      "urn": "urn:lex:br:federal:decreto:1900-08-25;3753",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE ALFENAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "402041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-25-3754",
+      "titulo": "Decreto nº 3.754 de 25/08/1900",
+      "data": "1900-08-25",
+      "numero": "3754",
+      "urn": "urn:lex:br:federal:decreto:1900-08-25;3754",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTÔNIO DO RIO ABAIXO, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "402029",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-24-3751",
+      "titulo": "Decreto nº 3.751 de 24/08/1900",
+      "data": "1900-08-24",
+      "numero": "3751",
+      "urn": "urn:lex:br:federal:decreto:1900-08-24;3751",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE  714:910$750 PARA PAGAMENTO DE TRABALHOS REALIZADOS EM 1899 NA FORTALEZA DA LAGE."
+    },
+    {
+      "senadoId": "402025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-23-3750",
+      "titulo": "Decreto nº 3.750 de 23/08/1900",
+      "data": "1900-08-23",
+      "numero": "3750",
+      "urn": "urn:lex:br:federal:decreto:1900-08-23;3750",
+      "ementa": "ABRE, AO MINISTÉRIO DAS RELAÇÕES EXTERIORE, UM CRÉDITO ESPECIAL DE 200:000$, MOEDA DO PAÍS, DESTINADO A OCORRER ÀS DESPESAS COM A VERIFICAÇÃO DA NASCENTE DO RIO JAVARI."
+    },
+    {
+      "senadoId": "402021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-23-3749",
+      "titulo": "Decreto nº 3.749 de 23/08/1900",
+      "data": "1900-08-23",
+      "numero": "3749",
+      "urn": "urn:lex:br:federal:decreto:1900-08-23;3749",
+      "ementa": "APROVA OS PLANOS E ORÇAMENTO DAS OBRAS DO CAIS ENTRE O ARSENAL DE MARINHA E A PONTA DO CAJU."
+    },
+    {
+      "senadoId": "402017",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-22-3748",
+      "titulo": "Decreto nº 3.748 de 22/08/1900",
+      "data": "1900-08-22",
+      "numero": "3748",
+      "urn": "urn:lex:br:federal:decreto:1900-08-22;3748",
+      "ementa": "TORNA EXTENSIVA À MARINHA A DISPOSIÇÃO DO DECRETO 721, DE 28 DE SETEMBRO DE 1853, PARA A CONTAGEM DE TEMPO DE EMBARQUE DOS OFICIAIS GRADUADOS."
+    },
+    {
+      "senadoId": "402013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-20-3747",
+      "titulo": "Decreto nº 3.747 de 20/08/1900",
+      "data": "1900-08-20",
+      "numero": "3747",
+      "urn": "urn:lex:br:federal:decreto:1900-08-20;3747",
+      "ementa": "PRORROGA POR MAIS TRÊS ANOS O PRAZO FIXADO NA CLÁUSULA IV DO DECRETO 436 F, DE 4 DE JULHO DE 1891, PARA CONCLUSÃO DAS OBRAS DE PROLONGAMENTO DA ESTRADA DE FERRO SOROCABANA."
+    },
+    {
+      "senadoId": "401997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-18-3743",
+      "titulo": "Decreto nº 3.743 de 18/08/1900",
+      "data": "1900-08-18",
+      "numero": "3743",
+      "urn": "urn:lex:br:federal:decreto:1900-08-18;3743",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "402001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-18-3744",
+      "titulo": "Decreto nº 3.744 de 18/08/1900",
+      "data": "1900-08-18",
+      "numero": "3744",
+      "urn": "urn:lex:br:federal:decreto:1900-08-18;3744",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TUCANO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "402009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-18-3746",
+      "titulo": "Decreto nº 3.746 de 18/08/1900",
+      "data": "1900-08-18",
+      "numero": "3746",
+      "urn": "urn:lex:br:federal:decreto:1900-08-18;3746",
+      "ementa": "CONCEDE AO COLÉGIO SÃO VICENTE DE PAULO, DE PETRÓPOLIS, AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "402005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-18-3745",
+      "titulo": "Decreto nº 3.745 de 18/08/1900",
+      "data": "1900-08-18",
+      "numero": "3745",
+      "urn": "urn:lex:br:federal:decreto:1900-08-18;3745",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA COLÔNIA, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-15-3742",
+      "titulo": "Decreto nº 3.742 de 15/08/1900",
+      "data": "1900-08-15",
+      "numero": "3742",
+      "urn": "urn:lex:br:federal:decreto:1900-08-15;3742",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, O CRÉDITO EXTRAORDINÁRIO DE 36:400$ PARA PAGAMENTO DE SERVIÇOS PRESTADOS POR ANTÔNIO LÚCIO DE MEDEIROS, CONTRATANTE DO SUPRIMENTO DE ÁGUA E DE ILUMINAÇÃO A GÁS AOS NAVIOS DA ARMADA E ESTABELECIMENTOS DA MARINHA."
+    },
+    {
+      "senadoId": "401989",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-13-3741",
+      "titulo": "Decreto nº 3.741 de 13/08/1900",
+      "data": "1900-08-13",
+      "numero": "3741",
+      "urn": "urn:lex:br:federal:decreto:1900-08-13;3741",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE ANÔNIMA QUE FUNCIONA SOB A DENOMINAÇÃO DE COMPANHIA MATTE LARANJEIRA, COM ESTATUTOS APROVADOS POR DECRETO 436 C, DE 4 JULHO DE 1891."
+    },
+    {
+      "senadoId": "401965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-11-3735",
+      "titulo": "Decreto nº 3.735 de 11/08/1900",
+      "data": "1900-08-11",
+      "numero": "3735",
+      "urn": "urn:lex:br:federal:decreto:1900-08-11;3735",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 4:200$, AO CAMINHO DE 27 D., PARA PRÊMIO AO DOUTOR TITO DOS PASSOS DE ALMEIDA ROSAS, QUANDO ALUNO DA FACULDADE DE DIREITO DO RECIFE."
+    },
+    {
+      "senadoId": "401985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-11-3740",
+      "titulo": "Decreto nº 3.740 de 11/08/1900",
+      "data": "1900-08-11",
+      "numero": "3740",
+      "urn": "urn:lex:br:federal:decreto:1900-08-11;3740",
+      "ementa": "CRIA UMA BRIGADA DO CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO RIO GRANDE, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "401973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-11-3737",
+      "titulo": "Decreto nº 3.737 de 11/08/1900",
+      "data": "1900-08-11",
+      "numero": "3737",
+      "urn": "urn:lex:br:federal:decreto:1900-08-11;3737",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 3:252$, SUPLEMENTAR À VERBA 12 DO ARTIGO 2º DA LEI 652, DE  23 DE NOVEMBRO DE 1899."
+    },
+    {
+      "senadoId": "401977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-11-3738",
+      "titulo": "Decreto nº 3.738 de 11/08/1900",
+      "data": "1900-08-11",
+      "numero": "3738",
+      "urn": "urn:lex:br:federal:decreto:1900-08-11;3738",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 6:650$591 PARA PAGAMENTO AO LENTE DE INGLÊS DO GINÁSIO NACIONAL, ALFREDO ALEXANDER."
+    },
+    {
+      "senadoId": "401981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-11-3739",
+      "titulo": "Decreto nº 3.739 de 11/08/1900",
+      "data": "1900-08-11",
+      "numero": "3739",
+      "urn": "urn:lex:br:federal:decreto:1900-08-11;3739",
+      "ementa": "CRIA MAIS UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE DIAMANTINA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-11-3736",
+      "titulo": "Decreto nº 3.736 de 11/08/1900",
+      "data": "1900-08-11",
+      "numero": "3736",
+      "urn": "urn:lex:br:federal:decreto:1900-08-11;3736",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO EXTRAORDINÁRIO DE 880$645 PARA PAGAMENTO DOS VENCIMENTOS QUE COMPETEM AO PREPARADOR DA CADEIRA DE HISTOLOGIA DA FACULDADE DE MEDICINA DO RIO DE JANEIRO, DOUTOR ERNANI CARLOS DE MENEZES PINTO."
+    },
+    {
+      "senadoId": "401961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-09-3734",
+      "titulo": "Decreto nº 3.734 de 09/08/1900",
+      "data": "1900-08-09",
+      "numero": "3734",
+      "urn": "urn:lex:br:federal:decreto:1900-08-09;3734",
+      "ementa": "PUBLICA A ADESÃO DO PRINCIPADO DE MONTENEGRO AO ACORDO DE WASHINGTON RELATIVO AO SERVIÇO DE VALES POSTAIS."
+    },
+    {
+      "senadoId": "401957",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-08-3733",
+      "titulo": "Decreto nº 3.733 de 08/08/1900",
+      "data": "1900-08-08",
+      "numero": "3733",
+      "urn": "urn:lex:br:federal:decreto:1900-08-08;3733",
+      "ementa": "MODIFICA O PLANO DE UNIFORMES APROVADO PELO DECRETO 2036, DE 4 DE JULHO DE 1895, QUANTO ÀS PASSADEIRAS."
+    },
+    {
+      "senadoId": "401953",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-07-3732",
+      "titulo": "Decreto nº 3.732 de 07/08/1900",
+      "data": "1900-08-07",
+      "numero": "3732",
+      "urn": "urn:lex:br:federal:decreto:1900-08-07;3732",
+      "ementa": "DÁ REGULAMENTO PARA O SERVIÇO DE FATURAS CONSULARES."
+    },
+    {
+      "senadoId": "401949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-06-3731",
+      "titulo": "Decreto nº 3.731 de 06/08/1900",
+      "data": "1900-08-06",
+      "numero": "3731",
+      "urn": "urn:lex:br:federal:decreto:1900-08-06;3731",
+      "ementa": "CONCEDE AUTORIZAÇÃO À (COMPAGNIE DES CAOUTCHOUES DU MATTO GROSSO) PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-04-3728",
+      "titulo": "Decreto nº 3.728 de 04/08/1900",
+      "data": "1900-08-04",
+      "numero": "3728",
+      "urn": "urn:lex:br:federal:decreto:1900-08-04;3728",
+      "ementa": "ABRE, AO MINISTERIO DA JUSTIÇA, O CREDITO EXTRAORDINARIO DE 8:000$, PARA INDENIZAR AO DOUTOR JOÃO PAULO DE CARVALHO DE DESPESAS QUE FEZ NA EUROPA NO DESEMPENHO DE COMISSÃO."
+    },
+    {
+      "senadoId": "401941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-04-3729",
+      "titulo": "Decreto nº 3.729 de 04/08/1900",
+      "data": "1900-08-04",
+      "numero": "3729",
+      "urn": "urn:lex:br:federal:decreto:1900-08-04;3729",
+      "ementa": "CRIA UMA BRIGADA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE AMARGOSA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "401933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-04-3727",
+      "titulo": "Decreto nº 3.727 de 04/08/1900",
+      "data": "1900-08-04",
+      "numero": "3727",
+      "urn": "urn:lex:br:federal:decreto:1900-08-04;3727",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO DE 27:000$, SUPLEMENTAR À RUBRICA 37, (CORPO DE BOMBEIROS), DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "401945",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-04-3730",
+      "titulo": "Decreto nº 3.730 de 04/08/1900",
+      "data": "1900-08-04",
+      "numero": "3730",
+      "urn": "urn:lex:br:federal:decreto:1900-08-04;3730",
+      "ementa": "CONCEDE AO COLÉGIO DIOCESANO DE SÃO PAULO AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-02-3726",
+      "titulo": "Decreto nº 3.726 de 02/08/1900",
+      "data": "1900-08-02",
+      "numero": "3726",
+      "urn": "urn:lex:br:federal:decreto:1900-08-02;3726",
+      "ementa": "PUBLICA A ADESÃO DE NICARÁGUA À CONVENÇÃO POSTAL UNIVERSAL DE WASHINGTON DE 15 DE JUNHO DE 1897."
+    },
+    {
+      "senadoId": "401924",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-01-3725",
+      "titulo": "Decreto nº 3.725 de 01/08/1900",
+      "data": "1900-08-01",
+      "numero": "3725",
+      "urn": "urn:lex:br:federal:decreto:1900-08-01;3725",
+      "ementa": "CONCEDE AUTORIZAÇÃO A B. RYMKIEVIEZ & COMP. PARA EXECUTAREM AS OBRAS DE MELHORAMENTO NO PORTO DE MANAUS, ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "401920",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-08-01-3724",
+      "titulo": "Decreto nº 3.724 de 01/08/1900",
+      "data": "1900-08-01",
+      "numero": "3724",
+      "urn": "urn:lex:br:federal:decreto:1900-08-01;3724",
+      "ementa": "SUPRIME A ALÍNEA DO PARÁGRAFO 1º DA CLÁUSULA XV DOS DECRETOS 3540 DE 29 DE DEZEMBRO DE 1899 A 3603, DE 20 DE FEVEREIRO DE 1900 E RESPECTIVOS CONTRATOS."
+    },
+    {
+      "senadoId": "401912",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-30-3722",
+      "titulo": "Decreto nº 3.722 de 30/07/1900",
+      "data": "1900-07-30",
+      "numero": "3722",
+      "urn": "urn:lex:br:federal:decreto:1900-07-30;3722",
+      "ementa": "UNIFORMIZA OS REGULAMENTOS DE TARIFAS EM VIGOR NAS ESTRADAS DE FERRO DE SANTOS A JUNDIAÍ, PAULISTA, MOGIANA E SOROCABANA."
+    },
+    {
+      "senadoId": "401904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-30-3720",
+      "titulo": "Decreto nº 3.720 de 30/07/1900",
+      "data": "1900-07-30",
+      "numero": "3720",
+      "urn": "urn:lex:br:federal:decreto:1900-07-30;3720",
+      "ementa": "APROVA ALGUMAS MODIFICAÇÕES NAS TARIFAS EM VIGOR NA ESTRADA DE FERRO DE QUARAHIM A ITAQUI."
+    },
+    {
+      "senadoId": "401916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-30-3723",
+      "titulo": "Decreto nº 3.723 de 30/07/1900",
+      "data": "1900-07-30",
+      "numero": "3723",
+      "urn": "urn:lex:br:federal:decreto:1900-07-30;3723",
+      "ementa": "APROVA O ORÇAMENTO APRESENTADO PELA (GREAT WESTERN OF BRASIL RAILWAY COMPANY), PARA CONCLUSÃO DAS OBRAS DO TRECHO DE TIMBAÚBA AO PILAR."
+    },
+    {
+      "senadoId": "401900",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-30-3719",
+      "titulo": "Decreto nº 3.719 de 30/07/1900",
+      "data": "1900-07-30",
+      "numero": "3719",
+      "urn": "urn:lex:br:federal:decreto:1900-07-30;3719",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS SEUS ESTATUTOS PELA COMPANHIA MANUFATORA DE CONSERVAS ALIMENTÍCIAS."
+    },
+    {
+      "senadoId": "401908",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-30-3721",
+      "titulo": "Decreto nº 3.721 de 30/07/1900",
+      "data": "1900-07-30",
+      "numero": "3721",
+      "urn": "urn:lex:br:federal:decreto:1900-07-30;3721",
+      "ementa": "FIXA DEFINITIVAMENTE EM 9.179:855$100 O CAPITAL EMPREGADO NAS SEIS SEÇÕES DOS PROLONGAMENTOS DA ESTRADA DE FERRO DE PARANAGUÁ A CURITIBA."
+    },
+    {
+      "senadoId": "401896",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-28-3718",
+      "titulo": "Decreto nº 3.718 de 28/07/1900",
+      "data": "1900-07-28",
+      "numero": "3718",
+      "urn": "urn:lex:br:federal:decreto:1900-07-28;3718",
+      "ementa": "CRIA DUAS BRIGADAS DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE TATUÍ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401888",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-28-3716",
+      "titulo": "Decreto nº 3.716 de 28/07/1900",
+      "data": "1900-07-28",
+      "numero": "3716",
+      "urn": "urn:lex:br:federal:decreto:1900-07-28;3716",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTÔNIO DE GELBÕES, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-28-3717",
+      "titulo": "Decreto nº 3.717 de 28/07/1900",
+      "data": "1900-07-28",
+      "numero": "3717",
+      "urn": "urn:lex:br:federal:decreto:1900-07-28;3717",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA FILOMENA, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-27-3715",
+      "titulo": "Decreto nº 3.715 de 27/07/1900",
+      "data": "1900-07-27",
+      "numero": "3715",
+      "urn": "urn:lex:br:federal:decreto:1900-07-27;3715",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE  1:666$666 PARA OCORRER AO PAGAMENTO AO MAJOR HONORÁRIO DO EXÉRCITO JOÃO BERNARDO DE AZEVEDO COIMBRA, PROFESSOR DA ESCOLA MILITAR DO BRASIL, DE VENCIMENTOS CORRESPONDENTES AO TEMPO EM QUE ESTEVE DIRIGINDO UMA TURMA DE ALUNOS DA AULA DE ARITMÉTICA DA MESMA ESCOLA."
+    },
+    {
+      "senadoId": "401880",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-26-3714",
+      "titulo": "Decreto nº 3.714 de 26/07/1900",
+      "data": "1900-07-26",
+      "numero": "3714",
+      "urn": "urn:lex:br:federal:decreto:1900-07-26;3714",
+      "ementa": "PUBLICA A ADESÃO DA ALEMANHA À UNIÃO POSTAL UNIVERSAL DE WASHINGTON, DE 15 DE JUNHO DE 1897, PELAS ILHAS SAMOA."
+    },
+    {
+      "senadoId": "401876",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-23-3713",
+      "titulo": "Decreto nº 3.713 de 23/07/1900",
+      "data": "1900-07-23",
+      "numero": "3713",
+      "urn": "urn:lex:br:federal:decreto:1900-07-23;3713",
+      "ementa": "CONCEDE À H. B. PERRY & COMP. LIMITED, AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-23-3712",
+      "titulo": "Decreto nº 3.712 de 23/07/1900",
+      "data": "1900-07-23",
+      "numero": "3712",
+      "urn": "urn:lex:br:federal:decreto:1900-07-23;3712",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO DA PRORROGAÇÃO CONCEDIDA A AUGUSTO CÉSAR GUIMARÃES, PELO DECRETO 3.619, DE 20 DE MARÇO ÚLTIMO."
+    },
+    {
+      "senadoId": "401868",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-23-3711",
+      "titulo": "Decreto nº 3.711 de 23/07/1900",
+      "data": "1900-07-23",
+      "numero": "3711",
+      "urn": "urn:lex:br:federal:decreto:1900-07-23;3711",
+      "ementa": "AUTORIZA A INCLUSÃO DE DISPOSIÇÕES REGULANDO A ESTADIA DE VAGÕES NOS DESVIOS PARTICULARES, NAS INSTRUÇÕES REGULAMENTARES EM VIGOR NA ESTRADA DE FERRO CENTRAL DE ALAGOAS, APROVADAS PELO DECRETO 9576, DE 10 DE ABRIL DE 1886."
+    },
+    {
+      "senadoId": "401846",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-21-3706",
+      "titulo": "Decreto nº 3.706 de 21/07/1900",
+      "data": "1900-07-21",
+      "numero": "3706",
+      "urn": "urn:lex:br:federal:decreto:1900-07-21;3706",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CORRENTE, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401864",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-21-3710",
+      "titulo": "Decreto nº 3.710 de 21/07/1900",
+      "data": "1900-07-21",
+      "numero": "3710",
+      "urn": "urn:lex:br:federal:decreto:1900-07-21;3710",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BREVES, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401859",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-21-3709",
+      "titulo": "Decreto nº 3.709 de 21/07/1900",
+      "data": "1900-07-21",
+      "numero": "3709",
+      "urn": "urn:lex:br:federal:decreto:1900-07-21;3709",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE IGARAPÉ-MIRI, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401850",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-21-3707",
+      "titulo": "Decreto nº 3.707 de 21/07/1900",
+      "data": "1900-07-21",
+      "numero": "3707",
+      "urn": "urn:lex:br:federal:decreto:1900-07-21;3707",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BOM JESUS, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-21-3708",
+      "titulo": "Decreto nº 3.708 de 21/07/1900",
+      "data": "1900-07-21",
+      "numero": "3708",
+      "urn": "urn:lex:br:federal:decreto:1900-07-21;3708",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CACHOEIRA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "401842",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-20-3705",
+      "titulo": "Decreto nº 3.705 de 20/07/1900",
+      "data": "1900-07-20",
+      "numero": "3705",
+      "urn": "urn:lex:br:federal:decreto:1900-07-20;3705",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO EXTRAORDINÁRIO DE 3:350$ PARA PAGAMENTO DE DIÁRIAS A QUE TEM DIREITO O CAPITÃO REFORMADO DO EXÉRCITO CARLOS AUGUSTO FERREIRA DE ASSUMPÇÃO."
+    },
+    {
+      "senadoId": "401838",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-18-3704",
+      "titulo": "Decreto nº 3.704 de 18/07/1900",
+      "data": "1900-07-18",
+      "numero": "3704",
+      "urn": "urn:lex:br:federal:decreto:1900-07-18;3704",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SARAPUÍ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-16-3701",
+      "titulo": "Decreto nº 3.701 de 16/07/1900",
+      "data": "1900-07-16",
+      "numero": "3701",
+      "urn": "urn:lex:br:federal:decreto:1900-07-16;3701",
+      "ementa": "CONCEDE AO COLÉGIO DO CARAÇA AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401830",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-16-3702",
+      "titulo": "Decreto nº 3.702 de 16/07/1900",
+      "data": "1900-07-16",
+      "numero": "3702",
+      "urn": "urn:lex:br:federal:decreto:1900-07-16;3702",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BRAGANÇA, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401834",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-16-3703",
+      "titulo": "Decreto nº 3.703 de 16/07/1900",
+      "data": "1900-07-16",
+      "numero": "3703",
+      "urn": "urn:lex:br:federal:decreto:1900-07-16;3703",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401819",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-09-3699",
+      "titulo": "Decreto nº 3.699 de 09/07/1900",
+      "data": "1900-07-09",
+      "numero": "3699",
+      "urn": "urn:lex:br:federal:decreto:1900-07-09;3699",
+      "ementa": "APROVA OS PLANOS E ORÇAMENTOS DE OBRAS EXECUTADAS E MATERIAL ADQUIRIDO PELA COMPANHIA DOCAS DE SANTOS, NOS TERMOS DO DECRETO 966, DE 7 DE NOVEMBRO DE 1890, E 790, DE 8 DE ABRIL DE 1892, E AUTORIZA A INCLUSÃO DA RESPECTIVA DESPESA NA CONTA DO CAPITAL."
+    },
+    {
+      "senadoId": "401815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-07-07-3698",
+      "titulo": "Decreto nº 3.698 de 07/07/1900",
+      "data": "1900-07-07",
+      "numero": "3698",
+      "urn": "urn:lex:br:federal:decreto:1900-07-07;3698",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTO ANTÔNIO DO RIO ABAIXO, NO ESTADO DE MATO GROSSO."
+    },
+    {
+      "senadoId": "401803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-30-3695",
+      "titulo": "Decreto nº 3.695 de 30/06/1900",
+      "data": "1900-06-30",
+      "numero": "3695",
+      "urn": "urn:lex:br:federal:decreto:1900-06-30;3695",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE CACHOEIRA, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-30-3694",
+      "titulo": "Decreto nº 3.694 de 30/06/1900",
+      "data": "1900-06-30",
+      "numero": "3694",
+      "urn": "urn:lex:br:federal:decreto:1900-06-30;3694",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE VIZEU, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401795",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-30-3693",
+      "titulo": "Decreto nº 3.693 de 30/06/1900",
+      "data": "1900-06-30",
+      "numero": "3693",
+      "urn": "urn:lex:br:federal:decreto:1900-06-30;3693",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA E UMA DE ARTILHARIA DE GUARDAS NACIONAIS NA COMARCA DE CARINHANHA, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "401807",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-30-3696",
+      "titulo": "Decreto nº 3.696 de 30/06/1900",
+      "data": "1900-06-30",
+      "numero": "3696",
+      "urn": "urn:lex:br:federal:decreto:1900-06-30;3696",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE VALENÇA, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-30-3697",
+      "titulo": "Decreto nº 3.697 de 30/06/1900",
+      "data": "1900-06-30",
+      "numero": "3697",
+      "urn": "urn:lex:br:federal:decreto:1900-06-30;3697",
+      "ementa": "CRIA DUAS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE UNIÃO, NO ESTADO DO PIAUÍ."
+    },
+    {
+      "senadoId": "401787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-25-3691",
+      "titulo": "Decreto nº 3.691 de 25/06/1900",
+      "data": "1900-06-25",
+      "numero": "3691",
+      "urn": "urn:lex:br:federal:decreto:1900-06-25;3691",
+      "ementa": "FIXA PROVISORIAMENTE EM 7.564:200$ O CAPITAL EMPREGADO NO TRECHO COMPREENDIDO ENTRE AS ESTAÇÕES DE PIRAÍ E ANTÔNIO REBOUÇAS, DA ESTRADA DE FERRO DE ITARARÉ AO URUGUAI."
+    },
+    {
+      "senadoId": "401791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-25-3692",
+      "titulo": "Decreto nº 3.692 de 25/06/1900",
+      "data": "1900-06-25",
+      "numero": "3692",
+      "urn": "urn:lex:br:federal:decreto:1900-06-25;3692",
+      "ementa": "APROVA A NOVA DENOMINAÇÃO DE THE SÃO PAULO TRAMWAY LIGHT AND POWER COMPANY, LIMITED, COM QUE CONTINUA A FUNCIONAR THE SÃO PAULO RAILWAY LIGHT AND POWER COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "401783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-23-3690",
+      "titulo": "Decreto nº 3.690 de 23/06/1900",
+      "data": "1900-06-23",
+      "numero": "3690",
+      "urn": "urn:lex:br:federal:decreto:1900-06-23;3690",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE QUELUZ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401779",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-23-3689",
+      "titulo": "Decreto nº 3.689 de 23/06/1900",
+      "data": "1900-06-23",
+      "numero": "3689",
+      "urn": "urn:lex:br:federal:decreto:1900-06-23;3689",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA E MAIS UMA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE AIURUOCA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-23-3687",
+      "titulo": "Decreto nº 3.687 de 23/06/1900",
+      "data": "1900-06-23",
+      "numero": "3687",
+      "urn": "urn:lex:br:federal:decreto:1900-06-23;3687",
+      "ementa": "CONCEDE AO INSTITUTO NACIONAL DE HUMANIDADES AS REGALIAS DO GINÁSIO NACIONAL, PARA O FIM DE PODER PASSAR CERTIFICADOS DE CONCLUSÃO DE ESTUDOS."
+    },
+    {
+      "senadoId": "401775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-23-3688",
+      "titulo": "Decreto nº 3.688 de 23/06/1900",
+      "data": "1900-06-23",
+      "numero": "3688",
+      "urn": "urn:lex:br:federal:decreto:1900-06-23;3688",
+      "ementa": "CONCEDE AO GINÁSIO DO RIO GRANDE DO SUL AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-20-3686",
+      "titulo": "Decreto nº 3.686 de 20/06/1900",
+      "data": "1900-06-20",
+      "numero": "3686",
+      "urn": "urn:lex:br:federal:decreto:1900-06-20;3686",
+      "ementa": "ALTERA O DECRETO 216, DE 22 DE FEVEREIRO DE 1890."
+    },
+    {
+      "senadoId": "401759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-19-3684",
+      "titulo": "Decreto nº 3.684 de 19/06/1900",
+      "data": "1900-06-19",
+      "numero": "3684",
+      "urn": "urn:lex:br:federal:decreto:1900-06-19;3684",
+      "ementa": "REDUZ 25% NOS FRETES DOS GÊNEROS ALIMENTÍCIOS DE PRIMEIRA NECESSIDADE, NA ESTRADA DE FERRO DE BATURITÉ, PROVISORIAMENTE E ATÉ QUE CESSE A ATUAL CRISE DO ESTADO DO CEARÁ."
+    },
+    {
+      "senadoId": "401763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-19-3685",
+      "titulo": "Decreto nº 3.685 de 19/06/1900",
+      "data": "1900-06-19",
+      "numero": "3685",
+      "urn": "urn:lex:br:federal:decreto:1900-06-19;3685",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 184:262$505, PARA OCORRER ÀS DESPESAS COM O ESTABELECIMENTO DA ALFÃNDEGA DE PORTO ALEGRE."
+    },
+    {
+      "senadoId": "401755",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-16-3683",
+      "titulo": "Decreto nº 3.683 de 16/06/1900",
+      "data": "1900-06-16",
+      "numero": "3683",
+      "urn": "urn:lex:br:federal:decreto:1900-06-16;3683",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO SUPLEMENTAR DE 550:000$ À VERBA - SOCORROS PÚBLICOS - DO EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "401751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-16-3682",
+      "titulo": "Decreto nº 3.682 de 16/06/1900",
+      "data": "1900-06-16",
+      "numero": "3682",
+      "urn": "urn:lex:br:federal:decreto:1900-06-16;3682",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E OUTRA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTA CRUZ DO RIO PARDO, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-16-3679",
+      "titulo": "Decreto nº 3.679 de 16/06/1900",
+      "data": "1900-06-16",
+      "numero": "3679",
+      "urn": "urn:lex:br:federal:decreto:1900-06-16;3679",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITAITUBA, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-16-3678",
+      "titulo": "Decreto nº 3.678 de 16/06/1900",
+      "data": "1900-06-16",
+      "numero": "3678",
+      "urn": "urn:lex:br:federal:decreto:1900-06-16;3678",
+      "ementa": "ALTERA VÁRIAS DISPOSIÇÕES DA NOVA CONSOLIDAÇÃO DAS LEIS DAS ALFÂNDEGAS E MESAS DE RENDAS E DO REGULAMENTO APROVADO PELO DECRETO 2304, DE 2 DE JULHO DE 1896, RELATIVAS AO PROCESSO DO DESPACHO DE MERCADORIAS NAVEGADAS POR CABOTAGEM."
+    },
+    {
+      "senadoId": "401747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-16-3681",
+      "titulo": "Decreto nº 3.681 de 16/06/1900",
+      "data": "1900-06-16",
+      "numero": "3681",
+      "urn": "urn:lex:br:federal:decreto:1900-06-16;3681",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA CAPITAL DO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-16-3680",
+      "titulo": "Decreto nº 3.680 de 16/06/1900",
+      "data": "1900-06-16",
+      "numero": "3680",
+      "urn": "urn:lex:br:federal:decreto:1900-06-16;3680",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE OBIDOS, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-13-3677",
+      "titulo": "Decreto nº 3.677 de 13/06/1900",
+      "data": "1900-06-13",
+      "numero": "3677",
+      "urn": "urn:lex:br:federal:decreto:1900-06-13;3677",
+      "ementa": "DECLARA CADUCA A CONCESSÃO DE TERRAS DEVOLUTAS, A QUE SE REFERE O CONTRATO DE 18 DE JULHO DE 1881, ENTRE O MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS E O CONCESSIONÁRIO DA ESTRADA DE FERRO PROJETADA ENTRE FILADÉLFIA E CARVELAS, NAS ANTIGAS PROVÍNCIAS, HOJE ESTADOS, DA BAHIA E MINAS GERAIS."
+    },
+    {
+      "senadoId": "401727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-09-3676",
+      "titulo": "Decreto nº 3.676 de 09/06/1900",
+      "data": "1900-06-09",
+      "numero": "3676",
+      "urn": "urn:lex:br:federal:decreto:1900-06-09;3676",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DO ALEGRE, NO ESTADO DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "401720",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-04-3674",
+      "titulo": "Decreto nº 3.674 de 04/06/1900",
+      "data": "1900-06-04",
+      "numero": "3674",
+      "urn": "urn:lex:br:federal:decreto:1900-06-04;3674",
+      "ementa": "DECLARA SEM EFEITO AS CLÁUSULAS QUE BAIXARAM COM O DECRETO 3655, DE 14 DE MAIO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "401716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-04-3673",
+      "titulo": "Decreto nº 3.673 de 04/06/1900",
+      "data": "1900-06-04",
+      "numero": "3673",
+      "urn": "urn:lex:br:federal:decreto:1900-06-04;3673",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 650:000$, DESTINADOS AO PAGAMENTO DA INDENIZAÇÃO DE 250:000$ AO BANCO UNIÃO DE SÃO PAULO E 400:000$ AO ENGENHEIRO FRANCISCO DE ALMEIDA TORRES, PELA RESCISÃO DOS RESPECTIVOS CONTRATOS DE FUNDAÇÃO DE NÚCLEOS COLONIAIS."
+    },
+    {
+      "senadoId": "401712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-02-3672",
+      "titulo": "Decreto nº 3.672 de 02/06/1900",
+      "data": "1900-06-02",
+      "numero": "3672",
+      "urn": "urn:lex:br:federal:decreto:1900-06-02;3672",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DO POMBA, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401708",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-02-3671",
+      "titulo": "Decreto nº 3.671 de 02/06/1900",
+      "data": "1900-06-02",
+      "numero": "3671",
+      "urn": "urn:lex:br:federal:decreto:1900-06-02;3671",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE TAQUARETINGA, NO ESTADO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "401696",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-02-3668",
+      "titulo": "Decreto nº 3.668 de 02/06/1900",
+      "data": "1900-06-02",
+      "numero": "3668",
+      "urn": "urn:lex:br:federal:decreto:1900-06-02;3668",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MAUES, NO ESTADO DO AMAZONAS."
+    },
+    {
+      "senadoId": "401700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-02-3669",
+      "titulo": "Decreto nº 3.669 de 02/06/1900",
+      "data": "1900-06-02",
+      "numero": "3669",
+      "urn": "urn:lex:br:federal:decreto:1900-06-02;3669",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SANTARÉM, ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401704",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-06-02-3670",
+      "titulo": "Decreto nº 3.670 de 02/06/1900",
+      "data": "1900-06-02",
+      "numero": "3670",
+      "urn": "urn:lex:br:federal:decreto:1900-06-02;3670",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA VIGIA, NO ESTADO DO PARÁ."
+    },
+    {
+      "senadoId": "401692",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-31-3667",
+      "titulo": "Decreto nº 3.667 de 31/05/1900",
+      "data": "1900-05-31",
+      "numero": "3667",
+      "urn": "urn:lex:br:federal:decreto:1900-05-31;3667",
+      "ementa": "MANDA EXECUTAR O TRATADO CONCLUÍDO EM 6 DE OUTUBRO DE 1898, ENTRE O BRASIL E A REPÚBLICA ARGENTINA, E QUE COMPLETA O ESTABELECIMENTO DA LINHA DIVISÓRIA DOS DOIS PAÍSES."
+    },
+    {
+      "senadoId": "401684",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-28-3665",
+      "titulo": "Decreto nº 3.665 de 28/05/1900",
+      "data": "1900-05-28",
+      "numero": "3665",
+      "urn": "urn:lex:br:federal:decreto:1900-05-28;3665",
+      "ementa": "ALTERA ALGUMAS TARIFAS DA ESTRADA DE FERRO DO RECIFE AO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "401676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-28-3663",
+      "titulo": "Decreto nº 3.663 de 28/05/1900",
+      "data": "1900-05-28",
+      "numero": "3663",
+      "urn": "urn:lex:br:federal:decreto:1900-05-28;3663",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE ANÔNIMA SUCRERIE DE CUPIM PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-28-3666",
+      "titulo": "Decreto nº 3.666 de 28/05/1900",
+      "data": "1900-05-28",
+      "numero": "3666",
+      "urn": "urn:lex:br:federal:decreto:1900-05-28;3666",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO MARCADO NO CONTRATO DE 3 DE MARÇO DE 1893 À COMPANHIA BRASILEIRA TORRENS PARA O INÍCIO DAS OBRAS DE MELHORAMENTO DO PORTO DE VITÓRIA, ESTADO DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "401672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-28-3662",
+      "titulo": "Decreto nº 3.662 de 28/05/1900",
+      "data": "1900-05-28",
+      "numero": "3662",
+      "urn": "urn:lex:br:federal:decreto:1900-05-28;3662",
+      "ementa": "MODIFICA O ARTIGO 40 DOS ESTATUTOS DA SOCIEDADE ANÔNIMA SUCRERIE DE VILLA RAFFARD, AUTORIZADA A FUNCIONAR NO BRASIL PELO DECRETO 3333, DE 4 DE JUNHO DE 1899."
+    },
+    {
+      "senadoId": "401680",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-28-3664",
+      "titulo": "Decreto nº 3.664 de 28/05/1900",
+      "data": "1900-05-28",
+      "numero": "3664",
+      "urn": "urn:lex:br:federal:decreto:1900-05-28;3664",
+      "ementa": "MODIFICA O ARTIGO 40 DOS ESTATUTOS DA SOCIEDADE ANÔNIMA SUCRERIE DE PIRACICABA, AUTORIZADA A FUNCIONAR NO BRASIL PELO DECRETO 3330, DE 4 DE JUNHO DE 1899."
+    },
+    {
+      "senadoId": "401668",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-26-3661",
+      "titulo": "Decreto nº 3.661 de 26/05/1900",
+      "data": "1900-05-26",
+      "numero": "3661",
+      "urn": "urn:lex:br:federal:decreto:1900-05-26;3661",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BATATAIS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-23-3660",
+      "titulo": "Decreto nº 3.660 de 23/05/1900",
+      "data": "1900-05-23",
+      "numero": "3660",
+      "urn": "urn:lex:br:federal:decreto:1900-05-23;3660",
+      "ementa": "ALTERA O PLANO DE UNIFORMES A QUE SE REFERE O DECRETO 2036, DE 4 DE JULHO DE 1895, NA PARTE REFERENTE ÀS DIVISAS DOS OFICIAIS DA ARMADA."
+    },
+    {
+      "senadoId": "401660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-22-3659",
+      "titulo": "Decreto nº 3.659 de 22/05/1900",
+      "data": "1900-05-22",
+      "numero": "3659",
+      "urn": "urn:lex:br:federal:decreto:1900-05-22;3659",
+      "ementa": "DÁ REGULAMENTO PARA A FISCALIZAÇÃO DOS IMPOSTOS DE CONSUMO."
+    },
+    {
+      "senadoId": "401656",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-21-3658",
+      "titulo": "Decreto nº 3.658 de 21/05/1900",
+      "data": "1900-05-21",
+      "numero": "3658",
+      "urn": "urn:lex:br:federal:decreto:1900-05-21;3658",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS SEUS ESTATUTOS PELA SOCIEDADE ANÔNIMA EMPRESA DE SAL E NAVEGAÇÃO."
+    },
+    {
+      "senadoId": "401652",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-17-3657",
+      "titulo": "Decreto nº 3.657 de 17/05/1900",
+      "data": "1900-05-17",
+      "numero": "3657",
+      "urn": "urn:lex:br:federal:decreto:1900-05-17;3657",
+      "ementa": "DA NOVAS INSTRUÇÕES PARA O SERVIÇO DAS ESTAMPILHAS DE EMOLUMENTOS CONSULARES A CARGO DO ARQUIVISTA DA SECRETARIA DE ESTADO DAS RELAÇÕES EXTERIORES."
+    },
+    {
+      "senadoId": "401648",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-14-3656",
+      "titulo": "Decreto nº 3.656 de 14/05/1900",
+      "data": "1900-05-14",
+      "numero": "3656",
+      "urn": "urn:lex:br:federal:decreto:1900-05-14;3656",
+      "ementa": "ALTERA AS INSTRUÇÕES REGULAMENTARES E TARIFAS DA ESTRADA DE FERRO CENTRAL DA BAHIA."
+    },
+    {
+      "senadoId": "401644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-14-3655",
+      "titulo": "Decreto nº 3.655 de 14/05/1900",
+      "data": "1900-05-14",
+      "numero": "3655",
+      "urn": "urn:lex:br:federal:decreto:1900-05-14;3655",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA BANANAL AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401637",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-11-3653",
+      "titulo": "Decreto nº 3.653 de 11/05/1900",
+      "data": "1900-05-11",
+      "numero": "3653",
+      "urn": "urn:lex:br:federal:decreto:1900-05-11;3653",
+      "ementa": "MANDA EXECUTAR O TRATADO DE EXTRADIÇÃO CONCLUÍDO ENTRE O BRASIL E O CHILE EM 4 DE MAIO DE 1897."
+    },
+    {
+      "senadoId": "401633",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-05-02-3652",
+      "titulo": "Decreto nº 3.652 de 02/05/1900",
+      "data": "1900-05-02",
+      "numero": "3652",
+      "urn": "urn:lex:br:federal:decreto:1900-05-02;3652",
+      "ementa": "DÁ NOVO REGULAMENTO À ESCOLA NAVAL."
+    },
+    {
+      "senadoId": "401629",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-30-3651",
+      "titulo": "Decreto nº 3.651 de 30/04/1900",
+      "data": "1900-04-30",
+      "numero": "3651",
+      "urn": "urn:lex:br:federal:decreto:1900-04-30;3651",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL DE 31:162$007 PARA OCORRER AO PAGAMENTO DAS DIFERENÇAS QUE SOFRERAM NOS SEUS VENCIMENTOS, DUARANTE O EXERCÍCIO DE 1897, OS CONDUTORES DE 1ª E 3ª CLASSES DA ESTRADA DE FERRO CENTRAL DO BRASIL."
+    },
+    {
+      "senadoId": "401625",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-28-3650",
+      "titulo": "Decreto nº 3.650 de 28/04/1900",
+      "data": "1900-04-28",
+      "numero": "3650",
+      "urn": "urn:lex:br:federal:decreto:1900-04-28;3650",
+      "ementa": "CONCEDE AO COLÉGIO DIOCESANO DE SÃO JOSÉ AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401617",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-28-3648",
+      "titulo": "Decreto nº 3.648 de 28/04/1900",
+      "data": "1900-04-28",
+      "numero": "3648",
+      "urn": "urn:lex:br:federal:decreto:1900-04-28;3648",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE MONTE ALEGRE, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401621",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-28-3649",
+      "titulo": "Decreto nº 3.649 de 28/04/1900",
+      "data": "1900-04-28",
+      "numero": "3649",
+      "urn": "urn:lex:br:federal:decreto:1900-04-28;3649",
+      "ementa": "CONCEDE AO COLÉGIO ALFREDO GOMES AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401613",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-23-3647",
+      "titulo": "Decreto nº 3.647 de 23/04/1900",
+      "data": "1900-04-23",
+      "numero": "3647",
+      "urn": "urn:lex:br:federal:decreto:1900-04-23;3647",
+      "ementa": "DÁ NOVO REGULAMENTO À CASA DE CORREÇÃO DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "401605",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-19-3645",
+      "titulo": "Decreto nº 3.645 de 19/04/1900",
+      "data": "1900-04-19",
+      "numero": "3645",
+      "urn": "urn:lex:br:federal:decreto:1900-04-19;3645",
+      "ementa": "PUBLICA A ADESÃO DA REPÚBLICA PERUANA, A PARTIR DE 31 DE OUTUBRO DE 1898, AO ACORDO DE WASHINGTON RELATIVO AO SERVIÇO DE VALES POSTAIS E Á CONVENÇÃO SOBRE PERMUTAS DE ENCOMENDAS POSTAIS."
+    },
+    {
+      "senadoId": "401609",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-19-3646",
+      "titulo": "Decreto nº 3.646 de 19/04/1900",
+      "data": "1900-04-19",
+      "numero": "3646",
+      "urn": "urn:lex:br:federal:decreto:1900-04-19;3646",
+      "ementa": "PUBLICA A ADESÃO DOS ESTADOS UNIDOS DA AMÉRICA À CONVENÇÃO PRINCIPAL DE WASHINGTON DE 15 DE JUNHO DE 1897, PELAS ILHAS HAVAÍ, PORTO RICO, FILIPINAS, DE GUAM E DE CUBA."
+    },
+    {
+      "senadoId": "401601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-18-3644",
+      "titulo": "Decreto nº 3.644 de 18/04/1900",
+      "data": "1900-04-18",
+      "numero": "3644",
+      "urn": "urn:lex:br:federal:decreto:1900-04-18;3644",
+      "ementa": "APROVA A PLANTA PARA A CONSTRUÇÃO DE UM BOEIRO ABERTO NA ESPLANADA DAS OFICINAS, EM SANTA MARIA, DA ESTRADA DE FERRO DE SANTA MARIA AO URUGUAI."
+    },
+    {
+      "senadoId": "401597",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-16-3643",
+      "titulo": "Decreto nº 3.643 de 16/04/1900",
+      "data": "1900-04-16",
+      "numero": "3643",
+      "urn": "urn:lex:br:federal:decreto:1900-04-16;3643",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 9:150$, PARA PAGAMENTO DO PRÊMIO DEVIDO A SILVA MOREIRA & COMPANHIA."
+    },
+    {
+      "senadoId": "401589",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-14-3641",
+      "titulo": "Decreto nº 3.641 de 14/04/1900",
+      "data": "1900-04-14",
+      "numero": "3641",
+      "urn": "urn:lex:br:federal:decreto:1900-04-14;3641",
+      "ementa": "DÁ NOVO REGULAMENTO À CASA DE DETENÇÃO DA CAPITAL FEDERAL."
+    },
+    {
+      "senadoId": "401593",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-14-3642",
+      "titulo": "Decreto nº 3.642 de 14/04/1900",
+      "data": "1900-04-14",
+      "numero": "3642",
+      "urn": "urn:lex:br:federal:decreto:1900-04-14;3642",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ABRE CAMPO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-14-3640",
+      "titulo": "Decreto nº 3.640 de 14/04/1900",
+      "data": "1900-04-14",
+      "numero": "3640",
+      "urn": "urn:lex:br:federal:decreto:1900-04-14;3640",
+      "ementa": "REORGANIZA O SERVIÇO DO DISTRITO FEDERAL."
+    },
+    {
+      "senadoId": "401581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-10-3639",
+      "titulo": "Decreto nº 3.639 de 10/04/1900",
+      "data": "1900-04-10",
+      "numero": "3639",
+      "urn": "urn:lex:br:federal:decreto:1900-04-10;3639",
+      "ementa": "APROVA A NOVA DENOMINAÇÃO DE THE MANCHESTER ASSURANCE COMPANY COM QUE CONTINUA A FUNCIONAR THE MANCHESTER FIRE ASSURANCE COMPANY."
+    },
+    {
+      "senadoId": "401577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-09-3638",
+      "titulo": "Decreto nº 3.638 de 09/04/1900",
+      "data": "1900-04-09",
+      "numero": "3638",
+      "urn": "urn:lex:br:federal:decreto:1900-04-09;3638",
+      "ementa": "MANDA EXECUTAR O NOVO REGULAMENTO DAS LOTERIAS."
+    },
+    {
+      "senadoId": "401573",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-04-02-3637",
+      "titulo": "Decreto nº 3.637 de 02/04/1900",
+      "data": "1900-04-02",
+      "numero": "3637",
+      "urn": "urn:lex:br:federal:decreto:1900-04-02;3637",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO ESPECIAL EQUIVALENTE A CEM MIL LIBRAS STERLINAS PARA OCORRER AO PAGAMENTO DEVIDO À CEARÁ HARBOUR CORPORATION, LIMITED, NOS TERMOS DO DECRETO 3602, DE 20 DE FEVEREIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "401547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3631",
+      "titulo": "Decreto nº 3.631 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3631",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3631",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 1:285$045,PARA PAGAMNETO  DA INDENIZAÇÃO DEVIDA AO MAJOR DE ESTADO-MAIOR DE 1ª CLASSE DOUTOR ÁLVAR0 LOPES MACHADO."
+    },
+    {
+      "senadoId": "401557",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3633",
+      "titulo": "Decreto nº 3.633 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3633",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3633",
+      "ementa": "CRIA MAIS OS LUGARES DE SUPLENTES DO SUBSTITUTO DO JUIZ FEDERAL NAS CIRCUNSCRIÇÕES DE BELA VISTA, JATAÍ E CAVALCANTI, DO ESTADO DE GOIÁS."
+    },
+    {
+      "senadoId": "401565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3635",
+      "titulo": "Decreto nº 3.635 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3635",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3635",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 784$545 PARA PAGAMENTO DA INDENIZAÇÃO DEVIDA AO CORONEL HENRIQUE VALADARES."
+    },
+    {
+      "senadoId": "401569",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3636",
+      "titulo": "Decreto nº 3.636 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3636",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3636",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, OS CRÉDITOS SUPLEMENTARES DE 332:227$300 À VERBA - EXERCÍCIOS FINDOS - DO EXERCÍCIO DE 1899, E DE 189:391$488 À VERBA - JUROS DIVERSOS - DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "401561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3634",
+      "titulo": "Decreto nº 3.634 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3634",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3634",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA E OUTRA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE LIMA DUARTE, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3261",
+      "titulo": "Decreto nº 3.261 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3261",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3261",
+      "ementa": "ABRE, AO MINISTERIO DA FAZENDA, O CREDITO DE 1:285$045, PARA PAGAMENTO DA INDENIZAÇÃO DEVIDA AO MAJOR DO ESTADO MAIOR DE 1 CLASSE DOUTOR ALVARO LOPES MACHADO."
+    },
+    {
+      "senadoId": "401553",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-31-3632",
+      "titulo": "Decreto nº 3.632 de 31/03/1900",
+      "data": "1900-03-31",
+      "numero": "3632",
+      "urn": "urn:lex:br:federal:decreto:1900-03-31;3632",
+      "ementa": "APROVA O REGULAMENTO PARA O INSTITUTO NACIONAL DE MÚSICA."
+    },
+    {
+      "senadoId": "401539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-30-3629",
+      "titulo": "Decreto nº 3.629 de 30/03/1900",
+      "data": "1900-03-30",
+      "numero": "3629",
+      "urn": "urn:lex:br:federal:decreto:1900-03-30;3629",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO DA QUANTIA DE 93:137$235, SUPLEMENTAR À VERBA 16ª, CONSIGNAÇÃO 34, DO ARTIGO 19 DA LEI 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "401543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-30-3630",
+      "titulo": "Decreto nº 3.630 de 30/03/1900",
+      "data": "1900-03-30",
+      "numero": "3630",
+      "urn": "urn:lex:br:federal:decreto:1900-03-30;3630",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 22:468$125, PARA LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA A DONA MARIA CÂNDIDA DE ALVIM MALDONADO."
+    },
+    {
+      "senadoId": "401535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-29-3628",
+      "titulo": "Decreto nº 3.628 de 29/03/1900",
+      "data": "1900-03-29",
+      "numero": "3628",
+      "urn": "urn:lex:br:federal:decreto:1900-03-29;3628",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, NOVO CRÉDITO DE  30:000$, SUPLEMENTAR À VERBA ` SOCORROS PÚBLICOS ´ DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "401523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-28-3625",
+      "titulo": "Decreto nº 3.625 de 28/03/1900",
+      "data": "1900-03-28",
+      "numero": "3625",
+      "urn": "urn:lex:br:federal:decreto:1900-03-28;3625",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 35:750$, SUPLEMENTAR À VERBA - RECEBEDORIA DA CAPITAL FEDERAL - DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "401527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-28-3626",
+      "titulo": "Decreto nº 3.626 de 28/03/1900",
+      "data": "1900-03-28",
+      "numero": "3626",
+      "urn": "urn:lex:br:federal:decreto:1900-03-28;3626",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 3:203$229, PARA LIQUIDAÇÃO DA DÍVIDA DE QUE É CREDOR O TENENTE-CORONEL PEDRO DE CASTRO ARAÚJO."
+    },
+    {
+      "senadoId": "401531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-28-3627",
+      "titulo": "Decreto nº 3.627 de 28/03/1900",
+      "data": "1900-03-28",
+      "numero": "3627",
+      "urn": "urn:lex:br:federal:decreto:1900-03-28;3627",
+      "ementa": "ABRE, AO MINISTÉRIO DA MARINHA, O CRÉDITO DE 10:863$, PARA PAGAMENTO DE DIFERENÇA DE SALÁRIOS, DEVIDA A OPERÁRIOS EXTRAORDINÁRIOS DISPENSADOS DO ARSENAL DE MARINHA DESTA CAPITAL, NO ANO DE 1899."
+    },
+    {
+      "senadoId": "401519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-27-3624",
+      "titulo": "Decreto nº 3.624 de 27/03/1900",
+      "data": "1900-03-27",
+      "numero": "3624",
+      "urn": "urn:lex:br:federal:decreto:1900-03-27;3624",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO ESPECIAL DA QUANTIA DE 2:888$526 PARA OCORRER AO PAGAMENTO AO CORONEL DO CORPO DE ESTADO MAIOR DO EXÉRCITO OUTOR HENRIQUE VALLADARES, DE GRATIFICAÇÕES RELATIVAS AOS ANOS DE 1899 E 1900."
+    },
+    {
+      "senadoId": "401515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-26-3623",
+      "titulo": "Decreto nº 3.623 de 26/03/1900",
+      "data": "1900-03-26",
+      "numero": "3623",
+      "urn": "urn:lex:br:federal:decreto:1900-03-26;3623",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 91:726$351 SUPLEMENTAR À  VERBA - MESAS DE RENDAS - DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "401511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-26-3622",
+      "titulo": "Decreto nº 3.622 de 26/03/1900",
+      "data": "1900-03-26",
+      "numero": "3622",
+      "urn": "urn:lex:br:federal:decreto:1900-03-26;3622",
+      "ementa": "EXPEDE NOVO REGULAMENTO PARA A ARRECADAÇÃO DOS IMPOSTOS DE CONSUMO."
+    },
+    {
+      "senadoId": "401503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-20-3620",
+      "titulo": "Decreto nº 3.620 de 20/03/1900",
+      "data": "1900-03-20",
+      "numero": "3620",
+      "urn": "urn:lex:br:federal:decreto:1900-03-20;3620",
+      "ementa": "MODIFICA A CLAÚSULA VI A QUE SE REFERE O DECRETO 3544, DE 30 DE DEZEMBRO DE 1899."
+    },
+    {
+      "senadoId": "401499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-20-3619",
+      "titulo": "Decreto nº 3.619 de 20/03/1900",
+      "data": "1900-03-20",
+      "numero": "3619",
+      "urn": "urn:lex:br:federal:decreto:1900-03-20;3619",
+      "ementa": "PRORROGA POR TRÊS MESES O PRAZO ESTIPULADO NA CLAÚSULA IV A QUE SE REFERE O DECRETO 3566, DE 23 DE JANEIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "401491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-19-3617",
+      "titulo": "Decreto nº 3.617 de 19/03/1900",
+      "data": "1900-03-19",
+      "numero": "3617",
+      "urn": "urn:lex:br:federal:decreto:1900-03-19;3617",
+      "ementa": "APROVA A REVISÃO DAS TARIFAS DAS ALFÂNDEGAS E MESAS DE RENDAS."
+    },
+    {
+      "senadoId": "401495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-19-3618",
+      "titulo": "Decreto nº 3.618 de 19/03/1900",
+      "data": "1900-03-19",
+      "numero": "3618",
+      "urn": "urn:lex:br:federal:decreto:1900-03-19;3618",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 143:750$, PARA LIQUIDAÇÃO DA INDENIZAÇÃO QUE A FAZENDA FEDERAL FOI CONDENADA A PAGAR A MANOEL INÁCIO DE ARAÚJO PIMPÃO."
+    },
+    {
+      "senadoId": "401487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-17-3616",
+      "titulo": "Decreto nº 3.616 de 17/03/1900",
+      "data": "1900-03-17",
+      "numero": "3616",
+      "urn": "urn:lex:br:federal:decreto:1900-03-17;3616",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SOUZA, NO ESTADO DA PARAÍBA."
+    },
+    {
+      "senadoId": "401475",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3613",
+      "titulo": "Decreto nº 3.613 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3613",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3613",
+      "ementa": "MODIFICA A TARIFA DE ALGUMAS MERCADORIAS QUE SÃO TRANSPORTADAS PELA ESTRADA PELA ESTRADA DE FERRO DO RECIFE AO LIMOEIRO."
+    },
+    {
+      "senadoId": "401483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3615",
+      "titulo": "Decreto nº 3.615 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3615",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3615",
+      "ementa": "CONCEDE AUTORIZAÇÃO À LANCASHIRE INSURANCE COMPANY PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401471",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3612",
+      "titulo": "Decreto nº 3.612 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3612",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3612",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO CIDADÃO JOÃO KASTRUP PARA ORGANIZAR UMA COMPANHIA DE SEGUROS MÚTUOS CONTRA ACIDENTES ` A GUANABARA ´, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "401459",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3609",
+      "titulo": "Decreto nº 3.609 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3609",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3609",
+      "ementa": "RENOVA O CONTRATO PARA O SERVIÇO DE NAVEGAÇÃO A VAPOR NO RIO SÃO FRANCISCO A CARGO DA COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO."
+    },
+    {
+      "senadoId": "401467",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3611",
+      "titulo": "Decreto nº 3.611 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3611",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3611",
+      "ementa": "REVALIDA A PATENTE DE PRIVILÉGIO DE INVENÇÃO 1882, DE 18 DE JUNHO DE 1895."
+    },
+    {
+      "senadoId": "401463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3610",
+      "titulo": "Decreto nº 3.610 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3610",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3610",
+      "ementa": "CONCEDE AUTORIZAÇÃO À SOCIEDADE EM COMANDITA SIMPLES MONZINI, SCHIFFINI & COMP., PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-13-3614",
+      "titulo": "Decreto nº 3.614 de 13/03/1900",
+      "data": "1900-03-13",
+      "numero": "3614",
+      "urn": "urn:lex:br:federal:decreto:1900-03-13;3614",
+      "ementa": "DECLARA SEM EFEITO AS CLAÚSULAS QUE BAIXARAM COM O DECRETO 3567 DE 23 DE JANEIRO DO ANO CORRENTE ANO."
+    },
+    {
+      "senadoId": "401454",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-08-3608",
+      "titulo": "Decreto nº 3.608 de 08/03/1900",
+      "data": "1900-03-08",
+      "numero": "3608",
+      "urn": "urn:lex:br:federal:decreto:1900-03-08;3608",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SALINAS, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401450",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-03-03-3607",
+      "titulo": "Decreto nº 3.607 de 03/03/1900",
+      "data": "1900-03-03",
+      "numero": "3607",
+      "urn": "urn:lex:br:federal:decreto:1900-03-03;3607",
+      "ementa": "REDUZ A SETENTA E CINCO MIL RÉIS MENSAIS A PENSÃO NO INTERNATO DO GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401446",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-26-3606",
+      "titulo": "Decreto nº 3.606 de 26/02/1900",
+      "data": "1900-02-26",
+      "numero": "3606",
+      "urn": "urn:lex:br:federal:decreto:1900-02-26;3606",
+      "ementa": "PROVIDENCIA SOBRE A LIQUIDAÇÃO DOS DÉBITOS E ENCARGOS DO BANCO DA REPÚBLICA DO BRASIL PARA COM O TESOURO FEDERAL."
+    },
+    {
+      "senadoId": "401442",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-26-3605",
+      "titulo": "Decreto nº 3.605 de 26/02/1900",
+      "data": "1900-02-26",
+      "numero": "3605",
+      "urn": "urn:lex:br:federal:decreto:1900-02-26;3605",
+      "ementa": "APROVA COM ACRESCIMO DE DUAS CLAUSULAS OS NOVOS ESTATUTOS DO BANCO DE CREDITO REAL DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401438",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-21-3604",
+      "titulo": "Decreto nº 3.604 de 21/02/1900",
+      "data": "1900-02-21",
+      "numero": "3604",
+      "urn": "urn:lex:br:federal:decreto:1900-02-21;3604",
+      "ementa": "ALTERA O ARTIGO 21 DO REGULAMENTO ANEXO AO DECRETO 8666, DE 16 DE SETEMBRO DE 1882."
+    },
+    {
+      "senadoId": "401434",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-20-3603",
+      "titulo": "Decreto nº 3.603 de 20/02/1900",
+      "data": "1900-02-20",
+      "numero": "3603",
+      "urn": "urn:lex:br:federal:decreto:1900-02-20;3603",
+      "ementa": "SUBSTITUI AS CLAUSULAS XI, XIV, XV E XVI DAS QUE ACOMPANHARAM O DECRETO 3.540, DE 29 DE DEZEMBRO DE 1899."
+    },
+    {
+      "senadoId": "401430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-20-3602",
+      "titulo": "Decreto nº 3.602 de 20/02/1900",
+      "data": "1900-02-20",
+      "numero": "3602",
+      "urn": "urn:lex:br:federal:decreto:1900-02-20;3602",
+      "ementa": "ADQUIRE AS OBRAS DO PORTO DO \"CEARÁ, CONTRATADAS COM A CEARÁ HARBOUR CORPORATION, LIMITED\"."
+    },
+    {
+      "senadoId": "401423",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-19-3600",
+      "titulo": "Decreto nº 3.600 de 19/02/1900",
+      "data": "1900-02-19",
+      "numero": "3600",
+      "urn": "urn:lex:br:federal:decreto:1900-02-19;3600",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 25:000$, SUPLEMENTAR À VERBA - AJUDAS DE CUSTO - DO EXERCÍCIO DE 1899."
+    },
+    {
+      "senadoId": "401419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-16-3599",
+      "titulo": "Decreto nº 3.599 de 16/02/1900",
+      "data": "1900-02-16",
+      "numero": "3599",
+      "urn": "urn:lex:br:federal:decreto:1900-02-16;3599",
+      "ementa": "ABRE, AO MINISTÉRIO DA GUERRA, O CRÉDITO DA QUANTIA DE 487:708$352, SUPLEMENTAR À VERBA 16ª - MATERIAL - CONSIGNAÇÃO N. 34 - TRANSPORTE DE TROPAS, ETC., DO ARTIGO 19 DA LEI 560, DE 31 DE DEZEMBRO DE 1898."
+    },
+    {
+      "senadoId": "401415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-15-3598",
+      "titulo": "Decreto nº 3.598 de 15/02/1900",
+      "data": "1900-02-15",
+      "numero": "3598",
+      "urn": "urn:lex:br:federal:decreto:1900-02-15;3598",
+      "ementa": "DECLARA A RIO DE JANEIRO ARBOUR AND DOCK COMPANY, LIMITED ISENTA DOS DIREITOS DE IMPORTAÇÃO SOBRE O MATERIAL PARA EXECUÇÃO E CUSTEIO DAS OBRAS A SEU CARGO, DURANTE O PRAZO DA RESPECTIVA CONCESSÃO."
+    },
+    {
+      "senadoId": "401411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-15-3597",
+      "titulo": "Decreto nº 3.597 de 15/02/1900",
+      "data": "1900-02-15",
+      "numero": "3597",
+      "urn": "urn:lex:br:federal:decreto:1900-02-15;3597",
+      "ementa": "DECLARA SEM EFEITO A CLÁUSULA IV DO DECRETO 3557, DE 16 DE JANEIRO ÚLTIMO."
+    },
+    {
+      "senadoId": "401403",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-12-3595",
+      "titulo": "Decreto nº 3.595 de 12/02/1900",
+      "data": "1900-02-12",
+      "numero": "3595",
+      "urn": "urn:lex:br:federal:decreto:1900-02-12;3595",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOS ESTATUTOS DO BANCO DOS FUNCIONÁRIOS PÚBLICOS."
+    },
+    {
+      "senadoId": "401407",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-12-3596",
+      "titulo": "Decreto nº 3.596 de 12/02/1900",
+      "data": "1900-02-12",
+      "numero": "3596",
+      "urn": "urn:lex:br:federal:decreto:1900-02-12;3596",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 3:689$582, PARA LIQUIDAÇÃO DA DÍVIDA DE QUE É CREDOR O CAPITÃO DE ENGENHEIROS ANTÔNIO PEREIRA PRESTES."
+    },
+    {
+      "senadoId": "401399",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-10-3594",
+      "titulo": "Decreto nº 3.594 de 10/02/1900",
+      "data": "1900-02-10",
+      "numero": "3594",
+      "urn": "urn:lex:br:federal:decreto:1900-02-10;3594",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE SÃO SEBASTIÃO DO PARAÍSO, ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-10-3592",
+      "titulo": "Decreto nº 3.592 de 10/02/1900",
+      "data": "1900-02-10",
+      "numero": "3592",
+      "urn": "urn:lex:br:federal:decreto:1900-02-10;3592",
+      "ementa": "CONCEDE AO COLÉGIO PAULA FREITAS AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401395",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-10-3593",
+      "titulo": "Decreto nº 3.593 de 10/02/1900",
+      "data": "1900-02-10",
+      "numero": "3593",
+      "urn": "urn:lex:br:federal:decreto:1900-02-10;3593",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE OURO PRETO, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401379",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-09-3589",
+      "titulo": "Decreto nº 3.589 de 09/02/1900",
+      "data": "1900-02-09",
+      "numero": "3589",
+      "urn": "urn:lex:br:federal:decreto:1900-02-09;3589",
+      "ementa": "ABRE, AO MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES, O CRÉDITO ESPECIAL DE 26:460$000, PARA PAGAMENTO DOS PRÊMIOS E DAS DESPESAS DE IMPRESSÃO DAS OBRAS - DO ENDIREITAMENTO FORÇADO DOS CIFÓTICOS; DIREITO PENAL DO EXÉRCITO E ARMADA; CÓDIGO PENAL COMENTADO; E COMPENDIO DE HISTÓRIA GERAL DO DIREITO."
+    },
+    {
+      "senadoId": "401383",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-09-3590",
+      "titulo": "Decreto nº 3.590 de 09/02/1900",
+      "data": "1900-02-09",
+      "numero": "3590",
+      "urn": "urn:lex:br:federal:decreto:1900-02-09;3590",
+      "ementa": "FAZ PÚBLICO QUE A REPÚBLICA DO SALVADOR NÃO ADERIU AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO Á PERMUTA DAS CARTAS E ENCOMENDAS COM VALOR DECLARADO E PEDE A SUA COLOCAÇÃO NA VI CLASSE DAS DESPESAS DA SECRETARIA INTERNACIONAL."
+    },
+    {
+      "senadoId": "401387",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-09-3591",
+      "titulo": "Decreto nº 3.591 de 09/02/1900",
+      "data": "1900-02-09",
+      "numero": "3591",
+      "urn": "urn:lex:br:federal:decreto:1900-02-09;3591",
+      "ementa": "PUBLICA A ADESÃO DEFINITIVA DO IMPÉRIO DA CORÉIA Á CONVENÇÃO POSTAL UNIVERSAL DE WASHINGTON, DE 15 DE JUNHO DE 1897."
+    },
+    {
+      "senadoId": "401367",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-07-3586",
+      "titulo": "Decreto nº 3.586 de 07/02/1900",
+      "data": "1900-02-07",
+      "numero": "3586",
+      "urn": "urn:lex:br:federal:decreto:1900-02-07;3586",
+      "ementa": "PUBLICA A ADESÃO DA COLÔNIA BRITÂNCIA DAS ILHAS LEEWARD (ANTILHAS) AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO À PERMUTA DE CARTAS E ENCOMENDAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "401375",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-07-3588",
+      "titulo": "Decreto nº 3.588 de 07/02/1900",
+      "data": "1900-02-07",
+      "numero": "3588",
+      "urn": "urn:lex:br:federal:decreto:1900-02-07;3588",
+      "ementa": "PUBLICA AS MODIFICAÇÕES FEITAS NOS ARTIGOS IV, PARAGRAFO I, E XXXIV, PARAGRAFO V, DO REGULAMENTO DE EXECUÇÃO PARA A CONVENÇÃO POSTAL UNIVERSAL DE 15 JUNHO DE 1897."
+    },
+    {
+      "senadoId": "401371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-07-3587",
+      "titulo": "Decreto nº 3.587 de 07/02/1900",
+      "data": "1900-02-07",
+      "numero": "3587",
+      "urn": "urn:lex:br:federal:decreto:1900-02-07;3587",
+      "ementa": "PUBLICA A ADESÃO DA COLÔNIA BRITÂNICA DOS STRITS SETTLEMENTS AO ACORDO DE WASHINGTON DE 15 DE JUNHO DE 1897, RELATIVO À PERMUTA DE CARTAS E ENCOMENDAS COM VALOR DECLARADO."
+    },
+    {
+      "senadoId": "401363",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-06-3585",
+      "titulo": "Decreto nº 3.585 de 06/02/1900",
+      "data": "1900-02-06",
+      "numero": "3585",
+      "urn": "urn:lex:br:federal:decreto:1900-02-06;3585",
+      "ementa": "ELEVA O CAPITAL FIXADO PARA A DUPLICAÇÃO DA LINHA DA ESTRADA DE FERRO DE SANTOS A JUNDIAI, COM AQUISIÇÃO DO MATERIAL RODANTE."
+    },
+    {
+      "senadoId": "401359",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-05-3584",
+      "titulo": "Decreto nº 3.584 de 05/02/1900",
+      "data": "1900-02-05",
+      "numero": "3584",
+      "urn": "urn:lex:br:federal:decreto:1900-02-05;3584",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA O CRÉDITO DE 5:205$655, PARA LIQUIDAÇÃO DA INDENIZAÇÃO QUE A FAZENDA NACIONAL FOI CONDENADA A PAGAR AO CAPITÃO FRANCISCO DE CARVALHO SALOMÉ PEREIRA."
+    },
+    {
+      "senadoId": "401355",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-05-3583",
+      "titulo": "Decreto nº 3.583 de 05/02/1900",
+      "data": "1900-02-05",
+      "numero": "3583",
+      "urn": "urn:lex:br:federal:decreto:1900-02-05;3583",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 115:057$500, PARA LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA À CAIXA MUNICIPAL DE BENEFICÊNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "401347",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-03-3581",
+      "titulo": "Decreto nº 3.581 de 03/02/1900",
+      "data": "1900-02-03",
+      "numero": "3581",
+      "urn": "urn:lex:br:federal:decreto:1900-02-03;3581",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE ITÚ, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-03-3580",
+      "titulo": "Decreto nº 3.580 de 03/02/1900",
+      "data": "1900-02-03",
+      "numero": "3580",
+      "urn": "urn:lex:br:federal:decreto:1900-02-03;3580",
+      "ementa": "CONCEDE AO COLÉGIO DE NOSSA SENHORA DA CONCEIÇÃO EM SÃO LEOPOLDO, ESTADO DO RIO GRANDE DO SUL, AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401351",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-02-03-3582",
+      "titulo": "Decreto nº 3.582 de 03/02/1900",
+      "data": "1900-02-03",
+      "numero": "3582",
+      "urn": "urn:lex:br:federal:decreto:1900-02-03;3582",
+      "ementa": "CRIA MAIS UMA BRIGADA DE INFANTARIA E UMA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE UBÁ, NO ESTADO DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "401339",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-29-3579",
+      "titulo": "Decreto nº 3.579 de 29/01/1900",
+      "data": "1900-01-29",
+      "numero": "3579",
+      "urn": "urn:lex:br:federal:decreto:1900-01-29;3579",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 114:231$081, SUPLEMENTAR  À VERBA - ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "401334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-27-3578",
+      "titulo": "Decreto nº 3.578 de 27/01/1900",
+      "data": "1900-01-27",
+      "numero": "3578",
+      "urn": "urn:lex:br:federal:decreto:1900-01-27;3578",
+      "ementa": "CONCEDEE AO GINÁSIO FLUMINENSE AS REGALIAS DO GINÁSIO NACIONAL PARA O FIM DE PODER PASSAR CERTIFICADOS DE CONCLUSÃO DE ESTUDOS."
+    },
+    {
+      "senadoId": "401326",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-25-3576",
+      "titulo": "Decreto nº 3.576 de 25/01/1900",
+      "data": "1900-01-25",
+      "numero": "3576",
+      "urn": "urn:lex:br:federal:decreto:1900-01-25;3576",
+      "ementa": "DÁ INSTRUÇÕES PARA A CONSTITUIÇÃO DO PATRIMÔNIO E RECONHECIMENTO OFICIAL DAS FACULDADES E ESCOLAS LIVRES."
+    },
+    {
+      "senadoId": "401330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-25-3577",
+      "titulo": "Decreto nº 3.577 de 25/01/1900",
+      "data": "1900-01-25",
+      "numero": "3577",
+      "urn": "urn:lex:br:federal:decreto:1900-01-25;3577",
+      "ementa": "TORNA EXTENSIVO ÀS FACULDADES OU ESCOLAS LIVRES EQUIPARADAS OU QUE SE EQUIPARAREM AOS CONGÊNERES INSTITUTOS FEDERAIS O DETERMINADO COM RELAÇÃO ÀS FACULDADES LIVRES DE DIREITO NOS ARTIGOS 5º, 6º, 7º, 8º E 9º DA LEI 314, DE 30 DE OUTUBRO DE 1895."
+    },
+    {
+      "senadoId": "401322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-24-3575",
+      "titulo": "Decreto nº 3.575 de 24/01/1900",
+      "data": "1900-01-24",
+      "numero": "3575",
+      "urn": "urn:lex:br:federal:decreto:1900-01-24;3575",
+      "ementa": "AUTORIZA O MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS A CORRIGIR NAS TABELAS DE DISTRIBUIÇÃO DOS CRÉDITOS OS ERROS OCORRIDOS NAS VERBAS 7ª E 15ª DO ORÇAMENTO PARA O EXERCÍCIO DE 1900."
+    },
+    {
+      "senadoId": "401318",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-24-3574",
+      "titulo": "Decreto nº 3.574 de 24/01/1900",
+      "data": "1900-01-24",
+      "numero": "3574",
+      "urn": "urn:lex:br:federal:decreto:1900-01-24;3574",
+      "ementa": "ALTERA OS UNIFORMES DOS FOGUISTAS EXTRANUMERÁRIOS."
+    },
+    {
+      "senadoId": "401282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3565",
+      "titulo": "Decreto nº 3.565 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3565",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3565",
+      "ementa": "CONTRATA COM O ENGENHEIRO MIGUEL TEIVE E ARGOLO O ARRENDAMENTO DA ESTRADA DE FERRO DE SÃO FRANCISCO, NO ESTADO DA BAHIA."
+    },
+    {
+      "senadoId": "401286",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3566",
+      "titulo": "Decreto nº 3.566 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3566",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3566",
+      "ementa": "CONCEDE A AUGUSTO CÉSAR GUIMARÃES AUTORIZAÇÃO PARA ORGANIZAR UMA SOCIEDADE ANÔNIMA DENOMINADA - MONTE DE PIEDADE FLUMINENSE."
+    },
+    {
+      "senadoId": "401314",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3573",
+      "titulo": "Decreto nº 3.573 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3573",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3573",
+      "ementa": "APROVA O REGULAMENTO PARA A FÁBRICA DE CARTUCHOS E ARTIFÍCIOS DE GUERRA."
+    },
+    {
+      "senadoId": "401310",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3572",
+      "titulo": "Decreto nº 3.572 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3572",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3572",
+      "ementa": "CONCEDE AUTORIZAÇÃO POR 30 ANOS AO ENGENHEIRO, CAPITÃO DE FRAGATA HONORÁRIO, JOSÉ MARIA DA CONCEIÇÃO JÚNIOR, PARA EXPLORAR A INDÚSTRIA DA PESCA NO ARQUIPÉLAGO DE ABROLHOS E SUAS ADJACÊNCIAS."
+    },
+    {
+      "senadoId": "401294",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3568",
+      "titulo": "Decreto nº 3.568 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3568",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3568",
+      "ementa": "PRORROGA OS PRAZOS PARA CONCLUSÃO DAS OBRAS DO ARRASAMENTO DO MORRO DO SENADO E DA APRESENTAÇÃO DOS PLANOS E DETALHES PARA INÍCIO DA EFETIVA CONSTRUÇÃO DO CAIS DO ARSENAL DE MARINHA À PONTA DO CAJÚ."
+    },
+    {
+      "senadoId": "401290",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3567",
+      "titulo": "Decreto nº 3.567 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3567",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3567",
+      "ementa": "CONCEDE A ` HENRY ROGERS, SONS & COMP. OF BRAZIL, LIMITED ´ AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401302",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3570",
+      "titulo": "Decreto nº 3.570 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3570",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3570",
+      "ementa": "PRORROGA POR 10 ANOS O PRAZO DA CONCESSÃO RELATIVA À LINHA DE CARRIS ENTRE SANTA CRUZ E ITAGUAÍ."
+    },
+    {
+      "senadoId": "401298",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3569",
+      "titulo": "Decreto nº 3.569 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3569",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3569",
+      "ementa": "INOVA O CONTRATO CELEBRADO PARA A CONCLUSÃO DAS OBRAS DE MELHORAMENTOS DO PORTO DA CAPITAL DO ESTADO DA BAHIA, A QUE SE REFERE O DECRETO 1233, DE 3 DE JANEIRO DE 1891."
+    },
+    {
+      "senadoId": "401306",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-23-3571",
+      "titulo": "Decreto nº 3.571 de 23/01/1900",
+      "data": "1900-01-23",
+      "numero": "3571",
+      "urn": "urn:lex:br:federal:decreto:1900-01-23;3571",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DOS DECRETOS REFERENTES À CONCESSÃO DO ARRASAMENTO DO MORRO DE SANTO ANTÔNIO."
+    },
+    {
+      "senadoId": "401278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-22-3564",
+      "titulo": "Decreto nº 3.564 de 22/01/1900",
+      "data": "1900-01-22",
+      "numero": "3564",
+      "urn": "urn:lex:br:federal:decreto:1900-01-22;3564",
+      "ementa": "APROVA O REGULAMENTO PARA A COBRANÇA DO IMPOSTO DO SELO."
+    },
+    {
+      "senadoId": "401274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3563",
+      "titulo": "Decreto nº 3.563 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3563",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3563",
+      "ementa": "APROVA A PLANTA PARA A CONSTRUÇÃO DO AUMENTO DA ESTAÇÃO DO ARRAIAL DA ESTRADA DE FERRO DO RECIFE AO LIMOEIRO E TIMBAÚBA."
+    },
+    {
+      "senadoId": "401266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3561",
+      "titulo": "Decreto nº 3.561 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3561",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3561",
+      "ementa": "APROVA O ORÇAMENTO DO ARMAZÉM 2, CONSTRUÍDO DE ALVENARIA PELA COMPANHIA `DOCAS DE SANTOS´."
+    },
+    {
+      "senadoId": "401250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3557",
+      "titulo": "Decreto nº 3.557 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3557",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3557",
+      "ementa": "CONCEDE A THE WESTERN TELGRAPH COMPANY, LIMITED, AUTORIZAÇÃO PARA FUNCIONAR NA REPUBLICA."
+    },
+    {
+      "senadoId": "401262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3560",
+      "titulo": "Decreto nº 3.560 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3560",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3560",
+      "ementa": "APROVA O ORÇAMENTO DOS BOEIROS, GRADIL, CALÇAMENTO E LINHAS DE TRILHO NO TRECHO ENTRE O ARMAZÉM N. 5 E O SEGUNDO OITÃO DO N. 11 DA COMPANHIA ` DOCAS DE SANTOS ´."
+    },
+    {
+      "senadoId": "401270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3562",
+      "titulo": "Decreto nº 3.562 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3562",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3562",
+      "ementa": "APROVA O ORÇAMENTO DAS OBRAS COMPLEMENTARES EXECUTADAS PELA COMPANHIA ` DOCAS DE SANTOS ´, PARA SOLIDEZ E ESTABILIDADE DAS OBRAS DO RESPECTIVO CAIS."
+    },
+    {
+      "senadoId": "401254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3558",
+      "titulo": "Decreto nº 3.558 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3558",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3558",
+      "ementa": "CONCEDE À SOCIEDADE ANÔNIMA MALA REAL PORTUGUESA AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-16-3559",
+      "titulo": "Decreto nº 3.559 de 16/01/1900",
+      "data": "1900-01-16",
+      "numero": "3559",
+      "urn": "urn:lex:br:federal:decreto:1900-01-16;3559",
+      "ementa": "PRORROGA POR OITO MESES O PRAZO PARA CONCLUSÃO DAS OBRAS DO TRECHO DOS NOVOS PLANOS INCLINADOS DA SERRA E DA NOVA ESTAÇÃO DA LUZ, DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ."
+    },
+    {
+      "senadoId": "401246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-15-3556",
+      "titulo": "Decreto nº 3.556 de 15/01/1900",
+      "data": "1900-01-15",
+      "numero": "3556",
+      "urn": "urn:lex:br:federal:decreto:1900-01-15;3556",
+      "ementa": "ABRE, AO MINISTÉRIO DA FAZENDA, O CRÉDITO DE 204:958$190 PARA LIQUIDAÇÃO DA INDENIZAÇÃO DEVIDA A DONA FAUSTINA CENTENA DA SILVA E FRANCISCO LUIZ PEREIRA DA SILVA, EM VIRTUDE DE SENTENÇA DO JUIZ FEDERAL, NO ESTADO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "401233",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-13-3553",
+      "titulo": "Decreto nº 3.553 de 13/01/1900",
+      "data": "1900-01-13",
+      "numero": "3553",
+      "urn": "urn:lex:br:federal:decreto:1900-01-13;3553",
+      "ementa": "CRIA UMA BRIGADA DE CAVALARIA DE GUARDAS NACIONAIS NA COMARCA DE BEBEDOURO, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401229",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-13-3552",
+      "titulo": "Decreto nº 3.552 de 13/01/1900",
+      "data": "1900-01-13",
+      "numero": "3552",
+      "urn": "urn:lex:br:federal:decreto:1900-01-13;3552",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DE BATATAIS, NO ESTADO DE SÃO PAULO."
+    },
+    {
+      "senadoId": "401242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-13-3555",
+      "titulo": "Decreto nº 3.555 de 13/01/1900",
+      "data": "1900-01-13",
+      "numero": "3555",
+      "urn": "urn:lex:br:federal:decreto:1900-01-13;3555",
+      "ementa": "CONCEDE Á COMPANHIA DIAMANTINA AUTORIZAÇÃO PARA FUNCIONAR NA REPÚBLICA."
+    },
+    {
+      "senadoId": "401237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-13-3554",
+      "titulo": "Decreto nº 3.554 de 13/01/1900",
+      "data": "1900-01-13",
+      "numero": "3554",
+      "urn": "urn:lex:br:federal:decreto:1900-01-13;3554",
+      "ementa": "REORGANIZA AS BRIGADAS DE INFANTARIA DE GUARDAS NACIONAIS DAS COMARCAS DE MIRADOR, DE SANT'ANA DO CURRALINHO E DA CAPITAL, DO ESTADO DO MARANHÃO, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "401225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-13-3551",
+      "titulo": "Decreto nº 3.551 de 13/01/1900",
+      "data": "1900-01-13",
+      "numero": "3551",
+      "urn": "urn:lex:br:federal:decreto:1900-01-13;3551",
+      "ementa": "CRIA UMA BRIGADA DE INFANTARIA DE GUARDAS NACIONAIS NA COMARCA DA CAPITAL DO ESTADO DO MARANHÃO."
+    },
+    {
+      "senadoId": "401221",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-13-3550",
+      "titulo": "Decreto nº 3.550 de 13/01/1900",
+      "data": "1900-01-13",
+      "numero": "3550",
+      "urn": "urn:lex:br:federal:decreto:1900-01-13;3550",
+      "ementa": "DECLARA SEM EFEITO O DECRETO N. 2000, DE 22 DE ABRIL DE 1895, QUE CONCEDEU AO INSTITUTO HENRIQUE KOPKE AS VANTAGENS DE QUE GOZA O GINÁSIO NACIONAL."
+    },
+    {
+      "senadoId": "401217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-09-3549",
+      "titulo": "Decreto nº 3.549 de 09/01/1900",
+      "data": "1900-01-09",
+      "numero": "3549",
+      "urn": "urn:lex:br:federal:decreto:1900-01-09;3549",
+      "ementa": "CONCEDE AS VANTAGENS E REGALIAS DE PAQUETE AO VAPOR MAX, DE PROPRIEDADE DE CARLOS HOEPKE JÚNIOR."
+    },
+    {
+      "senadoId": "401209",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-08-3547",
+      "titulo": "Decreto nº 3.547 de 08/01/1900",
+      "data": "1900-01-08",
+      "numero": "3547",
+      "urn": "urn:lex:br:federal:decreto:1900-01-08;3547",
+      "ementa": "CRIA UM SERVIÇO ESPECIAL DE ESTATÍSTICA COMERCIAL NA ALFÂNDEGA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "401213",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-08-3548",
+      "titulo": "Decreto nº 3.548 de 08/01/1900",
+      "data": "1900-01-08",
+      "numero": "3548",
+      "urn": "urn:lex:br:federal:decreto:1900-01-08;3548",
+      "ementa": "FIXA OS VENCIMENTOS, CLASSE E NÚMERO DOS EMPREGADOS DA ALFÂNDEGA DE SANT'ANA DO LIVRAMENTO, NO ESTADO DO RIO GRANDE DO SUL, E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "401202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-04-3545",
+      "titulo": "Decreto nº 3.545 de 04/01/1900",
+      "data": "1900-01-04",
+      "numero": "3545",
+      "urn": "urn:lex:br:federal:decreto:1900-01-04;3545",
+      "ementa": "APROVA AS PLANTAS E ORÇAMENTOS PARA AS OBRAS DE ACRÉSCIMO DO ARMAZÉM REGO E DA ESTAÇÃO DE FEIRA VELHA E DE CONSTRUÇÃO DA DE ARATÚ, DA ESTRADA DE FERRO DA BAHIA AO SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "401206",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1900-01-04-3546",
+      "titulo": "Decreto nº 3.546 de 04/01/1900",
+      "data": "1900-01-04",
+      "numero": "3546",
+      "urn": "urn:lex:br:federal:decreto:1900-01-04;3546",
+      "ementa": "REVOGA OS NÚMEROS III E IV DO ARTIGO 35 DO REGULAMENTO SANITÁRIO FEDERAL."
+    }
+  ],
+  "pendencias": []
+}

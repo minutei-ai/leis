@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-06-24-13004",
+  "titulo": "Lei nº 13.004 de 24/06/2014",
+  "data": "2014-06-24",
+  "fonte": "https://normas.leg.br/api/public/binario/ca66cb53-c751-4e79-ba44-f50bfe69dd7d/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-06-24;13004",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-06-24%3B13004&tipo_documento=maior-detalhe",
+  "sha256_dados": "4759e5ede27b1198987f7e2d9e205b8a1a4e727dd49cc9c84f79123517d15529",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:09.860Z",
+  "sha256_fonte": "66d657ea86724569a9be53cfb6d302f1955f9e2f8037fc0d18bffd51ad6aa3b4",
+  "sha256_markdown": "e8925884654ab7984cfb1b7050ead71bf9634783c2867929a7674b32a55aed6b"
+}

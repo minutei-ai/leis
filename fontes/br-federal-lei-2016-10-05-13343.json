@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-10-05-13343",
+  "titulo": "Lei nº 13.343 de 05/10/2016",
+  "data": "2016-10-05",
+  "fonte": "https://normas.leg.br/api/public/binario/3ae12a47-7041-4a13-b74c-9708fbd9a7b8/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-10-05;13343",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-10-05%3B13343&tipo_documento=maior-detalhe",
+  "sha256_dados": "f4906518ef5ff8eb43d77a18ee342267b87f6d868970d03682709172545229e8",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:35.951Z",
+  "sha256_fonte": "6c5bb1320d2686c3a2887df7cff10ec5da2e64973a2c1d840eaae2df886298be",
+  "sha256_markdown": "e5d2bc7ec9c39621446595de40cdef52d5db1ce102372bf72e07ea0c42f7148a"
+}

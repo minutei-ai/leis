@@ -1,0 +1,159 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=1988",
+  "tipo": "MPV",
+  "ano": 1988,
+  "coletado_em": "2026-10-21T08:53:54.333Z",
+  "normas": [
+    {
+      "senadoId": "552929",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-12-07-24",
+      "titulo": "Medida Provisória nº 24 de 07/12/1988",
+      "data": "1988-12-07",
+      "numero": "24",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-12-07;24",
+      "ementa": "Dispõe sobre o pagamento de tributos e contribuições federais, e dá outras providências."
+    },
+    {
+      "senadoId": "552923",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-12-06-21",
+      "titulo": "Medida Provisória nº 21 de 06/12/1988",
+      "data": "1988-12-06",
+      "numero": "21",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-12-06;21",
+      "ementa": "Altera a legislação dos incentivos fiscais relacionados com o imposto de renda."
+    },
+    {
+      "senadoId": "552925",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-12-06-22",
+      "titulo": "Medida Provisória nº 22 de 06/12/1988",
+      "data": "1988-12-06",
+      "numero": "22",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-12-06;22",
+      "ementa": "Institui contribuição social sobre o lucro das pessoas jurídicas e dá outras providências."
+    },
+    {
+      "senadoId": "552927",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-12-06-23",
+      "titulo": "Medida Provisória nº 23 de 06/12/1988",
+      "data": "1988-12-06",
+      "numero": "23",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-12-06;23",
+      "ementa": "Dá nova redação ao art. 10 da Lei nº 2.145, de 29 de dezembro de 1953."
+    },
+    {
+      "senadoId": "552921",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-11-20",
+      "titulo": "Medida Provisória nº 20 de 11/11/1988",
+      "data": "1988-11-11",
+      "numero": "20",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-11;20",
+      "ementa": "Dispõe sobre a reposição, no mês de novembro de 1988, do reajuste que especifica e dá outras providências.."
+    },
+    {
+      "senadoId": "602662",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-12",
+      "titulo": "Medida Provisória nº 12 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "12",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;12",
+      "ementa": "Dispõe sobre prazo para liquidação de débitos que menciona"
+    },
+    {
+      "senadoId": "552907",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-13",
+      "titulo": "Medida Provisória nº 13 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "13",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;13",
+      "ementa": "Dispõe sobre a aplicação do Decreto-Lei nº 2.280, de 16 de dezembro de 1985, aos servidores do Tribunal Federal de Recursos, e dá outras providências."
+    },
+    {
+      "senadoId": "552909",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-14",
+      "titulo": "Medida Provisória nº 14 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "14",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;14",
+      "ementa": "Altera o Decreto-Lei nº 2.406, de 5 de janeiro de 1988, e dá outras providências."
+    },
+    {
+      "senadoId": "552919",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-19",
+      "titulo": "Medida Provisória nº 19 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "19",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;19",
+      "ementa": "Dispõe sobre o registro provisório para o estangeiro em situação ilegal em território nacional."
+    },
+    {
+      "senadoId": "552917",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-18",
+      "titulo": "Medida Provisória nº 18 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "18",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;18",
+      "ementa": "Dá nova redação ao artigo 1º do Decreto-Lei n° 2.442, de 23 de junho de 1988."
+    },
+    {
+      "senadoId": "552913",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-16",
+      "titulo": "Medida Provisória nº 16 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "16",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;16",
+      "ementa": "Estabelece as condições para emissão de Letras Hipotecárias"
+    },
+    {
+      "senadoId": "602660",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-11",
+      "titulo": "Medida Provisória nº 11 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "11",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;11",
+      "ementa": "Altera valores da taxa de fiscalização da instalação dos Serviços de Telecomunicações, constantes do Anexo I à Lei nº 5.070, de 7 de julho de 1966."
+    },
+    {
+      "senadoId": "552915",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-17",
+      "titulo": "Medida Provisória nº 17 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "17",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;17",
+      "ementa": "Dispõe sobre a redução de impostos incidentes sobre importação e dá outras providências."
+    },
+    {
+      "senadoId": "552911",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-11-03-15",
+      "titulo": "Medida Provisória nº 15 de 03/11/1988",
+      "data": "1988-11-03",
+      "numero": "15",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-11-03;15",
+      "ementa": "Altera disposição da legislação aduaneira e dá outras providências."
+    },
+    {
+      "senadoId": "602658",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1988-10-21-10",
+      "titulo": "Medida Provisória nº 10 de 21/10/1988",
+      "data": "1988-10-21",
+      "numero": "10",
+      "urn": "urn:lex:br:federal:medida.provisoria:1988-10-21;10",
+      "ementa": "Dispõe sobre a proibição da pesca de espécies em períodos de reprodução e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

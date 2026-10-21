@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-02-13198",
+  "titulo": "Lei nº 13.198 de 02/12/2015",
+  "data": "2015-12-02",
+  "fonte": "https://normas.leg.br/api/public/binario/16673a1a-19c5-435a-820e-74ed55323823/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-02;13198",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-02%3B13198&tipo_documento=maior-detalhe",
+  "sha256_dados": "1a7441f258a1e90ab0207ef042cfd8d2fd9626a0da49f56faaef83627e636a16",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:55.676Z",
+  "sha256_fonte": "eacf1526b9a45363e47fec4f3e1d8f8259ac8a91544f822a5d336c719e2d95ea",
+  "sha256_markdown": "042ce601e4ec2fee09d21ac8c9a4ad273e9ea8661778f77747f3c5a7c38d3333"
+}

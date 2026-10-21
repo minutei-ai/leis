@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-11-03-13182",
+  "titulo": "Lei nº 13.182 de 03/11/2015",
+  "data": "2015-11-03",
+  "fonte": "https://normas.leg.br/api/public/binario/45d111b1-dab7-4ddd-9b13-d38d6f4da1b3/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-11-03;13182",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-11-03%3B13182&tipo_documento=maior-detalhe",
+  "sha256_dados": "d736ec86c868f45505bcb1c46fce87604dfce0383426980653f8ebb3d52decf9",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:16.531Z",
+  "sha256_fonte": "d796cff6033cd424560314e8804b79aa39ca372f6fa428d46db5adaf64dddbea",
+  "sha256_markdown": "dbc4f038c667a0c0be4a850173624b636e1422cf1a2273b527811d6daa3730e4"
+}

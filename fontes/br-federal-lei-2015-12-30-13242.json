@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-30-13242",
+  "titulo": "Lei nº 13.242 de 30/12/2015",
+  "data": "2015-12-30",
+  "fonte": "https://normas.leg.br/api/public/binario/e22ac529-c1af-41ff-8e3e-bcafbc9d6763/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-30;13242",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-30%3B13242&tipo_documento=maior-detalhe",
+  "sha256_dados": "b3316c1fe0520c2eb963c2ad538a2b47a719bc50e5e199a219691af98549dd1e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:01.657Z",
+  "sha256_fonte": "19b0c9f5c9da4cbfb257eb1c4a19f20f0d01f31011f072b97c5c105535809ab2",
+  "sha256_markdown": "4610d8befcd3b9daa13ef5439436e58dd376ad0d7bdb42ceb5af198b25f64947"
+}

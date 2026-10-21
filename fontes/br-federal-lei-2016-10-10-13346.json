@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-10-10-13346",
+  "titulo": "Lei nº 13.346 de 10/10/2016",
+  "data": "2016-10-10",
+  "fonte": "https://normas.leg.br/api/public/binario/27a39fb0-66d5-4e3f-8cd9-63e129fd4db1/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-10-10;13346",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-10-10%3B13346&tipo_documento=maior-detalhe",
+  "sha256_dados": "116167c549a3c90c5f6d6ef8f9b674c6383a5bede10d0e3ffca795ac47712bcd",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:33.346Z",
+  "sha256_fonte": "21a4cd6700d721571329290159506c4f0fc8aaf8aae45de69f045f9f0c46787e",
+  "sha256_markdown": "6c287d43390eb9e0e824e3dac6b72a6bc8982bbf1684aa9db22b3d6d29c76775"
+}

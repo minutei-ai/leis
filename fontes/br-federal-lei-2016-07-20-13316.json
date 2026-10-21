@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-07-20-13316",
+  "titulo": "Lei nº 13.316 de 20/07/2016",
+  "data": "2016-07-20",
+  "fonte": "https://normas.leg.br/api/public/binario/99f58ca5-f57c-4b73-8183-19b1b3cd2540/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-07-20;13316",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-07-20%3B13316&tipo_documento=maior-detalhe",
+  "sha256_dados": "8aa97dae0176534a8141ca9932de9a1811a8a5cf66e2d30dc847fc7c030e8a57",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:58:20.302Z",
+  "sha256_fonte": "ca609e102077ebdf3cb38280f20db0833e87dd7f943c36b2756e790ae0080507",
+  "sha256_markdown": "f15069937579aea941f75ec6c4cae6d0cc557498fa7fd04aec4caa5763101033"
+}

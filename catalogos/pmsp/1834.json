@@ -1,0 +1,21 @@
+{
+  "ano_publicacao": 1834,
+  "fonte": "https://legislacao.prefeitura.sp.gov.br/busca",
+  "metodo": "POST",
+  "consulta": {
+    "ano-inicial": "01/01/1834",
+    "ano-final": "31/12/1834",
+    "tipo[]": "LEI",
+    "limite": "100"
+  },
+  "coletado_em": "2026-10-21T08:50:43.530Z",
+  "total": 0,
+  "paginas": [
+    {
+      "numero": 1,
+      "sha256_fonte": "973b56a9fb7a3605d969a9179cf76c6b1faf4e19815073157fd5e06a5c5bab03"
+    }
+  ],
+  "normas": [],
+  "pendencias": []
+}

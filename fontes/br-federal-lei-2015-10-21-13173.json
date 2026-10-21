@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-10-21-13173",
+  "titulo": "Lei nº 13.173 de 21/10/2015",
+  "data": "2015-10-21",
+  "fonte": "https://normas.leg.br/api/public/binario/fdaa5a42-7583-480f-a77a-89ce0872d9ab/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-10-21;13173",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-10-21%3B13173&tipo_documento=maior-detalhe",
+  "sha256_dados": "9a625b35c0d80451b6338befe57c9a4ca3c9f5ac9f10b2ef71aa4ad50adebf14",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:29.271Z",
+  "sha256_fonte": "c5de044c63d5bc6af9d4bc266ed141f6609e51ecee4403fa89640561917cc598",
+  "sha256_markdown": "731e9a61f2aaf011eac2d1f7982b799db59d00422bbed23dbc9c8e13f9515cd9"
+}

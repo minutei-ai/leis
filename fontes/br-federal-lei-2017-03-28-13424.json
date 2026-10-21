@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-03-28-13424",
+  "titulo": "Lei nº 13.424 de 28/03/2017",
+  "data": "2017-03-28",
+  "fonte": "https://normas.leg.br/api/public/binario/856853f7-6921-4213-a3be-b4988ef7031e/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-03-28;13424",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-03-28%3B13424&tipo_documento=maior-detalhe",
+  "sha256_dados": "06f6f79646e07ad104534b2e31e83dafbbe17a936e553037da3656025299578e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:55:51.118Z",
+  "sha256_fonte": "801ff27e0e92e342e8efff2043d460ab42e511f29eb590e254747d731513178c",
+  "sha256_markdown": "8df1173ad114ce93944e74de8cf2ad34c92d540934375b9b27fdcde695cc7e62"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-07-30-13153",
+  "titulo": "Lei nº 13.153 de 30/07/2015",
+  "data": "2015-07-30",
+  "fonte": "https://normas.leg.br/api/public/binario/52dc1282-1163-425d-a7d7-56bc3d1b8f10/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-07-30;13153",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-07-30%3B13153&tipo_documento=maior-detalhe",
+  "sha256_dados": "af3f64a3a1eafad3c8d8ec173403f8e82b550d79e2fe3452ef8dee4ae54aafec",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:54.063Z",
+  "sha256_fonte": "d352a52d57dea101bacb5dde7f381d74f841f67b21f04bcb81900d676f6fc567",
+  "sha256_markdown": "ef3e4eb547dcf503e4e63ddbff4702af5d18e0bb79d4c227b00e8bf1e0a0f2f0"
+}

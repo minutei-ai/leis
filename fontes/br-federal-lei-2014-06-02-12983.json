@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-06-02-12983",
+  "titulo": "Lei nº 12.983 de 02/06/2014",
+  "data": "2014-06-02",
+  "fonte": "https://normas.leg.br/api/public/binario/974355e9-1df2-48a7-9113-1d69c22ac3a1/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-06-02;12983",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-06-02%3B12983&tipo_documento=maior-detalhe",
+  "sha256_dados": "85225dda122228279832dc804f2de27d7562ee04a35a66885047cb62af75fae0",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:34.572Z",
+  "sha256_fonte": "031310a2083745a71b8066064cebdacd03cd330568ac7ec825022e1d42ac371b",
+  "sha256_markdown": "f8531f02b788837062481d8eeaa2e30c390722920412c5a2408ccb363ec45de1"
+}

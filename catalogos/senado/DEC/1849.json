@@ -1,0 +1,949 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1849",
+  "tipo": "DEC",
+  "ano": 1849,
+  "coletado_em": "2026-10-21T08:52:50.298Z",
+  "normas": [
+    {
+      "senadoId": "388777",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-24-663",
+      "titulo": "Decreto nº 663 de 24/12/1849",
+      "data": "1849-12-24",
+      "numero": "663",
+      "urn": "urn:lex:br:federal:decreto:1849-12-24;663",
+      "ementa": "CRIA UMA COMISSÃO DE MELHORAMENTOS DO MATERIAL DO EXÉRCITO."
+    },
+    {
+      "senadoId": "388772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-22-662",
+      "titulo": "Decreto nº 662 de 22/12/1849",
+      "data": "1849-12-22",
+      "numero": "662",
+      "urn": "urn:lex:br:federal:decreto:1849-12-22;662",
+      "ementa": "APROVA O REGULAMENTO PARA A FUNDAÇÃO DE COLÔNIAS MILITARES NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "388767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-12-661",
+      "titulo": "Decreto nº 661 de 12/12/1849",
+      "data": "1849-12-12",
+      "numero": "661",
+      "urn": "urn:lex:br:federal:decreto:1849-12-12;661",
+      "ementa": "AUTORIZA, NA FORMA DO ARTIGO 53 DA LEI NÚMERO 514 DE 28 DE OUTUBRO DE 1848, A DESPESA DE 637.139$571 SEGUNDO A TABELA QUE O ACOMPANHA."
+    },
+    {
+      "senadoId": "388756",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-05-659",
+      "titulo": "Decreto nº 659 de 05/12/1849",
+      "data": "1849-12-05",
+      "numero": "659",
+      "urn": "urn:lex:br:federal:decreto:1849-12-05;659",
+      "ementa": "CONCEDE A RUFFER MARTELET E COMPANHIA PRIVILÉGIO EXCLUSIVO POR OITO ANOS PARA ESTABELECIMENTO DE SEGES DE QUATRO RODAS, COM A DENOMINAÇÃO DE - ANDORINHAS."
+    },
+    {
+      "senadoId": "388745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-05-657",
+      "titulo": "Decreto nº 657 de 05/12/1849",
+      "data": "1849-12-05",
+      "numero": "657",
+      "urn": "urn:lex:br:federal:decreto:1849-12-05;657",
+      "ementa": "RESOLVENDO SOBRE A INTELIGENCIA E EXECUÇÃO DE ALGUMAS PROVIDENCIAS DECRETADAS PELAS LEIS QUE REGEM A ADMINISTRAÇÃO DA FAZENDA NACIONAL, FISCALIZAÇÃO E ARRECADAÇÃO DE SUAS RENDAS."
+    },
+    {
+      "senadoId": "388740",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-05-656",
+      "titulo": "Decreto nº 656 de 05/12/1849",
+      "data": "1849-12-05",
+      "numero": "656",
+      "urn": "urn:lex:br:federal:decreto:1849-12-05;656",
+      "ementa": "SOBRE O PAGAMENTO DO LAUDEMIO DAS ALIENAÇÕES DE PROPRIEDADES FOREIRAS À FAZENDA NACIONAL."
+    },
+    {
+      "senadoId": "388750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-05-658",
+      "titulo": "Decreto nº 658 de 05/12/1849",
+      "data": "1849-12-05",
+      "numero": "658",
+      "urn": "urn:lex:br:federal:decreto:1849-12-05;658",
+      "ementa": "CONCEDE A ANACLETO FRAGOSO RHODES PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA SÓ ELE FABRICAR VASILHAS DE SUA INVENÇÃO DESTINADAS À CONDUÇÃO DE MATERIAIS FECAIS AOS LUGARES MARCADOS PARA RECEBE-LAS."
+    },
+    {
+      "senadoId": "388761",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-12-05-660",
+      "titulo": "Decreto nº 660 de 05/12/1849",
+      "data": "1849-12-05",
+      "numero": "660",
+      "urn": "urn:lex:br:federal:decreto:1849-12-05;660",
+      "ementa": "CONCEDE A JOÃO HENRIQUE TAUBER NIELSEN PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA SÓ ELE PODER CONSTRUIR PIANOS POR UM MODELO QUE INVENTARA."
+    },
+    {
+      "senadoId": "388735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-28-655",
+      "titulo": "Decreto nº 655 de 28/11/1849",
+      "data": "1849-11-28",
+      "numero": "655",
+      "urn": "urn:lex:br:federal:decreto:1849-11-28;655",
+      "ementa": "REGULA A EXECUÇÃO DA LEI DE 9 DE DEZEMBRO DE 1830, E DO ARTIGO 44 DA LEI NÚMERO 369 DE 18 DE SETEMBRO DE 1845."
+    },
+    {
+      "senadoId": "388725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-24-653",
+      "titulo": "Decreto nº 653 de 24/11/1849",
+      "data": "1849-11-24",
+      "numero": "653",
+      "urn": "urn:lex:br:federal:decreto:1849-11-24;653",
+      "ementa": "CRIANDO UMA ALFÂNDEGA EM SÃO JOSÉ DO NORTE NA PROVÍNCIA DE SÃO PEDRO,  E DANDO NOVA ORGANIZAÇÃO ÀS DO RIO GRANDE E PORTO ALEGRE."
+    },
+    {
+      "senadoId": "388716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-24-651",
+      "titulo": "Decreto nº 651 de 24/11/1849",
+      "data": "1849-11-24",
+      "numero": "651",
+      "urn": "urn:lex:br:federal:decreto:1849-11-24;651",
+      "ementa": "REVOGA EM PARTE O ARTIGO 32 DO REGULAMENTO NÚMERO 120 DE 31 DE JANEIRO DE 1842."
+    },
+    {
+      "senadoId": "388720",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-24-652",
+      "titulo": "Decreto nº 652 de 24/11/1849",
+      "data": "1849-11-24",
+      "numero": "652",
+      "urn": "urn:lex:br:federal:decreto:1849-11-24;652",
+      "ementa": "REÚNE, NA PROVÍNCIA DO RIO GRANDE DO NORTE, DEBAIXO DA JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ÓRFÃOS, OS TERMOS DA CAPITAL, SÃO GONÇALO, ESTREMOZ E TOUROS."
+    },
+    {
+      "senadoId": "388730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-24-654",
+      "titulo": "Decreto nº 654 de 24/11/1849",
+      "data": "1849-11-24",
+      "numero": "654",
+      "urn": "urn:lex:br:federal:decreto:1849-11-24;654",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DISPENDER NO CORRENTE EXERCÍCIO AS AJUDAS DE CUSTO DE VINDA AOS DEPUTADOS À 8ª LEGISLATURA A QUANTIA DE Rs. 65.300$000."
+    },
+    {
+      "senadoId": "388712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-23-650",
+      "titulo": "Decreto nº 650 de 23/11/1849",
+      "data": "1849-11-23",
+      "numero": "650",
+      "urn": "urn:lex:br:federal:decreto:1849-11-23;650",
+      "ementa": "ADITA E ALTERA O REGULAMENTO APROVADO PELO DECRETO NÚMERO 350 DE 20 DE ABRIL DE 1844."
+    },
+    {
+      "senadoId": "388707",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-21-649",
+      "titulo": "Decreto nº 649 de 21/11/1849",
+      "data": "1849-11-21",
+      "numero": "649",
+      "urn": "urn:lex:br:federal:decreto:1849-11-21;649",
+      "ementa": "REGULA A MANEIRA POR QUE SE DEVE PROCEDER NA NOMEAÇÃO DOS SUPLENTES DOS JUÍZES MUNICIPAIS."
+    },
+    {
+      "senadoId": "388702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-10-648",
+      "titulo": "Decreto nº 648 de 10/11/1849",
+      "data": "1849-11-10",
+      "numero": "648",
+      "urn": "urn:lex:br:federal:decreto:1849-11-10;648",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO SOBRE OS CORRETORES."
+    },
+    {
+      "senadoId": "388697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-06-647",
+      "titulo": "Decreto nº 647 de 06/11/1849",
+      "data": "1849-11-06",
+      "numero": "647",
+      "urn": "urn:lex:br:federal:decreto:1849-11-06;647",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVIL DA CAPITAL DA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "388692",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-11-04-646",
+      "titulo": "Decreto nº 646 de 04/11/1849",
+      "data": "1849-11-04",
+      "numero": "646",
+      "urn": "urn:lex:br:federal:decreto:1849-11-04;646",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA DISPENDER MAIS 14.507$380 COM A IMPRESSÃO DAS LEIS, DECRETO, E OUTROS ATOS DAQUELE MINISTÉRIO."
+    },
+    {
+      "senadoId": "388687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-10-27-645",
+      "titulo": "Decreto nº 645 de 27/10/1849",
+      "data": "1849-10-27",
+      "numero": "645",
+      "urn": "urn:lex:br:federal:decreto:1849-10-27;645",
+      "ementa": "CONCEDE A FRUCTUOSO JOSÉ COELHO PRIVILÉGIO EXCLUSIVO POR ESPAÇO DE OITO ANOS PARA SÓ ELE PODER CONSTRUIR MÁQUINAS SEMELHANTES A UMA QUE INVENTARÁ PARA DESPOLPAR CAFÉ, E EXTRAIR-LHE SUCO PARA FAZER AGUARDENTE E AÇÚCAR."
+    },
+    {
+      "senadoId": "388682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-10-20-644",
+      "titulo": "Decreto nº 644 de 20/10/1849",
+      "data": "1849-10-20",
+      "numero": "644",
+      "urn": "urn:lex:br:federal:decreto:1849-10-20;644",
+      "ementa": "DECLARA QUE O CORONEL HONRORÁRIO JOSÉ ANTÔNIO DE MENEZES DORIA, QUE É ALFERES DO EXÉRCITO, TEM DIREITO AO SOLDO DESTA PATENTE."
+    },
+    {
+      "senadoId": "388677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-10-19-643",
+      "titulo": "Decreto nº 643 de 19/10/1849",
+      "data": "1849-10-19",
+      "numero": "643",
+      "urn": "urn:lex:br:federal:decreto:1849-10-19;643",
+      "ementa": "CONCEDE A ANTONIO GONÇALVES NETO PRIVILÉGIO EXCLUSIVO POR SEIS ANOS PARA USAR DE UMA MÁQUINA DE SUA INVENÇÃO PARA MOER CANAS."
+    },
+    {
+      "senadoId": "388672",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-10-19-642",
+      "titulo": "Decreto nº 642 de 19/10/1849",
+      "data": "1849-10-19",
+      "numero": "642",
+      "urn": "urn:lex:br:federal:decreto:1849-10-19;642",
+      "ementa": "CONCEDE A JOAQUIM FRANCISCO DE SOUSA NAVARRO PRIVILÉGIO EXCLUSIVO POR DEZ  ANOS PARA USAR DE UM APARELHO QUE INVENTARA PARA BRANQUEAR E PURIFICAR A CERCA DE CARNAUBA."
+    },
+    {
+      "senadoId": "388667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-10-10-641",
+      "titulo": "Decreto nº 641 de 10/10/1849",
+      "data": "1849-10-10",
+      "numero": "641",
+      "urn": "urn:lex:br:federal:decreto:1849-10-10;641",
+      "ementa": "ALTERA OS ESTATUTOS PARA A ACADEMIA DE MARINHA, QUE BAIXARÃO COM O DECRETO NÚMERO 586 DE 19 DE FEVEREIRO ÚLTIMO."
+    },
+    {
+      "senadoId": "388655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-09-29-639",
+      "titulo": "Decreto nº 639 de 29/09/1849",
+      "data": "1849-09-29",
+      "numero": "639",
+      "urn": "urn:lex:br:federal:decreto:1849-09-29;639",
+      "ementa": "PERDOA AOS RÉUS DE 1ª E 2ª DESERÇÃO SIMPLES, E AGRAVADA, E DE 3ª SIMPLES, QUE SE ACHAREM NO AMAPÁ, E PERTENCEREM À ARMADA, E AOS CORPOS DE IMPERIAIS MARINHEIROS, E FUZILEIROS NAVAIS."
+    },
+    {
+      "senadoId": "388660",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-09-29-640",
+      "titulo": "Decreto nº 640 de 29/09/1849",
+      "data": "1849-09-29",
+      "numero": "640",
+      "urn": "urn:lex:br:federal:decreto:1849-09-29;640",
+      "ementa": "ORÇA A RECEITA, E FIXA A DESPESA DE ILUSTRÍSSIMA CAMARA MUNICIPAL DA CORTE PARA O ANO MUNICIPAL DE 1849-1850."
+    },
+    {
+      "senadoId": "388650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-09-28-638",
+      "titulo": "Decreto nº 638 de 28/09/1849",
+      "data": "1849-09-28",
+      "numero": "638",
+      "urn": "urn:lex:br:federal:decreto:1849-09-28;638",
+      "ementa": "MANDA OBSERVAR DESDE JÁ EM TODAS AS ADMINISTRAÇÕES DO CORREIO DESTE IMPÉRIO VÁRIAS DISPOSIÇÕES DO REGULAMENTO INTERNO DA ADMINISTRAÇÃO DO CORREIO DA CORTE, MANDADO EXECUTAR PELO DECRETO NÚMERO 637 DE 27 DO CORRENTE."
+    },
+    {
+      "senadoId": "388645",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-09-27-637",
+      "titulo": "Decreto nº 637 de 27/09/1849",
+      "data": "1849-09-27",
+      "numero": "637",
+      "urn": "urn:lex:br:federal:decreto:1849-09-27;637",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO INTERNO DA ADMINISTRAÇÃO DO CORREIO DA CORTE, E PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "388640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-09-15-636",
+      "titulo": "Decreto nº 636 de 15/09/1849",
+      "data": "1849-09-15",
+      "numero": "636",
+      "urn": "urn:lex:br:federal:decreto:1849-09-15;636",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER NO CORRENTE EXERCÍCIO A QUANTIA DE VINTE E CINCO CONTOS DE RÉIS COM A EXPLORAÇÃO DOS TERRENOS CARBONÍFEROS DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "388635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-09-10-635",
+      "titulo": "Decreto nº 635 de 10/09/1849",
+      "data": "1849-09-10",
+      "numero": "635",
+      "urn": "urn:lex:br:federal:decreto:1849-09-10;635",
+      "ementa": "DETERMINA QUE O SOLDO QUE COMPETE AOS OFICIAIS DA QUARTA CLASSE DO EXÉRCITO É SEMPRE O DA REFORMA."
+    },
+    {
+      "senadoId": "388630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-08-28-634",
+      "titulo": "Decreto nº 634 de 28/08/1849",
+      "data": "1849-08-28",
+      "numero": "634",
+      "urn": "urn:lex:br:federal:decreto:1849-08-28;634",
+      "ementa": "MANDANDO OBSERVAR PROVISORIAMENTE NAS ALFÂNDEGAS O REGULAMENTO SOBRE O ABATIMENTO DAS TARAS E QUEBRAS."
+    },
+    {
+      "senadoId": "388625",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-08-28-633",
+      "titulo": "Decreto nº 633 de 28/08/1849",
+      "data": "1849-08-28",
+      "numero": "633",
+      "urn": "urn:lex:br:federal:decreto:1849-08-28;633",
+      "ementa": "MANDANDO OBSERVAR PROVISORIAMENTE NAS ALFÂNDEGAS O REGULAMENTO SOBRE O DESPACHO LIVRE E PROIBIDO."
+    },
+    {
+      "senadoId": "388620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-08-27-632",
+      "titulo": "Decreto nº 632 de 27/08/1849",
+      "data": "1849-08-27",
+      "numero": "632",
+      "urn": "urn:lex:br:federal:decreto:1849-08-27;632",
+      "ementa": "REGULA O MODO POR QUE DEVEM SER DIRIGIDOS DAS PROVÍNCIAS ÀS SECRETARIAS DE ESTADO TANTO OS REQUERIMENTOS DE PARTES, COMO A CORRESPONDÊNCIA OFICIAL DE QUAISQUER AUTORIDADES OU REPARTIÇÕES, E FACILITA A COMUNICAÇÃO DAS DECISÕES, BEM COMO A EXPEDIÇÃO DOS DESPACHOS, E A REMESSA DOS DIPLOMAS, QUE, EM VIRTUDE DELES, DEVEREM EXPEDIR-SE."
+    },
+    {
+      "senadoId": "388615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-08-25-631",
+      "titulo": "Decreto nº 631 de 25/08/1849",
+      "data": "1849-08-25",
+      "numero": "631",
+      "urn": "urn:lex:br:federal:decreto:1849-08-25;631",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIA DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER MAIS NO CORRENTE EXERCÍCIO COM AS AJUDAS DE CUSTO DE VOLTA AOS DEPUTADOS DA CAMARA ULTIMAMENTE DISSOLVIDA A QUANTIA DE Rs. 24.100$000."
+    },
+    {
+      "senadoId": "388610",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-08-06-630",
+      "titulo": "Decreto nº 630 de 06/08/1849",
+      "data": "1849-08-06",
+      "numero": "630",
+      "urn": "urn:lex:br:federal:decreto:1849-08-06;630",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER NO ATUAL EXERCÍCIO A QUANTIA DE DOIS CONTOS TREZENTOS VINTE E DOIS MIL RÉIS COM A SUBSCRIÇÃO DE TREZENTOS OITENTA E SETE EXEMPLARES DO PERIÓDICO MENSAL DA SOCIEDADE AUXILIADORA DA INDÚSTRIA NACIONAL."
+    },
+    {
+      "senadoId": "388605",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-08-05-629",
+      "titulo": "Decreto nº 629 de 05/08/1849",
+      "data": "1849-08-05",
+      "numero": "629",
+      "urn": "urn:lex:br:federal:decreto:1849-08-05;629",
+      "ementa": "MARCADO AS TAXAS DE CUNHAGEM, FUNDIÇÃO E AFINAÇÃO DO OURO, E DE TOQUE E ENSAIO DO OURO E PRATA."
+    },
+    {
+      "senadoId": "388580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-29-624",
+      "titulo": "Decreto nº 624 de 29/07/1849",
+      "data": "1849-07-29",
+      "numero": "624",
+      "urn": "urn:lex:br:federal:decreto:1849-07-29;624",
+      "ementa": "ESTABELECE A MANEIRA PELA QUAL, NO SUPREMO TRIBUNAL DE JUSTIÇA, SE DEVE VERIFICAR A ANTIGUIDADE DOS MAGISTRADOS."
+    },
+    {
+      "senadoId": "388600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-28-628",
+      "titulo": "Decreto nº 628 de 28/07/1849",
+      "data": "1849-07-28",
+      "numero": "628",
+      "urn": "urn:lex:br:federal:decreto:1849-07-28;628",
+      "ementa": "AUTORIZA, NA CONFORMIDADE DO ARTIGO 53 DA LEI NÚMERO 514 DE 28 DE OUTUBRO DO ANO PRÓXIMO PREFERITO, DESPESA DE 373.673$000, SEGUNDO A TABELA ANEXA."
+    },
+    {
+      "senadoId": "388585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-28-625",
+      "titulo": "Decreto nº 625 de 28/07/1849",
+      "data": "1849-07-28",
+      "numero": "625",
+      "urn": "urn:lex:br:federal:decreto:1849-07-28;625",
+      "ementa": "MARCA O PESO, TOQUE E VALORES DAS MOEDAS DE OURO E PRATA, QUE SE CUNHAREM EM VIRTUDE DA LEI 475 DE 20 DE SETEMBRO DE 1847."
+    },
+    {
+      "senadoId": "388590",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-28-626",
+      "titulo": "Decreto nº 626 de 28/07/1849",
+      "data": "1849-07-28",
+      "numero": "626",
+      "urn": "urn:lex:br:federal:decreto:1849-07-28;626",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA DESPENDER MAIS 86.235$000 NO EXERCÍCIO DE 1849-50."
+    },
+    {
+      "senadoId": "388595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-28-627",
+      "titulo": "Decreto nº 627 de 28/07/1849",
+      "data": "1849-07-28",
+      "numero": "627",
+      "urn": "urn:lex:br:federal:decreto:1849-07-28;627",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA DESPENDER MAIS 50.000$000 POR CONTA DO EXERCÍCIO DE 1848-49."
+    },
+    {
+      "senadoId": "388575",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-24-623",
+      "titulo": "Decreto nº 623 de 24/07/1849",
+      "data": "1849-07-24",
+      "numero": "623",
+      "urn": "urn:lex:br:federal:decreto:1849-07-24;623",
+      "ementa": "REÚNE AO TERMO DE POUSO-ALEGRE O DE JAGOARY NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "388570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-24-622",
+      "titulo": "Decreto nº 622 de 24/07/1849",
+      "data": "1849-07-24",
+      "numero": "622",
+      "urn": "urn:lex:br:federal:decreto:1849-07-24;622",
+      "ementa": "ESTABELECE UM INSPETOR PARA O TEATRO DESTA CORTE, SUBSIDIADOS PELO GOVERNO OU PROTEGIDOS COM LOTERIAS."
+    },
+    {
+      "senadoId": "388565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-08-621",
+      "titulo": "Decreto nº 621 de 08/07/1849",
+      "data": "1849-07-08",
+      "numero": "621",
+      "urn": "urn:lex:br:federal:decreto:1849-07-08;621",
+      "ementa": "DETERMINA QUE OS ALFERES ALUNOS, QUE FOREM DEMITIDOS, REGRESSEM ÀS SUAS ANTIGAS PRAÇAS."
+    },
+    {
+      "senadoId": "388560",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-08-620",
+      "titulo": "Decreto nº 620 de 08/07/1849",
+      "data": "1849-07-08",
+      "numero": "620",
+      "urn": "urn:lex:br:federal:decreto:1849-07-08;620",
+      "ementa": "CRIA NO MUNICÍPIO DA VILA DO CONDE, DA PROVÍNCIA DA BAHIA, UM JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS, E MARCA O RESPECTIVO ORDENADO."
+    },
+    {
+      "senadoId": "388555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-07-07-619",
+      "titulo": "Decreto nº 619 de 07/07/1849",
+      "data": "1849-07-07",
+      "numero": "619",
+      "urn": "urn:lex:br:federal:decreto:1849-07-07;619",
+      "ementa": "MANDANDO DESPACHAR POR FATURA O CALÇADO ESTRANGEIRO."
+    },
+    {
+      "senadoId": "388551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-06-30-618",
+      "titulo": "Decreto nº 618 de 30/06/1849",
+      "data": "1849-06-30",
+      "numero": "618",
+      "urn": "urn:lex:br:federal:decreto:1849-06-30;618",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER NO CORRENTE EXERCÍCIO COM AS ESCOLAS DE MEDICINA A QUANTIA DE 1.730$000, ALÉM DA SOMA CONSIGNADA PARA ESSE FIM NA LEI NÚMERO 514, DE 28 DE OUTUBRO DE 1848."
+    },
+    {
+      "senadoId": "388546",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-06-20-617",
+      "titulo": "Decreto nº 617 de 20/06/1849",
+      "data": "1849-06-20",
+      "numero": "617",
+      "urn": "urn:lex:br:federal:decreto:1849-06-20;617",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DO GRÃO-MOGOL, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "388541",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-06-16-616",
+      "titulo": "Decreto nº 616 de 16/06/1849",
+      "data": "1849-06-16",
+      "numero": "616",
+      "urn": "urn:lex:br:federal:decreto:1849-06-16;616",
+      "ementa": "MANDANDO QUE FIQUE SEM EFEITO O DECRETO NÚMERO 79 DE 14 DE JULHO DE 1841."
+    },
+    {
+      "senadoId": "388536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-06-15-615",
+      "titulo": "Decreto nº 615 de 15/06/1849",
+      "data": "1849-06-15",
+      "numero": "615",
+      "urn": "urn:lex:br:federal:decreto:1849-06-15;615",
+      "ementa": "DECLARA DE GRANDE GALA O DIA 19 DE JULHO EM SUBSTITUIÇÃO DO DE 29 DO MESMO MÊS."
+    },
+    {
+      "senadoId": "388531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-06-02-614",
+      "titulo": "Decreto nº 614 de 02/06/1849",
+      "data": "1849-06-02",
+      "numero": "614",
+      "urn": "urn:lex:br:federal:decreto:1849-06-02;614",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A DESPENDER NO CORRENTE EXERCÍCIO A QUANTIA DE 28.200$000 COM AS DESPESAS DE POLÍCIA, E SEGURANÇA PÚBLICA."
+    },
+    {
+      "senadoId": "388526",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-06-01-613",
+      "titulo": "Decreto nº 613 de 01/06/1849",
+      "data": "1849-06-01",
+      "numero": "613",
+      "urn": "urn:lex:br:federal:decreto:1849-06-01;613",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVEL DA COMARCA DA BOA VISTA, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "388525",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-05-31-612-a",
+      "titulo": "Decreto nº 612-A de 31/05/1849",
+      "data": "1849-05-31",
+      "numero": "612-a",
+      "urn": "urn:lex:br:federal:decreto:1849-05-31;612-a",
+      "ementa": "AUTORIZA, NA FORMA DO ARTIGO 53 DA LEI NÚMERO 514 DE 28 DE OUTUBRO DE 1848, A DESPESA DE 407.000$00O, SEGUNDO A TABELA QUE O ACOMPANHA."
+    },
+    {
+      "senadoId": "388520",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-05-20-612",
+      "titulo": "Decreto nº 612 de 20/05/1849",
+      "data": "1849-05-20",
+      "numero": "612",
+      "urn": "urn:lex:br:federal:decreto:1849-05-20;612",
+      "ementa": "DESANEXA O TERMO DE MAUÉS DO DA BARRA DO RIO NEGRO, DA PROVÍNCIA DO PARÁ, CRIA NELE UM JUIZ MUNICIPAL E DE ÓRFÃOS; REÚNE OS TERMOS DE EGA, BARCELOS E BARRA DO RIO NEGRO SOB A JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ÓRFÃOS, E MARCA O VENCIMENTO A ESTES JUIZES."
+    },
+    {
+      "senadoId": "388515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-05-14-611",
+      "titulo": "Decreto nº 611 de 14/05/1849",
+      "data": "1849-05-14",
+      "numero": "611",
+      "urn": "urn:lex:br:federal:decreto:1849-05-14;611",
+      "ementa": "MARCA O VENCIMENTO DO AJUDANTE DO CARCEREIRO DA CADEIA DA CIDADE DE SÃO PAULO."
+    },
+    {
+      "senadoId": "388510",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-05-13-610",
+      "titulo": "Decreto nº 610 de 13/05/1849",
+      "data": "1849-05-13",
+      "numero": "610",
+      "urn": "urn:lex:br:federal:decreto:1849-05-13;610",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DE SANTA LUZIA NA COMARCA DO RIO DAS VELHAS, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "388505",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-05-12-609",
+      "titulo": "Decreto nº 609 de 12/05/1849",
+      "data": "1849-05-12",
+      "numero": "609",
+      "urn": "urn:lex:br:federal:decreto:1849-05-12;609",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER NO CORRENTE EXERCÍCIO, COM O TRIBUNAL DA JUNTA DO COMÉRCIO, A QUANTIA DE 2.149$790, ALÉM DA QUOTA PARA O MESMO FIM CONSIGNADA NA VIGENTE LEI DO ORÇAMENTO."
+    },
+    {
+      "senadoId": "388500",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-05-04-608",
+      "titulo": "Decreto nº 608 de 04/05/1849",
+      "data": "1849-05-04",
+      "numero": "608",
+      "urn": "urn:lex:br:federal:decreto:1849-05-04;608",
+      "ementa": "REVOGANDO O DECRETO 536 DE 1 DE OUTUBRO DE 1847, QUE ESTABELECEU DIREITOS DIFERENCIAIS."
+    },
+    {
+      "senadoId": "388494",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-23-607",
+      "titulo": "Decreto nº 607 de 23/04/1849",
+      "data": "1849-04-23",
+      "numero": "607",
+      "urn": "urn:lex:br:federal:decreto:1849-04-23;607",
+      "ementa": "APROVA O PLANO PARA A ORGANIZAÇÃO DO CORPO DE SAÚDE DA ARMADA NACIONAL E IMPERIAL."
+    },
+    {
+      "senadoId": "388489",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-22-606",
+      "titulo": "Decreto nº 606 de 22/04/1849",
+      "data": "1849-04-22",
+      "numero": "606",
+      "urn": "urn:lex:br:federal:decreto:1849-04-22;606",
+      "ementa": "DESANEXA DO TERMO DE SÃO JOSÉ DA CIDADE DO DESTERRO, CAPITAL DA PROVÍNCIA DE SANTA CATARINA, E ANEXA A ESTER TERMO O DE SÃO MIGUEL DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "388479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-21-604",
+      "titulo": "Decreto nº 604 de 21/04/1849",
+      "data": "1849-04-21",
+      "numero": "604",
+      "urn": "urn:lex:br:federal:decreto:1849-04-21;604",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER, NO CORRENTE EXERCÍCIO, A QUANTIA DE 2.322$000 COM SUBSCRIÇÃO DE 387 EXEMPLARES DO PERIÓDICO MENSAL DA MENSALIDADE AUXILIADORA DA INDÚSTRIA NACIONAL."
+    },
+    {
+      "senadoId": "388484",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-21-605",
+      "titulo": "Decreto nº 605 de 21/04/1849",
+      "data": "1849-04-21",
+      "numero": "605",
+      "urn": "urn:lex:br:federal:decreto:1849-04-21;605",
+      "ementa": "REVOGA A ÚLTIMA PARTE DO ARTIGO 8º DO REGULAMENTO DE 12 DE AGOSTO DE 1844, QUE SUSPENDEU OS DESPACHOS DE REEXPORTAÇÃO E BALDEAÇÃO PARA DENTRO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "388469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-19-602",
+      "titulo": "Decreto nº 602 de 19/04/1849",
+      "data": "1849-04-19",
+      "numero": "602",
+      "urn": "urn:lex:br:federal:decreto:1849-04-19;602",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ DE DIREITO DO CIVEL DA COMARCA DO RIO FORMOSO DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "388464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-19-601",
+      "titulo": "Decreto nº 601 de 19/04/1849",
+      "data": "1849-04-19",
+      "numero": "601",
+      "urn": "urn:lex:br:federal:decreto:1849-04-19;601",
+      "ementa": "APROVA O PLANO PARA A ORGANIZAÇÃO DO CORPO DE SAÚDE DO EXÉRCITO."
+    },
+    {
+      "senadoId": "388474",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-04-19-603",
+      "titulo": "Decreto nº 603 de 19/04/1849",
+      "data": "1849-04-19",
+      "numero": "603",
+      "urn": "urn:lex:br:federal:decreto:1849-04-19;603",
+      "ementa": "ELEVA A QUATROCENTOS MIL RÉIS O ORDENADO DO JUIZ MUNICIPAL E DE ÓRFÃOS DO TERMO DE BRAGANÇA DA SEGUNDA COMARCA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "388451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-25-598",
+      "titulo": "Decreto nº 598 de 25/03/1849",
+      "data": "1849-03-25",
+      "numero": "598",
+      "urn": "urn:lex:br:federal:decreto:1849-03-25;598",
+      "ementa": "ALTERA OS ESTATUTOS DO COLÉGIO DE PEDRO SEGUNDO, NA PARTE RELATIVA AO JULGAMENTO DOS EXAMES; DIVIDE EM DUAS AS CADEIRAS DE HISTÓRIA E GEOGRAFIA; SUBDIVIDE EM DUAS A 2ª DE LATIM; MARCA O VENCIMENTO DOS PROFESSORES; E PROVIDENCIA SOBRE A HORA EM QUE DEVEM ACHAR-SE NO COLÉGIO."
+    },
+    {
+      "senadoId": "388459",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-25-600",
+      "titulo": "Decreto nº 600 de 25/03/1849",
+      "data": "1849-03-25",
+      "numero": "600",
+      "urn": "urn:lex:br:federal:decreto:1849-03-25;600",
+      "ementa": "APROVA O REGULAMENTO PARA A ORGANIZAÇÃO DO CORPO DE OPERÁRIOS ARTISTAS DO ARSENAL DE GUERRA DA CORTE."
+    },
+    {
+      "senadoId": "388445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-24-597",
+      "titulo": "Decreto nº 597 de 24/03/1849",
+      "data": "1849-03-24",
+      "numero": "597",
+      "urn": "urn:lex:br:federal:decreto:1849-03-24;597",
+      "ementa": "APROVA OS ESTATUTOS DO BANCO COMERCIAL DO MARANHÃO, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "388440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-24-596",
+      "titulo": "Decreto nº 596 de 24/03/1849",
+      "data": "1849-03-24",
+      "numero": "596",
+      "urn": "urn:lex:br:federal:decreto:1849-03-24;596",
+      "ementa": "CRIA OS LUGARES DE JUÍZES MUNICIPAIS E DE ÓRFÃOS DOS TERMOS DE SÃO GABRIEL, DE SÃO LEOPOLDO, E DE URUGUAIANA, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL, E MARCA-LHES OS ORDENADOS."
+    },
+    {
+      "senadoId": "388435",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-18-595",
+      "titulo": "Decreto nº 595 de 18/03/1849",
+      "data": "1849-03-18",
+      "numero": "595",
+      "urn": "urn:lex:br:federal:decreto:1849-03-18;595",
+      "ementa": "ESTABELECE A MANEIRA POR QUE SE DEVE PROCEDER NA LIQUIDAÇÃO DAS MULTAS, A QUE FOREM OS RÉUS CONDENADOS, BEM COMO AS REGRAS SOBRE AS FIANÇAS AO PAGAMENTO DELAS, E O MODO DE AS COMUTAR EM OUTRAS PENAS."
+    },
+    {
+      "senadoId": "388430",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-17-594",
+      "titulo": "Decreto nº 594 de 17/03/1849",
+      "data": "1849-03-17",
+      "numero": "594",
+      "urn": "urn:lex:br:federal:decreto:1849-03-17;594",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DO IMPÉRIO A DESPENDER NO CORRENTE EXERCÍCIO, COM AS AJUDAS DE CUSTO DE VOLTA AOS DEPUTADOS DA CAMARA ULTIMAMENTE DISSOLVIDA, A QUANTIA DE 41.200$."
+    },
+    {
+      "senadoId": "388420",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-03-592",
+      "titulo": "Decreto nº 592 de 03/03/1849",
+      "data": "1849-03-03",
+      "numero": "592",
+      "urn": "urn:lex:br:federal:decreto:1849-03-03;592",
+      "ementa": "APROVA A TABELA DO MÁXIMO E DO MÍNIMO DAS AJUDAS DE CUSTO DOS OFICIAIS DO EXÉRCITO, QUE VÃO EM SERVIÇO PARA AS PROVÍNCIAS CENTRAIS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "388415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-03-591",
+      "titulo": "Decreto nº 591 de 03/03/1849",
+      "data": "1849-03-03",
+      "numero": "591",
+      "urn": "urn:lex:br:federal:decreto:1849-03-03;591",
+      "ementa": "ELEVA EM DUZENTOS MIL RÉIS O VENCIMENTO ANUAL DO CARCEREIRO DA CADEIA DA VILA DA BARRA MANSA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "388425",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-03-03-593",
+      "titulo": "Decreto nº 593 de 03/03/1849",
+      "data": "1849-03-03",
+      "numero": "593",
+      "urn": "urn:lex:br:federal:decreto:1849-03-03;593",
+      "ementa": "AUTORIZA, NA FORMA DO ARTIGO 53 DA LEI NÚMERO 514 DE 28 DE OUTUBRO DE 1848, A DESPESA NÃO CONTEMPLADA NA LEI DO ORÇAMENTO, DE CEM CONTO DE RÉIS COM AS FORTIFICAÇÕES DA PROVÍNCIA DE SÃO PEDRO DO SUL."
+    },
+    {
+      "senadoId": "388396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-27-587",
+      "titulo": "Decreto nº 587 de 27/02/1849",
+      "data": "1849-02-27",
+      "numero": "587",
+      "urn": "urn:lex:br:federal:decreto:1849-02-27;587",
+      "ementa": "MANDA OBSERVAR PROVISORIAMENTE NAS ALFÂNDEGAS DO IMPÉRIO O REGULAMENTO PARA OS DESPACHANTES DAS ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "388401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-27-588",
+      "titulo": "Decreto nº 588 de 27/02/1849",
+      "data": "1849-02-27",
+      "numero": "588",
+      "urn": "urn:lex:br:federal:decreto:1849-02-27;588",
+      "ementa": "MANDA OBSERVAR PROVISORIAMENTE NAS ALFÂNDEGAS DO RIO DE JANEIRO E DA BAHIA, O REGULAMENTO SOBRE OS DESPACHOS POR FATURA."
+    },
+    {
+      "senadoId": "388406",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-27-589",
+      "titulo": "Decreto nº 589 de 27/02/1849",
+      "data": "1849-02-27",
+      "numero": "589",
+      "urn": "urn:lex:br:federal:decreto:1849-02-27;589",
+      "ementa": "MANDA OBSERVAR PROVISORIAMENTE NAS ALFÂNDEGAS DO RIO DE JANEIRO E BAHIA O REGULAMENTO SOBRE OS CONSUMOS NAS MESMAS ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "388410",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-27-590",
+      "titulo": "Decreto nº 590 de 27/02/1849",
+      "data": "1849-02-27",
+      "numero": "590",
+      "urn": "urn:lex:br:federal:decreto:1849-02-27;590",
+      "ementa": "MANDA OBSERVAR PROVISORIAMENTE NAS ALFÂNDEGAS DO RIO DE JANEIRO E DA BAHIA O REGULAMENTO SOBRE AS AVARIAS E DANOS NAS MERCADORIAS."
+    },
+    {
+      "senadoId": "388386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-19-585",
+      "titulo": "Decreto nº 585 de 19/02/1849",
+      "data": "1849-02-19",
+      "numero": "585",
+      "urn": "urn:lex:br:federal:decreto:1849-02-19;585",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA DESPENDER MAIS 2.233$000 COMO O JUÍZO DOS FEITOS DA FAZENDA."
+    },
+    {
+      "senadoId": "388381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-19-584",
+      "titulo": "Decreto nº 584 de 19/02/1849",
+      "data": "1849-02-19",
+      "numero": "584",
+      "urn": "urn:lex:br:federal:decreto:1849-02-19;584",
+      "ementa": "DETERMINA QUE OS DELEGADOS E SUBDELEGADOS DOS CHEFES DE POLICIA TENHAM NA PORTA DA CASA DE SUA RESIDENCIA UMA TABOLETA COM AS ARMAS DO IMPERIO, E POSSAM, NOS ATOS DO SEU OFICIO, USAR DE UMA FAXA."
+    },
+    {
+      "senadoId": "388391",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-19-586",
+      "titulo": "Decreto nº 586 de 19/02/1849",
+      "data": "1849-02-19",
+      "numero": "586",
+      "urn": "urn:lex:br:federal:decreto:1849-02-19;586",
+      "ementa": "TRANSFERE PARA A TERRA A ACADEMIA DA MARINHA, E DÁ OS ESTATUTOS, QUE NELA SE DEVEM OBSERVAR."
+    },
+    {
+      "senadoId": "388376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-18-583",
+      "titulo": "Decreto nº 583 de 18/02/1849",
+      "data": "1849-02-18",
+      "numero": "583",
+      "urn": "urn:lex:br:federal:decreto:1849-02-18;583",
+      "ementa": "DECLARA QUE AS CÓPIAS DAS LISTAS PARCIAIS, AO QUE TRATA O ARTIGO 21 DA LEI NÚMERO 387 DE 19 DE AGOSTO DE 1846, DEVERÃO SER EXTRAÍDAS, E REMETIDAS AOS RESPECTIVOS JUÍZES DE PAZ EM EXERCÍCIO DENTRO DO PRAZO DE OITO DIAS."
+    },
+    {
+      "senadoId": "388371",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-17-582",
+      "titulo": "Decreto nº 582 de 17/02/1849",
+      "data": "1849-02-17",
+      "numero": "582",
+      "urn": "urn:lex:br:federal:decreto:1849-02-17;582",
+      "ementa": "AUMENTA O CRÉDITO VOTADO NA PARÁGRAFO 3º DO ARTIGO 4º DA LEI NÚMERO 514 DE  28 DE OUTUBRO DE 1848, PARA DESPESAS EXTRAORDINÁRIAS NO EXTERIOR."
+    },
+    {
+      "senadoId": "388365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-02-10-581",
+      "titulo": "Decreto nº 581 de 10/02/1849",
+      "data": "1849-02-10",
+      "numero": "581",
+      "urn": "urn:lex:br:federal:decreto:1849-02-10;581",
+      "ementa": "REÚNE OS TERMOS DE BAEPENDY E AYURUOCA, DA PROVÍNCIA DE MINAS GERAIS, SOB JURISDIÇÃO DE UM JUIZ MUNICIPAL E DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "388354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-27-579",
+      "titulo": "Decreto nº 579 de 27/01/1849",
+      "data": "1849-01-27",
+      "numero": "579",
+      "urn": "urn:lex:br:federal:decreto:1849-01-27;579",
+      "ementa": "RESOLVE AS DUVIDAS SUSCITADAS A RESPEITO DAS LETRAS, E OUTROS PAPEIS A JUIZO, TENDO PAGO UM SELO MENOR DO QUE O DEVIDO, PARA QUE POSSAM TER EFEITO LEGAL."
+    },
+    {
+      "senadoId": "388359",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-27-580",
+      "titulo": "Decreto nº 580 de 27/01/1849",
+      "data": "1849-01-27",
+      "numero": "580",
+      "urn": "urn:lex:br:federal:decreto:1849-01-27;580",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS E FAZENDA PARA DESPENDER 30.000$000 COM REPOSIÇÕES E RESTITUIÇÕES, NO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "388344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-17-577",
+      "titulo": "Decreto nº 577 de 17/01/1849",
+      "data": "1849-01-17",
+      "numero": "577",
+      "urn": "urn:lex:br:federal:decreto:1849-01-17;577",
+      "ementa": "REVOGA OS ARTIGOS 136 E 137 DO REGULAMENTO NÚMERO 399 DE 21 DE DEZEMBRO DE 1844, NA PARTE SOMENTE EM QUE PRESCREVE A PUBLICAÇÃO DAS LISTAS DA CARTA PELA IMPRENSA."
+    },
+    {
+      "senadoId": "388349",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-17-578",
+      "titulo": "Decreto nº 578 de 17/01/1849",
+      "data": "1849-01-17",
+      "numero": "578",
+      "urn": "urn:lex:br:federal:decreto:1849-01-17;578",
+      "ementa": "AUTORIZA O AUMENTO DE CENTO E TRINTA CONTO DE RÉIS NA QUANTIA MARCADA  NA LEI DO ORÇAMENTO VIGENTE PARA COMPRA DE CAVALOS."
+    },
+    {
+      "senadoId": "388364",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-13-580-a",
+      "titulo": "Decreto nº 580-A de 13/01/1849",
+      "data": "1849-01-13",
+      "numero": "580-a",
+      "urn": "urn:lex:br:federal:decreto:1849-01-13;580-a",
+      "ementa": "FAZ EXTENSIVA AO CORPO DE FUZILEIROS NAVAIS, NA PARTE RESPECTIVA, A TABELA QUE REGULA NO EXÉRCITO A QUALIDADE, PREÇOS, QUANTIDADE, E DURAÇÃO DE DIFERENTES OBJETOS."
+    },
+    {
+      "senadoId": "388343",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-11-576-a",
+      "titulo": "Decreto nº 576-A de 11/01/1849",
+      "data": "1849-01-11",
+      "numero": "576-a",
+      "urn": "urn:lex:br:federal:decreto:1849-01-11;576-a",
+      "ementa": "AUTORIZANDO O PRESIDENTE DA PROVÍNCIA DE PERNAMBUCO PARA CONCEDER ANÍSTIA AOS INDIVÍDUOS COMPREENDIDOS NA REBELIÃO, QUE DEPUSEREM AS ARMAS."
+    },
+    {
+      "senadoId": "388338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-11-576",
+      "titulo": "Decreto nº 576 de 11/01/1849",
+      "data": "1849-01-11",
+      "numero": "576",
+      "urn": "urn:lex:br:federal:decreto:1849-01-11;576",
+      "ementa": "MODIFICA E SUBSTITUE A TABELA DE EMOLUMENTOS CONSULARES MANDADA OBSERVAR PELO DE 11 DE JUNHO DE 1847."
+    },
+    {
+      "senadoId": "388333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-10-575",
+      "titulo": "Decreto nº 575 de 10/01/1849",
+      "data": "1849-01-10",
+      "numero": "575",
+      "urn": "urn:lex:br:federal:decreto:1849-01-10;575",
+      "ementa": "ESTABELECE REGRAS PARA A INCORPORAÇÃO DE QUAISQUER SOCIEDADE ANÔNIMA."
+    },
+    {
+      "senadoId": "388322",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-09-573",
+      "titulo": "Decreto nº 573 de 09/01/1849",
+      "data": "1849-01-09",
+      "numero": "573",
+      "urn": "urn:lex:br:federal:decreto:1849-01-09;573",
+      "ementa": "APROVANDO AS INSTRUÇÕES DESTA DATA PARA A PAGADORIA MILITAR NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE."
+    },
+    {
+      "senadoId": "388327",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-09-574",
+      "titulo": "Decreto nº 574 de 09/01/1849",
+      "data": "1849-01-09",
+      "numero": "574",
+      "urn": "urn:lex:br:federal:decreto:1849-01-09;574",
+      "ementa": "APROVA O NOVO PLANO PARA A ORGANIZAÇÃO DOS CORPOS FIXOS DA PROVINCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "388317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1849-01-09-572",
+      "titulo": "Decreto nº 572 de 09/01/1849",
+      "data": "1849-01-09",
+      "numero": "572",
+      "urn": "urn:lex:br:federal:decreto:1849-01-09;572",
+      "ementa": "ESTABELECENDO AS REGRAS, POR QUE DEVERÃO SER FEITAS, ATÉ ULTERIOR DISPOSIÇÃO LEGISLATIVA, AS PROMOÇÕES NOS DIFERENTES CORPOS DO EXÉRCITO."
+    }
+  ],
+  "pendencias": []
+}

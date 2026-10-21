@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-05-21-13126",
+  "titulo": "Lei nº 13.126 de 21/05/2015",
+  "data": "2015-05-21",
+  "fonte": "https://normas.leg.br/api/public/binario/e5bc4c13-fc30-4ef9-ae6b-0bebc0c4dec9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-05-21;13126",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-05-21%3B13126&tipo_documento=maior-detalhe",
+  "sha256_dados": "fb858a44ccb63853a5feeb6957b6ce36455b743efdfb8ee69088238630ed9ad4",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:31.773Z",
+  "sha256_fonte": "d3c7518081326204e081f468113c25d7e4d16582db1a247c8eaffb73287f4b74",
+  "sha256_markdown": "fca4d9b8d5716299180362b6b0f4ee6ed8e55613e13403278a4366e5f0727f6d"
+}

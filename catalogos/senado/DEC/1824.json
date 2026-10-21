@@ -1,0 +1,639 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1824",
+  "tipo": "DEC",
+  "ano": 1824,
+  "coletado_em": "2026-10-21T08:53:12.442Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "385197",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/12/1824 ( seq-sf: 99 )",
+      "dataassinatura": "30/12/1824",
+      "ementa": "APROVA O EMPRÉSTIMO CONTRAÍDO NA PRAÇA DE LONDRES."
+    },
+    {
+      "id": "385191",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/12/1824 ( seq-sf: 98 )",
+      "dataassinatura": "29/12/1824",
+      "ementa": "DÁ PROVIDÊNCIAS SOBRE A ENTRADA NESTA CÔRTE DE NAVIOS CONDUZINDO ESCRAVOS NOVOS."
+    },
+    {
+      "id": "385184",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/12/1824 ( seq-sf: 97 )",
+      "dataassinatura": "24/12/1824",
+      "ementa": "DISPENSA O LAPSO DE TEMPO PARA QUE SE PROCEDA Á DEVASSA RELATIVAMENTE AO ASSASSINATO DO GOVERNADOR DAS ARMAS DA PROVÍNCIA DA BAHIA, FELISBERTO GOMES CALDEIRA."
+    },
+    {
+      "id": "385176",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/12/1824 ( seq-sf: 96 )",
+      "dataassinatura": "20/12/1824",
+      "ementa": "SUPRIME O LUGAR DE INTENDENTE DA MARINHA DO PORTO DE SANTOS."
+    },
+    {
+      "id": "385170",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/12/1824 ( seq-sf: 95 )",
+      "dataassinatura": "20/12/1824",
+      "ementa": "CONCEDE A JEAN PATEN FILS, ENQUANTO EXERCER O LUGAR DE CONSTRUTOR DIRETOR DAS OBRAS DE CONSTRUÇÃO NO ARSENAL DE MARINHA DA BAHIA, A GRADUAÇÃO DE 1º TENENTE DA ARMADA."
+    },
+    {
+      "id": "385150",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/12/1824 ( seq-sf: 92 )",
+      "dataassinatura": "11/12/1824",
+      "ementa": "MANDA ABONAR AOS OFICIAIS INFERIORES E PRAÇAS DO CORPO DA GUARDA DA POLÍCIA DESTA CÔRTE A GRATIFICAÇÃO DE 40 RÉIS DIÁRIOS, ALÉM DO RESPECTIVO SOLDO."
+    },
+    {
+      "id": "385142",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/12/1824 ( seq-sf: 91 )",
+      "dataassinatura": "10/12/1824",
+      "ementa": "MARCA ORDENADO AO MESTRE DE MÚSICA DAS PRINCESAS IMPERIAIS."
+    },
+    {
+      "id": "385132",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1824 ( seq-sf: 90 )",
+      "dataassinatura": "01/12/1824",
+      "ementa": "DÁ ORGANIZAÇÃO AOS CORPOS DE 1ª E 2ª LINHA DO EXÉRCITO."
+    },
+    {
+      "id": "375423",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1824",
+      "dataassinatura": "01/12/1824",
+      "ementa": "DA ORGANIZAÇÃO AOS CORPOS DE PRIMEIRA E SEGUNDA LINHA DO EXERCITO."
+    },
+    {
+      "id": "385124",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/11/1824 ( seq-sf: 89 )",
+      "dataassinatura": "26/11/1824",
+      "ementa": "DESMEMBRA DA VILA DE CANTAGALO A ALDEIA DE SÃO FIDELIS E DA PEDRA, E INCORPORA NOVAMENTE AO TERMO DA DE SÃO SALVADOR DOS CAMPOS."
+    },
+    {
+      "id": "385115",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/11/1824 ( seq-sf: 88 )",
+      "dataassinatura": "19/11/1824",
+      "ementa": "AUMENTA COM 100$000 O ORDENADO DO PORTEIRO E GUARDA DO MUSEU NACIONAL E IMPERIAL."
+    },
+    {
+      "id": "385096",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/11/1824 ( seq-sf: 86 )",
+      "dataassinatura": "18/11/1824",
+      "ementa": "CONCEDE O MEIO SOLDO ÁS VIÚVAS DOS OFICIAIS FALECIDOS NA REBELIÃO DA BAHIA."
+    },
+    {
+      "id": "385105",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/11/1824 ( seq-sf: 87 )",
+      "dataassinatura": "18/11/1824",
+      "ementa": "CONCEDE AO CORPO DE ARTILHARIA DE SANTA CATARINA MEIO SOLDO DE GRATIFICAÇÃO, ALÉM DO QUE PERCEBEM, DURANTE O TEMPO QUE ESTIVER DESTACADO NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "id": "385077",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/11/1824 ( seq-sf: 84 )",
+      "dataassinatura": "17/11/1824",
+      "ementa": "MANDA ESTABELECER A ACADÊMIA IMPERIAL DAS BELAS ARTES NO EDIFÍCIO CONTÍGUO AO TESOURO PÚBLICO."
+    },
+    {
+      "id": "385087",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/11/1824 ( seq-sf: 85 )",
+      "dataassinatura": "17/11/1824",
+      "ementa": "CONCEDE AO PORTEIRO DA ALFÂNDEGA DA CÔRTE, ALÉM DO ORDENADO QUE JÁ PERCEBE, A GRATIFICAÇÃO ANUAL DE 400$000."
+    },
+    {
+      "id": "385070",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/11/1824 ( seq-sf: 83 )",
+      "dataassinatura": "17/11/1824",
+      "ementa": "ORDENA QUE, ANTES DE COMEÇAR QUALQUER PROCESSO, SE TENTEM OS MEIOS DE RECONCILIAÇÃO."
+    },
+    {
+      "id": "385062",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/11/1824 ( seq-sf: 82 )",
+      "dataassinatura": "16/11/1824",
+      "ementa": "MANDA DISSOLVER O 3º BATALHÃO DE CAÇADORES DA CIDADE DA BAHIA."
+    },
+    {
+      "id": "385054",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/11/1824 ( seq-sf: 81 )",
+      "dataassinatura": "16/11/1824",
+      "ementa": "MANDA CRIAR NA PROVÍNCIA DA BAHIA UMA COMISSÃO MILITAR PARA JULGAMENTO DOS ASSASSINOS DO GOVERNADOR DAS ARMAS DA MESMA PROVÍNCIA, CORONEL FELISBERTO GOMES CALDEIRA."
+    },
+    {
+      "id": "385046",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/11/1824 ( seq-sf: 80 )",
+      "dataassinatura": "15/11/1824",
+      "ementa": "CONCEDE A TODOS OS CORPOS DE 1ª E 2ª LINHA DO EXÉRCITO REUNIDOS NA BARRA GRANDE, NA PROVÍNCIA DE PERNAMBUCO, A INSIGNIA DOS CAVALEIROS DA IMPERIAL ORDEM DO CRUZEIRO."
+    },
+    {
+      "id": "385035",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/11/1824 ( seq-sf: 79 )",
+      "dataassinatura": "13/11/1824",
+      "ementa": "CRIA UM BATALHÃO DE GRANADEIROS ESTRANGEIROS COM A ORGANIZAÇÃO DE OUTRO JÁ EXISTENTE."
+    },
+    {
+      "id": "385026",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/11/1824 ( seq-sf: 78 )",
+      "dataassinatura": "09/11/1824",
+      "ementa": "CRIA UM DEPARTAMENTO DO COMISSARIADO DO EXERCITO, NA PROVINCIA DA CISPLATINA."
+    },
+    {
+      "id": "385007",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/11/1824 ( seq-sf: 76 )",
+      "dataassinatura": "04/11/1824",
+      "ementa": "DÁ NOVA FORMA AOS CORPOS DE 2ª LINHA."
+    },
+    {
+      "id": "375422",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/11/1824",
+      "dataassinatura": "04/11/1824",
+      "ementa": "DA NOVA FORMA AOS CORPOS DE SEGUNDA LINHA."
+    },
+    {
+      "id": "385016",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/11/1824 ( seq-sf: 77 )",
+      "dataassinatura": "04/11/1824",
+      "ementa": "DÁ UNIFORME AOS PRIMEIROS E SEGUNDOS BATALHÕES DE CAÇADORES ESTRANGEIROS."
+    },
+    {
+      "id": "384995",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/10/1824 ( seq-sf: 75 )",
+      "dataassinatura": "29/10/1824",
+      "ementa": "CONCEDE A VALENTIM JOSÉ, MESTRE CONSTRUTOR DO ARSENAL DE MARINHA DO PARÁ, A GRADUAÇÃO DE PRIMEIRO TENENTE DA ARMADA."
+    },
+    {
+      "id": "384949",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/10/1824 ( seq-sf: 71 )",
+      "dataassinatura": "20/10/1824",
+      "ementa": "AUTORIZA O BRIGADEIRO COMANDANTE DO EXÉRCITO COPERADOR DA BOA ORDEM PARA CONCEDER UMA MEDALHA DE DISTINÇÃO AOS MAIS BRAVOS INDIVÍDUOS DO MESMO EXÉRCITO."
+    },
+    {
+      "id": "384961",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/10/1824 ( seq-sf: 72 )",
+      "dataassinatura": "20/10/1824",
+      "ementa": "CONCEDE UMA MEDALHA DE DISTINÇÃO AO EXERCITO COPERADOR DA BOA ORDEM NA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "id": "384925",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/10/1824 ( seq-sf: 69 )",
+      "dataassinatura": "13/10/1824",
+      "ementa": "MANDA QUE OS TRÊS BATALHÕES DE ESTRANGEIROS TENHAM, UMA DENOMINAÇÃO DE BATALHÃO ESTRANGEIRO DE GRANADEIROS E OS OUTROS DOIS DE BATALHÃO ESTRANGEIRO DE CAÇADORES."
+    },
+    {
+      "id": "384900",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/10/1824 ( seq-sf: 67 )",
+      "dataassinatura": "05/10/1824",
+      "ementa": "MANDA SUSPENDER PARA A PROVÍNCIA DO CEARÁ AS FORMALIDADES DO PARAGRAFO 8 DO ARTIGO 179 DA CONSTITUIÇÃO, E CRIA UMA COMISSÃO MILITAR NA MESMA PROVÍNCIA."
+    },
+    {
+      "id": "384886",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/09/1824 ( seq-sf: 66 )",
+      "dataassinatura": "23/09/1824",
+      "ementa": "DECLARA QUE A PROPRIEDADE DO DIÁRIO FLUMINENSE FICA PERTENCENDO EXCLUSIVAMENTE Á SECRETARIA DE ESTADO DOS NEGÓCIOS ESTRANGEIROS."
+    },
+    {
+      "id": "384872",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/09/1824 ( seq-sf: 65 )",
+      "dataassinatura": "18/09/1824",
+      "ementa": "SOBRE A DIVISÃO DOS EMOLUMENTOS DOS EMPREGADOS DAS SECRETARIAS DA GUERRA E DE ESTRANGEIROS."
+    },
+    {
+      "id": "384860",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/09/1824 ( seq-sf: 64 )",
+      "dataassinatura": "17/09/1824",
+      "ementa": "MANDA APLICAR ÁS MINAS QUE SE DESCOBRIREM OS REGULAMENTOS E ORDENS ANTIGAS POR QUE SE REGEM AS PROVÍNCIAS ORA MINEIRAS."
+    },
+    {
+      "id": "384846",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/09/1824 ( seq-sf: 63 )",
+      "dataassinatura": "16/09/1824",
+      "ementa": "CONCEDE A EDUARDO OXENFORD AUTORIZAÇÃO PARA FUNDAR UM ESTABELECIMENTO DE MINERAÇÃO DE OURO E OUTROS METAIS PRECIOSOS NESTE IMPÉRIO."
+    },
+    {
+      "id": "384834",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/09/1824 ( seq-sf: 62 )",
+      "dataassinatura": "15/09/1824",
+      "ementa": "CONCEDE AO TEATRO, QUE O CORONEL FERNANDO JOSÉ DE ALMEIDA ESTÁ REEDIFICANDO NESTA CIDADE, O TÍTULO DE IMPERIAL TEATRO DE SÃO PEDRO DE ALCÂNTARA."
+    },
+    {
+      "id": "384820",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 14/09/1824 ( seq-sf: 61 )",
+      "dataassinatura": "14/09/1824",
+      "ementa": "DECLARA QUE OS EMOLUMENTOS DA SECRETARIA DA COMPANHIA E ACADÊMIA NACIONAL E IMPERIAL DOS GUARDAS-MARINHA FICAM PERTENCENDO AO RESPECTIVO SECRETÁRIO."
+    },
+    {
+      "id": "384807",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/09/1824 ( seq-sf: 60 )",
+      "dataassinatura": "10/09/1824",
+      "ementa": "MANDA JULGAR NESTA CÔRTE OS PRESOS REMETIDOS DA BAHIA, COMPROMETIDOS NA REBELIÃO DE PERNAMBUCO."
+    },
+    {
+      "id": "384796",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/09/1824 ( seq-sf: 59 )",
+      "dataassinatura": "03/09/1824",
+      "ementa": "APROVA A TABELA PARA A DISTRIBUIÇÃO DO ARMAMENTO, PETRECHOS E UTENSIS AOS DIFERENTES CORPOS DO EXÉRCITO."
+    },
+    {
+      "id": "384784",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/08/1824 ( seq-sf: 58 )",
+      "dataassinatura": "28/08/1824",
+      "ementa": "DETERMINA QUE A COMPANHIA DE ARTILHARIA DE 1ª LINHA DOS DISTRITOS DA ILHA GRANDE E PARATI TENHA O MESMO NÚMERO DE PRAÇAS QUE O REGIMENTO DE ARTILHARIA DA CÔRTE."
+    },
+    {
+      "id": "384771",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/08/1824 ( seq-sf: 57 )",
+      "dataassinatura": "26/08/1824",
+      "ementa": "SOBRE A CONCESSÃO DE LOTERIAS E OUTROS FAVORES PARA REEDIFICAÇÃO DO TEATRO DESTA CAPITAL."
+    },
+    {
+      "id": "384760",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 25/08/1824 ( seq-sf: 56 )",
+      "dataassinatura": "25/08/1824",
+      "ementa": "ELEVA A 4:000$000 ANUAIS O ORDENADO DO ENCARREGADO DE NEGÓCIOS EM FRANÇA."
+    },
+    {
+      "id": "384747",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/08/1824 ( seq-sf: 55 )",
+      "dataassinatura": "21/08/1824",
+      "ementa": "MARCA PROVISORIAMENTE OS VENCIMENTOS DOS EMPREGADOS DA BIBLIOTECA IMPERIAL E PÚBLICA."
+    },
+    {
+      "id": "384733",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/08/1824 ( seq-sf: 54 )",
+      "dataassinatura": "17/08/1824",
+      "ementa": "APROVA O FIGURINO PARA UNIFORME DAS BRIGADAS DE ARTILHARIA A CAVALO DA CÔRTE."
+    },
+    {
+      "id": "384717",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/08/1824 ( seq-sf: 53 )",
+      "dataassinatura": "13/08/1824",
+      "ementa": "CONCEDE AO BRIGADEIRO MARTINIANO JOSÉ DE ANDRADE E SILVA PRIVILÉGIO POR 14 ANOS PARA A IMPRESSÃO DO SISTEMA DE SINAIS TELEGRÁFICOS, DE SUA PROPRIEDADE."
+    },
+    {
+      "id": "384702",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/08/1824 ( seq-sf: 52 )",
+      "dataassinatura": "09/08/1824",
+      "ementa": "REVOGA O DECRETO DE 31 DE OUTUBRO DE 1821, SOBRE O PAGAMENTO DE PENSÕES."
+    },
+    {
+      "id": "384686",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/08/1824 ( seq-sf: 51 )",
+      "dataassinatura": "07/08/1824",
+      "ementa": "CRIA O LUGAR DE CAPELÃO-MÓR DO EXÉRCITO."
+    },
+    {
+      "id": "384671",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/07/1824 ( seq-sf: 50 )",
+      "dataassinatura": "30/07/1824",
+      "ementa": "CONCEDE AOS OFICIAIS DE ARTILHARIA DA MARINHA, QUANDO EMBARCADOS, AS MESMAS MAIORIAS DOS OFICIAIS DA ARMADA NACIONAL E IMPERIAL DE IGUAL GRADUAÇÃO."
+    },
+    {
+      "id": "384638",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/07/1824 ( seq-sf: 48 )",
+      "dataassinatura": "27/07/1824",
+      "ementa": "SOBRE OS VENCIMENTOS DO MARQUES DO MARANHÃO COMO PRIMEIRO ALMIRANTE, COMANDANTE EM CHEFE DAS FORÇAS NAVAIS DO IMPÉRIO."
+    },
+    {
+      "id": "384603",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/07/1824 ( seq-sf: 46 )",
+      "dataassinatura": "26/07/1824",
+      "ementa": "MANDA PROCESSAR SUMARIAMENTE, EM COMISSÃO MILITAR, OS CHEFES E CABEÇAS DA FACÇÃO DE MANOEL DE CARVALHO PAES DE ANDRADE, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "id": "384584",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/07/1824 ( seq-sf: 45 )",
+      "dataassinatura": "26/07/1824",
+      "ementa": "CONCEDE Á TERCEIRA BRIGADA DO EXÉRCITO, DURANTE O TEMPO DO SEU DESTACAMENTO, MAIS MEIO SOLDO DE GRATIFICAÇÃO."
+    },
+    {
+      "id": "384620",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/07/1824 ( seq-sf: 47 )",
+      "dataassinatura": "26/07/1824",
+      "ementa": "MANDA SUSPENDER PROVISORIAMENTE, PARA A PROVÍNCIA DE PERNAMBUCO, AS DISPOSIÇÕES DO PARAGRAFO DO ARTIGO 179 DA CONSTITUIÇÃO POLÍTICA DO IMPÉRIO."
+    },
+    {
+      "id": "384564",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/07/1824 ( seq-sf: 44 )",
+      "dataassinatura": "26/07/1824",
+      "ementa": "CONCEDE ÁS VIÚVAS DOS OFICIAIS E MAIS PRAÇAS DA EXPEDIÇÃO DE PERNAMBUCO METADE DO SOLDO DE SEUS MARIDOS."
+    },
+    {
+      "id": "384543",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 19/07/1824 ( seq-sf: 43 )",
+      "dataassinatura": "19/07/1824",
+      "ementa": "MANDA QUE DO CORPO DE CAVALARIA DE ORDENAÇAS DA COMARCA DO RIO DE SÃO FRANCISCO SE ORGANIZA E UM REGIMENTO DE CAVALARIA DE 2ª LINHA."
+    },
+    {
+      "id": "384523",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/07/1824 ( seq-sf: 42 )",
+      "dataassinatura": "10/07/1824",
+      "ementa": "CRIA EM CADA UM DOS DOIS BATALHÕES DE CAÇADORES DE SÃO PAULO UM CONSELHO DE ADMINISTRAÇÃO PARA A CAIXA DE FUNDOS DE FARDAMENTOS."
+    },
+    {
+      "id": "384477",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/07/1824 ( seq-sf: 40 )",
+      "dataassinatura": "07/07/1824",
+      "ementa": "DESLIGA PROVISORIAMENTE DA PROVÍNCIA DE PERNAMBUCO E INCORPORA Á DE MINAS GERAIS A COMARCA DO RIO DE SÃO FRANCISCO."
+    },
+    {
+      "id": "384499",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 07/07/1824 ( seq-sf: 41 )",
+      "dataassinatura": "07/07/1824",
+      "ementa": "ELEVA PROVISORIAMENTE A 200:000$000 A DOTAÇÃO DE SUA MAGESTADE O IMPERADOR."
+    },
+    {
+      "id": "384431",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/1824 ( seq-sf: 38 )",
+      "dataassinatura": "22/06/1824",
+      "ementa": "FAZ EXTENSIVO AOS DESERTORES DO BATALHÃO DE ARTILHARIA DE MARINHA O PERDÃO CONCEDIDO AOS DO EXÉRCITO."
+    },
+    {
+      "id": "384401",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/06/1824 ( seq-sf: 37 )",
+      "dataassinatura": "21/06/1824",
+      "ementa": "ORDENA QUE VOLTEM AO SERVIÇO DO EXÉRCITO TODOS OS QUE OBTIVERAM ESCUSA SEM SER POR CONCLUSÃO DO TEMPO DA LEI OU POR CANSADOS E AVANÇADOS EM IDADE."
+    },
+    {
+      "id": "384339",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/06/1824 ( seq-sf: 35 )",
+      "dataassinatura": "15/06/1824",
+      "ementa": "DIVIDE O REGIMENTO DE PRIMEIRA LINHA DA PROVÍNCIA DE SÃO PAULO EM DOIS BATALHÕES DE CAÇADORES."
+    },
+    {
+      "id": "384370",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/06/1824 ( seq-sf: 36 )",
+      "dataassinatura": "15/06/1824",
+      "ementa": "CONCEDE PERDÃO A TODOS OS DESERTORES QUE SE ACHAREM CUMPRINDO SENTENÇAS."
+    },
+    {
+      "id": "375421",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/06/1824",
+      "dataassinatura": "15/06/1824",
+      "ementa": "DIVIDE O REGIMENTO DE PRIMEIRA LINHA DA PROVINCIA DE SÃO PAULO EM DOIS BATALHÕES DE CAÇADORES."
+    },
+    {
+      "id": "384308",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/06/1824 ( seq-sf: 34 )",
+      "dataassinatura": "11/06/1824",
+      "ementa": "CONCEDE VANTAGENS PECUNIÁRIAS AOS MARINHEIROS ESTRANGEIROS QUE SE EMPREGAREM NO SERVIÇO DO IMPÉRIO."
+    },
+    {
+      "id": "384278",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/06/1824 ( seq-sf: 33 )",
+      "dataassinatura": "05/06/1824",
+      "ementa": "PERDOA A TODOS OS DESERTORES QUE SE APRESENTAREM AOS SEUS CORPOS EM DETERMINADO PRAZO."
+    },
+    {
+      "id": "384214",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/06/1824 ( seq-sf: 31 )",
+      "dataassinatura": "02/06/1824",
+      "ementa": "MANDA ESTABELECER NA PROVÍNCIA DE SANTA CATARINA UM LABORATÓRIO MILITAR."
+    },
+    {
+      "id": "384246",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/06/1824 ( seq-sf: 32 )",
+      "dataassinatura": "02/06/1824",
+      "ementa": "NOMEIA UM OFICIAL DE ARTILHARIA PARA DIRIGIR OS TRABALHOS DO LABORATÓRIO MILITAR DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "id": "384102",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/04/1824 ( seq-sf: 28 )",
+      "dataassinatura": "29/04/1824",
+      "ementa": "CRIA UM COMANDANTE PARA AS DIVISÕES MILITARES DO RIO DOCE."
+    },
+    {
+      "id": "384052",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/04/1824 ( seq-sf: 27 )",
+      "dataassinatura": "29/04/1824",
+      "ementa": "CRIA NO ESQUADRÃO DE CAVALARIA DE LINHA DA PROVÍNCIA DE SÃO PAULO UM CONSELHO DE ADMINISTRAÇÃO PARA A CAIXA DE FUNDO DE FARDAMENTOS."
+    },
+    {
+      "id": "383996",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/04/1824 ( seq-sf: 26 )",
+      "dataassinatura": "24/04/1824",
+      "ementa": "NOMEIA PARA PRESIDENTE DA PROVÍNCIA DE PERNAMBUCO PESSOA ESTRANHA AOS PARTIDOS EM LUTA NA MESMA PROVÍNCIA."
+    },
+    {
+      "id": "383937",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/04/1824 ( seq-sf: 25 )",
+      "dataassinatura": "20/04/1824",
+      "ementa": "MANDA ABONAR SUBSÍDIOS PELO TEMPO DE DOIS ANOS AOS COLONOS ALEMÃES QUE SE FOREM ESTABELECER EM NOVA FRIBURGO."
+    },
+    {
+      "id": "591048",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/04/1824 ( seq-sf: 24 )",
+      "dataassinatura": "17/04/1824",
+      "ementa": "DÁ PROVIDÊNCIAS SOBRE O PROCESSO DAS CAUSAS CRIMES."
+    },
+    {
+      "id": "383932",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/03/1824 ( seq-sf: 23 )",
+      "dataassinatura": "30/03/1824",
+      "ementa": "MANDA PAGAR OS EXEMPLARES DE OBRAS REMETIDAS A SUA MAGESTADE O IMPERADOR E AOS CONSELHEIROS DE ESTADO PELOS PROPRIETÁRIOS DE TIPOGRAFICAS DA CÔRTE."
+    },
+    {
+      "id": "383850",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/03/1824 ( seq-sf: 22 )",
+      "dataassinatura": "26/03/1824",
+      "ementa": "MANDA PROCEDER Á ELEIÇÃO DOS DEPUTADOS E SENADORES DA ASSEMBLÉIA GERAL LEGISLATIVA E DOS MEMBROS DOS CONSELHOS GERAIS DA PROVÍNCIAS."
+    },
+    {
+      "id": "591501",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/03/1824 ( seq-sf: 21 )",
+      "dataassinatura": "23/03/1824",
+      "ementa": "CRIA NO REGIMENTO DE CAÇADORES DA PROVÍNCIA DE SÃO PAULO UM CONSELHO DE ADMINISTRAÇÃO PARA A CAIXA DE FUNDOS DE FARDAMENTOS."
+    },
+    {
+      "id": "383703",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/03/1824 ( seq-sf: 19 )",
+      "dataassinatura": "16/03/1824",
+      "ementa": "DECLARA SEM EFEITO O DECRETO DE 27 DE FEVEREIRO PRÓXIMO PASSADO MANDANDO SUPRIR AS NULIDADES CONSTANTES DA ÚLTIMA DEVASSA A QUE SE PROCEDEU NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "id": "591411",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 16/03/1824 ( seq-sf: 20 )",
+      "dataassinatura": "16/03/1824",
+      "ementa": "MANDA SUBSTITUIR AS CARTAS DE CONSELHO PASSADAS POR EL-REI DE PORTUGAL."
+    },
+    {
+      "id": "581230",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 13/03/1824 ( seq-sf: 18 )",
+      "dataassinatura": "13/03/1824",
+      "ementa": "DETERMINA QUE NÃO SE PASSEM PATENTES DE GRADUAÇÕES MILITARES AOS EMPREGADOS CIVIS DAS DIVERSAS REPARTIÇÕES DA GUERRA, QUE TERÃO DIREITO SOMENTE AO USO DA FARDA DO ESTADO-MAIOR."
+    },
+    {
+      "id": "383586",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 11/03/1824 ( seq-sf: 17 )",
+      "dataassinatura": "11/03/1824",
+      "ementa": "MANDA JURAR O PROJETO DA CONSTITUIÇÃO POLÍTICA DO IMPÉRIO, E DESIGNA PARA ESTA SOLENIDADE O DIA 25 DO CORRENTE MÊS."
+    },
+    {
+      "id": "581520",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/03/1824 ( seq-sf: 16 )",
+      "dataassinatura": "06/03/1824",
+      "ementa": "MANDA PROCEDER NESTA CÔRTE A DEVASSA SOBRE VÁRIAS PROCLAMAÇÕES, PASQUINS E MAIS PAPÉIS TENDENTES A PERTUBAR A ORDEM PÚBLICA."
+    },
+    {
+      "id": "575055",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 27/02/1824 ( seq-sf: 14 )",
+      "dataassinatura": "27/02/1824",
+      "ementa": "SUPRE NULIDADES INSANÁVEIS NA DEVASSA A QUE ULTIMAMENTE SE PROCEDEU NA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "id": "580692",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/02/1824 ( seq-sf: 13 )",
+      "dataassinatura": "24/02/1824",
+      "ementa": "FAZ EXTENSIVAS AOS OFICIAIS DA ARMADA E BATALHÃO DE ARTILHARIA DE MARINHA AS DISPOSIÇÕES QUE REGULAM A EXPEDIÇÃO DAS PATENTES DOS OFICIAIS DO EXÉRCITO."
+    },
+    {
+      "id": "575812",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/02/1824 ( seq-sf: 11 )",
+      "dataassinatura": "21/02/1824",
+      "ementa": "DÁ PROVIDÊNCIAS RELATIVAMENTE AO PROCESSO E SENTENÇA DE PRESAS."
+    },
+    {
+      "id": "576876",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/02/1824 ( seq-sf: 12 )",
+      "dataassinatura": "21/02/1824",
+      "ementa": "SUPRIME O LUGAR DE QUARTEL-MESTRE GENERAL."
+    },
+    {
+      "id": "576500",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 20/02/1824 ( seq-sf: 10 )",
+      "dataassinatura": "20/02/1824",
+      "ementa": "REORGANIZA A REPARTIÇÃO DO QUARTEL-GENERAL DA CÔRTE."
+    },
+    {
+      "id": "575266",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/02/1824 ( seq-sf: 9 )",
+      "dataassinatura": "09/02/1824",
+      "ementa": "MANDA SUBSTITUIR AS PATENTES DOS OFICIAIS DA ARMADA E DA ARTILHARIA DA MARINHA ASSINADAS POR EL-REI DE PORTUGAL."
+    },
+    {
+      "id": "382293",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/01/1824 ( seq-sf: 8 )",
+      "dataassinatura": "28/01/1824",
+      "ementa": "MANDA SUPRIR PELO TESOURO AS DESPESAS COM O ALDEIAMENTO E CIVILIZAÇÃO DOS ÍNDIOS BETECUDOS DO RIO DOCE, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "id": "382120",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/01/1824 ( seq-sf: 7 )",
+      "dataassinatura": "21/01/1824",
+      "ementa": "MARCA O ORDENADO DO ENCARREGADO DE NEGÓCIOS NOS ESTADOS UNIDOS."
+    },
+    {
+      "id": "587526",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/01/1824 ( seq-sf: 6 )",
+      "dataassinatura": "21/01/1824",
+      "ementa": "MANDA PROPOR E JULGAR NA CASA DA SUPLICAÇÃO DO RIO DE JANEIRO A DEVASSA PROCESSADA NO PARA PELOS ACONTECIMENTOS DE 15 E 16 DE OUTUBRO DE 1823."
+    },
+    {
+      "id": "583083",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/01/1824 ( seq-sf: 5 )",
+      "dataassinatura": "18/01/1824",
+      "ementa": "MANDA PASSAR CARTA DE SERVENTIA VITALÍCIA AO PORTEIRO E CONTÍNUOS DA COMISSÃO MISTA SOBRE O TRÁFICO ILÍCITO DE ESCRAVOS."
+    },
+    {
+      "id": "592507",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/01/1824 ( seq-sf: 4 )",
+      "dataassinatura": "12/01/1824",
+      "ementa": "MANDA SUBSTITUIR AS PATENTES DOS OFICIAIS DO EXÉRCITO NACIONAL, ASSINADAS POR EL-REI DE PORTUGAL."
+    },
+    {
+      "id": "571378",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/01/1824 ( seq-sf: 3 )",
+      "dataassinatura": "08/01/1824",
+      "ementa": "MARCA OS ORDENADOS DOS DOIS PLENIPOTENCIÁRIOS NOMEADOS PARA IMPORTANTES COMISSÕES NA CÔRTE DE LONDRES."
+    },
+    {
+      "id": "587224",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/01/1824 ( seq-sf: 2 )",
+      "dataassinatura": "05/01/1824",
+      "ementa": "MANDA CONTRAIR NA EUROPA UM EMPRÉSTIMO DE TRÊS MILHÕES DE LIBRAS ESTERLINAS."
+    }
+  ]
+}

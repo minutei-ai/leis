@@ -1,0 +1,1479 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1886",
+  "tipo": "DEC",
+  "ano": 1886,
+  "coletado_em": "2026-10-21T08:52:03.313Z",
+  "normas": [
+    {
+      "senadoId": "417101",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-31-9691",
+      "titulo": "Decreto nº 9.691 de 31/12/1886",
+      "data": "1886-12-31",
+      "numero": "9691",
+      "urn": "urn:lex:br:federal:decreto:1886-12-31;9691",
+      "ementa": "PRORROGA DE NOVO OS PRAZOS A QUE SE REFEREM AS CLAUSULAS 18 E 21 DAS BAIXARAM COM O DECRETO 9509 DE 17 DE OUTUBRO DE 1885."
+    },
+    {
+      "senadoId": "417107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-31-9692-a",
+      "titulo": "Decreto nº 9.692-A de 31/12/1886",
+      "data": "1886-12-31",
+      "numero": "9692-a",
+      "urn": "urn:lex:br:federal:decreto:1886-12-31;9692-a",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A THOMAZ LARANGEIRA PARA COLHER ERVA MATE NA PROVINCIA DE MATO GROSSSO."
+    },
+    {
+      "senadoId": "417104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-31-9692",
+      "titulo": "Decreto nº 9.692 de 31/12/1886",
+      "data": "1886-12-31",
+      "numero": "9692",
+      "urn": "urn:lex:br:federal:decreto:1886-12-31;9692",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA AGRICOLA E COLONIZADORA DE PADUA."
+    },
+    {
+      "senadoId": "417095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-24-9689",
+      "titulo": "Decreto nº 9.689 de 24/12/1886",
+      "data": "1886-12-24",
+      "numero": "9689",
+      "urn": "urn:lex:br:federal:decreto:1886-12-24;9689",
+      "ementa": "NÃO APROVA OS ESTUDOS PRELIMINARES APRESENTADOS PELA D.PEDRO I RAILWAY COMPANY, LIMITED, E DECLARA CADUCA A CONCESSÃO FEITA Á MESMA COMPANHIA PELO DECRETO NÚMERO 8842 DE 13 DE JANEIRO DE 1883."
+    },
+    {
+      "senadoId": "417092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-24-9688",
+      "titulo": "Decreto nº 9.688 de 24/12/1886",
+      "data": "1886-12-24",
+      "numero": "9688",
+      "urn": "urn:lex:br:federal:decreto:1886-12-24;9688",
+      "ementa": "APROVA O NOVO REGULAMENTO PARA A INSPEÇÃO DO SERVIÇO DA ILUMINAÇÃO DA CIDADE DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "417098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-24-9690",
+      "titulo": "Decreto nº 9.690 de 24/12/1886",
+      "data": "1886-12-24",
+      "numero": "9690",
+      "urn": "urn:lex:br:federal:decreto:1886-12-24;9690",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 8769, DE 18 DE NOVEMBRO DE 1882, QUE CONCEDEU PERMISSÃO A TERTULIANO DE ARAUJO GOIAS PARA EXPLORAR MINERAIS NA PROVÍNCIA  DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "417089",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-18-9687",
+      "titulo": "Decreto nº 9.687 de 18/12/1886",
+      "data": "1886-12-18",
+      "numero": "9687",
+      "urn": "urn:lex:br:federal:decreto:1886-12-18;9687",
+      "ementa": "APROVA O PROJETO DE REFORMA DOS ESTATUTOS DO BANCO DE CREDITO REAL DE SÃO PAULO."
+    },
+    {
+      "senadoId": "417086",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-11-9686",
+      "titulo": "Decreto nº 9.686 de 11/12/1886",
+      "data": "1886-12-11",
+      "numero": "9686",
+      "urn": "urn:lex:br:federal:decreto:1886-12-11;9686",
+      "ementa": "TRANSFERE Á COMPANHIA DAS MINAS DO ASSURUÁ AS CONCESSÕES FEITAS POR DECRETOS NÚMEROS 2238 DE 28 DE AGOSTO DE 1858 E 8251 DE 03 DE SETEMBRO DE 1881 A COMPANHIA METALURGICA DO ASSURUÁ E A ANTONIO FERNANDES DA COSTA GUIMARÃES PARA LAVRAR OURO E OUTROS MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "417083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-12-04-9685",
+      "titulo": "Decreto nº 9.685 de 04/12/1886",
+      "data": "1886-12-04",
+      "numero": "9685",
+      "urn": "urn:lex:br:federal:decreto:1886-12-04;9685",
+      "ementa": "REVOGA O DECRETO NÚMERO 9640 DE 11 DE SETEMBRO DE 1886 E FIXA O PRAZO DENTRO DO QUAL DEVERÃO ESTAR CONCLUÍDAS TODAS AS OBRAS DOS ENGENHOS  CENTRAIS DAS POVINCIAS DO PARAÍBA DO NORTE E SERGIPE."
+    },
+    {
+      "senadoId": "417077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-30-9683",
+      "titulo": "Decreto nº 9.683 de 30/11/1886",
+      "data": "1886-11-30",
+      "numero": "9683",
+      "urn": "urn:lex:br:federal:decreto:1886-11-30;9683",
+      "ementa": "MANDA SUBSTITUIR NO ANO DE 1887 A DESIGNAÇÃO FEITA NO DECRETO NÚMERO 9524 DE 28 DE NOVEMBRO DE 1885 QUANTO Á ORDEM EM QUE OS JUÍZES SUBSTITUTOS DA CORTE DEVEM COOPERAR COM OS JUÍZES DE DIREITO E SUBSTITUIR-SE RECIPROCAMENTE."
+    },
+    {
+      "senadoId": "417080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-30-9684",
+      "titulo": "Decreto nº 9.684 de 30/11/1886",
+      "data": "1886-11-30",
+      "numero": "9684",
+      "urn": "urn:lex:br:federal:decreto:1886-11-30;9684",
+      "ementa": "MANDA SUBSTITUIR NO ANO DE 1887 A DESIGANAÇÃO FEITA NO DECRETO NÚMERO 9523 DE 28 E NOVEMBRO DE 1885 QUANTO Á ORDEM DA SUBSTITUIÇÃO RECIPROCA DOS JUÍZES DE DIREITO DA CÔRTE."
+    },
+    {
+      "senadoId": "417074",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-29-9682",
+      "titulo": "Decreto nº 9.682 de 29/11/1886",
+      "data": "1886-11-29",
+      "numero": "9682",
+      "urn": "urn:lex:br:federal:decreto:1886-11-29;9682",
+      "ementa": "ABRE AO MINSTÉRIO DO IMPÉRIO UM CRÉDITO EXTRAORDINÁRIO DE 500:000$000."
+    },
+    {
+      "senadoId": "417071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-27-9681",
+      "titulo": "Decreto nº 9.681 de 27/11/1886",
+      "data": "1886-11-27",
+      "numero": "9681",
+      "urn": "urn:lex:br:federal:decreto:1886-11-27;9681",
+      "ementa": "EXPLICA A DISPOSIÇÃO DO ARTIGO 3º DO DECRETO NÚMERO 9263 DE 16 DE AGOSTO DE 1884, QUE ALTEROU AS DOS REGULAMENTOS DO MONTEPIO GERAL DE ECONOMIA DOS SERVIDORES DO ESTADO."
+    },
+    {
+      "senadoId": "417059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-20-9677",
+      "titulo": "Decreto nº 9.677 de 20/11/1886",
+      "data": "1886-11-20",
+      "numero": "9677",
+      "urn": "urn:lex:br:federal:decreto:1886-11-20;9677",
+      "ementa": "CONCEDE Á THE CLOBE MARINE INSURANCE COMPANY, LIMITED, AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "417062",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-20-9678",
+      "titulo": "Decreto nº 9.678 de 20/11/1886",
+      "data": "1886-11-20",
+      "numero": "9678",
+      "urn": "urn:lex:br:federal:decreto:1886-11-20;9678",
+      "ementa": "CONCEDE AUTORIZAÇÃO A LION TIRE INSURANCE COMPANY, LIMITED, AUTORIZAÇÃO PARA ESTABELECER UMA AGÊNCIA NA CIDADE DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "417068",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-20-9680",
+      "titulo": "Decreto nº 9.680 de 20/11/1886",
+      "data": "1886-11-20",
+      "numero": "9680",
+      "urn": "urn:lex:br:federal:decreto:1886-11-20;9680",
+      "ementa": "APROVA AS CLÁUSULAS PARA O SERVIÇO DA NAVEGAÇÃO POR VAPOR NOS RIOS TOCANTIS, ARAGUAIA E VERMELHO."
+    },
+    {
+      "senadoId": "417065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-20-9679",
+      "titulo": "Decreto nº 9.679 de 20/11/1886",
+      "data": "1886-11-20",
+      "numero": "9679",
+      "urn": "urn:lex:br:federal:decreto:1886-11-20;9679",
+      "ementa": "PRORROGA POR UM ANO O PRAZO PARA ORGANIZAÇÃO DA COMPANHIA, RELATIVA AO ESTABELECIMENTO DE UM ENGENHO CENTRAL A QUE, POR DECRETO NÚMERO 9476 DE  01 DE AGOSTO DE 1885, FORAM CONCEDIDOS OS FAVORES MENCIONADOS NOS §§ 2º, 3º E 5º DO ARTIGO 6º DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8357, DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "417056",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-20-9676",
+      "titulo": "Decreto nº 9.676 de 20/11/1886",
+      "data": "1886-11-20",
+      "numero": "9676",
+      "urn": "urn:lex:br:federal:decreto:1886-11-20;9676",
+      "ementa": "CRIA NA CIDADE DE PELOTAS UMA DELEGACIA DA CAPITANIA DO PORTO DA PROVINCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "417051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-09-9674",
+      "titulo": "Decreto nº 9.674 de 09/11/1886",
+      "data": "1886-11-09",
+      "numero": "9674",
+      "urn": "urn:lex:br:federal:decreto:1886-11-09;9674",
+      "ementa": "PRORROGA O PRAZO FIXADO PARA A CONCLUSÃO DOS ENGENHOS CENTRAIS CONTRATADOS PELA COMPANHIA NORTH BRASILIAN SUGAR FACTORIES, LIMITED, NOS MUNICÍPIOS DE SÃO LORENÇO DA MATA E PAU D'ALHO, PROVÍNCIA DE PERNAMBUCO, DE SÃO JOSÉ DE MIPIBÚ, PROVÍNCIA DO RIO GRANDE DO NORTE, E RESTABELECE AS CONCESSÕES FEITAS A MESMA COMAPANHIA PARTA A FUNDAÇÃO DE DOIS ENTENHOS CENTRAIS NOS MUNICÍPIOS DE CEARÁ MIRIM, PROVÍNCIA DO RIO GRANDE DO NORTE, E DE NAZARETH, PROVÍNCIA DE PERNAMBUCO, E FIXA OS PRAZOS PARA COMEÇO E CONCLUSÃO DESSES DOIS ENGENHOS."
+    },
+    {
+      "senadoId": "417048",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-11-09-9673",
+      "titulo": "Decreto nº 9.673 de 09/11/1886",
+      "data": "1886-11-09",
+      "numero": "9673",
+      "urn": "urn:lex:br:federal:decreto:1886-11-09;9673",
+      "ementa": "CONCEDE AUTORIZAÇÃO A EUGENIO CORNELIO DOS SANTOS E VICTOR FRANCISCO BRAGA MELLO PARA ORGANIZAREM A COMPANHIA MELHORAMENTOS URBANOS DE NITERÓI."
+    },
+    {
+      "senadoId": "417045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9672",
+      "titulo": "Decreto nº 9.672 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9672",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9672",
+      "ementa": "CONCEDE PERMISSÃO A JUVENAL MALHEIROS DE SOUZA MENEZES E FRANCISCO LOPES CHAVES PARA EXPLORAREM OURO NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "417015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9662",
+      "titulo": "Decreto nº 9.662 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9662",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9662",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A JOSÉ NEGREIROS DE ALMEIDA SARINHO PARA A CONSTRUÇÃO DE UMA ESTRADA DE FERRO ENTRE SANTA HELENA DE ALCOBAÇA, NA PROVÍNCIA DO PARÁ, E A CIDADE DA BOA VISTA, NA DE GOIÁS."
+    },
+    {
+      "senadoId": "417033",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9668",
+      "titulo": "Decreto nº 9.668 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9668",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9668",
+      "ementa": "CONCEDE DOIS ANOS PARA A CONSTRUÇÃO DOS TRÊS ENGENHOS CENTRAIS DE QUE É CESSIONÁRIA A THE LONDON AND BRASILIAM SUGAR COMPANY, LIMITED."
+    },
+    {
+      "senadoId": "417042",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9671",
+      "titulo": "Decreto nº 9.671 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9671",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9671",
+      "ementa": "CONCEDE PERMISSÃO AO DR. JORGE SCARBOURUGH BARNSLEY PARA LAVRAR OURO E OUTROS MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "417021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9664",
+      "titulo": "Decreto nº 9.664 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9664",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9664",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA A COMPANHIA TELEFÔNICA DO BRASIL PARA ASSENTAMENTO DE LINHAS TELEFÔNICAS EM DIVERSAS CIDADES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "417027",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9666",
+      "titulo": "Decreto nº 9.666 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9666",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9666",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO CONSTANTE DO DECRETO NÚMERO 8586 DE 10 DE JUNHO DE 1882 PARA A CONSTRUÇÃO DA ESTRADA DE FERRO COMPREENDIDA     ENTRE A BAHIA DE SÃO FRANCISCO E A VILA DO RIO NEGRO."
+    },
+    {
+      "senadoId": "417012",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9661",
+      "titulo": "Decreto nº 9.661 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9661",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9661",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A ZACARIAS SALCEDO PELO DECRETO NÚMERO 9383, DE 21 DE FEVEREIRO DE 1885, PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "417036",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9669",
+      "titulo": "Decreto nº 9.669 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9669",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9669",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A AUGUSTO RUFINO FRUTUOSO GOMES PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "417018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9663",
+      "titulo": "Decreto nº 9.663 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9663",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9663",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚEMERO 8779, DE 25 DE NOVEMBRO DE 1882, QUE CONCEDEU PERMISSÃO A MANOEL JOAQUIM BORGES DE LIMA E AUGUSTO DE ALMEIDA TORRES PARA EXPLORAREM OURO E OUTROS MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "417030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9667",
+      "titulo": "Decreto nº 9.667 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9667",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9667",
+      "ementa": "APROVA NOVAS TABELAS FIXANDO O PESSOAL E OS RESPECTIVOS VENCIMENTOS PARA O SERVIÇO DAS ESTRADAS DE FERRO DE SOBRAL, BATURITÉ, PAULO AFONSO, PROLONGAMENTO DO RECIFE A SÃO FRANCISCO E DO RECIFE A CARUARÚ."
+    },
+    {
+      "senadoId": "417024",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9665",
+      "titulo": "Decreto nº 9.665 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9665",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9665",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 9319 DE 11 E NOVEMBRO DE 1884, QUE CONCEDEU A JOSEP ALKAIN PRIVILÉGIO PARA ESTABELECER, POR SI OU POR MEIO DE UM COMPANHIA, UMA LINHA DE NAVEGAÇÃO A VAPOR NO RIO PARDO, PROVÍNCIA DA BAHÍA."
+    },
+    {
+      "senadoId": "417039",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-16-9670",
+      "titulo": "Decreto nº 9.670 de 16/10/1886",
+      "data": "1886-10-16",
+      "numero": "9670",
+      "urn": "urn:lex:br:federal:decreto:1886-10-16;9670",
+      "ementa": "CONCEDE PERMISSÃO A ZACARIAS DE PAULA XAVIER PARA EXPLORAR COBRE E OUTROS MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "417009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-15-9660",
+      "titulo": "Decreto nº 9.660 de 15/10/1886",
+      "data": "1886-10-15",
+      "numero": "9660",
+      "urn": "urn:lex:br:federal:decreto:1886-10-15;9660",
+      "ementa": "APROVA A ALTERAÇÃO FEITA NO TRAÇADO DA TERCEIRA GERAÇÃO DA ESTRADA DE FERRO DO CARANGOLA, EM VIRTUDE DO ACORDO CELEBRADO COM A DA LEOPOLDINA, E DETERMINA QUE A RENDA DO PEROLONGAMENTO DO RAMAL DO ITABOPOANA SEJA DISCRIMINADA DA RECEITA GERAL DA LINHA E RAMAIS GARANTIDOS."
+    },
+    {
+      "senadoId": "417006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-15-9659",
+      "titulo": "Decreto nº 9.659 de 15/10/1886",
+      "data": "1886-10-15",
+      "numero": "9659",
+      "urn": "urn:lex:br:federal:decreto:1886-10-15;9659",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO A LUIZ AUGOSTO DE MAGALHÃES E CONCEDIDA A AUGUSTA DE ARAUJO GUIMARÃES PARA A MEDIÇÃO E DEMARCAÇÃO DE DATAS MINERAIS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "416994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-11-9655",
+      "titulo": "Decreto nº 9.655 de 11/10/1886",
+      "data": "1886-10-11",
+      "numero": "9655",
+      "urn": "urn:lex:br:federal:decreto:1886-10-11;9655",
+      "ementa": "AUTORIZA A COMPANHIA FERRO CARRIL DO JARDIM BOTÂNICO A ASSENTAR TRILHOS NA RUA DO SENADOR DANTAS."
+    },
+    {
+      "senadoId": "416997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-11-9656",
+      "titulo": "Decreto nº 9.656 de 11/10/1886",
+      "data": "1886-10-11",
+      "numero": "9656",
+      "urn": "urn:lex:br:federal:decreto:1886-10-11;9656",
+      "ementa": "PRORROGA O PRAZO ESTABELECIDO NO DECRETO NÚMERO 9261 DE 16 DE AGOSTO DE 1884 PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "417003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-11-9658",
+      "titulo": "Decreto nº 9.658 de 11/10/1886",
+      "data": "1886-10-11",
+      "numero": "9658",
+      "urn": "urn:lex:br:federal:decreto:1886-10-11;9658",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 8249 DE 03 DE SETEMBRO DE 1881, QUE CONCEDEU PERMISSÃO AO FINADO BRIGADEIRO J0SÉ JOAQUIM DE CARVALHO, HOJE REPRESENTADO PELA CABAÇAL COMPANY LIMITED, PARA LAVRAR MINERAIS NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "416991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-11-9654",
+      "titulo": "Decreto nº 9.654 de 11/10/1886",
+      "data": "1886-10-11",
+      "numero": "9654",
+      "urn": "urn:lex:br:federal:decreto:1886-10-11;9654",
+      "ementa": "PRORROGA NOVAMENTE A ATUAL SESSÃO DA ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "417000",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-11-9657",
+      "titulo": "Decreto nº 9.657 de 11/10/1886",
+      "data": "1886-10-11",
+      "numero": "9657",
+      "urn": "urn:lex:br:federal:decreto:1886-10-11;9657",
+      "ementa": "RETIFICA INCORREÇÕES QUE SE DERAM NA PUBLICAÇÃO DO DECRETO NÚMERO 9611 DE 26 DE JUNHO DE 1886."
+    },
+    {
+      "senadoId": "416976",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9649",
+      "titulo": "Decreto nº 9.649 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9649",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9649",
+      "ementa": "CONCEDE PERMISSÃO A ANTONIO JOAQUIM MALHEIROS PARA COLHER HERVA MATE NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "416982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9651",
+      "titulo": "Decreto nº 9.651 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9651",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9651",
+      "ementa": "PRORROGA OS PRAZOS A QUE SE REFEREM AS CLÁUSULAS 18º E 21º DAS QUE BAIXARAM COM O DECRETO NÚMERO 9509 DE 17 DE OUTUBRO DE 1885."
+    },
+    {
+      "senadoId": "416988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9653",
+      "titulo": "Decreto nº 9.653 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9653",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9653",
+      "ementa": "CONCEDE PERMISSÃO A SEVERINO DE LEMOS PARA EXPLORAR CORAIS E PÉROLAS NO LITORAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "416970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9647",
+      "titulo": "Decreto nº 9.647 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9647",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9647",
+      "ementa": "DETERMINA QUE SE EXECUTEM COM DIVERSAS ALTERAÇÕES AS DISPOSIÇÕES EM VIGOR RELATIVAS AOS EXAMES GERAIS DE PREPARATORIOS."
+    },
+    {
+      "senadoId": "416979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9650",
+      "titulo": "Decreto nº 9.650 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9650",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9650",
+      "ementa": "CONCEDE PERMISSÃO A CHARLES ALBERT TISNES PARA EXPLORAR OURO E OUTROS MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "416985",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9652",
+      "titulo": "Decreto nº 9.652 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9652",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9652",
+      "ementa": "RENOVA E AMPLIA A CONCESSÃO FEITA A JOSÉ BERNARDO TEIXEIRA PARA MINERAR NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "416973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-10-02-9648",
+      "titulo": "Decreto nº 9.648 de 02/10/1886",
+      "data": "1886-10-02",
+      "numero": "9648",
+      "urn": "urn:lex:br:federal:decreto:1886-10-02;9648",
+      "ementa": "PRORROGA NOVAMENTE A ATUAL SESSÃO DA ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "416961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-25-9644",
+      "titulo": "Decreto nº 9.644 de 25/09/1886",
+      "data": "1886-09-25",
+      "numero": "9644",
+      "urn": "urn:lex:br:federal:decreto:1886-09-25;9644",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 9075 DE 07 DE DEZEMBRO DE 1883 QUE CONCEDEU AUTORIZAÇÃO Á COMPANHIA DE SEGUROS DA RÚSSIA PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-25-9646",
+      "titulo": "Decreto nº 9.646 de 25/09/1886",
+      "data": "1886-09-25",
+      "numero": "9646",
+      "urn": "urn:lex:br:federal:decreto:1886-09-25;9646",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO DO DECRETO NÚMERO 9435 DE 06 DE JUNHO DE 1885 PARA A IMERSÃO DO CABO SUBMARINO QUE A D.PEDRO II AMERICAN TELEGRAPH AND CABLE COMPANY É OBRIGADA A ESTABELECER ENTRE O BRASIL E OS ESTADOS UNIDOS."
+    },
+    {
+      "senadoId": "416964",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-25-9645",
+      "titulo": "Decreto nº 9.645 de 25/09/1886",
+      "data": "1886-09-25",
+      "numero": "9645",
+      "urn": "urn:lex:br:federal:decreto:1886-09-25;9645",
+      "ementa": "CONCEDE AUTORIZAÇÃO A BERNARDINO RODRIGUES BARCELOS PARA ORGANIZAR UMA COMPANHIA ANÔNIMA SOB A DENOMINÇÃO DE SEGURANÇA MÚTUA."
+    },
+    {
+      "senadoId": "416958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-22-9643",
+      "titulo": "Decreto nº 9.643 de 22/09/1886",
+      "data": "1886-09-22",
+      "numero": "9643",
+      "urn": "urn:lex:br:federal:decreto:1886-09-22;9643",
+      "ementa": "PRORROGA NOVAMENTE A ATUAL SESSÃO DA ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "416952",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-18-9641",
+      "titulo": "Decreto nº 9.641 de 18/09/1886",
+      "data": "1886-09-18",
+      "numero": "9641",
+      "urn": "urn:lex:br:federal:decreto:1886-09-18;9641",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 7706 DE 11 DE MAIO DE 1880 QUE CONCEDEU PERMISSÃO A CUSTOKIO FRANCISCO DE OLIVEIRA PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "416955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-18-9642",
+      "titulo": "Decreto nº 9.642 de 18/09/1886",
+      "data": "1886-09-18",
+      "numero": "9642",
+      "urn": "urn:lex:br:federal:decreto:1886-09-18;9642",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 8683 DE 23 DE SETEMBRO DE 1882, QUE CONCEDEU PERMISSÃO A ANTONIO FERNANDES CORRÊA PARA EXPLORAR MINERAIS NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "416946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-11-9639",
+      "titulo": "Decreto nº 9.639 de 11/09/1886",
+      "data": "1886-09-11",
+      "numero": "9639",
+      "urn": "urn:lex:br:federal:decreto:1886-09-11;9639",
+      "ementa": "PRORROGA NOVAMENTE A ATUAL SESSÃO DA ASSEMBLEIA GERAL."
+    },
+    {
+      "senadoId": "416949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-11-9640",
+      "titulo": "Decreto nº 9.640 de 11/09/1886",
+      "data": "1886-09-11",
+      "numero": "9640",
+      "urn": "urn:lex:br:federal:decreto:1886-09-11;9640",
+      "ementa": "SUSPENDE A GARANTIA DE JUROS DE 6% AO ANO, SOBRE O CAPITAL DE 1200:000$000, DE QUE É CONCESSIONÁRIA A COMPANHIA ENGENHOS CENTRAIS DAS PROVÍNCIAS DA PARAÍBA DO NORTE E SERGIPE."
+    },
+    {
+      "senadoId": "416943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-04-9638",
+      "titulo": "Decreto nº 9.638 de 04/09/1886",
+      "data": "1886-09-04",
+      "numero": "9638",
+      "urn": "urn:lex:br:federal:decreto:1886-09-04;9638",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA COMPANHIA ENGENHO CENTRAL ARACATY."
+    },
+    {
+      "senadoId": "416937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-04-9636",
+      "titulo": "Decreto nº 9.636 de 04/09/1886",
+      "data": "1886-09-04",
+      "numero": "9636",
+      "urn": "urn:lex:br:federal:decreto:1886-09-04;9636",
+      "ementa": "CONCEDE Á COMPANHIA LEOPOLDINA O PROLONGAMENTO DE SEU RAMAL FÉRREO DO SUMIDOURO E APROVA OS RESPECTIVOS ESTUDOS."
+    },
+    {
+      "senadoId": "416940",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-09-04-9637",
+      "titulo": "Decreto nº 9.637 de 04/09/1886",
+      "data": "1886-09-04",
+      "numero": "9637",
+      "urn": "urn:lex:br:federal:decreto:1886-09-04;9637",
+      "ementa": "AUTORIZA O LONDON AND BRASILIAN BANK, LIMITED, A ESTABELECER UMA CAIXA FILIAL NA CIDADE DE PELOTAS, PROVÍNCIA DE SÃO PADRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-28-9632",
+      "titulo": "Decreto nº 9.632 de 28/08/1886",
+      "data": "1886-08-28",
+      "numero": "9632",
+      "urn": "urn:lex:br:federal:decreto:1886-08-28;9632",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA, PELO DECRETO NÚMERO 8288 DE 29 DE OUTUBRO DE 1881, A COMPANHIA CENTRAL SUGAR FACTOIES OF BRASIL, LIMITED, DA GARANTIA DE JUROS DE 6% AO ANO SOBRE O CAPITAL DE 1.400:000$, PARA O ESTABELECIMENTO DE DOIS ENGENHOS CENTRAES DESTINADOS AO FABRICA DE AÇÚCAR DE CANA, NOS MUNICIPIOS DE JABOATÃO E GOIANA, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "416928",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-28-9633",
+      "titulo": "Decreto nº 9.633 de 28/08/1886",
+      "data": "1886-08-28",
+      "numero": "9633",
+      "urn": "urn:lex:br:federal:decreto:1886-08-28;9633",
+      "ementa": "DECLARA CADUCAS AS CONCESSÕES FEITAS Á COMPANHIA NORTH BRASILIAN SUGAR FATORIES, LIMITED, PARA O ESTABELECIMENTO DE SETE ENGENHOS CENTRAIS NO MUNICÍPIO DO CEARÁ-MIRIM, PROVÍNCIA DO RIO GRANDE DO NORTE, DE ITAMBÉ, DE NAZARETH E DE IGUARASSÚ, PROVÍNCIA DE PERNAMBUCO, DA PENHA, PROVÍNCIA DAS ALAGOAS, DE JAPOARATUBA E DE S.CRISTOVÃO, PROVÍNCIA DE SERGIPE; SUSPENDE A GARANTIA  DE JUROS CONCEDIDA PARA O ESTABELECIMENTO DOS TRÊS ENGENHOS CENTRAIS NOS MUNICÍPIO DE S.JOSÉ DE MIPIBÚ, PROVÍNCIA DO RIO GRANDE DO NORTE, DE S.LOURENÇO DA MATA E DE PAU D'ALHO, PROVÍNCIA DE PERNAMBUCO; DETERMINA O PRAZO DENTRO DO QUAL, SOB PENA DE CADUCIDADE, DEVEM FICAR COMPLETAMENTE ACABADOS E FUNCIONAR ESTES TRÊS ÚLTIMOS ENGENHOS CENTRAIS."
+    },
+    {
+      "senadoId": "416922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-28-9631",
+      "titulo": "Decreto nº 9.631 de 28/08/1886",
+      "data": "1886-08-28",
+      "numero": "9631",
+      "urn": "urn:lex:br:federal:decreto:1886-08-28;9631",
+      "ementa": "SUSPENDE A GARANTIA DE JUROS DE QUE É CONCESSIONÁRIA A COMPANHIA BAHIA CENTRAL SUGAR FATORIES, LIMITED, PARA O ESTABELECIMENTO DE QUATRO ENGENHOS CENTRAIS NA PROVÍNCIA DA BAHIA, SENDO DOIS NO MUNICÍPIO DE SANTO AMARO E DOIS NOS DA CACHOEIRA E DE COTEGIPE."
+    },
+    {
+      "senadoId": "416934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-28-9635",
+      "titulo": "Decreto nº 9.635 de 28/08/1886",
+      "data": "1886-08-28",
+      "numero": "9635",
+      "urn": "urn:lex:br:federal:decreto:1886-08-28;9635",
+      "ementa": "AUTORIZA A COMPANHIA RIO DE JANEIRO CITY IMPROVEMENTS A CONSTRUIR MÁQUINAS NA RUA DO VISCONDE DE ITAÚNA."
+    },
+    {
+      "senadoId": "416919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-28-9630",
+      "titulo": "Decreto nº 9.630 de 28/08/1886",
+      "data": "1886-08-28",
+      "numero": "9630",
+      "urn": "urn:lex:br:federal:decreto:1886-08-28;9630",
+      "ementa": "PRORROGA A ATUAL SESSÃO DA ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "416931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-28-9634",
+      "titulo": "Decreto nº 9.634 de 28/08/1886",
+      "data": "1886-08-28",
+      "numero": "9634",
+      "urn": "urn:lex:br:federal:decreto:1886-08-28;9634",
+      "ementa": "CONCEDE Á COMPANHIA QUE JULIO CESAR DE BERENGUER BITENCOUR JUNIOR E MANOEL MARIA BAHIANA ORGANIZAREM PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL, DESTINADO A FÁBRICA DE AÇÚCAR DE CANA, NO MUNICÍPIO DE SANTO AMARO, PROVÍNCIA DA BAHIA, OS FAVORES MENCIONADOS NOS §§ 2º, 3º E 5º DO ARTIGO 6º DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 8357 DE 24 DE DEZEMBRO DE 1881."
+    },
+    {
+      "senadoId": "416916",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-21-9629",
+      "titulo": "Decreto nº 9.629 de 21/08/1886",
+      "data": "1886-08-21",
+      "numero": "9629",
+      "urn": "urn:lex:br:federal:decreto:1886-08-21;9629",
+      "ementa": "FAZ EXTENSIVAS A TARIFA ESPECIAL AS DISPOSIÇÕES DO DECRETO 8.944 DE 15 DE MAIO DE 1883."
+    },
+    {
+      "senadoId": "416910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-14-9627",
+      "titulo": "Decreto nº 9.627 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "9627",
+      "urn": "urn:lex:br:federal:decreto:1886-08-14;9627",
+      "ementa": "DA PROVIMENTO AO RECURSO INTERPOSTO PELA COMPANHIA CRISTOVÃO CONTRA A CONCESSÃO FEITA POR DECRETO 9513 DE 24 DE OUTUBRO DE 1885, PARA A EMPRESA FERROCARRIL VILLA GUARANI ESTENDER SEUS TRILHOS PELA PRAIA DE S. CRISTOVÃO, RUA DE PAU FERRO E SENADOR ALENCAR."
+    },
+    {
+      "senadoId": "416906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-14-9626",
+      "titulo": "Decreto nº 9.626 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "9626",
+      "urn": "urn:lex:br:federal:decreto:1886-08-14;9626",
+      "ementa": "PRORROGA, POR MAIS UM ANO, O PRAZO FIXADO NA CLÁUSULA 2ª DO DECRETO NÚMERO 6996 DE 17 DE AGOSTO DE 1878."
+    },
+    {
+      "senadoId": "416901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-14-9624",
+      "titulo": "Decreto nº 9.624 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "9624",
+      "urn": "urn:lex:br:federal:decreto:1886-08-14;9624",
+      "ementa": "CONCEDE PERMISSÃO A JOSÉ MIANI PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "416904",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-14-9625",
+      "titulo": "Decreto nº 9.625 de 14/08/1886",
+      "data": "1886-08-14",
+      "numero": "9625",
+      "urn": "urn:lex:br:federal:decreto:1886-08-14;9625",
+      "ementa": "AUTORIZA A COMPANHIA DAS ÁGUAS DO GRÃO-PARÁ PARA ELEVAR O SEU CAPITAL."
+    },
+    {
+      "senadoId": "416898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-07-9623",
+      "titulo": "Decreto nº 9.623 de 07/08/1886",
+      "data": "1886-08-07",
+      "numero": "9623",
+      "urn": "urn:lex:br:federal:decreto:1886-08-07;9623",
+      "ementa": "CONCEDE AUTORIZAÇÃO A THE LIDGERWORD MANUFACTURINT COMPANY, LIMITED, A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416892",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-07-9621",
+      "titulo": "Decreto nº 9.621 de 07/08/1886",
+      "data": "1886-08-07",
+      "numero": "9621",
+      "urn": "urn:lex:br:federal:decreto:1886-08-07;9621",
+      "ementa": "CONCEDE PERMISSÃO AO ENGENHEIRO CIVIL ALBERTO JOSÉ PIMENTEL HARGREAGES PARA EXPLORAR CARVÃO DE PEDRO NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "416895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-08-07-9622",
+      "titulo": "Decreto nº 9.622 de 07/08/1886",
+      "data": "1886-08-07",
+      "numero": "9622",
+      "urn": "urn:lex:br:federal:decreto:1886-08-07;9622",
+      "ementa": "PRORROGA POR MAIS TRÊS MESES O PRAZO MARCADO NA CLÁUSULA 3ª DAS QUE ACOMPANHAM O DERETO NÚMERO 9561 DE 27 DE FEVEREIRO DO CORRENTE ANO PARA COMEÇO E PLENO ANDAMENTO DAS OBRAS DO PORTO DA FORTALEZA."
+    },
+    {
+      "senadoId": "416890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-31-9620",
+      "titulo": "Decreto nº 9.620 de 31/07/1886",
+      "data": "1886-07-31",
+      "numero": "9620",
+      "urn": "urn:lex:br:federal:decreto:1886-07-31;9620",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS DO RAMAL DA TIJUCA A QUE REFERE-SE O DECRETO 9.550 DE 23 DE JANEIRO DE 1886."
+    },
+    {
+      "senadoId": "416881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-24-9617",
+      "titulo": "Decreto nº 9.617 de 24/07/1886",
+      "data": "1886-07-24",
+      "numero": "9617",
+      "urn": "urn:lex:br:federal:decreto:1886-07-24;9617",
+      "ementa": "ELEVA O NÚMERO DE CORRETORES DE FUNDOS PÚBLICOS E MERCADORIAS DA PRAÇA COMERCIAL DE SÃO SALVADOR."
+    },
+    {
+      "senadoId": "416884",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-24-9618",
+      "titulo": "Decreto nº 9.618 de 24/07/1886",
+      "data": "1886-07-24",
+      "numero": "9618",
+      "urn": "urn:lex:br:federal:decreto:1886-07-24;9618",
+      "ementa": "PRORROGA O PRAZO ESTABELECIDO NO DECRETO NÚMERO 8.251 DE 03 DE SETEMBRO DE 881 PARA A LAVRA DE MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "416887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-24-9619",
+      "titulo": "Decreto nº 9.619 de 24/07/1886",
+      "data": "1886-07-24",
+      "numero": "9619",
+      "urn": "urn:lex:br:federal:decreto:1886-07-24;9619",
+      "ementa": "AUTORIZA O COMENDADOR FRANCISCO EUGENIO DE AZEVEDO A TRANSFERIR A COMPANHIA FERRO CARRIL VILA ISABEL A CONCESSÃO DA LINHA DE VIAÇÃO URBANA DENOMINADA FERRO CORRIL VILA GUARANI."
+    },
+    {
+      "senadoId": "416875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-17-9615",
+      "titulo": "Decreto nº 9.615 de 17/07/1886",
+      "data": "1886-07-17",
+      "numero": "9615",
+      "urn": "urn:lex:br:federal:decreto:1886-07-17;9615",
+      "ementa": "ALTERA AS CLAUSULAS 6, 22 E 24 DAS QUE BAIXARAM COM O DECRETO 7.730, DE 14 DE JUNHO DE 1880, ACERCA DE UM ELEVADOR E CARRIS DE FERRO NO MORRO DE PAULA MATOS."
+    },
+    {
+      "senadoId": "416878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-17-9616",
+      "titulo": "Decreto nº 9.616 de 17/07/1886",
+      "data": "1886-07-17",
+      "numero": "9616",
+      "urn": "urn:lex:br:federal:decreto:1886-07-17;9616",
+      "ementa": "CONCEDE PERMISSÃO A AUGUSTO DE ALMEIDA TORRES PARA EXPLORAR COBRE E OUTROS MINERAIS NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "416872",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-10-9614",
+      "titulo": "Decreto nº 9.614 de 10/07/1886",
+      "data": "1886-07-10",
+      "numero": "9614",
+      "urn": "urn:lex:br:federal:decreto:1886-07-10;9614",
+      "ementa": "CONCEDE PERMISSÃO A D.ELMIRA REVERBEL DE LIMA,VIÚVA DO BRIGADEIRO MANOEL LUCAS DE LIMA, PARA EXPLORAR CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-07-03-9613",
+      "titulo": "Decreto nº 9.613 de 03/07/1886",
+      "data": "1886-07-03",
+      "numero": "9613",
+      "urn": "urn:lex:br:federal:decreto:1886-07-03;9613",
+      "ementa": "DECLARA SEM EFEITO O DECRETO NÚMERO 9.321 DE 18 DE NOVEMBRO DE 1884 SOBRE EXPLORAÇÃO DE CORAIS E PÉROLAS."
+    },
+    {
+      "senadoId": "416860",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-26-9610",
+      "titulo": "Decreto nº 9.610 de 26/06/1886",
+      "data": "1886-06-26",
+      "numero": "9610",
+      "urn": "urn:lex:br:federal:decreto:1886-06-26;9610",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA ENGENHO CENTRAL DE CAPIVARÍ, DA PROVÍNCIA DE SÃO PAULO, PARA SE ORGANIZAR."
+    },
+    {
+      "senadoId": "416866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-26-9612",
+      "titulo": "Decreto nº 9.612 de 26/06/1886",
+      "data": "1886-06-26",
+      "numero": "9612",
+      "urn": "urn:lex:br:federal:decreto:1886-06-26;9612",
+      "ementa": "APROVA OS PLANOS DOS EDIFÍCIOS QUE JORGE MIRANDOLA FILHO TEM DE CONSTRUIR PARA HABITAÇÃO DE OPERÁRIOS E CLASSES POBRES."
+    },
+    {
+      "senadoId": "416863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-26-9611",
+      "titulo": "Decreto nº 9.611 de 26/06/1886",
+      "data": "1886-06-26",
+      "numero": "9611",
+      "urn": "urn:lex:br:federal:decreto:1886-06-26;9611",
+      "ementa": "REUNE EM UM SÓ ESTABELECIMENTO, SOB A DENOMINAÇÃO DE ESCOLA NAVAL, A ESCOLA DE MARINHA E O COLÉGIO NAVAL."
+    },
+    {
+      "senadoId": "416857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-22-9609",
+      "titulo": "Decreto nº 9.609 de 22/06/1886",
+      "data": "1886-06-22",
+      "numero": "9609",
+      "urn": "urn:lex:br:federal:decreto:1886-06-22;9609",
+      "ementa": "CONCEDE AUTORIZAÇÃO A SOCIEDADE ANÔNIMA DO GAZ DO RIO DE JANEIRO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416846",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-19-9605",
+      "titulo": "Decreto nº 9.605 de 19/06/1886",
+      "data": "1886-06-19",
+      "numero": "9605",
+      "urn": "urn:lex:br:federal:decreto:1886-06-19;9605",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 9.393, DE 07 DE MARÇO DE 1885, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL."
+    },
+    {
+      "senadoId": "416851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-19-9607",
+      "titulo": "Decreto nº 9.607 de 19/06/1886",
+      "data": "1886-06-19",
+      "numero": "9607",
+      "urn": "urn:lex:br:federal:decreto:1886-06-19;9607",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 9.380 DE 14 DE FEVEREIRO DE 1885, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL."
+    },
+    {
+      "senadoId": "416848",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-19-9606",
+      "titulo": "Decreto nº 9.606 de 19/06/1886",
+      "data": "1886-06-19",
+      "numero": "9606",
+      "urn": "urn:lex:br:federal:decreto:1886-06-19;9606",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 9.366, DE 24 DE JANEIRO DE 1885, PARA O ESTABELECIMENTO DE UM ENGENHO CENTRAL."
+    },
+    {
+      "senadoId": "416854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-19-9608",
+      "titulo": "Decreto nº 9.608 de 19/06/1886",
+      "data": "1886-06-19",
+      "numero": "9608",
+      "urn": "urn:lex:br:federal:decreto:1886-06-19;9608",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA, REVALIDADA E PRORROGADA PELOS DECRETOS NÚMEROS 9020 DE 20 DE SEMTEMBRO DE 1883, 9130 DE 01 DE FEVEREIRO DE 1884 E 9426 DE 28 DE ABRIL DE 1885, PARA O ESTABELECIMENTO DE SEIS ENGENHOS CENTRAIS."
+    },
+    {
+      "senadoId": "416843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-19-9604",
+      "titulo": "Decreto nº 9.604 de 19/06/1886",
+      "data": "1886-06-19",
+      "numero": "9604",
+      "urn": "urn:lex:br:federal:decreto:1886-06-19;9604",
+      "ementa": "DECLARA CADUCA A CONCESSÃO FEITA PELO DECRETO NÚMERO 9.066 DE 24 DE NOVEMBRO DE 1883, PARA O ESTABELECIMENTO DE DOIS ENGENHOS CENTRAIS."
+    },
+    {
+      "senadoId": "416840",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-12-9603",
+      "titulo": "Decreto nº 9.603 de 12/06/1886",
+      "data": "1886-06-12",
+      "numero": "9603",
+      "urn": "urn:lex:br:federal:decreto:1886-06-12;9603",
+      "ementa": "CONCEDE PERMISSÃO A ROBERTO NORMANTON E GABRIEL DIAS DA SILVA PARA EXPLORAREM CARVÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "416837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-12-9602",
+      "titulo": "Decreto nº 9.602 de 12/06/1886",
+      "data": "1886-06-12",
+      "numero": "9602",
+      "urn": "urn:lex:br:federal:decreto:1886-06-12;9602",
+      "ementa": "APROVA O REGULAMENTO PARA A EXECUÇÃO DOS ARTIGOS 3ºE 4º DA LEI 3.270 DE 28 DE SETEMBRO DE 1885."
+    },
+    {
+      "senadoId": "416826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-05-9598",
+      "titulo": "Decreto nº 9.598 de 05/06/1886",
+      "data": "1886-06-05",
+      "numero": "9598",
+      "urn": "urn:lex:br:federal:decreto:1886-06-05;9598",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA ENGENHO CENTRAL DE MACAÉ PARA SE ORGANIZAR."
+    },
+    {
+      "senadoId": "416832",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-05-9600",
+      "titulo": "Decreto nº 9.600 de 05/06/1886",
+      "data": "1886-06-05",
+      "numero": "9600",
+      "urn": "urn:lex:br:federal:decreto:1886-06-05;9600",
+      "ementa": "CONCEDE PERMISSÃO A JACINTO CRISTIANO DE MEDEIROS PARA EXPLORAR MINAS DE FERRO NA PROVINCIA DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "416829",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-05-9599",
+      "titulo": "Decreto nº 9.599 de 05/06/1886",
+      "data": "1886-06-05",
+      "numero": "9599",
+      "urn": "urn:lex:br:federal:decreto:1886-06-05;9599",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO PELO DECRETO 9.404 DE 21 DE MARÇO DE 1885, PARA A CONCLUSÃO DAS OBRAS DA ESTRADA DE FERRO DO NORTE."
+    },
+    {
+      "senadoId": "416823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-06-05-9597",
+      "titulo": "Decreto nº 9.597 de 05/06/1886",
+      "data": "1886-06-05",
+      "numero": "9597",
+      "urn": "urn:lex:br:federal:decreto:1886-06-05;9597",
+      "ementa": "APROVA, NOS TERMOS DO ARTIGO 9º DO DECRETO NÚMERO 353 DE 12 DE JULHO DE 1845, AS PLANOS DAS OBRAS PROJETADAS PELA COMPANHIA FERRO CARRIL VILA IZABEL COM REFERÊNCIA AO PRÉDIO DA RUA DE SÃO FRANCISCO DE ASSIS NUMERO 02, CANTO DA DE URUGUAIANA, PARA O ALARGAMENTO DAS MESMAS RUAS."
+    },
+    {
+      "senadoId": "416820",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-05-15-9596",
+      "titulo": "Decreto nº 9.596 de 15/05/1886",
+      "data": "1886-05-15",
+      "numero": "9596",
+      "urn": "urn:lex:br:federal:decreto:1886-05-15;9596",
+      "ementa": "CONCEDE PERMISSÃO A FRANCISCO LUCAS DE OLIVEIRA PARA LAVRAR CERVAÇÃO DE PEDRA E OUTROS MINERAIS NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416817",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-05-08-9595",
+      "titulo": "Decreto nº 9.595 de 08/05/1886",
+      "data": "1886-05-08",
+      "numero": "9595",
+      "urn": "urn:lex:br:federal:decreto:1886-05-08;9595",
+      "ementa": "CONCEDE PERMISSÃO A COLATINO MARQUES DE SOUZA PARA EXPLORAR AMIANTO NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "416814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-05-08-9594",
+      "titulo": "Decreto nº 9.594 de 08/05/1886",
+      "data": "1886-05-08",
+      "numero": "9594",
+      "urn": "urn:lex:br:federal:decreto:1886-05-08;9594",
+      "ementa": "AUTORIZA A COMPANHIA DE SEGUROS MARÍTIMOS ALIANCE A FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-05-07-9593",
+      "titulo": "Decreto nº 9.593 de 07/05/1886",
+      "data": "1886-05-07",
+      "numero": "9593",
+      "urn": "urn:lex:br:federal:decreto:1886-05-07;9593",
+      "ementa": "MANDA COBRAR, PARA O FUNDO DE EMANCIPAÇÃO, A TAXA DE 5% ADICIONAIS A TODOS OS IMPOSTOS GERAIS, EXCETO OS DE EXPORTAÇÃO."
+    },
+    {
+      "senadoId": "416805",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-05-01-9591",
+      "titulo": "Decreto nº 9.591 de 01/05/1886",
+      "data": "1886-05-01",
+      "numero": "9591",
+      "urn": "urn:lex:br:federal:decreto:1886-05-01;9591",
+      "ementa": "APROVA A VARIANTE PROPOSTA PARA O TRAÇADO DO RAMAL DO JAÚ, DA COMPANHIA ESTRADA DE FERRO RIO CLARO."
+    },
+    {
+      "senadoId": "416808",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-05-01-9592",
+      "titulo": "Decreto nº 9.592 de 01/05/1886",
+      "data": "1886-05-01",
+      "numero": "9592",
+      "urn": "urn:lex:br:federal:decreto:1886-05-01;9592",
+      "ementa": "DECLARA QUE CONTINUARÃO A SER VAGOS OS EXAMES FINAIS DOS ALUNOS DA ESCOLA DE MINAS E DA OUTRAS PROVIDÊNCIAS."
+    },
+    {
+      "senadoId": "416793",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9587",
+      "titulo": "Decreto nº 9.587 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9587",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9587",
+      "ementa": "PRORROGA POR DOIS MESES O PRAZO MARCADO NA CLÁUSULA 3ª DAS ANEXAS AO DECRETO NÚMERO 9.561 DE 27 DE FEVEREIRO DE 1886, PARA QUE TENHAM PLENO ANDAMENTO AS OBRAS DO PORTO DA FORTALEZA, NO CEARÁ."
+    },
+    {
+      "senadoId": "416799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9589",
+      "titulo": "Decreto nº 9.589 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9589",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9589",
+      "ementa": "CONCEDE PERMISSÃO A G.GEHLEN & C.ª PARA EXPLORAREM MINERAIS NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "416787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9585",
+      "titulo": "Decreto nº 9.585 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9585",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9585",
+      "ementa": "APROVA A PLANTA APRESENTADA PELA COMPANHIA DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ PARA AUMENTAR SEU ARMAZÉM DE CARGAS EM SANTOS."
+    },
+    {
+      "senadoId": "416802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9590",
+      "titulo": "Decreto nº 9.590 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9590",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9590",
+      "ementa": "AUTORIZA A INOVAÇÃO DO CONTRATO CELEBRADO COM A COMPANHIA BRASILEIRA DE NAVEGAÇÃO E VAPOR."
+    },
+    {
+      "senadoId": "416796",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9588",
+      "titulo": "Decreto nº 9.588 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9588",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9588",
+      "ementa": "CONCEDE PERMISSÃO A CARLOS ALEXANDRE STEEL E HEITOR RADEMARCKER GUNEWALD PARA EXPLORAREM MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "416790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9586",
+      "titulo": "Decreto nº 9.586 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9586",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9586",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO ESTIPULADO NO DECRETO NÚMERO 7.698 DE 03 DE MAIO DE 1880, PARA CONCLUSÃO DA ESTRADA DE FERRO RAMAL BANANALENSE."
+    },
+    {
+      "senadoId": "416784",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-24-9584",
+      "titulo": "Decreto nº 9.584 de 24/04/1886",
+      "data": "1886-04-24",
+      "numero": "9584",
+      "urn": "urn:lex:br:federal:decreto:1886-04-24;9584",
+      "ementa": "ELEVA A QUATRO MESES O PRAZO PARA A VISTORIA DAS BARCAS A VAPOR DO COMÉRCIO."
+    },
+    {
+      "senadoId": "416778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-17-9582",
+      "titulo": "Decreto nº 9.582 de 17/04/1886",
+      "data": "1886-04-17",
+      "numero": "9582",
+      "urn": "urn:lex:br:federal:decreto:1886-04-17;9582",
+      "ementa": "PRORROGA O PRAZO PARA CONCLUSÃO DAS OBRAS DA ESTRADA DE FERRO DE QUARAIM A INTAQUI, APROVA A REVISÃO DE SEUS ESTUDOS E RESPECTIVOS ORÇAMENTO, E ALTERA O DECRETO NÚMERO 8.312 DE 19 DE NOVEMBRO DE 1881."
+    },
+    {
+      "senadoId": "416775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-17-9581",
+      "titulo": "Decreto nº 9.581 de 17/04/1886",
+      "data": "1886-04-17",
+      "numero": "9581",
+      "urn": "urn:lex:br:federal:decreto:1886-04-17;9581",
+      "ementa": "AUTORIZA A CONVERSÃO DAS APÓLICES DAS DÍVIDA PÚBLICA DE JUROS DE 6% EMITIDAS EM VIRTUDE DA LEI DE 15 DE NOVEMBRO DE 1827."
+    },
+    {
+      "senadoId": "416781",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-17-9583",
+      "titulo": "Decreto nº 9.583 de 17/04/1886",
+      "data": "1886-04-17",
+      "numero": "9583",
+      "urn": "urn:lex:br:federal:decreto:1886-04-17;9583",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS O CRÉDITO SUPLEMENTAR DE 50:578$125 PARA AS DESPESAS DO PARÁGRAFO AJUDAS DE CUSTO DO CORRENTE EXERCÍCIO."
+    },
+    {
+      "senadoId": "416769",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-10-9579",
+      "titulo": "Decreto nº 9.579 de 10/04/1886",
+      "data": "1886-04-10",
+      "numero": "9579",
+      "urn": "urn:lex:br:federal:decreto:1886-04-10;9579",
+      "ementa": "MANDA POR EM EXECUÇÃO AS NOVAS TABELAS PARA A DISTRIBUIÇÃO DAS RAÇÕES DIARIOS AOS OFICIAIS E GUARNIÇÕES DOS NAVIOS DA ARMADA E PRAÇAS DOS CORPOS DE MARINHA E DAS ESCOLAS DE APRENDIZES MARINHEIROS E DE DIETAS A BORDOS, NOS HOSPITAIS E ENFERMARIAS MARINHA."
+    },
+    {
+      "senadoId": "416766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-10-9578",
+      "titulo": "Decreto nº 9.578 de 10/04/1886",
+      "data": "1886-04-10",
+      "numero": "9578",
+      "urn": "urn:lex:br:federal:decreto:1886-04-10;9578",
+      "ementa": "APROVA MODIFICAÇÕES FEITAS NO TRAÇADO JÁ ADAPTADO DA ESTRADA DE FERRO DO NORTE."
+    },
+    {
+      "senadoId": "416772",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-10-9580",
+      "titulo": "Decreto nº 9.580 de 10/04/1886",
+      "data": "1886-04-10",
+      "numero": "9580",
+      "urn": "urn:lex:br:federal:decreto:1886-04-10;9580",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO PARA A FABRICA DE POLVORA DA ESTRELA, APROVADO PELO DECRETO 9.368 DE 31 DE JANEIRO DE 1885."
+    },
+    {
+      "senadoId": "416763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-10-9577",
+      "titulo": "Decreto nº 9.577 de 10/04/1886",
+      "data": "1886-04-10",
+      "numero": "9577",
+      "urn": "urn:lex:br:federal:decreto:1886-04-10;9577",
+      "ementa": "CONCEDE PERMISSÃO AO DR. JOÃO RAIMUNDO PEREIRA DA SILVA PARA EXTRAIR GUANO E FOSFATO DE CAL NA ILHA CAGARRA OU DOS PASSARINHOS."
+    },
+    {
+      "senadoId": "416760",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-10-9576",
+      "titulo": "Decreto nº 9.576 de 10/04/1886",
+      "data": "1886-04-10",
+      "numero": "9576",
+      "urn": "urn:lex:br:federal:decreto:1886-04-10;9576",
+      "ementa": "APROVA AS INSTRUÇÕES REGULAMENTARES E TARIFAS PARA A ESTRADA DE FERRO DE MACEIÓ A IMPERATRIZ."
+    },
+    {
+      "senadoId": "416757",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-04-03-9575",
+      "titulo": "Decreto nº 9.575 de 03/04/1886",
+      "data": "1886-04-03",
+      "numero": "9575",
+      "urn": "urn:lex:br:federal:decreto:1886-04-03;9575",
+      "ementa": "PRORROGA O PRAZO CONCEDIDO POR DECRETO NÚMERO 9.394 DE 10 DE JANEIRO DE 1885 PARA A LAVRA DE MINAS DE FERRO E OUTROS MINERAIS AS MARGENS DOS RIOS JACUPIRANGUINHA E TURVO, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "416751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-27-9573",
+      "titulo": "Decreto nº 9.573 de 27/03/1886",
+      "data": "1886-03-27",
+      "numero": "9573",
+      "urn": "urn:lex:br:federal:decreto:1886-03-27;9573",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO DO DECRETO NÚMERO 8.800 DE 10 DE DEZEMBRO DE  1882 QUE AUTORIZOU AS OBRAS DE MELHORAMENTO DO PORTO DE SANTOS."
+    },
+    {
+      "senadoId": "416754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-27-9574",
+      "titulo": "Decreto nº 9.574 de 27/03/1886",
+      "data": "1886-03-27",
+      "numero": "9574",
+      "urn": "urn:lex:br:federal:decreto:1886-03-27;9574",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO CONSTANTE DO DECRETO NÚMERO 8.343 DE 17 DE  DEZEMBRO DE 1881 PARA CONSTRUÇÃO DA ESTRADA DE FERRO DE CACEQUI A URUGUAIANA."
+    },
+    {
+      "senadoId": "416748",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-27-9572",
+      "titulo": "Decreto nº 9.572 de 27/03/1886",
+      "data": "1886-03-27",
+      "numero": "9572",
+      "urn": "urn:lex:br:federal:decreto:1886-03-27;9572",
+      "ementa": "APROVA OS ESTUDOS DEFINITIVOS E ORÇAMENTO APRESENTADOS PARA A CONSTRUÇÃO DA SEGUNDA SEÇÃO DO RAMAL DE ITAPEMIRIM."
+    },
+    {
+      "senadoId": "416745",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-20-9571",
+      "titulo": "Decreto nº 9.571 de 20/03/1886",
+      "data": "1886-03-20",
+      "numero": "9571",
+      "urn": "urn:lex:br:federal:decreto:1886-03-20;9571",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DA QUANTIA DE 3610:278$484 PARA AS VERBAS 24ª, 26ª. 27ª E 28ª DO ARTIGO 8º DA LEI NÚMERO 3.230 DE 03 DE SETEMBRO DE 1884 RELATIVA AOS EXERCÍCIO DE 1884-1885."
+    },
+    {
+      "senadoId": "416739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-20-9569",
+      "titulo": "Decreto nº 9.569 de 20/03/1886",
+      "data": "1886-03-20",
+      "numero": "9569",
+      "urn": "urn:lex:br:federal:decreto:1886-03-20;9569",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO FEITO AO COMENDADOR JOAQUIM ANTONIO FERNANDES PINHEIRO PARA O APRASAMENTO DOS MORROS DO CASTELO E DE SANTO ANTONIO."
+    },
+    {
+      "senadoId": "416742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-20-9570",
+      "titulo": "Decreto nº 9.570 de 20/03/1886",
+      "data": "1886-03-20",
+      "numero": "9570",
+      "urn": "urn:lex:br:federal:decreto:1886-03-20;9570",
+      "ementa": "CONCEDE PERMISSÃO AO ENGENHEIRO ANTÃO CONÇALVES DE FARIA E LUIZ LESEIGNEAR PARA EXPLORAREM VEEIROS AURIFEROS NO SEGUNDO DISTRITO DO MUNICÍPIO DE SÃO SEPÉ PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416736",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-13-9568",
+      "titulo": "Decreto nº 9.568 de 13/03/1886",
+      "data": "1886-03-13",
+      "numero": "9568",
+      "urn": "urn:lex:br:federal:decreto:1886-03-13;9568",
+      "ementa": "PROMULGA OS ATOS ADICIONAIS A CONVENÇÃO POSTAL UNIVERSAL DO 1º DE JUNHO DE 1878  E AO RESPECTIVO REGULAMENTO CONCLUÍDOS EM LISBOA A 21 DE MARÇO DE 1885."
+    },
+    {
+      "senadoId": "416733",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-13-9567",
+      "titulo": "Decreto nº 9.567 de 13/03/1886",
+      "data": "1886-03-13",
+      "numero": "9567",
+      "urn": "urn:lex:br:federal:decreto:1886-03-13;9567",
+      "ementa": "CONCEDE A COMPANHIA FERRO CARRIL DE CACHAMBI AMPLIAÇÃO DA CONCESSÃO FEITA PELO DECRETO NÚMERO 7.093 DE 30 DE NOVEMBRO DE 1878 PARA PROLONGAMENTO DA LINHA QUE VAI A PRAÇA MARQUEZ DO HERVAL ATÉ A RUA DE TODOS OS SANTOS E AUTORIZA A CONSTRUÇÃO DE UM NOVO RAMAL PARA A RUA DA SERRA DO MATHEUS."
+    },
+    {
+      "senadoId": "416727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-06-9565",
+      "titulo": "Decreto nº 9.565 de 06/03/1886",
+      "data": "1886-03-06",
+      "numero": "9565",
+      "urn": "urn:lex:br:federal:decreto:1886-03-06;9565",
+      "ementa": "ALTERA O TRAÇADO DA 3 SEÇÃO DA FERROVIA CARANGOLA, APROVADO PELO DECRETO 9.496, DE 12 DE SETEMBRO DE 1885, NO TRECHO COMPREENDIDO ENTRE OS QUILOMETROS 6 E 26."
+    },
+    {
+      "senadoId": "416730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-06-9566",
+      "titulo": "Decreto nº 9.566 de 06/03/1886",
+      "data": "1886-03-06",
+      "numero": "9566",
+      "urn": "urn:lex:br:federal:decreto:1886-03-06;9566",
+      "ementa": "PRORROGA POR MAIS SEIS MESES O PRAZO A QUE SE REFERE O DECRETO NÚMERO 9.435 DE 06 DE JUNHO DE 1885, PARA A IMERSÃO DO CABO SUBMARINO QUE A D.PEDRO II AMERICAN TELEGRAPH AND CABLE COMPANY OBRIGOU-SE A ESTABELECER ENTRE O IMPÉRIO DO BRASIL E OS ESTADOS UNIDOS."
+    },
+    {
+      "senadoId": "416724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-06-9564",
+      "titulo": "Decreto nº 9.564 de 06/03/1886",
+      "data": "1886-03-06",
+      "numero": "9564",
+      "urn": "urn:lex:br:federal:decreto:1886-03-06;9564",
+      "ementa": "DECLARA CADUCA A CONCESSÃO DOS ENGENHOS DE SERINHAEM, IPOJUCA, PILAR, MAROIM E CAMARAGIBE, FEITA A COMPANHIA NORTH BRASILIAN SUGAR FACTORIES, LIMITED."
+    },
+    {
+      "senadoId": "416721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-03-06-9563",
+      "titulo": "Decreto nº 9.563 de 06/03/1886",
+      "data": "1886-03-06",
+      "numero": "9563",
+      "urn": "urn:lex:br:federal:decreto:1886-03-06;9563",
+      "ementa": "PROMULGA O TRATADO PARA O RECONHECIMENTO DOS RIOS PEPIRI-GUASSÚ E SANTO ANTÔNIO, CHAPECÓ OU PEQUIRI-GUASSU, E CHOPIM OU SANTO ANTONIO-GUASSU DO TERRITORIO QUE OS SEPARA E ESTÁ EM LITIGIO ENTRE O BRASIL E A REPÚBLICA ARGENTINA."
+    },
+    {
+      "senadoId": "416715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-27-9561",
+      "titulo": "Decreto nº 9.561 de 27/02/1886",
+      "data": "1886-02-27",
+      "numero": "9561",
+      "urn": "urn:lex:br:federal:decreto:1886-02-27;9561",
+      "ementa": "APROVA OS PLANOS DE REVISÃO DOS ESTUDOS APRESENTADOS PELA CEARÁ HARBOUR CORPORATIN, LIMITED PARA A CONSTRUAÇÃO DA NOVA ALFÂNDEGA E MELNORAMENTO DO PORTO DO CEARÁ, E FIXA EM 2.500:000$000 O CAPITAL NECESSÁRIO PARA A EXECUÇÃO DAS MESMAS OBRAS."
+    },
+    {
+      "senadoId": "416712",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-27-9560",
+      "titulo": "Decreto nº 9.560 de 27/02/1886",
+      "data": "1886-02-27",
+      "numero": "9560",
+      "urn": "urn:lex:br:federal:decreto:1886-02-27;9560",
+      "ementa": "CONCEDE A JOSÉ LEITE DA CUNHA BASTOS OU A EMPRESA QUE FOR POR ELE ORGANIZADA OS FAVORES DA LEI, RELATIVAMENTE AOS EDIFÍCIOS QUE CONSTRUIR PARA HABITAÇÃO DE OPERÁRIOS E CLASSES POBRES."
+    },
+    {
+      "senadoId": "416718",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-27-9562",
+      "titulo": "Decreto nº 9.562 de 27/02/1886",
+      "data": "1886-02-27",
+      "numero": "9562",
+      "urn": "urn:lex:br:federal:decreto:1886-02-27;9562",
+      "ementa": "DECLARA SEM EFEITO A CONCESSÃO A QUE SE REFERE O DECRETO NÚMERO 8.346 DE 24 DE DEZEMBRO DE 1881, PARA CONSTRUÇÃO DA ESTRADA DE FERRO DE BAGÉ A CACEQUI, NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "416709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-20-9559",
+      "titulo": "Decreto nº 9.559 de 20/02/1886",
+      "data": "1886-02-20",
+      "numero": "9559",
+      "urn": "urn:lex:br:federal:decreto:1886-02-20;9559",
+      "ementa": "ALTERA AS TAXAS DE ARMAZENAGEM DAS MERCADORIAS DEPOSITADAS NOS ARMAZENS DAS ALFANDEGAS E MESAS DE RENDAS, E DA OUTRAS PROVIDENCIAS."
+    },
+    {
+      "senadoId": "416706",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-13-9558",
+      "titulo": "Decreto nº 9.558 de 13/02/1886",
+      "data": "1886-02-13",
+      "numero": "9558",
+      "urn": "urn:lex:br:federal:decreto:1886-02-13;9558",
+      "ementa": "RENOVA A CONCESSÃO FEITA A IGNACIO DIAS PAES LEME PARA EXPLORAR MINERAIS NA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "416703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-06-9557",
+      "titulo": "Decreto nº 9.557 de 06/02/1886",
+      "data": "1886-02-06",
+      "numero": "9557",
+      "urn": "urn:lex:br:federal:decreto:1886-02-06;9557",
+      "ementa": "CONCEDE PERMISSÃO A MANOEL JOAQUIM BORGES DE LIMA PARA EXPLORAR GUANO, FOSFATO DE CAL E OUTRAS SUBSTÂNCIAS MINERAIS, DESDE A ILHA DE MARAJÓ ATÉ O CABO DE SANTO AGOSTINHO."
+    },
+    {
+      "senadoId": "416697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-06-9555",
+      "titulo": "Decreto nº 9.555 de 06/02/1886",
+      "data": "1886-02-06",
+      "numero": "9555",
+      "urn": "urn:lex:br:federal:decreto:1886-02-06;9555",
+      "ementa": "CONFIRMA A DELIBERAÇÃO DA MESA E JUNTA DA SANTA CASA DA MISERICÓRDIA CRIANDO UM COFRE DE DOTES PARA AS EXPOSTAS."
+    },
+    {
+      "senadoId": "416700",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-06-9556",
+      "titulo": "Decreto nº 9.556 de 06/02/1886",
+      "data": "1886-02-06",
+      "numero": "9556",
+      "urn": "urn:lex:br:federal:decreto:1886-02-06;9556",
+      "ementa": "RENOVA A CONCESSÃO FEITA AO DR. JORGE SCARBOROUGH BARNSLEY PARA LAVRAR OURO NO MUNICÍPIO DE ITAPETININGA, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "416694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-02-03-9554",
+      "titulo": "Decreto nº 9.554 de 03/02/1886",
+      "data": "1886-02-03",
+      "numero": "9554",
+      "urn": "urn:lex:br:federal:decreto:1886-02-03;9554",
+      "ementa": "REORGANIZA O SERVIÇO SANITÁRIO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "416691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-30-9553",
+      "titulo": "Decreto nº 9.553 de 30/01/1886",
+      "data": "1886-01-30",
+      "numero": "9553",
+      "urn": "urn:lex:br:federal:decreto:1886-01-30;9553",
+      "ementa": "PROVIDENCIA SOBRE A REVISÃO ANUAL DO QUADRO DOS PROFESSORES ADJUNTOS."
+    },
+    {
+      "senadoId": "416685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-23-9551",
+      "titulo": "Decreto nº 9.551 de 23/01/1886",
+      "data": "1886-01-23",
+      "numero": "9551",
+      "urn": "urn:lex:br:federal:decreto:1886-01-23;9551",
+      "ementa": "CONCEDE PERMISSÃO A COMPANHIA AGRÍCOLA E COLONIZADORA DE VASSOURAS, PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "416679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-23-9549",
+      "titulo": "Decreto nº 9.549 de 23/01/1886",
+      "data": "1886-01-23",
+      "numero": "9549",
+      "urn": "urn:lex:br:federal:decreto:1886-01-23;9549",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO PARA A EXECUÇÃO DA LEI NÚMERO 3.272 DE 5 DE OUTUBRO DE 1885, QUE ALTEROU DIVERSAS DISPOSIÇÕES REFERENTES AS EXECUÇÕES CIVIS E COMERCIAIS."
+    },
+    {
+      "senadoId": "416688",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-23-9552",
+      "titulo": "Decreto nº 9.552 de 23/01/1886",
+      "data": "1886-01-23",
+      "numero": "9552",
+      "urn": "urn:lex:br:federal:decreto:1886-01-23;9552",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA ENGENHO CENTRAL DE SANTA ROSA PARA SE ORGANIZAR."
+    },
+    {
+      "senadoId": "416682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-23-9550",
+      "titulo": "Decreto nº 9.550 de 23/01/1886",
+      "data": "1886-01-23",
+      "numero": "9550",
+      "urn": "urn:lex:br:federal:decreto:1886-01-23;9550",
+      "ementa": "CONCEDE A COMPANHIA DA ESTRADA DE FERRO DO NORTE PRIVILÉGIO PARA A CONSTRUÇÃO DE UM RAMAL QUE TERMINE NO ALTO DA BOA VISTA, NA SERRA DA TIJUCA."
+    },
+    {
+      "senadoId": "416676",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-16-9548",
+      "titulo": "Decreto nº 9.548 de 16/01/1886",
+      "data": "1886-01-16",
+      "numero": "9548",
+      "urn": "urn:lex:br:federal:decreto:1886-01-16;9548",
+      "ementa": "DESIGNA A ORDEM EM QUE DEVEM SER EXTRAÍDAS AS LOTERIAS NO ANO DE 1886."
+    },
+    {
+      "senadoId": "416673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-16-9547",
+      "titulo": "Decreto nº 9.547 de 16/01/1886",
+      "data": "1886-01-16",
+      "numero": "9547",
+      "urn": "urn:lex:br:federal:decreto:1886-01-16;9547",
+      "ementa": "CONCEDE AUTORIZAÇÃO A COMPANHIA LAVOURA, INDÚSTRIA E COLONIZAÇÃO PARA SE ORGANIZAR."
+    },
+    {
+      "senadoId": "416667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-09-9545",
+      "titulo": "Decreto nº 9.545 de 09/01/1886",
+      "data": "1886-01-09",
+      "numero": "9545",
+      "urn": "urn:lex:br:federal:decreto:1886-01-09;9545",
+      "ementa": "APROVA AS CLÁUSULAS PARA A RENOVAÇÃO DOS CONTRATOS CELEBRADOS COM A COMPANHIA NACIONAL DE NAVEGAÇÃO A VAP0R."
+    },
+    {
+      "senadoId": "416670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-09-9546",
+      "titulo": "Decreto nº 9.546 de 09/01/1886",
+      "data": "1886-01-09",
+      "numero": "9546",
+      "urn": "urn:lex:br:federal:decreto:1886-01-09;9546",
+      "ementa": "DECLARA INSUBSISTENTE A CLÁUSULA 30ª DAS QUE BAIXARAM COM O DECRETO NÚMERO 8.860 DE 27 DE JANEIRO DE 1883, AFIM DE QUE TENHA VIGOR O QUE FOI PATUADO COM A PROVÍNCIA DE MINAS GERAIS PELA COMPANHIA DA ESTRADA DE FERRO LEOPOLDINA RELATIVAMENTE A REVERSÃO DO PROLOGAMENTO DA MESMA   ESTRADA DE SÃO GERALDO A ITABIRA DE MATTO DENTRO."
+    },
+    {
+      "senadoId": "416664",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1886-01-02-9544",
+      "titulo": "Decreto nº 9.544 de 02/01/1886",
+      "data": "1886-01-02",
+      "numero": "9544",
+      "urn": "urn:lex:br:federal:decreto:1886-01-02;9544",
+      "ementa": "CONCEDE AUTORIZAÇÃO A LUIZ RIBEIRO E DUARTE DE ABREU GUIMARÃES PARA ORGANIZAREM UMA COMPANHIA ANÔNIMA SOB A DENOMINAÇÃO LOCADORA E DE CONSUMO ECONÔMICO."
+    }
+  ],
+  "pendencias": []
+}

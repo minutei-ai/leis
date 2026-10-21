@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-06-26-13139",
+  "titulo": "Lei nº 13.139 de 26/06/2015",
+  "data": "2015-06-26",
+  "fonte": "https://normas.leg.br/api/public/binario/39ebe04f-c053-4820-a1f2-72ebfbefcdf1/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-06-26;13139",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-06-26%3B13139&tipo_documento=maior-detalhe",
+  "sha256_dados": "54287dc9f404f22f065ebc41ce69fbf27120dc72307af522a424c43c07165426",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:10.993Z",
+  "sha256_fonte": "3aaf3a3031df36834e07946dedfd553f55a689cc69704f52724b125d0889bc60",
+  "sha256_markdown": "84746117aa4b9918baaa984a4f77860cbd78a8ce591c28a2c414156f8dc7d9f0"
+}

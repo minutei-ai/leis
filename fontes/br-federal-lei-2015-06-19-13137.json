@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-06-19-13137",
+  "titulo": "Lei nº 13.137 de 19/06/2015",
+  "data": "2015-06-19",
+  "fonte": "https://normas.leg.br/api/public/binario/f7a1eea7-cc57-4972-965e-320e4c6dd478/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-06-19;13137",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-06-19%3B13137&tipo_documento=maior-detalhe",
+  "sha256_dados": "4b20d817343a4e2c7df81c7917c77a33e2119688be6312410c8464e212a4a472",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:14.836Z",
+  "sha256_fonte": "482006d3f63bdd1c8371d2c78d107327aabe95e88526638c0de0d34c0719667e",
+  "sha256_markdown": "f9bba275a07919e3f47048fc45f7bb1bfb47e03f82c4b180ff2313a29bdfee6e"
+}

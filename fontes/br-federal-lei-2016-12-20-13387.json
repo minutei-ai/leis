@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-12-20-13387",
+  "titulo": "Lei nº 13.387 de 20/12/2016",
+  "data": "2016-12-20",
+  "fonte": "https://normas.leg.br/api/public/binario/cc47d74d-b719-4f0c-aa35-9d353f98ef70/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-12-20;13387",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-12-20%3B13387&tipo_documento=maior-detalhe",
+  "sha256_dados": "98d60e455316f83e8e2beadc1c03093aaa607f36e676555c7efd0fa18910f7a5",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:56:54.501Z",
+  "sha256_fonte": "9be75f07bd940b0427af0b972f7325599db15d196d2a3ff56064ff455552e84e",
+  "sha256_markdown": "106cd0d69b9cce89910104f673bd0cf8e8f9ca13fd9a3bec152a564bb32db2a6"
+}

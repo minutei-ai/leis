@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-01-11-13243",
+  "titulo": "Lei nº 13.243 de 11/01/2016",
+  "data": "2016-01-11",
+  "fonte": "https://normas.leg.br/api/public/binario/e99b2115-6ac0-45db-9b46-1d6a28d8e78c/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-01-11;13243",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-01-11%3B13243&tipo_documento=maior-detalhe",
+  "sha256_dados": "2e5cdf03ac2baa54075ba318a92d4ce24cd8e10c8485427ff9755c5837b49a24",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:59:55.957Z",
+  "sha256_fonte": "8a85f327e782149445a957ba130af57c0f0ef47cea6e1f2fec8e94c68d5df548",
+  "sha256_markdown": "39e184266febf40dcb35c573f8b45daeb102ef68377600ab7bbfc947c749299c"
+}

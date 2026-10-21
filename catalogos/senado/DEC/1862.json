@@ -1,0 +1,1599 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1862",
+  "tipo": "DEC",
+  "ano": 1862,
+  "coletado_em": "2026-10-21T08:52:33.159Z",
+  "normas": [
+    {
+      "senadoId": "399175",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-31-3040",
+      "titulo": "Decreto nº 3.040 de 31/12/1862",
+      "data": "1862-12-31",
+      "numero": "3040",
+      "urn": "urn:lex:br:federal:decreto:1862-12-31;3040",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPEZA DA III.ª CAMARA MUNICIPAL PARA O ANO DE MIL OITOCENTOS SESSENTA E TRES."
+    },
+    {
+      "senadoId": "399179",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-31-3040-a",
+      "titulo": "Decreto nº 3.040-A de 31/12/1862",
+      "data": "1862-12-31",
+      "numero": "3040-a",
+      "urn": "urn:lex:br:federal:decreto:1862-12-31;3040-a",
+      "ementa": "AUTORIZA O CRDITO COMPLEMENTAR DA QUANTIA DE 150:440$914 PARA AS DESPESAS DO MIISTERIO DA MARINHA NO EXERCÍCIO DE 1861 A 1862."
+    },
+    {
+      "senadoId": "399171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-30-3039",
+      "titulo": "Decreto nº 3.039 de 30/12/1862",
+      "data": "1862-12-30",
+      "numero": "3039",
+      "urn": "urn:lex:br:federal:decreto:1862-12-30;3039",
+      "ementa": "DESIGNA A ORDEM SEGUNDO A QUAL DEVEM SER EXTRAÍDAS AS LOTERIAS NO ANO DE 1863."
+    },
+    {
+      "senadoId": "399168",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-29-3038",
+      "titulo": "Decreto nº 3.038 de 29/12/1862",
+      "data": "1862-12-29",
+      "numero": "3038",
+      "urn": "urn:lex:br:federal:decreto:1862-12-29;3038",
+      "ementa": "CONCEDE AO MINISTERIO DA AGRICULTURA, COMERCIO E OBRAS PUBLICAS MAIS UM CREDITO DE 30:000$000 PARA AS DESPESAS COM A EXPOSIÇÃO NACIONAL, PERTENCENTES AO EXERCICIO DE 1861-1862."
+    },
+    {
+      "senadoId": "399165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-26-3037",
+      "titulo": "Decreto nº 3.037 de 26/12/1862",
+      "data": "1862-12-26",
+      "numero": "3037",
+      "urn": "urn:lex:br:federal:decreto:1862-12-26;3037",
+      "ementa": "CRIA CINCO LUGARES DE CORRETORES, TRES DE MERCADORIAS E DOIS DE NAVIOS, PARA A PRAÇA DO COMERCIO DA CÔRTE."
+    },
+    {
+      "senadoId": "399162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-24-3036",
+      "titulo": "Decreto nº 3.036 de 24/12/1862",
+      "data": "1862-12-24",
+      "numero": "3036",
+      "urn": "urn:lex:br:federal:decreto:1862-12-24;3036",
+      "ementa": "ABRE UM CREDITO SUPLEMENTAR DE 111:700$ PARA OCORRER ÁS DESPESAS FEITAS COM SOCORROS PUBLICOS DENTRO DO EXERCÍCIO DE 1861-62."
+    },
+    {
+      "senadoId": "399147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-17-3032",
+      "titulo": "Decreto nº 3.032 de 17/12/1862",
+      "data": "1862-12-17",
+      "numero": "3032",
+      "urn": "urn:lex:br:federal:decreto:1862-12-17;3032",
+      "ementa": "ABRE AO MINISTERIO DA FAZENDA UM CREDITO SUPLEMENTAR DE 703:000$000 PARA O EXERCÍCIO DE 1861-1862."
+    },
+    {
+      "senadoId": "399144",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-17-3031",
+      "titulo": "Decreto nº 3.031 de 17/12/1862",
+      "data": "1862-12-17",
+      "numero": "3031",
+      "urn": "urn:lex:br:federal:decreto:1862-12-17;3031",
+      "ementa": "CONCEDE Á SOCIEDADE DENOMINADA - INSTITUTO POLITECHNICO BRASILEIRO - AUTORIZAÇÃO PARA EXERCER SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "399155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-17-3034",
+      "titulo": "Decreto nº 3.034 de 17/12/1862",
+      "data": "1862-12-17",
+      "numero": "3034",
+      "urn": "urn:lex:br:federal:decreto:1862-12-17;3034",
+      "ementa": "CONFIRMA A CONCESSÃO DE TRÊS LOTERIAS À IGREJA MATRIZ DE NOSSA SENHORA DA CONCEIÇÃO DA CIDADE DE ARACAJÚ, NA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "399159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-17-3035",
+      "titulo": "Decreto nº 3.035 de 17/12/1862",
+      "data": "1862-12-17",
+      "numero": "3035",
+      "urn": "urn:lex:br:federal:decreto:1862-12-17;3035",
+      "ementa": "CONFIRMA A CONCESSÃO DE UMA LOTERIA Á IRMANDADE DO SANTÍSSIMO SACRAMENTO DA FREGUESIA DE NOSSA SENHORA DA GLORIA DESTA CÔRTE"
+    },
+    {
+      "senadoId": "399151",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-17-3033",
+      "titulo": "Decreto nº 3.033 de 17/12/1862",
+      "data": "1862-12-17",
+      "numero": "3033",
+      "urn": "urn:lex:br:federal:decreto:1862-12-17;3033",
+      "ementa": "CONFIRMA A CONCESSÃO DE UMA LOTERIA Á ASSOCIAÇÃO DE CARIDADE DESTA CÔRTE."
+    },
+    {
+      "senadoId": "399139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-12-3030",
+      "titulo": "Decreto nº 3.030 de 12/12/1862",
+      "data": "1862-12-12",
+      "numero": "3030",
+      "urn": "urn:lex:br:federal:decreto:1862-12-12;3030",
+      "ementa": "APROVA O CONTRATO FEITO COM A COMPANHIA MACAÉ & CAMPOS, PARA A NAVEGAÇÃO POR VAPOR ENTRE O PORTO DO RIO DE JANEIRO E O DE CARAVELAS, NA BAHIA, E PARA A NAVEGAÇÃO FLUVIAL DE S. JOSÉ DE PORTO ALEGRE ATÉ SANTA CLARA."
+    },
+    {
+      "senadoId": "399107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3022",
+      "titulo": "Decreto nº 3.022 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3022",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3022",
+      "ementa": "CRIA UM TERMO DA VILA DE ITAJAI, NA PROVÍCIA DE SANTA CATARINA, O LUGAR DE JUIZ MUNICIPIO, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "399111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3023",
+      "titulo": "Decreto nº 3.023 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3023",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3023",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A SEÇÃO DE BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS DO SERVIÇO ATIVO, CRIADA NO MUNICIPIO DE VOTUVERAVA DA PROVÍNCIA DO PARANA."
+    },
+    {
+      "senadoId": "399103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3021",
+      "titulo": "Decreto nº 3.021 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3021",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3021",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICIPIOS DE CAVALCANTI E ARRAIAS DA PROVÍNCIAS DE GOIAS."
+    },
+    {
+      "senadoId": "399123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3026",
+      "titulo": "Decreto nº 3.026 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3026",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3026",
+      "ementa": "ELEVA Á CATEGORIA DE CORPO O ESQUADRÃO DE CAVALARIA AVULSO DA GUARDA NACIONAL, CRIADO NA FREGUESIA DE PONTA GROSSA, DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "399127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3027",
+      "titulo": "Decreto nº 3.027 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3027",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3027",
+      "ementa": "MARCA O ORDENADO DO CARCEREIRO DA CADEIA DE GUARATUBA NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "399119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3025",
+      "titulo": "Decreto nº 3.025 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3025",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3025",
+      "ementa": "CRIA UM BATALHÃO DE GUARDAS NACIONAIS DO SERVIÇO DA RESERVA NA CAPITAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "399135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3029",
+      "titulo": "Decreto nº 3.029 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3029",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3029",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS DO SERVIÇO DA RESERVA, NO MUNICIPIO DA CAPITAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "399115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3024",
+      "titulo": "Decreto nº 3.024 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3024",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3024",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA CAPITAL DA PROVÍNCIA DO PARANÁ AS FREGUESIAS DO PRINCIPE, RIO NEGRO E PALMEIRA, E CRIA NELAS UM NOVO COMANDO SUPERIOR, FORMADO DOS CORPOS ORGANIZADOS NAS MESMAS FREGUESIAS."
+    },
+    {
+      "senadoId": "399131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-09-3028",
+      "titulo": "Decreto nº 3.028 de 09/12/1862",
+      "data": "1862-12-09",
+      "numero": "3028",
+      "urn": "urn:lex:br:federal:decreto:1862-12-09;3028",
+      "ementa": "CRIA NO TERMO DE SANTA MARIA MAGDALENA, NA PROVÍNCIA DO RIO DE JANEIRO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "399099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-06-3020",
+      "titulo": "Decreto nº 3.020 de 06/12/1862",
+      "data": "1862-12-06",
+      "numero": "3020",
+      "urn": "urn:lex:br:federal:decreto:1862-12-06;3020",
+      "ementa": "CONFIRMA A CONCESSÃO DE DUAS LOTERIAS Á ASSOCIAÇÃO DE S. VICENTE DE PAULO."
+    },
+    {
+      "senadoId": "399095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-12-05-3019",
+      "titulo": "Decreto nº 3.019 de 05/12/1862",
+      "data": "1862-12-05",
+      "numero": "3019",
+      "urn": "urn:lex:br:federal:decreto:1862-12-05;3019",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á ASSOCIAÇÃO DE S. VICENTE DE PAULO ESTABELECIDA NESTA CÔRTE PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS, COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "399087",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3017",
+      "titulo": "Decreto nº 3.017 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3017",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3017",
+      "ementa": "CRIA NO TERMO DA VILA FORMOSA, NA PROVÍNCIA DE MINAS GERAIS, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "399091",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3018",
+      "titulo": "Decreto nº 3.018 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3018",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3018",
+      "ementa": "CRIA UMA CONSERVATORIA DO COMMERCIO NA CIDADE DE PORTO ALEGRE, DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "399075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3014",
+      "titulo": "Decreto nº 3.014 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3014",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3014",
+      "ementa": "CONCEDE Á COMPANHIA DE SEGURO MARITIMO E CONTRA O FOGO - ESPERANÇA - A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "399083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3016",
+      "titulo": "Decreto nº 3.016 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3016",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3016",
+      "ementa": "CONFIRMA A CONCESSÃO DE DUAS LOTERIAS ÁS MATRIZES DA VILA DA OLIVEIRA E DA FREGUESIA DO PASSATEMPO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "399071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3013",
+      "titulo": "Decreto nº 3.013 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3013",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3013",
+      "ementa": "CONCEDE Á COMPANHIA DO BEBERIBE A NECESSÁRIA AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "399067",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3012",
+      "titulo": "Decreto nº 3.012 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3012",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3012",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE PROPAGADORA DAS BELLAS ARTES."
+    },
+    {
+      "senadoId": "399079",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-28-3015",
+      "titulo": "Decreto nº 3.015 de 28/11/1862",
+      "data": "1862-11-28",
+      "numero": "3015",
+      "urn": "urn:lex:br:federal:decreto:1862-11-28;3015",
+      "ementa": "CONFIRMA A CONCESSÃO DE TRES LOTERIAS ÁS MATRIZES DO PIAUI."
+    },
+    {
+      "senadoId": "399063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-26-3011",
+      "titulo": "Decreto nº 3.011 de 26/11/1862",
+      "data": "1862-11-26",
+      "numero": "3011",
+      "urn": "urn:lex:br:federal:decreto:1862-11-26;3011",
+      "ementa": "CONCEDE Á SOCIEDADE DENOMINADA - TRABALHO, UNIÃO E MORALIDADE - AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "399059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-25-3010",
+      "titulo": "Decreto nº 3.010 de 25/11/1862",
+      "data": "1862-11-25",
+      "numero": "3010",
+      "urn": "urn:lex:br:federal:decreto:1862-11-25;3010",
+      "ementa": "ALTERA A ORGANIZA DA GUARDA NACIONAL DOS MUNICÍPIOS DE PETROPOLIS E ESTRELLA DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "399047",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-24-3007",
+      "titulo": "Decreto nº 3.007 de 24/11/1862",
+      "data": "1862-11-24",
+      "numero": "3007",
+      "urn": "urn:lex:br:federal:decreto:1862-11-24;3007",
+      "ementa": "DESIGNA O MODO POR QUE DEVEM SER CUMPRIDAS AS SENTENÇAS CONDENADO RÉIS MILITARES A TRABALHOS DE FORTIFICAÇÃO."
+    },
+    {
+      "senadoId": "399051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-24-3008",
+      "titulo": "Decreto nº 3.008 de 24/11/1862",
+      "data": "1862-11-24",
+      "numero": "3008",
+      "urn": "urn:lex:br:federal:decreto:1862-11-24;3008",
+      "ementa": "MARCA O ORDENADO DO CARCEREIRO DA CADEIA DA VILA DE S. JERÔNIMO NA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "399055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-24-3009",
+      "titulo": "Decreto nº 3.009 de 24/11/1862",
+      "data": "1862-11-24",
+      "numero": "3009",
+      "urn": "urn:lex:br:federal:decreto:1862-11-24;3009",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA DE ILUMINAÇÃO A GAZ DO MARANHÃO E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "399043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-21-3006",
+      "titulo": "Decreto nº 3.006 de 21/11/1862",
+      "data": "1862-11-21",
+      "numero": "3006",
+      "urn": "urn:lex:br:federal:decreto:1862-11-21;3006",
+      "ementa": "CONCEDE A GUILHERME VAN VLECK LIDGERWOOD E ROBERTO PORTER WALKER PRIVILÉGIO POR DEZ ANOS PARA FABRICAREM, USAREM E VENDEREM NO IMPERIO, SOB AS CONDIÇÕES ABAIXO DECLARADAS, MAQUINAS DE DESCASCAR E LIMPAR O CAFÉ APERFEIÇOADAS SEGUNDO O PROCESSO QUE INVENTARAM."
+    },
+    {
+      "senadoId": "399031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-21-3003",
+      "titulo": "Decreto nº 3.003 de 21/11/1862",
+      "data": "1862-11-21",
+      "numero": "3003",
+      "urn": "urn:lex:br:federal:decreto:1862-11-21;3003",
+      "ementa": "CONFIRMA A CONCESSÃO DE DUAS LOTERIAS PARA A CASA DE CARIDADE DA VILLA DO CURVELLO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "399035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-21-3004",
+      "titulo": "Decreto nº 3.004 de 21/11/1862",
+      "data": "1862-11-21",
+      "numero": "3004",
+      "urn": "urn:lex:br:federal:decreto:1862-11-21;3004",
+      "ementa": "ESTABELECE CONDIÇÕES PARA A EXECUÇÃO DAS OBRAS DE QUE TRATA O § 3.º DA CONDIÇÃO 2.ª DO CONTRATO DE 25 DE ABRIL DE 1857."
+    },
+    {
+      "senadoId": "399039",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-21-3005",
+      "titulo": "Decreto nº 3.005 de 21/11/1862",
+      "data": "1862-11-21",
+      "numero": "3005",
+      "urn": "urn:lex:br:federal:decreto:1862-11-21;3005",
+      "ementa": "PRORROGA POR CINCO ANOS O PRAZO DO PRIVILÉGIO CONCEDIDO A FREDERICO SAUERBRONN PARA USAR DA MAQUINA DE SUA INVENÇÃO, DESTINADA A PULVERIZAR E REFINAR O AÇUCAR."
+    },
+    {
+      "senadoId": "399027",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-21-3002",
+      "titulo": "Decreto nº 3.002 de 21/11/1862",
+      "data": "1862-11-21",
+      "numero": "3002",
+      "urn": "urn:lex:br:federal:decreto:1862-11-21;3002",
+      "ementa": "CONFIRMA A CONCESSÃO DE UMA LOTERIA Á IRMANDADE DE S. FRANCISCO DE ASSIS DA CIDADE DO PITANGUI, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "399023",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-18-3001",
+      "titulo": "Decreto nº 3.001 de 18/11/1862",
+      "data": "1862-11-18",
+      "numero": "3001",
+      "urn": "urn:lex:br:federal:decreto:1862-11-18;3001",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE CARRIS DE FERRO DO JARDIM BOTÂNICO."
+    },
+    {
+      "senadoId": "399019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-12-3000",
+      "titulo": "Decreto nº 3.000 de 12/11/1862",
+      "data": "1862-11-12",
+      "numero": "3000",
+      "urn": "urn:lex:br:federal:decreto:1862-11-12;3000",
+      "ementa": "ALTERA O DECRETO NÚMERO 519 DE 10 DE JUNHO DE 1847, E CRIA UM LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS NO TERMO DE AURA PRETA DA CAMARCA DE PALMARES, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "399015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-11-08-2999",
+      "titulo": "Decreto nº 2.999 de 08/11/1862",
+      "data": "1862-11-08",
+      "numero": "2999",
+      "urn": "urn:lex:br:federal:decreto:1862-11-08;2999",
+      "ementa": "CONCEDE O PROLONGAMENTO DA VIA FERREA DA TIJUCA, E ALTERA O DECRETO NÚMERO 1.742 DE 29 DE MARÇO DE 1856."
+    },
+    {
+      "senadoId": "399011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-29-2998",
+      "titulo": "Decreto nº 2.998 de 29/10/1862",
+      "data": "1862-10-29",
+      "numero": "2998",
+      "urn": "urn:lex:br:federal:decreto:1862-10-29;2998",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NÚMERO 35 DA GUARDA NACIONAL DA PROVÍNCIA DE S. PAULO, E CRIA UM ESQUADRÃO AVULSO NA VILLA DE ITAPEVA DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "399007",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-27-2997",
+      "titulo": "Decreto nº 2.997 de 27/10/1862",
+      "data": "1862-10-27",
+      "numero": "2997",
+      "urn": "urn:lex:br:federal:decreto:1862-10-27;2997",
+      "ementa": "CONFIRMA Á CONCESSÃO DE VINTE DUAS LOTERIAS Á OPERA LÍRICA NACIONAL."
+    },
+    {
+      "senadoId": "399003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-27-2996",
+      "titulo": "Decreto nº 2.996 de 27/10/1862",
+      "data": "1862-10-27",
+      "numero": "2996",
+      "urn": "urn:lex:br:federal:decreto:1862-10-27;2996",
+      "ementa": "CONFIRMA A CONCESSÃO DE SETE LOTERIAS Á IRMANDADE DO SANTÍSSIMO SACRAMENTO DA ANTIGA SÉ DA CÔRTE."
+    },
+    {
+      "senadoId": "398999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-20-2995",
+      "titulo": "Decreto nº 2.995 de 20/10/1862",
+      "data": "1862-10-20",
+      "numero": "2995",
+      "urn": "urn:lex:br:federal:decreto:1862-10-20;2995",
+      "ementa": "MUDA O UNIFORME DAS PRAÇAS DO BATALHÃO NAVAL."
+    },
+    {
+      "senadoId": "398995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-18-2994",
+      "titulo": "Decreto nº 2.994 de 18/10/1862",
+      "data": "1862-10-18",
+      "numero": "2994",
+      "urn": "urn:lex:br:federal:decreto:1862-10-18;2994",
+      "ementa": "CONFIRMA A CONCESSÃO DE DUAS LOTERIAS Á IRMANDADE DO SANTÍSSIMO SACRAMENTO DA FREGUESIA DA BOA-VISTA NA CIDADE DO RECIFE."
+    },
+    {
+      "senadoId": "398987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-14-2992",
+      "titulo": "Decreto nº 2.992 de 14/10/1862",
+      "data": "1862-10-14",
+      "numero": "2992",
+      "urn": "urn:lex:br:federal:decreto:1862-10-14;2992",
+      "ementa": "CRIA NO TERMO DE S. PAULO DE MURIAHÉ, DA PROVÍNCIA DE MINAS GERAIS, O LUGAR DE JUIZ MUNICIPAL E DE ORFÃOS."
+    },
+    {
+      "senadoId": "398991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-14-2993",
+      "titulo": "Decreto nº 2.993 de 14/10/1862",
+      "data": "1862-10-14",
+      "numero": "2993",
+      "urn": "urn:lex:br:federal:decreto:1862-10-14;2993",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO MUNICIPIO DE ATALAIA, DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "398983",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-14-2991",
+      "titulo": "Decreto nº 2.991 de 14/10/1862",
+      "data": "1862-10-14",
+      "numero": "2991",
+      "urn": "urn:lex:br:federal:decreto:1862-10-14;2991",
+      "ementa": "MARCA O ORDENADO DOS PROMOTORES PUBLICOS DAS COMARCAS DE OLINDA, CABROBRO E PALMARES, NA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "398968",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-14-2987",
+      "titulo": "Decreto nº 2.987 de 14/10/1862",
+      "data": "1862-10-14",
+      "numero": "2987",
+      "urn": "urn:lex:br:federal:decreto:1862-10-14;2987",
+      "ementa": "CONCEDE A FERDINAND PHILIPPE EDOUARD CARRÉ PRIVILÉGIO EXCLUSIVO POR 10 ANOS PARA INTRODUZIR NO IMPÉRIO UM APARELHO DE SUA INVENÇÃO DESTINADO A OBTER GELO."
+    },
+    {
+      "senadoId": "398972",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-14-2988",
+      "titulo": "Decreto nº 2.988 de 14/10/1862",
+      "data": "1862-10-14",
+      "numero": "2988",
+      "urn": "urn:lex:br:federal:decreto:1862-10-14;2988",
+      "ementa": "CRIA MAIS UM CORPO DE CAVALARIA DE GUARDA NACIONAL NO MUNICÍPO DE PARNAGUÁ, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "398979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-14-2990",
+      "titulo": "Decreto nº 2.990 de 14/10/1862",
+      "data": "1862-10-14",
+      "numero": "2990",
+      "urn": "urn:lex:br:federal:decreto:1862-10-14;2990",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO A COMPANHIA AVULSA DA GUARDA NACIONAL, CRIADA NAS FREGUESIAS DA VILLA BELLA DA IMPERATRIZ E ANDIRÁ, NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "398951",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-08-2982",
+      "titulo": "Decreto nº 2.982 de 08/10/1862",
+      "data": "1862-10-08",
+      "numero": "2982",
+      "urn": "urn:lex:br:federal:decreto:1862-10-08;2982",
+      "ementa": "PERMITE QUE O FUNDO DO MONTE DE SOCORRO DA CÔRTE SE POSSA DEPOSITAR NOS BANCOS PÚBLICOS OU NO TESOURO NACIONAL, E ORDENA QUE O JURO DOS EMPRÉSTIMOS SOBRE PENHORES SE COBRE DEPOIS DE VENCIDO."
+    },
+    {
+      "senadoId": "398961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-08-2985",
+      "titulo": "Decreto nº 2.985 de 08/10/1862",
+      "data": "1862-10-08",
+      "numero": "2985",
+      "urn": "urn:lex:br:federal:decreto:1862-10-08;2985",
+      "ementa": "CONFIRMA A CONCESSÃO DE UMA LOTERIA EM BENEFÍCIO DA IGREJA MATRIZ DE SETE LAGOAS DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "398947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-06-2981",
+      "titulo": "Decreto nº 2.981 de 06/10/1862",
+      "data": "1862-10-06",
+      "numero": "2981",
+      "urn": "urn:lex:br:federal:decreto:1862-10-06;2981",
+      "ementa": "CONFIRMA A CONCESSÃO DE TRÊS LOTERIAS Á IMPERIAL SOCIEDADE AUXILIADORA DAS ARTES MECÂNICAS, LIBERAIS E BENEFICENTE."
+    },
+    {
+      "senadoId": "398943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-04-2980",
+      "titulo": "Decreto nº 2.980 de 04/10/1862",
+      "data": "1862-10-04",
+      "numero": "2980",
+      "urn": "urn:lex:br:federal:decreto:1862-10-04;2980",
+      "ementa": "CONCEDE Á SOCIEDADE ALEMÃ DE GINÁSTICA AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-02-2978",
+      "titulo": "Decreto nº 2.978 de 02/10/1862",
+      "data": "1862-10-02",
+      "numero": "2978",
+      "urn": "urn:lex:br:federal:decreto:1862-10-02;2978",
+      "ementa": "REVOGA O DECRETO 705 DE 5 DE OUTUBRO DE 1850, E MANDA ADPTAR PROVISÓRIAMENTE PARA A INSTRUÇÃO PRÁTICA DOS CORPOS DAS TRÊS ARMAS DO EXÉRCITO OS REGULAMNETOS E ORDENÂNÇAS ATUALMENTE SEGUIDOS NOS DO EXÉRCITO PORTUGUÊS."
+    },
+    {
+      "senadoId": "398939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-10-02-2979",
+      "titulo": "Decreto nº 2.979 de 02/10/1862",
+      "data": "1862-10-02",
+      "numero": "2979",
+      "urn": "urn:lex:br:federal:decreto:1862-10-02;2979",
+      "ementa": "PERMITE A INSTALAÇÃO, NA CÔRTE, DA COMPANHIA - LONDON & BRASILIAN BANK -, DE BAIXO DE CERTAS CONDIÇÕES."
+    },
+    {
+      "senadoId": "398930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-25-2977",
+      "titulo": "Decreto nº 2.977 de 25/09/1862",
+      "data": "1862-09-25",
+      "numero": "2977",
+      "urn": "urn:lex:br:federal:decreto:1862-09-25;2977",
+      "ementa": "APROVA O CONTRATO FEITO COM A COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO POR VAPOR FAZENDO EXTENSIVA A LINHA DO SUL ATÉ ARACAJÚ, E AUTORIZA SEIS VIAGENS ANUAIS Á ILHA DE FERNANDO DE NORONHA."
+    },
+    {
+      "senadoId": "398926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-22-2976",
+      "titulo": "Decreto nº 2.976 de 22/09/1862",
+      "data": "1862-09-22",
+      "numero": "2976",
+      "urn": "urn:lex:br:federal:decreto:1862-09-22;2976",
+      "ementa": "CONCEDE A EMÍLIO JOÃO GONDOLO PRIVILÉGIO POR 10 ANOS PARA UM NOVO SISTEMA DE DAR CORDA AOS RELÓGIOS."
+    },
+    {
+      "senadoId": "398922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-20-2975",
+      "titulo": "Decreto nº 2.975 de 20/09/1862",
+      "data": "1862-09-20",
+      "numero": "2975",
+      "urn": "urn:lex:br:federal:decreto:1862-09-20;2975",
+      "ementa": "CONCEDE Á SOCIEDADE ITALIANA DE BENEFICIÊNCIA  AUTORIZAÇÃO PARA CONTINUAR AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-16-2974",
+      "titulo": "Decreto nº 2.974 de 16/09/1862",
+      "data": "1862-09-16",
+      "numero": "2974",
+      "urn": "urn:lex:br:federal:decreto:1862-09-16;2974",
+      "ementa": "PERMITE Á COMPANHIA DE NAVEGAÇÃO POR VAPOR DO RIO PARNAIBA DA PROVÍNCIA DO  PIAUÍ, CONTINUE A FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "398914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-13-2973",
+      "titulo": "Decreto nº 2.973 de 13/09/1862",
+      "data": "1862-09-13",
+      "numero": "2973",
+      "urn": "urn:lex:br:federal:decreto:1862-09-13;2973",
+      "ementa": "APROVA OS ESTAUTOS DA SOCIEDADE ALEMÃ DE BENEFICIÊNCIA."
+    },
+    {
+      "senadoId": "398910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-10-2972",
+      "titulo": "Decreto nº 2.972 de 10/09/1862",
+      "data": "1862-09-10",
+      "numero": "2972",
+      "urn": "urn:lex:br:federal:decreto:1862-09-10;2972",
+      "ementa": "CONCEDE A MANOEL DOMINGUES PATRÃO PRIVILÉGIO POR 10 ANOS PARA EMPREGAR NO MAR E EM TERRA O MAQUINISMO QUE DIZ TER INVENTADO PARA SUBSTITUIR O VAPOR."
+    },
+    {
+      "senadoId": "398905",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-10-2971",
+      "titulo": "Decreto nº 2.971 de 10/09/1862",
+      "data": "1862-09-10",
+      "numero": "2971",
+      "urn": "urn:lex:br:federal:decreto:1862-09-10;2971",
+      "ementa": "CONCEDE A TRAJANO AUGUSTO DE CARVALHO PRIVILÉGIO POR 10 ANOS PARA, POR SI, OU PRO MEIO DE UMA COMPANHIA, ESTABELECER DIQUES FLUTUANTES NOS PORTOS E RIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "398897",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-09-2969",
+      "titulo": "Decreto nº 2.969 de 09/09/1862",
+      "data": "1862-09-09",
+      "numero": "2969",
+      "urn": "urn:lex:br:federal:decreto:1862-09-09;2969",
+      "ementa": "PRORROGA POR OITO MESES O PRAZO MARCADO NO DECRETO NÚMERO 2.874 DE 31 DE DEZEMBRO DE 1861."
+    },
+    {
+      "senadoId": "398901",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-09-2970",
+      "titulo": "Decreto nº 2.970 de 09/09/1862",
+      "data": "1862-09-09",
+      "numero": "2970",
+      "urn": "urn:lex:br:federal:decreto:1862-09-09;2970",
+      "ementa": "APROVA O ACORDO CELEBRADO ENTRE OS BANCOS DO BRASIL, RURAL E HIPOTECÁRIO, E COMERCIAL E AGRÍCOLA, SOBRE A DESISTÊNCIA QUE ESTES FAZEM DE SEU DIREITO DE EMISSÃO REFORMANDO OS ESTATUTOS DAQUELE PRIMEIRO BANCO NA PARTE RELATIVA AO CAPITAL."
+    },
+    {
+      "senadoId": "398893",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-06-2968",
+      "titulo": "Decreto nº 2.968 de 06/09/1862",
+      "data": "1862-09-06",
+      "numero": "2968",
+      "urn": "urn:lex:br:federal:decreto:1862-09-06;2968",
+      "ementa": "CONCEDE Á SOCIEDADE ALEMÃ - GERMANIA - AUTORIZAÇÃO PARA CONTINUAR A EXERCER SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398889",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-03-2967",
+      "titulo": "Decreto nº 2.967 de 03/09/1862",
+      "data": "1862-09-03",
+      "numero": "2967",
+      "urn": "urn:lex:br:federal:decreto:1862-09-03;2967",
+      "ementa": "DECLARA DE SEGUNDA ENTRANCIA A COMARCA DE OLINDA CRIADA NA PROVINCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "398881",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-03-2965",
+      "titulo": "Decreto nº 2.965 de 03/09/1862",
+      "data": "1862-09-03",
+      "numero": "2965",
+      "urn": "urn:lex:br:federal:decreto:1862-09-03;2965",
+      "ementa": "CONCEDE A CARLOS LUIZ CAMBRONE, DIRETOR DA EMPRESA PARA SERVIÇO DO ESGOTO DAS ÁGUAS SERVIDAS E ASSEIO PÚBLICO DA CIDADE DO RECIFE DA PROVÍNCIA DE PERNAMBUCO, ISENÇÃO, POR TEMPO DE TRINTA ANOS, DOS DIREITOS DE EXPORTAÇÃO DE EXTRUME PREPARADO PELA REFERIDA EMPRESA."
+    },
+    {
+      "senadoId": "398885",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-09-03-2966",
+      "titulo": "Decreto nº 2.966 de 03/09/1862",
+      "data": "1862-09-03",
+      "numero": "2966",
+      "urn": "urn:lex:br:federal:decreto:1862-09-03;2966",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA AS COMARCAS DE PALMARES E DO CABROBÓ, CRIADAS NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "398873",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-25-2963",
+      "titulo": "Decreto nº 2.963 de 25/08/1862",
+      "data": "1862-08-25",
+      "numero": "2963",
+      "urn": "urn:lex:br:federal:decreto:1862-08-25;2963",
+      "ementa": "PERMITE A SUPERVISÃO DA ÚLTIMA PARTE DO ARTIGO. 6º DOS NOVOS ESTATUTOS DA COMPANHIA DE SEGUROS - FIDELIDADE -, ESTABELECIDA NESTA CIDADE."
+    },
+    {
+      "senadoId": "398877",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-25-2964",
+      "titulo": "Decreto nº 2.964 de 25/08/1862",
+      "data": "1862-08-25",
+      "numero": "2964",
+      "urn": "urn:lex:br:federal:decreto:1862-08-25;2964",
+      "ementa": "REVOGA O DECRETO NÚMERO 2.886 DE 8 DE FEVEREIRO DE 1862, E MANDA POR EM VIGOR O ARTIGO 22 DO REGIMENTO CONSULAR DE 11 DE JUNHO DE 1847."
+    },
+    {
+      "senadoId": "398869",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-25-2962",
+      "titulo": "Decreto nº 2.962 de 25/08/1862",
+      "data": "1862-08-25",
+      "numero": "2962",
+      "urn": "urn:lex:br:federal:decreto:1862-08-25;2962",
+      "ementa": "CONCEDE A MANOEL JOAQUIM DE OLIVEIRA JUNIOR PRIVILÉGIO POR CINCO ANOS PARA PREPARAR A TINTA DENOMINADA - VIOLETA."
+    },
+    {
+      "senadoId": "398865",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-16-2961",
+      "titulo": "Decreto nº 2.961 de 16/08/1862",
+      "data": "1862-08-16",
+      "numero": "2961",
+      "urn": "urn:lex:br:federal:decreto:1862-08-16;2961",
+      "ementa": "DISPENSA A COMPANHIA - THE EAST D'EL-REI MINING - DE FAZER O DEPÓSITO DE QUE TRATA O DECRETO NÚMERO 2.945 DE 7 DE JUNHO ÚLTIMO."
+    },
+    {
+      "senadoId": "398861",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-07-2960",
+      "titulo": "Decreto nº 2.960 de 07/08/1862",
+      "data": "1862-08-07",
+      "numero": "2960",
+      "urn": "urn:lex:br:federal:decreto:1862-08-07;2960",
+      "ementa": "CONCEDE Á COMPANHIA INGLESA DE MINERAÇÃO - MONTES AURCOS - A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "398857",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-06-2959",
+      "titulo": "Decreto nº 2.959 de 06/08/1862",
+      "data": "1862-08-06",
+      "numero": "2959",
+      "urn": "urn:lex:br:federal:decreto:1862-08-06;2959",
+      "ementa": "DECLARA QUE A COMUNIDADE EVANGÉLICA ALEMÃ, EXISTENTE NESTA CORTE, PODE CONTINUAR NO EXERCÍCIO DE SUAS FUNÇÕES SEM PREJUÍZO DAS LEIS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "398853",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-08-04-2958",
+      "titulo": "Decreto nº 2.958 de 04/08/1862",
+      "data": "1862-08-04",
+      "numero": "2958",
+      "urn": "urn:lex:br:federal:decreto:1862-08-04;2958",
+      "ementa": "APROVA OS N0VOS ESTATUTOS POR QUE DEVE REGER-SE A COMPANHIA DE SEGUROS - FIDELIDADE -, ESTABELECIDA NESTA CORTE."
+    },
+    {
+      "senadoId": "398849",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-30-2957",
+      "titulo": "Decreto nº 2.957 de 30/07/1862",
+      "data": "1862-07-30",
+      "numero": "2957",
+      "urn": "urn:lex:br:federal:decreto:1862-07-30;2957",
+      "ementa": "CONCEDE Á SOCIEDADE PORTUGUESA PRIMEIRO DE DEZEMBRO AUTORIZAÇÃO PARA EXERCER SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398845",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-26-2956",
+      "titulo": "Decreto nº 2.956 de 26/07/1862",
+      "data": "1862-07-26",
+      "numero": "2956",
+      "urn": "urn:lex:br:federal:decreto:1862-07-26;2956",
+      "ementa": "CONCEDE Á IMPERIAL SOCIEDADE DE BENEFICIÊNCIA PROTETORA DE GUARDAS MUNICIPAIS DA CORTE E PROVÍNCIA DO RIO DE JANEIRO, AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398841",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-24-2955",
+      "titulo": "Decreto nº 2.955 de 24/07/1862",
+      "data": "1862-07-24",
+      "numero": "2955",
+      "urn": "urn:lex:br:federal:decreto:1862-07-24;2955",
+      "ementa": "PROMULGA A CONVENÇÃO CONSULAR CELEBRADA EM 26 DE JANEIRO DE 1861 ENTRE O BRASIL E A CONFEDERAÇÃO SUÍSSA, PARA REGULAR OS DIREITOS, PRIVILÉGIOS E IMUNIDADES RECIPROCAS DOS CONSULES, VICE-CONSULES E CHANCELERES, BEM COMO AS FUNÇÕE E OBRIGAÇÕES A QUE FICAM RECIPROCAMENTE SUJEITOS NOS DOIS PAÍSES."
+    },
+    {
+      "senadoId": "398837",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-21-2954",
+      "titulo": "Decreto nº 2.954 de 21/07/1862",
+      "data": "1862-07-21",
+      "numero": "2954",
+      "urn": "urn:lex:br:federal:decreto:1862-07-21;2954",
+      "ementa": "PRORROGA POR MAIS UM ANO O PRAZO CONCEDIDO A LUIZ D'ORDAN PARA ORGANIZAR  A COMPANHIA POR MEIO DA QUAL PRETENDE LAVRAR AS MINAS DE CHUMBO QUE DESCOBRIU NA FREGUESIA DO IPORANGA, PROVÍNCIA DE S.PAULO."
+    },
+    {
+      "senadoId": "398830",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-12-2952",
+      "titulo": "Decreto nº 2.952 de 12/07/1862",
+      "data": "1862-07-12",
+      "numero": "2952",
+      "urn": "urn:lex:br:federal:decreto:1862-07-12;2952",
+      "ementa": "CRIA UMA CADEIRA DE INSTRUÇÃO PRIMÁRIA DO PRIMEIRO GRAU PARA O SEXO FEMININO, A QUAL DEVE SER ESTABELECIDA NO CENTRO DOS BAIRROS DENOMINADOS BEMFICA E PEDREGULHO, DA FREGUESIA DE S. CRISTÓVÃO."
+    },
+    {
+      "senadoId": "398822",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-10-2950",
+      "titulo": "Decreto nº 2.950 de 10/07/1862",
+      "data": "1862-07-10",
+      "numero": "2950",
+      "urn": "urn:lex:br:federal:decreto:1862-07-10;2950",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM ROBERT SHARP & FILHOS PARA ACELERAR O PRAZO DA CONCLUSÃO DA VIA FERREA DE S. PAULO."
+    },
+    {
+      "senadoId": "398826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-10-2951",
+      "titulo": "Decreto nº 2.951 de 10/07/1862",
+      "data": "1862-07-10",
+      "numero": "2951",
+      "urn": "urn:lex:br:federal:decreto:1862-07-10;2951",
+      "ementa": "FAZ EXTENSIVAS Á AGÊNCIA DA COMPANHIA DE SEGUROS - FIDELIDADE - DA CIDADE DE LISBOA, ESTABELECIDA NA CAPITAL DA PROVÍNCIA DO MARANHÃO, AS DISPOSIÇÕES DO DECRETO NÚMERO 2910 DE 26 DE JUNHO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "398818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-09-2949",
+      "titulo": "Decreto nº 2.949 de 09/07/1862",
+      "data": "1862-07-09",
+      "numero": "2949",
+      "urn": "urn:lex:br:federal:decreto:1862-07-09;2949",
+      "ementa": "CONCEDE Á SOCIEDADE DENOMINADA GLÓRIA DO LAVRAD0 AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-07-2946",
+      "titulo": "Decreto nº 2.946 de 07/07/1862",
+      "data": "1862-07-07",
+      "numero": "2946",
+      "urn": "urn:lex:br:federal:decreto:1862-07-07;2946",
+      "ementa": "PERMITE QUE A AGÊNCIA DA COMPANHIA  DE SEGUROS GARANTIA, DA CIDADE DO PORTO, ESTABELECIDA NA CAPITAL DA PROVÍNCIA DO PARÁ, CONTINUE A FUNCIONAR."
+    },
+    {
+      "senadoId": "398802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-07-2945",
+      "titulo": "Decreto nº 2.945 de 07/07/1862",
+      "data": "1862-07-07",
+      "numero": "2945",
+      "urn": "urn:lex:br:federal:decreto:1862-07-07;2945",
+      "ementa": "CONCEDE Á COMPANHIA INGLÊS THE EAST D'EL-REI MINING COMPANY A NECESSÁRIA AUTORIZAÇÃO PARA CRIAR UMA AGÊNCIA NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "398810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-07-2947",
+      "titulo": "Decreto nº 2.947 de 07/07/1862",
+      "data": "1862-07-07",
+      "numero": "2947",
+      "urn": "urn:lex:br:federal:decreto:1862-07-07;2947",
+      "ementa": "CONCEDE Á COMPANHIA HIDRÁULICA PORTO-ALEGRENSE, CUJO FIM É ABASTECER DE ÁGUA POTÁVEL A CAPITAL DA PROVÍNCIA DE S. PEDRO DO SUL, AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-07-2948",
+      "titulo": "Decreto nº 2.948 de 07/07/1862",
+      "data": "1862-07-07",
+      "numero": "2948",
+      "urn": "urn:lex:br:federal:decreto:1862-07-07;2948",
+      "ementa": "MANDA DESAPROPRIAR O DOMÍNIO DIRETO DOS TERRENOS DA LAGOA DE RODRIGO DE FREITAS, E CUMPRIR OUTRAS DISPOSIÇÕES LEGISLATIVAS CONCERNENTES AOS MESMOS TERRENOS."
+    },
+    {
+      "senadoId": "398794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-02-2943",
+      "titulo": "Decreto nº 2.943 de 02/07/1862",
+      "data": "1862-07-02",
+      "numero": "2943",
+      "urn": "urn:lex:br:federal:decreto:1862-07-02;2943",
+      "ementa": "CONCEDE AUTORIZAÇÃ0 AO REVERENDO BISPO CONDE CAPELÃO-MÓR PARA QUE NA SUA DIOCESE POSSA CONTINUAR A PROMOVER E ACEITAR ESMOLAS PARA A ASSOCIAÇÃO ESTABELECIDA EM FRANÇA SOB A DENOMINAÇÃO DE - OBRA DA SANTA INFÂNCIA."
+    },
+    {
+      "senadoId": "398790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-02-2942",
+      "titulo": "Decreto nº 2.942 de 02/07/1862",
+      "data": "1862-07-02",
+      "numero": "2942",
+      "urn": "urn:lex:br:federal:decreto:1862-07-02;2942",
+      "ementa": "CONCEDE AUTORIZAÇÃO AO CONSELHO CRIADO NESTA CIDADE SOB A PRESIDÊNCIA DO REVERNDO BISPO CONDE CAPELLÃO-MÓR, REPRESENTANDO A ASSOCIAÇÃO  ESTABELECIDA EM PARIS DENOMINADA - OBRA DA PROGAMAÇÃO DA FÉ -, PARA PROMOVER E ACEITAR ESMOLAS PARA A MESMA ASSSOCIAÇÃO."
+    },
+    {
+      "senadoId": "398798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-07-02-2944",
+      "titulo": "Decreto nº 2.944 de 02/07/1862",
+      "data": "1862-07-02",
+      "numero": "2944",
+      "urn": "urn:lex:br:federal:decreto:1862-07-02;2944",
+      "ementa": "CONCEDE Á SOCIEDADE DE BENEFICIÊNCIA PERFEITA AMIZADE AUTORIZAÇÃO PARA CONTINUAR E O EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-27-2941",
+      "titulo": "Decreto nº 2.941 de 27/06/1862",
+      "data": "1862-06-27",
+      "numero": "2941",
+      "urn": "urn:lex:br:federal:decreto:1862-06-27;2941",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A ARREMATAÇÃO DOS BENS PERTENCENTES AO EXTINTO VINCULO DE  JAGUARA, NA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "398774",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-26-2938",
+      "titulo": "Decreto nº 2.938 de 26/06/1862",
+      "data": "1862-06-26",
+      "numero": "2938",
+      "urn": "urn:lex:br:federal:decreto:1862-06-26;2938",
+      "ementa": "CONCEDE Á COMPANHIA DE SEGUROS, PROVIDÊNCIA DA PROVÍNCIA DE S. PEDRO DO SUL, A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-26-2940",
+      "titulo": "Decreto nº 2.940 de 26/06/1862",
+      "data": "1862-06-26",
+      "numero": "2940",
+      "urn": "urn:lex:br:federal:decreto:1862-06-26;2940",
+      "ementa": "PERMITE QUE AS AGÊNCIAS DA COMPANHIA DE SEGUROS FIDELIDADE, DA CIDADE DE LISBOA, ESTABELECIDAS EM DIVERSAS PROVÍNCIAS DO IMPÉRIO, CONTINUEM A FUNCIONAR."
+    },
+    {
+      "senadoId": "398778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-26-2939",
+      "titulo": "Decreto nº 2.939 de 26/06/1862",
+      "data": "1862-06-26",
+      "numero": "2939",
+      "urn": "urn:lex:br:federal:decreto:1862-06-26;2939",
+      "ementa": "CONCEDE Á COMPANHIA - CONFIANÇA MARANHENCE - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398770",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-20-2937",
+      "titulo": "Decreto nº 2.937 de 20/06/1862",
+      "data": "1862-06-20",
+      "numero": "2937",
+      "urn": "urn:lex:br:federal:decreto:1862-06-20;2937",
+      "ementa": "CONCEDE A JOÃO CASANOVA D'ARRACIANI PRIVILÉGIO POR TEMPO DE OITO ANOS PARA FABRICAR E VENDER NO IMPÉRIO A MÁQUINA QUE INVENTOU PARA SECAR CAFÉ EM 60 HORAS, E IGUALMENTE USAR DO COMBUSTÍVEL QUE DESCOBRIO PARA CONSEGUIR ESTE RESULTADO."
+    },
+    {
+      "senadoId": "398766",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-16-2936",
+      "titulo": "Decreto nº 2.936 de 16/06/1862",
+      "data": "1862-06-16",
+      "numero": "2936",
+      "urn": "urn:lex:br:federal:decreto:1862-06-16;2936",
+      "ementa": "REGULA O SERVIÇO DA EXTRAÇÃO DAS LOTERIAS DA CORTE."
+    },
+    {
+      "senadoId": "398762",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-16-2935",
+      "titulo": "Decreto nº 2.935 de 16/06/1862",
+      "data": "1862-06-16",
+      "numero": "2935",
+      "urn": "urn:lex:br:federal:decreto:1862-06-16;2935",
+      "ementa": "APROVA A REORGANIZAÇÃO DA COMPANHIA DE NAVEGAÇÃO POR VAPOR BAHIANA."
+    },
+    {
+      "senadoId": "398758",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-14-2934",
+      "titulo": "Decreto nº 2.934 de 14/06/1862",
+      "data": "1862-06-14",
+      "numero": "2934",
+      "urn": "urn:lex:br:federal:decreto:1862-06-14;2934",
+      "ementa": "APROVA O REGULAMENTO DA SOCIEDADE RIO GRANDENSE BENEFICIENTE E HUMANITÁRIA."
+    },
+    {
+      "senadoId": "398754",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-11-2933",
+      "titulo": "Decreto nº 2.933 de 11/06/1862",
+      "data": "1862-06-11",
+      "numero": "2933",
+      "urn": "urn:lex:br:federal:decreto:1862-06-11;2933",
+      "ementa": "CONCEDE Á SOCIEDADE RIO GRANDENSE BENEFICIENTE E HUMANITÁRIA, AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398750",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-06-10-2932",
+      "titulo": "Decreto nº 2.932 de 10/06/1862",
+      "data": "1862-06-10",
+      "numero": "2932",
+      "urn": "urn:lex:br:federal:decreto:1862-06-10;2932",
+      "ementa": "PERMITE QUE A COMPANHIA INGLESA THE SAINT JOHN D'EL-REI MINING, AGÊNCIA NA PROVÍNCIA DE MINAS GERAIS, CONTINUE A FUNCIONAR."
+    },
+    {
+      "senadoId": "398742",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-21-2930",
+      "titulo": "Decreto nº 2.930 de 21/05/1862",
+      "data": "1862-05-21",
+      "numero": "2930",
+      "urn": "urn:lex:br:federal:decreto:1862-05-21;2930",
+      "ementa": "CRIA UM LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS  DO TERMO S. BENTO DO ARARAGUARA, NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "398738",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-21-2929",
+      "titulo": "Decreto nº 2.929 de 21/05/1862",
+      "data": "1862-05-21",
+      "numero": "2929",
+      "urn": "urn:lex:br:federal:decreto:1862-05-21;2929",
+      "ementa": "APROVA ALGUMAS ALTERAÇÕES FEITAS NOS ESTATUTOS DA CAIXA MUNICIPAL DE BENEFICIÊNCIAS DESTA CIDADE."
+    },
+    {
+      "senadoId": "398730",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-21-2927",
+      "titulo": "Decreto nº 2.927 de 21/05/1862",
+      "data": "1862-05-21",
+      "numero": "2927",
+      "urn": "urn:lex:br:federal:decreto:1862-05-21;2927",
+      "ementa": "CONCEDE AO CONSELHEIRO CÂNDIDO BAPTISTA DE OLIVEIRA E LUIZ PLÍNIO DE OLIVEIRA A NECESSÁRIA  PERMISSÃO PARA TRANSFERIREM AO BARÃO DE MAUÁ OS PRIVILÉGIOS  E FAVORES, QUE LHE FORAM OUTORGADOS PELO DECRETO NÚMERO 1.733 DE 12 DDE MARÇO DE 1856."
+    },
+    {
+      "senadoId": "398746",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-21-2931",
+      "titulo": "Decreto nº 2.931 de 21/05/1862",
+      "data": "1862-05-21",
+      "numero": "2931",
+      "urn": "urn:lex:br:federal:decreto:1862-05-21;2931",
+      "ementa": "MARCA O ORDENADO ANUAL DE SESSENTA MIL RÉIS AO CARCEREIRO DA CADEA DA VILA DO CAMISÃO NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "398734",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-21-2928",
+      "titulo": "Decreto nº 2.928 de 21/05/1862",
+      "data": "1862-05-21",
+      "numero": "2928",
+      "urn": "urn:lex:br:federal:decreto:1862-05-21;2928",
+      "ementa": "CONCEDE Á ASSOCIAÇÃO DE GABINETE PORTUGUÊS DE LEITURA DA PROVÍNCIA DO MARANHÃO AUTORIZAÇÃO PARA CONTINUAR A EXERCER SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398721",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-14-2925",
+      "titulo": "Decreto nº 2.925 de 14/05/1862",
+      "data": "1862-05-14",
+      "numero": "2925",
+      "urn": "urn:lex:br:federal:decreto:1862-05-14;2925",
+      "ementa": "APROVA O REGULAMENTO PARA O SERVIÇO DA INSPEÇÃO DAS OBRAS PÚBLICAS DO MUNICÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "398713",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-14-2923",
+      "titulo": "Decreto nº 2.923 de 14/05/1862",
+      "data": "1862-05-14",
+      "numero": "2923",
+      "urn": "urn:lex:br:federal:decreto:1862-05-14;2923",
+      "ementa": "REVOGA O ARTIGO DO DECRETO NÚMERO 863 DE 17 DE NOVEMBRO DE 1851."
+    },
+    {
+      "senadoId": "398717",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-14-2924",
+      "titulo": "Decreto nº 2.924 de 14/05/1862",
+      "data": "1862-05-14",
+      "numero": "2924",
+      "urn": "urn:lex:br:federal:decreto:1862-05-14;2924",
+      "ementa": "REUNE O TERMO DO PRÍNCIPE AO DE CURITIBA, E O DA PONTA GROSSA AO DE CASTRO NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "398725",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-14-2926",
+      "titulo": "Decreto nº 2.926 de 14/05/1862",
+      "data": "1862-05-14",
+      "numero": "2926",
+      "urn": "urn:lex:br:federal:decreto:1862-05-14;2926",
+      "ementa": "APROVA O REGULAMENTO PARA AS ARREMATAÇÕES DOS SERVIÇOS A CARG0 DO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS."
+    },
+    {
+      "senadoId": "398709",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-10-2922",
+      "titulo": "Decreto nº 2.922 de 10/05/1862",
+      "data": "1862-05-10",
+      "numero": "2922",
+      "urn": "urn:lex:br:federal:decreto:1862-05-10;2922",
+      "ementa": "CRIA UM CORPO DE ENGENHEIROS CIVIS AO SERVIÇO DO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS, E APROVA O RESPECTIVO REGULAMENTO."
+    },
+    {
+      "senadoId": "398705",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-07-2921",
+      "titulo": "Decreto nº 2.921 de 07/05/1862",
+      "data": "1862-05-07",
+      "numero": "2921",
+      "urn": "urn:lex:br:federal:decreto:1862-05-07;2921",
+      "ementa": "PROMULGA O TRATADO CELEBRADO PELO BRASIL E VÁRIAS POTÊNCIAS DA EUROPA  COM O REINO DE HANOVER PARA ABOLIÇÃO DEFINITIVA POR MEIO E RESGATE, DO DIREITO DE STADE OU BRUNSHAAUSEN."
+    },
+    {
+      "senadoId": "398697",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-07-2919",
+      "titulo": "Decreto nº 2.919 de 07/05/1862",
+      "data": "1862-05-07",
+      "numero": "2919",
+      "urn": "urn:lex:br:federal:decreto:1862-05-07;2919",
+      "ementa": "APROVA AS ALTERAÇÕES QUE A SOCIEDADE FRANCESA DE SOCORROS MÚTUOS FEZ EM SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "398701",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-05-07-2920",
+      "titulo": "Decreto nº 2.920 de 07/05/1862",
+      "data": "1862-05-07",
+      "numero": "2920",
+      "urn": "urn:lex:br:federal:decreto:1862-05-07;2920",
+      "ementa": "APROVA O NOVO CONTRATO CELEBRADO  COM O BARÃO DE MAUÁ, PARA A ILUMINAÇÃO A GÁS DA CIDADE DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "398673",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2913",
+      "titulo": "Decreto nº 2.913 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2913",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2913",
+      "ementa": "AMPLIA ALGUMAS DAS DISPOSIÇÕES DO REGULAMENTO PARA A FISCALIZAÇÃO DE SEGURANÇA, CONSERVAÇÃO E POLÍCIA DAS ESTRADAS DE FERR0, APROVADO PELO DECRETO NÚMERO 1.930 DE 26 DE ABRIL DE 18557."
+    },
+    {
+      "senadoId": "398677",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2914",
+      "titulo": "Decreto nº 2.914 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2914",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2914",
+      "ementa": "DETERMINA AS HABILITAÇÕES E O NÚMERO DOS ADIDOS DE SEGUNDA CLASSE EM CADA LEGAÇÃO."
+    },
+    {
+      "senadoId": "398693",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2918",
+      "titulo": "Decreto nº 2.918 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2918",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2918",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 1.081:726$000 PARA O EXERCÍCIO DE 1861-1862."
+    },
+    {
+      "senadoId": "398685",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2916",
+      "titulo": "Decreto nº 2.916 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2916",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2916",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 125:929$329 PARA OCORRER AO DÉFICIT RECONHECIDO EM DIVERSAS RUBRICAS DO MINISTÉRIO DA MARINHA DO EXERCÍCIO DE 1861 A 1862."
+    },
+    {
+      "senadoId": "398681",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2915",
+      "titulo": "Decreto nº 2.915 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2915",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2915",
+      "ementa": "AUTORIZA A CONSTRUÇÃO DE UM CAMINHO DE FERRO PROVISÓRIO  EM CIMA DA SERRA DESDE JOAQUIM DO ALTO ATÉ AO BRANDÃO."
+    },
+    {
+      "senadoId": "398669",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2912",
+      "titulo": "Decreto nº 2.912 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2912",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2912",
+      "ementa": "FAZ EXTENSIVAS  PROVIDENCIA  DE S. PEDRO DO RIO GRANDE DO SUL AS INSTRUÇÕES, QUE BAIXARÃO COM O DECRETO 2.600 DE 2 DE JUNHO DE 1860."
+    },
+    {
+      "senadoId": "398689",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2917",
+      "titulo": "Decreto nº 2.917 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2917",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2917",
+      "ementa": "CONCEDE Á SOCIEDADDE DO TEATRO DE SANTA ISABEL DA PROVÍINCIA DE SANTA CATARINA AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR, E APROVA OS ESTATUTOS."
+    },
+    {
+      "senadoId": "398665",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-23-2911",
+      "titulo": "Decreto nº 2.911 de 23/04/1862",
+      "data": "1862-04-23",
+      "numero": "2911",
+      "urn": "urn:lex:br:federal:decreto:1862-04-23;2911",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DE 80:280$000 PARA A VERBA SECRETARIA E ESTADO DO ATUAL EXERCÍCIO."
+    },
+    {
+      "senadoId": "398658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-19-2909",
+      "titulo": "Decreto nº 2.909 de 19/04/1862",
+      "data": "1862-04-19",
+      "numero": "2909",
+      "urn": "urn:lex:br:federal:decreto:1862-04-19;2909",
+      "ementa": "PRORROGA POR MAIS DOIS ANOS O PRAZO CONCEDIDO AO VISCONDE E BARBACENA, NO DECRETO NÚMERO 2737 DE 6 E FEVEREIRO DE 1861, PARA COMEÇAR O TRABALHO DE EXPLORAÇÃO DAS MINAS DE CARVÃO DE PEDRA DO PASSA-DOIS, NA PROVÍNCIA E SANTA CATARINA."
+    },
+    {
+      "senadoId": "398654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-19-2908",
+      "titulo": "Decreto nº 2.908 de 19/04/1862",
+      "data": "1862-04-19",
+      "numero": "2908",
+      "urn": "urn:lex:br:federal:decreto:1862-04-19;2908",
+      "ementa": "DERROGA O DE NUMERO 2.775 DE 10 DE ABRIL DE 1861 QUE CRIOU O LUGAR DE INSPETOR  DAS OBRAS DA CASA DE CORREÇÃO DA CÔRTE, E RESTABELECEU O DE CARCEREIRO DA DE DETENÇÃO."
+    },
+    {
+      "senadoId": "398644",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-04-16-2905",
+      "titulo": "Decreto nº 2.905 de 16/04/1862",
+      "data": "1862-04-16",
+      "numero": "2905",
+      "urn": "urn:lex:br:federal:decreto:1862-04-16;2905",
+      "ementa": "PERMITE QUE A AGENCIA DA COMPANHIA DE SEGUROS GARANTIA, DA CIDADE DE PORTO, ESTABELECIDA NA PRAÇA DA BAHIA, CONTINUE A FUNCIONAR."
+    },
+    {
+      "senadoId": "398640",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-03-29-2904",
+      "titulo": "Decreto nº 2.904 de 29/03/1862",
+      "data": "1862-03-29",
+      "numero": "2904",
+      "urn": "urn:lex:br:federal:decreto:1862-03-29;2904",
+      "ementa": "CONCEDE A DAVID HENRIQUES  PINA PRIVILÉGIO  POR CINCO ANOS  PARA FABRICAR E VENDER NO IMPÉRIO TORNEIRAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "398636",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-03-22-2903",
+      "titulo": "Decreto nº 2.903 de 22/03/1862",
+      "data": "1862-03-22",
+      "numero": "2903",
+      "urn": "urn:lex:br:federal:decreto:1862-03-22;2903",
+      "ementa": "CONCEDE Á DIRETORIA DO MONTE PIO DE SOCORROS MÚTUOS DOS EMPREGADOS E OPERÁRIOS DA ESTRADA DE FERRO DE D. PEDRO II, AUTORIZAÇÃO PARA CONTINUAR A EXERCER SUAS FUNÇÕES, E APROVA  OS RESPECTIVOS ESTATUTOS DE MONTE PIO."
+    },
+    {
+      "senadoId": "398632",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-03-19-2902",
+      "titulo": "Decreto nº 2.902 de 19/03/1862",
+      "data": "1862-03-19",
+      "numero": "2902",
+      "urn": "urn:lex:br:federal:decreto:1862-03-19;2902",
+      "ementa": "CONCEDE Á SOCIEDADE BELGA DE BENEFICIÊNCIA AUTORIZAÇÃO PARA CONTTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS  RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398624",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-03-15-2900",
+      "titulo": "Decreto nº 2.900 de 15/03/1862",
+      "data": "1862-03-15",
+      "numero": "2900",
+      "urn": "urn:lex:br:federal:decreto:1862-03-15;2900",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ALEMÃ - CONCORDIA."
+    },
+    {
+      "senadoId": "398628",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-03-15-2901",
+      "titulo": "Decreto nº 2.901 de 15/03/1862",
+      "data": "1862-03-15",
+      "numero": "2901",
+      "urn": "urn:lex:br:federal:decreto:1862-03-15;2901",
+      "ementa": "CONCEDE AO AJUDANTE DO PROCURADOR FISCAL, SUB-DIRETORES E CONTADORES DO TESOURO NACIONAL O USO DE FARDAS."
+    },
+    {
+      "senadoId": "398620",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-03-15-2899",
+      "titulo": "Decreto nº 2.899 de 15/03/1862",
+      "data": "1862-03-15",
+      "numero": "2899",
+      "urn": "urn:lex:br:federal:decreto:1862-03-15;2899",
+      "ementa": "ALTERA ALGUMAS DAS DISPOSIÇÕES  DO REGULAMENTO DOS TELÉGRAFOS ELÉTRICOS APROVADAS PELO DECRETO 2.614 DE 21 DE JUNHO DE 1860."
+    },
+    {
+      "senadoId": "398613",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-26-2897",
+      "titulo": "Decreto nº 2.897 de 26/02/1862",
+      "data": "1862-02-26",
+      "numero": "2897",
+      "urn": "urn:lex:br:federal:decreto:1862-02-26;2897",
+      "ementa": "ALTERA O DE 20 DE FEVEREIRO DE 1840, NÚMERO 41, NA PARTE RELATIVA AO PAGAMENTO DAS DÍVIDAS DE EXERCÍCIOS FINDOS."
+    },
+    {
+      "senadoId": "398609",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-26-2896",
+      "titulo": "Decreto nº 2.896 de 26/02/1862",
+      "data": "1862-02-26",
+      "numero": "2896",
+      "urn": "urn:lex:br:federal:decreto:1862-02-26;2896",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE  58:620$640 PARA SATISFAZER ÁS DESPESAS  NECESSÁRIA DO CORRENTE EXERCÍCIO COM O PESSOAL DO CORPO DE SAÚDE DO EXÉRCITO."
+    },
+    {
+      "senadoId": "398605",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-22-2895",
+      "titulo": "Decreto nº 2.895 de 22/02/1862",
+      "data": "1862-02-22",
+      "numero": "2895",
+      "urn": "urn:lex:br:federal:decreto:1862-02-22;2895",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA VIGILANTE, ENCARREGADA DO SERVIÇO DE REBOQUE POR VAPOR DE NAVIOS E ALVARENGAS DENTRO E FORA DO PORTO DA CAPITAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "398597",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-15-2893",
+      "titulo": "Decreto nº 2.893 de 15/02/1862",
+      "data": "1862-02-15",
+      "numero": "2893",
+      "urn": "urn:lex:br:federal:decreto:1862-02-15;2893",
+      "ementa": "CONCEDE Á SOCIEDADE FRANCESA DE BENEFICIÊNCIA  AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA OS SEGUINTES ESTATUTOS."
+    },
+    {
+      "senadoId": "398601",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-15-2894",
+      "titulo": "Decreto nº 2.894 de 15/02/1862",
+      "data": "1862-02-15",
+      "numero": "2894",
+      "urn": "urn:lex:br:federal:decreto:1862-02-15;2894",
+      "ementa": "CONCEDE A IMPERIAL ASSSOCIAÇÃO TIPOGRÁFICA FLUMINENSE AUTORIZAÇÃO PARA CONTINUAR A EXERCER SUS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "398589",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-12-2891",
+      "titulo": "Decreto nº 2.891 de 12/02/1862",
+      "data": "1862-02-12",
+      "numero": "2891",
+      "urn": "urn:lex:br:federal:decreto:1862-02-12;2891",
+      "ementa": "DIVIDE EM DOIS O COMANDO SUPERIOR DA GUARDA NACIONAL DOS MUNICÍPIOS DE CAMPINAS, BRAGANÇA, AMPARO, ATIBAIA, NAZARETR, CACHOEIRA, JUNDIAÍ, BETHLEM E CONSTITUIÇÃO DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "398593",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-12-2892",
+      "titulo": "Decreto nº 2.892 de 12/02/1862",
+      "data": "1862-02-12",
+      "numero": "2892",
+      "urn": "urn:lex:br:federal:decreto:1862-02-12;2892",
+      "ementa": "DESLIGA DO CORPO DE CAVALARIA NÚMERO TRÊS, E DO BATALHÃO DE INFANTARIA  NÚMERO DEZESETE, OS GUARDAS QUALIFICADDOS NAS FREGUESIAS DE SANTA MARIA MADALENA, S. FRANCISCO DE PAULA E S. SEBASTIÃO  DA PROVÍNCIA DO RIO DE JANEIRO, E ORGANIZA COM ELES UM ESQUADRÃO AVULSO, E UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO."
+    },
+    {
+      "senadoId": "398585",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-08-2890",
+      "titulo": "Decreto nº 2.890 de 08/02/1862",
+      "data": "1862-02-08",
+      "numero": "2890",
+      "urn": "urn:lex:br:federal:decreto:1862-02-08;2890",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "398569",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-08-2886",
+      "titulo": "Decreto nº 2.886 de 08/02/1862",
+      "data": "1862-02-08",
+      "numero": "2886",
+      "urn": "urn:lex:br:federal:decreto:1862-02-08;2886",
+      "ementa": "DETERMINA QUE OS CONSULES PERNTENÇA A QUARTA PARTE DO PRODUTO DOS EMOLUMENTOS RECEBIDOS NOS VICE-CONSULADOS."
+    },
+    {
+      "senadoId": "398573",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-08-2887",
+      "titulo": "Decreto nº 2.887 de 08/02/1862",
+      "data": "1862-02-08",
+      "numero": "2887",
+      "urn": "urn:lex:br:federal:decreto:1862-02-08;2887",
+      "ementa": "ELEVA Á CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA AVULSA DE INFANTARIA DO SERVIÇO ATIVO, ORGANIZADA NA VILA  D S. LEOPOLDO DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "398581",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-08-2889",
+      "titulo": "Decreto nº 2.889 de 08/02/1862",
+      "data": "1862-02-08",
+      "numero": "2889",
+      "urn": "urn:lex:br:federal:decreto:1862-02-08;2889",
+      "ementa": "ORGANIZA A GUARDA NACIONAL DOS MUNICÍPIOS DO PATROCÍNIO E BAGAGEM, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "398577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-08-2888",
+      "titulo": "Decreto nº 2.888 de 08/02/1862",
+      "data": "1862-02-08",
+      "numero": "2888",
+      "urn": "urn:lex:br:federal:decreto:1862-02-08;2888",
+      "ementa": "MARCA O VESTUÁRIO, QUE, NAS SOLENIDADES PUBLICAS, DEVEM USAR OS DEPUTADOS DOS TRIBUNAIS DO COMÉRCIO DO IMPÉRIO."
+    },
+    {
+      "senadoId": "398557",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-01-2883",
+      "titulo": "Decreto nº 2.883 de 01/02/1862",
+      "data": "1862-02-01",
+      "numero": "2883",
+      "urn": "urn:lex:br:federal:decreto:1862-02-01;2883",
+      "ementa": "ALTERA OS REGULAMENTOS RELATIVOS AO CURSO DE ESTUDOS DO IMPERIAL COLÉGIO DE D. PEDRO II."
+    },
+    {
+      "senadoId": "398565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-01-2885",
+      "titulo": "Decreto nº 2.885 de 01/02/1862",
+      "data": "1862-02-01",
+      "numero": "2885",
+      "urn": "urn:lex:br:federal:decreto:1862-02-01;2885",
+      "ementa": "ALTERA AS DISPOSIÇÕES DOS ESTATUTOS DAS FACULDADES DE MEDICINA E DO REGULAMENTO COMPLEMENTAR DOS MESMOS ESTATUTOS RELATIVAMENTE ÁS REGRAS DOS CONCURSOS PARA O PROVIMENTO DOS LUGARES DE LENTES."
+    },
+    {
+      "senadoId": "398561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-02-01-2884",
+      "titulo": "Decreto nº 2.884 de 01/02/1862",
+      "data": "1862-02-01",
+      "numero": "2884",
+      "urn": "urn:lex:br:federal:decreto:1862-02-01;2884",
+      "ementa": "ADITA NOVAS PROVIDÊNCIAS ÁS DO DECRETO NÚMERO 158 DE 7 DE MAIO DE 1842."
+    },
+    {
+      "senadoId": "398556",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-29-2882-b",
+      "titulo": "Decreto nº 2.882-B de 29/01/1862",
+      "data": "1862-01-29",
+      "numero": "2882-b",
+      "urn": "urn:lex:br:federal:decreto:1862-01-29;2882-b",
+      "ementa": "APROVA AS INSTRUÇÕES ORGANIZADAS PARA O EXAME SEMESTRAL DA CONTA DA RECEITA E DESPESA FEITA PELA DIRETORIA DA COMPANHIA  DA ESTRADA DE FERRO DE D. PEDRO II."
+    },
+    {
+      "senadoId": "398555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-29-2882-a",
+      "titulo": "Decreto nº 2.882-A de 29/01/1862",
+      "data": "1862-01-29",
+      "numero": "2882-a",
+      "urn": "urn:lex:br:federal:decreto:1862-01-29;2882-a",
+      "ementa": "ALTERA A TABELA NÚMERO 1 ANEXA AO DECRETO NÚMERO 2.587 DE 30 DE ABRIL DE 1860."
+    },
+    {
+      "senadoId": "398547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-25-2881",
+      "titulo": "Decreto nº 2.881 de 25/01/1862",
+      "data": "1862-01-25",
+      "numero": "2881",
+      "urn": "urn:lex:br:federal:decreto:1862-01-25;2881",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ MUNICIPAL E DE ÓRFÃOS DO TERMO DAS DÔRES, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "398543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-25-2880",
+      "titulo": "Decreto nº 2.880 de 25/01/1862",
+      "data": "1862-01-25",
+      "numero": "2880",
+      "urn": "urn:lex:br:federal:decreto:1862-01-25;2880",
+      "ementa": "EXTINGUE O LUGAR DE JUIZ MUNICIPAL DA 2ª VARA DO TERMO DE PORTO ALEGRE, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "398551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-25-2882",
+      "titulo": "Decreto nº 2.882 de 25/01/1862",
+      "data": "1862-01-25",
+      "numero": "2882",
+      "urn": "urn:lex:br:federal:decreto:1862-01-25;2882",
+      "ementa": "CONCEDE AO INSTITUTO POLIMÁTICO BRASILEIRO AUTORIZAÇÃ0 PARA QUE POSSA FUNCIONAR, E APROVA OS SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "398539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-23-2879",
+      "titulo": "Decreto nº 2.879 de 23/01/1862",
+      "data": "1862-01-23",
+      "numero": "2879",
+      "urn": "urn:lex:br:federal:decreto:1862-01-23;2879",
+      "ementa": "ESTABELECE REGRAS PARA A SUSPEIÇÃO DOS LENTES DAS FACULDADES DE DIREITO DE MEDICINA."
+    },
+    {
+      "senadoId": "398536",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-11-2878",
+      "titulo": "Decreto nº 2.878 de 11/01/1862",
+      "data": "1862-01-11",
+      "numero": "2878",
+      "urn": "urn:lex:br:federal:decreto:1862-01-11;2878",
+      "ementa": "REUNE OS TERMOS DE MOSSORÓ, CAMPO GRANDE E APODI, NA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "398533",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-04-2877",
+      "titulo": "Decreto nº 2.877 de 04/01/1862",
+      "data": "1862-01-04",
+      "numero": "2877",
+      "urn": "urn:lex:br:federal:decreto:1862-01-04;2877",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA SOCIEDADE  FILANTRÓPICA SUÍSSA."
+    },
+    {
+      "senadoId": "398530",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1862-01-04-2876",
+      "titulo": "Decreto nº 2.876 de 04/01/1862",
+      "data": "1862-01-04",
+      "numero": "2876",
+      "urn": "urn:lex:br:federal:decreto:1862-01-04;2876",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS, UM CRÉDITO DE 20:000$000 PARA AS DESPESAS PARA A EXPOSIÇÃO NACIONAL E COM A EXPOSIÇÃO UNIVERSAL DE LONDRES, NO CORRENTE ANO."
+    }
+  ],
+  "pendencias": []
+}

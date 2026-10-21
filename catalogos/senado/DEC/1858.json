@@ -1,0 +1,2589 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1858",
+  "tipo": "DEC",
+  "ano": 1858,
+  "coletado_em": "2026-10-21T08:52:39.454Z",
+  "normas": [
+    {
+      "senadoId": "396357",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-31-2329",
+      "titulo": "Decreto nº 2.329 de 31/12/1858",
+      "data": "1858-12-31",
+      "numero": "2329",
+      "urn": "urn:lex:br:federal:decreto:1858-12-31;2329",
+      "ementa": "AUTORIZA O DISPENDIO DA QUANTIA DE 668.268$605 REIS POR DIFERENTES VERBAS DO MINISTERIO DA MARINHA NO EXERCICIO DE 1857 - 1858, ALEM DO QUE FOI CONSIGNADO NO ARTIGO 5 DA LEI 884, DO 1 DE 1856, E NO DECRETO 2.157, DO 1 DE MAIO ULTIMO."
+    },
+    {
+      "senadoId": "396340",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-30-2325",
+      "titulo": "Decreto nº 2.325 de 30/12/1858",
+      "data": "1858-12-30",
+      "numero": "2325",
+      "urn": "urn:lex:br:federal:decreto:1858-12-30;2325",
+      "ementa": "AUTORIZA UM CRÉDITO EXTRAORDINÁRIO DE 600.000$ PARA AS DESPESAS QUE SE FIZERÃO, NO EXERCÍCIO DE 1857-1858, E SE CONTINUARÃO A FAZER, NO CORRENTE, PELO CRÉDITO DO DECRETO Nº 598 DE 14 DE SETEMBRO DE 1850, A TÍTULO DE SOCORROS PÚBLICOS."
+    },
+    {
+      "senadoId": "396348",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-30-2327",
+      "titulo": "Decreto nº 2.327 de 30/12/1858",
+      "data": "1858-12-30",
+      "numero": "2327",
+      "urn": "urn:lex:br:federal:decreto:1858-12-30;2327",
+      "ementa": "AUTORIZA UM CRÉDITO SUPLEMENTAR DE 41.000$ PARA AS DESPESAS DE DIVERSAS RUBRICAS DO MINISTÉRIO DO IMPÉRIO, NO EXERCÍCIO DE 1857-1858."
+    },
+    {
+      "senadoId": "396356",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-30-2328-a",
+      "titulo": "Decreto nº 2.328-A de 30/12/1858",
+      "data": "1858-12-30",
+      "numero": "2328-a",
+      "urn": "urn:lex:br:federal:decreto:1858-12-30;2328-a",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA ILUSTRÍSSIMA CÂMARA DO MUNICIÍPIO DA CORTE, PARA O ANO MUNICIPAL DO 1º DE JANEIRO A 31 DE DEZEMBRO DE 1859."
+    },
+    {
+      "senadoId": "396344",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-30-2326",
+      "titulo": "Decreto nº 2.326 de 30/12/1858",
+      "data": "1858-12-30",
+      "numero": "2326",
+      "urn": "urn:lex:br:federal:decreto:1858-12-30;2326",
+      "ementa": "AUTORIZA UM CREDITO EXTRAORDINARIO DE 225.000$ PARA AS DESPESAS QUE SE FIZERÃO, NO EXERCICIO DE 1857-1858, E SE CONTINUARÃO A FAZER, NO CORRENTE, COM A COMISSÃO DE ENGENHEIROS E NATURALISTAS, DE QUE TRATA O PARAGRAFO 1, DO ARTIGO 17 DA LEI 884, DE 1 DE OUTUBRO DE 1856."
+    },
+    {
+      "senadoId": "396352",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-30-2328",
+      "titulo": "Decreto nº 2.328 de 30/12/1858",
+      "data": "1858-12-30",
+      "numero": "2328",
+      "urn": "urn:lex:br:federal:decreto:1858-12-30;2328",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO SUPLEMENTAR DE 175.700$000 PARA O EXERCÍCIO DE 1857-1858."
+    },
+    {
+      "senadoId": "396336",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-29-2324",
+      "titulo": "Decreto nº 2.324 de 29/12/1858",
+      "data": "1858-12-29",
+      "numero": "2324",
+      "urn": "urn:lex:br:federal:decreto:1858-12-29;2324",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DE TAMANDARÉ Á MARGEM DO RIO UNA."
+    },
+    {
+      "senadoId": "396332",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-29-2323",
+      "titulo": "Decreto nº 2.323 de 29/12/1858",
+      "data": "1858-12-29",
+      "numero": "2323",
+      "urn": "urn:lex:br:federal:decreto:1858-12-29;2323",
+      "ementa": "CRIA NO TERMO DE BATATAES, DA PROVÍNCIA DE S. PAULO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "396328",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-29-2322",
+      "titulo": "Decreto nº 2.322 de 29/12/1858",
+      "data": "1858-12-29",
+      "numero": "2322",
+      "urn": "urn:lex:br:federal:decreto:1858-12-29;2322",
+      "ementa": "MANDA POR EM EXECUÇÃO NA PROVÍNCIA DE MATO GROSSO O DECRETO Nº 2.029 DE 18 DE NOVEMBRO DO ANO PRÓXIMO PASSADO, QUE DEU ORGANIZAÇÃO Á GUARDA NACIONAL DAS PROVÍNCIAS LIMITROPHES COM OS ESTADOS VIZINHOS."
+    },
+    {
+      "senadoId": "396324",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-28-2321",
+      "titulo": "Decreto nº 2.321 de 28/12/1858",
+      "data": "1858-12-28",
+      "numero": "2321",
+      "urn": "urn:lex:br:federal:decreto:1858-12-28;2321",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 298.060$762 PARA AS DESPESAS DE DIVERSAS RUBRICAS NOS EXERCÍCIOS DE 1857 - 1858."
+    },
+    {
+      "senadoId": "396320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-28-2320",
+      "titulo": "Decreto nº 2.320 de 28/12/1858",
+      "data": "1858-12-28",
+      "numero": "2320",
+      "urn": "urn:lex:br:federal:decreto:1858-12-28;2320",
+      "ementa": "CONCEDE A PAULO VICTOR DOUCY, PRIVILÉGIO POR DOZE ANOS PARA O PROCESSO POR ELE INVENTADO PARA APERFEIÇOAR, E SIMPLIFICAR A FABRICAÇÃO DE CERTOS INSTRUMENTOS INDISPENSÁVEIS AOS TRABALHOS MECÂNICOS."
+    },
+    {
+      "senadoId": "396316",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-24-2319",
+      "titulo": "Decreto nº 2.319 de 24/12/1858",
+      "data": "1858-12-24",
+      "numero": "2319",
+      "urn": "urn:lex:br:federal:decreto:1858-12-24;2319",
+      "ementa": "AUTORIZA UM CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 386.250$ RÉIS PARA COMPLEMENTO DAS DESPESAS, QUE SE TEM DE FAZER COM A EXECUÇÃO DAS OBRAS DA CONSTRUÇÃO DE UM CÁES E RUA DESDE A PRAÇA DA GLÓRIA ATÉ A TRAVESSA DOS CARMELITAS, NO LARGO DA LAPA."
+    },
+    {
+      "senadoId": "396312",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-22-2318",
+      "titulo": "Decreto nº 2.318 de 22/12/1858",
+      "data": "1858-12-22",
+      "numero": "2318",
+      "urn": "urn:lex:br:federal:decreto:1858-12-22;2318",
+      "ementa": "PROVIDÊNCIA SOBRE A CONFECÇÃO E ORGANIZAÇÃO DO CÓDIGO CIVIL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "396308",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-14-2317",
+      "titulo": "Decreto nº 2.317 de 14/12/1858",
+      "data": "1858-12-14",
+      "numero": "2317",
+      "urn": "urn:lex:br:federal:decreto:1858-12-14;2317",
+      "ementa": "DESLIGA DO BATALHÃO DE INFANTARIA  4 DA GUARDA NACIONAL DA PROVINCIA DE SÃO PAULO OS GUARDAS QUALIFICADOS NAS MUNICÍPIOS DE CAMPO LARGO E PIEDADE, E CRIA NELES UMA SEÇÃO DE BATALHÃO E UMA COMPANHIA AVULSA DE INFANTARIA."
+    },
+    {
+      "senadoId": "396300",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-11-2315",
+      "titulo": "Decreto nº 2.315 de 11/12/1858",
+      "data": "1858-12-11",
+      "numero": "2315",
+      "urn": "urn:lex:br:federal:decreto:1858-12-11;2315",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DE PARINTINS, CRIADA NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "396304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-11-2316",
+      "titulo": "Decreto nº 2.316 de 11/12/1858",
+      "data": "1858-12-11",
+      "numero": "2316",
+      "urn": "urn:lex:br:federal:decreto:1858-12-11;2316",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE PARINTINS, CRIADA NA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "396292",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-04-2313",
+      "titulo": "Decreto nº 2.313 de 04/12/1858",
+      "data": "1858-12-04",
+      "numero": "2313",
+      "urn": "urn:lex:br:federal:decreto:1858-12-04;2313",
+      "ementa": "MANDA COMPREENDER NO PRIMEIRO DISTRITO DA ARRECADAÇÃO DO IMPOSTO SOBRE A AGUARDENTE DO PAIS A ILHA DE PAQUETA."
+    },
+    {
+      "senadoId": "396296",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-12-04-2314",
+      "titulo": "Decreto nº 2.314 de 04/12/1858",
+      "data": "1858-12-04",
+      "numero": "2314",
+      "urn": "urn:lex:br:federal:decreto:1858-12-04;2314",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO DO IMPOSTO DO SELO."
+    },
+    {
+      "senadoId": "396288",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-27-2312",
+      "titulo": "Decreto nº 2.312 de 27/11/1858",
+      "data": "1858-11-27",
+      "numero": "2312",
+      "urn": "urn:lex:br:federal:decreto:1858-11-27;2312",
+      "ementa": "PROMULGA A CONVENÇÃO CELEBRADA NESTA CORTE EM 2 DE JUNHO DE 1858 PARA O AJUSTE, POR MEIO DE UMA COMISSÃO MIXTA, DAS RECLAMAÇÕES PENDENTES ENTRE O IMPERIO E A GRÃ-BRETANHA."
+    },
+    {
+      "senadoId": "396284",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-27-2311",
+      "titulo": "Decreto nº 2.311 de 27/11/1858",
+      "data": "1858-11-27",
+      "numero": "2311",
+      "urn": "urn:lex:br:federal:decreto:1858-11-27;2311",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CAPITAL DA PROVÍNCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "396280",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-24-2310",
+      "titulo": "Decreto nº 2.310 de 24/11/1858",
+      "data": "1858-11-24",
+      "numero": "2310",
+      "urn": "urn:lex:br:federal:decreto:1858-11-24;2310",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE BANANAL, NA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "396265",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-20-2306",
+      "titulo": "Decreto nº 2.306 de 20/11/1858",
+      "data": "1858-11-20",
+      "numero": "2306",
+      "urn": "urn:lex:br:federal:decreto:1858-11-20;2306",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PUBLICO DA COMARCA DE SIRIDO, CRIADA NA PROVINCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "396276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-20-2309",
+      "titulo": "Decreto nº 2.309 de 20/11/1858",
+      "data": "1858-11-20",
+      "numero": "2309",
+      "urn": "urn:lex:br:federal:decreto:1858-11-20;2309",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE VALENÇA, NA PROVINCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "396269",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-20-2307",
+      "titulo": "Decreto nº 2.307 de 20/11/1858",
+      "data": "1858-11-20",
+      "numero": "2307",
+      "urn": "urn:lex:br:federal:decreto:1858-11-20;2307",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE ITABIRA, NA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396272",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-20-2308",
+      "titulo": "Decreto nº 2.308 de 20/11/1858",
+      "data": "1858-11-20",
+      "numero": "2308",
+      "urn": "urn:lex:br:federal:decreto:1858-11-20;2308",
+      "ementa": "CRIA NO TERMO DE CANGUSSU, NA PROVINCIA DE SÃO PEDRO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARA AS FUNÇÕES DE JUIZ DOS ORGÃOS."
+    },
+    {
+      "senadoId": "396261",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-20-2305",
+      "titulo": "Decreto nº 2.305 de 20/11/1858",
+      "data": "1858-11-20",
+      "numero": "2305",
+      "urn": "urn:lex:br:federal:decreto:1858-11-20;2305",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DO SIRIDO, CRIADA NA PROVINCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "396249",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-13-2302",
+      "titulo": "Decreto nº 2.302 de 13/11/1858",
+      "data": "1858-11-13",
+      "numero": "2302",
+      "urn": "urn:lex:br:federal:decreto:1858-11-13;2302",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA E UMA SEÇÃO DE BATALHÃO DE RESERVA NO MUNICÍPIO DE S. GONÇALO, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "396257",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-13-2304",
+      "titulo": "Decreto nº 2.304 de 13/11/1858",
+      "data": "1858-11-13",
+      "numero": "2304",
+      "urn": "urn:lex:br:federal:decreto:1858-11-13;2304",
+      "ementa": "REDUZ A SEÇÃO DE BATALHÃO DE TRES COMPANHIAS, O BATALHÃO DE INFANTARIA NUMERO VINTE E UM DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVINCIA DO PARA."
+    },
+    {
+      "senadoId": "396253",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-13-2303",
+      "titulo": "Decreto nº 2.303 de 13/11/1858",
+      "data": "1858-11-13",
+      "numero": "2303",
+      "urn": "urn:lex:br:federal:decreto:1858-11-13;2303",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO, A SEÇÃO DA RESERVA NÚMERO TREZE DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "396245",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-10-2301",
+      "titulo": "Decreto nº 2.301 de 10/11/1858",
+      "data": "1858-11-10",
+      "numero": "2301",
+      "urn": "urn:lex:br:federal:decreto:1858-11-10;2301",
+      "ementa": "CONCEDE Á MANOEL ANTONIO GUIMARÃES, PRIVILÉGIO EXCLUSIVO POR DEZ ANOS PARA A NAVEGAÇÃO POR VAPOR DA BAHIA, E RIO DE PARANAGUÁ, MORRETES E ANTONINA, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "396237",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-06-2299",
+      "titulo": "Decreto nº 2.299 de 06/11/1858",
+      "data": "1858-11-06",
+      "numero": "2299",
+      "urn": "urn:lex:br:federal:decreto:1858-11-06;2299",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO, E APROVA OS ESTATUTOS DA COMPANHIA TUTORA BRASILEIRA DE SEGUROS MÚTUOS SOBRE VIDA."
+    },
+    {
+      "senadoId": "396241",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-11-06-2300",
+      "titulo": "Decreto nº 2.300 de 06/11/1858",
+      "data": "1858-11-06",
+      "numero": "2300",
+      "urn": "urn:lex:br:federal:decreto:1858-11-06;2300",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE S. JOSÉ, NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "396233",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-30-2298",
+      "titulo": "Decreto nº 2.298 de 30/10/1858",
+      "data": "1858-10-30",
+      "numero": "2298",
+      "urn": "urn:lex:br:federal:decreto:1858-10-30;2298",
+      "ementa": "MARCA O VALOR DA ETAPA QUE DEVE SER ABONADA AO COMANDANTE GERAL DO CORPO POLICIAL DA CORTE."
+    },
+    {
+      "senadoId": "396229",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-30-2297",
+      "titulo": "Decreto nº 2.297 de 30/10/1858",
+      "data": "1858-10-30",
+      "numero": "2297",
+      "urn": "urn:lex:br:federal:decreto:1858-10-30;2297",
+      "ementa": "CONCEDE A LUIZ D'ORDAN PRIVILÉGIO POR 30 ANOS PARA POR MEIO DE UMA COMPANHIA LAVRAS AS MINAS DE CHUMBO, QUE DESCOBRIU NA FREGUESIA DO IPORANGA, DA PROVÍNCIA DE S. APULO."
+    },
+    {
+      "senadoId": "396221",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-27-2295",
+      "titulo": "Decreto nº 2.295 de 27/10/1858",
+      "data": "1858-10-27",
+      "numero": "2295",
+      "urn": "urn:lex:br:federal:decreto:1858-10-27;2295",
+      "ementa": "AUTORIZA A COMPANHIA DE NAVEGAÇÃO NITÉROI E INHOMERIM A ELEVAR OS PREÇOS DAS PASSAGENS A BORDO DE SEU VAPORES NAS VIAGENS ENTRE A CORTE E NITÉROI; E A FAZER OUTRAS ALTERAÇÕES NAS DISPOSIÇÕES DO DECRETO Nº 1.737 DE 19 DE MARÇO DE 1856."
+    },
+    {
+      "senadoId": "396217",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-27-2294",
+      "titulo": "Decreto nº 2.294 de 27/10/1858",
+      "data": "1858-10-27",
+      "numero": "2294",
+      "urn": "urn:lex:br:federal:decreto:1858-10-27;2294",
+      "ementa": "APROVA OS ESTATUTOS DA IMPERIAL ACADEMIA DE MÚSICA E ÓPERA NACIONAL."
+    },
+    {
+      "senadoId": "396225",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-27-2296",
+      "titulo": "Decreto nº 2.296 de 27/10/1858",
+      "data": "1858-10-27",
+      "numero": "2296",
+      "urn": "urn:lex:br:federal:decreto:1858-10-27;2296",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILLA DE CURVELLO, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396205",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-23-2291",
+      "titulo": "Decreto nº 2.291 de 23/10/1858",
+      "data": "1858-10-23",
+      "numero": "2291",
+      "urn": "urn:lex:br:federal:decreto:1858-10-23;2291",
+      "ementa": "ARGUMENTA O VENCIMENTO DO AJUDANTE DO CARCEREIRO DA CADEIA DA CAPITAL DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396201",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-23-2290",
+      "titulo": "Decreto nº 2.290 de 23/10/1858",
+      "data": "1858-10-23",
+      "numero": "2290",
+      "urn": "urn:lex:br:federal:decreto:1858-10-23;2290",
+      "ementa": "ALTERA O PRIMEIRO UNIFORME DA SEÇÃO DE COMPANHIA DE CAVALARIA NÚMERO UM DA GUARDA NACIONAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "396209",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-23-2292",
+      "titulo": "Decreto nº 2.292 de 23/10/1858",
+      "data": "1858-10-23",
+      "numero": "2292",
+      "urn": "urn:lex:br:federal:decreto:1858-10-23;2292",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILLA DE S. GONÇALO, NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "396213",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-23-2293",
+      "titulo": "Decreto nº 2.293 de 23/10/1858",
+      "data": "1858-10-23",
+      "numero": "2293",
+      "urn": "urn:lex:br:federal:decreto:1858-10-23;2293",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE GUARDAS NACIONAIS DO SERVIÇO ATIVO NAS FREGUESIAS DE NOSSA SENHORA DA CONCEIÇÃO DO PORTO DAS CAIXAS, E NOSSA SENHORA DO DESTERRO DE ITAMBY, DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "396198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-23-2289",
+      "titulo": "Decreto nº 2.289 de 23/10/1858",
+      "data": "1858-10-23",
+      "numero": "2289",
+      "urn": "urn:lex:br:federal:decreto:1858-10-23;2289",
+      "ementa": "EXONERA A ASSOCIAÇÃO SERGIPENSE DA OBRIGAÇÃO DE TER DUAS BARCAS PARA O SERVIÇO DE REBOQUE NAS BARRAS DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "396194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-20-2288",
+      "titulo": "Decreto nº 2.288 de 20/10/1858",
+      "data": "1858-10-20",
+      "numero": "2288",
+      "urn": "urn:lex:br:federal:decreto:1858-10-20;2288",
+      "ementa": "MARCA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE PASSOS, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-20-2284",
+      "titulo": "Decreto nº 2.284 de 20/10/1858",
+      "data": "1858-10-20",
+      "numero": "2284",
+      "urn": "urn:lex:br:federal:decreto:1858-10-20;2284",
+      "ementa": "CRIA UMA COMPANHIA, E UMA SEÇÃO DE COMPANHIA AVULSA DA GUARDA NACIONAL DE RESERVA, NO MUNICÍPIO DA VILLA DA SERRA, NA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "396182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-20-2285",
+      "titulo": "Decreto nº 2.285 de 20/10/1858",
+      "data": "1858-10-20",
+      "numero": "2285",
+      "urn": "urn:lex:br:federal:decreto:1858-10-20;2285",
+      "ementa": "MARCA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS COMARCAS DO RIO PARDO E DO RIO POMBA, CRIADAS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-20-2287",
+      "titulo": "Decreto nº 2.287 de 20/10/1858",
+      "data": "1858-10-20",
+      "numero": "2287",
+      "urn": "urn:lex:br:federal:decreto:1858-10-20;2287",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA RESERVA NO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "396186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-20-2286",
+      "titulo": "Decreto nº 2.286 de 20/10/1858",
+      "data": "1858-10-20",
+      "numero": "2286",
+      "urn": "urn:lex:br:federal:decreto:1858-10-20;2286",
+      "ementa": "ELEVA A TRES COMPANHIAS A SEÇÃO DE BATALHÃO DA RESERVA NÚMERO UM DA GUARDA NACIONAL DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396174",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-20-2283",
+      "titulo": "Decreto nº 2.283 de 20/10/1858",
+      "data": "1858-10-20",
+      "numero": "2283",
+      "urn": "urn:lex:br:federal:decreto:1858-10-20;2283",
+      "ementa": "APROVA OS ESTATUTOS DO INSTITUTO FARMACEUTICO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "396158",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-16-2279",
+      "titulo": "Decreto nº 2.279 de 16/10/1858",
+      "data": "1858-10-16",
+      "numero": "2279",
+      "urn": "urn:lex:br:federal:decreto:1858-10-16;2279",
+      "ementa": "ELEVANDO OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE CEARÁ."
+    },
+    {
+      "senadoId": "396162",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-16-2280",
+      "titulo": "Decreto nº 2.280 de 16/10/1858",
+      "data": "1858-10-16",
+      "numero": "2280",
+      "urn": "urn:lex:br:federal:decreto:1858-10-16;2280",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA E SEÇÃO DE COMPANHIA, DA RESERVA, CRIADAS NO MUNICIPIO DE LORENA NA PROVINCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "396170",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-16-2282",
+      "titulo": "Decreto nº 2.282 de 16/10/1858",
+      "data": "1858-10-16",
+      "numero": "2282",
+      "urn": "urn:lex:br:federal:decreto:1858-10-16;2282",
+      "ementa": "ELEVA  OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "396166",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-16-2281",
+      "titulo": "Decreto nº 2.281 de 16/10/1858",
+      "data": "1858-10-16",
+      "numero": "2281",
+      "urn": "urn:lex:br:federal:decreto:1858-10-16;2281",
+      "ementa": "ELEVA Á CATEGORIA DE SEÇÃO DE BATALHÃO, A SEÇÃO DE BATALHÃO NÚMERO QUATRO DA GUARDA NACIONAL DA RESERVA, CRIADA NO MUNICÍPIO DE CAMPINAS, DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396150",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-13-2277",
+      "titulo": "Decreto nº 2.277 de 13/10/1858",
+      "data": "1858-10-13",
+      "numero": "2277",
+      "urn": "urn:lex:br:federal:decreto:1858-10-13;2277",
+      "ementa": "CONCEDE A MIERS IRMÃOS E MAYLOR PRIVILÉGIO POR DEZ PARA CONSTRUÇÃO E USO DE DIQUES FLUTUANTES, DENOMINADOS `HIDROSTÁTICOS´."
+    },
+    {
+      "senadoId": "396146",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-13-2276",
+      "titulo": "Decreto nº 2.276 de 13/10/1858",
+      "data": "1858-10-13",
+      "numero": "2276",
+      "urn": "urn:lex:br:federal:decreto:1858-10-13;2276",
+      "ementa": "CONCEDE A FRANCISCO ARNAUD DURANDET PRIVILÉGIO POR DEZ ANOS PARA O FABRICO DE MACHINA DE SUA INVENÇÃO, DESTINADA A DESCASCAR, LIMPAR, E BRUNIR O CAFÉ."
+    },
+    {
+      "senadoId": "396154",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-13-2278",
+      "titulo": "Decreto nº 2.278 de 13/10/1858",
+      "data": "1858-10-13",
+      "numero": "2278",
+      "urn": "urn:lex:br:federal:decreto:1858-10-13;2278",
+      "ementa": "ELEVA A SEIS COMPANHIAS O BATALHÃO DE RESERVA NÚMERO DEZ DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "396134",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-09-2273",
+      "titulo": "Decreto nº 2.273 de 09/10/1858",
+      "data": "1858-10-09",
+      "numero": "2273",
+      "urn": "urn:lex:br:federal:decreto:1858-10-09;2273",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO, E APROVA OS ESTATUTOS DA COMPANHIA ESPERANÇA DE SEGUROS MARÍTIMOS E CONTRA O FOGO, DA CIDADE DO RIO GRANDE, DA PROVÍNCIA DE S. PEDRO."
+    },
+    {
+      "senadoId": "396142",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-09-2275",
+      "titulo": "Decreto nº 2.275 de 09/10/1858",
+      "data": "1858-10-09",
+      "numero": "2275",
+      "urn": "urn:lex:br:federal:decreto:1858-10-09;2275",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO, A SEÇÃO DE BATALHÃO DA ATIVA NÚMERO CINCO DA GUARDA NACIONAL DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396138",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-09-2274",
+      "titulo": "Decreto nº 2.274 de 09/10/1858",
+      "data": "1858-10-09",
+      "numero": "2274",
+      "urn": "urn:lex:br:federal:decreto:1858-10-09;2274",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO, A SEÇÃO DE BATALHÃO DA ATIVA NÚMERO QUATRO DA GUARDA NACIONAL DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396130",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-06-2272",
+      "titulo": "Decreto nº 2.272 de 06/10/1858",
+      "data": "1858-10-06",
+      "numero": "2272",
+      "urn": "urn:lex:br:federal:decreto:1858-10-06;2272",
+      "ementa": "SEPARA O TERMO DE SANTA IZABEL DO DE MOGY DAS CRUZES, E O REUNE AOS DE JACAREI E S. JOSE, NA PROVINCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396126",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-06-2271",
+      "titulo": "Decreto nº 2.271 de 06/10/1858",
+      "data": "1858-10-06",
+      "numero": "2271",
+      "urn": "urn:lex:br:federal:decreto:1858-10-06;2271",
+      "ementa": "CRIA NO TERMO DE PETROPÓLIS, PROVÍNCIA DO RIO DE JANEIRO, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "396114",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-02-2268",
+      "titulo": "Decreto nº 2.268 de 02/10/1858",
+      "data": "1858-10-02",
+      "numero": "2268",
+      "urn": "urn:lex:br:federal:decreto:1858-10-02;2268",
+      "ementa": "PROMULGA O TRATADO DE AMIZADE, COMÉRCIO E NAVEGAÇÃO ENTRE ESTE IMPÉRIO E O OTTEMANO, DE 5 DE FEVEREIRO DE 1858."
+    },
+    {
+      "senadoId": "396110",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-02-2267",
+      "titulo": "Decreto nº 2.267 de 02/10/1858",
+      "data": "1858-10-02",
+      "numero": "2267",
+      "urn": "urn:lex:br:federal:decreto:1858-10-02;2267",
+      "ementa": "CONCEDE A FREDERICO HAMILTON, SAUTEVORTH FACULDADE PARA EXTRAIR O MINERAL, QUE DENOMINA `ILLUMINATING VEGETABLE TURF´, PRÓPRIO PARA O FABRICO DE GAZ DE ILUMINAÇÃO, EM TERRENOS SITUADOS NAS MARGENS DO RIO ARACAHY, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "396106",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-02-2266",
+      "titulo": "Decreto nº 2.266 de 02/10/1858",
+      "data": "1858-10-02",
+      "numero": "2266",
+      "urn": "urn:lex:br:federal:decreto:1858-10-02;2266",
+      "ementa": "CONCEDE A JOSÉ DE BARROS PIMENTEL FACULDADE PARA POR MEIO DE UMA COMPANHIA EXTRAIR O MINERAL BITUMINOSO, QUE DENOMINA `BITUMINOUS SHAK´, PRÓPRIO PARA FABRICO DE GAZ DE ILUMINIAÇÃO, E CARVÃO DE PEDRA, EM TERRENOS SITUADOS NA MARGEM DO RIO MARAHÚ DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "396122",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-02-2270",
+      "titulo": "Decreto nº 2.270 de 02/10/1858",
+      "data": "1858-10-02",
+      "numero": "2270",
+      "urn": "urn:lex:br:federal:decreto:1858-10-02;2270",
+      "ementa": "SEPARA O TERMO DE SANTA LUZIA DO DE ESTANCIA, NA PROVÍNCIA DE SERGIPE, E CRIA NELE, E NO DO ESPÍRITO SANTO, REUNIDOS, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULURÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "396118",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-10-02-2269",
+      "titulo": "Decreto nº 2.269 de 02/10/1858",
+      "data": "1858-10-02",
+      "numero": "2269",
+      "urn": "urn:lex:br:federal:decreto:1858-10-02;2269",
+      "ementa": "PROMULGA O TRATADO DE COMÉRCIO E NAVEGAÇÃO ENTRE O IMPÉRIO DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAY DE 4 DE SETEMBRO DE 1857."
+    },
+    {
+      "senadoId": "396069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2257",
+      "titulo": "Decreto nº 2.257 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2257",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2257",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA METALURGICA DO ASSURUA DA PROVINCIA DA BAHIA, ORGANIZADA SEGUNDO O ARTIGO 6 DAS CONDIÇÕES ANEXAS AO DECRETO 2.238, DE 28 DE AGOSTO ÚLTIMO."
+    },
+    {
+      "senadoId": "396094",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2263",
+      "titulo": "Decreto nº 2.263 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2263",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2263",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A 3ª COMARCA, CRIADA NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "396061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2255",
+      "titulo": "Decreto nº 2.255 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2255",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2255",
+      "ementa": "APROVA, E MANDA QUE EXECUTE A TABELA DAS GRATIFICAÇÕES ADICIONAIS, CONCEDIDAS AOS EMPREGADOS DO ARQUIVO PÚBLICO, EM EXECUÇÃO DA LEI Nº 974 DE 28 DE AGOSTO DE 1858."
+    },
+    {
+      "senadoId": "396053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2253",
+      "titulo": "Decreto nº 2.253 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2253",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2253",
+      "ementa": "CONCEDE A HENRIQUE ANTONIO STRAUSS, RESIDENTE NA PROVÍNCIA DO PARÁ, PRIVILÉGIO POR 12 ANOS PARA PREPARAR A GOMA ELÁSTICA EM ESTADO SÓLIDO."
+    },
+    {
+      "senadoId": "396057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2254",
+      "titulo": "Decreto nº 2.254 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2254",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2254",
+      "ementa": "APROVA CONTRATO CELEBRADO PELA REPARTIÇÃO GERAL DAS TERRAS PUBLICAS COM JOSE DE O' E ALMEIDA PARA ESTABELECIMENTO DE COLONOS."
+    },
+    {
+      "senadoId": "396086",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2261",
+      "titulo": "Decreto nº 2.261 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2261",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2261",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DO BANANAL, AREAS, QUELUZ, E SELVEIRAS, DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396102",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2265",
+      "titulo": "Decreto nº 2.265 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2265",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2265",
+      "ementa": "CONCEDE A COMPANHIA QUE ORGANIZAREM O BARÃO DE MAUA, O CONSELHEIRO LUIZ ANTONIO BARBOSA, E O COMENDADOR LUIZ ALVES LEITE DE OLIVEIRA BELLO, DE CONFORMIDADE COM O ARTIGO 5 DAS CONDIÇÕES QUE BAIXARÃO COM O DECRETO 1.993 DE 12 DE OUTUBRO DE 1857, SEM DATAS DE TERRAS MINERAIS DE FERRO, E SEM DITAS DE CAL DE PEDRA, NA PROVINCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "396073",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2258",
+      "titulo": "Decreto nº 2.258 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2258",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2258",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO A VAPOR BAHIANA, ORGANIZADA NOS TERMOS DO DECRETO Nº 1.038 DE 30 DE AGOSTO DE 1852."
+    },
+    {
+      "senadoId": "396098",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2264",
+      "titulo": "Decreto nº 2.264 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2264",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2264",
+      "ementa": "AUMENTO O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE CAMPINAS, NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "396090",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2262",
+      "titulo": "Decreto nº 2.262 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2262",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2262",
+      "ementa": "MARCA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DE INGAZEIRA, ESCADA, SERINHAHAEM, BARREIROS, CIMBRES, BUIQUE, TACARATÚ, E CABROBRÓ, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "396082",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2260",
+      "titulo": "Decreto nº 2.260 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2260",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2260",
+      "ementa": "CRIA UMA COMPANHIA AVULSA DE ARTILHERIA DA GUARDA NACIONAL NA CAPITAL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396077",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2259",
+      "titulo": "Decreto nº 2.259 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2259",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2259",
+      "ementa": "AUMENTA OS VENCIMENTOS DOS CARCEREIROS DAS CADEIAS DA CIDADE DE UBERABA, E DA VILA DE TAMANDUÁ, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-25-2256",
+      "titulo": "Decreto nº 2.256 de 25/09/1858",
+      "data": "1858-09-25",
+      "numero": "2256",
+      "urn": "urn:lex:br:federal:decreto:1858-09-25;2256",
+      "ementa": "ALTERA O ARTIGO 3 DO REGULAMENTO ANEXO AO DECRETO 2.046 DE 9 DE DEZEMBRO DE 1857 SOBRE O CORTE DE GADO NO MATADOURO PUBLICO DA CORTE."
+    },
+    {
+      "senadoId": "396049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-22-2252",
+      "titulo": "Decreto nº 2.252 de 22/09/1858",
+      "data": "1858-09-22",
+      "numero": "2252",
+      "urn": "urn:lex:br:federal:decreto:1858-09-22;2252",
+      "ementa": "APROVA O REGULAMENTO ORGANIZADO PELA COMPANHIA DE SEGUROS MARÍTIMOS E CONTRA O FOGO, DA CIDADE DA BAHIA, DENOMINADA - PROVIDÊNCIA - PARA SEGUROS CONTRA O FOGO."
+    },
+    {
+      "senadoId": "396045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-18-2251",
+      "titulo": "Decreto nº 2.251 de 18/09/1858",
+      "data": "1858-09-18",
+      "numero": "2251",
+      "urn": "urn:lex:br:federal:decreto:1858-09-18;2251",
+      "ementa": "TORNA EXTENSIVA A GARANTIA DO JURO DE CINCO POR CENTO AO CAPITAL QUE FOR DESPENDIDO NA CONSTRUÇÃO DE UM RAMAL DA ESTRADA DE FERRO DE D. PEDRO II, LIGANDO A CIDADE DE VASSOURAS Á MESMA ESTRADA NO PONTO QUE FOR MAIS CONVENIENTE NA MARGEM DO RIO PARAÍBA."
+    },
+    {
+      "senadoId": "396022",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-15-2245",
+      "titulo": "Decreto nº 2.245 de 15/09/1858",
+      "data": "1858-09-15",
+      "numero": "2245",
+      "urn": "urn:lex:br:federal:decreto:1858-09-15;2245",
+      "ementa": "CRIANDO CADEIRAS DE ENSINO NO SEMINÁRIO ESPISCOPAL DA CONCEIÇÃO, EM CUIABÁ."
+    },
+    {
+      "senadoId": "396026",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-15-2246",
+      "titulo": "Decreto nº 2.246 de 15/09/1858",
+      "data": "1858-09-15",
+      "numero": "2246",
+      "urn": "urn:lex:br:federal:decreto:1858-09-15;2246",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DE POLÍCIA DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-15-2249",
+      "titulo": "Decreto nº 2.249 de 15/09/1858",
+      "data": "1858-09-15",
+      "numero": "2249",
+      "urn": "urn:lex:br:federal:decreto:1858-09-15;2249",
+      "ementa": "APROVA OS ESTATUTOS DA COMAPNHIA DE NAVEGAÇÃO POR VAPOR - ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "396033",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-15-2248",
+      "titulo": "Decreto nº 2.248 de 15/09/1858",
+      "data": "1858-09-15",
+      "numero": "2248",
+      "urn": "urn:lex:br:federal:decreto:1858-09-15;2248",
+      "ementa": "FAZ DIVERSAS ALTERAÇÕES NA TARIFA DAS ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "396030",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-15-2247",
+      "titulo": "Decreto nº 2.247 de 15/09/1858",
+      "data": "1858-09-15",
+      "numero": "2247",
+      "urn": "urn:lex:br:federal:decreto:1858-09-15;2247",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE COLONIZAÇÃO PARAENSE."
+    },
+    {
+      "senadoId": "396041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-15-2250",
+      "titulo": "Decreto nº 2.250 de 15/09/1858",
+      "data": "1858-09-15",
+      "numero": "2250",
+      "urn": "urn:lex:br:federal:decreto:1858-09-15;2250",
+      "ementa": "ALTERA O MODO DE QUALIFICAR O AÇÚCAR E DE MARCAR O SEU PREÇO MÉDIO NAS PAUTAS SEMANAIS."
+    },
+    {
+      "senadoId": "396010",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-01-2242",
+      "titulo": "Decreto nº 2.242 de 01/09/1858",
+      "data": "1858-09-01",
+      "numero": "2242",
+      "urn": "urn:lex:br:federal:decreto:1858-09-01;2242",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM O CONSELHEIRO FRANCISCO GONÇA~LVES MARTINS PARA LEVAR-SE A EFEITO A NAVEGAÇÃO POR VAPOR NO RIO DE JEQUETINHONHA, E ENTRE A BARRA DESTE E CANAVIEIRAS, A LIGAR Á ESTA A QUE VAI DE CARAVELLAS Á CIDADE DA BAHIA."
+    },
+    {
+      "senadoId": "396014",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-01-2243",
+      "titulo": "Decreto nº 2.243 de 01/09/1858",
+      "data": "1858-09-01",
+      "numero": "2243",
+      "urn": "urn:lex:br:federal:decreto:1858-09-01;2243",
+      "ementa": "DETERMINA QUE SE PROCEDA Á DESAPROPRIAÇÃO DO TERRENO DE VINTE BRAÇAS DE FRENTE E SESSENTA DE FUNDO, NA PRAIA DO SUZANO, PERTENCENTE Á ANTÔNIO JOSÉ GOMES BARBOSA BRAGA, E Á JOSÉ DA FONSECA E SILVA."
+    },
+    {
+      "senadoId": "396018",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-09-01-2244",
+      "titulo": "Decreto nº 2.244 de 01/09/1858",
+      "data": "1858-09-01",
+      "numero": "2244",
+      "urn": "urn:lex:br:federal:decreto:1858-09-01;2244",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DO ROSÁRIO, CRIA NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "396006",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-30-2241",
+      "titulo": "Decreto nº 2.241 de 30/08/1858",
+      "data": "1858-08-30",
+      "numero": "2241",
+      "urn": "urn:lex:br:federal:decreto:1858-08-30;2241",
+      "ementa": "PRORROGA ATÉ O DIA 12 DE SETEMBRO PRÓXIMO FUTURO A SESSÃO DA ASSEMBLÉIA GERAL LEGISLATIVA."
+    },
+    {
+      "senadoId": "395994",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-28-2238",
+      "titulo": "Decreto nº 2.238 de 28/08/1858",
+      "data": "1858-08-28",
+      "numero": "2238",
+      "urn": "urn:lex:br:federal:decreto:1858-08-28;2238",
+      "ementa": "CONCEDE Á COMPANHIA METALURGICA DO ASSURUÁ DA PROVINCIA DA BAHIA FACULDADE PARA, DURANTE O ESPAÇO DE 30 ANOS, MINERAR OURO, E OUTROS METAIS NO PERIMETRO DE QUATRO LEGOAS DE SUA PROPRIEDADE, SITUADAS NO LUGAR DENOMINADO GENTIO DO ASSURUÁ, TERMO DE CHIQUE-CHIQUE, NA REFERIDA PROVÍNCIA."
+    },
+    {
+      "senadoId": "395998",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-28-2239",
+      "titulo": "Decreto nº 2.239 de 28/08/1858",
+      "data": "1858-08-28",
+      "numero": "2239",
+      "urn": "urn:lex:br:federal:decreto:1858-08-28;2239",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DO BONFIM, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "396002",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-28-2240",
+      "titulo": "Decreto nº 2.240 de 28/08/1858",
+      "data": "1858-08-28",
+      "numero": "2240",
+      "urn": "urn:lex:br:federal:decreto:1858-08-28;2240",
+      "ementa": "SEPARA O TERMO DE ALAGOINHAS DO DE INHAMBUPE, NA PROVÍNCIA DA BAHIA, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395946",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2226",
+      "titulo": "Decreto nº 2.226 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2226",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2226",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE S. GABRIEL E DISTRITO DE LAVRAS NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395958",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2229",
+      "titulo": "Decreto nº 2.229 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2229",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2229",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA RESERVA DOS MUNICÍPIOS DO RIO PARDO E ENCRUZILHADA, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395978",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2234",
+      "titulo": "Decreto nº 2.234 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2234",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2234",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE JAGUARÃO NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395950",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2227",
+      "titulo": "Decreto nº 2.227 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2227",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2227",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA RESERVA DA COMARCA DE SANTO ANTONIO DA PATRULHA NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395982",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2235",
+      "titulo": "Decreto nº 2.235 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2235",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2235",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA RESERVA DOS MUNICÍPIOS DA CRUZ ALTA E PASSO FUNDO, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395970",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2232",
+      "titulo": "Decreto nº 2.232 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2232",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2232",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE BAGÉ NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395990",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2237",
+      "titulo": "Decreto nº 2.237 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2237",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2237",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DE PIRATINI E CANGUÇU NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395966",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2231",
+      "titulo": "Decreto nº 2.231 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2231",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2231",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA RESERVA DOS MUNICÍPIOS DO RIO GRANDE, E S. JOSÉ DO NORTE, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395942",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2225",
+      "titulo": "Decreto nº 2.225 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2225",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2225",
+      "ementa": "CONCEDE AO DR. THOMAZ COCHRANE, E A ROBERTO MUDDE MARCHANT, PRIVILÉGIO POR QUINZE ANOS PARA INTRODUZIREM NO IMPÉRIO O SEU INVENTO DA APLICAÇÃO DA FORÇA D'AGUA PARA A SUBIDA E DESCIDA DOS PLANOS INCLINADOS NOS CAMINHOS DE FERRO, OU EM OUTRAS QUAISQUER ESTRADAS."
+    },
+    {
+      "senadoId": "395986",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2236",
+      "titulo": "Decreto nº 2.236 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2236",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2236",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DA CACHOEIRA, SANTA MARIA DA BOCA DO MONTE E CAÇAPAVA NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395954",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2228",
+      "titulo": "Decreto nº 2.228 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2228",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2228",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE PELOTAS, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395938",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2224",
+      "titulo": "Decreto nº 2.224 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2224",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2224",
+      "ementa": "AUTORIZA A COMPANHIA UNIÃO CAMPISTA E FIDELISTA A ARGUMENTAR O SEU FUNDO SOCIAL."
+    },
+    {
+      "senadoId": "395962",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-25-2230",
+      "titulo": "Decreto nº 2.230 de 25/08/1858",
+      "data": "1858-08-25",
+      "numero": "2230",
+      "urn": "urn:lex:br:federal:decreto:1858-08-25;2230",
+      "ementa": "DECLARA DE 1ª ENTRANCIA AS COMARCAS DO RIO POMBA E DO RIO PARDO, CRIADAS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395934",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-18-2223",
+      "titulo": "Decreto nº 2.223 de 18/08/1858",
+      "data": "1858-08-18",
+      "numero": "2223",
+      "urn": "urn:lex:br:federal:decreto:1858-08-18;2223",
+      "ementa": "ALTERA A DIREÇÃO DA ESTRADA DE FERRO DO CENTRO DESTA CIDADE Á BOA VISTA DA TIJUCA NA PARTE QUE SE COMPREENDE ENTRE O CAMPO DA ACLAMAÇÃO, E O PRINCÍPIO DA RUA DO ENGENHO VELHO."
+    },
+    {
+      "senadoId": "395926",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-14-2221",
+      "titulo": "Decreto nº 2.221 de 14/08/1858",
+      "data": "1858-08-14",
+      "numero": "2221",
+      "urn": "urn:lex:br:federal:decreto:1858-08-14;2221",
+      "ementa": "SEPARA O TERMO DE MONTE ALEGRE DOS DE SANTARÉM E FRANÇA, NA PROVÍNCIA DO PARÁ, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395930",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-14-2222",
+      "titulo": "Decreto nº 2.222 de 14/08/1858",
+      "data": "1858-08-14",
+      "numero": "2222",
+      "urn": "urn:lex:br:federal:decreto:1858-08-14;2222",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DSO CORPOS DA GUARDA NACIONAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "395918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-11-2219",
+      "titulo": "Decreto nº 2.219 de 11/08/1858",
+      "data": "1858-08-11",
+      "numero": "2219",
+      "urn": "urn:lex:br:federal:decreto:1858-08-11;2219",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA RIO GRANDENSE DAS MINAS DE CARVÃO."
+    },
+    {
+      "senadoId": "395914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-11-2218",
+      "titulo": "Decreto nº 2.218 de 11/08/1858",
+      "data": "1858-08-11",
+      "numero": "2218",
+      "urn": "urn:lex:br:federal:decreto:1858-08-11;2218",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE ENCARREGADA DE EDIFICAR O NOVO TEATRO NA CIDADE DE PORTO ALEGRE."
+    },
+    {
+      "senadoId": "395922",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-11-2220",
+      "titulo": "Decreto nº 2.220 de 11/08/1858",
+      "data": "1858-08-11",
+      "numero": "2220",
+      "urn": "urn:lex:br:federal:decreto:1858-08-11;2220",
+      "ementa": "MARCA O UNIFORME DE QUE DEVEM USAR, NO EXERCÍCIO DE SUAS FUNÇÕES E SOLEMNIDADES PÚBLICAS, OS CHEFES DE POLÍCIA DO IMPÉRIO, E OS EMPREGADOS DAS RESPECTIVAS SECRETARIAS, BEM COMO OS DELEGADOS E SUBDELEGADOS DE POLÍCIA."
+    },
+    {
+      "senadoId": "395910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-07-2217",
+      "titulo": "Decreto nº 2.217 de 07/08/1858",
+      "data": "1858-08-07",
+      "numero": "2217",
+      "urn": "urn:lex:br:federal:decreto:1858-08-07;2217",
+      "ementa": "ELEVA Á CATEGORIA DE SEÇÃO DE BATALHÃO, A COMPANHIA E SEÇÃO DE COMPANHIA AVULSA DA GUARDA NACIONAL, CRIADAS NA VILA DE MIRANDA NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "395906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-07-2216",
+      "titulo": "Decreto nº 2.216 de 07/08/1858",
+      "data": "1858-08-07",
+      "numero": "2216",
+      "urn": "urn:lex:br:federal:decreto:1858-08-07;2216",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA QUE TEM DE EXECUTAR O CONTRATO PARA A NAVEGAÇÃO POR VAPOR ENTRE MONTEVIDÉU E CUIABÁ, CONSTANTE DAS CONDIÇÕES ANEXAS AO DECRETO 2.196 DE 23 DE JULHO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "395902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-08-04-2215",
+      "titulo": "Decreto nº 2.215 de 04/08/1858",
+      "data": "1858-08-04",
+      "numero": "2215",
+      "urn": "urn:lex:br:federal:decreto:1858-08-04;2215",
+      "ementa": "CRIA NOVAS CADEIRAS PÚBLICAS DO PRIMERIO GRAU DE INSTRUÇÃO PRIMÁRIA PARA AMBOS OS SEXOS NAS FREGUESIAS DO SACRAMENTO, E DE SANTA RITA DESTA CORTE."
+    },
+    {
+      "senadoId": "395898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-28-2214",
+      "titulo": "Decreto nº 2.214 de 28/07/1858",
+      "data": "1858-07-28",
+      "numero": "2214",
+      "urn": "urn:lex:br:federal:decreto:1858-07-28;2214",
+      "ementa": "ALTERA A ORGANIZAÇÃO DOS CORPOS DA GUARDA NACIONAL DA CIDADE DE CAMETÁ NA PROVÍNCIA DO PARÁ, E CRIA UM BATALHÃO DE INFANTARIA NA VILA DE BREVES DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "395894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-26-2213",
+      "titulo": "Decreto nº 2.213 de 26/07/1858",
+      "data": "1858-07-26",
+      "numero": "2213",
+      "urn": "urn:lex:br:federal:decreto:1858-07-26;2213",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DOS LENÇÕES NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "395890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-23-2212",
+      "titulo": "Decreto nº 2.212 de 23/07/1858",
+      "data": "1858-07-23",
+      "numero": "2212",
+      "urn": "urn:lex:br:federal:decreto:1858-07-23;2212",
+      "ementa": "ELEVA Á CATEGORIA DE SEÇÃO DE BATALHÃO, A COMPANHIA, E SEÇÃO DE COMPANHIA AVULSA DA GUARDA NACIONAL DO MUNICÍPIO DE UBATUBA NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-23-2210",
+      "titulo": "Decreto nº 2.210 de 23/07/1858",
+      "data": "1858-07-23",
+      "numero": "2210",
+      "urn": "urn:lex:br:federal:decreto:1858-07-23;2210",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DO CONDE NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "395886",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-23-2211",
+      "titulo": "Decreto nº 2.211 de 23/07/1858",
+      "data": "1858-07-23",
+      "numero": "2211",
+      "urn": "urn:lex:br:federal:decreto:1858-07-23;2211",
+      "ementa": "SEPARA O TERMO D'ATIBAIA DO DE BRAGANÇA, NA PROVÍNCIA DE S. PAULO, E CRIA NELE E NO DE NAZARETH, REUNIDOS, O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395878",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-22-2209",
+      "titulo": "Decreto nº 2.209 de 22/07/1858",
+      "data": "1858-07-22",
+      "numero": "2209",
+      "urn": "urn:lex:br:federal:decreto:1858-07-22;2209",
+      "ementa": "DECLARA DE NENHUM EFEITO O DECRETO 1.725 DE 16 DE FEVEREIRO DE 1856, NA PARTE EM QUE ALTERA OS ARTIGOS. 12 E 13 DOS ESTATUTOS, QUE FORÃO APROVADOS PELO DECRETO 1.415 DE 5 DE AGOSTO DE 1854 PARA A COMPANHIA DE SEGUROS CONTRA A MORTALIDADE DOS ESCRAVOS, DENOMINADA - PREVIDÊNCIA."
+    },
+    {
+      "senadoId": "395874",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-22-2208",
+      "titulo": "Decreto nº 2.208 de 22/07/1858",
+      "data": "1858-07-22",
+      "numero": "2208",
+      "urn": "urn:lex:br:federal:decreto:1858-07-22;2208",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO, PARA EXECUÇÃO DA LEI Nº874, DE 23 DE AGOSTO DE 1856, QUE CRIA NA CAPITAL DO IMPÉRIO UM CONSELHO NAVAL."
+    },
+    {
+      "senadoId": "395866",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-10-2206",
+      "titulo": "Decreto nº 2.206 de 10/07/1858",
+      "data": "1858-07-10",
+      "numero": "2206",
+      "urn": "urn:lex:br:federal:decreto:1858-07-10;2206",
+      "ementa": "CRIA UMA ESTAÇÃO NAVAL NA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "395862",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-10-2205",
+      "titulo": "Decreto nº 2.205 de 10/07/1858",
+      "data": "1858-07-10",
+      "numero": "2205",
+      "urn": "urn:lex:br:federal:decreto:1858-07-10;2205",
+      "ementa": "CRIA UMA CADEIRA DE INSTRUÇÃO PRIMÁRIA DO PRIMEIRO GRAU PARA O SEXO FEMININO, NO LUGAR DENOMINADO - PONTA DO CAJÚ - DA PARÓQUIA DE S. CRISTOVÃO."
+    },
+    {
+      "senadoId": "395870",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-10-2207",
+      "titulo": "Decreto nº 2.207 de 10/07/1858",
+      "data": "1858-07-10",
+      "numero": "2207",
+      "urn": "urn:lex:br:federal:decreto:1858-07-10;2207",
+      "ementa": "SEPARA O TERMO DE MARICÁ DOS DE ITABORAHY E SANTO ANTONIO DE SÁ, NA PROVÍNCIA DO RIO DE JANEIRO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395858",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-07-2204",
+      "titulo": "Decreto nº 2.204 de 07/07/1858",
+      "data": "1858-07-07",
+      "numero": "2204",
+      "urn": "urn:lex:br:federal:decreto:1858-07-07;2204",
+      "ementa": "ALTERA O PRIMEIRO UNIFORME DO CORPO DE CAVALARIA DA GUARDA NACIONAL DO MUNCÍPIO DA CORTE."
+    },
+    {
+      "senadoId": "395854",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-07-2203",
+      "titulo": "Decreto nº 2.203 de 07/07/1858",
+      "data": "1858-07-07",
+      "numero": "2203",
+      "urn": "urn:lex:br:federal:decreto:1858-07-07;2203",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA NITÉROI E INHOMERIM DE NAVEGAÇÃO A VAPOR."
+    },
+    {
+      "senadoId": "395850",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-07-03-2202",
+      "titulo": "Decreto nº 2.202 de 03/07/1858",
+      "data": "1858-07-03",
+      "numero": "2202",
+      "urn": "urn:lex:br:federal:decreto:1858-07-03;2202",
+      "ementa": "ALTERA A DIREÇÃO DA LINHA DE CARRIS DE FERRO DA PRAÇA DA CONSTITUIÇÃO Á BOA VISTA DA TIJUCA, NA PARTE QUE ATRAVESSA O CAMPO DA ACLAMAÇÃO."
+    },
+    {
+      "senadoId": "395834",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-26-2198",
+      "titulo": "Decreto nº 2.198 de 26/06/1858",
+      "data": "1858-06-26",
+      "numero": "2198",
+      "urn": "urn:lex:br:federal:decreto:1858-06-26;2198",
+      "ementa": "MARCA OS ORDENADOS DOS PROMOTORES PÚBLICOS DAS COMARCAS DO BANANAL, DE IGUAPE E DA CONSTITUIÇÃO, CRIADAS NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395842",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-26-2200",
+      "titulo": "Decreto nº 2.200 de 26/06/1858",
+      "data": "1858-06-26",
+      "numero": "2200",
+      "urn": "urn:lex:br:federal:decreto:1858-06-26;2200",
+      "ementa": "CRIA A COLONIA MILITAR DO ITAPURA NA PROVINCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395830",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-26-2197",
+      "titulo": "Decreto nº 2.197 de 26/06/1858",
+      "data": "1858-06-26",
+      "numero": "2197",
+      "urn": "urn:lex:br:federal:decreto:1858-06-26;2197",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM OS PROCURADORES DA DIRETORIA DA COMPANHIA DE NAVEGAÇÃO COSTEIRA ENTRE OS PORTOS DE S. LUIZ DO MARANHÃO E A CIDADE DE FORTALEZA NO CEARÁ, E ENTRE O MESMO PORTO DO MARANHÃO, E O DE BELEM NO PARÁ."
+    },
+    {
+      "senadoId": "395846",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-26-2201",
+      "titulo": "Decreto nº 2.201 de 26/06/1858",
+      "data": "1858-06-26",
+      "numero": "2201",
+      "urn": "urn:lex:br:federal:decreto:1858-06-26;2201",
+      "ementa": "ISENTA DO IMPOSTO DO SELO OS ATOS PROMOVIDOS E QUAISQUER TÍTULOS E DOCUMENTOS APRESENTADOS EM JUÍZO A FAVOR DOS QUE LITIGÃO POR SUA LIBERDADE."
+    },
+    {
+      "senadoId": "395838",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-26-2199",
+      "titulo": "Decreto nº 2.199 de 26/06/1858",
+      "data": "1858-06-26",
+      "numero": "2199",
+      "urn": "urn:lex:br:federal:decreto:1858-06-26;2199",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE CAROLINA NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "395826",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-23-2196",
+      "titulo": "Decreto nº 2.196 de 23/06/1858",
+      "data": "1858-06-23",
+      "numero": "2196",
+      "urn": "urn:lex:br:federal:decreto:1858-06-23;2196",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM JOSE ANTONIO SOARES, PARA A NAVEGAÇÃO POR VAPOR ENTRE MONTEVIDEU E A CIDADE DE CUIABA."
+    },
+    {
+      "senadoId": "395818",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-19-2194",
+      "titulo": "Decreto nº 2.194 de 19/06/1858",
+      "data": "1858-06-19",
+      "numero": "2194",
+      "urn": "urn:lex:br:federal:decreto:1858-06-19;2194",
+      "ementa": "CONCEDE A FACULDADE DE ESTABELECER UM DEPÓSITO DE AGUARDENTE NA ESTAÇÃO CENTRAL DO CAMPO DA ACLAMAÇÃO."
+    },
+    {
+      "senadoId": "395822",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-19-2195",
+      "titulo": "Decreto nº 2.195 de 19/06/1858",
+      "data": "1858-06-19",
+      "numero": "2195",
+      "urn": "urn:lex:br:federal:decreto:1858-06-19;2195",
+      "ementa": "SEPARA O TERMO DE ICATÚ DO DE ROSÁRIO, NA PROVÍNCIA DO MARANHÃO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395814",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-16-2193",
+      "titulo": "Decreto nº 2.193 de 16/06/1858",
+      "data": "1858-06-16",
+      "numero": "2193",
+      "urn": "urn:lex:br:federal:decreto:1858-06-16;2193",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA DENOMINADA - CENTRO AGRÍCOLA - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395802",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-12-2190",
+      "titulo": "Decreto nº 2.190 de 12/06/1858",
+      "data": "1858-06-12",
+      "numero": "2190",
+      "urn": "urn:lex:br:federal:decreto:1858-06-12;2190",
+      "ementa": "PRORROGA POR UM ANO O PRAZO MARCADO NO § 9º DA CONDIÇÃO 2ª DO DECRETO Nº 1.929 DE 26 DE ABRIL DE 1857 PARA COMEÇO DAS OBRAS RELATIVAS AO SERVIÇO DA LIMPEZA DAS CADAS DA CIDADE DO RIO DE JANEIRO, E ESGOTO DAS AGUAS PLUVIAIS."
+    },
+    {
+      "senadoId": "395810",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-12-2192",
+      "titulo": "Decreto nº 2.192 de 12/06/1858",
+      "data": "1858-06-12",
+      "numero": "2192",
+      "urn": "urn:lex:br:federal:decreto:1858-06-12;2192",
+      "ementa": "APROVA DIVERSAS ALTERAÇÕES DE ALGUNS ARTIGOS DOS ESTATUTOS DO BANCO RURAL E HIPOTECÁRIO, PROPOSTAS PELA RESPECTIVA DIRETORIA."
+    },
+    {
+      "senadoId": "395806",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-12-2191",
+      "titulo": "Decreto nº 2.191 de 12/06/1858",
+      "data": "1858-06-12",
+      "numero": "2191",
+      "urn": "urn:lex:br:federal:decreto:1858-06-12;2191",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DOS MUNICÍPIOS DO RIO PARDO E ENCRUZILHADA NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395798",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-12-2189",
+      "titulo": "Decreto nº 2.189 de 12/06/1858",
+      "data": "1858-06-12",
+      "numero": "2189",
+      "urn": "urn:lex:br:federal:decreto:1858-06-12;2189",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA DE DIQUE MECANICOS DA CIDADE DA BAHIA, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395794",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-09-2188",
+      "titulo": "Decreto nº 2.188 de 09/06/1858",
+      "data": "1858-06-09",
+      "numero": "2188",
+      "urn": "urn:lex:br:federal:decreto:1858-06-09;2188",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MENORES EM CADA UM DOS ARSENAES DE MARINHA DAS PROVÍNCIAS DA BAHIA E PERNAMBUCO."
+    },
+    {
+      "senadoId": "395790",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-05-2187",
+      "titulo": "Decreto nº 2.187 de 05/06/1858",
+      "data": "1858-06-05",
+      "numero": "2187",
+      "urn": "urn:lex:br:federal:decreto:1858-06-05;2187",
+      "ementa": "DECLARA DE PRIMEIRA ESTANCIA AS COMARCAS DO BANANAL, DE IGUAPE E DA CONSTITUIÇÃO DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-05-2183",
+      "titulo": "Decreto nº 2.183 de 05/06/1858",
+      "data": "1858-06-05",
+      "numero": "2183",
+      "urn": "urn:lex:br:federal:decreto:1858-06-05;2183",
+      "ementa": "AUTORIZA A COMPANHIA DE ESTRADA DE FERRO DE PERNAMBUCO PARA CONTRAIR UM EMPRESTIMO ATE A QUANTIA $ 400.000."
+    },
+    {
+      "senadoId": "395782",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-05-2185",
+      "titulo": "Decreto nº 2.185 de 05/06/1858",
+      "data": "1858-06-05",
+      "numero": "2185",
+      "urn": "urn:lex:br:federal:decreto:1858-06-05;2185",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DA VILLA DO JARDIM NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "395786",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-05-2186",
+      "titulo": "Decreto nº 2.186 de 05/06/1858",
+      "data": "1858-06-05",
+      "numero": "2186",
+      "urn": "urn:lex:br:federal:decreto:1858-06-05;2186",
+      "ementa": "SEPARA A VARA DE ÓRGÃOS DA MUNICIPAL DOS TERMOS REUNIDOS DE MACEIÓ E SANTA LUZIA DO NORTE, NA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "395778",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-05-2184",
+      "titulo": "Decreto nº 2.184 de 05/06/1858",
+      "data": "1858-06-05",
+      "numero": "2184",
+      "urn": "urn:lex:br:federal:decreto:1858-06-05;2184",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE NAVEGAÇÃO A VAPOR NA BAHIA DO RIO DE JANEIRO E NITÉROI."
+    },
+    {
+      "senadoId": "395771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-06-02-2182",
+      "titulo": "Decreto nº 2.182 de 02/06/1858",
+      "data": "1858-06-02",
+      "numero": "2182",
+      "urn": "urn:lex:br:federal:decreto:1858-06-02;2182",
+      "ementa": "APROVA ALGUMAS EMENDAS OFERECIDAS PELA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES, ALTERANDO VÁRIOS ARTIGOS DOS RESPECTIVOS ESTATUTOS, QUE BAIXARÃO COM O DECRETO Nº 1.724 DE 16 DE FEVEREIRO DE 1856."
+    },
+    {
+      "senadoId": "395767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-29-2181",
+      "titulo": "Decreto nº 2.181 de 29/05/1858",
+      "data": "1858-05-29",
+      "numero": "2181",
+      "urn": "urn:lex:br:federal:decreto:1858-05-29;2181",
+      "ementa": "SEPARA O TERMO DE AQUIRAZ DO DA FORTALEZA, E O REÚNE AO DE CÁSCAVEL, NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "395763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-26-2180",
+      "titulo": "Decreto nº 2.180 de 26/05/1858",
+      "data": "1858-05-26",
+      "numero": "2180",
+      "urn": "urn:lex:br:federal:decreto:1858-05-26;2180",
+      "ementa": "CRIA MAIS UM LUGAR DE ADIDO DE PRIMEIRA CLASSE Á LEGAÇÃO IMPERIAL EM LISBOA."
+    },
+    {
+      "senadoId": "395759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-26-2179",
+      "titulo": "Decreto nº 2.179 de 26/05/1858",
+      "data": "1858-05-26",
+      "numero": "2179",
+      "urn": "urn:lex:br:federal:decreto:1858-05-26;2179",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA - TRANSPORTES MARÍTIMOS,  - A QUAL TEM POR FIM PRESTAR SERVIÇO AO COMÉRCIO, ENCARREGANDO-SE DO TRANSPORTE MARÍTIMO DE MERCADORIAS NO PORTO DESTA CAPITAL; E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-22-2176",
+      "titulo": "Decreto nº 2.176 de 22/05/1858",
+      "data": "1858-05-22",
+      "numero": "2176",
+      "urn": "urn:lex:br:federal:decreto:1858-05-22;2176",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA, DENOMINADA PROTETORA, A QUAL TEM POR FIM EDIFICAR PEQUENAS CASAS PARA HABITAÇÃO DAS CLASSES POBRES, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-22-2177",
+      "titulo": "Decreto nº 2.177 de 22/05/1858",
+      "data": "1858-05-22",
+      "numero": "2177",
+      "urn": "urn:lex:br:federal:decreto:1858-05-22;2177",
+      "ementa": "SEPARA O TERMO DE CHIQUE-CHIQUE DO DA VILLA DA BARRA, NA PROVÍNCIA DA BAHIA, E CRIA NELE O LUGAR DE JUIZ  MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395755",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-22-2178",
+      "titulo": "Decreto nº 2.178 de 22/05/1858",
+      "data": "1858-05-22",
+      "numero": "2178",
+      "urn": "urn:lex:br:federal:decreto:1858-05-22;2178",
+      "ementa": "MANDA POR EM EXECUÇÃO NA PROVÍNCIA DO AMAZONAS O DECRETO NÚMERO DOIS MIL E VINTE NOVE, DE DEZOITO DE NOVEMBRO DO ANO PRÓXIMO PASSADO, QUE DEU ORGANIZAÇÃO Á GUARDA NACIONAL DAS PROVÍNCIAS LIMITROPHES COM OS ESTADOS VIZINHOS."
+    },
+    {
+      "senadoId": "395743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-19-2175",
+      "titulo": "Decreto nº 2.175 de 19/05/1858",
+      "data": "1858-05-19",
+      "numero": "2175",
+      "urn": "urn:lex:br:federal:decreto:1858-05-19;2175",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA DE ESTRADA DE FERRO DE NITÉROI A CAMPOS, NA PROVÍNCIA DO RIO DE JANEIRO E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-15-2174",
+      "titulo": "Decreto nº 2.174 de 15/05/1858",
+      "data": "1858-05-15",
+      "numero": "2174",
+      "urn": "urn:lex:br:federal:decreto:1858-05-15;2174",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA TERCEIRA COMARCA, CRIADA NA PROVÍNCIA DA PARAIBA."
+    },
+    {
+      "senadoId": "395735",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-15-2173",
+      "titulo": "Decreto nº 2.173 de 15/05/1858",
+      "data": "1858-05-15",
+      "numero": "2173",
+      "urn": "urn:lex:br:federal:decreto:1858-05-15;2173",
+      "ementa": "SEPARA O TERMO DE PIUNHY DO DE FORMIGAS, NA PROVÍNCIA DE MINAS GERAIS, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395731",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-08-2172",
+      "titulo": "Decreto nº 2.172 de 08/05/1858",
+      "data": "1858-05-08",
+      "numero": "2172",
+      "urn": "urn:lex:br:federal:decreto:1858-05-08;2172",
+      "ementa": "ALTERA O ARTIGO 19 PARAGRAFO 3 DO DECRETO 1.245 DE 13 DE OUTUBRO DE 1853 SOBRE A NOMEAÇÃO DO TERCEIRO ARBITRO NA VERIFICAÇÃO DAS CONTAS, E PAGAMENTOS DOS DIVIDENDOS DA ESTRADA DE FERRO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "395683",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2160",
+      "titulo": "Decreto nº 2.160 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2160",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2160",
+      "ementa": "MANDA PROCEDER A UMA NOVA MATRICULA GERAL DE TODOS OS ESCRAVOS SUJEITOS A TAXA."
+    },
+    {
+      "senadoId": "395703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2165",
+      "titulo": "Decreto nº 2.165 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2165",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2165",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIO DE PELOTAS DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395687",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2161",
+      "titulo": "Decreto nº 2.161 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2161",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2161",
+      "ementa": "APROVA A TABELA JUNTA, FIXANDO AS GRATIFICAÇÕES ESPECIAIS DE COMANDO, E DE EXERCÍCIO, E OS VALORES DAS ETAPAS E FORRAGENS DIÁRIAS, DAS CAVALGADURAS DE PESSOAS  BESTAS DE BAGAGEM, QUE COMPETEM AOS OFICIAIS DO EXERCITO, EM SUBSTITUIÇÃO ÁS TABELAS QUE BAIXARÃO COM OS DECRETOS NÚMEROS 1.877, 1.878 E 1.880, TODOS DE 31 DE JANEIRO DE 1857."
+    },
+    {
+      "senadoId": "395679",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2159",
+      "titulo": "Decreto nº 2.159 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2159",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2159",
+      "ementa": "APROVA O CONTRATO ACEITO PELA ASSEMBLÉIA GERAL DOS ACIONISTAS DA ASSOCIAÇÃO CENTRAL DE COLONIZAÇÃO EM SESSÃO DE 30 DE ABRIL ÚLTIMO."
+    },
+    {
+      "senadoId": "395663",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2155",
+      "titulo": "Decreto nº 2.155 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2155",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2155",
+      "ementa": "PROMULGA A CONVENÇÃO ADICIONAL AO TRATADO DE 6 DE ABRIL DE 1856 ENTRE O IMPÉRIO DO BRASIL E A REPÚBLICA DO PARAGUAY."
+    },
+    {
+      "senadoId": "395723",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2170",
+      "titulo": "Decreto nº 2.170 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2170",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2170",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA COMARCA DE PORTO ALEGRE NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395727",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2171",
+      "titulo": "Decreto nº 2.171 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2171",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2171",
+      "ementa": "ESTABELECE REGRAS SOBRE O RECRUTAMENTO E MODO PRÁTICO DE DISTRIBUIÇÃO DOS RECRUTAS PELA CORTE E PROVÍNCIAS."
+    },
+    {
+      "senadoId": "395671",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2157",
+      "titulo": "Decreto nº 2.157 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2157",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2157",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 2.558:672$419 RÉIS, PARA AS DESPESAS DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1857-1858."
+    },
+    {
+      "senadoId": "395711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2167",
+      "titulo": "Decreto nº 2.167 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2167",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2167",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA COMARCA NACIONAL DOS MUNICÍPIOS DO RIO GRANDE, E S. JOSÉ DO NORTE DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395699",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2164",
+      "titulo": "Decreto nº 2.164 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2164",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2164",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DO MUNICÍPIOS DA CRUZ ALTA, E PASSO FUNDO DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395695",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2163",
+      "titulo": "Decreto nº 2.163 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2163",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2163",
+      "ementa": "REORGANIZA A ACADEMIA DE MARINHA, EM VIRTUDE DA AUTORIZAÇÃO CONCEDIDA NO PARÁGRAFO 3º DO ARTIGO 5º DA LEI NÚMERO 862 DE 30 DE JULHO DE 1856."
+    },
+    {
+      "senadoId": "395667",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2156",
+      "titulo": "Decreto nº 2.156 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2156",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2156",
+      "ementa": "CONCEDE A GUILHERME BOULIECH PRIVILÉGIO POR 15 ANOS PARA MANUFATURAR PORCELANAS DE GREDA CERÂMICA, E LOUÇAS FINAS."
+    },
+    {
+      "senadoId": "395719",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2169",
+      "titulo": "Decreto nº 2.169 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2169",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2169",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO PARA A ARRECADAÇÃO DO IMPOSTO SOBRE O CONSUMO DE AGUARDENTE DE PRODUÇÃO DO PAÍS."
+    },
+    {
+      "senadoId": "395675",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2158",
+      "titulo": "Decreto nº 2.158 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2158",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2158",
+      "ementa": "APROVA OS ESTATUTOS ACEITOS PELA ASSEMBLÉIA GERAL DOS ACIONISTAS DA ASSOCIAÇÃO CENTRAL DE COLONIZAÇÃO EM SESSÃO DE 30 DE ABRIL ÚLTIMO."
+    },
+    {
+      "senadoId": "395691",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2162",
+      "titulo": "Decreto nº 2.162 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2162",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2162",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO, PARA O EXAME DOS ARRÁES DAS BARCAS DE VAPOR, EMPREGADAS EM A NAVEGAÇÃO DA BAHIA NITEOI, E RIOS QUE NELA DESAGUÃO."
+    },
+    {
+      "senadoId": "395707",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2166",
+      "titulo": "Decreto nº 2.166 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2166",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2166",
+      "ementa": "DÁ NOVA ORGANIZAÇÃO Á GUARDA NACIONAL DA COMARCA NACIONAL DA COMARCA DE SANTO ANTÔNIO DA PATRULHA NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-05-01-2168",
+      "titulo": "Decreto nº 2.168 de 01/05/1858",
+      "data": "1858-05-01",
+      "numero": "2168",
+      "urn": "urn:lex:br:federal:decreto:1858-05-01;2168",
+      "ementa": "APROVA O REGULAMENTO PARA O TRANSPORTE DE EMIGRANTES."
+    },
+    {
+      "senadoId": "395639",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-24-2149",
+      "titulo": "Decreto nº 2.149 de 24/04/1858",
+      "data": "1858-04-24",
+      "numero": "2149",
+      "urn": "urn:lex:br:federal:decreto:1858-04-24;2149",
+      "ementa": "AUTORIZA A COMPANHIA DE ILUMINAÇÃO A GAS A ARGUMENTAR DE NOVO O SEU FUNDO SOCIAL."
+    },
+    {
+      "senadoId": "395651",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-24-2152",
+      "titulo": "Decreto nº 2.152 de 24/04/1858",
+      "data": "1858-04-24",
+      "numero": "2152",
+      "urn": "urn:lex:br:federal:decreto:1858-04-24;2152",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE CHIQUE-CHIQUE, CRIADA NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "395647",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-24-2151",
+      "titulo": "Decreto nº 2.151 de 24/04/1858",
+      "data": "1858-04-24",
+      "numero": "2151",
+      "urn": "urn:lex:br:federal:decreto:1858-04-24;2151",
+      "ementa": "AUTORIZA O MINISTRO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO CORRENTE ANO FINANCEIRO DE 1857-58, POR UM CRÉDITO SUPLEMENTAR, A QUANTIA DE 18.240$000, ALÉM DA DE 584.640$000 DO CRÉDITO EXTRAORDINÁRIO CONCEDIDO PELO DECRETO NÚMERO 2.102 DE 6 DE FEVEREIRO DO CORRENTE ANO."
+    },
+    {
+      "senadoId": "395655",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-24-2153",
+      "titulo": "Decreto nº 2.153 de 24/04/1858",
+      "data": "1858-04-24",
+      "numero": "2153",
+      "urn": "urn:lex:br:federal:decreto:1858-04-24;2153",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A TERCEITA COMARCA ULTIMAMENTE CRIADA NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "395659",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-24-2154",
+      "titulo": "Decreto nº 2.154 de 24/04/1858",
+      "data": "1858-04-24",
+      "numero": "2154",
+      "urn": "urn:lex:br:federal:decreto:1858-04-24;2154",
+      "ementa": "ABRE AO MINISTERIO DA FAZENDA UM CREDITO SUPLEMENTAR DE 1.347.000$000, PARA AS DESPESAS DO EXERCICIO DE 1857-58."
+    },
+    {
+      "senadoId": "395643",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-24-2150",
+      "titulo": "Decreto nº 2.150 de 24/04/1858",
+      "data": "1858-04-24",
+      "numero": "2150",
+      "urn": "urn:lex:br:federal:decreto:1858-04-24;2150",
+      "ementa": "CRIA DUAS ESCOLAS PÚBLICAS DO PRIMEIRO GRAU DE INSTRUÇÃO PRIMÁRIA NO SEGUNDO DISTRITO DA FREGUESIA DE SANTA ANNA DESTA CORTE, SENDO UMA PARA O SEXO MASCULINO, E A OUTRA PARA O FEMININO."
+    },
+    {
+      "senadoId": "395635",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-17-2148",
+      "titulo": "Decreto nº 2.148 de 17/04/1858",
+      "data": "1858-04-17",
+      "numero": "2148",
+      "urn": "urn:lex:br:federal:decreto:1858-04-17;2148",
+      "ementa": "SEPARA OS LUGARES DE CAPITÃES DOS PORTOS DAS PROVÍNCIAS DA BAHIA E PERNAMBUCO DOS DE INTENDENTE, E DE INSPETOR DOS ARSENAIS DE MARINHA DAS MESMAS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "395623",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-10-2145",
+      "titulo": "Decreto nº 2.145 de 10/04/1858",
+      "data": "1858-04-10",
+      "numero": "2145",
+      "urn": "urn:lex:br:federal:decreto:1858-04-10;2145",
+      "ementa": "REGULA A ARRECADAÇÃO DO IMPOSTO DE PATENTE DOS AGENTES DE LEILÕES."
+    },
+    {
+      "senadoId": "395619",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-10-2144",
+      "titulo": "Decreto nº 2.144 de 10/04/1858",
+      "data": "1858-04-10",
+      "numero": "2144",
+      "urn": "urn:lex:br:federal:decreto:1858-04-10;2144",
+      "ementa": "CRIA UM BATALHÃO DE GUARDAS NACIONAIS NA FREGUESIA DA VILLA DE SANTA MARIA DE ANAJUTUBA DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "395631",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-10-2147",
+      "titulo": "Decreto nº 2.147 de 10/04/1858",
+      "data": "1858-04-10",
+      "numero": "2147",
+      "urn": "urn:lex:br:federal:decreto:1858-04-10;2147",
+      "ementa": "MANDA EXECUTAR O REGULAMENTO DA MESA DE RENDAS DA CIDADE DE S. JOSÉ DO NORTE NA PROVÍNCIA DE S. PEDRO."
+    },
+    {
+      "senadoId": "395611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-10-2142",
+      "titulo": "Decreto nº 2.142 de 10/04/1858",
+      "data": "1858-04-10",
+      "numero": "2142",
+      "urn": "urn:lex:br:federal:decreto:1858-04-10;2142",
+      "ementa": "ALTERA A 1 E 15 DAS CONDIÇÕES ANEXAS AO DECRETO 1.733 DE 12 DE MARÇO DE 1856."
+    },
+    {
+      "senadoId": "395627",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-10-2146",
+      "titulo": "Decreto nº 2.146 de 10/04/1858",
+      "data": "1858-04-10",
+      "numero": "2146",
+      "urn": "urn:lex:br:federal:decreto:1858-04-10;2146",
+      "ementa": "REGULA A ARRECADAÇÃO DO IMPOSTO DE PATENTE DOS CORRETORES."
+    },
+    {
+      "senadoId": "395615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-10-2143",
+      "titulo": "Decreto nº 2.143 de 10/04/1858",
+      "data": "1858-04-10",
+      "numero": "2143",
+      "urn": "urn:lex:br:federal:decreto:1858-04-10;2143",
+      "ementa": "AUTORIZA AO MINISTRO E SECRETARIO D'ESTADO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO EXERCÍCIO DE 1857 A 1858, POR UM CRÉDITO EXTRAORDINÁRIO, A QUANTIA DE 229.334$200."
+    },
+    {
+      "senadoId": "395608",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-03-2141",
+      "titulo": "Decreto nº 2.141 de 03/04/1858",
+      "data": "1858-04-03",
+      "numero": "2141",
+      "urn": "urn:lex:br:federal:decreto:1858-04-03;2141",
+      "ementa": "AUTORIZA O MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO EXERCÍCIO FINANCEIRO DE 1857-58, ALÉM DO CRÉDITO VOTADO NAS VERBAS DOS PARÁGRAFOS 2º, 4º E 5º, DO ARTIGO 4º DA LEI NÚMERO 884 DO 1º DE OUTUBRO DE 1856, MAIS A QUANTIA DE 121.300$ NA FORMA DA TABELA QUE COM ELE BAIXA."
+    },
+    {
+      "senadoId": "395604",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-04-03-2140",
+      "titulo": "Decreto nº 2.140 de 03/04/1858",
+      "data": "1858-04-03",
+      "numero": "2140",
+      "urn": "urn:lex:br:federal:decreto:1858-04-03;2140",
+      "ementa": "AUTORIZA A INCORPORAÇÃO, E APROVA OS ESTATUTOS DO BANCO DA BAHIA COM DIVERSAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "395596",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-27-2138",
+      "titulo": "Decreto nº 2.138 de 27/03/1858",
+      "data": "1858-03-27",
+      "numero": "2138",
+      "urn": "urn:lex:br:federal:decreto:1858-03-27;2138",
+      "ementa": "CONCEDE A JOÃO CAZANOVA PRIVILÉGIO POR DEZ ANOS PARA FABRICAR POTASSA PELOS MEIOS E PROCESSOS POR ELE DESCOBERTOS."
+    },
+    {
+      "senadoId": "395588",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-27-2136",
+      "titulo": "Decreto nº 2.136 de 27/03/1858",
+      "data": "1858-03-27",
+      "numero": "2136",
+      "urn": "urn:lex:br:federal:decreto:1858-03-27;2136",
+      "ementa": "CONCEDE A ANTONIO JOAQUIM PEREIRA DE CARVALHO, PRIVILEGIO POR VINTE ANOS PARA A SUA INVENÇÃO DE CONSTRUÇÃO DE PONTES, E AQUEDUTOS PENSIS."
+    },
+    {
+      "senadoId": "395592",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-27-2137",
+      "titulo": "Decreto nº 2.137 de 27/03/1858",
+      "data": "1858-03-27",
+      "numero": "2137",
+      "urn": "urn:lex:br:federal:decreto:1858-03-27;2137",
+      "ementa": "PRORROGA POR MAIS DEZ ANOS A DURAÇÃO DA COMPANHIA DE SEGUROS MARÍTIMOS - FIDELIDADE - DA PROVÍNCIA DE S. PEDRO, CUJA ORGANIZAÇÃO FOU AUTORIZADA PELO DECRETO NÚMERO 1.060 DE 3 DE NOVEMBRO DE 1852."
+    },
+    {
+      "senadoId": "395584",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-27-2135",
+      "titulo": "Decreto nº 2.135 de 27/03/1858",
+      "data": "1858-03-27",
+      "numero": "2135",
+      "urn": "urn:lex:br:federal:decreto:1858-03-27;2135",
+      "ementa": "ELEVA A CEM CONTOS DE RÉIS O CAPITAL DE CINQÜENTA CONTOS DA COMPANHIA DE PESCARIA DA CAPITAL DA PROVINCIA DO PARÁ."
+    },
+    {
+      "senadoId": "395600",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-27-2139",
+      "titulo": "Decreto nº 2.139 de 27/03/1858",
+      "data": "1858-03-27",
+      "numero": "2139",
+      "urn": "urn:lex:br:federal:decreto:1858-03-27;2139",
+      "ementa": "ALTERA OS DIREITOS TAXADOS EM DIVERSOS ARTIGOS DA TARIFA DAS ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "395549",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-23-2126",
+      "titulo": "Decreto nº 2.126 de 23/03/1858",
+      "data": "1858-03-23",
+      "numero": "2126",
+      "urn": "urn:lex:br:federal:decreto:1858-03-23;2126",
+      "ementa": "CRIA UMA COLÔNIA MILITAR NA ESTRADA, QUE VAI DA VILA DA CONSTITUIÇÃO EM SÃO PAULO Á DE SANTA ANA DA PARNAÍBA."
+    },
+    {
+      "senadoId": "395573",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2132",
+      "titulo": "Decreto nº 2.132 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2132",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2132",
+      "ementa": "CRIA NO TERMO DO PASSO FUNDO, DA PROVÍNCIA DE SÃO PEDRO O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2133",
+      "titulo": "Decreto nº 2.133 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2133",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2133",
+      "ementa": "CRIA MAIS UM LUGAR DE JUIZ MUNICIPAL NO TERMO DO RIO GRANDE, NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "395565",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2130",
+      "titulo": "Decreto nº 2.130 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2130",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2130",
+      "ementa": "REUNE O TERMO DA BARRA DO CORDA AO DA CHAPADA, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "395557",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2128",
+      "titulo": "Decreto nº 2.128 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2128",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2128",
+      "ementa": "IGUALA OS VENCIMENTOS DOS PROFESSORES DAS CADEIRAS DE FRANCES, E INGLES DO INTERNATO E DO EXTERNATO DO IMPERIAL COLÉGIO DE PEDRO SEGUNDO AOS PROFESSORES DAS CADEIRAS DAS LÍNGUA MORTAS, E DE ALEMÃO, E ELEVA OS DOS CAPELLÃES, ENCARREGADOS DO ENSINO DA DOUTRINA CRISTÃ, E HISTÓRIA SAGRADA NOS MESMOS ESTABELECIMENTOS."
+    },
+    {
+      "senadoId": "395569",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2131",
+      "titulo": "Decreto nº 2.131 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2131",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2131",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO, A COMPANHIA AVULSA DA RESERVA CRIADA NA FREGUESIA DE PIRASSUNUNGA, MUNICÍPIO DA LIMEIRA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "395580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2134",
+      "titulo": "Decreto nº 2.134 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2134",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2134",
+      "ementa": "AUTORIZA O CRÉDITO SUPLEMENTAR DE 2.489.967$580 RÉIS PARA AS DESPESAS DE DIVERSAS RUBRICAS NO EXERCÍCIO DE 1857-1858."
+    },
+    {
+      "senadoId": "395561",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-20-2129",
+      "titulo": "Decreto nº 2.129 de 20/03/1858",
+      "data": "1858-03-20",
+      "numero": "2129",
+      "urn": "urn:lex:br:federal:decreto:1858-03-20;2129",
+      "ementa": "ALTERA O ARTIGO 2º DOS ESTATUTOS DA COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO COSTEIRA, ELEVANDO O SEU CAPITAL."
+    },
+    {
+      "senadoId": "395541",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-13-2124",
+      "titulo": "Decreto nº 2.124 de 13/03/1858",
+      "data": "1858-03-13",
+      "numero": "2124",
+      "urn": "urn:lex:br:federal:decreto:1858-03-13;2124",
+      "ementa": "PRORROGA O PRAZO PARA A FORMAÇÃO DA COMPANHIA DA ESTRADA DE FERRO DE SANTOS A JUNDIAÍ NA PROVÍNCIA DE SÃO PAULO, MARCADO NO DECRETO NÚMERO 1.759 DE 26 DE ABRIL DE 1856, E ALTERA ALGUMAS DAS CONDIÇÕES ANEXAS AO MESMO DECRETO."
+    },
+    {
+      "senadoId": "395553",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-13-2127",
+      "titulo": "Decreto nº 2.127 de 13/03/1858",
+      "data": "1858-03-13",
+      "numero": "2127",
+      "urn": "urn:lex:br:federal:decreto:1858-03-13;2127",
+      "ementa": "PERMITE A CRIAÇÃO DE DELEGADOS DOS CONSULES ESTRANGEIROS SOB A DENOMINAÇÃO DE - AGENTES CONSULARES."
+    },
+    {
+      "senadoId": "395537",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-13-2123",
+      "titulo": "Decreto nº 2.123 de 13/03/1858",
+      "data": "1858-03-13",
+      "numero": "2123",
+      "urn": "urn:lex:br:federal:decreto:1858-03-13;2123",
+      "ementa": "ALTERA A DISPOSIÇÃO CONTIDA NO FINAL DA 1.ª PARTE DO ARTIGO 5.º CAPÍTULO 2.º DOS ESTATUTOS DA COMPANHIA DA ESTRADA DE FERRO DA PROVÍNCIA DA BAHIA, APROVADOS PELO DECRETO NÚMERO 1.614 DE 9 DE JUNHO DE 1855, E EXPLICA A CLÁUSULA 4.ª DO ARTIGO 2.º DA CONVENÇÃO APROVADA PELO DECRETO NÚMERO 1.615, COMBINADA COM O ARTIGO 39 DOS ESTATUTOS APROVADOS PELO DECRETO NÚMERO 1.614."
+    },
+    {
+      "senadoId": "395545",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-13-2125",
+      "titulo": "Decreto nº 2.125 de 13/03/1858",
+      "data": "1858-03-13",
+      "numero": "2125",
+      "urn": "urn:lex:br:federal:decreto:1858-03-13;2125",
+      "ementa": "APROVA O REGULAMENTO PARA A COLÔNIA MILITAR DE SANTA TERESA NA ESTRADA QUE COMUNICA A VILA DE SÃO JOSÉ COM A DE LAGES NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "395529",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-06-2121",
+      "titulo": "Decreto nº 2.121 de 06/03/1858",
+      "data": "1858-03-06",
+      "numero": "2121",
+      "urn": "urn:lex:br:federal:decreto:1858-03-06;2121",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE REZENDE, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "395525",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-06-2120",
+      "titulo": "Decreto nº 2.120 de 06/03/1858",
+      "data": "1858-03-06",
+      "numero": "2120",
+      "urn": "urn:lex:br:federal:decreto:1858-03-06;2120",
+      "ementa": "AUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CIDADE DE BRAGANÇA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "395521",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-06-2119",
+      "titulo": "Decreto nº 2.119 de 06/03/1858",
+      "data": "1858-03-06",
+      "numero": "2119",
+      "urn": "urn:lex:br:federal:decreto:1858-03-06;2119",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "395513",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-06-2117",
+      "titulo": "Decreto nº 2.117 de 06/03/1858",
+      "data": "1858-03-06",
+      "numero": "2117",
+      "urn": "urn:lex:br:federal:decreto:1858-03-06;2117",
+      "ementa": "APROVA O CONTRATO CELEBRADO COM O BARÃO DE MAUÁ PARA A CONSTRUÇÃO DE UM CANAL NO MANGUE DA CIDADE NOVA."
+    },
+    {
+      "senadoId": "395517",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-06-2118",
+      "titulo": "Decreto nº 2.118 de 06/03/1858",
+      "data": "1858-03-06",
+      "numero": "2118",
+      "urn": "urn:lex:br:federal:decreto:1858-03-06;2118",
+      "ementa": "AUTORIZA UM CRÉDITO EXTRAORDINÁRIO DE 250.000$000, PARA OCORRER, NO EXERCÍCIO DE 1857 - 1858, AS DESPESAS FEITAS E POR FAZER COM AS OBRAS DO CANAL, QUE SE ESTÁ ABRINDO PELO MANGUE EXISTENTE AO LADO DO ATERRADO DA CIDADE NOVA, DESDE O ROCIO PEQUENO ATÉ A PONTE DO MESMO ATERRADO."
+    },
+    {
+      "senadoId": "395533",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-06-2122",
+      "titulo": "Decreto nº 2.122 de 06/03/1858",
+      "data": "1858-03-06",
+      "numero": "2122",
+      "urn": "urn:lex:br:federal:decreto:1858-03-06;2122",
+      "ementa": "MANDA POR EM EXECUÇÃO NA PROVÍNCIA DO PARÁ O DECRETO NÚMERO DOIS MIL E VINTE NOVE DE DEZOITO DE NOVEMBRO DO ANO PRÓXIMO PASSADO, QUE DEU ORGANIZAÇÃO Á GUARDA NACIONAL DAS PROVÍNCIAS LIMITROFES COM OS ESTADOS VIZINHOS."
+    },
+    {
+      "senadoId": "395509",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-03-01-2116",
+      "titulo": "Decreto nº 2.116 de 01/03/1858",
+      "data": "1858-03-01",
+      "numero": "2116",
+      "urn": "urn:lex:br:federal:decreto:1858-03-01;2116",
+      "ementa": "APROVA O REGULAMENTO REFORMANDO OS DA ESCOLA DE APLICAÇÃO DO EXÉRCITO E DO CURSO DE INFANTARIA E CAVALARIA DA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL, E OS ESTATUTOS DA ESCOLA MILITAR DA CORTE."
+    },
+    {
+      "senadoId": "395493",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-27-2112",
+      "titulo": "Decreto nº 2.112 de 27/02/1858",
+      "data": "1858-02-27",
+      "numero": "2112",
+      "urn": "urn:lex:br:federal:decreto:1858-02-27;2112",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE SÃO JOSÉ DA PARAÍBA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "395501",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-27-2114",
+      "titulo": "Decreto nº 2.114 de 27/02/1858",
+      "data": "1858-02-27",
+      "numero": "2114",
+      "urn": "urn:lex:br:federal:decreto:1858-02-27;2114",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "395505",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-27-2115",
+      "titulo": "Decreto nº 2.115 de 27/02/1858",
+      "data": "1858-02-27",
+      "numero": "2115",
+      "urn": "urn:lex:br:federal:decreto:1858-02-27;2115",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILLA DE CALDAS NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395497",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-27-2113",
+      "titulo": "Decreto nº 2.113 de 27/02/1858",
+      "data": "1858-02-27",
+      "numero": "2113",
+      "urn": "urn:lex:br:federal:decreto:1858-02-27;2113",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE VILLA BELLA DA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "395489",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-27-2111",
+      "titulo": "Decreto nº 2.111 de 27/02/1858",
+      "data": "1858-02-27",
+      "numero": "2111",
+      "urn": "urn:lex:br:federal:decreto:1858-02-27;2111",
+      "ementa": "FAZ DIVERSAS ALTERAÇÕES NOS ESTATUTOS DO BANCO RURAL E HIPOTECÁRIO."
+    },
+    {
+      "senadoId": "395485",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-20-2110",
+      "titulo": "Decreto nº 2.110 de 20/02/1858",
+      "data": "1858-02-20",
+      "numero": "2110",
+      "urn": "urn:lex:br:federal:decreto:1858-02-20;2110",
+      "ementa": "REGULA OS VENCIMENTOS DOS OFICIAIS DE NAÚTICA DA ARMADA NACIONAL E IMPERIAL."
+    },
+    {
+      "senadoId": "395481",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-20-2109",
+      "titulo": "Decreto nº 2.109 de 20/02/1858",
+      "data": "1858-02-20",
+      "numero": "2109",
+      "urn": "urn:lex:br:federal:decreto:1858-02-20;2109",
+      "ementa": "DÁ NOVA FORMA AO CORPO DE OFICIAIS MARINHEIROS DA ARMADA NACIONAL E IMPERIAL."
+    },
+    {
+      "senadoId": "395473",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-20-2107",
+      "titulo": "Decreto nº 2.107 de 20/02/1858",
+      "data": "1858-02-20",
+      "numero": "2107",
+      "urn": "urn:lex:br:federal:decreto:1858-02-20;2107",
+      "ementa": "ALTERA A CONDIÇÃO 1.ª DO CONTRATO CELEBRADO COM A COMPANHIA DE NAVEGAÇÃO E COMÉRCIO DO AMAZONAS."
+    },
+    {
+      "senadoId": "395477",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-20-2108",
+      "titulo": "Decreto nº 2.108 de 20/02/1858",
+      "data": "1858-02-20",
+      "numero": "2108",
+      "urn": "urn:lex:br:federal:decreto:1858-02-20;2108",
+      "ementa": "REGULA A MANEIRA, PELA QUAL SE DEVEM FAZER AS COMPRAS DO MATERIAL, PARA SUPRIMENTO DOS ALMOXARIFADOS DA MARINHA, OS FORNECIMENTOS A SEU CARGO."
+    },
+    {
+      "senadoId": "395465",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-13-2105",
+      "titulo": "Decreto nº 2.105 de 13/02/1858",
+      "data": "1858-02-13",
+      "numero": "2105",
+      "urn": "urn:lex:br:federal:decreto:1858-02-13;2105",
+      "ementa": "DECLARA DA ALÇADA DOS JUÍZES COMISSÁRIOS DO ARTIGO30 DO REGULAMENTO DE TRINTA DE JANEIRO DE 1854 AS QUESTÕES DOS LIMITES DE TODAS AS POSSES E SESMARIAS, QUE CONFINAREM COM TERRAS DE VOLUTAS."
+    },
+    {
+      "senadoId": "395469",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-13-2106",
+      "titulo": "Decreto nº 2.106 de 13/02/1858",
+      "data": "1858-02-13",
+      "numero": "2106",
+      "urn": "urn:lex:br:federal:decreto:1858-02-13;2106",
+      "ementa": "DESLIGA DO BATALHÃO  DE INFANTARIA NÚMERO 34 DA GUARDA NACIONAL DA PROVÍNCIA DE S. PAULO A FORÇA QUALIFICADA NO MUNICÍPIO DE BOTACATÚ DA MESMA PROVÍNCIA, E CRIA COM ELA UM BATALHÃO DE INFANTARIA DE QUATRO COMPANHIAS."
+    },
+    {
+      "senadoId": "395461",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-11-2104",
+      "titulo": "Decreto nº 2.104 de 11/02/1858",
+      "data": "1858-02-11",
+      "numero": "2104",
+      "urn": "urn:lex:br:federal:decreto:1858-02-11;2104",
+      "ementa": "AUTORIZA A COMPANHIA DA ESTRADA DE FERRO DE D. PEDRO II PARA REALIZAR A TERÇA PARTE DO SEU CAPITAL POR MEIO DE EMPRÉSTIMO."
+    },
+    {
+      "senadoId": "395453",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2102",
+      "titulo": "Decreto nº 2.102 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2102",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2102",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO D'ESTADO DOS NEGÓCIOS ESTRANGEIROS A DESPENDER NO EXERCÍCIO DE 1857 - 58, POR UM CRÉDITO EXTRAORDINÁRIO, A QUANTIA DE 584.640$000."
+    },
+    {
+      "senadoId": "395445",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2100",
+      "titulo": "Decreto nº 2.100 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2100",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2100",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS AOS ESTATUTOS DA COMPANHIA DE SEGURO MÚTUO CONTRA O FOGO."
+    },
+    {
+      "senadoId": "395441",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2099",
+      "titulo": "Decreto nº 2.099 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2099",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2099",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "395437",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2098",
+      "titulo": "Decreto nº 2.098 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2098",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2098",
+      "ementa": "DECLARA DE 1ª ENTRÂNCIA A COMARCA DE CHIQUE-CHIQUE, CRIADA NA PROVÍNCIA DA BAHIA; E QUE A COMARCA DE SANTO SÉ NA MESMA PROVÍNCIA PASSA A DENOMINAR-SE COMARCA DO JOASEIRO."
+    },
+    {
+      "senadoId": "395433",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2097",
+      "titulo": "Decreto nº 2.097 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2097",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2097",
+      "ementa": "SEPARA O TERMO DE XIRIRICA DOS DE ITAPETENINGA, TATUHY E BATACATÚ NA PROVÍNCIA DE S. PAULO E CRIA NELE O LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395429",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2096",
+      "titulo": "Decreto nº 2.096 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2096",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2096",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA CAPITAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "395425",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2095",
+      "titulo": "Decreto nº 2.095 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2095",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2095",
+      "ementa": "ARGUMENTA O VENCIMENTO DO CARCEREIRO DA CADEIA DA VILA DA BARRA DO RIO DE SÃO FRANCISCO DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "395457",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2103",
+      "titulo": "Decreto nº 2.103 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2103",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2103",
+      "ementa": "APROVA OS NOVOS ESTATUTS ORGANIZADOS PARA A COMPANHIA RECUPERADORA, DEBAIXO DO NOME DE - FIDELIDADE-."
+    },
+    {
+      "senadoId": "395449",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-02-06-2101",
+      "titulo": "Decreto nº 2.101 de 06/02/1858",
+      "data": "1858-02-06",
+      "numero": "2101",
+      "urn": "urn:lex:br:federal:decreto:1858-02-06;2101",
+      "ementa": "APROVA AS ALTERAÇÕES E ADIÇÕES PROPOSTAS AOS ESTATUTOS DA COMPANHIA DE SEGUROS DE VIDA - TRANQUILIDADE -."
+    },
+    {
+      "senadoId": "395417",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-30-2093",
+      "titulo": "Decreto nº 2.093 de 30/01/1858",
+      "data": "1858-01-30",
+      "numero": "2093",
+      "urn": "urn:lex:br:federal:decreto:1858-01-30;2093",
+      "ementa": "AUTORIZA A COMPANHIA - UNIÃO CAMPISTA E FIDELISTA - A ARGUMENTAR O SEU FUNDO SOCIAL."
+    },
+    {
+      "senadoId": "395421",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-30-2094",
+      "titulo": "Decreto nº 2.094 de 30/01/1858",
+      "data": "1858-01-30",
+      "numero": "2094",
+      "urn": "urn:lex:br:federal:decreto:1858-01-30;2094",
+      "ementa": "REUNE NA PROVÍNCIA DE SÃO PAULO AO TERMO DA VILA DE SÃO ROQUE, OS DAS VILAS DE UNA E PIEDADE, E CRIA NELES UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRGÃOS."
+    },
+    {
+      "senadoId": "395413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-30-2092",
+      "titulo": "Decreto nº 2.092 de 30/01/1858",
+      "data": "1858-01-30",
+      "numero": "2092",
+      "urn": "urn:lex:br:federal:decreto:1858-01-30;2092",
+      "ementa": "CRIA A REPARTIÇÃO ESPECIAL DAS TERRAS PUBLICAS NAS PROVINCIAS DE PIAUI, CEARA, RIO GRANDE DO NORTE, PARAIBA, SERGIPE, GOIAS E MATO GROSSO."
+    },
+    {
+      "senadoId": "395409",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-30-2091",
+      "titulo": "Decreto nº 2.091 de 30/01/1858",
+      "data": "1858-01-30",
+      "numero": "2091",
+      "urn": "urn:lex:br:federal:decreto:1858-01-30;2091",
+      "ementa": "ALTERA ALGUNS DOS ARTIGOS DOS ESTATUTOS DA COMPANHIA BRASILEIRA DE PAQUETES POR VAPOR."
+    },
+    {
+      "senadoId": "395405",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-30-2090",
+      "titulo": "Decreto nº 2.090 de 30/01/1858",
+      "data": "1858-01-30",
+      "numero": "2090",
+      "urn": "urn:lex:br:federal:decreto:1858-01-30;2090",
+      "ementa": "APROVA A TABELA PROVISÓRIA DOS PREÇOS DE TRANSPORTES DE MERCADORIAS, E PASSAGEIROS, NA PRIMEIRA SEÇÃO DA ESTRADA DE FERRO DE D. PEDRO 2º."
+    },
+    {
+      "senadoId": "395401",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2089",
+      "titulo": "Decreto nº 2.089 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2089",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2089",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DE PIAUÍ."
+    },
+    {
+      "senadoId": "395389",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2086",
+      "titulo": "Decreto nº 2.086 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2086",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2086",
+      "ementa": "CRIA UM COMANDO SUPERIOR DA GUARDA NACIONAL NOS MUNICÍPIOS DE PIRACURUCA E PEDRO SEGUNDO DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "395385",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2085",
+      "titulo": "Decreto nº 2.085 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2085",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2085",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "395393",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2087",
+      "titulo": "Decreto nº 2.087 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2087",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2087",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE SANTO ANTÔNIO DA PATRULHA, CRIADA NA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "395377",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2083",
+      "titulo": "Decreto nº 2.083 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2083",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2083",
+      "ementa": "CRIA A REPARTIÇÃO ESPECIAL DAS TERRAS PUBLICAS NA PROVINCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395397",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2088",
+      "titulo": "Decreto nº 2.088 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2088",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2088",
+      "ementa": "CRIA NO TERMO DA VILA DO RIO PRETO DA PROVÍNCIA DE MINAS GERAIS, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DOS ÓRGÃOS."
+    },
+    {
+      "senadoId": "395381",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-27-2084",
+      "titulo": "Decreto nº 2.084 de 27/01/1858",
+      "data": "1858-01-27",
+      "numero": "2084",
+      "urn": "urn:lex:br:federal:decreto:1858-01-27;2084",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "395358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-16-2078",
+      "titulo": "Decreto nº 2.078 de 16/01/1858",
+      "data": "1858-01-16",
+      "numero": "2078",
+      "urn": "urn:lex:br:federal:decreto:1858-01-16;2078",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA - MÚTUA DE SEGUROS DE VIDA DE ESCRAVOS - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395369",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-16-2081",
+      "titulo": "Decreto nº 2.081 de 16/01/1858",
+      "data": "1858-01-16",
+      "numero": "2081",
+      "urn": "urn:lex:br:federal:decreto:1858-01-16;2081",
+      "ementa": "REGULA A ORGANIZAÇÃO E DISCIPLINA DO CORPO POLICIAL DA CORTE."
+    },
+    {
+      "senadoId": "395365",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-16-2080",
+      "titulo": "Decreto nº 2.080 de 16/01/1858",
+      "data": "1858-01-16",
+      "numero": "2080",
+      "urn": "urn:lex:br:federal:decreto:1858-01-16;2080",
+      "ementa": "APROVA AS MODIFICAÇÕES FEITAS NOS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS - NOVA PERMANENTE."
+    },
+    {
+      "senadoId": "395373",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-16-2082",
+      "titulo": "Decreto nº 2.082 de 16/01/1858",
+      "data": "1858-01-16",
+      "numero": "2082",
+      "urn": "urn:lex:br:federal:decreto:1858-01-16;2082",
+      "ementa": "REGULA O NÚMERO DE VENCIMENTOS DOS EMPREGADOS DAS ALFÂNDEGAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "395361",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-16-2079",
+      "titulo": "Decreto nº 2.079 de 16/01/1858",
+      "data": "1858-01-16",
+      "numero": "2079",
+      "urn": "urn:lex:br:federal:decreto:1858-01-16;2079",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE SEGUROS O FOGO DENOMINADA - ARGOS FLUMINENSE -."
+    },
+    {
+      "senadoId": "395354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-16-2077",
+      "titulo": "Decreto nº 2.077 de 16/01/1858",
+      "data": "1858-01-16",
+      "numero": "2077",
+      "urn": "urn:lex:br:federal:decreto:1858-01-16;2077",
+      "ementa": "AUTORIZA A ORGANIZAÇÃO DA COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES DENOMINADA - FELIZ LEMBRANÇA -, E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "395346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-13-2075",
+      "titulo": "Decreto nº 2.075 de 13/01/1858",
+      "data": "1858-01-13",
+      "numero": "2075",
+      "urn": "urn:lex:br:federal:decreto:1858-01-13;2075",
+      "ementa": "ELEVA O ORDENADO DO CARCEREIRO DA CADEIA DA VILLA DO MAR DE ESPANHA DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "395342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-13-2074",
+      "titulo": "Decreto nº 2.074 de 13/01/1858",
+      "data": "1858-01-13",
+      "numero": "2074",
+      "urn": "urn:lex:br:federal:decreto:1858-01-13;2074",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DE SANTO ANTONIO DA PATRULHA, CRIADA NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "395338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-13-2073",
+      "titulo": "Decreto nº 2.073 de 13/01/1858",
+      "data": "1858-01-13",
+      "numero": "2073",
+      "urn": "urn:lex:br:federal:decreto:1858-01-13;2073",
+      "ementa": "MANDA POR EM EXECUÇÃO NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL O DECRETO NÚMERO DOIS MIL E VINTE NOVE DE DEZOITO DE NOVEMBRO DE MIL OITOCENTOS E CINQÜENTA E SETE, COM A EXCEPÇÃO ABAIXO DECLARADA."
+    },
+    {
+      "senadoId": "395350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-13-2076",
+      "titulo": "Decreto nº 2.076 de 13/01/1858",
+      "data": "1858-01-13",
+      "numero": "2076",
+      "urn": "urn:lex:br:federal:decreto:1858-01-13;2076",
+      "ementa": "ELEVA OS VENCIMENTOS DOS EMPREGADOS DA SECRETARIA DA POLÍCIA DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "395334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1858-01-09-2072",
+      "titulo": "Decreto nº 2.072 de 09/01/1858",
+      "data": "1858-01-09",
+      "numero": "2072",
+      "urn": "urn:lex:br:federal:decreto:1858-01-09;2072",
+      "ementa": "ISENTA DE DIREITOS DE IMPORTAÇÃO O CARVÃO DE PEDRA QUE A REAL COMPANHIA DE SOUTHAMPTON FIZER IMPORTAR PARA O CONSUMO DE SEUS VAPORES."
+    }
+  ],
+  "pendencias": []
+}

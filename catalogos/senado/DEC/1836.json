@@ -1,0 +1,317 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1836",
+  "tipo": "DEC",
+  "ano": 1836,
+  "coletado_em": "2026-10-21T08:53:01.653Z",
+  "normas": [],
+  "pendencias": [
+    {
+      "id": "587899",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 01/12/1836",
+      "dataassinatura": "01/12/1836",
+      "ementa": "FAZENDO ALTERAÇÕES E ADITAMENTOS ÀS CONDIÇÕES COM QUE FOI CONCEDIDO A COMPANHIA NITEROI O PRIVILEGIO EXCLUSIVO DA NAVEGAÇÃO POR VAPOR NAS BAHIAS E RIOS DA CAPITAL DO IMPERIO E PROVINCIA DO RIO JANEIRO."
+    },
+    {
+      "id": "587898",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 22/06/1836",
+      "dataassinatura": "22/06/1836",
+      "ementa": "MANDANDO OBSERVAR NAS ALFÂNDEGAS DO IMPÉRIO O REGULAMENTO ANEXO."
+    },
+    {
+      "id": "587897",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 30/05/1836",
+      "dataassinatura": "30/05/1836",
+      "ementa": "MANDANDO QUE NA ORGANIZAÇÃO DAS MESAS DE DIVERSAS RENDAS DA CORTE, BAHIA E PERNAMBUCO, SE OBSERVA A TABELA E REGULAMENTO ANEXO."
+    },
+    {
+      "id": "572206",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  B de 30/05/1836",
+      "dataassinatura": "30/05/1836",
+      "ementa": "ESTABELECENDO O DE PRAÇAS QUE AS PROVINCIAS DO RIO DE JANEIRO, SÃO PAULO, ESPIRITO SANTO E MUNICIPIO DA CORTE DEVEM DAR PARA O CORPO DE ARTILHARIA DA MARINHA."
+    },
+    {
+      "id": "587896",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 02/05/1836",
+      "dataassinatura": "02/05/1836",
+      "ementa": "PRORROGANDO POR UM ANO O PRAZO CONCEDIDO A COMPANHIA NITEROI PARA O ESTABELECIMENTO REGULAR E PERIODICO DA NAVEGAÇÃO POR VAPOR NAS COSTAS E BAHIA DA CORTE E DA PROVINCIA DO RIO DE JANEIRO, E MARCA O NUMERO DE VIAGENS QUE OS VAPORES DEVERÃO DAR EM CADA UMA DAS TRES SEÇÕES DA NAVEGAÇÃO."
+    },
+    {
+      "id": "587895",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 28/03/1836",
+      "dataassinatura": "28/03/1836",
+      "ementa": "DANDO AOS PRESIDENTES DAS PROVINCIAS DO RIO GRANDE DO SUL, DE SANTA CATARINA E SÃO PAULO, AUTORIZAÇÕES RELATIVAS A GUARDA NACIONAL DESTACADA, NA FORMA DA LEI DE 18 DE AGOSTO DE 1831, ARTIGOS 130, 131 E 132."
+    },
+    {
+      "id": "587894",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 15/03/1836",
+      "dataassinatura": "15/03/1836",
+      "ementa": "DECLARANDO E AMPLIANDO O DECRETO DE 12 DE FEVEREIRO DESTE ANO, SOBRE A SUBSTITUIÇÃO DO JUIZ DOS ORFÃOS NO SEU IMPEDIMENTO."
+    },
+    {
+      "id": "587893",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  A de 03/03/1836",
+      "dataassinatura": "03/03/1836",
+      "ementa": "MANDANDO CESSAR O EXPEDIENTE DA ALFANDEGA DE PORTO ALEGRE, ENQUANTO NAQUELA CIDADE NÃO ESTIVER RESTABELECIDA A ORDEM LEGAL."
+    },
+    {
+      "id": "572205",
+      "tipo": "DEC-cl",
+      "normaNome": "Decreto  B de 03/03/1836",
+      "dataassinatura": "03/03/1836",
+      "ementa": "REVOGANDO O PRIVILEGIO CONCEDIDO PARA O ESTABELECIMENTO DE VIVEIROS DE SANGUESSUGAS."
+    },
+    {
+      "id": "570612",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 01/12/1836",
+      "dataassinatura": "01/12/1836",
+      "ementa": "DANDO REGULAMENTO PARA A ADMINISTRAÇÃO DAS OBRAS PUBLICAS DO MUNICIPIO DA CORTE."
+    },
+    {
+      "id": "570611",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/11/1836",
+      "dataassinatura": "29/11/1836",
+      "ementa": "DERROGANDO E MANDANDO FICAR SEM EFEITO ALGUM O DECRETO DE 31 DE AGOSTO DESTE ANO, SOBRE O PAGAMENTO DOS DOIS POR CENTO DO VALOR DE QUALQUER COISA DEMANDADA EM JUIZO."
+    },
+    {
+      "id": "570610",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/10/1836",
+      "dataassinatura": "22/10/1836",
+      "ementa": "CRIANDO, EM VIRTUDE DA RESOLUÇÃO DA ASSEMBLEIA GERAL LEGISLATIVA DE 6 DO CORRENTE, QUATRO COMPANHIAS FIXAS DE MARINHEIROS."
+    },
+    {
+      "id": "570609",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/10/1836",
+      "dataassinatura": "21/10/1836",
+      "ementa": "AUTORIZANDO AO PRESIDENTE DA PROVINCIA DE SÃO PEDRO DO SUL, PARA POR EM EXECUÇÃO OS PARAGRAFOS DE 1 A 3 DO ARTIGO 1 DA LEI DE 11 DESTE MES."
+    },
+    {
+      "id": "570608",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/10/1836",
+      "dataassinatura": "17/10/1836",
+      "ementa": "MANDANDO ORGANIZAR NA PROVINCIA DE GOIAS UMA COMPANHIA DE LIGEIROS COM A FORÇA DE 100 PRAÇAS."
+    },
+    {
+      "id": "571811",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/09/1836",
+      "dataassinatura": "30/09/1836",
+      "ementa": "PRORROGANDO NOVAMENTE A PRESENTE SESSÃO DA ASSEMBLEIA GERAL LEGISLATIVA ATE O ULTIMO DO PROXIMO MES DE OUTUBRO."
+    },
+    {
+      "id": "571810",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 26/09/1836",
+      "dataassinatura": "26/09/1836",
+      "ementa": "ELEVA AS GRATIFICAÇÕES MARCADAS AO DIRETOR E INTÉRPRETES DA INSPEÇÃO DE SAUDE DO PORTO DO RIO DE JANEIRO."
+    },
+    {
+      "id": "571809",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/09/1836",
+      "dataassinatura": "15/09/1836",
+      "ementa": "AUTORIZANDO A INCORPORAÇÃO DA COMPANHIA DE MINERAÇÃO DA PROVINCIA DE MINAS GERAIS, PARA A EXTRAÇÃO DE METAIS E PEDRAS PRECIOSAS, DEBAIXO DAS CONDIÇÕES QUE ESTABELECE."
+    },
+    {
+      "id": "571808",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 31/08/1836",
+      "dataassinatura": "31/08/1836",
+      "ementa": "REGULANDO A EXECUÇÃO DO ARTIGO 9 PARAGRAFO 2 DA LEI DE 31 DE OUTUBRO DE 1835, SOBRE O PAGAMENTO DE 2 POR CENTO DO VALOR DE QUALQUER COISA DEMANDADA EM JUIZO, E OUTRAS DISPOSIÇÕES."
+    },
+    {
+      "id": "571807",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 29/08/1836",
+      "dataassinatura": "29/08/1836",
+      "ementa": "PRORROGANDO ATE A 2 DE OUTUBRO A PRESENTE SESSÃO DA ASSEMBLEIA GERAL LEGISLATIVA."
+    },
+    {
+      "id": "571806",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 09/08/1836",
+      "dataassinatura": "09/08/1836",
+      "ementa": "CONCEDENDO A COMPANHIA DO RIO DOCE PRIVILEGIO EXCLUSIVO PARA A NAVEGAÇÃO POR MEIO DE BARCOS DE VAPOR OU DE OUTROS SUPERIORES QUE SE DESCOBRIREM NO DITO RIO E SEUS CONFLUENTES, E ENTRE AS CAPITAIS DO IMPERIO E DA BAHIA, MEDIANTE AS VANTAGENS, ISENÇÕES E ENCARGOS ESTABELECIDOS NA RESOLUÇÃO DA ASSEMBLEIA GERAL LEGISLATIVA DE 17 DE SETEMBRO DE 1835, COM ALGUMAS DECLARAÇÕES."
+    },
+    {
+      "id": "571805",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 05/07/1836",
+      "dataassinatura": "05/07/1836",
+      "ementa": "MARCANDO AS ATRIBUIÇÕES QUE COMPETEM AOS COMANDANTES SUPERIORES DA GUARDA NACIONAL."
+    },
+    {
+      "id": "571804",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/06/1836",
+      "dataassinatura": "22/06/1836",
+      "ementa": "MANDANDO OBSERVAR DE AGORA EM DIANTE, O PLANO ANEXO DO MONTEPIO GERAL DOS SERVIDORES DO ESTADO, FICANDO SEM EFEITO O QUE BAIXOU O DECRETO DE 10 DE JANEIRO DE 1835."
+    },
+    {
+      "id": "571803",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/06/1836",
+      "dataassinatura": "15/06/1836",
+      "ementa": "MANDANDO PUBLICAR E CORRER O INSTRUMENTO DE RECONHECIMENTO DA PRINCESA IMPERIAL  A SENHORA DONA JANUARIA, COMO SUCESSORA AO TRONO E COROA DO IMPERIO DO BRASIL."
+    },
+    {
+      "id": "571802",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/06/1836",
+      "dataassinatura": "03/06/1836",
+      "ementa": "MANDANDO PROCEDER AS ELEIÇÕES DOS DEPUTADOS PARA A ASSEMBLEIA GERAL LEGISLATIVA."
+    },
+    {
+      "id": "571801",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/05/1836",
+      "dataassinatura": "30/05/1836",
+      "ementa": "MANDANDO COMPREENDER NAS DISPOSIÇÕES DO ADITAMENTO DE 23 DE AGOSTO DE 1832, AO REGULAMENTO DE 25 DE ABRIL DO MESMO ANO, OS EMPREGADOS DAS ALFANDEGAS, E MESAS DE DIVERSAS RENDAS, QUE TENHAM TITULOS DE PROPRIEDADE."
+    },
+    {
+      "id": "571800",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/05/1836",
+      "dataassinatura": "28/05/1836",
+      "ementa": "MANDANDO QUE NAS ALFANDEGAS DO IMPERIO SE OBSERVE A TABELA ANEXA PARA ORGANIZAÇÃO DAS MESMAS."
+    },
+    {
+      "id": "571799",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 21/05/1836",
+      "dataassinatura": "21/05/1836",
+      "ementa": "MANDANDO DISSOLVER ALGUNS CORPOS QUE TOMARÃO PARTE NA SEDIÇÃO DO RIO GRANDE."
+    },
+    {
+      "id": "571798",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 02/05/1836",
+      "dataassinatura": "02/05/1836",
+      "ementa": "REGULANDO A DISPOSIÇÃO DO ALVARA DE 2 DE DEZEMBRO DE 1820, NA EXPEDIÇÃO DE PASSAPORTES PARA VIAJAR DENTRO E FORA DO IMPERIO."
+    },
+    {
+      "id": "571797",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 24/04/1836",
+      "dataassinatura": "24/04/1836",
+      "ementa": "DESTACANDO POR UM ANO PARA A PROVINCIA DO RIO GRANDE DO SUL 500 PRAÇAS DE INFANTARIA DA GUARDA NACIONAL DO MUNICIPIO DA CORTE."
+    },
+    {
+      "id": "571796",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/04/1836",
+      "dataassinatura": "23/04/1836",
+      "ementa": "FAZENDO ALGUMAS ALTERAÇÕES NO REGULAMENTO DA INSPEÇÃO DE SAUDE NO PORTO DESTA CIDADE."
+    },
+    {
+      "id": "571795",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/04/1836",
+      "dataassinatura": "22/04/1836",
+      "ementa": "APROVANDO O CONTRATO CELEBRADO NA MESMA DATA COM JOÃO TARRAND THOMAZ PARA O ESTABELECIMENTO DE PAQUETES DE VAPOR, ENTRE ESTA CORTE E OS PRINCIPAIS PORTOS DO IMPERIO AO NORTE."
+    },
+    {
+      "id": "571794",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 18/04/1836",
+      "dataassinatura": "18/04/1836",
+      "ementa": "DECLARANDO O ARTIGO 18 DA LEI DE 31 DE OUTUBRO DE 1835, QUE ISENTA AS  EMBARCAÇÕES QUE CONDUZIREM COLONOS PARA O BRASIL DO IMPOSTO DE ANCORAGEM."
+    },
+    {
+      "id": "571793",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 06/04/1836",
+      "dataassinatura": "06/04/1836",
+      "ementa": "SOBRE JURISDIÇÃO DE JUÍZES DE PAZ E A ILEGAL INGERENCIA EM DISTRITO ALHEIO, E SUSPENDENDO O DO 2 DISTRITO DA FREGUESIA DE SANTA RITA."
+    },
+    {
+      "id": "571792",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 30/03/1836",
+      "dataassinatura": "30/03/1836",
+      "ementa": "AUTORIZANDO OS PRESIDENTES DAS RELAÇÕES A MUDAREM PARA AS 10 HORAS DA MANHÃ ATE AS 2 DA TARDE O DESPACHO NOS MESES DE MAIO A OUTUBRO, ALTERANDO-SE NESTA PARTE SOMENTE O ARTIGO 5 DO REGULAMENTO DE 3 DE JANEIRO DE 1833."
+    },
+    {
+      "id": "571791",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 28/03/1836",
+      "dataassinatura": "28/03/1836",
+      "ementa": "DECLARANDO O ARTIGO 50 DO REGULAMENTO DAS RELAÇÕES DO IMPERIO, DE 8 DE JANEIRO DE 1833, NA PARTE RELATIVA AOS TRASLADOS DE AUTOS."
+    },
+    {
+      "id": "571790",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 15/03/1836",
+      "dataassinatura": "15/03/1836",
+      "ementa": "MANDANDO OBSERVAR COMO REGULAMENTO DAS ESCOLAS DE PRIMEIRAS LETRAS DA CORTE E MUNICÍPIO, AS PROVIDENCIAS E DETERMINAÇÕES ANEXAS A ESTE DECRETO."
+    },
+    {
+      "id": "571789",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 10/03/1836",
+      "dataassinatura": "10/03/1836",
+      "ementa": "MANDANDO POR A DISPOSIÇÃO DO CONSUL GERAL DOS PAISES BAIXOS A QUANTIA DE L. 7,437, 5 S., 11 D.; COM O FIM DE TERMINAR UMA RECLAMAÇÃO SOBRE O CARREGAMENTO POSTO A BORDO DA ESCUNA INGLESA DICKINS, JULGADA MA PRESA."
+    },
+    {
+      "id": "571788",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 03/03/1836",
+      "dataassinatura": "03/03/1836",
+      "ementa": "MANDANDO TRANSFERIR A TESOURARIA DA PROVINCIA DO RIO GRANDE DO SUL PARA O LUGAR QUE O LEGITIMO PRESIDENTE DETERMINAR."
+    },
+    {
+      "id": "571787",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 23/02/1836",
+      "dataassinatura": "23/02/1836",
+      "ementa": "CONCEDENDO O PRIVILEGIO EXCLUSIVO POR CINCO ANOS PARA A NAVEGAÇÃO POR VAPOR NAS BAHIAS E RIOS DO PARA E AMAZONAS."
+    },
+    {
+      "id": "571786",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 22/02/1836",
+      "dataassinatura": "22/02/1836",
+      "ementa": "REVOGANDO O PRIVILEGIO CONCEDIDO PARA A IMPORTAÇÃO DE GELO NO IMPERIO."
+    },
+    {
+      "id": "571785",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 17/02/1836",
+      "dataassinatura": "17/02/1836",
+      "ementa": "COM A RELAÇÃO DAS PESSOAS NOMEADAS PARA EXERCEREM O CARGO DE VICE-PRESIDENTE DA PROVINCIA DO MARANHÃO."
+    },
+    {
+      "id": "571784",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 12/02/1836",
+      "dataassinatura": "12/02/1836",
+      "ementa": "DECLARANDO, QUE NO IMPEDIMENTO DO JUIZ DOS ORFÃOS SEJA ESTE SUBSTITUIDO PELOS JUIZES DE DIREITO, E NO DESTES PELO JUIZ MUNICIPAL."
+    },
+    {
+      "id": "571783",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 04/02/1836",
+      "dataassinatura": "04/02/1836",
+      "ementa": "MANDANDO ADIR AO CORPO DE MUNICIPAIS PERMANENTES DUZENTOS HOMENS COM A DENOMINAÇÃO DE - URBANOS - , PARA FAZEREM O SERVIÇO DE POLICIA DA CIDADE."
+    },
+    {
+      "id": "571782",
+      "tipo": "DEC-sn",
+      "normaNome": "Decreto  de 08/01/1836",
+      "dataassinatura": "08/01/1836",
+      "ementa": "CONCEDENDO A COMPANHIA DO RIO DOCE O PRIVILEGIO EXCLUSIVO DA NAVEGAÇÃO NO MESMO RIO, POR BARCOS DE VAPOR, POR QUARENTA ANOS."
+    }
+  ]
+}

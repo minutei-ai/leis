@@ -1,0 +1,369 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2011",
+  "tipo": "MPV",
+  "ano": 2011,
+  "coletado_em": "2026-10-21T08:53:27.711Z",
+  "normas": [
+    {
+      "senadoId": "553748",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-12-26-557",
+      "titulo": "Medida Provisória nº 557 de 26/12/2011",
+      "data": "2011-12-26",
+      "numero": "557",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-26;557",
+      "ementa": "Institui o Sistema Nacional de Cadastro, Vigilância e Acompanhamento da Gestante e Puérpera para Prevenção da Mortalidade Materna, autoriza a União a conceder benefício financeiro, altera a Lei nº 8.080, de 19 de setembro de 1990, e a Lei nº 9.782, de 26 de janeiro de 1999."
+    },
+    {
+      "senadoId": "553744",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-12-23-555",
+      "titulo": "Medida Provisória nº 555 de 23/12/2011",
+      "data": "2011-12-23",
+      "numero": "555",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-23;555",
+      "ementa": "Altera a Lei nº 12.337, de 12 de novembro de 2010, para autorizar a prorrogação de contratos por tempo determinado firmados com fundamento na alínea \"h\" do inciso VI do caput art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, autoriza a prorrogação do prazo de vigência do contrato de gestão firmado entre a União e a Associação de Comunicação Educativa Roquette Pinto - ACERP, e dá outras providências."
+    },
+    {
+      "senadoId": "553742",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-12-23-554",
+      "titulo": "Medida Provisória nº 554 de 23/12/2011",
+      "data": "2011-12-23",
+      "numero": "554",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-23;554",
+      "ementa": "Altera a Lei nº 11.110, de 25 de abril de 2005, para autorizar a União a conceder subvenção econômica, sob a forma de equalização de parte dos custos a que estão sujeitas as instituições financeiras para contratação e acompanhamento de operações de microcrédito produtivo orientado e autoriza a concessão de subvenção econômica, sob a modalidade de equalização de taxa de juros, nas operações de financiamento para a estocagem de álcool combustível, e altera a Lei nº 10.453, de 13 de maio de 2002."
+    },
+    {
+      "senadoId": "553746",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-12-23-556",
+      "titulo": "Medida Provisória nº 556 de 23/12/2011",
+      "data": "2011-12-23",
+      "numero": "556",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-23;556",
+      "ementa": "Altera a Lei nº 10.887, de 18 de junho de 2004, relativa à contribuição do Plano de Seguridade do Servidor Público, prorroga a vigência do Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária, de que trata a Lei nº 11.033, de 21 de dezembro de 2004, e dá outras providências."
+    },
+    {
+      "senadoId": "553740",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-12-21-553",
+      "titulo": "Medida Provisória nº 553 de 21/12/2011",
+      "data": "2011-12-21",
+      "numero": "553",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-21;553",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Defesa e da Integração Nacional, no valor global de R$ 533.581.700,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553738",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-12-01-552",
+      "titulo": "Medida Provisória nº 552 de 01/12/2011",
+      "data": "2011-12-01",
+      "numero": "552",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-01;552",
+      "ementa": "Altera o art. 4º da Lei nº 10.931, de 2 de agosto de 2004, e os arts. 1º e 8º da Lei nº 10.925, de 23 de julho de 2004."
+    },
+    {
+      "senadoId": "553736",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-11-22-551",
+      "titulo": "Medida Provisória nº 551 de 22/11/2011",
+      "data": "2011-11-22",
+      "numero": "551",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-11-22;551",
+      "ementa": "Altera dispositivos das Leis nº 7.920, de 12 de dezembro de 1989, nº 9.825, de 23 de agosto de 1999, nº 8.399, de 7 de janeiro de 1992, nº 6.009, de 26 de dezembro de 1973, nº 5.862, de 12 de dezembro de 1972, nº 12.462, de 5 de agosto de 2011; e dá outras providências."
+    },
+    {
+      "senadoId": "553732",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-11-17-549",
+      "titulo": "Medida Provisória nº 549 de 17/11/2011",
+      "data": "2011-11-17",
+      "numero": "549",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-11-17;549",
+      "ementa": "Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/PASEPImportação e da COFINS - Importação incidentes sobre a importação e a receita de venda no mercado interno dos produtos que menciona."
+    },
+    {
+      "senadoId": "553734",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-11-17-550",
+      "titulo": "Medida Provisória nº 550 de 17/11/2011",
+      "data": "2011-11-17",
+      "numero": "550",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-11-17;550",
+      "ementa": "Altera a Lei nº 10.735, de 11 de setembro de 2003, que dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, e dá outras providências."
+    },
+    {
+      "senadoId": "553730",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-10-28-548",
+      "titulo": "Medida Provisória nº 548 de 28/10/2011",
+      "data": "2011-10-28",
+      "numero": "548",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-10-28;548",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 460.530.000,00, para o fim que especifica."
+    },
+    {
+      "senadoId": "553728",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-10-11-547",
+      "titulo": "Medida Provisória nº 547 de 11/10/2011",
+      "data": "2011-10-11",
+      "numero": "547",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-10-11;547",
+      "ementa": "Altera a Lei nº 6.766, de 19 de dezembro de 1979; a Lei nº 10.257, de 10 de julho de 2001, e a Lei nº 12.340, de 1º de dezembro de 2010."
+    },
+    {
+      "senadoId": "553726",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-09-29-546",
+      "titulo": "Medida Provisória nº 546 de 29/09/2011",
+      "data": "2011-09-29",
+      "numero": "546",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-09-29;546",
+      "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2011, com o objetivo de fomentar as exportações do País, altera a Lei nº 12.409, de 25 de maio de 2011, e dá outras providências."
+    },
+    {
+      "senadoId": "553724",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-09-29-545",
+      "titulo": "Medida Provisória nº 545 de 29/09/2011",
+      "data": "2011-09-29",
+      "numero": "545",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-09-29;545",
+      "ementa": "Altera a Lei nº 10.893, de 13 de julho de 2004, que dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM; altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e as Leis nº 11.434, de 28 de dezembro de 2006, nº 11.196, de 21 de novembro de 2005, nº 10.865, de 30 de abril de 2004, e nº 8.685, de 20 de julho de 1993; altera a incidência da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS na cadeia produtiva do café, institui o Programa Cinema Perto de Você, e dá outras providências."
+    },
+    {
+      "senadoId": "553722",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-09-29-544",
+      "titulo": "Medida Provisória nº 544 de 29/09/2011",
+      "data": "2011-09-29",
+      "numero": "544",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-09-29;544",
+      "ementa": "Estabelece normas especiais para as compras, as contratações de produtos, de sistemas de defesa, e de desenvolvimento de produtos e de sistemas de defesa, e dispõe sobre regras de incentivo à área estratégica de defesa e dá outras providências."
+    },
+    {
+      "senadoId": "553720",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-08-24-543",
+      "titulo": "Medida Provisória nº 543 de 24/08/2011",
+      "data": "2011-08-24",
+      "numero": "543",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-08-24;543",
+      "ementa": "Altera a Lei nº 11.110, de 25 de abril de 2005, para autorizar a União a conceder a instituições financeiras subvenção econômica sob a forma de equalização de parte dos custos a que estão sujeitas, para contratação e acompanhamento de operações de microcrédito produtivo orientado."
+    },
+    {
+      "senadoId": "553718",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-08-12-542",
+      "titulo": "Medida Provisória nº 542 de 12/08/2011",
+      "data": "2011-08-12",
+      "numero": "542",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-08-12;542",
+      "ementa": "Dispõe sobre alterações nos limites do Parque Nacional Amazônia, do Parque Nacional dos Campos Amazônicos, do Parque Nacional da Mapinguari e dá outras providências."
+    },
+    {
+      "senadoId": "553716",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-08-02-541",
+      "titulo": "Medida Provisória nº 541 de 02/08/2011",
+      "data": "2011-08-02",
+      "numero": "541",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-08-02;541",
+      "ementa": "Dispõe sobre o Fundo de Financiamento à Exportação, altera as Leis nºs 12.096, de 24 de novembro de 2009, 11.529, de 22 de outubro de 2007, 10.683, de 28 de maio de 2003, 5.966, de 11 de dezembro de 1973, e 9.933, de 20 de dezembro de 1999, e dá outras providências."
+    },
+    {
+      "senadoId": "553714",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-08-02-540",
+      "titulo": "Medida Provisória nº 540 de 02/08/2011",
+      "data": "2011-08-02",
+      "numero": "540",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-08-02;540",
+      "ementa": "Institui o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - REINTEGRA; dispõe sobre a redução do Imposto sobre Produtos Industrializados - IPI à indústria automotiva; altera a incidência das contribuições previdenciárias devidas pelas empresas que menciona, e dá outras providências."
+    },
+    {
+      "senadoId": "553712",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-07-26-539",
+      "titulo": "Medida Provisória nº 539 de 26/07/2011",
+      "data": "2011-07-26",
+      "numero": "539",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-07-26;539",
+      "ementa": "Autoriza o Conselho Monetário Nacional, para fins da política monetária e cambial, a estabelecer condições específicas para negociação de contratos de derivativos, altera o art. 3º do Decreto-Lei nº 1.783, de 18 de abril de 1980, e os arts. 1º e 2º da Lei nº 8.894, de 21 de junho de 1994, e dá outras providências."
+    },
+    {
+      "senadoId": "553710",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-07-01-538",
+      "titulo": "Medida Provisória nº 538 de 01/07/2011",
+      "data": "2011-07-01",
+      "numero": "538",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-07-01;538",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado firmados com fundamento na alínea \"g\" do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências."
+    },
+    {
+      "senadoId": "553708",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-06-24-537",
+      "titulo": "Medida Provisória nº 537 de 24/06/2011",
+      "data": "2011-06-24",
+      "numero": "537",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-06-24;537",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Defesa e da Integração Nacional, no valor global de R$ 500.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553706",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-06-24-536",
+      "titulo": "Medida Provisória nº 536 de 24/06/2011",
+      "data": "2011-06-24",
+      "numero": "536",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-06-24;536",
+      "ementa": "Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente."
+    },
+    {
+      "senadoId": "553704",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-06-02-535",
+      "titulo": "Medida Provisória nº 535 de 02/06/2011",
+      "data": "2011-06-02",
+      "numero": "535",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-06-02;535",
+      "ementa": "Institui o Programa de Apoio à Conservação Ambiental e o Programa de Fomento às Atividades Produtivas Rurais; altera a Lei nº 10.836, de 9 de janeiro de 2004, e dá outras providências."
+    },
+    {
+      "senadoId": "553702",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-05-20-534",
+      "titulo": "Medida Provisória nº 534 de 20/05/2011",
+      "data": "2011-05-20",
+      "numero": "534",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-05-20;534",
+      "ementa": "Altera o art. 28 da Lei nº 11.196, de 21 de novembro de 2005, para incluir no Programa de Inclusão Digital Tablet PC produzido no País conforme processo produtivo básico estabelecido pelo Poder Executivo."
+    },
+    {
+      "senadoId": "553700",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-05-10-533",
+      "titulo": "Medida Provisória nº 533 de 10/05/2011",
+      "data": "2011-05-10",
+      "numero": "533",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-05-10;533",
+      "ementa": "Autoriza a União a transferir recursos financeiros aos Municípios e ao Distrito Federal, com a finalidade de prestar apoio financeiro à manutenção de novos estabelecimentos públicos de educação infantil, e dá outras providências."
+    },
+    {
+      "senadoId": "553698",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-04-28-532",
+      "titulo": "Medida Provisória nº 532 de 28/04/2011",
+      "data": "2011-04-28",
+      "numero": "532",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-04-28;532",
+      "ementa": "Acresce e dá nova redação a dispositivos das Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999, que dispõem sobre a política e a fiscalização das atividades relativas ao abastecimento nacional de combustíveis; altera o § 1º do art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores; dá nova redação aos arts. 1º , 2º e 3º do Decreto-Lei nº 509, de 20 de março de 1969, que dispõe sobre a transformação do Departamento dos Correios e Telégrafos em empresa pública; altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a Organização da Presidência da República e dos Ministérios, e dá outras providências."
+    },
+    {
+      "senadoId": "553696",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-04-25-531",
+      "titulo": "Medida Provisória nº 531 de 25/04/2011",
+      "data": "2011-04-25",
+      "numero": "531",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-04-25;531",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 74.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "553694",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-04-25-530",
+      "titulo": "Medida Provisória nº 530 de 25/04/2011",
+      "data": "2011-04-25",
+      "numero": "530",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-04-25;530",
+      "ementa": "Institui, no âmbito do Ministério da Educação, o plano especial de recuperação da rede física escolar pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e municipais afetadas por desastres."
+    },
+    {
+      "senadoId": "553692",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-04-07-529",
+      "titulo": "Medida Provisória nº 529 de 07/04/2011",
+      "data": "2011-04-07",
+      "numero": "529",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-04-07;529",
+      "ementa": "Altera a Lei nº 8.212, de 24 de julho de 1991, no tocante à contribuição previdenciária do microempreendedor individual."
+    },
+    {
+      "senadoId": "553690",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-03-25-528",
+      "titulo": "Medida Provisória nº 528 de 25/03/2011",
+      "data": "2011-03-25",
+      "numero": "528",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-03-25;528",
+      "ementa": "Altera os valores constantes da tabela do Imposto sobre a Renda da Pessoa Física."
+    },
+    {
+      "senadoId": "553688",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-03-18-527",
+      "titulo": "Medida Provisória nº 527 de 18/03/2011",
+      "data": "2011-03-18",
+      "numero": "527",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-03-18;527",
+      "ementa": "Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria de Aviação Civil, altera a legislação da Agência Nacional de Aviação Civil - ANAC e da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, cria cargos de Ministro de Estado e cargos em comissão, dispõe sobre a contratação de controladores de tráfego aéreo temporários, cria cargos de Controlador de Tráfego Aéreo."
+    },
+    {
+      "senadoId": "553686",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-03-04-526",
+      "titulo": "Medida Provisória nº 526 de 04/03/2011",
+      "data": "2011-03-04",
+      "numero": "526",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-03-04;526",
+      "ementa": "Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, altera o art. 1º da Lei nº 12.096, de 24 de novembro de 2009, dispõe sobre medidas de suspensão temporária de exigências de regularidade fiscal, e dá outras providências."
+    },
+    {
+      "senadoId": "553684",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-02-14-525",
+      "titulo": "Medida Provisória nº 525 de 14/02/2011",
+      "data": "2011-02-14",
+      "numero": "525",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-02-14;525",
+      "ementa": "Altera a Lei nº 8.745, de 9 de dezembro de 1993, no tocante à contratação de professores."
+    },
+    {
+      "senadoId": "553682",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-01-28-524",
+      "titulo": "Medida Provisória nº 524 de 28/01/2011",
+      "data": "2011-01-28",
+      "numero": "524",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-01-28;524",
+      "ementa": "Altera a Lei nº 12.337, de 12 de novembro de 2010, para autorizar a prorrogação de contratos por tempo determinado firmados com fundamento na alínea \"h\" do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993."
+    },
+    {
+      "senadoId": "553680",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-01-20-523",
+      "titulo": "Medida Provisória nº 523 de 20/01/2011",
+      "data": "2011-01-20",
+      "numero": "523",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-01-20;523",
+      "ementa": "Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas a capital de giro e investimento de empresas e micro empreendedores individuais localizados em Municípios do Estado do Rio de Janeiro."
+    },
+    {
+      "senadoId": "553678",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2011-01-12-522",
+      "titulo": "Medida Provisória nº 522 de 12/01/2011",
+      "data": "2011-01-12",
+      "numero": "522",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-01-12;522",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da Integração Nacional, no valor global de R$ 780.000.000,00, para os fins que especifica."
+    }
+  ],
+  "pendencias": []
+}

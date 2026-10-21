@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-06-03-13130",
+  "titulo": "Lei nº 13.130 de 03/06/2015",
+  "data": "2015-06-03",
+  "fonte": "https://normas.leg.br/api/public/binario/2ce05d5e-4e0c-4e64-b152-d719e04d0260/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-06-03;13130",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-06-03%3B13130&tipo_documento=maior-detalhe",
+  "sha256_dados": "a4b88cf0d2893c7f1c534f1bb0b0e4bca1d9cf50a2b4c3c459d32ea2564dc65e",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:02:23.884Z",
+  "sha256_fonte": "1259b2695eb2ad381d156d10f11870d819bc19949ceea9ee39f3e01a04981180",
+  "sha256_markdown": "5dd846be88d7f2a95772eac0014dddf025101ec26f2ff4b14c40201c3bcac927"
+}

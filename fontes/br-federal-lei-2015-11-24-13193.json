@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-11-24-13193",
+  "titulo": "Lei nº 13.193 de 24/11/2015",
+  "data": "2015-11-24",
+  "fonte": "https://normas.leg.br/api/public/binario/85f756a4-f67a-4577-85b6-fef89c042967/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-11-24;13193",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-11-24%3B13193&tipo_documento=maior-detalhe",
+  "sha256_dados": "afb74c0889bb783822a741da9ed9e39232ea3d37af368dcda8032da3cdbe0efe",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:01:00.946Z",
+  "sha256_fonte": "2c4d6d38ef58c87d3640005762f7929c399f59c0084a150c0a6b431d694ef4f5",
+  "sha256_markdown": "35ac79436fcfed3c75670ffe2e15f58c82c59bf6eacee348f824a0a07a8cc102"
+}

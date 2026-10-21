@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-01-10-13609",
+  "titulo": "Lei nº 13.609 de 10/01/2018",
+  "data": "2018-01-10",
+  "fonte": "https://normas.leg.br/api/public/binario/6e4fb3e2-a094-4bca-ab02-01cd0dce9ee3/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-01-10;13609",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-01-10%3B13609&tipo_documento=maior-detalhe",
+  "sha256_dados": "4da21e3b775b3f796aea543101d9daa1ac283831907c28abf022cd49cf3116f7",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:46.745Z",
+  "sha256_fonte": "c4dcaec6a96acbed9a7d861ccb8332f4ff17006e83c73ca71fc3ae774085542c",
+  "sha256_markdown": "b0fed5bac385f1064d070971939e5aa66449d5dda0d1fbf5c2dc29b25dd7df90"
+}

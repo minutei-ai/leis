@@ -1,0 +1,2529 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1868",
+  "tipo": "DEC",
+  "ano": 1868,
+  "coletado_em": "2026-10-21T08:52:25.945Z",
+  "normas": [
+    {
+      "senadoId": "404270",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-31-4310",
+      "titulo": "Decreto nº 4.310 de 31/12/1868",
+      "data": "1868-12-31",
+      "numero": "4310",
+      "urn": "urn:lex:br:federal:decreto:1868-12-31;4310",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A APLICAR AS DESPESAS DAS VERBAS - SECRETARIA DE ESTADO - DESPESA SECRETA DE POLÍCIA - PESSOAL E MATERIAL DE POLICIA E CORPO MILITAR DE POLICIA NO EXERCÍCIO DE 1867-1868 A QUANTIA DE 12:329$458, TIRADA DAS SOBRAS DA VERBA - JUSTIÇA DE 1ª INSTÂNCIA NO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "404266",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-31-4309",
+      "titulo": "Decreto nº 4.309 de 31/12/1868",
+      "data": "1868-12-31",
+      "numero": "4309",
+      "urn": "urn:lex:br:federal:decreto:1868-12-31;4309",
+      "ementa": "REGULA A ORGANIZAÇÃO DO RELATÓRIO, ORÇAMENTO, BALANÇO E A PRESTAÇÃO DAS CONTAS, DA ILMA.ª CÂMARA MUNICIPAL DA CÔRTE."
+    },
+    {
+      "senadoId": "404282",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-31-4313",
+      "titulo": "Decreto nº 4.313 de 31/12/1868",
+      "data": "1868-12-31",
+      "numero": "4313",
+      "urn": "urn:lex:br:federal:decreto:1868-12-31;4313",
+      "ementa": "ABRE AO MINISTÉRIO DA FAZENDA UM CRÉDITO COMPLEMENTAR DE 6.279:987$274 E AUTORIZA O TRANSPORTE DE 133:322$284 DE UMAS PARA OUTRAS VERBAS DO MESMO MINISTÉRIO NO EXERCÍCIO DE 1867-1868."
+    },
+    {
+      "senadoId": "404274",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-31-4311",
+      "titulo": "Decreto nº 4.311 de 31/12/1868",
+      "data": "1868-12-31",
+      "numero": "4311",
+      "urn": "urn:lex:br:federal:decreto:1868-12-31;4311",
+      "ementa": "CONCEDE PRIVILÉGIO A PHILIPPE JOSÉ ALBERTO JUNIOR PARA FABRICAR O ARTEFATO CONHECIDO PELO NOME DE BICHAS DA ÍNDIA, SEGUNDO O PROCESSO DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "404278",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-31-4312",
+      "titulo": "Decreto nº 4.312 de 31/12/1868",
+      "data": "1868-12-31",
+      "numero": "4312",
+      "urn": "urn:lex:br:federal:decreto:1868-12-31;4312",
+      "ementa": "CONCEDE PRIVILÉGIO A BENJAMIM UPTON PARA FABRICAR E VENDER NO IMPÉRIO OS TIJOLOS CONHECIDOS NOS ESTADOS-UNIDOS COM O NOME DE \"AMERICAN BUILDING BLOK\"."
+    },
+    {
+      "senadoId": "404262",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-30-4308",
+      "titulo": "Decreto nº 4.308 de 30/12/1868",
+      "data": "1868-12-30",
+      "numero": "4308",
+      "urn": "urn:lex:br:federal:decreto:1868-12-30;4308",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA CÂMARA MUNICIPAL DA CÔRTE PARA O ANO DE 1869."
+    },
+    {
+      "senadoId": "404258",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-26-4307",
+      "titulo": "Decreto nº 4.307 de 26/12/1868",
+      "data": "1868-12-26",
+      "numero": "4307",
+      "urn": "urn:lex:br:federal:decreto:1868-12-26;4307",
+      "ementa": "DÁ PROVIDÊNCIAS, EM ADITAMENTO AO DECRETO 447 DE 19 DE MAIO DE 1846, SOBRE O ANCORADOURO DOS NAVIOS DE GUERRA NACIONAIS E ESTRANGEIROS, E POLICIA DO PORTO DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404238",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-23-4302",
+      "titulo": "Decreto nº 4.302 de 23/12/1868",
+      "data": "1868-12-23",
+      "numero": "4302",
+      "urn": "urn:lex:br:federal:decreto:1868-12-23;4302",
+      "ementa": "REGULA A POSSE DOS EMPREGADOS DO MINISTÉRIO DA JUSTIÇA E DÁ OUTRAS PROVIDÊNCIAS A RESPEITO DA EXPEDIÇÃO DOS TÍTULOS."
+    },
+    {
+      "senadoId": "404250",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-23-4305",
+      "titulo": "Decreto nº 4.305 de 23/12/1868",
+      "data": "1868-12-23",
+      "numero": "4305",
+      "urn": "urn:lex:br:federal:decreto:1868-12-23;4305",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO SUPLEMENTAR DE 7.431:681$251 PARA AS DESPESAS DAS RUBRICAS - ARSENAIS - FORÇA NAVAL E DESPESAS EXTRAORDINÁRIAS E EVENTUAIS."
+    },
+    {
+      "senadoId": "404246",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-23-4304",
+      "titulo": "Decreto nº 4.304 de 23/12/1868",
+      "data": "1868-12-23",
+      "numero": "4304",
+      "urn": "urn:lex:br:federal:decreto:1868-12-23;4304",
+      "ementa": "AUTORIZA O MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA MARINHA A TRANSPORTAR DE UMAS PARA OUTRAS RUBRICAS DA DESPESA DO MESMO MINISTÉRIO À SOMA DE 359:466$876."
+    },
+    {
+      "senadoId": "404242",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-23-4303",
+      "titulo": "Decreto nº 4.303 de 23/12/1868",
+      "data": "1868-12-23",
+      "numero": "4303",
+      "urn": "urn:lex:br:federal:decreto:1868-12-23;4303",
+      "ementa": "ALTERA O PLANO DOS UNIFORMES DOS OFICIAIS DO CORPO DA ARMADA E DAS CLASSES ANEXAS."
+    },
+    {
+      "senadoId": "404254",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-23-4306",
+      "titulo": "Decreto nº 4.306 de 23/12/1868",
+      "data": "1868-12-23",
+      "numero": "4306",
+      "urn": "urn:lex:br:federal:decreto:1868-12-23;4306",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO EXTRAORDINÁRIO DE 432:807$137 PARA AS DESPESAS DA RUBRICA - OBRAS - DO MESMO MINISTÉRIO."
+    },
+    {
+      "senadoId": "404234",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-18-4301",
+      "titulo": "Decreto nº 4.301 de 18/12/1868",
+      "data": "1868-12-18",
+      "numero": "4301",
+      "urn": "urn:lex:br:federal:decreto:1868-12-18;4301",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO SUPLEMENTAR DE 238:417$104 PARA SER APLICADO, PELA VERBA DO § 5º DO ARTIGO 4º DA LEI DO ORÇAMENTO EM VIGOR NO EXERCÍCIO DE 1867-1868, AO PAGAMENTO DE DESPESAS PROVENIENTES DE DIFERENÇAS DE CÂMBIO."
+    },
+    {
+      "senadoId": "404230",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-18-4300",
+      "titulo": "Decreto nº 4.300 de 18/12/1868",
+      "data": "1868-12-18",
+      "numero": "4300",
+      "urn": "urn:lex:br:federal:decreto:1868-12-18;4300",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGÓCIOS ESTRANGEIROS A APLICAR AS DESPESAS DA VERBA - SECRETARIA DE ESTADO - DO EXERCÍCIO DE 1867-1868, A QUANTIA DE 3:118$230, TIRADA DAS SOBRAS DA VERBA- LEGAÇÕES E CONSULADOS - E AS DA VERBA - EXTRAORDINÁRIAS NO EXTERIOR - A QUANTIA DE 55:000$, TIRADA TAMBÉM DAS SOBRAS DA MESMA VERBA - LEGAÇÕES E CONSULADOS E DA DE EXTRAORDINÁRIO NO INTERIOR E COMISSÕES DE LIMITES E DE LIQUIDAÇÃO DE RECLAMAÇÕES DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "404218",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-14-4297",
+      "titulo": "Decreto nº 4.297 de 14/12/1868",
+      "data": "1868-12-14",
+      "numero": "4297",
+      "urn": "urn:lex:br:federal:decreto:1868-12-14;4297",
+      "ementa": "CRIA NO TERMO DE LENÇOIS, NA PROVINCIA DA BAHIA, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARA AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "404222",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-14-4298",
+      "titulo": "Decreto nº 4.298 de 14/12/1868",
+      "data": "1868-12-14",
+      "numero": "4298",
+      "urn": "urn:lex:br:federal:decreto:1868-12-14;4298",
+      "ementa": "EXTINGUE OS BATALHÕES Nº 126 DO SERVIÇO ATIVO E 15 DA RESERVA, DA GUARDA NACIONAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "404226",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-14-4299",
+      "titulo": "Decreto nº 4.299 de 14/12/1868",
+      "data": "1868-12-14",
+      "numero": "4299",
+      "urn": "urn:lex:br:federal:decreto:1868-12-14;4299",
+      "ementa": "MARCA OS UNIFORMES PARA OS CORPOS DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "404186",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4289",
+      "titulo": "Decreto nº 4.289 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4289",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4289",
+      "ementa": "DIVIDE EM DUAS SEÇÕES, O 4º BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404214",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4296",
+      "titulo": "Decreto nº 4.296 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4296",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4296",
+      "ementa": "REDUZ A CATEGORIA DE COMPANHIA O 1º ESQUADRÃO DE CAVALARIA DA GUARDA NACIONAL DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404202",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4293",
+      "titulo": "Decreto nº 4.293 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4293",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4293",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DO RIO PARDO E GRÃO-MOGOL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404190",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4290",
+      "titulo": "Decreto nº 4.290 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4290",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4290",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE QUIXERAMOBIM DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404210",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4295",
+      "titulo": "Decreto nº 4.295 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4295",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4295",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS, NA FREGUESIA DE CODAJÁS E RIO PURÚS, DA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "404198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4292",
+      "titulo": "Decreto nº 4.292 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4292",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4292",
+      "ementa": "CRIA UMA SEÇÃO DE COMPANHIA DE INFÂNTARIA DO SERVIÇO ATIVO, NO MUNICÍPIO DE SÃO JOSÉ DO NORTE DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404206",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4294",
+      "titulo": "Decreto nº 4.294 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4294",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4294",
+      "ementa": "REDUZ A CATEGORIA DE COMPANHIA A 1ª SEÇÃO DE BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "404182",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4288",
+      "titulo": "Decreto nº 4.288 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4288",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4288",
+      "ementa": "DIVIDE EM TRÊS SEÇÕES, O BATALHÃO Nº3 DA GUARDA NACIONAL DA PROVÍNCIA DO AMAZONAS."
+    },
+    {
+      "senadoId": "404194",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-11-4291",
+      "titulo": "Decreto nº 4.291 de 11/12/1868",
+      "data": "1868-12-11",
+      "numero": "4291",
+      "urn": "urn:lex:br:federal:decreto:1868-12-11;4291",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO, A COMPANHIA E A SEÇÃO DE COMPANHIA DA GUARDA NACIONAL DO SERVIÇO DA RESERVA, ORGANIZADAS NO MUNICÍPIO DE SÃO JOSÉ DO NORTE DA PROVÍNCIA DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404174",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-10-4286",
+      "titulo": "Decreto nº 4.286 de 10/12/1868",
+      "data": "1868-12-10",
+      "numero": "4286",
+      "urn": "urn:lex:br:federal:decreto:1868-12-10;4286",
+      "ementa": "AUTORIZA O MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS PARA APLICAR AS DESPESAS DE VARIAS VERBAS DEFICIENTES DO EXERCÍCIO DE 1867-1868 A QUANTIA DE 677:126$244, TIRADA DAS SOBRAS DOS §§ 3º, 4º 8º, 10º, 13º, 14º, 15º, 18º, E 19º ARTIGO 8º DA RESPECTIVA LEI DO ORÇAMENTO."
+    },
+    {
+      "senadoId": "404178",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-10-4287",
+      "titulo": "Decreto nº 4.287 de 10/12/1868",
+      "data": "1868-12-10",
+      "numero": "4287",
+      "urn": "urn:lex:br:federal:decreto:1868-12-10;4287",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO SUPLEMENTAR DE 231:770$620 PARA OCORRER AS DESPESAS COM A VERBA - ILUMINAÇÃO PÚBLICA - PERTENCENTE AO EXERCÍCIO DE 1867-1868."
+    },
+    {
+      "senadoId": "404171",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-12-05-4285",
+      "titulo": "Decreto nº 4.285 de 05/12/1868",
+      "data": "1868-12-05",
+      "numero": "4285",
+      "urn": "urn:lex:br:federal:decreto:1868-12-05;4285",
+      "ementa": "PRORROGA ATÉ O FIM DE DEZEMBRO DE 1869 AS DISPOSIÇÕES QUE PERMITEM AS EMBARCAÇÕES ESTRANGEIRAS O SERVIÇO DE CABOTAGEM."
+    },
+    {
+      "senadoId": "404167",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-28-4284",
+      "titulo": "Decreto nº 4.284 de 28/11/1868",
+      "data": "1868-11-28",
+      "numero": "4284",
+      "urn": "urn:lex:br:federal:decreto:1868-11-28;4284",
+      "ementa": "ACEITA A DESISTÊNCIA QUE A COMPANHIA DA ESTRADA DE FERRO DE SÃO PAULO FEZ DO DIREITO DE PREFERÊNCIA, QUE LHE FOI GARANTIDO NA CONDIÇÃO 43ª DO DECRETO 1759 DE 26 DE ABRIL DE 1856, PARA O PROLONGAMENTO DA REFERIDA ESTRADA DE JUNDIAÍ A CAMPINAS."
+    },
+    {
+      "senadoId": "404155",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-28-4281",
+      "titulo": "Decreto nº 4.281 de 28/11/1868",
+      "data": "1868-11-28",
+      "numero": "4281",
+      "urn": "urn:lex:br:federal:decreto:1868-11-28;4281",
+      "ementa": "CRIA UM CORPO DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404163",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-28-4283",
+      "titulo": "Decreto nº 4.283 de 28/11/1868",
+      "data": "1868-11-28",
+      "numero": "4283",
+      "urn": "urn:lex:br:federal:decreto:1868-11-28;4283",
+      "ementa": "CONCEDE A COMPANHIA PAULISTA DA ESTRADA DE FERRO DE JUNDIAÍ A CAMPINAS A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "404151",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-28-4280",
+      "titulo": "Decreto nº 4.280 de 28/11/1868",
+      "data": "1868-11-28",
+      "numero": "4280",
+      "urn": "urn:lex:br:federal:decreto:1868-11-28;4280",
+      "ementa": "PROMULGA O TRATADO DE AMIZADE, LIMITES, NAVEGAÇÃO, COMÉRCIO E EXTRADIÇÃO, CELEBRADO EM 27 DE MARÇO DE 1867, ENTRE O BRASIL E A REPÚBLICA DE BOLÍVIA."
+    },
+    {
+      "senadoId": "404159",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-28-4282",
+      "titulo": "Decreto nº 4.282 de 28/11/1868",
+      "data": "1868-11-28",
+      "numero": "4282",
+      "urn": "urn:lex:br:federal:decreto:1868-11-28;4282",
+      "ementa": "EXTINGUE A JUNTA DE JUSTIÇA MILITAR CRIADA PROVISORIAMENTE NA PROVÍNCIA DE MATO GROSSO PELO DECRETO 3499 DE 8 DE JULHO DE 1865."
+    },
+    {
+      "senadoId": "404147",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-24-4279",
+      "titulo": "Decreto nº 4.279 de 24/11/1868",
+      "data": "1868-11-24",
+      "numero": "4279",
+      "urn": "urn:lex:br:federal:decreto:1868-11-24;4279",
+      "ementa": "ABRE AO MINISTÉRIO DA MARINHA UM CRÉDITO EXTRAORDINÁRIO DE 6.016:000$000 PARA OCORRER AS DESPESAS DAS RÚBRICAS - ARSENAIS - FORÇA NAVAL - OBRAS E DESPESAS EXTRAORDINÁRIAS E EVENTUAIS."
+    },
+    {
+      "senadoId": "404115",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4271",
+      "titulo": "Decreto nº 4.271 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4271",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4271",
+      "ementa": "DECLARA QUAIS OS ATOS QUE ESTÃO SUJEITOS AO TRANSITO DA CHANCELARIA."
+    },
+    {
+      "senadoId": "404143",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4278",
+      "titulo": "Decreto nº 4.278 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4278",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4278",
+      "ementa": "DECLARA SEM EFEITO O DECRETO 4.195 DE 27 DE MAIO ULTIMO, QUE CRIOU MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICIPIO DA CIDADE DE ARACATI, DA PROVINCIA DO CEARA."
+    },
+    {
+      "senadoId": "404119",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4272",
+      "titulo": "Decreto nº 4.272 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4272",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4272",
+      "ementa": "ELEVA O NÚMERO DOS CORRETORES DE MERCADORIAS DA PRAÇA DA CAPITAL DO IMPÉRIO."
+    },
+    {
+      "senadoId": "404139",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4277",
+      "titulo": "Decreto nº 4.277 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4277",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4277",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA AVULSA DA RESERVA DA GUARDA NACIONAL, ORGANIZADA NO MUNICÍPIO DA TELHA, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "404123",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4273",
+      "titulo": "Decreto nº 4.273 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4273",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4273",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE LORENA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404127",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4274",
+      "titulo": "Decreto nº 4.274 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4274",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4274",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A SEÇÃO DE BATALHÃO Nº 4 E A COMPANHIA AVULSA Nº 12 DA GUARDA NACIONAL DA RESERVA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404131",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4275",
+      "titulo": "Decreto nº 4.275 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4275",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4275",
+      "ementa": "DESLIGA DO BATALHÃO DE INFÂNTARIA Nº 35, E REUNE AO DE Nº 10 DA PROVÍNCIA DO PARÁ A GUARDA NACIONAL PERTENCENTE A FREGUESIA DE BEJA DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "404135",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-23-4276",
+      "titulo": "Decreto nº 4.276 de 23/11/1868",
+      "data": "1868-11-23",
+      "numero": "4276",
+      "urn": "urn:lex:br:federal:decreto:1868-11-23;4276",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO Nº 20 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404111",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-17-4270",
+      "titulo": "Decreto nº 4.270 de 17/11/1868",
+      "data": "1868-11-17",
+      "numero": "4270",
+      "urn": "urn:lex:br:federal:decreto:1868-11-17;4270",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO, A COMPANHIA AVULSA DA RESERVA Nº 11 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404107",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-12-4269",
+      "titulo": "Decreto nº 4.269 de 12/11/1868",
+      "data": "1868-11-12",
+      "numero": "4269",
+      "urn": "urn:lex:br:federal:decreto:1868-11-12;4269",
+      "ementa": "PERMITE QUE A ASSOCIAÇÃO COMERCIAL DO CEARÁ SE DENOMINE ASSOCIAÇÃO COMERCIAL DA PRAÇA DO CEARÁ."
+    },
+    {
+      "senadoId": "404103",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-11-11-4268",
+      "titulo": "Decreto nº 4.268 de 11/11/1868",
+      "data": "1868-11-11",
+      "numero": "4268",
+      "urn": "urn:lex:br:federal:decreto:1868-11-11;4268",
+      "ementa": "DESIGNA A ORDEM EM QUE DEVEM SER EXTRAÍDAS AS LOTERIAS NO ANO DE 1869."
+    },
+    {
+      "senadoId": "404099",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-31-4267",
+      "titulo": "Decreto nº 4.267 de 31/10/1868",
+      "data": "1868-10-31",
+      "numero": "4267",
+      "urn": "urn:lex:br:federal:decreto:1868-10-31;4267",
+      "ementa": "CRIA MAIS DUAS COMPANHIAS DE FUZILEIROS NO BATALHÃO NAVAL."
+    },
+    {
+      "senadoId": "404095",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-31-4266",
+      "titulo": "Decreto nº 4.266 de 31/10/1868",
+      "data": "1868-10-31",
+      "numero": "4266",
+      "urn": "urn:lex:br:federal:decreto:1868-10-31;4266",
+      "ementa": "AUTORISA O CRÉDITO EXTRAORDINÁRIO DE 22.725:858$935 PARA AS DESPESAS DA GUERRA NO EXERCÍCIO DE 1868 A 1869."
+    },
+    {
+      "senadoId": "404083",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-29-4263",
+      "titulo": "Decreto nº 4.263 de 29/10/1868",
+      "data": "1868-10-29",
+      "numero": "4263",
+      "urn": "urn:lex:br:federal:decreto:1868-10-29;4263",
+      "ementa": "REUNE O TERMO DA SERRA AOS DE LINHARES, SANTA CRUZ E NOVA ALMEIDA, TODOS NA PROVÍNCIA DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "404091",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-29-4265",
+      "titulo": "Decreto nº 4.265 de 29/10/1868",
+      "data": "1868-10-29",
+      "numero": "4265",
+      "urn": "urn:lex:br:federal:decreto:1868-10-29;4265",
+      "ementa": "EXTINGUE O COMANDO SUPERIOR DE GUARDAS NACIONAIS DOS MUNICÍPIOS DE BUIQUE E BOM CONSELHO, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "404087",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-29-4264",
+      "titulo": "Decreto nº 4.264 de 29/10/1868",
+      "data": "1868-10-29",
+      "numero": "4264",
+      "urn": "urn:lex:br:federal:decreto:1868-10-29;4264",
+      "ementa": "EXTINGUE O COMANDO SUPERIOR DE GUARDAS NACIONAIS DO MUNICÍPIO DE LAGES DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "404079",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-19-4262",
+      "titulo": "Decreto nº 4.262 de 19/10/1868",
+      "data": "1868-10-19",
+      "numero": "4262",
+      "urn": "urn:lex:br:federal:decreto:1868-10-19;4262",
+      "ementa": "AUTORIZA AO MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA A APLICAR AS DESPEDAS DAS VERBAS - PESSOAL E MATERIAL DA POLICIA, - CORPO MILITAR DE POLICIA E CASA DE CORREÇÃO , NO EXERCÍCIO DE 1867 A 1868, A QUANTIA  DE 136:596$749 RÉIS, TIRADA DAS SOBRAS DAS VERBAS - JUSTIÇA DE 1ª INSTÂNCIA - GUARDA URBANA, E OBRAS NO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "404075",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-15-4261",
+      "titulo": "Decreto nº 4.261 de 15/10/1868",
+      "data": "1868-10-15",
+      "numero": "4261",
+      "urn": "urn:lex:br:federal:decreto:1868-10-15;4261",
+      "ementa": "DIVIDE EM DOIS O 7º BATALHÃO DE INFÂNTARIA DA GUARDA NACIONAL DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "404067",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-10-4259",
+      "titulo": "Decreto nº 4.259 de 10/10/1868",
+      "data": "1868-10-10",
+      "numero": "4259",
+      "urn": "urn:lex:br:federal:decreto:1868-10-10;4259",
+      "ementa": "MANDA OBSERVAR AS INSTRUÇÕES PELAS QUAIS SE HÁ DE PROCEDER NO FIM DO CORRENTE ANO E NO MÊS DE FEVEREIRO DE 1869 AOS EXAMES DE QUE TRATA O ARTIGO 112 DO REGULAMENTO ANEXO AO DECRETO Nº 1331 \"A\" DE 17 DE FEVEREIRO DE 1854."
+    },
+    {
+      "senadoId": "404071",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-10-10-4260",
+      "titulo": "Decreto nº 4.260 de 10/10/1868",
+      "data": "1868-10-10",
+      "numero": "4260",
+      "urn": "urn:lex:br:federal:decreto:1868-10-10;4260",
+      "ementa": "ALTERA AS DISPOSIÇÕES DOS ESTATUTOS DAS FACULDADES DE DIREITO E DO REGULAMENTO COMPLEMENTAR RELATIVAS A COLAÇÃO DO GRAU DE BACHAREL."
+    },
+    {
+      "senadoId": "404059",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-30-4257",
+      "titulo": "Decreto nº 4.257 de 30/09/1868",
+      "data": "1868-09-30",
+      "numero": "4257",
+      "urn": "urn:lex:br:federal:decreto:1868-09-30;4257",
+      "ementa": "DECLARA ESPECIAL DE ORFÃOS A PRIMEIRA VARA MUNICIPAL DO TERMO DO RIO GRANDE, NA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "404063",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-30-4258",
+      "titulo": "Decreto nº 4.258 de 30/09/1868",
+      "data": "1868-09-30",
+      "numero": "4258",
+      "urn": "urn:lex:br:federal:decreto:1868-09-30;4258",
+      "ementa": "MANDA PUBLICAR ANUALMENTE UMA COLEÇÃO DE DOCUMENTOS OFICIAIS DO MINSTÉRIO DOS NEGÓCIOS ESTRANGEIROS, SOB O TÍTULO - INFORMAÇÕES DOS AGENTES DIPLOMÁTICOS E CONSULARES DO IMPÉRIO."
+    },
+    {
+      "senadoId": "404055",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-29-4256",
+      "titulo": "Decreto nº 4.256 de 29/09/1868",
+      "data": "1868-09-29",
+      "numero": "4256",
+      "urn": "urn:lex:br:federal:decreto:1868-09-29;4256",
+      "ementa": "EXTINGUE O ESQUADRÃO DE CAVALARIA Nº 2 DA GUARDA NACIONAL DA PROVÍNCIA DO ESPIRITO SANTO."
+    },
+    {
+      "senadoId": "404051",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-25-4255",
+      "titulo": "Decreto nº 4.255 de 25/09/1868",
+      "data": "1868-09-25",
+      "numero": "4255",
+      "urn": "urn:lex:br:federal:decreto:1868-09-25;4255",
+      "ementa": "PRORROGA POR 20 MESES O PRAZO DE DOIS ANOS CONCEDIDO A AUGUSTO TEIXEIRA COIMBRA E RICHARD FRANCIS BURTON NA CLAUSULA 2ª DO DECRETO 3706 DE 26 DE SETEMBRO DE 1866, PARA A EXECUÇÃO DE TRABALHOS REFERENTES A EXPLORAÇÃO DE MINERAIS NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "404027",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4249",
+      "titulo": "Decreto nº 4.249 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4249",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4249",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA DE GUARDAS NACIONAIS, NAS FREGUESIAS DE SANTO ANTONIO DO RIO BONITO, E SANTA ISABEL DO RIO PRETO, DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404031",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4250",
+      "titulo": "Decreto nº 4.250 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4250",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4250",
+      "ementa": "CRIA UMA BATALHÃO DE INFÂNTARIA DA GUARDA NACIONAL NAS FREGUESIAS DE NOSSA SENHORA DA GLORIA, E SANTA TEREZA, DA PROVÍNCIA DO RIO DE JANEIRO,"
+    },
+    {
+      "senadoId": "404043",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4253",
+      "titulo": "Decreto nº 4.253 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4253",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4253",
+      "ementa": "MARCA O DISTRITO DO 5º CORPO DE CAVALARIA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404023",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4248",
+      "titulo": "Decreto nº 4.248 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4248",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4248",
+      "ementa": "CRIA UMA COMPANHIA DE INFÂNTARIA DO SERVIÇO DA RESERVA NAS FREGUESIAS DE SANTO ANTONIO DO RIO BONITO, SANTA ISABEL DO RIO PRETO, E NOSSA SENHORA DA PIEDADE DE IPIABAS DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404047",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4254",
+      "titulo": "Decreto nº 4.254 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4254",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4254",
+      "ementa": "EXTINGUE A SEÇÃO DE BATALHÃO DE INFÂNTARIA Nº2 DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "404035",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4251",
+      "titulo": "Decreto nº 4.251 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4251",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4251",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA 8ª SEÇÃO DE BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404039",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-24-4252",
+      "titulo": "Decreto nº 4.252 de 24/09/1868",
+      "data": "1868-09-24",
+      "numero": "4252",
+      "urn": "urn:lex:br:federal:decreto:1868-09-24;4252",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFÂNTARIA Nº 22  DA GUARDA NACIONAL DA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "404019",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-22-4247",
+      "titulo": "Decreto nº 4.247 de 22/09/1868",
+      "data": "1868-09-22",
+      "numero": "4247",
+      "urn": "urn:lex:br:federal:decreto:1868-09-22;4247",
+      "ementa": "CRIA UMA CADEIRA PÚBLICA DE INSTRUÇÃO PRIMÁRIA PARA O SEXO FEMININO NA FREGUESIA DE JACAREPAGUÁ."
+    },
+    {
+      "senadoId": "404015",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-19-4246",
+      "titulo": "Decreto nº 4.246 de 19/09/1868",
+      "data": "1868-09-19",
+      "numero": "4246",
+      "urn": "urn:lex:br:federal:decreto:1868-09-19;4246",
+      "ementa": "ESTABELECE BASES PARA A ORGANIZAÇÃO DA TARIFA DOS PREÇOS DE TRANSPORTE DE PASSAGEIROS E MERCADORIAS NO RAMAL FERREO DE QUE É EMPRESARIA  A COMPANHIA UNIÃO VALENCIANA."
+    },
+    {
+      "senadoId": "404011",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-16-4245",
+      "titulo": "Decreto nº 4.245 de 16/09/1868",
+      "data": "1868-09-16",
+      "numero": "4245",
+      "urn": "urn:lex:br:federal:decreto:1868-09-16;4245",
+      "ementa": "ALTERA A DISPOSIÇÃO DO ARTIGO 41 § 6º DO REGULAMENTO Nº 806 DE 26 DE JULHO DE 1851."
+    },
+    {
+      "senadoId": "404003",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-15-4243",
+      "titulo": "Decreto nº 4.243 de 15/09/1868",
+      "data": "1868-09-15",
+      "numero": "4243",
+      "urn": "urn:lex:br:federal:decreto:1868-09-15;4243",
+      "ementa": "CONCEDE A COMPANHIA INGLESA - THE NICTHEROY (BRASIL) GAS COMPANY, LIMITED - A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "404007",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-15-4244",
+      "titulo": "Decreto nº 4.244 de 15/09/1868",
+      "data": "1868-09-15",
+      "numero": "4244",
+      "urn": "urn:lex:br:federal:decreto:1868-09-15;4244",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA CONTRAIR, POR VIA DE SUBSCRIÇÃO PÚBLICA, UM EMPRÉSTIMO, QUE NÃO EXCEDA DE 30.000:000$000."
+    },
+    {
+      "senadoId": "403999",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-09-03-4242",
+      "titulo": "Decreto nº 4.242 de 03/09/1868",
+      "data": "1868-09-03",
+      "numero": "4242",
+      "urn": "urn:lex:br:federal:decreto:1868-09-03;4242",
+      "ementa": "PRORROGA P0R DOIS ANOS O PRAZO CONCEDIDO A ZOZIMO BARROSO E JOHN JAMES FOSTER PARA A CONSTRUÇÃO DO PORTO DO MUCURIPE."
+    },
+    {
+      "senadoId": "403995",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-29-4241",
+      "titulo": "Decreto nº 4.241 de 29/08/1868",
+      "data": "1868-08-29",
+      "numero": "4241",
+      "urn": "urn:lex:br:federal:decreto:1868-08-29;4241",
+      "ementa": "PRORROGA O PRAZO DE DURAÇÃO DA COMPANHIA DE TRANSPORTES MARÍTIMOS."
+    },
+    {
+      "senadoId": "403991",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-29-4240",
+      "titulo": "Decreto nº 4.240 de 29/08/1868",
+      "data": "1868-08-29",
+      "numero": "4240",
+      "urn": "urn:lex:br:federal:decreto:1868-08-29;4240",
+      "ementa": "CONCEDE A COMPANHIA INGLESA - THE ROSSA GRANDE GOLD MINING COMPANY - AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "403987",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-27-4239",
+      "titulo": "Decreto nº 4.239 de 27/08/1868",
+      "data": "1868-08-27",
+      "numero": "4239",
+      "urn": "urn:lex:br:federal:decreto:1868-08-27;4239",
+      "ementa": "EXTINGUE O BATALHÃO DE INFÂNTARIA 11 DA GUARDA NACIONAL ORGANIZADO NAS FREGUESIAS DE COTEGIPE, MARÉ E MATOIM DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403983",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-27-4238",
+      "titulo": "Decreto nº 4.238 de 27/08/1868",
+      "data": "1868-08-27",
+      "numero": "4238",
+      "urn": "urn:lex:br:federal:decreto:1868-08-27;4238",
+      "ementa": "CRIA O OFICIO DE ESCRIVÃO PRIVATIVO DO JUIZ DOS FEITOS DA FAZENDA DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "403979",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-25-4237",
+      "titulo": "Decreto nº 4.237 de 25/08/1868",
+      "data": "1868-08-25",
+      "numero": "4237",
+      "urn": "urn:lex:br:federal:decreto:1868-08-25;4237",
+      "ementa": "TRANSFERE A CONSTANCIO ALVES PINTO, ALBERTO ALVES PINTO E DOMINGOS GONÇALVES DE AZEVEDO O PRIVILÉGIO CONCEDIDO A SEU FINADO PAI E SOGRO ANTONIO ALVES DA SILVA PINTO PARA O ESTABELECIMENTO DA NAVEGAÇÃO A VAPOR NOS RIOS MACABÚ E IMBÉ, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "403975",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-22-4236",
+      "titulo": "Decreto nº 4.236 de 22/08/1868",
+      "data": "1868-08-22",
+      "numero": "4236",
+      "urn": "urn:lex:br:federal:decreto:1868-08-22;4236",
+      "ementa": "CONCEDE A ANTONIO AUGUSTO COELHO PRIVILÉGIO, POR DEZ ANOS, PARA EMPREGAR NO TRANSPORTE DE GADO BARCOS A VAPOR CONSTRUÍDOS CONFORME O DESENHO QUE APRESENTOU."
+    },
+    {
+      "senadoId": "403963",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-14-4233",
+      "titulo": "Decreto nº 4.233 de 14/08/1868",
+      "data": "1868-08-14",
+      "numero": "4233",
+      "urn": "urn:lex:br:federal:decreto:1868-08-14;4233",
+      "ementa": "REUNE A GUARDA NACIONAL DO MUNICÍPIO DA CAPITAL DA PROVÍNCIA DE SANTA CATARINA, A DOS DE SÃO JOSÉ E SÃO MIGUEL, DA MESMA PROVÍNCIA, PARA FORMAR UM SÓ COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "403971",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-14-4235",
+      "titulo": "Decreto nº 4.235 de 14/08/1868",
+      "data": "1868-08-14",
+      "numero": "4235",
+      "urn": "urn:lex:br:federal:decreto:1868-08-14;4235",
+      "ementa": "ALTERA AS CLAUSULAS 2ª, 3ª E 4ª DO DECRETO 3779 DE 12 DE JANEIRO DE 1867, RELATIVO A PERMISSÃO CONCEDIDA A JOSÉ BERNARDO TEIXEIRA PARA LAVRAR DIVERSOS MINERAIS NA COMARCA DO CEARÁ."
+    },
+    {
+      "senadoId": "403967",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-14-4234",
+      "titulo": "Decreto nº 4.234 de 14/08/1868",
+      "data": "1868-08-14",
+      "numero": "4234",
+      "urn": "urn:lex:br:federal:decreto:1868-08-14;4234",
+      "ementa": "REUNE EM UM SÓ OS DOIS COMANDOS SUPERIORES DA GUARDA NACIONAL DOS MUNICÍPIOS DE PORTO CALVO E DE CAMARAGIBE DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "403959",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-05-4232",
+      "titulo": "Decreto nº 4.232 de 05/08/1868",
+      "data": "1868-08-05",
+      "numero": "4232",
+      "urn": "urn:lex:br:federal:decreto:1868-08-05;4232",
+      "ementa": "AUTORIZA O MINISTRO DA FAZENDA PARA EMITIR, NO EXERCÍCIO DE 1868-1869, ATÉ A IMPORTÂNCIA DE 40.000:000$ DE PAPEL-MOEDA."
+    },
+    {
+      "senadoId": "403951",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-01-4230",
+      "titulo": "Decreto nº 4.230 de 01/08/1868",
+      "data": "1868-08-01",
+      "numero": "4230",
+      "urn": "urn:lex:br:federal:decreto:1868-08-01;4230",
+      "ementa": "AUTORIZA OS PRESIDENTES DAS PROVÍNCIAS A REINTEGRAREM OS OFICIAIS DA GUARDA NACIONAL SUSPENSOS NA CONFORMIDADE DO DECRETO 3506, DE 4 DE AGOSTO DE 1865."
+    },
+    {
+      "senadoId": "403955",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-08-01-4231",
+      "titulo": "Decreto nº 4.231 de 01/08/1868",
+      "data": "1868-08-01",
+      "numero": "4231",
+      "urn": "urn:lex:br:federal:decreto:1868-08-01;4231",
+      "ementa": "CONCEDE A EGYDIO GUICHARD PRIVILÉGIO, POR DEZ ANOS, PARA USAR DE UMA MACHINA, QUE DECLAROU TER INVENTADO, PARA SECAR O CAFÉ."
+    },
+    {
+      "senadoId": "403943",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-31-4228",
+      "titulo": "Decreto nº 4.228 de 31/07/1868",
+      "data": "1868-07-31",
+      "numero": "4228",
+      "urn": "urn:lex:br:federal:decreto:1868-07-31;4228",
+      "ementa": "MARCA O ORDENADO ANUAL DE 80$000 AO CARCEREIRO DA CADEIA DA VILA DAS DORES DA BOA ESPERANÇA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403947",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-31-4229",
+      "titulo": "Decreto nº 4.229 de 31/07/1868",
+      "data": "1868-07-31",
+      "numero": "4229",
+      "urn": "urn:lex:br:federal:decreto:1868-07-31;4229",
+      "ementa": "MARCA O ORDENADO ANUAL DE 250$000 AO CARCEREIRO DA CADEIA DA CAPITAL DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "403939",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-25-4227",
+      "titulo": "Decreto nº 4.227 de 25/07/1868",
+      "data": "1868-07-25",
+      "numero": "4227",
+      "urn": "urn:lex:br:federal:decreto:1868-07-25;4227",
+      "ementa": "CONVOCA PARA O DIA 3 DE MAIO DE 1869 A NOVA ASSEMBLEIA GERAL E DESIGNA A ULTIMA DOMINGA DO MES DE JANEIRO DO MESMO ANO PARA SE PROCEDER UM TODO O IMPERIO A ELEIÇÃO PRIMARIA."
+    },
+    {
+      "senadoId": "403935",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-18-4226",
+      "titulo": "Decreto nº 4.226 de 18/07/1868",
+      "data": "1868-07-18",
+      "numero": "4226",
+      "urn": "urn:lex:br:federal:decreto:1868-07-18;4226",
+      "ementa": "DISSOLVE A ASSEMBLÉIA GERAL."
+    },
+    {
+      "senadoId": "403931",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-11-4225",
+      "titulo": "Decreto nº 4.225 de 11/07/1868",
+      "data": "1868-07-11",
+      "numero": "4225",
+      "urn": "urn:lex:br:federal:decreto:1868-07-11;4225",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE BATURITÉ, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403927",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-11-4224",
+      "titulo": "Decreto nº 4.224 de 11/07/1868",
+      "data": "1868-07-11",
+      "numero": "4224",
+      "urn": "urn:lex:br:federal:decreto:1868-07-11;4224",
+      "ementa": "ELEVA A OITO, O NÚMERO DE QUATRO COMPANHIAS COM QUE FOI CRIADO O 1º BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DE CEARÁ."
+    },
+    {
+      "senadoId": "403923",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-08-4223",
+      "titulo": "Decreto nº 4.223 de 08/07/1868",
+      "data": "1868-07-08",
+      "numero": "4223",
+      "urn": "urn:lex:br:federal:decreto:1868-07-08;4223",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO A SEÇÃO DE COMPANHIA DA GUARDA NACIONAL DO SERVIÇO DA RESERVA, ORGANIZADA NO MUNICÍPIO DE CODÓ, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "403919",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-08-4222",
+      "titulo": "Decreto nº 4.222 de 08/07/1868",
+      "data": "1868-07-08",
+      "numero": "4222",
+      "urn": "urn:lex:br:federal:decreto:1868-07-08;4222",
+      "ementa": "SEPARA O TERMO DE SÃO JOSÉ DE CAJAZEIRAS DO DE CAXIAS, NA PROVÍNCIA DO MARANHÃO, E CRIA NELE O LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "403903",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-04-4218",
+      "titulo": "Decreto nº 4.218 de 04/07/1868",
+      "data": "1868-07-04",
+      "numero": "4218",
+      "urn": "urn:lex:br:federal:decreto:1868-07-04;4218",
+      "ementa": "CRIA MAIS QUINZE LUGARES DE CORRETORES PARA A PRAÇA DO COMÉRCIO DA CÔRTE."
+    },
+    {
+      "senadoId": "403915",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-04-4221",
+      "titulo": "Decreto nº 4.221 de 04/07/1868",
+      "data": "1868-07-04",
+      "numero": "4221",
+      "urn": "urn:lex:br:federal:decreto:1868-07-04;4221",
+      "ementa": "APROVA O REGULAMENTO E AS TARIFAS PARA A ESTRADA DE FERRO DO RECIFE AO RIO SÃO FRANCISCO, NA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403911",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-04-4220",
+      "titulo": "Decreto nº 4.220 de 04/07/1868",
+      "data": "1868-07-04",
+      "numero": "4220",
+      "urn": "urn:lex:br:federal:decreto:1868-07-04;4220",
+      "ementa": "ALTERA OS UNIFORMES DO 1º BATALHÃO DE INFÂNTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403907",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-04-4219",
+      "titulo": "Decreto nº 4.219 de 04/07/1868",
+      "data": "1868-07-04",
+      "numero": "4219",
+      "urn": "urn:lex:br:federal:decreto:1868-07-04;4219",
+      "ementa": "CRIA UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA MIRITIBA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "403899",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-07-01-4217",
+      "titulo": "Decreto nº 4.217 de 01/07/1868",
+      "data": "1868-07-01",
+      "numero": "4217",
+      "urn": "urn:lex:br:federal:decreto:1868-07-01;4217",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFÂNTARIA Nº 21 DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "403895",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-27-4216",
+      "titulo": "Decreto nº 4.216 de 27/06/1868",
+      "data": "1868-06-27",
+      "numero": "4216",
+      "urn": "urn:lex:br:federal:decreto:1868-06-27;4216",
+      "ementa": "DECLARA O MODO DE CONTAR O TEMPO DE PRORROGAÇÃO DE PRIVILÉGIO CONCEDIDO A COMPANHIA - LUZ STEARICA."
+    },
+    {
+      "senadoId": "403891",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-27-4215",
+      "titulo": "Decreto nº 4.215 de 27/06/1868",
+      "data": "1868-06-27",
+      "numero": "4215",
+      "urn": "urn:lex:br:federal:decreto:1868-06-27;4215",
+      "ementa": "ALTERA O PLANO DOS UNIFORMES DOS OFICIAIS DO CORPO DE FAZENDA."
+    },
+    {
+      "senadoId": "403887",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-20-4214",
+      "titulo": "Decreto nº 4.214 de 20/06/1868",
+      "data": "1868-06-20",
+      "numero": "4214",
+      "urn": "urn:lex:br:federal:decreto:1868-06-20;4214",
+      "ementa": "REORGANIZA A CONTADORIA DE MARINHA."
+    },
+    {
+      "senadoId": "403883",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-20-4213",
+      "titulo": "Decreto nº 4.213 de 20/06/1868",
+      "data": "1868-06-20",
+      "numero": "4213",
+      "urn": "urn:lex:br:federal:decreto:1868-06-20;4213",
+      "ementa": "CRIA UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS DO SERVIÇO ATIVO NA VILA DO RIO DAS EGOAS DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403875",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-17-4211",
+      "titulo": "Decreto nº 4.211 de 17/06/1868",
+      "data": "1868-06-17",
+      "numero": "4211",
+      "urn": "urn:lex:br:federal:decreto:1868-06-17;4211",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DOS BATALHÕES DE INFÂNTARIA Nº 25 E 48, DA SEÇÃO DE BATALHÃO Nº 10 DO SERVIÇO ATIVO, E DA DE Nº 9 DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403879",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-17-4212",
+      "titulo": "Decreto nº 4.212 de 17/06/1868",
+      "data": "1868-06-17",
+      "numero": "4212",
+      "urn": "urn:lex:br:federal:decreto:1868-06-17;4212",
+      "ementa": "CONCEDE A FRANCISCO DE PAULA XAVIER DE TOLEDO E PEDRO MARTIN, PRIVILÉGIO POR DEZ ANOS PARA O FABRICO DE ÓLEO DE SEMENTES DE ALGODÃO."
+    },
+    {
+      "senadoId": "403863",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4208",
+      "titulo": "Decreto nº 4.208 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4208",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4208",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE CAMAMÚ, BARRA DO RIO DE CONTAS, BARCELLOS E MARAHU, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403843",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4203",
+      "titulo": "Decreto nº 4.203 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4203",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4203",
+      "ementa": "REGULA A CONCESSÃO DA ORDEM DE SÃO BENTO DE AVIZ AOS OFICIAIS DA ARMADA E CLASSES ANEXAS."
+    },
+    {
+      "senadoId": "403871",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4210",
+      "titulo": "Decreto nº 4.210 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4210",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4210",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DO BANCO RURAL E HIPOTECÁRIO COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "403851",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4205",
+      "titulo": "Decreto nº 4.205 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4205",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4205",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE ITAJAHY, ULTIMAMENTE ERCADA NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403867",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4209",
+      "titulo": "Decreto nº 4.209 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4209",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4209",
+      "ementa": "CRIA UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NAS FREGUESIAS DE GRAVATÁ E BEZERROS, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403847",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4204",
+      "titulo": "Decreto nº 4.204 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4204",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4204",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE ITAJAHY, CRIADA NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403859",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4207",
+      "titulo": "Decreto nº 4.207 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4207",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4207",
+      "ementa": "ALTERA O PRIMEIRO UNIFORME DOS CIRURGIÕES DOS CORPOS DA GUARDA NACIONAL DA CÔRTE."
+    },
+    {
+      "senadoId": "403855",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-13-4206",
+      "titulo": "Decreto nº 4.206 de 13/06/1868",
+      "data": "1868-06-13",
+      "numero": "4206",
+      "urn": "urn:lex:br:federal:decreto:1868-06-13;4206",
+      "ementa": "CRIA UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NAS FREGUESIAS DE PANELLAS E QUIPAPÁ DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403839",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-10-4202",
+      "titulo": "Decreto nº 4.202 de 10/06/1868",
+      "data": "1868-06-10",
+      "numero": "4202",
+      "urn": "urn:lex:br:federal:decreto:1868-06-10;4202",
+      "ementa": "CRIA UMA COMISSÃO SUPERIOR QUE DEVE PRESIDIR AOS TRABALHOS DENTRO DO IMPÉRIO PARA A EXPOSIÇÃO DOS PRODUTOS NACIONAIS NA EXPOSIÇÃO INTERNACIONAL DE VIENA DA AUSTRIA."
+    },
+    {
+      "senadoId": "403835",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-06-06-4201",
+      "titulo": "Decreto nº 4.201 de 06/06/1868",
+      "data": "1868-06-06",
+      "numero": "4201",
+      "urn": "urn:lex:br:federal:decreto:1868-06-06;4201",
+      "ementa": "FAZ EXTENSIVO AS FORÇAS, QUE MARCHARÃO DA CAPITAL DA PROVÍNCIA DE MATO GROSSO, A FIM DE OPERAR CONTRA CORUMBÁ, O USO DA MEDALHA CONCEDIDA PELO DECRETO 3926 DE 7 DE AGOSTO DE 1867."
+    },
+    {
+      "senadoId": "403831",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-30-4200",
+      "titulo": "Decreto nº 4.200 de 30/05/1868",
+      "data": "1868-05-30",
+      "numero": "4200",
+      "urn": "urn:lex:br:federal:decreto:1868-05-30;4200",
+      "ementa": "AUTORIZA A COMPANHIA DO BEBERIBE A ELEVAR O SEU FUNDO SOCIAL."
+    },
+    {
+      "senadoId": "403819",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-27-4197",
+      "titulo": "Decreto nº 4.197 de 27/05/1868",
+      "data": "1868-05-27",
+      "numero": "4197",
+      "urn": "urn:lex:br:federal:decreto:1868-05-27;4197",
+      "ementa": "CONCEDE A CARLOS HENRY PRIVILÉGIO POR DEZ ANOS PARA A CONSTRUÇÃO E VENDA DO ALAMBIQUE RETIFICADOR QUE DIZ TER INVENTADO DESTINADO AO FABRICO DA AGUARDENTE."
+    },
+    {
+      "senadoId": "403823",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-27-4198",
+      "titulo": "Decreto nº 4.198 de 27/05/1868",
+      "data": "1868-05-27",
+      "numero": "4198",
+      "urn": "urn:lex:br:federal:decreto:1868-05-27;4198",
+      "ementa": "CONCEDE AO DR. HENRIQUE SCHUTEL PRIVILÉGIO POR DEZ ANOS PARA EXTRAIR DO VEGETAL INDIGENA DENOMINADO - MANGUE - (PHISOPHOREAS DE LINNEO) UMA SUBSTÂNCIA APROVEITÁVEL A MEDICIAN E AS ARTES."
+    },
+    {
+      "senadoId": "403827",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-27-4199",
+      "titulo": "Decreto nº 4.199 de 27/05/1868",
+      "data": "1868-05-27",
+      "numero": "4199",
+      "urn": "urn:lex:br:federal:decreto:1868-05-27;4199",
+      "ementa": "CONCEDE PRIVILÉGIO POR CINCO ANOS A LÉGER PALMER PARA CONSTRUIR APARELHOS DE FABRICAR AÇUCAR."
+    },
+    {
+      "senadoId": "403815",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-27-4196",
+      "titulo": "Decreto nº 4.196 de 27/05/1868",
+      "data": "1868-05-27",
+      "numero": "4196",
+      "urn": "urn:lex:br:federal:decreto:1868-05-27;4196",
+      "ementa": "CONCEDE A ANTONIO GONÇALVES NETTO PRIVILÉGIO POR DEZ ANOS PARA A CONSTRUÇÃO E VENDA DE UM ALAMBIQUE DE MOVIMENTO CONTINUO QUE DIZ TER INVENTADO DESTINADO AO FABRICO DA AGUARDENTE."
+    },
+    {
+      "senadoId": "403811",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-27-4195",
+      "titulo": "Decreto nº 4.195 de 27/05/1868",
+      "data": "1868-05-27",
+      "numero": "4195",
+      "urn": "urn:lex:br:federal:decreto:1868-05-27;4195",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO ARACATY DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403803",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-23-4193",
+      "titulo": "Decreto nº 4.193 de 23/05/1868",
+      "data": "1868-05-23",
+      "numero": "4193",
+      "urn": "urn:lex:br:federal:decreto:1868-05-23;4193",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE BUIQUE E BOM CONSELHO DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403807",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-23-4194",
+      "titulo": "Decreto nº 4.194 de 23/05/1868",
+      "data": "1868-05-23",
+      "numero": "4194",
+      "urn": "urn:lex:br:federal:decreto:1868-05-23;4194",
+      "ementa": "ELEVA A CATEGORIA DE COMPANHIA A SEÇÃO DE COMPANHIA DE CAVALARIA Nº 4 DA GUARDA NACIONAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "403799",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-20-4192",
+      "titulo": "Decreto nº 4.192 de 20/05/1868",
+      "data": "1868-05-20",
+      "numero": "4192",
+      "urn": "urn:lex:br:federal:decreto:1868-05-20;4192",
+      "ementa": "MARCA O SEGUNDO UNIFORME PARA O BATALHÃO DE INFÂNTARIA Nº 44 DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403791",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-20-4190",
+      "titulo": "Decreto nº 4.190 de 20/05/1868",
+      "data": "1868-05-20",
+      "numero": "4190",
+      "urn": "urn:lex:br:federal:decreto:1868-05-20;4190",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE JAPARATUBA, DA PROVÍNCIA DE SERGIPE."
+    },
+    {
+      "senadoId": "403795",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-20-4191",
+      "titulo": "Decreto nº 4.191 de 20/05/1868",
+      "data": "1868-05-20",
+      "numero": "4191",
+      "urn": "urn:lex:br:federal:decreto:1868-05-20;4191",
+      "ementa": "MARCA O UNIFORME PARA O 2º BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403775",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4186",
+      "titulo": "Decreto nº 4.186 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4186",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4186",
+      "ementa": "PRORROGA POR CINCO ANOS O PROVILÉGIO CONCEDIDO AOS VAPORES DE MESQUITA & C.ª QUE NAVEGÃO ENTRE O PORTO DESTA CÔRTE E O DA CIDADE DE SANTOS, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403763",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4183",
+      "titulo": "Decreto nº 4.183 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4183",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4183",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NO MUNICIPIO DA TAPERA, DA PROVINCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403771",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4185",
+      "titulo": "Decreto nº 4.185 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4185",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4185",
+      "ementa": "CRIA MAIS UM BATALÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE MAMANGUAPE, DA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "403779",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4187",
+      "titulo": "Decreto nº 4.187 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4187",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4187",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA DE TRANSPORTES MARÍTIMOS."
+    },
+    {
+      "senadoId": "403787",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4189",
+      "titulo": "Decreto nº 4.189 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4189",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4189",
+      "ementa": "CONCEDE AO VAPOR \"URUGUAY\", DE PROPRIEDADE DE ANTONIO ELENTERIO DE CAMARGO E OUTROS, AS VANTAGENS DE PAQUETES."
+    },
+    {
+      "senadoId": "403783",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4188",
+      "titulo": "Decreto nº 4.188 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4188",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4188",
+      "ementa": "APROVA OS ESTATUTOS DA COMPANHIA DE SERRARIA A VAPOR DA CIDADE DE TEREZINA E CONCEDE AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "403767",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-16-4184",
+      "titulo": "Decreto nº 4.184 de 16/05/1868",
+      "data": "1868-05-16",
+      "numero": "4184",
+      "urn": "urn:lex:br:federal:decreto:1868-05-16;4184",
+      "ementa": "ALTERA A ORGANIZAÇÃO DOS BATALHÕES DE INFÂNTARIA NºS 37 E 38 DA GUARDA NACIONAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403759",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-13-4182",
+      "titulo": "Decreto nº 4.182 de 13/05/1868",
+      "data": "1868-05-13",
+      "numero": "4182",
+      "urn": "urn:lex:br:federal:decreto:1868-05-13;4182",
+      "ementa": "MANDA ADOTAR O PLANO PARA A CONSTRUÇÃO DOS NAVIOS, DE QUE SE DEVE COMPOR A ARMADA NACIONAL."
+    },
+    {
+      "senadoId": "403739",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4177",
+      "titulo": "Decreto nº 4.177 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4177",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4177",
+      "ementa": "CONCEDE A COMPANHIA - LEVERPOOL LONDON AND GLOB INSURANCE COMPANY - AUTORIZAÇÃO PARA ESTABELECER AGÊNCIA NESTA CAPITAL."
+    },
+    {
+      "senadoId": "403755",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4181",
+      "titulo": "Decreto nº 4.181 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4181",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4181",
+      "ementa": "DÁ REGULAMENTO PARA A COBRANÇA DAS MULTAS APLICADAS A FAZENDA PÚBLICA."
+    },
+    {
+      "senadoId": "403736",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4176",
+      "titulo": "Decreto nº 4.176 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4176",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4176",
+      "ementa": "MANDA OBSERVAR O REGULAMENTO SOBRE PASSAPORTES PARA FORA DO IMPÉRIO."
+    },
+    {
+      "senadoId": "403732",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4175",
+      "titulo": "Decreto nº 4.175 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4175",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4175",
+      "ementa": "ALTERA ALGUMAS DISPOSIÇÕES DO REGULAMENTO DAS ALFÂNDEGAS."
+    },
+    {
+      "senadoId": "403743",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4178",
+      "titulo": "Decreto nº 4.178 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4178",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4178",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA COMPANHIA BRASILEIRA DE PAQUETES A VAPOR."
+    },
+    {
+      "senadoId": "403751",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4180",
+      "titulo": "Decreto nº 4.180 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4180",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4180",
+      "ementa": "CONCEDE A COMPANHIA DE NAVEGAÇÃO A VAPOR DO PACÍFICO VÁRIOS FAVORES."
+    },
+    {
+      "senadoId": "403747",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4179",
+      "titulo": "Decreto nº 4.179 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4179",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4179",
+      "ementa": "PRORROGA POR CINCO ANOS O PRIVILÉGIO CONCEDIDO A COMPANHIA - LUZ STEARICA."
+    },
+    {
+      "senadoId": "403724",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4173",
+      "titulo": "Decreto nº 4.173 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4173",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4173",
+      "ementa": "REORGANIZA O CORPO DE FAZENDA DA ARMADA."
+    },
+    {
+      "senadoId": "403728",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4174",
+      "titulo": "Decreto nº 4.174 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4174",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4174",
+      "ementa": "REORGANIZA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA MARINHA."
+    },
+    {
+      "senadoId": "403720",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-06-4172",
+      "titulo": "Decreto nº 4.172 de 06/05/1868",
+      "data": "1868-05-06",
+      "numero": "4172",
+      "urn": "urn:lex:br:federal:decreto:1868-05-06;4172",
+      "ementa": "REORGANIZA O 4º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO MUNICÍPIO DA CÔRTE."
+    },
+    {
+      "senadoId": "403716",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-05-02-4171",
+      "titulo": "Decreto nº 4.171 de 02/05/1868",
+      "data": "1868-05-02",
+      "numero": "4171",
+      "urn": "urn:lex:br:federal:decreto:1868-05-02;4171",
+      "ementa": "REORGANIZA A SECRETARIA DE ESTADO DOS NEGÓCIOS ESTRANGEIROS."
+    },
+    {
+      "senadoId": "403715",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-30-4170-a",
+      "titulo": "Decreto nº 4.170-A de 30/04/1868",
+      "data": "1868-04-30",
+      "numero": "4170-a",
+      "urn": "urn:lex:br:federal:decreto:1868-04-30;4170-a",
+      "ementa": "ABRINDO AO MINISTÉRIO DA FAZENDA UM CRÉDITO COMPLEMENTAR DE 9.224:254$570 PARA DIVERSOS RUBRICAS DO MESMO MINISTÉRIO NO EXERCÍCIO DE 1867-1868."
+    },
+    {
+      "senadoId": "403702",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-29-4167-a",
+      "titulo": "Decreto nº 4.167-A de 29/04/1868",
+      "data": "1868-04-29",
+      "numero": "4167-a",
+      "urn": "urn:lex:br:federal:decreto:1868-04-29;4167-a",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO A 6ª SEÇÃO DE COMPANHIA DO SERVIÇO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403703",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-29-4168",
+      "titulo": "Decreto nº 4.168 de 29/04/1868",
+      "data": "1868-04-29",
+      "numero": "4168",
+      "urn": "urn:lex:br:federal:decreto:1868-04-29;4168",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A 1ª SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403711",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-29-4170",
+      "titulo": "Decreto nº 4.170 de 29/04/1868",
+      "data": "1868-04-29",
+      "numero": "4170",
+      "urn": "urn:lex:br:federal:decreto:1868-04-29;4170",
+      "ementa": "MARCA O PRIMEIRO UNIFORME PARA O ESQUADRÃO DE CAVALARIA NÚMERO 11 DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403698",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-29-4167",
+      "titulo": "Decreto nº 4.167 de 29/04/1868",
+      "data": "1868-04-29",
+      "numero": "4167",
+      "urn": "urn:lex:br:federal:decreto:1868-04-29;4167",
+      "ementa": "REFORMA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS."
+    },
+    {
+      "senadoId": "403707",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-29-4169",
+      "titulo": "Decreto nº 4.169 de 29/04/1868",
+      "data": "1868-04-29",
+      "numero": "4169",
+      "urn": "urn:lex:br:federal:decreto:1868-04-29;4169",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A SEÇÃO DO BATALHÃO DA RESERVA NÚMERO 5 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403694",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-25-4166",
+      "titulo": "Decreto nº 4.166 de 25/04/1868",
+      "data": "1868-04-25",
+      "numero": "4166",
+      "urn": "urn:lex:br:federal:decreto:1868-04-25;4166",
+      "ementa": "HABILITA A MESA DE RENDAS DE ITAJAHY DA PROVÍNCIA DE SANTA CATARINA PARA O DESPACHO DE IMPORTAÇÃO E EXPORTAÇÃO DE GÊNEROS NACIONAIS E ESTRANGEIROS."
+    },
+    {
+      "senadoId": "403670",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4160",
+      "titulo": "Decreto nº 4.160 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4160",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4160",
+      "ementa": "ELEVA A CATEGORIA DE CORPO, O SEGUNDO ESQUADRÃO DE CAVALARIA DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PEDRO DO RIO GRANDE DO SUL."
+    },
+    {
+      "senadoId": "403690",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4165",
+      "titulo": "Decreto nº 4.165 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4165",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4165",
+      "ementa": "MARCA OS UNIFORMES PARA O 1º BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403674",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4161",
+      "titulo": "Decreto nº 4.161 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4161",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4161",
+      "ementa": "MARCA O SEGUNDO UNIFORME PARA O BATALHÃO DE INFANTARIA NÚMERO 54 DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403686",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4164",
+      "titulo": "Decreto nº 4.164 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4164",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4164",
+      "ementa": "ELEVA A CATEGORIA DE CORPO O ESQUADRÃO DE CAVALARIA NÚMERO 5 ORGANIZADO NO MUNICÍPIO DO BANANAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403682",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4163",
+      "titulo": "Decreto nº 4.163 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4163",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4163",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE MARANGUAPE DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403678",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4162",
+      "titulo": "Decreto nº 4.162 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4162",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4162",
+      "ementa": "MARCA O SEGUNDO UNIFORME PARA O BATALHÃO DE INFANTARIA NÚMERO 55 DA GUARDA NACIONAL DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403666",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-22-4159",
+      "titulo": "Decreto nº 4.159 de 22/04/1868",
+      "data": "1868-04-22",
+      "numero": "4159",
+      "urn": "urn:lex:br:federal:decreto:1868-04-22;4159",
+      "ementa": "REFORMA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA JUSTIÇA."
+    },
+    {
+      "senadoId": "403662",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-21-4158",
+      "titulo": "Decreto nº 4.158 de 21/04/1868",
+      "data": "1868-04-21",
+      "numero": "4158",
+      "urn": "urn:lex:br:federal:decreto:1868-04-21;4158",
+      "ementa": "FAZ EXTENSIVA AOS OFICIAIS E PRAÇAS DA FLOTILHA DE MATO GROSSO A MEDALHA CONCEDIDA A GUARNIÇÃO DO FORTE DE COIMBRA."
+    },
+    {
+      "senadoId": "403654",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-17-4156",
+      "titulo": "Decreto nº 4.156 de 17/04/1868",
+      "data": "1868-04-17",
+      "numero": "4156",
+      "urn": "urn:lex:br:federal:decreto:1868-04-17;4156",
+      "ementa": "APROVA O REGULAMENTO PARA A SECRETARIA DE ESTADO DOS NEGÓCIOS DA GUERRA E REPARTIÇÕES ANEXAS."
+    },
+    {
+      "senadoId": "403658",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-17-4157",
+      "titulo": "Decreto nº 4.157 de 17/04/1868",
+      "data": "1868-04-17",
+      "numero": "4157",
+      "urn": "urn:lex:br:federal:decreto:1868-04-17;4157",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA FLUVIAL PARAENSE E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "403650",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-15-4155",
+      "titulo": "Decreto nº 4.155 de 15/04/1868",
+      "data": "1868-04-15",
+      "numero": "4155",
+      "urn": "urn:lex:br:federal:decreto:1868-04-15;4155",
+      "ementa": "ALTERA AS TAXAS DE CUNHAGEM E OUTROS SERVIÇOS DA CASA DA MOEDA."
+    },
+    {
+      "senadoId": "403646",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-13-4154",
+      "titulo": "Decreto nº 4.154 de 13/04/1868",
+      "data": "1868-04-13",
+      "numero": "4154",
+      "urn": "urn:lex:br:federal:decreto:1868-04-13;4154",
+      "ementa": "REORGANIZA A SECRETARIA DE ESTADO DOS NEGÓCIOS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "403642",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-06-4153",
+      "titulo": "Decreto nº 4.153 de 06/04/1868",
+      "data": "1868-04-06",
+      "numero": "4153",
+      "urn": "urn:lex:br:federal:decreto:1868-04-06;4153",
+      "ementa": "REORGANIZA O TESOURO NACIONAL E TESOURARIAS, E ESTABELECE ALGUMAS REGRAS SOBRE EMPREGADOS DE FAZENDA."
+    },
+    {
+      "senadoId": "403611",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4145",
+      "titulo": "Decreto nº 4.145 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4145",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4145",
+      "ementa": "CONCEDE A COMPANHIA - BOTANICAL GALDEA RAIL ROAD COMPANY - A NECESSÁRIA AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "403603",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4143",
+      "titulo": "Decreto nº 4.143 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4143",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4143",
+      "ementa": "FAZ EXTENSIVO A ARMADA O DECRETO, QUE CRIOU UMA MEDALHA DE MERITO PARA OS PRAÇAS DO EXERCITO."
+    },
+    {
+      "senadoId": "403626",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4149",
+      "titulo": "Decreto nº 4.149 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4149",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4149",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE ALAGOA GRANDE E ALAGOA NOVA DA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "403630",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4150",
+      "titulo": "Decreto nº 4.150 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4150",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4150",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A SEÇÃO DE BATALHÃO DE INFANTARIA NÚMERO 2 DO SERVIÇO ATIVO, ORGANIZADA NO MUNICÍPIO DE MARIA PEREIRA, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403599",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4142",
+      "titulo": "Decreto nº 4.142 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4142",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4142",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS UM SERGIPE."
+    },
+    {
+      "senadoId": "403634",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4151",
+      "titulo": "Decreto nº 4.151 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4151",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4151",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DO DISTRITO DE SÃO JOÃO DO PRÍNCIPE E ANEXOS DA PROVÍNCIA DO CEARÁ, A GUARDA NACIONAL PERTENCENTE AOS MUNICÍPIOS DO QUIXERAMOBIM E JAGUARIBE-MIRIM DA MESMA PROVÍNCIA, E CRIA COM ELA UM NOVO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "403607",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4144",
+      "titulo": "Decreto nº 4.144 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4144",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4144",
+      "ementa": "REGULA A CONCESSÃO DA ORDEM DE SÃO BENTO DE AVIZ."
+    },
+    {
+      "senadoId": "403622",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4148",
+      "titulo": "Decreto nº 4.148 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4148",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4148",
+      "ementa": "CRIA UM BATALHÃO DA RESERVA NO MUNICÍPIO DE PONTE NOVA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403618",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4147",
+      "titulo": "Decreto nº 4.147 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4147",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4147",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DA PONTE NOVA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403615",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4146",
+      "titulo": "Decreto nº 4.146 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4146",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4146",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NA FREGUESIA DE ABRE CAMPO, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403638",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-05-4152",
+      "titulo": "Decreto nº 4.152 de 05/04/1868",
+      "data": "1868-04-05",
+      "numero": "4152",
+      "urn": "urn:lex:br:federal:decreto:1868-04-05;4152",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DA CIDADE DA GRANJA, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403595",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4141",
+      "titulo": "Decreto nº 4.141 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4141",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4141",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NAS FREGUESIAS DE ITAQUERY, BELÉM E SANTA RITA DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403587",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4139",
+      "titulo": "Decreto nº 4.139 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4139",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4139",
+      "ementa": "CRIA UM BATALHÃO DA RESERVA DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE SERRA NEGRA E AMPARO, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403591",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4140",
+      "titulo": "Decreto nº 4.140 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4140",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4140",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO NÚMERO 28 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403580",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4137",
+      "titulo": "Decreto nº 4.137 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4137",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4137",
+      "ementa": "DECLARA DE PRIMEIRA ENTRÂNCIA A COMARCA DA BAGAGEM, CRIADA NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403583",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4138",
+      "titulo": "Decreto nº 4.138 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4138",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4138",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DA BAGAGEM, CRIADA NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403577",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4136",
+      "titulo": "Decreto nº 4.136 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4136",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4136",
+      "ementa": "MARCA O PRIMEIRO E SEGUNDO UNIFORMES PARA O BATALHÃO DE INFANTARIA Nº 15 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403573",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-04-01-4135",
+      "titulo": "Decreto nº 4.135 de 01/04/1868",
+      "data": "1868-04-01",
+      "numero": "4135",
+      "urn": "urn:lex:br:federal:decreto:1868-04-01;4135",
+      "ementa": "ABRE AO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS UM CRÉDITO SUPLEMENTAR DE 172:248$529, TENDO 69:488$888 DE SER APLICADO AS DESPESAS DO § 4º DA LEI DO ORÇAMENTO EM VIGOR, E 102:759$641 AS DO § 3º DE MESMO ARTIGO."
+    },
+    {
+      "senadoId": "403570",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-28-4134",
+      "titulo": "Decreto nº 4.134 de 28/03/1868",
+      "data": "1868-03-28",
+      "numero": "4134",
+      "urn": "urn:lex:br:federal:decreto:1868-03-28;4134",
+      "ementa": "AUTORIZA O CRÉDITO EXTRAORDINÁRIO DE 22.993:717$870 PARA AS DESPESAS DE DIVERSAS RÚBRICAS DO MINISTÉRIO DA GUERRA NO EXERCÍCIO DE 1867-1868."
+    },
+    {
+      "senadoId": "403551",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-28-4129",
+      "titulo": "Decreto nº 4.129 de 28/03/1868",
+      "data": "1868-03-28",
+      "numero": "4129",
+      "urn": "urn:lex:br:federal:decreto:1868-03-28;4129",
+      "ementa": "MANDA PROCEDER A NOVA MATRICULA GERAL DOS ESCRAVOS, E DA REGULAMENTO PARA A ARRECADAÇÃO DA RESPECTIVA TAXA."
+    },
+    {
+      "senadoId": "403559",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-28-4131",
+      "titulo": "Decreto nº 4.131 de 28/03/1868",
+      "data": "1868-03-28",
+      "numero": "4131",
+      "urn": "urn:lex:br:federal:decreto:1868-03-28;4131",
+      "ementa": "CRIA UMA MEDALHA DE MÉRITO PARA OS QUE SE DISTINGUIREM POR BRAVURA EM QUALQUER AÇÃO DE GUERRA."
+    },
+    {
+      "senadoId": "403555",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-28-4130",
+      "titulo": "Decreto nº 4.130 de 28/03/1868",
+      "data": "1868-03-28",
+      "numero": "4130",
+      "urn": "urn:lex:br:federal:decreto:1868-03-28;4130",
+      "ementa": "ELEVA A CATEGORIA DE ALFÂNDEGA A MESA DE RENDAS DE SÃO FRANCISCO."
+    },
+    {
+      "senadoId": "403567",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-28-4133",
+      "titulo": "Decreto nº 4.133 de 28/03/1868",
+      "data": "1868-03-28",
+      "numero": "4133",
+      "urn": "urn:lex:br:federal:decreto:1868-03-28;4133",
+      "ementa": "CONCEDE AO BARÃO DO RIO NEGRO E QUINTINO DE SOUZA BOCAYUVA PERMISSÃO PARA RESTAURAREM, A EMPRESA DE CARRIS DE FERRO ENTRE ESTA CIDADE E A SERRA DA TIJUCA."
+    },
+    {
+      "senadoId": "403563",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-28-4132",
+      "titulo": "Decreto nº 4.132 de 28/03/1868",
+      "data": "1868-03-28",
+      "numero": "4132",
+      "urn": "urn:lex:br:federal:decreto:1868-03-28;4132",
+      "ementa": "ALTERA O DECRETO NÚMERO 3.725 DE 31 DE OUTUBRO DE 1866 RELATIVO A CONSTRUÇÃO DE CARRIS DE FERRO DESTA CIDADE PARA O JARDIM BOTÂNICO."
+    },
+    {
+      "senadoId": "403531",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4124",
+      "titulo": "Decreto nº 4.124 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4124",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4124",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO, A SEÇÃO DE COMPANHIA DA RESERVA DA GUARDA NACIONAL, DO MUNICÍPIO DE SÃO BERNARDO, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403519",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4121",
+      "titulo": "Decreto nº 4.121 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4121",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4121",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO, NO MUNICÍPIO DE SÃO CARLOS DO PINHAL, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403523",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4122",
+      "titulo": "Decreto nº 4.122 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4122",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4122",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO, NA FREGUEZIA DE SÃO JOAQUIM DE GAROPABA, DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403515",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4120",
+      "titulo": "Decreto nº 4.120 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4120",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4120",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE JAÚ NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403543",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4127",
+      "titulo": "Decreto nº 4.127 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4127",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4127",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE ITAMBÉ DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403547",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4128",
+      "titulo": "Decreto nº 4.128 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4128",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4128",
+      "ementa": "MARCA OS DISTRITOS DO 2º CORPO DE CAVALARIA, E DO 1º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403539",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4126",
+      "titulo": "Decreto nº 4.126 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4126",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4126",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DO JABOTICABAL, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403535",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4125",
+      "titulo": "Decreto nº 4.125 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4125",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4125",
+      "ementa": "CRIA UMA COMPANHIA AVULSA DO SERVIÇO DA RESERVA NA FREGUEZIA DE SÃO JOAQUIM DE GAROPABA, DA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403527",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4123",
+      "titulo": "Decreto nº 4.123 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4123",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4123",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS NO MUNICÍPIO DE ITAMBÉ DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403511",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-18-4119",
+      "titulo": "Decreto nº 4.119 de 18/03/1868",
+      "data": "1868-03-18",
+      "numero": "4119",
+      "urn": "urn:lex:br:federal:decreto:1868-03-18;4119",
+      "ementa": "DESLIGA DOS COMANDOS SUPERIORES DA CAMPANHA E ITAJUBÁ, DA PROVÍNCIA DE MINAS GERAIS, A GUARDA NACIONAL, PERTENCENTE AS FREGUESIAS DO DOURADINHO E CARMO, ANEXANDO-A AO DA VILA FORMOSA DE ALFENAS DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "403503",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-14-4117",
+      "titulo": "Decreto nº 4.117 de 14/03/1868",
+      "data": "1868-03-14",
+      "numero": "4117",
+      "urn": "urn:lex:br:federal:decreto:1868-03-14;4117",
+      "ementa": "DETERMINA QUE A BORDO DO VAPOR \"AMAZONAS\" E DE ALGUNS ENCOURAÇADOS SE ICE NO MASTRO DE PRÔA A FITA DO CRUZEIRO, E SE FIXE NO CENTRO DA RODA DO LEME A VENERA DE OFICIAL DA MESMA ORDEM."
+    },
+    {
+      "senadoId": "403499",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-14-4116",
+      "titulo": "Decreto nº 4.116 de 14/03/1868",
+      "data": "1868-03-14",
+      "numero": "4116",
+      "urn": "urn:lex:br:federal:decreto:1868-03-14;4116",
+      "ementa": "CRIA UM MUSEU NO ARSENAL DE MARINHA DA CORTE."
+    },
+    {
+      "senadoId": "403507",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-14-4118",
+      "titulo": "Decreto nº 4.118 de 14/03/1868",
+      "data": "1868-03-14",
+      "numero": "4118",
+      "urn": "urn:lex:br:federal:decreto:1868-03-14;4118",
+      "ementa": "CRIA UMA MEDALHA COMEMORATIVA DO FORÇAMENTO DO PASSO DE ILUMAITÁ."
+    },
+    {
+      "senadoId": "403495",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-07-4115",
+      "titulo": "Decreto nº 4.115 de 07/03/1868",
+      "data": "1868-03-07",
+      "numero": "4115",
+      "urn": "urn:lex:br:federal:decreto:1868-03-07;4115",
+      "ementa": "PRORROGA O PRAZO DE DURAÇÃO DA COMPANHIA DE SEGUROS MARÍTIMOS FIDELIDADE, ESTABELECIDA NA CIDADE DO RIO GRANDE DA PROVÍNCIA DE SÃO PEDRO."
+    },
+    {
+      "senadoId": "403491",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-07-4114",
+      "titulo": "Decreto nº 4.114 de 07/03/1868",
+      "data": "1868-03-07",
+      "numero": "4114",
+      "urn": "urn:lex:br:federal:decreto:1868-03-07;4114",
+      "ementa": "CONCEDE MAIS TRÊS ANOS DE PRORROGAÇÃO DE PRAZO PARA COMEÇO DOS TRABALHOS DE PROLONGAMENTO DA RUA DO CORTUME, EM SÃO CHRISTOVÃO, À PRAIA DO SACO DO ALFERES."
+    },
+    {
+      "senadoId": "403487",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-03-04-4113",
+      "titulo": "Decreto nº 4.113 de 04/03/1868",
+      "data": "1868-03-04",
+      "numero": "4113",
+      "urn": "urn:lex:br:federal:decreto:1868-03-04;4113",
+      "ementa": "REGULA A COBRANÇA DO IMPOSTO DA TRANSMISSÃO DAS HERANÇAS E LEGADOS DE APÓLICES."
+    },
+    {
+      "senadoId": "403463",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-29-4107",
+      "titulo": "Decreto nº 4.107 de 29/02/1868",
+      "data": "1868-02-29",
+      "numero": "4107",
+      "urn": "urn:lex:br:federal:decreto:1868-02-29;4107",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO, A SEÇÃO DE BATALHÃO NÚMERO 10 DO SERVIÇO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403467",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-29-4108",
+      "titulo": "Decreto nº 4.108 de 29/02/1868",
+      "data": "1868-02-29",
+      "numero": "4108",
+      "urn": "urn:lex:br:federal:decreto:1868-02-29;4108",
+      "ementa": "MARCA OS UNIFORMES PARA O BATALHÃO DE INFANTARIA Nº 19 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403471",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-29-4109",
+      "titulo": "Decreto nº 4.109 de 29/02/1868",
+      "data": "1868-02-29",
+      "numero": "4109",
+      "urn": "urn:lex:br:federal:decreto:1868-02-29;4109",
+      "ementa": "MARCA OS UNIFORMES PARA O BATALHÃO DE INFANTARIA Nº 20 DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403483",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-29-4112",
+      "titulo": "Decreto nº 4.112 de 29/02/1868",
+      "data": "1868-02-29",
+      "numero": "4112",
+      "urn": "urn:lex:br:federal:decreto:1868-02-29;4112",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIROS NA CIDADE DE SANTOS, PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403475",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-29-4110",
+      "titulo": "Decreto nº 4.110 de 29/02/1868",
+      "data": "1868-02-29",
+      "numero": "4110",
+      "urn": "urn:lex:br:federal:decreto:1868-02-29;4110",
+      "ementa": "ALTERA A PENALIDADE, A QUE ESTÃO SUJEITAS AS PRAÇAS DO BATALHÃO NAVAL PELO CRIME DE DESERÇÃO."
+    },
+    {
+      "senadoId": "403479",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-29-4111",
+      "titulo": "Decreto nº 4.111 de 29/02/1868",
+      "data": "1868-02-29",
+      "numero": "4111",
+      "urn": "urn:lex:br:federal:decreto:1868-02-29;4111",
+      "ementa": "REORGANIZA O SERVIÇO DE FAZENDA NOS CORPOS DE MARINHA."
+    },
+    {
+      "senadoId": "403451",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-22-4104",
+      "titulo": "Decreto nº 4.104 de 22/02/1868",
+      "data": "1868-02-22",
+      "numero": "4104",
+      "urn": "urn:lex:br:federal:decreto:1868-02-22;4104",
+      "ementa": "APROVA OS ESTATUTOS DA SOCIEDADE BRASILEIRA DE SEGURO MUTUO SOBRE A VIDA, DENOMINADA - BENFEITORA."
+    },
+    {
+      "senadoId": "403459",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-22-4106",
+      "titulo": "Decreto nº 4.106 de 22/02/1868",
+      "data": "1868-02-22",
+      "numero": "4106",
+      "urn": "urn:lex:br:federal:decreto:1868-02-22;4106",
+      "ementa": "CONCEDE A COMPANHIA INGLESA - CEARÁ WALTER WOOKS COMPANY, LIMITED - A NECESSARIA AUTORIZAÇÃO PARA FUNCIONAR."
+    },
+    {
+      "senadoId": "403455",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-22-4105",
+      "titulo": "Decreto nº 4.105 de 22/02/1868",
+      "data": "1868-02-22",
+      "numero": "4105",
+      "urn": "urn:lex:br:federal:decreto:1868-02-22;4105",
+      "ementa": "REGULA A CONCESSÃO DOS TERRENOS DE MARINHA, DOS RESERVADOS NAS MARGENS DOS RIOS E DOS ACRESCIDOS NATURAL OU ARTIFICIALMENTE."
+    },
+    {
+      "senadoId": "403447",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-19-4103",
+      "titulo": "Decreto nº 4.103 de 19/02/1868",
+      "data": "1868-02-19",
+      "numero": "4103",
+      "urn": "urn:lex:br:federal:decreto:1868-02-19;4103",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO, A SEÇÃO DE BATALHÃO DE INFÂNTARIA DA GUARDA NACIONAL DO SERVIÇO DA RESERVA, ORGANIZADA NOS MUNICÍPIOS DE ARÊAS, BARREIRAS, E QUELUZ DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403443",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-19-4102",
+      "titulo": "Decreto nº 4.102 de 19/02/1868",
+      "data": "1868-02-19",
+      "numero": "4102",
+      "urn": "urn:lex:br:federal:decreto:1868-02-19;4102",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA DE INFANTARIA DA GUARDA NACIONAL DO SERVIÇO DA RESERVA, ORGANIZADA NO MUNICÍPIO DO BANANAL, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "403439",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-15-4101",
+      "titulo": "Decreto nº 4.101 de 15/02/1868",
+      "data": "1868-02-15",
+      "numero": "4101",
+      "urn": "urn:lex:br:federal:decreto:1868-02-15;4101",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DA COMARCA DE SOBRAL, DA PROVÍNCIA DO CEARÁ, A GUARDA NACIONAL PERTECENTE AOS MUNICÍPIOS DE ACARACÚ E SANTA ANA DA MESMA PROVÍNCIA, E CRIA COM ELA UM OUTRO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "403435",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-12-4100",
+      "titulo": "Decreto nº 4.100 de 12/02/1868",
+      "data": "1868-02-12",
+      "numero": "4100",
+      "urn": "urn:lex:br:federal:decreto:1868-02-12;4100",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS DO SERVIÇO DA RESERVA NAS FREGUESIAS DE SÃO SEBASTIÃO, SOCORRO, MONTE E MADRE DE DEUS DO BOQUEIRÃO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403431",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-08-4099",
+      "titulo": "Decreto nº 4.099 de 08/02/1868",
+      "data": "1868-02-08",
+      "numero": "4099",
+      "urn": "urn:lex:br:federal:decreto:1868-02-08;4099",
+      "ementa": "REUNE AO TERMO DE VALENÇA O DE MARVÃO, AMBOS NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "403427",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-08-4098",
+      "titulo": "Decreto nº 4.098 de 08/02/1868",
+      "data": "1868-02-08",
+      "numero": "4098",
+      "urn": "urn:lex:br:federal:decreto:1868-02-08;4098",
+      "ementa": "CRIA NO TERMO DE VALENÇA NA PROVÍNCIA DO PIAUÍ UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "403423",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-04-4097",
+      "titulo": "Decreto nº 4.097 de 04/02/1868",
+      "data": "1868-02-04",
+      "numero": "4097",
+      "urn": "urn:lex:br:federal:decreto:1868-02-04;4097",
+      "ementa": "EXTINGUE O 2º BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403419",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-01-4096",
+      "titulo": "Decreto nº 4.096 de 01/02/1868",
+      "data": "1868-02-01",
+      "numero": "4096",
+      "urn": "urn:lex:br:federal:decreto:1868-02-01;4096",
+      "ementa": "CRIA UM ESQUADRÃO DE CAVALARIA DE GUARDAS NACIONAIS, NA FREGUEZIA DE POUSO ALTO DA PROVÍNCIA DE GOIÁS."
+    },
+    {
+      "senadoId": "403415",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-02-01-4095",
+      "titulo": "Decreto nº 4.095 de 01/02/1868",
+      "data": "1868-02-01",
+      "numero": "4095",
+      "urn": "urn:lex:br:federal:decreto:1868-02-01;4095",
+      "ementa": "ELEVA A TRINTA O NÚMERO DOS PENSIONISTAS GRATUITOS DO COLÉGIO DE PEDRO II."
+    },
+    {
+      "senadoId": "403398",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-29-4091",
+      "titulo": "Decreto nº 4.091 de 29/01/1868",
+      "data": "1868-01-29",
+      "numero": "4091",
+      "urn": "urn:lex:br:federal:decreto:1868-01-29;4091",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE FRANCEZA DE SOCORROS MUTUOS."
+    },
+    {
+      "senadoId": "403402",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-29-4092",
+      "titulo": "Decreto nº 4.092 de 29/01/1868",
+      "data": "1868-01-29",
+      "numero": "4092",
+      "urn": "urn:lex:br:federal:decreto:1868-01-29;4092",
+      "ementa": "PRORROGA O PRAZO DE DURAÇÃO DA COMPANHIA  - JUCUHY."
+    },
+    {
+      "senadoId": "403407",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-29-4093",
+      "titulo": "Decreto nº 4.093 de 29/01/1868",
+      "data": "1868-01-29",
+      "numero": "4093",
+      "urn": "urn:lex:br:federal:decreto:1868-01-29;4093",
+      "ementa": "DECLARA QUE O ARTIGO 2º DO DECRETO 2664 DE 10 DE OUTUBRO DE 1860 NÃO É APLICÁVEL AS NOTAS DO NOVO BANCO DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "403411",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-29-4094",
+      "titulo": "Decreto nº 4.094 de 29/01/1868",
+      "data": "1868-01-29",
+      "numero": "4094",
+      "urn": "urn:lex:br:federal:decreto:1868-01-29;4094",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DE GUARDAS NACIONAIS DO SERVIÇO ATIVO NO MUNICÍPIO DA TELHA, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "403394",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4090",
+      "titulo": "Decreto nº 4.090 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4090",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4090",
+      "ementa": "ELEVA A CATEGORIA DE CORPO, A COMPANHIA AVULSA DE CAVALARIA NUMERO QUATRO, DA GUARDA NACIONAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "403382",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4087",
+      "titulo": "Decreto nº 4.087 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4087",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4087",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DO MUNICÍPIO DO JUIZ DE FORA, E SUBORDINA AO DE ARYRUOCA DA PROVÍNCIA DE MINAS GERAIS, A GUARDA NACIONAL PERTENCENTE A FREGUESIA DE SANTA RITA DE JACOTINGA, DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "403386",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4088",
+      "titulo": "Decreto nº 4.088 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4088",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4088",
+      "ementa": "DESLIGA DO OITAVO BATALHÃO DA RESERVA DA PROVÍNCIA DO RIO DE JANEIRO, A GUARDA NACIONAL PERTENCENTE AO MUNICÍPIO DE NOVA FRIBURGO DA MESMA PROVÍNCIA, E CRIA COM ELA UMA SEÇÃO DE BATALHÃO."
+    },
+    {
+      "senadoId": "403366",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4083",
+      "titulo": "Decreto nº 4.083 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4083",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4083",
+      "ementa": "CONCEDE PRIVILÉGIO A JANOT JAQUES & FILHOS PARA FABRICAREM E VENDEREM NO IMPÉRIO A MACHINA QUE INVENTARÃO PARA CEVAR A MADIOCA."
+    },
+    {
+      "senadoId": "403378",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4086",
+      "titulo": "Decreto nº 4.086 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4086",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4086",
+      "ementa": "CONCEDE FAVORES A OTTO LINGER PARA A FUNDAÇÃO DE UM ESTABELECIMENTO DE INDÚSTRIA SERICA NO IMPÉRIO."
+    },
+    {
+      "senadoId": "403374",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4085",
+      "titulo": "Decreto nº 4.085 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4085",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4085",
+      "ementa": "PRORROGA NOVAMENTE O PRAZO CONCEDIDO AO VISCONDE DE BARBACENA PARA ORGANIZAR A COMPANHIA QUE SE ENCARREGUE DE LAVRAR AS MINAS DE CARVÃO DE PEDRA, EXISTENTES NO PASSA DOUS, DISTRITO DA LAGUNA, PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "403390",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4089",
+      "titulo": "Decreto nº 4.089 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4089",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4089",
+      "ementa": "ELEVA A CATEGORIA DE CORPO, A COMPANHIA AVULSA DE CAVALARIA NUMERO TRÊS, DA GUARDA NACIONAL DA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "403370",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-25-4084",
+      "titulo": "Decreto nº 4.084 de 25/01/1868",
+      "data": "1868-01-25",
+      "numero": "4084",
+      "urn": "urn:lex:br:federal:decreto:1868-01-25;4084",
+      "ementa": "CONCEDE A NECESSÁRIA AUTORIZAÇÃO A COMPANHIA INGLESA QUEEN INSURANCE - ESTABELECIDA EM LIVERPOOL, PARA ESTENDER SUAS OPERAÇÕES AO IMPÉRIO."
+    },
+    {
+      "senadoId": "403350",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-22-4079",
+      "titulo": "Decreto nº 4.079 de 22/01/1868",
+      "data": "1868-01-22",
+      "numero": "4079",
+      "urn": "urn:lex:br:federal:decreto:1868-01-22;4079",
+      "ementa": "ALTERA O PRIMEIRO UNIFORME DO CORPO DE CAVALARIA DA GUARDA NACIONAL DA CÔRTE."
+    },
+    {
+      "senadoId": "403354",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-22-4080",
+      "titulo": "Decreto nº 4.080 de 22/01/1868",
+      "data": "1868-01-22",
+      "numero": "4080",
+      "urn": "urn:lex:br:federal:decreto:1868-01-22;4080",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DO PRIMEIRO BATALHÃO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "403358",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-22-4081",
+      "titulo": "Decreto nº 4.081 de 22/01/1868",
+      "data": "1868-01-22",
+      "numero": "4081",
+      "urn": "urn:lex:br:federal:decreto:1868-01-22;4081",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DA RESERVA NAS FREGUESIAS DE NOSSA SENHORA DAS DORES DA CHAPADINHA E SÃO SEBASTIÃO DA VARGEM GRANDE, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "403362",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-22-4082",
+      "titulo": "Decreto nº 4.082 de 22/01/1868",
+      "data": "1868-01-22",
+      "numero": "4082",
+      "urn": "urn:lex:br:federal:decreto:1868-01-22;4082",
+      "ementa": "CONCEDE A CARLOS ALBERTO MORSING AUTORIZAÇÃO PARA ESTABELECER UMA LINHA DE DILIGÊNCIAS POR TRILHOS DE FERRO ENTRE A CÔRTE A OS BAIRROS DE SÃO CHISTOVÃO, CAJÚ, RIO COMPRIDO E SACO DO ALFERES."
+    },
+    {
+      "senadoId": "403346",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-18-4078",
+      "titulo": "Decreto nº 4.078 de 18/01/1868",
+      "data": "1868-01-18",
+      "numero": "4078",
+      "urn": "urn:lex:br:federal:decreto:1868-01-18;4078",
+      "ementa": "MARCA O SEGUNDO UNIFORME PARA O BATALHÃO DE INFÂNTARIA NÚMERO CENTO E VINTE SEIS DA GUARDA NACIONAL DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403342",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-18-4077",
+      "titulo": "Decreto nº 4.077 de 18/01/1868",
+      "data": "1868-01-18",
+      "numero": "4077",
+      "urn": "urn:lex:br:federal:decreto:1868-01-18;4077",
+      "ementa": "SUBORDINA AO COMANDO SUPERIOR DO MUNICÍPIO DE LENÇOIS A GUARDA NACIONAL PERTENCENTE A FREGUESIA DO CAMPESTRE, E AO DISTRITO DA CHAPADA VELHA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "403338",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-18-4076",
+      "titulo": "Decreto nº 4.076 de 18/01/1868",
+      "data": "1868-01-18",
+      "numero": "4076",
+      "urn": "urn:lex:br:federal:decreto:1868-01-18;4076",
+      "ementa": "ABRE AO MINISTÉRIO DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS UM CRÉDITO EXTRAORDINÁRIO DE 90:000$ PARA AS DESPESAS COM A EXPOSIÇÃO BRASILEIRA EM PARIS, E OUTRAS DE IGUAL NATUREZA NESTA CÔRTE, DURANTE O EXERCÍCIO DE 1867-1868."
+    },
+    {
+      "senadoId": "403334",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-18-4075",
+      "titulo": "Decreto nº 4.075 de 18/01/1868",
+      "data": "1868-01-18",
+      "numero": "4075",
+      "urn": "urn:lex:br:federal:decreto:1868-01-18;4075",
+      "ementa": "PROMULGA A DECLARAÇÃO ASSINADA EM BERNE AOS 7 DE SETEMBRO DE 1867, POR PARTE DO BRASIL E DA SUISSA PARA FIRMAR O SENTIDO E MODO DE EXECUÇÃO DO ARTIGO 9º DA CONVENÇÃO CONSULAR CELEBRADA ENTRE OS DOIS PAIZES EM 26 DE JANEIRO DE 1861."
+    },
+    {
+      "senadoId": "403317",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-11-4071",
+      "titulo": "Decreto nº 4.071 de 11/01/1868",
+      "data": "1868-01-11",
+      "numero": "4071",
+      "urn": "urn:lex:br:federal:decreto:1868-01-11;4071",
+      "ementa": "APROVA A REFORMA DOS ESTATUTOS DA SOCIEDADE MUSICAL DE BENETICENCIA."
+    },
+    {
+      "senadoId": "403330",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-11-4074",
+      "titulo": "Decreto nº 4.074 de 11/01/1868",
+      "data": "1868-01-11",
+      "numero": "4074",
+      "urn": "urn:lex:br:federal:decreto:1868-01-11;4074",
+      "ementa": "ELEVA A OITO O NÚMERO DE SEIS COMPANHIAS COM QUE FOI CRIADO O SEGUNDO BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "403321",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-11-4072",
+      "titulo": "Decreto nº 4.072 de 11/01/1868",
+      "data": "1868-01-11",
+      "numero": "4072",
+      "urn": "urn:lex:br:federal:decreto:1868-01-11;4072",
+      "ementa": "DECLARA DE PRIMEIRA ENTRANCIA A COMARCA DE VALENÇA, CRIADA NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "403325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-11-4073",
+      "titulo": "Decreto nº 4.073 de 11/01/1868",
+      "data": "1868-01-11",
+      "numero": "4073",
+      "urn": "urn:lex:br:federal:decreto:1868-01-11;4073",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE VALENÇA, CRIADA NA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "403301",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-08-4067",
+      "titulo": "Decreto nº 4.067 de 08/01/1868",
+      "data": "1868-01-08",
+      "numero": "4067",
+      "urn": "urn:lex:br:federal:decreto:1868-01-08;4067",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE GUARDAS NACIONAIS DO SERVIÇO DA RESERVA NO MUNICÍPIO DE SÃO BERNARDO DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "403305",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-08-4068",
+      "titulo": "Decreto nº 4.068 de 08/01/1868",
+      "data": "1868-01-08",
+      "numero": "4068",
+      "urn": "urn:lex:br:federal:decreto:1868-01-08;4068",
+      "ementa": "DESLIGA DO COMANDO SUPERIOR DOS MUNICÍPIOS DE SÃO BERNARDO E ANEXO DA PROVÍNCIA DO MARANHÃO, A GUARDA NACIONAL PERTENCENTE AO DISTRITO DE TUTOYA, DA MESMA PROVÍNCIA, E CRIA COM ELA UM OUTRO COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "403309",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-08-4069",
+      "titulo": "Decreto nº 4.069 de 08/01/1868",
+      "data": "1868-01-08",
+      "numero": "4069",
+      "urn": "urn:lex:br:federal:decreto:1868-01-08;4069",
+      "ementa": "MARCA O PRIMEIRO UNIFORME PARA O PRIMEIRO BATALHÃO DE ARTILHARIA DA GUARDA NACIONAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "403297",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-08-4066",
+      "titulo": "Decreto nº 4.066 de 08/01/1868",
+      "data": "1868-01-08",
+      "numero": "4066",
+      "urn": "urn:lex:br:federal:decreto:1868-01-08;4066",
+      "ementa": "CRIA UM BATALHÃO DE INFÂNTARIA DE GUARDAS NACIONAIS NA FREGUESIA DE BARREIRINHA DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "403313",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-08-4070",
+      "titulo": "Decreto nº 4.070 de 08/01/1868",
+      "data": "1868-01-08",
+      "numero": "4070",
+      "urn": "urn:lex:br:federal:decreto:1868-01-08;4070",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE LEOPOLDINA, DA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "403293",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-04-4065",
+      "titulo": "Decreto nº 4.065 de 04/01/1868",
+      "data": "1868-01-04",
+      "numero": "4065",
+      "urn": "urn:lex:br:federal:decreto:1868-01-04;4065",
+      "ementa": "CONCEDE ISENÇÃO DE DIREITOS DE ANCORAGEM A SOCIEDADE GERAL DE TANSPORTES MARÍTIMOS A VAPOR, EATABELECIDA EM PARIS E MARSELHA."
+    },
+    {
+      "senadoId": "403289",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1868-01-04-4064",
+      "titulo": "Decreto nº 4.064 de 04/01/1868",
+      "data": "1868-01-04",
+      "numero": "4064",
+      "urn": "urn:lex:br:federal:decreto:1868-01-04;4064",
+      "ementa": "CONCEDE A JOHN MAC GINITY & C.ª PERMISSÃO POR TRÊS ANOS PARA EXPLORAR, EM MINAS DE CHUMBO, FERRO E CARVÃO DE PEDRA NOS MUNICÍPIOS DE PORTO ALEGRE E SÃO LEOPOLDO, NA PROVÍNCIA DE SÃO PEDRO."
+    }
+  ],
+  "pendencias": []
+}

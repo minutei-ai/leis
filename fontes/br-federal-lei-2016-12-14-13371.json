@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-12-14-13371",
+  "titulo": "Lei nº 13.371 de 14/12/2016",
+  "data": "2016-12-14",
+  "fonte": "https://normas.leg.br/api/public/binario/43132e57-290f-4bb1-869d-4a1fda56726a/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-12-14;13371",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-12-14%3B13371&tipo_documento=maior-detalhe",
+  "sha256_dados": "8afb29f91931a936df24757155bf785df08303a2202a8df5016f67eeb7a6dfd2",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:00.043Z",
+  "sha256_fonte": "5f3b57d693264e40ad037b22eedb0f163967c5b36251d9c6e167cc88e367caa1",
+  "sha256_markdown": "06fd11dfb5095b6434a537827ed2c0b4327d553cea518872c0e2a74c9aaa4a1f"
+}

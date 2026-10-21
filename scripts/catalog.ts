@@ -43,21 +43,26 @@ export const catalog = Schema.decodeUnknownSync(Schema.Array(Source))([
   },
 ]);
 
+export const UpdatedVersion = Schema.Literal(
+  "texto atualizado pela Câmara na data de coleta",
+  "compilação atual disponibilizada pelo Senado",
+  "texto atualizado disponibilizado pela ALMG",
+  "texto atualizado disponibilizado pela Alesp",
+  "texto compilado disponibilizado pela Prefeitura de São Paulo",
+);
+
+export const OriginalVersion = Schema.Literal(
+  "publicação original disponibilizada pelo Senado",
+  "publicação original disponibilizada pela ALMG",
+  "publicação original disponibilizada pela Alesp",
+);
+
 export const Metadata = Schema.Struct({
   id: Source.fields.id,
   titulo: Schema.String,
   data: Schema.String,
   fonte: Schema.String,
-  versao: Schema.Literal(
-    "texto atualizado pela Câmara na data de coleta",
-    "compilação atual disponibilizada pelo Senado",
-    "publicação original disponibilizada pelo Senado",
-    "texto atualizado disponibilizado pela ALMG",
-    "publicação original disponibilizada pela ALMG",
-    "texto atualizado disponibilizado pela Alesp",
-    "publicação original disponibilizada pela Alesp",
-    "texto compilado disponibilizado pela Prefeitura de São Paulo",
-  ),
+  versao: Schema.Union(UpdatedVersion, OriginalVersion),
   urn: Schema.optional(Schema.NonEmptyString),
   dados: Schema.optional(Schema.NonEmptyString),
   sha256_dados: Schema.optional(Schema.NonEmptyString),

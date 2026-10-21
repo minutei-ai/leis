@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-11-17-13359",
+  "titulo": "Lei nº 13.359 de 17/11/2016",
+  "data": "2016-11-17",
+  "fonte": "https://normas.leg.br/api/public/binario/c3fc493e-fec3-4edd-b007-134438e38516/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-11-17;13359",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-11-17%3B13359&tipo_documento=maior-detalhe",
+  "sha256_dados": "e910e56c741d9a9df80b68c444f23231955707ac3bef43682f5d42dea97325fe",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:13.958Z",
+  "sha256_fonte": "cbe8ffa791f4610a3385455a0ba7dd2ab29bf9cf3e7e4b7b03dc396d5393fa97",
+  "sha256_markdown": "eec620d0008534fb5c8f8d12730a80c217422ddcbafcd9cfff84b71819d39a6d"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2018-04-04-13645",
+  "titulo": "Lei nº 13.645 de 04/04/2018",
+  "data": "2018-04-04",
+  "fonte": "https://normas.leg.br/api/public/binario/f805b1e0-44fb-4175-90ae-92f8e8923b36/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2018-04-04;13645",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2018-04-04%3B13645&tipo_documento=maior-detalhe",
+  "sha256_dados": "aa9be03d4894baea7df7befbe68c6073d70cb283b353e92a52753d68e1e5e4aa",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:51:04.064Z",
+  "sha256_fonte": "03ce8205167529ae410aafeac24ce261f2dff443c6334fab7ce77c97220d1d83",
+  "sha256_markdown": "5fad1d89e2a9f5099cdcaea1511b8ddf97fa840ba1ad9f88653bb18623db594b"
+}

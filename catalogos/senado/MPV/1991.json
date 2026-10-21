@@ -1,0 +1,119 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=1991",
+  "tipo": "MPV",
+  "ano": 1991,
+  "coletado_em": "2026-10-21T08:53:51.988Z",
+  "normas": [
+    {
+      "senadoId": "553483",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-12-05-301",
+      "titulo": "Medida Provisória nº 301 de 05/12/1991",
+      "data": "1991-12-05",
+      "numero": "301",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-12-05;301",
+      "ementa": "Dispõe sobre a cessão temporária de disponibilidades financeiras do Fundo   de Amparo ao Trabalhador - FAT para o Fundo de Previdência e Assistência Social   - FPAS."
+    },
+    {
+      "senadoId": "553481",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-12-05-300",
+      "titulo": "Medida Provisória nº 300 de 05/12/1991",
+      "data": "1991-12-05",
+      "numero": "300",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-12-05;300",
+      "ementa": "Reajusta valores da tabela progressiva para cálculo do imposto de renda."
+    },
+    {
+      "senadoId": "553479",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-10-01-299",
+      "titulo": "Medida Provisória nº 299 de 01/10/1991",
+      "data": "1991-10-01",
+      "numero": "299",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-10-01;299",
+      "ementa": "Interpreta a Lei n° 8.031, de 12 de abril de 1990."
+    },
+    {
+      "senadoId": "553477",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-07-29-298",
+      "titulo": "Medida Provisória nº 298 de 29/07/1991",
+      "data": "1991-07-29",
+      "numero": "298",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-07-29;298",
+      "ementa": "Dispõe sobre impostos e contribuições federais, disciplina a utilização de   cruzados novos e dá outras providências."
+    },
+    {
+      "senadoId": "553475",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-06-28-297",
+      "titulo": "Medida Provisória nº 297 de 28/06/1991",
+      "data": "1991-06-28",
+      "numero": "297",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-06-28;297",
+      "ementa": "Dispõe sobre os impostos e contribuições federais, disciplina a utilização   de cruzados novos, dá nova redação ao artigo 9º da Lei nº. 8.177, de 1º de março   de 1991, e dá outras providências."
+    },
+    {
+      "senadoId": "553473",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-05-29-296",
+      "titulo": "Medida Provisória nº 296 de 29/05/1991",
+      "data": "1991-05-29",
+      "numero": "296",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-05-29;296",
+      "ementa": "Altera a remuneração dos funcionários civis e militares da União e dá   outras providências."
+    },
+    {
+      "senadoId": "553471",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-01-31-295",
+      "titulo": "Medida Provisória nº 295 de 31/01/1991",
+      "data": "1991-01-31",
+      "numero": "295",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-01-31;295",
+      "ementa": "Estabelece regras sobre preços e salários e dá outras providências."
+    },
+    {
+      "senadoId": "553469",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-01-31-294",
+      "titulo": "Medida Provisória nº 294 de 31/01/1991",
+      "data": "1991-01-31",
+      "numero": "294",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-01-31;294",
+      "ementa": "Estabelece regras para a desindexação da economia e dá outras   providências."
+    },
+    {
+      "senadoId": "553467",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-01-17-293",
+      "titulo": "Medida Provisória nº 293 de 17/01/1991",
+      "data": "1991-01-17",
+      "numero": "293",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-01-17;293",
+      "ementa": "Dispõe sobre princípios de Política Agrícola, estabelecendo atribuições ao   Conselho Nacional de Política Agrícola - CNPA, tributação compensatória de   produtos agrícolas, amparo ao pequeno produtor e regras de fixação e liberação   dos estoques públicos."
+    },
+    {
+      "senadoId": "553463",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-01-03-291",
+      "titulo": "Medida Provisória nº 291 de 03/01/1991",
+      "data": "1991-01-03",
+      "numero": "291",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-01-03;291",
+      "ementa": "Dispõe sobre o reajustamento de aluguel na locação predial urbana."
+    },
+    {
+      "senadoId": "553465",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-1991-01-03-292",
+      "titulo": "Medida Provisória nº 292 de 03/01/1991",
+      "data": "1991-01-03",
+      "numero": "292",
+      "urn": "urn:lex:br:federal:medida.provisoria:1991-01-03;292",
+      "ementa": "Dispõe sobre a garantia de Salário Efetivo e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-12-02-13049",
+  "titulo": "Lei nº 13.049 de 02/12/2014",
+  "data": "2014-12-02",
+  "fonte": "https://normas.leg.br/api/public/binario/b989119f-95d3-4864-a70b-8cfaddd791f5/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-12-02;13049",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-12-02%3B13049&tipo_documento=maior-detalhe",
+  "sha256_dados": "67109307df6d52c5a3dd610cdb82c5aa1d1065c77acd0f6c5936f5d76e46f32a",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:10.624Z",
+  "sha256_fonte": "030f1a95a4059064ae8472fa920a18de6a60c971634a1189aba47f961931e7e2",
+  "sha256_markdown": "8a367d2a209b78b7bd5d673d430fc10313c7764ca890d0138edc7dad4e0217eb"
+}

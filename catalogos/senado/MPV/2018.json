@@ -1,0 +1,539 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2018",
+  "tipo": "MPV",
+  "ano": 2018,
+  "coletado_em": "2026-10-21T08:53:21.837Z",
+  "normas": [
+    {
+      "senadoId": "30762959",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-27-869",
+      "titulo": "Medida Provisória nº 869 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "869",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-27;869",
+      "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para dispor sobre a proteção de dados pessoais e para criar a Autoridade Nacional de Proteção de Dados, e dá outras providências."
+    },
+    {
+      "senadoId": "30762922",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-27-868",
+      "titulo": "Medida Provisória nº 868 de 27/12/2018",
+      "data": "2018-12-27",
+      "numero": "868",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-27;868",
+      "ementa": "Atualiza o marco legal do saneamento básico e altera a Lei nº 9.984, de 17 de julho de 2000, para atribuir à Agência Nacional de Águas competência para editar normas de referência nacionais sobre o serviço de saneamento; a Lei nº 10.768, de 19 de novembro de 2003, para alterar as atribuições do cargo de Especialista em Recursos Hídricos; a Lei nº 11.445, de 5 de janeiro de 2007, para aprimorar as condições estruturais do saneamento básico no País; e a Lei nº 13.529, de 4 de dezembro de 2017, para autorizar a União a participar de fundo com a finalidade exclusiva de financiar serviços técnicos especializados."
+    },
+    {
+      "senadoId": "30760674",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-26-867",
+      "titulo": "Medida Provisória nº 867 de 26/12/2018",
+      "data": "2018-12-26",
+      "numero": "867",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-26;867",
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para dispor sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental."
+    },
+    {
+      "senadoId": "30757568",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-20-866",
+      "titulo": "Medida Provisória nº 866 de 20/12/2018",
+      "data": "2018-12-20",
+      "numero": "866",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-20;866",
+      "ementa": "Autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A"
+    },
+    {
+      "senadoId": "30758016",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-20-865",
+      "titulo": "Medida Provisória nº 865 de 20/12/2018",
+      "data": "2018-12-20",
+      "numero": "865",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-20;865",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República, no valor de R$ 225.710.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30746631",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-17-864",
+      "titulo": "Medida Provisória nº 864 de 17/12/2018",
+      "data": "2018-12-17",
+      "numero": "864",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-17;864",
+      "ementa": "Dispõe sobre a transferência de recursos financeiros pela União ao Estado de Roraima para auxiliar nas ações relativas à intervenção federal, com o objetivo de pôr termo a grave comprometimento da ordem pública."
+    },
+    {
+      "senadoId": "30744328",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-13-863",
+      "titulo": "Medida Provisória nº 863 de 13/12/2018",
+      "data": "2018-12-13",
+      "numero": "863",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-13;863",
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica."
+    },
+    {
+      "senadoId": "30724679",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-04-862",
+      "titulo": "Medida Provisória nº 862 de 04/12/2018",
+      "data": "2018-12-04",
+      "numero": "862",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-04;862",
+      "ementa": "Altera a Lei nº 13.089, de 12 de janeiro de 2015, que institui o Estatuto da Metrópole."
+    },
+    {
+      "senadoId": "30724642",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-04-861",
+      "titulo": "Medida Provisória nº 861 de 04/12/2018",
+      "data": "2018-12-04",
+      "numero": "861",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-04;861",
+      "ementa": "Dispõe sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal e altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins."
+    },
+    {
+      "senadoId": "30723389",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-12-03-860",
+      "titulo": "Medida Provisória nº 860 de 03/12/2018",
+      "data": "2018-12-03",
+      "numero": "860",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-12-03;860",
+      "ementa": "Autoriza a doação de recursos financeiros para o Alto Comissariado das Nações Unidas para Refugiados e para a Organização Internacional para as Migrações para fins de acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária."
+    },
+    {
+      "senadoId": "30715595",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-11-26-859",
+      "titulo": "Medida Provisória nº 859 de 26/11/2018",
+      "data": "2018-11-26",
+      "numero": "859",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-11-26;859",
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço, para viabilizar a aplicação de recursos do Fundo em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde."
+    },
+    {
+      "senadoId": "30714354",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-11-23-858",
+      "titulo": "Medida Provisória nº 858 de 23/11/2018",
+      "data": "2018-11-23",
+      "numero": "858",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-11-23;858",
+      "ementa": "Dispõe sobre a extinção da empresa binacional Alcântara Cyclone Space."
+    },
+    {
+      "senadoId": "30707253",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-11-20-857",
+      "titulo": "Medida Provisória nº 857 de 20/11/2018",
+      "data": "2018-11-20",
+      "numero": "857",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-11-20;857",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 75.280.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "30702423",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-11-13-856",
+      "titulo": "Medida Provisória nº 856 de 13/11/2018",
+      "data": "2018-11-13",
+      "numero": "856",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-11-13;856",
+      "ementa": "Delega à Agência Nacional de Energia Elétrica - Aneel a responsabilidade pela contratação de prestador emergencial e temporário do serviço público de distribuição de energia elétrica."
+    },
+    {
+      "senadoId": "30702386",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-11-13-855",
+      "titulo": "Medida Provisória nº 855 de 13/11/2018",
+      "data": "2018-11-13",
+      "numero": "855",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-11-13;855",
+      "ementa": "Dispõe sobre o reconhecimento de direito a recursos associados às concessões de distribuição incluídas pelo art. 8º da Lei nº 12.783, de 11 de janeiro de 2013, altera a Lei nº 10.438, de 26 de abril de 2002, e dá outras providências."
+    },
+    {
+      "senadoId": "30228337",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-10-03-854",
+      "titulo": "Medida Provisória nº 854 de 03/10/2018",
+      "data": "2018-10-03",
+      "numero": "854",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-10-03;854",
+      "ementa": "Dispõe sobre a antecipação do pagamento dos honorários periciais nas ações em que o Instituto Nacional do Seguro Social seja parte e que tramitem nos Juizados Especiais Federais."
+    },
+    {
+      "senadoId": "27482332",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-09-25-853",
+      "titulo": "Medida Provisória nº 853 de 25/09/2018",
+      "data": "2018-09-25",
+      "numero": "853",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-09-25;853",
+      "ementa": "Reabre o prazo de opção para o regime de previdência complementar de que trata o § 7º do art. 3º da Lei nº 12.618, de 30 de abril de 2012."
+    },
+    {
+      "senadoId": "27478599",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-09-21-852",
+      "titulo": "Medida Provisória nº 852 de 21/09/2018",
+      "data": "2018-09-21",
+      "numero": "852",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-09-21;852",
+      "ementa": "Dispõe sobre a transferência de imóveis do Fundo do Regime Geral de Previdência Social para a União, sobre a administração, a alienação e a gestão dos imóveis da extinta Rede Ferroviária Federal S.A. - RFFSA, extingue o Fundo Contingente da Extinta RFFSA - FC e dispõe sobre a gestão dos imóveis da União."
+    },
+    {
+      "senadoId": "27474570",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-09-10-850",
+      "titulo": "Medida Provisória nº 850 de 10/09/2018",
+      "data": "2018-09-10",
+      "numero": "850",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-09-10;850",
+      "ementa": "Autoriza o Poder Executivo federal a instituir a Agência Brasileira de Museus Abram e dá outras providências."
+    },
+    {
+      "senadoId": "27474502",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-09-10-851",
+      "titulo": "Medida Provisória nº 851 de 10/09/2018",
+      "data": "2018-09-10",
+      "numero": "851",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-09-10;851",
+      "ementa": "Autoriza a administração pública a firmar instrumentos de parceria e termos de execução de programas, projetos e demais finalidades de interesse público com organizações gestoras de fundos patrimoniais e dá outras providências."
+    },
+    {
+      "senadoId": "27465738",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-08-31-849",
+      "titulo": "Medida Provisória nº 849 de 31/08/2018",
+      "data": "2018-08-31",
+      "numero": "849",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-08-31;849",
+      "ementa": "Posterga e cancela aumentos remuneratórios de pessoal civil da administração pública federal para exercícios subsequentes."
+    },
+    {
+      "senadoId": "27460578",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-08-16-848",
+      "titulo": "Medida Provisória nº 848 de 16/08/2018",
+      "data": "2018-08-16",
+      "numero": "848",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-08-16;848",
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço, para possibilitar a aplicação de recursos em operações de crédito destinadas às entidades hospitalares filantrópicas e sem fins lucrativos que participem de forma complementar do Sistema Único de Saúde."
+    },
+    {
+      "senadoId": "27443614",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-07-31-847",
+      "titulo": "Medida Provisória nº 847 de 31/07/2018",
+      "data": "2018-07-31",
+      "numero": "847",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-07-31;847",
+      "ementa": "Dispõe sobre a concessão de subvenção econômica na comercialização de óleo diesel rodoviário no território nacional, sob a forma de equalização de parte dos custos a que estão sujeitos os distribuidores de óleo diesel, nas importações."
+    },
+    {
+      "senadoId": "27443650",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-07-31-846",
+      "titulo": "Medida Provisória nº 846 de 31/07/2018",
+      "data": "2018-07-31",
+      "numero": "846",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-07-31;846",
+      "ementa": "Altera a Medida Provisória nº 841, de 11 de junho de 2018, que dispõe sobre o Fundo Nacional de Segurança Pública e sobre a destinação do produto da arrecadação das loterias, a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, e a Lei nº 11.473, de 10 de maio de 2007, que dispõe sobre cooperação federativa no âmbito da segurança pública."
+    },
+    {
+      "senadoId": "27442158",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-07-20-845",
+      "titulo": "Medida Provisória nº 845 de 20/07/2018",
+      "data": "2018-07-20",
+      "numero": "845",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-07-20;845",
+      "ementa": "Institui o Fundo Nacional de Desenvolvimento Ferroviário."
+    },
+    {
+      "senadoId": "27431998",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-07-06-844",
+      "titulo": "Medida Provisória nº 844 de 06/07/2018",
+      "data": "2018-07-06",
+      "numero": "844",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-07-06;844",
+      "ementa": "Atualiza o marco legal do saneamento básico e altera a Lei nº 9.984, de 17 de julho de 2000, para atribuir à Agência Nacional de Águas competência para editar normas de referência nacionais sobre o serviço de saneamento, a Lei nº 10.768, de 19 de novembro de 2003, para alterar as atribuições do cargo de Especialista em Recursos Hídricos, e a Lei nº 11.445, de 5 de janeiro de 2007, para aprimorar as condições estruturais do saneamento básico no País."
+    },
+    {
+      "senadoId": "27431688",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-07-05-843",
+      "titulo": "Medida Provisória nº 843 de 05/07/2018",
+      "data": "2018-07-05",
+      "numero": "843",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-07-05;843",
+      "ementa": "Estabelece requisitos obrigatórios para a comercialização de veículos no Brasil, institui o Programa Rota 2030 - Mobilidade e Logística e dispõe sobre o regime tributário de autopeças não produzidas."
+    },
+    {
+      "senadoId": "27409442",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-06-22-842",
+      "titulo": "Medida Provisória nº 842 de 22/06/2018",
+      "data": "2018-06-22",
+      "numero": "842",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-06-22;842",
+      "ementa": "Altera a Lei nº 13.340, de 28 de setembro de 2016, para conceder rebate para liquidação de operações de crédito rural do Programa Nacional de Fortalecimento da Agricultura Familiar, e revoga dispositivos da Lei nº 13.606, de 9 de janeiro de 2018."
+    },
+    {
+      "senadoId": "27395533",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-06-11-841",
+      "titulo": "Medida Provisória nº 841 de 11/06/2018",
+      "data": "2018-06-11",
+      "numero": "841",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-06-11;841",
+      "ementa": "Dispõe sobre o Fundo Nacional de Segurança Pública e sobre a destinação do produto da arrecadação das loterias."
+    },
+    {
+      "senadoId": "26923519",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-06-05-840",
+      "titulo": "Medida Provisória nº 840 de 05/06/2018",
+      "data": "2018-06-05",
+      "numero": "840",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-06-05;840",
+      "ementa": "Cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS."
+    },
+    {
+      "senadoId": "26917792",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-30-836",
+      "titulo": "Medida Provisória nº 836 de 30/05/2018",
+      "data": "2018-05-30",
+      "numero": "836",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-30;836",
+      "ementa": "Revoga dispositivos da Lei nº 10.865, de 30 de abril de 2004, e da Lei nº 11.196, de 21 de novembro de 2005, referentes à tributação especial da Contribuição para o PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social - Cofins, da Contribuição para o PIS/Pasep- Importação e da Cofins-Importação relativa à nafta e a outros produtos destinados a centrais petroquímicas."
+    },
+    {
+      "senadoId": "26917897",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-30-839",
+      "titulo": "Medida Provisória nº 839 de 30/05/2018",
+      "data": "2018-05-30",
+      "numero": "839",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-30;839",
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia e da Defesa, no valor de R$ 9.580.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26917827",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-30-837",
+      "titulo": "Medida Provisória nº 837 de 30/05/2018",
+      "data": "2018-05-30",
+      "numero": "837",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-30;837",
+      "ementa": "Institui indenização ao integrante da Carreira de Policial Rodoviário Federal."
+    },
+    {
+      "senadoId": "26917862",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-30-838",
+      "titulo": "Medida Provisória nº 838 de 30/05/2018",
+      "data": "2018-05-30",
+      "numero": "838",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-30;838",
+      "ementa": "Dispõe sobre a concessão de subvenção econômica à comercialização de óleo diesel."
+    },
+    {
+      "senadoId": "26916012",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-29-834",
+      "titulo": "Medida Provisória nº 834 de 29/05/2018",
+      "data": "2018-05-29",
+      "numero": "834",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-29;834",
+      "ementa": "Altera a Lei nº 13.606, de 9 de janeiro de 2018, para prorrogar o prazo de adesão ao Programa de Regularização Tributária Rural para 30 de outubro de 2018."
+    },
+    {
+      "senadoId": "26916047",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-29-835",
+      "titulo": "Medida Provisória nº 835 de 29/05/2018",
+      "data": "2018-05-29",
+      "numero": "835",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-29;835",
+      "ementa": "Autoriza o acesso aos estoques de milho em grãos do Governo federal do Programa de Vendas em Balcão da Companhia Nacional de Abastecimento aos criadores de aves e suínos e às indústrias de processamento de ração animal de todo o País."
+    },
+    {
+      "senadoId": "26913002",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-27-832",
+      "titulo": "Medida Provisória nº 832 de 27/05/2018",
+      "data": "2018-05-27",
+      "numero": "832",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-27;832",
+      "ementa": "Institui a Política de Preços Mínimos do Transporte Rodoviário de Cargas."
+    },
+    {
+      "senadoId": "26913037",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-27-833",
+      "titulo": "Medida Provisória nº 833 de 27/05/2018",
+      "data": "2018-05-27",
+      "numero": "833",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-27;833",
+      "ementa": "Altera a Lei nº 13.103, de 2 de março de 2015, para prever que, em todo o território nacional, os veículos de transporte de cargas que circularem vazios nas vias terrestres federais, estaduais, distritais e municipais ficarão isentos da cobrança de pedágio sobre os eixos que mantiverem suspensos."
+    },
+    {
+      "senadoId": "26912967",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-27-831",
+      "titulo": "Medida Provisória nº 831 de 27/05/2018",
+      "data": "2018-05-27",
+      "numero": "831",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-27;831",
+      "ementa": "Altera a Lei nº 8.029, de 12 de abril de 1990, que dispõe sobre a extinção e dissolução de entidades da administração  pública federal."
+    },
+    {
+      "senadoId": "26907512",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-21-830",
+      "titulo": "Medida Provisória nº 830 de 21/05/2018",
+      "data": "2018-05-21",
+      "numero": "830",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-21;830",
+      "ementa": "Extingue o Fundo Soberano do Brasil, criado pela Lei nº 11.887, de 24 de dezembro de 2008, e o Conselho Deliberativo do Fundo Soberano do Brasil."
+    },
+    {
+      "senadoId": "26887633",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-05-03-829",
+      "titulo": "Medida Provisória nº 829 de 03/05/2018",
+      "data": "2018-05-03",
+      "numero": "829",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-05-03;829",
+      "ementa": "Autoriza a prorrogação de contratos por tempo determinado no âmbito do Ministério da Cultura, do Ministério do Desenvolvimento Social e do Ministério da Ciência, Tecnologia, Inovações e Comunicações."
+    },
+    {
+      "senadoId": "26885378",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-04-27-828",
+      "titulo": "Medida Provisória nº 828 de 27/04/2018",
+      "data": "2018-04-27",
+      "numero": "828",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-04-27;828",
+      "ementa": "Altera a Lei nº 13.606, de 9 de janeiro de 2018, para prorrogar o prazo de adesão ao Programa de Regularização Tributária Rural - PRR para 30 de maio de 2018.\n"
+    },
+    {
+      "senadoId": "26544436",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-04-19-827",
+      "titulo": "Medida Provisória nº 827 de 19/04/2018",
+      "data": "2018-04-19",
+      "numero": "827",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-04-19;827",
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, quanto a direitos dos Agentes Comunitários de Saúde e dos Agentes de Combate."
+    },
+    {
+      "senadoId": "26535988",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-04-11-826",
+      "titulo": "Medida Provisória nº 826 de 11/04/2018",
+      "data": "2018-04-11",
+      "numero": "826",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-04-11;826",
+      "ementa": "Cria o cargo de Natureza Especial de Interventor Federal no Estado do Rio de Janeiro, cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Comissionadas do Poder Executivo - FCPE, destinados a compor o Gabinete de Intervenção Federal no Estado do Rio de Janeiro e dispõe sobre o pagamento da gratificação de representação de que trata a Medida Provisória nº 2.215-10, de 31 de agosto de 2001."
+    },
+    {
+      "senadoId": "26383133",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-03-27-825",
+      "titulo": "Medida Provisória nº 825 de 27/03/2018",
+      "data": "2018-03-27",
+      "numero": "825",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-03-27;825",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República, no valor de R$ 1.200.000.000,00, para os fins que especifica. "
+    },
+    {
+      "senadoId": "26382184",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-03-26-824",
+      "titulo": "Medida Provisória nº 824 de 26/03/2018",
+      "data": "2018-03-26",
+      "numero": "824",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-03-26;824",
+      "ementa": "Altera a Lei nº 12.787, de 11 de janeiro de 2013, que dispõe sobre a Política Nacional de Irrigação."
+    },
+    {
+      "senadoId": "26370313",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-03-09-823",
+      "titulo": "Medida Provisória nº 823 de 09/03/2018",
+      "data": "2018-03-09",
+      "numero": "823",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-03-09;823",
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 190.000.000,00, para os fins que especifica."
+    },
+    {
+      "senadoId": "26363211",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-03-01-822",
+      "titulo": "Medida Provisória nº 822 de 01/03/2018",
+      "data": "2018-03-01",
+      "numero": "822",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-03-01;822",
+      "ementa": "Altera a Lei nº 9.430, de 27 de dezembro de 1996, para dispor sobre a dispensa de retenção de tributos federais na aquisição de passagens aéreas pelos órgãos ou entidades da administração pública federal."
+    },
+    {
+      "senadoId": "26360660",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-02-26-821",
+      "titulo": "Medida Provisória nº 821 de 26/02/2018",
+      "data": "2018-02-26",
+      "numero": "821",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-02-26;821",
+      "ementa": "Altera a Lei nº 13.502, de 1º de novembro de 2017, que dispõe sobre organização básica da Presidência da República e dos Ministérios, para criar o Ministério Extraordinário da Segurança Pública."
+    },
+    {
+      "senadoId": "26356016",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-02-15-820",
+      "titulo": "Medida Provisória nº 820 de 15/02/2018",
+      "data": "2018-02-15",
+      "numero": "820",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-02-15;820",
+      "ementa": "Dispõe sobre medidas de assistência emergencial para acolhimento a pessoas em situação de vulnerabilidade decorrente de fluxo migratório provocado por crise humanitária."
+    },
+    {
+      "senadoId": "26347052",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-01-25-819",
+      "titulo": "Medida Provisória nº 819 de 25/01/2018",
+      "data": "2018-01-25",
+      "numero": "819",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-01-25;819",
+      "ementa": "Autoriza a União a doar recursos ao Estado da Palestina para a restauração da Basílica da Natividade."
+    },
+    {
+      "senadoId": "26343460",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-01-11-818",
+      "titulo": "Medida Provisória nº 818 de 11/01/2018",
+      "data": "2018-01-11",
+      "numero": "818",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-01-11;818",
+      "ementa": "Altera a Lei nº 13.089, de 12 de janeiro de 2015, que institui o Estatuto da Metrópole, e a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana."
+    },
+    {
+      "senadoId": "26336947",
+      "tipo": "MPV",
+      "id": "br-federal-medida-provisoria-2018-01-04-817",
+      "titulo": "Medida Provisória nº 817 de 04/01/2018",
+      "data": "2018-01-04",
+      "numero": "817",
+      "urn": "urn:lex:br:federal:medida.provisoria:2018-01-04;817",
+      "ementa": "Disciplina o disposto nas Emendas Constitucionais nº 60, de 11 de novembro de 2009, nº 79, de 27 de maio de 2014, e nº 98, de 6 de dezembro de 2017, dispõe sobre as tabelas de salários, vencimentos, soldos e demais vantagens aplicáveis aos servidores civis, aos militares e aos empregados dos ex-Territórios Federais, integrantes do quadro em extinção de que trata o art. 89 do Ato das Disposições Constitucionais Transitórias e o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, e dá outras providências."
+    }
+  ],
+  "pendencias": []
+}

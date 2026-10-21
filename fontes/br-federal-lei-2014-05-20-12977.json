@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-05-20-12977",
+  "titulo": "Lei nº 12.977 de 20/05/2014",
+  "data": "2014-05-20",
+  "fonte": "https://normas.leg.br/api/public/binario/3dcbd1d5-10c1-4773-8f2a-e4c7e7007863/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-05-20;12977",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-05-20%3B12977&tipo_documento=maior-detalhe",
+  "sha256_dados": "6c66aa48a3b0ac62b3a6d47eaf4fbbd86fffe7ffcee8c4a3b1cf6410498a6516",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:05:43.490Z",
+  "sha256_fonte": "663d78dd0f440958eb60b9e2ed1556ba7eca4b7b418cdfdf048e5785747418d2",
+  "sha256_markdown": "66cfa6066e6a78f00aa7e98431698d7b3c582c4031dc9e030047cf79a6eb8091"
+}

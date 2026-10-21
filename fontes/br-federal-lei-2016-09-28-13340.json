@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-09-28-13340",
+  "titulo": "Lei nº 13.340 de 28/09/2016",
+  "data": "2016-09-28",
+  "fonte": "https://normas.leg.br/api/public/binario/24390fa2-2fd0-4fc3-a580-af42ce9b8494/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-09-28;13340",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-09-28%3B13340&tipo_documento=maior-detalhe",
+  "sha256_dados": "582dfcf8e19168ee14facd616928d1ce1a8b74c83169b5a96d63d92c1b8b2386",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:40.019Z",
+  "sha256_fonte": "5597aea06c8e4f3fffde2a9773045cf404d1d834c14feeb1ff38ae3e558c1302",
+  "sha256_markdown": "22933f785e2acdccfc1876dd2285c9aa657ffd97bef20eb36ce824f311d3dbbd"
+}

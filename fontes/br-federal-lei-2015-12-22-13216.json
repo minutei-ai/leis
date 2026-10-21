@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2015-12-22-13216",
+  "titulo": "Lei nº 13.216 de 22/12/2015",
+  "data": "2015-12-22",
+  "fonte": "https://normas.leg.br/api/public/binario/3584f804-267b-45a6-8f2e-e331a61988d9/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2015-12-22;13216",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-12-22%3B13216&tipo_documento=maior-detalhe",
+  "sha256_dados": "3804a6aa93f4a0412ddc22ec8e0607c4a969838d9bb51e74aed6fb17a7530012",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:00:28.038Z",
+  "sha256_fonte": "736657a0e440e9966712ec1de4ab399d9ef0e05b166afbffa701adbddf7c96c3",
+  "sha256_markdown": "426483de8c6274be5a6518b871a47d6f96f3ac86fbea1fa56db2bbeafef56237"
+}

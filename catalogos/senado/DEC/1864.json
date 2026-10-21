@@ -1,0 +1,1559 @@
+{
+  "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=1864",
+  "tipo": "DEC",
+  "ano": 1864,
+  "coletado_em": "2026-10-21T08:52:30.365Z",
+  "normas": [
+    {
+      "senadoId": "400492",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-28-3368-a",
+      "titulo": "Decreto nº 3.368-A de 28/12/1864",
+      "data": "1864-12-28",
+      "numero": "3368-a",
+      "urn": "urn:lex:br:federal:decreto:1864-12-28;3368-a",
+      "ementa": "ORÇA A RECEITA E FIXA A DESPESA DA ILUSTRISSIMA CÂMARA MUNICIPAL PARA O ANO DE 1865."
+    },
+    {
+      "senadoId": "400488",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-28-3368",
+      "titulo": "Decreto nº 3.368 de 28/12/1864",
+      "data": "1864-12-28",
+      "numero": "3368",
+      "urn": "urn:lex:br:federal:decreto:1864-12-28;3368",
+      "ementa": "AUTORIZA O TRANSPORTE DA QUANTIA DE 1.180:482$000 DE UMAS PARA OUTRAS VERBAS DE DESPESA DO MINISTÉRIO DA FAZENDA NO EXERCÍCIO DE 1863-1864."
+    },
+    {
+      "senadoId": "400493",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-28-3369",
+      "titulo": "Decreto nº 3.369 de 28/12/1864",
+      "data": "1864-12-28",
+      "numero": "3369",
+      "urn": "urn:lex:br:federal:decreto:1864-12-28;3369",
+      "ementa": "DESIGNA A ORDEM SEGUNDO A QUAL DEVEM SER EXTRAÍDAS AS LOTERIAS NO ANO DE 1865."
+    },
+    {
+      "senadoId": "400480",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-24-3366",
+      "titulo": "Decreto nº 3.366 de 24/12/1864",
+      "data": "1864-12-24",
+      "numero": "3366",
+      "urn": "urn:lex:br:federal:decreto:1864-12-24;3366",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA FREGUESIA DE S. GONÇALO DE PEDRO II, DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "400484",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-24-3367",
+      "titulo": "Decreto nº 3.367 de 24/12/1864",
+      "data": "1864-12-24",
+      "numero": "3367",
+      "urn": "urn:lex:br:federal:decreto:1864-12-24;3367",
+      "ementa": "ELEVA A OITO COMPANHIAS O 3º BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA PROVÍNCIA DO MATO GROSSO DO SUL."
+    },
+    {
+      "senadoId": "400476",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-20-3365",
+      "titulo": "Decreto nº 3.365 de 20/12/1864",
+      "data": "1864-12-20",
+      "numero": "3365",
+      "urn": "urn:lex:br:federal:decreto:1864-12-20;3365",
+      "ementa": "ELEVA A OITO COMPANHIAS O BATALHÃO DE INFANTARIA NÚMERO 5 DO SERVIÇO ATIVO DA GUARDA NACIONAL DA PROVÍNCIA DAS ALAGOAS."
+    },
+    {
+      "senadoId": "400472",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-17-3364",
+      "titulo": "Decreto nº 3.364 de 17/12/1864",
+      "data": "1864-12-17",
+      "numero": "3364",
+      "urn": "urn:lex:br:federal:decreto:1864-12-17;3364",
+      "ementa": "PRORROGA AS DISPOSIÇÕES DO ARTIGO 486 PARÁGRAFO 2º NÚMERO 5 DO REGULAMENTO DAS ALFÂNDEGAS DO IMPÉRIO."
+    },
+    {
+      "senadoId": "400468",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-13-3363",
+      "titulo": "Decreto nº 3.363 de 13/12/1864",
+      "data": "1864-12-13",
+      "numero": "3363",
+      "urn": "urn:lex:br:federal:decreto:1864-12-13;3363",
+      "ementa": "PROMULGA A CONVENÇÃO CELEBRADA EM 6 DE SETEMBRO DE 1863, ENTRE O BRASIL E O REINO DA ITÁLIA PARA REGULAR A TROCA DA CORRESPONDÊNCIA ENTRE OS DOIS PAÍSES."
+    },
+    {
+      "senadoId": "400464",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-13-3362",
+      "titulo": "Decreto nº 3.362 de 13/12/1864",
+      "data": "1864-12-13",
+      "numero": "3362",
+      "urn": "urn:lex:br:federal:decreto:1864-12-13;3362",
+      "ementa": "DESANEXA O TERMO DE ARARUAMA DE SAQUAREMA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400460",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-12-3361",
+      "titulo": "Decreto nº 3.361 de 12/12/1864",
+      "data": "1864-12-12",
+      "numero": "3361",
+      "urn": "urn:lex:br:federal:decreto:1864-12-12;3361",
+      "ementa": "AUTORIZA O TRANSPORTE DA SOMA DE 296:833$689 DE UMAS PARA OUTRAS RUBRICAS DE DESPESA DO MINISTÉRIO DA MARINHA NO EXERCÍCIO DE 1864."
+    },
+    {
+      "senadoId": "400456",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-12-3360",
+      "titulo": "Decreto nº 3.360 de 12/12/1864",
+      "data": "1864-12-12",
+      "numero": "3360",
+      "urn": "urn:lex:br:federal:decreto:1864-12-12;3360",
+      "ementa": "RESCINDE O CONTRATO FEITO EM 23 DE JUNHO DE 1858 COM A CAMPANHA DE NAVEGAÇÃO POR VAPOR DO ALTO DO PARAGUAI."
+    },
+    {
+      "senadoId": "400452",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-10-3359",
+      "titulo": "Decreto nº 3.359 de 10/12/1864",
+      "data": "1864-12-10",
+      "numero": "3359",
+      "urn": "urn:lex:br:federal:decreto:1864-12-10;3359",
+      "ementa": "ALTERA O SEGUNDO UNIFORME DOS CORPOS DA GUARDA NACIONAL DA CIDADE DA PARAÍBA, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "400448",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-10-3358",
+      "titulo": "Decreto nº 3.358 de 10/12/1864",
+      "data": "1864-12-10",
+      "numero": "3358",
+      "urn": "urn:lex:br:federal:decreto:1864-12-10;3358",
+      "ementa": "CRIA NO TERMO DO EXÚ, NA PROVÍNCIA DE PERNAMBUCO, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400444",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-09-3357",
+      "titulo": "Decreto nº 3.357 de 09/12/1864",
+      "data": "1864-12-09",
+      "numero": "3357",
+      "urn": "urn:lex:br:federal:decreto:1864-12-09;3357",
+      "ementa": "CONCEDE Á COMPANHIA INGLESA - ANGLO-BRASILIAN GOLD COMPANY, LIMITED - A NECESSÁRIO AUTORIZAÇÃO PARA FUNCIONAR NO IMPÉRIO."
+    },
+    {
+      "senadoId": "400440",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-07-3356",
+      "titulo": "Decreto nº 3.356 de 07/12/1864",
+      "data": "1864-12-07",
+      "numero": "3356",
+      "urn": "urn:lex:br:federal:decreto:1864-12-07;3356",
+      "ementa": "AUTORIZA AO MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS INTERIORES DA JUSTIÇA A APLICAR AS DESPESAS  DAAS VERBAS - SECRETARIA DE ESTADO E TRIBUNAIS DO COMÉRCIO - NO EXERCÍCIO DE 1863 A 1864 A QUANTIA DE 4:894$823 TIRADA DAS SOBRAS DA VERBA - JUSTIÇA DE PRIMEIRA INSTÂNCIA DO MESMO EXERCÍCIO."
+    },
+    {
+      "senadoId": "400436",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-06-3355",
+      "titulo": "Decreto nº 3.355 de 06/12/1864",
+      "data": "1864-12-06",
+      "numero": "3355",
+      "urn": "urn:lex:br:federal:decreto:1864-12-06;3355",
+      "ementa": "ABRE AO MINISTÉRIO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA JUSTIÇA UM CRÉDITO EXTRAORDINÁRIO DA QUANTIA DE 30:000$000, PARA OCORRER NO EXERCÍCIO DE 1864 - 1865 ÁS DESPESAS COM A COMISSÃO REVISORA DO PROJETO DO CÓDIGO CIVIL."
+    },
+    {
+      "senadoId": "400432",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-03-3354",
+      "titulo": "Decreto nº 3.354 de 03/12/1864",
+      "data": "1864-12-03",
+      "numero": "3354",
+      "urn": "urn:lex:br:federal:decreto:1864-12-03;3354",
+      "ementa": "REUNE O TERMO DO RIACHÃO AO DA CAROLINA, NA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400428",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-12-03-3353",
+      "titulo": "Decreto nº 3.353 de 03/12/1864",
+      "data": "1864-12-03",
+      "numero": "3353",
+      "urn": "urn:lex:br:federal:decreto:1864-12-03;3353",
+      "ementa": "REUNE O TERMO DE ICATÚ AO DO ROSÁRIO, AMBOS DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400423",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-30-3352",
+      "titulo": "Decreto nº 3.352 de 30/11/1864",
+      "data": "1864-11-30",
+      "numero": "3352",
+      "urn": "urn:lex:br:federal:decreto:1864-11-30;3352",
+      "ementa": "APROVA AS ALTERAÇÕES PROPOSTAS PELA COMPANHIA - RIO DE JANEIRO CITY IMPROVEMENTS - NO PLANO DAS OBRAS DO DISTRITO 2."
+    },
+    {
+      "senadoId": "400427",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-30-3352-a",
+      "titulo": "Decreto nº 3.352-A de 30/11/1864",
+      "data": "1864-11-30",
+      "numero": "3352-a",
+      "urn": "urn:lex:br:federal:decreto:1864-11-30;3352-a",
+      "ementa": "CONCEDE A THOMAZ DENNY SARGENT FACULDADE PELO PRAZO DE NOVENTA ANOS PARA, POR SI OU POR MEIO DE UMA COMPANHIA, EXTRAIR TURFA, PETRÓLEO E OUTROS MINERAIS NAS COMARCAS DE CAMUMÚ E ILHÉUS, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400422",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-29-3351-a",
+      "titulo": "Decreto nº 3.351-A de 29/11/1864",
+      "data": "1864-11-29",
+      "numero": "3351-a",
+      "urn": "urn:lex:br:federal:decreto:1864-11-29;3351-a",
+      "ementa": "RECONHECE O DIREITO DOS HERDEIROS DO VISCONDE DE MARANGUAPE A CONCESSÃO FEITA PELO DECRETRO NÚMERO 887 DE 18 DE DEZEMBRO DE 1851; E APROVA AS CLÁUSULAS PARA O CONTRATO A QUE ALUDE O MESMO DECRETO."
+    },
+    {
+      "senadoId": "400417",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-29-3350-a",
+      "titulo": "Decreto nº 3.350-A de 29/11/1864",
+      "data": "1864-11-29",
+      "numero": "3350-a",
+      "urn": "urn:lex:br:federal:decreto:1864-11-29;3350-a",
+      "ementa": "MARCA OS PRAZOS, DENTRO DOS QUAIS OS CONCESSIONÁRIOS DE MINAS DEVEM COMEÇAR A LAVRÁ-LAS E RECOMEÇAR OS TRABALHOS INTERROMPIDOS."
+    },
+    {
+      "senadoId": "400413",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-29-3350",
+      "titulo": "Decreto nº 3.350 de 29/11/1864",
+      "data": "1864-11-29",
+      "numero": "3350",
+      "urn": "urn:lex:br:federal:decreto:1864-11-29;3350",
+      "ementa": "ALTERA A ORGANIZAÇÃO DO BATALHÃO DE INFANTARIA NÚMERO TREZE DA GUARDA NACIONAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400418",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-29-3351",
+      "titulo": "Decreto nº 3.351 de 29/11/1864",
+      "data": "1864-11-29",
+      "numero": "3351",
+      "urn": "urn:lex:br:federal:decreto:1864-11-29;3351",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA NO MUNICÍPIO DE BRAGANÇA DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400405",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-28-3348",
+      "titulo": "Decreto nº 3.348 de 28/11/1864",
+      "data": "1864-11-28",
+      "numero": "3348",
+      "urn": "urn:lex:br:federal:decreto:1864-11-28;3348",
+      "ementa": "ORGANIZA A GUARDA NACIONAL DOS MUNICÍPIOS DE IPÚ E TAMBERIL, DA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400409",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-28-3349",
+      "titulo": "Decreto nº 3.349 de 28/11/1864",
+      "data": "1864-11-28",
+      "numero": "3349",
+      "urn": "urn:lex:br:federal:decreto:1864-11-28;3349",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NA PARÓQUIA DE SANTA RITA, NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "400400",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-26-3347",
+      "titulo": "Decreto nº 3.347 de 26/11/1864",
+      "data": "1864-11-26",
+      "numero": "3347",
+      "urn": "urn:lex:br:federal:decreto:1864-11-26;3347",
+      "ementa": "CRIA UMA COMPANHIA DE APRENDIZES MARINHEIRO NA PROVINCIA DO CEARA, E OUTRA NA DO PARANA."
+    },
+    {
+      "senadoId": "400396",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-21-3346",
+      "titulo": "Decreto nº 3.346 de 21/11/1864",
+      "data": "1864-11-21",
+      "numero": "3346",
+      "urn": "urn:lex:br:federal:decreto:1864-11-21;3346",
+      "ementa": "CONCEDE PRIVILÉGIO, PELO PRAZO DE DEZ ANOS, A LUIZ FRANCISCO DELOUCHE PARA FABRICAR E VENDER MÁQUINAS, DE SUA INVENÇÃO, PARA DESPOLPAR CAFÉ."
+    },
+    {
+      "senadoId": "400392",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-21-3345",
+      "titulo": "Decreto nº 3.345 de 21/11/1864",
+      "data": "1864-11-21",
+      "numero": "3345",
+      "urn": "urn:lex:br:federal:decreto:1864-11-21;3345",
+      "ementa": "CONCEDE A SOCIEDADE DENOMINADA - UNIÃO BENEFICIENTE, COMÉRCIO E ARTES - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA OS ESTATUTOS."
+    },
+    {
+      "senadoId": "400388",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-19-3344",
+      "titulo": "Decreto nº 3.344 de 19/11/1864",
+      "data": "1864-11-19",
+      "numero": "3344",
+      "urn": "urn:lex:br:federal:decreto:1864-11-19;3344",
+      "ementa": "DECLARA SATISFATÓRIO O RESULTADO DO SISTEMA DE LIMPEZA  DAS CASAS E ESGOTO DAS ÁGUAS PLUVIAIS, FEITO NO PRIMEIRO DISTRITO DAS OBRAS DA COMPANHIA - RIO DE JANEIRO CITY IMPROVEMENTS."
+    },
+    {
+      "senadoId": "400384",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-18-3343",
+      "titulo": "Decreto nº 3.343 de 18/11/1864",
+      "data": "1864-11-18",
+      "numero": "3343",
+      "urn": "urn:lex:br:federal:decreto:1864-11-18;3343",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO MUNICÍPIO DA UNIÃO, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "400380",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-15-3342",
+      "titulo": "Decreto nº 3.342 de 15/11/1864",
+      "data": "1864-11-15",
+      "numero": "3342",
+      "urn": "urn:lex:br:federal:decreto:1864-11-15;3342",
+      "ementa": "MARCA O ORDENADO ANUAL DE CENTO E VINTE MIL RÉIS AO CARCEREIRO DA CADEIA DA VILA DE ARARUAMA, NA PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400376",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-15-3341",
+      "titulo": "Decreto nº 3.341 de 15/11/1864",
+      "data": "1864-11-15",
+      "numero": "3341",
+      "urn": "urn:lex:br:federal:decreto:1864-11-15;3341",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL NA FREGUESIA DE OEIRAS, DA PROVÍNCIA DO PIAUÍ."
+    },
+    {
+      "senadoId": "400372",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-15-3340",
+      "titulo": "Decreto nº 3.340 de 15/11/1864",
+      "data": "1864-11-15",
+      "numero": "3340",
+      "urn": "urn:lex:br:federal:decreto:1864-11-15;3340",
+      "ementa": "CRIA NO TERMO DE MUANÁ DA PROVÍNCIA DO PARÁ UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ S FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400368",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-14-3339",
+      "titulo": "Decreto nº 3.339 de 14/11/1864",
+      "data": "1864-11-14",
+      "numero": "3339",
+      "urn": "urn:lex:br:federal:decreto:1864-11-14;3339",
+      "ementa": "DÁ PROVIDÊNCIAS SOBRE OS DINHEIROS QUE O BANCO DO BRASIL RECEBE EM CONTA CORREENTE, E SOBRE A REPARTIÇÃO DOS SEUS DIVIDENDOS."
+    },
+    {
+      "senadoId": "400361",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-11-3337",
+      "titulo": "Decreto nº 3.337 de 11/11/1864",
+      "data": "1864-11-11",
+      "numero": "3337",
+      "urn": "urn:lex:br:federal:decreto:1864-11-11;3337",
+      "ementa": "TRANSFERE A JERONYMO JOSÉ DE MESQUITA E ROBERTO JORGE HADDOK LOBO O CONTRATO FEITO COM IVAHY & BRAGA EM 4 DE MAIO DE 1864."
+    },
+    {
+      "senadoId": "400357",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-09-3336",
+      "titulo": "Decreto nº 3.336 de 09/11/1864",
+      "data": "1864-11-09",
+      "numero": "3336",
+      "urn": "urn:lex:br:federal:decreto:1864-11-09;3336",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE AQUIRAZ, CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400353",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-04-3335",
+      "titulo": "Decreto nº 3.335 de 04/11/1864",
+      "data": "1864-11-04",
+      "numero": "3335",
+      "urn": "urn:lex:br:federal:decreto:1864-11-04;3335",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DA VARGEM GRANDE, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400349",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-03-3334",
+      "titulo": "Decreto nº 3.334 de 03/11/1864",
+      "data": "1864-11-03",
+      "numero": "3334",
+      "urn": "urn:lex:br:federal:decreto:1864-11-03;3334",
+      "ementa": "CONCEDE AO BACHAREL ANTONIO GONÇALVES DA JUSTA ARAUJO PRIVILÉGIO POR DEZ ANOS PARA FABRICAR E VENDER MÁQUINAS DE PILAR CAFÉ."
+    },
+    {
+      "senadoId": "400345",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-02-3333",
+      "titulo": "Decreto nº 3.333 de 02/11/1864",
+      "data": "1864-11-02",
+      "numero": "3333",
+      "urn": "urn:lex:br:federal:decreto:1864-11-02;3333",
+      "ementa": "MARCA AO CARCEREIRO DA CADEIA DA VILA DE S. FRANCISO DAS CHAGAS DO CAMPO GRANDE, NA PROVÍNCIA DE MINAS GERAIS, O ORDENADO ANUAL DE CENTO E VINTE CINCO MIL RÉIS."
+    },
+    {
+      "senadoId": "400341",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-11-02-3332",
+      "titulo": "Decreto nº 3.332 de 02/11/1864",
+      "data": "1864-11-02",
+      "numero": "3332",
+      "urn": "urn:lex:br:federal:decreto:1864-11-02;3332",
+      "ementa": "MARCA AO CARCEREIRO DA CADEIA DA VILA DE S. JOÃO, NA PROVÍNCIA DA PARAÍBA, O ORDENADO ANUAL DE CEM MIL RÉIS."
+    },
+    {
+      "senadoId": "400333",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-31-3330",
+      "titulo": "Decreto nº 3.330 de 31/10/1864",
+      "data": "1864-10-31",
+      "numero": "3330",
+      "urn": "urn:lex:br:federal:decreto:1864-10-31;3330",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NA FREGUESIA DE NOVA LAGE, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400337",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-31-3331",
+      "titulo": "Decreto nº 3.331 de 31/10/1864",
+      "data": "1864-10-31",
+      "numero": "3331",
+      "urn": "urn:lex:br:federal:decreto:1864-10-31;3331",
+      "ementa": "CRIA MAIS DUAS COMPANHIAS NO 1º BATALHÃO DE INFANTARIA DO SERVIÇO DA RESERVA DA GUARDA NACIONAL NA PROVÍNCIA DE S. PAULO."
+    },
+    {
+      "senadoId": "400325",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-30-3328",
+      "titulo": "Decreto nº 3.328 de 30/10/1864",
+      "data": "1864-10-30",
+      "numero": "3328",
+      "urn": "urn:lex:br:federal:decreto:1864-10-30;3328",
+      "ementa": "CRIA UM COMPANHIA AVULSA DA RESERVA NO MUNICÍPIO DA CHAPADA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400320",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-30-3327",
+      "titulo": "Decreto nº 3.327 de 30/10/1864",
+      "data": "1864-10-30",
+      "numero": "3327",
+      "urn": "urn:lex:br:federal:decreto:1864-10-30;3327",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO SERVIÇO ATIVO, E UMA SEÇÃO DE COMPANHIA DA RESERVA NO MUNICÍPIO DA BARRA DA CORDA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400316",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-30-3326",
+      "titulo": "Decreto nº 3.326 de 30/10/1864",
+      "data": "1864-10-30",
+      "numero": "3326",
+      "urn": "urn:lex:br:federal:decreto:1864-10-30;3326",
+      "ementa": "DESLIGA O COMANDO SUPERIOR DOS MUNICÍPIOS DA CHAPADA E BARRA DA CORDA, DA PROVÍNCIA DO MARANHÃO, A GUARDA NACIONAL, PERTENCENTE AO DISTRITO DO RIACHÃO, INCORPORANDO-A AO COMANDO SUPERIOR DOS MUNICÍPIOS DE CAROLINA E IMPERATRIZ, DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "400329",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-30-3329",
+      "titulo": "Decreto nº 3.329 de 30/10/1864",
+      "data": "1864-10-30",
+      "numero": "3329",
+      "urn": "urn:lex:br:federal:decreto:1864-10-30;3329",
+      "ementa": "ELEVA A OITO COMPANHIAS O BATALHÃO DE INFANTARIA NÚMERO 30 DA GUARDA NACIONAL DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400312",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-29-3325",
+      "titulo": "Decreto nº 3.325 de 29/10/1864",
+      "data": "1864-10-29",
+      "numero": "3325",
+      "urn": "urn:lex:br:federal:decreto:1864-10-29;3325",
+      "ementa": "TRANSFERE AO ESTADO A PROPRIEDADE DA ESTRADA DE ROLAGEM DENOMINADA - UNIÃO E INDÚSTRIA."
+    },
+    {
+      "senadoId": "400308",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-23-3324",
+      "titulo": "Decreto nº 3.324 de 23/10/1864",
+      "data": "1864-10-23",
+      "numero": "3324",
+      "urn": "urn:lex:br:federal:decreto:1864-10-23;3324",
+      "ementa": "APROVA AS CONDIÇÕES PARA NOVAÇÃO DO CONTRATO COM A COMPANHIA - PERNAMBUCANA."
+    },
+    {
+      "senadoId": "400304",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-22-3323",
+      "titulo": "Decreto nº 3.323 de 22/10/1864",
+      "data": "1864-10-22",
+      "numero": "3323",
+      "urn": "urn:lex:br:federal:decreto:1864-10-22;3323",
+      "ementa": "REGULA NOVAMENTE A EMISSÃO DE BILHETES E OUTROS ESCRITOS AO PORTADOR."
+    },
+    {
+      "senadoId": "400300",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-22-3322",
+      "titulo": "Decreto nº 3.322 de 22/10/1864",
+      "data": "1864-10-22",
+      "numero": "3322",
+      "urn": "urn:lex:br:federal:decreto:1864-10-22;3322",
+      "ementa": "ESTABELECE ALGUMAS DISPOSIÇÕES COMPLEMENTARES DAS DISPOSIÇÕES DO DECRETO NÚMERO 3.309 DE 20 DE SETEMBRO DE 1864."
+    },
+    {
+      "senadoId": "400288",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-21-3319",
+      "titulo": "Decreto nº 3.319 de 21/10/1864",
+      "data": "1864-10-21",
+      "numero": "3319",
+      "urn": "urn:lex:br:federal:decreto:1864-10-21;3319",
+      "ementa": "AUTORIZA A INCORPORAÇÃO E APROVA OS ESTATUTOS DA COMPANHIA - FLUMINENSE - DE NAVEGAÇÃO POR VAPOR."
+    },
+    {
+      "senadoId": "400292",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-21-3320",
+      "titulo": "Decreto nº 3.320 de 21/10/1864",
+      "data": "1864-10-21",
+      "numero": "3320",
+      "urn": "urn:lex:br:federal:decreto:1864-10-21;3320",
+      "ementa": "APROVA, COM ALTERAÇÕES, OS NOVOVS ESTATUTOS DA COMPANHIA DE SEGUROS MARÍTIMOS - NOVA PERMANENTE."
+    },
+    {
+      "senadoId": "400284",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-21-3318",
+      "titulo": "Decreto nº 3.318 de 21/10/1864",
+      "data": "1864-10-21",
+      "numero": "3318",
+      "urn": "urn:lex:br:federal:decreto:1864-10-21;3318",
+      "ementa": "CONCEDE Á SOCIEDADE DENOMINDA - UNIÃO BENEFICIENTE DAS FAMÍLIAS HONESTAS - AUTORIZAÇÃO PARA FUNCIONAR, E APROVA SEUS ESTATUTOS."
+    },
+    {
+      "senadoId": "400296",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-21-3321",
+      "titulo": "Decreto nº 3.321 de 21/10/1864",
+      "data": "1864-10-21",
+      "numero": "3321",
+      "urn": "urn:lex:br:federal:decreto:1864-10-21;3321",
+      "ementa": "INDULTANDO  OS CONTRAVENTORES DO ARTIGO 1º § 10 DA LEI NÚMERO 1.083 DE 22 DE AGOSTO DE 1860, E REMITINDO AS REVALIDAÇÕES E MULTAS DO REGULAMENTO DO SELO DE 26 DE DEZEEMBRO DE 1860."
+    },
+    {
+      "senadoId": "400280",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-14-3317",
+      "titulo": "Decreto nº 3.317 de 14/10/1864",
+      "data": "1864-10-14",
+      "numero": "3317",
+      "urn": "urn:lex:br:federal:decreto:1864-10-14;3317",
+      "ementa": "CRIA NO TERNO DO PARÁ, DA PROVÍNCIA DE MINAS GERAIS, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400276",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-12-3316",
+      "titulo": "Decreto nº 3.316 de 12/10/1864",
+      "data": "1864-10-12",
+      "numero": "3316",
+      "urn": "urn:lex:br:federal:decreto:1864-10-12;3316",
+      "ementa": "MANDA VIGORAR, NA PROVÍNCIA DE S. PEDRO DO RIO GRANDE DO SUL, O REGULAMENTO DO MARECHAL GENERAL LORD BERESFORD, PARA A ARMA DE CAVALARIA, ENQUANTO NA MESMA PROVÍNCIA SE MOVEREM TROPAS PARA A FRONTEIRA."
+    },
+    {
+      "senadoId": "400272",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-06-3315",
+      "titulo": "Decreto nº 3.315 de 06/10/1864",
+      "data": "1864-10-06",
+      "numero": "3315",
+      "urn": "urn:lex:br:federal:decreto:1864-10-06;3315",
+      "ementa": "CONCEDE AUTORIZAÇÃO Á ASSOCIAÇÃO - INSTITUTO LITERÁRIO MARANHANSE - PARA EXERCER SUAS FUNÇÕES, E APROVA OS RESPECTIVOS ESTATUTOS COM ALGUMAS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "400268",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-10-05-3314",
+      "titulo": "Decreto nº 3.314 de 05/10/1864",
+      "data": "1864-10-05",
+      "numero": "3314",
+      "urn": "urn:lex:br:federal:decreto:1864-10-05;3314",
+      "ementa": "DECLARA DE 1ª ENTRANCIA A COMARCA DEE AQUIRAZ, CRIADA NA PROVÍNCIA DO CEARÁ."
+    },
+    {
+      "senadoId": "400264",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-24-3313",
+      "titulo": "Decreto nº 3.313 de 24/09/1864",
+      "data": "1864-09-24",
+      "numero": "3313",
+      "urn": "urn:lex:br:federal:decreto:1864-09-24;3313",
+      "ementa": "AUTORIZA A COMPANHIA - LONDON AND BRASILIAN BANK - PARA ESTABELECER UMA CAIXA FINAL NA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400260",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-24-3312",
+      "titulo": "Decreto nº 3.312 de 24/09/1864",
+      "data": "1864-09-24",
+      "numero": "3312",
+      "urn": "urn:lex:br:federal:decreto:1864-09-24;3312",
+      "ementa": "DESIGNA A ORDEM QUE DEVE SEGUIR-SE NA  EXTRAÇÃO DAS LOTERIAS DA CÔRTE, DEPOIS DE EXTRAÍDA A 35ª DESÍGNA NA DISTRIBUIÇÃO QUE ACOMPANHOU O DECRETO NÚMERO 3.203 DE 24 DE DEZEMBRO DE 1863."
+    },
+    {
+      "senadoId": "400252",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-24-3310",
+      "titulo": "Decreto nº 3.310 de 24/09/1864",
+      "data": "1864-09-24",
+      "numero": "3310",
+      "urn": "urn:lex:br:federal:decreto:1864-09-24;3310",
+      "ementa": "CONCEDE EMANCIPAÇÃO A TODOS OS AFRICANOS LIVRES EXISTENTES NO IMPÉRIO."
+    },
+    {
+      "senadoId": "400256",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-24-3311",
+      "titulo": "Decreto nº 3.311 de 24/09/1864",
+      "data": "1864-09-24",
+      "numero": "3311",
+      "urn": "urn:lex:br:federal:decreto:1864-09-24;3311",
+      "ementa": "ELEVA A CATEGORIA DE COMPANHIA A SEÇÃO DE COMPANHIA DA RESERVA NÚMERO QUATRO DA GUARDA NACIONAL DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400248",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-20-3309",
+      "titulo": "Decreto nº 3.309 de 20/09/1864",
+      "data": "1864-09-20",
+      "numero": "3309",
+      "urn": "urn:lex:br:federal:decreto:1864-09-20;3309",
+      "ementa": "REGULA A FALÊNCIA DOS BANCOS E CASAS BANCÁRIAS NOS TERMOS DO ARTIGO 3º DO DECRETO NÚMERO 3.308 DE 17 DO CORRENTE."
+    },
+    {
+      "senadoId": "400244",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-17-3308",
+      "titulo": "Decreto nº 3.308 de 17/09/1864",
+      "data": "1864-09-17",
+      "numero": "3308",
+      "urn": "urn:lex:br:federal:decreto:1864-09-17;3308",
+      "ementa": "MANDA OBSERVAR DIVERSAS DISPOSIÇÕES EXTRAORDINÁRIAS DURANTE CRISE COMERCIAL EM QUE SE ACHA A PRAÇA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "400240",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-14-3307",
+      "titulo": "Decreto nº 3.307 de 14/09/1864",
+      "data": "1864-09-14",
+      "numero": "3307",
+      "urn": "urn:lex:br:federal:decreto:1864-09-14;3307",
+      "ementa": "DÁ CURSO FORÇADO, POR ENQUANTO, AOS BILHETES DO BANCO DO BRASIL."
+    },
+    {
+      "senadoId": "400236",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-13-3306",
+      "titulo": "Decreto nº 3.306 de 13/09/1864",
+      "data": "1864-09-13",
+      "numero": "3306",
+      "urn": "urn:lex:br:federal:decreto:1864-09-13;3306",
+      "ementa": "CONCEDE AO BANCO DO BRASIL ELEVAR A SUA COMISSÃO AO TRIPLO DO FUNDO DISPONÍVEL."
+    },
+    {
+      "senadoId": "400232",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-09-01-3305",
+      "titulo": "Decreto nº 3.305 de 01/09/1864",
+      "data": "1864-09-01",
+      "numero": "3305",
+      "urn": "urn:lex:br:federal:decreto:1864-09-01;3305",
+      "ementa": "PRORROGA A PRESENTE SESSÃO DA ASSEMBLÉIA GERAL LEGISLATIVA ATÉ O DIA 12 DO CORRENTE MÊS."
+    },
+    {
+      "senadoId": "400228",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-25-3304",
+      "titulo": "Decreto nº 3.304 de 25/08/1864",
+      "data": "1864-08-25",
+      "numero": "3304",
+      "urn": "urn:lex:br:federal:decreto:1864-08-25;3304",
+      "ementa": "CONCEDE A JOSÉ PRADINES PRIVILÉGIO POR CINCO ANOS PARA FABRICAR E VENDER NO IMPÉRIO AFIADORES DE NAVALHAS DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "400224",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-25-3303",
+      "titulo": "Decreto nº 3.303 de 25/08/1864",
+      "data": "1864-08-25",
+      "numero": "3303",
+      "urn": "urn:lex:br:federal:decreto:1864-08-25;3303",
+      "ementa": "CONCEDE A JOAQUIM FERREIRA NOBRE JUNIOR PRIVILÉGIO POR DEZ ANOS PARA FABRICAR E VENDER NO IMPÉRIO O LÍQUIDO, QUE DECLAROU TER INVENTADO, PARA EXTINGUIR A FORMIGA SAÚVA."
+    },
+    {
+      "senadoId": "400215",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-24-3301",
+      "titulo": "Decreto nº 3.301 de 24/08/1864",
+      "data": "1864-08-24",
+      "numero": "3301",
+      "urn": "urn:lex:br:federal:decreto:1864-08-24;3301",
+      "ementa": "CRIA UM TERMO DE SANTA ANNA DO PARANAHYBA, NA PROVÍNCIA DE MATO GROSSO, UM LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400219",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-24-3302",
+      "titulo": "Decreto nº 3.302 de 24/08/1864",
+      "data": "1864-08-24",
+      "numero": "3302",
+      "urn": "urn:lex:br:federal:decreto:1864-08-24;3302",
+      "ementa": "CRIA NO TERMO DE MIRANDA, NA PROVÍNCIA DE MATO GROSSO, UM LUGAR DE JUIZ MUNICIPAL QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400211",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-20-3300",
+      "titulo": "Decreto nº 3.300 de 20/08/1864",
+      "data": "1864-08-20",
+      "numero": "3300",
+      "urn": "urn:lex:br:federal:decreto:1864-08-20;3300",
+      "ementa": "CONCEDE A JOÃO ANTONIO DE MIRANDA E SILVA PRIVILÉGIO POR DOIS ANOS PARA EXPLORAR AS MINAS DE CHUMBO, ESTANHO E OUTROS MINERAIS NA SERRA DO IPORANGA."
+    },
+    {
+      "senadoId": "400207",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-10-3299",
+      "titulo": "Decreto nº 3.299 de 10/08/1864",
+      "data": "1864-08-10",
+      "numero": "3299",
+      "urn": "urn:lex:br:federal:decreto:1864-08-10;3299",
+      "ementa": "CONCEDE A ANTONIO FERREIRA D´EÇA, PRIVILÉGIO POR TEMPO DE DEZ ANOS PARA ESTABELECER A NAVEGAÇÃO POR VAPOR NO RIO PIRAHY."
+    },
+    {
+      "senadoId": "400203",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-06-3298",
+      "titulo": "Decreto nº 3.298 de 06/08/1864",
+      "data": "1864-08-06",
+      "numero": "3298",
+      "urn": "urn:lex:br:federal:decreto:1864-08-06;3298",
+      "ementa": "CONCEDE A LUIZ FRANCISCO DELOUCHE PRIVILÉGIO POR DEZ ANOS PARA FABRICAR E VENDER MÁQUINAS DESTINADAS A RALR, PRENSAR E TORRAR MANDIOCA."
+    },
+    {
+      "senadoId": "400198",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-08-03-3297",
+      "titulo": "Decreto nº 3.297 de 03/08/1864",
+      "data": "1864-08-03",
+      "numero": "3297",
+      "urn": "urn:lex:br:federal:decreto:1864-08-03;3297",
+      "ementa": "DESLIGA O COMANDO SUPERIOR DOS MUNICÍPIOS DE ITAPETININGA E ANEXOS, DA PROVÍNCIA DE S. PAULO, A GUARDA NACIONAL PERTENCENTE AO DISTRITO DA VILA DE XIRIRICA, INCORPORANDO-A AO COMANDO SUPERIOR DE SANTOS DA MESMA PROVÍNCIA."
+    },
+    {
+      "senadoId": "400193",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-30-3296",
+      "titulo": "Decreto nº 3.296 de 30/07/1864",
+      "data": "1864-07-30",
+      "numero": "3296",
+      "urn": "urn:lex:br:federal:decreto:1864-07-30;3296",
+      "ementa": "ALTERA A DISPOSIÇÃO DO ARTIGO 120 DO REGULAMENTO QUE BAIXOU COM O DECRETO NÚMERO 1.331 A DE 17 DE FEVEREIRO DE 1854."
+    },
+    {
+      "senadoId": "400188",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-27-3295",
+      "titulo": "Decreto nº 3.295 de 27/07/1864",
+      "data": "1864-07-27",
+      "numero": "3295",
+      "urn": "urn:lex:br:federal:decreto:1864-07-27;3295",
+      "ementa": "CRIA UM BATALHÃO DE RESERVA NO MUNICÍPIO DA FEIRA DE SANTA ANNA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400184",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-27-3294",
+      "titulo": "Decreto nº 3.294 de 27/07/1864",
+      "data": "1864-07-27",
+      "numero": "3294",
+      "urn": "urn:lex:br:federal:decreto:1864-07-27;3294",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DO SERVIÇO ATIVO DA GUARDA NACIONAL NAS FREGUESIAS DE SANTA BÁRBARA E BOMFIM, PERTENCENTES AO MUNICÍPIO DA FEIRA DE SANTA ANNA, NA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400180",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-25-3293",
+      "titulo": "Decreto nº 3.293 de 25/07/1864",
+      "data": "1864-07-25",
+      "numero": "3293",
+      "urn": "urn:lex:br:federal:decreto:1864-07-25;3293",
+      "ementa": "CONCEDE A GUILHERME SCULLY PRIVILÉGIO POR CINCO ANOS PARA INTRODUZIR NA CAPITAL DO IMPERIO O EMPREGO DOS BANHOS DE AR QUENTE."
+    },
+    {
+      "senadoId": "400176",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-23-3292",
+      "titulo": "Decreto nº 3.292 de 23/07/1864",
+      "data": "1864-07-23",
+      "numero": "3292",
+      "urn": "urn:lex:br:federal:decreto:1864-07-23;3292",
+      "ementa": "DA INSTRUÇÕES PELAS QUAIS SE HA DE REGULAR A COMISSÃO CRIADA POR DECRETO DE 29 DE DEZEMBRO DO ANO PASSADO, PARA EXAMINAR O PROJETO CODIGO CIVIL, REDIGIDO PELO BACHAREL AUGUSTO TEIXEIRA DE FREITAS."
+    },
+    {
+      "senadoId": "400172",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-20-3291",
+      "titulo": "Decreto nº 3.291 de 20/07/1864",
+      "data": "1864-07-20",
+      "numero": "3291",
+      "urn": "urn:lex:br:federal:decreto:1864-07-20;3291",
+      "ementa": "CRIA NO TERMO DE SANTO ANTÔNIO DA BARRA, NA PROVÍNCIA DA BAHIA, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400169",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-07-18-3290",
+      "titulo": "Decreto nº 3.290 de 18/07/1864",
+      "data": "1864-07-18",
+      "numero": "3290",
+      "urn": "urn:lex:br:federal:decreto:1864-07-18;3290",
+      "ementa": "DECLARA QUE OS GOVERNADORES DOS BISPADOS E OS PROVISORES, QUANDO ADMINISTRAREM AS DIOCESES NOS IMPEDIMENTOS DOS PRELADOS, PODEM COM AUTORIZAÇÃO ESPECIAL DOS MESMOS PRELADOS, FAZER PROPOSTAS PARA PROVIMENTO DOS BENEFÍCIOS DAS IGREJAS CATEDRAIS E DAS IGREJAS PAROQUIAIS."
+    },
+    {
+      "senadoId": "400165",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-30-3289",
+      "titulo": "Decreto nº 3.289 de 30/06/1864",
+      "data": "1864-06-30",
+      "numero": "3289",
+      "urn": "urn:lex:br:federal:decreto:1864-06-30;3289",
+      "ementa": "SUPRIME A ÚLTIMA PARTE DA SEGUNDA OBSERVAÇÃO DA TABELA, QUE BAIXOU COM O DECRETO NÚMERO 3.064, DE 23 DE MARÇO DE 1863."
+    },
+    {
+      "senadoId": "400161",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-20-3288",
+      "titulo": "Decreto nº 3.288 de 20/06/1864",
+      "data": "1864-06-20",
+      "numero": "3288",
+      "urn": "urn:lex:br:federal:decreto:1864-06-20;3288",
+      "ementa": "APROVA O REGULAMENTO PARA A REPARTIÇÃO DOS TELÉGRAFOS."
+    },
+    {
+      "senadoId": "400157",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-14-3287",
+      "titulo": "Decreto nº 3.287 de 14/06/1864",
+      "data": "1864-06-14",
+      "numero": "3287",
+      "urn": "urn:lex:br:federal:decreto:1864-06-14;3287",
+      "ementa": "DIVIDE EM DUAS A AULA PREPARATÓRIA DE FRANCÊS E INGLÊS DA FACULDADE DE DIREITO DA CIDADE DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400153",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-14-3286",
+      "titulo": "Decreto nº 3.286 de 14/06/1864",
+      "data": "1864-06-14",
+      "numero": "3286",
+      "urn": "urn:lex:br:federal:decreto:1864-06-14;3286",
+      "ementa": "ALTERA O DECRETO NÚMERO 3.048, DE 3 DE FEVEREIRO DE 1863, NA PARTE QUE SE REFERE Á TARIFA DOS PASSAGEIROS DE 1ª CLASSE DA ESTRADA DE FERRO DE DOM PEDRO SEGUNDO."
+    },
+    {
+      "senadoId": "400149",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-13-3285",
+      "titulo": "Decreto nº 3.285 de 13/06/1864",
+      "data": "1864-06-13",
+      "numero": "3285",
+      "urn": "urn:lex:br:federal:decreto:1864-06-13;3285",
+      "ementa": "AUTORIZA O BANCO RURAL E HIPOTECÁRIO PARA INCORPORAR A SOCIEDADE DE SEGUROS MÚTUOS SOBRE VIDAS DENOMINADA - PROTETORA DAS FAMÍLIAS - E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "400141",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-11-3283",
+      "titulo": "Decreto nº 3.283 de 11/06/1864",
+      "data": "1864-06-11",
+      "numero": "3283",
+      "urn": "urn:lex:br:federal:decreto:1864-06-11;3283",
+      "ementa": "SEPARA O TERMO DO PRINCIPE DE CURITIBA, NA PROVINCIA DO PARANA, E CRIA NELE UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARA AS FUNÇÕES DE JUIZ DE ORFÃOS."
+    },
+    {
+      "senadoId": "400145",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-11-3284",
+      "titulo": "Decreto nº 3.284 de 11/06/1864",
+      "data": "1864-06-11",
+      "numero": "3284",
+      "urn": "urn:lex:br:federal:decreto:1864-06-11;3284",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DO POMBA, NA PROVÍNCIA DE MINAS GERAIS."
+    },
+    {
+      "senadoId": "400137",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-09-3282",
+      "titulo": "Decreto nº 3.282 de 09/06/1864",
+      "data": "1864-06-09",
+      "numero": "3282",
+      "urn": "urn:lex:br:federal:decreto:1864-06-09;3282",
+      "ementa": "ALTERA A DISPOSIÇÃO DO ARTIGO 14, DO REGULAMENTO APROVADO PELO DECRETO NÚMERO 2.898, DE 12 DE MARÇO DE 1862."
+    },
+    {
+      "senadoId": "400133",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-08-3281",
+      "titulo": "Decreto nº 3.281 de 08/06/1864",
+      "data": "1864-06-08",
+      "numero": "3281",
+      "urn": "urn:lex:br:federal:decreto:1864-06-08;3281",
+      "ementa": "MARCA O ORDENADO DO PROMOTOR PÚBLICO DA COMARCA DE MAMANGUAPE, CRIADA NA PROVÍNCIA DA PARAÍBA."
+    },
+    {
+      "senadoId": "400125",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-08-3279",
+      "titulo": "Decreto nº 3.279 de 08/06/1864",
+      "data": "1864-06-08",
+      "numero": "3279",
+      "urn": "urn:lex:br:federal:decreto:1864-06-08;3279",
+      "ementa": "REUNE O TERMO DE SÃO SEBASTIÃO DA FOZ DE TIJUCAS AO DE SÃO MIGUEL, AMBOS NA PROVÍNCIA DE SANTA CATARINA."
+    },
+    {
+      "senadoId": "400129",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-08-3280",
+      "titulo": "Decreto nº 3.280 de 08/06/1864",
+      "data": "1864-06-08",
+      "numero": "3280",
+      "urn": "urn:lex:br:federal:decreto:1864-06-08;3280",
+      "ementa": "CRIA NO TERMO DE SÃO MIGUEL DA PROVÍNCIA DE SANTA CATARINA, UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ E ÓRFÃOS."
+    },
+    {
+      "senadoId": "400121",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-06-3278",
+      "titulo": "Decreto nº 3.278 de 06/06/1864",
+      "data": "1864-06-06",
+      "numero": "3278",
+      "urn": "urn:lex:br:federal:decreto:1864-06-06;3278",
+      "ementa": "CONCEDE A JOSE ANTONIO GOMES PRIVILEGIO POR 10 ANOS PARA PREPARAR E VENDER NO IMPERIO VINHO DE CEVADA DE SUA INVENÇÃO."
+    },
+    {
+      "senadoId": "400117",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-04-3277",
+      "titulo": "Decreto nº 3.277 de 04/06/1864",
+      "data": "1864-06-04",
+      "numero": "3277",
+      "urn": "urn:lex:br:federal:decreto:1864-06-04;3277",
+      "ementa": "ALTERA A CONDIÇÃO 1ª DAS APROVADAS PELO DECRETO NÚMERO 3.091, DE 7 DE MAIO DE 1863."
+    },
+    {
+      "senadoId": "400113",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-06-01-3276",
+      "titulo": "Decreto nº 3.276 de 01/06/1864",
+      "data": "1864-06-01",
+      "numero": "3276",
+      "urn": "urn:lex:br:federal:decreto:1864-06-01;3276",
+      "ementa": "DESANEXA O TERMO DE BROTAS DO DE SÃO JOÃO DO RIO CLARO, AMBOS NA PROVÍNCIA DE SÃO PAULO, E CRIA NELE UM LUGAR DE JUIZ MUNICIPAL, QUE ACUMULARÁ AS FUNÇÕES DE JUIZ DE ÓRFÃOS."
+    },
+    {
+      "senadoId": "400112",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-28-3275-a",
+      "titulo": "Decreto nº 3.275-A de 28/05/1864",
+      "data": "1864-05-28",
+      "numero": "3275-a",
+      "urn": "urn:lex:br:federal:decreto:1864-05-28;3275-a",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NAS FREGUESIAS DE SÃO FELIX E OUTEIRO REDONDO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "400104",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-24-3274",
+      "titulo": "Decreto nº 3.274 de 24/05/1864",
+      "data": "1864-05-24",
+      "numero": "3274",
+      "urn": "urn:lex:br:federal:decreto:1864-05-24;3274",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL NO MUNICÍPIO DE SÃO JOSÉ DA PARAÍBA, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400108",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-24-3275",
+      "titulo": "Decreto nº 3.275 de 24/05/1864",
+      "data": "1864-05-24",
+      "numero": "3275",
+      "urn": "urn:lex:br:federal:decreto:1864-05-24;3275",
+      "ementa": "MARCA A FIANÇA QUE DEVEM PRESTAR OS TESOUREIROS DAS SECRETARIAS DE POLÍCIA."
+    },
+    {
+      "senadoId": "400100",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-20-3273",
+      "titulo": "Decreto nº 3.273 de 20/05/1864",
+      "data": "1864-05-20",
+      "numero": "3273",
+      "urn": "urn:lex:br:federal:decreto:1864-05-20;3273",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE COMPANHIA DA GUARDA NACIONAL DO SERVIÇO DE RESERVA, ORGANIZADA NAS FREGUESIAS DE ITAPEVA E PARANAPANEMA, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400092",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-20-3271",
+      "titulo": "Decreto nº 3.271 de 20/05/1864",
+      "data": "1864-05-20",
+      "numero": "3271",
+      "urn": "urn:lex:br:federal:decreto:1864-05-20;3271",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NO MUNICÍPIO DE IGARAPÉ-MIRIM, DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400096",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-20-3272",
+      "titulo": "Decreto nº 3.272 de 20/05/1864",
+      "data": "1864-05-20",
+      "numero": "3272",
+      "urn": "urn:lex:br:federal:decreto:1864-05-20;3272",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE CHAVES, SOURE E MONSARÁS, DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "400088",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-16-3270",
+      "titulo": "Decreto nº 3.270 de 16/05/1864",
+      "data": "1864-05-16",
+      "numero": "3270",
+      "urn": "urn:lex:br:federal:decreto:1864-05-16;3270",
+      "ementa": "CONCEDE AO INSTITUTO DOS BACHARÉIS EM LETRA, AUTORIZAÇÃO PARA EXERCER SUAS FUNÇÕES E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "400084",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-14-3269",
+      "titulo": "Decreto nº 3.269 de 14/05/1864",
+      "data": "1864-05-14",
+      "numero": "3269",
+      "urn": "urn:lex:br:federal:decreto:1864-05-14;3269",
+      "ementa": "ALTERA A ORGANIZAÇÃO DDO BATALHÃO DE INFANTARIA NÚMERO 26, DA GUARDA NACIONAL DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400076",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-14-3267",
+      "titulo": "Decreto nº 3.267 de 14/05/1864",
+      "data": "1864-05-14",
+      "numero": "3267",
+      "urn": "urn:lex:br:federal:decreto:1864-05-14;3267",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO SERVIÇO ATIVO DA FREGUESIA DE BETLÉM, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400080",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-14-3268",
+      "titulo": "Decreto nº 3.268 de 14/05/1864",
+      "data": "1864-05-14",
+      "numero": "3268",
+      "urn": "urn:lex:br:federal:decreto:1864-05-14;3268",
+      "ementa": "CRIA UMA SEÇÃO DE BATALHÃO DE GUARDAS NACIONAIS DO SERVIÇO ATIVO NA FREGUESIA DA PENHA, NA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "400069",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-12-3265",
+      "titulo": "Decreto nº 3.265 de 12/05/1864",
+      "data": "1864-05-12",
+      "numero": "3265",
+      "urn": "urn:lex:br:federal:decreto:1864-05-12;3265",
+      "ementa": "ELEVA Á CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA AVULSA NÚMERO TRÊS DO SERVIÇO DA RESERVA, ORGANIZADA NO MUNICÍPIO DE VIANA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400072",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-05-12-3266",
+      "titulo": "Decreto nº 3.266 de 12/05/1864",
+      "data": "1864-05-12",
+      "numero": "3266",
+      "urn": "urn:lex:br:federal:decreto:1864-05-12;3266",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO SERVIÇO ATIVO NA FREGUESIA DE SÃO JOSÉ DA PENALVA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400065",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-30-3264",
+      "titulo": "Decreto nº 3.264 de 30/04/1864",
+      "data": "1864-04-30",
+      "numero": "3264",
+      "urn": "urn:lex:br:federal:decreto:1864-04-30;3264",
+      "ementa": "AUTORIZA AO MINISTRO E SECRETÁRIO DE ESTADO DOS NEGÓCIOS DA AGRICULTURA, COMÉRCIO E OBRAS PÚBLICAS A APLICAR ÁS DESPESAS DE ALGUMAS VERBAS DEFICIENTES DO ORÇAMENTO RESPECTIVO DO EXERCÍCIO DE 1863-1864, Á QUANTIA DE 133:147$815 RÉIS, TIRADA DAS SOBRAS DA VERBA - OBRAS PÚBLICAS GERAIS E AUXÍLIO ÁS PROVÍNCIAS."
+    },
+    {
+      "senadoId": "400061",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-30-3263",
+      "titulo": "Decreto nº 3.263 de 30/04/1864",
+      "data": "1864-04-30",
+      "numero": "3263",
+      "urn": "urn:lex:br:federal:decreto:1864-04-30;3263",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA NO MUNICÍPIO DE ALAGOAS DA PRODO MESMO NOME."
+    },
+    {
+      "senadoId": "400057",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-29-3262",
+      "titulo": "Decreto nº 3.262 de 29/04/1864",
+      "data": "1864-04-29",
+      "numero": "3262",
+      "urn": "urn:lex:br:federal:decreto:1864-04-29;3262",
+      "ementa": "AUTORIZA O TRANSPORTE DA SOMA DE 60:000$, TIRADA DA VERBA DIFERENÇAS DE CÂMBIO, DO MINISTÉRIO DA FAZENDA NO EXERCÍCIO DE 1863-1864, PARA AS VERBAS AJUDAS DE CUSTO, ETC. E EVENTUAIS."
+    },
+    {
+      "senadoId": "400053",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-28-3261",
+      "titulo": "Decreto nº 3.261 de 28/04/1864",
+      "data": "1864-04-28",
+      "numero": "3261",
+      "urn": "urn:lex:br:federal:decreto:1864-04-28;3261",
+      "ementa": "PRORROGA POR DOIS ANOS O PRAZO MARCADO NA ULTIMA PARTE DO ARTIGO 7 DO DECRETO  3.149 DE 3 DE SETEMBRO DE 1863 PARA A DISTRIBUIÇÃO DAS AÇÕES DA COMPANHIA PERNAMBUCANA DE NAVEGAÇÃO COSTEIRA POR VAPOR."
+    },
+    {
+      "senadoId": "400049",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-28-3260",
+      "titulo": "Decreto nº 3.260 de 28/04/1864",
+      "data": "1864-04-28",
+      "numero": "3260",
+      "urn": "urn:lex:br:federal:decreto:1864-04-28;3260",
+      "ementa": "PRORROGA POR CINCO ANOS O PRAZO CONCEDIDO A JOSÉ JACOMO TASSO E JOÃO EDWIN ROBERTS, POR DECRETO NÚMERO 2.444, DE 27 DE JULHO DE 1859 PARA EXPLORAREM OS LUGARES DOS SERTÕES LIMITROFES DAS PROVÍNCIAS DE PERNAMBUCO E DA PARAÍBA."
+    },
+    {
+      "senadoId": "400041",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-27-3258",
+      "titulo": "Decreto nº 3.258 de 27/04/1864",
+      "data": "1864-04-27",
+      "numero": "3258",
+      "urn": "urn:lex:br:federal:decreto:1864-04-27;3258",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DO MUNICÍPIO DO JARDIM, DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "400037",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-27-3257",
+      "titulo": "Decreto nº 3.257 de 27/04/1864",
+      "data": "1864-04-27",
+      "numero": "3257",
+      "urn": "urn:lex:br:federal:decreto:1864-04-27;3257",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A 1ª SEÇÃO DE BATALHÃO, DA ATIVA DA GUARDA NACIONAL DA PROVÍNCIA DO RIO GRANDE DO NORTE."
+    },
+    {
+      "senadoId": "400045",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-27-3259",
+      "titulo": "Decreto nº 3.259 de 27/04/1864",
+      "data": "1864-04-27",
+      "numero": "3259",
+      "urn": "urn:lex:br:federal:decreto:1864-04-27;3259",
+      "ementa": "PRORROGA A PRESENTE SESSÃO DA ASSEMBLÉIA GERAL LEGISLATIVA."
+    },
+    {
+      "senadoId": "400033",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-25-3256",
+      "titulo": "Decreto nº 3.256 de 25/04/1864",
+      "data": "1864-04-25",
+      "numero": "3256",
+      "urn": "urn:lex:br:federal:decreto:1864-04-25;3256",
+      "ementa": "CONCEDE Á SOCIEDADE PORTUGUEZA DENOMINADA -DEZASEIS DE SETEMBRO - AUTORIZAÇÃO PARA CONTINUAR A EXERCER AS SUAS FUNÇÕES, E APROVA O RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "400029",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-23-3255",
+      "titulo": "Decreto nº 3.255 de 23/04/1864",
+      "data": "1864-04-23",
+      "numero": "3255",
+      "urn": "urn:lex:br:federal:decreto:1864-04-23;3255",
+      "ementa": "MARCA AO CARCEREIRO DA CADEIA DA VILA DE CAÇAPAVA, NA PROVÍNCIA DE SÃO PAULO, O ORDENADO ANUAL DE 80$000."
+    },
+    {
+      "senadoId": "400025",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-20-3254",
+      "titulo": "Decreto nº 3.254 de 20/04/1864",
+      "data": "1864-04-20",
+      "numero": "3254",
+      "urn": "urn:lex:br:federal:decreto:1864-04-20;3254",
+      "ementa": "APROVA AS ALTERAÇÕES FEITAS NO REGULAMENTO PARA O TRANSPORTE DE IMIGRANTES, QUE BAIXOU COM O DECRETO 2.168, DE 1 DE MAIO DE 1858."
+    },
+    {
+      "senadoId": "400021",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-19-3253",
+      "titulo": "Decreto nº 3.253 de 19/04/1864",
+      "data": "1864-04-19",
+      "numero": "3253",
+      "urn": "urn:lex:br:federal:decreto:1864-04-19;3253",
+      "ementa": "ELEVA Á CATEGORIA DE BATALHÃO A SEÇÃO DE BATALHÃO NÚMERO SETE DO SERVIÇO DA RESERVA DA GUARDA NACIONAL DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400017",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-19-3252",
+      "titulo": "Decreto nº 3.252 de 19/04/1864",
+      "data": "1864-04-19",
+      "numero": "3252",
+      "urn": "urn:lex:br:federal:decreto:1864-04-19;3252",
+      "ementa": "CRIA UM ESQUADRÃO AVULSO DA GUARDA NACIONAL NAS FREGUESIAS DE QUEIMADO E CARIACICA, DA PROVÍNCIA DO ESPÍRITO SANTO."
+    },
+    {
+      "senadoId": "400013",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-19-3251",
+      "titulo": "Decreto nº 3.251 de 19/04/1864",
+      "data": "1864-04-19",
+      "numero": "3251",
+      "urn": "urn:lex:br:federal:decreto:1864-04-19;3251",
+      "ementa": "CRIA UM COMANDO SUPERIOR DE GUARDAS NACIONAIS NOS MUNICÍPIOS DE SÃO BERNARDO DA PARAÍBA, E DÁ TUTÓIA DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "400009",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-18-3250",
+      "titulo": "Decreto nº 3.250 de 18/04/1864",
+      "data": "1864-04-18",
+      "numero": "3250",
+      "urn": "urn:lex:br:federal:decreto:1864-04-18;3250",
+      "ementa": "AUTORIZA A INCORPORAÇÃO DA COMPANHIA DE NAVEGAÇÃO POR VAPOR PROGRESSISTA E APROVA OS RESPECTIVOS ESTATUTOS."
+    },
+    {
+      "senadoId": "400005",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-14-3249",
+      "titulo": "Decreto nº 3.249 de 14/04/1864",
+      "data": "1864-04-14",
+      "numero": "3249",
+      "urn": "urn:lex:br:federal:decreto:1864-04-14;3249",
+      "ementa": "CONCEDE A RICARDO WRIGHT PROVILÉGIO POR DEZ ANOS PARA USAR NO IMPÉRIO, UM APARELHO DE SUA INVENÇÃO, DESTINADO A REFINAÇÃO DE AÇÚCAR."
+    },
+    {
+      "senadoId": "400001",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-13-3248",
+      "titulo": "Decreto nº 3.248 de 13/04/1864",
+      "data": "1864-04-13",
+      "numero": "3248",
+      "urn": "urn:lex:br:federal:decreto:1864-04-13;3248",
+      "ementa": "ALTERA A ORGANIZAÇÃO DA GUARDA NACIONAL DA CAPITAL DA PROVÍNCIA DO PARÁ."
+    },
+    {
+      "senadoId": "399997",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-11-3247",
+      "titulo": "Decreto nº 3.247 de 11/04/1864",
+      "data": "1864-04-11",
+      "numero": "3247",
+      "urn": "urn:lex:br:federal:decreto:1864-04-11;3247",
+      "ementa": "CONCEDE A GONY STEPHEN PRIVILÉGIO POR DEZ ANOS PARA USAR UMA MÁQUINA, DE SUA INVENÇÃO, DESTINADA Á PREPARAÇÃO DA MADEIRA PARA TODOS OS MÍSTERES DA EDIFICAÇÃO."
+    },
+    {
+      "senadoId": "399993",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-11-3246",
+      "titulo": "Decreto nº 3.246 de 11/04/1864",
+      "data": "1864-04-11",
+      "numero": "3246",
+      "urn": "urn:lex:br:federal:decreto:1864-04-11;3246",
+      "ementa": "CONCEDE A GONY STEPHEN, PRIVILÉGIO POR DEZ ANOS PARA USAR UMA MÁQUINA, DE SUA INVENÇÃO, DESTINADA Á CONSERVAÇÃO DE CEREAIS."
+    },
+    {
+      "senadoId": "399988",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-06-3245",
+      "titulo": "Decreto nº 3.245 de 06/04/1864",
+      "data": "1864-04-06",
+      "numero": "3245",
+      "urn": "urn:lex:br:federal:decreto:1864-04-06;3245",
+      "ementa": "AUTORIZA O MINISTRO E SECRETARIO DE ESTADO DOS NEGOCIOS ESTRANGEIROS A APLICAR DA VERBA - EMPREGADOS EM DISPONIBILIDADE - N0 EXERCÍCIO DE 1863-1864, A QUANTIA DE 5:709$138, TIRADA DAS SOBRAS DA VERBA - AJUDAS DE CUSTO - DO MESMO EXERCICIO."
+    },
+    {
+      "senadoId": "399981",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-05-3243",
+      "titulo": "Decreto nº 3.243 de 05/04/1864",
+      "data": "1864-04-05",
+      "numero": "3243",
+      "urn": "urn:lex:br:federal:decreto:1864-04-05;3243",
+      "ementa": "DESLIGA O COMANDO SUPERIOR DOS MUNICÍPIO DOS RIO PRETO E PARAHYBUNA, NA PROVÍNCIA D EMINAS GERAIS, A GUARDA NACIONAL DO DISTRITO DE BARBACENA, E COM ELA CRIA UM COMANDO SUPERIOR."
+    },
+    {
+      "senadoId": "399977",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-04-02-3242",
+      "titulo": "Decreto nº 3.242 de 02/04/1864",
+      "data": "1864-04-02",
+      "numero": "3242",
+      "urn": "urn:lex:br:federal:decreto:1864-04-02;3242",
+      "ementa": "CRIA UM COMANDO SUPERIOR DA GUARDA NACIONAL NA COMARCA DE GUARAPUAVA, NA PROVÍNCIA DO PARANÁ."
+    },
+    {
+      "senadoId": "399973",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-31-3241",
+      "titulo": "Decreto nº 3.241 de 31/03/1864",
+      "data": "1864-03-31",
+      "numero": "3241",
+      "urn": "urn:lex:br:federal:decreto:1864-03-31;3241",
+      "ementa": "APROVA AS EMENDAS QUE A SOCIEDADE DENOMINADA - REAL SOCIEDADE PORTUGUESA AMANTE DA MONARQUIA E BENEFICIENTE - ADOTOU PARA OS SEUS ESTATUTOS JÁ APROVADOS."
+    },
+    {
+      "senadoId": "399969",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-31-3240",
+      "titulo": "Decreto nº 3.240 de 31/03/1864",
+      "data": "1864-03-31",
+      "numero": "3240",
+      "urn": "urn:lex:br:federal:decreto:1864-03-31;3240",
+      "ementa": "PERMITE A FUSÃO DAS SOCIEDADES DENOMINADAS - SOCIEDADE DE BENEFICIÊNCIA PROTETORA DOS GUARDAS NACIONAIS DA CÔRTE E PROVÍNCIA DO RIO DE JANEIRO, E SOCIEDADE BENEFICIENTE PROTETORA DOS GUARDAS NACIONAIS DA CÔRTE E PROVÍNCIA DO RIO DE JANEIRO."
+    },
+    {
+      "senadoId": "399965",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-30-3239",
+      "titulo": "Decreto nº 3.239 de 30/03/1864",
+      "data": "1864-03-30",
+      "numero": "3239",
+      "urn": "urn:lex:br:federal:decreto:1864-03-30;3239",
+      "ementa": "ALTERA A ORGANIZAÇÃO DOS BATALHÕES DE INFANTARIA NÚMERO VINTE TRÊS E TRINTA E OITO DA GUARDA NACIONAL, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "399957",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-22-3237",
+      "titulo": "Decreto nº 3.237 de 22/03/1864",
+      "data": "1864-03-22",
+      "numero": "3237",
+      "urn": "urn:lex:br:federal:decreto:1864-03-22;3237",
+      "ementa": "FAZ EXTENSIVA AOS FIÉIS DE 1ª E 2ª CLASSES DO CORPO DOS OFICIAIS DE FAZENDA E A DISPOSIÇÃO DO ARTIGO 5º, DO DECRETO NÚMERO 3.208, DE 24 DE DEZEMBRO DE 1863."
+    },
+    {
+      "senadoId": "399961",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-22-3238",
+      "titulo": "Decreto nº 3.238 de 22/03/1864",
+      "data": "1864-03-22",
+      "numero": "3238",
+      "urn": "urn:lex:br:federal:decreto:1864-03-22;3238",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL, NA FREGUESIA DO BARRACÃO, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "399953",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-21-3236",
+      "titulo": "Decreto nº 3.236 de 21/03/1864",
+      "data": "1864-03-21",
+      "numero": "3236",
+      "urn": "urn:lex:br:federal:decreto:1864-03-21;3236",
+      "ementa": "ESTABELECE A PORÇÃO ENTRE A DATA MINERAL E O CAPITAL SOCIAL QUE A EMPRESA, QUE DEVE LAVRAR AS MINAS DE CARVÃO DE PEDRA NAS MARGENS DO JAGUARÃO, TEM DE EMPREGAR EFETIVAMENTE."
+    },
+    {
+      "senadoId": "399949",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-21-3235",
+      "titulo": "Decreto nº 3.235 de 21/03/1864",
+      "data": "1864-03-21",
+      "numero": "3235",
+      "urn": "urn:lex:br:federal:decreto:1864-03-21;3235",
+      "ementa": "CONCEDE A ELI W. BLAKE PRIVILÉGIO POR CINCO ANOS PARA INTRODUZIR NO IMPÉRIO À MÁQUINA QUE DECLAROU TER INVENTADO PARA QUEBRAR PEDRA."
+    },
+    {
+      "senadoId": "399945",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-19-3234",
+      "titulo": "Decreto nº 3.234 de 19/03/1864",
+      "data": "1864-03-19",
+      "numero": "3234",
+      "urn": "urn:lex:br:federal:decreto:1864-03-19;3234",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A SEÇÃO DE BATALHÃO DA RESERVA NÚMERO DEZ DA GUARDA NACIONAL, DA PROVÍNCIA DE SÃO PAULO."
+    },
+    {
+      "senadoId": "399941",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-12-3233",
+      "titulo": "Decreto nº 3.233 de 12/03/1864",
+      "data": "1864-03-12",
+      "numero": "3233",
+      "urn": "urn:lex:br:federal:decreto:1864-03-12;3233",
+      "ementa": "ELEVA Á CATEGORIA DE ESQUADRÃO A COMPANHIA AVULSA DE CAVALARIA DE GUARDA NACIONAL, CRIADO NO MUNICÍPIO DE ALAGOINHA, DA PROVÍNCIA DA BAHIA."
+    },
+    {
+      "senadoId": "399937",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-10-3232",
+      "titulo": "Decreto nº 3.232 de 10/03/1864",
+      "data": "1864-03-10",
+      "numero": "3232",
+      "urn": "urn:lex:br:federal:decreto:1864-03-10;3232",
+      "ementa": "CONCEDE A CARLOS PINTO DE FIGUEIREDO E EDUARDO JOAQUIM PEREIRA DE OLIVEIRA, PRIVILÉGIO POR DEZ ANOS PARA ESTABELECEREM A NAVEGAÇÃO POR VAPOR NO RIO ITABAPOANA."
+    },
+    {
+      "senadoId": "399921",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-01-3228",
+      "titulo": "Decreto nº 3.228 de 01/03/1864",
+      "data": "1864-03-01",
+      "numero": "3228",
+      "urn": "urn:lex:br:federal:decreto:1864-03-01;3228",
+      "ementa": "ELEVA A CATEGORIA DE SEÇÃO DE BATALHÃO A COMPANHIA E A SEÇÃO DE COMPANHIA AVULSAS DO SERVIÇO DA RESERVA, ORGANIZADAS NO MUNICÍPIO DE CAXIAS, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "399933",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-01-3231",
+      "titulo": "Decreto nº 3.231 de 01/03/1864",
+      "data": "1864-03-01",
+      "numero": "3231",
+      "urn": "urn:lex:br:federal:decreto:1864-03-01;3231",
+      "ementa": "CRIA UM ESQUADRÃO AVULSO DE CAVALARIA DA GUARDA NACIONAL NAS FREGUESIAS DE BOTUCATU, LENÇÓIS E SÃO PAULO."
+    },
+    {
+      "senadoId": "399929",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-01-3230",
+      "titulo": "Decreto nº 3.230 de 01/03/1864",
+      "data": "1864-03-01",
+      "numero": "3230",
+      "urn": "urn:lex:br:federal:decreto:1864-03-01;3230",
+      "ementa": "CRIA MAIS UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA CIDADE DE CAXIAS, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "399925",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-03-01-3229",
+      "titulo": "Decreto nº 3.229 de 01/03/1864",
+      "data": "1864-03-01",
+      "numero": "3229",
+      "urn": "urn:lex:br:federal:decreto:1864-03-01;3229",
+      "ementa": "CRIA UM BATALHÃO DE INFANTARIA DA GUARDA NACIONAL DA FREGUESIA DE NOSSA SENHORA DE NAZARETH DA TRESIDELLA, DA PROVÍNCIA DO MARANHÃO."
+    },
+    {
+      "senadoId": "399918",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-02-29-3227",
+      "titulo": "Decreto nº 3.227 de 29/02/1864",
+      "data": "1864-02-29",
+      "numero": "3227",
+      "urn": "urn:lex:br:federal:decreto:1864-02-29;3227",
+      "ementa": "APROVA OS NOVOS ESTATUTOS DA SOCIEDADE - GABINETE PORTUGUÊS DE LEITURA - COM AS ALTERAÇÕES."
+    },
+    {
+      "senadoId": "399914",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-02-26-3226",
+      "titulo": "Decreto nº 3.226 de 26/02/1864",
+      "data": "1864-02-26",
+      "numero": "3226",
+      "urn": "urn:lex:br:federal:decreto:1864-02-26;3226",
+      "ementa": "FAZ EXTENSIVAS AOS TÍTULOS DE TODAS AS MERCÊS HONORÍFICAS, AS DISPOSIÇÕES DOS ARTIGOS 11 E 12, DO DECRETO NÚMERO 2.853, DE 7 DE DEZEMBRO DE 1861, RELATIVA AOS DAS CONDECORAÇÕES."
+    },
+    {
+      "senadoId": "399910",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-02-24-3225",
+      "titulo": "Decreto nº 3.225 de 24/02/1864",
+      "data": "1864-02-24",
+      "numero": "3225",
+      "urn": "urn:lex:br:federal:decreto:1864-02-24;3225",
+      "ementa": "CRIA UM ESQUADRÃO AVULSO DE CAVALARIA DA GUARDA NACIONAL NO MUNICÍPIO DE SANTO ANTÃO, DA PROVÍNCIA DE PERNAMBUCO."
+    },
+    {
+      "senadoId": "399906",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-02-23-3224",
+      "titulo": "Decreto nº 3.224 de 23/02/1864",
+      "data": "1864-02-23",
+      "numero": "3224",
+      "urn": "urn:lex:br:federal:decreto:1864-02-23;3224",
+      "ementa": "CONCEDE A REAL COMPANHIA INGLEZA DE SEGUROS CONTRA OS RISCOS DE FOGO E VIDA, ESTABELECIDA EM LIVERPOOL, A NECESSARIA AUTORIZAÇÃO PARA ESTABELECER NO IMPERIO UMA AGENCIA, QUE TENHA POR FIM REALIZAR A PRIMEIRA DAQUELAS OPERAÇÕES, SOB AS CONDIÇÕES ABAIXO DECLARADAS."
+    },
+    {
+      "senadoId": "399898",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-01-30-3222",
+      "titulo": "Decreto nº 3.222 de 30/01/1864",
+      "data": "1864-01-30",
+      "numero": "3222",
+      "urn": "urn:lex:br:federal:decreto:1864-01-30;3222",
+      "ementa": "TRANSFERE A JOSÉ PEREIRA TAVARES E AO BARÃO DE IVAÍ, A CONCESSÃO PARA ABERTURA DE UMA RUA DE COMUNICAÇÃO ENTRE A DO ATERRO DA CIDADE NOVA E DA FEIRA EM SÃO CRISTÓVÃO."
+    },
+    {
+      "senadoId": "399902",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-01-30-3223",
+      "titulo": "Decreto nº 3.223 de 30/01/1864",
+      "data": "1864-01-30",
+      "numero": "3223",
+      "urn": "urn:lex:br:federal:decreto:1864-01-30;3223",
+      "ementa": "TRANSFERE A JOSÉ PEREIRA TAVARES E AO BARÃO DE IVAÍ, A CONCESSÃO PARA A CONSTRUÇÃO DE UMA RUA SOBRE O MAR QUE COMUNIQUE A DO CORTUME EM SÃO CRISTÓVÃO COM A PRAIA DO SACO ALFERES."
+    },
+    {
+      "senadoId": "399894",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-01-23-3221",
+      "titulo": "Decreto nº 3.221 de 23/01/1864",
+      "data": "1864-01-23",
+      "numero": "3221",
+      "urn": "urn:lex:br:federal:decreto:1864-01-23;3221",
+      "ementa": "MODIFICANDO E ADITANDO ALGUMAS DAS TARIFAS QUE BAIXARAM COM O DECRETO NÚMERO 3.048, DE 3 DE FEVEREIRO DE 1863."
+    },
+    {
+      "senadoId": "399886",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-01-14-3219",
+      "titulo": "Decreto nº 3.219 de 14/01/1864",
+      "data": "1864-01-14",
+      "numero": "3219",
+      "urn": "urn:lex:br:federal:decreto:1864-01-14;3219",
+      "ementa": "ELEVA A CATEGORIA DE BATALHÃO A 2ª SEÇÃO DE BATALHÃO DE INFANTARIA DA GUARDA NACIONAL, ORGANIZADA NO MUNICÍPIO DE MIRANDAM DA PROVÍNCIA DE MATO GROSSO."
+    },
+    {
+      "senadoId": "399890",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-01-14-3220",
+      "titulo": "Decreto nº 3.220 de 14/01/1864",
+      "data": "1864-01-14",
+      "numero": "3220",
+      "urn": "urn:lex:br:federal:decreto:1864-01-14;3220",
+      "ementa": "DESLIGA DO BATALHÃO DE INFANTARIA NÚMERO 5, A GUARDA NACIONAL, QUALIFICADA NO MUNICÍPIO DE SÃO LUIZ DE VILA MARIA, DA PROVÍNCIA DE MATO GROSSO, E COM ELA CRIA UM BATALHÃO DE QUATRO COMPANHIAS."
+    },
+    {
+      "senadoId": "399882",
+      "tipo": "DEC",
+      "id": "br-federal-decreto-1864-01-13-3218",
+      "titulo": "Decreto nº 3.218 de 13/01/1864",
+      "data": "1864-01-13",
+      "numero": "3218",
+      "urn": "urn:lex:br:federal:decreto:1864-01-13;3218",
+      "ementa": "DECLARA DE SEGUNDA ENTRÂNCIA A COMARCA DE MAMANGUAPE, CRIADA NA PROVÍNCIA DA PARAÍBA."
+    }
+  ],
+  "pendencias": []
+}

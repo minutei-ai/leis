@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2017-12-21-13562",
+  "titulo": "Lei nº 13.562 de 21/12/2017",
+  "data": "2017-12-21",
+  "fonte": "https://normas.leg.br/api/public/binario/358ac67a-c3ac-4f1a-9d29-fb343145ef08/texto",
+  "versao": "publicação original disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2017-12-21;13562",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2017-12-21%3B13562&tipo_documento=maior-detalhe",
+  "sha256_dados": "d2ed416d926d84dde79d35ce0acff4e979099f87924e1113b00e064d36c161db",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:52:47.853Z",
+  "sha256_fonte": "b3fdc06a99ed2d5ef6f6194dd0788d0959de953bc9feb8fbaf0824152f764373",
+  "sha256_markdown": "5545b4c4a7c36def28f52caa1f5bf53e0840cfc3be36b7d3528f4f8aab547eac"
+}

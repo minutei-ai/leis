@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2016-09-01-13331",
+  "titulo": "Lei nº 13.331 de 01/09/2016",
+  "data": "2016-09-01",
+  "fonte": "https://normas.leg.br/api/public/binario/eec7655c-32a7-47fa-9819-9ff4e725ce9a/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2016-09-01;13331",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2016-09-01%3B13331&tipo_documento=maior-detalhe",
+  "sha256_dados": "700a1805f1adfeb977eba0dd2d9a6c01b4a6956c13b8e9838fc51349510b7863",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T08:57:50.309Z",
+  "sha256_fonte": "f4e2ca24482eae46ce60b9035d0cd6a120f0bab642615bb6424426498c5ac706",
+  "sha256_markdown": "82c8111e573761335fb6072e672a0a12d4f9c09370227b7216c64f4fa356db9a"
+}

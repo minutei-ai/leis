@@ -1,0 +1,14 @@
+{
+  "id": "br-federal-lei-2014-09-03-13026",
+  "titulo": "Lei nº 13.026 de 03/09/2014",
+  "data": "2014-09-03",
+  "fonte": "https://normas.leg.br/api/public/binario/9711d2ce-3bb7-408a-8390-edc8cf21b49b/texto",
+  "versao": "compilação atual disponibilizada pelo Senado",
+  "urn": "urn:lex:br:federal:lei:2014-09-03;13026",
+  "dados": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2014-09-03%3B13026&tipo_documento=maior-detalhe",
+  "sha256_dados": "9e6fcebb38f853d2f003ca7d5cafc0c4408edeebf7e213f8a8e6f8c29b83129f",
+  "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
+  "coletado_em": "2026-10-21T09:04:39.971Z",
+  "sha256_fonte": "c2bd3b9e412656339205d7e9b1fb27956b78156b1260ed787fd476d037cbed50",
+  "sha256_markdown": "f0b47ff9621d836d09f73f75979cd92b5ef15f8a9aa7692bcab14914248505c9"
+}
