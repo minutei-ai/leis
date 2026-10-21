@@ -1,0 +1,66 @@
+# Decreto Numerado nº 538, de 2026-09-17
+
+DECRETO Nº 538, DE 17 DE SETEMBRO DE 2026
+
+Aprova o Projeto de Regularização Fundiária Urbana de Interesse Social – Reurb-S incidente sobre imóveis da Quadra 25 do Loteamento Jardim Florença, no Município de Aparecida de Goiânia, e dá outras providências.
+
+O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município, tendo em vista o disposto na Lei federal nº 13.465, de 11 de julho de 2017, no Decreto federal nº 9.310, de 15 de março de 2018, na Lei nº 2.707, de 18 de dezembro de 2007, na Lei Complementar nº 124, de 14 de dezembro de 2016, e o que consta do Processo Administrativo nº 2023.215.907,
+
+**DECRETA:**
+
+Art. 1º Fica aprovado o Projeto de Regularização Fundiária Urbana de Interesse Social – Reurb-S incidente sobre os imóveis da Quadra 25 do Loteamento Jardim Florença, no Município de Aparecida de Goiânia, objeto das matrículas nº 163.227, nº 256.722, nº 256.723, nº 256.724 e nº 256.725 do Cartório de Registro de Imóveis e Tabelionato 1º de Notas, com área total de 1.440,00 m² (mil quatrocentos e quarenta metros quadrados), conforme planta, memorial descritivo e demais documentos técnicos aprovados no Processo Administrativo nº 2023.215.907.
+
+Art. 2º O projeto aprovado resulta na constituição de 6 (seis) unidades imobiliárias, denominadas Lote 05, Lote 05A, Lote 06, Lote 06A, Lote 07 e Lote 08, cada uma com área de 240,00 m² (duzentos e quarenta metros quadrados).
+
+Parágrafo único. Os limites, as confrontações, as dimensões e as demais características das unidades imobiliárias de que trata o caput constam do Anexo deste Decreto, em conformidade com a planta e o memorial descritivo aprovados.
+
+Art. 3º Fica adotada a legitimação fundiária como instrumento de titulação dos beneficiários da Reurb-S aprovada por este Decreto, nos termos do art. 23 da Lei federal nº 13.465, de 11 de julho de 2017.
+
+§ 1º A legitimação fundiária será conferida aos ocupantes das unidades imobiliárias integrantes do núcleo urbano informal consolidado, desde que atendidas as condições previstas no § 1º do art. 23 da Lei federal nº 13.465, de 2017.
+
+§ 2º A identificação e a qualificação dos beneficiários, bem como a individualização das respectivas unidades imobiliárias, observarão o cadastro e os demais elementos constantes do Processo Administrativo nº 2023.215.907 e integrarão a Certidão de Regularização Fundiária – CRF.
+
+§ 3º A legitimação fundiária constitui forma originária de aquisição do direito real de propriedade, com os efeitos previstos na Lei federal nº 13.465, de 2017.
+
+Art. 4º Concluídas as providências necessárias à efetivação da Reurb-S, o órgão municipal competente expedirá a Certidão de Regularização Fundiária – CRF, contendo os elementos exigidos pelo art. 41 da Lei federal nº 13.465, de 11 de julho de 2017.
+
+Art. 5º A CRF e o projeto aprovado serão encaminhados ao Registro de Imóveis competente para a prática dos atos registrais cabíveis, nos termos da Lei federal nº 13.465, de 11 de julho de 2017.
+
+Art. 6º Fica revogado o Decreto nº 537, de 15 de setembro de 2026.
+
+Art. 7º Este Decreto entra em vigor na data de sua publicação.
+
+Aparecida de Goiânia, 17 de setembro de 2026.
+
+ 
+
+LEANDRO VILELA<br>
+Prefeito de Aparecida de Goiânia
+
+ANEXO AO DECRETO Nº 538/2026
+
+SITUAÇÃO ATUAL
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:justify">Lote 05, da Quadra 25, do loteamento Jardim Florença – matrícula nº 163.227, do Cartório de Registro de Imóveis e Tabelionato 1º de Notas</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">12,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 18</td><td style="text-align:center">12,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 06</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 04</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">360,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:justify">Lote 06, da Quadra 25, do loteamento Jardim Florença – matrícula nº 256.722, do Cartório de Registro de Imóveis e Tabelionato 1º de Notas</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 17</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 07</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 05</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">270,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:justify">Lote 07, da Quadra 25, do loteamento Jardim Florença – matrícula nº 256.723, do Cartório de Registro de Imóveis e Tabelionato 1º de Notas</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com os lotes 16 e 17</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 08</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 06</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">270,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:justify">Lote 08, da Quadra 25, do loteamento Jardim Florença – matrícula nº 256.724, do Cartório de Registro de Imóveis e Tabelionato 1º de Notas</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com os lotes 15 e 16</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 08A</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 07</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">270,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:justify">Lote 08A, da Quadra 25, do loteamento Jardim Florença – matrícula nº 256.725, do Cartório de Registro de Imóveis e Tabelionato 1º de Notas</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 15</td><td style="text-align:center">9,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 09</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 08</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">270,00m²</td></tr></tbody></table>
+
+SITUAÇÃO APÓS REGULARIZAÇÃO FUNDIÁRIA
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:center">Lote 05</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 18</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 05A</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 04</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">240,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:center">Lote 05A</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com os lotes 17 e 18</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 06</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 05</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">240,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:center">Lote 06</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 17</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 06A</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 05A</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">240,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:center">Lote 06A</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 16</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 07</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 06</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">240,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:center">Lote 07</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com os lotes 15 e 16</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 08</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 06A</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">240,00m²</td></tr></tbody></table>
+
+<table><thead></thead><tbody><tr><td style="text-align:center">Denominação</td><td style="text-align:center">Limites e confrontações</td><td style="text-align:center">Dimensões</td></tr><tr><td rowspan="5" style="text-align:center">Lote 08</td><td style="text-align:justify">Frente para a Rua Asti</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Fundo confrontando com o Lote 15</td><td style="text-align:center">8,00m</td></tr><tr><td style="text-align:justify">Lado direito confrontando com o Lote 09</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Lado esquerdo confrontando com o Lote 07</td><td style="text-align:center">30,00m</td></tr><tr><td style="text-align:justify">Área Total</td><td style="text-align:center">240,00m²</td></tr></tbody></table>
