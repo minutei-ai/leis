@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**60.244 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**61.449 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -17,12 +17,13 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
 | Federal | [Brasil](federal/) | 8.138 |
-| Estadual | [Acre](estaduais/AC/) | 499 |
+| Estadual | [Acre](estaduais/AC/) | 773 |
+| Estadual | [Amazonas](estaduais/AM/) | 1 |
 | Estadual | [Bahia](estaduais/BA/) | 1.083 |
 | Estadual | [Ceará](estaduais/CE/) | 18 |
 | Estadual | [Espírito Santo](estaduais/ES/) | 20 |
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
-| Estadual | [Minas Gerais](estaduais/MG/) | 21.387 |
+| Estadual | [Minas Gerais](estaduais/MG/) | 22.317 |
 | Estadual | [Paraná](estaduais/PR/) | 11 |
 | Estadual | [Pernambuco](estaduais/PE/) | 19 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
@@ -39,7 +40,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Minas Gerais, São Paulo, Ceará, Espírito Santo, Pernambuco e Santa Catarina, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná e da Prefeitura e da Câmara Municipal de São Paulo.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas do Amazonas, de Minas Gerais, São Paulo, Ceará, Espírito Santo, Pernambuco e Santa Catarina, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná e da Prefeitura e da Câmara Municipal de São Paulo.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais e atualizados, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
