@@ -1,6 +1,6 @@
 {
   "id": "bahia-url-62d67a2956efd47e515ab5eab6b113da8eecad608c5709081ababcc4de7c7636",
-  "coletado_em": "2026-10-21T10:33:13.942Z",
-  "erro": "BahiaFailure: { \"fonte\": \"https://www.legislabahia.ba.gov.br/documentos/lei-no-15123-de-28-de-janeiro-de-2026\", \"motivo\": \"Título do catálogo diverge da íntegra: undefined\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/bahia.ts:103:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/bahia.ts:81:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/collect-bahia.ts:90:33)",
+  "coletado_em": "2026-10-21T11:18:54.176Z",
+  "erro": "BahiaFailure: { \"fonte\": \"https://www.legislabahia.ba.gov.br/documentos/lei-no-15123-de-28-de-janeiro-de-2026\", \"motivo\": \"Título do catálogo diverge da íntegra: undefined\" }\n    at <anonymous> (/home/yorizel/repos/leis/scripts/bahia.ts:112:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/bahia.ts:81:35)\n    at bahia.source (/home/yorizel/repos/leis/scripts/collect-bahia.ts:90:33)",
   "fonte": "https://www.legislabahia.ba.gov.br/documentos/lei-no-15123-de-28-de-janeiro-de-2026"
 }

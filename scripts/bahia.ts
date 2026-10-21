@@ -87,23 +87,29 @@ export const bahiaSource = Effect.fn("bahia.source")(function* (link: typeof Bah
   const date = node.find(".field--name-field-data-doc time").attr("datetime")?.slice(0, 10);
   const body = node.find(".field--name-body").clone();
   body.find("style,script").remove();
-  const titles = body.find(".lei, .lei1, p").toArray().map((element) => {
+  const titles = body.find(".lei, .lei1, .titulo, .normalanexo, p").toArray().map((element) => {
     const heading = $(element).clone();
     heading.find(".revogado").remove();
     heading.find("a").filter((_, anchor) => $(anchor).text().trim() === "[Download]").remove();
     return heading.text().replace(/\s+/gu, " ").trim();
   });
   const title = titles.find((value) => /^(?:LEI|LC|LD|CONSTITUIÇÃO|EMENDA)\b/iu.test(value));
-  const compared = [title ?? "", link.titulo].map((value) => value.toLocaleUpperCase("pt-BR").replace(/^LD /u, "LEI DELEGADA ").replace(/^LC /u, "LEI COMPLEMENTAR ").replace(/^EMENDA À CONSTITUIÇÃO /u, "EMENDA CONSTITUCIONAL ").replace(/N\.?[º°]\s*0*(\d+)/u, "Nº $1").replace(/, DE /u, " DE ").replace(/\.$/u, ""));
+  const compared = [title ?? "", link.titulo].map((value) => value.toLocaleUpperCase("pt-BR").replace(/^LD /u, "LEI DELEGADA ").replace(/^LC /u, "LEI COMPLEMENTAR ").replace(/^EMENDA À CONSTITUIÇÃO /u, "EMENDA CONSTITUCIONAL ").replace(/N\.?[º°]\s*0*(\d+)/u, "Nº $1").replace(/, DE /u, " DE ").replace(/\s*\[DOWNLOAD\]$/u, "").replace(/\.$/u, ""));
   if (node.length !== 1 || match?.[1] === undefined || node.attr("data-history-node-id") !== match[1])
     return yield* Effect.fail(new BahiaFailure({ fonte: link.fonte, motivo: "Identidade Drupal ausente ou divergente" }));
   if (canonical !== link.fonte || date === undefined)
     return yield* Effect.fail(new BahiaFailure({ fonte: link.fonte, motivo: "Endereço canônico ou data oficial ausente ou divergente" }));
-  if (compared[0] !== compared[1])
-    return yield* Effect.fail(new BahiaFailure({ fonte: link.fonte, motivo: `Título do catálogo diverge da íntegra: ${title}` }));
   const parsed = yield* Schema.decodeUnknown(Schema.DateFromString)(date);
   if (parsed.toISOString().slice(0, 10) !== date)
     return yield* Effect.fail(new BahiaFailure({ fonte: link.fonte, motivo: "Data oficial inválida" }));
+  const writtenDate = new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "long", year: "numeric", timeZone: "UTC" }).format(parsed).toLocaleUpperCase("pt-BR");
+  const category = node.find(".field--name-field-categoria-doc .field--item").text().trim();
+  const historicalConstitution = category === `Constituição Estadual ${date.slice(0, 4)}`
+    && compared[1]?.replace(/ - TEXTO CONSOLIDADO$/u, "") === `CONSTITUIÇÃO DO ESTADO DA BAHIA DE ${writtenDate}`
+    && ["CONSTITUIÇÃO", "CONSTITUIÇÃO DO ESTADO DA BAHIA"].includes(compared[0] ?? "")
+    && body.text().replace(/\s+/gu, " ").toLocaleUpperCase("pt-BR").includes(writtenDate);
+  if (compared[0] !== compared[1] && !historicalConstitution)
+    return yield* Effect.fail(new BahiaFailure({ fonte: link.fonte, motivo: `Título do catálogo diverge da íntegra: ${title}` }));
   return Source.make({ ...link, id: `br-ba-norma-${match[1]}`, data: date });
 });
 

@@ -109,3 +109,26 @@ test("Bahia confere emenda com abreviatura e pontuação oficiais distintas", as
   expect(source.data).toBe("2024-03-19");
   expect(await Effect.runPromise(convert(source, html))).toContain("Art. 1º");
 });
+
+test("Bahia resolve cabeçalho histórico pela categoria e data de promulgação, sem aceitar outra constituição", async () => {
+  for (const category of ["30", "31", "33"]) {
+    const inventory = await Bun.file(`catalogos/bahia/${category}-00000.json`).json();
+    const link = inventory.pagina.normas[0];
+    const year = new Map([["30", "1891"], ["31", "1935"], ["33", "1967"]]).get(category);
+    expect(year).toBeDefined();
+    if (year === undefined) return;
+    const html = gunzipSync(await Bun.file(`scripts/fixtures/bahia-${year}.html.gz`).arrayBuffer()).toString("utf8");
+    const source = await Effect.runPromise(bahiaSource(link, html));
+    expect(source.data.slice(0, 4)).toBe(year);
+    expect(await Effect.runPromise(convert(source, html))).toContain("Art. 1º");
+    const wrong = { ...link, titulo: link.titulo.replace(year, "1900") };
+    expect(Either.isLeft(await Effect.runPromise(bahiaSource(wrong, html).pipe(Effect.either)))).toBe(true);
+  }
+});
+
+test("Bahia ignora somente o controle Download ao comparar o título e preserva o corpo", async () => {
+  const html = gunzipSync(await Bun.file("scripts/fixtures/bahia-download.html.gz").arrayBuffer()).toString("utf8");
+  const source = await Effect.runPromise(bahiaSource({ fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-19-de-23-de-julho-de-2003", titulo: "LEI COMPLEMENTAR Nº 19 DE 23 DE JULHO DE 2003" }, html));
+  expect(source.data).toBe("2003-07-23");
+  expect(await Effect.runPromise(convert(source, html))).toContain("Art. 1º");
+});

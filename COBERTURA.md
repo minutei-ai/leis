@@ -2,15 +2,15 @@
 
 Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos arquivos com hashes íntegros presentes neste commit. Não mede toda a legislação brasileira nem a completude dos catálogos oficiais.
 
-- Normas publicadas: **5294**.
+- Normas publicadas: **5299**.
 - Normas identificadas nos catálogos consultados do Senado: **186312**.
 - Dessas, ainda sem Markdown íntegro: **183741**.
 - Normas identificadas nos catálogos consultados da ALMG: **61932**.
 - Dessas, ainda sem Markdown íntegro: **59928**.
 - Normas identificadas nas páginas consultadas da Alesp: **181192**; publicadas: **268**.
 - Leis municipais de São Paulo identificadas: **18447**; publicadas: **104**.
-- Documentos baianos catalogados: **497**; publicados: **346**.
-- Falhas de coleta registradas: **54**.
+- Documentos baianos catalogados: **497**; publicados: **351**.
+- Falhas de coleta registradas: **49**.
 - Falhas de descoberta de catálogos registradas: **0**.
 
 ## Versões publicadas
@@ -21,7 +21,7 @@ Este relatório é gerado por `bun run coverage` a partir dos catálogos e dos a
 - publicação original disponibilizada pelo Senado: 2421.
 - texto atualizado disponibilizado pela ALMG: 84.
 - texto atualizado pela Câmara na data de coleta: 3.
-- texto compilado disponibilizado pela Casa Civil da Bahia: 346.
+- texto compilado disponibilizado pela Casa Civil da Bahia: 351.
 - texto compilado disponibilizado pela Prefeitura de São Paulo: 104.
 
 ## Catálogos federais do Senado
