@@ -1,0 +1,11 @@
+###DEC-000000-0-091-12-11-1822@@@
+
+DECRETO - DE 12 DE NOVEMBRO DE 1822
+
+Manda cobrar direitos das mercadorias estrangeiras reembarcadas da Bahia, durante a occupação das tropas Portuguezas, e determina que a dídiva contrahida pelo Brigadeiro Ignácio Luiz Madeira de Mello não seja paga pelas rendas da Província.
+
+Sendo constante, que alguns capitalistas da Cidade da Bahia têm concorrido com avultadas sommas para a mantença e conservação naquella Capital das Tropas Portuguezas, commandadas pelo Brigadeiro Ignácio Luiz Madeira de Mello, talvez illudidos pela falsa promessa de que taes empréstimos, são conceituados divida Nacional, e como taes devem ser pagos pelo Thesouro da Província; e outrosim, que os negociantes estrangeiros, alliciados já pela diminuição nos direitos, a que são sujeitos os seus gêneros e mercadorias, já pela lisongeira esperança de maiores lucros, já mesmo pela liberdade de os poderem reembarcar, depois de assim despachados, para outros Portos deste Império, aonde entram livres de direitos, têm affluido para aquelle Porto com extraordinária quantidade dos ditos gêneros e mercadorias, o que também tem cooperado para retardar a época da evacuação, e embarque das referidas Tropas; e sendo um dos Meus mais sagrados deveres o lançar mão de todos os meios, que estiverem ao Meu alcance para salvar quanto antes aquella rica e bella Província de horrores, e devastações praticadas pelos novos Vândalos Portuguezes: Hei por bem Mandar que todos os gêneros e mercadorias estrangeiras despachadas na Alfândega da Bahia, e reembarcadas para outros Portos deste Império, tornem a pagar nas suas respectivas Alfândegas os direitos nellas estabelecidos, emquanto se conservarem Tropas Portuguezas naquella Capital: que a divida contrahida pelo dito Madeira não seja paga pelas rendas Publicas da Província, e que taes capitalistas, no caso de reincidência, sejam reputados rebeldes á causa do Brazil, e Minha, e como taes punidos com aquellas penas, que a Lei decreta, para semelhantes criminosos. Os Meus Ministros de Estado, e do Meu Conselho, a quem o conhecimento e cumprimento deste pertencer, assim o tenham entendido e façam executar com os despachos necessários. Palácio do Rio de Janeiro em 12 de Novembro de 1822.
+
+Com a rubrica de Sua Magestade Imperial.
+
+Martim Francisco Ribeiro de Andrada.
