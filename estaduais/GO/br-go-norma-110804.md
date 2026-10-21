@@ -1,0 +1,67 @@
+# Portaria Orçamentária nº 20, de 2025-02-18
+
+Portaria Orçamentária nº 20/2025 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025, conforme processo 202500004007909.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO DE MODERNIZAÇÃO E APRIMORAMENTO FUNCIONAL DO MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS , FUNDO ESPECIAL DE REAPARELHAMENTO DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS , créditos suplementares no valor global de R$ 28.239.222,55 (vinte e oito milhões, duzentos e trinta e nove mil, duzentos e vinte e dois reais e cinquenta e cinco centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I e III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior e anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 18 dias do mês de Fevereiro de 2025.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+SUPLEMENTAÇÃO
+
+|     **350-FUNDO ESPECIAL DE REAPARELHAMENTO DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO TCMGO | 01 032 4200 4228 | 27590141 | 90 | 4 - INVESTIMENTOS | R$ 609.029,10 | R$ 6.365.857,51 | R$ 6.974.886,61 |
+| REFORMA E AMPLIAÇÃO DA NOVA SEDE DO TCMGO | 01 032 1047 3150 | 27990142 | 90 | 4 - INVESTIMENTOS | R$ 306.000,00 | R$ 11.756.393,13 | R$ 12.062.393,13 |
+
+|     **750-FUNDO DE MODERNIZAÇÃO E APRIMORAMENTO FUNCIONAL DO MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO | 03 091 4200 4241 |   27530138 |   90 |   4 - INVESTIMENTOS |   R$ 0,00 |   R$ 10.116.971,91 |   R$ 10.116.971,91 |
+
+TOTAL A SUPLEMENTAR POR FONTE: R$ 28.239.222,55
+
+| 27530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS - EXERCÍCIOS ANTERIORES | R$ 10.116.971,91 |
+| --- | --- |
+| 27590141 - RECURSOS VINCULADOS A FUNDOS - EXERCÍCIOS ANTERIORES | R$ 6.365.857,51 |
+| 27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES | R$ 11.756.393,13 |
+
+QUADRO 2
+
+REDUÇÃO
+
+|     **750-FUNDO DE MODERNIZAÇÃO E APRIMORAMENTO FUNCIONAL DO MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO A PROGRAMAR** |   **VALOR BLOQUEADO** |   **VALOR A REDUZIR** |
+| CONSTRUÇÃO / AQUISIÇÃO / AMPLIAÇÃO DA SEDE DO MINISTÉRIO PÚBLICO | 03 091 1007 3151 |   27530138 |   90 |   4 - INVESTIMENTOS |   R$ 10.116.971,91 |   R$ 10.116.971,91 |   R$ 10.116.971,91 |
+
+TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 § 1º Inciso I: R$ 18.122.250,64
+
+| 27590141 - RECURSOS VINCULADOS A FUNDOS - EXERCÍCIOS ANTERIORES | R$ 6.365.857,51 |
+| --- | --- |
+| 27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES | R$ 11.756.393,13 |
+
+TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 10.116.971,91
+
+<table style="width: 725px;"><tbody><tr><td style="width: 681.5px;">27530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS - EXERCÍCIOS ANTERIORES</td><td style="width: 1px;">R$ 10.116.971,91</td></tr></tbody></table>
+
+TOTAL POR FONTE: R$ 28.239.222,55
+
+| 27530138 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - EMOLUMENTOS E CUSTAS EXTRAJUDICIAIS - EXERCÍCIOS ANTERIORES | R$ 10.116.971,91 |
+| --- | --- |
+| 27590141 - RECURSOS VINCULADOS A FUNDOS - EXERCÍCIOS ANTERIORES | R$ 6.365.857,51 |
+| 27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES | R$ 11.756.393,13 |

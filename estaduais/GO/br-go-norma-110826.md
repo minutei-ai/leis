@@ -1,0 +1,56 @@
+# Portaria Orçamentária nº 70, de 2025-04-16
+
+Portaria Orçamentária nº 70/2025 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025.Conforme art. 13, §2º da Portaria 18, de 29 de Janeiro de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à SECRETARIA DE ESTADO DA RETOMADA, SECRETARIA DE ESTADO DA EDUCAÇÃO, SECRETARIA-GERAL DE GOVERNO, GOIAS TELECOMUNICACOES S.A., créditos suplementares no valor global de R$ 13.609.425,38 (treze milhões, seiscentos e nove mil, quatrocentos e vinte e cinco reais e trinta e oito centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 16 dias do mês de Abril de 2025.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+SUPLEMENTAÇÃO
+
+| **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**<br>
+**2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO |   12 368 1008 2474 |     25700260 |     90 |   3 - OUTRAS DESPESAS CORRENTES |     R$ 11.794.443,00 |     R$ 24.630,00 |     R$ 11.819.073,00 |
+| IMPLEMENTAÇÃO DE REALIDADE VIRTUAL NAS ESCOLAS | 12 368 1008 2482 |   25700260 |   90 | 3 - OUTRAS DESPESAS CORRENTES |   R$ 0,00 |   R$ 9.889.000,00 |   R$ 9.889.000,00 |
+
+| **4000 - SECRETARIA-GERAL DE GOVERNO**<br>
+**4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 04 122 4200 4243 | 27000280 | 90 | 4 - INVESTIMENTOS | R$ 8.216,00 | R$ 2.031.951,75 | R$ 2.040.167,75 |
+
+| **4200 - SECRETARIA DE ESTADO DA RETOMADA**<br>
+**4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| ASSESSORIA DE COOPERATIVA PELA RETOMADA | 11 334 1054 2446 | 26650274 | 90 | 4 - INVESTIMENTOS | R$ 0,00 | R$ 992.140,00 | R$ 992.140,00 |
+
+| **4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS | 24 722 1049 2562 |   25010220 |   90 | 3 - OUTRAS DESPESAS CORRENTES |   R$ 0,00 |   R$ 30.000,00 |   R$ 30.000,00 |
+| MANUTENÇÃO DA REDE DE FIBRA ÓTICA EM MUNICÍPIOS | 24 722 1049 3235 |   25010220 |   90 | 3 - OUTRAS DESPESAS CORRENTES |   R$ 0,00 |   R$ 641.703,63 |   R$ 641.703,63 |
+
+TOTAL A SUPLEMENTAR POR FONTE: R$ 13.609.425,38
+
+| 25010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS - EXERCÍCIOS ANTERIORES | R$ 671.703,63 |
+| --- | --- |
+| 25700260 - TRANSFERÊNCIAS DO GOVERNO FEDERAL REFERENTES A CONVÊNIOS E INSTRUMENTOS CONGÊNERES VINCULADOS À EDUCAÇÃO - EXERCÍCIOS ANTERIORES | R$ 9.913.630,00 |
+| 26650274 - TRANSFERÊNCIAS DE CONVÊNIOS E INSTRUMENTOS CONGÊNERES VINCULADOS À ASSISTÊNCIA SOCIAL - COM ÓRGÃOS FEDERAIS - EXERCÍCIOS ANTERIORES | R$ 992.140,00 |
+| 27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES | R$ 2.031.951,75 |

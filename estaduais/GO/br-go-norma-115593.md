@@ -1,0 +1,65 @@
+# Portaria Orçamentária nº 201, de 2026-05-22
+
+Portaria Orçamentária nº 201/2026 - Economia
+
+**A SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 6 de janeiro de 2026, conforme processo 202600004006506.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto à SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO, crédito suplementar no valor de R$ 1.186.481,17 (um milhão cento e oitenta e seis mil quatrocentos e oitenta e um reais e dezessete centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 22 dias do mês de maio de 2026.
+
+ 
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+| **SUPLEMENTAÇÃO** |
+| --- |
+| **3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**<br>
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO DOS SERVIÇOS DAS ESCOLAS DO FUTURO DO ESTADO DE GOIÁS | 12 363 1054 2390 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 14.008.850,00 | R$ 515.231,17 | R$ 14.524.081,17 |
+| GESTÃO DOS SERVIÇOS DO PLANO DIRETOR DA EDUCAÇÃO SUPERIOR DO ESTADO DE GOIÁS | 19 364 1054 2391 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 671.250,00 | R$ 671.250,00 |
+
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 1.186.481,17 |
+| **TOTAL A SUPLEMENTAR** | R$ 1.186.481,17 |
+
+QUADRO 2
+
+| **REDUÇÃO** |
+| --- |
+| **3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**<br>
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| IMPLEMENTAÇÂO DO PROGRAMA GOIÁS ATIVA | 19 573 1049 3200 | 15000100 | 50 | 3 - OUTRAS DESPESAS CORRENTES | R$ 1.100.000,00 | R$ 471.302,40 | R$ 471.302,40 |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 04 122 4200 4243 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 3.259.590,35 | R$ 283.964,77 | R$ 283.964,77 |
+| IMPLEMENTAÇÂO DO PROGRAMA DE INOVAÇÃO ABERTA | 19 572 1049 3199 | 15000100 | 50 | 3 - OUTRAS DESPESAS CORRENTES | R$ 100.000,00 | R$ 97.270,00 | R$ 97.270,00 |
+| IMPLEMENTAÇÃO DE EVENTOS E PROJETOS DE TECNOLOGIA E EDUCAÇÃO | 19 573 1054 2394 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 1.000.000,00 | R$ 200.000,00 | R$ 200.000,00 |
+| GESTÃO DOS SERVIÇOS DO PRONATEC | 19 363 1054 2392 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| GESTÃO DA INICIATIVA ESTRATÉGIA ESTADUAL DE NEGÓCIO DE IMPACTO SOCIOAMBIENTAL POSITIVO | 19 573 1049 2386 | 15000100 | 50 | 3 - OUTRAS DESPESAS CORRENTES | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| IMPLEMENTAÇÃO DO PROGRAMA DE INTERNACIONALIZAÇÃO DE EMPRESAS | 19 573 1054 2396 | 15000100 | 50 | 4 - INVESTIMENTOS | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| PUBLICAÇÃO DE EDITAIS DE FOMENTO, EVENTOS E CAPACITAÇÃO DESTINADOS À ECONOMIA VERDE | 19 573 1054 3202 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 10.000,00 | R$ 10.000,00 | R$ 10.000,00 |
+| DESENVOLVIMENTO DA ECONOMIA CIRCULAR - SUKATECH | 19 573 1054 2385 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 93.944,00 | R$ 93.944,00 | R$ 93.944,00 |
+
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 1.186.481,17 |
+| **TOTAL** | R$ 1.186.481,17 |
+
+| **TOTAL POR FONTE** |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 1.186.481,17 |
+| **TOTAL** | R$ 1.186.481,17 |

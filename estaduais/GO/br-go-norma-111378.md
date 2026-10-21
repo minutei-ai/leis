@@ -1,0 +1,67 @@
+# Portaria Orçamentária nº 211, de 2025-09-18
+
+Portaria Orçamentária nº 211/2025 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e "e" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412 "Abrir Lei Ordinária nº 23246, de 2025 em nova aba"), de 25 de Janeiro de 2025, conforme processo 202500004007909.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS, FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR, créditos suplementares no valor global de R$ 10.582.801,36 (dez milhões quinhentos e oitenta e dois mil oitocentos e um reais e trinta e seis centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 18 dias do mês de Setembro de 2025.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR**   |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO | 23 691 1054 2441 | 17530161 | 90 | 4 - INVESTIMENTOS | R$ 152.765,22 | R$ 961.504,78 | R$ 1.114.270,00 |
+
+| 1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TJGO | 09 272 0200 7206 | 15000100 | 90 | 1 - PESSOAL E ENCARGOS SOCIAIS | R$ 1.072.449,54 | R$ 9.621.296,58 | R$ 10.693.746,12 |
+
+TOTAL A SUPLEMENTAR POR FONTE
+
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 9.621.296,58 |
+| --- | --- |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 961.504,78 |
+| **TOTAL A SUPLEMENTAR** | R$ 10.582.801,36 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR**   |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| RESERVA DE CONTINGÊNCIA | 99 999 9999 9000 | 17530161 | 99 | 9 - RESERVA DE CONTINGÊNCIA | R$ 118.521.691,64 | R$ 961.504,78 | R$ 961.504,78 |
+
+| 400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS<br>
+401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS |
+| --- |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TJGO | 09 272 0200 7206 | 15000100 | 90 | 1 - PESSOAL E ENCARGOS SOCIAIS | R$ 28.608.000,00 | R$ 9.621.296,58 | R$ 9.621.296,58 |
+
+TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III
+
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 9.621.296,58 |
+| --- | --- |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 961.504,78 |
+| **TOTAL** | R$ 10.582.801,36 |
+
+TOTAL POR FONTE
+
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 9.621.296,58 |
+| --- | --- |
+| 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS | R$ 961.504,78 |
+| **TOTAL** | R$ 10.582.801,36 |

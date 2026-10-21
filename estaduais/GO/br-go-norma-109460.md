@@ -1,0 +1,23 @@
+# Lei Ordinária nº 22.988, de 2024-09-12
+
+LEI Nº 22.988, DE 12 DE SETEMBRO DE 2024
+
+Concede o título de cidadania que especifica.
+
+A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica concedido a JORGE LUIZ DE ANDRADE LINS o Título Honorífico de Cidadão Goiano.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
+Goiânia, 12 de setembro de 2024; 136º da República.
+
+<br>
+
+RONALDO CAIADO
+
+Governador do Estado
+
+CORONEL ADAILTON
+
+Deputado Estadual

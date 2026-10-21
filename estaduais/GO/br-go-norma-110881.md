@@ -1,0 +1,83 @@
+# Portaria Orçamentária nº 40, de 2025-03-17
+
+Portaria Orçamentária nº 40/2025 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c", "e" e "f" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025.Conforme art. 13, §2º da Portaria 18, de 29 de Janeiro de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS, FUNDO ESTADUAL DE SEGURANÇA PÚBLICA, GOIÁS PREVIDÊNCIA - GOIASPREV, FUNDO ESTADUAL DO TRABALHO, créditos suplementares no valor global de R$ 3.284.506,16 (três milhões, duzentos e oitenta e quatro mil, quinhentos e seis reais e dezesseis centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I, II e III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, provenientes de superávit financeiro apurado em balanço patrimonial do exercício anterior, excesso de arrecadação e anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+**GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA**, aos 17 dias do mês de Março de 2025.
+
+ 
+
+**FRANCISCO SERVULO FREIRE NOGUEIRA**
+
+QUADRO 1
+
+SUPLEMENTAÇÃO
+
+|   **2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 27130000 | 90 | 4 - INVESTIMENTOS | R$ 11.836.525,00 | R$ 467.663,25 | R$ 12.304.188,25 |
+| CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3177 |   27130000 |   90 |   4 - INVESTIMENTOS |   R$ 8.297.782,00 |   R$ 540.678,61 |   R$ 8.838.460,61 |
+
+|   **3161-FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS - FAPEG** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+|   CONCESSÃO DE BOLSA DE CTI | 19 571 1054 2398 |   17030292 |   90 | 3 - OUTRAS DESPESAS CORRENTES |   R$ 48.618,96 |   R$ 7.453,64 |   R$ 56.072,60 |
+
+|   **4250-FUNDO ESTADUAL DO TRABALHO** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL | 12 363 1054 2443 |   27140236 |   90 | 3 - OUTRAS DESPESAS CORRENTES |   R$ 70.000,00 |   R$ 268.710,66 |   R$ 338.710,66 |
+
+|   **1862-GOIÁS PREVIDÊNCIA - GOIASPREV** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
+| PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV | 28 846 0100 7119 |   18020330 |   90 | 3 - OUTRAS DESPESAS CORRENTES |   R$ 0,00 |   R$ 2.000.000,00 |   R$ 2.000.000,00 |
+
+TOTAL A SUPLEMENTAR POR FONTE: R$ 3.284.506,16
+
+| 17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA | R$ 7.453,64 |
+| --- | --- |
+| 18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO | R$ 2.000.000,00 |
+| 27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES | R$ 1.008.341,86 |
+| 27140236 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE AMPARO AO TRABALHADOR - FAT - CORRENTES - EXERCÍCIOS ANTERIORES | R$ 268.710,66 |
+
+QUADRO 2
+
+REDUÇÃO
+
+|   **1862-GOIÁS PREVIDÊNCIA - GOIASPREV** |
+| --- |
+|   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO A PROGRAMAR** |   **VALOR BLOQUEADO** |   **VALOR A REDUZIR** |
+| RESERVA DE CONTINGÊNCIA | 99 999 9999 9000 | 18020330 | 99 | 9 - RESERVA DE CONTINGÊNCIA | R$ 227.330.073,00 | R$ 2.000.000,00 | R$ 2.000.000,00 |
+
+TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 § 1º Inciso I: R$ 1.277.052,52
+
+| 27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES | R$ 1.008.341,86 |
+| --- | --- |
+| 27140236 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE AMPARO AO TRABALHADOR - FAT - CORRENTES - EXERCÍCIOS ANTERIORES | R$ 268.710,66 |
+
+TOTAL UTILIZADO DE EXCESSO DE ARRECADAÇÃO POR FONTE - Art 43 § 1º Inciso II: R$ 7.453,64
+
+<table><tbody><tr><td rowspan="1" style="text-align: justify;">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td style="text-align: justify;">R$ 7.453,64</td></tr></tbody></table>
+
+TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 2.000.000,00
+
+<table><tbody><tr><td rowspan="1" style="text-align: justify;">18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO</td><td style="text-align: justify;">R$ 2.000.000,00</td></tr></tbody></table>
+
+TOTAL POR FONTE: R$ 3.284.506,16
+
+| 17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA | R$ 7.453,64 |
+| --- | --- |
+| 18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO | R$ 2.000.000,00 |
+| 27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES | R$ 1.008.341,86 |
+| 27140236 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE AMPARO AO TRABALHADOR - FAT - CORRENTES - EXERCÍCIOS ANTERIORES | R$ 268.710,66 |

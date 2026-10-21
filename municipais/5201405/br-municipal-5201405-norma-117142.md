@@ -1,0 +1,46 @@
+# Decreto Numerado nº 656, de 2024-08-15
+
+DECRETO “N” Nº 656 DE 15 DE AGOSTO DE 2024.
+
+Dispõe sobre remembramento e desmembramento de imóvel.
+
+O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso da atribuição conferida pelo art. 71, inciso VII, da Lei Orgânica do Município, considerando o Plano Diretor do Município e a delegação de atribuição conferida pelo “Decreto “N” nº 02/2021,
+
+**DECRETA:**
+
+Art. 1º - Ficam remembrados e desmembrados os Lotes 11 e 12 da Quadra 41 do Loteamento MORADA DOS PÁSSAROS, neste município, de propriedade de ENIVAINO RAMOS DE PALMA, inscrito (a) no CPF/MF nº 605. 236.461-00:
+
+SITUAÇÃO ATUAL
+
+| **IMÓVEL** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 11 | 460,539 |
+| Lote 12 | 589,154 |
+
+SITUAÇÃO INTERMEDIÁRIA
+
+| **IMÓVEL** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 11/12 | 1.049,693 |
+
+SITUAÇÃO PROPOSTA
+
+| **IMÓVEIS** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 11A | 184,15 |
+| Lote 11B | 201,85 |
+| Lote 11C | 276,243 |
+| Lote 12A | 192,45 |
+| Lote 12B | 195,00 |
+
+Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2024032378, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogando o Decreto “N” nº 545/2024.
+
+Aparecida de Goiânia, Estado de Goiás, aos 15 de agosto de 2024.
+
+POLLYANA OLIVEIRA BORGES<br>
+Secretária de Governo
+
+JÚLIO CÉSAR CHAGAS MENDES<br>
+Secretário de Planejamento e Regulação Urbana<br>

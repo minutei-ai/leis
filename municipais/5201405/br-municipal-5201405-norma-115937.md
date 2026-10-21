@@ -1,0 +1,41 @@
+# Decreto Numerado nº 610, de 2024-07-26
+
+DECRETO “N” Nº 610 DE 26 DE JULHO DE 2024.
+
+Dispõe sobre remembramento de imóveis.
+
+O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso da atribuição conferida pelo art. 71, inciso VII, da Lei Orgânica do Município, considerando o Plano Diretor do Município e a delegação de atribuição conferida pelo “Decreto “N” nº 02/2021,
+
+**DECRETA:**
+
+Art. 1º - Ficam remembrados os Lotes 14, 15, 16, 17, 18, 19 e 20 da Quadra 13 do Loteamento VILA MARIA, neste município, de propriedade de REOBOTE ADMINISTRAÇÃO DE BENS LTDA, inscrito (a) no CNPJ/MF nº 51.026.388/0001-30:
+
+SITUAÇÃO ATUAL
+
+| **IMÓVEL** | **ÁREA (m²)** |
+| --- | --- |
+| LOTE 14 | 360,00 |
+| LOTE 15 | 360,00 |
+| LOTE 16 | 360,00 |
+| LOTE 17 | 403,50 |
+| LOTE 18 | 364,00 |
+| LOTE 19 | 364,00 |
+| LOTE 20 | 403,50 |
+
+SITUAÇÃO PROPOSTA
+
+| **IMÓVEIS** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 14-20 | 2.615,00 |
+
+Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2024175799, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
+
+Aparecida de Goiânia, Estado de Goiás, aos 26 de julho 2024.
+
+POLLYANA OLIVEIRA BORGES<br>
+Secretária de Governo
+
+JÚLIO CÉSAR CHAGAS MENDES<br>
+Secretário de Planejamento e Regulação Urbana<br>

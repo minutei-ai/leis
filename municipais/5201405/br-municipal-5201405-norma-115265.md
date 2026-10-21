@@ -1,0 +1,31 @@
+# Lei Ordinária nº 3.642, de 2022-01-03
+
+LEI MUNICIPAL Nº 3.642, DE 03 DE JANEIRO DE 2022.
+
+Reconhece de Utilidade Pública a entidade denominada INSTITUTO VIVER MELHOR. 
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
+
+Art. 1º É considerada de utilidade pública, entidade denominada INSTITUTO VIVER MELHOR, considerada pelo CNPJ sob o nº 27.172.104/0001-30, com sede na Rua H-43 Quadra 124 Lote 02, no Conjunto Estrela do Sul – Aparecida de Goiânia - Goiás.
+
+Art. 2º Ficam asseguradas à entidade mencionada no artigo anterior todas as vantagens, prerrogativas, isenções e outros benefícios da legislação vigente.
+
+Art. 3º A entidade beneficiada deverá encaminhar, anualmente, à Secretaria Municipal de Assistência Social de Aparecida de Goiânia, até 30 de junho do exercício subsequente, para o devido controle, sob pena de revogação da presente Lei, os seguintes documentos:
+
+I – Relatório anual de atividades;
+
+II – Declaração de que permanece cumprindo os requisitos exigidos para a concessão de utilidade pública;
+
+III – Cópia autenticada das alterações ocorridas no estatuto se houver;
+
+IV – Balancete contábil.
+
+Art. 4º - Esta Lei entra em vigor na data de sua publicação.
+
+MUNICÍPIO DE APARECIDA DE GOIÂNIA – GO, 03 DE JANEIRO DE 2022.
+
+GUSTAVO MENDANHA<br>
+Prefeito Municipal
+
+FÁBIO PASSAGLIA<br>
+Secretário de Governo

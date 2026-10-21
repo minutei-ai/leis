@@ -1,0 +1,55 @@
+# Portaria Orçamentária nº 239, de 2025-10-08
+
+Portaria Orçamentária nº 239/2025 - Economia
+
+A Procuradoria-Geral de Justiça do Estado de Goiás, representada pela Superintendente de Gestão Orçamentária e Compras do Ministério Público do Estado de Goiás, com fundamento na Portaria 202500493517,
+
+**RESOLVE:**
+
+Art. 1º Fica aberto ao GABINETE DO PROCURADOR GERAL DE JUSTIÇA, crédito suplementar no valor de R$ 190.207.477,63 (cento e noventa milhões e duzentos e sete mil e quatrocentos e setenta e sete reais e sessenta e três centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+SUPERINTENDÊNCIA DE GESTÃO ORÇAMENTÁRIA E COMPRAS Goiânia, aos 08 dias do mês de Outubro de 2025.
+
+HELENA MARIA ADORNO MACEDO
+
+QUADRO 1 
+
+| SUPLEMENTAÇÃO  |
+| --- |
+| 700 - MINISTÉRIO PÚBLICO <br>
+701 - GABINETE DO PROCURADOR GERAL DE JUSTICA  |
+| ESPECIFICAÇÃO  | AÇÃO  | FONTE  | MODALIDADE  | GRUPO  | SALDO ORÇAMENTÁRIO  | VALOR A SUPLEMENTAR  | SALDO ATUALIZADO  |
+| FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO MINISTÉRIO PÚBLICO  | 03 091 4100 4141  | 15000100  | 90  | 1 - PESSOAL E ENCARGOS SOCIAIS  | R$ 40.537.350,42  | R$ 182.507.477,63  | R$ 223.044.828,05  |
+| FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO MINISTÉRIO PÚBLICO  | 03 091 4100 4141  | 15000100  | 91  | 1 - PESSOAL E ENCARGOS SOCIAIS  | R$ 16.153.297,37  | R$ 7.700.000,00  | R$ 23.853.297,37  |
+
+| TOTAL A SUPLEMENTAR POR FONTE  |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS  | R$ 190.207.477,63  |
+| TOTAL A SUPLEMENTAR  | R$ 190.207.477,63  |
+
+QUADRO 2 
+
+| REDUÇÃO  |
+| --- |
+| 700 - MINISTÉRIO PÚBLICO <br>
+701 - GABINETE DO PROCURADOR GERAL DE JUSTICA |
+| ESPECIFICAÇÃO  | AÇÃO  | FONTE  | MODALIDADE  | GRUPO  | SALDO A PROGRAMAR  | VALOR BLOQUEADO  | VALOR A REDUZIR  |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO  | 03 091 4200 4241  | 15000100  | 90  | 4 - INVESTIMENTOS  | R$ 23.300.000,00  | R$ 23.300.000,00  | R$ 23.300.000,00  |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO  | 03 091 4200 4241  | 15000100  | 90  | 3 - OUTRAS DESPESAS CORRENTES  | R$ 117.335.526,55  | R$ 117.000.000,00  | R$ 117.000.000,00  |
+| FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO MINISTÉRIO PÚBLICO  | 03 091 4100 4141  | 15000100  | 90  | 3 - OUTRAS DESPESAS CORRENTES  | R$ 17.170.954,94  | R$ 5.834.477,63  | R$ 5.834.477,63  |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO  | 03 091 4200 4241  | 15000100  | 91  | 3 - OUTRAS DESPESAS CORRENTES  | R$ 52.000,00  | R$ 52.000,00  | R$ 52.000,00  |
+| CONSTRUÇÃO / AQUISIÇÃO / AMPLIAÇÃO DA SEDE DO MINISTÉRIO PÚBLICO  | 03 091 1007 3151  | 15000100  | 90  | 5 - INVERSÕES FINANCEIRAS  | R$ 17.200.000,00  | R$ 17.200.000,00  | R$ 17.200.000,00  |
+| ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO MINISTÉRIO PÚBLICO  | 09 272 0200 7207  | 15000100  | 90  | 1 - PESSOAL E ENCARGOS SOCIAIS  | R$ 6.430.898,46  | R$ 6.000.000,00  | R$ 6.000.000,00  |
+| CONSTRUÇÃO / AQUISIÇÃO / AMPLIAÇÃO DA SEDE DO MINISTÉRIO PÚBLICO  | 03 091 1007 3151  | 15000100  | 90  | 4 - INVESTIMENTOS  | R$ 20.821.000,00  | R$ 20.821.000,00  | R$ 20.821.000,00  |
+
+| TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III  |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS  | R$ 190.207.477,63  |
+| TOTAL  | R$ 190.207.477,63  |
+
+| TOTAL POR FONTE  |
+| --- |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS  | R$ 190.207.477,63  |
+| TOTAL  | R$ 190.207.477,63  |

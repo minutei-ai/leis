@@ -1,0 +1,43 @@
+# Portaria Orçamentária nº 413, de 2024-07-12
+
+Portaria Orçamentária nº 413/2024 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004040517.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto à JUNTA COMERCIAL DO ESTADO DE GOIÁS - JUCEG, 1 (um) crédito suplementar no valor de R$ 1.272.702,47 (um milhão, duzentos e setenta e dois mil, setecentos e dois reais e quarenta e sete centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 12 dias do mês de Julho de 2024.
+
+<br>
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **3362 - JUNTA COMERCIAL DO ESTADO DE GOIÁS - JUCEG** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 04 122 4200 4.243 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 3 - OUTRAS DESPESAS CORRENTES | 17530161 | 90 |
+| **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
+| R$ 248.264,06 | R$ 1.520.966,53 | R$ 1.272.702,47 |
+|   | **VALOR TOTAL A SUPLEMENTAR** |
+| R$ 1.272.702,47 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **3362 - JUNTA COMERCIAL DO ESTADO DE GOIÁS - JUCEG** |
+| **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
+| 99 999 9999 9.000 | RESERVA DE CONTINGÊNCIA | 9 - RESERVA DE CONTINGÊNCIA | 17530161 | 90 |
+| **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| R$ 12.210.091,27 | R$ 1.272.702,47 | R$ 1.272.702,47 |
+|   | **VALOR TOTAL A REDUZIR** |
+| R$ 1.272.702,47 |

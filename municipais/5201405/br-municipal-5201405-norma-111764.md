@@ -1,0 +1,49 @@
+# Lei Complementar nº 73, de 2013-09-27
+
+LEI COMPLEMENTAR Nº. 73, DE 27 DE SETEMBRO DE 2013.
+
+Altera o Código Tributário do Município de Aparecida de Goiânia – Goiás, Lei Complemantar n. 46 de 21.12.2011, e dá outras providências.
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL SANCIONO A SEGUINTE LEI:
+
+Art. 1º - O inciso I do parágrafo primeiro do artigo 193 da Lei Complementar n. 46 de 21.12.2011, passa a ter a seguinte redação:
+
+“Art. 193 ......
+
+§ 1°......
+
+I – remoção e depósito de lixo, de lixo extra-residencial e entulhos de qualquer natureza, e a manutenção e conservação do aterro sanitário do Município;
+
+.......
+
+Art. 2º - O Anexo IV, Tabelas I e II, relativo a Taxa de Serviços Urbanos, e o Anexo V, Tabela 9, passam a ter a seguinte redação:
+
+ANEXO IV
+
+<table><tbody><tr><td colspan="4" style=" width:672px;  height:19px;   "><b>Código Tributário Municipal - ANEXO IV</b></td></tr><tr><td colspan="4" style=" width:672px;  height:19px;   "><b>TABELA I</b></td></tr><tr><td colspan="4" style=" width:672px;  height:21px;    "><b>TAXA DE SERVIÇOS URBANOS</b></td></tr><tr><td colspan="4" style=" width:672px;  height:19px;   "><b>Fundamento legal: artigo 195</b></td></tr><tr><td colspan="4" style=" width:672px;  height:42px;    "><b>TAXA DE SERVIÇOS URBANOS - SERVIÇOS DE REMOÇÃO E DEPÓSITO DO LIXO, ROÇAGEM, LIMPEZA DE IMÓVEIS</b></td></tr><tr><td style=" width:58px;  height:19px;   "><b>ITEM</b></td><td style=" width:335px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:147px;  height:19px;   "><b>LANÇAMENTO</b></td><td style=" width:132px;  height:19px;   "><b>VALOR DO SERVIÇO</b></td></tr><tr><td style=" width:58px;  height:24px;   "><b>1</b></td><td style=" width:335px;  height:24px;   ">Limpeza urbana - imóveis edificados</td><td style=" width:147px;  height:24px;   ">por ano</td><td style=" width:132px;  height:24px;   ">50,05 UVFA</td></tr><tr><td style=" width:58px;  height:24px;   "><b>2</b></td><td style=" width:335px;  height:24px;   ">Limpeza urbana - imóveis não edificados</td><td style=" width:147px;  height:24px;   ">por ano</td><td style=" width:132px;  height:24px;   ">25,02 UVFA</td></tr><tr><td style=" width:58px;  height:37px;   "><b>3</b></td><td style=" width:335px;  height:37px;   ">Remoção e depósito do lixo residencial e/ou extra-residencial, e entulho de qualquer natureza – por quilograma (kg)</td><td style=" width:147px;  height:37px;   ">por Kg</td><td style=" width:132px;  height:37px;   ">0,06 UVFA</td></tr><tr><td style=" width:58px;  height:24px;   "><b>4</b></td><td style=" width:335px;  height:24px;   ">Roçagem/limpeza de terrenos baldios – por m²</td><td style=" width:147px;  height:24px;   ">por m² executado, no ano</td><td style=" width:132px;  height:24px;   ">0,08 UVFA</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="7" style=" width:671px;  height:19px;   "><b>Código Tributário Municipal - ANEXO IV</b></td></tr><tr><td colspan="7" style=" width:671px;  height:19px;   "><b>TABELA II</b></td></tr><tr><td colspan="7" style=" width:671px;  height:21px;    "><b>TAXA DE SERVIÇOS URBANOS</b></td></tr><tr><td colspan="7" style=" width:671px;  height:19px;   "><b>Fundamento legal: artigo 195</b></td></tr><tr><td colspan="7" style=" width:671px;  height:42px;    "><b>TAXA DE SERVIÇOS URBANOS - REMOÇÃO E DEPÓSITO DO LIXO EXTRAORDINÁRIO e EXTRA-RESIDENCIAL - Estimativa da quantidade produzida por mês</b></td></tr><tr><td style=" width:76px;  height:48px;   "><b>Custo Apurado</b></td><td style=" width:62px;  height:48px;   "><b>Faixa Estimativa</b></td><td style=" width:155px;  height:48px;   "><b>Quantidade de Lixo/Diário Taxa Mensal</b></td><td style=" width:130px;  height:48px;   "><b>Média Aritmética</b></td><td style=" width:88px;  height:48px;   "><b>Fator da Média Aritmética em 30 dias</b></td><td style=" width:96px;  height:48px;   "><b>Custo do lixo por Kg (em UVFA)</b></td><td style=" width:65px;  height:48px;   "><b>Valor da TSU lixo em UVFA por faixa de enquadramento, por mês</b></td></tr><tr><td rowspan="8" style=" width:76px;  height:19px;   "><b>Valor kg convertido em quantidade de UVFA</b></td><td style=" width:62px;  height:19px;   "><b>1</b></td><td style=" width:155px;  height:19px;   ">De 0 a 5 Kg diários</td><td style=" width:130px;  height:19px;   ">2,50</td><td style=" width:88px;  height:19px;   ">2,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>0,35</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>2</b></td><td style=" width:155px;  height:19px;   ">De 06 a 10 Kg diários</td><td style=" width:130px;  height:19px;   ">8,00</td><td style=" width:88px;  height:19px;   ">8,00</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>1,11</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>3</b></td><td style=" width:155px;  height:19px;   ">De 11 a 20 Kg diários</td><td style=" width:130px;  height:19px;   ">15,50</td><td style=" width:88px;  height:19px;   ">15,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>2,15</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>4</b></td><td style=" width:155px;  height:19px;   ">De 21 a 30 Kg diários</td><td style=" width:130px;  height:19px;   ">25,50</td><td style=" width:88px;  height:19px;   ">25,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>3,55</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>5</b></td><td style=" width:155px;  height:19px;   ">De 31 a 50 Kg diários</td><td style=" width:130px;  height:19px;   ">40,50</td><td style=" width:88px;  height:19px;   ">40,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>5,63</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>6</b></td><td style=" width:155px;  height:19px;   ">De 51 a 100 Kg diários</td><td style=" width:130px;  height:19px;   ">75,50</td><td style=" width:88px;  height:19px;   ">75,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>10,50</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>7</b></td><td style=" width:155px;  height:19px;   ">De 101 a 200 Kg diários</td><td style=" width:130px;  height:19px;   ">150,50</td><td style=" width:88px;  height:19px;   ">150,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>20,92</b></td></tr><tr><td style=" width:62px;  height:19px;   "><b>8</b></td><td style=" width:155px;  height:19px;   ">A partir de 201 Kg diários e a cada 100 Kg</td><td style=" width:130px;  height:19px;   ">150,50 + 75,50 a cada 100 Kg (faixa 6)</td><td style=" width:88px;  height:19px;   ">150,50</td><td style=" width:96px;  height:19px;   ">0,13902</td><td style=" width:65px;  height:19px;   "><b>20,92 +10,50/</b> <b>100 kg</b><b> </b><b>excedente</b></td></tr><tr><td colspan="7" style=" width:671px;  height:35px;   "><b>Nota: </b>O preço do quilograma do custo é convertido em quantidade de UVFA.</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="4" style=" width:671px;  height:19px;   "><b>Código Tributário Municipal - ANEXO V</b></td></tr><tr><td colspan="4" style=" width:671px;  height:19px;   "><b>TABELA 9</b></td></tr><tr><td colspan="4" style=" width:671px;  height:21px;    "><b>TAXA DE EXPEDIENTE E SERVIÇOS DIVERSOS</b></td></tr><tr><td colspan="4" style=" width:671px;  height:19px;   "><b>Fundamento legal: artigo 202</b></td></tr><tr><td colspan="4" style=" width:671px;  height:22px;    "><b>SERVIÇOS DIVERSOS - Por Secretaria, conforme o serviço prestado</b></td></tr><tr><td style=" width:41px;  height:19px;   "><b>ITEM</b></td><td style=" width:65px;  height:19px;   "><b>SUBITEM</b></td><td style=" width:435px;  height:19px;   "><b>ATOS DA SECRETARIA</b></td><td rowspan="2" style=" width:130px;  height:19px;   "><b>&nbsp;QUANT. DE UFVA</b></td></tr><tr><td style=" width:41px;  height:18px;   "><b>9</b></td><td colspan="2" style=" width:501px;  height:18px;   "><b>Secretaria de Desenvolvimento Urbano</b></td></tr><tr><td style=" width:41px;  height:38px;   "><b>9</b></td><td style=" width:65px;  height:38px;   "><b>1</b></td><td style=" width:435px;  height:38px;   ">Autorização para coleta/disposição de resíduos da construção civil (entulhos)</td><td style=" width:130px;  height:38px;   ">0,06</td></tr><tr><td colspan="4" style=" width:671px;  height:45px;   ">Nota: O preço do quilograma do custo é convertido em quantidade de UVFA, conforme este Código.</td></tr></tbody></table>
+
+Art. 3º - Os incisos I e II do artigo 234 da Lei Complementar n. 46 de 21.12.2011, passam a ter a seguinte redação:
+
+“Art. 234 – ......
+
+I – 20,91 (vinte vírgula noventa e um centésimos) UVFA’s, para o contribuinte não residencial.
+
+II – 14,51 (quatorze vírgula cinquenta e um centésimos) UVFA’s, para o contribuinte residencial.
+
+Art. 4º – Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário. 
+
+Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 27 dias do mês de setembro do ano de 2013.
+
+<br>
+LUIZ ALBERTO MAGUITO VILELA<br>
+Prefeito Municipal
+
+EULER MORAIS<br>
+Secretário de Governo e Integração Institucional
+
+CARLOS EDUARDO DE PAULA RODRIGUES<br>
+Secretário Municipal da Fazenda

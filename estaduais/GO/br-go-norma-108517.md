@@ -1,0 +1,31 @@
+# Lei Ordinária nº 22.549, de 2024-03-08
+
+LEI Nº 22.549, DE 8 DE MARÇO DE 2024
+
+Autoriza a aquisição, por doação onerosa do Município de Caiapônia/GO, dos imóveis que especifica.
+
+A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10, inciso XI, da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica o Chefe do Poder Executivo autorizado a adquirir para o Estado de Goiás, por doação onerosa do Município de Caiapônia/GO, CNPJ nº 01.164.946/0001-56, quatro imóveis com o total de 1.500,00 m² (mil e quinhentos metros quadrados) especificados no Anexo Único desta Lei.
+
+Art. 2º Os imóveis de que trata o art. 1º desta Lei se destinam à construção pelo Estado de Goiás da sede do Batalhão do Corpo de Bombeiros Militar de Caiapônia/GO.
+
+Art. 3º Os bens em aquisição estão avaliados em R$ 60.452,68 (sessenta mil, quatrocentos e cinquenta e dois reais e sessenta e oito centavos), conforme o Laudo de Avaliação para Doação nº 56/2023, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração – SEAD.
+
+Art. 4º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei [Complementar estadual nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990), de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação dos imóveis ao Estado de Goiás.
+
+Art. 5º Esta Lei entra em vigor na data de sua publicação.
+
+Goiânia, 8 de março de 2024; 136º da República.
+
+<br>
+
+RONALDO CAIADO
+
+Governador do Estado
+
+ANEXO ÚNICO
+
+IMÓVEIS AUTORIZADOS A SEREM RECEBIDOS PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO MUNICÍPIO DE CAIAPÔNIA/GO, PARA A CONSTRUÇÃO DA SEDE DO BATALHÃO DO CORPO DE BOMBEIROS MILITAR
+
+<table><tbody><tr><td class="texto-centralizado" colspan="2"><strong>IMÓVEL 1</strong></td></tr></tbody><tbody><tr><td>DENOMINAÇÃO</td><td>TERRENO URBANO</td></tr><tr><td>ÁREA</td><td>375,00 m²</td></tr><tr><td>LOCALIZAÇÃO</td><td>AVENIDA JATAÍ, QUADRA 3, LOTE 8, NOVA CIDADE DE CAIAPÔNIA, 75850-000, CAIAPÔNIA/GO</td></tr><tr><td>PROPRIETÁRIO</td><td>MUNICÍPIO DE CAIAPÔNIA</td></tr><tr><td>MATRÍCULA</td><td>Nº 21.438 – CARTÓRIO DE REGISTRO DE IMÓVEIS, REGISTRO DE TÍTULO E DOCUMENTOS, CIVIL DAS PESSOAS JURÍDICAS E CIVIL DAS PESSOAS NATURAIS E DE INTERDIÇÕES E TUTELAS DE CAIAPÔNIA/GO</td></tr><tr><td>MEMORIAL DESCRITIVO</td><td>ASSIM SE DESCREVE: “UM TERRENO SITUADO NESTA CIDADE, NO LOTEAMENTO DENOMINADO ‘NOVA CIDADE DE CAIAPÔNIA’, DE Nº 8, DA QUADRA 3, COM FRENTE PARA A AV. JATAÍ, MEDINDO DOZE METROS E CINQUENTA CENTÍMETROS DE FRENTE E FUNDO, POR TRINTA METROS DE CADA LADO (12,50 X 30,00), NO TOTAL DE 375,00 M², CONFRONTANDO PELO LADO DIREITO COM O LOTE Nº 9, PELO LADO ESQUERDO COM O LOTE Nº 7, PELO FUNDO COM O LOTE Nº 19”</td></tr><tr><td class="texto-centralizado" colspan="2"><strong>IMÓVEL 2</strong></td></tr><tr><td>DENOMINAÇÃO</td><td>TERRENO URBANO</td></tr><tr><td>ÁREA</td><td>375,00 m2</td></tr><tr><td>LOCALIZAÇÃO</td><td>AVENIDA JATAÍ, QUADRA 3, LOTE 9, NOVA CIDADE DE CAIAPÔNIA, 75850-000, CAIAPÔNIA/GO</td></tr><tr><td>PROPRIETÁRIO</td><td>MUNICÍPIO DE CAIAPÔNIA</td></tr><tr><td>MATRÍCULA</td><td>Nº 21.439 – CARTÓRIO DE REGISTRO DE IMÓVEIS, REGISTRO DE TÍTULO E DOCUMENTOS, CIVIL DAS PESSOAS JURÍDICAS E CIVIL DAS PESSOAS NATURAIS E DE INTERDIÇÕES E TUTELAS DE CAIAPÔNIA/GO</td></tr><tr><td>MEMORIAL DESCRITIVO</td><td>ASSIM SE DESCREVE: “UM TERRENO SITUADO NESTA CIDADE, NO LOTEAMENTO DENOMINADO ‘NOVA CIDADE DE CAIAPÔNIA’, DE Nº 9, DA QUADRA 3, COM FRENTE PARA A AV. JATAÍ, MEDINDO DOZE METROS E CINQUENTA CENTÍMETROS DE FRENTE E FUNDO, POR TRINTA METROS DE CADA LADO (12,00 X 30,00) ( <em>sic</em>), NO TOTAL DE 375,00 M², CONFRONTANDO PELO LADO DIREITO COM O LOTE Nº 10, PELO LADO ESQUERDO COM O LOTE Nº 8 E PELO FUNDO COM O LOTE Nº 18”</td></tr><tr><td class="texto-centralizado" colspan="2"><strong>IMÓVEL 3</strong></td></tr><tr><td>DENOMINAÇÃO</td><td>TERRENO URBANO</td></tr><tr><td>ÁREA</td><td>375,00 m2</td></tr><tr><td>LOCALIZAÇÃO</td><td>RUA TONICO TONTINHO, QUADRA 3, LOTE 18, NOVA CIDADE DE CAIAPÔNIA, 75850-000, CAIAPÔNIA/GO</td></tr><tr><td>PROPRIETÁRIO</td><td>MUNICÍPIO DE CAIAPÔNIA</td></tr><tr><td>MATRÍCULA</td><td>Nº 21.448 – CARTÓRIO DE REGISTRO DE IMÓVEIS, REGISTRO DE TÍTULO E DOCUMENTOS, CIVIL DAS PESSOAS JURÍDICAS E CIVIL DAS PESSOAS NATURAIS E DE INTERDIÇÕES E TUTELAS DE CAIAPÔNIA/GO</td></tr><tr><td>MEMORIAL DESCRITIVO</td><td>ASSIM SE DESCREVE: “UM TERRENO SITUADO NESTA CIDADE, NO LOTEAMENTO DENOMINADO ‘TERRENO NOVA CIDADE DE CAIAPÔNIA’, DE Nº 18, DA QUADRA 3, COM FRENTE PARA A RUA TONICO TONTINHO, MEDINDO DOZE METROS E CINQUENTA CENTÍMETROS DE FRENTE E FUNDO, POR TRINTA METROS DE CADA LADO, (12,50 X 30,00), NO TOTAL DE 375,00 M², CONFRONTANDO PELO LADO DIREITO COM O LOTE Nº 17, E PELO FUNDO COM O LOTE Nº 9”</td></tr><tr><td class="texto-centralizado" colspan="2"><strong>IMÓVEL 4</strong></td></tr><tr><td>DENOMINAÇÃO</td><td>TERRENO URBANO</td></tr><tr><td>ÁREA</td><td>375,00 m2</td></tr><tr><td>LOCALIZAÇÃO</td><td>RUA TONICO TONTINHO, QUADRA 3, LOTE 19, NOVA CIDADE DE CAIAPÔNIA, 75850-000, CAIAPÔNIA/GO</td></tr><tr><td>PROPRIETÁRIO</td><td>MUNICÍPIO DE CAIAPÔNIA</td></tr><tr><td>MATRÍCULA</td><td>Nº 21.449 – CARTÓRIO DE REGISTRO DE IMÓVEIS, REGISTRO DE TÍTULO E DOCUMENTOS, CIVIL DAS PESSOAS JURÍDICAS E CIVIL DAS PESSOAS NATURAIS E DE INTERDIÇÕES E TUTELAS DE CAIAPÔNIA/GO</td></tr><tr><td>MEMORIAL DESCRITIVO</td><td>ASSIM SE DESCREVE: “UM TERRENO SITUADO NESTA CIDADE, NO LOTEAMENTO DENOMINADO ‘NOVA CIDADE DE CAIAPÔNIA’, DE Nº 19, DA QUADRA 3, COM FRENTE PARA A RUA TONICO TONTINHO, MEDINDO DOZE METROS E CINQUENTA CENTÍMETROS DE FRENTE E FUNDO, POR TRINTA METROS DE CADA LADO (12,50 X 30,00), NO TOTAL DE 375,00 M², CONFRONTANDO PELO LADO DIREITO COM O LOTE Nº 20, PELO LADO ESQUERDO COM O LOTE Nº 18 E PELO FUNDO COM O LOTE Nº 8”</td></tr></tbody></table>

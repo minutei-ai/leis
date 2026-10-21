@@ -1,0 +1,87 @@
+# Portaria Orçamentária nº 154, de 2025-08-04
+
+Portaria Orçamentária nº 154/2025 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025. Conforme art. 13, §2º da Portaria 189, de 21 de Julho de 2025.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR, FUNDO ESTADUAL DE SAÚDE, SECRETARIA DA SEGURANÇA PÚBLICA,  créditos suplementares no valor global de R$ 295.909,02 (duzentos e noventa e cinco mil novecentos e nove reais e dois centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, aos 04 dias do mês de Agosto de 2025.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **2850-FUNDO ESTADUAL DE SAÚDE - FES** |
+
+| ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO ORÇAMENTÁRIO | VALOR A SUPLEMENTAR | SALDO ATUALIZADO |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA | 10 302 1043 3348 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 8.731.426,91 | R$ 144.982,45 | R$ 8.876.409,36 |
+
+| 2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO ORÇAMENTÁRIO | VALOR A SUPLEMENTAR | SALDO ATUALIZADO |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA | 06 181 1051 2352 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 148.997,27 | R$ 61.931,92 | R$ 210.929,19 |
+
+| 2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC |
+| --- |
+| ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO ORÇAMENTÁRIO | VALOR A SUPLEMENTAR | SALDO ATUALIZADO |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR | 06 422 1007 3180 | 17990142 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 9.013,84 | R$ 9.013,84 |
+| ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR | 06 422 1007 3180 | 17990142 | 90 | 4 - INVESTIMENTOS | R$ 123.701,38 | R$ 79.980,81 | R$ 203.682,19 |
+
+TOTAL A SUPLEMENTAR POR FONTE
+
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 206.914,37 |
+| --- | --- |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 88.994,65 |
+| **TOTAL A SUPLEMENTAR** | R$ 295.909,02 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **2850-FUNDO ESTADUAL DE SAÚDE - FES** |
+
+| ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO A PROGRAMAR | VALOR BLOQUEADO | VALOR A REDUZIR |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 10 122 4200 4243 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 26.834.696,14 | R$ 144.982,45 | R$ 144.982,45 |
+
+| 2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA<br>
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA |
+| --- |
+| ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO A PROGRAMAR | VALOR BLOQUEADO | VALOR A REDUZIR |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA | 06 181 1051 3178 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 307.893,33 | R$ 61.931,92 | R$ 61.931,92 |
+
+| 2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC |
+| --- |
+| ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO A PROGRAMAR | VALOR BLOQUEADO | VALOR A REDUZIR |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 14 122 4200 4243 | 17990142 | 90 | 4 - INVESTIMENTOS | R$ 1.194.669,00 | R$ 88.994,65 | R$ 88.994,65 |
+
+TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III
+
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 206.914,37 |
+| --- | --- |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 88.994,65 |
+| **TOTAL** | R$ 295.909,02 |
+
+TOTAL POR FONTE
+
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 206.914,37 |
+| --- | --- |
+| 17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS | R$ 88.994,65 |
+| **TOTAL** | R$ 295.909,02 |

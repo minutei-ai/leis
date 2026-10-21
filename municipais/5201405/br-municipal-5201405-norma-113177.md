@@ -1,0 +1,37 @@
+# Decreto Numerado nº 2.653, de 2025-11-13
+
+DECRETO Nº 2.653, DE 13 DE NOVEMBRO DE 2025
+
+Dispõe sobre a aprovação do projeto de Regularização Fundiária Urbana de Interesse Social do Loteamento Retiro do Bosque no Município de Aparecida de Goiânia.
+
+O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o art. 71, inciso VII, da Lei Orgânica do Município e no contido no Processo nº 2022.019.053; 2022.017.682; 2022.017.685; 2022.021.758; 2022.019.056; 2022.021.586; 2023.123.179; 2022.017.684; 2022.021.740; 2022.020.351;
+
+**DECRETA:**
+
+Art. 1º Fica aprovada a Regularização Fundiária Urbana de Interesse Social – REURB “S”do (s) imóvel (eis) de propriedade do Município de Aparecida de Goiânia, localizado(s) no loteamento denominado Retiro do Bosque elencado(s) no anexo único deste Decreto.
+
+Art. 2º Após a publicação deste Decreto, deverá ser expedida a Certidão de Regularização Fundiária apenas ao (s) beneficiário (s) que fizer (em) jus a titulação do (s) imóvel (is).
+
+Art. 3ºEste Decreto entrará em vigor na data de sua publicação.
+
+Aparecida de Goiânia, 13 de novembro de 2025.
+
+ 
+
+LEANDRO VILELA VELLOSO<br>
+Prefeito de Aparecida de Goiânia
+
+ANEXO ÚNICO
+
+| ITEM | PROCESSO | IMÓVEL |
+| --- | --- | --- |
+| I | 2022.019.053 | LOTE 59 DA QUADRA 21- A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| II | 2022.017.682 | LOTE 64 DA QUADRA 21-A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| III | 2022.017.685 | LOTE 36 DA QUADRA 21-B DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| IV | 2022.021.758 | LOTE 65 DA QUADRA 21-A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| V | 2022.019.056 | LOTE 67 DA QUADRA 21-A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| VI | 2022.021.586 | LOTE 68 DA QUADRA 21-A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| VII | 2023.123.179 | LOTE 71 DA QUADRA 21-A DA RUA DAS MANGUEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| VIII | 2022.017.684 | LOTE 63 DA QUADRA 21-A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| IX | 2022.021.740 | LOTE 62 DA QUADRA 21-A DA RUA DAS LARANJEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |
+| X | 2022.020.351 | LOTE 87 DA QUADRA 21-A DA RUA DAS MANGUEIRAS DO LOTEAMENTO RETIRO DO BOSQUE, NO MUNICÍPIO DE APARECIDA DE GOIÂNIA |

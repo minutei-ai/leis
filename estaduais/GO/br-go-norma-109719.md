@@ -1,0 +1,71 @@
+# Decreto Numerado nº 10.568, de 2024-10-10
+
+DECRETO Nº 10.568, DE 10 DE OUTUBRO DE 2024
+
+Altera o [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, que regulamenta a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo.
+
+O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, com fundamento no inciso IV e na alínea “a” do inciso XVIII do art. 37 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152) e em atenção ao Processo nº 202420920000861,
+
+**DECRETA:**
+
+Art. 1º Na organização administrativa do Poder Executivo do Estado de Goiás, estabelecida pelo [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023, especificamente na Secretaria de Estado da Infraestrutura – SEINFRA, ficam estabelecidas as seguintes alterações:
+
+I – a Subsecretaria de Políticas Habitacionais, Parcerias e Inovação passa a ser denominada Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura, mas mantêm-se inalterados sua subordinação e seu cargo de provimento em comissão de Subsecretário, símbolo DAS– 2, sem prejuízo à investidura do atual ocupante;
+
+II – a Assessoria de Concessões e Parcerias Público-Privadas, então vinculada ao Gabinete do Secretário, passa a ser denominada Assessoria Técnica de Concessões e Parcerias Público-Privadas e fica transferida sua subordinação para a Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura, mas mantém-se inalterado seu cargo de provimento em comissão de Assessor Especial, símbolo DAS-4, sem prejuízo à investidura do atual ocupante;
+
+III – a Assessoria de Avaliação e Controle Finalístico passa a ser denominada Assessoria de Assuntos Estratégicos, mas mantêm-se inalterados sua subordinação e seu cargo de provimento em comissão de Assessor Especial, símbolo DAS-4, sem prejuízo à investidura do atual ocupante;
+
+IV – a Assessoria Executiva de Relações Intergovernamentais, então vinculada ao Gabinete do Secretário, passa a ser denominada Superintendência de Projetos e Orçamentos de Obras, fica transferida sua subordinação para a Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura e fica alterado seu cargo de provimento em comissão de Assessor Especial, símbolo DAS-4, para Superintendente, símbolo DAS-4, sem prejuízo à investidura do atual ocupante;
+
+V – a Assessoria de Relações Institucionais, então vinculada ao Gabinete do Secretário, passa a ser denominada Assessoria Técnica para Microrregiões de Saneamento, fica transferida sua subordinação para a Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura e fica alterado seu cargo de provimento em comissão de Assessor, símbolo DAS-4, para Assessor Especial, símbolo DAS-4, sem prejuízo à investidura do atual ocupante;
+
+VI – a Superintendência de Tecnologia e Inovação, então vinculada à ora Subsecretaria de Políticas Habitacionais, Parcerias e Inovação, passa, com suas gerências, a ser subordinada ao Gabinete do Secretário, mas mantêm-se inalterados os respectivos cargos de provimento em comissão de Superintendente, símbolo DAS-4, e de Gerente, símbolo DAI-1, sem prejuízo à investidura de seus atuais ocupantes;
+
+VII – a Superintendência de Planejamento de Obras Públicas, então vinculada ao Gabinete do Secretário, passa, com suas gerências, a ser subordinada à Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura, mas mantêm-se inalterados os respectivos cargos de provimento em comissão de Superintendente, símbolo DAS-4, e de Gerente, símbolo DAI-1, sem prejuízo à investidura de seus atuais ocupantes;
+
+VIII – a Superintendência de Execução de Obras Públicas, então vinculada ao Gabinete do Secretário, passa, com suas gerências, a ser subordinada à Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura, mas mantêm-se inalterados os respectivos cargos de provimento em comissão de Superintendente, símbolo DAS-4, e de Gerente, símbolo DAI-1, sem prejuízo à investidura de seus atuais ocupantes;
+
+IX – a Superintendência de Planejamento de Saneamento, então vinculada ao Gabinete do Secretário, passa, com suas gerências, a ser subordinada à Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura, mas mantêm-se inalterados os respectivos cargos de provimento em comissão de Superintendente, símbolo DAS-4, e de Gerente, símbolo DAI-1, sem prejuízo à investidura de seus atuais ocupantes;
+
+X – a Gerência de Planejamento de Obras de Expansão passa a ser denominada Gerência de Gestão e Fiscalização de Obras, mas mantêm-se inalterados sua subordinação e seu cargo de provimento em comissão de Gerente, símbolo DAI-1, sem prejuízo à investidura do atual ocupante;
+
+XI – a Gerência de Monitoramento de Contratos de Programas passa a ser denominada Gerência de Estudos, Projetos e Controle de Contratos, mas mantêm-se inalterados sua subordinação e seu cargo de provimento em comissão de Gerente, símbolo DAI-1, sem prejuízo à investidura do atual ocupante;
+
+XII – a Gerência de Monitoramento do Marco Legal e Universalização do Saneamento passa a ser denominada Gerência de Políticas de Saneamento, mas mantêm-se inalterados sua subordinação e seu cargo de provimento em comissão de Gerente, símbolo DAI-1, sem prejuízo à investidura do atual ocupante; e
+
+XIII – a Gerência de Análise de Viabilidade de Áreas para Implantação de Programas Habitacionais, então vinculada à Superintendência de Planejamento de Programas Habitacionais, passa a ser denominada Gerência de Projetos e fica transferida sua subordinação para a Superintendência de Projetos e Orçamentos de Obras, mas mantém-se inalterado seu cargo de provimento em comissão de Gerente, símbolo DAI-1, sem prejuízo à investidura do atual ocupante.
+
+Art. 2º O [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 2023, passa a vigorar com a seguinte alteração:
+
+“Art 15-C ..........................................................................................
+
+...................................................................................................................................
+
+II – Gerência de Compras Governamentais;
+
+..........................................................................................................................” (NR)
+
+Art. 3º Em decorrência do disposto no art. 1º deste Decreto, o item 4 da alínea “z” do inciso I do Anexo I do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 2023, passa a vigorar com as alterações indicadas no Anexo Único deste Decreto.
+
+Art. 4º Ficam revogados os subitens 4.3, 4.14.1.3, 4.14.2, 4.14.2.1, 4.14.2.2, 4.18, 4.19, 4.20, 4.20.1, 4.20.2, 4.20.3, 4.20.4, 4.21, 4.21.1, 4.21.2, 4.21.3, 4.23, 4.23.1, 4.23.2 e 4.23.3 do item 4 da alínea “z” do inciso I do Anexo I do Decreto nº 10.218, de 2023.
+
+Art. 5º Este Decreto entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.
+
+Goiânia, 10 de outubro de 2024; 136º da República.
+
+ 
+
+RONALDO CAIADO
+
+Governador do Estado
+
+ANEXO ÚNICO
+
+([DECRETO Nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), DE 16 DE FEVEREIRO DE 2023)
+
+“ANEXO I
+
+<table><thead></thead><tbody><tr><td colspan="1" rowspan="2"><strong>ÓRGÃO OU ENTIDADE</strong></td><td colspan="1" rowspan="2" style="text-align: center;"><strong>ESTRUTURA</strong></td><td colspan="3" rowspan="1" style="text-align: center;"><strong>CARGOS EM COMISSÃO</strong></td></tr><tr><td style="text-align: center;"><strong>DENOMINAÇÃO</strong></td><td style="text-align: center;"><strong>QUANTIDADE</strong></td><td style="text-align: center;"><strong>SÍMBOLO</strong></td></tr><tr><td colspan="5">I – Administração do Poder Executivo</td></tr><tr><td colspan="5">.................................................................................................</td></tr><tr><td colspan="5">z) Secretaria de Estado da Infraestrutura – SEINFRA</td></tr><tr><td colspan="5" style="text-align: center;">.................................................................................................</td></tr><tr><td>4.14. Subsecretaria de Políticas, Programas e Parcerias de Infraestrutura</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Subsecretário</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-2</td></tr><tr><td colspan="5">.................................................................................................</td></tr><tr><td>4.14.3. Superintendência de Planejamento de Obras Públicas</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Superintendente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td>4.14.3.1. Gerência de Planejamento e Programação de Investimentos</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.3.2. Gerência de Acompanhamento e Monitoramento de Investimentos</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.3.3. Gerência de Planejamento dos Distritos Agroindustriais</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.3.4. Gerência de Política Aeroportuária</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.4. Superintendência de Projetos e Orçamentos de Obras</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Superintendente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td>4.14.4.1. Gerência de Projetos</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.5. Superintendência de Planejamento de Saneamento</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Superintendente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td>4.14.5.1. Gerência de Estudos, Projetos e Controle de Contratos</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.5.2. Gerência de Gestão e Fiscalização de Obras</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.5.3. Gerência de Políticas de Saneamento</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.6. Superintendência de Execução de Obras Públicas</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Superintendente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td>4.14.6.1. Gerência de Fiscalização Técnica e Administrativa</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.6.2. Gerência de Gestão e Acompanhamento de Obras</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.6.3. Gerência de Controle de Medições</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.14.7. Assessoria Técnica para Microrregiões de Saneamento</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Assessor Especial</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td>4.14.8. Assessoria Técnica de Concessões e Parcerias Público-Privadas</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Assessor Especial</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td colspan="5">.................................................................................................</td></tr><tr><td>4.16. Assessoria de Assuntos Estratégicos</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Assessor Especial</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td colspan="5">.................................................................................................</td></tr><tr><td>4.24. Superintendência de Tecnologia e Inovação</td><td style="text-align: center;">Básica</td><td style="text-align: center;">Superintendente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAS-4</td></tr><tr><td>4.24.1. Gerência de Infraestrutura e Inteligência de Dados</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td>4.24.2. Gerência de Sistemas e Inovação</td><td style="text-align: center;">Complementar</td><td style="text-align: center;">Gerente</td><td style="text-align: center;">1</td><td style="text-align: center;">DAI-1</td></tr><tr><td colspan="5">.................................................................................................</td></tr></tbody></table>
+
+” (NR)

@@ -1,0 +1,33 @@
+# Lei nº 18.104, de 26/02/2025
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210667)<br>
+
+# LEI N° 18.104, DE 26 DE FEVEREIRO DE 2025
+
+## (Projeto de lei n° 70/2024, do Deputado Capitão Telhada - PP)
+
+### Declara de utilidade pública a Rede de Combate ao Câncer de Ipaussu, com sede naquele Município.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO: 
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1° -** É declarada de utilidade pública a Rede de Combate ao Câncer de Ipaussu, com sede naquele Município.
+
+**Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, na data da assinatura digital.
+
+Tarcísio de Freitas
+
+Fábio Prieto de Souza
+
+Secretário da Justiça e Cidadania
+
+Gilberto Kassab
+
+Secretário de Governo e Relações Institucionais
+
+Arthur Luis Pinho de Lima
+
+Secretário-Chefe da Casa Civil

@@ -1,0 +1,21 @@
+# Medida Provisória nº 250 de 19/05/2005
+
+###MPV-000250-0-000-19-05-2005@@@
+
+MEDIDA PROVISÓRIA Nº 250, DE 19 DE MAIO DE 2005
+
+Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 30.000.000,00, para o fim que especifica.
+
+        O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62, combinado com o art. 167, § 3o, da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+        Art. 1º  Fica aberto crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 30.000.000,00 (trinta milhões de reais), para atender à programação constante do Anexo desta Medida Provisória.
+
+        Art. 2º  Os recursos necessários à abertura do crédito de que trata o art. 1º decorrem de superávit financeiro apurado no Balanço Patrimonial da União de 2004.
+
+        Art. 3º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+        Brasília, 20 de maio de 2005; 184º da Independência e 117º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Paulo Bernardo Silva

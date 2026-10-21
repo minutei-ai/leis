@@ -1,0 +1,52 @@
+# Portaria Orçamentária nº 554, de 2024-09-17
+
+Portaria Orçamentária nº 554/2024 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos ao MINISTÉRIO PÚBLICO, 3 (três) créditos suplementares no valor global de R$ 172.396.000,00 (cento e setenta e dois milhões, trezentos e noventa e seis mil reais), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 17 dias do mês de Setembro de 2024.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **700 - MINISTÉRIO PÚBLICO<br>
+701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO MINISTÉRIO PÚBLICO | 03 091 4100 4.141 | 15000100 | 90 | 1 - PESSOAL E ENCARGOS SOCIAIS | R$ 176.259.914,46 | R$ 143.686.000,00 | R$ 319.945.914,46 |
+| FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO MINISTÉRIO PÚBLICO | 03 091 4100 4.141 | 15000100 | 91 | 1 - PESSOAL E ENCARGOS SOCIAIS | R$ 23.478.245,76 | R$ 8.890.000,00 | R$ 32.368.245,76 |
+| FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO MINISTÉRIO PÚBLICO | 03 091 4100 4.141 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 21.057.607,19 | R$ 19.820.000,00 | R$ 40.877.607,19 |
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 172.396.000,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 172.396.000,00 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **700 - MINISTÉRIO PÚBLICO<br>
+701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| CONSTRUÇÃO / AQUISIÇÃO / AMPLIAÇÃO DA SEDE DO MINISTÉRIO PÚBLICO | 03 091 1007 3.151 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 20.000.000,00 | R$ 20.000.000,00 | R$ 20.000.000,00 |
+| CONSTRUÇÃO / AQUISIÇÃO / AMPLIAÇÃO DA SEDE DO MINISTÉRIO PÚBLICO | 03 091 1007 3.151 | 15000100 | 90 | 5 - INVERSÕES FINANCEIRAS | R$ 16.523.000,00 | R$ 16.523.000,00 | R$ 16.523.000,00 |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO | 03 091 4200 4.241 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 114.446.710,34 | R$ 113.440.000,00 | R$ 113.440.000,00 |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO | 03 091 4200 4.241 | 15000100 | 91 | 3 - OUTRAS DESPESAS CORRENTES | R$ 50.000,00 | R$ 50.000,00 | R$ 50.000,00 |
+| GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO | 03 091 4200 4.241 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 22.383.000,00 | R$ 22.383.000,00 | R$ 22.383.000,00 |
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 172.396.000,00 |
+| **TOTAL** | R$ 172.396.000,00 |
+| **TOTAL POR FONTE** |
+| 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 172.396.000,00 |
+| **TOTAL** | R$ 172.396.000,00 |

@@ -1,0 +1,25 @@
+# Portaria Orçamentária nº 129, de 2026-04-16
+
+Portaria Orçamentária nº 129/2026 - Economia
+
+A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 12 da [Lei nº 24.019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043 "Abrir Lei Ordinária nº 24019, de 2026 em nova aba"), de 06 de Janeiro de 2026, conforme processo 202600004006506.
+
+**RESOLVE:**
+
+Art. 1º Ficam abertos à GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM, AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA - EMATER, créditos suplementares no valor global de R$ 8.536.295,19 (oito milhões quinhentos e trinta e seis mil duzentos e noventa e cinco reais e dezenove centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior.
+
+Art. 2º Esta portaria entra em vigor nesta data.
+
+GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, aos 16 dias do mês de Abril de 2026.
+
+RENATA LACERDA NOLETO
+
+QUADRO 1
+
+<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>3262-AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA - EMATER</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">20 122 4200 4243</td><td style=" width:85px;    ">27020291</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.681.577,81</td><td style=" width:85px;    ">R$ 5.467.656,60</td><td style=" width:85px;    ">R$ 10.149.234,41</td></tr></tbody></table>
+
+<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">24 722 4200 4243</td><td style=" width:85px;    ">25010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 603.268,12</td><td style=" width:85px;    ">R$ 403.335,09</td><td style=" width:85px;    ">R$ 1.006.603,21</td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS</td><td style=" width:85px;    ">24 722 1049 2562</td><td style=" width:85px;    ">25010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.394.376,15</td><td style=" width:85px;    ">R$ 2.665.303,50</td><td style=" width:85px;    ">R$ 4.059.679,65</td></tr></tbody></table>
+
+<table align="center" class="Table" style="border-collapse:collapse" width="680"><tbody><tr><td colspan="2" style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr><tr><td style=" width:340px;  height:19px;   ">25010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 3.068.638,59</td></tr><tr><td style=" width:340px;    ">27020291 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DOS MUNICÍPIOS - ADMINSITRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.467.656,60</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 8.536.295,19</td></tr></tbody></table>

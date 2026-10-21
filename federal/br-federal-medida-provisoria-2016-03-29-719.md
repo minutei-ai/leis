@@ -1,0 +1,77 @@
+# Medida Provisória nº 719 de 29/03/2016
+
+MEDIDA PROVISÓRIA Nº 719, DE 29 DE MARÇO DE 2016
+
+Altera a [Lei nº 10.820, de 17 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-17;10820), que dispõe sobre a autorização para desconto de prestações em folha de pagamento; a [Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712), e a [Lei nº 8.374, de 30 de dezembro de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-12-30;8374), para dispor sobre o Seguro Obrigatório de Danos Pessoais causados por embarcações ou por sua carga; e a [Lei nº 13.259, de 16 de março de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-03-16;13259), para dispor sobre a dação em pagamento de bens imóveis como forma de extinção do crédito tributário inscrito em dívida ativa da União.
+
+A PRESIDENTA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º A [Lei nº 10.820, de 17 de dezembro de 2003](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-17;10820), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 5º Nas operações de crédito consignado de que trata este artigo, o empregado poderá oferecer em garantia, de forma irrevogável e irretratável, até 10% (dez por cento) do saldo de sua conta vinculada no Fundo de Garantia do Tempo de Serviço - FGTS e até 100% (cem por cento) do valor da multa paga pelo empregador, em caso de despedida sem justa causa ou de despedida por culpa recíproca ou força maior, nos termos dos [§§ 1º](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036!art18_par1) e [2º do art. 18 da Lei nº 8.036, de 11 de maio de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036!art18_par2).
+
+§ 6º A garantia de que trata o § 5º só poderá ser acionada na ocorrência de despedida sem justa causa, inclusive a indireta, ou de despedida por culpa recíproca ou força maior, não se aplicando, em relação à referida garantia, o disposto no [§ 2º do art. 2º da Lei nº 8.036, de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990;8036!art2_par2).
+
+§ 7º O Conselho Curador do FGTS poderá definir o número máximo de parcelas e a taxa máxima mensal de juros a ser cobrada pelas instituições consignatárias nas operações de crédito consignado de que trata este artigo.
+
+§ 8º Cabe ao agente operador do FGTS definir os procedimentos operacionais necessários à execução do disposto nos §§ 5º e 6º deste artigo, nos termos do [inciso II do caput do art. 7º da Lei nº 8.036, de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990;8036!art7_cpt_inc2).” (NR)
+
+Art. 2º A [Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712), passa a vigorar com as seguintes alterações:
+
+“Art. 38.....................................................
+
+..........................................................
+
+II – a constituição, a administração, a gestão e a representação de fundos garantidores e de outros fundos de interesse da União;
+
+..........................................................
+
+IV – a constituição, a administração, a gestão e a representação do fundo de que trata o [art. 10 da Lei nº 8.374, de 30 de dezembro de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-12-30;8374!art10), observadas as disposições estabelecidas pelo órgão regulador de seguros.” (NR)
+
+Art. 3º A [Lei nº 8.374, de 30 de dezembro de 1991](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-12-30;8374), passa a vigorar com as seguintes alterações:
+
+“Art. 10\. A indenização por morte ou por invalidez permanente ou as despesas de assistência médica e suplementares, causadas exclusivamente por embarcações não identificadas ou que estejam inadimplentes quanto ao pagamento do seguro de que trata esta Lei, serão devidas por fundo de direito privado constituído, administrado, gerido e representado pela Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF, empresa pública de que trata o [art. 37 da Lei nº 12.712, de 30 de agosto de 2012](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-08-30;12712!art37), na forma que dispuser o CNSP.
+
+§ 1º O fundo a que se refere o caput terá natureza privada e patrimônio separado de sua administradora, será sujeito a direitos e obrigações próprias, não contará com qualquer tipo de garantia ou aval por parte do poder público e responderá por suas obrigações até o limite dos bens e direitos integrantes de seu patrimônio.
+
+§ 2º O patrimônio do fundo a que se refere o caput será formado:
+
+I – por parcela dos prêmios arrecadados pelo seguro de que trata esta Lei, na forma disciplinada pelo CNSP; II - pelo resultado das aplicações financeiras dos seus recursos; e III - por outras fontes definidas pelo CNSP.
+
+§ 3º O CNSP disporá sobre as obrigações, os prazos para a implementação e a remuneração devida à administradora do fundo.” (NR)
+
+“Art. 14.....................................................
+
+..........................................................
+
+§ 3º A exigência de que trata o caput torna-se sem efeito caso não haja, no mercado, sociedade seguradora que ofereça o seguro de que trata o art. 2º.
+
+§ 4º Cabe à Superintendência de Seguros Privados - Susep informar à autoridade competente a falta de oferta do seguro de que trata o art. 2º.” (NR)
+
+Art. 4º A [Lei nº 13.259, de 16 de março de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-03-16;13259), passa a vigorar com as seguintes alterações:
+
+“Art. 4º O crédito tributário inscrito em dívida ativa da União poderá ser extinto, nos termos do [inciso XI do caput do art. 156 da Lei nº 5.172, de 25 de outubro de 1966](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1966-10-25;5172!art156_cpt_inc11) - Código Tributário Nacional, mediante dação em pagamento de bens imóveis, a critério do credor, na forma desta Lei, desde que atendidas as seguintes condições:
+
+I – a dação seja precedida de avaliação do bem ou dos bens ofertados, que devem estar livres e desembaraçados de quaisquer ônus, nos termos de ato do Ministério da Fazenda; e
+
+II – a dação abranja a totalidade do crédito ou créditos que se pretende liquidar com atualização, juros, multa e encargos legais, sem desconto de qualquer natureza, assegurando-se ao devedor a possibilidade de complementação em dinheiro de eventual diferença entre os valores da totalidade da dívida e o valor do bem ou dos bens ofertados em dação.
+
+§ 1º O disposto no caput não se aplica aos créditos tributários referentes ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional.
+
+§ 2º Caso o crédito que se pretenda extinguir seja objeto de discussão judicial, a dação em pagamento somente produzirá efeitos após a desistência da referida ação pelo devedor ou corresponsável e a renúncia do direito sobre o qual se funda a ação, devendo o devedor ou o corresponsável arcar com o pagamento das custas judiciais e honorários advocatícios.
+
+§ 3º A União observará a destinação específica dos créditos extintos por dação em pagamento, nos termos de ato do Ministério da Fazenda.” (NR)
+
+Art. 5º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 29 de março de 2016; 195º da Independência e 128º da República.
+
+DILMA ROUSSEFF
+
+Nelson Barbosa
+
+Miguel Rossetto

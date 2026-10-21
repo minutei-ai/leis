@@ -1,0 +1,23 @@
+# Decreto nº 69.592, de 09/06/2025
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211046)<br>
+
+# DECRETO N° 69.592, DE 09 DE JUNHO DE 2025
+
+### Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, o imóvel necessário à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de Santos, e dá providências correlatas.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no artigo 1° e no inciso V do artigo 2° da Lei federal n° 4.132, de 10 de setembro de 1962,
+
+Decreta:
+
+**Artigo 1° -**Fica declarado de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, por via amigável ou judicial, o imóvel identificado na planta cadastral e descrito no memorial constantes dos autos do Processo n° 387.00000307/2025-52, necessário à implantação de Programa Habitacional e de Desenvolvimento Urbano para famílias de baixa renda, situado na Avenida Siqueira Campos, Rua Padre Anchieta e Avenida Senador Dantas, Bairro Macuco, no Município e Comarca de Santos, o qual têm linha de divisa que, partindo do ponto 1, localizado no alinhamento par da Avenida Siqueira Campos, distante 8,96m do ponto de interseção com o alinhamento par da Avenida Senador Dantas, segue com azimute de 274°22â€™00" e distância de 99.64m, confrontando com a Avenida Siqueira Campos até o ponto 2; desse ponto, segue em curva à direita, com raio de 9.00m e desenvolvimento de 14.15m até o ponto 3; desse ponto, segue em reta, confrontando com a Rua Padre Anchieta, com azimute de 4°28â€™05" e distância de 34.50m até o ponto 4; desse ponto, segue em curva à direita, com raio de 9.00m e desenvolvimento de 14.12m até o ponto 5; desse ponto, segue em reta, com azimute de 94°22â€™00" e distância de 54.52m até o ponto 6; desse ponto, deflete à esquerda, com azimute de 3°02â€™09" e distância 12.00m até o ponto 7; desse ponto, deflete à esquerda, com azimute de 274°22â€™00" e distância de 54.18m até o ponto 8; desse ponto, segue em curva à direita, com raio de 9.00m e desenvolvimento de 14.15m até o ponto 9, confrontando desde o ponto 4, até aqui, com a Rua Nosso Senhor Bom Jesus dos Passos; desse ponto, segue com azimute de 4°28â€™05" e distância de 35.00m, confrontando com a Rua Padre Anchieta até o ponto 10; desse ponto, segue em curva à direita, com raio de 9.00m e desenvolvimento de 14.12m até o ponto 11; desse ponto, segue em reta, com azimute de 94°22â€™00" e distância de 53.72m até o ponto 12; desse ponto, deflete à esquerda, com azimute de 5°54â€™00" e distância de 12.00m até o ponto 13; desse ponto, deflete à esquerda, com azimute de 274°22â€™00" e distância de 53.98m até o ponto 14; desse ponto, segue em curva à direta, com raio de 9.00m e desenvolvimento de 14.15m até o ponto 15, confrontando desde o ponto 10, até aqui, com a Rua Álvaro Pinto da Silva Novais; desse ponto, segue em reta, com azimute de 4°28â€™05" e distância de 63.28m, confrontando com a Rua Padre Anchieta até o ponto 16; desse ponto, segue em curva à direita, com raio de 70.00m e desenvolvimento de 27.85m até o ponto 17; desse ponto, segue em reta, com azimute de 55°11â€™27" e distância de 86.88m até o ponto 18; desse ponto, deflete à direita, com azimute de 94°47â€™14" e distância de 26.70m até o ponto 19, confrontando desde o ponto 16, até aqui, com propriedade da União - Remanescente da Transcrição n° 33.643; desse ponto, deflete à direita, com azimute de 184°38â€™15" e distância de 260.42m, confrontando com a Avenida Senador Dantas até o ponto 20; e, desse ponto, segue em curva à direita, com raio de 9.00m e desenvolvimento de 14.09m até o ponto 1, início dessa descrição, encerrando a área de 26.820,73mÂ² (vinte e seis mil oitocentos e vinte metros quadrados e setenta e três decímetros quadrados).
+
+**Artigo 2° -** Fica a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para os fins do disposto no artigo 5° da Lei federal n° 4.132, de 10 de setembro de 1962, combinado com o artigo 15 do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e alterações posteriores.
+
+**Artigo 3° -** As despesas com a execução do presente decreto correrão à conta de recursos próprios da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU.
+
+**Artigo 4° -** Este decreto entra em vigor na data de sua publicação.
+
+TARCÍSIO DE FREITAS
+
+Arthur Luis Pinho de Lima

@@ -1,0 +1,23 @@
+# Decreto nº 69.388, de 26/02/2025
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210685)<br>
+
+# DECRETO N° 69.388, DE 26 DE FEVEREIRO DE 2025
+
+### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da Lei n° 6.374, de 1° de março de 1989, e no Convênio ICM 35/77, de 7 de dezembro de 1977,
+
+Decreta:
+
+**Artigo 1° -** Passa a vigorar, com a redação que se segue, o § 2° do artigo 73 do Anexo I do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto n° 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):
+
+"§ 2° - Este benefício vigorará até 31 de dezembro de 2026.". (NR)
+
+**Artigo 2°** \- Este decreto entra em vigor na data da sua publicação, produzindo efeitos desde 1° de janeiro de 2025.
+
+TARCÍSIO DE FREITAS
+
+Fraide Barrêto Sales
+
+Samuel Yoshiaki Oliveira Kinoshita

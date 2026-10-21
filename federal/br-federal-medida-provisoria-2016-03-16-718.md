@@ -1,0 +1,227 @@
+# Medida Provisória nº 718 de 16/03/2016
+
+MEDIDA PROVISÓRIA Nº 718, DE 16 DE MARÇO DE 2016
+
+Altera a [Lei nº 9.615, de 24 de março de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-03-24;9615), que institui normas gerais sobre desporto, para dispor sobre o controle de dopagem, a [Lei nº 12.780, de 9 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-09;12780), que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e dá outras providências.
+
+A PRESIDENTA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º Esta Medida Provisória altera a [Lei nº 9.615, de 24 de março de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-03-24;9615), que institui normas gerais sobre desportos, a [Lei nº 12.780, de 9 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-09;12780), que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e dá outras providências.
+
+Art. 2º A [Lei nº 9.615, de 24 de março de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-03-24;9615), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 3º Os direitos e as garantias estabelecidos nesta Lei e decorrentes dos princípios constitucionais do esporte não excluem outros oriundos de tratados e acordos internacionais firmados pela República Federativa do Brasil.” (NR)
+
+“Art. 11.....................................................
+
+..........................................................
+
+VI – aprovar os Códigos de Justiça Desportiva e suas alterações, com as peculiaridades de cada modalidade;
+
+VII – aprovar o Código Brasileiro Antidopagem - CBA e suas alterações, no qual serão estabelecidos, entre outros:
+
+a) as regras antidopagem e as suas sanções;
+
+b) os critérios para a dosimetria das sanções; e
+
+c) o procedimento a ser seguido para processamento e julgamento das violações às regras antidopagem; e
+
+VIII – estabelecer diretrizes sobre os procedimentos relativos ao controle de dopagem exercidos pela Autoridade Brasileira de Controle de Dopagem - ABCD.
+
+§ 1º O Ministério do Esporte prestará apoio técnico e administrativo ao CNE.
+
+§ 2º No exercício das competências a que se referem os incisos VII e VIII do caput, o CNE deverá observar as disposições do Código Mundial Antidopagem editado pela Agência Mundial Antidopagem.
+
+§ 3º Enquanto não for exercida a competência referida no inciso VII do caput, competirá à ABCD publicar o CBA, que poderá ser referendado pelo CNE no prazo de cento e oitenta dias, contado da data de publicação desta Medida Provisória.” (NR)
+
+“CAPÍTULO VI-A
+
+DO CONTROLE DE DOPAGEM
+
+Art. 48-A. O controle de dopagem tem por objetivo garantir o direito dos atletas e das entidades de participarem de competições livres de dopagem, promover a conservação da saúde, preservar a justiça e a igualdade entre os competidores.
+
+§ 1º O controle de dopagem será realizado por meio de programas harmonizados, coordenados e eficazes em nível nacional e internacional no âmbito da detecção, da punição e da prevenção da dopagem.
+
+§ 2º Considera-se como dopagem no esporte a violação de regra antidopagem cometida por atleta, por terceiro ou por entidade.
+
+Art. 48-B. A ABCD, órgão vinculado ao Ministério do Esporte, é a organização nacional antidopagem, a qual compete, privativamente:
+
+I – estabelecer a política nacional de prevenção e de combate à dopagem;
+
+II – coordenar nacionalmente o combate de dopagem no esporte, respeitadas as diretrizes estabelecidas pelo CNE;
+
+III – conduzir os testes de controle de dopagem, a gestão de resultados, de investigações e outras atividades relacionadas à antidopagem, respeitadas as atribuições de entidades internacionais previstas no Código Mundial de Antidopagem;
+
+IV – expedir autorizações de uso terapêutico, respeitadas as atribuições de entidades internacionais previstas no Código Mundial de Antidopagem;
+
+V – certificar e identificar profissionais, órgãos e entidades para atuar no controle de dopagem;
+
+VI – editar resoluções sobre os procedimentos técnicos de controle de dopagem, observadas as normas previstas no Código Mundial Antidopagem e a legislação correlata;
+
+VII – manter interlocução com os organismos internacionais envolvidos com matérias relacionadas à antidopagem, respeitadas as competências dos demais órgãos da União;
+
+VIII – divulgar e adotar as normas técnicas internacionais relacionadas ao controle de dopagem e a lista de substâncias e métodos proibidos no esporte, editada pela Agência Mundial Antidopagem; e
+
+IX – informar à Justiça Desportiva Antidopagem as violações às regras de dopagem, participando do processo na qualidade de fiscal da legislação antidopagem.
+
+§ 1º A ABCD poderá delegar a competência para coleta de amostras e prática de demais atos materiais relacionados ao controle de dopagem.
+
+§ 2º No exercício das competências previstas no caput, a ABCD observará o disposto nos incisos VII e VIII do caput do art. 11.
+
+§ 3º A ABCD poderá propor ao CNE a edição e as alterações de normas antidopagem.
+
+§ 4º Os atos normativos da ABCD deverão ser submetidos à prévia análise da Advocacia-Geral da União.
+
+Art. 48-C. Às demais entidades componentes do Sistema Brasileiro do Desporto incumbe a adoção, a implementação e a aplicação de regras antidopagem, nos termos estabelecidos nesta Lei e nas demais normas regulamentares expedidas pelo CNE e pela ABCD.” (NR)
+
+“Art. 50.....................................................
+
+I –.........................................................
+
+..........................................................
+
+§ 5º A pena de suspensão de que trata o inciso XI do caput não poderá ser superior a trinta anos.” (NR)
+
+“Art. 50-B. Além das sanções previstas nos incisos do § 1º do art. 50, as violações às regras antidopagem podem, ainda, sujeitar o infrator às seguintes penalidades:
+
+I – nulidade de títulos, premiações, pontuações, recordes e resultados desportivos obtidos pelo infrator; e
+
+II – devolução de prêmios, troféus, medalhas e outras vantagens obtidas pelo infrator que sejam relacionadas à prática desportiva.
+
+§ 1º Na hipótese de condenação de que trata o § 11, a Justiça Desportiva Antidopagem - JAD comunicará os órgãos da administração pública para obter ressarcimento de eventuais recursos públicos despendidos com o atleta.
+
+§ 2º O disposto nos § 2º e § 3º do art. 50 aplica-se às violações das regras antidopagem.” (NR)
+
+“Art. 55-A. Fica criada a Justiça Desportiva Antidopagem - JAD, composta por um Tribunal e por uma Procuradoria, dotados de autonomia e independência, e com competência para:
+
+I – julgar violações a regras antidopagem e aplicar as infrações a elas conexas; e
+
+II – homologar decisões proferidas por organismos internacionais, decorrentes ou relacionadas a violações às regras antidopagem.
+
+§ 1º A JAD funcionará junto ao CNE e será composta de forma paritária por representantes de entidades de administração do desporto, de entidades sindicais dos atletas e do Poder Executivo.
+
+§ 2º A escolha dos membros da JAD buscará a paridade de gênero.
+
+§ 3º Os membros da JAD serão auxiliados em suas decisões por equipe de peritos técnicos das áreas relacionadas ao controle de dopagem.
+
+§ 4º A competência da JAD abrangerá as modalidades e as competições desportivas de âmbito profissional e não profissional.
+
+§ 5º Incumbe ao CNE regulamentar a atuação da JAD.
+
+§ 6º O mandato dos membros da JAD terá duração de três anos, permitida uma recondução por igual período.
+
+§ 7º Não poderão compor a JAD membros que estejam no exercício de mandato em outros órgãos da Justiça Desportiva de que trata o art. 50, independentemente da modalidade.
+
+§ 8º É vedado aos membros da JAD atuarem junto a este pelo período de um ano após o término dos respectivos mandatos.
+
+§ 9º As atividades da JAD serão custeadas pelo Ministério do Esporte.
+
+§ 10. Poderá ser estabelecida a cobrança de custas e emolumentos para a realização de atos processuais.
+
+§ 11. As custas e os emolumentos de que trata o § 10 deverão ser fixadas entre R$ 100,00 (cem reais) e R$ 100.000,00 (cem mil reais), conforme a complexidade da causa, na forma da tabela aprovada pelo CNE para este fim.
+
+§ 12. O Código Brasileiro Antidopagem - CBA e os regimentos internos do Tribunal e da Procuradoria disporão sobre a organização, o funcionamento e as atribuições da JAD.
+
+§ 13. O disposto no § 3º do art. 55 aplica-se aos membros da JAD.” (NR)
+
+“Art. 55-B. Até a entrada em funcionamento da JAD, o processo e o julgamento de infrações relativas à dopagem no esporte permanecerão sob a responsabilidade da Justiça Desportiva de que tratam os art. 49 a art. 55.
+
+Parágrafo único. Os processos instaurados e em trâmite na Justiça Desportiva quando da instalação da JAD permanecerão sob responsabilidade daquela até o seu trânsito em julgado, competindo-lhe a execução dos respectivos julgados.” (NR)
+
+“Art. 55-C. Compete à JAD decidir sobre a existência de matéria atinente ao controle de dopagem que atraia sua competência para o processo e o julgamento da demanda.
+
+Parágrafo único. Não caberá recurso da decisão proferida na forma do caput.” (NR)
+
+Art. 3º É dispensável a licitação para a contratação pela administração pública federal do Laboratório Brasileiro de Controle de Dopagem para realizar as atividades relacionadas ao [inciso II do caput do art. 48-B da Lei nº 9.615, de 1998](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998;9615!art48-2_cpt_inc2).
+
+Art. 4º A [Lei nº 12.780, de 9 de janeiro de 2013](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-01-09;12780), passa a vigorar com as seguintes alterações:
+
+“Art. 5º.....................................................
+
+§ 1º........................................................
+
+..........................................................
+
+V – embarcações destinadas à hospedagem de pessoas diretamente ligadas, contratadas ou convidadas pelo CIO, pelo IPC, pelo RIO 2016, pelos Comitês Olímpicos Nacionais, pelas Federações Desportivas Internacionais, pela WADA, pela CAS ou por patrocinadores dos Jogos e de pessoas que tenham adquirido pacotes turísticos de patrocinadores ou apoiadores oficiais.
+
+..........................................................
+
+§ 4º Na hipótese do inciso V do § 1º, as embarcações destinadas à hospedagem serão consideradas, para fins de tratamento tributário e de controle aduaneiro, dentre outros fins, navios estrangeiros em viagem de cruzeiro pela costa brasileira.” (NR)
+
+“CAPÍTULO II
+
+DA DESONERAÇÃO DE TRIBUTOS
+
+..........................................................
+
+Seção VII
+
+Da isenção da Taxa de Fiscalização de Produtos Controlados pelo Exército Brasileiro.
+
+..........................................................
+
+Art. 19......................................................
+
+..........................................................
+
+§ 4º O CIO ou o RIO 2016 divulgarão em sítio eletrônico as informações referentes às renúncias fiscais individualizadas decorrentes desta Lei, tendo por base os contratos firmados com as pessoas físicas e jurídicas habilitadas na forma do caput, de modo a permitir o acompanhamento e transparência ao processo.
+
+§ 5º Para os efeitos do § 4º, os contratos serão agrupados conforme pertençam ao setor de comércio, serviços ou indústria, considerando, no caso de atividades mistas, o setor predominante no objeto do contrato.
+
+§ 6º Os contratos firmados com as pessoas físicas e jurídicas habilitadas na forma do caput serão divulgados no sítio eletrônico a que se refere o § 4º, com a indicação do contratado, contratante e objeto do contrato, vedada a publicação de valores ou quantidades que prejudiquem o direito ao sigilo comercial.
+
+CAPÍTULO III
+
+DISPOSIÇÕES GERAIS
+
+Art. 20.................................................” (NR)
+
+Art. 5º Durante a realização dos Jogos Olímpicos e Paraolímpicos de 2016, a Agência Nacional de Aviação Civil - Anac poderá autorizar, em coordenação com Ministério de Defesa, a exploração de serviços aéreos especializados remunerados por operador, aeronave e tripulação estrangeiros, desde que seja relacionada aos referidos eventos.
+
+Art. 6º Serão considerados válidos para o trabalhador estrangeiro com visto temporário para exercer funções relacionadas exclusivamente à organização, ao planejamento e à execução dos Jogos Olímpicos e Paralímpicos Rio 2016, quando este não tiver relação com empresa chamante no País e nem vínculo empregatício com empresa nacional:
+
+I – as capacitações e os treinamentos em segurança e em saúde no trabalho, realizadas no exterior, com conteúdo programático e carga horária compatíveis com os previstos nas normas regulamentadoras; e
+
+II – os exames médicos ocupacionais realizados no exterior, desde que atendidos os requisitos exigidos nas normas regulamentadoras e validados por médico legalmente habilitado no País.
+
+Parágrafo único. A documentação comprobatória de atendimento ao disposto neste artigo deve ser disponibilizada aos órgãos competentes devidamente acompanhada de versão traduzida para língua portuguesa.
+
+Art. 7º A [Lei nº 10.973, de 2 de dezembro de 2004](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-02;10973), passa a vigorar com as seguintes alterações:
+
+“Art. 20.....................................................
+
+..........................................................
+
+§ 6º Observadas as diretrizes previstas em regulamento específico, os órgãos e as entidades da administração pública federal competentes para regulação, revisão, aprovação, autorização ou licenciamento atribuído ao Poder Público, inclusive para fins de vigilância sanitária, preservação ambiental, importação de bens e segurança, estabelecerão normas e procedimentos especiais, simplificados e prioritários que facilitem:
+
+I – a realização das atividades de pesquisa, desenvolvimento ou inovação encomendadas na forma do caput;
+
+II – a obtenção dos produtos para pesquisa e desenvolvimento necessários à realização das atividades descritas no inciso I; e
+
+III – a fabricação, a produção e a contratação de produto, serviço ou processo inovador resultante das atividades descritas no inciso I.” (NR)
+
+Art. 8º A [Lei nº 8.010, de 29 de março de 1990](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-03-29;8010), passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 2º O disposto neste artigo aplica-se somente às importações realizadas pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, por cientistas, por pesquisadores, por Instituição Científica, Tecnológica e de Inovação - ICT e por entidades sem fins lucrativos ativos no fomento, na coordenação ou na execução de programas de pesquisa científica e tecnológica, de inovação ou de ensino e devidamente credenciados pelo CNPq.” (NR)
+
+Art. 9º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 16 de março de 2016; 195º da Independência e 128º da República.
+
+DILMA ROUSSEFF
+
+Nelson Barbosa
+
+Celso Pansera
+
+George Hilton Guilherme
+
+Walder Mora Ramalho

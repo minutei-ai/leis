@@ -1,0 +1,46 @@
+# Portaria Orçamentária nº 800, de 2024-12-13
+
+Portaria Orçamentária nº 800/2024 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392/lei-22536), de 9 de Janeiro de 2024, conforme processo 202400004035893.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto à SECRETARIA DE ESTADO DA ECONOMIA, 1 (um) crédito suplementar no valor de R$ 9.996.552,88 (nove milhões, novecentos e noventa e seis mil, quinhentos e cinquenta e dois reais e oitenta e oito centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 13 dias do mês de Dezembro de 2024.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **1700 - SECRETARIA DE ESTADO DA ECONOMIA<br>
+1704 - ENCARGOS ESPECIAIS** |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| PAGAMENTO DE PRECATÓRIOS | 28 846 0100 7.118 | 25010100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$ 9.996.552,88 | R$ 9.996.552,88 |
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| 25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES | R$ 9.996.552,88 |
+| **TOTAL A SUPLEMENTAR** | R$ 9.996.552,88 |
+
+QUADRO 2
+
+| REDUÇÃO |
+| --- |
+| **1700 - SECRETARIA DE ESTADO DA ECONOMIA<br>
+1704 - ENCARGOS ESPECIAIS** |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
+| PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV | 28 846 0100 7.119 | 25010100 | 90 | 1 - PESSOAL E ENCARGOS SOCIAIS | R$ 24.736.124,88 | R$ 9.996.552,88 | R$ 9.996.552,88 |
+| **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
+| 25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES | R$ 9.996.552,88 |
+| **TOTAL** | R$ 9.996.552,88 |
+| **TOTAL POR FONTE** |
+| 25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES | R$ 9.996.552,88 |
+| **TOTAL** | R$ 9.996.552,88 |

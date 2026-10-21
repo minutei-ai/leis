@@ -1,0 +1,23 @@
+# Lei Ordinária nº 23.317, de 2025-04-02
+
+LEI Nº 23.317, DE 2 DE ABRIL DE 2025
+
+Declara de utilidade pública a entidade que especifica.
+
+A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de utilidade pública a IGREJA BATISTA RENOVADA AMOR PLENO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 10.942.950/0001-99, com sede no Município de Goiânia/GO.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
+Goiânia, 2 de abril de 2025; 137º da República.
+
+ 
+
+RONALDO CAIADO
+
+Governador do Estado
+
+BRUNO PEIXOTO
+
+Deputado Estadual

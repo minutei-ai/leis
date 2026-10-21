@@ -1,0 +1,36 @@
+# Decreto Numerado nº 616, de 2024-07-31
+
+DECRETO “N” Nº 616 DE 31 DE JULHO DE 2024.
+
+Dispõe sobre desmembramento de imóvel.
+
+O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso da atribuição conferida pelo art. 71, inciso VII, da Lei Orgânica do Município, considerando o Plano Diretor do Município e a delegação de atribuição conferida pelo “Decreto “N” nº 02/2021,
+
+**DECRETA:**
+
+Art. 1º - Fica desmembrado o Lote 38 da Quadra 51 do Loteamento JARDIM MARIA INÊS, neste município, de propriedade de MARIANA MARTINS PRADO, inscrito (a) no CPF/MF nº 355.508.131-49:
+
+SITUAÇÃO ATUAL
+
+| **IMÓVEL** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 38 | 405,23 |
+
+SITUAÇÃO PROPOSTA
+
+| **IMÓVEIS** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 38A | 198,10 |
+| Lote 38B | 207,13 |
+
+Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2024.138.269, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogando o Decreto “N” nº 438/2024.
+
+Aparecida de Goiânia, Estado de Goiás, aos 31 de julho de 2024.
+
+POLLYANA OLIVEIRA BORGES<br>
+Secretária de Governo
+
+JÚLIO CÉSAR CHAGAS MENDES<br>
+Secretário de Planejamento e Regulação Urbana<br>

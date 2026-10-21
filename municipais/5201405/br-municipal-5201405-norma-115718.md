@@ -1,0 +1,36 @@
+# Decreto Numerado nº 474, de 2024-06-19
+
+DECRETO “N” Nº 474 DE 19 DE JUNHO DE 2024.
+
+Dispõe sobre desmembramento de imóvel.
+
+O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso da atribuição conferida pelo art. 71, inciso VII, da Lei Orgânica do Município, considerando o Plano Diretor do Município e a delegação de atribuição conferida pelo “Decreto “N” nº 02/2021,
+
+**DECRETA:**
+
+Art. 1º - Fica desmembrado o lote 08 da quadra 14, do loteamento VILA SÃO JORGE, neste município, de propriedade de ESPERANÇA IMÓVEIS LTDA, inscrita no CNPJ/MF nº 20.\*\*\*.\*\*\*/0001-55:
+
+SITUAÇÃO ATUAL
+
+| **IMÓVEL** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 08 | 691,42 |
+
+SITUAÇÃO PROPOSTA
+
+| **IMÓVEIS** | **ÁREA (m²)** |
+| --- | --- |
+| Lote 08A | 385,01 |
+| Lote 08B | 306,41 |
+
+Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023226341, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogando o Decreto “N” nº 15/2024.
+
+Aparecida de Goiânia, Estado de Goiás, aos 19 de junho de 2024.
+
+POLLYANA OLIVEIRA BORGES<br>
+Secretária de Governo
+
+JÚLIO CÉSAR CHAGAS MENDES<br>
+Secretário de Planejamento e Regulação Urbana<br>

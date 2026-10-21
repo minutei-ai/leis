@@ -1,0 +1,30 @@
+# Portaria Orçamentária nº 645, de 2024-10-17
+
+Portaria Orçamentária nº 645/2024 - Economia
+
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "b" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
+
+**RESOLVE:**
+
+Art. 1º Fica aberto ao FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS, 1 (um) crédito suplementar no valor de R$ 30.000.000,00 (trinta milhões de reais), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso II do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de excesso de arrecadação.
+
+Art. 2º Esta Portaria entra em vigor nesta data.
+
+GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 18 dias do mês de Outubro de 2024.
+
+ 
+
+FRANCISCO SERVULO FREIRE NOGUEIRA
+
+QUADRO 1
+
+| SUPLEMENTAÇÃO |
+| --- |
+| **1880 - FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS** |
+| **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
+| ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TJGO | 09 272 0200 7.206 | 18010300 | 90 | 1 - PESSOAL E ENCARGOS SOCIAIS | R$ 16.184.019,11 | R$ 30.000.000,00 | R$ 46.184.019,11 |
+| **TOTAL A SUPLEMENTAR POR FONTE** |
+| 18010300 - RECURSOS VINCULADOS AO RPPS - FUNDO EM REPARTIÇÃO (PLANO FINANCEIRO) | R$ 30.000.000,00 |
+| **TOTAL A SUPLEMENTAR** | R$ 30.000.000,00 |

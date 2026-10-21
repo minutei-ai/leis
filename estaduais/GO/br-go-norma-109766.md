@@ -1,0 +1,73 @@
+# Lei Ordinária nº 23.040, de 2024-10-28
+
+LEI Nº 23.040, DE 28 DE OUTUBRO DE 2024
+
+Abre crédito especial à Secretaria de Estado da Economia – ECONOMIA e à Secretaria de Estado de Esporte e Lazer – SEL, bem como cria iniciativa e produto no Plano Plurianual 2024-2027.
+
+A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica aberto, no corrente exercício, o crédito especial de R$ 20.279.000,00 (vinte milhões e duzentos e setenta e nove mil reais) à Secretaria de Estado da Economia – ECONOMIA e à Secretaria de Estado de Esporte e Lazer – SEL, conforme o Anexo I desta Lei.
+
+Art. 2º Os recursos necessários à abertura do crédito especial de que trata o art. 1º desta Lei serão provenientes de anulação parcial ou total de dotações orçamentárias no valor de R$ 20.279.000,00 (vinte milhões e duzentos e setenta e nove mil reais), em consonância com o art. 43, § 1º, inciso III, da Lei federal nº 4.320, de 17 de março de 1964, conforme o Anexo II desta Lei.
+
+Art. 3º Ficam criados na [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027, a iniciativa “Geração de Ambiente de Atratividade Econômica por meio de Eventos Esportivos Internacionais” e o produto “Evento Esportivo Internacional Realizado”, conforme o Anexo III desta Lei.
+
+Art. 4º Esta Lei entra em vigor na data de sua publicação.
+
+Goiânia, 28 de outubro de 2024; 136º da República.
+
+ 
+
+RONALDO CAIADO
+
+Governador do Estado
+
+ANEXO I
+
+CRÉDITO ESPECIAL
+
+| **Unidade** **Orçamentária** | Função | Subfunção | Programa | Ação | **Grupo de** **Despesa** | Fonte | **Modalidade** **Aplicação** | **Código** **Orçamentário** | Valor (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1702 –ENCARGOS FINANCEIROS DO ESTADO | 28 – ENCARGOS ESPECIAIS | 846 – OUTROS ENCARGOS ESPECIAIS | 0100 – ENCARGOS ESPECIAIS | 7135 – ENCARGOS DA DÍVIDA PÚBLICA – PASEP ESTADO | 02 – JUROS E ENCARGOS DA DÍVIDA | 15010100 – OUTROS RECURSOS NÃO VINCULADOS – RECEITAS ORDINÁRIAS E DRE | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS | 10.909.000,00 |
+|   |   |   |   |   | 06 – AMOR-TIZAÇÃO DA DÍVIDA | 15010100 – OUTROS RECURSOS NÃO VINCULADOS – RECEITAS ORDINÁRIAS E DRE | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS | 4.900.000,00 |
+|   |   |   |   | 7136 – ENCARGOS DA DÍVIDA PÚBLICA –PASEP FUNDO DE PREVI-DÊNCIA | 02 – JUROS E ENCARGOS DA DÍVIDA | 15010100 – OUTROS RECURSOS NÃO VINCULADOS – RECEITAS ORDINÁRIAS E DRE | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS | 580.000,00 |
+|   |   |   |   |   | 06 – AMOR-TIZAÇÃO DA DÍVIDA | 15010100 – OUTROS RECURSOS NÃO VINCULADOS – RECEITAS ORDINÁRIAS E DRE | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS | 390.000,00 |
+| 2601 – GAB. SEC. ESTADO DE ESPORTE E LAZER | 27 – DESPORTO E LAZER | 813 – LAZER |   1054 – GOIÁS DO CRESCI-MENTO E DO EMPREEN-DEDORIS-MO | 3360 – REALIZAÇÃO DE EVENTOS ESPORTIVOS INTERNA-CIONAIS | 03 – OUTRAS DESPESAS CORRENTES | 25000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS – EXERCÍCIOS ANTERIORES | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS | 3.490.000,00 |
+|   |   |   |   |   | 04 – INVESTIMEN-TOS | 25000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS – EXERCÍCIOS ANTERIORES | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS | 10.000,00 |
+| TOTAL | 20.279.000,00 |
+
+ANEXO II
+
+REDUÇÃO
+
+| **Unidade** **Orçamentária** | Função | Subfunção | Programa | Ação | **Grupo de** **Despesa** | Fonte | **Modalidade** **Aplicação** | **Código** **Orçamentário** | Valor (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1702 – ENCARGOS FINANCEIROS DO ESTADO | 28 – ENCARGOS ESPECIAIS | 846 – OUTROS ENCARGOS ESPECIAIS | 0100 – ENCARGOS ESPECIAIS | 7135 – ENCARGOS DA DÍVIDA PÚBLICA – PASEP ESTADO | 03 – OUTRAS DESPESAS CORRENTES | 15010100 – OUTROS RECURSOS NÃO VINCULADOS – RECEITAS ORDI-NÁRIAS E DRE | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTI-FICAÇÃO DE DESPESAS GERAIS | 15.809.000,00 |
+|   |   |   |   | 7136 – ENCARGOS DA DÍVIDA PÚBLICA – PASEP FUNDO DE PREVI-DÊNCIA | 03 – OUTRAS DESPESAS CORRENTES | 15010100 – OUTROS RECURSOS NÃO VINCULADOS – RECEITAS ORDI-NÁRIAS E DRE | 90 – APLICAÇÕES DIRETAS | 0000 – IDENTI-FICAÇÃO DE DESPESAS GERAIS | 970.000,00 |
+| 2850 – FUNDO ESTADUAL DE SAÚDE – FES | 10 – SAÚDE | 302 – ASSISTÊNCIA HOSPITALAR E AMBULATO-RIAL | 1043 – SAÚDE INTEGRAL | 2516 – GESTÃO INDIRETA – ATENDI-MENTO AMBULATO-RIAL E/OU HOSPITALAR E PRODUÇÃO DE HEMOCOM-PONENTES | 03 – OUTRAS DESPESAS CORRENTES | 25000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS – EXERCÍCIOS ANTERIORES | 50 – TRANSFE-RÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS | 1002 – IDENTI-FICAÇÃO DAS DESPESAS COM AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE | 3.500.000,00 |
+| TOTAL | 20.279.000,00 |
+
+ANEXO III
+
+PRODUTOS A SEREM CRIADOS NO PLANO PLURIANUAL 2024-2027
+
+| ÓRGÃO | SECRETARIA DE ESTADO DE ESPORTE E LAZER |
+| --- | --- |
+| JUSTIFICATIVA PARA A CRIAÇÃO DO PRODUTO | DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O FOMENTO ESPORTIVO QUE PROPORCIONE AMBIENTE DE ATRATIVIDADE ECONÔMICA |
+| PROGRAMA | 1054 – GOIÁS DO CRESCIMENTO E DO EMPREENDEDORISMO |
+| INICIATIVA | GERAÇÃO DE AMBIENTE DE ATRATIVIDADE ECONÔMICA POR MEIO DE EVENTOS ESPORTIVOS INTERNACIONAIS |
+| NOME DA ENTREGA | EVENTO ESPORTIVO INTERNACIONAL REALIZADO |
+| UNIDADE DE MEDIDA | NÚMERO DE EVENTOS REALIZADOS |
+| TIPO DE ENTREGA | PRODUTO SIOFI |
+| DESCRIÇÃO DO PRODUTO | REALIZAÇÃO DE EVENTOS ESPORTIVOS INTERNACIONAIS |
+| MÉTODO DE COMPROVAÇÃO | ETAPA DE EVENTO ESPORTIVO REALIZADA |
+| CLASSIFICAÇÃO DO PRODUTO | SERVIÇO PÚBLICO |
+| TIPO DE PRODUTO | PRODUTO DE INOVAÇÃO – SIOFI |
+| META CUMULATIVA (SIM/NÃO) | NÃO |
+| NÍVEL DE MONITORAMENTO | ESTADO |
+| ESTRATÉGIA DE PLANEJAMENTO | ESTADO |
+| METAS FÍSICAS | REGIÃO | 2024 | 2025 | 2026 | 2027 |
+|   | ESTADO DE GOIÁS | 0 | 0 | 1 | 1 |
+| FINANCEIRO (SIM/NÃO) | SIM |
+| CUSTO ESTIMADO | 2024 | 2025 | 2026 | 2027 |
+|   | R$ 5.000.000,00 | R$ 50.000.000,00 | R$ 10.000.000,00 | R$ 10.000.000,00 |

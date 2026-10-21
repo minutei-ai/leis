@@ -1,0 +1,27 @@
+# Medida Provisória nº 787 de 24/07/2017
+
+MEDIDA PROVISÓRIA Nº 787, DE 24 DE JULHO DE 2017
+
+Autoriza a desapropriação, em favor da União, do imóvel que especifica, localizado no Município de João Neiva, Estado do Espírito Santo.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, combinado com o § 2º do art. 2º do Decreto-Lei nº 3.365, de 21 de junho de 1941, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º Fica autorizada a desapropriação, em favor da União, do imóvel delimitado pelas coordenadas topográficas descritas a seguir, situado às margens da Rodovia Governador Mário Covas, BR- 101/ES, objeto da matrícula nº 1.689 do Livro 2-Q do Cartório de Notas e Registro Civil da Comarca de João Neiva, que consta pertencer ao Município de João Neiva e se trata de propriedade pública de uso dominical, localizado no Município de João Neiva, Estado do Espírito Santo, necessário à execução das obras de duplicação do Subtrecho C do km 205+280m ao km 208+170m e do km 215+990m ao km 220+370m, a que se refere a Deliberação nº 333/2016, da Diretoria da Agência Nacional de Transportes Terrestres - ANTT, publicada no Diário Oficial da União de 27 de dezembro de 2016:
+
+I – área 1 - situada às margens da Rodovia Governador Mário Covas, BR-101, km 206+380m - Pista Sul, com linha de divisa partindo do ponto denominado 1 de coordenadas N:7813768,762439 e E:356387,160204, sendo constituída pelos segmentos: segmento 1-2, em linha reta com azimute 146°48'18”, distância de 23,45m; segmento 2-3, em linha reta com azimute 149°13'26”, distância de 23,25m; segmento 3-4, em linha reta com azimute 154°23'52”, distância de 37,96m; segmento 4-5, em linha reta com azimute 158°46'54”, distância de 24,57m; segmento 5-6, em linha reta com azimute 161°24'2”, distância de 15,04m; segmento 6-7, em linha reta com azimute 164°24'14”, distância de 15,61m; segmento 7-8, em linha reta com azimute 165°44'9”, distância de 19,93m; segmento 8-9, em linha reta com azimute 169°38'11”, distância de 25,65m; segmento 9-10, em linha reta com azimute 173°33'33”, distância de 24,30m; segmento 10-11, em linha reta com azimute 176°46'56”, distância de 25,94m; segmento 11-12, em linha reta com azimute 180°24'59”, distância de 25,86m; segmento 12-13, em linha reta com azimute 184°45'30”, distância de 20,71m; segmento 13-14, em linha reta com azimute 187°47'20”, distância de 10,06m; segmento 14-15, em linha reta com azimute 337°59'23”, distância de 43,83m; segmento 15-16, em linha reta com azimute 355°8'54”, distância de 50,66m; segmento 16-17, em linha reta com azimute 345°48'59”, distância de 19,36m; segmento 17-18, em linha reta com azimute 337°0'36”, distância de 17,36m; segmento 18-19, em linha reta com azimute 274°39'40”, distância de 3,69m; segmento 19-20, em linha reta com azimute 332°55'47”, distância de 48,40m; segmento 20-21, em linha reta com azimute 323°25'4”, distância de 6,41m; segmento 21-22, em linha reta com azimute 359°0'38”, distância de 3,30m; segmento 22-23, em linha reta com azimute 334°22'12”, distância de 13,36m; segmento 23-24, em linha reta com azimute 32°14'32”, distância de 5,29m; segmento 24-25, em linha reta com azimute 344°41'31”, distância de 30,85m; segmento 25-26, em linha reta com azimute 25°54'51”, distância de 3,58m; segmento 26-27, em linha reta com azimute 344°16'27”, distância de 22,40m; segmento 27-28, em linha reta com azimute 356°22'10”, distância de 7,25m; segmento 28-29, em linha reta com azimute 337°55'22”, distância de 2,20m; segmento 29-1, em linha reta com azimute 25°55'17”, distância de 21,17m; fechando, assim, a área com 7.301,98m²; e
+
+II – área 2 - situada às margens da Rodovia Governador Mário Covas, BR-101, km 206+780m - Pista Sul, com linha de divisa partindo do ponto denominado 1 de coordenadas N:7813444,863152 e E:356448,195349, sendo constituída pelos segmentos: segmento 1-2, em linha reta com azimute 194°46'36”, distância de 11,14m; segmento 2-3, em linha reta com azimute 196°49'40”, distância de 26,48m; segmento 3-4, em linha reta com azimute 201°49'0”, distância de 24,72m; segmento 4-5, em linha reta com azimute 205°0'40”, distância de 25,76m; segmento 5-6, em linha reta com azimute 206°56'38”, distância de 30,84m; segmento 6-7, em linha reta com azimute 269°31'36”, distância de 13,58m; segmento 7-8, em linha reta com azimute 41°41'40”, distância de 37,14m; segmento 8-9, em linha reta com azimute 5°54'47”, distância de 50,58m; segmento 9-1, em linha reta com azimute 41°26'17”, distância de 42,66m; fechando, assim, a área com 1.116,04m².
+
+Art. 2º Fica a ECO101 Concessionária de Rodovia S.A. autorizada a promover, com recursos próprios, a desapropriação das áreas de terrenos e benfeitorias de que trata o art. 1º.
+
+Parágrafo único. A expropriante fica autorizada a invocar o caráter de urgência no processo de desapropriação, para fins de imissão na posse, nos termos do [art. 15 do Decreto-Lei nº 3.365, de 21 de junho de 1941](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1941-06-21;3365!art15).
+
+Art. 3º A declaração de utilidade pública não exime a concessionária da prévia obtenção dos licenciamentos e do cumprimento das obrigações junto às entidades ambientais e demais órgãos da administração pública, necessários à efetivação das obras e atividades referidas no art. 2º.
+
+Art. 4º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 24 de julho de 2017; 196º da Independência e 129º da República. 
+
+MICHEL TEMER 
+
+Mauricio Quintella

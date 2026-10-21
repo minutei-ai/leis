@@ -1,0 +1,23 @@
+# Decreto nº 69.337, de 30/01/2025
+
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210566)<br>
+
+# DECRETO N° 69.337, DE 30 DE JANEIRO DE 2025
+
+### Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas
+
+O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
+
+Decreta:
+
+**Artigo 1° -** Fica criada, na Diretoria de Ensino - Região Santo Anastácio, da Secretaria da Educação, no Município de Presidente Epitácio, a Escola Estadual Jardim Real II.
+
+**Artigo 2° -** A Secretaria da Educação adotará as providências necessárias para a instalação da unidade escolar ora criada e designará o pessoal técnico-administrativo mínimo necessário para o seu funcionamento, conforme os critérios estabelecidos pelo [Decreto n° 52.630, de 16 de janeiro de 2008](https://www.al.sp.gov.br/norma/75321).
+
+**Artigo 3° -** Este decreto entra em vigor na data da publicação.
+
+FELÍCIO RAMUTH
+
+Arthur Luis Pinho de Lima
+
+Renato Feder

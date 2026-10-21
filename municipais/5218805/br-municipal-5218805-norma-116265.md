@@ -1,0 +1,297 @@
+# Lei Ordinária nº 7.305, de 2022-12-06
+
+LEI N°. 7.305, DE 6 DE DEZEMBRO DE 2022
+
+Dispõe sobre princípios e diretrizes para a elaboração e implementação das políticas públicas para a primeira infância no Município de Rio Verde - GO e sobre o Plano Municipal para a Primeira Infância e dá outras providências.
+
+**A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
+
+**CAPÍTULO I**
+
+**DISPOSIÇÕES GERAIS**
+
+Art. 1º Esta lei estabelece princípios e diretrizes para a elaboração e implementação das políticas públicas para a primeira infância pelo Município de Rio Verde-GO.
+
+§ 1º As políticas públicas para a primeira infância são instrumentos por meio dos quais o Município assegura o atendimento dos direitos da criança na primeira infância com vistas ao seu desenvolvimento integral, considerando-a como cidadã de direitos.
+
+§ 2º Para os efeitos desta lei, considera-se primeira infância o período que abrange os primeiros seis anos completos ou setenta e dois meses de vida da criança.
+
+§ 3º Dado o caráter processual e a interconexão do ciclo vital, esta lei inclui disposições sobre ações a serem realizadas no período da gestação, no contexto da família e das instituições.
+
+§ 4º As políticas públicas a que se refere esta lei, bem como os planos, programas e serviços de atenção à criança executados pelo Município, serão formulados segundo o princípio da prioridade absoluta estabelecida no art. 227 da Constituição Federal e explicitada no art. 4o da Lei Federal n°. 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e no art. 3o da Lei Federal n°. 13.257, de 8 de março de 2016 (Marco Legal da Primeira Infância).
+
+Art. 2º As políticas públicas e seus desdobramentos práticos em planos, projetos, ações e suas avaliações visarão assegurar a plena vivência da infância enquanto valor em si mesma e, simultaneamente, como etapa de um processo contínuo de crescimento, aprendizagem e desenvolvimento.
+
+Parágrafo único. As políticas e ações referidas no caput deste artigo devem atender inaiiiciau intrínseca relação com aquelas direcionadas às àe peculiaridades dessa faixa etária c etapas posteriores da vida da criança e do adolescente.
+
+**CAPÍTULO II**
+
+**PRINCÍPIOS E DIRETRIZES**
+
+Art. 3º As políticas, os programas, planos, projetos e serviços voltados ao atendimento dos direitos da criança na primeira infância obedecerão aos seguintes princípios:
+
+I - atenção ao interesse superior da criança;
+
+II - desenvolvimento integral, abrangendo todos os aspectos da personalidade, com foco nas interações e no brincar, segundo a visão holística da criança;
+
+III - respeito à individualidade e ritmo próprio de cada criança;
+
+IV - valorização da diversidade das infâncias presentes no Município;
+
+V - inclusão das crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação e outras situações que requererem atenção especializada;
+
+VI - fortalecimento do vínculo e pertencimento familiar e comunitário;
+
+VII - participação da criança na definição das ações que lhe dizem respeito de acordo com o estágio de desenvolvimento e as formas de expressão próprias da idade;
+
+VIII - corresponsabilidade da família, da sociedade e do Estado na atenção integral aos direitos da criança;
+
+IX - investimento público na promoção da justiça social, da equidade e da inclusão sem discriminação da criança com o objetivo de se garantir isonomia ao acesso de bens e serviços que atendam as crianças na primeira infância;
+
+X - valorização e formação adequada e permanente dos profissionais que atuam diretamente com a criança, observado o Plano Municipal da Educação;
+
+XI - incremento da cultura do cuidador por meio da proteção integral e a promoção da criança como cidadã ativa e participante da sociedade.
+
+Art. 4º São diretrizes para a elaboração e implementação das políticas pela primeira infância:
+
+I - abordagem multidisciplinar e intersetorial em todos os níveis, inclusive nos territórios de atuação dos serviços de atendimento da população;
+
+II - participação das famílias e da sociedade por meio de organizações representativas;
+
+III - consideração do conhecimento científico acumulado sobre a vida e o desenvolvimento infantil e da experiência profissional nos diversos campos da atenção à criança;
+
+IV - planejamento com perspectiva de curto, médio e longo prazo para os planos e programas;
+
+V - previsão e destinação de recursos financeiros segundo o princípio da prioridade absoluta na garantia dos direitos da criança e do adolescente;
+
+VI - monitoramento permanente, avaliação periódica e ampla publicidade das ações e dos resultados.
+
+Art. 5º Constituem áreas prioritárias para as políticas públicas de atenção às crianças na primeira infância:
+
+I - a saúde materno-infantil;
+
+II - a segurança alimentar e nutricional, combatendo a desnutrição e obesidade infantil, assim como os demais transtornos alimentares na infância;
+
+III - a educação infantil;
+
+IV - erradicação da pobreza;
+
+V - a convivência familiar e comunitária;
+
+VI - a assistência social à família e à criança;
+
+VII - a cultura da infância, para a infância e com a infância;
+
+VIII - o brincar e o lazer;
+
+IX - a interação no espaço público e o direito ao meio ambiente sustentável;
+
+X - a participação na gestão urbana;
+
+XI - difusão da cultura de paz, educação sem uso de castigos físicos e proteção contra toda forma de violência;
+
+XII - a prevenção de acidentes;
+
+XIII - a proteção contra a publicidade enganosa e abusiva voltada às crianças e a exposição precoce aos meios de comunicação;
+
+XIV - promoção de estratégicas de comunicação que visem à formação da cidadania das crianças.
+
+Art. 6o As políticas públicas voltadas à primeira infância, dentre outras metas, deverão contemplar ações multidisciplinares que visem:
+
+I - no setor de educação:
+
+a) a universalização da educação infantil para as crianças de 4 (quatro) e 5 (cinco) anos;
+
+b) o atendimento na CMEI para crianças de 0 (zero) a 3 (três) anos e 11 (onze) meses segundo a demanda, priorizando as situações de pobreza e extrema pobreza, vulnerabilidade social e riscos ao desenvolvimento;
+
+c) a educação integral, considerando a indissociabilidade entre o cuidar e o educar, tendo as interações e o brincar como eixos ectruturantes;
+
+d) a melhoria permanente da qualidade da oferta, com implementação de uma proposta pedagógica intencionalmente planejada e periodicamente avaliada, com instalações e equipamentos que obedeçam aos padrões de infraestrutura estabelecidos na legislação, com profissionais qualificados e materiais pedagógicos adequados à proposta pedagógica;
+
+e) a ampliação da participação da família no planejamento e nas ações escolares; 
+
+f) a qualidade da alimentação escolar e sua adequação às necessidades de desenvolvimento em cada fase da vida durante a primeira infância;
+
+g) a formação permanente e em serviço dos educadores e do pessoal técnico e auxiliar;
+
+h) a ampliação do acervo de livros infantis, brinquedos e outros materiais de apoio às práticas pedagógicas nas escolas e CMEIS municipais;
+
+i) a ampliação do acesso a tecnologias que promovam a aprendizagem, com abordagens apropriadas para a respectiva faixa etária, do ponto de vista pedagógico;
+
+j) o desenvolvimento de ações voltadas à prevenção da gravidez e das doenças sexualmente transmissíveis na adolescência;
+
+k) a atenção diferenciada para as estudantes grávidas e mães de bebês;
+
+II - no setor de saúde:
+
+a) a orientação, o preparo e o amparo da gestante, bem como a orientação sobre crescimento e desenvolvimento saudável do bebê e da criança pequena;
+
+b) a atenção humanizada à gravidez, ao parto e ao puerpério;
+
+c) a promoção da amamentação no local de trabalho, com base nas diretrizes de proteção da maternidade da Organização Internacional do Trabalho;
+
+d) a implementação dos "Dez Passos para o Sucesso do Aleitamento Materno" nas maternidades, incluindo o fornecimento de leite materno para recém-nascidos doentes e vulneráveis;
+
+e) o aconselhamento qualificado para amamentação nas instalações de saúde;
+
+f) a aproximação entre as unidades de saúde e as comunidades e o incentivo às redes comunitárias que protegem, promovem e apoiam a amamentação;
+
+g) o acesso ao exame de diagnóstico precoce da gravidez, ao pré-natal, com profilaxia de prevenção de doenças e tratamento das doenças diagnosticadas;
+
+h) a prevenção, detecção precoce e tratamento imediato das doenças prevalentes na primeira infância;
+
+i) a ampliação dos exames de rotina da saúde bucal, ocular e auditiva, bem como a orientação a respeito das doenças mais frequentes na infância;
+
+j) a garantia de vacinas para toda a população infantil, conforme as recomendações do Programa Nacional de Imunização;
+
+k) a informatização do sistema de registro e cadastro da carteira de vacinação e unificação dos serviços de saúde, com acesso aos dados por todos os órgãos municipais que promovam o aienctimento da criança na primeira infância e aos familiares, se solicitado;
+
+l) a orientação aos familiares sobre o exercício da parentalidade, aleitamento materno, alimentação complementar saudável, formação do vínculo afetivo, crescimento e desenvolvimento infantil integral, cuidados especiais a crianças com transtorno global de desenvolvimento, prevenção de acidentes e educação sem uso de castigos físicos, nos termos da Lei Federal n°. 8.069, de 1990 e n°. 9.394, de 20 de dezembro de 1996;
+
+m) a disponibilização de protocolos e instrumentos de atendimento familiar que apoiem o desenvolvimento ativo das competências familiares promotoras do desenvolvimento integral;
+
+n) a formação permanente dos profissionais, incluindo o preparo para atuação intersetorial;
+
+III - no setor de assistência social:
+
+a) o apoio à formação, fortalecimento ou restauração do vínculo afetivo entre a criança, a família e a comunidade, com programas específicos para os casos em que a criança esteja em abrigo ou em programa de proteção social;
+
+b) a adoção de medidas sociais preventivas e a ampliação dos programas de atendimento à criança na primeira infância em situações de vulnerabilidade e risco;
+
+c) a implantação, na forma de legislação municipal específica, do Programa Família Acolhedora, nos termos do art. 34 da Lei Federal n°. 8.069, de 1990, e da Resolução n°. 145, de 15 de outubro de 2004, do Conselho Nacional de Assistência Social - CNAS;
+
+d) o apoio à participação das famílias em redes de proteção e cuidado da criança em seus contextos sociofamiliar e comunitário;
+
+e) o estímulo à notificação de toda forma de violência contra a criança e a adoção de medidas educativas, visando ao respeito e ao cuidado integral na primeira infância;
+
+f) a promoção da cultura de paz como forma de redução da violência;
+
+g) a formação permanente dos profissionais, incluindo o preparo para atuação intersetorial;
+
+IV - no setor da cultura e lazer:
+
+a) o respeito à formação cultural da criança relativamente à identidade cultural e regional e à condição socioeconômica, étnico-racial, linguística e religiosa;
+
+b) a participação das crianças em manifestações artísticas e culturais, com ênfase no patrimônio cultural de seus territórios e da cidade;
+
+c) a realização de exposições itinerantes pela cidade de produções artísticas das crianças, bem como de programas de visitas a museus, exposições, feiras culturais;
+
+d) a ampliação dos espaços e programas de lazer e recreação, prioritariamente nas áreas de maior vulnerabilidade social.
+
+Parágrafo único. Além das áreas mencionadas nos incisos I a IV do caput deste artigo, outros setores poderão desenvolver ações concomitantes definidas nesta lei.
+
+Art. 7º Terão prioridade nas políticas, programas, planos, projetos e serviços voltados ao atendimento da criança na primeira infância:
+
+I - as famílias identificadas nas redes de saúde, educação e assistência social e pelos órgãos do Sistema de Garantia dos Direitos da Criança e do Adolescente que:
+
+a) se encontrem em situação de vulnerabilidade e de risco;
+
+b) sofram violações a seus direitos, prejudicando seu papel protetivo de cuidado e educação;
+
+c) tenham crianças com deficiência;
+
+II - as crianças que estejam sofrendo:
+
+a) violação ou relativização dos direitos;
+
+b) violência, castigos físicos e humilhantes, exploração ou em situação degradante;
+
+c) desnutrição ou obesidade infantil;
+
+d) abandono ou omissão que as privem dos estímulos essenciais ao desenvolvimento físico, social, emocional e cognitivo.
+
+**CAPÍTULO III**
+
+**DO COMITÊ GESTOR**
+
+Art. 8º As políticas setoriais voltadas ao atendimento dos direitos da criança de 0 (zero) a 6 (seis) anos serão articuladas com vistas à constituição da Política Municipal Integrada pela Primeira Infância, prevendo-se instância de coordenação multissetorial, na forma de Comitê Gestor Intersetorial, conforme dispuser o regulamento.
+
+**CAPÍTULO IV**
+
+**DO MONITORAMENTO E AVALIAÇÃO**
+
+Art. 9º Compete ao Comitê Gestor Intersetorial referido no art. 8o desta lei articular as políticas e outras iniciativas voltadas ao desenvolvimento das crianças de 0 (zero) até 6 (seis) anos de idade, visando promover a integralidade do atendimento, bem como monitorar e avaliar periodicamente a implementação da Política Municipal Integrada pela Primeira Infância.
+
+Art. 10 Para efeitos de monitoramento e avaliação, fica o Poder Executivo Municipal autorizado a criar e manter instrumento individual de registro unificado de dados relativos ao crescimento e desenvolvimento da criança, bem como dos programas e serviços públicos municipais dos quais seja beneficiária direta ou indireta.
+
+**CAPÍTULO V**
+
+**DO PLANO MUNICIPAL DA PRIMEIRA INFÂNCIA**
+
+Art. 11 As políticas públicas a que se referem o art. 6o desta lei serão objeto do Plano Municipal da Primeira Infância, referenciado e articulado com os Planos Estadual e Nacional pela Primeira Infância, observando-se, na sua elaboração:
+
+I - duração decenal ou superior;
+
+II - abrangência de todos os direitos da criança nessa faixa etária;
+
+III - concepção integral da criança como pessoa, sujeito de direitos e cidadã;
+
+IV - inclusão de todas as crianças, com prioridade absoluta às que se encontram em situação de vulnerabilidade e risco;
+
+V - elaboração conjunta e participativa de todos os setores e órgãos municipais que atuam em áreas que têm competências diretas ou relacionadas à vida e desenvolvimento das crianças;
+
+VI - participação da sociedade, por meio de organizações representativas, das famílias e crianças na sua elaboração;
+
+VII - articulação e complementaridade com as ações da União e do Estado na área da primeira infância;
+
+VIII - monitoramento contínuo do processo, incluindo os elementos que compõem a oferta dos serviços, e avaliação dos resultados a cada 2 (dois) anos.
+
+**CAPÍTULO VI**
+
+**DO APOIO ÀS FAMÍLIAS**
+
+Art. 12 Os programas destinados ao fortalecimento da família no exercício do cuidado e educação dos filhos na primeira infância articularão as ações voltadas à criança no contexto familiar com os programas sociais e serviços de atendimento aos direitos das crianças no território.
+
+Art. 13 As políticas e programas governamentais de apoio às famílias, incluindo visitas domiciliares e programas de promoção da maternidade e da paternidade corresponsáveis, buscarão a articulação das áreas de saúde, nutrição, educação, assistência social, cultura, trabalho, habitação, meio ambiente e direitos humanos, entre outras, com vistas ao desenvolvimento integral da criança.
+
+Art. 14 A oferta de programas e ações de visita domiciliar que estimulem o desenvolvimento integral na primeira infância será considerada estratégia de atuação do Poder Executivo e deverão contar com profissionais qualificados, apoiados por medidas que assegurem sua permanência e formação continuada.
+
+**CAPÍTULO VII**
+
+**DA PARTICIPAÇÃO SOCIAL**
+
+Art. 15 A sociedade participará da proteção e da promoção da criança na primeira infancia, solidariamente com a família e o noder pnRlíco, Hontro outras formas:
+
+I - formulando políticas e controlando ações, por meio de organizações representativas;
+
+II - integrando conselhos de áreas relacionadas à primeira infância, com funções de acompanhamento, controle e avaliação;
+
+III - executando ações diretamente ou em parceria com o poder público;
+
+IV - desenvolvendo programas, projetos e ações compreendidos no conceito de responsabilidade social e de investimento social privado;
+
+V - criando, apoiando e participando das redes de proteção e cuidado à criança nas comunidades;
+
+VI - promovendo ou participando de campanhas e ações que visem aprofundar a consciência social sobre o significado da primeira infância no desenvolvimento do ser humano.
+
+**CAPÍTULO VIII**
+
+**DAS PARCERIAS**
+
+Art. 16 Para fins de execução das políticas públicas de primeira infância, o Poder Executivo poderá firmar convênios com órgãos da Administração Direta ou Indireta, com outras esferas de governo, bem como celebrar parcerias com o setor privado, na forma da lei.
+
+**CAPÍTULO IX**
+
+**DISPOSIÇÕES FINAIS**
+
+Art. 17 Fica instituída a Semana Municipal da Primeira Infância que ocorrerá na seguinte data: de 21 a 25 de agosto de cada ano.
+
+Art. 18 Cada Secretaria Municipal responsável pelo atendimento da criança na primeira infância, no âmbito de sua competência, elaborará proposta orçamentária para financiamento dos programas, serviços e ações.
+
+§1º O município divulgará anualmente, a soma dos recursos aplicados no conjunto de programas e serviços voltados à primeira infância e o percentual estimado que os valores representam em relação ao respectivo orçamento realizado.
+
+Art. 19 O Poder Executivo regulamentará a presente lei no prazo de 180 (cento e oitenta) dias da sua publicação.
+
+Art. 20 As despesas decorrentes da execução do disposto nesta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+Art. 21 Esta lei entrará em vigor na data de sua publicação.
+
+Gabinete do Prefeito de Rio Verde - GO, aos 06 dias do mês de dezembro de 2022.
+
+PAULO FARIA DO VALE
+
+Prefeito de Rio Verde
+
+VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral
