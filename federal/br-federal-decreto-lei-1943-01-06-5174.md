@@ -1,0 +1,19 @@
+###DEL-005174-0-000-06-01-1943@@@
+
+DECRETO‑LEI N. 5.174 – DE 6 DE JANEIRO DE 1943
+
+Cria a 14ª Companhia de Engenhos da 14ª Divisão de Infantaria
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição,
+
+decreta:
+
+Art. 1º E' criada, para instalação a partir de 15 de janeiro de 1943, com sede em Natal – Estado do Rio Grande do Norte, a 14ª Companhia de Engenhos, pertencente, organicamente, à Infantaria Divisionária da 14ª Divisão de Infantaria.
+
+Art. 2º Revogam‑se as disposições em contrário.
+
+Rio de Janeiro, em 6 de janeiro de 1943, 122º da Independência o 55º da República.
+
+GETULIO VARGAS.
+
+Eurico G. Dutra.
