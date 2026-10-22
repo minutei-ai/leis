@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.864, DE 15 DE SETEMBRO DE 2025
 
-### Regulamenta a evolução funcional da carreira de médico de que trata a Lei Complementar n° 1.193, de 2 de janeiro de 2013, altera o Decreto n° 59.156, de 6 de maio de 2013, que regulamenta o processo de avaliação para fins de pagamentos do Prêmio de Produtividade Médica - PPM e dá providências correlatas.
+### _Regulamenta a evolução funcional da carreira de médico de que trata a Lei Complementar n° 1.193, de 2 de janeiro de 2013, altera o Decreto n° 59.156, de 6 de maio de 2013, que regulamenta o processo de avaliação para fins de pagamentos do Prêmio de Produtividade Médica - PPM e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

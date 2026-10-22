@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 28/2025, dos Deputados Marcos Damasio - PL, Tomé Abduch - REPUBLICANOS e Major Mecca - PL)
 
-### Denomina "Dr. Aluízio Alberto Monteiro d'Avila" o Dispositivo de Acesso e Retorno com Viaduto SPD 281/258, localizado no km 280,860 da Rodovia Francisco Alves Negrão - SP 258, em Itapeva.
+### _Denomina "Dr. Aluízio Alberto Monteiro d'Avila" o Dispositivo de Acesso e Retorno com Viaduto SPD 281/258, localizado no km 280,860 da Rodovia Francisco Alves Negrão - SP 258, em Itapeva._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

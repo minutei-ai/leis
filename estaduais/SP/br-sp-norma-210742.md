@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 600/2024, do Deputado Rômulo Fernandes - PT)
 
-### Declara de utilidade pública o Instituto de Incentivo à Vida - Casa de Acolhida Isabel Soler, com sede em Mauá.
+### _Declara de utilidade pública o Instituto de Incentivo à Vida - Casa de Acolhida Isabel Soler, com sede em Mauá._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

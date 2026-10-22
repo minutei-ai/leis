@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.049, DE 14 DE NOVEMBRO DE 2024
 
-### Autoriza a abertura de licitação para a concessão patrocinada da prestação do serviço público de transporte de passageiros sobre trilhos das Linhas 11-Coral, 12-Safira e 13-Jade da Rede de Trens Metropolitanos do Estado de São Paulo, incluindo a prestação do serviço "Expresso Aeroporto", conforme o projeto denominado "Lote Alto Tietê", aprova o respectivo regulamento e dá providências correlatas.
+### _Autoriza a abertura de licitação para a concessão patrocinada da prestação do serviço público de transporte de passageiros sobre trilhos das Linhas 11-Coral, 12-Safira e 13-Jade da Rede de Trens Metropolitanos do Estado de São Paulo, incluindo a prestação do serviço "Expresso Aeroporto", conforme o projeto denominado "Lote Alto Tietê", aprova o respectivo regulamento e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

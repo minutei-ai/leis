@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.417, DE 26 DE DEZEMBRO DE 2024
 
-### Altera a Lei Complementar n° 1.402, de 19 de junho de 2024.
+### _Altera a Lei Complementar n° 1.402, de 19 de junho de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

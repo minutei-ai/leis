@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1337/2019, do Deputado Roberto Engler - PSB)
 
-### Denomina "Professora Nelita Sançana" o dispositivo de acesso e retorno com duplo viaduto - SPD 355/334, localizado no km 355,360 da Rodovia Cândido Portinari - SP 334, em Batatais
+### _Denomina "Professora Nelita Sançana" o dispositivo de acesso e retorno com duplo viaduto - SPD 355/334, localizado no km 355,360 da Rodovia Cândido Portinari - SP 334, em Batatais_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

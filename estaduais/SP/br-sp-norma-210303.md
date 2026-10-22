@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.118, DE 09 DE DEZEMBRO DE 2024
 
-### Institui o regulamento de Segurança Contra Incêndios das edificações e áreas de risco no Estado de São Paulo e dá providências correlatas.
+### _Institui o regulamento de Segurança Contra Incêndios das edificações e áreas de risco no Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
@@ -839,7 +839,7 @@ MÉTODO DE CÁLCULO DE MULTAS GERADAS POR INFRAÇÕES À LEGISLAÇÃO DE SEGURAN
 
 O valor da multa deve ser calculado por meio da relação entre o número de infrações, que estão agrupadas no Anexo B, a classificação do risco previsto na Tabela 1 e a classificação da área total da edificação ou área de risco, prevista na Tabela 2, deste Anexo. Essa relação é expressa através da fórmula:
 
-Multa (R$) = \[(2,5 x I) +(3,5 x II) +(5 x III)+(7 x IV)\] x R x K x UFESP
+_Multa (R$) = \[(2,5 x I) +(3,5 x II) +(5 x III)+(7 x IV)\] x R x K x UFESP_
 
 Onde:
 

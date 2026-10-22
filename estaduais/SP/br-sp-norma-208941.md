@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.192, DE 14 DE DEZEMBRO DE 2023
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de São Paulo.
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

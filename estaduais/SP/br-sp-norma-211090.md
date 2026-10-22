@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.645, DE 23 DE JUNHO DE 2025
 
-### Regulamenta a Lei n.° 17.295, de 22 de outubro de 2020, e declara o javali-europeu (Sus scrofa) em todas as suas formas, linhagens, raças e diferentes graus de cruzamento, e seus híbridos, como nocivo ao meio ambiente, à saúde pública, à pecuária e à agricultura, além de praga cujo combate e erradicação é considerado de peculiar interesse do Estado de São Paulo com base na Lei n.° 10.478, de 22 de dezembro de 1999, e na Lei n.° 10.670, de 24 de outubro de 2000.
+### _Regulamenta a Lei n.° 17.295, de 22 de outubro de 2020, e declara o javali-europeu (Sus scrofa) em todas as suas formas, linhagens, raças e diferentes graus de cruzamento, e seus híbridos, como nocivo ao meio ambiente, à saúde pública, à pecuária e à agricultura, além de praga cujo combate e erradicação é considerado de peculiar interesse do Estado de São Paulo com base na Lei n.° 10.478, de 22 de dezembro de 1999, e na Lei n.° 10.670, de 24 de outubro de 2000._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

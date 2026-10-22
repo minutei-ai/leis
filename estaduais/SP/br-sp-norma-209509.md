@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 11, de 2024)
 
-### Altera a Resolução n° 897, de 20 de março de 2014 e a Resolução n° 776, de 14 de outubro de 1996 e autoriza o desconto da contribuição assistencial sindical em folha de pagamento.
+### _Altera a Resolução n° 897, de 20 de março de 2014 e a Resolução n° 776, de 14 de outubro de 1996 e autoriza o desconto da contribuição assistencial sindical em folha de pagamento._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

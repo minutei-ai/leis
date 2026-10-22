@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.187, DE 11 DE DEZEMBRO DE 2023
 
-### Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando ao levantamento do Balanço Geral do Estado do exercício de 2023, e dá providências correlatas.
+### _Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando ao levantamento do Balanço Geral do Estado do exercício de 2023, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, 
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.630, DE 19 DE JUNHO DE 2024
 
-### Autoriza a outorga de uso, ao Município de Rio Claro, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Rio Claro, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,    
 

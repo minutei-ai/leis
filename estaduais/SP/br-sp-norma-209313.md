@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.448, DE 17 DE ABRIL DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Universidade de São Paulo, imóvel necessário à ampliação das atividades da Faculdade de Direito da Universidade de São Paulo, no Município de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Universidade de São Paulo, imóvel necessário à ampliação das atividades da Faculdade de Direito da Universidade de São Paulo, no Município de São Paulo, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,  
 

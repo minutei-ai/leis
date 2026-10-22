@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1452/2023, do Deputado Gerson Pessoa - PODE)
 
-### Denomina "Luiz Valentim Marrafon" o dispositivo de entroncamento com viaduto - SPD 85/147, localizado no km 85,950 da Rodovia Engenheiro João Tosello - SP 147, em Engenheiro Coelho.
+### _Denomina "Luiz Valentim Marrafon" o dispositivo de entroncamento com viaduto - SPD 85/147, localizado no km 85,950 da Rodovia Engenheiro João Tosello - SP 147, em Engenheiro Coelho._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

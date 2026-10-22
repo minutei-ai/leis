@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 361, de 2022, do Deputado Adalberto Freitas – PSDB)
 
-### Institui o "Dia do Paintball"
+### _Institui o "Dia do Paintball"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

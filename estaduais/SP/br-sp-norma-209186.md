@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.385, DE 12 DE MARÇO DE 2024
 
-### Altera o Decreto n° 68.306 de 16 de janeiro de 2024, que dispõe sobre o uso de assinaturas eletrônicas na Administração Pública estadual direta, autárquica e fundacional, regulamenta o artigo 5° da Lei federal n° 14.063, de 23 de setembro de 2020, e disciplina a comprovação de vida e as ações de recadastramento por meio digital para os fins que especifica.
+### _Altera o Decreto n° 68.306 de 16 de janeiro de 2024, que dispõe sobre o uso de assinaturas eletrônicas na Administração Pública estadual direta, autárquica e fundacional, regulamenta o artigo 5° da Lei federal n° 14.063, de 23 de setembro de 2020, e disciplina a comprovação de vida e as ações de recadastramento por meio digital para os fins que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

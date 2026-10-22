@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 24, de 2024)
 
-### Altera dispositivos das Resoluções n° 783, de 1° de julho de 1997, e n° 822, de 14 de dezembro de 2001.
+### _Altera dispositivos das Resoluções n° 783, de 1° de julho de 1997, e n° 822, de 14 de dezembro de 2001._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 873/2024, do Deputado Thiago Auricchio - PL)
 
-### Denomina "Vereador Oswaldo Moreira Pagani" o Dispositivo de Acesso e Retorno com Viaduto SPD 248/300, localizado no km 247,720 da Via Rondon - SP 300 em Botucatu.
+### _Denomina "Vereador Oswaldo Moreira Pagani" o Dispositivo de Acesso e Retorno com Viaduto SPD 248/300, localizado no km 247,720 da Via Rondon - SP 300 em Botucatu._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

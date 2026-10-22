@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.541, DE 22 DE MAIO DE 2024
 
-### Coloca veículos da Administração direta e indireta do Estado à disposição do Tribunal Regional Eleitoral de São Paulo, e dá providências correlatas.
+### _Coloca veículos da Administração direta e indireta do Estado à disposição do Tribunal Regional Eleitoral de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

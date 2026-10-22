@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.905, DE 28 DE AGOSTO DE 2023
 
-### Altera o Decreto n° 66.374, de 23 de dezembro de 2021, que dispõe sobre o programa de auxílio financeiro às entidades hospitalares sem fins lucrativos - Programa Mais Santas Casas.
+### _Altera o Decreto n° 66.374, de 23 de dezembro de 2021, que dispõe sobre o programa de auxílio financeiro às entidades hospitalares sem fins lucrativos - Programa Mais Santas Casas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso das suas atribuições legais,
 

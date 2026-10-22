@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1162/2023, do Deputado Delegado Olim - PP)
 
-### Declara de utilidade pública o Instituto Boas Novas, com sede na Capital
+### _Declara de utilidade pública o Instituto Boas Novas, com sede na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

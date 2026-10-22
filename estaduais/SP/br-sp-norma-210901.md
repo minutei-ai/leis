@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.509, DE 30 DE ABRIL DE 2025
 
-### Institui, junto à Secretaria de Agricultura e Abastecimento, o Programa AgroClimaSP e dá providências correlatas.
+### _Institui, junto à Secretaria de Agricultura e Abastecimento, o Programa AgroClimaSP e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

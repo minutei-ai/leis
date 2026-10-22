@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.778, DE 19 DE AGOSTO DE 2024
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Ambulatório Médico de Especialidades Digital do Estado de São Paulo - AME Digital SP, e dá providências correlatas.
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Ambulatório Médico de Especialidades Digital do Estado de São Paulo - AME Digital SP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 508/2023, da Deputada Leticia Aguiar – PP)
 
-### Inclui no Calendário Oficial do Estado as Olimpíadas das Guardas Civis Municipais do Estado de São Paulo
+### _Inclui no Calendário Oficial do Estado as Olimpíadas das Guardas Civis Municipais do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

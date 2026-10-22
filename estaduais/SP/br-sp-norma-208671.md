@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 233/2018, do Deputado Campos Machado - PTB)
 
-### Altera a Lei n° 12.233, de 16 de janeiro de 2006, que define a Área de Proteção e Recuperação dos Mananciais da Bacia Hidrográfica do Guarapiranga e dá outras providências
+### _Altera a Lei n° 12.233, de 16 de janeiro de 2006, que define a Área de Proteção e Recuperação dos Mananciais da Bacia Hidrográfica do Guarapiranga e dá outras providências_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.369, DE 05 DE MARÇO DE 2024
 
-### Autoriza a outorga de uso, em favor da AEQUOTAM - Associação de Assistência e Equoterapia de Americana, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, em favor da AEQUOTAM - Associação de Assistência e Equoterapia de Americana, de parte do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.749, DE 28 DE JULHO DE 2025
 
-### Dispõe sobre a outorga da "Medalha Luiz Gonzaga".
+### _Dispõe sobre a outorga da "Medalha Luiz Gonzaga"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, à vista da manifestação do Conselho Estadual da Ordem do Ipiranga e diante das indicações feitas pelo Conselho Estadual de Participação e Desenvolvimento da Comunidade Nordestina,
 

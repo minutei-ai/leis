@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1279/2025, do Deputado Gilmaci Santos – REPUBLICANOS)
 
-### Declara de utilidade pública a Liga de Karate de Osasco, com sede naquele Município.
+### _Declara de utilidade pública a Liga de Karate de Osasco, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

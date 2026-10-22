@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 571/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação de Engenheiros e Arquitetos de Santa Bárbara d´Oeste - AEASBO, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Engenheiros e Arquitetos de Santa Bárbara d´Oeste - AEASBO, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

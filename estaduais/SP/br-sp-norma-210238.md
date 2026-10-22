@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.050, DE 14 DE NOVEMBRO DE 2024
 
-### Autoriza a outorga de uso, à Fundação Professor Dr. Manoel Pedro Pimentel – FUNAP, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, à Fundação Professor Dr. Manoel Pedro Pimentel – FUNAP, de parte do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 103/2016, do Deputado Carlão Pignatari - PSDB)
 
-### Dá a denominação de "José Américo Correa" ao dispositivo de acesso e retorno com viaduto SPD 505/320 localizado no Km 505+629 da Rodovia Euclides da Cunha - SP 320, em Cosmorama
+### _Dá a denominação de "José Américo Correa" ao dispositivo de acesso e retorno com viaduto SPD 505/320 localizado no Km 505+629 da Rodovia Euclides da Cunha - SP 320, em Cosmorama_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 812/2024, do Deputado Bruno Zambelli - PL)
 
-### Institui a Política Estadual de Promoção da Vida e Prevenção do Suicídio, e dá outras providências.
+### _Institui a Política Estadual de Promoção da Vida e Prevenção do Suicídio, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

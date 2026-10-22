@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.664, DE 29 DE JUNHO DE 2025
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Agricultura e Abastecimento.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Agricultura e Abastecimento._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.211, DE 15 DE DEZEMBRO DE 2023
 
-### Altera o Decreto n° 59.103, de 18 de abril de 2013, que dispõe sobre o Regulamento do Fundo Social de São Paulo - FUSSP
+### _Altera o Decreto n° 59.103, de 18 de abril de 2013, que dispõe sobre o Regulamento do Fundo Social de São Paulo - FUSSP_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

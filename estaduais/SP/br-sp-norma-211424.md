@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 94/2025, do Deputado Rafael Saraiva - UNIÃO)
 
-### Declara de utilidade pública a Associação Protetora dos Animais SalvaCão Osvaldo Cruz, com sede naquele Município.
+### _Declara de utilidade pública a Associação Protetora dos Animais SalvaCão Osvaldo Cruz, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

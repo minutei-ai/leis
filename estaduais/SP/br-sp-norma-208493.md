@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 433/2023, do Deputado Atila Jacomussi - SD)
 
-### ~~Obriga bares, restaurantes, lanchonetes, padarias e estabelecimentos similares a servirem de água potável filtrada à vontade aos clientes~~
+### _~~Obriga bares, restaurantes, lanchonetes, padarias e estabelecimentos similares a servirem de água potável filtrada à vontade aos clientes~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 

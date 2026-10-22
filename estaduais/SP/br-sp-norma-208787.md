@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.072, DE 09 DE NOVEMBRO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de São Vicente, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de São Vicente, parte do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

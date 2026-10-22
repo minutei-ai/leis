@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.326, DE 06 DE FEVEREIRO DE 2024
 
-### Institui, no Gabinete do Secretário da Saúde, o Centro de Operações de Emergências - COE contra as arboviroses urbanas.
+### _Institui, no Gabinete do Secretário da Saúde, o Centro de Operações de Emergências - COE contra as arboviroses urbanas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

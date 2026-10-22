@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.242, DE 22 DE DEZEMBRO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

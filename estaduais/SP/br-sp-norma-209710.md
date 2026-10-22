@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 685/2023, do Deputado Vinícius Camarinha - PSDB)
 
-### Dá a denominação de "Oswaldo Haddad" ao dispositivo de acesso e retorno com viaduto SPD 384/333, localizado no km 384+700m da Rodovia Rachid Rayes - SP 333, no Município de Echaporã/SP.
+### _Dá a denominação de "Oswaldo Haddad" ao dispositivo de acesso e retorno com viaduto SPD 384/333, localizado no km 384+700m da Rodovia Rachid Rayes - SP 333, no Município de Echaporã/SP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

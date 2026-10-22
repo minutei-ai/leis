@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.246, DE 22 DE DEZEMBRO DE 2023
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 147/23, de 29 de setembro de 2023,
 

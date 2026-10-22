@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 454/2022, da Deputada Maria Lúcia Amary - PSDB)
 
-### Institui no Estado o "Mês Julho Dourado", dedicado a ações de saúde animal e prevenção de zoonoses
+### _Institui no Estado o "Mês Julho Dourado", dedicado a ações de saúde animal e prevenção de zoonoses_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

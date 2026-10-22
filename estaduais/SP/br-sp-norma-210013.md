@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei Complementar n° 1.444, de 03/07/2026)_
 
-### Dispõe sobre a criação de cargos de Juiz de Direito Substituto em Segundo Grau e cria a estrutura de recursos humanos de seus Gabinetes.
+### _Dispõe sobre a criação de cargos de Juiz de Direito Substituto em Segundo Grau e cria a estrutura de recursos humanos de seus Gabinetes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

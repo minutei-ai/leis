@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.722, DE 26 DE MAIO DE 2023
 
-### Autoriza a outorga de uso, ao Consórcio Intermunicipal dos Municípios da Bacia do Juqueri - CIMBAJU, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Consórcio Intermunicipal dos Municípios da Bacia do Juqueri - CIMBAJU, de parte do imóvel que especifica, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

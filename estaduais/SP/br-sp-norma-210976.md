@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.562, DE 27 DE MAIO DE 2025
 
-### Dispõe sobre a criação e alteração em unidades da Rede de Reabilitação Lucy Montoro e dá providências correlatas.
+### _Dispõe sobre a criação e alteração em unidades da Rede de Reabilitação Lucy Montoro e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

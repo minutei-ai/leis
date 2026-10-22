@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1407/2023, da Deputada Ana Perugini - PT)
 
-### Institui a Semana Estadual de Conscientização sobre as Doenças Negligenciadas.
+### _Institui a Semana Estadual de Conscientização sobre as Doenças Negligenciadas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

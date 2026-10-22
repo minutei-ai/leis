@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.970, DE 19 DE SETEMBRO DE 2023
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da [Lei n° 6.374, de 1° de março de 1989](https://www.al.sp.gov.br/norma/25030) e no Convênio ICMS 101/23, de 4 de agosto de 2023,
 

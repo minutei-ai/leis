@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.445, DE 26 DE MARÇO DE 2025
 
-### Dispõe sobre a outorga da "Medalha Ruth Cardoso".
+### _Dispõe sobre a outorga da "Medalha Ruth Cardoso"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, à vista da proposta formulada pelo Conselho Estadual da Condição Feminina e da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

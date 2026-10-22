@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1385/2023, do Deputado Vitão do Cachorrão - REPUBLICANOS)
 
-### Denomina "Antônio Ermírio de Moraes" o viaduto localizado no Km 74 + 200m da Rodovia Raposo Tavares - SP 270, no município de Alumínio.
+### _Denomina "Antônio Ermírio de Moraes" o viaduto localizado no Km 74 + 200m da Rodovia Raposo Tavares - SP 270, no município de Alumínio._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

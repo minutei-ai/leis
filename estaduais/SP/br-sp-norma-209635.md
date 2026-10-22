@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.650, DE 27 DE JUNHO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, e por prazo determinado, do Município de Osasco, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, e por prazo determinado, do Município de Osasco, parte do imóvel que especifica._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

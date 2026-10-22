@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.022, DE 11 DE OUTUBRO DE 2023
 
-### Revoga os dispositivos que especifica do Decreto n° 47.297, de 6 de novembro de 2002, e do Decreto n° 56.565, de 22 de dezembro de 2010.
+### _Revoga os dispositivos que especifica do Decreto n° 47.297, de 6 de novembro de 2002, e do Decreto n° 56.565, de 22 de dezembro de 2010._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.701, DE 15 DE JULHO DE 2024
 
-### Institui Grupo de Trabalho Intersecretarial com o objetivo de estabelecer as diretrizes gerais e coordenar as ações necessárias à implantação do Centro Administrativo do Estado de São Paulo, na região central do Município de São Paulo.
+### _Institui Grupo de Trabalho Intersecretarial com o objetivo de estabelecer as diretrizes gerais e coordenar as ações necessárias à implantação do Centro Administrativo do Estado de São Paulo, na região central do Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

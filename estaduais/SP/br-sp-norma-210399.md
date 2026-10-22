@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 70.926, de 14/10/2026)_
 
-### Institui o "Fundo Estadual de Proteção e Defesa Civil - FUNPDeC" e dá providências correlatas.
+### _Institui o "Fundo Estadual de Proteção e Defesa Civil - FUNPDeC" e dá providências correlatas._
 
 _\- Vide [Decreto n° 70.926, de 14/10/2026](https://www.al.sp.gov.br/norma/213031)._
 

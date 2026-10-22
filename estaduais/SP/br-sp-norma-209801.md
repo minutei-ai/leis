@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1.636/2023, do Deputado Jorge Caruso - MDB)
 
-### Acrescenta o § 4° ao artigo 127 da Lei n.° 17.832, de 01 de novembro 2023, a fim de dispor a respeito do cadastro para bloqueio do recebimento de ligações de telemarketing.
+### _Acrescenta o § 4° ao artigo 127 da Lei n.° 17.832, de 01 de novembro 2023, a fim de dispor a respeito do cadastro para bloqueio do recebimento de ligações de telemarketing._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

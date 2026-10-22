@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 56/2025, dos Deputados Dr. Eduardo Nóbrega - PODE e Ricardo França - PODE)
 
-### Autoriza o sepultamento de cães e gatos junto a seus tutores.
+### _Autoriza o sepultamento de cães e gatos junto a seus tutores._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

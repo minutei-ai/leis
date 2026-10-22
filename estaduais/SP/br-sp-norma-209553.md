@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 13, de 2024)
 
-### Acrescenta dispositivos ao artigo 11 da Resolução n° 776, de 14 de outubro de 1996, ao artigo 2° da Resolução n° 925, de 2 de fevereiro de 2021, e dá outras providências.
+### _Acrescenta dispositivos ao artigo 11 da Resolução n° 776, de 14 de outubro de 1996, ao artigo 2° da Resolução n° 925, de 2 de fevereiro de 2021, e dá outras providências._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

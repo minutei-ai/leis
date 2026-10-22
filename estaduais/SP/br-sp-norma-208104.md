@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.710, DE 16 DE MAIO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área necessária à implantação do Empreendimento Rodoviário "Nova Tamoios - Contornos", no Município de Caraguatatuba, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área necessária à implantação do Empreendimento Rodoviário "Nova Tamoios - Contornos", no Município de Caraguatatuba, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

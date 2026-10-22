@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 999/2017, do Deputado Campos Machado - PTB)
 
-### Institui o Dia Estadual do Desmontador de Veículos e Revendedores de Autopeças.
+### _Institui o Dia Estadual do Desmontador de Veículos e Revendedores de Autopeças._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

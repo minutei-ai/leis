@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.901, DE 23 DE SETEMBRO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, e por prazo indeterminado, do Departamento de Estradas de Rodagem - DER, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, e por prazo indeterminado, do Departamento de Estradas de Rodagem - DER, parte do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

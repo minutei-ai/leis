@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 430/2022, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Declara o Município de Natividade da Serra "Capital Estadual do Cambuci".
+### _Declara o Município de Natividade da Serra "Capital Estadual do Cambuci"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

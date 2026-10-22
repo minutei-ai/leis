@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.315, DE 26 DE JANEIRO DE 2024
 
-### Autoriza a Fazenda do Estado a permitir seu uso, a título precário, gratuito e por prazo indeterminado, em favor do Tribunal Regional Eleitoral de São Paulo, do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a permitir seu uso, a título precário, gratuito e por prazo indeterminado, em favor do Tribunal Regional Eleitoral de São Paulo, do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.559, DE 18 DE FEVEREIRO DE 2025
 
-### Referenda a nomeação de membro para integrar o Conselho Diretor da Agência de Águas do Estado de São Paulo - SP-ÁGUAS.
+### _Referenda a nomeação de membro para integrar o Conselho Diretor da Agência de Águas do Estado de São Paulo - SP-ÁGUAS._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 

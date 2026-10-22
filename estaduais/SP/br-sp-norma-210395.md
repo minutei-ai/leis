@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.183, DE 18 DE DEZEMBRO DE 2024
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Controladoria Geral do Estado.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Controladoria Geral do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

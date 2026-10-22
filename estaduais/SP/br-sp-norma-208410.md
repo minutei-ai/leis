@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.883, DE 15 DE AGOSTO DE 2023
 
-### Altera o § 3° do artigo 7° do Decreto n° 67.683, de 3 de maio de 2023, que institui o Plano Estadual de Promoção de Integridade e dá providências correlatas.
+### _Altera o § 3° do artigo 7° do Decreto n° 67.683, de 3 de maio de 2023, que institui o Plano Estadual de Promoção de Integridade e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

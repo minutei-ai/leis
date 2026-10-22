@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.979, DE 25 DE SETEMBRO DE 2023
 
-### Regulamenta dispositivos da Lei federal n° 13.874, de 20 de setembro de 2019 (Declaração de Direitos de Liberdade Econômica), da Lei n°17.530, de 11 de abril de 2022 (Código de Defesa do Empreendedor) e da Lei n° 17.761, de 25 de setembro de 2023, que institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo, para dispor sobre os critérios e os procedimentos para a classificação de risco de atividades econômicas, regras para aprovação tácita e procedimento aplicável à constituição de ambiente regulatório experimental no âmbito do Estado de São Paulo.
+### _Regulamenta dispositivos da Lei federal n° 13.874, de 20 de setembro de 2019 (Declaração de Direitos de Liberdade Econômica), da Lei n°17.530, de 11 de abril de 2022 (Código de Defesa do Empreendedor) e da Lei n° 17.761, de 25 de setembro de 2023, que institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo, para dispor sobre os critérios e os procedimentos para a classificação de risco de atividades econômicas, regras para aprovação tácita e procedimento aplicável à constituição de ambiente regulatório experimental no âmbito do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

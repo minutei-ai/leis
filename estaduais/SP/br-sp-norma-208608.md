@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 373/2019, do Deputado Jorge Wilson Xerife do Consumidor - PRB)
 
-### Dispõe sobre a vedação de cadastro de consumidores que proponham ação judicial em face de fornecedores de produtos e serviços
+### _Dispõe sobre a vedação de cadastro de consumidores que proponham ação judicial em face de fornecedores de produtos e serviços_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

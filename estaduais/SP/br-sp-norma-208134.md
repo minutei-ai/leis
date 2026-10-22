@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.719, DE 26 DE MAIO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Mogi Mirim, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Mogi Mirim, o imóvel que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

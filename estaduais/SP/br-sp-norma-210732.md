@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 407/2024, do Deputado Valdomiro Lopes - PSB)
 
-### Declara de utilidade pública a Associação Alma Autista, com sede em Bady Bassitt.
+### _Declara de utilidade pública a Associação Alma Autista, com sede em Bady Bassitt._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

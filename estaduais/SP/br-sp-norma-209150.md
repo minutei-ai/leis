@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.360, DE 01 DE MARÇO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

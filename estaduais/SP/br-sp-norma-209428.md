@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1514/2023, dos Deputados Oseias de Madureira - PSD e Bruno Zambelli - PL)
 
-### Institui o "Dia Estadual contra o Fascismo e o Antissemitismo".
+### _Institui o "Dia Estadual contra o Fascismo e o Antissemitismo"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

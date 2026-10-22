@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.819, DE 26 DE AGOSTO DE 2025
 
-### Altera a denominação da unidade da Secretaria de Agricultura e Abastecimento que especifica e dá providências correlatas.
+### _Altera a denominação da unidade da Secretaria de Agricultura e Abastecimento que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

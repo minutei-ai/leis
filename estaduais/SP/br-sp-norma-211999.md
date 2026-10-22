@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 344/2024, da Deputada Dani Alonso - PL)
 
-### Institui o "Dia das Mulheres na Construção Civil".
+### _Institui o "Dia das Mulheres na Construção Civil"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

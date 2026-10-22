@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.942, DE 03 DE OUTUBRO DE 2024
 
-### Cria as Áreas de Proteção Ambiental Cuesta Corumbataí, Cuesta Paranapanema e Cuesta Guarani e dá providências correlatas.
+### _Cria as Áreas de Proteção Ambiental Cuesta Corumbataí, Cuesta Paranapanema e Cuesta Guarani e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

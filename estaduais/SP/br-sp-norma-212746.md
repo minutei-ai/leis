@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 891/2024, do Deputado Oseias de Madureira – PSD)
 
-### Denomina "Rubens Furlan Júnior" o Hospital Regional de Barueri, naquele Município.
+### _Denomina "Rubens Furlan Júnior" o Hospital Regional de Barueri, naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

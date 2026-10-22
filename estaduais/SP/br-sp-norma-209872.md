@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 765/2023, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Sr. Jenaro José Amancio dos Santos" a Casa da Agricultura de Inúbia Paulista.
+### _Denomina "Sr. Jenaro José Amancio dos Santos" a Casa da Agricultura de Inúbia Paulista._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

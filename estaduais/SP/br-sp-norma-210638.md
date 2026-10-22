@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.363, DE 19 DE FEVEREIRO DE 2025
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à requalificação de área urbana, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à requalificação de área urbana, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

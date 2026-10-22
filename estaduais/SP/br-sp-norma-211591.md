@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.921, DE 01 DE OUTUBRO DE 2025
 
-### Integra servidores que especifica a Quadro Especial vinculado à Secretaria dos Transportes Metropolitanos e dá providências correlatas.
+### _Integra servidores que especifica a Quadro Especial vinculado à Secretaria dos Transportes Metropolitanos e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

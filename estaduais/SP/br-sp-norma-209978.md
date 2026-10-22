@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 676/2023, do Deputado Marcio Nakashima - PDT)
 
-### Inclui no Calendário Turístico do Estado de São Paulo o Festival de Dança de Campos do Jordão - "FESTCAMPOS".
+### _Inclui no Calendário Turístico do Estado de São Paulo o Festival de Dança de Campos do Jordão - "FESTCAMPOS"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

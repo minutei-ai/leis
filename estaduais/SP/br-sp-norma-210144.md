@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.997, DE 21 DE OUTUBRO DE 2024
 
-### Altera o Decreto n° 53.766, de 5 de dezembro de 2008, que institui a Agência Paulista de Promoção de Investimentos e Competitividade - INVESTE SÃO PAULO e regulamenta dispositivos da Lei n° 13.179, de 19 de agosto de 2008, substitui o Anexo do Decreto n° 53.961, de 21 de janeiro de 2009, que aprova o Estatuto Social da INVESTE SÃO PAULO, e dá providências correlatas.
+### _Altera o Decreto n° 53.766, de 5 de dezembro de 2008, que institui a Agência Paulista de Promoção de Investimentos e Competitividade - INVESTE SÃO PAULO e regulamenta dispositivos da Lei n° 13.179, de 19 de agosto de 2008, substitui o Anexo do Decreto n° 53.961, de 21 de janeiro de 2009, que aprova o Estatuto Social da INVESTE SÃO PAULO, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

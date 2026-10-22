@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.939, DE 03 DE OUTUBRO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Rio Grande da Serra, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Rio Grande da Serra, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

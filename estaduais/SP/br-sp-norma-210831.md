@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.461, DE 02 DE ABRIL DE 2025
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Salto de Pirapora, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Salto de Pirapora, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

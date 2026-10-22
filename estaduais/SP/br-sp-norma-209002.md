@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.152, de 02/06/2025)_
 
-### Dispõe sobre o subsídio do Governador, do Vice-Governador e dos Secretários de Estado para o exercício financeiro de 2024
+### _Dispõe sobre o subsídio do Governador, do Vice-Governador e dos Secretários de Estado para o exercício financeiro de 2024_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

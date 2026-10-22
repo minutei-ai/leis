@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 970/2025, do Deputado Eduardo Suplicy - PT)
 
-### Institui o "Dia Estadual da Agricultura Urbana e Periurbana".
+### _Institui o "Dia Estadual da Agricultura Urbana e Periurbana"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

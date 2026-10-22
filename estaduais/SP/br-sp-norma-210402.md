@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.181, DE 18 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 55.087, de 27 de novembro de 2009, que regulamenta dispositivos da Lei n° 13.507, de 23 de abril de 2009, que dispõe sobre o Conselho Estadual do Meio Ambiente - CONSEMA, e dá providências correlatas.
+### _Altera o Decreto n° 55.087, de 27 de novembro de 2009, que regulamenta dispositivos da Lei n° 13.507, de 23 de abril de 2009, que dispõe sobre o Conselho Estadual do Meio Ambiente - CONSEMA, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

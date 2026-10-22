@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.176, DE 09 DE DEZEMBRO DE 2023
 
-### Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo, na forma que especifica
+### _Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo, na forma que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do parágrafo único do artigo 10 do [Decreto-lei n° 13.654, de 6 de novembro de 1943](https://www.al.sp.gov.br/norma/130299), com a redação dada pelo artigo 1° do Decreto-lei de 3 de novembro de 1969,
 

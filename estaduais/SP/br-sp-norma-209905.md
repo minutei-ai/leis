@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1621/2023, do Deputado Bruno Zambelli - PL)
 
-### Institui o "Dia do Despachante Aduaneiro", incluindo-o no Calendário Oficial do Estado.
+### _Institui o "Dia do Despachante Aduaneiro", incluindo-o no Calendário Oficial do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

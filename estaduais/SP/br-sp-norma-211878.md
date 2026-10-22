@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 27/2024, do Deputado Paulo Correa Jr - PSD)
 
-### Inclui no Calendário Oficial do Estado o "Dia do Tutor de Pet".
+### _Inclui no Calendário Oficial do Estado o "Dia do Tutor de Pet"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

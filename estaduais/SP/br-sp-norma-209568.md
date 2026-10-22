@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.608, DE 15 DE JUNHO DE 2024
 
-### Altera o Decreto n° 67.947, de 15 de setembro de 2023
+### _Altera o Decreto n° 67.947, de 15 de setembro de 2023_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

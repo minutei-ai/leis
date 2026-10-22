@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.435, DE 24 DE MARÇO DE 2025
 
-### Autoriza a outorga de uso, ao Município de Campinas, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Campinas, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

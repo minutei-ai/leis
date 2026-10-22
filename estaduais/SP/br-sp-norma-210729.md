@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 373/2024, do Deputado Gerson Pessoa - PODE)
 
-### Declara de utilidade pública a Associação Agindo Juntos Geramos+ (AJG), com sede em Sorocaba.
+### _Declara de utilidade pública a Associação Agindo Juntos Geramos+ (AJG), com sede em Sorocaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

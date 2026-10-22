@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.805, DE 24 DE AGOSTO DE 2024
 
-### Declara situação de emergência nas áreas que especifica, em razão de incêndios florestais no território estadual.
+### _Declara situação de emergência nas áreas que especifica, em razão de incêndios florestais no território estadual._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil, que relatou a ocorrência de incêndios florestais de grande magnitude em regiões do Estado de São Paulo, entre os dias 2 e 24 de agosto, os quais resultaram em graves danos humanos, materiais e ambientais, além de significativos prejuízos econômicos e sociais, conforme o item 1.4.1.3.2 da Classificação e Codificação Brasileira de Desastres (COBRADE),  
 

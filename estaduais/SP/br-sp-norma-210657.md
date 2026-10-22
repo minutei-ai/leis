@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 140/2023, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação Pérola Negra de Botucatu - APNB, com sede naquele Município.
+### _Declara de utilidade pública a Associação Pérola Negra de Botucatu - APNB, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

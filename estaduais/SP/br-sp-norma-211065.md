@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.627, DE 13 DE JUNHO DE 2025
 
-### Dispõe sobre a reclassificação da unidade policial que especifica, a instalação da Delegacia de Polícia de Defesa da Mulher de Paulínia e dá providências correlatas.
+### _Dispõe sobre a reclassificação da unidade policial que especifica, a instalação da Delegacia de Polícia de Defesa da Mulher de Paulínia e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃOPAULO, no uso de suas atribuições legais,
 

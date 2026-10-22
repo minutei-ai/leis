@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 338/2025, da Deputada Solange Freitas - UNIÃO)
 
-### Declara de utilidade pública a Associação de Assistência Social Projeto Afeto em Ação, com sede em São Vicente.
+### _Declara de utilidade pública a Associação de Assistência Social Projeto Afeto em Ação, com sede em São Vicente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

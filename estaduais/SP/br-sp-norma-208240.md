@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 24, de 2022, do Deputado Rogério Nogueira - PSDB)
 
-### Dá denominação à rodovia de acesso que especifica
+### _Dá denominação à rodovia de acesso que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

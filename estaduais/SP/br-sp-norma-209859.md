@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.785, DE 22 DE AGOSTO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas complementares necessá­rias à duplicação do trecho entre os km 58+300m e 61+000m da Rodovia SP-270, no Mu­nicípio de São Roque, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas complementares necessá­rias à duplicação do trecho entre os km 58+300m e 61+000m da Rodovia SP-270, no Mu­nicípio de São Roque, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320),  
 

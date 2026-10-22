@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 699/2024, da Deputada Leci Brandão - PCdoB)
 
-### Institui o "Dia das Profissionais de Educação Infantil".
+### _Institui o "Dia das Profissionais de Educação Infantil"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

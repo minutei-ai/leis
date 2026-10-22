@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1629/2023, do Deputado Daniel Soares - UNIÃO)
 
-### Institui a identificação de veículo para transporte de pessoas portadoras do Transtorno do Espectro Autista - TEA.
+### _Institui a identificação de veículo para transporte de pessoas portadoras do Transtorno do Espectro Autista - TEA._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

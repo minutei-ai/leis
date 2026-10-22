@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1146/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Associação de Assistência e Amparo ao Menor - AÇÃOAMOR, com sede em Alumínio.
+### _Declara de utilidade pública a Associação de Assistência e Amparo ao Menor - AÇÃOAMOR, com sede em Alumínio._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

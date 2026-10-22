@@ -2,7 +2,7 @@
 
 # LEI N° 18.384, DE 23 DE DEZEMBRO DE 2025
 
-### Fixa o subsídio dos Deputados Estaduais para o exercício de 2026.
+### _Fixa o subsídio dos Deputados Estaduais para o exercício de 2026._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

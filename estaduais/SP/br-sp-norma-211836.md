@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 227/2024, do Deputado Gil Diniz - PL)
 
-### Denomina "Prefeito Edson Dias de Oliveira" a Rodovia de Acesso SPA 552/230, localizada no km 551 + 500m da Rodovia SP-230, no Município de Barra do Turvo
+### _Denomina "Prefeito Edson Dias de Oliveira" a Rodovia de Acesso SPA 552/230, localizada no km 551 + 500m da Rodovia SP-230, no Município de Barra do Turvo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

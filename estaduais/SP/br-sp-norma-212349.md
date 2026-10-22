@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 416/2020, dos Deputados Gil Diniz Bolsonaro - PSL, Marcio Nakashima - PDT e Carla Morando - PSDB)
 
-### Dispõe sobre o combate ao desperdício de alimentos e a doação de excedentes de refeições prontas para o consumo e dá outras providências.
+### _Dispõe sobre o combate ao desperdício de alimentos e a doação de excedentes de refeições prontas para o consumo e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

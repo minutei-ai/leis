@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.866, DE 15 DE SETEMBRO DE 2025
 
-### Institui a Medalha "Cinquentenário da Defesa Civil do Estado de São Paulo", da Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, e dá providências correlatas.
+### _Institui a Medalha "Cinquentenário da Defesa Civil do Estado de São Paulo", da Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

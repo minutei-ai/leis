@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.338, DE 22 DE FEVEREIRO DE 2024
 
-### Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as faixas de terras onde está implantada rede coletora de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Vila Nivi/ Tucuruvi, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as faixas de terras onde está implantada rede coletora de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Vila Nivi/ Tucuruvi, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos dos artigos 2°, 6° e 40 do Decreto-Lei federal n° 3.365, de 21 de junho de 1.941, alterado pela Lei federal n° 2.786, de 21 de maio de 1.956,
 

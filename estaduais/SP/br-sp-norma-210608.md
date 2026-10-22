@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.334, DE 29 DE JANEIRO DE 2025
 
-### Altera a nomenclatura relativa ao Transporte Coletivo Suburbano, disciplinado pelo Decreto 29.913, de 12 de maio de 1989.
+### _Altera a nomenclatura relativa ao Transporte Coletivo Suburbano, disciplinado pelo Decreto 29.913, de 12 de maio de 1989._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.336, DE 30 DE JANEIRO DE 2025
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante cessão de uso, a título oneroso e por prazo determinado, área do complexo aeroportuário Campo de Marte, de propriedade da União, localizado no Município de São Paulo.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante cessão de uso, a título oneroso e por prazo determinado, área do complexo aeroportuário Campo de Marte, de propriedade da União, localizado no Município de São Paulo._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

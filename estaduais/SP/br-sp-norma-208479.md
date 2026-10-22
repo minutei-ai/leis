@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 231/2023, do Deputado Guto Zacarias - UNIÃO e Deputado Lucas Bove - PL)
 
-### Dispõe sobre a criação do Programa Jovem Paulista que promove fundamentos de finanças e empreendedorismo no âmbito das Escolas do Ensino Médio Estaduais vinculadas à Secretaria da Educação
+### _Dispõe sobre a criação do Programa Jovem Paulista que promove fundamentos de finanças e empreendedorismo no âmbito das Escolas do Ensino Médio Estaduais vinculadas à Secretaria da Educação_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

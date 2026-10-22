@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1581/2023, do Deputado Delegado Olim - PP)
 
-### Declara de utilidade pública a Associação Bicho Sem Teto, com sede em Santa Rita do Passa Quatro.
+### _Declara de utilidade pública a Associação Bicho Sem Teto, com sede em Santa Rita do Passa Quatro._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 101/2023, da Deputada Leticia Aguiar – PP)
 
-### Inclui no Calendário Turístico do Estado o Dia do Padroeiro São Pedro, em Guatapará
+### _Inclui no Calendário Turístico do Estado o Dia do Padroeiro São Pedro, em Guatapará_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

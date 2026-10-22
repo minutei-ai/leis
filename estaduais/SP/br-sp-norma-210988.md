@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.566, DE 30 DE MAIO DE 2025
 
-### Incorpora ao Parque Estadual Restinga de Bertioga as áreas que especifica, e dá providências correlatas.
+### _Incorpora ao Parque Estadual Restinga de Bertioga as áreas que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 69/2024, do Deputado Capitão Telhada - PP)
 
-### Declara de utilidade pública a Associação de Defesa Animal de Pereira Barreto, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Defesa Animal de Pereira Barreto, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 536/2023, do Deputado Felipe Franco - UNIÃO)
 
-### Institui o "Dia do Fisiculturista".
+### _Institui o "Dia do Fisiculturista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

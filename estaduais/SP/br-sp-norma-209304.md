@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 488/2021, do Deputado Sergio Victor - NOVO)
 
-### Denomina "Prof. José Maria Priante" a Escola Estadual Jardim dos Cisnes, em São Bento do Sapucaí.
+### _Denomina "Prof. José Maria Priante" a Escola Estadual Jardim dos Cisnes, em São Bento do Sapucaí._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei Complementar n° 1.424, de 02/06/2025)_
 
-### ~~Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica.~~
+### _~~Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica.~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~    
 

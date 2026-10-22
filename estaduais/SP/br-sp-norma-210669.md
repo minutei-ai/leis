@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 60/2024, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação Religiosa Construindo o Futuro de Santo Expedito, com sede naquele Município.
+### _Declara de utilidade pública a Associação Religiosa Construindo o Futuro de Santo Expedito, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

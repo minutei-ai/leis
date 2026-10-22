@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 88/2026, do Deputado Milton Leite Filho - UNIÃO)
 
-### Declara de utilidade pública a Santa Casa de Misericórdia de Cabreúva, com sede naquele Município.
+### _Declara de utilidade pública a Santa Casa de Misericórdia de Cabreúva, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

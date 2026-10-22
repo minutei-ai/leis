@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 102/2019, do Deputado Itamar Borges - MDB)
 
-### ~~Classifica como de Interesse Turístico o Município de São José do Rio Preto.~~
+### _~~Classifica como de Interesse Turístico o Município de São José do Rio Preto.~~_
 
 ~~O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO::~~
 

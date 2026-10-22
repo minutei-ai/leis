@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.623, DE 12 DE JUNHO DE 2025
 
-### Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Presidente Venceslau, na Secretaria da Educação, e dá providências correlatas.
+### _Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Presidente Venceslau, na Secretaria da Educação, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

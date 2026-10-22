@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 367/2022, da Deputada Leci Brandão - PCdoB)
 
-### Inclui no Calendário Oficial do Estado o Festival Nacional de Antigomobilismo Roberto Lee, em Caçapava
+### _Inclui no Calendário Oficial do Estado o Festival Nacional de Antigomobilismo Roberto Lee, em Caçapava_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

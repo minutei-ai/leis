@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.666, DE 31 DE MAIO DE 2026
 
-### Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento de Angelita Habr-Gama.
+### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento de Angelita Habr-Gama._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando o legado incomparável de Angelita Habr-Gama, uma das maiores referências mundiais em coloproctologia e pioneira da cirurgia brasileira, que ao longo de mais de seis décadas de carreira revolucionou o tratamento do câncer de reto, foi a primeira mulher a se tornar professora titular de uma especialidade cirúrgica na Faculdade de Medicina da Universidade de São Paulo e tornou-se símbolo de excelência médica, dedicação científica e inspiração para gerações de profissionais da saúde,
 

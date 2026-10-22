@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 25, de 2025)
 
-### Dá a denominação de "Deputado Paulo Frateschi - V Centenário" ao espaço cultural localizado no andar Monumental do Palácio 9 de Julho.
+### _Dá a denominação de "Deputado Paulo Frateschi - V Centenário" ao espaço cultural localizado no andar Monumental do Palácio 9 de Julho._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

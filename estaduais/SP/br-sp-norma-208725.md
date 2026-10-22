@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 618/2022, do Deputado Itamar Borges - MDB)
 
-### Denomina "Paulo Antônio Coelho" o dispositivo de acesso e retorno tipo rotatória SPD 455/334, localizado no km 455 da Rodovia Cândido Portinari - SP 334, em Pedregulho
+### _Denomina "Paulo Antônio Coelho" o dispositivo de acesso e retorno tipo rotatória SPD 455/334, localizado no km 455 da Rodovia Cândido Portinari - SP 334, em Pedregulho_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

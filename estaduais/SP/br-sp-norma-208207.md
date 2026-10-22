@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.758, DE 20 DE JUNHO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à duplicação do trecho entre os km 540+000m e 551+000m da Rodovia SP-284, no Município de Martinópolis, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à duplicação do trecho entre os km 540+000m e 551+000m da Rodovia SP-284, no Município de Martinópolis, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),
 

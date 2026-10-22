@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.846, DE 04 DE SETEMBRO DE 2025
 
-### Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua dos Protestantes, n°s 9, 23, 35, 41, 47, 59, 65, 71 e 79, Rua dos Gusmões, n°s 83, 95, 99, 107, 119, 123, 129 e 135, Rua do Triunfo, n°s 150, 158, 166, 172 e 176 e Rua Vitória, n°s 18, 24, 28, 32, 38 e 50, Distrito da República, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua dos Protestantes, n°s 9, 23, 35, 41, 47, 59, 65, 71 e 79, Rua dos Gusmões, n°s 83, 95, 99, 107, 119, 123, 129 e 135, Rua do Triunfo, n°s 150, 158, 166, 172 e 176 e Rua Vitória, n°s 18, 24, 28, 32, 38 e 50, Distrito da República, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 1° e 2°, inciso V, da Lei federal n° 4.132, de 10 de setembro de 1962, c.c. o Decreto-Lei federal n° 3.365 de 21 de junho de 1941, e alterações posteriores,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1071/2025, dos Deputados Eduardo Suplicy - PT e Guilherme Cortez - PSOL)
 
-### Institui o "Dia Estadual do Trabalhador de Fast-food".
+### _Institui o "Dia Estadual do Trabalhador de Fast-food"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

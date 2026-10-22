@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 285, de 2021, do Deputado Itamar Borges - MDB)
 
-### Denomina "Thyrso Camargo Ayres" o Conjunto Habitacional Piedade E, naquele Município
+### _Denomina "Thyrso Camargo Ayres" o Conjunto Habitacional Piedade E, naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

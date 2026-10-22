@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 842/2023, do Deputado Caio França - PSB)
 
-### Declara de utilidade pública a Associação de Mães e Amigos dos Deficientes e Familiares - AMADEF, com sede em São Vicente.
+### _Declara de utilidade pública a Associação de Mães e Amigos dos Deficientes e Familiares - AMADEF, com sede em São Vicente._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 174/2024, do Deputado Carlos Cezar - PL)
 
-### Denomina "Stylianos Antoine Nikiforos" a passarela situada na altura do km 63+100m da Rodovia D. Pedro I - SP 065, no Município de Bom Jesus dos Perdões
+### _Denomina "Stylianos Antoine Nikiforos" a passarela situada na altura do km 63+100m da Rodovia D. Pedro I - SP 065, no Município de Bom Jesus dos Perdões_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

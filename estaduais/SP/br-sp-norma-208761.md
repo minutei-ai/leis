@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 81/2023, do Deputado Thiago Auricchio - PL)
 
-### Consolida a legislação relativa à defesa do consumidor
+### _Consolida a legislação relativa à defesa do consumidor_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

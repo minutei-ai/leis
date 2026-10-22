@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.141, DE 04 DE DEZEMBRO DE 2023
 
-### Altera dispositivo do Decreto n° 68.131, de 30 de novembro de 2023, que dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Companhia Paulista de Trens Metropolitanos-CPTM, visando ao atendimento de Despesas Correntes e de Capital.
+### _Altera dispositivo do Decreto n° 68.131, de 30 de novembro de 2023, que dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Companhia Paulista de Trens Metropolitanos-CPTM, visando ao atendimento de Despesas Correntes e de Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

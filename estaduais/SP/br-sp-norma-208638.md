@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 745/2021, da Deputada Maria Lúcia Amary - PSDB)
 
-### Inclui no Calendário Turístico do Estado a Festa da Colônia Japonesa, em Sorocaba
+### _Inclui no Calendário Turístico do Estado a Festa da Colônia Japonesa, em Sorocaba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

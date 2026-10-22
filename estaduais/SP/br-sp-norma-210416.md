@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 348/2024, do Deputado Caio França – PSB)
 
-### Institui, no Calendário Oficial do Estado, o "Dia do Procurador".
+### _Institui, no Calendário Oficial do Estado, o "Dia do Procurador"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

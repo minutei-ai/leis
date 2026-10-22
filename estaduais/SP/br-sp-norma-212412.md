@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1288/2025, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação Guaratinguetaense de Engenheiros e Arquitetos - AGEA, com sede em Guaratinguetá.
+### _Declara de utilidade pública a Associação Guaratinguetaense de Engenheiros e Arquitetos - AGEA, com sede em Guaratinguetá._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

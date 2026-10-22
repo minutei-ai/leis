@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1224/2023, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública a Associação Educar para Transformar, com sede em Santos.
+### _Declara de utilidade pública a Associação Educar para Transformar, com sede em Santos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 245/2021, do Deputado Edson Giriboni - PV)
 
-### Institui o Selo "Investimento Verde" no âmbito do Estado de São Paulo, e dá outras providências.
+### _Institui o Selo "Investimento Verde" no âmbito do Estado de São Paulo, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

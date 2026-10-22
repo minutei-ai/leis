@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 230/2023, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "CAPS III - Centro de Atenção Psicossocial - Enfermeira Mercedes Lisbôa Costa" o CAPS III - Centro de Atenção Psicossocial, localizado no Município de Casa Branca - SP.
+### _Denomina "CAPS III - Centro de Atenção Psicossocial - Enfermeira Mercedes Lisbôa Costa" o CAPS III - Centro de Atenção Psicossocial, localizado no Município de Casa Branca - SP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.669, DE 28 DE JUNHO DE 2024
 
-### Autoriza a outorga de uso, ao Município de Santa Cruz da Conceição, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Santa Cruz da Conceição, de parte do imóvel que especifica, e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 824/2023, do Deputado Léo Oliveira - MDB)
 
-### Declara de utilidade pública o Grupo de Apoio ao Transplantado de Medula Óssea - GATMO, com sede em Ribeirão Preto
+### _Declara de utilidade pública o Grupo de Apoio ao Transplantado de Medula Óssea - GATMO, com sede em Ribeirão Preto_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

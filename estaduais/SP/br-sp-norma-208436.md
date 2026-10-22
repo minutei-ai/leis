@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.902, DE 23 DE AGOSTO DE 2023
 
-### Convoca a 4ª Conferência Estadual de Juventude e dá providências correlatas.
+### _Convoca a 4ª Conferência Estadual de Juventude e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no inciso IV do artigo 42 da Lei federal n.° 12.852, de 5 de agosto de 2013,
 

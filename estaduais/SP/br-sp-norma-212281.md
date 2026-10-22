@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1233/2025, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação Fórum Permanente de Desenvolvimento Econômico e Social de Osvaldo Cruz - MULTIPLIC, com sede naquele Município.
+### _Declara de utilidade pública a Associação Fórum Permanente de Desenvolvimento Econômico e Social de Osvaldo Cruz - MULTIPLIC, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

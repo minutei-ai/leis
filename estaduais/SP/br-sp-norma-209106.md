@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.331, DE 07 DE FEVEREIRO DE 2024
 
-### Prorroga o prazo previsto no artigo 5° do Decreto n° 67.495, de 17 de fevereiro de 2023.
+### _Prorroga o prazo previsto no artigo 5° do Decreto n° 67.495, de 17 de fevereiro de 2023._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

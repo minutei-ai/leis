@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.884, DE 15 DE AGOSTO DE 2023
 
-### Transfere, do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de Laranjal Paulista, e autoriza a Fazenda do Estado a permitir seu uso à Associação Mão Amiga - AMA.
+### _Transfere, do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de Laranjal Paulista, e autoriza a Fazenda do Estado a permitir seu uso à Associação Mão Amiga - AMA._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.849, DE 09 DE SETEMBRO DE 2026
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Mogi Guaçu, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Mogi Guaçu, parte do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 213/2024, da Deputada Letícia Aguiar - PP)
 
-### Declara de utilidade pública a Associação Beneficente de Caçapava, com sede naquele Município.
+### _Declara de utilidade pública a Associação Beneficente de Caçapava, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

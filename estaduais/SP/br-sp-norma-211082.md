@@ -5,7 +5,7 @@
 
 # _(Última atualização: Retificação de 18/06/2025)_
 
-### Reestrutura a carreira de Especialista Ambiental e a série de classes de Assistente Agropecuário, que passa a constituir a carreira de Especialista Agropecuário.
+### _Reestrutura a carreira de Especialista Ambiental e a série de classes de Assistente Agropecuário, que passa a constituir a carreira de Especialista Agropecuário._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

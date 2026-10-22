@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 70.709, de 22/06/2026)_
 
-### Dispõe sobre a execução e a organização da Política de Assistência Social e do Sistema Único de Assistência Social no Estado de São Paulo, revoga a Lei n° 9.177, de 18 de outubro de 1995, e a Lei n° 13.242, de 8 de dezembro de 2008, e dá providências correlatas.
+### _Dispõe sobre a execução e a organização da Política de Assistência Social e do Sistema Único de Assistência Social no Estado de São Paulo, revoga a Lei n° 9.177, de 18 de outubro de 1995, e a Lei n° 13.242, de 8 de dezembro de 2008, e dá providências correlatas._
 
 _\- Vide [Decreto n° 70.709, de 22/06/2026](https://www.al.sp.gov.br/norma/212779)._
 

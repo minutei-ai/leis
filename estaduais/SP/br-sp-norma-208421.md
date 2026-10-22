@@ -5,7 +5,7 @@
 
 # _(Última atualização: Ato do Presidente n° 194, de 21/08/2023)_
 
-### Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027.
+### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027._
 
 ~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições, e considerando (i) o envio à Assembleia Legislativa, pelo Governador do Estado, nos termos do artigo 174, § 9°, item 1, da Constituição Paulista, do Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027, e (ii) o disposto no artigo 246, § 2°, do Regimento Interno, e no artigo 6° do [Ato da Mesa n° 2, de 7 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206880), DECIDE:~~
 

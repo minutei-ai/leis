@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.991, DE 02 DE OUTUBRO DE 2023
 
-### Estabelece orientações aos órgãos e entidades integrantes da Administração Direta e Indireta acerca do recesso para comemoração das festas de final de ano.
+### _Estabelece orientações aos órgãos e entidades integrantes da Administração Direta e Indireta acerca do recesso para comemoração das festas de final de ano._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

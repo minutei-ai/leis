@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 331/2024, do Deputado Lucas Bove - PL)
 
-### Institui a "Semana do Etanol Paulista".
+### _Institui a "Semana do Etanol Paulista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

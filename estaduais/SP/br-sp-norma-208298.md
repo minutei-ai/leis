@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.819, DE 19 DE JULHO DE 2023
 
-### Dá nova redação ao dispositivo que especifica do n° 67.435, de 1° de janeiro de 2023.
+### _Dá nova redação ao dispositivo que especifica do n° 67.435, de 1° de janeiro de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.813, DE 17 DE JULHO DE 2023
 
-### Altera o Decreto n° 34.064, de 28 de outubro de 1991, que regulamentou a Lei n° 7.524, de 28 de outubro de 1991, que instituiu o auxílio-alimentação.
+### _Altera o Decreto n° 34.064, de 28 de outubro de 1991, que regulamentou a Lei n° 7.524, de 28 de outubro de 1991, que instituiu o auxílio-alimentação._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

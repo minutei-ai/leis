@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 1382/2023, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Institui o "Dia das Mães que Oram pelos Filhos".
+### _Institui o "Dia das Mães que Oram pelos Filhos"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

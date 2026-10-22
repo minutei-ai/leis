@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.177, DE 18 DE DEZEMBRO DE 2024
 
-### Institui, junto à Coordenadoria Estadual de Proteção e Defesa Civil da Casa Militar do Gabinete do Governador, o Centro Paulista de Radares e Alertas Meteorológicos - CePRAM, e dá providências correlatas.
+### _Institui, junto à Coordenadoria Estadual de Proteção e Defesa Civil da Casa Militar do Gabinete do Governador, o Centro Paulista de Radares e Alertas Meteorológicos - CePRAM, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

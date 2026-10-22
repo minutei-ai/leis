@@ -5,7 +5,7 @@
 
 # _(Última atualização: Retificação de 31/10/2024)_
 
-### Dispõe sobre a criação de cargos de Assistente Social Judiciário e de Psicólogo Judiciário no Quadro do Tribunal de Justiça do Estado de São Paulo.
+### _Dispõe sobre a criação de cargos de Assistente Social Judiciário e de Psicólogo Judiciário no Quadro do Tribunal de Justiça do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

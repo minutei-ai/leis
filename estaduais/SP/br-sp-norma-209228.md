@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 315/2019, dos Deputados Marcos Zerbini - PSDB e Tenente Coimbra - PL)
 
-### ~~Classifica como de Interesse Turístico o Município de Pirassununga.~~
+### _~~Classifica como de Interesse Turístico o Município de Pirassununga.~~_
 
 ~~O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 

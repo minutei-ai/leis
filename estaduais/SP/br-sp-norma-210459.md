@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.235, DE 23 DE DEZEMBRO DE 2024
 
-### Dá nova redação a dispositivos do Decreto n° 68.410, de 27 de março de 2024, que declara de utilidade pública, para fins de desapropriação, os imóveis necessários à instalação de unidades administrativas, no âmbito do Projeto PPP Campos Elíseos, no Município de São Paulo, e dá providências correlatas.
+### _Dá nova redação a dispositivos do Decreto n° 68.410, de 27 de março de 2024, que declara de utilidade pública, para fins de desapropriação, os imóveis necessários à instalação de unidades administrativas, no âmbito do Projeto PPP Campos Elíseos, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

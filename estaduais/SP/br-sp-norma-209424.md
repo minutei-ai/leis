@@ -5,7 +5,7 @@
 
 # _(Última atualização: ADI - STF n° 7655, de 20/05/2024)_
 
-### Dispõe sobre a criação de serventia extrajudicial na Comarca de Arujá.
+### _Dispõe sobre a criação de serventia extrajudicial na Comarca de Arujá._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

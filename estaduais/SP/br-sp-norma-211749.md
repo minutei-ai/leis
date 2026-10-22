@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1212/2023, do Deputado Vinicius Camarinha - PSDB)
 
-### Denomina "Adhemar Garcia Júnior" o dispositivo de entroncamento entre as Rodovias SP 333 e SP 421, de código SPD 356/333, localizado no km 356,800 da Rodovia Rachid Rayes - SP 333, em Echaporã.
+### _Denomina "Adhemar Garcia Júnior" o dispositivo de entroncamento entre as Rodovias SP 333 e SP 421, de código SPD 356/333, localizado no km 356,800 da Rodovia Rachid Rayes - SP 333, em Echaporã._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

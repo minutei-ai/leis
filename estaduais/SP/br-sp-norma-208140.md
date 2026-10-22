@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.725, DE 29 DE MAIO DE 2023
 
-### Disciplina a implementação do Projeto de Recuperação do Rio Tietê à Montante da Barragem da Penha - Programa Renasce Tietê e dá providências correlatas.
+### _Disciplina a implementação do Projeto de Recuperação do Rio Tietê à Montante da Barragem da Penha - Programa Renasce Tietê e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

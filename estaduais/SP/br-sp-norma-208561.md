@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 673/2023, do Deputado Leonardo Siqueira - NOVO)
 
-### Institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo
+### _Institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo_
 
 _\- Vide [Decreto n° 67.979, de 25/09/2023](https://www.al.sp.gov.br/norma/208562)._
 

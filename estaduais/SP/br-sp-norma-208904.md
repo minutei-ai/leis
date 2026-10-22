@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.158, DE 09 DE DEZEMBRO DE 2023
 
-### Institui a Política de Gestão de Riscos da Administração Pública direta e autárquica do Estado de São Paulo.
+### _Institui a Política de Gestão de Riscos da Administração Pública direta e autárquica do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

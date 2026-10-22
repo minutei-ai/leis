@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.985, DE 21 DE OUTUBRO DE 2024
 
-### Institui a Medalha Campanha e Ações Humanitárias da Polícia Militar do Estado de São Paulo e dá providências correlatas.
+### _Institui a Medalha Campanha e Ações Humanitárias da Polícia Militar do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 596/2021, do Deputado Altair Moraes - REPUBLICANOS)
 
-### Institui o "Dia da Mulher Ferroviária"
+### _Institui o "Dia da Mulher Ferroviária"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

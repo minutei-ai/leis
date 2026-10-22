@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 78/2024, do Deputado Capitão Telhada – PP)
 
-### Denomina "Benedito Olympio Leite (Ipojucã)" a Escola Estadual Jardim Paraíso, em Boituva.
+### _Denomina "Benedito Olympio Leite (Ipojucã)" a Escola Estadual Jardim Paraíso, em Boituva._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

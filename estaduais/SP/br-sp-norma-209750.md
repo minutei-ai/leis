@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.708, DE 23 DE JULHO DE 2024
 
-### Altera o Decreto n° 67.169, de 11 de outubro de 2022, que dispõe sobre a concessão de tratamento tributário diferenciado, nas condições que especifica, aos produtores de biodiesel - B100 para apuração e pagamento do ICMS incidente nas respectivas operações, realizadas com diferimento do imposto.
+### _Altera o Decreto n° 67.169, de 11 de outubro de 2022, que dispõe sobre a concessão de tratamento tributário diferenciado, nas condições que especifica, aos produtores de biodiesel - B100 para apuração e pagamento do ICMS incidente nas respectivas operações, realizadas com diferimento do imposto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no inciso III e no § 10 do artigo 8° da Lei n° 6.374, de 1° de março de 1989 e no Convênio ICMS 62/23, de 28 de abril de 2023,    
 

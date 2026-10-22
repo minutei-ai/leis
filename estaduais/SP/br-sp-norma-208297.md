@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.818, DE 19 DE JULHO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Linha Universidade S/A., o imóvel necessário à implantação de Poço de Ventilação e Saída de Emergência (VSE) Domingos Vega, da Linha 6 - Laranja do Metrô, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Linha Universidade S/A., o imóvel necessário à implantação de Poço de Ventilação e Saída de Emergência (VSE) Domingos Vega, da Linha 6 - Laranja do Metrô, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

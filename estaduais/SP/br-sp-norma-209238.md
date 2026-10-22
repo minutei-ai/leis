@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1144/2023, do Deputado Gerson Pessoa - PODE)
 
-### Institui, no calendário estadual, a "Semana das Cidades Inteligentes Paulistas".
+### _Institui, no calendário estadual, a "Semana das Cidades Inteligentes Paulistas"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

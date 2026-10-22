@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.372, DE 21 DE FEVEREIRO DE 2025
 
-### Amplia os limites do Parque Estadual da Serra do Mar, mediante a incorporação de área localizada no Bairro Cota 200, no Município de Cubatão.
+### _Amplia os limites do Parque Estadual da Serra do Mar, mediante a incorporação de área localizada no Bairro Cota 200, no Município de Cubatão._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 225 da Constituição Federal, no artigo 191 da Constituição Estadual e na Lei federal n° 9.985, de 18 de julho de 2000,
 

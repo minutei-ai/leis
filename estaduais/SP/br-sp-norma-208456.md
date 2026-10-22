@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.909, DE 29 DE AGOSTO DE 2023
 
-### Transfere, da Secretaria da Segurança Pública para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Araraquara.
+### _Transfere, da Secretaria da Segurança Pública para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Araraquara._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

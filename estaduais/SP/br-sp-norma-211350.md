@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.816, DE 22 DE AGOSTO DE 2025
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Hospital das Clínicas da Faculdade de Medicina de Marília - HCFAMEMA.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Hospital das Clínicas da Faculdade de Medicina de Marília - HCFAMEMA._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

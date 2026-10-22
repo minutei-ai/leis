@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.418, DE 02 DE ABRIL DE 2024
 
-### Reorganiza a Comissão Estadual do Zoneamento Ecológico-Econômico de São Paulo (CEZEE-SP), criada pelo Decreto n° 64.526, de 15 de outubro de 2019.
+### _Reorganiza a Comissão Estadual do Zoneamento Ecológico-Econômico de São Paulo (CEZEE-SP), criada pelo Decreto n° 64.526, de 15 de outubro de 2019._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

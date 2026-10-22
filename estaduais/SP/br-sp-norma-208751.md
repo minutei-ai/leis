@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 577/2021, do Deputado Edmir Chedid - DEM)
 
-### Denomina "Prefeito José Carlos de Oliveira" o Posto de Serviços do Poupatempo do Município de Amparo
+### _Denomina "Prefeito José Carlos de Oliveira" o Posto de Serviços do Poupatempo do Município de Amparo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

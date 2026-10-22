@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 935/2019, da Deputada Monica Seixas do Movimento Pretas - PSOL)
 
-### Institui o "Dia Estadual da Mulher Indígena"
+### _Institui o "Dia Estadual da Mulher Indígena"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

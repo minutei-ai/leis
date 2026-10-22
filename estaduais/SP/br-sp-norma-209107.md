@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.332, DE 07 DE FEVEREIRO DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Colar Cásper Líbero", instituído pela Fundação Cásper Líbero e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Colar Cásper Líbero", instituído pela Fundação Cásper Líbero e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

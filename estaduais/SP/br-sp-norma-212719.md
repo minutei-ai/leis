@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 276/2026, do Deputado Itamar Borges – MDB)
 
-### Institui o "Dia Estadual do Queijo Artesanal e Autoral Paulista".
+### _Institui o "Dia Estadual do Queijo Artesanal e Autoral Paulista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

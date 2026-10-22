@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.000, DE 05 DE OUTUBRO DE 2023
 
-### Institui, junto à Secretaria de Turismo e Viagens, o Programa "Creditur SP" e dá providências correlatas.
+### _Institui, junto à Secretaria de Turismo e Viagens, o Programa "Creditur SP" e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

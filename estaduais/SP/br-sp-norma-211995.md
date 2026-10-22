@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 920/2023, do Deputado Carlos Cezar - PL)
 
-### Denomina "Professora Conceição Aparecida Pereira Ismael" a Escola Estadual do Bairro Nossa Senhora da Conceição, em Juquitiba.
+### _Denomina "Professora Conceição Aparecida Pereira Ismael" a Escola Estadual do Bairro Nossa Senhora da Conceição, em Juquitiba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

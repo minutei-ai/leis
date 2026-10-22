@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 139/2024, do Deputado Rafael Saraiva - UNIÃO)
 
-### Dispõe sobre vedação do acorrentamento de cães e gatos por correntes ou cordas, e dá outras providências.
+### _Dispõe sobre vedação do acorrentamento de cães e gatos por correntes ou cordas, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

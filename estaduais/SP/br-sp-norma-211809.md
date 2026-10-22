@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 550/2025, do Deputado Atila Jacomussi - UNIÃO)
 
-### Declara de utilidade pública a Associação Atlética Esportiva Araçatuba - AAEA, com sede naquele Município.
+### _Declara de utilidade pública a Associação Atlética Esportiva Araçatuba - AAEA, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

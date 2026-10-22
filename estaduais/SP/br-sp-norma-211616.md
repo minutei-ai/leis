@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.939, DE 10 DE OUTUBRO DE 2025
 
-### Autoriza a Fazenda do Estado a receber do Departamento de Estradas de Rodagem do Estado de São Paulo - DER, por doação, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber do Departamento de Estradas de Rodagem do Estado de São Paulo - DER, por doação, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

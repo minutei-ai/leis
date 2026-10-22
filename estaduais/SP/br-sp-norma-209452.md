@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.512, DE 14 DE MAIO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação e melhoria da pista no trecho entre os km 406+0,00m e 454+800m da Rodovia Cândido Portinari, SP-334, no Município de Pedregulho, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação e melhoria da pista no trecho entre os km 406+0,00m e 454+800m da Rodovia Cândido Portinari, SP-334, no Município de Pedregulho, e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,    
 

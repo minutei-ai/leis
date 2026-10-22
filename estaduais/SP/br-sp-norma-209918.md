@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.827, DE 04 DE SETEMBRO DE 2024
 
-### Regulamenta a promoção de que tratam os artigos 40 a 43 da Lei Complementar n° 1.157, de 2 de dezembro de 2011, no âmbito das Secretarias de Estado, da Procuradoria Geral do Estado, da Controladoria Geral do Estado e das Autarquias, e dá providências correlatas.
+### _Regulamenta a promoção de que tratam os artigos 40 a 43 da Lei Complementar n° 1.157, de 2 de dezembro de 2011, no âmbito das Secretarias de Estado, da Procuradoria Geral do Estado, da Controladoria Geral do Estado e das Autarquias, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

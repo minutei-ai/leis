@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.306, DE 16 DE JANEIRO DE 2024
 
-### Dispõe sobre o uso de assinaturas eletrônicas na Administração Pública estadual direta, autárquica e fundacional, regulamenta o artigo 5° da Lei federal n° 14.063, de 23 de setembro de 2020, e disciplina a comprovação de vida e as ações de recadastramento por meio digital para os fins que especifica.
+### _Dispõe sobre o uso de assinaturas eletrônicas na Administração Pública estadual direta, autárquica e fundacional, regulamenta o artigo 5° da Lei federal n° 14.063, de 23 de setembro de 2020, e disciplina a comprovação de vida e as ações de recadastramento por meio digital para os fins que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

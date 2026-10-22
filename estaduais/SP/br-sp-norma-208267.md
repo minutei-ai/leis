@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 788, de 2021, da Deputada Carla Morando - PSDB)
 
-### Dá denominação à Central de Flagrantes da Polícia Civil que especifica
+### _Dá denominação à Central de Flagrantes da Polícia Civil que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.217, DE 15 DE DEZEMBRO DE 2023
 
-### Atribui competência ao Secretário da Segurança Pública para definir a padronização da pintura externa, dos símbolos e das inscrições de identificação dos meios de transporte da Polícia Civil do Estado de São Paulo e dá providências correlatas.
+### _Atribui competência ao Secretário da Segurança Pública para definir a padronização da pintura externa, dos símbolos e das inscrições de identificação dos meios de transporte da Polícia Civil do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 183, de 2022, do Deputado Mauro Bragato - PSDB)
 
-### Dá denominação à ponte que especifica
+### _Dá denominação à ponte que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

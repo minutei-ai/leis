@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.834, DE 27 DE AGOSTO DE 2025
 
-### Cria e organiza, na Delegacia Geral de Polícia Adjunta - DGPAD, a Assistência Policial Civil de Defesa da Mulher e dá providências correlatas.
+### _Cria e organiza, na Delegacia Geral de Polícia Adjunta - DGPAD, a Assistência Policial Civil de Defesa da Mulher e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

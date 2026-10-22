@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1605/2023, do Deputado Dirceu Dalben - CIDADANIA)
 
-### Declara de utilidade pública a Associação Comunidade da Família - ACOFAM, com sede em Americana.
+### _Declara de utilidade pública a Associação Comunidade da Família - ACOFAM, com sede em Americana._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

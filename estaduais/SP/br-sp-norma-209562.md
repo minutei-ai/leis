@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.605, DE 13 DE JUNHO DE 2024
 
-### Institui o Distrito Turístico de Santos nas áreas que especifica, e dá providências correlatas.
+### _Institui o Distrito Turístico de Santos nas áreas que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

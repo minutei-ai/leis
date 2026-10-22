@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 39/2021, da Deputada Professora Bebel - PT e do Deputado Alex Madureira - PL)
 
-### ~~Classifica como de Interesse Turístico o Município que especifica~~
+### _~~Classifica como de Interesse Turístico o Município que especifica~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 

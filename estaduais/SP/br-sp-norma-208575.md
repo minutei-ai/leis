@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 216/2022, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Institui o "Dia Estadual do Grupo Calebe Universal"
+### _Institui o "Dia Estadual do Grupo Calebe Universal"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

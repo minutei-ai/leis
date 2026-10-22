@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 70.771, de 28/07/2026)_
 
-### Dispõe sobre o plano de carreira dos integrantes das carreiras policiais civis do Estado de São Paulo.
+### _Dispõe sobre o plano de carreira dos integrantes das carreiras policiais civis do Estado de São Paulo._
 
 _\- Vide [Decreto n° 70.771, de 28/07/2026](https://www.al.sp.gov.br/norma/212858)._
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1103/2023, da Deputada Márcia Lia - PT)
 
-### Declara de utilidade pública a Rede Paulista de Controle Social da Tuberculose, com sede na Capital.
+### _Declara de utilidade pública a Rede Paulista de Controle Social da Tuberculose, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

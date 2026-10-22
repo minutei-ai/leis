@@ -7,7 +7,7 @@
 
 ## (Projeto de Lei n° 546/2023, da Deputada Marta Costa - PSD)
 
-### Veda a compra, a venda, o fornecimento e o consumo de bebidas alcoólicas nas instituições de ensino, públicas e privadas, e proíbe expressamente as chamadas festas "open bar".
+### _Veda a compra, a venda, o fornecimento e o consumo de bebidas alcoólicas nas instituições de ensino, públicas e privadas, e proíbe expressamente as chamadas festas "open bar"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

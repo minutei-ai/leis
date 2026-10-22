@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 796, de 2021, do Deputado Cezar - PSDB)
 
-### Institui o "Dia Estadual do Locutor de Rodeio"
+### _Institui o "Dia Estadual do Locutor de Rodeio"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

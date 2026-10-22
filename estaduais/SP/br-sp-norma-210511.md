@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.286, DE 30 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 68.742, de 5 de agosto de 2024, que estabelece a organização da Administração Pública direta e das autarquias do Estado e regulamenta a Lei Complementar n° 1.395, de 22 de dezembro de 2023.
+### _Altera o Decreto n° 68.742, de 5 de agosto de 2024, que estabelece a organização da Administração Pública direta e das autarquias do Estado e regulamenta a Lei Complementar n° 1.395, de 22 de dezembro de 2023._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

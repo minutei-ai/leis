@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.908, DE 29 DE AGOSTO DE 2023
 
-### Acrescenta dispositivo ao Decreto n° 66.986, de 21 de julho de 2022, que regulamenta os artigos 12-A a 12-F da Lei n° 4.957, de 30 de dezembro de 1985, alterada pela Lei n° 17.517, de 8 de março de 2022.
+### _Acrescenta dispositivo ao Decreto n° 66.986, de 21 de julho de 2022, que regulamenta os artigos 12-A a 12-F da Lei n° 4.957, de 30 de dezembro de 1985, alterada pela Lei n° 17.517, de 8 de março de 2022._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

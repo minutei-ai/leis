@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 915/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública o Grupo de Apoio a Pacientes Portadoras de Câncer de Mama "Amigas do Peito" - GAP, com sede em Presidente Prudente
+### _Declara de utilidade pública o Grupo de Apoio a Pacientes Portadoras de Câncer de Mama "Amigas do Peito" - GAP, com sede em Presidente Prudente_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

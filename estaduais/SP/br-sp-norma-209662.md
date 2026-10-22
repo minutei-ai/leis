@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1482/2023, do Deputado Itamar Borges - MDB)
 
-### Denomina "Eugênio Rocha Mendes de Oliveira" o Ambulatório Médico de Especialidades de São José do Rio Preto - AME São José do Rio Preto.
+### _Denomina "Eugênio Rocha Mendes de Oliveira" o Ambulatório Médico de Especialidades de São José do Rio Preto - AME São José do Rio Preto._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

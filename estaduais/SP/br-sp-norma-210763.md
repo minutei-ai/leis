@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 350/2024, do Deputado Altair Moraes - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação Washi-Ki-O Karate-Do Shorin-Ryu, com sede em Capivari.
+### _Declara de utilidade pública a Associação Washi-Ki-O Karate-Do Shorin-Ryu, com sede em Capivari._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

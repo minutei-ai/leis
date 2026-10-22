@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 41/2017, do Deputado Léo Oliveira - MDB)
 
-### Declara patrimônios culturais imateriais do Estado a Folia de Reis e o Encontro Nacional de Folia de Reis realizados no Município de Ribeirão Preto
+### _Declara patrimônios culturais imateriais do Estado a Folia de Reis e o Encontro Nacional de Folia de Reis realizados no Município de Ribeirão Preto_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

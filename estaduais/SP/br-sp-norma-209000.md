@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1413/2023, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação dos Engenheiros, Arquitetos e Agrônomos da Região de Votuporanga - SEARVO, com sede naquele Município
+### _Declara de utilidade pública a Associação dos Engenheiros, Arquitetos e Agrônomos da Região de Votuporanga - SEARVO, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

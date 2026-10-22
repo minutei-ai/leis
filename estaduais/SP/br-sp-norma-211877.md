@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.565, DE 19 DE NOVEMBRO DE 2025
 
-### Aprova a indicação do Senhor Carlos Cezar da Silva para nomeação no cargo de Conselheiro do Tribunal de Contas do Estado.
+### _Aprova a indicação do Senhor Carlos Cezar da Silva para nomeação no cargo de Conselheiro do Tribunal de Contas do Estado._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 645/2023, do Deputado Felipe Franco - UNIÃO)
 
-### Altera a Lei n° 13.556, de 9 de junho de 2009, que institui o "Programa Bolsa Talento Esportivo"
+### _Altera a Lei n° 13.556, de 9 de junho de 2009, que institui o "Programa Bolsa Talento Esportivo"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

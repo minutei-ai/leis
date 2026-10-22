@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 577/2023, do Deputado Gerson Pessoa - PODE)
 
-### Institui o "Dia da Paz e Gentileza nas Escolas".
+### _Institui o "Dia da Paz e Gentileza nas Escolas"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

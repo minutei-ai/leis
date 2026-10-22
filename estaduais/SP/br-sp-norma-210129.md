@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.982, DE 21 DE OUTUBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação de Base Operacional da PMRV no km 654+865m da Rodovia SP-294, no Município de Dracena, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação de Base Operacional da PMRV no km 654+865m da Rodovia SP-294, no Município de Dracena, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),
 

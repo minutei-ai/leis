@@ -2,7 +2,7 @@
 
 # ATO DA MESA N° 09/2025, DE 13 DE MARÇO DE 2025
 
-### Regulamenta o Comitê de Gestão Estratégica, instituído pelo Artigo 1°-B da Resolução n° 776/1996 e institui o Sistema de Governança da área administrativa da ALESP, incluindo seus comitês temáticos.
+### _Regulamenta o Comitê de Gestão Estratégica, instituído pelo Artigo 1°-B da Resolução n° 776/1996 e institui o Sistema de Governança da área administrativa da ALESP, incluindo seus comitês temáticos._
 
 A Mesa Diretora da Assembleia Legislativa do Estado de São Paulo, no uso das atribuições que lhe conferem as alíneas "a" e "f" do inciso II do artigo 14 do Regimento Interno da Assembleia Legislativa do Estado de São Paulo, 
 

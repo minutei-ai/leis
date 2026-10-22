@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1699/2023, do Deputado Altair Moraes – REPUBLICANOS)
 
-### Declara de utilidade pública a Associação de Judô Budokan de Peruíbe, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Judô Budokan de Peruíbe, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

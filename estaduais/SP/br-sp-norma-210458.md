@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.234, DE 23 DE DEZEMBRO DE 2024
 
-### Institui o novo Regulamento de Perícias Médicas e Saúde Ocupacional do Estado de São Paulo.
+### _Institui o novo Regulamento de Perícias Médicas e Saúde Ocupacional do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

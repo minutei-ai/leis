@@ -2,7 +2,7 @@
 
 # EMENDA CONSTITUCIONAL N° 54, DE 29 DE OUTUBRO DE 2024
 
-### Altera o § 2° do artigo 11 da Constituição do Estado.
+### _Altera o § 2° do artigo 11 da Constituição do Estado._
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3° do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:
 

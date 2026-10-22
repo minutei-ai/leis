@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 121/2024, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Comunidade Braços Abertos Brasil, com sede em Assis.
+### _Declara de utilidade pública a Comunidade Braços Abertos Brasil, com sede em Assis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

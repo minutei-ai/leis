@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 831/2023, do Deputado Léo Oliveira - MDB)
 
-### Declara de utilidade pública a Casa Belém, com sede em Santa Rita do Passa Quatro.
+### _Declara de utilidade pública a Casa Belém, com sede em Santa Rita do Passa Quatro._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

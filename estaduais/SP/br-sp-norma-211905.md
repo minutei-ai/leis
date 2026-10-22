@@ -5,7 +5,7 @@
 
 # _(Última atualização: ADI - TJSP n° 2398163-34.2025.8.26.0000 , de 16/12/2025)_
 
-### Dispõe sobre a extinção da Fundação para o Remédio Popular "Chopin Tavares de Lima" - FURP, altera a Lei n° 9.192, de 23 de novembro de 1995, e dá providências correlatas.
+### _Dispõe sobre a extinção da Fundação para o Remédio Popular "Chopin Tavares de Lima" - FURP, altera a Lei n° 9.192, de 23 de novembro de 1995, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.429, DE 16 DE JULHO DE 2025
 
-### Dispõe sobre a criação de varas de entrâncias final e intermediária e dá outras providências.
+### _Dispõe sobre a criação de varas de entrâncias final e intermediária e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

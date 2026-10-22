@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.298, DE 03 DE JANEIRO DE 2024
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2024 e dá providências correlatas.
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2024 e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1493/2023, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública a Associação Cultural Incena Brasil, com sede em Cubatão.
+### _Declara de utilidade pública a Associação Cultural Incena Brasil, com sede em Cubatão._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

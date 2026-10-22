@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.823, DE 04 DE SETEMBRO DE 2024
 
-### Altera o Decreto n° 53.980, de 29 de janeiro de 2009, que regulamenta o regime de adiantamento previsto nos artigos 38 a 45 da Lei n° 10.320, de 16 de dezembro de 1968.
+### _Altera o Decreto n° 53.980, de 29 de janeiro de 2009, que regulamenta o regime de adiantamento previsto nos artigos 38 a 45 da Lei n° 10.320, de 16 de dezembro de 1968._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

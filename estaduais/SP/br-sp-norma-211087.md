@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 7/2025, dos Deputados Fábio Faria de Sá - PODE, André Bueno - PL, Rogério Santos - MDB, Itamar Borges - MDB e Carla Morando - PSDB)
 
-### ~~Dispõe sobre a obrigatoriedade de autorização e regulamentação dos municípios do Estado para a utilização de motocicletas na prestação do serviço de transporte individual privado remunerado de passageiros e dá outras providências.~~
+### _~~Dispõe sobre a obrigatoriedade de autorização e regulamentação dos municípios do Estado para a utilização de motocicletas na prestação do serviço de transporte individual privado remunerado de passageiros e dá outras providências.~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 

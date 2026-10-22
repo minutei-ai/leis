@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.311, DE 29 DE DEZEMBRO DE 2025
 
-### Dispõe sobre procedimentos para a execução de emendas parlamentares individuais e de transferências voluntárias decorrentes de indicação parlamentar no âmbito da Administração Pública estadual, e dá providências correlatas.
+### _Dispõe sobre procedimentos para a execução de emendas parlamentares individuais e de transferências voluntárias decorrentes de indicação parlamentar no âmbito da Administração Pública estadual, e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

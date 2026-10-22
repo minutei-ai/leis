@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1691/2023, do Deputado Edmir Chedid - UNIÃO)
 
-### Declara de utilidade pública a Associação Beneficente Pescadores de Cristo, com sede em Bragança Paulista.
+### _Declara de utilidade pública a Associação Beneficente Pescadores de Cristo, com sede em Bragança Paulista._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

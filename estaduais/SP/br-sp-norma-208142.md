@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.727, DE 29 DE MAIO DE 2023
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, e dá outras providências
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, e dá outras providências_
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto na Lei Complementar n° 192, de 11 de março de 2022, no Convênio ICMS 199/22, de 22 de dezembro de 2022, e no Convênio ICMS 15/23, de 31 de março de 2023,
 

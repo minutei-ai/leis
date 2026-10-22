@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 370/2025, da Deputada Letícia Aguiar - PP)
 
-### Declara de utilidade pública a Comunidade Terapêutica "Olaria de Deus" - COTEOD, com sede em Piquete.
+### _Declara de utilidade pública a Comunidade Terapêutica "Olaria de Deus" - COTEOD, com sede em Piquete._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

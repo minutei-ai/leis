@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.475, DE 10 DE ABRIL DE 2025
 
-### Dispõe sobre a divulgação de compromissos públicos e a concessão de hospitalidades, brindes e presentes a agentes públicos da Administração Pública estadual.
+### _Dispõe sobre a divulgação de compromissos públicos e a concessão de hospitalidades, brindes e presentes a agentes públicos da Administração Pública estadual._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

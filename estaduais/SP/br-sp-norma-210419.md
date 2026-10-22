@@ -5,7 +5,7 @@
 
 # _(Última atualização: Ato da Mesa n° 34, de 27/12/2024)_
 
-### Institui o Programa de Aposentadoria Incentivada para servidores efetivos ou estáveis da Assembleia Legislativa do Estado de São Paulo - ALESP e dá outras providências.
+### _Institui o Programa de Aposentadoria Incentivada para servidores efetivos ou estáveis da Assembleia Legislativa do Estado de São Paulo - ALESP e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

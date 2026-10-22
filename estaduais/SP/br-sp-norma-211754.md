@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1516/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Antonio Carlos Bermejo" a passarela de código PAS 407/333, localizada no km 406+700m da Rodovia Miguel Jubran - SP-333, em Assis.
+### _Denomina "Antonio Carlos Bermejo" a passarela de código PAS 407/333, localizada no km 406+700m da Rodovia Miguel Jubran - SP-333, em Assis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

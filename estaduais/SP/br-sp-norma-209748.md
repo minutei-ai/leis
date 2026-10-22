@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1704/2023, do Deputado Rogério Santos - MDB)
 
-### Declara de utilidade pública a Associação Brasileira Autismo Conexão - ABRAAC, com sede em Osasco.
+### _Declara de utilidade pública a Associação Brasileira Autismo Conexão - ABRAAC, com sede em Osasco._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

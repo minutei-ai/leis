@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.899, DE 23 DE SETEMBRO DE 2024
 
-### Altera a redação do Decreto n° 68.577, de 5 de junho de 2024, que institui, junto à Secretaria de Meio Ambiente, Infraestrutura e Logística, o FINACLIMA-SP, e dá providências correlatas.
+### _Altera a redação do Decreto n° 68.577, de 5 de junho de 2024, que institui, junto à Secretaria de Meio Ambiente, Infraestrutura e Logística, o FINACLIMA-SP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

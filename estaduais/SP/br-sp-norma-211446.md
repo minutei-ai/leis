@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.867, DE 15 DE SETEMBRO DE 2025
 
-### Revoga os decretos que especifica.
+### _Revoga os decretos que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

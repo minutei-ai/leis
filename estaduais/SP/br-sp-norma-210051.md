@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.917, DE 25 DE SETEMBRO DE 2024
 
-### Homologa, por 180 (cento e oi­tenta) dias, o decreto da Pre­feita do Município de Barretos, que declarou Situação de Emer­gência em áreas do Município.
+### _Homologa, por 180 (cento e oi­tenta) dias, o decreto da Pre­feita do Município de Barretos, que declarou Situação de Emer­gência em áreas do Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifesta­ção do Chefe da Casa Militar e Coorde­nador Esta­dual de Proteção e Defesa Civil,  
 

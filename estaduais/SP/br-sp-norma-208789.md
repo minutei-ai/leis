@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.074, DE 09 DE NOVEMBRO DE 2023
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Santa Isabel.
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Santa Isabel._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

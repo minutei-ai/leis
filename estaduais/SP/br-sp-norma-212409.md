@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 928/2025, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Declara de utilidade pública a Sociedade Amigos de Bairro do Conjunto Habitacional Jardim Sapopemba, com sede na Capital.
+### _Declara de utilidade pública a Sociedade Amigos de Bairro do Conjunto Habitacional Jardim Sapopemba, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

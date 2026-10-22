@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1575/2023, do Deputado Alex Madureira - PL)
 
-### Denomina "Benedito Pereira de Campos" a rotatória em nível SPD 154/147, localizada no km 154,600 da Rodovia Samuel Castro de Neves - SP 147, em Piracicaba.
+### _Denomina "Benedito Pereira de Campos" a rotatória em nível SPD 154/147, localizada no km 154,600 da Rodovia Samuel Castro de Neves - SP 147, em Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

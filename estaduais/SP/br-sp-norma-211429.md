@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.853, DE 10 DE SETEMBRO DE 2025
 
-### Dá nova redação a dispositivos do Decreto n° 58.786, de 21 de dezembro de 2012, que dispõe sobre o Conselho de Orientação do Fundo de Apoio a Contribuintes do Estado de São Paulo.
+### _Dá nova redação a dispositivos do Decreto n° 58.786, de 21 de dezembro de 2012, que dispõe sobre o Conselho de Orientação do Fundo de Apoio a Contribuintes do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

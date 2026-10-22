@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 750/2024, da Deputada Marina Helou - REDE)
 
-### Declara de utilidade pública a Associação Educacional Aicó, com sede na Capital.
+### _Declara de utilidade pública a Associação Educacional Aicó, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

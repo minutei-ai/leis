@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1191/2023, dos Deputados Paulo Mansur - PL e Gil Diniz Bolsonaro - PL)
 
-### Autoriza a criação do Programa de Combate aos Crimes de Pedofilia e Exploração Sexual Infantil no âmbito das escolas estaduais e dá outras providências.
+### _Autoriza a criação do Programa de Combate aos Crimes de Pedofilia e Exploração Sexual Infantil no âmbito das escolas estaduais e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

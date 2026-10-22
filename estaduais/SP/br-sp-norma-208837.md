@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.110, DE 27 DE NOVEMBRO DE 2023
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais da Região Metropolitana de São Paulo e dá providências correlatas.
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais da Região Metropolitana de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

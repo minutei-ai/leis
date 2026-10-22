@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 366/2025, do Deputado Paulo Correa Jr - PSD)
 
-### Institui o "Dia do Agente de Viagens".
+### _Institui o "Dia do Agente de Viagens"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

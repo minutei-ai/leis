@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.175, DE 09 DE DEZEMBRO DE 2023
 
-### Transfere a gestão da Estação Ecológica do Noroeste Paulista do Estado de São Paulo para a Fundação para a Conservação e a Produção Florestal do Estado de São Paulo
+### _Transfere a gestão da Estação Ecológica do Noroeste Paulista do Estado de São Paulo para a Fundação para a Conservação e a Produção Florestal do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto na [Lei n° 8.316, de 5 de junho de 1993](https://www.al.sp.gov.br/norma/15769), no artigo 7° da [Lei n° 17.615, de 27 de dezembro de 2022](https://www.al.sp.gov.br/norma/206500), e no [Decreto n° 51.453, de 29 de dezembro de 2006](https://www.al.sp.gov.br/norma/69454),
 

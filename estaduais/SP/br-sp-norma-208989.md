@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.393, DE 22 DE DEZEMBRO DE 2023
 
-### Amplia, no Ministério Público, o Quadro de Cargos de Promotor de Justiça e dá outras providências
+### _Amplia, no Ministério Público, o Quadro de Cargos de Promotor de Justiça e dá outras providências_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

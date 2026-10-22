@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 793/2024, do Deputado Rogério Santos - MDB)
 
-### Declara de utilidade pública a Associação Beneficente Comunidade de Amor Rainha da Paz, com sede em Santana do Parnaíba.
+### _Declara de utilidade pública a Associação Beneficente Comunidade de Amor Rainha da Paz, com sede em Santana do Parnaíba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1430/2023, do Deputado Paulo Correa Jr - PSD)
 
-### Institui a "Rota de Cicloturismo da Costa da Mata Atlântica" no Estado.
+### _Institui a "Rota de Cicloturismo da Costa da Mata Atlântica" no Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

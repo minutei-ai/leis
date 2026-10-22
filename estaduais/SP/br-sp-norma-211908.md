@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 97/2024, do Deputado Capitão Telhada - PP)
 
-### Institui a "Semana do Soldado".
+### _Institui a "Semana do Soldado"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

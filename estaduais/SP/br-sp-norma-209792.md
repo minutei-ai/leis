@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1518/2023, do Deputado Milton Leite Filho - UNIÃO)
 
-### Assegura o direito de prioridade de matrícula, na mesma unidade escolar da rede pública estadual de ensino mais próxima de sua residência, aos estudantes que possuam os mesmos representantes legais, em razão de guarda, tutela ou adoção, e dá outras providências.
+### _Assegura o direito de prioridade de matrícula, na mesma unidade escolar da rede pública estadual de ensino mais próxima de sua residência, aos estudantes que possuam os mesmos representantes legais, em razão de guarda, tutela ou adoção, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.368, DE 05 DE MARÇO DE 2024
 
-### Declara situação de emergência em saúde pública no Estado de São Paulo em razão de epidemia de Dengue e dá outras providências.
+### _Declara situação de emergência em saúde pública no Estado de São Paulo em razão de epidemia de Dengue e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.216, DE 15 DE DEZEMBRO DE 2023
 
-### Altera a denominação e cria a unidade policial que especifica do Departamento de Polícia de Proteção à Cidadania "Dr. Luiz Lasserre Gomes" - DPPC, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e da providências correlatas.
+### _Altera a denominação e cria a unidade policial que especifica do Departamento de Polícia de Proteção à Cidadania "Dr. Luiz Lasserre Gomes" - DPPC, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e da providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

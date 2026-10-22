@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1054, de 2019, do Deputado Edmir Chedid - DEM)
 
-### Dá denominação ao dispositivo rodoviário que especifica
+### _Dá denominação ao dispositivo rodoviário que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

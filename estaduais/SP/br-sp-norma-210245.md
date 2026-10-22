@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.045, DE 14 DE NOVEMBRO DE 2024
 
-### Dispõe sobre a concessão de horário especial aos servidores, em decorrência da decisão proferida pelo Supremo Tribunal Federal no Tema n° 1.097 da Repercussão Geral.
+### _Dispõe sobre a concessão de horário especial aos servidores, em decorrência da decisão proferida pelo Supremo Tribunal Federal no Tema n° 1.097 da Repercussão Geral._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e e considerando a decisão proferida pelo Supremo Tribunal Federal no Tema n° 1.097 da Repercussão Geral (Recurso Extraordinário n° 1.237.867/SP),
 

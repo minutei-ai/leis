@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.020, DE 31 DE OUTUBRO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Jundiaí, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Jundiaí, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

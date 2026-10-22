@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1095/2025, do Deputado Itamar Borges – MDB)
 
-### Declara de utilidade pública a Associação de Apoio à Criança Carente e Pessoas Portadoras de Câncer de Araçatuba - AACC, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Apoio à Criança Carente e Pessoas Portadoras de Câncer de Araçatuba - AACC, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

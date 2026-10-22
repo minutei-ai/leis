@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.190, DE 14 DE DEZEMBRO DE 2023
 
-### Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Litoral Paulista", e aprova o respectivo regulamento.
+### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Litoral Paulista", e aprova o respectivo regulamento._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

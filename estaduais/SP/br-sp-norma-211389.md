@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 261/2024, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Institui o "Dia Estadual do Obreiro Evangélico".
+### _Institui o "Dia Estadual do Obreiro Evangélico"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

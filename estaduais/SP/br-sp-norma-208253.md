@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.787, DE 11 DE JULHO DE 2023
 
-### Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo, imóvel situado no Município de São Sebastião, necessário à implantação de programa habitacional, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo, imóvel situado no Município de São Sebastião, necessário à implantação de programa habitacional, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 1° e no inciso V do artigo 2° da Lei n° 4.132, de 10 de setembro de 1962,
 

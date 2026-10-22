@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.612, DE 15 DE JUNHO DE 2024
 
-### Concede a "Medalha do Mérito Turístico" às personalidades que especifica.
+### _Concede a "Medalha do Mérito Turístico" às personalidades que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

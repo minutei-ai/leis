@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.038, DE 23 DE OUTUBRO DE 2023
 
-### Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelo falecimento da estudante Giovanna Bezerra da Silva, vítima da tragédia ocorrida na Escola Estadual Sapopemba, no Município de São Paulo.
+### _Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelo falecimento da estudante Giovanna Bezerra da Silva, vítima da tragédia ocorrida na Escola Estadual Sapopemba, no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

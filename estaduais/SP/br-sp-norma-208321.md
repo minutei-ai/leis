@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 272, de 2019, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Francisco Alves Cavalcante" o Centro de Lazer do Trabalhador, em Bastos
+### _Denomina "Francisco Alves Cavalcante" o Centro de Lazer do Trabalhador, em Bastos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

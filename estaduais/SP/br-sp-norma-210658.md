@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 644/2023, do Deputado Vinicius Camarinha - PSDB)
 
-### Declara de utilidade pública a Associação de Apoio à Pessoa com Câncer - APECAN, com sede em Ribeirão do Sul.
+### _Declara de utilidade pública a Associação de Apoio à Pessoa com Câncer - APECAN, com sede em Ribeirão do Sul._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

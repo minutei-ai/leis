@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.477, DE 10 DE ABRIL DE 2025
 
-### Concede a Medalha dos Bandeirantes à personalidade que especifica.
+### _Concede a Medalha dos Bandeirantes à personalidade que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

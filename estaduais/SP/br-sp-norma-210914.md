@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.522, DE 06 DE MAIO DE 2025
 
-### Altera o Decreto n° 62.492, de 23 de fevereiro de 2017, que instituiu, junto à Secretaria de Desenvolvimento Social, o Comitê Gestor Estadual do Programa Criança Feliz e dá providências correlatas.
+### _Altera o Decreto n° 62.492, de 23 de fevereiro de 2017, que instituiu, junto à Secretaria de Desenvolvimento Social, o Comitê Gestor Estadual do Programa Criança Feliz e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

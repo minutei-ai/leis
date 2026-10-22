@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.876, DE 14 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA VIAPAULISTA S.A., as áreas necessárias à pavimentação do trecho entre o km 1+469m e o km 9+700m da SPA-334/334, nos Municípios de Brodowski e Jardinópolis, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA VIAPAULISTA S.A., as áreas necessárias à pavimentação do trecho entre o km 1+469m e o km 9+700m da SPA-334/334, nos Municípios de Brodowski e Jardinópolis, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do dispositivo do Decreto-Lei Federal n°. 3.365, de 21 de junho de 1941, e no [Decreto n°. 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),  
 

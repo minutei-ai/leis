@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 476/2024, da Deputada Dani Alonso - PL)
 
-### Denomina "Milton Tédde" o dispositivo de acesso e retorno com passagem inferior, código SPD 464/294, localizado no km 464 + 150m da Rodovia Comandante João Ribeiro de Barros - SP 294, em Marília.
+### _Denomina "Milton Tédde" o dispositivo de acesso e retorno com passagem inferior, código SPD 464/294, localizado no km 464 + 150m da Rodovia Comandante João Ribeiro de Barros - SP 294, em Marília._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.772, DE 14 DE AGOSTO DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha 200 Anos da Independência do Brasil", instituída pelo Instituto Histórico Militar - IHM, e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha 200 Anos da Independência do Brasil", instituída pelo Instituto Histórico Militar - IHM, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,    
 

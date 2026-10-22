@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 640/2021, do Deputado Rafael Silva - PSB)
 
-### Declara o Município de Ribeirão Preto como a "Capital do Chope e das Cervejas Artesanais".
+### _Declara o Município de Ribeirão Preto como a "Capital do Chope e das Cervejas Artesanais"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:      
 

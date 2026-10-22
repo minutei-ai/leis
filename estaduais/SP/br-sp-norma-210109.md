@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.965, DE 14 DE OUTUBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à implantação de estação elevatória de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Vila Jaraguá, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à implantação de estação elevatória de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Vila Jaraguá, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

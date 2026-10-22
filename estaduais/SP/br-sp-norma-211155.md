@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 991/2023, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Beth Shalom Casa de Paz, com sede em Ibitinga.
+### _Declara de utilidade pública a Beth Shalom Casa de Paz, com sede em Ibitinga._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

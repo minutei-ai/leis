@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.347, DE 29 DE FEVEREIRO DE 2024
 
-### Dispõe sobre o Sistema Estadual de Trânsito do Estado de São Paulo, o Conselho Estadual de Trânsito, as Juntas Administrativas de Recursos de Infrações, o Programa Respeito à Vida e o Sistema de Informações Gerenciais de Sinistros de Trânsito, e dá providências correlatas
+### _Dispõe sobre o Sistema Estadual de Trânsito do Estado de São Paulo, o Conselho Estadual de Trânsito, as Juntas Administrativas de Recursos de Infrações, o Programa Respeito à Vida e o Sistema de Informações Gerenciais de Sinistros de Trânsito, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando as disposições da Lei federal n° 9.503, de 23 de setembro de 1997,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.540, DE 16 DE MAIO DE 2025
 
-### Institui a gestão centralizada de credenciais de acesso a sistemas informatizados no âmbito da Administração Pública direta e autárquica e dá providências correlatas.
+### _Institui a gestão centralizada de credenciais de acesso a sistemas informatizados no âmbito da Administração Pública direta e autárquica e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

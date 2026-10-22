@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.538, DE 22 DE MAIO DE 2024
 
-### Institui o Plano São Paulo na Direção Certa, que dispõe sobre diretrizes e ações a serem implementadas para modernização da Administração Pública estadual, expansão do investimento, eficiência do gasto público e redução de despesas correntes, e dá providências correlatas.
+### _Institui o Plano São Paulo na Direção Certa, que dispõe sobre diretrizes e ações a serem implementadas para modernização da Administração Pública estadual, expansão do investimento, eficiência do gasto público e redução de despesas correntes, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

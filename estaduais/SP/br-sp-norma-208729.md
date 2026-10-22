@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 751/2023, da Deputada Márcia Lia - PT)
 
-### Declara de utilidade pública a Associação Araraquarense de Proteção aos Animais, com sede em Araraquara
+### _Declara de utilidade pública a Associação Araraquarense de Proteção aos Animais, com sede em Araraquara_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

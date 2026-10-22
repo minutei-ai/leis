@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.348, DE 07 DE FEVEREIRO DE 2025
 
-### Institui o Comitê de Assessoramento Estratégico para Políticas de Segurança Pública - CAESP.
+### _Institui o Comitê de Assessoramento Estratégico para Políticas de Segurança Pública - CAESP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

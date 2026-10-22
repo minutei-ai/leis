@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1526/2023, do Deputado Marcos Damasio - PL)
 
-### Declara de utilidade pública a Associação de Desportos do Alto Tietê - ADAT, com sede em Suzano.
+### _Declara de utilidade pública a Associação de Desportos do Alto Tietê - ADAT, com sede em Suzano._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

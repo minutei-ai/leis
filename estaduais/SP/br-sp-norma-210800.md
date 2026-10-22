@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 358/2024, da Deputada Ana Carolina Serra - CIDADANIA)
 
-### Institui o "Dia Estadual do Trabalho dos Fundos Sociais de Solidariedade do Estado de São Paulo".
+### _Institui o "Dia Estadual do Trabalho dos Fundos Sociais de Solidariedade do Estado de São Paulo"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

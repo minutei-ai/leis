@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei Complementar n° 1.432, de 16/07/2025)_
 
-### Dispõe sobre a criação do Departamento de Instrução Processual Especializada - DIPE e cria cargos no Quadro da Secretaria do Tribunal de Contas do Estado de São Paulo.
+### _Dispõe sobre a criação do Departamento de Instrução Processual Especializada - DIPE e cria cargos no Quadro da Secretaria do Tribunal de Contas do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

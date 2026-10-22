@@ -2,7 +2,7 @@
 
 # EMENDA CONSTITUCIONAL N° 53, DE 19 DE DEZEMBRO DE 2023
 
-### Dá nova redação ao § 1° do artigo 167 da Constituição do Estado.
+### _Dá nova redação ao § 1° do artigo 167 da Constituição do Estado._
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3° do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:
 

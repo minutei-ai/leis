@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.869, DE 15 DE SETEMBRO DE 2025
 
-### Transfere a função-atividade que especifica e dá providências correlatas.
+### _Transfere a função-atividade que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos dos artigos 54 e 55 da [Lei Complementar n° 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762),
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 835/2021, da Deputada Dra. Damaris Moura - PSDB)
 
-### Altera a Lei n° 12.688, de 27 de setembro de 2007, a fim de que o "Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia" passe a ser comemorado, anualmente, no terceiro sábado de setembro
+### _Altera a Lei n° 12.688, de 27 de setembro de 2007, a fim de que o "Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia" passe a ser comemorado, anualmente, no terceiro sábado de setembro_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

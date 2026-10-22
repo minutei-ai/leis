@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1483/2023, da Deputada Valéria Bolsonaro - PL)
 
-### Institui o "Dia da Marcha em Defesa da Mulher".
+### _Institui o "Dia da Marcha em Defesa da Mulher"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

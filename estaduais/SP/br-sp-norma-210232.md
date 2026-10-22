@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.058, DE 14 DE NOVEMBRO DE 2024
 
-### Regulamenta a Lei Complementar n° 1.291, de 22 de julho de 2016, que institui a Lei de Ingresso na Polícia Militar do Estado de São Paulo, e dá providências correlatas.
+### _Regulamenta a Lei Complementar n° 1.291, de 22 de julho de 2016, que institui a Lei de Ingresso na Polícia Militar do Estado de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 535/2024, da Deputada Professora Bebel – PT)
 
-### Institui o "Dia Estadual do Cavaleiro".
+### _Institui o "Dia Estadual do Cavaleiro"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

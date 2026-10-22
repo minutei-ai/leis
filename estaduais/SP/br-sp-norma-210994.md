@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.470, de 27/05/2026)_
 
-### ~~Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica.~~
+### _~~Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica.~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 

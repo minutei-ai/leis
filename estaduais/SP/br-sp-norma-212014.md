@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 600/2025, da Deputada Letícia Aguiar - PL)
 
-### Declara de utilidade pública a Associação Comercial e Empresarial de Catanduva - ACE Catanduva, com sede naquele Município.
+### _Declara de utilidade pública a Associação Comercial e Empresarial de Catanduva - ACE Catanduva, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

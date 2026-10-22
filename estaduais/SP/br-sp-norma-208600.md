@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 15/2023, da Deputada Carla Morando - PSDB)
 
-### Inclui no Calendário Turístico do Estado a Volta Ciclística Internacional do Grande ABC
+### _Inclui no Calendário Turístico do Estado a Volta Ciclística Internacional do Grande ABC_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

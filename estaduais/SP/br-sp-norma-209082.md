@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.312, DE 18 DE JANEIRO DE 2024
 
-### Altera e acrescenta dispositivos aos decretos que especifica.
+### _Altera e acrescenta dispositivos aos decretos que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1497/2023, da Deputada Carla Morando - PSDB)
 
-### Institui o "Dia das Mulheres do Futebol de Várzea".
+### _Institui o "Dia das Mulheres do Futebol de Várzea"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

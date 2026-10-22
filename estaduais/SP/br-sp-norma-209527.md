@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.580, DE 05 DE JUNHO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 208+000 e 218+060m da Rodovia SP-304, nos Municípios de São Pedro e Santa Maria da Serra, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 208+000 e 218+060m da Rodovia SP-304, nos Municípios de São Pedro e Santa Maria da Serra, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.476, DE 10 DE ABRIL DE 2025
 
-### Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008.
+### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando o disposto no artigo 5° da Lei Federal n° 11.738, de 16 de julho de 2008, que trata da atualização do piso salarial profissional nacional do magistério público da educação básica,
 

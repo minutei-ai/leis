@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 683/2024, da Deputada Maria Lúcia Amary - PSDB)
 
-### Institui o "Dia Estadual do Fonoaudiólogo Educacional".
+### _Institui o "Dia Estadual do Fonoaudiólogo Educacional"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

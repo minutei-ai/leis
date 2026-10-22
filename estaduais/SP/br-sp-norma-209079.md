@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.308, DE 16 DE JANEIRO DE 2024
 
-### Regulamenta a Lei n° 13.798, de 9 de novembro de 2009, que dispõe sobre a Política Estadual de Mudanças Climáticas, reorganiza o Conselho Estadual de Mudanças Climáticas e o Comitê Gestor da Política Estadual de Mudanças Climáticas, e dá providências correlatas.
+### _Regulamenta a Lei n° 13.798, de 9 de novembro de 2009, que dispõe sobre a Política Estadual de Mudanças Climáticas, reorganiza o Conselho Estadual de Mudanças Climáticas e o Comitê Gestor da Política Estadual de Mudanças Climáticas, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

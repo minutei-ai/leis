@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 69.515, de 05/05/2025)_
 
-### Dispõe sobre a proteção, a saúde e o bem-estar na criação e na comercialização de cães e gatos no Estado de São Paulo, e dá providências correlatas.
+### _Dispõe sobre a proteção, a saúde e o bem-estar na criação e na comercialização de cães e gatos no Estado de São Paulo, e dá providências correlatas._
 
 _\- Vide [Decreto n° 69.515, de 05/05/2025](https://www.al.sp.gov.br/norma/210907)._
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 992/2023, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Denomina "Maria Alice Rama Donini" a passarela de código PAS 405/326, localizada no km 405+150m da Rodovia Brigadeiro Faria Lima - SP-326, em Colina.
+### _Denomina "Maria Alice Rama Donini" a passarela de código PAS 405/326, localizada no km 405+150m da Rodovia Brigadeiro Faria Lima - SP-326, em Colina._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

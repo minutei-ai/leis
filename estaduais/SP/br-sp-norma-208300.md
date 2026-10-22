@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.821, DE 19 DE JULHO DE 2023
 
-### Transfere, da Procuradoria Geral do Estado para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de São Paulo.
+### _Transfere, da Procuradoria Geral do Estado para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

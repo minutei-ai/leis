@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 498/2021, dos Deputados Leci Brandão - PCdoB, Marcio Nakashima - PDT, Márcia Lia - PT e Emídio de Souza - PT)
 
-### Declara o "hip-hop" patrimônio cultural imaterial do Estado.
+### _Declara o "hip-hop" patrimônio cultural imaterial do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

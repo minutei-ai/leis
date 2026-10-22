@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.734, DE 27 DE JULHO DE 2024
 
-### Dispõe sobre o reajuste do valor máximo para a aquisição de gêneros alimentícios através do Programa Paulista da Agricultura de Interesse Social - PPAIS e do subprograma PPAIS - LEITE, por agricultor, nos termos da Lei n° 14.591, de 14 de outubro de 2011, regulamentada pelo Decreto n° 57.755, de 24 de janeiro de 2012
+### _Dispõe sobre o reajuste do valor máximo para a aquisição de gêneros alimentícios através do Programa Paulista da Agricultura de Interesse Social - PPAIS e do subprograma PPAIS - LEITE, por agricultor, nos termos da Lei n° 14.591, de 14 de outubro de 2011, regulamentada pelo Decreto n° 57.755, de 24 de janeiro de 2012_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

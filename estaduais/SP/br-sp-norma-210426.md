@@ -2,7 +2,7 @@
 
 # LEI N° 18.075, DE 27 DE DEZEMBRO DE 2024
 
-### Dispõe sobre a criação de serventia extrajudicial na Comarca de Bertioga.
+### _Dispõe sobre a criação de serventia extrajudicial na Comarca de Bertioga._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

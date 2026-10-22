@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 354/2024, da Deputada Maria Lúcia Amary – PSDB)
 
-### Declara de utilidade pública a Fazendo Arte Associação Cultural, com sede em Sorocaba.
+### _Declara de utilidade pública a Fazendo Arte Associação Cultural, com sede em Sorocaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

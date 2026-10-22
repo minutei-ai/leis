@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 561/2025, do Deputado Edson Giriboni - UNIÃO)
 
-### Declara de utilidade pública o Instituto Verus, com sede em Sorocaba.
+### _Declara de utilidade pública o Instituto Verus, com sede em Sorocaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

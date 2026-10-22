@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.492, DE 30 DE ABRIL DE 2024
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da Lei n° 6.374, de 1° de março de 1989, e no Convênio ICMS 226/23, de 21 de dezembro de 2023,
 

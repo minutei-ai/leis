@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.267, DE 30 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 66.564, de 15 de março de 2022, que regulamenta a Lei n° 17.389, de 28 de julho de 2021, que proíbe a queima, a soltura, a comercialização, o armazenamento e o transporte de fogos de artifício de estampido no Estado de São Paulo e institui o Grupo de Trabalho Intersecretarial com o objetivo de estudar e propor ações que visem a aperfeiçoar o cumprimento das finalidades pretendidas pela Lei n° 17.389, de 28 de julho de 2021.
+### _Altera o Decreto n° 66.564, de 15 de março de 2022, que regulamenta a Lei n° 17.389, de 28 de julho de 2021, que proíbe a queima, a soltura, a comercialização, o armazenamento e o transporte de fogos de artifício de estampido no Estado de São Paulo e institui o Grupo de Trabalho Intersecretarial com o objetivo de estudar e propor ações que visem a aperfeiçoar o cumprimento das finalidades pretendidas pela Lei n° 17.389, de 28 de julho de 2021._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

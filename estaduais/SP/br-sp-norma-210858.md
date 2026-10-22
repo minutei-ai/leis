@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.474, DE 10 DE ABRIL DE 2025
 
-### Dispõe sobre o conflito de interesses no âmbito da Administração Pública direta e autárquica.
+### _Dispõe sobre o conflito de interesses no âmbito da Administração Pública direta e autárquica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

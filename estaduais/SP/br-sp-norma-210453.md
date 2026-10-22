@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.229, DE 23 DE DEZEMBRO DE 2024
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da São Paulo Previdência - SPPREV
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da São Paulo Previdência - SPPREV_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

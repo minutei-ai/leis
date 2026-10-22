@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 592/2020, do Deputado Gil Diniz - PL)
 
-### Cria o Cadastro Estadual de Pessoas Condenadas por Crime de Estupro.
+### _Cria o Cadastro Estadual de Pessoas Condenadas por Crime de Estupro._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.533, DE 13 DE MAIO DE 2025
 
-### Inclui dispositivo no Decreto n° 64.418, de 28 de agosto de 2019, que dispõe sobre os processos de dissolução, liquidação, extinção, transformação, fusão, incorporação ou cisão de empresas controladas direta ou indiretamente pelo Estado.
+### _Inclui dispositivo no Decreto n° 64.418, de 28 de agosto de 2019, que dispõe sobre os processos de dissolução, liquidação, extinção, transformação, fusão, incorporação ou cisão de empresas controladas direta ou indiretamente pelo Estado._
 
 O VICE-GOVERNADOR EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

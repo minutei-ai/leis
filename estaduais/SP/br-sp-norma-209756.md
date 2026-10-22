@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 123/2024, da Deputada Valeria Bolsonaro - PL)
 
-### Declara de utilidade pública a Associação de Apoio à Pessoa com Câncer Lucas Tapi, com sede em Vargem Grande do Sul.
+### _Declara de utilidade pública a Associação de Apoio à Pessoa com Câncer Lucas Tapi, com sede em Vargem Grande do Sul._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 922/2025, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública a Associação Kodokan Karate-Do Shorin Ryu de Itanhaém - AKKSRI, com sede naquele Município.
+### _Declara de utilidade pública a Associação Kodokan Karate-Do Shorin Ryu de Itanhaém - AKKSRI, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

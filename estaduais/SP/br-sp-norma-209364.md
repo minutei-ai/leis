@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1353/2023, da Deputada Marina Helou - REDE)
 
-### Declara de utilidade pública a Associação da Medula Óssea do Estado de São Paulo - AMEO, com sede na Capital.
+### _Declara de utilidade pública a Associação da Medula Óssea do Estado de São Paulo - AMEO, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

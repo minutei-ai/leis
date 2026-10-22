@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 425/2025, dos Deputados Marcelo Aguiar - PODE e Donato - PT)
 
-### Dispõe sobre o direito à instalação de estação de recarga individual para veículos elétricos em edificações residenciais e comerciais no Estado e dá outras providências.
+### _Dispõe sobre o direito à instalação de estação de recarga individual para veículos elétricos em edificações residenciais e comerciais no Estado e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

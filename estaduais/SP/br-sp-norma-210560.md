@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.331, DE 27 DE JANEIRO DE 2025
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante cessão de uso, a título oneroso e por prazo determinado, da empresa PRS Aeroportos S/A, imóvel de propriedade da União, localizado no Município de São Paulo.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante cessão de uso, a título oneroso e por prazo determinado, da empresa PRS Aeroportos S/A, imóvel de propriedade da União, localizado no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

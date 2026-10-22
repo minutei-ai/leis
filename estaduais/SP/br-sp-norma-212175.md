@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1315/2023, do Deputado Jorge Wilson Xerife do Consumidor - REPUBLICANOS)
 
-### Dispõe sobre a obrigatoriedade de as empresas de cartões de crédito ou débito avisarem os consumidores ou clientes sobre a ocorrência de bloqueio do cartão de crédito ou débito.
+### _Dispõe sobre a obrigatoriedade de as empresas de cartões de crédito ou débito avisarem os consumidores ou clientes sobre a ocorrência de bloqueio do cartão de crédito ou débito._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

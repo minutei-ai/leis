@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.341, DE 04 DE FEVEREIRO DE 2025
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante concessão de uso, a título gratuito e por prazo determinado, do Município de São Paulo, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante concessão de uso, a título gratuito e por prazo determinado, do Município de São Paulo, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

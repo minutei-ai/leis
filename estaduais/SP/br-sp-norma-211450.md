@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.871, DE 15 DE SETEMBRO DE 2025
 
-### Fixa o Quadro de Pessoal da Fundação Pró-Sangue - Hemocentro de São Paulo
+### _Fixa o Quadro de Pessoal da Fundação Pró-Sangue - Hemocentro de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e com fundamento na competência privativa que lhe confere o inciso XII do artigo 47 da Constituição do Estado,
 

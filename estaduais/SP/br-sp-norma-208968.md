@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.219, DE 15 DE DEZEMBRO DE 2023
 
-### Dá nova redação a dispositivo do Decreto n° 65.664, de 30 de abril de 2021, que dispõe sobre o Conselho Estadual do Trabalho, Emprego e Renda do Estado de São Paulo - CETER-SP
+### _Dá nova redação a dispositivo do Decreto n° 65.664, de 30 de abril de 2021, que dispõe sobre o Conselho Estadual do Trabalho, Emprego e Renda do Estado de São Paulo - CETER-SP_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

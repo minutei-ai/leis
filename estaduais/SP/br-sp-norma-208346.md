@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.837, DE 27 DE JULHO DE 2023
 
-### Criação da Escola Técnica Estadual - ETEC de Bragança Paulista, no Município de Bragança Paulista.
+### _Criação da Escola Técnica Estadual - ETEC de Bragança Paulista, no Município de Bragança Paulista._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,
 

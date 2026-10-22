@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.742, DE 05 DE AGOSTO DE 2024
 
-### Estabelece a organização da Administração Pública direta e das autarquias do Estado, regulamenta a Lei Complementar n° 1.395, de 22 de dezembro de 2023, e dá providências correlatas.
+### _Estabelece a organização da Administração Pública direta e das autarquias do Estado, regulamenta a Lei Complementar n° 1.395, de 22 de dezembro de 2023, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

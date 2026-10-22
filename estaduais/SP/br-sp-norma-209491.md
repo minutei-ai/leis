@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.556, DE 23 DE MAIO DE 2024
 
-### Transfere o cargo que especifica e dá providências correlatas.
+### _Transfere o cargo que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

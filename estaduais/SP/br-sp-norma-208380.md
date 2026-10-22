@@ -5,7 +5,7 @@
 
 # _(Última atualização: Republicação de 14/08/2023)_
 
-### Dispõe sobre o uso pelos parlamentares de veículos locados pela Assembleia Legislativa do Estado de São Paulo e revoga o Ato da Mesa n° 13, de 9 de abril de 2021
+### _Dispõe sobre o uso pelos parlamentares de veículos locados pela Assembleia Legislativa do Estado de São Paulo e revoga o Ato da Mesa n° 13, de 9 de abril de 2021_
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das atribuições que lhe confere a alínea "a", do inciso I, do artigo 14 de seu Regimento Interno, RESOLVE:
 

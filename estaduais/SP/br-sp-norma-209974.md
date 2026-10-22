@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 586/2020, do Deputado Frederico d'Avila - PSL)
 
-### Denomina "Israel Sverner" a Rodovia de Acesso SPA 262/258, localizada no km 262+430m da Rodovia Francisco Alves Negrão SP258, localizada no Município de Taquarivaí.
+### _Denomina "Israel Sverner" a Rodovia de Acesso SPA 262/258, localizada no km 262+430m da Rodovia Francisco Alves Negrão SP258, localizada no Município de Taquarivaí._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

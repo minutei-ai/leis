@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 957/2023, da Deputada Márcia Lia - PT)
 
-### Declara de utilidade pública a Associação de Árbitros de Dobrada e Região - AADR, com sede naquele Município
+### _Declara de utilidade pública a Associação de Árbitros de Dobrada e Região - AADR, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

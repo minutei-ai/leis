@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.495, de 02/07/2026)_
 
-### Autoriza o Poder Executivo a contratar operações de crédito e a prestar contragarantias aos projetos que especifica, e dá providências correlatas.
+### _Autoriza o Poder Executivo a contratar operações de crédito e a prestar contragarantias aos projetos que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

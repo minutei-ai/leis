@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 425/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação Regional dos Engenheiros de Ilha Solteira e Adjacências - AREIA, com sede naquele Município.
+### _Declara de utilidade pública a Associação Regional dos Engenheiros de Ilha Solteira e Adjacências - AREIA, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

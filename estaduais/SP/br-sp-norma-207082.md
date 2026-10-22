@@ -5,7 +5,7 @@
 
 # _(Última atualização: Ato da Mesa n° 9, de 13/03/2025)_
 
-### Dispõe sobre a governança e a política de sustentabilidade na Assembleia Legislativa do Estado de São Paulo - ALESP.
+### _Dispõe sobre a governança e a política de sustentabilidade na Assembleia Legislativa do Estado de São Paulo - ALESP._
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições, considerando a implantação do Programa ALESP Preserva, programa de sustentabilidade que prevê ações para neutralizar a emissão de carbono, reduzir o consumo de água e papel, e investir na produção de energia renovável para economia dos recursos públicos na ALESP, bem como a necessidade de aprimoramento e disseminação das boas práticas relacionadas à sustentabilidade na ALESP, RESOLVE:
 

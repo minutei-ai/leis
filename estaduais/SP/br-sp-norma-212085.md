@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1145/2025, do Deputado Bruno Zambelli - PL)
 
-### Declara de utilidade pública a Congregação Nacional das Associações, Condomínios e Empresas - CONACE, com sede na Capital.
+### _Declara de utilidade pública a Congregação Nacional das Associações, Condomínios e Empresas - CONACE, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

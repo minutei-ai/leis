@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 956/2023, do Deputado Vitão do Cachorrão - REPUBLICANOS)
 
-### Declara o Município de Sorocaba "Capital Estadual do American Barbecue".
+### _Declara o Município de Sorocaba "Capital Estadual do American Barbecue"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

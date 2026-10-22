@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 897/2024, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Declara de utilidade pública a Escola do Corpo, com sede em São José dos Campos.
+### _Declara de utilidade pública a Escola do Corpo, com sede em São José dos Campos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

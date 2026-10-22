@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.980, DE 25 DE SETEMBRO DE 2023
 
-### Institui o Comitê Estadual para Simplificação de Registro e Legalização de Empresas e Negócios do Estado de São Paulo - Comitê Facilita SP
+### _Institui o Comitê Estadual para Simplificação de Registro e Legalização de Empresas e Negócios do Estado de São Paulo - Comitê Facilita SP_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.547, DE 22 DE MAIO DE 2025
 
-### Dá denominação à Faculdade de Tecnologia - FATEC de São Roque, do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, localizada no Município de São Roque.
+### _Dá denominação à Faculdade de Tecnologia - FATEC de São Roque, do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, localizada no Município de São Roque._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

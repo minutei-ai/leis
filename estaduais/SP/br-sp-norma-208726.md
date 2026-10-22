@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 670/2022, do Deputado Carlos Cezar - PL)
 
-### Denomina "Ciro Manoel de Oliveira" o dispositivo de acesso e retorno tipo rotatória SDP 035/029, localizada no km 34,700m da Rodovia Coronel PM Nelson Tranchesi - SP 029, em Itapevi
+### _Denomina "Ciro Manoel de Oliveira" o dispositivo de acesso e retorno tipo rotatória SDP 035/029, localizada no km 34,700m da Rodovia Coronel PM Nelson Tranchesi - SP 029, em Itapevi_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

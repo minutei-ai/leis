@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 55/2025, da Deputada Edna Macedo - REPUBLICANOS)
 
-### Institui o "Dia das Semeadoras do Agro".
+### _Institui o "Dia das Semeadoras do Agro"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

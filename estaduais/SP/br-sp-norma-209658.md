@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 723/2023, da Deputada Marina Helou - REDE)
 
-### Institui o "Dia Estadual da Prematuridade".
+### _Institui o "Dia Estadual da Prematuridade"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

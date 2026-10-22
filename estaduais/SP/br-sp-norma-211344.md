@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 94/2023, dos Deputados Letícia Aguiar - PP e Gil Diniz - PL)
 
-### Reconhece como de relevante interesse cultural o antigo "Caminho do Ouro Paulista", rota turística que abrange os Municípios de Taubaté, Lagoinha, Cunha, Pindamonhangaba, Tremembé e São Luiz do Paraitinga.
+### _Reconhece como de relevante interesse cultural o antigo "Caminho do Ouro Paulista", rota turística que abrange os Municípios de Taubaté, Lagoinha, Cunha, Pindamonhangaba, Tremembé e São Luiz do Paraitinga._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

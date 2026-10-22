@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.590, DE 09 DE JUNHO DE 2025
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto de Medicina Social e de Criminologia de São Paulo - IMESC.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto de Medicina Social e de Criminologia de São Paulo - IMESC._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

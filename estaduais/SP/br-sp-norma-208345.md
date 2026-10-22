@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.836, DE 27 DE JULHO DE 2023
 
-### Dispõe sobre a outorga da "Medalha Ruth Cardoso".
+### _Dispõe sobre a outorga da "Medalha Ruth Cardoso"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, à vista da proposta formulada pelo Conselho Estadual da Condição Feminina e diante da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

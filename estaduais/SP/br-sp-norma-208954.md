@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.205, DE 15 DE DEZEMBRO DE 2023
 
-### Institui o Sistema de Informações Gerenciais do Governo de São Paulo e dá providências correlatas.
+### _Institui o Sistema de Informações Gerenciais do Governo de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições,
 

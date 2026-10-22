@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 592, de 2024, do Deputado Paulo Mansur - PL)
 
-### Institui o "Dia do Comunicador", incluindo-o no Calendário Oficial do Estado.
+### _Institui o "Dia do Comunicador", incluindo-o no Calendário Oficial do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

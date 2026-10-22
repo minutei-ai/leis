@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 860/2023, do Deputado Barros Munhoz - PSDB)
 
-### Dispõe sobre a instalação de barras de apoio nos boxes dos banheiros destinados à utilização de hóspedes em hotéis, pousadas e similares, e dá outras providências.
+### _Dispõe sobre a instalação de barras de apoio nos boxes dos banheiros destinados à utilização de hóspedes em hotéis, pousadas e similares, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

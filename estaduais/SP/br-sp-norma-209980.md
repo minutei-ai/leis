@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 947/2023, do Deputado Dani Alonso - PL)
 
-### Denomina "Vereador Rolando Moris" o viaduto SPD 472/294, localizado no km 472,430 da Rodovia Comandante João Ribeiro de Barros - SP 294, em Oriente.
+### _Denomina "Vereador Rolando Moris" o viaduto SPD 472/294, localizado no km 472,430 da Rodovia Comandante João Ribeiro de Barros - SP 294, em Oriente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

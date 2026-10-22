@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.717, DE 25 DE MAIO DE 2023
 
-### Dispõe sobre a publicação de atos no Diário Oficial do Estado de São Paulo.
+### _Dispõe sobre a publicação de atos no Diário Oficial do Estado de São Paulo._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

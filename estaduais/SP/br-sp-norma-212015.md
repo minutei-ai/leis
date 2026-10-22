@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 909/2025, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Getulina, com sede naquele Município.
+### _Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Getulina, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

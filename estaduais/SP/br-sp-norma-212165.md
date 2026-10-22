@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.337, DE 12 DE JANEIRO DE 2026
 
-### Autoriza a abertura de licitação para a concessão da prestação dos serviços de recolhimento, custódia, restituição e preparação para leilão de veículos recolhidos pelos órgãos de trânsito no Estado de São Paulo, e aprova o respectivo regulamento.
+### _Autoriza a abertura de licitação para a concessão da prestação dos serviços de recolhimento, custódia, restituição e preparação para leilão de veículos recolhidos pelos órgãos de trânsito no Estado de São Paulo, e aprova o respectivo regulamento._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED do modelo de concessão da prestação dos serviços de recolhimento, custódia, restituição e preparação para leilão de veículos recolhidos pelos órgãos de trânsito no Estado de São Paulo denominado "Serviços de Remoção e Guarda de Veículos do Estado de São Paulo", por ocasião da 19ª Reunião Ordinária do Programa de Parcerias de Investimentos do Estado de São Paulo (PPI-SP), referente à 55ª Reunião Conjunta Ordinária do Conselho Diretor do Programa Estadual de Desestatização - CDPED e do Conselho Gestor de Parcerias Público-Privadas - CGPPP, ocorrida em 10 de dezembro de 2025, cuja ata foi publicada no Diário Oficial de 18 de dezembro de 2025,
 

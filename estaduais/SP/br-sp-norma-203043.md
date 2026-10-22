@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 838, de 2021, dos Deputados Sergio Victor - NOVO e Ricardo Mellão - NOVO)
 
-### Institui o Código de Defesa do Empreendedor, que estabelece normas de proteção à livre iniciativa e ao livre exercício da atividade econômica, assim como disposições sobre a atuação do Estado como agente normativo e regulador
+### _Institui o Código de Defesa do Empreendedor, que estabelece normas de proteção à livre iniciativa e ao livre exercício da atividade econômica, assim como disposições sobre a atuação do Estado como agente normativo e regulador_
 
 _\- Vide [Decreto n° 67.979, de 25/09/2023](https://www.al.sp.gov.br/norma/208562)._
 

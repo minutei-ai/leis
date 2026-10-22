@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.000, DE 23 DE OUTUBRO DE 2024
 
-### Dispõe sobre a fixação de valor máximo anual para fins de pagamento das Bonificações por Resultados - BR, exercício 2023.
+### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento das Bonificações por Resultados - BR, exercício 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

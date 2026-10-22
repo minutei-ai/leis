@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 584/2020, da Deputada Delegada Graciela - PL)
 
-### ~~Classifica como de Interesse Turístico o Município de Pedregulho.~~
+### _~~Classifica como de Interesse Turístico o Município de Pedregulho.~~_
 
 ~~O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO~~
 

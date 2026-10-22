@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.641, DE 20 DE JUNHO DE 2024
 
-### Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas visando à reformulação e modernização do Programa VIVALEITE, de que trata o Decreto n° 44.569, de 22 de dezembro de 1999.
+### _Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas visando à reformulação e modernização do Programa VIVALEITE, de que trata o Decreto n° 44.569, de 22 de dezembro de 1999._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

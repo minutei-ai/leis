@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1023/2023, das Deputadas Clarice Ganem - PODE e Andréa Werner- PSB)
 
-### Dispõe sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio e superior das instituições estaduais de ensino.
+### _Dispõe sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio e superior das instituições estaduais de ensino._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 406/2023, do Deputado Mauro Bragato - PSDB)
 
-### Inclui no Calendário Turístico do Estado a Feira Tecnológica da Batata-doce - Batatec, em Presidente Prudente.
+### _Inclui no Calendário Turístico do Estado a Feira Tecnológica da Batata-doce - Batatec, em Presidente Prudente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

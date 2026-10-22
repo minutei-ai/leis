@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 343/2024, do Deputado Dani Alonso – PL)
 
-### Institui a Política Estadual de Conscientização e Atenção Integral à Saúde das Mulheres no Climatério e na Menopausa e dá outras providências.
+### _Institui a Política Estadual de Conscientização e Atenção Integral à Saúde das Mulheres no Climatério e na Menopausa e dá outras providências._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

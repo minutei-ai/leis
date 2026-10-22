@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1219/2023, do Deputado Carlos Cezar - PL)
 
-### Altera a Lei n° 16.722, de 18 de maio de 2018, para reproduzir o novo nome da entidade ali mencionada, Ong Asas Para o Futuro, assim como a nova localização de sua sede e filial.
+### _Altera a Lei n° 16.722, de 18 de maio de 2018, para reproduzir o novo nome da entidade ali mencionada, Ong Asas Para o Futuro, assim como a nova localização de sua sede e filial._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

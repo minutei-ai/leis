@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.274, DE 30 DE DEZEMBRO DE 2024
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da Lei n° 6.374, de 1° de março de 1989, no I Convênio do Rio de Janeiro, de 27 de fevereiro de 1967, no Convênio ICM 10/75, de 15 de julho de 1975, e nos Convênios ICMS 37/89, de 24 de abril de 1989, 99/89, de 24 de outubro de 1989, 27/90, de 13 de setembro de 1990, 29/90, de 13 de setembro de 1990, 88/91, de 5 de dezembro de 1991, 91/91, de 5 de dezembro de 1991, 48/93, de 30 de abril de 1993, 18/95, de 4 de abril de 1995, 80/95, de 26 de outubro de 1995, 107/95, de 11 de dezembro de 1995, 97/97, de 26 de setembro de 1997, 93/98, de 18 de setembro de 1998, 58/99, de 22 de outubro de 1999, 57/00, de 15 de setembro de 2000, 26/03, de 4 de abril de 2003, 09/05, de 1° de abril de 2005, 27/05, de 1° de abril de 2005, 27/07, de 30 de março de 2007, 144/07, de 14 de dezembro de 2007, 24/10, de 26 de março de 2010, 87/10, de 9 de julho de 2010, 8/11, de 1° de abril de 2011, 10/11, de 1° de abril de 2011, 141/11, de 16 de dezembro de 2011, 94/12, de 28 de setembro de 2012, 26/17, de 7 de abril de 2017, 114/17, de 29 de setembro de 2017, e 81/23, de 22 de junho de 2023,
 

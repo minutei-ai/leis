@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 554/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação dos Engenheiros, Arquitetos e Agrônomos de São Carlos - AEASC, com sede naquele Município.
+### _Declara de utilidade pública a Associação dos Engenheiros, Arquitetos e Agrônomos de São Carlos - AEASC, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.362, DE 19 DE FEVEREIRO DE 2025
 
-### Dispõe sobre a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Dispõe sobre a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 6°, do [Decreto-Lei n° 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos n° 54.486, de 26 de junho de 2009, n° 67.435, de 1° de janeiro de 2023, e n° 68.742, de 5 de agosto de 2024, que estabelece a organização da Administração Pública direta e das autarquias do Estado e regulamenta a [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), e no [Decreto 69.182, de 18 de dezembro de 2024](https://www.al.sp.gov.br/norma/210398), que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Fazenda e Planejamento,
 

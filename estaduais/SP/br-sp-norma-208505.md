@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.941, DE 15 DE SETEMBRO DE 2023
 
-### Institui o Provão Paulista Seriado, no âmbito do Sistema de Avaliação do Rendimento Escolar do Estado de São Paulo - SARESP, e dá providências correlatas.
+### _Institui o Provão Paulista Seriado, no âmbito do Sistema de Avaliação do Rendimento Escolar do Estado de São Paulo - SARESP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

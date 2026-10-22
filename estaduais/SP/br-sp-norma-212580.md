@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1332/2025, do Deputado Valdomiro Lopes - PSB)
 
-### Declara de utilidade pública a Associação Clínica de Bebês de São José do Rio Preto - ACBb, com sede naquele Município.
+### _Declara de utilidade pública a Associação Clínica de Bebês de São José do Rio Preto - ACBb, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

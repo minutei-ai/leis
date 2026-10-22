@@ -2,7 +2,7 @@
 
 # LEI N° 18.378, DE 23 DE DEZEMBRO DE 2025
 
-### Altera a Lei n° 16.283, de 15 de julho de 2016, que dispõe sobre o Fundo de Melhoria dos Municípios Turísticos e dá providências correlatas.
+### _Altera a Lei n° 16.283, de 15 de julho de 2016, que dispõe sobre o Fundo de Melhoria dos Municípios Turísticos e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

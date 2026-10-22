@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1459/2023, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Claudio Nobile Holzhausen" o dispositivo de acesso e retorno com viaduto - SPD 425/333, localizado no km 425,250 da Rodovia Miguel Jubran - SP 333, em Tarumã.
+### _Denomina "Claudio Nobile Holzhausen" o dispositivo de acesso e retorno com viaduto - SPD 425/333, localizado no km 425,250 da Rodovia Miguel Jubran - SP 333, em Tarumã._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

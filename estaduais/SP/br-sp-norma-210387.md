@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.189, DE 18 DE DEZEMBRO DE 2024
 
-### Transfere a unidade policial que especifica, no âmbito da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, altera sua denominação e dá providências correlatas.
+### _Transfere a unidade policial que especifica, no âmbito da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, altera sua denominação e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

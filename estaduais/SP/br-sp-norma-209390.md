@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1003/2023, do Deputado Dani Alonso - PL)
 
-### Inclui no Calendário Turístico do Estado a Festa do Ovo, em Bastos.
+### _Inclui no Calendário Turístico do Estado a Festa do Ovo, em Bastos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

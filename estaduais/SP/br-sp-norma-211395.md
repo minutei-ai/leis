@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 1127/2023, do Deputado Dirceu Dalben - CIDADANIA)
 
-### Denomina "Sumaré Cidade Orquídea" a Escola Técnica Estadual de Sumaré - ETEC Sumaré, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS.
+### _Denomina "Sumaré Cidade Orquídea" a Escola Técnica Estadual de Sumaré - ETEC Sumaré, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

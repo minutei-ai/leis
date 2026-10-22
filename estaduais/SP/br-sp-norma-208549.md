@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 428/2023, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Associação de Voluntários de Apoio a Paciente de Câncer - AVAPAC, com sede em Dracena
+### _Declara de utilidade pública a Associação de Voluntários de Apoio a Paciente de Câncer - AVAPAC, com sede em Dracena_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

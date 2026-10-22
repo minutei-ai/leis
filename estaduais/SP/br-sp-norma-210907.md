@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.515, DE 05 DE MAIO DE 2025
 
-### Estabelece prazo para que canis e gatis se adaptem às exigências contidas na Lei n° 17.972, de 10 de julho de 2024, e dá outras providências.
+### _Estabelece prazo para que canis e gatis se adaptem às exigências contidas na Lei n° 17.972, de 10 de julho de 2024, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

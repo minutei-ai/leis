@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 80/2024, do Deputado Reis - PT)
 
-### Institui o "Dia do Auxiliar de Papiloscopista Policial".
+### _Institui o "Dia do Auxiliar de Papiloscopista Policial"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.417, DE 12 DE MARÇO DE 2025
 
-### Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de São Paulo, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no artigo 1° e no inciso V do artigo 2° da Lei federal n° 4.132, de 10 de setembro de 1962,
 

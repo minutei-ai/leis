@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.719, DE 18 DE JULHO DE 2025
 
-### Institui, junto ao Fundo Social de São Paulo - FUSSP, o Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo e dá providências correlatas.
+### _Institui, junto ao Fundo Social de São Paulo - FUSSP, o Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

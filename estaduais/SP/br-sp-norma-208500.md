@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.920, DE 12 DE SETEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas complementares necessárias a obras de melhoria do dispositivo de acesso e retorno do km 41+600m da Rodovia SP-101, no Município de Capivari, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas complementares necessárias a obras de melhoria do dispositivo de acesso e retorno do km 41+600m da Rodovia SP-101, no Município de Capivari, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),
 

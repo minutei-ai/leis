@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 456/2019, do Deputado Sebastião Santos - PRB)
 
-### Declara o Município de Colina como a "Capital Estadual do Cavalo".
+### _Declara o Município de Colina como a "Capital Estadual do Cavalo"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

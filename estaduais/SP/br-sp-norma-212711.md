@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 722/2025, do Deputado Alex Madureira - PL)
 
-### Denomina "Engenheiro João Herrmann Neto" o dispositivo de acesso e retorno, de código SPD 171/304, localizado no km 171 + 400m da Rodovia Luiz de Queiroz - SP 304, no Município de Piracicaba.
+### _Denomina "Engenheiro João Herrmann Neto" o dispositivo de acesso e retorno, de código SPD 171/304, localizado no km 171 + 400m da Rodovia Luiz de Queiroz - SP 304, no Município de Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

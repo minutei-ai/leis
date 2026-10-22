@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.777, DE 27 DE JUNHO DE 2023
 
-### Altera o Estatuto da Fundação Sistema Estadual de Análise de Dados - SEADE, aprovado pelo Decreto n° 13.161, de 19 de janeiro de 1979.
+### _Altera o Estatuto da Fundação Sistema Estadual de Análise de Dados - SEADE, aprovado pelo Decreto n° 13.161, de 19 de janeiro de 1979._
 
 O Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

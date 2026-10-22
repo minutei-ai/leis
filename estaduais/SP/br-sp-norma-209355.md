@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.477, DE 24 DE ABRIL DE 2024
 
-### Altera o Decreto n° 67.856, de 1° de agosto de 2023, que regulamenta as Leis n° 17.621, de 3 de fevereiro de 2023, e n° 17.635, de 17 de fevereiro de 2023.
+### _Altera o Decreto n° 67.856, de 1° de agosto de 2023, que regulamenta as Leis n° 17.621, de 3 de fevereiro de 2023, e n° 17.635, de 17 de fevereiro de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

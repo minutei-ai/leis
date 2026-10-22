@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.859, DE 04 DE AGOSTO DE 2023
 
-### Cria e organiza, na Secretaria da Justiça e Cidadania, a Coordenadoria de Políticas para os Povos Indígenas, e dá providências correlatas.
+### _Cria e organiza, na Secretaria da Justiça e Cidadania, a Coordenadoria de Políticas para os Povos Indígenas, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

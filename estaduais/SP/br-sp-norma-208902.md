@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.156, DE 09 DE DEZEMBRO DE 2023
 
-### Regulamenta a Lei n° 10.294, de 20 de abril de 1999, que dispõe sobre a proteção e defesa do usuário do serviço público do Estado e dá providências correlatas.
+### _Regulamenta a Lei n° 10.294, de 20 de abril de 1999, que dispõe sobre a proteção e defesa do usuário do serviço público do Estado e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

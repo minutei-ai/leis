@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.373, DE 21 DE FEVEREIRO DE 2025
 
-### Dispõe sobre a oficialização da XVI Conferência Estadual da Pessoa Idosa e dá providências correlatas.
+### _Dispõe sobre a oficialização da XVI Conferência Estadual da Pessoa Idosa e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

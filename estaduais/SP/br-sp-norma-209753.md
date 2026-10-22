@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 77/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação dos Engenheiros e Arquitetos de Promissão - ASSENAP, com sede naquele Município.
+### _Declara de utilidade pública a Associação dos Engenheiros e Arquitetos de Promissão - ASSENAP, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

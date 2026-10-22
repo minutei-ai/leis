@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.330, DE 07 DE FEVEREIRO DE 2024
 
-### Altera o Decreto n° 67.642, de 10 de abril de 2023, que regulamenta a Lei n° 17.183, de 18 de outubro de 2019, para instituir o Comitê de Ações Preventivas da Política sobre Drogas.
+### _Altera o Decreto n° 67.642, de 10 de abril de 2023, que regulamenta a Lei n° 17.183, de 18 de outubro de 2019, para instituir o Comitê de Ações Preventivas da Política sobre Drogas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

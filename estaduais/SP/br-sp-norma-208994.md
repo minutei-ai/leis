@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 31/2022, do Deputado Murilo Felix - PODE)
 
-### Institui e inclui no Calendário Oficial de Eventos do Estado o "Dia do Técnico em Veterinária"
+### _Institui e inclui no Calendário Oficial de Eventos do Estado o "Dia do Técnico em Veterinária"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

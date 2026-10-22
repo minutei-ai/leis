@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.802, DE 17 DE JULHO DE 2023
 
-### Transfere atribuições da Secretaria da Justiça e Cidadania para a Secretaria de Agricultura e Abastecimento.
+### _Transfere atribuições da Secretaria da Justiça e Cidadania para a Secretaria de Agricultura e Abastecimento._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, em especial a prevista no artigo 47, inciso XIX, alínea "a", da Constituição do Estado,
 

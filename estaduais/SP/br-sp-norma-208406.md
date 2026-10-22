@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.545, DE 15 DE AGOSTO DE 2023
 
-### Manifesta concordância com a implementação do Convênio ICMS 83/23, ratificado pelo Decreto n° 67.861, de 4 de agosto de 2023.
+### _Manifesta concordância com a implementação do Convênio ICMS 83/23, ratificado pelo Decreto n° 67.861, de 4 de agosto de 2023._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 

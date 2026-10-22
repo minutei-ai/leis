@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1362/2023, da Deputada Delegada Graciela - PL)
 
-### Declara de utilidade pública o Esporte Clube Leporace, com sede em Franca.
+### _Declara de utilidade pública o Esporte Clube Leporace, com sede em Franca._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

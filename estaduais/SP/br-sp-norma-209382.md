@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 93/2024, do Deputado Delegado Olim - PP)
 
-### Institui o "Dia da Policial Civil Feminina".
+### _Institui o "Dia da Policial Civil Feminina"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

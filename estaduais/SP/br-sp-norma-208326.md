@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 181/2022, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Altera a Lei n° 9.369, de 6 de setembro de 1996, que institui o "Dia do Detetive Particular"
+### _Altera a Lei n° 9.369, de 6 de setembro de 1996, que institui o "Dia do Detetive Particular"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

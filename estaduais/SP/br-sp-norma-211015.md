@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 70.447, de 10/03/2026)_
 
-### Dispõe sobre a inspeção, fiscalização e auditoria sanitária e industrial de produtos de origem vegetal e seus derivados, e de produtos da algicultura e da fungicultura.
+### _Dispõe sobre a inspeção, fiscalização e auditoria sanitária e industrial de produtos de origem vegetal e seus derivados, e de produtos da algicultura e da fungicultura._
 
 _\-Vide [Decreto n° 70.447, de 10/03/2026](https://www.al.sp.gov.br/norma/212321)._
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.179, DE 18 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 56.562, de 21 de dezembro de 2010, que alterou a denominação do Programa Estadual de Proteção a Vítimas e Testemunhas - PROVITA/SP, e dá providências correlatas.
+### _Altera o Decreto n° 56.562, de 21 de dezembro de 2010, que alterou a denominação do Programa Estadual de Proteção a Vítimas e Testemunhas - PROVITA/SP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

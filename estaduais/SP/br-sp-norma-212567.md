@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 438/2024, da Deputada Maria Lúcia Amary - PSDB)
 
-### Declara de utilidade pública a Associação Piracicabana de Educação e Cultura - APEC, com sede em Piracicaba.
+### _Declara de utilidade pública a Associação Piracicabana de Educação e Cultura - APEC, com sede em Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

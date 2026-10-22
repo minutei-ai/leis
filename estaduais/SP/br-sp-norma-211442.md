@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.863, DE 15 DE SETEMBRO DE 2025
 
-### Altera o Decreto n° 69.234, de 28 de dezembro de 2024, que institui o novo Regulamento de Perícias Médicas e Saúde Ocupacional do Estado de São Paulo
+### _Altera o Decreto n° 69.234, de 28 de dezembro de 2024, que institui o novo Regulamento de Perícias Médicas e Saúde Ocupacional do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

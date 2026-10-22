@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 722/2019, dos Deputados Reinaldo Alguz - PV e Edson Giriboni - PV)
 
-### Denomina "Gen. Diogo Branco Ribeiro" o dispositivo de entroncamento, acesso e retorno com duplo viaduto SPD 209/270, localizado no km 208,700 da Rodovia Raposo Tavares - SP 270, em Campina do Monte Alegre
+### _Denomina "Gen. Diogo Branco Ribeiro" o dispositivo de entroncamento, acesso e retorno com duplo viaduto SPD 209/270, localizado no km 208,700 da Rodovia Raposo Tavares - SP 270, em Campina do Monte Alegre_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

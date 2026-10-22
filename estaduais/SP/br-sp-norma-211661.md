@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 863/2024, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Rede Feminina Regional de Combate ao Câncer de Osvaldo Cruz, com sede naquele Município.
+### _Declara de utilidade pública a Rede Feminina Regional de Combate ao Câncer de Osvaldo Cruz, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.456, DE 18 DE ABRIL DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, a área complementar necessária à implantação de Área de Descanso no km 233+400m, pista oeste, da Rodovia SP-333, no Município de Pongaí, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, a área complementar necessária à implantação de Área de Descanso no km 233+400m, pista oeste, da Rodovia SP-333, no Município de Pongaí, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 62.249, de 4 de novembro de 2016](https://www.al.sp.gov.br/norma/179800),
 

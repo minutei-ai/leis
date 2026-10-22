@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.460, DE 28 DE MARÇO DE 2025
 
-### Institui o Sistema Paulista de Bilhetagem para Trilhos - SPBT, sob a coordenação da Secretaria de Parcerias em Investimentos, com o objetivo de operacionalizar a política pública de bilhetagem e arrecadação dos serviços de transporte público coletivo de passageiros sobre trilhos prestados no âmbito do Estado.
+### _Institui o Sistema Paulista de Bilhetagem para Trilhos - SPBT, sob a coordenação da Secretaria de Parcerias em Investimentos, com o objetivo de operacionalizar a política pública de bilhetagem e arrecadação dos serviços de transporte público coletivo de passageiros sobre trilhos prestados no âmbito do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 419/2023, do Deputado Rafael Saraiva - UNIÃO)
 
-### Reconhece a expressão cultural "Vira-Lata Caramelo" como de relevante interesse cultural do Estado.
+### _Reconhece a expressão cultural "Vira-Lata Caramelo" como de relevante interesse cultural do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

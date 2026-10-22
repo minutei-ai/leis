@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.880, DE 15 DE AGOSTO DE 2023
 
-### Altera o Decreto n° 66.289, de 2 de dezembro de 2021, que regulamenta a Lei n° 17.383, de 5 de junho de 2021, para dispor sobre a adesão dos Municípios às respectivas Unidades Regionais de Serviços de Abastecimento de Água Potável e Esgotamento Sanitário - URAEs e sobre a estrutura de governança interfederativa de que trata o artigo 5° da referida lei e dá providências correlatas.
+### _Altera o Decreto n° 66.289, de 2 de dezembro de 2021, que regulamenta a Lei n° 17.383, de 5 de junho de 2021, para dispor sobre a adesão dos Municípios às respectivas Unidades Regionais de Serviços de Abastecimento de Água Potável e Esgotamento Sanitário - URAEs e sobre a estrutura de governança interfederativa de que trata o artigo 5° da referida lei e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

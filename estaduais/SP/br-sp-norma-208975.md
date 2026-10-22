@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.223, DE 19 DE DEZEMBRO DE 2023
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 59 da Lei n° 6.374, de 1° de março de 1989, no Convênio ICMS 60/18, de 5 de julho de 2018, e no Convênio ICMS 123/23, de 16 de agosto de 2023,
 

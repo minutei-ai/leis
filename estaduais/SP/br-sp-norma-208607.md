@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 443/2022, da Deputada Carla Morando - PSDB)
 
-### Denomina "Divanei Regina Bruschi Gossn" a Delegacia de Polícia de Defesa da Mulher de Votuporanga
+### _Denomina "Divanei Regina Bruschi Gossn" a Delegacia de Polícia de Defesa da Mulher de Votuporanga_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

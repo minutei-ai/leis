@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 354/2023, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Denomina "Padre Haroldo Joseph Rahm" o Ambulatório Médico de Especialidades de Campinas - AME Campinas.
+### _Denomina "Padre Haroldo Joseph Rahm" o Ambulatório Médico de Especialidades de Campinas - AME Campinas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

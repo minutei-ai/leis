@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1261/2023, do Deputado Marcos Damasio - PL)
 
-### Denomina "Rosina Ceregatto Fassis - Dona Rosa" a rotatória SPD 175/316, localizada no km 175,300 da Rodovia Constante Peruchi - SP 316, em Santa Gertrudes.
+### _Denomina "Rosina Ceregatto Fassis - Dona Rosa" a rotatória SPD 175/316, localizada no km 175,300 da Rodovia Constante Peruchi - SP 316, em Santa Gertrudes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

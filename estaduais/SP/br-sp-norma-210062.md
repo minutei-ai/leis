@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.927, DE 26 DE SETEMBRO DE 2024
 
-### Regulamenta a Lei n° 18.025, de 9 de setembro de 2024, que dispõe sobre a criação de programa habitacional para policiais civis, policiais militares, policiais técnico-científicos e policiais penais vinculados à Secretaria da Segurança Pública ou à Secretaria da Administração Penitenciária.
+### _Regulamenta a Lei n° 18.025, de 9 de setembro de 2024, que dispõe sobre a criação de programa habitacional para policiais civis, policiais militares, policiais técnico-científicos e policiais penais vinculados à Secretaria da Segurança Pública ou à Secretaria da Administração Penitenciária._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

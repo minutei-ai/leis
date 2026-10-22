@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1719/2023, dos Deputados Bruna Furlan - PSDB, Alex Madureira - PL, Altair Moraes - REPUBLICANOS, Ana Carolina Serra - CIDADANIA, Analice Fernandes - PSDB, Andréa Werner - PSB, Barros Munhoz - PSDB, Caio França - PSB, Carlão Pignatari - PSDB, Clarice Ganem - PODE, Conte Lopes - PL, Delegada Graciela - PL, Delegado Olim - PP, Dr. Eduardo Nóbrega - PODE, Edmir Chedid - UNIÃO, Edna Macedo - REPUBLICANOS, Gerson Pessoa - PODE, Gil Diniz - PL, Gilmaci Santos - REPUBLICANOS, Guto Zacarias - UNIÃO, Itamar Borges - MDB, Léo Oliveira - MDB, Leonardo Siqueira - NOVO, Lucas Bove - PL, Luiz Fernando T. Ferreira - PT, Major Mecca - PL, Marcio Nakashima - PDT, Marcos Damasio - PL, Maria Lúcia Amary - PSDB, Marina Helou - REDE, Marta Costa - PSD, Oseias de Madureira - PSD, Professora Bebel - PT, Rafa Zimbaldi - CIDADANIA, Rafael Saraiva - UNIÃO, Ricardo França - PODE, Ricardo Madalena - PL, Rogério Nogueira - PSDB, Rogério Santos - MDB, Rui Alves - REPUBLICANOS, Sebastião Santos - REPUBLICANOS, Solange Freitas - UNIÃO, Thiago Auricchio - PL, Tomé Abduch - REPUBLICANOS, Valdomiro Lopes - PSB, Vinícius Camarinha - PSDB.)
 
-### Dispõe sobre a normatização e consolidação dos vínculos da Administração Pública do Estado com as fundações civis de saúde das comunidades científicas de suas universidades públicas e hospitais universitários.
+### _Dispõe sobre a normatização e consolidação dos vínculos da Administração Pública do Estado com as fundações civis de saúde das comunidades científicas de suas universidades públicas e hospitais universitários._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

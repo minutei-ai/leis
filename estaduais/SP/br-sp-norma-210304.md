@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.126, DE 09 DE DEZEMBRO DE 2024
 
-### Altera a redação do Decreto n° 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da Administração direta e autárquica e dá providências correlatas.
+### _Altera a redação do Decreto n° 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da Administração direta e autárquica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

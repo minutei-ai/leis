@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.230, DE 23 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 69.052, de 14 de novembro de 2024 , que Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.
+### _Altera o Decreto n° 69.052, de 14 de novembro de 2024 , que Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

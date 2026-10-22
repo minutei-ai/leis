@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.784, DE 22 DE AGOSTO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargos, do Município de Ribeirão Preto, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargos, do Município de Ribeirão Preto, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

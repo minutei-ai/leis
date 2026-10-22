@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.157, DE 09 DE DEZEMBRO DE 2023
 
-### Institui o Programa de Proteção a Denunciantes de irregularidades ou ilícitos administrativos e de ações ou omissões lesivas à Administração Pública estadual, nos termos dos artigos 4°-A, 4°-B e "caput" do artigo 4°-C, todos da Lei federal n° 13.608, de 10 de janeiro de 2018, e dá providências correlatas
+### _Institui o Programa de Proteção a Denunciantes de irregularidades ou ilícitos administrativos e de ações ou omissões lesivas à Administração Pública estadual, nos termos dos artigos 4°-A, 4°-B e "caput" do artigo 4°-C, todos da Lei federal n° 13.608, de 10 de janeiro de 2018, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

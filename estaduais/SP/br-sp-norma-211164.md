@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 106/2025, do Deputado Oseias de Madureira - PSD)
 
-### Denomina "Conjunto Hospitalar do Mandaqui Bispa Keila Campos Costa Ferreira" o Conjunto Hospitalar do Mandaqui.
+### _Denomina "Conjunto Hospitalar do Mandaqui Bispa Keila Campos Costa Ferreira" o Conjunto Hospitalar do Mandaqui._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

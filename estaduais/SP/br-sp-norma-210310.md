@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.127, DE 09 DE DEZEMBRO DE 2024
 
-### Dispõe sobre as remessas de mercadorias entre estabelecimentos pertencentes ao mesmo titular e revoga o Decreto n° 68.243, de 22 de dezembro de 2023.
+### _Dispõe sobre as remessas de mercadorias entre estabelecimentos pertencentes ao mesmo titular e revoga o Decreto n° 68.243, de 22 de dezembro de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 109/24, de 3 de outubro de 2024,
 

@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 69.762, de 04/08/2025)_
 
-### Institui o Programa de Superação da Pobreza no Estado de São Paulo.
+### _Institui o Programa de Superação da Pobreza no Estado de São Paulo._
 
 _\- Vide [Decreto n° 69.762, de 04/08/2025](https://www.al.sp.gov.br/norma/211262)._
 

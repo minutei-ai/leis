@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 583/2024, do Deputado Milton Leite Filho - UNIÃO)
 
-### Assegura o direito de prioridade de atendimento no controle e tratamento do tabagismo ou nicotinismo para crianças e adolescentes, no âmbito do Sistema Único de Saúde - SUS no Estado, e dá outras providências.
+### _Assegura o direito de prioridade de atendimento no controle e tratamento do tabagismo ou nicotinismo para crianças e adolescentes, no âmbito do Sistema Único de Saúde - SUS no Estado, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

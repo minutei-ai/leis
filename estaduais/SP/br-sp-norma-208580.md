@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 451/2022, do Deputado Emidio de Souza – PT e do Deputado Marcio Nakashima - PDT)
 
-### Declara o Município de Bananal "Capital do Crochê de Barbante"
+### _Declara o Município de Bananal "Capital do Crochê de Barbante"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

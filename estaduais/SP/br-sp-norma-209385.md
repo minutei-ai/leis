@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1635/2023, do Deputado Paulo Fiorilo - PT)
 
-### Institui o "Dia da Imigração Alemã".
+### _Institui o "Dia da Imigração Alemã"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

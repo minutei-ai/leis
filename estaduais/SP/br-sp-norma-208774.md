@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 104/2023, da Deputada Leticia Aguiar - PP)
 
-### Declara de utilidade pública a Associação Esportiva e Cultural Pequeno Ninja, com sede em Novo Horizonte
+### _Declara de utilidade pública a Associação Esportiva e Cultural Pequeno Ninja, com sede em Novo Horizonte_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

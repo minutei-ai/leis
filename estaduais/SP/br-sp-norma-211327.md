@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.808, DE 18 DE AGOSTO DE 2025
 
-### Revoga o Decreto n° 67.853, de 28 de julho de 2023.
+### _Revoga o Decreto n° 67.853, de 28 de julho de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 16 da [Lei Complementar n° 1.320, de 6 de abril de 2018](https://www.al.sp.gov.br/norma/185824), e no [Decreto n° 64.453, de 6 de setembro de 2019](https://www.al.sp.gov.br/norma/191397),
 

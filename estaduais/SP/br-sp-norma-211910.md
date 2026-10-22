@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 754/2024, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública a Associação Cultural Esportiva Raízes, com sede em Olímpia.
+### _Declara de utilidade pública a Associação Cultural Esportiva Raízes, com sede em Olímpia._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

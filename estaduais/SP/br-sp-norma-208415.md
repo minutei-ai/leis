@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.888, DE 17 DE AGOSTO DE 2023
 
-### Regulamenta o § 1° do artigo 23 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre o procedimento administrativo de definição do valor estimado para aquisição de bens e contratação de serviços em geral, no âmbito da Administração Pública direta e autárquica.
+### _Regulamenta o § 1° do artigo 23 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre o procedimento administrativo de definição do valor estimado para aquisição de bens e contratação de serviços em geral, no âmbito da Administração Pública direta e autárquica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

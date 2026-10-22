@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.116, DE 28 DE NOVEMBRO DE 2023
 
-### Transfere a administração dos imóveis que especifica, localizados no Município de Francisco Morato.
+### _Transfere a administração dos imóveis que especifica, localizados no Município de Francisco Morato._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

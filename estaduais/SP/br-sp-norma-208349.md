@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.840, DE 27 DE JULHO DE 2023
 
-### Institui a Medalha Coronel PM Leônidas Tavares, do 1° Batalhão de Polícia Ambiental (1° BPAmb), e dá providências correlatas.
+### _Institui a Medalha Coronel PM Leônidas Tavares, do 1° Batalhão de Polícia Ambiental (1° BPAmb), e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

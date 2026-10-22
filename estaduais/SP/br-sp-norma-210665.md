@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1522/2023, dos Deputados Gerson Pessoa - PODE e Rogério Santos - MDB)
 
-### Declara de utilidade pública o Instituto de Desenvolvimento Social de Osasco - INDESO-SUNDIN, com sede naquele Município.
+### _Declara de utilidade pública o Instituto de Desenvolvimento Social de Osasco - INDESO-SUNDIN, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

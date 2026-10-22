@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1637/2023, dos Deputados Major Mecca - PL, Capitão Telhada - PP, Lucas Bove - PL, Dani Alonso - PL, Reis - PT, Conte Lopes - PL, Rafael Saraiva - UNIÃO, Delegado Olim - PP, Agente Federal Danilo Balas - PL, Gil Diniz - PL, Alex Madureira - PL, Guto Zacarias - UNIÃO e Paulo Mansur - PL)
 
-### Dispõe sobre o programa habitacional para policiais civis, policiais militares, policiais técnico-científicos, policiais penais, agentes de segurança penitenciária e agentes de escolta e vigilância penitenciária do Estado de São Paulo.
+### _Dispõe sobre o programa habitacional para policiais civis, policiais militares, policiais técnico-científicos, policiais penais, agentes de segurança penitenciária e agentes de escolta e vigilância penitenciária do Estado de São Paulo._
 
 _\- Vide [Decreto n° 68.927, de 26/09/2024](https://www.al.sp.gov.br/norma/210062), que regulamenta a lei._
 

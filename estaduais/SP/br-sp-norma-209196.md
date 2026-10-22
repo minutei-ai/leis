@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 999, do Deputado Carlos Cezar – PL)
 
-### Declara de utilidade pública a Associação Amigos do Jardim Majonel, com sede na Capital.
+### _Declara de utilidade pública a Associação Amigos do Jardim Majonel, com sede na Capital._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

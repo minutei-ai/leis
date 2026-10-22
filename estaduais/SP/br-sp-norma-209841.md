@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.771, DE 14 DE AGOSTO DE 2024
 
-### Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 6 de outubro de 2024, em primeiro turno, e 27 de outubro de 2024, em segundo turno, se houver.
+### _Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 6 de outubro de 2024, em primeiro turno, e 27 de outubro de 2024, em segundo turno, se houver._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e em atenção ao disposto no Código Eleitoral, Lei federal n° 4.737, de 15 de julho de 1965,    
 

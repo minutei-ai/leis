@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.544, DE 14 DE AGOSTO DE 2023
 
-### Reconhece, para efeitos do artigo 65 da Lei Complementar Federal n° 101, de 4 de maio de 2000, o estado de calamidade pública no Município de Araraquara.
+### _Reconhece, para efeitos do artigo 65 da Lei Complementar Federal n° 101, de 4 de maio de 2000, o estado de calamidade pública no Município de Araraquara._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 

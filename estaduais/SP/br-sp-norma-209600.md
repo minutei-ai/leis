@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 45/2022, do Deputado Caio França - PSB)
 
-### Institui a "Semana Estadual de Educação Midiática".
+### _Institui a "Semana Estadual de Educação Midiática"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

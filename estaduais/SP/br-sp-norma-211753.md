@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1461/2023, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Aparecido Pinto" o dispositivo de entroncamento de acesso e retorno com viaduto, de código SPD 445/333, localizado no km 445 da Rodovia Miguel Jubran - SP-333, em Florínea.
+### _Denomina "Aparecido Pinto" o dispositivo de entroncamento de acesso e retorno com viaduto, de código SPD 445/333, localizado no km 445 da Rodovia Miguel Jubran - SP-333, em Florínea._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

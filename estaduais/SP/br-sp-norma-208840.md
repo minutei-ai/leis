@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1304/2019, do Deputado Ed Thomas - PSB)
 
-### Denomina "Antonio José da Costa" a rodovia de acesso SPA 683/294, localizada no km 683,430 da Rodovia Comandante João Ribeiro de Barros - SP 294, em Paulicéia
+### _Denomina "Antonio José da Costa" a rodovia de acesso SPA 683/294, localizada no km 683,430 da Rodovia Comandante João Ribeiro de Barros - SP 294, em Paulicéia_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

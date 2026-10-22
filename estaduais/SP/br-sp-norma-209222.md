@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.405, DE 21 DE MARÇO DE 2024
 
-### Reformula as Oficinas Culturais do Estado, da Secretaria da Cultura, Economia e Indústria Criativas.
+### _Reformula as Oficinas Culturais do Estado, da Secretaria da Cultura, Economia e Indústria Criativas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

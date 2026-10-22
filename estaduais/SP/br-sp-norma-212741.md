@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 819/2024, do Deputado Valdomiro Lopes - PSB)
 
-### Declara de utilidade pública a Associação Multidisciplinar Florescer, com sede em José Bonifácio.
+### _Declara de utilidade pública a Associação Multidisciplinar Florescer, com sede em José Bonifácio._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

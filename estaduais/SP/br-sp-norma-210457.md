@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.233, DE 23 DE DEZEMBRO DE 2024
 
-### Dispõe sobre o compartilhamento de dados e informações de licitações e contratações realizadas pela Administração Pública estadual com o Sistema de Auditoria Eletrônica de Órgãos Públicos - AUDESP, do Tribunal de Contas do Estado de São Paulo.
+### _Dispõe sobre o compartilhamento de dados e informações de licitações e contratações realizadas pela Administração Pública estadual com o Sistema de Auditoria Eletrônica de Órgãos Públicos - AUDESP, do Tribunal de Contas do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

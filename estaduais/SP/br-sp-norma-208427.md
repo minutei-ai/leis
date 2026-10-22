@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.896, DE 21 DE AGOSTO DE 2023
 
-### Autoriza a outorga de uso, ao Município de Conchas, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Conchas, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1266/2023, do Deputado Jorge Caruso - MDB)
 
-### Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Jaguariúna - APAE de Jaguariúna.
+### _Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Jaguariúna - APAE de Jaguariúna._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

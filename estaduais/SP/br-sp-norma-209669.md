@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 511/2023, do Deputado Ricardo Madalena - PL)
 
-### Dá a denominação de "Catarina Torres Mercadante Leite do Canto" ao viaduto entre Marília e Assis, na Rodovia Rachid Rayes - SP 333, km 391+320m, na cidade de Assis.
+### _Dá a denominação de "Catarina Torres Mercadante Leite do Canto" ao viaduto entre Marília e Assis, na Rodovia Rachid Rayes - SP 333, km 391+320m, na cidade de Assis._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

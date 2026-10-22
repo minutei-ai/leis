@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 79/2024, do Deputado Altair Moraes - REPUBLICANOS)
 
-### Declara a "Cultura Gospel" como patrimônio cultural imaterial do Estado e dá outras providências.
+### _Declara a "Cultura Gospel" como patrimônio cultural imaterial do Estado e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

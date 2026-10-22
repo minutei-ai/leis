@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.178, DE 18 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 59.824, de 26 de novembro de 2013, que "Altera o Regulamento do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo", para dar nova redação ao Título XI, seus Capítulos, Seções e Artigos, no que se refere à nomenclatura da Escola de Educação Permanente.
+### _Altera o Decreto n° 59.824, de 26 de novembro de 2013, que "Altera o Regulamento do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo", para dar nova redação ao Título XI, seus Capítulos, Seções e Artigos, no que se refere à nomenclatura da Escola de Educação Permanente._
 
 O Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

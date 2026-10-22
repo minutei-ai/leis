@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.619, DE 11 DE JUNHO DE 2025
 
-### Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de veículos e passageiros denominado "Sistema de Travessias", e aprova o respectivo regulamento.
+### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de veículos e passageiros denominado "Sistema de Travessias", e aprova o respectivo regulamento._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, considerando a aprovação, pelo Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, criado pela [Lei n° 11.688, de 19 de maio de 2004](https://www.al.sp.gov.br/norma/50875), do modelo de concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de passageiros e veículos denominado "Sistema de Travessias", por ocasião da 53ª Reunião Conjunta Ordinária do Programa Estadual de Desestatização - CDPED e do CGPPP, ocorrida em 29 de maio de 2025, cuja ata foi publicada no Diário Oficial de 4 de junho de 2025,
 

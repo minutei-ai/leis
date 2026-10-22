@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 682/2025 da Deputada Delegada Graciela - PL)
 
-### Denomina "Hospital Estadual de Franca 'Dom Diógenes Silva Matthes'" o Hospital Estadual de Franca, com sede naquele Município.
+### _Denomina "Hospital Estadual de Franca 'Dom Diógenes Silva Matthes'" o Hospital Estadual de Franca, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

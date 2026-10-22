@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 757/2023, dos Deputados Capitão Telhada - PP, Marina Helou - REDE e Letícia Aguiar - PP)
 
-### Institui o "Maio Furta-Cor - Mês de conscientização e incentivo ao cuidado da saúde mental materna".
+### _Institui o "Maio Furta-Cor - Mês de conscientização e incentivo ao cuidado da saúde mental materna"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

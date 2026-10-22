@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.385, de 23/12/2025)_
 
-### Dispõe sobre o subsídio do Governador, do Vice-Governador e dos Secretários de Estado para o exercício financeiro de 2025.
+### _Dispõe sobre o subsídio do Governador, do Vice-Governador e dos Secretários de Estado para o exercício financeiro de 2025._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

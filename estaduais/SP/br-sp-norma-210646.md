@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.371, DE 21 DE FEVEREIRO DE 2025
 
-### Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de construção, operação, manutenção e realização dos investimentos necessários para a exploração do Sistema de Interligação entre os Municípios de Santos e Guarujá, aprova o respectivo regulamento e dá providências correlatas.
+### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de construção, operação, manutenção e realização dos investimentos necessários para a exploração do Sistema de Interligação entre os Municípios de Santos e Guarujá, aprova o respectivo regulamento e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a aprovação do modelo de concessão patrocinada pelo Conselho Gestor do Programa de Parcerias Público-Privadas-CGPPP, criado pela [Lei n° 11.688, de 19 de maio de 2004](https://www.al.sp.gov.br/norma/50875), na 15ª Reunião do Programa de Parcerias em Investimentos do Estado de São Paulo (PPI-SP), referente à 51ª Reunião Conjunta Ordinária do Conselho Gestor de Parcerias Público-Privadas/CGPPP e do Conselho Diretor do Programa Estadual de Desestatização/CDPED, cuja ata foi publicada no Diário Oficial do Estado de 14 de fevereiro de 2025,
 

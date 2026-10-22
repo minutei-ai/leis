@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 986/2023, do Deputado Gilmaci Santos - REPUBLICANOS)
 
-### Denomina "Sylvio Angelo Tavares" a passarela localizada no km 68,950 da Rodovia Santos Dumont - SP 075, em Campinas.
+### _Denomina "Sylvio Angelo Tavares" a passarela localizada no km 68,950 da Rodovia Santos Dumont - SP 075, em Campinas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

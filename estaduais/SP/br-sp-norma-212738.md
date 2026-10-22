@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 55/2024, da Deputada Carla Morando - PSDB)
 
-### Institui o "Dia Estadual do Setor Têxtil".
+### _Institui o "Dia Estadual do Setor Têxtil"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

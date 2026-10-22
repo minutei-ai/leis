@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1307/2023, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública a Associação no Caminho do Senhor, com sede em Ribeirão Preto.
+### _Declara de utilidade pública a Associação no Caminho do Senhor, com sede em Ribeirão Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

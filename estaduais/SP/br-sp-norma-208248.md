@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 466, de 2021, do Deputado Vinícius Camarinha - PSDB)
 
-### Declara de utilidade pública a entidade que especifica
+### _Declara de utilidade pública a entidade que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

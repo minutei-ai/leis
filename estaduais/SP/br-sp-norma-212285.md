@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 866/2025, do Deputado Edson Giriboni - UNIÃO)
 
-### Declara de utilidade pública a filial da Beneficência Nipo-Brasileira de São Paulo, Hospital de Itapetininga Dr. Léo Orsi Bernardes - HLOB, com sede naquele Município.
+### _Declara de utilidade pública a filial da Beneficência Nipo-Brasileira de São Paulo, Hospital de Itapetininga Dr. Léo Orsi Bernardes - HLOB, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1736/2023, da Deputada Marina Helou – REDE)
 
-### Declara de utilidade pública o Colégio Jesus Maria José e Centro Social Escola Amada, sediado no Município de Igarapava.
+### _Declara de utilidade pública o Colégio Jesus Maria José e Centro Social Escola Amada, sediado no Município de Igarapava._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

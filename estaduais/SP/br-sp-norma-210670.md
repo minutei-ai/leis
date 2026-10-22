@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 34/2024, do Deputado Itamar Borges - MDB)
 
-### Denomina "Emídio Araújo" a Rodovia de Acesso, de código SPA 626/320, com início no km 626 da Rodovia Euclides da Cunha - SP 320, compreendida entre o km 0,000 ao km 5,541, no Município de Santa Fé do Sul
+### _Denomina "Emídio Araújo" a Rodovia de Acesso, de código SPA 626/320, com início no km 626 da Rodovia Euclides da Cunha - SP 320, compreendida entre o km 0,000 ao km 5,541, no Município de Santa Fé do Sul_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

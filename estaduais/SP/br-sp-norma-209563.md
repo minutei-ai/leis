@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.619, DE 15 DE JUNHO DE 2024
 
-### Cria a Faculdade de Tecnologia - FATEC de Embu das Artes, no Município de Embu das Artes, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas.
+### _Cria a Faculdade de Tecnologia - FATEC de Embu das Artes, no Município de Embu das Artes, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,    
 

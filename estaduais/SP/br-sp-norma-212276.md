@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 141/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Prefeito Luiz Gonzaga Lança" a Escola Estadual no Jardim Primavera, em Taguaí.
+### _Denomina "Prefeito Luiz Gonzaga Lança" a Escola Estadual no Jardim Primavera, em Taguaí._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

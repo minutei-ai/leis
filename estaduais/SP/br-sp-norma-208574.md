@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.984, DE 27 DE SETEMBRO DE 2023
 
-### Integra ao Sistema Único de Saúde do Estado de São Paulo - SUS/SP, para fins de atribuição da Gratificação pelo Desempenho e Apoio às Atividades Periciais e de Assistência à Saúde - GDAPAS, e da Gratificação Especial de Suporte à Saúde - GESS, a unidade de saúde da Secretaria da Administração Penitenciária que especifica e dá providências correlatas.
+### _Integra ao Sistema Único de Saúde do Estado de São Paulo - SUS/SP, para fins de atribuição da Gratificação pelo Desempenho e Apoio às Atividades Periciais e de Assistência à Saúde - GDAPAS, e da Gratificação Especial de Suporte à Saúde - GESS, a unidade de saúde da Secretaria da Administração Penitenciária que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.818, DE 26 DE AGOSTO DE 2025
 
-### Altera o Decreto n° 58.438, de 9 de outubro de 2012, que aprova o Estatuto da Fundação Universidade Virtual do Estado de São Paulo - UNIVESP, e o Decreto n° 60.333, de 3 de abril de 2014, que aprova o Regimento Geral da Fundação Universidade Virtual do Estado de São Paulo - UNIVESP.
+### _Altera o Decreto n° 58.438, de 9 de outubro de 2012, que aprova o Estatuto da Fundação Universidade Virtual do Estado de São Paulo - UNIVESP, e o Decreto n° 60.333, de 3 de abril de 2014, que aprova o Regimento Geral da Fundação Universidade Virtual do Estado de São Paulo - UNIVESP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.398, DE 28 DE MAIO DE 2024
 
-### Institui o Programa Escola Cívico-Militar no Estado de São Paulo e dá providências correlatas.
+### _Institui o Programa Escola Cívico-Militar no Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

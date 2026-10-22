@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.009, DE 10 DE OUTUBRO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Taboão da Serra, os imóveis que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Taboão da Serra, os imóveis que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

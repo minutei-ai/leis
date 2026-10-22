@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.828, DE 04 DE SETEMBRO DE 2024
 
-### Institui o Programa Muralha Paulista e dá providências correlatas
+### _Institui o Programa Muralha Paulista e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

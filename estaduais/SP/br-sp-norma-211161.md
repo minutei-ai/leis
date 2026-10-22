@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 786/2024, do Altair Moraes - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação Fazendo a Diferença GRU, com sede em Guarulhos.
+### _Declara de utilidade pública a Associação Fazendo a Diferença GRU, com sede em Guarulhos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

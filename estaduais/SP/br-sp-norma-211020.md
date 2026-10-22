@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.585, DE 05 DE JUNHO DE 2025
 
-### Reorganiza o São Paulo Sempre Alerta - Plano Estadual de Resiliência à Estiagem, instituído pelo Decreto n° 68.733, de 25 de julho de 2024.
+### _Reorganiza o São Paulo Sempre Alerta - Plano Estadual de Resiliência à Estiagem, instituído pelo Decreto n° 68.733, de 25 de julho de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃOPAULO, no uso de suas atribuições legais,
 

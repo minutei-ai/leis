@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.700, DE 15 DE JULHO DE 2024
 
-### Dispõe sobre os procedimentos e critérios relativos à progressão dos empregados públicos de que tratam os artigos 21 a 24 da Lei Complementar n° 1.195, de 17 de janeiro de 2013.
+### _Dispõe sobre os procedimentos e critérios relativos à progressão dos empregados públicos de que tratam os artigos 21 a 24 da Lei Complementar n° 1.195, de 17 de janeiro de 2013._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

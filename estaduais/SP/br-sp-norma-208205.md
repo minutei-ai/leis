@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.759, DE 20 DE JUNHO DE 2023
 
-### Disciplina o procedimento para a realização de estudos referentes a projetos de parceria e de desestatização, no âmbito da Administração Pública direta, e dá providências correlatas.
+### _Disciplina o procedimento para a realização de estudos referentes a projetos de parceria e de desestatização, no âmbito da Administração Pública direta, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

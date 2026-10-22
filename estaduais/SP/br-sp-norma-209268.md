@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.421, DE 02 DE ABRIL DE 2024
 
-### Delega competência ao Secretário de Parcerias em Investimentos para os fins que especifica.
+### _Delega competência ao Secretário de Parcerias em Investimentos para os fins que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais Decreta:
 

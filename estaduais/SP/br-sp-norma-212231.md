@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 462/2025, do Deputado Caio França - PSB)
 
-### Declara a música eletrônica como bem de natureza imaterial integrante do patrimônio cultural do Estado.
+### _Declara a música eletrônica como bem de natureza imaterial integrante do patrimônio cultural do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

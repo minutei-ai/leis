@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.905, DE 23 DE SETEMBRO DE 2024
 
-### Integra servidores que especifica ao Quadro Especial vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística e dá providências correlatas.
+### _Integra servidores que especifica ao Quadro Especial vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

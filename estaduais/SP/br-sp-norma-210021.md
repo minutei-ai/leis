@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 184/2024, do Deputado Itamar Borges – MDB)
 
-### Declara de utilidade pública a Associação Conchetta Bettone Delai "Ser Criança", com sede em Mirandópolis.
+### _Declara de utilidade pública a Associação Conchetta Bettone Delai "Ser Criança", com sede em Mirandópolis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

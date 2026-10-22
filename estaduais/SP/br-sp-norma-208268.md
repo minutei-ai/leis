@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 829, de 2021, do Deputado Bruno Ganem - PODE)
 
-### Institui o "Dia Estadual do Pet"
+### _Institui o "Dia Estadual do Pet"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 749/2025, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública o Centro Comunitário Semente da Vida, com sede em Junqueirópolis.
+### _Declara de utilidade pública o Centro Comunitário Semente da Vida, com sede em Junqueirópolis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

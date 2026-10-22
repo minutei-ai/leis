@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.774, DE 14 DE AGOSTO DE 2024
 
-### Transfere, da Procuradoria Geral do Estado para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Mairiporã.
+### _Transfere, da Procuradoria Geral do Estado para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Mairiporã._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,    
 

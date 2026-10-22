@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 603/2022, do Deputado Reinaldo Alguz – UNIÃO)
 
-### Denomina "Amália Guilherme da Silva" a rodovia de acesso SPA 007/272 localizada no km 7,010 da Rodovia Olímpio Ferreira da Silva - SP 272, em Tarabai
+### _Denomina "Amália Guilherme da Silva" a rodovia de acesso SPA 007/272 localizada no km 7,010 da Rodovia Olímpio Ferreira da Silva - SP 272, em Tarabai_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

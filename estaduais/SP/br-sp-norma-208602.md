@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 497/2022, dos Deputados Coronel Nishikawa - PL e Tenente Coimbra - PL)
 
-### Denomina as Estações de Bombeiros que especifica, sediadas em Campinas e Mogi Guaçu
+### _Denomina as Estações de Bombeiros que especifica, sediadas em Campinas e Mogi Guaçu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

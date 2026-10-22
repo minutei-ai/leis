@@ -2,7 +2,7 @@
 
 # EMENDA CONSTITUCIONAL N° 55, DE 27 DE NOVEMBRO DE 2024
 
-### Altera a redação da Constituição do Estado na forma que especifica.
+### _Altera a redação da Constituição do Estado na forma que especifica._
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3° do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 577/2024, da Deputada Delegada Graciela - PL)
 
-### Declara de utilidade pública a Creche Eurípedes Barsanulfo, com sede em Franca.
+### _Declara de utilidade pública a Creche Eurípedes Barsanulfo, com sede em Franca._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

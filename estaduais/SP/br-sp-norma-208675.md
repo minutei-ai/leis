@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1012/2023, da Deputada Delegada Graciela - PL)
 
-### Declara de utilidade pública a Associação Educacional e Cultural Amigos Solidários, com sede em Franca
+### _Declara de utilidade pública a Associação Educacional e Cultural Amigos Solidários, com sede em Franca_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

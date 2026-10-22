@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 44/2024, da Deputada Valeria Bolsonaro - PL)
 
-### Denomina "Luiz Riguetti" o viaduto de transposição com o código VDT 097/330, localizado no km 97,540 da Via Anhanguera - SP 330, no Município de Campinas
+### _Denomina "Luiz Riguetti" o viaduto de transposição com o código VDT 097/330, localizado no km 97,540 da Via Anhanguera - SP 330, no Município de Campinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

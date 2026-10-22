@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.291, DE 03 DE JANEIRO DE 2025
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da Lei n° 6.374, de 1° de março de 1989, nos Convênios ICM 33/77, de 15 de setembro de 1977, 38/82, de 14 de dezembro de 1982, 65/88, de 6 de dezembro de 1988, e 7/89, de 27 de fevereiro de 1989, e nos Convênios ICMS 15/91, de 25 de abril de 1991, 17/92, de 3 de abril de 1992, 70/92, de 25 de junho de 1992, 49/94, de 30 de junho 1994, 100/97, de 4 de novembro de 1997, 89/05, de 17 de agosto de 2005, 141/07, de 14 de dezembro de 2007, e 43/10, de 26 de março de 2010,
 

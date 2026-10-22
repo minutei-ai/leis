@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1440/2023, da Deputada Maria Lúcia Amary - PSDB)
 
-### Denomina "Deputado Edmur Mesquita", o viaduto VDT 062/150, localizado no km 62,350m da Rodovia Anchieta - SP 150, em Santos.
+### _Denomina "Deputado Edmur Mesquita", o viaduto VDT 062/150, localizado no km 62,350m da Rodovia Anchieta - SP 150, em Santos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

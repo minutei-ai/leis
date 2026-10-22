@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.881, DE 14 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela INTERVIAS - Concessionária de Rodovias do Interior Paulista S/A, a área necessária à duplicação do trecho entre os km 49+700 e 74+721 da Rodovia SP-191, no Município de Rio Claro, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela INTERVIAS - Concessionária de Rodovias do Interior Paulista S/A, a área necessária à duplicação do trecho entre os km 49+700 e 74+721 da Rodovia SP-191, no Município de Rio Claro, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 42.840, de 4 de fevereiro de 1998](https://www.al.sp.gov.br/norma/6251),  
 

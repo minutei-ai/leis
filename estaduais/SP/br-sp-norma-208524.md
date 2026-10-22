@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.949, DE 15 DE SETEMBRO DE 2023
 
-### Dá denominação à Divisão de Contrainteligência Policial do Departamento de Inteligência da Polícia Civil - DIPOL, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública.
+### _Dá denominação à Divisão de Contrainteligência Policial do Departamento de Inteligência da Polícia Civil - DIPOL, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.782, DE 11 DE AGOSTO DE 2025
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Rubiácea, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Rubiácea, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

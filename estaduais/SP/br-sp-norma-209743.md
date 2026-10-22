@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.706, DE 23 DE JULHO DE 2024
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 83/06, de 6 de outubro de 2006, e no Convênio ICMS 84/09, de 25 de setembro de 2009,    
 

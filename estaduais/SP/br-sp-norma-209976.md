@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 659/2023, do Deputado Luiz Claudio Marcolino - PT)
 
-### Denomina "Mario Cavicchiolli - Cidadão Prestante" a via paralela de acesso à Rodovia Geraldo de Barros - SP 304, localizada entre o km 166,700 e o km 167,133, em Piracicaba.
+### _Denomina "Mario Cavicchiolli - Cidadão Prestante" a via paralela de acesso à Rodovia Geraldo de Barros - SP 304, localizada entre o km 166,700 e o km 167,133, em Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

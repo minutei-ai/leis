@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.234, DE 22 DE DEZEMBRO DE 2023
 
-### Regulamenta a Lei 17.615, de 27 de dezembro de 2022, que institui o Fundo de Aval para Desenvolvimento da Eficiência Energética no Estado de São Paulo - FAEE, e constitui o Conselho Estadual de Orientação de Eficiência Energética, e dá providências correlatas.
+### _Regulamenta a Lei 17.615, de 27 de dezembro de 2022, que institui o Fundo de Aval para Desenvolvimento da Eficiência Energética no Estado de São Paulo - FAEE, e constitui o Conselho Estadual de Orientação de Eficiência Energética, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

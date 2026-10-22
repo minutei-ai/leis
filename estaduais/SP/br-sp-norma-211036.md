@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.600, DE 09 DE JUNHO DE 2025
 
-### Cria a Faculdade de Tecnologia - FATEC de Atibaia, no Município de Atibaia, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas.
+### _Cria a Faculdade de Tecnologia - FATEC de Atibaia, no Município de Atibaia, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnologia Paula Souza - CEETEPS, e estando a medida inserida nos objetivos estabelecidos no Programa de Metas Prioritárias para o exercício de 2024 e no PPA,
 

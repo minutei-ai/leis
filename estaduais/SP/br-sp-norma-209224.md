@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.407, DE 21 DE MARÇO DE 2024
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5° e 38-A da Lei n° 6.374, de 1° de março de 1989, e no Convênio ICMS 22/23, de 14 de abril de 2023,    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.875, DE 19 DE SETEMBRO DE 2025
 
-### Transfere, da Secretaria da Administração Penitenciária para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de São Paulo, e revoga dispositivo do Decreto n° 46.883, de 2 de julho de 2002.
+### _Transfere, da Secretaria da Administração Penitenciária para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de São Paulo, e revoga dispositivo do Decreto n° 46.883, de 2 de julho de 2002._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

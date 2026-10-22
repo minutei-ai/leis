@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.325, DE 05 DE FEVEREIRO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Venceslau, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Venceslau, o imóvel que especifica._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 426/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Associação Maçônica para Saúde - AMASA, com sede em Ilha Solteira.
+### _Declara de utilidade pública a Associação Maçônica para Saúde - AMASA, com sede em Ilha Solteira._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

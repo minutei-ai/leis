@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.121, DE 09 DE DEZEMBRO DE 2024
 
-### Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2024 e dá providências correlatas.
+### _Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2024 e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

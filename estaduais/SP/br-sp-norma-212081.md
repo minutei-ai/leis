@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 363/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Estação do Bem, com sede em Rio Claro.
+### _Declara de utilidade pública a Estação do Bem, com sede em Rio Claro._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

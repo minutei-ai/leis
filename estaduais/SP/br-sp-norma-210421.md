@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 70.061, de 05/11/2025)_
 
-### Reorganiza a Controladoria Geral do Estado, criada pela Lei Complementar n.° 1.361, de 21 de outubro de 2021, institui a carreira de Auditor Estadual de Controle, do Quadro da Controladoria Geral do Estado, e dá providências correlatas.
+### _Reorganiza a Controladoria Geral do Estado, criada pela Lei Complementar n.° 1.361, de 21 de outubro de 2021, institui a carreira de Auditor Estadual de Controle, do Quadro da Controladoria Geral do Estado, e dá providências correlatas._
 
 _\- Vide [Decreto n° 70.061, de 05/11/2025](https://www.al.sp.gov.br/norma/211774)._
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.241, DE 22 DE DEZEMBRO DE 2023
 
-### Autoriza a outorga de uso, ao Município de São Roque, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de São Roque, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

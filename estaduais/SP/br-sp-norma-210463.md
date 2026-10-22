@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.238, DE 23 DE DEZEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias Noroeste Paulista S/A, as áreas necessárias à duplicação do trecho entre os km 144+000 e 157+600 da Rodovia SP-333, no Município de Taquaritinga, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias Noroeste Paulista S/A, as áreas necessárias à duplicação do trecho entre os km 144+000 e 157+600 da Rodovia SP-333, no Município de Taquaritinga, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 66.814, de 3 de junho de 2022](https://www.al.sp.gov.br/norma/203800),
 

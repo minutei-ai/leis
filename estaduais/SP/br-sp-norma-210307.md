@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.123, DE 09 DE DEZEMBRO DE 2024
 
-### Institui o Programa São Paulo Olímpico, e dá providências correlatas.
+### _Institui o Programa São Paulo Olímpico, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

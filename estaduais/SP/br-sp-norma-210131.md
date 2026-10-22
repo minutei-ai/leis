@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.984, DE 21 DE OUTUBRO DE 2024
 
-### Cria a 3ª Delegacia de Polícia de Crimes contra os Animais, da Divisão de Investigações sobre Infrações contra o Meio Ambiente, do Departamento de Polícia de Proteção à Cidadania "Dr. Luiz Lasserre Gomes" - DPPC, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e dá providências correlatas.
+### _Cria a 3ª Delegacia de Polícia de Crimes contra os Animais, da Divisão de Investigações sobre Infrações contra o Meio Ambiente, do Departamento de Polícia de Proteção à Cidadania "Dr. Luiz Lasserre Gomes" - DPPC, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

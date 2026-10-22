@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 688/2023, do Deputado Rodrigo Moraes - PL)
 
-### Declara de utilidade pública o Instituto de Desenvolvimento, Ensino e Assistência à Saúde - IDEAS, com sede no Município de São Paulo
+### _Declara de utilidade pública o Instituto de Desenvolvimento, Ensino e Assistência à Saúde - IDEAS, com sede no Município de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

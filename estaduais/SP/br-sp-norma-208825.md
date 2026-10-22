@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.100, DE 23 DE NOVEMBRO DE 2023
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 156/17, de 10 de novembro de 2017, no Convênio ICMS 204/19, de 13 de dezembro de 2019, no Convênio ICMS 24/22, de 7 de abril de 2022, no Convênio ICMS 87/22, de 1° de julho de 2022, no Convênio ICMS 94/22, de 1° de julho de 2022 e no Convênio ICMS 138/22, de 23 de setembro de 2022,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1403/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública o Lar Santa Terezinha "Amor e Vida", com sede em Junqueirópolis.
+### _Declara de utilidade pública o Lar Santa Terezinha "Amor e Vida", com sede em Junqueirópolis._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

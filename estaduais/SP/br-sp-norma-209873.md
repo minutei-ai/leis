@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 417/2023, do Deputado Edmir Chedid - UNIÃO)
 
-### Denomina "Francisco Fabiano" a Casa da Agricultura de Valinhos.
+### _Denomina "Francisco Fabiano" a Casa da Agricultura de Valinhos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

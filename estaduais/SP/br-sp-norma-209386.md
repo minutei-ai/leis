@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 686/2023, da Deputada Leci Brandão - PCdoB)
 
-### Institui o "Dia da Mulher Sambista - Madrinha Eunice".
+### _Institui o "Dia da Mulher Sambista - Madrinha Eunice"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

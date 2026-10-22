@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.020, DE 11 DE OUTUBRO DE 2023
 
-### Dá nova redação ao artigo 1° do Decreto n° 67.688, de 3 de maio de 2023, que dispõe sobre a oficialização da XIII Conferência Estadual de Assistência Social, e dá providências correlatas.
+### _Dá nova redação ao artigo 1° do Decreto n° 67.688, de 3 de maio de 2023, que dispõe sobre a oficialização da XIII Conferência Estadual de Assistência Social, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

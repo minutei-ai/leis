@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 834, de 2021, da Deputada Dra. Damaris Moura - PSDB)
 
-### Institui o "Dia Estadual da Missão Calebe"
+### _Institui o "Dia Estadual da Missão Calebe"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

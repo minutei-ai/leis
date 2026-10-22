@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 594/2023, do Deputado Itamar Borges - MDB)
 
-### Institui o "Dia do Campista Caravanista".
+### _Institui o "Dia do Campista Caravanista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

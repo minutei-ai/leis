@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 615, de 2020, do Deputado Frederico d'Avila - PSL)
 
-### Dá denominação ao dispositivo rodoviário que especifica
+### _Dá denominação ao dispositivo rodoviário que especifica_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

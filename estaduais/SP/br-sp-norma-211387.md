@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 296/2024, da Deputada Delegada Graciela - PL)
 
-### Institui a "Semana da Língua Portuguesa".
+### _Institui a "Semana da Língua Portuguesa"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

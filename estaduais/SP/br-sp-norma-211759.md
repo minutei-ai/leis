@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 842/2024, do Deputado Felipe Franco - UNIÃO)
 
-### Inclui no Calendário de Eventos do Estado o "Arnold Sports Festival South America", na Capital.
+### _Inclui no Calendário de Eventos do Estado o "Arnold Sports Festival South America", na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

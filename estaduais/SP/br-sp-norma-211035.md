@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.601, DE 09 DE JUNHO DE 2025
 
-### Cria a Faculdade de Tecnologia - FATEC de Rio Claro, no Município de Rio Claro, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas.
+### _Cria a Faculdade de Tecnologia - FATEC de Rio Claro, no Município de Rio Claro, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e estando a medida inserida nos objetivos estabelecidos no Programa de Metas Prioritárias para o exercício de 2025 e no PPA,
 

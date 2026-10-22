@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 874, de 2019, dos Deputados Coronel Nishikawa - PSL, Marcio Nakashima - PDT e Dra. Damaris Moura - PSDB)
 
-### Obriga bares, restaurantes, casas noturnas e de eventos a adotar medidas de auxílio à mulher que se sinta em situação de risco
+### _Obriga bares, restaurantes, casas noturnas e de eventos a adotar medidas de auxílio à mulher que se sinta em situação de risco_
 
 _\- Vide [Decreto n° 67.856, de 01/08/2023](https://www.al.sp.gov.br/norma/208366)._
 

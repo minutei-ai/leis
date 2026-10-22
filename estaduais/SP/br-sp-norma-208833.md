@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 72/2020, do Deputado Castello Branco - PSL)
 
-### Institui o "Dia Estadual da Pipa"
+### _Institui o "Dia Estadual da Pipa"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

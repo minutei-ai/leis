@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 595/2025, do Deputado André Bueno – PL)
 
-### Institui e inclui no Calendário Oficial do Estado o "Dia do Frotista".
+### _Institui e inclui no Calendário Oficial do Estado o "Dia do Frotista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

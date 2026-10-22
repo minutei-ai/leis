@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 443/2024, do Deputado Rafael Saraiva - UNIÃO)
 
-### Declara de utilidade pública o Instituto Alimentando o Bem - IAB, com sede em Guarujá.
+### _Declara de utilidade pública o Instituto Alimentando o Bem - IAB, com sede em Guarujá._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

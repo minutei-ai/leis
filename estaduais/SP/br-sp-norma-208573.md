@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 201/2022, da Deputada Professora Bebel - PT)
 
-### Denomina "Professora Maria da Conceição Sanches do Nascimento" a Escola Estadual Jardim Santa Rita II, em Itaquaquecetuba
+### _Denomina "Professora Maria da Conceição Sanches do Nascimento" a Escola Estadual Jardim Santa Rita II, em Itaquaquecetuba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

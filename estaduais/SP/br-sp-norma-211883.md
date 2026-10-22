@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 480/2024, da Deputada Dani Alonso - PL)
 
-### Denomina "Arthur Lobo da Silva" o dispositivo de acesso e retorno em nível de passagem inferior, de código SPD 466/294, localizado no km 466 + 000m da Rodovia Comandante João Ribeiro de Barros - SP 294, no Município de Marília.
+### _Denomina "Arthur Lobo da Silva" o dispositivo de acesso e retorno em nível de passagem inferior, de código SPD 466/294, localizado no km 466 + 000m da Rodovia Comandante João Ribeiro de Barros - SP 294, no Município de Marília._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

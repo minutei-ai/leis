@@ -4,7 +4,7 @@
 
 ## (Projeto de lei complementar n° 34/2025, dos Deputados Delegado Olim - PP, Capitão Telhada - PP, Gil Diniz Bolsonaro - PL e Altair Moraes - REPUBLICANOS)
 
-### Autoriza o Poder Executivo a assegurar a prestação de serviços de escolta e segurança pessoal a autoridades e ex-autoridades do Estado de São Paulo, bem como a seus familiares, em razão do risco inerente às funções públicas exercidas.
+### _Autoriza o Poder Executivo a assegurar a prestação de serviços de escolta e segurança pessoal a autoridades e ex-autoridades do Estado de São Paulo, bem como a seus familiares, em razão do risco inerente às funções públicas exercidas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

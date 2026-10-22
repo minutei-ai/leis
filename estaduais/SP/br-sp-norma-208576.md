@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 264/2022, do Deputado Carlos Cezar - PL)
 
-### Institui o "Dia Estadual do Adolescente Quadrangular"
+### _Institui o "Dia Estadual do Adolescente Quadrangular"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

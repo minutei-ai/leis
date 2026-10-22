@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.339, DE 04 DE FEVEREIRO DE 2025
 
-### Regulamenta a Lei Complementar n° 1.413, de 23 de setembro de 2024, que dispõe sobre o regime jurídico das agências reguladoras estaduais, bem como estabelece diretrizes para a organização das agências e dá providências correlatas.
+### _Regulamenta a Lei Complementar n° 1.413, de 23 de setembro de 2024, que dispõe sobre o regime jurídico das agências reguladoras estaduais, bem como estabelece diretrizes para a organização das agências e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

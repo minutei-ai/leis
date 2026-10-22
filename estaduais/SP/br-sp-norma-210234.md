@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.056, DE 14 DE NOVEMBRO DE 2024
 
-### Institui o portal único "SP.GOV.BR" e dispõe sobre as regras de unificação dos canais digitais do Poder Executivo do Estado
+### _Institui o portal único "SP.GOV.BR" e dispõe sobre as regras de unificação dos canais digitais do Poder Executivo do Estado_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

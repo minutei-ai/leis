@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 647/2019, do Deputado Tenente Nascimento - PSL)
 
-### Dá denominação ao Grupamento de Bombeiros que especifica
+### _Dá denominação ao Grupamento de Bombeiros que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

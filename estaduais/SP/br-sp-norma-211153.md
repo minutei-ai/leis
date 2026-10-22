@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.427, DE 08 DE JULHO DE 2025
 
-### Institui a carreira de Especialista Social e dá providências correlatas.
+### _Institui a carreira de Especialista Social e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

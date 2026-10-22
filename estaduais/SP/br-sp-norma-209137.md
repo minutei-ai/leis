@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.344, DE 29 DE FEVEREIRO DE 2024
 
-### Dá nova redação ao artigo 32 do anexo único do Decreto n° 11.074, de 5 de janeiro de 1978, que aprova as normas do Cerimonial Público Estadual.
+### _Dá nova redação ao artigo 32 do anexo único do Decreto n° 11.074, de 5 de janeiro de 1978, que aprova as normas do Cerimonial Público Estadual._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.711, DE 23 DE JULHO DE 2024
 
-### Acrescenta dispositivo ao Decreto n° 68.421, de 2 de abril de 2024.
+### _Acrescenta dispositivo ao Decreto n° 68.421, de 2 de abril de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 468/2024, do Deputado Carlão Pignatari - PSDB)
 
-### Denomina "Jordão Marcussi" a rotatória do tipo fechada, de código RTP 012/305, localizada no km 12,500 da Rodovia José Pizarro - SP 305, no Município de Monte Alto.
+### _Denomina "Jordão Marcussi" a rotatória do tipo fechada, de código RTP 012/305, localizada no km 12,500 da Rodovia José Pizarro - SP 305, no Município de Monte Alto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

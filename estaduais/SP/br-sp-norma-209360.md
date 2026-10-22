@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 19/2024, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Fundação de Ciência, Tecnologia e Ensino - FUNDACTE, com sede em Presidente Prudente.
+### _Declara de utilidade pública a Fundação de Ciência, Tecnologia e Ensino - FUNDACTE, com sede em Presidente Prudente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 328, de 2021, do Deputado Ricardo Madalena - PL)
 
-### Denomina trecho de rodovia
+### _Denomina trecho de rodovia_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

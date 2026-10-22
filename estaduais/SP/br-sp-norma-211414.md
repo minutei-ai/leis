@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 510/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação O Amor é a Resposta, com sede em Presidente Prudente.
+### _Declara de utilidade pública a Associação O Amor é a Resposta, com sede em Presidente Prudente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

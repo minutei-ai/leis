@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.938, DE 07 DE OUTUBRO DE 2025
 
-### Institui o Programa "Casa da Mulher Paulista" e dá providências correlatas.
+### _Institui o Programa "Casa da Mulher Paulista" e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

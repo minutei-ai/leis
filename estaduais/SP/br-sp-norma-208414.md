@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.887, DE 17 DE AGOSTO DE 2023
 
-### Dispõe sobre a outorga do Colar IBRAHIM DE ALMEIDA NOBRE - TRIBUNO DA REVOLUÇÃO PAULISTA e dá providências correlatas.
+### _Dispõe sobre a outorga do Colar IBRAHIM DE ALMEIDA NOBRE - TRIBUNO DA REVOLUÇÃO PAULISTA e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista das manifestações do Conselho Estadual da Ordem do Ipiranga,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.581, DE 05 DE JUNHO DE 2025
 
-### Regulamenta o artigo 12 da Lei n.° 12.780, de 30 de novembro de 2007, que institui a Política Estadual de Educação Ambiental.
+### _Regulamenta o artigo 12 da Lei n.° 12.780, de 30 de novembro de 2007, que institui a Política Estadual de Educação Ambiental._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legaise considerando o disposto na [Lei n° 12.780, de 30 de novembro de 2007](https://www.al.sp.gov.br/norma/74690), que institui a Política Estadual de Educação Ambiental, e no [Decreto n° 63.456, de 5 de junho de 2018](https://www.al.sp.gov.br/norma/186568), que institui a Comissão Interinstitucional de Educação Ambiental,
 

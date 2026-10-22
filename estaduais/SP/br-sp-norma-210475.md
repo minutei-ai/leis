@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.250, DE 26 DE DEZEMBRO DE 2024
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração de imóvel que especifica.
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração de imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

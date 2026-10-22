@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.046, DE 14 DE NOVEMBRO DE 2024
 
-### Dispõe sobre a evolução na carreira dos integrantes do Quadro do Magistério submetidos ao regime instituído pela Lei Complementar n.° 1.374, de 30 de março de 2022, sobre o estágio probatório, e dá providências correlatas.
+### _Dispõe sobre a evolução na carreira dos integrantes do Quadro do Magistério submetidos ao regime instituído pela Lei Complementar n.° 1.374, de 30 de março de 2022, sobre o estágio probatório, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.029, DE 11 DE NOVEMBRO DE 2024
 
-### Altera o Decreto n° 67.151, de 4 de outubro de 2022, que regulamenta a Lei n° 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras.
+### _Altera o Decreto n° 67.151, de 4 de outubro de 2022, que regulamenta a Lei n° 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

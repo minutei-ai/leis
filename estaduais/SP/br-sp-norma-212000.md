@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 591/2024, da Deputada Dani Alonso - PL)
 
-### Denomina "Rodovia Comunicador Silvio Santos" o trecho da Via Anhanguera - SP 330 compreendido entre os Municípios de São Paulo e Jundiaí.
+### _Denomina "Rodovia Comunicador Silvio Santos" o trecho da Via Anhanguera - SP 330 compreendido entre os Municípios de São Paulo e Jundiaí._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

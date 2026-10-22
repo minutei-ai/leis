@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 617/2024, da Deputada Carla Morando - PSDB)
 
-### Institui o "Dia Estadual do Cuidador das Pessoas com Deficiência e do Cuidador Escolar das Pessoas com Deficiência".
+### _Institui o "Dia Estadual do Cuidador das Pessoas com Deficiência e do Cuidador Escolar das Pessoas com Deficiência"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

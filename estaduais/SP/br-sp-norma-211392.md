@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 133/2024, da Deputada Carla Morando - PSDB)
 
-### Institui o "Dia Estadual dos Cosplayers e dos Cosmakers".
+### _Institui o "Dia Estadual dos Cosplayers e dos Cosmakers"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

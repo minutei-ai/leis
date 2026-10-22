@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.506, DE 08 DE MAIO DE 2024
 
-### Dispõe sobre a concessão da Medalha dos Bandeirantes
+### _Dispõe sobre a concessão da Medalha dos Bandeirantes_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual de Honrarias e Mérito,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1633/2023, do Deputado Oseias de Madureira - PSD)
 
-### Institui o uso do Cordão de Girassol como instrumento auxiliar de orientação para identificação de pessoas com deficiências ocultas no Estado de São Paulo.
+### _Institui o uso do Cordão de Girassol como instrumento auxiliar de orientação para identificação de pessoas com deficiências ocultas no Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

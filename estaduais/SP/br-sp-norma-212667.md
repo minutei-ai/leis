@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 73/2026, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública o Instituto Soar, com sede em São José do Rio Preto.
+### _Declara de utilidade pública o Instituto Soar, com sede em São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

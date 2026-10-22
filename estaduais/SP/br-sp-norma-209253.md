@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.415, DE 02 DE ABRIL DE 2024
 
-### Dispõe sobre a presença de atendente pessoal nas unidades escolares da rede estadual de ensino e dá providências correlatas.
+### _Dispõe sobre a presença de atendente pessoal nas unidades escolares da rede estadual de ensino e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

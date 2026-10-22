@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 694/2024, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Dr. Waldir Max" o Dispositivo de Acesso e Retorno com Duplo Viaduto SPD 547/310, localizado no km 400,430 da Rodovia Rachid Rayes - SP 333, em Assis.
+### _Denomina "Dr. Waldir Max" o Dispositivo de Acesso e Retorno com Duplo Viaduto SPD 547/310, localizado no km 400,430 da Rodovia Rachid Rayes - SP 333, em Assis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

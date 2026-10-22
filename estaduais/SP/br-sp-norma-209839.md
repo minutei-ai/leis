@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.769, DE 14 DE AGOSTO DE 2024
 
-### Institui a Política de Dados Abertos da Administração Pública direta e autárquica do Estado de São Paulo e dá providências correlatas.
+### _Institui a Política de Dados Abertos da Administração Pública direta e autárquica do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

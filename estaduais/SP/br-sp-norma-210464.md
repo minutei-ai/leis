@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.239, DE 23 DE DEZEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Empresa Metropolitana de Transportes Urbanos S/A - EMTU/SP, os imóveis necessários à implantação do Corredor Metropolitano Itapevi - São Paulo, no trecho entre o km 21 até o Terminal Vila Yara, no Município de Osasco, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Empresa Metropolitana de Transportes Urbanos S/A - EMTU/SP, os imóveis necessários à implantação do Corredor Metropolitano Itapevi - São Paulo, no trecho entre o km 21 até o Terminal Vila Yara, no Município de Osasco, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

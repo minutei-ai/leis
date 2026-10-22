@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.718, DE 18 DE JULHO DE 2025
 
-### Dá denominação ao Centro Estadual de Educação de Jovens e Adultos de Avaré, da Secretaria da Educação, localizado no Município de Avaré.
+### _Dá denominação ao Centro Estadual de Educação de Jovens e Adultos de Avaré, da Secretaria da Educação, localizado no Município de Avaré._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

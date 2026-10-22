@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1705/2023, do Deputado Dr. Jorge do Carmo - PT)
 
-### Institui o "Dia da Cuidadora - Irmã Dulce".
+### _Institui o "Dia da Cuidadora - Irmã Dulce"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

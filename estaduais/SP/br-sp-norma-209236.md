@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 607/2023, do Deputado Reis - PT)
 
-### Institui o "Dia de Valorização do Policial Civil".
+### _Institui o "Dia de Valorização do Policial Civil"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

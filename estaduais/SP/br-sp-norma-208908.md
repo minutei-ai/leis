@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.162, DE 09 DE DEZEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rota das Bandeiras S/A, a área complementar necessária à implantação da via perimetral de Itatiba, no Município de Itatiba, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rota das Bandeiras S/A, a área complementar necessária à implantação da via perimetral de Itatiba, no Município de Itatiba, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 53.310, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122290),
 

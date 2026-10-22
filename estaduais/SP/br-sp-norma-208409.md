@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.882, DE 15 DE AGOSTO DE 2023
 
-### Altera o Decreto n° 52.455, de 7 de dezembro de 2007, que aprova o regulamento da agência reguladora criada pela Lei Complementar n° 1.025, de 7 de dezembro de 2007, denominada Agência Reguladora de Serviços Públicos do Estado do São Paulo - ARSESP pela Lei n° 17.293, de 15 de outubro de 2020.
+### _Altera o Decreto n° 52.455, de 7 de dezembro de 2007, que aprova o regulamento da agência reguladora criada pela Lei Complementar n° 1.025, de 7 de dezembro de 2007, denominada Agência Reguladora de Serviços Públicos do Estado do São Paulo - ARSESP pela Lei n° 17.293, de 15 de outubro de 2020._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

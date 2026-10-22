@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.770, DE 14 DE AGOSTO DE 2024
 
-### Institui a "Medalha do Mérito do Quadragésimo Primeiro Batalhão de Polícia Militar do Interior - Ten. Cel. PM Antonio de Oliveira" e dá providências correlatas.
+### _Institui a "Medalha do Mérito do Quadragésimo Primeiro Batalhão de Polícia Militar do Interior - Ten. Cel. PM Antonio de Oliveira" e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,    
 

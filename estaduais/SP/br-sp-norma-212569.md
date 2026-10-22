@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 321/2025, do Deputado Major Mecca - PL)
 
-### Declara de utilidade pública o Núcleo Educativo "Garotos do Bairro", com sede em Lins.
+### _Declara de utilidade pública o Núcleo Educativo "Garotos do Bairro", com sede em Lins._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

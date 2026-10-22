@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 919/2023, do Deputado Carlos Cezar - PL)
 
-### Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Biritiba Mirim - APAE de Biritiba Mirim.
+### _Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Biritiba Mirim - APAE de Biritiba Mirim._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

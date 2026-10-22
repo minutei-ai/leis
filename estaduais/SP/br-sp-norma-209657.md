@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 648/2023, do Deputado Carlão Pignatari - PSDB))
 
-### Denomina "José Cutrale Junior" o Hospital Regional de Bebedouro - HRB.
+### _Denomina "José Cutrale Junior" o Hospital Regional de Bebedouro - HRB._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.947, DE 08 DE OUTUBRO DE 2024
 
-### Transfere, da Secretaria de Administração Penitenciária para a Secretaria de Saúde, a administração de parte do imóvel que especifica, localizado no Município de Taubaté.
+### _Transfere, da Secretaria de Administração Penitenciária para a Secretaria de Saúde, a administração de parte do imóvel que especifica, localizado no Município de Taubaté._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

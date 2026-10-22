@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.624, DE 12 DE JUNHO DE 2025
 
-### Reclassifica as Delegacias de Polícia de Defesa da Mulher que especifica, das Delegacias Seccionais de Polícia, dos Departamentos de Polícia Judiciária, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e dá providências correlatas
+### _Reclassifica as Delegacias de Polícia de Defesa da Mulher que especifica, das Delegacias Seccionais de Polícia, dos Departamentos de Polícia Judiciária, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

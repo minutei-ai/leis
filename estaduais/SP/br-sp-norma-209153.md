@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.363, DE 01 DE MARÇO DE 2024
 
-### Transfere, do Tribunal de Justiça para a Secretaria de Gestão e Governo Digital, a administração do imóvel que especifica, localizado no Município de Pirajuí, e autoriza a Fazenda do Estado a permitir seu uso, a título precário e gratuito, por prazo indeterminado, em favor da União, por intermédio do Tribunal Regional Eleitoral de São Paulo.
+### _Transfere, do Tribunal de Justiça para a Secretaria de Gestão e Governo Digital, a administração do imóvel que especifica, localizado no Município de Pirajuí, e autoriza a Fazenda do Estado a permitir seu uso, a título precário e gratuito, por prazo indeterminado, em favor da União, por intermédio do Tribunal Regional Eleitoral de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 793/2021, do Deputado Agente Federal Danilo Balas - PL)
 
-### Reconhece como de relevante interesse cultural do Estado a "Região Turística da Fé" do Vale do Paraíba.
+### _Reconhece como de relevante interesse cultural do Estado a "Região Turística da Fé" do Vale do Paraíba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

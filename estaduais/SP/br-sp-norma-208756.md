@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 609/2023, da Deputada Leticia Aguiar - PP)
 
-### Declara de utilidade pública a Associação Sanquim, com sede em Mogi Mirim
+### _Declara de utilidade pública a Associação Sanquim, com sede em Mogi Mirim_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

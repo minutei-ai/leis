@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.496, DE 02 DE MAIO DE 2024
 
-### Altera a classificação institucional da Secretaria de Meio Ambiente, Infraestrutura e Logística nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria de Meio Ambiente, Infraestrutura e Logística nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.315, DE 16 DE JANEIRO DE 2025
 
-### Transfere, da Secretaria da Educação para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de Araçatuba, e dá providências correlatas.
+### _Transfere, da Secretaria da Educação para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de Araçatuba, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

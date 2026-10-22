@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 829/2024, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Declara de utilidade pública o Instituto Plenus - Amigos do Bem, com sede em São Roque.
+### _Declara de utilidade pública o Instituto Plenus - Amigos do Bem, com sede em São Roque._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

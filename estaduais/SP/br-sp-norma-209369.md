@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.485, DE 26 DE ABRIL DE 2024
 
-### Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas
+### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

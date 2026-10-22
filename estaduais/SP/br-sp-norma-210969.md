@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.556, DE 23 DE MAIO DE 2025
 
-### Dispõe sobre a admissão na Ordem do Ipiranga.
+### _Dispõe sobre a admissão na Ordem do Ipiranga._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e na qualidade de Grão-Mestre da Ordem do Ipiranga,
 

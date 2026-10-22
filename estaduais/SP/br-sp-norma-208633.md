@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1039/2019, da Deputada Leci Brandão - PCdoB)
 
-### Inclui no Calendário Turístico do Estado as Festas do Ciclo do Bumba-meu-boi, na Capital
+### _Inclui no Calendário Turístico do Estado as Festas do Ciclo do Bumba-meu-boi, na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

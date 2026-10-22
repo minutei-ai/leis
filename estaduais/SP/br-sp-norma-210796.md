@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 74/2021, do Deputado Marcos Damasio - PL)
 
-### Institui o "Dia da Paz e da Conciliação".
+### _Institui o "Dia da Paz e da Conciliação"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

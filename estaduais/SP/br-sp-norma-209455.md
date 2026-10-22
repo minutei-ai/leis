@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.525, DE 16 DE MAIO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação de estação e ventilação/saída de emergência da Linha 2-Verde, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação de estação e ventilação/saída de emergência da Linha 2-Verde, no Município de São Paulo, e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,    
 

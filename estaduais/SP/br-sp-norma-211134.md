@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.668, DE 30 DE JUNHO DE 2025
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 3°, § 8°, da Lei Complementar n° 160, de 7 de agosto de 2017, na cláusula décima terceira do Convênio ICMS 190/17, de 15 de dezembro de 2017, e no Decreto n° 42.649, de 5 de outubro de 2010, editado pelo Estado do Rio de Janeiro,
 

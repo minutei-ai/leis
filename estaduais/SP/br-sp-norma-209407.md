@@ -2,7 +2,7 @@
 
 # ATO DO PRESIDENTE N° 48, DE 02 DE MAIO DE 2024
 
-### Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 302, de 2024, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2025.
+### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 302, de 2024, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2025._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições, e considerando (i) o envio à Assembleia Legislativa, pelo Sr. Governador do Estado, nos termos do artigo 174, § 9°, item 2, da Constituição Paulista, de projeto de lei que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2025, e (ii) o disposto no artigo 246, § 2°, do Regimento Interno, e no artigo 6° do [Ato da Mesa n° 2, de 7 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206880), DECIDE:
 

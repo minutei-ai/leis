@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 557/2022, do Deputado Paulo Correa Jr - PSD)
 
-### Inclui no Calendário Turístico do Estado o Festival Katsura Matsuri, em Iguape
+### _Inclui no Calendário Turístico do Estado o Festival Katsura Matsuri, em Iguape_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.073, DE 09 DE NOVEMBRO DE 2023
 
-### Transfere, da Secretaria da Fazenda e Planejamento para a Procuradoria Geral do Estado, a administração do imóvel que especifica, localizado no Município de São Paulo.
+### _Transfere, da Secretaria da Fazenda e Planejamento para a Procuradoria Geral do Estado, a administração do imóvel que especifica, localizado no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

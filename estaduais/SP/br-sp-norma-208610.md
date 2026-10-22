@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 360/2022, do Deputado Itamar Borges - MDB)
 
-### Denomina "Natalino Cantóia" o dispositivo de acesso e retorno tipo rotatória SPD 564/310, localizado no km 564 da Rodovia Feliciano Salles Cunha - SP 310, no Município de Auriflama
+### _Denomina "Natalino Cantóia" o dispositivo de acesso e retorno tipo rotatória SPD 564/310, localizado no km 564 da Rodovia Feliciano Salles Cunha - SP 310, no Município de Auriflama_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

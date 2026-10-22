@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.981, DE 27 DE SETEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas necessárias à implantação de dispositivo de retorno no km 84+300m da Rodovia Raposo Tavares, SP-270, no Município de Sorocaba, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas necessárias à implantação de dispositivo de retorno no km 84+300m da Rodovia Raposo Tavares, SP-270, no Município de Sorocaba, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320), alterado pelo [Decreto n° 53.707, de 18 de novembro de 2008](https://www.al.sp.gov.br/norma/142372),
 

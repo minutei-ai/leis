@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 922/2023, do Deputado Carlos Cezar - PL)
 
-### Declara de utilidade pública a Igreja Pentecostal Jesus é a Videira, com sede em Itaquaquecetuba.
+### _Declara de utilidade pública a Igreja Pentecostal Jesus é a Videira, com sede em Itaquaquecetuba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

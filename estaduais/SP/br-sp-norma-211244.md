@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.745, DE 28 DE JULHO DE 2025
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança da Secretaria de Comunicação.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança da Secretaria de Comunicação._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

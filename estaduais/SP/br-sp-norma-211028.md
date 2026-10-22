@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.588, DE 09 DE JUNHO DE 2025
 
-### Disciplina a aplicação, no âmbito da Administração Pública estadual, da Lei federal n° 12.846, de 1° de agosto de 2013, que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira, e dá outras providências.
+### _Disciplina a aplicação, no âmbito da Administração Pública estadual, da Lei federal n° 12.846, de 1° de agosto de 2013, que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista do disposto na Lei federal n° 12.846, de 1° de agosto de 2013,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 931/2023, do Deputado Paulo Fiorilo - PT)
 
-### Declara de utilidade pública a Associação Sãomiguelense para Sustentabilidade - ASAS, com sede em São Miguel Arcanjo.
+### _Declara de utilidade pública a Associação Sãomiguelense para Sustentabilidade - ASAS, com sede em São Miguel Arcanjo._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

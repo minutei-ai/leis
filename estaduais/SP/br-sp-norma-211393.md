@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 705/2023, do Deputado Capitão Telhada - PP)
 
-### Denomina "Vereador Valdivino Antônio Marcusso" a Escola Técnica Estadual de Boituva - ETEC Boituva, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS.
+### _Denomina "Vereador Valdivino Antônio Marcusso" a Escola Técnica Estadual de Boituva - ETEC Boituva, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

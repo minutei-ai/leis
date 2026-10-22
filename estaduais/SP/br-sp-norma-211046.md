@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.592, DE 09 DE JUNHO DE 2025
 
-### Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, o imóvel necessário à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de Santos, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, o imóvel necessário à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de Santos, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no artigo 1° e no inciso V do artigo 2° da Lei federal n° 4.132, de 10 de setembro de 1962,
 

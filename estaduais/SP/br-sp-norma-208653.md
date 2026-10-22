@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.010, DE 10 DE OUTUBRO DE 2023
 
-### Transfere, da Secretaria de Gestão e Governo Digital para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de Araçatuba.
+### _Transfere, da Secretaria de Gestão e Governo Digital para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de Araçatuba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

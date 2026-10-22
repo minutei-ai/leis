@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.341, DE 29 DE FEVEREIRO DE 2024
 
-### Prorroga o prazo previsto no Decreto n° 67.872, de 13 de agosto de 2023, que declarou estado de emergência zoossanitária no Estado de São Paulo, em razão da detecção da infecção pelo vírus da influenza aviária H5N1 de alta patogenicidade (IAAP) em aves silvestres no Brasil.
+### _Prorroga o prazo previsto no Decreto n° 67.872, de 13 de agosto de 2023, que declarou estado de emergência zoossanitária no Estado de São Paulo, em razão da detecção da infecção pelo vírus da influenza aviária H5N1 de alta patogenicidade (IAAP) em aves silvestres no Brasil._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a Portaria MAPA n° 624, de 6 de novembro de 2023,
 

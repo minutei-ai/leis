@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.692, DE 08 DE JULHO DE 2025
 
-### Transfere a Delegacia de Polícia de Combate a Crimes de Fraude Documental e Biometria, no âmbito do Departamento de Inteligência da Polícia Civil - DIPOL, altera dispositivos e dá providências correlatas.
+### _Transfere a Delegacia de Polícia de Combate a Crimes de Fraude Documental e Biometria, no âmbito do Departamento de Inteligência da Polícia Civil - DIPOL, altera dispositivos e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

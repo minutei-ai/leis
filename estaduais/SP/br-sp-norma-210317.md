@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.119, DE 09 DE DEZEMBRO DE 2024
 
-### Institui o Portal Integrador Estadual, denominado Portal "Facilita SP", revoga o Decreto n° 55.660, de 30 de março de 2010, e dá outras providências.
+### _Institui o Portal Integrador Estadual, denominado Portal "Facilita SP", revoga o Decreto n° 55.660, de 30 de março de 2010, e dá outras providências._
 
 #### SEÇÃO I<br>
 Disposições Gerais

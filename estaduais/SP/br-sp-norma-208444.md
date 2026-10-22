@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 207/2022, da Deputada Marina Helou - REDE)
 
-### Institui a "Semana Estadual em Prol da Saúde Mental Policial"
+### _Institui a "Semana Estadual em Prol da Saúde Mental Policial"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

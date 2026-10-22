@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 246/2024, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Eng. Francisco de Paula Bueno" a ponte codificada PTE 170/340, localizada no km 169 + 617m da Rodovia Deputado Mário Beni - SP 340, no Município de Mogi Guaçu
+### _Denomina "Eng. Francisco de Paula Bueno" a ponte codificada PTE 170/340, localizada no km 169 + 617m da Rodovia Deputado Mário Beni - SP 340, no Município de Mogi Guaçu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

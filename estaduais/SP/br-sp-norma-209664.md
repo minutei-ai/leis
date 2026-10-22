@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1665/2023, do Deputado Carlos Cezar - PL)
 
-### Institui o "Dia da Educação Legislativa Paulista".
+### _Institui o "Dia da Educação Legislativa Paulista"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

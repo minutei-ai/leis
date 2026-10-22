@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 359/2025, do Deputado Gil Diniz Bolsonaro - PL)
 
-### Denomina "Prefeito Clóvis de Paula Souza" a Ponte PTC 045/165, localizada no km 45,200 da Rodovia Benedito Pascoal de França - SP 165, em Sete Barras.
+### _Denomina "Prefeito Clóvis de Paula Souza" a Ponte PTC 045/165, localizada no km 45,200 da Rodovia Benedito Pascoal de França - SP 165, em Sete Barras._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

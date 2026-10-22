@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.906, DE 29 DE AGOSTO DE 2023
 
-### Institui a Medalha "Mérito do Serviço de Engenharia - Tenente Coronel PM Euclydes Marques Machado" do Centro Integrado de Apoio Patrimonial da Polícia Militar do Estado de São Paulo e dá providências correlatas.
+### _Institui a Medalha "Mérito do Serviço de Engenharia - Tenente Coronel PM Euclydes Marques Machado" do Centro Integrado de Apoio Patrimonial da Polícia Militar do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

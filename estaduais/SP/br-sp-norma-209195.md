@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 586/2023, do Deputado Caio França – PSB)
 
-### Declara de utilidade pública a Associação de Promoção e Assistência Social Estrela do Mar, com sede em Santos.
+### _Declara de utilidade pública a Associação de Promoção e Assistência Social Estrela do Mar, com sede em Santos._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

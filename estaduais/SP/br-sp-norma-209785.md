@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 118/2020, da Deputada Leci Brandão - PCdoB)
 
-### Declara o culto e adoração a Francisco José das Chagas na Capela de Nossa Senhora dos Aflitos como Patrimônio Cultural Imaterial do Estado.
+### _Declara o culto e adoração a Francisco José das Chagas na Capela de Nossa Senhora dos Aflitos como Patrimônio Cultural Imaterial do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

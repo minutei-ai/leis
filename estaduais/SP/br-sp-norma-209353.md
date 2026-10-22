@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 776/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Flavio Cassaro" o Dispositivo de Acesso e Retorno com Viaduto SPD 161/255, localizado no km 161,250 da Rodovia Otávio Pacheco de Almeida Prado - SP 255, em Jaú.
+### _Denomina "Flavio Cassaro" o Dispositivo de Acesso e Retorno com Viaduto SPD 161/255, localizado no km 161,250 da Rodovia Otávio Pacheco de Almeida Prado - SP 255, em Jaú._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

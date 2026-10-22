@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1151, de 2019, do Deputado Roque Barbiere - PTB)
 
-### Denomina "Toribio Cardoso" a passarela localizada no km 546 da Rodovia Feliciano Salles Cunha - SP 310, em General Salgado
+### _Denomina "Toribio Cardoso" a passarela localizada no km 546 da Rodovia Feliciano Salles Cunha - SP 310, em General Salgado_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

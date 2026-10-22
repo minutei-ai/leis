@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 53/2022, do Deputado Marcos Zerbini - PSDB)
 
-### Institui o "Dia do Tutor da Vizinhança Solidária"
+### _Institui o "Dia do Tutor da Vizinhança Solidária"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

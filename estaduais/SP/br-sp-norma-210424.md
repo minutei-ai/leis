@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 470/2021, do Deputado Barros Munhoz – PSB)
 
-### Dispõe sobre a inclusão do Festival de Inverno de Mogi Mirim no Calendário Oficial de Eventos do Estado.
+### _Dispõe sobre a inclusão do Festival de Inverno de Mogi Mirim no Calendário Oficial de Eventos do Estado._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

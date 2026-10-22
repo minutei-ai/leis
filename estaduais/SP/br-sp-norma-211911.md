@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 857/2024, da Deputada Letícia Aguiar - PP)
 
-### Inclui no Calendário Oficial de Eventos do Estado a Agrotech - Feira Internacional da Tecnologia do Agronegócio, em São José dos Campos.
+### _Inclui no Calendário Oficial de Eventos do Estado a Agrotech - Feira Internacional da Tecnologia do Agronegócio, em São José dos Campos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

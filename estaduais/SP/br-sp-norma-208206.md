@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.757, DE 20 DE JUNHO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da Universidade de São Paulo - USP, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da Universidade de São Paulo - USP, parte do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

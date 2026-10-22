@@ -5,7 +5,7 @@
 
 # _(Última atualização: ADI - STF n° 7314, de 22/11/2022)_
 
-### Altera a Lei Complementar n° 988, de 9 de janeiro de 2006, que organiza a Defensoria Pública do Estado e institui o regime jurídico da carreira de Defensor Público do Estado e dá outras providências
+### _Altera a Lei Complementar n° 988, de 9 de janeiro de 2006, que organiza a Defensoria Pública do Estado e institui o regime jurídico da carreira de Defensor Público do Estado e dá outras providências_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:<br>

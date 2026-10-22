@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.328, DE 22 DE JANEIRO DE 2025
 
-### Aprova o Código de Ética da Administração Pública direta e autárquica do Estado de São Paulo.
+### _Aprova o Código de Ética da Administração Pública direta e autárquica do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

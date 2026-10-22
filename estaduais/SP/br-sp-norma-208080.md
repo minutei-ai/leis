@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.697, DE 04 DE MAIO DE 2023
 
-### Revoga o Decreto n° 67.691, de 3 de maio de 2023.
+### _Revoga o Decreto n° 67.691, de 3 de maio de 2023._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:**<br>

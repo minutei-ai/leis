@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.816, DE 19 DE JULHO DE 2023
 
-### Cria a Faculdade de Tecnologia - FATEC de Esportes, no Município de São Paulo, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas.
+### _Cria a Faculdade de Tecnologia - FATEC de Esportes, no Município de São Paulo, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,
 

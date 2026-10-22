@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 658/2025, dos Deputados Paulo Correa Jr - PSD e Reis - PT)
 
-### Institui o "Dia dos Legendários".
+### _Institui o "Dia dos Legendários"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

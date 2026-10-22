@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.350, DE 11 DE FEVEREIRO DE 2025
 
-### Altera dispositivos do Decreto n° 69.348, de 7 de fevereiro de 2025.
+### _Altera dispositivos do Decreto n° 69.348, de 7 de fevereiro de 2025._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

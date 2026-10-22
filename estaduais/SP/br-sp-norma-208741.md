@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.050, DE 31 DE OUTUBRO DE 2023
 
-### Dá nova redação a dispositivo do Decreto n° 59.598, de 16 de outubro de 2013, que dispõe sobre a implementação de Programas de Participação nos Lucros ou Resultados no âmbito das empresas controladas pelo Estado.
+### _Dá nova redação a dispositivo do Decreto n° 59.598, de 16 de outubro de 2013, que dispõe sobre a implementação de Programas de Participação nos Lucros ou Resultados no âmbito das empresas controladas pelo Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 76/2022, do Deputado Gilmaci Santos - REPUBLICANOS)
 
-### Denomina "José Carlos Sabino" o dispositivo de acesso e retorno tipo rotatória localizado no km 152 da Rodovia Samuel Castro Neves - SP 147, em Piracicaba
+### _Denomina "José Carlos Sabino" o dispositivo de acesso e retorno tipo rotatória localizado no km 152 da Rodovia Samuel Castro Neves - SP 147, em Piracicaba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

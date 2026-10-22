@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.346, DE 29 DE FEVEREIRO DE 2024
 
-### Aprova o regulamento de autorização de acesso pelo Rodoanel Mário Covas (SP-021) a terrenos lindeiros à faixa de domínio, para instalação de áreas para repouso e descanso de motoristas profissionais de transporte rodoviário de passageiros e de cargas, e dá providências correlatas.
+### _Aprova o regulamento de autorização de acesso pelo Rodoanel Mário Covas (SP-021) a terrenos lindeiros à faixa de domínio, para instalação de áreas para repouso e descanso de motoristas profissionais de transporte rodoviário de passageiros e de cargas, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

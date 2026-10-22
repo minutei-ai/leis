@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.142, DE 05 DE DEZEMBRO DE 2023
 
-### Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2024 e o percentual de desconto para pagamento integral, e dá outras providências.
+### _Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2024 e o percentual de desconto para pagamento integral, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no § 3° do artigo 13-A e nos artigos 21 e 22 da [Lei n° 13.296, de 23 de dezembro de 2008](https://www.al.sp.gov.br/norma/147435), com a redação dada pela [Lei n° 17.473, de 16 de dezembro de 2021](https://www.al.sp.gov.br/norma/201408),
 

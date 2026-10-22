@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.765, DE 09 DE AGOSTO DE 2024
 
-### Cria a Assessoria Policial-Civil da Secretaria da Segurança Pública, na estrutura da Polícia Civil do Estado de São Paulo, disciplina a fixação e limites da gratificação mensal aos Assessores Policiais Civis no âmbito da Pasta, e dá outras providências.
+### _Cria a Assessoria Policial-Civil da Secretaria da Segurança Pública, na estrutura da Polícia Civil do Estado de São Paulo, disciplina a fixação e limites da gratificação mensal aos Assessores Policiais Civis no âmbito da Pasta, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

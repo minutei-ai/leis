@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 268/2024, do Deputado Paulo Mansur - PL)
 
-### Altera a Lei n° 8.900, de 29 de setembro de 1994, que dispõe sobre a colocação de anúncios em terrenos adjacentes às estradas de rodagem estaduais, na forma que especifica.
+### _Altera a Lei n° 8.900, de 29 de setembro de 1994, que dispõe sobre a colocação de anúncios em terrenos adjacentes às estradas de rodagem estaduais, na forma que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

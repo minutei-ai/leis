@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.122, DE 09 DE DEZEMBRO DE 2024
 
-### Dispõe sobre a apuração preliminar e o termo de ajustamento de conduta a que se referem os artigos 265 e 267-E a 267-M da Lei n° 10.261, de 28 de outubro de 1968, bem como sobre a apuração preliminar atinente à prática de assédio moral, assédio sexual, conduta discriminatória e enriquecimento ilícito, por agente público, no âmbito da Administração Pública estadual.
+### _Dispõe sobre a apuração preliminar e o termo de ajustamento de conduta a que se referem os artigos 265 e 267-E a 267-M da Lei n° 10.261, de 28 de outubro de 1968, bem como sobre a apuração preliminar atinente à prática de assédio moral, assédio sexual, conduta discriminatória e enriquecimento ilícito, por agente público, no âmbito da Administração Pública estadual._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

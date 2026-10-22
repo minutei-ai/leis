@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1239/2019, do Deputado Itamar Borges – MDB)
 
-### Denomina "Engenheiro Agrônomo João Alfredo de Menezes" a Casa da Agricultura de Fernandópolis.
+### _Denomina "Engenheiro Agrônomo João Alfredo de Menezes" a Casa da Agricultura de Fernandópolis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

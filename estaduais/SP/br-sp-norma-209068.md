@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.297, DE 02 DE JANEIRO DE 2024
 
-### Institui a Medalha Cinquentenário do 1° Batalhão de Polícia Militar do Interior e dá providências correlatas.
+### _Institui a Medalha Cinquentenário do 1° Batalhão de Polícia Militar do Interior e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.335, DE 20 DE FEVEREIRO DE 2024
 
-### Institui o Programa Alfabetiza Juntos SP e dá providências correlatas.
+### _Institui o Programa Alfabetiza Juntos SP e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 965/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação para Formação de Empresários Rurais da Colônia Riograndense - AFERCOR, com sede em Maracaí
+### _Declara de utilidade pública a Associação para Formação de Empresários Rurais da Colônia Riograndense - AFERCOR, com sede em Maracaí_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

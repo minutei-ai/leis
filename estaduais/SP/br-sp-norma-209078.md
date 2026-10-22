@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.307, DE 16 DE JANEIRO DE 2024
 
-### Altera o artigo 27 do Decreto n° 54.645, de 5 de agosto de 2009, que regulamenta dispositivos da Lei n° 12.300, de 16 de março de 2006, que institui a Política Estadual de Resíduos Sólidos.
+### _Altera o artigo 27 do Decreto n° 54.645, de 5 de agosto de 2009, que regulamenta dispositivos da Lei n° 12.300, de 16 de março de 2006, que institui a Política Estadual de Resíduos Sólidos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

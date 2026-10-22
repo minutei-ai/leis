@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 368/2022, do Deputado Castello Branco - PL)
 
-### Institui a "Semana Estadual de Competições de Robótica"
+### _Institui a "Semana Estadual de Competições de Robótica"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

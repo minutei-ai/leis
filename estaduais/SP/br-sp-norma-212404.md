@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 66/2024, do Deputado Paulo Fiorilo - PT)
 
-### Declara de utilidade pública a Associação Espaço Cidadania, Cultura e Arte (ECCART), com sede em Jales.
+### _Declara de utilidade pública a Associação Espaço Cidadania, Cultura e Arte (ECCART), com sede em Jales._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

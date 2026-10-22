@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 779/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "João Pedro Valverde Casado" o dispositivo de acesso e retorno com viaduto SPD 343/333, localizado no km 343 da Rodovia Rachid Rayes - SP 333, em Marília.
+### _Denomina "João Pedro Valverde Casado" o dispositivo de acesso e retorno com viaduto SPD 343/333, localizado no km 343 da Rodovia Rachid Rayes - SP 333, em Marília._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

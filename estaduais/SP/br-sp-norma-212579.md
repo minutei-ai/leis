@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1261/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a SOS - Associação Beneficente Solo Sagrado, com sede em São José do Rio Preto.
+### _Declara de utilidade pública a SOS - Associação Beneficente Solo Sagrado, com sede em São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

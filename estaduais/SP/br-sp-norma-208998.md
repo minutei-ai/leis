@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1195/2023, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação "Menina dos Olhos" dos Deficientes Visuais de Bebedouro - AMO, com sede naquele Município
+### _Declara de utilidade pública a Associação "Menina dos Olhos" dos Deficientes Visuais de Bebedouro - AMO, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

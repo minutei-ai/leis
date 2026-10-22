@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.057, DE 14 DE NOVEMBRO DE 2024
 
-### Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Jaborandi, que declarou Situação de Emer­gência em áreas do Município.
+### _Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Jaborandi, que declarou Situação de Emer­gência em áreas do Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

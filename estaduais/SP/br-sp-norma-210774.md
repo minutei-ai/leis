@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 274/2024, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Declara de utilidade pública a Instituição Cidade dos Meninos Maria Imaculada, com sede em Santo André.
+### _Declara de utilidade pública a Instituição Cidade dos Meninos Maria Imaculada, com sede em Santo André._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

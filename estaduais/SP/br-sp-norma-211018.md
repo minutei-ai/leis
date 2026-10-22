@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.583, DE 05 DE JUNHO DE 2025
 
-### Amplia os limites da Estação Ecológica de Assis e da Floresta Estadual de Assis, no Município de Assis.
+### _Amplia os limites da Estação Ecológica de Assis e da Floresta Estadual de Assis, no Município de Assis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 225 da Constituição Federal, no artigo 191 da Constituição Estadual e na Lei federal n° 9.985, de 18 de julho de 2000,
 

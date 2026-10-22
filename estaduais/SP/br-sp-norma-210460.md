@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.236, DE 23 DE DEZEMBRO DE 2024
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de São João da Boa Vista, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de São João da Boa Vista, parte do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

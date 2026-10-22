@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1419/2023, da Deputada Paula da Bancada Feminista - PSOL)
 
-### Institui o "Dia Estadual da Luta Contra as Mudanças Climáticas".
+### _Institui o "Dia Estadual da Luta Contra as Mudanças Climáticas"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

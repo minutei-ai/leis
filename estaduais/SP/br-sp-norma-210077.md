@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.937, DE 03 DE OUTUBRO DE 2024
 
-### Estabelece a gratuidade dos serviços de transporte público coletivo de passageiros do Estado de São Paulo, nos dias 6 e 27 de outubro de 2024, nas condições que especifica.
+### _Estabelece a gratuidade dos serviços de transporte público coletivo de passageiros do Estado de São Paulo, nos dias 6 e 27 de outubro de 2024, nas condições que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

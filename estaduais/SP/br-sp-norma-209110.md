@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.334, DE 19 DE FEVEREIRO DE 2024
 
-### Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do administrador, empreendedor e empresário Abilio dos Santos Diniz.
+### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do administrador, empreendedor e empresário Abilio dos Santos Diniz._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a notável contribuição do administrador, empreendedor e empresário Abilio dos Santos Diniz ao desenvolvimento econômico e social paulista e brasileiro,
 

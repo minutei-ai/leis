@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1243/2019, da Deputada Marina Helou - REDE)
 
-### Institui o "Dia da Menina"
+### _Institui o "Dia da Menina"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

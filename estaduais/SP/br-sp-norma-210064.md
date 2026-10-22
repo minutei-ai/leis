@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 407/2023, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "2° Tenente PM Gilson Antunes Romão" o prédio do Corpo de Bombeiros, em Cândido Mota.
+### _Denomina "2° Tenente PM Gilson Antunes Romão" o prédio do Corpo de Bombeiros, em Cândido Mota._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

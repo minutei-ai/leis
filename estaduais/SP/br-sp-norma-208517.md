@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.947, DE 15 DE SETEMBRO DE 2023
 
-### Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos e propostas de modernização e aperfeiçoamento da legislação relativa às Organizações Sociais.
+### _Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos e propostas de modernização e aperfeiçoamento da legislação relativa às Organizações Sociais._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

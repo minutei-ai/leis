@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1095/2017, dos Deputados Maria Lúcia Amary - PSDB, Ed Thomas - PSB, Luiz Turco - PT e Leci Brandão - PCdoB)
 
-### Dispõe sobre a política de prevenção das IST/HIV/AIDS com jovens e adolescentes.
+### _Dispõe sobre a política de prevenção das IST/HIV/AIDS com jovens e adolescentes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

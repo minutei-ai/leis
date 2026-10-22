@@ -2,7 +2,7 @@
 
 # LEI N° 18.483, DE 09 DE JUNHO DE 2026
 
-### Institui o Programa Olimpíadas do Conhecimento SP, e dá outras providências.
+### _Institui o Programa Olimpíadas do Conhecimento SP, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

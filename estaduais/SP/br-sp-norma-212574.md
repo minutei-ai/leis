@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 835/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Associação Espírita Meimei Discípulos do Amor, com sede em São José do Rio Preto.
+### _Declara de utilidade pública a Associação Espírita Meimei Discípulos do Amor, com sede em São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

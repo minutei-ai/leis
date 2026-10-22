@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.909, DE 23 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias Noroeste Paulista S/A, a área necessária à implantação de área de descanso no km 255+600 da Rodovia SP-310, no Município de Araraquara, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias Noroeste Paulista S/A, a área necessária à implantação de área de descanso no km 255+600 da Rodovia SP-310, no Município de Araraquara, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 66.814, de 3 de junho de 2022](https://www.al.sp.gov.br/norma/203800),  
 

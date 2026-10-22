@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.836, DE 05 DE SETEMBRO DE 2024
 
-### Homologa sumariamente, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Santa Cruz do Rio Pardo, que declarou Situação de Emer­gência em áreas do Município.
+### _Homologa sumariamente, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Santa Cruz do Rio Pardo, que declarou Situação de Emer­gência em áreas do Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifesta­ção do Chefe da Casa Militar e Coorde­nador Esta­dual de Proteção e Defesa Civil,  
 

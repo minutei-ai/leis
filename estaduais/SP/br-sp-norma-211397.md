@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 1367/2023, da Deputada Maria Lúcia Amary - PSDB)
 
-### Denomina "Benedicto Pagliato" a Faculdade de Tecnologia de Votorantim - FATEC Votorantim, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS.
+### _Denomina "Benedicto Pagliato" a Faculdade de Tecnologia de Votorantim - FATEC Votorantim, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1456/2023, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Isalino Quintiliano" o dispositivo de acesso e retorno com viaduto - SPD 189/340, localizado no km 188,666 da Rodovia Deputado Mario Beni - SP 340, em Estiva Gerbi.
+### _Denomina "Isalino Quintiliano" o dispositivo de acesso e retorno com viaduto - SPD 189/340, localizado no km 188,666 da Rodovia Deputado Mario Beni - SP 340, em Estiva Gerbi._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

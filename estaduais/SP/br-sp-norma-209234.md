@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 26/2022, do Deputado Valeria Bolsonaro - PRTB)
 
-### Institui a Semana Estadual da Defesa Civil no âmbito do Estado de São Paulo.
+### _Institui a Semana Estadual da Defesa Civil no âmbito do Estado de São Paulo._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

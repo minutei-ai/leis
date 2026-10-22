@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 430/2023, da Deputada Valeria Bolsonaro - PL)
 
-### Autoriza o Poder Executivo a criar o Programa Estadual para o Incentivo à Utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Transtorno do Espectro Autista - TEA.
+### _Autoriza o Poder Executivo a criar o Programa Estadual para o Incentivo à Utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Transtorno do Espectro Autista - TEA._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

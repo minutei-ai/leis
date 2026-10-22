@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 476/2020, do Deputado Emídio de Souza - PT)
 
-### Denomina "Prof.ª Selma Alves Garcia" a Escola Estadual Vila Dirce II, em Carapicuíba.
+### _Denomina "Prof.ª Selma Alves Garcia" a Escola Estadual Vila Dirce II, em Carapicuíba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

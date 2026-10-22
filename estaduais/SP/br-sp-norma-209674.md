@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 588/2020, do Deputado Frederico d'Avila - PSL)
 
-### Denomina "Rubens Sverner" a rodovia de acesso SPA 265/258, localizada no km 265+500m da Rodovia Francisco Alves Negrão - SP 258, em Taquarivaí.
+### _Denomina "Rubens Sverner" a rodovia de acesso SPA 265/258, localizada no km 265+500m da Rodovia Francisco Alves Negrão - SP 258, em Taquarivaí._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

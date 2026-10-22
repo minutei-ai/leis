@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 192/2024, do Deputado Ricardo Madalena – PL)
 
-### Declara de utilidade pública a Associação dos Profissionais de Engenharia, de Agronomia e Tecnólogos de Ferraz de Vasconcelos - ASPEAF, com sede naquele Município.
+### _Declara de utilidade pública a Associação dos Profissionais de Engenharia, de Agronomia e Tecnólogos de Ferraz de Vasconcelos - ASPEAF, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

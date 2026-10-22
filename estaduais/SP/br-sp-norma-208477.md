@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 66/2022, do Deputado André do Prado - PL)
 
-### Declara o Município de Pariquera-Açu "Capital das Plantas Ornamentais" do Estado de São Paulo
+### _Declara o Município de Pariquera-Açu "Capital das Plantas Ornamentais" do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 335/2025, da Deputada Fabiana Bolsonaro - PL)
 
-### Institui o "Dia da Família Cristã".
+### _Institui o "Dia da Família Cristã"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

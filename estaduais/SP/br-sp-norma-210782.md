@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.429, DE 20 DE MARÇO DE 2025
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto nos Ajustes SINIEF 1/19, de 5 de abril de 2019, e 7/22, de 7 de abril de 2022,
 

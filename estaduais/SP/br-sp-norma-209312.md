@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1671/2023, do Deputado Alex Madureira - PL)
 
-### Declara de utilidade pública a Associação de Proteção e Preservação Ambiental de Leme do Movimento Ecológico SOS Moji Guaçu - APPAL, com sede em Leme.
+### _Declara de utilidade pública a Associação de Proteção e Preservação Ambiental de Leme do Movimento Ecológico SOS Moji Guaçu - APPAL, com sede em Leme._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

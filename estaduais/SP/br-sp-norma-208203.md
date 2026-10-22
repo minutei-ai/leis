@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.760, DE 20 DE JUNHO DE 2023
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências.
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 67 da [Lei n° 6.374, de 1° de março de 1989](https://www.al.sp.gov.br/norma/25030), e na [Lei n° 12.685, de 28 de agosto de 2007](https://www.al.sp.gov.br/norma/73685),
 

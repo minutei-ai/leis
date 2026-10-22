@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1393/2023, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação de Engenharia, Arquitetura, Agronomia e Geologia de Rio Claro - AERC, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Engenharia, Arquitetura, Agronomia e Geologia de Rio Claro - AERC, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

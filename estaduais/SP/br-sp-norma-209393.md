@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 636/2023, do Deputado Itamar Borges - MDB)
 
-### Inclui no Calendário Turístico do Estado a Cavalgada de São João Batista, em Dourado.
+### _Inclui no Calendário Turístico do Estado a Cavalgada de São João Batista, em Dourado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

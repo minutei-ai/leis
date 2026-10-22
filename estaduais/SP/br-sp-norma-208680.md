@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 629/2023, do Deputado Carlão Pignatari - PSDB)
 
-### Declara de utilidade pública a Associação Futebol Nota 10, com sede em Santa Rita do Passa Quatro
+### _Declara de utilidade pública a Associação Futebol Nota 10, com sede em Santa Rita do Passa Quatro_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

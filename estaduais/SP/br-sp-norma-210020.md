@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 146/2024, do Deputado Marcos Damasio – PL)
 
-### Declara de utilidade pública o Centro Beneficente de Assistência Social - CBAS, com sede na Capital.
+### _Declara de utilidade pública o Centro Beneficente de Assistência Social - CBAS, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

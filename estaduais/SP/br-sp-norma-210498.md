@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.273, DE 30 DE DEZEMBRO DE 2024
 
-### Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR da Secretaria da Educação, relativa ao exercício de 2024.
+### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR da Secretaria da Educação, relativa ao exercício de 2024._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

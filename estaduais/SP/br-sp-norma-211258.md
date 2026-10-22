@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.759, DE 31 DE JULHO DE 2025
 
-### Altera o Decreto n° 69.053, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Departamento Estadual de Trânsito - DETRAN-SP.
+### _Altera o Decreto n° 69.053, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Departamento Estadual de Trânsito - DETRAN-SP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso das atribuições que lhe confere o artigo 47, inciso XIX, alínea "a", da Constituição do Estado de São Paulo, e tendo em vista o disposto na [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), e na [Lei Complementar n° 1.195, de 17 de janeiro de 2013](https://www.al.sp.gov.br/norma/169266),
 

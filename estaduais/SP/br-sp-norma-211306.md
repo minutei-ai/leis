@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.780, DE 11 DE AGOSTO DE 2025
 
-### Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria dos Transportes Metropolitanos, a administração das áreas que especifica, localizadas no Município de São Paulo.
+### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria dos Transportes Metropolitanos, a administração das áreas que especifica, localizadas no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

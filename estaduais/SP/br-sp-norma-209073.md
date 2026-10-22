@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.302, DE 03 DE JANEIRO DE 2024
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no [Decreto n° 66.373, de 22 de dezembro de 2021](https://www.al.sp.gov.br/norma/201488), na Lei Complementar n° 192, de 11 de março de 2022, no Convênio ICMS 199/22, de 22 de dezembro de 2022, e no Convênio ICMS 15/23, de 31 de março de 2023,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 969/2023, do Deputado Carlão Pignatari - PSDB)
 
-### Denomina "Paulo Norberto Arruda de Paula" o Núcleo de Perícias Médico-Legais de São José do Rio Preto.
+### _Denomina "Paulo Norberto Arruda de Paula" o Núcleo de Perícias Médico-Legais de São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

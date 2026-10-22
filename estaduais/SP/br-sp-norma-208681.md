@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 10/2023, dos Deputados Rogério Nogueira – PSDB, Luiz Fernando T. Ferreira – PT, Patrícia Gama – PSDB, Rafa Zimbaldi – CIDADANIA e Thiago Auricchio – PL)
 
-### Assegura às mulheres o direito a acompanhante durante as consultas médicas, exames e demais procedimentos clínicos nos estabelecimentos de saúde públicos e privados do Estado de São Paulo
+### _Assegura às mulheres o direito a acompanhante durante as consultas médicas, exames e demais procedimentos clínicos nos estabelecimentos de saúde públicos e privados do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

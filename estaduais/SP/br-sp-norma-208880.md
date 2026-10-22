@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 49, de 2023)
 
-### Altera a Resolução n° 805, de 3 de maio de 2000, que dispõe sobre a afiliação da ALESP à União Nacional dos Legislativos Estaduais - UNALE.
+### _Altera a Resolução n° 805, de 3 de maio de 2000, que dispõe sobre a afiliação da ALESP à União Nacional dos Legislativos Estaduais - UNALE._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

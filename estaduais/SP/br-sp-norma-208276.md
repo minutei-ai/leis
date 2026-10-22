@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.799, DE 13 DE JULHO DE 2023
 
-### Institui a Estratégia de Governo Digital para o período de 2023 a 2026, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo e dá providências correlatas.
+### _Institui a Estratégia de Governo Digital para o período de 2023 a 2026, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

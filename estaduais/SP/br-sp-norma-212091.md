@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 593/2024, dos Deputados Paulo Mansur - PL e Gilmaci Santos - REPUBLICANOS)
 
-### Denomina "Silvio Santos" o Complexo Viário de código SPD 018/330, localizado no km 18,200 da Via Anhanguera - SP 330, no município de Osasco.
+### _Denomina "Silvio Santos" o Complexo Viário de código SPD 018/330, localizado no km 18,200 da Via Anhanguera - SP 330, no município de Osasco._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

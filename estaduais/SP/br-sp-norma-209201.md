@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1327/2023, do Deputado Milton Leite Filho - UNIÃO)
 
-### Declara de utilidade pública o Centro de Pesquisa e Reabilitação Visual de Itapetininga - CEPREVI, com sede naquele Município.
+### _Declara de utilidade pública o Centro de Pesquisa e Reabilitação Visual de Itapetininga - CEPREVI, com sede naquele Município._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

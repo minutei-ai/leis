@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1208/2025, da Deputada Solange Freitas - UNIÃO)
 
-### Declara de utilidade pública o Coletivo 302, com sede no Município de Cubatão.
+### _Declara de utilidade pública o Coletivo 302, com sede no Município de Cubatão._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

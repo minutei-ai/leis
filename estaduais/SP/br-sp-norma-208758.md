@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 926/2023, do Deputado Caio França - PSB)
 
-### Declara de utilidade pública a União Internacional Protetora dos Animais - Seção de Itapetininga, com sede naquele Município
+### _Declara de utilidade pública a União Internacional Protetora dos Animais - Seção de Itapetininga, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

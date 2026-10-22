@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.817, DE 26 DE AGOSTO DE 2025
 
-### Autoriza os Secretários de Estado a realizar a convocação de conferências estaduais e dá providências correlatas.
+### _Autoriza os Secretários de Estado a realizar a convocação de conferências estaduais e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

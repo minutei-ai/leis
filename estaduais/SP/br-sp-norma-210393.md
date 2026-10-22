@@ -2,7 +2,7 @@
 
 # LEI N° 18.065, DE 18 DE DEZEMBRO DE 2024
 
-### Altera a Lei n.° 13.296, de 23 de dezembro de 2008, que estabelece o tratamento tributário do Imposto sobre a Propriedade de Veículos Automotores - IPVA.
+### _Altera a Lei n.° 13.296, de 23 de dezembro de 2008, que estabelece o tratamento tributário do Imposto sobre a Propriedade de Veículos Automotores - IPVA._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

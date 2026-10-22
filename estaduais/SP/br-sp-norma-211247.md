@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.748, DE 28 DE JULHO DE 2025
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, do Município de Piracicaba, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, do Município de Piracicaba, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.059, DE 14 DE NOVEMBRO DE 2024
 
-### Regulamenta o artigo 26-A do Decreto-Lei n° 260, de 29 de maio de 1970, que dispõe sobre a designação de policial militar do Estado transferido para a reserva para exercer, especificamente, funções administrativas, técnicas ou especializadas nas Organizações Policiais-Militares.
+### _Regulamenta o artigo 26-A do Decreto-Lei n° 260, de 29 de maio de 1970, que dispõe sobre a designação de policial militar do Estado transferido para a reserva para exercer, especificamente, funções administrativas, técnicas ou especializadas nas Organizações Policiais-Militares._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

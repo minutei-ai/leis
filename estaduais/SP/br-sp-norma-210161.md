@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.010, DE 25 DE OUTUBRO DE 2024
 
-### Institui o Plano Estadual "São Paulo Por Todas com Saúde", visando à prevenção e conscientização sobre o Câncer de Mama e do Colo do Útero no âmbito da Administração Pública Estadual, e dá providências correlatas.
+### _Institui o Plano Estadual "São Paulo Por Todas com Saúde", visando à prevenção e conscientização sobre o Câncer de Mama e do Colo do Útero no âmbito da Administração Pública Estadual, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

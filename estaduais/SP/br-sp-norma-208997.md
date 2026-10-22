@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1093/2023, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Declara de utilidade pública a Federação dos Caminhoneiros e Transportadores Autônomos de Veículos Rodoviários do Estado de São Paulo - FECAM-SP, com sede em Porto Ferreira
+### _Declara de utilidade pública a Federação dos Caminhoneiros e Transportadores Autônomos de Veículos Rodoviários do Estado de São Paulo - FECAM-SP, com sede em Porto Ferreira_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.755, DE 20 DE JUNHO DE 2023
 
-### Acrescenta dispositivos aos decretos que especifica e dá providências correlatas.
+### _Acrescenta dispositivos aos decretos que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.484, DE 14 DE ABRIL DE 2025
 
-### Dispõe sobre a prorrogação dos mandatos dos integrantes do Conselho de Participação e Desenvolvimento da Comunidade Negra do Estado de São Paulo.
+### _Dispõe sobre a prorrogação dos mandatos dos integrantes do Conselho de Participação e Desenvolvimento da Comunidade Negra do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.058, DE 06 DE NOVEMBRO DE 2023
 
-### Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2023.
+### _Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 106/14, de 21 de outubro de 2014,
 

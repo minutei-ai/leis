@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 83/2022, do Deputado Edson Giriboni – PV)
 
-### Dá denominação ao dispositivo de acesso e retorno que especifica
+### _Dá denominação ao dispositivo de acesso e retorno que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.389, DE 15 DE MARÇO DE 2024
 
-### Institui o Comitê de Integração dos Programas, Projetos e Ações de Desenvolvimento Urbano do Estado de São Paulo - CIDurb e dá providências correlatas.
+### _Institui o Comitê de Integração dos Programas, Projetos e Ações de Desenvolvimento Urbano do Estado de São Paulo - CIDurb e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

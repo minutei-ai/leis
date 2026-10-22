@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 661/2024, do Deputado Marcos Damasio - PL)
 
-### Denomina "Ermínio Brigante" a construção civil de passagem inferior de fauna CVL 166/310 localizada no Km 166,400 da Rodovia Washington Luís - SP 310, em Santa Gertrudes.
+### _Denomina "Ermínio Brigante" a construção civil de passagem inferior de fauna CVL 166/310 localizada no Km 166,400 da Rodovia Washington Luís - SP 310, em Santa Gertrudes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

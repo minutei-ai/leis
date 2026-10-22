@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 636/2024, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Guarda Mirim de Presidente Epitácio, com sede naquele Município.
+### _Declara de utilidade pública a Guarda Mirim de Presidente Epitácio, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

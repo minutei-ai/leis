@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 273/2024, do Deputado Itamar Borges – MDB)
 
-### Declara de utilidade pública a Associação dos Idosos Ilta Arcanjo Ferlete, com sede em Araçatuba.
+### _Declara de utilidade pública a Associação dos Idosos Ilta Arcanjo Ferlete, com sede em Araçatuba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

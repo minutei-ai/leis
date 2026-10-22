@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.548, DE 22 DE MAIO DE 2025
 
-### Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo, na forma que especifica.
+### _Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo, na forma que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e, nos termos do parágrafo único do artigo 10 do [Decreto-Lei n° 13.654, de 6 de novembro de 1943](https://www.al.sp.gov.br/norma/130299),
 

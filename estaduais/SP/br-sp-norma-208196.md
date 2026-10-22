@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.753, DE 20 DE JUNHO DE 2023
 
-### Altera a classificação institucional da Secretaria de Desenvolvimento Urbano e Habitação nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria de Desenvolvimento Urbano e Habitação nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 6° do [Decreto-Lei n° 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto no [Decreto n° 67.561, de 15 de março de 2023](https://www.al.sp.gov.br/norma/207321),
 

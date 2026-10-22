@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1479/2023, do Deputado Carlos Cezar - PL)
 
-### Declara de utilidade pública o Instituto de Incentivo à Vida, com sede em Itaquaquecetuba.
+### _Declara de utilidade pública o Instituto de Incentivo à Vida, com sede em Itaquaquecetuba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 70/2024, do Deputado Capitão Telhada - PP)
 
-### Declara de utilidade pública a Rede de Combate ao Câncer de Ipaussu, com sede naquele Município.
+### _Declara de utilidade pública a Rede de Combate ao Câncer de Ipaussu, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO: 
 

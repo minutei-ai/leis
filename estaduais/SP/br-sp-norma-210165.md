@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.013, DE 25 DE OUTUBRO DE 2024
 
-### Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Embu-Guaçu.
+### _Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Embu-Guaçu._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

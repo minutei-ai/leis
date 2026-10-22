@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1487/2023, do Deputado Jorge Caruso - MDB)
 
-### Declara de utilidade pública a Associação de Mães e Amigos do Autista de Hortolândia - São Paulo - AMAAH-SP, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Mães e Amigos do Autista de Hortolândia - São Paulo - AMAAH-SP, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

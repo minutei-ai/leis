@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1611/2023, da Deputada Ediane Maria - PSOL)
 
-### Institui o "Dia Estadual da Trabalhadora Doméstica e de Cuidados".
+### _Institui o "Dia Estadual da Trabalhadora Doméstica e de Cuidados"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

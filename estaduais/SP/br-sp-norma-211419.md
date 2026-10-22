@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 1558/2023, dos Deputados Capitão Telhada - PP e Felipe Franco - UNIÃO)
 
-### Institui o "Dia do Flag Football".
+### _Institui o "Dia do Flag Football"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

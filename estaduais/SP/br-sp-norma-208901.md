@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.155, DE 09 DE DEZEMBRO DE 2023
 
-### Regulamenta, em âmbito estadual, a Lei federal n° 12.527, de 18 de novembro de 2011, que dispõe sobre o acesso a informações, e dá providências correlatas.
+### _Regulamenta, em âmbito estadual, a Lei federal n° 12.527, de 18 de novembro de 2011, que dispõe sobre o acesso a informações, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

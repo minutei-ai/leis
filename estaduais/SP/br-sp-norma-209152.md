@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.362, DE 01 DE MARÇO DE 2024
 
-### Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Pacaembu.
+### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Pacaembu._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

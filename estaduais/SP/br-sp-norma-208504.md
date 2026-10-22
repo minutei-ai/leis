@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 32, de 2023)
 
-### Altera a redação do artigo 3° da Resolução n° 897, de 20 de março de 2014 e acrescenta dispositivo à Resolução n° 776, de 14 de outubro de 1996, na forma que especifica
+### _Altera a redação do artigo 3° da Resolução n° 897, de 20 de março de 2014 e acrescenta dispositivo à Resolução n° 776, de 14 de outubro de 1996, na forma que especifica_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

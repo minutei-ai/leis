@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 436, de 2022, do Deputado Campos Machado - AVANTE)
 
-### Institui o "Dia Estadual da Ortodoxia"
+### _Institui o "Dia Estadual da Ortodoxia"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

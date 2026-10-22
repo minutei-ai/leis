@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.566, DE 29 DE MAIO DE 2024
 
-### Institui o Programa SP nos Trilhos e dá providências correlatas.
+### _Institui o Programa SP nos Trilhos e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

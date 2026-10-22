@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.235, DE 22 DE DEZEMBRO DE 2023
 
-### Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas visando à participação do Estado de São Paulo na candidatura do Brasil como sede da Copa do Mundo Feminina da FIFA 2027.
+### _Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas visando à participação do Estado de São Paulo na candidatura do Brasil como sede da Copa do Mundo Feminina da FIFA 2027._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

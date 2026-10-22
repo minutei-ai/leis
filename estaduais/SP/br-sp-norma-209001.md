@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 68.540, de 22/05/2024)_
 
-### Institui no âmbito da Secretaria da Educação o Programa de Intercâmbio "Prontos pro Mundo", destinado aos alunos da rede pública estadual de ensino, e dá providências correlatas
+### _Institui no âmbito da Secretaria da Educação o Programa de Intercâmbio "Prontos pro Mundo", destinado aos alunos da rede pública estadual de ensino, e dá providências correlatas_
 
 _\- Vide [Decreto n° 68.540, de 22/05/2024](https://www.al.sp.gov.br/norma/209486)._
 

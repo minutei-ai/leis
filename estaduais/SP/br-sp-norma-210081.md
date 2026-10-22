@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.941, DE 03 DE OUTUBRO DE 2024
 
-### Transfere a administração e autoriza a permissão de uso, em favor do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, de parte do imóvel que especifica, localizado no Município de Taboão da Serra.
+### _Transfere a administração e autoriza a permissão de uso, em favor do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, de parte do imóvel que especifica, localizado no Município de Taboão da Serra._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

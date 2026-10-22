@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 622, de 2022, do Deputado Thiago Auricchio - PL)
 
-### Dá denominação ao dispositivo rodoviário que especifica
+### _Dá denominação ao dispositivo rodoviário que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

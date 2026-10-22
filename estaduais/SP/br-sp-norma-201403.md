@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 17.724, de 11/07/2023)_
 
-### Autoriza o Poder Executivo a contratar operações de crédito com instituições financeiras nacionais ou internacionais, organismos multilaterais e bilaterais de crédito, agências de fomento, bancos privados nacionais ou internacionais, agência multilateral de garantia de financiamentos e a prestar contragarantias em operações de crédito a serem celebradas pela Desenvolve SP - Agência de Fomento do Estado de São Paulo S.A.; altera as Leis n°s 14.477, de 6 de julho de 2011, 14.987, de 17 de abril e 14.990, de 29 de abril 2013, 15.427, de 22 de maio e 15.567, de 30 de outubro de 2014 e 17.302, de 11 de dezembro de 2020, e dá providências correlatas
+### _Autoriza o Poder Executivo a contratar operações de crédito com instituições financeiras nacionais ou internacionais, organismos multilaterais e bilaterais de crédito, agências de fomento, bancos privados nacionais ou internacionais, agência multilateral de garantia de financiamentos e a prestar contragarantias em operações de crédito a serem celebradas pela Desenvolve SP - Agência de Fomento do Estado de São Paulo S.A.; altera as Leis n°s 14.477, de 6 de julho de 2011, 14.987, de 17 de abril e 14.990, de 29 de abril 2013, 15.427, de 22 de maio e 15.567, de 30 de outubro de 2014 e 17.302, de 11 de dezembro de 2020, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.833, DE 04 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 530+000m e 540+000m da Rodovia SP-284, no Município de Martinópolis, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 530+000m e 540+000m da Rodovia SP-284, no Município de Martinópolis, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),  
 

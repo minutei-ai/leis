@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.822, DE 04 DE SETEMBRO DE 2024
 
-### Altera o Decreto n° 50.807, de 18 de maio de 2006, que institui o Projeto Estadual COZINHALIMENTO no Programa de Alimentação e Nutrição para Populações Carentes, e dá providências correlatas.
+### _Altera o Decreto n° 50.807, de 18 de maio de 2006, que institui o Projeto Estadual COZINHALIMENTO no Programa de Alimentação e Nutrição para Populações Carentes, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.359, DE 19 DE FEVEREIRO DE 2025
 
-### Declara situação de emergência em saúde pública no Estado de São Paulo em razão de epidemia de Dengue, e dá outras providências.
+### _Declara situação de emergência em saúde pública no Estado de São Paulo em razão de epidemia de Dengue, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

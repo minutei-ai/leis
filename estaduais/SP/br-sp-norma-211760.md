@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 862/2025, da Deputada Letícia Aguiar - PL)
 
-### Declara de utilidade pública a Casa Irmãos de Francisco, com sede em Taubaté.
+### _Declara de utilidade pública a Casa Irmãos de Francisco, com sede em Taubaté._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.478, DE 10 DE ABRIL DE 2025
 
-### Transfere, da Secretaria de Gestão e Governo Digital para o Departamento de Estradas de Rodagem - DER, a administração dos imóveis que especifica.
+### _Transfere, da Secretaria de Gestão e Governo Digital para o Departamento de Estradas de Rodagem - DER, a administração dos imóveis que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

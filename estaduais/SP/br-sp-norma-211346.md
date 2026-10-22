@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1612/2023, da Deputada Solange Freitas - UNIÃO)
 
-### Dispõe sobre a obrigatoriedade da instalação de salas de regulação sensorial voltadas às pessoas com Transtorno do Espectro Autista (TEA) e neuroatípicas em shopping centers no Estado de São Paulo, e dá outras providências.
+### _Dispõe sobre a obrigatoriedade da instalação de salas de regulação sensorial voltadas às pessoas com Transtorno do Espectro Autista (TEA) e neuroatípicas em shopping centers no Estado de São Paulo, e dá outras providências._
 
 _\- Vide [Decreto n° 70.501, de 01/04/2026](https://www.al.sp.gov.br/norma/212433)._
 

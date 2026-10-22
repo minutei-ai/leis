@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.857, DE 01 DE AGOSTO DE 2023
 
-### Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos para criação de protocolo de atendimento à mulher vítima de violência, bem como apresentar propostas de regulamentação da Lei n° 17.626, de 7 de fevereiro de 2023, que autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado.
+### _Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos para criação de protocolo de atendimento à mulher vítima de violência, bem como apresentar propostas de regulamentação da Lei n° 17.626, de 7 de fevereiro de 2023, que autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

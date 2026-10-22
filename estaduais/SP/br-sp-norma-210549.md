@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.322, DE 22 DE JANEIRO DE 2025
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Departamento de Estradas de Rodagem do Estado de São Paulo - DER.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Departamento de Estradas de Rodagem do Estado de São Paulo - DER._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

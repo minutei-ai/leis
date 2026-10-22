@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 888/2021, da Deputada Dra. Damaris Moura - PSDB)
 
-### Inclui no Calendário Turístico do Estado o Festival da Truta do Gomeral, em Guaratinguetá
+### _Inclui no Calendário Turístico do Estado o Festival da Truta do Gomeral, em Guaratinguetá_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

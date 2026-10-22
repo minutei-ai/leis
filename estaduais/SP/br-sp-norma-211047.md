@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.591, DE 09 DE JUNHO DE 2025
 
-### Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Caixa Beneficente da Polícia Militar do Estado - CBPM.
+### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Caixa Beneficente da Polícia Militar do Estado - CBPM._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e tendo em vista o disposto na [Lei n° 452, de 2 de outubro de 1974](https://www.al.sp.gov.br/norma/38971),
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1565/2023, do Deputado Thiago Auricchio - PL)
 
-### Declara de utilidade pública o Recanto de Luz - Pronto Socorro Espiritual Irmã Scheilla, com sede em Ribeirão Pires.
+### _Declara de utilidade pública o Recanto de Luz - Pronto Socorro Espiritual Irmã Scheilla, com sede em Ribeirão Pires._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

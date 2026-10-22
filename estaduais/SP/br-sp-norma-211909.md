@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 351/2024, do Deputado Carlão Pignatari - PSDB)
 
-### Denomina "Escrivão de Polícia Alexandre Borges Sodero" a Delegacia de Polícia de Silveiras.
+### _Denomina "Escrivão de Polícia Alexandre Borges Sodero" a Delegacia de Polícia de Silveiras._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

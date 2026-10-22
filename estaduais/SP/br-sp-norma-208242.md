@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 462, de 2022, do Deputado Mauro Bragato - PSDB)
 
-### Dá denominação ao dispositivo de segurança que especifica
+### _Dá denominação ao dispositivo de segurança que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

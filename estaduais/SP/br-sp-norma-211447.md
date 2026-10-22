@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.868, DE 15 DE SETEMBRO DE 2025
 
-### Transfere, da Secretaria de Gestão e Governo Digital para o Ministério Público do Estado de São Paulo, a administração do imóvel que especifica, localizado no Município de Iguape.
+### _Transfere, da Secretaria de Gestão e Governo Digital para o Ministério Público do Estado de São Paulo, a administração do imóvel que especifica, localizado no Município de Iguape._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

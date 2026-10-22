@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 295/2025, do Deputado Fábio Faria de Sá - PODE)
 
-### Institui o "Dia Estadual do Vôlei Adaptado à Melhor Idade".
+### _Institui o "Dia Estadual do Vôlei Adaptado à Melhor Idade"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

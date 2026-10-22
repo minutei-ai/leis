@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.287, DE 28 DE DEZEMBRO DE 2023
 
-### Altera a denominação da Unidade Recomeço Helvétia, criada pelo Decreto n° 59.663, de 25 de outubro de 2013, dispõe sobre suas atribuições e dá providências correlatas.
+### _Altera a denominação da Unidade Recomeço Helvétia, criada pelo Decreto n° 59.663, de 25 de outubro de 2013, dispõe sobre suas atribuições e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 869/2024, da Deputada Maria Lúcia Amary - PSDB)
 
-### Declara de utilidade pública o Instituto de Gestão, Administração e Pesquisa em Saúde - IGAPS, com sede em Santo André.
+### _Declara de utilidade pública o Instituto de Gestão, Administração e Pesquisa em Saúde - IGAPS, com sede em Santo André._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

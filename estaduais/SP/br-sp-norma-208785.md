@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.070, DE 09 DE NOVEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, a área complementar necessária à duplicação do Subtrecho 2 - Vargem Grande Paulista/São Roque, entre os km 53+000m e 58+500m da Rodovia Raposo Tavares, SP-270, no Município de São Roque, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, a área complementar necessária à duplicação do Subtrecho 2 - Vargem Grande Paulista/São Roque, entre os km 53+000m e 58+500m da Rodovia Raposo Tavares, SP-270, no Município de São Roque, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320), alterado pelo [Decreto n° 53.707, de 18 de novembro de 2008](https://www.al.sp.gov.br/norma/142372),
 

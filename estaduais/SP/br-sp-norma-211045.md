@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.593, DE 09 DE JUNHO DE 2025
 
-### Dispõe sobre a oficialização da XIV Conferência Estadual de Assistência Social e dá providências correlatas.
+### _Dispõe sobre a oficialização da XIV Conferência Estadual de Assistência Social e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

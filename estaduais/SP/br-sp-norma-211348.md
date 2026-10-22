@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 586/2024, do Deputado Rogério Nogueira - PSDB)
 
-### Dispõe sobre a disponibilização de Unidade de Terapia Intensiva Móvel com médico intensivista nos torneios e campeonatos esportivos radicais motorizados, e dá outras providências.
+### _Dispõe sobre a disponibilização de Unidade de Terapia Intensiva Móvel com médico intensivista nos torneios e campeonatos esportivos radicais motorizados, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

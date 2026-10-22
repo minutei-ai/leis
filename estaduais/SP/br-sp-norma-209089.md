@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.318, DE 26 DE JANEIRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela INTERVIAS - Concessionária de Rodovias do Interior Paulista S/A, as áreas necessárias à duplicação do trecho entre os km 49+700 e 74+721 da Rodovia SP-191, nos Municípios de Araras e Rio Claro, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela INTERVIAS - Concessionária de Rodovias do Interior Paulista S/A, as áreas necessárias à duplicação do trecho entre os km 49+700 e 74+721 da Rodovia SP-191, nos Municípios de Araras e Rio Claro, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 42.840, de 4 de fevereiro de 1998](https://www.al.sp.gov.br/norma/6251),
 

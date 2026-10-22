@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.542, DE 22 DE MAIO DE 2025
 
-### Institui a Medalha de "Mérito Fazendário Professor Antonio Delfim Netto", da Secretaria da Fazenda e Planejamento, e dá providências correlatas.
+### _Institui a Medalha de "Mérito Fazendário Professor Antonio Delfim Netto", da Secretaria da Fazenda e Planejamento, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

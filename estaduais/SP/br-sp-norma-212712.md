@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 870/2025, do Deputado Danilo Campetti - REPUBLICANOS)
 
-### Denomina "Paulo Sérgio Dezan" o dispositivo de acesso e retorno, de código SPD 489/310, localizado no km 489 + 172m da Rodovia Feliciano Sales Cunha - SP 310, no Município de Poloni.
+### _Denomina "Paulo Sérgio Dezan" o dispositivo de acesso e retorno, de código SPD 489/310, localizado no km 489 + 172m da Rodovia Feliciano Sales Cunha - SP 310, no Município de Poloni._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.019, DE 11 DE OUTUBRO DE 2023
 
-### Altera dispositivo do Decreto n° 52.334, de 6 de novembro de 2007.
+### _Altera dispositivo do Decreto n° 52.334, de 6 de novembro de 2007._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

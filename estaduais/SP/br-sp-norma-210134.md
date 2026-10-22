@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.987, DE 21 DE OUTUBRO DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Combatente Luiz Caetano de Moura", instituída pela Associação dos Ex-Combatentes da FEB Região Bragantina, e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Combatente Luiz Caetano de Moura", instituída pela Associação dos Ex-Combatentes da FEB Região Bragantina, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

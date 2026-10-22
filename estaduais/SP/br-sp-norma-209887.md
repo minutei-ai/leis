@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.807, DE 26 DE AGOSTO DE 2024
 
-### Dispõe sobre a gestão do Plano Plurianual 2024-2027, instituído pela Lei n° 17.898, de 9 de abril de 2024.
+### _Dispõe sobre a gestão do Plano Plurianual 2024-2027, instituído pela Lei n° 17.898, de 9 de abril de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

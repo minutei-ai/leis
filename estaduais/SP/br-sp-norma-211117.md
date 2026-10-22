@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 823/2024, do Deputado Conte Lopes - PL)
 
-### Institui a "Semana da Amizade entre Animais de Estimação e seus Tutores".
+### _Institui a "Semana da Amizade entre Animais de Estimação e seus Tutores"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

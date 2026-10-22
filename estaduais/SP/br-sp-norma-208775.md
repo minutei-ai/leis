@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 341/2023, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Beneficência Camiliana do Sul, com sede na Capital
+### _Declara de utilidade pública a Beneficência Camiliana do Sul, com sede na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 282/2024, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Laudelino Cavenaghi - Lau" o dispositivo de acesso e retorno com viaduto, de código SPD 183/342, localizado no Km 182 + 700m da Rodovia Dr. Adhemar Pereira de Barros - SP 342, no Município de Mogi Guaçu
+### _Denomina "Laudelino Cavenaghi - Lau" o dispositivo de acesso e retorno com viaduto, de código SPD 183/342, localizado no Km 182 + 700m da Rodovia Dr. Adhemar Pereira de Barros - SP 342, no Município de Mogi Guaçu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

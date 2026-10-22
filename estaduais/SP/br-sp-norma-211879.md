@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 265/2024 da Deputada Marina Helou - REDE)
 
-### Institui o "Dia das Brigadas e do Brigadista Florestal Popular e Voluntário do Estado de São Paulo".
+### _Institui o "Dia das Brigadas e do Brigadista Florestal Popular e Voluntário do Estado de São Paulo"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

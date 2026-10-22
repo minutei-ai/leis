@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.210, DE 15 DE DEZEMBRO DE 2023
 
-### Altera os incisos I e II do artigo 20-A do Decreto n° 48.597, de 12 de abril de 2004, na redação dada pelo Decreto n° 53.247, de 17 de junho de 2008.
+### _Altera os incisos I e II do artigo 20-A do Decreto n° 48.597, de 12 de abril de 2004, na redação dada pelo Decreto n° 53.247, de 17 de junho de 2008._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 131/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Associação de Valorização Humana - AVAHU, com sede em Dracena.
+### _Declara de utilidade pública a Associação de Valorização Humana - AVAHU, com sede em Dracena._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

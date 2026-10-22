@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.342, DE 29 DE FEVEREIRO DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha do Mérito do Museu Histórico Militar de Bauru", instituído pela Associação Museu Histórico e Militar de Bauru e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha do Mérito do Museu Histórico Militar de Bauru", instituído pela Associação Museu Histórico e Militar de Bauru e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

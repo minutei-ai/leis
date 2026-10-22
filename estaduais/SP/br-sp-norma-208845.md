@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.112, DE 28 DE NOVEMBRO DE 2023
 
-### Altera dispositivo do Decreto n° 59.406, de 7 de agosto de 2013, que autorizou a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Fernão, o imóvel que especifica.
+### _Altera dispositivo do Decreto n° 59.406, de 7 de agosto de 2013, que autorizou a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Fernão, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

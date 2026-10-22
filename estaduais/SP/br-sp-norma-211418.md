@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 464/2025, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Creche Joanna de Angelis, com sede em Rosana.
+### _Declara de utilidade pública a Creche Joanna de Angelis, com sede em Rosana._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

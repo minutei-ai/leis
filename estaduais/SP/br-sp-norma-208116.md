@@ -2,7 +2,7 @@
 
 # LEI N° 17.692, DE 25 DE MAIO DE 2023
 
-### Revaloriza os pisos salariais mensais dos trabalhadores que especifica, instituídos pela Lei n° 12.640, de 11 de julho de 2007
+### _Revaloriza os pisos salariais mensais dos trabalhadores que especifica, instituídos pela Lei n° 12.640, de 11 de julho de 2007_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

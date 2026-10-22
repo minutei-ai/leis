@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.231, DE 23 DE DEZEMBRO DE 2024
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Estadual do Alto Paranapanema.
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Estadual do Alto Paranapanema._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

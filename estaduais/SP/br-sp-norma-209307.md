@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 840/2023, do Deputado Rui Alves - REPUBLICANOS)
 
-### Institui o "Dia do Missionário Evangélico".
+### _Institui o "Dia do Missionário Evangélico"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

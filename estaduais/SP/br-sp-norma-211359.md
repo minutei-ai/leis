@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.825, DE 26 DE AGOSTO DE 2025
 
-### Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à execução de programa habitacional e de desenvolvimento e requalificação urbana, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à execução de programa habitacional e de desenvolvimento e requalificação urbana, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

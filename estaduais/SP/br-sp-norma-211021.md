@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.586, DE 09 DE JUNHO DE 2025
 
-### Delega competência ao Secretário da Fazenda e Planejamento para os fins que especifica.
+### _Delega competência ao Secretário da Fazenda e Planejamento para os fins que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

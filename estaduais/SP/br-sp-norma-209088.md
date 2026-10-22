@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.317, DE 26 DE JANEIRO DE 2024
 
-### Altera dispositivo do Decreto n° 42.440, de 6 de novembro de 1997, que autorizou a Fazenda do Estado a receber, mediante doação, do Município de Presidente Venceslau, o imóvel que especifica.
+### _Altera dispositivo do Decreto n° 42.440, de 6 de novembro de 1997, que autorizou a Fazenda do Estado a receber, mediante doação, do Município de Presidente Venceslau, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

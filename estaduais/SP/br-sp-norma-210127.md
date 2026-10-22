@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.980, DE 21 DE OUTUBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à implantação da Estação Elevatória de Esgoto Bamburral Jusante (Alternativa 2), integrante do Sistema de Esgotamento Sanitário - S.E.S., no Distrito de Perus, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à implantação da Estação Elevatória de Esgoto Bamburral Jusante (Alternativa 2), integrante do Sistema de Esgotamento Sanitário - S.E.S., no Distrito de Perus, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

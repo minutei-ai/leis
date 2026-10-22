@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.453, DE 18 DE ABRIL DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Linha Universidade S/A., os imóveis necessários à implantação do Poço de Ventilação e Saída de Emergência (VSE) Felício dos Santos, da Subestação Liberdade, e do túnel de via entre o VSE e a Estação São Joaquim, da Linha 6 - Laranja do Metrô, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Linha Universidade S/A., os imóveis necessários à implantação do Poço de Ventilação e Saída de Emergência (VSE) Felício dos Santos, da Subestação Liberdade, e do túnel de via entre o VSE e a Estação São Joaquim, da Linha 6 - Laranja do Metrô, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

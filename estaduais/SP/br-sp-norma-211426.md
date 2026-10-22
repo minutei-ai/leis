@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 859/2024, da Deputada Delegada Graciela - PL))
 
-### Declara de utilidade pública o Instituto Pablo Henrique, com sede em Franca.
+### _Declara de utilidade pública o Instituto Pablo Henrique, com sede em Franca._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

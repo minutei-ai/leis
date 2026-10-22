@@ -2,7 +2,7 @@
 
 # LEI N° 18.442, DE 02 DE ABRIL DE 2026
 
-### Dispõe sobre efetivo, regime jurídico e regras gerais de promoção dos militares do Estado de São Paulo e dá providências correlatas.
+### _Dispõe sobre efetivo, regime jurídico e regras gerais de promoção dos militares do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

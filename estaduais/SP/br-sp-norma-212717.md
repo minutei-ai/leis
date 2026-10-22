@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 196/2026, do Deputado Alex Madureira – PL)
 
-### Declara de utilidade pública a Associação Cristã Servir, com sede em Andradina.
+### _Declara de utilidade pública a Associação Cristã Servir, com sede em Andradina._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

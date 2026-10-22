@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.478, DE 24 DE ABRIL DE 2024
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Rio Claro, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Rio Claro, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

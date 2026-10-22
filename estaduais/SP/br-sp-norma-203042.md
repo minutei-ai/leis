@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 567, de 2021, do Deputado Rafa Zimbaldi - PL)
 
-### ~~Institui o "Dia da Imigração Libanesa"~~
+### _~~Institui o "Dia da Imigração Libanesa"~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
 ~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~<br>

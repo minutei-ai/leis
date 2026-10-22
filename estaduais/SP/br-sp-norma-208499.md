@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.922, DE 12 DE SETEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária das Linhas 8 e 9 do Sistema de Trens Metropolitanos de São Paulo S/A - Viamobilidade Linhas 8 e 9, a área necessária à implantação da Passarela Jardim Sorocaba, no Município de Itapevi, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária das Linhas 8 e 9 do Sistema de Trens Metropolitanos de São Paulo S/A - Viamobilidade Linhas 8 e 9, a área necessária à implantação da Passarela Jardim Sorocaba, no Município de Itapevi, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

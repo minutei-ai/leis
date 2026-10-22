@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.875, DE 13 DE AGOSTO DE 2023
 
-### Dá denominação de "Doutor Francisco Loup Filho" à Delegacia de Investigações sobre Entorpecentes (DISE) de São João da Boa Vista, do Departamento de Polícia Judiciária de São Paulo Interior - Deinter 9 - Piracicaba.
+### _Dá denominação de "Doutor Francisco Loup Filho" à Delegacia de Investigações sobre Entorpecentes (DISE) de São João da Boa Vista, do Departamento de Polícia Judiciária de São Paulo Interior - Deinter 9 - Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

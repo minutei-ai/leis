@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1215/2023, do Deputado Milton Leite Filho - UNIÃO)
 
-### Declara de utilidade pública a Associação Cultural, Assistencial, Educacional - "Macaé", com sede em Diadema.
+### _Declara de utilidade pública a Associação Cultural, Assistencial, Educacional - "Macaé", com sede em Diadema._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

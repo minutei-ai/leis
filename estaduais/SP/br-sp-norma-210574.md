@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.344, DE 06 DE FEVEREIRO DE 2025
 
-### Autoriza a outorga de uso, à Fundação Faculdade Regional de Medicina de São José do Rio Preto - FUNFARME, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, à Fundação Faculdade Regional de Medicina de São José do Rio Preto - FUNFARME, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

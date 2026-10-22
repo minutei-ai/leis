@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.613, DE 10 DE JUNHO DE 2025
 
-### Altera o Decreto n° 68.926, de 26 de setembro de 2024, que regulamenta a forma de destinação dos bens, direitos e valores cuja perda houver sido declarada pelo Poder Judiciário estadual, em favor do Estado, como efeito da condenação pelos crimes de "lavagem" ou ocultação de bens, direitos e valores, na forma do § 1° do artigo 7° da Lei federal n° 9.613, de 3 de março de 1998, e dá outras providências.
+### _Altera o Decreto n° 68.926, de 26 de setembro de 2024, que regulamenta a forma de destinação dos bens, direitos e valores cuja perda houver sido declarada pelo Poder Judiciário estadual, em favor do Estado, como efeito da condenação pelos crimes de "lavagem" ou ocultação de bens, direitos e valores, na forma do § 1° do artigo 7° da Lei federal n° 9.613, de 3 de março de 1998, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃOPAULO, no uso de suas atribuições legais,
 

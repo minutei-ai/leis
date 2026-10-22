@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 405/2021, do Deputado Rodrigo Gambale - PSL)
 
-### Inclui no Calendário Oficial do Estado a Encenação da Paixão de Cristo, em Santa Isabel.
+### _Inclui no Calendário Oficial do Estado a Encenação da Paixão de Cristo, em Santa Isabel._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

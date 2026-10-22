@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.208, DE 15 DE DEZEMBRO DE 2023
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Virtude Samaritana", instituída pela Associação Paulista dos Servidores do Estado e dos Municípios de São Paulo - PAULISERV-SP, e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Virtude Samaritana", instituída pela Associação Paulista dos Servidores do Estado e dos Municípios de São Paulo - PAULISERV-SP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

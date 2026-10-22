@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.320, DE 22 DE JANEIRO DE 2025
 
-### Altera o Decreto n° 68.308, de 16 de janeiro de 2024, que regulamenta a Lei n° 13.798, de 9 de novembro de 2009, dispõe sobre a Política Estadual de Mudanças Climáticas, reorganiza o Conselho Estadual de Mudanças Climáticas e o Comitê Gestor da Política Estadual de Mudanças Climáticas, e dá providências correlatas.
+### _Altera o Decreto n° 68.308, de 16 de janeiro de 2024, que regulamenta a Lei n° 13.798, de 9 de novembro de 2009, dispõe sobre a Política Estadual de Mudanças Climáticas, reorganiza o Conselho Estadual de Mudanças Climáticas e o Comitê Gestor da Política Estadual de Mudanças Climáticas, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

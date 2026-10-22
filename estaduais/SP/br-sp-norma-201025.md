@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 298, de 2021, do Deputado Alex de Madureira - PSD)
 
-### ~~Proíbe as instituições financeiras de ofertar e celebrar contrato de empréstimo de qualquer natureza, com aposentados e pensionistas, por ligação telefônica, no âmbito do Estado~~
+### _~~Proíbe as instituições financeiras de ofertar e celebrar contrato de empréstimo de qualquer natureza, com aposentados e pensionistas, por ligação telefônica, no âmbito do Estado~~_
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 

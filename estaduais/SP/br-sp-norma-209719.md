@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1252/2023, do Deputado Marcos Damasio - PL)
 
-### Denomina "José Teixeira do Amaral" a passagem inferior de gado localizada no km 165,210 da Rodovia Washington Luiz - SP 310, acesso ao Município de Santa Gertrudes.
+### _Denomina "José Teixeira do Amaral" a passagem inferior de gado localizada no km 165,210 da Rodovia Washington Luiz - SP 310, acesso ao Município de Santa Gertrudes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.558, DE 17 DE DEZEMBRO DE 2024
 
-### Aprova a indicação de membro para integrar o Conselho Diretor da Agência de Águas do Estado de São Paulo - SP-ÁGUAS.
+### _Aprova a indicação de membro para integrar o Conselho Diretor da Agência de Águas do Estado de São Paulo - SP-ÁGUAS._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 

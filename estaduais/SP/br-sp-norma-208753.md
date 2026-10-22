@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 172/2022, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Institui o "Março Roxo - Mês Estadual de Defesa dos Direitos da Pessoa com Epilepsia"
+### _Institui o "Março Roxo - Mês Estadual de Defesa dos Direitos da Pessoa com Epilepsia"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

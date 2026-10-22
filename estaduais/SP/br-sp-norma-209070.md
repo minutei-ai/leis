@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.299, DE 03 DE JANEIRO DE 2024
 
-### Institui Grupo de Trabalho com o objetivo de orientar a elaboração de estudos, propostas de ações e demais providências destinadas à aplicação, no âmbito do Poder Executivo, dos §§ 2° e 3° do artigo 98 da Lei federal n° 8.112, de 11 de dezembro de 1990.
+### _Institui Grupo de Trabalho com o objetivo de orientar a elaboração de estudos, propostas de ações e demais providências destinadas à aplicação, no âmbito do Poder Executivo, dos §§ 2° e 3° do artigo 98 da Lei federal n° 8.112, de 11 de dezembro de 1990._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

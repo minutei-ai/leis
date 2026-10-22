@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.243, DE 22 DE DEZEMBRO DE 2023
 
-### Dispõe sobre a remessa de bens e mercadorias entre estabelecimentos pertencentes ao mesmo titular
+### _Dispõe sobre a remessa de bens e mercadorias entre estabelecimentos pertencentes ao mesmo titular_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 178/23, de 1° de dezembro de 2023,
 

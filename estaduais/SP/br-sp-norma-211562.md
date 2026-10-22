@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.902, DE 24 DE SETEMBRO DE 2025
 
-### Fixa o Quadro de Pessoal da Fundação para a Conservação e a Produção Florestal do Estado de São Paulo.
+### _Fixa o Quadro de Pessoal da Fundação para a Conservação e a Produção Florestal do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e com fundamento na competência privativa que lhe confere o inciso XII do artigo 47 da Constituição do Estado,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 357/2023, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Denomina "Senador Major Olimpio" o dispositivo de acesso e retorno com duplo viaduto SPD 133/065, em Campinas.
+### _Denomina "Senador Major Olimpio" o dispositivo de acesso e retorno com duplo viaduto SPD 133/065, em Campinas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

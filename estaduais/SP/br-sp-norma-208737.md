@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.046, DE 31 DE OUTUBRO DE 2023
 
-### Altera dispositivos do Decreto n° 67.475, de 6 de fevereiro de 2023, que dispõe sobre a delegação de competência que especifica.
+### _Altera dispositivos do Decreto n° 67.475, de 6 de fevereiro de 2023, que dispõe sobre a delegação de competência que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

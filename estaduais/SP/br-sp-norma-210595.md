@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1270/2023, do Deputado Vinicius Camarinha - PSDB)
 
-### Denomina Penitenciária "José Luiz Mansur" de Marília a penitenciária localizada no km 465 da rodovia Comandante João Ribeiro de Barros-SP 294, em Marília.
+### _Denomina Penitenciária "José Luiz Mansur" de Marília a penitenciária localizada no km 465 da rodovia Comandante João Ribeiro de Barros-SP 294, em Marília._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

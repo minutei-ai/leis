@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.761, DE 20 DE JUNHO DE 2023
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no Convênio S/N°, de 15 de dezembro de 1970, no Ajuste SINIEF 02/93, de 9 de dezembro de 1993, e no Protocolo ICMS 52/00, de 15 de dezembro de 2000,
 

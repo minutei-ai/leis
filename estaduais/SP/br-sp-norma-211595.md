@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.927, DE 01 DE OUTUBRO DE 2025
 
-### Autoriza a abertura de licitação para a concessão dos serviços públicos de ampliação, operação, conservação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Rota Mogiana", e aprova o respectivo regulamento.
+### _Autoriza a abertura de licitação para a concessão dos serviços públicos de ampliação, operação, conservação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Rota Mogiana", e aprova o respectivo regulamento._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão dos serviços públicos de exploração dos novos lotes de concessões rodoviárias do Estado de São Paulo, por ocasião da 18ª Reunião Conjunta Ordinária, concernente à 54ª Reunião Ordinária do CDPED e do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 24 de setembro de 2025,
 

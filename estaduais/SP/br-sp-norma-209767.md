@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.717, DE 25 DE JULHO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Ribeirão Pires, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Ribeirão Pires, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,    
 

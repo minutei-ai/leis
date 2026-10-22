@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.776, DE 11 DE AGOSTO DE 2025
 
-### Institui a Medalha "Mérito das Ações Especiais de Polícia".
+### _Institui a Medalha "Mérito das Ações Especiais de Polícia"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

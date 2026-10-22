@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.910, DE 29 DE AGOSTO DE 2023
 
-### Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Catanduva.
+### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Catanduva._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

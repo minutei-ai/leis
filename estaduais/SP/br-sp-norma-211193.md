@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.428, DE 16 DE JULHO DE 2025
 
-### Dispõe sobre transformação de cargos do Quadro de Pessoal do Tribunal de Justiça Militar do Estado de São Paulo.
+### _Dispõe sobre transformação de cargos do Quadro de Pessoal do Tribunal de Justiça Militar do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

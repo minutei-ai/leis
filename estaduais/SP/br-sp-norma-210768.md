@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 658/2024, do Deputado Léo Oliveira - MDB)
 
-### Declara de utilidade pública a Associação de Bairro da Cohab III, com sede em Sertãozinho.
+### _Declara de utilidade pública a Associação de Bairro da Cohab III, com sede em Sertãozinho._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.670, DE 03 DE JULHO DE 2025
 
-### Autoriza a outorga de uso, ao Município de Conchas, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Conchas, do imóvel que especifica, e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

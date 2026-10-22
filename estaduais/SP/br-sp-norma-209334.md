@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.469, DE 22 DE ABRIL DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Mérito Jurídico", instituída pelo Instituto Histórico Militar - IHM e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Mérito Jurídico", instituída pelo Instituto Histórico Militar - IHM e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

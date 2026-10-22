@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 4, de 2022, da Deputada Maria Lúcia Amary - PSDB)
 
-### Dá denominação à passarela que especifica
+### _Dá denominação à passarela que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

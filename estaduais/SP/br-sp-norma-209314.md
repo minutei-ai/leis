@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.449, DE 18 DE ABRIL DE 2024
 
-### Institui o Distrito Turístico Portal da Mata Atlântica nas áreas que especifica dos Municípios de Ibiúna, Juquiá, Miracatu, Piedade e Tapiraí, e dá providências correlatas.
+### _Institui o Distrito Turístico Portal da Mata Atlântica nas áreas que especifica dos Municípios de Ibiúna, Juquiá, Miracatu, Piedade e Tapiraí, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

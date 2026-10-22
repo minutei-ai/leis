@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.773, DE 11 DE AGOSTO DE 2025
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos e melhoria do trecho entre os km 1,20m e 46,00m da Rodovia Floriano Rodrigues Pinheiro, SP-123, nos Municípios de Taubaté, Tremembé, Pindamonhangaba, Santo Antônio do Pinhal e Campos do Jordão, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos e melhoria do trecho entre os km 1,20m e 46,00m da Rodovia Floriano Rodrigues Pinheiro, SP-123, nos Municípios de Taubaté, Tremembé, Pindamonhangaba, Santo Antônio do Pinhal e Campos do Jordão, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

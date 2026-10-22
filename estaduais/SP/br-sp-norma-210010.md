@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.411, DE 19 DE SETEMBRO DE 2024
 
-### Altera a Lei Complementar n° 988, 9 de janeiro de 2006, que organiza a Defensoria Pública do Estado e institui o regime jurídico da carreira de Defensor Público do Estado.
+### _Altera a Lei Complementar n° 988, 9 de janeiro de 2006, que organiza a Defensoria Pública do Estado e institui o regime jurídico da carreira de Defensor Público do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

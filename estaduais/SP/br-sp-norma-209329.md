@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.450, DE 18 DE ABRIL DE 2024
 
-### Altera o Decreto n° 66.805, de 2 de junho de 2022, que regulamenta a concessão do Adicional de Local de Exercício para os integrantes do Quadro de Apoio Escolar, e o Decreto n° 66.806, de 2 de junho de 2022, que regulamenta a concessão do Adicional de Local de Exercício para os integrantes do Quadro do Magistério.
+### _Altera o Decreto n° 66.805, de 2 de junho de 2022, que regulamenta a concessão do Adicional de Local de Exercício para os integrantes do Quadro de Apoio Escolar, e o Decreto n° 66.806, de 2 de junho de 2022, que regulamenta a concessão do Adicional de Local de Exercício para os integrantes do Quadro do Magistério._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

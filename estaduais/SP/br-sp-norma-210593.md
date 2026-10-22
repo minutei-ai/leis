@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1265/2023, do Deputado Vinicius Camarinha - PSDB)
 
-### Denomina "Manoel Martins Sanchez" a rodovia de acesso SPA 392/270, cuja extensão é de 1,350 km, com seu início localizado no km 392,598 da Rodovia Raposo Tavares - SP 270, em Salto Grande.
+### _Denomina "Manoel Martins Sanchez" a rodovia de acesso SPA 392/270, cuja extensão é de 1,350 km, com seu início localizado no km 392,598 da Rodovia Raposo Tavares - SP 270, em Salto Grande._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 750/2021, do Deputado Rafa Zimbaldi - PL)
 
-### Institui o "Dia Estadual da Renovação Carismática Católica - RCC".
+### _Institui o "Dia Estadual da Renovação Carismática Católica - RCC"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

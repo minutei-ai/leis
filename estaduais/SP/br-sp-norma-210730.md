@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 382/2024, da Deputada Carla Morando - PSDB)
 
-### Declara de utilidade pública a Comunidade Terapêutica Acolhedora Filhos da Luz, com sede em Carapicuíba.
+### _Declara de utilidade pública a Comunidade Terapêutica Acolhedora Filhos da Luz, com sede em Carapicuíba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

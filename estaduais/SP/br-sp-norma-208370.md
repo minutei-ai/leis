@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.860, DE 04 DE AGOSTO DE 2023
 
-### Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de São Paulo.
+### _Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 866/2023, do Deputado Paulo Mansur - PL)
 
-### Denomina "Deputado Federal Paulo Jorge Mansur" o viaduto localizado sobre a Rodovia Anchieta - SP 150, na altura do km 63+150m, em Santos.
+### _Denomina "Deputado Federal Paulo Jorge Mansur" o viaduto localizado sobre a Rodovia Anchieta - SP 150, na altura do km 63+150m, em Santos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 157/2024, do Deputado Dr. Jorge do Carmo - PT)
 
-### Denomina "Vereador José Laurindo de Oliveira" o viaduto de transposição codificado VDT 003/021, localizado no km 002,600 do Rodoanel Mário Covas - SP 021, no Município de São Paulo
+### _Denomina "Vereador José Laurindo de Oliveira" o viaduto de transposição codificado VDT 003/021, localizado no km 002,600 do Rodoanel Mário Covas - SP 021, no Município de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

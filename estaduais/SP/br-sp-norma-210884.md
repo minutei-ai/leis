@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.501, DE 25 DE ABRIL DE 2025
 
-### Altera o Anexo V-A do Decreto n° 69.430, de 20 de março de 2025, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Políticas para a Mulher.
+### _Altera o Anexo V-A do Decreto n° 69.430, de 20 de março de 2025, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Políticas para a Mulher._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 409/2024, do Deputado Rogério Santos - MDB)
 
-### Declara de utilidade pública a Fundação Olga de Sá, com sede em Lorena.
+### _Declara de utilidade pública a Fundação Olga de Sá, com sede em Lorena._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

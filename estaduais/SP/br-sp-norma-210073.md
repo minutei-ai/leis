@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.935, DE 02 DE OUTUBRO DE 2024
 
-### Regulamenta a Lei n° 18.028, de 10 de setembro de 2024, que institui o Programa Estágio SP, de incentivo à concessão de estágio, aprendizagem profissional e monitoria para estudantes do Ensino Médio da Rede Pública estadual, visando a formação técnica e acadêmica, e dá outras providências.
+### _Regulamenta a Lei n° 18.028, de 10 de setembro de 2024, que institui o Programa Estágio SP, de incentivo à concessão de estágio, aprendizagem profissional e monitoria para estudantes do Ensino Médio da Rede Pública estadual, visando a formação técnica e acadêmica, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

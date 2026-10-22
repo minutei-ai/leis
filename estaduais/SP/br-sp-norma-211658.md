@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1368/2023, do Deputado Rodrigo Moraes - PL)
 
-### Denomina "Claudio Adas Junqueira Schmidt" a Rotatória em Nível SPD 056/079, localizada no km 55,950 da Rodovia Waldomiro Corrêa de Camargo - SP 079, em Itu.
+### _Denomina "Claudio Adas Junqueira Schmidt" a Rotatória em Nível SPD 056/079, localizada no km 55,950 da Rodovia Waldomiro Corrêa de Camargo - SP 079, em Itu._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

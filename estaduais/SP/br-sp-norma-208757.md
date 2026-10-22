@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 841/2023, do Deputado Caio França - PSB)
 
-### Declara de utilidade pública a Associação Pedagógica Waldorf Santos, com sede em Santos
+### _Declara de utilidade pública a Associação Pedagógica Waldorf Santos, com sede em Santos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

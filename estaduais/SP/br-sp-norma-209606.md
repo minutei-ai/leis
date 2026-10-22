@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.636, DE 20 DE JUNHO DE 2024
 
-### Altera o Decreto n° 60.286, de 25 de março de 2014, que ins­titui e regulamenta o Sistema Paulista de Ambientes de Ino­vação - SPAI e dá providências correlatas.
+### _Altera o Decreto n° 60.286, de 25 de março de 2014, que ins­titui e regulamenta o Sistema Paulista de Ambientes de Ino­vação - SPAI e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.968, DE 18 DE SETEMBRO DE 2023
 
-### Transfere a administração dos imóveis que especifica, localizados no Município de Itapeva.
+### _Transfere a administração dos imóveis que especifica, localizados no Município de Itapeva._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,
 

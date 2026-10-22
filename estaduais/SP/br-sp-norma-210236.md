@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.054, DE 14 DE NOVEMBRO DE 2024
 
-### Concede a "Medalha do Mérito Turístico" à personalidade que especifica.
+### _Concede a "Medalha do Mérito Turístico" à personalidade que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

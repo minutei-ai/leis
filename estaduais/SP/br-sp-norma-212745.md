@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 92/2026, do Deputado Caio França – PSB)
 
-### Declara de utilidade pública a Associação Esportiva, Educacional, Cultural e Social Formando Cidadão, com sede em Guarujá.
+### _Declara de utilidade pública a Associação Esportiva, Educacional, Cultural e Social Formando Cidadão, com sede em Guarujá._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

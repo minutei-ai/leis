@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 244, de 2022, do Deputado Marcos Damasio – PL)
 
-### Denomina o dispositivo rodoviário que especifica
+### _Denomina o dispositivo rodoviário que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

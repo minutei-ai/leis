@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1206/2023, do Deputado Itamar Borges – MDB)
 
-### Declara de utilidade pública a Associação de Amparo à Saúde de Pereira Barreto - AASPB, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Amparo à Saúde de Pereira Barreto - AASPB, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

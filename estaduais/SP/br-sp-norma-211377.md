@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.836, DE 01 DE SETEMBRO DE 2025
 
-### Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua Bento Freitas, n°s 276, 288, 290 e 296, Distrito da República, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua Bento Freitas, n°s 276, 288, 290 e 296, Distrito da República, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no artigo 1° e no inciso V do artigo 2° da Lei federal n° 4.132, de 10 de setembro de 1962, c.c. o Decreto-Lei federal n° 3.365 de 21 de junho de 1941, e alterações posteriores,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 806/2024, do Deputado André Bueno - PL)
 
-### Institui e inclui no Calendário Oficial do Estado o "Dia do Profissional de Logística".
+### _Institui e inclui no Calendário Oficial do Estado o "Dia do Profissional de Logística"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

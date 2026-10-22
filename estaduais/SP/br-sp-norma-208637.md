@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 649/2021, do Deputado Afonso Lobato - PV)
 
-### Institui a "Semana Estadual Gugu Liberato de Incentivo à Doação de Órgãos e Tecidos"
+### _Institui a "Semana Estadual Gugu Liberato de Incentivo à Doação de Órgãos e Tecidos"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

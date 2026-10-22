@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 90/2021, do Deputado Murilo Felix – PODE)
 
-### Institui o "Dia do Produtor de Mudas, Sementes, Plantas e Flores".
+### _Institui o "Dia do Produtor de Mudas, Sementes, Plantas e Flores"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

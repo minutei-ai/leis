@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 753/2023, da Deputada Márcia Lia - PT)
 
-### Declara de utilidade pública a organização não governamental Somos Todos Animais, com sede em Rosana
+### _Declara de utilidade pública a organização não governamental Somos Todos Animais, com sede em Rosana_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

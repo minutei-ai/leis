@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.778, DE 27 DE JUNHO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Santo André, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Santo André, o imóvel que especifica._
 
 O Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

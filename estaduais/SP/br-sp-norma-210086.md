@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 118/2024, do Deputado Thiago Auricchio - PL)
 
-### Denomina "Galdino Stefano Bassan" o complexo viário composto por dois viadutos, duas rotatórias e duas alças, de código SPD 616/294, localizado no km 616,400 da Rodovia Comandante João Ribeiro de arros - SP 294, em Pacaembu.
+### _Denomina "Galdino Stefano Bassan" o complexo viário composto por dois viadutos, duas rotatórias e duas alças, de código SPD 616/294, localizado no km 616,400 da Rodovia Comandante João Ribeiro de arros - SP 294, em Pacaembu._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

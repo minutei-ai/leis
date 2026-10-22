@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 428/2024, dos Deputados Paulo Correa Jr - PSD, Rafa Zimbaldi - CIDADANIA e Andréa Werner - PSB)
 
-### Assegura o direito à realização de sessão de cinema adaptada a crianças e adolescentes com Transtorno do Espectro Autista (TEA) e suas famílias.
+### _Assegura o direito à realização de sessão de cinema adaptada a crianças e adolescentes com Transtorno do Espectro Autista (TEA) e suas famílias._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

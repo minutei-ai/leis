@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 609/2024, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública o Instituto Believe, com sede em Itanhaém.
+### _Declara de utilidade pública o Instituto Believe, com sede em Itanhaém._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

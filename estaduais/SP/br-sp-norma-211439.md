@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.861, DE 11 DE SETEMBRO DE 2025
 
-### Disciplina a avaliação de programas de integridade de que tratam os artigos 25, § 4°, 60, inciso IV, 156, § 1°, inciso V, e 163, parágrafo único, da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública estadual direta e autárquica e dá providências correlatas.
+### _Disciplina a avaliação de programas de integridade de que tratam os artigos 25, § 4°, 60, inciso IV, 156, § 1°, inciso V, e 163, parágrafo único, da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública estadual direta e autárquica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

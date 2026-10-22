@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.853, DE 28 DE JULHO DE 2023
 
-### Regulamenta as contrapartidas de que trata o artigo 16 da Lei Complementar n° 1.320, de 6 de abril de 2018, que institui o Programa de Estímulo à Conformidade Tributária - "Nos Conformes".
+### _Regulamenta as contrapartidas de que trata o artigo 16 da Lei Complementar n° 1.320, de 6 de abril de 2018, que institui o Programa de Estímulo à Conformidade Tributária - "Nos Conformes"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 16 da [Lei Complementar n° 1.320, de 6 de abril de 2018](https://www.al.sp.gov.br/norma/185824), e no [Decreto n° 64.453, de 6 de setembro de 2019](https://www.al.sp.gov.br/norma/191397),
 

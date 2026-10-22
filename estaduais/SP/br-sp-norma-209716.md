@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 938/2023, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Denomina "José Santana Pimenta" o viaduto localizado no km 466+800m, da Rodovia Brigadeiro Faria Lima - SP 326, que liga Barretos a Colômbia/SP.
+### _Denomina "José Santana Pimenta" o viaduto localizado no km 466+800m, da Rodovia Brigadeiro Faria Lima - SP 326, que liga Barretos a Colômbia/SP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 386, de 2021, da Deputada Carla Morando - PSDB)
 
-### Institui o "Dia do Celebrante Social"
+### _Institui o "Dia do Celebrante Social"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

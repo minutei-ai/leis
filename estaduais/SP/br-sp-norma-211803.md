@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 680/2024, do Deputado Carlos Giannazi - PSOL)
 
-### Institui o "Dia do Técnico em Prevenção e Combate a Incêndios".
+### _Institui o "Dia do Técnico em Prevenção e Combate a Incêndios"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

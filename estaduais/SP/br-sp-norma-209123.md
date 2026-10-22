@@ -5,7 +5,7 @@
 
 # _(Última atualização: Republicação de 27/02/2024)_
 
-### Dispõe sobre a adoção no âmbito da Assembleia Legislativa do Estado de São Paulo, no que for pertinente, dos Decretos Estaduais que especifica, em matéria de licitações e contratos administrativos.
+### _Dispõe sobre a adoção no âmbito da Assembleia Legislativa do Estado de São Paulo, no que for pertinente, dos Decretos Estaduais que especifica, em matéria de licitações e contratos administrativos._
 
 Considerando a necessidade de se proceder à regulamentação da Lei federal n° 14.133, de 1° de abril de 2021, que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, cuja vigência exclusiva se iniciou em 31/12/2023;
 

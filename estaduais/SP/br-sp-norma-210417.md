@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 400/2024, do Deputado Tomé Abduch - REPUBLICANOS)
 
-### Dispõe sobre a tramitação prioritária dos processos administrativos para pessoas com deficiência, doença rara ou câncer.
+### _Dispõe sobre a tramitação prioritária dos processos administrativos para pessoas com deficiência, doença rara ou câncer._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

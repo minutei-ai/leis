@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 197/2017, do Deputado Léo Oliveira - PMDB)
 
-### Declara "Capital da Palha" o Município que especifica
+### _Declara "Capital da Palha" o Município que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

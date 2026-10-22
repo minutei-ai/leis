@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.713, DE 18 DE JULHO DE 2025
 
-### Altera dispositivo que especifica do Decreto n° 44.448, de 24 de novembro de 1999, e dá providências correlatas.
+### _Altera dispositivo que especifica do Decreto n° 44.448, de 24 de novembro de 1999, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

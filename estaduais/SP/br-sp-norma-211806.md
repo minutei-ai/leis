@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 42/2025, do Deputado Carlos Giannazi - PSOL)
 
-### Institui o "Dia Estadual do Mestre de Obras".
+### _Institui o "Dia Estadual do Mestre de Obras"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

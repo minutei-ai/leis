@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.410, DE 27 DE MARÇO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à instalação de unidades administrativas, no âmbito do Projeto PPP Campos Elíseos, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à instalação de unidades administrativas, no âmbito do Projeto PPP Campos Elíseos, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,    
 

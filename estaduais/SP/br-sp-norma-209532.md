@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.400, DE 06 DE JUNHO DE 2024
 
-### Altera a Lei Complementar n° 1.270, de 25 de agosto de 2015 - Lei Orgânica da Procuradoria Geral do Estado de São Paulo, a fim de disciplinar a representação judicial e extrajudicial dos agentes públicos pela Procuradoria Geral do Estado.
+### _Altera a Lei Complementar n° 1.270, de 25 de agosto de 2015 - Lei Orgânica da Procuradoria Geral do Estado de São Paulo, a fim de disciplinar a representação judicial e extrajudicial dos agentes públicos pela Procuradoria Geral do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

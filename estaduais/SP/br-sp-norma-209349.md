@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.480, DE 24 DE ABRIL DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à implantação de dispositivo de acesso e retorno e pavimentação da pista e dos acostamentos do trecho entre os km 386,55m e 398,40m da Rodovia Rio Negro e Solimões - SP-336, nos Municípios de Restinga e Franca, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à implantação de dispositivo de acesso e retorno e pavimentação da pista e dos acostamentos do trecho entre os km 386,55m e 398,40m da Rodovia Rio Negro e Solimões - SP-336, nos Municípios de Restinga e Franca, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941,    
 

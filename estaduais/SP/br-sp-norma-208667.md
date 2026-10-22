@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.023, DE 11 DE OUTUBRO DE 2023
 
-### Suspende, no corrente exercício, a aplicação do disposto no artigo 5° do Decreto n° 25.013, de 16 de abril de 1986, aos servidores em exercício na Secretaria da Administração Penitenciária que especifica e dá providências correlatas.
+### _Suspende, no corrente exercício, a aplicação do disposto no artigo 5° do Decreto n° 25.013, de 16 de abril de 1986, aos servidores em exercício na Secretaria da Administração Penitenciária que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 145/2022, dos Deputados Delegado Olim - PP, Altair Moraes - REPUBLICANOS, Marcio Nakashima - PDT, Frederico d’Avila - PL, Letícia Aguiar - PP e Itamar Borges - MDB)
 
-### Estabelece procedimento para serviços de entrega e dá outras providências.
+### _Estabelece procedimento para serviços de entrega e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

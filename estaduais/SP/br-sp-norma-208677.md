@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 254/2022, dos Deputados Rafa Zimbaldi - CIDADANIA, Marcio Nakashima - PDT e Marina Helou - REDE)
 
-### Dispõe sobre a emissão da Carteira de Identificação da Pessoa com Doença Rara, no âmbito do Estado de São Paulo
+### _Dispõe sobre a emissão da Carteira de Identificação da Pessoa com Doença Rara, no âmbito do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 566/2024, do Deputado Valdomiro Lopes - PSB)
 
-### Declara de utilidade pública o Instituto Hora, com sede em São José do Rio Preto.
+### _Declara de utilidade pública o Instituto Hora, com sede em São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

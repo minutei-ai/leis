@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.491, DE 28 DE ABRIL DE 2024
 
-### Dispõe sobre o Plano Estadual de Irrigação Sustentável -Irriga + SP, e dá providências correlatas.
+### _Dispõe sobre o Plano Estadual de Irrigação Sustentável -Irriga + SP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

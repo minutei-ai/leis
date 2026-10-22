@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1381/2023, dos Deputados Marta Costa - PSD e Oseias de Madureira - PSD)
 
-### Declara a "Escola Bíblica Dominical" Patrimônio Cultural Imaterial do Estado.
+### _Declara a "Escola Bíblica Dominical" Patrimônio Cultural Imaterial do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

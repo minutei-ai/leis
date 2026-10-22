@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.154, DE 12 DE DEZEMBRO DE 2024
 
-### Autoriza a outorga de uso, ao Município de Campinas, da área que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Campinas, da área que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

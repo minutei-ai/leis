@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 677/2023, dos Deputados Leonardo Siqueira - NOVO, Altair Moraes - REPUBLICANOS e Tomé Abduch - REPUBLICANOS)
 
-### Disciplina a celebração de contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos estaduais - "Naming Rights".
+### _Disciplina a celebração de contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos estaduais - "Naming Rights"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

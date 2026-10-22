@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.074, DE 22 DE NOVEMBRO DE 2024
 
-### Transfere, da Secretaria de Cultura, Economia e Indústria Criativas para a Secretaria da Justiça e Cidadania, a administração do imóvel que especifica, localizado no Município de São Paulo.
+### _Transfere, da Secretaria de Cultura, Economia e Indústria Criativas para a Secretaria da Justiça e Cidadania, a administração do imóvel que especifica, localizado no Município de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

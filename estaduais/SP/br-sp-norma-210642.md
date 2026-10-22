@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.367, DE 19 DE FEVEREIRO DE 2025
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Ribeirão Preto.
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Ribeirão Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

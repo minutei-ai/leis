@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.047, DE 31 DE OUTUBRO DE 2023
 
-### Dá nova redação ao inciso XXI do artigo 5° do Decreto n° 57.947, de 4 de abril de 2012, que dispõe sobre a classificação institucional da Secretaria da Segurança Pública.
+### _Dá nova redação ao inciso XXI do artigo 5° do Decreto n° 57.947, de 4 de abril de 2012, que dispõe sobre a classificação institucional da Secretaria da Segurança Pública._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 6° do [Decreto-Lei n° 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto na [Lei n° 17.735, de 28 de agosto de 2023](https://www.al.sp.gov.br/norma/208440),
 

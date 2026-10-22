@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 387/2022, da Deputada Leci Brandão – PcdoB)
 
-### Institui o "Dia Estadual do Pescador".
+### _Institui o "Dia Estadual do Pescador"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

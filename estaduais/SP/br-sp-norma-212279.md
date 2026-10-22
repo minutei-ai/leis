@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1577/2023, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Denomina "Vereador Vanderlei Voltarelli" o dispositivo de entroncamento em nível de código SPD 073/215, localizado no km 73 + 300m da Rodovia Vicente Botta - SP 215, no município de Santa Cruz das Palmeiras.
+### _Denomina "Vereador Vanderlei Voltarelli" o dispositivo de entroncamento em nível de código SPD 073/215, localizado no km 73 + 300m da Rodovia Vicente Botta - SP 215, no município de Santa Cruz das Palmeiras._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

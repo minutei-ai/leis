@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.765, DE 22 DE JUNHO DE 2023
 
-### Dispõe sobre a alteração de denominação da Secretaria de Estado que especifica.
+### _Dispõe sobre a alteração de denominação da Secretaria de Estado que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

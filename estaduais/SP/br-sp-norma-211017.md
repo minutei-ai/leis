@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.582, DE 05 DE JUNHO DE 2025
 
-### Dispõe sobre as atribuições e responsabilidades relacionadas ao resgate de fauna silvestre no Estado de São Paulo.
+### _Dispõe sobre as atribuições e responsabilidades relacionadas ao resgate de fauna silvestre no Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

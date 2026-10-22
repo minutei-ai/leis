@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.214, DE 15 DE DEZEMBRO DE 2023
 
-### Altera o Decreto de 1° de dezembro de 1970, que Institui e Regulamenta a Concessão da "Medalha do Mérito Turístico".
+### _Altera o Decreto de 1° de dezembro de 1970, que Institui e Regulamenta a Concessão da "Medalha do Mérito Turístico"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

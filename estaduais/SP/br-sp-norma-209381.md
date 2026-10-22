@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 472/2023, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Institui o "Dia da Mulher Empresária".
+### _Institui o "Dia da Mulher Empresária"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

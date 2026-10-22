@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.125, DE 09 DE DEZEMBRO DE 2024
 
-### Regulamenta a Lei n° 17.893, de 2 de abril de 2024, que dispõe sobre a normatização e consolidação dos vínculos da Administração Pública do Estado com as fundações civis de saúde das comunidades científicas de suas universidades públicas e hospitais universitários.
+### _Regulamenta a Lei n° 17.893, de 2 de abril de 2024, que dispõe sobre a normatização e consolidação dos vínculos da Administração Pública do Estado com as fundações civis de saúde das comunidades científicas de suas universidades públicas e hospitais universitários._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

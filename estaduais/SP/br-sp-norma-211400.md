@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 1431/2023, dos Deputados Marcio Nakashima - PDT e Letícia Aguiar - PP)
 
-### Institui o "Dia Estadual da Música Raiz e da Viola Caipira".
+### _Institui o "Dia Estadual da Música Raiz e da Viola Caipira"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

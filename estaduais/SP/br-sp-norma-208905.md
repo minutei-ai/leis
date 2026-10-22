@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.159, DE 09 DE DEZEMBRO DE 2023
 
-### Dispõe sobre a política de governança da Administração Pública direta e autárquica do Estado de São Paulo.
+### _Dispõe sobre a política de governança da Administração Pública direta e autárquica do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso das suas atribuições legais,
 

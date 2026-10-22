@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 601/2020, do Deputado Ed Thomas - PSB)
 
-### Denomina "Luiz Scarelli" o viaduto VDT 475/425, localizado no km 474 + 500m da Rodovia Assis Chateaubriand (SP 425), no Município de Pirapozinho
+### _Denomina "Luiz Scarelli" o viaduto VDT 475/425, localizado no km 474 + 500m da Rodovia Assis Chateaubriand (SP 425), no Município de Pirapozinho_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

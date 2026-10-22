@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.806, DE 26 DE AGOSTO DE 2024
 
-### Cria a Assessoria Policial Civil do Tribunal de Contas do Estado de São Paulo e dá providências correlatas.
+### _Cria a Assessoria Policial Civil do Tribunal de Contas do Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

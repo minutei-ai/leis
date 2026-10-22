@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 449/2022, da Deputada Carla Morando - PSDB)
 
-### Denomina "Investigador Jair Estrada" a Delegacia de Polícia de Valentim Gentil
+### _Denomina "Investigador Jair Estrada" a Delegacia de Polícia de Valentim Gentil_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

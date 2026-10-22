@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.502, DE 25 DE ABRIL DE 2025
 
-### Altera o Anexo V-A do Decreto n° 69.470, de 10 de abril de 2025, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria dos Direitos da Pessoa com Deficiência.
+### _Altera o Anexo V-A do Decreto n° 69.470, de 10 de abril de 2025, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria dos Direitos da Pessoa com Deficiência._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1309/2023, dos Deputados Maurici - PT, Maria Lúcia Amary - PSDB, Paulo Fiorilo - PT, Marcio Nakashima - PDT, Itamar Borges - MDB, Milton Leite Filho -UNIÃO, Barros Munhoz - PSDB, Thiago Auricchio - PL, Paulo Correa Jr - PSD, Lucas Bove - PL, Gil Diniz - PL, Rui Alves - REPUBLICANOS e Rafa Zimbaldi - CIDADANIA)
 
-### Institui o "Dia da Imigração Libanesa".
+### _Institui o "Dia da Imigração Libanesa"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

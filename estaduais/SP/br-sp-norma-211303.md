@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.778, DE 11 DE AGOSTO DE 2025
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração Medalha do Mérito "Pela Vida", instituída pelo Instituto Brasileiro de Abordagem Humanizada a Tentativas de Suicídio e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha do Mérito "Pela Vida", instituída pelo Instituto Brasileiro de Abordagem Humanizada a Tentativas de Suicídio e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

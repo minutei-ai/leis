@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1000/2023, dos Deputados Andréa Werner - PSB e Guilherme Cortez - PSOL)
 
-### Institui garantias à criança com deficiência e/ou transtornos do neurodesenvolvimento no ambiente escolar.
+### _Institui garantias à criança com deficiência e/ou transtornos do neurodesenvolvimento no ambiente escolar._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

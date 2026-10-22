@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 461/2023, do Deputado Dr. Jorge do Carmo - PT)
 
-### Institui o "Dia da Caminhada do Silêncio".
+### _Institui o "Dia da Caminhada do Silêncio"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

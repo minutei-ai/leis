@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 929/2023, do Deputado Marcos Damasio - PL)
 
-### Institui o "Dia do Rock Gospel".
+### _Institui o "Dia do Rock Gospel"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

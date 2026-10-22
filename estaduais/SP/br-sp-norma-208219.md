@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.772, DE 24 DE JUNHO DE 2023
 
-### Institui a Medalha Comemorativa ao Cinquentenário do 9° Batalhão de Polícia Militar do Interior (9° BPM/I) e dá providências correlatas.
+### _Institui a Medalha Comemorativa ao Cinquentenário do 9° Batalhão de Polícia Militar do Interior (9° BPM/I) e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

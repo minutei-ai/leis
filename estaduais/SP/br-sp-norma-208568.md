@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 50/2020, da Deputada Leci Brandão - PCdoB)
 
-### Institui o "Dia do Breaking"
+### _Institui o "Dia do Breaking"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

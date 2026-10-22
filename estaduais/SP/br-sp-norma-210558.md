@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.329, DE 23 DE JANEIRO DE 2025
 
-### Institui, no Gabinete do Secretário da Saúde, o Centro de Operações de Emergências - COE contra as arboviroses urbanas.
+### _Institui, no Gabinete do Secretário da Saúde, o Centro de Operações de Emergências - COE contra as arboviroses urbanas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

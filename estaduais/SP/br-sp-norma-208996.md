@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 324/2023, do Deputado Rogério Nogueira - PSDB)
 
-### Denomina "Placido Boer" a passarela de pedestres localizada no km 159, norte, da Rodovia Professor Zeferino Vaz - SP 332, em Artur Nogueira
+### _Denomina "Placido Boer" a passarela de pedestres localizada no km 159, norte, da Rodovia Professor Zeferino Vaz - SP 332, em Artur Nogueira_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

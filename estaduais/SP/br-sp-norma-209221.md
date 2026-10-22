@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.404, DE 20 DE MARÇO DE 2024
 
-### Dá nova redação a dispositivo do Decreto n° 60.397, de 25 de abril de 2014, que dispõe sobre o Conselho Estadual de Alimentação Escolar de São Paulo - CEAE/SP.
+### _Dá nova redação a dispositivo do Decreto n° 60.397, de 25 de abril de 2014, que dispõe sobre o Conselho Estadual de Alimentação Escolar de São Paulo - CEAE/SP._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

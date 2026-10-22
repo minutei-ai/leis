@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 641/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Pasquale Fiorino" a passarela localizada no km 295+400m, da Rodovia (SP- 304), em Jahu.
+### _Denomina "Pasquale Fiorino" a passarela localizada no km 295+400m, da Rodovia (SP- 304), em Jahu._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

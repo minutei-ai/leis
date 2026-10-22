@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 925/2023, do Deputado Carlos Cezar - PL)
 
-### Denomina "José Miguel Soares" a Escola Técnica Estadual de Itapevi - ETEC Itapevi, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS.
+### _Denomina "José Miguel Soares" a Escola Técnica Estadual de Itapevi - ETEC Itapevi, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

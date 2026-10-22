@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.702, DE 10 DE MAIO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 307+600m da Rodovia SP-300, no Município de Lençóis Paulista, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 307+600m da Rodovia SP-300, no Município de Lençóis Paulista, e dá providências correlatas._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),
 

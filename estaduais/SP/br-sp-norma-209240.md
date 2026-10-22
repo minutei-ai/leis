@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 87/2024, do Deputado Dr. Elton - UNIÃO)
 
-### Declara patrimônio cultural imaterial do Estado o Auto de Páscoa de São José dos Campos
+### _Declara patrimônio cultural imaterial do Estado o Auto de Páscoa de São José dos Campos_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

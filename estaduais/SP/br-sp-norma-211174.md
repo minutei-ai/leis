@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.687, DE 08 DE JULHO DE 2025
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, por prazo determinado, do Serviço Autônomo de Água e Esgoto de Sorocaba, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, por prazo determinado, do Serviço Autônomo de Água e Esgoto de Sorocaba, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

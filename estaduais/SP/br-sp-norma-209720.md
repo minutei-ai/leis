@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1276/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Deputado Dr. Ulysses Tassinari" o dispositivo de passagem inferior SPD 284/258, localizado no km 284 + 430m da Rodovia Francisco Alves Negrão - SP 258, em Itapeva.
+### _Denomina "Deputado Dr. Ulysses Tassinari" o dispositivo de passagem inferior SPD 284/258, localizado no km 284 + 430m da Rodovia Francisco Alves Negrão - SP 258, em Itapeva._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

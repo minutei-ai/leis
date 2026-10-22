@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.873, DE 19 DE SETEMBRO DE 2025
 
-### Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 6° do [Decreto-Lei n° 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto no [Decreto n° 69.506, de 30 de abril de 2025](https://www.al.sp.gov.br/norma/210898),
 

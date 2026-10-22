@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 237/2023, da Deputada Analice Fernandes - PSDB)
 
-### Autoriza a criação de Centros de Referência e Atendimento Especializado às Pessoas com Transtorno do Espectro Autista (TEA) e dá outras disposições
+### _Autoriza a criação de Centros de Referência e Atendimento Especializado às Pessoas com Transtorno do Espectro Autista (TEA) e dá outras disposições_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

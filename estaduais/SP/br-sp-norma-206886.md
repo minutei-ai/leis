@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 412, de 2020, do Deputado Marcio Nakashima - PDT)
 
-### Autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado
+### _Autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado_
 
 _\- Vide [Decreto n° 68.371, de 08/03/2024](https://www.al.sp.gov.br/norma/209167), em vigor a partir de 90 dias da data de sua publicação._
 

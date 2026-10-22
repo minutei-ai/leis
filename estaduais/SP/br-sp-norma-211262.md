@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.762, DE 04 DE AGOSTO DE 2025
 
-### Regulamenta a Lei n° 18.176, de 8 de julho de 2025, que institui o Programa de Superação da Pobreza no Estado de São Paulo e dá providências correlatas.
+### _Regulamenta a Lei n° 18.176, de 8 de julho de 2025, que institui o Programa de Superação da Pobreza no Estado de São Paulo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

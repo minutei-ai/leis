@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 719/2025, do Deputado Marcos Damasio - PL)
 
-### Declara de utilidade pública a Associação Beneficente Novo Horizonte, com sede em Mogi das Cruzes.
+### _Declara de utilidade pública a Associação Beneficente Novo Horizonte, com sede em Mogi das Cruzes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -5,7 +5,7 @@
 
 # _(Última atualização: Ato da Mesa n° 25, de 29/08/2025)_
 
-### Dispõe sobre a revalorização das Escalas de Classes e Vencimentos do Quadro da Secretaria da Assembleia Legislativa do Estado de São Paulo e dá outras providências.
+### _Dispõe sobre a revalorização das Escalas de Classes e Vencimentos do Quadro da Secretaria da Assembleia Legislativa do Estado de São Paulo e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

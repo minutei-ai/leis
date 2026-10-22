@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.595, DE 09 DE JUNHO DE 2025
 
-### Altera o Decreto n° 62.624, de 8 de junho de 2017, que institui, junto à Secretaria de Desenvolvimento Social, a Comissão Estadual de Erradicação do Trabalho Infantil e de Proteção ao Trabalhador Adolescente e dá providências correlatas.
+### _Altera o Decreto n° 62.624, de 8 de junho de 2017, que institui, junto à Secretaria de Desenvolvimento Social, a Comissão Estadual de Erradicação do Trabalho Infantil e de Proteção ao Trabalhador Adolescente e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.422, DE 02 DE ABRIL DE 2024
 
-### Regulamenta o artigo 31 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre os procedimentos operacionais da licitação na modalidade leilão, na forma eletrônica, para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
+### _Regulamenta o artigo 31 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre os procedimentos operacionais da licitação na modalidade leilão, na forma eletrônica, para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

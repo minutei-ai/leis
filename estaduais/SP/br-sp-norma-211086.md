@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 914/2024, dos Deputados Dr. Eduardo Nóbrega - PODE, Gil Diniz - PL)
 
-### Declara patrimônio cultural de natureza imaterial do Estado o grupo musical Renascer Praise.
+### _Declara patrimônio cultural de natureza imaterial do Estado o grupo musical Renascer Praise._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 52/2025, dos Deputados Rogério Santos - MDB, Gil Diniz - PL)
 
-### Inclui no Calendário Oficial do Estado a Semana Estadual de Formação e Capacitação em Políticas Públicas Familiares.
+### _Inclui no Calendário Oficial do Estado a Semana Estadual de Formação e Capacitação em Políticas Públicas Familiares._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

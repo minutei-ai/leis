@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.336, DE 12 DE JANEIRO DE 2026
 
-### Autoriza a abertura de licitação para a concessão de obra no Complexo Turístico Ferroviário da Estrada de Ferro de Campos do Jordão - EFCJ, aprova o respectivo regulamento e dá providências correlatas.
+### _Autoriza a abertura de licitação para a concessão de obra no Complexo Turístico Ferroviário da Estrada de Ferro de Campos do Jordão - EFCJ, aprova o respectivo regulamento e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão de obra no Complexo Turístico Ferroviário da Estrada de Ferro de Campos do Jordão - EFCJ, por ocasião da 19ª Reunião do Programa de Parcerias de Investimentos do Estado de São Paulo - PPI-SP e da 55ª Reunião Conjunta Ordinária do CDPED e do Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 18 de dezembro de 2025,
 

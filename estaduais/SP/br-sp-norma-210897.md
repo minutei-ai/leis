@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.505, DE 30 DE ABRIL DE 2025
 
-### Altera o Anexo V-A do Decreto n° 69.436, de 26 de março de 2025, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Esportes.
+### _Altera o Anexo V-A do Decreto n° 69.436, de 26 de março de 2025, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Esportes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

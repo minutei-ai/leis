@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.988, DE 21 DE OUTUBRO DE 2024
 
-### Prorroga o prazo para usufruir as férias que foram indeferidas em decorrência dos decretos que especifica, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública.
+### _Prorroga o prazo para usufruir as férias que foram indeferidas em decorrência dos decretos que especifica, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 264/2023, do Deputado Edmir Chedid – UNIÃO)
 
-### Inclui no Calendário Turístico do Estado o Encontro Estadual de Carros Antigos de Piedade
+### _Inclui no Calendário Turístico do Estado o Encontro Estadual de Carros Antigos de Piedade_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

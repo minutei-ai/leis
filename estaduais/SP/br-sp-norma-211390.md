@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 548/2021, do Deputado Rogério Nogueira - DEM)
 
-### Denomina "Professor Luiz Carlos da Silva" a Escola Estadual Jardim Morada do Sol, em Indaiatuba.
+### _Denomina "Professor Luiz Carlos da Silva" a Escola Estadual Jardim Morada do Sol, em Indaiatuba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

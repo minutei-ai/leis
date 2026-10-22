@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1303/2023, do Deputado Gerson Pessoa - PODE)
 
-### Declara de utilidade pública a Associação Passos Mágicos, com sede em Embu-Guaçu
+### _Declara de utilidade pública a Associação Passos Mágicos, com sede em Embu-Guaçu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

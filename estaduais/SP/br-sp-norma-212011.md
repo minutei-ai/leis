@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 594/2025, do Deputado Rogério Santos - MDB)
 
-### Declara de utilidade pública o Centro de Reestruturação para a Vida - CERVI, com sede na Capital.
+### _Declara de utilidade pública o Centro de Reestruturação para a Vida - CERVI, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

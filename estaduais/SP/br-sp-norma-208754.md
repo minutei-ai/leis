@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 493/2023, do Deputado Jorge Caruso - MDB)
 
-### Declara de utilidade pública a Associação Ágape, com sede em Mogi Guaçu
+### _Declara de utilidade pública a Associação Ágape, com sede em Mogi Guaçu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

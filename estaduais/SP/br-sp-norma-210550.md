@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.323, DE 22 DE JANEIRO DE 2025
 
-### Altera o Decreto n° 62.242, de 31 de outubro de 2016, que dispõe sobre o Regulamento do Fundo de Combate e Erradicação da Pobreza - FECOEP.
+### _Altera o Decreto n° 62.242, de 31 de outubro de 2016, que dispõe sobre o Regulamento do Fundo de Combate e Erradicação da Pobreza - FECOEP._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

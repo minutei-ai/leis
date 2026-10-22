@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 937/2023, do Deputado Itamar Borges - MDB)
 
-### Denomina "Expedicionário Alberto Crestana" o complexo viário composto por dispositivo de acesso e retorno com viaduto, localizado no km 218,350 da Rodovia Washington Luís - SP 310, em São Carlos.
+### _Denomina "Expedicionário Alberto Crestana" o complexo viário composto por dispositivo de acesso e retorno com viaduto, localizado no km 218,350 da Rodovia Washington Luís - SP 310, em São Carlos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

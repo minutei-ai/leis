@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1334/2023, do Deputado Dirceu Dalben - CIDADANIA)
 
-### Denomina "Professora Vilma Ferrari" a Escola Estadual do Bairro Vida Nova, em Piracicaba.
+### _Denomina "Professora Vilma Ferrari" a Escola Estadual do Bairro Vida Nova, em Piracicaba._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

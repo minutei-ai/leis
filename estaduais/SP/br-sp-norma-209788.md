@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 467/2023, do Deputado Conte Lopes - PL)
 
-### Dispõe sobre a obrigatoriedade dos estabelecimentos comerciais do ramo alimentício que comercializam alimentos prontos para consumo informarem a substituição do uso do queijo e/ou outros lácteos e seus derivados de origem animal por produtos tidos como similares, à base de gordura vegetal, amido e amido modificado, no âmbito do Estado, e dá outras providências.
+### _Dispõe sobre a obrigatoriedade dos estabelecimentos comerciais do ramo alimentício que comercializam alimentos prontos para consumo informarem a substituição do uso do queijo e/ou outros lácteos e seus derivados de origem animal por produtos tidos como similares, à base de gordura vegetal, amido e amido modificado, no âmbito do Estado, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

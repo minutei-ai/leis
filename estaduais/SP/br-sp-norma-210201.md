@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 229/2024, do Deputado Lucas Bove - PL)
 
-### Institui o "Dia da Abordagem Técnica a Tentativas de Suicídio - Abordagem Humanizada".
+### _Institui o "Dia da Abordagem Técnica a Tentativas de Suicídio - Abordagem Humanizada"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

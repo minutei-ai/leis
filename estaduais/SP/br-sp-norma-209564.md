@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.606, DE 15 DE JUNHO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, e por prazo determinado, do Município de Martinópolis, imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, e por prazo determinado, do Município de Martinópolis, imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

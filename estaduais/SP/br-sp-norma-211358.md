@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.824, DE 26 DE AGOSTO DE 2025
 
-### Autoriza a Fazenda do Estado a instituir servidão administrativa, em favor do Município de Bauru, sobre o imóvel que especifica, e dá providências correlatas.
+### _Autoriza a Fazenda do Estado a instituir servidão administrativa, em favor do Município de Bauru, sobre o imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

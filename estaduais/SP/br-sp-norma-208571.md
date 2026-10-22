@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 80/2022, do Deputado Castello Branco – PSL)
 
-### Institui o "Dia da Igreja de Deus em Cristo (COGIC - 'Church of God in Christ')"
+### _Institui o "Dia da Igreja de Deus em Cristo (COGIC - 'Church of God in Christ')"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

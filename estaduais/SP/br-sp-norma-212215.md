@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 923/2024, dos Deputados Paulo Fiorilo - PT e Edson Giriboni - UNIÃO)
 
-### Declara o Município de Ribeirão Grande "Capital do Rojão".
+### _Declara o Município de Ribeirão Grande "Capital do Rojão"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

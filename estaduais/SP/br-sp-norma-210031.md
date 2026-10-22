@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.898, DE 23 DE SETEMBRO DE 2024
 
-### Revoga os Decretos n° 68.326, de 6 de fevereiro de 2024, e n° 68.368, de 5 de março de 2024.
+### _Revoga os Decretos n° 68.326, de 6 de fevereiro de 2024, e n° 68.368, de 5 de março de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

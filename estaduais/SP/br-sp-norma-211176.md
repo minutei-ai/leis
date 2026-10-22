@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.689, DE 08 DE JULHO DE 2025
 
-### Altera dispositivos do Decreto n° 68.007, de 10 de outubro de 2023, que autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas.
+### _Altera dispositivos do Decreto n° 68.007, de 10 de outubro de 2023, que autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

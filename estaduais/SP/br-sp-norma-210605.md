@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 495/2023, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Denomina "Professor Numa Pompílio Sampaio" a passarela para pedestre PAS 031/099, localizada no km 31,200 da Estrada dos Tamoios - SP 099, em Paraibuna.
+### _Denomina "Professor Numa Pompílio Sampaio" a passarela para pedestre PAS 031/099, localizada no km 31,200 da Estrada dos Tamoios - SP 099, em Paraibuna._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

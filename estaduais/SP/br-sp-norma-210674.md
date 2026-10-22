@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.387, DE 26 DE FEVEREIRO DE 2025
 
-### Autoriza a outorga de uso, à Associação dos Amigos dos Animais de Nova Odessa - AAANO, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, à Associação dos Amigos dos Animais de Nova Odessa - AAANO, de parte do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

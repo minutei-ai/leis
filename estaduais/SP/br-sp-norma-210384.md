@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1669/2023, dos Deputados Paulo Correa Jr - PSD, Rafa Zimbaldi - CIDADANIA e Itamar Borges - MDB)
 
-### Dispõe sobre diretrizes para o estímulo do turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista - TEA - no Estado e dá outras providências.
+### _Dispõe sobre diretrizes para o estímulo do turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista - TEA - no Estado e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

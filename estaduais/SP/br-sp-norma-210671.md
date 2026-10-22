@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1700/2023, do Deputado Léo Oliveira - MDB)
 
-### Denomina "Engenheiro Hélio Frateschi" a passarela PAS 311/328, localizada no km 311,350 da Rodovia José Fregonezi - SP 328, em Ribeirão Preto.
+### _Denomina "Engenheiro Hélio Frateschi" a passarela PAS 311/328, localizada no km 311,350 da Rodovia José Fregonezi - SP 328, em Ribeirão Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

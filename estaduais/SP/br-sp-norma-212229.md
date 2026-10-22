@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 27, de 2025)
 
-### Dispõe sobre a alteração de dispositivos da Resolução n° 576, de 26 de junho de 1970, com modificações posteriores (Regimento Interno da Assembleia Legislativa), e da Resolução n° 766, de 16 de dezembro de 1994 (Código de Ética e Decoro Parlamentar).
+### _Dispõe sobre a alteração de dispositivos da Resolução n° 576, de 26 de junho de 1970, com modificações posteriores (Regimento Interno da Assembleia Legislativa), e da Resolução n° 766, de 16 de dezembro de 1994 (Código de Ética e Decoro Parlamentar)._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

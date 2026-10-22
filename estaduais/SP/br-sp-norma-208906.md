@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.160, DE 09 DE DEZEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A., as áreas necessárias à implantação de dispositivo de acesso e retorno no km 75+900m da Rodovia Raposo Tavares, SP - 270, no Município de Alumínio, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A., as áreas necessárias à implantação de dispositivo de acesso e retorno no km 75+900m da Rodovia Raposo Tavares, SP - 270, no Município de Alumínio, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320),
 

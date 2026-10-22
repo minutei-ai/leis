@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 556/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação de Engenheiros e Agrônomos de Cajamar - AEAC, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Engenheiros e Agrônomos de Cajamar - AEAC, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

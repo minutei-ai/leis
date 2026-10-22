@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 17.843, de 07/11/2023)_
 
-### Altera a Lei n° 6.374, de 1° de março de 1989, que dispõe sobre a instituição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS
+### _Altera a Lei n° 6.374, de 1° de março de 1989, que dispõe sobre a instituição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

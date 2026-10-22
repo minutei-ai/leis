@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 489/2019, da Deputada Delegada Graciela - PL)
 
-### Dispõe sobre o estabelecimento de Perímetro de Proteção Escolar no entorno das unidades da rede estadual de ensino, e dá outras providências.
+### _Dispõe sobre o estabelecimento de Perímetro de Proteção Escolar no entorno das unidades da rede estadual de ensino, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

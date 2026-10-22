@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.838, DE 27 DE JULHO DE 2023
 
-### Cria a Escola Técnica Estadual - ETEC de Guaíra, no Município de Guaíra.
+### _Cria a Escola Técnica Estadual - ETEC de Guaíra, no Município de Guaíra._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,
 

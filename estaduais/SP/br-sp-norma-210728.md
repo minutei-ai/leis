@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 362/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Residência Inclusiva Fonte de Amor - RIFA, filial, com sede em Santa Cruz do Rio Pardo.
+### _Declara de utilidade pública a Residência Inclusiva Fonte de Amor - RIFA, filial, com sede em Santa Cruz do Rio Pardo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

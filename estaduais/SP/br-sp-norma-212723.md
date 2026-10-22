@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.677, DE 09 DE JUNHO DE 2026
 
-### Dispõe sobre a criação de unidades escolares na Secretaria da Educação e dá providências correlatas.
+### _Dispõe sobre a criação de unidades escolares na Secretaria da Educação e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

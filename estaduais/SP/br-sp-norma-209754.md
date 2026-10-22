@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 84/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação de Arquitetos, Engenheiros e Agrônomos de Artur Nogueira - AEAN, com sede naquele Município
+### _Declara de utilidade pública a Associação de Arquitetos, Engenheiros e Agrônomos de Artur Nogueira - AEAN, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO: 
 

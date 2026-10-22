@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.754, DE 20 DE JUNHO DE 2023
 
-### Acrescenta dispositivos ao Estatuto da Fundação Universidade Virtual do Estado de São Paulo – UNIVESP, aprovado pelo Decreto n° 58.438, de 9 de outubro de 2012.
+### _Acrescenta dispositivos ao Estatuto da Fundação Universidade Virtual do Estado de São Paulo – UNIVESP, aprovado pelo Decreto n° 58.438, de 9 de outubro de 2012._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

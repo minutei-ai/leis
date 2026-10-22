@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 374/2024, dos Deputados Lucas Bove - PL, Gil Diniz - PL, Guto Zacarias - UNIÃO e Paulo Mansur - PL)
 
-### Autoriza a criação do Programa Cuidar de Quem Educa, no âmbito da Secretaria da Educação, e dá providências correlatas.
+### _Autoriza a criação do Programa Cuidar de Quem Educa, no âmbito da Secretaria da Educação, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

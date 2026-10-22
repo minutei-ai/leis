@@ -5,7 +5,7 @@
 
 # _(Última atualização: Retificação de 21/02/2025)_
 
-### Dispõe sobre o regime jurídico das agências reguladoras estaduais, transforma o Departamento de Águas e Energia Elétrica - DAEE em Agência de Águas do Estado de São Paulo - SP-ÁGUAS, e dá providências correlatas.
+### _Dispõe sobre o regime jurídico das agências reguladoras estaduais, transforma o Departamento de Águas e Energia Elétrica - DAEE em Agência de Águas do Estado de São Paulo - SP-ÁGUAS, e dá providências correlatas._
 
 _\- Vide [Decreto n° 69.339, de 04/02/2025](https://www.al.sp.gov.br/norma/210569)._
 

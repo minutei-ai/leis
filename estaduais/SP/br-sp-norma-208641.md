@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 552/2022, da Deputada Leci Brandão - PCdoB)
 
-### Inclui no Calendário Turístico do Estado o Chevy Weekend Retro, em Caçapava
+### _Inclui no Calendário Turístico do Estado o Chevy Weekend Retro, em Caçapava_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

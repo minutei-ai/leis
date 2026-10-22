@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.879, DE 14 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias Noroeste Paulista S/A, as áreas necessárias à implantação de dispositivo de retorno no km 304+700 da Rodovia SP-310, no Município de Matão, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias Noroeste Paulista S/A, as áreas necessárias à implantação de dispositivo de retorno no km 304+700 da Rodovia SP-310, no Município de Matão, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 66.814, de 3 de junho de 2022](https://www.al.sp.gov.br/norma/203800),  
 

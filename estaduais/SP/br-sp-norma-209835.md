@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.767, DE 12 DE AGOSTO DE 2024
 
-### Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do economista Antônio Delfim Netto.
+### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do economista Antônio Delfim Netto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a notável contribuição de Antônio Delfim Netto ao País, como economista, professor universitário, Secretário da Fazenda do Estado de São Paulo, Ministro da Fazenda, da Agricultura e do Planejamento, embaixador do Brasil na França e Deputado Federal por São Paulo,    
 

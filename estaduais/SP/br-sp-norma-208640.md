@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 376/2022, da Deputada Valeria Bolsonaro - PL)
 
-### Inclui no Calendário Turístico do Estado a Procissão de Corpus Christi de Ibitinga
+### _Inclui no Calendário Turístico do Estado a Procissão de Corpus Christi de Ibitinga_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

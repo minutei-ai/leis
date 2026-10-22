@@ -2,7 +2,7 @@
 
 # ATO DO PRESIDENTE N° 194, DE 21 DE AGOSTO DE 2023
 
-### Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027 e revoga o Ato do Presidente n° 192, de 17 de agosto de 2023.
+### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027 e revoga o Ato do Presidente n° 192, de 17 de agosto de 2023._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições, e considerando (i) o envio à Assembleia Legislativa, pelo Governador do Estado, nos termos do artigo 174, § 9°, item 1, da Constituição Paulista, do Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027, e (ii) o disposto no artigo 246, § 2°, do Regimento Interno, DECIDE:
 

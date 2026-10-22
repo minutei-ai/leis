@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.871, DE 12 DE AGOSTO DE 2023
 
-### Cria e organiza, na Secretaria da Administração Penitenciária, o Centro de Detenção Provisória de Aguaí e dá providências correlatas.
+### _Cria e organiza, na Secretaria da Administração Penitenciária, o Centro de Detenção Provisória de Aguaí e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

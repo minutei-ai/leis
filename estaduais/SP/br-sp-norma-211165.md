@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 145/2025, dos Deputados Tomé Abduch - REPUBLICANOS, Carla Morando - PSDB, Itamar Borges - MDB, Lucas Bove - PL e Leonardo Siqueira - NOVO)
 
-### Estabelece regras para a fiscalização orientadora e o critério de dupla visita em atividades econômicas de baixo risco, no âmbito das relações de consumo.
+### _Estabelece regras para a fiscalização orientadora e o critério de dupla visita em atividades econômicas de baixo risco, no âmbito das relações de consumo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

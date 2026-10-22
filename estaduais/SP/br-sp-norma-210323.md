@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.120, DE 09 DE DEZEMBRO DE 2024
 
-### Altera o Decreto n° 8.468, de 8 de setembro de 1976, o Decreto n° 47.400, de 4 de dezembro de 2002, e o Decreto n° 64.132, de 11 de março de 2019, para dispor sobre os critérios do licenciamento ambiental, prazo de vigência de licenças, ressarcimento de custos de emissão de autorizações de manejo de fauna "in situ".
+### _Altera o Decreto n° 8.468, de 8 de setembro de 1976, o Decreto n° 47.400, de 4 de dezembro de 2002, e o Decreto n° 64.132, de 11 de março de 2019, para dispor sobre os critérios do licenciamento ambiental, prazo de vigência de licenças, ressarcimento de custos de emissão de autorizações de manejo de fauna "in situ"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.016, DE 11 DE OUTUBRO DE 2023
 
-### Dispõe sobre a Outorga da Medalha de Honra e Mérito da Gestão Pública em Saúde "Walter Leser".
+### _Dispõe sobre a Outorga da Medalha de Honra e Mérito da Gestão Pública em Saúde "Walter Leser"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, à vista da proposta formulada pela Secretaria da Saúde e da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

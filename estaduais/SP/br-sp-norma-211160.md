@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 766/2024, da Deputada Maria Lúcia Amary - PSDB)
 
-### Declara de utilidade pública a Panahgah Associação de Apoio Humanitário Internacional, com sede em Jundiaí.
+### _Declara de utilidade pública a Panahgah Associação de Apoio Humanitário Internacional, com sede em Jundiaí._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.872, DE 14 DE SETEMBRO DE 2024
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Sorocaba, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Sorocaba, o imóvel que especifica._
 
 **Artigo 1° -** Fica a Fazenda do Estado autorizada a receber, mediante doação, sem ônus ou encargo, do Município de Sorocaba, nos termos da Lei municipal n° 8.868, de 1 de setembro de 2009, alterada pela Lei n° 9.094, de 13 de abril de 2010, o imóvel objeto da Matrícula n° 144.151 do 1° Oficial de Registro de Imóveis da Comarca de Sorocaba, localizado na Rua Dr. Cássio Salerno, s/n°, Jardim Ipanema Ville, naquele Município, identificado e descrito nos autos do Processo 015.00154876/2023-00.  
 

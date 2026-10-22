@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 638/2024, da Deputada Delegada Graciela - PL)
 
-### Declara de utilidade pública o Instituto Vincenzo Antonio Spedicato - IVAS, com sede em Orlândia.
+### _Declara de utilidade pública o Instituto Vincenzo Antonio Spedicato - IVAS, com sede em Orlândia._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 634/2024, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação dos Engenheiros e Agrônomos de Piedade, Pilar do Sul e Tapiraí - ASSEPT, com sede em Piedade.
+### _Declara de utilidade pública a Associação dos Engenheiros e Agrônomos de Piedade, Pilar do Sul e Tapiraí - ASSEPT, com sede em Piedade._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

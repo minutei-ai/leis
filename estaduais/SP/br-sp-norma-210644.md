@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.369, DE 21 DE FEVEREIRO DE 2025
 
-### Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas do desastre rodoviário ocorrido no Estado de São Paulo, no dia 20 de fevereiro de 2025.
+### _Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas do desastre rodoviário ocorrido no Estado de São Paulo, no dia 20 de fevereiro de 2025._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

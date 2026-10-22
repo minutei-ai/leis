@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.188, DE 11 DE DEZEMBRO DE 2023
 
-### Suspende, no corrente exercício, a aplicação do disposto no artigo 5° do Decreto n° 25.013, de 16 de abril de 1986, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública
+### _Suspende, no corrente exercício, a aplicação do disposto no artigo 5° do Decreto n° 25.013, de 16 de abril de 1986, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, 
 

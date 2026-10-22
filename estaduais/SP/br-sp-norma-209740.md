@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1231/2023, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Academia Jahuense de Letras - AJL, com sede em Jaú.
+### _Declara de utilidade pública a Academia Jahuense de Letras - AJL, com sede em Jaú._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

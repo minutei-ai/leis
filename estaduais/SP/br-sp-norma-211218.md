@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.721, DE 18 DE JULHO DE 2025
 
-### Revoga o Decreto n° 59.870, de 5 de dezembro de 2013, que institui o Programa de Apoio ao Voluntariado no Estado de São Paulo.
+### _Revoga o Decreto n° 59.870, de 5 de dezembro de 2013, que institui o Programa de Apoio ao Voluntariado no Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

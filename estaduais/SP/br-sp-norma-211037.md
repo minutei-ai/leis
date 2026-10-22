@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.599, DE 09 DE JUNHO DE 2025
 
-### Institui, junto à Secretaria de Turismo e Viagens, o Programa "Academia do Turismo SP" e dá providências correlatas.
+### _Institui, junto à Secretaria de Turismo e Viagens, o Programa "Academia do Turismo SP" e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

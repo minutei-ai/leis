@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 288/2022, do Deputado Fernando Cury - UNIÃO)
 
-### Denomina "Bárbara Domingues Dante Durão" o dispositivo de acesso e retorno SPD 198/255, localizado no km 198,800 da Rodovia João Mellão - SP 255, em São Manuel
+### _Denomina "Bárbara Domingues Dante Durão" o dispositivo de acesso e retorno SPD 198/255, localizado no km 198,800 da Rodovia João Mellão - SP 255, em São Manuel_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

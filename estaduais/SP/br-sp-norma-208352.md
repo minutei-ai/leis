@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.843, DE 27 DE JULHO DE 2023
 
-### Revoga o Decreto n° 64.164, de 3 de abril de 2019.
+### _Revoga o Decreto n° 64.164, de 3 de abril de 2019._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

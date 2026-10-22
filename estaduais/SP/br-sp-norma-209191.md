@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.388, DE 15 DE MARÇO DE 2024
 
-### Autoriza a outorga de uso, em favor da Universidade Estadual Júlio de Mesquita Filho - UNESP, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, em favor da Universidade Estadual Júlio de Mesquita Filho - UNESP, de parte do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,    
 

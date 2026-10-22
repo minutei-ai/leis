@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.379, de 23/12/2025)_
 
-### Promove alterações e consolida a legislação que classifica os Municípios Turísticos do Estado de São Paulo
+### _Promove alterações e consolida a legislação que classifica os Municípios Turísticos do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:**<br>

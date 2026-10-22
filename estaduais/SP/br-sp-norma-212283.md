@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 873/2025, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação Paraguaçuense de Combate ao Câncer de Paraguaçu Paulista - APCC, com sede naquele Município.
+### _Declara de utilidade pública a Associação Paraguaçuense de Combate ao Câncer de Paraguaçu Paulista - APCC, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

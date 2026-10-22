@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 61/2026, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação Féliz-Cidade, com sede em Guarujá.
+### _Declara de utilidade pública a Associação Féliz-Cidade, com sede em Guarujá._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

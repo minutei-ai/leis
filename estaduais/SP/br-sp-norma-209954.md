@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 380/2023, do Deputado Teonilio Barba - PT)
 
-### Autoriza o Poder Executivo a isentar do pagamento de taxas a emissão da segunda via de documentos danificados ou extraviados em decorrência de catástrofe natural, e dá outras providências.
+### _Autoriza o Poder Executivo a isentar do pagamento de taxas a emissão da segunda via de documentos danificados ou extraviados em decorrência de catástrofe natural, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

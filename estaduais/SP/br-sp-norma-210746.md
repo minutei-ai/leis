@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.419, DE 19 DE MARÇO DE 2025
 
-### Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do ex-governador do Estado, Cláudio Salvador Lembo.
+### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do ex-governador do Estado, Cláudio Salvador Lembo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a notável contribuição de Cláudio Salvador Lembo como Governador do Estado de São Paulo, sua relevante trajetória como jurista, professor universitário, reitor da Universidade Presbiteriana Mackenzie e seu legado como homem público comprometido com o desenvolvimento do Estado,
 

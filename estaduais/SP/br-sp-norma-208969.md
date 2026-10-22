@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.220, DE 15 DE DEZEMBRO DE 2023
 
-### Regulamenta o § 3° do artigo 8° da Lei federal n° 14.133, de 1° de abril de 2021, para disciplinar a atuação do agente de contratação, da equipe de apoio, da comissão de contratação, dos gestores e dos fiscais de contratos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
+### _Regulamenta o § 3° do artigo 8° da Lei federal n° 14.133, de 1° de abril de 2021, para disciplinar a atuação do agente de contratação, da equipe de apoio, da comissão de contratação, dos gestores e dos fiscais de contratos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 300/2022, da Deputada Marina Helou – REDE)
 
-### Institui o "Dia da Conscientização Sobre o Acolhimento Familiar"
+### _Institui o "Dia da Conscientização Sobre o Acolhimento Familiar"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

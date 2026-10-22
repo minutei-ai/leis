@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.089, DE 26 DE NOVEMBRO DE 2024
 
-### Institui o Programa Bairro Paulista, no âmbito da Secretaria de Desenvolvimento Urbano e Habitação, e dá providências correlatas.
+### _Institui o Programa Bairro Paulista, no âmbito da Secretaria de Desenvolvimento Urbano e Habitação, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

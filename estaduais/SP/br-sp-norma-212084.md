@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 70.459, de 18/03/2026)_
 
-### Reestrutura o Fundo de Aval - FDA, instituído pela Lei n° 10.016, de 29 de junho de 1998, e dá outras providências.
+### _Reestrutura o Fundo de Aval - FDA, instituído pela Lei n° 10.016, de 29 de junho de 1998, e dá outras providências._
 
 _\- Vide [Decreto n° 70.459, de 18/03/2026](https://www.al.sp.gov.br/norma/212366)._
 

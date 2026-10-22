@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 101/2024, do Deputado Carlão Pignatari – PSDB)
 
-### Institui o "Dia do Auditor Fiscal da Receita Estadual".
+### _Institui o "Dia do Auditor Fiscal da Receita Estadual"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

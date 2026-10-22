@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 293/2024, Marina Helou - REDE, Lucas Bove - PL, Altair Moraes - REPUBLICANOS, Professora Bebel - PT, André Bueno - PL, Ricardo França - PODE, Paula da Bancada Feminista - PSOL, Rafael Saraiva - UNIÃO, Ricardo Madalena - PL, Vitão do Cachorrão - REPUBLICANOS, Guto Zacarias - UNIÃO, Carlos Giannazi - PSOL, Gilmaci Santos - REPUBLICANOS, Maurici - PT, Mauro Bragato - PSDB, Léo Oliveira - MDB, Clarice Ganem - PODE, Ediane Maria - PSOL, Eduardo Suplicy - PT, Simão Pedro - PT, Dirceu Dalben - CIDADANIA, Bruna Furlan - PSDB, Beth Sahão - PT, Leci Brandão - PCdoB, Márcia Lia - PT, Valdomiro Lopes - PSB, Luiz Fernando T. Ferreira - PT, Thainara Faria - PT, Andréa Werner - PSB, Daniel Soares - UNIÃO, Delegado Olim - PP, Reis - PT, Dr. Jorge do Carmo - PT, Paulo Fiorilo - PT, Danilo Campetti - REPUBLICANOS, Milton Leite Filho - UNIÃO, Itamar Borges - MDB, Agente Federal Danilo Balas - PL, Caio França - PSB, Emídio de Souza - PT, Vinicius Camarinha - PSDB, Ana Carolina Serra - CIDADANIA e Tenente Coimbra - PL)
 
-### Altera os artigos 1° a 3° e inclui os artigos 4° a 6° na Lei n° 12.730, de 11 de outubro de 2007, proibindo a utilização de celulares e outros dispositivos eletrônicos pelos alunos nas unidades escolares da rede pública e privada de ensino, no âmbito do Estado de São Paulo.
+### _Altera os artigos 1° a 3° e inclui os artigos 4° a 6° na Lei n° 12.730, de 11 de outubro de 2007, proibindo a utilização de celulares e outros dispositivos eletrônicos pelos alunos nas unidades escolares da rede pública e privada de ensino, no âmbito do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

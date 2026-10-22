@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 44, de 2023)
 
-### Institui e regulamenta os "Grupos de Amizade entre Nações".
+### _Institui e regulamenta os "Grupos de Amizade entre Nações"._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

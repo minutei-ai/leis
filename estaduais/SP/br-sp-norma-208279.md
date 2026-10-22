@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.801, DE 17 DE JULHO DE 2023
 
-### Revoga o Decreto n° 64.864, de 16 de março de 2020.
+### _Revoga o Decreto n° 64.864, de 16 de março de 2020._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a Portaria GM/MS n° 913, de 22 de abril de 2022, que declarou o encerramento da Emergência em Saúde Pública de Importância Nacional (ESPIN) em decorrência da infecção humana pelo novo coronavírus (2019-nCoV),
 

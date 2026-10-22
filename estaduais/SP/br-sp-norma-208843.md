@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 591/2023, do Deputado Paulo Fiorilo - PT)
 
-### Declara de utilidade pública o Núcleo Batuíra - Serviço de Promoção da Família, com sede em Guarulhos
+### _Declara de utilidade pública o Núcleo Batuíra - Serviço de Promoção da Família, com sede em Guarulhos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

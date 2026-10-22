@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1299/2023, do Deputado Tomé Abduch – REPUBLICANOS)
 
-### Institui o "Dia em Memória dos Policiais Mortos em Serviço ou em Decorrência da Função".
+### _Institui o "Dia em Memória dos Policiais Mortos em Serviço ou em Decorrência da Função"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

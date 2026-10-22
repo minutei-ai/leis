@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 359/2024, do Deputado Paulo Fiorilo - PT)
 
-### Declara de utilidade pública a Associação Ostomizados de Leme, com sede naquele Município.
+### _Declara de utilidade pública a Associação Ostomizados de Leme, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

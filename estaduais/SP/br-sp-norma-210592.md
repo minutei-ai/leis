@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1262/2023, do Deputado Marcos Damasio - PL)
 
-### Denomina "Adão Antonio Basso" o dispositivo de acesso e retorno SPD 168/316, localizado no km 168,400 da Rodovia Constante Peruchi - SP 316, em Santa Gertrudes.
+### _Denomina "Adão Antonio Basso" o dispositivo de acesso e retorno SPD 168/316, localizado no km 168,400 da Rodovia Constante Peruchi - SP 316, em Santa Gertrudes._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

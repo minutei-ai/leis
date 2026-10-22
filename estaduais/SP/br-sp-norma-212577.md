@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1009/2025, da Deputada Andréa Werner - PSB)
 
-### Declara de utilidade pública a Associação de Apoio a Pais e Autistas - Espaço Azul, com sede em São Carlos.
+### _Declara de utilidade pública a Associação de Apoio a Pais e Autistas - Espaço Azul, com sede em São Carlos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

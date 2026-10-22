@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.306, DE 10 DE JANEIRO DE 2025
 
-### Altera o Decreto n° 69.228, de 23 de dezembro de 2024, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Administração Penitenciária.
+### _Altera o Decreto n° 69.228, de 23 de dezembro de 2024, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Administração Penitenciária._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO, no uso de suas atribuições legais,
 

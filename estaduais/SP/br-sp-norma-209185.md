@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.384, DE 12 DE MARÇO DE 2024
 
-### Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Monteiro Lobato, que declarou Situação de Emer­gência em áreas do Município.
+### _Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Monteiro Lobato, que declarou Situação de Emer­gência em áreas do Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifesta­ção do Chefe da Casa Militar e Coorde­nador Esta­dual de Proteção e Defesa Civil,    
 

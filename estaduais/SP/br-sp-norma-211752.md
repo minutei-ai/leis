@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1460/2023, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Moacir Ricieri" o dispositivo de entroncamento de acesso e retorno com viaduto, de código SPD 419/333, localizado no km 418+980m da Rodovia Miguel Jubran - SP-333, em Tarumã.
+### _Denomina "Moacir Ricieri" o dispositivo de entroncamento de acesso e retorno com viaduto, de código SPD 419/333, localizado no km 418+980m da Rodovia Miguel Jubran - SP-333, em Tarumã._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

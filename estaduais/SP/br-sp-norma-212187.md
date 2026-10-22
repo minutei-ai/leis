@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 239/2024, do Deputado Capitão Telhada - PP)
 
-### Inclui o inciso VI no artigo 58 da Lei n° 17.293, de 15 de outubro de 2020.
+### _Inclui o inciso VI no artigo 58 da Lei n° 17.293, de 15 de outubro de 2020._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

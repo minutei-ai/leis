@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 38/2024, do Deputado Rogério Nogueira - PSDB)
 
-### Declara de utilidade pública o Instituto Nacional de Desenvolvimento Humano (INCAB), com sede em Americana.
+### _Declara de utilidade pública o Instituto Nacional de Desenvolvimento Humano (INCAB), com sede em Americana._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

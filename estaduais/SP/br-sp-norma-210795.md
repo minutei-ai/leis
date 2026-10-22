@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.446, DE 26 DE MARÇO DE 2025
 
-### Institui a Medalha "Cinquentenário do Décimo Terceiro Batalhão de Polícia Militar Metropolitano" e dá providências correlatas.
+### _Institui a Medalha "Cinquentenário do Décimo Terceiro Batalhão de Polícia Militar Metropolitano" e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

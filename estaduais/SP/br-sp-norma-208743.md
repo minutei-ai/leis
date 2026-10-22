@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.052, DE 02 DE NOVEMBRO DE 2023
 
-### Dispõe sobre a gratuidade no sistema metropolitano de transportes públicos de passageiros das Regiões Metropolitanas do Estado de São Paulo nas datas de 5 e 12 de novembro de 2023.
+### _Dispõe sobre a gratuidade no sistema metropolitano de transportes públicos de passageiros das Regiões Metropolitanas do Estado de São Paulo nas datas de 5 e 12 de novembro de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

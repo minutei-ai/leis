@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.555, DE 23 DE MAIO DE 2024
 
-### Dispõe sobre as transferências e desativações que especifica e dá providências correlatas
+### _Dispõe sobre as transferências e desativações que especifica e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

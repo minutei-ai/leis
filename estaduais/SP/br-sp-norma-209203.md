@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1387/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação Esportiva Prudente Thunders, com sede em Presidente Prudente.
+### _Declara de utilidade pública a Associação Esportiva Prudente Thunders, com sede em Presidente Prudente._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

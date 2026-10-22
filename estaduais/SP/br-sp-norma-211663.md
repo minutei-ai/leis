@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 91/2025, do Deputado Rafael Saraiva - UNIÃO)
 
-### Declara de utilidade pública a Associação Gatópoles - Adoção de Gatinhos, com sede na Capital.
+### _Declara de utilidade pública a Associação Gatópoles - Adoção de Gatinhos, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

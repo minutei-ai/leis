@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 3/2024, da Deputada Carla Morando - PSDB)
 
-### Institui a "Semana Estadual das Entidades Assistenciais".
+### _Institui a "Semana Estadual das Entidades Assistenciais"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

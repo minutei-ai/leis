@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.881, DE 15 DE AGOSTO DE 2023
 
-### Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas.
+### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

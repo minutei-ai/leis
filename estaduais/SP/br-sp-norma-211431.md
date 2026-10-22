@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.855, DE 10 DE SETEMBRO DE 2025
 
-### Autoriza a outorga de uso, ao Município de Guarulhos, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Guarulhos, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

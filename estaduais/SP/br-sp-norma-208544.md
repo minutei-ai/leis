@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1069/2019, do Deputado Campos Machado - PTB)
 
-### Institui o "Dia Estadual do Caminhoneiro"
+### _Institui o "Dia Estadual do Caminhoneiro"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

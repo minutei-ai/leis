@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1259/2023, do Deputado Lucas Bove – PL)
 
-### Institui o "Dia do Bombeiro Militar Veterano".
+### _Institui o "Dia do Bombeiro Militar Veterano"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

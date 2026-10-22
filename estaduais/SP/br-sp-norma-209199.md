@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 966/2023, do Deputado Gerson Pessoa - PODE)
 
-### Declara de utilidade pública o Instituto Inovação Social, com sede em Osasco.
+### _Declara de utilidade pública o Instituto Inovação Social, com sede em Osasco._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

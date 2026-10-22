@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1624/2023, do Deputado Rogério Santos - MDB)
 
-### Inclui no Calendário Oficial do Estado o "Dia de Nossa Senhora do Carmo".
+### _Inclui no Calendário Oficial do Estado o "Dia de Nossa Senhora do Carmo"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

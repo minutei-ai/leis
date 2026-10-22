@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 252/2025, do Deputado Danilo Campetti - REPUBLICANOS)
 
-### Denomina "Carlos Meinberg" o dispositivo de acesso e retorno com viaduto localizado no km 414 + 400m da Rodovia Brigadeiro Faria Lima - SP 326, em Barretos.
+### _Denomina "Carlos Meinberg" o dispositivo de acesso e retorno com viaduto localizado no km 414 + 400m da Rodovia Brigadeiro Faria Lima - SP 326, em Barretos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

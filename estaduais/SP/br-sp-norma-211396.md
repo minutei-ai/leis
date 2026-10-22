@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n.° 1634/2023, do Deputado Paulo Fiorilo - PT)
 
-### Institui o "Dia do Hangul - alfabeto coreano".
+### _Institui o "Dia do Hangul - alfabeto coreano"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

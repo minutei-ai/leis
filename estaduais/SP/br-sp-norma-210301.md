@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 131/2016, do Deputado Gilmaci Santos - PRB)
 
-### Institui a campanha "Abril Marrom" de prevenção e combate às diversas espécies de cegueira, no âmbito do Estado e dá outras providências.
+### _Institui a campanha "Abril Marrom" de prevenção e combate às diversas espécies de cegueira, no âmbito do Estado e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

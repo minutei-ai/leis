@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 171/2024, dos Deputados Bruno Zambelli - PL e Marcio Nakashima - PDT)
 
-### Inclui no Calendário Turístico do Estado a Feira de Artes, Gastronomia e Antiguidades do Ipiranga - FEART Ipiranga, na Capital.
+### _Inclui no Calendário Turístico do Estado a Feira de Artes, Gastronomia e Antiguidades do Ipiranga - FEART Ipiranga, na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 546/2024, dos Deputados Carlos Cezar - PL, Marcos Damasio - PL, Gerson Pessoa - PODE, Carlão Pignatari - PSDB, Delegado Olim - PP, Clarice Ganem - PODE, Luiz Fernando T. Ferreira - PT, Ricardo França - PODE, Carlos Giannazi - PSOL, Maria Lúcia Amary - PSDB, Marta Costa - PSD, Alex Madureira - PL, Barros Munhoz - PSDB, Altair Moraes - REPUBLICANOS, Itamar Borges - MDB, Edmir Chedid - UNIÃO, Gil Diniz - PL, Capitão Telhada - PP, Emídio de Souza - PT, Mauro Bragato - PSDB, Milton Leite Filho - UNIÃO, Dr. Jorge do Carmo - PT, Rogério Santos - MDB, Felipe Franco - UNIÃO, Rodrigo Moraes - PL, Paulo Fiorilo - PT, Letícia Aguiar - PP, Simão Pedro - PT, Carla Morando - PSDB, Delegada Graciela - PL, Marina Helou - REDE, Rafa Zimbaldi - CIDADANIA, Beth Sahão - PT, Leci Brandão - PCdoB, Ricardo Madalena - PL, Ana Carolina Serra - CIDADANIA, Maurici - PT, Teonilio Barba - PT, Gilmaci Santos - REPUBLICANOS, Vitão do Cachorrão - REPUBLICANOS, Rafael Saraiva - UNIÃO, Danilo Campetti - REPUBLICANOS, Andréa Werner - PSB, Paulo Correa Jr - PSD, Reis - PT, Thainara Faria - PT, Caio França - PSB, Márcia Lia - PT, Rômulo Fernandes - PT e Tomé Abduch - REPUBLICANOS)
 
-### Denomina "Deputado Estevam Galvão de Oliveira" o Hospital Regional do Alto Tietê - HRAT, em Suzano.
+### _Denomina "Deputado Estevam Galvão de Oliveira" o Hospital Regional do Alto Tietê - HRAT, em Suzano._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

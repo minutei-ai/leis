@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 331/2025, do Deputado Alex Madureira - PL)
 
-### Denomina "Adilson Benedito Maluf" o dispositivo de acesso e retorno de código SPD 169/304, localizado no km 169 da Rodovia Luiz de Queiroz - SP 304, no Município de Piracicaba.
+### _Denomina "Adilson Benedito Maluf" o dispositivo de acesso e retorno de código SPD 169/304, localizado no km 169 da Rodovia Luiz de Queiroz - SP 304, no Município de Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

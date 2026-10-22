@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 547/2024, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Deputado Campos Machado" o dispositivo de acesso e retorno com viaduto SPD 255/255, localizado no km 255,370 da Rodovia João Mellão - SP 255, em Avaré.
+### _Denomina "Deputado Campos Machado" o dispositivo de acesso e retorno com viaduto SPD 255/255, localizado no km 255,370 da Rodovia João Mellão - SP 255, em Avaré._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

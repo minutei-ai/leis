@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 413/2024, do Deputado Guilherme Cortez - PSOL)
 
-### Institui o "Dia Estadual do(a) Sapateiro(a)".
+### _Institui o "Dia Estadual do(a) Sapateiro(a)"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

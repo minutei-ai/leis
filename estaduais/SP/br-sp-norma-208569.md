@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 364/2021, do Deputado Carlos Giannazi - PSOL)
 
-### Denomina "Professor Milton Santos" a Escola Estadual Morro Doce, na Capital
+### _Denomina "Professor Milton Santos" a Escola Estadual Morro Doce, na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

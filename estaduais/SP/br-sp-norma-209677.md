@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 572/2021, do Deputado Mauro Bragato - PSDB)
 
-### Declara patrimônio cultural imaterial do Estado o "Comércio e as Iguarias do Mercado da Lapa"
+### _Declara patrimônio cultural imaterial do Estado o "Comércio e as Iguarias do Mercado da Lapa"_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

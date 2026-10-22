@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 377, de 2021, do Deputado Frederico d'Avila - PSL)
 
-### Dá denominação à passarela que especifica
+### _Dá denominação à passarela que especifica_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

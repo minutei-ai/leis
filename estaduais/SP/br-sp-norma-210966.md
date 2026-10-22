@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.545, DE 22 DE MAIO DE 2025
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Asas de Um Sonho - Mérito Comandante Rolim Adolfo Amaro", instituída pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS, e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Asas de Um Sonho - Mérito Comandante Rolim Adolfo Amaro", instituída pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

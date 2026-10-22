@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 1199/2023, do Deputado Major Mecca - PL)
 
-### Denomina "José Carlos da Silva" o viaduto SPD 299/333, localizado na altura do km 299+290m da Rodovia SP-333, no Município de Júlio Mesquita.
+### _Denomina "José Carlos da Silva" o viaduto SPD 299/333, localizado na altura do km 299+290m da Rodovia SP-333, no Município de Júlio Mesquita._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

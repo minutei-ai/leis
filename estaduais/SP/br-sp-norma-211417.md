@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 526/2023, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Declara de utilidade pública o Instituto de Desenvolvimento e Ação Comunitária - Idac Maanain, com sede em Assis.
+### _Declara de utilidade pública o Instituto de Desenvolvimento e Ação Comunitária - Idac Maanain, com sede em Assis._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

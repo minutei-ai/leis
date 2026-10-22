@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.358, DE 29 DE FEVEREIRO DE 2024
 
-### Autoriza a Fazenda do Estado a receber, mediante concessão de uso, a título gratuito e por prazo determinado, da EMAE - Empresa Metropolitana de Águas e Energia S.A., o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante concessão de uso, a título gratuito e por prazo determinado, da EMAE - Empresa Metropolitana de Águas e Energia S.A., o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

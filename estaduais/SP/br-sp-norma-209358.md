@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.476, DE 24 DE ABRIL DE 2024
 
-### Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR da Secretaria da Educação relativa ao exercício de 2023.
+### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR da Secretaria da Educação relativa ao exercício de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

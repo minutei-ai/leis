@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.688, DE 08 DE JULHO DE 2025
 
-### Altera o Decreto n° 67.494, de 17 de fevereiro de 2023, que dispõe sobre o Fórum Estadual de Fomento ao Turismo Rural a que se refere o artigo 6° da Lei n° 16.774, de 19 de junho de 2018.
+### _Altera o Decreto n° 67.494, de 17 de fevereiro de 2023, que dispõe sobre o Fórum Estadual de Fomento ao Turismo Rural a que se refere o artigo 6° da Lei n° 16.774, de 19 de junho de 2018._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

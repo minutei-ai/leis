@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 267/2022, do Deputado Carlos Giannazi - PSOL)
 
-### Institui o "Dia de Mandela".
+### _Institui o "Dia de Mandela"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

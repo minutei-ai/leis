@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.269, DE 30 DE DEZEMBRO DE 2024
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da Lei n° 6.374, de 1° de março de 1989 e nos Convênios ICM 40/75, de 10 de dezembro de 1975, ICM 26/75, de 5 de novembro de 1975, ICMS 85/94, de 30 de junho de 1994, ICMS 136/94, de 7 de dezembro de 1994, ICMS 162/94, de 7 de dezembro de 1994, ICMS 55/98, de 19 de junho de 1998, ICMS 10/02, de 15 de março de 2002, ICMS 129/04, de 10 de dezembro de 2004, ICMS 81/08, de 4 de julho de 2008, ICMS 24/09, de 3 de abril de 2009, ICMS 126/10, de 24 de setembro de 2010, ICMS 103/11, de 30 de setembro de 2011, ICMS 120/11, de 16 de dezembro de 2011, ICMS 24/12, de 30 de março de 2012, ICMS 78/13, de 26 de julho de 2013, ICMS 96/18, de 28 de setembro de 2018, ICMS 66/19, de 5 de julho de 2019, ICMS 52/20, de 30 de julho de 2020, ICMS 100/21, de 8 de julho de 2021, ICMS 174/21, de 1° de outubro de 2021 e ICMS 187/21, de 20 de outubro de 2021,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 734/2024, do Deputado Tomé Abduch - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação Projeto Stephan Junio Gonçalves dos Santos, com sede na Capital.
+### _Declara de utilidade pública a Associação Projeto Stephan Junio Gonçalves dos Santos, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

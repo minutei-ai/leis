@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1401/2023, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação dos Engenheiros, Arquitetos e Agrônomos da Nova Alta Paulista - AEAANAP, com sede em Adamantina.
+### _Declara de utilidade pública a Associação dos Engenheiros, Arquitetos e Agrônomos da Nova Alta Paulista - AEAANAP, com sede em Adamantina._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

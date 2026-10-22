@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.826, DE 04 DE SETEMBRO DE 2024
 
-### Regulamenta a forma de recolhimento, o controle dos sistemas de arrecadação de tributos, custas, multas e demais receitas públicas de natureza não tributária do Estado de São Paulo, e dá outras providências.
+### _Regulamenta a forma de recolhimento, o controle dos sistemas de arrecadação de tributos, custas, multas e demais receitas públicas de natureza não tributária do Estado de São Paulo, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 2° da [Lei n° 10.389, de 10 de novembro de 1970](https://www.al.sp.gov.br/norma/28749),  
 

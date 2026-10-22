@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.420, DE 02 DE ABRIL DE 2024
 
-### Cria as Assessorias Policiais Civis que especifica e dá providências correlatas.
+### _Cria as Assessorias Policiais Civis que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

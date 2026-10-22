@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1278/2025, da Deputada Dani Alonso - PL)
 
-### Institui o Selo "Cidade Mulher Paulista", a ser conferido aos municípios que se destacarem na efetividade das políticas públicas específicas para o bem-estar das mulheres.
+### _Institui o Selo "Cidade Mulher Paulista", a ser conferido aos municípios que se destacarem na efetividade das políticas públicas específicas para o bem-estar das mulheres._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

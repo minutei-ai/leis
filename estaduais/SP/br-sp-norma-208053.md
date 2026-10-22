@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.689, DE 03 DE MAIO DE 2023
 
-### Regulamenta o inciso VII do artigo 12 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre o plano de contratações anual no âmbito da Administração Pública direta e autárquica.
+### _Regulamenta o inciso VII do artigo 12 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre o plano de contratações anual no âmbito da Administração Pública direta e autárquica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:**<br>

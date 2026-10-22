@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 376/2025, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Instância de Governança Regional Pontal Paulista de Turismo, com sede em Pirapozinho.
+### _Declara de utilidade pública a Instância de Governança Regional Pontal Paulista de Turismo, com sede em Pirapozinho._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

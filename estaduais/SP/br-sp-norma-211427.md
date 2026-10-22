@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 645/2024, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Declara de utilidade pública a Casa de Amparo Amor e Vida à Pessoas com Câncer - CAVIPEC, com sede em Campinas.
+### _Declara de utilidade pública a Casa de Amparo Amor e Vida à Pessoas com Câncer - CAVIPEC, com sede em Campinas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

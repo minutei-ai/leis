@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.862, DE 11 DE SETEMBRO DE 2025
 
-### Dispõe sobre a classificação institucional da Secretaria de Agricultura e Abastecimento nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Dispõe sobre a classificação institucional da Secretaria de Agricultura e Abastecimento nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 6° do [Decreto-Lei n° 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos n° 68.742, de 5 de agosto de 2024, e n° [69.664, de 29 de junho de 2025](https://al.sp.gov.br/norma/211123),
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.856, DE 01 DE AGOSTO DE 2023
 
-### Regulamenta a Lei n° 17.621, de 3 de fevereiro de 2023, que obriga bares, restaurantes, casas noturnas e de eventos a adotar medidas de auxílio à mulher que se sinta em situação de risco, e a Lei n° 17.635, de 17 de fevereiro de 2023, que dispõe sobre a capacitação dos funcionários de bares, restaurantes, boates, clubes noturnos, casas de espetáculos e congêneres, de modo a habilitá-los a identificar e combater o assédio sexual e a cultura do estupro praticados contra as mulheres, institui o selo e o prêmio "Estabelecimento Amigo da Mulher", e dá providências correlatas.
+### _Regulamenta a Lei n° 17.621, de 3 de fevereiro de 2023, que obriga bares, restaurantes, casas noturnas e de eventos a adotar medidas de auxílio à mulher que se sinta em situação de risco, e a Lei n° 17.635, de 17 de fevereiro de 2023, que dispõe sobre a capacitação dos funcionários de bares, restaurantes, boates, clubes noturnos, casas de espetáculos e congêneres, de modo a habilitá-los a identificar e combater o assédio sexual e a cultura do estupro praticados contra as mulheres, institui o selo e o prêmio "Estabelecimento Amigo da Mulher", e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso das suas atribuições legais,
 

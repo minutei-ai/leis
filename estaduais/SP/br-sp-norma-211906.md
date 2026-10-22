@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1039/2023, do Deputado Carlão Pignatari - PSDB)
 
-### Denomina "Escrivão de Polícia Mauricio Chenchi" a Delegacia de Polícia de Cedral.
+### _Denomina "Escrivão de Polícia Mauricio Chenchi" a Delegacia de Polícia de Cedral._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 317, de 2022, da Deputada Marina Helou – REDE)
 
-### Institui o "Dia da Gestão Pública do Estado de São Paulo"
+### _Institui o "Dia da Gestão Pública do Estado de São Paulo"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

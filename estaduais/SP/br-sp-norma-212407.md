@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 642/2025, do Deputado Alex Madureira - PL)
 
-### Declara de utilidade pública a Associação Toque do Futuro Voleibol - ATFV, com sede em Piracicaba.
+### _Declara de utilidade pública a Associação Toque do Futuro Voleibol - ATFV, com sede em Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

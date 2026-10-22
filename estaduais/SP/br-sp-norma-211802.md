@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 653/2024, do Deputado Carlos Cezar - PL)
 
-### Institui o "Dia da Manicure".
+### _Institui o "Dia da Manicure"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 100/2023, da Deputada Leticia Aguiar - PP)
 
-### Inclui no Calendário Oficial do Estado a "Cãominhada".
+### _Inclui no Calendário Oficial do Estado a "Cãominhada"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.817, DE 19 DE JULHO DE 2023
 
-### Cria a Escola Técnica Estadual - ETEC de Sumaré, no Município de Sumaré.
+### _Cria a Escola Técnica Estadual - ETEC de Sumaré, no Município de Sumaré._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,
 

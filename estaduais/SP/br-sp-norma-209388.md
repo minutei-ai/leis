@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 967/2023, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Dr. Edmircio Ferreira dos Santos" o prédio da Central de Polícia Judiciária de Dracena.
+### _Denomina "Dr. Edmircio Ferreira dos Santos" o prédio da Central de Polícia Judiciária de Dracena._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

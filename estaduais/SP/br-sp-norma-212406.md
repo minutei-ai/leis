@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 429/2025, da Deputada Edna Macedo - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação Fábrica de Saúde, Esporte e Cultura, com sede em Paulínia.
+### _Declara de utilidade pública a Associação Fábrica de Saúde, Esporte e Cultura, com sede em Paulínia._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1081/2025, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação de Arte, Cultura e Educação do Projeto Camerata - PROCAM, com sede em Presidente Prudente.
+### _Declara de utilidade pública a Associação de Arte, Cultura e Educação do Projeto Camerata - PROCAM, com sede em Presidente Prudente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

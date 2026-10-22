@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1191/2019, do Deputado Itamar Borges - MDB)
 
-### Denomina "Igeny Dabul dos Reis" a passarela PAS 013/270, localizada no km 13,660 da Rodovia Raposo Tavares (SP 270), no Município de São Paulo
+### _Denomina "Igeny Dabul dos Reis" a passarela PAS 013/270, localizada no km 13,660 da Rodovia Raposo Tavares (SP 270), no Município de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

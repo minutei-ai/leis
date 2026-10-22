@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 501/2025, do Deputado Ricardo França - PODE)
 
-### Institui a "Semana Estadual de Conscientização e Prevenção de Doenças em Animais Domésticos Idosos".
+### _Institui a "Semana Estadual de Conscientização e Prevenção de Doenças em Animais Domésticos Idosos"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

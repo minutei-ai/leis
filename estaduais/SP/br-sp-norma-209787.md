@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 420/2023, do Deputado Atila Jacomussi - SD)
 
-### Institui a "Semana Estadual da Maternidade Atípica" e dá outras providências.
+### _Institui a "Semana Estadual da Maternidade Atípica" e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

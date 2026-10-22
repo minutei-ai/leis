@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 483/2024, da Deputada Coronel Helena - REPUBLICANOS)
 
-### Institui o "Dia do Desporto Escolar", incluindo-o no Calendário Oficial do Estado, e dá outras providências.
+### _Institui o "Dia do Desporto Escolar", incluindo-o no Calendário Oficial do Estado, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

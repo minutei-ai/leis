@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.735, DE 12 DE JUNHO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol Auto-Estradas S/A, as áreas necessárias à implantação de dispositivo de retorno no km 354+000m da Rodovia SP-326, no Município de Taiúva, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol Auto-Estradas S/A, as áreas necessárias à implantação de dispositivo de retorno no km 354+000m da Rodovia SP-326, no Município de Taiúva, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 41.904, de 30 de junho de 1997](https://www.al.sp.gov.br/norma/8880),
 

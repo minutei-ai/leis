@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1307/2025, dos Deputados Profª Camila Godoi - PSB, Letícia Aguiar - PL, Valdomiro Lopes - PSB e Rogério Nogueira - PSDB)
 
-### Institui a Política Estadual de Garantia dos Direitos da Pessoa com Câncer e dá outras providências.
+### _Institui a Política Estadual de Garantia dos Direitos da Pessoa com Câncer e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

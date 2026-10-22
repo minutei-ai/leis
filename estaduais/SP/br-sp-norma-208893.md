@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.153, DE 05 DE DEZEMBRO DE 2023
 
-### Revoga o Decreto n° 68.125, de 30 de novembro de 2023.
+### _Revoga o Decreto n° 68.125, de 30 de novembro de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

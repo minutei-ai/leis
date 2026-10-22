@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 516/2023, do Deputado Itamar Borges - MDB)
 
-### Declara o Município de Bebedouro "Capital Estadual do Cooperativismo"
+### _Declara o Município de Bebedouro "Capital Estadual do Cooperativismo"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

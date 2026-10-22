@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.789, DE 11 DE AGOSTO DE 2025
 
-### Altera dispositivo do Decreto n° 68.797, de 23 de agosto de 2024, que autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Itapetininga, o imóvel que especifica.
+### _Altera dispositivo do Decreto n° 68.797, de 23 de agosto de 2024, que autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Itapetininga, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

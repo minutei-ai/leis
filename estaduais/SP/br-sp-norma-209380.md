@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 129/2024, da Deputada Marina Helou - REDE)
 
-### Institui o "Dia de Mulheres e Meninas na Ciência".
+### _Institui o "Dia de Mulheres e Meninas na Ciência"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

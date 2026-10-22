@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 370, de 2021, do Deputado Thiago Auricchio - PL)
 
-### Dispõe sobre a capacitação dos funcionários de bares, restaurantes, boates, clubes noturnos, casas de espetáculos e congêneres, de modo a habilitá-los a identificar e combater o assédio sexual e a cultura do estupro praticados contra as mulheres, e dá outras providências
+### _Dispõe sobre a capacitação dos funcionários de bares, restaurantes, boates, clubes noturnos, casas de espetáculos e congêneres, de modo a habilitá-los a identificar e combater o assédio sexual e a cultura do estupro praticados contra as mulheres, e dá outras providências_
 
 _\- Vide [Decreto n° 67.856, de 01/08/2023](https://www.al.sp.gov.br/norma/208366)._
 

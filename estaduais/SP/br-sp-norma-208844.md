@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 632/2023, do Deputado Vinicius Camarinha – PSDB)
 
-### Declara de utilidade pública a Rede Feminina Regional de Combate ao Câncer de Parapuã, com sede naquele Município
+### _Declara de utilidade pública a Rede Feminina Regional de Combate ao Câncer de Parapuã, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 578/2021, do Deputado André do Prado - PL)
 
-### Declara o Município de Lagoinha como a "Capital do Requeijão de Prato".
+### _Declara o Município de Lagoinha como a "Capital do Requeijão de Prato"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

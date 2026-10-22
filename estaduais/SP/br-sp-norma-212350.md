@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 570/2020, do Deputado Ricardo Madalena - PL)
 
-### Institui a Semana Estadual do Rádio, no Estado de São Paulo.
+### _Institui a Semana Estadual do Rádio, no Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

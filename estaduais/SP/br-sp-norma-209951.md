@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 539/2023, do Deputado Felipe Franco - UNIÃO)
 
-### Autoriza o Poder Executivo a criar programa destinado à doação de milhas, pontos e outros benefícios similares, em benefício de atletas e paratletas do Estado de São Paulo, e dá providências correlatas.
+### _Autoriza o Poder Executivo a criar programa destinado à doação de milhas, pontos e outros benefícios similares, em benefício de atletas e paratletas do Estado de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

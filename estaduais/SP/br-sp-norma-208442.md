@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 606/2020, do Deputado Rafael Silva – PSB)
 
-### Dá denominação à Delegacia de Polícia que especifica
+### _Dá denominação à Delegacia de Polícia que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.810, DE 18 DE AGOSTO DE 2025
 
-### Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas.
+### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

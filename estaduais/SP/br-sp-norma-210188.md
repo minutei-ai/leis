@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.025, DE 05 DE NOVEMBRO DE 2024
 
-### Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do jornalista e empresário Antônio Augusto Amaral de Carvalho, o "Seu Tuta".
+### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do jornalista e empresário Antônio Augusto Amaral de Carvalho, o "Seu Tuta"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, e considerando a notável contribuição do jornalista e empresário Antônio Augusto Amaral de Carvalho, o "Seu Tuta", ao rádio e à televisão brasileira,
 

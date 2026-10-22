@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 655, de 2022)
 
-### Fixa o subsídio dos Deputados Estaduais para os exercícios de 2023 a 2025 e dá outras providências.
+### _Fixa o subsídio dos Deputados Estaduais para os exercícios de 2023 a 2025 e dá outras providências._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 4°, da Constituição do Estado, a seguinte lei:**<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 98/2025, do Deputado Rogério Nogueira - PSDB)
 
-### Declara de utilidade pública a Comunidade Terapêutica Germano Neemias, com sede em Buri.
+### _Declara de utilidade pública a Comunidade Terapêutica Germano Neemias, com sede em Buri._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

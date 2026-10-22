@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 764/2023, do Deputado Dirceu Dalben - CIDADANIA)
 
-### Declara de utilidade pública a ECOE - Associação de Apoio à Qualidade de Vida da Comunidade, com sede em Jaboticabal.
+### _Declara de utilidade pública a ECOE - Associação de Apoio à Qualidade de Vida da Comunidade, com sede em Jaboticabal._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

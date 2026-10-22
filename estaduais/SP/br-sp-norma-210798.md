@@ -5,7 +5,7 @@
 
 # _(Última atualização: ADI - STF n° 7797, de 02/04/2025)_
 
-### Dispõe sobre a criação de serventia extrajudicial na Comarca de Paulínia.
+### _Dispõe sobre a criação de serventia extrajudicial na Comarca de Paulínia._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

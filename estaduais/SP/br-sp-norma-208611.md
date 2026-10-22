@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 177/2021, do Deputado Edson Giriboni - PV)
 
-### Denomina "Mario Paulo" a passarela para pedestres PAS 200/270, localizada no km 200 + 350m da Rodovia Raposo Tavares (SP 270), no Município de Angatuba
+### _Denomina "Mario Paulo" a passarela para pedestres PAS 200/270, localizada no km 200 + 350m da Rodovia Raposo Tavares (SP 270), no Município de Angatuba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

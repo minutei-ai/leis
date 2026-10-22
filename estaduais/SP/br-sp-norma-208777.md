@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1268/2023, do Deputado Itamar Borges - MDB)
 
-### Denomina "Antonio Cabrera Mano" o trecho da Rodovia SP 473 entre o km 07 e o km 14
+### _Denomina "Antonio Cabrera Mano" o trecho da Rodovia SP 473 entre o km 07 e o km 14_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

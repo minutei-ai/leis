@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 53/2024, da Deputada Marta Costa PSD)
 
-### Declara de utilidade pública o Centro de Recuperação Semente Missionária de Cruzeiro - SEMIS, com sede naquele Município.
+### _Declara de utilidade pública o Centro de Recuperação Semente Missionária de Cruzeiro - SEMIS, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO: 
 

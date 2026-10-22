@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 280/2023, da Deputada Marina Helou - REDE)
 
-### Disciplina a obrigatoriedade do gerenciamento adequado de resíduos sólidos gerados em eventos públicos, privados ou público-privados no Estado de São Paulo e dá outras providências
+### _Disciplina a obrigatoriedade do gerenciamento adequado de resíduos sólidos gerados em eventos públicos, privados ou público-privados no Estado de São Paulo e dá outras providências_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

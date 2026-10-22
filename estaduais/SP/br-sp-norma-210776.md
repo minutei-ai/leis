@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.423, DE 20 DE MARÇO DE 2025
 
-### Altera o Decreto n° 66.772, de 24 de maio de 2022, que regulamenta a Bonificação por Resultados - BR, instituída pela Lei Complementar n° 1.361, de 21 de outubro de 2021, e dá providências correlatas
+### _Altera o Decreto n° 66.772, de 24 de maio de 2022, que regulamenta a Bonificação por Resultados - BR, instituída pela Lei Complementar n° 1.361, de 21 de outubro de 2021, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

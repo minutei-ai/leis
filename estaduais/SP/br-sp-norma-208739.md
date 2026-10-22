@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.048, DE 31 DE OUTUBRO DE 2023
 
-### Institui a Medalha Cinquentenário do 2° Batalhão de Polícia Militar do Interior e dá providências correlatas.
+### _Institui a Medalha Cinquentenário do 2° Batalhão de Polícia Militar do Interior e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

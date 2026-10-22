@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 652/2021, dos Deputados Heni Ozi Cukier - NOVO e Gilmaci Santos - REPUBLICANOS)
 
-### Institui a proibição do ensino ou abordagem disciplinar do Holocausto sob os prismas do negacionismo ou revisionismo histórico, no âmbito do Sistema Estadual de Educação Básica do Estado de São Paulo
+### _Institui a proibição do ensino ou abordagem disciplinar do Holocausto sob os prismas do negacionismo ou revisionismo histórico, no âmbito do Sistema Estadual de Educação Básica do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

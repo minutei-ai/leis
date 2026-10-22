@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 755/2024, do Deputado Delegado Olim - PP)
 
-### Declara de utilidade pública o Instituto Caramelo de Assistência aos Animais, com sede em Ribeirão Pires.
+### _Declara de utilidade pública o Instituto Caramelo de Assistência aos Animais, com sede em Ribeirão Pires._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

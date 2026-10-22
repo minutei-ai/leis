@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 503/2024, da Deputada Ediane Maria - PSOL)
 
-### Declara de utilidade pública o Centro de Cultura e Educação (C.C.E) Espaço Salutar - Marinalva Pereira Barbosa da Silva, com sede em Boituva.
+### _Declara de utilidade pública o Centro de Cultura e Educação (C.C.E) Espaço Salutar - Marinalva Pereira Barbosa da Silva, com sede em Boituva._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

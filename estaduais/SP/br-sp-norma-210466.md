@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.241, DE 23 DE DEZEMBRO DE 2024
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Estadual Alto Noroeste.
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Estadual Alto Noroeste._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

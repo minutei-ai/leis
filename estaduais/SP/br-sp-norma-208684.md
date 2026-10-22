@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 275/2023, do Deputado Rogério Nogueira - PSDB)
 
-### Institui o "Dia do Capitalismo Humanista"
+### _Institui o "Dia do Capitalismo Humanista"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

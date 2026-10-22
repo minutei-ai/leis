@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1259/2019, do Deputado Rafael Silva - PSB)
 
-### Institui a "Semana Estadual do Livro e de Incentivo à Leitura e à Escrita", e dá providências correlatas.
+### _Institui a "Semana Estadual do Livro e de Incentivo à Leitura e à Escrita", e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

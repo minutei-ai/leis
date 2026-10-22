@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.948, DE 15 DE SETEMBRO DE 2023
 
-### Institui a Medalha do Cinquentenário do Comando de Policiamento de Trânsito e dá providências correlatas.
+### _Institui a Medalha do Cinquentenário do Comando de Policiamento de Trânsito e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

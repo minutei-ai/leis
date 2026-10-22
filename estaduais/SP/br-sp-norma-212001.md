@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 601/2024, do Deputado Carlos Cezar - PL)
 
-### Institui o "Dia do Pediatra no Estado de São Paulo".
+### _Institui o "Dia do Pediatra no Estado de São Paulo"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

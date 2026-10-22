@@ -5,7 +5,7 @@
 
 # _(Última atualização: Retificação de 02/01/2025)_
 
-### Institui o Fundo de Defesa Estadual da Sanidade Animal para a Pecuária - FUNDESA-PEC, nos termos que especifica, e altera a Lei n° 15.266, de 26 de dezembro de 2013, que dispõe sobre o tratamento tributário relativo às taxas no âmbito do Poder Executivo Estadual.
+### _Institui o Fundo de Defesa Estadual da Sanidade Animal para a Pecuária - FUNDESA-PEC, nos termos que especifica, e altera a Lei n° 15.266, de 26 de dezembro de 2013, que dispõe sobre o tratamento tributário relativo às taxas no âmbito do Poder Executivo Estadual._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

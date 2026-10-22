@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.874, DE 13 DE AGOSTO DE 2023
 
-### Dispõe sobre a oficialização da VI Conferência Estadual de Segurança Alimentar e Nutricional e dá providências correlatas.
+### _Dispõe sobre a oficialização da VI Conferência Estadual de Segurança Alimentar e Nutricional e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e conforme o disposto no inciso I do artigo 3° do [Decreto n° 59.146, de 30 de abril de 2013](https://www.al.sp.gov.br/norma/170111), alterado pelo [Decreto n° 65.046, de 6 de julho de 2020](https://www.al.sp.gov.br/norma/194421),
 

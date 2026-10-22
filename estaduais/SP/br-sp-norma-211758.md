@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 437/2024, dos Deputados Ricardo França - PODE e Rafael Saraiva - UNIÃO)
 
-### Institui o "Dia Estadual da Conscientização sobre os Animais em Extinção".
+### _Institui o "Dia Estadual da Conscientização sobre os Animais em Extinção"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

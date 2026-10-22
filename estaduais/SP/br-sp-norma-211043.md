@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.594, DE 09 DE JUNHO DE 2025
 
-### Convoca a V Conferência Estadual de Políticas para as Mulheres e dá providências correlatas.
+### _Convoca a V Conferência Estadual de Políticas para as Mulheres e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

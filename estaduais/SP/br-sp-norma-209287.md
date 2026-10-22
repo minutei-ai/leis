@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1267/2007, da Deputada Ana Perugini - PT)
 
-### Dispõe sobre a obrigatoriedade da comunicação de nascimentos sem identificação de paternidade à Defensoria Pública.
+### _Dispõe sobre a obrigatoriedade da comunicação de nascimentos sem identificação de paternidade à Defensoria Pública._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.484, DE 26 DE ABRIL DE 2024
 
-### Dá nova redação a dispositivo do Decreto n° 66.173, de 26 de outubro de 2021, que dispõe sobre a disciplina acerca da celebração de convênios, no âmbito da Administração direta e autárquica, e sobre a instrução dos processos respectivos.
+### _Dá nova redação a dispositivo do Decreto n° 66.173, de 26 de outubro de 2021, que dispõe sobre a disciplina acerca da celebração de convênios, no âmbito da Administração direta e autárquica, e sobre a instrução dos processos respectivos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

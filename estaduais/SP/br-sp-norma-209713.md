@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 830/2023, do Deputado Léo Oliveira - MDB)
 
-### Declara de utilidade pública a Fundação Hospital Santa Lydia, com sede em Ribeirão Preto.
+### _Declara de utilidade pública a Fundação Hospital Santa Lydia, com sede em Ribeirão Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

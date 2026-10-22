@@ -2,7 +2,7 @@
 
 # LEI N° 18.440, DE 02 DE ABRIL DE 2026
 
-### Altera a Lei Complementar n° 1.280, de 13 de janeiro de 2016, que institui a Diária Especial por Jornada Extraordinária de Trabalho Policial Civil - DEJEC.
+### _Altera a Lei Complementar n° 1.280, de 13 de janeiro de 2016, que institui a Diária Especial por Jornada Extraordinária de Trabalho Policial Civil - DEJEC._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

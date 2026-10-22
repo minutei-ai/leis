@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 469/2023, do Deputado Rodrigo Moraes - PL)
 
-### Institui a Semana "Memória ao Berço da República", conhecido como marco histórico da Convenção Republicana do Município de Itu
+### _Institui a Semana "Memória ao Berço da República", conhecido como marco histórico da Convenção Republicana do Município de Itu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

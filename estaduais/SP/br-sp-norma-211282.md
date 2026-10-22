@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.772, DE 11 DE AGOSTO DE 2025
 
-### Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação do Programa Habitacional e de Desenvolvimento Urbano para famílias de baixa renda, no Município de São Paulo, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação do Programa Habitacional e de Desenvolvimento Urbano para famílias de baixa renda, no Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto na Lei federal n° 4.132, de 10 de setembro de 1962, c.c. o Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e alterações posteriores,
 

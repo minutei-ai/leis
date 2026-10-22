@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.875, DE 14 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA DE RODOVIAS NOROESTE PAULISTA S.A., as áreas necessárias à adequação de via marginal, no trecho entre o km 420+290 e o km 424+800 da Rodovia SP-326, no Município de Barretos, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA DE RODOVIAS NOROESTE PAULISTA S.A., as áreas necessárias à adequação de via marginal, no trecho entre o km 420+290 e o km 424+800 da Rodovia SP-326, no Município de Barretos, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto no Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 66.814, de 03 de junho de 2022](https://www.al.sp.gov.br/norma/203800),  
 

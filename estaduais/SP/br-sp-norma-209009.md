@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.238, DE 22 DE DEZEMBRO DE 2023
 
-### Altera o Decreto n° 57.314, de 8 de setembro de 2011, que institui, sob a coordenação do então denominado Fundo Social de Solidariedade do Estado de São Paulo - FUSSESP, o Programa Escola de Qualificação Profissional.
+### _Altera o Decreto n° 57.314, de 8 de setembro de 2011, que institui, sob a coordenação do então denominado Fundo Social de Solidariedade do Estado de São Paulo - FUSSESP, o Programa Escola de Qualificação Profissional._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

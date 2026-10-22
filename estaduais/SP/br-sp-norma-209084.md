@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.313, DE 26 DE JANEIRO DE 2024
 
-### Institui o Distrito Turístico Urbano Centro de São Paulo, e dá providências correlatas.
+### _Institui o Distrito Turístico Urbano Centro de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

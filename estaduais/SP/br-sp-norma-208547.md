@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 625/2021, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Nelson Teresani" o dispositivo de retorno com desnível, localizado no km 161,360 da Rodovia Professor Zeferino Vaz - SP 332, em Engenheiro Coelho
+### _Denomina "Nelson Teresani" o dispositivo de retorno com desnível, localizado no km 161,360 da Rodovia Professor Zeferino Vaz - SP 332, em Engenheiro Coelho_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

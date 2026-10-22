@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.700, DE 09 DE MAIO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, a área complementar necessária à implantação do Contorno de Caraguatatuba e São Sebastião, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, a área complementar necessária à implantação do Contorno de Caraguatatuba e São Sebastião, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

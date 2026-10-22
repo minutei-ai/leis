@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 458/2025, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação Barretense "Vida Nova" - ABAVIN, com sede em Barretos.
+### _Declara de utilidade pública a Associação Barretense "Vida Nova" - ABAVIN, com sede em Barretos._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

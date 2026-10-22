@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.418, de 13/03/2026)_
 
-### Autoriza o Poder Executivo a contratar operações de crédito e a prestar contragarantias relativas aos projetos que especifica, altera a Lei n.° 15.213, de 19 de novembro de 2013, e dá providências correlatas.
+### _Autoriza o Poder Executivo a contratar operações de crédito e a prestar contragarantias relativas aos projetos que especifica, altera a Lei n.° 15.213, de 19 de novembro de 2013, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

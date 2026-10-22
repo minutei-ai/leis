@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 665/2023, do Deputado Dani Alonso - PL)
 
-### Declara de utilidade pública a Associação de Voluntários no Combate ao Câncer "M.M.M." de Igaraçu do Tietê, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Voluntários no Combate ao Câncer "M.M.M." de Igaraçu do Tietê, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

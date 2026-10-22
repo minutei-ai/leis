@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 598/2022, da Deputada Márcia Lia - PT)
 
-### Inclui no Calendário Turístico do Estado o Festival Araraquara Rock, naquele Município.
+### _Inclui no Calendário Turístico do Estado o Festival Araraquara Rock, naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

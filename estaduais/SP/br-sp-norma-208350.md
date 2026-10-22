@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.841, DE 27 DE JULHO DE 2023
 
-### Altera dispositivo do Decreto n° 54.928, de 16 de outubro de 2009, que autorizou a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Limeira, o imóvel que especifica.
+### _Altera dispositivo do Decreto n° 54.928, de 16 de outubro de 2009, que autorizou a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Limeira, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

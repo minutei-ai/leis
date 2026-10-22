@@ -5,7 +5,7 @@
 
 # _(Última atualização: Decreto n° 68.935, de 02/10/2024)_
 
-### Institui o Programa Estágio SP, de incentivo à concessão de estágio, aprendizagem profissional e monitoria para estudantes do Ensino Médio da Rede Pública estadual, visando a formação técnica e acadêmica, e dá outras providências.
+### _Institui o Programa Estágio SP, de incentivo à concessão de estágio, aprendizagem profissional e monitoria para estudantes do Ensino Médio da Rede Pública estadual, visando a formação técnica e acadêmica, e dá outras providências._
 
 _\- Vide [Decreto n° 68.935, de 02/10/2024](https://www.al.sp.gov.br/norma/210073), que regulamenta a lei._
 

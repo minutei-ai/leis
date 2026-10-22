@@ -3,7 +3,7 @@
 
 # DECRETO N° 68.577, DE 05 DE JUNHO DE 2024
 
-### Institui, junto à Secretaria de Meio Ambiente, Infraestrutura e Logística, o FINACLIMA-SP, e dá providências correlatas.
+### _Institui, junto à Secretaria de Meio Ambiente, Infraestrutura e Logística, o FINACLIMA-SP, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

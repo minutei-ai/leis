@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.345, DE 29 DE FEVEREIRO DE 2024
 
-### Altera o Decreto n° 47.907, de 24 de junho de 2003, que regulamenta a Lei n° 11.248, de 4 de novembro de 2002, que cria o Conselho Estadual de Política Energética - CEPE.
+### _Altera o Decreto n° 47.907, de 24 de junho de 2003, que regulamenta a Lei n° 11.248, de 4 de novembro de 2002, que cria o Conselho Estadual de Política Energética - CEPE._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

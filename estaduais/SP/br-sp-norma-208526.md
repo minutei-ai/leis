@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.950, DE 15 DE SETEMBRO DE 2023
 
-### Dispõe sobre oficialização da Ordem do Mérito Veterano Geraldo Faria Marcondes "Herói Paulista da Revolução Constitucionalista", da Sociedade Veteranos de 32 - MMDC.
+### _Dispõe sobre oficialização da Ordem do Mérito Veterano Geraldo Faria Marcondes "Herói Paulista da Revolução Constitucionalista", da Sociedade Veteranos de 32 - MMDC._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

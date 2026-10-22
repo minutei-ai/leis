@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 28/2024, do Deputado Itamar Borges - MDB)
 
-### Denomina "Hercílio Araújo (Coronel Araújo)" o complexo viário de código SPD 626/320, composto por um dispositivo com viaduto e um trevo em nível, localizado no km 626,300 da Rodovia Euclides da Cunha - SP 320, no Município de Santa Fé do Sul.
+### _Denomina "Hercílio Araújo (Coronel Araújo)" o complexo viário de código SPD 626/320, composto por um dispositivo com viaduto e um trevo em nível, localizado no km 626,300 da Rodovia Euclides da Cunha - SP 320, no Município de Santa Fé do Sul._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO: 
 

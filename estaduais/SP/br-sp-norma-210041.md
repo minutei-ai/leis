@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.907, DE 23 DE SETEMBRO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA VIAPAULISTA S.A., as áreas necessárias à pavimentação do trecho entre os km 0+000m e 4+300m da SPA-321/334, Município de Jardinópolis, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela CONCESSIONÁRIA VIAPAULISTA S.A., as áreas necessárias à pavimentação do trecho entre os km 0+000m e 4+300m da SPA-321/334, Município de Jardinópolis, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do dispositivo do Decreto-Lei federal n°. 3.365, de 21 de junho de 1941, e no [Decreto n°. 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),  
 

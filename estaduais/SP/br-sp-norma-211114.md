@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1377/2023, dos Deputados Vitão do Cachorrão - REPUBLICANOS, Gil Diniz - PL, Reis - PT, Marcio Nakashima - PDT)
 
-### Assegura o acesso gratuito às atividades desportivas realizadas em estádios, ginásios e afins, localizados em todo o Estado, às crianças de colo, com idade limite de até 2 (dois) anos incompletos, e meia-entrada às demais crianças que estejam acompanhadas de responsável.
+### _Assegura o acesso gratuito às atividades desportivas realizadas em estádios, ginásios e afins, localizados em todo o Estado, às crianças de colo, com idade limite de até 2 (dois) anos incompletos, e meia-entrada às demais crianças que estejam acompanhadas de responsável._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

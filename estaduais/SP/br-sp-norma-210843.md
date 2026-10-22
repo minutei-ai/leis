@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.562, DE 08 DE ABRIL DE 2025
 
-### Manifesta concordância com as alterações do Decreto n° 45.490, de 30 de novembro de 2000, que aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e Comunicação - RICMS, na forma que especifica.
+### _Manifesta concordância com as alterações do Decreto n° 45.490, de 30 de novembro de 2000, que aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e Comunicação - RICMS, na forma que especifica._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 
@@ -18,7 +18,7 @@ ANDRÉ DO PRADO - Presidente
 A QUE SE REFERE<br>
 O ARTIGO 1° DO DECRETO LEGISLATIVO N° 2.562, DE 8 DE ABRIL DE 2025
 
-Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+_Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5° da Lei n° 6.374, de 1° de março de 1989, no Convênio ICMS 01/75, de 27 de fevereiro de 1975, e no Convênio ICMS 35/90, de 13 de setembro de 1990, Decreta:
 

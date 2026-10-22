@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 408/2019, do Deputado Ricardo Madalena - PR)
 
-### Declara o Município de Santa Cruz do Rio Pardo como a "Capital do Arroz".
+### _Declara o Município de Santa Cruz do Rio Pardo como a "Capital do Arroz"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

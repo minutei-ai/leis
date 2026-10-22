@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 259/2024, da Deputada Márcia Lia - PT)
 
-### Declara de utilidade pública a Associação Amigo Solidário - AAS, com sede em Avaré.
+### _Declara de utilidade pública a Associação Amigo Solidário - AAS, com sede em Avaré._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

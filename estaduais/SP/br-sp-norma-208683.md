@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 217/2023, do Deputado Carlos Giannazi - PSOL)
 
-### Denomina "Diretora Eloely Nery Nambu" a Escola Estadual Jardim Myrna II, na Capital
+### _Denomina "Diretora Eloely Nery Nambu" a Escola Estadual Jardim Myrna II, na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

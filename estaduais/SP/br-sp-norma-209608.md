@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.638, DE 20 DE JUNHO DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Batalhão da Vanguarda", instituída pela Sociedade Veteranos de 1932 - MMDC Núcleo "Batalhão da Vanguarda" 1° Batalhão de Polícia de Choque "Tobias de Aguiar", e dá providências correlatas.
+### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Batalhão da Vanguarda", instituída pela Sociedade Veteranos de 1932 - MMDC Núcleo "Batalhão da Vanguarda" 1° Batalhão de Polícia de Choque "Tobias de Aguiar", e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,    
 

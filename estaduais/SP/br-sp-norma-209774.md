@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.724, DE 25 DE JULHO DE 2024
 
-### Altera o dispositivo que especifica do Decreto n° 67.561, de 15 de março de 2023.
+### _Altera o dispositivo que especifica do Decreto n° 67.561, de 15 de março de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

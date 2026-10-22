@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.051, DE 31 DE OUTUBRO DE 2023
 
-### Dispõe sobre a criação da Unidade de Gestão do Projeto São Paulo Mais Digital e dá providências correlatas.
+### _Dispõe sobre a criação da Unidade de Gestão do Projeto São Paulo Mais Digital e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

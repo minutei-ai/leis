@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.490, DE 21 DE ABRIL DE 2025
 
-### Declara luto oficial no Estado, por 7 (sete) dias, pelo falecimento de Sua Santidade o Papa Francisco.
+### _Declara luto oficial no Estado, por 7 (sete) dias, pelo falecimento de Sua Santidade o Papa Francisco._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a extraordinária trajetória de Sua Santidade o Papa Francisco, primeiro pontífice latino-americano da história da Igreja Católica, incansável defensor da promoção da paz mundial, da justiça social e do diálogo inter-religioso, líder espiritual que inspirou milhões de pessoas ao redor do mundo,
 

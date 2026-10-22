@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.486, DE 14 DE ABRIL DE 2025
 
-### Altera o Anexo VII do Decreto n° 68.742, de 5 de agosto de 2024, que estabelece a organização da Administração Pública direta e das autarquias do Estado e regulamenta a Lei Complementar n° 1.395, de 22 de dezembro de 2023.
+### _Altera o Anexo VII do Decreto n° 68.742, de 5 de agosto de 2024, que estabelece a organização da Administração Pública direta e das autarquias do Estado e regulamenta a Lei Complementar n° 1.395, de 22 de dezembro de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

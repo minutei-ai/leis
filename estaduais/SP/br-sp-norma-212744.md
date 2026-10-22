@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1092/2025, do Deputado Capitão Telhada - PP)
 
-### Institui o "Dia do Fisioterapeuta e Terapeuta Ocupacional Militar".
+### _Institui o "Dia do Fisioterapeuta e Terapeuta Ocupacional Militar"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.317, DE 16 DE JANEIRO DE 2025
 
-### Transfere para a Fundação para a Conservação e a Produção Florestal do Estado de São Paulo a administração das áreas do Parque Estadual das Fontes do Ipiranga e do Parque Estadual Alberto Löfgren que especifica e dá providências correlatas.
+### _Transfere para a Fundação para a Conservação e a Produção Florestal do Estado de São Paulo a administração das áreas do Parque Estadual das Fontes do Ipiranga e do Parque Estadual Alberto Löfgren que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

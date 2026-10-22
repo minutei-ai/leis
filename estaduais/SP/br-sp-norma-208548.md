@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 353/2022, do Deputado Rogério Nogueira - PSDB)
 
-### Denomina "Miyoji Takahara" o viaduto situado no km 57 + 100m da Rodovia Engenheiro Ermênio de Oliveira Penteado (SP-75), no Município de Indaiatuba
+### _Denomina "Miyoji Takahara" o viaduto situado no km 57 + 100m da Rodovia Engenheiro Ermênio de Oliveira Penteado (SP-75), no Município de Indaiatuba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

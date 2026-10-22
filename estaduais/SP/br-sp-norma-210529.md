@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.303, DE 09 DE JANEIRO DE 2025
 
-### Altera o Decreto n° 62.625, de 12 de junho de 2017, que autoriza a Fazenda do Estado a permitir o uso de bem imóvel nas condições e para os fins que especifica.
+### _Altera o Decreto n° 62.625, de 12 de junho de 2017, que autoriza a Fazenda do Estado a permitir o uso de bem imóvel nas condições e para os fins que especifica._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

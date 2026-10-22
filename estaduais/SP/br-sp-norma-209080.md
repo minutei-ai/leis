@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.310, DE 18 DE JANEIRO DE 2024
 
-### Autoriza a Fazenda do Estado de São Paulo a instituir servidão administrativa e a permitir o uso, a título oneroso e por prazo indeterminado, em favor da Companhia de Saneamento Básico do Estado de São Paulo - SABESP, das áreas que especifica, e dá providências correlatas.
+### _Autoriza a Fazenda do Estado de São Paulo a instituir servidão administrativa e a permitir o uso, a título oneroso e por prazo indeterminado, em favor da Companhia de Saneamento Básico do Estado de São Paulo - SABESP, das áreas que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

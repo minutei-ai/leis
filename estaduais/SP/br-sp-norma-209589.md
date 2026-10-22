@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei Complementar n° 1.431, de 16/07/2025)_
 
-### Dispõe sobre a revalorização das Escalas de Classes e Vencimentos do Quadro da Secretaria da Assembleia Legislativa do Estado de São Paulo e dá outras providências.
+### _Dispõe sobre a revalorização das Escalas de Classes e Vencimentos do Quadro da Secretaria da Assembleia Legislativa do Estado de São Paulo e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

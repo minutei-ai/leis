@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR N° 1.385, DE 13 DE JUNHO DE 2023
 
-### Acrescenta dispositivo à Lei Complementar n° 1.093, de 16 de julho de 2009, que dispõe sobre a contratação por tempo determinado de que trata o inciso X do artigo 115 da Constituição Estadual, na forma que especifica
+### _Acrescenta dispositivo à Lei Complementar n° 1.093, de 16 de julho de 2009, que dispõe sobre a contratação por tempo determinado de que trata o inciso X do artigo 115 da Constituição Estadual, na forma que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

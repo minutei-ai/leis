@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 255/2022, do Deputado Estevam Galvão - UNIÃO)
 
-### Dá a denominação de "Grimaldo Périco", ao viaduto VDT 01 SPA 424/310, localizado no km 1 + 400m da Rodovia de Acesso Irineu Beolchi (SPA-424/310), sobre a linha férrea, no Município de Cedral
+### _Dá a denominação de "Grimaldo Périco", ao viaduto VDT 01 SPA 424/310, localizado no km 1 + 400m da Rodovia de Acesso Irineu Beolchi (SPA-424/310), sobre a linha férrea, no Município de Cedral_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

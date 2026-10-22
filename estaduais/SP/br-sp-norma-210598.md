@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1292/2023, do Deputado Paulo Correa Jr - PSD)
 
-### Denomina "Geraldo Furlan" o viaduto SPD 104/147, localizado no km 104,680 da Rodovia Engenheiro João Tosello - SP 147, em Limeira.
+### _Denomina "Geraldo Furlan" o viaduto SPD 104/147, localizado no km 104,680 da Rodovia Engenheiro João Tosello - SP 147, em Limeira._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.001, DE 23 DE OUTUBRO DE 2024
 
-### Dá nova redação e acrescenta dispositivos ao Decreto n° 62.349, de 26 de dezembro de 2016, que dispõe sobre o programa de integridade e área de conformidade a ser adotado por empresas controladas direta ou indiretamente pelo Estado de São Paulo, regulamentando a aplicação da Lei federal n° 13.303, de 30 de junho de 2016, e criando instâncias e procedimentos de fomento ao controle interno.
+### _Dá nova redação e acrescenta dispositivos ao Decreto n° 62.349, de 26 de dezembro de 2016, que dispõe sobre o programa de integridade e área de conformidade a ser adotado por empresas controladas direta ou indiretamente pelo Estado de São Paulo, regulamentando a aplicação da Lei federal n° 13.303, de 30 de junho de 2016, e criando instâncias e procedimentos de fomento ao controle interno._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.781, DE 22 DE AGOSTO DE 2024
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Lins, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Lins, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

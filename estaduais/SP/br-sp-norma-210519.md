@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.294, DE 03 DE JANEIRO DE 2025
 
-### Prorroga o prazo previsto no artigo 5° das Disposições Transitórias da Lei Complementar n° 1.413, de 23 de setembro de 2024.
+### _Prorroga o prazo previsto no artigo 5° das Disposições Transitórias da Lei Complementar n° 1.413, de 23 de setembro de 2024._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

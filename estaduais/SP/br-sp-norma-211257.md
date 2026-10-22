@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.758, DE 30 DE JULHO DE 2025
 
-### Prorroga o prazo previsto no § 4° do artigo 2° do Decreto n° 69.267, de 30 de dezembro de 2024.
+### _Prorroga o prazo previsto no § 4° do artigo 2° do Decreto n° 69.267, de 30 de dezembro de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento § 4° do artigo 2° do [Decreto n° 69.267, de 30 de dezembro de 2024](https://www.al.sp.gov.br/norma/210492),
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.049, DE 31 DE OUTUBRO DE 2023
 
-### Dá nova redação a dispositivo do Decreto n° 62.349, de 26 de dezembro de 2016, que dispõe sobre o programa de integridade e a área de conformidade a ser adotado por empresas controladas direta ou indiretamente pelo Estado de São Paulo, regulamentando a aplicação da Lei federal n° 13.303, de 30 de junho de 2016, e criando instâncias e procedimentos de fomento ao controle interno.
+### _Dá nova redação a dispositivo do Decreto n° 62.349, de 26 de dezembro de 2016, que dispõe sobre o programa de integridade e a área de conformidade a ser adotado por empresas controladas direta ou indiretamente pelo Estado de São Paulo, regulamentando a aplicação da Lei federal n° 13.303, de 30 de junho de 2016, e criando instâncias e procedimentos de fomento ao controle interno._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

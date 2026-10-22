@@ -2,7 +2,7 @@
 
 # ATO DA MESA N° 29/2025, DE 5 DE NOVEMBRO DE 2025
 
-### Delegação de Competências Administrativas aos Assessores-Chefes de Gabinete da Mesa Diretora da Assembleia Legislativa do Estado de São Paulo.
+### _Delegação de Competências Administrativas aos Assessores-Chefes de Gabinete da Mesa Diretora da Assembleia Legislativa do Estado de São Paulo._
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais,
 

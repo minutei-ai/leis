@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 599/2022, da Deputada Márcia Lia - PT)
 
-### Inclui no Calendário Turístico do Estado a Semana Luís Antônio Martinez Corrêa - SLAMC, em Araraquara
+### _Inclui no Calendário Turístico do Estado a Semana Luís Antônio Martinez Corrêa - SLAMC, em Araraquara_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução n° 5, de 2025)
 
-### Altera o Regimento Interno da Assembleia Legislativa do Estado de São Paulo - Resolução-Alesp n° 576, de 26 de junho de 1970 - a fim de modificar o número de membros de Comissão Permanente.
+### _Altera o Regimento Interno da Assembleia Legislativa do Estado de São Paulo - Resolução-Alesp n° 576, de 26 de junho de 1970 - a fim de modificar o número de membros de Comissão Permanente._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:
 

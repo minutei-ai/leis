@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.809, DE 18 DE AGOSTO DE 2025
 
-### Acrescenta dispositivos ao Decreto n° 69.760, de 31 de julho de 2025.
+### _Acrescenta dispositivos ao Decreto n° 69.760, de 31 de julho de 2025._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

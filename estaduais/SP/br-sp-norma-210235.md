@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.055, DE 14 DE NOVEMBRO DE 2024
 
-### Fixa o valor mensal da bolsa de estudo do Programa de Residência Médica e do Programa de Bolsas para Cursos de Especialização "Lato Sensu" e dá providências correlatas.
+### _Fixa o valor mensal da bolsa de estudo do Programa de Residência Médica e do Programa de Bolsas para Cursos de Especialização "Lato Sensu" e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

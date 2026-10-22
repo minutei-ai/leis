@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 16/2020, do Deputado Carlos Giannazi - PSOL)
 
-### Denomina "Sócrates Brasileiro" a Escola Estadual Jardim Paiva I, em Ribeirão Preto
+### _Denomina "Sócrates Brasileiro" a Escola Estadual Jardim Paiva I, em Ribeirão Preto_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 290/2022, do Deputado Campos Machado - AVANTE)
 
-### Institui o "Dia do Capelão Civil".
+### _Institui o "Dia do Capelão Civil"._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 889, de 2021, do Deputado Fernando Cury – CIDADANIA)
 
-### Dá denominação à ponte que especifica
+### _Dá denominação à ponte que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

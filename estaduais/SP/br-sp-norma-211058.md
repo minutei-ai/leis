@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.620, DE 11 DE JUNHO DE 2025
 
-### Autoriza a abertura de licitação para a concessão administrativa para a construção, reforma, adequação, manutenção, conservação, gestão e operação do Centro Administrativo Campos Elíseos, aprova o respectivo regulamento e dá providências correlatas.
+### _Autoriza a abertura de licitação para a concessão administrativa para a construção, reforma, adequação, manutenção, conservação, gestão e operação do Centro Administrativo Campos Elíseos, aprova o respectivo regulamento e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a aprovação pelo Conselho Gestor do Programa de Parcerias Público Privadas - CGPPP, criado pela Lei n° 11.668, de 19 de maio de 2004, do modelo de concessão administrativa para a construção, reforma, adequação, manutenção, conservação, gestão e operação do Centro Administrativo Campos Elíseos, por ocasião da 17ª Reunião do PPI-SP e da 53ª Reunião Conjunta do CDPED e do CGPPP, ocorrida em 29 de maio de 2025, cuja ata foi publicada no Diário Oficial de 4 de junho de 2025,
 

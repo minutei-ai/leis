@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1524/2023, do Deputado Capitão Telhada - PP)
 
-### Institui o "Dia dos Heróis da Polícia Militar".
+### _Institui o "Dia dos Heróis da Polícia Militar"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

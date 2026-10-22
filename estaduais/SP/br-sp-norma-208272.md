@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 560, de 2023, do Deputado Gerson Pessoa - PODE)
 
-### Declara de utilidade pública a entidade que especifica
+### _Declara de utilidade pública a entidade que especifica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

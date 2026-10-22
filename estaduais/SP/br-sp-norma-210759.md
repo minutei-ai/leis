@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 188/2024, da Deputada Leci Brandão - PCdoB)
 
-### Declara de utilidade pública a Associação Beneficente Ebenézer, com sede na Capital.
+### _Declara de utilidade pública a Associação Beneficente Ebenézer, com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

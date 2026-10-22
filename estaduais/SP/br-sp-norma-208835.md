@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.108, DE 24 DE NOVEMBRO DE 2023
 
-### Institui o Comitê Intersecretarial de Controle e Prevenção do Huanglongbing (HLB), denominado "greening dos citros", e dá outras providências.
+### _Institui o Comitê Intersecretarial de Controle e Prevenção do Huanglongbing (HLB), denominado "greening dos citros", e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

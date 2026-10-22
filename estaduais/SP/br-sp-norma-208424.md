@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.894, DE 21 DE AGOSTO DE 2023
 
-### Altera o dispositivo que especifica do Decreto n° 67.660, de 26 de abril de 2023, que institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o Programa "Jovem Aprendiz Paulista".
+### _Altera o dispositivo que especifica do Decreto n° 67.660, de 26 de abril de 2023, que institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o Programa "Jovem Aprendiz Paulista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

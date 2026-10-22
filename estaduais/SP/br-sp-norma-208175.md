@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.741, DE 12 DE JUNHO DE 2023
 
-### Altera os dispositivos que especifica do Decreto n° 50.941, de 5 de abril de 2006.
+### _Altera os dispositivos que especifica do Decreto n° 50.941, de 5 de abril de 2006._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

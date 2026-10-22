@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.455, DE 18 DE ABRIL DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias Integradas do Oeste S/A - SPVIAS, as áreas complementares necessárias à duplicação dos trechos entre os km 280 e 282 e entre os km 284 e 288 da Rodovia SP-258, no Município de Itapeva, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias Integradas do Oeste S/A - SPVIAS, as áreas complementares necessárias à duplicação dos trechos entre os km 280 e 282 e entre os km 284 e 288 da Rodovia SP-258, no Município de Itapeva, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto n° 42.948, de 19 de março de 1998](https://www.al.sp.gov.br/norma/6367),
 

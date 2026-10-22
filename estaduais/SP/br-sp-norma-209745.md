@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1579/2023, do Deputado Paulo Correa Jr - PSD)
 
-### Declara de utilidade pública a Associação Educacional Beneficente Semeando Vidas, também denominada Amigos do Bairro, com sede em Ribeirão Preto.
+### _Declara de utilidade pública a Associação Educacional Beneficente Semeando Vidas, também denominada Amigos do Bairro, com sede em Ribeirão Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

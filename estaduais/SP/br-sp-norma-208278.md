@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.800, DE 17 DE JULHO DE 2023
 
-### Dá nova redação ao inciso XIII do artigo 2° do Decreto n° 64.065, de 2 de janeiro de 2019.
+### _Dá nova redação ao inciso XIII do artigo 2° do Decreto n° 64.065, de 2 de janeiro de 2019._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

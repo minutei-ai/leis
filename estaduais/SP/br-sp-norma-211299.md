@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.785, DE 11 DE AGOSTO DE 2025
 
-### Autoriza a outorga de uso, ao Município de Morro Agudo, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Morro Agudo, do imóvel que especifica, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

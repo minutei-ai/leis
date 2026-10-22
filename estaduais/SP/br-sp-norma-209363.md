@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1687/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação Prudentina de Atletismo - APA, com sede em Presidente Prudente.
+### _Declara de utilidade pública a Associação Prudentina de Atletismo - APA, com sede em Presidente Prudente._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

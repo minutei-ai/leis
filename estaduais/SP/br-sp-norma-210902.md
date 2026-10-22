@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.510, DE 30 DE ABRIL DE 2025
 
-### Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Paranapanema", aprova o respectivo regulamento e dá providências correlatas.
+### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Paranapanema", aprova o respectivo regulamento e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei n° 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), na 16ª Reunião Ordinária do Programa de Parcerias em Investimentos do Estado de São Paulo, concernente à 52ª Reunião Ordinária do CDPED e do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, ocorrida em 26 de março de 2025,
 

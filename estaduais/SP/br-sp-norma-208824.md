@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.099, DE 22 DE NOVEMBRO DE 2023
 
-### Dispõe sobre a denominação do ambiente de inovação tecnológica integrante do AptaHub, situado no prédio denominado APTA, localizado no Município de Campinas, para que seja nomeado "Ambiente de Inovação Alysson Paolinelli".
+### _Dispõe sobre a denominação do ambiente de inovação tecnológica integrante do AptaHub, situado no prédio denominado APTA, localizado no Município de Campinas, para que seja nomeado "Ambiente de Inovação Alysson Paolinelli"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.290, DE 31 DE DEZEMBRO DE 2024
 
-### Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado
+### _Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais, com fundamento no artigo 6° do [Decreto-Lei n° 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto no [Decreto n° 68.742, de 05 de agosto de 2024](https://www.al.sp.gov.br/norma/209802), que estabelece a organização da Administração Pública direta e das autarquias do Estado e regulamenta a [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), e no [Decreto n° 69.052, de 14 de novembro de 2024](https://www.al.sp.gov.br/norma/210215), que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, alterado pelo [Decreto n° 69.230, de 23 de dezembro de 2024](https://www.al.sp.gov.br/norma/210454),
 

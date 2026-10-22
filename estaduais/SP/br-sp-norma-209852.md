@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.779, DE 21 DE AGOSTO DE 2024
 
-### Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, referente ao exercício de 2023.
+### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, referente ao exercício de 2023._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.221, DE 15 DE DEZEMBRO DE 2023
 
-### Autoriza a Secretaria de Esportes a representar o Estado na celebração de convênios com os Municípios paulistas, visando a transferência de equipamentos esportivos destinados à implantação do Projeto "100% Esporte para Todos".
+### _Autoriza a Secretaria de Esportes a representar o Estado na celebração de convênios com os Municípios paulistas, visando a transferência de equipamentos esportivos destinados à implantação do Projeto "100% Esporte para Todos"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

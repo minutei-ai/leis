@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 479/2024, da Deputada Dani Alonso - PL)
 
-### Denomina "Geraldo Sarmento" a passarela PAS 462/294, localizada no km 462 + 470m da Rodovia Comandante João Ribeiro de Barros - SP 294, em Marília.
+### _Denomina "Geraldo Sarmento" a passarela PAS 462/294, localizada no km 462 + 470m da Rodovia Comandante João Ribeiro de Barros - SP 294, em Marília._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 132/2024, do Deputado Rafael Silva - PSD)
 
-### Denomina "Therezinha Rodrigues Rosa" a Rodovia de Acesso de código SPA 321/334, localizada no km 321+000m da Rodovia Cândido Portinari - SP 334, no Município de Jardinópolis
+### _Denomina "Therezinha Rodrigues Rosa" a Rodovia de Acesso de código SPA 321/334, localizada no km 321+000m da Rodovia Cândido Portinari - SP 334, no Município de Jardinópolis_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

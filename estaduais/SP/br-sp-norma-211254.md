@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.755, DE 30 DE JULHO DE 2025
 
-### Altera o Decreto n° 55.587, de 17 de março de 2010, que institui o Conselho Estadual dos Direitos da População de Lésbicas, Gays, Bissexuais, Travestis e Transexuais
+### _Altera o Decreto n° 55.587, de 17 de março de 2010, que institui o Conselho Estadual dos Direitos da População de Lésbicas, Gays, Bissexuais, Travestis e Transexuais_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.780, DE 29 DE JUNHO DE 2023
 
-### Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Piracicaba.
+### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Piracicaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

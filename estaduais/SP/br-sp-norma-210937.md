@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO N° 2.563, DE 14 DE MAIO DE 2025
 
-### Aprova a indicação de nome para integrar o Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP.
+### _Aprova a indicação de nome para integrar o Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:
 

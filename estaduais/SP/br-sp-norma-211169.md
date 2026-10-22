@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.682, DE 08 DE JULHO DE 2025
 
-### Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Andradina, na Secretaria da Educação, e dá providências correlatas.
+### _Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Andradina, na Secretaria da Educação, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 163/2021, do Deputado Paulo Fiorilo - PT)
 
-### Inclui no Calendário Turístico do Estado as festividades que descreve, em Itaoca
+### _Inclui no Calendário Turístico do Estado as festividades que descreve, em Itaoca_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

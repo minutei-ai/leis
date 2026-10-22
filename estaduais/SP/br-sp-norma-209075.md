@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.304, DE 09 DE JANEIRO DE 2024
 
-### Dispõe sobre os procedimentos de contratação direta, por inexigibilidade ou por dispensa de licitação, na forma eletrônica, de que tratam os artigos 74 e 75 da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
+### _Dispõe sobre os procedimentos de contratação direta, por inexigibilidade ou por dispensa de licitação, na forma eletrônica, de que tratam os artigos 74 e 75 da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

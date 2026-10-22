@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.018, DE 11 DE OUTUBRO DE 2023
 
-### Dispõe sobre a revogação de dispositivos do Decreto n° 67.593, de 22 de março de 2023, que autoriza a abertura de licitação para a concessão patrocinada do serviço público de transporte de passageiros, sobre trilhos, do TIC Eixo Norte, incluindo o Serviço Linha 7 Inicial, a Extensão Temporária da Operação do Serviço Linha 7 Inicial, o Serviço Linha 7- Rubi, o Serviço TIM e o Serviço Expresso, aprova o respectivo regulamento, e dá providências correlatas.
+### _Dispõe sobre a revogação de dispositivos do Decreto n° 67.593, de 22 de março de 2023, que autoriza a abertura de licitação para a concessão patrocinada do serviço público de transporte de passageiros, sobre trilhos, do TIC Eixo Norte, incluindo o Serviço Linha 7 Inicial, a Extensão Temporária da Operação do Serviço Linha 7 Inicial, o Serviço Linha 7- Rubi, o Serviço TIM e o Serviço Expresso, aprova o respectivo regulamento, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

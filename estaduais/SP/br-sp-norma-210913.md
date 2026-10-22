@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.521, DE 06 DE MAIO DE 2025
 
-### Institui a Medalha "Mérito do Salvamento Marítimo" do Grupamento de Bombeiros Marítimo e dá providências correlatas.
+### _Institui a Medalha "Mérito do Salvamento Marítimo" do Grupamento de Bombeiros Marítimo e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,
 

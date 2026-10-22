@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 324/2024, do Deputado Rogério Santos - MDB)
 
-### Denomina "Elias Carbonari" a Delegacia de Polícia Civil de Taciba.
+### _Denomina "Elias Carbonari" a Delegacia de Polícia Civil de Taciba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

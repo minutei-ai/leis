@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 107/2024, do Deputado Vitão do Cachorrão - REPUBLICANOS)
 
-### Declara de utilidade pública a Associação de Pais do Espectro Autista de Sorocaba - APEAS, com sede naquele Município.
+### _Declara de utilidade pública a Associação de Pais do Espectro Autista de Sorocaba - APEAS, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

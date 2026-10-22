@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 883/2025, do Deputado Edson Giriboni - UNIÃO)
 
-### Declara de utilidade pública a filial da Beneficência Nipo-Brasileira de São Paulo, Hospital São Miguel Arcanjo, com sede nesse Município.
+### _Declara de utilidade pública a filial da Beneficência Nipo-Brasileira de São Paulo, Hospital São Miguel Arcanjo, com sede nesse Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

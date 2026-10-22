@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.495, DE 02 DE MAIO DE 2024
 
-### Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Coronel Azarias Silva", instituída pela Sociedade Veteranos de 1932 - MMDC - Núcleo Cadete Ruytemberg Rocha, e dá providências correlatas
+### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Coronel Azarias Silva", instituída pela Sociedade Veteranos de 1932 - MMDC - Núcleo Cadete Ruytemberg Rocha, e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,    
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 629/2024, da Deputada Leci Brandão - PCdoB)
 
-### Institui e inclui no Calendário Oficial do Estado o "Dia do Motorista Profissional"
+### _Institui e inclui no Calendário Oficial do Estado o "Dia do Motorista Profissional"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

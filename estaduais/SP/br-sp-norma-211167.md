@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.680, DE 08 DE JULHO DE 2025
 
-### Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, a Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo, o Fórum de Qualificação Profissional e o Programa Trampolim, e dá outras providências.
+### _Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, a Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo, o Fórum de Qualificação Profissional e o Programa Trampolim, e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

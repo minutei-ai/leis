@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 122/2020, do Deputado Coronel Telhada – PP)
 
-### Institui o "Dia do Policial do Exército - PE"
+### _Institui o "Dia do Policial do Exército - PE"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

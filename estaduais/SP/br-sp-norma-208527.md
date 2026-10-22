@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.952, DE 15 DE SETEMBRO DE 2023
 
-### Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de São Sebastião, que declarou Situação de Emergência em áreas do Município, em razão dos fatos ocorridos nos dias 18 e 19 de fevereiro do presente ano, e por ainda haver elementos que comprovem a permanência dos efeitos do desastre original sobre a região afetada, e a continuidade da situação de anormalidade.
+### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de São Sebastião, que declarou Situação de Emergência em áreas do Município, em razão dos fatos ocorridos nos dias 18 e 19 de fevereiro do presente ano, e por ainda haver elementos que comprovem a permanência dos efeitos do desastre original sobre a região afetada, e a continuidade da situação de anormalidade._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,
 

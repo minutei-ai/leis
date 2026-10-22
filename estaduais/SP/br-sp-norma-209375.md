@@ -2,7 +2,7 @@
 
 # LEI N° 17.935, DE 29 DE ABRIL DE 2024
 
-### Altera a Lei n° 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras, nos casos em que especifica.
+### _Altera a Lei n° 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras, nos casos em que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

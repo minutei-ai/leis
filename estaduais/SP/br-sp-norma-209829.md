@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.762, DE 09 DE AGOSTO DE 2024
 
-### Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas do desastre aéreo, ocorrido no Município de Vinhedo, Estado de São Paulo, no dia 9 de agosto de 2024.
+### _Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas do desastre aéreo, ocorrido no Município de Vinhedo, Estado de São Paulo, no dia 9 de agosto de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

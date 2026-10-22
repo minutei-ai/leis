@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 370/2023, do Deputado Teonilio Barba - PT)
 
-### Determina que o Dia Estadual da Consciência Negra, 20 de novembro, seja declarado feriado estadual
+### _Determina que o Dia Estadual da Consciência Negra, 20 de novembro, seja declarado feriado estadual_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

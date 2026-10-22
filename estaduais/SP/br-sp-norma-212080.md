@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 87/2025, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Associação Athletico Riopretense, com sede em São José do Rio Preto.
+### _Declara de utilidade pública a Associação Athletico Riopretense, com sede em São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

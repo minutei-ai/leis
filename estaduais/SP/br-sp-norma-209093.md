@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.321, DE 31 DE JANEIRO DE 2024
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e tendo em vista o disposto no § 7° do artigo 43 da [Lei n° 17.843, de 7 de novembro de 2023](https://www.al.sp.gov.br/norma/208778),
 

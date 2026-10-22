@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1006/2023, do Deputado Caio França - PSB)
 
-### Declara de utilidade pública a Associação Solidária Cristo o Libertador, com sede em Guarulhos
+### _Declara de utilidade pública a Associação Solidária Cristo o Libertador, com sede em Guarulhos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.209, DE 15 DE DEZEMBRO DE 2023
 
-### Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra onde está implantada a rede coletora de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., no Bairro do Campo Grande, Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra onde está implantada a rede coletora de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., no Bairro do Campo Grande, Município de São Paulo, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do disposto nos artigos 2°, 6° e 40 do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,
 

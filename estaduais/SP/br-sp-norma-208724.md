@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 338/2022, do Deputado Rafael Silva - PSD)
 
-### Denomina "José Gaspar Gomes" o viaduto localizado no km 348,400 da Rodovia Cândido Portinari - SP 334, em Batatais
+### _Denomina "José Gaspar Gomes" o viaduto localizado no km 348,400 da Rodovia Cândido Portinari - SP 334, em Batatais_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

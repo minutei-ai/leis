@@ -2,7 +2,7 @@
 
 # ATO DO PRESIDENTE N° 55, DE 30 DE ABRIL DE 2026
 
-### Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de Lei n° 407, de 2026, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2027.
+### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de Lei n° 407, de 2026, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2027._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais, e considerando (a) o envio à Assembleia Legislativa, pelo Sr. Governador do Estado, nos termos do artigo 174, § 9°, item 2, da Constituição Paulista, do PL n° 407/2026, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2027, e (b) o disposto no artigo 246, § 2°, do Regimento Interno, e no artigo 6° do [Ato da Mesa n° 2, de 7 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206880), decide:
 

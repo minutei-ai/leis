@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.042, DE 30 DE OUTUBRO DE 2023
 
-### Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do sociólogo, filósofo e ex-seminarista Danilo Santos de Miranda.
+### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do sociólogo, filósofo e ex-seminarista Danilo Santos de Miranda._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando a notável contribuição de Danilo Santos de Miranda à cultura do Estado de São Paulo, tendo ocupado por quarenta anos o cargo de diretor do Serviço Social do Comércio de São Paulo - SESC-SP, sendo responsável pela abertura da grande maioria das unidades no Estado, além de ter sido um dos principais gestores culturais do Brasil, criando um modelo de fomento que virou referência para políticas públicas de incentivo à cultura no País,
 

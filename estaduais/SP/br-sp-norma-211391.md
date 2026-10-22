@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n.° 837/2021, dos Deputados Marcio da Farmácia - PODE e Marcio Nakashima - PDT)
 
-### Institui a "Semana da Gastronomia Japonesa".
+### _Institui a "Semana da Gastronomia Japonesa"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

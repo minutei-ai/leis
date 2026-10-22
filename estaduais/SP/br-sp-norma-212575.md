@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 897/2025, da Deputada Maria Lúcia Amary - PSDB)
 
-### Declara de utilidade pública o Projeto Gold - Geração de Ouro - PG, com sede em Sorocaba.
+### _Declara de utilidade pública o Projeto Gold - Geração de Ouro - PG, com sede em Sorocaba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

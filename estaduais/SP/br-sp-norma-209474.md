@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.552, DE 22 DE MAIO DE 2024
 
-### Declara de utilidade pública, para fins de desapropriação e ocupação temporária pela Companhia do Metropolitano de São Paulo - Metrô, os imóveis necessários à implantação de estações, ventilações e saídas de emergência da Linha 19 - Celeste, no Município de Guarulhos, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação e ocupação temporária pela Companhia do Metropolitano de São Paulo - Metrô, os imóveis necessários à implantação de estações, ventilações e saídas de emergência da Linha 19 - Celeste, no Município de Guarulhos, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos do do Decreto-lei federal n° 3.365, de 21 de junho de 1941,    
 

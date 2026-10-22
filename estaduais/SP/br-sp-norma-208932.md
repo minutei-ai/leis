@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.173, DE 09 DE DEZEMBRO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Departamento de Estradas e Rodagem - DER, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Departamento de Estradas e Rodagem - DER, o imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

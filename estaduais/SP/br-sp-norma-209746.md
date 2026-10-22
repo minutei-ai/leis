@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1695/2023, do Deputado Valdomiro Lopes - PSB)
 
-### Declara de utilidade pública a Associação Anjo da Guarda, com sede em São José do Rio Preto.
+### _Declara de utilidade pública a Associação Anjo da Guarda, com sede em São José do Rio Preto._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:    
 

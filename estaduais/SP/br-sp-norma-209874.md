@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 762/2023, da Deputada Leticia Aguiar - PP)
 
-### Institui o "Dia do Cão Policial" e dá outras providências.
+### _Institui o "Dia do Cão Policial" e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

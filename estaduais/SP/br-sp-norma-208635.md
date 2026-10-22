@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 68/2020, da Deputada Dra. Damaris Moura - PSDB)
 
-### Inclui no Calendário Turístico do Estado a Feira da Uva do Município de Palmeira D´Oeste
+### _Inclui no Calendário Turístico do Estado a Feira da Uva do Município de Palmeira D´Oeste_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

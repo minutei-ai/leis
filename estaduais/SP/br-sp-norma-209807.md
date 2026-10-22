@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.746, DE 05 DE AGOSTO DE 2024
 
-### Altera a destinação de parte do imóvel de que trata o Decreto n° 52.303, de 25 de outubro de 2007, localizado no Município de Ubatuba.
+### _Altera a destinação de parte do imóvel de que trata o Decreto n° 52.303, de 25 de outubro de 2007, localizado no Município de Ubatuba._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

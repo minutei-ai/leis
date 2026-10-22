@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 427/2021, do Deputado Wellington Moura – REPUBLICANOS)
 
-### Inclui no Calendário Oficial do Estado o Campeonato Paulista de Karatê Interestilos.
+### _Inclui no Calendário Oficial do Estado o Campeonato Paulista de Karatê Interestilos._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 

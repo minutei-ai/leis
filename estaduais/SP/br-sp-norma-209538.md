@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.590, DE 07 DE JUNHO DE 2024
 
-### Altera o Decreto n° 64.849, de 6 de março de 2020, que autoriza a Casa Militar, do Gabinete do Governador, por intermédio da Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, a representar o Estado na celebração de convênios com Municípios paulistas, visando ao aparelhamento dos órgãos municipais de proteção e defesa civil.
+### _Altera o Decreto n° 64.849, de 6 de março de 2020, que autoriza a Casa Militar, do Gabinete do Governador, por intermédio da Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, a representar o Estado na celebração de convênios com Municípios paulistas, visando ao aparelhamento dos órgãos municipais de proteção e defesa civil._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

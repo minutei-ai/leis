@@ -7,7 +7,7 @@
 
 ## (Projeto de lei n° 781/2023, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Ângelo Nardo" o dispositivo de acesso SPD 319/225, localizado na altura do km 319+410m, da Rodovia SP 225 - João Baptista Cabral Renno, em Santa Cruz do Rio Pardo.
+### _Denomina "Ângelo Nardo" o dispositivo de acesso SPD 319/225, localizado na altura do km 319+410m, da Rodovia SP 225 - João Baptista Cabral Renno, em Santa Cruz do Rio Pardo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:  
 

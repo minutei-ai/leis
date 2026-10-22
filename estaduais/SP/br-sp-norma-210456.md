@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.232, DE 23 DE DEZEMBRO DE 2024
 
-### Transfere os cargos que especifica e dá providências correlatas.
+### _Transfere os cargos que especifica e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos dos artigos 54 e 55 da [Lei Complementar n° 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762),
 

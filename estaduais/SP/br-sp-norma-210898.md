@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.506, DE 30 DE ABRIL DE 2025
 
-### Altera o Decreto n° 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas.
+### _Altera o Decreto n° 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

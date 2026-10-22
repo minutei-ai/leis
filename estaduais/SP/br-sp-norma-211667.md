@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 522/2025, do Deputado Rafa Zimbaldi - CIDADANIA)
 
-### Declara de utilidade pública a Comunidade Jerusalém Resgatando Vidas, com sede em Potim.
+### _Declara de utilidade pública a Comunidade Jerusalém Resgatando Vidas, com sede em Potim._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

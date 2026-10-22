@@ -2,7 +2,7 @@
 
 # DECRETO N° 70.742, DE 02 DE JULHO DE 2026
 
-### Autoriza a outorga de uso do imóvel que especifica ao Município de Pindamonhangaba e dá providências correlatas.
+### _Autoriza a outorga de uso do imóvel que especifica ao Município de Pindamonhangaba e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

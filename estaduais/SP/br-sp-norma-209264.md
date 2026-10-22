@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.423, DE 02 DE ABRIL DE 2024
 
-### Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, os imóveis que especifica.
+### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, os imóveis que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

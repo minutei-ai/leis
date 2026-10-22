@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.699, DE 15 DE JULHO DE 2024
 
-### Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Itapecerica da Serra, na Secretaria da Educação, e dá providências correlatas.
+### _Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Itapecerica da Serra, na Secretaria da Educação, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

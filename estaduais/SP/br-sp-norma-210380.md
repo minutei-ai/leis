@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1264/2023, da Deputada Analice Fernandes - PSDB)
 
-### Obriga os hospitais, clínicas e postos de saúde que integram a rede pública e privada de saúde no Estado a disponibilizarem funcionária do sexo feminino para acompanhamento de exames ou procedimentos que induzam a inconsciência total ou parcial da paciente mulher.
+### _Obriga os hospitais, clínicas e postos de saúde que integram a rede pública e privada de saúde no Estado a disponibilizarem funcionária do sexo feminino para acompanhamento de exames ou procedimentos que induzam a inconsciência total ou parcial da paciente mulher._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

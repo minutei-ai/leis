@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.900, DE 21 DE AGOSTO DE 2023
 
-### Altera dispositivo do Decreto n° 40.445, de 13 de novembro de 1995, que autorizou a Fazenda do Estado a permitir o uso, a título precário, em favor da Prefeitura Municipal de Tarabai, do imóvel que especifica.
+### _Altera dispositivo do Decreto n° 40.445, de 13 de novembro de 1995, que autorizou a Fazenda do Estado a permitir o uso, a título precário, em favor da Prefeitura Municipal de Tarabai, do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação da Coordenadoria de Patrimônio do Estado,
 

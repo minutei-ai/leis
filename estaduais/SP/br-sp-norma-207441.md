@@ -9,7 +9,7 @@
 Projeto de lei n° 645, de 2021, dos Deputados Carla Morando - PSDB e Tenente Coimbra - PL<br>
 _\- Texto retificado no_ [_Diário Oficial Executivo I de 28/03/2023_](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20230328&Caderno=DOE-I&NumeroPagina=1))
 
-### Estabelece providências quanto às prisões cautelares e ao cumprimento de pena dos guardas civis municipais e demais agentes de segurança pública municipal, recolhendo-os a estabelecimentos especiais, separados dos demais custodiados, normatizando especificidades quanto ao tema junto à Secretaria da Administração Penitenciária e os Municípios
+### _Estabelece providências quanto às prisões cautelares e ao cumprimento de pena dos guardas civis municipais e demais agentes de segurança pública municipal, recolhendo-os a estabelecimentos especiais, separados dos demais custodiados, normatizando especificidades quanto ao tema junto à Secretaria da Administração Penitenciária e os Municípios_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:**<br>

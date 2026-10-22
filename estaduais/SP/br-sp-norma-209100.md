@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.327, DE 06 DE FEVEREIRO DE 2024
 
-### Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sorocaba, que declarou Situação de Emergência em áreas do Município.
+### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sorocaba, que declarou Situação de Emergência em áreas do Município._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,
 

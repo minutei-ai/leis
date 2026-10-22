@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 143/2024, dos Deputados Agente Federal Danilo Balas – PL e Carla Morando – PSDB)
 
-### Institui o "Dia Estadual do Supermercadista".
+### _Institui o "Dia Estadual do Supermercadista"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

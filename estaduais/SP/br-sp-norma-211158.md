@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 81/2024, dos Deputados Carla Morando - PSDB e Rafael Saraiva - UNIÃO)
 
-### Institui a "Semana Estadual do e-Sports".
+### _Institui a "Semana Estadual do e-Sports"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

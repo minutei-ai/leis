@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 915/2025, do Deputado Alex Madureira - PL)
 
-### Declara de utilidade pública a Associação Amigos do XV de Piracicaba - AAXV, com sede naquele Município.
+### _Declara de utilidade pública a Associação Amigos do XV de Piracicaba - AAXV, com sede naquele Município._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.175, DE 18 DE DEZEMBRO DE 2024
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2025 e dá providências correlatas.
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2025 e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

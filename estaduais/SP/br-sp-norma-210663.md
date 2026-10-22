@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1290/2023, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação Amor de Quatro Patas, com sede em Mirante do Paranapanema.
+### _Declara de utilidade pública a Associação Amor de Quatro Patas, com sede em Mirante do Paranapanema._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

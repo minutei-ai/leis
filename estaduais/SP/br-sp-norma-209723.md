@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.697, DE 15 DE JULHO DE 2024
 
-### Altera as alíneas "b" e "c" do inciso I do artigo 2° do Decreto n° 66.273, de 29 de novembro de 2021.
+### _Altera as alíneas "b" e "c" do inciso I do artigo 2° do Decreto n° 66.273, de 29 de novembro de 2021._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 

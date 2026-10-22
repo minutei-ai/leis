@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.508, DE 30 DE ABRIL DE 2025
 
-### Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento das Bonificações por Resultados - BR relativas ao exercício de 2024.
+### _Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento das Bonificações por Resultados - BR relativas ao exercício de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

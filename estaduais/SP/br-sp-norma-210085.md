@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 1297/2023, da Deputada Andréa Werner - PSB)
 
-### Dispõe sobre acessibilidade para emissão de documentos oficiais em órgãos estaduais e dá outras providências.
+### _Dispõe sobre acessibilidade para emissão de documentos oficiais em órgãos estaduais e dá outras providências._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

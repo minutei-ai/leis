@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.443, DE 26 DE MARÇO DE 2025
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional do Circuito da Fé e Vale Histórico.
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional do Circuito da Fé e Vale Histórico._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

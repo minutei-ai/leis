@@ -2,7 +2,7 @@
 
 # DECRETO N° 67.835, DE 27 DE JULHO DE 2023
 
-### Dispõe sobre a admissão na Ordem do Ipiranga.
+### _Dispõe sobre a admissão na Ordem do Ipiranga._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e na qualidade de Grão-Mestre da Ordem do Ipiranga,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.371, DE 08 DE MARÇO DE 2024
 
-### Regulamenta a Lei n° 17.626, de 7 de fevereiro de 2023, que autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado, e institui o Protocolo Mulher Viva no Estado de São Paulo.
+### _Regulamenta a Lei n° 17.626, de 7 de fevereiro de 2023, que autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado, e institui o Protocolo Mulher Viva no Estado de São Paulo._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei n° 18.418, de 13/03/2026)_
 
-### Autoriza o Poder Executivo a contratar operações de crédito com a Caixa Econômica Federal, instituições financeiras nacionais, organismos multilaterais ou bilaterais de crédito, agências de fomento, bancos privados nacionais, agência multilateral de garantia de financiamentos destinadas à execução total ou parcial do projeto Metrô SP - Extensão da Linha 5 Lilás - Trecho: Capão Redondo e Jardim Ângela, prestar contragarantias em operações de crédito, e dá providências correlatas.
+### _Autoriza o Poder Executivo a contratar operações de crédito com a Caixa Econômica Federal, instituições financeiras nacionais, organismos multilaterais ou bilaterais de crédito, agências de fomento, bancos privados nacionais, agência multilateral de garantia de financiamentos destinadas à execução total ou parcial do projeto Metrô SP - Extensão da Linha 5 Lilás - Trecho: Capão Redondo e Jardim Ângela, prestar contragarantias em operações de crédito, e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

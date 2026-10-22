@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.064, DE 07 DE NOVEMBRO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Francisco Morato, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Francisco Morato, parte do imóvel que especifica._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

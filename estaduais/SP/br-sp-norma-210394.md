@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.184, DE 18 DE DEZEMBRO DE 2024
 
-### Dispõe sobre a concessão de abono complementar aos servidores do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008, e Portaria n° 61, de 31 de janeiro de 2024, do Ministério da Educação.
+### _Dispõe sobre a concessão de abono complementar aos servidores do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008, e Portaria n° 61, de 31 de janeiro de 2024, do Ministério da Educação._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e considerando o disposto na Lei federal n° 11.738, de 16 de julho de 2008, que trata da atualização do piso salarial profissional nacional do magistério público da educação básica, e Portaria n° 61, de 31 de janeiro de 2024, do Ministério da Educação,
 

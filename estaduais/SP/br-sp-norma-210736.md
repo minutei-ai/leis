@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 442/2024, do Deputado Dr. Jorge do Carmo - PT)
 
-### Declara de utilidade pública o Centro de Defesa dos Direitos Humanos e Criança/Adolescente "Ermínia Circosta", com sede na Capital.
+### _Declara de utilidade pública o Centro de Defesa dos Direitos Humanos e Criança/Adolescente "Ermínia Circosta", com sede na Capital._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
