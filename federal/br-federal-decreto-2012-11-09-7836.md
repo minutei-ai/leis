@@ -1,0 +1,25 @@
+###DEC-007836-0-000-09-11-2012-PUB-01@@@
+
+DECRETO N°\- 7.836, DE 9 DE NOVEMBRO DE 2012
+
+Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.
+
+A PRESIDENTA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da Constituição, e tendo em vista o disposto no art. 2º da Lei nº 11.578, de 26 de novembro de 2007, e na proposta do Comitê Gestor do Programa de Aceleração do Crescimento - CGPAC, de 4 de outubro de 2012,
+
+D E C R E T A :
+
+Art. 1° São obrigatórias as transferências aos entes federados necessárias à execução das ações do Programa de Aceleração do Crescimento - PAC, constantes do Anexo, sem prejuízo do disposto nos Decretos no 7.804, de 13 de setembro de 2012, n° 7.745, de 5 de junho de 2012, no 7.720, de 16 de abril de 2012, n° 7.662, de 28 de dezembro de 2011, n° 7.625, de 24 de novembro de 2011, n° 7.576, de 11 de outubro de 2011, n° 7.488, de 24 de maio de 2011, n° 7.369, de 26 de novembro de 2010, n° 7.211, de 11 de junho de 2010, n° 7.157, de 9 de abril de 2010, n° 7.125, de 3 de março de 2010, n° 7.051, de 23 de dezembro de 2009, n° 7.025, de 7 de dezembro de 2009, n° 6.982, de 14 de outubro de 2009, n° 6.958, de 14 de setembro de 2009, n° 6.921, de 4 de agosto de 2009, n° 6.876, de 8 de junho de 2009, n° 6.807, de 25 de março de 2009, n° 6.714, de 29 de dezembro de 2008, n°  6.694, de 15 de dezembro de 2008, n° 6.450, de 8 de maio de 2008, n° 6.326, de 27 dezembro de 2007, e n° 6.276, de 28 de novembro de 2007.
+
+Art. 2° Compete ao órgão ou à entidade da administração pública federal ao qual estiver consignada a dotação orçamentária relativa à ação constante do Anexo a análise e aprovação formal do termo de compromisso de que trata o § 1º do art. 3º da Lei nº 11.578, de 26 de novembro de 2007.
+
+Parágrafo único. Na hipótese de a transferência obrigatória ser efetivada por intermédio de instituição ou agente financeiro público federal, atuando como mandatário da União, caberá a essas entidades a aprovação de que trata o caput.
+
+Art. 3° Caberá ao Comitê Gestor do Programa de Aceleração do Crescimento - CGPAC divulgar em sítio eletrônico a relação das ações de que trata o art. 2º da Lei nº 11.578, de 2007, e promover as atualizações devidas nessa relação, inclusive no que se refere a alterações nas funcionais programáticas decorrentes de lei orçamentária e seus créditos adicionais.
+
+Art. 4° Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 9 de novembro de 2012; 191º da Independência e 124º da República.
+
+DILMA ROUSSEFF
+
+Miriam Belchior
