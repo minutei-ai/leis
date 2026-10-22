@@ -1,0 +1,29 @@
+###DEC-070853-0-000-20-07-1972@@@
+
+DECRETO Nº 70.853, DE 20 DE JUlHO DE 1972.
+
+Concede a P. Amaral Sobreira, firma individual, o direito de lavrar minério de ferro no município de Antônio Dias, Estado de Minas Gerais.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, nos termos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei número 318, de 14 de março de 1967,
+
+DECRETA:
+
+Art. 1º Fica outorgada a P. Amaral Sobreira, firma individual, concessão para lavrar minério de ferro, em terrenos de propriedade dos herdeiros do espólio de Júlia do Amaral Sobreira, no lugar denominado Pinhões dos Cocais, distrito e município de Antônio Dias, Estado de Minas Gerais, numa área de oitenta hectares e vinte e nove ares noventa e dois centiares (80,2992 ha), delimitada por um polígono irregular, que tem um vértice na confluência do córrego dos Pinhões com o córrego da Clara ou Boa Vista e os lados, a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: trinta e cinco metros (35m), este (E); cem metros (100m), norte (N); trinta e oito metros (38m), este (E); cem metros (100m), norte (N); quatorze metros (14m), este (E); cinqüenta metros (50m), norte (N); quatorze metros (14m), este (E); cinqüenta metros (50m), norte (N); quatorze metros (14m), este (E); cinqüenta metros (50m), norte (N); quatorze metros (14m), este (E); cinqüenta metros (50m), norte (N); quatorze metros (14m), este (E); cinqüenta metros (50m), norte (N); cem metros (100m), este (E); trinta metros (30m), sul (S); setenta metros (70m), este (E); dez metros (10m), sul (S); cinqüenta metros (50m), este (E); dez metros (10m), sul (S); cento e quatorze metros (114m), este (E); dez metros (10m), norte (N); cinqüenta e dois metros (52m), este (E); dez metros (10m), norte (N); quarenta e quatro metros (44m), este (E); dez metros (10m), norte (N); quarenta metros (40m), este (E); dez metros (10m), norte (N); noventa metros (90m), este (E); vinte metros (20m), norte (N); trinta metros (30m), este (E); noventa metros (90m), norte (N); dezesseis metros (16m), este (E); vinte metros (20m), sul (S); quarenta metros (40m), este (E); vinte e seis metros (26m), sul (S); cinqüenta metros (50m), este (E); trinta metros (30m), sul (S); sessenta metros (60m), este (E); trinta metros (30m), sul (S); sessenta metros (60m), este (E); trinta metros (30m), sul (S); sessenta metros (60m), este (E); vinte metros (20m), sul (S); quarenta metros (40m), este (E); dez metros (10m), sul (S); vinte  metros (20m), este (E); vinte metros (20m), sul (S); dezesseis metros (16m), oeste (W); dezenove metros (19m), sul (S); dezoito metros (18m), oeste (W); dezenove metros (19m), sul (S); oitenta e oito metros (88m), oeste (W); cinqüenta metros (50m), sul (S); oitenta e seis metros (86m), oeste (W); quarenta e oito metros (48m), sul (S); setenta e oito metros (78m), oeste (W); quarenta e oito metros (48m), sul (S); setenta e oito metros (78m), oeste (W); quarenta e oito metros (48m), sul (S); cinqüenta metros (50m), oeste (W); cento e noventa e seis metros (196m), sul (S); cinqüenta metros (50m), este (E); noventa e oito metros (98m), sul (S); cinqüenta metros (50m), este (E); noventa e oito metros (98m), sul (S); cinqüenta metros (50m), este (E); sessenta e seis metros (66m), sul (S); quarenta e cinco metros (45m), oeste (W); quarenta e seis metros (46m), sul (S); cento e seis metros (106m), oeste (W); noventa e nove metros (99m), sul (S); cinqüenta e dois metros (52m), oeste (W); quarenta e nove metros (49m), sul (S); vinte e sete metros (27m), oeste (W); oitenta e nove metros (89m), sul (S); vinte e dois metros (22m), oeste (W); cento e cinqüenta e seis metros (156m), sul (S); cento e sessenta e nove metros (169m), oeste (W); cinqüenta e dois metros (52m), norte (N); trinta e nove metros (39m), oeste (W); cinqüenta e três metros (53m), norte (N); noventa e nove metros (99m), oeste (W); cinqüenta e três metros (53m), norte (N); noventa e nove metros (99m), oeste (W); cinqüenta e três metros (53m), norte (N); noventa e nove metros (99m), oeste (W); cinqüenta  e três metros (53m), norte (N); noventa e nove metros (99m), oeste (W), cinqüenta e três metros (53m), norte (N); noventa e nove metros (99m), oeste (W); cinqüenta e dois metros (52m), norte (N); setenta metros (70m), este (E); duzentos metros (200m), norte (N); setenta metros (70m), este (E); cento e noventa e seis metros (196m), norte (N). Esta concessão é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas e 51 do Código de Mineração, além de outras constantes do mesmo Código, não expressamente mencionadas neste Decreto.
+
+Parágrafo único. Esta concessão fica sujeita às estipulações do Regulamento aprovado pelo Decreto número 51.726, de 19 de fevereiro de 1963, e da Resolução nº 3, de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O concessionário fica obrigado a recolher aos cofres públicos, na forma da Lei, os tributos devidos à União, em cumprimento do disposto no Decreto-lei número 1.038, de 21 de outubro de 1969.
+
+Art. 3º Se o concessionário não cumprir qualquer das obrigações que lhe incumbem, a concessão para lavrar será declarada caduca ou nula, na forma dos artigos 65 e 66 do Código de Mineração.
+
+Art. 4º As propriedades vizinhas estão sujeitas às servidões do solo e subsolo para fins de lavra, na forma do artigo 59 do Código de Mineração.
+
+Art. 5º A concessão de lavra terá por título este Decreto, que será transcrito no livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 6º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM - 1.320-63).
+
+Brasília, 20 de julho de 1972; 151º da Independência e 84º da República.
+
+EMÍLIO G. MÉDICI
+
+Antônio Dias Leite Júnior
