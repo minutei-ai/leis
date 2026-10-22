@@ -1,0 +1,51 @@
+###DEC-002379-0-000-12-11-1997@@@
+
+DECRETO Nº 2.379, DE 12 DE NOVEMBRO DE 1997
+
+Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 9 (Protocolo de Adequação), entre Brasil e México, de 26 de setembro de 1997.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, inciso IV, da Constituição,
+
+Considerando que o Tratado de Montevidéu de 1980, que criou a Associação Latino-Americana de Integração (ALADI), firmado pelo Brasil em 12 de agosto de 1980 e aprovado pelo Congresso Nacional, por meio do Decreto Legislativo nº 66, de 16 de novembro de 1981, prevê a modalidade de Acordo de Alcance Parcial;
+
+Considerando que os Plenipotenciários da República Federativa do Brasil e dos Estados Unidos Mexicanos, com base no Tratado de Montevidéu de 1980, assinaram em 26 de setembro de 1997, em Montevidéu, o Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 9 (Protocolo de Adequação), entre Brasil e México,
+
+DECRETA:
+
+Art. 1º - O Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 9 (Protocolo de Adequação), entre Brasil e México, apenso por cópia ao presente Decreto, será executado e cumprido tão inteiramente como nele se contém.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, em 12 de novembro de 1997; 176º da Independência e 109º da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+Luiz Felipe Lampreia
+
+# ACORDO DE ALCANCE PARCIAL DE RENEGOCIAÇÃO Nº 9 SUBSCRITO ENTRE O BRASIL E O MÉXICO (PROTOCOLO DE ADEQUAÇÃO)
+
+## Sexto Protocolo Adicional
+
+Os Plenipotenciários da República Federativa do Brasil e dos Estados Unidos Mexicanos, acreditados por seus respectivos governos segundo poderes que foram outorgados em boa e devida forma, depositados oportunamente na Secretaria-Geral da Associação,
+
+CONSIDERANDO A necessidade de preservar e ampliar as correntes de comércio existentes entre ambos os países, e
+
+REAFIRMANDO A vontade de continuar as negociações de um acordo de Complementação Econômica,
+
+CONVÊM EM:
+
+Artigo 1º - Prorrogar de 19 de outubro de 1997 até 31 de dezembro de 1997 a vigência das preferências pactuadas entre ambos os países no Acordo de Alcance Parcial de “Renegociação das concessões outorgadas no período 1962/1980” (AAP.R/9).
+
+Artigo 2º - A importação dos produtos negociados pela República Federativa do Brasil, incluídos no presente acordo, não estará sujeita à aplicação do Adicional ao Frete para a Renovação da Marinha Mercante, estabelecido pelo Decreto-Lei nº 2.404, de 23 de dezembro de 1987, de conformidade com o disposto pelo Decreto nº 97.945 (Artigo 5º) de 11 de julho de 1989, modificado pelo Decreto nº 429/92, de 17 de janeiro de 1992.
+
+A Secretaria-Geral da Associação será depositária do presente Protocolo, do qual enviará cópias devidamente autenticadas aos Governos signatários.
+
+EM FÉ DO QUE Os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos vinte e seis dias do mês de setembro de mil novecentos e noventa e sete, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
+
+Pelo Governo da República Federativa do Brasil:
+
+JOSÉ ARTUR DENOT MEDEIROS
+
+Pelo Governo dos Estados Unidos Mexicanos:
+
+ROGELIO GRANGUILLHOME MORFIN

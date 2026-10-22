@@ -1,0 +1,27 @@
+1
+
+###DEC-002084-0-000-29-11-1996@@@
+
+DECRETO Nº 2.084, DE 29 DE NOVEMBRO DE 1996.
+
+Prorroga o prazo de remanejamento dos cargos que menciona.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, incisos IV e VI, da Constituição,
+
+DECRETA:
+
+Art. 1º Fica prorrogado, até 31 de janeiro de 1997, o prazo de remanejamento dos seguintes cargos em comissão alocados ao Ministério da Previdência e Assistência Social, pelo art. 3º do Decreto nº 1.823, de 29 de fevereiro de 1996, a seguir enumerados: um DAS 101.4, dois DAS 101.3, três DAS 101.2, dois DAS 102.3, quatro DAS 102.2 e dois DAS 102.1.
+
+Parágrafo único. Aos cargos remanescentes do remanejamento inicial aplica-se o disposto no § 3º do art. 1º do Decreto nº 1.823, de 1996.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 3º Revoga-se o Decreto nº 2.052, de 31 de outubro de 1996.
+
+Brasília, 29 de novembro de 1996; 175º da Independência e 108º da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+Reinhold Stephanes
+
+Luiz Carlos Bresser Pereira
