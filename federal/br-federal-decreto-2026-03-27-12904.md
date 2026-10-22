@@ -1,0 +1,159 @@
+DECRETO Nº 12.904, DE 27 DE MARÇO DE 2026
+
+Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Gestão e da Inovação em Serviços Públicos e remaneja e transforma cargos em comissão e funções de confiança.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso VI, alínea "a", da Constituição,
+
+DECRETA:
+
+Art. 1º Ficam aprovados a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Gestão e da Inovação em Serviços Públicos, na forma dos Anexos I e II.
+
+Art. 2º Ficam remanejados, na forma do Anexo III, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE:
+
+I – do Ministério da Gestão e da Inovação em Serviços Públicos para a Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos:
+
+a) um CCE 1.17;
+
+b) dois CCE 1.13;
+
+c) seis CCE 1.10;
+
+d) três CCE 1.07;
+
+e) um CCE 1.03;
+
+f) um CCE 2.10;
+
+g) um CCE 2.07;
+
+h) dois CCE 2.05;
+
+i) um CCE 2.02;
+
+j) um CCE 3.15;
+
+k) oitenta e uma FCE 1.04;
+
+l) uma FCE 2.14;
+
+m) uma FCE 2.08;
+
+n) sete FCE 2.07;
+
+o) três FCE 4.07;
+
+p) cinco FCE 4.05; e
+
+q) uma FCE 4.03; e
+
+II – da Secretaria de Gestão e Inovação para o Ministério da Gestão e da Inovação em Serviços Públicos:
+
+a) dois CCE 1.15;
+
+b) um CCE 1.11;
+
+c) dois CCE 1.09;
+
+d) quatro CCE 1.05;
+
+e) oitenta e oito CCE 1.04;
+
+f) três CCE 1.02;
+
+g) um CCE 2.13;
+
+h) dois CCE 2.09;
+
+i) um CCE 2.04;
+
+j) um CCE 2.03;
+
+k) quatro CCE 3.13;
+
+l) um CCE 3.07;
+
+m) um CCE 3.05;
+
+n) quatro CCE 3.04;
+
+o) três CCE 3.02;
+
+p) um CCE 3.01;
+
+q) uma FCE 1.17;
+
+r) duas FCE 1.16;
+
+s) três FCE 1.15;
+
+t) duas FCE 1.14;
+
+u) dezenove FCE 1.13;
+
+v) quatro FCE 1.12;
+
+w) sessenta e sete FCE 1.10;
+
+x) quatro FCE 1.09;
+
+y) uma FCE 1.08;
+
+z) doze FCE 1.07;
+
+aa) sete FCE 1.05;
+
+ab) uma FCE 2.13;
+
+ac) duas FCE 2.09;
+
+ad) quatro FCE 2.06;
+
+ae) três FCE 2.05;
+
+af) três FCE 3.15;
+
+ag) nove FCE 3.13;
+
+ah) uma FCE 3.11;
+
+ai) dez FCE 3.10;
+
+aj) duas FCE 3.07;
+
+ak) cinco FCE 3.05;
+
+al) duas FCE 4.04;
+
+am) duas FCE 4.02; e
+
+an) uma FCE 4.01.
+
+Art. 3º Ficam transformados CCE e FCE, nos termos do disposto no [art. 7º da Lei nº 14.204, de 16 de setembro de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-09-16;14204!art7), na forma do Anexo IV.
+
+Art. 4º Aplica-se o disposto nos [art. 14](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2019-03-28;9739!art14) e [art. 15 do Decreto nº 9.739, de 28 de março de 2019](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2019-03-28;9739!art15), e nos art. 11 a [art. 14 do Decreto nº 10.829, de 5 de outubro de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2021-10-05;10829!art14), quanto:
+
+I – ao registro de dados no Sistema de Organização e Inovação Institucional do Governo Federal - Siorg;
+
+II – aos prazos para apostilamentos;
+
+III – ao regimento interno;
+
+IV – à permuta entre CCE e FCE;
+
+V – ao registro das alterações por ato inferior a decreto; e
+
+VI – à realocação de cargos em comissão e funções de confiança na Estrutura Regimental do Ministério da Gestão e da Inovação em Serviços Públicos.
+
+Art. 5º Ficam revogados:
+
+I – o [Decreto nº 12.102, de 8 de julho de 2024](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2024-07-08;12102); e
+
+II – o [Decreto nº 12.554, de 14 de julho de 2025](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-07-14;12554).
+
+Art. 6º Este Decreto entra em vigor quatorze dias após a data de sua publicação.
+
+Brasília, 27 de março de 2026; 205º da Independência e 138º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Esther Dweck
