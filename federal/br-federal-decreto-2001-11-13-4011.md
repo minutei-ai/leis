@@ -1,0 +1,97 @@
+###DEC-004011-0-000-13-11-2001@@@
+
+DECRETO Nº 4.011, DE 13 DE NOVEMBRO DE 2001
+
+Concede indulto, comuta penas e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso XII, da Constituição, tendo em vista a manifestação do Conselho Nacional de Política Criminal e Penitenciária, e considerando a tradição de conceder, por ocasião das festividades comemorativas do Natal, perdão ao condenado em condições de merecê-lo, proporcionando-lhe a oportunidade de retorno útil ao convívio da sociedade, objetivo maior da sanção penal,
+
+D E C R E T A :
+
+Art. 1º É concedido indulto condicional ao:
+
+I - condenado à pena privativa de liberdade não superior a seis anos que, até 25 de dezembro de 2001, tenha cumprido um terço da pena, se não reincidente, ou metade, se reincidente;
+
+II - condenado à pena privativa de liberdade superior a seis anos que, até 25 de dezembro de 2001, tenha completado sessenta anos de idade e cumprido um terço da pena, se não reincidente, ou metade, se reincidente;
+
+III - condenado à pena privativa de liberdade que, até 25 de dezembro de 2001, tenha cumprido ininterruptamente vinte anos da pena, se não reincidente, ou vinte e cinco anos, se reincidente;
+
+IV - condenado à pena privativa de liberdade, tetraplégico ou acometido de doença grave irreversível em estágio avançado e determinante de contínuos cuidados, comprovado por laudo médico oficial ou, na falta deste, de médico designado, desde que não haja oposição do beneficiado, mantido o direito de assistência nos termos do art. 196 da Constituição Federal;
+
+V - condenado, beneficiado com suspensão condicional da execução da pena até 31 de dezembro de 2000, desde que tenha cumprido metade do período de prova, sem que tenha havido revogação do sursis ou prorrogação do seu período de prova; ou o condenado que teve a pena privativa de liberdade substituída por pena restritiva de direitos, e tenha cumprido metade da pena, sem que tenha havido conversão em pena privativa de liberdade;
+
+VI - condenado à pena privativa de liberdade não superior a oito anos, beneficiado com livramento condicional até 31 de dezembro de 2000, e não tenha ocorrido sua revogação;
+
+VII - condenado que tenha obtido progressão a regime aberto até 31 de dezembro de 2000, sem que tenha havido posterior regressão, nos termos do art. 118 da Lei nº 7.210, de 11 de julho de 1984;
+
+VIII - condenado à pena privativa de liberdade a ser cumprida inicialmente em regime aberto, desde que, em 31 de dezembro de 2001, já tenha cumprido metade da pena, e não tenha havido posterior regressão, nos termos do art. 118 da Lei nº 7.210, de 1984.
+
+§ 1º Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do indulto ficará subordinada à constatação pelo Juiz de condições pessoais que façam presumir que não voltará a delinqüir.
+
+§ 2º O indulto de que cuida este Decreto não se estende às penas acessórias previstas no Código Penal Militar e aos efeitos da condenação.
+
+Art. 2º O condenado que, até 25 de dezembro de 2001, tenha cumprido um quarto da pena, se não reincidente, ou um terço, se reincidente, e não preencha os requisitos deste Decreto para receber indulto, terá comutada sua pena de um quarto, se não reincidente, e de um quinto, se reincidente.
+
+Parágrafo único. O agraciado por anterior comutação terá seu beneficio calculado sobre o remanescente da pena em 25 de dezembro de 2001, sem prejuízo da remição prevista pelo art. 126 da Lei nº 7.210, de 1984.
+
+Art. 3º Constituem também requisitos para concessão do indulto e da comutação que o condenado:
+
+I - não tenha cometido falta grave apurada na forma prevista na Lei nº 7.210, de 1984, durante os últimos doze meses de cumprimento da pena, computada a detração (art. 42 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal);
+
+II - não esteja sendo processado por outro crime praticado com violência ou grave ameaça contra a pessoa ou por aqueles descritos no art. 10 deste Decreto.
+
+Art. 4º O indulto aperfeiçoar-se-á após vinte e quatro meses a contar da expedição do termo de que trata o art. 6º, devendo o beneficiário, nesse prazo, não praticar qualquer delito, bem como manter bom comportamento.
+
+Parágrafo único. Se o beneficiário vier a ser processado por outro crime, praticado no período previsto no caput deste artigo, considera-se prorrogado o prazo para o aperfeiçoamento do indulto, até o julgamento definitivo do processo.
+
+Art. 5º Decorrido o prazo previsto no art. 4º e cumpridos os requisitos do benefício, o Juiz, ouvido o Conselho Penitenciário e o Ministério Público, declarará extinta a pena privativa de liberdade.
+
+Parágrafo único. O descumprimento das condições de que trata a parte final do art. 4º torna sem efeito o indulto condicional, retornando o beneficiário ao regime em que se encontrava ao tempo da concessão da liberdade, excluído, para novo cálculo de pena, o prazo fruído nos limites do mesmo artigo.
+
+Art. 6º O Presidente do Conselho Penitenciário ou a autoridade responsável pela custódia do preso ou que for responsável pelo acompanhamento das condições do regime aberto, das penas restritivas de direito, da suspensão condicional da pena, do livramento condicional, após a sentença concessiva do benefício aceito pelo interessado, chamará a atenção dos indultandos, em cerimônia solene, para as condições estabelecidas por este Decreto, colocando-os em liberdade, de tudo lavrando, em livro próprio, termo circunstanciado, cuja cópia será remetida ao Juiz da Execução Penal, entregando-se outra ao beneficiário.
+
+Art. 7º Os benefícios previstos neste Decreto são aplicáveis, ainda que:
+
+I - a sentença condenatória tenha transitado em julgado somente para a acusação, sem prejuízo do julgamento de recurso da defesa na instância superior;
+
+II - haja recurso da acusação que não vise a alterar a quantidade da pena ou as condições exigidas para concessão do indulto e da comutação.
+
+Art. 8º A inadimplência da pena pecuniária não impede a concessão do indulto ou da comutação.
+
+Art. 9º As penas correspondentes a infrações diversas devem somar-se para efeito do indulto e da comutação, excluindo-se dos benefícios as infrações ou situações previstas no art. 10 deste Decreto.
+
+Art. 10. Os benefícios previstos neste Decreto não alcançam os:
+
+I - condenados por crimes hediondos ou por crime de tortura, terrorismo ou tráfico ilícito de entorpecentes e drogas afins;
+
+II - condenados por homicídio doloso;
+
+III - condenados por roubo qualificado com o emprego de arma de fogo;
+
+IV - condenados que, embora solventes, tenham deixado de reparar o dano;
+
+V - condenados por crimes definidos no Código Penal Militar que correspondam às hipóteses previstas nos incisos I, II e III deste artigo;
+
+VI - condenados por crimes contra o Sistema Financeiro Nacional (Lei nº 7.492, de 16 de junho de 1986).
+
+Parágrafo único. As restrições deste artigo, do § 1º do art. 1º e do art. 3º deste Decreto não se aplicam às hipóteses previstas no inciso IV do art. 1º.
+
+Art. 11. A autoridade que custodiar o condenado ou que for responsável pelo acompanhamento das condições do regime aberto, das penas restritivas de direito, da suspensão condicional da pena, do livramento condicional e o Conselho Penitenciário encaminharão ao Juiz da Execução Penal a indicação daqueles que satisfaçam os requisitos necessários para a concessão dos benefícios previstos neste Decreto, no prazo de trinta dias, contados de sua publicação.
+
+§ 1º O procedimento previsto no caput deste artigo poderá iniciar-se de oficio, a requerimento do interessado, de quem o represente, de seu cônjuge, parente ou descendente, do Ministério Público, do Conselho Penitenciário, da autoridade administrativa e do médico que assiste o condenado tetraplégico ou doente em estágio avançado e determinante de contínuos cuidados.
+
+§ 2º O Juiz da Execução Penal proferirá decisão no prazo de trinta dias, a contar do recebimento da indicação ou do requerimento, dando prioridade aos processos de condenados presos.
+
+Art. 12. Os órgãos centrais da Administração Penitenciária preencherão o quadro estatístico, de acordo com o modelo anexo a este Decreto, devendo encaminhá-lo até 31 de março de 2002 ao Departamento Penitenciário Nacional da Secretaria Nacional de Justiça do Ministério da Justiça.
+
+Parágrafo único. O cumprimento do disposto neste artigo será fiscalizado pelo Departamento Penitenciário Nacional e verificado nas oportunidades de inspeção ou de estudo de projetos lastreados em recursos do Fundo Penitenciário Nacional - FUNPEN.
+
+Art. 13. Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 13 de novembro de 2001; 180º da Independência e 113º da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+José Gregori
+
+A N E X O

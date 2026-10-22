@@ -1,0 +1,179 @@
+###DEC-003931-0-000-19-09-2001@@@
+
+DECRETO Nº 3.931, DE 19 DE SETEMBRO DE 2001
+
+Regulamenta o Sistema de Registro de Preços previsto no art. 15 da Lei nº 8.666, de 21 de junho de 1993, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea "a", da Constituição, e nos termos do disposto no art. 15 da Lei nº 8.666, de 21 de junho de 1993,
+
+DECRETA:
+
+Art. 1º  As contratações de serviços, a locação e a aquisição de bens quando efetuadas pelo Sistema de Registro de Preços, no âmbito da Administração Federal direta, autárquica e fundacional, fundos especiais, empresas públicas, sociedade de economia mista e demais entidades controladas, direta ou indiretamente pela União, obedecerão ao disposto neste Decreto.
+
+Parágrafo único. Para os efeitos deste Decreto, são adotadas as seguintes definições:
+
+I - Sistema de Registro de Preços - SRP - conjunto de procedimentos para registro formal de preços relativos à prestação de serviços, aquisição e locação de bens, para contratações futuras;
+
+II - Ata de Registro de Preços - documento vinculativo, obrigacional, com característica de compromisso para futura contratação, onde se registram os preços, fornecedores, órgãos participantes e condições a serem praticadas, conforme as disposições contidas no instrumento convocatório e propostas apresentadas;
+
+III - Órgão Gerenciador - órgão ou entidade da Administração Pública responsável pela condução do conjunto de procedimentos do certame para registro de preços e gerenciamento da Ata de Registro de Preços dele decorrente; e
+
+IV - Órgão Participante - órgão ou entidade que participa dos procedimentos iniciais do SRP e integra a Ata de Registro de Preços.
+
+Art. 2º  Será adotado, preferencialmente, o SRP nas seguintes hipóteses:
+
+I - quando, pelas características do bem ou serviço, houver necessidade de contratações freqüentes;
+
+II - quando for mais conveniente a aquisição de bens com previsão de entregas parceladas ou contratação de serviços necessários à Administração para o desempenho de suas atribuições;
+
+III - quando for conveniente a aquisição de bens ou a contratação de serviços para atendimento a mais de um órgão ou entidade, ou a programas de governo; e
+
+IV - quando pela natureza do objeto não for possível definir previamente o quantitativo a ser demandado pela Administração.
+
+Parágrafo único.  Poderá ser realizado registro de preços para contratação de bens e serviços de informática, obedecida a legislação vigente, desde que devidamente justificada e caracterizada a vantagem econômica.
+
+Art. 3º  A licitação para registro de preços será realizada na modalidade concorrência, do tipo menor preço, nos termos da Lei nº 8.666, de 1993, e será precedida de ampla pesquisa de mercado.
+
+§ 1º  Excepcionalmente poderá ser adotado o tipo técnica e preço, a critério do órgão gerenciador e mediante despacho devidamente fundamentado da autoridade máxima do órgão ou entidade.
+
+§ 2º  Caberá ao órgão gerenciador a prática de todos os atos de controle e administração do SRP, e ainda o seguinte:
+
+I - convidar, mediante correspondência eletrônica ou outro meio eficaz, os órgãos e entidades para participarem do registro de preços;
+
+II - consolidar todas as informações relativas à estimativa individual e total de consumo, promovendo a adequação dos respectivos projetos básicos encaminhados para atender aos requisitos de padronização e racionalização;
+
+III - promover todos os atos necessários à instrução processual para a realização do procedimento licitatório pertinente, inclusive a documentação das justificativas nos casos em que a restrição à competição for admissível pela lei;
+
+IV - realizar a necessária pesquisa de mercado com vistas à identificação dos valores a serem licitados;
+
+V - confirmar junto aos órgãos participantes a sua concordância com o objeto a ser licitado, inclusive quanto aos quantitativos e projeto básico;
+
+VI - realizar todo o procedimento licitatório, bem como os atos dele decorrentes, tais como a assinatura da Ata e o encaminhamento de sua cópia aos demais órgãos participantes;
+
+VII - gerenciar a Ata de Registro de Preços, providenciando a indicação, sempre que solicitado, dos fornecedores, para atendimento às necessidades da Administração, obedecendo a ordem de classificação e os quantitativos de contratação definidos pelos participantes da Ata;
+
+VIII - conduzir os procedimentos relativos a eventuais renegociações dos preços registrados e a aplicação de penalidades por descumprimento do pactuado na Ata de Registro de Preços; e
+
+IX - realizar, quando necessário, prévia reunião com licitantes, visando informá-los das peculiaridades do SRP e coordenar, com os órgãos participantes, a qualificação mínima dos respectivos gestores indicados.
+
+§ 3º  O órgão participante do registro de preços será responsável pela manifestação de interesse em participar do registro de preços, providenciando o encaminhamento, ao órgão gerenciador, de sua estimativa de consumo, cronograma de contratação e respectivas especificações ou projeto básico, nos termos da Lei nº 8.666, de 1993, adequado ao registro de preço do qual pretende fazer parte, devendo ainda:
+
+I - garantir que todos os atos inerentes ao procedimento para sua inclusão no registro de preços a ser realizado estejam devidamente formalizados e aprovados pela autoridade competente;
+
+II - manifestar, junto ao órgão gerenciador, sua concordância com o objeto a ser licitado, antes da realização do procedimento licitatório; e
+
+III - tomar conhecimento da Ata de Registros de Preços, inclusive as respectivas alterações porventura ocorridas, com o objetivo de assegurar, quando de seu uso, o correto cumprimento de suas disposições, logo após concluído o procedimento licitatório.
+
+§ 4º  Cabe ao órgão participante indicar o gestor do contrato, ao qual, além das atribuições previstas no art. 67 da Lei nº 8.666, de 1993, compete:
+
+I - promover consulta prévia junto ao órgão gerenciador, quando da necessidade de contratação, a fim de obter a indicação do fornecedor, os respectivos quantitativos e os valores a serem praticados, encaminhando, posteriormente, as informações sobre a contratação efetivamente realizada;
+
+II - assegurar-se, quando do uso da Ata de Registro de Preços, que a contratação a ser procedida atenda aos seus interesses, sobretudo quanto aos valores praticados, informando ao órgão gerenciador eventual desvantagem, quanto à sua utilização;
+
+III - zelar, após receber a indicação do fornecedor, pelos demais atos relativos ao cumprimento, pelo mesmo, das obrigações contratualmente assumidas, e também, em coordenação com o órgão gerenciador, pela aplicação de eventuais penalidades decorrentes do descumprimento de cláusulas contratuais; e
+
+IV - informar ao órgão gerenciador, quando de sua ocorrência, a recusa do fornecedor em atender às condições estabelecidas em edital, firmadas na Ata de Registro de Preços, as divergências relativas à entrega, as características e origem dos bens licitados e a recusa do mesmo em assinar contrato para fornecimento ou prestação de serviços.
+
+Art. 4º  O prazo de validade da Ata de Registro de Preço não poderá ser superior a um ano, computadas neste as eventuais prorrogações.
+
+§ 1º  Os contratos decorrentes do SRP terão sua vigência conforme as disposições contidas nos respectivos instrumentos convocatórios e respectivos contratos decorrentes, obedecido o disposto no art. 57 da Lei nº 8.666, de 1993.
+
+§ 2º  É admitida a prorrogação da vigência da Ata, nos termos do art. 57, § 4º, da Lei nº 8.666, de 1993, quando a proposta continuar se mostrando mais vantajosa, satisfeitos os demais requisitos desta norma.
+
+Art. 5º  A Administração, quando da aquisição de bens ou contratação de serviços, poderá subdividir a quantidade total do item em lotes, sempre que comprovado técnica e economicamente viável, de forma a possibilitar maior competitividade, observado, neste caso, dentre outros, a quantidade mínima, o prazo e o local de entrega ou de prestação dos serviços.
+
+Parágrafo único.  No caso de serviços, a subdivisão se dará em função da unidade de medida adotada para aferição dos produtos e resultados esperados, e será observada a demanda específica de cada órgão ou entidade participante do certame. Nestes casos, deverá ser evitada a contratação, num mesmo órgão e entidade, de mais de uma empresa para a execução de um mesmo serviço em uma mesma localidade, com vistas a assegurar a responsabilidade contratual e o princípio da padronização.
+
+Art. 6º  Ao preço do primeiro colocado poderão ser registrados tantos fornecedores quantos necessários para que, em função das propostas apresentadas, seja atingida a quantidade total estimada para o item ou lote, observando-se o seguinte:
+
+I - o preço registrado e a indicação dos respectivos fornecedores serão divulgados em órgão oficial da Administração e ficarão disponibilizados durante a vigência da Ata de Registro de Preços;
+
+II - quando das contratações decorrentes do registro de preços deverá ser respeitada a ordem de classificação das empresas constantes da Ata; e
+
+III - os órgãos participantes do registro de preços deverão, quando da necessidade de contratação, recorrerem ao órgão gerenciador da Ata de Registro de Preços, para que este proceda a indicação do fornecedor e respectivos preços a serem praticados.
+
+Parágrafo único. Excepcionalmente, a critério do órgão gerenciador, quando a quantidade do primeiro colocado não for suficiente para as demandas estimadas, desde que se trate de objetos de qualidade ou desempenho superior, devidamente justificada e comprovada a vantagem, e as ofertas sejam em valor inferior ao máximo admitido, poderão ser registrados outros preços.
+
+Art. 7º  A existência de preços registrados não obriga a Administração a firmar as contratações que deles poderão advir, facultando-se a realização de licitação específica para a aquisição pretendida, sendo assegurado ao beneficiário do registro a preferência de fornecimento em igualdade de condições.
+
+Art. 8º  A Ata de Registro de Preços, durante sua vigência, poderá ser utilizada por qualquer órgão ou entidade da Administração que não tenha participado do certame licitatório mediante prévia, consulta ao órgão gerenciador, desde que devidamente comprovada a vantagem.
+
+§ 1º  Os órgãos e entidades que não participaram do registro de preços, quando desejarem fazer uso da Ata de Registro de Preços, deverão manifestar seu interesse junto ao órgão gerenciador da Ata, para que este indique os possíveis fornecedores e respectivos preços a serem praticados, obedecida a ordem de classificação.
+
+§ 2º  Caberá ao fornecedor beneficiário da Ata de Registro de Preços, observadas as condições nela estabelecidas, optar pela aceitação ou não do fornecimento, independentemente dos quantitativos registrados em Ata, desde que este fornecimento não prejudique as obrigações anteriormente assumidas.
+
+Art.  9º  O edital de Concorrência para Registro de Preços contemplará, pelo menos:
+
+I - a especificação/descrição do objeto, explicitando o conjunto de elementos necessários e suficientes, com nível de precisão adequado, para a caracterização do bem ou serviço, inclusive definindo as respectivas unidades de medida usualmente adotadas;
+
+II - a estimativa de quantidades a serem adquiridas no prazo de validade do registro;
+
+III - o preço unitário máximo que a Administração se dispõe a pagar, por contratação, consideradas as regiões e as estimativas de quantidades a serem adquiridas;
+
+IV - a quantidade mínima de unidades a ser cotada, por item, no caso de bens;
+
+V - as condições quanto aos locais, prazos de entrega, forma de pagamento e, complementarmente, nos casos de serviços, quando cabíveis, a freqüência, periodicidade, características do pessoal, materiais e equipamentos a serem fornecidos e utilizados, procedimentos a serem seguidos, cuidados, deveres, disciplina e controles a serem adotados;
+
+VI - o prazo de validade do registro de preço;
+
+VII - os órgãos e entidades participantes do respectivo registro de preço;
+
+VIII - os modelos de planilhas de custo, quando cabíveis, e as respectivas minutas de contratos, no caso de prestação de serviços; e
+
+IX - as penalidades a serem aplicadas por descumprimento das condições estabelecidas.
+
+§ 1º  O edital poderá admitir, como critério de adjudicação, a oferta de desconto sobre tabela de preços praticados no mercado, nos casos de peças de veículos, medicamentos, passagens aéreas, manutenções e outros similares.
+
+§ 2º  Quando o edital prever o fornecimento de bens ou prestação de serviços em locais diferentes, é facultada a exigência de apresentação de proposta diferenciada por região, de modo que aos preços sejam acrescidos os respectivos custos, variáveis por região.
+
+Art. 10.  Homologado o resultado da licitação, o órgão gerenciador, respeitada a ordem de classificação e a quantidade de fornecedores a serem registrados, convocará os interessados para assinatura da Ata de Registro de Preços que, após cumpridos os requisitos de publicidade, terá efeito de compromisso de fornecimento nas condições estabelecidas.
+
+Art. 11.  A contratação com os fornecedores registrados, após a indicação pelo órgão gerenciador do registro de preços, será formalizada pelo órgão interessado, por intermédio de instrumento contratual, emissão de nota de empenho de despesa, autorização de compra ou outro instrumento similar, conforme o disposto no art. 62 da Lei nº 8.666, de 1993.
+
+Art. 12. A Ata de Registro de Preços poderá sofrer alterações, obedecidas as disposições contidas no art. 65 da Lei nº 8.666, de 1993.
+
+§ 1º  O preço registrado poderá ser revisto em decorrência de eventual redução daqueles praticados no mercado, ou de fato que eleve o custo dos serviços ou bens registrados, cabendo ao órgão gerenciador da Ata promover as necessárias negociações junto aos fornecedores.
+
+§ 2º  Quando o preço inicialmente registrado, por motivo superveniente, tornar-se superior ao preço praticado no mercado o órgão gerenciador deverá:
+
+I - convocar o fornecedor visando a negociação para redução de preços e sua adequação ao praticado pelo mercado;
+
+II - frustrada a negociação, o fornecedor será liberado do compromisso assumido; e
+
+III - convocar os demais fornecedores visando igual oportunidade de negociação.
+
+§ 3º Quando o preço de mercado tornar-se superior aos preços registrados e o fornecedor, mediante requerimento devidamente comprovado, não puder cumprir o compromisso, o órgão gerenciador poderá:
+
+I - liberar o fornecedor do compromisso assumido, sem aplicação da penalidade, confirmando a veracidade dos motivos e comprovantes apresentados, e se a comunicação ocorrer antes do pedido de fornecimento; e
+
+II - convocar os demais fornecedores visando igual oportunidade de negociação.
+
+§ 4º  Não havendo êxito nas negociações, o órgão gerenciador deverá proceder à revogação da Ata de Registro de Preços, adotando as medidas cabíveis para obtenção da contratação mais vantajosa.
+
+Art. 13.  O fornecedor terá seu registro cancelado quando:
+
+I - descumprir as condições da Ata de Registro de Preços;
+
+II - não retirar a respectiva nota de empenho ou instrumento equivalente, no prazo estabelecido pela Administração, sem justificativa aceitável;
+
+III - não aceitar reduzir o seu preço registrado, na hipótese de este se tornar superior àqueles praticados no mercado; e
+
+IV - tiver presentes razões de interesse público.
+
+§ 1º  O cancelamento de registro, nas hipóteses previstas, assegurados o contraditório e a ampla defesa, será formalizado por despacho da autoridade competente do órgão gerenciador.
+
+§ 2º  O fornecedor poderá solicitar o cancelamento do seu registro de preço na ocorrência de fato superveniente que venha comprometer a perfeita execução contratual, decorrentes de caso fortuito ou de força maior devidamente comprovados.
+
+Art. 14.  Poderá ser utilizado recursos de tecnologia da informação nos procedimentos e atribuições de que trata este Decreto, na forma prevista em regulamentação específica.
+
+Art. 15.  O Ministério do Planejamento, Orçamento e Gestão poderá editar normas complementares a este Decreto.
+
+Art. 16. Este Decreto entra em vigor na data de sua publicação.
+
+Art. 17.  Revoga-se o Decreto nº 2.743, de 21 de agosto de 1998.
+
+Brasília, 19 de setembro de 2001; 180º da Independência e 113º da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+Martus Tavares
