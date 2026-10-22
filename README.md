@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**135.788 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**136.215 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,12 +16,12 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 34.754 |
+| Federal | [Brasil](federal/) | 35.131 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 3 |
 | Estadual | [Amapá](estaduais/AP/) | 7 |
 | Estadual | [Amazonas](estaduais/AM/) | 8 |
-| Estadual | [Bahia](estaduais/BA/) | 8.223 |
+| Estadual | [Bahia](estaduais/BA/) | 8.273 |
 | Estadual | [Ceará](estaduais/CE/) | 110 |
 | Estadual | [Espírito Santo](estaduais/ES/) | 20 |
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
@@ -59,7 +59,7 @@ Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legi
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
-A cobertura nacional ainda é parcial: faltam estados, o Distrito Federal, municípios e parte dos documentos históricos. Parte dos PDFs e anexos ainda não está contemplada; algumas fontes remetem os anexos a publicações separadas, pendentes de recuperação. Os anexos convertidos ficam no Markdown da norma ou em arquivo próprio vinculado a ela.
+A cobertura nacional ainda é parcial: faltam o Distrito Federal, a maioria dos municípios e parte da legislação federal e estadual, incluindo documentos históricos. Parte dos PDFs e anexos ainda não está contemplada; algumas fontes remetem os anexos a publicações separadas, pendentes de recuperação. Os anexos convertidos ficam no Markdown da norma ou em arquivo próprio vinculado a ela.
 
 ## Agradecimentos
 
