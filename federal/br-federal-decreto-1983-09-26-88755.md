@@ -1,0 +1,23 @@
+###DEC-088755-0-000-26-09-1983@@@
+
+Decreto nº 88.755 de 26 de Setembro de 1983
+
+Outorga concessão à RADIO BANDEIRANTE DE CACHOEIRA PAULISTA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Cachoeira Paulista, Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe conferem o artigo 81, item III, combinado com o artigo 8º, item XV, letra "a", da Constituição, e o artigo 29 do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, alterado pelo Decreto nº 88.067, de 26 de janeiro de 1983, e tende em vista o que consta do Processo MC nº 15.662/82 (Edital nº 106/82),
+
+DECRETA:
+
+Art. 1º - Fica outorgada concessão à RÁDIO BANDEIRANTES DE CACHOEIRA PAULISTA LTDA., para explorar, pelo prazo de 10 (dez) anos, e sem direito de exclusividade, serviço de radiodifusão sonora em onda tropical, na cidade de Cachoeira Paulista, Estado de São Paulo.
+
+Parágrafo único - A concessão ora outorga da reger-se-á de acordo com o Código Brasileiro de Telecomunicações, leis subseqüentes e seus regulamentos e, cumulativamente, com os preceitos e obrigações enumerados no artigo 28 do regulamento dos Serviços de Radiodifusão, com a redação que lhe foi dada pelo Decreto nº 88.067, de 26 de janeiro de 1983.
+
+Art. 2º - O contrato decorrente desta concessão deverá ser assinado dentro de 60 (sessenta) dias, a contar da publicação deste Decreto no Diário Oficial da União, sob pena de se tornar nulo, de pleno direito, o ato de outorga.
+
+Art. 3º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília,DF, 26 de setembro de 1983; 162º da Independência e 95º da República.
+
+JOÃO FIGUEIREDO
+
+H. C. Mattos

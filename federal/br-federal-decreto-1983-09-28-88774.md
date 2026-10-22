@@ -1,0 +1,31 @@
+###DEC-088774-0-000-28-09-1983@@@
+
+DECRETO Nº 88.774, DE 28 DE SETEMBRO DE 1983.
+
+Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Peixe, Estado de Goiás.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe conferem os arts. 81, item III, e 161, §§ 2º e 4º, da Constituição, e nos termos do art. 43, § 2º, da Lei nº 4.504, de 30 de novembro de 1964,
+
+decreta:
+
+Art. 1º - Fica declarada prioritária, para fins de reforma agrária, a área situada no Município de Peixe, no Estado de Goiás, com o seguinte perímetro: partindo do ponto 1, de coordenadas geográficas longitude 48º'37'14"WGr e latitude 11º38'16"S, situado na confluência dos Córregos Chupé e Tataiara ou Traíra, na divisa das terras remanescentes da Fazenda Penha, segue pelo Córrego Tataiara ou Traíra acima, com distância de 15.000m, até o ponto 2, de coordenadas geográficas longitude 48º33'39"WGr e latitude 11º41'05"S, situado na confluência dos Córregos Fazenda Nova e Tataiara ou Traíra, na divisa das terras remanescentes da Fazenda Penha; daí, segue pelo Córrego Fazenda Nova acima, com distância de 3.250m, até o ponto 3, de coordenadas geográficas longitude 48º31'49"WGr e latitude 11º41'05"S, situado na confluência dos Córregos Fazenda Nova e Matança, na divisa das terras remanescentes da Fazenda Penha; daí, segue pelo Córrego Fazenda Nova acima, com distância de 800m, até o ponto 4, de coordenadas geográficas longitude 48º31'23"WGr e latitude 11º41'08"S, situado na confluência dos Córregos Fazenda Nova e Cupim, na divisa das terras remanescentes da Fazenda Penha; daí, segue pelo Córrego Cupim acima, com distância de 7.000m, até o ponto 5, de coordenadas geográficas longitude 48º27'41"WGr e latitude 11º41'08"S; daí, segue por uma linha seca, divisando com terras remanescentes da Fazenda Penha, com o azimute de 64º15' e distância de 1.950m, até o ponto 6, de coordenadas geográficas longitude 48º26'58"Wgr e latitude 11º40'29"S; daí, segue por uma linha seca, divisando com terras remanescentes da Fazenda Penha, com o azimute de 147º e distância de 4.000m, até o ponto 7, de coordenadas geográficas longitude 48º25'12"WGr e latitude 11º41'51"S, situado na margem esquerda do Córrego Sangrador, na divisa das terras da Fazenda Pedras; daí, segue por uma linha seca, divisando com a Fazenda Bananal, com o azimute de 270º e distância de 11.860m, até o ponto 7/A, situado na divisa das terras do Imóvel Forges, de coordenadas geográficas longitude 48º31'29"WGr e latitude 11º43'45"S; daí, segue por uma linha seca, divisando com as terras do Imóvel Forges, com o azimute de 270º e distância de 4.800m, até o ponto 7/B, situado na divisa das terras da Fazenda Pedras, de coordenadas geográficas longitude 48º34'02"WGr e latitude 11º44'34"S; daí, segue por uma linha seca, divisando com as terras da Fazenda Pedras, com o azimute de 270º e distância de 1.200m, até o ponto 8, de coordenadas geográficas longitude 48º34'38"WGr e latitude 11º44'44"S, situado na cabeceira do Córrego Vergonça ou Alazão; daí, segue pelo Córrego Vergonça ou Alazão abaixo, com distância de 14.750m, até o ponto 9, de coordenadas geográficas longitude 48º39'20"WGr e latitude 11º40'39"S, situado na confluência do Córrego Vergonça ou Alazão com a Rio Tocantins, na divisa das terras da Fazenda Pedras; daí, segue pela margem direita do Rio Tocantins abaixo, com distância de 20.700m, até o ponto 10, de coordenadas geográficas longitude 48º37'31"WGr e latitude 11º31'25"S, situado na confluência do Córrego Tataiara ou Traíra, na divisa com terras sem denominação; daí, segue por uma linha seca, com o azimute de 90º e distância de 7.150m, divisando ainda com as citadas terras sem denominação, até o ponto 11, de Coordenadas geográficas longitude 48º33'39"WGr e latitude 11º30'16"S, situado à margem direita do Córrego Santo Antonio, na divisa das terras remanescentes da Fazenda Penha; daí, segue pelo Córrego Santo Antônio acima, com distância de 1.570m, até o ponto 12, de coordenadas geográficas longitude 48º33'09"WGr e latitude 11º30'52"S, situado na confluência dos Córregos Mato Grande e Quebra Roda, na divisa das terras remanescentes da Fazenda Penha; daí, segue pelo Córrego Quebra Roda acima, com distância de 200m, divisando com terras remanescentes da Fazenda Penha, até o ponto 13, de coordenadas geográficas longitude 48º33'02"WGr e latitude 11º30'55"S, situado na divisa das terras remanescentes da Fazenda Penha; daí, segue por uma linha seca, com o azimute de 160º40' e distância de 3.660m, divisando com terras remanescentes da Fazenda Penha, até o ponto 14, de coordenadas geográficas longitude 48º31'46"WGr e latitude 11º32'36"S; daí, segue por uma linha seca, com o azimute de 200º15' e distância de 5.932m, divisando com terras remanescentes da Fazenda Penha, até o ponto 15, de coordenadas geográficas longitude 48º31'56"WGr e latitude 11º35'46"S, situado na divisa das terras remanescentes da Fazenda Penha; daí, segue por uma linha seca, com o azimute de 280º e distância de 5.260m, divisando, ainda, com terras remanescentes da Fazenda Penha, até o ponto 16, de coordenadas geográficas longitude 48º34'42"WGr e latitude 11º36'08"S, situado na margem esquerda do Córrego Chupé, na divisa das terras remanescentes da Fazenda Penha; daí, segue pelo Córrego Chupé abaixo, com distância de 6.500m, divisando com terras remanescentes da Fazenda Penha, até o ponto 1, inicial da descrição deste perímetro (Fonte de referência: cartas da DSG,SC - 22-Z-D-V e SC 22-Z-D-VI, escala 1:100.000, ano 1977).
+
+Art. 2º - A área prioritária, declarada no artigo anterior, ficará sob a jurisdição da Coordenadoria Regional do Instituto Nacional de Colonização e Reforma Agrária-INCRA, com sede em Goiânia, no Estado de Goiás.
+
+Art. 3º - Será de três anos o prazo de intervenção governamental na área a que se refere o art. 1º, podendo ser prorrogado.
+
+Art. 4º - Os trabalhos do Instituto Nacional de Colonização e Reforma Agrária-INCRA objetivarão, preferencialmente:
+
+a) reformulação da estrutura fundiria da região;
+
+b) criação de 300 (trezentas) unidades familiares; e
+
+c) organização de uma cooperativa.
+
+Art. 5º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 28 de setembro de 1983; 162º da Independência e 95º da República.
+
+João FIGUEIREDO
+
+Danilo Venturini
