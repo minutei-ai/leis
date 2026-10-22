@@ -1,0 +1,23 @@
+ESTADO DE MATO GROSSO DO SUL
+
+LEI Nº 4.254, DE 1 DE OUTUBRO DE 2012.
+
+Declara de Utilidade Pública Estadual o Conselho Comunitário de Segurança, com sede e foro no Município de Ivinhema-MS.
+
+Publicada no Diário Oficial nº 8.287, de 2 de outubro de 2012, página 1.
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
+<br>
+Art. 1º Fica declarado de Utilidade Pública Estadual o <i>Conselho Comunitário de Segurança</i>, com sede e foro no Município de Ivinhema-MS.<br>
+<br>
+Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
+<br>
+Campo Grande, 1º de outubro de 2012.
+
+<br>
+ANDRÉ PUCCINELLI<br>
+Governador do Estado<br>
+<br>
+TANIA MARA GARIB<br>
+Secretária de Estado de Trabalho e Assistência Social
