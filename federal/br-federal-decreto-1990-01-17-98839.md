@@ -1,0 +1,43 @@
+1
+
+###DEC-098839-0-000-17-01-1990@@@
+
+DECRETO Nº 98 839, DE 17 DE JANEIRO DE 1990
+
+Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica nº 12, entre o Brasil e a Argentina.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 84, item IV, da Constituição,
+
+Considerando que o Tratado de Montevidéu, que criou a Associação Latino‑Americana de Integração (ALADI), firmado pelo Brasil em 12 de agosto de 1980 e aprovado pelo Congresso Nacional através do Decreto Legislativo nº 66, de 16 de novembro de 1981, prevê, no seu artigo 7, a modalidade de Acordo de Alcance Parcial; e
+
+Considerando que os Plenipotenciários do Brasil e da Argentina, com base no Tratado de Montevidéu‑80, assinaram, a 8 de março de 1989, em Montevidéu, a Ata de Retificação do Acordo de Complementação Econômica nº 12, entre o Brasil e a Argentina,
+
+DECRETA:
+
+Art. 1º A Ata de Retificação do Acordo de , Complementação Econômica nº 12, entre o Brasil e a Argentina, apenas por cópia ao presente Decreto, será executada e cumprida tão inteiramente como nela se contém, inclusive quanto à sua vigência.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 17 de janeiro de 1990; 169º da Independência e 102º da República.
+
+JOSÉ SARNEY
+
+Roberto Costa de Abreu Sodré
+
+ATA DE RETIFICAÇÃO. – Em Montevidéu, aos oito dias do mês de março de mil novecentos e oitenta e nove, esta Secretaria-Geral, em uso das faculdades que lhe confere a Resolução 30 do Comitê de Representantes em seu artigo primeiro, como depositária dos acordos e protocolos subscritos pelos Governos dos países-membros da Associação e no estabelecido em seus artigos segundo, letra g), e terceiro, letra i), faz constar:
+
+PRIMEIRO. – Que a Representação Permanente da República Argentina comunicou a esta Secretaria-Geral, através da nota verbal no. C.R. 13/89, de 1º de fevereiro de 1989, a constatação de um erro de classificação no Acordo  de Complementação Econômica no. 12, subscrito por seu Governo com o Governo da República Federativa do Brasil em 9 de setembro de 1988, pelo qual solicita que seja lavrada uma ata de retificação, de conformidade com o estabelecido na mencionada Resolução.
+
+SEGUNDO. – Que esse erro consiste em que o produto negociado pelo Governo da República Argentina denominado “Ervilhas secas” está classificado no item 07.04.0.99 da NALADI, sendo que corresponde ao item 07.05.1.09 por se tratar de legumes de vagem, secos, compreendidos especificamente no mencionado item.
+
+TERCEIRO. – Que tendo comunicado à Representação Permanente da República Federativa do Brasil, através da nota no. SG/297/89, de 24 de fevereiro de 1989, o pedido da Representação Permanente, foi lhe dado um prazo de três dias úteis para a apresentação das objeções que considere pertinentes.
+
+QUARTO. – Que transcorrido o mencionado prazo e não tendo recebido objeção alguma, esta Secretaria-Geral procedeu a:
+
+1\) Corrigir e rubricar na página 43 do texto original do Acordo, no Anexo II, “Lista Comum de Bens Alimentícios Industrializados”, o produto “Ervilhas”, incluído no item 07.04.0.99, tanto entre as exceções indicadas para os demais legumes e hortaliças “secos” , como na quota anual de US$ 500.000 destinada a esse produto.
+
+2\) Acrescentar e rubricar na página 43 do texto original do Acordo, no Anexo II, “Lista Comum de Bens Alimentícios Industrializados”, a posição 07.05 “GRÃOS DE LEGUMINOSAS, SECOS, DEBULHADOS, MESMO DESCORTICADOS OU PARTIDOS” a subposição 07.05.1 “Grãos de leguminosas, secos, debulhados, mesmo descortiçados ou partidos, o Grupo 00 “Ervilhas”, o item 07.05.1.09 “As demais ervilhas”, bem como na coluna “Observações” registrar a “Quota anual de 500.000 dólares, negociada”.
+
+3\) Acrescentar e rubricar na página 14 do texto original do Acordo, no Anexo I, “Universo de Bens Alimentícios Industrializados”, a Posição 07, 05 “GRÃOS DE LEGUMINOSAS SECOS, DEBULHADOS, MESMO DESCORTICADOS OU PARTIDOS” e seu correspondente item NALADI 07.05.1.09 “As demais ervilhas”.
+
+E, para que conste, esta Secretaria-Geral lavra a presente Ata de Retificação no lugar e data indicados, nos correspondentes idiomas português e espanhol, sendo ambos os textos igualmente válidos.

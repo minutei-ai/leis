@@ -1,0 +1,35 @@
+1
+
+###DEC-099105-0-000-09-03-1990@@@
+
+DECRETO N° 99.105, DE 9 DE MARÇO DE 1990
+
+Cria, no Estado do Amazonas, a Flo­resta Nacional Cubaté com os limites que especifica e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere os Artigos 84, inciso IV, e 225, § 1°, inciso III, da Constituição Federal e nos termos do Artigo 5°, alínea “b” da Lei n° 4.771, de 15 de setembro de 1965,
+
+DECRETA:
+
+Art. 1° Fica criada, no Estado do Amazonas, a Flores­ta Nacional FLONA Cubaté, com área de 416.532,1742 hectares e o perímetro de 321.974,26 metros, compreendida dentro dos seguintes limites: Norte: do ponto digitalizado PD‑1, de coordenadas geográficas latitude N 00°59'00,996" e longitude W 69°01'10,960" localizado na cabeceira do Igarapé Iauiari, segue‑se por uma linha seca reta de azimute verdadeiro 41°10'43,117", ao longo de uma distância de 5.118,79m, até o ponto digitalizado PD‑2, de coordenadas geográficas latitude N 01°O1'06,478" e longitude W 68°59'21,907", na cabeceira do Igarapé Miriti, segue‑se por este a jusante, ao longo de uma distância de 27.653,84m, até o ponto digitalizado PD‑2A, de coordenadas geográficas latitude N 01°11'37,103" e longitude W 68°50'49,545", onde conflui um igarapé sem denominação; segue‑se por este a montante, ao longo de uma distância de 5.272,10m, até o ponto digitalizado PD‑3, de coordenadas geográficas latitude N 01°09'23,515" e longitude W 68°49'14,164", onde conflui um igarapé sem denominação; segue‑se por este a montante, ao longo de uma distância de 5.677,00m, até o ponto digitalizado PD‑4, de coordenadas geográficas latitude N 01°10'07,849" e longitude W 68°46'45,214", na sua cabeceira; do ponto digitalizado PD‑4, segue‑se por uma linha seca reta de azimute verdadeiro 103°46'16,305", ao longo de uma distância de 2.445,28m, até o ponto digitalizado PD‑5, de coordenadas geográficas latitude N 01°09'48,891" e longitude W 68°45'28,363", na cabeceira do Igara­pé Camarão; segue‑se por este a jusante, ao longo de uma distância de 10.691,37m, até o ponto digitalizado PD‑6, de coordenadas geográficas latitude N 01°13'44,122" e longitude W 68°42'46,449", onde conflui um igarapé sem denominação; segue‑se por este a montante, ao longo de uma distância de 5.222,58m, até o ponto digitalizado PD‑7, de coordenadas geográficas latitude N 01°14'52,860" e longitude W 68°40'29,270", na sua cabeceira; do ponto digitalizado PD‑7, segue‑se por uma linha seca reta de azi­mute verdadeiro 80°14'40,220", ao longo de uma distância de 5.601,82m, até o ponto digitalizado PD‑8, de coordenadas geográ­ficas latitude N 01°15'23,773" e longitude W 68°37'30,620", na confluência de um igarapé sem denominação com o igarapé Ingá. LESTE: do ponto digitalizado PD‑8, segue‑se por uma linha seca reta de azimute verdadeiro 209°04'48,705", ao longo de uma distância de 8.215,49m, até o ponto digitalizado PD‑9, de coor­denadas geográficas latitude N 01°11'29,928" e longitude W 68°39'39,828", na cabeceira de um igarapé sem denominação; segue‑se por este a jusante, ao longo de uma distância de 47.548,67m, até o ponto digitalizado PD‑10, de coordenadas geo­gráficas latitude N 00°52'45,808" e longitude W 68°26'29,268", na confluência com o Rio Cubaté; do ponto digitalizado PD‑10, segue‑se por uma linha seca reta de azimute verdadeiro 201°027'32,891", ao longo de uma distância de 70.497,71m, até o Ponto SAT 20138‑AM, de coordenadas geográficas latitude N 00°17'07,141" e longitude W 68°40'24,310", na margem direita do Rio Uaupés situado na confluência do Igarapé Jararaca com o Rio Uaupés. Sul: do Ponto SAT 20138‑AM, segue‑se a montate pelo Rio Uaupés, ao longo de uma distância de 50.859,19m, até o ponto digitalizado PD‑11, de coordenadas geográficas latitude N 00°27'15,571" e longitude W 68°58'11,684", onde conflui um igara­pé sem denominação. Oeste: do ponto digitalizado PD‑11, segue­se a montante pelo igarapé sem denominação, ao longo de uma distância de 11.531,21m, até o ponto digitalizado PD‑12, de coor­denadas geográficas latitude N 00°32'14,985" e longitude W 68°58'45,433" na sua cabeceira; do ponto digitalizado PD‑12, segue‑se por uma linha seca reta de azimute verdadeiro 00°46'38,912", ao longo de uma distância de 1.423,43m, até o pon­to digitalizado PD‑13, de coordenadas geográficas latitude N 00°33'01,342" e longitude W 68°58'44,808", na cabeceira de um igarapé sem denominação; segue‑se por este a jusante, ao longo de uma distância de 4.900,76m, até o ponto digitalizado PD‑14, de coordenadas geográficas latitude N 00°34'03,663" e longitude W 68°56'33,302", na confluência com o Igarapé Tamanduá; segue‑se por este a montante, ao longo de uma distância de 18.232,72m, até o ponto digitalizado DP‑15, de coordenadas geográficas latitude N 00°41'37,835" e longitude W 68°57'47,098", na sua cabecei­ra; do ponto digitalizado PD‑15, segue‑se por uma linha seca re­ta de azimute verdadeiro 01°43'04,591", ao longo de uma distância de 6.674,43m, até o ponto digitalizado PD‑16, de coordenadas geográficas latitude N 00°45'15,125" e longitude W 68°57'40,624", na cabeceira de um igarapé sem denominação; segue‑se por este a jusante, ao longo de uma distância de 8.389,52m, até o ponto digitalizado PD‑17, de coordenadas geográficas latitude N 00°48'33,381" e longitude W 68°57'02,301", na confluência com o Igarapé Iauiari; segue‑se por este a montante ao longo de uma distância de 3.166,63m, até o Ponto SAT‑20137‑AM, de coordenadas geográficas latitude N 00°49'02,504" e longitude W 68°58'12,028" na confluência com um igarapé sem denominação; do Ponto SAT 20137‑AM, segue‑se a montante pelo Igarapé Iauiari, ao longo de uma distância de 22.851,72m, até o ponto di­gitalizado PD‑1, início da presente descrição.
+
+§ 1° Esta FLONA defronta‑se com as Áreas Indígenas Içana‑Aiari e Yauarete I, cujos limites foram homologados pelos Decre­tos n°s 99.098 e 99.095, de 09 de março de 1990, as quais se excluem desta Flona.
+
+§ 2° A Flona Cubaté tem a finalidade precípua de conservação da fauna e da flora, bem como o fim social de se constituir em um espaço adicional capaz de amortecer o choque oriundo das diferenças culturais existentes na região, conforme o Código Florestal instituído pela Lei n° 3.771, de 15 de setembro de 1965.
+
+Art. 2° A Flona Cubaté será administrada pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis IBAMA autarquia vinculada ao Ministério do Interior.
+
+Parágrafo único. Fica assegurado às comunidades da área indígena Yauarete I o uso preferencial dos recursos naturais des­ta FLONA, vedado o ingresso, trânsito ou permanência de tercei­ros ou o exercício de qualquer atividade, sem prévia autorização da Fundação Nacional do Índio FUNAI e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis IBAMA.
+
+Art. 3° Este Decreto entra em vigor na data de sua publicação.
+
+Art. 4° Ficam revogadas as disposições em contrário.
+
+Brasília, 9 de março de 1990; 169° da Independência e 102° da República.
+
+JOSÉ SARNEY
+
+Iris Rezende Machado
+
+João Alves Filho
+
+Rubens Bayma Denys

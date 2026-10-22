@@ -1,0 +1,43 @@
+1
+
+###DEC-098440-0-000-23-11-1989@@@
+
+DECRETO Nº 98.440, DE 23 DE NOVEMBRO DE 1989
+
+Cria, no Estado do Amazonas, as Florestas Nacionais Pari-Cachoeira I e Pari-Cachoeira II, com os limites que especifica, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere os artigos 84, inciso IV, e 225, § 1º, inciso III, da Constituição Federal e nos termos do artigo 5º, alínea “b”, da Lei nº 4 771, de 15 de setembro de 1965,
+
+DECRETA:
+
+Art. 1º Ficam criadas, no Estado do Amazonas, as Florestas Nacionais  FLONA  Pari-Cachoeira I e Pari-Cachoeira II, com áreas estimadas em, respectivamente, 18.000 (dezoito mil) hectares e 654.000 (seiscentos e cinqüenta e quatro mil) hectares compreendidas dentro dos seguintes perímetros:
+
+a. Flona Pari-Cachoeira I
+
+NORTE - Partindo do Ponto SAT-01 de coordenadas geográficas 00°26'56,537"N e 70°02'39,593"WGr., localizado na linha de fronteira Brasil/Colômbia, segue por linha reta, com o azimute e distância de 74°34'16,22" e 8.754,868 metros, até o Ponto PT-01A de coordenadas geográficas 00°28'12,425"N e 69°58'06,606"WGr. LESTE - Do ponto antes descrito, segue por linha reta, com azimute e distância de 178°49'57,27" e 4.550,707 metros, até o Ponto SAT-13A de coordenadas geográficas 00°25'44,260"N e 69°58'03,587"WGr., localizado na cabeceira do Igarapé Umari do Norte; daí segue por este, a jusante, por uma extensão de 18.767,78 metros, até o Ponto SAT-12A de coordenadas geográficas 00°16'12,202"N e 69°58'15,640"WGr., localizado na margem esquerda do Igarapé Umari do Norte. SUL - Do ponto antes descrito, segue por linha reta, com o azimute e distância de 273°44'15,94" e 8.340,258 metros, até o Ponto SAT-11A de coordenadas geográficas 00°16'29,885"N e 70°02'44,854"WGr., localizado na linha de fronteira Brasil/Colômbia. OESTE - Do ponto antes descrito, segue pela citada linha, sentido Norte, com a distância de 19.243,949 metros, até o Ponto SAT-01, inicial da presente descrição perimétrica.
+
+b. Flona Pari-Cachoeira II
+
+NORTE: Partindo do Ponto PT-10A de coordenadas geográficas 00°06'43,141"N e 70°02'44,819"WGr., localizado na linha de Fronteira Brasil/Colômbia, segue por linha reta, com azimute e distância de 94°22'00,72" e 2.369,729 metros, até o Ponto SAT-09A de coordenadas geográficas 00°06'37,268"N e 70°01'28,387"WGr., localizado na cabeceira do Igarapé Castanha; daí, segue por este, a jusante, por uma extensão de 3.166,31 metros, até o Ponto SAT-08A de coordenadas geográficas 00°06'27,168"N e 69°59'55,478"WGr., localizado na margem direita do citado igarapé; daí, segue por linha reta, com o azimute e distância de 181°13'55,76" e 11.704,325 metros, até o Ponto SAT-07A de coordenadas geográficas 00°00'06,102"N e 70°00'03,613"WGr., daí, segue por linha reta com o azimute e distância de 89°02'20,06" e 55.843,939 metros, até o Ponto SAT-06A de coordenadas geográficas 00°00'36,610"N e 69°29'57,356"WGr., localizado na margem esquerda do Igarapé Samaúma; daí, segue por este a jusante, por uma extensão de 32.876,79 metros, até o Ponto PT-05A de coordenadas geográficas 00°09'14,988"N e 69°18'29,517"WGr., localizado na confluência com o Rio Tiquié; daí, segue por este, a jusante, por uma extensão de 4.358,52 metros, até o Ponto PT-04A de coordenadas geográficas 00°09'58,795"N e 69°17'42,445"WGr., localizado na foz de um igarapé sem denominação; daí, segue por este a montante, por uma extensão de 19.746,33 metros, até o Ponto SAT-03A de coordenadas geográficas 00°19'09,256"N e 69°19'33,295"WGr., localizado na cabeceira do citado igarapé; daí, segue por linha reta, com azimute e distância de 00°57'47,37" e 4.192,866 metros, até o Ponto PT-02A de coordenadas geográficas 00°21'25,797"N e 69°19'31,019"WGr.; daí, segue por linha reta, com o azimute e distância de 102°00'57,46" e 13.778.916 metros, até o Ponto SAT-05 de coordenadas geográficas 00°19'52,381"N e 69°12'15,003"WGr., localizado na margem esquerda do Igarapé Jaci; daí, segue por linha reta com o azimute e distância de 104°30'49,14" e 32.200,023 metros, até o Ponto SAT-06 de coordenadas geográficas 00°15'29,557"N e 68°55'26,493"WGr., localizado a 300 metros aproximados da margem esquerda do Igarapé Cigarra; daí, segue por uma linha reta, com o azimute e distância de 121°33'30,72" e 20.207,201 metros, até o Ponto SAT-07 de coordenadas geográficas 00°09'45,096"N e 68°46'09,433"WGr., localizado na cabeceira do Igarapé Uainambi. LESTE: Do ponto antes descrito, segue por linha reta com o azimute e distância de 271°29'18,42" e 50.072,796 metros até o Ponto SAT-02B de coordenadas geográficas 00°10'27,459"N e 69°13'08,853"WGr., localizado na confluência do Igarapé Guaratu com o Rio Tiquié; daí, segue por este, a montante, por uma extensão de 7.574,89 metros, até o Ponto PT-01B de coordenadas geográficas 00°10'50,992"N e 69°14'59,915"WGr., localizado na foz de um igarapé sem denominação; daí, segue por linha reta, com o azimute e distância de 183°29'37,92" e 19.900,058 metros, até o Ponto SAT-08B de coordenadas geográficas 00°00'04,054"N e 69°15'39,145"WGr.; daí, segue por linha reta, com o azimute e distância de 89°43'14,86" e 27.312,747 metros, até o Ponto SAT-07B de coordenadas geográficas 00°00'08,389"N e 69°00'55,532"WGr.; daí, segue por linha reta, com o azimute e distância de 184°52'55,95" e 11.012.466 metros, até o Ponto SAT-06B de coordenadas geográficas 00°05'48,988"S e 69°01'25,854"WGr.; daí, segue por linha reta, com o azimute e distância de 89°41'12,78" e 46.288,400 metros, até o Ponto SAT-05B de coordenadas geográficas 00°05'40,741"S e 68°36'28,355"WGr., localizado na margem esquerda do Igarapé Ira. SUL: Do ponto antes descrito, segue pelo citado igarapé, a montante, margem esquerda, por uma extensão de 168.751,33 metros, até o Ponto PT-10 de coordenadas geográficas 00°15'25,145"S e 69°17'44,716"WGr., localizado na foz do Igarapé Pedra Branca; daí, segue por este, a montante, margem esquerda, por uma extensão de 16.421,96 metros, até o Ponto SAT-11 de coordenadas geográficas 00°21'07,103"S e 69°20'10,028"WGr., localizado na junção de dois braços formadores do citado igarapé; daí, segue por linha reta, com o azimute e distância de 240°38'11,02" e 22.894,559 metros, até o Ponto SAT-12 de coordenadas geográficas 00°27'12,703"S e 69°30'55,574"WGr., localizado na junção de dois braços formadores do Igarapé Abiu; daí, segue por este, a jusante, margem direita, por uma extensão de 9.021,87 metros, até o Ponto PT-13 de coordenadas geográficas 00°28'11,937"S e 69°34'25,559"WGr., localizado na confluência com o Igarapé Castanho; daí; segue por este, a jusante, margem direita, por uma extensão de 19.704,66 metros, até o Ponto PT-14 de coordenadas geográficas 00°34'10,021"S e 69°35'37,251"WGr., localizado na confluência com o Rio Traíra; daí, segue por este, a montante, margem esquerda, por uma extensão de 118.231,35 metros, fronteira Brasil/Colômbia, até o Ponto PT-15 de coordenadas geográficas 00°06'33,363"S e 70°02'48,782"WGr., localizado na cabeceira do citado rio. OESTE: Do ponto antes descrito, segue pela linha de fronteira Brasil/Colômbia, com o azimute e distância de 00°17'13,530" e 24.338,485 metros, até o Ponto PT-10A, início da presente descrição perimétrica.
+
+§ 1º As áreas acima descritas defrontam-se com as Áreas Indígenas Pari-Cachoeira I, Pari-Cachoeira II e Pari-Cachoeira III, delimitadas pela Portaria Interministerial nº 088/89, de 20 de novembro de 1989, as quais se excluem das FLONA Pari-Cachoeira I e Pari-Cachoeira II.
+
+§ 2º AS FLONA Pari-Cachoeira I e Pari-Cachoeira II, têm a finalidade precípua de conservação da fauna e da flora, bem como o fim social de se constituírem em espaços adicionais capazes de amortecer o choque oriundo das diferenças culturais existentes na região, conforme o Código Florestal, instituído pela Lei nº 4.771, de 15 de setembro de 1965.
+
+Art. 2º AS FLONA Pari-Cachoeira I e Pari-Cachoeira II serão administradas pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, autarquia vinculada ao Ministério do Interior.
+
+Parágrafo único. Fica assegurado às comunidades indígenas das colônias especificadas no § 1º do artigo 1° deste Decreto o uso preferencial dos recursos naturais destas FLONA, vedado o ingresso, trânsito ou permanência de terceiros ou o exercício de qualquer atividade, sem prévia autorização da Fundação Nacional do Índio - FUNAI e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA.
+
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 4º Revogam-se as disposições em contrário.
+
+Brasília, em 23 de novembro de 1989; 168º da Independência e 101º da República.
+
+JOSÉ SARNEY
+
+Íris Rezende Machado
+
+João Alves Filho
+
+Rubens Bayma Denys
