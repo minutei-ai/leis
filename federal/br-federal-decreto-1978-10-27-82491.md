@@ -1,0 +1,21 @@
+###DEC-082491-0-000-27-10-1978@@@
+
+Decreto nº. 82 491, de 27 de outubro de 1978
+
+Autoriza o Ministro da Fazenda a conceder garantia a crédito externo a ser contado pela Companhia Siderúrgica de Tubarão-CST.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 81, item III, da Constituição, e na forma do Decreto-lei nº. 1.312, de 15 de fevereiro de 1974,
+
+DECRETA:
+
+Art. 1º - É o Ministro da Fazenda autorizado a conceder, diretamente, a garantia da República Federativa do Brasil, a crédito a ser contratado pela Companhia Siderúrgica de Tubarão-CST com a empresa japonesa Kawasaki Steel Corporation, no valor de até ¥157.557.131.000,00 (cento e cinqüenta e sete bilhões, quinhentos e cinqüenta e sete milhões, cento e trinta e um mil ienes), de principal, e com a empresa italiana Italimpianti - Societá Italiana Impianti p.Az., no valor de US$ 706,086,000.00 (setecentos e seis milhões e oitenta e seis mil dólares norte-americanos), de principal, para aquisição de equipamentos, materiais e serviços para executar projeto siderúrgico em Tubarão, Espírito Santo, dispensada a prestação de contragarantias.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, em 27 de outubro de 1978; 157º da Independência e 90º da República.
+
+ERNESTO GEISEL
+
+Mário Henrique Simonsen
+
+João Paulo dos Reis Velloso

@@ -1,0 +1,19 @@
+###DEC-082384-0-000-05-10-1978@@@
+
+Decreto nº 82.384, de 05 de outubro de 1978.
+
+Autoriza a conversão do curso de Matemática em curso de Ciências da Faculdade de Educação, Ciências e Letras de Mogi Mirim, com sede na Cidade de Mogi Mirim, Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, de acordo com o artigo 47 da Lei nº 5.540, de 28 de novembro de 1968, alterado pelo Decreto-lei nº 842, de 9 de setembro de 1969, e tendo em vista o Parecer do Conselho Federal de Educação nº 2.136/78, conforme consta do Processo nº 5.700/76-CFE e 218.451/78 do Ministério da Educação e Cultura,
+
+DECRETA:
+
+Art. 1º - Fica autorizada a conversão do curso de Matemática, em regime de autorização, em curso de licenciatura em Ciências, com habilitação em Matemática, ministrado pela Faculdade de Educação, Ciências e Letras de Mogi Mirim, mantida pela Sociedade de Educação Integral e Assistência Social Mogi Mirim, com sede na cidade de Mogi Mirim, Estado de São Paulo.
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, em 05 de outubro de 1978; 157º da Independência e 90º da República.
+
+ERNESTO GEISEL
+
+Euro Brandão

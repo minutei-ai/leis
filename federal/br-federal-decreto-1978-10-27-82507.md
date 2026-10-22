@@ -1,0 +1,23 @@
+###DEC-082507-0-000-27-10-1978@@@
+
+Decreto nº 82 507, de 27 de outubro de 1978.
+
+Retifica a autorização de lavra conferida à Alumínio Minas Gerais S.A. pelo Decreto nº 49.004, de 04 de outubro de 1960.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e nos termos dos artigos 43 e 66, § 2º, do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967, e tendo em vista o que consta do Processo DNPM nº 2.727/57,
+
+DECRETA:
+
+Art. 1º - Fica retificada a autorização de lavra conferida à Alumínio Minas Gerais S.A. pelo Decreto nº 49.004, de 04 de outubro de 1960, cujo artigo 1º passa a vigorar com a seguinte redação:
+
+"Art. 1º - Fica autorizada a Alumínio Minas Gerais S.A. a lavrar bauxita em terrenos de sua propriedade, no lugar denominado Fazenda da Picada, Distrito e Município de Poços de Caldas, Estado de Minas Gerais, numa área de 49,42ha, delimitada por um polígono, que tem um vértice a 286,74m, no rumo verdadeiro de 65º51'SE, da confluência do Córrego Grotão com o Córrego da Serra e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: 140,06m-47º03'SW, 245m-45º05'NW, 345,87m-73º05'NW, 42,87m-80º25'SW, 441,60m-14º34'NE, 453,34m-81º55'NE, 200m-69º25'NE, 405m-65º55'SE, 58,85m-09º55'SW, 435,50m-54ºSW, 276m-24ºSW, 7,14m-80ºSE."
+
+Art. 2º - A presente retificação será transcrita no Livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. (DNPM nº 2.727/57)
+
+Brasília, 27 de outubro de 1978; 157º da Independência e 90º da República.
+
+ERNESTO GEISEL
+
+Ney Webster Araújo

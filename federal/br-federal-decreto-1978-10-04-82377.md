@@ -1,0 +1,19 @@
+###DEC-082377-0-000-04-10-1978@@@
+
+Decreto nº 82 377, de 04 de outubro de 1978.
+
+Autoriza a conversão dos cursos de Música, de Desenho e Plástica, em curso de Educação Artística da Universidade de Caixas do Sul, Estado do Rio  Grande do Sul.
+
+O PRESIDENTE DA REPUBLICA, usando das atribuições que lhe confere o artigo 81, Item III, da Constituição, de acordo com o artigo 47 da Lei nº 5 540, de 28 de novembro de 1968, alterado pelo Decreto-lei nº 842, de 9 de setembro de 1969, e tendo em vista o Parecer do Conselho Federal de Educação nº 4 631/78, conforme consta do Processo nº 2233/78-CFE e 235 271/78 do Ministério da Educação e Cultura,
+
+DECRETA:
+
+Art. 1º Fica autorizada a conversão dos cursos de Licenciatura em Música e Licenciatura  em Desenho e Plástica em regime de reconhecimento, em cursos de Licenciatura em Educação Artística, com habilitações em Artes Plásticas, em Desenho e em Música, ministrada pela Universidade de Caxias do Sul, mantida pela Fundação Universidade de Caxias do Sul, com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, em 04 de outubro de 1978; 157º da Independência e 90º da República.
+
+ERNESTO GEISEL
+
+Euro Brandão

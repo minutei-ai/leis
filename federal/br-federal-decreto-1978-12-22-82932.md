@@ -1,0 +1,21 @@
+###DEC-082932-0-000-22-12-1978@@@
+
+Decreto nº 82 932, de 22 de dezembro de 1978
+
+Cria a Delegacia Regional do Trabalho no Estado de Mato Grosso do Sul.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, itens III e V, da Constituição, e tendo em vista o disposto no artigo 24 do Decreto nº 81.663, de 16 de maio de 1978,
+
+Decreta:
+
+Art. 1º - É criada a Delegacia Regional do Trabalho no Estado do Mato Grosso do Sul, com sede na cidade de Campo Grande, e jurisdição sobre a área do mencionado Estado.
+
+Art. 2º - A organização e a competência da Unidade de que trata o artigo anterior serão estabelecidas em Regimento Interno, a ser aprovado pelo Ministro de Estado do Trabalho, nos termos da legislação em vigor.
+
+Art.3º - Este Decreto entra em vigor a 1º de janeiro de 1979, revogadas as disposições em contrário.
+
+Brasília, em 22 de dezembro de 1978; 157º da Independência e 90º da República.
+
+Ernesto Geisel
+
+Arnaldo Prieto

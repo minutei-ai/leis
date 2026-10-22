@@ -1,0 +1,29 @@
+###DEC-081755-0-000-05-06-1978@@@
+
+Decreto nº 81.755, de 05 de junho de 1978.
+
+Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Jardinópolis, da companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, tendo em vista o disposto no artigo 151, letra "b", do Código de Águas e no Decreto-lei nº 3 365, de 21 de junho de 1941, e o que consta do Processo MME nº 704 100/77,
+
+DECRETA:
+
+Art. 1º - Fica declarada de utilidade pública, para fins de desapropriação, área de terra de propriedade particular, com o total de 7.459,20m² (sete mil, quatrocentos e cinqüenta e nove metros quadrados e vinte decímetros quadrados), necessária à implantação da subestação de Jardinópolis, no Município de Jardinópolis, Estado de São Paulo.
+
+Art. 2º - A área de terra, referida no artigo anterior, compreende aquela constante da planta de situação nº BX-SK-53322, aprovada por ato do Diretor da Divisão de Concessão de Águas e Eletricidade, do Departamento Nacional de Águas e Energia Elétrica, no Processo MME nº 704.100/77, e assim descrita:
+
+\- área de terra, sem benfeitorias, com 7.459,20m² (sete mil, quatrocentos e cinqüenta e nove metros quadrados e vinte decímetros quadrados) assim configurada:
+
+\- tem início no marco nº 1, cravado na esquina do prolongamento da Rua Joaquim Araújo com a futura Avenida; deste marco, segue com o rumo e distância NW 43º48' - 91,27m (noventa e um metros e vinte e sete centímetros) margeando a futura Avenida até o marco nº 2; neste ponto, deflete à direita, formando um ângulo interno de 98º12', e segue com o rumo e distância NE 38º00' - 80,83m (oitenta metros e oitenta e três centímetros) margeando as terras da desaproprianda até o marco nº 3; neste ponto, deflete à direita, formando um ângulo interno de 81º48', e segue com o rumo e distância SE 43º48' - 95,21m (noventa e cinco metros e vinte e um centímetros) margeando, ainda, as terras da desapropriada até o marco nº 4; neste ponto, deflete à direita, formando um ângulo interno de 95º25, e segue com o rumo e distância SW 40º47' - 80,36m (oitenta metros e trinta e seis centímetros) margeando o prolongamento da Rua Joaquim Araújo até o marco nº 1 onde teve início esta descrição, formando um ângulo interno de 84º35'.
+
+Art. 3º - Fica autorizada a Companhia Paulista de Força e Luz-CPFL a promover a desapropriação da referida área de terra na forma da legislação vigente, com os recursos próprios.
+
+Parágrafo único - Nos termos do artigo 15 de Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, fica a expropriante autorizada a invocar o caráter de urgência no processo de desapropriação, para fins de imissão de posse da área de terra abrangida por este Decreto.
+
+Art. 4º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 05 de junho de 1978; 157º da Independência e 90º da República.
+
+Ernesto Geisel
+
+Shigeaki Ueki

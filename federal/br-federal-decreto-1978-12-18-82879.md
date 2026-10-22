@@ -1,0 +1,21 @@
+###DEC-082879-0-000-18-12-1978@@@
+
+DECRETO Nº 82.879, DE 18 DE SETEMBRO DE 1978
+
+Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Porto Alegre, Estado do Rio Grande do Sul.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição e tendo em vista o disposto no artigo 2º, item I, da Lei nº 5.972, de 11 de dezembro de 1973, alterada pela Lei nº 6.282, de 9 de dezembro de 1975,
+
+decreta:
+
+Art. 1º - Fica autorizado o registro, em nome da União Federal, do imóvel, constituído por terreno e benfeitorias, mantido em sua posse, nos últimos 20 (vinte) anos, sem qualquer contestação ou reclamação administrativa, feita por terceiros, situado entre as Ruas dos Andradas, general Portinho e Sete de Setembro, no Município de Porto Alegre, Estado do Rio Grande do Sul, com as seguintes dimensões e confrontações: terreno com a forma de retângulo regular, medindo, na frente e nos fundos, 42,60m (quarenta e dois metros e sessenta centímetros), azimute verdadeiro de 250º34' e, nos lados direito e esquerdo, 73,00m (setenta e três metros), com a área total de 3.109,80m2 (três mil, cento e nove metros quadrados e oitenta decímetros quadrados), confrontando, ao norte, com a Rua Sete de Setembro; a leste, com terreno ocupado pelo Ministério do Exército; ao sul, com a Rua dos Andradas e, a oeste, com a Rua General Portinho, de acordo com os elementos constantes do processo protocolizado no Ministério da Fazenda, sob o nº 0768-52 420, de 1973.
+
+Art. 2º - O imóvel referido no artigo 1º deste Decreto pertence à Circunscrição Judiciária do Cartório do 1º Ofício do Registro de Imóvel da Comarca de Porto Alegre, Estado do Rio Grande do Sul.
+
+Art. 3º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 18 de dezembro de 1978; 157º da Independência e 90º da República.
+
+ernesto geisel
+
+Mário Henrique Simonsen

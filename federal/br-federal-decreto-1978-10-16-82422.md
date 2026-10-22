@@ -1,0 +1,21 @@
+###DEC-082422-0-000-16-10-1978@@@
+
+Decreto n.º 82 422, de 16 de outubro de 1978
+
+Concede à Indumar Comercial e Industrial S.A. o direito de lavrar dolomita no Município de Ouro Preto, Estado de Minas Gerais.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e nos termos do artigo 43 do Decreto-lei n.º 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei n.º 318, de 14 de março de 1967,
+
+DECRETA:
+
+Art. 1º - Fica outorgada à Indumar Comercial e Industrial S.A. concessão para lavrar dolomita em terrenos de propriedade de Manoel Xavier da Costa e Bartolomeu Xavier da Costa, no lugar denominado Bocaína, Distrito de Cachoeira do Campo, Município de Ouro Preto, Estado de Minas Gerais, numa área de 4,8120ha, delimitada por um polígono, que tem um vértice a 48m, no rumo verdadeiro de 33ºNE, da confluência do Córrego Arcoverde, com o Ribeirão Morais, e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: 58m-E, 20m-N, 130m-E, 30m-N, 125m-E, 125m-S, 135m-W, 30m-S, 55m-W, 40m-S, 55m-W, 35m-S, 55m-W, 35m-S, 40m-W, 100m-N, 27m-E, 115m-N.
+
+Art. 2º - A concessão de que trata este Decreto é outorgada mediante as condições constantes do Código de Mineração e seu Regulamento, aprovado pelo Decreto n.º 62.934, de 02 de julho de 1968.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação (DNPM n.º 14.257/67).
+
+Brasília, 16 de outubro de 1978; 157º da Independência e 90º da República.
+
+ERNESTO GEISEL
+
+Shigeaki Ueki

@@ -1,0 +1,23 @@
+###DEC-082867-0-000-18-12-1978@@@
+
+Decreto nº 82 867, de 18 de dezembro de 1978
+
+Retifica a concessão de lavra outorgada à GOLAGE - Extração de Lages Ltda. pelo Decreto nº 81 947, de 11 de julho de 1978.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e nos termos dos artigos 43 e 66, § 2º, do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967, e tendo em vista o que consta do processo DNPM nº 800 745/69,
+
+DECRETA:
+
+Art. 1º - Fica retificada a concessão de lavra outorgada à GOLAGE - Extração de Lages Ltda. pelo Decreto nº 81 947, de 11 de julho de 1978, cujo artigo 1º passa a vigorar com a seguinte redação:
+
+"Art. 1º - Fica outorgada à GOLAGE - Extração de Lages Ltda. concessão para lavrar quartzito e ritmito em terrenos de sua propriedade, no lugar denominado Fazenda do Capão Grande, Distrito e Município de Cristalina, Estado de Goiás, numa área de 261,92ha, delimitada por um polígono, que tem um vértice a 2 850m, no rumo verdadeiro de 37º52'NW, do centro da ponte sobre o Ribeirão Arrojado na BR-040 e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: 190m-E, 190m-N, 220m-E, 220m-N, 270m-E, 2 210 - N, 1 130m-W, 1 990m - S, 160m - E, 220m-S, 150m-E, 220m-S, 140m-E, 190m-S."
+
+Art. 2º - A presente retificação será transcrita no Livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação. (DNPM nº 800 745/69)
+
+Brasília, 18 de dezembro de 1978; 157º da Independência e 90º da República.
+
+Ernesto Geisel
+
+Shigeaki Ueki
