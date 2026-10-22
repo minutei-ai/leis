@@ -1,0 +1,27 @@
+###DEC-086460-0-000-09-10-1981@@@
+
+decreto nº 86.460, de 09 de outubro de 1981.
+
+Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação Transformadora de Distribuição Mandaqui da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.
+
+O VICE-PRESIDENTE DA REPÚBLICA, no exercido cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, tendo em vista o disposto no artigo 151, letra "b", do Decreto nº 24.643, de 10 de julho de 1934, e no artigo 5º, letra "f", do Decreto-lei nº 3.365, de 20 de junho de 1941, o que consta do Processo MME nº 746.702/80,
+
+DECRETA:
+
+Art. 1º - Fica declarada de utilidade pública, para fins de desapropriação, a área de terra de propriedade particular, com o total de 4.055,23 m2 (quatro mil, cinqüenta e cinco metros quadrados e vinte e três decímetros quadrados), necessária à implantação da Estação Transformadora de Distribuição Mandaqui, no Município de São Paulo, Estado de São Paulo.
+
+Art. 2º - A área de terra, referida no artigo anterior, compreende aquela constante da planta de situação nº 430.914, aprovada por ato do Diretor da Divisão de Concessão de Águas e Eletricidade, do Departamento Nacional de Águas e Energia Elétrica, no Processo MME nº 746.702/80, e assim descrita:
+
+\- tem início no ponto D, interseção da lateral sul da faixa da L.T. Ramal Ponte Preta-Vila Medeiros e lateral sul da estrada da Conceição; daí segue em direção sudeste, pela lateral sul da estrada da Conceição, com o rumo S 81º42'46" E, na distância de 12,42 metros, até encontrar o ponto E; deflete a esquerda e segue em direção leste, ainda pela mesma lateral da estrada acima mencionada com o rumo S 89º50'17" E, na distância de 24,77 metros, até encontrar o ponto F, confrontando até aqui com o leito carroçável da estrada da Conceição; deflete à direita e segue na direção Sul, com o rumo S 01º19'45" W, na distância de 21,99 metros, até encontrar o ponto G, confrontando com propriedade de Artur Moreira de Campos; deflete à direita e segue na direção sudoeste, com o rumo S 34º51'16" W, na distância de 6,82 metros, até atingir o ponto H, confrontando em maior parte com as propriedades de José Coutinho, e em menor parte com Cacilda de Oliveira; deflete à esquerda e segue na direção sudoeste, com o rumo S 17º00'00" W, na distância de 8,21 metros, até encontrar o ponto I, confrontando em menor parte, com propriedade de Cacilda de Oliveira e em parte maior com propriedade de Zilto A de Faria; deflete à esquerda e segue em direção sudeste, com o rumo S 63º07'06" E, na distância de 20,24 metros, até encontrar o ponto J, localizado na lateral norte - da rua Joaquina Ramalho, confrontando com propriedade de Zilto A. de Faria; deflete à direita e segue em direção sudoeste pela lateral norte da rua acima mencionada, com o rumo S 26º28'09" W, na distância - de 26,70 metros, confrontando com o leito carroçável da rua Joaquina Ramalho; deflete à esquerda de segue na direção noroeste, com o rumo S 75º00'32" W, na distância de 49,48 metros, até encontrar o ponto L, confrontando com propriedade de Ercilia Foresti, José Fernandes Oliveira, Manoel Moreira, José Serafim Moreira e Francisco Moreira Gonçalves; deflete à direita e segue na direção nordeste, com o rumo N 25º42'36" E, na distância de 1,50 metros até encontrar o ponto M, confrontando com propriedade de Antonio Rio Basso; deflete à esquerda e segue na direção nordeste com o rumo N 9º07'22" E, na distância de 6,94 metros, até encontrar o ponto N, confrontando com propriedade de Antonio Rio Basso; deflete à esquerda e segue em direção noroeste, com o rumo N 71º56'22" W, na distância de 14,52 metros, até atingir o ponto O, confrontando com propriedades de Antonio Rio Basso e João Sanches Bartolote; deflete à esquerda e segue em direção noroeste, com o rumo N 75º24'56" W, na distância de 16,48 metros, até atingir o ponto P, confrontando com propriedade de Antonio Pires e Geralda Araújo Portella; deflete à esquerda e segue em direção noroeste com o rumo N 76º22'04" W, na distância de 16,51 metros, até atingir o ponto A, confrontando com propriedades de Ovilio Parladori e Fulgencio Mendes; deflete à direita e segue na direção nordeste, com o rumo N 21º53'45" E, na distância de 2,25 metros até atingir o ponto B, confrontando com propriedade de Maria Pereira; deflete à esquerda e segue na direção leste, com o rumo N 86º35'26" W, na distância de 2,35 metros, até encontrar o ponto C, localizado na lateral sul da faixa da L.T. Ramal Ponte Preta-Vila Medeiros, confrontando com propriedade de Mario Pereira; deflete à direita e segue na direção - noroeste, com o rumo N 58º44'29" E, pela lateral sul da faixa da L.T. acima mencionada, na distância de 66,62 metros, até o ponto D, onde teve início esta descrição.
+
+Art. 3º - Fica autorizada a LIGHT - Serviços de Eletricidade S.A. a promover, a desapropriação da referida área de terra na forma da legislação vigente, com os recursos próprios.
+
+Parágrafo único - Nos termos do artigo 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, fica a expropriante autorizada a invocar o caráter de urgência no processo de desapropriação, para fins de imissão na posse, da área de terra abrangida por este Decreto.
+
+Art. 4º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 09 de outubro de 1981; 160º da Independência e 93º da República.
+
+AURELIANO CHAVES
+
+Cesar Cals Filho

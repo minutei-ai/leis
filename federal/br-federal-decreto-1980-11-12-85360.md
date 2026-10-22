@@ -1,0 +1,27 @@
+###DEC-085360-0-000-12-11-1980@@@
+
+Decreto nº 85.360, de 12 de novembro de 1980.
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Burro Branco", situado no Município de Campo Erê, no Estado de Santa Catarina, compreendido na área prioritária para fins de reforma agrária, de que tratam os Decretos ns. 69.411, de 22 de outubro de 1971, 78.422, de 15 de setembro de 1976, e 84.969, de 18 de julho de 1980.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe conferem os arts. 81, item III, e 161, §§ 2º e 4º, da Constituição, e nos termos dos arts. 18 e 20 da Lei nº 4.504, de 30 de novembro de 1964, e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º - É declarado de interesse social, para fins de desapropriação, nos termos dos arts. 18, letras "a", "b", "c" e "d", e 20, itens I e V, da Lei nº 4.504, de 30 de novembro 1964, o imóvel rural denominado "Burro Branco", com aproximadamente 2.890 ha, situado no Município de Campo Erê, no Estado de Santa Catarina.
+
+Parágrafo único - O imóvel a que se refere este artigo tem o seguinte perímetro: Parte-se do M-01, situado na margem de uma sanga sem nome, sendo que este marco está situado na divisa das terras de Pedro Damo. Segue-se por esta sanga, com uma distância aproximada de 1.590m, que divide terras da Fazenda Primavera, até encontrar o M-02. Do M-02, segue-se por uma linha seca, que divide terras da Fazenda Primavera, com o rumo aproximado de 26ºNE e uma distância de 460m, até encontrar o M-03. Deste marco, segue-se por uma linha seca, que divide terras da Fazenda Primavera com o rumo aproximado de 42º30'SE e uma distância aproximada de 1.355m, até encontrar o M-04, cravado na margem do arroio Mundo Novo. Do M-04, segue-se o arroio Mundo Novo abaixo, com uma distância aproximada de 7.100m, dividindo terras de Darci José Romam, Massimino Rigon, Ivo Calliari, Benjamin Stefanella, Conrado Teski e Oscar Paludo, até encontrar o M-05, cravado na margem do arroio Mundo Novo. Deste marco, segue-se por uma linha seca, com o rumo aproximado de 51ºSE e uma distância aproximada 1.565m, dividindo terras de Clemente Binsfeld e Argemiro Gomes de Oliveira, até encontrar o M-06. Deste marco, segue-se por outra linha seca, com o rumo aproximado de 09ºSW e uma distância aproximada de 1,660m, dividindo terras de Egon Spier, até encontrar o M-07, cravado na margem de uma sanga sem nome. Deste marco, segue-se pela sanga sem nome, numa distância aproximada de 900m, dividindo terras de Alcides Trevisan, Natalia Pinto, Artemio Dorneles e Reinaldo Dorneles, até encontrar o M-08, cravado na margem da sanga sem nome. Deste marco, segue-se por uma linha seca, com o rumo aproximado de 09º15'SW e uma distância aproximada de 200m, dividindo terras de Reinaldo Dorneles, até encontrar o M-09. Deste marco, segue-se por outra linha seca, com o rumo aproximado de 14º30'SE e uma distância aproximada de 605m, dividindo terras de Reinaldo Dorneles, até encontrar o M-10. Deste marco, segue-se por outra linha seca, com o rumo de 10ºSW e uma distância aproximada de 95m, que divide terras de Artemio Dorneles, até encontrar o M-11. Deste marco, segue-se por outra linha seca, com o rumo de 82º30'NW e uma distância aproximada de 955m, que divide terras do imóvel Mundo Novo, até encontrar o M-12. Deste marco, segue-se outra linha seca, que atravessa uma sanga sem nome e o rio Mundo Novo, com o rumo de 57º30'NW e uma distância aproximada de 5.020m, até encontrar o M-13, cravado na margem do Lajeado Cafundó, sendo que esta linha seca divide terras do imóvel Mundo Novo. A partir do M-13, segue-se o Lajeado Cafundó acima, com uma distância aproximada de 1.450m, até encontrar o M-14, cravado na margem do Lajeado Cafundó, sendo que o mesmo divide terras do imóvel Campo Grande. Deste marco, segue-se por uma linha seca, com o rumo de 86ºNE e uma distância aproximada de 1.390m, até encontrar o M-15, que divide terras de Etelvino Damo. Do M-15, segue-se por outra linha seca, com o rumo de 45º30'NE e uma distância aproximada de 6.020m, até encontrar o M-16, sendo que esta linha divide terras de Etelvino Damo. Do M-16, segue-se por outra linha seca, com o rumo de 18º30'NW e uma distância aproximada de 1.000m, até encontrar o M-01, sendo que esta linha divide terras de Pedro Damo, ponto de partida da descrição deste perímetro.
+
+Art. 2º - Excluem-se dos efeitos deste Decreto:a) os imóveis classificados como empresa rural, nos termos da Lei nº 4.504, de 30 de novembro de 1964, e do art. 2º do Decreto-lei nº 554, de 25 de abril de 1969;b) as benfeitorias, os semoventes, as máquinas e os implementos agrícolas, pertencentes aos ocupantes da área referida no artigo anterior, inclusive a terceiros.
+
+Art. 3º - O Instituto Nacional de Colonização e Reforma Agrária - INCRA fica autorizado a promover a desapropriação do imóvel rural de que trata o presente Decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º - É ressalvado o direito da União de questionar o domínio das terras tituladas irregularmente, observado, sempre, o disposto na Lei nº 4.947, de 6 de abril de 1966, no parágrafo único do art. 13 do Decreto-lei nº 554, de 25 de abril de 1969, e na Lei nº 6.634, de 2 de maio de 1979.
+
+Art. 5º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 12 de novembro de 1980; 159º da Independência e 92º da República.
+
+JOÃO FIGUEIREDO
+
+Ângelo Amaury Stábile

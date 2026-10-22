@@ -1,0 +1,23 @@
+###DEC-086697-0-000-07-12-1981@@@
+
+Decreto nº 86.697, de 07 de dezembro de 1981
+
+Altera o art. 1º do Decreto nº 84.606, de 31 de março de 1980, que declara de interesse social, para fins de desapropriação, os imóveis rurais que compõem a "Gleba Scatolin", situados no Município de Vila Bela da Santíssima Trindade, no Estado de Mato Grosso, compreendidos na área prioritária de reforma agrária de que trata o Decreto nº 84.605, de 31 de março de 1980.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe conferem os arts. 81, item III, e 161, da Constituição e nos termos dos arts. 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964, e do Decreto-lei nº 554, de 25 de abril de 1969;
+
+DECRETA:
+
+Art. 1º - O art. 1º do Decreto nº 84.606, de 31 de março de 1980, passa a ter a seguinte redação:
+
+"Art. 1º - São declarados de interesse social, para fins de desapropriação, nos termos dos art. 18, letras "a", "b", "c" e "d", e 20, itens I e V, da Lei nº 4.504, de 30 de novembro de 1964, os imóveis rurais que compõem a "Gleba Scatolin", de propriedade particular, medindo aproximadamente 35.454 ha (trinta e cinco mil, quatrocentos e cinqüenta e quatro hectares), situados no Município de Vila Bela da Santíssima Trindade, antigo Município de Mato Grosso.
+
+Parágrafo único - Os imóveis, a que se refere este artigo, são contíguos e possuem, em seu todo, o seguinte perímetro: partindo do MP-1, de coordenadas geográficas aproximadas 59º33'44'' WGr e 15º12'30'' S, situado à margem direita do Rio Guaporé, com o rumo aproximado de 31º00' NE e distância aproximada de 12.380m, passando pela Rodovia BR-174 e a Serra da Borda, até encontrar o MP-2, de coordenadas geográficas aproximadas 59º29'43'' WGr e 15º07'10'' S, situado nas fraldas da Serra da Borda; daí, com o rumo aproximado de 10º00' NW e distância aproximada de 4.000m, até encontrar o MP-3, de coordenadas geográficas aproximadas 59º29'56'' WGr e 15º05'00'' S; daí, com rumo aproximado de 78º20' NE e distância aproximada de 7.976m, passando pelo Córrego Carne de Vaca, até encontrar o MP-4, de coordenadas geográficas aproximadas 59º25'35'' WGr e 15º04'30'' S; daí, com o rumo aproximado de 21º00'SW e distância aproximada de 4.000m, até encontrar o MP-5, de coordenadas geográficas aproximadas 59º26'32'' WGr e 15º06'31'' S; daí, com o rumo aproximado de 85º00'' NE e distância aproximada de 7.000m, até encontrar o MP-6, de coordenadas geográficas aproximadas 59º22'45'' WGr e 15º06'28'' S; daí, com o rumo aproximado de 76º40' NE e distância aproximada de 7.460m, até encontrar o MP-7, de coordenadas geográficas aproximadas 59º18'32'' WGr e 15º05'52'' S; daí, com o rumo aproximado de 21º00' SW e distância aproximada de 14.000m, passando pelo Córrego Barreiro e a rodovia BR-174, até encontrar o MP-8, de coordenadas geográficas aproximadas 59º21'43" WGr e 15º12'52'' S, situado à margem direita do Rio Guaporé; daí, com o rumo aproximado de 76º40' SW e distância aproximada de 7.530m, até encontrar o MP-9, de coordenadas geográficas aproximadas 59º26'04'' WGr e 15º13'31'' S, situado na barra do Córrego Cataque no Rio Guaporé, em sua margem direita; daí, com o rumo aproximado 64º00' SE e distância aproximada de 600m, cruzando o Rio Guaporé, até encontrar o MP-10, de coordenadas geográficas aproximadas 59º25'41'' WGr e 15º13'38'' S, situado à margem esquerda do Rio Guaporé, próximo à foz do Rio Cágado no citado rio; daí, com o rumo aproximado de 37º00' SE e distância aproximada de 15.920m, passando pelo Córrego do Cágado, até encontrar o MP-11, de coordenadas geográficas aproximadas 59º19'23'' WGr e 15º20'03'' S, situado próximo às fraldas da Serra do Cágado; daí, com o rumo aproximado de 88º30' NW e distância aproximada de 6.660m, passando pelo Córrego do Cágado, até encontrar o MP-12, de coordenadas geográficas aproximadas 59º23'24'' WGr e 15º19'56'' S; daí, com o rumo aproximado de 38º05' NW e distância aproximada de 16.000m, passando pela Serra da Borda, até encontrar o MP-3, de coordenadas geográficas aproximadas 59º29'33'' WGr e 15º13'51'' S, situado à margem esquerda do Rio Guaporé; daí, com o rumo aproximado 82º00' NW e distância aproximada de 1.100m, cruzando o Rio Guaporé, até encontrar o MP-14, de coordenadas geográficas aproximadas 59º30'10'' WGr e 15º13'48'' S, situado à margem direita do Rio Guaporé; daí, com o rumo aproximado de 84º48' NW e distância aproximada de 6.990m, até encontrar o MP-1, ponto inicial da descrição deste perímetro."
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 07 de dezembro de 1981; 160º da Independência e 93º da República.
+
+JOÃO FIGUEIREDO
+
+Angelo Amaury Stabile
