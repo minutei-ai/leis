@@ -1,0 +1,29 @@
+###DEC-094756-0-000-10-08-1987@@@
+
+DECRETO Nº 94.756, DE 10 DE AGOSTO DE 1987.
+
+Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Chopim", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Mangueirinha, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964, e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º É declarada de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e V, da Lei nº 4.504, de 30 de novembro de 1964, parte do imóvel rural denominado "Fazenda Chopim", com a área de 1.880,5500ha (um mil, oitocentos e oitenta hectares e cinqüenta e cinco ares), situado no Município de Mangueirinha, no Estado do Paraná, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986.
+
+Parágrafo único. O imóvel a que se refere este artigo tem o seguinte perímetro: partindo do marco OPP, de coordenadas geográficas latitude 2608'38"S e longitude 52°24'10"WGr, situado na margem de uma estrada vicinal, no limite com terras da Madeireira Waraschim Ltda., e Imóvel Fazenda Imaribo - área II - Gleba 1, segue pela referida estrada sentido Sudoeste confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 1, com distância de 1.210m, até o marco 28; deste, segue por linha seca e confrontando com o Imóvel Fazenda Imaribo - área II -  Gleba 1, com azimute de 299°50' e distância de 1.041m, até o marco 27, situado na margem do Rio Chinelo; deste, segue à jusante do referido rio e confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 1, com distância de 2.555m, até o marco 26, situado na foz de um córrego; deste, segue à montante do referido córrego e confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 1, com distância de 985m, até o marco 25, situado na margem de uma estrada; deste, segue pela referida estrada no sentido Sudoeste e confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 1.800m, até o marco 24, situado na margem de um córrego; deste, segue à jusante do referido córrego, confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 300m, até o marco 23, situado na foz com o Rio Taió; deste, segue à jusante do referido rio, na distância de 110m, até o marco 22, situado na foz do Rio Chinelo; deste, segue à montante do Rio Chinelo, confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 520m, até o marco 21, situado na confluência com um arroio; deste, segue à montante do referido arroio, na distância de 480m, até o marco 20, situado na margem de uma estrada vicinal; deste, segue pela referida estrada, no sentido Sudoeste e confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 1.860m, até o marco 19; deste, segue por linha seca confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, com azimute de 1755' e distância de 625m, até o marco 18, situado na margem de uma sanga; deste, segue à jusante da referida sanga e confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 310m, até o marco 17, situado na confluência com o Rio Taió; deste, segue por uma estrada vicinal e cruzando o Rio Taió, confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 2.190m, até o marco 16, situado no cruzamento com outra estrada; deste, segue por uma das estradas no sentido Sudoeste, confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 610m, até o marco 15, situado na cabeceira de um córrego; deste, segue à jusante do referido córrego, confrontando com o Imóvel Fazenda Imaribo - área II - Gleba 2, na distância de 1.460m, até o marco 14, situado na desembocadura com o Rio Chopim; deste, segue à jusante do Rio Chopim, confrontando com a Fazenda São Francisco de Salles, na distância de 3.975,10m, até o marco 13, na foz do lageado Panela; deste, segue à montante do lageado Panela, confrontando com terras de Urbano Jacobs, na distância de 318,20m, até o marco 12; deste, segue por linhas secas e confrontando com terras de Urbano Jacobs, com os seguintes azimutes e distâncias: 68°55' e 2.949,30m, até o marco 11; 17°41' e 1.811m, até o marco 10; deste segue por linha seca, confrontando com a Madeireira Waraschim Ltda., com azimute de 104°10' e distância de 5.277,70m, até o marco OPP, ponto inicial da descrição deste perímetro (fonte de referência: Carta Geográfica da DSG, folha SG.22-Y-B-I-1, escala 1:50.000, ano 1979).
+
+Art. 2º Excluem-se dos efeitos deste Decreto: a) os semoventes, as máquinas e os implementos agrícolas; b) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agrária - INCRA, fica autorizado a promover a desapropriação do imóvel rural de que trata o presente Decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º É ressalvado o direito da União de questionar o domínio das terras tituladas irregularmente, observado o disposto na Lei nº 4.947, de 06 de abril de 1966, no parágrafo único do artigo 13 do Decreto-lei nº 554, de 25 de abril de 1969, e na Lei nº 6.634, de 02 de maio de 1979.
+
+Art. 5º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 6º Revogam-se as disposições em contrário.
+
+Brasília, 10 de agosto de 1987; 166º da Independência e 99º da República.
+
+JOSÉ SARNEY
+
+Marcos Freire

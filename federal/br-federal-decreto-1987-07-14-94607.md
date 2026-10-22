@@ -1,0 +1,25 @@
+###DEC-094607-0-000-14-07-1987@@@
+
+DECRETO N° 94.607, DE 14 DE JULHO DE 1987
+
+Declara de ocupação dos indígenas Kaimbé área de terras no Município de Euclides da Cunha, Estado da Bahia, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 81, item III, da Constituição Federal e tendo em vista o disposto nos artigos 2º, inciso V e IX, 19 e 22, da Lei nº 6.001, de 19 de dezembro de 1973,
+
+DECRETA:
+
+Art. 1° Ficam declaradas de ocupação dos índios Kaimbé, para efeito dos artigos 4º, IV, e 198 da Constituição, as terras localizadas no Município de Euclides da Cunha, Estado da Bahia, com a seguinte delimitação: NORTE: Partindo do ponto “1” de coordenadas geográficas aproximadas 10°25'12"S e 38°50'10"WGr, denominado "MARCO MAÇARAMDUBA DO CAMELO", localizado no topo de um outeiro, numa colina de pedras, próximo ao Saco de Ruam (antigo marco dos autos de demarcação), confronta-se neste trecho com as terras de Nelson Vitório e Ari Ferreira de Almeida; daí, segue no rumo nordeste até o ponto “2” de coordenadas geográficas aproximadas 10°24'17"S e 38°48'26"WGr, denominado "MARCO CALUMBI", localizado na antiga estrada que liga a aldeia Ilha às localidades Vargem Grande, Vargem da Fora, Varginha e Rosário, confronta-se neste trecho com Ari Ferreira de Almeida; daí, segue no rumo nordeste até o ponto “3” de coordenadas geográficas aproximadas 10°23'58"S e 38°47'53"WGr, denominado "MARCO CRUZ", localizado na margem da antiga estrada que liga a aldeia Ilha às localidades Massacará, Sicipituba, Bom Jardim e Rosário, confronta-se neste trecho com as terras de Oliveira Brito e a Fazenda Mata Sete; daí, segue no rumo nordeste até o ponto “4” de coordenadas geográficas aproximadas 10°23'48"S e 38°47'06"WGr, denominado "MARCO BANQUINHO", representado por uma árvore de jatobazeiro; daí, segue no rumo nordeste até o ponto “5” de coordenadas geográficas aproximadas 10°23'15"S e 38°45'06"WGr, denominado "JATOBÁ DO PAPAGAIO", localizado próximo à estrada que liga Massacará ao Saco dos Cavalos e Moleques, confronta-se neste trecho com as terras de Pedro Alcantara de Carvalho e Ladislau Gonçalves Teixeira; LESTE: Do ponto antes descrito, segue no rumo sudeste até o ponto “6” de coordenadas geográficas aproximadas 10°24'13"S e 38°44'14"WGr, denominado "Marco da Quixabeira", localizado no caminho da Baixa da Pedra; daí, segue no rumo sudoeste até o ponto “7” de coordenadas geográficas aproximadas 10°24'52"S e 38°44'15"WGr, denominado "Marco Outeiro da Vigia"; daí, segue no rumo sudoeste até o ponto “8” de coordenadas geográficas aproximadas 10°25'43"S 38°44'22"WGr, denominado "MARCO BAMBO BAMBO", localizado próximo à margem direita da estrada que liga as localidades Massacará a Cícero Dantas; daí, segue no rumo sudoeste até o ponto “9” de coordenadas geográficas aproximadas 10°27'22"S e 38°44'36"WGr, denominado "MARCO DA CABECEIRA DA VARGEM", identificado como uma árvore de Sucupira, localizada no topo do morro, confronta-se neste trecho as terras de Pedro Gonzaga, Joca Gama Bittencourt e Olímpio de Tal. SUL: Do ponto antes descrito, segue no rumo sudoeste, passando pelo ponto dos autos da demarcação conhecida como Estrada das Boiadas, até o ponto “10” de coordenadas geográficas aproximadas 10°28'05"S e 38°45'54"WGr, denominado "MARCO DA PEDRA DO OURICURI", localizado na margem esquerda da estrada que liga Massacará a Mirandela (Ribeira do Pombal), confronta-se neste trecho com as terras pretendidas por Osvaldo Alves de Souza, Domiciano Gama Bittencourt, Pedro Fagundes, João Fagundes e Aquino Soares; daí, segue no rumo noroeste até o ponto “11” de coordenadas geográficas aproximadas 10°28'00"S e 38°46'46"WGr, denominado "MARCO DA ESTRADA DO MARIBONDO" localizada na estrada velha de Massacará; daí, segue no rumo noroeste até o ponto “12” de coordenadas geográficas aproximadas 10°27'37"S e 38°47'58"WGr, denominado "MARCO DO PAU POMBO", representado por uma árvore; daí, segue no rumo noroeste até o ponto “13” de coordenadas geográficas aproximadas 10°27'04"S e 38°49'24"WGr, denominado "MARCO DA SERRA DO SOARES", representado por um marco de pedra cravado ao lado de uma árvore de Sucupira, confrontando-se com as terras pretendidas por Saverino Rodrigues de Aquino. OESTE: Do ponto antes descrito, segue no rumo noroeste até o ponto “14” de coordenadas geográficas aproximadas 10°26'04"S e 38°49'49"WGr, denominado "MARCO DO JATOBÁ DO CAMINHO DO CAIMBÉ", localizado na antiga estrada do Caimbé, confronta-se neste trecho com as terras de Messias Vitório, Nelson Vitório e Valdemar de Tal; daí, segue no rumo noroeste até o ponto “1” inicial da descrição.
+
+Parágrafo único. A área descrita neste artigo, denominada Área Indígena Massacará, será demarcada administrativamente pela Fundação Nacional do Índio - FUNAI.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 14 de julho de 1987; 166º da Independência e 99º da República.
+
+JOSÉ SARNEY
+
+Joaquim Francisco de Freitas Cavalcanti
+
+Marcos de Barros Freire

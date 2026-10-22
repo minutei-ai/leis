@@ -1,0 +1,31 @@
+###DEC-096260-0-000-30-06-1988@@@
+
+DECRETO N° 96.260, DE 30 DE JUNHO DE 1988
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA CAVACO”, classificado como “latifúndio por exploração”, situado no Município de Cantagalo, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20 da Lei n° 4.504, de 30 de novembro de 1964, e dos Decretos-Leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987,
+
+DECRETA:
+
+Art. 1.° - E declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e V, da Lei n° 4.504, de 30 de novembro de 1964, o imóvel rural denominado Fazenda Cavaco, com a área de 1.485,2127 ha (um mil, quatrocentos e oitenta e cinco hectares, vinte e um ares e vinte e sete centiares), situado no Município de Cantagalo, no Estado do Paraná, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986.
+
+§ 1.° - O imóvel a que se refere este artigo tem o seguinte perímetro: partindo do marco OPP, de coordenadas geográficas latitude 25°09'03"S e longitude 52°06'10"WGr, situado na foz do arroio Passo do Cavaco com o Rio do Cobre, segue a montante do arroio Passo do Cavaco, na divisa com o lote 1, com distância de 1.184m, até o marco 1; deste, segue por linha seca e confrontando com o lote 1, com os seguintes azimutes e distâncias: 130°00' e l.900m até o marco 2; 150°00' e 1.670m até o marco 3; deste, segue a jusante do arroio da Porteira e confrontando com a Fazenda Juquiá, com distância de 1.760m, até o marco 4, situado na confluência com o arroio Passo do Cavaco; deste, segue a montante do arroio Passo do Cavaco e confrontando com a Fazenda Juquiá, com distância de 1.168m, até o marco 5; deste, segue por linha seca e confrontando com o lote 3, com azimute de 295°00' e distância de 890m, até o marco 6; deste, segue por linhas secas e confrontando com o lote 52, com os azimutes e distâncias: 23°30' e 290m até o marco 7; 278°30, e 750m até o marco 8, situado na margem direita de uma sanga; deste, segue a jusante da referida sanga e confrontando com os lotes 45 e 43, com distância de 248m, até o marco 9; deste, segue por linhas secas e confrontando com o lote 48, com os seguintes azimutes e distâncias: 81°30' e 368m até o marco 10; 81°30' e 176m até o marco 11; 23°00' e 208m até o marco 12; 233°30' e 360m até o marco 13, situado na margem direita de uma sanga; deste, segue a jusante da referida sanga e confrontando com o lote 48, com distância de 112m, até o marco 14; deste, segue por linhas secas e confrontando com os lotes 48 e 46, com os seguintes azimutes e distâncias: 304°00' e 144m até o marco 15; 218°30' e 496m até o marco 16; deste, segue por linhas secas e confrontando com o lote 43, com azimute de 308°00' e distância de 336m, até o marco 17, situado na margem de uma estrada; deste, segue pela referida estrada e confrontando com o lote 43, com distância de 512m, até o marco 18; deste, segue por linhas secas e confrontando com o lote 43, com os seguintes azimutes e distâncias: 298°00' e 255m até o marco 19; 219°25' e 384m até o marco 20; deste, segue por linhas secas e confrontando com o lote 41, com azimute de 290°30' e distância de 880m, até o marco 21; deste, segue por linha seca e confrontando com o lote 40, com azimute de 18°23' e distância de 570m, até o marco 22, situado na margem de uma estrada; deste, segue pela referida estrada e confrontando com o lote 40, com distância de 224m, até o marco 23, situado à margem do arroio Cavaco; deste, segue a jusante do referido arroio e confrontando com os lotes 39 e 36, com distância de 1.010m, até o marco 24; deste, segue por linhas secas e confrontando com os lotes 18, 14, 11 e 10, com os seguintes azimutes e distâncias: 3°30' e 1.610m, até o marco 25; 85°20' e 2.635m até o marco 26, situado na margem do arroio da Cruz; deste, segue pelo referido arroio e confrontando com o lote 10, com distância de 384m, até o marco 27, situado na foz com o Rio do Cobre; deste, segue a montante do Rio do Cobre, com distância de 2 208m, até o marco OPP, ponto inicial da descrição deste perímetro (Fonte de referência: Carta Geográfica da DSG, Folha SG.22-V-D-I, Escala 1:100.000, ano 1973).
+
+§ 2° - Do perímetro descrito neste artigo abrangendo a área de 1.488,7400 ha (um mil, quatrocentos e oitenta e oito hectares e setenta e quatro ares), fica excluída dos efeitos deste Decreto a área de 3,5273 ha (três hectares, cinqüenta e dois ares e setenta e três centiares), averbado sob o n° 03-8.441 e matriculado sob o n° 9.709, ficha 01, do Registro Geral de Imóveis - 1° Ofício da Comarca de Guarapuava - PR, restando a área líquida de 1.485,2127 ha (um mil, quatrocentos e oitenta e cinco hectares, vinte e um ares e vinte e sete centiares).
+
+Art. 2° - Excluem-se ainda dos efeitos deste Decreto: a) a área com produção explorada pelo proprietário; b) os semoventes, as máquinas e os implementos agrícolas; c) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3° - E facultado ao proprietário o direito de escolher uma área contínua, correspondente a vinte e cinco por cento do imóvel descrito no artigo 1°, observadas as condições estabelecidas no artigo 5°, incisos V, VI, VII e VIII, do Decreto-Lei n° 2.363, de 21 de outubro de 1987, art. 9°, § 1°, do Decreto n° 95.715, de 10 de fevereiro de 1988.
+
+Art. 4° - O Instituto Jurídico das Terras Rurais - INTER fica autorizado a promover a desapropriação do imóvel rural de que trata o presente Decreto, na forma prevista nos Decretos-Leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987.
+
+Art. 5° - Este Decreto entra em vigor na data de sua publicação.
+
+Art. 6° - Revogam-se as disposições em contrário.
+
+Brasília, 30 de junho de 1988; 167° da Independência e 100° da República.
+
+JOSÉ SARNEY
+
+Jáder Fontenelle Barbalho

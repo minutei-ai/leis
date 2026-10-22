@@ -1,0 +1,33 @@
+###DEC-096177-0-000-17-06-1988@@@
+
+DECRETO N° 96.177, DE 17 DE JUNHO DE 1988
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “Fazenda Botão de Ouro” ou “Santa Tecla”, classificado como “latifúndio por exploração”, situado no Município de Jóia, no Estado do Rio Grande do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.692, de 19 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20 da Lei n° 4.504, de 30 de novembro de 1964, e dos Decretos-leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987,
+
+DECRETA:
+
+Art. 1° - É declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e V, da Lei n° 4.504, de 30 de novembro de 1964, o imóvel rural denominado “Fazenda Botão de Ouro” ou “Santa Tecla”, com a área de 1.119,8101ha (um mil, cento e dezenove hectares e oitenta e um ares e um centiare), situado no Município de Jóia, no Estado do Rio Grande do Sul, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.692, de 19 de maio de 1986.
+
+Parágrafo único - O imóvel a que se refere este artigo tem o seguinte perímetro: inicia junto ao P-1, de coordenadas geográficas longitude 54°06'03"WGr e latitude 28°50'25"sul, situado na confluência da sanga com o Arroio Guaçui; deste, segue a montante do Arroio Guaçui, na distância de 4.350m (quatro mil, trezentos e cinqüenta metros), chega-se ao P-2, de coordenadas geográficas longitude 54°05'17"WGr e latitude 28°51'58"sul, situado na confluência da sanga com o Arroio Guaçui, dividindo com terras de Seli Moraes; deste, segue a montante da sanga na distância de 1.600m (um mil e seiscentos metros), chega-se ao P-3, de coordenadas geográficas longitude 54°06'04"WGr e latitude 28°52'45"sul, situado no canto de cerca junto à sanga, dividindo com terras de Pedro Padilha Ourique; deste, segue pela cerca, na distância de 810m (oitocentos e dez metros) e azimute de 187°10', chega-se ao P-4, de coordenadas geográficas longitude 54°06'06"WGr e latitude 28°53'11"sul, situado no canto da cerca, dividindo com terras de Pedro Padilha Ourique; deste, segue pela cerca, na distância de 1.250m (um mil, duzentos e cinqüenta metros) e azimute de 211°15', chega-se ao ponto P-5, de coordenadas geográficas longitude 54°06'30"WGr e latitude 28°53'45"sul, situado no canto da cerca, no lado da estrada, dividindo com terras de Pedro Padilha Ourique; deste, segue pelo lado da estrada Jóia-Tupanciretã, na distância de 175m (cento e setenta e cinco metros) e azimute de 320°10', chega-se ao ponto P-6, de coordenadas geográficas longitude 54°06'34"WGr e latitude 28°53'42"sul, situado no canto da cerca, no lado da estrada Jóia-Tupanciretã; deste, segue pela cerca, na distância de 650m (seiscentos e cinqüenta metros) e azimute de 20°10', chega-se ao ponto P-7, de coordenadas geográficas longitude 54°06'26"WGr e latitude 28°53'21"sul, situado no canto da cerca, dividindo com terras de Antão Rosa de Mello; deste, segue pela cerca, na distância de 380m (trezentos e oitenta metros) e azimute de 332°30', chegas-se ao ponto P-8, de coordenadas geográficas longitude 54°06'32"WGr e latitude 28°53'10"sul, situado na sanga, dividindo com terras de Antão Rosa de Mello; deste, segue a jusante da sanga, na distância de 350m (trezentos e cinqüenta metros), chega-se ao P-9, de coordenadas geográficas longitude 54°06'25"WGr e latitude 28°53'01"sul, situado na sanga, dividindo com terras de João de Deus França da Rosa; deste, segue por linha seca, na distância de 700m (setecentos metros), e azimute de 285°00', chega-se ao P-10, de coordenadas geográficas longitude 54°06'49"WGr e latitude 28°52'55"sul, situado no canto da cerca, dividindo com terras de João de Deus França da Rosa; deste, segue pela cerca, na distância de 700m (setecentos metros), e azimute de 206°, chega-se ao P-11, de coordenadas geográficas longitude 54°07'00"WGr é latitude 28°53'16"sul, situado no canto da cerca, no lado da estrada Jóia-Tupanciretã, dividindo com terras de Osvaldo Severo da Rosa; deste, segue pelo lado da estrada, na distância de 1.600m (um mil\`e seiscentos metros), chega-se ao P-12, de coordenadas geográficas longitude 54°07'50"WGr e latitude 28°53'00"sul, situado no lado da estrada Jóia-Tupanciretã, na divisa com terras de João Mariano Fernandes; deste, segue por cerca, na distância de 200m (duzentos metros) e azimute de 53°30', chega-se ao P-13, de coordenadas geográficas longitude 54°07'45"WGr e latitude 28°52'56"sul, situado no início da sanga, na divisa com terras de João Mariano Fernandes; deste, segue a jusante da sanga, na distância de 5.600m (cinco mil e seiscentos metros), dividindo com terras de João Mariano Fernandes, até o ponto P-1, que é o ponto inicial e final do presente memorial descritivo (fontes de referência: Folhas SH-21-X-B-VI-4 MI-2930/4 Ministério do Exército - Diretoria de Serviço Geográfico, Região Sul do Brasil, escala 1:50.000, ano 1977).
+
+Art. 2° - Excluem-se dos efeitos deste Decreto:
+
+I - a) a área em produção explorada pela proprietária; b) os semoventes, as máquinas e os implementos agrícolas; e c) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+II - o imóvel rural denominado “Fazenda Capão Grande”, com área de 41,1430ha (quarenta e um hectares, quatorze ares e trinta centiares), matriculada sob o n° 1795, fls. 1, inciso 2, do Registro de Imóveis da Comarca de Ijuí, Estado do Rio Grande do Sul, pertencente a Agrobecker Agricultura e Pecuária, incluso no perímetro descrito no artigo 1.°, parágrafo único.
+
+Art. 3° - É facultado aos proprietários o direito de escolherem uma área contínua correspondente a vinte e cinco por cento do imóvel descrito no artigo 1°, observadas as condições estabelecidas no artigo 5°, incisos V, VI, VII e VIII, do Decreto-lei n° 2.363, de 21 de outubro de 1987.
+
+Art. 4° - O Instituto Jurídico das Terras Rurais - INTER, fica autorizado a promover a desapropriação do imóvel rural de que trata o presente decreto, na forma prevista nos Decretos-leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987.
+
+Art. 5° - Este Decreto entra em vigor na data de sua publicação.
+
+Art. 6° - Revogam-se as disposições em contrário.
+
+Brasília, 17 de junho de 1988; 167.° ano da Independência e 100° ano da República .
+
+JOSÉ SARNEY
+
+Jáder Fontenelle Barbalho

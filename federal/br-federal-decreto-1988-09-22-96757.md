@@ -1,0 +1,29 @@
+###DEC-096757-0-000-22-09-1988@@@
+
+DECRETO N° 96.757, DE 22 DE SETEMBRO DE 1988
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Aruega, classificado como latifúndio por exploração situado no Município de Novo Cruzeiro, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986 e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20, da Lei n° 4.504, de 30 de novembro de 1964, e dos Decretos-Leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987,
+
+DECRETA:
+
+Art. 1° E declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e V, da Lei n° 4.504, de 30 de novembro de 1964, o imóvel rural denominado Fazenda Aruega, com a área de 950,0000ha (novecentos e cinqüenta hectares), situado no Município de Novo Cruzeiro, no Estado de Minas Gerais, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986.
+
+Parágrafo único. O imóvel a que se refere este artigo tem o seguinte perímetro: partindo do marco M-1, ponto situado na barra do córrego Aruega com Córrego Sapezinho de coordenadas geográficas Latitude 17°30'03" Sul, Longitude 41°58'18" WGr; deste, segue subindo o Córrego Sapezinho pela margem esquerda confrontando com terras de herdeiros de Mário Luiz Estevão Lima e terras de Amparo Coelho, por uma distância de 1.850,00 metros até o marco M-2; deste, segue confrontando com terras de Afonso Manuel Ramos, com azimute plano e distâncias 135°19'12" e 1.265,74 metros até o marco M-3, ponto situado na divisa das terras de Afonso Manuel Ramos e Terras de José Ferreira da Silva; deste, segue confrontando com terras de José Ferreira da Silva com azimute plano e distâncias 117°08'59" e 438,29 metros até o marco M-4, ponto situado em terras de José Ferreira da Silva; deste, segue confrontando com terras de José Ferreira da Silva, com o azimute plano e distância 153°26'06" e 670,82 metros até o marco M-5, ponto situado na divisa de terras de José Ferreira da Silva e terras de Etelvina Rodrigues Barbosa; deste, segue confrontando com terras de Etelvina Rodrigues Barbosa, com azimute e distância de 167°54'19" e 715,89 metros até o marco M-6, ponto situado em terras de Etelvina Rodrigues Barbosa; deste, segue confrontando com terras de Etelvina Rodrigues Barbosa, com o azimute plano e distância 149°02'10" e 583,10 metros até o marco M-7, situado em terras de Etelvina Rodrigues Barbosa; deste, segue confrontando com terras de Etelvina Rodrigues Barbosa, com azimute plano e distância 108°26'06" e 316,23 metros até o marco M-8, situado na divisa de terras de Etelvina Rodrigues Barbosa e Antônio Pereira da Silva; deste, segue confrontando com terras de Antônio Pereira da Silva com azimute plano e distância 172°24'19" e 756,64 metros até o marco M-9, situado na divisa das terras de Antônio Pereira da Silva e terras de José Domingos Moreira; deste, segue confrontando com terras de José Domingos Moreira, com azimute plano e distância 192°31'44" e 460,98 metros até o Marco M-10, situado em terras de José Domingos Moreira; deste, segue confrontando com terras de José Domingos Moreira com azimute plano e distância 164°44'42" e 570,09 metros, até o marco M-11, situado na divisa de terras de José Domingos Moreira e Sebastião Pereira de Souza; deste, segue confrontando com terras de Sebastião Pereira de Souza com azimute plano e distância 284°55'53" e 1.552,42 metros até o marco M-12, situado na divisa das terras de Sebastião Pereira de Souza e Joaquim Coelho de Jesus; deste, segue confrontando com terras de Joaquim Coelho de Jesus com azimute plano e distância 205°01'01" e 827,65 metros até o marco M-13, situado na divisa de terras de Joaquim Coelho de Jesus e terras de José da Silva Santos; deste, segue confrontando com terras de José da Silva Santos com azimute plano e distância 270°00'00" e 500,00 metros até o marco M-14, situado na divisa de terras de José Silva Santos e terras de José Barbosa Coelho; deste, segue confrontando com terras de José Barbosa Coelho com azimute plano e distância 330°15'18" e 403,11 metros até o marco M-15, situado na divisa de terras de José Barbosa Coelho e herdeiros de Mário Luiz Estevão Lima; deste segue confrontando com terras de herdeiros de Mário Luiz Estevão Lima passando pelos marcos M-16, M-17 e M-18 com os seguintes azimutes planos e distâncias 360°00'00" e 1.200,00 metros, 284°25'15" e 722,77 metros, 11°46'06" e 490,31 metros, 348°13'54" e 1.470,00 metros até o marco M-01, ponto inicial desta descrição (fonte de referência: carta IBGE, folha SE 24-V-C-I e SE-24-V-C-IV escala 1:100.000).
+
+Art. 2º Excluem-se dos efeitos deste Decreto: a) a área em produção explorada pelo proprietário; b) os semoventes, as máquinas e os implementos agrícolas; c) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º É facultado ao proprietário o direito de escolher uma área contínua, correspondente a vinte e cinco por cento do imóvel descrito no artigo 1°, observadas as condições estabelecidas no artigo 5°, incisos V, VI, VII e VIII, do Decreto-Lei n° 2.363, de 21 de outubro de 1987.
+
+Art. 4º O Instituto Jurídico das Terras Rurais - INTER fica autorizado a promover a desapropriação do imóvel rural de que trata o presente Decreto, na forma prevista nos Decretos-Leis nºs 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987.
+
+Art. 5º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 6º Revogam-se as disposições em contrário.
+
+Brasília, 22 de setembro de 1988; 167º da Independência e 100º da República.
+
+JOSÉ SARNEY
+
+Leopoldo Bessone

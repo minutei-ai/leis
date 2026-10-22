@@ -1,0 +1,29 @@
+###DEC-095195-0-000-12-11-1987@@@
+
+DECRETO N° 95.195, DE 12 DE NOVEMBRO DE 1987
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "LOTE 03 DA GLEBA "M" DO LOTEAMENTO FAZENDA SERRA", classificado como latifúndio por exploração, situado no Município de Itaguatins, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20, da Lei n° 4.504, de 30 de novembro de 1964, e dos Decretos-leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987,
+
+DECRETA:
+
+Art. 1° É declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, 'c” e “d”, e 20, itens I e V, da Lei n° 4.504, de 30 de novembro de 1964, o imóvel rural denominado "LOTE 03 DA GLEBA "M" DO LOTEAMENTO FAZENDA SERRA", com a área de 2.339,1544 ha (dois mil, trezentos e trinta e nove hectares, quinze ares e quarenta e quatro centiares), situado no Município de Itaguatins, no Estado de Goiás, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986.
+
+Parágrafo único. O imóvel a que se refere este artigo tem o seguinte perímetro: partindo do P1 de coordenadas geográficas longitude 48°15'58"WGr e latitude 05°25'39"S, situado na divisa do lote 2; deste, segue por linha seca confrontando com o lote 2 com azimute verdadeiro e distância de 102°56'29" e 122,83m, até o P2; deste, segue confrontando com a Fazenda Serra Gl. 14, com azimute verdadeiro e distância de 103°23'41" e 811,44m, até o P3 de coordenadas geográficas longitude 48°14'55"WGr e latitude 05°25'54"S; deste, segue confrontando com a Fazenda Serra Gl. I com azimute verdadeiro e distância de 211°04'19" e 979,96m, até o P4; deste, segue confrontando com o lote 4 desta Gleba com os seguintes azimutes verdadeiros e distâncias: 224°21'01" e 309,59m; 199°22'27" e 372,24m; 268°17'06" e 240,48m, passando pelos pontos P5, P6 indo até o P7; deste, segue confrontando com a Fazenda Serra Gleba I, com os seguintes azimutes verdadeiros e distâncias: 301°16'34" e 99,94m; 211°20'12" e 1.856,45m; 133°28'49" e 2.450,71m, passando pelos pontos P8, P9 indo até o P10, situado na margem esquerda do Ribeirão Camarão; deste, segue pelo Ribeirão Camarão à montante, com a distância de 4.300,00m, confrontando com a Fazenda Serra Gl. J até o P11, de coordenadas geográficas longitude 48°16'07"WGr e latitude 05°30'06"S, situado na margem esquerda do Ribeirão Camarão; deste, segue confrontando com a Fazenda Serra Gl. J, com os seguintes azimutes verdadeiros e distâncias: 325°56'03" e 571,10m; 275°31'05" e 300,75m; 298°26'12" e 1.158,15m; 249°21'09" e 179,93m, passando pelos pontos P12, P13, P14 indo até o P15; deste, segue confrontando com a Faz. Serra Gl. 2 com os seguintes azimutes verdadeiros e distâncias: 28°52'44" e 382,51m; 04°51'16" e 500,90m; 343°57'31" e 168,93; 324°48'09" e 759,22m; 343°33'51" e 207,92; 313°36'42" e 582,80m; 345°45'27" e 308,85m; 72°25'12" e 452,34m; 16°38'27" e 270,25m, passando pelos pontos P16, P17, P18, P19, P20, P21, P22, P23, indo até o P24, situado na margem esquerda do Córrego Grande; deste, segue pelo Córrego Grande à jusante, com a distância de 1.000,00m, confrontando com a Faz. Serra Gl. 2, até o P25, situado na margem esquerda do referido córrego; deste, segue confrontando com a Faz. Serra Gl. 2 com os seguintes azimutes verdadeiros e distâncias: 265°41'53" e 596,35m, 322°56'54" e 684,11m, passando pelo P26 indo até o P27 de coordenadas geográficas longitude 48°18'13"WGr e latitude 05°27'24"S; deste, segue confrontando com a Fazenda Serra Gl. 2, com os seguintes azimutes verdadeiros e distâncias: 67°39'58" e 490,78m; 48°06'47" e 443,65m; 60°33'28" e 456,26m; 119°47'36" e 217,49m; 56°31'29" e 330,88m; 338°08'06" e 186,66m; 52°30'40" e 236,39m; 24°54'49" e 209,66m, passando pelos pontos P28, P29, P30, P31, P32, P33, P34, indo até o P35; deste, segue confrontando com o lote 5, com os seguintes azimutes verdadeiros e distâncias: 31°37'55" e 505,07m; 74°24'56" e 378,62m; 41°40'12" e 1.017,22m; 318°33'17" e 283,57m, passando pelos pontos P36, P37, P38, indo até o P39; deste segue confrontando com o lote 1, com os seguintes azimutes verdadeiros e distâncias: 63°37'47" e 510,48m; 116°09'49" e 136,53m; 45°35'22" e 303,34m, passando pelos pontos P40, P41, indo até o P42; deste, segue confrontando com o lote 2 com o azimute verdadeiro e distância: 89°17'23" e 362,48m, até o P1, ponto inicial da descrição deste perímetro (fontes de referência: planta municipal elaborada pela Master, escala 1:20.000 e planta topográfica da Fazenda Serra, escala 1:20.000, ano 1978 e certidão do CRI).
+
+Art. 2° Excluem-se dos efeitos deste decreto: a) os semoventes, as máquinas e os implementos agrícolas; b) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º É facultado ao proprietário o direito de escolher uma área contínua correspondente a 25% (vinte e cinco por cento) do imóvel descrito no art. 1º, observadas as condições estabelecidas no art. 5°, incisos VI, VII e VIII, do Decreto-lei n° 2.363, de 21 de outubro de 1987.
+
+Art. 4º O Instituto Jurídico das Terras Rurais - INTER fica autorizado a promover a desapropriação do imóvel rural de que trata o presente decreto, na forma prevista nos Decretos-leis n°s 554, de 25 de abril de 1969, e 2.363, de 21 de outubro de 1987.
+
+Art. 5° Este Decreto entra em vigor na data de sua publicação.
+
+Art. 6° Revogam-se as disposições em contrário.
+
+Brasília, 12 de novembro de 1987; 166° da Independência e 99° da República.
+
+JOSÉ SARNEY
+
+Jáder Fontenelle Barbalho
