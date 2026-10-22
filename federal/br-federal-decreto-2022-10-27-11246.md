@@ -1,0 +1,341 @@
+DECRETO Nº 11.246, DE 27 DE OUTUBRO DE 2022
+
+Regulamenta o disposto no § 3º do art. 8º da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre as regras para a atuação do agente de contratação e da equipe de apoio, o funcionamento da comissão de contratação e a atuação dos gestores e fiscais de contratos, no âmbito da administração pública federal direta, autárquica e fundacional.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da Constituição, e tendo em vista o disposto no art. 8º, § 3º, da Lei nº 14.133, de 1º de abril de 2021,
+
+DECRETA:
+
+CAPÍTULO I
+
+DISPOSIÇÕES PRELIMINARES
+
+Objeto e âmbito de aplicação
+
+Art. 1º Este Decreto regulamenta o disposto no § 3º do art. 8º da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre as regras para a atuação do agente de contratação e da equipe de apoio, o funcionamento da comissão de contratação e a atuação dos gestores e fiscais de contratos, no âmbito da administração pública federal direta, autárquica e fundacional.
+
+Parágrafo único. O disposto no art. 176 da Lei nº 14.133, de 2021, aplica-se aos Municípios com até vinte mil habitantes.
+
+Art. 2º Os órgãos e as entidades da administração pública estadual, distrital e municipal que utilizem recursos da União oriundos de transferências voluntárias poderão observar as disposições deste Decreto.
+
+CAPÍTULO II
+
+DA DESIGNAÇÃO
+
+Agente de contratação
+
+Art. 3º O agente de contratação e o respectivo substituto serão designados pela autoridade competente, em caráter permanente ou especial, conforme o disposto no art. 8º da Lei nº 14.133, de 2021.
+
+§ 1º Nas licitações que envolvam bens ou serviços especiais, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo, três membros, designados nos termos do disposto no art. 5º e no art. 10 deste Decreto, conforme estabelecido no § 2º do art. 8º da Lei nº 14.133, de 2021.
+
+§ 2º A autoridade competente poderá designar, em ato motivado, mais de um agente de contratação e deverá dispor sobre a forma de coordenação e de distribuição dos trabalhos entre eles.
+
+Equipe de apoio
+
+Art. 4º A equipe de apoio e os seus respectivos substitutos serão designados pela autoridade máxima do órgão ou da entidade, ou por quem as normas de organização administrativa indicarem, para auxiliar o agente de contratação ou a comissão de contratação na licitação, observados os requisitos estabelecidos no art. 10.
+
+Parágrafo único. A equipe de apoio poderá ser composta por terceiros contratados, observado o disposto no art. 13.
+
+Comissão de contratação
+
+Art. 5º Os membros da comissão de contratação e os respectivos substitutos serão designados pela autoridade máxima do órgão ou da entidade, ou por quem as normas de organização administrativa estabelecerem, observados os requisitos estabelecidos no art. 10.
+
+§ 1º A comissão de que trata o caput será formada por agentes públicos indicados pela administração, em caráter permanente ou especial, com a função de receber, de examinar e de julgar documentos relativos às licitações e aos procedimentos auxiliares.
+
+§ 2º A comissão de que trata o caput será formada por, no mínimo, três membros, e será presidida por um deles.
+
+§ 3º O disposto no Decreto nº 9.759, de 11 de abril de 2019, não se aplica à comissão de que trata o caput.
+
+Art. 6º Na licitação na modalidade diálogo competitivo, a comissão de contratação será composta por, no mínimo, três membros que sejam servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da administração pública, admitida a contratação de profissionais para o assessoramento técnico.
+
+Art. 7º Nas contratações que envolvam bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.
+
+§ 1º A empresa ou o profissional especializado contratado na forma prevista no caput assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva dos membros da comissão de contratação.
+
+§ 2º A contratação de terceiros não eximirá de responsabilidade os membros da comissão de contratação, nos limites das informações recebidas do terceiro contratado.
+
+Gestores e fiscais de contratos
+
+Art. 8º Os gestores e os fiscais de contratos e os respectivos substitutos serão representantes da administração designados pela autoridade máxima do órgão ou da entidade, ou por quem as normas de organização administrativa indicarem, para exercer as funções estabelecidas no art. 21 ao art. 24, observados os requisitos estabelecidos no art. 10.
+
+§ 1º Para o exercício da função, o gestor e os fiscais de contratos deverão ser formalmente cientificados da indicação e das respectivas atribuições antes da formalização do ato de designação.
+
+§ 2º Na designação de que trata o caput, serão considerados:
+
+I – a compatibilidade com as atribuições do cargo;
+
+II – a complexidade da fiscalização;
+
+III – o quantitativo de contratos por agente público; e
+
+IV – a capacidade para o desempenho das atividades.
+
+§ 3º A eventual necessidade de desenvolvimento de competências de agentes públicos para fins de fiscalização e de gestão contratual deverá ser demonstrada no estudo técnico preliminar e deverá ser sanada, conforme o caso, previamente à celebração do contrato, conforme o disposto no inciso X do § 1º do art. 18 da Lei nº 14.133, de 2021.
+
+§ 4º Excepcional e motivadamente, a gestão do contrato poderá ser exercida por setor do órgão ou da entidade designado pela autoridade de que trata o caput.
+
+§ 5º Na hipótese prevista no § 4º, o titular do setor responderá pelas decisões e pelas ações tomadas no seu âmbito de atuação.
+
+§ 6º Nos casos de atraso ou de falta de designação, de desligamento e de afastamento extemporâneo e definitivo do gestor ou dos fiscais do contrato e dos respectivos substitutos, até que seja providenciada a designação, as atribuições de gestor ou de fiscal caberão ao responsável pela designação, ressalvada previsão em contrário em norma interna do órgão ou da entidade.
+
+Art. 9º Os fiscais de contratos poderão ser assistidos e subsidiados por terceiros contratados pela administração, observado o disposto no art. 26.
+
+Requisitos para a designação
+
+Art. 10\. O agente público designado para o cumprimento do disposto neste Decreto deverá preencher os seguintes requisitos:
+
+I – ser, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da administração pública;
+
+II – ter atribuições relacionadas a licitações e contratos ou possuir formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo Poder Público; e
+
+III – não ser cônjuge ou companheiro de licitantes ou contratados habituais da administração nem tenha com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil.
+
+§ 1º Para fins do disposto no inciso III do caput, consideram-se contratados habituais as pessoas físicas e jurídicas cujo histórico recorrente de contratação com o órgão ou com a entidade evidencie significativa probabilidade de novas contratações.
+
+§ 2º A vedação de que trata o inciso III do caput incide sobre o agente público que atue em processo de contratação cujo objeto seja do mesmo ramo de atividade em que atue o licitante ou o contratado habitual com o qual haja o relacionamento.
+
+§ 3º Os agentes de contratação, os seus substitutos e o presidente da comissão de contratação serão designados dentre servidores efetivos ou empregados públicos dos quadros permanentes da administração pública.
+
+Art. 11\. O encargo de agente de contratação, de integrante de equipe de apoio, de integrante de comissão de contratação, de gestor ou de fiscal de contratos não poderá ser recusado pelo agente público.
+
+§ 1º Na hipótese de deficiência ou de limitações técnicas que possam impedir o cumprimento diligente das atribuições, o agente público deverá comunicar o fato ao seu superior hierárquico.
+
+§ 2º Na hipótese prevista no § 1º, a autoridade competente poderá providenciar a qualificação prévia do servidor para o desempenho das suas atribuições, conforme a natureza e a complexidade do objeto, ou designar outro servidor com a qualificação requerida, observado o disposto no § 3º do art. 8º.
+
+Princípio da segregação das funções
+
+Art. 12\. O princípio da segregação das funções veda a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na contratação.
+
+Parágrafo único. A aplicação do princípio da segregação de funções de que trata o caput:
+
+I – será avaliada na situação fática processual; e
+
+II – poderá ser ajustada, no caso concreto, em razão:
+
+a) da consolidação das linhas de defesa; e
+
+b) de características do caso concreto tais como o valor e a complexidade do objeto da contratação.
+
+Vedações
+
+Art. 13\. O agente público designado para atuar na área de licitações e contratos e o terceiro que auxilie a condução da contratação, na qualidade de integrante de equipe de apoio, de profissional especializado ou de funcionário ou representante de empresa que preste assessoria técnica, deverão observar as vedações previstas no art. 9º da Lei nº 14.133, de 2021.
+
+CAPÍTULO III
+
+DA ATUAÇÃO E DO FUNCIONAMENTO
+
+Atuação do agente de contratação
+
+Art. 14\. Caberá ao agente de contratação, em especial:
+
+I – tomar decisões em prol da boa condução da licitação, dar impulso ao procedimento, inclusive por meio de demandas às áreas das unidades de contratações, descentralizadas ou não, para fins de saneamento da fase preparatória, caso necessário;
+
+II – acompanhar os trâmites da licitação e promover diligências, se for o caso, para que o calendário de contratação de que trata o inciso III do caput do art. 11 do Decreto nº 10.947, de 25 de janeiro de 2022, seja cumprido, observado, ainda, o grau de prioridade da contratação; e
+
+III – conduzir e coordenar a sessão pública da licitação e promover as seguintes ações:
+
+a) receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos seus anexos e requisitar subsídios formais aos responsáveis pela elaboração desses documentos, caso necessário;
+
+b) verificar a conformidade da proposta mais bem classificada com os requisitos estabelecidos no edital;
+
+c) verificar e julgar as condições de habilitação;
+
+d) sanear erros ou falhas que não alterem a substância das propostas; e
+
+e) encaminhar à comissão de contratação, quando for o caso:
+
+1\. os documentos de habilitação, caso se verifique a possibilidade de saneamento de erros ou de falhas que não alterem a substância dos documentos e a sua validade jurídica, conforme o disposto no § 1º do art. 64 da Lei nº 14.133, de 2021; e
+
+2\. os documentos relativos aos procedimentos auxiliares previstos no art. 78 da Lei nº 14.133, de 2021;
+
+f) negociar, quando for o caso, condições mais vantajosas com o primeiro colocado;
+
+g) indicar o vencedor do certame;
+
+h) conduzir os trabalhos da equipe de apoio; e
+
+i) encaminhar o processo instruído, após encerradas as fases de julgamento e de habilitação e exauridos os recursos administrativos, à autoridade superior para adjudicação e para homologação.
+
+§ 1º O agente de contratação será auxiliado, na fase externa, por equipe de apoio, de que trata o art. 4º, e responderá individualmente pelos atos que praticar, exceto quando induzido a erro pela atuação da equipe.
+
+§ 2º A atuação do agente de contratação na fase preparatória deverá ater-se ao acompanhamento e às eventuais diligências para o fluxo regular da instrução processual.
+
+§ 3º Na hipótese prevista no § 2º, o agente de contratações estará desobrigado da elaboração de estudos preliminares, de projetos e de anteprojetos, de termos de referência, de pesquisas de preço e, preferencialmente, de minutas de editais.
+
+§ 4º Para fins do acompanhamento de que trata o inciso II do caput, o setor de contratações enviará ao agente de contratação o relatório de riscos de que trata o art. 19 do Decreto nº 10.947, de 2022, com atribuição ao agente de impulsionar os processos constantes do plano de contratações anual com elevado risco de não efetivação da contratação até o término do exercício.
+
+§ 5º Observado o disposto no art. 10 deste Decreto, o agente de contratação poderá delegar as competências de que tratam os incisos I e II do caput, desde que seja devidamente justificado e que não incidam as vedações previstas no art. 13 da Lei nº 9.784, de 29 de janeiro de 1999.
+
+§ 6º O não atendimento das diligências do agente de contratação por outros setores do órgão ou da entidade ensejará motivação formal, a ser juntada aos autos do processo.
+
+§ 7º As diligências de que trata o § 6º observarão as normas internas do órgão ou da entidade, inclusive quanto ao fluxo procedimental.
+
+Art. 15\. O agente de contratação contará com o auxílio dos órgãos de assessoramento jurídico e de controle interno do próprio órgão ou entidade para o desempenho das funções essenciais à execução das suas funções.
+
+§ 1º O auxílio de que trata o caput se dará por meio de orientações gerais ou em resposta a solicitações de apoio, hipótese em que serão observadas as normas internas do órgão ou da entidade quanto ao fluxo procedimental.
+
+§ 2º Sem prejuízo do disposto no § 1º, a solicitação de auxílio ao órgão de assessoramento jurídico se dará por meio de consulta específica, que conterá, de forma clara e individualizada, a dúvida jurídica a ser dirimida.
+
+§ 3º Na prestação de auxílio, a unidade de controle interno observará a supervisão técnica e as orientações normativas do órgão central do Sistema de Controle Interno do Poder Executivo Federal e se manifestará acerca dos aspectos de governança, gerenciamento de riscos e controles internos administrativos da gestão de contratações.
+
+§ 4º Previamente à tomada de decisão, o agente de contratação considerará eventuais manifestações apresentadas pelos órgãos de assessoramento jurídico e de controle interno, observado o disposto no inciso VII do caput e no § 1º do art. 50 da Lei nº 9.784, de 29 de janeiro de 1999.
+
+Atuação da equipe de apoio
+
+Art. 16\. Caberá à equipe de apoio auxiliar o agente de contratação ou a comissão de contratação no exercício de suas atribuições.
+
+Parágrafo único. A equipe de apoio contará com o auxílio dos órgãos de assessoramento jurídico e de controle interno do próprio órgão ou entidade, nos termos do disposto no art. 15.
+
+Funcionamento da comissão de contratação
+
+Art. 17\. Caberá à comissão de contratação:
+
+I – substituir o agente de contratação, observado o disposto no art. 14, quando a licitação envolver a contratação de bens ou serviços especiais, desde que atendidos os requisitos estabelecidos no § 1º do art. 3º e no art. 10;
+
+II – conduzir a licitação na modalidade diálogo competitivo, observado o disposto no art. 14;
+
+III – sanar erros ou falhas que não alterem a substância dos documentos de habilitação e a sua validade jurídica, mediante despacho fundamentado registrado e acessível a todos, e atribuir-lhes eficácia para fins de habilitação e de classificação; e
+
+IV – receber, examinar e julgar documentos relativos aos procedimentos auxiliares previstos no art. 78 da Lei nº 14.133, de 2021, observados os requisitos estabelecidos em regulamento.
+
+Parágrafo único. Quando substituírem o agente de contratação, na forma prevista no inciso I do caput, os membros da comissão de contratação responderão solidariamente pelos atos praticados pela comissão, exceto o membro que expressar posição individual divergente, a qual deverá ser fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.
+
+Art. 18\. A comissão de contratação contará com o auxílio dos órgãos de assessoramento jurídico e de controle interno do próprio órgão ou entidade, nos termos do disposto no art. 15.
+
+Atividades de gestão e fiscalização de contratos
+
+Art. 19\. Para fins do disposto neste Decreto, considera-se:
+
+I – gestão de contrato - a coordenação das atividades relacionadas à fiscalização técnica, administrativa e setorial e dos atos preparatórios à instrução processual e ao encaminhamento da documentação pertinente ao setor de contratos para a formalização dos procedimentos relativos à prorrogação, à alteração, ao reequilíbrio, ao pagamento, à eventual aplicação de sanções e à extinção dos contratos, entre outros;
+
+II – fiscalização técnica - o acompanhamento do contrato com o objetivo de avaliar a execução do objeto nos moldes contratados e, se for o caso, aferir se a quantidade, a qualidade, o tempo e o modo da prestação ou da execução do objeto estão compatíveis com os indicadores estabelecidos no edital, para fins de pagamento, conforme o resultado pretendido pela administração, com o eventual auxílio da fiscalização administrativa;
+
+III – fiscalização administrativa - o acompanhamento dos aspectos administrativos contratuais quanto às obrigações previdenciárias, fiscais e trabalhistas e quanto ao controle do contrato administrativo no que se refere a revisões, a reajustes, a repactuações e a providências tempestivas nas hipóteses de inadimplemento; e
+
+IV – fiscalização setorial - o acompanhamento da execução do contrato nos aspectos técnicos ou administrativos quando a prestação do objeto ocorrer concomitantemente em setores distintos ou em unidades desconcentradas de um órgão ou uma entidade.
+
+§ 1º As atividades de gestão e de fiscalização dos contratos deverão ser realizadas de forma preventiva, rotineira e sistemática e exercidas por agentes públicos, por equipe de fiscalização ou por agente público único, assegurada a distinção das atividades.
+
+§ 2º A distinção das atividades de que trata o § 1º não poderá comprometer o desempenho das ações relacionadas à gestão do contrato.
+
+§ 3º Para fins da fiscalização setorial de que trata o inciso IV do caput, o órgão ou a entidade poderá designar representantes para atuarem como fiscais setoriais nos locais de execução do contrato.
+
+Art. 20\. Deverão ser observados os procedimentos estabelecidos no manual técnico operacional para a execução das atividades de gestão e de fiscalização dos contratos, de que trata o art. 19, editado pela Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.
+
+Gestor de contrato
+
+Art. 21\. Caberá ao gestor do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto, em especial:
+
+I – coordenar as atividades relacionadas à fiscalização técnica, administrativa e setorial, de que tratam os incisos II, III e IV do caput do art. 19;
+
+II – acompanhar os registros realizados pelos fiscais do contrato das ocorrências relacionadas à execução do contrato e as medidas adotadas, e informar à autoridade superior aquelas que ultrapassarem a sua competência;
+
+III – acompanhar a manutenção das condições de habilitação do contratado, para fins de empenho de despesa e de pagamento, e anotar os problemas que obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos eventuais;
+
+IV – coordenar a rotina de acompanhamento e de fiscalização do contrato, cujo histórico de gerenciamento deverá conter todos os registros formais da execução, a exemplo da ordem de serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, e elaborar relatório com vistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da administração;
+
+V – coordenar os atos preparatórios à instrução processual e ao envio da documentação pertinente ao setor de contratos para a formalização dos procedimentos de que trata o inciso I do caput do art. 19;
+
+VI – elaborar o relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da Lei nº 14.133, de 2021, com as informações obtidas durante a execução do contrato;
+
+VII – coordenar a atualização contínua do relatório de riscos durante a gestão do contrato, com apoio dos fiscais técnico, administrativo e setorial;
+
+VIII – emitir documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo contratado, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, a constarem do cadastro de atesto de cumprimento de obrigações conforme disposto em regulamento;
+
+IX – realizar o recebimento definitivo do objeto do contrato referido no art. 25, mediante termo detalhado que comprove o atendimento das exigências contratuais; e
+
+X – tomar providências para a formalização de processo administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor competente para tal, conforme o caso.
+
+Fiscal técnico
+
+Art. 22\. Caberá ao fiscal técnico do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto, em especial:
+
+I – prestar apoio técnico e operacional ao gestor do contrato com informações pertinentes às suas competências;
+
+II – anotar no histórico de gerenciamento do contrato todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos defeitos observados;
+
+III – emitir notificações para a correção de rotinas ou de qualquer inexatidão ou irregularidade constatada, com a definição de prazo para a correção;
+
+IV – informar ao gestor do contato, em tempo hábil, a situação que demandar decisão ou adoção de medidas que ultrapassem a sua competência, para que adote as medidas necessárias e saneadoras, se for o caso;
+
+V – comunicar imediatamente ao gestor do contrato quaisquer ocorrências que possam inviabilizar a execução do contrato nas datas estabelecidas;
+
+VI – fiscalizar a execução do contrato para que sejam cumpridas as condições estabelecidas, de modo a assegurar os melhores resultados para a administração, com a conferência das notas fiscais e das documentações exigidas para o pagamento e, após o ateste, que certifica o recebimento provisório, encaminhar ao gestor de contrato para ratificação;
+
+VII – comunicar ao gestor do contrato, em tempo hábil, o término do contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual;
+
+VIII – participar da atualização do relatório de riscos durante a fase de gestão do contrato, em conjunto com o fiscal administrativo e com o setorial, conforme o disposto no inciso VII do caput do art. 21;
+
+IX – auxiliar o gestor do contrato com as informações necessárias, na elaboração do documento comprobatório da avaliação realizada na fiscalização do cumprimento de obrigações assumidas pelo contratado, conforme o disposto no inciso VIII do caput do art. 21; e
+
+X – realizar o recebimento provisório do objeto do contrato referido no art. 25, mediante termo detalhado que comprove o cumprimento das exigências de caráter técnico.
+
+Fiscal administrativo
+
+Art. 23\. Caberá ao fiscal administrativo do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto, em especial:
+
+I – prestar apoio técnico e operacional ao gestor do contrato, com a realização das tarefas relacionadas ao controle dos prazos relacionados ao contrato e à formalização de apostilamentos e de termos aditivos, ao acompanhamento do empenho e do pagamento e ao acompanhamento de garantias e glosas;
+
+II – verificar a manutenção das condições de habilitação da contratada, com a solicitação dos documentos comprobatórios pertinentes, caso necessário;
+
+III – examinar a regularidade no recolhimento das contribuições fiscais, trabalhistas e previdenciárias e, na hipótese de descumprimento, observar o disposto em ato do Secretário de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia;
+
+IV – atuar tempestivamente na solução de eventuais problemas relacionados ao descumprimento das obrigações contratuais e reportar ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua competência;
+
+V – participar da atualização do relatório de riscos durante a fase de gestão do contrato, em conjunto com o fiscal técnico e com o setorial, conforme o disposto no inciso VII do caput do art. 21;
+
+VI – auxiliar o gestor do contrato com as informações necessárias, na elaboração do documento comprobatório da avaliação realizada na fiscalização do cumprimento de obrigações assumidas pelo contratado, conforme o disposto no inciso VIII do caput do art. 21; e
+
+VII – realizar o recebimento provisório do objeto do contrato referido no art. 25, mediante termo detalhado que comprove o cumprimento das exigências de caráter administrativo.
+
+Fiscal setorial
+
+Art. 24\. Caberá ao fiscal setorial do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto exercer as atribuições de que tratam o art. 22 e o art. 23.
+
+Recebimento provisório e definitivo
+
+Art. 25\. O recebimento provisório ficará a cargo dos fiscais técnico, administrativo ou setorial e o recebimento definitivo, do gestor do contrato ou da comissão designada pela autoridade competente.
+
+Parágrafo único. Os prazos e os métodos para a realização dos recebimentos provisório e definitivo serão definidos em regulamento ou no contrato, nos termos no disposto no § 3º do art. 140 da Lei nº 14.133, de 2021.
+
+Terceiros contratados
+
+Art. 26\. Na hipótese da contratação de terceiros para assistir e para subsidiar os fiscais de contrato nos termos do disposto neste Decreto, será observado o seguinte:
+
+I – a empresa ou o profissional contratado assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva de fiscal de contrato; e
+
+II – a contratação de terceiros não eximirá o fiscal do contrato da responsabilidade, nos limites das informações recebidas do terceiro contratado.
+
+Apoio dos órgãos de assessoramento jurídico e de controle interno
+
+Art. 27\. O gestor do contrato e os fiscais técnico, administrativo e setorial serão auxiliados pelos órgãos de assessoramento jurídico e de controle interno vinculados ao órgão ou à entidade promotora da contratação, os quais deverão dirimir dúvidas e subsidiá-los com informações para prevenir riscos na execução do contrato, conforme o disposto no art. 15.
+
+Decisões sobre a execução dos contratos
+
+Art. 28\. As decisões sobre as solicitações e as reclamações relacionadas à execução dos contratos e os indeferimentos aos requerimentos manifestamente impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do contrato serão efetuados no prazo de um mês, contado da data do protocolo do requerimento, exceto se houver disposição legal ou cláusula contratual que estabeleça prazo específico.
+
+§ 1º O prazo de que trata o caput poderá ser prorrogado uma vez, por igual período, desde que motivado.
+
+§ 2º As decisões de que trata o caput serão tomadas pelo fiscal do contrato, pelo gestor do contrato ou pela autoridade superior, nos limites de suas competências.
+
+CAPÍTULO IV
+
+DISPOSIÇÕES FINAIS
+
+Orientações gerais
+
+Art. 29\. Os órgãos e as entidades, no âmbito de suas competências, poderão editar normas internas relativas a procedimentos operacionais a serem observados, na área de licitações e contratos, pelo agente de contratação, pela equipe de apoio, pela comissão de contratação, pelos gestores e pelos fiscais de contratos, observado o disposto neste Decreto.
+
+Art. 30\. O Secretário de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia poderá editar normas complementares necessárias à execução do disposto neste Decreto.
+
+Vigência
+
+Art. 31\. Este Decreto entra em vigor em 1º de novembro de 2022.
+
+Brasília, 27 de outubro de 2022; 201º da Independência e 134º da República.
+
+JAIR MESSIAS BOLSONARO
+
+Paulo Guedes
+
+Wagner de Campos Rosário
