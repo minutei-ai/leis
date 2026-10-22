@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**122.126 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**122.155 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -31,6 +31,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Paraíba](estaduais/PB/) | 1 |
 | Estadual | [Paraná](estaduais/PR/) | 11 |
 | Estadual | [Pernambuco](estaduais/PE/) | 19 |
+| Estadual | [Piauí](estaduais/PI/) | 1 |
 | Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.661 |
 | Estadual | [Rio Grande do Norte](estaduais/RN/) | 43 |
 | Estadual | [Rondônia](estaduais/RO/) | 3 |
@@ -38,6 +39,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
 | Estadual | [São Paulo](estaduais/SP/) | 3.728 |
 | Estadual | [Sergipe](estaduais/SE/) | 21 |
+| Estadual | [Tocantins](estaduais/TO/) | 28 |
 | Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
@@ -50,7 +52,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Santa Catarina, de São Paulo e de Sergipe, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo e do Diário Oficial de Roraima.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo e do Diário Oficial de Roraima.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
