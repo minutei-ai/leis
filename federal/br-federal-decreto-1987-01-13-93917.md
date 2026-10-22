@@ -1,0 +1,31 @@
+###DEC-093917-0-000-13-01-1987@@@
+
+DECRETO Nº 93.917, DE 13 DE JANEIRO DE 1987
+
+Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de Jaboatão e Igarassu, no Estado de Pernambuco, necessários à construção de acessos às áreas das Estações Redutoras de pressão do Gasoduto do Nordeste, naquela região.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 81, item III, da Constituição, tendo em vista o disposto no art. 24 da Lei nº 2.004, de 03 de outubro de 1953, e de conformidade com o que dispõe o Decreto-Lei nº 3.365, de 21 de junho de 1941, e atendendo à necessidade de a Petróleo Brasileiro S/A - PETROBRÁS construir acesso às áreas das Estações Redutoras de Pressão do Gasoduto do Nordeste, áreas estas localizadas no Estado de Pernambuco,
+
+DECRETA:
+
+Art. 1º - Ficam declarados de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, excluídos os bens de domínio público, compreendidos nas faixas de terras situadas nos Municípios de Jaboatão e Igarassu, no Estado de Pernambuco, destinados à construção de acessos às áreas das Estações Redutoras de Pressão do Gasoduto do Nordeste, gasoduto este destinado ao escoamento do gás natural produzido na Plataforma Continental do Estado do Rio Grande do Norte, as quais se encontram relacionadas neste Decreto e assinaladas nas plantas e desenhos que constam do Proc. MME nº 27000.006514/86-51.
+
+Parágrafo único - As faixas de terras e áreas de propriedade particular a que se refere este Decreto, com aproximadamente 10.422,00 m2 (dez mil, quatrocentos e vinte e dois metros quadrados) estão compreendidas e caracterizadas na descrição seguinte:
+
+Área I: área de terra de 8.670 m2 no Município de Jaboatão-PE, que inicia-se na estaca 0 + 0,00 do acesso, de coordenadas UTM (N=9.104.823,0823 e E=275.996,9009), que com rumo aproximado do Nordeste faz um ângulo de 45°53'22" com a BR-232, de rumo aproximado Leste, com a qual confronta-se, seguindo em linha reta numa distância de 118,09m, com azimute de 38°07'08", até o PI-3 do acesso, de coordenadas UTM (N=9.104.915,9873 e E=276.069,7974), sofrendo aí uma deflexão para a esquerda de 41°20'20", seguindo em linha reta, rumo aproximado Norte, numa distância de 41,91m, com azimute de 356°46'48", até o PI-4 do acesso, de coordenadas UTM (N=9.104.957,8312 e E=276.067,4434), sofrendo aí uma deflexão para a direita de 40°28'40", seguindo em linha reta, com rumo aproximado Nordeste, numa distância de 79,42m, com azimute de 37°15'28", até o PI-5 do acesso, de coordenadas UTM (N=9.105.021,0434 e E=276.115,5247), sofrendo aí uma deflexão para a direita de 18°15'00", seguindo em linha reta, ainda com rumo aproximado Nordeste, numa distância de 57,66m e com azimute de 55°30'28", até o PI-6 do acesso, de coordenadas UTM (N=9.105.053,6946 e E=276.163,0465), sofrendo aí uma deflexão para a esquerda de 50°52'40", seguindo em linha reta, com rumo aproximado Norte, numa distância de 33,87m, e com azimute de 4°37'48", até o PI-7 do acesso, de coordenadas UTM (N=9.105.087,4511 e E=276.165,783), sofrendo aí uma deflexão para a esquerda de 52°57'28", seguindo em linha reta, com rumo aproximado Noroeste, numa distância de 87,08m e com azimute de 311°40'28", até encontrar o PI-8 do acesso, de coordenadas UTM (N=9.105.145,3537 e E=276.100,7336), sofrendo aí uma deflexão para a direita de 59°22'17", seguindo em linha reta, rumo aproximado Norte, numa distância de 63,58m, com azimute de 11°02'45", até a estaca 23 + 12,42 do acesso, de coordenadas UTM (N=9.105.207,8834 e E=276.112,9401). A área a ser desapropriada, encontra a faixa de servidão do gasoduto do Nordeste, na estaca 20 + 0,00 do acesso. As confrontações laterais de toda a área, são com a propriedade do Sr. Hudson de Moraes Magalhães, de acordo com a Planta Cadastral nº DE=826.11.372.037-ASA-002, encerrando a presente descrição.
+
+Área II: área de terra de 1.752,00 m2, no Município de Igarassu-PE, que inicia-se na esta 0 + 0,00 de coordenadas UTM (N=9.135.045,16 e E=285.556,20), do acesso que, com rumo aproximado Sudeste, faz um certo ângulo com a estrada da Usina São José, de rumo aproximado Leste com a qual confronta-se, seguindo em linha reta numa distância de 15m com azimute de 149°07'14" até o PI-2 do acesso de coordenadas UTM (N=9.135.032,2863 e E=285.563,8985) sofrendo aí, uma deflexão para a esquerda de 16°31'30", seguindo em linha reta, com rumo aproximadamente igual, numa distância de 75,53m até o PI-3 do acesso, de coordenadas UTM (N=9.134.981,1684 e E=285.619,4976), sofrendo aí uma deflexão para a direita, com rumo aproximado Sul, de 61°55'30" e seguindo em linha reta numa distância de 16,83m até encontrar a cerca externa da área de scrapers na estaca 5 + 5,50 de coordenadas UTM (N=9.134.973,5885 e E=285.617,5344). A área a ser desapropriada é cortada pela faixa de servidão do Gasoduto do Nordeste, entre as estacas 1 + 18,03 e 4 + 8,00 do acesso. As confrontações laterais de toda a área são com a propriedade do Sr. Edelson Barbosa de Souza de acordo com a Planta Cadastral nº 826.11.372.037-ASA-001, encerrando a presente descrição.
+
+Art. 2º - A Petróleo Brasileiro S/A - PETROBRÁS, fica autorizada a promover e a executar, com recursos próprios, amigável ou judicialmente, as desapropriações ou instituições de servidões administrativas e/ou de passagem a que se refere o artigo 1º deste Decreto.
+
+Art. 3º - A expropriante, no exercício das prerrogativas asseguradas por este Decreto, poderá, inclusive, alegar urgência para o efeito da prévia imissão provisória na posse do bem, nos termos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956 e Decreto-lei nº 1.075, de 22 de janeiro de 1970.
+
+Art. 4º - Este Decreto entra em vigor na data de sua publicação.
+
+Art. 5º - Revogam-se as disposições em contrário.
+
+Brasília, em 13 de janeiro de 1987; 166º da Independência e 99º da República.
+
+JOSÉ SARNEY
+
+Aureliano Chaves

@@ -1,0 +1,27 @@
+###DEC-093844-0-000-22-12-1986@@@
+
+DECRETO Nº 93.844, DE 22 DE DEZEMBRO DE 1986
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado FAZENDA JUERANA, situado no Município de São Mateus, no Estado do Espírito Santo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.618, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964 e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º É declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e VI, da Lei nº 4.504, de 30 de novembro de 1964, o imóvel rural denominado FAZENDA JUERANA, com a área de 279,16ha (duzentos e setenta e nove hectares e dezesseis ares), situado no Município de São Mateus, no Estado do Espírito Santo, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.618, de 2 de maio de 1986.
+
+Parágrafo único. O imóvel a que se refere este artigo tem o seguinte perímetro: inicia o perímetro no ponto 0 (Po), de coordenadas geográficas longitude 40º14'55" WGr e latitude 18º44'38", situado no entrocamento da divisa de Arthur e Angelo Coutinho com a E.S. 381; deste, segue pela E.S. 381 no sentido nordeste, na distância de 150,0m, até o ponto 01; deste, segue por linha seca, confrontando com terrenos de herdeiros de Odilio Aguiar, com azimute plano de 164º00'00" e distância de 1.050,0m, até o ponto 02; deste, segue por linha seca, confrontando com terrenos pertencentes a João Casvosck, Elias Montes e Hernane Bellucci, com azimute plano de 94º20'00" e distância de 1.640,0m, até o ponto 03; deste, segue por linha seca, confrontando ainda com terrenos de Hernane Bellucci, com azimute plano de 101º25'00" e distância de 300,00m, até o ponto 4; deste, segue margeando o Córrego da Prata, no sentido de juzante e fazendo divisa com terrenos pertencentes a Paulo Sossai e área devoluta integrante da Fazenda Georgina, na distância de 1.050,0m, até o ponto 05; deste, segue por linha seca, confrontando com terrenos de Leonildo e Nilton Arrivabem, com azimute plano de 196º30'00" e distância de 700,00m, até o ponto 06; deste, segue por linha seca, confrontando com terrenos de Agostinho Pilão, com azimute plano de 290º20'00" e distância de 150,0m, até o ponto 07; deste, segue por linha seca, com azimute plano de 347º00'00" e distância de 190,0m, até o ponto 08; deste, segue por linha seca, com azimute plano de 340º35'00" e distância de 150,0m, até o ponto 09; deste, segue por linha seca, com azimute plano de 360º00'00" e distância de 370,0m, até o ponto 10, sendo que todas essas linhas fazem divisa com terrenos pertencentes a Agostinho Pilão; deste, segue pela margem esquerda do Córrego Joeirana no sentido de montante, na distância de 750,0m, até o ponto 11; deste, segue por linha seca, com azimute plano de 335º50'00" e distância de 400,0m, até o ponto 12; deste, segue por linha seca, com azimute plano de 04º50'00" e distância de 320,0m, até o ponto 13; deste, segue por linha seca, com azimute plano de 354º40'00" e distância de 480,0m, até o ponto 14; deste, segue por linha seca, com azimute plano de 275º05'00" e distância de 240,0m, até o ponto 15; deste, segue por linha seca, com azimute plano de 196º50'00" e distância de 370,0m, até o ponto 16; deste, segue por linha seca, com azimute plano de 168º30'00" e distância de 600,om, até o ponto 17; deste, segue por linha seca, com azimute plano de 259º30'00" e distância de 1.300,0m, até o ponto 18; todas estas linhas confrontando-se com terrenos pertencentes a Agostinho Pilão; deste, segue por linha seca, confrontando com terrenos de Alécio Pazzito, com azimute plano de 333º30'00" e distância de 1.070,0m, até o ponto 19; deste, segue, por linha seca, confrontando com terrenos de Joaquim Zattack, com azimute plano de 297º45'00" e distância de 450,0m, até o ponto 20; deste, segue por linha seca, confrontando com terrenos de Eliane Esmeralda de Oliveira, com azimute plano de 71º00'00" e distância de 530,0m, até o ponto 21; deste, segue por linha seca, confrontando com terrenos de Arthur e Angelo Coutinho, com azimute plano de 342º45'00" e distância de 1.020,0m, até o ponto 0 (Po), início da descrição do perímetro. (Fontes de referência: Carta topográfica do IBGE, folha SE-24-Y-B-IV, Escala - 1:100.000, Ano: 1979 e mapa planialtimétrico do Espírito Santo - Projeto Radambrasil).
+
+Art. 2º Excluem-se dos efeitos deste Decreto: a) os semoventes, as máquinas e os implementos agrícolas; b) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agrária - INCRA fica autorizado a promover a desapropriação do imóvel rural de que trata o presente Decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 5º Revogam-se as disposições em contrário.
+
+Brasília, 22 de dezembro de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Dante de Oliveira

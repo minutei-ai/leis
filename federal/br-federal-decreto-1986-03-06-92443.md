@@ -1,0 +1,19 @@
+###DEC-092443-0-000-06-03-1986@@@
+
+DECRETO Nº 92.443, DE 06 DE MARÇO DE 1986
+
+Autoriza a transferência direta da concessão outorgada à EMISSORAS REUNIDAS RÁDIO CULTURA S.A., para a RÁDIO SANTO ÂNGELO LTDA.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe conferem o artigo 81, item III, da Constituição, e o artigo 94, item 3, letra a, do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, e tendo em vista o que consta do Processo MC nº 29102.002066/85,
+
+DECRETA:
+
+Art. 1º - Fica a EMISSORAS REUNIDAS RÁDIO CULTURA S.A., autorizada a realizar a transferência direta para a RÁDIO SANTO ÂNGELO LTDA., pelo restante do prazo, da concessão que lhe foi outorgada para executar serviço de radiodifusão sonora em onda média, na cidade de Santo Ângelo, Estado do Rio Grande do Sul.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 06 de março de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Antônio Carlos Magalhães

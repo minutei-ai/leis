@@ -1,0 +1,27 @@
+###DEC-092840-0-000-27-06-1986@@@
+
+DECRETO Nº 92.840, DE 27 DE JUNHO DE 1986
+
+Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Bom Sucesso" e "CapimIBarra da Onça", situado no Município de Poço Redondo, no Estado de Sergipe, e compreendido no zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.687, de 19 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161, da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964, e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º São declarados de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras a, b, c e d, e 20, itens I e V, da Lei nº 4.504, de 30 de novembro de 1964, os imóveis rurais denominados "Bom Sucesso" e "Capim/Barra da Onça", com área de 6.261,94 ha (seis mil, duzentos e sessenta e um hectares e noventa e quatro ares), situados no Município de Poço Redondo, no Estado de Sergipe, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.687, de 19 de maio de 1986.
+
+Parágrafo único. Os imóveis a que se refere este artigo têm o seguinte perímetro: inicia o perímetro no ponto 1, de coordenadas UTM: E = 648.100m e N = 8.907.300m, referidas ao MC 39º WGr e ao Equador; deste, segue por linha seca, confrontando com José Ferreira Neto, com azimute de 318º21'59" e distância de 602,08m, até o ponto 2; deste, segue por linha seca, confrontando com terras de José Ferreira Neto, com azimute de 05º04'47" e distância de 451,77m, até o ponto 3; deste, segue por linha seca, confrontando com terras de José Ferreira Neto, com azimute de 49º123'55" e distância de 276,59m, atravessando a Rodovia SE-206, até o ponto 4, situado no limite da faixa de domínio da citada rodovia; deste, segue pelo limite da faixa de domínio da Rodovia SE-206, sentido Monte Alegre/Poço Redondo, com azimute de 333º14'14" e distância de 3.886,31m, até o ponto 5; deste, segue por linha seca, confrontando com terras de Joemir Rodrigues Rosa, com azimute de 11º46'06" e distância de 1.225,76m, até o ponto 6; deste, segue por linha seca, confrontando com terras de Joemir Rodrigues Rosa, com azimute de 324º27'44" e distância de 1.720,46m, até o ponto 7; deste, segue por linha seca, confrontando com terras de José Cirilo e José Vitor dos Santos, com azimute de 31º25'46" e distância de 1.054,75m, até o ponto 8; deste, segue por linha seca, confrontando com terras de Liberato de Tal e de João Honorato, com azimute de 101º53'19" e distância de 1.941,65m, até o ponto 9; deste, segue por linha seca, confrontando com terras de Maria Marques da Silva e de Durval Rodrigues Rosa, com azimute de 24º49'02" e distância de 1.906,02m, até o ponto 10; deste, segue por linha seca, confrontando, ainda, com terras de Durval Rodrigues Rosa, com azimute de 283º08'02 e distância de 308,06m, até o ponto 11; deste, segue por linha seca, confrontando com terras de Esmerino Alves Costa, com azimute de 21º48'05" e distância de 1.346,29m, até o ponto 12; deste, segue por linha seca, confrontando com terras de José Ferreira Neto, com azimute de 38º17'25" e distância de 484,15m, até o ponto 13; deste, segue por linha seca, confrontando com terras de Olímpio de Souza Campos, com azimute de 136º23'50" e distância de 2.320,00m, até o ponto 14; deste, segue por linha seca, confrontando, ainda, com terras de Olímpio de Souza Campos e de Nilton Porto, com azimute de 138º26'51" e distância de 2.939,81m, até o ponto 15; deste, segue por linha seca, confrontando, ainda, com terras de Nilton Porto e de Antônio Messias, com azimute de 137º57'03" e distância de 3.434,02m, até o ponto 16; deste, segue por linha seca, confrontando com terras de Lourival de Tal, de Elias da Silva e de Wilson Sanção de Araújo, com azimute de 196º46'58" e distância de 3.290,14m até o ponto 17; deste, segue por linha seca, confrontando com terras de Manoel Feitosa, com azimute de 267º30'38" e distância de 1.151,08m, até o ponto 18; deste, segue por linha seca, confrontando, ainda, com terras de Manoel Feitosa e de Cícero Romão Batista, com azimute de 196º33'25" e distância de 1.930,03m, até o ponto 19; deste, segue por linha seca, confrontando, ainda com terras de Cícero Romão Batista e de José Ferreira Neto, com azimute de 288º20'06" e distância de 1.897,37m, até o ponto 20; deste, segue por linha seca, confrontando, ainda, com terras de José Ferreira Neto, com azimute de 265º25'34" e distância de 2.507,99m, atravessando a Rodovia SE-206, até o ponto 1, início da descrição deste perímetro (Fonte de Referência: Carta da SUDENE, Folha SC.24-X-C-VI, Escala 1:100.000, Ano 1973).
+
+Art. 2º Excluem-se dos efeitos deste decreto: a) a área de 4,40ha (quatro hectares e quarenta ares), correspondente à Rodovia SE-206; b) os semoventes, as máquinas e os implementos agrícolas; c) as benfeitorias existentes nas parcelas que integram os imóveis referidos neste decreto e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agrária - INCRA fica autorizado a promover a desapropriação dos imóveis rurais de que trata este Decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 5 Revogam-se as disposições em contrário.
+
+Brasília, 27 de junho de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Dante de Oliveira

@@ -1,0 +1,29 @@
+###DEC-093783-0-000-17-12-1986@@@
+
+DECRETO Nº 93.783, DE 17 DE DEZEMBRO DE 1986
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Quinhão nº 2 da Fazenda Santa Madalena", situado no Município de Wenceslau Braz, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964 e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º É declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e V, da Lei nº 4.504, de 30 de novembro de 1964, o imóvel rural denominado "Quinhão nº 2 da Fazenda Santa Madalena", com a área de 452,5024ha (quatrocentos e cinqüenta e dois hectares, cinqüenta ares e vinte e quatro centiares), situado no município de Wenceslau Braz, no Estado do Paraná, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986.
+
+§ 1º O imóvel a que se refere este artigo tem o seguinte perímetro: partindo do marco 1, de coordenadas geográficas latitude 23º53'35" S e longitude 49º50'28" WGr, situado na confluência de uma sanga com a água do Matadouro, segue à montante da água do Matadouro, confrontando com Quinhão 5 da Fazenda Santa Madalena, numa distância de 4.580m, cruzando a rodovia estadual PR-092, até o marco 2; deste, segue por linha seca, confrontando com a Vila Formosa da Cidade de Wenceslau Braz, com o rumo de 52º47' SE e distância de 135m, até o marco 3; deste, segue por linhas secas, confrontando com terras do Instituto de Terras Cartografia e Florestas - ITCF, com os seguintes rumos e distâncias: 52º30' SO e 230m, até o marco 4; 26º00' SE e 170m, até o marco 5, cravado no limite da faixa de domínio da estrada de ferro da R.F.F. S/A; deste, segue pelo referido limite, numa distância de 460m, até o marco 6; deste, segue por linha seca, cruzando a ferrovia, confrontando com terras de Raul Luiz, com os seguintes rumos e distâncias: 40º00' SE e 605m, até o marco 7; 27º30' NE e 240m, até o marco 8; deste, segue por linha seca, confrontando com terras da Prefeitura Municipal de Wenceslau Braz (Centro Social Urbano), com rumo de 45º00' SE e distância de 405m, até o marco 9, cravado no limite da faixa de domínio da rodovia estadual PR-422; deste, segue pelo referido limite, na distância de 250,70m, até o marco 10; deste, segue por linhas secas, confrontando com terras de Nicolau Dabul, com os seguintes rumos e distância: 70º14' SO e 314,60m, até o marco 11; 86º32' SO e 151,20m, até o marco 12; 37º04' SO e 46,40m, cruzando a ferrovia, até o marco 13; 68º40' SO e 411,60m até o marco 14; 88º55' NO e 689,80m, até o marco 15; 39º05' SO e 404m, até o marco 16; 4º50' SO e 122,50m, até o marco 17; 17º30' SE e 113,90m, até o marco 18; 29º22' SE e 67,60m, até o marco 19; 10º31' SE e 201,50m, até o marco 20; 33º51' SO e 45,60m, até o marco 21; 3º47' SO e 62,60m, até o marco 22; deste, segue por linha seca, confrontando com terras de José de Souza Neto, com rumo de 89º27' NO e distância de 638,30m, cruzando a rodovia estadual PR-092, até o marco 23; deste, segue por linha seca, confrontando com terras de Adão Ribeiro, com rumo de 27º41' NO e distância de 320,50m, até o marco 24, cravado na margem de uma estrada; deste, segue margeando a estrada, confrontando com terras de Adão Ribeiro, Mario Toledo, Joaquim Gil e Miguel Sabater, numa distância de 2.210m, até o marco 25, situado no entroncamento com duas outras estradas; deste, segue pela estrada da direita, confrontando com o lote 55, da Fazenda Santa Madalena, na distância de 293m, até o marco 26; deste, segue por linha seca, confrontando com o lote 87, da Fazenda Santa Madalena, com os seguintes rumos e distâncias: 40º24' NE e 298,06m, até o marco 27; 37º22' NE e 128,30m, até o marco 28, cravado na margem de uma estrada vicinal; deste, segue pela referida estrada, confrontando com os lotes 87 e 134, da Fazenda Santa Madalena, na distância de 380,20m, até o marco 29; deste, segue por linha seca, confrontando com o lote 134, da Fazenda Santa Madalena, com rumo de 62º36' SO e distância de 222,48m, até o marco 30, cravado na margem direita de uma sanga; deste, segue à jusante da sanga, confrontando com o lote 04, da Fazenda Santa Madalena, na distância de 577,96m, até o marco 1, ponto inicial da descrição deste perímetro (Fonte de Referência: Carta Geográfica do IBGE, Folha SF-22-W-III-3, Escala 1:50.000, ano 1970).
+
+§ 2º Do perímetro descrito neste artigo e que encerra uma área de 468,1024ha (quatrocentos e sessenta e oito hectares, dez ares e vinte e quatro centiares), ficam excluídas dos efeitos deste Decreto às áreas de 9,0000ha (nove hectares) referente à faixa de domínio da rodovia estadual 092 e 6,6000ha (seis hectares e sessenta ares), referente à faixa de domínio da R.F.F. S/A.
+
+Art. 2º Excluem-se ainda dos efeitos deste Decreto: a) os semoventes, as máquinas e os implementos agrícolas; b) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agrária - INCRA fica autorizado a promover a desapropriação do imóvel rural de que trata o presente decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 5º Revogam-se as disposições em contrário.
+
+Brasília, 17 de dezembro de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Dante de Oliveira

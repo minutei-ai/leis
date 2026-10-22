@@ -1,0 +1,33 @@
+###DEC-093718-0-000-16-12-1986@@@
+
+DECRETO Nº 93.718, DE 16 DE DEZEMBRO DE 1986
+
+Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Perseverança", situado no Município de Marmeleiro, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161, da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964 e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º É declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens 1 e VI, da Lei nº 4.504, de 30 de novembro de 1964, parte do imóvel rural denominado "Fazenda Perseverança", constituído pelos imóveis Cobra Verde e Reserva (parte), com a área total de 735,50 ha (setecentos e trinta e cinco hectares e cinqüenta ares), situado no Município de Marmeleiro, no Estado do Paraná, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986.
+
+Parágrafo único. O imóvel a que se refere este artigo tem os seguintes perímetros:
+
+a) Área I, Cobra Verde, com área de 48,40 ha (quarenta e oito hectares e quarenta ares): partindo do marco 12, de coordenadas geográficas longitude 53º05'53" WGr e latitude 26º11'02" S, situado na desembocadura da Sanga Cobra Verde com o Lajeado Mandori, segue a montante da Sanga Cobra Verde, confrontando com o imóvel Nova Perseverança - Gleba 03, com a distância de 998,21m, até o marco 13, situado na margem direita da referida sanga; deste, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 03, com azimute de 112º20'03" e distância de 20,63m, até o marco 14; deste, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 03, com azimute de 206º12'59" e distância de 82,99m, até o marco 15, situado na margem direita da Sanga Cobra Verde; deste, segue por linha seca, atravessando a Sanga Cobra Verde, confrontando com o imóvel Nova Perseverança - Gleba 03, com azimute de 206º00'26" e distância de 209,65m, até o marco 16; deste, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 03, com azimute de 296º05'02" e distância de 850,45m, até o marco 17, situado na margem direita do Lajeado Mandori; deste, segue a jusante do referido lajeado, confrontando com a Área II do imóvel Fazenda Perseverança (parte), com a distância de 1.195,00m, até o marco 12, ponto inicial da descrição do perímetro (Fonte de Referência: Levantamento topográfico executado pela empresa Construções e Topografia Basevi Ltda., Escala 1:10.000, Ano 1982).
+
+b) Área II, Reserva (parte), com área de 687,10 ha (seiscentos e oitenta e sete hectares e dez ares): partindo do marco 1, de coordenadas geográficas longitude de 53º08'23" WGr e latitude 26º10'18" S, situado na divisa dos imóveis Fazenda Perseverança e Nova Perseverança - Gleba 02, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 02, com os seguintes azimutes e distâncias: 101º02'59" e 333,08m, até o marco 2; 101º05'13" e 513,81m, até o marco 3, situado na margem direita da Sanga das Serras; deste, segue por linha seca, confrontando com o imóvel Nova Perseverança, com os seguintes azimutes e distâncias: 101º36'36" e 728,41m, até o marco 4; 101º59'03" e 693,84m, até o marco 5; 98º39'31" e 658,52m, até o marco 6, situado na margem de uma estrada; deste, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 02, com azimute de 101º42'19" e distância de 10,00m, até o marco 7; deste, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 02, com azimute de 101º42'19" e distância de 241,07m, até o marco 8, situado na margem de uma sanga; deste, atravessando a referida sanga, segue por linha seca, confrontando com o imóvel Nova Perseverança - Gleba 02, com os seguintes azimutes e distâncias: 100º14'29" e 179,04m, até o marco 9; 100º30'45" e 1.000,71m, até o marco 10; 93º54'19" e 46,60m, até o marco 11, situado na margem esquerda do Lajeado Mandori; deste, segue a montante do Lajeado Mandori; confrontando com o imóvel Nova Perseverança - Gleba 03, com a distância de 694,61m, até o marco 12, situado na margem esquerda do referido Lajeado; deste, segue a montante do já citado Lajeado, confrontando com a Área I do imóvel Fazenda Perseverança, (parte) com a distância de 1.195,00m, até o marco 17, situado na margem esquerda do Lajeado Mandori; deste, segue a montante do referido Lajeado, confrontando com o imóvel Nova Perseverança - Gleba 03, com a distância de 1.140,39m, até o marco 18, situado na divisa dos imóveis Nova Perseverança - Gleba 03 e Fazenda Perseverança (remanescente); deste, segue por linha seca, confrontando com o imóvel Fazenda Perseverança (remanescente), com azimute de 298º19'06" e distância de 1.096,19m, até o marco 19, situado na margem direita da Sanga das Serras; deste, segue a jusante da Sanga das Serras, confrontando com o imóvel Fazenda Perseverança (remanescente), com a distância de 1.785,00m, até o marco 20; deste, segue por linha seca, confrontando com o imóvel Fazenda Perseverança (remanescente), com azimute de 290º59'42" e distância de 1.451,35m, até o marco 21; deste, segue por linha seca, confrontando ainda com o imóvel Fazenda Perseverança (remanescente), com azimute de 09º49'25" e distância de 859,89m, até o marco 1, ponto inicial da descrição do perímetro (Fonte de Referência: Levantamento topográfico executado pela empresa Construções e Topografia Basevi Ltda., Escala 1:10.000, Ano 1982).
+
+Art. 2º Excluem-se dos efeitos deste Decreto: a) os semoventes, as máquinas e os implementos agrícolas; b) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agrária - INCRA, fica autorizado a promover a desapropriação do imóvel rural de que trata o presente Decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º É ressalvado o direito da União de questionar o domínio das terras tituladas irregularmente, observado, o disposto na Lei nº 4.947, de 06 de abril de 1966, no parágrafo único do artigo 13 do Decreto-lei nº 554, de 25 de abril de 1969 e na Lei nº 6.634, de 2 de maio de 1979.
+
+Art. 5º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 6º Revogam-se as disposições em contrário.
+
+Brasília, 16 de dezembro de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Dante de Oliveira

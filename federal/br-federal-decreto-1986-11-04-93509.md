@@ -1,0 +1,25 @@
+###DEC-093509-0-000-04-11-1986@@@
+
+DECRETO Nº 93.509, DE 4 DE NOVEMBRO DE 1986
+
+Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situadas nos Municípios de São Sebastião do Passé e Candeias, no Estado da Bahia, necessários à construção e montagem de novo trecho para o Oleoduto Catú/Mata/Candeias que menciona, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 81, item III, da Constituição, tendo em vista o disposto no art. 24 da Lei nº 2.004, de 3 de outubro de 1953, e de conformidade com o que dispõe o Decreto-Lei nº 3.365, de 21 de junho de 1941, e atendendo à necessidade de a Petróleo Brasileiro S/A - PETROBRÁS construir um novo trecho para o Oleoduto Catú/Mata/Candeias, passando pelos Municípios de São Sebastião do Passé e Candeias, localizados no Estado da Bahia,
+
+DECRETA:
+
+Art.1º - Ficam declarados de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, excluídos os bens de domínio público, compreendidos nas faixas de terras situadas nos Municípios de São Sebastião do Passé e Candeias, no Estado da Bahia, necessários à construção de um novo trecho para o Oleoduto Catú/Mata/Candeias, que transporta óleo cru dos Campos de Catú para a Estação de Candeias, os quais se encontram relacionados neste Decreto e assinalados na planta e desenho que constam do processo MME nº 27000.005531/86-34.
+
+Parágrafo único - As faixas de terra e áreas de propriedade particular a que se refere este Decreto, com aproximadamente 311.694,00m² (trezentos e onze mil, seiscentos e noventa e quatro metros quadrados) estão compreendidas e caracterizadas na descrição seguinte: Faixa de terra com 30,00ms de largura e 10.398,80ms de extensão, aproximadamente, tendo início na estaca zero (EO = MO) de coordenadas UTM N = 8.609.320,011 e E = 567.385,619 situado a 23,59m da válvula que fica no Km 23 + 900m do aludido oleoduto; daí, segue no terreno do loteamento Fazendas Reunidas Lamarão com o azimute verdadeiro de 267º10'26" e distância de 908,53m encontra-se o vértice V1 = M1; daí, segue com o azimute de 277º31'26" e distância de 134,59m encontra-se o vértice V2 = M3; daí, segue com o azimute de 266º23'06" e distância de 1.775,97m encontra-se o vértice V3 = M5 situado no terreno do Sr. Manoel Bernardino da Silva; daí, segue com o azimute de 243º32'26" e distância de 984,52m encontra-se o vértice V4 = M7; daí, segue com o azimute de 258º03'36" e distância de 97,37m encontra-se o vértice V5 = M8; daí, segue com o azimute de 244º59'46" e distância de 510,97m encontra-se o vértice V6 = M10; daí, segue com o azimute de 242º18'26" e distância de 2.820,82m encontra-se o vértice V7 = M14 situado na Fazenda Monte Vidinho de Propriedade do Sr. Antonio Pinto Trindade; daí, segue com o azimute de 244º27'06" e distância de 976,50m encontra-se o vértice V8 = M16 situado na propriedade do Sr. Leodoro Rodrigues; daí, segue com o azimute de 229º07'26" e distância de 227,29m encontra-se o vértice V9 = M17 situado na Fazenda Estopa de propriedade do Sr. Osvaldo Machado Mendonça; daí, segue com o azimute de 194º53'46" e distância de 144,58m encontra-se o vértice V10 = M18 situado na Fazenda Boa Vista de propriedade do Sr. Ademir Pinto de Santana; daí, segue com o azimute de 185º52'06" e distância de 699,70m encontra-se o vértice V11 = M20; daí, segue com o azimute de 199º40'26" e distância de 185,35m encontra-se o vértice V12 = M21; daí, segue com o azimute de 220º41'26" e distância de 332,88m encontra-se o vértice V13 = M22; daí, segue com o azimute de 221º20'26" e distância de 520,21m encontra-se o vértice V14 = M24; daí, segue com o azimute de 226º47'46" e distancia de 43,68m encontra-se o vértice V15 = M25; daí, segue com o azimute de 231º21'06" e distância de 26,83m encontra-se o marco M26 situado na faixa de dutos da PETROBRÁS e ponto final da presente diretriz descrita.
+
+Art. 2º - A Petróleo Brasileiro S/A - PETROBRÁS, fica autorizada a promover e executar, com recursos próprios, amigável ou judicialmente, as desapropriações ou instituições de servidões administrativas e/ou de passagem a que se refere o art. 1º deste Decreto.
+
+Art. 3º - A expropriante, no exercício das prerrogativas asseguradas por este Decreto, poderá, inclusive, alegar urgência para o efeito da prévia imissão provisória na posse do bem, nos termos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956 e Decreto-lei nº 1.075, de 22 de janeiro de 1970.
+
+Art.4º - Este Decreto entrará em vigor na data de sua publicação.
+
+Brasília, em 4 de novembro de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Aureliano Chaves

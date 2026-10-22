@@ -1,0 +1,23 @@
+###DEC-093147-0-000-20-08-1986@@@
+
+DECRETO Nº 93.147, DE 20 DE AGOSTO DE 1986
+
+Homologa a demarcação da terra indígena que menciona, no Estado de Mato Grosso.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o artigo 81, item III, da Constituição Federal, e tendo em vista o disposto no artigo 19, § 1º, da Lei nº 6.001, de 19 de dezembro de 1973,
+
+DECRETA:
+
+Art. 1º Fica homologada, para os efeitos legais, a demarcação administrativa promovida pela Fundação Nacional do Índio - FUNAI, da terra indígena reservada pelo Decreto nº 85.025, de 12 de agosto de 1980, denominada Área Indígena PIMENTEL BARBOSA, de posse imemorial do grupo indígena Xavante, localizada nos Municípios de Canarana/Água Boa, Estado do Mato Grosso.
+
+Art. 2º A área indígena de que trata este Decreto tem a seguinte delimitação: NORTE: O perímetro demarcado desenvolve-se a partir do Marco 01, de coordenadas geográficas aproximadas 13º13'01" S e 51º49'44" WGr., implantado próximo a uma das cabeceiras do Rio Corixão ou Mirapuxi; daí, segue pela margem direita do Rio Corixão ou Mirapuxi, sentido jusante, até o ponto 106, de coordenadas geográficas aproximadas 13º10'02" S e 51º11'52" WGr., localizado na Foz do Rio Corixão ou Mirapuxi no Rio das Mortes; LESTE: Do ponto 106, segue pela margem esquerda do Rio das Mortes, sentido montante, até o ponto 198, de coordenadas geográficas aproximadas 13º37'09" S e 51º28'07" WGr., localizado na Foz do Rio Curuá ou Água Suja no Rio das Mortes; SUL: Do ponto 198, segue pela margem esquerda do Rio Curuá ou Água Suja, no sentido montante, até o ponto 366, de coordenadas geográficas aproximadas 13º46'40" S e 51º53'59" WGr., localizado na Foz do Córrego Areia no Rio Curuá ou Água Suja; daí, segue pela margem esquerda do Córrego Areia, sentido montante, até o ponto 371, de coordenadas geográficas aproximadas 13º45'02" S e 51º55'37" WGr., localizado na Foz do Córrego Água Boa no Córrego Areia; daí, segue pela margem esquerda do Córrego Água Boa, sentido montante, até o Marco 06, de coordenadas geográficas aproximadas 13º45'27" S e 52º02'29" WGr, implantado na margem direita da Rodovia BR-158, sentido Xavantina/Serra Dourada, próxima a uma ponte; OESTE: Do Marco 06 segue por uma linha reta com azimute 32º26'08" com uma distância de 11.123,64m, até o Marco 07, de coordenadas geográficas aproximadas 13º40'22" S e 51º59'09" WGr., implantado na margem direita da Rodovia BR-158, sentido Serra Dourada/Matinha; daí, segue por uma linha reta com azimute de 63º28'42" com uma distância de 4.139,16m, até o Marco 08, de coordenadas geográficas aproximadas 13º39'22" S e 51º57'05" WGr.; daí, segue por uma linha reta de azimute 15º04'29" com uma distância de 6.171,46m, até o Marco 52, de coordenadas geográficas aproximadas 13º36'09" S e 51º56'11" WGr., implantado na margem direita da Rodovia BR-158, sentido Serra Dourada/Matinha; daí, segue por uma linha reta de azimute 38º39'20" com uma distância de 296,72m, até o Marco 51, de coordenadas geográficas aproximadas 13º36'01" S e 51º56'05" WGr., implantado à margem direita da Rodovia BR-158 sentido Serra Dourada/Matinha; daí, segue por uma linha reta de azimute 32º01'31" com uma distância de 492,15m, até o Marco 50, de coordenadas geográficas aproximadas 13º35'48" S e 51º55'56" WGr., implantado à margem direita da Rodovia BR-158, sentido Serra Dourada/Matinha; daí, segue por uma linha reta de azimute 18º26'36" com uma distância de 168,52m, até o ponto auxiliar 02, de coordenadas geográficas aproximadas 13º35'42" S e 51º55'54" WGr., implantado à margem direita da Rodovia BR-158, sentido Serra Dourada/Matinha; daí, segue por uma linha reta de azimute 11º50'37" com uma distância de 315,54m, até o Marco 49, de coordenadas geográficas aproximadas de 13º35'32" S e 51º55'52" WGr., implantado à margem direita da Rodovia BR-158, no sentido Serra Dourada/Matinha; daí, segue por uma linha reta de azimute 12º12'46" com uma distância de 2.018,35m, até o Marco 45, de coordenadas geográficas aproximadas 13º34'28" S e 51º55'38" WGr., implantado à margem direita da Rodovia BR-158, sentido Serra Dourada/Matinha; daí, segue por uma linha reta de azimute 11º33'37" com uma distância de 2.514,74m, até o Marco 40, de coordenadas geográficas aproximadas 13º33'08" S e 51º55'21" WGr., implantado à margem direita da Rodovia BR-158, sentido Serra Dourada/Matinha: daí, segue por uma linha reta de azimute 11º33'37" com uma distância de 2.514,74m, até o Marco 01, ponto inicial da presente descrição perimétrica.
+
+Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 20 de agosto de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Ronaldo Costa Couto
+
+Dante de Oliveira

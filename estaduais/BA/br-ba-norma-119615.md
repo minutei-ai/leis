@@ -1,0 +1,23 @@
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA E FAZ PUBLICAR, NOS TERMOS DO § 7º, DO ARTIGO 80, DA CONSTITUIÇÃO DO ESTADO DA BAHIA , A SEGUINTE
+
+LEI Nº 6.922 DE 16 DE NOVEMBRO DE 1995
+
+Declara de utilidade pública a ASSOCIAÇÃO MATERNO INFANTIL E DE AMPARO AO IDOSO DO MUNICÍPIO DE SERRINHA - AMIAMIS, com sede e foro no município de Serrinha.
+
+A ASSEMBLÉIA LEGISLATIVA
+
+DECRETA:
+
+Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO MATERNO INFANTIL E DE AMPARO AO IDOSO DO MUNICÍPIO DE SERRINHA - AMIAMIS, com sede e foro no município de Serrinha.
+
+Art. 2º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+GABINETE DA PRESIDÊNCIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, EM 16 DE NOVEMBRO DE 1995.
+
+Deputado OTTO ALENCAR
+
+&nbs
+
+Presidente
+
+(Republicada, DOE 22.11.95)

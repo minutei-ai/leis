@@ -1,0 +1,29 @@
+###DEC-093046-0-000-27-07-1986@@@
+
+DECRETO Nº 93.046, DE 27 DE JULHO DE 1986
+
+Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Ibiti", situado no Município de Itararé, no Estado de São Paulo, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 81, item III, e 161 da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964, e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º É declarado de interesse social, para fins de desapropriação, nos termos dos artigos 18, letras, "a", "b", "c" e "d", e 20, item I, da Lei nº 4.504, de 30 de novembro de 1964, o imóvel rural denominado "Fazenda Ibiti", com a área de 9.009,30 ha (nove mil, nove hectares e trinta ares), situado no Município de Itararé, no Estado de São Paulo, e compreendida na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986.
+
+§ 1º O imóvel a que se refere este artigo tem o seguinte perímetro: inicia o perímetro no, ponto 1, de coordenadas UTM N = 7.331.150,00m e E = 673.950,00m, referidas ao MC 51º WGr, situado no limite da faixa de domínio da Estrada de Ferro Sorocabana; deste, segue pelo limite da faixa de domínio da referida estrada, com a distância de 2.100,00m, até o ponto 2; deste, segue por linha seca, confrontando com as terras de Oswaldo Martins e outros, com azimute de 140º00' e distância de 220,00m, até o ponto 3, situado no Córrego da Fazendinha; deste, segue pelo Córrego da Fazendinha, a jusante, com a distância de 1.600,00m, até o ponto 4; deste, segue por linha seca, confrontando com terras de Oswaldo Martins e outros, com azimute de 286º00' e distância de 250,00m, até o ponto 5, situado no limite da faixa de domínio da Estrada de Ferro Sorocabana; deste, segue pelo limite da faixa de domínio da referida estrada, com a distância de 7.250,00m, até o ponto 6, situado à margem esquerda do Rio Verde; deste, segue pela reteria margem, à montante, com a distância de 19.350,00m, até o ponto 9; deste, segue por linha seca, confrontando com terras da Empresa Cirena - Cia. Reflorestadora Nacional, com azimute de 277º00' e distância de 2.800,00m, até o ponto 10, situado no limite da faixa de domínio da Estrada Municipal Itararé/Ventania; deste, segue pela faixa de domínio da referida estrada, com a distância de 5.100,00m, até o ponto 12; deste, segue por linha seca, confrontando com terras da Técnica Florestal S/A., com azimute de 76º30' e distância de 1.750,00m, atravessando a faixa de domínio da Estrada Municipal Itarará/Ventania, até o ponto 13, situado à margem esquerda do Rio Três Barras; deste, segue pela margem esquerda do Rio Três Barras, à montante, com a distância de 3.100,00m, até o ponto 14; deste, segue por linha seca, confrontando com terras da Técnica Florestal S/A, com azimute de 253º00' e distância de 1.900,00m, até o ponto 15; deste, segue por linha seca, com o mesmo confrontante, com azimute de 289º00' e distância de 2.150,00m, até o ponto 16, situado à margem direita do Rio Itararé; deste, segue pela margem direita do Rio Itararé, a jusante, com a distância de 4.600,00m, até o ponto 17; deste, segue por linha seca, confrontando com terras de Dirceu Baggio de Almeida Jorge, com azimute de 38º30' e distância de 2.810,03m, até o ponto 18, situado à margem esquerda do Rio Três Barras; deste, segue pela margem esquerda do Rio Três Barras, a jusante, com a distância de 250,50m, até o ponto 19; deste, segue por linha seca, confrontando com terras de Carlos Menck, com azimute de 38º31' e distância de 582,50m, até o ponto 20; deste, segue por linha seca, com azimute de 311º30' e distância de 700,00m, até o ponto 21; deste, segue por linha seca, com azimute de 38º00' e distância de 300,00m, até o ponto 22; deste, segue por linha seca, com azimute de 313º00' e distância de 650,00m, até o ponto 23; deste, segue por linha seca, confrontando ainda com terras de Carlos Menck, com azimute de 09º03' e distância de 500,00m, até o ponto 24, situado no Córrego da Caiçara; deste, segue pelo Córrego da Caiçara, a montante, com a distância de 4.550,00m, até o ponto 25; deste, segue por linha seca, confrontando com terras da Prefeitura Municipal de Itararé, com azimute de 36º00' e distância de 380,00m, até o ponto 26, situado no limite da faixa de domínio da Estrada Municipal Itararé/Ventania; deste, segue pelo limite da faixa de domínio da referida estrada, com a distância de 1.000,00m, até o ponto 1, início da descrição ao perímetro. (Fontes de Referência: Cartas do IBGE, Folhas SG.22-X-B-I, SG.22-X-B-I-3, SG.22-X-B-I-2 e SG.22-X-B-I-4, Escala 1:500.000, Ano 1974 e Fotografias aéreas da empresa Terrafoto S/A, Escala aproximada 1:35.000, Obra 407, Ano 1980).
+
+§ 2º Do perímetro descrito neste artigo e que encerra uma área global de 9.015,00 ha (nove mil e quinze hectares), fica excluída dos efeitos deste decreto a faixa de domínio da Estrada Municipal Itararé/Ventania, concernente a 5,7 ha.
+
+Art. 2º  Excluem-se dos efeitos deste decreto: a) os semoventes, as máquinas e os implementos agrícolas; b) as benfeitorias existentes nas parcelas que integram o imóvel referido no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agraria - INCRA fica autorizado a promover a desapropriação do imóvel rural de que trata o presente decreto, na forma prevista no Decreto-lei nº 554, de 25 de abril de 1969.
+
+Art. 4º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 5º Revogam-se as disposições em contrário.
+
+Brasília, 27 de julho de 1986; 165º da Independência e 98º da República.
+
+JOSÉ SARNEY
+
+Dante de Oliveira
