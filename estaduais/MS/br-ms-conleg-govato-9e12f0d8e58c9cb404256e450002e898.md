@@ -1,0 +1,24 @@
+ESTADO DE MATO GROSSO DO SUL
+
+LEI Nº 371, DE 18 DE ABRIL DE 1983.
+
+Declara de utilidade pública a Sociedade Esportiva Beneficente de Amigos (SEBA), com sede em campo Grande, Estado de Mato Grosso do Sul.
+
+Publicada no Diário Oficial nº 1.058, de 19 de abril de 1983, página 1.
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL, faço saber que<br>
+a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
+<br>
+Art. 1º - Fica declarada de utilidade pública nos termos da Lei nº<br>
+23 de 13/11/79, a Sociedade Esportiva Beneficente de Amigos<br>
+(SEBA), sociedade civil, recreativa, cultural e beneficente sem<br>
+fins lucrativos com sede em Campo Grande, Estado de Mato Grosso do<br>
+Sul.<br>
+<br>
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
+revogadas as disposições em contrário.<br>
+<br>
+Campo Grande, 18 de abril de 1.983.<br>
+<br>
+WILSON BARBOSA MARTINS<br>
+Governador
