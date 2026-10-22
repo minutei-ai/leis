@@ -1,0 +1,19 @@
+###DEC-075298-0-000-27-01-1975@@@
+
+DECRETO Nº 75.298, DE 27 DE JANEIRO DE 1975.
+
+Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Visconde do Rio Branco, Minas Gerais, mantida pela Fundação "Presidente Antônio Carlos", com sede na cidade de Barbacena, Estado de Minas Gerais.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, de acordo com o artigo 47, da Lei nº 5.540, de 28 de novembro de 1968, alterado pelo Decreto-lei nº 842, de 9 de setembro de 1969, conforme consta do Processo número 250.297-74 do Ministério da Educação e Cultura,
+
+DECRETA:
+
+Art. 1º Fica autorizado o funcionamento do curso de Administração (habilitação em Administração de Empresas) da Faculdade de Ciências Econômicas Contábeis e Administrativas de Visconde do Rio Branco, na cidade de Visconde do Rio Branco, Minas Gerais, mantida pela Fundação "Presidente Antônio Carlos", com sede na cidade de Barbacena, no mesmo Estado.
+
+Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 27 de janeiro de 1975; 154º da Independência e 87º da República.
+
+ERNESTO GEISEL
+
+Ney Braga

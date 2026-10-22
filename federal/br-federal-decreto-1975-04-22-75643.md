@@ -1,0 +1,27 @@
+###DEC-075643-0-000-22-04-1975@@@
+
+DECRETO Nº 75.643, DE 22 DE ABRIL DE 1975.
+
+Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, compreendendo parte do loteamento Fazenda da Luz - 1º Distrito - São Gonçalo, Estado do Rio de Janeiro, destinada à instalação de um parque de transmissores, pela Fundação Radio Mauá.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição e, tendo em vista o disposto nos artigos 5º, letra "h" e 6º do Decreto-lei n.º 3.365, de 21 de junho de 1941,
+
+DECRETA:
+
+Art. 1º É declarada de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, compreendendo parte do loteamento Fazenda da Luz, no 1º Distrito de São Gonçalo, Estado do Rio de Janeiro, com 112.000,00m² de propriedade de Luigi Pellicano, transcrita sob o nº 13.627, fls. 7 do livro 3-Q e de Francesco Paolo Pellicano, transcrita sob o nº 13.628, às fls. 9, livro 3Q na área estão incluídos: I - o lote nº 6 da Quadra 12, de propriedade de Raimundo dos Anjos Pinheiro, transcrito sob o nº 31.574 às fls. 300, do livro 3-AJ; II - o lote nº 12, da Quadra 16, de propriedade de Severino Ramos Alves da Silva, e sua mulher Márcia Silva, transcrito sob o nº 31.683, às fls. 28, do livro 3-AK; III - lotes ns. 4, 5 e 6 da Quadra 16, de propriedade de Nathanael Garcia Alvarenga, transcritos sob os ns 32.068 às fls.124, do Livro 3-AK e 32.064, às fls. 123, do Livro 3-AK; IV - Lotes 14, 15 e 16 da quadra 13, lote 8 da quadra 15, lotes 2, 3, 10 e 15 da quadra 16 todos de propriedade do Espólio de Rodolpho Gonçalves de Siqueira transcritos sob o nº 795, do Livro 3, às fls. 281; V - lote 1 da Quadra 16, de propriedade de Rubens de Souza Monteiro, transcrito sob o nº 5.312. às fls. 159 do Livro 3-F; VI - lote 11 da quadra 9, de propriedade de Antônio Migual da Silva, transcrito sob o nº 4.102, fls. 230 - Livro 3-D; VII - lote 9 da quadra 15, de propriedade de Ana Marques da Silva Lopes, transcrito sob o nº 24.761 às fls. 147, do Livro 3-AC, - todos no Cartório do Registro de Imóveis da 3ª Circunscrição de São Gonçalo, no Estado do Rio de Janeiro, constitui terreno de marinha e acrescidos, nos termos do Decreto-lei nº 9.760, de 5 de setembro de 1946, a área de 13.700,00m², aproximadamente, sobre a qual os proprietários detêm tão somente o domínio útil.
+
+Art. 2º A aludida propriedade - conforme planta constante do processo nº 502-75 do Ministério das Comunicações - assim descreve e se caracteriza: tem o formato irregular e ocupa uma área com 112.000,00m², medindo cerca de 570m, na confrontação, por um de seus lados, com o terreno remanescente de maior porção; cerca de 450,00m na confrontação com a Baía de Guanabara, e, cerca de 660,00m por outro lado, na confrontação com o terreno remanescente de maior porção, e compreende as quadras de ns. 8 a 16 e respectivos arruamentos do loteamento Fazenda da Luz, inscrito, este nos termos do Decreto-lei nº 58, de 10 de dezembro de 1937, sob nº 20, na folha 435 do Livro nº 8 do Cartório do Registro de Imóveis da 3ª Circunscrição do Município de São Gonçalo, do Estado do Rio de Janeiro e possui as seguintes benfeitorias não averbadas no Registro de Imóveis: I- prédio de um pavimento com paredes de alvenaria de tijolos e telhado: - possui sala, quarto, cozinha e banheiro; ocupa uma área total aproximada de 36,00m²; existe um poço próximo à construção; II - prédio de um pavimento com paredes de alvenaria de tijolos e laje de concreto armado; possui 5 quartos, salão, cozinha, 2 banheiros, dispensa e varanda descoberta; ocupa uma área total aproximada de 144,00m²; existe um poço próximo à construção; III - prédio de um pavimento com paredes de alvenaria de tijolos e telhado tipo meia-água; ocupa uma área aproximada de 50,00m²; existe um poço próximo à construção; IV - prédio de um pavimento com paredes de alvenaria de tijolos sem reboco e telhado; ocupa uma área aproximada de 36,00m²; existe um poço próximo à construção; V - prédio de um pavimento com paredes de alvanaria de tijolos e laje de concreto armado; - possui 2 quartos, sala, cozinha, banheiro e varanda; ocupa uma área aproximada de 120.00m²; existe um poço próximo à construção; VI - construção com parte de suas paredes de alvenaria de tijolos e parte em tela de arame e telhado: consta de 4 cômodos; ocupa uma área aproximada de 80,00m²; VII - prédio de um pavimento com paredes de alvenaria de tijolos e telhado; consta de quarto, sala, cozinha e banheiro; - ocupa uma área total aproximada de 31.00m²; existe um poço próximo à construção.
+
+Art. 3º Fica a Fundação Rádio Mauá autorizada a promover a desapropriação da referida área de terreno e benfeitorias, em sua totalidade ou por partes, na forma da legislação vigente, com seus recursos próprios.
+
+Parágrafo Único. Uma vez efetivada a desapropriação a área compreendida em terreno de marinha e acrescidos será objeto de regularização quanto ao aforamento junto ao Serviço de Patrimônio da União - SPU.
+
+Art. 4º Nos termos do artigo 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956 a desapropriação é declarada de caráter urgente para efeito de imediata imissão de posse.
+
+Art. 5º Este Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+Brasília, 22 de abril de 1975; 154º da Independência e 87º da República.
+
+ERNESTO GEISEL
+
+Euclides Quandt de Oliveira

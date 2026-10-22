@@ -1,0 +1,31 @@
+###DEC-076269-0-000-12-09-1975@@@
+
+DECRETA nº 76.269 - de 12 de Setembro de 1975
+
+Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar quartzo no Município de Urussanga, Estado de Santa Catarina.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, e nos termos do artigo 43 do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+DECRETA:
+
+Art. 1º Fica outorgada à Minérios Industriais do Sul S.A. - MINEL concessão para lavrar quartzo em terrenos de propriedades de herdeiros de Victor Feltrin, no lugar denominado Rio Maior, Distrito e Município de Urassanga, Estado de Santa Catarina, numa área de oitenta e dois hectares e cinqüenta ares (82,50 ha) delimitada por um retângulo, que se tem um vértice a seiscentos e sessenta metros (660m), no rumo verdadeira de quarenta graus noroeste (40ºNW) da porta principal da Capela Nossa Senhora dos Campos e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: oitocentos e quarenta metros (840m), oeste (W); quinhentos e cinqüenta metros (550m), norte (N); mil e quinhentos metros (1.500m), leste (E); quinhentos e cinqüenta metros (550m), sul (S); seiscentos e sessenta metros (660m), oeste (W).
+
+Parágrafo Único. A concessão de que trata este artigo é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas e 51 do Código de Mineração e de outras referidas no mesmo Código, não expressamente mencionadas neste Decreto, ficando também estabelecidas o seguinte:
+
+a) a concessão fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963 e da Resolução nº 3 de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear;
+
+b) o concessionário fica obrigado a recolher aos cofres públicos os tributos devidos à União, em cumprimento do disposto no Decreto-lei nº 1.038,de 21 de Outubro de 1969;
+
+c) se o concessionário não cumprir qualquer das obrigações que se lhe incubem, a concessão será declarada caduca ou nula, na forma dos artigos 65 e 66 do Código de Mineração;
+
+d) a concessão de lavra terá por título este Decreto, que será transcrito no livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 2º As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59 do Código de Mineração.
+
+Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.(DNPM 802.122-69)
+
+Brasília, 12 de Setembro de 1975; 154º da Independência e 87º da República.
+
+ERNESTO GEISEL
+
+Shigeaki Ueki

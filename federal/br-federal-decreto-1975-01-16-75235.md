@@ -1,0 +1,19 @@
+###DEC-075235-0-000-16-01-1975@@@
+
+Decreto nº 75.235, de 16 de janeiro de 1975.
+
+Concede reconhecimento ao curso de Agronomia da Escola Superior de Agronomia do Espírito Santo, com sede na cidade de Vitória, Estado do Espírito Santo.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III da Constituição, de acordo com o artigo 47, da Lei nº 5.540, de 28 de novembro 1968, alterado pelo Decreto-lei nº 842, de 9 de setembro de 1969, e tendo em vista o Parecer do Conselho Federal de Educação nºs 4.116-74 conforme consta dos Processos nºs 6.505-74-CFE e GM-BSB 006.065-74 do Ministério da Educação e Cultura,
+
+Decreta:
+
+Art. 1º É concedido o reconhecimento ao curso de Agronomia da Escola Superior de Agronomia do Espírito Santo, com sede na cidade de Vitória, mantida pela Secretária de Educação e Cultura do Espírito Santo.
+
+Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 16 de janeiro de 1975; 154º da Independência e 87º da República.
+
+Ernesto Geisel
+
+Ney Braga

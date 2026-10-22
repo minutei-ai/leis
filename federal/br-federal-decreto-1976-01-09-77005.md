@@ -1,0 +1,31 @@
+###DEC-077005-0-000-09-01-1976@@@
+
+decreto nº 77.005, de 9 de janeiro de 1976.
+
+Autoriza o registro, em nome da União Federal, dos Imóveis que menciona, situados no Estado da Bahia.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o disposto no artigo 2º, item I, da Lei nº 5.972, de 11 de dezembro de 1973.
+
+decreta:
+
+Art. 1º Fica autorizado o registro em nome da União Federal, dos imóveis constituídos por terreno e benfeitorias, localizados no extinto Parque Nacional de Paulo Afonso, ocupados pela 1ª Companhia de Infantaria, situada à Avenida Presidente Vargas, s/nº, na Cidade de Paulo Afonso, no Estado da Bahia, ocupados nos últimos vinte anos pelo Ministério do Exercito, sem interrupção nem oposição, a seguir discriminados:
+
+a) na área do aquartelamento, o ponto 1 foi situado no lado esquerdo da Estrada de Paulo Afonso para Salvador, na ponte sobre o Riacho do Gangorra, na margem esquerda deste. Partindo do ponto 1, Riacho do Gangorra abaixo, medindo-se 915,00m, encontra-se o ponto 2, ainda situado na dita margem esquerda; partindo do ponto 2, com rumo verdadeiro 67º32'SW, medindo-se 389,80m, encontra-se o ponto 3; partindo do ponto 3, com rumo verdadeiro 77º02'NW, medindo-se 61,80m, encontra-se o ponto 4; partindo do ponto 4, com rumo verdadeiro 61º12'NW, medindo-se 145,00m encontra-se o ponto 5; os alinhamentos compreendidos entre os pontos 2 e 5 confrontam com o "Acampamento da CHESF"; partindo do ponto 5, com rumo verdadeiro 25º40'SW, medindo-se 46,50m, encontra-se o ponto 6; partindo do ponto 6, com rumo verdadeiro 84º38'SW, medindo-se 89,70m, encontra-se o ponto 7, situado no lado esquerdo da Estrada de Paulo Afonso para Salvador; os alinhamentos compreendidos entre os pontos 5 e 7, confrontam com terrenos da "Escola Murilo Braga"; partindo do ponto 7, ao longo do lado esquerdo da Estrada de Paulo Afonso para Salvador, medindo-se 687,50m encontra-se o ponto 1, inicio desta descrição e demarcação, fechando um polígono de forma irregular, com superfície de 155.600,00 m2;
+
+b) na área da Vila Militar, o ponto 1 foi situado no lado esquerdo da via pública que vai de Paulo Afonso para Glória, no local onde o imóvel a ser descrito limita com terrenos do Aeroporto de Paulo Afonso. Partindo do ponto 1, com rumo magnético 87º59'SW, medindo-se 1.305,00m, confrontando com terrenos do Aeroporto de Paulo Afonso, encontra-se o ponto 2, situado no lado direito da Estrada que vai de Paulo Afonso para Tapera; partindo do ponto 2, com rumo magnético 03º47'NW, medindo-se 213,82m, ao longo da dita Estrada Paulo Afonso - Tapera, encontra-se o ponto 3; partindo do ponto 3, com rumo magnético 61º27'NE, medindo-se 871,28m, encontra-se o ponto 4; partindo do ponto 4, com rumo magnético 88º45'NE, medindo-se 354,00m, encontra-se o ponto 5; os alinhamentos compreendidos entre os pontos 3 e 5, confrontam com terrenos do extinto Parque Nacional de Paulo Afonso; partindo do ponto 5, ao longo do córrego sem denominação que continua em Canal Vertedouro, confrontando com terrenos do Bispado de Paulo Afonso, medindo-se 234,00m, encontra-se o ponto 6, situado no lado direito da via pública que vai de Glória para Paulo Afonso; partindo do ponto 6, ao longo do lado direito da via pública citada, medindo-se 194,00m, encontra-se o ponto 7; do ponto 7, ainda ao longo do lado direito da referida estrada, medindo-se 214,00m, encontra-se o ponto 1, início desta descrição e demarcação, fechando um perímetro de forma irregular, que encerra uma superfície de 584.574,34 m2;
+
+c) na área do campo de instrução, o ponto 1 foi situado na margem esquerda da BR-110, de quem vai de Paulo Afonso para Salvador, a 260,50m do entroncamento dessa Estrada com outra, Petrolândia -Salvador, onde existe Posto Fiscal. Partindo do ponto 1, com rumo magnético 77º15'NE, medindo-se 1.039,80m encontra-se o ponto 2; partindo do ponto 2, com rumo magnético 31º20'NE, medindo-se 1.396,60m, encontra-se o ponto 3, situado na barranca do Rio São Francisco; os alinhamentos compreendidos entre os pontos 1 e 3 confrontam com terrenos do extinto Parque Nacional de Paulo Afonso; partindo do ponto 3, com rumo magnético 51º45'SE, medindo-se 1.539,40m, encontra-se o ponto 4; partindo do ponto 4, com rumo magnético 10º31'SE, medindo-se 314,90m, encontra-se o ponto 5; partindo do ponto 5, com rumo magnético 39º49'SE, medindo-se 799,40m, encontra-se o ponto 6; partindo do ponto 6, com rumo magnético 00º52'SE, medindo-se 249,20m, encontra-se o ponto 7; partindo do ponto 7, com rumo magnético 40º57'SE, medindo-se 1.628,60m, encontra-se o ponto 8; os alinhamentos compreendidos entre os pontos 3 e 8, confrontam com a barranca do Rio São Francisco; partindo do ponto 8, com rumo magnético 58º57'SW, medindo-se 1.084,40m, encontra-se o ponto 9; partindo do ponto 9, com rumo magnético 62º23'SW, medindo-se 549,30m, encontra-se o ponto 10, partindo do ponto 10, com rumo magnético 72º01'NW, medindo-se 3.785,20m, encontra-se o ponto 11, situado no lado direito da BR-110, de quem vai de Salvador para Paulo Afonso; os alinhamentos compreendidos entre os pontos 8 e 11, confrontam com terrenos da Fazenda Rio do Sal; partindo do ponto 11, com rumo magnético 28º04'NE, medindo-se 1.007,00m, encontra-se o ponto 12; partindo do ponto 12, com rumo magnético 02º43'NW, medindo-se 366,50m, encontra-se o ponto 13; partindo do ponto 13, com rumo magnético 01º58'NW, medindo-se 319,00m, encontra-se o ponto 1, inicio desta descrição e demarcação, fechando um perímetro de forma irregular, que encerra superfície de 10.956.639,00m2; os alinhamentos compreendidos entre os pontos 11 e 1, se desenvolvem ao longo do lado direito da Rodovia que vai de Salvador para Paulo Afonso.
+
+Os imóveis em questão estão caracterizados de acordo com a planta e os documentos que acompanham a Exposição de Motivos nº 217, de 11 de novembro de 1975, do Ministério do Exército.
+
+Art. 2º Os imóveis referidos no artigo 1º pertencem à circunscrição judiciária do Registro Geral de Imóveis da Comarca de Paulo Afonso, BA.
+
+Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 9 de janeiro de 1976; 155º da Independência e 88º da República.
+
+ernesto geisel
+
+Sylvio Frota
+
+José Carlos Soares Freire

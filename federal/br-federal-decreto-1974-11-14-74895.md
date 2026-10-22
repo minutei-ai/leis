@@ -1,0 +1,23 @@
+###DEC-074895-0-000-14-11-1974@@@
+
+Decreto nº 74.895, de 14 de novembro de 1974.
+
+Concede autorização às empresas Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda. para executarem trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, de acordo com o Decreto nº 63.164, de 26 de agosto de 1968, e tendo em vista o que consta do processo nº 317-71, do Ministério das Minas e Energia,
+
+Decreta:
+
+Art. 1º É concedida autorização às empresas Arthur Levy Boat Service, Inc, norte-americana, e Arthur Levy do Brasil, Serviços Marítimos Ltda., para executarem trabalhos de perfuração de poços no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS, mediante contrato entre as mesmas celebrado, empregando a embarcação de perfuração "Gulf Sea Horse", de nacionalidade norte-americana.
+
+Art. 2º A autorização de que trata este Decreto compreende os fins mencionados no artigo 1º e vigorará até 27 de outubro de 1975, prorrogável, mediante novo decreto, sem prejuízo de sua caducidade em qualquer tempo, se ocorrer a conclusão dos trabalhos contratados ou a extinção das obrigações respectivas, na forma da lei ou do contrato.
+
+Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 14 de novembro de 1974; 153º da Independência e 86º da República.
+
+Ernesto Geisel
+
+Geraldo Azevedo Henning
+
+Shigeaki Ueki
