@@ -1,0 +1,43 @@
+###DEC-070986-0-000-16-08-1972@@@
+
+Decerto nº 70.986, de 16 de agosto de 1972.
+
+Declara zonas prioritárias, nos Estados de São Paulo, Rio de Janeiro e Guanabara, para fins de reforma agrária, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 161 da Constituição, e nos termos do artigo 43, da Lei nº 4.504, de 30 de novembro de 1964,
+
+DECRETA:
+
+Art. 1º São declaradas prioritárias para fins da Reforma Agrária:
+
+I - As áreas integradas pelos Municípios de Biritiba-Mirim, Salesópolis, Paraibuna, Natividade da Serra, São Luiz da Paratinga, Cunha, São José do Barreiro, Bananal, Guarujá, Santos, São Sebastião, Ilha Bela, Caraguatatuba e Ubatuba, no Estado de São Paulo;
+
+II - As áreas integradas pelos municípios de Itaguaí, Mangaratiba, Angra dos Reis e Parati, no Estado do Rio de Janeiro;
+
+III - As áreas constituídas pelas denominadas "Regiões Administrativas" de Santa Cruz, Campo Grande e Jacarepaguá, no Estado da Guanabara;
+
+IV - A área referida nos Decretos nºs 68.172, de 4 de fevereiro de 1971, e 70.694, de 8 de junho de 1972.
+
+Art. 2º As áreas prioritárias de que trata o artigo anterior ficarão sobre a justificação do Instituto Nacional de Colonização e Reforma Agrária - INCRA, fixando-se em cinco anos o prazo de intervenção governamental que poderá ser prorrogado.
+
+Art. 3º As florestas e demais formas de vegetação existentes, nas áreas discriminadas no artigo 1º, selecionadas pelo INCRA, ouvido o IBDF, e destinadas às finalidades prescritas no disposto artigo 3º do Código Florestal (Lei nº 4.771, de 15 de setembro de 1965), são consideradas de preservação permanente.
+
+Art. 4º O Instituto Nacional de Colonização e Reforma Agrária - INCRA, no prazo de 180 dias, e feitos os levantamentos e estudos necessários, apresentará o Plano Regional de Reforma Agrária e de situação nas áreas de sua jurisdição, que será aprovado por Instrução Especial do Ministro da Agricultura, o qual especificará:
+
+a) Os objetivos a alcançar, pricipalmente o número de unidades familiares e cooperativas a serem criadas;
+
+b) O cadastro técnico da região, na forma do parágrafo 1º do artigo 46 da Lei nº 4.504, de 30 de novembro de 1964;
+
+c) A regularização de títulos de domínio de imóveis rurais que satifaçam as exigencias da Lei.
+
+Art. 5º O Serviço do Patrimônio da União transferirá ao INCRA, nos termos do artigo 9º, inciso I, e do artigo 10, parágrafo 3º, da Lei nº 4.504, de 30 de novembro de 1964, os imóveis rurais pertencentes à União que estejam situados na área e não tenham destinação específica.
+
+Art. 6º Para execução deste Decreto o INCRA disporá dos recursos próprios previstos no seu orçamento e de outros que lhe forem destinados.
+
+Art. 7º Este Decreto entrará e vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 16 de agosto de 1972; 151º da Independência e 84º da República.
+
+EMÍLIO G. MÉDICI
+
+L. F. Cirne Lima
