@@ -1,0 +1,35 @@
+1
+
+###DEC-097867-0-000-23-06-1989@@@
+
+DECRETO Nº 97.867, DE 23 DE JUNHO DE 1989
+
+Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “RANCHO GRANDE”, “SÃO FELIPE”, “SALVADOR BUENO” e “ACABA VIDA”, classificados como “latifúndio por exploração”, situados no Município de Goiás, Estado de Goiás, compreendidos na zona prioritária fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providencias.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os artigos 84, item IV, e 184, da Constituição, e nos termos dos artigos 18 e 20, da Lei nº 4.504, de 30 de novembro de 1964, e do Decreto-lei nº 554, de 25 de abril de 1969,
+
+DECRETA:
+
+Art. 1º - São declarados de interesse social, para fins de reforma agrária, nos termos dos artigos 18, letras “a”, “b”, “c” e “d”, e 20, itens I e V, da Lei nº 4.504, de 30 de novembro de 1964, os imóveis rurais denominados “RANCHO GRANDE”, “SÃO FELIPE”, “SALVADOR BUENO” e “ACABA VIDA”, com área global de 1.600,9781 ha (um mil e seiscentos hectares, noventa e sete ares e oitenta e um centiares), situados no Município de Goiás, Estado de Goiás, e compreendidos na zona prioritária fixada pelo Decreto nº 92.690, de 19 de maio de 1986.
+
+Parágrafo único - Os imóveis a que se refere este artigo têm os seguintes perímetros:
+
+ÁREA I – “RANCHO GRANDE”, com área de 758,8181 ha (setecentos e cinqüenta e oito hectares, oitenta e um ares e oitenta e um centiares): partindo do P-1, de coordenadas geográficas longitude 50°22’32"WGr e latitude 15°46'21"S, situado na confluência do Córrego Bento Paes ou Água Branca com o Rio Vermelho; deste, segue margeando o citado rio, a montante, com distância de 3.800,00m, até o P-2, situado na margem esquerda do Rio Vermelho; deste, segue por linha seca, confrontando com terras de Luiz Ferreira dos Reis, com rumo geográfico de 09°50’00’’SW e distância de 927,56m, até o P-3; deste, segue por uma estrada vicinal, confrontando com terras de Luiz Ferreira dos Reis e Urbano Berquó, com distância de 1.087,05m, até o P-4, de coordenadas geográficas longitude 50°20’34’’WGr e latitude 15°48’12’’S; deste, segue por linha seca, confrontando com terras de Joaquim Neves, com os seguintes rumos geográficos e distâncias: 80°50’00’’NW e 950,00m, até o P-5; 01°50’00’’SW e 570,00m, até o P-6, de coordenadas geográficas longitude 50°21’19’’WGr e latitude 15°48'25"S; 89°45'00NW e 1.275,00m, até o P-7, situado na faixa de domínio de uma estrada vicinal; deste, segue pela citada estrada, confrontando com terras de José Ademar Leite de Souza, com distância de 1.100,43m, até o P-8; deste, segue por linha seca, confrontando com terras de Afrânio Ferreira, com os seguintes rumos geográficos e distâncias; 39°45’00’’NW e 459,17m, até o P-9; 54°00’00’’SW e 720,00m, até o P-10, de coordenadas geográficas longitude 50°23’27’’WGr e latitude 15°48’15"S; 01°05'00"NE e 610,00m, até o P-11, situado na margem direita do Córrego Bento Paes ou Água Branca; deste, segue pelo citado córrego, a jusante, confrontando com a Fazenda Lontra, com distância de 2.030,00m, até o P-12, situado na confluência do citado córrego com o Ribeirão Resende; deste, segue pelo Ribeirão Resende, a jusante, com a mesma confrontação, com distância de 650,00m, até o P-1, ponto inicial da descrição deste perímetro. (Fontes de referência: Certidões do CRI, Carta do IBGE, Folha SD. 22-Z-C-V, na Escala de 1:100.000, do ano de 1974, e Lei Estadual nº 8.111, de 14-5-1976, que regula a Divisão Política Municipal)”.
+
+ÁREA II – “SÃO FELIPE” e “SALVADOR BUENO”, com área global de 566,2800 ha (quinhentos e sessenta e seis hectares e vinte e oito ares): partindo do P-1, de coordenadas geográficas longitude 50°28’42’’WGr e latitude 15°39’50’’S, situado no espigão divisor de Águas do Rio Vermelho e Ferreiro; deste, segue por linha seca, confrontando com a Fazenda Paiolão, com os seguintes azimutes geográficos e distâncias: 121°45'00’’ e 1.165,00m, até o P-2; 145°00’00’’ e 2.680,00m, até o P-3, de coordenadas geográficas longitude 50°27’17’’WGr e latitude 15°41’24’’S; 207°25’00’’ e 1.400,00m, até o P-4, de coordenadas geográficas longitude 50°27’37’’WGr e latitude 15°42’03’’S, situado na confrontação com a Fazenda Pulchéria; deste, segue por linha seca, confrontando com a Fazenda Pulchéria, com azimute geográfico de 292°05'00’’, e distância de 1.600,00m, até o P-5; deste, segue por linha seca, confrontando com a Fazenda Pulchéria e com terras de Benedito Medeiros, com azimute geográfico de 341°10’00’’ e distância de 3.450,00m, até o P-6 de coordenadas geográficas longitude 50°29’09’’WGr e latitude 15°39'53"S, situado na confrontação com a Fazenda Piedade; deste, segue por linha seca, confrontando com a Fazenda Piedade, com o azimute geográfico de 74°30’00’’ e distância de 770,00m, até o P-1, ponto inicial da descrição deste perímetro. (Fontes de referência: Certidões do CRI, Carta do IBGE, Folha SD.22-Z-C-V, escala 1:100.000, ano de 1974, Planta Topográfica na escala de 1:10.000 e Lei Estadual nº 8.111, de 14-5-1976, que regula a Divisão Política Municipal).
+
+ÁREA III – “ACABA VIDA”, com área de 275,8800 ha (duzentos e setenta e cinco hectares e oitenta e oito ares): partindo do P-2, de coordenadas geográficas longitude 50°29’09’’WGr e latitude 15°42’26’’S, situado na confrontação da Fazenda Vereda Bonita com a Fazenda Pulchéria deste, segue por linha seca, confrontando com a Fazenda Pulchéria, com o rumo geográfico de 47°00’00’’SE e distância de 2.400,00m, até o P-2/A, de coordenadas geográficas longitude 50°28’22’’WGr e latitude 15°43’25’’S; deste, segue por linha seca, confrontando com terras de Geraldo Lourenço, com o rumo geográfico de 39°20’00’’SW e distância de 1.485,00m, até o P-3/A, de coordenadas geográficas longitude 50°28’52’’WGr e latitude 15°44’01’’S, situado na margem direita do Rio Vermelho; deste, segue pelo citado rio, a jusante, com distancia de 1.380,00m, até o P-3, situado na mesma margem, e de coordenadas geográficas longitude 50°29'29"WGr e latitude 15°43'59’’S; deste, segue com o rumo geográfico de 05°06’29’’NE e distância de 2.800,00m, até o P-2, ponto inicial da descrição deste perímetro. (Fontes de referência: Certidão do CRI, Carta do IBGE, folha SD.22-Z-C-VI, na escala de 1:100.000, ano de 1974 e Lei Estadual nº 8.111, de 04/05/76, que define a Divisão Política Municipal).
+
+Art. 2º Excluem-se dos efeitos deste Decreto: a) os semoventes, as máquinas e os implementos agrícolas; e b) as benfeitorias existentes nos imóveis referidos no artigo anterior e pertencentes aos que serão beneficiados com a sua destinação.
+
+Art. 3º O Instituto Nacional de Colonização e Reforma Agrária - INCRA promoverá a desapropriação dos imóveis rurais de que trata o presente Decreto, na forma prevista no Decreto-Lei nº 554, de 25 de abril de 1969.
+
+Art. 4º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 5º Revogam-se as disposições em contrário.
+
+Brasília, 23 de junho de 1989; 168º da Independência e 101º da República.
+
+JOSÉ SARNEY
+
+Iris Rezende Machado
