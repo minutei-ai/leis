@@ -1,0 +1,23 @@
+1
+
+###DEC-000307-0-000-29-10-1991@@@
+
+DECRETO Nº 307, DE 29 DE OUTUBRO DE 1991
+
+Homologa a demarcação administrativa da Área Indígena Nioaque, no Estado do Mato Grosso do Sul.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o inciso IV, do artigo 84, da Constituição, e tendo em vista o disposto no artigo 19, § 1º, da Lei nº 6.001, de 19 de dezembro de 1973,
+
+DECRETA:
+
+Art. 1º Fica homologada, para os efeitos do artigo 231 da Constituição Federal a demarcação administrativa promovida pela Fundação Nacional do Índio FUNAI da Área Indígena Nioaque, localizada no Município de Nioaque, no Estado do Mato Grosso do Sul, com superfície de 3.029,3529ha (três mil, vinte e nove hectares, trinta e cinco ares e vinte e nove centiares) e perímetro de 26.669,41 metros (vinte e seis mil, seiscentos e sessenta e nove metros e quarenta e um centímetros).
+
+Art. 2º A Área Indígena de que trata este Decreto tem a seguinte delimitação: NORTE: Partindo do Marco 1 (um) de coordenadas geográficas 21º09'29"S e 55º46'50"WGr, cravado na margem esquerda do Rio Urumbeba e nas divisas da Estância Oroitê de José Érico Pinheiro, seguindo na direção montante do citado rio até atingir o Marco 2 (dois), cravado nas divisas da Fazenda Urumbeva de Mário de Barros Lima, de coordenadas geográficas 21º08'32"S e 55º42'24"WGr. Leste: Do ponto anteriormente descrito, seguindo na direção sudeste, com azimute verdadeiro de 175º53'24" e distância de 779,205 metros, confrontando-se com a Fazenda Urumbeva de Mário de Barros Lima, até atingir o Marco 3 (três) de coordenadas geográficas 21º08'57'S e 55º42'22''WGr; deste, seguindo na direção sudeste, com azimute verdadeiro de 129º18'09" e distância de 1.054,607 metros, confrontando-se com a Fazenda Urumbeva de Mário de Barros Lima, até atingir o Marco 4 (quatro) de coordenadas geográficas 21º09'19"S e 55º41'54"WGr; deste seguindo na direção sudeste, com azimute verdadeiro de 170º09'16" e distância de 253,192 metros, confrontando-se com a Fazenda Urumbeva de Mário de Barros Lima, até atingir o Marco 5 (cinco) de coordenadas geográficas 21.09'27"S e 55º41'52"WGr; deste, seguindo na direção sudeste, com azimute verdadeiro de 213º20'22" e distância de 1.662,289 metros, confrontando-se com a Fazenda Urumbeva de Mário de Barros Lima até atingir o Marco 6 (seis) de coordenadas geográficas 21º10'12"S e 55º42'23"WGr; deste, seguindo na direção sudoeste com azimute verdadeiro de 213º23'51" e distância de 1.599,668 metros, confrontando-se com a Fazenda Urumbeva de Mário de Barros Lima, até atingir o Marco 7 (sete), cravado nas divisas da Fazenda Santon de Don Leroy Morrison de coordenadas geográficas 21º10'56"S e 55º42'53"WGr. Sul: Do ponto anteriormente descrito, seguindo na direção noroeste, com azimute verdadeiro de 285º25'42" e distância de 1.170,339 metros, confrontando-se com a Fazenda Santon de Don Leroy Morrison, até atingir o Marco 8 (oito) de coordenadas geográficas 21º10'46"S e 55º43'33"WGr; deste, seguindo na direção noroeste, com azimute verdadeiro de 285º33'21" e distância de 2.270,83 metros, confrontando-se com a Fazenda Santo de Do Leroy Morrison e Fazenda São João de Manoel de Oliveira, até atingir o Marco 9 (nove) de coordenadas geográficas 21º10'27"S e 55º44'49''WGr, deste, seguindo na direção noroeste, com azimute verdadeiro de 285º45'24" e distância de 2.024,284 metros, confrontando-se com a Fazenda São João de João Manoel de Oliveira e Rancho São Luiz de Osvaldo Felippia da Conceição e Oliveira, até atingir o Marco 10 (dez) de coordenadas geográficas 21.10'10"S e 55º45'56''WGr; deste, seguindo na direção noroeste, com azimute verdadeiro de 285º52'47" e distância de 1.337,620 metros, confrontando-se com o Rancho São Luiz de Osvaldo Felippia da Conceição e Oliveira e Fazenda Sonho Azul de Luiz Ângelo dos Santos, até atingir o marco 11 (onze), cravado na margem da estrada municipal de coordenadas geográficas 21º09'58"S e 55º46'41"WGr. Oeste: do ponto anteriormente descrito, seguindo na direção noroeste, com azimute verdadeiro de 356º52'37" e distância de 793,320 metros, confrontando-se com a Estância Oroitê de José Érico Pinheiro, até atingir o Marco 12 (doze) de coordenadas geográficas 21º09'32"S e 55º46'43"WGr; deste, seguindo na direção noroeste, com azimute verdadeiro de 296º41'16" e distância de 219,744 metros, confrontando-se com a Estância Oroitê de José Érico Pinheiro, atingir o Marco 1 (um), marco inicial da descrição deste perímetro.
+
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 29 de outubro de 1991; 170º da Independência e 103º da República.
+
+FERNANDO COLLOR
+
+Jarbas Passarinho

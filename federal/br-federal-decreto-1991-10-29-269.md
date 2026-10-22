@@ -1,0 +1,23 @@
+1
+
+###DEC-000269-0-000-29-10-1991@@@
+
+DECRETO Nº 269, DE 29 DE OUTUBRO DE 1991
+
+Homologa a demarcação administrativa da Área Indígena Funil, no Estado do Tocantins.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso IV, da Constituição, e tendo em vista o disposto no art. 19, § 1º, da Lei nº 6.001, de 19 de dezembro de 1973,
+
+DECRETA:
+
+Art. 1º Fica homologada, para os efeitos do art. 231 da Constituição Federal, a demarcação administrativa promovida pela Fundação Nacional do Índio FUNAI da Área Indígena Funil, localizada no Município de Tocantínia, Estado do Tocantins, caracterizada como de ocupação tradicional e permanente indígena, com superfície de 15.703,7974ha (quinze mil, setecentos e três hectares, setenta e nove ares e setenta e quatro centiares) e perímetro de 54.042,73m (cinqüenta e quatro mil, quarenta e dois metros e setenta e três centímetros).
+
+Art. 2º A área indígena de que trata este decreto tem a seguinte delimitação: NORTE: Partindo do Marco 824 de coordenadas geográficas 09º37'18,086"S e 48º24'09,034"WGr., localizado na margem direita do Rio Tocantins e na confrontação do Lote 30, segue por uma linha reta, com azimute e distância de 93º44'36,8" e 1.116,89 metros, até o Marco 260 de coordenadas geográficas 09º37'20,183"S e 48º23'32,487"WGr., localizado na confrontação do Lote 30 com o Lote 26; daí, segue por uma linha reta, com azimute e distância de 92º32'10,8" e 382,71 metros, até o Marco 91 de coordenadas geográficas 09º37'20,639"S e 48º23'19,951"WGr., localizado na margem esquerda do Ribeirão Jacó; daí, segue por este, a montante, com uma distância de 8.300,16 metros, até o Marco 76 de coordenadas geográficas 09º35'48,496"S e 48º20'24,239"WGr., localizado na confluência com o Córrego Posse e na confrontação do Lote 21; daí, segue por uma linha reta, com azimute e distância de 70º10'53,7" e 3.470,79 metros, até o Marco 825 de coordenadas geográficas 09º35'09,396"S e 48º18'37,536"WGr., localizado na confrontação do Lote 21 com o Lote 16; daí, segue por uma linha reta, com azimute e distância de 70º10'53,0" e 1.045,57 metros, até o Marco 836 de coordenadas geográficas 09º34'57,615"S e 48º18'05,393"WGr., localizado na confrontação do Lote 16 com o Lote 94; daí, segue por uma linha reta, com azimute e distância de 70º10'54,0" e 2.000,00 metros, até o Marco 77 de coordenadas geográficas 09º34'35,080"S e 48º17'03,913"WGr., localizado na margem esquerda do Córrego Maracujá e no bordo da Rodovia Estadual GO-370; daí, segue por uma linha reta, com azimute e distância de 72º00'35,4" e 88,11 metros, até o Marco 77/A de coordenadas geográficas 09º34'34,173"S e 48º17'01,174"WGr., localizado na margem direita do Córrego Maracujá; daí, segue pelo citado córrego, a jusante, com uma distância de 636,98 metros, até o Ponto D-126 de coordenadas geográficas 09º34'28,541"S e 48º16'41,850"WGr., localizado na confluência com o Ribeirão Piabanha (do Marco 824 ao Ponto D-126 confronta-se com Lotes 30, 26, 25, 24, Patrimônio de Tocantínia, 22, 21, 16, 94 e 93). Leste: Do ponto antes descrito, segue pelo Ribeirão Piabanha, a montante, com a distância de 11.830,65 metros, até o Ponto D-88 de coordenadas geográficas 09º39'35,460"S e 48º14'00,122"WGr., localizado na confluência com o Córrego Tamanca Sul: Do ponto antes descrito, segue pelo Córrego Tamanca, a montante, com uma distância de 3.960,17 metros, até o Ponto D-58 de coordenadas geográficas 09º41'04,386"S e 48º15'22,930"WGr., localizado na confluência com o Córrego Invernada; daí, segue por este, a montante, com uma distância de 7.416,25 metros, até a sua cabeceira, no Marco 68 de coordenadas geográficas 09º41'06,674"S e 48º19'07,110"WGr.; daí, segue pela Serra Lageado, passando pelos seguintes marços: Marco 69 de coordenadas geográficas 09º41'07,954"S e 48º19'23,106"WGr.; Marco 29 de coordenadas geográficas 09º41'10,654"S e 48º19'26,014"WGr., com uma distância de 3.707,14 metros, até o Ponto D-713 de coordenadas geográficas 09º40'24,726"S e 48º20'51,904"WGr., localizado na margem direita do Córrego Taboca; daí, segue por este, a jusante, com uma distância de 2.725,31 metros, até o Marco 5 de coordenadas geográficas 09º40'24,479"S e 48º22'16,061"WGr., localizado na confluência com o Rio Tocantins. (Do Ponto D-88 ao Marco 5 confronta-se com Lotes 63, Faz. Invernada, 61, 60, 32, 31). Oeste: Do marco antes descrito, segue pelo Rio Tocantins, a jusante, com uma distância de 7.361,98 metros, até o Marco 824, início da descrição deste perímetro.
+
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 29 de outubro de 1991; 170º da Independência e 103º da República.
+
+FERNANDO COLLOR
+
+Jarbas Passarinho
