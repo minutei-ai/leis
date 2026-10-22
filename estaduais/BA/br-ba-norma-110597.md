@@ -1,0 +1,30 @@
+LEI Nº 9.386 DE 12 DE JANEIRO DE 2005
+
+Ver também:<br>
+Lei nº 13.356, de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios, a saber: Cabaceiras do Paraguaçu, Cachoeira, Castro Alves, Conceição do Almeida, Cruz das Almas, Dom Macedo Costa, Governador Mangabeira, Muniz Ferreira, Muritiba, Santo Antônio de Jesus, São Felipe, São Félix, São Francisco do Conde, São Sebastião do Passé, Sapeaçu, Saubara e Varzedo. 
+
+Redefine os limites do município de GOVERNADOR MANGABEIRA, criado em 1962, através da Lei nº 1639, desmembrado do território de Muritiba.
+
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuição prevista no [art. 80, § 7º da Constituição do Estado da Bahia](https://www.legislabahia.ba.gov.br/documentos/lei-no-9386-de-12-de-janeiro-de-2005#Const_Est_Art__80_P_7) , combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembléia aprovou e eu promulgo a seguinte Lei:
+
+Art. 1º - Os limites do município de GOVERNADOR MANGABEIRA, estabelecidos na forma da Lei Estadual nº 1639, e alterações subseqüentes, ficam redefinidos, passando a vigorar com a seguinte redação:
+
+COM O MUNICÍPIO DE CABACEIRAS DO PARAGUAÇU - Começa no marco de Coordenada UTM 24L 0480668E.8608439N, situado no centro da lagoa da Itapororoca; daí em reta ao marco de Coordenada UTM 24L 0481447E.8609220N, situado na estrada Quixabeira/Viração; daí em reta ao marco de Coordenada UTM 24L 0482263E. 8610028N, situado no centro da lagoa do Jacarezinho: daí em reta ao marco de Coordenada UTM 24L 0484192E. 8611009N, situado no centro da lagoa da Carpina: daí em reta ao marco de Coordenada UTM 24L 0485915E.8611541N, situado na estrada, à margem da lagoa do Furtado; daí em reta ao marco de Coordenada UTM 24L 0486415E. 8611541N, situado na estrada de Quixabeira/Sobrado; daí em reta ao marco de Coordenada UTM 24L 0489456E.8612495N, situado na estrada de Geolândia; daí em reta ao marco de Coordenada UTM 24L 0493636E-8613659N, situado na foz do riacho do Brejo, na barragem Pedra do Cavalo, no rio Paraguaçu.
+
+COM O MUNICÍPIO DE CONCEIÇÃO DE FEIRA Começa no marco de Coordenada UTM 24L 0493636E. 8613659N, situado na foz do riacho do Brejo, na barragem Pedra do Cavalo, no rio Paraguaçu; pelo talvegue deste abaixo, até o marco de Coordenada UTM 24L 0499427E.8611725N, situado na foz do riacho do Saco.
+
+COM O MUNICÍPIO DE CACHOEIRA Começa no marco de Coordenada UTM 24L 0499427E.8611725N, situado na foz do riacho do Saco, na barragem Pedra do Cavalo no rio Paraguaçu; pelo talvegue do qual desce, até o marco de Coordenada UTM 24L 0501443E. 8607735N, situado na foz do riacho da Légua.
+
+COM O MUNICÍPIO DE MURITIBA Começa no marco de Coordenada UTM 24L 0501443E. 8607735N, situado no rio Paraguaçu, na foz do riacho da Légua; daí em reta ao marco de Coordenada UTM 24L 0500326E. 8607397N, situado na rodovia BR-101, acompanha o eixo desta, no sentido Muritiba, até o marco de Coordenada UTM 24L 0498359E.8606780N, situado no entroncamento de Muritiba; daí em reta ao marco de Coordenada UTM 24L 0498397E. 8606267N, situado na antiga estrada de Muritiba/Governador Mangabeira; daí em reta ao marco de coordenada UTM 24L 0498464E.8605249N, situado na fazenda Vilaboim; daí em reta ao marco de Coordenada UTM 24L 0496683E. 8604737N, situado na estrada do Gravatá de Baixo; daí em reta ao marco de coordenada UTM 24L 0495815E.8604526N, situado na estrada para o Gravatá de Baixo; daí em reta ao marco de Coordenada UTM 24L 0495143E.8604117N, situado estrada Gravatá de Cima/Governador Mangabeira; daí em reta ao marco de Coordenada UTM 24L 0493703E. 8603221N, situado numa nascente, do riacho do Cobocó (Fonte do Boi); daí em reta ao marco de Coordenada UTM 24L 0493139E.8603697N, situado na estrada de Laranjeiras; daí em reta ao marco de Coordenada UTM 24L 0490984E.8605583N, situado na estrada do Carro Quebrado; daí em reta ao marco de Coordenada UTM 24L 0490826E. 8605701N, situado na rodovia BR-101; daí em reta ao marco de Coordenada UTM 24L 0489748E. 8606635N, situado na estrada da Caatinga Seca; daí em reta ao marco de Coordenada UTM 24L 0489564E.8606787N, situado na estrada de Pernambuco daí em reta ao marco de Coordenada UTM 24L 0489269E. 8607054N, situado na estrada Encruzo/Lagoa da Rosa; daí em reta ao marco de Coordenada UTM 24L 0488749E. 8607506N, situado na estrada de Palames; daí em reta ao marco de Coordenada UTM 24L 0488438E. 8607782N, situado na estrada da Lagoa dos Palames; daí em reta ao marco de Coordenada UTM 24L 0488269E. 8607931N, situado no centro da Lagoa dos Palames; daí em reta ao marco de Coordenada UTM 24L 0486563E. 8607936N, situado na estrada de Tocos II; daí em reta ao marco de Coordenada UTM 24L 0485984E. 8607939N, situado na estrada de Tocos II; daí em reta ao marco de Coordenada UTM 24L 0485623E. 8607934N, situado na estrada de Tocos III; daí em reta ao marco de Coordenada UTM 24L 0485482E. 8607945N, situado na estrada de Tocos III; daí em reta ao marco de Coordenada UTM 24L 0485133E. 8607942N, situado no Tocos III; daí em reta ao marco de Coordenada UTM 24L 0483940E. 8607937N, situado na estrada da Quixabeira; daí em reta ao marco de Coordenada UTM 24L 0482932E. 8607942N, situado na estrada do Mil Peixes/Governador Mangabeira; daí em reta ao marco de Coordenada UTM 24L 0482029E. 8607953N, situado na baixa, no Mil Peixes; daí em reta ao marco de Coordenada UTM 24L 0481567E. 8607791N, situado na baixa do Jacaré Grande; daí em reta ao marco de Coordenada UTM 24L 0480668E. 8608439N, situado no centro da Lagoa da Itapororoca.
+
+Art. 2º - A área do território fixada nos limites constantes nesta Lei, corresponde a 107,56 km2 (cento e sete quilômetros, cinqüenta e seis hectômetros quadrados).
+
+Art. 3ª - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+GABINETE DA PRESIDÊNCIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, EM 12 DE JANEIRO DE 2005.
+
+Deputado GABAN
+
+Presidente
+
+* * *
