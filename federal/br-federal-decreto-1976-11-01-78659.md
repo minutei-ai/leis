@@ -1,0 +1,29 @@
+###DEC-078659-0-000-01-11-1976@@@
+
+DECRETO Nº 78.659, de 1 de Novembro de 1976.
+
+Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias, necessárias à implantação do canteiro de obras, e demais unidades de serviço, bem como à formação do reservatório da Usina Hidrelétrica de Tucuruí, da Centrais Elétricas do Norte do  Brasil S. A - ELETRONORTE, localizadas no Estado do Pará.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, tendo em vista o disposto no artigo 151, letra "b" do Código de Águas e no Decreto-lei  número 3.365, de 21 de junho de 1941, e o que consta do Processo nº MME 704.949-75,
+
+DECRETA:
+
+Art. 1º Ficam declaradas de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias de propriedade particular, excluídos os bens de domínio público, totalizando 8.184,3749 Km2 (oito mil, cento e oitenta e quatro quilômetros quadrados, três mil, setecentos e quarenta e nove decâmetros quadrados) situadas nos Município de Bagre, Itupiranga, Jacundá, Marabá, São Domingos do Capim e Tucuruí, no Estado do Pará, e necessárias à implantação do canteiro de obras, e demais unidades de serviço, bem como à formação do reservatório da Usina Hidrelétrica e Tucuruí, localizada no rio Tocantins, cuja concessão foi outorgada à Centrais Elétricas do Norte do Brasil S. A. - ELETRONORTE, pelo Decreto nº 74.279, de 11 de julho de 1974.
+
+Art. 2º As áreas de terra referidas no artigo anterior compreendem aquelas constantes das plantas de situação números UHE-TUC-G-134-R-1 e TUC-10-2407, aprovadas por ato do Diretor da Divisão de Concessão de Serviços de Eletricidade do Departamento Nacional de Águas e Energia Elétrica do Processo nº MME 704.949 de 1975 e assim descritas:
+
+\- a poligonal parte do vértice VI, faz uma deflexão à direita de 112º39'42,66" no sentido SE, percorrendo 9.264,748 m até atingir V2. Em seguida, em V2, faz uma deflexão a esquerda de 77º39'42.60" no sentido NE, percorrendo 7.071,067 m até atingir V3. Em V3, faz uma deflexão à direita de 71º 33' 01,84" no sentido SE, percorrendo 5.590,169 m até atingir V4.
+
+Em V4, faz deflexão à direita de 18º26'05,82" no sentido SE, percorrendo 3.535.533 m até atingir V5. Em V5, faz uma deflexão à direita de 66º48 05,19" no sentido SW, percorrendo 13.462,912m até atingir V6. Em V6, faz uma deflexão à esquerda de 21º48'05,15" no sentido S, percorrendo 10.000,000m até atingir V7. Em V7, faz uma deflexão à esquerda de 30º38'15,72" no sentido SE, percorrendo 14.142,135m até atingir V9. Em V9, faz uma deflexão à direita de 18º 26' 05,82" no sentido SE, percorrendo 44.721,359m até atingir V10. Em V10, faz uma deflexão à esquerda de 18º 26' 05,82" no sentido SE, percorrendo 14.142,135m até atingir V11. Em V11, faz uma deflexão à direita de 90º 00' 00,00" no sentido SW, percorrendo 28.285,271m até atingir V12. Em V12 faz uma deflexão à esquerda de 90º 00' 00,00" no sentido SE, percorrendo 14.142,135m até atingir V13. Em V13 faz uma deflexão à direita de 90º 00'00,00" no sentido SW, percorrendo 14.142,135m até atingir V14.Em V14 faz uma deflexão à esquerda de 90º 00' 00,00" no sentido SE, percorrendo 14.142,135m até atingir V15.Em V15, faz uma deflexão à direita de  30º 38' 15,36" no sentido SE percorrendo 20.615,528m até atingir V16. Em V16 faz uma deflexão à direita de 14º 21' 44,64" no sentido S, percorrendo 5.000.000m até atingir V17. Em V17 faz uma deflexão à direita de 108º 26' 05,78" no sentido NW, percorrendo 15.811,388m até atingir V18.Em V18 faz uma deflexão à direita de 45º 00' 01,13" no sentido NW, percorrendo 22.360,679m até atingir V19. Em V19, faz uma deflexão à direita de 26º 33'53,18" no sentido N percorrendo 10.000.000m até atingir V20. Em V20, faz uma deflexão à esquerda de 33º 41'24,29" no sentido NW percorrendo 36.055,512m até atingir V21. Em V21, faz uma deflexão à direita de 33º 41'24,29" no sentido N, percorrendo 10.000.000m até atingir V22. Em V22, faz uma deflexão à esquerda de 63º 26'05,82" no sentido NW, percorrendo 22.360,679m até atingir V23. Em V23, faz uma deflexão à direita de 18º 26'05,82" no sentido NW percorrendo 14.142,135m até atingir V24. Em V24, faz uma deflexão à esquerda de 45º 00'00,00" no sentido W percorrendo10.000.000m até atingir V25. Em V25, faz uma deflexão à direita de 45º 00'00,00" no sentido NW, percorrendo 14.142,135m até atingir V26. Em V26, faz uma deflexão à direita de 45º00'00,00" no sentido N, percorrendo 10.000,000m até atingir V27. Em V27, faz uma deflexão à direita de 45º00'00,00" no sentido NE, percorrendo 14.142,135m até atingir V28. Em V28, faz uma deflexão à esquerda de 58º14'25,88" no sentido NW percorrendo 43.660,622m até atingir N29. Em V29, faz uma deflexão à direita de 51º54'01,20" no sentido NE, percorrendo 16.007,810m até atingir V30. Em V30, faz uma deflexão à direita de 51º20'24,09" no sentido E, percorrendo 27.500,000m até atingir V31. Em V31, faz uma deflexão à esquerda de 48º38'45,03" no sentido NE, percorrendo 3.330,165m até atingir V1, vértice inicial da contagem.
+
+Art. 3º Fica autorizada a Centrais Elétricas do Norte do Brasil S. A. - ELETRONORTE a promover a desapropriação das áreas de terra e benfeitoria de que trata deste Decreto, na forma de legislação vigente, com os recursos próprios.
+
+Parágrafo único. Nos termos do artigo 15 do Decreto-lei nº 3.365 de 21 de junho de 1941, modificado pela Lei número 2.786, de 21 de maio de 1956, fica a expropriante autorizada a invocar o caráter de urgência processo de desapropriação, para fins de imissão de posse das áreas de terra e benfeitorias abrangidas por este Decreto.
+
+Art. 4º Este Decreto estará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+Brasília, 1 de Novembro de 1976; 155º da Independência e 88º da República.
+
+Ernesto Geisel
+
+Armando Rodrigues Barbalho
