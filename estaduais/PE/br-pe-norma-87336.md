@@ -1,6 +1,6 @@
 **LEI Nº 19.166, DE 5 DE JANEIRO** **DE** **2026.**
 
-**Estabelece objetivos e diretrizes para a atenção aos cuidadores exclusivos de pessoas com deficiência, e define diretrizes para a sua implementação em Pernambuco****.**
+**Estabelece objetivos e diretrizes para a atenção aos cuidadores exclusivos de pessoas com deficiência, e define diretrizes para a sua implementação em Pernambuco**<strong>.</strong>
 
 O PRESIDENTE EM EXERCÍCIO DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO:
 

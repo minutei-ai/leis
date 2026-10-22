@@ -1,6 +1,6 @@
 **LEI Nº 19.182, DE 5 DE JANEIRO DE 2026.**
 
-**Altera a [Lei nº 15.161, de 27 de novembro de 2013](https://legis.alepe.pe.gov.br/?lo151612013), que altera a estrutura organizacional e Administrativa da Assembleia Legislativa do Estado de Pernambuco; reajusta os percentuais que indica; e dá outras providências****.**
+**Altera a [Lei nº 15.161, de 27 de novembro de 2013](https://legis.alepe.pe.gov.br/?lo151612013), que altera a estrutura organizacional e Administrativa da Assembleia Legislativa do Estado de Pernambuco; reajusta os percentuais que indica; e dá outras providências**<strong>.</strong>
 
 O PRESIDENTE EM EXERCÍCIO DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO:
 
