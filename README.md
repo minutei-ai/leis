@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**94.870 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**97.136 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,20 +16,21 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 18.695 |
+| Federal | [Brasil](federal/) | 18.760 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
+| Estadual | [Alagoas](estaduais/AL/) | 2 |
 | Estadual | [Amapá](estaduais/AP/) | 7 |
 | Estadual | [Amazonas](estaduais/AM/) | 8 |
-| Estadual | [Bahia](estaduais/BA/) | 2.943 |
+| Estadual | [Bahia](estaduais/BA/) | 3.251 |
 | Estadual | [Ceará](estaduais/CE/) | 110 |
 | Estadual | [Espírito Santo](estaduais/ES/) | 20 |
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
 | Estadual | [Mato Grosso](estaduais/MT/) | 336 |
-| Estadual | [Minas Gerais](estaduais/MG/) | 41.826 |
+| Estadual | [Minas Gerais](estaduais/MG/) | 43.238 |
 | Estadual | [Paraíba](estaduais/PB/) | 1 |
 | Estadual | [Paraná](estaduais/PR/) | 11 |
 | Estadual | [Pernambuco](estaduais/PE/) | 19 |
-| Estadual | [Rio de Janeiro](estaduais/RJ/) | 101 |
+| Estadual | [Rio de Janeiro](estaduais/RJ/) | 580 |
 | Estadual | [Rio Grande do Norte](estaduais/RN/) | 43 |
 | Estadual | [Roraima](estaduais/RR/) | 1 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
@@ -46,7 +47,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Rio de Janeiro, do Rio Grande do Norte, de Santa Catarina e de São Paulo, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Prefeitura e da Câmara Municipal de São Paulo e do Diário Oficial de Roraima.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Rio de Janeiro, do Rio Grande do Norte, de Santa Catarina e de São Paulo, das Casas Civis do Acre, da Bahia, de Goiás e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Prefeitura e da Câmara Municipal de São Paulo e do Diário Oficial de Roraima.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais e atualizados, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 

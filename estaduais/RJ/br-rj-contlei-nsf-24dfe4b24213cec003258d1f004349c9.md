@@ -1,0 +1,62 @@
+<br>
+<br>
+**LEI Nº 10.984 DE 08 DE OUTUBRO DE 2025.**<br>
+<br>
+<br>
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><b><font face="Arial">ALTERA A LEI N.º 5.645, DE 6 DE JANEIRO DE 2010, PARA INCLUIR, NO CALENDÁRIO OFICIAL DO ESTADO DO RIO DE JANEIRO, A SEMANA ESTADUAL DE CONSCIENTIZAÇÃO SOBRE A DEPRESSÃO FEMININA.</font></b></td></tr></tbody></table>
+
+<br>
+
+**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO**
+
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:
+
+**RESOLVE:**
+
+<br>
+**Art. 1º** Fica alterado o anexo da [Lei n.º 5.645, de 6 de janeiro de 2010](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzUzZmY4NTRlZGRlYjNmNDg4MzI1NzY4NjAwNWY0ZDcwP09wZW5Eb2N1bWVudA==), que consolida a legislação relativa às datas comemorativas no Estado do Rio de Janeiro, para incluir, no Calendário Oficial do Estado do Rio de Janeiro, a Semana Estadual de Conscientização sobre a Depressão Feminina, a ser comemorada na semana que compreender o dia 10 de outubro.<br>
+<br>
+**Art. 2º** A Semana Estadual de Conscientização sobre a Depressão Feminina terá por objetivos:<br>
+<br>
+**I –** promover, perante a comunidade, debates, palestras e eventos, abrangendo todos os aspectos da doença;<br>
+<br>
+**II –** estimular a implementação e a divulgação de políticas públicas para o enfrentamento da doença;<br>
+<br>
+**III –** divulgar os avanços obtidos em diagnóstico e tratamento da doença;<br>
+<br>
+**IV –** divulgar as formas de acesso à atenção à saúde mental.<br>
+<br>
+**Art. 3º** O Anexo da Lei n.º 5.645, de 6 de janeiro de 2010, passa a vigorar com a seguinte redação:<br>
+
+**_“ANEXO_**<br>
+<br>
+**_CALENDÁRIO DATAS COMEMORATIVAS DO ESTADO DO RIO DE JANEIRO:_**<br>
+<br>
+**_(...)_**<br>
+<br>
+**_OUTUBRO_**<br>
+<br>
+**_(...)_**<br>
+<br>
+**_10 – (...)_**<br>
+<br>
+**_(...)_**<br>
+<br>
+**_SEMANA ESTADUAL DE CONSCIENTIZAÇÃO SOBRE A DEPRESSÃO FEMININA (NR)”_**
+
+<br>
+**Art. 4º** Esta lei entra em vigor na data de sua publicação.<br>
+<br>
+<br>
+
+Rio de Janeiro, 08 de outubro de 2025.<br>
+<br>
+**CLAUDIO CASTRO**<br>
+**Governador**<br>
+
+<br>
+
+<br>
+<br>

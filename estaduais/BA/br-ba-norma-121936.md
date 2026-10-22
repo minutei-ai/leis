@@ -1,0 +1,15 @@
+LEI Nº 12.174 DE 12 DE JANEIRO DE 2011
+
+Declara de utilidade pública a ASSOCIAÇÃO COMUNITÁRIA DE AGUADA NOVA E UMBURANA, com sede e foro no município de Capela do Alto Alegre.
+
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembléia aprovou e eu promulgo a seguinte Lei:
+
+Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO COMUNITÁRIA DE AGUADA NOVA E UMBURANA, com sede e foro no município de Capela do Alto Alegre.
+
+Art. 2º - Esta Lei entra em vigor na data de sua publicação.
+
+GABINETE DA PRESIDÊNCIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, EM 12 DE JANEIRO DE 2011.
+
+Deputado MARCELO NILO
+
+Presidente
