@@ -1,0 +1,20 @@
+ESTADO DE MATO GROSSO DO SUL
+
+LEI Nº 6.447, DE 4 DE JULHO DE 2025.
+
+Dá denominação à sala do Tribunal do Júri da comarca de Deodápolis.
+
+Publicada no Diário Oficial nº 11.877, de 7 de julho de 2025, página 2.
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
+<br>
+Art. 1º Fica denominada a sala do Tribunal do Júri da comarca de Deodápolis com o nome de Juiz Rubens Witzel Filho.<br>
+<br>
+Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
+<br>
+Campo Grande, 4 de julho de 2025.
+
+<br>
+EDUARDO CORRÊA RIEDEL<br>
+Governador do Estado
