@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.594, DE 22 DE MARÇO DE 2023
 
-### Prorroga o prazo previsto no parágrafo único do artigo 3º do Decreto nº 67.473, de 6 de fevereiro de 2023.
+### _Prorroga o prazo previsto no parágrafo único do artigo 3º do Decreto nº 67.473, de 6 de fevereiro de 2023._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

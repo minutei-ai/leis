@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.918, DE 10 DE AGOSTO DE 2021
 
-### Cria 1 (um) Centro de Integração da Cidadania, na Coordenadoria de Integração da Cidadania, da Secretaria da Justiça e Cidadania, e dá providências correlatas
+### _Cria 1 (um) Centro de Integração da Cidadania, na Coordenadoria de Integração da Cidadania, da Secretaria da Justiça e Cidadania, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

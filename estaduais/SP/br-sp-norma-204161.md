@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.891, DE 27 DE JUNHO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S.A., as áreas necessárias à duplicação da via denominada "Contorno Alternativo de São Roque", no trecho entre os km 61+000m e 63+000m da Rodovia SP-270, no Município de São Roque, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S.A., as áreas necessárias à duplicação da via denominada "Contorno Alternativo de São Roque", no trecho entre os km 61+000m e 63+000m da Rodovia SP-270, no Município de São Roque, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e do [Decreto nº 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320),<br>
 Decreta:<br>

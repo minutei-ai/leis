@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 836, de 2021, do Deputado Ataide Teruel - PODE)
 
-### Institui a "Semana de Prevenção e Combate à Insuficiência Renal Crônica e do Paciente Transplantado"
+### _Institui a "Semana de Prevenção e Combate à Insuficiência Renal Crônica e do Paciente Transplantado"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

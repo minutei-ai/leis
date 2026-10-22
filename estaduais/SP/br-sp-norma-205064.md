@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1272, de 2019, do Deputado Rafa Zimbaldi - PSB)
 
-### Denomina "Professora Jane Marcelino Leite da Silva" a Escola Estadual Campo Grande II, em Campinas
+### _Denomina "Professora Jane Marcelino Leite da Silva" a Escola Estadual Campo Grande II, em Campinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:

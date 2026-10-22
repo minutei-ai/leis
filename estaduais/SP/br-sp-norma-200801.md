@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.202, DE 09 DE NOVEMBRO DE 2021
 
-### Cria e organiza, no Departamento de Inteligência e Segurança da Administração Penitenciária, o Centro de Controle e Operações Penitenciárias - CECOP, e dá providências correlatas
+### _Cria e organiza, no Departamento de Inteligência e Segurança da Administração Penitenciária, o Centro de Controle e Operações Penitenciárias - CECOP, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

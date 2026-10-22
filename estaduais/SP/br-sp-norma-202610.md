@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.574, DE 16 DE MARÇO DE 2022
 
-### Cria, no Conjunto Hospitalar do Mandaqui, a Gerência de Enfermagem e dá providências correlatas
+### _Cria, no Conjunto Hospitalar do Mandaqui, a Gerência de Enfermagem e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 712, de 2021, do Deputado Campos Machado - AVANTE)
 
-### Declara de utilidade pública o Grupo Unido pela Reintegração Infantil - GURI, com sede na Capital
+### _Declara de utilidade pública o Grupo Unido pela Reintegração Infantil - GURI, com sede na Capital_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

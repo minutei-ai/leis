@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.703, DE 05 DE MAIO DE 2022
 
-### Acrescenta dispositivo ao Decreto nº 66.623, de 1º de abril de 2022, que dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal nº 11.738, de 16 de julho de 2008
+### _Acrescenta dispositivo ao Decreto nº 66.623, de 1º de abril de 2022, que dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal nº 11.738, de 16 de julho de 2008_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

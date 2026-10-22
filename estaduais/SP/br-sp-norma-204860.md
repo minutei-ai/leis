@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.051, DE 17 DE AGOSTO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas complementares necessárias à implantação de dispositivo de acesso e retorno na altura do km 32+000m da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas complementares necessárias à implantação de dispositivo de acesso e retorno na altura do km 32+000m da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto nº 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
 Decreta:<br>

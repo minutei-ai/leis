@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.860, DE 21 DE JUNHO DE 2022
 
-### Cria e transfere unidades policiais que especifica, no âmbito do Departamento de Inteligência da Polícia Civil - DIPOL, e dá providências correlatas
+### _Cria e transfere unidades policiais que especifica, no âmbito do Departamento de Inteligência da Polícia Civil - DIPOL, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.952, DE 07 DE JULHO DE 2022
 
-### Transfere, do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Esportes, a administração do imóvel que especifica, localizado no Município de Franca
+### _Transfere, do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Esportes, a administração do imóvel que especifica, localizado no Município de Franca_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

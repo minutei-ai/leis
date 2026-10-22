@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.456, DE 20 DE JANEIRO DE 2023
 
-### Transfere o cargo que especifica e dá providências correlatas.
+### _Transfere o cargo que especifica e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 54 e 55 da [Lei Complementar nº 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.921, DE 12 DE AGOSTO DE 2021
 
-### Institui, junto à Secretaria de Agricultura e Abastecimento, o programa "Agro SP + Seguro" e dá providências correlatas
+### _Institui, junto à Secretaria de Agricultura e Abastecimento, o programa "Agro SP + Seguro" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

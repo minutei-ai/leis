@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.644, DE 14 DE ABRIL DE 2023
 
-### Altera a denominação da Estação da Linha 4 - Amarela, do Metrô, de Estação Vila Sônia para Estação Vila Sônia - Professora Elisabeth Tenreiro.
+### _Altera a denominação da Estação da Linha 4 - Amarela, do Metrô, de Estação Vila Sônia para Estação Vila Sônia - Professora Elisabeth Tenreiro._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

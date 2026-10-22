@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.696, DE 29 DE ABRIL DE 2022
 
-### Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas
+### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

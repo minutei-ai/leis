@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.645, DE 19 DE ABRIL DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à implantação de uma estação elevatória de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., no Município e Comarca de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à implantação de uma estação elevatória de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., no Município e Comarca de São Paulo, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

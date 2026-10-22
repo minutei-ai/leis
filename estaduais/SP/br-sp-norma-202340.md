@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.525, DE 23 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação do Serviço de Atendimento ao Usuário (SAU 02), na altura do km 185+700m da Rodovia Washington Luís, SP-310, no Município de Rio Claro, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação do Serviço de Atendimento ao Usuário (SAU 02), na altura do km 185+700m da Rodovia Washington Luís, SP-310, no Município de Rio Claro, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto n° 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),<br>
 Decreta:<br>

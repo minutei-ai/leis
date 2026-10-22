@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.187, DE 04 DE NOVEMBRO DE 2021
 
-### Transfere, da Secretaria de Governo para a Secretaria da Justiça e Cidadania, a administração do imóvel que especifica, localizado no Município de São Paulo
+### _Transfere, da Secretaria de Governo para a Secretaria da Justiça e Cidadania, a administração do imóvel que especifica, localizado no Município de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

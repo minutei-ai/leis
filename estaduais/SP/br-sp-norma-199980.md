@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.016, DE 15 DE SETEMBRO DE 2021
 
-### Reorganiza a Secretaria de Governo e dá providências correlatas
+### _Reorganiza a Secretaria de Governo e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

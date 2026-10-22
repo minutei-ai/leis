@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.203, DE 25 DE OUTUBRO DE 2022
 
-### Altera os Anexos do Decreto n° 34.727, de 19 de março de 1992, com a redação dada pelo Decreto n° 58.963, de 14 de março de 2013
+### _Altera os Anexos do Decreto n° 34.727, de 19 de março de 1992, com a redação dada pelo Decreto n° 58.963, de 14 de março de 2013_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

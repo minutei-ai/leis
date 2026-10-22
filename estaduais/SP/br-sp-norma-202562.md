@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 290, de 2021, da Deputada Márcia Lia - PT)
 
-### Declara de utilidade pública o Instituto Casa do Caminho Irmãos Samaritanos - ICCI Samaritanos, com sede em Embu das Artes
+### _Declara de utilidade pública o Instituto Casa do Caminho Irmãos Samaritanos - ICCI Samaritanos, com sede em Embu das Artes_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

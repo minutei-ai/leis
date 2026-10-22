@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.740, DE 17 DE MAIO DE 2022
 
-### Dispõe sobre a outorga da "Medalha Ruth Cardoso"
+### _Dispõe sobre a outorga da "Medalha Ruth Cardoso"_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, à vista da proposta formulada pelo Conselho Estadual da Condição Feminina e diante da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

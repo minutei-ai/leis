@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 855, de 2021, da Deputada Dra. Damaris Moura - PSDB)
 
-### Declara de utilidade pública a Associação Beneficente de Desenvolvimento, Preservação, Cidadania e de Estudos da Cultura Afro-brasileira Comunidade Recreativa Sócio Cultural Umbanda e Candomblé Ilê Orô Osurú Bessém Axé Alakétu Babàlorisá Luciano, com sede em Peruíbe
+### _Declara de utilidade pública a Associação Beneficente de Desenvolvimento, Preservação, Cidadania e de Estudos da Cultura Afro-brasileira Comunidade Recreativa Sócio Cultural Umbanda e Candomblé Ilê Orô Osurú Bessém Axé Alakétu Babàlorisá Luciano, com sede em Peruíbe_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

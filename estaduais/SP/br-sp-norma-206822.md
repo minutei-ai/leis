@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.466, DE 01 DE FEVEREIRO DE 2023
 
-### Dispõe sobre a classificação institucional da Secretaria de Ciência, Tecnologia e Inovação nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Dispõe sobre a classificação institucional da Secretaria de Ciência, Tecnologia e Inovação nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos nº 67.435, de 1º de janeiro de 2023, e nº 67.453, de 18 de janeiro de 2023,<br>
 Decreta:<br>

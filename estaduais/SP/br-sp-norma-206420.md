@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.389, DE 21 DE DEZEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária VIAPAULISTA S/A, a área complementar necessária à adequação de dispositivo de acesso e retorno na altura do km 172+890m da Rodovia SP-255, no Município e Comarca de Barra Bonita, revoga o Decreto n° 65.855, de 6 de julho de 2021, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária VIAPAULISTA S/A, a área complementar necessária à adequação de dispositivo de acesso e retorno na altura do km 172+890m da Rodovia SP-255, no Município e Comarca de Barra Bonita, revoga o Decreto n° 65.855, de 6 de julho de 2021, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e do [Decreto n° 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

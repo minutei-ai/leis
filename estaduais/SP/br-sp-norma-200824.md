@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.209, DE 10 DE NOVEMBRO DE 2021
 
-### Transfere, do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Desenvolvimento Econômico, a administração do imóvel que especifica, localizado no Município de Pindamonhangaba
+### _Transfere, do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Desenvolvimento Econômico, a administração do imóvel que especifica, localizado no Município de Pindamonhangaba_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

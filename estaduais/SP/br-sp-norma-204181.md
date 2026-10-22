@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.893, DE 28 DE JUNHO DE 2022
 
-### Aprova a Ata do Conselho Superior da Fundação Parque Zoológico de São Paulo, que deliberou sobre a extinção da entidade, e dá providências correlatas
+### _Aprova a Ata do Conselho Superior da Fundação Parque Zoológico de São Paulo, que deliberou sobre a extinção da entidade, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, à vista do disposto na [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), que autorizou a extinção da Fundação Parque Zoológico de São Paulo,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.620, DE 31 DE MARÇO DE 2022
 
-### Altera o Decreto nº 49.752, de 4 de julho de 2005, que reorganiza a Secretaria dos Transportes Metropolitanos e dá providências correlatas
+### _Altera o Decreto nº 49.752, de 4 de julho de 2005, que reorganiza a Secretaria dos Transportes Metropolitanos e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a conveniência de se delimitar a competência para representação do Poder Concedente nos atos praticados em concessões de serviços públicos de transporte coletivo intermunicipal de baixa e média capacidade na Região Metropolitana de São Paulo, incluindo os necessários à adoção das medidas introduzidas pela [Lei nº 16.933, de 24 de janeiro de 2019](https://www.al.sp.gov.br/norma/189324);<br>

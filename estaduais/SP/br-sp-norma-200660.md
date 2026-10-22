@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.178, DE 28 DE OUTUBRO DE 2021
 
-### Homologa, por 180 (cento e oitenta) dias, decreto da Prefeita do Município de Osvaldo Cruz que declarou Situação de Emergência em áreas do Município
+### _Homologa, por 180 (cento e oitenta) dias, decreto da Prefeita do Município de Osvaldo Cruz que declarou Situação de Emergência em áreas do Município_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,<br>
 Decreta:<br>

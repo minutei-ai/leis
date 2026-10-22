@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.173, DE 26 DE OUTUBRO DE 2021
 
-### Dispõe sobre a disciplina acerca da celebração de convênios, no âmbito da Administração direta e autárquica, e sobre a instrução dos processos respectivos
+### _Dispõe sobre a disciplina acerca da celebração de convênios, no âmbito da Administração direta e autárquica, e sobre a instrução dos processos respectivos_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 47, incisos II e III, da Constituição do Estado,<br>
 Decreta:<br>

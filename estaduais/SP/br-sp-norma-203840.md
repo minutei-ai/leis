@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.819, DE 06 DE JUNHO DE 2022
 
-### Reformula o Cadastro Estadual das Pessoas Jurídicas que comercializam, no Estado de São Paulo, produtos e subprodutos de origem nativa da flora brasileira - CADMADEIRA, criado pelo Decreto nº 53.047, de 2 de junho de 2008, e dá providências correlatas
+### _Reformula o Cadastro Estadual das Pessoas Jurídicas que comercializam, no Estado de São Paulo, produtos e subprodutos de origem nativa da flora brasileira - CADMADEIRA, criado pelo Decreto nº 53.047, de 2 de junho de 2008, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

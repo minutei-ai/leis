@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 408, de 2021, do Deputado Reinaldo Alguz - PV)
 
-### Declara de utilidade pública a Associação Ide de Assistência à Infância e à Juventude, com sede em Botucatu
+### _Declara de utilidade pública a Associação Ide de Assistência à Infância e à Juventude, com sede em Botucatu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

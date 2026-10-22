@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.346, DE 16 DE DEZEMBRO DE 2021
 
-### Reformula o Programa "São Paulo Amigo do Idoso" e o "Selo Amigo do Idoso", instituídos pelo Decreto nº 58.047, de 15 de maio de 2012, e dá providências correlatas
+### _Reformula o Programa "São Paulo Amigo do Idoso" e o "Selo Amigo do Idoso", instituídos pelo Decreto nº 58.047, de 15 de maio de 2012, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

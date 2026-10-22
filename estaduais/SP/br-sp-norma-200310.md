@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 516, de 2020, do Deputado Carlos Giannazi - PSOL)
 
-### Institui o "Dia em Defesa dos Direitos e da Dignidade das Educadoras da Educação Infantil"
+### _Institui o "Dia em Defesa dos Direitos e da Dignidade das Educadoras da Educação Infantil"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

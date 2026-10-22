@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.294, DE 03 DE DEZEMBRO DE 2021
 
-### Dispõe sobre a aplicação, no âmbito da Administração direta e autárquica, da Lei federal nº 14.133, de 1º de abril de 2021, e dá providências correlatas
+### _Dispõe sobre a aplicação, no âmbito da Administração direta e autárquica, da Lei federal nº 14.133, de 1º de abril de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no artigo 191 da Lei federal nº 14.133, de 1º de abril de 2021,<br>
 Decreta:<br>

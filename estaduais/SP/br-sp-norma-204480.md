@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.975, DE 18 DE JULHO DE 2022
 
-### Altera o Decreto nº 54.275, de 27 de abril de 2009, que regulamenta dispositivos da Lei nº 12.268, de 20 de fevereiro de 2006, que instituiu o Programa de Ação Cultural - PAC
+### _Altera o Decreto nº 54.275, de 27 de abril de 2009, que regulamenta dispositivos da Lei nº 12.268, de 20 de fevereiro de 2006, que instituiu o Programa de Ação Cultural - PAC_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

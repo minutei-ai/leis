@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.954, DE 25 DE AGOSTO DE 2021
 
-### Regulamenta o artigo 3º, parágrafo único, e o artigo 4º, § 1º, da Lei nº 17.374, de 8 de junho de 2021, que dispõe sobre a instituição de distritos turísticos no Estado de São Paulo, sobre a utilização da logomarca "SP Pra Todos" e dá providências correlatas
+### _Regulamenta o artigo 3º, parágrafo único, e o artigo 4º, § 1º, da Lei nº 17.374, de 8 de junho de 2021, que dispõe sobre a instituição de distritos turísticos no Estado de São Paulo, sobre a utilização da logomarca "SP Pra Todos" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

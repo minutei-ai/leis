@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.495, DE 17 DE FEVEREIRO DE 2023
 
-### Institui a Comissão Especial de Transição das Leis federais nº 8.666, de 21 de junho de 1993, nº 10.520, de 17 de julho de 2002, e nº 12.462, de 4 de agosto de 2011, para a Lei federal nº 14.133, de 1º de abril de 2021.
+### _Institui a Comissão Especial de Transição das Leis federais nº 8.666, de 21 de junho de 1993, nº 10.520, de 17 de julho de 2002, e nº 12.462, de 4 de agosto de 2011, para a Lei federal nº 14.133, de 1º de abril de 2021._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

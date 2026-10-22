@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.233, DE 18 DE NOVEMBRO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Águas e Energia Elétrica - DAEE, as áreas necessárias à construção de estradas, em virtude da implantação da Barragem de Pedreira, nos Municípios de Campinas e Pedreira
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Águas e Energia Elétrica - DAEE, as áreas necessárias à construção de estradas, em virtude da implantação da Barragem de Pedreira, nos Municípios de Campinas e Pedreira_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

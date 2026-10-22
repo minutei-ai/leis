@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.457, DE 28 DE JANEIRO DE 2022
 
-### Reorganiza a Secretaria da Fazenda e Planejamento e dá providências correlatas
+### _Reorganiza a Secretaria da Fazenda e Planejamento e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

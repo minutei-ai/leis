@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução nº 2, de 2022)
 
-### Altera a redação de dispositivos da Resolução nº 929, de 12 de novembro de 2021, que fixa, em caráter excepcional, para o período que estabelece, normas relativas aos horários e aos trabalhos das sessões ordinárias e extraordinárias da Assembleia Legislativa, e dá providências correlatas.
+### _Altera a redação de dispositivos da Resolução nº 929, de 12 de novembro de 2021, que fixa, em caráter excepcional, para o período que estabelece, normas relativas aos horários e aos trabalhos das sessões ordinárias e extraordinárias da Assembleia Legislativa, e dá providências correlatas._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:<br>
 **Artigo 1º -** Passam a vigorar com a seguinte redação os dispositivos adiante indicados da [Resolução nº 929, de 12 de novembro de 2021](https://www.al.sp.gov.br/norma/200880):<br>

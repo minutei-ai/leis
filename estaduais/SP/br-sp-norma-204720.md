@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.022, DE 05 DE AGOSTO DE 2022
 
-### Declara Luto Oficial pelo falecimento do apresentador e humorista Jô Soares
+### _Declara Luto Oficial pelo falecimento do apresentador e humorista Jô Soares_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a notável trajetória intelectual, artística e pública de JOSÉ EUGÊNIO SOARES - JÔ SOARES, membro da Academia Paulista de Letras, expoente da cultura brasileira, como humorista, apresentador, diretor, dramaturgo, roteirista e escritor,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.294, DE 22 DE NOVEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária ABC Sistema de Transporte SPE S.A. - Next Mobilidade, os imóveis necessários à implantação do Sistema de Ônibus Rápido BRT - ABC, nos Municípios de São Bernardo do Campo, Santo André, São Caetano do Sul e São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária ABC Sistema de Transporte SPE S.A. - Next Mobilidade, os imóveis necessários à implantação do Sistema de Ônibus Rápido BRT - ABC, nos Municípios de São Bernardo do Campo, Santo André, São Caetano do Sul e São Paulo, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

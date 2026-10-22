@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 538, de 2019, dos Deputados Coronel Telhada - PP e Marcio Nakashima - PDT)
 
-### Dispõe sobre a proibição de retenção de macas das ambulâncias do Serviço de Atendimento Móvel de Urgência - SAMU, do Corpo de Bombeiros Militar e de outras unidades móveis pré-hospitalares de atendimento de urgência de natureza pública ou privada, e dá outras providências
+### _Dispõe sobre a proibição de retenção de macas das ambulâncias do Serviço de Atendimento Móvel de Urgência - SAMU, do Corpo de Bombeiros Militar e de outras unidades móveis pré-hospitalares de atendimento de urgência de natureza pública ou privada, e dá outras providências_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

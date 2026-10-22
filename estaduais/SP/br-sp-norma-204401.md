@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 659, de 2020, do Deputado Jorge Caruso - MDB)
 
-### Declara de utilidade pública a AUPACC - Amigos Unidos por Amor Contra o Câncer, com sede em Paulínia
+### _Declara de utilidade pública a AUPACC - Amigos Unidos por Amor Contra o Câncer, com sede em Paulínia_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

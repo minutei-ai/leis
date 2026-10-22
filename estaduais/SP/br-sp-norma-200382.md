@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.126, DE 14 DE OUTUBRO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Gás de São Paulo - COMGÁS, a área necessária à implantação da Estação Redutora de Pressão - ERP Anchieta, no Município de São Bernardo do Campo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Gás de São Paulo - COMGÁS, a área necessária à implantação da Estação Redutora de Pressão - ERP Anchieta, no Município de São Bernardo do Campo, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

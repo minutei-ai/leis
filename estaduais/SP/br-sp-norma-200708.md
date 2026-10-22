@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.181, DE 03 DE NOVEMBRO DE 2021
 
-### Dá denominação à Faculdade de Tecnologia - FATEC de Itatiba, do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, localizada no Município de Itatiba
+### _Dá denominação à Faculdade de Tecnologia - FATEC de Itatiba, do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, localizada no Município de Itatiba_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando que a Professora Maria Eunice Amadeo de Almeida exerceu grande influência positiva em seus alunos da ETEC Rosa Perrone Scavone, como professora e coordenadora do Ensino Médio;<br>

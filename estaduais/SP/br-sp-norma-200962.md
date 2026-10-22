@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.246, DE 19 DE NOVEMBRO DE 2021
 
-### Altera a redação do Decreto nº 65.084, de 23 de julho de 2020, e dá providências correlatas
+### _Altera a redação do Decreto nº 65.084, de 23 de julho de 2020, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

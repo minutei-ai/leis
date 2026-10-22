@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.523, DE 23 DE FEVEREIRO DE 2022
 
-### Regulamenta a Lei nº 17.453, de 18 de novembro de 2021, que dispõe sobre a manipulação e o beneficiamento de produtos de origem animal, sob a forma artesanal, bem como sobre sua inspeção e fiscalização sanitária no Estado de São Paulo
+### _Regulamenta a Lei nº 17.453, de 18 de novembro de 2021, que dispõe sobre a manipulação e o beneficiamento de produtos de origem animal, sob a forma artesanal, bem como sobre sua inspeção e fiscalização sanitária no Estado de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

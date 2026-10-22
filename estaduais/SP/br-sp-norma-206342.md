@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.354, DE 15 DE DEZEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à instalação de poço, adutora de água bruta e acesso, partes integrantes do Sistema de Abastecimento de Água - SAA, no Município de Cândido Mota, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à instalação de poço, adutora de água bruta e acesso, partes integrantes do Sistema de Abastecimento de Água - SAA, no Município de Cândido Mota, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º, 6º e 40 do Decreto-Lei federal nº 3.365, de 21 de junho de 1.941, e alterações posteriores,<br>
 Decreta:<br>

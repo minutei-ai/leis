@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 683, de 2021, da Deputada Patrícia Gama - PSDB)
 
-### Estabelece diretrizes para a instituição do Programa Órfãos do Feminicídio - Atenção e Proteção no âmbito do Estado
+### _Estabelece diretrizes para a instituição do Programa Órfãos do Feminicídio - Atenção e Proteção no âmbito do Estado_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

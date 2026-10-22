@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.453, DE 28 DE JANEIRO DE 2022
 
-### Autoriza a outorga de uso do imóvel que especifica ao Município de Aparecida D'Oeste, e dá providências correlatas
+### _Autoriza a outorga de uso do imóvel que especifica ao Município de Aparecida D'Oeste, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

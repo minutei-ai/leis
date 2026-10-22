@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 275, de 2021, do Deputado Enio Tatto - PT)
 
-### Declara de utilidade pública a Associação Maria Flos Carmeli, com sede na Capital
+### _Declara de utilidade pública a Associação Maria Flos Carmeli, com sede na Capital_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

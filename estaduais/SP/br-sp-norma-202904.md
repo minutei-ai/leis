@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.622, DE 31 DE MARÇO DE 2022
 
-### Altera a redação do Decreto nº 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da administração direta e autárquica e dá providências correlatas
+### _Altera a redação do Decreto nº 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da administração direta e autárquica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

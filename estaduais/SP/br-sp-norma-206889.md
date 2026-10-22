@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.475, DE 06 DE FEVEREIRO DE 2023
 
-### Dispõe sobre a delegação de competência que especifica.
+### _Dispõe sobre a delegação de competência que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no inciso XVI do artigo 47 da Constituição Estadual,<br>
 Decreta:<br>

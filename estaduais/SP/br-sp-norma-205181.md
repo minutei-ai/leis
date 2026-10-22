@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.109, DE 13 DE SETEMBRO DE 2022
 
-### Altera o Decreto nº 66.850, de 15 de junho de 2022, que organiza a Controladoria Geral do Estado, criada pela Lei Complementar nº 1.361, de 21 de outubro de 2021
+### _Altera o Decreto nº 66.850, de 15 de junho de 2022, que organiza a Controladoria Geral do Estado, criada pela Lei Complementar nº 1.361, de 21 de outubro de 2021_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

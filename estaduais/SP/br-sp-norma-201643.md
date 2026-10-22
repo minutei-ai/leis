@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1089, de 2019, do Deputado André do Prado - PL)
 
-### Declara de utilidade pública a Associação Comunitária Fênix, com sede em Jacareí
+### _Declara de utilidade pública a Associação Comunitária Fênix, com sede em Jacareí_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

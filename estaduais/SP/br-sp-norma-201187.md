@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.293, DE 03 DE DEZEMBRO DE 2021
 
-### Dispõe sobre a constituição da comissão de avaliação a que se refere o artigo 30 da Lei Complementar nº 1.059, de 18 de setembro de 2008
+### _Dispõe sobre a constituição da comissão de avaliação a que se refere o artigo 30 da Lei Complementar nº 1.059, de 18 de setembro de 2008_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 30 e no § 1º do artigo 33, ambos da [Lei Complementar nº 1.059, de 18 de setembro de 2008](https://www.al.sp.gov.br/norma/137843),<br>
 Decreta:<br>

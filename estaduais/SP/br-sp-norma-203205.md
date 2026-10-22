@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.680, DE 26 DE ABRIL DE 2022
 
-### Altera o Decreto nº 63.107, de 26 de dezembro de 2017, que reorganizou o "Programa Água Limpa"
+### _Altera o Decreto nº 63.107, de 26 de dezembro de 2017, que reorganizou o "Programa Água Limpa"_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

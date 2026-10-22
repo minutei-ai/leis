@@ -4,7 +4,7 @@
 
 ## (Altera os §§ 6º e 8º do artigo 175 da Constituição do Estado de São Paulo)
 
-### Altera os §§ 6º e 8º do artigo 175 da Constituição do Estado de São Paulo.
+### _Altera os §§ 6º e 8º do artigo 175 da Constituição do Estado de São Paulo._
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3º do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:<br>
 **Artigo 1º -** Os §§ 6º e 8º do artigo 175 da Constituição do Estado passam a vigorar com a seguinte redação:<br>

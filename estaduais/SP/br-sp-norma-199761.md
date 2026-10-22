@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.967, DE 30 DE AGOSTO DE 2021
 
-### Altera o Decreto nº 65.823, de 25 de junho de 2021, que introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências
+### _Altera o Decreto nº 65.823, de 25 de junho de 2021, que introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no inciso VI do artigo 8º da Lei nº 6.374, de 1° de março de 1989,
 

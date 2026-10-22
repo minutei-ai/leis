@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.195, DE 08 DE NOVEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado de São Paulo a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Bebedouro, do imóvel que especifica
+### _Autoriza a Fazenda do Estado de São Paulo a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Bebedouro, do imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

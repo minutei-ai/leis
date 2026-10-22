@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.015, DE 03 DE AGOSTO DE 2022
 
-### Autoriza a Fazenda do Estado a outorgar à Fundação Bienal de São Paulo o uso de área do imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a outorgar à Fundação Bienal de São Paulo o uso de área do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

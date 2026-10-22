@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.242, DE 04 DE NOVEMBRO DE 2022
 
-### Acrescenta dispositivo ao Decreto nº 39.942, de 2 de fevereiro de 1995, que determina providências para a redução das frotas, dispõe sobre o uso de veículos oficiais e dá providências correlatas.
+### _Acrescenta dispositivo ao Decreto nº 39.942, de 2 de fevereiro de 1995, que determina providências para a redução das frotas, dispõe sobre o uso de veículos oficiais e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

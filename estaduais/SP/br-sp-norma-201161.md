@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.289, DE 02 DE DEZEMBRO DE 2021
 
-### Regulamenta a Lei nº 17.383, de 5 de julho de 2021, para dispor sobre a adesão dos Municípios às respectivas Unidades Regionais de Serviços de Abastecimento de Água Potável e Esgotamento Sanitário - URAEs e sobre a estrutura de governança interfederativa de que trata o artigo 5º da referida lei
+### _Regulamenta a Lei nº 17.383, de 5 de julho de 2021, para dispor sobre a adesão dos Municípios às respectivas Unidades Regionais de Serviços de Abastecimento de Água Potável e Esgotamento Sanitário - URAEs e sobre a estrutura de governança interfederativa de que trata o artigo 5º da referida lei_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

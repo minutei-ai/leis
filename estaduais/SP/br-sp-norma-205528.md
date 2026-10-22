@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.170, DE 11 DE OUTUBRO DE 2022
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 35 da Lei n° 6.374, de 1° de março de 1989,<br>
 Decreta:<br>

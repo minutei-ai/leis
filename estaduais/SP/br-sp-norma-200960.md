@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.251, DE 19 DE NOVEMBRO DE 2021
 
-### Transfere, do Tribunal de Justiça para a Secretaria da Saúde, a administração do imóvel que especifica, e autoriza a Fazenda do Estado a permitir o seu uso, por prazo determinado, em favor do Município de Pedregulho
+### _Transfere, do Tribunal de Justiça para a Secretaria da Saúde, a administração do imóvel que especifica, e autoriza a Fazenda do Estado a permitir o seu uso, por prazo determinado, em favor do Município de Pedregulho_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

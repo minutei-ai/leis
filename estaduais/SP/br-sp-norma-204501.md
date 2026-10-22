@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.979, DE 19 DE JULHO DE 2022
 
-### Altera os dispositivos que especifica do Decreto nº 64.765, de 27 de janeiro de 2020, e dá providências correlatas
+### _Altera os dispositivos que especifica do Decreto nº 64.765, de 27 de janeiro de 2020, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 555, de 2020, da Deputada Leticia Aguiar - PSL)
 
-### Declara de utilidade pública o Centro de Referência do Idoso - CRI, com sede em Ribeirão Pires
+### _Declara de utilidade pública o Centro de Referência do Idoso - CRI, com sede em Ribeirão Pires_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

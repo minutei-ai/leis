@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.675, DE 20 DE ABRIL DE 2022
 
-### Atribui competência para os fins que especifica
+### _Atribui competência para os fins que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

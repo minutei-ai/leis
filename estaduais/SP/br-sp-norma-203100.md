@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.666, DE 18 DE ABRIL DE 2022
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando que o próximo dia 22 de abril deste ano recai entre o feriado de 21 de abril, data comemorativa do Dia de Tiradentes, e o fim de semana,<br>
 Decreta:<br>

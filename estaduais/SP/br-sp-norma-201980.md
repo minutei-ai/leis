@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.484, DE 04 DE FEVEREIRO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Cananéia, parte do imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Cananéia, parte do imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

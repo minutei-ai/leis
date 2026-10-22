@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.086, DE 05 DE OUTUBRO DE 2021
 
-### Autoriza a Fazenda do Estado a receber do Departamento de Estradas de Rodagem - DER, mediante permissão de uso, a título precário e gratuito, pelo prazo de 20 (vinte) anos, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber do Departamento de Estradas de Rodagem - DER, mediante permissão de uso, a título precário e gratuito, pelo prazo de 20 (vinte) anos, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

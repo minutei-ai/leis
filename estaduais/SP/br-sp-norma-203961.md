@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.837, DE 10 DE JUNHO DE 2022
 
-### Reorganiza o Comitê Científico, instituído pela Resolução SS nº 131, de 19 de agosto de 2021, e dá providências correlatas
+### _Reorganiza o Comitê Científico, instituído pela Resolução SS nº 131, de 19 de agosto de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a Resolução nº 131, de 19 de agosto de 2021, do Secretário da Saúde, que instituiu o Comitê Científico para apoio ao enfrentamento à pandemia de COVID-19 e suas consequências;<br>

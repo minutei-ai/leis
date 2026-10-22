@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.953, DE 24 DE AGOSTO DE 2021
 
-### Transfere o cargo vago que especifica e dá providências correlatas
+### _Transfere o cargo vago que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 54 e 55 da [Lei Complementar nº 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762),<br>
 Decreta:<br>

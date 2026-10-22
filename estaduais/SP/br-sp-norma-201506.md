@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 326, de 2021, do Deputado André do Prado - PL)
 
-### Declara de utilidade pública a Associação Mobilizando Amigos pelo Amor - MAPEAR, com sede em São José do Rio Pardo
+### _Declara de utilidade pública a Associação Mobilizando Amigos pelo Amor - MAPEAR, com sede em São José do Rio Pardo_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

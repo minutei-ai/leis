@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.814, DE 03 DE JUNHO DE 2022
 
-### Autoriza a abertura de licitação para a concessão dos serviços públicos de exploração do sistema rodoviário denominado "Lote Noroeste", e aprova o respectivo regulamento
+### _Autoriza a abertura de licitação para a concessão dos serviços públicos de exploração do sistema rodoviário denominado "Lote Noroeste", e aprova o respectivo regulamento_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei nº 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão dos serviços públicos de exploração do novo lote de concessão rodoviária do Estado de São Paulo, por ocasião da 31ª Reunião Conjunta Ordinária, concernente à 267ª Reunião Ordinária do CDPED e à 114ª Reunião Ordinária do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas-CGPPP, cuja ata foi publicada no Diário Oficial de 9 de abril de 2022;<br>

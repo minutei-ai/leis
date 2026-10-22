@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 250, de 2022, do Deputado Tenente Coimbra - PL)
 
-### Declara de utilidade pública o Instituto Visão do Bem, com sede em Santos
+### _Declara de utilidade pública o Instituto Visão do Bem, com sede em Santos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

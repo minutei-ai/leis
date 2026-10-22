@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.435, DE 13 DE JANEIRO DE 2022
 
-### Transfere, da Secretaria da Segurança Pública para o Ministério Público do Estado de São Paulo, a administração do imóvel que especifica, localizado no Município de Apiaí
+### _Transfere, da Secretaria da Segurança Pública para o Ministério Público do Estado de São Paulo, a administração do imóvel que especifica, localizado no Município de Apiaí_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 60, de 2021, do Deputado Carlos Giannazi – PSOL)
 
-### Institui o "Dia da Gaita de Boca e do Gaitista"
+### _Institui o "Dia da Gaita de Boca e do Gaitista"_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 4º, da Constituição do Estado, a seguinte lei:<br>

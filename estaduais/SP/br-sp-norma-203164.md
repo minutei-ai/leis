@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.676, DE 20 DE ABRIL DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas necessárias à implantação de dispositivo do tipo diamante no km 214+330m da Rodovia SP-255, no Município de Pratânia, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas necessárias à implantação de dispositivo do tipo diamante no km 214+330m da Rodovia SP-255, no Município de Pratânia, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e no [Decreto nº 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

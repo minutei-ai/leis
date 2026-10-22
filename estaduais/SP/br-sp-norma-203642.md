@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.770, DE 24 DE MAIO DE 2022
 
-### Institui a Medalha do Cinquentenário do 1º Batalhão de Polícia Militar Metropolitano "Marechal Humberto de Alencar Castello Branco" e dá providências correlatas
+### _Institui a Medalha do Cinquentenário do 1º Batalhão de Polícia Militar Metropolitano "Marechal Humberto de Alencar Castello Branco" e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.616, DE 29 DE MARÇO DE 2023
 
-### Dispõe sobre a prorrogação do prazo de recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS na hipótese que especifica.
+### _Dispõe sobre a prorrogação do prazo de recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS na hipótese que especifica._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 05/23, de 1º de março de 2023, e no [Decreto nº 67.502, de 19 de fevereiro de 2023](https://www.al.sp.gov.br/norma/207003),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.678, DE 01 DE MAIO DE 2023
 
-### Dispõe sobre o Plano Estadual para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária - Plano ABC+SP e institui seu Grupo Gestor Estadual - GGE.
+### _Dispõe sobre o Plano Estadual para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária - Plano ABC+SP e institui seu Grupo Gestor Estadual - GGE._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

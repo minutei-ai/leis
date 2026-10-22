@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.617, DE 31 DE MARÇO DE 2022
 
-### Institui, junto à Secretaria de Desenvolvimento Regional, o Programa "Sandbox SP", destinado a fomentar o desenvolvimento de cidades inteligentes no Estado de São Paulo
+### _Institui, junto à Secretaria de Desenvolvimento Regional, o Programa "Sandbox SP", destinado a fomentar o desenvolvimento de cidades inteligentes no Estado de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

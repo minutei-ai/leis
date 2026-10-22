@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 108, de 2020, do Deputado Professor Kenny - PP)
 
-### Obriga os condomínios residenciais e comerciais no Estado a comunicar os órgãos de segurança pública quando houver em seu interior a ocorrência ou indícios de episódios de violência doméstica e familiar contra mulheres, crianças, adolescentes ou idosos
+### _Obriga os condomínios residenciais e comerciais no Estado a comunicar os órgãos de segurança pública quando houver em seu interior a ocorrência ou indícios de episódios de violência doméstica e familiar contra mulheres, crianças, adolescentes ou idosos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

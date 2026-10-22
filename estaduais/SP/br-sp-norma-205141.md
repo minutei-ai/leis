@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.096, DE 08 DE SETEMBRO DE 2022
 
-### Altera o Decreto nº 65.897, de 30 de julho de 2021
+### _Altera o Decreto nº 65.897, de 30 de julho de 2021_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a recomendação do Conselho Gestor a que alude o [Decreto nº 66.837, de 10 de junho de 2022](https://www.al.sp.gov.br/norma/203961) (Anexo),<br>
 Decreta:<br>

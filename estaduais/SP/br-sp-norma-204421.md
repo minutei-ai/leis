@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.969, DE 13 DE JULHO DE 2022
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria de Desenvolvimento Regional, a administração do imóvel que especifica, localizado no Município de Itapeva
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria de Desenvolvimento Regional, a administração do imóvel que especifica, localizado no Município de Itapeva_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

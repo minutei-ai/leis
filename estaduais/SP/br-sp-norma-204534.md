@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.983, DE 20 DE JULHO DE 2022
 
-### Autoriza a permuta dos imóveis que especifica e dá providências correlatas
+### _Autoriza a permuta dos imóveis que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da Decisão nº 15/2022 do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

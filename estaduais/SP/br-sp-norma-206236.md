@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 442, de 2021, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Declara de utilidade pública o Instituto ABDA, com sede em Osasco
+### _Declara de utilidade pública o Instituto ABDA, com sede em Osasco_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

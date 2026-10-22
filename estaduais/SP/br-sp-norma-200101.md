@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 564, de 2020, da Deputada Edna Macedo - REPUBLICANOS)
 
-### Declara de utilidade pública o Centro de Apoio ao Deficiente Físico - CENDEFI, com sede em Hortolândia
+### _Declara de utilidade pública o Centro de Apoio ao Deficiente Físico - CENDEFI, com sede em Hortolândia_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

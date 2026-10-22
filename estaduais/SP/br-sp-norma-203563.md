@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.750, DE 18 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à implantação de reservatório de água tratada, parte do Sistema de Abastecimento de Água - S.A.A., no Município de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à implantação de reservatório de água tratada, parte do Sistema de Abastecimento de Água - S.A.A., no Município de São Paulo, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

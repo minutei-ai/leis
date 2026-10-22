@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1153, de 2019, do Deputado Roque Barbiere - PTB)
 
-### Denomina "Maria Marques Fantini" o viaduto localizado no km 545,500 da Rodovia Feliciano Salles Cunha - SP 310, em General Salgado
+### _Denomina "Maria Marques Fantini" o viaduto localizado no km 545,500 da Rodovia Feliciano Salles Cunha - SP 310, em General Salgado_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

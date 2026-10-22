@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.286, DE 21 DE NOVEMBRO DE 2022
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 8°, inciso XXIV e § 10, item 2 da Lei n° 6.374, de 1° de março de 1989,<br>
 Decreta:<br>

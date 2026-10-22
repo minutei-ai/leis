@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.348, DE 16 DE DEZEMBRO DE 2021
 
-### Altera o artigo 10 do Decreto nº 41.628, de 10 de março de 1997, e dá providências correlatas
+### _Altera o artigo 10 do Decreto nº 41.628, de 10 de março de 1997, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

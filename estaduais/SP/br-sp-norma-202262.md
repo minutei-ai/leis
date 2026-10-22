@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.517, DE 18 DE FEVEREIRO DE 2022
 
-### Adiciona o artigo 4º-A ao Decreto nº 65.921, de 12 de agosto de 2021, que institui, junto à Secretaria de Agricultura e Abastecimento, o programa "Agro SP + Seguro" e dá providências correlatas
+### _Adiciona o artigo 4º-A ao Decreto nº 65.921, de 12 de agosto de 2021, que institui, junto à Secretaria de Agricultura e Abastecimento, o programa "Agro SP + Seguro" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

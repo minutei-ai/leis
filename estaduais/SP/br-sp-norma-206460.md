@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.394, DE 23 DE DEZEMBRO DE 2022
 
-### Altera o Decreto nº 66.470, de 1º de fevereiro de 2022, que disciplina as condições para a concessão do direito à isenção do Imposto sobre a Propriedade de Veículos Automotores - IPVA à pessoa portadora de transtorno do espectro do autismo ou com deficiência física, sensorial, intelectual ou mental, enquanto não estiver regulamentada a avaliação biopsicossocial
+### _Altera o Decreto nº 66.470, de 1º de fevereiro de 2022, que disciplina as condições para a concessão do direito à isenção do Imposto sobre a Propriedade de Veículos Automotores - IPVA à pessoa portadora de transtorno do espectro do autismo ou com deficiência física, sensorial, intelectual ou mental, enquanto não estiver regulamentada a avaliação biopsicossocial_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no § 3º do artigo 13-A da [Lei nº 13.296, de 23 de dezembro de 2008](https://www.al.sp.gov.br/norma/147435), com a redação dada pela [Lei nº 17.473, de 16 de dezembro de 2021](https://www.al.sp.gov.br/norma/201408),<br>
 Decreta:<br>

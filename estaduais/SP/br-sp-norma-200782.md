@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 460, de 2020, do Deputado Rafa Zimbaldi - PL)
 
-### Declara de utilidade pública a Associação Beneficente Semeando Esperança, com sede em Campinas
+### _Declara de utilidade pública a Associação Beneficente Semeando Esperança, com sede em Campinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

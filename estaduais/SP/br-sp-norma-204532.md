@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 449, de 2021, do Deputado Barros Munhoz - PSB)
 
-### Declara de utilidade pública a Banda Musical Lyra Mojimiriana, com sede em Mogi Mirim
+### _Declara de utilidade pública a Banda Musical Lyra Mojimiriana, com sede em Mogi Mirim_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

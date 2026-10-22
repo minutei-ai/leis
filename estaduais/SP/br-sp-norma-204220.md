@@ -2,7 +2,7 @@
 
 # EMENDA CONSTITUCIONAL Nº 51, DE 30 DE JUNHO DE 2022
 
-### Altera os artigos 74 e 139, § 2º, e a denominação da Seção IV do Capítulo III do Título III, e acrescenta o artigo 143-A à Constituição do Estado
+### _Altera os artigos 74 e 139, § 2º, e a denominação da Seção IV do Capítulo III do Título III, e acrescenta o artigo 143-A à Constituição do Estado_
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3º do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:<br>
 **Artigo 1º -** Passam a vigorar com a seguinte redação os seguintes dispositivos da Constituição do Estado:<br>

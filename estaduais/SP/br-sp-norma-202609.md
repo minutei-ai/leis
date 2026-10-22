@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.573, DE 16 DE MARÇO DE 2022
 
-### Cria, no Hospital Maternidade Interlagos "Waldemar Seyssel - Arrelia", a Gerência de Enfermagem e dá providências correlatas
+### _Cria, no Hospital Maternidade Interlagos "Waldemar Seyssel - Arrelia", a Gerência de Enfermagem e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

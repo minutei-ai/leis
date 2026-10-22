@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.704, DE 05 DE MAIO DE 2022
 
-### Transfere, da Procuradoria Geral do Estado para Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Ribeirão Preto
+### _Transfere, da Procuradoria Geral do Estado para Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Ribeirão Preto_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

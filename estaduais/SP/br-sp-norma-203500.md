@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.736, DE 16 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, a área necessária à regularização da região de corte e dispositivos de drenagem da cabeceira sul da Obra de Arte Especial - OAE 220 da Rodovia SPI 097/055, no Município de São Sebastião, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, a área necessária à regularização da região de corte e dispositivos de drenagem da cabeceira sul da Obra de Arte Especial - OAE 220 da Rodovia SPI 097/055, no Município de São Sebastião, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

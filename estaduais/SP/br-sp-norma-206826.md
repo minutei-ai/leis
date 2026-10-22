@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.470, DE 01 DE FEVEREIRO DE 2023
 
-### Altera a redação do Decreto nº 64.065, de 2 de janeiro de 2019, e dá providências correlatas.
+### _Altera a redação do Decreto nº 64.065, de 2 de janeiro de 2019, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

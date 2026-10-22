@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.419, DE 30 DE DEZEMBRO DE 2021
 
-### Ratifica convênio celebrado nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975
+### _Ratifica convênio celebrado nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 4° da Lei Complementar federal n° 24, de 7 de janeiro de 1975,<br>
 Decreta:<br>

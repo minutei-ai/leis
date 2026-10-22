@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.618, DE 31 DE MARÇO DE 2022
 
-### Institui o Distrito Turístico de Iguape nas áreas que especifica, e dá providências correlatas
+### _Institui o Distrito Turístico de Iguape nas áreas que especifica, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.001, DE 27 DE JULHO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo indeterminado, do Município de São Paulo, a área que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo indeterminado, do Município de São Paulo, a área que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

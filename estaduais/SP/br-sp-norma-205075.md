@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 751, de 2021, do Deputado Rafa Zimbaldi - PL)
 
-### Institui o "Dia dos Vicentinos"
+### _Institui o "Dia dos Vicentinos"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

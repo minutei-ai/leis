@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.623, DE 01 DE ABRIL DE 2022
 
-### Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal nº 11.738, de 16 de julho de 2008
+### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal nº 11.738, de 16 de julho de 2008_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando o disposto no artigo 5º da Lei federal nº 11.738, de 16 de julho de 2008, que trata da atualização do piso salarial profissional nacional do magistério público da educação básica,<br>
 Decreta:<br>

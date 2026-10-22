@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 294, de 2021, do Deputado Adalberto Freitas - PSL)
 
-### Declara de utilidade pública o Casarão Brasil Associação LGBTI - CABAG, com sede na Capital
+### _Declara de utilidade pública o Casarão Brasil Associação LGBTI - CABAG, com sede na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

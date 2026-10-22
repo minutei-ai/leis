@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.300, DE 24 DE NOVEMBRO DE 2022
 
-### Altera a denominação do equipamento cultural que especifica e dá providências correlatas.
+### _Altera a denominação do equipamento cultural que especifica e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

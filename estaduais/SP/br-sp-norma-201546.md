@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.396, DE 28 DE DEZEMBRO DE 2021
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º e 38-A da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030), no Convênio ICMS 190/17, de 15 de dezembro de 2017, na Lei nº 10.550, de 30 de junho de 2016, do Estado do Espírito Santo, e nos Decretos nº 44.868, de 3 de julho de 2014, e 44.607, de 17 de fevereiro de 2014, ambos editados pelo Estado do Rio de Janeiro,
 

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.128, DE 27 DE SETEMBRO DE 2022
 
-### Institui o Distrito Turístico de Andradina na área que especifica e dá providências correlatas
+### _Institui o Distrito Turístico de Andradina na área que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

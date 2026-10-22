@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.079, DE 04 DE OUTUBRO DE 2021
 
-### Dispõe sobre atribuição de competência e dá providências correlatas
+### _Dispõe sobre atribuição de competência e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

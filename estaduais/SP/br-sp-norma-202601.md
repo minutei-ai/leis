@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.565, DE 16 DE MARÇO DE 2022
 
-### Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, tendo por objeto a transferência de recursos financeiros para a contratação de serviços técnicos especializados visando à elaboração de diagnóstico do sistema de saneamento básico municipal
+### _Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, tendo por objeto a transferência de recursos financeiros para a contratação de serviços técnicos especializados visando à elaboração de diagnóstico do sistema de saneamento básico municipal_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

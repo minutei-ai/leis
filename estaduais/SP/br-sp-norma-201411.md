@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 492, de 2020, do Deputado Bruno Ganem - PODE)
 
-### Obriga os condomínios residenciais e comerciais localizados no Estado a comunicar aos órgãos de segurança pública a ocorrência de casos de maus-tratos a animais
+### _Obriga os condomínios residenciais e comerciais localizados no Estado a comunicar aos órgãos de segurança pública a ocorrência de casos de maus-tratos a animais_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

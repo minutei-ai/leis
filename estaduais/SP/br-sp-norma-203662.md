@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.781, DE 25 DE MAIO DE 2022
 
-### Dispõe sobre a fixação do percentual para fins de pagamento de Bonificação por Resultados - BR, nos termos da Lei Complementar nº 1.086, de 18 de fevereiro de 2009, relativa ao exercício de 2021, e dá providências correlatas
+### _Dispõe sobre a fixação do percentual para fins de pagamento de Bonificação por Resultados - BR, nos termos da Lei Complementar nº 1.086, de 18 de fevereiro de 2009, relativa ao exercício de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

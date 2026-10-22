@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.622, DE 31 DE MARÇO DE 2023
 
-### Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Ouro Verde, que declarou Situação de Emergência em áreas do Município.
+### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Ouro Verde, que declarou Situação de Emergência em áreas do Município._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 536, de 2021, do Deputado Rafa Zimbaldi - PL)
 
-### Denomina "Maria Conceição Resende" a passarela de pedestres localizada no km 134,300 da Rodovia Dom Pedro I - SP 065, em Campinas
+### _Denomina "Maria Conceição Resende" a passarela de pedestres localizada no km 134,300 da Rodovia Dom Pedro I - SP 065, em Campinas_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.982, DE 31 DE AGOSTO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação, imóveis localizados no Município e Comarca de São Paulo, necessários à implantação de elevado do sistema monotrilho entre as Estações Vila Prudente e Ipiranga
+### _Declara de utilidade pública, para fins de desapropriação, imóveis localizados no Município e Comarca de São Paulo, necessários à implantação de elevado do sistema monotrilho entre as Estações Vila Prudente e Ipiranga_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956,<br>
 Decreta:<br>

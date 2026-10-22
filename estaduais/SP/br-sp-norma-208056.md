@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.692, DE 03 DE MAIO DE 2023
 
-### Transfere e reorganiza o Fórum Náutico Paulista, instituído pelo Decreto nº 62.228, de 24 de outubro de 2016, e dá providências correlatas.
+### _Transfere e reorganiza o Fórum Náutico Paulista, instituído pelo Decreto nº 62.228, de 24 de outubro de 2016, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.964, DE 27 DE AGOSTO DE 2021
 
-### Regulamenta a Lei Complementar nº 1.354, de 6 de março de 2020, para fixar procedimentos para concessão de aposentadorias e pensões por morte e disciplinar o custeio do Regime Próprio de Previdência Social do Estado de São Paulo - RPPS e dá outras providências correlatas
+### _Regulamenta a Lei Complementar nº 1.354, de 6 de março de 2020, para fixar procedimentos para concessão de aposentadorias e pensões por morte e disciplinar o custeio do Regime Próprio de Previdência Social do Estado de São Paulo - RPPS e dá outras providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

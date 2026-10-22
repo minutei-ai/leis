@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.513, DE 17 DE FEVEREIRO DE 2022
 
-### Cria a Escola Técnica Estadual - ETEC de Itapevi, no Município de Itapevi
+### _Cria a Escola Técnica Estadual - ETEC de Itapevi, no Município de Itapevi_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza"-CEETEPS,<br>
 Decreta:<br>

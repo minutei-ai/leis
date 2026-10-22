@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.514, DE 24 DE FEVEREIRO DE 2023
 
-### Declara de interesse social, para fins de desapropriação, parte do imóvel situado no Município de São Sebastião, necessária à implantação de programa habitacional, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação, parte do imóvel situado no Município de São Sebastião, necessária à implantação de programa habitacional, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto no inciso V dos artigos 1° e 2° da Lei federal n° 4.132 de 10 de setembro de 1962,<br>
 Decreta:<br>

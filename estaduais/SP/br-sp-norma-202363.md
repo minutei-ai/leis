@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.530, DE 25 DE FEVEREIRO DE 2022
 
-### Altera o Decreto nº 66.417, de 30 de dezembro de 2021, que reorganiza a Secretaria de Agricultura e Abastecimento e dá providências correlatas
+### _Altera o Decreto nº 66.417, de 30 de dezembro de 2021, que reorganiza a Secretaria de Agricultura e Abastecimento e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

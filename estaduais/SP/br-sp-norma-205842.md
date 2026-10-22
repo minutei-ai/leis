@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.247, DE 07 DE NOVEMBRO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Itaquaquecetuba, parte dos imóveis que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Itaquaquecetuba, parte dos imóveis que especifica._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

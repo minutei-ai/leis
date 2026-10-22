@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.402, DE 26 DE DEZEMBRO DE 2022
 
-### Altera dispositivo do Decreto nº 65.199, de 22 de setembro de 2020, que autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito e por prazo indeterminado, área aeroportuária que se encontra sob a jurisdição e posse da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, localizada no Município de São Paulo.
+### _Altera dispositivo do Decreto nº 65.199, de 22 de setembro de 2020, que autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito e por prazo indeterminado, área aeroportuária que se encontra sob a jurisdição e posse da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, localizada no Município de São Paulo._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

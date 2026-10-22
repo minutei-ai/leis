@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.564, DE 15 DE MARÇO DE 2022
 
-### Regulamenta a Lei nº 17.389, de 28 de julho de 2021, que dispõe sobre a queima, a soltura, a comercialização, o armazenamento e o transporte de fogos de artifício de estampido no Estado de São Paulo
+### _Regulamenta a Lei nº 17.389, de 28 de julho de 2021, que dispõe sobre a queima, a soltura, a comercialização, o armazenamento e o transporte de fogos de artifício de estampido no Estado de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

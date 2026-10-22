@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.473, DE 06 DE FEVEREIRO DE 2023
 
-### Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos e apresentar propostas de modernização e aperfeiçoamento da política de gestão de pessoas, no âmbito da Administração Pública estadual.
+### _Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos e apresentar propostas de modernização e aperfeiçoamento da política de gestão de pessoas, no âmbito da Administração Pública estadual._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

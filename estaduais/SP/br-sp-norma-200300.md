@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 276, de 2019, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Daniel Pachega" o viaduto localizado no km 440,420 da Rodovia Assis Chateaubriand - SP 425, em Indiana
+### _Denomina "Daniel Pachega" o viaduto localizado no km 440,420 da Rodovia Assis Chateaubriand - SP 425, em Indiana_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

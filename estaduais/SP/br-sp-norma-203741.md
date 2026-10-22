@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.800, DE 31 DE MAIO DE 2022
 
-### Regulamenta o Adicional de Transporte para classes do Quadro do Magistério, instituído pela Lei Complementar nº 679, de 22 de julho de 1992, e dá providências correlatas
+### _Regulamenta o Adicional de Transporte para classes do Quadro do Magistério, instituído pela Lei Complementar nº 679, de 22 de julho de 1992, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

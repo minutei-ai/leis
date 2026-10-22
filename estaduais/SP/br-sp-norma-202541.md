@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.559, DE 11 DE MARÇO DE 2022
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto na Lei Complementar federal nº 190, de 4 de janeiro de 2022, na [Lei nº 17.470, de 13 de dezembro de 2021](https://www.al.sp.gov.br/norma/201348), e no Convênio ICMS 236/21, de 27 de dezembro de 2021,<br>
 Decreta:<br>

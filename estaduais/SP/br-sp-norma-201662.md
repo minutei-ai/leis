@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.428, DE 10 DE JANEIRO DE 2022
 
-### Convoca a V Conferência Estadual de Promoção da Igualdade Racial e dá providências correlatas
+### _Convoca a V Conferência Estadual de Promoção da Igualdade Racial e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

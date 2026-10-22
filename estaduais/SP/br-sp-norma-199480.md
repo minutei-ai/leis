@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.920, DE 11 DE AGOSTO DE 2021
 
-### Altera o Decreto nº 64.132, de 11 de março de 2019, e dá providências correlatas
+### _Altera o Decreto nº 64.132, de 11 de março de 2019, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a conveniência de delimitar a competência para as decisões de intervenção e extinção da concessão de serviço público de distribuição de gás canalizado regulados pela Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP, bem como para as decisões de prorrogação e extensão dos respectivos contratos;<br>

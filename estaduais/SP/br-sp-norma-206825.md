@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.469, DE 01 DE FEVEREIRO DE 2023
 
-### Altera a denominação do Centro de Progressão Penitenciária de Franco da Rocha para Centro de Progressão Penitenciária "ASP Moises Marcos Braga" de Franco da Rocha.
+### _Altera a denominação do Centro de Progressão Penitenciária de Franco da Rocha para Centro de Progressão Penitenciária "ASP Moises Marcos Braga" de Franco da Rocha._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -1,0 +1,19 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=193528)
+
+# DECRETO Nº 64.935, DE 09 DE ABRIL DE 2020
+
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área destinada à instalação da Unidade de Recuperação de Águas em Áreas Informais - URAAI Pirajussara, parte integrante do Sistema de Esgotamento Sanitário - .E.S., situada no Bairro Chácara Pirajussara, no Município e Comarca de São Paulo, e dá providências correlatas_
+
+JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigo 2º, 6º e 40 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956,<br>
+Decreta:<br>
+**Artigo 1º -** Fica declarada de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, empresa concessionária de serviço público, por via amigável ou judicial, a área destinada à instalação da Unidade de Recuperação de Águas em Áreas Informais - URAAI Pirajussara, no Município e Comarca de São Paulo, descrita e caracterizada na planta cadastral de Código CPI-5499/19 e no memorial descritivo constantes do Processo SIMA nº 14.349/2019-57, referentes ao cadastro SABESP nº 9028/100, dentro do perímetro seguir descrito, que consta pertencer a Atacadão - Distribuição, Comércio e Indústria Ltda: “Área (A-D-1-2-3-4-5-6-7-A) = 23.960,87m² , parte de um terreno situado na Estrada de Campo Limpo, Chácara Pirajussara, 29º Subdistrito-Santo Amaro, que “se inicia no marco "A”, cravado no canto da cerca e na margem direita da Estrada de Campo Limpo, no sentido de Cidade à Campo Limpo, deste ponto, segue por muro na distância de 80,20m até o marco “D”; deste deflete à direita e segue com rumo magnético de 37º37'41"NW e distância de 333,11m até o ponto aqui designado “1”; deste segue com rumo magnético de 87º38'53"NE e distância de 19,04m até o ponto aqui designado “2”; deste segue com rumo magnético de 79º24'44"NE e distância de 12,53m até o ponto aqui designado “3”; deste segue com rumo magnético de 68º58'47"NE e distância de 11,64m até o ponto aqui designado "4"; deste segue com rumo magnético de 60º56'17"NE e distância de 11,28m até o ponto aqui designado "5"; deste segue com rumo magnético de 60º08'l6”NE e distância de 16,59m até o ponto aqui designado "6"; deste segue com rumo magnético de 57º53’22”NE e distância de 9,21m até o ponto aqui designado "7", deste segue com rumo magnético de 38º17’00”SE e distância 298,27m até o marco "A", início desta descrição, fechando o perímetro e encerrando uma área de 23.960,87m² , confrontando dos pontos "A" ao "D" com Estrada de Campo Limpo; “D” ao “1” com propriedade de Atacadão - Distribuição, Comércio e Indústria Ltda. (matrícula nº 63.741 do 11º CRI da Capital - SP); "1" ao "7" com canal do Ribeirão Pirajussara; e, "7" ao "A" com propriedade de Massey Ferguson do Brasil S/A (atual Piscinão da Sharp).”<br>
+**Parágrafo único -** Ficam excluídos da presente declaração de utilidade pública os imóveis pertencentes a pessoas jurídicas de direito público que estiverem dentro dos perímetros descritos no “caput” deste artigo.<br>
+**Artigo 2º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da Companhia de Saneamento Básico do Estado de São Paulo - SABESP.<br>
+**Artigo 3º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 9 de abril de 2020<br>
+JOÃO DORIA<br>
+Antonio Carlos Rizeque Malufe<br>
+Secretário Executivo, Respondendo pelo Expediente da Casa Civil<br>
+Rodrigo Garcia<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 9 de abril de 2020.

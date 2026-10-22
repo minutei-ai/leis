@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 543, de 2021, da Deputada Analice Fernandes - PSDB)
 
-### Declara de utilidade pública a Associação Corujas do Bem, com sede em Catanduva
+### _Declara de utilidade pública a Associação Corujas do Bem, com sede em Catanduva_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

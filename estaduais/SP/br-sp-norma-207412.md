@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.591, DE 22 DE MARÇO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Mirante do Paranapanema, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Mirante do Paranapanema, o imóvel que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

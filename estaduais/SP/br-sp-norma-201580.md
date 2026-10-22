@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.411, DE 29 DE DEZEMBRO DE 2021
 
-### Altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei nº 17.372, de 26 de maio de 2021, e dá providências correlatas
+### _Altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei nº 17.372, de 26 de maio de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no artigo 3º, "caput", e § 1º da [Lei nº 17.372, de 26 de maio de 2021](https://www.al.sp.gov.br/norma/198420),<br>
 Decreta:<br>

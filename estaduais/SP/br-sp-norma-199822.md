@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 397, de 2020, do Deputado Rafa Zimbaldi - PL)
 
-### Institui o "Dia de Conscientização do Raquitismo Hipofosfatêmico"
+### _Institui o "Dia de Conscientização do Raquitismo Hipofosfatêmico"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

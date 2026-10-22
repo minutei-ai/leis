@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.012, DE 15 DE SETEMBRO DE 2021
 
-### Dispõe sobre a instituição do Portal eSocial-SPGov, no âmbito da Administração Pública direta e autárquica, e dá providências correlatas
+### _Dispõe sobre a instituição do Portal eSocial-SPGov, no âmbito da Administração Pública direta e autárquica, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando o Decreto federal nº 8.373, de 11 de dezembro de 2014, que institui o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas - eSocial;<br>

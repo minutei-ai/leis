@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.013, DE 15 DE SETEMBRO DE 2021
 
-### Autoriza o Fundo Social de São Paulo a representar o Estado na celebração de convênios com Municípios paulistas, por intermédio dos respectivos Fundos Sociais, visando à realização de cursos no âmbito do Programa Escola de Qualificação Profissional
+### _Autoriza o Fundo Social de São Paulo a representar o Estado na celebração de convênios com Municípios paulistas, por intermédio dos respectivos Fundos Sociais, visando à realização de cursos no âmbito do Programa Escola de Qualificação Profissional_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.421, DE 29 DE DEZEMBRO DE 2022
 
-### Declara Luto Oficial pelo falecimento de Edson Arantes do Nascimento, o Pelé.
+### _Declara Luto Oficial pelo falecimento de Edson Arantes do Nascimento, o Pelé._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a extraordinária trajetória de EDSON ARANTES DO NASCIMENTO - PELÉ (1940 - 2022), maior jogador da história do futebol brasileiro e mundial, tricampeão do mundo pela Seleção Brasileira (1958, 1962 e 1970), bicampeão mundial pelo Santos Futebol Clube (1962 e 1963), autor de mais de mil gols ao longo de 21 anos de carreira,<br>
 Decreta:<br>

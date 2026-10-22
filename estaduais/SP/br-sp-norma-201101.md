@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.273, DE 29 DE NOVEMBRO DE 2021
 
-### Institui o Distrito Turístico Serra Azul nas áreas que especifica dos Municípios de Itupeva, Jundiaí, Louveira e Vinhedo e dá providências correlatas
+### _Institui o Distrito Turístico Serra Azul nas áreas que especifica dos Municípios de Itupeva, Jundiaí, Louveira e Vinhedo e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

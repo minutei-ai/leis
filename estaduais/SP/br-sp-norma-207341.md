@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.579, DE 16 DE MARÇO DE 2023
 
-### Institui a Medalha Evocativa ao Cinquentenário do 5º Batalhão de Polícia Militar Metropolitano (5º BPM/M) e dá providências correlatas.
+### _Institui a Medalha Evocativa ao Cinquentenário do 5º Batalhão de Polícia Militar Metropolitano (5º BPM/M) e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

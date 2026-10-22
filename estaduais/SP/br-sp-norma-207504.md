@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.618, DE 29 DE MARÇO DE 2023
 
-### Altera o Decreto nº 64.601, de 22 de novembro de 2019, que reformula o Sistema de Tecnologia da Informação e Comunicação, reorganiza o Conselho Estadual de Tecnologia da Informação e Comunicação - COETIC, recria a Subsecretaria de Tecnologia e Serviços ao Cidadão, transfere e altera denominações de unidades da Secretaria de Governo e dá providências correlatas.
+### _Altera o Decreto nº 64.601, de 22 de novembro de 2019, que reformula o Sistema de Tecnologia da Informação e Comunicação, reorganiza o Conselho Estadual de Tecnologia da Informação e Comunicação - COETIC, recria a Subsecretaria de Tecnologia e Serviços ao Cidadão, transfere e altera denominações de unidades da Secretaria de Governo e dá providências correlatas._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

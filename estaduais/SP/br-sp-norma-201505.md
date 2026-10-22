@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 272, de 2021, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Chavantes - APAE de Chavantes
+### _Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Chavantes - APAE de Chavantes_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

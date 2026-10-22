@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1309, de 2019, do Deputado Marcos Zerbini - PSDB)
 
-### Denomina "Prof.º José Arana Varela" a Faculdade de Tecnologia de Araraquara - FATEC Araraquara, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
+### _Denomina "Prof.º José Arana Varela" a Faculdade de Tecnologia de Araraquara - FATEC Araraquara, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

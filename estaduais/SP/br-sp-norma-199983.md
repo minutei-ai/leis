@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.018, DE 15 DE SETEMBRO DE 2021
 
-### Organiza a Secretaria de Projetos e Ações Estratégicas e dá providências correlatas
+### _Organiza a Secretaria de Projetos e Ações Estratégicas e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

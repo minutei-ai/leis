@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 4, de 2021, do Deputado Agente Federal Danilo Balas - PSL)
 
-### Institui o "Dia Estadual do Profissional do Serviço Funerário"
+### _Institui o "Dia Estadual do Profissional do Serviço Funerário"_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

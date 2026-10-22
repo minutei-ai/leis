@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.680, DE 02 DE MAIO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Franca, os imóveis que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Franca, os imóveis que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

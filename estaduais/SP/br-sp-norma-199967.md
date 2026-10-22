@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1015, de 2019, da Deputada Dra. Damaris Moura - PHS)
 
-### Denomina "Coronel Rodolpho Pettená" a Rodovia de Acesso - SPA 344/055 na divisa municipal entre Itariri e Peruibe, km 344 da SP 055 - Rodovia Padre Manoel da Nóbrega
+### _Denomina "Coronel Rodolpho Pettená" a Rodovia de Acesso - SPA 344/055 na divisa municipal entre Itariri e Peruibe, km 344 da SP 055 - Rodovia Padre Manoel da Nóbrega_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

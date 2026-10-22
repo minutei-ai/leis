@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 757, de 2020, do Deputado Sergio Victor - NOVO)
 
-### Institui o Dia do Padroeiro do Budismo - Mestre Ibaragui Nissui Shounin
+### _Institui o Dia do Padroeiro do Budismo - Mestre Ibaragui Nissui Shounin_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

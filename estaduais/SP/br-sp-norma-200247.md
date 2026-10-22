@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.085, DE 05 DE OUTUBRO DE 2021
 
-### Dispõe sobre a alteração de denominação do Centro de Detenção Provisória de Capela do Alto para Centro de Detenção Provisória "Dr. Enio Mendes Junior" de Capela do Alto, pertencente à Coordenadoria de Unidades Prisionais da Região Central do Estado
+### _Dispõe sobre a alteração de denominação do Centro de Detenção Provisória de Capela do Alto para Centro de Detenção Provisória "Dr. Enio Mendes Junior" de Capela do Alto, pertencente à Coordenadoria de Unidades Prisionais da Região Central do Estado_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

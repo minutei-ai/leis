@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.024, DE 17 DE SETEMBRO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rota das Bandeiras S/A, as áreas necessárias à implantação das vias marginais norte e sul, no trecho entre os km 121+120m e 129+000m da Rodovia Professor Zeferino Vaz, SP-332, no Município e Comarca de Paulínia, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rota das Bandeiras S/A, as áreas necessárias à implantação das vias marginais norte e sul, no trecho entre os km 121+120m e 129+000m da Rodovia Professor Zeferino Vaz, SP-332, no Município e Comarca de Paulínia, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 53.310, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122290),<br>
 Decreta:<br>

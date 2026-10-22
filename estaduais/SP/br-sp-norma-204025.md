@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.854, DE 15 DE JUNHO DE 2022
 
-### Altera o Decreto nº 61.229, de 17 de abril de 2015, que autoriza o Secretário-Chefe da Casa Civil a representar o Estado na celebração de convênios com Municípios paulistas visando à transferência de recursos financeiros para a execução de obras ou a aquisição de veículos, materiais e equipamentos, no âmbito do Programa "Articulação Municipal"
+### _Altera o Decreto nº 61.229, de 17 de abril de 2015, que autoriza o Secretário-Chefe da Casa Civil a representar o Estado na celebração de convênios com Municípios paulistas visando à transferência de recursos financeiros para a execução de obras ou a aquisição de veículos, materiais e equipamentos, no âmbito do Programa "Articulação Municipal"_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

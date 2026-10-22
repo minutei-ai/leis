@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.643, DE 10 DE ABRIL DE 2023
 
-### Dá nova redação ao dispositivo que especifica do Decreto nº 51.434, de 28 de dezembro de 2006.
+### _Dá nova redação ao dispositivo que especifica do Decreto nº 51.434, de 28 de dezembro de 2006._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.639, DE 07 DE ABRIL DE 2022
 
-### Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de São José do Rio Preto
+### _Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de São José do Rio Preto_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

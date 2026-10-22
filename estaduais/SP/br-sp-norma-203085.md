@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.653, DE 14 DE ABRIL DE 2022
 
-### Autoriza a outorga de uso, ao Município de Santo Anastácio, do imóvel que especifica, e dá providências correlatas
+### _Autoriza a outorga de uso, ao Município de Santo Anastácio, do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

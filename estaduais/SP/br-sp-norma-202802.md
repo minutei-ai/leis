@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.610, DE 30 DE MARÇO DE 2022
 
-### Altera o Decreto nº 53.051, de 3 de junho de 2008, que institui o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo
+### _Altera o Decreto nº 53.051, de 3 de junho de 2008, que institui o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

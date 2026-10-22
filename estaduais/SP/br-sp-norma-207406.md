@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.588, DE 22 DE MARÇO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 440+630m da Rodovia Miguel Jubran, SP-333, no Município de Florínea, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 440+630m da Rodovia Miguel Jubran, SP-333, no Município de Florínea, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 62.249, de 4 de novembro de 2016](https://www.al.sp.gov.br/norma/179800),<br>
 Decreta:<br>

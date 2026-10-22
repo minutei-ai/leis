@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.960, DE 26 DE AGOSTO DE 2021
 
-### Altera a redação do Decreto nº 57.537, de 23 de novembro de 2011, acrescenta dispositivos aos Decretos nº 64.528, de 15 de outubro de 2019, e nº 64.809, de 21 de fevereiro de 2020, e dá providências correlatas
+### _Altera a redação do Decreto nº 57.537, de 23 de novembro de 2011, acrescenta dispositivos aos Decretos nº 64.528, de 15 de outubro de 2019, e nº 64.809, de 21 de fevereiro de 2020, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e sem prejuízo do disposto no artigo 25 do [Decreto nº 57.537, de 23 de novembro de 2011](https://www.al.sp.gov.br/norma/164099), artigo 9º do [Decreto nº 64.528, de 15 de outubro de 2019](https://www.al.sp.gov.br/norma/191802), e artigo 8º do [Decreto nº 64.809, de 21 de fevereiro de 2020](https://www.al.sp.gov.br/norma/193205),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.303, DE 25 DE NOVEMBRO DE 2022
 
-### Transfere, da Secretaria da Segurança Pública para a Secretaria dos Transportes Metropolitanos, a administração de partes dos imóveis que especifica, localizados no Município de São Paulo.
+### _Transfere, da Secretaria da Segurança Pública para a Secretaria dos Transportes Metropolitanos, a administração de partes dos imóveis que especifica, localizados no Município de São Paulo._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

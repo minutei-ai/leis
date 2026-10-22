@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.625, DE 01 DE ABRIL DE 2022
 
-### Dispõe sobre a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado
+### _Dispõe sobre a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos nº 54.486, de 26 de junho de 2009, e nº 66.457, de 28 de janeiro de 2022, que reorganiza a Secretaria da Fazenda e Planejamento,<br>
 Decreta:<br>

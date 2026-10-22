@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 916, de 2019, da Deputada Valeria Bolsonaro - PSL)
 
-### Institui o "Dia do Cover"
+### _Institui o "Dia do Cover"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

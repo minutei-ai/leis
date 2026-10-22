@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.054, DE 29 DE SETEMBRO DE 2021
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos Convênios ICMS 21/16, de 8 de abril de 2016, 26/21, de 12 de março de 2021, e 104/21, de 8 de julho de 2021,<br>
 Decreta:<br>

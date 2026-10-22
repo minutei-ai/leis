@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 95, de 2019, do Deputado Itamar Borges - MDB)
 
-### Denomina "João Lopes" o Dispositivo de Acesso e Retorno SPD 491/321, localizado no km 491 da Rodovia Cezário José de Castilho - SP 321, em Catanduva
+### _Denomina "João Lopes" o Dispositivo de Acesso e Retorno SPD 491/321, localizado no km 491 da Rodovia Cezário José de Castilho - SP 321, em Catanduva_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

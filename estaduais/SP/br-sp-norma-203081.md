@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.649, DE 13 DE ABRIL DE 2022
 
-### Dá denominação de "Ciclovia Franco Montoro" a ciclovia localizada no Canal Pinheiros, no Município de São Paulo
+### _Dá denominação de "Ciclovia Franco Montoro" a ciclovia localizada no Canal Pinheiros, no Município de São Paulo_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando o justo propósito de se homenagear a memória do Governador Franco Montoro (1916-1999), por sua reconhecida trajetória na vida pública e, em especial, por sua atuação pioneira na defesa da proteção e preservação ambiental no Brasil e no território paulista,<br>
 Decreta:<br>

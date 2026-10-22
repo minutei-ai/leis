@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.376, DE 27 DE DEZEMBRO DE 2021
 
-### Acrescenta dispositivo ao Decreto nº 66.135, de 18 de outubro de 2021
+### _Acrescenta dispositivo ao Decreto nº 66.135, de 18 de outubro de 2021_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

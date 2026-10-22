@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.272, DE 17 DE NOVEMBRO DE 2022
 
-### Altera a denominação da Escola Estadual Sítio Conceição, localizada no Município de São Paulo, para Escola Estadual "Professora Cláudia Dutra Viana".
+### _Altera a denominação da Escola Estadual Sítio Conceição, localizada no Município de São Paulo, para Escola Estadual "Professora Cláudia Dutra Viana"._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

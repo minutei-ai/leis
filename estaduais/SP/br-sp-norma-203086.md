@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.654, DE 14 DE ABRIL DE 2022
 
-### Altera e acrescenta dispositivos ao Decreto nº 64.416, de 28 de agosto de 2019, que declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Gas Brasiliano Distribuidora S/A, as áreas específicas de imóveis situados nos Municípios de Cravinhos e São Simão e dá providências correlatas
+### _Altera e acrescenta dispositivos ao Decreto nº 64.416, de 28 de agosto de 2019, que declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Gas Brasiliano Distribuidora S/A, as áreas específicas de imóveis situados nos Municípios de Cravinhos e São Simão e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

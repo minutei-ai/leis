@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.647, DE 19 DE ABRIL DE 2023
 
-### Altera a redação de dispositivos do Decreto nº 59.385, de 26 de julho de 2013, que institui a Câmara Intersecretarial de Segurança Alimentar e Nutricional - CAISAN-SP e dá providências correlatas.
+### _Altera a redação de dispositivos do Decreto nº 59.385, de 26 de julho de 2013, que institui a Câmara Intersecretarial de Segurança Alimentar e Nutricional - CAISAN-SP e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

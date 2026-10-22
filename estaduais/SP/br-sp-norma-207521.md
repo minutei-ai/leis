@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.620, DE 30 DE MARÇO DE 2023
 
-### Autoriza a outorga de uso, à Associação dos Oficiais da Polícia Militar do Estado de São Paulo, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, à Associação dos Oficiais da Polícia Militar do Estado de São Paulo, de parte do imóvel que especifica, e dá providências correlatas._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

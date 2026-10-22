@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.516, DE 18 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Intervias - Concessionária de Rodovias do Interior Paulista S/A, as áreas necessárias à implantação de faixa adicional no trecho entre os km 105+337m e 108+280m da Rodovia Vicente Botta, SP-215, no Município de Descalvado, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Intervias - Concessionária de Rodovias do Interior Paulista S/A, as áreas necessárias à implantação de faixa adicional no trecho entre os km 105+337m e 108+280m da Rodovia Vicente Botta, SP-215, no Município de Descalvado, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 42.840, de 4 de fevereiro de 1998](https://www.al.sp.gov.br/norma/6251),<br>
 Decreta:<br>

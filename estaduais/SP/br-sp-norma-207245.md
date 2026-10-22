@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.560, DE 09 DE MARÇO DE 2023
 
-### Dispõe sobre a classificação institucional da Secretaria de Governo e Relações Institucionais nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Dispõe sobre a classificação institucional da Secretaria de Governo e Relações Institucionais nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto no [Decreto nº 67.435 de 1º de janeiro de 2023](https://www.al.sp.gov.br/norma/206580), e no [Decreto nº 67.534, de 3 de março de 2023](https://www.al.sp.gov.br/norma/207146),<br>
 Decreta:<br>

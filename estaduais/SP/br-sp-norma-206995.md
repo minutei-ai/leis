@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 777, de 2021, do Deputado Edson Giriboni - PV)
 
-### Institui o "Dia do Instituto Butantan"
+### _Institui o "Dia do Instituto Butantan"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

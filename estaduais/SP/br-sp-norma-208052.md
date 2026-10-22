@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.688, DE 03 DE MAIO DE 2023
 
-### Dispõe sobre a oficialização da XIII Conferência Estadual de Assistência Social e dá providências correlatas.
+### _Dispõe sobre a oficialização da XIII Conferência Estadual de Assistência Social e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

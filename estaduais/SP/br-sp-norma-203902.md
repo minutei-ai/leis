@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.829, DE 08 DE JUNHO DE 2022
 
-### Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado na celebração de convênios com os Municípios que especifica, visando à estruturação dos Grupos de Fiscalização Integrada e fortalecimento das ações de monitoramento e fiscalização ambiental em Áreas de Proteção e Recuperação dos Mananciais da Bacia do Alto Tietê, e dá providências correlatas
+### _Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado na celebração de convênios com os Municípios que especifica, visando à estruturação dos Grupos de Fiscalização Integrada e fortalecimento das ações de monitoramento e fiscalização ambiental em Áreas de Proteção e Recuperação dos Mananciais da Bacia do Alto Tietê, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

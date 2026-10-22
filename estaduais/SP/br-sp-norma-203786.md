@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 784, de 2021, do Deputado Paulo Correa Jr - DEM)
 
-### Declara de utilidade pública a Sociedade de Amigos Restaurando Vidas, com sede em São Vicente
+### _Declara de utilidade pública a Sociedade de Amigos Restaurando Vidas, com sede em São Vicente_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

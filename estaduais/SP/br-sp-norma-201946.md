@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.476, DE 02 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária VIAPAULISTA S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno na altura do km 100+500m da Rodovia SP-255, no Município de Boa Esperança do Sul, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária VIAPAULISTA S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno na altura do km 100+500m da Rodovia SP-255, no Município de Boa Esperança do Sul, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.441, DE 10 DE JANEIRO DE 2023
 
-### Altera o Decreto nº 64.319, de 4 de julho de 2019, que regulamenta a aplicação da alíquota prevista no item 27 do § 1º do artigo 34 da Lei nº 6.374, de 1º de março de 1989.
+### _Altera o Decreto nº 64.319, de 4 de julho de 2019, que regulamenta a aplicação da alíquota prevista no item 27 do § 1º do artigo 34 da Lei nº 6.374, de 1º de março de 1989._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no § 10 do artigo 34 da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030),<br>
 Decreta:<br>

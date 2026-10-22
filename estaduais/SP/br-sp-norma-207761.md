@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1224, de 2019, do Deputado Marcos Zerbini – PSDB)
 
-### Declara de utilidade pública a Associação Grupo Amigos Voluntários de Severínia - GAVS, com sede naquele Município
+### _Declara de utilidade pública a Associação Grupo Amigos Voluntários de Severínia - GAVS, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

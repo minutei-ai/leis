@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.596, DE 24 DE MARÇO DE 2022
 
-### Cria a Escola Técnica Estadual - ETEC de Registro, no Município de Registro
+### _Cria a Escola Técnica Estadual - ETEC de Registro, no Município de Registro_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza"-CEETEPS,<br>
 Decreta:<br>

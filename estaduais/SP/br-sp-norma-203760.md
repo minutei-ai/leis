@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.801, DE 01 DE JUNHO DE 2022
 
-### Altera os Decretos nº 53.766, de 5 de dezembro de 2008, e nº 59.773, de 19 de novembro de 2013, e dá providências correlatas
+### _Altera os Decretos nº 53.766, de 5 de dezembro de 2008, e nº 59.773, de 19 de novembro de 2013, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

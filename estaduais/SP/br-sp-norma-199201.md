@@ -1,0 +1,20 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=199201)
+
+# DECRETO Nº 65.883, DE 22 DE JULHO DE 2021
+
+### _Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, a área necessária à implantação do Posto Geral de Fiscalização - PGF, na altura do km 182+300m da Rodovia SP-255, no Município de Igaraçu do Tietê, Comarca de Barra Bonita, e dá providências correlatas_
+
+JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
+Decreta:<br>
+**Artigo 1º -** Fica declarada de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, empresa concessionária de serviço público, por via amigável ou judicial, a área identificada na planta cadastral de código n° DE-SPD182255-182.183-029-D02/001 e no memorial descritivo constantes dos autos do Processo ARTESP-PRC-2021/01514, necessária à implantação do Posto Geral de Fiscalização - PGF, na altura do km 182+300m da Rodovia SP-255, no Município de Igaraçu do Tietê, Comarca de Barra Bonita, área essa que consta pertencer à Nova Agrícola Ponte Alta S/A e/ou outros e se encontra situada entre os km 181+741,26m e 182+912,87m, pista norte, daquela rodovia, nos referidos Município e Comarca, tendo linha de divisa que, partindo do ponto denominado 1, de coordenadas N=7505071.21560611 e E=751311.03413497, é constituída pelos segmentos a seguir relacionados: segmento 1-2 - em linha reta com azimute de 108°01'46" e distância de 003,73m; segmento 2-3 - em linha reta com azimute de 198°00'46" e distância de 087,22m; segmento 3-4 - em linha reta com azimute de 170°06'24" e distância de 032,60m; segmento 4-5 - em linha reta com azimute de 198°03'36" e distância de 056,83m; segmento 5-6 - em linha reta com azimute de 198°01'48" e distância de 246,07m; segmento 6-7 - em linha reta com azimute de 123°06'36" e distância de 062,14m; segmento 7-8 - em linha reta com azimute de 198°01'48" e distância de 256,43m; segmento 8-9 - em linha reta com azimute de 108°01'48" e distância de 086,60m; segmento 9-10 - em linha reta com azimute de 198°01'48" e distância de 020,00m; segmento 10-11 - em linha reta com azimute de 288°01'48" e distância de 069,20m; segmento 11-12 - em linha reta com azimute de 243°01'48" e distância de 017,63m; segmento 12-13 - em linha reta com azimute de 288°01'48" e distância de 064,94m; segmento 13-14 - em linha reta com azimute de 198°01'48" e distância de 116,18m; segmento 14-15 - em linha reta com azimute de 239°28'29" e distância de 010,50m; segmento 15-16 - em linha reta com azimute de 198°01'46" e distância de 303,46m; segmento 16-17 - em linha reta com azimute de 228°54'40" e distância de 023,44m; e segmento 17-1 - em linha reta com azimute de 018°01'46" e distância de 1.171,61m, perfazendo uma área de 37.988,37m² (trinta e sete mil, novecentos e oitenta e oito metros quadrados e trinta e sete decímetros quadrados).<br>
+**Artigo 2º -** Fica a VIAPAULISTA S/A autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e alterações posteriores, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.<br>
+**Artigo 3º -** As despesas com a execução do presente decreto correrão por conta de verba própria da VIAPAULISTA S/A.<br>
+**Artigo 4º -** Ficam excluídos da presente declaração de utilidade pública os imóveis de propriedade de pessoas jurídicas de direito público eventualmente situados dentro dos perímetros descritos no artigo 1° deste decreto.<br>
+**Artigo 5º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 22 de julho de 2021<br>
+JOÃO DORIA<br>
+Rodrigo Garcia<br>
+Secretário de Governo<br>
+Cauê Macris<br>
+Secretário-Chefe da Casa Civil<br>
+Publicado na Secretaria de Governo, aos 22 de julho de 2021.

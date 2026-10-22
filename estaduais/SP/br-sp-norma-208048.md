@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.684, DE 03 DE MAIO DE 2023
 
-### Dispõe sobre o registro de sanções e acordos de leniência no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e no Cadastro Nacional de Empresas Punidas (CNEP), por meio do Sistema Banco de Sanções, mantido pela Controladoria-Geral da União, e dá providências correlatas.
+### _Dispõe sobre o registro de sanções e acordos de leniência no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e no Cadastro Nacional de Empresas Punidas (CNEP), por meio do Sistema Banco de Sanções, mantido pela Controladoria-Geral da União, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

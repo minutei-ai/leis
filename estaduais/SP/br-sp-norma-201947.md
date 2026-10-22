@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.477, DE 02 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, as áreas necessárias à implantação de nova pista no trecho entre os km 60+480m e 82+000m da Rodovia dos Tamoios, SP-099, no Município de Caraguatatuba, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, as áreas necessárias à implantação de nova pista no trecho entre os km 60+480m e 82+000m da Rodovia dos Tamoios, SP-099, no Município de Caraguatatuba, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

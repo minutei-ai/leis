@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.906, DE 09 DE AGOSTO DE 2021
 
-### Dispõe sobre a implantação de Centros de Apoio Técnico - CAT em unidades policiais e dá providências correlatas
+### _Dispõe sobre a implantação de Centros de Apoio Técnico - CAT em unidades policiais e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

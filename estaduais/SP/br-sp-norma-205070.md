@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 550, de 2021, do Deputado Gil Diniz - SEM PARTIDO)
 
-### Institui o "Dia dos Pais"
+### _Institui o "Dia dos Pais"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

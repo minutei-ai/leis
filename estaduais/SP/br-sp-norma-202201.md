@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.509, DE 15 DE FEVEREIRO DE 2022
 
-### Estabelece normas para a integração entre o ambiente digital de gestão documental instituído no âmbito do Programa SP Sem Papel e o Sistema Integrado de Administração Financeira para Estados e Municípios - SIAFEM/SP e dá providências correlatas
+### _Estabelece normas para a integração entre o ambiente digital de gestão documental instituído no âmbito do Programa SP Sem Papel e o Sistema Integrado de Administração Financeira para Estados e Municípios - SIAFEM/SP e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

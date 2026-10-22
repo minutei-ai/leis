@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.604, DE 23 DE MARÇO DE 2023
 
-### Institui a Medalha Evocativa ao Cinquentenário do 6º Batalhão de Polícia Militar Metropolitano "Coronel PM Estevam Nikoluk" (6º BPM/M - Cel PM Nikoluk) e dá providências correlatas.
+### _Institui a Medalha Evocativa ao Cinquentenário do 6º Batalhão de Polícia Militar Metropolitano "Coronel PM Estevam Nikoluk" (6º BPM/M - Cel PM Nikoluk) e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

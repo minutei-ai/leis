@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.890, DE 27 DE JUNHO DE 2022
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o AME São Bernardo do Campo, e dá providências correlatas
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o AME São Bernardo do Campo, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

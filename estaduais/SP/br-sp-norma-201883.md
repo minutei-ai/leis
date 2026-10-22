@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.454, DE 28 DE JANEIRO DE 2022
 
-### Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas
+### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1282, de 2019, do Deputado Jorge Caruso - MDB)
 
-### Denomina "Vereador Benedito Izidoro Scapim" o dispositivo de acesso e retorno com duplo viaduto - SPD 225/340, localizado no km 224+637m da SP 340 - Rodovia Professor Boanerges Nogueira Lima, no município de Casa Branca
+### _Denomina "Vereador Benedito Izidoro Scapim" o dispositivo de acesso e retorno com duplo viaduto - SPD 225/340, localizado no km 224+637m da SP 340 - Rodovia Professor Boanerges Nogueira Lima, no município de Casa Branca_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

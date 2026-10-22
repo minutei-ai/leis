@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1187, de 2019, da Deputada Leci Brandão - PCdoB)
 
-### Declara de utilidade pública a Associação Cultural e Desportiva Shaolin Chan Kung fu do Estado de São Paulo, com sede em Campinas
+### _Declara de utilidade pública a Associação Cultural e Desportiva Shaolin Chan Kung fu do Estado de São Paulo, com sede em Campinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.302, DE 25 DE NOVEMBRO DE 2022
 
-### Altera a classificação institucional da Secretaria de Desenvolvimento Econômico nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria de Desenvolvimento Econômico nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto na [Lei nº 17.308, de 22 de dezembro de 2020](https://www.al.sp.gov.br/norma/196609), e na Resolução federal CODEFAT nº 921, de 18 de novembro de 2021,<br>
 Decreta:<br>

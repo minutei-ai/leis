@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.990, DE 02 DE SETEMBRO DE 2021
 
-### Institui o Distrito Turístico de Olímpia e dá providências correlatas
+### _Institui o Distrito Turístico de Olímpia e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

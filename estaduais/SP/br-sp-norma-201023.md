@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 412, de 2021, do Deputado Coronel Nishikawa - PSL)
 
-### Institui o "Agosto Cinza" no âmbito do Estado e dá outras providências
+### _Institui o "Agosto Cinza" no âmbito do Estado e dá outras providências_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

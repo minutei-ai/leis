@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.500, DE 11 DE FEVEREIRO DE 2022
 
-### Transfere, da Secretaria de Esportes para a Secretaria da Cultura e Economia Criativa, a administração de parte do imóvel que especifica, localizado no Município de São Paulo
+### _Transfere, da Secretaria de Esportes para a Secretaria da Cultura e Economia Criativa, a administração de parte do imóvel que especifica, localizado no Município de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

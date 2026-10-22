@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.752, DE 19 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação do Serviço de Atendimento ao Usuário - SAU25, na altura do km 524+140m da Rodovia SP-284, no Município de Rancharia, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação do Serviço de Atendimento ao Usuário - SAU25, na altura do km 524+140m da Rodovia SP-284, no Município de Rancharia, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto n° 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 91, de 2020, do Deputado Léo Oliveira - MDB)
 
-### Denomina "João Ciro Marconi" a passarela para pedestres - PAS 03 SPA 327/330, localizado no km 3+500m, sentido Norte da SPA 327/300 - Rodovia de Acesso Doutor Arthur Costacurta, no município de Jardinópolis
+### _Denomina "João Ciro Marconi" a passarela para pedestres - PAS 03 SPA 327/330, localizado no km 3+500m, sentido Norte da SPA 327/300 - Rodovia de Acesso Doutor Arthur Costacurta, no município de Jardinópolis_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.133, DE 15 DE OUTUBRO DE 2021
 
-### Dispõe sobre a alteração da denominação do Museu Memorial da Inclusão: Os Caminhos da Pessoa com Deficiência, criado, na Secretaria dos Direitos da Pessoa com Deficiência, pelo Decreto nº 63.892, de 5 de dezembro de 2018
+### _Dispõe sobre a alteração da denominação do Museu Memorial da Inclusão: Os Caminhos da Pessoa com Deficiência, criado, na Secretaria dos Direitos da Pessoa com Deficiência, pelo Decreto nº 63.892, de 5 de dezembro de 2018_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

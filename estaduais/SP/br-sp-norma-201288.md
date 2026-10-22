@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.307, DE 08 DE DEZEMBRO DE 2021
 
-### Dispõe sobre a celebração de convênios que especifica
+### _Dispõe sobre a celebração de convênios que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

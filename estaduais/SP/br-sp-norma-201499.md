@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1115, de 2019, do Deputado Alexandre Pereira - SD)
 
-### Declara de utilidade pública o Núcleo de Promoção Social "Venha Conosco", com sede na Capital
+### _Declara de utilidade pública o Núcleo de Promoção Social "Venha Conosco", com sede na Capital_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

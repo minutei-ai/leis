@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 24, de 2020, do Deputado Luiz Fernando T. Ferreira - PT)
 
-### Denomina "Professor Motooka" a Escola Estadual Cocaia, em Guarulhos
+### _Denomina "Professor Motooka" a Escola Estadual Cocaia, em Guarulhos_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

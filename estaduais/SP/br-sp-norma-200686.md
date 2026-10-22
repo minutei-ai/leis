@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 152, de 2021, do Deputado Fernando Cury - CIDADANIA)
 
-### Declara de utilidade pública a Associação Protetora dos Animais Desamparados de Chavantes, com sede naquele Município
+### _Declara de utilidade pública a Associação Protetora dos Animais Desamparados de Chavantes, com sede naquele Município_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

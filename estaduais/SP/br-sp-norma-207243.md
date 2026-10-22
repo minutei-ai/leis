@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.558, DE 09 DE MARÇO DE 2023
 
-### Dispõe sobre a concessão da Medalha de Defesa Civil do Estado de São Paulo à personalidade que especifica.
+### _Dispõe sobre a concessão da Medalha de Defesa Civil do Estado de São Paulo à personalidade que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no artigo 13 do [Decreto nº 26.856, de 6 de março de 1987](https://www.al.sp.gov.br/norma/48794), que instituiu a Medalha de Defesa Civil do Estado de São Paulo,<br>
 Decreta:<br>

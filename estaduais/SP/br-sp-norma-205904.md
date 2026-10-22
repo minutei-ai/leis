@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.269, DE 11 DE NOVEMBRO DE 2022
 
-### Cria e organiza, na Secretaria da Administração Penitenciária, as Penitenciárias I e II de Gália e dá providências correlatas.
+### _Cria e organiza, na Secretaria da Administração Penitenciária, as Penitenciárias I e II de Gália e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

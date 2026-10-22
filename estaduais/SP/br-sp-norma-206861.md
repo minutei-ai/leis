@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.472, DE 06 DE FEVEREIRO DE 2023
 
-### Autoriza a Fazenda do Estado a receber da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, mediante permissão de uso, parte do imóvel que especifica, localizado no Município de Guarujá.
+### _Autoriza a Fazenda do Estado a receber da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, mediante permissão de uso, parte do imóvel que especifica, localizado no Município de Guarujá._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

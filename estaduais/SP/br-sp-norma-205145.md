@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.100, DE 08 DE SETEMBRO DE 2022
 
-### Dispõe sobre a composição e as competências da Comissão Técnica da Carreira de Analista em Planejamento, Orçamento e Finanças Públicas - COTAN e da Comissão Técnica de Especialista em Políticas Públicas - CEPP na Secretaria de Orçamento e Gestão e dá providências correlatas
+### _Dispõe sobre a composição e as competências da Comissão Técnica da Carreira de Analista em Planejamento, Orçamento e Finanças Públicas - COTAN e da Comissão Técnica de Especialista em Políticas Públicas - CEPP na Secretaria de Orçamento e Gestão e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

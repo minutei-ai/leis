@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 51, de 2022, do Deputado Delegado Bruno Lima - PSL)
 
-### Declara de utilidade pública a Associação Ourinhense de Bem Estar - AOBE, com sede em Ourinhos
+### _Declara de utilidade pública a Associação Ourinhense de Bem Estar - AOBE, com sede em Ourinhos_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

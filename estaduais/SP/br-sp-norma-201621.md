@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.425, DE 06 DE JANEIRO DE 2022
 
-### Dispõe sobre a instalação da Delegacia de Polícia de Defesa da Mulher de Hortolândia e dá providências correlatas
+### _Dispõe sobre a instalação da Delegacia de Polícia de Defesa da Mulher de Hortolândia e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

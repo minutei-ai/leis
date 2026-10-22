@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.345, DE 14 DE DEZEMBRO DE 2022
 
-### Autoriza o Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS a celebrar Acordos de Cooperação com as Associações de Pais e Mestres - APM das Escolas Técnicas Estaduais - ETEC, visando a fomentar os objetivos educacionais nas Unidades de Ensino que especifica.
+### _Autoriza o Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS a celebrar Acordos de Cooperação com as Associações de Pais e Mestres - APM das Escolas Técnicas Estaduais - ETEC, visando a fomentar os objetivos educacionais nas Unidades de Ensino que especifica._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.502, DE 19 DE FEVEREIRO DE 2023
 
-### Declara estado de calamidade pública nas áreas que especifica, em razão de chuvas intensas no território estadual.
+### _Declara estado de calamidade pública nas áreas que especifica, em razão de chuvas intensas no território estadual._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil, segundo a qual as fortes chuvas que assolaram regiões do Estado de São Paulo, nos dias 18 e 19 de fevereiro, com acumulados pluviométricos expressivos, provocaram graves danos humanos, materiais e ambientais, além de prejuízos econômicos e sociais, na forma do item 1.3.2.1.4 da Classificação e Codificação Brasileira de Desastres (COBRADE),<br>
 Decreta:<br>

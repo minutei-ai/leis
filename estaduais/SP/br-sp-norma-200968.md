@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.249, DE 19 DE NOVEMBRO DE 2021
 
-### Dá denominação de "Professor Paulo Rolim Rosa" a unidade escolar da Secretaria da Educação, localizada no Município de São Paulo
+### _Dá denominação de "Professor Paulo Rolim Rosa" a unidade escolar da Secretaria da Educação, localizada no Município de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # LEI COMPLEMENTAR Nº 1.359, DE 24 DE AGOSTO DE 2021
 
-### Cria a Região Metropolitana de São José do Rio Preto e dá providências correlatas
+### _Cria a Região Metropolitana de São José do Rio Preto e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:

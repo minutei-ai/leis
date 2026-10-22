@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.438, DE 17 DE JANEIRO DE 2022
 
-### Declara de utilidade pública, para fins de instituição de servidão administrativa, pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação de Coletor Tronco, parte integrante do sistema de esgotamento sanitário - S.E.S., situada no Bairro Jardim Soraia, Distrito Santa Ângela, no Município de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de instituição de servidão administrativa, pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação de Coletor Tronco, parte integrante do sistema de esgotamento sanitário - S.E.S., situada no Bairro Jardim Soraia, Distrito Santa Ângela, no Município de São Paulo, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, e nos termos do disposto nos artigos 2º, 6º e 40° do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

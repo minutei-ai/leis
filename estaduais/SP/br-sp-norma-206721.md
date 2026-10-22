@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.453, DE 18 DE JANEIRO DE 2023
 
-### Transfere a vinculação do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas.
+### _Transfere a vinculação do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

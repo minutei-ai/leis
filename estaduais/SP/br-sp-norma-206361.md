@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.357, DE 16 DE DEZEMBRO DE 2022
 
-### Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2022.
+### _Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2022._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 227/17, de 15 de dezembro de 2017,<br>
 Decreta:<br>

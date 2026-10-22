@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.772, DE 24 DE MAIO DE 2022
 
-### Regulamenta a Bonificação por Resultados - BR, instituída pela Lei Complementar nº 1.361, de 21 de outubro de 2021, e dá providências correlatas
+### _Regulamenta a Bonificação por Resultados - BR, instituída pela Lei Complementar nº 1.361, de 21 de outubro de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

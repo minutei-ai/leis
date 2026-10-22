@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.056, DE 29 DE SETEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, do Município de São Paulo, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, do Município de São Paulo, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

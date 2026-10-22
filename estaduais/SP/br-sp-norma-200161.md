@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.055, DE 29 DE SETEMBRO DE 2021
 
-### Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975
+### _Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 4° da Lei Complementar federal n° 24, de 7 de janeiro de 1975, e no artigo 23 da [Lei nº 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740),<br>
 Decreta:<br>

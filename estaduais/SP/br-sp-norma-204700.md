@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.016, DE 04 DE AGOSTO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação da Praça de Pedágio PN31 no km 2+000m da Rodovia SP-293, no Município de Cabrália Paulista, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação da Praça de Pedágio PN31 no km 2+000m da Rodovia SP-293, no Município de Cabrália Paulista, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),<br>
 Decreta:<br>

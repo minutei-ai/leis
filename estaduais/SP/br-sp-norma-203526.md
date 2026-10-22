@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.742, DE 17 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Via Paulista S/A, a área complementar necessária à implantação de dispositivo de acesso e retorno na altura do km 253+130m da Rodovia SP-318, no Município e Comarca de São Carlos, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Via Paulista S/A, a área complementar necessária à implantação de dispositivo de acesso e retorno na altura do km 253+130m da Rodovia SP-318, no Município e Comarca de São Carlos, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto n° 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

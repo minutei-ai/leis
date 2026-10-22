@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 153, de 2021, do Deputado Itamar Borges - MDB)
 
-### Denomina "Zulmira Fortes Gatto" a Delegacia de Polícia de Defesa da Mulher de Itanhaém
+### _Denomina "Zulmira Fortes Gatto" a Delegacia de Polícia de Defesa da Mulher de Itanhaém_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

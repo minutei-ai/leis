@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 688, de 2021, do Deputado Marcos Damasio - PL)
 
-### Denomina "Antonio Zonta" o trevo localizado no km 171,800 da Rodovia Constantine Peruchi - SP 316, em Santa Gertrudes
+### _Denomina "Antonio Zonta" o trevo localizado no km 171,800 da Rodovia Constantine Peruchi - SP 316, em Santa Gertrudes_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

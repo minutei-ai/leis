@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.230, DE 01 DE NOVEMBRO DE 2022
 
-### Transfere, da Secretaria de Governo para a Secretaria de Desenvolvimento Social, a administração dos imóveis que especifica, e autoriza a Fazenda do Estado a permitir seu uso, por prazo indeterminado, à organização da sociedade civil Associação Maria Helen Drexel - AMHD.
+### _Transfere, da Secretaria de Governo para a Secretaria de Desenvolvimento Social, a administração dos imóveis que especifica, e autoriza a Fazenda do Estado a permitir seu uso, por prazo indeterminado, à organização da sociedade civil Associação Maria Helen Drexel - AMHD._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

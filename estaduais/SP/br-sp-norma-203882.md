@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.826, DE 08 DE JUNHO DE 2022
 
-### Altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei nº 17.372, de 26 de maio de 2021, e dá providências correlatas
+### _Altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei nº 17.372, de 26 de maio de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

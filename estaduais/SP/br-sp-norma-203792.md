@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.810, DE 02 DE JUNHO DE 2022
 
-### Cria, na Secretaria da Cultura e Economia Criativa, o Museu das Culturas Indígenas, como núcleo integrante do Museu Histórico e Pedagógico Índia Vanuíre, e dá providências correlatas
+### _Cria, na Secretaria da Cultura e Economia Criativa, o Museu das Culturas Indígenas, como núcleo integrante do Museu Histórico e Pedagógico Índia Vanuíre, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

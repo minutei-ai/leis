@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 39, de 2022, da Deputada Leticia Aguiar - PSL)
 
-### Declara de utilidade pública a Associação Comunidade Consoladora dos Aflitos, com sede em São José dos Campos
+### _Declara de utilidade pública a Associação Comunidade Consoladora dos Aflitos, com sede em São José dos Campos_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

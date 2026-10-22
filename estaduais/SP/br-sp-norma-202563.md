@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 591, de 2021, do Deputado Rafael Silva - PSB)
 
-### Declara de utilidade pública a Associação de Integração à Criança, ao Adolescente e aos Jovens "Amor Solidário" de Jaboticabal - ASINCAJO, com sede naquele Município
+### _Declara de utilidade pública a Associação de Integração à Criança, ao Adolescente e aos Jovens "Amor Solidário" de Jaboticabal - ASINCAJO, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

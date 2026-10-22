@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 69, de 2021, do Deputado Tenente Nascimento - PSL)
 
-### Denomina "Antônio Furlan" a Escola Técnica Estadual de Barueri - ETEC de Barueri, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, em Barueri
+### _Denomina "Antônio Furlan" a Escola Técnica Estadual de Barueri - ETEC de Barueri, unidade de ensino do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, em Barueri_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

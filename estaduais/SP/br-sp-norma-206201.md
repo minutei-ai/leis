@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.330, DE 07 DE DEZEMBRO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Santos, partes dos imóveis que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Santos, partes dos imóveis que especifica._
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

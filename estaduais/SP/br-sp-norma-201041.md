@@ -5,7 +5,7 @@
 
 # _(Última atualização: Lei nº 17.610, de 15 de dezembro de 2022)_
 
-### Institui o Programa Bolsa Auxílio Permanência - PBAP, voltado aos estudantes de graduação da Faculdade de Medicina de Marília - FAMEMA em situação de vulnerabilidade socioeconômica
+### _Institui o Programa Bolsa Auxílio Permanência - PBAP, voltado aos estudantes de graduação da Faculdade de Medicina de Marília - FAMEMA em situação de vulnerabilidade socioeconômica_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.403, DE 27 DE DEZEMBRO DE 2022
 
-### Decreto que dispõe sobre o Programa Minha Chance e dá providências correlatas.
+### _Decreto que dispõe sobre o Programa Minha Chance e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.650, DE 13 DE ABRIL DE 2022
 
-### Altera o Decreto nº 59.545, de 25 de setembro de 2013, que instituiu o "Programa de Incentivo à Infraestrutura de Saúde - SAÚDE SP"
+### _Altera o Decreto nº 59.545, de 25 de setembro de 2013, que instituiu o "Programa de Incentivo à Infraestrutura de Saúde - SAÚDE SP"_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

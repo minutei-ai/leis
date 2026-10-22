@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 672, de 2020, da Deputada Janaina Paschoal - PSL)
 
-### Denomina "Dr. Helio Pereira Bicudo" o Centro de Detenção Provisória de Mogi das Cruzes - CDP de Mogi das Cruzes, naquele Município
+### _Denomina "Dr. Helio Pereira Bicudo" o Centro de Detenção Provisória de Mogi das Cruzes - CDP de Mogi das Cruzes, naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.389, DE 28 DE DEZEMBRO DE 2021
 
-### Altera o Decreto nº 63.208, de 8 de fevereiro de 2018, que dispõe sobre a isenção e redução de base de cálculo do ICMS em operação com bens ou mercadorias destinadas às atividades de exploração ou produção de petróleo e gás natural
+### _Altera o Decreto nº 63.208, de 8 de fevereiro de 2018, que dispõe sobre a isenção e redução de base de cálculo do ICMS em operação com bens ou mercadorias destinadas às atividades de exploração ou produção de petróleo e gás natural_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 220/19, de 13 de dezembro de 2019, e no Convênio ICMS 137/20, de 9 de dezembro de 2020,<br>
 Decreta:<br>

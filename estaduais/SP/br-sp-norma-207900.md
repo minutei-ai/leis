@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.660, DE 26 DE ABRIL DE 2023
 
-### Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o Programa "Jovem Aprendiz Paulista" e dá providências correlatas.
+### _Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o Programa "Jovem Aprendiz Paulista" e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.686, DE 03 DE MAIO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à duplicação do trecho entre os km 172+000m e 175+000m da Rodovia SP-300, no Município de Laranjal Paulista, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à duplicação do trecho entre os km 172+000m e 175+000m da Rodovia SP-300, no Município de Laranjal Paulista, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
 Decreta:<br>

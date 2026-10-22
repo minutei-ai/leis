@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.103, DE 09 DE SETEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Rodovias Integradas do Oeste S/A - SPVIAS, as áreas necessárias à duplicação dos trechos entre os km 280 e 282 e entre os km 284 e 288 da Rodovia SP- 258, no Município de Itapeva, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Rodovias Integradas do Oeste S/A - SPVIAS, as áreas necessárias à duplicação dos trechos entre os km 280 e 282 e entre os km 284 e 288 da Rodovia SP- 258, no Município de Itapeva, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 42.948, de 19 de março de 1998](https://www.al.sp.gov.br/norma/6367),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.543, DE 02 DE MARÇO DE 2022
 
-### Autoriza a Fazenda do Estado a permitir o uso, em favor do Município de Elias Fausto, de parte do imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a permitir o uso, em favor do Município de Elias Fausto, de parte do imóvel que especifica, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

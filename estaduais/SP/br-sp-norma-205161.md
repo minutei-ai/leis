@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.104, DE 09 DE SETEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas necessárias à implantação de dispositivo do tipo diamante no km 249+100m da Rodovia SP-318, no Município de São Carlos, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas necessárias à implantação de dispositivo do tipo diamante no km 249+100m da Rodovia SP-318, no Município de São Carlos, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e no [Decreto nº 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.227, DE 01 DE NOVEMBRO DE 2022
 
-### Altera o Decreto nº 54.644, de 5 de agosto de 2009, que dispõe sobre a composição, a organização e o funcionamento do Conselho Estadual de Saneamento - CONESAN e dá providências correlatas.
+### _Altera o Decreto nº 54.644, de 5 de agosto de 2009, que dispõe sobre a composição, a organização e o funcionamento do Conselho Estadual de Saneamento - CONESAN e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

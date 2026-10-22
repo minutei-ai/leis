@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.937, DE 19 DE AGOSTO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

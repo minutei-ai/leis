@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 4, de 2020, do Deputado Tenente Nascimento - PSL)
 
-### Declara de utilidade pública a Associação Assistencial e Educacional Filhos do Rei, com sede na Capital
+### _Declara de utilidade pública a Associação Assistencial e Educacional Filhos do Rei, com sede na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

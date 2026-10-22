@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.095, DE 06 DE OUTUBRO DE 2021
 
-### Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo
+### _Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

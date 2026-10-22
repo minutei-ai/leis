@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.561, DE 15 DE MARÇO DE 2023
 
-### Dispõe sobre as transferências de vinculação que especifica, altera dispositivos dos decretos indicados e dá providências correlatas.
+### _Dispõe sobre as transferências de vinculação que especifica, altera dispositivos dos decretos indicados e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas de atribuições legais,<br>
 Decreta:<br>

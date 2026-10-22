@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.422, DE 03 DE JANEIRO DE 2022
 
-### Dispõe sobre a criação da Unidade Coordenadora de Programas Multissetoriais Integrados - UCPMI e dá providências correlatas
+### _Dispõe sobre a criação da Unidade Coordenadora de Programas Multissetoriais Integrados - UCPMI e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 619, de 2018, do Deputado Fernando Cury - PPS)
 
-### Declara o Município de Laranjal Paulista "Capital dos Brinquedos" do Estado
+### _Declara o Município de Laranjal Paulista "Capital dos Brinquedos" do Estado_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

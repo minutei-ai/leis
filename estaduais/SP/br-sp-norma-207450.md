@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 234, de 2022, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Engenheiro João Carlos Coelho Rocha - Néia" o viaduto localizado no km 279,380 da Rodovia Prefeito José André de Lima - SP 340, em Mococa
+### _Denomina "Engenheiro João Carlos Coelho Rocha - Néia" o viaduto localizado no km 279,380 da Rodovia Prefeito José André de Lima - SP 340, em Mococa_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

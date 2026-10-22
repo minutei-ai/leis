@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.423, DE 29 DE DEZEMBRO DE 2022
 
-### Altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei nº 17.372, de 26 de maio de 2021.
+### _Altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta o Programa Bolsa do Povo, criado pela Lei nº 17.372, de 26 de maio de 2021._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

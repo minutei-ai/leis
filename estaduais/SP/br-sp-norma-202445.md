@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.549, DE 07 DE MARÇO DE 2022
 
-### Disciplina a aplicação, no âmbito do Estado de São Paulo, da Lei federal nº 14.119, de 13 de janeiro de 2021, institui a Política Estadual de Pagamento por Serviços Ambientais - PEPSA, o Programa Estadual de Pagamento por Serviços Ambientais - PPSA e o Cadastro Estadual de Projetos de Pagamento por Serviços Ambientais, e dá providências correlatas
+### _Disciplina a aplicação, no âmbito do Estado de São Paulo, da Lei federal nº 14.119, de 13 de janeiro de 2021, institui a Política Estadual de Pagamento por Serviços Ambientais - PEPSA, o Programa Estadual de Pagamento por Serviços Ambientais - PPSA e o Cadastro Estadual de Projetos de Pagamento por Serviços Ambientais, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento na Lei federal nº 14.119, de 13 de janeiro de 2021, e nas normas estaduais aplicáveis,<br>
 Decreta:

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.117, DE 13 DE OUTUBRO DE 2021
 
-### Autoriza a Fazenda do Estado a alienar, mediante doação, ao Município de São Paulo, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a alienar, mediante doação, ao Município de São Paulo, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no inciso II do artigo 11 da [Lei nº 16.338, de 14 de dezembro de 2016](https://www.al.sp.gov.br/norma/180243), e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

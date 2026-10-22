@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.255, DE 10 DE NOVEMBRO DE 2022
 
-### Dispõe sobre o funcionamento das repartições públicas estaduais nos dias da participação do Brasil na Copa do Mundo FIFA 2022.
+### _Dispõe sobre o funcionamento das repartições públicas estaduais nos dias da participação do Brasil na Copa do Mundo FIFA 2022._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a participação da Seleção Brasileira de Futebol na Copa do Mundo FIFA 2022, a realizar-se no Catar;<br>

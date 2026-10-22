@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 346, de 2021, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública o Centro de Formação e Promoção Humana - CFPH, com sede em Mirante do Paranapanema
+### _Declara de utilidade pública o Centro de Formação e Promoção Humana - CFPH, com sede em Mirante do Paranapanema_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.441, DE 19 DE JANEIRO DE 2022
 
-### Dispõe sobre a outorga da "Medalha Ruth Cardoso"
+### _Dispõe sobre a outorga da "Medalha Ruth Cardoso"_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, à vista da proposta formulada pelo Conselho Estadual da Condição Feminina e diante da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

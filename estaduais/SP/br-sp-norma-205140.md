@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.095, DE 08 DE SETEMBRO DE 2022
 
-### Declara luto oficial pelo falecimento da Rainha britânica Elizabeth II
+### _Declara luto oficial pelo falecimento da Rainha britânica Elizabeth II_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,
 

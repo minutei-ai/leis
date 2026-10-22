@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 433, de 2022, do Deputado Milton Leite Filho - UNIÃO)
 
-### Denomina "Antônio de Queiroz Galvão" o Túnel T3/4, localizado no trecho de serra da Rodovia dos Tamoios (SP 099), em Caraguatatuba
+### _Denomina "Antônio de Queiroz Galvão" o Túnel T3/4, localizado no trecho de serra da Rodovia dos Tamoios (SP 099), em Caraguatatuba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

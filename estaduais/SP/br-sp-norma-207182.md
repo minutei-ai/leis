@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 177, de 2022, dos Deputados Gil Diniz - PL, Altair Moraes - REPUBLICANOS, Carlos Cezar - PL, Janaina Paschoal - PRTB, Tenente Nascimento - REPUBLICANOS e Marcio Nakashima - PDT)
 
-### Declara o evento "Marcha para Jesus" patrimônio cultural de natureza imaterial do Estado
+### _Declara o evento "Marcha para Jesus" patrimônio cultural de natureza imaterial do Estado_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

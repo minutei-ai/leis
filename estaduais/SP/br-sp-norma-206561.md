@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.431, DE 30 DE DEZEMBRO DE 2022
 
-### Dispõe sobre a não ratificação do Convênio ICMS 200/22, de 22 de dezembro de 2022, o qual altera o Convênio ICMS 190/17, que dispõe, nos termos autorizados na Lei Complementar nº 160, de 7 de agosto de 2017, sobre a remissão de créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea "g" do inciso XII do § 2º do art. 155 da Constituição Federal, bem como sobre as correspondentes reinstituições.
+### _Dispõe sobre a não ratificação do Convênio ICMS 200/22, de 22 de dezembro de 2022, o qual altera o Convênio ICMS 190/17, que dispõe, nos termos autorizados na Lei Complementar nº 160, de 7 de agosto de 2017, sobre a remissão de créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea "g" do inciso XII do § 2º do art. 155 da Constituição Federal, bem como sobre as correspondentes reinstituições._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 4° da Lei Complementar federal n° 24, de 7 de janeiro de 1975,<br>
 Decreta:<br>

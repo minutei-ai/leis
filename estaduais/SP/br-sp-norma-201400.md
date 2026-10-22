@@ -5,7 +5,7 @@
 
 # _(Texto atualizado até a retificação publicada no Diário Oficial Executivo I de 22/12/2021)_
 
-### Dispõe sobre a criação de cargos de Analista Jurídico do Ministério Público no Quadro de Pessoal do Ministério Público do Estado de São Paulo
+### _Dispõe sobre a criação de cargos de Analista Jurídico do Ministério Público no Quadro de Pessoal do Ministério Público do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:<br>

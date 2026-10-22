@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 519, de 2018, do Deputado José Américo - PT)
 
-### Institui o Dia Estadual da Comida de Rua
+### _Institui o Dia Estadual da Comida de Rua_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei

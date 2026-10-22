@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.064, DE 23 DE AGOSTO DE 2022
 
-### Autoriza a outorga de uso, em favor da empresa Concessionária Rodovia dos Tamoios S/A, de partes de próprio estadual que especifica, e dá providências correlatas
+### _Autoriza a outorga de uso, em favor da empresa Concessionária Rodovia dos Tamoios S/A, de partes de próprio estadual que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

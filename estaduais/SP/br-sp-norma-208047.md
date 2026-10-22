@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.683, DE 03 DE MAIO DE 2023
 
-### Institui o Plano Estadual de Promoção de Integridade e dá providências correlatas.
+### _Institui o Plano Estadual de Promoção de Integridade e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista do disposto na [Lei Complementar nº 1.361, de 21 de outubro de 2021](https://www.al.sp.gov.br/norma/200540),<br>
 Decreta:<br>

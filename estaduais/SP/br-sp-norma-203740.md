@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.799, DE 31 DE MAIO DE 2022
 
-### Dispõe sobre o Programa Ensino Integral - PEI, de que trata a Lei Complementar nº 1.374, de 30 de março de 2022, e dá providências correlatas
+### _Dispõe sobre o Programa Ensino Integral - PEI, de que trata a Lei Complementar nº 1.374, de 30 de março de 2022, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento na [Lei Complementar nº 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860),<br>
 Decreta:<br>

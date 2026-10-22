@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.445, DE 21 DE JANEIRO DE 2022
 
-### Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Rodoanel Norte", aprova o respectivo regulamento e dá providências correlatas
+### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Rodoanel Norte", aprova o respectivo regulamento e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei nº 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário constituído pelos segmentos rodoviários e rodovias de acesso que compõem o denominado "Lote Rodoanel Norte", por ocasião da 18ª Reunião Conjunta Ordinária, concernente à 254ª Reunião Ordinária do CDPED e à 101ª Reunião Ordinária do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 18 de dezembro de 2020;<br>

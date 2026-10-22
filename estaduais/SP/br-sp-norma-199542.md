@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.925, DE 16 DE AGOSTO DE 2021
 
-### Altera a denominação da Estação Mendes-Vila Natal da Linha 9 - Esmeralda, da CPTM, para Estação Bruno Covas/Mendes-Vila Natal
+### _Altera a denominação da Estação Mendes-Vila Natal da Linha 9 - Esmeralda, da CPTM, para Estação Bruno Covas/Mendes-Vila Natal_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

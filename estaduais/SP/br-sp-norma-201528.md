@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.421, DE 03 DE JANEIRO DE 2022
 
-### Dispõe sobre a comprovação de vacinação contra a COVID-19 por parte dos agentes públicos que especifica e dá providências correlatas
+### _Dispõe sobre a comprovação de vacinação contra a COVID-19 por parte dos agentes públicos que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 3º, inciso III, alínea "d", da Lei federal nº 13.979, de 6 de fevereiro de 2020,<br>
 Decreta:<br>

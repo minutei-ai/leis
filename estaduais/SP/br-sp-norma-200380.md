@@ -7,7 +7,7 @@
 
 ## (Projeto de lei nº 372, de 2021, dos Deputados João Mellão Neto - DEM e Ricardo Mellão - NOVO)
 
-### Altera a Lei nº 10.294, de 20 de abril de 1999, que dispõe sobre proteção e defesa do usuário do serviço público do Estado de São Paulo e dá outras providências
+### _Altera a Lei nº 10.294, de 20 de abril de 1999, que dispõe sobre proteção e defesa do usuário do serviço público do Estado de São Paulo e dá outras providências_
 
 <br>
 

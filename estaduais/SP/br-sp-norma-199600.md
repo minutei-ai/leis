@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.936, DE 19 DE AGOSTO DE 2021
 
-### Dispõe sobre as alterações de denominação de Secretarias de Estado e transferências que especifica e dá providências correlatas
+### _Dispõe sobre as alterações de denominação de Secretarias de Estado e transferências que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

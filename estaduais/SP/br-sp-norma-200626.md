@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.174, DE 26 DE OUTUBRO DE 2021
 
-### Altera a redação do Decreto nº 61.981, de 20 de maio de 2016, e dá providências correlatas
+### _Altera a redação do Decreto nº 61.981, de 20 de maio de 2016, e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

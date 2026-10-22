@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.053, DE 17 DE AGOSTO DE 2022
 
-### Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento das Bonificações por Resultados - BR relativas ao exercício de 2022
+### _Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento das Bonificações por Resultados - BR relativas ao exercício de 2022_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

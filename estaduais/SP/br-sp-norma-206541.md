@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.422, DE 29 DE DEZEMBRO DE 2022
 
-### Denomina "Complexo Rei Pelé" o viaduto localizado na Via Anchieta, SP-150, pista sul, km 65+000, com extensão de 410,20m, no Município de Santos.
+### _Denomina "Complexo Rei Pelé" o viaduto localizado na Via Anchieta, SP-150, pista sul, km 65+000, com extensão de 410,20m, no Município de Santos._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

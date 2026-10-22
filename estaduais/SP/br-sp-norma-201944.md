@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.474, DE 02 DE FEVEREIRO DE 2022
 
-### Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Monte Mor, que declarou Situação de Emergência em áreas do Município
+### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Monte Mor, que declarou Situação de Emergência em áreas do Município_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,<br>
 Decreta:<br>

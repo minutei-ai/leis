@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.452, DE 18 DE JANEIRO DE 2023
 
-### Altera dispositivos do Decreto nº 64.065, de 2 de janeiro de 2019, e dá providências correlatas.
+### _Altera dispositivos do Decreto nº 64.065, de 2 de janeiro de 2019, e dá providências correlatas._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

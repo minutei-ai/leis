@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.443, DE 11 DE JANEIRO DE 2023
 
-### Institui o Programa de Parcerias de Investimentos do Estado de São Paulo - PPI-SP e dá providências correlatas.
+### _Institui o Programa de Parcerias de Investimentos do Estado de São Paulo - PPI-SP e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

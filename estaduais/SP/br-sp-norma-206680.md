@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.444, DE 12 DE JANEIRO DE 2023
 
-### Altera o Decreto nº 67.381, de 20 de dezembro de 2022, que fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2023 e o percentual de desconto para pagamento integral e parcelado.
+### _Altera o Decreto nº 67.381, de 20 de dezembro de 2022, que fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2023 e o percentual de desconto para pagamento integral e parcelado._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 21, 22, 25 e 49-A da [Lei nº 13.296, de 23 de dezembro de 2008](https://www.al.sp.gov.br/norma/147435),<br>
 Decreta:<br>

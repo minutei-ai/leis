@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.296, DE 03 DE DEZEMBRO DE 2021
 
-### Introduz alterações no regulamento do imposto sobre operações relativas à circulação de mercadorias e sobre prestação de serviços de transporte interestadual e intermunicipal e de comunicação - RICMS
+### _Introduz alterações no regulamento do imposto sobre operações relativas à circulação de mercadorias e sobre prestação de serviços de transporte interestadual e intermunicipal e de comunicação - RICMS_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º e 46 da Lei nº 6.374, de 1° de março de 1989, e no Convênio ICMS 23/90, de 13 de setembro de 1990,<br>
 Decreta:<br>

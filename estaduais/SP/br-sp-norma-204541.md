@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.986, DE 21 DE JULHO DE 2022
 
-### Regulamenta os artigos 12-A a 12-F da Lei nº 4.957, de 30 de dezembro de 1985, alterada pela Lei nº 17.517, de 8 de março de 2022, que dispõe sobre planos públicos de valorização e aproveitamento dos recursos fundiários
+### _Regulamenta os artigos 12-A a 12-F da Lei nº 4.957, de 30 de dezembro de 1985, alterada pela Lei nº 17.517, de 8 de março de 2022, que dispõe sobre planos públicos de valorização e aproveitamento dos recursos fundiários_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

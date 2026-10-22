@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 17, de 2023, do Deputado Rogério Nogueira - PSDB)
 
-### Declara de utilidade pública a Sociedade Mantenedora da Corporação Musical Villa-Lobos de Indaiatuba, com sede naquele Município
+### _Declara de utilidade pública a Sociedade Mantenedora da Corporação Musical Villa-Lobos de Indaiatuba, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

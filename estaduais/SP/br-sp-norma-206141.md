@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.320, DE 30 DE NOVEMBRO DE 2022
 
-### Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo.
+### _Reduz para 6 (seis) meses o interstício na graduação de Aspirante a Oficial PM da Polícia Militar do Estado de São Paulo._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

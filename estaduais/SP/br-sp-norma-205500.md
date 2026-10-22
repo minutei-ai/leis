@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.161, DE 10 DE OUTUBRO DE 2022
 
-### Dispõe sobre a não ratificação do Convênio ICMS 131/22, de 23 de setembro de 2022, o qual altera o Convênio ICMS 190/17, que dispõe, nos termos autorizados na Lei Complementar n° 160, de 7 de agosto de 2017, sobre a remissão de créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea "g" do inciso XII do §2° do art. 155 da Constituição Federal, bem como sobre as correspondentes reinstituições
+### _Dispõe sobre a não ratificação do Convênio ICMS 131/22, de 23 de setembro de 2022, o qual altera o Convênio ICMS 190/17, que dispõe, nos termos autorizados na Lei Complementar n° 160, de 7 de agosto de 2017, sobre a remissão de créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea "g" do inciso XII do §2° do art. 155 da Constituição Federal, bem como sobre as correspondentes reinstituições_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 4° da Lei Complementar federal n° 24, de 7 de janeiro de 1975,<br>
 Decreta:<br>

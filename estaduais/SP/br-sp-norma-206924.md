@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.490, DE 14 DE FEVEREIRO DE 2023
 
-### Revoga o Decreto nº 66.421, de 3 de janeiro de 2022.
+### _Revoga o Decreto nº 66.421, de 3 de janeiro de 2022._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.603, DE 23 DE MARÇO DE 2023
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais da Região Metropolitana de São Paulo e dá providências correlatas.
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais da Região Metropolitana de São Paulo e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a paralisação do Metrô de São Paulo, em virtude da greve dos metroviários;<br>

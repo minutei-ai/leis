@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.382, DE 20 DE DEZEMBRO DE 2022
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5º da Lei nº 6.374, de 1° de março de 1989, no Convênio ICMS 106/20, de 14 de outubro de 2020, no Convênio ICMS 26/21, de 12 de março de 2021, e no Convênio ICMS 178/21, de 1º de outubro de 2021,<br>
 Decreta:<br>

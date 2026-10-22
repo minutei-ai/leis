@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.739, DE 17 DE MAIO DE 2022
 
-### Altera o Decreto nº 12.342 de 27 de setembro de 1978, que aprova o Regulamento a que se refere o artigo 22 do Decreto-lei nº 211, de 30 de março de 1970, que dispõe sobre normas de promoção, preservação e recuperação da saúde no campo de competência da Secretaria de Estado da Saúde
+### _Altera o Decreto nº 12.342 de 27 de setembro de 1978, que aprova o Regulamento a que se refere o artigo 22 do Decreto-lei nº 211, de 30 de março de 1970, que dispõe sobre normas de promoção, preservação e recuperação da saúde no campo de competência da Secretaria de Estado da Saúde_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

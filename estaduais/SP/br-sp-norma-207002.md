@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 170, de 2022, da Deputada Maria Lúcia Amary - PSDB)
 
-### Institui o "Dia Estadual de Conscientização sobre a Doença de Parkinson"
+### _Institui o "Dia Estadual de Conscientização sobre a Doença de Parkinson"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

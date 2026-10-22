@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.743, DE 17 DE MAIO DE 2022
 
-### Altera a redação do Decreto nº 62.294, de 6 de dezembro de 2016, que autorizou a Secretaria da Educação a representar o Estado na celebração de termos de colaboração, com organizações da sociedade civil, sem fins lucrativos, atuantes em educação especial, selecionadas por chamamento público ou previamente credenciadas pela Pasta, e dá providências correlatas
+### _Altera a redação do Decreto nº 62.294, de 6 de dezembro de 2016, que autorizou a Secretaria da Educação a representar o Estado na celebração de termos de colaboração, com organizações da sociedade civil, sem fins lucrativos, atuantes em educação especial, selecionadas por chamamento público ou previamente credenciadas pela Pasta, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

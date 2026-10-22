@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.943, DE 05 DE JULHO DE 2022
 
-### Altera a denominação do Centro de Detenção Provisória de Pontal para Penitenciária de Pontal, dispõe sobre sua organização e dá providências correlatas
+### _Altera a denominação do Centro de Detenção Provisória de Pontal para Penitenciária de Pontal, dispõe sobre sua organização e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

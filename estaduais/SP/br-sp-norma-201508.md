@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 518, de 2021, da Deputada Analice Fernandes - PSDB)
 
-### Dispõe sobre a prioridade para atendimento e emissão de laudos pelo Instituto Médico Legal - IML, no Estado, para mulheres vítimas de violência doméstica e familiar e vítimas de estupro de vulneráveis e dá outras providências
+### _Dispõe sobre a prioridade para atendimento e emissão de laudos pelo Instituto Médico Legal - IML, no Estado, para mulheres vítimas de violência doméstica e familiar e vítimas de estupro de vulneráveis e dá outras providências_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

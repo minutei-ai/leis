@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.496, DE 10 DE FEVEREIRO DE 2022
 
-### Altera dispositivo que especifica do regulamento da Junta Comercial do Estado de São Paulo - JUCESP, aprovado pelo Decreto nº 58.879, de 7 de fevereiro de 2013
+### _Altera dispositivo que especifica do regulamento da Junta Comercial do Estado de São Paulo - JUCESP, aprovado pelo Decreto nº 58.879, de 7 de fevereiro de 2013_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

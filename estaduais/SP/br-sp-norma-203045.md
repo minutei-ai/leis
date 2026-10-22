@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.648, DE 11 DE ABRIL DE 2022
 
-### Reorganiza a Coordenadoria de Recursos Humanos, da Secretaria da Saúde, e dá providências correlatas
+### _Reorganiza a Coordenadoria de Recursos Humanos, da Secretaria da Saúde, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

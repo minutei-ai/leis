@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 718, de 2021, do Deputado Cezar - PSDB)
 
-### Denomina "Mercedes Mori Gemente" o viaduto localizado no km 66,250 da Rodovia Raposo Tavares - SP 270, em Mairinque
+### _Denomina "Mercedes Mori Gemente" o viaduto localizado no km 66,250 da Rodovia Raposo Tavares - SP 270, em Mairinque_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

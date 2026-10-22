@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.609, DE 27 DE MARÇO DE 2023
 
-### Altera o Decreto nº 67.593, de 22 de março de 2023, que autorizou a abertura e aprovou os parâmetros da licitação para a concessão patrocinada do serviço público de transporte de passageiros, sobre trilhos, do TIC Eixo Norte, incluindo o Serviço Linha 7 Inicial, a Extensão Temporária da Operação do Serviço Linha 7 Inicial, o Serviço Linha 7-Rubi, o Serviço TIM e o Serviço Expresso.
+### _Altera o Decreto nº 67.593, de 22 de março de 2023, que autorizou a abertura e aprovou os parâmetros da licitação para a concessão patrocinada do serviço público de transporte de passageiros, sobre trilhos, do TIC Eixo Norte, incluindo o Serviço Linha 7 Inicial, a Extensão Temporária da Operação do Serviço Linha 7 Inicial, o Serviço Linha 7-Rubi, o Serviço TIM e o Serviço Expresso._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

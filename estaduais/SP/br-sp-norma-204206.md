@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.906, DE 29 DE JUNHO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Barueri, os imóveis que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Barueri, os imóveis que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

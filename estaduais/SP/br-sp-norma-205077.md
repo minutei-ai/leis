@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.086, DE 02 DE SETEMBRO DE 2022
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional do Alto Tietê - HRAT
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional do Alto Tietê - HRAT_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

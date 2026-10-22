@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 46, de 2020, do Deputado Tenente Coimbra - PSL)
 
-### Institui o "Dia do Comerciante Amigo da Segurança Pública"
+### _Institui o "Dia do Comerciante Amigo da Segurança Pública"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

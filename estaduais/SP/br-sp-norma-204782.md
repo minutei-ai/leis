@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.033, DE 11 DE AGOSTO DE 2022
 
-### Altera o Decreto nº 56.013, de 15 de julho de 2010, que dispõe sobre estágio para estudantes de Direito na Procuradoria Geral do Estado, e dá providências correlatas
+### _Altera o Decreto nº 56.013, de 15 de julho de 2010, que dispõe sobre estágio para estudantes de Direito na Procuradoria Geral do Estado, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

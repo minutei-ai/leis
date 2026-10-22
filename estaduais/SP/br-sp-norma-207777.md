@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 629, de 2022, do Deputado Reinaldo Alguz - UNIÃO)
 
-### Declara de utilidade pública a Associação Assistencial Boas Novas - AABN, com sede em Dracena
+### _Declara de utilidade pública a Associação Assistencial Boas Novas - AABN, com sede em Dracena_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

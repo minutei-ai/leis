@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.409, DE 28 DE DEZEMBRO DE 2022
 
-### Cria o Cadastro Estadual das Pessoas Jurídicas que produzem produtos e subprodutos de origem mineral - CADMINÉRIO e estabelece procedimentos para sua aquisição pelo Governo do Estado de São Paulo.
+### _Cria o Cadastro Estadual das Pessoas Jurídicas que produzem produtos e subprodutos de origem mineral - CADMINÉRIO e estabelece procedimentos para sua aquisição pelo Governo do Estado de São Paulo._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

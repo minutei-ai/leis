@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 428, de 2021, do Deputado Rodrigo Moraes - DEM)
 
-### Denomina "Dr. Walter Erwin Hoffgen" o Centro de Progressão Penitenciária de Porto Feliz
+### _Denomina "Dr. Walter Erwin Hoffgen" o Centro de Progressão Penitenciária de Porto Feliz_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

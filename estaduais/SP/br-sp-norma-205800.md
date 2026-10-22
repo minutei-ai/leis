@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.231, DE 03 DE NOVEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação de estações, ventilações, saídas de emergência e vias elevadas da Linha 2-Verde, no Município de Guarulhos, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação de estações, ventilações, saídas de emergência e vias elevadas da Linha 2-Verde, no Município de Guarulhos, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

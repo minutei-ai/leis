@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.528, DE 25 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de Serviço de Atendimento ao Usuário (SAU 04) na altura do km 87+870m da Rodovia Irineu Penteado, SP-191, no Município de Ipeúna, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de Serviço de Atendimento ao Usuário (SAU 04) na altura do km 87+870m da Rodovia Irineu Penteado, SP-191, no Município de Ipeúna, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e do [Decreto nº 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),<br>
 Decreta:<br>

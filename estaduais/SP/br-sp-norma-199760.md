@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.966, DE 30 DE AGOSTO DE 2021
 
-### Suspende o expediente das repartições públicas estaduais no dia 6 de setembro de 2021 e dá providências correlatas
+### _Suspende o expediente das repartições públicas estaduais no dia 6 de setembro de 2021 e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando que o próximo dia 6 de setembro deste ano recai entre o fim de semana e o feriado de 7 de setembro, data comemorativa da Independência do Brasil,<br>
 Decreta:<br>

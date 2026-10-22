@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.225, DE 31 DE OUTUBRO DE 2022
 
-### Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2022.
+### _Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2022._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 106/14, de 21 de outubro de 2014, no Convênio ICMS 178/21, de 1º de outubro de 2021, e no Convênio ICMS 147/22, de 23 de setembro de 2022,<br>
 Decreta:<br>

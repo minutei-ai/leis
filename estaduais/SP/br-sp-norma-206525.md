@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.414, DE 28 DE DEZEMBRO DE 2022
 
-### Autoriza a outorga de uso, ao Município de Oriente, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Oriente, de parte do imóvel que especifica, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da Decisão nº 43/2022 do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

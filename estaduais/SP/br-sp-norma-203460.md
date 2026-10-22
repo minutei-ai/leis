@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.722, DE 12 DE MAIO DE 2022
 
-### Transfere, do Ministério Público do Estado de São Paulo para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Presidente Prudente
+### _Transfere, do Ministério Público do Estado de São Paulo para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Presidente Prudente_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

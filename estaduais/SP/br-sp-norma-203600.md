@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução nº 7, de 2022)
 
-### Decreta a perda do mandato do Deputado Arthur do Val.
+### _Decreta a perda do mandato do Deputado Arthur do Val._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:<br>
 **Artigo 1º -** É decretada a perda do mandato do Deputado Arthur do Val, nos termos do artigo 16, inciso II e §§ 1º e 2º da Constituição do Estado, combinado com os artigos 7º, inciso IV, 11, incisos II e III, e 13 "caput" do Código de Ética e Decoro Parlamentar desta Assembleia Legislativa ([Resolução nº 766, de 16 de dezembro de 1994](https://www.al.sp.gov.br/norma/12132)).<br>

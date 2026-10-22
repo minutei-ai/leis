@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.508, DE 15 DE FEVEREIRO DE 2022
 
-### Regulamenta a Lei nº 16.684, de 19 de março de 2018, que institui a Política Estadual de Agroecologia e Produção Orgânica - PEAPO, e dá providências correlatas
+### _Regulamenta a Lei nº 16.684, de 19 de março de 2018, que institui a Política Estadual de Agroecologia e Produção Orgânica - PEAPO, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

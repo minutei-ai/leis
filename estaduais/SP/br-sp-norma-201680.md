@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.429, DE 11 DE JANEIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos, bem como implantação de faixas adicionais e dispositivos de acesso e retorno, no trecho entre os km 0,00 e 22,90 da SPI-177/342, nos Municípios de Mogi Guaçu e Itapira, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos, bem como implantação de faixas adicionais e dispositivos de acesso e retorno, no trecho entre os km 0,00 e 22,90 da SPI-177/342, nos Municípios de Mogi Guaçu e Itapira, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

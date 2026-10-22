@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.710, DE 09 DE MAIO DE 2022
 
-### Altera o Decreto nº 66.648, de 11 de abril de 2022, que reorganizou a Coordenadoria de Recursos Humanos, da Secretaria da Saúde
+### _Altera o Decreto nº 66.648, de 11 de abril de 2022, que reorganizou a Coordenadoria de Recursos Humanos, da Secretaria da Saúde_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

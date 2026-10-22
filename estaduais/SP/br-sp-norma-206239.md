@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 573, de 2021, do Deputado Reinaldo Alguz - PV)
 
-### Declara de utilidade pública o Instituto Anima Cristão, com sede em Presidente Venceslau
+### _Declara de utilidade pública o Instituto Anima Cristão, com sede em Presidente Venceslau_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

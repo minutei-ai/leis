@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 351, de 2019, da Deputada Maria Lúcia Amary - PSDB)
 
-### Dá a denominação de "Andressa Caroline Pereira Rodrigues" à passarela PAS 049/079 localizada no km 049+440m da SP 079 - Rodovia Waldomiro Correa de Camargo, no município de Itu
+### _Dá a denominação de "Andressa Caroline Pereira Rodrigues" à passarela PAS 049/079 localizada no km 049+440m da SP 079 - Rodovia Waldomiro Correa de Camargo, no município de Itu_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

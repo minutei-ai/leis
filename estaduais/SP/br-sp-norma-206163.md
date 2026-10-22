@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.324, DE 01 DE DEZEMBRO DE 2022
 
-### Regulamenta a Lei nº 16.763, de 11 de junho de 2018, que dispõe sobre o exercício da profissão de podólogo no Estado de São Paulo e dá outras providências.
+### _Regulamenta a Lei nº 16.763, de 11 de junho de 2018, que dispõe sobre o exercício da profissão de podólogo no Estado de São Paulo e dá outras providências._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

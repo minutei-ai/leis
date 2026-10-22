@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 694, de 2021, do Deputado Marcos Damasio - PL)
 
-### Declara de utilidade pública a Associação Esportiva Atlético Tigre Clube de Futebol da Cidade de Santa Lúcia, Estado de São Paulo, com sede naquele Município
+### _Declara de utilidade pública a Associação Esportiva Atlético Tigre Clube de Futebol da Cidade de Santa Lúcia, Estado de São Paulo, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

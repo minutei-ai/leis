@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.127, DE 14 DE OUTUBRO DE 2021
 
-### Dá nova redação ao artigo 7º do Decreto nº 61.141, de 27 de fevereiro de 2015, que dispõe sobre a Dívida Ativa do Estado, e cria a Comissão Mista Preparatória de Certidão Única de Débitos
+### _Dá nova redação ao artigo 7º do Decreto nº 61.141, de 27 de fevereiro de 2015, que dispõe sobre a Dívida Ativa do Estado, e cria a Comissão Mista Preparatória de Certidão Única de Débitos_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando que a Procuradoria Geral do Estado é competente para promover a inscrição, o controle e a cobrança da dívida ativa estadual,<br>
 Decreta:<br>

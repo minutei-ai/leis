@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.439, DE 05 DE JANEIRO DE 2023
 
-### Dá nova redação a dispositivos dos decretos que especifica.
+### _Dá nova redação a dispositivos dos decretos que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

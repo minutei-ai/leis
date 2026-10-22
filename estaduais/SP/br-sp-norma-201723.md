@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 807, de 2021, dos Deputados Milton Leite Filho - DEM e Leci Brandão - PCdoB)
 
-### Institui o "Dia da Favela"
+### _Institui o "Dia da Favela"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

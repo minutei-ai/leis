@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.928, DE 01 DE JULHO DE 2022
 
-### Altera o Decreto nº 62.849, de 03 de outubro de 2017, que autoriza a Fazenda do Estado a permitir o uso, a título precário, gratuito e por prazo determinado, em favor do Município de Oscar Bressane
+### _Altera o Decreto nº 62.849, de 03 de outubro de 2017, que autoriza a Fazenda do Estado a permitir o uso, a título precário, gratuito e por prazo determinado, em favor do Município de Oscar Bressane_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

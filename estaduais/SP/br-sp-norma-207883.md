@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.653, DE 20 DE ABRIL DE 2023
 
-### Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Saúde, a administração do imóvel que especifica, localizado no Município de Santo André.
+### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Saúde, a administração do imóvel que especifica, localizado no Município de Santo André._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

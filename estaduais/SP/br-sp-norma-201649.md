@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 599, de 2020, do Deputado André do Prado - PL)
 
-### Denomina "Prof.ª Sílvia Aparecida Bueno Ortolan" a Escola Estadual Jardim dos Ipês, em Ipeúna
+### _Denomina "Prof.ª Sílvia Aparecida Bueno Ortolan" a Escola Estadual Jardim dos Ipês, em Ipeúna_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

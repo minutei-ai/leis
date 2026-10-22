@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.062, DE 22 DE AGOSTO DE 2022
 
-### Dispõe sobre a fixação do percentual para fins de pagamento de Bonificação por Resultados - BR, nos termos da Lei Complementar nº 1.079, de 17 de dezembro de 2008, relativa ao exercício de 2021
+### _Dispõe sobre a fixação do percentual para fins de pagamento de Bonificação por Resultados - BR, nos termos da Lei Complementar nº 1.079, de 17 de dezembro de 2008, relativa ao exercício de 2021_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

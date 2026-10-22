@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.153, DE 05 DE OUTUBRO DE 2022
 
-### Acrescenta dispositivo ao Decreto nº 64.644, de 5 de dezembro de 2019, que regulamentou a Lei nº 17.149, de 13 de setembro de 2019, que instituiu o Programa Dinheiro Direto na Escola Paulista
+### _Acrescenta dispositivo ao Decreto nº 64.644, de 5 de dezembro de 2019, que regulamentou a Lei nº 17.149, de 13 de setembro de 2019, que instituiu o Programa Dinheiro Direto na Escola Paulista_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.015, DE 15 DE SETEMBRO DE 2021
 
-### Prorroga o prazo previsto no § 1º do artigo 2º da Lei nº 17.293, de 15 de outubro de 2020
+### _Prorroga o prazo previsto no § 1º do artigo 2º da Lei nº 17.293, de 15 de outubro de 2020_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no item 1 do § 2º do artigo 2º da [Lei nº 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740),<br>
 Decreta:<br>

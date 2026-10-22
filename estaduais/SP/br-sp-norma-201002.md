@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.257, DE 24 DE NOVEMBRO DE 2021
 
-### Dispõe sobre a oficialização da V Conferência Estadual dos Direitos da Pessoa com Deficiência e dá providências correlatas
+### _Dispõe sobre a oficialização da V Conferência Estadual dos Direitos da Pessoa com Deficiência e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

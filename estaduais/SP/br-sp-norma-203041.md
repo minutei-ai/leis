@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 762, de 2020, da Deputada Valeria Bolsonaro - PSL)
 
-### Denomina "Maestro Benito Juarez de Souza" a Escola Estadual Jardim Santa Clara, em Campinas
+### _Denomina "Maestro Benito Juarez de Souza" a Escola Estadual Jardim Santa Clara, em Campinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

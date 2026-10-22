@@ -4,7 +4,7 @@
 
 ## (Projeto de lei n° 382, de 2022, da Deputada Marina Helou - REDE)
 
-### Institui a Política Paulista de Prevenção das Mortes Violentas de Crianças e Adolescentes, no âmbito do Estado de São Paulo
+### _Institui a Política Paulista de Prevenção das Mortes Violentas de Crianças e Adolescentes, no âmbito do Estado de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:

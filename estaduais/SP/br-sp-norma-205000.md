@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.078, DE 29 DE AGOSTO DE 2022
 
-### Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado
+### _Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos nº 66.943, de 5 de julho de 2022, e nº 67.007, de 1º de agosto de 2022, e nas Leis nº 17.545, nº 17.553 e nº 17.556, todas de 20 de julho de 2022,<br>
 Decreta:<br>

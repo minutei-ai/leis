@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.655, DE 14 DE ABRIL DE 2022
 
-### Coloca veículos da Administração direta e indireta do Estado à disposição do Tribunal Regional Eleitoral de São Paulo e dá providências correlatas
+### _Coloca veículos da Administração direta e indireta do Estado à disposição do Tribunal Regional Eleitoral de São Paulo e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.585, DE 21 DE MARÇO DE 2022
 
-### Altera o Decreto nº 63.722, de 21 de setembro de 2018, que regulamenta, nos termos da competência suplementar atribuída ao Estado de São Paulo, o Sistema de Registro de Preços
+### _Altera o Decreto nº 63.722, de 21 de setembro de 2018, que regulamenta, nos termos da competência suplementar atribuída ao Estado de São Paulo, o Sistema de Registro de Preços_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.474, DE 06 DE FEVEREIRO DE 2023
 
-### Cria a Faculdade de Tecnologia - FATEC de Votorantim, no Município de Votorantim, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas.
+### _Cria a Faculdade de Tecnologia - FATEC de Votorantim, no Município de Votorantim, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS,<br>
 Decreta:<br>

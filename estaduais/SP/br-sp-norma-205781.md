@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.226, DE 01 DE NOVEMBRO DE 2022
 
-### Altera o Decreto n° 63.363, de 20 de abril de 2018, que institui, no âmbito do Estado de São Paulo, prazo adicional de adequação para Entidades de Direito Privado sem Fins Lucrativos participantes e beneficiárias do Programa de Estímulo à Cidadania Fiscal do Estado de São Paulo, instituído pela Lei nº 12.685, de 28 de agosto de 2007.
+### _Altera o Decreto n° 63.363, de 20 de abril de 2018, que institui, no âmbito do Estado de São Paulo, prazo adicional de adequação para Entidades de Direito Privado sem Fins Lucrativos participantes e beneficiárias do Programa de Estímulo à Cidadania Fiscal do Estado de São Paulo, instituído pela Lei nº 12.685, de 28 de agosto de 2007._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a importância do Programa de Estímulo à Cidadania Fiscal do Estado de São Paulo, instituído pela [Lei nº 12.685, de 28 de agosto de 2007](https://www.al.sp.gov.br/norma/73685), para as entidades de direito privado sem fins lucrativos,<br>
 Decreta:<br>

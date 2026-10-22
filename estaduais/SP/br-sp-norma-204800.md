@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.035, DE 12 DE AGOSTO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, área complementar necessária à implantação de trevo completo na altura do km 41+600m da Rodovia SP-101, no Município de Capivari, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, área complementar necessária à implantação de trevo completo na altura do km 41+600m da Rodovia SP-101, no Município de Capivari, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto n° 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
 Decreta:<br>

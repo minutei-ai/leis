@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 279, de 2022, da Deputada Carla Morando - PSDB)
 
-### Declara de utilidade pública o Lar São Vicente de Paulo de Cosmorama, com sede naquele Município
+### _Declara de utilidade pública o Lar São Vicente de Paulo de Cosmorama, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

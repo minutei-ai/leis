@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 644, de 2021, do Deputado Ricardo Mellão - NOVO)
 
-### Declara de utilidade pública a Associação Projeto Oficina Educação Motivação e Autonomia - APOEMA, com sede na Capital
+### _Declara de utilidade pública a Associação Projeto Oficina Educação Motivação e Autonomia - APOEMA, com sede na Capital_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

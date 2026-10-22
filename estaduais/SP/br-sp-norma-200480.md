@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.141, DE 19 DE OUTUBRO DE 2021
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Saúde, a administração do imóvel que especifica, localizado no Município de Cruzeiro
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Saúde, a administração do imóvel que especifica, localizado no Município de Cruzeiro_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

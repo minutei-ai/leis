@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 455, de 2021, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Sueli Cristina Nifossi Di Gesu" o dispositivo de acesso e retorno - SPD 000/563, localizado no km 0,00 da SP 563 - Rodovia General Euclides de Oliveira Figueiredo, no município de Teodoro Sampaio
+### _Denomina "Sueli Cristina Nifossi Di Gesu" o dispositivo de acesso e retorno - SPD 000/563, localizado no km 0,00 da SP 563 - Rodovia General Euclides de Oliveira Figueiredo, no município de Teodoro Sampaio_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

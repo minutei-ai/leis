@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.094, DE 06 DE OUTUBRO DE 2021
 
-### Institui, no âmbito do Estado de São Paulo, o Selo Amigo da Cidadania e dá providências correlatas
+### _Institui, no âmbito do Estado de São Paulo, o Selo Amigo da Cidadania e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.078, DE 04 DE OUTUBRO DE 2021
 
-### Suspende o expediente das repartições públicas estaduais nos dias que especifica e dá providências correlatas
+### _Suspende o expediente das repartições públicas estaduais nos dias que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

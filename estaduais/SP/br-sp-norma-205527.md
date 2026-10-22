@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.169, DE 11 DE OUTUBRO DE 2022
 
-### Dispõe sobre a concessão de tratamento tributário diferenciado, nas condições que especifica, aos produtores de biodiesel - B100 para apuração e pagamento do ICMS incidente nas respectivas operações, realizadas com diferimento do imposto
+### _Dispõe sobre a concessão de tratamento tributário diferenciado, nas condições que especifica, aos produtores de biodiesel - B100 para apuração e pagamento do ICMS incidente nas respectivas operações, realizadas com diferimento do imposto_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 8°, inciso II e § 10, da Lei n° 6.374, de 1° de março de 1989, e no Convênio ICMS 206/21, de 9 de dezembro de 2021,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.494, DE 17 DE FEVEREIRO DE 2023
 
-### Dispõe sobre o Fórum Estadual de Fomento ao Turismo Rural, a que se refere o artigo 6º da Lei nº 16.774, de 19 de junho de 2018.
+### _Dispõe sobre o Fórum Estadual de Fomento ao Turismo Rural, a que se refere o artigo 6º da Lei nº 16.774, de 19 de junho de 2018._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 529, de 2021, do Deputado Frederico d'Avila - PSL)
 
-### Denomina "Eduardo Kufa" a passarela para pedestres PAS 022/348, localizada no km 22+170m da SP 348 - Rodovia dos Bandeirantes, na Capital
+### _Denomina "Eduardo Kufa" a passarela para pedestres PAS 022/348, localizada no km 22+170m da SP 348 - Rodovia dos Bandeirantes, na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

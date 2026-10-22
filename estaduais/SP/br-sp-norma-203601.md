@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.760, DE 20 DE MAIO DE 2022
 
-### Dispõe sobre a instalação da Delegacia de Polícia de Defesa da Mulher de Novo Horizonte e dá providências correlatas
+### _Dispõe sobre a instalação da Delegacia de Polícia de Defesa da Mulher de Novo Horizonte e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

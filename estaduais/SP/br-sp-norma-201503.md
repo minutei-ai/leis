@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 100, de 2021, do Deputado Itamar Borges - MDB)
 
-### Declara de utilidade pública a Osc Maquininha do Futuro, com sede em São José do Rio Preto
+### _Declara de utilidade pública a Osc Maquininha do Futuro, com sede em São José do Rio Preto_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

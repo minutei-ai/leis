@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.522, DE 27 DE FEVEREIRO DE 2023
 
-### Altera o Decreto nº 51.624, de 28 de fevereiro de 2007, que institui regime especial de tributação pelo Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS para contribuintes da indústria de informática.
+### _Altera o Decreto nº 51.624, de 28 de fevereiro de 2007, que institui regime especial de tributação pelo Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS para contribuintes da indústria de informática._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 38-A da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030), na Lei Complementar nº 160, de 7 de agosto de 2017, e no Convênio ICMS 190/17, de 15 de dezembro de 2017,<br>
 Decreta:<br>

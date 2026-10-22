@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.497, DE 17 DE FEVEREIRO DE 2023
 
-### Transfere, da Procuradoria Geral do Estado para a Secretaria de Gestão e Governo Digital, a administração do imóvel que especifica, localizado no Município de São José do Rio Preto.
+### _Transfere, da Procuradoria Geral do Estado para a Secretaria de Gestão e Governo Digital, a administração do imóvel que especifica, localizado no Município de São José do Rio Preto._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 39, de 2020, dos Deputados Ataide Teruel – PODE, Marcio da Farmácia – PODE, Aprigio – PODE e Bruno Ganem - PODE)
 
-### Declara de utilidade pública a Associação Rede Voluntária Feminina de Combate ao Câncer de Mauá - REFEMA, com sede naquele Município
+### _Declara de utilidade pública a Associação Rede Voluntária Feminina de Combate ao Câncer de Mauá - REFEMA, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.929, DE 01 DE JULHO DE 2022
 
-### Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 2 de outubro de 2022, em primeiro turno, e 30 de outubro de 2022, em segundo turno, se houver
+### _Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 2 de outubro de 2022, em primeiro turno, e 30 de outubro de 2022, em segundo turno, se houver_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e em atenção ao disposto no Código Eleitoral, Lei federal nº 4.737, de 15 de julho de 1965,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.272, DE 29 DE NOVEMBRO DE 2021
 
-### Autoriza a abertura de licitação para a concessão dos serviços de operação, manutenção e realização de investimentos necessários para a exploração do sistema aquaviário de transporte de veículos e passageiros denominado Sistema de Travessias Litorâneas
+### _Autoriza a abertura de licitação para a concessão dos serviços de operação, manutenção e realização de investimentos necessários para a exploração do sistema aquaviário de transporte de veículos e passageiros denominado Sistema de Travessias Litorâneas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a aprovação pelo Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei nº 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), do modelo de concessão dos serviços de operação, manutenção e realização de investimentos necessários para a exploração do sistema aquaviário de transporte de veículos e passageiros denominado Sistema de Travessias Litorâneas, por ocasião da 26ª Reunião Conjunta Ordinária, concernente à 262ª Reunião Extraordinária do Conselho Diretor do Programa Estadual de Desestatização - CDPED e à 109ª Reunião Extraordinária do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 1º de Outubro de 2021;<br>

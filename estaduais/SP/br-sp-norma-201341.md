@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.328, DE 13 DE DEZEMBRO DE 2021
 
-### Institui o Programa "Desenvolve Municípios" e dá providências correlatas
+### _Institui o Programa "Desenvolve Municípios" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

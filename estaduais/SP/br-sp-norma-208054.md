@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.690, DE 03 DE MAIO DE 2023
 
-### Regulamenta a assistência técnica em ações judiciais de competência da Procuradoria Geral do Estado, de que tratam os artigos 22 e 23 da Lei Complementar nº 1.361, de 21 de outubro de 2021.
+### _Regulamenta a assistência técnica em ações judiciais de competência da Procuradoria Geral do Estado, de que tratam os artigos 22 e 23 da Lei Complementar nº 1.361, de 21 de outubro de 2021._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

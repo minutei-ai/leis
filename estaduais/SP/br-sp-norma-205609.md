@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.184, DE 18 DE OUTUBRO DE 2022
 
-### Autoriza a permissão de uso de imóveis localizados no Parque Estadual Itinguçu - Núcleo Arpoador, e dá providências correlatas.
+### _Autoriza a permissão de uso de imóveis localizados no Parque Estadual Itinguçu - Núcleo Arpoador, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

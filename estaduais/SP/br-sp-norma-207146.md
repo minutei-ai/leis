@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.534, DE 03 DE MARÇO DE 2023
 
-### Dispõe sobre as responsabilidades orçamentária e financeira da Casa Civil em relação aos Gabinetes do Governador e do Vice-Governador.
+### _Dispõe sobre as responsabilidades orçamentária e financeira da Casa Civil em relação aos Gabinetes do Governador e do Vice-Governador._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

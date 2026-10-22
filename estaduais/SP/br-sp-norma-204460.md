@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.974, DE 15 DE JULHO DE 2022
 
-### Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Bauru
+### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Bauru_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

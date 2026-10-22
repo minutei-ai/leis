@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.673, DE 19 DE ABRIL DE 2022
 
-### Altera a redação do Decreto nº 64.293, de 18 de junho de 2019, e dá providências correlatas
+### _Altera a redação do Decreto nº 64.293, de 18 de junho de 2019, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.918, DE 30 DE JUNHO DE 2022
 
-### Autoriza a prorrogação do prazo da permissão de uso de imóvel outorgada ao Município de Tarumã
+### _Autoriza a prorrogação do prazo da permissão de uso de imóvel outorgada ao Município de Tarumã_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

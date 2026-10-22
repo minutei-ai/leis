@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.020, DE 15 DE SETEMBRO DE 2021
 
-### Define as funções do Secretário Extraordinário de Comunicação, dispõe sobre a organização da Unidade de Comunicação e dá providências correlatas
+### _Define as funções do Secretário Extraordinário de Comunicação, dispõe sobre a organização da Unidade de Comunicação e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

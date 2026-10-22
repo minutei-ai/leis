@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.174, DE 13 DE OUTUBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., as áreas necessárias à duplicação dos trechos entre os km 25+700m e 33+040m da Rodovia SP-101, nos Municípios de Monte Mor e Elias Fausto, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., as áreas necessárias à duplicação dos trechos entre os km 25+700m e 33+040m da Rodovia SP-101, nos Municípios de Monte Mor e Elias Fausto, e dá providências correlatas_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941, e no [Decreto nº 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
 Decreta:<br>

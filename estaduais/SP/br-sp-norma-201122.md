@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.283, DE 30 DE NOVEMBRO DE 2021
 
-### Revoga o inciso V do Decreto nº 65.725, de 25 de maio de 2021, que regulamenta a Lei nº 17.320, de 12 de fevereiro de 2021
+### _Revoga o inciso V do Decreto nº 65.725, de 25 de maio de 2021, que regulamenta a Lei nº 17.320, de 12 de fevereiro de 2021_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

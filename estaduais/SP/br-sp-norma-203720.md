@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.793, DE 30 DE MAIO DE 2022
 
-### Dispõe sobre as jornadas de trabalho dos docentes submetidos ao regime instituído pela Lei Complementar nº 1.374, de 30 de março de 2022, e dá providências correlatas
+### _Dispõe sobre as jornadas de trabalho dos docentes submetidos ao regime instituído pela Lei Complementar nº 1.374, de 30 de março de 2022, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

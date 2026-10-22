@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.635, DE 06 DE ABRIL DE 2023
 
-### Dispõe sobre a Educação Especial na rede estadual de ensino e dá providências correlatas.
+### _Dispõe sobre a Educação Especial na rede estadual de ensino e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

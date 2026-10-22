@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.374, DE 23 DE DEZEMBRO DE 2021
 
-### Regulamenta a Lei nº 17.461, de 25 de novembro de 2021, que dispõe sobre o programa de auxílio financeiro às entidades hospitalares sem fins lucrativos - Programa Mais Santas Casas
+### _Regulamenta a Lei nº 17.461, de 25 de novembro de 2021, que dispõe sobre o programa de auxílio financeiro às entidades hospitalares sem fins lucrativos - Programa Mais Santas Casas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

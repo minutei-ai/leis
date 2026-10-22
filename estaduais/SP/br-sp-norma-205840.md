@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.245, DE 07 DE NOVEMBRO DE 2022
 
-### Dá denominação de Parque João Doria - Capivari ao Parque Capivari, no Município de Campos do Jordão.
+### _Dá denominação de Parque João Doria - Capivari ao Parque Capivari, no Município de Campos do Jordão._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a notável trajetória pública de João Agripino da Costa Doria, pai do ex-Governador do Estado de São Paulo, João Doria Junior;<br>

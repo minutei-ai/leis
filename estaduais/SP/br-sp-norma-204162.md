@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.892, DE 27 DE JUNHO DE 2022
 
-### Autoriza a Fazenda do Estado a outorgar o uso, em favor do Município de São Paulo, do imóvel que especifica
+### _Autoriza a Fazenda do Estado a outorgar o uso, em favor do Município de São Paulo, do imóvel que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

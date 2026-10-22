@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.542, DE 02 DE MARÇO DE 2022
 
-### Altera o Decreto nº 59.953, de 13 de dezembro de 2013, que regulamenta a imunidade, isenção, dispensa de pagamento, restituição e redução de alíquota do Imposto sobre a Propriedade de Veículos Automotores - IPVA, e dá outras providências
+### _Altera o Decreto nº 59.953, de 13 de dezembro de 2013, que regulamenta a imunidade, isenção, dispensa de pagamento, restituição e redução de alíquota do Imposto sobre a Propriedade de Veículos Automotores - IPVA, e dá outras providências_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto na alínea "a" do inciso I do artigo 1º da [Lei nº 17.473, de 16 de dezembro de 2021](https://www.al.sp.gov.br/norma/201408),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.518, DE 27 DE FEVEREIRO DE 2023
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no § 7º do artigo 3º da Lei Complementar 160, de 7 de agosto de 2017, e na cláusula décima segunda do Convênio ICMS 190/17, de 15 de dezembro de 2017,<br>
 Decreta:<br>

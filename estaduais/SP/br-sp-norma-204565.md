@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.994, DE 22 DE JULHO DE 2022
 
-### Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Campinas
+### _Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Campinas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

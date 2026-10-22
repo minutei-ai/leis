@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.068, DE 26 DE AGOSTO DE 2022
 
-### Altera o Decreto nº 65.990, de 2 de setembro de 2021, que institui o Distrito Turístico de Olímpia
+### _Altera o Decreto nº 65.990, de 2 de setembro de 2021, que institui o Distrito Turístico de Olímpia_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

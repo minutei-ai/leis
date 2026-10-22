@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.512, DE 16 DE FEVEREIRO DE 2022
 
-### Transfere, da Secretaria de Governo para a Secretaria de Orçamento e Gestão, a administração dos imóveis que especifica, localizados no Município de São Paulo, e dá providências correlatas
+### _Transfere, da Secretaria de Governo para a Secretaria de Orçamento e Gestão, a administração dos imóveis que especifica, localizados no Município de São Paulo, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

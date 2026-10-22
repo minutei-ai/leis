@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.576, DE 17 DE MARÇO DE 2022
 
-### Altera e acrescenta dispositivos ao Decreto nº 54.758, de 10 de setembro de 2009, que dispõe sobre os Centros de Estudos de Línguas - CELs e dá providências correlatas
+### _Altera e acrescenta dispositivos ao Decreto nº 54.758, de 10 de setembro de 2009, que dispõe sobre os Centros de Estudos de Línguas - CELs e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

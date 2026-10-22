@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 628, de 2020, do Deputado Fernando Cury - CIDADANIA)
 
-### Declara de utilidade pública a Associação Espírita Arco-íris de Avaré, com sede naquele Município
+### _Declara de utilidade pública a Associação Espírita Arco-íris de Avaré, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

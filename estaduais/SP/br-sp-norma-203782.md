@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 487, de 2019, do Deputado Marcos Damasio - PR)
 
-### Declara de utilidade pública a Associação dos Funcionários Municipais de Cruzeiro, com sede naquele Município
+### _Declara de utilidade pública a Associação dos Funcionários Municipais de Cruzeiro, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

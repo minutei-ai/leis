@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 43, de 2020, do Deputado Coronel Telhada - PP)
 
-### Institui o "Dia Estadual de Combate e Conscientização do Câncer de Cabeça e Pescoço"
+### _Institui o "Dia Estadual de Combate e Conscientização do Câncer de Cabeça e Pescoço"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

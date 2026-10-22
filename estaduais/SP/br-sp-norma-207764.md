@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 612, de 2020, do Deputado Frederico d’Avila – PSL)
 
-### Denomina "Gijsbertus van Melis" o dispositivo de acesso e retorno com viaduto SPD 256/270, localizado no km 256,100 da SP 270 - Rodovia Raposo Tavares, em Paranapanema
+### _Denomina "Gijsbertus van Melis" o dispositivo de acesso e retorno com viaduto SPD 256/270, localizado no km 256,100 da SP 270 - Rodovia Raposo Tavares, em Paranapanema_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

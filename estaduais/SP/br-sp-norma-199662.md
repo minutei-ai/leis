@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.952, DE 24 DE AGOSTO DE 2021
 
-### Institui o Prêmio Ester Sabino para mulheres cientistas e dá providências correlatas
+### _Institui o Prêmio Ester Sabino para mulheres cientistas e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

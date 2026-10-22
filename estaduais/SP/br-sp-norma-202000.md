@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.485, DE 07 DE FEVEREIRO DE 2022
 
-### Reativa o Museu "Delegado de Polícia Nestor Sampaio Penteado", da Divisão de Prevenção e Educação - DIPE, do Departamento Estadual de Prevenção e Repressão ao Narcotráfico - DENARC
+### _Reativa o Museu "Delegado de Polícia Nestor Sampaio Penteado", da Divisão de Prevenção e Educação - DIPE, do Departamento Estadual de Prevenção e Repressão ao Narcotráfico - DENARC_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução nº 9, de 2021)
 
-### Fica instituída a "Medalha Senador Major Olímpio", a ser concedida anualmente, pela Assembleia Legislativa do Estado de São Paulo, a agentes da segurança pública que se destacarem no exercício de suas atividades em prol da Segurança Pública do Estado de São Paulo.
+### _Fica instituída a "Medalha Senador Major Olímpio", a ser concedida anualmente, pela Assembleia Legislativa do Estado de São Paulo, a agentes da segurança pública que se destacarem no exercício de suas atividades em prol da Segurança Pública do Estado de São Paulo._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:<br>
 **Artigo 1º -** Fica instituída a "Medalha Senador Major Olímpio", a ser concedida anualmente, pela Assembleia Legislativa do Estado de São Paulo, a agentes da segurança pública que se destacarem no exercício de suas atividades em prol da Segurança Pública do Estado de São Paulo.<br>

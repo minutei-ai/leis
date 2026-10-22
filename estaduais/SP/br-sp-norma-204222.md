@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.917, DE 30 DE JUNHO DE 2022
 
-### Autoriza a outorga de uso, ao Município de Santos, do imóvel que especifica, e dá providências correlatas
+### _Autoriza a outorga de uso, ao Município de Santos, do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,
 

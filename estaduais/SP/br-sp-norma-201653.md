@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 84, de 2021, do Deputado Thiago Auricchio - PL)
 
-### Dá a denominação de "Professor Osmane Ortega" ao dispositivo de acesso e retorno com viaduto SPD 203/340, localizado no km 203+366m da SP-340 - Rodovia Deputado Mário Beni, no município de Aguaí
+### _Dá a denominação de "Professor Osmane Ortega" ao dispositivo de acesso e retorno com viaduto SPD 203/340, localizado no km 203+366m da SP-340 - Rodovia Deputado Mário Beni, no município de Aguaí_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

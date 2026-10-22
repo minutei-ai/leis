@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.617, DE 29 DE MARÇO DE 2023
 
-### Altera a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos nº 67.435, de 1º de janeiro de 2023, e nº 67.561, de 15 de março de 2023,<br>
 Decreta:<br>

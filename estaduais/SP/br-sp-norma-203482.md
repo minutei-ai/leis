@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.730, DE 13 DE MAIO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Adamantina, parte do imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Adamantina, parte do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho de Patrimônio Imobiliário,<br>
 Decreta:<br>

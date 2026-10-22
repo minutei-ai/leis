@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.217, DE 12 DE NOVEMBRO DE 2021
 
-### Altera o Decreto nº 64.065, de 2 de janeiro de 2019, e dá providências correlatas
+### _Altera o Decreto nº 64.065, de 2 de janeiro de 2019, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

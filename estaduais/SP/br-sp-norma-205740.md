@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.209, DE 27 DE OUTUBRO DE 2022
 
-### Estabelece a gratuidade dos serviços de transporte coletivo de passageiros do Estado de São Paulo, no dia 30 de outubro de 2022, nas condições que especifica.
+### _Estabelece a gratuidade dos serviços de transporte coletivo de passageiros do Estado de São Paulo, no dia 30 de outubro de 2022, nas condições que especifica._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a decisão proferida pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental nº 1.013,<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 595, de 2021, dos Deputados Maurici - PT e Marina Helou - REDE)
 
-### Institui a Política Estadual de Manejo Integrado do Fogo
+### _Institui a Política Estadual de Manejo Integrado do Fogo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

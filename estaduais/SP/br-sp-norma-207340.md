@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.578, DE 16 DE MARÇO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP, os imóveis necessários à execução de obras complementares do Sistema Integrado Metropolitano - SIM da Baixada Santista, no trecho Conselheiro Nébias - Valongo, no Município de Santos, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP, os imóveis necessários à execução de obras complementares do Sistema Integrado Metropolitano - SIM da Baixada Santista, no trecho Conselheiro Nébias - Valongo, no Município de Santos, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

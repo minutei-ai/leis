@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.514, DE 17 DE FEVEREIRO DE 2022
 
-### Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o programa "Polos de Desenvolvimento" e dá providências correlatas
+### _Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o programa "Polos de Desenvolvimento" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

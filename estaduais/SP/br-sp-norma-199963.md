@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1352, de 2015, do Deputado Sebastião Santos - PRB)
 
-### Institui o Roteiro Turístico do Peão de Boiadeiro integrado pelos Municípios de Barretos, Bebedouro, Colina, Monte Azul Paulista e Viradouro
+### _Institui o Roteiro Turístico do Peão de Boiadeiro integrado pelos Municípios de Barretos, Bebedouro, Colina, Monte Azul Paulista e Viradouro_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

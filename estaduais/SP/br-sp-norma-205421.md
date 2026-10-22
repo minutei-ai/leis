@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.151, DE 04 DE OUTUBRO DE 2022
 
-### Regulamenta a Lei nº 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras e dá outras providências
+### _Regulamenta a Lei nº 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras e dá outras providências_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

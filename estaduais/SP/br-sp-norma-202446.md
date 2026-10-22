@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.550, DE 07 DE MARÇO DE 2022
 
-### Reorganiza o "Programa Remanescentes Florestais", de que tratam o artigo 23 da Lei nº 13.798, de 9 de novembro de 2009, e os artigos 51 a 67 do Decreto nº 55.947, de 24 de junho de 2010, passando a denominar-se "Programa REFLORESTA-SP", e reorganiza o "Programa de Incentivos à Recuperação de Matas Ciliares e à Recomposição de Vegetação nas Bacias Formadoras de Mananciais de Água - Nascentes", de que trata o Decreto nº 62.914, de 8 de novembro de 2017, passando a denominar-se "Programa Nascentes", e dá providências correlatas
+### _Reorganiza o "Programa Remanescentes Florestais", de que tratam o artigo 23 da Lei nº 13.798, de 9 de novembro de 2009, e os artigos 51 a 67 do Decreto nº 55.947, de 24 de junho de 2010, passando a denominar-se "Programa REFLORESTA-SP", e reorganiza o "Programa de Incentivos à Recuperação de Matas Ciliares e à Recomposição de Vegetação nas Bacias Formadoras de Mananciais de Água - Nascentes", de que trata o Decreto nº 62.914, de 8 de novembro de 2017, passando a denominar-se "Programa Nascentes", e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

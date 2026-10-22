@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1230, de 2019, do Deputado Sebastião Santos - REPUBLICANOS)
 
-### Inclui no Calendário Turístico do Estado a Festa da APAE, em Novo Horizonte
+### _Inclui no Calendário Turístico do Estado a Festa da APAE, em Novo Horizonte_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.651, DE 20 DE ABRIL DE 2023
 
-### Altera os parágrafos do artigo 2º do Decreto nº 9.543, de 1º de março de 1977, alterado pelo Decreto nº 41.108, de 22 de agosto de 1996, que reestrutura o Sistema de Administração dos Transportes Internos Motorizados da Administração Pública estadual.
+### _Altera os parágrafos do artigo 2º do Decreto nº 9.543, de 1º de março de 1977, alterado pelo Decreto nº 41.108, de 22 de agosto de 1996, que reestrutura o Sistema de Administração dos Transportes Internos Motorizados da Administração Pública estadual._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

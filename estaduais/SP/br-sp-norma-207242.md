@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.557, DE 09 DE MARÇO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, os imóveis que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, os imóveis que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

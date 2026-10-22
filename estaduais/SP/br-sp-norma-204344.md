@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.951, DE 07 DE JULHO DE 2022
 
-### Dispõe sobre o reajuste do valor máximo para aquisição de gêneros alimentícios através do Programa Paulista da Agricultura de Interesse Social - PPAIS e do subprograma PPAIS - LEITE, por agricultor, nos termos da Lei nº 14.591, de 14 de outubro de 2011, regulamentada pelo Decreto nº 57.755, de 24 de janeiro de 2012
+### _Dispõe sobre o reajuste do valor máximo para aquisição de gêneros alimentícios através do Programa Paulista da Agricultura de Interesse Social - PPAIS e do subprograma PPAIS - LEITE, por agricultor, nos termos da Lei nº 14.591, de 14 de outubro de 2011, regulamentada pelo Decreto nº 57.755, de 24 de janeiro de 2012_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

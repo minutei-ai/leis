@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.626, DE 01 DE ABRIL DE 2022
 
-### Autoriza a Fazenda do Estado a outorgar o uso, ao Município de Barão de Antonina, do imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a outorgar o uso, ao Município de Barão de Antonina, do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

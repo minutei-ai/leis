@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.163, DE 11 DE OUTUBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação das estações, ventilações, saídas de emergência e pátio da Linha 2-Verde, no Município de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação das estações, ventilações, saídas de emergência e pátio da Linha 2-Verde, no Município de São Paulo, e dá providências correlatas_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

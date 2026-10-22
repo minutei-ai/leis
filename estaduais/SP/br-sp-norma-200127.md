@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.051, DE 28 DE SETEMBRO DE 2021
 
-### Altera a denominação da futura Estação da Linha 6 - Laranja, do Metrô, de Estação Angélica-Pacaembu para Estação FAAP-Pacaembu
+### _Altera a denominação da futura Estação da Linha 6 - Laranja, do Metrô, de Estação Angélica-Pacaembu para Estação FAAP-Pacaembu_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

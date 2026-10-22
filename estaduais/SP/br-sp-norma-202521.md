@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.556, DE 10 DE MARÇO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A, a área necessária à implantação de uma passarela de pedestres na altura do km 22+250m da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A, a área necessária à implantação de uma passarela de pedestres na altura do km 22+250m da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
 Decreta:<br>

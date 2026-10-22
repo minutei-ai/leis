@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.845, DE 14 DE JUNHO DE 2022
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando o [Decreto nº 66.782, de 26 de maio de 2022](https://www.al.sp.gov.br/norma/203681), que estabeleceu como ponto facultativo o expediente no dia 16 de junho - quinta-feira, nas repartições públicas estaduais sediadas na Capital e nos demais Municípios que tenham, mediante lei local, antecipado o feriado de Corpus Christi;<br>

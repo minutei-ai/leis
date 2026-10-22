@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.265, DE 26 DE NOVEMBRO DE 2021
 
-### Suspende, no corrente exercício, a aplicação do disposto no artigo 5º do Decreto nº 25.013, de 16 de abril de 1986, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública
+### _Suspende, no corrente exercício, a aplicação do disposto no artigo 5º do Decreto nº 25.013, de 16 de abril de 1986, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista do artigo 133 da [Lei Complementar nº 207, de 5 de janeiro de 1979](https://www.al.sp.gov.br/norma/31460),<br>
 Decreta:<br>

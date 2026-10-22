@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.347, DE 16 DE DEZEMBRO DE 2021
 
-### Institui, sob a coordenação da Secretaria de Desenvolvimento Social, no âmbito do Programa "São Paulo Amigo do Idoso", o Projeto "Longevidade" e dá providências correlatas
+### _Institui, sob a coordenação da Secretaria de Desenvolvimento Social, no âmbito do Programa "São Paulo Amigo do Idoso", o Projeto "Longevidade" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

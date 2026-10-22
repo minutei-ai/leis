@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.284, DE 30 DE NOVEMBRO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias às obras e serviços de remodelação de dispositivo de acesso, implantação e prolongamento de vias marginais, nos trechos que especifica, da Rodovia Feliciano Salles Cunha, SP-310, nos Municípios de Floreal e Auriflama, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias às obras e serviços de remodelação de dispositivo de acesso, implantação e prolongamento de vias marginais, nos trechos que especifica, da Rodovia Feliciano Salles Cunha, SP-310, nos Municípios de Floreal e Auriflama, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

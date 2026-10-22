@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 429, de 2020, do Deputado André do Prado - PL)
 
-### Denomina "Istercio Machado" a Rodovia SP 057, localizada entre o km 064+600m e o km 074+140m, com 9+450m de extensão, no município de Juquitiba
+### _Denomina "Istercio Machado" a Rodovia SP 057, localizada entre o km 064+600m e o km 074+140m, com 9+450m de extensão, no município de Juquitiba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

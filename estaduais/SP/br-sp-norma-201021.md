@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 703, de 2019, do Deputado Mauro Bragato - PSDB)
 
-### Institui o "Dia do Futebol Médio"
+### _Institui o "Dia do Futebol Médio"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

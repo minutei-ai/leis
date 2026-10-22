@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.215, DE 12 DE NOVEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Novais, os imóveis que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Novais, os imóveis que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

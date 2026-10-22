@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.483, DE 03 DE FEVEREIRO DE 2022
 
-### Institui, no Calendário Oficial Esportivo do Estado, os Jogos Paralímpicos do Estado de São Paulo - PARESP, autoriza a Secretaria de Esportes a representar o Estado na celebração de convênios com Municípios paulistas, e dá providências correlatas
+### _Institui, no Calendário Oficial Esportivo do Estado, os Jogos Paralímpicos do Estado de São Paulo - PARESP, autoriza a Secretaria de Esportes a representar o Estado na celebração de convênios com Municípios paulistas, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

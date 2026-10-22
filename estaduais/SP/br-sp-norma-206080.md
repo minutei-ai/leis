@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.299, DE 24 DE NOVEMBRO DE 2022
 
-### Altera o Decreto nº 65.897, de 30 de julho de 2021.
+### _Altera o Decreto nº 65.897, de 30 de julho de 2021._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

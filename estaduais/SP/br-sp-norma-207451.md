@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 884, de 2021, do Deputado Marcio da Farmácia - PODE)
 
-### Denomina "Dom Antonio Affonso de Miranda" o Ambulatório Médico de Especialidades Taubaté - AME Taubaté
+### _Denomina "Dom Antonio Affonso de Miranda" o Ambulatório Médico de Especialidades Taubaté - AME Taubaté_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

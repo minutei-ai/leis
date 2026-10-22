@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.455, DE 20 DE JANEIRO DE 2023
 
-### Regulamenta a Lei nº 17.611, de 15 de dezembro de 2022, que autoriza o Poder Executivo a conceder o benefício de gratuidade no transporte coletivo de passageiros às pessoas compreendidas na faixa etária entre 60 (sessenta) e 65 (sessenta e cinco) anos, na forma que especifica.
+### _Regulamenta a Lei nº 17.611, de 15 de dezembro de 2022, que autoriza o Poder Executivo a conceder o benefício de gratuidade no transporte coletivo de passageiros às pessoas compreendidas na faixa etária entre 60 (sessenta) e 65 (sessenta e cinco) anos, na forma que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

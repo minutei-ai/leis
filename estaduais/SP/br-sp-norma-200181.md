@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.065, DE 30 DE SETEMBRO DE 2021
 
-### Dá nova redação aos dispositivos que especifica do Regulamento de Concessão e Permissão da Prestação de Serviços Públicos de Distribuição de Gás Canalizado, aprovado pelo Decreto nº 43.889, de 10 de março de 1999
+### _Dá nova redação aos dispositivos que especifica do Regulamento de Concessão e Permissão da Prestação de Serviços Públicos de Distribuição de Gás Canalizado, aprovado pelo Decreto nº 43.889, de 10 de março de 1999_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

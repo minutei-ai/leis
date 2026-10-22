@@ -7,7 +7,7 @@
 
 ## (Projeto de Resolução nº 1, de 2023)
 
-### Institui o Diário Oficial Eletrônico da Assembleia Legislativa do Estado de São Paulo.
+### _Institui o Diário Oficial Eletrônico da Assembleia Legislativa do Estado de São Paulo._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:<br>
 **Artigo 1º -** Fica instituído o Diário Oficial Eletrônico da Assembleia Legislativa do Estado de São Paulo, o DOE-ALESP, como meio oficial de publicação e divulgação de seus atos processuais e administrativos, bem como das comunicações em geral.<br>

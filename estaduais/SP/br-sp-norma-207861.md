@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.648, DE 19 DE ABRIL DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo - HCFMUSP, o imóvel que especifica, e dá providências correlatas.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo - HCFMUSP, o imóvel que especifica, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.250, DE 19 DE NOVEMBRO DE 2021
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5º da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030), e no Convênio ICMS 140/01, de 19 de dezembro de 2001,<br>
 Decreta:<br>

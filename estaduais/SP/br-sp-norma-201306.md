@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.318, DE 09 DE DEZEMBRO DE 2021
 
-### Dispõe sobre o expediente das repartições públicas estaduais relativo aos dias que especifica e dá providências correlatas
+### _Dispõe sobre o expediente das repartições públicas estaduais relativo aos dias que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

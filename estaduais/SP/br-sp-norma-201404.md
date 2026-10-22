@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.350, DE 16 DE DEZEMBRO DE 2021
 
-### Declara de interesse social, para fins de desapropriação pela Secretaria da Cultura e Economia Criativa, os imóveis necessários à ampliação do equipamento museológico denominado Casa Mário de Andrade, no Município de São Paulo, e dá providências correlatas
+### _Declara de interesse social, para fins de desapropriação pela Secretaria da Cultura e Economia Criativa, os imóveis necessários à ampliação do equipamento museológico denominado Casa Mário de Andrade, no Município de São Paulo, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no artigo 5° da Lei federal n° 4.132, de 10 de setembro de 1962,<br>
 Decreta:<br>

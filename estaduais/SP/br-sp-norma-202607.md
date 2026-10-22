@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.571, DE 16 DE MARÇO DE 2022
 
-### Altera a denominação das unidades que especifica, extingue o Núcleo de Gestão Assistencial 29 e dá providências correlatas
+### _Altera a denominação das unidades que especifica, extingue o Núcleo de Gestão Assistencial 29 e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

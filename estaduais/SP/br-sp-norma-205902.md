@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.267, DE 11 DE NOVEMBRO DE 2022
 
-### Autoriza a permissão de uso, a título precário e oneroso, por prazo determinado, de parte do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a permissão de uso, a título precário e oneroso, por prazo determinado, de parte do imóvel que especifica, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

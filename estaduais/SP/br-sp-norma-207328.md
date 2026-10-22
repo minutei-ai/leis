@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.570, DE 15 DE MARÇO DE 2023
 
-### Dispõe sobre o marco temporal de transição dos regimes jurídicos de contratações públicas, para a plena aplicação da Lei federal nº 14.133, de 1º de abril de 2021, no âmbito da Administração Pública estadual direta e autárquica.
+### _Dispõe sobre o marco temporal de transição dos regimes jurídicos de contratações públicas, para a plena aplicação da Lei federal nº 14.133, de 1º de abril de 2021, no âmbito da Administração Pública estadual direta e autárquica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

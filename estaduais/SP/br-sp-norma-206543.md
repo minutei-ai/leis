@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.424, DE 29 DE DEZEMBRO DE 2022
 
-### Regulamenta a Lei nº 17.462, de 25 de novembro de 2021, alterada pela Lei nº 17.610, de 15 de dezembro de 2022, que institui o Programa Bolsa Auxílio Permanência - PBAP-FAMEMA, voltado aos estudantes de graduação da Faculdade de Medicina de Marília - FAMEMA em situação de vulnerabilidade socioeconômica.
+### _Regulamenta a Lei nº 17.462, de 25 de novembro de 2021, alterada pela Lei nº 17.610, de 15 de dezembro de 2022, que institui o Programa Bolsa Auxílio Permanência - PBAP-FAMEMA, voltado aos estudantes de graduação da Faculdade de Medicina de Marília - FAMEMA em situação de vulnerabilidade socioeconômica._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

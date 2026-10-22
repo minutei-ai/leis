@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.352, DE 17 DE DEZEMBRO DE 2021
 
-### Regulamenta, no âmbito do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, a Lei nº 17.149, de 13 de setembro de 2019, que institui o Programa Dinheiro Direto na Escola Paulista - PDDE Paulista, define suas finalidades, diretrizes e estabelece outras providências
+### _Regulamenta, no âmbito do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, a Lei nº 17.149, de 13 de setembro de 2019, que institui o Programa Dinheiro Direto na Escola Paulista - PDDE Paulista, define suas finalidades, diretrizes e estabelece outras providências_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

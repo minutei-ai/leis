@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.665, DE 14 DE ABRIL DE 2022
 
-### Dá providências relativas à extinção da Superintendência de Controle de Endemias - SUCEN, criada pelo Decreto-Lei nº 232, de 17 de abril de 1970
+### _Dá providências relativas à extinção da Superintendência de Controle de Endemias - SUCEN, criada pelo Decreto-Lei nº 232, de 17 de abril de 1970_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no artigo 3º da [Lei nº 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740),<br>
 Decreta:<br>

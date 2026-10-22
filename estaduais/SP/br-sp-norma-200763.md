@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.197, DE 08 DE NOVEMBRO DE 2021
 
-### Transfere, da Secretaria da Saúde para a Procuradoria Geral do Estado, a administração de parte do imóvel que especifica, localizado no Município de Botucatu
+### _Transfere, da Secretaria da Saúde para a Procuradoria Geral do Estado, a administração de parte do imóvel que especifica, localizado no Município de Botucatu_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.930, DE 01 DE JULHO DE 2022
 
-### Dispõe sobre a alteração de denominação de Secretaria de Estado que especifica e dá providências correlatas
+### _Dispõe sobre a alteração de denominação de Secretaria de Estado que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

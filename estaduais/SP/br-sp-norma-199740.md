@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.965, DE 27 DE AGOSTO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargos, do Município de Votuporanga, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargos, do Município de Votuporanga, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 758, de 2019, do Deputado Léo Oliveira - MDB)
 
-### Denomina "Antonio Marincek" o terminal de passageiros do Aeroporto Estadual Dr. Leite Lopes, em Ribeirão Preto
+### _Denomina "Antonio Marincek" o terminal de passageiros do Aeroporto Estadual Dr. Leite Lopes, em Ribeirão Preto_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

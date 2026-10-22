@@ -7,7 +7,7 @@
 
 ## (Projeto de Resolução nº 20, de 2021)
 
-### Fixa, em caráter excepcional, para o período que estabelece, normas relativas aos horários e aos trabalhos das sessões ordinárias e extraordinárias da Assembleia Legislativa, e dá providências correlatas
+### _Fixa, em caráter excepcional, para o período que estabelece, normas relativas aos horários e aos trabalhos das sessões ordinárias e extraordinárias da Assembleia Legislativa, e dá providências correlatas_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:<br>
 ~~Artigo 1º - Até 1º de abril de 2022, observar-se-á, em caráter excepcional, em relação aos horários e aos trabalhos das sessões ordinárias e extraordinárias da Assembleia Legislativa, o disposto nesta resolução.~~

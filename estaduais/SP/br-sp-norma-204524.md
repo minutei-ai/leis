@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 489, de 2020, do Deputado Rafael Silva - PSB)
 
-### Declara de utilidade pública a entidade DAREVI - Descalvado Ajudando na Recuperação da Vida, com sede naquele Município
+### _Declara de utilidade pública a entidade DAREVI - Descalvado Ajudando na Recuperação da Vida, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 

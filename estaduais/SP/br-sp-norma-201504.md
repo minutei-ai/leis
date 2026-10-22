@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 250, de 2021, do Deputado Rafa Zimbaldi - PL)
 
-### Denomina "Attilio Bardin" o dispositivo de acesso e retorno com viaduto - SPD 122/332, localizado no km 121+900m da SP - 332 Rodovia Zeferino Vaz, no município de Paulínia
+### _Denomina "Attilio Bardin" o dispositivo de acesso e retorno com viaduto - SPD 122/332, localizado no km 121+900m da SP - 332 Rodovia Zeferino Vaz, no município de Paulínia_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

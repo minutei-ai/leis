@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.162, DE 11 DE OUTUBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela INTERVIAS - Concessionária de Rodovias do Interior Paulista S/A, as áreas necessárias à implantação de faixa adicional e retorno em nível no trecho entre os km 30+440m e 33+200m da Rodovia SP-191, no Município de Araras, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela INTERVIAS - Concessionária de Rodovias do Interior Paulista S/A, as áreas necessárias à implantação de faixa adicional e retorno em nível no trecho entre os km 30+440m e 33+200m da Rodovia SP-191, no Município de Araras, e dá providências correlatas_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 42.840, de 4 de fevereiro de 1998](https://www.al.sp.gov.br/norma/6251),<br>
 Decreta:<br>

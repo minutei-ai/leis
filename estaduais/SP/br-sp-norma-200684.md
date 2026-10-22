@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 685, de 2020, do Deputado Castello Branco - PSL)
 
-### Denomina "Delegado Classe Especial Álvaro Vicente de Luca" o Serviço Aerotático - SAT do Departamento de Operações Policiais Estratégicas - DOPE, da Polícia Civil do Estado
+### _Denomina "Delegado Classe Especial Álvaro Vicente de Luca" o Serviço Aerotático - SAT do Departamento de Operações Policiais Estratégicas - DOPE, da Polícia Civil do Estado_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

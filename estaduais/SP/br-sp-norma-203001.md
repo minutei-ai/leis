@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.637, DE 07 DE ABRIL DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Fazenda do Estado, o imóvel necessário à implantação do Núcleo de Apoio ao Centro de Inovação da Educação Básica - CIEBP, no Município de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Fazenda do Estado, o imóvel necessário à implantação do Núcleo de Apoio ao Centro de Inovação da Educação Básica - CIEBP, no Município de São Paulo, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

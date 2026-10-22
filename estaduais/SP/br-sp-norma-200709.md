@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.156, DE 20 DE OUTUBRO DE 2021
 
-### Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2021
+### _Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com bens ou mercadorias comercializados na Feira Escandinava de 2021_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 106/14, de 21 de outubro de 2014, no Convênio ICMS 28/21, de 12 de março de 2021, e no Convênio ICMS 141/21, de 3 de setembro de 2021,<br>
 Decreta:<br>

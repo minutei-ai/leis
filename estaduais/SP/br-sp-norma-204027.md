@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.856, DE 15 DE JUNHO DE 2022
 
-### Transfere a Assessoria Especial do Governo do Estado de São Paulo em Brasília - AEGESP da Casa Civil, do Gabinete do Governador, para a Secretaria de Projetos e Ações Estratégicas e dá providências correlatas
+### _Transfere a Assessoria Especial do Governo do Estado de São Paulo em Brasília - AEGESP da Casa Civil, do Gabinete do Governador, para a Secretaria de Projetos e Ações Estratégicas e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

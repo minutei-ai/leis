@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.338, DE 15 DE DEZEMBRO DE 2021
 
-### Autoriza a Secretaria da Segurança Pública a representar o Estado na celebração de convênios com Municípios paulistas, visando à transferência de recursos para aquisição de viaturas equipadas, nos termos da Lei nº 16.111, de 14 de janeiro de 2016
+### _Autoriza a Secretaria da Segurança Pública a representar o Estado na celebração de convênios com Municípios paulistas, visando à transferência de recursos para aquisição de viaturas equipadas, nos termos da Lei nº 16.111, de 14 de janeiro de 2016_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento na [Lei nº 16.111, de 14 de janeiro de 2016](https://www.al.sp.gov.br/norma/176986),<br>
 Decreta:<br>

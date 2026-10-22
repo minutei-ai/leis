@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.981, DE 31 DE AGOSTO DE 2021
 
-### Dá nova denominação às Superintendências Regionais que especifica, estabelece a subordinação das CIRETRANs, altera o Regulamento do Departamento Estadual de Trânsito - DETRAN-SP, aprovado pelo Decreto nº 59.055, de 9 de abril de 2013, e dá providências correlatas
+### _Dá nova denominação às Superintendências Regionais que especifica, estabelece a subordinação das CIRETRANs, altera o Regulamento do Departamento Estadual de Trânsito - DETRAN-SP, aprovado pelo Decreto nº 59.055, de 9 de abril de 2013, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

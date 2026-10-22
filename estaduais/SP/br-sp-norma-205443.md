@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.156, DE 05 DE OUTUBRO DE 2022
 
-### Transfere, da Secretaria da Justiça e Cidadania para a Secretaria de Desenvolvimento Econômico, a administração do imóvel que especifica, e autoriza a Fazenda do Estado a permitir seu uso, por prazo indeterminado, ao Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
+### _Transfere, da Secretaria da Justiça e Cidadania para a Secretaria de Desenvolvimento Econômico, a administração do imóvel que especifica, e autoriza a Fazenda do Estado a permitir seu uso, por prazo indeterminado, ao Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

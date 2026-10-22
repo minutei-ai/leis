@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.136, DE 18 DE OUTUBRO DE 2021
 
-### Dispõe sobre a aplicação dos recursos de que trata o artigo 6º da Lei nº 14.944, de 9 de janeiro de 2013
+### _Dispõe sobre a aplicação dos recursos de que trata o artigo 6º da Lei nº 14.944, de 9 de janeiro de 2013_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

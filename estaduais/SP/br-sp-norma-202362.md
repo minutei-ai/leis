@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.529, DE 25 DE FEVEREIRO DE 2022
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 8º, inciso XXIV e § 10, item 2, da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030),<br>
 Decreta:<br>

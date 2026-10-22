@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.130, DE 28 DE SETEMBRO DE 2022
 
-### Altera o Decreto nº 57.947, de 4 de abril de 2012, que dispõe sobre a classificação institucional da Secretaria da Segurança Pública
+### _Altera o Decreto nº 57.947, de 4 de abril de 2012, que dispõe sobre a classificação institucional da Secretaria da Segurança Pública_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

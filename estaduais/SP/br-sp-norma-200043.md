@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.028, DE 20 DE SETEMBRO DE 2021
 
-### Altera a redação do Decreto nº 61.928, de 12 de abril de 2016, que autoriza a celebração de convênios com Municípios do Estado, objetivando a transferência de recursos financeiros destinados ao fornecimento de alimentação escolar aos alunos das escolas da rede pública estadual de ensino
+### _Altera a redação do Decreto nº 61.928, de 12 de abril de 2016, que autoriza a celebração de convênios com Municípios do Estado, objetivando a transferência de recursos financeiros destinados ao fornecimento de alimentação escolar aos alunos das escolas da rede pública estadual de ensino_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 **Decreta:**<br>

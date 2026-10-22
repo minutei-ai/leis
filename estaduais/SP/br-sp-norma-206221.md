@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 519, de 2019, do Deputado Ricardo Madalena - PR)
 
-### Denomina "Leonel Garrocini" o Viaduto VDT 349/270, localizado no km 349+150m da Rodovia Raposo Tavares - SP 270, no município de Ipaussu
+### _Denomina "Leonel Garrocini" o Viaduto VDT 349/270, localizado no km 349+150m da Rodovia Raposo Tavares - SP 270, no município de Ipaussu_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

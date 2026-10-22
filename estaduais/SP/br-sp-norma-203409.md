@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 503, de 2021, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação Restauração, com sede em Assis
+### _Declara de utilidade pública a Associação Restauração, com sede em Assis_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.652, DE 20 DE ABRIL DE 2023
 
-### Revoga o Decreto nº 67.570, de 15 de março de 2023.
+### _Revoga o Decreto nº 67.570, de 15 de março de 2023._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

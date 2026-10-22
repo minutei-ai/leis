@@ -4,7 +4,7 @@
 
 ## (Projeto de Resolução nº 8, de 2023, da Mesa Diretora)
 
-### Altera dispositivos da Resolução nº 576, de 26 de junho de 1970, com modificações posteriores - Regimento Interno da Assembleia Legislativa do Estado de São Paulo.
+### _Altera dispositivos da Resolução nº 576, de 26 de junho de 1970, com modificações posteriores - Regimento Interno da Assembleia Legislativa do Estado de São Paulo._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga a seguinte resolução:<br>
 **Artigo 1º -** Os dispositivos adiante indicados da [Resolução nº 576, de 26 de junho de 1970](https://www.al.sp.gov.br/norma/40681), com modificações posteriores, ficam assim alterados:<br>

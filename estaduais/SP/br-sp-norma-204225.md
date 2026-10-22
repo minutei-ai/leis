@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.920, DE 30 DE JUNHO DE 2022
 
-### Transfere os cargos que especifica e dá providências correlatas
+### _Transfere os cargos que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 54 e 55 da [Lei Complementar nº 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762),
 

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.049, DE 16 DE AGOSTO DE 2022
 
-### Altera o Decreto nº 64.453, de 6 de setembro de 2019, que regulamentou a classificação de contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, prevista na Lei Complementar nº 1.320, de 6 de abril de 2018, que institui o Programa de Estímulo à Conformidade Tributária - "Nos Conformes"
+### _Altera o Decreto nº 64.453, de 6 de setembro de 2019, que regulamentou a classificação de contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, prevista na Lei Complementar nº 1.320, de 6 de abril de 2018, que institui o Programa de Estímulo à Conformidade Tributária - "Nos Conformes"_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º e 12, ambos da [Lei Complementar nº 1.320, de 6 de abril de 2018](https://www.al.sp.gov.br/norma/185824),<br>
 Decreta:<br>

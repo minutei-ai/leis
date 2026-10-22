@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.529, DE 03 DE MARÇO DE 2023
 
-### Revoga dispositivos do Decreto nº 65.897, de 30 de julho de 2021.
+### _Revoga dispositivos do Decreto nº 65.897, de 30 de julho de 2021._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a recomendação do Conselho Gestor, instituído pela Resolução SS nº 131, de 19 de agosto de 2021, e reorganizado pelo [Decreto nº 66.837, de 10 de junho de 2022](https://www.al.sp.gov.br/norma/203961) (Anexo),<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei complementar nº 40, de 2019, do Deputado Sargento Neri - AVANTE)
 
-### Insere dispositivos na Lei nº 452, de 2 de outubro de 1974, que institui a Caixa Beneficente da Polícia Militar, estabelece os regimes de pensão e de assistência médica-hospitalar e odontológica e dá providências correlatas.
+### _Insere dispositivos na Lei nº 452, de 2 de outubro de 1974, que institui a Caixa Beneficente da Polícia Militar, estabelece os regimes de pensão e de assistência médica-hospitalar e odontológica e dá providências correlatas._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8º, da Constituição do Estado, a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.063, DE 23 DE AGOSTO DE 2022
 
-### Altera os Estatutos da Fundação Sistema Estadual de Análise de Dados - SEADE, aprovados pelo Decreto nº 13.161, de 19 de janeiro de 1979, e dá providências correlatas
+### _Altera os Estatutos da Fundação Sistema Estadual de Análise de Dados - SEADE, aprovados pelo Decreto nº 13.161, de 19 de janeiro de 1979, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.364, DE 21 DE DEZEMBRO DE 2021
 
-### Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2022 e o percentual de desconto para pagamento integral e parcelado
+### _Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2022 e o percentual de desconto para pagamento integral e parcelado_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 21, 22, 25 e 49-A da [Lei nº 13.296, de 23 de dezembro de 2008](https://www.al.sp.gov.br/norma/147435), alterada pela [Lei nº 17.473, de 16 de dezembro de 2021](https://www.al.sp.gov.br/norma/201408),<br>
 Decreta:<br>

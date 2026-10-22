@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.808, DE 02 DE JUNHO DE 2022
 
-### Disciplina as substituições nos impedimentos legais e temporários dos integrantes do Quadro do Magistério e dá providências correlatas
+### _Disciplina as substituições nos impedimentos legais e temporários dos integrantes do Quadro do Magistério e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

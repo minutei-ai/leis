@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.434, DE 13 DE JANEIRO DE 2022
 
-### Transfere, da Secretaria da Saúde para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Santa Rita do Passa Quatro
+### _Transfere, da Secretaria da Saúde para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Santa Rita do Passa Quatro_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

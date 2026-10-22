@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 877, de 2019, do Deputado Paulo Correa Jr - PATRI)
 
-### Declara de utilidade pública a Associação dos Amigos da Banda Marcial de Cubatão - ASABAMC, com sede naquele Município
+### _Declara de utilidade pública a Associação dos Amigos da Banda Marcial de Cubatão - ASABAMC, com sede naquele Município_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

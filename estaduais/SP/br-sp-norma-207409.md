@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.590, DE 22 DE MARÇO DE 2023
 
-### Altera a redação do Decreto nº 41.165, de 20 de setembro de 1996, que dispõe sobre a realização de despesas com convênios, contratos de serviços e de obras e compras, no âmbito da Administração direta, autarquias, fundações e empresas do Estado.
+### _Altera a redação do Decreto nº 41.165, de 20 de setembro de 1996, que dispõe sobre a realização de despesas com convênios, contratos de serviços e de obras e compras, no âmbito da Administração direta, autarquias, fundações e empresas do Estado._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

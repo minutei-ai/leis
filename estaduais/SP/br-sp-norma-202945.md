@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.628, DE 03 DE ABRIL DE 2022
 
-### Declara Luto Oficial pelo falecimento da escritora Lygia Fagundes Telles
+### _Declara Luto Oficial pelo falecimento da escritora Lygia Fagundes Telles_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a notável trajetória intelectual, artística e pública de LYGIA FAGUNDES TELLES, expoente da literatura brasileira, desde a década de 1950, como romancista, contista e cronista, imortal das Academias Brasileira e Paulista de Letras e galardoada pelo Prêmio Camões, máxima distinção das letras lusófonas; e<br>

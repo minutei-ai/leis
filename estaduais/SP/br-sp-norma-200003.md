@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.023, DE 16 DE SETEMBRO DE 2021
 
-### Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Jaú
+### _Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Jaú_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.157, DE 20 DE OUTUBRO DE 2021
 
-### Concede isenção e redução de base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas saídas internas decorrentes da comercialização de obras de arte expostas na Feira Internacional de Arte de São Paulo (SP Arte) de 2021
+### _Concede isenção e redução de base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas saídas internas decorrentes da comercialização de obras de arte expostas na Feira Internacional de Arte de São Paulo (SP Arte) de 2021_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 140/21, de 3 de setembro de 2021,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.919, DE 10 DE AGOSTO DE 2021
 
-### Dá nova redação a dispositivos do Decreto nº 52.080, de 22 de agosto de 2007, que institui, no âmbito do Estado de São Paulo, o Selo Paulista da Diversidade e dá providências correlatas
+### _Dá nova redação a dispositivos do Decreto nº 52.080, de 22 de agosto de 2007, que institui, no âmbito do Estado de São Paulo, o Selo Paulista da Diversidade e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

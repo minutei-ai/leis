@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.544, DE 02 DE MARÇO DE 2022
 
-### Altera o Decreto nº 64.645, de 6 de dezembro de 2019, que regulamenta o Selo Fiscal de Controle e Procedência e o Selo Fiscal Eletrônico de Controle e Procedência destinados ao controle e fiscalização do envase de água mineral, natural ou potável de mesa e adicionada de sais, conforme autorizado pela Lei nº 16.912, de 28 de dezembro de 2018
+### _Altera o Decreto nº 64.645, de 6 de dezembro de 2019, que regulamenta o Selo Fiscal de Controle e Procedência e o Selo Fiscal Eletrônico de Controle e Procedência destinados ao controle e fiscalização do envase de água mineral, natural ou potável de mesa e adicionada de sais, conforme autorizado pela Lei nº 16.912, de 28 de dezembro de 2018_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 4º e 8º da [Lei nº 16.912, de 28 de dezembro de 2018](https://www.al.sp.gov.br/norma/188992), sem prejuízo das atribuições da Secretaria da Saúde, Vigilância Sanitária Estadual e Secretaria de Infraestrutura de Meio Ambiente previstas no artigo 7º da referida lei,<br>
 Decreta:<br>

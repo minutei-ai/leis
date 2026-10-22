@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.944, DE 06 DE JULHO DE 2022
 
-### Autoriza a permissão de uso de imóveis localizados no Parque Estadual Ilha Anchieta, e dá providências correlatas
+### _Autoriza a permissão de uso de imóveis localizados no Parque Estadual Ilha Anchieta, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

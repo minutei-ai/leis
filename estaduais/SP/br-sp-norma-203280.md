@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.698, DE 02 DE MAIO DE 2022
 
-### Institui a Comissão Intersecretarial da Bonificação por Resultados - BR da Secretaria da Segurança Pública, prevista no artigo 6º da Lei Complementar nº 1.245, de 27 de junho de 2014
+### _Institui a Comissão Intersecretarial da Bonificação por Resultados - BR da Secretaria da Segurança Pública, prevista no artigo 6º da Lei Complementar nº 1.245, de 27 de junho de 2014_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

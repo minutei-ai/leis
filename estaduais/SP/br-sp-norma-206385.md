@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.376, DE 19 DE DEZEMBRO DE 2022
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais nos dias que especifica e dá providências correlatas.
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais nos dias que especifica e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

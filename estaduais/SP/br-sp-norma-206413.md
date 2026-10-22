@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.384, DE 20 DE DEZEMBRO DE 2022
 
-### Altera a denominação do Centro de Detenção Provisória "Dr. Enio Mendes Junior" de Capela do Alto para Penitenciária "Dr. Enio Mendes Junior" de Capela do Alto, dispõe sobre sua organização e dá providências correlatas.
+### _Altera a denominação do Centro de Detenção Provisória "Dr. Enio Mendes Junior" de Capela do Alto para Penitenciária "Dr. Enio Mendes Junior" de Capela do Alto, dispõe sobre sua organização e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

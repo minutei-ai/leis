@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 742, de 2021, do Deputado Alex de Madureira - PSD)
 
-### Declara de utilidade pública a Associação Protetora de Animais São Francisco de Assis - APASFA, com sede em Mococa
+### _Declara de utilidade pública a Associação Protetora de Animais São Francisco de Assis - APASFA, com sede em Mococa_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

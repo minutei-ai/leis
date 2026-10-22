@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.337, DE 12 DE DEZEMBRO DE 2022
 
-### Dispõe sobre os créditos revertidos relativos ao Programa Bolsa do Povo e altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta a Lei nº 17.372, de 26 de maio de 2021.
+### _Dispõe sobre os créditos revertidos relativos ao Programa Bolsa do Povo e altera o Decreto nº 65.812, de 23 de junho de 2021, que regulamenta a Lei nº 17.372, de 26 de maio de 2021._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

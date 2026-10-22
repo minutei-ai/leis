@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.630, DE 04 DE ABRIL DE 2022
 
-### Altera a redação dos dispositivos que especifica do Decreto nº 65.846, de 2 de julho de 2021, que reformula o Programa "Ação Educacional Estado/Município/Educação Infantil", instituído pelo Decreto nº 57.367, de 26 de setembro de 2011
+### _Altera a redação dos dispositivos que especifica do Decreto nº 65.846, de 2 de julho de 2021, que reformula o Programa "Ação Educacional Estado/Município/Educação Infantil", instituído pelo Decreto nº 57.367, de 26 de setembro de 2011_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

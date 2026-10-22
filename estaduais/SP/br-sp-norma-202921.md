@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.624, DE 01 DE ABRIL DE 2022
 
-### Atualiza o valor global de que trata o § 1º do artigo 1º do Decreto nº 66.351, de 17 de dezembro de 2021, na forma que especifica
+### _Atualiza o valor global de que trata o § 1º do artigo 1º do Decreto nº 66.351, de 17 de dezembro de 2021, na forma que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais
 

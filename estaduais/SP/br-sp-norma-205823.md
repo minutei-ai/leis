@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.243, DE 04 DE NOVEMBRO DE 2022
 
-### Cria a Comissão Liquidante que especifica e dá providências correlatas.
+### _Cria a Comissão Liquidante que especifica e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a deliberação do Conselho Curador da Fundação Parque Zoológico de São Paulo, que acolheu a proposta de extinção da entidade, cuja ata registrada junto ao Ministério Público do Estado de São Paulo, foi aprovada pelo [Decreto nº 66.893, de 28 de junho de 2022](https://www.al.sp.gov.br/norma/204181);<br>

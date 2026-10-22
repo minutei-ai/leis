@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.679, DE 02 DE MAIO DE 2023
 
-### Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto na [Lei nº 17.631, de 17 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206981), e no [Decreto nº 67.469, de 1º de fevereiro de 2023](https://www.al.sp.gov.br/norma/206825),<br>
 Decreta:<br>

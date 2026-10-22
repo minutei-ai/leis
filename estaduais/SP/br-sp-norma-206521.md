@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.410, DE 28 DE DEZEMBRO DE 2022
 
-### Regulamenta a aplicação dos recursos de que trata o inciso IV do artigo 5º da Emenda Constitucional 123, de 14 de julho de 2022.
+### _Regulamenta a aplicação dos recursos de que trata o inciso IV do artigo 5º da Emenda Constitucional 123, de 14 de julho de 2022._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando o estado de emergência, no ano de 2022, decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes, reconhecido no artigo 120 do Ato das Disposições Constitucionais Transitórias, incluído via Emenda Constitucional 123, de 14 de julho de 2022;<br>

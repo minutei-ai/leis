@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.199, DE 25 DE OUTUBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas complementares necessárias à implantação de dispositivo do tipo diamante no km 214+330m da Rodovia SP-255, no Município de Pratânia, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas complementares necessárias à implantação de dispositivo do tipo diamante no km 214+330m da Rodovia SP-255, no Município de Pratânia, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

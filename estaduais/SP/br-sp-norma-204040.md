@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.857, DE 20 DE JUNHO DE 2022
 
-### Institui a Medalha do Cinquentenário do 3º Batalhão de Caçadores e dá providências correlatas
+### _Institui a Medalha do Cinquentenário do 3º Batalhão de Caçadores e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

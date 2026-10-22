@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.439, DE 18 DE JANEIRO DE 2022
 
-### Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2021
+### _Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2021_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no Convênio ICMS 227/17, de 15 de dezembro de 2017,<br>
 Decreta:<br>

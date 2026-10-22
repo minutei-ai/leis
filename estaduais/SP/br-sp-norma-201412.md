@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 716, de 2018, do Deputado Hélio Nishimoto - PSDB)
 
-### Institui o "Dia Estadual das Artes Marciais e Esportes de Combate"
+### _Institui o "Dia Estadual das Artes Marciais e Esportes de Combate"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

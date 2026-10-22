@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.569, DE 16 DE MARÇO DE 2022
 
-### Transfere, da Secretaria da Justiça e Cidadania para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Presidente Prudente
+### _Transfere, da Secretaria da Justiça e Cidadania para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Presidente Prudente_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

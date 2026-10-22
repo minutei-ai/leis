@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 478, de 2021, do Deputado Carlos Giannazi - PSOL)
 
-### Institui o "Dia do Servidor Público dos Quadros de Apoio Escolar (QAE) e de Serviços Escolares (QSE)"
+### _Institui o "Dia do Servidor Público dos Quadros de Apoio Escolar (QAE) e de Serviços Escolares (QSE)"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

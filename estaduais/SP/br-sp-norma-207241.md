@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.556, DE 09 DE MARÇO DE 2023
 
-### Institui Grupo de Trabalho Intersecretarial com o objetivo de apresentar proposta de unificação da avaliação biopsicossocial para as políticas públicas relacionadas às pessoas com deficiência, no âmbito da Administração estadual.
+### _Institui Grupo de Trabalho Intersecretarial com o objetivo de apresentar proposta de unificação da avaliação biopsicossocial para as políticas públicas relacionadas às pessoas com deficiência, no âmbito da Administração estadual._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

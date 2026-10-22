@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.503, DE 19 DE FEVEREIRO DE 2023
 
-### Dispõe sobre a celebração de convênios de que trata o Decreto nº 57.905, de 23 de março de 2012.
+### _Dispõe sobre a celebração de convênios de que trata o Decreto nº 57.905, de 23 de março de 2012._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando o disposto na Lei federal nº 12.608, de 10 de abril de 2012, e no [Decreto nº 64.592, de 14 de novembro de 2019](https://www.al.sp.gov.br/norma/192244), que reorganiza a Política e o Sistema Estadual de Proteção e Defesa Civil - SIEPDEC;<br>

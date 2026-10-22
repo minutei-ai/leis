@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.322, DE 01 DE DEZEMBRO DE 2022
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º e 8º, XXIV e § 10, da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030),<br>
 Decreta:<br>

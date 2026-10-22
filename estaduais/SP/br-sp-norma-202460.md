@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.551, DE 07 DE MARÇO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Ecovias dos Imigrantes S/A., a área necessária à execução de melhorias no trecho urbano da Rodovia SP-160, no Município de São Vicente, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Ecovias dos Imigrantes S/A., a área necessária à execução de melhorias no trecho urbano da Rodovia SP-160, no Município de São Vicente, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 41.371, de 28 de novembro de 1996](https://www.al.sp.gov.br/norma/9784), alterado pelo [Decreto nº 42.321, de 7 de outubro de 1997](https://www.al.sp.gov.br/norma/5599),<br>
 Decreta:<br>

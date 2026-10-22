@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.379, DE 19 DE DEZEMBRO DE 2022
 
-### Altera a denominação do Centro de Detenção Provisória "ASP Sandro Alves da Silva" de Serra Azul para Penitenciária "ASP Sandro Alves da Silva" de Serra Azul, dispõe sobre sua organização e dá providências correlatas.
+### _Altera a denominação do Centro de Detenção Provisória "ASP Sandro Alves da Silva" de Serra Azul para Penitenciária "ASP Sandro Alves da Silva" de Serra Azul, dispõe sobre sua organização e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

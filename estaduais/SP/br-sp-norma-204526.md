@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 691, de 2020, do Deputado Rogério Nogueira - DEM)
 
-### Declara de utilidade pública a Associação Camerata Filarmônica de Indaiatuba - ACAFI, com sede naquele Município
+### _Declara de utilidade pública a Associação Camerata Filarmônica de Indaiatuba - ACAFI, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

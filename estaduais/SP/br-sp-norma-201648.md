@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 560, de 2020, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Luiz Marchesan" a Faculdade de Tecnologia de Matão - FATEC Matão, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
+### _Denomina "Luiz Marchesan" a Faculdade de Tecnologia de Matão - FATEC Matão, unidade de ensino superior tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

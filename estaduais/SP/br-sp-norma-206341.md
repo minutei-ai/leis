@@ -3,7 +3,7 @@
 
 # LEI Nº 17.611, DE 15 DE DEZEMBRO DE 2022
 
-### Autoriza o Poder Executivo a conceder o benefício de gratuidade no transporte coletivo de passageiros às pessoas compreendidas na faixa etária entre 60 (sessenta) e 65 (sessenta e cinco) anos, na forma que especifica
+### _Autoriza o Poder Executivo a conceder o benefício de gratuidade no transporte coletivo de passageiros às pessoas compreendidas na faixa etária entre 60 (sessenta) e 65 (sessenta e cinco) anos, na forma que especifica_
 
 _\- Vide [Decreto nº 67.455, de 20/01/2023](https://www.al.sp.gov.br/norma/206741)._
 

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 616, de 2020, da Deputada Carla Morando – PSDB)
 
-### Institui o "Dia Estadual de Conscientização e Orientação sobre o Câncer de Estômago"
+### _Institui o "Dia Estadual de Conscientização e Orientação sobre o Câncer de Estômago"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

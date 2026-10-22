@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.301, DE 24 DE NOVEMBRO DE 2022
 
-### Disciplina a aplicação, no âmbito da Administração Pública estadual, da Lei federal nº 12.846, de 1º de agosto de 2013, que dispõe sobre a responsabilização administrativa de pessoas jurídicas pela prática de atos contra a Administração Pública, e dá providências correlatas.
+### _Disciplina a aplicação, no âmbito da Administração Pública estadual, da Lei federal nº 12.846, de 1º de agosto de 2013, que dispõe sobre a responsabilização administrativa de pessoas jurídicas pela prática de atos contra a Administração Pública, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista do disposto na Lei federal nº 12.846, de 1º de agosto de 2013,<br>
 Decreta:

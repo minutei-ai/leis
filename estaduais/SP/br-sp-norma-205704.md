@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.202, DE 25 DE OUTUBRO DE 2022
 
-### Revoga o dispositivo que especifica do Decreto n° 54.194, de 2 de abril de 2009, que declara de utilidade pública, para fins de desapropriação, ocupação temporária ou instituição de servidões, os imóveis localizados no Município e Comarca de São Paulo, necessários à Companhia do Metropolitano de São Paulo - METRÔ
+### _Revoga o dispositivo que especifica do Decreto n° 54.194, de 2 de abril de 2009, que declara de utilidade pública, para fins de desapropriação, ocupação temporária ou instituição de servidões, os imóveis localizados no Município e Comarca de São Paulo, necessários à Companhia do Metropolitano de São Paulo - METRÔ_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

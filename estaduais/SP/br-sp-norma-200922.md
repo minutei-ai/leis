@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.220, DE 17 DE NOVEMBRO DE 2021
 
-### Homologa, por 180 (cento e oitenta) dias, decreto do Prefeito do Município de Quatá que declarou Situação de Emergência em áreas do Município
+### _Homologa, por 180 (cento e oitenta) dias, decreto do Prefeito do Município de Quatá que declarou Situação de Emergência em áreas do Município_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,<br>
 Decreta:<br>

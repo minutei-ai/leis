@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.546, DE 04 DE MARÇO DE 2022
 
-### Regulamenta os artigos 154 a 157 da Lei nº 17.431, de 14 de outubro de 2021, que consolida a legislação paulista relativa à proteção e defesa da mulher
+### _Regulamenta os artigos 154 a 157 da Lei nº 17.431, de 14 de outubro de 2021, que consolida a legislação paulista relativa à proteção e defesa da mulher_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

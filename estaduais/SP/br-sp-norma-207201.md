@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.544, DE 08 DE MARÇO DE 2023
 
-### Detalha a forma de execução das atribuições de que tratam os incisos III, IV, VI e VII do artigo 8º do Decreto nº 67.435, de 1º de janeiro de 2023.
+### _Detalha a forma de execução das atribuições de que tratam os incisos III, IV, VI e VII do artigo 8º do Decreto nº 67.435, de 1º de janeiro de 2023._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

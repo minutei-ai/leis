@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.168, DE 11 DE OUTUBRO DE 2022
 
-### Altera o Decreto nº 44.967, de 15 de junho de 2000, que autoriza a Fazenda do Estado a receber, mediante doação, da Prefeitura de Presidente Venceslau, o imóvel que especifica
+### _Altera o Decreto nº 44.967, de 15 de junho de 2000, que autoriza a Fazenda do Estado a receber, mediante doação, da Prefeitura de Presidente Venceslau, o imóvel que especifica_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

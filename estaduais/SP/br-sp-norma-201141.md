@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.286, DE 01 DE DEZEMBRO DE 2021
 
-### Regulamenta a Lei nº 17.373, de 26 de maio de 2021, que dispõe sobre a inspeção e a fiscalização sanitária e industrial de produtos de origem animal do Estado de São Paulo e dá providências correlatas
+### _Regulamenta a Lei nº 17.373, de 26 de maio de 2021, que dispõe sobre a inspeção e a fiscalização sanitária e industrial de produtos de origem animal do Estado de São Paulo e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

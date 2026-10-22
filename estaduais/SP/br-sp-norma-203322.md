@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.702, DE 04 DE MAIO DE 2022
 
-### Regulamenta o artigo 3º e as disposições transitórias da Lei nº 17.348, de 12 de março de 2021, que altera a Lei nº 3.201, de 23 de dezembro de 1981, que dispõe sobre a parcela, pertencente aos Municípios, do produto da arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação
+### _Regulamenta o artigo 3º e as disposições transitórias da Lei nº 17.348, de 12 de março de 2021, que altera a Lei nº 3.201, de 23 de dezembro de 1981, que dispõe sobre a parcela, pertencente aos Municípios, do produto da arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando o disposto nas disposições transitórias da [Lei nº 17.348 de 12 de março de 2021](https://www.al.sp.gov.br/norma/197503),<br>
 Decreta:<br>

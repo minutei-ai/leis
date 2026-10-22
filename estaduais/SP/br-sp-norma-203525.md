@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.741, DE 17 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - Viaoeste S/A, as áreas necessárias à remodelação do dispositivo de retorno, na altura do km 50+660m da Rodovia Presidente Castello Branco, SP-280, no Município de Araçariguama, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - Viaoeste S/A, as áreas necessárias à remodelação do dispositivo de retorno, na altura do km 50+660m da Rodovia Presidente Castello Branco, SP-280, no Município de Araçariguama, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto n° 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320),<br>
 Decreta:<br>

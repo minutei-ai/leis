@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.194, DE 08 DE NOVEMBRO DE 2021
 
-### Cria, na Secretaria da Cultura e Economia Criativa, o Museu da Favela e dá providências correlatas
+### _Cria, na Secretaria da Cultura e Economia Criativa, o Museu da Favela e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

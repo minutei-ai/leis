@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.682, DE 27 DE ABRIL DE 2022
 
-### Dá nova redação ao artigo 1º do Decreto nº 60.012, de 26 de dezembro de 2013, que autorizou a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e pelo prazo de 10 (dez) anos, do Município de Tanabi, o imóvel que especifica
+### _Dá nova redação ao artigo 1º do Decreto nº 60.012, de 26 de dezembro de 2013, que autorizou a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e pelo prazo de 10 (dez) anos, do Município de Tanabi, o imóvel que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.609, DE 28 DE MARÇO DE 2022
 
-### Transfere, da Secretaria da Justiça e Cidadania para a Secretaria de Desenvolvimento Regional, a administração de imóvel que especifica, localizado no Município de São Paulo
+### _Transfere, da Secretaria da Justiça e Cidadania para a Secretaria de Desenvolvimento Regional, a administração de imóvel que especifica, localizado no Município de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.418, DE 30 DE DEZEMBRO DE 2021
 
-### Autoriza a aquisição, mediante compra, pela Fazenda do Estado de São Paulo, de imóvel situado na Comarca da Capital
+### _Autoriza a aquisição, mediante compra, pela Fazenda do Estado de São Paulo, de imóvel situado na Comarca da Capital_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

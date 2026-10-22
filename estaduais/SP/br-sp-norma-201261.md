@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.306, DE 07 DE DEZEMBRO DE 2021
 
-### Dá nova redação a dispositivos que especifica do Decreto nº 62.796, de 23 de agosto de 2017
+### _Dá nova redação a dispositivos que especifica do Decreto nº 62.796, de 23 de agosto de 2017_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

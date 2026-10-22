@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.450, DE 13 DE JANEIRO DE 2023
 
-### Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto nos Decretos nº 67.379, de 19 de dezembro de 2022, nº 67.384, de 20 de dezembro de 2022, nº 67.385, de 20 de dezembro de 2022, e nº 67.386, de 20 de dezembro de 2022,<br>
 Decreta:<br>

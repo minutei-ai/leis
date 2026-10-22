@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.575, DE 17 DE MARÇO DE 2022
 
-### Altera o Decreto nº 65.897, de 30 de julho de 2021
+### _Altera o Decreto nº 65.897, de 30 de julho de 2021_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a recomendação do Comitê Científico de Saúde do Estado de São Paulo (Anexo),<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.256, DE 10 DE NOVEMBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área complementar necessária à interligação da via marginal esquerda da Rodovia Assis Chateaubriand (SP-425) ao dispositivo em desnível (SPD-459/425) localizado na altura do km 459 da referida rodovia, no Município de Presidente Prudente, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área complementar necessária à interligação da via marginal esquerda da Rodovia Assis Chateaubriand (SP-425) ao dispositivo em desnível (SPD-459/425) localizado na altura do km 459 da referida rodovia, no Município de Presidente Prudente, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei federal n° 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

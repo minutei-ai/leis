@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.489, DE 08 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol Auto-Estradas S/A, a faixa de terra necessária à implantação de área de descanso, na altura do km 291+100m, pista sul, da Rodovia Washington Luís, SP-310, no Município de Araraquara, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol Auto-Estradas S/A, a faixa de terra necessária à implantação de área de descanso, na altura do km 291+100m, pista sul, da Rodovia Washington Luís, SP-310, no Município de Araraquara, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2° e 6° do Decreto-Lei n° 3.365, de 21 de junho de 1941, e no [Decreto nº 40.636, de 18 de janeiro de 1996](https://www.al.sp.gov.br/norma/10663), e alterações posteriores,<br>
 Decreta:<br>

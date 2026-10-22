@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 82, de 2021, dos Deputados Ricardo Mellão - NOVO, Sergio Victor - NOVO, Daniel José - NOVO, Caio França - PSB, Arthur do Val - PATRI, Frederico d'Avila - PSL, Janaina Paschoal - PSL, Leticia Aguiar - PSL, Major Mecca - PSL, Castello Branco - PSL, Valeria Bolsonaro - PSL, Tenente Nascimento - PSL, Agente Federal Danilo Balas - PSL, Delegado Bruno Lima - PSL, Coronel Telhada - PP, Conte Lopes - PP, Douglas Garcia - PTB, Sargento Neri - AVANTE, Campos Machado - AVANTE, Delegada Graciela - PL, Gil Diniz - SEM PARTIDO, Marcio Nakashima - PDT, Adriana Borgo - PROS, Edna Macedo - REPUBLICANOS, Leci Brandão - PCdoB, Marina Helou - REDE, Marta Costa - PSD, Carlos Cezar - PSB, Monica da Mandata Ativista - PSOL, Carlos Giannazi - PSOL, Bruno Ganem - PODE, Paulo Fiorilo - PT, Coronel Nishikawa - PSL, Luiz Fernando T. Ferreira - PT, Emidio de Souza - PT, Tenente Coimbra - PSL, Isa Penna - PCdoB, José Américo - PT, Maurici - PT, Teonilio Barba - PT, Professora Bebel - PT, Dr. Jorge do Carmo - PT, Márcia Lia - PT e Enio Tatto - PT)
 
-### Revoga dispositivo da Lei nº 17.293, de 15 de outubro de 2020, que estabelece medidas voltadas ao ajuste fiscal e ao equilíbrio das contas públicas e dá providências correlatas
+### _Revoga dispositivo da Lei nº 17.293, de 15 de outubro de 2020, que estabelece medidas voltadas ao ajuste fiscal e ao equilíbrio das contas públicas e dá providências correlatas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

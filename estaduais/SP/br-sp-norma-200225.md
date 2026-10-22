@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.081, DE 04 DE OUTUBRO DE 2021
 
-### Institui Força-Tarefa com a finalidade de coordenar a implementação de ações destinadas a coibir irregularidades na comercialização de combustível no Estado de São Paulo
+### _Institui Força-Tarefa com a finalidade de coordenar a implementação de ações destinadas a coibir irregularidades na comercialização de combustível no Estado de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso das atribuições legais,<br>
 Decreta:<br>

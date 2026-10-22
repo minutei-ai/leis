@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.297, DE 23 DE NOVEMBRO DE 2022
 
-### Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado.
+### _Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto no [Decreto nº 67.269, de 11 de novembro de 2022](https://www.al.sp.gov.br/norma/205904),<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 718, de 2019, do Deputado Adalberto Freitas - PSL)
 
-### Institui o "Dia do Futebol Varzeano"
+### _Institui o "Dia do Futebol Varzeano"_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

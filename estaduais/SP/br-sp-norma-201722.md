@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 268, de 2021, da Deputada Márcia Lia - PT)
 
-### Institui o "Dia Estadual de Proteção aos Manguezais"
+### _Institui o "Dia Estadual de Proteção aos Manguezais"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

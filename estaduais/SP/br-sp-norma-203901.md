@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.828, DE 08 DE JUNHO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da Universidade Estadual de Campinas - UNICAMP, o imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da Universidade Estadual de Campinas - UNICAMP, o imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

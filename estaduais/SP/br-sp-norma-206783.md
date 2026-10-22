@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.459, DE 27 DE JANEIRO DE 2023
 
-### Altera o Decreto nº 66.426, de 10 de janeiro de 2022, que dispõe sobre o procedimento para a execução orçamentária e financeira das programações decorrentes de emendas impositivas ao projeto de lei orçamentária.
+### _Altera o Decreto nº 66.426, de 10 de janeiro de 2022, que dispõe sobre o procedimento para a execução orçamentária e financeira das programações decorrentes de emendas impositivas ao projeto de lei orçamentária._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

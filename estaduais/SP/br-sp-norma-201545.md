@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.395, DE 28 DE DEZEMBRO DE 2021
 
-### Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º e 8º, inciso XXIV e § 10, da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030),
 

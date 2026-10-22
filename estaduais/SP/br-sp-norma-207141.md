@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.530, DE 03 DE MARÇO DE 2023
 
-### Cria e organiza, no Gabinete do Governador, a Gerência de Apoio do Litoral Norte.
+### _Cria e organiza, no Gabinete do Governador, a Gerência de Apoio do Litoral Norte._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando as fortes chuvas que assolaram regiões do Estado de São Paulo, nos dias 18 e 19 de fevereiro, com acumulados pluviométricos expressivos, provocando graves danos humanos, materiais e ambientais, além de prejuízos econômicos e sociais, na forma do item 1.3.2.1.4 da Classificação e Codificação Brasileira de Desastres (COBRADE);<br>

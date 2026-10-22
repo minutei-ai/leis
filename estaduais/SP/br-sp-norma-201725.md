@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.433, DE 13 DE JANEIRO DE 2022
 
-### Autoriza a Fazenda do Estado a permitir o uso, a título gratuito e pelo prazo de 30 (trinta) anos, em favor da Fundação de Proteção e Defesa do Consumidor - PROCON-SP, do imóvel que especifica
+### _Autoriza a Fazenda do Estado a permitir o uso, a título gratuito e pelo prazo de 30 (trinta) anos, em favor da Fundação de Proteção e Defesa do Consumidor - PROCON-SP, do imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

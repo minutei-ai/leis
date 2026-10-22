@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.234, DE 18 DE NOVEMBRO DE 2021
 
-### Altera o Decreto nº 64.728, de 27 de dezembro de 2019, que regulamenta a Lei nº 13.242, de 8 de dezembro de 2008, que dispõe sobre a instituição de programas destinados ao atendimento do cidadão em situação de vulnerabilidade social
+### _Altera o Decreto nº 64.728, de 27 de dezembro de 2019, que regulamenta a Lei nº 13.242, de 8 de dezembro de 2008, que dispõe sobre a instituição de programas destinados ao atendimento do cidadão em situação de vulnerabilidade social_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

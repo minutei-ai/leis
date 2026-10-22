@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 471, de 2021, do Deputado Barros Munhoz - PSB)
 
-### Denomina "Carmem Ruete de Oliveira" a Rodovia de Interligação SPI 177/342, que liga os Municípios de Mogi Guaçu e Itapira
+### _Denomina "Carmem Ruete de Oliveira" a Rodovia de Interligação SPI 177/342, que liga os Municípios de Mogi Guaçu e Itapira_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

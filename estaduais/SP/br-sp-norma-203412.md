@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.712, DE 10 DE MAIO DE 2022
 
-### Institui a Medalha "Rondas Ostensivas Tobias de Aguiar", da Polícia Militar do Estado de São Paulo, e dá providências correlatas
+### _Institui a Medalha "Rondas Ostensivas Tobias de Aguiar", da Polícia Militar do Estado de São Paulo, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

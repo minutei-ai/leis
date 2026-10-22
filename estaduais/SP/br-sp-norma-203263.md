@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.697, DE 29 DE ABRIL DE 2022
 
-### Transfere, da Secretaria de Desenvolvimento Econômico para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Eldorado
+### _Transfere, da Secretaria de Desenvolvimento Econômico para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Eldorado_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

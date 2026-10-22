@@ -1,0 +1,39 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=191601)
+
+# DECRETO Nº 64.510, DE 01 DE OUTUBRO DE 2019
+
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., as áreas necessárias à execução das obras de implantação do dispositivo (tipo 06 - Rotatória Alongada) no Km 46+200 da Rodovia Bento Antônio de Moraes, SP-101, localizadas no Município e Comarca de Capivari, no trecho que especifica e dá providências correlatas_
+
+JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e do disposto no [Decreto nº 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
+Decreta:<br>
+**Artigo 1°-** Ficam declaradas de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., concessionária de serviço público, por via amigável ou judicial, as áreas descritas e caracterizadas na planta cadastral de código nº DE-SPD046101-046.047-621-D03-001, e no memorial descritivo, constantes do Processo ARTESP nº 35.023/2019, necessárias à execução das obras de implantação do dispositivo (tipo 06 - Rotatória Alongada) no Km 46+200 da Rodovia Bento Antônio de Moraes, SP-101, localizadas no Município e Comarca de Capivari, perfazendo área total de 5.013,53m2 (cinco mil e treze metros quadrados e cinquenta e três decímetros quadrados), dentro dos perímetros a seguir descritos, áreas estas que constam pertencer aos proprietários ora identificados, a saber:
+
+<br>
+I - área 1 - área de terra a ser decretada de utilidade pública conforme planta nº DE-SPD046101-046.047-621-D03-001 necessários à implantação do dispositivo do Km 46+200m da SP-101 Município e Comarca de Capivari, que consta pertencer à Lourdes Bossolan Balan, Benoni Santin Balan e/ou outros, localizado na Rodovia SP-101, do lado direito da Rodovia sentido Monte Mor - Capivari, e que começa no ponto “1” de coordenadas, N=7.452.706,902m, E=244.479,684m, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2, em linha reta com azimute 227°55’26,07” e distância de 61,308m; segmento 2-3, em linha reta com azimute 230°55’40,89” e distância de 122,701m; segmento 3-4, em linha reta com azimute 316°04’44,24” e distância de 29,666m; segmento 4-5, em linha reta com azimute 55°50’27,63” e distância de 24,549m; segmento 5-6, em linha reta com azimute 59°26’26,78” e distância de 68,929m; segmento 6-1 em linha reta com azimute 59°26’27,01” e distância de 94,849m, perfazendo uma área de 3.045,76m2 (três mil e quarenta e cinco metros quadrados e setenta e seis decímetros quadrados);
+
+<br>
+
+II - área 2 - área de terra a ser decretada de utilidade pública conforme planta nº DE-SPD046101-046.047-621-D03-001 necessários à implantação do dispositivo do Km 46+200m da SP-101 Município e Comarca de Capivari, que consta pertencer a João Angelini, Lúcia Guimarães Angelini e/ou outros, localizado na Rodovia SP-101, do lado direito da Rodovia sentido Monte Mor - Capivari, e que começa no ponto “1” de coordenadas, N=7.452.569,080m, E=244.315,033m, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2, em linha reta com azimute 230°59’16,59” e distância de 42,011m; segmento 2-3, em linha reta com azimute 281°04’22,04” e distância de 19,953m; segmento 3-4, em linha reta com azimute 42°32’18,42” e distância de 53,998m; segmento 4-1 em linha reta com azimute 137°32’07,25” e distância de 23,281m; perfazendo uma área de 947,63m2 (novecentos e quarenta e sete metros quadrados e sessenta e três decímetros quadrados);
+
+<br>
+III - área 3 - área de terra a ser decretada de utilidade pública conforme planta nº DE-SPD046101-046.047-621-D03-001 necessários à implantação do dispositivo do Km 46+200m da SP-101 Município e Comarca de Capivari, que consta pertencer a Matheus Panza Capóssoli, José Eduando Andriotti e/ou outros, localizado na Rodovia SP-101, do lado direito da Rodovia sentido Monte Mor - Capivari, e que começa no ponto “1” de coordenadas, N=7.452.542,635m, E=244.282,390m, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2, em linha reta com azimute 230°59’16,51” e distância de 55,199m; segmento 2-3, em linha reta com azimute 301°09’38,74” e distância de 7,048m; segmento 3-4, em linha reta com azimute 40°01’37,45” e distância de 45,619m; segmento 4-1 em linha reta com azimute 101°04’22,04” e distância de 19,953m, perfazendo uma área de 581,22m2 (quinhentos e oitenta e um metros quadrados e vinte e dois decímetros quadrados);
+
+<br>
+IV - área 4 - área de terra a ser decretada de utilidade pública conforme planta nº DE-SPD046101-046.047-621-D03-001 necessários à implantação do dispositivo do Km 46+200m da SP-101 Município e Comarca de Capivari, que consta pertencer a João Angelini, Lúcia Guimarães Angelini e/ou outros, localizado na Rodovia SP-101, do lado direito da Rodovia sentido Monte Mor - Capivari, e que começa no ponto “1” de coordenadas, N=7.452.507,888m, E=244.239,499m, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2, em linha reta com azimute 231°03’10,79” e distância de 34,129m; segmento 2-3, em linha reta com azimute 39°15’21,93” e distância de 32,416m; segmento 3-1 em linha reta com azimute 121°09’38,74” e distância de 7,048m, perfazendo uma área de 113,09m2 (cento e treze metros quadrados e nove decímetros quadrados);
+
+<br>
+V - área 5 - área de terra a ser decretada de utilidade pública conforme planta nº DE-SPD046101-046.047-621-D03-001 necessários à implantação do dispositivo do Km 46+200m da SP-101 Município e Comarca de Capivari, que consta pertencer à Idalina Bocchio Alves Maria e/ou outros, localizado na Rodovia SP-101, do lado esquerdo da Rodovia sentido Monte Mor - Capivari, e que começa no ponto “1” de coordenadas, N=7.452.550,053m, E=244.370,948m, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2, em linha reta com azimute 50°57’09,07” e distância de 81,398m; segmento 2-3, em linha reta com azimute 224°48’46,57” e distância de 38,941m; segmento 3-4, em linha reta com azimute 226°02’44,46” e distância de 21,237m; segmento 4-5, em linha reta com azimute 228°25’53,65” e distância de 21,237m; segmento 5-1 em linha reta com azimute 318°25’54,59” e distância de 6,922m, perfazendo uma área de 325,83m2 (trezentos e vinte e cinco metros quadrados e oitenta e três decímetros quadrados).
+
+<br>
+**Parágrafo único -** A declaração de utilidade pública, para fins de desapropriação, limitar-se-á às coordenadas georreferenciais descritas em cada uma das áreas elencadas no “caput” e seus incisos deste artigo.<br>
+**Artigo 2° -** Ficam excluídos da presente declaração de utilidade pública os imóveis pertencentes a pessoas jurídicas de direito público que estiverem abrangidos pela descrição do artigo 1º deste decreto.<br>
+**Artigo 3º -** Fica a Concessionária Rodovias do Tietê S.A. autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, e pela Lei federal nº 11.977, de 7 de julho de 2009, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.<br>
+**Artigo 4° -** As despesas com a execução do presente decreto correrão por conta de verba própria da Concessionária Rodovias do Tietê S.A..<br>
+**Artigo 5º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 1º de outubro de 2019<br>
+JOÃO DORIA<br>
+Antonio Carlos Rizeque Malufe<br>
+Secretário Executivo, Respondendo pelo Expediente da Casa Civil<br>
+Rodrigo Garcia<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, a 1º de outubro de 2019.

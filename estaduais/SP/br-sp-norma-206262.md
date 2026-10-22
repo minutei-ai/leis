@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 111, de 2022, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Isabel Ribeiro Paiano" a ponte sobre o Ribeirão Jaguaretê, localizada no km 122,550 da Rodovia SP 421, na divisa dos Municípios de Iepê e Nantes
+### _Denomina "Isabel Ribeiro Paiano" a ponte sobre o Ribeirão Jaguaretê, localizada no km 122,550 da Rodovia SP 421, na divisa dos Municípios de Iepê e Nantes_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 44, de 2021, do Deputado Mauro Bragato - PSDB)
 
-### Denomina "Edgar Bordin" o dispositivo de acesso e retorno com viaduto SPD 171/332, localizado no km 171+235m da SP 332 - Rodovia Professor Zeferino Vaz, no município de Conchal
+### _Denomina "Edgar Bordin" o dispositivo de acesso e retorno com viaduto SPD 171/332, localizado no km 171+235m da SP 332 - Rodovia Professor Zeferino Vaz, no município de Conchal_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

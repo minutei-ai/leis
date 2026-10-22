@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.541, DE 02 DE MARÇO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A., as áreas necessárias à implantação de dispositivo de acesso e retorno, na altura do km 264+050m da Rodovia SP-333, no Município de Guarantã, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A., as áreas necessárias à implantação de dispositivo de acesso e retorno, na altura do km 264+050m da Rodovia SP-333, no Município de Guarantã, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 62.249, de 4 de novembro de 2016](https://www.al.sp.gov.br/norma/179800),<br>
 Decreta:<br>

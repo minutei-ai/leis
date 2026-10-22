@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.582, DE 17 DE MARÇO DE 2023
 
-### Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal nº 11.738, de 16 de julho de 2008.
+### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal nº 11.738, de 16 de julho de 2008._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando o disposto no artigo 5° da Lei Federal n° 1.738, de 16 de julho de 2008, que trata da atualização do piso salarial profissional nacional do magistério público da educação básica,<br>
 Decreta:<br>

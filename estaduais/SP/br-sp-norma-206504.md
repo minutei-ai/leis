@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.405, DE 27 DE DEZEMBRO DE 2022
 
-### Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Iperó, de parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Iperó, de parte do imóvel que especifica._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

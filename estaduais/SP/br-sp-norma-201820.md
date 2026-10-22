@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.444, DE 20 DE JANEIRO DE 2022
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

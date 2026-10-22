@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.568, DE 15 DE MARÇO DE 2023
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação -RICMS.
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação -RICMS._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento nos artigos 56 e 57 da Lei n° 6.374, de 1° de março de 1989,<br>
 Decreta:<br>

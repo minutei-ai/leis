@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.377, DE 27 DE DEZEMBRO DE 2021
 
-### Dispõe sobre a concessão de uso para atividades de educação ambiental, recreação, lazer, esporte, cultura e turismo, com os serviços associados dos Parques Doutor Fernando Costa (Água Branca), Villa-Lobos e Candido Portinari, no Município de São Paulo, e dá providências correlatas
+### _Dispõe sobre a concessão de uso para atividades de educação ambiental, recreação, lazer, esporte, cultura e turismo, com os serviços associados dos Parques Doutor Fernando Costa (Água Branca), Villa-Lobos e Candido Portinari, no Município de São Paulo, e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

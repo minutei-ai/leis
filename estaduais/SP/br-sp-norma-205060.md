@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 341, de 2019, do Deputado Barros Munhoz - PSDB)
 
-### Denomina "Professor Orlando Dini" a Escola Estadual Bairro dos Prados/José Tonolli, em Itapira
+### _Denomina "Professor Orlando Dini" a Escola Estadual Bairro dos Prados/José Tonolli, em Itapira_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

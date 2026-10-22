@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.222, DE 17 DE NOVEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, em comodato, por prazo determinado, parte do imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, em comodato, por prazo determinado, parte do imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

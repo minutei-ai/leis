@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.619, DE 30 DE MARÇO DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Diadema, parte do imóvel que específica.
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Diadema, parte do imóvel que específica._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

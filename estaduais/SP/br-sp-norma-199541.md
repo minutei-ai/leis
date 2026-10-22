@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.924, DE 16 DE AGOSTO DE 2021
 
-### Altera e acrescenta dispositivos ao Decreto nº 65.897, de 30 de julho de 2021, e dá providências correlatas
+### _Altera e acrescenta dispositivos ao Decreto nº 65.897, de 30 de julho de 2021, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

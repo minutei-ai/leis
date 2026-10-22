@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.555, DE 10 DE MARÇO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas necessárias à duplicação do trecho entre os km 251+000m e 280+000m da Rodovia Engenheiro Thales de Lorena Peixoto Júnior, SP-318, nos Municípios de São Carlos, Américo Brasiliense e Rincão, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, as áreas necessárias à duplicação do trecho entre os km 251+000m e 280+000m da Rodovia Engenheiro Thales de Lorena Peixoto Júnior, SP-318, nos Municípios de São Carlos, Américo Brasiliense e Rincão, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto n° 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 Decreta:<br>

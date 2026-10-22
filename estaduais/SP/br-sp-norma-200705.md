@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.180, DE 03 DE NOVEMBRO DE 2021
 
-### Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado
+### _Altera a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 6º do [Decreto-Lei nº 233, de 28 de abril de 1970](https://www.al.sp.gov.br/norma/49433), que estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária do Estado, e à vista do disposto na [Lei nº 17.398, de 15 de setembro de 2021](https://www.al.sp.gov.br/norma/199966), e no [Decreto nº 66.085, de 5 de outubro de 2021](https://www.al.sp.gov.br/norma/200247),<br>
 Decreta:<br>

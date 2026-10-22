@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.771, DE 24 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à captação e implantação de adutora de água bruta, caixa de passagem, estação elevatória de água bruta, acesso e extravasor, integrantes do Sistema de Abastecimento de Água, do Município de Charqueada, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à captação e implantação de adutora de água bruta, caixa de passagem, estação elevatória de água bruta, acesso e extravasor, integrantes do Sistema de Abastecimento de Água, do Município de Charqueada, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, e nos termos do disposto nos artigos 2º, 6º e 40° do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

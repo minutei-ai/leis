@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.737, DE 16 DE MAIO DE 2022
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos Ajustes SINIEF 10/16, de 8 de julho de 2016, e 3/20, de 3 de abril de 2020,<br>
 Decreta:<br>

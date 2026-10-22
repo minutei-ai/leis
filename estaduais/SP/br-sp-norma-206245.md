@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.336, DE 08 DE DEZEMBRO DE 2022
 
-### Autoriza a outorga de uso, ao Município de Colina, do imóvel que especifica, e dá providências correlatas.
+### _Autoriza a outorga de uso, ao Município de Colina, do imóvel que especifica, e dá providências correlatas._
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

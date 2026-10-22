@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.549, DE 08 DE MARÇO DE 2023
 
-### Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo, partes dos imóveis situados no Município de São Sebastião, necessárias à implantação de programa habitacional, e dá providências correlatas.
+### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo, partes dos imóveis situados no Município de São Sebastião, necessárias à implantação de programa habitacional, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto no artigo 1° e no inciso V do artigo 2° da Lei federal n° 4.132, de 10 de setembro de 1962,<br>
 Decreta:<br>

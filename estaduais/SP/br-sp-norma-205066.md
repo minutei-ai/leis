@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 522, de 2020, do Deputado Carlos Giannazi - PSOL)
 
-### Institui o "Dia Estadual da Conservação e Restauração do Patrimônio Cultural"
+### _Institui o "Dia Estadual da Conservação e Restauração do Patrimônio Cultural"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

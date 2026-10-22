@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 651, de 2021, do Deputado Rafa Zimbaldi - PL)
 
-### Denomina "Dom Luciano Mendes de Almeida" o dispositivo de acesso com viaduto SPD 143/065, localizado no km 143,000 da Rodovia Dom Pedro I (SP 065), no Município de Campinas
+### _Denomina "Dom Luciano Mendes de Almeida" o dispositivo de acesso com viaduto SPD 143/065, localizado no km 143,000 da Rodovia Dom Pedro I (SP 065), no Município de Campinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.417, DE 30 DE DEZEMBRO DE 2021
 
-### Reorganiza a Secretaria de Agricultura e Abastecimento e dá providências correlatas
+### _Reorganiza a Secretaria de Agricultura e Abastecimento e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 576, de 2022, do Deputado Delegado Olim - PP)
 
-### Declara de utilidade pública o Centro Arujaense de Apoio às Ações Sociais - CEAS, com sede em Arujá
+### _Declara de utilidade pública o Centro Arujaense de Apoio às Ações Sociais - CEAS, com sede em Arujá_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

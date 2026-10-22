@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.192, DE 24 DE OUTUBRO DE 2022
 
-### Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Analândia, que declarou Situação de Emergência em áreas do Município
+### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Analândia, que declarou Situação de Emergência em áreas do Município_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Chefe da Casa Militar e Coordenador Estadual de Proteção e Defesa Civil,<br>
 Decreta:<br>

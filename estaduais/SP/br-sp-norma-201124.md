@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.285, DE 30 DE NOVEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado a permitir o uso, a título precário e por prazo indeterminado, em favor do Município de Jaboticabal, de parte do imóvel que especifica
+### _Autoriza a Fazenda do Estado a permitir o uso, a título precário e por prazo indeterminado, em favor do Município de Jaboticabal, de parte do imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

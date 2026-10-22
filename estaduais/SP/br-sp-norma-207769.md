@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 309, de 2021, da Deputada Carla Morando - PSDB)
 
-### Denomina "Ator Paulo Gustavo" o Túnel TNL 045/150, localizado no km 45,468 sentido norte da SP 150 - Via Anchieta, em Cubatão
+### _Denomina "Ator Paulo Gustavo" o Túnel TNL 045/150, localizado no km 45,468 sentido norte da SP 150 - Via Anchieta, em Cubatão_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

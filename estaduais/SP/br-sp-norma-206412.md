@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.386, DE 20 DE DEZEMBRO DE 2022
 
-### Altera a denominação do Centro de Detenção Provisória de Taiúva para Penitenciária de Taiúva, dispõe sobre sua organização e dá providências correlatas.
+### _Altera a denominação do Centro de Detenção Provisória de Taiúva para Penitenciária de Taiúva, dispõe sobre sua organização e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

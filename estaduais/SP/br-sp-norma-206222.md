@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1026, de 2019, do Deputado Coronel Telhada - PP)
 
-### Denomina "CB PM Nilson Mikio Furuta Junior" o prédio do 34º BPM/I - Batalhão da Polícia Militar, em Bragança Paulista
+### _Denomina "CB PM Nilson Mikio Furuta Junior" o prédio do 34º BPM/I - Batalhão da Polícia Militar, em Bragança Paulista_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

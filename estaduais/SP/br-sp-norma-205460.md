@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.160, DE 06 DE OUTUBRO DE 2022
 
-### Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975
+### _Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 4º da Lei Complementar federal n° 24, de 7 de janeiro de 1975, e no artigo 23 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740),<br>
 Decreta:<br>

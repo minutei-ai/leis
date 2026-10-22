@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.451, DE 28 DE JANEIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, as áreas necessárias à implantação do Contorno de Caraguatatuba e São Sebastião, no Município de Caraguatatuba, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, as áreas necessárias à implantação do Contorno de Caraguatatuba e São Sebastião, no Município de Caraguatatuba, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

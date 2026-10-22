@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.007, DE 01 DE AGOSTO DE 2022
 
-### Altera a denominação do Centro de Detenção Provisória de Itatinga para Penitenciária de Itatinga, dispõe sobre sua organização e dá providências correlatas
+### _Altera a denominação do Centro de Detenção Provisória de Itatinga para Penitenciária de Itatinga, dispõe sobre sua organização e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

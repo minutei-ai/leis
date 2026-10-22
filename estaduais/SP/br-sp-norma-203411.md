@@ -2,7 +2,7 @@
 
 # LEI Nº 17.533, DE 10 DE MAIO DE 2022
 
-### Dispõe sobre a criação de serventia extrajudicial na Comarca de Artur Nogueira
+### _Dispõe sobre a criação de serventia extrajudicial na Comarca de Artur Nogueira_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

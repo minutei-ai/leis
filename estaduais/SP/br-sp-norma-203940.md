@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.836, DE 09 DE JUNHO DE 2022
 
-### Altera o Decreto nº 56.638, de 1º de janeiro de 2011, que organiza a Secretaria de Turismo e Viagens
+### _Altera o Decreto nº 56.638, de 1º de janeiro de 2011, que organiza a Secretaria de Turismo e Viagens_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

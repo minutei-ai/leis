@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.701, DE 04 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária do Sistema Anhanguera - Bandeirantes S/A, a área necessária à implantação de vias marginais no trecho entre os km 103+500m e 110+000m da Rodovia SP-330, no Município de Sumaré, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária do Sistema Anhanguera - Bandeirantes S/A, a área necessária à implantação de vias marginais no trecho entre os km 103+500m e 110+000m da Rodovia SP-330, no Município de Sumaré, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 40.077, de 10 de maio de 1995](https://www.al.sp.gov.br/norma/11475),<br>
 Decreta:<br>

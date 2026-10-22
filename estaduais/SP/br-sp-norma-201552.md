@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.402, DE 28 DE DEZEMBRO DE 2021
 
-### Altera o Decreto nº 65.298, de 18 de novembro de 2020, que dispõe sobre o Estatuto Padrão das Associações de Pais e Mestres - APMs para os fins que especifica
+### _Altera o Decreto nº 65.298, de 18 de novembro de 2020, que dispõe sobre o Estatuto Padrão das Associações de Pais e Mestres - APMs para os fins que especifica_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

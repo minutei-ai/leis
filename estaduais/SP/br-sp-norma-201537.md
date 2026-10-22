@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.387, DE 28 DE DEZEMBRO DE 2021
 
-### Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências
+### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 5º da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030), no artigo 22 da [Lei nº 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), no Convênio ICMS 01/99, de 2 de março de 1999, no Convênio ICMS 140/01, de 19 de dezembro de 2001, no Convênio ICMS 31/06, de 7 de julho de 2006, no Convênio ICMS 73/10, de 3 de maio de 2010, no Convênio ICMS 178/21, de 1º de outubro de 2021, e no Convênio ICMS 189/21, de 20 de outubro de 2021,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.571, DE 15 DE MARÇO DE 2023
 
-### Acrescenta dispositivo ao Decreto nº 67.543, de 8 de março de 2023, que institui Grupo de Trabalho com o objetivo de apresentar propostas de regulamentação das Leis nº 17.621, de 3 de fevereiro de 2023, e nº 17.635, de 17 de fevereiro de 2023.
+### _Acrescenta dispositivo ao Decreto nº 67.543, de 8 de março de 2023, que institui Grupo de Trabalho com o objetivo de apresentar propostas de regulamentação das Leis nº 17.621, de 3 de fevereiro de 2023, e nº 17.635, de 17 de fevereiro de 2023._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.981, DE 19 DE JULHO DE 2022
 
-### Organiza a Secretaria de Ciência, Pesquisa e Desenvolvimento em Saúde e dá providências correlatas
+### _Organiza a Secretaria de Ciência, Pesquisa e Desenvolvimento em Saúde e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.486, DE 10 DE FEVEREIRO DE 2023
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2023 e dá providências correlatas.
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2023 e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

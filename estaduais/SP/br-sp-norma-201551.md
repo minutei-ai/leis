@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.401, DE 28 DE DEZEMBRO DE 2021
 
-### Altera e acrescenta dispositivos ao Decreto nº 48.897, de 27 de agosto de 2004, que dispõe sobre os Arquivos Públicos, os documentos de arquivo e sua gestão, os Planos de Classificação e a Tabela de Temporalidade de Documentos da Administração Pública do Estado de São Paulo, define normas para a avaliação, guarda e eliminação de documentos de arquivo e dá providências correlatas
+### _Altera e acrescenta dispositivos ao Decreto nº 48.897, de 27 de agosto de 2004, que dispõe sobre os Arquivos Públicos, os documentos de arquivo e sua gestão, os Planos de Classificação e a Tabela de Temporalidade de Documentos da Administração Pública do Estado de São Paulo, define normas para a avaliação, guarda e eliminação de documentos de arquivo e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

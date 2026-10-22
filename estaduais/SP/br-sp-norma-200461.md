@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.135, DE 18 DE OUTUBRO DE 2021
 
-### Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento de Bonificação por Resultados - BR
+### _Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento de Bonificação por Resultados - BR_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

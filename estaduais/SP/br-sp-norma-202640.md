@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.584, DE 18 DE MARÇO DE 2022
 
-### Revoga o Decreto nº 64.964, de 6 de maio de 2020
+### _Revoga o Decreto nº 64.964, de 6 de maio de 2020_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.440, DE 18 DE JANEIRO DE 2022
 
-### Dispõe sobre o processo de apuração das infrações administrativas à liberdade religiosa e a aplicação das sanções cabíveis, previstas na Lei nº 17.346, de 12 de março de 2021, que instituiu a Lei Estadual de Liberdade Religiosa no Estado de São Paulo
+### _Dispõe sobre o processo de apuração das infrações administrativas à liberdade religiosa e a aplicação das sanções cabíveis, previstas na Lei nº 17.346, de 12 de março de 2021, que instituiu a Lei Estadual de Liberdade Religiosa no Estado de São Paulo_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista do disposto na [Lei nº 17.346, de 12 de março de 2021](https://www.al.sp.gov.br/norma/197501),<br>
 Decreta:<br>

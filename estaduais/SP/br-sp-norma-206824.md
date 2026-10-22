@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.468, DE 01 DE FEVEREIRO DE 2023
 
-### Altera a composição das Comissões Intersecretariais da Bonificação por Resultados - BR, a que se referem o artigo 2° do Decreto n° 66.698, de 2 de maio de 2022 e o artigo 6° do Decreto n° 66.772, de 24 de maio de 2022, institui nova data de entrega das propostas de pactuação de indicadores e metas para o exercício de 2023 e dá outras providências.
+### _Altera a composição das Comissões Intersecretariais da Bonificação por Resultados - BR, a que se referem o artigo 2° do Decreto n° 66.698, de 2 de maio de 2022 e o artigo 6° do Decreto n° 66.772, de 24 de maio de 2022, institui nova data de entrega das propostas de pactuação de indicadores e metas para o exercício de 2023 e dá outras providências._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.608, DE 27 DE MARÇO DE 2023
 
-### Dispõe sobre a aplicação transitória de regulamentos federais enquanto não houver regulamentação estadual específica sobre a regra de transição entre os regimes jurídicos de contratações públicas, no âmbito da Administração Pública estadual direta e autárquica, para a Lei federal nº 14.133, de 1º de abril de 2021, e dá providências correlatas.
+### _Dispõe sobre a aplicação transitória de regulamentos federais enquanto não houver regulamentação estadual específica sobre a regra de transição entre os regimes jurídicos de contratações públicas, no âmbito da Administração Pública estadual direta e autárquica, para a Lei federal nº 14.133, de 1º de abril de 2021, e dá providências correlatas._
 
 FELÍCIO RAMUTH, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.431, DE 12 DE JANEIRO DE 2022
 
-### Institui comissão intersecretarial para acompanhamento do processo de extinção do Departamento Aeroviário do Estado de São Paulo - DAESP e dá providências correlatas
+### _Institui comissão intersecretarial para acompanhamento do processo de extinção do Departamento Aeroviário do Estado de São Paulo - DAESP e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

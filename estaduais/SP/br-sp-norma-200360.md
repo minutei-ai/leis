@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.116, DE 13 DE OUTUBRO DE 2021
 
-### Extingue o Programa Biblioteca Virtual, altera a denominação da unidade que especifica e dá providências correlatas
+### _Extingue o Programa Biblioteca Virtual, altera a denominação da unidade que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

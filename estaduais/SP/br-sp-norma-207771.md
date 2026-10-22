@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 22, de 2022, do Deputado Thiago Auricchio – PL)
 
-### Denomina "Jornalista Mauro Nóbrega" o dispositivo de acesso e retorno SPD 024/97 localizado no km 24 + 200m da Rodovia Doutor Antônio Pires de Almeida - SP 097, em Porto Feliz
+### _Denomina "Jornalista Mauro Nóbrega" o dispositivo de acesso e retorno SPD 024/97 localizado no km 24 + 200m da Rodovia Doutor Antônio Pires de Almeida - SP 097, em Porto Feliz_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

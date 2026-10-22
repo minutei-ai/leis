@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.641, DE 07 DE ABRIL DE 2022
 
-### Integra ao Sistema Único de Saúde do Estado de São Paulo - SUS/SP, para fins de atribuição da Gratificação pelo Desempenho e Apoio às Atividades Periciais e de Assistência à Saúde - GDAPAS, e da Gratificação Especial de Suporte à Saúde - GESS, a unidade de saúde da Secretaria da Administração Penitenciária que especifica e dá providências correlatas
+### _Integra ao Sistema Único de Saúde do Estado de São Paulo - SUS/SP, para fins de atribuição da Gratificação pelo Desempenho e Apoio às Atividades Periciais e de Assistência à Saúde - GDAPAS, e da Gratificação Especial de Suporte à Saúde - GESS, a unidade de saúde da Secretaria da Administração Penitenciária que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

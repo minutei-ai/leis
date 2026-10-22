@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 682, de 2020, do Deputado Coronel Nishikawa - PSL)
 
-### Denomina "Coronel Celestino Henriques Fernandes" o edifício do Oitavo Grupamento de Bombeiros da Polícia Militar do Estado de São Paulo, em Santo André
+### _Denomina "Coronel Celestino Henriques Fernandes" o edifício do Oitavo Grupamento de Bombeiros da Polícia Militar do Estado de São Paulo, em Santo André_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO LEGISLATIVO Nº 2.515, DE 21 DE DEZEMBRO DE 2021
 
-### Manifesta concordância com as alterações do Decreto nº 45.490, de 30 de novembro de 2000, que aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e Comunicação - RICMS, na forma que especifica.
+### _Manifesta concordância com as alterações do Decreto nº 45.490, de 30 de novembro de 2000, que aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e Comunicação - RICMS, na forma que especifica._
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea "h" do inciso II do artigo 18 do Regimento Interno, promulga o seguinte decreto legislativo:<br>
 **Artigo 1º -** Ficam autorizadas as alterações ao Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072), constantes do anexo deste decreto legislativo, para os fins do artigo 23 da [Lei nº 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740).<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.495, DE 10 DE FEVEREIRO DE 2022
 
-### Disciplina, no âmbito do Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS, o Programa Computador do Professor, regulamentado pelo Decreto nº 65.231, de 7 de outubro de 2020, nos termos da Lei nº 11.498, de 15 de outubro de 2003, alterada pela Lei nº 17.449, de 29 de outubro de 2021
+### _Disciplina, no âmbito do Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS, o Programa Computador do Professor, regulamentado pelo Decreto nº 65.231, de 7 de outubro de 2020, nos termos da Lei nº 11.498, de 15 de outubro de 2003, alterada pela Lei nº 17.449, de 29 de outubro de 2021_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.566, DE 15 DE MARÇO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol AutoEstradas S/A, as áreas necessárias à implantação de dispositivo de entroncamento entre os km 347 e 348 da Rodovia Brigadeiro Faria Lima, SP-326, no Município de Jaboticabal, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol AutoEstradas S/A, as áreas necessárias à implantação de dispositivo de entroncamento entre os km 347 e 348 da Rodovia Brigadeiro Faria Lima, SP-326, no Município de Jaboticabal, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 41.904, de 30 de junho de 1997](https://www.al.sp.gov.br/norma/8880),<br>
 Decreta:<br>

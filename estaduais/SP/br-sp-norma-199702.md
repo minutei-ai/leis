@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.961, DE 26 DE AGOSTO DE 2021
 
-### Altera o Regulamento do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, aprovado pelo Decreto nº 59.824, de 26 de novembro de 2013, nos termos que especifica
+### _Altera o Regulamento do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, aprovado pelo Decreto nº 59.824, de 26 de novembro de 2013, nos termos que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

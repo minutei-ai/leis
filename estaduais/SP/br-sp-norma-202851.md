@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.611, DE 30 DE MARÇO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 444+520m e 450+990m da Rodovia Miguel Jubran, SP-333, no município de Florínea, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 444+520m e 450+990m da Rodovia Miguel Jubran, SP-333, no município de Florínea, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e no [Decreto nº 62.249, de 4 de novembro de 2016](https://www.al.sp.gov.br/norma/179800),
 

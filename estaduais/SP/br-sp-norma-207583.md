@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 665, de 2020, do Deputado Paulo Correa Jr - DEM)
 
-### Dispõe sobre o prazo de validade do laudo médico pericial que atesta o Transtorno do Espectro Autista - TEA
+### _Dispõe sobre o prazo de validade do laudo médico pericial que atesta o Transtorno do Espectro Autista - TEA_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 7º, da Constituição do Estado, a seguinte lei:<br>

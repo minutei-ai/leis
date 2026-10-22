@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.017, DE 04 DE AGOSTO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação da Praça de Pedágio PN15 no km 458+300m da Rodovia SP-284, no Município de Paraguaçu Paulista, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação da Praça de Pedágio PN15 no km 458+300m da Rodovia SP-284, no Município de Paraguaçu Paulista, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 64.334, de 19 de julho de 2019](https://www.al.sp.gov.br/norma/191121),<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 150, de 2022, do Deputado Caio França - PSB)
 
-### Declara de utilidade pública a União da Saúde Sem Fronteiras - Instituto Maria Mercês, com sede em Mauá
+### _Declara de utilidade pública a União da Saúde Sem Fronteiras - Instituto Maria Mercês, com sede em Mauá_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

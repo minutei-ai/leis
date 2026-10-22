@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.751, DE 18 DE MAIO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

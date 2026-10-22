@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.577, DE 17 DE MARÇO DE 2022
 
-### Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, visando à realização e o fortalecimento de ações de prevenção e de combate aos incêndios florestais previstas no Sistema Estadual de Prevenção e Combate a Incêndios Florestais, de que tratam a Lei nº 10.547, de 2 de maio de 2000, e o Decreto nº 56.571, de 22 de dezembro de 2010, e dá providências correlatas
+### _Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, visando à realização e o fortalecimento de ações de prevenção e de combate aos incêndios florestais previstas no Sistema Estadual de Prevenção e Combate a Incêndios Florestais, de que tratam a Lei nº 10.547, de 2 de maio de 2000, e o Decreto nº 56.571, de 22 de dezembro de 2010, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

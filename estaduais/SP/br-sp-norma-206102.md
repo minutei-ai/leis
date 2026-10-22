@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.304, DE 28 DE NOVEMBRO DE 2022
 
-### Dispõe sobre a designação da Equipe de Transição Governamental.
+### _Dispõe sobre a designação da Equipe de Transição Governamental._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, à vista do [Decreto nº 51.145, de 2 de outubro de 2006](https://www.al.sp.gov.br/norma/63066), bem como do Ofício nº 02/2022, de 25 de novembro de 2022, remetido pela equipe do Governador eleito,<br>
 Decreta:<br>

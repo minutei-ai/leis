@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.032, DE 11 DE AGOSTO DE 2022
 
-### Dispõe sobre as medidas contra a prática de trotes telefônicos dirigidos aos Centros de Operações da Polícia Militar (COPOM - telefone 190) e do Corpo de Bombeiros da Polícia Militar (COBOM - telefone 193), nos termos da Lei nº 14.738, de 16 de abril de 2012
+### _Dispõe sobre as medidas contra a prática de trotes telefônicos dirigidos aos Centros de Operações da Polícia Militar (COPOM - telefone 190) e do Corpo de Bombeiros da Polícia Militar (COBOM - telefone 193), nos termos da Lei nº 14.738, de 16 de abril de 2012_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

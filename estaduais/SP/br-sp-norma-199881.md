@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.001, DE 09 DE SETEMBRO DE 2021
 
-### Cria a Faculdade de Tecnologia - FATEC de Barretos, em Barretos, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS e dá providências correlatas
+### _Cria a Faculdade de Tecnologia - FATEC de Barretos, em Barretos, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista a aprovação pelo Conselho Deliberativo do Centro Estadual de Educação Tecnologia Paula Souza - CEETEPS,<br>
 Decreta:<br>

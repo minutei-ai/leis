@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.505, DE 20 DE FEVEREIRO DE 2023
 
-### Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas das chuvas que atingiram os Municípios que especifica.
+### _Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas das chuvas que atingiram os Municípios que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.794, DE 30 DE MAIO DE 2022
 
-### Regulamenta a opção aos Planos de Carreira e Remuneração para os integrantes do Quadro do Magistério da Secretaria da Educação, prevista na Lei Complementar nº 1.374, de 30 de março de 2022, e dá providências correlatas
+### _Regulamenta a opção aos Planos de Carreira e Remuneração para os integrantes do Quadro do Magistério da Secretaria da Educação, prevista na Lei Complementar nº 1.374, de 30 de março de 2022, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

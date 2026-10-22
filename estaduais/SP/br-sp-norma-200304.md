@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 959, de 2019, do Deputado Luiz Fernando T. Ferreira – PT)
 
-### Institui o "Dia Estadual da Pessoa Desaparecida"
+### _Institui o "Dia Estadual da Pessoa Desaparecida"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

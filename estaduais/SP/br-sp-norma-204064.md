@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.859, DE 21 DE JUNHO DE 2022
 
-### Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional Rota dos Bandeirantes - HRRB
+### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional Rota dos Bandeirantes - HRRB_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

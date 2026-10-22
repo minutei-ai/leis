@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.462, DE 31 DE JANEIRO DE 2022
 
-### Atribui competência ao Secretário da Segurança Pública para definir a padronização da pintura externa dos meios de transporte da Polícia Militar do Estado de São Paulo e dá providências correlatas
+### _Atribui competência ao Secretário da Segurança Pública para definir a padronização da pintura externa dos meios de transporte da Polícia Militar do Estado de São Paulo e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

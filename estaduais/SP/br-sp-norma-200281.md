@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.096, DE 07 DE OUTUBRO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Caraguatatuba, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Caraguatatuba, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

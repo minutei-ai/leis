@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.581, DE 16 DE MARÇO DE 2023
 
-### Institui o Conselho Estadual de Promoção da Reindustrialização do Estado de São Paulo.
+### _Institui o Conselho Estadual de Promoção da Reindustrialização do Estado de São Paulo._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

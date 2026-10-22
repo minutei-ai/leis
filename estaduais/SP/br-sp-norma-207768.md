@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 116, de 2021, do Deputado Vinícius Camarinha – PSB)
 
-### Denomina "Patrícia Bernardo" a passarela para pedestres - PAS 452/294, localizada no km 452+204m da Rodovia João Ribeiro de Barros - SP 294, no município de Marília
+### _Denomina "Patrícia Bernardo" a passarela para pedestres - PAS 452/294, localizada no km 452+204m da Rodovia João Ribeiro de Barros - SP 294, no município de Marília_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

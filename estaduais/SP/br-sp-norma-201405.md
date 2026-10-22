@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.349, DE 16 DE DEZEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Pompéia, de parte do imóvel que especifica
+### _Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Pompéia, de parte do imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.731, DE 13 DE MAIO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito e por prazo indeterminado, do Município de Itapevi, o imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito e por prazo indeterminado, do Município de Itapevi, o imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

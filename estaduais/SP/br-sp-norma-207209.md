@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.552, DE 08 DE MARÇO DE 2023
 
-### Reorganiza a Comissão de Política Salarial.
+### _Reorganiza a Comissão de Política Salarial._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

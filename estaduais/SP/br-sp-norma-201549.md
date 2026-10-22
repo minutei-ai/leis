@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.399, DE 28 DE DEZEMBRO DE 2021
 
-### Altera os Decretos nºs 53.051/08, 53.826/08 e 54.904/09, que instituem, respectivamente, o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo, os incentivos no âmbito dos parques tecnológicos integrantes do Sistema Paulista de Parques Tecnológicos e o Programa de Incentivo ao Investimento pelo Fabricante de Produtos da Indústria de Processamento Eletrônico de Dados - Pro-Informática
+### _Altera os Decretos nºs 53.051/08, 53.826/08 e 54.904/09, que instituem, respectivamente, o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo, os incentivos no âmbito dos parques tecnológicos integrantes do Sistema Paulista de Parques Tecnológicos e o Programa de Incentivo ao Investimento pelo Fabricante de Produtos da Indústria de Processamento Eletrônico de Dados - Pro-Informática_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 46 da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030),
 

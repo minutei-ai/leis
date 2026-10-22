@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.054, DE 18 DE AGOSTO DE 2022
 
-### Transfere, da Secretaria de Logística e Transportes para a Secretaria de Infraestrutura e Meio Ambiente, a administração de parte do imóvel que especifica, localizado no Município de Brotas
+### _Transfere, da Secretaria de Logística e Transportes para a Secretaria de Infraestrutura e Meio Ambiente, a administração de parte do imóvel que especifica, localizado no Município de Brotas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

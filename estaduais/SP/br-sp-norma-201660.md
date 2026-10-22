@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.426, DE 10 DE JANEIRO DE 2022
 
-### Dispõe sobre o procedimento para a execução orçamentária e financeira das programações decorrentes de emendas impositivas ao projeto de lei orçamentária
+### _Dispõe sobre o procedimento para a execução orçamentária e financeira das programações decorrentes de emendas impositivas ao projeto de lei orçamentária_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

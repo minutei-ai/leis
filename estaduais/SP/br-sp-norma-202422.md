@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.548, DE 04 DE MARÇO DE 2022
 
-### Institui o Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da Lei nº 17.293, de 15 de outubro de 2020, e estabelece os parâmetros para a primeira edição do referido programa
+### _Institui o Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da Lei nº 17.293, de 15 de outubro de 2020, e estabelece os parâmetros para a primeira edição do referido programa_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

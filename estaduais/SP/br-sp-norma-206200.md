@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.329, DE 07 DE DEZEMBRO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Araçatuba, o imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Araçatuba, o imóvel que especifica._
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

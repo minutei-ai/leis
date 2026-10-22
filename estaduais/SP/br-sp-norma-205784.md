@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.229, DE 01 DE NOVEMBRO DE 2022
 
-### Suspende, no corrente exercício, a aplicação do disposto no artigo 5º do Decreto nº 25.013, de 16 de abril de 1986, aos servidores em exercício na Secretaria da Administração Penitenciária que especifica e dá providências correlatas.
+### _Suspende, no corrente exercício, a aplicação do disposto no artigo 5º do Decreto nº 25.013, de 16 de abril de 1986, aos servidores em exercício na Secretaria da Administração Penitenciária que especifica e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

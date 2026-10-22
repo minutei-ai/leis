@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.499, DE 11 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à instalação de estação pressurizadora, no Município de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à instalação de estação pressurizadora, no Município de São Paulo, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

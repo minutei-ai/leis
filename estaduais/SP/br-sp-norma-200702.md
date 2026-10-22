@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.179, DE 03 DE NOVEMBRO DE 2021
 
-### Altera a redação dos dispositivos que especifica do Decreto nº 65.897, de 30 de julho de 2021, e dá providências correlatas
+### _Altera a redação dos dispositivos que especifica do Decreto nº 65.897, de 30 de julho de 2021, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a recomendação do Comitê Científico de Saúde do Estado de São Paulo (Anexo),<br>
 Decreta:<br>

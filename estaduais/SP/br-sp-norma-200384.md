@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.128, DE 14 DE OUTUBRO DE 2021
 
-### Transfere, da Secretaria de Orçamento e Gestão para a Secretaria de Infraestrutura e Meio Ambiente, a administração do imóvel que especifica, localizado no Município de Cubatão
+### _Transfere, da Secretaria de Orçamento e Gestão para a Secretaria de Infraestrutura e Meio Ambiente, a administração do imóvel que especifica, localizado no Município de Cubatão_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

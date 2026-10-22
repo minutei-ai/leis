@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.000, DE 09 DE SETEMBRO DE 2021
 
-### Altera e acrescenta dispositivos ao Decreto nº 62.867, de 3 de outubro de 2017, que dispõe sobre a centralização das operações de natureza financeira da Administração Direta e Indireta do Estado, regulamenta a atividade de agente financeiro do Tesouro Estadual e dá providências correlatas
+### _Altera e acrescenta dispositivos ao Decreto nº 62.867, de 3 de outubro de 2017, que dispõe sobre a centralização das operações de natureza financeira da Administração Direta e Indireta do Estado, regulamenta a atividade de agente financeiro do Tesouro Estadual e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

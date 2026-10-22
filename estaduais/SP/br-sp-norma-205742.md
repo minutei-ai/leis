@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.211, DE 27 DE OUTUBRO DE 2022
 
-### Altera o Decreto nº 64.132, de 11 de março de 2019, que dispõe sobre a organização da Secretaria de Infraestrutura e Meio Ambiente, e dá providências correlatas.
+### _Altera o Decreto nº 64.132, de 11 de março de 2019, que dispõe sobre a organização da Secretaria de Infraestrutura e Meio Ambiente, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

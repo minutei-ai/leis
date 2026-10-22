@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.921, DE 30 DE JUNHO DE 2022
 
-### Introduz alterações nas disposições do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo Decreto 45.490, de 30 de novembro de 2000
+### _Introduz alterações nas disposições do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo Decreto 45.490, de 30 de novembro de 2000_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e com fundamento no artigo 16 da [Lei Complementar nº 1.320, de 6 de abril de 2018](https://www.al.sp.gov.br/norma/185824),<br>
 Decreta:<br>

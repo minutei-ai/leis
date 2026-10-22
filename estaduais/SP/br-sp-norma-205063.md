@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1022, de 2019, do Deputado Gilmaci Santos - REPUBLICANOS)
 
-### Institui a "Semana da Páscoa do Cordeiro"
+### _Institui a "Semana da Páscoa do Cordeiro"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

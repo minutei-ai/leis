@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.691, DE 03 DE MAIO DE 2023
 
-### Altera a redação dos Decretos nº 66.805 e nº 66.806, de 2 de junho de 2022, que regulamentam a concessão do adicional de local de exercício aos integrantes do Quadro de Apoio Escolar e Quadro do Magistério, de que tratam, respectivamente, as Leis Complementares nº 687, de 7 de outubro de 1992, e nº 669, de 20 de dezembro de 1991, alteradas pela Lei Complementar nº 1.374, de 30 de março de 2022.
+### _Altera a redação dos Decretos nº 66.805 e nº 66.806, de 2 de junho de 2022, que regulamentam a concessão do adicional de local de exercício aos integrantes do Quadro de Apoio Escolar e Quadro do Magistério, de que tratam, respectivamente, as Leis Complementares nº 687, de 7 de outubro de 1992, e nº 669, de 20 de dezembro de 1991, alteradas pela Lei Complementar nº 1.374, de 30 de março de 2022._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

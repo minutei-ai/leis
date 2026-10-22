@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.053, DE 29 DE SETEMBRO DE 2021
 
-### Institui, junto à Secretaria dos Direitos da Pessoa com Deficiência, o programa "Cidade Acessível" e dá providências correlatas
+### _Institui, junto à Secretaria dos Direitos da Pessoa com Deficiência, o programa "Cidade Acessível" e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando o disposto no artigo 9º da Convenção Internacional sobre os Direitos das Pessoas com Deficiência, aprovada pelo Congresso Nacional, por meio do Decreto Legislativo nº 186, de 8 de julho de 2008, conforme o procedimento do § 3º do artigo 5º da Constituição Federal, e promulgada pelo Decreto nº 6.949, de 25 de agosto de 2009;<br>

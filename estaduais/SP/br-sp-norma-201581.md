@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.412, DE 29 DE DEZEMBRO DE 2021
 
-### Cria, na Secretaria da Cultura e Economia Criativa, a São Paulo Escola de Dança "Ismael Ivo" - Centro de Formação em Artes Coreográficas e dá providências correlatas
+### _Cria, na Secretaria da Cultura e Economia Criativa, a São Paulo Escola de Dança "Ismael Ivo" - Centro de Formação em Artes Coreográficas e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

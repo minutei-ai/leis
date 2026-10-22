@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.663, DE 28 DE ABRIL DE 2023
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo indeterminado, do Município de São Bernardo do Campo, parte do imóvel que especifica.
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo indeterminado, do Município de São Bernardo do Campo, parte do imóvel que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

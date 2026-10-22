@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.565, DE 15 DE MARÇO DE 2023
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas complementares necessárias à implantação de melhorias no acesso ao Município de Alumínio, no km 74+200m da Rodovia Raposo Tavares, SP-270, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas complementares necessárias à implantação de melhorias no acesso ao Município de Alumínio, no km 74+200m da Rodovia Raposo Tavares, SP-270, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 41.722, de 17 de abril de 1997](https://www.al.sp.gov.br/norma/9320), alterado pelo [Decreto n° 53.707, de 18 de novembro de 2008](https://www.al.sp.gov.br/norma/142372),<br>
 Decreta:<br>

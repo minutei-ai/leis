@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.241, DE 04 DE NOVEMBRO DE 2022
 
-### Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor da União, dos imóveis que especifica, e dá providências correlatas.
+### _Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor da União, dos imóveis que especifica, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

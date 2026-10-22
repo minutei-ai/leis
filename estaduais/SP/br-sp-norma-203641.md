@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.769, DE 24 DE MAIO DE 2022
 
-### Altera o Decreto nº 53.051, de 3 de junho de 2008, que institui o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo
+### _Altera o Decreto nº 53.051, de 3 de junho de 2008, que institui o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no artigo 46 da [Lei nº 6.374, de 1º de março de 1989](https://www.al.sp.gov.br/norma/25030),<br>
 Decreta:<br>

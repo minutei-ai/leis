@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 98, de 2021, do Deputado Edson Giriboni - PV)
 
-### Autoriza o Poder Executivo a criar, em caráter permanente, o Conselho Estadual para Estudos de Viabilidades e Interesses Municipais para Instalação de Unidades Prisionais no Estado
+### _Autoriza o Poder Executivo a criar, em caráter permanente, o Conselho Estadual para Estudos de Viabilidades e Interesses Municipais para Instalação de Unidades Prisionais no Estado_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

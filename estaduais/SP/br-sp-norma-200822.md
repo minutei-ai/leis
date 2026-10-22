@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.207, DE 10 DE NOVEMBRO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à instalação de estação pressurizadora, no Município e Comarca de São Paulo, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à instalação de estação pressurizadora, no Município e Comarca de São Paulo, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

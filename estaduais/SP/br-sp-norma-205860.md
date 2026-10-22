@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.254, DE 08 DE NOVEMBRO DE 2022
 
-### Altera o Decreto nº 59.101, de 18 de abril de 2013, que dispõe sobre a organização da Secretaria da Justiça e Cidadania.
+### _Altera o Decreto nº 59.101, de 18 de abril de 2013, que dispõe sobre a organização da Secretaria da Justiça e Cidadania._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

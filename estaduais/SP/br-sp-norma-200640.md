@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.177, DE 27 DE OUTUBRO DE 2021
 
-### Regulamenta a Lei nº 17.414, de 23 de setembro de 2021, que institui o Plano de Ações Integradas do Estado de São Paulo - PAINSP
+### _Regulamenta a Lei nº 17.414, de 23 de setembro de 2021, que institui o Plano de Ações Integradas do Estado de São Paulo - PAINSP_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 93, de 2020, dos Deputados Enio Tatto - PT e Carlos Giannazi - PSOL)
 
-### Denomina "Padre Maurilio Maritano" o Hospital Geral de Pedreira, na Capital
+### _Denomina "Padre Maurilio Maritano" o Hospital Geral de Pedreira, na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.002, DE 10 DE SETEMBRO DE 2021
 
-### Dispõe sobre o Zoneamento Ecológico-Econômico no Estado de São Paulo - ZEE-SP, de que tratam a Lei estadual nº 13.798, de 9 de novembro de 2009, que institui a Política Estadual de Mudanças Climáticas, e a Lei estadual nº 9.509, de 20 de março de 1997, que estabelece a Política Estadual do Meio Ambiente e constitui o Sistema Estadual de Administração da Qualidade Ambiental, Proteção, Controle e Desenvolvimento do Meio Ambiente e Uso Adequado dos Recursos Naturais - SEAQUA, e dá providências correlatas
+### _Dispõe sobre o Zoneamento Ecológico-Econômico no Estado de São Paulo - ZEE-SP, de que tratam a Lei estadual nº 13.798, de 9 de novembro de 2009, que institui a Política Estadual de Mudanças Climáticas, e a Lei estadual nº 9.509, de 20 de março de 1997, que estabelece a Política Estadual do Meio Ambiente e constitui o Sistema Estadual de Administração da Qualidade Ambiental, Proteção, Controle e Desenvolvimento do Meio Ambiente e Uso Adequado dos Recursos Naturais - SEAQUA, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

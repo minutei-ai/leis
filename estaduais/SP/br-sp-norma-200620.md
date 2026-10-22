@@ -4,7 +4,7 @@
 
 ## (Projeto de Lei nº 1145, de 2019, do Deputado Gil Diniz - PSL)
 
-### Institui o "Dia do Nascituro"
+### _Institui o "Dia do Nascituro"_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 4º, da Constituição do Estado, a seguinte lei:<br>

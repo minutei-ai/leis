@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.693, DE 03 DE MAIO DE 2023
 
-### Transfere para a Secretaria de Meio Ambiente, Infraestrutura e Logística a administração de áreas localizadas no interior do Parque "Dr. Fernando Costa" (Parque da Água Branca) no Município de São Paulo, e dá providências correlatas.
+### _Transfere para a Secretaria de Meio Ambiente, Infraestrutura e Logística a administração de áreas localizadas no interior do Parque "Dr. Fernando Costa" (Parque da Água Branca) no Município de São Paulo, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

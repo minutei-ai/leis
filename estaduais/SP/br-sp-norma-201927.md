@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.470, DE 01 DE FEVEREIRO DE 2022
 
-### Disciplina as condições para a concessão do direito à isenção do Imposto sobre a Propriedade de Veículos Automotores - IPVA à pessoa portadora de transtorno do espectro do autismo ou com deficiência física, sensorial, intelectual ou mental, enquanto não estiver regulamentada a avaliação biopsicossocial, e dá outras providências
+### _Disciplina as condições para a concessão do direito à isenção do Imposto sobre a Propriedade de Veículos Automotores - IPVA à pessoa portadora de transtorno do espectro do autismo ou com deficiência física, sensorial, intelectual ou mental, enquanto não estiver regulamentada a avaliação biopsicossocial, e dá outras providências_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no § 3º do artigo 13-A da [Lei nº 13.296, de 23 de dezembro de 2008](https://www.al.sp.gov.br/norma/147435), com redação dada pela [Lei nº 17.473, de 16 de dezembro de 2021](https://www.al.sp.gov.br/norma/201408),<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.967, DE 12 DE JULHO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de São Carlos, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de São Carlos, o imóvel que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

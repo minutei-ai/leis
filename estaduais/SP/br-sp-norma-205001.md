@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.079, DE 29 DE AGOSTO DE 2022
 
-### Altera a denominação das unidades prisionais que especifica e dá providências correlatas
+### _Altera a denominação das unidades prisionais que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista das Leis nº 17.545, nº 17.553 e nº 17.556, todas de 20 de julho de 2022,<br>
 Decreta:<br>

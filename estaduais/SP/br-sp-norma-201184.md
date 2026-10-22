@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1043, de 2019, do Deputado Rafa Zimbaldi - PSB)
 
-### Institui o "Dia do Sociólogo"
+### _Institui o "Dia do Sociólogo"_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

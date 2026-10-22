@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 81, de 2022, do Deputado Caio França - PSB)
 
-### Declara de utilidade pública a Escola de Pais do Brasil - Seccional de Praia Grande - SP, com sede naquele Município
+### _Declara de utilidade pública a Escola de Pais do Brasil - Seccional de Praia Grande - SP, com sede naquele Município_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

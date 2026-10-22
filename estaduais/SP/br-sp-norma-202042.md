@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.491, DE 08 DE FEVEREIRO DE 2022
 
-### Reorganiza e altera a denominação do Conselho Estadual de Transportes, da Secretaria de Logística e Transportes, e dá providências correlatas
+### _Reorganiza e altera a denominação do Conselho Estadual de Transportes, da Secretaria de Logística e Transportes, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de atribuições legais,<br>
 Decreta:<br>

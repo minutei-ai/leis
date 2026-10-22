@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.121, DE 26 DE SETEMBRO DE 2022
 
-### Concede crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS a produtores ou distribuidores de etanol hidratado combustível nas condições que especifica
+### _Concede crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS a produtores ou distribuidores de etanol hidratado combustível nas condições que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no inciso V e no § 5º, ambos do artigo 5º da Emenda Constitucional nº 123, de 14 de julho de 2022, e no Convênio ICMS 116/22, de 27 de julho de 2022,<br>
 Decreta:<br>

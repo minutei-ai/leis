@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 679, de 2021, do Deputado Ricardo Madalena - PL)
 
-### Denomina "Michel Antonio Farah" a ponte localizada no km 65,991 do Rodoanel Mário Covas - SP 021, pista externa sobre a Represa Billings, na Capital
+### _Denomina "Michel Antonio Farah" a ponte localizada no km 65,991 do Rodoanel Mário Covas - SP 021, pista externa sobre a Represa Billings, na Capital_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

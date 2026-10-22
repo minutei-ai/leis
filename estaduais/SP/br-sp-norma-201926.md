@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.469, DE 01 DE FEVEREIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 116+800m da Rodovia SP-308, no Município de Elias Fausto, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 116+800m da Rodovia SP-308, no Município de Elias Fausto, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 53.312, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
 Decreta:<br>

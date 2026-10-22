@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.325, DE 02 DE DEZEMBRO DE 2022
 
-### Altera dispositivo do Decreto nº 65.964, de 27 de agosto de 2021.
+### _Altera dispositivo do Decreto nº 65.964, de 27 de agosto de 2021._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a necessidade de maior prazo para a adoção das providências necessárias ao cumprimento do disposto no artigo 36 da [Lei Complementar nº 1.010, de 1º de junho de 2007](https://www.al.sp.gov.br/norma/71946),<br>
 Decreta:<br>

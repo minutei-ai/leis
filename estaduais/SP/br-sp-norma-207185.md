@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 533, de 2022, dos Deputados Adriana Borgo - AGIR e Gil Diniz - PL)
 
-### Dispõe sobre a criação do Museu Estadual de Cultura e das Tradições Nordestinas
+### _Dispõe sobre a criação do Museu Estadual de Cultura e das Tradições Nordestinas_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

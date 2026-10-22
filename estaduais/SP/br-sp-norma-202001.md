@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.486, DE 07 DE FEVEREIRO DE 2022
 
-### Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Franca
+### _Transfere, da Secretaria de Orçamento e Gestão para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Franca_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

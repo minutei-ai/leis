@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.707, DE 06 DE MAIO DE 2022
 
-### Declara de utilidade pública, para fins de instituição de servidão administrativa e de desapropriação pela Gas Brasiliano Distribuidora S/A, áreas específicas de imóveis situados nos Municípios de Ribeirão Preto, Sertãozinho, Jardinópolis, Sales Oliveira e Orlândia, e dá providências correlatas
+### _Declara de utilidade pública, para fins de instituição de servidão administrativa e de desapropriação pela Gas Brasiliano Distribuidora S/A, áreas específicas de imóveis situados nos Municípios de Ribeirão Preto, Sertãozinho, Jardinópolis, Sales Oliveira e Orlândia, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º, 6º e 40 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores,<br>
 Decreta:<br>

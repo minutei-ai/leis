@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1283, de 2019, do Deputado Jorge Caruso - MDB)
 
-### Denomina "Adalberto Geraldo da Silva Monteiro" o dispositivo de acesso e retorno com duplo viaduto - SPD 01 238/340, localizado no km 237+715m da SP 340 - Rodovia Professor Boanerges Nogueira Lima, no município de Casa Branca
+### _Denomina "Adalberto Geraldo da Silva Monteiro" o dispositivo de acesso e retorno com duplo viaduto - SPD 01 238/340, localizado no km 237+715m da SP 340 - Rodovia Professor Boanerges Nogueira Lima, no município de Casa Branca_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

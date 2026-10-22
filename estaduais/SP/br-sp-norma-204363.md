@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.959, DE 08 DE JULHO DE 2022
 
-### Institui a Medalha Subtenente PM Magali Garcia, do Centro de Operações da Polícia Militar (COPOM), e dá providências correlatas
+### _Institui a Medalha Subtenente PM Magali Garcia, do Centro de Operações da Polícia Militar (COPOM), e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho Estadual da Ordem do Ipiranga,<br>
 Decreta:<br>

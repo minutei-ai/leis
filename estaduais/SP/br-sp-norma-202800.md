@@ -5,7 +5,7 @@
 
 # _(Texto atualizado até retificação publicada no Diário Oficial Executivo I de 12/04/2022)_
 
-### Revaloriza os pisos salariais mensais dos trabalhadores que especifica, instituídos pela Lei nº 12.640, de 11 de julho de 2007
+### _Revaloriza os pisos salariais mensais dos trabalhadores que especifica, instituídos pela Lei nº 12.640, de 11 de julho de 2007_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

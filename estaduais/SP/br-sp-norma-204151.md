@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.888, DE 24 DE JUNHO DE 2022
 
-### Autoriza a outorga de uso, ao Município de Bento de Abreu, de parte do imóvel que especifica, e dá providências correlatas
+### _Autoriza a outorga de uso, ao Município de Bento de Abreu, de parte do imóvel que especifica, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

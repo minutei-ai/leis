@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 759, de 2020, do Deputado Ricardo Madalena - PL)
 
-### Declara de utilidade pública a Associação Sul Brasileira de Educação e Assistência Social - ASBEAS, Lar Santo Antônio, com sede em Tupã
+### _Declara de utilidade pública a Associação Sul Brasileira de Educação e Assistência Social - ASBEAS, Lar Santo Antônio, com sede em Tupã_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

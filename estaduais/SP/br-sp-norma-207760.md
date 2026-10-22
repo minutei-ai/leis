@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1126, de 2019, do Deputado José Américo – PT)
 
-### Denomina "Hospital Regional do Litoral Norte - Francine Maia França" o Hospital Regional do Litoral Norte, sediado no município de Caraguatatuba
+### _Denomina "Hospital Regional do Litoral Norte - Francine Maia França" o Hospital Regional do Litoral Norte, sediado no município de Caraguatatuba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

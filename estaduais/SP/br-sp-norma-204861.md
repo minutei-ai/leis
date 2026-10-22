@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.052, DE 17 DE AGOSTO DE 2022
 
-### Institui a Comissão Técnica para elaboração e gestão do Plano Estadual de Educação e Comunicação Social em Saúde Única
+### _Institui a Comissão Técnica para elaboração e gestão do Plano Estadual de Educação e Comunicação Social em Saúde Única_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a instituição do Sistema Unificado de Atenção à Sanidade Agropecuária pela Lei federal nº 8.171, de 17 de janeiro de 1991, com a redação dada pela Lei federal n° 9.712, de 20 de fevereiro de 1998;<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 483, de 2021, do Deputado Rafael Silva - PSB)
 
-### Denomina "Dr. Rubem Dário Sormani" a Rodovia SP-273, que atravessa os municípios de Agudos e Paulistânia
+### _Denomina "Dr. Rubem Dário Sormani" a Rodovia SP-273, que atravessa os municípios de Agudos e Paulistânia_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

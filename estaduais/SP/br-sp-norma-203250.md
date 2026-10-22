@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.694, DE 28 DE ABRIL DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Viarondon Concessionária de Rodovia S/A, as áreas necessárias à implantação de marginal no trecho entre os km 336+500m e 348+000m da Rodovia Marechal Rondon, SP-300, no Município de Bauru, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Viarondon Concessionária de Rodovia S/A, as áreas necessárias à implantação de marginal no trecho entre os km 336+500m e 348+000m da Rodovia Marechal Rondon, SP-300, no Município de Bauru, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e no [Decreto nº 53.313, de 8 de agosto de 2008](https://www.al.sp.gov.br/norma/122293),<br>
 Decreta:<br>

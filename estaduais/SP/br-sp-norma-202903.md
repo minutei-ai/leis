@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.621, DE 31 DE MARÇO DE 2022
 
-### Autoriza a Fazenda do Estado a permitir o uso, em favor do Município de Adamantina, do imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a permitir o uso, em favor do Município de Adamantina, do imóvel que especifica, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

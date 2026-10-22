@@ -2,7 +2,7 @@
 
 # DECRETO Nº 65.923, DE 13 DE AGOSTO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, da Companhia Metropolitana de Habitação de São Paulo - COHAB, o imóvel que especifica, e dá providências correlatas
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, da Companhia Metropolitana de Habitação de São Paulo - COHAB, o imóvel que especifica, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

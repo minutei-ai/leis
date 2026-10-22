@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.820, DE 06 DE JUNHO DE 2022
 
-### Amplia o território abrangido pelo Parque Estadual Carlos Botelho, criado pelo Decreto n° 19.499, de 10 de setembro de 1982, e dá providências correlatas
+### _Amplia o território abrangido pelo Parque Estadual Carlos Botelho, criado pelo Decreto n° 19.499, de 10 de setembro de 1982, e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da manifestação do Conselho do Patrimônio Imobiliário,<br>
 Considerando que o Parque Estadual Carlos Botelho - PECB, criado pelo [Decreto n° 19.499, de 10 de setembro de 1982](https://www.al.sp.gov.br/norma/59781), representa significativo remanescente de Mata Atlântica ainda conservado, de importância fundamental para o Contínuo Ecológico do Paranapiacaba, formado pelas demais unidades de conservação presentes no Estado de São Paulo;<br>

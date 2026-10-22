@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1, de 2021, do Deputado André do Prado - PL)
 
-### Institui o "Dia do Podólogo"
+### _Institui o "Dia do Podólogo"_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.593, DE 22 DE MARÇO DE 2023
 
-### Autoriza a abertura de licitação para a concessão patrocinada do serviço público de transporte de passageiros, sobre trilhos, do TIC Eixo Norte, incluindo o Serviço Linha 7 Inicial, a Extensão Temporária da Operação do Serviço Linha 7 Inicial, o Serviço Linha 7- Rubi, o Serviço TIM e o Serviço Expresso, aprova o respectivo regulamento, e dá providências correlatas.
+### _Autoriza a abertura de licitação para a concessão patrocinada do serviço público de transporte de passageiros, sobre trilhos, do TIC Eixo Norte, incluindo o Serviço Linha 7 Inicial, a Extensão Temporária da Operação do Serviço Linha 7 Inicial, o Serviço Linha 7- Rubi, o Serviço TIM e o Serviço Expresso, aprova o respectivo regulamento, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando os objetivos do Programa Estadual de Desestatização, visando ao reordenamento da atuação do Estado, propiciando continuidade de investimentos nessas áreas;<br>

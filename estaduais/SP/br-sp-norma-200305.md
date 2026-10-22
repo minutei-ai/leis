@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1108, de 2019, do Deputado Itamar Borges - MDB)
 
-### Denomina "Gino Pereira dos Reis" a passarela PAS - 012/270, localizada no km 12,000 da SP 270 - Rodovia Raposo Tavares, no município de São Paulo
+### _Denomina "Gino Pereira dos Reis" a passarela PAS - 012/270, localizada no km 12,000 da SP 270 - Rodovia Raposo Tavares, no município de São Paulo_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

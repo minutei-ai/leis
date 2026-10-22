@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 291, de 2021, do Deputado Mauro Bragato - PSDB)
 
-### Declara de utilidade pública a Associação Comunitária Desportiva Cultural e Musical XI de Julho, com sede em Álvares Machado
+### _Declara de utilidade pública a Associação Comunitária Desportiva Cultural e Musical XI de Julho, com sede em Álvares Machado_
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

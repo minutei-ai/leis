@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.589, DE 22 DE MARÇO DE 2022
 
-### Reorganiza o Programa Patrulha Agrícola, instituído pelo Decreto nº 37.618, de 6 de outubro de 1993, e disciplinado pelo Decreto nº 63.039, de 11 de dezembro de 2017, e dá providências correlatas
+### _Reorganiza o Programa Patrulha Agrícola, instituído pelo Decreto nº 37.618, de 6 de outubro de 1993, e disciplinado pelo Decreto nº 63.039, de 11 de dezembro de 2017, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

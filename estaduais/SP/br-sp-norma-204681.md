@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.014, DE 03 DE AGOSTO DE 2022
 
-### Altera o Decreto nº 58.238, de 20 de julho de 2012, que instituiu, junto à Secretaria da Justiça e da Defesa da Cidadania, o Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte - PPCAAM/SP e dá providências correlatas
+### _Altera o Decreto nº 58.238, de 20 de julho de 2012, que instituiu, junto à Secretaria da Justiça e da Defesa da Cidadania, o Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte - PPCAAM/SP e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

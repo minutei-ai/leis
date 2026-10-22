@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.175, DE 13 DE OUTUBRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de Sistema de Atendimento ao Usuário (SAU-19), no km 566+030m da Rodovia SP-294, no Município de Parapuã, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de Sistema de Atendimento ao Usuário (SAU-19), no km 566+030m da Rodovia SP-294, no Município de Parapuã, e dá providências correlatas_
 
 CARLÃO PIGNATARI, Presidente da Assembleia Legislativa, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no Decreto nº 64.334, de 19 de julho de 2020,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.019, DE 15 DE SETEMBRO DE 2021
 
-### Dispõe sobre o Sistema de Comunicação do Governo do Estado de São Paulo - SICOM e dá providências correlatas
+### _Dispõe sobre o Sistema de Comunicação do Governo do Estado de São Paulo - SICOM e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 **Decreta:**<br>

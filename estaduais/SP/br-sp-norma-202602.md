@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.566, DE 16 DE MARÇO DE 2022
 
-### Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com obras de arte comercializadas na Feira Internacional de Arte de São Paulo - SP Arte de 2022 e dá outras providências
+### _Isenta do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS as operações com obras de arte comercializadas na Feira Internacional de Arte de São Paulo - SP Arte de 2022 e dá outras providências_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos Convênios ICMS 1/13, de 6 de fevereiro de 2013, e 178/21, de 1º de outubro de 2021,<br>
 Decreta:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 949, de 2019, dos Deputados Roberto Morais - PPS e Mauro Bragato - PSDB)
 
-### Dispõe sobre a criação do Programa de diagnóstico e apoio aos alunos com dislexia e transtorno do déficit de atenção com hiperatividade (TDAH) na rede estadual de ensino e adota outras providências
+### _Dispõe sobre a criação do Programa de diagnóstico e apoio aos alunos com dislexia e transtorno do déficit de atenção com hiperatividade (TDAH) na rede estadual de ensino e adota outras providências_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

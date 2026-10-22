@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.569, DE 15 DE MARÇO DE 2023
 
-### Dispõe sobre a forma de tratamento e de endereçamento de comunicações com os agentes públicos da Administração direta e indireta do Estado e dá providências correlatas.
+### _Dispõe sobre a forma de tratamento e de endereçamento de comunicações com os agentes públicos da Administração direta e indireta do Estado e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

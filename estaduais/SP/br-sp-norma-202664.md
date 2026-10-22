@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.586, DE 21 DE MARÇO DE 2022
 
-### Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, tendo por objeto o fortalecimento da gestão de resíduos sólidos, no âmbito da Política Estadual de Resíduos Sólidos, instituída pela Lei nº 12.300, de 16 de março de 2006, regulamentada pelo Decreto nº 54.645, de 5 de agosto de 2009, e dá providências correlatas
+### _Autoriza a Secretaria de Infraestrutura e Meio Ambiente a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, tendo por objeto o fortalecimento da gestão de resíduos sólidos, no âmbito da Política Estadual de Resíduos Sólidos, instituída pela Lei nº 12.300, de 16 de março de 2006, regulamentada pelo Decreto nº 54.645, de 5 de agosto de 2009, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

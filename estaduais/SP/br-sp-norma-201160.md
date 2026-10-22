@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.288, DE 02 DE DEZEMBRO DE 2021
 
-### Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando ao levantamento do Balanço Geral do Estado do exercício de 2021, e dá providências correlatas
+### _Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando ao levantamento do Balanço Geral do Estado do exercício de 2021, e dá providências correlatas_
 
 RODRIGO GARCIA, Vice-Governador, em Exercício no Cargo de Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando as normas gerais contidas na Lei federal nº 4.320, de 17 de março de 1964, e as diretrizes fixadas na Lei Complementar federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal);<br>

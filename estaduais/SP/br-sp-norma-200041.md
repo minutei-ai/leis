@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.026, DE 20 DE SETEMBRO DE 2021
 
-### Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, a área necessária à duplicação do trecho entre os km 114+041,41m e 114+262,34m da Rodovia SP-255, pista norte, no Município de Boa Esperança do Sul, Comarca de Ribeirão Bonito, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela VIAPAULISTA S/A, a área necessária à duplicação do trecho entre os km 114+041,41m e 114+262,34m da Rodovia SP-255, pista norte, no Município de Boa Esperança do Sul, Comarca de Ribeirão Bonito, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no [Decreto nº 62.333, de 21 de dezembro de 2016](https://www.al.sp.gov.br/norma/180342),<br>
 **Decreta:**<br>

@@ -5,7 +5,7 @@
 
 # _(Última atualização: Republicação no Diário Oficial Legislativo de 09 de março de 2023)_
 
-### Regulamenta os procedimentos para publicação, divulgação e veiculação do Diário Oficial Eletrônico da Assembleia Legislativa do Estado de São Paulo, o DOE-ALESP, instituído pela Resolução ALESP nº 936, de 6 de março de 2023.
+### _Regulamenta os procedimentos para publicação, divulgação e veiculação do Diário Oficial Eletrônico da Assembleia Legislativa do Estado de São Paulo, o DOE-ALESP, instituído pela Resolução ALESP nº 936, de 6 de março de 2023._
 
 <br>
 

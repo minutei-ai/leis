@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.094, DE 07 DE SETEMBRO DE 2022
 
-### Declara Luto Oficial pelo falecimento de Emanoel Alves de Araújo
+### _Declara Luto Oficial pelo falecimento de Emanoel Alves de Araújo_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e considerando a notável trajetória intelectual, artística e pública de EMANOEL ALVES DE ARAÚJO, escultor, desenhista, ilustrador, figurinista, gravurista, cenógrafo, pintor e museólogo, curador e diretor do Museu Afro Brasil desde 2004,<br>
 Decreta:<br>

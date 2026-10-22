@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.190, DE 21 DE OUTUBRO DE 2022
 
-### Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas
+### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no dia que especifica e dá providências correlatas_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

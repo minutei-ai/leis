@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.471, DE 01 DE FEVEREIRO DE 2022
 
-### Dispõe sobre o expediente nas repartições públicas estaduais pertencentes à Administração Direta e Autarquias, relativo aos dias que especifica e dá providências correlatas
+### _Dispõe sobre o expediente nas repartições públicas estaduais pertencentes à Administração Direta e Autarquias, relativo aos dias que especifica e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

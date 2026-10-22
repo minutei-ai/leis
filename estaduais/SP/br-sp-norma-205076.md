@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 756, de 2021, do Deputado Roque Barbiere - AVANTE)
 
-### Denomina "Cicero Caetano Ferreira" o Dispositivo de Acesso SPD 017/419, localizado no km 16,640 da Rodovia Raul Forchero Casasco - SP 419, em Alto Alegre
+### _Denomina "Cicero Caetano Ferreira" o Dispositivo de Acesso SPD 017/419, localizado no km 16,640 da Rodovia Raul Forchero Casasco - SP 419, em Alto Alegre_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

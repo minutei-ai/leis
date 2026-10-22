@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.524, DE 23 DE FEVEREIRO DE 2022
 
-### Autoriza a abertura de licitação para a concessão da prestação dos serviços públicos lotéricos no Estado de São Paulo e dá providências correlatas
+### _Autoriza a abertura de licitação para a concessão da prestação dos serviços públicos lotéricos no Estado de São Paulo e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais, com fundamento no artigo 175 da Constituição da República, na Lei federal nº 8.987, de 13 de fevereiro de 1995, e no artigo 15 da [Lei nº 17.386, de 14 de julho de 2021](https://www.al.sp.gov.br/norma/199080),<br>
 Considerando a aprovação, no âmbito do Conselho Diretor do Programa Estadual de Desestatização - CDPED, criado pela [Lei nº 9.361, de 5 de julho de 1996](https://www.al.sp.gov.br/norma/10243), da modelagem apresentada pela Subsecretaria de Parcerias para a concessão dos serviços públicos lotéricos, por ocasião da 30ª Reunião Conjunta Ordinária, correspondente à 266ª Reunião Ordinária do CDPED e à 113ª Reunião Ordinária do Conselho Gestor do Programa Estadual de Parcerias Público-Privadas - CGPPP, cuja ata foi publicada no Diário Oficial de 19 de fevereiro de 2022,<br>

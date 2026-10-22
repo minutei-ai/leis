@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.460, DE 29 DE JANEIRO DE 2023
 
-### Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação de coletor tronco de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., no Bairro Jardim Monte Alegre, no Município de São Paulo, e dá providências correlatas.
+### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação de coletor tronco de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., no Bairro Jardim Monte Alegre, no Município de São Paulo, e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º, 6º e 40 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941,<br>
 Decreta:<br>

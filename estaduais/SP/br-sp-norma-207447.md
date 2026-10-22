@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 286, de 2022, da Deputada Valeria Bolsonaro - PL)
 
-### Declara de utilidade pública o Lar Fraterno de Cubatão, com sede naquele Município
+### _Declara de utilidade pública o Lar Fraterno de Cubatão, com sede naquele Município_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 495, de 2019, da Deputada Leticia Aguiar - PSL)
 
-### Declara o Município de São José dos Campos Capital Estadual da Indústria Aeroespacial - Capital do Avião
+### _Declara o Município de São José dos Campos Capital Estadual da Indústria Aeroespacial - Capital do Avião_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

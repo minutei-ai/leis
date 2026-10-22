@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.516, DE 27 DE FEVEREIRO DE 2023
 
-### Altera o Decreto n° 64.771, de 3 de fevereiro de 2020, que dispõe sobre a tributação do ICMS nas operações com os equipamentos que especifica.
+### _Altera o Decreto n° 64.771, de 3 de fevereiro de 2020, que dispõe sobre a tributação do ICMS nas operações com os equipamentos que especifica._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto no § 8° do artigo 3° da Lei Complementar n° 160, de 7 de agosto de 2017, na cláusula décima terceira do Convênio ICMS 190/17, de 15 de dezembro de 2017, e na Lei n° 10.550, de 30 de junho de 2016, editada pelo Estado do Espírito Santo,<br>
 Decreta:<br>

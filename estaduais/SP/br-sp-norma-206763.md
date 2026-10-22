@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.457, DE 24 DE JANEIRO DE 2023
 
-### Atribui, ao Vice-Governador do Estado, a missão especial de coordenar, no âmbito do Poder Executivo, as ações voltadas ao atendimento dos usuários de substâncias psicoativas e da população em situação de rua no Estado de São Paulo.
+### _Atribui, ao Vice-Governador do Estado, a missão especial de coordenar, no âmbito do Poder Executivo, as ações voltadas ao atendimento dos usuários de substâncias psicoativas e da população em situação de rua no Estado de São Paulo._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Considerando a relevância e a urgência de se adotarem medidas visando a dar maior efetividade às políticas públicas e ações de atendimento aos usuários de substâncias psicoativas e à população em situação de rua, inclusive, aqueles que frequentam as cenas abertas de uso de drogas lícitas e ilícitas no Estado de São Paulo;<br>

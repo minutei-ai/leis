@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.619, DE 31 DE MARÇO DE 2022
 
-### Atribui competência aos Secretários Executivos das Secretarias de Estado
+### _Atribui competência aos Secretários Executivos das Secretarias de Estado_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista do disposto no inciso IV do artigo 36-A da [Lei Complementar nº 1.080, de 17 de dezembro de 2008](https://www.al.sp.gov.br/norma/157195), acrescentado pela [Lei Complementar nº 1.361, de 21 de outubro de 2021](https://www.al.sp.gov.br/norma/200540),<br>
 Decreta:<br>

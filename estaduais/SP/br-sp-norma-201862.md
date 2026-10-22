@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.448, DE 26 DE JANEIRO DE 2022
 
-### Declara de utilidade pública, para fins de desapropriação pela Companhia de Gás Natural São Paulo Sul S/A, a área necessária à ampliação da Estação de Redução de Pressão, integrante do sistema de distribuição de gás natural - Ramal ÉDEN, no Município de Sorocaba, e dá providências correlatas
+### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Gás Natural São Paulo Sul S/A, a área necessária à ampliação da Estação de Redução de Pressão, integrante do sistema de distribuição de gás natural - Ramal ÉDEN, no Município de Sorocaba, e dá providências correlatas_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos do disposto nos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e no inciso IX do artigo 15 da [Lei n° 7.835, de 8 de maio de 1992](https://www.al.sp.gov.br/norma/43375),<br>
 Decreta:<br>

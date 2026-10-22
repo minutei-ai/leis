@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.550, DE 08 DE MARÇO DE 2023
 
-### Altera o Decreto nº 51.380, de 19 de dezembro de 2006, que autoriza o Secretário de Esportes a outorgar permissão ou autorização de uso, a título precário, de imóveis administrados pela referida Pasta.
+### _Altera o Decreto nº 51.380, de 19 de dezembro de 2006, que autoriza o Secretário de Esportes a outorgar permissão ou autorização de uso, a título precário, de imóveis administrados pela referida Pasta._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

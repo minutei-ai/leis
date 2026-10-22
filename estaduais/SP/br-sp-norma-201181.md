@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 646, de 2019, do Deputado Tenente Nascimento - PSL)
 
-### Denomina "Capitão PM Marco Antonio Catena De Andrade" o Posto de Bombeiros de Araçatuba, naquele Município
+### _Denomina "Capitão PM Marco Antonio Catena De Andrade" o Posto de Bombeiros de Araçatuba, naquele Município_
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

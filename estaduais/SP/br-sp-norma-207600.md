@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.641, DE 10 DE ABRIL DE 2023
 
-### Dispõe sobre o uso de meio eletrônico para a formalização de processo administrativo no âmbito da Administração Pública estadual, institui o Sistema Eletrônico de Informações do Estado de São Paulo - SEI/SP e dá providências correlatas.
+### _Dispõe sobre o uso de meio eletrônico para a formalização de processo administrativo no âmbito da Administração Pública estadual, institui o Sistema Eletrônico de Informações do Estado de São Paulo - SEI/SP e dá providências correlatas._
 
 TARCÍSIO DE FREITAS, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:

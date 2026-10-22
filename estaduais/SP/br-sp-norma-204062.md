@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 1185, de 2019, da Deputada Marina Helou - REDE)
 
-### Institui a "Semana Estadual do Brincar"
+### _Institui a "Semana Estadual do Brincar"_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

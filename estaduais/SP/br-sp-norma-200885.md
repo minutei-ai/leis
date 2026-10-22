@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.216, DE 12 DE NOVEMBRO DE 2021
 
-### Altera o Decreto nº 57.035, de 2 de junho de 2011, que dispõe sobre a organização do Sistema Estadual de Museus - SISEM-SP
+### _Altera o Decreto nº 57.035, de 2 de junho de 2011, que dispõe sobre a organização do Sistema Estadual de Museus - SISEM-SP_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

@@ -2,7 +2,7 @@
 
 # DECRETO Nº 67.266, DE 11 DE NOVEMBRO DE 2022
 
-### Autoriza a Fazenda do Estado a instituir servidão administrativa e a permitir o uso, em favor da Empresa Litorânea de Transmissão de Energia S.A. - ELTE, das áreas que especifica, e dá providências correlatas.
+### _Autoriza a Fazenda do Estado a instituir servidão administrativa e a permitir o uso, em favor da Empresa Litorânea de Transmissão de Energia S.A. - ELTE, das áreas que especifica, e dá providências correlatas._
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>

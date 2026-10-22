@@ -4,7 +4,7 @@
 
 ## (Projeto de lei nº 44, de 2020, da Deputada Maria Lúcia Amary - PSDB)
 
-### Denomina "José Hernandes Moreno" o prédio da Procuradoria Geral do Estado, em Sorocaba
+### _Denomina "José Hernandes Moreno" o prédio da Procuradoria Geral do Estado, em Sorocaba_
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>

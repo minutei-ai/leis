@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.957, DE 08 DE JULHO DE 2022
 
-### Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito e por prazo indeterminado, do Município de Assis, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito e por prazo indeterminado, do Município de Assis, o imóvel que especifica_
 
 RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais,<br>
 Decreta:<br>

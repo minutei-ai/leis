@@ -2,7 +2,7 @@
 
 # DECRETO Nº 66.218, DE 16 DE NOVEMBRO DE 2021
 
-### Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Capela do Alto, o imóvel que especifica
+### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Capela do Alto, o imóvel que especifica_
 
 JOÃO DORIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista da deliberação do Conselho do Patrimônio Imobiliário,<br>
 Decreta:<br>
