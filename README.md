@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**123.881 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**121.510 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -26,7 +26,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Espírito Santo](estaduais/ES/) | 20 |
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
 | Estadual | [Mato Grosso](estaduais/MT/) | 336 |
-| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 306 |
+| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 551 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 59.898 |
 | Estadual | [Paraíba](estaduais/PB/) | 1 |
 | Estadual | [Paraná](estaduais/PR/) | 11 |
@@ -36,7 +36,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Rondônia](estaduais/RO/) | 3 |
 | Estadual | [Roraima](estaduais/RR/) | 1 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
-| Estadual | [São Paulo](estaduais/SP/) | 6.344 |
+| Estadual | [São Paulo](estaduais/SP/) | 3.728 |
 | Estadual | [Sergipe](estaduais/SE/) | 21 |
 | Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
