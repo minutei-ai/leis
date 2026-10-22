@@ -1,0 +1,19 @@
+###DEC-071514-0-000-11-12-1972@@@
+
+DECRETO Nº 71.514 - DE 11 DE DEZEMBRO DE 1972
+
+Autoriza o funcionamento da Faculdade de Educação Física de Mogi das Cruzes, São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, de acordo com artigo 47, da Lei nº 5.540, de 28 de novembro de 1968, alterada pelo Decreto-lei nº 342, de 9 de setembro de 1969, e tendo em vista o que consta do Processo nº 268.182-72 do Ministério da Educação e Cultura,
+
+DECRETA:
+
+Art. 1º Fica autorizado o funcionamento da Faculdade de Educação Física de Mogi das Cruzes, com os cursos de Licenciatura e de Técnico Desportivo, em 2 (dois) turnos, com o limite de vagas fixado, anualmente, em 200 (duzentas) em cada um dos dois turnos, num total de 400 (quatrocentas) vagas, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.
+
+Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 11 de dezembro de 1972; 151º da Independência e 84º da República.
+
+Emílio G. Médici
+
+Jarbas G. Passarinho

@@ -1,0 +1,29 @@
+###DEC-071679-0-000-08-01-1973@@@
+
+DECRETO Nº 71.679, DE 8 DE JANEIRO DE 1973.
+
+Concede à Empresa de Mineração Ipatinga Limitada o direito de lavrar minério de ferro no município de Ipatinga, Estado de Minas Gerais.
+
+O PRESIDENTE DA REPÚBLICA usando da atribuição, que lhe confere o artigo 81, item III, da Constituição, nos termos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+decreta:
+
+Art. 1º Fica outorgada a Empresa de Mineração Ipatinga Limitada concessão para lavrar minério de ferro em terrenos de propriedade de José Pereira do Carmo e Cia. Siderúrgica Belgo Mineira no lugar denominado Ipanemão, Distrito de Barra Alegre, Município de Ipatinga, Estado de Minas Gerais, numa área de cinqüenta e três hectares cinqüenta e seis ares e sessenta e oito centiares (53.5668ha), delimitada por um polígono irregular, que tem um vértice a vinte e dois metros (22m), no rumo verdadeiro leste (E), do canto sul (S), da casa de José Pereira do Carmo e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: cento e vinte e quatro metros (124m), norte (N): vinte e um metros (21m) oeste (W); duzentos metros (200m), norte (N); Quarenta e oito metros (48m), oeste (W); duzentos metros (200m), norte (N); dezesseis metros (16m), oeste (W); trinta e três metros (33m), norte (N); noventa e sete metros (97m), oeste (W); quarenta e quatro metros (44m), norte (N); setenta e um metros e sessenta centímetros (71,60m), oeste (W); vinte e seis metros (26m), norte (N); sessenta e quatro metros (64m), oeste (W); trinta e três metros (33m), norte (N); setenta e nove metros e oitenta centímetros (79,80m) oeste (W); quarenta e quatro metros (44m), norte (N); cento e vinte e três metros (123m), oeste (W); dezessete metros e cinqüenta centímetros (17,50m), norte (N); sessenta metros (60m), oeste (W); cento e quinze metros (115m), sul (S); trinta metros (30m), este (E), cento e setenta e seis metros e cinqüenta centímetros (176,50m), sul (S); dezesseis metros (16M), este (E); sessenta e quatro metros e cinqüenta centímetros (64,50m), sul (S); trinta e dois metros e sessenta centímetros (32,60m), este (E); oitenta e nove metros e oitenta centímetros (89,80m), sul (S); quarenta e um metros e cinqüenta centímetros (41,50m), este (E); noventa e quatro metros (94m), sul (S); quarenta metros e sessenta centímetro (40,60m), este (E); oitenta e cinco metros (85m), sul (S); trinta e cinco metros (35m), este (E); noventa e um metros e trinta centímetros (91,30m), sul (S); vinte e oito metros (28m), este (E); vinte e nove metros (29m), sul (S); cinqüenta e sete metros e sessenta centímetros (57,60m), este (E); trinta e dois metros (32m), sul (S); setenta e três (73m), este (E); vinte e quatro metros (24m), sul (S); cinqüenta e um metros (51m), este (E); dezenove metros (19m), sul (S); noventa e um metros (91m), este (E); cem metros (100m), sul (S); vinte e seis metros (26m), este (E); cento e dez metros (110m), sul (S); vinte e um metros (21m), oeste (W); cento e dezesseis metros (116m), sul (S); vinte e seis metros (26m), oeste (W); cento e trinta e um metros (131m), sul (S); quinze metros (15m), oeste (W); cento e quarenta e nove metros (149m), sul (S); vinte e um metros e sessenta centímetros (21,60m), este (E); cento e quarenta e dois metros (142m), sul (S); trinta metros (30m) este (E); cento e cinqüenta e quatro metros (154m), sul (S); trinta metros (30m), este (E); setenta metros e cinqüenta centímetros (70,50m), sul (S); oitenta metros (80m) este (E); oitenta metros (80m), norte (N); vinte e quatro metros (24m) este (E); quarenta e três metros (43m), norte (N); oito metros (8m), este (E); trinta e cinco metros (35m), norte (N); vinte e sete metros (27m), oeste (W); cento e um metros (110m), norte (N); trinta e quatro metros (34m), este (E); quarenta e um metros (41m), norte (N); trinta e dois metros e dez centímetros (31,10m), norte (N); vinte e cinco metros (25m), este (E); cento e quarenta e nove metros (149m), norte (N); dezoito metros e cinqüenta centímetros (18,50m), este (E); noventa e oito metros (98m), norte (N); quatorze metros (14m), este (E); cento e um metros (101m), norte (N); dezessete metros (17m), este (E); cento e doze metros (112m), norte (N); trinta metros (30m) oeste (W); duzentos e oitenta metros (280m), norte (N); cento e cinqüenta e cinco metros (155m), oeste (W). Este concessão é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas, e 51, do Código de Mineração, além de outras constantes do mesmo Código, não expressamente mencionadas neste Decreto.
+
+Parágrafo único. Esta concessão fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963, e da Resolução nº 3, de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O concessionário fica obrigado a recolher aos cofres públicos os tributos devidos à União, em cumprimento do disposto no Decreto-lei nº 1.038, de 21 de outubro de 1969.
+
+Art. 3º Se o concessionário não cumprir qualquer das obrigações que lhe incumbem, a concessão para lavrar será declarada caduca ou nula, na forma dos artigos 65 e 66 do Código de Mineração.
+
+Art. 4º As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59, do Código de Mineração.
+
+Art. 5º A concessão de lavra terá por título este Decreto, que será transcrito no Livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energias.
+
+Art. 6º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM-801.530-68).
+
+Brasília, 8 de janeiro de 1973; 152º da Independência e 85º da República.
+
+EMÍLIO G. MÉDICI
+
+Antônio Dias Leite Júnior

@@ -1,0 +1,19 @@
+###DEC-071601-0-000-22-12-1972@@@
+
+DECRETO Nº 71.601 - DE 22 DE DEZEMBRO DE 1972
+
+Concede reconhecimento da Faculdade de Direito de Anápolis, mantida pela Associação Educativa Evangélica.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, de acordo com o artigo 47, da Lei número 5.540, de 28 de novembro de 1968, alterado pelo Decreto-lei nº 842, de 9 de setembro de 1969 e tendo em vista o que consta do Processo número 220.201-72, do Ministério da Educação e Cultura,
+
+DECRETa:
+
+Art. 1º É concedido reconhecimento da Faculdade de Direito de Anápolis, com o curso de Direito, mantida pela Associação Educativa Evangélica, com sede na cidade de Anápolis, Estado de Goiás.
+
+Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 22 de dezembro de 1972; 151º da Independência e 84º da República.
+
+Emílio G. Médici
+
+Jarbas G. Passarinho
