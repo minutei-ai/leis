@@ -1,0 +1,21 @@
+###DEC-081221-0-000-17-01-1978@@@
+
+Decreto nº 81.221, de 17 de janeiro de 1978.
+
+Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Balsas, Estado do Maranhão.
+
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o disposto no artigo 2º, item I, da Lei nº 5.972, de 11 de dezembro de 1973, alterada pela Lei nº 6.282, de 9 de dezembro de 1975,
+
+DECRETA:
+
+Art. 1º - Fica autorizado o registro, em nome da União Federal, do imóvel, constituído por terreno e benfeitorias, mantido em sua posse, nos últimos 20 (vinte) anos, sem qualquer contestação ou reclamação administrativa, feita por terceiros, situado no lugar denominado "Testa Branca", Município de Balsas, Estado do Maranhão, com as seguintes dimensões e confrontações: do marco 0 (zero), localizado na margem esquerda do Rio Maravilha, onde cruza a linha telegráfica de Balsas a Riachão, partiu-se, com o rumo magnético calculado de 84º00'NW, margeando a linha telegráfica que liga Balsas a Riachão e terras de Antônio Fonseca e Eglantine Santos Fonseca, até os 2.820m (dois mil, oitocentos e vinte metros) onde se cravou o marco 1 (um); deu-se uma deflexão de 89º30'D, seguiu o alinhamento, com o rumo magnético calculado de 05º30'NE, limitando com terras de Antônio de Pádua Reis, até os 700m (setecentos metros), encontrando a margem direita do Riacho Genipapo, onde se cravou o marco 2 (dois); deu-se uma deflexão de 76º00'E, seguiu o alinhamento, com o rumo magnético calculado de 70º30'NW, com o mesmo limite, até os 400m (quatrocentos metros), onde se cravou o marco 3 (três); deu-se uma deflexão de 29º00'D, seguiu o alinhamento, com o rumo magnético calculado de 41º30'NW, com o mesmo limite, até os 900m (novecentos metros), onde se cravou o marco 4 (quatro); deu-se uma deflexão de 21º00'D, seguiu o alinhamento, com o rumo magnético calculado de 20º30'NW, com o mesmo limite, até os 480m (quatrocentos e oitenta metros), onde se cravou o marco 5 (cinco); deu-se uma deflexão de 64º30'D, seguiu o alinhamento, com o rumo magnético calculado em 44º00'NE, limitando com terras de Antônio Fonseca e Eglantine Santos Fonseca, até os 960m (novecentos e sessenta metros) onde se cravou o marco 6 (seis); deu-se uma deflexão de 83º00'D, seguiu o alinhamento, com o rumo magnético calculado de 53º00'SE, com o mesmo limite, até os 3.590m (três mil, quinhentos e noventa metros), onde se cravou o marco 7 (sete); deu-se uma deflexão de 44º30'D, seguiu o alinhamento, com o rumo magnético calculado de 08º30'SE, limitando com a nascente do Rio Maravilha, até os 430m (quatrocentos e trinta metros), onde se cravou o marco 8 (oito); deu-se uma deflexão de 48º00'E, seguiu o alinhamento, com o rumo magnético calculado de 56º30'SE, com o mesmo limite, até os 340m (trezentos e quarenta metros), onde se cravou o marco 9 (nove); deu-se a deflexão de 62º30'D, seguiu o alinhamento, com o rumo magnético calculado de 06º00'SW, margeando o Rio Maravilha, até os 170m (cento e setenta metros), onde se encontrou o marco inicial 0 (zero). Nesse marco, deu-se uma deflexão de 90º00'D, leu-se o rumo magnético de 84º00'NW, coincidindo com o rumo magnético calculado, do que se concluiu haver o polígono fechado sem erro angular. Declinação magnética 18º00'NW. LIMITES: ao Norte e ao Sul, com terras de Antônio Fonseca e Eglantine Santos, a Leste, com o Rio Maravilha; a Oeste, com terras de Antônio Pádua Reis e o Riacho Genipapo. Configuração geométrica de um polígono irregular, com a área de 5.212.268,00m² (cinco milhões, duzentos e doze mil e duzentos e sessenta e oito metros quadrados), de acordo com os elementos constantes do processo protocolizado no Ministério da Fazenda, sob o nº 0388-00850, de 1977.
+
+Art. 2º - O imóvel referido no artigo 1º deste Decreto pertence à Circunscrição Judiciária do Cartório de Registro de Imóveis e Hipoteca da Cidade de Balsas, Estado do Maranhão.
+
+Art. 3º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 17 de janeiro de 1978; 157º da Independência e 90º da República.
+
+ADALBERTO P. SANTOS
+
+Mário Henrique Simonsen

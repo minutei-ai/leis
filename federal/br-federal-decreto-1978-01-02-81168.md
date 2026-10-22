@@ -1,0 +1,21 @@
+###DEC-081168-0-000-02-01-1978@@@
+
+Decreto nº 81 168, de 02 de janeiro de 1978.
+
+Concede à IBRATA-Indústria Brasileira de Granitos, Brita e Derivados S/A o direito de lavrar granito no Município de Rio de Janeiro, Estado do Rio de Janeiro.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e nos termos do artigo 43 do Decreto-lei nº 227, de 28 de feveiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+DECRETA:
+
+Art. 1º - Fica outorgada à IBRATA-Indústria Brasileira de Granitos, Brita e Derivados S/A concessão para lavrar granito em terrenos de sua propriedade, no lugar denominado Vargem Pequena, Distrito e Município de Rio de Janeiro, Estado do Rio de Janeiro, numa área de 33,9375ha, delimitada por um polígono irregular, que tem um vértice a 425m, no rumo verdadeiro de 35ºNE, do canto NE da ponte na Estrada dos Bandeirantes sobre o Rio Calembá e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: 175m - S, 100m - E, 125m - S, 75m - E, 150m - S, 175m - E, 50m - N, 50m - E, 25m - N, 75m - E, 50m - N, 75m - E, 50m - N, 50m - E, 75m - N, 75m - E, 50m - N, 75m - E, 25m - N, 125m - E, 25m - N, 100m - E, 150m - N, 25m - W, 150m - N, 225m - W, 50m - S, 75m - W, 50m - S, 250m - W, 100m - S, 400m - W.
+
+Art. 2º - A concessão de que trata este Decreto é outorgada mediante as condições constantes do Código de Mineração e seu Regulamento, aprovado pelo Decreto nº 62.934, de 02 de julho de 1968.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação (DNPM nº 808.641/75).
+
+Brasília, 02 de janeiro de 1978; 157º da Independência e 90º da República.
+
+Ernesto Geisel
+
+Shigeaki Ueki

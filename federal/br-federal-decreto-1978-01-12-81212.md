@@ -1,0 +1,47 @@
+###DEC-081212-0-000-12-01-1978@@@
+
+Decreto nº 81.212, de 12 janeiro de 1978.
+
+Fixa, no Ministério da Aeronáutica, os mínimos de vagas para promoção obrigatória, referentes ao ano-base 1977, em todos os Quadros do Corpo de Oficiais da Ativa.
+
+O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III da Constituição, e tendo em vista o que dispõe o § 4º do artigo 103, da Lei nº 5.774, de 23 de dezembro de 1971,
+
+decreta:
+
+Art. 1º - Ficam estabelecidas, para o ano de 1977, as seguintes proporções a serem observadas no cálculo do número mínimo de vagas para os diversos postos dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica:
+
+Quadro de Oficiais Aviadores, Engenheiros, Intendentes, Médicos, Farmacêuticos e Dentistas:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coronel...............................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8 do efetivo do posto;</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel.................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20 do efetivo do posto</span></p></td></tr></tbody></table>
+
+Quadro de Oficiais de Infantaria de Guarda:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/75 do efetivo do posto.</span></p></td></tr></tbody></table>
+
+Quadro de Oficiais Especialistas em Avião e Suprimento Técnico:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/50 do efetivo do posto.</span></p></td></tr></tbody></table>
+
+Quadro de Oficiais Especialistas em Armamento e Fotografia:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/70 do efetivo do posto.</span></p></td></tr></tbody></table>
+
+Quadro de Oficiais Especialistas em Meteorologia e Controle de Tráfego Aéreo:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/14 do efetivo do posto.</span></p></td></tr></tbody></table>
+
+Quadro de Oficiais Especialistas em Comunicações:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/25 do efetivo do posto.</span></p></td></tr></tbody></table>
+
+Quadro de Oficiais de Administração:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10 do efetivo do posto; e</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Tenente................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20 do efetivo do posto.</span></p></td></tr></tbody></table>
+
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília-DF, em 12 de janeiro de 1978; 157º da Independência e 90º da República.
+
+ERNESTO GEISEL
+
+J. Araripe Macedo

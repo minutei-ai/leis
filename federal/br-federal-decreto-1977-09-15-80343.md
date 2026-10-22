@@ -1,0 +1,21 @@
+###DEC-080343-0-000-15-09-1977@@@
+
+DECRETO Nº 80.343, DE 15 DE SETEMBRO DE 1977.
+
+Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Benedito Leite, Estado do Maranhão.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição e tendo em vista o disposto nos artigos 1º, item II e 2º, item I da Lei nº 5.972, de 11 de dezembro de 1973, alterada pela Lei nº 6.282, de 9 de dezembro de 1975,
+
+decreta:
+
+Art. 1º Fica autorizado o registro, em nome da União Federal, do imóvel, constituído por terreno e benfeitorias, mantido em sua posse, nos últimos 20 (vinte) anos, sem qualquer contestação ou reclamação administrativa, feita por terceiros, situado à margem direita da Estrada que liga o Município de Benedito Leite ao de São Domingos, naquele Município, Estado do Maranhão, a seguir discriminado: do marco inicial zero (0), situado à margem direita da estrada que liga Benedito Leite a São Domingos e próximo a um galpão, seguiu-se o caminhamento, com o rumo magnético inicial lido de 66º45'NE, limitando com a estrada de rodagem até os 150,00m, onde se cravou o marco um (1); do marco um (1) deu-se uma deflexão de 04º45'E e seguiu-se o caminhamento, com o rumo magnético calculado de 62º00'NE, limitando com  a estrada de rodagem, até os 170,00m, onde se cravou o marco dois (2); do marco dois (2) deu-se uma deflexão de 13º00'D e seguiu-se o caminhamento, com o rumo magnético, calculado de 75º00'NE, limitando com a estrada de rodagem, até os 120,00m, onde se cravou o marco três (3); do marco três (3) deu-se uma deflexão de 00º30'D e seguiu-se o caminhamento, com o rumo magnético calculado de 75º30'NE, limitando com a estrada velha e o cemitério até os 140,00m, onde se cravou o marco quatro (4); do marco quatro (4) deu-se uma deflexão de 02º30'E e seguiu-se o caminhamento, com o rumo magnético calculado de 7300'NE, limitando com a Estrada Velha, até os 227,00m, onde se cravou o marco cinco (5); do marco cinco (5) deu-se uma deflexão de 115º30'D e seguiu-se o caminhamento, com o rumo magnético calculado de 08º30'SW, limitando com terras do Patrimônio Municipal, até os 505,00m, onde se cravou o marco seis (6); do marco seis (6) deu-se uma deflexão de 104º30'D e seguiu-se o caminhamento, com o rumo magnético calculado de 67°00'NW, limitando com terras do Patrimônio Municipal, até os 122,00m onde se cravou o marco sete (7); do marco sete (7) deu-se uma deflexão de 73º00'E e seguiu-se o caminhamento, com o rumo magnético calculado de 40º00'SW, limitando-se com terras do Patrimônio Municipal, até os 400,00m, onde se cravou o marco oito (8); à margem do Rio Parnaíba; do marco oito (8) deu-se uma deflexão de 85º30'D e seguiu-se o caminhamento, com o rumo magnético calculado de 54º30NW, limitando com o Rio Parnaíba, até os 100,00m, onde se cravou o marco nove (9); do marco nove (9) deu-se uma deflexão de 23º15'E e seguiu-se o caminhamento, com o rumo magnético calculado de 77º45'NW, limitando com o Rio Parnaíba, até os 100,00m, onde se cravou o marco dez (10); do marco dez (10) deu-se uma deflexão de 57º45'E e seguiu-se o caminhamento, com o rumo magnético calculado de 20º00'NW, limitando com terras do Patrimônio Municipal, até os 430,00m, encontrou-se o marco inicial zero (0), deu-se uma deflexão de 86º45'D, onde se encontrou o rumo de 66º45'NE, coincidindo com o rumo magnético inicial lido, do que se conclui que o polígono fechou sem erro angular. LIMITES: limita-se, ao Norte, com a estrada de rodagem Benedito Leite - São Domingos, um cemitério e a Estrada Velha; ao Sul, com o Rio Parnaíba; a Leste e a Oeste, com terras do Patrimônio Municipal. Configuração geométrica de um polígono irregular, com a área de 32 ha 96 a 51 ca (trinta e dois hectares, noventa e seis ares e cinquenta e um centiares), de acordo com os elementos constantes do processo protocolizado no Ministério da Fazenda, sob o nº 0388-00849, de 1977.
+
+Art. 2º O imóvel referido no artigo 1º pertence à Circunscrição Judiciária de Registro de Imóveis e Hipotecas da Cidade de Benedito Leite, Estado do Maranhão.
+
+Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília. 15 de setembro de 1977; 156º da Independência e 89º da República.
+
+ERNESTO GEISEL
+
+Mário Henrique Simonsen
