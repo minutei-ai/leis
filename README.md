@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**172.420 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**172.430 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,7 +16,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 57.643 |
+| Federal | [Brasil](federal/) | 57.652 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 3 |
 | Estadual | [Amapá](estaduais/AP/) | 7 |
@@ -32,7 +32,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Minas Gerais](estaduais/MG/) | 59.898 |
 | Estadual | [Pará](estaduais/PA/) | 1 |
 | Estadual | [Paraíba](estaduais/PB/) | 1 |
-| Estadual | [Paraná](estaduais/PR/) | 59 |
+| Estadual | [Paraná](estaduais/PR/) | 60 |
 | Estadual | [Pernambuco](estaduais/PE/) | 848 |
 | Estadual | [Piauí](estaduais/PI/) | 1 |
 | Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.661 |
