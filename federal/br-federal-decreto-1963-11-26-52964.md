@@ -1,0 +1,97 @@
+###DEC-052964-0-000-26-11-1963@@@
+
+DECRETO Nº 53.964, DE 26 DE NOVEMBRO DE 1963.
+
+Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a ampliar seu sistema de transmissão.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 5º do Decreto-lei nº 852, de 11 de novembro de 1938,
+
+decreta:
+
+Art. 1º Fica autorizada a Companhia Paranaense de Energia Elétrica a ampliar o seu sistema de transmissão de energia elétrica, mediante a construção de uma linha de transmissão entre Paranaguá e Guaratuba, bem como as subestações abaixadoras de Caiobá e Guaratuba, Estado do Paraná.
+
+§ 1º A linha de transmissão se destina ao suprimento das cidades de Matinhos, Caiobá e Guaratuba.
+
+§ 2º Por ocasião da aprovação dos projetos pelo Ministro das Minas e Energia, serão fixadas as características técnicas das instalações.
+
+Art. 2º A concessionária deverá cumprir as seguintes condições:
+
+I - Submeter a Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério das Minas e Energia, dentro de cento e oitenta (180) dias, contados da data de publicação, dêste Decreto os projetos e orçamentos das obras a realizar;
+
+II - Iniciá-las e concluí-las nos prazos que foram fixados pelo Ministro das Minas e Energia.
+
+Parágrafo único. Os prazos referidos neste artigo poderão ser prorrogados pelo Ministro das Minas e Energia.
+
+Art. 3º Êste Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+Brasília, D.F., 26 de novembro de 1963; 142º da Independência e 75º da República.
+
+João Goulart
+
+Antônio de Oliveira Brito
+
+###DEC-052964-0-000-26-11-1963@@@RET01+++
+
+Decreto nº 52.964, de 26 de novembro de 1963.
+
+Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a ampliar seus sistema de transmissão.
+
+Página 10.603, 4ª Coluna - No Artigo 1º,
+
+ONDE SE LÊ:
+
+de energia elétrica, mediante a construção ...
+
+LEIA\-SE:
+
+de energia elétrica mediante a construção ...
+
+Página 10.604, 1ª Coluna - No item I,
+
+ONDE SE LÊ:
+
+e orçamentos das obras a realizar.
+
+LEIA\-SE:
+
+e orçamento das obras a realizar.
+
+No Art. 3º,
+
+ONDE SE LÊ:
+
+Êste Decreto entra em vigor na data da sua ...
+
+LEIA\-SE:
+
+Êste Decreto entra em vigor na data de sua ...
+
+###DEC-052964-0-000-26-11-1963@@@RET02+++
+
+DECRETO Nº 52.964, DE 26 DE NOVEMBRO DE 1963.
+
+Autoriza a Companhia Paranaense de Energia Elétrica (POPEL) a ampliar seu sistema de transmissão.
+
+Página 10.603, 4ª coluna.
+
+No art. 1º,
+
+ONDE SE LÊ:
+
+... de energia elétrica, mediante a construção...
+
+LEIA\-SE:
+
+... de energia elétrica, mediante a construção...
+
+página 10.604, 1ª coluna:
+
+No item I,
+
+ONDE SE LÊ:
+
+... e orçamento das obras a realizar
+
+LEIA\-SE:
+
+... e orçamento das obras a realizar.

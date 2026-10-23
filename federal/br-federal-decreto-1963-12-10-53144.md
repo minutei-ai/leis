@@ -1,0 +1,17 @@
+###DEC-053144-0-000-10-12-1963@@@
+
+DECRETO Nº 53.144, DE 10 DE DEZEMBRO DE 1963.
+
+Concede à Omnia Minérios Limitada autorização para funcionar como emprêsa de mineração.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+decreta:
+
+Artigo único. É concedida à Omnia Minérios Limitada, sociedade com sede na cidade do Rio de Janeiro e constituída por instrumento particular de 21 de novembro de 1961, autorização para funcionar como emprêsa de mineração, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor ou que venham a vigorar sôbre o objeto da referida autorização.
+
+Brasília, 10 de dezembro de 1963; 142º da Independência e 75º da República.
+
+João Goulart
+
+Antônio de Oliveira Brito
