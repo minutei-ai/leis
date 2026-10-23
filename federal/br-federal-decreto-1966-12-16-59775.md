@@ -1,0 +1,21 @@
+###DEC-059775-0-000-16-12-1966@@@
+
+DECRETO Nº 59.775, DE 16 de DEZEMBRO DE 1966.
+
+Autoriza o cidadão brasileiro Baptista Keutenedjian a pesquisar talco, amianto e minério de níquel no município de Cananéia, Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+decreta:
+
+Art. 1º Fica autorizado o cidadão brasileiro Baptista Keutenedjian a pesquisar talco, amianto e minério de níquel em terrenos de sua propriedade no imóvel denominado Sítio Rio Branco, distrito do município de Cananéia, Estado de São Paulo, numa área de duzentos e cinqüenta e seis hectares noventa e cinco ares e cinqüenta e quatro centiares (256,9554 ha), delimitada por um polígono irregular, que tem um vértice na barra do Rio do Salto no Rio Branco e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: duzentos e vinte e cinco metros (225 m), trinta e um graus e quarenta minutos noroeste (31º 40’ NW) duzentos e dez metros (210 m), sessenta e um graus e cinqüenta minutos sudoeste (61º 50’ SW) duzentos e oitenta metros (280 m),sessenta e cinco graus e quarenta e cinco minutos noroeste (65º 45’ NW); duzentos e doze metros (212 m), oitenta e nove graus trinta minutos noroeste (89º 30’ NW);duzentos e oito metros (208 m), norte (N); trezentos e cinco metros (305 m), vinte e seis graus trinta minutos noroeste (26º 30’ NW); duzentos e setenta e seis metros (276 m), sessenta e nove graus e vinte e oito minutos sudoeste (69º 28’ SW); trezentos e sessenta e cinco metros (365m), setenta e dois graus cinqüenta e cinco minutos noroeste (72º 55’ NW); duzentos e cinco metros (205 m), sessenta e dois graus vinte minutos sudoeste (62º 20’ SW); trezentos e quarenta e quatro metros (344 m), quatro graus trinta e dois minutos nordeste (4º 32’ NE);cento e sessenta e cinco metros (165 m), oitenta e seis graus quarenta minutos sudeste (86º 40’ SE); duzentos e trinta e sete metros (237 m), quarenta e um graus trinta e cinco minutos nordeste (41º 35’ NE); quinhentos e cinqüenta e dois metros (552 m), oitenta e nove graus trinta e oito minutos nordeste (89º 38’ NE); seiscentos e um metros (601 m), trinta e um graus quinze minutos sudeste (31º 15’ SE); quatrocentos e oitenta e sete metros (487 m), oitenta e cinco graus quarenta e dois minutos sudeste (85º 42’ SE); trezentos e quarenta e cinco metros (345 m), sessenta e três graus quarenta minutos nordeste (63º 40’ NE); trezentos e cinqüenta e dois metros (352 m), setenta e sete graus cinqüenta minutos sudeste (77º 50’ SE); oitocentos e cinqüenta e cinco metros (855 m), cinco graus e dez minutos sudoeste (5º 10’ SW); quinhentos e trinta e dois metros (532 m), sessenta graus quarenta e seis minutos nordeste (60º 496’ NE); setecentos e vinte e sete metros (727 m), dezesseis graus vinte e dois minutos sudeste (16º 22’ SE); duzentos e dezessete metros (217 m), sessenta e oito graus trinta e dois minutos sudoeste (68º 32’ SW); setecentos e quinze metros (715 m), quarenta e nove graus cinqüenta minutos sudoeste (49º 50’ SW); um mil e oitenta e cinco metros (1.085 m), cinqüenta e cinco graus quarenta e cinco minutos noroeste (55º 45’ NW); duzentos e sessenta e dois metros (262 m), dezoito graus trinta minutos noroeste (18º 30’ NW); duzentos e quarenta e sete metros (247 m), cinqüenta graus trinta e dois minutos nordeste (50º 32’ NE); quinhentos e setenta e dois metros (572 m), setenta e seis graus cinqüenta minutos nordeste (76º 50’ NE); o vigésimo sétimo lado é o segmento retilíneo que partindo da extremidade de vigésimo sexto lado descrito alcança o vértice de partida.
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963 e da Resolução nº 3, de 30 de abril de 1965 da Comissão Nacional de Energia Nuclear.
+
+Art 2º O titulo da autorização de pesquisa, que será uma via autêntica deste Decreto, pagará a taxa de dois mil quinhentos e setenta cruzeiros (Cr$2.570), e será válido por dois (2) anos a contar da data da transcrição no livro próprio de Registro das Autorizações de Pesquisa.
+
+Brasília, 16 d e dezembro de 1966; 145º da Independência e 78º da República.
+
+H. Castello Branco
+
+Mauro Thibau

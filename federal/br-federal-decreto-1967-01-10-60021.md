@@ -1,0 +1,23 @@
+###DEC-060021-0-000-10-01-1967@@@
+
+DECRETA Nº 60.021, DE 10 DE JANEIRO DE 1967.
+
+Autoriza o cidadão brasileiro Sinezio Borges a pesquisar argila no município de Poços de Caldas, Estado de Minas Gerais.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+Decreta:
+
+Art. 1º Fica autorizado o cidadão brasileiro Sinezio Borges a pesquisar argila em terrenos de sua propriedade no lugar denominado Córrego do Meio distrito e município de Poços de Caldas, Estado de Minas Gerais, numa área de um hectare e dezessete ares (1,17ha), delimitada por um polígono irregular, que tem um vértice a duzentos e cinqüenta e cinco metros e quinze centímetros (255,15 metros), no rumo verdadeiro de sessenta e oito graus sudoeste (68ºSW) do marco do quilômetro nove (km 9) da rodovia Poços de Caldas-Caldas (BR-76) e os lados a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: cento e setenta e oito mêtros (178m), vinte e sete graus e cinqüenta e oito minutos sudeste (27º58’SE); cinqüenta e cinco metros (55m), cinqüenta e seis graus e oito minutos noroeste (56º8’NW) cento e sessenta e sete metros (167 metros), quarenta graus e cinqüenta e oito minutos noroeste (40º58’NW); o quarto (4º) e último lado é o segmento retilíneo que une a extremidade do terceiro (3º) lado descrito ao vértice de partida.
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963, e da Resolução nº 3 de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O título da autorização de pesquisa que será uma via autêntica dêste decreto, pagará a taxa de trezentos cruzeiros (Cr$300) e será válido por dois (2) anos a contar da data da transcrição no livro próprio de Registro das Autorizações de Pesquisa.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 10 de janeiro de 1967; 146º da Independência e 79º da República.
+
+H. Castello Branco
+
+Mauro Thibau
