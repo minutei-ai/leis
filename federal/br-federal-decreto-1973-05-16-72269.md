@@ -1,0 +1,29 @@
+###DEC-072269-0-000-16-05-1973@@@
+
+DECRETO Nº 72.269, DE 16 MAIO DE 1973.
+
+Concede à Padomar - Paraná, Dolomita e Mármore Ltda. o direito de lavrar dolomito no Município de Castro, Estado do Paraná.
+
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, e nos termos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de1967,
+
+Decreta:
+
+Art. 1º Fica outorgada à Padomar - Paraná, Dolomita e Mármore Ltda. concessão para lavrar dolomito em terrenos de propriedade da Indústria Cultura e Comércio de Madeiras Sguário S.A. e de Alziro da Silva Cezar, no lugar denominado Butiazal, Distrito de Socavão Município de Castro, Estado do Paraná, numa área de duzentos e vinte e três hectares e cinquenta e três ares (223,53ha), delimitada por um polígono irregular, que tem um vértice a quatrocentos e trinta e cinco metros (435m ), no rumo verdadeiro de dezenove graus sudeste (19º SE), da confluência da estrada que liga Castro - Irapuru com a estrada que liga a rodovia acima citada à localidade de Ribas e os lados a partir desse vértice, os seguimentos comprimentos e rumos verdadeiros: oitenta e cinco metros (85m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m) sul (S); setenta metros (70m), oeste (W); cem metros (100m ), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros, oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m ), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros, oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros, oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros, oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m ), sul (S); setenta metros, oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m ), sul (S); setenta metros, oeste (W); cem metros (100m), sul (S); setenta metros (70m), oeste (W); cem metros (100m), sul (S); cento e setenta metros (170m), oeste (W); cinquenta metros (50m), norte (N); cem metros (100m) oeste (W);  cinquenta metros (50m), norte (N); cem metros (100m) oeste (W); cinquenta metros (50m), norte (N); cem metros oeste (100m), oeste (W); cinquenta metros (50m), norte (N); cinquenta metros (50m), norte (N); cem metros (100m), oeste (W); cento e noventa metros (190m), norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E); duzentos metros norte (200m) norte (N); oitenta e seis metros (86m), leste (E);cento e vinte metros (120m), norte (N); duzentos metros (200m), leste (E); setenta e cinco metros (70m), sul (S); duzentos metros, (200m), leste (E); setenta e cinco metros (75m), sul (S); duzentos metros (200m), leste (E); setenta e cinco metros (75m), sul (S); duzentos metros (200m), leste (E); setenta e cinco metros (75m), sul (S); duzentos metros (200m), leste (E); setenta e cinco metros (75m), sul (S); duzentos metros (200m), leste (E); setenta e cinco metros (75m), sul (S); duzentos metros (200m), leste (E); cento e quarenta (140m), leste (E). Esta concessão é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas e 51, do Código de Mineração, além de outras constantes do mesmo Código, não expressamente mencionadas neste Decreto.
+
+Parágrafo único. Esta concessão fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963, e da Resolução nº 3, de 10 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O concessionário fica obrigado a recolher aos cofres públicos os tributos devidos à União, em  cumprimento do disposto no Decreto-lei nº 1.038, de 21 de outubro de 1969.
+
+Art. 3º se o concessionário não cumprir qualquer das obrigações que se lhe incubem, a concessão para lavrar será declarada caduca ou nula, na forma dos artigos 65 e 66, do Código de Mineração.
+
+Art. 4º as propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59, do Código de Mineração.
+
+Art. 5º A concessão de lavra terá por título este Decreto, que será transcrito no Livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 6º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM 800261-68).
+
+Brasília, 16 de maio de 1673; 152º da Independência e 85º da República.
+
+Augusto Hamann Rademaker Grunewald
+
+Antônio Dias Leite Júnior
