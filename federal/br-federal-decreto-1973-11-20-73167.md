@@ -1,0 +1,21 @@
+###DEC-073167-0-000-20-11-1973@@@
+
+DECRETO Nº 73.167 - DE 20 DE NOVEMBRO DE 1973
+
+Altera os valores das taxas e anuidades a serem cobradas pelos Conselhos Regionais de Biblioteconomia.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição,
+
+decreta:
+
+Art. 1º Fica alterada, a partir de 1 de janeiro de 1974, a Tabela aprovada pelo Decreto número 67.380, de 14 de outubro de 1970, publicado no Diário Oficial de 15 dos mesmos mês e ano, de acordo com os valores a seguir indicados:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Anuidade paga até 31 de março ......................................................................................</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100,00</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Anuidade paga após 31 de março (artigo 26 da Lei número 4.084-62), acréscimo de 20% ..................................................................................................................................</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120,00</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Inscrição ...........................................................................................................................</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,00</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Transferência de Inscrição ...............................................................................................</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,00</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Anotações, averbações, arquivamento e atos análogos ..................................................</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10,00</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Certidões e atos análogos, por folha ................................................................................</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8,00</span></p></td></tr></tbody></table>
+
+Art. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 20 de novembro de 1973; 152º da Independência e 85º da República.
+
+Emílio G. Médici
+
+Júlio Barata

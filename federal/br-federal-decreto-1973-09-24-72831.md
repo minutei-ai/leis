@@ -1,0 +1,29 @@
+###DEC-072831-0-000-24-09-1973@@@
+
+DECRETO Nº 72.831, DE 24 DE SETEMBRO DE 1973.
+
+Concede à Mineração Ipê Ltda. o direito de lavrar feldspato e mica no Município de Governador Valadares, Estado de Minas Gerais.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, nos termos do Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+DECRETA:
+
+Art. 1º Fica outorgada à Mineração Ipê Ltda. concessão para lavrar feldspato e mica em terrenos de propriedade de Amável Soares, no lugar denominado Pedra Redonda ou Ipê, Distrito de Município de Governador Valadares, Estado de Minas Gerais, numa área de oitenta e um hectares cinqüenta e quatro ares e cinqüenta centiares (81,5450 ha), delimitada por um polígono irregular, que tem um vértice a cento e sessenta metros (160m), no rumo verdadeiro de cinqüenta e seis graus trinta minutos noroeste (56º30'NW), da confluência do Córrego da Viúva com o Córrego Ipê e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: duzentos e noventa e cinco metros (295m), leste (E); trinta metros (30m), norte (N); sessenta metros (60m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m); norte (N); quarenta metros (40m); leste (E); vinte metros (20m), norte (N); quarenta metros (40m), leste (E); vinte e cinco metros (25m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); vinte e cinco metros (25m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); cinqüenta metros (50m), leste (E); trinta metros (30m), norte (N); trinta e cinco metros (35m), leste (E); vinte metros (20m), norte (N); quarenta metros (40m), leste (E); sessenta metros (60m), sul (S); cinqüenta e cinco metros (55m), leste (E); quarenta metros (40m), sul (S); trinta e cinco metros (35m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); cinqüenta metros (50m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); cinqüenta metros (50m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); quarenta e cinco metros (45m), leste (E); cinqüenta metros (50m), sul (S); cinqüenta metros (50m), leste (E); cinqüenta e cinco metros (55m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); trinta e cinco metros (35m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); trinta e cinco metros (35m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); quarenta metros (40m), sul (S); cem metros (100m), oeste (W); trinta e cinco metros (35m), norte (N); trinta e cinco metros (35m), oeste (W); cinqüenta metros (50m), norte (N); cinqüenta e cinco metros (55m), oeste (W); cinqüenta metros (50m), norte (N); cinqüenta e cinco metros (55m), oeste (W); cinqüenta metros (50m), norte (N); cinqüenta metros (50m), oeste (W); setenta e cinco metros (75m), norte (N); vinte metros (20m), oeste (W); cento e vinte e cinco metros (125m), norte (N); quarenta metros (40m), oeste (W); cem metros (100m), norte (N); trinta metros (30m), oeste (W); setenta e cinco metros (75m), norte (N); vinte metros (20m), oeste (W); trinta e cinco metros (35m), norte (N); quinze metros (15m), oeste (W); vinte metros (20m); norte (N). Esta concessão é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas, e 51, do Código de Mineração, além de outras constantes do mesmo Código, não expressamente mencionadas neste Decreto.
+
+Parágrafo único. Esta concessão fica sujeita às estipulações do Regulamento aprovado pelo Decreto número 51.726, de 19 de fevereiro de 1963, e da Resolução número 3, de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O concessionário fica obrigado a recolher aos cofres públicos os tributos devidos à União, em cumprimento do disposto no Decreto-lei número 1.038, de 21 de outubro de 1969.
+
+Art. 3º Se o concessionário não cumprir qualquer das obrigações que se lhe incumbem, a concessão para lavrar será declarada caduca ou nula, na forma dos artigos 65 e 66, do Código de Mineração.
+
+Art. 4º As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59, do Código de Mineração.
+
+Art. 5º A concessão de lavra terá por título este Decreto, que será transcrito no Livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 6º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM - 5075-41).
+
+Brasília, 24 de setembro de 1973; 152º da Independência e 85º da República.
+
+Emílio G. Médici
+
+Antônio Dias Leite Júnior

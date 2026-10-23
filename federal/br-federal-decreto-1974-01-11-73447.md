@@ -1,0 +1,23 @@
+###DEC-073447-0-000-11-01-1974@@@
+
+DECRETO Nº 73.447, DE 11 DE JANEIRO DE 1974.
+
+Retifica o artigo 1º, do Decreto número 64.266, de 21 de março de 1969, através do qual foi concedido à Liz S.A. - Comércio e Beneficiamento de Calcário o direito de lavrar calcário, no Município de Laranjeiras, Estado de Sergipe.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, nos termos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+DECRETA:
+
+Art. 1º O artigo 1º, do Decreto número 64.266, de 21 de março de 1969, para a vigorar com a seguinte redação:
+
+"Art. 1º Fica outorgada à Liz S.A. - Comércio e Beneficiamento de Calcário concessão para lavrar calcário em terrenos de sua propriedade, no lugar denominado Carapeba, Distrito e Município de Laranjeiras, Estado de Sergipe, numa área de trinta e dois hectares e sessenta e quatro ares e oito centiares (32,6408 ha), delimitada por um polígono irregular, que tem um vértice a trezentos metros e cinquenta centímetros (300,50m), no rumo verdadeiro de vinte graus e vinte e quatro minutos sudeste (20º24' SE), do canto sudoeste (SE) da Igreja do Bom Jesus e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: centro e cinquenta metros (150m), leste (E); cinco metros (5m), norte (N); centro e cinquenta metros (150m), leste (E); dezessete metros (17m), sul (S); quarenta e sete metros (47m), leste (E); dezessete metros (17m), sul (S); quarenta e sete metros (47m), leste (E); cinquenta metros (50m), sul (S); trinta metros (30m), leste (E); cinquenta metros (50m), sul (S); trinta e cinco metros (35m), leste (E); quarenta e cinco metros (45m), sul (S); quarenta e quatro metros (44m), leste (E); quarenta e cinco metros (45m), sul (S); quarenta e quatro metros (44m), leste (E); oitenta metros (80m), sul (S); vinte metros (20m), leste (E); oitenta metros (80m), sul (S); vinte metros (20m), leste (E); dezessete metros (17m), sul (S); trinta e oito metros (38m), leste (E); cinquenta metros (50m), sul (S); noventa e seis metros oeste (96m), oeste (W); vinte e dois metros (22m), sul (S); oitenta metros (80m), oeste (W); vinte metros (20m), sul (S); oitenta metros (80m), oeste (W); vinte metros (20m), sul (S); oitenta metros (80m), oeste (W); vinte metros (20m), sul (S); setenta e dois metros e cinquenta centímetros (72,50m), oeste (W); vinte e quatro metros (24m), sul (S); setenta e dois metros e cinquenta centímetros (72,50m), oeste (W); vinte e quatro metros (24m), sul (S); setenta e dois metros e cinquenta centímetros (72,50m), oeste (W); vinte e quatro metros (24m), sul (S); setenta e dois metros e cinquenta centímetros (72,50m), oeste (W); vinte e quatro metros (24m), sul (S); centro e trinta metros (130m), oeste (W); setenta e sete metros (77m), norte (N); cinquenta e cinco metros (55m), oeste (W); sessenta e cinco metros (65m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); vinte metros (20m), leste (E); vinte e três metros (23m), norte (N); doze metros (12m), leste (E); setenta e dois metros (72m), norte (N); vinte e quatro metros (24m), oeste (W); trinta e quatro metros (34m), norte (N); vinte e quatro metros (24m), oeste (W); trinta e oito metros (38m), norte (N); vinte e quatro metros (24m), oeste (W); cinquenta e seis metros (56m), norte (N); vinte e seis metros e cinquenta centímetros (26,50m), leste (E); trinta metros (30m), norte (N); vinte seis metros e cinquenta centímetros (26,50m), leste (E); trinta metros (30m), norte (N); vinte seis metros e cinquenta centímetros (26,50m), oeste (E); trinta metros e cinquenta centímetros (30,50m), norte (N); vinte e seis metros e cinquenta centímetros (26,50m), leste (E); trinta metros e cinquenta centímetros (30,50m), norte (N)".
+
+Art. 2º A retificação de que trata o artigo anterior será transcrita no Livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM - 3.274-64).
+
+Brasília, 11 de janeiro de 1974; 153º da Independência e 86º da República.
+
+EMÍLIO G. MÉDICI
+
+Antônio Dias Leite Júnior
