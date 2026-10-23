@@ -1,0 +1,25 @@
+###DEC-050994-0-000-19-07-1961@@@
+
+decreto nº 50.994, de 19 de juLho de 1961.
+
+Declara públicas, de uso comum, do domínio do Estado do Rio Grande do Sul, as águas do rio Arcado.
+
+O Presidente da República, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 5º do Decreto-lei número 2.281, de 5 de junho de 1940,
+
+Considerando que o edital de classificação do curso dágua publicado no Diário Oficial de 7 de abril de 1958, não suscitou qualquer contestação ou reclamação;
+
+Considerando que o Conselho Nacional de Águas e Energia Elétrica opinou pela classificação constante do mesmo edital,
+
+Decreta:
+
+Art. 1º São declaradas públicas de uso comum do domínio do Rio Grade do Sul, as águas do curso denominado Arcado em toda a sua extensão, que se acha incluído no município de São Francisco de Paula, e é tributário pela margem direita do rio Santana.
+
+Art. 2º Êste decreto entrará em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 19 de julho de 1961; 140º da Independência e 73º da República.
+
+Jânio quadros
+
+João Agripino

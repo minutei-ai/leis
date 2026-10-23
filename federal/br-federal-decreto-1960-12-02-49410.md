@@ -1,0 +1,23 @@
+###DEC-049410-0-000-02-12-1960@@@
+
+DECRETO Nº 49.410, DE 2 DE DEZEMBRO DE 1960.
+
+Autoriza Bornhausen & Cia. Limitada a pesquisar calcário, no município de Rio do Sul, Estado de Santa Catarina.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+decreta:
+
+Art. 1º Fica autorizada Bornhausen & Cia. Limitada a pesquisar calcário, em terrenos devolutos, no lugar denominado Serril, distritos de Trombudo e Pouso Redondo, município de Rio do Sul, Estado de Santa Catarina, numa área de quinhentos hectares (500 ha), delimitada por um polígono irregular que tem um vértice a mil duzentos e setenta metros (1.270m), no rumo verdadeiro de oitenta e nove graus noroeste (89º NW) da confluência do ribeirão Veado, no rio Pombas e os lados, a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: quinhentos e noventa metros (590m), quarenta e cinco graus sudoeste (45º SW); novecentos e cinqüenta metros (950m), vinte e sete graus vinte minutos sudoeste (27º 20’ SW); mil trezentos metros (1.300m), setenta e dois graus sudeste (72º SE); mil novecentos e setenta metros (1.970m), quarenta e dois graus sudeste (42º SE); mil quatrocentos e oitenta metros (1.480 m), sessenta e nove graus e trinta minutos sudeste (69º 30’ SE); quinhentos metros (500 m), vinte graus e trinta minutos sudeste (20º 30’ SE); mil trezentos e cinqüenta metros (1.350m), quarenta e cinco graus noroeste (45º NW); é trezentos e oitenta metros (380m), quarenta e nove graus nordeste (49º NE); mil oitocentos e trinta metros (1.830m), sessenta e dois graus sudeste (62º SE); mil e cem metros (1.100m), cinqüenta e sete graus e dezoito minutos nordeste (57º 18’ NE); mil e trezentos metros (1.300m), quarenta e um graus e vinte e cinco minutos sudeste (41º 25’ SE); novecentos e vinte e cinco metros (925m), oitenta e cinco graus e quarenta minutos nordeste (85º 40’ NE); quinhentos e noventa metros (590m), vinte e sete graus quarenta minutos sudoeste (27º 40’ SW); seiscentos metros (600m), setenta e nove graus e trinta minutos sudeste (79º 30’ SE); setecentos e oitenta metros (780m), quarenta graus dezesseis minutos nordeste (40º 16’ NE); trezentos e setenta e cinco metros (375m), cinqüenta e um graus e trinta minutos noroeste (51º 30’ NW); quatrocentos e dez metros (410m), trinta e um graus noroeste (31º NW); mil trezentos e quarenta e sete metros (1.347m), oitenta e seis graus noroeste (86º NW); novecentos e trinta metros (930m), seis graus e trinta minutos noroeste (6º 30’ NW); quinhentos metros (500m), setenta e quatro graus noroeste (74º NW); seiscentos e trinta e cinco metros (635m), trinta e um graus e trinta minutos sudoeste (31º 30’ SW); trezentos e trinta metros (330m), sessenta e oito graus e trinta minutos sudoeste (68º 30’ SW); quinhentos e sessenta e cinco metros (565m), sessenta e um graus noroeste (61º NW); quinhentos e vinte e oito metros (528m), quarenta graus noroeste (40º NW); quinhentos metros (500m), setenta e sete graus e quarenta e cinco minutos noroeste (77º 75’ NW); duzentos e vinte e cinco metros (225m), quarenta e três graus sudoeste (43º SW); oitocentos e setenta e cinco metros (875m), sessenta e dois graus e trinta minutos noroeste (62º 30’ NW); trezentos e setenta metros (370m), setenta e sete graus e quarenta e cinco minutos noroeste (77º 45’ NW); mil quinhentos e oitenta metros (1.580m), vinte graus e quarenta e cinco minutos sudeste (20º 45’ SE); oitocentos e quarenta metros (840m), oitenta e dois graus trinta minutos noroeste (82º 30’ NW); mil duzentos e cinqüenta metros (1.250m), trinta e cinco graus e trinta minutos noroeste (35º 30’ NW); mil quatrocentos e dez metros (1.410m), cinqüenta e cinco graus e trinta minutos noroeste (55º 30’ NW); mil metros (1.000m), dezoito graus e trinta minutos nordeste (18º 30’ NE).
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 30.230, de 1 de dezembro de 1951, uma vez se verifique a existência na jazida, como associado de qualquer das substâncias a que se refere o art. 2º do citado Regulamento ou de outras substâncias discriminadas pelo Conselho Nacional de Pesquisas.
+
+Art. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de cinco mil cruzeiros (Cr$5.000,00) e será válido por dois (2) anos a contar da data da transcrição no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 2 de dezembro de 1960; 139º da Independência e 72º da República.
+
+JUSCELINO KUBITSCHEK
+
+Antonio Barros Carvalho

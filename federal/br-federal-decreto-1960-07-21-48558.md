@@ -1,0 +1,23 @@
+###DEC-048558-0-000-21-07-1960@@@
+
+DECRETO Nº 48.558, DE 21 DE JUlho DE 1960.
+
+Autoriza o cidadão brasileiro Sebastião Curimbaba a pesquisar bauxita e argila, no município de Poços de Caldas, Estado de Minas Gerais.
+
+O presidente da república,usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+Decreta:
+
+Art. 1º - Fica autorizado o cidadão brasileiro Sebastião Curimbaba, a pesquisar bauxita e argila em terrenos de propriedade de João Ferreira da Costa de Oliveira e Emílio Ferreira da Costa no lugar denominado de Poços de Caldas, Estado de Minas Gerais, numa áres de cento e quarenta e dois hectares e setenta e cinco ares (142,75ha), delimitada por um polígono irregular, que tem um vértice a trezentos e oitenta e um (381m), no rumo magnético de setenta e oito graus e sete minutos nordeste (78º07), da ponte da estrada de rodagem Poços de Caldas – Pocinhos do Rio Verde, sôbre o córrego do Morro das Árvores e os lados a partir deste vértice, os seguintes comprimentos e rumos magnéticos: mil cento e sessenta e nove metros e trinta centímetros (1.169,30m), dois graus e dois minutos sudeste (2º02’ SE); duzentos e dezenove metros e cinqüenta centímetros (219,50m), setenta graus e vinte e dois minutos sudoeste (60º22’ SW); duzentos e quarenta e dois metros (242m), trinta e quatro graus e quarenta e dois minutos sudoeste (34º42’ SW); noventa e cinco metros e cinqüenta centímetros (95,50m), oitenta e quatro graus e cinqüenta e cinco minutos sudeste (84º55’ SE); cento e oitenta metros e dez centímetros (180,10m) quatorze graus e cinqüenta e seis minutos sudoeste (14º56’ SW); cento e vinte metros e cinqüenta centímetros (340,50m), cinqüenta graus e sete minutos nordeste (50º07’ NE); duzentos e sete metros (207m), trinta e um graus e trinta e nove minutos nordeste (31º39’ NE); cento e quarenta e três metros e quarenta centímetros (143,40m), setenta e cinco graus e cinco minutos nordeste (75º05’ NE); cento e vinte sete metros e sessenta centímetros (127,60m), oitenta e dois graus e trinta minutos nordeste (82º30’ NE); trezentos e trinta e oito metros (338m) cinqüenta e nove graus e vinte minutos sudeste (59º20’ SE); vinte e oito metros e dez centímetros (28,10m), quinze graus e quarenta e um minutos nordeste (15º41’ NE); cento e quarenta e seis metros – (146m), quarenta e seis graus e vinte e quatro minutos noroeste (46º24’ NW); cento e dezessete metros (117m), treze graus e vinte e nove minutos nordeste (13º29’ SE); oitenta metros e trinta centímetros (80,30m), dezessete graus e quarenta e sete minutos nordeste (17º47’ NE); cento e quarenta e cinco metros (145m), sessenta e nove graus e cinqüenta minutos nordeste (59º50’ NE); cento e vinte e cinco metros (125m), vinte e dois graus e quarenta minutos nordeste (22º40’ SE); cinqüenta e nove metros e vinte centímetros (59,20m), oitenta e quatro graus e quarenta centímetros nordeste (84º40’ NE); cento e um metros e dez centímetros (101,10m), vinte e cinco graus e vinte minutos sudeste (25º20’ SE); duzentos e sete metros (207m), sessenta e cinco graus e quarenta e nove minutos (65º49’ NE); oitocentos e setenta e sete metros e dez centímetros (877,10m), dezoito graus e quarenta minutos nordeste (15º40’ NE); quatrocentos e trinta e um metros e setenta centímetros (431,70m) dois graus e sete minutos nordeste (2º07’ NE); duzentos e vinte e seis metros e dez centímetros (226,10m), oitenta e um graus e trinta e cinco minutos sudoeste (81º35’ SW); trezentos e sessenta e três metros e cinqüenta centímetros (363,50m), trinta e oito graus e doze minutos noroeste (38º12’ NW); quatrocentos e sessenta e seis metros (466m), cinqüenta e nove graus e dois minutos sudeste (59º02’ SE);
+
+Parágrafo único. - A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 30 320, de 1 de dezembro de 1951, uma vez se verifique a existência na jazida, como associado de qualquer das substâncias a que se refere o art. 2º do citado Regulamento ou de outras substâncias discriminadas pelo Conselho Nacional de Pesquisas.
+
+Art. 2º O título da autorização e pesquisa, que será uma via autênticada deste Decreto, pagará a taxa de mil quatrocentos e trinta cruzeiros (Cr$1.430,00) e será válido pelo prazo de dois (2) anos a contar da data de transcrição no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, em 21 de junho de 1960, 139º da Independência e 72º da República.
+
+Juscelino Kubitschek
+
+Antônio Barros Carvalho
