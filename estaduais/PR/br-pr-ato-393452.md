@@ -1,8 +1,6 @@
 ### Emenda Constitucional 60 - 5 de Maio de 2026
 
-<br>
-Publicado no [Diário Oficial nº. 3398](https://www.dioe.pr.gov.br/) de 5 de Maio de 2026<br>
-<br>
+Publicado no [Diário Oficial nº. 3398](https://www.dioe.pr.gov.br/) de 5 de Maio de 2026
 
 **Súmula:** Altera a Emenda Constitucional nº 45, de 4 de dezembro de 2019, e dá outras providências.
 

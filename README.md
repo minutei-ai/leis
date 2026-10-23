@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**168.892 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**168.940 normas e 1 anexo em arquivo próprio publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -32,7 +32,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Minas Gerais](estaduais/MG/) | 59.898 |
 | Estadual | [Pará](estaduais/PA/) | 1 |
 | Estadual | [Paraíba](estaduais/PB/) | 1 |
-| Estadual | [Paraná](estaduais/PR/) | 11 |
+| Estadual | [Paraná](estaduais/PR/) | 59 |
 | Estadual | [Pernambuco](estaduais/PE/) | 848 |
 | Estadual | [Piauí](estaduais/PI/) | 1 |
 | Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.661 |

@@ -1,8 +1,6 @@
 ### Emenda Constitucional 59 - 24 de Março de 2026
 
-<br>
-Publicado no [Diário Oficial nº. 3374](https://www.dioe.pr.gov.br/) de 24 de Março de 2026<br>
-<br>
+Publicado no [Diário Oficial nº. 3374](https://www.dioe.pr.gov.br/) de 24 de Março de 2026
 
 **Súmula:** Acrescenta os arts. 56A e 56B ao Ato das Disposições Constitucionais Transitórias da Constituição do Estado do Paraná, para dispor sobre a Carreira Especial de Advogado do Estado, e altera o inciso VI do § 2º do art. 133A da Constituição do Estado do Paraná.
 

@@ -1,8 +1,6 @@
 ### Emenda Constitucional 61 - 30 de junho de 2026
 
-<br>
-Publicado no [Diário Oficial nº. 3436](https://www.dioe.pr.gov.br/) de 1 de Julho de 2026<br>
-<br>
+Publicado no [Diário Oficial nº. 3436](https://www.dioe.pr.gov.br/) de 1 de Julho de 2026
 
 **Súmula:** Altera o inciso VIII do art. 53 da Constituição do Estado do Paraná.
 

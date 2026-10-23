@@ -1,8 +1,6 @@
 ### Emenda Constitucional 53 - 14 de Dezembro de 2022
 
-<br>
-Publicado no [Diário Oficial nº. 2589](https://www.dioe.pr.gov.br/) de 20 de Dezembro de 2022<br>
-<br>
+Publicado no [Diário Oficial nº. 2589](https://www.dioe.pr.gov.br/) de 20 de Dezembro de 2022
 
 **Súmula:** Altera e revoga dispositivos da Constituição do Estado do Paraná e dá outras providências.
 

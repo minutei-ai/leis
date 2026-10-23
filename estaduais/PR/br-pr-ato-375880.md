@@ -1,8 +1,6 @@
 ### Emenda Constitucional 56 - 4 de novembro de 2025
 
-<br>
-Publicado no [Diário Oficial nº. 3283](https://www.dioe.pr.gov.br/) de 6 de Novembro de 2025<br>
-<br>
+Publicado no [Diário Oficial nº. 3283](https://www.dioe.pr.gov.br/) de 6 de Novembro de 2025
 
 **Súmula:** Altera o inciso I do § 1º do art. 77 da Constituição Estadual, que dispõe sobre os requisitos para a nomeação dos conselheiros e auditores do Tribunal de Contas do Estado.
 

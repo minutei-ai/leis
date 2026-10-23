@@ -1,8 +1,6 @@
 ### Emenda Constitucional 55 - 4 de novembro de 2025
 
-<br>
-Publicado no [Diário Oficial nº. 3283](https://www.dioe.pr.gov.br/) de 6 de Novembro de 2025<br>
-<br>
+Publicado no [Diário Oficial nº. 3283](https://www.dioe.pr.gov.br/) de 6 de Novembro de 2025
 
 **Súmula:** Acrescenta o § 6º ao art. 47 da Constituição do Estado do Paraná, a fim de possibilitar a realização de prova oral de caráter eliminatório para ingresso na Carreira de Delegado de Polícia Civil.
 

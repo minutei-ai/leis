@@ -1,8 +1,6 @@
 ### Emenda Constitucional 52 - 29 de Agosto de 2022
 
-<br>
-Publicado no [Diário Oficial nº. 2517](https://www.dioe.pr.gov.br/) de 31 de Agosto de 2022<br>
-<br>
+Publicado no [Diário Oficial nº. 2517](https://www.dioe.pr.gov.br/) de 31 de Agosto de 2022
 
 **Súmula:** Acrescenta o §9º ao art. 179 da Constituição do Estado do Paraná, para instituir o ensino da língua espanhola como disciplina de oferta obrigatória na matriz curricular e de caráter optativo aos estudantes das escolas públicas no Estado do Paraná.
 

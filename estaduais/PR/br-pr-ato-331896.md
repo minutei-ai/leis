@@ -1,8 +1,6 @@
 ### Emenda Constitucional 54 - 08 de Julho de 2024
 
-<br>
-Publicado no [Diário Oficial nº. 2958](https://www.dioe.pr.gov.br/) de 9 de Julho de 2024<br>
-<br>
+Publicado no [Diário Oficial nº. 2958](https://www.dioe.pr.gov.br/) de 9 de Julho de 2024
 
 **Súmula:** Acrescenta o § 4º ao art. 125 da Constituição do Estado do Paraná.
 

@@ -1,8 +1,6 @@
 ### Emenda Constitucional 58 - 10 de Dezembro de 2025
 
-<br>
-Publicado no [Diário Oficial nº. 3309](https://www.dioe.pr.gov.br/) de 15 de Dezembro de 2025<br>
-<br>
+Publicado no [Diário Oficial nº. 3309](https://www.dioe.pr.gov.br/) de 15 de Dezembro de 2025
 
 **Súmula:** Acrescenta o art. 133A e altera o art. 205 da Constituição do Estado do Paraná.
 
