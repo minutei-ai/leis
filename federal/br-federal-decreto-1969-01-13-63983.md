@@ -1,0 +1,29 @@
+###DEC-063983-0-000-13-01-1969@@@
+
+DECRETONº 63.983, DE 13 DE JANEIRO DE 1969.
+
+Autoriza a Comissão Executiva do Sal a promover, mediante convênio com outras entidades a construção do Canal de Salinas, na Lagoa de Araruama, Estado do Rio de Janeiro, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o Artigo 83, item II, da Constituição e atendendo ao que consta do processo MIC 14.387, de 1968,
+
+decreta:
+
+Art. 1º A Comissão Executiva do Sal fica autorizada a promover, em regime de convênio com o Departamento Nacional de Obras e Saneamento, do Ministério do Interior, Governo do Estado do Rio de Janeiro, Prefeituras Municipais de Araruama, Cabo Frio, São Pedro da Aldeia e Saquarema, no mesmo Estado, e o Sindicato da Indústria da Extração de Sal de Araruama, as obras necessárias para a construção de um canal, que se denominará Canal Salinas, na Lagoa de Araruama, o qual se destinará a desviar águas pluviais, que vêm prejudicando o teor de salinação das águas da referida Lagoa.
+
+Art. 2º A construção do Canal Salinas será realizada de acordo com os estudos técnicos e respectivos projeto a ser elaborado pelo referido Departamento Nacional de Obras e Saneamento e sob sua responsabilidade direta.
+
+Parágrafo único. Para esse fim, o DNOS entrará com o pessoal técnico, mão de obra e maquinaria, tudo orçado em aproximadamente NCr$ 1.150.000,00 (hum milhão, cento e cinquenta e mil cruzeiros novos).
+
+Art. 3º A Comissão Executiva do Sal, que deverá sempre ser ouvida quanto à parte técnica e econômica do empreendimento, fica autorizada a destinar, do "Fundo de Desenvolvimento da Indústria Salineira" (Decreto número 55.842, de 16-3-65), para a construção do Canal de Salinas, a importância de NCr$ 575.000,00 (quinhentos setenta e cinco mil cruzeiros novos).
+
+Art. 4º O restante dos recursos necessários à execução da obra deverá correr por conta do Governo do Estado do Rio de Janeiro, das Prefeituras Municipais de Araruama, Cabo Frio, São Pedro da Aldeia e Saquarema e, do Sindicato da Extração do Sal de Araruama.
+
+Art. 5º O presente Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+Brasília, 13 de janeiro de 1969; 148º da Independência e 81º da República.
+
+A. Costa e Silva
+
+Edmundo de Macedo Soares
+
+Afonso A. de Lima

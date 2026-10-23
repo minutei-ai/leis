@@ -1,0 +1,17 @@
+###DEC-064339-0-000-10-04-1969@@@
+
+DECRETO nº 64.339, DE 10 DE ABRIL DE 1969.
+
+Declara de utilidade pública a Associação de Assistência e Proteção à Maternidade e à Infância de Caxias, com sede em Caxias, Estado do Maranhão.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e atendendo ao que consta do Processo M.J. nº 37.412, de 1967,
+
+decreta:
+
+Artigo único. É declarada de utilidade pública, nos têrmos do artigo 1º da Lei nº 91, de 28 de agôsto de 1935 combinado com o artigo 1º do Regulamento aprovado pelo Decreto nº 50.517, de 2 de maio de 1961, a Associação de Assistência e Proteção à Maternidade e à Infância de Caxias, com sede em Caxias, Estado do Maranhão.
+
+Brasília, 10 de abril de 1969; 148º da Independência e 81º da República.
+
+A. costa e silva
+
+Luís Antônio da Gama e Silva
