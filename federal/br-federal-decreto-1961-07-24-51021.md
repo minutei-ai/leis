@@ -1,0 +1,25 @@
+###DEC-051021-0-000-24-07-1961@@@
+
+DECRETO Nº 51.021, DE 24 DE JULHO DE 1961.
+
+Declara públicas, de uso comum, do domínio<ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T07:59:00'"><span style="font-size:1.2em; -aw-import:spaces">&nbsp;</span></ins><ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T07:58:00'"><span style="font-size:1.2em">do Estado de São Paulo as águas</span></ins> do rio Braço Grande ou Pedreado.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuiç<del style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T07:59:00'"><span style="font-size:1.2em">ões</span></del><ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T07:59:00'"><span style="font-size:1.2em">ão</span></ins> que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 5º do Decreto-lei número 2.281, de 5 de junho de 1946;
+
+CONSIDERANDO que o edital de classificação do curso d’água publicado no Diário Oficial de 6 de agôsto de 1958 não suscitou qualquer <del style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:15:00'"><span style="font-size:1.2em">constestação</span></del><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:15:00'"><span style="font-size:1.2em">contestação</span></ins> ou reclamação; e
+
+CONSIDERANDO que o Conselho Nacional de Águas e Energia <ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:10:00'"><span style="font-size:1.2em">Elétrica opinou pela classificaç</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:11:00'"><span style="font-size:1.2em">ão constante do mesmo edital,</span></ins>
+
+<ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:11:00'"><span style="font-size:1.2em">Decreta:</span></ins>
+
+<ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:11:00'"><span style="font-size:1.2em; font-weight:bold">Art</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:11:00'"><span style="font-size:1.2em">. 1º - São declaradas públicas, de uso comum, do domínio d</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:12:00'"><span style="font-size:1.2em">o</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:11:00'"><span style="font-size:1.2em; -aw-import:spaces">&nbsp;</span><span style="font-size:1.2em">Estado de S</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:12:00'"><span style="font-size:1.2em">ão Paulo, as águas do curso denominado Braço Grande ou Pedreado em tôda a sua extensão, que se acha</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:13:00'"><span style="font-size:1.2em; -aw-import:spaces">&nbsp;</span><span style="font-size:1.2em">incluído no município de Miracatu e é tributário pela margem direita do rio São Lourenço.</span></ins>
+
+<ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:14:00'"><span style="font-size:1.2em; font-weight:bold">Art</span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:14:00'"><span style="font-size:1.2em">. 2º - Êste Decreto entra em vigor na data de sua publicação.</span></ins>
+
+<ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T08:00:00'"><span style="font-size:1.2em; font-weight:bold">Art</span></ins><ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T08:00:00'"><span style="font-size:1.2em">. 3º </span></ins><ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T08:01:00'"><span style="font-size:1.2em">- </span></ins><ins style="color:#b5082e; -aw-revision-author:'Comp Line'; -aw-revision-datetime:'2000-04-18T08:00:00'"><span style="font-size:1.2em">Revogam-se as disposições em contrário.</span></ins>
+
+<ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:14:00'"><span style="font-size:1.2em">Brasília, 24 de julho de 1961; 140º da Independência e </span></ins><ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:15:00'"><span style="font-size:1.2em">73º da República.</span></ins>
+
+<ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:15:00'"><span style="font-size:1.2em">Jânio Quadros</span></ins>
+
+<ins style="color:#2e97d3; -aw-revision-author:'WIN_95'; -aw-revision-datetime:'2000-04-17T10:15:00'"><span style="font-size:1.2em">João Agripino</span></ins>
