@@ -1,0 +1,17 @@
+###DEC-056750-0-000-18-08-1965@@@
+
+DECRETO Nº 56.750, DE 18 DE AGÔSTO DE 1965.
+
+Concede à Pedreira Pena Branca Limitada autorização para funcionar como emprêsa de mineração.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas) e tendo em vista o que dispõe o Decreto-lei nº 938, de 8 de dezembro de 1938,
+
+Decreta:
+
+Artigo único. É concedida a Pedreira Pena Branca Limitada, constituída no contrato arquivado sob números 107.170 e alterações sob números 128.057 e 31.374, no DNRC, com sede na cidade do Rio de Janeiro, Estado da Guanabara, autorização para funcionar como emprêsa de mineração, ficando obrigada a cumprir integralmente as leis e regulamentos em vigor ou que venham a vigorar sôbre o objeto desta autorização.
+
+Brasília, 18 de agôsto de 1965; 144º da Independência e 77º da República.
+
+H. Castello Branco
+
+Mauro Thibau

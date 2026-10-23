@@ -1,0 +1,25 @@
+###DEC-057062-0-000-15-10-1965@@@
+
+DECRETO Nº 57.062, DE 15 DE OUTUBRO DE 1965.
+
+Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento, as áreas de terras e benfeitorias que menciona.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, item I da Constituição, e nos têrmos do Decreto Lei nº 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956,
+
+DECRETA:
+
+Art. 1º Fica declarada de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, área de terra e respectiva benfeitoria, em Vila Rio Branco, Município de Canôas, no Estado do Rio Grande do Sul, correspondente a uma faixa de 36 (trinta e seis) metros de largura, sendo 18 (dezoito) metros para cada lado do eixo a seguir descrito e 2.500 (dois mil e quinhentos) metros de extensão com aproximadamente 100.0000m² (cem mil) metros quadrados, constante da planta topográfica e cadastral elaborada pelo D.N.O.S., devidamente autenticada e que fica depositada em seu Arquivo Técnico, com a seguinte caracterização: tomando-se como partida o ponto definido pelo alinhamento “Leste” da rua Guilherme Schell com a paralela ao eixo da rua 3 de outubro, traçada a 18 (dezoito) metros ao “Sul”; dêste ponto acima definido e por essa paralela ao eixo da rua 3 de Outubro que passará a ser o eixo do dique, no sentido de quem se afasta da rodovia BR-2, inicia-se o trecho “A”, da estaca 0 (zero) até a estaca 36 + 3,00 numa extensão de 723 (setecentos e vinte e três) metros; dêste ponto com uma deflexão de 33º (trinta e três) graus à direita, inicia-se o trecho “B”, atingindo terras do Frigorífico Frigosul, entrando nas quadras compreendidas entre as ruas 13 de Maio, José de Alencar, Hermes da Fonseca e Gal. Câmara, sendo atingidos pela faixa, os lotes que fazem frente com esta última, numa extensão de 242 (duzentos e quarenta e dois) metros, da estaca 36 + 3,00 até a estaca 48 + 5,00; dêste ponto, com uma deflexão de 33º (trinta e três) graus à esquerda, inicia-se o trecho “C”, seguindo paralelamente ao eixo da rua Gal. Câmara, sendo atingidos pela faixa os lotes que fazem frente para esta rua até encontrar o alinhamento “Leste” da rua José de Alencar, numa extensão de 240 (duzentos e quarenta) metros, indo da estaca 48 + 5,00 até a estaca 60+5,00; dêste ponto, com uma deflexão de 12º (doze) graus, à esquerda cruzando a rua José de Alencar, inicia-se o trecho “D” que se desenvolve até encontrar o alinhamento “Oeste” da mesma e dêste ponto, com uma deflexão de 12º (doze) graus à direita, sendo atingidos pela faixa os lotes que fazem frente para a rua Gal. Câmara, situados nas quadras compreendidas entre as ruas Olavo Bilac, Iguassú, Hermes da Fonseca e Gal. Câmara, numa extensão de 397 (trezentos e noventa e sete) metros, da estaca 60 + 5,00 até a estaca 80 + 2,00; neste ponto, com uma deflexão de 35º (trinta e cinco) graus à direita, inicia-se o trecho “E”, cortando diagonalmente a quadra compreendida entre as ruas Gal. Câmara e Hermes da Fonseca e prolongamento das ruas Avay e Iguassú, numa extensão de 71 (setenta e um) metros, da estaca 80 + 2,00 até a estaca 83 + 13,00; dêste ponto, com uma deflexão de 35º (trinta e cinco) graus à esquerda, inicia-se o trecho “F”, paralelamente à rua Hermes da Fonseca, sendo atingidos pela faixa os lotes situados do lado Sul desta rua, numa extensão de 176 (cento e setenta e seis) metros, da estaca 83 + 13,00 até a estaca 92 + 9,00; dêste ponto com uma deflexão de 33º (trinta e três) graus à direita, inicia-se o trecho “G” cortando diagonalmente as quadras situadas entre as ruas Conde D’Eu, Hermes da Fonseca, Felipe Camarão e Humberto de Campos, numa extensão de 287 (duzentos e oitenta e sete) metros, da estaca 92 + 9,00 até a estaca 106 + 16,00; dêste ponto com uma deflexão de 32º (trinta e dois) graus à esquerda, inicia-se o trecho “H” seguindo paralelamente a rua Humberto de Campos, atingindo os lotes do lado Sul desta, numa extensão de 116 (cento e dezesseis) metros, da estaca 106 + 16,00 até a estaca 112 + 12,00; dêste ponto com uma deflexão de 90º (noventa) graus à direita, inicia-se o trecho “I”, seguindo até encontrar o prolongamento do dique em construção, numa extensão de 248 (duzentos e quarenta e oito) metros, da estaca 112 + 12,00 até a estaca 125.
+
+Art. 2º A desapropriação objeto dêste Decreto destina-se à construção pelo D.N.O.S. de um “Dique de Proteção” e de “Valas Coletoras”, contra inundações causadas pelo rio Gravataí, na Vila Rio Branco, Município de Canôas, no Estado do Rio Grande do Sul.
+
+Art. 3º O Departamento Nacional de Obras de Saneamento fica autorizado, com seus próprios recursos, a promover e executar, amigável ou judicialmente, a presente desapropriação.
+
+Art. 4º A desapropriação a que se refere o presente Decreto é considerada de urgência para efeito do artigo 15 do Decreto-Lei nº 3.365, de 21 de julho de 1941.
+
+Art. 5º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 15 de outubro de 1965; 144º da Independência e 77º da República.
+
+H. Castello Branco
+
+Juarez Távora

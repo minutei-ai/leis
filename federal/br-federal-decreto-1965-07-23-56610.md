@@ -1,0 +1,17 @@
+###DEC-056610-0-000-23-07-1965@@@
+
+Decreto nº 56.610, de 23 de julho de 1965.
+
+Concede à sociedade anônima S. S. White Dental Manufacturing Company of Brazil autorização para continuar a funcionar na República.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal, e nos têrmos do Decreto-lei número 2.627, de 26 de setembro de 1940,
+
+decreta:
+
+Artigo único. É concedida à sociedade anônima S. S. White Dental Manufacturing Company Of Brazil, com sede na cidade de Wilmington, Condado de New Castle, Estado de Delawre, Estados Unidos da América, autorizada a funcionar no Brasil pelos Decretos ns. 13.638, de 11 de junho 1919; 18.883, de 27 de agôsto de 1929; 22.279, de 14 de dezembro de 1946; 34.017, de 1º de outubro de 1953; 39.836, de 21 de agôsto de 1956; e 49.761, de 31 de dezembro de 1960, autorização para continuar a funcionar na República, com o capital destinado às operações industriais da filial brasileira, elevado de Cr$23.670.000 (vinte e três milhões, seiscentos e setenta mil cruzeiros) para Cr$237.932.000 (duzentos e trinta e sete milhões, novecentos e trinta e dois mil cruzeiros), em virtude da correção monetária dos Valôres do Ativo imobilizado, nos têrmos da Lei nº 4.357, de 16 de julho de 1964, consoante resolução aprovada em reunião da sua Diretoria, realizada a 18 de setembro de 1964, bem como declaração do seu Representante legal no País, datada de 10 de novembro de 1964, mediante as cláusulas que a êste acompanham, assinadas pelo Ministro de Estado da Indústria e do Comércio, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da presente autorização.
+
+Brasília, 23 de julho de 1965; 144º da Independência e 77º da República.
+
+H. castello branco
+
+Daniel Faraco
