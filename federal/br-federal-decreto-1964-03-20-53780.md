@@ -1,0 +1,43 @@
+###DEC-053780-0-000-23-03-1964@@@
+
+DECRETO Nº 53.780, DE 23 DE MARÇO DE 1964.
+
+Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno no Município de Pentecoste, Estado do Ceará, para a instalação do Instituto de Pesquisas.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal, e nos têrmos do Decreto número 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956,
+
+decreta:
+
+Art. 1º Fica declarada de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno com 2.086.700m2 (dois milhões oitenta e seis mil e setecentos metros quadrados), situada no Município de Pentecoste, Estado do Ceará, representada na Planta que com êste baixa, devidamente rubricada pelo Diretor da Divisão do Material do Departamento de Administração do Ministério da Viação e Obras  Públicas, necessária à instalação do Instituto de Pesquisas do Serviço de Piscicultura daquele Departamento, limitada ao norte, numa extensão de 837,50m (oitocentos e trinta e sete metros e cinquenta centímetros), com terras de herdeiros de José de Almeida e numa extensão de 617,50m (seiscentos e dezessete metros e cinquenta centímetros) com terras de herdeiros de Francisco Nunes Sobrinho; ao sul, com terras de João Verçosa Andrade, numa extensão total de 1.495,00m (um mil quatrocentos e noventa e cinco metros); a leste com a barragem do Açude Público Pentecoste e a oeste, numa extensão de 1.472,50m (um mil, quatrocentos e setenta e dois metros e cinquenta centímetros), com terras de propriedade da Sra. Alzira Campelo Fonseca.
+
+Art. 2º A desapropriação a que se refere o presente decreto é considerada de urgência para os efeitos do artigo 15, do Decreto-lei nº 3.365, de 21 de junho de 1941.
+
+Art. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 20 de março de 1964; 143º da Independência e 76º da República.
+
+JOÃO GOULART
+
+Expedito Machado
+
+Waldyr Ramos Borges
+
+###DEC-053780-0-000-20-03-1964@@@RET01+++
+
+DECRETO Nº 53.780, DE 20 DE MARÇO DE 1964.
+
+Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno no Município de Pentecoste, Estado do Ceará, para a instalação do Instituto de Pesquisas.
+
+(Publicado no D.O. de 31-3-64)
+
+Retificação
+
+No número do Decreto,
+
+ONDE SE LÊ:
+
+Decreto nº 53.780 de 23 de março de 1964,
+
+LEIA\-SE:
+
+Decreto nº 53.780 de 20 de março de 1964.

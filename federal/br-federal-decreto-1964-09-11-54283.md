@@ -1,0 +1,23 @@
+###DEC-054283-0-000-11-09-1964@@@
+
+DECRETO Nº 54.283, DE 11 DE SETEMBRO DE 1964.
+
+Aprova a revisão do Quadro de Pessoal do Hospital Júlia Kubitschek e dá outras providencias.
+
+O PRESIDENTE DA REPUBLICA, usando das atribuições que lhe confere o artigo 87, item I, da Constituição, e o § 1o do art. 19 da Lei nº 4.345, de 26 de junho de 1964,
+
+Decreta:
+
+Art. 1o Fica aprovada a revisão da classificação dos cargos e funções integrantes do Quadro de Pessoal do Hospital Júlia Kubitschek, na forma determinada pelo art. 19 da Lei numero 4.345, de 26 de junho de 1964, elaborada com observância das normas contidas no Decreto nº 54.004, de 3 de julho de 1964, continuando em vigor o Decreto nº 51.667, de 17 de janeiro de 1963.
+
+Art. 2o A revisão de que trata êste decreto não prejudicará o reexame das situações individuais de enquadramento, já constituídas e passíveis de correção por iniciativa da administração ou em virtude de apreciação de recursos interpostos por funcionários fundamentados no art. 48, parágrafo único, da Lei nº 3.780, de 12 de julho de 1960.
+
+Art. 3o A partir da publicação dêste decreto aplicar-se-ão aos funcionários do Hospital Júlia Kubitschek as disposições da Lei nº 4.345, de 26 de junho de 1964, retroagindo as respectivas vantagens financeiras a 1o de junho de 1964.
+
+Art. 4o Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
+
+Brasília, 11 de setembro de 1964, 143o da Independência e 76o da Republica.
+
+H. CASTELLO BRANCO
+
+Arnaldo Sussekind
