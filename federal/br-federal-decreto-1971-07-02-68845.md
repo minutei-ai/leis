@@ -1,0 +1,29 @@
+###DEC-068845-0-000-02-07-1971@@@
+
+Decreto nº 68.845, de 2 de julho de 1971.
+
+Concede à Companhia Siderúrgica Paulista COSIPA, o direito de lavrar calcário, no município de Salto de Pirapora, Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, nos têrmos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+Decreta:
+
+Art. 1º Fica outorgada à Companhia Siderúrgica Paulista - COSIPA concessão para lavrar calcário, em terrenos de propriedade de herdeiros e sucessores de Francisco Ferreira Prestes Filho, no lugar denominado Bairro de Piraporinha, distrito e município de Salto de Pirapora, Estado de São Paulo, numa área de um hectare quarenta e cinco ares e trinta e sete centiares (1,4537ha), delimitada por um polígono irregular, que tem o vértice nº 1 a 5 (cinco) metros, no rumo verdadeiro de um grau nordeste (1º NE), do centro da ponte sôbre o Rio Piraporinha, e os lados a partir desse vértice, os seguintes comprimentos e rumos verdadeiros: três metros e vinte e oito centímetros (3,28m), norte (N); cinco metros (5m), oeste (W); nove metros e dez centímetros (9,10m), norte (N); seis metros (6m), oeste (W); vinte e um metros e dez centímetros (21,10m), norte (N); quatro metros e oitenta centímetros (4,80m), oeste (W); oito metros e dez centímetros (8,10m), norte (N); trinta e seis metros e trinta e cinco centímetros (36,35m), oeste (W); dezessete metros e oitenta centímetros (17,80m), norte (N); quatorze metros e cinqüenta centímetros (14,50m), este (E); quinze metros e dez centímetros (15,10m), norte (N); quarenta e um metros e noventa centímetros (41,90m), este (E); quinze metros e quarenta centímetros (15,40m), sul (S); trinta e sete metros e quarenta centímetros (37,40m), este (E); dezesseis metros e vinte centímetros (16,20m), sul (S); vinte e nove metros e quarenta centímetros (29,40m), este (E); dezesseis metros e vinte centímetros (16,20m) sul (S); vinte e nove metros e quarenta centímetros (29,40m), este (E); dezessete metros e oitenta centímetros (17,80m), sul (S); trinta metros e oitenta centímetros (30,80m), este (E); dezesseis metros e trinta centímetros (16,30m), sul (S); vinte e oito metros e dez centímetros (28,10m), este (E); doze metros e trinta centímetros (12,30m), sul (S); vinte e um metros e sessenta centímetros (21,60m), este (E); vinte e três metros e cinqüenta centímetros (23,50m), sul (S); oito metros (8m), este (E); quatorze metros (14m), sul (S); sete metros (7m), este (E); oito metros e oitenta centímetros (8,80m), sul (S); cinco metros e sessenta centímetros (5,60m), este (E); dezessete metros e trinta centímetros (17,30m), sul (S); treze metros e quarenta centímetros (13,40m), oeste (W); cinco metros (5m), sul (S); quarenta e quatro metros e oitenta e cinco centímetros (44,85m), oeste (W); seis metros (6m), norte (N); vinte metros e noventa centímetros (20,90m), oeste (W); cinco metros (5m), norte (N), doze metros e noventa centímetros (12,90m), oeste (W); seis metros e trinta centímetros (6,30m), norte (N); dez metros (10m), oeste (W); quatro e setenta centímetros (4,70m), norte (N); cinco metros e dez centímetros (5,10m), oeste (W); quatro metros e vinte centímetros (4,20m), norte (N); cinco metros (5m), oeste (W); três metros e oitenta centímetros (3,80m), norte (N); cinco metros (5m), oeste (W); três metros e quarenta e dois centímetros (3,42m), norte (N); cinco metros (5m), oeste (W); quatro metros e trinta centímetros (4,30m), norte (N); cinco metros (5m), oeste (W); quatro metros e trinta centímetros (4,30m), norte (N); cinco metros (5m), oeste (W); quatro metros (4m), norte (N); cinco metros (5m), oeste (W); três metros e trinta centímetros (3,30m), norte (N); cinco metros (5m), oeste (W); três metros e sessenta centímetros (3,60m), norte (N); cinco metros (5m), oeste (W); quatro metros e cinqüenta centímetros (4,50m), norte (N); cinco metros (5m), oeste (W); três metros e cinqüenta centímetros (3,50m), norte (N); cinco metros (5m), oeste (W); três metros e noventa centímetros (3,90m), norte (N); cinco metros (5m), oeste (W); três metros e cinqüenta centímetros (3,50m), norte (N); cinco metros (5m), oeste (W); três metros e oitenta centímetros (3,80m), norte (N); cinco metros (5m), oeste (W); o vértice nº 66 (sessenta e seis), situa-se a sete metros e treze centímetros (7,13m), no rumo verdadeiro de quarenta e quatro graus trinta minutos nordeste (44º30'NE); do centro da mesma ponte sôbre o Rio Piraporinha. Esta concessão é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas e 51 do Código de Mineração, além de outras constantes do mesmo Código, não expressamente mencionadas neste decreto.
+
+Parágrafo único. Esta concessão fica sujeita às estipulações do Regulamento aprovado pelo Decreto número 51.726 de 19 de fevereiro de 1963 e da Resolução nº 3 de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O concessionário fica obrigado a recolher aos cofres públicos, na forma da Lei, os tributos devidos à União, ao Estado e ao Município em cumprimento do disposto no Decreto-lei 1.038 de 21 de outubro de 1969.
+
+Art. 3º Se o concessionário não cumprir qualquer das obrigações que lhe incumbem a concessão para lavrar será declarada caduca ou nula, na forma dos artigos 65 e 66 do Código de Mineração.
+
+Art. 4º As propriedades vizinhas estão sujeitas às servidões do solo e subsolo para fins de lavra, na forma do artigo 59 do Código de Mineração.
+
+Art. 5º A concessão de lavra terá por título êste Decreto, que será transcrito no livro C - Registro dos Decretos de Lavra, do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
+
+Art. 6º Revogam-se as disposições em contrário.
+
+Brasília, 2 de julho de 1971; 150º da Independência e 83º da República.
+
+Emílio G. Médici
+
+Antônio Dias Leite Júnior
