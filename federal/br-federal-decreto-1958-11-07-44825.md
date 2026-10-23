@@ -1,0 +1,31 @@
+###DEC-044825-0-000-07-11-1958@@@
+
+<strong>DECRETO Nº 44.825, DE 7 DE NOVEMBRO DE 1958.</strong>
+
+<em><strong>Autoriza o a Companhia de cimento Brasileira a lavrar calcário no município de São Gabriel, Estado do Rio Grande do Sul.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o Companhia de cimento Brasileira a lavrar calcário no lugar denominado Palma, distrito de Suspiro, município de São Gabriel, Estado do Rio Grande do Sul, em três (3) áreas distintas perfazendo o total de quatrocentos e dois hectares noventa e cinco ares e onze centiares (402,9511 ha), e que assim de definem: a primeira (1ª), com cento e cinqüenta e oito hectares nove ares e vinte e quatro centiares (158,0924 ha), delimitada por um polígono irregular que tem um vértice a oitocentos e dezessete metros e oitenta e três centímetros (817,83 m) no rumo verdadeiro quarenta graus vinte e sete minutos sudeste (40º 27’ SE) do canto sudeste (SW) do cemitério da Palma e os lados, a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: quinhentos e cinqüenta e quatro metros (554 m), oitenta e sete graus nordeste (87º NE); trezentos e dezesseis metros sete centímetros (316,07 m), cinqüenta graus trinta e um minutos nordeste (50º 31’ NE); mil seiscentos e dezessete metros e cinqüenta centímetros (1.617,50), sessenta e dois graus quinze minutos sudeste (62º 15’ SE); oitocentos metros (800m), vinte e sete graus quarenta e cinco minutos nordeste (27º 45’ NE); quinhentos e sessenta e cinco metros (565 m), sessenta e dois graus e quinze minutos noroeste (62º 15’ NW); quatrocentos e cinqüenta metros (450 m), sessenta e dois graus nordeste (62º NE); setecentos e cinqüenta e quatro metros e oitenta e nove centímetros (754,89 m), quarenta graus trinta e nove minutos sudeste (40º 39’ SE); mil cento e trinta e seis metros (1.136 m), quarenta e seis graus dezoito minutos sudeste (46º 18’ SW); mil e setenta e nove metros e cinqüenta e sete centímetros (1.079,57m), oitenta graus trinta e um minutos sudoeste (80º 31’SW); mil quatrocentos e dois metros e cinqüenta centímetros (1.402,80 m), cinqüenta e um graus dezenove minutos noroeste (51º 19’ NW). A segunda (2ª) área com vinte e oito hectares noventa e três ares e quarenta e três centiares (28,9343 ha), é delimitada por um quadrilátero que tem um vértice no canto sudoeste (SW) do cemitério da Palma e os lados, a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: setecentos e vinte e um metros e noventa e seis centímetros (721,96 m), cinqüenta e sete graus quarenta e oito minutos sudoeste (57º 48’ SW); quinhentos e setenta e cinco metros (575 m); cinqüenta e dois graus quarenta e quatro minutos noroeste (52º 44’ NW); quinhentos e cinqüenta e sete metros e vinte e quatro centímetros (557,24 m), sessenta e nove graus vinte e nove minutos nordeste (69º 29’ NE); quinhentos e sessenta e nove metros e dez centímetros (569,10 m) três graus quarenta e cinco minutos sudeste (3º 45’ SE). a terceira (3ª) área, com duzentos e quinze hectares noventa e dois ares e quarenta e quatro centiares (215,9244 ha), é delimitada por  um polígono irregular que tem um vértice a dois mil quinhentos e cinqüenta e quatro metros e cinqüenta centímetros (2.554,50 m) no rumo verdadeiro dezoito graus cinqüenta e um minutos sudoeste (18º 51’ SW) do canto sudoeste (SW) do cemitério da Palma e os lados, a partir dêsse vértice , os seguintes comprimentos e rumos verdadeiros: mil novecentos e setenta e dois metros e cinqüenta e dois centímetros (1.972,52 m) quatro graus trinta e seis minutos sudoeste (4º 36’ SW); oitocentos e oitenta e seis metros e oitenta centímetros (886,80m), trinta e cinco graus vinte e nove minutos sudeste (35º 29’ SE); mil seiscentos e noventa e dois metros e setenta centímetros (1.692,70 m), dezenove graus vinte e cinco minutos nordeste (19º 25’ NE); mil cento e trinta e um metros e quinze centímetros  (1.131,15 m), oito graus trinta e seis minutos noroeste (8º 36’ NW); trezentos e oitenta e sete metros e dez centímetros (387,10 m) quatorze graus quarenta e sete minutos noroeste (14º 47’NW); setecentos e cinqüenta e seis metros e quarenta centímetros (756,40m), cinqüenta e oito graus cinco minutos sudoeste (58º 05’ SW). Esta autorização é outorgada mediante as condições constantes do parágrafo único do art. 28 do Código de Minas e dos arts. 32, 33, 34 e suas alíneas além das seguintes e de outras constantes do mesmo Código, não expressamente mencionadas neste Decreto.
+
+Parágrafo único. A execução da presente autorização, fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 30.230, de 1 de dezembro de 1951, uma se verifique a existência na jazida, como associados de qualquer das substâncias a que se refere ao art. 2º do citado Regulamento ou de outras substâncias discriminadas pelo conselho nacional de Pesquisas.
+
+<strong>Art</strong>. 2º O concessionário da autorização fica obrigado a recolher aos cofres públicos na forma da lei os tributos que forem devidos à União, ao Estado e ao Município, em cumprimento do disposto no art. 68 do Código de Minas.
+
+<strong>Art</strong>. 3º Se o concessionário da autorização não cumpre qualquer das obrigações que lhe incumbem a autorização de lavra será declarada caduca ou nula na forma dos arts. 37 e 38 do Código de Minas.
+
+<strong>Art</strong>. 4º As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma dos arts. 39 e 40 do Código de Minas.
+
+<strong>Art</strong>. 5º O concessionário da autorização será fiscalizado pelo Departamento Nacional da Produção Mineral e gozará dos favores discriminados no art. 71 do mesmo Código.
+
+<strong>Art</strong>. 6º A autorização de lavra terá por título êste Decreto, que será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura, após o pagamento da taxa de oito mil e sessenta cruzeiros (Cr$ 8.060,00).
+
+<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 7 de novembro de 1958; 137º da Independência e 70º da República.
+
+<strong>JUSCELINO KUBITSCHEK</strong>
+
+Mário Meneghetti
