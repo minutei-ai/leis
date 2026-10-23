@@ -1,0 +1,22 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=2397)
+
+# LEI Nº 11.469, DE 09 DE OUTUBRO DE 2003
+
+## ( PL 43/2002 - Governador)
+
+### _Autoriza o DER a transmitir, por cessão gratuita, ao Município de Nova Aliança, os direitos possessórios de faixa de terra que especifica._
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+**Artigo 1.º -** Fica o Departamento de Estradas de Rodagem - DER autorizado a transmitir, por cessão gratuita, ao Município de Nova Aliança, os direitos possessórios que detém sobre faixa de terra com benfeitorias de terraplenagem e pavimentação, com área de 48.000m2, situada na Rodovia SP-355 (Nova Aliança-Nova Itapirema) entre os kms 15 e 16+600m, para fins de utilização como via pública.<br>
+**Artigo 2.º -** O imóvel a que se refere o artigo anterior, caracterizado em desenho constante do Processo nº 229.179/2000-DER, assim se descreve e confronta: inicia no ponto 1, junto a divisa de José Bonomo com a Rua Botardi, daí segue com rumo de 12º00’01”SE e distância de 543,37m (quinhentos e quarenta e três metros e trinta e sete centímetros) até o ponto 2; confrontando do ponto 1 ao ponto 2 com José Bonomo, Belmiro Vieira, Rodoviária, Rua José Fagliari, Área Municipal, Rua Felício Hellu, Área Municipal (praça), Rua Jorge Pitão, Área Municipal, Rua Etori Zafalão e parte de Milton Pereira dos Santos, daí segue em curva com raio de 784,50m (setecentos e oitenta e quatro metros e cinqüenta centímetros) e desenvolvimento de 716,33m (setecentos e dezesseis metros e trinta e três centímetros) até o ponto 3; confrontando do ponto 2 ao ponto 3 com parte de Milton Pereira dos Santos, Alberto Mitio Hosaki, Leonisio Traldi, Loteamento (Lina Maria Alves da Silva Theodoro) e parte de Ovídio Tamelini, daí segue com rumo de 40º19’59”SW e distância de 326,38m (trezentos e vinte e seis metros e trinta e oito centímetros) até o ponto 4; confrontando do ponto 3 ao ponto 4 com Ovídio Tamelini, daí segue com rumo de 49º40’01”SE e distância de 30m (trinta metros) até o ponto 5; confrontando do ponto 4 ao ponto 5 com faixa de domínio do Departamento de Estradas de Rodagem, daí segue com rumo de 40º19’59”NE e distância de 326,38m (trezentos e vinte e seis metros e trinta e oito centímetros) até o ponto 6; confrontando do ponto 5 ao ponto 6 com Francisco de Freitas, daí segue em curva com raio de 814,50m (oitocentos e quatorze metros e cinqüenta centímetros) e desenvolvimento de 743,72m (setecentos e quarenta e três metros e setenta e dois centímetros) até o ponto 7; confrontando do ponto 6 ao ponto 7 com parte de Francisco de Freitas, Luis Antonio Oporini, Subestação de Alta Tensão (Prefeitura Municipal), Cemitério e parte de Joaquim de Souza, daí segue com rumo de 12º00’01”NW e distância de 543,37m (quinhentos e quarenta e três metros e trinta e sete centímetros) até o ponto 8; confrontando do ponto 7 ao ponto 8 com parte de Joaquim de Souza, Loteamento (Joaquim de Souza), Rua 13 de Maio, Guerino Dezani, Igreja Pentecostal, Antonio Brentam, Marilza Ragazzi, Carmem Tomiko Hosaki, Rosinei Elizabete Lopes, Luis Antonio Camarotto, Antonio José Francisco, Daniel Vaz de Freitas, Wilson Perin, João Antonio Fabel e Antonio Cecchini, daí segue com rumo de 77º59’59”SW e distância de 30m (trinta metros) até o ponto 1, onde iniciou o referido perímetro; confrontando do ponto 8 ao ponto 1 com a Rua Botardi, Nova Aliança, encerrando área de 48.000m2 (quarenta e oito mil metros quadrados).<br>
+**Artigo 3.º -** Caberá ao Município de Nova Aliança providenciar a regularização do domínio da faixa de terra de que trata o Artigo 1.º, sem quaisquer ônus para o cedente.<br>
+**Artigo 4.º -** Da escritura deverão constar cláusulas, termos e condições que assegurem a efetiva utilização do imóvel para o fim a que se destina e impeçam sua transferência a qualquer título, estipulando- se que, em caso de inadimplemento, será o contrato rescindido, independentemente de indenização pelas benfeitorias realizadas.<br>
+**Artigo 5.º -** Esta lei entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 9 de outubro de 2003.<br>
+GERALDO ALCKMIN<br>
+Dario Rais Lopes<br>
+Secretário dos Transportes<br>
+Arnaldo Madeira<br>
+Secretário-Chefe da Casa Civil<br>
+Publicada na Assessoria Técnico-Legislativa, aos 9 de outubro de 2003.

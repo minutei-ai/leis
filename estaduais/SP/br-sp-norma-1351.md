@@ -1,0 +1,23 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=1351)
+
+# LEI Nº 11.277, DE 16 DE DEZEMBRO DE 2002
+
+## (PL 468/2002 - Governador)
+
+### _Autoriza a Fazenda do Estado a alienar, mediante venda, ao Município de Batatais, o imóvel que especifica_
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+**Artigo 1.º -** Fica a Fazenda do Estado autorizada a alienar, ao Município de Batatais, mediante venda e por preço não inferior ao da avaliação atualizada, imóvel situado naquela municipalidade, com 129.911,9924m2 (cento e vinte e nove mil, novecentos e onze metros quadrados e nove mil, novecentos e vinte e quatro decímetros quadrados), parte de área maior da Fazenda Santa Inês, destinado à implantação de distrito industrial.<br>
+**Artigo 2.º -** O imóvel, a que se refere o artigo anterior, devidamente caracterizado na Planta constante do Processo nº 5834/02-PGE, assim se descreve e confronta:<br>
+inicia no marco nº 1, no mourão de concreto da cerca divisória da própria área levantada, com a COLABA, de onde parte um alinhamento reto com d=280m (duzentos e oitenta metros) e AZd=271º00’00”, até encontrar o marco nº 2; confrontando até aqui com a COLABA; daí segue outro alinhamento reto com d=249,50m (duzentos e quarenta e nove metros e cinqüenta centímetros) e AZd=186º30’00”, até encontrar o marco nº 3, confrontando agora com a própria propriedade; daí parte outro alinhamento reto com d=79,20m (setenta e nove metros e vinte centímetros) e AZd=91º51’30”, até encontrar o marco nº 4; daí parte outro alinhamento reto com d=145,60m (cento e quarenta e cinco metros e sessenta centímetros) e AZd=182º42’05”, até chegar no marco nº 5; daí parte outro alinhamento reto com d=80,50m (oitenta metros e cinqüenta centímetros) e AZd=251º26’55”, até encontrar o marco nº 6; daí parte um alinhamento reto com d=84,20m (oitenta e quatro metros e vinte centímetros) e AZd=267º27’07”, até encontrar o marco nº 7; daí parte outro alinhamento reto com d=401,35m (quatrocentos e um metros e trinta e cinco centímetros) e AZd=245º58’12”, até encontrar o marco nº 8, confrontando até aqui com a própria propriedade; daí parte outro alinhamento reto com d=59,75m (cinqüenta e nove metros e setenta e cinco centímetros) e AZd=122º12’15”, confrontando agora com a Rodovia Altino Arantes, até chegar no marco nº 9; daí segue outro alinhamento reto com d=62,75m (sessenta e dois metros e setenta e cinco centímetros) e AZd=127º48’00”, até encontrar o marco nº 10; confrontando até aqui com a Rodovia Altino Arantes; daí parte outro alinhamento reto com d=565,30m (quinhentos e sessenta e cinco metros e trinta centímetros) e AZd=63º09’02”, até encontrar o marco nº 11; confrontando agora com a Estrada Municipal Vereador Ariovaldo Mariano Gera; daí segue outro alinhamento reto com d=25m (vinte e cinco metros) e AZd=55º44’26”, até encontrar o marco nº 12; daí parte novo alinhamento reto com d=26m (vinte e seis metros) e AZd=47º51’07” até chegar no marco nº 13; daí segue outro alinhamento reto com d=24m (vinte e quatro metros) e AZd=33º06’08”, até encontrar o marco nº 14; daí segue um alinhamento reto com d=49,50m (quarenta e nove metros e cinqüenta centímetros) e AZd=19º40’25”, até encontrar o marco nº 15; daí segue outro alinhamento com d=315m (trezentos e quinze metros) e AZd=16º46’21”, confrontando até aqui com a Estrada Municipal Vereador Ariovaldo Mariano Gera, e até encontrar o marco nº 1; início desta descrição perimétrica, totalizando uma área=129.911,9924m2 (cento e vinte e nove mil, novecentos e onze metros quadrados e nove mil, novecentos e vinte e quatro decímetros quadrados), ou 12,9912ha.<br>
+**Artigo 3.º -** O Município de Batatais assumirá a responsabilidade de prover o acesso do restante da propriedade à Estrada Municipal Vereador Ariovaldo Mariano Gera, bem como observar as normas prescritas na [Lei nº 1.541, de 2 de janeiro de 1978](https://www.al.sp.gov.br/norma/30111).<br>
+**Artigo 4.º -** A Fazenda do Estado adotará as medidas necessárias ao atendimento dos objetivos desta lei, em especial as pertinentes à regularização dos documentos cadastrais e imobiliários, em decorrência do desmembramento da área maior, e à avaliação que considere a vocação industrial do imóvel.<br>
+**Artigo 5.º -** Esta lei entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 16 de dezembro de 2002<br>
+GERALDO ALCKMIN<br>
+Rubens Lara<br>
+Secretário-Chefe da Casa Civil<br>
+Dalmo Nogueira Filho<br>
+Secretário do Governo e Gestão Estratégica<br>
+Publicada na Assessoria Técnico-Legislativa, aos 16 de dezembro de 2002.
