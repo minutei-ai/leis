@@ -1,0 +1,21 @@
+###DEC-061284-0-000-05-09-1967@@@
+
+decreto nº 61.284, de 5 de setembro de 1967.
+
+Retifica o Decreto nº 58.698, de 22 de junho de 1966.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 83, inciso II da Constituição, e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+Decreta:
+
+Art. 1º Fica retificado o artigo primeiro (1º) do Decreto número cinqüenta e oito mil seiscentos e noventa e oito (58.698), de vinte e dois (22) de junho de mil novecentos e sessenta e seis (1966), outorgado a ICOMINAS S. A. – Emprêsa de Mineração, de que é cessionária Minerações Brasileiras Reunidas S. A. por fôrça da averbação lançada às fls 253 do livro C-8-P da Divisão de Fomento da Produção Mineral do Ministério das Minas e Energia que passa a ter a seguinte redação. Fica autorizada Minerações Brasileiras Reunidas S. A. a lavrar minério de ferro, no lugar denominado Tejuco distrito e município de Brumadinho, Estado de Minas Gerais numa área de quatorze hectares noventa e nove ares (14.99 ha), delimitada por um polígono irregular que tem um vértice a trezentos e trinta e um metros e treze centímetros (331.13m) no rumo verdadeiro de trinta e cinco graus e cinqüenta e cinco minutos nordeste (35º 55’ NE) do alto da tôrre da igreja do Arraial de Tejuco e os lados a partir do vértice considerado, têm os seguintes comprimentos e rumos verdadeiros: duzentos e setenta e seis metros e oitenta centímetros (276.80m) quatro graus e cinqüenta minutos nordeste (4º 50’ NE); duzentos e sessenta e um metros (261m), vinte e nove graus e vinte e dois minutos noroeste (29º 22’ NW); cento e cinqüenta e cinco metros (155m), setenta e três graus e vinte minutos sudoeste (73º 20’ SW); cento e setenta metros (170m), sessenta e cinco graus e cinqüenta minutos sudoeste (65º 50’ SW); cento e quarenta metros (140m), onze graus e quarenta minutos sudeste(11º 40’ SE); duzentos de dezenove metros (219m), oitenta e oito graus e vinte e seis minutos noroeste (88º 26’ NW); trinta e seis metros (36m), um grau e quarenta e cinco minutos sudoeste(1º 45’ SW); cento e quarenta e quatro metros e cinqüenta centímetros (144,50m); oitenta e quatro graus e vinte minutos sudoeste (84º 20’ SW); trinta e oito metros e setenta centímetros (38,70m), cinqüenta e oito graus e quarenta e quatro minutos sudeste(58º 44’ SE); setenta e um metros e noventa centímetros (71,90m), sessenta e nove graus e trinta minutos nordeste (69º 30’ NE); setenta e seis metros e trinta centímetros (76,30m), setenta e seis graus e trinta e cinco minutos sudeste (76º 35’ SE); vinte e quatro metros e noventa centímetros (24,90m), dezenove graus e quarenta e seis minutos sudeste (19º 46’ SE); cinqüenta e nove metros e seis centímetros (59,06m), oitenta graus cinqüenta e nove minutos nordeste (80º 59’ NE); trinta e dois metros trinta centímetros (32,30m), sessenta e um graus e cinqüenta e três minutos sudeste (61º 53’ SE); oitenta e três metros (83m), sessenta e quatro graus e cinqüenta e nove minutos nordeste (64º 59’ NE); noventa metros e cinqüenta e cinco centímetros (90,55m), oitenta e três graus e vinte e cinco minutos sudeste (83º 25’ SE); cento e quinze metros e dez centímetros (115,10m) quarenta e três graus e trinta e nove minutos sudeste (43º 39’ SE); cinqüenta e sete metros (57m), setenta e quatro graus e quarenta minutos nordeste (74º 40’ NE); quarenta metros e cinqüenta e cinco centímetros (40,55m) cinqüenta e sete graus e quarenta e cinco minutos sudeste (57º 45’ SE); sessenta metros e dezessete centímetros (60,17m), setenta graus e dez minutos sudeste (70º 10’ SE); setenta e seis metros e dez centímetros (76,10m), vinte graus e onze minutos sudeste (20º 11’ SE); o vigésimo segundo (22º) lado é o segmento retilíneo que une a extremidade do vigésimo primeiro (21º) descrito, ao vértice de partida, início do primeiro (1º) lado.
+
+Art. 2º A presente retificação de decreto não fica sujeita ao pagamento da taxa prevista pelo Código de Minas e será transcrita no livro próprio de Registro das Autorizações de Pesquisa.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 5 de setembro de 1967; 146º da Independência e 79º da República.
+
+A. Costa e Silva
+
+José Costa Cavalcanti
