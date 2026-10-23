@@ -1,0 +1,23 @@
+###DEC-048335-0-000-21-06-1960@@@
+
+DECRETO Nº 48.335, DE 21 DE JUNHO DE 1960.
+
+Retifica o art. 1º do Decreto-lei nº 46.735, de 26 de agôsto de 1959.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+Decreta:
+
+Art. 1º Fica retificado o art. 1º do Decreto nº 46.735, de 26 de agôsto de 1959, que passa a ter a seguinte redação: Fica autorizado o cidadão brasileiro Ermelindo Matarazzo a lavrar talco, serpentina e dolomita, em terrenos devolutos e propriedade de S.A. de Cimento, Mineração e Cabotagem “Cimimar”, no lugar denominado Boa Vistinha, distrito de Abapã, município de Castro, Estado do Paraná, numa área de quatrocentos e cinqüenta e sete hectares (457ha) delimitada por um polígono irregular que tem um vértice na confluência do córrego Divisa no ribeirão Boa Vista e os lados a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: mil duzentos e vinte e um metros (1.221m), quarenta e um graus e cinqüenta e três minutos sudoeste (41º53’SW); quinhentos e dez metros (510m), quarenta e quatro graus e dezenove minutos noroeste (44º19’NW); dois mil e quatrocentos metros (2.400m), um grau nordeste (1º00’NE); dois mil cento e oitenta metros (2.180m), quarenta e quatro graus e quinze minuto nordeste(44º15’NE); novecentos e vinte e cinco metros (925m), setenta graus e vinte minutos sudeste (70º20’SE); mil duzentos e sessenta metros (1.260m), nove graus e quarenta e sete minutos sudeste (9º47’SE); mil seiscentos e cinqüenta e nove metros e vinte e seis centímetros (1.659,26m), quarenta e quatro graus e vinte e nove minutos sudoeste (44º29’SW); mil cento e setenta e seis metros e oitenta e cinco centímetros (1.176,85m), nove graus e quarenta e sete minutos noroeste (9º47’NW); cento e trinta e nove metros e oitenta centímetros (139,80m), cinqüenta e sete graus e quarenta e sete minutos noroeste (57º47’NW); cento e quarenta e sete metros e cinqüenta e cinco centímetros (147,55m), cinqüenta e seis graus e vinte e seis minutos noroeste (56º26’NW); doze metros e trinta e sete centímetros (12,37m), quarenta e três graus e cinqüenta e cinco minutos noroeste (43º55’NW); cento e dois metros e trinta centímetros (102,30m), cinqüenta e dois graus e um minuto sudoeste (52º01’SW); noventa metros e cinqüenta e cinco centímetros (90’55m), setenta e cinco graus e vinte e um minutos sudoeste (75º21’SW); sessenta e seis metros e sessenta e sete centímetros (66,67m), dezoito graus e cinqüenta e um minutos sudoeste (18º51’SW); trinta e três metros e cinqüenta e cinco centímetros (33,55m), vinte graus e um minutos sudoeste (20º01’SW); noventa e nove metros e dez centímetros (99,10m), dezesseis graus e vinte e dois minutos sudoeste (16º22’SE); vinte e sete metros e quarenta centímetros (27,40m), dezessete graus e vinte e sete minutos sudeste (17º27’SE); cento e trinta e sete metros e quarenta centímetros (137,40m), quarenta e três graus e quatro minutos sudoeste (43º04’SW); setenta metros e trinta centímetros (70,30m), vinte e seis graus e cinqüenta e cinco minutos sudeste (26º55’SE); oitenta e oito metros e oitenta e cinco centímetros (88,85m), vinte e seis graus e vinte e um minutos sudeste (26º21’SE); oitenta e sete metros e cinqüenta e cinco centímetros (87,55m), vinte e cinco graus e vinte e seis minutos sudeste (25º26’SE); trinada e seis metros e setenta centímetros (36.70m), vinte graus e quinze minutos sudoeste (20º15’SW); quatrocentos e cinco metros e trinta centímetros (405,30m), cinqüenta e um graus e cinqüenta e quatro minutos (51º54’SE). Esta autorização é outorgada mediante as condições constantes do parágrafo único do art. 28 do Código de Minas e dos arts. 32, 33, 34 e suas alíneas, além das seguintes e de outras constantes do mesmo Código, não expressamente mencionados neste Decreto.
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 30.230, de 1 de dezembro de 1951, uma vez se verifique a existência na jazida, como associado de qualquer das substâncias a que se refere o art. 2º do citado Regulamento ou de outras substâncias discriminadas pelo Conselho Nacional de Pesquisas.
+
+Art. 2º A presente retificação de decreto não fica sujeita ao pagamento da taxa prevista pelo Código de Minas e será transcrita no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 21 de junho de 1960; 139º da Independência e 72º da República.
+
+JUSCELINO KUBITSCHEK
+
+Antônio Barros Carvalho

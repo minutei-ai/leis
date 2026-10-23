@@ -1,0 +1,23 @@
+###DEC-047647-0-000-15-01-1960@@@
+
+DECRETO Nº 47.647, DE 15 DE JANEIRO DE 1960.
+
+Autorizo o cidadão brasileiro Abelardo Sales Siqueira a pesquisar fosforita no município de Paulista, Estado de Pernambuco.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+Decreta:
+
+Art. 1º Fica autorizado o cidadão brasileiro Abelardo Sales Siqueira, como administrador do imóvel em condomínio, a pesquisar fosforita em terrenos de sua propriedade e do espólio de Francisca Sales Siqueira no imóvel denominado Fazendinha Canoas, distrito e município de Paulista, Estado de Pernambuco, numa área de vinte e nove hectares trinta e seis ares e seis centiares (29,3606ha), delimitada por um polígono irregular, que tem um vértice a trinta e três metros e doze centímetros (33,12m), no rumo magnético de quarenta graus vinte e oito minutos sudeste (40º28’SE), do marco quilométrico número dezenove (km19), da rodovia BR-11, no trecho entre Paulista e Abreu Lima e os lados a partir dêsse vértice, os seguintes comprimentos e rumos magnéticos: trinta e sete metros e setenta e um centímetros (37,71m), vinte e três graus noroeste (23ºNW); cento e oito metros e vinte e dois centímetros (108,22m); quarenta e oito graus nordeste (48ºNE); dezessete metros sessenta e seis centímetros (17,66m), setenta e sete graus sudeste (77ºSE); trinta e um metros e cinqüenta e oito centímetros (31,58m), oitenta graus cinqüenta e cinco minutos nordeste (80º55’NE); noventa e quatro metros dois centímetros (94,02m), oitenta graus vinte e cinco minutos nordeste (80º25’NE); cento e quarenta metros e quarenta e dois centímetros (140,42m), oitenta e sete graus trinta e três minutos nordeste (87º 33’NE); oitenta e dois metros sete centímetros (82,07m), sessenta e um graus trinta e três minutos nordeste (61º33’NE); noventa e três metros e sessenta e cinco centímetros (93,65m), oitenta graus três minutos nordeste (80º03’NE); cento e vinte e um metros e dezessete centímetros (121,17m), setenta e seis graus quarenta e três minutos nordeste (76º43’NE); cinqüenta e quatro metros vinte e seis centímetros (54,26m), sessenta graus doze minutos nordeste (60º12’NE); sessenta metros noventa e oito centímetros (60,60m), quarenta graus dezoito minutos sudeste (40º18’SE); quarenta e um metros noventa e oito centímetros (41,98m), vinte e três graus quarenta e oito minutos sudeste (22º48’SE); cento e dezessete metros oitenta e oito centímetros (117,88m), quatro graus vinte e cinco minutos sudeste (4º25’SE); duzentos e seis metros (206m), cinqüenta e quatro graus quarenta e quatro minutos sudeste (54º44’SE); oitenta e seis metros e sessenta centímetros (86,60m), quatorze graus quatorze minutos sudeste (14º14’SE); vinte e quatro metros e setenta centímetros (24,70m), oitenta e oito graus dezessete minutos sudoeste (88º17’SW); vinte metros (20m), setenta e oito graus seis minutos sudoeste (78º 06’SW); noventa e quatro metros setenta e seis centímetros (94,76m), sessenta e um graus cinqüenta e cinco minutos sudoeste (61º55’SW); cento e três metros trinta e quatro centímetros (103,34), setenta e oito graus cinqüenta e cinco minutos sudoeste (78º55’SW); setenta e oito graus e seis minutos sudoeste (78º06’SW); vinte e cinco metros e noventa e quatro centímetros (25,94m), oitenta e três graus cinqüenta e cinco minutos noroeste (83º55’NW); noventa e seis metros trinta e três centímetros (96,33m), oitenta e sete graus quinze minutos sudoeste (87º15’SW); cinqüenta e cinco metros quatro centímetros (55,04m), setenta e sete graus vinte e cinco minutos noroeste (77º25’NW); duzentos e oitenta e nove metros e vinte e cinco centímetros (289,25m), setenta e nove graus vinte minutos noroeste (79º20’NW); duzentos e trinta e seis metros sessenta e quatro centímetros (236,64m), vinte e três graus noroeste (23ºNW).
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 30.230, de 1 de dezembro de 1951, uma vêz se verifique a existência na jazida, como associado de qualquer das substâncias a que se refere o art. 2º do citado Regulamento ou de outras substâncias discriminadas pelo Conselho Nacional de Pesquisas.
+
+Art. 2º O titulo da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00) e será válido por dois (2) anos a contar da data da transcrição no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 15 de janeiro de 1960; 139º da Independência e 72º da República.
+
+Juscelino Kubitschek
+
+Mário Meneghetti

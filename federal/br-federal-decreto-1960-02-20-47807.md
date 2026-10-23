@@ -1,0 +1,21 @@
+###DEC-047807-0-000-20-02-1960@@@
+
+DECRETO Nº 47.807, DE 20 DE FEVEREIRO DE 1960.
+
+Outorga concessão à Rádio Rural de Concórdia Limitada para instalar uma estação radiodifusora.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Rural de Concórdia Limitada e tendo em vista o disposto o disposto no art. 5º, número XII, da mesma Constituição,
+
+decreta:
+
+Art. 1º Fica outorgada concessão à Rádio Rural de Concórdia Limitada, nos têrmos do art. 11 de Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Concórdia, Estado de Santa Catarina, sem direito de exclusividade, uma estação de ondas médias, destinada a executar serviços de radiodifusão.
+
+Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no Diário Oficial, sob pena de ficar saem efeito, desde logo, o mesmo decreto.
+
+Art. 2º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 20 de fevereiro de 1960; 139º da Independência e 72º da República.
+
+JUSCELINO KUBITSCHEK
+
+Ernani do Amoral Peixoto
