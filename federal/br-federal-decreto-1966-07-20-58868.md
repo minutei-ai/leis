@@ -1,0 +1,25 @@
+###DEC-058868-0-000-20-07-1966@@@
+
+DECRETO Nº 58.868, DE 20 DE JULHO DE 1966.
+
+Abre crédito suplementar ao Ministério da Fazenda para atender a despesas com pensionistas e inativos.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o item I do artigo 87 da Constituição Federal e usando a autorização contida no artigo 13 da Lei nº 4.900, de 10 de dezembro de 1965, combinada com o disposto nos artigos 7 item I, 42 e 43 da Lei nº 4.320, de 17 de março de 1964,
+
+DECRETA:
+
+Art. 1º É aberto ao Ministério da Fazenda, o crédito suplementar da importância de Cr$12.350.000.000 (doze bilhões, trezentos e cinqüenta milhões de cruzeiros), a fim de atender encargos classificados na Lei nº 4.900, de 10 de dezembro de 1965, como segue:
+
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">4.07.22</span></p></td><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Diretoria da Despesa Pública (Encargos Gerais).</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3.0.0.0</span></p></td><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Despesas Correntes.</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3.2.0.0</span></p></td><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Transferências correntes.</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3.2.4.0</span></p></td><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Pensionistas.</span></p></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">02-00</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Abono provisório e novas pensões....................................</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Header" style="text-indent:0pt; text-align:right; line-height:12pt"><span>350.000.000</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">03-00</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Outras pensões..................................................................</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">12.000.000.000</span></p></td></tr></tbody></table>
+
+Art. 2º O crédito suplementar de que trata o artigo 1º será registrado pelo Tribunal de Contas da União e distribuído automaticamente ao Tesouro Nacional.
+
+Art. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 20 de julho de 1966; 145º da Independência e 78º da República.
+
+H. CASTELLO BRANCO
+
+Octávio Bulhões

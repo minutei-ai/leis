@@ -1,0 +1,17 @@
+###DEC-058964-0-000-01-08-1966@@@
+
+DECRETO Nº 58.964, DE 1 DE AGÔSTO DE 1966.
+
+Concede à Cal Paranáminas Limitada autorização para funcionar como emprêsa de mineração.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o que dispõe o Decreto nº 938, de 8 de dezembro de 1938,
+
+decreta:
+
+Artigo único. É concedida à Cal Paranáminas Limitada, constituída por contrato social de 10 de setembro de 1965, arquivado sob número 377.332, na Junta Comercial do Estado de São Paulo, com sede na Cidade de São Paulo, autorização para funcionar como emprêsa de mineração, ficando obrigada a cumprir integralmente as leis e regulamentos em vigor ou que venham a vigorar sôbre o objeto desta autorização.
+
+Brasília, 1 de agôsto de 1966; 145º da Independência e 78º da República.
+
+H. Castello Branco
+
+Mauro Thibau

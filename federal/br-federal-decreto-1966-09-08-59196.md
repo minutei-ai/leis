@@ -1,0 +1,23 @@
+###DEC-059196-0-000-08-09-1966@@@
+
+DECRETO Nº 59.196, DE 8 DE SETEMBRO DE 1966.
+
+Reajusta a retribuição da Diretoria da Comissão do Plano do Carvão Nacional, nas condições que especifica.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que consta da Exposição de Motivos nº 216, de 19 de maio de 1966, do Departamento Administrativo do Serviço Público,
+
+decreta:
+
+Art. 1º As Gratificações Especiais de que trata o Decreto nº 54.367, de 1º de outubro de 1964, serão pagas de acôrdo com a seguinte Tabela:
+
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:9pt"><td rowspan="2" style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Denominação</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Das</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Funções</span></p></td><td colspan="3" style="width:213.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALÔRES MENSAIS</span></p></td></tr><tr style="height:9pt"><td style="width:72.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>A partir</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.1.66</span></p></td><td style="width:63.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>A partir</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.7.66</span></p></td><td style="width:63.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>A partir</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.10.66</span></p></td></tr><tr style="height:9pt"><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>Presidente....................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Vice-Presidente............................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretores.......................................................</span></p></td><td style="width:72.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cr$</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>563.000</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>529.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>495.000</span></p></td><td style="width:63.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cr$</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>584.000</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>549.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>514.000</span></p></td><td style="width:63.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cr$</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>609.000</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>572.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>536.000</span></p></td></tr></tbody></table>
+
+Art. 2º Serão deduzidas das gratificações a serem pagas, de acôrdo com a tabela ora aprovada, com referência aos meses vencidos do corrente exercício as importâncias no mesmo período percebidas pelos dirigentes da Comissão do Plano do Carvão Nacional, de acôrdo com o Decreto nº 54.367, de 1º de outubro de 1964.
+
+Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 8 de setembro de 1966; 145º da Independência e 78º da República.
+
+H. Castello Branco
+
+Mauro Thibau
