@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1967-06-30-60924"
-titulo: "Decreto nº 60.924 de 30/06/1967"
-data: "1967-06-30"
-fonte: "https://normas.leg.br/api/public/binario/91001428-fa15-4b9d-b808-13a74ae96239/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1967-06-30;60924"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1967-06-30%3B60924&tipo_documento=maior-detalhe"
-sha256_dados: "2ca683e77596dbf8e8e2211df95dd16e1b9b4d4f55505f633fc7a3e169c09933"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T02:39:02.873Z"
-sha256_fonte: "01b83f2fd92c2ed25e77d8a822513edeafd505d579f07a03ba301c4fce480507"
-sha256_markdown: "206e443963c05e5df8cc6a65ce8140bd556489476bf0a76424b51470d904a251"
----
-
-# Decreto nº 60.924 de 30/06/1967
-
 ###DEC-060924-0-000-30-06-1967@@@
 
 decreto Nº 60.924, DE 30 DE JUNHO DE 1967.

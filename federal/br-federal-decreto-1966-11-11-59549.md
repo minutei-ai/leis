@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1966-11-11-59549"
-titulo: "Decreto nº 59.549 de 11/11/1966"
-data: "1966-11-11"
-fonte: "https://normas.leg.br/api/public/binario/f5bb70a4-92da-44a9-8883-4a4d3cedbaf8/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1966-11-11;59549"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1966-11-11%3B59549&tipo_documento=maior-detalhe"
-sha256_dados: "54b3e2efb3fb71fce6fd2d792b3d74d2aafb4c4ae41fbfc8a5e2e4eb51bc93b2"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T08:27:36.880Z"
-sha256_fonte: "7f93a93d65b29da79ba56023de64dd5145533bd4018cdb28927aaf6112ec30d2"
-sha256_markdown: "46e3f84d1597918131873c7144c538aecae914fd621479c57df6c04d954503ec"
----
-
-# Decreto nº 59.549 de 11/11/1966
-
 ###DEC-059549-0-000-11-11-1966@@@
 
 DECRETO Nº 59.549, DE 11 DE NOVEMBRO DE 1966.

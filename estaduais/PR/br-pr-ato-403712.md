@@ -1,19 +1,3 @@
----
-id: "br-pr-ato-403712"
-titulo: "Lei 23.414 - 20 de agosto de 2026"
-data: "2026-08-20"
-fonte: "https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibirImpressao&codAto=403712&tipoVisualizacao=compilado"
-versao: "texto compilado disponibilizado pela Casa Civil do Paraná"
-dados: "https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibirImpressao&codAto=403712&tipoVisualizacao=compilado"
-sha256_dados: "83233038371cfc627090f3f93fa904c6527eb5707f531602e29edcf35ba6e580"
-anexos: [{"id":"82621","fonte":"https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=abrirAnexo&codArquivoAnexado=82621","formato":"pdf","extrator":"pr-pdf-82621-v1","paginas":3,"sha256_fonte":"945d3739e8d294de6ea659e4e6f25c15db898487eecaff82dec1e081de903db0","sha256_html":"d82a55f7b3c14f383d298d0bb820cd7939a07f1363e55fdf2cd0f8bb0e9ec115","sha256_markdown":"80bc2c6642c0d659dd06a5485770594e6695c457904302a6426999cc439568b5"}]
-coletado_em: "2026-10-23T12:24:20.606Z"
-sha256_fonte: "8281d1f81c41bf87094c5e2ae1cfc14edf3654a611a480e6565eab55f0774ec6"
-sha256_markdown: "b974a29f7cd1fc812040b1b0c88ffab3396630985d7a3ac503aaeb88684ac613"
----
-
-# Lei 23.414 - 20 de agosto de 2026
-
 ### Lei 23.414 - 20 de agosto de 2026
 
 Publicado no [Diário Oficial nº. 12212](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=17223&numero=12212) de 20 de Agosto de 2026

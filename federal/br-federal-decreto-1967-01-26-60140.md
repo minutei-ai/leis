@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1967-01-26-60140"
-titulo: "Decreto nº 60.140 de 26/01/1967"
-data: "1967-01-26"
-fonte: "https://normas.leg.br/api/public/binario/f6086854-2411-4e51-89bc-18da9ec5eaa3/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1967-01-26;60140"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1967-01-26%3B60140&tipo_documento=maior-detalhe"
-sha256_dados: "9b9eec4755a289a2bbe9f78d1d62c9d52c2ea272009298346f8726db2ea8b03c"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T08:14:32.952Z"
-sha256_fonte: "9665533209169cd716012f22221e8770a3ae132a24626ea6ebd7c807f19981ec"
-sha256_markdown: "32f229592720b63e27130a51608741c997b1362065aaf0519dd52867bcd1dafc"
----
-
-# Decreto nº 60.140 de 26/01/1967
-
 ###DEC-060140-0-000-26-01-1967@@@
 
 DECRETO Nº 60.140, DE 26 DE JANEIRO DE 1967.

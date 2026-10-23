@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1967-12-08-61878"
-titulo: "Decreto nº 61.878 de 08/12/1967"
-data: "1967-12-08"
-fonte: "https://normas.leg.br/api/public/binario/466f6efd-7624-42c8-af20-c68379b50aff/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1967-12-08;61878"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1967-12-08%3B61878&tipo_documento=maior-detalhe"
-sha256_dados: "5cb295cfd630ef8e35eb432255138b06e30953482f50284c698e10ed9efc473d"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T02:18:14.623Z"
-sha256_fonte: "e31121fc709d50e7f27a41324d72fb1a6ee3396c4ef2c4c163a495a5eac2e4d8"
-sha256_markdown: "97b4aa75ce4250b395d6d8d4b8861ed97d33c34beda308b3556b3c72de5e3710"
----
-
-# Decreto nº 61.878 de 08/12/1967
-
 ###DEC-061878-0-000-08-12-1967@@@
 
 DECRETO Nº 61.678, DE 8 DE DEZEMBRO DE 1967.

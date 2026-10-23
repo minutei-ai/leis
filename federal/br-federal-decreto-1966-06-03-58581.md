@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1966-06-03-58581"
-titulo: "Decreto nº 58.581 de 03/06/1966"
-data: "1966-06-03"
-fonte: "https://normas.leg.br/api/public/binario/796cce62-1f83-4f41-a537-79c5a548c2a6/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1966-06-03;58581"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1966-06-03%3B58581&tipo_documento=maior-detalhe"
-sha256_dados: "1c4ed25374ad540a24dd5edb10fb463419dc7a28bcdfb3802d39a93969e34639"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T08:48:55.460Z"
-sha256_fonte: "740d3a3aa2de7170383d6b55e0ae3f9a8c36de4b0ce0ae71fd6ff0679b5b6a1d"
-sha256_markdown: "96b2a4c775d0b716bacdc278e86772e98ed902c13f180f42c1c5b67aa045538e"
----
-
-# Decreto nº 58.581 de 03/06/1966
-
 ###DEC-058581-0-000-03-06-1966@@@
 
 DECRETO Nº 58.581, DE 3 DE JUNHO DE 1966.

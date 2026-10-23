@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1966-11-01-59442"
-titulo: "Decreto nº 59.442 de 01/11/1966"
-data: "1966-11-01"
-fonte: "https://normas.leg.br/api/public/binario/c600e306-aa41-4550-b4c8-82d8f8eaa1e7/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1966-11-01;59442"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1966-11-01%3B59442&tipo_documento=maior-detalhe"
-sha256_dados: "1a7f2f8ea34091550fa3a0c993ddbcdc74785c26c5eb1fbfad112dd3b6c82ec4"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T08:29:49.719Z"
-sha256_fonte: "b414e0afae1e40a9269307dc0cf501808c619cafc93503135e4e067e1715fe2f"
-sha256_markdown: "0e2ad7dca4e4c8ecc5816b3593e808c5e9cb2da1135951661b5462f736a0d8ab"
----
-
-# Decreto nº 59.442 de 01/11/1966
-
 ###DEC-059442-0-000-01-11-1966@@@
 
 DECRETO Nº 59.442, DE 1º DE NOVEMBRO DE 1966.

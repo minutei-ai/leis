@@ -1,0 +1,23 @@
+###DEC-058125-0-000-30-03-1966@@@
+
+decreto nº 58.125, de 30 de março de 1966.
+
+Autoriza o cidadão brasileiro Nicolau de Vergueiro Forjas a pesquisar areia quartzosa no Município de Descalvado, no Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+Decreta:
+
+Art. 1º Fica autorizado o cidadão brasileiro Nicolau de Vergueiro Forjas a pesquisar areia quartzosa em terrenos de propriedade de Alfredo Franzin, situados no imóvel denominado Fazenda Santa Eulália, distrito e município de Descalvado, Estado de São Paulo, em três diferentes áreas perfazendo um total de cinqüenta e oito hectares e vinte e oito ares (58,28 ha), assim definidas: a primeira área com seis hectares e dez ares (6,10 ha), é delimitada por um polígono mistilíneo que tem um vértice na margem direita do córrego São Francisco, a setecentos metros (700m), no rumo magnético de cinqüenta e um graus trinta minutos sudoeste (51º30’ SW) da barra do córrego Descalvadinho, na margem esquerda do Ribeirão Bonito, e os lados a partir dêste ponto são assim descritos: o primeiro lado é um segmento retilíneo, com duzentos e vinte e cinco metro (225m), que parte do vértice inicial, com rumo magnético de oitenta e quatro graus trinta minutos nordeste (84º30’ NE); o segundo lado é o segmento retilíneo que partindo da extremidade do primeiro lado, com rumo magnético de quinze minutos nordeste (0º15’ NE) alcança o córrego Descalvadinho; o terceiro lado é o trecho do córrego Descalvadinho, compreendido entre a extremidade do segundo lado descrito e a barra do córrego São Francisco; o quarto e último lado é o trecho do córrego São Francisco, compreendido entre o vértice inicial e sua barra no córrego Descalvadinho; a segunda área, com trinta hectares e quarenta ares (30,40 ha) é delimitada por um polígono mistilíneo que tem um vértice, no ribeirão Bonito, a oitocentos e quinze metros (815m), no rumo magnético de quarenta e oito graus sudeste (48º SE), da barra do córrego Descalvadinho na margem esquerda ao ribeirão Bonito, e os lados são assim definidos: o primeiro lado é um segmento retilíneo, com oitocentos e vinte e cinco metro (825m), que parte do vértice inicial com rumo magnético de oitenta e um graus quinze minutos sudoeste (81º15’ SW); o segundo lado é o segmento retilíneo que partindo da extremidade do primeiro lado com rumo magnético de quinze minutos nordeste (0º15’ NE); alcança o córrego Descalvadinho; o terceiro lado é o trecho do córrego Descalvadinho compreendido entre a extremidade do segundo lado e sua barra no ribeirão Bonito; o quarto e último lado é o trecho do ribeirão Bonito compreendido entre o vértice inicial acima descrito e a barra do córrego Descalvadinho; - terceira área, com vinte um hectares e setenta e oito ares (21,78 ha), é delimitada por um polígono mistilíneo e tem um vértice na margem direita do ribeirão Bonito, a quinhentos e quarenta e dois metros (542m), no rumo magnético de nove graus quinze minutos nordeste (9º 15’ NE), da barra do córrego Descalvadinho, e os lados a partir do vértice considerado, têm os seguintes comprimentos e rumos magnéticos: trezentos e vinte metros (320m), setenta e um graus nordeste (71º NE); duzentos e quinze meros (215m), vinte e três graus trinta minutos nordeste (23º30’ NE); trezentos e quarenta metros (340m), setenta e um graus vinte e quatro minutos nordeste (71º24’ NE); quatrocentos e trinta e três metros (433m), vinte e quatro graus cinqüenta minutos sudoeste (24º50’ SW); cento e quinze metros (115m), oitenta e um graus cinqüenta e cinco minutos sudoeste (81º55’ SW); o sexto lado é o segmento retilíneo que, partindo da extremidade do quinto lado descrito com rumo magnético de trinta e oito graus cinqüenta minutos sudoeste (38º50’ SW), alcança a margem direita do ribeirão Bonito; o sétimo e último lado é o trecho da margem direita do ribeirão Bonito, compreendido entre a extremidade do sexto lado e o vértice de partida, início do primeiro lado.
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963, e da Resolução nº 3, de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de quinhentos e noventa cruzeiros (Cr$590) e será válido por dois (2) anos a contar da data da transcrição no livro próprio de Registro das Autorizações de Pesquisa.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 30 de março de 1966; 145º da independência e 78º da República.
+
+H. castello branco
+
+Mauro Thibau

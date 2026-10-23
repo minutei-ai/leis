@@ -1,20 +1,3 @@
----
-id: "br-federal-decreto-1967-07-28-61104"
-titulo: "Decreto nº 61.104 de 28/07/1967"
-data: "1967-07-28"
-fonte: "https://normas.leg.br/api/public/binario/6ac951c4-a63f-48c6-ad60-ed9c417878c0/texto"
-versao: "publicação original disponibilizada pelo Senado"
-urn: "urn:lex:br:federal:decreto:1967-07-28;61104"
-dados: "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Adecreto%3A1967-07-28%3B61104&tipo_documento=maior-detalhe"
-sha256_dados: "9af4091d3cfe4a1c6b45357183cf13135da50a14684f4c18cfd7448239f7919c"
-licenca_fonte: "https://creativecommons.org/licenses/by/4.0/"
-coletado_em: "2026-10-23T02:35:06.391Z"
-sha256_fonte: "91c5c335725e4ee9e2d2a27281b6830ce6584e09db8f17bd29b6d1850aa8e932"
-sha256_markdown: "0be283a5cd1be302d5fca7b4cefcb27bf3b3b777bb8451961634b230932c256d"
----
-
-# Decreto nº 61.104 de 28/07/1967
-
 ###DEC-061104-0-000-28-07-1967@@@
 
 DECRETO Nº 61.104, DE 28 DE JULHO DE 1967.
