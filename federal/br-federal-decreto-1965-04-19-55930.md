@@ -1,0 +1,19 @@
+###DEC-055930-0-000-19-04-1965@@@
+
+Decreto nº 55.930, de 19 de abril de 1965.
+
+Renova concessão à Rêde Paranaense de Emissoras S.A., para executar serviço de radiodifusão sonora.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, nº I, da Constituição Federal, e tendo em vista o disposto no art. 5º, nº III , da mesma Constituição, e o que consta no Parecer nº 31-65-CONTEL,
+
+decreta:
+
+Art. 1º Fica renovada a concessão à Rêde Paranaense de Emissoras Sociedade Anônima, nos têrmos do item 1, Art. 114, do Regulamento dos Serviços radiodifusão, para, na cidade de Ponta Grossa, Estado do Paraná, sem direito de exclusividade, executar serviço de radiodifusão sonora, pelo prazo de 10 (dez) anos, a contar de 27 de agôsto de 1962.
+
+Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricados pelo Presidente do Conselho Nacional de Telecomunicações, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no Diário Oficial, sob pena de ficar nulo, de pleno direito, o ato da outorga.
+
+Art. 2º Revogam-se as disposições em contrário.
+
+Brasília, 19 de abril de 1965; 144º da Independência e 77º da República.
+
+H. Castello Branco

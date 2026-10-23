@@ -1,0 +1,23 @@
+###DEC-055342-0-000-31-12-1964@@@
+
+DECRETO Nº 55.342, DE 31 DE DEZEMBRO DE 1964.
+
+Autoriza o cidadão brasileiro Américo Sammarone Júnior a pesquisar argila no município de Jundiaí, Estado de São Paulo.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+decreta:
+
+Art. 1º Fica autorizado o cidadão brasileiro Américo Sammarone júnior a pesquisar argila em terrenos de sua propriedade e de rosa Bianchi Ferigatto, Eduardo Ferigatto, Augusto Ferigatto, Venerando Ferigatto, Gerânio Ferigatto, Orlando Ferigatto, Olimpia Ferigatto e Isabel Ferigatto no lugar denominado Caxambu ou Ponte Alta, distrito e município de Jundiaí, Estado de São Paulo, numa área de Vinte e quatro hectares quarenta e seis ares dez centiares (25,4610 ha) delimitada por um polígono irregular, que tem um vértice a mil e vinte e oito metros e trinta centímetros (1.028,30m) no rumo magnético vinte e três graus trinta e cinco minutos sudeste (23º35’ SE) do centro do boieiro, do córrego Spiandarello na estrada de rodagem Jundiaí-Atibaia e os lados a partir desse vértice, os seguintes comprimentos e rumos magnéticos: setenta e quatro metros e quarenta centímetros (74,40m), oitenta e seis graus vinte e dois minutos nordeste (86º22’ NE); trinta e nove metros e vinte centímetros (39,20m), cinqüenta e nove graus quarenta e três minutos nordeste (59º43’ NE); quarenta e cinco metros trinta centímetros (45,30m), quarenta e oito graus vinte e oito minutos nordeste (48º28’ NE); trinta e oito metros e oitenta centímetros (38,80m), sessenta e sete graus trinta e oito minutos nordeste (67º38’ NE); trezentos e oitenta e quatro metros e oitenta centímetros (384,80m), setenta e um graus quatro minutos nordeste (71º04’ NE); quatrocentos e noventa e quatro metros e quarenta centímetros (494,40), quatorze graus vinte e dois minutos sudoeste (14º22’ SW); Dêste ponto, segue pela estrada velha de Atibaia-Jundiai até ao marco número 5 (cinco) na beira da Estrada e daí, setenta e nove metros e dez centímetros (79,10m), nove graus um minuto sudoeste (9º01’ SW); dezenove metros e sessenta centímetros (19,60m), seis graus cinqüenta e seis minutos sudeste (6º56’ SE); quarenta e três metros (43m), oito graus cinqüenta e três minutos sudoeste (8º53’ SW), cento e vinte e nove metros e cinqüenta e dois centímetros (129,52m), vinte e seis graus três minutos sudoeste (26º03’ SW); quarenta e sete metros (47m), setenta e um graus vinte e três minutos sudoeste (71º23’ SW); quarenta e seis metros e quarenta centímetros (46,40m), oitenta e nove graus trinta e oito minutos sudoeste (89º38’ SW); oitenta e oito metros e oitenta centímetros (88,80m), setenta e seis graus cinco minutos sudoeste (76º05’ SW); sessenta e oito metros e vinte centímetros (68,20m), oitenta e dois graus dez minutos sudoeste (82º10’ SW); vinte e três metros e vinte centímetros (23º20’ SW); oitenta e um graus quarenta minutos sudoeste (81º40’ SW); trinta e seis metros vinte centímetros (36,20m), cinqüenta e seis graus cinqüenta minutos nordeste (56º50’ NE); cinqüenta e seis metros e sessenta centímetros (56,60m), quarenta e dois graus nove minutos nordeste (42º09’ NE); oitenta e três metros e noventa centímetros (83,90m), trinta e seis graus quatorze minutos nordeste (36º14’ NE); sessenta e sete metros e oitenta centímetros (67,80m), quarenta e dois graus quarenta e nove minutos nordeste (42º49’ NE), cinqüenta e dois metros setenta centímetros (52,70m), trinta e sete graus vinte e dois minutos nordeste (37º22’ NE); sessenta metros e setenta centímetros (60,70m), trinta e quatro graus dois minutos nordeste (34º02’ NE); - Dêste ponto; segue pela estrada velha de Atibaia-Jundiaí até ao marco nº 21 (vinte e um), colocado na beira da estrada e dali cento e quarenta metros (140m), três graus trinta e seis minutos nordeste (3º36’ NE); duzentos e quarenta e cinco metros e cinqüenta centímetros (245,50m), setenta e oito graus oito minutos nordeste (78º08’ NE); até ao ponto da partida.
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovado pelo Decreto nº 51.726, de 19 de fevereiro de 1963, e da Resolução CNEN nº 1-63, de 9 de janeiro de 1963, da Comissão Nacional de Energia Nuclear.
+
+Art. 2º O título da autorização de pesquisa, que será uma via autêntica deste Decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00), e será válido por dois (2) anos a contar da data da transcrição no livro próprio de Registro das Autorizações de Pesquisa.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Brasília, 31 de dezembro de 1964; 143º da Independência e 76º da República.
+
+H. CASTELLO BRANCO
+
+Mauro Thibau
