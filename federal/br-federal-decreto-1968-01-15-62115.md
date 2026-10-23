@@ -1,0 +1,29 @@
+###DEC-062115-0-000-12-01-1968@@@
+
+DECRETO Nº 62.115, DE 12 DE JANEIRO DE 1968.
+
+Regulamenta o artigo 37 da Lei número 4.320 de 17 de março de 1964.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e tendo em vista o disposto no art. 37 da Lei nº 4.320, de 17 de março de 1964,
+
+DECRETA:
+
+Art. 1º Poderão ser pagas por dotação para “despesas de exercícios anteriores”, constantes dos quadros discriminativos de despesas das unidades orçamentárias, as dívidas de exercícios encerrados devidamente reconhecidas pela autoridade competente.
+
+Parágrafo único. As dívidas de que trata êste artigo compreendem as seguintes categorias:
+
+I – despesas de exercícios encerrados, para as quais o orçamento respectivo consignava crédito próprio, com saldo suficiente para atendê-las que não se tenham processado na época própria.
+
+II – despesas de “Restos a Pagar” com prescrição interrompida, desde que o crédito respectivo tenha sido convertido em renda;
+
+III – compromissos reconhecidos pela autoridade competente, ainda que não tenha sido prevista a dotação orçamentária própria ou não tenha esta deixado saldo no exercício respectivo, mas que pudessem ser atendidos em face da legislação vigente.
+
+Art. 2º São competentes para reconhecer as dívidas de exercícios anteriores os chefes das repartições, exceto as compreendidas no inciso III do parágrafo único do artigo anterior, que deverão ser reconhecidas pelo Ministro de Estado, dirigente de órgão subordinado à Presidência da República, ou autoridades a quem êstes delegarem competência.
+
+Art. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 12 de janeiro de 1968; 147º da Independência e 80º da República.
+
+A. COSTA E SILVA
+
+Antônio Delfim Neto
