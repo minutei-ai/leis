@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.027, DE 06 DE NOVEMBRO DE 2024
 
-### Institui, no âmbito da Secretaria de Turismo e Viagens, o Programa Turismo Ferroviário Paulista e dá providências correlatas.
+### _Institui, no âmbito da Secretaria de Turismo e Viagens, o Programa Turismo Ferroviário Paulista e dá providências correlatas._
 
 O GOVERNADOR DO ESTADO DE SÃOPAULO, no uso de suas atribuições legais,
 

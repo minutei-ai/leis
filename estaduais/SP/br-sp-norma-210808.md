@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.438, DE 26 DE MARÇO DE 2025
 
-### Autoriza a Secretaria da Segurança Pública a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, tendo por objeto o repasse de recursos financeiros, na forma de transferências voluntárias decorrentes de indicações parlamentares, destinados, exclusivamente, à aquisição de itens especificados na Lei n° 16.111, de 14 de janeiro de 2016, regulamentada pelo Decreto n° 62.960, de 24 de novembro de 2017, e de equipamentos e serviços para execução do Programa Muralha Paulista, instituído pelo Decreto n° 68.828, de 4 de setembro de 2024.
+### _Autoriza a Secretaria da Segurança Pública a representar o Estado de São Paulo na celebração de convênios com Municípios paulistas, tendo por objeto o repasse de recursos financeiros, na forma de transferências voluntárias decorrentes de indicações parlamentares, destinados, exclusivamente, à aquisição de itens especificados na Lei n° 16.111, de 14 de janeiro de 2016, regulamentada pelo Decreto n° 62.960, de 24 de novembro de 2017, e de equipamentos e serviços para execução do Programa Muralha Paulista, instituído pelo Decreto n° 68.828, de 4 de setembro de 2024._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

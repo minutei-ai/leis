@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.329, DE 07 DE FEVEREIRO DE 2024
 
-### Autoriza o Fundo Social de São Paulo - FUSSP a representar o Estado de São Paulo na celebração de parcerias com organizações da sociedade civil visando à realização de cursos no âmbito do Programa Escola de Qualificação Profissional, e dá providências correlatas.
+### _Autoriza o Fundo Social de São Paulo - FUSSP a representar o Estado de São Paulo na celebração de parcerias com organizações da sociedade civil visando à realização de cursos no âmbito do Programa Escola de Qualificação Profissional, e dá providências correlatas._
 
 O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

@@ -2,7 +2,7 @@
 
 # DECRETO N° 69.722, DE 18 DE JULHO DE 2025
 
-### Substitui os Anexos I, II e III do Decreto n° 61.229, de 17 de abril de 2015, que autoriza o Secretário de Governo e Relações Institucionais a representar o Estado na celebração de convênios com Municípios paulistas, no âmbito do Programa "Articulação Municipal".
+### _Substitui os Anexos I, II e III do Decreto n° 61.229, de 17 de abril de 2015, que autoriza o Secretário de Governo e Relações Institucionais a representar o Estado na celebração de convênios com Municípios paulistas, no âmbito do Programa "Articulação Municipal"._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 

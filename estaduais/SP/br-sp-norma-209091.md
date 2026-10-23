@@ -2,7 +2,7 @@
 
 # DECRETO N° 68.320, DE 26 DE JANEIRO DE 2024
 
-### Substitui os Anexos I, II e III do Decreto n° 57.905, de 23 de março de 2012, que autoriza a Casa Militar, por sua Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, a representar o Estado na celebração de convênios com Municípios paulistas, objetivando a transferência de recursos financeiros para aquisição de materiais e execução de obras e serviços destinados à defesa civil, abrangendo ações de prevenção, resposta e recuperação.
+### _Substitui os Anexos I, II e III do Decreto n° 57.905, de 23 de março de 2012, que autoriza a Casa Militar, por sua Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, a representar o Estado na celebração de convênios com Municípios paulistas, objetivando a transferência de recursos financeiros para aquisição de materiais e execução de obras e serviços destinados à defesa civil, abrangendo ações de prevenção, resposta e recuperação._
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
