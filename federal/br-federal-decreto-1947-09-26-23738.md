@@ -1,0 +1,21 @@
+###DEC-023738-0-000-26-09-1947@@@
+
+<strong>DECRETO Nº 23.738, DE 26 DE SETEMBRO DE 1947.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Sebastião Fernandes de Oliveira a pesquisar feldspato, quartzo e associados no município de Niterói, Estado do Rio de Janeiro.</strong></em>
+
+<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, e nos têrmos dos artigos 152 e 153 da Constituição,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro Sebastião Fernandes de Oliveira a pesquisar feldspato , quartzo e associados no lugar denominado Pendotiba, distrito e município de Niterói, estado do Rio de Janeiro, numa área de doze hectares e vinte ares (12,20ha) delimitada por um polígono  irregular que tem um vértice no alinhamento da direita da Avenida Independência, na direção d quem se dirige da Estrada do Caetano Monteiro para a Estrada Muriquí grande, a cinqüenta metros (50), na direção mencionada da interseção do dito alinhamento da direita da Estrada Brígido-Tinoco na direção de quem se dirige para a Avenida Independência, e os lados a partir do vértice considerado têm os seguintes comprimentos e rumos magnéticos: quarenta e cinco metros (45m), trinta e nove graus sudoeste (39ºSW); duzentos metros (200m), trinta e nove graus e cinqüenta minutos sudoeste (39º50’SW); dezoito metros (18m), setenta e seis graus e cinqüenta e cinco minutos nordeste (76º55’NE); trinta e um metros (31m), sete graus e vinte e cinco minutos sudeste (7º25’SE); vinte metros (20m), quatorze graus e vinte minutos sudeste (14º20’SE); noventa e oito metros (98m), dezoito graus e trinta e dois minutos sudeste (19º32’SE); trezentos metros (300m), trinta e cinco graus e cinqüenta minutos sudeste (35º50’SE); noventa e quatro metros (94m), sessenta e três graus e cinco minutos sudoeste (63º05’SW); trinta e um metros e oitenta centímetros (31,80m), setenta oito graus e um minuto noroeste (78º01’NW); trinta e um metros (31m), oitenta e quatro graus e cinco minutos sudoeste (84º05’SW); vinte e nove graus e três sudoeste (6º03’SW); trinta e um metros (31m), treze graus e treze minutos sudoeste (13º13’SW); quarenta e cinco metros (45m), oitenta e quatro graus treze minutos sudoeste (84º13’SW); quarenta e nove metros (49m), quarenta e nove graus e doze minutos nordeste (49º121NW); trinta e quatro metros e cinqüenta centímetros (34m), quatro graus e vinte e dois minutos nordeste (4º22’NW); cinqüenta e nove metros (59m), vinte e cinco graus e treze minutos nordeste (25º13’NE), trinta e dois metros e cinqüenta centímetros (32,50m), três graus e dois minutos noroeste (3º02’NW), trinta e oito metros e sessenta centímetros (38,60m), quarenta e oito graus e dez minutos noroeste (48º10’NW); trinta e cinco metros e setenta centímetros (35,70m), oitenta e dois graus noroeste (82ºNW); trinta e cinco metros (35m), setenta graus e cinqüenta minutos noroeste (70º50’NW); setenta e oito metros (78m), setenta e nove graus e quarenta minutos sudoeste (79º40’SW); doze metros (12m), quarenta e um graus e cinqüenta minutos noroeste (41º50’NW); cinqüenta e nove metros e setenta centímetros (59,70m), nove graus e quarenta minutos nordeste (9º40’NE); cinqüenta metros (57m), cinqüenta e cinco minutos noroeste (55ºNW); setenta e sete metros e sessenta centímetros (77,60m), sete graus e trinta e cinco minutos nordeste (7º35’NE); cinqüenta e quatro metros e vinte centímetros (54,20m), sete graus e trinta e cinco minutos noroeste (7º35’NW); quarenta e quatro metros (44m), quinze graus e cinqüenta minutos noroeste (15º50’NW); oitenta e quatro metros (84m), sessenta e quatro graus noroeste (64ºNW); duzentos e quinze metros (215m), trinta e nove graus nordeste (39ºNE); dez metros (10m), quarenta e quatro graus e vinte e dois minutos sudeste (44º22’SE).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00), e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 26 de setembro de 1947; 126º da Independência e 59º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Daniel de Carvalho
