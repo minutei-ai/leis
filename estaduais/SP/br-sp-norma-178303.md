@@ -1,0 +1,19 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=178303)
+
+# DECRETO Nº 61.978, DE 18 DE MAIO DE 2016
+
+### _Declara de utilidade pública, para fins de desapropriaçãopela CONCESSIONÁRIA RODOVIA DOS TAMOIOS S.A., o imóvel necessário às obras de implantação do Posto de Serviço de Atendimento ao Usuário-SAU 01, no km 19+650m Sul, da Rodovia dos Tamoios, SP-099, Município de Jambeiro, Comarca de Caçapava, no trecho que especifica e dá providências correlatas_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956,<br>
+Decreta:<br>
+**Artigo 1° -** Fica declarado de utilidade pública para fins de desapropriação pela RODOVIA DOS TAMOIOS S.A., empresa concessionária de serviço público, por via amigável ou judicial, o imóvel descrito e caracterizado na planta cadastral de código nº DE-SPD019099-019.020-2-D03/001 e memorial descritivo constantes do processo ARTESP-020.587/2016-SG, necessário às obras de implantação do Posto de Serviço de Atendimento ao Usuário-SAU 01, no km 19+650m Sul, da Rodovia dos Tamoios, SP-099, Município de Jambeiro, Comarca de Caçapava, com área total de 1.458,34m² (um mil, quatrocentos e cinquenta e oito metros quadrados e trinta e quatro decímetros quadrados), dentro do perímetro a seguir descrito, imóvel este que consta pertencer a Transporte Pesado Brasil Agropecuária Ltda. e/ou outros, com linha de divisa partindo do ponto denominado 01 de coordenadas N=7421488,690771 e N=422716,533135, sendo constituída pelo segmento 1-2 - em linha reta com azimute 124°34'46", distância de 10,57m; segmento 2-3 - em linha reta com azimute 124°54'50", distância de 20,85m; segmento 3-4 - em linha reta com azimute 125°5'46", distância de 20,30m; segmento 4-5 - em linha reta com azimute 125°3'52", distância de 20,95m; segmento 5-6 - em linha reta com azimute 124°58'12", distância de 20,47m; segmento 6-7 - em linha reta com azimute 125°31'51", distância de 16,95m; segmento 7-8 - em linha reta com azimute 124°58'13", distância de 14,06m; segmento 8-9 - em linha reta com azimute 123°50'9", distância de 13,41m; segmento 9-10 - em linha reta com azimute 122°52'31", distância de 21,32m; segmento 10-11 - em linha reta com azimute 123°8'13", distância de 13,66m; segmento 11-12 - em linha reta com azimute 287°30'22", distância de 37,07m; segmento 12-13 - em linha reta com azimute 302°33'42", distância de 21,89m; segmento 13-14 - em linha reta com azimute 304°44'24", distância de 60,30m; segmento 14-15 - em linha reta com azimute 305°38'21", distância de 20,00m; segmento 15-1 - em linha reta com azimute 322°0'52", distância de 36,58m, perfazendo uma área de 1.458,34m² (um mil, quatrocentos e cinquenta e oito metros quadrados e trinta e quatro decímetros quadrados).<br>
+**Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem -DER.<br>
+**Artigo 3º -** As despesas com execução do presente decreto correrão por conta de verba própria da Concessionária Rodovia dos Tamoios S.A.<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 18 de maio de 2016<br>
+GERALDO ALCKMIN<br>
+Samuel Moreira da Silva Junior<br>
+Secretário-Chefe da Casa Civil<br>
+Saulo de Castro Abreu Filho<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 18 de maio de 2016.

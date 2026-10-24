@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**194.009 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**194.217 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -41,7 +41,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Rondônia](estaduais/RO/) | 3 |
 | Estadual | [Roraima](estaduais/RR/) | 1 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
-| Estadual | [São Paulo](estaduais/SP/) | 10.993 |
+| Estadual | [São Paulo](estaduais/SP/) | 11.201 |
 | Estadual | [Sergipe](estaduais/SE/) | 21 |
 | Estadual | [Tocantins](estaduais/TO/) | 28 |
 | Municipal | [Águas Formosas · MG](municipais/3100906/) | 1 |
