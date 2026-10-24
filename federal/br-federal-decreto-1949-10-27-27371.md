@@ -1,0 +1,21 @@
+###DEC-027371-0-000-27-10-1949@@@
+
+<strong>DECRETO Nº 27.371, DE 27 DE OUTUBRO DE 1949.</strong>
+
+<em><strong>Aprova especificações e orçamentos para obras no Estado do Piauí.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, e tendo em vista o que consta no Decreto nº 25.809, de 10 de setembro de 1948,
+
+<strong>DECRETA:</strong>
+
+Artigo único. Ficam aprovados as especificações e os orçamentos, que com êste baixam devidamente rubricados na importância total de Cr$5.000.000,00, para a construção pelo Estado do Piauí, dos seguintes trechos rodoviários:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td colspan="2" style="width:358pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:67.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Cr$</span></span></p></td></tr><tr><td style="width:31.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1)</span></span></p></td><td style="width:319.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Piracuruca-Parnaiba .................................................................................</span></span></p></td><td style="width:67.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3.000.000,00</span></span></p></td></tr><tr><td style="width:31.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2)</span></span></p></td><td style="width:319.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Ligações de Jaicós e Pio IX à rodovia que, vindo de Campos Sales, no Estado do Ceará, deverá alcancar a cidade de Picos, no Piauí ..............</span></span></p></td><td style="width:67.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1.000.000,00</span></span></p></td></tr><tr><td style="width:31.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:319.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Teresina-União .........................................................................................</span></span></p></td><td style="width:67.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline"><span><u>1.000.000,00</u></span></span></p></td></tr><tr><td style="width:31.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:319.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:67.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline"><span><u>5.000.000,00</u></span></span></p></td></tr></tbody></table>
+
+Devendo as despesas respectivas, até o limite indicado, ser custeadas pelo auxílio federal de que trata a lei nº 316, de 31 de julho de 1948.
+
+Rio de Janeiro, 27 de outubro de 1949; 128º da Independência e 61º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Clovis Pestana
