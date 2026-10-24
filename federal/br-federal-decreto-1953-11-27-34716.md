@@ -1,0 +1,23 @@
+###DEC-034716-0-000-27-11-1953@@@
+
+<strong>DECRETO Nº 34.716, DE 27 DE NOVEMBRO DE 1953.</strong>
+
+<em><strong>Abre pelo Ministério da Fazenda o crédito especial de Cr$955.000.000,00, destinado a atender ao custeio de despesas com a execução do Plano do Carvão Nacional.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida no art. 2º da Lei nº 1.886, de 11 de junho de 1953 e tendo ouvido o Tribunal de Contas nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica aberto pelo Ministério da Fazenda o crédito especial de Cr$955.000.000,00 (novecentos e cinquenta e cinco milhões de cruzeiros), para ser aplicado no custeio de despesas com a execução do Plano do Carvão Nacional, de acôrdo com o seguinte esquema:
+
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Cr$</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Exercício de 1953.................................................................................................</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>200.000.000,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Exercício de 1954.................................................................................................</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>200.000.000,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Exercício de 1955.................................................................................................</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>200.000.000,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Exercício de 1956.................................................................................................</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>245.000.000,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Exercício de 1957.................................................................................................</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>110.000.000,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:78.05pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>955.000.000,00</span></span></p></td></tr></tbody></table>
+
+<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 27 de novembro de 1953; 132º da Independência e 65º da República.
+
+<strong>GETÚLIO VARGAS</strong>
+
+Osvaldo Aranha
