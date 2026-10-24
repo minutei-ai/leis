@@ -1,0 +1,29 @@
+###DEC-031066-0-000-02-07-1952@@@
+
+<strong>DECRETO Nº 31.066, DE 2 DE JULHO DE 1952.</strong>
+
+<em><strong>Autoriza Novas Indústrias Olinda S. A. a lavrar fosforita no município de Olinda, Estado de Pernambuco.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizada Novas Indústrias Olinda S. A., a lavrar fosforita, em terrenos de sua propriedade no lugar denominado Forno da Cal, distrito e município de Olinda, Estado de Pernambuco, numa área de mil hectares, dezenove ares e cinqüenta centiares (1000,1950 ha), delimitada por um polígono irregular, que tem um vértice no marco existente na divisa da propriedade Forno da Cal com o quartel do sétimo (7º) Grupo de Artilharia de Dorso e os lados, a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: quatrocentos e vinte metros (420m), cinqüenta e sete graus e dezenove minutos sudeste (57º 19’ SE); duzentos e quarenta metros (240m), setenta e cinco graus e dezenove minutos sudeste (75º 19’ SE); cento e setenta e sete metros e cinqüenta centímetros (177,50m), setenta e nove graus e quarenta e nove minutos sudeste (79º 49’ SE); quatrocentos e vinte e cinco metros (425m), vinte e três graus e dezenove minutos sudeste (23º 19’ SE); cento e quarenta e cinco metros (145m), cinqüenta e quatro graus e onze minutos sudoeste (54º 11’ SW); mil duzentos e setenta e sete metros (1.277m), vinte e dois graus e dezenove minutos sudeste (22º 19’ SE); cento e quinze metros (115m), sessenta e dois graus e quarenta e um minutos sudoeste (62º 41’ SW); mil cento e oitenta e dois metros (1.182m), setenta e seis graus e dezenove minutos noroeste (76º 19’ NW); mil novecentos e quarenta e sete metros (1.947m), cinqüenta e oito graus e dezenove minutos noroeste (58º 19’ NW); trezentos e noventa e sete metros (397m), treze graus e quarenta e nove minutos noroeste (13º 49’ NW); cem metros (100m), trinta e três graus e onze minutos nordeste (33º 11’ NE); quinhentos e sessenta e cinco metros (565m), trinta e dois graus e dezenove minutos noroeste (32º 19’ NW); trezentos e sessenta metros (360m), oitenta e cinco graus e quarenta e um minutos sudoeste (85º 41’ SW); quatrocentos e oitenta e cinco metros (485m), trinta e seis graus e onze minutos nordeste (36º 11’ NE); trezentos e cinco metros (305m), nove graus e quarenta e nove minutos noroeste (9º 49’ NW); setecentos e oitenta metros (780m), cinqüenta e dois graus e dezenove minutos noroeste (52º 19’ NW); setecentos metros (700m), vinte e um graus e onze minutos nordeste (21º 11’ NE); quatrocentos e oitenta e sete metros e cinqüenta centímetros (487,50m), dezenove graus e quarenta e um minutos nordeste (19º 41’ NE); oitocentos e setenta metros (870m), sessenta e três graus e quarenta e nove minutos sudeste (63º 49’ SE); cento e cinqüenta metros (150m), cinqüenta e um graus e quarenta e nove minutos sudeste (51º 49’ SE): quinhentos e sessenta e sete metros e cinqüenta centímetros (567,50m), sessenta e oito graus e quarenta e nove minutos sudeste (68º 49’ SE); quatrocentos e trinta e dois metros e cinqüenta centímetros (432,50m), setenta e nove graus e quarenta e nove minutos sudeste (79º 49’ SE); setecentos e dois metros e cinqüenta centímetros (702,50m), onze graus e quarenta e um minutos nordeste (11º 41’ NE); trezentos e trinta e sete metros e cinqüenta centímetros (337,50m), sessenta e sete graus e dezenove minutos sudeste (67º 19’ SE); seiscentos e cinqüenta e cinco metros (655m), quarenta e oito graus e dezenove minutos sudeste (48º 19’ SE); trezentos e trinta metros (330m), trinta e seis graus e dezenove minutos sudeste (36º 19’ SE); trezentos e trinta e cinco metros (335m), setenta e seis graus e onze minutos nordeste (76º 11’ NE); seiscentos e quarenta e cinco metros (645m), dez graus e dezenove minutos sudeste (10º 19’ SE); cento e noventa metros (190m), oitenta e oito graus e quarenta e um minutos sudoeste (88º 41’ SW); setecentos e noventa metros (790m), dezessete graus e onze minutos sudoeste (17º 11’ SW); setecentos e dezessete metros (717m), setenta e cinco graus e quarenta e nove minutos noroeste (75º 49’ NW); quatrocentos e vinte metros (420m), doze graus e onze minutos sudoeste (12º 11’ SW). Esta autorização é outorgada mediante as condições constantes do parágrafo único do art. 28 do Código de Minas e dos artigos 32, 33, 34 e suas alíneas, além das seguintes e de outras constantes do mesmo Código, não expressamente mencionados neste Decreto.
+
+<strong>Art</strong>. 2º O concessionário da autorização fica obrigado a recolher aos cofres públicos, na forma da lei, os tributos que forem devidos à União, ao Estado e ao Município, em cumprimento do disposto no art. 68 do Código de Minas.
+
+<strong>Art</strong>. 3º Se o concessionário da autorização não cumprir qualquer das obrigações que lhe incumbem, a autorização de lavra será declarada caduca ou nula, na forma dos artigos 37 e 38 do Código de Minas.
+
+<strong>Art</strong>. 4º As propriedades vizinhas estão sujeitas às servidões de solo e sub-solo para os fins da lavra, na forma dos artigos 39 e 40 do Código de Minas.
+
+<strong>Art</strong>. 5º O concessionário da autorização será fiscalizado pelo Departamento Nacional de Produção Mineral e gozará dos favores discriminados no art. 71 do mesmo Código.
+
+<strong>Art</strong>. 6º A autorização de lavra terá por título êste Decreto, que será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura, após o pagamento da taxa de vinte mil e vinte cruzeiros (Cr$20.020,00).
+
+<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 2 de julho de 1952; 131º da Independência e 64º da República.
+
+<strong>GETULIO VARGAS</strong>
+
+João Cleofas
