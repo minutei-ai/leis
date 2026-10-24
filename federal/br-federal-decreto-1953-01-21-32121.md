@@ -1,0 +1,21 @@
+###DEC-032121-0-000-21-01-1953@@@
+
+<strong>DECRETO Nº 32.121, DE 21 DE JANEIRO DE 1953.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Joubert Guerra a pesquisar ouro aluvionar e diamantes, nos municípios de Diamantina e Bocaiúva, Estado de Minas Gerais.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 - (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro Joubert Guerra a pesquisar ouro aluvionar e diamantes, num trecho do rio Jequitinhonha, nos distritos de Senador Mourão e Olhos d’Água, respectivamente, dos municípios de Diamantiga e Bocaiúva, Estado de Minas Gerais, trecho êsse abrangendo leito e margens reservadas (de domínio público) e compreendido numa área de quatrocentos e noventa e dois hectares (492 ha), delimitada por uma poligonal que tem um vértice (marco de pedra com as iniciais D-3) situado a trezentos metros (300m), ao sul (S) da foz do córrego da Melancia, no rio Jequitinhonha, e cujos lados, a partir dêsse vértice, têm os seguintes comprimentos e rumos verdadeiros: mil e oitenta metros (1.080m), setenta e sete graus e quarenta e dois minutos nordeste (77º 42’ NE); quinhentos e quarenta metros (540m), trinta e quatro graus e trinta e seis minutos nordeste (34º 36’ NE); seiscentos metros (600m), oitenta e cinco graus e quinze minutos nordeste (85º 15’ NE); quinhentos e cinqüenta metros (550m), cinqüenta e cinco graus e trinta minutos nordeste (55º 30’ NE); mil metros (1.000m), quarenta e oito graus nordeste (48º NE); oitocentos e vinte metros (820m), quarenta e oito graus nordeste (48º NE); seiscentos metros (600m), norte (N); novecentos e vinte metros (920m), quarenta e nove graus e trinta e nove minutos noroeste (49º 39’ NW); trezentos metros (300m), norte (N); mil cento e quarenta metros (1.140m), cinqüenta e dois graus e nove minutos nordeste (52º 9’ NE); trezentos metros (300m), norte (N); setecentos metros (700m), setenta graus e doze minutos noroeste (70º 12’ NW); setecentos e oitenta metros (780m), setenta graus e doze minutos noroeste (70º 12’ NW); mil metros (1.000m), cinqüenta e quatro graus e trinta minutos nordeste (54º 30’ NE); mil e oitenta metros (1.080m), cinqüenta e quatro graus e trinta minutos nordeste (54º 30’ NE); setecentos e trinta metros (730m), dezesseis graus noroeste (16º NW); quatrocentos metros (400m), oeste (W); seiscentos e trinta metros (630m), dezessete graus e quarenta e dois minutos sudeste (17º 42’ SE); seiscentos metros (600m), cinqüenta e seis graus sudoeste (56º SW); oitocentos e quarenta metros (840m), cinqüenta e seis graus sudoeste (56º SW); oitocentos e cinqüenta metros (850m), quarenta e cinco graus sudoeste (45º SW); seiscentos metros (600m), vinte e um graus e quinze minutos sudeste (21º 15’ SE); novecentos metros (900m), vinte e um graus e quinze minutos sudeste (21º 15’ SE); seiscentos e sessenta metros (600m), vinte e um graus e quinze minutos sudeste (21º 15’ SE); seiscentos e dez metros (610m), quarenta graus e quinze minutos sudeste (40º 15’ SE); setecentos e dez metros (710m), sul (S); seiscentos metros (600m), quarenta e sete graus sudoeste (47º SW); oitocentos e quarenta metros (840m), quarenta e sete graus sudoeste (47º SW); quatrocentos e oitenta metros (480m), quarenta e sete graus sudoeste (47º SW); seiscentos e dez metros (610m), oitenta e dois graus e quarenta e oito minutos noroeste (82º 48’ NW); seiscentos e noventa metros (690m), trinta e quatro graus e vinte e quatro minutos sudoeste (34º 24’ SW); oitocentos e sessenta metros (860m), oitenta e oito graus e doze minutos noroeste (88º 12’ NW); dêste último vértice, por uma linha reta, no rumo sul (S), até o primeiro (D-3) considerado.
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de quatro mil novecentos e vinte cruzeiros (Cr$4.920,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral, do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, em 21 de janeiro de 1953; 132º da Independência e 65º da República.
+
+<strong>GETÚLIO VARGAS</strong>
+
+João Cleofas
