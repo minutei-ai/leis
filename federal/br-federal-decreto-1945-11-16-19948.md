@@ -1,0 +1,23 @@
+###DEC-019948-0-000-16-11-1945@@@
+
+<strong>DECRETO Nº 19.948, DE 16 DE NOVEMBRO DE 1945.</strong>
+
+<em><strong>Autoriza os cidadãos brasileiros Paulo Sinna e Fioravante Fiore Greco a pesquisar caulim e associados no município de Santo André, Estado de São Paulo.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra a, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Ficam autorizados os cidadãos brasileiros Paulo Sina e Fioravante Fiore Greco a pesquisar caulim e associados numa área de cinco hectares, cinqüenta e um ares e sessenta e oito centiares (5,5168 há), situado nos imóvel Sítio Pouso Alegre – Capela, distrito de Ribeirão Pires, município de Santo André, Estado de São Paulo e delimitada por uma linha poligonal cujos lados, a partir do canto em que a estrada particular que vai para o sítio Pouso Alegre encontra a Estrada Velha de Ouro Fino, têm os seguintes comprimentos e rumos magnéticos: quarenta e nove metros e vinte centímetros (49,20 m), sessenta e quatro graus sudeste (64º SE); cinqüenta metros e vinte centímetros (50,20 m), sessenta e cinco graus sudeste (65º SE); sessenta e dois metros e trinta e oito centímetros (62,38 m), sessenta e oito graus sudeste (68º SE); cinqüenta e um metros e trinta e oito centímetros (51,38 m), oitenta e seis graus e trinta minutos nordeste (86º 30’ NE);setenta metros e sessenta e cinco centímetros (76,65 m), oitenta e um graus e trinta minutos nordeste (81º 30’ NE); vinte e seis metros e vinte e cisco centímetros (26,25 m), oitenta graus e quarenta e cinco minutos sudeste (80º 45’ SE); quarenta e seis metros e vinte e dois centímetros (46,22 m), quinze graus nordeste (15º NE); quarenta e um metros e setenta e cinco centímetros (41,75 m), dezoito graus noroeste (18º NW), vinte e sete metros e setenta e três centímetros (27,73 m), quatorze graus e trinta e cinco minutos noroeste (14º 35’ NW); quarenta e três metros e oito centímetros (43,08m) cinco graus noroeste (5º NW) dezoito metros e cinqüenta centímetros (18,50 m), vinte graus e trinta e dois minutos nordeste (20º 32’ NE); cinqüenta e dois metros e oitenta centímetros (52,80 m); quarenta e três graus quarenta e cinco minutos nordeste (43º 45’ NE); quarenta e sete metros e trinta e seis centímetros (47,36 m), quarenta e três graus e cinqüenta minutos nordeste (43º 50, NE), quarenta e oito metros e noventa e três centímetros (48,93 m) quarenta e três graus e trinta e cinco minutos nordeste (43º 35’ NE); vinte e sete metros e três centímetros (27,03 m), quarenta e quatro graus e trinta e cinco minutos nordeste (44º 35’ NE); quarenta e oito metros e setenta e oito centímetros (48,78 m), quarenta e cinco graus e quarenta e cinco minutos nordeste (45º 45’ NE); sessenta e três metros e dois centímetros (63,02 m), cinqüenta graus e cinco minutos noroeste (50º 5’ NW); cinqüenta e cinco metros e cinqüenta centímetros (55,50 m), quarenta e três graus e trinta minutos sudeste (43º 30’ SW); cinqüenta e sete metros e noventa e três centímetros (57,93 m), trinta graus e quarenta e cinco minutos sudoeste (30º 45’ SW); sessenta e oito graus e sete centímetros (68,07 m), setenta e um graus e trintas e cinco minutos sudoeste (71º 35’ SW); quarenta e um metros e trinta e oito centímetros (41,38 m), quarenta e quatro graus e quarenta e cinco minutos sudoeste (44º 45’ SW); setenta metros e quarenta e cinco centímetros (70,45 m), trinta e três graus sudoeste (33º SW); oitenta e dois metros e trinta e cinco centímetros (82,35 m), trinta e seis graus e trinta e seis minutos sudoeste (36º 36’ SW); trinta e oito metros e treze centímetros (38,13 m), cinqüenta e dois graus e trinta minutos sudoeste (52º 30’ SW); cinqüenta e nove metros e quarenta e cinco centímetros (58,45 m), sessenta e dois graus sudoeste (62º SW); cinqüenta e três metros e oitenta e dois centímetros (53,82 m), setenta e cinco graus e quarenta minutos sudoeste (75º 40’ SW).
+
+<strong>Art</strong>. 2º Esta autorização é outorgada nos têrmos estabelecidos no Código de Minas.
+
+<strong>Art</strong>. 3º O título da autorização de pesquisa que será uma via autêntica dêste decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 16 de novembro de 1945, 124º da Independência e 57º da República.
+
+<strong>JOSÉ LINHARES</strong>
+
+Theodureto de Camargo
