@@ -1,0 +1,21 @@
+###DEC-030330-0-000-21-12-1951@@@
+
+<strong>DECRETO Nº 30.330, DE 21 DE DEZEMBRO DE 1951.</strong>
+
+<em><strong>Autoriza a Companhia Meridional de Mineração a pesquisar minério de ferro e manganês, no município de Conselheiro Lafaiete, Estado de Minas Gerais.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do Decreto-lei número 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1<strong>º</strong> Fica autorizada a Companhia Meridional de Mineração a pesquisar minério de ferro e manganês em terrenos de sua propriedade, situados no lugar denominado “Olaria”, no distrito e município de Conselheiro Lafaiete, Estado de Minas Gerais, numa área de trinta e quatro hectares, setenta e seis ares e doze centiares (34,7612ha), delimitada por um polígono irregular que tem um vértice a quinhentos e quarenta e dois metros (542m) no rumo verdadeiro setenta e três graus nordeste (73º NE), do centro da Ponte da estrada de rodagem da Estiva sôbre o córrego Gigante e cujos lados a partir dêsse vértice têm os seguintes comprimentos e rumos verdadeiros: cento e setenta metros (170m), vinte e oito graus e trinta minutos noroeste (28º 30’NW); quinze metros (15m), setenta e um graus nordeste (71º NE); cento e quarenta e cinco metros (145m), vinte e seis graus nordeste (26º NE); cento e oito metros (108m), quarenta e oito graus e trinta minutos nordeste (48º 30’NE); cento e oitenta e dois metros (182m), seis graus noroeste (6º NW); oitenta e três metros (83m), dezoito graus nordeste (18º NE); cinquenta e três metros (53m), sessenta e sete graus e trinta minutos nordeste (67º 30’NE); noventa metros (90m), setenta e três graus e trinta minutos sudeste (73º 30’SE); cem metros (100m), trinta e cinco graus sudeste (35º SE); sessenta metros (60m), dezessete graus e trinta minutos sudeste (17º 30’ SE); cem metros (100m), vinte e três graus e trinta minutos sudoeste (23º 30’SE); vinte metros (20m), quarenta e seis graus sudoeste (46º SW); duzentos e sessenta e cinco metros (265m), vinte e seis graus sudeste (26º SE); sessenta metros (60m), oitenta graus nordeste (80º NE); cento e dez metros (110m), doze graus sudeste (12º SE); duzentos e vinte e cinco metros (225m), oito graus e trinta minutos nordeste (8º 30’ NE); oitenta e oito metros e cinqüenta centímetros (88,50m), vinte e quatro graus e trinta minutos noroeste (24º 30’NW); duzentos e vinte e três metros (223m), vinte e sete graus e trinta minutos nordeste (27º 30’’ NE); sessenta e três metros (63m), dois graus nordeste (2º NE); duzentos e vinte e quatro metros e cinqüenta centímetros (224,50m), vinte e um graus e trinta minutos noroeste (21º 30’NW); trezentos e oitenta e quatro metros (384m), noventa graus oeste (90º W); sessenta e dois metros e setenta centímetros (62,70m), cinqüenta e três graus sudoeste (53º SW); cento e vinte e quatro metros (124m), sessenta e seis graus sudoeste (66º SW); cem metros e cinqüenta centímetros (100,50m), nove graus sudeste (9º SE); trinta e quatro metros e cinqüenta centímetros (34,50m), vinte e quatro graus sudeste (24º SE); quatrocentos e vinte e um metros (421m), trinta e um graus sudoeste (31º SW);  cento e oitenta e sete metros (187m), sessenta e seis graus e trinta minutos sudoeste (66º 30’ SW); sessenta e quatro metros e trinta centímetros (64,30m), vinte e cinco graus e trinta minutos sudeste (25º 30’SE); vinte e três metros (23m), sessenta e seis graus e trinta minutos nordeste (66º 30’NE); cento e seis metros (106m), oitenta e oito graus nordeste (88º NE); duzentos e oitenta metros (280m), quarenta e dois graus sudeste (40º SE); cento e quarenta e quatro metros (144m), quarenta e sete graus nordeste (47º NE).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos e cinqüenta cruzeiros (Cr$350,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 21 de dezembro de 1951; 130º da Independência e 63º da República.
+
+<strong>GETÚLIO VARGAS</strong>
+
+João Cleófas
