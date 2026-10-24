@@ -1,0 +1,19 @@
+###DEC-024443-0-000-03-02-1948@@@
+
+<strong>DECRETO N° 24.443 DE 3 DE FEVEREIRO DE 1948.</strong>
+
+<em><strong>Suprime cargos provisórios.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal e nos têrmos do artigo 1º, alínea <em>n,</em> do Decreto-lei nº 3.195, de 14 de abril de 1941,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Ficam suprimidos 122 cargos provisórios da classe E da carreira de Escriturário do Quadro Permanente do Ministério da Fazenda, vagos em virtude da promoção de Adelina Nardeli, Alcinira Mendes Carneiro, Alfredina Maria de Lourdes Ferreira, Almir José Barros, Alzira Stela Monteiro, Antônio Castro Fróis, Arlete Lopes Velasco, Aurea dos Santos Costa, Aurora Silva Braga, Berta Braz S. Tiago, Cecilia de Toledo Caldas, Celeste Coelho de Souza Oliveira, Célia Nogueira de Carvalho, Célia Noronha Junqueira, Célia Weisfeld. Celina Ferreira Pinto, Celina Marieta Braune, Cleomar Desterro e Silva, Cleonice Ribeiro Pessoa, Daisi Plínio dos Santos, Dalila Fonseca Erse, Dalva Rangel dos Santos, Delci Teixeira de Araújo, Dila Meireles da Costa Lima, Dinorá Aragão, Dinorá Teixeira Machado, Durval Sampaio, Edla Rodrigues, Elgita Elza Rodrigues Simão, Elvira Maria Roma Franco, Elza Vieira Bicalho, Elza Vieira do Nascimento de Melo, Eunilde Caldas Tavares, Giselia de Souza Carvalho Ramos Gulnar Vieira de Azevedo, Haidee Cunha Freitas, Helena Nina Dantas de Oliveira, Hélia de Macedo Gomes, Heloisa Gusmão Castelo Branco, Hilda Lopes dos Santos, Hilda Pires dos Reis, Hilda Praxedes Barreto, Homero Gonçalves, Ibana de Oliveira Franklin da Costa, Iliria Medeiros, Ione Dias da Silva, Iracema Caramurú Durão, Iracema dos Santos, Iris Coelho, Ismael Kottler, Itabira Gonçalves Ivone Quaresma de Moura, Jaci Mendes, Jacinto de Medeiros Calmon, Jair Borges Delgado, Jandira Francisca de brito, Jofre Rodrigues Pinheiro José Nóbrega Gonçalves José Raimundo Prazeres Ribeiro, José Severino de Almeida, Joselina Mendes Gregório, Jurema Cide Costa Lima, Laura Cardoso Pais, Laura Ferreira Ramos, Lena Ribeiro da Cunha, Leonor Navarro de Andrade  Lígia Matos da Silva, Luci Braz Pereira Gomes, Luci Coelho Rodrigues Velho, Luís Costa Côrtes, Maria Aparecida Antunes, Maria Carmen Nogueira Vitoriano, Maria da Conceição Castro Froes, Maria das Dolores Rosa Soares, Maria Dulce Lobo de Oliveira, Maria da Olaria Vaz, Maria da Graça Cavalcante Pascoa, Maria Helena Freitas do Nascimento, Maria Hermelinda Rodrigues Pacheco, Maria Ierecê Moura Romariz, Maria Ivone Freire Cintra, Maria José de Souza Lima, Maria José Teixeira da Silva, Maria de Lourdes Braga de Almeida, Maria de Lourdes de Lima Antunes, Maria de Lourdes Oliveira  Maria de Lourdes Ribeiro dos Santos Maria Mendes Carneiro Viera Maria Mirtes Leitão. Maria da Penha Pinheiro  Maria Rochael, Maria Viana Martins, Maria Zilda Aguiar Maia. Marina Florência Nunes Mercedilha Iecker, Miriam de Jesus Barroso  Franco Lopes, Nair de Araújo Teixeira, Nair do Rego Barros, Nair Simões, Néli Ribeiro de Oliveira e Silva, Nélsi de Souza Negreiros  Nilza Prins, Noemi Maria Calduro, Paulo Batista, Paulo David Tôrres Barcelos, Paulo Martins de Oliveira Paulo dos Santos Silva, Raimunda de Castro Sales, Regina Maria Moreira Godinho, Rosalina Sobral, Ruth Corrêia de Melo, Silas Teodoro da Silva, Solange Robinault.  Sueli Maria Curvo da Silva, Teresa de Jesus Loureiro, Trentino Marino Ulisses Lagos Ramos.  Wilson Ferreira da Rocha, Wilson Otávio Vieira, Zelina Grimaldi Trotte Zulmira Soares Carregosa, devendo a dotação correspondente ser levada a crédito da Conta-Corrente do mesmo Quadro e Ministério.
+
+<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, em 3 de fevereiro de 1948, 127º da Independência e 60º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Corrêa e Castro
