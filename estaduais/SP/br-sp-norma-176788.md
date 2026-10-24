@@ -1,0 +1,21 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=176788)
+
+# DECRETO Nº 61.724, DE 17 DE DEZEMBRO DE 2015
+
+### _Declara de interesse social, para fins de desapropriação, imóvel situado no Município de S.Sebastião, necessário à CDHU, para a implanação de programa habitacional_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 1º e 2º, inciso V, da Lei federal nº 4.132, de 10 de setembro de 1962,<br>
+Decreta:<br>
+**Artigo 1º -** Fica declarado de interesse social, a fim de ser desapropriado pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, por via amigável ou judicial, imóvel com superfície de 6.687,73m2 (seis mil, seiscentos e oitenta e sete metros quadrados e setenta e três decímetros quadrados), situado no Município de São Sebastião, conforme Processo Provisório CDHU-200.965/15 (código-576222), necessário à implantação de Programa Habitacional para famílias de baixa renda, com medidas, limites e confrontações mencionados na planta e memorial descritivo, a saber: imóvel situado na Rua Amauri Teixeira Leite, s/nº, Bairro Boiçucanga, São Sebastião, perímetro urbano do Município de São Sebastião, assim descrito: tem início no ponto 1, situado na confluência das Ruas Amauri Teixeira Leite com a Rua Valeriano Santos. Deste ponto 1 segue pelo alinhamento da Rua Amauri Teixeira Leite, na distância de 79,00m, até o ponto 2; daí deflete à direita na distância de 47,00m, até o ponto 3, confrontando com os fundos dos lotes que fazem frente para Rua Amauri Teixeira Leite, daí deflete à esquerda e segue confrontando com a lateral do lote que faz frente para Rua Amauri Teixeira Leite, até o ponto 4, na distância de 41,00m, até encontrar a Rua Amauri Teixeira Leite, daí deflete à direita e segue pelo alinhamento da Rua Amauri Teixeira Leite, na distância de 41,00m, até o ponto 5, daí deflete à direita e segue confrontando com a lateral do lote que faz frente para Rua Amauri Teixeira Leite, na distância de 50,00m, até o ponto 6, daí deflete à esquerda e segue confrontando com o fundo do lote que faz frente para Rua Amauri Teixeira Leite, na distância de 10,00m, até o ponto 7, daí deflete à direita confrontando com a lateral do lote que faz frente para Rua Valeriano Santos e lotes que fazem frente para Rua Avaí Scarpa na distância de 63,00m, até o ponto 8, onde encontra a Rua Valeriano Santos, daí deflete à direita e segue pelo alinhamento da Rua Valeriano Santos, na distância de 34,00m, até o ponto 9, daí deflete à direita e segue confrontando com a lateral do lote que faz frente para Rua Valeriano Santos, na distância de 29,00m, até o ponto 10 daí deflete à esquerda na distância de 19,00m, confrontando com os fundos do lote que faz frente para Rua Valeriano Santos, até o ponto 11, daí deflete à esquerda confrontando com a lateral do lote que faz frente para Rua Valeriano Santos na distância de 28,00m, até o ponto 12, daí deflete à direita e segue confrontando com a Rua Valeriano Santos, na distância de 28,00m, até o ponto 1, início da descrição perimétrica, encerrando uma área de 6.687,73m2 (seis mil, seiscentos e oitenta e sete metros quadrados e setenta e três decímetros quadrados).<br>
+**Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para os fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365 de 21 de junho de 1941, alterado pela Lei federal nº 2.786 de 21 de maio de 1956.<br>
+**Artigo 3º -** As despesas decorrentes da execução deste decreto correrão à conta de recursos próprios da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU.<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 17 de dezembro de 2015<br>
+GERALDO ALCKMIN<br>
+Nelson Luiz Baeta Neves Filho<br>
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Habitação<br>
+Edson Aparecido dos Santos<br>
+Secretário-Chefe da Casa Civil<br>
+Saulo de Castro Abreu Filho<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 17 de dezembro de 2015.
