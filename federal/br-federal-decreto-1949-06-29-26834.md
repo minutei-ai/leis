@@ -1,0 +1,21 @@
+###DEC-026834-0-000-29-06-1949@@@
+
+<strong>DECRETO Nº 26.834, DE 29 DE JUNHO DE 1949.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Gastão de Mesquita Neto a pesquisar calcário, no município de Tomazina, Estado de Paraná.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro Gastão de Mesquita Neto a pesquisar calcário em uma área de quatrocentos e oitenta e três hectares (843 ha), em terras do condomínio dos herdeiros de Justino Xavier na localidade de Barra Sêca, distrito e município de Tomasina, Estado do Paraná, delimitada por um polígono irregular que tem um vértice a quinhentos e cinqüenta e oito metros (558 m) no rumo magnético sul (S) da foz do arroio do Nestor no braço sul do Ribeirão Peroba, e os lados, a partir dêsse vértice, têm os seguintes comprimentos e rumos magnéticos: novecentos metros (900 m), sessenta e quatro graus sudoeste (64º SW); setecentos e trinta e cinco metros (735 m), cinqüenta e seis graus e trinta minutos noroeste (56º30’ SW); mil e quarenta metros (1.040 m), oitenta e oito graus noroeste (88º NW); oitocentos e dez metros (810 m), quatro graus e trinta minutos sudeste (4º 30’ SE); trezentos e sessenta metros (360 m), trinta e sete graus e trinta minutos sudoeste (37º 30’ SW); seiscentos e noventa metros (690 m), setenta e seis graus e trinta minutos noroeste (76º 30’ NW); seiscentos e cinqüenta e cinco metros (655 m), cinqüenta e cinco graus e dez minutos sudoeste (55º 10’ SW); duzentos e noventa metros (290 m), dezessete graus e cinqüenta minutos noroeste (17º 50’ NW); quinhentos metros (500 m), setenta e dois graus e trinta minutos sudoeste (72º 30’ SW); novecentos e setenta metros (970 m), dezessete graus e cinqüenta minutos sudeste (17º 50’ SE); mil e cem metros (1.100 m), cinqüenta e cinco graus e quarenta minutos nordeste (55º 40’ NE); setecentos e noventa metros (790 m), setenta e cinco graus e cinqüenta minutos sudeste (75º 50’ SE); oitocentos e oitenta e cinco metros (885 m), trinta e oito graus e vinte e cinco minutos nordeste (38º 25’ NE); quatrocentos e quarenta metros (440 m), três graus e cinqüenta minutos noroeste (3º 50’ NW); trezentos e sessenta metros (360 m), oitenta e sete graus e cinco minutos nordeste (87º 05’ NE); oitocentos e cinqüenta metros (850 m), cinqüenta e nove graus e quarenta minutos sudeste (59º 40’ NE); setecentos metros (700 m), cinqüenta e nove metros e cinco minutos nordeste (59º 05’ NE); duzentos e sessenta metros (260 m), vinte e nove graus e dez minutos sudeste (29º 10’ SE); mil e cinqüenta metros (1.050 metros), dezesseis graus e vinte minutos sudoeste (16º 20’ SW); mil cento e sessenta metros (1.160 m), setenta e oito graus e vinte e cinco minutos sudeste (78º 25’ SE); mil e quarenta metros (1.040 m), trinta e oito graus e trinta e cinco minutos nordeste (38º 35’ NE); seiscentos e noventa metros (690 m), sete graus e vinte e cinco minutos noroeste (7º 25’ NW); quinhentos metros (500 m), oitenta e dois graus e trinta e cinco minutos sudoeste (82º 35’ SW); quatrocentos e setenta metros (470 m), sete graus e vinte e cinco minutos sudeste (7º 25’ SE); quinhentos e vinte e cinco metros (525 m), trinta e nove graus e cinqüenta minutos sudoeste (39º 50’ SW); duzentos e oitenta metros (280 m), setenta e seis graus e dez minutos noroeste (76º 10’ NW); setecentos e quinze metros, (715 metros), dezenove graus e vinte minutos nordeste (19º 20’ NE) e dêsse ponto uma área reta que vai até o primeiro vértice, no rumo vinte e seis graus e vinte minutos noroeste (26º 20’ NW).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de quatro mil oitocentos e quarenta cruzeiros (Cr$4.480,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 29 de junho de 1949; 128º da Independência e 61º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Daniel de Carvalho
