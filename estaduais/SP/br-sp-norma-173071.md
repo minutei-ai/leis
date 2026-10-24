@@ -1,0 +1,19 @@
+[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=173071)
+
+# DECRETO Nº 60.554, DE 18 DE JUNHO DE 2014
+
+### _Declara de interesse social, para fins de desapropriação, imóvel situado no distrito de Perus, Município de S.Paulo, necessário à CDHU, para a implantação de programa habitacional_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 1º e 2º, inciso V, da Lei federal nº 4.132, de 10 de setembro de 1962,<br>
+Decreta:<br>
+**Artigo 1º -** Fica declarado de interesse social, a fim de ser desapropriado pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, por via amigável ou judicial, imóvel com superfície de 13.700,00m² (treze mil e setecentos metros quadrados), situado no Distrito de Perus, Município de São Paulo, conforme Processo Provisório CDHU-206.079/13 (código-5758440), necessário à implantação de Programa Habitacional para famílias de baixa renda, com medidas, limites e confrontações mencionados na planta e memorial descritivo, a saber: imóvel localizado à Rua do Pinheirinho e Estrada do Pinheirinho, Distrito de Perus, Município de São Paulo, cuja descrição tem início no ponto 1, situado no alinhamento da Estrada do Pinheirinho na divisa com propriedade de Angelo Joaquim Vieira e outros (matrícula 46.398 do 18º RI-SP); do ponto 1 segue pelo alinhamento da Estrada do Pinheirinho com distância 43,55m e azimute 262º35’27” até o ponto 2; em curva à esquerda de raio 35,00m e desenvolvimento 19,39m até o ponto 3; distância 20,77m e azimute 230º51’02” até o ponto 4; do ponto 4 prossegue 33,95m em curva à direita de raio 50,00m pela confluência da Estrada do Pinheirinho com a Rua do Pinheirinho até encontrar o ponto 5; do ponto 5 segue pelo alinhamento da Rua do Pinheirinho com distância 15,56m e azimute 269º45’20” até o ponto 6; e distância 16,00m e azimute 288º29’17” até o ponto A; do ponto A deflete à direita e segue 94,65m com azimute 359º06’50”, confrontando com remanescente da propriedade de Cambaratiba Empreendimentos Imobiliários Ltda. (matrícula 185.074 do 18º RI-SP), até encontrar o ponto B, situado no eixo do Ribeirão Pinheirinho que divide o Município de São Paulo do Município de Caieiras; do ponto B deflete à direita e segue pelo eixo do Ribeirão Pinheirinho com distância 7,00m e azimute 74º45’46” até o ponto 15; distância 25,23m e azimute 67º29’02” até o ponto 16; distância 26,96m e azimute 71º38’10” até o ponto 17; distância 36,54m e azimute 68º24’57” até o ponto 18; e distância 30,23m e azimute 74º37’36” até o ponto 19; do ponto 19 deflete à direita e segue 105,82m com azimute 168º11’14”, confrontando com propriedade de Angelo Joaquim Vieira e outros (parte da matricula 46.398 do 18º RI-SP em desapropriação pela CDHU), até encontrar o ponto 1, inicial da descrição, encerrando a área de 13.700,00m² (treze mil e setecentos metros quadrados).<br>
+**Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para os fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365 de 21 de junho de 1941, alterado pela Lei federal nº 2.786 de 21 de maio de 1956.<br>
+**Artigo 3º -** As despesas decorrentes da execução deste decreto correrão à conta de recursos próprios da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU.<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 18 de junho de 2014<br>
+GERALDO ALCKMIN<br>
+Marcos Rodrigues Penido<br>
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Habitação<br>
+Edson Aparecido dos Santos<br>
+Secretário-Chefe da Casa Civil<br>
+Publicado na Casa Civil, aos 18 de junho de 2014.

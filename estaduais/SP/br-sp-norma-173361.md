@@ -1,0 +1,18 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=173361)
+
+# DECRETO Nº 60.717, DE 07 DE AGOSTO DE 2014
+
+### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por resultados - BR, instituída pela Lei Complementar nº 1.245, de 2014, para o exercício de 2014_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e à vista do disposto no § 1º do artigo 8º da [Lei Complementar nº 1.245, de 27 de junho de 2014](http://www.al.sp.gov.br/norma?id=173103),<br>
+Decreta:<br>
+**Artigo 1º -** Para o período de 1º de janeiro a 31 de dezembro de 2014, o valor anual máximo da Bonificação por Resultados - BR, fica fixado em 80 (oitenta) Unidades Básicas de Valor - UBV, a ser pago aos policiais civis e militares, integrantes das Polícias Civil, Técnico-Científica e Militar, conforme dispõe a [Lei Complementar nº 1.245, de 27 de junho de 2014](http://www.al.sp.gov.br/norma?id=173103), em 4 (quatro) cotas trimestrais de, no máximo, 20 (vinte) Unidades Básicas de Valor - UBV.<br>
+**Parágrafo único -** Os policiais que atuaram diretamente para o alcance de até 10 (dez) dos melhores resultados poderão receber, no máximo, o total de 120 (cento e vinte) Unidades Básicas de Valor - UBV, a título de Bonificação por Resultados - BR, conforme resolução conjunta a ser editada por comissão intersecretarial, nos termos do artigo 6º e do § 2º do artigo 8º da [Lei Complementar nº 1.245, de 27 de junho de 2014](http://www.al.sp.gov.br/norma?id=173103).<br>
+**Artigo 2º -** Este decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de janeiro de 2014.<br>
+Palácio dos Bandeirantes, 7 de agosto de 2014<br>
+GERALDO ALCKMIN<br>
+Fernando Grella Vieira<br>
+Secretário da Segurança Pública<br>
+Saulo de Castro Abreu Filho<br>
+Secretário-Chefe da Casa Civil<br>
+Publicado na Casa Civil, aos 7 de agosto de 2014.

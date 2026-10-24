@@ -1,0 +1,22 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=173280)
+
+# DECRETO Nº 60.658, DE 22 DE JULHO DE 2014
+
+### _Declara de utilidade pública, para fins de desapropriação pela ViaRondon Concessionária de Rodovia S.A., imóveis necessários a execução de obras de melhoria do dispositivo no km 618+800m da Rod. Marechal Rondon, SP-300, Município de Guaraçaí, comarca de Mirandópolis, no trecho que especifica e dá providências correlatas_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, e do disposto no Decreto estadual nº 53.312, de 8 de agosto de 2008,<br>
+Decreta:<br>
+**Artigo 1° -** Ficam declarados de utilidade pública para fins de desapropriação pela ViaRondon Concessionária de Rodovia S.A., empresa concessionária de serviço público, por via amigável ou judicial, imóveis descritos na planta cadastral de código nº DE-SPD618300-618.619-619-D01/001 e memorial descritivo constantes do processo ARTESP-16.056/2013-SLT, necessários a execução de obras de melhoria do dispositivo (tipo 5 - parclo com rotatória) no Km 618+800m da Rodovia Marechal Rondon, SP-300, Município de Guaraçaí, Comarca de Mirandópolis, com área total de 3.126,08m2 (três mil, cento e vinte e seis metros quadrados e oito decímetros quadrados), dentro dos perímetros a seguir descritos, imóveis estes que constam pertencer aos proprietários, a saber:<br>
+**I** - área-1 - a área a ser desapropriada, conforme planta nº DE-SPD618300-618.619-619-D01/001, situa-se no km 618+800 da Rodovia Marechal Rondon, SP-300, Município de Guaraçaí, Comarca de Mirandópolis, que consta pertencer a Joaquim Rikio Onodera, Tiyoko Oikawa Onodera e/ou outros, com linha de divisa partindo do ponto denominado 1 de coordenadas, N=7.678.131,891, E=478.850,227, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2 em linha reta com azimute 196°11'20,70" e distância de 12,72m; segmento 2-3 em linha reta com azimute 214°26'26,94" e distância de 26,21m; segmento 3-4 em linha reta com azimute 244°30'15,81" e distância de 6,40m; segmento 4-5 em linha reta com azimute 26°46'17,36" e distância de 31,35m; segmento 5-1 em linha reta com azimute 49°23'26,45" e distância de 13,21m, perfazendo uma área total de 204,25m2 (duzentos e quatro metros quadrados e vinte e cinco decímetros quadrados);<br>
+**II** - área-2 - a área a ser desapropriada, conforme planta nº DE-SPD618300-618.619-619-D01/001, situa-se no km 618+800m da Rodovia Marechal Rondon, SP-300, Município de Guaraçaí, Comarca de Mirandópolis, que consta pertencer a Tânia Regina Faria Maluly de Carvalho, Silvio Oliveira de Carvalho, Mônica de Faria Maluly, Jorge de Faria Maluly, Vera Regina Sauma Maluly e/ou outros com linha de divisa partindo do ponto denominado 1 de coordenadas, N=7.678.269,289, E=478.663,987, sendo constituída pelos segmentos a seguir relacionados: segmento 1-2 em linha reta com azimute 178°0'2,37" e distância de 48,73m; segmento 2-3 em linha reta com azimute 297°3'34,03" e distância de 28,95m; segmento 3-4 em linha reta com azimute 306°29'37,28" e distância de 22,14m; segmento 4-5 em linha reta com azimute 327°29'57,65" e distância de 19,71m; segmento 5-6 em linha reta com azimute 344°11'33,78" e distância de 52,41m; segmento 6-1 em linha reta com azimute 123°48'27,26" e distância de 80,33m, perfazendo uma área total de 2.921,83m2 (dois mil, novecentos e vinte e um metros quadrados e oitenta e três decímetros quadrados).<br>
+**Artigo 2° -** Fica a ViaRondon Concessionária de Rodovia S.A., autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1.941, alterado pela Lei federal nº 2.786, de 21 de maio de 1.956, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.
+
+**Artigo 3º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da ViaRondon Concessionária de Rodovia S.A..<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 22 de julho de 2014<br>
+GERALDO ALCKMIN<br>
+Clodoaldo Pelissioni<br>
+Secretário de Logística e Transportes<br>
+Saulo de Castro Abreu Filho<br>
+Secretário-Chefe da Casa Civil<br>
+Publicado na Casa Civil, aos 22 de julho de 2014.
