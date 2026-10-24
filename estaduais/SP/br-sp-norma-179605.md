@@ -1,0 +1,21 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=179605)
+
+# DECRETO Nº 62.222, DE 19 DE OUTUBRO DE 2016
+
+### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., imóveis necessários às obras de implantação do dispositivo (tipo 7 - retorno) do km 112+400m da Rodovia do Açúcar, SP-308, Município de Elias Fausto, Comarca de Monte Mor, no trecho que especifica e dá providências correlatas_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, e do disposto no Decreto estadual nº 53.312, de 8 de agosto de 2008,<br>
+Decreta:<br>
+**Artigo 1° -** Ficam declarados de utilidade pública para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., empresa concessionária de serviço público, por via amigável ou judicial, imóveis descritos na planta cadastral de código nº DE-SP0000308-112.113-021-D03/001 e memoriais descritivos constantes do processo ARTESP-19.266/2015, necessários às obras de implantação do dispositivo (tipo 7 - retorno) do km 112+400m da Rodovia do Açúcar, SP-308, Município de Elias Fausto, Comarca de Monte Mor, com área total de 3.074,13m² (três mil e setenta e quatro metros quadrados e treze decímetros quadrados), dentro dos perímetros a seguir descritos, imóveis estes que constam pertencer aos proprietários, a saber:<br>
+**I -** área 7 - a área a ser desapropriada, conforme planta nº DE-SP0000308-112.113-021-D03/001, que consta pertencer a Rui Thoni, Luciano De Almeida Thoni, Adriano De Almeida Thoni e/ou outros, com linha de divisa partindo do ponto denominado 1 de coordenadas, N=7.442.137,781, E=256.465,715, sendo constituída pelos elementos a seguir relacionados: segmento 1-2, em linha reta com azimute 350°19'58,57" e distância de 23,359m; segmento 2-3, em linha reta com azimute 029°00'42,79" e distância de 29,264m; segmento 3-1, em linha reta com azimute 191°55'39,49" e distância de 49,692m, perfazendo uma área 213,60m² (duzentos e treze metros quadrados, sessenta decímetros quadrados);<br>
+**II -** área 8 - a área a ser desapropriada, conforme planta nº DE-SP0000308-112.113-021-D03/001 que consta pertencer à FEAB - Empreendimentos e Participações Ltda. e/ou outros, com linha de divisa partindo do ponto denominado 1 de coordenadas, N=7.441.792,252, E=256.608,693, sendo constituída pelos elementos a seguir relacionados: segmento 1-2, em linha reta com azimute 275°53'31,29" e distância de 32,664m; segmento 2-3, em linha reta com azimute 269°34'19,28" e distância de 67,839m; segmento 3-4, em linha reta com azimute 293°23'37,63" e distância de 37,831m; segmento 4-5, em linha reta com azimute 033°41'09,49" e distância de 6,557m; segmento 5-6, em linha reta com azimute 071°08'15,51" e distância de 8,865m; segmento 6-7, em linha reta com azimute 082°24'37,49" e distância de 73,406m; segmento 7-8, em linha reta com azimute 103°39'03,93" e distância de 15,582m; segmento 8-9, em linha reta com azimute 168°41'21,43" e distância de 9,754m; segmento 9-1, em linha reta com azimute 124°17'21,71" e distância de 40,191m, perfazendo uma área 2.860,53m² (dois mil, oitocentos e sessenta metros quadrados, cinquenta e três decímetros quadrados).<br>
+**Artigo 2º -** Fica a Concessionária Rodovias do Tietê S.A. autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1.941, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.<br>
+**Artigo 3º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da Concessionária Rodovias do Tietê S.A..<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 19 de outubro de 2016<br>
+GERALDO ALCKMIN<br>
+Fabricio Cobra Arbex<br>
+Secretário-Adjunto, Respondendo pelo Expediente da Casa Civil<br>
+Saulo de Castro Abreu Filho<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 19 de outubro de 2016.

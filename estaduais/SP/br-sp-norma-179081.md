@@ -1,0 +1,19 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=179081)
+
+# DECRETO Nº 62.144, DE 15 DE AGOSTO DE 2016
+
+### _Declara de utilidade pública, para fins de desapropriação, pelo Departamento de Estradas de Rodagem - DER, área necessária às obras e serviços de implantação da ligação da Estrada Municipal MGB-246 ao dispositivo do km 108+0m da SP-360, Rodovia Engenheiro Constâncio Cintra, localizada no Município de Morungaba, que especifica e dá providências correlatas_
+
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º, do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pelas Leis federais nº 2.786, de 21 de maio de 1956, nº 6.306, de 15 de dezembro de 1975, e nº 6.602, de 7 de dezembro de 1978,<br>
+Decreta:<br>
+**Artigo 1º -** Fica declarada de utilidade pública, a fim de ser desapropriada pelo Departamento de Estradas de Rodagem - DER, por via amigável ou judicial, área e respectivas benfeitorias necessárias às obras e serviços de implantação da ligação da Estrada Municipal MGB-246 ao dispositivo do km 108+0m da SP-360, Rodovia Engenheiro Constâncio Cintra, devidamente caracterizada no cadastro de número CD-SP0000360-090.123-000-D02/826 e respectiva planta, constantes nos Autos nº 273729/01/DER/2016, localizada no Município de Morungaba, com área total de 6.012,88m² (seis mil e doze metros quadrados e oitenta e oito decímetros quadrados), na seguinte conformidade: a área “A” a ser declarada de utilidade pública conforme cadastro nº CD-SP0000360-090.123-000-D02/826, com 6.012,88m² (seis mil e doze metros quadrados e oitenta e oito decímetros quadrados) é constituída pelo imóvel localizado entre as estacas 874+5,83m e 887+13,19m da Pista Oeste da SP-360, Rodovia Engenheiro Constâncio Cintra, localizada no Município de Morungaba, Comarca de Itatiba, e tem suas linhas de divisa definidas pelo ponto 1 de coordenadas N=7.471.428,23 e E=317.114,03 e pelos segmentos 1-2 com azimute de 267°07'23" e distância de 13,98m; 2-3 com azimute de 345°21'38" e distância de 75,42m; 3-4 com azimute de 340°40'29" e distância de 46,13m; 4-5 com azimute de 356°25'10" e distância de 65,49m; 5-6 com azimute de 8°08'24" e distância de 17,36m; 6-7 com azimute de 23°38'22" e distância de 55,33m; 7-8 com azimute de 32°06'04" e distância de 26,70m; 8-9 com azimute de 8°07'57" e distância de 7,78m; 9-10 com azimute de 325°47'14" e distância de 7,05m; 10-11 com azimute de 35º05'26" e distância de 5,69m; 11-12 com azimute de 124°03'53" e uma distância de 16,71m; 12-13 com azimute de 128º13’16” e distância de 3,73m; 13-14 com azimute de 135º24’03” e distância de 6,57m; 14-15 com azimute de 220º24’03” e distância de 18,30m; 15-16 com azimute de 207º32’07” e distância de 36,44m; 16-17 com azimute de 187º21’45” e distância de 39,91m; 17-18 com azimute de 176º48’47” e distância de 76,05m; 18-19 com azimute de 169º49’59” e distância de 51,68m e 19-1 com azimute de 168º32’54” e distância de 62,05m.<br>
+**Artigo 2º -** Fica o Departamento de Estradas de Rodagem - DER autorizado a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956.<br>
+**Artigo 3º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria do Departamento de Estradas de Rodagem - DER.<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 15 de agosto de 2016<br>
+GERALDO ALCKMIN<br>
+Samuel Moreira da Silva Junior<br>
+Secretário-Chefe da Casa Civil<br>
+Saulo de Castro Abreu Filho<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 15 de agosto de 2016.
