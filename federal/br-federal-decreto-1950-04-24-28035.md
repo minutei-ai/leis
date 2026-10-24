@@ -1,0 +1,21 @@
+###DEC-028035-0-000-24-04-1950@@@
+
+<strong>DECRETO Nº 28.035, DE 24 DE ABRIL DE 1950.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Manoel Gonçalves Ribeiro a pesquisar calcita, quartzo, bauxita e caulim, no município de Mogi das Cruzes, Estado de São Paulo.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, e nos têrmos dos artigos 152 e 153 da Constituição, e do Decreto nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão Manoel Gonçalves Ribeiro a pesquisar calcita, quartzo, bauxita e caulim em uma área de trinta hectares, dezoito ares e seis centiares (30,1806ha), em terrenos de sua propriedade no “Sítio mirim”, localidade de Biritiba-Assu, distrito de taiaçupeba, município de Mogi das Cruzes, Estado de São Paulo, delimitada por um polígono irregular que tem um vértice a oitocentos e seis metros (806m) no rumo magnético dezoito graus e cinqüenta e cinco minutos lométrico número sessenta e sete (Km 67) da rodovia Biritiba-Assu-Mogi das Cruzes, e os lados a partir dêsse vértice os seguintes comprimentos e rumos magnéticos: cento e oito metros (108m), oitenta e dois graus e cinco minutos nordeste (82º05’NE); oitenta e seis metros (86m), setenta graus sudoeste (70ºSE); cem metros (100m), cinqüenta e três graus e cinqüenta e quatro minutos sudoeste (53º54’SE); cento e doze metros (112m), oitenta e cinco graus e trinta e cinco minutos nordeste (85º35’NE), setenta e nove metros (79m), oitenta e dois graus e quarenta e oito minutos sudeste (82º48’SE); quarenta e sete metros (47m), vinte dois graus e doze minutos sudeste (22º12’SE); cinqüenta e seis metros (56m), onze graus e trinta minutos sudeste (11º30’SE); cinqüenta e quatro metros (54m), quinze graus e quarenta e um minutos sudeste (15º41’SE); sessenta e cinco metros (65m), três graus e cinqüenta e três minutos sudeste (3º53’SE); noventa e dois metros (92m), quatorze graus e cinco minutos sudoeste (14º05’SW); cento e doze metros (112m), cinqüenta e sete graus e quinze minutos sudoeste (57º15’SW); duzentos e sessenta metros (260m), cinqüenta e um graus noroeste (51ºNW); quinhentos e setenta e cinco metros (575m), três graus e vinte oito minutos sudeste (3º28‘SE); setenta e cinco metros (75m), vinte e nove graus e cinqüenta e nove minutos sudoeste (29º59’SW); cento e dois metros (102m), setenta e um graus e trinta minutos sudoeste (71º30’SW); sessenta metros (60m), quarenta e um graus e cinco minutos noroeste (41º05’NW); quarenta e oito metros (48m), vinte e nove graus e trinta e cinco minutos noroeste (29º35’NW); setenta e nove metros (79m), vinte e sete graus e dez minutos noroeste (27º10’NW); cinqüenta e três metros (53m), trinta e seis graus noroeste (36ºNW); cinqüenta e um metros (51m), trinta graus e trinta e cinco minutos noroeste (30º35’NW); quarenta e dois metros (42m), trinta e seis graus noroeste (36ºNW); cento e trinta e dois metros (132m), quarenta e cinco graus e dois minutos noroeste (45º02’NW); quarenta e quatro metros (44m), cinqüenta e três graus e quinze minutos nordeste (53º15’NE); quarenta e dois metros (42m), quarenta e oito graus nordeste (48ºNE); cento e cinqüenta e seis metros (156m), trinta e quatro graus e quarenta e um minutos nordeste (34º41’NE); cento e noventa e um metros (191m), vinte e sete graus e trinta minutos nordeste (27º30’NE); trinta seis metros (36m), vinte graus nordeste (20ºNE); cinqüenta e nove metros (59m), dezoito graus e cinqüenta e quatro minutos noroeste (18º54’ NW); cento e sete metros (107m), oitenta e nove graus e trinta minutos noroeste (89º30’NW); cento sessenta metros (160m), três graus e quinze minutos nordeste (3º15’NE).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos e dez cruzeiros (Cr$310,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 24 de abril de 1950; 129º da Independência e 62º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Daniel de Carvalho
