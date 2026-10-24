@@ -1,0 +1,21 @@
+###DEC-027171-0-000-12-09-1949@@@
+
+<strong>DECRETO Nº 27.171, DE 12 DE SETEMBRO DE 1949.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Melício de Souza Machado Filho a pesquisar calcário no município de Cotinguiba, Estado de Sergipe.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, e nos têrmos dos artigos 152 e 153 da Constituição, e do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro Melício de Sousa Machado Filho a pesquisar calcário em três diferentes áreas, perfazendo o total de oitenta e seis hectares e cinquenta e cinco ares (86,55 ha), áreas essas situadas no lugar denominado Fazenda Castelo, de sua propriedade, no distrito e município de Cotinguiba, Estado de Sergipe. A primeira área, de sessenta e três hectares e cinquenta ares (63,50 ha), é delimitada por um polígono que tem um vértice a mil oitocentos e vinte metros (1.820 m), no rumo verdadeiro cinquenta e três graus e quarenta e cinco minutos nordeste (53º 45’ NE), do centro da estação de Contiguiba, da Viação Férrea Federal Leste Brasileiro, e os lados, a partir dêsse Vértice, têm os seguintes comprimentos e rumos verdadeiros: quatrocentos e noventa metros (490m), este (E); duzentos e quarenta e dois metros (242m), dois graus e vinte minutos nordeste (2º 20’ NE); trezentos e setenta metros (370m), vinte e quatro graus e cinquenta e cinco minutos nordeste (24º 55’ NE); duzentos e trinta metros (230m), trinta e três graus e trinta e três minutos noroeste (33º 33’ NW); trezentos e vinte e cinco metros (325m), oitenta e seis graus e quarenta e sete minutos sudoeste (86º 47’ SW); seiscentos metros (600m), trinta e cinco graus e vinte e três minutos noroeste (35º 23’ NW); trezentos metros (300m), cinquenta graus e cinquenta e nove minutos sudoeste (50º 59’ SW); trezentos e sessenta metros (360m), quarenta e cinco graus e quinze minutos sudeste (45º 15’ SE); duzentos metros (200m), vinte e quarenta graus sudoeste (24º 00’ SW); quinhentos e trinta metros (530m), dezessete graus e quinze minutos sudeste (17º 15’ SE). A segunda área, de onze hectares e onze ares (11,11 ha) é delimitada por um polígono que tem um vértice a dois mil oitocentos e sessenta metros (2.860 m) no rumo verdadeiro sessenta e sete graus e trinta e cinco minutos nordeste (67º 35’ NE), do centro da referida estação e os lados, a partir dêsse vértice, têm os seguintes comprimentos e rumos verdadeiros: quinhentos e dez metros (510m), este (E); cento e oitenta e cinco metros (185m), cinquenta e três graus e cinquenta e oito minutos noroeste (53º 58’ WE); trezentos e quarenta metros (340m), quarenta e um graus e vinte minutos noroeste ( 41º 20’ NW), duzentos metros (200m), sessenta e dois graus sudoeste (62º 00 SW); duzentos e setenta metros (270m), oito graus e cinquenta minutos sudeste (8º 50’ SE). A terceira área, de onze hectares e noventa e quatro ares (11,94 ha ), é delimitada por um polígono que tem um vértice a três mil quatrocentos e trinta e cinco metros (3.345 metros), no rumo verdadeiro setenta e um graus e cinquenta minutos nordeste (71º 50’ NE), do centro  da supra referida estação, e os lados, a partir dêsse vértice têm os seguintes comprimentos e rumos verdadeiros: duzentos e setenta e cinco graus nordeste (45º 00 NE); cento e sessenta metros (160m), quarenta e seis graus e vinte e um minutos nordeste (34º 21’ NE); cento e sessenta metros (160m), dezoito graus e cinco minutos noroeste (18º 05’ NW); cem metros (100m), setenta e quatro graus e doze minutos noroeste (74º 12’ NW); trezentos e sessenta e cinco metros (365m), vinte graus sudoeste (20º 00’ SW); trezentos metros (300 metros), trinta e um graus e vinte minutos sudeste (31º 20’ SE).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto pagara a taxa de oitocentos e setenta cruzeiros (Cr$870,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se  as disposições em contrário.
+
+Rio de Janeiro, 12 de setembro de 1949; 128º da Independência e 61º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Daniel de Carvalho
