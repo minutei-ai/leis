@@ -1,0 +1,23 @@
+###DEC-019484-0-000-23-08-1945@@@
+
+<strong>DECRETO Nº 19.484, DE 23 DE AGÔSTO DE 1945.</strong>
+
+<em><strong>Retifica o Decreto nº 17.354, de 13 de dezembro de1944.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica retificado o artigo primeiro (1º) do decreto lei número dezessete mil trezentos e cinqüenta e quatro (17.354), de treze (13) de dezembro de mil novecentos e quarenta quatro (1944), que autorizou o cidadão brasileiro Ciro Ribeiro Pereira a pesquisar minério de zircônio e associados no município de Parreiras, Estado de Minas Gerais, o qual passa a ter a seguinte redação: "Fica autorizado o cidadão brasileiro Ciro Ribeiro Pereira a pesquisar minério de zircônio e associados em terrenos situados no lugar denominado Pouso Alegre, distrito e município de Parreiras, Estado de Minas Gerais, numa área de quarenta e sete hectares, cinqüenta e um ares e quarenta centiares (47,5140 ha), corresponde à diferença entre a área de quarenta e nove hectares e oitenta ares (49,80 ha) definida no artigo primeiro (1º) do referido decreto número dezessete mil trezentos e cinqüenta e quatro (17.354), de treze (13) de dezembro de mil novecentos e quarenta e quatro (1944), outorgada a Ciro Ribeiro Pereira, e as duas primeiras áreas, respectivamente, com um hectare, oito ares e sessenta centiares (1,0860 ha) e um hectare e vinte ares (1,20 ha), que foram concedidas para lavra à Cia. Geral de Minas S.A., pelo decreto número dezoito mil quatrocentos e oitenta e seis (18.486), de vinte e seis (26) de abri de mil e novecentos e quarenta e cinco (1945). A área de quarenta e nove hectares e oitenta ares (49,80 ha) é delimitada por um polígono mistlíneo que tem um vértice na confluência do córrego do Barreiro com o córrego do Retiro de José Emboaba, afluente do ribeirão Pouso Alegre, e os lados, a partir do vértice considerado, têm: duzentos e cinqüenta e cinco metros (255m), sessenta graus noroeste (60º NW) magnético; oitocentos e cinco metros (805m), trinta graus sudoeste (30º SW) magnético; oitocentos e oitenta e cinco metros (885m), trinta graus sudeste (30º SE) magnético; o quarto (4º) é o segmento retilíneo que partindo da extremidade do terceiro (3º) lado, com rumo sessenta graus nordeste (60º NE), magnético, alcança o ribeirão Pouso Alegre; o quinto (5º) lado é o rio Pouso Alegre no trecho compreendido entre a extremidade do quarto (4º) lado e a barra do córrego Retiro de José Emboaba; o último lado é o córrego Retiro de José Emboaba; no trecho compreendido entre sua barra e o vértice de partida. A área de um hectare, oito ares e sessenta centiares (1,0860 ha) é delimitada por um pentágono irregular que têm um vértice a cento e vinte metros (120m), no rumo magnético dez graus e trinta minutos noroeste (10º 30’ NW), da confluência do córrego Campinho com o ribeirão Pouso Alegre, e os lados, a partir do vértice considerado, têm os seguintes comprimentos e rumos magnéticos: centos e trinta metros (130m), quarenta e cinco graus nordeste (45º NE); oitenta e quatro metros (84m), quarenta e quatro graus noroeste (44º NW); oitenta e quatro metros (84m), quarenta e cinco graus sudoeste (45º SW); noventa metros (90m), dez graus sudoeste (10º SW); quarenta metros (40m), leste (E). A área de um hectare e vinte ares (1,20 ha), é delimitada por um hexágono irregular que tem um vértice a cento e quatro metros (104m), no rumo magnético setenta graus noroeste (70º NW); do ponto de amarração da área precedente, e os lados, a partir do vértice considerado, têm os seguintes comprimentos e rumos magnéticos: cento e dez metros (110m), treze graus sudeste (13º SE); cinqüenta e quatro metros (54m), vinte e dois graus sudoeste (22º SW); quarenta e quatro metros (44m), setenta e cinco graus sudoeste (75º SW); noventa e seis metros (96m), quarenta e dois graus e trinta minutos noroeste (42º 30’ NW); quarenta e seis metros (46m), vinte e sete graus nordeste (27º NE); cem metros (100m), cinqüenta e seis graus nordeste (56º NE).
+
+<strong>Art</strong>. 2º Ficam mantidas as demais disposições dos artigos do referido decreto, que passam a fazer parte integrante do presente decreto.
+
+<strong>Art</strong>. 3º A presente alteração de decreto não fica sujeita a pagamento de taxa na forma do art. 17 do Código de Minas.
+
+<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 23 de agôsto de 1945; 124º da Independência e 57º da República.
+
+<strong>GETULIO VARGAS</strong>
+
+Apolonio Sales
