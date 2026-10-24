@@ -1,0 +1,19 @@
+###DEC-026589-0-000-13-04-1949@@@
+
+<strong>DECRETO Nº 26.589, DE 13 DE ABRIL DE 1949.</strong>
+
+<em><strong>Autoriza a permuta do domínio útil de imóveis da União, situados nesta capital.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 134 do Decreto-lei nº 9.760, de 5 de setembro de 1946,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1<strong>º</strong> Fica o Ministério da Fazenda, por intermédio do Serviço do Patrimônio da União, autorizado a permutar o domínio útil dos seguintes Imóveis da União, situados nesta capital:- Primeiro terreno - Uma faixa de terreno de forma retangular medindo 11,89 m (onze metros e oitenta e nove centímetros) - de frente e 53,50 m. (cinquenta e três metros e cinquenta centímetros) de profundidade, confrontando na frente com a Avenida Rio de Janeiro, nos fundos a faixa das linhas férreas do Cais do Pôrto, ao norte com terreno da União Federal (A. P. R. J.) e ao sul, com terrenos aforados a Dianda, Lopez & Cia, Ltda. Área: 636,11m<sup>2</sup> (seiscentos e trinta e seis metros quadrados e onze decímetros quadrados), - segundo terreno - terreno de forma retangular medido 100,00 m. (cem metros) de frente e 53,50 m. (cinquenta e três metros e cinquenta centímetros) de profundidade, confortando na frente com a Avenida Rio de Janeiro, nos fundos com a faixa de linhas férreas do Cáis do pôrto, ao sul, com o terreno da União Federal (A. P. R. J.) anteriormente descrito e ao norte com terrenos da mesma União Federal (A. P.R.J.). Área 5.350,00 m<sup>2</sup> (cinco mil, trezentos e cinquenta metros quadrados); pelo domínio útil dos seguintes terrenos, situados nesta Capital, pertencentes à firma Dianda, Lopez & Cia. Ltda.: - primeiro terreno - Uma faixa na esquina das avenidas Rio de Janeiro e Brasil, medindo: de frente, para a faixa das linhas férreas do Cáis do Pôrto, 19,42 m.(dezenove metros e quarenta e dois centímetros); confrontando com terrenos aforados á permutante Dianda Lopes e Cia. Ltda., dos quais é desmembrada a presente faixa, 93.32 m (noventa e três metros e trinta e dois centímetros) fazendo com o alinhamento anterior um ângulo de 30º 51´(trinta graus, cinqüenta e um minutos); no chanfro na esquina da Avenida Rio de Janeiro com a faixa das linhas férreas 7.94 m (sete metros e noventa e quatro centímetros), fazendo com o alinhamento anterior um ângulo de 59º 09´(cinqüenta e nove graus e nove minutos); de frente para a faixa das linhas férreas, 72.64 m (setenta e dois metros e sessenta e quatro centímetros), fazendo um ângulo de 123º 20´(cento e vinte e três graus e vinte minutos) com o alinhamento anterior e de 146º 40’ (cento e quarenta e seis graus e quarenta minutos), com o primeiro alinhamento citado. Área: 705.66 m<sup>2</sup> (setecentos e cinco metros quadrados e sessenta e seis decímetros quadrados); segundo terreno - terreno de forma retangular medindo 100.00 m (cem metros) de frente e 53.50 (cinqüenta e três metros e cinqüenta centímetros) de profundidade, confrontando na frente com a Avenida Rio de Janeiro, nos fundos com a faixa das linhas férreas, ao sul, com terrenos da União Federal (A. P. R. J.) e ao norte com terreno aforado á The Lancashire General Investement Company Limited, do qual o presente foi desmembrado. Área: 5.350.00 m<sup>2</sup> (cinco mil trezentos e cinqüenta metros quadrados), tudo de acôrdo com a proposta, elementos técnicos e demais especificações constantes do processo protocolado no Ministério da Fazenda sob o nº 65.480, de 1949.
+
+<strong>Art</strong>. 2<strong>º</strong> Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 13 de abril de 1949; 128º da Independência e 61º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Corrêa G. Castro
