@@ -1,0 +1,21 @@
+###DEC-022846-0-000-28-03-1947@@@
+
+<strong>DECRETO Nº 22.846, DE 28 DE MARÇO DE 1947.</strong>
+
+<em><strong>Autoriza</strong></em>  <em><strong>o cidadão brasileiro Mauro Paes de Almeida a pesquisar areia quartzosa no município de São Vicente, Estado de São Paulo.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o art. 87, nº I, da Constituição, e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica auorizado o cidadão brasileiro Mauro Paes de Almeida a pesquisar areia quartzosa numa área de duzentos e vinte e seis hectares e cinqüenta ares (226,50 ha) situada no distrito e município de São Vicente, Estado de São Paulo, e delimitada por um polígono irregular que têm um vértice à distância de mil quatrocentos e cinqüenta metros (1450m), no rumo verdadeiro cinqüenta e dois graus e quinze minutos noroeste (52º 15’ NW), do marco do quilômetro doze (km 12) do ramal Santos-Juquiá, da Estrada de Ferro Sorocabana, e cujos lados têm a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: duzentos e vinte e cinco metros (225m), quatorze graus noroeste (14º NW); quatrocentos e vinte metros (420m), vinte e nove graus e trinta minutos noroeste (29º 30’ NW); cento e quinze metros (115m), vinte e sete graus e quarenta e cinco minutos noroeste (27º 45’ NW); duzentos e trinta e cinco metros (235m), sessenta e um graus e trinta minutos noroeste (61º 30’ NW); noventa metros (90m), setenta e nove graus e quinze minutos sudoeste (79º 15’ SW); cento e quinze metros (115m), quarenta e dois graus sudoeste (42º SW); cento e setenta e cinco metros (175m), setenta e nove graus sudoeste (79º SW); duzentos e dez metros (210m), cinqüenta e dois graus e quinze minutos noroeste (52º 15’ NW); cento e vinte e cinco metros (125m), dez graus e quarenta e cinco minutos nordeste (10º 45’ NE); duzentos e trinta e cinco metros (235m), oitenta graus nordeste (80º NE); trezentos metros (300m), setenta e sete graus e trinta minutos sudoeste (77º 30’ SW); trezentos e vinte metros (320m), cinqüenta e dois graus e trinta minutos noroeste (52º 30’ NW); duzentos e sessenta metros (260m), um grau sudoeste (1º SW); duzentos e oitenta metros (280m), trinta e quatro graus sudoeste (34º SW); cento e vinte metos (120m), setenta e quatro graus e quinze minutos noroeste (74º 15’ NW); duzentos e cinqüenta metros (250m), vinte graus nordeste (20º NE); trezentos e sessenta metros (360m), trinta e quatro graus e trinta minutos noroeste (34º 30’ NW); cento e setenta metros (170m), oitenta e oito graus noroeste (88º NW); quatrocentos metros (400m), vinte e sete graus e trinta minutos noroeste (27º 30’ NW); cento e noventa e cinco metros (195m), oitenta e quatro graus  e trinta minutos noroeste (84º 30’ NW); cento e setenta metros (170m), quarenta e seis graus e trinta minutos sudoeste (46º 30’ SW); cento e oitenta e cinco metros (185m), vinte e três graus sudoeste (23º SW); duzentos e quinze metros (215m), sessenta e três graus sudoeste (63º SW); mil novecentos e trinta metros (1930m), cinqüenta e dois graus e quinze minutos sudeste (52º 15’ SE); duzentos e quarenta e cinco metros (245m), oitenta e sete graus e quarenta e cinco minutos nordeste (87º 45’ NE); trezentos e quarenta metros (340m), sessenta e dois graus e trinta minutos sudeste (62º 30’ SE); Duzentos e quinze metros (215m), setenta graus e trinta minutos nordeste (70º 30’ NE); trezentos e setenta metros (370m), oitenta e quatro graus e trinta minutos nordeste (84º 30’ NE); trezentos e vinte metros (320m), oitenta e seis graus sudeste (86º SE): a reta que liga a extremidade dêste último lado ao vértice de partida.
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste decreto, pagará a taxa de dois mil duzentos e setenta cruzeiros (Cr$ 2.270,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º revogam-se as disposições em contrário.
+
+Rio de Janeiro, 28 de março de 1947, 126º da Independência e 59º da República.
+
+<strong>EURICO G. DUTRA</strong>
+
+Daniel de Carvalho
