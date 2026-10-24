@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**192.518 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**192.533 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -37,7 +37,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Piauí](estaduais/PI/) | 1 |
 | Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.661 |
 | Estadual | [Rio Grande do Norte](estaduais/RN/) | 43 |
-| Estadual | [Rio Grande do Sul](estaduais/RS/) | 1 |
+| Estadual | [Rio Grande do Sul](estaduais/RS/) | 16 |
 | Estadual | [Rondônia](estaduais/RO/) | 3 |
 | Estadual | [Roraima](estaduais/RR/) | 1 |
 | Estadual | [Santa Catarina](estaduais/SC/) | 266 |
@@ -59,7 +59,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Alfenas, de Águas Formosas e de Belo Horizonte, do Diário Oficial de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Alfenas, de Águas Formosas e de Belo Horizonte, do Diário Oficial de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
