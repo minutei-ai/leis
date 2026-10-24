@@ -1,0 +1,23 @@
+###DEC-034097-0-000-07-10-1953@@@
+
+<strong>DECRETO Nº 34.097, DE 7 DE OUTUBRO DE 1953.</strong>
+
+<em><strong>Retifica o artigo 1.º, do Decreto número 25.634, de 6 de outubro de 1948.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição e nos têrmos do Decreto-lei de número 1.985, de 29 de janeiro de 1940 - (Código de Minas).
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica retificado o artigo primeiro (1º) do Decreto de número vinte e cinco mil seiscentos e trinta e quatro (25.634), de seis (6) de outubro de mil novecentos e quarenta e oito (1948), que autoriza o cidadão brasileiro Mauro Paes de Almeida a lavrar areia quatorza, no município de São Vicente, Estado de São Paulo, o qual passa a ter a seguinte redação: - Fica autorizado o cidadão brasileiro Mauro Paes de Almeida a lavrar areia quartoza em terrenos situados no distrito e municípios de São Vicente, Estado de São Paulo, em duas diferentes áreas perfazendo um total de duzentos e doze hectares e oitenta e três ares (212,83 ha.), assim descritas: a primeira (1ª) com cento e oito hectares e trinta e seis ares (108,36 ha.), é delimitada por um polígono irregular que tem um vértice coincidindo com o marco do antigo quilômetro quinze (Km 15) e atual quilômetro duzentos e sete mais oitocentos e noventa e três metros e quarenta centímetros (km 207 + 893,40 m.), da linha da Estrada de Ferro Sorocaba, no trecho Samaritá-São Vicente, e os lados, a partir do vértice considerado, têm o seguintes comprimentos e rumos verdadeiros: oitocentos e setenta metros (870 m), cinqüenta e sete graus e trinta minutos noroeste - (57º 30’ NW); setenta e cinco metros (75 m.), quarenta e três graus e quarenta e cinco minutos nordeste – (43º 45’NE); trezentos e trinta metros (330 m.), sete graus e quinze minutos nordeste (7º 15’NE); duzentos e quarenta e cinco metros (245 m.), vinte e dois graus e quarenta e cinco minutos noroeste (22º 45’NW); trezentos metros (300 m.), oitenta e sete graus e quinze minutos nordeste – (87º 15’NE); cento e cinquenta e seis metros (156 m.), onze graus nordeste (11º NE); o sétimo (7.º) lado é o segmento retilíneo que une a extremidade do sêxto (6.º) lado descrito ao marco do antigo quilômetro quatorze (Km 14) e atual quilômetro duzentos e oito mais oitocentos e noventa e três metros e quarenta centímetros (K 208 + 893,40 m.), da linha da Estrada de Ferro Sorocaba, no trecho Samaritá-São Vicente; o oitavo (8.º) e último lado é uma linha paralela aos trilhos da citada ferrovia, abrangendo o trecho entre os antigos quilômetros quatorze (Km 14) e quinze (Km 15); a segunda (2ª), com cento e quatro hectares e quarenta e sete ares (104, 47 ha.), é delimitada por um polígono irregular, que tem um vértice a dois mil duzentos e dez metros (2.210 m.), no rumo verdadeiro de cinquenta e sete graus e trinta minutos noroeste (57º 30’NW) do marco do antigo quilômetro quinze (Km 15) supra mencionado, e os lados a partir dêsse vértice têm os seguintes comprimentos e rumos verdadeiros: setenta e sete metros (77 m.), cinquenta e cinco graus e quarenta e cinco minutos nordeste (55º 45’NE); duzentos metros (200 m.), vinte e nove graus e quarenta e cinco minutos nordeste (29º 45’NE); quinhentos e trinta metros (530 m.), cinquenta e oito graus e quinze minutos noroeste (58º 15’NW); seiscentos e trinta metros (630 m.), cinquenta e oito graus cinco minutos nordeste (58º 05’NE); mil e quatrocentos e noventa metros (1.490 m.), cinquenta e sete graus e trinta minutos noroeste (57º 30’NW); cento e cinquenta e cinco metros (155 m.), oito graus e cinquenta e cinco minutos sudeste (8º 55’ SE); cento e quinze metros (115 m.), quarenta e cinco graus e cinquenta e cinco minutos sudeste (45º 55’SE); trezentos e cinquenta metros (350 m.), doze graus e quinze minutos sudoeste (12º 15’ SW); cento e quarenta metros (140 m.), vinte e sete graus e vinte cinco minutos sudoeste (27º 25’SW); duzentos e oitenta metros (280 m), sessenta e nove graus e quinze minutos sudoeste (60º 15’ SW); mil e quinhentos e cinquenta metros (1.550 m.), cinquenta e sete graus e trinta minutos sudeste (57º 30’ SE).
+
+<strong>Art</strong>. 2º Ficam mantidas as demais disposições dos artigos do referido Decreto, que passarão a fazer parte integrante do presente.
+
+<strong>Art</strong>. 3º A presente retificação de Decreto não fica sujeita ao pagamento da taxa prevista pelo parágrafo único do artigo 31 do Código de Minas.
+
+<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, em 7 de outubro de 1953; 132º da Independência e 65º da República.
+
+<strong>GETÚLIO VARGAS</strong>
+
+João Cleofas
