@@ -1,0 +1,21 @@
+###DEC-031857-0-000-27-11-1952@@@
+
+<strong>DECRETO Nº 31.857, DE 27 DE NOVEMBRO DE 1952.</strong>
+
+<em><strong>Autoriza os cidadãos brasileiros Godofredo Pinto, Oscar de Luna Freire, Heller Redo Barroso e Walter Lemos Batista, a pesquisar minério de manganês e associados, no município de Nossa Senhora das Dôres, Estado de Sergipe.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do Decreto-lei número 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Ficam autorizados os cidadãos brasileiros Godofredo Pinto, Oscar de Luna Freire, Heller Redo Barroso e Walter Lemos Batista, a pesquisar minério de manganês e associados, em terrenos de propriedade de Alvaro de Oliveira e José Joaquim de Santana, no lugar denominado Serra do Besouro, distrito e município de Nossa Senhora das Dôres, Estado de Sergipe, numa área de catorze hectares setenta e nove ares e sessenta e sete centíares (14,7967 ha) delimitada por um polígono irregular, que tem um vértice em um marco de concreto, com as iniciais J. A., cravado à margem da Estrada Nossa Senhora das Dôres-Itabaiana e os lados, a partir dêsse vértice, os seguintes comprimentos e rumos magnéticos: cinqüenta três metros e noventa e um centímetros (53,91m), sessenta e quatro graus e trinta minutos noroeste (64º 30’ NW); cento e quarenta e seis metros e sessenta e três centímetros (146,63m), setenta e quatro graus e três minutos noroeste (74º 03’ NW); sessenta e um metros e dezenove centímetros (61,19m), quarenta e oito graus e quarenta minutos noroeste (48º 40’ NW); cinqüenta e um metros e setenta e três centímetros (51,73m), quarenta graus e vinte um minutos noroeste (40º 21’ NW); noventa e um metros e setenta e nove centímetros (91,79m), quarenta e quatro graus e nove minutos noroeste (44º 09’ NW); cinqüenta e três metros e trinta centímetros (53,30m), quarenta e três graus e quatro minutos noroeste (43º 04’ NW); quarenta metros e quarenta e quatro centímetros (40,44m), quarenta e seis graus e cinco minutos noroeste (46º 05’ NW); setenta e três metros e oitenta e nove centímetros (73,89m), cinqüenta e três graus e dezoito minutos noroeste (53º 18’ NW); cinqüenta e sete metros e noventa e oito centímetros (57,98m), dezenove graus e cinqüenta minutos sudoeste (19º 50’ SW); noventa metros e cinco centímetros (90,05m), cinqüenta e nove graus e cinqüenta e seis minutos sudoeste (59º 56’ SW); quarenta metros e oitenta e sete centímetros (40,87m), cinqüenta e nove graus e quarenta e dois minutos sudoeste (59º 40’ SW); quarenta metros e trinta e sete centímetros (40,37m), dezoito graus e cinqüenta e dois minutos sudoeste (18º 52’ SW); cento e onze metros e vinte e cinco centímetros (111,25m), dezoito graus e seis minutos sudoeste (18º 06’ SW); cento e oito metros e vinte e nove centímetros (108,29m),cinqüenta e dois graus e cinco minutos sudeste (52º 05’ SE); cento e vinte e dois metros e setenta e dois centímetros (122,72m), setenta e cinco graus e cinqüenta e quatro minutos sudeste (75º 54’ SE); oitenta e cinco metros e cinqüenta e sete centímetros (85,57m), cinqüenta e três graus e nove minutos sudeste (53º 09’ SE); cento e noventa e três metros e quarenta e nove centímetros (193,49m), cinqüenta e três graus e dezenove minutos sudeste (53º 19’ SE); cento e cinqüenta e um metros e setenta e um centímetros (151,71m), quarenta e nove graus e quarenta minutos nordeste (49º 40’ NE); setenta e um metros e trinta e oito centímetros (71,38m), quarenta graus e três minutos nordeste (40º 03’ NE). O último lado da poligonal é o alinhamento retilíneo que une a extremidade do penúltimo lado acima descrito ao vértice de partida.
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral, do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, em 27 de novembro de 1952; 131º da Independência e 64º da República.
+
+<strong>GETÚLIO VARGAS</strong>
+
+João Cleofas

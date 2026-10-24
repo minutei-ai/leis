@@ -1,0 +1,21 @@
+###DEC-031968-0-000-19-12-1952@@@
+
+<strong>DECRETO Nº 31.968, DE 19 DE DEZEMBRO DE 1952.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Thomas Marinho de Alburquerque Andrade a pesquisar calcário e argila no município</strong></em>  <em><strong>de Tomazina, Estado do Paraná.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro Thomaz Marinho de Albuquerque Andrade a pesquisar calcário e argila de terrenos dos herdeiros de Justino Xavier e de José Joaquim dos Santos, situados no lugar denominado Barra Sêca, no distrito e município de Tomazina, Estado do Paraná, numa área de quatrocentos e setenta e cinco hectares e trinta e oito ares (475,38 há), delimitada por um polígono irregular e cinquenta e oito metros (558 m), no rumo magnético sul (S) da confluência do córrego Água do Nestor com o ribeirão Paroba, e os lados a partir do vértice considerado, têm os seguintes comprimentos e rumos magnéticos: novecentos metros (900 m), sessenta e quatro graus sudoeste (64º SW); setecentos e trinta e cinco metros (735 m), cinquenta e  seis graus e trinta minutos noroeste (56º 30’ NW); mil e quarenta metros (1.040 m), oitenta e oito graus e trinta minutos noroeste (88º 30’ NW); oitocentos e dez metros (810 m), quatro graus e trinta minutos sudeste (4º 40’ SE); trezentos e sessenta metros (360 m), trinta e sete graus e trinta minutos sudoeste (37º 30’ SW); seiscentos e noventa metros (690 m); setenta e seis graus e trinta minutos noroeste (76º 30’ NW); seiscentos e cinquenta e cinco metros (655), cinquenta e cinco graus  dez minutos sudoeste (55º 10’ SW); duzentos e noventa metros (290 m), dezessete graus  e cinquenta minutos noroeste (17º 50’ NW); quinhentos metros (500 m),setenta e dois graus e trinta minutos sudoeste (72º 30’ SW); novecentos e setenta metros (970 m), dezessete graus e cinquenta minutos sudeste (17º 50’ SE); mil e cem metros (1.100 m), cinquenta e cinco graus quarenta minutos nordeste (55º 40’ NE); setecentos e noventa metros (790 m), setenta e cinco graus e cinquenta minutos sudeste (75º 50’ SE);oitocentos e oitenta cinco metros (885 m), trinta e oito graus e vinte e cinco minutos nordeste (38º 25’ NE); quatrocentos e quarenta metros (440 m) três graus e cinquenta minutos noroeste (3º 50’ NW); trezentos e sessenta metros (360 m) oitenta e sete graus e cinco minutos nordeste (87º 05’ NE); oitocentos e cinquenta metros (850 m), cinquenta e nove graus e quarenta minutos sudeste (59º 40’ SE). setecentos metros (700 m), cinquenta e nove graus e cinco minutos nordeste (59º 05’ NE); duzentos e sessenta metros (260 m), vinte e nove graus e dez minutos sudeste (29º 10’ SE) mil cento e setenta metros (1.170 m) dezesseis graus e vinte minutos sudoeste (16º 20’ SW); mil cento e sessenta metros (1.160 m), setenta e oito graus e vinte e cinco minutos sudeste (78º 25’ SE); mil e quarenta metros (1.040 m), trinta e oito graus e trinta e cinco minutos nordeste (38º 35’ NE); seiscentos e noventa metros (690 m), sete graus e vinte e cinco minutos noroeste (7º 25’ NW); quinhentos metros (500 m), oitenta e dois graus e trinta e cinco minutos sudoeste (82º 35’ SW); quatrocentos e setenta metros (470 m), sete graus e vinte e cinco minutos sudeste (7º 25’ SE); quinhentos e vinte  metros (520 m), trinta e oito graus cinquenta minutos sudoeste (28º 50’ SW); duzentos e oitenta metros (280 m), setenta e seis graus e dez minutos noroeste (76º 10’ NW); setecentos e quinze metros (715 m), dezenove graus e vinte minutos nordeste (19º 20’ NE); novecentos e noventa metros (990 m), vinte e seis graus e vinte minutos noroeste (26º 20’ NW).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa que será uma via autêntica deste Decreto, pagará a taxa de quatro mil setecentos e sessenta cruzeiros (Cr$4.760,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral, do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, em 19 de dezembro de 1952; 131º da Independência e 64º da República.
+
+<strong>GETULIO VARGAS</strong>
+
+João Cleofas
