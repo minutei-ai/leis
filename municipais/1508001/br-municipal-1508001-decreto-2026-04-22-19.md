@@ -22,7 +22,7 @@
 
 **CONSIDERANDO** que o Governo Federal e o Governo Estadual possuem estratégias para o enfrentamento de desastres naturais, meteorológicos, provocados pela ocorrência de inundações;
 
-DECRETA:
+**DECRETA:**
 
 **Art. 1º** Fica declarada por este Decreto a situação de emergência devido aos danos e prejuízos constatados nas áreas rurais e urbanas do Município de Tomé-Açu, em virtude a ocorrência de evento natural, do grupo meteorológicos, do subgrupo tempestades, do tipo tempestade local/convectiva, do subtipo **CHUVAS INTENSAS**, definido como chuvas que ocorrem com acumulados significativos, causando múltiplos desastres, registrado no dia 19 de abril de 2026, iniciando às 15h:30min, COBRADE – 1.3.2.1.4;
 
