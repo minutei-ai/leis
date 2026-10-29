@@ -366,7 +366,7 @@ II – encaminhar o recurso à autoridade superior para julgamento definitivo.
 
 Art. 31. A Comissão reunir-se-á, ordinariamente, uma vez por mês, mediante convocação de seu Presidente, e, extraordinariamente, sempre que necessário, por iniciativa do Presidente ou da maioria de seus membros.
 
-§ 1º As reuniões destinar-se-ão a:
+§1º - As reuniões terão por finalidade:
 
 I – analisar e deliberar sobre novos pedidos de credenciamento de vendedores ambulantes;
 
