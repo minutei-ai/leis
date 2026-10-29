@@ -1,0 +1,21 @@
+###DEC-042174-0-000-28-08-1957@@@
+
+<strong>DECRETO N° 42.174, DE 28 DE AGÔSTO DE 1957.</strong>
+
+<em><strong>Autoriza a Companhia Siderúrgica Nacional a pesquisar dolomita e associados no Município de Marquês de Valença, Estado do Rio de Janeiro.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n° I, da Constituição e nos têrmos de Decreto-lei n°1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1° Fica autorizada a Companhia Siderúrgica Nacional a pesquisar dolomita e associados, em terrenos da Fazenda Santa Mônica, Patrimônio Nacional - em Barão de Juparanã, Município de Marquês de Valença, Estado do Rio de Janeiro, numa área de cento e dezessete hectares (117ha) equivalente à diferença entre duas áreas e que assim se definem: a primeira (1°), com cento e trinta e sete hectares (137ha) delimitada por um polígono mistilíneo que tem um vértice no marco quilometro número cento e trinta e três (km 133) da Estrada de Ferro Central do Brasil, no trecho Barão de Juparanã-Três Rios e os lados, a partir dêsse vértice, os seguintes comprimentos e rumos magnéticos: duzentos e trinta e cinco metros (235m), quatro graus sudoeste (4°SW); quinhentos e setenta metros (570m), sessenta e seis graus sudeste (66° SE); atingindo a margem esquerda do rio Paraíba, por onde segue até uma distância de dois mil quatrocentos e cinqüenta metros (2.450m), dêsse ponto, por uma reta com cem metro (100m) de comprimento e rumo magnético oito graus noroeste (8°NW), até o marco quilometro número cento e trinta e quatro (km 134), da Estrada de Ferro Central do Brasil, no mesmo trecho Juparanã-Três Rios; dêsse ponto, ao longo do mesmo trecho ferroviário, por quinhentos e trinta e sete metros e dezenove centímetros (537,19m), até o marco quilométrico número cento trinta e três mais quatrocentos e sessenta e dois metros e oitenta e um centímetros (133+462,81m). Dêsse ponto, os seguintes comprimentos e rumos magnéticos: novecentos e cinqüenta e oito metros e quarenta e três centímetros (958,43m), setenta e nove graus e trinta minutos noroeste (79°30’ NW); noventa metros e setenta centímetros (90,70m), vinte e cinco graus e vinte e um minutos sudoeste (25°21’ SW); cinqüenta e oito metros e cinqüenta e três centímetros (58,53m), dezessete graus e três minutos sudoeste (17°3’ SW) ; duzentos e quarenta e cinco metros e treze centímetros (245,13m), onze graus e cinqüenta e três minutos sudeste (11°53’ SE); cento e sessenta e cinco metros e noventa e sete centímetros (165,97m), trinta e dois graus e onze minutos sudoeste (32°11’ SW); duzentos e trinta e um metros e quinze centímetros (231,15m), sessenta e dois graus e vinte um minutos sudeste (62°21’ SE); quatrocentos e vinte e um metros e noventa e oito centímetros (421,98m), oitenta e três graus cinqüenta e quatro minutos noroeste (83°54’ NE); segue ao longo do ramal ferroviário Juparanã-Três Rios, por uma distância de cento e vinte metros e dezesseis centímetros (120,16m), até o ponto de partida.
+
+A Segunda (2°) área, com vinte hectares (20ha) conferida à Cia, Siderúrgica Nacional pelo Decreto número dez mil novecentos e noventa (10.990), de dois (2) de dezembro de mil novecentos e quarenta e dois (1942), por cessão de direitos de lavra de dolomita e associados de Cornélio de Carvalho Silva é delimitada por um retângulo que tem um vértice a duzentos e trinta e cinco metros (235m) no rumo magnético quatro graus sudoeste (4° SW) do marco quilométrico número cento e trinta e três (km 133) da Estrada de Ferro Central do Brasil, no trecho Juparanã-Três Rios e os lados, divergentes dêsse vértice, os seguintes comprimentos e rumos magnéticos: quatrocentos metros (400m), vinte e quatro graus nordeste (24° NE); quinhentos metros (500m), sessenta e seis graus sudeste (66° SE).
+
+<strong>Art</strong>. 2° A presente autorização de pesquisa não fica sujeita a pagamento da taxa prevista no art. 17 do Código de Minas, <em>ex vi</em> do art. 52, n° VII do Decreto-lei n° 4.655, de 3 de setembro de 1942 (Lei do Sêlo).
+
+Rio de Janeiro, 28 de agôsto de 1957, 136° da Independência e 69° da República.
+
+<strong>JUSCELINO KUBITSCHEK</strong>
+
+Mário Meneghetti

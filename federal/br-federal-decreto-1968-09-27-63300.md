@@ -1,0 +1,29 @@
+###DEC-063300-0-000-27-09-1968@@@
+
+<strong>DECRETO Nº 63.300, DE 27 DE SETEMBRO DE 1968.</strong>
+
+<em><strong>Autoriza a Indústrias Brasileiras de Artigos Refratários S.A. - “IBAR” a lavrar minério de cromo, no município de Hidrolândia, Estado de Goiás.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e nos têrmos do Decreto-lei nº 227, de 28 de fevereiro de 1967 (código de mineração), alterado pelo Decreto-lei nº 318, de 14 de março de 1967,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizada a Indústrias Brasileiras de Artigos Refratários S.A. - “IBAR” a lavrar minério de cromo em terrenos de propriedade de Antônio Francisco Marques, José de Souza Aguiar e outros no lugar denominado Fazenda Morro Freio distrito e município de Hidrolândia, Estado de Goiás, numa área de quatrocentos e cinco hectares, seis ares e sessenta e três centiares (405,0663 há.), delimitada por um polígono irregular, que tem um vértice a quatrocentos e vinte oito metros, oitenta e sete centímetros (428,87 m), no rumo verdadeiro de quarenta e sete graus quarenta e cinco minutos nordeste (47º 45’ NE), do canto nordeste (NE) da sede da fazenda Morro Feio e os lados a partir dêsse vértice, os seguintes comprimentos e rumos verdadeiros: trezentos e noventa e seis metros, quatorze centímetros (396,14m), sul (S); trezentos e quarenta e cinco metros, vinte e sente centímetros (345,27 m), este (E); duzentos e noventa e dois metros, sessenta e quatro centímetro (292,64 m), sul (S); cento e noventa metros, trinta e oito centímetros (190,38 m), este (E); trezentos e onze metros, vinte e dois centímetros (311,22 m), sul (S); cinqüenta metros (50 m), este (E); oitenta metros (80m), sul (S); cinqüenta metros (50 m), este (E); oitenta metros (80 m), sul (S); cinqüenta metros (50 m), este (E); oitenta metros (80 m), sul (S); vinte metros (20 m); este (E); cinqüenta metros (50m), sul (S); trinta metros (30 m), este (E); duzentos e dez metros (210 m), sul (S); trinta e dois metros, trinta e dois centímetros (32,32 m), este (E); duzentos e quatorze metros, oitenta e cinco centímetros (214,85 m), sul (S); quatrocentos metros (400 m), este (E); duzentos metros (200 m), sul (S); trezentos e dezessete metros, sessenta e oito centímetros (317,68m ), este (E); trezentos e seis metros, trinta e cinco centímetro (306,35 m), norte (N); sessenta e quatro metros, dezoito centímetros (64,18m), este (E); duzentos e oitenta metros, (280 m), norte (N); duzentos e vinte nove metros, dezessete centímetros (299,17 m), este (E); mil quinhentos e cinqüenta e sete metros, sessenta e dois centímetros (1.557,62 m), norte (N); cento e sessenta metros (160 m), oeste (W); duzentos e setenta metros (270 m), norte (N); cento e trinta e três metros, trinta e cinco centímetros (133,35 m), oeste (W); duzentos metros (200 m), norte (N); noventa metros (90 m), oeste (W); cento e quarenta metros (140 m), norte (N); cinqüenta e oito metros, oitenta e dois centímetros (58,82 m), oeste (W); cento e seis metros, vinte e sete centímetros (106,27 m), norte (N); setenta metros (70 m), oeste (W); cinqüenta e três metros, setenta e três centímetros (53,73 m), norte (N); oitenta metros (80 m), oeste (W); setenta metros (70 m), norte (N); cem metros (100 m), oeste (W); oitenta metros (80 m), norte (N); cinqüenta metros (50 m), oeste (W); cinqüenta metros (50 m), norte (N);cinqüenta e um metros, dezoito centímetros (51,18 m), oeste (W) quarenta metros (40 m), norte (N); cento e cinqüenta metros (150 m), oeste (W); cento e trinta metros (130 m), norte (N); cento e quarenta metros (140 m), oeste (W); cento e trinta metros (130 m), norte (N); cinqüenta metros (50 m), oeste (W); quarenta metros (40 m), norte (N); cem metros (100 m), oeste (W); oitenta metros (80 m), norte (N); cento e setenta metros (170 m) , oeste (W); cento e vinte metros (120 m), sul (S); sessenta metros (60 m), oeste (W); trezentos e quarenta e dois metros, oito centímetros (342,08 m), sul (S); cento e setenta e oito metros, dezesseis centímetros (178,16 m), oeste (W); seiscentos e cinqüenta e sete metros, noventa e dois centímetros (657,92 m), sul (S); oitenta e nove metros, noventa centímetros (89,90 m), oeste (W); quinhentos metros (500 m), sul (S); cinqüenta e seis metros cinqüenta e nove centímetros (56,59 m), oeste (W). Esta autorização é outorgada mediante as condições constantes dos artigos 44, 47 e suas alíneas e 51 do código de Mineração, além de outras constantes do mesmo Código, não expressamente mencionadas neste decreto.
+
+Parágrafo único. A execução da presente autorização fica sujeita às estipulações do Regulamento aprovados pelo Decreto nº 51.726, de 19 de fevereiro de 1963 e da Resolução número 3, de 30 de abril de 1965, da Comissão Nacional de Energia Nuclear.
+
+<strong>Art</strong>. 2º O Concessionário da autorização fica obrigado a recolher aos cofres públicos, na forma da Lei, os tributos que forem devidos à União, ao Estado e ao município em cumprimento do disposto na Lei nº 4.425, de 8 de outubro de 1964.
+
+<strong>Art</strong>. 3º Se o concessionário da autorização não cumprir qualquer das obrigações que lhe incubem a autorização de lavra será declarada caduca ou nula, na forma dos artigos 65 e 66 do Código de Mineração.
+
+<strong>Art</strong>. 4º As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59 do Código de Mineração.
+
+<strong>Art</strong>. 5º A autorização de lavra terá por título êste Decreto que será transcrito no livro C de Registro das Concessões de Lavra, da Divisão de Fomento da Produção Mineral do Ministério das Minas e Energia.
+
+<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+
+Brasília, 27 de setembro de 1968; 147º da Independência e 80º da República.
+
+<strong>A. COSTA E SILVA</strong>
+
+José Costa Cavalcanti

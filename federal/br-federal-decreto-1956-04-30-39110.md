@@ -1,0 +1,21 @@
+###DEC-039110-0-000-30-04-1956@@@
+
+<strong>DECRETO Nº 39.110, DE 30 DE ABRIL DE 1956.</strong>
+
+<em><strong>Autoriza os cidadãos brasileiros Anibal José Ferreira e Jarbas Botelho Fontes a pesquisar mica e associados no município de Goianésia, Estado de Goiás.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Ficam autorizados os cidadãos brasileiros Anibal José Ferreira e Jarbas Botelho Fontes, a pesquisar mica e associados em terrenos de propriedade de Laurentino Martins Rodrigues, na fazenda Calção de Couro, distrito e município de Goiás, Estado de Goiás, numa área de trezentos e vinte e dois hectares setenta e seis ares e quarenta centiares (322,7640ha), delimitada por um polígono irregular que tem um vértice a dois mil e novecentos metros (2.900m),no rumo magnético sessenta graus e quinze minutos nordeste (60º15’NE) da sede da fazenda Calção de Couro e os lados, a partir dêsse vértice os seguintes comprimentos e rumos magnéticos: três mil e seiscentos metros (3.600m), quarenta e dois graus e quarenta e cinco minutos noroeste (42º45’NW); quinhentos e vinte e cinco metros (525m), cinqüenta e dois graus nordeste (52ºNE); cento e cinqüenta e oito metros (158m), quarenta e quatro graus e quarenta minutos sudoeste (44º40’SW); duzentos e trinta e cinco metros (235m), oitenta graus e quarenta e sete minutos nordeste (80º47’NE); quatrocentos e vinte três metros (423m), cinqüenta graus e quarenta e um minutos sudeste (50º41’SE); trezentos e trinta e dois metros (332m); oitenta e dois graus cinqüenta minutos sudeste (82º50’SE); cento e trinta e dois metros(132m), cinqüenta e um graus e vinte e um minutos nordeste (51º21’NE); cento e oitenta e cinco metros (185m), oitenta e sete graus e quarenta e cinco minutos sudeste (87º45’SE); noventa e quatro metros (94m), cinqüenta e cinco graus e vinte minutos sudeste (55º20’SE); trezentos e trinta e dois metros (332m), vinte e cinco graus e seis minutos sudeste (25º06’SE); trezentos e vinte quatro metros (324m), quarenta e dois graus quarenta e oito minutos sudoeste (42º48’SW); trezentos e quarenta e cinco metros (345m), três graus e quarenta e oito minutos sudoeste (3º48’SW); cento e oitenta e oito metros (188m), cinqüenta graus sudeste (50ºSE); cento e dezoito metros (118m), oitenta e quatro graus e trinta minutos nordeste (84º30’NE); cento e trinta e sete metros (137m), quarenta e três graus e quarenta minutos sudeste (43º40’SE); cento e sessenta e três metros (163m), dezenove graus cinqüenta e cinco minutos sudoeste (19º55’SW); quinhentos cinqüenta e sete metros (557m) oitenta e sete graus cinqüenta e quatro minutos sudeste (87º54’SE); setenta e três metros (73m), trinta e quatro graus cinqüenta e dois minutos sudeste (34º52’SE); cento e vinte e um metros (121m), setenta e sete graus e sete minutos sudeste (77º07’SE); duzentos cinqüenta e sete metros (257m), vinte e dois graus e trinta e dois minutos sudeste (22º32’SE); duzentos e trinta e seis metros (236m), sessenta e nove graus e dezenove minutos sudeste (69º19’SE); noventa e um metros (91m), dezessete graus e trinta minutos sudeste (17º30’SE); oitenta e um metros (81m), oitenta e dois graus quarenta e sete minutos sudeste (82º47’SE); cento e vinte oito metros (128m), um grau cinqüenta e quatro minutos sudeste (1º54’SE); sessenta e quatro metros (64m), setenta e oito graus e dez minutos sudoeste (78º10’W); novecentos e cinco metros (905m), vinte e quatro graus vinte e dois minutos sudoeste (24º22’SW); duzentos e noventa metros (290m), sessenta e cinco graus trinta e cinco minutos noroeste (65º35’NW).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de três mil duzentos e trinta cruzeiros (3.230,00) e será transcrito no livro próprio da Divisão de Fomento de Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 30 de abril de 1956; 135º da Independência e 68º da República.
+
+<strong>JUSCELINO KUBITSCHEK</strong>
+
+Ernesto Dornelles

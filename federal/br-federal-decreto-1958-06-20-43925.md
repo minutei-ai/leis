@@ -1,0 +1,89 @@
+###DEC-043925-0-000-20-06-1958@@@
+
+<strong>DECRETO Nº 43.925, DE 20 DE JUNHO DE 1958.</strong>
+
+<em><strong>Fixa normas de publicação de atos relativos a pessoal, assim como de preenchimento de cargos, funções empregos e dá outras providências.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica instituído no Departamento de Imprensa Nacional, um Boletim de Pessoal destinado à publicação oficial diária dos atos relativos ao pessoal de qualquer categoria da administração descentralizada.
+
+§ 1º Para efeito do disposto neste artigo ficam os órgãos da administração descentralizada obrigados a remeter regularmente ao Departamento de Imprensa Nacional, cópia autenticada dos atos concernentes a provimento e vacância, concessão de indenização, gratificações e demais vantagens pecuniárias, inclusive os atinentes a empregados que percebem à conta de dotações globais.
+
+§ 2º Qualquer dos atos referidos no parágrafo anterior será considerado nulo, se não fôr publicado pelo Departamento de Imprensa Nacional, ficando responsável a autoridade que admitir der posse, exercício, ou efetuar pagamento a qualquer servidor ou empregado, sem a publicação de que trata êste artigo.
+
+<strong>Art</strong>. 2º O preenchimento de cargo, função ou emprêgo nos órgãos da administração direta ou centralizada como da administração indireta ou descentralizada continua dependente de autorização presidencial, mantido o disposto no Decreto nº 43.716, de 19 de maio de 1958.
+
+<strong>Art</strong>. 3º Concedida a autorização será o processo encaminhado ao Departamento Administrativo do Serviço Público, para, em articulação com o órgão interessado confirmar a vaga a ser preenchida e a existência de recursos próprios, tendo em vista o quadro ou tabela abrangidos pelo provimento.
+
+Parágrafo único. Após a verificação do que estabelece êste artigo, o Departamento Administrativo do Serviço Público restituirá o processo ao Presidência da República, informando sôbre a satisfação dos requisitos aos mesmos indicados e, na hipótese de inexistência de qualquer dêles, as providências cabíveis em cada caso.
+
+<strong>Art</strong>. 4º Fica incumbido o departamento Administrativo do Serviço Público de proceder, dentro de 120 (cento e vinte) dias, ao levantamento geral da situação dos ocupantes de cargos e funções integrantes de quadros e tabelas da administração direta como da administração indireta, com a indicação do cargo ou função, vagos ou ocupados, data da nomeação ou admissão, padrão e referência.
+
+<strong>Art</strong>. 5º A partir dêste decreto, só haverá na administração direta como na administração indireta:
+
+a) servidores pertecentes a quadro próprio, que será prèviamente aprovado mediante decreto executivo, quando se tratar de órgão da administração indireta;
+
+b) extranumerárias contratados e terefeiros admitidos na forma da Lei nº 2.284, de 9 de agôsto de 1954.
+
+c) pessoal que percebe à conta de dotação global, sujeito à legislação trabalhista e integrante de tabela de empregos prèviamente aprovada pelo Presidente da República.
+
+§ 1º O quadro de Pessoal de que trata a alínea <em>a</em> dêste artigo compreende o conjunto de cargos isolados e de carreira; de funções gratificadas e funções de extranumerário-mensalista.
+
+§ 2º Para efeito do que dispõe a alínea <em>c</em> dêste artigo, cada órgão da administração indireta encaminhará ao Departamento Administrativo do Serviço Público, até 31 de janeiro, proposta da tabela mencionando a denominação e número de empregos, bem como o salário correspondente.
+
+<strong>Art</strong>. 6º Consideram-se extintas nos órgãos da administração indireta, as tabelas ou relações de pessoal de qualquer categoria, pago à conta de dotações globais.
+
+Parágrafo único. Para regularização da situação de pessoal de que trata êste artigo, inclusive pessoal de obras credenciados, cada órgão enviará ao Departamento Administrativo do Serviço Público dentro de 90 (noventa) dias, relação nominal, contendo nome do empregado, retribuição ou salário percebido, denominação do emprêgo, natureza do trabalho executado órgão de lotação data de admissão em órgão oficial e menção da respectiva autorização presidencial.
+
+<strong>Art</strong>. 7º Compete ao Departamento Administrativo do Serviço Público zelar pela execução do presente decreto, para o que poderão promover medidas de verificação junto aos órgãos da administração direta como da administração indireta, por meio de servidores para êsse fim designados.
+
+<strong>Art</strong>. 8º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Rio de Janeiro, em 20 de julho de 1958; 137º da Independência e 70º da República.
+
+<strong>JUSCELINO KUBITSCHEK</strong>
+
+Eurico de Aguiar Salles
+
+Antônio Alves Câmara
+
+Henrique Lott
+
+José Carlos de Macedo Soares
+
+Lucas Lopes
+
+Lúcio Meira
+
+Mário Meneghetti
+
+Clovis Salgado
+
+Parsifal Barroso
+
+Francisco de Melo
+
+Mauricio de Medeiros
+
+###DEC-043925-0-000-26-06-1958@@@RET01+++
+
+<strong>DECRETO Nº 43.925, DE 26 DE JUNHO DE 1958.</strong>
+
+<em><strong>Fixa normas de publicação de atos relativos a pessoal, assim como de preenchimento de cargos, funções, empregos e dá outras providências.</strong></em>
+
+(Publicado no <em>Diário</em> <em>Oficial</em> - Seção I - de 10 de julho de 1958)
+
+<strong>RETIFICAÇÃO</strong>
+
+No art. 2º
+
+<u><strong>ONDE SE LÊ</strong></u>:
+
+... nos órgãos da administração direta ou centralizada ...
+
+<u><strong>LEIA-SE</strong></u>:
+
+... nos órgãos da administração direta ou descentralizada ...
