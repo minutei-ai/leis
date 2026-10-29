@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**219.555 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**219.567 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -19,7 +19,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Federal | [Brasil](federal/) | 87.022 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
-| Estadual | [Amapá](estaduais/AP/) | 8 |
+| Estadual | [Amapá](estaduais/AP/) | 10 |
 | Estadual | [Amazonas](estaduais/AM/) | 8 |
 | Estadual | [Bahia](estaduais/BA/) | 14.377 |
 | Estadual | [Ceará](estaduais/CE/) | 110 |
@@ -30,7 +30,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Mato Grosso](estaduais/MT/) | 336 |
 | Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.102 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
-| Estadual | [Pará](estaduais/PA/) | 75 |
+| Estadual | [Pará](estaduais/PA/) | 85 |
 | Estadual | [Paraíba](estaduais/PB/) | 2 |
 | Estadual | [Paraná](estaduais/PR/) | 60 |
 | Estadual | [Pernambuco](estaduais/PE/) | 2.346 |
@@ -66,7 +66,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
