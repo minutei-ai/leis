@@ -1,0 +1,29 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184082)
+
+# DECRETO Nº 62.951, DE 21 DE NOVEMBRO DE 2017
+
+### _Declara de utilidade pública para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área necessária às obras e serviços de implantação de nova ponte sobre o Rio Tietê, no km 210+500m da SP-147, Rodovia Samuel de Castro Neves, localizada no Município de Anhembi, e dá providência correlatas_
+
+GERALDO ALCKMIN, GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pelas Leis federais nº 2.786, de 21 de maio de 1956, nº 6.306, de 15 de dezembro de 1975, e nº 6.602, de 7 de dezembro de 1978,
+
+Decreta:
+
+**Artigo 1º -** Ficam declaradas de utilidade pública, a fim de serem desapropriadas pelo Departamento de Estradas de Rodagem - DER, por via amigável ou judicial, a área e respectivas benfeitorias, necessárias às obras e serviços de implantação de nova ponte sobre o Rio Tietê, no km 210+500m da SP-147, Rodovia Samuel de Castro Neves, devidamente caracterizada no cadastro nº CD-SP0000147-210.211-000-D02/801 e respectiva planta, constante do processo nº 046241/07/DER/2017, com área total de 36.408,58m² (trinta e seis mil, quatrocentos e oito metros quadrados e cinquenta e oito decímetros quadrados), localizada no município de Anhembi, assim descrita: “área “A”, localizada entre as estacas 2+18,70m e 24+10,05m do lado direito do eixo de projeto do “Eixo 200” da SP-147, Rodovia Samuel de Castro Neves, Município de Anhembi, Comarca de Conchas, tendo suas linhas de divisa definidas pelo vértice 1 de coordenadas N=7.478.222,72 e E=795.994,62 e pelos segmentos “1-AC2V8183” com azimute de 232º05’30” e distância de 336,26m; “AC2V8183-AC2V8184” com azimute de 232º12’11” e distância de 45,31m; “AC2-V-8184-2” com azimute de 232º02’42” e distância de 49,81m; “2-3” com azimute de 28º15’30” e distância de 87,32m; “3-4” com azimute de 48º23’55” e distância de 108,46m; “4-5” com azimute de 50º39’16” e distância de 34,25m; “5-6” com azimute de 336º41’07” e distância de 77,20m; “6-7” com azimute de 339º16’03” e distância de 118,30m; “7-8” com azimute de 340º17’35” e distância de 15,00m; “8-9” com azimute de 346º00’04” e distância de 15,00m; “9-10” com azimute de 348º21’42” e distância de 15,00m; “10-11” com azimute de 354º15’33” e distância de 41,42m; “11-12” com azimute de 348º10’14” e distância de 10,00m; “12-13” com azimute de 340º04’36” e distância de 10,00m; “13-14” com azimute de 329º03’10” e distância de 10,00m; “14-15” com azimute de 318º56’50” e distância de 10,00m; “15-16” com azimute de 308º30’56” e distância de 10,00m; “16-17” com azimute de 298º07’50” e distância de 10,00m; “17-18” com azimute de 289º39’37” e distância de 10,08m; “18-19” com azimute de 284º39’01” e distância de 9,92m; “19-20” com azimute de 282º22’08” e distância de 80,11m; “20-21” com azimute de 243º56’13” e distância de 53,80m; “21-AC2V8194” com azimute de 3º40’11” e distância de 132,38m; “AC2V8194-23” com azimute de 349º27’11” e distância de 35,00m; “23-24” com azimute de 79º00’56” e distância de 10,16m; “24-25” com azimute de 168º51’36” e distância de 72,08m; “25-26” com azimute de 165º00’39” e distância de 5,50m; “26-27” com azimute de 161º18’37” e distância de 5,50m; “27-28” com azimute de 155º57’04” e distância de 5,50m; “28-29” com azimute de 148º27’30” e distância de 5,50m; “29-30” com azimute de 139º29’07” e distância de 5,50m; “30-31” com azimute de 130º28’21” e distância de 5,50m; “31-32” com azimute de 121º34’07” e distância de 5,50m; “32-33” com azimute de 114º20’32” e distância de 5,50m; “33-34” com azimute de 109º10’57” e distância de 5,50m; “34-35” com azimute de 102º35’17” e distância de 88,62m; “35-36” com azimute de 107º24’37” e distância de 12,50m; “36-37” com azimute de 113º09’36” e distância de 12,50m; “37-38” com azimute de 120º21’32” e distância de 12,50m; “38-39” com azimute de 127º54’46” e distância de 12,50m; “39-40” com azimute de 135º27’25” e distância de 12,50m; “40-41” com azimute de 143º00’05” e distância de 12,50m; “41-42” com azimute de 150º32’45” e distância de 12,50m; “42-43” com azimute de 158º06’00” e distância de 12,50m; “43-44” com azimute de 165º12’33” e distância de 12,50m; “44-45” com azimute de 170º48’45” e distância de 12,50m; “45-46” com azimute de 175º09’40” e distância de 22,96m; “46-47” com azimute de 172º18’08” e distância de 15,00m; “47-48” com azimute de 168º18’31” e distância de 15,00m; “48-49” com azimute de 163º08’26” e distância de 15,00m; “49-50” com azimute de 160º00’45” e distância de 4,65m; “50-51” com azimute de 159º04’24” e distância de 117,52m; “51-52” com azimute de 157º02’33” e distância de 69,10m; “52-53” com azimute de 55º06’21” e distância de 98,52m e “53-1” com azimute de 78º25’49” e distância de 78,40m”.
+
+**Artigo 2º -** Fica o expropriante autorizado a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15, do Decreto-Lei federal nº 3.365, de 21 de junho de 1.941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956.
+
+**Artigo 3º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria do Departamento de Estradas de Rodagem - DER.
+
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação
+
+Palácio dos Bandeirantes, 21 de novembro de 2017
+
+GERALDO ALCKMIN
+
+Laurence Casagrande Lourenço<br>
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
+Samuel Moreira da Silva Junior<br>
+Secretário-Chefe da Casa Civil<br>
+Saulo de Castro Abreu Filho<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 21 de novembro de 2017.

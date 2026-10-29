@@ -1,0 +1,21 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51198)
+
+# LEI Nº 11.751, DE 25 DE JUNHO DE 2004
+
+### _Autoriza o Departamento de Estradas de Rodagem - DER a transmitir, por cessão gratuita, ao Município de Adolfo, os direitos possessórios que detém sobre faixa de terreno que especifica_
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+**Artigo 1º -** Fica o Departamento de Estradas de Rodagem - DER autorizado a transmitir, por cessão gratuita, ao Município de Adolfo, os direitos possessórios que detém sobre faixa de terreno com benfeitorias de terraplanagem e pavimentação, pertinente ao trecho da SP-355, denominada Rodovia Maurício Goulart, compreendido entre o km 45 e o km 45+764,58m (setecentos e sessenta e quatro metros e cinqüenta e oito centímetros), sentido SP-304 (Rodovia Cássio Primiano), com área total de 22.937,40m² (vinte e dois mil, novecentos e trinta e setemetros quadrados e quarenta decímetros quadrados), destinado à utilização como via pública.<br>
+**Artigo 2º -** O imóvel de que trata o artigo anterior, caracterizado no Desenho nº CDT.9/6969, constante do Processo nº 232.999-01, de 2002-DER, assim se descreve e confronta:<br>
+inicia no marco 1, cravado na cerca de divisa de Nelson Watanabe com a Avenida Castro Alves, daí segue com rumo 32º43'17"NW e distância de 30m (trinta metros) até o marco 2; dividindo do marco 1 ao marco 2 com a Avenida Castro Alves e parte da Rua Thomé de Souza, daí deflete a direita e segue rumo 57º16'43"NE e distância de 313,96m (trezentos e treze metros e noventa e seis centímetros) até o marco 3; dividindo do marco 2 ao marco 3 com a Prefeitura Municipal (praça), Rua Princesa Isabel, Prefeitura Municipal, Rua Projetada, Posto São Cristovão e parte de Manoel Hernandes e outros, daí segue em curva com raio de 1385m (um mil, trezentos e oitenta e cinco metros) e desenvolvimento de 273,98m (duzentos e setenta e três metros e noventa e oito centímetros) até o marco 4, dividindo do marco 3 ao marco 4 com parte de Manoel Hernandes e outros, Estrada Municipal e novamente parte de Manoel Hernandes e outros, daí segue com rumo de 45º56'46"NE e distância de 173,67m (cento e setenta e três metros e sessenta e sete centímetros) até o marco 5; confrontando do marco 4 ao marco 5 com Manoel Hernandes e outros, daí deflete a direita e segue com rumo 44º03'18"SE e distância de 30m (trinta metros) até o marco 6; confrontando do marco 5 ao marco 6 com a faixa de domínio do DER - SP-355, daí deflete a direita e segue rumo 45º56'46"SW e distância de 173,67m (cento e setenta e três metros e sessenta e sete centímetros) até o marco 7; confrontando do marco 6 ao marco 7 com Manoel Hernandes e outros, daí segue em curva com raio de 1415m (um mil, quatrocentos e quinze metros) e distância de 279,91m (duzentos e setenta e nove metros e noventa e um centímetros) até o marco 8, confrontando do marco 7 ao marco 8 com Manoel Hernandes e outros, Estrada Municipal, AntônioVilas Boas e outros e parte do Armazém Comunitário, daí segue rumo 57º16'43"SW e distância de 313,96m (trezentos e treze metros e noventa e seis centímetros) até o marco 1, onde iniciou o perímetro; confrontando do marco 8 ao marco 1 com parte do Armazém Comunitário, Recinto, Rua Projetada, Sub Estação, Rua Projetada e Nelson Watanabe.<br>
+**Artigo 3º -** O Município de Adolfo assume a responsabilidade de regularizar o domínio da área cuja posse lhe é transferida, sem quaisquer ônus para o Departamento de Estradas de Rodagem - DER.<br>
+**Artigo 4º -** Da escritura deverão constar cláusulas, termos e condições que assegurem a efetiva utilização do imóvel para o fim a que se destina e impeçam a sua transferência a qualquer título, estipulando-se que, em caso de inadimplemento, será o contrato rescindido, independentemente de indenização por benfeitorias realizadas.<br>
+**Artigo 5º -** Esta lei entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 25 de junho de 2004<br>
+GERALDO ALCKMIN<br>
+Dario Rais Lopes<br>
+Secretário dos Transportes<br>
+Arnaldo Madeira<br>
+Secretário-Chefe da Casa Civil<br>
+Publicada na Assessoria Técnico-Legislativa, aos 25 de junho de 2004.
