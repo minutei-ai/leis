@@ -1,0 +1,33 @@
+LEI Nº 4.702 DE 10 DE OUTUBRO DE 1987
+
+Estabelece vencimentos do pessoal dos Serviços Auxiliares do Tribunal de Justiça e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Os vencimentos dos cargos de provimento efetivo dos Serviços Auxiliares do Tribunal de Justiça do Estado ficam reajustados em 25% (vinte e cinco por cento) sobre os valores vigentes em maio deste ano de 1987.
+
+Art. 2º - Os proventos do pessoal inativo dos Serviços Auxiliares do Tribunal de Justiça do Estado ficam reajustados nas mesmas bases e condições estabelecidas para o pessoal ativo de igual categoria.
+
+Art. 3º - Os valores dos vencimentos dos cargos em comissão e das funções gratificadas dos Serviços Auxiliares do Tribunal de Justiça do Estado serão os mesmos estabelecidos para os símbolos correspondentes no âmbito do Poder Executivo.
+
+Art. 4º - O Presidente do Tribunal de Justiça adotará as medidas necessárias para adaptar os salários do pessoal contratado aos valores constantes da tabela anexa.
+
+Art. 5º - Os vencimentos dos cargos de Taquígrafo-Judiciário, de Assessor Jurídico-Judiciário, de Diretor do Departamento de Comunicações Gerais, de Secretário de Câmaras e do Conselho da Magistratura permanecem regulados pelas disposições da legislação anterior.
+
+Art. 6º - Os atuais cargos em comissão de Assessor Técnico de Desembargador, privativos de Bacharel em Direito, ficam classificados em nível especial, com remuneração equivalente a 70% (setenta por cento) do vencimento de Assessor Jurídico Judiciário, nível I, do Tribunal de Justiça.
+
+Art. 7º - O Quadro dos Serviços de Taquigrafia será composto de 30 Taquígrafos nos níveis I e II, correspondendo 15 para cada nível, e de 10 Taquígrafos Auxiliares em nível único.
+
+Parágrafo único - Ressalvada a situação dos atuais ocupantes dos cargos referidos neste artigo, o provimento das vagas deverá ser feito exclusivamente por concurso público de provas e títulos, sendo exigível aos candidatos apresentação de diploma de nível superior para o cargo de Taquígrafo I e II, e de nível médio completo para o de Taquígrafo Auxiliar.
+
+Art. 8º - As despesas resultantes da presente lei correrão à conta dos recursos orçamentários consignados para o presente exercício, ficando o Poder Judiciário autorizado a promover as alterações orçamentárias que se façam necessárias.
+
+Art. 9º - Esta Lei entra em vigor na data da sua publicação, produzindo seus efeitos a partir de 1º de maio de 1987.
+
+GABINETE DO GOVERNADOR, em 10 de outubro de 1987.
+
+WALDIR PIRES
+
+Jorge Medauar
+
+<table style="margin-left: 81.5pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 326pt; border: 1pt solid windowtext; padding: 0cm 3.5pt;" colspan="2" valign="top" width="435"><p style="text-align: right;" align="right">TABELA ANEXA A LEI Nº 4.702, de 10 de outubro de 1987.</p></td></tr><tr><td style="width: 183.7pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="245"><p style="text-align: justify;">Nível Superior</p></td><td style="width: 142.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="190"><p style="text-align: right;" align="right">Cz$ 16.779,60</p></td></tr><tr><td style="width: 183.7pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="245"><p style="text-align: justify;">Assistente Judiciário</p></td><td style="width: 142.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="190"><p style="text-align: right;" align="right">Cz$ 10.181,08</p></td></tr><tr><td style="width: 183.7pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="245"><p style="text-align: justify;">Auxiliar Judiciário</p></td><td style="width: 142.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="190"><p style="text-align: right;" align="right">Cz$<span>&nbsp; </span>8.224,56</p></td></tr><tr><td style="width: 183.7pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="245"><p style="text-align: justify;">Auxiliar de Enfermagem</p></td><td style="width: 142.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="190"><p style="text-align: right;" align="right">Cz$<span>&nbsp; </span>8.224,56</p></td></tr><tr><td style="width: 183.7pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="245"><p style="text-align: justify;">Motorista Judiciário</p></td><td style="width: 142.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="190"><p style="text-align: right;" align="right">Cz$<span>&nbsp; </span>8.224,56</p></td></tr></tbody></table>
