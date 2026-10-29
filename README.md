@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**219.468 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**219.652 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -18,7 +18,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | --- | --- | ---: |
 | Federal | [Brasil](federal/) | 87.022 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
-| Estadual | [Alagoas](estaduais/AL/) | 4 |
+| Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 7 |
 | Estadual | [Amazonas](estaduais/AM/) | 8 |
 | Estadual | [Bahia](estaduais/BA/) | 14.374 |
@@ -28,7 +28,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
 | Estadual | [Maranhão](estaduais/MA/) | 1 |
 | Estadual | [Mato Grosso](estaduais/MT/) | 336 |
-| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.102 |
+| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.285 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
 | Estadual | [Pará](estaduais/PA/) | 10 |
 | Estadual | [Paraíba](estaduais/PB/) | 2 |
