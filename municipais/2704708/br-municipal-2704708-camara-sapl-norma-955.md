@@ -12,7 +12,7 @@ II- 30% (trinta por cento) serão efetivamente direcionados a despesas tipificad
 
 Art. 2º. As despesas decorrentes desta Lei correrão por conta de dotação orçamentária da Secretaria Municipal de Educação de Marechal Deodoro/AL.
 
-Art. 3º. O Município deverá elaborar Plano de Aplicação de Recursos, detalhando os valores que serão utilizados, nos termos delineados no Decreto Estadual nº 107.174/2026, regulamentador da Lei Estadual nº 9.694/2025.
+Art. 3º. O Município deverá elaborar Plano de Aplicação de Recursos, detalhando os valores, que serão utilizados, nos termos delineados no Decreto Estadual nº 107.174/2026, regulamentador da Lei Estadual nº 9.694/2025.
 
 Parágrafo único. Caberá à Secretaria Municipal de Educação, nos termos desta Lei, enviar o Plano de Aplicação de Recursos de que trata o *caput* à Secretaria de Estado da Educação-SEDUC, para fins de comprovação de sua execução por meio de relatórios e evidências.
 
