@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "b6f28d6d595175fbb47e1b5a7e37f4745930edb9e38c960ddc16a93f546a6768"
 coletado_em: "2026-10-22T15:27:44.000Z"
 sha256_fonte: "54cb4fcc04c3c597f357588d8d1c92e0fb8f03a96a7517c5f2b534db9d6f301f"
-sha256_markdown: "2531b9306d3de40b6f276e54d9a54873a5979c96cdda169b41f86113eac2554d"
+sha256_markdown: "f0370f985badce79e37e041a1fa6ab243bc4fe519eee59d6828e47b92f36f374"
 ---
 
 # LEI Nº 932, DE 13 DE JUNHO DE 1989.
@@ -165,5 +165,5 @@ TCDI-1                                 57,85
 TCDI-2                                 51,51                         
                                                                      
 TCDI-3                                 45,17                         
-------------------------------------------------------------------
+------------------------------------------------------------------   
 ```

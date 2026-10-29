@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "3ff3de130ce290d33ae5f29126e27a996c277723b3765f2888d430aa43bae917"
 coletado_em: "2026-10-22T15:38:29.000Z"
 sha256_fonte: "70ce07b5bba0a445dde27865ac16b1985d94e70cad192a26e12cb64916769e4f"
-sha256_markdown: "12245a1fc6663b618454b7547941d8d4e034aa85cd9c1c061c8fa91b75748205"
+sha256_markdown: "7b1502962f2882387ff52b724ccbcd10efc9304a5aed24c4308cb826bb753f85"
 ---
 
 # LEI Nº 399, DE 11 DE NOVEMBRO DE 1983.
@@ -211,5 +211,5 @@ JESG-104      Serviços Gerais - Emprego
 JEDS-5        Direção Superior - Comissão                            
                                                                      
               Administrador                    01                    
-------------------------------------------------------------------
+------------------------------------------------------------------   
 ```

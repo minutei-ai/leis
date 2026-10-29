@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "9aa6708a3c7ce09917e1221fdcb6c0b8fb202059da309f26ba9102503310edde"
 coletado_em: "2026-10-22T15:39:44.000Z"
 sha256_fonte: "106c9a31d584accf1bddafa4986627049e3dc87a99800728138f8bce0b16ecd8"
-sha256_markdown: "9a09bc614592338c976de7c83cf7bb31a92aef8dac071c7ff664c01e8d2b8e80"
+sha256_markdown: "447af2893752f073a1210461483e424c17c7456ca2dda778c569bba0ddb2a533"
 ---
 
 # LEI Nº 337, DE 24 DE MAIO DE 1982.
@@ -54,5 +54,5 @@ MP-24              Promotor de Entrância
 MP-23              Promotor de 2ª Entrância                        27                
                                                                      
 MP-22              Promotor de 1ª Entrância                        24                
---------------------------------------------------------------------
+-------------------------------------------------------------------- 
 ```

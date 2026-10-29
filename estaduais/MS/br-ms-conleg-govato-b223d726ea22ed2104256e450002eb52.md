@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "2f776556e9b6b37dd3c8487cff883241725be4860e4adc743baac7f4b52d8686"
 coletado_em: "2026-10-22T15:25:33.000Z"
 sha256_fonte: "d038fedaecf83d7887f7dba6802f616af101186d939552447acac4ed0eede503"
-sha256_markdown: "4b179b5de0d0a9adf8833000a1e055eccbeed0d22155b7ea194bcefe831987c9"
+sha256_markdown: "4f4a0aef14da864c4dfe4e3e7d1682d511351ec138f7303ad9d96beb9947209a"
 ---
 
 # LEI Nº 1.040, DE 11 DE MAIO DE 1990.
@@ -97,5 +97,5 @@ JEAJ 201.5         204,30
 JEAJ 201.6         204,30                                            
 JEAJ 301.3         244,85                                            
 JEAJ 301.5         244,85                                            
------------------------------------
+-----------------------------------                                  
 ```

@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "b555bf52f3ba37d2617c0b8e73c018f7a7b24c95144805b1d0151c3e7b9bec13"
 coletado_em: "2026-10-22T15:39:23.000Z"
 sha256_fonte: "dce0a452870aaa2df969f2b04da34c06d245c0e62098447e620878ca46346c3d"
-sha256_markdown: "c27376dcfd6749986f10900be427d38284ad565094e380b77c7f70b7655d5111"
+sha256_markdown: "faee99806429ffd854be0881ab06b569f926fbcf2ef33ddce9cb74adccd34b6b"
 ---
 
 # LEI Nº 354, DE 27 DE OUTUBRO DE 1982.
@@ -498,5 +498,5 @@ SUPERIOR              Médico
                       Operador de Máquinas de Reprodução             
                       Recepcionista                                  
                       Telefonista                                    
--------------------------------------------------------------------
+-------------------------------------------------------------------  
 ```

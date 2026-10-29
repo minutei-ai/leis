@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "31e97bd9e7f47298532f1ea04b0ff53b95c3feec23d47c88c3acb1adae5eaf8b"
 coletado_em: "2026-10-22T15:14:42.000Z"
 sha256_fonte: "ee125fe160fb2335fb5d33f8d29d1ec225a755150269a21db76ce8ce003f4c81"
-sha256_markdown: "e29b1b64fd3f923f6f81b1bbc980c6dd48067ae403984b1787a4b94f4147008b"
+sha256_markdown: "527e34a85818ea95f0330e57255393328b3d818b819561ef80def76ebc65f0f2"
 ---
 
 # LEI Nº 1.554, DE 19 DE DEZEMBRO DE 1994.
@@ -120,4 +120,4 @@ Governador<br>
  TCSA-820       Agente de Serviços Gerais                 03         
                                                                      
  TCSA-830       Motorista                                 07         
- ------------------------------------------------------------------</pre>
+ ------------------------------------------------------------------  </pre>

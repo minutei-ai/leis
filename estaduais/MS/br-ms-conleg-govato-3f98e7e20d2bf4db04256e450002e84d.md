@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "e16eff06c0f1099dcceb0f38bd0a3b1fefbbc00b57e074fb1cf0961f07ef908f"
 coletado_em: "2026-10-22T15:32:06.000Z"
 sha256_fonte: "a1bbace8ad0ceaf006c1cf2895e70c423013c7ceaccaca4f31b3bc461d8d87ec"
-sha256_markdown: "a53f11bbef7deec5644f2549ed5f1bd8f2382c1641a87c511c76307cb8d8a60d"
+sha256_markdown: "59413cf27449c1583795e8f2ab2110df09b6bb16427cbda3c74f4f70d02332b5"
 ---
 
 # LEI Nº 715, DE 2 DE JUNHO DE 1987.
@@ -110,5 +110,5 @@ CAI-2             ASSISTENTE II                     01
 CAI-3             ASSISTENTE III                    01               
                                                                      
 CAI-4             ASSISTENTE IV                     02               
------------------------------------------------------------------
+-----------------------------------------------------------------    
 ```

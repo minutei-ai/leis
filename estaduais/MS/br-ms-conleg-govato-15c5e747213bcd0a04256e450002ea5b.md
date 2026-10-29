@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "26ebe790a2bf262633f1fccb72705a6c989e6b1148cc18f503363ee98ceab665"
 coletado_em: "2026-10-22T15:45:14.000Z"
 sha256_fonte: "ebcc183eee1adb6467771040b70cead205186d845e8578c0ce020ae8f118a867"
-sha256_markdown: "c52fd371919912b0e5a204ede4825239aab5c27e1440511b691c5a09237c7541"
+sha256_markdown: "bce3090c7b77e7f545f4bdd74773609fe254563fbf48147a3ade6cf4c898079e"
 ---
 
 # LEI Nº 63, DE 7 DE MAIO DE 1980.
@@ -81,5 +81,5 @@ DP-14    Defensor Público de
                                                                      
 DP-13    Defensor Público de      65.483     81.853         40%   
          2ª Entrância                                                
---------------------------------------------------------------------
+-------------------------------------------------------------------- 
 ```

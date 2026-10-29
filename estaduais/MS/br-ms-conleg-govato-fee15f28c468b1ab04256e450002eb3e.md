@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "0a2e9589adebed6f44e8029ae939712a1dd4309ffa4e14a1b25ecbba26ff79c4"
 coletado_em: "2026-10-22T15:26:08.000Z"
 sha256_fonte: "dea3be89002ed9484f0dcea1aecb159eadc0fbefa6644db9535c9cdefa3d6d01"
-sha256_markdown: "cca46e48668105ff1dcbd672e3493bcf7d2e18ecfac92015f1b7ab82528d45ba"
+sha256_markdown: "b16fa368acd8541c5ab1dd45efbc71115ebfb2df2a935efbdf02f7f9c06c178d"
 ---
 
 # LEI Nº 1.012, DE 8 DE DEZEMBRO DE 1989.
@@ -59,27 +59,27 @@ I - as provas sobre:<br>
 <br>
 a) Grupo Técnico de Nível Superior, inclusive Procuradoria-Geral do Estado:<br>
 <br>
-1) Português ou outra matéria específica do curso superior exigido para a categoria funcional;<br>
+1\) Português ou outra matéria específica do curso superior exigido para a categoria funcional;<br>
 <br>
 b) Grupo Magistério:<br>
 <br>
-1) Professor: Português e Matemática ou outra matéria específica do curso do Magistério;<br>
+1\) Professor: Português e Matemática ou outra matéria específica do curso do Magistério;<br>
 <br>
-2) Especialista de Educação: Português e outra matéria específica do curso superior exigido para a categoria;<br>
+2\) Especialista de Educação: Português e outra matéria específica do curso superior exigido para a categoria;<br>
 <br>
 c) Grupos Apoio Técnico e Científico e Apoio Administrativos:<br>
 <br>
-1) Português e Matemática ou outra matéria específica do curso técnico exigido para a respectiva categoria, a nível de 2º grau;<br>
+1\) Português e Matemática ou outra matéria específica do curso técnico exigido para a respectiva categoria, a nível de 2º grau;<br>
 <br>
-2) Português e Matemática a nível de 1º grau, para as categorias em que a escolaridade exigida e de 1º grau;<br>
+2\) Português e Matemática a nível de 1º grau, para as categorias em que a escolaridade exigida e de 1º grau;<br>
 <br>
 d) Grupo Transportes Oficiais e Serviços Auxiliares:<br>
 <br>
-1) Português e Matemática a nível de 1ª a 4ª séries do 1º grau ou prova de conhecimentos específicos;<br>
+1\) Português e Matemática a nível de 1ª a 4ª séries do 1º grau ou prova de conhecimentos específicos;<br>
 <br>
 e) Grupo Polícia Civil:<br>
 <br>
-1) Português e outra matéria específica do curso superior ou de 2º grau exigido para a respectiva categoria;<br>
+1\) Português e outra matéria específica do curso superior ou de 2º grau exigido para a respectiva categoria;<br>
 <br>
 II - os Títulos:<br>
 <br>
