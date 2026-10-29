@@ -1,0 +1,24 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=187210)
+
+# DECRETO Nº 63.638, DE 02 DE AGOSTO DE 2018
+
+### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS DO TIETÊ S.A., os imóveis necessários às obras de implantação da marginal na Rodovia Comendador Mário Dedini, (Rodovia do Açúcar) SP-308, entre o km 153+500m e o km 155+700m, Sul, Municípios de Piracicaba e Rio das Pedras, Comarca de Piracicaba, no trecho que especifica e dá providências correlatas_
+
+MÁRCIO FRANÇA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956 e do disposto no [Decreto n° 53.312, de 08 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),<br>
+Decreta:<br>
+**Artigo 1º -** Ficam declarados de utilidade pública, para fins de desapropriação, pela RODOVIAS DO TIETÊ S.A., empresa concessionária de serviço público, por via amigável ou judicial, os imóveis caracterizados na planta cadastral de código nº DE-SPM00308D-153.156-121-D03/001 e memoriais descritivos constantes do processo ARTESP-025.344/2017-SLT, necessários às obras de implantação da marginal na Rodovia Comendador Mário Dedini, (Rodovia do Açúcar) SP-308, entre o Km 153+500m e o km 155+700m, Sul, Municípios de Piracicaba e Rio das Pedras, Comarca de Piracicaba, com área total de 5.329,26m² (cinco mil, trezentos e vinte e nove metros quadrados e vinte e seis decímetros quadrados), dentro dos perímetros a seguir descritos, imóveis estes que constam pertencer aos proprietários, a saber:<br>
+**I -** área 1-Sul, área compreendendo os Lote nº 40, nº 41 e nº 42 do Loteamento denominado Haras Taquaral, a ser desapropriada em parte conforme planta nº DE-SPM00308D-153.156-121-D03/001, localizada no km 153+140mm, Sul, lado direito sentido Piracicaba-Rio das Pedras, Rodovia SP-308, Município de Rio das Pedras, Comarca de Piracicaba, que consta pertencer a Milton Ramos, Mariahelena Giani Ramos, Márcio Giani Ramos, Mario Bettiol, Benedita Conceição de Lima Bettiol, Claudia Giani Ramos, Benedito Elias Grer, Nelson Vale, Teresinha Ott Vale e/ou outros, que inicia no ponto “1” de coordenadas N=7.476.553,063 e E=235.034,470, sendo constituída pelos segmentos 1-2 em linha reta com azimute de 261°30'38,28” e distância de 8,000m; 2-3 em linha reta com azimute de 351°30'38,52” e distância de 149,492m; 3-4 em linha reta com azimute de 344°11'59,82” e distância de 30,009m; 4-5 em linha reta com azimute de 74°11'58,95” e distância de 8,000m; 5-6 em linha reta com azimute de 164°12'00,25” e distância de 30,520m; 6-1 em linha reta com azimute de 171°30'38,59” e distância de 150,003m, perfazendo uma área de 1.440,09m² (um mil, quatrocentos e quarenta metros quadrados e nove decímetros quadrados;<br>
+**II -** área 2-Sul, área localizada no km 154+400m-Sul, lado direito sentido Piracicaba-Rio das Pedras, Rodovia SP-308 (Rodovia do Açúcar), a ser desapropriada em parte conforme planta nº DE-SPM00308D-153.156-121-D03/001, Município e Comarca de Piracicaba, que consta pertencer a TCMEP2-Empreendimentos Imobiliários SPE Ltda. e/ou outros, que inicia no ponto “1” de coordenadas N=7.477.645,975 e E=234.636,039, sendo constituída pelos segmentos 1-2 em linha reta com azimute de 241°39'37,21” e distância de 15,000m; 2-3 em linha reta com azimute de 331°39'36,81” e distância de 259,277m; 3-4 em linha reta com azimute de 61°39' 37,21” e distância de 15,000m; 4-1 em linha reta com azimute de 151°39'36,81” e distância de 259,277m, perfazendo uma área de 3.889,17m² (três mil, oitocentos e oitenta e nove metros quadrados e dezessete decímetros quadrados).<br>
+**Parágrafo único -** Ficam excluídas as propriedades que estiverem dentro da área abrangida por este decreto, pertencentes às pessoas jurídicas de Direito Público.<br>
+**Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.<br>
+**Artigo 3º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da Concessionária Rodovias do Tietê S.A.<br>
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 2 de agosto de 2018<br>
+MÁRCIO FRANÇA<br>
+Mário Mondolfo<br>
+Secretário de Logística e Transportes<br>
+Claudio Valverde Santos<br>
+Secretário-Chefe da Casa Civil<br>
+Saulo de Castro Abreu Filho<br>
+Secretário de Governo<br>
+Publicado na Secretaria de Governo, aos 2 de agosto de 2018.

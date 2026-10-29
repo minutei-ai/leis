@@ -1,0 +1,17 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=20735)
+
+# LEI Nº 7.155, DE 30 DE ABRIL DE 1991
+
+### _Dá denominação de "Maria Gonçalves da Motta" à EEPG de Pirajú, em Pirajú._
+
+O GOVERNADOR DO ESTADO DE SãO PAULO:<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+**Artigo 1.º -** Passa a denominar-se "Maria Gonçalves da Motta" a Escola Estadual de 1.º Grau de Pirajú, em Pirajú.<br>
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 30 de abril de 1991.<br>
+LUIZ ANTONIO FLEURY FILHO<br>
+Fernando Gomes de Morais<br>
+Secretário da Educação<br>
+Cláudio Ferraz de Alvarenga<br>
+Secretário do Governo<br>
+Publicada na Assessoria Técnico-Legislativa, aos 30 de abril de 1991.

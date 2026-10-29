@@ -1,0 +1,17 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=17732)
+
+# LEI Nº 7.973, DE 23 DE JULHO DE 1992
+
+### _Dá denominação de "Ricardo Campolim de Almeida Neto" à EEPG(R) do Bairro Itaoca, em Itapeva._
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+**Artigo 1.º -** Passa a denominar-se "Ricardo Campolim de Almeida Neto" a Escola Estadual de 1.º Grau Rural) do Bairro Itaoca, em Itapeva.<br>
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 23 de julho de 1992.<br>
+LUIZ ANTONIO FLEURY FILHO<br>
+Fernando Gomes de Morais<br>
+Secretário da Educação<br>
+Cláudio Ferraz de Alvarenga<br>
+Secretário do Governo<br>
+Publicada na Assessoria Técnico-Legislativa, aos 23 de julho de 1992.

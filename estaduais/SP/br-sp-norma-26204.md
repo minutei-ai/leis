@@ -1,0 +1,22 @@
+[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=26204)
+
+# LEI Nº 5.670, DE 14 DE MAIO DE 1987
+
+### _Autoriza a Fazenda do Estado a alienar, por doação, faixas de terreno ao Município de Nova Odessa_
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+**Artigo 1.º -** Fica a Fazenda do Estado autorizada a alienar, por doação, ao Município de Nova Odessa, 2 (duas) faixas de terreno, com 20.566,17m² e 618,67m² de área, respectivamente, e área global de 21.184,84m², destinadas ao alargamento da estrada que liga Nova Odessa a Americana, caracterizadas na Planta 031, constante do Processo S.A.A. n.° 46.418/84, assim descritas e confrontadas:<br>
+**I.** Área A - tem início no ponto "0", situado no cruzamento da Avenida Carlos Botelho com a Rua Heitor Penteado. Desse ponto, segue pelo alinhamento da Rua Heitor Penteado , por uma distância de 81,12m (oitenta e um metros e doze centimettos) até o ponto 1; nesse ponto, deflete à direita, e, em curva, segue confrontando com o Instituto de Zootecnia por uma distância de 107m (cento e sete metros), até o ponto 2; desse ponto segue em linha reta, por uma distância de 76m (setenta e seis metros) até o ponto 3; desse ponto, segue em curva à esquerda, por uma distância de 89,05m (oitenta e nove metros e cinco centímetros) até o ponto 4; nesse ponto, deflete à direita, e, por uma distância de 2m (dois metros), segue até atingir o ponto 5; nesse ponto, deflete à esquerda e segue em curva, por uma distância de 224,43m (duzentos e vinte e quatro metros e quarenta e três centímetros), até atingir o ponto 6; desse ponto, segue em reta por uma distância de 513,40m (quinhentos e treze metros e quarenta centímetros) até atingir o ponto 7; desse ponto, deflete à esquerda e segue em reta por uma distância de 212,82m (duzentos e doze metros e oitenta e dois centímetros), até atingir o ponto 8, situado no alinhamento da Avenida Brasil (no trevo dessa Avenida com a estrada que liga Nova Odessa a Americana), confrontando em toda essa extensão, com o Instituto de Zootecnia; desse ponto, deflete à esquerda e segue pela curva do trevo acima mencionado, por uma distância de 211,45m (duzentos e onze metros e quarenta e cinco centímetros), até atingir o ponto 9; desse ponto, segue pelo alinhamento da referida estrada, no sentido Nova Odessa, por uma distância de 605,75m (seiscentos e cinco metros e setenta e cinco centímetros), até atingir o ponto 10; desse ponto, segue em curva, à direita, pelo alinhamento da mesma estrada, por uma distância de 145,75m (cento e quarenta e cinco metros e setenta e cinco centímetros), até o ponto 11; desse ponto, deflete à direita e segue pelo mesmo alinhamento, por uma distância de 298,07m (duzentos e noventa e oito metros e sete centímetros), até o ponto "0", onde teve início.<br>
+**II.** Área B - tem início no ponto "0", situado na curva que forma o trevo entre a estrada que liga Nova Odessa a Americana, e a Avenida Brasil. Desse ponto, segue em reta confrontando com o Instituto de Zootecnia, por uma distância de 88,50m (oitenta e oito metros e cinquenta centímetros), até o ponto 1; nesse ponto, deflete à direita e segue em curva pelo alinhamento do referido trevo, por uma distância de 18,25m (dezoito metros e vinte e cinco centímetros), até o ponto 2; desse ponto, continua em curva pelo mesmo alinhamento, por uma distância de 64,48m (sessenta e quatro metros e quarenta e oito centímetros), até o ponto 3; desse ponto, continua pelo alinhamento acima mencionado, em curva, por uma distância de 9,25m (nove metros e vinte e cinco centímetros) até o ponto "0", onde teve início.<br>
+**Artigo 2.º -** Da escritura deverão constar cláusulas, termos e condições que assegurem a efetiva utilização do imóvel para o fim a que se destina e que impeçam a sua transferência a qualquer título, estipulando-se que, em caso de inadimplemento, será o contrato rescindido, independentemente de indenização por benfeitorias realizadas.<br>
+**Artigo 3.° -** Esta lei entrará em vigor na data de sua publicação.<br>
+Palácio dos Bandeirantes, 14 de maio de 1987.<br>
+ORESTES QUÉRCIA<br>
+Mario Sérgio Duarte Garcia<br>
+Secretário da Justiça<br>
+Antonio Tidei de Lima<br>
+Secretário da Agricultura<br>
+Antonio Carlos Mesquita<br>
+Secretário do Governo<br>
+Publicada na Assessoria Técnico-Legislativa, aos 14 de maio de 1987.
